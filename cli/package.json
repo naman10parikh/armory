@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Armory — where agents gear up. Install harness components (MCPs, skills, subagents, rules, hooks) into any coding harness.",
   "type": "module",
-  "bin": { "armory": "./dist/index.js", "engram": "./dist/index.js" },
+  "bin": { "armory": "dist/index.js", "engram": "dist/index.js" },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": ["dist/", "README.md", "LICENSE"],
