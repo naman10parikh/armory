@@ -1,0 +1,30 @@
+---
+name: cookbook-audit
+type: skills
+description: >
+  Audit an Anthropic Cookbook notebook based on a rubric. Use whenever a notebook review or audit is requested.
+source_repo: anthropics/claude-cookbook
+source_url: https://github.com/anthropics/claude-cookbook/blob/main/.claude/skills/cookbook-audit/SKILL.md
+license: unknown
+cli_compat: [claude]
+maturity: beta
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [claude-cookbook, skills, claude]
+---
+## What it is
+Audit an Anthropic Cookbook notebook based on a rubric. Use whenever a notebook review or audit is requested.
+
+## When to use it
+Audit an Anthropic Cookbook notebook based on a rubric. Use whenever a notebook review or audit is requested.
+
+## How to install / invoke
+```bash
+# Download the file into your project
+curl -sL https://github.com/anthropics/claude-cookbook/raw/main/.claude/skills/cookbook-audit/SKILL.md -o SKILL.md
+```
+
+## Notes
+Extracted from [`anthropics/claude-cookbook`](https://github.com/anthropics/claude-cookbook/blob/main/.claude/skills/cookbook-audit/SKILL.md). Place SKILL.md in your .claude/skills/<name>/ directory to invoke as a slash command. Pending verify -> promote.

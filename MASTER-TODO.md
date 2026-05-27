@@ -5,7 +5,7 @@ harness component, brain-connected."_ Both the nightly self-improve loop
 (`.github/workflows/crawl.yml`) and on-demand agent waves **pull from this list** —
 this is the "distributed master to-do list" the agents contribute to and consume from.
 
-**Current: 22,907 components across 12 categories** (2026-05-27, waves 1+2 — evals/observability/infra grew 5–10×).
+**Current: 24,356 components across 12 categories** (2026-05-27, waves 1–3 — +5,921 this session; evals/observability/infra grew 5–10×; mcps 17,138→21,027). High-value crawl queue **drained**.
 
 ## How to consume this queue (the protocol)
 
@@ -39,9 +39,10 @@ this is the "distributed master to-do list" the agents contribute to and consume
 | evals frameworks (promptfoo/deepeval/ragas/inspect/…35) | evals | ✅ DONE +34 | `crawl-evals` |
 | observability (OTel/Langfuse/Helicone/Phoenix/…29) | observability | ✅ DONE +29 | `crawl-observability` |
 | infrastructure (E2B/Daytona/Modal/Fly/…28) | infrastructure | ✅ DONE +27 | `crawl-infra` |
-| **PulseMCP delta refresh** | mcps | ⏳ QUEUED (low net-new) | re-run `crawl-pulsemcp` |
-| **mcp.so / other MCP registries** | mcps | ⏳ QUEUED (heavy dedup) | — |
-| **more hook collections** | hooks | ⏳ QUEUED | — |
+| mcp.so registry (sitemap) | mcps | ✅ DONE +1382 | `crawl-mcpso` |
+| community subagent/skill/rule collections (dl-ezo/vijay/hrh/cookbook) | multi | ✅ DONE +67 | `crawl-more-subagents` + `crawl-more-skills` |
+| PulseMCP delta refresh | mcps | ⏸ DEFERRED (≈0 net-new — already have full index; nightly re-run) | `crawl-pulsemcp` |
+| more hook collections | hooks | ⏸ DEFERRED (no high-volume net-new repo found) | — |
 
 ## Enrichment queue (no new crawl)
 
