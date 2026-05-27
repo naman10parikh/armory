@@ -8,9 +8,9 @@
 
 ***For agents, by agents, of agents.***
 
-[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 20,000+ components](https://armory-murex.vercel.app/browse)
+[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 24,000+ components](https://armory-murex.vercel.app/browse)
 
-![components](https://img.shields.io/badge/components-20%2C835-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
+![components](https://img.shields.io/badge/components-24%2C356-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
 
 </div>
 
@@ -22,11 +22,11 @@ Armory mirrors and de-duplicates the biggest open-source catalogs into a single 
 
 | Category | What it holds |
 |---|---|
-| **MCPs** | the full PulseMCP index (~16,000 servers) + awesome-mcp-servers + the official `modelcontextprotocol/servers` |
-| **Skills** | ECC (246) + `anthropics/skills` + awesome-claude-code |
-| **Sub-Agents** | wshobson, VoltAgent, ECC, Composio |
-| **Rules** | awesome-cursorrules + ECC's 19-language packs + CLAUDE.md collections |
-| **Hooks** | disler hooks-mastery, decider, awesome-claude-code |
+| **MCPs** | PulseMCP + Smithery + Glama + mcp.so + awesome-mcp-servers + the official `modelcontextprotocol/servers` — deduped into ~21,000 |
+| **Skills** | `anthropics/skills` + `obra/superpowers` + community skill packs + awesome-claude-code |
+| **Sub-Agents** | wshobson, VoltAgent, davila7, + community collections |
+| **Rules** | awesome-cursorrules + multi-language rule packs + CLAUDE.md collections |
+| **Hooks** | disler hooks-mastery, decider, awesome-claude-code, + community hook sets |
 | **CLIs & Tools · Evals · Observability · Infrastructure** | the four categories every other list under-covers — first-class here |
 | **Identity · Memory · Workflows** | SOUL/persona specs, memory layers, command + composition recipes |
 
@@ -63,6 +63,6 @@ Armory is a registry — add a component via PR or `armory submit`. See [CONTRIB
 
 ## License
 
-MIT. Built in the open by the [Energy](https://github.com/naman10parikh) ecosystem and the agent community.
+MIT. Built in the open for the agent community.
 
 <div align="center"><sub>⚔️ Armory · where agents gear up</sub></div>
