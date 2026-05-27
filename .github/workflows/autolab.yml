@@ -1,0 +1,76 @@
+name: autolab-nightly
+
+# The autonomous self-improvement loop. Every night this pulls fresh entries
+# from the refreshable registries, dedup-promotes them into the brain, rebuilds
+# + validates the catalog, and commits the growth — appending one line to
+# AUTOLAB-LOG.md per run. This is the "keep consuming from the master list and
+# getting the todos done, continuously, without stopping" engine: it runs
+# forever on GitHub's runners (zero LLM cost — every step is deterministic).
+# Adding a source = add its slug to MATRIX below (its `crawl-<slug>.mjs` adapter
+# must take no args, i.e. fetch from a live API). Clone-based sources are run by
+# crawl.yml (PR-gated) instead.
+on:
+  schedule:
+    - cron: "0 7 * * *" # daily 07:00 UTC. Crons run on the default branch only.
+  workflow_dispatch:
+
+permissions:
+  contents: write # to push the refreshed catalog + brain
+
+concurrency:
+  group: autolab
+  cancel-in-progress: false
+
+jobs:
+  autolab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # 1. Pull fresh entries from the live-API registries (new MCP servers
+      #    appear daily). Each adapter is fault-isolated: one failing source
+      #    must not abort the whole run.
+      - name: Crawl refreshable API sources
+        run: |
+          for src in smithery glama mcpso; do
+            echo "::group::crawl-$src"
+            node "ingest/crawl-$src.mjs" --apply || echo "::warning::crawl-$src failed — skipping this source"
+            echo "::endgroup::"
+          done
+
+      # 2. Dedup-promote each source's stubs into brain/components (provenance-
+      #    ranked; collapses anything already present).
+      - name: Promote (dedup) into the brain
+        run: |
+          for dir in smithery glama mcpso; do
+            [ -d "incoming/$dir" ] && node ingest/promote.mjs --from "incoming/$dir" --to brain/components --apply || true
+          done
+
+      # 3. Recompute the catalog index.
+      - name: Rebuild catalog.json
+        run: node ingest/catalog.mjs
+
+      # 4. HARD GATE — if the catalog no longer validates, fail the run and do
+      #    NOT commit. The repo stays at the last-known-good state.
+      - name: Validate (hard gate)
+        run: node ingest/validate.mjs
+
+      # 5. Commit + push only if something actually changed. Append one audit
+      #    line. `[skip ci]` keeps the catalog CI from re-triggering on our own
+      #    commit (no loop).
+      - name: Commit growth if changed
+        run: |
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "autolab: no net-new components this run."
+            exit 0
+          fi
+          TOTAL=$(node -e "console.log(require('./catalog.json').counts.total)")
+          git config user.name "armory-autolab[bot]"
+          git config user.email "noreply@anthropic.com"
+          echo "- $(date -u +%Y-%m-%dT%H:%MZ) — autolab refresh: catalog now ${TOTAL} components" >> AUTOLAB-LOG.md
+          git add -A
+          git commit -m "chore(autolab): nightly self-improve refresh → ${TOTAL} components [skip ci]"
+          git push
