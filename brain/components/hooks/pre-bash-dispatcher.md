@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [pre-config-protection, pre-edit-write-gateguard-fact-force]
 tags: [ecc, hook, PreToolUse]
 ---
 ## What it is

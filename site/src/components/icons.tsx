@@ -96,6 +96,15 @@ export function CheckIcon(p: IconProps) {
   );
 }
 
+export function TerminalIcon(p: IconProps) {
+  return (
+    <Svg {...p}>
+      <rect x="3" y="4" width="18" height="16" rx="2" />
+      <path d="m7 9 3 3-3 3M13 15h4" />
+    </Svg>
+  );
+}
+
 export function GraphIcon(p: IconProps) {
   return (
     <Svg {...p}>

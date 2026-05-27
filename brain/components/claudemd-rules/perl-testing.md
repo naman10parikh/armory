@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [perl-coding-style, perl-hooks]
 tags: [ecc, rules, perl]
 ---
 ## What it is

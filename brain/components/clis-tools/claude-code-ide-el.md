@@ -9,7 +9,7 @@ license: GPL-3.0
 cli_compat: [claude]
 maturity: beta
 verified_at: 2026-05-26
-related: []
+related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 ---
 ## What it is

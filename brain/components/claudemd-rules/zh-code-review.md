@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [zh-agents, zh-coding-style]
 tags: [ecc, rules, zh]
 ---
 ## What it is

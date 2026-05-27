@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [ai-agent-specialist, android-jetpack-compose-cursorrules-prompt-file]
 tags: [cursor-rules, claude-md-files, rules]
 ---
 ## What it is

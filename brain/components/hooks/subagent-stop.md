@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [notification, permission-request]
 tags: [hook, disler]
 ---
 ## What it is

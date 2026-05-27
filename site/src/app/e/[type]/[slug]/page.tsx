@@ -9,7 +9,7 @@ import {
   readEngramBody,
 } from "@/lib/catalog";
 import { buildNeighborhood } from "@/lib/graph";
-import { CATEGORY_LABEL, type Engram } from "@/lib/types";
+import type { Engram } from "@/lib/types";
 import { CliChip, MaturityBadge, TagChip, TypePill } from "@/components/badges";
 import { EngramCard } from "@/components/engram-card";
 import { InstallStrip } from "@/components/install-strip";
@@ -26,10 +26,11 @@ interface RouteParams {
   slug: string;
 }
 
-// PERFORMANCE: do NOT statically pre-render every engram — the catalog grows to
-// thousands and that would blow up build time. Pre-render only the top ~200 (by
-// synapse degree + stars), and serve the long tail on-demand via ISR.
-const PRERENDER_CAP = 200;
+// PERFORMANCE: do NOT statically pre-render every engram — the catalog holds
+// 18,000+ engrams and pre-rendering all of them hangs the build. Pre-render only
+// a small cap (the top 50 by synapse degree + stars); the long tail is served
+// on-demand via ISR (`dynamicParams = true`).
+const PRERENDER_CAP = 50;
 export const dynamicParams = true;
 export const revalidate = 3600; // re-validate on-demand pages hourly
 
@@ -112,9 +113,9 @@ export default async function EngramDetailPage({
             </p>
           </header>
 
-          {/* Install strip */}
+          {/* Install strip — THE headline: one-click install per harness */}
           <div className="mt-8">
-            <InstallStrip slug={engram.name} cliCompat={engram.cli_compat} />
+            <InstallStrip engram={engram} />
           </div>
 
           {/* Markdown body from the brain vault */}

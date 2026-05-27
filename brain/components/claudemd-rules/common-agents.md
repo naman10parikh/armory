@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [common-code-review, common-development-workflow]
 tags: [ecc, rules, common]
 ---
 ## What it is

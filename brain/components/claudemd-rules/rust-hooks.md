@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [rust-coding-style, rust-patterns]
 tags: [ecc, rules, rust]
 ---
 ## What it is

@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [angular-hooks, angular-patterns]
 tags: [ecc, rules, angular]
 ---
 ## What it is

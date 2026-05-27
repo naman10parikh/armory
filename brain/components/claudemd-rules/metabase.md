@@ -9,7 +9,7 @@ license: NOASSERTION
 cli_compat: [claude]
 maturity: beta
 verified_at: 2026-05-26
-related: []
+related: [avs-vibe-developer-guide, claude-code-mcp-enhanced]
 tags: [claude-code, claude-md-files]
 ---
 ## What it is

@@ -179,8 +179,8 @@ export default function HomePage() {
             Search and install engrams without leaving your agent&apos;s shell.
           </p>
           <div className="mt-7 space-y-3 text-left">
-            <CopyCommand command="npx engram search browser automation" />
-            <CopyCommand command="npx engram install playwright-mcp" />
+            <CopyCommand command="armory search browser automation" />
+            <CopyCommand command="armory install playwright-mcp --cli claude" />
           </div>
         </Reveal>
       </section>

@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [angular-architect, cpp-pro]
 tags: [language-specialists, subagent]
 ---
 ## What it is

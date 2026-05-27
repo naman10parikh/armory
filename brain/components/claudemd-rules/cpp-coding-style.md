@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [cpp-hooks, cpp-patterns]
 tags: [ecc, rules, cpp]
 ---
 ## What it is

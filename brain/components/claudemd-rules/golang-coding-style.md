@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [golang-hooks, golang-patterns]
 tags: [ecc, rules, golang]
 ---
 ## What it is

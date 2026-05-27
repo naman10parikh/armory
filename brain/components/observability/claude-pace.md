@@ -9,7 +9,7 @@ license: MIT
 cli_compat: [claude]
 maturity: beta
 verified_at: 2026-05-26
-related: []
+related: [ccometixline-claude-code-statusline, claude-powerline]
 tags: [claude-code, status-lines]
 ---
 ## What it is

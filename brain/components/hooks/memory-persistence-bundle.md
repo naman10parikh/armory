@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [post-bash-dispatcher, post-ecc-context-monitor]
 tags: [ecc, hook, memory-persistence]
 ---
 ## What it is

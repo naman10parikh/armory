@@ -9,7 +9,7 @@ license: Apache-2.0
 cli_compat: [claude]
 maturity: beta
 verified_at: 2026-05-26
-related: []
+related: [claude-esp, claude-tmux]
 tags: [claude-code, alternative-clients]
 ---
 ## What it is

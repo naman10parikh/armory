@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [post-ecc-context-monitor, post-ecc-metrics-bridge]
 tags: [ecc, hook, PostToolUse]
 ---
 ## What it is

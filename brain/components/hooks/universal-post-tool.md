@@ -11,7 +11,7 @@ maturity: beta
 stars: null
 eval_score: null
 verified_at: 2026-05-26
-related: []
+related: [check-package-age, portable-quality-validator]
 tags: [hook, decider]
 ---
 ## What it is

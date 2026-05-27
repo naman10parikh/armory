@@ -9,7 +9,7 @@ license: MIT
 cli_compat: [claude]
 maturity: beta
 verified_at: 2026-05-26
-related: []
+related: [britfix, cc-notify]
 tags: [claude-code, hooks]
 ---
 ## What it is
