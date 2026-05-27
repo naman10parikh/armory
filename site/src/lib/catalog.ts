@@ -3,14 +3,25 @@
 // never imported into a client component. Read-only — the site never writes
 // to brain/ or catalog.json.
 import "server-only";
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import type { Catalog, Engram, EngramType } from "./types";
 
-// site/ lives at <repo>/site, so the repo root is one level up.
-const REPO_ROOT = join(process.cwd(), "..");
-const CATALOG_PATH = join(REPO_ROOT, "catalog.json");
-const BRAIN_DIR = join(REPO_ROOT, "brain");
+// The catalog + brain markdown are authored OUTSIDE site/ (repo root + the
+// Obsidian vault). A Vercel build rooted at site/ can't reliably reach parent
+// dirs, and ISR long-tail pages render inside a serverless function that only
+// ships traced files. To work in BOTH local dev AND the deployed/serverless
+// env, `pnpm prebuild` copies catalog.json + brain/ INTO site/, and we resolve
+// the local copy first (present in prod), falling back to ../ (present in dev
+// before prebuild runs). next.config.mjs traces the local copies into the
+// function via outputFileTracingIncludes. Read-only — the site never writes.
+const CWD = process.cwd();
+const CATALOG_PATH = existsSync(join(CWD, "catalog.json"))
+  ? join(CWD, "catalog.json")
+  : join(CWD, "..", "catalog.json");
+const BRAIN_DIR = existsSync(join(CWD, "brain"))
+  ? join(CWD, "brain")
+  : join(CWD, "..", "brain");
 
 let cached: Catalog | null = null;
 

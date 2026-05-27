@@ -1,0 +1,5 @@
+# Vendored at build time by scripts/copy-data.mjs (prebuild). Generated from
+# the repo-root catalog.json + brain/ — do not commit (~86MB, derived data).
+/catalog.json
+/brain/
+.vercel

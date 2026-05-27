@@ -5,6 +5,7 @@
   "description": "The agent-native brain — search site over the Engram catalog.",
   "type": "module",
   "scripts": {
+    "prebuild": "node scripts/copy-data.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

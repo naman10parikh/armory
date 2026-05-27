@@ -1,0 +1,9 @@
+# Vercel upload manifest. When present, Vercel uses THIS instead of .gitignore,
+# so the vendored catalog.json + brain/ (gitignored as derived data) DO upload —
+# they're required by the build and the ISR runtime, and the parent-dir source
+# is not part of the site/ deploy root.
+node_modules
+.next
+.vercel
+*.log
+.DS_Store
