@@ -44,11 +44,11 @@ Curated lists get starred and forgotten in a browser tab. Armory is built to be 
 ## Gear up — the CLI is a package manager for harnesses
 
 ```bash
-npm i -g @naman10parikh/armory                  # install once — the command is `armory`
+npm i -g @namanparikh/armory                  # install once — the command is `armory`
 armory search "browser automation"              # rank across ~17,000 components
 armory install playwright-mcp                   # fetch + wire it into THIS project's harness
 armory install code-reviewer --cli cursor       # …or target Cursor / Codex / OpenCode / Gemini
-# no global install? one-off:  npx @naman10parikh/armory search "…"
+# no global install? one-off:  npx @namanparikh/armory search "…"
 ```
 
 `armory install` auto-detects your harness (`.claude/`, `.cursor/`, `.codex/`, `.opencode/`, `.gemini/`), fetches the component from its source repo, and installs it the right way for that CLI — MCPs into the MCP config, skills into the skills dir, sub-agents/hooks/rules/commands into their slots. One command, any harness, any component type.

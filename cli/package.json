@@ -1,5 +1,5 @@
 {
-  "name": "@naman10parikh/armory",
+  "name": "@namanparikh/armory",
   "version": "0.1.0",
   "description": "Armory — where agents gear up. Install harness components (MCPs, skills, subagents, rules, hooks) into any coding harness.",
   "type": "module",
