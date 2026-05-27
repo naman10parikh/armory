@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "armory": {
+      "command": "npx",
+      "args": ["-y", "armory-mcp"]
+    }
+  },
+  "context": {
+    "paths": [
+      "./components/skills/",
+      "./armory-skill/"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mcp": {
+    "armory": {
+      "command": "npx",
+      "args": ["-y", "armory-mcp"]
+    }
+  },
+  "components": "./components/",
+  "skills": [
+    "./components/skills/",
+    "./armory-skill/"
+  ],
+  "commands": [
+    "./components/commands/"
+  ],
+  "notes": "Armory v0.2.0 — aggregator-of-aggregators. 24,000+ cataloged components via armory-mcp + 2,546 vendored in components/. See PLUGIN.md for install instructions."
+}

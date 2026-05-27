@@ -53,6 +53,29 @@ armory install code-reviewer --cli cursor       # …or target Cursor / Codex / 
 
 `armory install` auto-detects your harness (`.claude/`, `.cursor/`, `.codex/`, `.opencode/`, `.gemini/`), fetches the component from its source repo, and installs it the right way for that CLI — MCPs into the MCP config, skills into the skills dir, sub-agents/hooks/rules/commands into their slots. One command, any harness, any component type.
 
+## Install Armory itself as a plugin — one step, any harness
+
+Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 24,000+ components — and the 2,546 vendored skills / agents / commands are right there.
+
+| Harness | Install |
+|---|---|
+| **Claude Code** | `claude plugin marketplace add naman10parikh/armory && claude plugin install armory@armory` |
+| **Codex** | `codex plugin marketplace add naman10parikh/armory` |
+| **OpenCode** | add `armory-mcp` to `opencode.json` — see [PLUGIN.md](./PLUGIN.md) |
+| **Gemini CLI** | add `armory-mcp` to `.gemini/settings.json` |
+| **Hermes** | `hermes plugin add naman10parikh/armory` |
+| **Anything** | `bash install.sh` (auto-detects the harness) |
+
+The plugin wires in the **Armory MCP server** (`armory-mcp` — live search/install at runtime) + the `armory` skill. Full per-harness commands in [PLUGIN.md](./PLUGIN.md); Armory's own harness vs. the catalog is documented in [HARNESS.md](./HARNESS.md).
+
+## The actual gear lives here — not just links
+
+The catalog isn't only metadata. The **real component files** are vendored in:
+
+- `components/{skills,agents,commands,hooks,rules}/` — 2,546 actual files (content verbatim + provenance header).
+- Harness-native drops: `.claude/{skills,agents,commands,hooks}`, `.cursor/rules/` — ready to use as-is.
+- `brain/` stays the metadata knowledge-graph (source of truth). MCP servers are cataloged as install-specs in `catalog.json` (the servers themselves run externally).
+
 ## Open it as a brain
 
 `brain/` is an **Obsidian vault** — markdown + frontmatter + `[[wikilinks]]`. Open the folder in Obsidian and explore the whole graph; the `related:` edges are the connections between gear. One source of truth → the site, the MCP server, and the CLI are all generated from it (counts computed, never hand-typed).

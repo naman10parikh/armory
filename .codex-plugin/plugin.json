@@ -1,0 +1,35 @@
+{
+  "name": "armory",
+  "version": "0.2.0",
+  "description": "Armory — aggregator-of-aggregators registry for Codex. Bundles the Armory MCP server (search + install across 24,000+ components) and 2,546 vendored skills, commands, hooks, and agents for TDD, security, code review, browser automation, and every other harness pattern.",
+  "author": {
+    "name": "Naman Parikh",
+    "email": "naman10parikh@gmail.com",
+    "url": "https://x.com/naman10parikh"
+  },
+  "homepage": "https://armory-murex.vercel.app",
+  "repository": "https://github.com/naman10parikh/armory",
+  "license": "MIT",
+  "keywords": ["codex", "armory", "registry", "mcp", "skills", "agents", "hooks", "aggregator", "workflow", "automation"],
+  "skills": "./components/skills/",
+  "mcpServers": {
+    "armory": {
+      "command": "npx",
+      "args": ["-y", "armory-mcp"]
+    }
+  },
+  "interface": {
+    "displayName": "Armory",
+    "shortDescription": "24,000+ harness components + the Armory MCP so your agent can search and install any of them.",
+    "longDescription": "Armory is the aggregator-of-aggregators for agent harness components. It packages the Armory MCP server (search_components, get_component, submit_component over stdio), 900 vendored skills, 500 commands, 804 sub-agents, 86 hooks, 256 rules, and the armory skill that teaches agents when and how to reach into the registry. Works across Claude Code, Codex, OpenCode, Gemini CLI, and Hermes.",
+    "developerName": "Naman Parikh",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://armory-murex.vercel.app",
+    "defaultPrompt": [
+      "Use the armory skill to find and install harness components instead of hand-rolling them.",
+      "Call search_components to search 24,000+ MCPs, skills, agents, hooks, rules, and commands.",
+      "Use armory install <name> to wire any component into the current harness automatically."
+    ]
+  }
+}

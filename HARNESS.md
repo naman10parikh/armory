@@ -11,7 +11,7 @@ Install these to give **your** agent the ability to search + pull from the whole
 | **Armory MCP server** | `armory-mcp/` | `search_components` / `get_component` / `submit_component` over stdio (pkg `armory-mcp`) |
 | **Armory CLI** | `cli/` | `armory search` / `armory install` (pkg `@namanparikh/armory`) |
 | **Armory skill** | `armory-skill/` | the `armory` skill — teaches an agent *when + how* to reach into the registry |
-| **Armory plugin** | `armory-plugin/` | one-install Claude Code plugin bundling the MCP + skill + `/armory` |
+| **Armory plugin** | `.claude-plugin/` · `.codex-plugin/` · `.hermes-plugin/` · `opencode.json` · `.gemini/settings.json` · `install.sh` | one-install plugin for **every** harness (Claude Code / Codex / OpenCode / Gemini / Hermes) bundling the MCP + skill + components — see [PLUGIN.md](./PLUGIN.md) |
 
 There is exactly **one** Armory MCP server (`armory-mcp/`). It is **not** one of the cataloged MCPs.
 

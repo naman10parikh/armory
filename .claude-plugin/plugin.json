@@ -1,0 +1,40 @@
+{
+  "name": "armory",
+  "version": "0.2.0",
+  "description": "Armory — aggregator-of-aggregators. Bundles the Armory MCP server (search + install across 24,000+ components) plus 2,546 vendored skills, agents, commands, and hooks so any agent can gear up in one install.",
+  "author": {
+    "name": "Naman Parikh",
+    "url": "https://x.com/naman10parikh"
+  },
+  "homepage": "https://armory-murex.vercel.app",
+  "repository": "https://github.com/naman10parikh/armory",
+  "license": "MIT",
+  "keywords": [
+    "armory",
+    "registry",
+    "mcp",
+    "skills",
+    "agents",
+    "hooks",
+    "commands",
+    "harness",
+    "agent-native",
+    "aggregator",
+    "claude-code",
+    "workflow",
+    "automation"
+  ],
+  "mcpServers": {
+    "armory": {
+      "command": "npx",
+      "args": ["-y", "armory-mcp"]
+    }
+  },
+  "skills": [
+    "./components/skills/",
+    "./armory-skill/"
+  ],
+  "commands": [
+    "./components/commands/"
+  ]
+}

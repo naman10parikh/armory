@@ -1,0 +1,47 @@
+{
+  "name": "armory",
+  "owner": {
+    "name": "Naman Parikh",
+    "email": "naman10parikh@gmail.com"
+  },
+  "metadata": {
+    "description": "Armory — aggregator-of-aggregators registry of 24,000+ harness components"
+  },
+  "plugins": [
+    {
+      "name": "armory",
+      "source": "./",
+      "description": "Armory — aggregator-of-aggregators. One install gives your agent the Armory MCP server (search + install across 24,000+ components spanning MCPs, skills, sub-agents, hooks, rules, and commands) plus 2,546 vendored components ready to use immediately. Works with Claude Code, Codex, OpenCode, Gemini CLI, and Hermes.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Naman Parikh",
+        "email": "naman10parikh@gmail.com"
+      },
+      "homepage": "https://armory-murex.vercel.app",
+      "repository": "https://github.com/naman10parikh/armory",
+      "license": "MIT",
+      "keywords": [
+        "armory",
+        "registry",
+        "mcp",
+        "skills",
+        "agents",
+        "hooks",
+        "commands",
+        "harness",
+        "agent-native",
+        "aggregator"
+      ],
+      "category": "workflow",
+      "tags": [
+        "registry",
+        "mcp",
+        "skills",
+        "aggregator",
+        "agent-native",
+        "automation"
+      ],
+      "strict": false
+    }
+  ]
+}

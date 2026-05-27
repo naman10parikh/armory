@@ -1,0 +1,23 @@
+{
+  "name": "armory",
+  "version": "0.2.0",
+  "description": "Armory — aggregator-of-aggregators registry for Hermes. Bundles the Armory MCP server (search + install across 24,000+ components) and 2,546 vendored skills, commands, hooks, and agents.",
+  "author": {
+    "name": "Naman Parikh",
+    "email": "naman10parikh@gmail.com",
+    "url": "https://x.com/naman10parikh"
+  },
+  "homepage": "https://armory-murex.vercel.app",
+  "repository": "https://github.com/naman10parikh/armory",
+  "license": "MIT",
+  "keywords": ["hermes", "armory", "registry", "mcp", "skills", "agents", "hooks", "aggregator"],
+  "mcpServers": {
+    "armory": {
+      "command": "npx",
+      "args": ["-y", "armory-mcp"]
+    }
+  },
+  "skills": "./components/skills/",
+  "commands": "./components/commands/",
+  "agents": "./components/agents/"
+}
