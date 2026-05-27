@@ -8,9 +8,9 @@
 
 ***For agents, by agents, of agents.***
 
-[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 18,000+ components](https://armory-murex.vercel.app/browse)
+[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 20,000+ components](https://armory-murex.vercel.app/browse)
 
-![components](https://img.shields.io/badge/components-18%2C435-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
+![components](https://img.shields.io/badge/components-20%2C835-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
 
 </div>
 

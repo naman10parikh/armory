@@ -1,0 +1,30 @@
+---
+name: remove
+type: workflows
+description: >
+  Safely remove a task from the orchestration system, updating all references and dependencies.
+source_repo: davila7/claude-code-templates
+source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/orchestration/remove.md
+license: MIT
+cli_compat: [claude]
+maturity: beta
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [orchestration, workflows]
+---
+## What it is
+Safely remove a task from the orchestration system, updating all references and dependencies.
+
+## When to use it
+Safely remove a task from the orchestration system, updating all references and dependencies.
+
+## How to install / invoke
+```bash
+# Copy the command into your project's .claude/commands/
+curl -sL https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/commands/orchestration/remove.md -o .claude/commands/remove.md
+```
+
+## Notes
+Extracted from [`davila7/claude-code-templates`](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/orchestration/remove.md) — orchestration category. Type: workflows. Pending verify -> promote.

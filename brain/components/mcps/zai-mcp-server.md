@@ -1,0 +1,30 @@
+---
+name: zai-mcp-server
+type: mcps
+description: >
+  Vision MCP Server - Z.AI capability implementation based on the Model Context Protocol (MCP), providing powerful Z.AI GLM-4.6V capabilities for MCP-compatible clients such as Claude Code and Cline, including image analysis, video understanding, and other features.
+source_repo: davila7/claude-code-templates
+source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/zai-mcp-server.json
+license: MIT
+cli_compat: [claude]
+maturity: beta
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [devtools, mcps]
+---
+## What it is
+Vision MCP Server - Z.AI capability implementation based on the Model Context Protocol (MCP), providing powerful Z.AI GLM-4.6V capabilities for MCP-compatible clients such as Claude Code and Cline, including image analysis, video understanding, and other features.
+
+## When to use it
+Vision MCP Server - Z.AI capability implementation based on the Model Context Protocol (MCP), providing powerful Z.AI GLM-4.6V capabilities for MCP-compatible clients such as Claude Code and Cline, including image analysis, video understanding, and other features.
+
+## How to install / invoke
+```bash
+# Add the mcpServers block to your .claude/settings.json or .mcp.json
+curl -sL https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/mcps/devtools/zai-mcp-server.json | jq .mcpServers
+```
+
+## Notes
+Extracted from [`davila7/claude-code-templates`](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/zai-mcp-server.json) — devtools category. Type: mcps. Pending verify -> promote.

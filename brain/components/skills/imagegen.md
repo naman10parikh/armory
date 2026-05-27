@@ -1,0 +1,30 @@
+---
+name: imagegen
+type: skills
+description: >
+  Use when the user asks to generate or edit images via the OpenAI Image API (for example: generate image, edit/inpaint/mask, background removal or replacement, transparent background, product shots, concept art, covers, or batch variants); run the bundled CLI (`scripts/image_gen.py`) and require `OPENAI_API_KEY` for live calls.
+source_repo: davila7/claude-code-templates
+source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/creative-design/imagegen/SKILL.md
+license: MIT
+cli_compat: [claude]
+maturity: beta
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [imagegen, skills]
+---
+## What it is
+Use when the user asks to generate or edit images via the OpenAI Image API (for example: generate image, edit/inpaint/mask, background removal or replacement, transparent background, product shots, concept art, covers, or batch variants); run the bundled CLI (`scripts/image_gen.py`) and require `OPENAI_API_KEY` for live calls.
+
+## When to use it
+Use when the user asks to generate or edit images via the OpenAI Image API (for example: generate image, edit/inpaint/mask, background removal or replacement, transparent background, product shots, concept art, covers, or batch variants); run the bundled CLI (`scripts/image_gen.py`) and require `OPENAI_API_KEY` for live calls.
+
+## How to install / invoke
+```bash
+# Copy the skill into your .claude/skills/ directory
+curl -sL https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/creative-design/imagegen/SKILL.md -o .claude/skills/imagegen/SKILL.md
+```
+
+## Notes
+Extracted from [`davila7/claude-code-templates`](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/creative-design/imagegen/SKILL.md) — imagegen category. Type: skills. Pending verify -> promote.

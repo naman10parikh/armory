@@ -1,0 +1,30 @@
+---
+name: ena-database
+type: skills
+description: >
+  Access European Nucleotide Archive via API/FTP. Retrieve DNA/RNA sequences, raw reads (FASTQ), genome assemblies by accession, for genomics and bioinformatics pipelines. Supports multiple formats.
+source_repo: davila7/claude-code-templates
+source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/ena-database/SKILL.md
+license: MIT
+cli_compat: [claude]
+maturity: beta
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [ena-database, skills]
+---
+## What it is
+Access European Nucleotide Archive via API/FTP. Retrieve DNA/RNA sequences, raw reads (FASTQ), genome assemblies by accession, for genomics and bioinformatics pipelines. Supports multiple formats.
+
+## When to use it
+Access European Nucleotide Archive via API/FTP. Retrieve DNA/RNA sequences, raw reads (FASTQ), genome assemblies by accession, for genomics and bioinformatics pipelines. Supports multiple formats.
+
+## How to install / invoke
+```bash
+# Copy the skill into your .claude/skills/ directory
+curl -sL https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/skills/scientific/ena-database/SKILL.md -o .claude/skills/ena-database/SKILL.md
+```
+
+## Notes
+Extracted from [`davila7/claude-code-templates`](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/scientific/ena-database/SKILL.md) — ena-database category. Type: skills. Pending verify -> promote.

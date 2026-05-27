@@ -1,0 +1,30 @@
+---
+name: microsoft-study-mode
+type: subagents
+description: >
+  Activate your personal Microsoft/Azure tutor - learn through guided discovery, not just answers.
+source_repo: davila7/claude-code-templates
+source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/devops-infrastructure/microsoft-study-mode.md
+license: MIT
+cli_compat: [claude]
+maturity: beta
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [devops-infrastructure, subagents]
+---
+## What it is
+Activate your personal Microsoft/Azure tutor - learn through guided discovery, not just answers.
+
+## When to use it
+Activate your personal Microsoft/Azure tutor - learn through guided discovery, not just answers.
+
+## How to install / invoke
+```bash
+# Copy the agent definition into your project's .claude/agents/
+curl -sL https://raw.githubusercontent.com/davila7/claude-code-templates/main/cli-tool/components/agents/devops-infrastructure/microsoft-study-mode.md -o .claude/agents/microsoft-study-mode.md
+```
+
+## Notes
+Extracted from [`davila7/claude-code-templates`](https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/devops-infrastructure/microsoft-study-mode.md) — devops-infrastructure category. Type: subagents. Pending verify -> promote.
