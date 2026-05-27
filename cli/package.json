@@ -1,5 +1,5 @@
 {
-  "name": "armory",
+  "name": "@naman10parikh/armory",
   "version": "0.1.0",
   "description": "Armory — where agents gear up. Install harness components (MCPs, skills, subagents, rules, hooks) into any coding harness.",
   "type": "module",
@@ -8,6 +8,7 @@
   "types": "./dist/index.d.ts",
   "files": ["dist/", "README.md", "LICENSE"],
   "license": "MIT",
+  "publishConfig": { "access": "public" },
   "engines": { "node": ">=18" },
   "keywords": ["ai", "claude", "agent", "mcp", "skills", "registry", "dev-tools", "armory", "engram"],
   "scripts": {
