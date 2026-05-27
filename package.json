@@ -1,0 +1,15 @@
+{
+  "name": "armory",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Armory — where agents gear up. The agent-native registry of every harness component (MCPs, skills, hooks, sub-agents, …). For agents, by agents, of agents.",
+  "license": "MIT",
+  "packageManager": "pnpm@9.0.0",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "catalog": "node ingest/catalog.mjs",
+    "validate": "node ingest/validate.mjs",
+    "build": "pnpm catalog && pnpm -r build"
+  },
+  "keywords": ["ai", "agents", "claude", "mcp", "skills", "hooks", "harness", "registry", "agent-native"]
+}

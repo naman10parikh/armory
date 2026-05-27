@@ -1,0 +1,26 @@
+---
+name: kultur
+type: mcps
+description: >
+  Analyze content for cultural sensitivity across 195 countries with text, image, and video screening capabilities.
+source_repo: kultur-dev/mcp-server
+source_url: https://github.com/kultur-dev/mcp-server
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 0
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Kultur`, catalogued on PulseMCP. Analyze content for cultural sensitivity across 195 countries with text, image, and video screening capabilities.
+
+## When to use it
+Analyze content for cultural sensitivity across 195 countries with text, image, and video screening capabilities.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/kultur-dev/mcp-server
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/kultur). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

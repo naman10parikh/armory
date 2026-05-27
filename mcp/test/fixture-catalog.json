@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-05-26T00:00:00.000Z",
+  "counts": {
+    "total": 4,
+    "by_type": {
+      "mcps": 2,
+      "skills": 1,
+      "hooks": 0,
+      "subagents": 0,
+      "identity": 0,
+      "memory": 0,
+      "claudemd-rules": 1,
+      "clis-tools": 0,
+      "evals": 0,
+      "observability": 0,
+      "infrastructure": 0,
+      "workflows": 0
+    }
+  },
+  "engrams": [
+    {
+      "name": "playwright-mcp",
+      "type": "mcps",
+      "description": "Drive a real browser (navigate, click, extract) from an agent via Playwright.",
+      "source_repo": "microsoft/playwright-mcp",
+      "source_url": "https://github.com/microsoft/playwright-mcp",
+      "license": "Apache-2.0",
+      "cli_compat": ["claude", "codex", "cursor"],
+      "maturity": "stable",
+      "stars": 12000,
+      "eval_score": null,
+      "verified_at": "2026-05-26",
+      "related": ["stagehand"],
+      "tags": ["browser", "automation", "web"],
+      "path": "components/mcps/playwright-mcp.md"
+    },
+    {
+      "name": "stagehand",
+      "type": "mcps",
+      "description": "AI browser automation that maps natural-language intent to web actions.",
+      "source_repo": "browserbase/stagehand",
+      "source_url": "https://github.com/browserbase/stagehand",
+      "license": "MIT",
+      "cli_compat": ["claude"],
+      "maturity": "beta",
+      "stars": 8000,
+      "eval_score": null,
+      "verified_at": "2026-05-26",
+      "related": ["playwright-mcp"],
+      "tags": ["browser", "ai", "web"],
+      "path": "components/mcps/stagehand.md"
+    },
+    {
+      "name": "memory-compression",
+      "type": "skills",
+      "description": "Compress long agent memory into a bootstrap summary so context stays small.",
+      "source_repo": "energy/skills",
+      "source_url": "https://github.com/naman10parikh/energy",
+      "license": "MIT",
+      "cli_compat": ["claude"],
+      "maturity": "stable",
+      "stars": null,
+      "eval_score": 0.82,
+      "verified_at": "2026-05-26",
+      "related": [],
+      "tags": ["memory", "compression", "context"],
+      "path": "components/skills/memory-compression.md"
+    },
+    {
+      "name": "karpathy-coding-discipline",
+      "type": "claudemd-rules",
+      "description": "The first behavior norm a coding agent ingrains — think before coding, simplest solution, surgical changes.",
+      "source_repo": "multica-ai/andrej-karpathy-skills",
+      "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "license": "MIT",
+      "cli_compat": ["claude", "codex", "cursor", "gemini", "opencode"],
+      "maturity": "stable",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-26",
+      "related": ["socratic-thinking"],
+      "tags": ["discipline", "coding", "behavior-norm"],
+      "path": "components/claudemd-rules/karpathy-coding-discipline.md"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+---
+name: theyahia-nfeio
+type: mcps
+description: >
+  MCP server for Brazilian fiscal document operations including NF-e and NFS-e invoice management via the NFe.io platform.
+source_repo: theyahia/nfeio-mcp
+source_url: https://github.com/theyahia/nfeio-mcp
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 0
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `NFe.io`, catalogued on PulseMCP. MCP server for Brazilian fiscal document operations including NF-e and NFS-e invoice management via the NFe.io platform.
+
+## When to use it
+MCP server for Brazilian fiscal document operations including NF-e and NFS-e invoice management via the NFe.io platform.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/theyahia/nfeio-mcp
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/theyahia-nfeio). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

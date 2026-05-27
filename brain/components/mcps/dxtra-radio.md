@@ -1,0 +1,26 @@
+---
+name: dxtra-radio
+type: mcps
+description: >
+  Radio frequency database covering FM, AM, shortwave, TV, ham radio, weather, and emergency alerts across 15+ countries.
+source_repo: 
+source_url: https://www.pulsemcp.com/servers/dxtra-radio
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: null
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Dxtra Radio`, catalogued on PulseMCP. Radio frequency database covering FM, AM, shortwave, TV, ham radio, weather, and emergency alerts across 15+ countries.
+
+## When to use it
+Radio frequency database covering FM, AM, shortwave, TV, ham radio, weather, and emergency alerts across 15+ countries.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://www.pulsemcp.com/servers/dxtra-radio
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/dxtra-radio). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

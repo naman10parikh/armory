@@ -1,0 +1,26 @@
+---
+name: cigarfinder
+type: mcps
+description: >
+  Search and compare cigar prices across online retailers.
+source_repo: 
+source_url: https://cigarfinder.com
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: null
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Cigarfinder`, catalogued on PulseMCP. Search and compare cigar prices across online retailers.
+
+## When to use it
+Search and compare cigar prices across online retailers.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://cigarfinder.com
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/cigarfinder). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

@@ -1,0 +1,26 @@
+---
+name: gh-ladyiceberg-memory-quality-auditor
+type: mcps
+description: >
+  Audit and manage Claude Code memory files with quality scoring and conflict detection.
+source_repo: ladyiceberg/memory-quality-mcp
+source_url: https://github.com/ladyiceberg/memory-quality-mcp
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 0
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Memory Quality Auditor`, catalogued on PulseMCP. Audit and manage Claude Code memory files with quality scoring and conflict detection.
+
+## When to use it
+Audit and manage Claude Code memory files with quality scoring and conflict detection.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/ladyiceberg/memory-quality-mcp
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/gh-ladyiceberg-memory-quality-auditor). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

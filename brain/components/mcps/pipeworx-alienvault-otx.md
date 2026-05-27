@@ -1,0 +1,26 @@
+---
+name: pipeworx-alienvault-otx
+type: mcps
+description: >
+  AlienVault Open Threat Exchange connector providing cybersecurity threat intelligence data through the Pipeworx MCP gateway.
+source_repo: pipeworx-io/mcp-alienvault-otx
+source_url: https://github.com/pipeworx-io/mcp-alienvault-otx
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 0
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `AlienVault OTX`, catalogued on PulseMCP. AlienVault Open Threat Exchange connector providing cybersecurity threat intelligence data through the Pipeworx MCP gateway.
+
+## When to use it
+AlienVault Open Threat Exchange connector providing cybersecurity threat intelligence data through the Pipeworx MCP gateway.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/pipeworx-io/mcp-alienvault-otx
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/pipeworx-alienvault-otx). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

@@ -1,0 +1,26 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    { "query": "path:components/mcps", "color": { "a": 1, "rgb": 5431285 } },
+    { "query": "path:components/skills", "color": { "a": 1, "rgb": 14837619 } },
+    { "query": "path:components/subagents", "color": { "a": 1, "rgb": 5025616 } },
+    { "query": "path:components/hooks", "color": { "a": 1, "rgb": 11119017 } }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.3,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 13,
+  "linkStrength": 1,
+  "linkDistance": 220,
+  "scale": 1
+}

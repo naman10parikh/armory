@@ -1,0 +1,27 @@
+---
+name: wechat
+type: mcps
+description: >
+  Automates WeChat messaging through GUI automation and Windows controls, enabling text message sending for customer service, bulk messaging, and communication workflows where direct API access is unavailable.
+source_repo: 1052666/wechat-mcp-server
+source_url: https://github.com/1052666/wechat-mcp-server
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 32
+verified_at: 2026-05-26
+related: []
+tags: [mcp, social]
+---
+
+## What it is
+MCP server `WeChat`, catalogued on PulseMCP. Automates WeChat messaging through GUI automation and Windows controls, enabling text message sending for customer service, bulk messaging, and communication workflows where direct API access is unavailable.
+
+## When to use it
+Automates WeChat messaging through GUI automation and Windows controls, enabling text message sending for customer service, bulk messaging, and communication workflows where direct API access is unavailable.
+
+## How to install / invoke
+See the source repo README for the `mcpServers` config block (command + args).
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/1052666-wechat). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

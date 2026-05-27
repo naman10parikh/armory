@@ -1,0 +1,26 @@
+---
+name: debtstack-ai
+type: mcps
+description: >
+  Corporate credit data API for bonds, leverage, guarantors, and SEC filings.
+source_repo: 
+source_url: https://www.pulsemcp.com/servers/debtstack-ai
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: null
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `DebtStack.ai`, catalogued on PulseMCP. Corporate credit data API for bonds, leverage, guarantors, and SEC filings.
+
+## When to use it
+Corporate credit data API for bonds, leverage, guarantors, and SEC filings.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://www.pulsemcp.com/servers/debtstack-ai
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/debtstack-ai). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

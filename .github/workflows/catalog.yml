@@ -1,0 +1,43 @@
+name: catalog
+
+# Validate engram frontmatter and keep catalog.json honest.
+# The ECC catalog.js lesson: a committed catalog with stale/hardcoded counts
+# rots silently. Here CI recomputes it and fails if the committed copy drifts.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validate engram frontmatter
+        run: node ingest/validate.mjs
+
+      - name: Regenerate catalog.json
+        run: node ingest/catalog.mjs
+
+      # `generated_at` is a timestamp that legitimately changes every run, so
+      # normalize it before diffing — only structural drift (counts/engrams)
+      # should fail the build. Compare the freshly built file against the
+      # version committed at HEAD (handles the case where the working copy was
+      # already regenerated above).
+      - name: Fail if catalog.json is stale
+        run: |
+          norm() { sed 's/"generated_at": *"[^"]*"/"generated_at": "X"/'; }
+          if ! git cat-file -e HEAD:catalog.json 2>/dev/null; then
+            echo "No catalog.json committed at HEAD yet — skipping stale check (first commit)."
+            exit 0
+          fi
+          if ! diff <(norm < catalog.json) <(git show HEAD:catalog.json | norm); then
+            echo "::error::catalog.json is stale. Run 'node ingest/catalog.mjs' and commit the result."
+            exit 1
+          fi
+          echo "catalog.json is up to date."

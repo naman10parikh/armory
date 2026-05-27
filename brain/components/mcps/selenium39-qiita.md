@@ -1,0 +1,26 @@
+---
+name: selenium39-qiita
+type: mcps
+description: >
+  Integrates with Qiita's API to enable full CRUD operations for articles, user management, tag following, stock/bookmark functionality, and comment management within Japan's largest technical knowledge sharing platform.
+source_repo: selenium39/mcp-server-qiita
+source_url: https://github.com/selenium39/mcp-server-qiita
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 1
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Qiita`, catalogued on PulseMCP. Integrates with Qiita's API to enable full CRUD operations for articles, user management, tag following, stock/bookmark functionality, and comment management within Japan's largest technical knowledge sharing platform.
+
+## When to use it
+Integrates with Qiita's API to enable full CRUD operations for articles, user management, tag following, stock/bookmark functionality, and comment management within Japan's largest technical knowledge sharing platform.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/selenium39/mcp-server-qiita
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/selenium39-qiita). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

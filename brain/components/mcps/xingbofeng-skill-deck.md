@@ -1,0 +1,26 @@
+---
+name: xingbofeng-skill-deck
+type: mcps
+description: >
+  Converts local SKILL.md files into MCP-compatible tools and shareable HTML artifacts for AI agents.
+source_repo: xingbofeng/skill-deck
+source_url: https://github.com/xingbofeng/skill-deck
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 1
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Skill Deck`, catalogued on PulseMCP. Converts local SKILL.md files into MCP-compatible tools and shareable HTML artifacts for AI agents.
+
+## When to use it
+Converts local SKILL.md files into MCP-compatible tools and shareable HTML artifacts for AI agents.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/xingbofeng/skill-deck
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/xingbofeng-skill-deck). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

@@ -1,0 +1,201 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  PANTHEON design tokens. OKLCH only. Warm-black surface scale tinted toward the
+  amber hue (h≈72) at chroma 0.006–0.012 — subconscious cohesion, never
+  consciously "tinted." ONE accent: Synapse Amber. No AI-purple/blue.
+*/
+:root {
+  color-scheme: dark;
+
+  /* Warm-black surface scale (dark is the only mode). */
+  --bg-base: oklch(16% 0.006 72);
+  --bg-raise-1: oklch(20% 0.008 72);
+  --bg-raise-2: oklch(24% 0.01 72);
+  --bg-raise-3: oklch(28% 0.012 72);
+
+  /* Hairlines — depth via lightness, not shadow. */
+  --line-subtle: oklch(100% 0 0 / 0.06);
+  --line-default: oklch(100% 0 0 / 0.1);
+  --line-strong: oklch(100% 0 0 / 0.16);
+
+  /* Text — light-on-dark, stepped down (NOT pure white). */
+  --text-hi: oklch(95% 0.004 72);
+  --text-body: oklch(82% 0.005 72);
+  --text-muted: oklch(66% 0.007 72);
+
+  /* THE accent — Synapse Amber. Saturation < 80%, chroma trimmed near extremes. */
+  --accent: oklch(80% 0.135 75);
+  --accent-hover: oklch(85% 0.14 75);
+  --accent-quiet: oklch(80% 0.135 75 / 0.12);
+  --accent-line: oklch(80% 0.135 75 / 0.35);
+
+  /* Semantic (maturity) — desaturated, tinted. info is the ONLY cool note, used tiny. */
+  --ok: oklch(74% 0.1 150);
+  --warn: oklch(80% 0.12 75);
+  --info: oklch(72% 0.08 230);
+
+  /* Motion — exponential ease-out. No bounce, no linear, no default ease. */
+  --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-premium: cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-base);
+  color: var(--text-body);
+  /* A single soft amber bloom + a fainter one — restraint, not a purple orb mesh. */
+  background-image:
+    radial-gradient(72rem 46rem at 80% -10%, oklch(80% 0.135 75 / 0.05), transparent 60%),
+    radial-gradient(56rem 38rem at -8% 2%, oklch(80% 0.135 75 / 0.03), transparent 55%);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Grain overlay — fixed, non-interactive, overlay blend. Physical-paper depth. */
+.grain {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  pointer-events: none;
+  opacity: 0.035;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+
+/* Visible amber focus ring for keyboard users on every interactive element. */
+:where(a, button, input, [tabindex], [role="button"]):focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 0.5rem;
+}
+
+/* Hairline that fades — section heads and the hero underline. */
+.hairline {
+  background: linear-gradient(90deg, transparent, var(--accent-line), transparent);
+}
+
+/* Reveal-on-scroll: translate + opacity + bounded blur. Starts hidden; .in shows. */
+.reveal {
+  opacity: 0;
+  transform: translateY(20px);
+  filter: blur(6px);
+  transition:
+    opacity 0.7s var(--ease-premium),
+    transform 0.7s var(--ease-premium),
+    filter 0.7s var(--ease-premium);
+  transition-delay: calc(var(--i, 0) * 60ms);
+}
+.reveal.in {
+  opacity: 1;
+  transform: translateY(0);
+  filter: blur(0);
+}
+
+/* Rendered engram markdown (detail page). Editorial, readable, on warm-black. */
+.engram-prose {
+  color: var(--text-body);
+  line-height: 1.7;
+  font-size: 1.0625rem;
+}
+.engram-prose h2 {
+  font-family: var(--font-display), Georgia, serif;
+  color: var(--text-hi);
+  font-size: 1.65rem;
+  line-height: 1.15;
+  margin: 2.25rem 0 0.75rem;
+  letter-spacing: -0.01em;
+}
+.engram-prose h3 {
+  font-family: var(--font-display), Georgia, serif;
+  color: var(--text-hi);
+  font-size: 1.3rem;
+  margin: 1.6rem 0 0.5rem;
+}
+.engram-prose p {
+  margin: 0.85rem 0;
+  max-width: 65ch;
+}
+.engram-prose strong {
+  color: var(--text-hi);
+  font-weight: 600;
+}
+.engram-prose a {
+  color: var(--accent-hover);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.engram-prose ul,
+.engram-prose ol {
+  margin: 0.85rem 0;
+  padding-left: 1.4rem;
+  max-width: 65ch;
+}
+.engram-prose li {
+  margin: 0.35rem 0;
+}
+.engram-prose ul {
+  list-style: disc;
+}
+.engram-prose ol {
+  list-style: decimal;
+}
+.engram-prose code {
+  font-family: var(--font-mono), ui-monospace, Menlo, monospace;
+  font-variant-ligatures: none;
+  background: var(--bg-raise-2);
+  border: 1px solid var(--line-default);
+  border-radius: 0.375rem;
+  padding: 0.1rem 0.4rem;
+  font-size: 0.85em;
+  color: var(--accent-hover);
+}
+.engram-prose pre {
+  background: oklch(13% 0.006 72);
+  border: 1px solid var(--line-default);
+  border-radius: 0.875rem;
+  padding: 1rem 1.15rem;
+  overflow-x: auto;
+  margin: 1.1rem 0;
+}
+.engram-prose pre code {
+  background: transparent;
+  border: none;
+  padding: 0;
+  color: var(--text-body);
+}
+.engram-prose blockquote {
+  border-left: 2px solid var(--accent-line);
+  padding-left: 1rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin: 1.1rem 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  /* Reveals snap to final; the synapse pulse + count-ups are disabled in JS. */
+  .reveal {
+    opacity: 1;
+    transform: none;
+    filter: none;
+    transition: none;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

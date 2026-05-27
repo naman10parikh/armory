@@ -1,0 +1,144 @@
+// Build-time data access. Reads the generated catalog.json and the brain/
+// markdown bodies directly from the monorepo root. Server-only (uses node:fs);
+// never imported into a client component. Read-only — the site never writes
+// to brain/ or catalog.json.
+import "server-only";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
+import type { Catalog, Engram, EngramType } from "./types";
+
+// site/ lives at <repo>/site, so the repo root is one level up.
+const REPO_ROOT = join(process.cwd(), "..");
+const CATALOG_PATH = join(REPO_ROOT, "catalog.json");
+const BRAIN_DIR = join(REPO_ROOT, "brain");
+
+let cached: Catalog | null = null;
+
+const EMPTY_CATALOG: Catalog = {
+  generated_at: new Date(0).toISOString(),
+  counts: {
+    total: 0,
+    by_type: {
+      mcps: 0,
+      skills: 0,
+      hooks: 0,
+      subagents: 0,
+      identity: 0,
+      memory: 0,
+      "claudemd-rules": 0,
+      "clis-tools": 0,
+      evals: 0,
+      observability: 0,
+      infrastructure: 0,
+      workflows: 0,
+    },
+  },
+  engrams: [],
+};
+
+/** Coerce one raw catalog entry into a well-typed Engram. The catalog is
+ *  machine-generated and growing to thousands of entries, so fields are not
+ *  guaranteed to match the contract (e.g. source_repo has shipped as `[]`).
+ *  Normalising once here means every consumer (search, cards, detail) gets
+ *  clean data and never has to defend against a non-string / non-array. */
+function normalizeEngram(raw: unknown): Engram | null {
+  if (!raw || typeof raw !== "object") return null;
+  const e = raw as Record<string, unknown>;
+  const str = (v: unknown, fallback = ""): string =>
+    typeof v === "string" ? v : fallback;
+  const strArr = (v: unknown): string[] =>
+    Array.isArray(v) ? v.filter((x): x is string => typeof x === "string") : [];
+  const numOrNull = (v: unknown): number | null =>
+    typeof v === "number" && Number.isFinite(v) ? v : null;
+
+  const name = str(e.name);
+  const type = str(e.type);
+  const path = str(e.path);
+  if (!name || !type) return null; // an engram with no identity is unusable
+
+  return {
+    name,
+    type: type as Engram["type"],
+    description: str(e.description),
+    source_repo: str(e.source_repo),
+    source_url: str(e.source_url),
+    license: str(e.license),
+    cli_compat: strArr(e.cli_compat),
+    maturity: str(e.maturity) as Engram["maturity"],
+    stars: numOrNull(e.stars),
+    eval_score: numOrNull(e.eval_score),
+    verified_at: str(e.verified_at),
+    related: strArr(e.related),
+    tags: strArr(e.tags),
+    path,
+  };
+}
+
+/** Load the catalog once per build. Normalises every entry and degrades to an
+ *  empty catalog if the file is missing or malformed so the UI renders empty
+ *  states instead of crashing. */
+export function getCatalog(): Catalog {
+  if (cached) return cached;
+  try {
+    const raw = readFileSync(CATALOG_PATH, "utf8");
+    const parsed = JSON.parse(raw) as Partial<Catalog>;
+    if (!parsed || !Array.isArray(parsed.engrams)) throw new Error("bad shape");
+    const engrams = parsed.engrams
+      .map(normalizeEngram)
+      .filter((e): e is Engram => e !== null);
+    cached = {
+      generated_at: typeof parsed.generated_at === "string"
+        ? parsed.generated_at
+        : new Date(0).toISOString(),
+      counts: parsed.counts ?? EMPTY_CATALOG.counts,
+      engrams,
+    };
+  } catch (err) {
+    console.warn(
+      "[catalog] could not read catalog.json, using empty catalog:",
+      err instanceof Error ? err.message : String(err),
+    );
+    cached = EMPTY_CATALOG;
+  }
+  return cached;
+}
+
+export function getEngrams(): Engram[] {
+  return getCatalog().engrams;
+}
+
+export function findEngram(type: string, slug: string): Engram | undefined {
+  return getEngrams().find((e) => e.type === type && e.name === slug);
+}
+
+export function getEngramsByType(type: EngramType): Engram[] {
+  return getEngrams().filter((e) => e.type === type);
+}
+
+/** A name→type index so [[wikilink]] related-refs can resolve to detail routes. */
+export function getNameIndex(): Map<string, EngramType> {
+  const index = new Map<string, EngramType>();
+  for (const e of getEngrams()) index.set(e.name, e.type);
+  return index;
+}
+
+/** Read the raw markdown BODY (frontmatter stripped) for an engram, from
+ *  brain/<path>. Read-only access to the brain vault. Returns "" if unreadable. */
+export function readEngramBody(engram: Engram): string {
+  try {
+    const full = join(BRAIN_DIR, engram.path);
+    const raw = readFileSync(full, "utf8");
+    return stripFrontmatter(raw);
+  } catch (err) {
+    console.warn(
+      `[catalog] could not read brain body for ${engram.name}:`,
+      err instanceof Error ? err.message : String(err),
+    );
+    return "";
+  }
+}
+
+function stripFrontmatter(raw: string): string {
+  const m = raw.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/);
+  return m ? raw.slice(m[0].length).trim() : raw.trim();
+}

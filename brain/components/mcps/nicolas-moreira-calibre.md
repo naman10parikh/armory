@@ -1,0 +1,26 @@
+---
+name: nicolas-moreira-calibre
+type: mcps
+description: >
+  Local-first AI memory system with decay and evolution mechanics, behavioral gene tracking, and multi-agent coordination via MCP.
+source_repo: nicolas-moreira/calibre-mcp
+source_url: https://github.com/nicolas-moreira/calibre-mcp
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 2
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Calibre`, catalogued on PulseMCP. Local-first AI memory system with decay and evolution mechanics, behavioral gene tracking, and multi-agent coordination via MCP.
+
+## When to use it
+Local-first AI memory system with decay and evolution mechanics, behavioral gene tracking, and multi-agent coordination via MCP.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/nicolas-moreira/calibre-mcp
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/nicolas-moreira-calibre). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

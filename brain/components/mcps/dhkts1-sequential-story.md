@@ -1,0 +1,26 @@
+---
+name: dhkts1-sequential-story
+type: mcps
+description: >
+  Provides structured problem-solving tools through Sequential Story and Sequential Thinking approaches, enabling narrative-based or Python-implemented thought sequences with branching and visual formatting capabilities for enhanced memory retention.
+source_repo: dhkts1/sequentialstory
+source_url: https://github.com/dhkts1/sequentialstory
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 15
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Sequential Story`, catalogued on PulseMCP. Provides structured problem-solving tools through Sequential Story and Sequential Thinking approaches, enabling narrative-based or Python-implemented thought sequences with branching and visual formatting capabilities for enhanced memory retention.
+
+## When to use it
+Provides structured problem-solving tools through Sequential Story and Sequential Thinking approaches, enabling narrative-based or Python-implemented thought sequences with branching and visual formatting capabilities for enhanced memory retention.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/dhkts1/sequentialstory
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/dhkts1-sequential-story). License not declared in registry metadata — confirm before production use. Pending verify -> promote.

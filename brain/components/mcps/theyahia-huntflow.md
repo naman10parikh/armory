@@ -1,0 +1,26 @@
+---
+name: theyahia-huntflow
+type: mcps
+description: >
+  Vacancies, candidates, and applicant management via the HuntFlow ATS API for recruiting workflows.
+source_repo: theyahia/huntflow-mcp
+source_url: https://github.com/theyahia/huntflow-mcp
+license: unknown
+cli_compat: [claude, codex, cursor, gemini, opencode]
+maturity: beta
+stars: 0
+verified_at: 2026-05-26
+related: []
+tags: [mcp, pulsemcp]
+---
+## What it is
+MCP server `Huntflow`, catalogued on PulseMCP. Vacancies, candidates, and applicant management via the HuntFlow ATS API for recruiting workflows.
+
+## When to use it
+Vacancies, candidates, and applicant management via the HuntFlow ATS API for recruiting workflows.
+
+## How to install / invoke
+See the source for the `mcpServers` config block (command + args). Source: https://github.com/theyahia/huntflow-mcp
+
+## Notes
+Discovered via the PulseMCP registry (https://www.pulsemcp.com/servers/theyahia-huntflow). License not declared in registry metadata — confirm before production use. Pending verify -> promote.
