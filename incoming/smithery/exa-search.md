@@ -8,7 +8,7 @@ source_url: https://exa.ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25564
+stars: 26053
 eval_score: null
 verified_at: 2026-05-27
 related: []

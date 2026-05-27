@@ -8,7 +8,7 @@ source_url: https://www.urantia.dev
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 739
+stars: 719
 eval_score: null
 verified_at: 2026-05-27
 related: []

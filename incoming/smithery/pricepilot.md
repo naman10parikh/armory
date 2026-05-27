@@ -8,7 +8,7 @@ source_url: https://pricepilot.vantagemeridiangroup.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1353
+stars: 1345
 eval_score: null
 verified_at: 2026-05-27
 related: []

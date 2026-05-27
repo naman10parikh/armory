@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/googlesheets
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44524
+stars: 44843
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://vistoya.com/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3790
+stars: 3779
 eval_score: null
 verified_at: 2026-05-27
 related: []

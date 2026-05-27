@@ -1,0 +1,27 @@
+---
+name: mcp-fal
+type: mcps
+description: >
+  An MCP server that exposes Fal.ai generative media models as tools for image and video generation, and running any Fal.ai model, callable by Claude and other MCP-compatible clients.
+source_repo: MohsenMousaviEyeline/MCP-Fal
+source_url: https://github.com/MohsenMousaviEyeline/MCP-Fal
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+An MCP server that exposes Fal.ai generative media models as tools for image and video generation, and running any Fal.ai model, callable by Claude and other MCP-compatible clients.
+
+## When to use it
+An MCP server that exposes Fal.ai generative media models as tools for image and video generation, and running any Fal.ai model, callable by Claude and other MCP-compatible clients.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/zfn42v58lz) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

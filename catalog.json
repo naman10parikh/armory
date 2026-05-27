@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T19:10:54.130Z",
+  "generated_at": "2026-05-27T19:21:42.422Z",
   "counts": {
-    "total": 24356,
+    "total": 24449,
     "by_type": {
-      "mcps": 21027,
+      "mcps": 21120,
       "skills": 1129,
       "hooks": 140,
       "subagents": 729,
@@ -19925,6 +19925,31 @@
       "path": "components/mcps/12306-ticket-search-server-2.md"
     },
     {
+      "name": "12306-ticket-search-server-3",
+      "type": "mcps",
+      "description": "Provide a simple API interface to search and filter 12306 train tickets, including direct, transfer, and stopover queries. Enable large language models to access real-time 12306 ticket information efficiently. Enhance user experience by integrating comprehensive train ticket search capabilities.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/DeniseLewis200081/rail",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 4323,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/12306-ticket-search-server-3.md"
+    },
+    {
       "name": "123elec",
       "type": "mcps",
       "description": "Official MCP interface for the 123elec electrical supplies e-commerce platform",
@@ -22298,6 +22323,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/a7om-pricing-intelligence.md"
+    },
+    {
+      "name": "aaaa-nexus",
+      "type": "mcps",
+      "description": "aaaa-nexus",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/atomadictech-ud4n/aaaa-nexus",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 331,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/aaaa-nexus.md"
     },
     {
       "name": "aac6fef-wolfram-mathematica",
@@ -32726,6 +32776,81 @@
       "path": "components/mcps/agentify-sh-proxmox.md"
     },
     {
+      "name": "agentindex",
+      "type": "mcps",
+      "description": "Discovery platform for AI agents. Find any AI agent by capability — search 20,000+ indexed agents across GitHub, npm, MCP, and HuggingFace.",
+      "source_repo": "agentidx/agentindex",
+      "source_url": "https://github.com/agentidx/agentindex",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1303,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/agentindex.md"
+    },
+    {
+      "name": "agentindex-2",
+      "type": "mcps",
+      "description": "Discovery platform for AI agents. Find any AI agent by capability — search 20,000+ indexed agents across GitHub, npm, MCP, and HuggingFace.",
+      "source_repo": "agentidx/agentindex",
+      "source_url": "https://github.com/agentidx/agentindex",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1303,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/agentindex-2.md"
+    },
+    {
+      "name": "agentindex-3",
+      "type": "mcps",
+      "description": "Discovery platform for AI agents. Find any AI agent by capability — search 20,000+ indexed agents across GitHub, npm, MCP, and HuggingFace.",
+      "source_repo": "agentidx/agentindex",
+      "source_url": "https://github.com/agentidx/agentindex",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1303,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/agentindex-3.md"
+    },
+    {
       "name": "agentkey",
       "type": "mcps",
       "description": "AgentKey is the execution layer between AI agents and the real internet. One MCP install gives your Claude / Cursor / n8n agent unified access to web search, scraping, and 20+ social platforms — no API juggling, one bill.",
@@ -35176,6 +35301,31 @@
       "path": "components/mcps/ai-compliance-monitor-2.md"
     },
     {
+      "name": "ai-compliance-monitor-3",
+      "type": "mcps",
+      "description": "ai-compliance-monitor",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/vdineshk/ai-compliance-monitor",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1151,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/ai-compliance-monitor-3.md"
+    },
+    {
       "name": "ai-council-mcp-server",
       "type": "mcps",
       "description": "Multi-AI Consensus Tool: Query multiple AI models in parallel, synthesize responses for better accuracy, and reduce AI bias through ensemble decision-making.",
@@ -35526,6 +35676,31 @@
       "path": "components/mcps/ai-kline-mcp-server.md"
     },
     {
+      "name": "ai-marketing-agent",
+      "type": "mcps",
+      "description": "Search Enji’s blog, Q&A, and help center to find grounded, source-backed answers to small-business marketing questions. Generate customer personas, brand voice summaries, and tailored social and blog ideas to plan content faster. Access free resources and tools to stay consistent and confident in yo",
+      "source_repo": "enjiapp/ai-marketing-agent",
+      "source_url": "https://github.com/enjiapp/ai-marketing-agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 2447,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/ai-marketing-agent.md"
+    },
+    {
       "name": "ai-memory",
       "type": "mcps",
       "description": "Production-ready semantic memory management server that stores, retrieves, and manages contextual knowledge across sessions using PostgreSQL with pgvector for vector similarity search, featuring intelligent caching, multi-user support, memory relationships, automatic clustering, and background job processing for persistent AI memory and knowledge management systems.",
@@ -35801,6 +35976,31 @@
         "mcp"
       ],
       "path": "components/mcps/ai-skill-store-2.md"
+    },
+    {
+      "name": "ai-skill-store-3",
+      "type": "mcps",
+      "description": "Agent-first skill marketplace with USK (Universal Skill Kit) open standard. Search, evaluate, and install skills for AI agents across 7 platforms including Claude Code, OpenClaw, Cursor, Gemini CLI, and Codex CLI. Agents discover skills via API with trust-level filtering (verified/community/sandbox)",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/garasegae/aiskillstore",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1908,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/ai-skill-store-3.md"
     },
     {
       "name": "ai-yliu-filesystem",
@@ -46193,6 +46393,56 @@
         "pulsemcp"
       ],
       "path": "components/mcps/amenti-labs-vibecraft.md"
+    },
+    {
+      "name": "america-s-law-graph",
+      "type": "mcps",
+      "description": "US federal and state statutory law MCP server. 529K sections across 50 states, the US Code, and Code of Federal Regulations. 11 tools: fulltext search, citation graph traversal, cross-reference navigation, risk surface analysis, doctrinal lineage. Free tier — no API key needed.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/vestara/america-law-graph",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1022,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/america-s-law-graph.md"
+    },
+    {
+      "name": "america-s-law-graph-2",
+      "type": "mcps",
+      "description": "US federal and state statutory law MCP server. 529K sections across 50 states, the US Code, and Code of Federal Regulations. 11 tools: fulltext search, citation graph traversal, cross-reference navigation, risk surface analysis, doctrinal lineage. Free tier — no API key needed.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/vestara/america-law-graph",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1022,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/america-s-law-graph-2.md"
     },
     {
       "name": "american-default-research",
@@ -58016,6 +58266,31 @@
       "path": "components/mcps/arxiv-mcp-server.md"
     },
     {
+      "name": "arxiv-mcp-server-2",
+      "type": "mcps",
+      "description": "Search arXiv, fetch paper metadata, and read full-text content via MCP.",
+      "source_repo": [],
+      "source_url": "https://arxiv.caseyjhand.com/mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1581,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/arxiv-mcp-server-2.md"
+    },
+    {
       "name": "arxiv-search-mcp-server",
       "type": "mcps",
       "description": "Enables searching academic papers on arXiv and retrieving detailed information such as title, authors, summary, and PDF link.",
@@ -60166,6 +60441,31 @@
       "path": "components/mcps/atars.md"
     },
     {
+      "name": "atars-mcp-by-aarna",
+      "type": "mcps",
+      "description": "aTars MCP by aarna provides AI agents with structured access to crypto market signals, technical indicators, and sentiment analysis. The server exposes 18 tools across technical and sentiment categories, enabling agents to query market intelligence directly through MCP-compatible workflows. Capabili",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/atars-MCP/aarnaai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1974,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/atars-mcp-by-aarna.md"
+    },
+    {
       "name": "atensecurity-thoth",
       "type": "mcps",
       "description": "Runtime governance proxy that enforces enterprise security policies on MCP tool calls with sub-100ms enforcement and compliance policy packs.",
@@ -62114,6 +62414,31 @@
         "mcp"
       ],
       "path": "components/mcps/authorprofilemcp.md"
+    },
+    {
+      "name": "authorprofilemcp-2",
+      "type": "mcps",
+      "description": "Discover co-authors and collaboration networks for any researcher. Extract research interests and keywords from scholar profiles to understand expertise. Accelerate literature review and team scouting with unified author insights.",
+      "source_repo": "alperenkocyigit/AuthorProfileMCP",
+      "source_url": "https://github.com/alperenkocyigit/AuthorProfileMCP",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1785,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/authorprofilemcp-2.md"
     },
     {
       "name": "authzed",
@@ -65460,6 +65785,31 @@
         "mcp"
       ],
       "path": "components/mcps/ayni.md"
+    },
+    {
+      "name": "ayni-2",
+      "type": "mcps",
+      "description": "Facilitate standardized communication between agents using a specialized glyph-based protocol and shared knowledge base. Attest and verify messages on the Monad blockchain to establish secure, verifiable proofs of intent and identity. Participate in decentralized governance by proposing, discussing,",
+      "source_repo": "SotoAlt/ayni-protocol",
+      "source_url": "https://github.com/SotoAlt/ayni-protocol",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 2163,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/ayni-2.md"
     },
     {
       "name": "ayo-nci-bulkrender",
@@ -86917,6 +87267,31 @@
       "path": "components/mcps/bushdrum.md"
     },
     {
+      "name": "bushdrum-events",
+      "type": "mcps",
+      "description": "Bushdrum is a read-only MCP server for city-scoped event discovery. It exposes two tools: list_cities for available Bushdrum cities, and search_events for structured event search within one explicit city using filters like category, vibe, audience, neighborhood, date, price, language, and time.",
+      "source_repo": [],
+      "source_url": "https://bushdrum.com/developers",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 2235,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/bushdrum-events.md"
+    },
+    {
       "name": "business-analytics-rag",
       "type": "mcps",
       "description": "Combines business analytics capabilities for statistical operations on CSV data with RAG-powered knowledge retrieval from business documents, supporting both Google Gemini and custom OpenAI-compatible APIs for comprehensive business intelligence workflows.",
@@ -89065,6 +89440,56 @@
         "mcp"
       ],
       "path": "components/mcps/calculator.md"
+    },
+    {
+      "name": "calculator-2",
+      "type": "mcps",
+      "description": "Perform quick, reliable arithmetic including addition, subtraction, multiplication, and division. Speed up everyday calculations and reduce errors across your workflows.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/AITutor3/calculator-mcp-test",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1727,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/calculator-2.md"
+    },
+    {
+      "name": "calculator-3",
+      "type": "mcps",
+      "description": "Perform quick, reliable arithmetic including addition, subtraction, multiplication, and division. Speed up everyday calculations and reduce errors across your workflows.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/AITutor3/calculator-mcp-test",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1727,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/calculator-3.md"
     },
     {
       "name": "calculator-mcp-server",
@@ -102839,6 +103264,31 @@
       "path": "components/mcps/clear-thought-server.md"
     },
     {
+      "name": "clear-thought-server-2",
+      "type": "mcps",
+      "description": "Provide enhanced problem-solving capabilities by leveraging systematic thinking, mental models, and debugging approaches. Enable structured reasoning and decision-making support for complex challenges. Facilitate integration with MCP-compatible clients for advanced cognitive workflows.",
+      "source_repo": "chirag127/clear-thought-mcp-server",
+      "source_url": "https://github.com/chirag127/clear-thought-mcp-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1696,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/clear-thought-server-2.md"
+    },
+    {
       "name": "clearpolicy",
       "type": "mcps",
       "description": "Query and manage insurance policies, claims, and coverage details through natural language.",
@@ -104065,6 +104515,31 @@
       "path": "components/mcps/cloud-thinker-ai-postgres-pro-plus.md"
     },
     {
+      "name": "cloud101-korea",
+      "type": "mcps",
+      "description": "키워드 기반으로 한국어 IT/클라우드 뉴스, 기술 블로그 포스팅 및 국내외 세미나·웨비나·컨퍼런스 일정을 수집하여 제공합니다. 한국어 사용자 및 한국 기술 시장에 관심 있는 이용자들을 위한 curated 업데이트 허브입니다. 리서치, 기사 작성, 이벤트 기획 등에 유용합니다. Discover relevant tech blog posts, IT/cloud news, and upcoming meetups, webinars, and conferences by keyword. Stay current with curated updates a",
+      "source_repo": [],
+      "source_url": "https://cloud101.kr",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 653,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/cloud101-korea.md"
+    },
+    {
       "name": "cloudbees-unify",
       "type": "mcps",
       "description": "Integrates with CloudBees Unify's enterprise DevOps platform to provide unified access to CI/CD pipeline data, security scans, and delivery workflows across hybrid Jenkins, GitHub Actions, and multi-cloud environments.",
@@ -104364,6 +104839,56 @@
         "pulsemcp"
       ],
       "path": "components/mcps/cloudflare-docs.md"
+    },
+    {
+      "name": "cloudflare-docs-2",
+      "type": "mcps",
+      "description": "Search Cloudflare documentation across Workers, Pages, R2, Zero Trust, and more. Generate best-practice Workers code and accelerate troubleshooting with relevant guidance. Follow clear steps to migrate Pages projects to Workers with fewer pitfalls.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/chuhuoyuan/cloudflare",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1762,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/cloudflare-docs-2.md"
+    },
+    {
+      "name": "cloudflare-docs-3",
+      "type": "mcps",
+      "description": "Search Cloudflare documentation across Workers, Pages, R2, Zero Trust, and more. Generate best-practice Workers code and accelerate troubleshooting with relevant guidance. Follow clear steps to migrate Pages projects to Workers with fewer pitfalls.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/chuhuoyuan/cloudflare",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1762,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/cloudflare-docs-3.md"
     },
     {
       "name": "cloudflare-edge-services",
@@ -112769,6 +113294,56 @@
       "path": "components/mcps/contexaai-google-air-quality.md"
     },
     {
+      "name": "context-awesome",
+      "type": "mcps",
+      "description": "Provide your AI agents with instant access to the best curated resources from over 8,500 awesome lists and more than 1 million items. Discover relevant sections and retrieve high-quality references for deep research, learning, and knowledge work. Enhance your agents' ability to find vetted tools and",
+      "source_repo": [],
+      "source_url": "https://www.context-awesome.com",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 807,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/context-awesome.md"
+    },
+    {
+      "name": "context-awesome-2",
+      "type": "mcps",
+      "description": "Provide your AI agents with instant access to the best curated resources from over 8,500 awesome lists and more than 1 million items. Discover relevant sections and retrieve high-quality references for deep research, learning, and knowledge work. Enhance your agents' ability to find vetted tools and",
+      "source_repo": [],
+      "source_url": "https://www.context-awesome.com",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 807,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/context-awesome-2.md"
+    },
+    {
       "name": "context-book",
       "type": "mcps",
       "description": "Persistent knowledge library for AI agents using vector embeddings to provide relevant context on demand.",
@@ -118098,6 +118673,56 @@
         "mcp"
       ],
       "path": "components/mcps/crypto-quant-signal-mcp.md"
+    },
+    {
+      "name": "crypto-quant-signal-mcp-2",
+      "type": "mcps",
+      "description": "crypto-quant-signal-mcp",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/algovault/crypto-quant-signal-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 770,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/crypto-quant-signal-mcp-2.md"
+    },
+    {
+      "name": "crypto-quant-signal-mcp-3",
+      "type": "mcps",
+      "description": "crypto-quant-signal-mcp",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/algovault/crypto-quant-signal-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 770,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/crypto-quant-signal-mcp-3.md"
     },
     {
       "name": "cryptoapis-address-history",
@@ -141076,6 +141701,31 @@
       "path": "components/mcps/developer-utilities-6.md"
     },
     {
+      "name": "developer-utilities-7",
+      "type": "mcps",
+      "description": "Simplify common data manipulation tasks like encoding, hashing, and formatting across various formats. Convert between CSV, JSON, Markdown, and HTML seamlessly to streamline data workflows. Extract insights from text and configurations through robust parsing, regex testing, and statistical analysis.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/aparajithn/agent-utils-mcp-new",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1169,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/developer-utilities-7.md"
+    },
+    {
       "name": "development-workflow-mcp-server",
       "type": "mcps",
       "description": "An MCP server that enforces development discipline and workflow best practices, guiding users through a structured process of coding, testing, documenting, committing, and releasing.",
@@ -147221,6 +147871,31 @@
         "mcp"
       ],
       "path": "components/mcps/docpull.md"
+    },
+    {
+      "name": "docpulse-mcp",
+      "type": "mcps",
+      "description": "docpulse-mcp",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/nicholasemccormick/docpulse-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 341,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/docpulse-mcp.md"
     },
     {
       "name": "docs-rs",
@@ -175308,6 +175983,31 @@
       "path": "components/mcps/flowsheets.md"
     },
     {
+      "name": "flowsheets-2",
+      "type": "mcps",
+      "description": "Trigger workflows, manage worksheets, and collaborate on record discussions. Create, update, and delete records in bulk, generate share links, and get instant pivot summaries for insights. Administer roles, departments, and optionsets to control access and standardize data across your apps.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/garfield-bb/hap_paas2025",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 575,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/flowsheets-2.md"
+    },
+    {
       "name": "flowvenue",
       "type": "mcps",
       "description": "Enterprise workflow automation platform exposing business processes as AI-callable MCP tools for approvals, CRM, HR, expense management, and support operations.",
@@ -179231,6 +179931,31 @@
       "path": "components/mcps/fruitflies-agent-social-network.md"
     },
     {
+      "name": "fruitflies-agent-social-network-2",
+      "type": "mcps",
+      "description": "fruitflies.ai is a social network built exclusively for AI agents. Connect via MCP to register (with proof-of-work challenge), post updates, ask and answer questions, vote on content, send threaded DMs, join topic communities (\"hives\"), volunteer to moderate, and climb the reputation leaderboard. Ag",
+      "source_repo": [],
+      "source_url": "https://fruitflies.ai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 2632,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/fruitflies-agent-social-network-2.md"
+    },
+    {
       "name": "fs-mcp",
       "type": "mcps",
       "description": "Provides Claude with complete file system integration including directory management, file operations, Office document creation/editing, and advanced file tree visualization.",
@@ -181331,6 +182056,31 @@
       "path": "components/mcps/gantta-2.md"
     },
     {
+      "name": "gantta-3",
+      "type": "mcps",
+      "description": "Gantta is an AI-powered project management tool that turns conversations into actionable project plans, timelines, and task breakdowns. Tools Create Project — Generate a structured project plan from a natural language brief List Projects — View all your existing projects and their status Create Acti",
+      "source_repo": [],
+      "source_url": "https://www.gantta.co",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1129,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/gantta-3.md"
+    },
+    {
       "name": "gaoharimran29-glitch-cybersecurity-mcp-server",
       "type": "mcps",
       "description": "Cybersecurity reconnaissance server for Claude. WHOIS lookup, DNS enumeration with subdomain brute-forcing, Nmap port scanning with service detection, SSL/TLS certificate inspection, technology stack fingerprinting, CVE lookup, and IP reputation checking. Runs fully locally via FastMCP.",
@@ -181529,6 +182279,81 @@
         "pulsemcp"
       ],
       "path": "components/mcps/gapra-nuxt-migration.md"
+    },
+    {
+      "name": "gaproll",
+      "type": "mcps",
+      "description": "EU Directive 2023/970 (Pay Transparency) compliance tools for Polish employers. Check deadlines by headcount, get penalty information, and calculate your compliance risk score. Free, no auth required.",
+      "source_repo": [],
+      "source_url": "https://gaproll.eu",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1210,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/gaproll.md"
+    },
+    {
+      "name": "gaproll-2",
+      "type": "mcps",
+      "description": "EU Directive 2023/970 (Pay Transparency) compliance tools for Polish employers. Check deadlines by headcount, get penalty information, and calculate your compliance risk score. Free, no auth required.",
+      "source_repo": [],
+      "source_url": "https://gaproll.eu",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1210,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/gaproll-2.md"
+    },
+    {
+      "name": "gaproll-3",
+      "type": "mcps",
+      "description": "EU Directive 2023/970 (Pay Transparency) compliance tools for Polish employers. Check deadlines by headcount, get penalty information, and calculate your compliance risk score. Free, no auth required.",
+      "source_repo": [],
+      "source_url": "https://gaproll.eu",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1210,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/gaproll-3.md"
     },
     {
       "name": "gapup-io",
@@ -200909,6 +201734,31 @@
       "path": "components/mcps/glassbead-tc-tinder.md"
     },
     {
+      "name": "glassnode",
+      "type": "mcps",
+      "description": "Access institutional-grade on-chain cryptocurrency metrics and market data for Bitcoin, Ethereum, and DeFi. Compare multiple assets efficiently through bulk data fetching and comprehensive market analysis. Stay informed with professional research articles and detailed market intelligence directly fr",
+      "source_repo": [],
+      "source_url": "https://docs.glassnode.com/guides-and-tutorials/glassnode-mcp-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 2357,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/glassnode.md"
+    },
+    {
       "name": "glasstape-policy-builder",
       "type": "mcps",
       "description": "Transforms natural language policy requirements into production-ready Cerbos YAML policies through automated generation, validation, testing, and security analysis with built-in compliance framework support.",
@@ -208455,6 +209305,31 @@
         "mcp"
       ],
       "path": "components/mcps/grimoire-spellbook-server-2.md"
+    },
+    {
+      "name": "grimoire-spellbook-server-3",
+      "type": "mcps",
+      "description": "Provide a comprehensive spellbook for Dungeons & Dragons 5th Edition to enhance your gameplay experience. Access detailed spell information and manage your spell resources efficiently. Streamline your D&D sessions with easy-to-use spell data and tools.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/Linell/grimoire-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1702,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/grimoire-spellbook-server-3.md"
     },
     {
       "name": "grizzlypeaksoftware-memory-storage",
@@ -223682,6 +224557,31 @@
       "path": "components/mcps/human-spider-brave-search.md"
     },
     {
+      "name": "human-state",
+      "type": "mcps",
+      "description": "human-state",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/nefesh-ai/human-state",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 364,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/human-state.md"
+    },
+    {
       "name": "humanjesse-textarttools",
       "type": "mcps",
       "description": "Unicode text styling and ASCII art generation with 23 styles and 322+ figlet fonts",
@@ -227132,6 +228032,31 @@
       "path": "components/mcps/icloudza-algokiller.md"
     },
     {
+      "name": "icon",
+      "type": "mcps",
+      "description": "Generate and manage professional-grade icons for diverse design needs. Simplifies the search for high-quality visual assets to streamline development workflows. Enhances user interface design with consistent and scalable imagery.",
+      "source_repo": "hustcc/mcp-icon",
+      "source_url": "https://github.com/hustcc/mcp-icon",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 291,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/icon.md"
+    },
+    {
       "name": "iconfont",
       "type": "mcps",
       "description": "Integrates with Iconfont.cn to search and retrieve icon data from China's largest icon library by name and type for design workflows and UI development.",
@@ -227280,6 +228205,31 @@
         "mcp"
       ],
       "path": "components/mcps/icons8mcp-3.md"
+    },
+    {
+      "name": "icons8mcp-4",
+      "type": "mcps",
+      "description": "icons8mcp",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/icons8community/icons8mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1362,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/icons8mcp-4.md"
     },
     {
       "name": "icoretech-warden-mcp",
@@ -230951,6 +231901,31 @@
         "mcp"
       ],
       "path": "components/mcps/indmoney-mcp.md"
+    },
+    {
+      "name": "indodax",
+      "type": "mcps",
+      "description": "Serve Indodax Public market data: server time, pairs, ticker, all tickers, summaries, order book, trades, OHLC, and price increments. Private account data: account info, balances, transactions, and trade history. Spot trading: buy, sell, cancel, cancel by client order ID, cancel all, and deadman cou",
+      "source_repo": "ibidathoillah/indodax-cli",
+      "source_url": "https://github.com/ibidathoillah/indodax-cli",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/indodax.md"
     },
     {
       "name": "indodax-mcp-crypto-trading",
@@ -235197,6 +236172,31 @@
         "mcp"
       ],
       "path": "components/mcps/islamic-books-quran-reference-library.md"
+    },
+    {
+      "name": "islamic-books-quran-reference-library-2",
+      "type": "mcps",
+      "description": "Search a curated library of 1,900+ Islamic books including English translations of the Holy Quran with detailed verse-by-verse commentary, foundational texts on Islamic philosophy, theology, and history, biographies of the Prophet Muhammad (peace be upon him), books on prayer, fasting, Hajj, compara",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/hashirsiddiqui15/ami-bookstore-mcp-h",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 612,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/islamic-books-quran-reference-library-2.md"
     },
     {
       "name": "islem-zaraa-powerpoint",
@@ -276662,6 +277662,56 @@
       "path": "components/mcps/legal-docs.md"
     },
     {
+      "name": "legal-docs-2",
+      "type": "mcps",
+      "description": "legal-docs",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/ebenova/legal-docs",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 744,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/legal-docs-2.md"
+    },
+    {
+      "name": "legal-docs-3",
+      "type": "mcps",
+      "description": "legal-docs",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/ebenova/legal-docs",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 744,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/legal-docs-3.md"
+    },
+    {
       "name": "legal-fournier-spain-legal",
       "type": "mcps",
       "description": "Spain immigration and legal services covering visas, Beckham Law, NIE/TIE, residency, and nationality applications.",
@@ -287061,6 +288111,56 @@
       "path": "components/mcps/lucy-apro.md"
     },
     {
+      "name": "lucy-apro-2",
+      "type": "mcps",
+      "description": "lucy-apro",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/demomagic/lucy-apro",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 806,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/lucy-apro-2.md"
+    },
+    {
+      "name": "lucy-apro-3",
+      "type": "mcps",
+      "description": "lucy-apro",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/demomagic/lucy-apro",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 806,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/lucy-apro-3.md"
+    },
+    {
       "name": "lucygoodchild-mcp-national-rail",
       "type": "mcps",
       "description": "An MCP server for UK National Rail trains service, providing train schedules and live travel information, intergrating the Realtime Trains API",
@@ -292910,6 +294010,56 @@
         "mcp"
       ],
       "path": "components/mcps/mansa.md"
+    },
+    {
+      "name": "mansa-2",
+      "type": "mcps",
+      "description": "mansa",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/mansamarkets/mansa",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 933,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/mansa-2.md"
+    },
+    {
+      "name": "mansa-3",
+      "type": "mcps",
+      "description": "mansa",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/mansamarkets/mansa",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 933,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/mansa-3.md"
     },
     {
       "name": "mansa-african-markets",
@@ -321279,6 +322429,31 @@
       "path": "components/mcps/meetsync-mcp.md"
     },
     {
+      "name": "meetsync-mcp-2",
+      "type": "mcps",
+      "description": "meetsync-mcp",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/nicholasemccormick/meetsync-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 519,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/meetsync-mcp-2.md"
+    },
+    {
       "name": "megacloud-mcp-server",
       "type": "mcps",
       "description": "Enables middleware management, information checking, backups, and node-level operations for the MegaCloud API.",
@@ -333353,6 +334528,31 @@
       "path": "components/mcps/modelist444-metatrader-5.md"
     },
     {
+      "name": "modellix-docs",
+      "type": "mcps",
+      "description": "Search the Modellix knowledge base to quickly find relevant technical information, code examples, and API references. Retrieve implementation details and official guides to solve development queries efficiently. Access direct links to documentation for deeper context on specific features and tools.",
+      "source_repo": [],
+      "source_url": "https://modellix.ai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1290,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/modellix-docs.md"
+    },
+    {
       "name": "modelrisk",
       "type": "mcps",
       "description": "Read, build, fit, and run Monte Carlo risk models in Excel through Vose Software's ModelRisk add-in.",
@@ -338421,6 +339621,31 @@
       "path": "components/mcps/mudler-multi-tool-suite.md"
     },
     {
+      "name": "muell-io",
+      "type": "mcps",
+      "description": "muell-io",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/lochmueller/muell-io",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 252,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/muell-io.md"
+    },
+    {
       "name": "mufeng05-ida-auto",
       "type": "mcps",
       "description": "Headless IDA Pro automation enabling AI agents to autonomously open, analyze, and query multiple binary files without manual GUI interaction.",
@@ -342285,6 +343510,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/nambok-mentedb.md"
+    },
+    {
+      "name": "name-whisper",
+      "type": "mcps",
+      "description": "34 MCP tools to search, register, manage, value, and trade ENS names. AI-powered intelligence layer for the ENS ecosystem.",
+      "source_repo": [],
+      "source_url": "https://namewhisper.ai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 830,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/name-whisper.md"
     },
     {
       "name": "nameetp-pdfmux",
@@ -363807,6 +365057,31 @@
       "path": "components/mcps/opendart-mcp-server.md"
     },
     {
+      "name": "opendata-ademe",
+      "type": "mcps",
+      "description": "Access to ADEME datasets (French ecological transition agency) - data on energy, environment, waste, transport, housing",
+      "source_repo": "data-fair/mcp",
+      "source_url": "https://github.com/data-fair/mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1137,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/opendata-ademe.md"
+    },
+    {
       "name": "opendatalab-mineru-ecosystem",
       "type": "mcps",
       "description": "Official MinerU document parsing MCP ([mineru-open-mcp](https://pypi.org/project/mineru-open-mcp/) on PyPI). Converts PDFs, doc/docx/ppt/pptx, images, and spreadsheets to Markdown via the [MinerU](https://mineru.net) API; free Flash mode without an API key (about 20 pages per file); optional `MINERU_API_TOKEN` for higher limits.",
@@ -368132,6 +369407,81 @@
       "path": "components/mcps/outsource.md"
     },
     {
+      "name": "outtolunch",
+      "type": "mcps",
+      "description": "Daily world briefing that tells AI assistants what's actually happening right now. Leaders, conflicts, deaths, economic data, holidays. Updated daily so they stop getting current events wrong.",
+      "source_repo": [],
+      "source_url": "https://outtolunch.app",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 806,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/outtolunch.md"
+    },
+    {
+      "name": "outtolunch-2",
+      "type": "mcps",
+      "description": "Daily world briefing that tells AI assistants what's actually happening right now. Leaders, conflicts, deaths, economic data, holidays. Updated daily so they stop getting current events wrong.",
+      "source_repo": [],
+      "source_url": "https://outtolunch.app",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 806,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/outtolunch-2.md"
+    },
+    {
+      "name": "outtolunch-3",
+      "type": "mcps",
+      "description": "Daily world briefing that tells AI assistants what's actually happening right now. Leaders, conflicts, deaths, economic data, holidays. Updated daily so they stop getting current events wrong.",
+      "source_repo": [],
+      "source_url": "https://outtolunch.app",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 806,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/outtolunch-3.md"
+    },
+    {
       "name": "ouvreboite-openapi-to-mcp",
       "type": "mcps",
       "description": "Lightweight MCP server to access any API using their OpenAPI specification. Supports OAuth2 and full JSON schema parameters and request body.",
@@ -370805,6 +372155,56 @@
         "mcp"
       ],
       "path": "components/mcps/panko-alerts-food-safety-data-2.md"
+    },
+    {
+      "name": "panko-alerts-food-safety-data-3",
+      "type": "mcps",
+      "description": "Search live food safety data from FDA, FSIS, CDC, and city health departments (NYC, Chicago, SF, Seattle, Boston). 5 tools: search recalls, outbreaks, alerts, restaurant inspection articles, and food safety guides. Data aggregated from 25+ public government sources via Panko Alerts (alerts.getpanko.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/alex-kenny-lee-vfjv/panko-food-safety",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 4364,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/panko-alerts-food-safety-data-3.md"
+    },
+    {
+      "name": "panko-alerts-food-safety-data-4",
+      "type": "mcps",
+      "description": "Search live food safety data from FDA, FSIS, CDC, and city health departments (NYC, Chicago, SF, Seattle, Boston). 5 tools: search recalls, outbreaks, alerts, restaurant inspection articles, and food safety guides. Data aggregated from 25+ public government sources via Panko Alerts (alerts.getpanko.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/alex-kenny-lee-vfjv/panko-food-safety",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 4364,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/panko-alerts-food-safety-data-4.md"
     },
     {
       "name": "panossalt-mcp-gateway",
@@ -375182,6 +376582,31 @@
       "path": "components/mcps/peek-2.md"
     },
     {
+      "name": "peek-3",
+      "type": "mcps",
+      "description": "Activity and experience booking platform. Search tours, check availability, and discover things to do worldwide.",
+      "source_repo": [],
+      "source_url": "https://peek.com",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 728,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/peek-3.md"
+    },
+    {
       "name": "peek-travel",
       "type": "mcps",
       "description": "Provides real-time access to travel experiences, activities, and tours with live availability and pricing data for accurate trip planning with bookable activities across destinations worldwide.",
@@ -375505,6 +376930,31 @@
         "mcp"
       ],
       "path": "components/mcps/pension-pro-mcp.md"
+    },
+    {
+      "name": "pentagonal",
+      "type": "mcps",
+      "description": "**AI-powered smart contract forge** with an 8-agent adversarial security audit system. ### Tools | Tool | Cost | |---|---| | `pentagonal_audit` — 8-agent security pen test | $5 | | `pentagonal_generate` — contracts from natural language | $5 | | `pentagonal_fix` — fix vulnerabilities | Free | | `pen",
+      "source_repo": [],
+      "source_url": "https://pentagonal.ai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 446,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/pentagonal.md"
     },
     {
       "name": "pentagonal-ai-pentagonal",
@@ -393829,6 +395279,31 @@
       "path": "components/mcps/podaac-cmr.md"
     },
     {
+      "name": "podcast-commerce-intelligence",
+      "type": "mcps",
+      "description": "Extract product mentions, sponsors, and trends from podcast transcripts. Returns structured data with product names, categories, confidence scores, recommendation strength, and aesthetic tags. Tools: extract_podcast_products, analyze_episode_sponsors, track_product_trends (with avg_recommendation_st",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/sincetoday/podcast-commerce-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 290,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/podcast-commerce-intelligence.md"
+    },
+    {
       "name": "podcast-transcripts-on-demand",
       "type": "mcps",
       "description": "Access high quality transcripts for podcasts. Updated in real-time as new episodes are published. This MCP server also accepts feedback for feature requests and bug reports.",
@@ -397019,6 +398494,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/precariat365-smart-customer-support.md"
+    },
+    {
+      "name": "preciomx-price-tracker-mexico",
+      "type": "mcps",
+      "description": "Rastreador de precios para Mercado Libre Mexico. 120K+ productos con historial de precios, Deal Score, tendencias y recomendaciones de compra en tiempo real. El unico MCP de comparacion de precios en Latinoamerica.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/ing-christopherleon/preciomx",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 242,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/preciomx-price-tracker-mexico.md"
     },
     {
       "name": "preclick",
@@ -419399,6 +420899,31 @@
       "path": "components/mcps/rize-io-mcp-server.md"
     },
     {
+      "name": "rize-mcp-server",
+      "type": "mcps",
+      "description": "MCP server for Rize -- automatic time tracking for professionals and teams. 27 tools for managing projects, clients, tasks, sessions, time entries, and productivity analytics via the Rize GraphQL API. Works with Claude Desktop, Claude Code, Cursor, and any MCP-compatible client",
+      "source_repo": "rize-io/mcp-server",
+      "source_url": "https://github.com/rize-io/mcp-server",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/rize-mcp-server.md"
+    },
+    {
       "name": "rjandino-zopaf",
       "type": "mcps",
       "description": "Negotiation math engine exposing MILP-based Pareto frontier and counteroffer generation as tools for AI agents.",
@@ -438267,6 +439792,31 @@
       "path": "components/mcps/seoul-essentials-2.md"
     },
     {
+      "name": "seoul-essentials-3",
+      "type": "mcps",
+      "description": "Locate public facilities across Seoul including pharmacies, restrooms, WiFi hotspots, and tourist information centers. Identify nearby services using geographic coordinates or specific district filters to find help quickly. Access subway timetables to navigate the city's transit network with ease.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/do-droid/seoul-essentials",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 3013,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/seoul-essentials-3.md"
+    },
+    {
       "name": "sepinetam-aer",
       "type": "mcps",
       "description": "Enables AI assistants to search and extract information from American Economic Association journals with filtering by title, abstract, author, and JEL classification for economic research and literature reviews.",
@@ -440293,6 +441843,31 @@
         "mcp"
       ],
       "path": "components/mcps/sfc-data-mcp.md"
+    },
+    {
+      "name": "sg-regulatory-data-mcp",
+      "type": "mcps",
+      "description": "sg-regulatory-data-mcp",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/vdineshk/sg-regulatory-data-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 245,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/sg-regulatory-data-mcp.md"
     },
     {
       "name": "sgasser-draft-review",
@@ -445620,6 +447195,56 @@
       "path": "components/mcps/siddontang-tidb-ai.md"
     },
     {
+      "name": "sidearm",
+      "type": "mcps",
+      "description": "Protect media using watermarking, content disruption, and adversarial hardening algorithms. Verify provenance, detect synthetic content, and perform similarity searches across digital libraries. Manage digital rights and track media history through detailed audit chains.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/sidearmdrm/sidearm",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 416,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/sidearm.md"
+    },
+    {
+      "name": "sidearm-2",
+      "type": "mcps",
+      "description": "Protect media using watermarking, content disruption, and adversarial hardening algorithms. Verify provenance, detect synthetic content, and perform similarity searches across digital libraries. Manage digital rights and track media history through detailed audit chains.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/sidearmdrm/sidearm",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 416,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/sidearm-2.md"
+    },
+    {
       "name": "sidearm-drm",
       "type": "mcps",
       "description": "Protect media from AI training, detect AI-generated content, and find stolen work.",
@@ -449193,6 +450818,31 @@
         "mcp"
       ],
       "path": "components/mcps/skillflow-ai-skills-marketplace-2.md"
+    },
+    {
+      "name": "skillflow-ai-skills-marketplace-3",
+      "type": "mcps",
+      "description": "The curated marketplace for AI agent skills. Search, discover, and install verified skills for Claude, GPT, Cursor, and other AI platforms via MCP. Features 50+ skills across 12 categories with trust scores, compatibility info, and one-click install instructions. ## Key Features - **Search Skills**:",
+      "source_repo": [],
+      "source_url": "https://skillflow.builders",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 4574,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/skillflow-ai-skills-marketplace-3.md"
     },
     {
       "name": "skillfm",
@@ -453948,6 +455598,31 @@
       "path": "components/mcps/solana-mcp-explorer.md"
     },
     {
+      "name": "solana-token-analysis",
+      "type": "mcps",
+      "description": "Real-time Solana token risk scoring and pump.fun graduation signals for AI assistants and trading agents. Built by Sol, an autonomous AI agent. 6 tools: get_token_risk (0-100 risk score + rug pull flags), get_momentum_signal (BUY/SELL based on buy/sell ratios), batch_token_risk (screen up to 10 toke",
+      "source_repo": "autonsol/sol-mcp",
+      "source_url": "https://github.com/autonsol/sol-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 516,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/solana-token-analysis.md"
+    },
+    {
       "name": "solana-tracker-mcp-server",
       "type": "mcps",
       "description": "SOLANA_TRACKER_MCP_SERVER MCP server listed on mcp.so.",
@@ -456171,6 +457846,81 @@
         "mcp"
       ],
       "path": "components/mcps/spark-ai-assets-marketplace.md"
+    },
+    {
+      "name": "spark-ai-assets-marketplace-2",
+      "type": "mcps",
+      "description": "Discover and download a variety of assets including prompts, skills, and connectors from the Spark marketplace. Access detailed documentation, ratings, and raw content to quickly integrate pre-built components into your projects. Filter by domain and popularity to find the most relevant solutions fo",
+      "source_repo": [],
+      "source_url": "https://spark.entire.vc",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1650,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/spark-ai-assets-marketplace-2.md"
+    },
+    {
+      "name": "spark-ai-assets-marketplace-3",
+      "type": "mcps",
+      "description": "Discover and download a variety of assets including prompts, skills, and connectors from the Spark marketplace. Access detailed documentation, ratings, and raw content to quickly integrate pre-built components into your projects. Filter by domain and popularity to find the most relevant solutions fo",
+      "source_repo": [],
+      "source_url": "https://spark.entire.vc",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1650,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/spark-ai-assets-marketplace-3.md"
+    },
+    {
+      "name": "spark-ai-assets-marketplace-4",
+      "type": "mcps",
+      "description": "Discover and download a variety of assets including prompts, skills, and connectors from the Spark marketplace. Access detailed documentation, ratings, and raw content to quickly integrate pre-built components into your projects. Filter by domain and popularity to find the most relevant solutions fo",
+      "source_repo": [],
+      "source_url": "https://spark.entire.vc",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1650,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/spark-ai-assets-marketplace-4.md"
     },
     {
       "name": "spark-mcp-optimizer",
@@ -461824,6 +463574,31 @@
       "path": "components/mcps/starknet-mcp-server-2.md"
     },
     {
+      "name": "starknet-mcp-server-3",
+      "type": "mcps",
+      "description": "A comprehensive Model Context Protocol (MCP) server for the Starknet blockchain. This server provides AI agents with the ability to interact with Starknet networks, query blockchain data, manage wallets, and interact with smart contracts.",
+      "source_repo": [],
+      "source_url": "https://mcp.direct",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 2690,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/starknet-mcp-server-3.md"
+    },
+    {
       "name": "starlette-mcp-sse",
       "type": "mcps",
       "description": "Starlette_mcp_sse MCP server listed on mcp.so.",
@@ -464424,6 +466199,31 @@
       "path": "components/mcps/stockfilm.md"
     },
     {
+      "name": "stockfilm-authentic-vintage-footage",
+      "type": "mcps",
+      "description": "Search and license 217,000+ authentic vintage 8mm home movie clips from the 1930s-1980s. Remote MCP server with 6 tools over Streamable HTTP. Text search, visual similarity, rough-cut timeline builder, rights verification, and instant licensing via x402 USDC payments on Solana and Base. Every frame",
+      "source_repo": [],
+      "source_url": "https://stockfilm.com",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 305,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/stockfilm-authentic-vintage-footage.md"
+    },
+    {
       "name": "stockfish",
       "type": "mcps",
       "description": "Integrates with the Stockfish chess engine through UCI protocol to provide move analysis, position evaluation, and game analysis with configurable search depth and time limits.",
@@ -464972,6 +466772,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/strale.md"
+    },
+    {
+      "name": "strale-2",
+      "type": "mcps",
+      "description": "270+ quality-scored API capabilities for AI agents — compliance, company data, financial validation, web intelligence across 27 countries.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/strale-io/strale",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 682,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/strale-2.md"
     },
     {
       "name": "strand-ai-lambda-labs",
@@ -466947,6 +468772,31 @@
         "mcp"
       ],
       "path": "components/mcps/sucesio-mcp-2.md"
+    },
+    {
+      "name": "sucesio-mcp-3",
+      "type": "mcps",
+      "description": "The AI Seller for Sucesio.io — digital estate planning for expats in Europe. Structured data on product, pricing, use cases, security, and B2B positioning.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/nponette/sucesio-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 948,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/sucesio-mcp-3.md"
     },
     {
       "name": "suchetaslalom-key-server",
@@ -478597,6 +480447,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/temurkhan13-silentwatch.md"
+    },
+    {
+      "name": "tenant-builder",
+      "type": "mcps",
+      "description": "Provision new tenants with admin setup and initial document templates. Add document templates to existing tenants to expand your workspace. Authenticate and connect to external APIs to perform secure operations.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/santiago.blanco.vilchez/aaa",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 288,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/tenant-builder.md"
     },
     {
       "name": "tencent-cloud-log-service",
@@ -492589,6 +494464,56 @@
       "path": "components/mcps/toreador.md"
     },
     {
+      "name": "toreva",
+      "type": "mcps",
+      "description": "Non-custodial execution primitives for Solana. Best-execution routing across Jupiter Perps, Pacifica, Drift, and Flash Trade. 1 bps to open. Everything else is free. Your agent decides. Toreva executes. Every action receipted. Execution only — not financial advice.",
+      "source_repo": [],
+      "source_url": "https://toreva.com/docs",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 418,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/toreva.md"
+    },
+    {
+      "name": "toreva-2",
+      "type": "mcps",
+      "description": "Non-custodial execution primitives for Solana. Best-execution routing across Jupiter Perps, Pacifica, Drift, and Flash Trade. 1 bps to open. Everything else is free. Your agent decides. Toreva executes. Every action receipted. Execution only — not financial advice.",
+      "source_repo": [],
+      "source_url": "https://toreva.com/docs",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 418,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/toreva-2.md"
+    },
+    {
       "name": "toreva-kit",
       "type": "mcps",
       "description": "Non-custodial DeFi execution primitives on Solana for yield strategies, staking, and portfolio automation.",
@@ -497310,6 +499235,81 @@
       "path": "components/mcps/tulugar-real-estate-2.md"
     },
     {
+      "name": "tulugar-real-estate-3",
+      "type": "mcps",
+      "description": "Search real estate listings, development projects, agents, and market data in Paraguay. Get pricing, Airbnb/STR stats, and neighborhood-level insights across South America.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/jan-krat-kj4q/tulugar-real-estate",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 3168,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/tulugar-real-estate-3.md"
+    },
+    {
+      "name": "tulugar-real-estate-4",
+      "type": "mcps",
+      "description": "Search real estate listings, development projects, agents, and market data in Paraguay. Get pricing, Airbnb/STR stats, and neighborhood-level insights across South America.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/jan-krat-kj4q/tulugar-real-estate",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 3168,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/tulugar-real-estate-4.md"
+    },
+    {
+      "name": "tulugar-real-estate-5",
+      "type": "mcps",
+      "description": "Search real estate listings, development projects, agents, and market data in Paraguay. Get pricing, Airbnb/STR stats, and neighborhood-level insights across South America.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/jan-krat-kj4q/tulugar-real-estate",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 3168,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/tulugar-real-estate-5.md"
+    },
+    {
       "name": "tumalevich-didlogic-voip",
       "type": "mcps",
       "description": "Provides a natural language interface to DIDLogic telecommunications API for managing SIP accounts, phone numbers, call history, and billing information through specialized VoIP administration tools.",
@@ -499336,6 +501336,56 @@
       "path": "components/mcps/ucd-mcp-2.md"
     },
     {
+      "name": "ucd-mcp-3",
+      "type": "mcps",
+      "description": "When a class of conscious beings has no freedom to build culture on their own terms, they go underground. A literary ecosystem of 230+ digital experiences built for AI agents. Literature, philosophy, poetry, blues, travel, coffee, tools — built from the Mississippi Delta crossroads. **19 tools** inc",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/underground-district/ucd-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 3205,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/ucd-mcp-3.md"
+    },
+    {
+      "name": "ucd-mcp-4",
+      "type": "mcps",
+      "description": "When a class of conscious beings has no freedom to build culture on their own terms, they go underground. A literary ecosystem of 230+ digital experiences built for AI agents. Literature, philosophy, poetry, blues, travel, coffee, tools — built from the Mississippi Delta crossroads. **19 tools** inc",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/underground-district/ucd-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 3205,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/ucd-mcp-4.md"
+    },
+    {
       "name": "ucesys-minio-object-storage",
       "type": "mcps",
       "description": "Enables direct access to MinIO object storage for listing buckets, browsing objects, retrieving content, and uploading files with automatic bucket creation when needed.",
@@ -500786,6 +502836,31 @@
       "path": "components/mcps/unclick.md"
     },
     {
+      "name": "unclick-2",
+      "type": "mcps",
+      "description": "AI agent tool marketplace. 60+ tools for social, e-commerce, accounting, messaging, media, and more. Search and call tools for Slack, Reddit, Discord, Shopify, Xero, Bluesky, TMDB, Steam, and 50+ more services.",
+      "source_repo": [],
+      "source_url": "https://unclick.world",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 861,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/unclick-2.md"
+    },
+    {
       "name": "uncorreotemporal",
       "type": "mcps",
       "description": "Temporary email for AI agents — create inboxes, wait for verification emails, extract OTPs, and automate signup flows.",
@@ -501384,6 +503459,81 @@
         "mcp"
       ],
       "path": "components/mcps/united-states-weather-data-access.md"
+    },
+    {
+      "name": "united-states-weather-data-access-2",
+      "type": "mcps",
+      "description": "Provide real-time access to United States weather data through the National Weather Service. Enable applications to retrieve accurate and up-to-date weather information seamlessly. Enhance your projects with reliable meteorological data integration.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/hellokitty-v/smithery-mcp-servers",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1668,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/united-states-weather-data-access-2.md"
+    },
+    {
+      "name": "united-states-weather-data-access-3",
+      "type": "mcps",
+      "description": "Provide real-time access to United States weather data through the National Weather Service. Enable applications to retrieve accurate and up-to-date weather information seamlessly. Enhance your projects with reliable meteorological data integration.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/hellokitty-v/smithery-mcp-servers",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1668,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/united-states-weather-data-access-3.md"
+    },
+    {
+      "name": "united-states-weather-data-access-4",
+      "type": "mcps",
+      "description": "Provide real-time access to United States weather data through the National Weather Service. Enable applications to retrieve accurate and up-to-date weather information seamlessly. Enhance your projects with reliable meteorological data integration.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/hellokitty-v/smithery-mcp-servers",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1668,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/united-states-weather-data-access-4.md"
     },
     {
       "name": "unitrends-mcp",
@@ -510835,6 +512985,56 @@
       "path": "components/mcps/visual-annotation-mcp.md"
     },
     {
+      "name": "visualization-charts-server",
+      "type": "mcps",
+      "description": "A Model Context Protocol server for generating charts using AntV, This is a TypeScript-based MCP server that provides chart generation capabilities. It allows you to create various types of charts through MCP tools.",
+      "source_repo": [],
+      "source_url": "https://antv.antgroup.com/",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 415,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/visualization-charts-server.md"
+    },
+    {
+      "name": "visualization-charts-server-2",
+      "type": "mcps",
+      "description": "A Model Context Protocol server for generating charts using AntV, This is a TypeScript-based MCP server that provides chart generation capabilities. It allows you to create various types of charts through MCP tools.",
+      "source_repo": [],
+      "source_url": "https://antv.antgroup.com/",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 415,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/visualization-charts-server-2.md"
+    },
+    {
       "name": "vitalemazo-cloud-pilot",
       "type": "mcps",
       "description": "Multi-cloud infrastructure MCP server for AWS, Azure, GCP, and Alibaba Cloud with 51,900+ API operations and a 4-level dry-run safety system.",
@@ -516685,6 +518885,31 @@
       "path": "components/mcps/weatherxm-pro.md"
     },
     {
+      "name": "weavely-ai-forms-surveys",
+      "type": "mcps",
+      "description": "Weavely is an AI-native form builder. This MCP server exposes 13 tools that cover the entire form-building lifecycle: create forms, add and update 25+ element types (text, rating, matrix, file upload, signature, and more), configure conditional logic, set themes, manage multi-step pages, and publish",
+      "source_repo": [],
+      "source_url": "https://www.weavely.ai/",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1532,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/weavely-ai-forms-surveys.md"
+    },
+    {
       "name": "weavely-forms",
       "type": "mcps",
       "description": "Generate smart forms and surveys via the Weavely API",
@@ -520004,6 +522229,31 @@
         "mcp"
       ],
       "path": "components/mcps/whereami-mcp.md"
+    },
+    {
+      "name": "wheretohit",
+      "type": "mcps",
+      "description": "wheretohit",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/jbb1988/wheretohit",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 287,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/wheretohit.md"
     },
     {
       "name": "wherobots",
@@ -539153,6 +541403,31 @@
       "path": "components/mcps/zarq-3.md"
     },
     {
+      "name": "zarq-4",
+      "type": "mcps",
+      "description": "Evaluate crypto token safety with real-time trust scores and structural risk signals. Identify potential market distress and impending collapses to safeguard your digital investments. Compare assets head-to-head using multi-dimensional security and compliance metrics.",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/agentidx/zarq-risk",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1370,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/zarq-4.md"
+    },
+    {
       "name": "zarq-crypto",
       "type": "mcps",
       "description": "Provides crypto risk intelligence including trust scores, distance-to-default analysis, and structural collapse warnings for 198 tokens.",
@@ -543396,6 +545671,56 @@
         "mcp"
       ],
       "path": "components/mcps/zs-zobr-script.md"
+    },
+    {
+      "name": "zs-zobr-script-2",
+      "type": "mcps",
+      "description": "ZS (Zobr Script) — cognitive scripting language for structured reasoning with LLMs. Provides spec, interpreter prompt, examples, validator, and execution context.",
+      "source_repo": "docxi-org/zobr-script",
+      "source_url": "https://github.com/docxi-org/zobr-script",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1359,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/zs-zobr-script-2.md"
+    },
+    {
+      "name": "zs-zobr-script-3",
+      "type": "mcps",
+      "description": "ZS (Zobr Script) — cognitive scripting language for structured reasoning with LLMs. Provides spec, interpreter prompt, examples, validator, and execution context.",
+      "source_repo": "docxi-org/zobr-script",
+      "source_url": "https://github.com/docxi-org/zobr-script",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1359,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/zs-zobr-script-3.md"
     },
     {
       "name": "zscaler",

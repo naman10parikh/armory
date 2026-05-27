@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/clickhouse
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3189
+stars: 3247
 eval_score: null
 verified_at: 2026-05-27
 related: []

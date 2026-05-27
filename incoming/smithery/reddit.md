@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/reddit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8565
+stars: 8866
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://budgetfitter.uk/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1273
+stars: 1269
 eval_score: null
 verified_at: 2026-05-27
 related: []
