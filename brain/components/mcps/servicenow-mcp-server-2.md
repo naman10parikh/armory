@@ -1,0 +1,27 @@
+---
+name: servicenow-mcp-server-2
+type: mcps
+description: >
+  Enables natural language interaction with ServiceNow instances for managing incidents, changes, CMDB, service catalog, users, groups, and knowledge base via MCP.
+source_repo: kylburns89/servicenow-mcp-server
+source_url: https://github.com/kylburns89/servicenow-mcp-server
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables natural language interaction with ServiceNow instances for managing incidents, changes, CMDB, service catalog, users, groups, and knowledge base via MCP.
+
+## When to use it
+Enables natural language interaction with ServiceNow instances for managing incidents, changes, CMDB, service catalog, users, groups, and knowledge base via MCP.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/a4j5r5zdl4) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

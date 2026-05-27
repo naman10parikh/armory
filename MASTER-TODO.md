@@ -5,7 +5,7 @@ harness component, brain-connected."_ Both the nightly self-improve loop
 (`.github/workflows/crawl.yml`) and on-demand agent waves **pull from this list** —
 this is the "distributed master to-do list" the agents contribute to and consume from.
 
-**Current: 20,835 components across 12 categories** (commit `ed15fbae`, 2026-05-27).
+**Current: 22,907 components across 12 categories** (2026-05-27, waves 1+2 — evals/observability/infra grew 5–10×).
 
 ## How to consume this queue (the protocol)
 
@@ -34,15 +34,14 @@ this is the "distributed master to-do list" the agents contribute to and consume
 | davila7/claude-code-templates | multi | ✅ DONE +1643 | `crawl-cctemplates` |
 | wshobson/agents + commands | subagents/workflows | ✅ DONE +272 | `crawl-wshobson` |
 | hesreallyhim/awesome-claude-code | multi | ✅ DONE +14 | `crawl-awesome-cc` |
-| **Glama (glama.ai API)** | mcps | ⏳ QUEUED | — |
-| **PulseMCP delta refresh** | mcps | ⏳ QUEUED | re-run `crawl-pulsemcp` |
-| **mcp.so / other MCP registries** | mcps | ⏳ QUEUED | — |
-| **anthropics/skills (full set)** | skills | ⏳ QUEUED | — |
-| **obra/superpowers + skill packs** | skills | ⏳ QUEUED | — |
+| Glama (glama.ai API) | mcps | ✅ DONE +1978 | `crawl-glama` |
+| anthropics/skills + obra/superpowers | skills | ✅ DONE | `crawl-skillpacks` |
+| evals frameworks (promptfoo/deepeval/ragas/inspect/…35) | evals | ✅ DONE +34 | `crawl-evals` |
+| observability (OTel/Langfuse/Helicone/Phoenix/…29) | observability | ✅ DONE +29 | `crawl-observability` |
+| infrastructure (E2B/Daytona/Modal/Fly/…28) | infrastructure | ✅ DONE +27 | `crawl-infra` |
+| **PulseMCP delta refresh** | mcps | ⏳ QUEUED (low net-new) | re-run `crawl-pulsemcp` |
+| **mcp.so / other MCP registries** | mcps | ⏳ QUEUED (heavy dedup) | — |
 | **more hook collections** | hooks | ⏳ QUEUED | — |
-| **promptfoo / evalite / braintrust** | evals | ⏳ QUEUED | — |
-| **OpenTelemetry / Langfuse / Helicone** | observability | ⏳ QUEUED | — |
-| **E2B / Daytona / microsandbox** | infrastructure | ⏳ QUEUED | — |
 
 ## Enrichment queue (no new crawl)
 
