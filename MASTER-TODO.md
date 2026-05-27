@@ -58,3 +58,9 @@ this is the "distributed master to-do list" the agents contribute to and consume
 
 adapter committed in `ingest/` · stubs promoted (dedup, **0 invalid**) · catalog
 rebuilt · `validate` **PASS** · committed + pushed · row marked `DONE — +N (commit)`.
+
+## CP108 — actual components + multi-harness plugin (2026-05-27)
+- ✅ Vendored 2,546 ACTUAL component files → `components/{skills,agents,commands,hooks,rules}/` + harness-native `.claude/ .cursor/` (ingest/vendor.mjs, idempotent).
+- ✅ Armory's OWN harness separated from the catalog: `armory-mcp/` (was mcp/) + `cli/` + `armory-skill/` + root plugin manifests; documented in HARNESS.md. No more "two mcp folders" ambiguity.
+- ✅ One-install plugin for EVERY harness (Claude Code/Codex/OpenCode/Gemini/Hermes): `.claude-plugin/` (+marketplace.json) `.codex-plugin/` `.hermes-plugin/` `opencode.json` `.gemini/settings.json` + `install.sh`/`.ps1` + PLUGIN.md. Edge vs ECC: live MCP gateway, not a fixed set.
+- ✅ README: removed Energy hyperlink; stripped featured "ECC" mentions (one source among many).
