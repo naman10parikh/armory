@@ -1,0 +1,11 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
+---
+description: "Cursor rules for Next.js development with Supabase integration for a Todo app."
+globs: **/*
+alwaysApply: false
+---
+Use the project specifications and guidelines to build the Todo app.
+
+Todo is a web app that allows you to manage your todos.
+
+Follow these rules:
