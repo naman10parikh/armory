@@ -1,0 +1,27 @@
+---
+name: binaryanalysis-mcp
+type: mcps
+description: >
+  Enables analysis of binary files (PE, ELF, Mach-O, COFF) by providing tools to retrieve info, headers, sections, imports, exports, libraries, security hardening, signatures, and COFF object file details.
+source_repo: Ap3x/BinaryAnalysis-MCP
+source_url: https://github.com/Ap3x/BinaryAnalysis-MCP
+license: GPL 3.0
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables analysis of binary files (PE, ELF, Mach-O, COFF) by providing tools to retrieve info, headers, sections, imports, exports, libraries, security hardening, signatures, and COFF object file details.
+
+## When to use it
+Enables analysis of binary files (PE, ELF, Mach-O, COFF) by providing tools to retrieve info, headers, sections, imports, exports, libraries, security hardening, signatures, and COFF object file details.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/a9eocvctvl) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
