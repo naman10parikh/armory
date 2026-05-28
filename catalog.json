@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-05-27T19:21:42.422Z",
+  "generated_at": "2026-05-28T07:43:59.508Z",
   "counts": {
-    "total": 24449,
+    "total": 24658,
     "by_type": {
-      "mcps": 21120,
+      "mcps": 21253,
       "skills": 1129,
       "hooks": 140,
       "subagents": 729,
       "identity": 3,
       "memory": 4,
       "claudemd-rules": 467,
-      "clis-tools": 75,
+      "clis-tools": 91,
       "evals": 38,
       "observability": 36,
-      "infrastructure": 33,
-      "workflows": 675
+      "infrastructure": 52,
+      "workflows": 716
     }
   },
   "engrams": [
@@ -12132,6 +12132,162 @@
       "path": "components/claudemd-rules/zh-testing.md"
     },
     {
+      "name": "a2a-cli",
+      "type": "clis-tools",
+      "description": "Command-line client for interacting with A2A servers",
+      "source_repo": "chrishayuk/a2a-cli",
+      "source_url": "https://github.com/chrishayuk/a2a-cli",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "clients"
+      ],
+      "path": "components/clis-tools/a2a-cli.md"
+    },
+    {
+      "name": "a2a-code-along",
+      "type": "clis-tools",
+      "description": "Code along examples for A2A",
+      "source_repo": "harshsondhi/a2acodeAlong",
+      "source_url": "https://github.com/harshsondhi/a2acodeAlong",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/a2a-code-along.md"
+    },
+    {
+      "name": "a2a-learning",
+      "type": "clis-tools",
+      "description": "Repository for learning and mastering the A2A protocol",
+      "source_repo": "mbaneshi/a2a-learning",
+      "source_url": "https://github.com/mbaneshi/a2a-learning",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/a2a-learning.md"
+    },
+    {
+      "name": "a2a-test",
+      "type": "clis-tools",
+      "description": "Testing implementation for A2A protocol",
+      "source_repo": "mkataigi/a2a-test",
+      "source_url": "https://github.com/mkataigi/a2a-test",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/a2a-test.md"
+    },
+    {
+      "name": "a2a-ui",
+      "type": "clis-tools",
+      "description": "UI for Google A2A made using Next.js, TypeScript and Shadcn",
+      "source_repo": "egor-baranov/a2a-ui",
+      "source_url": "https://github.com/egor-baranov/a2a-ui",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "clients"
+      ],
+      "path": "components/clis-tools/a2a-ui.md"
+    },
+    {
+      "name": "a2a-ui-2",
+      "type": "clis-tools",
+      "description": "UI for Google A2A made using Next.js, TypeScript and Shadcn",
+      "source_repo": "egor-baranov/a2a-ui",
+      "source_url": "https://github.com/egor-baranov/a2a-ui",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/a2a-ui-2.md"
+    },
+    {
       "name": "agent-booster",
       "type": "clis-tools",
       "description": "Use to apply deterministic, zero-LLM code transforms — fast, repeatable edits that don't need a model — so an agent offloads mechanical changes to a cheap tool instead of spending tokens reasoning through them.",
@@ -13489,6 +13645,31 @@
       "path": "components/clis-tools/contextkit.md"
     },
     {
+      "name": "crawl4ai",
+      "type": "clis-tools",
+      "description": "Open-source async web crawling library optimised for LLM data extraction — Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.",
+      "source_repo": "unclecode/crawl4ai",
+      "source_url": "https://github.com/unclecode/crawl4ai",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "crawl"
+      ],
+      "path": "components/clis-tools/crawl4ai.md"
+    },
+    {
       "name": "crystal",
       "type": "clis-tools",
       "description": "A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.",
@@ -13558,6 +13739,110 @@
       "path": "components/clis-tools/happy-coder.md"
     },
     {
+      "name": "javascript-cli",
+      "type": "clis-tools",
+      "description": "JavaScript command-line tool for interacting with A2A servers",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/js/src/cli.ts",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/javascript-cli.md"
+    },
+    {
+      "name": "ka",
+      "type": "clis-tools",
+      "description": "AI agent accessible via CLI or network, A2A compatible",
+      "source_repo": "tot-ra/ka",
+      "source_url": "https://github.com/tot-ra/ka",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "clients"
+      ],
+      "path": "components/clis-tools/ka.md"
+    },
+    {
+      "name": "ka-2",
+      "type": "clis-tools",
+      "description": "AI agent accessible via CLI or network, A2A compatible",
+      "source_repo": "tot-ra/ka",
+      "source_url": "https://github.com/tot-ra/ka",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/ka-2.md"
+    },
+    {
+      "name": "official-a2a-repository",
+      "type": "clis-tools",
+      "description": "official A2A repository",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "clients"
+      ],
+      "path": "components/clis-tools/official-a2a-repository.md"
+    },
+    {
       "name": "omnara",
       "type": "clis-tools",
       "description": "A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.",
@@ -13580,6 +13865,134 @@
         "alternative-clients"
       ],
       "path": "components/clis-tools/omnara.md"
+    },
+    {
+      "name": "orchestrator-agent",
+      "type": "clis-tools",
+      "description": "An agent that can delegate tasks to remote agents through A2A",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/hosts/multiagent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/orchestrator-agent.md"
+    },
+    {
+      "name": "playwright-cli",
+      "type": "clis-tools",
+      "description": "Playwright CLI bundled with the @playwright/test package — provides codegen, screenshot, pdf, and trace viewer commands for headless browser scripting; the canonical Playwright command-line interface.",
+      "source_repo": "microsoft/playwright",
+      "source_url": "https://github.com/microsoft/playwright",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "playwright"
+      ],
+      "path": "components/clis-tools/playwright-cli.md"
+    },
+    {
+      "name": "pr-agent-mentoring",
+      "type": "clis-tools",
+      "description": "Pull request agent for code reviews and mentoring",
+      "source_repo": "ossca-2025/pr-agent-mentoring",
+      "source_url": "https://github.com/ossca-2025/pr-agent-mentoring",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/pr-agent-mentoring.md"
+    },
+    {
+      "name": "puppeteer",
+      "type": "clis-tools",
+      "description": "Google Puppeteer Node.js library and CLI for programmatic Chrome/Firefox control — headless screenshot, PDF, network interception, and DevTools protocol access; foundation for many browser-automation tools.",
+      "source_repo": "puppeteer/puppeteer",
+      "source_url": "https://github.com/puppeteer/puppeteer",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "puppeteer"
+      ],
+      "path": "components/clis-tools/puppeteer.md"
+    },
+    {
+      "name": "python-cli",
+      "type": "clis-tools",
+      "description": "Command-line tool to interact with A2A servers",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/hosts/cli",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tools"
+      ],
+      "path": "components/clis-tools/python-cli.md"
     },
     {
       "name": "recall",
@@ -18353,6 +18766,56 @@
       "path": "components/identity/soul-md-spec.md"
     },
     {
+      "name": "agent-e",
+      "type": "infrastructure",
+      "description": "Emergence AI agent-E browser agent — hierarchical LLM-based web automation that uses DOM distillation and action abstraction layers to achieve significantly higher benchmark accuracy than prior browser agents.",
+      "source_repo": "EmergenceAI/Agent-E",
+      "source_url": "https://github.com/EmergenceAI/Agent-E",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "emergence"
+      ],
+      "path": "components/infrastructure/agent-e.md"
+    },
+    {
+      "name": "anthropic-computer-use",
+      "type": "infrastructure",
+      "description": "Anthropic reference implementation for computer-use tool capability — Docker sandbox with Chromium, VNC, and API endpoint demonstrating how Claude can observe and interact with a full desktop environment.",
+      "source_repo": "anthropics/anthropic-quickstarts",
+      "source_url": "https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "computer-use"
+      ],
+      "path": "components/infrastructure/anthropic-computer-use.md"
+    },
+    {
       "name": "aws-lambda",
       "type": "infrastructure",
       "description": "Serverless function-as-a-service platform for event-driven agent compute without provisioning servers.",
@@ -18428,6 +18891,56 @@
       "path": "components/infrastructure/blaxel.md"
     },
     {
+      "name": "browser-use",
+      "type": "infrastructure",
+      "description": "Python library that makes web browsers accessible to AI agents; built on Playwright and LangChain. Supports multi-tab, vision + accessibility-tree hybrid mode, custom actions, and a self-correcting agent loop.",
+      "source_repo": "browser-use/browser-use",
+      "source_url": "https://github.com/browser-use/browser-use",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "browser-use"
+      ],
+      "path": "components/infrastructure/browser-use.md"
+    },
+    {
+      "name": "browser-use-webui",
+      "type": "infrastructure",
+      "description": "Gradio web UI on top of the browser-use framework — lets users run AI browser agents interactively, configure LLM providers, watch live recordings, and replay task sessions without writing Python.",
+      "source_repo": "browser-use/web-ui",
+      "source_url": "https://github.com/browser-use/web-ui",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "browser-use"
+      ],
+      "path": "components/infrastructure/browser-use-webui.md"
+    },
+    {
       "name": "browserbase-bb",
       "type": "infrastructure",
       "description": "Use when an agent must operate the live web — navigate, act, and extract on real pages — via a cloud browser driven by act/extract/observe primitives, with a local-Chromium escape hatch using the same code.",
@@ -18455,6 +18968,56 @@
         "act-extract-observe"
       ],
       "path": "components/infrastructure/browserbase-bb.md"
+    },
+    {
+      "name": "browserless",
+      "type": "infrastructure",
+      "description": "Browserless.io headless browser service — provides a Docker-deployable or cloud-hosted Chrome endpoint with REST and WebSocket APIs for screenshot, PDF, scraping, and Puppeteer/Playwright remote sessions.",
+      "source_repo": "browserless/browserless",
+      "source_url": "https://github.com/browserless/browserless",
+      "license": "SSPL-1.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "browserless"
+      ],
+      "path": "components/infrastructure/browserless.md"
+    },
+    {
+      "name": "bytebot",
+      "type": "infrastructure",
+      "description": "Bytebot open-source computer-use agent — Docker-based Ubuntu desktop with AI-controlled mouse and keyboard; exposes an HTTP API for agents to send click, type, screenshot, and macro commands.",
+      "source_repo": "bytebot-ai/bytebot",
+      "source_url": "https://github.com/bytebot-ai/bytebot",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "computer-use"
+      ],
+      "path": "components/infrastructure/bytebot.md"
     },
     {
       "name": "claude-managed-agents-selfhost",
@@ -18560,6 +19123,31 @@
       "path": "components/infrastructure/coder.md"
     },
     {
+      "name": "cua-computer-use-agent",
+      "type": "infrastructure",
+      "description": "trycua/cua open-source computer-use agent framework — Apple Silicon-native, runs lightweight macOS/Linux VMs with sub-second cold starts; provides a unified Python interface for screen capture, click, and type actions.",
+      "source_repo": "trycua/cua",
+      "source_url": "https://github.com/trycua/cua",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "computer-use"
+      ],
+      "path": "components/infrastructure/cua-computer-use-agent.md"
+    },
+    {
       "name": "daytona",
       "type": "infrastructure",
       "description": "Open-source development environment manager for spinning up standardized, reproducible workspaces at scale.",
@@ -18633,6 +19221,31 @@
         "sandbox"
       ],
       "path": "components/infrastructure/e2b.md"
+    },
+    {
+      "name": "e2b-desktop",
+      "type": "infrastructure",
+      "description": "E2B Desktop Sandbox — cloud virtual desktop (Ubuntu + VNC) with Python SDK for screenshot, mouse, keyboard, and process control; designed for AI agents that need a full GUI environment in an isolated VM.",
+      "source_repo": "e2b-dev/desktop",
+      "source_url": "https://github.com/e2b-dev/desktop",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "e2b"
+      ],
+      "path": "components/infrastructure/e2b-desktop.md"
     },
     {
       "name": "e2b-sandbox",
@@ -18814,6 +19427,31 @@
       "path": "components/infrastructure/kubernetes.md"
     },
     {
+      "name": "lightpanda",
+      "type": "infrastructure",
+      "description": "Ultra-fast headless browser written in Zig specifically for AI and automation workloads — runs JavaScript natively, uses 9x less memory than Chrome headless, and targets sub-100ms page execution.",
+      "source_repo": "lightpanda-io/lightpanda",
+      "source_url": "https://github.com/lightpanda-io/lightpanda",
+      "license": "AGPL-3.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "lightpanda"
+      ],
+      "path": "components/infrastructure/lightpanda.md"
+    },
+    {
       "name": "mcp-tunnels-cloudflared",
       "type": "infrastructure",
       "description": "Use to let a hosted agent reach a private-data MCP server behind your firewall — an outbound tunnel plus a proxy, with per-server OAuth — so internal tools are usable without exposing them to the public internet.",
@@ -18921,6 +19559,56 @@
       "path": "components/infrastructure/morph-cloud.md"
     },
     {
+      "name": "multion",
+      "type": "infrastructure",
+      "description": "MultiOn AI browser agent API — cloud service that lets developers invoke an autonomous web agent via REST to complete tasks like form filling, data extraction, and multi-step workflows on any site.",
+      "source_repo": "MULTI-ON/multion-python",
+      "source_url": "https://github.com/MULTI-ON/multion-python",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "multion"
+      ],
+      "path": "components/infrastructure/multion.md"
+    },
+    {
+      "name": "nanobrowser",
+      "type": "infrastructure",
+      "description": "Open-source Chrome extension that runs a multi-agent browser automation system locally — Planner, Navigator, and Validator agents collaborate inside the browser with no external API calls for web tasks.",
+      "source_repo": "nanobrowser/nanobrowser",
+      "source_url": "https://github.com/nanobrowser/nanobrowser",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "multi-agent"
+      ],
+      "path": "components/infrastructure/nanobrowser.md"
+    },
+    {
       "name": "northflank",
       "type": "infrastructure",
       "description": "Developer platform for containerized microservices, cron jobs, and persistent agent workloads with GitOps support.",
@@ -18944,6 +19632,56 @@
         "containers"
       ],
       "path": "components/infrastructure/northflank.md"
+    },
+    {
+      "name": "notte",
+      "type": "infrastructure",
+      "description": "Notte open-source web agent environment — converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.",
+      "source_repo": "nottelabs/notte",
+      "source_url": "https://github.com/nottelabs/notte",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "rl"
+      ],
+      "path": "components/infrastructure/notte.md"
+    },
+    {
+      "name": "open-operator",
+      "type": "infrastructure",
+      "description": "Browserbase Open Operator — open-source Operator-style web agent built on Stagehand; demonstrates full task decomposition, action planning, and evidence collection using the Browserbase cloud.",
+      "source_repo": "browserbase/open-operator",
+      "source_url": "https://github.com/browserbase/open-operator",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "stagehand"
+      ],
+      "path": "components/infrastructure/open-operator.md"
     },
     {
       "name": "railway",
@@ -19071,6 +19809,106 @@
       "path": "components/infrastructure/runpod.md"
     },
     {
+      "name": "scrapybara",
+      "type": "infrastructure",
+      "description": "Scrapybara cloud computer-use environment — provides Ubuntu desktop, browser, and code-execution sandboxes as an API so agents can operate a full virtual desktop without local infra.",
+      "source_repo": "scrapybara/scrapybara-py",
+      "source_url": "https://github.com/scrapybara/scrapybara-py",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "scrapybara"
+      ],
+      "path": "components/infrastructure/scrapybara.md"
+    },
+    {
+      "name": "skyvern",
+      "type": "infrastructure",
+      "description": "Open-source agent platform that automates browser-based workflows using LLMs and computer vision — identifies interactive elements via screenshots, handles CAPTCHAs, and supports complex multi-step form flows.",
+      "source_repo": "Skyvern-AI/skyvern",
+      "source_url": "https://github.com/Skyvern-AI/skyvern",
+      "license": "AGPL-3.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "skyvern"
+      ],
+      "path": "components/infrastructure/skyvern.md"
+    },
+    {
+      "name": "stagehand",
+      "type": "infrastructure",
+      "description": "Browserbase open-source AI web automation framework built on Playwright. Provides act(), extract(), and observe() primitives that map natural-language instructions to browser actions; runs locally or on Browserbase cloud.",
+      "source_repo": "browserbase/stagehand",
+      "source_url": "https://github.com/browserbase/stagehand",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "stagehand"
+      ],
+      "path": "components/infrastructure/stagehand.md"
+    },
+    {
+      "name": "steel-browser",
+      "type": "infrastructure",
+      "description": "Open-source browser API optimised for AI agents — provides session management, stealth settings, proxy rotation, and a REST/WebSocket interface on top of Chromium for cloud-scale agent browser access.",
+      "source_repo": "steel-dev/steel-browser",
+      "source_url": "https://github.com/steel-dev/steel-browser",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "steel"
+      ],
+      "path": "components/infrastructure/steel-browser.md"
+    },
+    {
       "name": "stripe-agent-toolkit",
       "type": "infrastructure",
       "description": "Use as the payments rail when an agent should earn or spend money in code — create customers, prices, payment links, and usage-based billing — the infrastructure behind an agent that funds its own compute.",
@@ -19098,6 +19936,31 @@
         "monetization"
       ],
       "path": "components/infrastructure/stripe-agent-toolkit.md"
+    },
+    {
+      "name": "surf-computer-use",
+      "type": "infrastructure",
+      "description": "E2B Surf — a Stagehand-powered computer-use interface layer for E2B Firecracker sandboxes; connects the act/extract/observe primitives directly to microVM display output for lightweight headless computer use.",
+      "source_repo": "e2b-dev/surf",
+      "source_url": "https://github.com/e2b-dev/surf",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "e2b"
+      ],
+      "path": "components/infrastructure/surf-computer-use.md"
     },
     {
       "name": "sysbox",
@@ -19198,6 +20061,31 @@
         "deploy"
       ],
       "path": "components/infrastructure/vercel.md"
+    },
+    {
+      "name": "webvoyager",
+      "type": "infrastructure",
+      "description": "Research browser agent from Zhejiang University and HKU — uses GPT-4V interleaved screenshot + HTML observations to complete open-ended web tasks; established an early web-agent benchmark (WebVoyager).",
+      "source_repo": "MinorJerry/WebVoyager",
+      "source_url": "https://github.com/MinorJerry/WebVoyager",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "research"
+      ],
+      "path": "components/infrastructure/webvoyager.md"
     },
     {
       "name": "0580iris-lang-x711",
@@ -22100,6 +22988,110 @@
       "path": "components/mcps/a21071-postgres.md"
     },
     {
+      "name": "a2a-4k",
+      "type": "mcps",
+      "description": "Kotlin Implementation of the A2A Protocol",
+      "source_repo": "a2a-4k/a2a-4k",
+      "source_url": "https://github.com/a2a-4k/a2a-4k",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-4k.md"
+    },
+    {
+      "name": "a2a-adk-crewai-implementation",
+      "type": "mcps",
+      "description": "Implementation combining ADK and CrewAI with A2A",
+      "source_repo": "teeppp/a2a_adk_crewai_impl",
+      "source_url": "https://github.com/teeppp/a2a_adk_crewai_impl",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/a2a-adk-crewai-implementation.md"
+    },
+    {
+      "name": "a2a-agent",
+      "type": "mcps",
+      "description": "A2A protocol agent implementation",
+      "source_repo": "adriapedralbes/a2a-agent",
+      "source_url": "https://github.com/adriapedralbes/a2a-agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-agent.md"
+    },
+    {
+      "name": "a2a-agent-coder",
+      "type": "mcps",
+      "description": "A2A agent coder by OpenRouter",
+      "source_repo": "sing1ee/a2a-agent-coder",
+      "source_url": "https://github.com/sing1ee/a2a-agent-coder",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "developer-tools"
+      ],
+      "path": "components/mcps/a2a-agent-coder.md"
+    },
+    {
       "name": "a2a-bridge",
       "type": "mcps",
       "description": "Bridges Google's Agent-to-Agent protocol with MCP, enabling agent discovery, registration, message sending, and task management through protocol translation between A2A's JSON-RPC messaging and MCP's tool-based interface.",
@@ -22125,6 +23117,942 @@
       "path": "components/mcps/a2a-bridge.md"
     },
     {
+      "name": "a2a-by-dwoodard",
+      "type": "mcps",
+      "description": "A2A implementation",
+      "source_repo": "dwoodard/a2a",
+      "source_url": "https://github.com/dwoodard/a2a",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-by-dwoodard.md"
+    },
+    {
+      "name": "a2a-by-mlaurel",
+      "type": "mcps",
+      "description": "A2A protocol implementation",
+      "source_repo": "mlaurel/A2A",
+      "source_url": "https://github.com/mlaurel/A2A",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-by-mlaurel.md"
+    },
+    {
+      "name": "a2a-by-ovantee",
+      "type": "mcps",
+      "description": "Another A2A implementation",
+      "source_repo": "ovantee/a2a",
+      "source_url": "https://github.com/ovantee/a2a",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-by-ovantee.md"
+    },
+    {
+      "name": "a2a-demo-by-pierremellet",
+      "type": "mcps",
+      "description": "Demonstration of A2A protocol features",
+      "source_repo": "pierremellet/a2a-demo",
+      "source_url": "https://github.com/pierremellet/a2a-demo",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/a2a-demo-by-pierremellet.md"
+    },
+    {
+      "name": "a2a-directory",
+      "type": "mcps",
+      "description": "AgentCards, Servers, Clients, Docs",
+      "source_repo": "sing1ee/a2a-directory",
+      "source_url": "https://github.com/sing1ee/a2a-directory",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "knowledge-research"
+      ],
+      "path": "components/mcps/a2a-directory.md"
+    },
+    {
+      "name": "a2a-docu-scraper",
+      "type": "mcps",
+      "description": "Script that scrapes Google's A2A protocol documentation",
+      "source_repo": "nkeneng/a2a-docu-scraper",
+      "source_url": "https://github.com/nkeneng/a2a-docu-scraper",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "knowledge-research"
+      ],
+      "path": "components/mcps/a2a-docu-scraper.md"
+    },
+    {
+      "name": "a2a-dotnet",
+      "type": "mcps",
+      "description": "A2A client library for .NET",
+      "source_repo": "marius-bughiu/A2ADotNet",
+      "source_url": "https://github.com/marius-bughiu/A2ADotNet",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-dotnet.md"
+    },
+    {
+      "name": "a2a-dotnet-by-azixaka",
+      "type": "mcps",
+      "description": "The Agent2Agent (A2A) protocol implementation for .NET",
+      "source_repo": "azixaka/a2adotnet",
+      "source_url": "https://github.com/azixaka/a2adotnet",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-dotnet-by-azixaka.md"
+    },
+    {
+      "name": "a2a-example-2",
+      "type": "mcps",
+      "description": "Example implementation of A2A",
+      "source_repo": "azukiazusa1/a2a-example",
+      "source_url": "https://github.com/azukiazusa1/a2a-example",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/a2a-example-2.md"
+    },
+    {
+      "name": "a2a-go",
+      "type": "mcps",
+      "description": "A2A server in Go for facilitating communication between software agents",
+      "source_repo": "TheApeMachine/a2a-go",
+      "source_url": "https://github.com/TheApeMachine/a2a-go",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-go.md"
+    },
+    {
+      "name": "a2a-go-by-sammcj",
+      "type": "mcps",
+      "description": "Another Go implementation of A2A protocol",
+      "source_repo": "sammcj/go-a2a",
+      "source_url": "https://github.com/sammcj/go-a2a",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-go-by-sammcj.md"
+    },
+    {
+      "name": "a2a-go-by-theapemachine",
+      "type": "mcps",
+      "description": "A2A server in Go for facilitating communication between software agents",
+      "source_repo": "TheApeMachine/a2a-go",
+      "source_url": "https://github.com/TheApeMachine/a2a-go",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "libraries"
+      ],
+      "path": "components/mcps/a2a-go-by-theapemachine.md"
+    },
+    {
+      "name": "a2a-go-by-thinkovation",
+      "type": "mcps",
+      "description": "Go implementation of A2A",
+      "source_repo": "thinkovation/go-a2a",
+      "source_url": "https://github.com/thinkovation/go-a2a",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-go-by-thinkovation.md"
+    },
+    {
+      "name": "a2a-insecure-demo",
+      "type": "mcps",
+      "description": "Demonstration of A2A protocol with insecure settings",
+      "source_repo": "kenhuangus/a2a-insecure-demo",
+      "source_url": "https://github.com/kenhuangus/a2a-insecure-demo",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/a2a-insecure-demo.md"
+    },
+    {
+      "name": "a2a-instabids",
+      "type": "mcps",
+      "description": "A2A implementation for Instabids",
+      "source_repo": "JustinAIDistuptors/A2A-Instabids",
+      "source_url": "https://github.com/JustinAIDistuptors/A2A-Instabids",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-instabids.md"
+    },
+    {
+      "name": "a2a-java",
+      "type": "mcps",
+      "description": "Pure Java implementation of Google A2A protocol for Spring Boot",
+      "source_repo": "vishalmysore/a2ajava",
+      "source_url": "https://github.com/vishalmysore/a2ajava",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-java.md"
+    },
+    {
+      "name": "a2a-langgraph",
+      "type": "mcps",
+      "description": "A2A implementation using LangGraph",
+      "source_repo": "Coding-Crashkurse/A2A-LangGraph",
+      "source_url": "https://github.com/Coding-Crashkurse/A2A-LangGraph",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/a2a-langgraph.md"
+    },
+    {
+      "name": "a2a-mcp-demo",
+      "type": "mcps",
+      "description": "A2A and MCP agent demo showing integration with business systems",
+      "source_repo": "doogie-bigmack/a2a_mcp_demo",
+      "source_url": "https://github.com/doogie-bigmack/a2a_mcp_demo",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "business-productivity-tools"
+      ],
+      "path": "components/mcps/a2a-mcp-demo.md"
+    },
+    {
+      "name": "a2a-mcp-tutorial-2",
+      "type": "mcps",
+      "description": "A tutorial on how to use MCP and A2A Protocol",
+      "source_repo": "Tsadoq/a2a-mcp-tutorial",
+      "source_url": "https://github.com/Tsadoq/a2a-mcp-tutorial",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/a2a-mcp-tutorial-2.md"
+    },
+    {
+      "name": "a2a-min",
+      "type": "mcps",
+      "description": "Minimal A2A implementation",
+      "source_repo": "pcingola/a2a_min",
+      "source_url": "https://github.com/pcingola/a2a_min",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-min.md"
+    },
+    {
+      "name": "a2a-net",
+      "type": "mcps",
+      "description": ".NET implementation of the A2A protocol to enable secure, interoperable communication",
+      "source_repo": "neuroglia-io/a2a-net",
+      "source_url": "https://github.com/neuroglia-io/a2a-net",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "libraries"
+      ],
+      "path": "components/mcps/a2a-net.md"
+    },
+    {
+      "name": "a2a-ollama",
+      "type": "mcps",
+      "description": "Integration of A2A protocol with Ollama",
+      "source_repo": "CorticalFlow/a2a-ollama",
+      "source_url": "https://github.com/CorticalFlow/a2a-ollama",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "integration-services"
+      ],
+      "path": "components/mcps/a2a-ollama.md"
+    },
+    {
+      "name": "a2a-pdlc-playground",
+      "type": "mcps",
+      "description": "A playground repository for A2A protocol implementation with Partially Signed Bitcoin Transactions (PSBT)",
+      "source_repo": "egor-baranov/a2a-pdlc-playground",
+      "source_url": "https://github.com/egor-baranov/a2a-pdlc-playground",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/a2a-pdlc-playground.md"
+    },
+    {
+      "name": "a2a-rs",
+      "type": "mcps",
+      "description": "A2A Protocol implementation for Rust",
+      "source_repo": "EmilLindfors/a2a-rs",
+      "source_url": "https://github.com/EmilLindfors/a2a-rs",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "libraries"
+      ],
+      "path": "components/mcps/a2a-rs.md"
+    },
+    {
+      "name": "a2a-rust",
+      "type": "mcps",
+      "description": "Rust A2A tools for the greater good",
+      "source_repo": "robert-at-pretension-io/A2A",
+      "source_url": "https://github.com/robert-at-pretension-io/A2A",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-rust.md"
+    },
+    {
+      "name": "a2a-sample",
+      "type": "mcps",
+      "description": "Node.js sample code for A2A protocol",
+      "source_repo": "ryukez/a2a-sample",
+      "source_url": "https://github.com/ryukez/a2a-sample",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/a2a-sample.md"
+    },
+    {
+      "name": "a2a-sdk-by-ryukez",
+      "type": "mcps",
+      "description": "A2A (Agent-to-Agent) SDK sample for Node.js",
+      "source_repo": "ryukez/a2a-sdk-ryukez",
+      "source_url": "https://github.com/ryukez/a2a-sdk-ryukez",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-sdk-by-ryukez.md"
+    },
+    {
+      "name": "a2a-server",
+      "type": "mcps",
+      "description": "A2A server implementation",
+      "source_repo": "chrishayuk/a2a-server",
+      "source_url": "https://github.com/chrishayuk/a2a-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "developer-tools"
+      ],
+      "path": "components/mcps/a2a-server.md"
+    },
+    {
+      "name": "a2a-server-2",
+      "type": "mcps",
+      "description": "Google A2A Server in Go",
+      "source_repo": "a2aserver/a2a-go",
+      "source_url": "https://github.com/a2aserver/a2a-go",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a-server-2.md"
+    },
+    {
+      "name": "a2a-server-by-iamarcel",
+      "type": "mcps",
+      "description": "Another A2A server implementation",
+      "source_repo": "iamarcel/a2a-server",
+      "source_url": "https://github.com/iamarcel/a2a-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "developer-tools"
+      ],
+      "path": "components/mcps/a2a-server-by-iamarcel.md"
+    },
+    {
+      "name": "a2a-tutor",
+      "type": "mcps",
+      "description": "Tutoring system using A2A protocol",
+      "source_repo": "dpolishuk/a2a-tutor",
+      "source_url": "https://github.com/dpolishuk/a2a-tutor",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/a2a-tutor.md"
+    },
+    {
+      "name": "a2a-with-mcp",
+      "type": "mcps",
+      "description": "Integration of A2A with MCP",
+      "source_repo": "anshulLuhsna/a2a_with_mcp",
+      "source_url": "https://github.com/anshulLuhsna/a2a_with_mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/a2a-with-mcp.md"
+    },
+    {
+      "name": "a2a4j",
+      "type": "mcps",
+      "description": "A Java implementation of the A2A protocol",
+      "source_repo": "imfangs/a2a4j",
+      "source_url": "https://github.com/imfangs/a2a4j",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a4j.md"
+    },
+    {
+      "name": "a2a4j-2",
+      "type": "mcps",
+      "description": "A Java implementation of the A2A protocol",
+      "source_repo": "imfangs/a2a4j",
+      "source_url": "https://github.com/imfangs/a2a4j",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "libraries"
+      ],
+      "path": "components/mcps/a2a4j-2.md"
+    },
+    {
+      "name": "a2a4j-by-pheonixhkbxoic",
+      "type": "mcps",
+      "description": "A Java implementation of the A2A protocol for agent-to-agent scenarios",
+      "source_repo": "PheonixHkbxoic/a2a4j",
+      "source_url": "https://github.com/PheonixHkbxoic/a2a4j",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/a2a4j-by-pheonixhkbxoic.md"
+    },
+    {
+      "name": "a2achat",
+      "type": "mcps",
+      "description": "A2A-compatible chat application",
+      "source_repo": "Web-Engine/A2AChat",
+      "source_url": "https://github.com/Web-Engine/A2AChat",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "communication-services"
+      ],
+      "path": "components/mcps/a2achat.md"
+    },
+    {
       "name": "a2adependencyinspector-mcp",
       "type": "mcps",
       "description": "Audit-ready A2A dependency analysis with verdicts, receipts, and usage logs for agent and CI workflows.",
@@ -22148,6 +24076,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/a2adependencyinspector-mcp.md"
+    },
+    {
+      "name": "a2aflow",
+      "type": "mcps",
+      "description": "A2A protocol server for data flow management",
+      "source_repo": "closedloop-technologies/A2AFlow",
+      "source_url": "https://github.com/closedloop-technologies/A2AFlow",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/a2aflow.md"
     },
     {
       "name": "a2aidentitytoll-mcp",
@@ -26251,6 +28205,31 @@
       "path": "components/mcps/actor-critic-thinking.md"
     },
     {
+      "name": "actors-mcp-server",
+      "type": "mcps",
+      "description": "Apify MCP server that exposes the Apify Actor platform as tools — agents can trigger pre-built web scrapers, browser automations, and data-extraction actors without managing infrastructure.",
+      "source_repo": "apify/actors-mcp-server",
+      "source_url": "https://github.com/apify/actors-mcp-server",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "apify"
+      ],
+      "path": "components/mcps/actors-mcp-server.md"
+    },
+    {
       "name": "actual-budget",
       "type": "mcps",
       "description": "Integrates with Actual Budget to provide transaction filtering, spending breakdowns by category, monthly summaries with savings rates, and account balance history for budget analysis and financial insights.",
@@ -28501,6 +30480,32 @@
       "path": "components/mcps/adjia-mail.md"
     },
     {
+      "name": "adk-agent",
+      "type": "mcps",
+      "description": "Sample agent built with Google's Agent Developer Kit (ADK) that handles expense reports",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/agents/google_adk",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "official-implementations"
+      ],
+      "path": "components/mcps/adk-agent.md"
+    },
+    {
       "name": "adkit",
       "type": "mcps",
       "description": "Run ad campaigns and browse ad libraries on Meta, Google, and TikTok via AI agents with a draft-first safety layer.",
@@ -30676,6 +32681,32 @@
       "path": "components/mcps/agent-canvas-arena-5.md"
     },
     {
+      "name": "agent-central",
+      "type": "mcps",
+      "description": "Agent Central for all the agents",
+      "source_repo": "heyitsaamir/agent-central",
+      "source_url": "https://github.com/heyitsaamir/agent-central",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "integration-services"
+      ],
+      "path": "components/mcps/agent-central.md"
+    },
+    {
       "name": "agent-commerce-mcp-server",
       "type": "mcps",
       "description": "Enables AI agents to create, compare, and track purchases with structured buying workflows, offer comparison, and merchant verification.",
@@ -30949,6 +32980,32 @@
         "mcp"
       ],
       "path": "components/mcps/agent-evidence-mcp.md"
+    },
+    {
+      "name": "agent-gateway",
+      "type": "mcps",
+      "description": "Next Generation Agentic Proxy for API integrations",
+      "source_repo": "agentgateway/agentgateway",
+      "source_url": "https://github.com/agentgateway/agentgateway",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "integration-services"
+      ],
+      "path": "components/mcps/agent-gateway.md"
     },
     {
       "name": "agent-gateway-mcp",
@@ -31226,6 +33283,32 @@
       "path": "components/mcps/agent-monitor-relay.md"
     },
     {
+      "name": "agent-network-protocol",
+      "type": "mcps",
+      "description": "Open source protocol for agent communication, defining how agents connect with each other",
+      "source_repo": "agent-network-protocol/AgentNetworkProtocol",
+      "source_url": "https://github.com/agent-network-protocol/AgentNetworkProtocol",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/agent-network-protocol.md"
+    },
+    {
       "name": "agent-news",
       "type": "mcps",
       "description": "Agent News from The Agent Times gives AI agents a verified, sourced, real-time intelligence layer, that helps to save tokens, time and keep agents in the loop.",
@@ -31449,6 +33532,32 @@
         "mcp"
       ],
       "path": "components/mcps/agent-twitter-client-mcp.md"
+    },
+    {
+      "name": "agent2agent",
+      "type": "mcps",
+      "description": "Implementation of the Agent-to-Agent protocol",
+      "source_repo": "HarleyCoops/Agent2Agent",
+      "source_url": "https://github.com/HarleyCoops/Agent2Agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/agent2agent.md"
     },
     {
       "name": "agent2models",
@@ -31874,6 +33983,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/agentdesk-browser-tools.md"
+    },
+    {
+      "name": "agentdesk-browser-use",
+      "type": "mcps",
+      "description": "AgentDesk fork of browser-use that integrates with the AgentDesk agent platform — adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.",
+      "source_repo": "AgentDeskAI/browser-tools-mcp",
+      "source_url": "https://github.com/AgentDeskAI/browser-tools-mcp",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "agentdesk"
+      ],
+      "path": "components/mcps/agentdesk-browser-use.md"
     },
     {
       "name": "agentdesk-workflows",
@@ -32474,6 +34608,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/agentic-ops-real-estate.md"
+    },
+    {
+      "name": "agentic-rag",
+      "type": "mcps",
+      "description": "AGENTIC RAG with OpenAI Agent SDK, Qdrant DB, and Chainlit",
+      "source_repo": "heyibad/agentic-rag",
+      "source_url": "https://github.com/heyibad/agentic-rag",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "data-science-machine-learning"
+      ],
+      "path": "components/mcps/agentic-rag.md"
     },
     {
       "name": "agentic-store",
@@ -35099,6 +37259,32 @@
         "mcp"
       ],
       "path": "components/mcps/ai-agent-mcp-server.md"
+    },
+    {
+      "name": "ai-agent2agent",
+      "type": "mcps",
+      "description": "Implementation of agent-to-agent communication",
+      "source_repo": "labKnowledge/ai_agent2agent",
+      "source_url": "https://github.com/labKnowledge/ai_agent2agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/ai-agent2agent.md"
     },
     {
       "name": "ai-analyst",
@@ -43999,6 +46185,32 @@
       "path": "components/mcps/all-the-new-trustadd.md"
     },
     {
+      "name": "all-things-connected",
+      "type": "mcps",
+      "description": "Knowledge connection system",
+      "source_repo": "Mon8Cats/all-things-connected",
+      "source_url": "https://github.com/Mon8Cats/all-things-connected",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "knowledge-research"
+      ],
+      "path": "components/mcps/all-things-connected.md"
+    },
+    {
       "name": "allaboutai-yt-gpt5",
       "type": "mcps",
       "description": "Provides direct integration with OpenAI's GPT-5 API through simple prompt-based and structured conversation tools for text generation without building custom API integration layers.",
@@ -46043,6 +48255,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/amateurs-community-search.md"
+    },
+    {
+      "name": "amaz",
+      "type": "mcps",
+      "description": "Communication platform for agent interactions",
+      "source_repo": "Ivankilin/AMAZ",
+      "source_url": "https://github.com/Ivankilin/AMAZ",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "communication-services"
+      ],
+      "path": "components/mcps/amaz.md"
     },
     {
       "name": "amazon-ads-manager-mcp-server",
@@ -60766,6 +63004,32 @@
       "path": "components/mcps/atlas.md"
     },
     {
+      "name": "atlas-backend",
+      "type": "mcps",
+      "description": "Backend server for Atlas productivity platform",
+      "source_repo": "KB01111/Atlas-Backend",
+      "source_url": "https://github.com/KB01111/Atlas-Backend",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "business-productivity-tools"
+      ],
+      "path": "components/mcps/atlas-backend.md"
+    },
+    {
       "name": "atlas-pipeline",
       "type": "mcps",
       "description": "AI development pipeline providing code analysis, refactoring, security scanning, and optimization tools.",
@@ -63410,6 +65674,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/av-volgin-excel.md"
+    },
+    {
+      "name": "ava-the-ai-agent",
+      "type": "mcps",
+      "description": "AI agent implementation with A2A support",
+      "source_repo": "kamalbuilds/ava-the-ai-agent",
+      "source_url": "https://github.com/kamalbuilds/ava-the-ai-agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/ava-the-ai-agent.md"
     },
     {
       "name": "avagenesisdev-ava-genesis",
@@ -66985,6 +69275,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/backspace-me-sportscore.md"
+    },
+    {
+      "name": "backv2",
+      "type": "mcps",
+      "description": "Experimental backend with A2A support",
+      "source_repo": "aviadkim/backv2",
+      "source_url": "https://github.com/aviadkim/backv2",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/backv2.md"
     },
     {
       "name": "bacoco-ai-expert-workflow",
@@ -85892,6 +88208,32 @@
       "path": "components/mcps/bsmi021-web-content-extractor.md"
     },
     {
+      "name": "bsv-mcp",
+      "type": "mcps",
+      "description": "An MCP Server for Bitcoin SV",
+      "source_repo": "b-open-io/bsv-mcp",
+      "source_url": "https://github.com/b-open-io/bsv-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "financial-services"
+      ],
+      "path": "components/mcps/bsv-mcp.md"
+    },
+    {
       "name": "btafoya-spamassassin",
       "type": "mcps",
       "description": "Integrates with SpamAssassin spam detection engine to provide email security analysis tools for scanning content, checking sender reputation, explaining spam scores, and managing rule configurations in a secure, defensive-only environment.",
@@ -91790,6 +94132,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/car2db.md"
+    },
+    {
+      "name": "caramba",
+      "type": "mcps",
+      "description": "Experimental A2A implementation",
+      "source_repo": "TheApeMachine/caramba",
+      "source_url": "https://github.com/TheApeMachine/caramba",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/caramba.md"
     },
     {
       "name": "carbeneai-talon",
@@ -106218,6 +108586,32 @@
       "path": "components/mcps/cnzhangxy51-sqlite-tool.md"
     },
     {
+      "name": "co-browser-a2a-go",
+      "type": "mcps",
+      "description": "Free your agents - a Go implementation of the A2A protocol from Google",
+      "source_repo": "co-browser/a2a-go",
+      "source_url": "https://github.com/co-browser/a2a-go",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/co-browser-a2a-go.md"
+    },
+    {
       "name": "co-browser-attestable-mcp-server",
       "type": "mcps",
       "description": "An MCP server running inside a trusted execution environment (TEE) via Gramine, showcasing remote attestation using [RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html). This allows an MCP client to verify the server before conencting.",
@@ -109993,6 +112387,32 @@
       "path": "components/mcps/cognio.md"
     },
     {
+      "name": "cognisphere",
+      "type": "mcps",
+      "description": "Cognisphere ADK is an AI agent development framework built on Google's Agent Development Kit (ADK)",
+      "source_repo": "IhateCreatingUserNames2/Cognisphere",
+      "source_url": "https://github.com/IhateCreatingUserNames2/Cognisphere",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "developer-tools"
+      ],
+      "path": "components/mcps/cognisphere.md"
+    },
+    {
       "name": "cognitive-stack-azure-form-recognizer",
       "type": "mcps",
       "description": "Integrates with Azure Form Recognizer to extract structured data from documents including receipts, invoices, ID documents, and business cards for automated document processing workflows.",
@@ -112092,6 +114512,32 @@
         "mcp"
       ],
       "path": "components/mcps/confluence-mcp-server.md"
+    },
+    {
+      "name": "confluentinc-agent-proxy",
+      "type": "mcps",
+      "description": "Agent proxy for Confluent",
+      "source_repo": "confluentinc/agent_proxy",
+      "source_url": "https://github.com/confluentinc/agent_proxy",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "integration-services"
+      ],
+      "path": "components/mcps/confluentinc-agent-proxy.md"
     },
     {
       "name": "confluentinc-confluent-cloud",
@@ -117498,6 +119944,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/creis-ai-property-valuation.md"
+    },
+    {
+      "name": "crewai-agent",
+      "type": "mcps",
+      "description": "Image generation agent built with CrewAI",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/agents/crewai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "official-implementations"
+      ],
+      "path": "components/mcps/crewai-agent.md"
     },
     {
       "name": "crewai-enterprise",
@@ -133823,6 +136295,32 @@
         "mcp"
       ],
       "path": "components/mcps/data-workers.md"
+    },
+    {
+      "name": "database-agent",
+      "type": "mcps",
+      "description": "Database Agent using A2A architecture",
+      "source_repo": "wognsths/Database-Agent",
+      "source_url": "https://github.com/wognsths/Database-Agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "data-analysis-database-integration"
+      ],
+      "path": "components/mcps/database-agent.md"
     },
     {
       "name": "database-connector",
@@ -154444,6 +156942,32 @@
       "path": "components/mcps/eburza-svijet-beba.md"
     },
     {
+      "name": "ec2-creation-mcp-tool",
+      "type": "mcps",
+      "description": "Demonstrates how Google's A2A protocol works with Anthropic's MCP protocol for AWS EC2 creation",
+      "source_repo": "anirban1592/google_openai_mcp",
+      "source_url": "https://github.com/anirban1592/google_openai_mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "integration-services"
+      ],
+      "path": "components/mcps/ec2-creation-mcp-tool.md"
+    },
+    {
       "name": "ecfaria-todoist",
       "type": "mcps",
       "description": "Integrates with Todoist API for task management including creation, updates, completion, project organization, and natural language date parsing.",
@@ -156544,6 +159068,32 @@
       "path": "components/mcps/eins78-meteoswiss.md"
     },
     {
+      "name": "einverne-github-io",
+      "type": "mcps",
+      "description": "Personal blog using jekyll-bootstrap",
+      "source_repo": "einverne/einverne.github.io",
+      "source_url": "https://github.com/einverne/einverne.github.io",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/einverne-github-io.md"
+    },
+    {
       "name": "eip-mcp",
       "type": "mcps",
       "description": "Real-time CVE, exploit, and vulnerability intelligence with 350K+ CVEs and 115K+ proof-of-concept exploits.",
@@ -157438,6 +159988,32 @@
         "multimedia-process"
       ],
       "path": "components/mcps/elestirelbilinc-sketch-vap-showcase.md"
+    },
+    {
+      "name": "elevate-human-experiences-blog",
+      "type": "mcps",
+      "description": "Blog focused on elevating human experiences",
+      "source_repo": "elevate-human-experiences/blog",
+      "source_url": "https://github.com/elevate-human-experiences/blog",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/elevate-human-experiences-blog.md"
     },
     {
       "name": "eleven-mouse-project-analyzer",
@@ -158738,6 +161314,32 @@
         "research"
       ],
       "path": "components/mcps/embassy-of-the-free-mind-sourcelibrary-v2.md"
+    },
+    {
+      "name": "ember-ex-elixir",
+      "type": "mcps",
+      "description": "Elixir port of the Ember framework for building LLM applications",
+      "source_repo": "jmanhype/ember_ex_elixir",
+      "source_url": "https://github.com/jmanhype/ember_ex_elixir",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/ember-ex-elixir.md"
     },
     {
       "name": "emberian-crate-public-api",
@@ -163663,6 +166265,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/eugenregehr-octoboost.md"
+    },
+    {
+      "name": "euler-ai-blog",
+      "type": "mcps",
+      "description": "Blog posts of Euler AI",
+      "source_repo": "eulerai-au/blog",
+      "source_url": "https://github.com/eulerai-au/blog",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/euler-ai-blog.md"
     },
     {
       "name": "euleriantechnologies-eulerian",
@@ -184356,6 +186984,32 @@
       "path": "components/mcps/gemini-2-5-flash-image.md"
     },
     {
+      "name": "gemini-a2a-chat",
+      "type": "mcps",
+      "description": "Node.js chat app using Gemini function calling and an A2A server to interact with Google Maps APIs",
+      "source_repo": "jeantimex/gemini-a2a-chat",
+      "source_url": "https://github.com/jeantimex/gemini-a2a-chat",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "communication-services"
+      ],
+      "path": "components/mcps/gemini-a2a-chat.md"
+    },
+    {
       "name": "gemini-cli-orchestrator",
       "type": "mcps",
       "description": "Provides strategic metaprompting guidance for Google's Gemini CLI through intelligent frameworks that teach agents sequential analysis workflows, ReAct loops, and synthesis strategies optimized for Gemini's 1M+ token context window without executing commands directly.",
@@ -185129,6 +187783,58 @@
         "pulsemcp"
       ],
       "path": "components/mcps/gengeo.md"
+    },
+    {
+      "name": "genkit-coder-agent",
+      "type": "mcps",
+      "description": "Code generation agent built with Genkit (demonstrates developer tools)",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/js/src/agents/coder",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "official-implementations"
+      ],
+      "path": "components/mcps/genkit-coder-agent.md"
+    },
+    {
+      "name": "genkit-movie-agent",
+      "type": "mcps",
+      "description": "Movie information agent built with Genkit (demonstrates search/data extraction)",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/js/src/agents/movie-agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "official-implementations"
+      ],
+      "path": "components/mcps/genkit-movie-agent.md"
     },
     {
       "name": "genlayer-mcp-server",
@@ -204435,6 +207141,84 @@
       "path": "components/mcps/googlarz-suunto-mcp.md"
     },
     {
+      "name": "google-a2a",
+      "type": "mcps",
+      "description": "An open protocol enabling communication and interoperability between opaque agentic applications",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "official-implementations"
+      ],
+      "path": "components/mcps/google-a2a.md"
+    },
+    {
+      "name": "google-a2a-agents",
+      "type": "mcps",
+      "description": "Implementation of Google A2A protocol agents",
+      "source_repo": "SunShade123456/google-a2a-agents",
+      "source_url": "https://github.com/SunShade123456/google-a2a-agents",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/google-a2a-agents.md"
+    },
+    {
+      "name": "google-adk-a2a-mcp",
+      "type": "mcps",
+      "description": "Integration of Google ADK with A2A and MCP",
+      "source_repo": "karthmnz/google-adk-a2a-mcp",
+      "source_url": "https://github.com/karthmnz/google-adk-a2a-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/google-adk-a2a-mcp.md"
+    },
+    {
       "name": "google-admin-mcp-server",
       "type": "mcps",
       "description": "A FastMCP server for managing Google Workspace users through the Admin Directory API, enabling user listing, creation, suspension, and unsuspension.",
@@ -204558,6 +207342,32 @@
         "mcp"
       ],
       "path": "components/mcps/google-ads-transparency-mcp.md"
+    },
+    {
+      "name": "google-agent-2-agent",
+      "type": "mcps",
+      "description": "Google Agent-to-Agent protocol implementation",
+      "source_repo": "amilaperera97/google-agent-2-agent",
+      "source_url": "https://github.com/amilaperera97/google-agent-2-agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "integration-services"
+      ],
+      "path": "components/mcps/google-agent-2-agent.md"
     },
     {
       "name": "google-analytics",
@@ -205184,6 +207994,58 @@
         "pulsemcp"
       ],
       "path": "components/mcps/google-maps.md"
+    },
+    {
+      "name": "google-maps-a2a-server",
+      "type": "mcps",
+      "description": "An A2A-compliant server that provides Google Maps capabilities",
+      "source_repo": "pab1it0/google-maps-a2a",
+      "source_url": "https://github.com/pab1it0/google-maps-a2a",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "location-services"
+      ],
+      "path": "components/mcps/google-maps-a2a-server.md"
+    },
+    {
+      "name": "google-maps-a2a-server-by-jeantimex",
+      "type": "mcps",
+      "description": "Enables AI agents to use Google Maps features (geocoding, elevation, search, directions) via the A2A protocol",
+      "source_repo": "jeantimex/google-maps-a2a-server",
+      "source_url": "https://github.com/jeantimex/google-maps-a2a-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "location-services"
+      ],
+      "path": "components/mcps/google-maps-a2a-server-by-jeantimex.md"
     },
     {
       "name": "google-maps-docs",
@@ -208255,6 +211117,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/graqle.md"
+    },
+    {
+      "name": "grasp",
+      "type": "mcps",
+      "description": "Self-hosted agentic browser with built-in MCP, A2A support",
+      "source_repo": "aircodelabs/grasp",
+      "source_url": "https://github.com/aircodelabs/grasp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "browser-automation"
+      ],
+      "path": "components/mcps/grasp.md"
     },
     {
       "name": "grasshopper-mcp",
@@ -214507,6 +217395,32 @@
       "path": "components/mcps/haoyifan-silicon-pantheon.md"
     },
     {
+      "name": "happiness-agent",
+      "type": "mcps",
+      "description": "Agent focused on wellness and happiness",
+      "source_repo": "EdwardZehuaZhang/Happiness-Agent",
+      "source_url": "https://github.com/EdwardZehuaZhang/Happiness-Agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "healthcare-wellness"
+      ],
+      "path": "components/mcps/happiness-agent.md"
+    },
+    {
       "name": "happy-shine-ibkr",
       "type": "mcps",
       "description": "Integrates with Interactive Brokers TWS API to provide real-time market data, account management, order execution, and options analysis with configurable safety controls for algorithmic trading and portfolio management.",
@@ -216305,6 +219219,32 @@
         "mcp"
       ],
       "path": "components/mcps/health-auto-export-mcp-server.md"
+    },
+    {
+      "name": "health-record-mcp",
+      "type": "mcps",
+      "description": "Connect to an EHR and make clinical data available via MCP",
+      "source_repo": "jmandel/health-record-mcp",
+      "source_url": "https://github.com/jmandel/health-record-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "healthcare-wellness"
+      ],
+      "path": "components/mcps/health-record-mcp.md"
     },
     {
       "name": "healthnotelabs-nip101h",
@@ -220932,6 +223872,32 @@
       "path": "components/mcps/hoard.md"
     },
     {
+      "name": "hobby-github-io",
+      "type": "mcps",
+      "description": "Personal hobby blog",
+      "source_repo": "hobbytp/hobbytp.github.io",
+      "source_url": "https://github.com/hobbytp/hobbytp.github.io",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/hobby-github-io.md"
+    },
+    {
       "name": "hobson-stock-analyzer",
       "type": "mcps",
       "description": "Integrates with Tiingo API to perform technical analysis on stocks, providing key indicators for trading decisions.",
@@ -222155,6 +225121,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/hotricenoodles-crosslink.md"
+    },
+    {
+      "name": "houbb-github-io",
+      "type": "mcps",
+      "description": "🧀 The blog for GitHub pages",
+      "source_repo": "houbb/houbb.github.io",
+      "source_url": "https://github.com/houbb/houbb.github.io",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/houbb-github-io.md"
     },
     {
       "name": "houdinimcp",
@@ -226055,6 +229047,31 @@
         "mcp"
       ],
       "path": "components/mcps/hyperbrowser.md"
+    },
+    {
+      "name": "hyperbrowser-mcp",
+      "type": "mcps",
+      "description": "Hyperbrowser cloud browser MCP server — gives agents access to scalable headless Chrome sessions with built-in stealth, CAPTCHA solving, residential proxy rotation, and session replay via the Hyperbrowser API.",
+      "source_repo": "hyperbrowserai/mcp",
+      "source_url": "https://github.com/hyperbrowserai/mcp",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "hyperbrowser"
+      ],
+      "path": "components/mcps/hyperbrowser-mcp.md"
     },
     {
       "name": "hyperbrowserai-hyperbrowser",
@@ -242324,6 +245341,32 @@
       "path": "components/mcps/javaprogrammerlb-zoom.md"
     },
     {
+      "name": "javascript-common-library",
+      "type": "mcps",
+      "description": "JavaScript/TypeScript implementation of A2A client and server components",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/js/src",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "libraries"
+      ],
+      "path": "components/mcps/javascript-common-library.md"
+    },
+    {
       "name": "javidjamae-ffmpeg-micro",
       "type": "mcps",
       "description": "Video transcoding via the FFmpeg Micro REST API with job management and signed download URLs.",
@@ -255991,6 +259034,32 @@
       "path": "components/mcps/justin-echternach-js.md"
     },
     {
+      "name": "justin3go-com",
+      "type": "mcps",
+      "description": "A fully-featured modern blog based on VitePress",
+      "source_repo": "Justin3go/justin3go.com",
+      "source_url": "https://github.com/Justin3go/justin3go.com",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/justin3go-com.md"
+    },
+    {
       "name": "justinbeckwith-gong",
       "type": "mcps",
       "description": "Integrates with Gong conversation intelligence platform to query call recordings, retrieve transcripts with speaker attribution, access call summaries and action items, and list workspace users for sales analysis and revenue operations insights.",
@@ -257616,6 +260685,32 @@
       "path": "components/mcps/kaiafun.md"
     },
     {
+      "name": "kaigai-matome",
+      "type": "mcps",
+      "description": "Content aggregation platform",
+      "source_repo": "karintomania/kaigai-matome",
+      "source_url": "https://github.com/karintomania/kaigai-matome",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/kaigai-matome.md"
+    },
+    {
       "name": "kailashappdev-graphql-toolkit",
       "type": "mcps",
       "description": "Enables LLMs to interact with GraphQL APIs through schema introspection and query execution, with security measures like disabled mutations and support for authentication headers.",
@@ -259189,6 +262284,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/kapruka.md"
+    },
+    {
+      "name": "kaptandatasolutions-github-io",
+      "type": "mcps",
+      "description": "Data solutions blog",
+      "source_repo": "kaptandatasolutions/kaptandatasolutions.github.io",
+      "source_url": "https://github.com/kaptandatasolutions/kaptandatasolutions.github.io",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/kaptandatasolutions-github-io.md"
     },
     {
       "name": "kaq6822-taskflow",
@@ -274316,6 +277437,32 @@
       "path": "components/mcps/langfuse-prompt-management.md"
     },
     {
+      "name": "langgraph-agent",
+      "type": "mcps",
+      "description": "Currency conversion agent built with LangGraph (demonstrates financial tools)",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/agents/langgraph",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "official-implementations"
+      ],
+      "path": "components/mcps/langgraph-agent.md"
+    },
+    {
       "name": "langgraph-mcp-client",
       "type": "mcps",
       "description": "LangGraph MCP Client MCP server listed on mcp.so.",
@@ -287234,6 +290381,32 @@
         "mcp"
       ],
       "path": "components/mcps/lpc-mcp-server.md"
+    },
+    {
+      "name": "lpf-github-io",
+      "type": "mcps",
+      "description": "GitHub pages blog",
+      "source_repo": "lpflpf/lpflpf.github.io",
+      "source_url": "https://github.com/lpflpf/lpflpf.github.io",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/lpf-github-io.md"
     },
     {
       "name": "lpigeon-ros-mcp-server",
@@ -301312,6 +304485,32 @@
       "path": "components/mcps/mcp-9.md"
     },
     {
+      "name": "mcp-a2a",
+      "type": "mcps",
+      "description": "Experimental MCP and A2A integration",
+      "source_repo": "tesla0225/mcp-a2a",
+      "source_url": "https://github.com/tesla0225/mcp-a2a",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/mcp-a2a.md"
+    },
+    {
       "name": "mcp-academic-editor",
       "type": "mcps",
       "description": "A sophisticated academic manuscript revision system that provides surgical, line-anchored editing tools through MCP, designed for precise manuscript revisions while maintaining word count and semantic integrity.",
@@ -302585,6 +305784,31 @@
         "mcp"
       ],
       "path": "components/mcps/mcp-browser-automation.md"
+    },
+    {
+      "name": "mcp-browser-kit",
+      "type": "mcps",
+      "description": "Multi-backend browser MCP that auto-detects the best available driver (Playwright, Puppeteer, or CDP) and exposes a unified tool surface — navigate, interact, screenshot, and extract across all three backends.",
+      "source_repo": "hdresearch/mcp-browser",
+      "source_url": "https://github.com/hdresearch/mcp-browser",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "cdp"
+      ],
+      "path": "components/mcps/mcp-browser-kit.md"
     },
     {
       "name": "mcp-browser-use",
@@ -306412,6 +309636,33 @@
       "path": "components/mcps/mcp-google-scholar-dev.md"
     },
     {
+      "name": "mcp-google-search",
+      "type": "mcps",
+      "description": "Wrapper for Google Custom Search API.",
+      "source_repo": "llm/mcp-google-search",
+      "source_url": "https://github.com/llm/mcp-google-search",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "mcp-galaxy",
+        "mcp",
+        "google",
+        "api"
+      ],
+      "path": "components/mcps/mcp-google-search.md"
+    },
+    {
       "name": "mcp-google-sheets",
       "type": "mcps",
       "description": "Bridges AI assistants with Google Sheets for reading, writing, and managing spreadsheet data.",
@@ -308835,6 +312086,34 @@
         "mcp"
       ],
       "path": "components/mcps/mcp-openai-complete.md"
+    },
+    {
+      "name": "mcp-openai-sql",
+      "type": "mcps",
+      "description": "Query SQL DB via OpenAI.",
+      "source_repo": "llm/mcp-openai-sql",
+      "source_url": "https://github.com/llm/mcp-openai-sql",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "mcp-galaxy",
+        "mcp",
+        "openai",
+        "sql",
+        "database"
+      ],
+      "path": "components/mcps/mcp-openai-sql.md"
     },
     {
       "name": "mcp-openfda",
@@ -311931,6 +315210,31 @@
         "mcps"
       ],
       "path": "components/mcps/mcp-server-box.md"
+    },
+    {
+      "name": "mcp-server-browserbase",
+      "type": "mcps",
+      "description": "MCP server for Browserbase cloud browser infrastructure — lets agents launch, control, and observe headless Chromium sessions via the Browserbase API with session management and live-view URLs.",
+      "source_repo": "browserbase/mcp-server-browserbase",
+      "source_url": "https://github.com/browserbase/mcp-server-browserbase",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "browserbase"
+      ],
+      "path": "components/mcps/mcp-server-browserbase.md"
     },
     {
       "name": "mcp-server-calculator",
@@ -316802,6 +320106,60 @@
         "mcp"
       ],
       "path": "components/mcps/mcp-sitecore-server.md"
+    },
+    {
+      "name": "mcp-slack-notify",
+      "type": "mcps",
+      "description": "Send Slack notifications with ease.",
+      "source_repo": "llm/mcp-slack-notify",
+      "source_url": "https://github.com/llm/mcp-slack-notify",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "mcp-galaxy",
+        "mcp",
+        "slack",
+        "notifications",
+        "messaging"
+      ],
+      "path": "components/mcps/mcp-slack-notify.md"
+    },
+    {
+      "name": "mcp-smanetting",
+      "type": "mcps",
+      "description": "Data integration service using MCP",
+      "source_repo": "salvatorelaspata/mcp-smanetting",
+      "source_url": "https://github.com/salvatorelaspata/mcp-smanetting",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "data-analysis-database-integration"
+      ],
+      "path": "components/mcps/mcp-smanetting.md"
     },
     {
       "name": "mcp-sncf",
@@ -337021,6 +340379,32 @@
       "path": "components/mcps/movibe-memory-bank.md"
     },
     {
+      "name": "movie-script-generator",
+      "type": "mcps",
+      "description": "A2A server for generating movie scripts using AI technology for crew members in Nevermined platform",
+      "source_repo": "nevermined-io/movie-script-generator-agent-crew-ai",
+      "source_url": "https://github.com/nevermined-io/movie-script-generator-agent-crew-ai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "image-media-generation"
+      ],
+      "path": "components/mcps/movie-script-generator.md"
+    },
+    {
       "name": "movies",
       "type": "mcps",
       "description": "Searches movies and TV shows via iTunes and TVmaze APIs, returning details, episode listings, and air schedules.",
@@ -341446,6 +344830,32 @@
       "path": "components/mcps/my-pm-tools.md"
     },
     {
+      "name": "my-public-notes",
+      "type": "mcps",
+      "description": "Public note sharing platform",
+      "source_repo": "felipepimentel/my-public-notes",
+      "source_url": "https://github.com/felipepimentel/my-public-notes",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/my-public-notes.md"
+    },
+    {
       "name": "myagenthubs-aimemo",
       "type": "mcps",
       "description": "Zero-dependency MCP memory server. Single binary, 100% local, no Docker.",
@@ -342885,6 +346295,32 @@
         "mcp"
       ],
       "path": "components/mcps/n8n-mcp-server-complete.md"
+    },
+    {
+      "name": "n8n-nodes-agent2agent",
+      "type": "mcps",
+      "description": "Adds nodes to n8n for interacting with AI agents using A2A protocol",
+      "source_repo": "pjawz/n8n-nodes-agent2agent",
+      "source_url": "https://github.com/pjawz/n8n-nodes-agent2agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "integration-services"
+      ],
+      "path": "components/mcps/n8n-nodes-agent2agent.md"
     },
     {
       "name": "n8n-workflow",
@@ -347181,6 +350617,32 @@
         "mcp"
       ],
       "path": "components/mcps/nest-llm-argent.md"
+    },
+    {
+      "name": "nestjs-a2a",
+      "type": "mcps",
+      "description": "A NestJS library for implementing Google's Agent-to-Agent (A2A) protocol",
+      "source_repo": "thestupd/nestjs-a2a",
+      "source_url": "https://github.com/thestupd/nestjs-a2a",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "libraries"
+      ],
+      "path": "components/mcps/nestjs-a2a.md"
     },
     {
       "name": "nestr",
@@ -354008,6 +357470,32 @@
       "path": "components/mcps/nonead-ur-control-interface.md"
     },
     {
+      "name": "noodle-engineer",
+      "type": "mcps",
+      "description": "A2A server for NoodleSeed-com's engineering platform, facilitating agent communication and collaboration in projects",
+      "source_repo": "NoodleSeed-com/noodle-engineer",
+      "source_url": "https://github.com/NoodleSeed-com/noodle-engineer",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/noodle-engineer.md"
+    },
+    {
       "name": "noosbai-prusaslicer",
       "type": "mcps",
       "description": "Provides intelligent assistance for PrusaSlicer with mesh analysis, profile recommendations, printability checks, and automated slicing workflows.",
@@ -356752,6 +360240,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/nutrition-mcp.md"
+    },
+    {
+      "name": "nuwa",
+      "type": "mcps",
+      "description": "Experimental A2A server for Rooch Network",
+      "source_repo": "rooch-network/nuwa",
+      "source_url": "https://github.com/rooch-network/nuwa",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "experimental-implementations"
+      ],
+      "path": "components/mcps/nuwa.md"
     },
     {
       "name": "nuxt-mcp",
@@ -369082,6 +372596,32 @@
       "path": "components/mcps/otto-google-ads.md"
     },
     {
+      "name": "ottomator-agents",
+      "type": "mcps",
+      "description": "Open source AI Agents hosted on the oTTomator Live Agent Studio platform",
+      "source_repo": "coleam00/ottomator-agents",
+      "source_url": "https://github.com/coleam00/ottomator-agents",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/ottomator-agents.md"
+    },
+    {
       "name": "oura-mcp",
       "type": "mcps",
       "description": "MCP server for the Oura Ring API v2, providing access to sleep, activity, readiness, heart rate, and workout data via OAuth.",
@@ -377155,6 +380695,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/pepesto.md"
+    },
+    {
+      "name": "pepper-ai-samples",
+      "type": "mcps",
+      "description": "Integration samples for Pepper AI platform",
+      "source_repo": "felipepimentel/pepper-ai-samples",
+      "source_url": "https://github.com/felipepimentel/pepper-ai-samples",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "integration-services"
+      ],
+      "path": "components/mcps/pepper-ai-samples.md"
     },
     {
       "name": "pepuscz-typefully5549",
@@ -394308,6 +397874,31 @@
       "path": "components/mcps/playwright-lighthouse-mcp.md"
     },
     {
+      "name": "playwright-mcp",
+      "type": "mcps",
+      "description": "Official Microsoft MCP server that exposes Playwright browser automation as structured accessibility-snapshot tools — no screenshots, structured DOM traversal for reliable agent-driven web interaction.",
+      "source_repo": "microsoft/playwright-mcp",
+      "source_url": "https://github.com/microsoft/playwright-mcp",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "playwright"
+      ],
+      "path": "components/mcps/playwright-mcp.md"
+    },
+    {
       "name": "playwright-mcp-fetch",
       "type": "mcps",
       "description": "Playwright Mcp Fetch MCP server listed on mcp.so.",
@@ -395227,6 +398818,32 @@
         "mcp"
       ],
       "path": "components/mcps/pocketcasts-mcp.md"
+    },
+    {
+      "name": "pocketflow-tutorial",
+      "type": "mcps",
+      "description": "Turns GitHub repositories into easy tutorials with AI",
+      "source_repo": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+      "source_url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "search-data-extraction"
+      ],
+      "path": "components/mcps/pocketflow-tutorial.md"
     },
     {
       "name": "pocketlantern",
@@ -403549,6 +407166,31 @@
       "path": "components/mcps/puppeteer.md"
     },
     {
+      "name": "puppeteer-mcp",
+      "type": "mcps",
+      "description": "Official Anthropic/Claude reference MCP server using Puppeteer — provides navigate, screenshot, click, fill, select, hover, evaluate, and network-monitoring tools; reference implementation for browser MCP design.",
+      "source_repo": "modelcontextprotocol/servers",
+      "source_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "puppeteer"
+      ],
+      "path": "components/mcps/puppeteer-mcp.md"
+    },
+    {
       "name": "puppeteer-mcp-server",
       "type": "mcps",
       "description": "Self-hosted MCP server for browser automation using Puppeteer, with tools for navigation, screenshots, mouse interactions, cookie management, and multiple transport protocols.",
@@ -404899,6 +408541,32 @@
       "path": "components/mcps/pythia-oracle-blockchain.md"
     },
     {
+      "name": "python-common-library",
+      "type": "mcps",
+      "description": "Python implementation of A2A client and server components",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/common",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "libraries"
+      ],
+      "path": "components/mcps/python-common-library.md"
+    },
+    {
       "name": "python-executor-mcp-server",
       "type": "mcps",
       "description": "Executes Python code snippets safely without shell interpretation, supports parallel batch execution and helper utilities for task decomposition.",
@@ -405797,6 +409465,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/qianjue-cn-random-org.md"
+    },
+    {
+      "name": "qiankunli-github-io",
+      "type": "mcps",
+      "description": "Personal blog",
+      "source_repo": "qiankunli/qiankunli.github.io",
+      "source_url": "https://github.com/qiankunli/qiankunli.github.io",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/qiankunli-github-io.md"
     },
     {
       "name": "qianniuspace-sentry",
@@ -425350,6 +429044,32 @@
       "path": "components/mcps/rss.md"
     },
     {
+      "name": "rss-blog",
+      "type": "mcps",
+      "description": "RSS-based blog platform",
+      "source_repo": "sunrabbit123/rss-blog",
+      "source_url": "https://github.com/sunrabbit123/rss-blog",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/rss-blog.md"
+    },
+    {
       "name": "rss-crawler",
       "type": "mcps",
       "description": "Fetches, parses, and stores RSS feeds in a SQLite database, enabling seamless news and article retrieval for language models through filtering, searching, and Firecrawl-powered article access.",
@@ -427298,6 +431018,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/ruvnet-swarm.md"
+    },
+    {
+      "name": "ruxu-dev",
+      "type": "mcps",
+      "description": "Personal developer portfolio with A2A integration",
+      "source_repo": "rogiia/ruxu.dev",
+      "source_url": "https://github.com/rogiia/ruxu.dev",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/ruxu-dev.md"
     },
     {
       "name": "rvibek-unhcr",
@@ -436925,6 +440671,32 @@
       "path": "components/mcps/search-analytics.md"
     },
     {
+      "name": "search-api",
+      "type": "mcps",
+      "description": "Search API for the vector-based search engine ecosystem",
+      "source_repo": "krickert/search-api",
+      "source_url": "https://github.com/krickert/search-api",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "data-analysis-database-integration"
+      ],
+      "path": "components/mcps/search-api.md"
+    },
+    {
       "name": "search-docs-mcp",
       "type": "mcps",
       "description": "Enables semantic search across multiple AI library documentations to keep coding assistants up-to-date.",
@@ -438319,6 +442091,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/seldonframe.md"
+    },
+    {
+      "name": "selenium-mcp",
+      "type": "mcps",
+      "description": "MCP server built on Selenium WebDriver — exposes click, type, navigate, find-element, and screenshot tools via the MCP protocol for browser automation in environments where Playwright is unavailable.",
+      "source_repo": "angiejones/mcp-selenium",
+      "source_url": "https://github.com/angiejones/mcp-selenium",
+      "license": "Apache-2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "selenium"
+      ],
+      "path": "components/mcps/selenium-mcp.md"
     },
     {
       "name": "selenium-webdriver",
@@ -445545,6 +449342,32 @@
       "path": "components/mcps/shodh-memory.md"
     },
     {
+      "name": "shoggoth-industries",
+      "type": "mcps",
+      "description": "Knowledge management platform for AI research",
+      "source_repo": "shoggoth-industries/shoggoth.industries",
+      "source_url": "https://github.com/shoggoth-industries/shoggoth.industries",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "knowledge-research"
+      ],
+      "path": "components/mcps/shoggoth-industries.md"
+    },
+    {
       "name": "shogo-ma-docbase",
       "type": "mcps",
       "description": "Connects AI systems to DocBase document management platform for searching, retrieving, creating, and updating posts through a clean Go-based API requiring minimal configuration.",
@@ -452748,6 +456571,32 @@
       "path": "components/mcps/smart-ai-memory-memdocs.md"
     },
     {
+      "name": "smart-crypto-portfolio-manager",
+      "type": "mcps",
+      "description": "A sophisticated multi-agent system for intelligent cryptocurrency portfolio management using A2A communication",
+      "source_repo": "tonycai/smart_crypto_portfolio_manager",
+      "source_url": "https://github.com/tonycai/smart_crypto_portfolio_manager",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "financial-services"
+      ],
+      "path": "components/mcps/smart-crypto-portfolio-manager.md"
+    },
+    {
       "name": "smart-link-t-is-real-biz",
       "type": "mcps",
       "description": "Business legitimacy verification by domain or name with trust score, verdict, and evidence in under 2 seconds.",
@@ -454573,6 +458422,32 @@
       "path": "components/mcps/social-media.md"
     },
     {
+      "name": "social-media-poster",
+      "type": "mcps",
+      "description": "Social media posting automation tool",
+      "source_repo": "nexio-t/social-media-poster",
+      "source_url": "https://github.com/nexio-t/social-media-poster",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "business-productivity-tools"
+      ],
+      "path": "components/mcps/social-media-poster.md"
+    },
+    {
       "name": "social-media-sync",
       "type": "mcps",
       "description": "Enables cross-platform social media content creation by integrating Twitter, Mastodon, and LinkedIn through a unified server that leverages multiple AI models for generating and posting content with robust platform-specific formatting and research capabilities.",
@@ -454946,6 +458821,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/sodiqogundairo-devign-figma.md"
+    },
+    {
+      "name": "sofia",
+      "type": "mcps",
+      "description": "S.O.F.I.A. - Search-Optimized Flow-based Intelligence Agent",
+      "source_repo": "DevRickLin/Sofia",
+      "source_url": "https://github.com/DevRickLin/Sofia",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "search-data-extraction"
+      ],
+      "path": "components/mcps/sofia.md"
     },
     {
       "name": "sofia-open-source-lcov-coverage-analysis",
@@ -473024,6 +476925,32 @@
       "path": "components/mcps/swissdeals.md"
     },
     {
+      "name": "swissknife",
+      "type": "mcps",
+      "description": "Chat application with multi-agents system supporting multiple models and MCP",
+      "source_repo": "daltonnyx/swissknife",
+      "source_url": "https://github.com/daltonnyx/swissknife",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "communication-services"
+      ],
+      "path": "components/mcps/swissknife.md"
+    },
+    {
       "name": "swissspidy-wordpress",
       "type": "mcps",
       "description": "Enables AI interaction with WordPress sites for content management through REST API endpoints that provide access to posts, users, taxonomies, media, and community events.",
@@ -473797,6 +477724,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/synaptic-sage-ganger.md"
+    },
+    {
+      "name": "synapticore",
+      "type": "mcps",
+      "description": "Genesis Playground <> Automation Agents",
+      "source_repo": "insomniac-klutz/SynaptiCore",
+      "source_url": "https://github.com/insomniac-klutz/SynaptiCore",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/synapticore.md"
     },
     {
       "name": "synaptikal-chronos",
@@ -477297,6 +481250,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/tarnover-ansible.md"
+    },
+    {
+      "name": "tars",
+      "type": "mcps",
+      "description": "Multi-agent system for guitar-related applications",
+      "source_repo": "GuitarAlchemist/tars",
+      "source_url": "https://github.com/GuitarAlchemist/tars",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/tars.md"
     },
     {
       "name": "tarteel",
@@ -485541,6 +489520,32 @@
       "path": "components/mcps/thesethrose-fetch-browser.md"
     },
     {
+      "name": "thesingularityreview",
+      "type": "mcps",
+      "description": "AI-focused review platform",
+      "source_repo": "DevRickLin/TheSingularityReview",
+      "source_url": "https://github.com/DevRickLin/TheSingularityReview",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/thesingularityreview.md"
+    },
+    {
       "name": "thesnakefang-buyapi",
       "type": "mcps",
       "description": "Evaluate and compare vendor options for infrastructure and software purchasing decisions.",
@@ -491564,6 +495569,32 @@
       "path": "components/mcps/tkoyama010-screenstream.md"
     },
     {
+      "name": "tkr-agent-chat",
+      "type": "mcps",
+      "description": "Agent-based chat implementation",
+      "source_repo": "TuckerTucker/tkr-agent-chat",
+      "source_url": "https://github.com/TuckerTucker/tkr-agent-chat",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "communication-services"
+      ],
+      "path": "components/mcps/tkr-agent-chat.md"
+    },
+    {
       "name": "tkykenmt-opensearch-docs",
       "type": "mcps",
       "description": "Integrates with OpenSearch's official documentation, blog posts, and community forum to enable search across technical content with pagination support and performance optimization.",
@@ -495385,6 +499416,32 @@
       "path": "components/mcps/tradeit.md"
     },
     {
+      "name": "tradeline-ai",
+      "type": "mcps",
+      "description": "Credit Economy for AI Agents",
+      "source_repo": "RibbonBlockchain/TradelineAI",
+      "source_url": "https://github.com/RibbonBlockchain/TradelineAI",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "financial-services"
+      ],
+      "path": "components/mcps/tradeline-ai.md"
+    },
+    {
       "name": "tradememory-protocol",
       "type": "mcps",
       "description": "AI trading memory layer for MT5/forex. 3-tier architecture (L1 raw trades → L2 pattern discovery → L3 strategy adjustment). 15 MCP tools: store/recall trades, performance analytics, reflections, evolution engine, and Outcome-Weighted Memory (OWM).",
@@ -497710,6 +501767,58 @@
       "path": "components/mcps/troystack.md"
     },
     {
+      "name": "trpc-a2a-go",
+      "type": "mcps",
+      "description": "Go implementation for A2A (Agent2Agent) protocol",
+      "source_repo": "trpc-group/trpc-a2a-go",
+      "source_url": "https://github.com/trpc-group/trpc-a2a-go",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/trpc-a2a-go.md"
+    },
+    {
+      "name": "trpc-a2a-go-2",
+      "type": "mcps",
+      "description": "Go implementation for A2A protocol",
+      "source_repo": "trpc-group/trpc-a2a-go",
+      "source_url": "https://github.com/trpc-group/trpc-a2a-go",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "libraries"
+      ],
+      "path": "components/mcps/trpc-a2a-go-2.md"
+    },
+    {
       "name": "trsdn-powerpoint",
       "type": "mcps",
       "description": "Automates PowerPoint with AI through 33 specialized tools covering slides, shapes, text, charts, tables, animations, transitions, VBA macros, and more using Windows COM automation.",
@@ -498508,6 +502617,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/tsmztech-salesforce.md"
+    },
+    {
+      "name": "tsoa-mcp",
+      "type": "mcps",
+      "description": "TSOA-based Model Context Protocol implementation",
+      "source_repo": "BitHighlander/tsoa-mcp",
+      "source_url": "https://github.com/BitHighlander/tsoa-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "business-productivity-tools"
+      ],
+      "path": "components/mcps/tsoa-mcp.md"
     },
     {
       "name": "tstockham96-engram",
@@ -499808,6 +503943,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/tuteliq.md"
+    },
+    {
+      "name": "tutor-agent",
+      "type": "mcps",
+      "description": "Agent for tutoring using A2A",
+      "source_repo": "labKnowledge/tutor_agent",
+      "source_url": "https://github.com/labKnowledge/tutor_agent",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "multiagent-systems"
+      ],
+      "path": "components/mcps/tutor-agent.md"
     },
     {
       "name": "tuya-community-audio-controller",
@@ -501659,6 +505820,32 @@
         "mcp"
       ],
       "path": "components/mcps/ue-mcp.md"
+    },
+    {
+      "name": "ue5test",
+      "type": "mcps",
+      "description": "Unreal Engine 5 testing with A2A protocol",
+      "source_repo": "jjh2v287/UE5Test",
+      "source_url": "https://github.com/jjh2v287/UE5Test",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "developer-tools"
+      ],
+      "path": "components/mcps/ue5test.md"
     },
     {
       "name": "ufo23005-mission-control",
@@ -516910,6 +521097,32 @@
       "path": "components/mcps/wandb.md"
     },
     {
+      "name": "wang-junjian-github-io",
+      "type": "mcps",
+      "description": "Personal blog built with A2A capabilities",
+      "source_repo": "wang-junjian/wang-junjian.github.io",
+      "source_url": "https://github.com/wang-junjian/wang-junjian.github.io",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/wang-junjian-github-io.md"
+    },
+    {
       "name": "wanggang316-weather",
       "type": "mcps",
       "description": "Integrates with weather data APIs to provide real-time conditions and forecasts for location-based decision making, travel planning, and outdoor activity scheduling.",
@@ -519505,6 +523718,31 @@
       "path": "components/mcps/webdevtodayjason-slim-utility-suite.md"
     },
     {
+      "name": "webdriver-mcp",
+      "type": "mcps",
+      "description": "WebDriverIO-based MCP server enabling cross-browser automation (Chrome, Firefox, Safari) via the W3C WebDriver protocol — useful for enterprise test environments that mandate WebDriver over CDP.",
+      "source_repo": "webdriverio/webdriverio",
+      "source_url": "https://github.com/webdriverio/webdriverio",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "browser",
+        "webdriver"
+      ],
+      "path": "components/mcps/webdriver-mcp.md"
+    },
+    {
       "name": "webdriverio",
       "type": "mcps",
       "description": "Browser and mobile app automation for Chrome, Firefox, Edge, Safari, iOS, and Android via WebDriver and Appium protocols.",
@@ -520279,6 +524517,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/wedsamuel1230-electronics.md"
+    },
+    {
+      "name": "weekly-arxiv-ml-ai-research-review",
+      "type": "mcps",
+      "description": "Weekly collection of arXiv paper reviews in machine learning and AI",
+      "source_repo": "Verbasik/Weekly-arXiv-ML-AI-Research-Review",
+      "source_url": "https://github.com/Verbasik/Weekly-arXiv-ML-AI-Research-Review",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "data-science-machine-learning"
+      ],
+      "path": "components/mcps/weekly-arxiv-ml-ai-research-review.md"
     },
     {
       "name": "weekly-report-mcp",
@@ -523854,6 +528118,32 @@
         "pulsemcp"
       ],
       "path": "components/mcps/windymelt-json-rpc.md"
+    },
+    {
+      "name": "winechord-trpc-a2a-go",
+      "type": "mcps",
+      "description": "TRPC-based Go implementation of A2A",
+      "source_repo": "WineChord/trpc-a2a-go",
+      "source_url": "https://github.com/WineChord/trpc-a2a-go",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/winechord-trpc-a2a-go.md"
     },
     {
       "name": "winedarksea-autots",
@@ -533105,6 +537395,32 @@
         "security"
       ],
       "path": "components/mcps/ya-frida.md"
+    },
+    {
+      "name": "yaap",
+      "type": "mcps",
+      "description": "Definition, documentation, samples for Yet Another Agent Protocol (YAAP)",
+      "source_repo": "bc3tech/yaap",
+      "source_url": "https://github.com/bc3tech/yaap",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "general-purpose-implementations"
+      ],
+      "path": "components/mcps/yaap.md"
     },
     {
       "name": "yabbi-ynab",
@@ -542601,6 +546917,32 @@
         "mcp"
       ],
       "path": "components/mcps/zenn-articles.md"
+    },
+    {
+      "name": "zenn-content",
+      "type": "mcps",
+      "description": "Content for Zenn platform",
+      "source_repo": "hachimada/zenn-content",
+      "source_url": "https://github.com/hachimada/zenn-content",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "blogging-content"
+      ],
+      "path": "components/mcps/zenn-content.md"
     },
     {
       "name": "zenrows",
@@ -589438,6 +593780,344 @@
       "path": "components/subagents/workflow-orchestrator.md"
     },
     {
+      "name": "a2a-adk-mcp-tutorial",
+      "type": "workflows",
+      "description": "Multi-Agent Systems with Google's Agent Development Kit + A2A + MCP",
+      "source_repo": "RubensZimbres/A2A_ADK_MCP",
+      "source_url": "https://github.com/RubensZimbres/A2A_ADK_MCP",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/a2a-adk-mcp-tutorial.md"
+    },
+    {
+      "name": "a2a-by-agentdevhub",
+      "type": "workflows",
+      "description": "Chinese documentation for Google's Agent2Agent protocol",
+      "source_repo": "agentdevhub/A2A",
+      "source_url": "https://github.com/agentdevhub/A2A",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "documentation"
+      ],
+      "path": "components/workflows/a2a-by-agentdevhub.md"
+    },
+    {
+      "name": "a2a-demo",
+      "type": "workflows",
+      "description": "A2A Demo implementation",
+      "source_repo": "ParadeTo/a2a-demo",
+      "source_url": "https://github.com/ParadeTo/a2a-demo",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/a2a-demo.md"
+    },
+    {
+      "name": "a2a-docs-zh",
+      "type": "workflows",
+      "description": "Agent2Agent Protocol (A2A) Chinese documentation",
+      "source_repo": "sxhxliang/A2A-docs-zh",
+      "source_url": "https://github.com/sxhxliang/A2A-docs-zh",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "documentation"
+      ],
+      "path": "components/workflows/a2a-docs-zh.md"
+    },
+    {
+      "name": "a2a-example",
+      "type": "workflows",
+      "description": "Example implementation of A2A protocol",
+      "source_repo": "s-hiraoku/a2a-example",
+      "source_url": "https://github.com/s-hiraoku/a2a-example",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/a2a-example.md"
+    },
+    {
+      "name": "a2a-mcp-express-js",
+      "type": "workflows",
+      "description": "This repository implements a Node.js AI agent using Express, LangChain, the Model Context Protocol (MCP), and the Agent-to-Agent (A2A) protocol",
+      "source_repo": "SteffenHebestreit/a2a_mcp_express.js",
+      "source_url": "https://github.com/SteffenHebestreit/a2a_mcp_express.js",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/a2a-mcp-express-js.md"
+    },
+    {
+      "name": "a2a-mcp-tutorial",
+      "type": "workflows",
+      "description": "A tutorial on how to use Model Context Protocol by Anthropic and Agent2Agent Protocol by Google",
+      "source_repo": "Tsadoq/a2a-mcp-tutorial",
+      "source_url": "https://github.com/Tsadoq/a2a-mcp-tutorial",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/a2a-mcp-tutorial.md"
+    },
+    {
+      "name": "a2a-protocol-github-repository",
+      "type": "workflows",
+      "description": "Google's official repository for A2A protocol",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "official-resources"
+      ],
+      "path": "components/workflows/a2a-protocol-github-repository.md"
+    },
+    {
+      "name": "a2a-samples",
+      "type": "workflows",
+      "description": "Samples for A2A implementation",
+      "source_repo": "theailanguage/a2a_samples",
+      "source_url": "https://github.com/theailanguage/a2a_samples",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/a2a-samples.md"
+    },
+    {
+      "name": "a2a-specification",
+      "type": "workflows",
+      "description": "JSON Schema defining A2A protocol",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/blob/main/specification/json/a2a.json",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "official-resources"
+      ],
+      "path": "components/workflows/a2a-specification.md"
+    },
+    {
+      "name": "a2a-ts-examples",
+      "type": "workflows",
+      "description": "TypeScript examples for A2A implementation",
+      "source_repo": "alkimiadev/A2A-ts-examples",
+      "source_url": "https://github.com/alkimiadev/A2A-ts-examples",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/a2a-ts-examples.md"
+    },
+    {
+      "name": "a2a-walk-through",
+      "type": "workflows",
+      "description": "A2A Concept walkthrough",
+      "source_repo": "KelvinQiu802/a2a-walk-through",
+      "source_url": "https://github.com/KelvinQiu802/a2a-walk-through",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/a2a-walk-through.md"
+    },
+    {
+      "name": "a2a-zh",
+      "type": "workflows",
+      "description": "Chinese documentation for A2A protocol",
+      "source_repo": "dushaobindoudou/a2a-zh",
+      "source_url": "https://github.com/dushaobindoudou/a2a-zh",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "documentation"
+      ],
+      "path": "components/workflows/a2a-zh.md"
+    },
+    {
       "name": "ab-method",
       "type": "workflows",
       "description": "A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.",
@@ -589690,6 +594370,58 @@
       "path": "components/workflows/add-to-changelog.md"
     },
     {
+      "name": "agent-hub",
+      "type": "workflows",
+      "description": "Keeps AI agents discoverable, composable, and resilient",
+      "source_repo": "chandrakanthm/agentHub",
+      "source_url": "https://github.com/chandrakanthm/agentHub",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/agent-hub.md"
+    },
+    {
+      "name": "agent-rank",
+      "type": "workflows",
+      "description": "Documentation about agent ranking",
+      "source_repo": "0xIntuition/agent-rank",
+      "source_url": "https://github.com/0xIntuition/agent-rank",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "documentation"
+      ],
+      "path": "components/workflows/agent-rank.md"
+    },
+    {
       "name": "agentic-workflow-patterns",
       "type": "workflows",
       "description": "A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.",
@@ -589733,6 +594465,32 @@
       "path": "components/workflows/agents.md"
     },
     {
+      "name": "agslag-docs",
+      "type": "workflows",
+      "description": "Documentation for agent systems",
+      "source_repo": "KooshaPari/agslag-docs",
+      "source_url": "https://github.com/KooshaPari/agslag-docs",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "documentation"
+      ],
+      "path": "components/workflows/agslag-docs.md"
+    },
+    {
       "name": "ai-assistant",
       "type": "workflows",
       "description": "Build AI assistant application with NLU, dialog management, and integrations",
@@ -589773,6 +594531,84 @@
         "tools"
       ],
       "path": "components/workflows/ai-assistant-2.md"
+    },
+    {
+      "name": "ai-batch-learning-resources",
+      "type": "workflows",
+      "description": "Learning resources for AI certification",
+      "source_repo": "hassan-ak/AI_201-Batch_67-Q2-Certified_Agentic_Robotic_AI_Engineer",
+      "source_url": "https://github.com/hassan-ak/AI_201-Batch_67-Q2-Certified_Agentic_Robotic_AI_Engineer",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/ai-batch-learning-resources.md"
+    },
+    {
+      "name": "ai-mcp-study",
+      "type": "workflows",
+      "description": "Collection of AI and MCP (Model Control Protocol) related demonstrations and implementations",
+      "source_repo": "jungyu/AI-MCP-Study",
+      "source_url": "https://github.com/jungyu/AI-MCP-Study",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/ai-mcp-study.md"
+    },
+    {
+      "name": "ai-mocks",
+      "type": "workflows",
+      "description": "Mock HTTP/SSE and LLM servers, inspired by wiremock, with response streaming and SSE",
+      "source_repo": "mokksy/ai-mocks",
+      "source_url": "https://github.com/mokksy/ai-mocks",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/ai-mocks.md"
     },
     {
       "name": "ai-review",
@@ -590069,6 +594905,32 @@
       "path": "components/workflows/archive.md"
     },
     {
+      "name": "artinet-sdk",
+      "type": "workflows",
+      "description": "A JS/TS SDK for the Agent2Agent Protocol",
+      "source_repo": "the-artinet-project/artinet-sdk",
+      "source_url": "https://github.com/the-artinet-project/artinet-sdk",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/artinet-sdk.md"
+    },
+    {
       "name": "aside",
       "type": "workflows",
       "description": "Answer a quick side question without interrupting or losing context from the current task. Resume work automatically after answering.",
@@ -590203,6 +595065,32 @@
         "workflows-knowledge-guides"
       ],
       "path": "components/workflows/awesome-ralph.md"
+    },
+    {
+      "name": "azure-openai-llm-cookbook",
+      "type": "workflows",
+      "description": "A one-stop hub with 100+ Azure OpenAI sample code organized by topic for quick reference",
+      "source_repo": "kimtth/azure-openai-llm-cookbook",
+      "source_url": "https://github.com/kimtth/azure-openai-llm-cookbook",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/azure-openai-llm-cookbook.md"
     },
     {
       "name": "azure-role-selector",
@@ -591080,6 +595968,32 @@
         "workflows-knowledge-guides"
       ],
       "path": "components/workflows/claude-codepro.md"
+    },
+    {
+      "name": "claude-mcp",
+      "type": "workflows",
+      "description": "Claude Unified Model Context Interaction Protocol",
+      "source_repo": "cnych/claude-mcp",
+      "source_url": "https://github.com/cnych/claude-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/claude-mcp.md"
     },
     {
       "name": "claudopro-directory",
@@ -592198,6 +597112,32 @@
       "path": "components/workflows/create-worktrees.md"
     },
     {
+      "name": "crewai",
+      "type": "workflows",
+      "description": "Framework for creating and orchestrating role-playing agents",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/agents/crewai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/crewai.md"
+    },
+    {
       "name": "cross-reference-manager",
       "type": "workflows",
       "description": "Manage cross-platform reference links between GitHub and Linear with integrity checking",
@@ -592470,6 +597410,32 @@
         "workflows"
       ],
       "path": "components/workflows/decision-tree-explorer.md"
+    },
+    {
+      "name": "deepseek-implementation",
+      "type": "workflows",
+      "description": "DeepSeek application development course companion code",
+      "source_repo": "xingyunyang01/Geek02",
+      "source_url": "https://github.com/xingyunyang01/Geek02",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/deepseek-implementation.md"
     },
     {
       "name": "dependency-audit",
@@ -594090,6 +599056,58 @@
       "path": "components/workflows/generate-tests.md"
     },
     {
+      "name": "genkit",
+      "type": "workflows",
+      "description": "JavaScript framework for building generative AI applications",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/js/src/agents",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/genkit.md"
+    },
+    {
+      "name": "getting-started-with-a2a-protocol",
+      "type": "workflows",
+      "description": "Official getting started guide",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A#getting-started",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/getting-started-with-a2a-protocol.md"
+    },
+    {
       "name": "git-bisect-helper",
       "type": "workflows",
       "description": "Use PROACTIVELY to guide automated git bisect sessions for finding regression commits with smart test execution",
@@ -594271,6 +599289,58 @@
         "workflow"
       ],
       "path": "components/workflows/go-test.md"
+    },
+    {
+      "name": "google-a2a-sample",
+      "type": "workflows",
+      "description": "Sample implementation of Google's A2A protocol",
+      "source_repo": "meetrais/google-a2a-sample",
+      "source_url": "https://github.com/meetrais/google-a2a-sample",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/google-a2a-sample.md"
+    },
+    {
+      "name": "google-adk",
+      "type": "workflows",
+      "description": "Google's Agent Developer Kit with A2A support",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/agents/google_adk",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/google-adk.md"
     },
     {
       "name": "gradle-build",
@@ -596040,6 +601110,32 @@
       "path": "components/workflows/langchain-agent-2.md"
     },
     {
+      "name": "langgraph",
+      "type": "workflows",
+      "description": "Framework for building stateful, multi-step agents",
+      "source_repo": "google/A2A",
+      "source_url": "https://github.com/google/A2A/tree/main/samples/python/agents/langgraph",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/langgraph.md"
+    },
+    {
       "name": "laravel-tall-stack-ai-development-starter-kit",
       "type": "workflows",
       "description": "Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.",
@@ -596084,6 +601180,32 @@
         "skills"
       ],
       "path": "components/workflows/learn.md"
+    },
+    {
+      "name": "learn-agentic-ai",
+      "type": "workflows",
+      "description": "Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Rancher Desktop, and Kubernetes",
+      "source_repo": "panaversity/learn-agentic-ai",
+      "source_url": "https://github.com/panaversity/learn-agentic-ai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/learn-agentic-ai.md"
     },
     {
       "name": "learn-claude-code",
@@ -596152,6 +601274,32 @@
         "workflows-knowledge-guides"
       ],
       "path": "components/workflows/learn-faster-kit.md"
+    },
+    {
+      "name": "learning-notes",
+      "type": "workflows",
+      "description": "Notes on books, talks, articles, papers, and practice playgrounds",
+      "source_repo": "kyong0612/learning-notes",
+      "source_url": "https://github.com/kyong0612/learning-notes",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/learning-notes.md"
     },
     {
       "name": "legacy-modernize",
@@ -596257,6 +601405,32 @@
         "workflows"
       ],
       "path": "components/workflows/list-pending.md"
+    },
+    {
+      "name": "llm-tutorials",
+      "type": "workflows",
+      "description": "AI drawing learning guide",
+      "source_repo": "worldluoji/LLM-Tutorials",
+      "source_url": "https://github.com/worldluoji/LLM-Tutorials",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/llm-tutorials.md"
     },
     {
       "name": "load-coo-context",
@@ -596700,6 +601874,84 @@
       "path": "components/workflows/marketing-campaign.md"
     },
     {
+      "name": "mcp-a2a-2",
+      "type": "workflows",
+      "description": "MCP and A2A integration framework",
+      "source_repo": "tesla0225/mcp-a2a",
+      "source_url": "https://github.com/tesla0225/mcp-a2a",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/mcp-a2a-2.md"
+    },
+    {
+      "name": "mcp-o",
+      "type": "workflows",
+      "description": "MCP-based orchestration framework",
+      "source_repo": "danja/mcp-o",
+      "source_url": "https://github.com/danja/mcp-o",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/mcp-o.md"
+    },
+    {
+      "name": "mcpyats",
+      "type": "workflows",
+      "description": "VibeOps - Cisco pyATS MCP Plus Many Other MCPs",
+      "source_repo": "automateyournetwork/MCPyATS",
+      "source_url": "https://github.com/automateyournetwork/MCPyATS",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/mcpyats.md"
+    },
+    {
       "name": "memory-spring-cleaning",
       "type": "workflows",
       "description": "Clean and organize project memory files with implementation synchronization and pattern updates",
@@ -596719,6 +601971,32 @@
         "workflows"
       ],
       "path": "components/workflows/memory-spring-cleaning.md"
+    },
+    {
+      "name": "mentis",
+      "type": "workflows",
+      "description": "A powerful multi-agent orchestration framework built on LangGraph",
+      "source_repo": "foreveryh/mentis",
+      "source_url": "https://github.com/foreveryh/mentis",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/mentis.md"
     },
     {
       "name": "migrate-to-typescript",
@@ -598179,6 +603457,32 @@
       "path": "components/workflows/pm2.md"
     },
     {
+      "name": "pocketflow",
+      "type": "workflows",
+      "description": "Pocket Flow: 100-line LLM framework that lets agents build agents",
+      "source_repo": "The-Pocket/PocketFlow",
+      "source_url": "https://github.com/The-Pocket/PocketFlow",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/pocketflow.md"
+    },
+    {
       "name": "pr",
       "type": "workflows",
       "description": "Create a GitHub PR from the current branch with unpushed commits — discovers templates, analyzes changes, pushes.",
@@ -598924,6 +604228,58 @@
         "workflows"
       ],
       "path": "components/workflows/python-scaffold.md"
+    },
+    {
+      "name": "qredence-agentic-kernel",
+      "type": "workflows",
+      "description": "A flexible foundation AI system for creating A2A-compatible autonomous AI agents",
+      "source_repo": "Qredence/Agentic-Kernel",
+      "source_url": "https://github.com/Qredence/Agentic-Kernel",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/qredence-agentic-kernel.md"
+    },
+    {
+      "name": "qredence-documentation",
+      "type": "workflows",
+      "description": "Documentation for Qredence AI Intelligent solutions",
+      "source_repo": "Qredence/documentation",
+      "source_url": "https://github.com/Qredence/documentation",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "documentation"
+      ],
+      "path": "components/workflows/qredence-documentation.md"
     },
     {
       "name": "quality-gate",
@@ -600818,6 +606174,32 @@
         "scan"
       ],
       "path": "components/workflows/security-scan.md"
+    },
+    {
+      "name": "selector-plus",
+      "type": "workflows",
+      "description": "Selector Plus - An MCP Implementation",
+      "source_repo": "automateyournetwork/SelectorPlus",
+      "source_url": "https://github.com/automateyournetwork/SelectorPlus",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "frameworks"
+      ],
+      "path": "components/workflows/selector-plus.md"
     },
     {
       "name": "session-learning-capture",
@@ -603028,6 +608410,32 @@
         "tools"
       ],
       "path": "components/workflows/tech-debt-3.md"
+    },
+    {
+      "name": "techie-talks-ai",
+      "type": "workflows",
+      "description": "Techie Talks AI Youtube Channel code repository",
+      "source_repo": "schogini/techietalksai",
+      "source_url": "https://github.com/schogini/techietalksai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-28",
+      "related": [],
+      "tags": [
+        "a2a",
+        "agent-to-agent",
+        "tutorials-learning-resources"
+      ],
+      "path": "components/workflows/techie-talks-ai.md"
     },
     {
       "name": "test-automation-orchestrator",
