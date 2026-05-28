@@ -1,0 +1,20 @@
+{
+  "dsip": "0.1",
+  "product": "armory",
+  "description": "Armory's Darwin Self-Improvement Protocol contract. Declares how the registry gets better over time so any harness/auditor (incl. Darwin) can verify it. Application-side self-improvement only.",
+  "levels": ["agent", "fleet"],
+  "loop": {
+    "cadence": "nightly",
+    "runner": "claude -p (.github/workflows/autolab.yml) + deterministic crawlers",
+    "steps": ["discover", "score", "crawl", "test-gate", "promote", "catalog", "validate", "commit", "archive"]
+  },
+  "selection": "performance-novelty",
+  "eval": {
+    "rubric": "ingest/test-gate.mjs (Hamel pyramid: L1 functional + L2 behavioral) + ingest/validate.mjs",
+    "gate": "functional-pass && behavioral-drift<=2% && no-regression",
+    "noSelfGrading": true
+  },
+  "snapback": { "granularity": ["component", "catalog"], "vcs": "git" },
+  "externalIntelligence": { "enabled": true, "source": "claude -p nightly research (discovers new sources)" },
+  "relatedHarnesses": { "openEndedness": "github.com/naman10parikh/darwin (DSIP origin)", "earning": "helios", "improvementSubstrate": "AutoLab" }
+}

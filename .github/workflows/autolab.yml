@@ -1,21 +1,29 @@
 name: autolab-nightly
 
-# The autonomous self-improvement loop. Every night this pulls fresh entries
-# from the refreshable registries, dedup-promotes them into the brain, rebuilds
-# + validates the catalog, and commits the growth — appending one line to
-# AUTOLAB-LOG.md per run. This is the "keep consuming from the master list and
-# getting the todos done, continuously, without stopping" engine: it runs
-# forever on GitHub's runners (zero LLM cost — every step is deterministic).
-# Adding a source = add its slug to MATRIX below (its `crawl-<slug>.mjs` adapter
-# must take no args, i.e. fetch from a live API). Clone-based sources are run by
-# crawl.yml (PR-gated) instead.
+# Armory's autonomous self-improvement loop (the productized AutoLab; conforms to
+# Darwin's DSIP — see dsip.json). Runs nightly on GitHub's runners. Two engines:
+#   • DETERMINISTIC (always, $0 LLM): crawl live registries → dedup-promote → rebuild → validate.
+#   • CLAUDE-POWERED (when ANTHROPIC_API_KEY secret is set): `claude -p` headless does
+#     open-ended DISCOVERY — finds NEW sources (Performance-Novelty), writes adapters, researches.
+# Every candidate passes the Hamel test-gate (functional + behavioral) BEFORE it enters the repo,
+# so skills don't drift/go stale. `[skip ci]` on the bot's own commit prevents a trigger loop.
+#
+# REMOTE OPTIONS to drive this (chairman: "claude -p / dispatch / cron, remote not just local"):
+#   1. This GH Actions cron (default — remote, scheduled, no laptop needed).
+#   2. Set repo secret ANTHROPIC_API_KEY → the claude -p discovery step activates.
+#   3. Anthropic Managed Agents / Claude Code "work routines" can call this same flow.
 on:
   schedule:
-    - cron: "0 7 * * *" # daily 07:00 UTC. Crons run on the default branch only.
+    - cron: "0 7 * * *" # daily 07:00 UTC (crons run on the default branch only)
   workflow_dispatch:
+    inputs:
+      claude_research:
+        description: "Run the claude -p discovery step (needs ANTHROPIC_API_KEY secret)"
+        type: boolean
+        default: false
 
 permissions:
-  contents: write # to push the refreshed catalog + brain
+  contents: write
 
 concurrency:
   group: autolab
@@ -24,15 +32,29 @@ concurrency:
 jobs:
   autolab:
     runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      # 1. Pull fresh entries from the live-API registries (new MCP servers
-      #    appear daily). Each adapter is fault-isolated: one failing source
-      #    must not abort the whole run.
+      # 0. CLAUDE-POWERED DISCOVERY (open-ended; only when the key is present).
+      #    Headless Claude Code researches NEW sources and writes adapters. Fault-isolated:
+      #    if it fails or the key is absent, the deterministic loop below still runs.
+      - name: Claude-powered discovery (claude -p)
+        if: ${{ env.ANTHROPIC_API_KEY != '' }}
+        run: |
+          npm i -g @anthropic-ai/claude-code 2>/dev/null || { echo "::warning::claude-code install failed — skipping discovery"; exit 0; }
+          claude -p "You are Armory's self-improvement researcher running the Darwin DSIP loop (see dsip.json). \
+          1) Read ingest/crawl-*.mjs to see which sources are already covered. \
+          2) Find 1-2 NEW high-quality agent-harness component sources NOT already covered — prefer under-represented categories (evals, observability, infrastructure, memory, identity) [Performance-Novelty selection]. \
+          3) Write a deterministic adapter ingest/crawl-<name>.mjs following ingest/crawl-smithery.mjs exactly, and run it --apply to emit stubs into incoming/<name>/. \
+          4) Do NOT promote/rebuild/commit — the steps after you do that, and the test-gate validates before anything enters. Surgical, minimum diff." \
+          --dangerously-skip-permissions --max-turns 40 || echo "::warning::claude -p discovery did not complete — continuing with deterministic loop"
+
+      # 1. DETERMINISTIC crawl of the refreshable live-API registries (fault-isolated).
       - name: Crawl refreshable API sources
         run: |
           for src in smithery glama mcpso; do
@@ -41,26 +63,31 @@ jobs:
             echo "::endgroup::"
           done
 
-      # 2. Dedup-promote each source's stubs into brain/components (provenance-
-      #    ranked; collapses anything already present).
-      - name: Promote (dedup) into the brain
+      # 2. TEST-GATE every freshly-crawled stub BEFORE it can be promoted (Hamel pyramid:
+      #    functional schema + behavioral usability). A source that fails is skipped, not landed.
+      - name: Test-gate new stubs (Hamel — before promote)
         run: |
-          for dir in smithery glama mcpso; do
-            [ -d "incoming/$dir" ] && node ingest/promote.mjs --from "incoming/$dir" --to brain/components --apply || true
+          for dir in incoming/smithery incoming/glama incoming/mcpso; do
+            [ -d "$dir" ] || continue
+            if node ingest/test-gate.mjs "${dir#./}" ; then
+              node ingest/promote.mjs --from "$dir" --to brain/components --apply || true
+            else
+              echo "::warning::$dir failed the test-gate — NOT promoted (prevents drift/stale entries)"
+            fi
           done
 
       # 3. Recompute the catalog index.
       - name: Rebuild catalog.json
         run: node ingest/catalog.mjs
 
-      # 4. HARD GATE — if the catalog no longer validates, fail the run and do
-      #    NOT commit. The repo stays at the last-known-good state.
-      - name: Validate (hard gate)
-        run: node ingest/validate.mjs
+      # 4. HARD GATES — schema validation AND the full-catalog Hamel gate. If either fails,
+      #    do NOT commit; the repo stays at the last-known-good state (no-regression, DSIP eval gate).
+      - name: Validate + test-gate (hard, no-regression)
+        run: |
+          node ingest/validate.mjs
+          node ingest/test-gate.mjs
 
-      # 5. Commit + push only if something actually changed. Append one audit
-      #    line. `[skip ci]` keeps the catalog CI from re-triggering on our own
-      #    commit (no loop).
+      # 5. Commit + push only if something changed. Append one audit line.
       - name: Commit growth if changed
         run: |
           if git diff --quiet && git diff --cached --quiet; then
@@ -70,7 +97,7 @@ jobs:
           TOTAL=$(node -e "console.log(require('./catalog.json').counts.total)")
           git config user.name "armory-autolab[bot]"
           git config user.email "noreply@anthropic.com"
-          echo "- $(date -u +%Y-%m-%dT%H:%MZ) — autolab refresh: catalog now ${TOTAL} components" >> AUTOLAB-LOG.md
+          echo "- $(date -u +%Y-%m-%dT%H:%MZ) — autolab refresh: catalog now ${TOTAL} components (gate: PASS)" >> AUTOLAB-LOG.md
           git add -A
           git commit -m "chore(autolab): nightly self-improve refresh → ${TOTAL} components [skip ci]"
           git push
