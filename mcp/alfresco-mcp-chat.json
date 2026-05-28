@@ -1,0 +1,7 @@
+{
+  "name": "alfresco-mcp-chat",
+  "description": "Turns hundreds of Alfresco MCP REST endpoints into a small set of tools for a local LLM, enabling natural language interaction with Alfresco while keeping everything local and secure.",
+  "source_repo": "aborroy/hyland-mcp-gen",
+  "source_url": "https://github.com/aborroy/hyland-mcp-gen",
+  "install": "# git clone --depth 1 https://github.com/aborroy/hyland-mcp-gen\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coingecko-mcp-server",
+  "description": "Coingecko Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "GaplyDev01/coingecko-mcp-server",
+  "source_url": "https://mcp.so/server/coingecko-mcp-server/GaplyDev01",
+  "install": "npx -y coingecko-mcp-server"
+}

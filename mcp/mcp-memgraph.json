@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memgraph",
+  "description": "Mcp Memgraph MCP server listed on mcp.so.",
+  "source_repo": "memgraph/mcp-memgraph",
+  "source_url": "https://mcp.so/server/mcp-memgraph/memgraph",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-memgraph/memgraph\n# See source for mcpServers config block"
+}

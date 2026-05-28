@@ -1,0 +1,7 @@
+{
+  "name": "mcp-turso-2",
+  "description": "Mcp Turso MCP server listed on mcp.so.",
+  "source_repo": "nbbaier/mcp-turso",
+  "source_url": "https://mcp.so/server/mcp-turso/nbbaier",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-turso/nbbaier\n# See source for mcpServers config block"
+}

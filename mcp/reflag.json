@@ -1,0 +1,7 @@
+{
+  "name": "reflag",
+  "description": "Create and manage feature flags with Reflag",
+  "source_repo": "",
+  "source_url": "https://docs.reflag.com/api/mcp",
+  "install": "# git clone --depth 1 https://docs.reflag.com/api/mcp\n# See source for mcpServers config block"
+}

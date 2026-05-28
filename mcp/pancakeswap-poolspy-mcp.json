@@ -1,0 +1,7 @@
+{
+  "name": "pancakeswap-poolspy-mcp",
+  "description": "Pancakeswap Poolspy Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/pancakeswap-poolspy-mcp",
+  "source_url": "https://mcp.so/server/pancakeswap-poolspy-mcp/kukapay",
+  "install": "npx -y pancakeswap-poolspy-mcp"
+}

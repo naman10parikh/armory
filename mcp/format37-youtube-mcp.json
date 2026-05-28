@@ -1,0 +1,7 @@
+{
+  "name": "format37-youtube-mcp",
+  "description": "MCP server that transcribes YouTube videos to text. Uses yt-dlp to download audio and OpenAI's Whisper-1 for more precise transcription than youtube captions. Provide a YouTube URL and get back the full transcript splitted by chunks for long videos.",
+  "source_repo": "format37/youtube_mcp",
+  "source_url": "https://github.com/format37/youtube_mcp",
+  "install": "npx -y youtube_mcp"
+}

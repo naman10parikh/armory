@@ -1,0 +1,7 @@
+{
+  "name": "lawyered0-clio",
+  "description": "Reads and writes Clio Manage legal practice data including contacts, matters, activities, and flat-fee billing.",
+  "source_repo": "lawyered0/clio-mcp",
+  "source_url": "https://github.com/lawyered0/clio-mcp",
+  "install": "npx -y clio-mcp"
+}

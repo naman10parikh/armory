@@ -1,0 +1,7 @@
+{
+  "name": "thehesiod-parentsquare",
+  "description": "Access ParentSquare school-parent communication platform data including feeds, calendar events, messages, directories, and student information.",
+  "source_repo": "thehesiod/psquare-mcp",
+  "source_url": "https://github.com/thehesiod/psquare-mcp",
+  "install": "npx -y psquare-mcp"
+}

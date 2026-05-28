@@ -1,0 +1,7 @@
+{
+  "name": "marduk191-qwen3-toolkit",
+  "description": "Comprehensive toolkit providing 80+ tools across file operations, command execution, git management, web search, memory persistence, planning, and skills management with extensible GitHub-based instruction packages and specialized ComfyUI workflow support.",
+  "source_repo": "marduk191/qwen3_mcp",
+  "source_url": "https://github.com/marduk191/qwen3_mcp",
+  "install": "npx -y qwen3_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atlas",
+  "description": "YAML-defined semantic layer for analytics that lets AI agents query data sources with governed business logic.",
+  "source_repo": "atlasdevhq/atlas",
+  "source_url": "https://github.com/atlasdevhq/atlas",
+  "install": "# git clone --depth 1 https://github.com/atlasdevhq/atlas\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meteor-mcp",
+  "description": "Provides complete Meteor.js v3.4.0 API documentation, code examples, and architectural guides to AI coding assistants.",
+  "source_repo": "apitlekays/meteor-mcp",
+  "source_url": "https://github.com/apitlekays/meteor-mcp",
+  "install": "npx -y meteor-mcp"
+}

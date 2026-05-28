@@ -1,0 +1,7 @@
+{
+  "name": "timecyber-universal-email",
+  "description": "Universal email server that automatically detects provider settings and supports IMAP, POP3, and SMTP protocols for reading and sending emails across Gmail, Outlook, Yahoo, and enterprise systems without manual configuration.",
+  "source_repo": "timecyber/email-mcp",
+  "source_url": "https://github.com/timecyber/email-mcp",
+  "install": "npx -y email-mcp"
+}

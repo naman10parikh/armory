@@ -1,0 +1,7 @@
+{
+  "name": "deploya-labs-resend",
+  "description": "Enables sending emails through the Resend API service with configurable sender addresses, recipient details, and scheduling options via a Node.js application deployable through Docker.",
+  "source_repo": "deploya-labs/mcp-resend",
+  "source_url": "https://github.com/deploya-labs/mcp-resend",
+  "install": "# git clone --depth 1 https://github.com/deploya-labs/mcp-resend\n# See source for mcpServers config block"
+}

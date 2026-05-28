@@ -1,0 +1,7 @@
+{
+  "name": "vectorize-mcp-server",
+  "description": "Vectorize Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "vectorize-io/vectorize-mcp-server",
+  "source_url": "https://mcp.so/server/vectorize-mcp-server/vectorize-io",
+  "install": "npx -y vectorize-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ykq007-tavily-bridge",
+  "description": "Provides managed access to Tavily's search and research APIs with encrypted key storage, automatic rotation, usage tracking, and a React admin interface for organizations controlling access across multiple clients.",
+  "source_repo": "ykq007/mcp-nexus",
+  "source_url": "https://github.com/ykq007/mcp-nexus",
+  "install": "# git clone --depth 1 https://github.com/ykq007/mcp-nexus\n# See source for mcpServers config block"
+}

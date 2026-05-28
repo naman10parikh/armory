@@ -1,0 +1,7 @@
+{
+  "name": "xjthy001-iterm2-agent",
+  "description": "Integrates with iTerm2 terminal on macOS to execute shell commands, read terminal output, manage sessions and tabs, send keystrokes, and monitor output through the iTerm2 Python API.",
+  "source_repo": "xjthy001/iterm2-agent",
+  "source_url": "https://github.com/xjthy001/iterm2-agent",
+  "install": "# git clone --depth 1 https://github.com/xjthy001/iterm2-agent\n# See source for mcpServers config block"
+}

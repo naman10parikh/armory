@@ -1,0 +1,7 @@
+{
+  "name": "osulivan-skill4agent-mcp-server",
+  "description": "MCP Server for skill4agent - Search, view, and install AI skills in AI conversations.",
+  "source_repo": "osulivan/skill4agent-mcp-server",
+  "source_url": "https://github.com/osulivan/skill4agent-mcp-server",
+  "install": "npx -y skill4agent-mcp-server"
+}

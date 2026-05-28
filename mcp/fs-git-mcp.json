@@ -1,0 +1,7 @@
+{
+  "name": "fs-git-mcp",
+  "description": "A Git-enforced filesystem MCP server that integrates git with filesystem operations, enforcing commits on writes, providing reads with history, and supporting staged branching.",
+  "source_repo": "wojons/fs-git-mcp",
+  "source_url": "https://github.com/wojons/fs-git-mcp",
+  "install": "npx -y fs-git-mcp"
+}

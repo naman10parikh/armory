@@ -1,0 +1,7 @@
+{
+  "name": "gx-55-multi-gmail",
+  "description": "MCP server for managing multiple Gmail accounts with tools for reading, writing, organizing, and OAuth authentication.",
+  "source_repo": "gx-55/multi-gmail-mcp",
+  "source_url": "https://github.com/gx-55/multi-gmail-mcp",
+  "install": "npx -y multi-gmail-mcp"
+}

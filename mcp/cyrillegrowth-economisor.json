@@ -1,0 +1,7 @@
+{
+  "name": "cyrillegrowth-economisor",
+  "description": "MCP gateway for AI token optimization with semantic caching, multi-provider routing, and up to 99% context reduction via intelligent compression.",
+  "source_repo": "cyrillegrowth/economisor",
+  "source_url": "https://github.com/cyrillegrowth/economisor",
+  "install": "# git clone --depth 1 https://github.com/cyrillegrowth/economisor\n# See source for mcpServers config block"
+}

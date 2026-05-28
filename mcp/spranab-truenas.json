@@ -1,0 +1,7 @@
+{
+  "name": "spranab-truenas",
+  "description": "MCP server for managing TrueNAS storage systems, enabling AI assistants to monitor and control NAS devices and datasets.",
+  "source_repo": "spranab/truenas-mcp",
+  "source_url": "https://github.com/spranab/truenas-mcp",
+  "install": "npx -y truenas-mcp"
+}

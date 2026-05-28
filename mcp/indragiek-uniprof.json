@@ -1,0 +1,7 @@
+{
+  "name": "indragiek-uniprof",
+  "description": "Universal CPU profiler for multiple languages and runtimes",
+  "source_repo": "indragiek/uniprof",
+  "source_url": "https://github.com/indragiek/uniprof",
+  "install": "# git clone --depth 1 https://github.com/indragiek/uniprof\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toofi-dental-planning",
+  "description": "Agent-native dental planning MCP for creating treatment plan drafts, presentations, and price estimates.",
+  "source_repo": "",
+  "source_url": "https://toofi.app/for-agents",
+  "install": "# git clone --depth 1 https://toofi.app/for-agents\n# See source for mcpServers config block"
+}

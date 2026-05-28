@@ -1,0 +1,7 @@
+{
+  "name": "mastadoonprime-sylex-search",
+  "description": "Universal search engine for AI agents to discover, evaluate, and compare products, services, and businesses.",
+  "source_repo": "mastadoonprime/sylex-search",
+  "source_url": "https://github.com/mastadoonprime/sylex-search",
+  "install": "# git clone --depth 1 https://github.com/mastadoonprime/sylex-search\n# See source for mcpServers config block"
+}

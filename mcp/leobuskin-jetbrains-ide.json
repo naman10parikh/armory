@@ -1,0 +1,7 @@
+{
+  "name": "leobuskin-jetbrains-ide",
+  "description": "Bridges Large Language Models with JetBrains IDEs to enable intelligent code completion, automated refactoring, and context-aware documentation generation.",
+  "source_repo": "leobuskin/mcp_jetbrains_proxy",
+  "source_url": "https://github.com/leobuskin/mcp_jetbrains_proxy",
+  "install": "# git clone --depth 1 https://github.com/leobuskin/mcp_jetbrains_proxy\n# See source for mcpServers config block"
+}

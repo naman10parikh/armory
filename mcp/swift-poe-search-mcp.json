@@ -1,0 +1,7 @@
+{
+  "name": "swift-poe-search-mcp",
+  "description": "An MCP server that integrates with Poe's API to provide AI-powered search and research tools from Perplexity, Reka, Exa, and Linkup.",
+  "source_repo": "mehmetbaykar/swift-poe-search-mcp",
+  "source_url": "https://github.com/mehmetbaykar/swift-poe-search-mcp",
+  "install": "npx -y swift-poe-search-mcp"
+}

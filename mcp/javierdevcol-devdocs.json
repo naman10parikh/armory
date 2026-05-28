@@ -1,0 +1,7 @@
+{
+  "name": "javierdevcol-devdocs",
+  "description": "Provides access to DevDocs API documentation browser for querying and retrieving documentation across various programming languages, frameworks, and tools with caching for improved performance.",
+  "source_repo": "javierdevcol/devdocs-mcp",
+  "source_url": "https://github.com/javierdevcol/devdocs-mcp",
+  "install": "npx -y devdocs-mcp"
+}

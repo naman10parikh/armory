@@ -1,0 +1,7 @@
+{
+  "name": "diskcleankit",
+  "description": "Integrates with DiskCleanKit to scan and clean junk files on macOS.",
+  "source_repo": "namtran/diskcleankit-mcp",
+  "source_url": "https://github.com/namtran/diskcleankit-mcp",
+  "install": "npx -y diskcleankit-mcp"
+}

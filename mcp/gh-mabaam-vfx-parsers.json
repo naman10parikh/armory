@@ -1,0 +1,7 @@
+{
+  "name": "gh-mabaam-vfx-parsers",
+  "description": "Parse and generate professional VFX file formats including Nuke scripts, MaterialX shading networks, and USD ASCII scene descriptions.",
+  "source_repo": "mabaam/mcp-vfx-parsers",
+  "source_url": "https://github.com/mabaam/mcp-vfx-parsers",
+  "install": "# git clone --depth 1 https://github.com/mabaam/mcp-vfx-parsers\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-hovecapital-read-only-postgresql",
+  "description": "Read-only PostgreSQL database queries for safe local database exploration.",
+  "source_repo": "hovecapital/read-only-local-postgres-mcp-server",
+  "source_url": "https://github.com/hovecapital/read-only-local-postgres-mcp-server",
+  "install": "npx -y read-only-local-postgres-mcp-server"
+}

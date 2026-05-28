@@ -1,0 +1,7 @@
+{
+  "name": "hekkova",
+  "description": "Permanent memory layer for AI agents. Mint moments—photos, videos, audio, or text—to the Polygon blockchain with IPFS storage, Lit Protocol encryption, and privacy-tiered access control.",
+  "source_repo": "hekkova/hekkova-mcp",
+  "source_url": "https://github.com/hekkova/hekkova-mcp",
+  "install": "npx -y hekkova-mcp"
+}

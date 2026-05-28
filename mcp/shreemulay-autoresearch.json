@@ -1,0 +1,7 @@
+{
+  "name": "shreemulay-autoresearch",
+  "description": "Structured experiment management implementing the autoresearch pattern with a composable technique catalog, experiment tracking, and SQLite-backed result persistence.",
+  "source_repo": "shreemulay/autoresearch-mcp",
+  "source_url": "https://github.com/shreemulay/autoresearch-mcp",
+  "install": "npx -y autoresearch-mcp"
+}

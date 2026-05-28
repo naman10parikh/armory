@@ -1,0 +1,7 @@
+{
+  "name": "tienan92it-binance",
+  "description": "Integrates with Binance cryptocurrency exchange to provide real-time market data including prices, order books, and historical information without requiring API keys",
+  "source_repo": "tienan92it/binance-mcp",
+  "source_url": "https://github.com/tienan92it/binance-mcp",
+  "install": "npx -y binance-mcp"
+}

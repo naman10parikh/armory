@@ -1,0 +1,7 @@
+{
+  "name": "cswkim-discogs",
+  "description": "Provides a bridge to the Discogs API for searching music databases, managing collections, and accessing marketplace listings with comprehensive artist and release information.",
+  "source_repo": "cswkim/discogs-mcp-server",
+  "source_url": "https://github.com/cswkim/discogs-mcp-server",
+  "install": "npx -y discogs-mcp-server"
+}

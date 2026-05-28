@@ -1,0 +1,7 @@
+{
+  "name": "ledger",
+  "description": "Integrates with Ledger CLI to enable natural language queries for financial data analysis, report generation, and budget tracking through nine structured tools that map directly to Ledger commands.",
+  "source_repo": "minhyeoky/mcp-server-ledger",
+  "source_url": "https://github.com/minhyeoky/mcp-server-ledger",
+  "install": "# git clone --depth 1 https://github.com/minhyeoky/mcp-server-ledger\n# See source for mcpServers config block"
+}

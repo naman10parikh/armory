@@ -1,0 +1,7 @@
+{
+  "name": "thisnick-google-calendar",
+  "description": "Integrates with Google Calendar to enable natural language-based event management, scheduling, and productivity insights.",
+  "source_repo": "thisnick/google-calendar-mcp",
+  "source_url": "https://github.com/thisnick/google-calendar-mcp",
+  "install": "npx -y google-calendar-mcp"
+}

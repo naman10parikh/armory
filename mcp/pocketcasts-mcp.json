@@ -1,0 +1,7 @@
+{
+  "name": "pocketcasts-mcp",
+  "description": "Enables AI assistants to search, browse, and manage your Pocket Casts podcast library.",
+  "source_repo": "essoen/PocketCasts-mcp",
+  "source_url": "https://github.com/essoen/PocketCasts-mcp",
+  "install": "npx -y PocketCasts-mcp"
+}

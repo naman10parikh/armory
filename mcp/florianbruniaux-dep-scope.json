@@ -1,0 +1,7 @@
+{
+  "name": "florianbruniaux-dep-scope",
+  "description": "Symbol-level npm dependency analysis with scan verdicts and native alternative suggestions.",
+  "source_repo": "florianbruniaux/node-dep-scope",
+  "source_url": "https://github.com/florianbruniaux/node-dep-scope",
+  "install": "# git clone --depth 1 https://github.com/florianbruniaux/node-dep-scope\n# See source for mcpServers config block"
+}

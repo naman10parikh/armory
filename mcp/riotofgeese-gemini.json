@@ -1,0 +1,7 @@
+{
+  "name": "riotofgeese-gemini",
+  "description": "Google Gemini integration for text, image, and video generation with Codex CLI compatibility",
+  "source_repo": "riotofgeese/gemini-mcp",
+  "source_url": "https://github.com/riotofgeese/gemini-mcp",
+  "install": "npx -y gemini-mcp"
+}

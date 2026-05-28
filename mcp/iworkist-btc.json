@@ -1,0 +1,7 @@
+{
+  "name": "iworkist-btc",
+  "description": "Provides Bitcoin price data from Binance API",
+  "source_repo": "iworkist/btcmcp",
+  "source_url": "https://github.com/iworkist/btcmcp",
+  "install": "# git clone --depth 1 https://github.com/iworkist/btcmcp\n# See source for mcpServers config block"
+}

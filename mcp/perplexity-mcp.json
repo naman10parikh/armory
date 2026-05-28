@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-mcp",
+  "description": "Perplexity Mcp MCP server listed on mcp.so.",
+  "source_repo": "Alcova-AI/perplexity-mcp",
+  "source_url": "https://mcp.so/server/perplexity-mcp/Alcova-AI",
+  "install": "npx -y perplexity-mcp"
+}

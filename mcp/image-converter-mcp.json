@@ -1,0 +1,7 @@
+{
+  "name": "image-converter-mcp",
+  "description": "An MCP server for converting images to AVIF and WebP formats using ImageMagick, with batch conversion and quality control.",
+  "source_repo": "pratham9467/image-converter-mcp",
+  "source_url": "https://github.com/pratham9467/image-converter-mcp",
+  "install": "npx -y image-converter-mcp"
+}

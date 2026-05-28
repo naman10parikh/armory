@@ -1,0 +1,7 @@
+{
+  "name": "nraintd-kali-linux",
+  "description": "Access to Kali Linux penetration testing tools including nmap, nikto, sqlmap, and hydra.",
+  "source_repo": "nraintd/kali-mcp",
+  "source_url": "https://github.com/nraintd/kali-mcp",
+  "install": "npx -y kali-mcp"
+}

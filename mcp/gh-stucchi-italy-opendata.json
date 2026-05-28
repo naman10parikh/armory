@@ -1,0 +1,7 @@
+{
+  "name": "gh-stucchi-italy-opendata",
+  "description": "Italian open data for municipalities, provinces, regions, postal codes, and coordinates.",
+  "source_repo": "stucchi/italy-opendata-mcp",
+  "source_url": "https://github.com/stucchi/italy-opendata-mcp",
+  "install": "npx -y italy-opendata-mcp"
+}

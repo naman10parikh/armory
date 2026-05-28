@@ -1,0 +1,7 @@
+{
+  "name": "erebusenigma-context-memory",
+  "description": "Persistent, searchable context storage across Claude Code sessions using SQLite FTS5. Save sessions with AI-generated summaries, two-tier full-text search, checkpoint recovery, and a web dashboard.",
+  "source_repo": "ErebusEnigma/context-memory",
+  "source_url": "https://github.com/ErebusEnigma/context-memory",
+  "install": "# git clone --depth 1 https://github.com/ErebusEnigma/context-memory\n# See source for mcpServers config block"
+}

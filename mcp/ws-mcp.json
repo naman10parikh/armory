@@ -1,0 +1,7 @@
+{
+  "name": "ws-mcp",
+  "description": "Wrap MCP servers with a WebSocket (for use with [kitbitz](https://github.com/nick1udwig/kibitz))",
+  "source_repo": "nick1udwig/ws-mcp",
+  "source_url": "https://github.com/nick1udwig/ws-mcp",
+  "install": "npx -y ws-mcp"
+}

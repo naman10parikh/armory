@@ -1,0 +1,7 @@
+{
+  "name": "coinrailz",
+  "description": "Blockchain data, trading signals, prediction markets, and crypto analytics via x402 micropayments",
+  "source_repo": "tdnupe3/mcp-server-coinrailz",
+  "source_url": "https://github.com/tdnupe3/mcp-server-coinrailz",
+  "install": "# git clone --depth 1 https://github.com/tdnupe3/mcp-server-coinrailz\n# See source for mcpServers config block"
+}

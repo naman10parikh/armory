@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docsrs",
+  "description": "A Docs.rs MCP server that enables AI models to deeply access Rust crate documentation, including searching crates, viewing API definitions, feature flags, and code examples, all within the editor.",
+  "source_repo": "shuakami/mcp-docsrs",
+  "source_url": "https://github.com/shuakami/mcp-docsrs",
+  "install": "# git clone --depth 1 https://github.com/shuakami/mcp-docsrs\n# See source for mcpServers config block"
+}

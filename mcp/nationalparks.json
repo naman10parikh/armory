@@ -1,0 +1,7 @@
+{
+  "name": "nationalparks",
+  "description": "Provides real-time National Park Service data for searching parks by location or activities, retrieving detailed information, and accessing current alerts and closures using TypeScript and requiring an NPS API key for authentication.",
+  "source_repo": "kyrietangsheng/mcp-server-nationalparks",
+  "source_url": "https://github.com/kyrietangsheng/mcp-server-nationalparks",
+  "install": "# git clone --depth 1 https://github.com/kyrietangsheng/mcp-server-nationalparks\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "marceausolutions-amazon-seller-mcp",
+  "description": "Amazon Seller Central operations via SP-API - manage inventory, track orders, analyze sales, and optimize listings",
+  "source_repo": "MarceauSolutions/amazon-seller-mcp",
+  "source_url": "https://github.com/MarceauSolutions/amazon-seller-mcp",
+  "install": "npx -y amazon-seller-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "justhappened-stock-moves",
+  "description": "Explains why stocks moved. Query real-time stock price movements for S&P 500, NASDAQ, and Dow.",
+  "source_repo": "justhappened-corp/stock-moves-explained",
+  "source_url": "https://github.com/justhappened-corp/stock-moves-explained",
+  "install": "# git clone --depth 1 https://github.com/justhappened-corp/stock-moves-explained\n# See source for mcpServers config block"
+}

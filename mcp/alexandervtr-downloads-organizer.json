@@ -1,0 +1,7 @@
+{
+  "name": "alexandervtr-downloads-organizer",
+  "description": "Automatically organizes files in your Downloads folder based on configurable rules, sorting by file type and date while handling duplicates through a RESTful API with real-time updates.",
+  "source_repo": "alexandervtr/cursor-mcp-file-organizer",
+  "source_url": "https://github.com/alexandervtr/cursor-mcp-file-organizer",
+  "install": "# git clone --depth 1 https://github.com/alexandervtr/cursor-mcp-file-organizer\n# See source for mcpServers config block"
+}

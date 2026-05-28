@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-power-bi",
+  "description": "Enables exploring Microsoft Fabric / Power BI workspaces and semantic models, and executing ad-hoc DAX queries.",
+  "source_repo": "Mitsubishi-Fuso/mcp-server-for-powerbi",
+  "source_url": "https://github.com/Mitsubishi-Fuso/mcp-server-for-powerbi",
+  "install": "# git clone --depth 1 https://github.com/Mitsubishi-Fuso/mcp-server-for-powerbi\n# See source for mcpServers config block"
+}

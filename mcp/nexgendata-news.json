@@ -1,0 +1,7 @@
+{
+  "name": "nexgendata-news",
+  "description": "Track and collect news articles and alerts from across the web through Apify's data extraction platform.",
+  "source_repo": "",
+  "source_url": "https://apify.com/nexgendata/news-mcp-server",
+  "install": "# git clone --depth 1 https://apify.com/nexgendata/news-mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-rescuetime",
+  "description": "Query RescueTime productivity analytics — daily summaries, productivity scores, and time-usage reports.",
+  "source_repo": "adelaidasofia/rescuetime-mcp",
+  "source_url": "https://github.com/adelaidasofia/rescuetime-mcp",
+  "install": "npx -y rescuetime-mcp"
+}

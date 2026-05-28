@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-blockbeats-mcp",
+  "description": "An MCP server that delivers blockchain news and in-depth articles from BlockBeats for AI agents.",
+  "source_repo": "kukapay/blockbeats-mcp",
+  "source_url": "https://github.com/kukapay/blockbeats-mcp",
+  "install": "npx -y blockbeats-mcp"
+}

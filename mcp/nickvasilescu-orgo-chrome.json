@@ -1,0 +1,7 @@
+{
+  "name": "nickvasilescu-orgo-chrome",
+  "description": "Provides DOM-level Chrome browser automation for Orgo virtual machines via Chrome DevTools Protocol with 16 tools.",
+  "source_repo": "nickvasilescu/orgo-chrome-mcp",
+  "source_url": "https://github.com/nickvasilescu/orgo-chrome-mcp",
+  "install": "npx -y orgo-chrome-mcp"
+}

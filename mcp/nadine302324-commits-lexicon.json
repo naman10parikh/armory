@@ -1,0 +1,7 @@
+{
+  "name": "nadine302324-commits-lexicon",
+  "description": "Comparison intelligence tool with live evidence from 20 sources using PESTLE, VS, and Deep Research frameworks.",
+  "source_repo": "nadine302324-commits/lexicon-mcp-server",
+  "source_url": "https://github.com/nadine302324-commits/lexicon-mcp-server",
+  "install": "npx -y lexicon-mcp-server"
+}

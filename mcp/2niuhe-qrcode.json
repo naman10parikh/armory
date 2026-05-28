@@ -1,0 +1,7 @@
+{
+  "name": "2niuhe-qrcode",
+  "description": "Generates QR codes from any text including Chinese characters with customizable styling options like colors, box size, and borders, returning base64-encoded images for document generation, contact sharing, and URL shortening workflows.",
+  "source_repo": "2niuhe/qrcode_mcp",
+  "source_url": "https://github.com/2niuhe/qrcode_mcp",
+  "install": "npx -y qrcode_mcp"
+}

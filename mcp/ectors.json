@@ -1,0 +1,7 @@
+{
+  "name": "ectors",
+  "description": "Actor-based server that manages multiple routers with unique IDs, supporting various transport protocols for modular and composable service delivery.",
+  "source_repo": "mcp-ectors/mcp-ectors",
+  "source_url": "https://github.com/mcp-ectors/mcp-ectors",
+  "install": "# git clone --depth 1 https://github.com/mcp-ectors/mcp-ectors\n# See source for mcpServers config block"
+}

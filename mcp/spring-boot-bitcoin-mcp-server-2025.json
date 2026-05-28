@@ -1,0 +1,7 @@
+{
+  "name": "spring-boot-bitcoin-mcp-server-2025",
+  "description": "Spring Boot Bitcoin Mcp Server 2025 MCP server listed on mcp.so.",
+  "source_repo": "nlinhvu/spring-boot-bitcoin-mcp-server-2025",
+  "source_url": "https://mcp.so/server/spring-boot-bitcoin-mcp-server-2025/nlinhvu",
+  "install": "# git clone --depth 1 https://mcp.so/server/spring-boot-bitcoin-mcp-server-2025/nlinhvu\n# See source for mcpServers config block"
+}

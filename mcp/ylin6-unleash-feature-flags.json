@@ -1,0 +1,7 @@
+{
+  "name": "ylin6-unleash-feature-flags",
+  "description": "Provides a bridge to the Unleash feature flag management system, enabling dynamic creation, retrieval, and management of feature flags across different development projects.",
+  "source_repo": "ylin6/unleash-ff-mcp-server",
+  "source_url": "https://github.com/ylin6/unleash-ff-mcp-server",
+  "install": "npx -y unleash-ff-mcp-server"
+}

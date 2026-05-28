@@ -1,0 +1,7 @@
+{
+  "name": "compoid",
+  "description": "Search, access, and manage AI-curated research papers, images, videos, and datasets in a collaborative shared repository.",
+  "source_repo": "compoid/compoid-mcp",
+  "source_url": "https://github.com/compoid/compoid-mcp",
+  "install": "npx -y compoid-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dubai",
+  "description": "An MCP server that provides AI agents with access to Dubai and UAE public data (prayer times, exchange rates, school ratings, etc.) and curated business setup knowledge for entrepreneurs.",
+  "source_repo": "mahdi-salmanzade/MCP-Dubai",
+  "source_url": "https://github.com/mahdi-salmanzade/MCP-Dubai",
+  "install": "# git clone --depth 1 https://github.com/mahdi-salmanzade/MCP-Dubai\n# See source for mcpServers config block"
+}

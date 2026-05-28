@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Read a plan document, decompose it into steps, design a per-step agent chain from the ECC catalogue, and emit ready-to-paste /orchestrate custom prompts. Generative only — never invokes /orchestrate itself. Use when the user has a multi-step plan and wants to drive it through orchestrate without composing chains by hand.

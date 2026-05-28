@@ -1,0 +1,7 @@
+{
+  "name": "emmett-deen-linear",
+  "description": "Integrates with Linear project management systems to retrieve and modify data related to users, teams, projects, and issues through the Linear GraphQL API.",
+  "source_repo": "emmett-deen/linear-mcp-server",
+  "source_url": "https://github.com/emmett-deen/linear-mcp-server",
+  "install": "npx -y linear-mcp-server"
+}

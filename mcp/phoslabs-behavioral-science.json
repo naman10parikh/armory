@@ -1,0 +1,7 @@
+{
+  "name": "phoslabs-behavioral-science",
+  "description": "Behavioral science tools for commerce providing personas, nudges, preference analysis, and friction audits.",
+  "source_repo": "",
+  "source_url": "https://mcp.phoslabs.io/sse",
+  "install": "# git clone --depth 1 https://mcp.phoslabs.io/sse\n# See source for mcpServers config block"
+}

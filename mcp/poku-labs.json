@@ -1,0 +1,7 @@
+{
+  "name": "poku-labs",
+  "description": "Enables agents to request real-time human assistance via SMS, WhatsApp, and more when encountering edge cases or scenarios requiring human judgment or approval.",
+  "source_repo": "",
+  "source_url": "https://www.youtube.com/watch?v=M_sVUtEaeko",
+  "install": "# git clone --depth 1 https://www.youtube.com/watch?v=M_sVUtEaeko\n# See source for mcpServers config block"
+}

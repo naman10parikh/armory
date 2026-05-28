@@ -1,0 +1,7 @@
+{
+  "name": "sats4ai",
+  "description": "Bitcoin-powered AI tools accessible via Lightning micropayments with no signup or API keys required.",
+  "source_repo": "",
+  "source_url": "https://sats4ai.com/api/mcp",
+  "install": "# git clone --depth 1 https://sats4ai.com/api/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-domain-expertise",
+  "description": "Domain expertise injection for AI agents across 20+ industry verticals.",
+  "source_repo": "mdfifty50-boop/domain-expertise-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/domain-expertise-mcp",
+  "install": "npx -y domain-expertise-mcp"
+}

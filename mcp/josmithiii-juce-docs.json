@@ -1,0 +1,7 @@
+{
+  "name": "josmithiii-juce-docs",
+  "description": "Parses JUCE Framework HTML documentation from Stanford CCRMA's website, converting class details into markdown-formatted resources for developers to easily search and retrieve C++ class information.",
+  "source_repo": "josmithiii/mcp-servers-jos",
+  "source_url": "https://github.com/josmithiii/mcp-servers-jos/tree/HEAD/juce-docs-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/josmithiii/mcp-servers-jos/tree/HEAD/juce-docs-mcp-server\n# See source for mcpServers config block"
+}

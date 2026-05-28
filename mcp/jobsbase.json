@@ -1,0 +1,7 @@
+{
+  "name": "jobsbase",
+  "description": "Search builder roles — jobs where one person owns engineering, product, and QA end-to-end.",
+  "source_repo": "",
+  "source_url": "https://jobsbase.io",
+  "install": "# git clone --depth 1 https://jobsbase.io\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pierpartners-make",
+  "description": "Integrates with Make.com automation platform supporting both stdio and HTTP/SSE transports.",
+  "source_repo": "pierpartners/make-mcp",
+  "source_url": "https://github.com/pierpartners/make-mcp",
+  "install": "npx -y make-mcp"
+}

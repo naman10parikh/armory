@@ -1,0 +1,7 @@
+{
+  "name": "looptech-ai-understand-quickly",
+  "description": "Access a public registry of code-knowledge graphs to help AI agents instantly understand codebases via list, fetch, and search tools.",
+  "source_repo": "looptech-ai/understand-quickly",
+  "source_url": "https://github.com/looptech-ai/understand-quickly",
+  "install": "# git clone --depth 1 https://github.com/looptech-ai/understand-quickly\n# See source for mcpServers config block"
+}

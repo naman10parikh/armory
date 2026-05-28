@@ -1,0 +1,7 @@
+{
+  "name": "cameronrye-activitypub-mcp",
+  "description": "A comprehensive MCP server that enables LLMs to explore and interact with the Fediverse through ActivityPub protocol. Features WebFinger discovery, timeline fetching, instance exploration, and cross-platform support for Mastodon, Pleroma, Misskey, and other ActivityPub servers.",
+  "source_repo": "cameronrye/activitypub-mcp",
+  "source_url": "https://github.com/cameronrye/activitypub-mcp",
+  "install": "npx -y activitypub-mcp"
+}

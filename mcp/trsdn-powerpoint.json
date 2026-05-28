@@ -1,0 +1,7 @@
+{
+  "name": "trsdn-powerpoint",
+  "description": "Automates PowerPoint with AI through 33 specialized tools covering slides, shapes, text, charts, tables, animations, transitions, VBA macros, and more using Windows COM automation.",
+  "source_repo": "trsdn/mcp-server-ppt",
+  "source_url": "https://github.com/trsdn/mcp-server-ppt",
+  "install": "# git clone --depth 1 https://github.com/trsdn/mcp-server-ppt\n# See source for mcpServers config block"
+}

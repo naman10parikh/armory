@@ -1,0 +1,7 @@
+{
+  "name": "flox-foundation-flox-mcp",
+  "description": "MCP server for the FLOX trading systems framework. ~30 tools to run backtests, scaffold strategies, validate for lookahead bias, place orders, query PnL via Claude/Cursor. C++23 core with Python/Node/Codon/QuickJS strategy bindings. Same code from backtest to live (CcxtBroker or native connectors). Install: `pip install flox-mcp`.",
+  "source_repo": "FLOX-Foundation/flox",
+  "source_url": "https://github.com/FLOX-Foundation/flox/tree/main/mcp",
+  "install": "# git clone --depth 1 https://github.com/FLOX-Foundation/flox/tree/main/mcp\n# See source for mcpServers config block"
+}

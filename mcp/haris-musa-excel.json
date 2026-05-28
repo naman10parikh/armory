@@ -1,0 +1,7 @@
+{
+  "name": "haris-musa-excel",
+  "description": "Enables Excel file manipulation without Microsoft Excel installation using openpyxl, providing workbook operations, data validation detection, formatting, formulas, charts, pivot tables, and native Excel table support for automating spreadsheet workflows and report generation.",
+  "source_repo": "haris-musa/excel-mcp-server",
+  "source_url": "https://github.com/haris-musa/excel-mcp-server",
+  "install": "npx -y excel-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wheattoast11-runway-luma-video-gen",
+  "description": "Integrates with RunwayML and Luma AI to generate, manage, and enhance videos and images with features like text-to-video conversion, image animation, and content upscaling through asynchronous progress tracking.",
+  "source_repo": "wheattoast11/mcp-video-gen",
+  "source_url": "https://github.com/wheattoast11/mcp-video-gen",
+  "install": "# git clone --depth 1 https://github.com/wheattoast11/mcp-video-gen\n# See source for mcpServers config block"
+}

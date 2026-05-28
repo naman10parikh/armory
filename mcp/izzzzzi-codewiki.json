@@ -1,0 +1,7 @@
+{
+  "name": "izzzzzi-codewiki",
+  "description": "Searches repos, fetches AI-generated wiki docs, and answers questions about open-source projects via codewiki.google.",
+  "source_repo": "izzzzzi/codewiki-mcp",
+  "source_url": "https://github.com/izzzzzi/codewiki-mcp",
+  "install": "npx -y codewiki-mcp"
+}

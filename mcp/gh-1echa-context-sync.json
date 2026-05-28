@@ -1,0 +1,7 @@
+{
+  "name": "gh-1echa-context-sync",
+  "description": "Synchronizes development context and long-term memory across devices using Git.",
+  "source_repo": "1echa/context-sync-mcp",
+  "source_url": "https://github.com/1echa/context-sync-mcp",
+  "install": "npx -y context-sync-mcp"
+}

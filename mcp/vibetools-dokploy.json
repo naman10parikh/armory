@@ -1,0 +1,7 @@
+{
+  "name": "vibetools-dokploy",
+  "description": "Integrates with Dokploy's self-hosted PaaS platform for application deployment, database management, domain configuration, and DevOps automation through 196 tools across 23 modules.",
+  "source_repo": "vcode-sh/dokploy-mcp",
+  "source_url": "https://github.com/vcode-sh/dokploy-mcp",
+  "install": "npx -y dokploy-mcp"
+}

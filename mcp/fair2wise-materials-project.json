@@ -1,0 +1,7 @@
+{
+  "name": "fair2wise-materials-project",
+  "description": "Integrates with the Materials Project database to search materials by elements or formula and retrieve detailed properties including formation energies, band gaps, crystal systems, and stability data for computational materials science research.",
+  "source_repo": "fair2wise/materials_project_mcp",
+  "source_url": "https://github.com/fair2wise/materials_project_mcp",
+  "install": "npx -y materials_project_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dinehq-feishu",
+  "description": "Reads Feishu (Lark) documents, spreadsheets, and bitables with OAuth2 user token authentication and automatic refresh.",
+  "source_repo": "dinehq/feishu-mcp",
+  "source_url": "https://github.com/dinehq/feishu-mcp",
+  "install": "npx -y feishu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-halopsa",
+  "description": "Connects AI assistants to HaloPSA for managing tickets, clients, assets, agents, and invoices.",
+  "source_repo": "wyre-technology/halopsa-mcp",
+  "source_url": "https://github.com/wyre-technology/halopsa-mcp",
+  "install": "npx -y halopsa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unixlamadev-spec-lightningprox-mcp",
+  "description": "MCP server for LightningProx — pay-per-request AI access via Bitcoin Lightning. Supports vision/multimodal.",
+  "source_repo": "unixlamadev-spec/lightningprox-mcp",
+  "source_url": "https://github.com/unixlamadev-spec/lightningprox-mcp",
+  "install": "npx -y lightningprox-mcp"
+}

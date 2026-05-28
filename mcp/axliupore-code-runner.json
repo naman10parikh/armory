@@ -1,0 +1,7 @@
+{
+  "name": "axliupore-code-runner",
+  "description": "Executes code snippets in isolated Docker containers with resource limits and security controls for safe testing and debugging across multiple programming languages.",
+  "source_repo": "axliupore/mcp-code-runner",
+  "source_url": "https://github.com/axliupore/mcp-code-runner",
+  "install": "# git clone --depth 1 https://github.com/axliupore/mcp-code-runner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-taskwarrior",
+  "description": "Mcp Taskwarrior MCP server listed on mcp.so.",
+  "source_repo": "0xbeedao/mcp-taskwarrior",
+  "source_url": "https://mcp.so/server/mcp-taskwarrior/0xbeedao",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-taskwarrior/0xbeedao\n# See source for mcpServers config block"
+}

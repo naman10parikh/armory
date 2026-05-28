@@ -1,0 +1,7 @@
+{
+  "name": "campusx-expense-tracker",
+  "description": "Tracks personal expenses through SQLite database with 20 predefined categories, enabling expense recording, date-range filtering, and spending analysis across food, transport, investments, and other life areas.",
+  "source_repo": "campusx-official/expense-tracker-mcp-server",
+  "source_url": "https://github.com/campusx-official/expense-tracker-mcp-server",
+  "install": "npx -y expense-tracker-mcp-server"
+}

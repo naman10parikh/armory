@@ -1,0 +1,7 @@
+{
+  "name": "wordpress-mcp-server-2",
+  "description": "Enables AI assistants to manage WordPress content, design, SEO, WooCommerce, and more through natural language commands.",
+  "source_repo": "c-sakel/wp-mcp-server",
+  "source_url": "https://github.com/c-sakel/wp-mcp-server",
+  "install": "npx -y wp-mcp-server"
+}

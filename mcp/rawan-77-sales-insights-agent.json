@@ -1,0 +1,7 @@
+{
+  "name": "rawan-77-sales-insights-agent",
+  "description": "Exposes dataset preview functionality through the Model Context Protocol, enabling LLM-based analysis workflows to access and analyze CSV sales data.",
+  "source_repo": "rawan-77/genai-sales-insights-agent",
+  "source_url": "https://github.com/rawan-77/genai-sales-insights-agent",
+  "install": "# git clone --depth 1 https://github.com/rawan-77/genai-sales-insights-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "optimaquantum-claude-critical-rules-mcp",
+  "description": "Automatic enforcement of critical rules for Claude AI preventing 96 documented failure patterns. Provides compliance verification checklist and rules summary via MCP tools.",
+  "source_repo": "optimaquantum/claude-critical-rules-mcp",
+  "source_url": "https://github.com/optimaquantum/claude-critical-rules-mcp",
+  "install": "npx -y claude-critical-rules-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "asthanaji05-pokeapi",
+  "description": "Access comprehensive Pokémon data from PokeAPI",
+  "source_repo": "asthanaji05/mcp_pokemon",
+  "source_url": "https://github.com/asthanaji05/mcp_pokemon",
+  "install": "# git clone --depth 1 https://github.com/asthanaji05/mcp_pokemon\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pingfyr-mcp",
+  "description": "The scheduled delivery API for developers. Schedule reminders, notifications, and webhooks with one API call.",
+  "source_repo": "Pingfyr/mcp",
+  "source_url": "https://github.com/Pingfyr/mcp",
+  "install": "# git clone --depth 1 https://github.com/Pingfyr/mcp\n# See source for mcpServers config block"
+}

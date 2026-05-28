@@ -1,0 +1,7 @@
+{
+  "name": "omniologynow-rgb-profitspot",
+  "description": "Cross-chain DeFi intelligence — 86 chains, 6,500+ pools, yield and liquidity analysis for AI agents.",
+  "source_repo": "",
+  "source_url": "https://profitspotmcp.mcpize.run",
+  "install": "# git clone --depth 1 https://profitspotmcp.mcpize.run\n# See source for mcpServers config block"
+}

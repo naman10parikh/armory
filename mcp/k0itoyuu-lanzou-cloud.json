@@ -1,0 +1,7 @@
+{
+  "name": "k0itoyuu-lanzou-cloud",
+  "description": "Provides 4 tools for interacting with Lanzou Cloud file storage, including login, disk listing, file info, and direct link parsing.",
+  "source_repo": "k0itoyuu/lanzou-mcp",
+  "source_url": "https://github.com/k0itoyuu/lanzou-mcp",
+  "install": "npx -y lanzou-mcp"
+}

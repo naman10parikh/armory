@@ -1,0 +1,7 @@
+{
+  "name": "stef-k-cognirelay",
+  "description": "Self-hosted infrastructure for AI agent continuity with git-backed state storage, multi-agent coordination, context retrieval, and session snapshots across context resets.",
+  "source_repo": "stef-k/cognirelay",
+  "source_url": "https://github.com/stef-k/cognirelay",
+  "install": "# git clone --depth 1 https://github.com/stef-k/cognirelay\n# See source for mcpServers config block"
+}

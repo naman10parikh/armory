@@ -1,0 +1,7 @@
+{
+  "name": "sarvam-mcp",
+  "description": "A type-safe MCP server for the Sarvam AI API that enables chat, translation, transliteration, language detection, speech-to-text, and text-to-speech across 10 Indic languages and English.",
+  "source_repo": "harshil1502/sarvam-mcp",
+  "source_url": "https://github.com/harshil1502/sarvam-mcp",
+  "install": "npx -y sarvam-mcp"
+}

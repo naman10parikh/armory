@@ -1,0 +1,7 @@
+{
+  "name": "miles0sage-codex-cli",
+  "description": "Wraps OpenAI Codex CLI to provide code generation, review, codebase Q&A, session management, and reusable task templates.",
+  "source_repo": "miles0sage/codex-mcp",
+  "source_url": "https://github.com/miles0sage/codex-mcp",
+  "install": "npx -y codex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jayvps-ghidra",
+  "description": "Bridges Ghidra reverse engineering platform with AI assistants for decompilation, memory mapping, and security analysis",
+  "source_repo": "jayvps/ghidramcp",
+  "source_url": "https://github.com/jayvps/ghidramcp",
+  "install": "# git clone --depth 1 https://github.com/jayvps/ghidramcp\n# See source for mcpServers config block"
+}

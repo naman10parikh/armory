@@ -1,0 +1,7 @@
+{
+  "name": "cyclimse-scaleway-functions",
+  "description": "Integrates with Scaleway's serverless Functions platform to create, deploy, update, and manage serverless functions directly from code directories with automatic archiving, runtime configuration, and lifecycle operations including namespace management and function code retrieval.",
+  "source_repo": "cyclimse/mcp-scaleway-functions",
+  "source_url": "https://github.com/cyclimse/mcp-scaleway-functions",
+  "install": "# git clone --depth 1 https://github.com/cyclimse/mcp-scaleway-functions\n# See source for mcpServers config block"
+}

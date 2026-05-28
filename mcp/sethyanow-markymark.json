@@ -1,0 +1,7 @@
+{
+  "name": "sethyanow-markymark",
+  "description": "High-performance Markdown language server and MCP server for AI agent workflows, providing workspace-aware document analysis, broken link diagnostics, backlink tracking, and support for Obsidian and Logseq flavors.",
+  "source_repo": "sethyanow/markymark",
+  "source_url": "https://github.com/sethyanow/markymark",
+  "install": "# git clone --depth 1 https://github.com/sethyanow/markymark\n# See source for mcpServers config block"
+}

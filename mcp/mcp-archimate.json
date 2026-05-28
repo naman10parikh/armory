@@ -1,0 +1,7 @@
+{
+  "name": "mcp-archimate",
+  "description": "Enables querying and modifying ArchiMate enterprise architecture models from XML or Archi Tool files via REST API and MCP server, supporting multiple simultaneous data sources.",
+  "source_repo": "lacrif/mcp-archimate",
+  "source_url": "https://github.com/lacrif/mcp-archimate",
+  "install": "# git clone --depth 1 https://github.com/lacrif/mcp-archimate\n# See source for mcpServers config block"
+}

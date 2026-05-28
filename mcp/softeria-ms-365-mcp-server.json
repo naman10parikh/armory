@@ -1,0 +1,7 @@
+{
+  "name": "softeria-ms-365-mcp-server",
+  "description": "MCP server that connects to Microsoft Office and the whole Microsoft 365 suite using Graph API (including Outlook, mail, files, Excel, calendar)",
+  "source_repo": "softeria/ms-365-mcp-server",
+  "source_url": "https://github.com/softeria/ms-365-mcp-server",
+  "install": "npx -y ms-365-mcp-server"
+}

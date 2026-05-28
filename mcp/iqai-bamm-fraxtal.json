@@ -1,0 +1,7 @@
+{
+  "name": "iqai-bamm-fraxtal",
+  "description": "Enables DeFi operations on Fraxtal blockchain by providing tools for managing BAMM positions, lending Fraxswap LP tokens, and borrowing against collateral",
+  "source_repo": "iqaicom/mcp-bamm",
+  "source_url": "https://github.com/iqaicom/mcp-bamm",
+  "install": "# git clone --depth 1 https://github.com/iqaicom/mcp-bamm\n# See source for mcpServers config block"
+}

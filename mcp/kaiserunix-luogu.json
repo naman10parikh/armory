@@ -1,0 +1,7 @@
+{
+  "name": "kaiserunix-luogu",
+  "description": "MCP server for the Luogu competitive programming platform with 10 read-only tools for problem search, topic exploration, and user profile retrieval.",
+  "source_repo": "kaiserunix/luogu-mcp-server",
+  "source_url": "https://github.com/kaiserunix/luogu-mcp-server",
+  "install": "npx -y luogu-mcp-server"
+}

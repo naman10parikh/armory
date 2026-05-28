@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-xkcd",
+  "description": "xkcd comic data via the xkcd.com JSON API — fetch current or specific comics with titles, images, transcripts, and alt text.",
+  "source_repo": "pipeworx-io/mcp-xkcd",
+  "source_url": "https://github.com/pipeworx-io/mcp-xkcd",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-xkcd\n# See source for mcpServers config block"
+}

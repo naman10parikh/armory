@@ -1,0 +1,7 @@
+{
+  "name": "jeeftor-audiobookshelf",
+  "description": "Inspect and operate Audiobookshelf media server libraries, including audiobooks and podcasts, over MCP.",
+  "source_repo": "jeeftor/abs-mcp",
+  "source_url": "https://github.com/jeeftor/abs-mcp",
+  "install": "npx -y abs-mcp"
+}

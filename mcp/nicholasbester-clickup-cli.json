@@ -1,0 +1,7 @@
+{
+  "name": "nicholasbester-clickup-cli",
+  "description": "ClickUp API integration with 143 MCP tools covering all ~130 endpoints. Token-efficient compact responses (~98% smaller than raw JSON), flattening nested objects for minimal context usage. Also works as a standalone CLI.",
+  "source_repo": "nicholasbester/clickup-cli",
+  "source_url": "https://github.com/nicholasbester/clickup-cli",
+  "install": "# git clone --depth 1 https://github.com/nicholasbester/clickup-cli\n# See source for mcpServers config block"
+}

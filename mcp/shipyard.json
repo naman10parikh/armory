@@ -1,0 +1,7 @@
+{
+  "name": "shipyard",
+  "description": "Ephemeral environment management with lifecycle control, service logs, volume operations, and port forwarding",
+  "source_repo": "shipyard/shipyard-cli",
+  "source_url": "https://github.com/shipyard/shipyard-cli",
+  "install": "# git clone --depth 1 https://github.com/shipyard/shipyard-cli\n# See source for mcpServers config block"
+}

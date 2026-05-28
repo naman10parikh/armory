@@ -1,0 +1,7 @@
+{
+  "name": "sweetmantech-recoupable",
+  "description": "Retrieves and aggregates social media insights for artists by fetching comprehensive fan and post data across multiple platforms, enabling developers to easily access structured online presence information",
+  "source_repo": "recoupableorg/mcp-vercel",
+  "source_url": "https://github.com/recoupableorg/mcp-vercel",
+  "install": "# git clone --depth 1 https://github.com/recoupableorg/mcp-vercel\n# See source for mcpServers config block"
+}

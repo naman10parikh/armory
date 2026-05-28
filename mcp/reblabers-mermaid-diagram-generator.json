@@ -1,0 +1,7 @@
+{
+  "name": "reblabers-mermaid-diagram-generator",
+  "description": "Integrates with Mermaid to render diagrams as images, enabling on-the-fly generation of visual representations for data structures, workflows, or system architectures.",
+  "source_repo": "reblabers/mermaid-mcp",
+  "source_url": "https://github.com/reblabers/mermaid-mcp",
+  "install": "npx -y mermaid-mcp"
+}

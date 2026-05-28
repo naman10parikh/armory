@@ -1,0 +1,7 @@
+{
+  "name": "public-ui-kolibri",
+  "description": "Streaming KoliBri MCP server (NPM: `@public-ui/mcp`) delivering 200+ guaranteed accessible web component samples, specs, docs, and scenarios via hosted HTTP endpoint or local `kolibri-mcp` CLI.",
+  "source_repo": "public-ui/kolibri",
+  "source_url": "https://github.com/public-ui/kolibri",
+  "install": "# git clone --depth 1 https://github.com/public-ui/kolibri\n# See source for mcpServers config block"
+}

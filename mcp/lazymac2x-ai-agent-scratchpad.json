@@ -1,0 +1,7 @@
+{
+  "name": "lazymac2x-ai-agent-scratchpad",
+  "description": "Persistent key-value scratchpad for AI agents with session checkpointing and diff support. Tool documentation in Korean.",
+  "source_repo": "lazymac2x/ai-agent-scratchpad-api",
+  "source_url": "https://github.com/lazymac2x/ai-agent-scratchpad-api",
+  "install": "# git clone --depth 1 https://github.com/lazymac2x/ai-agent-scratchpad-api\n# See source for mcpServers config block"
+}

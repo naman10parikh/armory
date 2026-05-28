@@ -1,0 +1,7 @@
+{
+  "name": "hackernew-mcp",
+  "description": "Hackernew Mcp MCP server listed on mcp.so.",
+  "source_repo": "yunfanye/hackernew-mcp",
+  "source_url": "https://mcp.so/server/hackernew-mcp/yunfanye",
+  "install": "npx -y hackernew-mcp"
+}

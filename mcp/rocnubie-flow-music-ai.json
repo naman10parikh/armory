@@ -1,0 +1,7 @@
+{
+  "name": "rocnubie-flow-music-ai",
+  "description": "Read-only MCP server providing pricing and official links for the Flow Music AI generator.",
+  "source_repo": "rocnubie/flowmusicai-mcp",
+  "source_url": "https://github.com/rocnubie/flowmusicai-mcp",
+  "install": "npx -y flowmusicai-mcp"
+}

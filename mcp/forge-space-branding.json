@@ -1,0 +1,7 @@
+{
+  "name": "forge-space-branding",
+  "description": "AI-powered brand identity generation with design tokens, color systems, and multi-format export.",
+  "source_repo": "forge-space/branding-mcp",
+  "source_url": "https://github.com/forge-space/branding-mcp",
+  "install": "npx -y branding-mcp"
+}

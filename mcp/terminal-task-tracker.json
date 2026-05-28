@@ -1,0 +1,7 @@
+{
+  "name": "terminal-task-tracker",
+  "description": "Terminal-based task management system that enables creating, updating, and organizing tasks by priority and status while developing structured project plans with ordered steps.",
+  "source_repo": "liorstrugach/task-manager-mcp",
+  "source_url": "https://github.com/liorstrugach/task-manager-mcp",
+  "install": "npx -y task-manager-mcp"
+}

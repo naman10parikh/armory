@@ -1,0 +1,7 @@
+{
+  "name": "shashwatgtm-craft-gtm",
+  "description": "Provides go-to-market strategy tools using the CRAFT framework for product-market fit assessment, launch planning, customer interviews, retention, partnerships, crisis management, and competitive intelligence.",
+  "source_repo": "shashwatgtm/craft-gtm-mcp",
+  "source_url": "https://github.com/shashwatgtm/craft-gtm-mcp",
+  "install": "npx -y craft-gtm-mcp"
+}

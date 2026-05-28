@@ -1,0 +1,7 @@
+{
+  "name": "evidai-polymarket-guard",
+  "description": "Trade Polymarket prediction markets in USDC with pay-per-call billing and free read-only access.",
+  "source_repo": "evidai/agent-payment-mcp",
+  "source_url": "https://github.com/evidai/agent-payment-mcp/tree/HEAD/polymarket-mcp",
+  "install": "npx -y agent-payment-mcp"
+}

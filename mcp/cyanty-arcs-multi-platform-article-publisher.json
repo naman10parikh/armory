@@ -1,0 +1,7 @@
+{
+  "name": "cyanty-arcs-multi-platform-article-publisher",
+  "description": "Automates article publishing across Chinese tech platforms including CSDN, JueJin, Zhihu, WeChat, Halo, and CNBlogs with markdown content processing, platform-specific tag management, and concurrent multi-platform distribution for content creators and technical bloggers.",
+  "source_repo": "cyanty/arcs-mcp",
+  "source_url": "https://github.com/cyanty/arcs-mcp",
+  "install": "npx -y arcs-mcp"
+}

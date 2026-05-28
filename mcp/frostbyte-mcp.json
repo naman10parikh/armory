@@ -1,0 +1,7 @@
+{
+  "name": "frostbyte-mcp",
+  "description": "A unified MCP server providing AI agents with 40+ developer APIs including geolocation, crypto prices, DNS lookup, and web scraping. Enables natural language access to various tools through a single gateway.",
+  "source_repo": "Robocular/frostbyte-mcp",
+  "source_url": "https://github.com/Robocular/frostbyte-mcp",
+  "install": "npx -y frostbyte-mcp"
+}

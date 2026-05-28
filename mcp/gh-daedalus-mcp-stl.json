@@ -1,0 +1,7 @@
+{
+  "name": "gh-daedalus-mcp-stl",
+  "description": "MCP server for parsing, transforming, and generating STL 3D model files with tools for mesh manipulation and shape creation.",
+  "source_repo": "daedalus/mcp-stl",
+  "source_url": "https://github.com/daedalus/mcp-stl",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-stl\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brianmeyer-mollygraph",
+  "description": "Local-first self-improving knowledge graph for AI agents with three-layer entity extraction, parallel graph and vector retrieval, and automated LoRA fine-tuning.",
+  "source_repo": "brianmeyer/mollygraph",
+  "source_url": "https://github.com/brianmeyer/mollygraph",
+  "install": "# git clone --depth 1 https://github.com/brianmeyer/mollygraph\n# See source for mcpServers config block"
+}

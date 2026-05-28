@@ -1,0 +1,7 @@
+{
+  "name": "acedatacloud-sora",
+  "description": "OpenAI Sora AI video generation through the AceDataCloud API platform.",
+  "source_repo": "acedatacloud/soramcp",
+  "source_url": "https://github.com/acedatacloud/soramcp",
+  "install": "# git clone --depth 1 https://github.com/acedatacloud/soramcp\n# See source for mcpServers config block"
+}

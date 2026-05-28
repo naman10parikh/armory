@@ -1,0 +1,7 @@
+{
+  "name": "akhilvis-elasticsearch",
+  "description": "Integrates with Elasticsearch clusters to enable natural language searching of indices, mapping retrieval, and data discovery without requiring knowledge of Elasticsearch query syntax",
+  "source_repo": "akhilvis/elastic-mcp",
+  "source_url": "https://github.com/akhilvis/elastic-mcp",
+  "install": "npx -y elastic-mcp"
+}

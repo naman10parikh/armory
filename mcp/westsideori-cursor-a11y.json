@@ -1,0 +1,7 @@
+{
+  "name": "westsideori-cursor-a11y",
+  "description": "Integrates accessibility testing capabilities using Puppeteer to perform automated WCAG compliance checks and generate remediation suggestions for web applications.",
+  "source_repo": "westsideori/cursor-a11y-mcp",
+  "source_url": "https://github.com/westsideori/cursor-a11y-mcp",
+  "install": "npx -y cursor-a11y-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "beverm2391-chain-of-thought",
+  "description": "Exposes raw reasoning tokens from language models through Groq's API, allowing users to see the step-by-step thinking process within <think> tags before receiving final answers.",
+  "source_repo": "beverm2391/chain-of-thought-mcp-server",
+  "source_url": "https://github.com/beverm2391/chain-of-thought-mcp-server",
+  "install": "npx -y chain-of-thought-mcp-server"
+}

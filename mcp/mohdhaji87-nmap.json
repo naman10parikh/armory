@@ -1,0 +1,7 @@
+{
+  "name": "mohdhaji87-nmap",
+  "description": "Exposes Nmap network scanning capabilities through 11 specialized tools for network discovery, service detection, OS fingerprinting, vulnerability scanning, and stealth reconnaissance with configurable timeouts and output formats.",
+  "source_repo": "mohdhaji87/nmap-mcp-server",
+  "source_url": "https://github.com/mohdhaji87/nmap-mcp-server",
+  "install": "npx -y nmap-mcp-server"
+}

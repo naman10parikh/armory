@@ -1,0 +1,7 @@
+{
+  "name": "zaphod-black-espocrm",
+  "description": "Integrates with EspoCRM to provide complete CRUD operations for contacts, accounts, and opportunities with advanced search, filtering, pagination, and health monitoring capabilities.",
+  "source_repo": "zaphod-black/espomcp",
+  "source_url": "https://github.com/zaphod-black/espomcp",
+  "install": "# git clone --depth 1 https://github.com/zaphod-black/espomcp\n# See source for mcpServers config block"
+}

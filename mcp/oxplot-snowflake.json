@@ -1,0 +1,7 @@
+{
+  "name": "oxplot-snowflake",
+  "description": "Integrates with Snowflake databases through external browser authentication, enabling secure schema exploration and SQL query execution without storing credentials on disk.",
+  "source_repo": "oxplot/snowflake-mcp",
+  "source_url": "https://github.com/oxplot/snowflake-mcp",
+  "install": "npx -y snowflake-mcp"
+}

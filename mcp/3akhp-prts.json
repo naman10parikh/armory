@@ -1,0 +1,7 @@
+{
+  "name": "3akhp-prts",
+  "description": "Access Arknights game data via the PRTS Wiki API, including operator profiles, voice lines, story events, and wiki articles.",
+  "source_repo": "3akhp/prts-mcp",
+  "source_url": "https://github.com/3akhp/prts-mcp",
+  "install": "npx -y prts-mcp"
+}

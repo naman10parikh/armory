@@ -1,0 +1,7 @@
+{
+  "name": "maroofgadiwale-expense-tracker",
+  "description": "Personal expense tracking with SQLite storage for adding categorized expenses, retrieving filtered records, and generating summaries by category or date range.",
+  "source_repo": "maroofgadiwale/own-mcp-server",
+  "source_url": "https://github.com/maroofgadiwale/own-mcp-server",
+  "install": "npx -y own-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uploadkit",
+  "description": "Access 40+ upload components, route scaffolds, BYOS setup, and full UploadKit docs via AI.",
+  "source_repo": "drumst0ck/uploadkit",
+  "source_url": "https://github.com/drumst0ck/uploadkit",
+  "install": "# git clone --depth 1 https://github.com/drumst0ck/uploadkit\n# See source for mcpServers config block"
+}

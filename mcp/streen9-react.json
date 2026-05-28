@@ -1,0 +1,7 @@
+{
+  "name": "streen9-react",
+  "description": "Integrates with React applications to enable AI-assisted development workflows, providing tools for project management, terminal command execution, and file operations.",
+  "source_repo": "kalivaraprasad-gonapa/react-mcp",
+  "source_url": "https://github.com/kalivaraprasad-gonapa/react-mcp",
+  "install": "npx -y react-mcp"
+}

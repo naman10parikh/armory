@@ -1,0 +1,7 @@
+{
+  "name": "gh-s-morgan-jeffries-apple-calendar",
+  "description": "Connects to Apple Calendar on macOS via AppleScript and EventKit for event management.",
+  "source_repo": "s-morgan-jeffries/apple-calendar-mcp",
+  "source_url": "https://github.com/s-morgan-jeffries/apple-calendar-mcp",
+  "install": "npx -y apple-calendar-mcp"
+}

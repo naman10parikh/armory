@@ -1,0 +1,7 @@
+{
+  "name": "kaina3-python-debugger",
+  "description": "Provides Python debugging capabilities through breakpoint-based execution control and variable inspection, enabling controlled script execution with state capture, timeout management, and support for multiple concurrent debug sessions.",
+  "source_repo": "kaina3/debug-mcp",
+  "source_url": "https://github.com/kaina3/debug-mcp",
+  "install": "npx -y debug-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yangm2-gnucash-bindings",
+  "description": "Provides MCP bindings for GnuCash financial data including budget management and account access.",
+  "source_repo": "yangm2/gnucash-bindings-mcp",
+  "source_url": "https://github.com/yangm2/gnucash-bindings-mcp",
+  "install": "npx -y gnucash-bindings-mcp"
+}

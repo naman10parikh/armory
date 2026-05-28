@@ -1,0 +1,7 @@
+{
+  "name": "gregario-godot-forge",
+  "description": "Godot 4 development companion with test runner, API docs search, script analysis, scene parsing, and Godot 3-to-4 migration mapping.",
+  "source_repo": "gregario/godot-forge",
+  "source_url": "https://github.com/gregario/godot-forge",
+  "install": "# git clone --depth 1 https://github.com/gregario/godot-forge\n# See source for mcpServers config block"
+}

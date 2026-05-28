@@ -1,0 +1,7 @@
+{
+  "name": "kennymkchan-reamaze",
+  "description": "Integrates with Reamaze customer support platform for managing conversations, contacts, response templates, and internal notes with cross-platform data pairing.",
+  "source_repo": "kennymkchan/reamaze-mcp-server",
+  "source_url": "https://github.com/kennymkchan/reamaze-mcp-server",
+  "install": "npx -y reamaze-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xzeroone-mcpmarket",
+  "description": "Searches, browses, and installs MCP servers from the MCPMarket.com directory.",
+  "source_repo": "xzeroone/mcp-mcpmarket",
+  "source_url": "https://github.com/xzeroone/mcp-mcpmarket",
+  "install": "# git clone --depth 1 https://github.com/xzeroone/mcp-mcpmarket\n# See source for mcpServers config block"
+}

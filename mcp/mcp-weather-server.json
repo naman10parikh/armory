@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather-server",
+  "description": "Provides real-time weather information for any location using FastMCP.",
+  "source_repo": "DilmurodMak/mcpweather",
+  "source_url": "https://github.com/DilmurodMak/mcpweather",
+  "install": "# git clone --depth 1 https://github.com/DilmurodMak/mcpweather\n# See source for mcpServers config block"
+}

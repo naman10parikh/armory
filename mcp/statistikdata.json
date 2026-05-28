@@ -1,0 +1,7 @@
+{
+  "name": "statistikdata",
+  "description": "Swedish open data service providing verified statistics for AI assistants with source attribution.",
+  "source_repo": "",
+  "source_url": "https://statistikdata.se",
+  "install": "# git clone --depth 1 https://statistikdata.se\n# See source for mcpServers config block"
+}

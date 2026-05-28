@@ -1,0 +1,7 @@
+{
+  "name": "gander-tools-osm-tagging-schema",
+  "description": "Query and validate OpenStreetMap tags with preset discovery and validation tools",
+  "source_repo": "gander-tools/osm-tagging-schema-mcp",
+  "source_url": "https://github.com/gander-tools/osm-tagging-schema-mcp",
+  "install": "npx -y osm-tagging-schema-mcp"
+}

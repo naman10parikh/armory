@@ -1,0 +1,7 @@
+{
+  "name": "brave-search-mcp-cloudflare",
+  "description": "Remote Brave Search wrapper deployed as a Cloudflare Worker with Durable Objects and optional Zero Trust auth.",
+  "source_repo": "nolanfoster/brave-search-mcp-cloudflare",
+  "source_url": "https://github.com/nolanfoster/brave-search-mcp-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/nolanfoster/brave-search-mcp-cloudflare\n# See source for mcpServers config block"
+}

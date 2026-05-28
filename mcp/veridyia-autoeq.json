@@ -1,0 +1,7 @@
+{
+  "name": "veridyia-autoeq",
+  "description": "Searches, compares, and retrieves parametric EQ settings for headphones and IEMs from the AutoEQ database.",
+  "source_repo": "veridyia/autoeq-mcp",
+  "source_url": "https://github.com/veridyia/autoeq-mcp",
+  "install": "npx -y autoeq-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nexusfeed",
+  "description": "Real-time LTL fuel surcharge rates for 10 US carriers and ABC liquor license compliance data with verifiable provenance.",
+  "source_repo": "nexusfeed/nexusfeed-mcp",
+  "source_url": "https://github.com/nexusfeed/nexusfeed-mcp",
+  "install": "npx -y nexusfeed-mcp"
+}

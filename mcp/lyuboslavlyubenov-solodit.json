@@ -1,0 +1,7 @@
+{
+  "name": "lyuboslavlyubenov-solodit",
+  "description": "Integrates with Solodit's vulnerability database to search smart contract security audit findings and retrieve detailed vulnerability reports including impact levels, audit firm details, and technical descriptions for security research and analysis workflows.",
+  "source_repo": "lyuboslavlyubenov/search-solodit-mcp",
+  "source_url": "https://github.com/lyuboslavlyubenov/search-solodit-mcp",
+  "install": "npx -y search-solodit-mcp"
+}

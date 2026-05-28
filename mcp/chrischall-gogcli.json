@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-gogcli",
+  "description": "Natural-language access to Google Workspace services including Sheets, Docs, Gmail, Calendar, Drive, Tasks, and Contacts.",
+  "source_repo": "chrischall/gogcli-mcp",
+  "source_url": "https://github.com/chrischall/gogcli-mcp",
+  "install": "npx -y gogcli-mcp"
+}

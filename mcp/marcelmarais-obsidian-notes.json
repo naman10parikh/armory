@@ -1,0 +1,7 @@
+{
+  "name": "marcelmarais-obsidian-notes",
+  "description": "Enables direct filesystem access to Obsidian vaults for retrieving file lists, reading content, managing todos, and creating or updating markdown files without requiring the Obsidian application to be running.",
+  "source_repo": "marcelmarais/obsidian-mcp-server",
+  "source_url": "https://github.com/marcelmarais/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

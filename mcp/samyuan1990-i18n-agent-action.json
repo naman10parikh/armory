@@ -1,0 +1,7 @@
+{
+  "name": "samyuan1990-i18n-agent-action",
+  "description": "Translation tools for text, URLs, and files including audio via speech-to-text",
+  "source_repo": "samyuan1990/i18n-agent-action",
+  "source_url": "https://github.com/samyuan1990/i18n-agent-action",
+  "install": "# git clone --depth 1 https://github.com/samyuan1990/i18n-agent-action\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bankruptcy-observer",
+  "description": "Access US business bankruptcy data including case search, EIN lookup, and docket entries.",
+  "source_repo": "jmtroller/bankruptcy-observer-mcp-api-public-documentation",
+  "source_url": "https://github.com/jmtroller/bankruptcy-observer-mcp-api-public-documentation",
+  "install": "# git clone --depth 1 https://github.com/jmtroller/bankruptcy-observer-mcp-api-public-documentation\n# See source for mcpServers config block"
+}

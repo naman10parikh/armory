@@ -1,0 +1,7 @@
+{
+  "name": "gh-dbsectrainer-cost-tracker-router",
+  "description": "Local-first token cost tracking with offline counting via js-tiktoken, budget alerts, model routing suggestions, and project-level cost allocation.",
+  "source_repo": "dbsectrainer/mcp-cost-tracker-router",
+  "source_url": "https://github.com/dbsectrainer/mcp-cost-tracker-router",
+  "install": "# git clone --depth 1 https://github.com/dbsectrainer/mcp-cost-tracker-router\n# See source for mcpServers config block"
+}

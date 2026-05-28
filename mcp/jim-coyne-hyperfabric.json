@@ -1,0 +1,7 @@
+{
+  "name": "jim-coyne-hyperfabric",
+  "description": "Automate Cisco Hyperfabric data center switching fabrics",
+  "source_repo": "jim-coyne/hyperfabric_mcp",
+  "source_url": "https://github.com/jim-coyne/hyperfabric_mcp",
+  "install": "npx -y hyperfabric_mcp"
+}

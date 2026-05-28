@@ -1,0 +1,7 @@
+{
+  "name": "kfischer-okarin-joplin",
+  "description": "Bridges Claude with Joplin's note-taking application, enabling direct interaction with notebooks and notes through a Ruby-based API implementation that retrieves and displays the complete notebook hierarchy.",
+  "source_repo": "kfischer-okarin/joplin-mcp-server",
+  "source_url": "https://github.com/kfischer-okarin/joplin-mcp-server",
+  "install": "npx -y joplin-mcp-server"
+}

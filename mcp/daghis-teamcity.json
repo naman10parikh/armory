@@ -1,0 +1,7 @@
+{
+  "name": "daghis-teamcity",
+  "description": "Integrates with JetBrains TeamCity CI/CD platform",
+  "source_repo": "daghis/teamcity-mcp",
+  "source_url": "https://github.com/daghis/teamcity-mcp",
+  "install": "npx -y teamcity-mcp"
+}

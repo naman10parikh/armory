@@ -1,0 +1,7 @@
+{
+  "name": "verygoodplugins-streamdeck",
+  "description": "Control Elgato Stream Deck devices with natural language to configure buttons, manage pages, and wire actions.",
+  "source_repo": "verygoodplugins/streamdeck-mcp",
+  "source_url": "https://github.com/verygoodplugins/streamdeck-mcp",
+  "install": "npx -y streamdeck-mcp"
+}

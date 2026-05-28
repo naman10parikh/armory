@@ -1,0 +1,7 @@
+{
+  "name": "alias8818-enoch",
+  "description": "Manage an Enoch control plane with tools for configuring AI agent infrastructure.",
+  "source_repo": "alias8818/enoch-mcp",
+  "source_url": "https://github.com/alias8818/enoch-mcp",
+  "install": "npx -y enoch-mcp"
+}

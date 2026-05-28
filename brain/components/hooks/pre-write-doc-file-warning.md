@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [pre-bash-dispatcher, pre-config-protection]
-tags: [ecc, hook, PreToolUse]
+tags: [hook, PreToolUse]
 ---
 ## What it is
 PreToolUse hook: Doc file warning: warn about non-standard documentation files (exit code 0; warns only) (matcher: Write).

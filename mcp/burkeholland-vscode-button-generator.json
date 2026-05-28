@@ -1,0 +1,7 @@
+{
+  "name": "burkeholland-vscode-button-generator",
+  "description": "Generates VS Code install buttons and markdown badges for MCP servers and GitHub Copilot extensions, providing one-click installation experiences through automated redirect URL creation with support for NPX-based servers, environment variables, and chat instructions.",
+  "source_repo": "burkeholland/mcp-vsc-button-gen",
+  "source_url": "https://github.com/burkeholland/mcp-vsc-button-gen",
+  "install": "# git clone --depth 1 https://github.com/burkeholland/mcp-vsc-button-gen\n# See source for mcpServers config block"
+}

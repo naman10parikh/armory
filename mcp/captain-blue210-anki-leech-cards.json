@@ -1,0 +1,7 @@
+{
+  "name": "captain-blue210-anki-leech-cards",
+  "description": "Connects Claude Desktop to Anki via AnkiConnect API, enabling retrieval and analysis of 'leech' cards to improve spaced repetition study habits.",
+  "source_repo": "captain-blue210/anki-mcp-server",
+  "source_url": "https://github.com/captain-blue210/anki-mcp-server",
+  "install": "npx -y anki-mcp-server"
+}

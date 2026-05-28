@@ -1,0 +1,7 @@
+{
+  "name": "prem-ai",
+  "description": "Provides direct access to Prem AI's chat completions and RAG capabilities through tools for chat interactions, document uploads, and template-based prompting for knowledge retrieval and contextual responses.",
+  "source_repo": "ucalyptus/prem-mcp-server",
+  "source_url": "https://github.com/ucalyptus/prem-mcp-server",
+  "install": "npx -y prem-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-ads",
+  "description": "Mcp Google Ads MCP server listed on mcp.so.",
+  "source_repo": "cohnen/mcp-google-ads",
+  "source_url": "https://mcp.so/server/mcp-google-ads/cohnen",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-google-ads/cohnen\n# See source for mcpServers config block"
+}

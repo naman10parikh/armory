@@ -1,0 +1,7 @@
+{
+  "name": "czagents-cnb",
+  "description": "Czech National Bank (ČNB) daily FX rates: fetch official CZK exchange rates, convert between currencies, fetch historical rates. Cached 10 min to ease upstream load. npm `@czagents/cnb` or HTTP at cnb.cz-agents.dev/mcp.",
+  "source_repo": "martinhavel/cz-agents-mcp",
+  "source_url": "https://github.com/martinhavel/cz-agents-mcp",
+  "install": "npx -y cz-agents-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "barbell-tools",
+  "description": "**CoachSync MCP** provides barbell strength training tools for AI assistants. Built for coaches, lifters, and fitness apps that want to add structured programming to their AI workflows. No API key required — connect and start using. ## Tools ### Warmup Calculator Generate a Starting Strength-style w",
+  "source_repo": "",
+  "source_url": "https://coachsync.io",
+  "install": "# git clone --depth 1 https://coachsync.io\n# See source for mcpServers config block"
+}

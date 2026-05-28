@@ -1,0 +1,7 @@
+{
+  "name": "katalon-mcp-server",
+  "description": "Bridges Katalon Studio with Claude AI for intelligent QA automation, enabling project analysis, test case creation, execution, and object repository management.",
+  "source_repo": "PareshSoni468/katalon-mcp-server",
+  "source_url": "https://github.com/PareshSoni468/katalon-mcp-server",
+  "install": "npx -y katalon-mcp-server"
+}

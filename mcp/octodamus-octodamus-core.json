@@ -1,0 +1,7 @@
+{
+  "name": "octodamus-octodamus-core",
+  "description": "AI consensus market oracle for crypto traders and autonomous agents. 11-signal BUY/SELL/HOLD consensus (RSI, MACD, funding rate, L/S ratio, on-chain flow, Fear & Greed, congressional trading), Polymarket prediction market edges with EV scoring, Grok X crowd sentiment divergence. Ed25519-signed, on-chain verifiable. x402 micropayments at $0.01/call on Base, or 500 req/day free.",
+  "source_repo": "Octodamus/octodamus-core",
+  "source_url": "https://github.com/Octodamus/octodamus-core",
+  "install": "# git clone --depth 1 https://github.com/Octodamus/octodamus-core\n# See source for mcpServers config block"
+}

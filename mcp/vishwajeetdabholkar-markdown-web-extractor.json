@@ -1,0 +1,7 @@
+{
+  "name": "vishwajeetdabholkar-markdown-web-extractor",
+  "description": "Extracts clean markdown content from web pages using headless Chrome browser, filtering out navigation and advertisements while handling JavaScript-heavy sites.",
+  "source_repo": "vishwajeetdabholkar/markdown-mcp",
+  "source_url": "https://github.com/vishwajeetdabholkar/markdown-mcp",
+  "install": "npx -y markdown-mcp"
+}

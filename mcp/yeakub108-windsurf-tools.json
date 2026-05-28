@@ -1,0 +1,7 @@
+{
+  "name": "yeakub108-windsurf-tools",
+  "description": "Integrates with OpenAI's API and Puppeteer to provide screenshot capture, code architecture analysis, and code review capabilities for software development tasks.",
+  "source_repo": "yeakub108/mcp-server",
+  "source_url": "https://github.com/yeakub108/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/yeakub108/mcp-server\n# See source for mcpServers config block"
+}

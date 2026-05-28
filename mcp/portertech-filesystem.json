@@ -1,0 +1,7 @@
+{
+  "name": "portertech-filesystem",
+  "description": "Secure filesystem operations with sandboxed directory access, atomic writes, and path traversal protection.",
+  "source_repo": "portertech/filesystem-mcp-server",
+  "source_url": "https://github.com/portertech/filesystem-mcp-server",
+  "install": "npx -y filesystem-mcp-server"
+}

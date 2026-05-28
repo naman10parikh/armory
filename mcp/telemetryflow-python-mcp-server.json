@@ -1,0 +1,7 @@
+{
+  "name": "telemetryflow-python-mcp-server",
+  "description": "Enterprise-grade MCP server integrating Claude AI capabilities, enabling AI-powered conversations, file operations, and system tools via the Model Context Protocol.",
+  "source_repo": "telemetryflow/telemetryflow-python-mcp",
+  "source_url": "https://github.com/telemetryflow/telemetryflow-python-mcp",
+  "install": "npx -y telemetryflow-python-mcp"
+}

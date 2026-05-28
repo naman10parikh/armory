@@ -1,0 +1,7 @@
+{
+  "name": "gh-vrllrv-junto",
+  "description": "Payment protocol for people and agents supporting any payment rail.",
+  "source_repo": "vrllrv/junto-mcp",
+  "source_url": "https://github.com/vrllrv/junto-mcp",
+  "install": "npx -y junto-mcp"
+}

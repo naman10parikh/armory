@@ -1,0 +1,7 @@
+{
+  "name": "harshalrathore-code-intel",
+  "description": "MCP server providing 20 code analysis tools including symbol search, call graphs, data flow, and impact analysis powered by ArangoDB.",
+  "source_repo": "harshalrathore/code-intel-mcp",
+  "source_url": "https://github.com/harshalrathore/code-intel-mcp",
+  "install": "npx -y code-intel-mcp"
+}

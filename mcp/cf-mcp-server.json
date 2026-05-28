@@ -1,0 +1,7 @@
+{
+  "name": "cf-mcp-server",
+  "description": "Cf Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "turinhub/cf-mcp-server",
+  "source_url": "https://mcp.so/server/cf-mcp-server/turinhub",
+  "install": "npx -y cf-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dangpolly927-eng-vision-bridge",
+  "description": "Local MCP server bridging AI clients to OpenAI-compatible vision models for image analysis and web page content extraction.",
+  "source_repo": "dangpolly927-eng/mcp-vision-web-bridge",
+  "source_url": "https://github.com/dangpolly927-eng/mcp-vision-web-bridge",
+  "install": "# git clone --depth 1 https://github.com/dangpolly927-eng/mcp-vision-web-bridge\n# See source for mcpServers config block"
+}

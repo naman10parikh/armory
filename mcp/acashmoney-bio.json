@@ -1,0 +1,7 @@
+{
+  "name": "acashmoney-bio",
+  "description": "Enabling agent-based biomedical R&D via protein structure analysis capabilities",
+  "source_repo": "acashmoney/bio-mcp",
+  "source_url": "https://github.com/acashmoney/bio-mcp",
+  "install": "npx -y bio-mcp"
+}

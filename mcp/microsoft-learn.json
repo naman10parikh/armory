@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-learn",
+  "description": "Enables AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation",
+  "source_repo": "microsoftdocs/mcp",
+  "source_url": "https://github.com/microsoftdocs/mcp",
+  "install": "# git clone --depth 1 https://github.com/microsoftdocs/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stratproof",
+  "description": "StratProof runs honest backtests: real fees, real slippage, walk-forward validation. Six public tools, no OAuth. Call prove_strategy to test any strategy description (\"Buy ETH when RSI(7) below 25, exit on 1.5% gain\") and get a CONFIRMED / MIXED / DEBUNKED verdict with diagnosis. Call get_live_proof",
+  "source_repo": "",
+  "source_url": "htts://stratproof.com",
+  "install": "# git clone --depth 1 htts://stratproof.com\n# See source for mcpServers config block"
+}

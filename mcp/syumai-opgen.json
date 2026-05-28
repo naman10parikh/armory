@@ -1,0 +1,7 @@
+{
+  "name": "syumai-opgen",
+  "description": "Generates secure passwords with configurable character sets or word combinations, automatically copying results to the clipboard for seamless credential creation.",
+  "source_repo": "syumai/opgen-mcp-server",
+  "source_url": "https://github.com/syumai/opgen-mcp-server",
+  "install": "npx -y opgen-mcp-server"
+}

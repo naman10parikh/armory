@@ -1,0 +1,7 @@
+{
+  "name": "modelbound",
+  "description": "Manages AI agent skills for Claude Code, Cursor, Kiro, and Windsurf with optional cloud sync.",
+  "source_repo": "modelbound/modelbound-mcp-server",
+  "source_url": "https://github.com/modelbound/modelbound-mcp-server",
+  "install": "npx -y modelbound-mcp-server"
+}

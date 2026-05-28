@@ -1,0 +1,7 @@
+{
+  "name": "olyport-hrsa",
+  "description": "Health professional shortage areas and community health centers from HRSA.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/hrsa/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/hrsa/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "edkarlsson-locus",
+  "description": "Hierarchical markdown memory palace for AI agents with structured palace navigation.",
+  "source_repo": "EDKarlsson/locus",
+  "source_url": "https://github.com/EDKarlsson/locus",
+  "install": "# git clone --depth 1 https://github.com/EDKarlsson/locus\n# See source for mcpServers config block"
+}

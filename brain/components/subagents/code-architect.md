@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [a11y-architect, build-error-resolver]
-tags: [ecc, subagent]
+tags: [subagent]
 ---
 ## What it is
 Designs feature architectures by analyzing existing codebase patterns and conventions, then providing implementation blueprints with concrete files, interfaces, data flow, and build order.

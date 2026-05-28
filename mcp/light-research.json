@@ -1,0 +1,7 @@
+{
+  "name": "light-research",
+  "description": "Provides web content search and extraction through DuckDuckGo and GitHub Code Search APIs, converting web pages into clean Markdown format using browser automation and content sanitization for research and documentation tasks.",
+  "source_repo": "code-hex/light-research-mcp",
+  "source_url": "https://github.com/code-hex/light-research-mcp",
+  "install": "npx -y light-research-mcp"
+}

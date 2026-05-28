@@ -1,0 +1,7 @@
+{
+  "name": "upnorthmedia-screenshot",
+  "description": "Captures website screenshots using Puppeteer browser automation with full-page and element-specific targeting, device presets, and intelligent wait conditions for web development testing and UI documentation workflows.",
+  "source_repo": "upnorthmedia/screenshotmcp",
+  "source_url": "https://github.com/upnorthmedia/screenshotmcp",
+  "install": "# git clone --depth 1 https://github.com/upnorthmedia/screenshotmcp\n# See source for mcpServers config block"
+}

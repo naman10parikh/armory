@@ -1,0 +1,7 @@
+{
+  "name": "nangman-infra-touch-browser",
+  "description": "Evidence-grounded web research for AI agents. Verifies page-local claims with citations, confidence bands, policy reports, and multi-page session synthesis via MCP.",
+  "source_repo": "nangman-infra/touch-browser",
+  "source_url": "https://github.com/nangman-infra/touch-browser",
+  "install": "# git clone --depth 1 https://github.com/nangman-infra/touch-browser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coding-tools-mcp",
+  "description": "Empower any MCP-compatible AI Agent(MCP Client) with engineering-grade capabilities to understand, modify, run, and deliver real-world code repositories.",
+  "source_repo": "xyTom/coding-tools-mcp",
+  "source_url": "https://github.com/xyTom/coding-tools-mcp",
+  "install": "npx -y coding-tools-mcp"
+}

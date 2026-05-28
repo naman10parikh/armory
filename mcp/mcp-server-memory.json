@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-memory",
+  "description": "Mcp Server Memory MCP server listed on mcp.so.",
+  "source_repo": "jcdiv47/mcp-server-memory",
+  "source_url": "https://mcp.so/server/mcp-server-memory/jcdiv47",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-memory/jcdiv47\n# See source for mcpServers config block"
+}

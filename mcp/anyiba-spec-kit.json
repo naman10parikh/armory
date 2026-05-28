@@ -1,0 +1,7 @@
+{
+  "name": "anyiba-spec-kit",
+  "description": "Integrates with GitHub's Spec Kit templates and specify-cli tool to guide specification lifecycle including constitution establishment, requirement specification, technical planning, task breakdown, and implementation guidelines for systematic specification-driven development practices.",
+  "source_repo": "anyiba/spec-kit-mcp",
+  "source_url": "https://github.com/anyiba/spec-kit-mcp",
+  "install": "npx -y spec-kit-mcp"
+}

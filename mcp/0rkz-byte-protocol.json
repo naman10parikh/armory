@@ -1,0 +1,7 @@
+{
+  "name": "0rkz-byte-protocol",
+  "description": "Byte Protocol data marketplace on Arbitrum — query publishers, subscriptions, and network stats via 10 tools.",
+  "source_repo": "0rkz/byte-mcp-server",
+  "source_url": "https://github.com/0rkz/byte-mcp-server",
+  "install": "npx -y byte-mcp-server"
+}

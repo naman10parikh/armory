@@ -1,0 +1,7 @@
+{
+  "name": "brief-md",
+  "description": "MCP server for managing BRIEF.md project context files across AI sessions.",
+  "source_repo": "brief-md/brief-mcp",
+  "source_url": "https://github.com/brief-md/brief-mcp",
+  "install": "npx -y brief-mcp"
+}

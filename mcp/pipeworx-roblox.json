@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-roblox",
+  "description": "Roblox public profile, friends, badges, games, and group lookups via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-roblox",
+  "source_url": "https://github.com/pipeworx-io/mcp-roblox",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-roblox\n# See source for mcpServers config block"
+}

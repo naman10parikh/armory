@@ -1,0 +1,7 @@
+{
+  "name": "code-flow",
+  "description": "Provides semantic code analysis and search capabilities for Python codebases through AST extraction, call graph generation, and vector embeddings, enabling rapid semantic search, architectural documentation generation, and efficient navigation of large Python projects.",
+  "source_repo": "mrorigo/code-flow-mcp",
+  "source_url": "https://github.com/mrorigo/code-flow-mcp",
+  "install": "npx -y code-flow-mcp"
+}

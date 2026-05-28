@@ -1,0 +1,7 @@
+{
+  "name": "buygit-mcp-server",
+  "description": "The only MCP that returns license + supply-chain risk + popularity + price in a single call. 78,094 curated Git assets. Zero config. MIT. Free forever.",
+  "source_repo": "genoxdeveloper/buygit-mcp-server",
+  "source_url": "https://github.com/genoxdeveloper/buygit-mcp-server",
+  "install": "npx -y buygit-mcp-server"
+}

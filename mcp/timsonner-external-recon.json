@@ -1,0 +1,7 @@
+{
+  "name": "timsonner-external-recon",
+  "description": "Provides network reconnaissance tools for penetration testers, enabling systematic domain enumeration, IP discovery, email security assessment, and port scanning for external security audits.",
+  "source_repo": "timsonner/mcp-vscode-template",
+  "source_url": "https://github.com/timsonner/mcp-vscode-template",
+  "install": "# git clone --depth 1 https://github.com/timsonner/mcp-vscode-template\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bsahane-proxmox",
+  "description": "Integrates with Proxmox VE API to provide complete virtualization management including VM and container lifecycle operations, cloud-init configuration, firewall management, snapshots, backups, and resource pool administration with safety features like confirmation prompts and dry-run modes.",
+  "source_repo": "bsahane/mcp-proxmox",
+  "source_url": "https://github.com/bsahane/mcp-proxmox",
+  "install": "# git clone --depth 1 https://github.com/bsahane/mcp-proxmox\n# See source for mcpServers config block"
+}

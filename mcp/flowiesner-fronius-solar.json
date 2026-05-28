@@ -1,0 +1,7 @@
+{
+  "name": "flowiesner-fronius-solar",
+  "description": "Real-time solar inverter data from Fronius devices via the local Solar API.",
+  "source_repo": "flowiesner/fronius-mcp",
+  "source_url": "https://github.com/flowiesner/fronius-mcp",
+  "install": "npx -y fronius-mcp"
+}

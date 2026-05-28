@@ -1,0 +1,7 @@
+{
+  "name": "redshift-mcp-server",
+  "description": "Enables connecting to Amazon Redshift and executing SQL queries with read-only safety checks.",
+  "source_repo": "amitds1997/redshift-mcp-server",
+  "source_url": "https://github.com/amitds1997/redshift-mcp-server",
+  "install": "npx -y redshift-mcp-server"
+}

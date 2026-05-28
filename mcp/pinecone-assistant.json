@@ -1,0 +1,7 @@
+{
+  "name": "pinecone-assistant",
+  "description": "Provide AI agents with contextual knowledge using Pinecone Assistant.",
+  "source_repo": "pinecone-io/assistant-mcp",
+  "source_url": "https://github.com/pinecone-io/assistant-mcp",
+  "install": "npx -y assistant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-tableau",
+  "description": "Integrates with Tableau for data visualization and analytics platform connectivity.",
+  "source_repo": "asklokesh/tableau-mcp-server",
+  "source_url": "https://github.com/asklokesh/tableau-mcp-server",
+  "install": "npx -y tableau-mcp-server"
+}

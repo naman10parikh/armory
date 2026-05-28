@@ -1,0 +1,7 @@
+{
+  "name": "connectsafely-linkedin",
+  "description": "LinkedIn lead generation platform providing AI-powered engagement automation, content amplification, and prospect tracking with MCP integration for programmatic access",
+  "source_repo": "",
+  "source_url": "https://connectsafely.ai/integrations/mcp-server",
+  "install": "# git clone --depth 1 https://connectsafely.ai/integrations/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-sentinel",
+  "description": "Query and analyze security data, incidents, and threat intelligence from Microsoft Sentinel's data lake using natural language.",
+  "source_repo": "microsoft/sentinel-data-exploration-mcp",
+  "source_url": "https://github.com/microsoft/sentinel-data-exploration-mcp",
+  "install": "npx -y sentinel-data-exploration-mcp"
+}

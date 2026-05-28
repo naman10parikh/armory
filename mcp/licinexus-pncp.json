@@ -1,0 +1,7 @@
+{
+  "name": "licinexus-pncp",
+  "description": "Brazilian public procurement MCP providing access to PNCP tenders, contracts, and CNPJ company data.",
+  "source_repo": "licinexus/licinexus-mcp",
+  "source_url": "https://github.com/licinexus/licinexus-mcp",
+  "install": "npx -y licinexus-mcp"
+}

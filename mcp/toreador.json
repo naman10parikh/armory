@@ -1,0 +1,7 @@
+{
+  "name": "toreador",
+  "description": "Generate crypto QR codes for BTC, ETH, SOL, USDC, USDT, and EURC and manage payment sessions.",
+  "source_repo": "logitale/toreador-mcp-server",
+  "source_url": "https://github.com/logitale/toreador-mcp-server",
+  "install": "npx -y toreador-mcp-server"
+}

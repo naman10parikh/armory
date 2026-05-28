@@ -1,0 +1,7 @@
+{
+  "name": "miaolink-rhths",
+  "description": "AI trading gateway MCP server for Tonghua Shun PC clients, providing account queries, order management, and market data access.",
+  "source_repo": "miaolink/ths_mcp_quant",
+  "source_url": "https://github.com/miaolink/ths_mcp_quant",
+  "install": "# git clone --depth 1 https://github.com/miaolink/ths_mcp_quant\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dex865378-godot-tools",
+  "description": "Provides 63+ tools for controlling the Godot 4.6+ game engine with node manipulation, scene editing, and debugging.",
+  "source_repo": "dex865378/dex865378-mcp-godot-63-herramientas",
+  "source_url": "https://github.com/dex865378/dex865378-mcp-godot-63-herramientas",
+  "install": "# git clone --depth 1 https://github.com/dex865378/dex865378-mcp-godot-63-herramientas\n# See source for mcpServers config block"
+}

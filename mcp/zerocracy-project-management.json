@@ -1,0 +1,7 @@
+{
+  "name": "zerocracy-project-management",
+  "description": "Provides a bridge between Zerocracy's project management platform and development teams, offering actionable recommendations to improve productivity and focus through AI-assisted insights.",
+  "source_repo": "zerocracy/zerocracy-mcp-server",
+  "source_url": "https://github.com/zerocracy/zerocracy-mcp-server",
+  "install": "npx -y zerocracy-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trainual-tiptap-collaboration",
+  "description": "Integrates with Tiptap Collaboration services to manage collaborative documents through CRUD operations, real-time statistics monitoring, content conversion, semantic search, and batch import operations with Base64 encryption and bidirectional Markdown conversion.",
+  "source_repo": "trainual/tiptap-collaboration-mcp",
+  "source_url": "https://github.com/trainual/tiptap-collaboration-mcp",
+  "install": "npx -y tiptap-collaboration-mcp"
+}

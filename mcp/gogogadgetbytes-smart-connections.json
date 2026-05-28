@@ -1,0 +1,7 @@
+{
+  "name": "gogogadgetbytes-smart-connections",
+  "description": "Semantic search using your Obsidian vault's embeddings.",
+  "source_repo": "gogogadgetbytes/smart-connections-mcp",
+  "source_url": "https://github.com/gogogadgetbytes/smart-connections-mcp",
+  "install": "npx -y smart-connections-mcp"
+}

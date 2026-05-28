@@ -1,0 +1,7 @@
+{
+  "name": "clearpolicy",
+  "description": "Query and manage insurance policies, claims, and coverage details through natural language.",
+  "source_repo": "",
+  "source_url": "https://api.clearpolicy.app/mcp",
+  "install": "# git clone --depth 1 https://api.clearpolicy.app/mcp\n# See source for mcpServers config block"
+}

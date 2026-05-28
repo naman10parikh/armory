@@ -1,0 +1,7 @@
+{
+  "name": "fantasy-pl-mcp",
+  "description": "Fantasy Pl Mcp MCP server listed on mcp.so.",
+  "source_repo": "rishijatia/fantasy-pl-mcp",
+  "source_url": "https://mcp.so/server/fantasy-pl-mcp/rishijatia",
+  "install": "npx -y fantasy-pl-mcp"
+}

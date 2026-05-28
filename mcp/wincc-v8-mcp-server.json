@@ -1,0 +1,7 @@
+{
+  "name": "wincc-v8-mcp-server",
+  "description": "MCP server providing access to Siemens WinCC V8 SCADA systems via REST API, enabling tag management, alarm logging, and archive operations.",
+  "source_repo": "vogler75/winccv8-mcp-server",
+  "source_url": "https://github.com/vogler75/winccv8-mcp-server",
+  "install": "npx -y winccv8-mcp-server"
+}

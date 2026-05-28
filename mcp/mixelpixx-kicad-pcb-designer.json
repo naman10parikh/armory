@@ -1,0 +1,7 @@
+{
+  "name": "mixelpixx-kicad-pcb-designer",
+  "description": "Enables LLMs to directly interact with KiCAD for printed circuit board design.",
+  "source_repo": "mixelpixx/kicad-mcp-server",
+  "source_url": "https://github.com/mixelpixx/kicad-mcp-server",
+  "install": "npx -y kicad-mcp-server"
+}

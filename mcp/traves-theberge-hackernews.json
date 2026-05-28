@@ -1,0 +1,7 @@
+{
+  "name": "traves-theberge-hackernews",
+  "description": "Integrates with HackerNews through the Firebase API to search stories, analyze user profiles, track trending topics, and examine comment discussions with intelligent caching and metadata enhancement.",
+  "source_repo": "traves-theberge/hackernews-mcp-typescript",
+  "source_url": "https://github.com/traves-theberge/hackernews-mcp-typescript",
+  "install": "# git clone --depth 1 https://github.com/traves-theberge/hackernews-mcp-typescript\n# See source for mcpServers config block"
+}

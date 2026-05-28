@@ -1,0 +1,7 @@
+{
+  "name": "putput",
+  "description": "File uploads for AI agents with CDN delivery and no signup required.",
+  "source_repo": "putput-io/mcp",
+  "source_url": "https://github.com/putput-io/mcp",
+  "install": "# git clone --depth 1 https://github.com/putput-io/mcp\n# See source for mcpServers config block"
+}

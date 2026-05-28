@@ -1,0 +1,7 @@
+{
+  "name": "zero",
+  "description": "Read-only MCP inspection for ZERO's autonomous paper trading operations on Base mainnet.",
+  "source_repo": "zero-intel/zero",
+  "source_url": "https://github.com/zero-intel/zero",
+  "install": "# git clone --depth 1 https://github.com/zero-intel/zero\n# See source for mcpServers config block"
+}

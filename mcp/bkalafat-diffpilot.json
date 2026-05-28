@@ -1,0 +1,7 @@
+{
+  "name": "bkalafat-diffpilot",
+  "description": "Provides Git workflow tools for code review including diff analysis, PR generation, commit messages, and secret scanning",
+  "source_repo": "bkalafat/diffpilot-ts",
+  "source_url": "https://github.com/bkalafat/diffpilot-ts",
+  "install": "# git clone --depth 1 https://github.com/bkalafat/diffpilot-ts\n# See source for mcpServers config block"
+}

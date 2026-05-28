@@ -1,0 +1,7 @@
+{
+  "name": "praisesinkamba-azure-devops-cli",
+  "description": "Exposes 13 Azure DevOps tools for managing work items, pull requests, and repositories.",
+  "source_repo": "praisesinkamba/az-devops-cli-mcp",
+  "source_url": "https://github.com/praisesinkamba/az-devops-cli-mcp",
+  "install": "npx -y az-devops-cli-mcp"
+}

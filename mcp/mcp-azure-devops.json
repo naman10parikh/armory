@@ -1,0 +1,7 @@
+{
+  "name": "mcp-azure-devops",
+  "description": "Mcp Azure Devops MCP server listed on mcp.so.",
+  "source_repo": "Vortiago/mcp-azure-devops",
+  "source_url": "https://mcp.so/server/mcp-azure-devops/Vortiago",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-azure-devops/Vortiago\n# See source for mcpServers config block"
+}

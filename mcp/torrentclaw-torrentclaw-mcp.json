@@ -1,0 +1,7 @@
+{
+  "name": "torrentclaw-torrentclaw-mcp",
+  "description": "Search and discover movies and TV shows with torrent links, quality scoring, streaming availability, and cast/crew metadata.",
+  "source_repo": "torrentclaw/torrentclaw-mcp",
+  "source_url": "https://github.com/torrentclaw/torrentclaw-mcp",
+  "install": "npx -y torrentclaw-mcp"
+}

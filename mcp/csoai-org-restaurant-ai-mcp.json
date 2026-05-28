@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-restaurant-ai-mcp",
+  "description": "Python MCP server for restaurant management and food service tools.",
+  "source_repo": "csoai-org/restaurant-ai-mcp",
+  "source_url": "https://github.com/csoai-org/restaurant-ai-mcp",
+  "install": "npx -y restaurant-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "doomdagadiggiedahdah-iacr-cryptology-eprint-archive",
+  "description": "Bridges AI models with the IACR Cryptology ePrint Archive, enabling efficient extraction and analysis of cryptographic research papers.",
+  "source_repo": "doomdagadiggiedahdah/iacr-mcp-server",
+  "source_url": "https://github.com/doomdagadiggiedahdah/iacr-mcp-server",
+  "install": "npx -y iacr-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "beltran12138-wecom-docs-mcp-server",
+  "description": "WeCom (Enterprise WeChat) document operations via MCP: create, read, and edit Docs and Smartsheets (9 tools). Fills the doc-CRUD gap — existing WeCom MCP servers only support webhook messaging.",
+  "source_repo": "Beltran12138/wecom-docs-mcp-server",
+  "source_url": "https://github.com/Beltran12138/wecom-docs-mcp-server",
+  "install": "npx -y wecom-docs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vessel-api-vesselapi",
+  "description": "Maritime vessel tracking with port events, emissions data, and navigation information.",
+  "source_repo": "vessel-api/vesselapi-mcp",
+  "source_url": "https://github.com/vessel-api/vesselapi-mcp",
+  "install": "npx -y vesselapi-mcp"
+}

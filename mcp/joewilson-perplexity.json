@@ -1,0 +1,7 @@
+{
+  "name": "joewilson-perplexity",
+  "description": "Integrates Perplexity AI to provide intelligent coding assistance for tasks like code analysis, generation, and problem-solving across various programming languages.",
+  "source_repo": "joewilsonai/mcp-perplexity-server",
+  "source_url": "https://github.com/joewilsonai/mcp-perplexity-server",
+  "install": "# git clone --depth 1 https://github.com/joewilsonai/mcp-perplexity-server\n# See source for mcpServers config block"
+}

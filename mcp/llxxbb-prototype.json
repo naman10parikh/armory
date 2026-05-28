@@ -1,0 +1,7 @@
+{
+  "name": "llxxbb-prototype",
+  "description": "Provides web prototype development tools through a dual-mode architecture combining SvelteKit web interface and command-line tools, enabling rapid HTML mockup creation, JavaScript injection, and interactive prototype serving with tree-based file navigation and automatic base href management.",
+  "source_repo": "llxxbb/mcp-prototype",
+  "source_url": "https://github.com/llxxbb/mcp-prototype",
+  "install": "# git clone --depth 1 https://github.com/llxxbb/mcp-prototype\n# See source for mcpServers config block"
+}

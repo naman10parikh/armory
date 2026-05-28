@@ -1,0 +1,7 @@
+{
+  "name": "gh-wizarck-paperclip",
+  "description": "Manage Paperclip AI agent orchestration platform resources — issues, agents, goals, approvals, and costs — through natural language.",
+  "source_repo": "wizarck/paperclip-mcp",
+  "source_url": "https://github.com/wizarck/paperclip-mcp",
+  "install": "npx -y paperclip-mcp"
+}

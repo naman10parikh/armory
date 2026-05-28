@@ -1,0 +1,7 @@
+{
+  "name": "mcp-msgraph",
+  "description": "Mcp Msgraph MCP server listed on mcp.so.",
+  "source_repo": "kevinbellinger/mcp-msgraph",
+  "source_url": "https://mcp.so/server/mcp-msgraph/kevinbellinger",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-msgraph/kevinbellinger\n# See source for mcpServers config block"
+}

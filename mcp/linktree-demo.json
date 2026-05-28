@@ -1,0 +1,7 @@
+{
+  "name": "linktree-demo",
+  "description": "Linktree Demo MCP server listed on mcp.so.",
+  "source_repo": "bulentongun/linktree-demo",
+  "source_url": "https://mcp.so/server/linktree-demo/bulentongun",
+  "install": "# git clone --depth 1 https://mcp.so/server/linktree-demo/bulentongun\n# See source for mcpServers config block"
+}

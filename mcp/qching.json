@@ -1,0 +1,7 @@
+{
+  "name": "qching",
+  "description": "Generates true quantum randomness powered IChing hexagrams with LLM interpretation",
+  "source_repo": "",
+  "source_url": "https://qching.ai",
+  "install": "# git clone --depth 1 https://qching.ai\n# See source for mcpServers config block"
+}

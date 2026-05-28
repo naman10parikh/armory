@@ -1,0 +1,7 @@
+{
+  "name": "stayker-1stay",
+  "description": "Search and book hotels across 100k+ properties with real reservation capabilities.",
+  "source_repo": "stayker-com/1stay-mcp",
+  "source_url": "https://github.com/stayker-com/1stay-mcp",
+  "install": "npx -y 1stay-mcp"
+}

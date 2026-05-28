@@ -1,0 +1,7 @@
+{
+  "name": "gzsakura1337-recaf",
+  "description": "MCP server bridging AI agents to Recaf 4 for JVM bytecode analysis and reverse engineering.",
+  "source_repo": "gzsakura1337/recaf_mcp",
+  "source_url": "https://github.com/gzsakura1337/recaf_mcp",
+  "install": "npx -y recaf_mcp"
+}

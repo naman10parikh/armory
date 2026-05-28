@@ -1,0 +1,7 @@
+{
+  "name": "nateweav-reclass-net",
+  "description": "Bridges ReClass.NET memory analysis tool with MCP clients through a dual-component architecture for reverse engineering workflows and game memory structure analysis.",
+  "source_repo": "nateweav/reclass.net-mcp",
+  "source_url": "https://github.com/nateweav/reclass.net-mcp",
+  "install": "npx -y reclass.net-mcp"
+}

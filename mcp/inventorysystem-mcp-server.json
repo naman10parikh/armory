@@ -1,0 +1,7 @@
+{
+  "name": "inventorysystem-mcp-server",
+  "description": "A Python MCP server that connects to an Inventory Management System, providing 15 tools for CRUD operations on users, inventory items, and bills.",
+  "source_repo": "AllanSJoseph/InventorySystem_MCP_Server",
+  "source_url": "https://github.com/AllanSJoseph/InventorySystem_MCP_Server",
+  "install": "npx -y InventorySystem_MCP_Server"
+}

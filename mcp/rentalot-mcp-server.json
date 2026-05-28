@@ -1,0 +1,7 @@
+{
+  "name": "rentalot-mcp-server",
+  "description": "MCP server for the Rentalot API. Manage rental properties, contacts, showings, conversations, and more from any AI assistant.",
+  "source_repo": "Rentalot-ai/rentalot-mcp",
+  "source_url": "https://github.com/Rentalot-ai/rentalot-mcp",
+  "install": "npx -y rentalot-mcp"
+}

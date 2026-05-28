@@ -1,0 +1,7 @@
+{
+  "name": "braingrid-mcp",
+  "description": "[BrainGrid](https://braingrid.ai) MCP is the Product Management Agent that writes your specs, plans your features, and creates engineering-grade tasks your coding tools can build reliably.",
+  "source_repo": "",
+  "source_url": "https://docs.braingrid.ai/mcp-server/installation",
+  "install": "# git clone --depth 1 https://docs.braingrid.ai/mcp-server/installation\n# See source for mcpServers config block"
+}

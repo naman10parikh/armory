@@ -1,0 +1,7 @@
+{
+  "name": "shadowrootdev-awesome-agent-skills",
+  "description": "Curated collection of AI agent skills from leading organizations",
+  "source_repo": "shadowrootdev/awesome-agent-skills-mcp",
+  "source_url": "https://github.com/shadowrootdev/awesome-agent-skills-mcp",
+  "install": "npx -y awesome-agent-skills-mcp"
+}

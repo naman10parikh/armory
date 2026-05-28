@@ -1,0 +1,7 @@
+{
+  "name": "gerred-minecraft-bot-control",
+  "description": "Integrates Mineflayer to enable AI control of Minecraft bots for navigation, block manipulation, inventory management, and real-time game state monitoring.",
+  "source_repo": "gerred/mcpmc",
+  "source_url": "https://github.com/gerred/mcpmc",
+  "install": "# git clone --depth 1 https://github.com/gerred/mcpmc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sergey-fintech-file-finder",
+  "description": "Provides efficient file search and retrieval capabilities within a networked environment using TypeScript and Node.js, offering both standard and HTTP-based execution modes.",
+  "source_repo": "sergey-fintech/mcp",
+  "source_url": "https://github.com/sergey-fintech/mcp",
+  "install": "# git clone --depth 1 https://github.com/sergey-fintech/mcp\n# See source for mcpServers config block"
+}

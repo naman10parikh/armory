@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-local-files",
+  "description": "Mcp_server_local_files MCP server listed on mcp.so.",
+  "source_repo": "psahdev32/mcp_server_local_files",
+  "source_url": "https://mcp.so/server/mcp_server_local_files/psahdev32",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_local_files/psahdev32\n# See source for mcpServers config block"
+}

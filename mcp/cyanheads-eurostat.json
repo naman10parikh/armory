@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-eurostat",
+  "description": "Search and query Eurostat datasets covering EU economy, demography, trade, and NUTS regional statistics.",
+  "source_repo": "cyanheads/eurostat-mcp-server",
+  "source_url": "https://github.com/cyanheads/eurostat-mcp-server",
+  "install": "npx -y eurostat-mcp-server"
+}

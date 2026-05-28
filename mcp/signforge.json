@@ -1,0 +1,7 @@
+{
+  "name": "signforge",
+  "description": "Send documents for e-signature from AI agents using the SignForge platform — upload, send envelopes, check status, and download signed PDFs.",
+  "source_repo": "kumarprobeops/signforge-mcp",
+  "source_url": "https://github.com/kumarprobeops/signforge-mcp",
+  "install": "npx -y signforge-mcp"
+}

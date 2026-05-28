@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-canvas-parent",
+  "description": "Accesses Canvas LMS data for courses, grades, assignments, planner, and files via Claude.",
+  "source_repo": "chrischall/canvas-parent-mcp",
+  "source_url": "https://github.com/chrischall/canvas-parent-mcp",
+  "install": "npx -y canvas-parent-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "johannesgerer-backstage-tech-insights",
+  "description": "Exposes Backstage Tech Insights scorecards and checks as queryable tools for software catalog health monitoring.",
+  "source_repo": "johannesgerer/backstage-plugin-tech-insights-mcp",
+  "source_url": "https://github.com/johannesgerer/backstage-plugin-tech-insights-mcp",
+  "install": "npx -y backstage-plugin-tech-insights-mcp"
+}

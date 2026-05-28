@@ -1,0 +1,7 @@
+{
+  "name": "arrteann-singbox",
+  "description": "RAG-based MCP server for querying sing-box proxy software documentation using semantic search to prevent AI hallucinations.",
+  "source_repo": "arrteann/singbox-mcp",
+  "source_url": "https://github.com/arrteann/singbox-mcp",
+  "install": "npx -y singbox-mcp"
+}

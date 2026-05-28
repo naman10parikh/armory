@@ -1,0 +1,7 @@
+{
+  "name": "hainanzhao-gitlab-jira",
+  "description": "Integrates GitLab and Jira APIs to enable merge request reviews, pipeline management, issue tracking, and ticket operations with unified search capabilities and intelligent fuzzy matching for cross-platform project coordination.",
+  "source_repo": "hainanzhao/mcp-gitlab-jira",
+  "source_url": "https://github.com/hainanzhao/mcp-gitlab-jira",
+  "install": "# git clone --depth 1 https://github.com/hainanzhao/mcp-gitlab-jira\n# See source for mcpServers config block"
+}

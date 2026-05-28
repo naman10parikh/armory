@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-bsc-multisend",
+  "description": "Enables batch distribution of BNB and ERC20 tokens to multiple recipients on Binance Smart Chain in single transactions with automatic gas estimation, token approval handling, and address validation for airdrops, payments, and reward distributions.",
+  "source_repo": "kukapay/bsc-multisend-mcp",
+  "source_url": "https://github.com/kukapay/bsc-multisend-mcp",
+  "install": "npx -y bsc-multisend-mcp"
+}

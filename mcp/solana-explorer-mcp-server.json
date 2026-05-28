@@ -1,0 +1,7 @@
+{
+  "name": "solana-explorer-mcp-server",
+  "description": "Solana Explorer MCP Server MCP server listed on mcp.so.",
+  "source_repo": "8bitsats/Solana-Explorer-MCP-Server",
+  "source_url": "https://mcp.so/server/Solana-Explorer-MCP-Server/8bitsats",
+  "install": "npx -y Solana-Explorer-MCP-Server"
+}

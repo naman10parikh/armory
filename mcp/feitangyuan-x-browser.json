@@ -1,0 +1,7 @@
+{
+  "name": "feitangyuan-x-browser",
+  "description": "Access X (Twitter) via a local browser session to read timelines and search discussions without API credentials.",
+  "source_repo": "feitangyuan/x-browser-mcp",
+  "source_url": "https://github.com/feitangyuan/x-browser-mcp",
+  "install": "npx -y x-browser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-tmdb",
+  "description": "TMDB movie and TV database: search movies, TV shows, people, trending content, genres, and credits.",
+  "source_repo": "pipeworx-io/mcp-tmdb",
+  "source_url": "https://github.com/pipeworx-io/mcp-tmdb",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-tmdb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mediabox-mcp",
+  "description": "Self-hosted media server with AI-powered management via MCP, providing tools for Jellyfin, Sonarr, Radarr, and download management.",
+  "source_repo": "JuanCMPDev/mediabox-mcp",
+  "source_url": "https://github.com/JuanCMPDev/mediabox-mcp",
+  "install": "npx -y mediabox-mcp"
+}

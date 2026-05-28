@@ -1,0 +1,7 @@
+{
+  "name": "alvinunreal-juice",
+  "description": "MCP memory layer for storing scoped preference and correction notes for AI agents.",
+  "source_repo": "alvinunreal/juice",
+  "source_url": "https://github.com/alvinunreal/juice",
+  "install": "# git clone --depth 1 https://github.com/alvinunreal/juice\n# See source for mcpServers config block"
+}

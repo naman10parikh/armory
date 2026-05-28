@@ -1,0 +1,7 @@
+{
+  "name": "isaacwasserman-vega-lite-data-visualization",
+  "description": "Create data visualizations using Vega-Lite syntax by saving data tables and generating charts.",
+  "source_repo": "isaacwasserman/mcp-vegalite-server",
+  "source_url": "https://github.com/isaacwasserman/mcp-vegalite-server",
+  "install": "# git clone --depth 1 https://github.com/isaacwasserman/mcp-vegalite-server\n# See source for mcpServers config block"
+}

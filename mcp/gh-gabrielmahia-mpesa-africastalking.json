@@ -1,0 +1,7 @@
+{
+  "name": "gh-gabrielmahia-mpesa-africastalking",
+  "description": "East African fintech APIs for M-Pesa payments and Africa's Talking SMS/airtime.",
+  "source_repo": "gabrielmahia/mpesa-mcp",
+  "source_url": "https://github.com/gabrielmahia/mpesa-mcp",
+  "install": "npx -y mpesa-mcp"
+}

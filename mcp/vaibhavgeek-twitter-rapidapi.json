@@ -1,0 +1,7 @@
+{
+  "name": "vaibhavgeek-twitter-rapidapi",
+  "description": "Fetches tweets from multiple Twitter profiles using the Twitter API through RapidAPI, enabling direct access to timeline data for social media analysis workflows.",
+  "source_repo": "vaibhavgeek/twitter-rapidapi-mcp-x",
+  "source_url": "https://github.com/vaibhavgeek/twitter-rapidapi-mcp-x",
+  "install": "# git clone --depth 1 https://github.com/vaibhavgeek/twitter-rapidapi-mcp-x\n# See source for mcpServers config block"
+}

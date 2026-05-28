@@ -1,0 +1,7 @@
+{
+  "name": "satsuj1n-xp",
+  "description": "Analyzes XP Investimentos investment portfolios by parsing PDF and CSV exports into a local SQLite database.",
+  "source_repo": "satsuj1n/portfolio-mcp",
+  "source_url": "https://github.com/satsuj1n/portfolio-mcp",
+  "install": "npx -y portfolio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adopteunconteneur",
+  "description": "MCP server for calculating real-time container delivery costs across France and retrieving maritime container specifications.",
+  "source_repo": "adopteunconteneur/mcp-container-delivery",
+  "source_url": "https://github.com/adopteunconteneur/mcp-container-delivery",
+  "install": "# git clone --depth 1 https://github.com/adopteunconteneur/mcp-container-delivery\n# See source for mcpServers config block"
+}

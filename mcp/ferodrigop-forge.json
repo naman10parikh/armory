@@ -1,0 +1,7 @@
+{
+  "name": "ferodrigop-forge",
+  "description": "Terminal MCP server for AI coding agents with persistent PTY sessions, ring-buffer incremental reads, headless xterm screen capture, multi-agent orchestration, and a real-time web dashboard.",
+  "source_repo": "ferodrigop/forge",
+  "source_url": "https://github.com/ferodrigop/forge",
+  "install": "# git clone --depth 1 https://github.com/ferodrigop/forge\n# See source for mcpServers config block"
+}

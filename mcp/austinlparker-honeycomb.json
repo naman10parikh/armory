@@ -1,0 +1,7 @@
+{
+  "name": "austinlparker-honeycomb",
+  "description": "Integrates with the Honeycomb API to enable direct querying and analysis of observability data for automated performance monitoring and troubleshooting.",
+  "source_repo": "honeycombio/honeycomb-mcp",
+  "source_url": "https://github.com/honeycombio/honeycomb-mcp",
+  "install": "npx -y honeycomb-mcp"
+}

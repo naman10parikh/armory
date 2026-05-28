@@ -1,0 +1,7 @@
+{
+  "name": "jira-mcp-server-2",
+  "description": "A production-ready MCP server for JIRA integration that enables AI assistants to query JIRA issues and perform searches using natural language through JQL.",
+  "source_repo": "Rajendar-Muddasani-2/jira-mcp-server",
+  "source_url": "https://github.com/Rajendar-Muddasani-2/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "beatandraise-sec-filings",
+  "description": "Provides direct access to SEC filings database since 1995, enabling natural language queries, financial analysis, and structured data extraction from millions of documents for investment research and compliance monitoring.",
+  "source_repo": "",
+  "source_url": "https://beatandraise.com/mcp",
+  "install": "# git clone --depth 1 https://beatandraise.com/mcp\n# See source for mcpServers config block"
+}

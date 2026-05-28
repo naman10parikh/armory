@@ -1,0 +1,7 @@
+{
+  "name": "controlspace-voyp-call-automation",
+  "description": "Integrates with VOYP API to enable automated call handling, routing, and intelligent voice responses for enhanced call center operations.",
+  "source_repo": "paulotaylor/voyp-mcp",
+  "source_url": "https://github.com/paulotaylor/voyp-mcp",
+  "install": "npx -y voyp-mcp"
+}

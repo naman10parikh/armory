@@ -1,0 +1,7 @@
+{
+  "name": "framegrab-mcp-server",
+  "description": "An MCP server for capturing images from cameras and video streams via the framegrab library, providing tools to create framegrabbers and grab frames.",
+  "source_repo": "groundlight/framegrab-mcp-server",
+  "source_url": "https://github.com/groundlight/framegrab-mcp-server",
+  "install": "npx -y framegrab-mcp-server"
+}

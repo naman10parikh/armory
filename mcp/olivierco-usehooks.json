@@ -1,0 +1,7 @@
+{
+  "name": "olivierco-usehooks",
+  "description": "Provides access to React hooks from the usehooks.io repository with tools for browsing, searching, and retrieving detailed hook implementations including TypeScript code and usage examples.",
+  "source_repo": "small-lab-io/usehooks.io",
+  "source_url": "https://github.com/small-lab-io/usehooks.io/tree/HEAD/packages/usehooks-mcp",
+  "install": "# git clone --depth 1 https://github.com/small-lab-io/usehooks.io/tree/HEAD/packages/usehooks-mcp\n# See source for mcpServers config block"
+}

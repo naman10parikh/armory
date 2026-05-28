@@ -1,0 +1,7 @@
+{
+  "name": "ali1041-leadloadz",
+  "description": "MCP server connecting AI assistants to the Leadloadz B2B lead generation platform for searching verified contacts and validating emails.",
+  "source_repo": "ali1041/leadloadz-mcp-server",
+  "source_url": "https://github.com/ali1041/leadloadz-mcp-server",
+  "install": "npx -y leadloadz-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rails-template",
+  "description": "Mcp_rails_template MCP server listed on mcp.so.",
+  "source_repo": "seuros/mcp_rails_template",
+  "source_url": "https://mcp.so/server/mcp_rails_template/seuros",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_rails_template/seuros\n# See source for mcpServers config block"
+}

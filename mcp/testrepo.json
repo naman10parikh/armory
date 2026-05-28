@@ -1,0 +1,7 @@
+{
+  "name": "testrepo",
+  "description": "TestRepo MCP server listed on mcp.so.",
+  "source_repo": "myzhibie/testRepo",
+  "source_url": "https://mcp.so/server/testRepo/myzhibie",
+  "install": "# git clone --depth 1 https://mcp.so/server/testRepo/myzhibie\n# See source for mcpServers config block"
+}

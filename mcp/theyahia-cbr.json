@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-cbr",
+  "description": "Currency exchange rates, key rate, precious metals pricing, and conversion from the Central Bank of Russia.",
+  "source_repo": "theyahia/cbr-mcp",
+  "source_url": "https://github.com/theyahia/cbr-mcp",
+  "install": "npx -y cbr-mcp"
+}

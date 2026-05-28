@@ -1,0 +1,7 @@
+{
+  "name": "rxtech-lab-hk-transportation",
+  "description": "Provides real-time Hong Kong bus arrival information, nearby stop discovery, and route planning via KMB and Citybus APIs.",
+  "source_repo": "rxtech-lab/hk-transportation-mcp",
+  "source_url": "https://github.com/rxtech-lab/hk-transportation-mcp",
+  "install": "npx -y hk-transportation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lee-s-dev-youtube-research",
+  "description": "Provides AI assistants with access to YouTube video transcripts, comments, channel analysis, and search with local caching to minimize API quota usage.",
+  "source_repo": "lee-s-dev/youtube-research-mcp",
+  "source_url": "https://github.com/lee-s-dev/youtube-research-mcp",
+  "install": "npx -y youtube-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grizzlypeaksoftware-memory-storage",
+  "description": "Provides persistent text memory storage with tagging capabilities for storing, retrieving, searching, and managing information across conversations using a local JSON file.",
+  "source_repo": "grizzlypeaksoftware/mcp-memory-server",
+  "source_url": "https://github.com/grizzlypeaksoftware/mcp-memory-server",
+  "install": "# git clone --depth 1 https://github.com/grizzlypeaksoftware/mcp-memory-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyberdione-tcl-udf",
+  "description": "Provides a complete TCL scripting environment with dynamic tool management, enabling creation and execution of custom automation tools with parameter validation, namespace organization, and file-based persistence for text processing and system integration workflows.",
+  "source_repo": "cyberdione/mcp-tcl-udf-server",
+  "source_url": "https://github.com/cyberdione/mcp-tcl-udf-server",
+  "install": "# git clone --depth 1 https://github.com/cyberdione/mcp-tcl-udf-server\n# See source for mcpServers config block"
+}

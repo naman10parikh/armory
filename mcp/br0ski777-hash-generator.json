@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-hash-generator",
+  "description": "Generates cryptographic hashes using MD5, SHA-1, SHA-256, SHA-512, and bcrypt algorithms.",
+  "source_repo": "br0ski777/hash-generator-x402",
+  "source_url": "https://github.com/br0ski777/hash-generator-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/hash-generator-x402\n# See source for mcpServers config block"
+}

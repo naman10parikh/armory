@@ -1,0 +1,7 @@
+{
+  "name": "davidemanueldev-percept",
+  "description": "Visual perception toolkit for AI agents with image analysis and object detection.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/davidemanueldev-percept",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/davidemanueldev-percept\n# See source for mcpServers config block"
+}

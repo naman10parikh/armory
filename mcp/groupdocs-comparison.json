@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-comparison",
+  "description": "Compares documents and inspects source metadata using GroupDocs.Comparison via AI agents.",
+  "source_repo": "groupdocs-comparison/groupdocs.comparison.mcp",
+  "source_url": "https://github.com/groupdocs-comparison/groupdocs.comparison.mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-comparison/groupdocs.comparison.mcp\n# See source for mcpServers config block"
+}

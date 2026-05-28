@@ -1,0 +1,7 @@
+{
+  "name": "nall-hangfire-mcp",
+  "description": "Remote MCP server for Hangfire that exposes background jobs as dynamic MCP tools, allowing clients like VS Code to inspect, trigger, and manage jobs in-process.",
+  "source_repo": "NikiforovAll/hangfire-mcp-dotnet",
+  "source_url": "https://github.com/NikiforovAll/hangfire-mcp-dotnet",
+  "install": "# git clone --depth 1 https://github.com/NikiforovAll/hangfire-mcp-dotnet\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rekl0w-openapi-discovery",
+  "description": "MCP server for discovering, cataloging, and executing against REST APIs via OpenAPI/Swagger specifications.",
+  "source_repo": "rekl0w/mcp-openapi-discovery",
+  "source_url": "https://github.com/rekl0w/mcp-openapi-discovery",
+  "install": "# git clone --depth 1 https://github.com/rekl0w/mcp-openapi-discovery\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "octoco-sheetsdata",
+  "description": "Provides structured electronic component datasheet data including specs, pinouts, and package information.",
+  "source_repo": "octoco-ltd/sheetsdata-mcp",
+  "source_url": "https://github.com/octoco-ltd/sheetsdata-mcp",
+  "install": "npx -y sheetsdata-mcp"
+}

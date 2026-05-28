@@ -1,0 +1,7 @@
+{
+  "name": "godot-engine-integration",
+  "description": "Comprehensive Godot 4.x integration with live editor manipulation, E2E game testing, auto-screenshot loops, and version-aware documentation queries.",
+  "source_repo": "6ninelives/godot-mcp",
+  "source_url": "https://github.com/6ninelives/godot-mcp",
+  "install": "npx -y godot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "emenowicz-hybris",
+  "description": "Integrates with SAP Commerce Cloud (Hybris) for product catalog management, order processing, FlexibleSearch queries, Groovy script execution, ImpEx operations, cron job management, cache operations, and catalog synchronization.",
+  "source_repo": "emenowicz/hybris-mcp",
+  "source_url": "https://github.com/emenowicz/hybris-mcp",
+  "install": "npx -y hybris-mcp"
+}

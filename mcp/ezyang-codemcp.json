@@ -1,0 +1,7 @@
+{
+  "name": "ezyang-codemcp",
+  "description": "Coding agent with basic read, write and command line tools.",
+  "source_repo": "ezyang/codemcp",
+  "source_url": "https://github.com/ezyang/codemcp",
+  "install": "# git clone --depth 1 https://github.com/ezyang/codemcp\n# See source for mcpServers config block"
+}

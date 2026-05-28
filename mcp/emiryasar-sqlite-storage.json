@@ -1,0 +1,7 @@
+{
+  "name": "emiryasar-sqlite-storage",
+  "description": "Provides a lightweight SQLite-based storage solution, supporting basic CRUD operations for small to medium-scale projects.",
+  "source_repo": "emiryasar/mcp_code_analyzer",
+  "source_url": "https://github.com/emiryasar/mcp_code_analyzer",
+  "install": "# git clone --depth 1 https://github.com/emiryasar/mcp_code_analyzer\n# See source for mcpServers config block"
+}

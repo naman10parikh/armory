@@ -1,0 +1,7 @@
+{
+  "name": "claudit",
+  "description": "Enables searching over 20,000+ smart contract audit findings from Solodit, with filters for severity, firm, tags, and more. Designed for use with AI coding agents like Claude Code and Codex CLI.",
+  "source_repo": "marchev/claudit",
+  "source_url": "https://github.com/marchev/claudit",
+  "install": "# git clone --depth 1 https://github.com/marchev/claudit\n# See source for mcpServers config block"
+}

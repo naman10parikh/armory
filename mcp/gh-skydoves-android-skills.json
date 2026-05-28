@@ -1,0 +1,7 @@
+{
+  "name": "gh-skydoves-android-skills",
+  "description": "Wraps Google's android/skills library to expose Android development guidance as searchable tools for AI coding assistants.",
+  "source_repo": "skydoves/android-skills-mcp",
+  "source_url": "https://github.com/skydoves/android-skills-mcp",
+  "install": "npx -y android-skills-mcp"
+}

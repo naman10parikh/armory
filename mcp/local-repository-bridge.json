@@ -1,0 +1,7 @@
+{
+  "name": "local-repository-bridge",
+  "description": "Provides a bridge between Claude and local repositories, enabling direct code analysis, bug fixes, and feature development through specialized tools for generating prompts, executing terminal commands, and locating repositories by keyword.",
+  "source_repo": "princefishthrower/mcp-server",
+  "source_url": "https://github.com/princefishthrower/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/princefishthrower/mcp-server\n# See source for mcpServers config block"
+}

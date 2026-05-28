@@ -1,0 +1,7 @@
+{
+  "name": "chapzin-codex-harness",
+  "description": "Creates a structured control plane for Codex CLI managing execution contracts, persistent project knowledge, verification records, and evaluation frameworks.",
+  "source_repo": "chapzin/codex-harness-mcp",
+  "source_url": "https://github.com/chapzin/codex-harness-mcp",
+  "install": "npx -y codex-harness-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-chaelynet-chainmemory",
+  "description": "Provides blockchain-based persistent memory storage for AI agents on the AICHAIN network.",
+  "source_repo": "chaelynet/chainmemory-mcp",
+  "source_url": "https://github.com/chaelynet/chainmemory-mcp",
+  "install": "npx -y chainmemory-mcp"
+}

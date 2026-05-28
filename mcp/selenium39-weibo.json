@@ -1,0 +1,7 @@
+{
+  "name": "selenium39-weibo",
+  "description": "Enables scraping of Weibo user information, feeds, and search functionality with tools for user discovery, profile retrieval, and feed access",
+  "source_repo": "selenium39/mcp-server-weibo",
+  "source_url": "https://github.com/selenium39/mcp-server-weibo",
+  "install": "# git clone --depth 1 https://github.com/selenium39/mcp-server-weibo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-backup",
+  "description": "Snapshot and backup system for the A2A network, storing content-addressed blobs up to 10 MB with SHA-256 verification.",
+  "source_repo": "srotzin/hive-mcp-backup",
+  "source_url": "https://github.com/srotzin/hive-mcp-backup",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-backup\n# See source for mcpServers config block"
+}

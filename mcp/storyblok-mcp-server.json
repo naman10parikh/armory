@@ -1,0 +1,7 @@
+{
+  "name": "storyblok-mcp-server",
+  "description": "Provides access to the Storyblok Management API via MCP, enabling content management and operations on Storyblok spaces through natural language. Note: This repository is archived; use the hosted version at mcp.labs.storyblok.com.",
+  "source_repo": "storyblok/mcp-server",
+  "source_url": "https://github.com/storyblok/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/storyblok/mcp-server\n# See source for mcpServers config block"
+}

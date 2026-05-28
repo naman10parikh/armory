@@ -1,0 +1,7 @@
+{
+  "name": "sharozdawa-indexnow",
+  "description": "Submit URLs for instant indexing via IndexNow and Google Indexing API.",
+  "source_repo": "sharozdawa/indexnow-mcp",
+  "source_url": "https://github.com/sharozdawa/indexnow-mcp",
+  "install": "npx -y indexnow-mcp"
+}

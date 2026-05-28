@@ -1,0 +1,7 @@
+{
+  "name": "pyth-network",
+  "description": "Real-time and historical price feeds for crypto, equities, FX, and commodities.",
+  "source_repo": "pyth-network/pyth-crosschain",
+  "source_url": "https://github.com/pyth-network/pyth-crosschain",
+  "install": "# git clone --depth 1 https://github.com/pyth-network/pyth-crosschain\n# See source for mcpServers config block"
+}

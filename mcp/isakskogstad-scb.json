@@ -1,0 +1,7 @@
+{
+  "name": "isakskogstad-scb",
+  "description": "Access 1,200+ official Swedish statistics tables covering population, economy, environment, and labor market data",
+  "source_repo": "isakskogstad/scb-mcp",
+  "source_url": "https://github.com/isakskogstad/scb-mcp",
+  "install": "npx -y scb-mcp"
+}

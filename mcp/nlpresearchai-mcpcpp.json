@@ -1,0 +1,7 @@
+{
+  "name": "nlpresearchai-mcpcpp",
+  "description": "C++ server library with STDIO and SSE transport modes, featuring dynamic JSON configuration for runtime creation of database operations, REST API calls, terminal commands, and workflow orchestration.",
+  "source_repo": "nlpresearchai/mcpcpp",
+  "source_url": "https://github.com/nlpresearchai/mcpcpp",
+  "install": "# git clone --depth 1 https://github.com/nlpresearchai/mcpcpp\n# See source for mcpServers config block"
+}

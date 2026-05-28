@@ -1,0 +1,7 @@
+{
+  "name": "sdimitrov-memory-postgresql",
+  "description": "Provides long-term memory capabilities using PostgreSQL with pgvector for efficient semantic search across stored memories, enabling tagging, confidence scoring, and filtering for maintaining context across conversations.",
+  "source_repo": "sdimitrov/mcp-memory",
+  "source_url": "https://github.com/sdimitrov/mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/sdimitrov/mcp-memory\n# See source for mcpServers config block"
+}

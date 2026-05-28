@@ -1,0 +1,7 @@
+{
+  "name": "handrails",
+  "description": "A shared-memory-layer that keeps your team, tools, and AI in sync.",
+  "source_repo": "",
+  "source_url": "https://handrails.dev",
+  "install": "# git clone --depth 1 https://handrails.dev\n# See source for mcpServers config block"
+}

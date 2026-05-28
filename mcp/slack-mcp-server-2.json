@@ -1,0 +1,7 @@
+{
+  "name": "slack-mcp-server-2",
+  "description": "Slack Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "AnyContext-ai/slack-mcp-server",
+  "source_url": "https://mcp.so/server/slack-mcp-server/AnyContext-ai",
+  "install": "npx -y slack-mcp-server"
+}

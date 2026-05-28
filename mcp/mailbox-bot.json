@@ -1,0 +1,7 @@
+{
+  "name": "mailbox-bot",
+  "description": "Physical mail API for AI agents to send letters, certified mail, and manage inbound postal mail.",
+  "source_repo": "",
+  "source_url": "https://mailbox.bot",
+  "install": "# git clone --depth 1 https://mailbox.bot\n# See source for mcpServers config block"
+}

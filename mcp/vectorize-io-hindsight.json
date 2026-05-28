@@ -1,0 +1,7 @@
+{
+  "name": "vectorize-io-hindsight",
+  "description": "Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory",
+  "source_repo": "vectorize-io/hindsight",
+  "source_url": "https://github.com/vectorize-io/hindsight",
+  "install": "# git clone --depth 1 https://github.com/vectorize-io/hindsight\n# See source for mcpServers config block"
+}

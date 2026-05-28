@@ -1,0 +1,7 @@
+{
+  "name": "dubuqingfeng-gitlab",
+  "description": "Integrates with GitLab for merge request management, automated code reviews, and CI/CD workflows",
+  "source_repo": "dubuqingfeng/gitlab-mcp-server",
+  "source_url": "https://github.com/dubuqingfeng/gitlab-mcp-server",
+  "install": "npx -y gitlab-mcp-server"
+}

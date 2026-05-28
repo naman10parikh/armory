@@ -1,0 +1,7 @@
+{
+  "name": "io-github-shigechika-junos-mcp",
+  "description": "MCP server for Juniper networks, enabling AI assistants to execute CLI commands, manage configuration, perform upgrades, and run diagnostics on Junos devices via STDIO transport.",
+  "source_repo": "shigechika/junos-mcp",
+  "source_url": "https://github.com/shigechika/junos-mcp",
+  "install": "npx -y junos-mcp"
+}

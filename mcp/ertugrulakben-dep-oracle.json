@@ -1,0 +1,7 @@
+{
+  "name": "ertugrulakben-dep-oracle",
+  "description": "Calculates trust scores for npm and Python dependencies, detecting zombie packages, typosquatting attempts, and supply chain risks.",
+  "source_repo": "ertugrulakben/dep-oracle",
+  "source_url": "https://github.com/ertugrulakben/dep-oracle",
+  "install": "# git clone --depth 1 https://github.com/ertugrulakben/dep-oracle\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "a2amarket-clamav",
+  "description": "Provides virus scanning capabilities for files by integrating with the ClamAV antivirus engine, enabling secure validation of file safety before processing.",
+  "source_repo": "a2amarket/mcp-clamav",
+  "source_url": "https://github.com/a2amarket/mcp-clamav",
+  "install": "# git clone --depth 1 https://github.com/a2amarket/mcp-clamav\n# See source for mcpServers config block"
+}

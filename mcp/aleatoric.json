@@ -1,0 +1,7 @@
+{
+  "name": "aleatoric",
+  "description": "Aleatoric Engine is deterministic market simulation infrastructure for generating reproducible, schema-stable synthetic market data used in financial research, validation, and systems testing. It prioritizes explicit configuration, reproducibility, and operational clarity over statistical novelty or",
+  "source_repo": "",
+  "source_url": "https://sim.aleatoric.systems/#pricing",
+  "install": "# git clone --depth 1 https://sim.aleatoric.systems/#pricing\n# See source for mcpServers config block"
+}

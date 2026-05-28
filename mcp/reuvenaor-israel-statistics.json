@@ -1,0 +1,7 @@
+{
+  "name": "reuvenaor-israel-statistics",
+  "description": "Integrates with the Israeli Central Bureau of Statistics API to retrieve economic data including consumer price indices, housing market data, producer price indices, and inflation calculations with specialized handling for bi-monthly housing data and support for both JSON and XML response formats.",
+  "source_repo": "reuvenaor/israel-statistics-mcp",
+  "source_url": "https://github.com/reuvenaor/israel-statistics-mcp",
+  "install": "npx -y israel-statistics-mcp"
+}

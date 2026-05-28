@@ -1,0 +1,7 @@
+{
+  "name": "fleur-app-launcher",
+  "description": "Integrates with the Fleur application to enable direct access to external apps like Gmail, Linear, and Slack without leaving the chat interface through platform-specific launch methods for macOS and Windows.",
+  "source_repo": "fleuristes/fleur-mcp",
+  "source_url": "https://github.com/fleuristes/fleur-mcp",
+  "install": "npx -y fleur-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anthropic-github",
+  "description": "Provides a robust GitHub API bridge using TypeScript and Zod, enabling developers to automate repository operations through conversational interactions.",
+  "source_repo": "upstreetai/ia-mcp",
+  "source_url": "https://github.com/upstreetai/ia-mcp",
+  "install": "npx -y ia-mcp"
+}

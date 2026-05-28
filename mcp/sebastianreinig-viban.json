@@ -1,0 +1,7 @@
+{
+  "name": "sebastianreinig-viban",
+  "description": "File-based Kanban board that enables task management through natural language, storing tasks in JSON with YAML configuration for project-specific workflow management.",
+  "source_repo": "sebastianreinig/viban",
+  "source_url": "https://github.com/sebastianreinig/viban",
+  "install": "# git clone --depth 1 https://github.com/sebastianreinig/viban\n# See source for mcpServers config block"
+}

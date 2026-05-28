@@ -1,0 +1,7 @@
+{
+  "name": "kanbantool-mcp",
+  "description": "An MCP server that connects AI assistants to Kanban Tool for reading and managing boards, tasks, and workflows via natural language.",
+  "source_repo": "VeryLongOrgNameSuchWow/kanbantool-mcp",
+  "source_url": "https://github.com/VeryLongOrgNameSuchWow/kanbantool-mcp",
+  "install": "npx -y kanbantool-mcp"
+}

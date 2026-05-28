@@ -1,0 +1,7 @@
+{
+  "name": "seyhunak-agentcraft",
+  "description": "Provides a flexible agent framework with pre-configured agents for tasks like marketing, code review, scheduling, and regulatory compliance, using data-driven YAML configuration to enable dynamic agent creation across domains like finance, product development, and customer support.",
+  "source_repo": "seyhunak/agentcraft-mcp",
+  "source_url": "https://github.com/seyhunak/agentcraft-mcp",
+  "install": "npx -y agentcraft-mcp"
+}

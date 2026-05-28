@@ -1,0 +1,7 @@
+{
+  "name": "archimdescrypto-excel-reader",
+  "description": "Integrates with Excel files to enable efficient processing and analysis of large spreadsheet datasets through automatic chunking and pagination.",
+  "source_repo": "archimedescrypto/excel-reader-mcp",
+  "source_url": "https://github.com/archimedescrypto/excel-reader-mcp",
+  "install": "npx -y excel-reader-mcp"
+}

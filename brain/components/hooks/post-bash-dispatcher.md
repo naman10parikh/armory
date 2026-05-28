@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [post-ecc-context-monitor, post-ecc-metrics-bridge]
-tags: [ecc, hook, PostToolUse]
+tags: [hook, PostToolUse]
 ---
 ## What it is
 PostToolUse hook: Consolidated Bash postflight dispatcher for logging, PR, and build notifications (matcher: Bash).

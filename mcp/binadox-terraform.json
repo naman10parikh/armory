@@ -1,0 +1,7 @@
+{
+  "name": "binadox-terraform",
+  "description": "Validates, secures, and estimates cloud costs for Terraform configurations with automatic code completion",
+  "source_repo": "binadox-public/binadox-terraform-mcp",
+  "source_url": "https://github.com/binadox-public/binadox-terraform-mcp",
+  "install": "npx -y binadox-terraform-mcp"
+}

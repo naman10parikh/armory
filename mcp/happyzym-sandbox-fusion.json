@@ -1,0 +1,7 @@
+{
+  "name": "happyzym-sandbox-fusion",
+  "description": "Connects AI models to Sandbox Fusion environments for testing, training, and demonstrating agent interactions with simulated worlds",
+  "source_repo": "astricaelus/sandbox-fusion-mcp",
+  "source_url": "https://github.com/astricaelus/sandbox-fusion-mcp",
+  "install": "npx -y sandbox-fusion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coinapi-realtime-exchange-rates",
+  "description": "Integrates with CoinAPI to provide real-time cryptocurrency and exchange rate data.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/coinapi-realtime-exchange-rates",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/coinapi-realtime-exchange-rates\n# See source for mcpServers config block"
+}

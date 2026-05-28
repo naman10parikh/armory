@@ -1,0 +1,7 @@
+{
+  "name": "minejpgcraft-expert",
+  "description": "Routes complex queries to advanced AI models through a configurable OpenAI-compatible consultation bridge.",
+  "source_repo": "minejpgcraft/expert-mcp",
+  "source_url": "https://github.com/minejpgcraft/expert-mcp",
+  "install": "npx -y expert-mcp"
+}

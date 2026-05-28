@@ -1,0 +1,7 @@
+{
+  "name": "gus-narea-daipendency",
+  "description": "Extracts public API documentation from a library and outputs it in an LLM-friendly format.",
+  "source_repo": "daipendency/daipendency-mcp",
+  "source_url": "https://github.com/daipendency/daipendency-mcp",
+  "install": "npx -y daipendency-mcp"
+}

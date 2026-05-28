@@ -1,0 +1,7 @@
+{
+  "name": "hdcola-oracle",
+  "description": "Provides secure, read-only access to Oracle databases through Python's oracledb library, enabling database schema exploration and SQL query execution without direct credential exposure.",
+  "source_repo": "hdcola/mcp-server-oracle",
+  "source_url": "https://github.com/hdcola/mcp-server-oracle",
+  "install": "# git clone --depth 1 https://github.com/hdcola/mcp-server-oracle\n# See source for mcpServers config block"
+}

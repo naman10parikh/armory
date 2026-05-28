@@ -1,0 +1,7 @@
+{
+  "name": "jigarvyasidea-mytrip-ai-studio",
+  "description": "Integrates with SerpAPI and other travel services to provide flight search, hotel booking, event discovery, weather forecasting, currency conversion, and geocoding with local result storage for detailed comparison and filtering across all travel planning needs.",
+  "source_repo": "jigarvyasidea/mytrip-ai-studio",
+  "source_url": "https://github.com/jigarvyasidea/mytrip-ai-studio",
+  "install": "# git clone --depth 1 https://github.com/jigarvyasidea/mytrip-ai-studio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "matanyemini-bitbucket",
+  "description": "Integrates with Bitbucket Cloud and Server APIs for repository and pull request management",
+  "source_repo": "matanyemini/bitbucket-mcp",
+  "source_url": "https://github.com/matanyemini/bitbucket-mcp",
+  "install": "npx -y bitbucket-mcp"
+}

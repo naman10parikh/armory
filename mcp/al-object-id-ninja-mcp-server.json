@@ -1,0 +1,7 @@
+{
+  "name": "al-object-id-ninja-mcp-server",
+  "description": "MCP server for AL Object ID management in Microsoft Dynamics 365 Business Central development. It provides intelligent object ID allocation, collision prevention, and team collaboration features.",
+  "source_repo": "SShadowS/al-objid-mcp-server",
+  "source_url": "https://github.com/SShadowS/al-objid-mcp-server",
+  "install": "npx -y al-objid-mcp-server"
+}

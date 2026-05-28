@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-brex",
+  "description": "Provides secure access to Brex financial platform data, enabling account information retrieval, transaction analysis, and budget monitoring through read-only operations with proper rate limiting.",
+  "source_repo": "crazyrabbitltc/mcp-brex-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-brex-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-brex-server\n# See source for mcpServers config block"
+}

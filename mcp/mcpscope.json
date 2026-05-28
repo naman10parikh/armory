@@ -1,0 +1,7 @@
+{
+  "name": "mcpscope",
+  "description": "A simple local MCP server that provides greeting and integer addition tools.",
+  "source_repo": "sla10132000/mcpscope",
+  "source_url": "https://github.com/sla10132000/mcpscope",
+  "install": "# git clone --depth 1 https://github.com/sla10132000/mcpscope\n# See source for mcpServers config block"
+}

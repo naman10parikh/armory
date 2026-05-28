@@ -1,0 +1,7 @@
+{
+  "name": "dewanshparashar-arbitrum",
+  "description": "Provides natural language access to Arbitrum blockchain networks including core chains and Orbit chains, enabling batch posting monitoring, assertion tracking, gas price analysis, node health checks, transaction tracing, and account operations for developers building applications that require real-time visibility into sequencer performance and validator operations.",
+  "source_repo": "dewanshparashar/arbitrum-mcp",
+  "source_url": "https://github.com/dewanshparashar/arbitrum-mcp",
+  "install": "npx -y arbitrum-mcp"
+}

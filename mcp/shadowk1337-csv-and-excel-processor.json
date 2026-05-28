@@ -1,0 +1,7 @@
+{
+  "name": "shadowk1337-csv-and-excel-processor",
+  "description": "Integrates with Spring Boot to process CSV and Excel files, enabling data extraction and manipulation for analysis, reporting, or system integration tasks.",
+  "source_repo": "shadowk1337/mcp-csv-server",
+  "source_url": "https://github.com/shadowk1337/mcp-csv-server",
+  "install": "# git clone --depth 1 https://github.com/shadowk1337/mcp-csv-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seekonme",
+  "description": "Search and retrieve product catalog listings via the SeekOnMe API.",
+  "source_repo": "",
+  "source_url": "https://fast.seekon.me/mcp/",
+  "install": "# git clone --depth 1 https://fast.seekon.me/mcp/\n# See source for mcpServers config block"
+}

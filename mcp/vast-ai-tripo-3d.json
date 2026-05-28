@@ -1,0 +1,7 @@
+{
+  "name": "vast-ai-tripo-3d",
+  "description": "Bridges AI systems with the Tripo 3D generation API, enabling text-to-3D model creation and manipulation through Blender addon integration for seamless 3D content creation workflows.",
+  "source_repo": "vast-ai-research/tripo-mcp",
+  "source_url": "https://github.com/vast-ai-research/tripo-mcp",
+  "install": "npx -y tripo-mcp"
+}

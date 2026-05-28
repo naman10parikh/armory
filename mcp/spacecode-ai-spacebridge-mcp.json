@@ -1,0 +1,7 @@
+{
+  "name": "spacecode-ai-spacebridge-mcp",
+  "description": "Bring structure and preserve context in vibe coding by automatically tracking issues.",
+  "source_repo": "spacecode-ai/SpaceBridge-MCP",
+  "source_url": "https://github.com/spacecode-ai/SpaceBridge-MCP",
+  "install": "npx -y SpaceBridge-MCP"
+}

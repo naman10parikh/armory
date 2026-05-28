@@ -1,0 +1,7 @@
+{
+  "name": "geiserx-telegram-archive-mcp",
+  "description": "Go-based MCP server for Telegram Archive. Search and browse Telegram chat history, list chats, and retrieve messages with full-text search. Docker image available.",
+  "source_repo": "GeiserX/telegram-archive-mcp",
+  "source_url": "https://github.com/GeiserX/telegram-archive-mcp",
+  "install": "npx -y telegram-archive-mcp"
+}

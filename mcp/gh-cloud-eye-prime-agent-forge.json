@@ -1,0 +1,7 @@
+{
+  "name": "gh-cloud-eye-prime-agent-forge",
+  "description": "Dispatch AI coding agents including Claude Code, GitHub Copilot, and OpenCode as tools within any MCP-compatible client.",
+  "source_repo": "cloud-eye-prime/mcp-agent-forge",
+  "source_url": "https://github.com/cloud-eye-prime/mcp-agent-forge",
+  "install": "# git clone --depth 1 https://github.com/cloud-eye-prime/mcp-agent-forge\n# See source for mcpServers config block"
+}

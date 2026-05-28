@@ -1,0 +1,7 @@
+{
+  "name": "unagi-cq-cdp-bridge",
+  "description": "MCP server bridging AI clients to real browser sessions via Chrome DevTools Protocol with a companion browser extension.",
+  "source_repo": "unagi-cq/cdp-bridge-mcp",
+  "source_url": "https://github.com/unagi-cq/cdp-bridge-mcp",
+  "install": "npx -y cdp-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wowinter13-solscan-mcp",
+  "description": "An MCP tool for querying Solana transactions using natural language with Solscan API.",
+  "source_repo": "wowinter13/solscan-mcp",
+  "source_url": "https://github.com/wowinter13/solscan-mcp",
+  "install": "npx -y solscan-mcp"
+}

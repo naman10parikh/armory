@@ -1,0 +1,7 @@
+{
+  "name": "spranab-saga",
+  "description": "SQLite-based project management with hierarchical projects, epics, tasks, subtasks, activity logging, and dashboard analytics.",
+  "source_repo": "spranab/saga-mcp",
+  "source_url": "https://github.com/spranab/saga-mcp",
+  "install": "npx -y saga-mcp"
+}

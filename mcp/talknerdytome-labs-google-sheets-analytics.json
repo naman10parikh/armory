@@ -1,0 +1,7 @@
+{
+  "name": "talknerdytome-labs-google-sheets-analytics",
+  "description": "Syncs Google Sheets data to a local SQLite database with intelligent caching and change detection, enabling natural language queries and cross-sheet analysis without manual data export.",
+  "source_repo": "talknerdytome-labs/google-sheet-analytics-mcp",
+  "source_url": "https://github.com/talknerdytome-labs/google-sheet-analytics-mcp",
+  "install": "npx -y google-sheet-analytics-mcp"
+}

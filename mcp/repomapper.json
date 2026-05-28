@@ -1,0 +1,7 @@
+{
+  "name": "repomapper",
+  "description": "Generates intelligent repository maps and code navigation by analyzing source code definitions, references, and relationships using Tree-sitter parsing and PageRank algorithms to prioritize important files and elements within token-aware overviews.",
+  "source_repo": "pdavis68/repomapper",
+  "source_url": "https://github.com/pdavis68/repomapper",
+  "install": "# git clone --depth 1 https://github.com/pdavis68/repomapper\n# See source for mcpServers config block"
+}

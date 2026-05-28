@@ -1,0 +1,7 @@
+{
+  "name": "shibuiwilliam-zenn",
+  "description": "Integrates with Zenn.dev's developer API to fetch and filter technical articles and books from the popular Japanese publication platform.",
+  "source_repo": "shibuiwilliam/mcp-server-zenn",
+  "source_url": "https://github.com/shibuiwilliam/mcp-server-zenn",
+  "install": "# git clone --depth 1 https://github.com/shibuiwilliam/mcp-server-zenn\n# See source for mcpServers config block"
+}

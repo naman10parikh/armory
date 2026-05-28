@@ -1,0 +1,7 @@
+{
+  "name": "blazickjp-arxiv-mcp-server",
+  "description": "Search and analyze academic papers from the arXiv repository.",
+  "source_repo": "blazickjp/arxiv-mcp-server",
+  "source_url": "https://github.com/blazickjp/arxiv-mcp-server",
+  "install": "npx -y arxiv-mcp-server"
+}

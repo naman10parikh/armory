@@ -1,0 +1,7 @@
+{
+  "name": "boweylou-obsidian-enhanced",
+  "description": "Integrates with Obsidian vaults through the Local REST API plugin to provide file operations, search, frontmatter management, Dataview queries, block references, templates, periodic notes, and graph analysis for knowledge management workflows.",
+  "source_repo": "boweylou/obsidian-mcp-server-enhanced",
+  "source_url": "https://github.com/boweylou/obsidian-mcp-server-enhanced",
+  "install": "# git clone --depth 1 https://github.com/boweylou/obsidian-mcp-server-enhanced\n# See source for mcpServers config block"
+}

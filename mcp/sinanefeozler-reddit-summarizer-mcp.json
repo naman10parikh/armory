@@ -1,0 +1,7 @@
+{
+  "name": "sinanefeozler-reddit-summarizer-mcp",
+  "description": "MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.",
+  "source_repo": "sinanefeozler/reddit-summarizer-mcp",
+  "source_url": "https://github.com/sinanefeozler/reddit-summarizer-mcp",
+  "install": "npx -y reddit-summarizer-mcp"
+}

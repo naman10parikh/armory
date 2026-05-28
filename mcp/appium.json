@@ -1,0 +1,7 @@
+{
+  "name": "appium",
+  "description": "Mobile automation testing for iOS and Android devices with intelligent test generation",
+  "source_repo": "appium/appium-mcp",
+  "source_url": "https://github.com/appium/appium-mcp",
+  "install": "npx -y appium-mcp"
+}

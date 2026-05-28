@@ -1,0 +1,7 @@
+{
+  "name": "custommcp",
+  "description": "CustomMCP MCP server listed on mcp.so.",
+  "source_repo": "Wriath18/CustomMCP",
+  "source_url": "https://mcp.so/server/CustomMCP/Wriath18",
+  "install": "# git clone --depth 1 https://mcp.so/server/CustomMCP/Wriath18\n# See source for mcpServers config block"
+}

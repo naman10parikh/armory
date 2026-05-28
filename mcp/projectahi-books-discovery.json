@@ -1,0 +1,7 @@
+{
+  "name": "projectahi-books-discovery",
+  "description": "Aggregates book data from Google Books, Open Library, and Project Gutenberg with deduplication and caching.",
+  "source_repo": "projectahi/books-mcp",
+  "source_url": "https://github.com/projectahi/books-mcp",
+  "install": "npx -y books-mcp"
+}

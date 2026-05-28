@@ -1,0 +1,7 @@
+{
+  "name": "cexll-bmad",
+  "description": "Orchestrates agile development workflows by integrating business requirements with development processes to streamline project management and delivery for teams bridging business stakeholders with technical implementation.",
+  "source_repo": "cexll/bmad-mcp-server",
+  "source_url": "https://github.com/cexll/bmad-mcp-server",
+  "install": "npx -y bmad-mcp-server"
+}

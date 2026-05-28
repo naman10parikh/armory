@@ -1,0 +1,7 @@
+{
+  "name": "scvcoder-korean-law-alio",
+  "description": "MCP server for searching Korean laws, administrative rules, and public institution regulations via ALIO.",
+  "source_repo": "scvcoder/korean-law-alio-mcp",
+  "source_url": "https://github.com/scvcoder/korean-law-alio-mcp",
+  "install": "npx -y korean-law-alio-mcp"
+}

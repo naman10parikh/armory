@@ -1,0 +1,7 @@
+{
+  "name": "apireno-domshell",
+  "description": "Browse the web using filesystem commands (ls, cd, grep, click). 38 MCP tools map Chrome's Accessibility Tree to a virtual filesystem via a Chrome Extension.",
+  "source_repo": "apireno/DOMShell",
+  "source_url": "https://github.com/apireno/DOMShell",
+  "install": "# git clone --depth 1 https://github.com/apireno/DOMShell\n# See source for mcpServers config block"
+}

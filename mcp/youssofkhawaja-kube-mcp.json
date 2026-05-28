@@ -1,0 +1,7 @@
+{
+  "name": "youssofkhawaja-kube-mcp",
+  "description": "Multi-cluster Kubernetes management via natural language using a central server and lightweight per-cluster agents over WebSocket.",
+  "source_repo": "youssofkhawaja/kube-mcp",
+  "source_url": "https://github.com/youssofkhawaja/kube-mcp",
+  "install": "npx -y kube-mcp"
+}

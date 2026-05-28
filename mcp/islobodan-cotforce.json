@@ -1,0 +1,7 @@
+{
+  "name": "islobodan-cotforce",
+  "description": "Give small models structured thinking — enforces step-by-step Chain-of-Thought reasoning via MCP.",
+  "source_repo": "islobodan/cotforce-mcp",
+  "source_url": "https://github.com/islobodan/cotforce-mcp",
+  "install": "npx -y cotforce-mcp"
+}

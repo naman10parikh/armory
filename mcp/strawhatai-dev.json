@@ -1,0 +1,7 @@
+{
+  "name": "strawhatai-dev",
+  "description": "Strawhatai Dev MCP server listed on mcp.so.",
+  "source_repo": "StrawHatAI/strawhatai-dev",
+  "source_url": "https://mcp.so/server/strawhatai-dev/StrawHatAI",
+  "install": "# git clone --depth 1 https://mcp.so/server/strawhatai-dev/StrawHatAI\n# See source for mcpServers config block"
+}

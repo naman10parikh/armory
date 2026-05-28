@@ -1,0 +1,7 @@
+{
+  "name": "lintbase",
+  "description": "Real-time Firestore and MongoDB schema context for AI coding agents.",
+  "source_repo": "lintbase/lintbase",
+  "source_url": "https://github.com/lintbase/lintbase",
+  "install": "# git clone --depth 1 https://github.com/lintbase/lintbase\n# See source for mcpServers config block"
+}

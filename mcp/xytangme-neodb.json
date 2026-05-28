@@ -1,0 +1,7 @@
+{
+  "name": "xytangme-neodb",
+  "description": "Integrates with NeoDB to fetch user data, search books, and retrieve book details, enabling book recommendations, reading list management, and literary analysis.",
+  "source_repo": "xytangme/neodb-mcp",
+  "source_url": "https://github.com/xytangme/neodb-mcp",
+  "install": "npx -y neodb-mcp"
+}

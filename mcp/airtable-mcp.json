@@ -1,0 +1,7 @@
+{
+  "name": "airtable-mcp",
+  "description": "Airtable Mcp MCP server listed on mcp.so.",
+  "source_repo": "rashidazarang/airtable-mcp",
+  "source_url": "https://mcp.so/server/airtable-mcp/rashidazarang",
+  "install": "npx -y airtable-mcp"
+}

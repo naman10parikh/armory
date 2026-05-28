@@ -1,0 +1,7 @@
+{
+  "name": "nexusforge-tools-eu-finance",
+  "description": "European financial data from ECB, Eurostat, and Frankfurter APIs — interest rates, inflation, GDP, and unemployment.",
+  "source_repo": "nexusforge-tools/mcp-eu-finance",
+  "source_url": "https://github.com/nexusforge-tools/mcp-eu-finance",
+  "install": "# git clone --depth 1 https://github.com/nexusforge-tools/mcp-eu-finance\n# See source for mcpServers config block"
+}

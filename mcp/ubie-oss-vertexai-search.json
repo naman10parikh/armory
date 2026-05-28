@@ -1,0 +1,7 @@
+{
+  "name": "ubie-oss-vertexai-search",
+  "description": "Integrates with Google's Vertex AI and Discovery Engine APIs to enable advanced search and retrieval operations on large datasets, supporting semantic search and natural language understanding.",
+  "source_repo": "ubie-oss/mcp-vertexai-search",
+  "source_url": "https://github.com/ubie-oss/mcp-vertexai-search",
+  "install": "# git clone --depth 1 https://github.com/ubie-oss/mcp-vertexai-search\n# See source for mcpServers config block"
+}

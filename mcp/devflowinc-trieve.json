@@ -1,0 +1,7 @@
+{
+  "name": "devflowinc-trieve",
+  "description": "Crawl, embed, chunk, search, and retrieve information from datasets through [Trieve](https://trieve.ai)",
+  "source_repo": "devflowinc/trieve",
+  "source_url": "https://github.com/devflowinc/trieve/tree/main/clients/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/devflowinc/trieve/tree/main/clients/mcp-server\n# See source for mcpServers config block"
+}

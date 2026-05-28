@@ -1,0 +1,7 @@
+{
+  "name": "mcp-garmin",
+  "description": "MCP server for Garmin Connect that provides read-only access to daily health metrics, activities, workouts, and body composition data.",
+  "source_repo": "obrien-matthew/mcp-garmin",
+  "source_url": "https://github.com/obrien-matthew/mcp-garmin",
+  "install": "# git clone --depth 1 https://github.com/obrien-matthew/mcp-garmin\n# See source for mcpServers config block"
+}

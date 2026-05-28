@@ -1,0 +1,7 @@
+{
+  "name": "ai-4-devops-devops-practices",
+  "description": "Centralized DevOps practices and templates for AI-assisted PoC development, eliminating repeated instructions across projects.",
+  "source_repo": "ai-4-devops/devops-practices",
+  "source_url": "https://github.com/ai-4-devops/devops-practices",
+  "install": "# git clone --depth 1 https://github.com/ai-4-devops/devops-practices\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "officemcp-office",
+  "description": "Enables AI to automate Microsoft Office applications (Word, Excel, PowerPoint, and more) through COM interfaces in Windows, providing tools for launching programs, manipulating documents, capturing screenshots, and managing files.",
+  "source_repo": "officemcp/officemcp",
+  "source_url": "https://github.com/officemcp/officemcp",
+  "install": "# git clone --depth 1 https://github.com/officemcp/officemcp\n# See source for mcpServers config block"
+}

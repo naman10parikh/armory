@@ -1,0 +1,7 @@
+{
+  "name": "gh-dbsectrainer-legal-doc-analyzer",
+  "description": "Extract clauses from contracts, flag risky provisions, check compliance against configurable templates, and compare document versions at the clause level.",
+  "source_repo": "dbsectrainer/mcp-legal-doc-analyzer",
+  "source_url": "https://github.com/dbsectrainer/mcp-legal-doc-analyzer",
+  "install": "# git clone --depth 1 https://github.com/dbsectrainer/mcp-legal-doc-analyzer\n# See source for mcpServers config block"
+}

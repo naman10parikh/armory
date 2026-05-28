@@ -1,0 +1,7 @@
+{
+  "name": "jamjet-policy",
+  "description": "Drop-in stdio interceptor that gates MCP tools/call requests through a YAML policy (block / require_approval / audit / budget cap) before they reach the real server. The same policy file is reused by @jamjet/claude-code-hook and @jamjet/openai-guardrail, so one rule set covers Claude Desktop, Cursor",
+  "source_repo": "jamjet-labs/jamjet-policy",
+  "source_url": "https://github.com/jamjet-labs/jamjet-policy",
+  "install": "# git clone --depth 1 https://github.com/jamjet-labs/jamjet-policy\n# See source for mcpServers config block"
+}

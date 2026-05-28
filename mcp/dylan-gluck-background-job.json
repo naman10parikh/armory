@@ -1,0 +1,7 @@
+{
+  "name": "dylan-gluck-background-job",
+  "description": "Enables coding agents to execute long-running shell commands asynchronously with full process management capabilities.",
+  "source_repo": "dylan-gluck/mcp-background-job",
+  "source_url": "https://github.com/dylan-gluck/mcp-background-job",
+  "install": "# git clone --depth 1 https://github.com/dylan-gluck/mcp-background-job\n# See source for mcpServers config block"
+}

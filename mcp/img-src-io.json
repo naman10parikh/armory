@@ -1,0 +1,7 @@
+{
+  "name": "img-src-io",
+  "description": "Upload, transform, and deliver images through the img-src.io Image CDN.",
+  "source_repo": "img-src-io/mcp",
+  "source_url": "https://github.com/img-src-io/mcp",
+  "install": "# git clone --depth 1 https://github.com/img-src-io/mcp\n# See source for mcpServers config block"
+}

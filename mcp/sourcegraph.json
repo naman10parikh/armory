@@ -1,0 +1,7 @@
+{
+  "name": "sourcegraph",
+  "description": "Connects AI agents to Sourcegraph's code search, semantic search, code navigation, and diff search capabilities across your codebase.",
+  "source_repo": "sourcegraph-community/mcpregistry",
+  "source_url": "https://github.com/sourcegraph-community/mcpregistry",
+  "install": "# git clone --depth 1 https://github.com/sourcegraph-community/mcpregistry\n# See source for mcpServers config block"
+}

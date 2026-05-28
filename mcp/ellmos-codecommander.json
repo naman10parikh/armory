@@ -1,0 +1,7 @@
+{
+  "name": "ellmos-codecommander",
+  "description": "Code analysis, JSON repair, encoding fix, format conversion, diff, and regex tools.",
+  "source_repo": "ellmos-ai/ellmos-codecommander-mcp",
+  "source_url": "https://github.com/ellmos-ai/ellmos-codecommander-mcp",
+  "install": "npx -y ellmos-codecommander-mcp"
+}

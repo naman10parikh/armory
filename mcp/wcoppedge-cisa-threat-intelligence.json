@@ -1,0 +1,7 @@
+{
+  "name": "wcoppedge-cisa-threat-intelligence",
+  "description": "Integrates with CISA's Known Exploited Vulnerabilities catalog and NVD data to provide vulnerability searching, threat trend analysis, CVE intelligence reports with automated threat scoring, and catalog statistics for cybersecurity teams.",
+  "source_repo": "wcoppedge/cisa-threat-intelligence-mcp-server",
+  "source_url": "https://github.com/wcoppedge/cisa-threat-intelligence-mcp-server",
+  "install": "npx -y cisa-threat-intelligence-mcp-server"
+}

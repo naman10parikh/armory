@@ -1,0 +1,7 @@
+{
+  "name": "voltplan",
+  "description": "Generate electrical wiring diagrams for campers, boats, and off-grid power systems with automatic cable sizing, fuse calculations, and component protection.",
+  "source_repo": "yuzu-hub/wiring-diagram-mcp",
+  "source_url": "https://github.com/yuzu-hub/wiring-diagram-mcp",
+  "install": "npx -y wiring-diagram-mcp"
+}

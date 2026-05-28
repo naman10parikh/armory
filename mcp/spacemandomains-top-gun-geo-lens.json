@@ -1,0 +1,7 @@
+{
+  "name": "spacemandomains-top-gun-geo-lens",
+  "description": "Audits brand visibility across AI-powered search engines and LLM-indexed sources for Generative Engine Optimization.",
+  "source_repo": "spacemandomains/top_gun_mcp_server",
+  "source_url": "https://github.com/spacemandomains/top_gun_mcp_server",
+  "install": "npx -y top_gun_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "overtone-news",
+  "description": "Real-time news with tone analysis, brand safety scoring, and narrative shift signals for AI agents.",
+  "source_repo": "ckbrennan/overtone-news-mcp",
+  "source_url": "https://github.com/ckbrennan/overtone-news-mcp",
+  "install": "npx -y overtone-news-mcp"
+}

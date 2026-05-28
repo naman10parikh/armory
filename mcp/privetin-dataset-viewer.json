@@ -1,0 +1,7 @@
+{
+  "name": "privetin-dataset-viewer",
+  "description": "Integrates with the Hugging Face Dataset Viewer API to enable exploration, analysis, and content retrieval of datasets hosted on the Hugging Face Hub.",
+  "source_repo": "privetin/dataset-viewer",
+  "source_url": "https://github.com/privetin/dataset-viewer",
+  "install": "# git clone --depth 1 https://github.com/privetin/dataset-viewer\n# See source for mcpServers config block"
+}

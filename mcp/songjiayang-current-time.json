@@ -1,0 +1,7 @@
+{
+  "name": "songjiayang-current-time",
+  "description": "Provides AI systems with current time information across different timezones through a simple tool that accepts location parameters and returns formatted time data.",
+  "source_repo": "songjiayang/eino-mcp",
+  "source_url": "https://github.com/songjiayang/eino-mcp",
+  "install": "npx -y eino-mcp"
+}

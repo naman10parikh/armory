@@ -1,0 +1,7 @@
+{
+  "name": "roblox-studio",
+  "description": "Enables Roblox Studio developers to insert marketplace models and execute Luau code through a plugin.",
+  "source_repo": "roblox/studio-rust-mcp-server",
+  "source_url": "https://github.com/roblox/studio-rust-mcp-server",
+  "install": "npx -y studio-rust-mcp-server"
+}

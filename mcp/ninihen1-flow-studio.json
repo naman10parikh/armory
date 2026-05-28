@@ -1,0 +1,7 @@
+{
+  "name": "ninihen1-flow-studio",
+  "description": "Debug, build, and manage Microsoft Power Automate cloud flows via AI agents.",
+  "source_repo": "ninihen1/power-automate-mcp-skills",
+  "source_url": "https://github.com/ninihen1/power-automate-mcp-skills",
+  "install": "# git clone --depth 1 https://github.com/ninihen1/power-automate-mcp-skills\n# See source for mcpServers config block"
+}

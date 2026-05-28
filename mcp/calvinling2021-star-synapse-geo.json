@@ -1,0 +1,7 @@
+{
+  "name": "calvinling2021-star-synapse-geo",
+  "description": "GEO linter that audits and auto-fixes how AI agents discover and recommend new products.",
+  "source_repo": "calvinling2021-star/synapse",
+  "source_url": "https://github.com/calvinling2021-star/synapse",
+  "install": "# git clone --depth 1 https://github.com/calvinling2021-star/synapse\n# See source for mcpServers config block"
+}

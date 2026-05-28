@@ -1,0 +1,7 @@
+{
+  "name": "revolutionarybukhari-opportunity",
+  "description": "Search youth opportunities including scholarships, fellowships, and internships from any AI assistant.",
+  "source_repo": "revolutionarybukhari/opportunity-mcp",
+  "source_url": "https://github.com/revolutionarybukhari/opportunity-mcp",
+  "install": "npx -y opportunity-mcp"
+}

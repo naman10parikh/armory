@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cronos",
+  "description": "MCP server for structured daily work diary management, enabling entries, standup summaries, weekly reports, full-text search, and automatic git commits.",
+  "source_repo": "mauriziomocci/mcp-cronos",
+  "source_url": "https://github.com/mauriziomocci/mcp-cronos",
+  "install": "# git clone --depth 1 https://github.com/mauriziomocci/mcp-cronos\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-pdf-conversion",
+  "description": "MCP Server PDF Conversion MCP server listed on mcp.so.",
+  "source_repo": "rmcendarfer2017/MCP-server-PDF--Conversion",
+  "source_url": "https://mcp.so/server/MCP-server-PDF--Conversion/rmcendarfer2017",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-server-PDF--Conversion/rmcendarfer2017\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-apireno-domshell",
+  "description": "Chrome extension that maps the browser DOM into a virtual filesystem navigable with shell commands.",
+  "source_repo": "apireno/domshell",
+  "source_url": "https://github.com/apireno/domshell/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/apireno/domshell/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

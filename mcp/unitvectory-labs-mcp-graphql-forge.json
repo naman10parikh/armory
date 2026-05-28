@@ -1,0 +1,7 @@
+{
+  "name": "unitvectory-labs-mcp-graphql-forge",
+  "description": "A lightweight, configuration-driven MCP server that exposes curated GraphQL queries as modular tools, enabling intentional API interactions from your agents.",
+  "source_repo": "UnitVectorY-Labs/mcp-graphql-forge",
+  "source_url": "https://github.com/UnitVectorY-Labs/mcp-graphql-forge",
+  "install": "# git clone --depth 1 https://github.com/UnitVectorY-Labs/mcp-graphql-forge\n# See source for mcpServers config block"
+}

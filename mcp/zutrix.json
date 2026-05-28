@@ -1,0 +1,7 @@
+{
+  "name": "zutrix",
+  "description": "SEO platform integration for rank tracking, keyword research, competitor analysis, backlink monitoring, and site audits.",
+  "source_repo": "zutrix-technologies/zutrix-mcp-server",
+  "source_url": "https://github.com/zutrix-technologies/zutrix-mcp-server",
+  "install": "npx -y zutrix-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olostep-web-scraping",
+  "description": "Integrates with Olostep's web scraping API to extract webpage content in markdown format, discover website URLs through search queries, and retrieve structured Google search results with country-specific routing and JavaScript rendering support.",
+  "source_repo": "olostep/olostep-mcp-server",
+  "source_url": "https://github.com/olostep/olostep-mcp-server",
+  "install": "npx -y olostep-mcp-server"
+}

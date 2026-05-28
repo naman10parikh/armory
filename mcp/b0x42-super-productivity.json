@@ -1,0 +1,7 @@
+{
+  "name": "b0x42-super-productivity",
+  "description": "MCP server integrating AI assistants with the Super Productivity task manager, with 25+ tools for task creation, project management, tagging, and batch operations.",
+  "source_repo": "b0x42/super-productivity-mcp",
+  "source_url": "https://github.com/b0x42/super-productivity-mcp",
+  "install": "npx -y super-productivity-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-12",
+  "description": "A simple, extensible MCP server implementation for local use with tools like Copilot Chat, enabling context management and protocol-compliant communication.",
+  "source_repo": "ynnekF/mcp-server",
+  "source_url": "https://github.com/ynnekF/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ynnekF/mcp-server\n# See source for mcpServers config block"
+}

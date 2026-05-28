@@ -1,0 +1,7 @@
+{
+  "name": "chrischotw-databricks",
+  "description": "Read-only Databricks workspace access for SQL querying, job management, pipeline monitoring, and Unity Catalog metadata browsing.",
+  "source_repo": "chrischotw/databricks-mcp",
+  "source_url": "https://github.com/chrischotw/databricks-mcp",
+  "install": "npx -y databricks-mcp"
+}

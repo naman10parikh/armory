@@ -1,0 +1,7 @@
+{
+  "name": "highlight-ing-youtube-transcript",
+  "description": "Extracts transcripts from YouTube videos using various URL formats, enabling automated content analysis and summarization.",
+  "source_repo": "highlight-ing/highlight-youtube-mcp",
+  "source_url": "https://github.com/highlight-ing/highlight-youtube-mcp",
+  "install": "npx -y highlight-youtube-mcp"
+}

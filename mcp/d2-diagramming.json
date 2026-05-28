@@ -1,0 +1,7 @@
+{
+  "name": "d2-diagramming",
+  "description": "Integrates with Terrastruct's D2 diagramming language to generate technical diagrams, flowcharts, and architectural visualizations in SVG, PNG, and PDF formats through natural language requests.",
+  "source_repo": "i2y/d2mcp",
+  "source_url": "https://github.com/i2y/d2mcp",
+  "install": "# git clone --depth 1 https://github.com/i2y/d2mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kelvin6365-plane",
+  "description": "Integrates with Plane.so project management platform, enabling listing projects, creating and updating issues, filtering by priority, and managing assignees with user approval for data modifications.",
+  "source_repo": "kelvin6365/plane-mcp-server",
+  "source_url": "https://github.com/kelvin6365/plane-mcp-server",
+  "install": "npx -y plane-mcp-server"
+}

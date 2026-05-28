@@ -1,0 +1,7 @@
+{
+  "name": "ashdevfr-duckduckgo",
+  "description": "Integrates with DuckDuckGo search engine to provide real-time web information retrieval for research, fact-checking, and current events updates.",
+  "source_repo": "ashdevfr/duckduckgo-mcp-server",
+  "source_url": "https://github.com/ashdevfr/duckduckgo-mcp-server",
+  "install": "npx -y duckduckgo-mcp-server"
+}

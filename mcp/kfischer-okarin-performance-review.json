@@ -1,0 +1,7 @@
+{
+  "name": "kfischer-okarin-performance-review",
+  "description": "Integrates with GitHub's API to retrieve and format pull request activity as structured XML output for performance reviews, eliminating manual searching through repository history.",
+  "source_repo": "kfischer-okarin/mcp-server-performance-review-data",
+  "source_url": "https://github.com/kfischer-okarin/mcp-server-performance-review-data",
+  "install": "# git clone --depth 1 https://github.com/kfischer-okarin/mcp-server-performance-review-data\n# See source for mcpServers config block"
+}

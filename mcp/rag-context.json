@@ -1,0 +1,7 @@
+{
+  "name": "rag-context",
+  "description": "Provides persistent memory and context management using local vector storage and SQLite database, enabling semantic search and indexed retrieval of stored information with automatic vectorization and configurable similarity thresholds for complete privacy and data control.",
+  "source_repo": "notbnull/mcp-rag-context",
+  "source_url": "https://github.com/notbnull/mcp-rag-context",
+  "install": "# git clone --depth 1 https://github.com/notbnull/mcp-rag-context\n# See source for mcpServers config block"
+}

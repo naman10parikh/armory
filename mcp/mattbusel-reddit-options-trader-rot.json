@@ -1,0 +1,7 @@
+{
+  "name": "mattbusel-reddit-options-trader-rot",
+  "description": "The first financial intelligence MCP server. Live AI-scored trading signals from Reddit, SEC filings, FDA approvals, Congressional trades, and 15+ sources. 7 tools, 2 resources, hosted remotely, free, no API key required.",
+  "source_repo": "Mattbusel/Reddit-Options-Trader-ROT-",
+  "source_url": "https://github.com/Mattbusel/Reddit-Options-Trader-ROT-",
+  "install": "# git clone --depth 1 https://github.com/Mattbusel/Reddit-Options-Trader-ROT-\n# See source for mcpServers config block"
+}

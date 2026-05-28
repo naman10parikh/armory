@@ -1,0 +1,7 @@
+{
+  "name": "alphavantage",
+  "description": "Real-time financial market data: stocks, forex, crypto, commodities, and economic indicators",
+  "source_repo": "alphavantage/alpha_vantage_mcp",
+  "source_url": "https://github.com/alphavantage/alpha_vantage_mcp",
+  "install": "npx -y alpha_vantage_mcp"
+}

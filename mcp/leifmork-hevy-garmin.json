@@ -1,0 +1,7 @@
+{
+  "name": "leifmork-hevy-garmin",
+  "description": "Connects Garmin Connect and Hevy fitness data to provide AI-driven training analysis, recovery tracking, and progressive overload recommendations.",
+  "source_repo": "leifmork/hevy-garmin-mcp",
+  "source_url": "https://github.com/leifmork/hevy-garmin-mcp",
+  "install": "npx -y hevy-garmin-mcp"
+}

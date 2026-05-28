@@ -1,0 +1,7 @@
+{
+  "name": "nex-crm-nex",
+  "description": "Unified knowledge graph and memory layer for AI agents across tools and conversations.",
+  "source_repo": "nex-crm/nex-as-a-skill",
+  "source_url": "https://github.com/nex-crm/nex-as-a-skill",
+  "install": "# git clone --depth 1 https://github.com/nex-crm/nex-as-a-skill\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cookjohn-zotero",
+  "description": "Integrates with Zotero reference management software through a dual-component architecture to provide access to bibliographic data, abstracts, tags, notes, and attachments for academic research workflows and literature reviews.",
+  "source_repo": "cookjohn/zotero-mcp",
+  "source_url": "https://github.com/cookjohn/zotero-mcp",
+  "install": "npx -y zotero-mcp"
+}

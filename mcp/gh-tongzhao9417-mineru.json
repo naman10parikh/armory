@@ -1,0 +1,7 @@
+{
+  "name": "gh-tongzhao9417-mineru",
+  "description": "Document-to-Markdown conversion server wrapping MinerU API for PDFs, Word, PowerPoint, and images with OCR support.",
+  "source_repo": "tongzhao9417/mineru_mcp",
+  "source_url": "https://github.com/tongzhao9417/mineru_mcp",
+  "install": "npx -y mineru_mcp"
+}

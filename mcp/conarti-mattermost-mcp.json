@@ -1,0 +1,7 @@
+{
+  "name": "conarti-mattermost-mcp",
+  "description": "MCP server for Mattermost API. List channels, read/post messages, manage threads and reactions, monitor topics. Supports flexible configuration via CLI args, environment variables, or config files.",
+  "source_repo": "conarti/mattermost-mcp",
+  "source_url": "https://github.com/conarti/mattermost-mcp",
+  "install": "npx -y mattermost-mcp"
+}

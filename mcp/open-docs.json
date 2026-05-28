@@ -1,0 +1,7 @@
+{
+  "name": "open-docs",
+  "description": "Crawls and indexes technical documentation sites with multi-language support using jieba-wasm and Lunr.js for full-text search capabilities",
+  "source_repo": "askme765cs/open-docs-mcp",
+  "source_url": "https://github.com/askme765cs/open-docs-mcp",
+  "install": "npx -y open-docs-mcp"
+}

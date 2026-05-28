@@ -1,0 +1,7 @@
+{
+  "name": "lacausecrypto-belgium",
+  "description": "Belgian public data aggregator covering transport, statistics, open data, and geospatial services.",
+  "source_repo": "lacausecrypto/mcp-belgium",
+  "source_url": "https://github.com/lacausecrypto/mcp-belgium",
+  "install": "# git clone --depth 1 https://github.com/lacausecrypto/mcp-belgium\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "haseebkhalid1507-velocirag",
+  "description": "Lightning-fast RAG engine with four-layer retrieval fusion powered by ONNX Runtime for sub-200ms search without PyTorch.",
+  "source_repo": "haseebkhalid1507/velocirag",
+  "source_url": "https://github.com/haseebkhalid1507/velocirag",
+  "install": "# git clone --depth 1 https://github.com/haseebkhalid1507/velocirag\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "routine",
+  "description": "Integrates with Routine productivity application through WebSocket RPC communication to provide task management, calendar integration, document access, contact management, and user profile information for seamless productivity workflows.",
+  "source_repo": "routineco/mcp-server",
+  "source_url": "https://github.com/routineco/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/routineco/mcp-server\n# See source for mcpServers config block"
+}

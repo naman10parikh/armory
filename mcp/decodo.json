@@ -1,0 +1,7 @@
+{
+  "name": "decodo",
+  "description": "Professional web scraping with geo-targeting, anti-detection, and specialized tools for Google, Amazon, and Reddit",
+  "source_repo": "decodo/mcp-server",
+  "source_url": "https://github.com/decodo/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/decodo/mcp-server\n# See source for mcpServers config block"
+}

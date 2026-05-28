@@ -1,0 +1,7 @@
+{
+  "name": "rosetta-symmetry",
+  "description": "Generates symmetry definition files from protein structures for computational modeling of symmetric protein complexes, supporting non-crystallographic, crystallographic, and helical symmetries with customizable parameters.",
+  "source_repo": "vrtejus/mcp-rosetta",
+  "source_url": "https://github.com/vrtejus/mcp-rosetta",
+  "install": "# git clone --depth 1 https://github.com/vrtejus/mcp-rosetta\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "divoom-lan",
+  "description": "MCP server wrapping Divoom watchface LAN APIs to enable AI clients to control Divoom devices, manage watchfaces, and adjust display settings.",
+  "source_repo": "divoomdevelop/mcp-divoom-lan",
+  "source_url": "https://github.com/divoomdevelop/mcp-divoom-lan",
+  "install": "# git clone --depth 1 https://github.com/divoomdevelop/mcp-divoom-lan\n# See source for mcpServers config block"
+}

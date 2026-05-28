@@ -1,0 +1,7 @@
+{
+  "name": "salmanulfaris-sql",
+  "description": "MCP server for SQL database access supporting MySQL, PostgreSQL, and SQLite with granular read/write permissions.",
+  "source_repo": "salmanulfaris/sql-mcp",
+  "source_url": "https://github.com/salmanulfaris/sql-mcp",
+  "install": "npx -y sql-mcp"
+}

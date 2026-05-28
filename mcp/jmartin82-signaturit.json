@@ -1,0 +1,7 @@
+{
+  "name": "jmartin82-signaturit",
+  "description": "Integrates with Signaturit API to enable electronic signature management, including creation, tracking, and workflow automation for digital document signing processes.",
+  "source_repo": "jmartin82/signaturit-mcp",
+  "source_url": "https://github.com/jmartin82/signaturit-mcp",
+  "install": "npx -y signaturit-mcp"
+}

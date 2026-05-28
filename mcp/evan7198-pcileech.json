@@ -1,0 +1,7 @@
+{
+  "name": "evan7198-pcileech",
+  "description": "Direct memory access through PCILeech DMA hardware for debugging, reverse engineering, and security research",
+  "source_repo": "evan7198/mcp_server_pcileech",
+  "source_url": "https://github.com/evan7198/mcp_server_pcileech",
+  "install": "# git clone --depth 1 https://github.com/evan7198/mcp_server_pcileech\n# See source for mcpServers config block"
+}

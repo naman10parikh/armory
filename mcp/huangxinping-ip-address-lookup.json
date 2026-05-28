@@ -1,0 +1,7 @@
+{
+  "name": "huangxinping-ip-address-lookup",
+  "description": "Provides a simple API endpoint for retrieving the current machine's public IP address through ipify.org.",
+  "source_repo": "huangxinping/ip-mcp-server",
+  "source_url": "https://github.com/huangxinping/ip-mcp-server",
+  "install": "npx -y ip-mcp-server"
+}

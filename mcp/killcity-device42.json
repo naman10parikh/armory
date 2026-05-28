@@ -1,0 +1,7 @@
+{
+  "name": "killcity-device42",
+  "description": "Integrates with Device42's IT asset management platform to query and manage infrastructure data including devices, IP addresses, subnets, racks, rooms, buildings, VLANs, and software inventory.",
+  "source_repo": "killcity/device42-mcp",
+  "source_url": "https://github.com/killcity/device42-mcp",
+  "install": "npx -y device42-mcp"
+}

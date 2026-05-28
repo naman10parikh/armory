@@ -1,0 +1,7 @@
+{
+  "name": "beauticslab",
+  "description": "Search Korean cosmetics across major platforms with EWG ingredient safety analysis.",
+  "source_repo": "websfactory/beauticslab-mcp",
+  "source_url": "https://github.com/websfactory/beauticslab-mcp",
+  "install": "npx -y beauticslab-mcp"
+}

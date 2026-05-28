@@ -1,0 +1,7 @@
+{
+  "name": "maven-decoder-mcp-server",
+  "description": "A comprehensive MCP server for analyzing Maven jar files in the local repository, enabling AI agents to understand dependencies, analyze bytecode, and extract source code.",
+  "source_repo": "salitaba/maven-decoder-mcp",
+  "source_url": "https://github.com/salitaba/maven-decoder-mcp",
+  "install": "npx -y maven-decoder-mcp"
+}

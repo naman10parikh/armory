@@ -1,0 +1,7 @@
+{
+  "name": "codespar-rd-station",
+  "description": "Contact, event, funnel, and opportunity management via RD Station.",
+  "source_repo": "codespar/mcp-dev-latam",
+  "source_url": "https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/communication/rd-station",
+  "install": "# git clone --depth 1 https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/communication/rd-station\n# See source for mcpServers config block"
+}

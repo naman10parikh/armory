@@ -1,0 +1,7 @@
+{
+  "name": "edicarloslds-businessmap",
+  "description": "Integrates with BusinessMap's Kanban platform to enable complete project management operations including card creation, workflow tracking, custom fields, cycle time analysis, and user management across workspaces and boards.",
+  "source_repo": "edicarloslds/businessmap-mcp",
+  "source_url": "https://github.com/edicarloslds/businessmap-mcp",
+  "install": "npx -y businessmap-mcp"
+}

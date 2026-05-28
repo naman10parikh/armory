@@ -1,0 +1,7 @@
+{
+  "name": "myagentinbox",
+  "description": "Disposable email inboxes for AI agents with automatic 24-hour expiration.",
+  "source_repo": "",
+  "source_url": "https://myagentinbox.com/mcp",
+  "install": "# git clone --depth 1 https://myagentinbox.com/mcp\n# See source for mcpServers config block"
+}

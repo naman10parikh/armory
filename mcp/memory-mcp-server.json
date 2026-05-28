@@ -1,0 +1,7 @@
+{
+  "name": "memory-mcp-server",
+  "description": "Memory Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ta-tomschell/memory-mcp-server",
+  "source_url": "https://mcp.so/server/memory-mcp-server/ta-tomschell",
+  "install": "npx -y memory-mcp-server"
+}

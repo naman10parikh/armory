@@ -1,0 +1,7 @@
+{
+  "name": "qso-graph-pota",
+  "description": "Live activator spots, park info, activator/hunter stats, and scheduled activations.",
+  "source_repo": "qso-graph/pota-mcp",
+  "source_url": "https://github.com/qso-graph/pota-mcp",
+  "install": "npx -y pota-mcp"
+}

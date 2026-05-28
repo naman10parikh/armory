@@ -1,0 +1,7 @@
+{
+  "name": "huoshui-file-search",
+  "description": "Fast file search for macOS using native Spotlight indexing",
+  "source_repo": "huoshuiai42/huoshui-file-search",
+  "source_url": "https://github.com/huoshuiai42/huoshui-file-search",
+  "install": "# git clone --depth 1 https://github.com/huoshuiai42/huoshui-file-search\n# See source for mcpServers config block"
+}

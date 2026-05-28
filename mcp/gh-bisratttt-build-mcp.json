@@ -1,0 +1,7 @@
+{
+  "name": "gh-bisratttt-build-mcp",
+  "description": "Converts API specifications into production-ready MCP servers from OpenAPI, Swagger, Postman, HAR, and GraphQL formats.",
+  "source_repo": "bisratttt/build-mcp",
+  "source_url": "https://github.com/bisratttt/build-mcp",
+  "install": "npx -y build-mcp"
+}

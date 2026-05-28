@@ -1,0 +1,7 @@
+{
+  "name": "tariffsapi",
+  "description": "Provides live US tariff resolution, HTS code lookup, trade agreement data, and product search through official government sources.",
+  "source_repo": "",
+  "source_url": "https://tariffsapi.com/api-documentation#mcp-integration",
+  "install": "# git clone --depth 1 https://tariffsapi.com/api-documentation#mcp-integration\n# See source for mcpServers config block"
+}

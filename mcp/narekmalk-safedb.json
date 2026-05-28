@@ -1,0 +1,7 @@
+{
+  "name": "narekmalk-safedb",
+  "description": "Secure MCP server for AI agent database querying with read-only guardrails and PII masking.",
+  "source_repo": "narekmalk/safedb-mcp",
+  "source_url": "https://github.com/narekmalk/safedb-mcp",
+  "install": "npx -y safedb-mcp"
+}

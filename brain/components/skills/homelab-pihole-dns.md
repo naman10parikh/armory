@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Pi-hole installation, blocklist management, DNS-over-HTTPS setup, DHCP integration, local DNS records, and troubleshooting broken DNS resolution on a home network.

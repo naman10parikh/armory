@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-audio-interface",
+  "description": "Enables voice interaction with Claude through audio recording and playback capabilities, supporting customizable device selection and temporary file management for accessible spoken communication.",
+  "source_repo": "gongrzhe/audio-mcp-server",
+  "source_url": "https://github.com/gongrzhe/audio-mcp-server",
+  "install": "npx -y audio-mcp-server"
+}

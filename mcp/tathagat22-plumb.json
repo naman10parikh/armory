@@ -1,0 +1,7 @@
+{
+  "name": "tathagat22-plumb",
+  "description": "Figma-to-code MCP with no rate limits, no metered quotas, and a verification loop.",
+  "source_repo": "tathagat22/plumb-mcp",
+  "source_url": "https://github.com/tathagat22/plumb-mcp",
+  "install": "npx -y plumb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lyonzin-knowledge-rag",
+  "description": "Local knowledge retrieval system that combines semantic search with keyword-based routing for document analysis across security, development, and general knowledge domains using ChromaDB for vector storage and hybrid search through Reciprocal Rank Fusion.",
+  "source_repo": "lyonzin/knowledge-rag",
+  "source_url": "https://github.com/lyonzin/knowledge-rag",
+  "install": "# git clone --depth 1 https://github.com/lyonzin/knowledge-rag\n# See source for mcpServers config block"
+}

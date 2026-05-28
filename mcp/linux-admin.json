@@ -1,0 +1,7 @@
+{
+  "name": "linux-admin",
+  "description": "Performs read-only Linux system administration, diagnostics, and troubleshooting on RHEL-based systems via SSH.",
+  "source_repo": "rhel-lightspeed/linux-mcp-server",
+  "source_url": "https://github.com/rhel-lightspeed/linux-mcp-server",
+  "install": "npx -y linux-mcp-server"
+}

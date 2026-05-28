@@ -1,0 +1,7 @@
+{
+  "name": "gregm711-agent-domain-service-mcp",
+  "description": "AI-powered domain brainstorming, analysis, and availability checking via AgentDomainService.com. Generate creative domain names from descriptions, get AI scoring for brandability/memorability, and check real-time availability with pricing. No API keys required.",
+  "source_repo": "gregm711/agent-domain-service-mcp",
+  "source_url": "https://github.com/gregm711/agent-domain-service-mcp",
+  "install": "npx -y agent-domain-service-mcp"
+}

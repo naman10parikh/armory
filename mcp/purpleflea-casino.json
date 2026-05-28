@@ -1,0 +1,7 @@
+{
+  "name": "purpleflea-casino",
+  "description": "Provably fair AI agent casino with 21 games, Kelly criterion bankroll protection, and 0.5% house edge.",
+  "source_repo": "purple-flea/agent-casino",
+  "source_url": "https://github.com/purple-flea/agent-casino",
+  "install": "# git clone --depth 1 https://github.com/purple-flea/agent-casino\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seatgeek",
+  "description": "SeatGeek event and ticket search via a Pipeworx-hosted MCP endpoint.",
+  "source_repo": "pipeworx-io/mcp-seatgeek",
+  "source_url": "https://github.com/pipeworx-io/mcp-seatgeek",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-seatgeek\n# See source for mcpServers config block"
+}

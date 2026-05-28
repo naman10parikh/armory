@@ -1,0 +1,7 @@
+{
+  "name": "marshally-refactoring",
+  "description": "Access Martin Fowler's refactoring catalog with 71+ refactoring patterns",
+  "source_repo": "marshally/mcp-refactoring",
+  "source_url": "https://github.com/marshally/mcp-refactoring",
+  "install": "# git clone --depth 1 https://github.com/marshally/mcp-refactoring\n# See source for mcpServers config block"
+}

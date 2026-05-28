@@ -1,0 +1,7 @@
+{
+  "name": "funplay-mcp-for-unity",
+  "description": "This MCP server integrates AI assistants with Unity Editor, allowing them to create scenes, generate scripts, simulate input, and automate workflows using 91 built-in tools.",
+  "source_repo": "FunplayAI/funplay-unity-mcp",
+  "source_url": "https://github.com/FunplayAI/funplay-unity-mcp",
+  "install": "npx -y funplay-unity-mcp"
+}

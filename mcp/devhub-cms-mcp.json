@@ -1,0 +1,7 @@
+{
+  "name": "devhub-cms-mcp",
+  "description": "Devhub Cms Mcp MCP server listed on mcp.so.",
+  "source_repo": "devhub/devhub-cms-mcp",
+  "source_url": "https://mcp.so/server/devhub-cms-mcp/devhub",
+  "install": "npx -y devhub-cms-mcp"
+}

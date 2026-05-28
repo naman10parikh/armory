@@ -1,0 +1,7 @@
+{
+  "name": "achriom",
+  "description": "Personal media library for tracking books, movies, music, shows, and anime.",
+  "source_repo": "achriom/achriom-mcp",
+  "source_url": "https://github.com/achriom/achriom-mcp",
+  "install": "npx -y achriom-mcp"
+}

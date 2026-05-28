@@ -1,0 +1,7 @@
+{
+  "name": "calendly-mcp-server-2",
+  "description": "Enables interaction with Calendly's scheduling platform via MCP, allowing users to manage events, invitees, and schedule meetings directly using the Calendly API.",
+  "source_repo": "meAmitPatil/calendly-mcp-server",
+  "source_url": "https://github.com/meAmitPatil/calendly-mcp-server",
+  "install": "npx -y calendly-mcp-server"
+}

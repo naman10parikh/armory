@@ -1,0 +1,7 @@
+{
+  "name": "ultrastarz-x402-sms",
+  "description": "Sends transactional SMS to US phone numbers for $0.03 USDC per message using the x402 blockchain payment protocol.",
+  "source_repo": "ultrastarz/x402-sms-mcp",
+  "source_url": "https://github.com/ultrastarz/x402-sms-mcp",
+  "install": "npx -y x402-sms-mcp"
+}

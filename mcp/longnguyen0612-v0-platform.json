@@ -1,0 +1,7 @@
+{
+  "name": "longnguyen0612-v0-platform",
+  "description": "Generates multi-screen UI prototypes and manages incremental development workflows using Vercel's v0 model API.",
+  "source_repo": "longnguyen0612/v0-platform-mcp",
+  "source_url": "https://github.com/longnguyen0612/v0-platform-mcp",
+  "install": "npx -y v0-platform-mcp"
+}

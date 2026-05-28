@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, command, workflow]
+tags: [command, workflow]
 ---
 ## What it is
 Create comprehensive feature implementation plan with codebase analysis and pattern extraction

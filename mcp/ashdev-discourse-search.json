@@ -1,0 +1,7 @@
+{
+  "name": "ashdev-discourse-search",
+  "description": "Enables searching and retrieving content from Discourse forums through a single tool that queries posts using the discourse2 npm package.",
+  "source_repo": "ashdevfr/discourse-mcp-server",
+  "source_url": "https://github.com/ashdevfr/discourse-mcp-server",
+  "install": "npx -y discourse-mcp-server"
+}

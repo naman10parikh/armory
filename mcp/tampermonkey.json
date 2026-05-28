@@ -1,0 +1,7 @@
+{
+  "name": "tampermonkey",
+  "description": "Manage Tampermonkey userscripts from AI assistants — list, read, write, patch, and delete scripts via the Tampermonkey Editors extension.",
+  "source_repo": "tampermonkey/tampermonkey-mcp",
+  "source_url": "https://github.com/tampermonkey/tampermonkey-mcp",
+  "install": "npx -y tampermonkey-mcp"
+}

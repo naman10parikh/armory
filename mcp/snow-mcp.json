@@ -1,0 +1,7 @@
+{
+  "name": "snow-mcp",
+  "description": "A comprehensive MCP server for ServiceNow that provides over 60 pre-built tools for ITSM, ITOM, and App Dev operations, enabling AI agents to manage incidents, changes, users, service catalog, and projects through a unified interface.",
+  "source_repo": "ShunyaAI/snow-mcp",
+  "source_url": "https://github.com/ShunyaAI/snow-mcp",
+  "install": "npx -y snow-mcp"
+}

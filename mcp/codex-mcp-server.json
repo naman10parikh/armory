@@ -1,0 +1,7 @@
+{
+  "name": "codex-mcp-server",
+  "description": "MCP server for Codex CLI — tmux persistence, git worktree isolation, async dispatch.",
+  "source_repo": "shilong20/codexmcp",
+  "source_url": "https://github.com/shilong20/codexmcp",
+  "install": "# git clone --depth 1 https://github.com/shilong20/codexmcp\n# See source for mcpServers config block"
+}

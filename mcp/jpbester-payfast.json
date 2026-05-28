@@ -1,0 +1,7 @@
+{
+  "name": "jpbester-payfast",
+  "description": "Integrates with the PayFast South African payment gateway for transaction management and payment processing.",
+  "source_repo": "jpbester/payfast-mcp",
+  "source_url": "https://github.com/jpbester/payfast-mcp",
+  "install": "npx -y payfast-mcp"
+}

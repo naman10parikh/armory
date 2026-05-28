@@ -1,0 +1,7 @@
+{
+  "name": "eliasbiondo-linkedin",
+  "description": "Extracts LinkedIn profile data, company information, and job postings through browser automation with authenticated sessions and configurable section scraping.",
+  "source_repo": "eliasbiondo/linkedin-mcp-server",
+  "source_url": "https://github.com/eliasbiondo/linkedin-mcp-server",
+  "install": "npx -y linkedin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hlydecker-ucsc-genome-mcp",
+  "description": "MCP server to interact with the UCSC Genome Browser API, letting you find genomes, chromosomes, and more.",
+  "source_repo": "hlydecker/ucsc-genome-mcp",
+  "source_url": "https://github.com/hlydecker/ucsc-genome-mcp",
+  "install": "npx -y ucsc-genome-mcp"
+}

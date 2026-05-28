@@ -1,0 +1,7 @@
+{
+  "name": "zihaofu245-lmstudio-toolpack",
+  "description": "Provides web search with DuckDuckGo and concurrent page fetching, sandboxed Python execution with NumPy and SymPy for mathematical computations, and persistent markdown-based memory storage for long-term information recall across conversations.",
+  "source_repo": "zihaofu245/lmstudio-toolpack",
+  "source_url": "https://github.com/zihaofu245/lmstudio-toolpack",
+  "install": "# git clone --depth 1 https://github.com/zihaofu245/lmstudio-toolpack\n# See source for mcpServers config block"
+}

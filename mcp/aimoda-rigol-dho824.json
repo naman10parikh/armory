@@ -1,0 +1,7 @@
+{
+  "name": "aimoda-rigol-dho824",
+  "description": "Control and query Rigol DHO824 oscilloscope for waveform capture and measurements",
+  "source_repo": "aimoda/rigol-dho824-mcp",
+  "source_url": "https://github.com/aimoda/rigol-dho824-mcp",
+  "install": "npx -y rigol-dho824-mcp"
+}

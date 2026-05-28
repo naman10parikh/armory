@@ -1,0 +1,7 @@
+{
+  "name": "hosakakeigo-spreadsheet",
+  "description": "Integrates with Google Spreadsheets to enable retrieval and manipulation of spreadsheet data for analysis, reporting, and automated information management workflows.",
+  "source_repo": "hosakakeigo/spreadsheet-mcp-server",
+  "source_url": "https://github.com/hosakakeigo/spreadsheet-mcp-server",
+  "install": "npx -y spreadsheet-mcp-server"
+}

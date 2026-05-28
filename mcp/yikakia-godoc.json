@@ -1,0 +1,7 @@
+{
+  "name": "yikakia-godoc",
+  "description": "Enables Go developers to search for and retrieve detailed documentation from pkg.go.dev, including package information, constants, types, functions, and variables.",
+  "source_repo": "yikakia/godoc-mcp-server",
+  "source_url": "https://github.com/yikakia/godoc-mcp-server",
+  "install": "npx -y godoc-mcp-server"
+}

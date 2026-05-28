@@ -1,0 +1,7 @@
+{
+  "name": "dubin555-clickhouse",
+  "description": "Enables read-only ClickHouse database interactions for schema inspection and SQL query execution, returning results in JSON format for data analysis while preventing data modification operations.",
+  "source_repo": "dubin555/clickhouse_mcp_server",
+  "source_url": "https://github.com/dubin555/clickhouse_mcp_server",
+  "install": "npx -y clickhouse_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scraps-kitchen",
+  "description": "AI cooking companion MCP server for pantry management, meal suggestions, dietary safety, and recipe planning.",
+  "source_repo": "",
+  "source_url": "https://scraps.kitchen",
+  "install": "# git clone --depth 1 https://scraps.kitchen\n# See source for mcpServers config block"
+}

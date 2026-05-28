@@ -1,0 +1,7 @@
+{
+  "name": "shibui-finance",
+  "description": "Access 64 years of US stock market data including fundamentals, technicals, and backtesting for 5,200+ companies via natural language queries.",
+  "source_repo": "",
+  "source_url": "https://shibui.finance",
+  "install": "# git clone --depth 1 https://shibui.finance\n# See source for mcpServers config block"
+}

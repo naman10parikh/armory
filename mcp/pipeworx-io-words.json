@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-words",
+  "description": "Word finding and linguistic data via the Datamuse API — find words by meaning, rhymes, sounds-like, and contextual associations.",
+  "source_repo": "pipeworx-io/mcp-words",
+  "source_url": "https://github.com/pipeworx-io/mcp-words",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-words\n# See source for mcpServers config block"
+}

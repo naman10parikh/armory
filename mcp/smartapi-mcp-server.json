@@ -1,0 +1,7 @@
+{
+  "name": "smartapi-mcp-server",
+  "description": "Enables integration between MCP-compatible clients and APIs registered in the SmartAPI registry, allowing seamless discovery and interaction with bioinformatics and life sciences APIs through standardized MCP protocols.",
+  "source_repo": "biothings/smartapi-mcp",
+  "source_url": "https://github.com/biothings/smartapi-mcp",
+  "install": "npx -y smartapi-mcp"
+}

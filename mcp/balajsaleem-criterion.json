@@ -1,0 +1,7 @@
+{
+  "name": "balajsaleem-criterion",
+  "description": "Provides semantic search across Quran verses and authentic Hadiths for Islamic guidance.",
+  "source_repo": "balajsaleem/criterion",
+  "source_url": "https://github.com/balajsaleem/criterion",
+  "install": "# git clone --depth 1 https://github.com/balajsaleem/criterion\n# See source for mcpServers config block"
+}

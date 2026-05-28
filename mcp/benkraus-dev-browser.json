@@ -1,0 +1,7 @@
+{
+  "name": "benkraus-dev-browser",
+  "description": "Browser automation through Chrome DevTools Protocol with AI-friendly DOM snapshots, element targeting, and multi-tab management for web testing and automation workflows.",
+  "source_repo": "benkraus/dev-browser-mcp",
+  "source_url": "https://github.com/benkraus/dev-browser-mcp",
+  "install": "npx -y dev-browser-mcp"
+}

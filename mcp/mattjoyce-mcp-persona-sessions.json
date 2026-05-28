@@ -1,0 +1,7 @@
+{
+  "name": "mattjoyce-mcp-persona-sessions",
+  "description": "Enable AI assistants to conduct structured, persona-driven sessions including interview preparation, personal reflection, and coaching conversations. Built-in timer management and performance evaluation tools.",
+  "source_repo": "mattjoyce/mcp-persona-sessions",
+  "source_url": "https://github.com/mattjoyce/mcp-persona-sessions",
+  "install": "# git clone --depth 1 https://github.com/mattjoyce/mcp-persona-sessions\n# See source for mcpServers config block"
+}

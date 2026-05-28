@@ -1,0 +1,7 @@
+{
+  "name": "egorpavlikhin-roslyn-analyzer",
+  "description": "Provides C# code analysis capabilities by leveraging the Microsoft Roslyn compiler platform to validate syntax, find references, and run recommended code analyzers within .NET projects.",
+  "source_repo": "egorpavlikhin/roslyn-mcp",
+  "source_url": "https://github.com/egorpavlikhin/roslyn-mcp",
+  "install": "npx -y roslyn-mcp"
+}

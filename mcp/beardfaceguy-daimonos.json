@@ -1,0 +1,7 @@
+{
+  "name": "beardfaceguy-daimonos",
+  "description": "Agent-optimized OS layer replacing verbose tool outputs with compact JSON to reduce token consumption by up to 45%.",
+  "source_repo": "beardfaceguy/daimonos",
+  "source_url": "https://github.com/beardfaceguy/daimonos",
+  "install": "# git clone --depth 1 https://github.com/beardfaceguy/daimonos\n# See source for mcpServers config block"
+}

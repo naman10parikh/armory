@@ -1,0 +1,7 @@
+{
+  "name": "mehdig-dev-sql",
+  "description": "Secure SQL database connectivity for PostgreSQL, SQLite, and MySQL with read-only safety.",
+  "source_repo": "mehdig-dev/mcp-sql",
+  "source_url": "https://github.com/mehdig-dev/mcp-sql",
+  "install": "# git clone --depth 1 https://github.com/mehdig-dev/mcp-sql\n# See source for mcpServers config block"
+}

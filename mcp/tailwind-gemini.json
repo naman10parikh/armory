@@ -1,0 +1,7 @@
+{
+  "name": "tailwind-gemini",
+  "description": "Integrates with Tailwind CSS development workflows using Google Gemini to provide component generation, CSS-to-Tailwind conversion, design analysis, and complete project scaffolding with responsive layouts and accessibility features.",
+  "source_repo": "tai-dt/mcp-tailwind-gemini",
+  "source_url": "https://github.com/tai-dt/mcp-tailwind-gemini",
+  "install": "# git clone --depth 1 https://github.com/tai-dt/mcp-tailwind-gemini\n# See source for mcpServers config block"
+}

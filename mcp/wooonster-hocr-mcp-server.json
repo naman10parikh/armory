@@ -1,0 +1,7 @@
+{
+  "name": "wooonster-hocr-mcp-server",
+  "description": "A fastAPI-based FastMCP server with a Vue frontend that sends uploaded images to VLM via the MCP to quickly extract handwritten mathematical formulas as clean LaTeX code.",
+  "source_repo": "Wooonster/hocr_mcp_server",
+  "source_url": "https://github.com/Wooonster/hocr_mcp_server",
+  "install": "npx -y hocr_mcp_server"
+}

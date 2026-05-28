@@ -1,0 +1,7 @@
+{
+  "name": "dmarcdkim",
+  "description": "Validates DMARC, SPF, and DKIM configurations with DNS lookup, record checking, and SPF optimization tools for email authentication security.",
+  "source_repo": "",
+  "source_url": "https://dmarcdkim.com/solutions/dmarc-mcp-server",
+  "install": "# git clone --depth 1 https://dmarcdkim.com/solutions/dmarc-mcp-server\n# See source for mcpServers config block"
+}

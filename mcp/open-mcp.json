@@ -1,0 +1,7 @@
+{
+  "name": "open-mcp",
+  "description": "Open Mcp MCP server listed on mcp.so.",
+  "source_repo": "nicozumarraga/open-mcp",
+  "source_url": "https://mcp.so/server/open-mcp/nicozumarraga",
+  "install": "npx -y open-mcp"
+}

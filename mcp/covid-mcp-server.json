@@ -1,0 +1,7 @@
+{
+  "name": "covid-mcp-server",
+  "description": "Covid Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aarushkx/covid-mcp-server",
+  "source_url": "https://mcp.so/server/covid-mcp-server/aarushkx",
+  "install": "npx -y covid-mcp-server"
+}

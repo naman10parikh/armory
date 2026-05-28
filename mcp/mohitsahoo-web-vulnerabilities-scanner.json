@@ -1,0 +1,7 @@
+{
+  "name": "mohitsahoo-web-vulnerabilities-scanner",
+  "description": "AI-powered penetration testing with 30+ security tools and Groq LLM analysis for OWASP Top 10 coverage.",
+  "source_repo": "mohitsahoo/mcptoolforwebvulnerabilities-",
+  "source_url": "https://github.com/mohitsahoo/mcptoolforwebvulnerabilities-",
+  "install": "# git clone --depth 1 https://github.com/mohitsahoo/mcptoolforwebvulnerabilities-\n# See source for mcpServers config block"
+}

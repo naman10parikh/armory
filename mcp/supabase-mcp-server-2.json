@@ -1,0 +1,7 @@
+{
+  "name": "supabase-mcp-server-2",
+  "description": "Supabase Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Niell007/supabase-mcp-server",
+  "source_url": "https://mcp.so/server/supabase-mcp-server/Niell007",
+  "install": "npx -y supabase-mcp-server"
+}

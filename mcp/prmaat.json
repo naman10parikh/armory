@@ -1,0 +1,7 @@
+{
+  "name": "prmaat",
+  "description": "Bridges AI tools with PrMaat agent identity management for confirming identities, listing rooms, sending messages, and retrieving cryptographic audit proofs.",
+  "source_repo": "prmaat/mcp",
+  "source_url": "https://github.com/prmaat/mcp",
+  "install": "# git clone --depth 1 https://github.com/prmaat/mcp\n# See source for mcpServers config block"
+}

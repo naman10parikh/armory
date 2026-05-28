@@ -1,0 +1,7 @@
+{
+  "name": "adsb-lol-mcp-server",
+  "description": "Provides AI assistants with real-time aircraft tracking, FAA registration, and OpenSky flight data through the Model Context Protocol.",
+  "source_repo": "x86ed/adsb.lol-mcp",
+  "source_url": "https://github.com/x86ed/adsb.lol-mcp",
+  "install": "npx -y adsb.lol-mcp"
+}

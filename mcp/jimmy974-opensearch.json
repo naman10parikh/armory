@@ -1,0 +1,7 @@
+{
+  "name": "jimmy974-opensearch",
+  "description": "Integrates with OpenSearch databases to enable direct querying and data retrieval for log analysis, document retrieval, and structured data querying without leaving the conversation interface.",
+  "source_repo": "jimmy974/opensearch-mcp-server",
+  "source_url": "https://github.com/jimmy974/opensearch-mcp-server",
+  "install": "npx -y opensearch-mcp-server"
+}

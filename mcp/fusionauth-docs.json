@@ -1,0 +1,7 @@
+{
+  "name": "fusionauth-docs",
+  "description": "Authentication platform API access",
+  "source_repo": "",
+  "source_url": "https://ai.fusionauth.dev/mcp/docs",
+  "install": "# git clone --depth 1 https://ai.fusionauth.dev/mcp/docs\n# See source for mcpServers config block"
+}

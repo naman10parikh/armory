@@ -1,0 +1,7 @@
+{
+  "name": "sungminwoo0612-toolbartender",
+  "description": "Transforms goals into executable step-by-step plans.",
+  "source_repo": "sungminwoo0612/toolbartender-mcp",
+  "source_url": "https://github.com/sungminwoo0612/toolbartender-mcp",
+  "install": "npx -y toolbartender-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ykarapazar-word-live",
+  "description": "Live Microsoft Word document editing with tracked changes, undo, comments, and 40+ formatting tools.",
+  "source_repo": "ykarapazar/word-mcp-live",
+  "source_url": "https://github.com/ykarapazar/word-mcp-live",
+  "install": "# git clone --depth 1 https://github.com/ykarapazar/word-mcp-live\n# See source for mcpServers config block"
+}

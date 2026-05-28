@@ -1,0 +1,7 @@
+{
+  "name": "socialneuron",
+  "description": "Social media management suite with 52 tools for content creation, distribution, analysis, and optimization.",
+  "source_repo": "socialneuron/mcp-server",
+  "source_url": "https://github.com/socialneuron/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/socialneuron/mcp-server\n# See source for mcpServers config block"
+}

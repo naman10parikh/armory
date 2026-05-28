@@ -1,0 +1,7 @@
+{
+  "name": "mrgoonie-human-cli",
+  "description": "Multimodal CLI and MCP server for vision, image generation, text-to-speech, and reasoning via Google Gemini.",
+  "source_repo": "mrgoonie/human-cli",
+  "source_url": "https://github.com/mrgoonie/human-cli",
+  "install": "# git clone --depth 1 https://github.com/mrgoonie/human-cli\n# See source for mcpServers config block"
+}

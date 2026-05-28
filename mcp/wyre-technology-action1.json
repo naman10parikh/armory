@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-action1",
+  "description": "Action1 endpoint management server for querying device inventory, missing patches, and automation policies via AI assistants.",
+  "source_repo": "wyre-technology/action1-mcp",
+  "source_url": "https://github.com/wyre-technology/action1-mcp",
+  "install": "npx -y action1-mcp"
+}

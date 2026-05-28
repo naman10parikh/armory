@@ -1,0 +1,7 @@
+{
+  "name": "sandwich-directory",
+  "description": "Read-only eldercare resource directory with cost data, Medicare guidance, and care planning tools for the sandwich generation.",
+  "source_repo": "terahertz-inc/sandwich-public",
+  "source_url": "https://github.com/terahertz-inc/sandwich-public",
+  "install": "# git clone --depth 1 https://github.com/terahertz-inc/sandwich-public\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "env-mcp",
+  "description": "Secure environment variable and configuration management MCP server with Claude Code integration for storing, managing, and retrieving environment variables.",
+  "source_repo": "BuildAppolis/env-mcp",
+  "source_url": "https://github.com/BuildAppolis/env-mcp",
+  "install": "npx -y env-mcp"
+}

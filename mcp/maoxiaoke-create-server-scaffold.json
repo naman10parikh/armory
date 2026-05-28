@@ -1,0 +1,7 @@
+{
+  "name": "maoxiaoke-create-server-scaffold",
+  "description": "Streamlines MCP server creation with a structured development protocol and example templates, offering an npx-invokable tool for efficient setup of server scaffolds.",
+  "source_repo": "maoxiaoke/create-mcp-server",
+  "source_url": "https://github.com/maoxiaoke/create-mcp-server",
+  "install": "npx -y create-mcp-server"
+}

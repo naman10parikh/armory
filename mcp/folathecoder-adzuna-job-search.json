@@ -1,0 +1,7 @@
+{
+  "name": "folathecoder-adzuna-job-search",
+  "description": "Search jobs, analyze salaries, and research employers across 12 countries via the Adzuna API.",
+  "source_repo": "folathecoder/adzuna-job-search-mcp",
+  "source_url": "https://github.com/folathecoder/adzuna-job-search-mcp",
+  "install": "npx -y adzuna-job-search-mcp"
+}

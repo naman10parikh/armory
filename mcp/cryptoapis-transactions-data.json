@@ -1,0 +1,7 @@
+{
+  "name": "cryptoapis-transactions-data",
+  "description": "Transaction lookup across EVM, UTXO, Solana, XRP, and Kaspa blockchains via Crypto APIs.",
+  "source_repo": "cryptoapis-io/cryptoapis-mcp-transactions-data",
+  "source_url": "https://github.com/cryptoapis-io/cryptoapis-mcp-transactions-data",
+  "install": "# git clone --depth 1 https://github.com/cryptoapis-io/cryptoapis-mcp-transactions-data\n# See source for mcpServers config block"
+}

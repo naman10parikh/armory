@@ -1,0 +1,7 @@
+{
+  "name": "leonardoca1-aesthetics-wiki-mcp",
+  "description": "Search, read, and discover thousands of visual aesthetics (cottagecore, dark academia, y2k, goblincore, and many more) from the [Aesthetics Wiki](https://aesthetics.fandom.com). Great for moodboards, brand direction, and creative inspiration. `uvx aesthetics-wiki-mcp`",
+  "source_repo": "leonardoca1/aesthetics-wiki-mcp",
+  "source_url": "https://github.com/leonardoca1/aesthetics-wiki-mcp",
+  "install": "npx -y aesthetics-wiki-mcp"
+}

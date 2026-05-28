@@ -1,0 +1,7 @@
+{
+  "name": "vinayaktiwari1103-smallest-ai-knowledge-base",
+  "description": "Provides direct access to Smallest.ai knowledge base API for listing, creating, and retrieving knowledge bases without leaving the conversation context",
+  "source_repo": "vinayaktiwari1103/mcp-smallest-ai",
+  "source_url": "https://github.com/vinayaktiwari1103/mcp-smallest-ai",
+  "install": "# git clone --depth 1 https://github.com/vinayaktiwari1103/mcp-smallest-ai\n# See source for mcpServers config block"
+}

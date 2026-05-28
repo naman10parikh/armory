@@ -1,0 +1,7 @@
+{
+  "name": "d24yk4r4-bb",
+  "description": "Privacy-first bug bounty hunting toolkit providing recon, web testing, and vulnerability scanning tools with a sanitization layer.",
+  "source_repo": "d24yk4r4/bb-mcp-server",
+  "source_url": "https://github.com/d24yk4r4/bb-mcp-server",
+  "install": "npx -y bb-mcp-server"
+}

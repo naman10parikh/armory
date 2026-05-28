@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-iso-codes",
+  "description": "Looks up ISO country, language, currency, and script codes from the Debian iso-codes dataset.",
+  "source_repo": "pipeworx-io/mcp-iso-codes",
+  "source_url": "https://github.com/pipeworx-io/mcp-iso-codes",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-iso-codes\n# See source for mcpServers config block"
+}

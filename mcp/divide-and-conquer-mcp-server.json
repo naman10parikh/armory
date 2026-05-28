@@ -1,0 +1,7 @@
+{
+  "name": "divide-and-conquer-mcp-server",
+  "description": "Divide And Conquer Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "landicefu/divide-and-conquer-mcp-server",
+  "source_url": "https://mcp.so/server/divide-and-conquer-mcp-server/landicefu",
+  "install": "npx -y divide-and-conquer-mcp-server"
+}

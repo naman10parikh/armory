@@ -1,0 +1,7 @@
+{
+  "name": "a-bonus-google-docs",
+  "description": "Provides a bridge between Google Docs and AI tools for reading document content, appending text, and applying formatting to specific text within documents.",
+  "source_repo": "a-bonus/google-docs-mcp",
+  "source_url": "https://github.com/a-bonus/google-docs-mcp",
+  "install": "npx -y google-docs-mcp"
+}

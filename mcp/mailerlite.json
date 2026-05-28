@@ -1,0 +1,7 @@
+{
+  "name": "mailerlite",
+  "description": "Turn AI tools into your email marketing assistant.",
+  "source_repo": "",
+  "source_url": "https://developers.mailerlite.com/mcp/",
+  "install": "# git clone --depth 1 https://developers.mailerlite.com/mcp/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "heisencodex-jpg-github-repo-intel",
+  "description": "GitHub repository intelligence for AI coding agents: overview, PRs, contributors, hot files, CI status, and dependencies.",
+  "source_repo": "heisencodex-jpg/github-repo-intel-mcp",
+  "source_url": "https://github.com/heisencodex-jpg/github-repo-intel-mcp",
+  "install": "npx -y github-repo-intel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fencith-openviking",
+  "description": "Provides semantic search, document reading, and content retrieval through OpenViking's context database for managing knowledge bases.",
+  "source_repo": "fencith/openviking-mcp",
+  "source_url": "https://github.com/fencith/openviking-mcp",
+  "install": "npx -y openviking-mcp"
+}

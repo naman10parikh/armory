@@ -1,0 +1,7 @@
+{
+  "name": "lishengyang-yiyi-yiui-unity",
+  "description": "AI-driven Unity Editor automation with CLI-first workflows and compilation control.",
+  "source_repo": "lishengyang-yiyi/yiui-unitymcp",
+  "source_url": "https://github.com/lishengyang-yiyi/yiui-unitymcp",
+  "install": "# git clone --depth 1 https://github.com/lishengyang-yiyi/yiui-unitymcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thebatashev-document-generator",
+  "description": "Generates professional DOCX and PDF documents with styled paragraphs, structured tables, and customizable formatting through both immediate creation and incremental session-based building workflows.",
+  "source_repo": "thebatashev/mcp-documents",
+  "source_url": "https://github.com/thebatashev/mcp-documents",
+  "install": "# git clone --depth 1 https://github.com/thebatashev/mcp-documents\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-agentforce",
+  "description": "Provides a bridge to Salesforce's Agentforce API, enabling authentication, session management, and message exchange with Salesforce agents for accessing customer data and domain-specific knowledge.",
+  "source_repo": "xlengelle-sf/agentforce-mcp-xlengelle",
+  "source_url": "https://github.com/xlengelle-sf/agentforce-mcp-xlengelle",
+  "install": "# git clone --depth 1 https://github.com/xlengelle-sf/agentforce-mcp-xlengelle\n# See source for mcpServers config block"
+}

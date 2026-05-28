@@ -1,0 +1,7 @@
+{
+  "name": "reminder-mcp",
+  "description": "Enables scheduling and triggering reminders delivered via Slack or Telegram through natural language, using an external cron service to ensure delivery even when the server is offline.",
+  "source_repo": "arifszn/reminder-mcp",
+  "source_url": "https://github.com/arifszn/reminder-mcp",
+  "install": "npx -y reminder-mcp"
+}

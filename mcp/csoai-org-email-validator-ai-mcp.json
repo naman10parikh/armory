@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-email-validator-ai-mcp",
+  "description": "Tools for validating email addresses, checking formats, and verifying deliverability.",
+  "source_repo": "csoai-org/email-validator-ai-mcp",
+  "source_url": "https://github.com/csoai-org/email-validator-ai-mcp",
+  "install": "npx -y email-validator-ai-mcp"
+}

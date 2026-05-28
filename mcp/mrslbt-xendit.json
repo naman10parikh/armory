@@ -1,0 +1,7 @@
+{
+  "name": "mrslbt-xendit",
+  "description": "Access Xendit payment APIs for invoices, disbursements, and balance management.",
+  "source_repo": "mrslbt/xendit-mcp",
+  "source_url": "https://github.com/mrslbt/xendit-mcp",
+  "install": "npx -y xendit-mcp"
+}

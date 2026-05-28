@@ -1,0 +1,7 @@
+{
+  "name": "azure-java-sdk-assist",
+  "description": "Fetches Azure Java SDK documentation and code examples from Maven Central repositories, automatically retrieving the latest version metadata and README files for any Azure SDK package to provide quick access to usage examples and API documentation.",
+  "source_repo": "weidongxu-microsoft/mcp-azure-java-sdk-assist",
+  "source_url": "https://github.com/weidongxu-microsoft/mcp-azure-java-sdk-assist",
+  "install": "# git clone --depth 1 https://github.com/weidongxu-microsoft/mcp-azure-java-sdk-assist\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xplo8e-hacktricks",
+  "description": "Search and query HackTricks pentesting documentation with quick lookup and section extraction.",
+  "source_repo": "xplo8e/hacktricks-mcp-server",
+  "source_url": "https://github.com/xplo8e/hacktricks-mcp-server",
+  "install": "npx -y hacktricks-mcp-server"
+}

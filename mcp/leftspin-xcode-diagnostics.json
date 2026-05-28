@@ -1,0 +1,7 @@
+{
+  "name": "leftspin-xcode-diagnostics",
+  "description": "Extracts and parses Xcode build errors and warnings from DerivedData logs, providing structured diagnostic information with file paths, line numbers, error messages, and fix-it suggestions for Swift projects.",
+  "source_repo": "leftspin/mcp-xcode-diagnostics",
+  "source_url": "https://github.com/leftspin/mcp-xcode-diagnostics",
+  "install": "# git clone --depth 1 https://github.com/leftspin/mcp-xcode-diagnostics\n# See source for mcpServers config block"
+}

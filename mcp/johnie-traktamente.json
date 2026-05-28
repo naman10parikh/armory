@@ -1,0 +1,7 @@
+{
+  "name": "johnie-traktamente",
+  "description": "Swedish travel expense rates from Skatteverket for per diem calculations and tax compliance",
+  "source_repo": "johnie/traktamente-mcp",
+  "source_url": "https://github.com/johnie/traktamente-mcp",
+  "install": "npx -y traktamente-mcp"
+}

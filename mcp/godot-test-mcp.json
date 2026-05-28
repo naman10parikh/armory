@@ -1,0 +1,7 @@
+{
+  "name": "godot-test-mcp",
+  "description": "MCP server for automated Godot 4 game testing. Enables launching games, capturing errors, and verifying changes from Claude Code or any MCP client.",
+  "source_repo": "hyunlord/Godot-Test-MCP",
+  "source_url": "https://github.com/hyunlord/Godot-Test-MCP",
+  "install": "npx -y Godot-Test-MCP"
+}

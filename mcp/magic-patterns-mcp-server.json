@@ -1,0 +1,7 @@
+{
+  "name": "magic-patterns-mcp-server",
+  "description": "Enables AI assistants to generate UI components and web interfaces from natural language descriptions using the Magic Patterns API.",
+  "source_repo": "ryanleecode/magic-patterns-mcp",
+  "source_url": "https://github.com/ryanleecode/magic-patterns-mcp",
+  "install": "npx -y magic-patterns-mcp"
+}

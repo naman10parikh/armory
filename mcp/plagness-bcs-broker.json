@@ -1,0 +1,7 @@
+{
+  "name": "plagness-bcs-broker",
+  "description": "Integrates with BCS Broker to provide real-time market data streaming, portfolio management, algorithmic trading with 20+ technical indicators, risk management tools, and semantic trade analysis for comprehensive trading platform automation.",
+  "source_repo": "plagness/bcs-mcp",
+  "source_url": "https://github.com/plagness/bcs-mcp",
+  "install": "npx -y bcs-mcp"
+}

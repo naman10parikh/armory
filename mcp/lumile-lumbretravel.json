@@ -1,0 +1,7 @@
+{
+  "name": "lumile-lumbretravel",
+  "description": "Integrates with the Argentinian LumbreTravel API to manage travel programs, activities, and bookings for efficient itinerary planning and service coordination.",
+  "source_repo": "lumile/lumbretravel-mcp",
+  "source_url": "https://github.com/lumile/lumbretravel-mcp",
+  "install": "npx -y lumbretravel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "indigo-protocol",
+  "description": "Exposes Indigo Protocol iAsset prices, CDP analytics, stability pool data, staking positions, governance, and DEX operations on the Cardano blockchain.",
+  "source_repo": "indigoprotocol/indigo-mcp",
+  "source_url": "https://github.com/indigoprotocol/indigo-mcp",
+  "install": "npx -y indigo-mcp"
+}

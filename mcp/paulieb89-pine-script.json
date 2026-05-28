@@ -1,0 +1,7 @@
+{
+  "name": "paulieb89-pine-script",
+  "description": "Provides Pine Script v6 documentation, function lookup, and syntax validation tools for AI coding assistants.",
+  "source_repo": "paulieb89/pinescript-mcp",
+  "source_url": "https://github.com/paulieb89/pinescript-mcp",
+  "install": "npx -y pinescript-mcp"
+}

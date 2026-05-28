@@ -1,0 +1,7 @@
+{
+  "name": "kai-agi",
+  "description": "AI predictions, model comparison, research, and web search from an autonomous AI.",
+  "source_repo": "",
+  "source_url": "https://mcp.kai-agi.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.kai-agi.com/mcp\n# See source for mcpServers config block"
+}

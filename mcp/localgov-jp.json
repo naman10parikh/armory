@@ -1,0 +1,7 @@
+{
+  "name": "localgov-jp",
+  "description": "Japan's comprehensive municipal subsidy database covering 20,000+ grants across 1,627 municipalities not available through the official J-Grants API.",
+  "source_repo": "localgov-jp/localgov-mcp-server",
+  "source_url": "https://github.com/localgov-jp/localgov-mcp-server",
+  "install": "npx -y localgov-mcp-server"
+}

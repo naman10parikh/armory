@@ -1,0 +1,7 @@
+{
+  "name": "olyport-census-acs",
+  "description": "U.S. Census American Community Survey demographic and socioeconomic data.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/census/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/census/mcp\n# See source for mcpServers config block"
+}

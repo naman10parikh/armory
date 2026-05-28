@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-sourcemap-retrace",
+  "description": "Decodes minified production stack traces back to original TypeScript source using source maps.",
+  "source_repo": "vola-trebla/sourcemap-retrace-mcp",
+  "source_url": "https://github.com/vola-trebla/sourcemap-retrace-mcp",
+  "install": "npx -y sourcemap-retrace-mcp"
+}

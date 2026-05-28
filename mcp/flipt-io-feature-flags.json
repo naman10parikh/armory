@@ -1,0 +1,7 @@
+{
+  "name": "flipt-io-feature-flags",
+  "description": "Integrates with Flipt feature flag management to enable listing, creating, updating, and deleting namespaces, flags, segments, and rules for controlling feature rollouts with constraints, variants, and distributions.",
+  "source_repo": "flipt-io/mcp-server-flipt",
+  "source_url": "https://github.com/flipt-io/mcp-server-flipt",
+  "install": "# git clone --depth 1 https://github.com/flipt-io/mcp-server-flipt\n# See source for mcpServers config block"
+}

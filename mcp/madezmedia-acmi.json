@@ -1,0 +1,7 @@
+{
+  "name": "madezmedia-acmi",
+  "description": "Persistent agent memory with Profile, Signals, and Timeline layers backed by Upstash Redis.",
+  "source_repo": "madezmedia/acmi",
+  "source_url": "https://github.com/madezmedia/acmi",
+  "install": "# git clone --depth 1 https://github.com/madezmedia/acmi\n# See source for mcpServers config block"
+}

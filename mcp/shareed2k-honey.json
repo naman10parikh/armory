@@ -1,0 +1,7 @@
+{
+  "name": "shareed2k-honey",
+  "description": "Search service instances across GCP, AWS, Kubernetes, Consul, and Proxmox.",
+  "source_repo": "shareed2k/honey",
+  "source_url": "https://github.com/shareed2k/honey",
+  "install": "# git clone --depth 1 https://github.com/shareed2k/honey\n# See source for mcpServers config block"
+}

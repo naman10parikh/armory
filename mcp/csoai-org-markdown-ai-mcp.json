@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-markdown-ai-mcp",
+  "description": "Python MCP server for Markdown document processing and conversion.",
+  "source_repo": "csoai-org/markdown-ai-mcp",
+  "source_url": "https://github.com/csoai-org/markdown-ai-mcp",
+  "install": "npx -y markdown-ai-mcp"
+}

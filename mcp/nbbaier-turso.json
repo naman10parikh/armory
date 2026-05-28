@@ -1,0 +1,7 @@
+{
+  "name": "nbbaier-turso",
+  "description": "Connects to Turso-hosted LibSQL databases, enabling direct SQL query execution against cloud-based SQLite databases for data analysis, content management, and application development workflows.",
+  "source_repo": "nbbaier/mcp-turso",
+  "source_url": "https://github.com/nbbaier/mcp-turso",
+  "install": "# git clone --depth 1 https://github.com/nbbaier/mcp-turso\n# See source for mcpServers config block"
+}

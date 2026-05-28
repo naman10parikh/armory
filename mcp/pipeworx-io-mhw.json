@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-mhw",
+  "description": "Query Monster Hunter World game data including monsters, weapons, armor, and items.",
+  "source_repo": "pipeworx-io/mcp-mhw",
+  "source_url": "https://github.com/pipeworx-io/mcp-mhw",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-mhw\n# See source for mcpServers config block"
+}

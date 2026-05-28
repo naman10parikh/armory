@@ -1,0 +1,7 @@
+{
+  "name": "tehreemarbab-jazzcash",
+  "description": "MCP server for JazzCash mobile payment integration, enabling AI agents to charge wallets, create payment checkouts, inquire transactions, and process refunds.",
+  "source_repo": "tehreemarbab/jazzcashmcp",
+  "source_url": "https://github.com/tehreemarbab/jazzcashmcp",
+  "install": "# git clone --depth 1 https://github.com/tehreemarbab/jazzcashmcp\n# See source for mcpServers config block"
+}

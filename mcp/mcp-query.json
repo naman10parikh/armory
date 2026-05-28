@@ -1,0 +1,7 @@
+{
+  "name": "mcp-query",
+  "description": "A local MCP server for secure database querying from Claude Code, with Apple Keychain credential storage, permission-based access control, and audit logging.",
+  "source_repo": "ottimis/mcp-query",
+  "source_url": "https://github.com/ottimis/mcp-query",
+  "install": "# git clone --depth 1 https://github.com/ottimis/mcp-query\n# See source for mcpServers config block"
+}

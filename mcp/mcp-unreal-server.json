@@ -1,0 +1,7 @@
+{
+  "name": "mcp-unreal-server",
+  "description": "MCP Unreal Server MCP server listed on mcp.so.",
+  "source_repo": "radial-hks/MCP-Unreal-Server",
+  "source_url": "https://mcp.so/server/MCP-Unreal-Server/radial-hks",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Unreal-Server/radial-hks\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "takleb3rry-zitadel-mcp",
+  "description": "MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language.",
+  "source_repo": "takleb3rry/zitadel-mcp",
+  "source_url": "https://github.com/takleb3rry/zitadel-mcp",
+  "install": "npx -y zitadel-mcp"
+}

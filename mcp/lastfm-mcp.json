@@ -1,0 +1,7 @@
+{
+  "name": "lastfm-mcp",
+  "description": "A Model Context Protocol (MCP) server for Last.fm. Gives AI assistants access to your listening history, music discovery, and detailed track/artist/album information.",
+  "source_repo": "rianvdm/lastfm-mcp",
+  "source_url": "https://github.com/rianvdm/lastfm-mcp",
+  "install": "npx -y lastfm-mcp"
+}

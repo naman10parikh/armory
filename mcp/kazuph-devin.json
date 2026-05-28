@@ -1,0 +1,7 @@
+{
+  "name": "kazuph-devin",
+  "description": "Integrates with Slack to enable seamless team collaboration through automated session management, thread context preservation, and channel-based conversations",
+  "source_repo": "kazuph/mcp-devin",
+  "source_url": "https://github.com/kazuph/mcp-devin",
+  "install": "# git clone --depth 1 https://github.com/kazuph/mcp-devin\n# See source for mcpServers config block"
+}

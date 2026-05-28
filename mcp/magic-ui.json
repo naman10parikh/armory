@@ -1,0 +1,7 @@
+{
+  "name": "magic-ui",
+  "description": "Fetches and categorizes Magic UI components from GitHub, providing a standardized way for developers to discover and integrate pre-built UI elements with local caching and automatic categorization.",
+  "source_repo": "idcdev/mcp-magic-ui",
+  "source_url": "https://github.com/idcdev/mcp-magic-ui",
+  "install": "# git clone --depth 1 https://github.com/idcdev/mcp-magic-ui\n# See source for mcpServers config block"
+}

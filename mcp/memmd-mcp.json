@@ -1,0 +1,7 @@
+{
+  "name": "memmd-mcp",
+  "description": "A shared memory layer for AI agents — one memory.md synced across Claude Desktop, Cursor, Claude Code, OpenAI Codex, and any MCP client.",
+  "source_repo": "matamong/memmd-mcp",
+  "source_url": "https://github.com/matamong/memmd-mcp",
+  "install": "npx -y memmd-mcp"
+}

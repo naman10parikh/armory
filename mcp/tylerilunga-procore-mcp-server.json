@@ -1,0 +1,7 @@
+{
+  "name": "tylerilunga-procore-mcp-server",
+  "description": "MCP server exposing the full Procore REST API (2,636 endpoints) for construction project management. Includes 7 discovery and execution tools covering projects, RFIs, submittals, daily logs, budgets, and more. Single-user OAuth with auto-refresh.",
+  "source_repo": "TylerIlunga/procore-mcp-server",
+  "source_url": "https://github.com/TylerIlunga/procore-mcp-server",
+  "install": "npx -y procore-mcp-server"
+}

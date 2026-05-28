@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-budget-planner-ai-mcp",
+  "description": "AI-assisted budget planning and financial forecasting tools.",
+  "source_repo": "csoai-org/budget-planner-ai-mcp",
+  "source_url": "https://github.com/csoai-org/budget-planner-ai-mcp",
+  "install": "npx -y budget-planner-ai-mcp"
+}

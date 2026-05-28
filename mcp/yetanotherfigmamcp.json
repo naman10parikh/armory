@@ -1,0 +1,7 @@
+{
+  "name": "yetanotherfigmamcp",
+  "description": "Caches Figma file data locally and provides an MCP server for AI agents to search and retrieve design nodes efficiently, minimizing API calls.",
+  "source_repo": "yk-lab/yet-another-figma-mcp",
+  "source_url": "https://github.com/yk-lab/yet-another-figma-mcp",
+  "install": "npx -y yet-another-figma-mcp"
+}

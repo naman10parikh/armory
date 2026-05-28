@@ -1,0 +1,7 @@
+{
+  "name": "vapi",
+  "description": "Integrates with Vapi's AI voice calling platform to manage voice assistants, phone numbers, and outbound calls with scheduling support through eight core tools for automating voice workflows and building conversational agents.",
+  "source_repo": "vapiai/mcp-server",
+  "source_url": "https://github.com/vapiai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/vapiai/mcp-server\n# See source for mcpServers config block"
+}

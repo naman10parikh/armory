@@ -1,0 +1,7 @@
+{
+  "name": "aberemia24-code-executor",
+  "description": "Secure sandboxed TypeScript/Python execution with Docker isolation and token-efficient wrapper generation",
+  "source_repo": "aberemia24/code-executor-mcp",
+  "source_url": "https://github.com/aberemia24/code-executor-mcp",
+  "install": "npx -y code-executor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-calendar-assistant",
+  "description": "Provides a set of MCP tools to manage Google Calendar events via natural language, allowing creation, querying, updating, and deletion of events through a local LLM (Ollama) and MCP client.",
+  "source_repo": "othmane-zizi-pro/ai-calendar-assistant",
+  "source_url": "https://github.com/othmane-zizi-pro/ai-calendar-assistant",
+  "install": "# git clone --depth 1 https://github.com/othmane-zizi-pro/ai-calendar-assistant\n# See source for mcpServers config block"
+}

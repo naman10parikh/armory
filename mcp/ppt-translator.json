@@ -1,0 +1,7 @@
+{
+  "name": "ppt-translator",
+  "description": "Translates PowerPoint presentations using Amazon Bedrock models while preserving formatting, layouts, and styles, supporting selective slide translation and batch processing for efficient multilingual document conversion.",
+  "source_repo": "daekeun-ml/ppt-translator",
+  "source_url": "https://github.com/daekeun-ml/ppt-translator",
+  "install": "# git clone --depth 1 https://github.com/daekeun-ml/ppt-translator\n# See source for mcpServers config block"
+}

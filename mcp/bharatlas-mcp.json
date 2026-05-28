@@ -1,0 +1,7 @@
+{
+  "name": "bharatlas-mcp",
+  "description": "Description: Query India's open geo data in natural language. 8 tools: list layers, inspect schemas, filter/group any column, point-in-polygon locate, spatial proximity search, downloads in 5 formats. Covers admin boundaries (state to village), city wards, forests, rivers, dams, hospitals, highways,",
+  "source_repo": "urbanmorph/geodata",
+  "source_url": "https://github.com/urbanmorph/geodata",
+  "install": "# git clone --depth 1 https://github.com/urbanmorph/geodata\n# See source for mcpServers config block"
+}

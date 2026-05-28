@@ -1,0 +1,7 @@
+{
+  "name": "capacities-mcp-worker",
+  "description": "A Cloudflare Worker that wraps the Capacities API as a remote MCP server, enabling Claude on any device to interact with your Capacities knowledge base.",
+  "source_repo": "tieubao/capacities-mcp-worker",
+  "source_url": "https://github.com/tieubao/capacities-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/tieubao/capacities-mcp-worker\n# See source for mcpServers config block"
+}

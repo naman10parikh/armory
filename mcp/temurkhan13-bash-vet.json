@@ -1,0 +1,7 @@
+{
+  "name": "temurkhan13-bash-vet",
+  "description": "Validates LLM-generated shell commands against 24 destructive-pattern rules across 8 risk families before execution.",
+  "source_repo": "temurkhan13/bash-vet-mcp",
+  "source_url": "https://github.com/temurkhan13/bash-vet-mcp",
+  "install": "npx -y bash-vet-mcp"
+}

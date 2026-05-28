@@ -1,0 +1,7 @@
+{
+  "name": "jpazvd-unicefstats",
+  "description": "Queries UNICEF child development statistics across 790+ indicators and 200+ countries via SDMX.",
+  "source_repo": "jpazvd/unicefstats-mcp",
+  "source_url": "https://github.com/jpazvd/unicefstats-mcp",
+  "install": "npx -y unicefstats-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rklugsederoeaw-kulturpool-austria",
+  "description": "Search Austrian cultural heritage collections via the Kulturpool API",
+  "source_repo": "rklugsederoeaw/kulturpool_mcp_server",
+  "source_url": "https://github.com/rklugsederoeaw/kulturpool_mcp_server",
+  "install": "npx -y kulturpool_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "singapore-lta-datamall-mcp-server-2",
+  "description": "Access real-time public transit information including bus arrivals, train service alerts, and station crowding levels in Singapore. Check live parking availability and monitor expressway travel times or traffic incidents for smoother commutes. Plan journeys more effectively using forecasted crowd le",
+  "source_repo": "",
+  "source_url": "https://techmavie.digital/mcp-ltadatamallsg",
+  "install": "# git clone --depth 1 https://techmavie.digital/mcp-ltadatamallsg\n# See source for mcpServers config block"
+}

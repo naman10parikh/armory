@@ -1,0 +1,7 @@
+{
+  "name": "erodenn-godot-mcp-runtime",
+  "description": "MCP server for Godot 4.x with runtime control via injected UDP bridge: input simulation, screenshots, UI discovery, and live GDScript execution while the game is running.",
+  "source_repo": "Erodenn/godot-mcp-runtime",
+  "source_url": "https://github.com/Erodenn/godot-mcp-runtime",
+  "install": "# git clone --depth 1 https://github.com/Erodenn/godot-mcp-runtime\n# See source for mcpServers config block"
+}

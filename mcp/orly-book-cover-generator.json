@@ -1,0 +1,7 @@
+{
+  "name": "orly-book-cover-generator",
+  "description": "Generates parody O'Reilly-style book covers with customizable titles, subtitles, authors, and visual themes using 40 different animal/object images and 17 color schemes.",
+  "source_repo": "princefishthrower/orly-mcp",
+  "source_url": "https://github.com/princefishthrower/orly-mcp",
+  "install": "npx -y orly-mcp"
+}

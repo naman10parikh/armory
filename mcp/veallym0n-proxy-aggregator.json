@@ -1,0 +1,7 @@
+{
+  "name": "veallym0n-proxy-aggregator",
+  "description": "Python-based proxy server that aggregates multiple MCP-compatible services into a unified endpoint, enabling dynamic tool discovery and execution through a web UI and JSON-RPC communication.",
+  "source_repo": "veallym0n/mcpez",
+  "source_url": "https://github.com/veallym0n/mcpez",
+  "install": "# git clone --depth 1 https://github.com/veallym0n/mcpez\n# See source for mcpServers config block"
+}

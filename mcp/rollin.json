@@ -1,0 +1,7 @@
+{
+  "name": "rollin",
+  "description": "Wheelchair accessibility scores for US restaurants, cafes, and bars via the Rollin API.",
+  "source_repo": "davidsirota/rollin-mcp-server",
+  "source_url": "https://github.com/davidsirota/rollin-mcp-server",
+  "install": "npx -y rollin-mcp-server"
+}

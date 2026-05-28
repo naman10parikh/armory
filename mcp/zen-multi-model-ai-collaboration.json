@@ -1,0 +1,7 @@
+{
+  "name": "zen-multi-model-ai-collaboration",
+  "description": "Enables multi-model collaboration by coordinating conversations between Claude, Gemini, OpenAI, and X.AI models through specialized tools for code analysis, debugging, consensus building, and cross-model validation workflows.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/zen-multi-model-ai-collaboration",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/zen-multi-model-ai-collaboration\n# See source for mcpServers config block"
+}

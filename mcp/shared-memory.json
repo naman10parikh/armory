@@ -1,0 +1,7 @@
+{
+  "name": "shared-memory",
+  "description": "Persistent shared memory for AI agents with a knowledge graph backend.",
+  "source_repo": "sharedmemoryai/mcp-server",
+  "source_url": "https://github.com/sharedmemoryai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sharedmemoryai/mcp-server\n# See source for mcpServers config block"
+}

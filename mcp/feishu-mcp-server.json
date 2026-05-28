@@ -1,0 +1,7 @@
+{
+  "name": "feishu-mcp-server",
+  "description": "Feishu_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "Chenzhi-Ana/feishu_mcp_server",
+  "source_url": "https://mcp.so/server/feishu_mcp_server/Chenzhi-Ana",
+  "install": "npx -y feishu_mcp_server"
+}

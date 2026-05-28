@@ -1,0 +1,7 @@
+{
+  "name": "ai-canvas-mcp-server",
+  "description": "Enables AI assistants to inspect, modify, export, and validate design documents with 47 tools covering design, code generation, branding, and print/mockup workflows.",
+  "source_repo": "laoluojuhai/ai-canvas",
+  "source_url": "https://github.com/laoluojuhai/ai-canvas",
+  "install": "# git clone --depth 1 https://github.com/laoluojuhai/ai-canvas\n# See source for mcpServers config block"
+}

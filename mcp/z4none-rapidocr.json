@@ -1,0 +1,7 @@
+{
+  "name": "z4none-rapidocr",
+  "description": "Extracts text from images using RapidOCR library through base64-encoded data or file paths for automated document processing workflows.",
+  "source_repo": "z4none/rapidocr-mcp",
+  "source_url": "https://github.com/z4none/rapidocr-mcp",
+  "install": "npx -y rapidocr-mcp"
+}

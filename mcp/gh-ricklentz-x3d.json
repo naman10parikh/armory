@@ -1,0 +1,7 @@
+{
+  "name": "gh-ricklentz-x3d",
+  "description": "Generate, validate, and convert ISO-standard X3D (Extensible 3D) content with full scene graph control.",
+  "source_repo": "ricklentz/x3d_mcp",
+  "source_url": "https://github.com/ricklentz/x3d_mcp",
+  "install": "npx -y x3d_mcp"
+}

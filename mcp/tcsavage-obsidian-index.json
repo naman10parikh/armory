@@ -1,0 +1,7 @@
+{
+  "name": "tcsavage-obsidian-index",
+  "description": "Integrates Obsidian vaults with semantic search capabilities, enabling context-aware retrieval of personal knowledge.",
+  "source_repo": "tcsavage/mcp-obsidian-index",
+  "source_url": "https://github.com/tcsavage/mcp-obsidian-index",
+  "install": "# git clone --depth 1 https://github.com/tcsavage/mcp-obsidian-index\n# See source for mcpServers config block"
+}

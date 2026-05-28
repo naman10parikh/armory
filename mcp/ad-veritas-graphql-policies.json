@@ -1,0 +1,7 @@
+{
+  "name": "ad-veritas-graphql-policies",
+  "description": "Integrates with a TrueRAG GraphQL API to provide state-specific policy information for legal compliance checks, analysis, and regulatory guidance.",
+  "source_repo": "ad-veritas/mcp-server-truerag",
+  "source_url": "https://github.com/ad-veritas/mcp-server-truerag",
+  "install": "# git clone --depth 1 https://github.com/ad-veritas/mcp-server-truerag\n# See source for mcpServers config block"
+}

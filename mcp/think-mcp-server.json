@@ -1,0 +1,7 @@
+{
+  "name": "think-mcp-server",
+  "description": "Think Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "beverm2391/think-mcp-server",
+  "source_url": "https://mcp.so/server/think-mcp-server/beverm2391",
+  "install": "npx -y think-mcp-server"
+}

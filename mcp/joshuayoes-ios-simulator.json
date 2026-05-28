@@ -1,0 +1,7 @@
+{
+  "name": "joshuayoes-ios-simulator",
+  "description": "Enables Claude to control iOS simulators for testing and debugging applications by providing tools for UI interaction, element inspection, and device information retrieval through Facebook's IDB tool.",
+  "source_repo": "joshuayoes/ios-simulator-mcp",
+  "source_url": "https://github.com/joshuayoes/ios-simulator-mcp",
+  "install": "npx -y ios-simulator-mcp"
+}

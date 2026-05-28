@@ -1,0 +1,7 @@
+{
+  "name": "data-wallet-verification",
+  "description": "Discover supported verification scopes and the claims they provide. Initiate and monitor data wallet verification flows to securely receive redacted wallet data. Clean up completed sessions to keep workflows organized.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/ThierryThevenet/talao",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/ThierryThevenet/talao\n# See source for mcpServers config block"
+}

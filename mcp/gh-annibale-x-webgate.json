@@ -1,0 +1,7 @@
+{
+  "name": "gh-annibale-x-webgate",
+  "description": "Provides clean, bounded web search and page retrieval that strips HTML noise, caps token usage, and optionally summarizes results through a secondary LLM.",
+  "source_repo": "x-hannibal/mcp-webgate",
+  "source_url": "https://github.com/x-hannibal/mcp-webgate",
+  "install": "# git clone --depth 1 https://github.com/x-hannibal/mcp-webgate\n# See source for mcpServers config block"
+}

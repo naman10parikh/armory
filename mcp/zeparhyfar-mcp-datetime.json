@@ -1,0 +1,7 @@
+{
+  "name": "zeparhyfar-mcp-datetime",
+  "description": "Provides flexible, timezone-aware date and time formatting across various locales.",
+  "source_repo": "zeparhyfar/mcp-datetime",
+  "source_url": "https://github.com/zeparhyfar/mcp-datetime",
+  "install": "# git clone --depth 1 https://github.com/zeparhyfar/mcp-datetime\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wirdes-database-explorer",
+  "description": "Provides a unified interface for exploring and managing PostgreSQL, MySQL, and Firestore databases through specialized commands for listing tables, viewing triggers, executing SQL queries, and exporting schemas or data.",
+  "source_repo": "wirdes/db-mcp-tool",
+  "source_url": "https://github.com/wirdes/db-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/wirdes/db-mcp-tool\n# See source for mcpServers config block"
+}

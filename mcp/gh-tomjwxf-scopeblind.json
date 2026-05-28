@@ -1,0 +1,7 @@
+{
+  "name": "gh-tomjwxf-scopeblind",
+  "description": "Scan, protect, and monitor APIs from AI coding tools with device-level rate limiting.",
+  "source_repo": "tomjwxf/scopeblind-gateway",
+  "source_url": "https://github.com/tomjwxf/scopeblind-gateway",
+  "install": "# git clone --depth 1 https://github.com/tomjwxf/scopeblind-gateway\n# See source for mcpServers config block"
+}

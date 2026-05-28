@@ -1,0 +1,7 @@
+{
+  "name": "grahamrowe82-pt-edge",
+  "description": "AI project intelligence MCP server. Tracks 300+ open-source AI projects across GitHub, PyPI, npm, HuggingFace, Docker Hub, and Hacker News. 47 MCP tools for discovery, comparison, trend analysis, and semantic search across AI repos, HuggingFace models/datasets, and public APIs.",
+  "source_repo": "grahamrowe82/pt-edge",
+  "source_url": "https://github.com/grahamrowe82/pt-edge",
+  "install": "# git clone --depth 1 https://github.com/grahamrowe82/pt-edge\n# See source for mcpServers config block"
+}

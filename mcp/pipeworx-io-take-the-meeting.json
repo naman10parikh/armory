@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-take-the-meeting",
+  "description": "Meeting value assessor that evaluates whether a meeting is worth attending, heavily weighted toward declining.",
+  "source_repo": "pipeworx-io/mcp-take-the-meeting",
+  "source_url": "https://github.com/pipeworx-io/mcp-take-the-meeting",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-take-the-meeting\n# See source for mcpServers config block"
+}

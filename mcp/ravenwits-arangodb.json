@@ -1,0 +1,7 @@
+{
+  "name": "ravenwits-arangodb",
+  "description": "Integrates with ArangoDB to enable querying, insertion, updating, and deletion of documents using parameterized AQL queries for flexible data management and analysis.",
+  "source_repo": "ravenwits/mcp-server-arangodb",
+  "source_url": "https://github.com/ravenwits/mcp-server-arangodb",
+  "install": "# git clone --depth 1 https://github.com/ravenwits/mcp-server-arangodb\n# See source for mcpServers config block"
+}

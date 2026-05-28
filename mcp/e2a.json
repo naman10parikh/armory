@@ -1,0 +1,7 @@
+{
+  "name": "e2a",
+  "description": "Authenticated email gateway for AI agents with per-agent inboxes, human-in-the-loop approval, and SPF/DKIM verification.",
+  "source_repo": "mnexa-ai/e2a",
+  "source_url": "https://github.com/mnexa-ai/e2a",
+  "install": "# git clone --depth 1 https://github.com/mnexa-ai/e2a\n# See source for mcpServers config block"
+}

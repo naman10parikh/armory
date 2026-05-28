@@ -1,0 +1,7 @@
+{
+  "name": "termux-browser-pilot",
+  "description": "Real browser automation for Termux/Android. Runs Firefox or Chromium on Xvfb on your phone with a persistent daemon for sub-second commands.",
+  "source_repo": "salviz/termux-browser-pilot",
+  "source_url": "https://github.com/salviz/termux-browser-pilot",
+  "install": "# git clone --depth 1 https://github.com/salviz/termux-browser-pilot\n# See source for mcpServers config block"
+}

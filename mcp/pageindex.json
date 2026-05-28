@@ -1,0 +1,7 @@
+{
+  "name": "pageindex",
+  "description": "Reasoning-based RAG system for analyzing long PDF documents",
+  "source_repo": "vectifyai/pageindex-mcp",
+  "source_url": "https://github.com/vectifyai/pageindex-mcp",
+  "install": "npx -y pageindex-mcp"
+}

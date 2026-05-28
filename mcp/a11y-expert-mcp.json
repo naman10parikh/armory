@@ -1,0 +1,7 @@
+{
+  "name": "a11y-expert-mcp",
+  "description": "An accessibility expert MCP server that provides AI coding assistants with real-time access to WAI-ARIA patterns, code review, contrast checking, and WCAG guidance for writing accessible code from the start.",
+  "source_repo": "Elizabeth1979/a11y-expert-mcp",
+  "source_url": "https://github.com/Elizabeth1979/a11y-expert-mcp",
+  "install": "npx -y a11y-expert-mcp"
+}

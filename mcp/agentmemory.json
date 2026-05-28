@@ -1,0 +1,7 @@
+{
+  "name": "agentmemory",
+  "description": "Persistent memory for AI coding agents with hybrid retrieval, analytics, and governance controls.",
+  "source_repo": "",
+  "source_url": "https://agentmemory.space",
+  "install": "# git clone --depth 1 https://agentmemory.space\n# See source for mcpServers config block"
+}

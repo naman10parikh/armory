@@ -1,0 +1,7 @@
+{
+  "name": "coderxcode-forger",
+  "description": "Converts existing applications into MCP servers by analyzing OpenAPI specs, GitHub repos, live URLs, or raw code.",
+  "source_repo": "coderxcode/mcp-forger",
+  "source_url": "https://github.com/coderxcode/mcp-forger",
+  "install": "# git clone --depth 1 https://github.com/coderxcode/mcp-forger\n# See source for mcpServers config block"
+}

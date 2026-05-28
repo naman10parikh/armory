@@ -1,0 +1,7 @@
+{
+  "name": "thesingularityreview",
+  "description": "AI-focused review platform",
+  "source_repo": "DevRickLin/TheSingularityReview",
+  "source_url": "https://github.com/DevRickLin/TheSingularityReview",
+  "install": "# git clone --depth 1 https://github.com/DevRickLin/TheSingularityReview\n# See source for mcpServers config block"
+}

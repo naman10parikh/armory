@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-fitness-ai-mcp",
+  "description": "AI tools for creating workout plans, tracking fitness progress, and nutrition guidance.",
+  "source_repo": "csoai-org/fitness-ai-mcp",
+  "source_url": "https://github.com/csoai-org/fitness-ai-mcp",
+  "install": "npx -y fitness-ai-mcp"
+}

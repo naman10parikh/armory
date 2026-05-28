@@ -1,0 +1,7 @@
+{
+  "name": "sivan22-jewish-library",
+  "description": "Integrates Jewish texts using Tantivy search engine to provide insights, answer questions, and analyze themes from religious Jewish literature.",
+  "source_repo": "sivan22/mcp-otzaria-server",
+  "source_url": "https://github.com/sivan22/mcp-otzaria-server",
+  "install": "# git clone --depth 1 https://github.com/sivan22/mcp-otzaria-server\n# See source for mcpServers config block"
+}

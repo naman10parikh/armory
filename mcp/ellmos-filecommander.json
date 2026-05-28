@@ -1,0 +1,7 @@
+{
+  "name": "ellmos-filecommander",
+  "description": "Filesystem, process management, sessions, search, OCR, ZIP, and PDF export tools.",
+  "source_repo": "ellmos-ai/ellmos-filecommander-mcp",
+  "source_url": "https://github.com/ellmos-ai/ellmos-filecommander-mcp",
+  "install": "npx -y ellmos-filecommander-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fctolabs-flight-search",
+  "description": "Integrates with multiple flight data APIs to provide real-time flight search, price discovery across flexible date ranges, comprehensive travel reference data, and direct booking URLs for travel planning applications.",
+  "source_repo": "",
+  "source_url": "https://flights.fctolabs.com/",
+  "install": "# git clone --depth 1 https://flights.fctolabs.com/\n# See source for mcpServers config block"
+}

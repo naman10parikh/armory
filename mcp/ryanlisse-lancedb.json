@@ -1,0 +1,7 @@
+{
+  "name": "ryanlisse-lancedb",
+  "description": "Integrates with LanceDB vector database to enable efficient storage, retrieval, and similarity search of vector embeddings with associated metadata for semantic search and recommendation systems.",
+  "source_repo": "ryanlisse/lancedb_mcp",
+  "source_url": "https://github.com/ryanlisse/lancedb_mcp",
+  "install": "npx -y lancedb_mcp"
+}

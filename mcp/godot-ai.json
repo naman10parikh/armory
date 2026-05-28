@@ -1,0 +1,7 @@
+{
+  "name": "godot-ai",
+  "description": "Connects MCP clients directly to a live Godot editor, enabling AI assistants to build scenes, edit nodes, and control the editor through over 120 operations.",
+  "source_repo": "hi-godot/godot-ai",
+  "source_url": "https://github.com/hi-godot/godot-ai",
+  "install": "# git clone --depth 1 https://github.com/hi-godot/godot-ai\n# See source for mcpServers config block"
+}

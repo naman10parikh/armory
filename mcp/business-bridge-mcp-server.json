@@ -1,0 +1,7 @@
+{
+  "name": "business-bridge-mcp-server",
+  "description": "Enables AI agents to connect and interact with common business platforms like Shopify, WordPress, and Calendly via pre-built connectors for tasks such as product management, content operations, and scheduling.",
+  "source_repo": "AiAgentKarl/business-bridge-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/business-bridge-mcp-server",
+  "install": "npx -y business-bridge-mcp-server"
+}

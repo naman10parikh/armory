@@ -1,0 +1,7 @@
+{
+  "name": "codespar-vtex",
+  "description": "E-commerce management for orders, products, inventory, and shipping via the VTEX API.",
+  "source_repo": "codespar/mcp-dev-latam",
+  "source_url": "https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/ecommerce/vtex",
+  "install": "# git clone --depth 1 https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/ecommerce/vtex\n# See source for mcpServers config block"
+}

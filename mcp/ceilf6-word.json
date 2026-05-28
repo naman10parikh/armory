@@ -1,0 +1,7 @@
+{
+  "name": "ceilf6-word",
+  "description": "Comprehensive CRUD operations and document manipulation for Microsoft Word files with table management, formatting controls, and merge capabilities.",
+  "source_repo": "ceilf6/word-mcp-agent",
+  "source_url": "https://github.com/ceilf6/word-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/ceilf6/word-mcp-agent\n# See source for mcpServers config block"
+}

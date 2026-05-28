@@ -1,0 +1,7 @@
+{
+  "name": "anomalyarmor",
+  "description": "MCP server for AnomalyArmor data observability — monitor data quality, detect schema drift, and manage alerts from your AI assistant.",
+  "source_repo": "anomalyarmor/agents",
+  "source_url": "https://github.com/anomalyarmor/agents",
+  "install": "# git clone --depth 1 https://github.com/anomalyarmor/agents\n# See source for mcpServers config block"
+}

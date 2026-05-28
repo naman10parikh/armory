@@ -1,0 +1,7 @@
+{
+  "name": "dawncr0w-affine",
+  "description": "Integrates with AFFiNE workspaces through GraphQL and WebSocket connections to enable document operations, real-time collaboration, version control, user management, and blob storage with CRDT-based updates and workspace creation capabilities.",
+  "source_repo": "dawncr0w/affine-mcp-server",
+  "source_url": "https://github.com/dawncr0w/affine-mcp-server",
+  "install": "npx -y affine-mcp-server"
+}

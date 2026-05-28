@@ -1,0 +1,7 @@
+{
+  "name": "pete0-xyz-notion",
+  "description": "Integrates with Notion to enable database and page operations, content management, and collaborative workflows.",
+  "source_repo": "pete0-xyz/notion-mcp",
+  "source_url": "https://github.com/pete0-xyz/notion-mcp",
+  "install": "npx -y notion-mcp"
+}

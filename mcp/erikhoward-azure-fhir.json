@@ -1,0 +1,7 @@
+{
+  "name": "erikhoward-azure-fhir",
+  "description": "Provides secure access to Azure Health Data Services FHIR servers, enabling authenticated retrieval and search of healthcare resources across 70+ resource types for medical applications requiring standards-compliant patient data access.",
+  "source_repo": "erikhoward/azure-fhir-mcp-server",
+  "source_url": "https://github.com/erikhoward/azure-fhir-mcp-server",
+  "install": "npx -y azure-fhir-mcp-server"
+}

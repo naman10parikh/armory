@@ -1,0 +1,7 @@
+{
+  "name": "rudraptpsingh-figbridge",
+  "description": "Local MCP bridge for Figma — exports HTML, CSS, Tailwind, tokens, and agent handoff bundles.",
+  "source_repo": "rudraptpsingh/figbridge",
+  "source_url": "https://github.com/rudraptpsingh/figbridge",
+  "install": "# git clone --depth 1 https://github.com/rudraptpsingh/figbridge\n# See source for mcpServers config block"
+}

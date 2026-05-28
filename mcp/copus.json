@@ -1,0 +1,7 @@
+{
+  "name": "copus",
+  "description": "Search human-curated content recommendations from Copus - The Internet Treasure Map.",
+  "source_repo": "copus-io/copus-mcp-server",
+  "source_url": "https://github.com/copus-io/copus-mcp-server",
+  "install": "npx -y copus-mcp-server"
+}

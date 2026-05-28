@@ -1,0 +1,7 @@
+{
+  "name": "proxi666-ros2",
+  "description": "Native ROS 2 MCP server for AI-assisted robot development with tools for graph introspection, robot control, camera capture, and Nav2 navigation integration.",
+  "source_repo": "proxi666/amazing-ros2-mcp",
+  "source_url": "https://github.com/proxi666/amazing-ros2-mcp",
+  "install": "npx -y amazing-ros2-mcp"
+}

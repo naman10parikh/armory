@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-mpp",
+  "description": "Dual-rail 402 payment MCP server supporting x402 and MPP Tempo protocols.",
+  "source_repo": "srotzin/hive-mcp-mpp",
+  "source_url": "https://github.com/srotzin/hive-mcp-mpp",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-mpp\n# See source for mcpServers config block"
+}

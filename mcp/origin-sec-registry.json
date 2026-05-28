@@ -1,0 +1,7 @@
+{
+  "name": "origin-sec-registry",
+  "description": "AI-readable registry of 8,000+ US public companies with verified SEC EDGAR filing data and cryptographic provenance.",
+  "source_repo": "skswave/origin-sec-registry",
+  "source_url": "https://github.com/skswave/origin-sec-registry",
+  "install": "# git clone --depth 1 https://github.com/skswave/origin-sec-registry\n# See source for mcpServers config block"
+}

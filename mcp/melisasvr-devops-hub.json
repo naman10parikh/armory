@@ -1,0 +1,7 @@
+{
+  "name": "melisasvr-devops-hub",
+  "description": "Integrate GitHub issue management, Kubernetes pod logs, Prometheus metrics, and Groq AI incident analysis into a single MCP interface.",
+  "source_repo": "melisasvr/devops-mcp-hub",
+  "source_url": "https://github.com/melisasvr/devops-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/melisasvr/devops-mcp-hub\n# See source for mcpServers config block"
+}

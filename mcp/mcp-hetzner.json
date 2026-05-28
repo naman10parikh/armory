@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hetzner",
+  "description": "Enables conversational management of Hetzner Cloud, DNS, and Storage Box infrastructure through 137 MCP tools for CRUD operations and actions like server power control, DNS zone management, and storage box snapshots.",
+  "source_repo": "ginkelsoft-development/mcp-hetzner",
+  "source_url": "https://github.com/ginkelsoft-development/mcp-hetzner",
+  "install": "# git clone --depth 1 https://github.com/ginkelsoft-development/mcp-hetzner\n# See source for mcpServers config block"
+}

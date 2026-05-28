@@ -1,0 +1,7 @@
+{
+  "name": "gemini-2-5-flash-image",
+  "description": "Integrates with Google Gemini 2.5 Flash to provide text-to-image generation, image editing, composition, and style transfer capabilities with support for base64 and file path inputs.",
+  "source_repo": "nanameru/gemini-2.5-flash-image-mcp",
+  "source_url": "https://github.com/nanameru/gemini-2.5-flash-image-mcp",
+  "install": "npx -y gemini-2.5-flash-image-mcp"
+}

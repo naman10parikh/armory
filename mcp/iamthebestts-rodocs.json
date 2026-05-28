@@ -1,0 +1,7 @@
+{
+  "name": "iamthebestts-rodocs",
+  "description": "Search Roblox Creator Hub API references and development guides.",
+  "source_repo": "iamthebestts/rodocs-mcp",
+  "source_url": "https://github.com/iamthebestts/rodocs-mcp",
+  "install": "npx -y rodocs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "magicuidesign",
+  "description": "Provides structured access to Magic UI's component library for generating accurate code suggestions with proper installation instructions for implementing visually appealing UI elements in web applications.",
+  "source_repo": "magicuidesign/mcp",
+  "source_url": "https://github.com/magicuidesign/mcp",
+  "install": "# git clone --depth 1 https://github.com/magicuidesign/mcp\n# See source for mcpServers config block"
+}

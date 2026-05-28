@@ -1,0 +1,7 @@
+{
+  "name": "sealjay-mcp-hey",
+  "description": "Local MCP server for Hey.com email. Read, search, send, reply, and manage the screener via locally cached session from Hey's webview auth.",
+  "source_repo": "Sealjay/mcp-hey",
+  "source_url": "https://github.com/Sealjay/mcp-hey",
+  "install": "# git clone --depth 1 https://github.com/Sealjay/mcp-hey\n# See source for mcpServers config block"
+}

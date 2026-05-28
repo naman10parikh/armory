@@ -1,0 +1,7 @@
+{
+  "name": "slanycukr-bugbounty",
+  "description": "Provides specialized bug bounty hunting tools for reconnaissance, vulnerability discovery, and security testing with automated workflows, OSINT gathering, and file upload testing using integrated tools like Nuclei, SQLMap, and Subfinder.",
+  "source_repo": "slanycukr/bugbounty-mcp-server",
+  "source_url": "https://github.com/slanycukr/bugbounty-mcp-server",
+  "install": "npx -y bugbounty-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mqttx-mcp-sse-server",
+  "description": "Mqttx Mcp Sse Server MCP server listed on mcp.so.",
+  "source_repo": "ysfscream/mqttx-mcp-sse-server",
+  "source_url": "https://mcp.so/server/mqttx-mcp-sse-server/ysfscream",
+  "install": "# git clone --depth 1 https://mcp.so/server/mqttx-mcp-sse-server/ysfscream\n# See source for mcpServers config block"
+}

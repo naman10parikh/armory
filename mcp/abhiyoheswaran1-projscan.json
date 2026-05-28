@@ -1,0 +1,7 @@
+{
+  "name": "abhiyoheswaran1-projscan",
+  "description": "Agent-first code intelligence using AST parsing across seven languages with 20 analysis tools, running offline.",
+  "source_repo": "abhiyoheswaran1/projscan",
+  "source_url": "https://github.com/abhiyoheswaran1/projscan",
+  "install": "# git clone --depth 1 https://github.com/abhiyoheswaran1/projscan\n# See source for mcpServers config block"
+}

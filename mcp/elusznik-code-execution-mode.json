@@ -1,0 +1,7 @@
+{
+  "name": "elusznik-code-execution-mode",
+  "description": "Execute Python in isolated containers while bridging access to other MCP servers through auto-discovered proxies",
+  "source_repo": "elusznik/mcp-server-code-execution-mode",
+  "source_url": "https://github.com/elusznik/mcp-server-code-execution-mode",
+  "install": "# git clone --depth 1 https://github.com/elusznik/mcp-server-code-execution-mode\n# See source for mcpServers config block"
+}

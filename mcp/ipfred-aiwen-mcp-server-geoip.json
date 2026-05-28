@@ -1,0 +1,7 @@
+{
+  "name": "ipfred-aiwen-mcp-server-geoip",
+  "description": "MCP Server for the Aiwen IP Location, Get user network IP location, get IP details (country, province, city, lat, lon, ISP, owner, etc.)",
+  "source_repo": "ipfred/aiwen-mcp-server-geoip",
+  "source_url": "https://github.com/ipfred/aiwen-mcp-server-geoip",
+  "install": "# git clone --depth 1 https://github.com/ipfred/aiwen-mcp-server-geoip\n# See source for mcpServers config block"
+}

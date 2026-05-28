@@ -1,0 +1,7 @@
+{
+  "name": "owayo-src-tree",
+  "description": "Generates source code directory trees using Python and pathspec for flexible path matching, enabling code analysis and project structure visualization.",
+  "source_repo": "owayo/mcp-src-tree",
+  "source_url": "https://github.com/owayo/mcp-src-tree",
+  "install": "# git clone --depth 1 https://github.com/owayo/mcp-src-tree\n# See source for mcpServers config block"
+}

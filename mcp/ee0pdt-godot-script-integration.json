@@ -1,0 +1,7 @@
+{
+  "name": "ee0pdt-godot-script-integration",
+  "description": "Integrates with Godot to enable AI interaction with scripts, supporting features like reading, listing, and updating script information for enhanced game development workflows.",
+  "source_repo": "ee0pdt/godot-mcp",
+  "source_url": "https://github.com/ee0pdt/godot-mcp",
+  "install": "npx -y godot-mcp"
+}

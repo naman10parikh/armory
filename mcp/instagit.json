@@ -1,0 +1,7 @@
+{
+  "name": "instagit",
+  "description": "Provides AI-powered Git repository analysis, giving coding agents precise, source-cited insights into any public GitHub repository.",
+  "source_repo": "instalabsai/instagit",
+  "source_url": "https://github.com/instalabsai/instagit",
+  "install": "# git clone --depth 1 https://github.com/instalabsai/instagit\n# See source for mcpServers config block"
+}

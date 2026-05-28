@@ -1,0 +1,7 @@
+{
+  "name": "ktx",
+  "description": "ktx is an MCP server that provides agents with accurate warehouse querying by serving a self-improving context layer of approved metrics, joinable columns, and business knowledge through CLI and MCP tools.",
+  "source_repo": "Kaelio/ktx",
+  "source_url": "https://github.com/Kaelio/ktx",
+  "install": "# git clone --depth 1 https://github.com/Kaelio/ktx\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arcadeai-blueprint",
+  "description": "Generates technical diagrams from text descriptions using image generation with asynchronous job management",
+  "source_repo": "arcadeai/blueprint-mcp",
+  "source_url": "https://github.com/arcadeai/blueprint-mcp",
+  "install": "npx -y blueprint-mcp"
+}

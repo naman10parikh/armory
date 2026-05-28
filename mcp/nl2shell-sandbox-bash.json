@@ -1,0 +1,7 @@
+{
+  "name": "nl2shell-sandbox-bash",
+  "description": "Executes bash commands in sandboxed Docker containers with network isolation, capability dropping, and command blocklisting.",
+  "source_repo": "nl2shell/sandbox-bash-mcp",
+  "source_url": "https://github.com/nl2shell/sandbox-bash-mcp",
+  "install": "npx -y sandbox-bash-mcp"
+}

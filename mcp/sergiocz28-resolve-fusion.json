@@ -1,0 +1,7 @@
+{
+  "name": "sergiocz28-resolve-fusion",
+  "description": "Control DaVinci Resolve's Fusion page for node-based compositing via a TCP socket bridge.",
+  "source_repo": "sergiocz28/resolve-fusion-mcp",
+  "source_url": "https://github.com/sergiocz28/resolve-fusion-mcp",
+  "install": "npx -y resolve-fusion-mcp"
+}

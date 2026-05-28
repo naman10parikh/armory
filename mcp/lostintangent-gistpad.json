@@ -1,0 +1,7 @@
+{
+  "name": "lostintangent-gistpad",
+  "description": "Transforms GitHub Gists into a personal knowledge management system with specialized handling for daily notes, reusable prompts with frontmatter support, and comprehensive gist operations including creation, updating, archiving, and commenting for version-controlled knowledge storage.",
+  "source_repo": "lostintangent/gistpad-mcp",
+  "source_url": "https://github.com/lostintangent/gistpad-mcp",
+  "install": "npx -y gistpad-mcp"
+}

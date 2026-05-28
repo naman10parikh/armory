@@ -1,0 +1,7 @@
+{
+  "name": "snailbrainx-speaker-diarization",
+  "description": "Real-time speaker diarization with automatic enrollment, transcription, and speaker tracking for multi-party conversations",
+  "source_repo": "snailbrainx/speaker-diarization-server",
+  "source_url": "https://github.com/snailbrainx/speaker-diarization-server",
+  "install": "# git clone --depth 1 https://github.com/snailbrainx/speaker-diarization-server\n# See source for mcpServers config block"
+}

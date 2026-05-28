@@ -1,0 +1,7 @@
+{
+  "name": "suwi-lanji-filamentphp",
+  "description": "MCP server providing AI assistants with real-time access to FilamentPHP v5 documentation via TF-IDF semantic search.",
+  "source_repo": "suwi-lanji/filamentphp-mcp",
+  "source_url": "https://github.com/suwi-lanji/filamentphp-mcp",
+  "install": "npx -y filamentphp-mcp"
+}

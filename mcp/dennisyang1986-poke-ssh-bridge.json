@@ -1,0 +1,7 @@
+{
+  "name": "dennisyang1986-poke-ssh-bridge",
+  "description": "MCP server bridging AI agents to remote servers via SSH using FastMCP.",
+  "source_repo": "dennisyang1986/poke-ssh-bridge-mcp",
+  "source_url": "https://github.com/dennisyang1986/poke-ssh-bridge-mcp",
+  "install": "npx -y poke-ssh-bridge-mcp"
+}

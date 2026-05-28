@@ -1,0 +1,7 @@
+{
+  "name": "opentabs-dev-opentabs",
+  "description": "Plugin-based MCP server + Chrome extension that gives AI agents access to web applications through the user's authenticated browser session. 100+ plugins with a plugin SDK for building new ones.",
+  "source_repo": "opentabs-dev/opentabs",
+  "source_url": "https://github.com/opentabs-dev/opentabs",
+  "install": "# git clone --depth 1 https://github.com/opentabs-dev/opentabs\n# See source for mcpServers config block"
+}

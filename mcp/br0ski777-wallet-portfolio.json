@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-wallet-portfolio",
+  "description": "Fetch crypto wallet balances, ERC-20 token holdings, and USD values on Base and Ethereum.",
+  "source_repo": "br0ski777/wallet-portfolio-x402",
+  "source_url": "https://github.com/br0ski777/wallet-portfolio-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/wallet-portfolio-x402\n# See source for mcpServers config block"
+}

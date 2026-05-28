@@ -1,0 +1,7 @@
+{
+  "name": "jerryokk-dify-workflows",
+  "description": "Enables dynamic tool discovery and execution across multiple Dify AI applications by automatically loading application configurations and converting input parameters to JSON schemas for robust workflow management.",
+  "source_repo": "jerryokk/dify-workflow-mcp",
+  "source_url": "https://github.com/jerryokk/dify-workflow-mcp",
+  "install": "npx -y dify-workflow-mcp"
+}

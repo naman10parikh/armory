@@ -1,0 +1,7 @@
+{
+  "name": "dunkelcloud-toolmesh",
+  "description": "Self-hosted MCP gateway with authorization, credential injection, audit logging, and output policies.",
+  "source_repo": "dunkelcloud/toolmesh",
+  "source_url": "https://github.com/dunkelcloud/toolmesh",
+  "install": "# git clone --depth 1 https://github.com/dunkelcloud/toolmesh\n# See source for mcpServers config block"
+}

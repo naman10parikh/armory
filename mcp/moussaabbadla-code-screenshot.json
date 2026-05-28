@@ -1,0 +1,7 @@
+{
+  "name": "moussaabbadla-code-screenshot",
+  "description": "Generates beautiful, syntax-highlighted code screenshots with professional themes, automatic language detection for 20+ programming languages, and versatile input methods including file paths, line ranges, git diffs, and batch processing for creating documentation visuals and social media content.",
+  "source_repo": "moussaabbadla/code-screenshot-mcp",
+  "source_url": "https://github.com/moussaabbadla/code-screenshot-mcp",
+  "install": "npx -y code-screenshot-mcp"
+}

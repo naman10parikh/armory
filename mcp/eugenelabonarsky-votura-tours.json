@@ -1,0 +1,7 @@
+{
+  "name": "eugenelabonarsky-votura-tours",
+  "description": "Searches and retrieves AI-powered audio tours, stops, and landmarks for walking, cycling, and driving routes by city.",
+  "source_repo": "eugenelabonarsky/votura-mcp",
+  "source_url": "https://github.com/eugenelabonarsky/votura-mcp",
+  "install": "npx -y votura-mcp"
+}

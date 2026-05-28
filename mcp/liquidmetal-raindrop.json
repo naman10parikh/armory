@@ -1,0 +1,7 @@
+{
+  "name": "liquidmetal-raindrop",
+  "description": "Transforms Claude Code into a complete infrastructure development platform by providing structured workflows for building, deploying, and managing full-stack applications with databases, APIs, and live infrastructure through guided requirements gathering, architecture generation, and deployment validation.",
+  "source_repo": "",
+  "source_url": "https://docs.liquidmetal.ai/tutorials/claude-code-mcp-setup/",
+  "install": "# git clone --depth 1 https://docs.liquidmetal.ai/tutorials/claude-code-mcp-setup/\n# See source for mcpServers config block"
+}

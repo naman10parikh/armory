@@ -1,0 +1,7 @@
+{
+  "name": "cortexd-labs-mcpd",
+  "description": "Exposes 100+ Linux system administration tools covering processes, services, networking, containers, packages, storage, security, and desktop integration.",
+  "source_repo": "cortexd-labs/mcpd",
+  "source_url": "https://github.com/cortexd-labs/mcpd",
+  "install": "# git clone --depth 1 https://github.com/cortexd-labs/mcpd\n# See source for mcpServers config block"
+}

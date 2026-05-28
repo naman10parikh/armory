@@ -1,0 +1,7 @@
+{
+  "name": "sunsiyuan-human-survey",
+  "description": "Feedback collection infrastructure for AI agents to create surveys, distribute them to human respondents, and retrieve structured results.",
+  "source_repo": "sunsiyuan/human-survey",
+  "source_url": "https://github.com/sunsiyuan/human-survey",
+  "install": "# git clone --depth 1 https://github.com/sunsiyuan/human-survey\n# See source for mcpServers config block"
+}

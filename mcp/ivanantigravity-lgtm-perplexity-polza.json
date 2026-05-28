@@ -1,0 +1,7 @@
+{
+  "name": "ivanantigravity-lgtm-perplexity-polza",
+  "description": "Access Perplexity AI search and research models through the Polza.ai API aggregator.",
+  "source_repo": "ivanantigravity-lgtm/perplexity-polza-mcp-server",
+  "source_url": "https://github.com/ivanantigravity-lgtm/perplexity-polza-mcp-server",
+  "install": "npx -y perplexity-polza-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cwm-api-gateway-mcp",
+  "description": "CWM API Gateway MCP MCP server listed on mcp.so.",
+  "source_repo": "jasondsmith72/CWM-API-Gateway-MCP",
+  "source_url": "https://mcp.so/server/CWM-API-Gateway-MCP/jasondsmith72",
+  "install": "npx -y CWM-API-Gateway-MCP"
+}

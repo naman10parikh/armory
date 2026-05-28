@@ -1,0 +1,7 @@
+{
+  "name": "ukenn2112-bangumi-tv",
+  "description": "Integrates with Bangumi TV API to retrieve anime information, user data, and media details for tracking and discovering anime and manga collections",
+  "source_repo": "ukenn2112/bangumimcp",
+  "source_url": "https://github.com/ukenn2112/bangumimcp",
+  "install": "# git clone --depth 1 https://github.com/ukenn2112/bangumimcp\n# See source for mcpServers config block"
+}

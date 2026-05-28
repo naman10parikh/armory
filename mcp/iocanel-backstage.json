@@ -1,0 +1,7 @@
+{
+  "name": "iocanel-backstage",
+  "description": "Enables AI systems to interact with Backstage developer portal for listing templates and instantiating new projects through Quarkus-based API communication.",
+  "source_repo": "iocanel/backstage-mcp",
+  "source_url": "https://github.com/iocanel/backstage-mcp",
+  "install": "npx -y backstage-mcp"
+}

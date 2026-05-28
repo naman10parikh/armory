@@ -1,0 +1,7 @@
+{
+  "name": "flin-linkedin-posts-mcp",
+  "description": "Enables users to read and analyze their own LinkedIn posts and shares using OAuth login and LinkedIn's Member Data Portability API. Supports post listing, analysis, draft matching, and engagement enrichment.",
+  "source_repo": "flin-agency/flin-linkedin-posts-mcp",
+  "source_url": "https://github.com/flin-agency/flin-linkedin-posts-mcp",
+  "install": "npx -y flin-linkedin-posts-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "orliesaurus-pulse",
+  "description": "Integrates with PulseMCP to enable querying and retrieval of MCP server and integration data for ecosystem analysis and service recommendations.",
+  "source_repo": "orliesaurus/pulsemcp-server",
+  "source_url": "https://github.com/orliesaurus/pulsemcp-server",
+  "install": "npx -y pulsemcp-server"
+}

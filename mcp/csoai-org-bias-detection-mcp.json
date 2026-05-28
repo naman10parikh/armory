@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-bias-detection-mcp",
+  "description": "Tools for detecting and mitigating bias in AI model outputs and datasets.",
+  "source_repo": "csoai-org/bias-detection-mcp",
+  "source_url": "https://github.com/csoai-org/bias-detection-mcp",
+  "install": "npx -y bias-detection-mcp"
+}

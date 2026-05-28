@@ -1,0 +1,7 @@
+{
+  "name": "mesh-mcp",
+  "description": "Access your network seamlessly with a simple and efficient server. Leverage a variety of tools to enhance your applications and workflows. Start integrating with your existing systems effortlessly.",
+  "source_repo": "",
+  "source_url": "https://me.sh",
+  "install": "# git clone --depth 1 https://me.sh\n# See source for mcpServers config block"
+}

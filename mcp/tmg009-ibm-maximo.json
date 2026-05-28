@@ -1,0 +1,7 @@
+{
+  "name": "tmg009-ibm-maximo",
+  "description": "Comprehensive integration with IBM Maximo Application Suite 9.x covering work orders, assets, inventory, service requests, purchase orders, preventive maintenance, and analytics.",
+  "source_repo": "themaximoguys/max_mcp",
+  "source_url": "https://github.com/themaximoguys/max_mcp",
+  "install": "npx -y max_mcp"
+}

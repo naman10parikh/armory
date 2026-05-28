@@ -1,0 +1,7 @@
+{
+  "name": "rajyraman-pac-az",
+  "description": "Bridges Power Platform CLI and Azure CLI commands with specialized tools for executing Dataverse environment operations, making Azure REST API requests, and performing Graph API operations.",
+  "source_repo": "rajyraman/genaiscript-pac-az-mcp",
+  "source_url": "https://github.com/rajyraman/genaiscript-pac-az-mcp",
+  "install": "npx -y genaiscript-pac-az-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tatn-unified-diff-generator",
+  "description": "Generates unified diffs between text strings with 3 lines of context, enabling precise comparison and analysis for version control and code review tasks.",
+  "source_repo": "tatn/mcp-server-diff-typescript",
+  "source_url": "https://github.com/tatn/mcp-server-diff-typescript",
+  "install": "# git clone --depth 1 https://github.com/tatn/mcp-server-diff-typescript\n# See source for mcpServers config block"
+}

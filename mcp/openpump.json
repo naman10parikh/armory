@@ -1,0 +1,7 @@
+{
+  "name": "openpump",
+  "description": "Solana trading infrastructure for pump.fun token operations including token creation, multi-wallet bundle trading via Jito MEV bundles, portfolio management, and market data retrieval.",
+  "source_repo": "openpumpio/openpump",
+  "source_url": "https://github.com/openpumpio/openpump/tree/HEAD/packages/mcp-client",
+  "install": "# git clone --depth 1 https://github.com/openpumpio/openpump/tree/HEAD/packages/mcp-client\n# See source for mcpServers config block"
+}

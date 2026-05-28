@@ -1,0 +1,7 @@
+{
+  "name": "jwaldor-api-connect",
+  "description": "Integrates any REST API by dynamically connecting to APIs using provided documentation and keys, enabling rapid prototyping of applications with real-time external data.",
+  "source_repo": "jwaldor/mcp-api-expert",
+  "source_url": "https://github.com/jwaldor/mcp-api-expert",
+  "install": "# git clone --depth 1 https://github.com/jwaldor/mcp-api-expert\n# See source for mcpServers config block"
+}

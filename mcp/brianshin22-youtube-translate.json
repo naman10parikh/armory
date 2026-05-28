@@ -1,0 +1,7 @@
+{
+  "name": "brianshin22-youtube-translate",
+  "description": "Enables access to YouTube video transcripts, translations, summaries, and subtitle generation through a simple API interface for research, content analysis, and multilingual video accessibility workflows.",
+  "source_repo": "brianshin22/youtube-translate-mcp",
+  "source_url": "https://github.com/brianshin22/youtube-translate-mcp",
+  "install": "npx -y youtube-translate-mcp"
+}

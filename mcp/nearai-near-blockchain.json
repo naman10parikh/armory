@@ -1,0 +1,7 @@
+{
+  "name": "nearai-near-blockchain",
+  "description": "Integrates with the NEAR blockchain to enable account management, balance checking, transaction signing, and key handling directly within conversation interfaces.",
+  "source_repo": "nearai/near-mcp",
+  "source_url": "https://github.com/nearai/near-mcp",
+  "install": "npx -y near-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llm-bridge-mcp",
+  "description": "Llm Bridge Mcp MCP server listed on mcp.so.",
+  "source_repo": "sjquant/llm-bridge-mcp",
+  "source_url": "https://mcp.so/server/llm-bridge-mcp/sjquant",
+  "install": "npx -y llm-bridge-mcp"
+}

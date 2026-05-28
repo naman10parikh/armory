@@ -1,0 +1,7 @@
+{
+  "name": "innocache-web-search",
+  "description": "Searches the web and extracts page content using Electron browser rendering with Readability-based quality scoring.",
+  "source_repo": "innocache/web-search-mcp",
+  "source_url": "https://github.com/innocache/web-search-mcp",
+  "install": "npx -y web-search-mcp"
+}

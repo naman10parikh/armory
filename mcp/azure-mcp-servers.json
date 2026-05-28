@@ -1,0 +1,7 @@
+{
+  "name": "azure-mcp-servers",
+  "description": "Azure Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "manekinekko/azure-mcp-servers",
+  "source_url": "https://mcp.so/server/azure-mcp-servers/manekinekko",
+  "install": "# git clone --depth 1 https://mcp.so/server/azure-mcp-servers/manekinekko\n# See source for mcpServers config block"
+}

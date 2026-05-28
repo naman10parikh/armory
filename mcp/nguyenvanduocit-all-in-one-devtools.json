@@ -1,0 +1,7 @@
+{
+  "name": "nguyenvanduocit-all-in-one-devtools",
+  "description": "Juggles development tool integrations like Confluence, GitLab, Jira, and CLI scripts.",
+  "source_repo": "nguyenvanduocit/all-in-one-model-context-protocol",
+  "source_url": "https://github.com/nguyenvanduocit/all-in-one-model-context-protocol",
+  "install": "# git clone --depth 1 https://github.com/nguyenvanduocit/all-in-one-model-context-protocol\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vignaesh01-dataverse-devtools",
+  "description": "Integrates with Microsoft Power Platform Dataverse environments to provide user administration, security role management, entity metadata exploration, custom action discovery, and plugin trace log analysis with support for both interactive and service principal authentication.",
+  "source_repo": "vignaesh01/dataversedevtoolsmcpserver",
+  "source_url": "https://github.com/vignaesh01/dataversedevtoolsmcpserver",
+  "install": "# git clone --depth 1 https://github.com/vignaesh01/dataversedevtoolsmcpserver\n# See source for mcpServers config block"
+}

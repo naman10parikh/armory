@@ -1,0 +1,7 @@
+{
+  "name": "minio-python-mcp",
+  "description": "Minio Python Mcp MCP server listed on mcp.so.",
+  "source_repo": "ucesys/minio-python-mcp",
+  "source_url": "https://mcp.so/server/minio-python-mcp/ucesys",
+  "install": "npx -y minio-python-mcp"
+}

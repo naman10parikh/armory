@@ -1,0 +1,7 @@
+{
+  "name": "nuclino-mcp-server",
+  "description": "Provides access to Nuclino content through structured search and retrieval tools.",
+  "source_repo": "urbantz-logistics/mcp-nuclino",
+  "source_url": "https://github.com/urbantz-logistics/mcp-nuclino",
+  "install": "# git clone --depth 1 https://github.com/urbantz-logistics/mcp-nuclino\n# See source for mcpServers config block"
+}

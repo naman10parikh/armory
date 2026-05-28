@@ -1,0 +1,7 @@
+{
+  "name": "zerotrue-mcp-server",
+  "description": "Enables detection of AI-generated content in text, images, video, and audio via the ZeroTrue API, supporting multiple analysis tools and MCP-compatible clients.",
+  "source_repo": "ZeroTrueLCC/mcp",
+  "source_url": "https://github.com/ZeroTrueLCC/mcp",
+  "install": "# git clone --depth 1 https://github.com/ZeroTrueLCC/mcp\n# See source for mcpServers config block"
+}

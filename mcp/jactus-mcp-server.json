@@ -1,0 +1,7 @@
+{
+  "name": "jactus-mcp-server",
+  "description": "Enables AI assistants like Claude to discover, validate, and simulate all 18 ACTUS financial contract types using JACTUS, with tools for contract simulation, risk computation, and portfolio analysis.",
+  "source_repo": "pedronahum/JACTUS-MCP",
+  "source_url": "https://github.com/pedronahum/JACTUS-MCP",
+  "install": "npx -y JACTUS-MCP"
+}

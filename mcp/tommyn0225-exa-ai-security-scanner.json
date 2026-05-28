@@ -1,0 +1,7 @@
+{
+  "name": "tommyn0225-exa-ai-security-scanner",
+  "description": "Integrates with Exa AI to scan projects for security vulnerabilities through a containerized JSON-RPC service that reads requests from stdin and writes responses to stdout.",
+  "source_repo": "tommyn0225/anth",
+  "source_url": "https://github.com/tommyn0225/anth",
+  "install": "# git clone --depth 1 https://github.com/tommyn0225/anth\n# See source for mcpServers config block"
+}

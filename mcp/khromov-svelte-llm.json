@@ -1,0 +1,7 @@
+{
+  "name": "khromov-svelte-llm",
+  "description": "Provides Svelte 5 and SvelteKit documentation access with automated content syncing from the official repository, offering both raw and AI-optimized distilled versions with scheduled updates to keep framework documentation current.",
+  "source_repo": "khromov/svelte-llm-mcp",
+  "source_url": "https://github.com/khromov/svelte-llm-mcp",
+  "install": "npx -y svelte-llm-mcp"
+}

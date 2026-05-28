@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-file-organizer-ai-mcp",
+  "description": "AI tools for organizing, categorizing, and managing file systems and directories.",
+  "source_repo": "csoai-org/file-organizer-ai-mcp",
+  "source_url": "https://github.com/csoai-org/file-organizer-ai-mcp",
+  "install": "npx -y file-organizer-ai-mcp"
+}

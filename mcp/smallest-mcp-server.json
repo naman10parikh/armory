@@ -1,0 +1,7 @@
+{
+  "name": "smallest-mcp-server",
+  "description": "MCP server for the Smallest AI platform that enables managing AI voice agents, debugging calls, and viewing analytics directly from your IDE.",
+  "source_repo": "smallest-inc/mcp-server",
+  "source_url": "https://github.com/smallest-inc/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/smallest-inc/mcp-server\n# See source for mcpServers config block"
+}

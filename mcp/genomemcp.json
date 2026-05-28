@@ -1,0 +1,7 @@
+{
+  "name": "genomemcp",
+  "description": "Enables AI agents to query clinical genomics databases, retrieve supporting literature, analyze population genetics, and visualize biological pathways.",
+  "source_repo": "Eldergenix/GenomeMCP",
+  "source_url": "https://github.com/Eldergenix/GenomeMCP",
+  "install": "# git clone --depth 1 https://github.com/Eldergenix/GenomeMCP\n# See source for mcpServers config block"
+}

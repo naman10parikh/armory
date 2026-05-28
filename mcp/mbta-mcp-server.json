@@ -1,0 +1,7 @@
+{
+  "name": "mbta-mcp-server",
+  "description": "Enables AI clients to access Boston's MBTA public transit data, including real-time predictions, schedules, route planning, and service alerts.",
+  "source_repo": "cubismod/mbta-mcp",
+  "source_url": "https://github.com/cubismod/mbta-mcp",
+  "install": "npx -y mbta-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "miguelmartinezcv-chatvolt",
+  "description": "Integrates with Chatvolt's conversational platform to manage agents, datastores, and CRM workflows, enabling creation of multi-LLM chatbots with knowledge management and automated customer engagement sequences.",
+  "source_repo": "miguelmartinezcv/chatvolt-mcp",
+  "source_url": "https://github.com/miguelmartinezcv/chatvolt-mcp",
+  "install": "npx -y chatvolt-mcp"
+}

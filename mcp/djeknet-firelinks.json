@@ -1,0 +1,7 @@
+{
+  "name": "djeknet-firelinks",
+  "description": "Integrates with Firelinks URL shortening platform to create and manage branded short links, configure custom domains with SSL, track detailed click analytics with geographic and device data, and monitor traffic quality metrics for marketing campaigns and business applications.",
+  "source_repo": "djeknet/firelinks-mcp",
+  "source_url": "https://github.com/djeknet/firelinks-mcp",
+  "install": "npx -y firelinks-mcp"
+}

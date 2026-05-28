@@ -1,0 +1,7 @@
+{
+  "name": "jordandalton-laravel-forge",
+  "description": "Minimal Laravel Forge integration that provides a single focused tool for triggering site deployments through the Forge API with environment-based configuration.",
+  "source_repo": "jordandalton/laravel-forge-mcp-server",
+  "source_url": "https://github.com/jordandalton/laravel-forge-mcp-server",
+  "install": "npx -y laravel-forge-mcp-server"
+}

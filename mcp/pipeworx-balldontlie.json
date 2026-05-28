@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-balldontlie",
+  "description": "NBA statistics via balldontlie.io: players, games, season averages, and stats. Free API key required.",
+  "source_repo": "pipeworx-io/mcp-balldontlie",
+  "source_url": "https://github.com/pipeworx-io/mcp-balldontlie",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-balldontlie\n# See source for mcpServers config block"
+}

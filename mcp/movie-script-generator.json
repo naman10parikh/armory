@@ -1,0 +1,7 @@
+{
+  "name": "movie-script-generator",
+  "description": "A2A server for generating movie scripts using AI technology for crew members in Nevermined platform",
+  "source_repo": "nevermined-io/movie-script-generator-agent-crew-ai",
+  "source_url": "https://github.com/nevermined-io/movie-script-generator-agent-crew-ai",
+  "install": "# git clone --depth 1 https://github.com/nevermined-io/movie-script-generator-agent-crew-ai\n# See source for mcpServers config block"
+}

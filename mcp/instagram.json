@@ -1,0 +1,7 @@
+{
+  "name": "instagram",
+  "description": "Instagram is a social media platform for sharing photos, videos, and stories. Only supports Instagram Business and Creator accounts, not Instagram Personal accounts.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/instagram",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/instagram\n# See source for mcpServers config block"
+}

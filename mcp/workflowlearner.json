@@ -1,0 +1,7 @@
+{
+  "name": "workflowlearner",
+  "description": "WorkflowLearner MCP server listed on mcp.so.",
+  "source_repo": "u3588064/WorkflowLearner",
+  "source_url": "https://mcp.so/server/WorkflowLearner/u3588064",
+  "install": "# git clone --depth 1 https://mcp.so/server/WorkflowLearner/u3588064\n# See source for mcpServers config block"
+}

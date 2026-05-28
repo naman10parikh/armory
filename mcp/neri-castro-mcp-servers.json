@@ -1,0 +1,7 @@
+{
+  "name": "neri-castro-mcp-servers",
+  "description": "Collection of TypeScript MCP servers for Bruno, Gitea, Keycloak, Laravel Scramble, PostgreSQL, and Taiga.",
+  "source_repo": "neri-castro/mcp",
+  "source_url": "https://github.com/neri-castro/mcp",
+  "install": "# git clone --depth 1 https://github.com/neri-castro/mcp\n# See source for mcpServers config block"
+}

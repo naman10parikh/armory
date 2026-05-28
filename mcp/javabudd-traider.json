@@ -1,0 +1,7 @@
+{
+  "name": "javabudd-traider",
+  "description": "Read-only MCP server for financial analysis with market data, macro indicators, SEC filings, and news from pluggable providers.",
+  "source_repo": "javabudd/traider",
+  "source_url": "https://github.com/javabudd/traider",
+  "install": "# git clone --depth 1 https://github.com/javabudd/traider\n# See source for mcpServers config block"
+}

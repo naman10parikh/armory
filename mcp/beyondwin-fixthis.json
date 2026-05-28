@@ -1,0 +1,7 @@
+{
+  "name": "beyondwin-fixthis",
+  "description": "Point at Jetpack Compose UI elements and hand off annotated source candidates to AI coding agents.",
+  "source_repo": "beyondwin/fixthis",
+  "source_url": "https://github.com/beyondwin/fixthis",
+  "install": "# git clone --depth 1 https://github.com/beyondwin/fixthis\n# See source for mcpServers config block"
+}

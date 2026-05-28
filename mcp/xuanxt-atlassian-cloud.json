@@ -1,0 +1,7 @@
+{
+  "name": "xuanxt-atlassian-cloud",
+  "description": "Integrates with Atlassian Cloud (Confluence and Jira) to provide comprehensive workspace management with full CRUD operations on pages, issues, sprints, boards, and backlogs.",
+  "source_repo": "xuanxt/atlassian-mcp",
+  "source_url": "https://github.com/xuanxt/atlassian-mcp",
+  "install": "npx -y atlassian-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adb-mcp-server",
+  "description": "A MCP server that enables AI assistants to control Android devices via ADB, supporting device info, screen control, input simulation, app management, shell execution, file transfer, and UI parsing.",
+  "source_repo": "LLL-404/adb-mcp-server",
+  "source_url": "https://github.com/LLL-404/adb-mcp-server",
+  "install": "npx -y adb-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "youtube-transcription",
+  "description": "Extracts transcriptions from YouTube videos by accepting a video URL and returning the full transcript text using the youtube-transcript library",
+  "source_repo": "seanlee10/server-youtube-transcription",
+  "source_url": "https://github.com/seanlee10/server-youtube-transcription",
+  "install": "# git clone --depth 1 https://github.com/seanlee10/server-youtube-transcription\n# See source for mcpServers config block"
+}

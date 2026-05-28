@@ -1,0 +1,7 @@
+{
+  "name": "moda-remote-camera",
+  "description": "Capture photos remotely from mobile devices via S3-backed upload URLs",
+  "source_repo": "",
+  "source_url": "https://www.ai.moda/mcp-servers/remote-camera/",
+  "install": "# git clone --depth 1 https://www.ai.moda/mcp-servers/remote-camera/\n# See source for mcpServers config block"
+}

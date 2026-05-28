@@ -1,0 +1,7 @@
+{
+  "name": "jukkan-xrm",
+  "description": "Microsoft Dataverse and Dynamics 365 read/write access via the Dataverse Web API v9.2.",
+  "source_repo": "jukkan/xrm-mcp",
+  "source_url": "https://github.com/jukkan/xrm-mcp",
+  "install": "npx -y xrm-mcp"
+}

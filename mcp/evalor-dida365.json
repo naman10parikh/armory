@@ -1,0 +1,7 @@
+{
+  "name": "evalor-dida365",
+  "description": "Task management integration for Dida365 and TickTick platforms",
+  "source_repo": "evalor/dida365mcp",
+  "source_url": "https://github.com/evalor/dida365mcp",
+  "install": "# git clone --depth 1 https://github.com/evalor/dida365mcp\n# See source for mcpServers config block"
+}

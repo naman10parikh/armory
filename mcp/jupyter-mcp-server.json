@@ -1,0 +1,7 @@
+{
+  "name": "jupyter-mcp-server",
+  "description": "Enables AI agents to interact with Jupyter notebooks via MCP tools for querying, modifying, executing, and setting up notebooks, with state preservation and real-time collaboration.",
+  "source_repo": "block/mcp-jupyter",
+  "source_url": "https://github.com/block/mcp-jupyter",
+  "install": "# git clone --depth 1 https://github.com/block/mcp-jupyter\n# See source for mcpServers config block"
+}

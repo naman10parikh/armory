@@ -1,0 +1,7 @@
+{
+  "name": "cuongtl1992-database-connections",
+  "description": "Provides a unified TypeScript-based database server for seamlessly connecting to SQLite, PostgreSQL, SQL Server, and MongoDB, enabling flexible database interactions through server-sent events and standard I/O communication modes.",
+  "source_repo": "cuongtl1992/mcp-dbs",
+  "source_url": "https://github.com/cuongtl1992/mcp-dbs",
+  "install": "# git clone --depth 1 https://github.com/cuongtl1992/mcp-dbs\n# See source for mcpServers config block"
+}

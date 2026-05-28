@@ -1,0 +1,7 @@
+{
+  "name": "ceorkm-reactbits",
+  "description": "Provides access to 135+ animated React components from ReactBits.dev with intelligent caching, quality scoring, and dependency detection for building modern UI applications with animations, backgrounds, text effects, and interactive elements.",
+  "source_repo": "ceorkm/reactbits-mcp-server",
+  "source_url": "https://github.com/ceorkm/reactbits-mcp-server",
+  "install": "npx -y reactbits-mcp-server"
+}

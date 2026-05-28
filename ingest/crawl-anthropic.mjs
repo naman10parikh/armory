@@ -124,7 +124,7 @@ function firstH1(raw) {
 // put a long plain scalar on one line (no >/|), and parseFrontmatter handles
 // that, but some wrap onto indented continuation lines. This reads the full
 // value (scalar + indented continuation) straight from the raw frontmatter so
-// no WHEN-to-use text is lost. (Same approach as crawl-ecc.mjs.)
+// no WHEN-to-use text is lost. (Same approach as crawl-community.mjs.)
 function readDescription(file) {
   const raw = readFileSync(file, "utf8");
   const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);

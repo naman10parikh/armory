@@ -1,0 +1,7 @@
+{
+  "name": "x746b-winforensics",
+  "description": "Enables Windows digital forensics analysis by parsing EVTX event logs, registry hives, and remotely collecting artifacts via WinRM for incident response workflows.",
+  "source_repo": "x746b/winforensics-mcp",
+  "source_url": "https://github.com/x746b/winforensics-mcp",
+  "install": "npx -y winforensics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "100hires",
+  "description": "MCP server providing 130 recruiting and talent management tools for AI-powered hiring workflows.",
+  "source_repo": "100hires/mcp",
+  "source_url": "https://github.com/100hires/mcp",
+  "install": "# git clone --depth 1 https://github.com/100hires/mcp\n# See source for mcpServers config block"
+}

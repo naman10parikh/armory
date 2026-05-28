@@ -1,0 +1,7 @@
+{
+  "name": "wildcard-deepcontext",
+  "description": "Symbol-aware semantic search for large codebases",
+  "source_repo": "wildcard-official/deepcontext-mcp",
+  "source_url": "https://github.com/wildcard-official/deepcontext-mcp",
+  "install": "npx -y deepcontext-mcp"
+}

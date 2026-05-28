@@ -1,0 +1,7 @@
+{
+  "name": "mcp-crew-ai",
+  "description": "Mcp Crew Ai MCP server listed on mcp.so.",
+  "source_repo": "adam-paterson/mcp-crew-ai",
+  "source_url": "https://mcp.so/server/mcp-crew-ai/adam-paterson",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-crew-ai/adam-paterson\n# See source for mcpServers config block"
+}

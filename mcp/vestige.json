@@ -1,0 +1,7 @@
+{
+  "name": "vestige",
+  "description": "A local cognitive memory server for MCP-compatible AI agents, providing persistent, inspectable memory with spaced repetition, predictive retrieval, and a 3D dashboard, all running locally in a single Rust binary.",
+  "source_repo": "samvallad33/vestige",
+  "source_url": "https://github.com/samvallad33/vestige",
+  "install": "# git clone --depth 1 https://github.com/samvallad33/vestige\n# See source for mcpServers config block"
+}

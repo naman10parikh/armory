@@ -1,0 +1,7 @@
+{
+  "name": "heu",
+  "description": "Manages HEU Legal e-signature documents, prompts signers, and downloads signed PDFs via API.",
+  "source_repo": "lucav21/heu-mcp",
+  "source_url": "https://github.com/lucav21/heu-mcp",
+  "install": "npx -y heu-mcp"
+}

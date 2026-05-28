@@ -1,0 +1,7 @@
+{
+  "name": "shareseer-shareseer-mcp-server",
+  "description": "MCP to Access SEC filings, financials & insider trading data in real time using [ShareSeer](https://shareseer.com)",
+  "source_repo": "shareseer/shareseer-mcp-server",
+  "source_url": "https://github.com/shareseer/shareseer-mcp-server",
+  "install": "npx -y shareseer-mcp-server"
+}

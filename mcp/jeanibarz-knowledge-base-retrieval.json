@@ -1,0 +1,7 @@
+{
+  "name": "jeanibarz-knowledge-base-retrieval",
+  "description": "Integrates with knowledge bases to enable efficient content retrieval and vectorization for question answering and information retrieval tasks",
+  "source_repo": "jeanibarz/knowledge-base-mcp-server",
+  "source_url": "https://github.com/jeanibarz/knowledge-base-mcp-server",
+  "install": "npx -y knowledge-base-mcp-server"
+}

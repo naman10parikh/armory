@@ -1,0 +1,7 @@
+{
+  "name": "thebackpackdevorg-whiteboard",
+  "description": "Shared context whiteboard for multiple Claude Code sessions to collaborate via contracts, decisions, alerts, and questions.",
+  "source_repo": "thebackpackdevorg/whiteboard-mcp-server",
+  "source_url": "https://github.com/thebackpackdevorg/whiteboard-mcp-server",
+  "install": "npx -y whiteboard-mcp-server"
+}

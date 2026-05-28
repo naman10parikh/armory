@@ -1,0 +1,7 @@
+{
+  "name": "legal-data-hunter",
+  "description": "Searches 18M+ legal documents worldwide including case law, legislation, and doctrine across 110+ countries.",
+  "source_repo": "worldwidelaw/legal-sources",
+  "source_url": "https://github.com/worldwidelaw/legal-sources",
+  "install": "# git clone --depth 1 https://github.com/worldwidelaw/legal-sources\n# See source for mcpServers config block"
+}

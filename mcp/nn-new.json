@@ -1,0 +1,7 @@
+{
+  "name": "nn-new",
+  "description": "NN New MCP server listed on mcp.so.",
+  "source_repo": "ninilang/NN-New",
+  "source_url": "https://mcp.so/server/NN-New/ninilang",
+  "install": "# git clone --depth 1 https://mcp.so/server/NN-New/ninilang\n# See source for mcpServers config block"
+}

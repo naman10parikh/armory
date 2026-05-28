@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-datastream",
+  "description": "Google Cloud Datastream MCP server for AI-assisted management of real-time change data capture and replication pipelines.",
+  "source_repo": "",
+  "source_url": "https://datastream.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://datastream.googleapis.com/mcp\n# See source for mcpServers config block"
+}

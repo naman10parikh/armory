@@ -1,0 +1,7 @@
+{
+  "name": "pet-store-mcp-server-3",
+  "description": "Pet Store MCP Server 3 MCP server listed on mcp.so.",
+  "source_repo": "octaviusp/Pet-store-MCP-server-3",
+  "source_url": "https://mcp.so/server/Pet-store-MCP-server-3/octaviusp",
+  "install": "# git clone --depth 1 https://mcp.so/server/Pet-store-MCP-server-3/octaviusp\n# See source for mcpServers config block"
+}

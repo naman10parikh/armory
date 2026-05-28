@@ -1,0 +1,7 @@
+{
+  "name": "ivanmurzak-unity",
+  "description": "Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.",
+  "source_repo": "ivanmurzak/unity-mcp",
+  "source_url": "https://github.com/ivanmurzak/unity-mcp",
+  "install": "npx -y unity-mcp"
+}

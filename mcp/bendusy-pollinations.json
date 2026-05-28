@@ -1,0 +1,7 @@
+{
+  "name": "bendusy-pollinations",
+  "description": "Provides text-to-audio API capabilities for dynamic audio generation through a TypeScript-based server implementation, enabling developers to create programmatic audio experiences.",
+  "source_repo": "bendusy/pollinations-mcp",
+  "source_url": "https://github.com/bendusy/pollinations-mcp",
+  "install": "npx -y pollinations-mcp"
+}

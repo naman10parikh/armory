@@ -1,0 +1,7 @@
+{
+  "name": "sirtenzin-autumn-pricing",
+  "description": "Integrates with Autumn's pricing API to enable subscription management, customer information retrieval, invoice handling, and billing portal generation for businesses using Claude and other assistants.",
+  "source_repo": "sirtenzin/autumn-mcp-server",
+  "source_url": "https://github.com/sirtenzin/autumn-mcp-server",
+  "install": "npx -y autumn-mcp-server"
+}

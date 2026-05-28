@@ -1,0 +1,7 @@
+{
+  "name": "youtube-mcp",
+  "description": "Search and browse videos, channels, and playlists to fetch titles, descriptions, stats, and durations. Retrieve multilingual, timestamped transcripts and search within captions for precise context. Surface channel and playlist insights quickly by listing items and details.",
+  "source_repo": "sfiorini/youtube-mcp",
+  "source_url": "https://github.com/sfiorini/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

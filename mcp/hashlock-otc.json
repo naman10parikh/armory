@@ -1,0 +1,7 @@
+{
+  "name": "hashlock-otc",
+  "description": "OTC crypto trading with HTLC atomic settlement on Ethereum and Bitcoin.",
+  "source_repo": "hashlock-tech/hashlock-mcp",
+  "source_url": "https://github.com/hashlock-tech/hashlock-mcp",
+  "install": "npx -y hashlock-mcp"
+}

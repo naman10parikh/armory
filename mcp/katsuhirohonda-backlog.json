@@ -1,0 +1,7 @@
+{
+  "name": "katsuhirohonda-backlog",
+  "description": "Integrates with Backlog to enable project overview generation, task management, and team collaboration analysis through API interactions and data summarization tools.",
+  "source_repo": "katsuhirohonda/mcp-backlog-server",
+  "source_url": "https://github.com/katsuhirohonda/mcp-backlog-server",
+  "install": "# git clone --depth 1 https://github.com/katsuhirohonda/mcp-backlog-server\n# See source for mcpServers config block"
+}

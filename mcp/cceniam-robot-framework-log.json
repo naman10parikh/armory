@@ -1,0 +1,7 @@
+{
+  "name": "cceniam-robot-framework-log",
+  "description": "Analyze Robot Framework test results from output.xml and output.json files with structured views.",
+  "source_repo": "cceniam/rf_log_mcp",
+  "source_url": "https://github.com/cceniam/rf_log_mcp",
+  "install": "npx -y rf_log_mcp"
+}

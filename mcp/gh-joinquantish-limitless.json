@@ -1,0 +1,7 @@
+{
+  "name": "gh-joinquantish-limitless",
+  "description": "Self-hosted trading server for Limitless Exchange prediction markets on Base.",
+  "source_repo": "joinquantish/limitless-mcp",
+  "source_url": "https://github.com/joinquantish/limitless-mcp",
+  "install": "npx -y limitless-mcp"
+}

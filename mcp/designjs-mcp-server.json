@@ -1,0 +1,7 @@
+{
+  "name": "designjs-mcp-server",
+  "description": "MCP server that enables AI coding agents to read and write to a local-first HTML/CSS design canvas, bridging visual design and code generation.",
+  "source_repo": "rubychilds/DesignJS",
+  "source_url": "https://github.com/rubychilds/DesignJS",
+  "install": "# git clone --depth 1 https://github.com/rubychilds/DesignJS\n# See source for mcpServers config block"
+}

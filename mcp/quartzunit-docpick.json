@@ -1,0 +1,7 @@
+{
+  "name": "quartzunit-docpick",
+  "description": "Schema-driven document extraction pipeline combining local OCR with LLMs to extract structured JSON from invoices, receipts, and other documents.",
+  "source_repo": "quartzunit/docpick",
+  "source_url": "https://github.com/quartzunit/docpick",
+  "install": "# git clone --depth 1 https://github.com/quartzunit/docpick\n# See source for mcpServers config block"
+}

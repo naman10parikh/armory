@@ -1,0 +1,7 @@
+{
+  "name": "guesty-mcp-server",
+  "description": "MCP server for Guesty property management. Manage reservations, guests, messaging, financials, listings, and operations via AI clients.",
+  "source_repo": "DLJRealty/guesty-mcp-server",
+  "source_url": "https://github.com/DLJRealty/guesty-mcp-server",
+  "install": "npx -y guesty-mcp-server"
+}

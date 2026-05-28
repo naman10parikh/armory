@@ -1,0 +1,7 @@
+{
+  "name": "pdf-processor",
+  "description": "Extracts text content and mathematical equations from PDF documents using PyMuPDF for text processing and pix2tex for LaTeX OCR, enabling analysis of academic papers and technical documents with specialized equation recognition.",
+  "source_repo": "michaellevinson/mcp_pdf_processor",
+  "source_url": "https://github.com/michaellevinson/mcp_pdf_processor",
+  "install": "# git clone --depth 1 https://github.com/michaellevinson/mcp_pdf_processor\n# See source for mcpServers config block"
+}

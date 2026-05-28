@@ -1,0 +1,7 @@
+{
+  "name": "zw008-vmware-aiops",
+  "description": "Full VMware vCenter and ESXi monitoring, operations, and VM lifecycle management.",
+  "source_repo": "zw008/vmware-aiops",
+  "source_url": "https://github.com/zw008/vmware-aiops",
+  "install": "# git clone --depth 1 https://github.com/zw008/vmware-aiops\n# See source for mcpServers config block"
+}

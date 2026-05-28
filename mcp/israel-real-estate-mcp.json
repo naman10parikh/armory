@@ -1,0 +1,7 @@
+{
+  "name": "israel-real-estate-mcp",
+  "description": "MCP server for querying Israeli government real estate data, enabling property deal searches, market trend analysis, and address retrieval.",
+  "source_repo": "nitzpo/nadlan-mcp",
+  "source_url": "https://github.com/nitzpo/nadlan-mcp",
+  "install": "npx -y nadlan-mcp"
+}

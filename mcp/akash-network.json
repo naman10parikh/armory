@@ -1,0 +1,7 @@
+{
+  "name": "akash-network",
+  "description": "Bridges AI agents with the Akash Network, enabling deployment and management of decentralized applications on blockchain-based cloud computing infrastructure.",
+  "source_repo": "akash-network/mcp",
+  "source_url": "https://github.com/akash-network/mcp",
+  "install": "# git clone --depth 1 https://github.com/akash-network/mcp\n# See source for mcpServers config block"
+}

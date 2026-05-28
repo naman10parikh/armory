@@ -1,0 +1,7 @@
+{
+  "name": "mocksi-temporal-workflows",
+  "description": "Exposes Temporal workflows as tools for AI assistants, enabling organizations to leverage existing workflow infrastructure without custom integration code.",
+  "source_repo": "brief-hq/temporal-mcp",
+  "source_url": "https://github.com/brief-hq/temporal-mcp",
+  "install": "npx -y temporal-mcp"
+}

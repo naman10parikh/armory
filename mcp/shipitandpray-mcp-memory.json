@@ -1,0 +1,7 @@
+{
+  "name": "shipitandpray-mcp-memory",
+  "description": "Smart memory with exponential decay. Memories strengthen on access and fade when unused — solving the Karpathy problem of unbounded context growth. 7 tools, SQLite-based, zero dependencies.",
+  "source_repo": "ShipItAndPray/mcp-memory",
+  "source_url": "https://github.com/ShipItAndPray/mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/ShipItAndPray/mcp-memory\n# See source for mcpServers config block"
+}

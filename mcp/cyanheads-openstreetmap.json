@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-openstreetmap",
+  "description": "Geocode addresses, reverse geocode coordinates, and run Overpass spatial queries on OpenStreetMap data.",
+  "source_repo": "cyanheads/openstreetmap-mcp-server",
+  "source_url": "https://github.com/cyanheads/openstreetmap-mcp-server",
+  "install": "npx -y openstreetmap-mcp-server"
+}

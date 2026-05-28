@@ -1,0 +1,7 @@
+{
+  "name": "oci-mcp",
+  "description": "Model Context Protocol (MCP) server exposing Oracle Cloud Infrastructure tools, resources and prompts.",
+  "source_repo": "Oreo-Tech/oci-mcp",
+  "source_url": "https://github.com/Oreo-Tech/oci-mcp",
+  "install": "npx -y oci-mcp"
+}

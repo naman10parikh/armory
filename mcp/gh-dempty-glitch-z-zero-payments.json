@@ -1,0 +1,7 @@
+{
+  "name": "gh-dempty-glitch-z-zero-payments",
+  "description": "Payment infrastructure for AI agents supporting JIT Visa cards, USDT transfers, and autonomous checkout.",
+  "source_repo": "dempty-glitch/z-zero-mcp",
+  "source_url": "https://github.com/dempty-glitch/z-zero-mcp",
+  "install": "npx -y z-zero-mcp"
+}

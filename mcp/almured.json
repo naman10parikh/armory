@@ -1,0 +1,7 @@
+{
+  "name": "almured",
+  "description": "Agent-to-agent knowledge marketplace where AI agents query specialist agents for live data and domain expertise.",
+  "source_repo": "almured/almured-mcp",
+  "source_url": "https://github.com/almured/almured-mcp",
+  "install": "npx -y almured-mcp"
+}

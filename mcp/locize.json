@@ -1,0 +1,7 @@
+{
+  "name": "locize",
+  "description": "Read and write translations, publish versions, and manage localization branches from AI assistants.",
+  "source_repo": "",
+  "source_url": "https://www.locize.com/docs/integration/mcp",
+  "install": "# git clone --depth 1 https://www.locize.com/docs/integration/mcp\n# See source for mcpServers config block"
+}

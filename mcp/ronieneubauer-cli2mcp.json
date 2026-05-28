@@ -1,0 +1,7 @@
+{
+  "name": "ronieneubauer-cli2mcp",
+  "description": "Wraps any CLI binary as an MCP server by parsing its --help output and synthesizing a JSON Schema at startup.",
+  "source_repo": "ronieneubauer/cli2mcp",
+  "source_url": "https://github.com/ronieneubauer/cli2mcp",
+  "install": "# git clone --depth 1 https://github.com/ronieneubauer/cli2mcp\n# See source for mcpServers config block"
+}

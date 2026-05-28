@@ -1,0 +1,7 @@
+{
+  "name": "browseai-dev",
+  "description": "Research infrastructure for agents providing real-time web search, evidence extraction, and structured citations with confidence scoring.",
+  "source_repo": "browseai-hq/browseai-dev",
+  "source_url": "https://github.com/browseai-hq/browseai-dev",
+  "install": "# git clone --depth 1 https://github.com/browseai-hq/browseai-dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vespo92-truenas-core",
+  "description": "Integrates with TrueNAS Core storage systems to enable natural language control of user management, pool monitoring, dataset creation, ZFS properties, permissions, and Kubernetes storage provisioning with automated snapshot policies and NFS/iSCSI target configuration.",
+  "source_repo": "vespo92/truenascoremcp",
+  "source_url": "https://github.com/vespo92/truenascoremcp",
+  "install": "# git clone --depth 1 https://github.com/vespo92/truenascoremcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "urimanul-powerpoint-generator",
+  "description": "Generates professional PowerPoint presentations with modern design, SVG icons, and Japanese language support.",
+  "source_repo": "urimanul/claude_mcp",
+  "source_url": "https://github.com/urimanul/claude_mcp",
+  "install": "npx -y claude_mcp"
+}

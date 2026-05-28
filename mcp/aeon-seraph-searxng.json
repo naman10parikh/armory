@@ -1,0 +1,7 @@
+{
+  "name": "aeon-seraph-searxng",
+  "description": "Enables language models to perform web searches through SearXNG, a privacy-focused metasearch engine, with customizable parameters like categories, time ranges, and pagination.",
+  "source_repo": "aeon-seraph/searxng-mcp",
+  "source_url": "https://github.com/aeon-seraph/searxng-mcp",
+  "install": "npx -y searxng-mcp"
+}

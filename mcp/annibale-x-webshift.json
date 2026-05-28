@@ -1,0 +1,7 @@
+{
+  "name": "annibale-x-webshift",
+  "description": "Denoised web search — fetch, clean, and rerank web content for AI agents with strict size budgets.",
+  "source_repo": "x-hannibal/webshift",
+  "source_url": "https://github.com/x-hannibal/webshift",
+  "install": "# git clone --depth 1 https://github.com/x-hannibal/webshift\n# See source for mcpServers config block"
+}

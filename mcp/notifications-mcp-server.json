@@ -1,0 +1,7 @@
+{
+  "name": "notifications-mcp-server",
+  "description": "Notifications Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "charles-adedotun/notifications-mcp-server",
+  "source_url": "https://mcp.so/server/notifications-mcp-server/charles-adedotun",
+  "install": "npx -y notifications-mcp-server"
+}

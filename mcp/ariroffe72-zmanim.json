@@ -1,0 +1,7 @@
+{
+  "name": "ariroffe72-zmanim",
+  "description": "Calculates Jewish prayer times for any global location",
+  "source_repo": "ariroffe72/zmanim-mcp-server",
+  "source_url": "https://github.com/ariroffe72/zmanim-mcp-server",
+  "install": "npx -y zmanim-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentai-mcp-server",
+  "description": "Agentai Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "OnStartups/agentai-mcp-server",
+  "source_url": "https://mcp.so/server/agentai-mcp-server/OnStartups",
+  "install": "npx -y agentai-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "s-b-e-n-s-o-n-portkey-admin-mcp",
+  "description": "MCP server for the Portkey AI Gateway Admin API — 150 tools for prompts, configs, analytics, keys, guardrails, integrations, and more.",
+  "source_repo": "s-b-e-n-s-o-n/portkey-admin-mcp",
+  "source_url": "https://github.com/s-b-e-n-s-o-n/portkey-admin-mcp",
+  "install": "npx -y portkey-admin-mcp"
+}

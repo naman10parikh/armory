@@ -1,0 +1,7 @@
+{
+  "name": "expenselm",
+  "description": "AI-powered expense management with receipt extraction and semantic search",
+  "source_repo": "expenselm/expenselm-mcp-server",
+  "source_url": "https://github.com/expenselm/expenselm-mcp-server",
+  "install": "npx -y expenselm-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lenses",
+  "description": "Explore, transform, and join data in Kafka topics across multiple clusters",
+  "source_repo": "lensesio/lenses-mcp",
+  "source_url": "https://github.com/lensesio/lenses-mcp",
+  "install": "npx -y lenses-mcp"
+}

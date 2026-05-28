@@ -1,0 +1,7 @@
+{
+  "name": "netify-bt-reseller",
+  "description": "Check eligibility and commission for Netify's BT Business Services reseller programme, and generate application URLs.",
+  "source_repo": "netifymarketplace/bt-reseller-mcp",
+  "source_url": "https://github.com/netifymarketplace/bt-reseller-mcp",
+  "install": "npx -y bt-reseller-mcp"
+}

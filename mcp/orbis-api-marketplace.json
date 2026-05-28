@@ -1,0 +1,7 @@
+{
+  "name": "orbis-api-marketplace",
+  "description": "Orbis is an API marketplace built for the agent era. Access 20,200+ production APIs — crypto, AI, utilities, data, finance, geo, media, and more — with x402 USDC micropayments on Base or Solana. No accounts. No API keys. No subscriptions. Your wallet is your identity. How it works: Search the catalo",
+  "source_repo": "",
+  "source_url": "https://orbisapi.com",
+  "install": "# git clone --depth 1 https://orbisapi.com\n# See source for mcpServers config block"
+}

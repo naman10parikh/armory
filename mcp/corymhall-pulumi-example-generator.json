@@ -1,0 +1,7 @@
+{
+  "name": "corymhall-pulumi-example-generator",
+  "description": "Generates complete constructor examples with placeholder values for any Pulumi resource across TypeScript, Python, Go, C#, and Java by leveraging Pulumi's schema system to automatically populate all properties with appropriate default values.",
+  "source_repo": "corymhall/pulumi-example-gen-mcp",
+  "source_url": "https://github.com/corymhall/pulumi-example-gen-mcp",
+  "install": "npx -y pulumi-example-gen-mcp"
+}

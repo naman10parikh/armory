@@ -1,0 +1,7 @@
+{
+  "name": "yugui923-db-connect",
+  "description": "Read-only exploratory data analysis across PostgreSQL, MySQL, and ClickHouse.",
+  "source_repo": "yugui923/db-connect-mcp",
+  "source_url": "https://github.com/yugui923/db-connect-mcp",
+  "install": "npx -y db-connect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mming-lab-minecraft-bedrock",
+  "description": "Provides direct control over Minecraft Bedrock Edition through WebSocket connections, enabling agent movement, combat actions, world block manipulation, geometric building operations, player interactions, and environmental controls for automated gameplay and construction projects.",
+  "source_repo": "mming-lab/minecraft-bedrock-education-mcp",
+  "source_url": "https://github.com/mming-lab/minecraft-bedrock-education-mcp",
+  "install": "npx -y minecraft-bedrock-education-mcp"
+}

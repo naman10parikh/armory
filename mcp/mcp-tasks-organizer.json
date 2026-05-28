@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tasks-organizer",
+  "description": "Converts Cursor agent plans into structured markdown task lists and organizes them in your repository.",
+  "source_repo": "cbruyndoncx/mcp-tasks-organizer",
+  "source_url": "https://github.com/cbruyndoncx/mcp-tasks-organizer",
+  "install": "# git clone --depth 1 https://github.com/cbruyndoncx/mcp-tasks-organizer\n# See source for mcpServers config block"
+}

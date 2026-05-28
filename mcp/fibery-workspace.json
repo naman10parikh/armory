@@ -1,0 +1,7 @@
+{
+  "name": "fibery-workspace",
+  "description": "Provides a flexible integration with the Fibery API, enabling querying, creating, and updating entities across collaborative work tracking platforms through standardized tools.",
+  "source_repo": "fibery-inc/fibery-mcp-server",
+  "source_url": "https://github.com/fibery-inc/fibery-mcp-server",
+  "install": "npx -y fibery-mcp-server"
+}

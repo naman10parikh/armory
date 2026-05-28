@@ -1,0 +1,7 @@
+{
+  "name": "kvas-it-file-system",
+  "description": "Implements an extensive list of filesystem operations for navigating, reading, writing, and analyzing files, enabling efficient file management and content generation tasks.",
+  "source_repo": "kvas-it/mcp-server-fs",
+  "source_url": "https://github.com/kvas-it/mcp-server-fs",
+  "install": "# git clone --depth 1 https://github.com/kvas-it/mcp-server-fs\n# See source for mcpServers config block"
+}

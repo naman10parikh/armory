@@ -1,0 +1,7 @@
+{
+  "name": "modular-rag-mcp-server",
+  "description": "A pluggable, observable modular RAG framework exposing tools via MCP protocol for AI assistants like Copilot/Claude to query knowledge bases, list collections, and retrieve document summaries.",
+  "source_repo": "jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
+  "source_url": "https://github.com/jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
+  "install": "npx -y MODULAR-RAG-MCP-SERVER"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "transcribe",
+  "description": "Automates audio and video transcription with support for over 100 languages",
+  "source_repo": "transcribe-app/mcp-transcribe",
+  "source_url": "https://github.com/transcribe-app/mcp-transcribe",
+  "install": "# git clone --depth 1 https://github.com/transcribe-app/mcp-transcribe\n# See source for mcpServers config block"
+}

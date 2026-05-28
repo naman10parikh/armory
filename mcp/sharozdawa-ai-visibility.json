@@ -1,0 +1,7 @@
+{
+  "name": "sharozdawa-ai-visibility",
+  "description": "Track brand visibility and mentions across ChatGPT, Perplexity, Claude, and Gemini.",
+  "source_repo": "sharozdawa/ai-visibility",
+  "source_url": "https://github.com/sharozdawa/ai-visibility",
+  "install": "# git clone --depth 1 https://github.com/sharozdawa/ai-visibility\n# See source for mcpServers config block"
+}

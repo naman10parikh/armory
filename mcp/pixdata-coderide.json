@@ -1,0 +1,7 @@
+{
+  "name": "pixdata-coderide",
+  "description": "Integrates with CodeRide's task management platform to provide project retrieval, task operations, prompt extraction, and project initialization with knowledge graphs and Mermaid diagrams for development workflows.",
+  "source_repo": "pixdataorg/coderide-mcp",
+  "source_url": "https://github.com/pixdataorg/coderide-mcp",
+  "install": "npx -y coderide-mcp"
+}

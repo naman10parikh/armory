@@ -1,0 +1,7 @@
+{
+  "name": "singlestore-labs-singlestore",
+  "description": "Enables natural language interactions with SingleStore databases for executing SQL queries, managing workspaces, creating virtual environments, and handling scheduled jobs through direct database access.",
+  "source_repo": "singlestore-labs/mcp-server-singlestore",
+  "source_url": "https://github.com/singlestore-labs/mcp-server-singlestore",
+  "install": "# git clone --depth 1 https://github.com/singlestore-labs/mcp-server-singlestore\n# See source for mcpServers config block"
+}

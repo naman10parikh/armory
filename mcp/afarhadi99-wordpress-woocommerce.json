@@ -1,0 +1,7 @@
+{
+  "name": "afarhadi99-wordpress-woocommerce",
+  "description": "Integrates with WordPress and WooCommerce REST APIs to provide complete site management including posts, pages, users, products, orders, customers, and administrative functions with support for media uploads, batch operations, and e-commerce features like product variations and payment gateways.",
+  "source_repo": "afarhadi99/wordpress-mcp-full",
+  "source_url": "https://github.com/afarhadi99/wordpress-mcp-full",
+  "install": "# git clone --depth 1 https://github.com/afarhadi99/wordpress-mcp-full\n# See source for mcpServers config block"
+}

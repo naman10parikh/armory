@@ -1,0 +1,7 @@
+{
+  "name": "mrphrazer-ghidra-headless",
+  "description": "Headless Ghidra reverse engineering server with full MCP access to disassembly, decompilation, patching, types, scripting, and transaction-safe mutation workflows.",
+  "source_repo": "mrphrazer/ghidra-headless-mcp",
+  "source_url": "https://github.com/mrphrazer/ghidra-headless-mcp",
+  "install": "npx -y ghidra-headless-mcp"
+}

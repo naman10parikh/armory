@@ -1,0 +1,7 @@
+{
+  "name": "cmendezs-spain-e-invoicing",
+  "description": "Spanish e-invoicing MCP server supporting VERI*FACTU, Facturae/FACe, SII, TicketBAI, NaTicket, and Crea y Crece B2B standards.",
+  "source_repo": "cmendezs/mcp-facturacion-electronica-es",
+  "source_url": "https://github.com/cmendezs/mcp-facturacion-electronica-es",
+  "install": "# git clone --depth 1 https://github.com/cmendezs/mcp-facturacion-electronica-es\n# See source for mcpServers config block"
+}

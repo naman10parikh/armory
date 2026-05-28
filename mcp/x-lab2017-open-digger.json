@@ -1,0 +1,7 @@
+{
+  "name": "x-lab2017-open-digger",
+  "description": "Provides access to OpenDigger's open-source metrics data for analyzing project health, contributor influence, and community dynamics through a TypeScript tool that fetches GitHub and Gitee repository statistics.",
+  "source_repo": "x-lab2017/open-digger-mcp-server",
+  "source_url": "https://github.com/x-lab2017/open-digger-mcp-server",
+  "install": "npx -y open-digger-mcp-server"
+}

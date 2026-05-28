@@ -1,0 +1,7 @@
+{
+  "name": "finance-mcp",
+  "description": "A minimal MCP server that converts company names to stock symbols and fetches financial data from Yahoo Finance using two example tools.",
+  "source_repo": "esurovtsev/mcp-finance-server-py",
+  "source_url": "https://github.com/esurovtsev/mcp-finance-server-py",
+  "install": "# git clone --depth 1 https://github.com/esurovtsev/mcp-finance-server-py\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "italy-legacy-db-ai-bridge",
+  "description": "Enables AI assistants to securely query Italian legacy ERP databases (AS/400, SQL Server, etc.) with GDPR-compliant PII masking and semantic table mapping.",
+  "source_repo": "Impesud/italy-legacy-db-ai-bridge-template",
+  "source_url": "https://github.com/Impesud/italy-legacy-db-ai-bridge-template",
+  "install": "# git clone --depth 1 https://github.com/Impesud/italy-legacy-db-ai-bridge-template\n# See source for mcpServers config block"
+}

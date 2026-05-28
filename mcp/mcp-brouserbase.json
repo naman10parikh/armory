@@ -1,0 +1,7 @@
+{
+  "name": "mcp-brouserbase",
+  "description": "Mcp Brouserbase MCP server listed on mcp.so.",
+  "source_repo": "browserbase/mcp-brouserbase",
+  "source_url": "https://mcp.so/server/mcp-brouserbase/browserbase",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-brouserbase/browserbase\n# See source for mcpServers config block"
+}

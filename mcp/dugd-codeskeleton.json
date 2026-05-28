@@ -1,0 +1,7 @@
+{
+  "name": "dugd-codeskeleton",
+  "description": "Compact Python code reader that provides file skeletons and targeted symbol reads for AI agents.",
+  "source_repo": "dugd/codeskeleton",
+  "source_url": "https://github.com/dugd/codeskeleton",
+  "install": "# git clone --depth 1 https://github.com/dugd/codeskeleton\n# See source for mcpServers config block"
+}

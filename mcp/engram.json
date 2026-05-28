@@ -1,0 +1,7 @@
+{
+  "name": "engram",
+  "description": "Provides durable memory for AI agents with fact extraction, hybrid retrieval, and a temporal knowledge graph stored in SQLite.",
+  "source_repo": "jamjet-labs/jamjet",
+  "source_url": "https://github.com/jamjet-labs/jamjet",
+  "install": "# git clone --depth 1 https://github.com/jamjet-labs/jamjet\n# See source for mcpServers config block"
+}

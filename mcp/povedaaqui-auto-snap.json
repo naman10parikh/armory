@@ -1,0 +1,7 @@
+{
+  "name": "povedaaqui-auto-snap",
+  "description": "Provides automated snapshot functionality for capturing and managing system or application state at specific points in time",
+  "source_repo": "povedaaqui/auto-snap-mcp",
+  "source_url": "https://github.com/povedaaqui/auto-snap-mcp",
+  "install": "npx -y auto-snap-mcp"
+}

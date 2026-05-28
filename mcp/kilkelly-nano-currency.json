@@ -1,0 +1,7 @@
+{
+  "name": "kilkelly-nano-currency",
+  "description": "Lightweight server for sending Nano cryptocurrency, enabling direct blockchain transactions with robust validation and error handling.",
+  "source_repo": "kilkelly/nano-currency-mcp-server",
+  "source_url": "https://github.com/kilkelly/nano-currency-mcp-server",
+  "install": "npx -y nano-currency-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ushurbakiyevdavlat-linkedin",
+  "description": "Manages LinkedIn profiles, publishes content, uploads media, and retrieves organizational and post analytics through OAuth-authenticated API integration.",
+  "source_repo": "ushurbakiyevdavlat/linkedinmcp",
+  "source_url": "https://github.com/ushurbakiyevdavlat/linkedinmcp",
+  "install": "# git clone --depth 1 https://github.com/ushurbakiyevdavlat/linkedinmcp\n# See source for mcpServers config block"
+}

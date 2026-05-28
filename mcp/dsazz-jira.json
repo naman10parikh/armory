@@ -1,0 +1,7 @@
+{
+  "name": "dsazz-jira",
+  "description": "Integrates with Atlassian JIRA to retrieve issue details, list assigned tasks, and create tickets directly through conversation, using a modular architecture with clear separation between API clients, formatters, and tool implementations.",
+  "source_repo": "dsazz/mcp-jira",
+  "source_url": "https://github.com/dsazz/mcp-jira",
+  "install": "# git clone --depth 1 https://github.com/dsazz/mcp-jira\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jau123-meigen-ai-design",
+  "description": "Unified image generation across local ComfyUI workflows, OpenAI APIs, and MeiGen Cloud with a curated prompt library.",
+  "source_repo": "jau123/meigen-ai-design-mcp",
+  "source_url": "https://github.com/jau123/meigen-ai-design-mcp",
+  "install": "npx -y meigen-ai-design-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpshield",
+  "description": "Runtime security proxy for MCP servers with tool poisoning detection, credential leak prevention, and supply chain protection.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/mcpshield",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/mcpshield\n# See source for mcpServers config block"
+}

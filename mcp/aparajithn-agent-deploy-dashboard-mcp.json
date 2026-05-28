@@ -1,0 +1,7 @@
+{
+  "name": "aparajithn-agent-deploy-dashboard-mcp",
+  "description": "Unified deployment dashboard MCP server across Vercel, Render, Railway, and Fly.io. 9 tools for deploy status, logs, environment variables, rollback, and health checks across all platforms. Free tier with x402 micropayments.",
+  "source_repo": "aparajithn/agent-deploy-dashboard-mcp",
+  "source_url": "https://github.com/aparajithn/agent-deploy-dashboard-mcp",
+  "install": "npx -y agent-deploy-dashboard-mcp"
+}

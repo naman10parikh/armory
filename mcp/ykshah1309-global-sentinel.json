@@ -1,0 +1,7 @@
+{
+  "name": "ykshah1309-global-sentinel",
+  "description": "Aggregates Polymarket, GDELT, OpenSky, and Cloudflare Radar for real-time global intelligence.",
+  "source_repo": "ykshah1309/global-sentinel-mcp",
+  "source_url": "https://github.com/ykshah1309/global-sentinel-mcp",
+  "install": "npx -y global-sentinel-mcp"
+}

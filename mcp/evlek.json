@@ -1,0 +1,7 @@
+{
+  "name": "evlek",
+  "description": "Live Northern Cyprus (KKTC/TRNC) property data — search listings, track price indices, and get market overviews.",
+  "source_repo": "",
+  "source_url": "https://evlek.app",
+  "install": "# git clone --depth 1 https://evlek.app\n# See source for mcpServers config block"
+}

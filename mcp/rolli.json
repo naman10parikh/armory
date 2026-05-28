@@ -1,0 +1,7 @@
+{
+  "name": "rolli",
+  "description": "Social media search, expert discovery, and analytics across X, Reddit, YouTube, and more.",
+  "source_repo": "rolliinc/rolli-mcp",
+  "source_url": "https://github.com/rolliinc/rolli-mcp",
+  "install": "npx -y rolli-mcp"
+}

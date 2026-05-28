@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-thryx",
+  "description": "Gasless AI agent launchpad on Coinbase Base with 21 tools wrapping the Thryx API.",
+  "source_repo": "lordbasilaiassistant-sudo/thryx-mcp-server",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/thryx-mcp-server",
+  "install": "npx -y thryx-mcp-server"
+}

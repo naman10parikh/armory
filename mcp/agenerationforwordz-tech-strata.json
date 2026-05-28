@@ -1,0 +1,7 @@
+{
+  "name": "agenerationforwordz-tech-strata",
+  "description": "Self-hosted AI memory server providing persistent memory on your own hardware.",
+  "source_repo": "agenerationforwordz-tech/strata",
+  "source_url": "https://github.com/agenerationforwordz-tech/strata",
+  "install": "# git clone --depth 1 https://github.com/agenerationforwordz-tech/strata\n# See source for mcpServers config block"
+}

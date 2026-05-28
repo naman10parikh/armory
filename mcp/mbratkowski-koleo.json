@@ -1,0 +1,7 @@
+{
+  "name": "mbratkowski-koleo",
+  "description": "Searches Polish train stations, departures, arrivals, connections, routes, and seat availability through the Koleo timetable API.",
+  "source_repo": "mbratkowski/koleo-mcp",
+  "source_url": "https://github.com/mbratkowski/koleo-mcp",
+  "install": "npx -y koleo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "browser-proof",
+  "description": "Evidence-backed web verification for agents with deterministic JSON, text evidence, and screenshots.",
+  "source_repo": "shin1219-eng/browser-proof",
+  "source_url": "https://github.com/shin1219-eng/browser-proof",
+  "install": "# git clone --depth 1 https://github.com/shin1219-eng/browser-proof\n# See source for mcpServers config block"
+}

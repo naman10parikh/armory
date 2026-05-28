@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-search-mcp-server",
+  "description": "Enables searching academic papers on arXiv and retrieving detailed information such as title, authors, summary, and PDF link.",
+  "source_repo": "win4r/arxiv-search-MCP-Server",
+  "source_url": "https://github.com/win4r/arxiv-search-MCP-Server",
+  "install": "npx -y arxiv-search-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-aaronsb-jira-cloud",
+  "description": "Jira Cloud integration for issue management, boards, and sprints.",
+  "source_repo": "aaronsb/jira-cloud",
+  "source_url": "https://github.com/aaronsb/jira-cloud",
+  "install": "# git clone --depth 1 https://github.com/aaronsb/jira-cloud\n# See source for mcpServers config block"
+}

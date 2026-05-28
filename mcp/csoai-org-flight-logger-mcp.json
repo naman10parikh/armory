@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-flight-logger-mcp",
+  "description": "Tools for logging and tracking aviation flight records and logbook entries.",
+  "source_repo": "csoai-org/flight-logger-mcp",
+  "source_url": "https://github.com/csoai-org/flight-logger-mcp",
+  "install": "npx -y flight-logger-mcp"
+}

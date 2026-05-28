@@ -1,0 +1,7 @@
+{
+  "name": "robdel12-doc-fetcher",
+  "description": "Fetches documentation from local Dash docsets or any URL and converts it to clean markdown for quick lookups and reference.",
+  "source_repo": "robdel12/doc-fetcher-mcp",
+  "source_url": "https://github.com/robdel12/doc-fetcher-mcp",
+  "install": "npx -y doc-fetcher-mcp"
+}

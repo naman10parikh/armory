@@ -1,0 +1,7 @@
+{
+  "name": "walrusquant-sports-leader",
+  "description": "Access live ESPN sports data across 17 sports and 139 leagues — scores, stats, rosters, betting odds, and standings without authentication.",
+  "source_repo": "walrusquant/sports-leader-mcp",
+  "source_url": "https://github.com/walrusquant/sports-leader-mcp",
+  "install": "npx -y sports-leader-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "davidlbatey-distill",
+  "description": "Converts saved articles into AI-generated two-host podcasts using LLM dialogue generation and multiple TTS providers.",
+  "source_repo": "davidlbatey/distill_mcp",
+  "source_url": "https://github.com/davidlbatey/distill_mcp",
+  "install": "npx -y distill_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "usercall",
+  "description": "Run scalable qualitative voice interviews and retrieve structured themes with verbatim quotes.",
+  "source_repo": "junetic/usercall-mcp",
+  "source_url": "https://github.com/junetic/usercall-mcp",
+  "install": "npx -y usercall-mcp"
+}

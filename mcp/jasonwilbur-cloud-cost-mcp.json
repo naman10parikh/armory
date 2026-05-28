@@ -1,0 +1,7 @@
+{
+  "name": "jasonwilbur-cloud-cost-mcp",
+  "description": "Multi-cloud pricing comparison across AWS, Azure, GCP, and OCI with 2,700+ instance types. Real-time pricing from public APIs, workload calculators, and migration savings estimator.",
+  "source_repo": "jasonwilbur/cloud-cost-mcp",
+  "source_url": "https://github.com/jasonwilbur/cloud-cost-mcp",
+  "install": "npx -y cloud-cost-mcp"
+}

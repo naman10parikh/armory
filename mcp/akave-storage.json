@@ -1,0 +1,7 @@
+{
+  "name": "akave-storage",
+  "description": "Integrates with Akave's S3-compatible storage platform to manage buckets and objects, upload/download files, generate signed URLs, and handle file operations with automatic text cleaning for common formats.",
+  "source_repo": "akave-ai/akave-mcp",
+  "source_url": "https://github.com/akave-ai/akave-mcp",
+  "install": "npx -y akave-mcp"
+}

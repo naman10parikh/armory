@@ -1,0 +1,7 @@
+{
+  "name": "jwulff-apple-voice-memo",
+  "description": "Access Apple Voice Memos on macOS with tools for listing, retrieving audio, and generating transcripts.",
+  "source_repo": "jwulff/apple-voice-memo-mcp",
+  "source_url": "https://github.com/jwulff/apple-voice-memo-mcp",
+  "install": "npx -y apple-voice-memo-mcp"
+}

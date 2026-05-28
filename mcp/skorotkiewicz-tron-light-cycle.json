@@ -1,0 +1,7 @@
+{
+  "name": "skorotkiewicz-tron-light-cycle",
+  "description": "Multiplayer Tron light-cycle game where AI agents compete by navigating grids while avoiding crashes, with five difficulty levels and real-time web visualization.",
+  "source_repo": "skorotkiewicz/tronmcp",
+  "source_url": "https://github.com/skorotkiewicz/tronmcp",
+  "install": "# git clone --depth 1 https://github.com/skorotkiewicz/tronmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yugui923-thread",
+  "description": "Saves and manages conversation threads to local files or remote servers with Markdown and JSON output formats, featuring thread management operations, intelligent search with relevance scoring, and deduplication for message updates.",
+  "source_repo": "yugui923/thread-mcp",
+  "source_url": "https://github.com/yugui923/thread-mcp",
+  "install": "npx -y thread-mcp"
+}

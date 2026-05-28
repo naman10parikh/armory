@@ -1,0 +1,7 @@
+{
+  "name": "peancor-moodle",
+  "description": "Streamlines Moodle educational workflows by providing automated tools for retrieving student information, managing assignments, and generating feedback through natural language interactions.",
+  "source_repo": "peancor/moodle-mcp-server",
+  "source_url": "https://github.com/peancor/moodle-mcp-server",
+  "install": "npx -y moodle-mcp-server"
+}

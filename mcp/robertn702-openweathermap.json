@@ -1,0 +1,7 @@
+{
+  "name": "robertn702-openweathermap",
+  "description": "Integrates with OpenWeatherMap API to provide current conditions, forecasts, air quality monitoring, weather alerts, and location services through 11 specialized tools for weather-dependent applications and travel planning.",
+  "source_repo": "robertn702/mcp-openweathermap",
+  "source_url": "https://github.com/robertn702/mcp-openweathermap",
+  "install": "# git clone --depth 1 https://github.com/robertn702/mcp-openweathermap\n# See source for mcpServers config block"
+}

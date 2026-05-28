@@ -1,0 +1,7 @@
+{
+  "name": "mrblacksheep91-mt5",
+  "description": "MCP server bridging MetaTrader 5 terminals to AI tools with 28 tools covering market data, account info, technical indicators, and trading execution.",
+  "source_repo": "mrblacksheep91/mt5-mcp",
+  "source_url": "https://github.com/mrblacksheep91/mt5-mcp",
+  "install": "npx -y mt5-mcp"
+}

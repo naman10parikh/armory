@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-graph-mcp-server",
+  "description": "Enables AI assistants to interact with Microsoft 365 services (users, mail, calendar, files) via Microsoft Graph API.",
+  "source_repo": "sapientsai/microsoft-mcp-server",
+  "source_url": "https://github.com/sapientsai/microsoft-mcp-server",
+  "install": "npx -y microsoft-mcp-server"
+}

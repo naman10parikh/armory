@@ -1,0 +1,7 @@
+{
+  "name": "rasinmuhammed-misata",
+  "description": "Generates realistic, multi-table synthetic datasets from natural language descriptions, YAML schemas, or existing databases with referential integrity.",
+  "source_repo": "rasinmuhammed/misata",
+  "source_url": "https://github.com/rasinmuhammed/misata",
+  "install": "# git clone --depth 1 https://github.com/rasinmuhammed/misata\n# See source for mcpServers config block"
+}

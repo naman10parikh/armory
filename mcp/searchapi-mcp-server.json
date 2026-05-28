@@ -1,0 +1,7 @@
+{
+  "name": "searchapi-mcp-server",
+  "description": "MCP server that provides standardized access to Google Maps, Flights, Hotels, and other search services, enabling AI assistants to perform various searches.",
+  "source_repo": "iflow-mcp/searchAPI-mcp",
+  "source_url": "https://github.com/iflow-mcp/searchAPI-mcp",
+  "install": "npx -y searchAPI-mcp"
+}

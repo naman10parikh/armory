@@ -1,0 +1,7 @@
+{
+  "name": "java-mcp-server",
+  "description": "Java Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "kobeyk/java-mcp-server",
+  "source_url": "https://mcp.so/server/java-mcp-server/kobeyk",
+  "install": "npx -y java-mcp-server"
+}

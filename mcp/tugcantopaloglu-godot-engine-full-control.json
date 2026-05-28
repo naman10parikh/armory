@@ -1,0 +1,7 @@
+{
+  "name": "tugcantopaloglu-godot-engine-full-control",
+  "description": "Comprehensive Godot game engine integration with runtime code execution, scene manipulation, animation control, signal handling, and performance monitoring.",
+  "source_repo": "tugcantopaloglu/godot-mcp",
+  "source_url": "https://github.com/tugcantopaloglu/godot-mcp",
+  "install": "npx -y godot-mcp"
+}

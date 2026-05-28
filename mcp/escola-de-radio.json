@@ -1,0 +1,7 @@
+{
+  "name": "escola-de-radio",
+  "description": "Read-only access to courses, classes, faculty, podcasts, and blog content from Escola de Rádio TV & Web (ER+).",
+  "source_repo": "",
+  "source_url": "https://escoladeradio.com.br/mcp",
+  "install": "# git clone --depth 1 https://escoladeradio.com.br/mcp\n# See source for mcpServers config block"
+}

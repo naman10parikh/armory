@@ -1,0 +1,7 @@
+{
+  "name": "norma-mcp-server",
+  "description": "Free hosted MCP server for EU compliance, enabling search across 8 frameworks, cross-framework mapping, policy generation, and gap assessment via natural language.",
+  "source_repo": "kynosure-ai/norma-mcp-server",
+  "source_url": "https://github.com/kynosure-ai/norma-mcp-server",
+  "install": "npx -y norma-mcp-server"
+}

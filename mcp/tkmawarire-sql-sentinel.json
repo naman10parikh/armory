@@ -1,0 +1,7 @@
+{
+  "name": "tkmawarire-sql-sentinel",
+  "description": "Database monitoring and SQL query analysis with performance insights and anomaly detection.",
+  "source_repo": "tkmawarire/sql-sentinel",
+  "source_url": "https://github.com/tkmawarire/sql-sentinel",
+  "install": "# git clone --depth 1 https://github.com/tkmawarire/sql-sentinel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codefreezeai-xcode-control",
+  "description": "Interacts with Xcode to allow fixing of warnings and build errors",
+  "source_repo": "codefreezeai/xcf",
+  "source_url": "https://github.com/codefreezeai/xcf",
+  "install": "# git clone --depth 1 https://github.com/codefreezeai/xcf\n# See source for mcpServers config block"
+}

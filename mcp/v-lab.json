@@ -1,0 +1,7 @@
+{
+  "name": "v-lab",
+  "description": "Volatility, SRISK, CRISK, liquidity, and climate-risk data from NYU Stern's Volatility and Risk Institute.",
+  "source_repo": "volatility/vlab-mcp",
+  "source_url": "https://github.com/volatility/vlab-mcp",
+  "install": "npx -y vlab-mcp"
+}

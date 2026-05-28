@@ -1,0 +1,7 @@
+{
+  "name": "e2b-mcp-server",
+  "description": "Production-grade MCP server that enables AI assistants to execute code securely in isolated E2B sandboxes.",
+  "source_repo": "yukkit/e2b-mcp-server",
+  "source_url": "https://github.com/yukkit/e2b-mcp-server",
+  "install": "npx -y e2b-mcp-server"
+}

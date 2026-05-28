@@ -1,0 +1,7 @@
+{
+  "name": "annot",
+  "description": "Retrieves and manages visual website feedback from Annot for applying design changes through AI assistants.",
+  "source_repo": "pkk-dev/annot-mcp",
+  "source_url": "https://github.com/pkk-dev/annot-mcp",
+  "install": "npx -y annot-mcp"
+}

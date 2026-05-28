@@ -1,0 +1,7 @@
+{
+  "name": "bartonguestier1725-collab-scout-mcp",
+  "description": "Multi-source search across code registries (GitHub, npm, PyPI), academic indexes (arXiv, Semantic Scholar), social platforms (HN, Reddit, X), and community blogs (Dev.to, Hashnode, Qiita, Zenn). Parallel fetch with structured JSON output. `npx -y scout-cli`.",
+  "source_repo": "bartonguestier1725-collab/scout-mcp",
+  "source_url": "https://github.com/bartonguestier1725-collab/scout-mcp",
+  "install": "npx -y scout-mcp"
+}

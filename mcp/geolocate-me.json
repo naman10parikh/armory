@@ -1,0 +1,7 @@
+{
+  "name": "geolocate-me",
+  "description": "Private location tracking MCP server with offline resilience and a developer API by Guleki.",
+  "source_repo": "",
+  "source_url": "https://guleki.com",
+  "install": "# git clone --depth 1 https://guleki.com\n# See source for mcpServers config block"
+}

@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [cpp-hooks, cpp-patterns]
-tags: [ecc, rules, cpp]
+tags: [rules, cpp]
 ---
 ## What it is
 cpp rule: apply when working on cpp and you need C++ Coding Style.

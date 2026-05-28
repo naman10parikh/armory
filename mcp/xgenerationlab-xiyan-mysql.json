@@ -1,0 +1,7 @@
+{
+  "name": "xgenerationlab-xiyan-mysql",
+  "description": "Enables natural language interaction with MySQL databases through XiYanSQL, providing secure table listing, data reading, and query execution capabilities without direct SQL access.",
+  "source_repo": "xgenerationlab/xiyan_mcp_server",
+  "source_url": "https://github.com/xgenerationlab/xiyan_mcp_server",
+  "install": "npx -y xiyan_mcp_server"
+}

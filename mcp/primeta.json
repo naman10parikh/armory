@@ -1,0 +1,7 @@
+{
+  "name": "primeta",
+  "description": "Give AI agents a face, voice, and personality with customizable 3D avatars via MCP.",
+  "source_repo": "",
+  "source_url": "https://primeta.ai",
+  "install": "# git clone --depth 1 https://primeta.ai\n# See source for mcpServers config block"
+}

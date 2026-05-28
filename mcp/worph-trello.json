@@ -1,0 +1,7 @@
+{
+  "name": "worph-trello",
+  "description": "Manages Trello boards, lists, cards, comments, checklists, and attachments via Dockerized HTTP transport with Beacon discovery.",
+  "source_repo": "worph/trello-mcp",
+  "source_url": "https://github.com/worph/trello-mcp",
+  "install": "npx -y trello-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stucchi-mcp-advisor",
+  "description": "Browse, search, and discover MCP servers from the MCP Advisor registry with filtering by transport, tags, and trending metrics.",
+  "source_repo": "stucchi/mcp-advisor",
+  "source_url": "https://github.com/stucchi/mcp-advisor",
+  "install": "# git clone --depth 1 https://github.com/stucchi/mcp-advisor\n# See source for mcpServers config block"
+}

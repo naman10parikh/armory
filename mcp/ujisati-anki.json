@@ -1,0 +1,7 @@
+{
+  "name": "ujisati-anki",
+  "description": "Integrates with Anki flashcard software to create, manage, and study flashcards through natural language interactions with your local Anki desktop application",
+  "source_repo": "ujisati/anki-mcp",
+  "source_url": "https://github.com/ujisati/anki-mcp",
+  "install": "npx -y anki-mcp"
+}

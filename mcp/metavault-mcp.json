@@ -1,0 +1,7 @@
+{
+  "name": "metavault-mcp",
+  "description": "Multi-protocol yield intelligence for AI agents — covering Spectra Finance, Pendle, and Morpho via the Model Context Protocol.",
+  "source_repo": "Finanzgoblin/spectra-mcp-server",
+  "source_url": "https://github.com/Finanzgoblin/spectra-mcp-server",
+  "install": "npx -y spectra-mcp-server"
+}

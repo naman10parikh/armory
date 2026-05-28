@@ -1,0 +1,7 @@
+{
+  "name": "yc-css-ui",
+  "description": "Analyzes CSS code to identify layout issues, specificity conflicts, and browser compatibility problems, then generates corrected CSS with preserved formatting.",
+  "source_repo": "hiyco/yc-css-ui-mcp",
+  "source_url": "https://github.com/hiyco/yc-css-ui-mcp",
+  "install": "npx -y yc-css-ui-mcp"
+}

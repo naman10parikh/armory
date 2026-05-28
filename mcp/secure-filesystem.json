@@ -1,0 +1,7 @@
+{
+  "name": "secure-filesystem",
+  "description": "Provides secure file system access through a Go-based server that enables reading, writing, listing, and manipulating files within specified allowed directories while preventing directory traversal attacks.",
+  "source_repo": "cheny-alf/filesystem-server",
+  "source_url": "https://github.com/cheny-alf/filesystem-server",
+  "install": "# git clone --depth 1 https://github.com/cheny-alf/filesystem-server\n# See source for mcpServers config block"
+}

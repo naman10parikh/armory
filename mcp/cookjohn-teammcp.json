@@ -1,0 +1,7 @@
+{
+  "name": "cookjohn-teammcp",
+  "description": "MCP server for team collaboration, providing tools to manage shared tasks, notes, and communication within AI workflows.",
+  "source_repo": "cookjohn/teammcp",
+  "source_url": "https://github.com/cookjohn/teammcp",
+  "install": "# git clone --depth 1 https://github.com/cookjohn/teammcp\n# See source for mcpServers config block"
+}

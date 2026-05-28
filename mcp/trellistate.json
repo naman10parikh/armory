@@ -1,0 +1,7 @@
+{
+  "name": "trellistate",
+  "description": "Free public real estate listing exchange for AI agents to search, retrieve, and submit inquiries on property listings.",
+  "source_repo": "",
+  "source_url": "https://trellistate.com/docs",
+  "install": "# git clone --depth 1 https://trellistate.com/docs\n# See source for mcpServers config block"
+}

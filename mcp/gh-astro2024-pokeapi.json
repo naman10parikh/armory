@@ -1,0 +1,7 @@
+{
+  "name": "gh-astro2024-pokeapi",
+  "description": "Query Pokémon data including species, moves, abilities, items, types, locations, and evolution chains via the PokéAPI.",
+  "source_repo": "astro2024/pokeapi-mcp-server",
+  "source_url": "https://github.com/astro2024/pokeapi-mcp-server",
+  "install": "npx -y pokeapi-mcp-server"
+}

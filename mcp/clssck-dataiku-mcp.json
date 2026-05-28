@@ -1,0 +1,7 @@
+{
+  "name": "clssck-dataiku-mcp",
+  "description": "MCP server for Dataiku DSS APIs.",
+  "source_repo": "clssck/dataiku_mcp",
+  "source_url": "https://github.com/clssck/dataiku_mcp",
+  "install": "npx -y dataiku_mcp"
+}

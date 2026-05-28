@@ -1,0 +1,7 @@
+{
+  "name": "sengbin-jlceda",
+  "description": "Provides MCP integration for JLCEDA (EasyEDA) electronic design automation with bridged connector architecture.",
+  "source_repo": "sengbin/jlceda-mcp",
+  "source_url": "https://github.com/sengbin/jlceda-mcp",
+  "install": "npx -y jlceda-mcp"
+}

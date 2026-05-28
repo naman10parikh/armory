@@ -1,0 +1,7 @@
+{
+  "name": "ordinal",
+  "description": "Draft, schedule, analyze, and manage social media content across LinkedIn, Twitter, Instagram, and more.",
+  "source_repo": "",
+  "source_url": "https://docs.tryordinal.com/api/mcp",
+  "install": "# git clone --depth 1 https://docs.tryordinal.com/api/mcp\n# See source for mcpServers config block"
+}

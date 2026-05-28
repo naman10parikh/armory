@@ -1,0 +1,7 @@
+{
+  "name": "jkelleman-ai-insights-agent",
+  "description": "Translates natural language questions into SQL queries across multiple databases with configurable metrics, business glossary mappings, and data quality validation.",
+  "source_repo": "jkelleman/ai-assisted-insights-agent",
+  "source_url": "https://github.com/jkelleman/ai-assisted-insights-agent",
+  "install": "# git clone --depth 1 https://github.com/jkelleman/ai-assisted-insights-agent\n# See source for mcpServers config block"
+}

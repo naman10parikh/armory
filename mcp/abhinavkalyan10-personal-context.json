@@ -1,0 +1,7 @@
+{
+  "name": "abhinavkalyan10-personal-context",
+  "description": "Provides a Markdown-based three-layer memory system for Claude Desktop with file management and memory operations.",
+  "source_repo": "abhinavkalyan10/personal-context-mcp",
+  "source_url": "https://github.com/abhinavkalyan10/personal-context-mcp",
+  "install": "npx -y personal-context-mcp"
+}

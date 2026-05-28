@@ -1,0 +1,7 @@
+{
+  "name": "bw-modeling-mcp",
+  "description": "Enables AI assistants to read, create, and modify SAP BW/4HANA modeling objects via the internal REST API, including aDSOs, InfoObjects, transformations, DTPs, queries, and more.",
+  "source_repo": "dnic-dev/bw-modeling-mcp",
+  "source_url": "https://github.com/dnic-dev/bw-modeling-mcp",
+  "install": "npx -y bw-modeling-mcp"
+}

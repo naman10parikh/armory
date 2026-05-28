@@ -1,0 +1,7 @@
+{
+  "name": "api",
+  "description": "任务API MCP server listed on mcp.so.",
+  "source_repo": "Ceeon/任务API",
+  "source_url": "https://mcp.so/server/任务API/Ceeon",
+  "install": "# git clone --depth 1 https://mcp.so/server/任务API/Ceeon\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-ethics-check-mcp",
+  "description": "MCP server for comprehensive ethical analysis of AI conversations, detecting bias, harmful content, and providing critical thinking assessments with automated pattern learning",
+  "source_repo": "r-huijts/ethics-check-mcp",
+  "source_url": "https://github.com/r-huijts/ethics-check-mcp",
+  "install": "npx -y ethics-check-mcp"
+}

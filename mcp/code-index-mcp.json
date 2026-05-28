@@ -1,0 +1,7 @@
+{
+  "name": "code-index-mcp",
+  "description": "Code Index Mcp MCP server listed on mcp.so.",
+  "source_repo": "johnhuang316/code-index-mcp",
+  "source_url": "https://mcp.so/server/code-index-mcp/johnhuang316",
+  "install": "npx -y code-index-mcp"
+}

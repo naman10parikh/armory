@@ -1,0 +1,7 @@
+{
+  "name": "uithub-mcp",
+  "description": "Uithub Mcp MCP server listed on mcp.so.",
+  "source_repo": "janwilmake/uithub-mcp",
+  "source_url": "https://mcp.so/server/uithub-mcp/janwilmake",
+  "install": "npx -y uithub-mcp"
+}

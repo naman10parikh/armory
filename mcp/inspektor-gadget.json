@@ -1,0 +1,7 @@
+{
+  "name": "inspektor-gadget",
+  "description": "Integrates with Kubernetes clusters using Inspektor Gadget to provide intelligent troubleshooting, network monitoring, system call tracing, and performance analysis through natural language commands without requiring eBPF expertise.",
+  "source_repo": "inspektor-gadget/ig-mcp-server",
+  "source_url": "https://github.com/inspektor-gadget/ig-mcp-server",
+  "install": "npx -y ig-mcp-server"
+}

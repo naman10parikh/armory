@@ -1,0 +1,7 @@
+{
+  "name": "mcp-academic-editor",
+  "description": "A sophisticated academic manuscript revision system that provides surgical, line-anchored editing tools through MCP, designed for precise manuscript revisions while maintaining word count and semantic integrity.",
+  "source_repo": "drquandary/mcp-academic-editor",
+  "source_url": "https://github.com/drquandary/mcp-academic-editor",
+  "install": "# git clone --depth 1 https://github.com/drquandary/mcp-academic-editor\n# See source for mcpServers config block"
+}

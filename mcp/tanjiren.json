@@ -1,0 +1,7 @@
+{
+  "name": "tanjiren",
+  "description": "Task delegation platform for remote workstations and AI coding agents with role-based access.",
+  "source_repo": "",
+  "source_url": "https://tanjiren.app/docs",
+  "install": "# git clone --depth 1 https://tanjiren.app/docs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pepesto",
+  "description": "Converts recipes into matched shopping carts with live prices across 27 European supermarkets via AI agents.",
+  "source_repo": "pepesto-solutions/pepesto-mcp",
+  "source_url": "https://github.com/pepesto-solutions/pepesto-mcp",
+  "install": "npx -y pepesto-mcp"
+}

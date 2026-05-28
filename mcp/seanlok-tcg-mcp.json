@@ -1,0 +1,7 @@
+{
+  "name": "seanlok-tcg-mcp",
+  "description": "Pokemon TCG tools: PSA grading lookups, collection management, and multi-provider card pricing.",
+  "source_repo": "seanlok/tcg-mcp",
+  "source_url": "https://github.com/seanlok/tcg-mcp",
+  "install": "npx -y tcg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-artic",
+  "description": "Artworks, artists, and exhibitions from the Art Institute of Chicago via the ARTIC public API.",
+  "source_repo": "pipeworx-io/mcp-artic",
+  "source_url": "https://github.com/pipeworx-io/mcp-artic",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-artic\n# See source for mcpServers config block"
+}

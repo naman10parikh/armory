@@ -1,0 +1,7 @@
+{
+  "name": "hyperb1iss-lucidity-mcp",
+  "description": "Enhance AI-generated code quality through intelligent, prompt-based analysis across 10 critical dimensions from complexity to security vulnerabilities",
+  "source_repo": "hyperb1iss/lucidity-mcp",
+  "source_url": "https://github.com/hyperb1iss/lucidity-mcp",
+  "install": "npx -y lucidity-mcp"
+}

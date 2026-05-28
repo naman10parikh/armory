@@ -1,0 +1,7 @@
+{
+  "name": "morocco-open-data-mcp",
+  "description": "Provides unified access to Moroccan government data, financial markets, geographic information, and more via natural language queries.",
+  "source_repo": "kcbdev/morocco-open-data-mcp",
+  "source_url": "https://github.com/kcbdev/morocco-open-data-mcp",
+  "install": "npx -y morocco-open-data-mcp"
+}

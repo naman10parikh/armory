@@ -1,0 +1,7 @@
+{
+  "name": "mcp-puppeteer-extra",
+  "description": "MCP_puppeteer_extra MCP server listed on mcp.so.",
+  "source_repo": "gpaul-faldin/MCP_puppeteer_extra",
+  "source_url": "https://mcp.so/server/MCP_puppeteer_extra/gpaul-faldin",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP_puppeteer_extra/gpaul-faldin\n# See source for mcpServers config block"
+}

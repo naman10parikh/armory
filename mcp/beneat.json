@@ -1,0 +1,7 @@
+{
+  "name": "beneat",
+  "description": "On-chain risk enforcement and behavioral analytics for autonomous trading agents on Solana.",
+  "source_repo": "beneat-ai/beneat-agentic-trading-mcp",
+  "source_url": "https://github.com/beneat-ai/beneat-agentic-trading-mcp/tree/HEAD/mcp-server",
+  "install": "npx -y beneat-agentic-trading-mcp"
+}

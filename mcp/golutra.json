@@ -1,0 +1,7 @@
+{
+  "name": "golutra",
+  "description": "Bridge for the Golutra collaboration platform providing chat, roadmap, context, and skill discovery tools.",
+  "source_repo": "golutra/golutra-mcp",
+  "source_url": "https://github.com/golutra/golutra-mcp",
+  "install": "npx -y golutra-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fabdendev-ghost-writer",
+  "description": "Scans Git repositories for engineering activity and generates confidentiality-sanitised LinkedIn post drafts.",
+  "source_repo": "fabdendev/ghost-writer-mcp",
+  "source_url": "https://github.com/fabdendev/ghost-writer-mcp",
+  "install": "npx -y ghost-writer-mcp"
+}

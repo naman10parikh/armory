@@ -1,0 +1,7 @@
+{
+  "name": "voska-home-assistant",
+  "description": "Integrates with Home Assistant to enable natural language control of smart home devices, querying device states, troubleshooting automations, and summarizing home configurations through a Docker container that communicates with the Home Assistant API.",
+  "source_repo": "voska/hass-mcp",
+  "source_url": "https://github.com/voska/hass-mcp",
+  "install": "npx -y hass-mcp"
+}

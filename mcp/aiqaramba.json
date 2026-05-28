@@ -1,0 +1,7 @@
+{
+  "name": "aiqaramba",
+  "description": "Browser-based QA testing for AI-built software using real browsers.",
+  "source_repo": "",
+  "source_url": "https://aiqaramba.com",
+  "install": "# git clone --depth 1 https://aiqaramba.com\n# See source for mcpServers config block"
+}

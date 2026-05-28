@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mayo",
+  "description": "MCP server that exposes MAYO Apollo HRM platform's Foundation, Attendance, and Payroll APIs as AI-callable tools, enabling natural language queries for employee profiles, attendance summaries, and payroll reports.",
+  "source_repo": "asgard-ai-platform/mcp-mayo",
+  "source_url": "https://github.com/asgard-ai-platform/mcp-mayo",
+  "install": "# git clone --depth 1 https://github.com/asgard-ai-platform/mcp-mayo\n# See source for mcpServers config block"
+}

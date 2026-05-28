@@ -1,0 +1,7 @@
+{
+  "name": "feiskyer-kubernetes",
+  "description": "Enables direct Kubernetes cluster management through kubectl command execution, providing a bridge for real-time resource administration within conversations.",
+  "source_repo": "feiskyer/mcp-kubernetes-server",
+  "source_url": "https://github.com/feiskyer/mcp-kubernetes-server",
+  "install": "# git clone --depth 1 https://github.com/feiskyer/mcp-kubernetes-server\n# See source for mcpServers config block"
+}

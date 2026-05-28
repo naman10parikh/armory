@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-2",
+  "description": "Remote Mcp Server 2 MCP server listed on mcp.so.",
+  "source_repo": "cmsparks/remote-mcp-server-2",
+  "source_url": "https://mcp.so/server/remote-mcp-server-2/cmsparks",
+  "install": "# git clone --depth 1 https://mcp.so/server/remote-mcp-server-2/cmsparks\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "creating-cat-gemini-image",
+  "description": "Integrates with Google's Gemini API to generate images with built-in Sharp-based resizing, format conversion, and imagemin optimization for streamlined visual content creation workflows.",
+  "source_repo": "creating-cat/gemini-image-mcp-server",
+  "source_url": "https://github.com/creating-cat/gemini-image-mcp-server",
+  "install": "npx -y gemini-image-mcp-server"
+}

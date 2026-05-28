@@ -1,0 +1,7 @@
+{
+  "name": "rersozlu-tgo-yemek",
+  "description": "Integrates with TGO Yemek Turkish food delivery service to enable complete ordering workflows including address management, restaurant browsing, menu exploration, cart operations, payment processing with 3D Secure verification, and order tracking.",
+  "source_repo": "rersozlu/food402",
+  "source_url": "https://github.com/rersozlu/food402",
+  "install": "# git clone --depth 1 https://github.com/rersozlu/food402\n# See source for mcpServers config block"
+}

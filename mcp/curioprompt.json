@@ -1,0 +1,7 @@
+{
+  "name": "curioprompt",
+  "description": "Searches Curioprompt to get new, useful and interesting prompts.",
+  "source_repo": "",
+  "source_url": "https://curioforce.com/curioprompt-mcp-claude",
+  "install": "# git clone --depth 1 https://curioforce.com/curioprompt-mcp-claude\n# See source for mcpServers config block"
+}

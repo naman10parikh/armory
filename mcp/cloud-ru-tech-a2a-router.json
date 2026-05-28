@@ -1,0 +1,7 @@
+{
+  "name": "cloud-ru-tech-a2a-router",
+  "description": "Multi-agent system that combines Google's Agent Development Kit with router-based architecture to coordinate specialized AI agents, enabling task delegation between remote agents like weather services through streaming and non-streaming interactions.",
+  "source_repo": "cloud-ru/a2a-adk-mcp-example",
+  "source_url": "https://github.com/cloud-ru/a2a-adk-mcp-example",
+  "install": "# git clone --depth 1 https://github.com/cloud-ru/a2a-adk-mcp-example\n# See source for mcpServers config block"
+}

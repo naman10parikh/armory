@@ -1,0 +1,7 @@
+{
+  "name": "desktop-image-manager",
+  "description": "Provides tools for managing and manipulating local desktop images with capabilities for file counting, filename retrieval, and image compression using the Sharp library",
+  "source_repo": "zhixiaoqiang/desktop-image-manager-mcp",
+  "source_url": "https://github.com/zhixiaoqiang/desktop-image-manager-mcp",
+  "install": "npx -y desktop-image-manager-mcp"
+}

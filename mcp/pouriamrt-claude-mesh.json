@@ -1,0 +1,7 @@
+{
+  "name": "pouriamrt-claude-mesh",
+  "description": "MCP server enabling peer-to-peer messaging, broadcasting, and threading between Claude Code instances.",
+  "source_repo": "pouriamrt/claude-mesh",
+  "source_url": "https://github.com/pouriamrt/claude-mesh",
+  "install": "# git clone --depth 1 https://github.com/pouriamrt/claude-mesh\n# See source for mcpServers config block"
+}

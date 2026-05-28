@@ -1,0 +1,7 @@
+{
+  "name": "theposch-gmail",
+  "description": "Provides direct access to Gmail accounts for reading, sending, drafting, archiving, and organizing emails through the Google API with comprehensive search and filter management capabilities.",
+  "source_repo": "theposch/gmail-mcp",
+  "source_url": "https://github.com/theposch/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

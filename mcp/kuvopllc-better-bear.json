@@ -1,0 +1,7 @@
+{
+  "name": "kuvopllc-better-bear",
+  "description": "MCP server for Bear notes via CloudKit — CRUD, tags, TODOs, attachments, search, front matter, stats, and health checks. Install via `npx better-bear`.",
+  "source_repo": "KuvopLLC/better-bear",
+  "source_url": "https://github.com/KuvopLLC/better-bear/tree/main/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/KuvopLLC/better-bear/tree/main/mcp-server\n# See source for mcpServers config block"
+}

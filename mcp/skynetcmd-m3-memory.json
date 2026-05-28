@@ -1,0 +1,7 @@
+{
+  "name": "skynetcmd-m3-memory",
+  "description": "Persistent memory layer for AI agents with hybrid search, contradiction detection, and knowledge graphs.",
+  "source_repo": "skynetcmd/m3-memory",
+  "source_url": "https://github.com/skynetcmd/m3-memory",
+  "install": "# git clone --depth 1 https://github.com/skynetcmd/m3-memory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "j0hanz-superfetch",
+  "description": "Fetches and transforms web content into structured JSONL or markdown formats",
+  "source_repo": "j0hanz/fetch-url-mcp",
+  "source_url": "https://github.com/j0hanz/fetch-url-mcp",
+  "install": "npx -y fetch-url-mcp"
+}

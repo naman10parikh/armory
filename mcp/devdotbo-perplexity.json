@@ -1,0 +1,7 @@
+{
+  "name": "devdotbo-perplexity",
+  "description": "Provides access to Perplexity AI models with tools for queries, research, and usage monitoring.",
+  "source_repo": "devdotbo/perplexity-web-mcp",
+  "source_url": "https://github.com/devdotbo/perplexity-web-mcp",
+  "install": "npx -y perplexity-web-mcp"
+}

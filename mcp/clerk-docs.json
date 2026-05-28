@@ -1,0 +1,7 @@
+{
+  "name": "clerk-docs",
+  "description": "Search and retrieve Clerk authentication documentation and guides.",
+  "source_repo": "",
+  "source_url": "https://clerk.com/docs",
+  "install": "# git clone --depth 1 https://clerk.com/docs\n# See source for mcpServers config block"
+}

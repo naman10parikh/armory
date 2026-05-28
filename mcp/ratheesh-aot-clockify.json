@@ -1,0 +1,7 @@
+{
+  "name": "ratheesh-aot-clockify",
+  "description": "Integrates with Clockify's API to provide complete time tracking and project management capabilities including time entries, projects, tasks, clients, tags, and automated report generation with filtering options.",
+  "source_repo": "ratheesh-aot/clockify-mcp",
+  "source_url": "https://github.com/ratheesh-aot/clockify-mcp",
+  "install": "npx -y clockify-mcp"
+}

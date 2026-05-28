@@ -1,0 +1,7 @@
+{
+  "name": "codeforces",
+  "description": "Integrates with Codeforces competitive programming platform to retrieve contest information, user profiles, submission histories, and rating changes for performance analysis and contest preparation.",
+  "source_repo": "mohamed-hanfy/codeforces-mcp",
+  "source_url": "https://github.com/mohamed-hanfy/codeforces-mcp",
+  "install": "npx -y codeforces-mcp"
+}

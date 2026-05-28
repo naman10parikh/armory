@@ -1,0 +1,7 @@
+{
+  "name": "image-processing-mcp-server",
+  "description": "Enables image processing tasks such as resizing, compressing, converting formats, cropping, and extracting metadata directly within IDEs like Cursor via the Model Context Protocol.",
+  "source_repo": "rafael-castelo/image-processing-mcp-server",
+  "source_url": "https://github.com/rafael-castelo/image-processing-mcp-server",
+  "install": "npx -y image-processing-mcp-server"
+}

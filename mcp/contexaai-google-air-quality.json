@@ -1,0 +1,7 @@
+{
+  "name": "contexaai-google-air-quality",
+  "description": "Access real-time air quality data, forecasts, and historical information from Google's Air Quality API with support for heatmap visualizations and natural language location queries",
+  "source_repo": "synqedai/google-air-quality-mcp",
+  "source_url": "https://github.com/synqedai/google-air-quality-mcp",
+  "install": "npx -y google-air-quality-mcp"
+}

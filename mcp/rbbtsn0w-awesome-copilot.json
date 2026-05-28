@@ -1,0 +1,7 @@
+{
+  "name": "rbbtsn0w-awesome-copilot",
+  "description": "Access and search GitHub awesome-copilot agents and collection resources with metadata indexing and on-demand content fetching.",
+  "source_repo": "rbbtsn0w/awesome-copilot-mcp",
+  "source_url": "https://github.com/rbbtsn0w/awesome-copilot-mcp",
+  "install": "npx -y awesome-copilot-mcp"
+}

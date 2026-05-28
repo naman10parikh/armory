@@ -1,0 +1,7 @@
+{
+  "name": "acedatacloud-flux",
+  "description": "Flux AI image generation and editing through the AceDataCloud API platform.",
+  "source_repo": "acedatacloud/fluxmcp",
+  "source_url": "https://github.com/acedatacloud/fluxmcp",
+  "install": "# git clone --depth 1 https://github.com/acedatacloud/fluxmcp\n# See source for mcpServers config block"
+}

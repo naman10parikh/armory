@@ -1,0 +1,7 @@
+{
+  "name": "8agana-autonome",
+  "description": "Autonomous wake/sleep cycle management and cross-agent federation with scheduled messaging and async task coordination",
+  "source_repo": "8agana/autonome-mcp",
+  "source_url": "https://github.com/8agana/autonome-mcp",
+  "install": "npx -y autonome-mcp"
+}

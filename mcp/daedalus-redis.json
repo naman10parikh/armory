@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-redis",
+  "description": "Expose Redis database operations to AI models via MCP.",
+  "source_repo": "daedalus/mcp-redis-server",
+  "source_url": "https://github.com/daedalus/mcp-redis-server",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-redis-server\n# See source for mcpServers config block"
+}

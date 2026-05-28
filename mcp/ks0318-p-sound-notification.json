@@ -1,0 +1,7 @@
+{
+  "name": "ks0318-p-sound-notification",
+  "description": "Plays customizable audio notifications for key interaction points in development environments, alerting users when AI assistance requires attention or completes tasks.",
+  "source_repo": "ks0318-p/sound-notification-mcp",
+  "source_url": "https://github.com/ks0318-p/sound-notification-mcp",
+  "install": "npx -y sound-notification-mcp"
+}

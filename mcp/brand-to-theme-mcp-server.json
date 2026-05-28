@@ -1,0 +1,7 @@
+{
+  "name": "brand-to-theme-mcp-server",
+  "description": "Brand To Theme Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mmokarzel/brand-to-theme-mcp-server",
+  "source_url": "https://mcp.so/server/brand-to-theme-mcp-server/mmokarzel",
+  "install": "npx -y brand-to-theme-mcp-server"
+}

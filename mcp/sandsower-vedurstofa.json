@@ -1,0 +1,7 @@
+{
+  "name": "sandsower-vedurstofa",
+  "description": "Provides Icelandic weather observations, multi-day forecasts, severe-weather alerts, earthquake data, and station listings from vedur.is.",
+  "source_repo": "sandsower/vedurstofa-mcp",
+  "source_url": "https://github.com/sandsower/vedurstofa-mcp",
+  "install": "npx -y vedurstofa-mcp"
+}

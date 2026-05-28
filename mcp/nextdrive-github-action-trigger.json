@@ -1,0 +1,7 @@
+{
+  "name": "nextdrive-github-action-trigger",
+  "description": "Enables GitHub Actions integration for triggering workflows, fetching action details, and retrieving repository releases through authenticated API interactions",
+  "source_repo": "nextdriveioe/github-action-trigger-mcp",
+  "source_url": "https://github.com/nextdriveioe/github-action-trigger-mcp",
+  "install": "npx -y github-action-trigger-mcp"
+}

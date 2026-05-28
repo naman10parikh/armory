@@ -1,0 +1,7 @@
+{
+  "name": "alihsh0-gemini-media",
+  "description": "Generates videos and images using Google VEO 3.1 and Gemini Imagen 3 with async job management, multi-resolution support, and prompt engineering skills.",
+  "source_repo": "u2n4/gemini-media-mcp",
+  "source_url": "https://github.com/u2n4/gemini-media-mcp",
+  "install": "npx -y gemini-media-mcp"
+}

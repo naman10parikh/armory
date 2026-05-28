@@ -1,0 +1,7 @@
+{
+  "name": "jarmstrong158-conductor",
+  "description": "Local task scheduler and worker manager with MCP integration for Claude Desktop.",
+  "source_repo": "jarmstrong158/conductor",
+  "source_url": "https://github.com/jarmstrong158/conductor",
+  "install": "# git clone --depth 1 https://github.com/jarmstrong158/conductor\n# See source for mcpServers config block"
+}

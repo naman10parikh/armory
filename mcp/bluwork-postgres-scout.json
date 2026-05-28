@@ -1,0 +1,7 @@
+{
+  "name": "bluwork-postgres-scout",
+  "description": "Production-ready PostgreSQL database exploration with safety features, monitoring, and data quality tools.",
+  "source_repo": "bluwork/postgres-scout-mcp",
+  "source_url": "https://github.com/bluwork/postgres-scout-mcp",
+  "install": "npx -y postgres-scout-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kafka",
+  "description": "Mcp Kafka MCP server listed on mcp.so.",
+  "source_repo": "brandon-powers/mcp-kafka",
+  "source_url": "https://mcp.so/server/mcp-kafka/brandon-powers",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-kafka/brandon-powers\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "raiansar-claude-gemini-collaboration",
+  "description": "Enables Claude to collaborate with Google's Gemini AI through question answering, configurable code review, and brainstorming sessions for multi-model pair programming workflows.",
+  "source_repo": "raiansar/claude_code-gemini-mcp",
+  "source_url": "https://github.com/raiansar/claude_code-gemini-mcp",
+  "install": "npx -y claude_code-gemini-mcp"
+}

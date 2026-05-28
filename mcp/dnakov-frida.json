@@ -1,0 +1,7 @@
+{
+  "name": "dnakov-frida",
+  "description": "Enables dynamic instrumentation of mobile and desktop applications through Frida toolkit, providing capabilities for process management, device enumeration, and script injection for application analysis and debugging workflows.",
+  "source_repo": "dnakov/frida-mcp",
+  "source_url": "https://github.com/dnakov/frida-mcp",
+  "install": "npx -y frida-mcp"
+}

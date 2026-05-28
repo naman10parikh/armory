@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-client-server",
+  "description": "Gmail Mcp Client Server MCP server listed on mcp.so.",
+  "source_repo": "karimdabbouz/gmail-mcp-client-server",
+  "source_url": "https://mcp.so/server/gmail-mcp-client-server/karimdabbouz",
+  "install": "# git clone --depth 1 https://mcp.so/server/gmail-mcp-client-server/karimdabbouz\n# See source for mcpServers config block"
+}

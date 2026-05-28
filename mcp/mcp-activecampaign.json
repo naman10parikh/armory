@@ -1,0 +1,7 @@
+{
+  "name": "mcp-activecampaign",
+  "description": "Enables AI assistants to manage ActiveCampaign CRM, marketing automation, and contact data via 33 tools including contacts, deals, tags, automations, pipelines, custom fields, campaigns, accounts, and webhooks.",
+  "source_repo": "AlexlaGuardia/MCP-Activecampaign",
+  "source_url": "https://github.com/AlexlaGuardia/MCP-Activecampaign",
+  "install": "# git clone --depth 1 https://github.com/AlexlaGuardia/MCP-Activecampaign\n# See source for mcpServers config block"
+}

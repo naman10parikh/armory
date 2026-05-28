@@ -1,0 +1,7 @@
+{
+  "name": "gourav221b-github-pull-request",
+  "description": "Retrieves detailed GitHub pull request information including files, diffs, comments, and reviews for code review assistance, PR summarization, or change analysis workflows.",
+  "source_repo": "gourav221b/github-pr-mcp-server",
+  "source_url": "https://github.com/gourav221b/github-pr-mcp-server",
+  "install": "npx -y github-pr-mcp-server"
+}

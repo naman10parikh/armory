@@ -1,0 +1,7 @@
+{
+  "name": "ystyle-cangje-docs",
+  "description": "Document scanning and search capabilities for indexing and querying large documentation repositories",
+  "source_repo": "ystyle/cangjie-docs-mcp",
+  "source_url": "https://github.com/ystyle/cangjie-docs-mcp",
+  "install": "npx -y cangjie-docs-mcp"
+}

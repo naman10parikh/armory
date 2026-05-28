@@ -1,0 +1,7 @@
+{
+  "name": "mobbin",
+  "description": "MCP server connecting AI agents to Mobbin's library of 600,000+ real UI screens from shipped mobile, web, and desktop products.",
+  "source_repo": "",
+  "source_url": "https://mobbin.com/mcp",
+  "install": "# git clone --depth 1 https://mobbin.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "danjdewhurst-todo-md",
+  "description": "Provides todo list management with markdown file storage, offering CRUD operations for listing, adding, updating, and deleting tasks with persistent UUID tracking and human-readable checkbox format.",
+  "source_repo": "danjdewhurst/todo-md-mcp",
+  "source_url": "https://github.com/danjdewhurst/todo-md-mcp",
+  "install": "npx -y todo-md-mcp"
+}

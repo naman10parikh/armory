@@ -1,0 +1,7 @@
+{
+  "name": "omnier-crm",
+  "description": "CRM purpose-built for AI agent operation with structured access to contacts and pipelines.",
+  "source_repo": "jessesorsa/omnier-mcp-server",
+  "source_url": "https://github.com/jessesorsa/omnier-mcp-server",
+  "install": "npx -y omnier-mcp-server"
+}

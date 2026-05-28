@@ -1,0 +1,7 @@
+{
+  "name": "kajirita2002-esa",
+  "description": "Provides a bridge to esa's API for document management, enabling search, creation, updates, and deletion of posts and comments with member management and categorization capabilities",
+  "source_repo": "kajirita2002/esa-mcp-server",
+  "source_url": "https://github.com/kajirita2002/esa-mcp-server",
+  "install": "npx -y esa-mcp-server"
+}

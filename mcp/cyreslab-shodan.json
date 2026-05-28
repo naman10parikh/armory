@@ -1,0 +1,7 @@
+{
+  "name": "cyreslab-shodan",
+  "description": "Provides secure access to Shodan's database of internet-connected devices through host lookups, search functionality, and vulnerability information retrieval with intelligent response optimization for efficient token usage.",
+  "source_repo": "cyreslab-ai/shodan-mcp-server",
+  "source_url": "https://github.com/cyreslab-ai/shodan-mcp-server",
+  "install": "npx -y shodan-mcp-server"
+}

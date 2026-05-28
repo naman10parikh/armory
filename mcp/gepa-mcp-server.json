@@ -1,0 +1,7 @@
+{
+  "name": "gepa-mcp-server",
+  "description": "Implements the Genetic-Evolutionary Prompt Architecture for automatic prompt optimization, providing tools to optimize, quickly improve, and contextually adapt prompts.",
+  "source_repo": "developzir/gepa-mcp",
+  "source_url": "https://github.com/developzir/gepa-mcp",
+  "install": "npx -y gepa-mcp"
+}

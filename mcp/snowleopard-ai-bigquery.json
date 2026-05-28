@@ -1,0 +1,7 @@
+{
+  "name": "snowleopard-ai-bigquery",
+  "description": "Query and explore Google BigQuery databases through natural language",
+  "source_repo": "snowleopard-ai/bigquery-mcp",
+  "source_url": "https://github.com/snowleopard-ai/bigquery-mcp",
+  "install": "npx -y bigquery-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "voidchecksum-omniwire",
+  "description": "Unified mesh control layer for distributed infrastructure with SSH2 connection pooling, file transfers, and Docker management.",
+  "source_repo": "voidchecksum/omniwire",
+  "source_url": "https://github.com/voidchecksum/omniwire",
+  "install": "# git clone --depth 1 https://github.com/voidchecksum/omniwire\n# See source for mcpServers config block"
+}

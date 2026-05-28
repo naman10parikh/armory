@@ -1,0 +1,7 @@
+{
+  "name": "skyworkai-mureka-music-generation",
+  "description": "Provides a bridge to Mureka.ai's music generation capabilities, enabling on-demand creation of lyrics, complete songs, and instrumental tracks without requiring specialized music production knowledge.",
+  "source_repo": "skyworkai/mureka-mcp",
+  "source_url": "https://github.com/skyworkai/mureka-mcp",
+  "install": "npx -y mureka-mcp"
+}

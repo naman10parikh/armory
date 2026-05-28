@@ -1,0 +1,7 @@
+{
+  "name": "icon",
+  "description": "Generate and manage professional-grade icons for diverse design needs. Simplifies the search for high-quality visual assets to streamline development workflows. Enhances user interface design with consistent and scalable imagery.",
+  "source_repo": "hustcc/mcp-icon",
+  "source_url": "https://github.com/hustcc/mcp-icon",
+  "install": "# git clone --depth 1 https://github.com/hustcc/mcp-icon\n# See source for mcpServers config block"
+}

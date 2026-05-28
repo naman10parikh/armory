@@ -1,0 +1,7 @@
+{
+  "name": "toss-mcp",
+  "description": "Provides AI agents with access to Toss developer documentation and icon catalogs, enabling search and retrieval of official docs and icon usage recommendations.",
+  "source_repo": "chabinhwang/toss-mcp",
+  "source_url": "https://github.com/chabinhwang/toss-mcp",
+  "install": "npx -y toss-mcp"
+}

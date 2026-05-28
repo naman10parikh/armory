@@ -1,0 +1,7 @@
+{
+  "name": "benomite-baloo",
+  "description": "Provides financial management tools for French Scout group treasurers, covering accounting entries, reimbursements, expense workflows, and bank reconciliation via an OAuth-protected HTTP server.",
+  "source_repo": "benomite/baloo",
+  "source_url": "https://github.com/benomite/baloo",
+  "install": "# git clone --depth 1 https://github.com/benomite/baloo\n# See source for mcpServers config block"
+}

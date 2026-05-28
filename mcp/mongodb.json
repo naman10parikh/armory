@@ -1,0 +1,7 @@
+{
+  "name": "mongodb",
+  "description": "Enables interaction with MongoDB databases through TypeScript and the MongoDB driver, providing seamless integration of MongoDB operations into workflows.",
+  "source_repo": "1rb/mongo-mcp",
+  "source_url": "https://github.com/1rb/mongo-mcp",
+  "install": "npx -y mongo-mcp"
+}

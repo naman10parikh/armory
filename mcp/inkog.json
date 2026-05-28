@@ -1,0 +1,7 @@
+{
+  "name": "inkog",
+  "description": "Scan AI agents for security vulnerabilities and audit MCP servers before installation.",
+  "source_repo": "inkog-io/inkog-mcp",
+  "source_url": "https://github.com/inkog-io/inkog-mcp",
+  "install": "npx -y inkog-mcp"
+}

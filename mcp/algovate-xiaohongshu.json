@@ -1,0 +1,7 @@
+{
+  "name": "algovate-xiaohongshu",
+  "description": "Integrates with XiaoHongShu (Little Red Book) through browser automation to enable authentication, content discovery, social interaction, and publishing with support for images and videos.",
+  "source_repo": "algovate/xhs-mcp",
+  "source_url": "https://github.com/algovate/xhs-mcp",
+  "install": "npx -y xhs-mcp"
+}

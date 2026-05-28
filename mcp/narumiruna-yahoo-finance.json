@@ -1,0 +1,7 @@
+{
+  "name": "narumiruna-yahoo-finance",
+  "description": "Provides real-time financial data from Yahoo Finance through specialized tools for retrieving stock information, market trends, and news for investment research and analysis.",
+  "source_repo": "narumiruna/yfinance-mcp",
+  "source_url": "https://github.com/narumiruna/yfinance-mcp",
+  "install": "npx -y yfinance-mcp"
+}

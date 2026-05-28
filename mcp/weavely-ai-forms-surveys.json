@@ -1,0 +1,7 @@
+{
+  "name": "weavely-ai-forms-surveys",
+  "description": "Weavely is an AI-native form builder. This MCP server exposes 13 tools that cover the entire form-building lifecycle: create forms, add and update 25+ element types (text, rating, matrix, file upload, signature, and more), configure conditional logic, set themes, manage multi-step pages, and publish",
+  "source_repo": "",
+  "source_url": "https://www.weavely.ai/",
+  "install": "# git clone --depth 1 https://www.weavely.ai/\n# See source for mcpServers config block"
+}

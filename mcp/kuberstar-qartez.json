@@ -1,0 +1,7 @@
+{
+  "name": "kuberstar-qartez",
+  "description": "Code intelligence with 21 tools for symbol navigation, impact analysis, refactoring, and architecture enforcement.",
+  "source_repo": "kuberstar/qartez-mcp",
+  "source_url": "https://github.com/kuberstar/qartez-mcp",
+  "install": "npx -y qartez-mcp"
+}

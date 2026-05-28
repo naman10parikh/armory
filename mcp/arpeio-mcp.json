@@ -1,0 +1,7 @@
+{
+  "name": "arpeio-mcp",
+  "description": "Unified MCP server for Arpe.io data tools enabling AI assistants to build, preview, and execute high-performance data commands including database export, transfer, pipeline, and migration.",
+  "source_repo": "arpe-io/arpeio-mcp",
+  "source_url": "https://github.com/arpe-io/arpeio-mcp",
+  "install": "npx -y arpeio-mcp"
+}

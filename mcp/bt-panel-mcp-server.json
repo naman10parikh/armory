@@ -1,0 +1,7 @@
+{
+  "name": "bt-panel-mcp-server",
+  "description": "This MCP server enables AI assistants to interact with a BT Panel server through natural language, allowing users to query logs, manage websites, and monitor system status without manual panel login.",
+  "source_repo": "SuxyEE/bt-panel-mcp-server",
+  "source_url": "https://github.com/SuxyEE/bt-panel-mcp-server",
+  "install": "npx -y bt-panel-mcp-server"
+}

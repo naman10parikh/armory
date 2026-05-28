@@ -1,0 +1,7 @@
+{
+  "name": "roboz0r-nuget-package-browser",
+  "description": "Browse the actual API surface of NuGet packages in .NET projects to prevent hallucinated APIs and surface real type definitions.",
+  "source_repo": "roboz0r/nuget-package-server",
+  "source_url": "https://github.com/roboz0r/nuget-package-server",
+  "install": "# git clone --depth 1 https://github.com/roboz0r/nuget-package-server\n# See source for mcpServers config block"
+}

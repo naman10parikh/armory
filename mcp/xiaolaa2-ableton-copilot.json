@@ -1,0 +1,7 @@
+{
+  "name": "xiaolaa2-ableton-copilot",
+  "description": "AI assistant for Ableton Live music production.",
+  "source_repo": "xiaolaa2/ableton-copilot-mcp",
+  "source_url": "https://github.com/xiaolaa2/ableton-copilot-mcp",
+  "install": "npx -y ableton-copilot-mcp"
+}

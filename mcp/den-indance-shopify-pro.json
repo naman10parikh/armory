@@ -1,0 +1,7 @@
+{
+  "name": "den-indance-shopify-pro",
+  "description": "Shopify MCP server with real ShopifyQL analytics, auto-refresh auth, and Shopify 2026-04 API support.",
+  "source_repo": "den-indance/shopify-mcp-pro",
+  "source_url": "https://github.com/den-indance/shopify-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/den-indance/shopify-mcp-pro\n# See source for mcpServers config block"
+}

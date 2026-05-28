@@ -1,0 +1,7 @@
+{
+  "name": "elma365-mcp",
+  "description": "MCP server for ELMA365 API providing tools to manage app items, BPM tasks, processes, users, and comments.",
+  "source_repo": "theYahia/elma365-mcp",
+  "source_url": "https://github.com/theYahia/elma365-mcp",
+  "install": "npx -y elma365-mcp"
+}

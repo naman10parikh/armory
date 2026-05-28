@@ -1,0 +1,7 @@
+{
+  "name": "9ninety-notes",
+  "description": "Integrates note-taking capabilities with AI models using TypeScript and DynamoDB for persistent memory and context management in applications.",
+  "source_repo": "9ninety/mcpnotes",
+  "source_url": "https://github.com/9ninety/mcpnotes",
+  "install": "# git clone --depth 1 https://github.com/9ninety/mcpnotes\n# See source for mcpServers config block"
+}

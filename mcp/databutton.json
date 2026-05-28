@@ -1,0 +1,7 @@
+{
+  "name": "databutton",
+  "description": "Enables planning and scaffolding of business applications with React frontends and Python backends, helping developers establish structured foundations for Databutton-powered projects.",
+  "source_repo": "databutton/databutton-mcp",
+  "source_url": "https://github.com/databutton/databutton-mcp",
+  "install": "npx -y databutton-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "playwright",
+  "description": "Provides browser automation capabilities through Playwright integration, enabling navigation, element interaction, screenshot capture, form handling, file uploads, PDF generation, tab management, and both accessibility tree and vision-based web control for scraping, testing, and automated workflows.",
+  "source_repo": "lewisvoncken/playwright-mcp",
+  "source_url": "https://github.com/lewisvoncken/playwright-mcp",
+  "install": "npx -y playwright-mcp"
+}

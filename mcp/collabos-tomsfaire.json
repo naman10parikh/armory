@@ -1,0 +1,7 @@
+{
+  "name": "collabos-tomsfaire",
+  "description": "Controls Logitech CollabOS conference room hardware locally from AI coding tools.",
+  "source_repo": "tomsfaire/collabos-mcp",
+  "source_url": "https://github.com/tomsfaire/collabos-mcp",
+  "install": "npx -y collabos-mcp"
+}

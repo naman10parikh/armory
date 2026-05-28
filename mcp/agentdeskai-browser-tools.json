@@ -1,0 +1,7 @@
+{
+  "name": "agentdeskai-browser-tools",
+  "description": "Enables browser data capture and analysis with tools for retrieving console logs, monitoring network requests, capturing screenshots, selecting DOM elements, and running Lighthouse audits for web application debugging and performance optimization.",
+  "source_repo": "agentdeskai/browser-tools-mcp",
+  "source_url": "https://github.com/agentdeskai/browser-tools-mcp",
+  "install": "npx -y browser-tools-mcp"
+}

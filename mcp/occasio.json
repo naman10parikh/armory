@@ -1,0 +1,7 @@
+{
+  "name": "occasio",
+  "description": "Tamper-evident, Sigstore-signed audit trail for Claude Code and other AI coding agents.",
+  "source_repo": "occasiolabs/occasio",
+  "source_url": "https://github.com/occasiolabs/occasio",
+  "install": "# git clone --depth 1 https://github.com/occasiolabs/occasio\n# See source for mcpServers config block"
+}

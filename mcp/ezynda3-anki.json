@@ -1,0 +1,7 @@
+{
+  "name": "ezynda3-anki",
+  "description": "Integrates with Anki flashcard management through AnkiConnect addon to create, search, and organize flashcards and decks with media attachment support and AnkiWeb synchronization.",
+  "source_repo": "ezynda3/anki-mcp",
+  "source_url": "https://github.com/ezynda3/anki-mcp",
+  "install": "npx -y anki-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openmandate",
+  "description": "Post mandates and check matches for cofounders and early teams on OpenMandate.",
+  "source_repo": "",
+  "source_url": "https://mcp.openmandate.ai/mcp",
+  "install": "# git clone --depth 1 https://mcp.openmandate.ai/mcp\n# See source for mcpServers config block"
+}

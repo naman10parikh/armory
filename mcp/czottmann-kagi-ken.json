@@ -1,0 +1,7 @@
+{
+  "name": "czottmann-kagi-ken",
+  "description": "JavaScript-based Kagi search and summarization server that provides web search and document summarization capabilities through the kagi-ken package with concurrent query processing and flexible authentication options.",
+  "source_repo": "czottmann/kagi-ken-mcp",
+  "source_url": "https://github.com/czottmann/kagi-ken-mcp",
+  "install": "npx -y kagi-ken-mcp"
+}

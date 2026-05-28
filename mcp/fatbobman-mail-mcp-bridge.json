@@ -1,0 +1,7 @@
+{
+  "name": "fatbobman-mail-mcp-bridge",
+  "description": "Accesses and analyzes macOS Mail emails by reading .emlx files directly from the Mail database",
+  "source_repo": "fatbobman/mail-mcp-bridge",
+  "source_url": "https://github.com/fatbobman/mail-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/fatbobman/mail-mcp-bridge\n# See source for mcpServers config block"
+}

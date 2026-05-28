@@ -1,0 +1,7 @@
+{
+  "name": "offleash-google-contacts",
+  "description": "Integrates with Google Contacts through OAuth 2.1 to provide secure read-only access for contact listing, searching, and retrieval while storing only tokens with automatic cleanup.",
+  "source_repo": "offleashxyz/google-contacts-mcp-server",
+  "source_url": "https://github.com/offleashxyz/google-contacts-mcp-server",
+  "install": "npx -y google-contacts-mcp-server"
+}

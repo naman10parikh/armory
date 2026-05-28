@@ -1,0 +1,7 @@
+{
+  "name": "bug-breeder-quip-mcp",
+  "description": "A Model Context Protocol (MCP) server providing AI assistants with comprehensive Quip document access and management. Enables document lifecycle management, smart search, comment management, and secure token-based authentication for both Quip.com and enterprise instances.",
+  "source_repo": "bug-breeder/quip-mcp",
+  "source_url": "https://github.com/bug-breeder/quip-mcp",
+  "install": "npx -y quip-mcp"
+}

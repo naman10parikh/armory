@@ -1,0 +1,7 @@
+{
+  "name": "shinpr-sub-agents",
+  "description": "Delegates tasks to specialized AI assistants in Cursor and Claude Code CLI tools by automatically discovering agent definition files and providing execution with timeout management and performance monitoring for building orchestration workflows and task delegation systems.",
+  "source_repo": "shinpr/sub-agents-mcp",
+  "source_url": "https://github.com/shinpr/sub-agents-mcp",
+  "install": "npx -y sub-agents-mcp"
+}

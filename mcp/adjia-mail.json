@@ -1,0 +1,7 @@
+{
+  "name": "adjia-mail",
+  "description": "Provides complete email management through IMAP and SMTP protocols including folder operations, search, and sending.",
+  "source_repo": "adjia/mail-mcp-server",
+  "source_url": "https://github.com/adjia/mail-mcp-server",
+  "install": "npx -y mail-mcp-server"
+}

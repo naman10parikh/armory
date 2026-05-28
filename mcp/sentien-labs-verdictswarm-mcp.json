@@ -1,0 +1,7 @@
+{
+  "name": "sentien-labs-verdictswarm-mcp",
+  "description": "Multi-AI crypto token scanner. 6 AI agents independently analyze and debate token risk on Solana, Base, and Ethereum. Detects rug pulls, honeypots, holder concentration, and wash trading through adversarial consensus.",
+  "source_repo": "sentien-labs/verdictswarm-mcp",
+  "source_url": "https://github.com/sentien-labs/verdictswarm-mcp",
+  "install": "npx -y verdictswarm-mcp"
+}

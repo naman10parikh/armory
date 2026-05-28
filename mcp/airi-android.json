@@ -1,0 +1,7 @@
+{
+  "name": "airi-android",
+  "description": "A MCP server that enables LLMs to control Android devices via ADB, supporting input, UI hierarchy, device management, and shell commands.",
+  "source_repo": "proj-airi/airi-android",
+  "source_url": "https://github.com/proj-airi/airi-android",
+  "install": "# git clone --depth 1 https://github.com/proj-airi/airi-android\n# See source for mcpServers config block"
+}

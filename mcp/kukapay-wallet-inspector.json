@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-wallet-inspector",
+  "description": "Integrates with Dune Analytics' SIM API to analyze blockchain wallet balances, transaction history, and activity across EVM chains and Solana, automatically detecting wallet address formats and returning formatted data with token amounts, USD values, and transaction details for multi-chain wallet investigation and portfolio tracking.",
+  "source_repo": "kukapay/wallet-inspector-mcp",
+  "source_url": "https://github.com/kukapay/wallet-inspector-mcp",
+  "install": "npx -y wallet-inspector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "demwick-polymarket",
+  "description": "Trades and analyzes Polymarket prediction markets with 48 tools for trading, portfolio management, smart money tracking, copy-trading, and automated stop-loss/take-profit.",
+  "source_repo": "demwick/polymarket-agent-mcp",
+  "source_url": "https://github.com/demwick/polymarket-agent-mcp",
+  "install": "npx -y polymarket-agent-mcp"
+}

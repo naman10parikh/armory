@@ -1,0 +1,7 @@
+{
+  "name": "yc-software-waas",
+  "description": "Connects AI assistants to Y Combinator's Work at a Startup platform for managing job applicants and candidate pipelines.",
+  "source_repo": "yc-software/waas-mcp",
+  "source_url": "https://github.com/yc-software/waas-mcp",
+  "install": "npx -y waas-mcp"
+}

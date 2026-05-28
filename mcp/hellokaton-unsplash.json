@@ -1,0 +1,7 @@
+{
+  "name": "hellokaton-unsplash",
+  "description": "Integrates with Unsplash to enable keyword-based photo searches with filtering options for color, orientation, and sorting, returning structured image data including URLs, dimensions, and descriptions.",
+  "source_repo": "hellokaton/unsplash-mcp-server",
+  "source_url": "https://github.com/hellokaton/unsplash-mcp-server",
+  "install": "npx -y unsplash-mcp-server"
+}

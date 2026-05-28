@@ -1,0 +1,7 @@
+{
+  "name": "openweathermap-mcp",
+  "description": "Provides current weather and forecasts for any city via natural language, using OpenWeatherMap API and OpenAI for conversational interface.",
+  "source_repo": "HelpFreedom/OpenWeatherMap_MCP",
+  "source_url": "https://github.com/HelpFreedom/OpenWeatherMap_MCP",
+  "install": "npx -y OpenWeatherMap_MCP"
+}

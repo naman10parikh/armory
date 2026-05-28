@@ -1,0 +1,7 @@
+{
+  "name": "jackrain19743-hou-tea-mcp-server",
+  "description": "Browse, recommend, and **buy authentic Chinese tea** from hou-tea.com using **USDC stablecoin via the x402 protocol**. First commerce MCP that ships real on-chain payment intents (delegated to wallet MCPs like `@coinbase/payments-mcp`). 8 tools: browse / recommend / explain / compare / health-filter / payment / order-status / agent-card.",
+  "source_repo": "jackrain19743/hou-tea-mcp-server",
+  "source_url": "https://github.com/jackrain19743/hou-tea-mcp-server",
+  "install": "npx -y hou-tea-mcp-server"
+}

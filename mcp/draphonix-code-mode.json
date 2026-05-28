@@ -1,0 +1,7 @@
+{
+  "name": "draphonix-code-mode",
+  "description": "Sandboxed Python code execution with DSpy-powered reasoning that orchestrates external tools through generated code, featuring configurable security policies and timeout handling.",
+  "source_repo": "hoangnb24/mcp-code-mode",
+  "source_url": "https://github.com/hoangnb24/mcp-code-mode",
+  "install": "# git clone --depth 1 https://github.com/hoangnb24/mcp-code-mode\n# See source for mcpServers config block"
+}

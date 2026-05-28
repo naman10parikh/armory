@@ -1,0 +1,7 @@
+{
+  "name": "yurineko73-godot-mcp-native",
+  "description": "Godot Engine plugin that runs an MCP server natively inside the editor, exposing 154 tools for node operations, script editing, scene management, and debugging.",
+  "source_repo": "yurineko73/godot-mcp-native",
+  "source_url": "https://github.com/yurineko73/godot-mcp-native",
+  "install": "# git clone --depth 1 https://github.com/yurineko73/godot-mcp-native\n# See source for mcpServers config block"
+}

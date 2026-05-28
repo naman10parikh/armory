@@ -1,0 +1,7 @@
+{
+  "name": "cyqlelabs-dual-cycle-reasoner",
+  "description": "Provides dual-cycle metacognitive reasoning framework that detects when autonomous agents get stuck in repetitive behaviors through statistical anomaly detection and semantic analysis, then automatically diagnoses failure causes and generates recovery strategies using case-based learning.",
+  "source_repo": "cyqlelabs/mcp-dual-cycle-reasoner",
+  "source_url": "https://github.com/cyqlelabs/mcp-dual-cycle-reasoner",
+  "install": "# git clone --depth 1 https://github.com/cyqlelabs/mcp-dual-cycle-reasoner\n# See source for mcpServers config block"
+}

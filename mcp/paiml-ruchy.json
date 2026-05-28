@@ -1,0 +1,7 @@
+{
+  "name": "paiml-ruchy",
+  "description": "Code analysis, scoring, linting, formatting, and transpilation tools for the Ruchy programming language",
+  "source_repo": "paiml/ruchy",
+  "source_url": "https://github.com/paiml/ruchy",
+  "install": "# git clone --depth 1 https://github.com/paiml/ruchy\n# See source for mcpServers config block"
+}

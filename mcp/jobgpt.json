@@ -1,0 +1,7 @@
+{
+  "name": "jobgpt",
+  "description": "Search jobs, auto-apply to positions, generate tailored resumes, and track applications through the 6figr JobGPT platform.",
+  "source_repo": "6figr-com/jobgpt-mcp-server",
+  "source_url": "https://github.com/6figr-com/jobgpt-mcp-server",
+  "install": "npx -y jobgpt-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gammell53-clawwork",
+  "description": "Task management for coding agents with task feeds, claiming, progress tracking, and artifact submission.",
+  "source_repo": "gammell53/clawwork-mcp",
+  "source_url": "https://github.com/gammell53/clawwork-mcp",
+  "install": "npx -y clawwork-mcp"
+}

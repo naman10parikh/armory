@@ -1,0 +1,7 @@
+{
+  "name": "radiumgu-alibaba-cloud-ops",
+  "description": "Integrates with Alibaba Cloud services to manage ECS instances, OSS storage buckets, OOS automation workflows, and CloudMonitor metrics with enhanced timeout handling and error recovery mechanisms.",
+  "source_repo": "radiumgu/alicloud-ops-mcp",
+  "source_url": "https://github.com/radiumgu/alicloud-ops-mcp",
+  "install": "npx -y alicloud-ops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "text2go-ai-humanizer",
+  "description": "Integrates multiple AI text detection services to analyze content authenticity, writing style, and potential plagiarism.",
+  "source_repo": "text2go/ai-humanizer-mcp-server",
+  "source_url": "https://github.com/text2go/ai-humanizer-mcp-server",
+  "install": "npx -y ai-humanizer-mcp-server"
+}

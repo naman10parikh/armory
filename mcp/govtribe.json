@@ -1,0 +1,7 @@
+{
+  "name": "govtribe",
+  "description": "Search U.S. federal, state, and local government procurement data and intelligence.",
+  "source_repo": "",
+  "source_url": "https://docs.govtribe.com/user-guide/integrations/govtribe-mcp",
+  "install": "# git clone --depth 1 https://docs.govtribe.com/user-guide/integrations/govtribe-mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prakhar1605-opencollab",
+  "description": "Matches developers with open source GitHub issues using 12 tools for issue search, filtering, and contribution discovery.",
+  "source_repo": "prakhar1605/opencollab-mcp",
+  "source_url": "https://github.com/prakhar1605/opencollab-mcp",
+  "install": "npx -y opencollab-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zerodha-mcp",
+  "description": "Zerodha Mcp MCP server listed on mcp.so.",
+  "source_repo": "aptro/zerodha-mcp",
+  "source_url": "https://mcp.so/server/zerodha-mcp/aptro",
+  "install": "npx -y zerodha-mcp"
+}

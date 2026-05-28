@@ -1,0 +1,7 @@
+{
+  "name": "deploy-mcp-deploy-mcp",
+  "description": "Universal deployment tracker for AI assistants with live status badges and deployment monitoring",
+  "source_repo": "alexpota/deploy-mcp",
+  "source_url": "https://github.com/alexpota/deploy-mcp",
+  "install": "npx -y deploy-mcp"
+}

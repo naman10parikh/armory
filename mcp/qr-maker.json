@@ -1,0 +1,7 @@
+{
+  "name": "qr-maker",
+  "description": "Generate styled QR codes, manage dynamic short links with analytics, and publish micro-landing pages via AI.",
+  "source_repo": "qr-maker-io/mcp-server",
+  "source_url": "https://github.com/qr-maker-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/qr-maker-io/mcp-server\n# See source for mcpServers config block"
+}

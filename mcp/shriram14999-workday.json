@@ -1,0 +1,7 @@
+{
+  "name": "shriram14999-workday",
+  "description": "Accesses Workday HR data via ASOR OAuth 2.0 with tools for worker management.",
+  "source_repo": "shriram14999/workday-mcp-server",
+  "source_url": "https://github.com/shriram14999/workday-mcp-server",
+  "install": "npx -y workday-mcp-server"
+}

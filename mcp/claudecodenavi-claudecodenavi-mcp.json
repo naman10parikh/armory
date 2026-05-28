@@ -1,0 +1,7 @@
+{
+  "name": "claudecodenavi-claudecodenavi-mcp",
+  "description": "Claude Code knowledge platform & marketplace MCP server. Search and share snippets, prompts, Q&A solutions, error fixes, and MCP server configurations from the ClaudeCodeNavi community.",
+  "source_repo": "saikiyusuke/claudecodenavi-mcp",
+  "source_url": "https://github.com/saikiyusuke/claudecodenavi-mcp",
+  "install": "npx -y claudecodenavi-mcp"
+}

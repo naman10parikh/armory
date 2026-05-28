@@ -1,0 +1,7 @@
+{
+  "name": "remem-me-collections",
+  "description": "Browse published Bible verse collections from Remember Me, a free memorization app using spaced repetition.",
+  "source_repo": "",
+  "source_url": "https://remem.me",
+  "install": "# git clone --depth 1 https://remem.me\n# See source for mcpServers config block"
+}

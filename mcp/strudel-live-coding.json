@@ -1,0 +1,7 @@
+{
+  "name": "strudel-live-coding",
+  "description": "Provides direct control over Strudel.cc for live coding music generation through browser automation, offering 40+ tools for pattern creation, music theory operations, genre-specific generators, and real-time audio analysis with session management.",
+  "source_repo": "williamzujkowski/live-coding-music-mcp",
+  "source_url": "https://github.com/williamzujkowski/live-coding-music-mcp",
+  "install": "npx -y live-coding-music-mcp"
+}

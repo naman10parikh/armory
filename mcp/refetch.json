@@ -1,0 +1,7 @@
+{
+  "name": "refetch",
+  "description": "Fetch pages as markdown, search the web and news, and extract structured data from any URL.",
+  "source_repo": "",
+  "source_url": "https://refetch.cloud",
+  "install": "# git clone --depth 1 https://refetch.cloud\n# See source for mcpServers config block"
+}

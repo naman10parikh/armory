@@ -1,0 +1,7 @@
+{
+  "name": "jldb-xyz-odoo-assistant",
+  "description": "Integrates with Odoo ERP systems via XML-RPC to provide model discovery, CRUD operations, workflow automation, and reusable procedure storage.",
+  "source_repo": "jldb-xyz/odoo-assistant-mcp",
+  "source_url": "https://github.com/jldb-xyz/odoo-assistant-mcp",
+  "install": "npx -y odoo-assistant-mcp"
+}

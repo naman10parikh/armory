@@ -1,0 +1,7 @@
+{
+  "name": "jackscodevault-mpesa-daraja",
+  "description": "Provides access to Safaricom's Daraja API documentation for M-Pesa payment processing, enabling search, retrieval, and comparison of Kenya's mobile money platform APIs.",
+  "source_repo": "jackscodevault/mpesa-daraja-mcp",
+  "source_url": "https://github.com/jackscodevault/mpesa-daraja-mcp",
+  "install": "npx -y mpesa-daraja-mcp"
+}

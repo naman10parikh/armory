@@ -1,0 +1,7 @@
+{
+  "name": "tangentstorm-j",
+  "description": "MCP server embedding the J programming language interpreter for executing J code from AI assistants.",
+  "source_repo": "tangentstorm/j-mcp",
+  "source_url": "https://github.com/tangentstorm/j-mcp",
+  "install": "npx -y j-mcp"
+}

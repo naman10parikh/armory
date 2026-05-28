@@ -1,0 +1,7 @@
+{
+  "name": "sql-mcp-2",
+  "description": "Formats SQL queries with support for 14 dialects, keyword casing, and tab width.",
+  "source_repo": "MukundaKatta/sql-mcp",
+  "source_url": "https://github.com/MukundaKatta/sql-mcp",
+  "install": "npx -y sql-mcp"
+}

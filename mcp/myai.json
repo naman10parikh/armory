@@ -1,0 +1,7 @@
+{
+  "name": "myai",
+  "description": "Decentralized AI inference on Base with OpenAI-compatible chat via community GPUs, paid in MYAI token.",
+  "source_repo": "myaitoken/myai-mcp",
+  "source_url": "https://github.com/myaitoken/myai-mcp",
+  "install": "npx -y myai-mcp"
+}

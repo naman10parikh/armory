@@ -1,0 +1,7 @@
+{
+  "name": "gh-thesharque-architector",
+  "description": "Local-first project architecture storage for modules, data flows, scripts, and design documentation.",
+  "source_repo": "thesharque/mcp-architect",
+  "source_url": "https://github.com/thesharque/mcp-architect",
+  "install": "# git clone --depth 1 https://github.com/thesharque/mcp-architect\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "honeylabs-mcp",
+  "description": "Honeypot threat intelligence for AI agents. Query 90 days of probe data from our sensor network: IP reputation, scanner classification, CVE probing trends, TLS/SSH/JA4 fingerprints. Free tier 500 credits/day, OAuth + bearer auth, streamable HTTP at https://mcp.honeylabs.net/mcp.",
+  "source_repo": "honeylabshq/honeylabs-mcp",
+  "source_url": "https://github.com/honeylabshq/honeylabs-mcp",
+  "install": "npx -y honeylabs-mcp"
+}

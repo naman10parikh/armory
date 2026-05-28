@@ -1,0 +1,7 @@
+{
+  "name": "mshegolev-prometheus",
+  "description": "Query Prometheus metrics, inspect alerts, and explore scrape targets with read-only PromQL access.",
+  "source_repo": "mshegolev/prometheus-mcp",
+  "source_url": "https://github.com/mshegolev/prometheus-mcp",
+  "install": "npx -y prometheus-mcp"
+}

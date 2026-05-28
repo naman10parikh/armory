@@ -1,0 +1,7 @@
+{
+  "name": "chirag127-clear-thought",
+  "description": "Provides 11 specialized cognitive tools including mental models, design patterns, debugging approaches, and scientific reasoning frameworks for systematic problem-solving and enhanced analytical thinking.",
+  "source_repo": "chirag127/clear-thought-mcp-server",
+  "source_url": "https://github.com/chirag127/clear-thought-mcp-server",
+  "install": "npx -y clear-thought-mcp-server"
+}

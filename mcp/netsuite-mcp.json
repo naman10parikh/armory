@@ -1,0 +1,7 @@
+{
+  "name": "netsuite-mcp",
+  "description": "Enables AI assistants to query and manage NetSuite data via natural language, supporting SuiteQL queries and record operations through Token-Based Authentication.",
+  "source_repo": "cafeasp/cafeasp-netsuite-cli-mcp-server",
+  "source_url": "https://github.com/cafeasp/cafeasp-netsuite-cli-mcp-server",
+  "install": "npx -y cafeasp-netsuite-cli-mcp-server"
+}

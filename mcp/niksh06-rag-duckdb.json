@@ -1,0 +1,7 @@
+{
+  "name": "niksh06-rag-duckdb",
+  "description": "Provides document processing and retrieval-augmented generation capabilities using DuckDB as the vector database backend, featuring intelligent chunking strategies that adapt to file types, hybrid search combining semantic similarity with BM25 keyword search, and support for over 20 file formats including programming languages and documentation formats.",
+  "source_repo": "niksh06/rag-duckdb-with-mcp",
+  "source_url": "https://github.com/niksh06/rag-duckdb-with-mcp",
+  "install": "npx -y rag-duckdb-with-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vinodismyname-redshift-utils",
+  "description": "Provides Amazon Redshift database administration tools for cluster health monitoring, query performance analysis, workload management, and diagnostic operations through AWS Data API integration with over 40 curated SQL scripts for production database maintenance.",
+  "source_repo": "vinodismyname/redshift-utils-mcp",
+  "source_url": "https://github.com/vinodismyname/redshift-utils-mcp",
+  "install": "npx -y redshift-utils-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olyport-eia",
+  "description": "Energy data from the U.S. Energy Information Administration: electricity, fuel prices, and renewables.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/eia/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/eia/mcp\n# See source for mcpServers config block"
+}

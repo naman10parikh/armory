@@ -1,0 +1,7 @@
+{
+  "name": "rafal-wilinski-apple-notes",
+  "description": "Integrates with Apple Notes to enable listing, searching, creating, and indexing notes using semantic and full-text search capabilities, leveraging LanceDB for efficient data storage and on-device embeddings for natural language interactions.",
+  "source_repo": "dingzeefs/mcp-apple-notes",
+  "source_url": "https://github.com/dingzeefs/mcp-apple-notes",
+  "install": "# git clone --depth 1 https://github.com/dingzeefs/mcp-apple-notes\n# See source for mcpServers config block"
+}

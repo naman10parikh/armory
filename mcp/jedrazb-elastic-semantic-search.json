@@ -1,0 +1,7 @@
+{
+  "name": "jedrazb-elastic-semantic-search",
+  "description": "Integrates with Elasticsearch to provide semantic search functionality for blog posts, returning formatted results including titles, URLs, and relevant text snippets.",
+  "source_repo": "jedrazb/elastic-semantic-search-mcp-server",
+  "source_url": "https://github.com/jedrazb/elastic-semantic-search-mcp-server",
+  "install": "npx -y elastic-semantic-search-mcp-server"
+}

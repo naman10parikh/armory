@@ -1,0 +1,7 @@
+{
+  "name": "laxy9887-spritesheet-forge",
+  "description": "Game development sprite tools: PNG/GIF to spritesheet conversion, splitting, trimming, and animation.",
+  "source_repo": "",
+  "source_url": "https://mcp.clawstudiouo.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.clawstudiouo.com/mcp\n# See source for mcpServers config block"
+}

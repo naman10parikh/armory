@@ -1,0 +1,7 @@
+{
+  "name": "m4s1t4-websearch-tools",
+  "description": "Integrates with web search APIs and crawling tools to enable internet-wide information retrieval, content extraction, and data mining capabilities for research and analysis tasks.",
+  "source_repo": "josemartinrodriguezmortaloni/websearch-tools",
+  "source_url": "https://github.com/josemartinrodriguezmortaloni/websearch-tools",
+  "install": "# git clone --depth 1 https://github.com/josemartinrodriguezmortaloni/websearch-tools\n# See source for mcpServers config block"
+}

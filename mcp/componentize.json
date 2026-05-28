@@ -1,0 +1,7 @@
+{
+  "name": "componentize",
+  "description": "Converts design screenshots into reusable Tailwind HTML components via MCP protocol, enabling any AI to extract and export individual UI elements.",
+  "source_repo": "MonloHua/componentize",
+  "source_url": "https://github.com/MonloHua/componentize",
+  "install": "# git clone --depth 1 https://github.com/MonloHua/componentize\n# See source for mcpServers config block"
+}

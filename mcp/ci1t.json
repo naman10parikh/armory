@@ -1,0 +1,7 @@
+{
+  "name": "ci1t",
+  "description": "Prediction stability engine for detecting model drift, ghost predictions, and fleet monitoring.",
+  "source_repo": "collapseindex/ci-1t-mcp",
+  "source_url": "https://github.com/collapseindex/ci-1t-mcp",
+  "install": "npx -y ci-1t-mcp"
+}

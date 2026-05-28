@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agentis",
+  "description": "Mcp Agentis MCP server listed on mcp.so.",
+  "source_repo": "AgentisLabs/mcp-agentis",
+  "source_url": "https://mcp.so/server/mcp-agentis/AgentisLabs",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-agentis/AgentisLabs\n# See source for mcpServers config block"
+}

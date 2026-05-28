@@ -1,0 +1,7 @@
+{
+  "name": "playwright-wizard",
+  "description": "Guided workflow for creating professional Playwright test suites with built-in best practices",
+  "source_repo": "oguzc/playwright-wizard-mcp",
+  "source_url": "https://github.com/oguzc/playwright-wizard-mcp",
+  "install": "npx -y playwright-wizard-mcp"
+}

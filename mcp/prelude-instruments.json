@@ -1,0 +1,7 @@
+{
+  "name": "prelude-instruments",
+  "description": "Search and rent musical instruments in New Zealand, with pricing, teachers, and FAQs.",
+  "source_repo": "",
+  "source_url": "https://prelude.co.nz/mcp/prelude",
+  "install": "# git clone --depth 1 https://prelude.co.nz/mcp/prelude\n# See source for mcpServers config block"
+}

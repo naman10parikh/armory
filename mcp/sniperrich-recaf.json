@@ -1,0 +1,7 @@
+{
+  "name": "sniperrich-recaf",
+  "description": "Bridges Recaf 4.x Java bytecode editor with decompilation, bytecode analysis, call graph exploration, JASM assembly, and workspace management.",
+  "source_repo": "sniperrich/recafmcp",
+  "source_url": "https://github.com/sniperrich/recafmcp",
+  "install": "# git clone --depth 1 https://github.com/sniperrich/recafmcp\n# See source for mcpServers config block"
+}

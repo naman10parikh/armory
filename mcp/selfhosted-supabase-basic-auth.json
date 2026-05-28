@@ -1,0 +1,7 @@
+{
+  "name": "selfhosted-supabase-basic-auth",
+  "description": "Bridges self-hosted Supabase instances with conversational interfaces through 18 tools for database operations, user management, storage browsing, and TypeScript type generation without cloud API dependencies.",
+  "source_repo": "abushadab/selfhosted-supabase-mcp-basic-auth",
+  "source_url": "https://github.com/abushadab/selfhosted-supabase-mcp-basic-auth",
+  "install": "# git clone --depth 1 https://github.com/abushadab/selfhosted-supabase-mcp-basic-auth\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pottekkat-dicedb",
+  "description": "Enables AI applications to interact with DiceDB database servers for key-value operations without requiring direct database credentials or connection management",
+  "source_repo": "pottekkat/dicedb-mcp",
+  "source_url": "https://github.com/pottekkat/dicedb-mcp",
+  "install": "npx -y dicedb-mcp"
+}

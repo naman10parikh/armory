@@ -1,0 +1,7 @@
+{
+  "name": "markitdown",
+  "description": "Integrates with Microsoft's MarkItDown tool to convert documents like PDFs, Word files, and PowerPoint presentations into clean, structured markdown for content extraction and analysis workflows.",
+  "source_repo": "microsoft/markitdown",
+  "source_url": "https://github.com/microsoft/markitdown",
+  "install": "# git clone --depth 1 https://github.com/microsoft/markitdown\n# See source for mcpServers config block"
+}

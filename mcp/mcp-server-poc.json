@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-poc",
+  "description": "Mcp Server Poc MCP server listed on mcp.so.",
+  "source_repo": "TarcisioPhilips/mcp-server-poc",
+  "source_url": "https://mcp.so/server/mcp-server-poc/TarcisioPhilips",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-poc/TarcisioPhilips\n# See source for mcpServers config block"
+}

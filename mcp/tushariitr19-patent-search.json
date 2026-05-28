@@ -1,0 +1,7 @@
+{
+  "name": "tushariitr19-patent-search",
+  "description": "Patent search and prior art discovery via Google Patents dataset on BigQuery.",
+  "source_repo": "tushariitr-19/patents-mcp",
+  "source_url": "https://github.com/tushariitr-19/patents-mcp",
+  "install": "npx -y patents-mcp"
+}

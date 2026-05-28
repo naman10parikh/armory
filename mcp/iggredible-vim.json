@@ -1,0 +1,7 @@
+{
+  "name": "iggredible-vim",
+  "description": "Connect to Vim/Neovim instances to query state, execute commands, search help, and record macros",
+  "source_repo": "iggredible/vim-mcp",
+  "source_url": "https://github.com/iggredible/vim-mcp",
+  "install": "npx -y vim-mcp"
+}

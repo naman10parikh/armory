@@ -1,0 +1,7 @@
+{
+  "name": "wearzdk-seedream-image",
+  "description": "Seedream image generation API integration for AI-powered visual content creation",
+  "source_repo": "wearzdk/seedream-image-mcp",
+  "source_url": "https://github.com/wearzdk/seedream-image-mcp",
+  "install": "npx -y seedream-image-mcp"
+}

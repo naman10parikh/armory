@@ -1,0 +1,7 @@
+{
+  "name": "totonga-odsbox-jaquel",
+  "description": "Query and manage ASAM ODS automotive testing measurement databases",
+  "source_repo": "totonga/odsbox-jaquel-mcp",
+  "source_url": "https://github.com/totonga/odsbox-jaquel-mcp",
+  "install": "npx -y odsbox-jaquel-mcp"
+}

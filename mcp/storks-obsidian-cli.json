@@ -1,0 +1,7 @@
+{
+  "name": "storks-obsidian-cli",
+  "description": "Comprehensive Obsidian vault management through the official CLI with 54 tools for files, search, tasks, tags, plugins, and workspaces.",
+  "source_repo": "storks/obsidian-mcp",
+  "source_url": "https://github.com/storks/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

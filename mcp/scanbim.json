@@ -1,0 +1,7 @@
+{
+  "name": "scanbim",
+  "description": "Access ScanBIM's AI-powered AEC platform supporting real-time BIM model viewing, conversion, and analysis across Revit, Navisworks, ACC, and 50+ 3D formats via Autodesk Platform Services.",
+  "source_repo": "",
+  "source_url": "https://scanbim.app",
+  "install": "# git clone --depth 1 https://scanbim.app\n# See source for mcpServers config block"
+}

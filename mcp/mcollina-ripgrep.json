@@ -1,0 +1,7 @@
+{
+  "name": "mcollina-ripgrep",
+  "description": "Provides high-performance text search capabilities by wrapping ripgrep, enabling powerful file exploration, pattern matching, and content discovery across local filesystems.",
+  "source_repo": "mcollina/mcp-ripgrep",
+  "source_url": "https://github.com/mcollina/mcp-ripgrep",
+  "install": "# git clone --depth 1 https://github.com/mcollina/mcp-ripgrep\n# See source for mcpServers config block"
+}

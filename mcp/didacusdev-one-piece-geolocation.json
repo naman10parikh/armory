@@ -1,0 +1,7 @@
+{
+  "name": "didacusdev-one-piece-geolocation",
+  "description": "Multi-server collection providing One Piece anime/manga information and geolocation services through a configurable architecture that allows users to select which specialized server to run at startup.",
+  "source_repo": "didacusdev/mcp-servers",
+  "source_url": "https://github.com/didacusdev/mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/didacusdev/mcp-servers\n# See source for mcpServers config block"
+}

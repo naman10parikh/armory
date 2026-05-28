@@ -1,0 +1,7 @@
+{
+  "name": "agentsim",
+  "description": "Provisions real SIM-backed phone numbers for OTP verification, with automatic code parsing and session management.",
+  "source_repo": "agentsimdev/agentsim-mcp",
+  "source_url": "https://github.com/agentsimdev/agentsim-mcp",
+  "install": "npx -y agentsim-mcp"
+}

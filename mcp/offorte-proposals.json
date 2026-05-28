@@ -1,0 +1,7 @@
+{
+  "name": "offorte-proposals",
+  "description": "Integrates with Offorte's proposal management platform to enable contact management, proposal creation and sending, and template access for streamlining sales workflows and client relationship management.",
+  "source_repo": "offorte/offorte-mcp-server",
+  "source_url": "https://github.com/offorte/offorte-mcp-server",
+  "install": "npx -y offorte-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yorrickjansen-strava",
+  "description": "Integrates with Strava API to provide direct access to athlete activities, detailed performance metrics, segment data, and leaderboards for training analysis and progress tracking.",
+  "source_repo": "yorrickjansen/strava-mcp",
+  "source_url": "https://github.com/yorrickjansen/strava-mcp",
+  "install": "npx -y strava-mcp"
+}

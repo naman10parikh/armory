@@ -1,0 +1,7 @@
+{
+  "name": "cognisphere",
+  "description": "Cognisphere ADK is an AI agent development framework built on Google's Agent Development Kit (ADK)",
+  "source_repo": "IhateCreatingUserNames2/Cognisphere",
+  "source_url": "https://github.com/IhateCreatingUserNames2/Cognisphere",
+  "install": "# git clone --depth 1 https://github.com/IhateCreatingUserNames2/Cognisphere\n# See source for mcpServers config block"
+}

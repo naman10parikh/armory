@@ -1,0 +1,7 @@
+{
+  "name": "benhaotang-mathematica-documentation",
+  "description": "Integrates with Wolfram Mathematica's documentation to provide access to function details, package symbols, and computational capabilities for mathematical modeling and scientific computing tasks.",
+  "source_repo": "benhaotang/mcp-mma-docs",
+  "source_url": "https://github.com/benhaotang/mcp-mma-docs",
+  "install": "# git clone --depth 1 https://github.com/benhaotang/mcp-mma-docs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-tldr-pages",
+  "description": "Serves tldr-pages community simplified man pages with 24-hour caching.",
+  "source_repo": "pipeworx-io/mcp-tldr-pages",
+  "source_url": "https://github.com/pipeworx-io/mcp-tldr-pages",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-tldr-pages\n# See source for mcpServers config block"
+}

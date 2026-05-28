@@ -1,0 +1,7 @@
+{
+  "name": "sovgrid-self-hosted-ai",
+  "description": "Engineering knowledge base of self-hosted AI articles, indexed from NVIDIA DGX Spark experiments.",
+  "source_repo": "cipherfoxie/sovereign-mcp",
+  "source_url": "https://github.com/cipherfoxie/sovereign-mcp",
+  "install": "npx -y sovereign-mcp"
+}

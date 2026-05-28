@@ -1,0 +1,7 @@
+{
+  "name": "seolinkmap",
+  "description": "Transforms SEO analytics into conversational queries, providing SERP correlation analysis, PageRank calculations, competitor backlink profiles, and technical performance metrics with statistical rigor for data-driven optimization recommendations.",
+  "source_repo": "",
+  "source_url": "https://seolinkmap.com/documentation/private-mcp-guide",
+  "install": "# git clone --depth 1 https://seolinkmap.com/documentation/private-mcp-guide\n# See source for mcpServers config block"
+}

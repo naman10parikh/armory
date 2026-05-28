@@ -1,0 +1,7 @@
+{
+  "name": "264gaurav-national-weather-service",
+  "description": "Integrates with the National Weather Service API to retrieve active weather alerts by US state with proper error handling and timeout management for weather monitoring and emergency preparedness applications.",
+  "source_repo": "264gaurav/mcp_ai",
+  "source_url": "https://github.com/264gaurav/mcp_ai",
+  "install": "# git clone --depth 1 https://github.com/264gaurav/mcp_ai\n# See source for mcpServers config block"
+}

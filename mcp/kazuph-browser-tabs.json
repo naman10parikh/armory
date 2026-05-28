@@ -1,0 +1,7 @@
+{
+  "name": "kazuph-browser-tabs",
+  "description": "Integrates with Chrome on macOS to retrieve and manage browser tab information using AppleScript.",
+  "source_repo": "kazuph/mcp-browser-tabs",
+  "source_url": "https://github.com/kazuph/mcp-browser-tabs",
+  "install": "# git clone --depth 1 https://github.com/kazuph/mcp-browser-tabs\n# See source for mcpServers config block"
+}

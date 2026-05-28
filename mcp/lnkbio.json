@@ -1,0 +1,7 @@
+{
+  "name": "lnkbio",
+  "description": "Manage your Lnk.Bio link-in-bio page through AI with tools for links, pages, themes, and social icons.",
+  "source_repo": "",
+  "source_url": "https://lnk.bio",
+  "install": "# git clone --depth 1 https://lnk.bio\n# See source for mcpServers config block"
+}

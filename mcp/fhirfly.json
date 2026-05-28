@@ -1,0 +1,7 @@
+{
+  "name": "fhirfly",
+  "description": "Healthcare reference data including drugs, providers, diagnoses, labs, vaccines, claims, and Medicaid endpoints.",
+  "source_repo": "fhirfly-io/fhirfly-mcp-server",
+  "source_url": "https://github.com/fhirfly-io/fhirfly-mcp-server",
+  "install": "npx -y fhirfly-mcp-server"
+}

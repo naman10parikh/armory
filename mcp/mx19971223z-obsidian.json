@@ -1,0 +1,7 @@
+{
+  "name": "mx19971223z-obsidian",
+  "description": "MCP server for Obsidian vault management with Git sync, semantic search, and AI interaction journaling.",
+  "source_repo": "mx19971223z-cloud/mxmanage-obsidian-mcp",
+  "source_url": "https://github.com/mx19971223z-cloud/mxmanage-obsidian-mcp",
+  "install": "npx -y mxmanage-obsidian-mcp"
+}

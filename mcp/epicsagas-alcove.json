@@ -1,0 +1,7 @@
+{
+  "name": "epicsagas-alcove",
+  "description": "MCP server that gives AI coding agents on-demand access to private project docs via BM25 ranked search. One setup for Claude Code, Cursor, Codex, Gemini CLI, and more. Docs stay private, never in public repos.",
+  "source_repo": "epicsagas/alcove",
+  "source_url": "https://github.com/epicsagas/alcove",
+  "install": "# git clone --depth 1 https://github.com/epicsagas/alcove\n# See source for mcpServers config block"
+}

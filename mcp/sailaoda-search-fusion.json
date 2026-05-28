@@ -1,0 +1,7 @@
+{
+  "name": "sailaoda-search-fusion",
+  "description": "Aggregates multiple search engines including Google Custom Search, Jina AI, DuckDuckGo, Bing, Baidu, and Exa AI with intelligent failover and priority-based routing to ensure reliable web search results even when individual providers experience outages or rate limits.",
+  "source_repo": "sailaoda/search-fusion-mcp",
+  "source_url": "https://github.com/sailaoda/search-fusion-mcp",
+  "install": "npx -y search-fusion-mcp"
+}

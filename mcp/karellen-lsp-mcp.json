@@ -1,0 +1,7 @@
+{
+  "name": "karellen-lsp-mcp",
+  "description": "Provides LLM clients with structured code intelligence through LSP servers, enabling queries for definitions, references, call hierarchies, and more.",
+  "source_repo": "karellen/karellen-lsp-mcp",
+  "source_url": "https://github.com/karellen/karellen-lsp-mcp",
+  "install": "npx -y karellen-lsp-mcp"
+}

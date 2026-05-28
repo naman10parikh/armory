@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-send-that-email",
+  "description": "Email draft analysis that evaluates passive aggression and regret probability before sending, heavily weighted toward no.",
+  "source_repo": "pipeworx-io/mcp-send-that-email",
+  "source_url": "https://github.com/pipeworx-io/mcp-send-that-email",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-send-that-email\n# See source for mcpServers config block"
+}

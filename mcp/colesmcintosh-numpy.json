@@ -1,0 +1,7 @@
+{
+  "name": "colesmcintosh-numpy",
+  "description": "Provides NumPy-based mathematical operations and statistical analysis tools for advanced numerical computations, data analysis, and linear algebra operations in Python environments.",
+  "source_repo": "colesmcintosh/numpy-mcp",
+  "source_url": "https://github.com/colesmcintosh/numpy-mcp",
+  "install": "npx -y numpy-mcp"
+}

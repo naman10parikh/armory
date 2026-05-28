@@ -1,0 +1,7 @@
+{
+  "name": "birdseyevue-daisyui",
+  "description": "Provides access to DaisyUI component documentation and usage patterns for Tailwind CSS development",
+  "source_repo": "birdseyevue/daisyui-mcp",
+  "source_url": "https://github.com/birdseyevue/daisyui-mcp",
+  "install": "npx -y daisyui-mcp"
+}

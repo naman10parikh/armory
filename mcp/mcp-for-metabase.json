@@ -1,0 +1,7 @@
+{
+  "name": "mcp-for-metabase",
+  "description": "A safety-gated Python MCP server for Metabase that lets MCP clients and agents inspect Metabase, run governed queries, and create or maintain dashboards, cards/questions, collections, snippets, permissions, and other Metabase assets through the Metabase REST API.",
+  "source_repo": "DominikPollok/mcp-for-metabase",
+  "source_url": "https://github.com/DominikPollok/mcp-for-metabase",
+  "install": "# git clone --depth 1 https://github.com/DominikPollok/mcp-for-metabase\n# See source for mcpServers config block"
+}

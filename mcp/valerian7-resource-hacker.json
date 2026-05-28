@@ -1,0 +1,7 @@
+{
+  "name": "valerian7-resource-hacker",
+  "description": "Command-line access to Resource Hacker for extracting, adding, deleting, and modifying resources in Windows PE files including icons, bitmaps, and version info.",
+  "source_repo": "valerian7/resourcehacker-mcp",
+  "source_url": "https://github.com/valerian7/resourcehacker-mcp",
+  "install": "npx -y resourcehacker-mcp"
+}

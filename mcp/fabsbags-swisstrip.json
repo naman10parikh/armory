@@ -1,0 +1,7 @@
+{
+  "name": "fabsbags-swisstrip",
+  "description": "Accesses Swiss Federal Railways data through the SwissTrip hosted service.",
+  "source_repo": "fabsbags/swisstrip-mcp",
+  "source_url": "https://github.com/fabsbags/swisstrip-mcp",
+  "install": "npx -y swisstrip-mcp"
+}

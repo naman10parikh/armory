@@ -1,0 +1,7 @@
+{
+  "name": "cmd8-excalidraw",
+  "description": "Programmatic interaction with Excalidraw diagram files",
+  "source_repo": "cmd8/excalidraw-mcp",
+  "source_url": "https://github.com/cmd8/excalidraw-mcp",
+  "install": "npx -y excalidraw-mcp"
+}

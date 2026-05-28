@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-flickr-public",
+  "description": "Browse Flickr's public photo feeds including recent uploads, tag-based galleries, user collections, and group pools without requiring API authentication.",
+  "source_repo": "pipeworx-io/mcp-flickr-public",
+  "source_url": "https://github.com/pipeworx-io/mcp-flickr-public",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-flickr-public\n# See source for mcpServers config block"
+}

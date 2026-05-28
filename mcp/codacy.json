@@ -1,0 +1,7 @@
+{
+  "name": "codacy",
+  "description": "Integrates with Codacy's code quality platform to provide static analysis capabilities, code coverage metrics, and quality gate configurations for automated code review and coding standards enforcement.",
+  "source_repo": "codacy/codacy-mcp-server",
+  "source_url": "https://github.com/codacy/codacy-mcp-server",
+  "install": "npx -y codacy-mcp-server"
+}

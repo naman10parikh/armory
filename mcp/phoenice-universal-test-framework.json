@@ -1,0 +1,7 @@
+{
+  "name": "phoenice-universal-test-framework",
+  "description": "Polyglot test generation across Python, TypeScript, Java, Go, and C++ with contract enforcement.",
+  "source_repo": "phoenice-labs/universal-test-framework",
+  "source_url": "https://github.com/phoenice-labs/universal-test-framework",
+  "install": "# git clone --depth 1 https://github.com/phoenice-labs/universal-test-framework\n# See source for mcpServers config block"
+}

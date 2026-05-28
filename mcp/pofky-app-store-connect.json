@@ -1,0 +1,7 @@
+{
+  "name": "pofky-app-store-connect",
+  "description": "Check app review status, read customer reviews, and download sales reports from App Store Connect.",
+  "source_repo": "pofky/asc-mcp",
+  "source_url": "https://github.com/pofky/asc-mcp",
+  "install": "npx -y asc-mcp"
+}

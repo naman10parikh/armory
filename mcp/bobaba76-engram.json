@@ -1,0 +1,7 @@
+{
+  "name": "bobaba76-engram",
+  "description": "Local-first code intelligence server providing semantic code search, dependency analysis, review history tracking, and symbol context for Python and TypeScript repositories.",
+  "source_repo": "bobaba76/engram",
+  "source_url": "https://github.com/bobaba76/engram",
+  "install": "# git clone --depth 1 https://github.com/bobaba76/engram\n# See source for mcpServers config block"
+}

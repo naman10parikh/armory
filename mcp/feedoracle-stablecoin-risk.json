@@ -1,0 +1,7 @@
+{
+  "name": "feedoracle-stablecoin-risk",
+  "description": "7-signal stablecoin risk scoring with SAFE/CAUTION/AVOID verdicts for 28+ tokens.",
+  "source_repo": "feedoracle/-feedoracle-mcp-risk",
+  "source_url": "https://github.com/feedoracle/-feedoracle-mcp-risk",
+  "install": "# git clone --depth 1 https://github.com/feedoracle/-feedoracle-mcp-risk\n# See source for mcpServers config block"
+}

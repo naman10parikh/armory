@@ -1,0 +1,7 @@
+{
+  "name": "richarda23-edinburgh-festival",
+  "description": "Integrates with the Edinburgh Festival API to provide searchable access to festival events and venue data with filtering by date, genre, venue, artist, and location for event planning and festival research.",
+  "source_repo": "richarda23/edfest-mcp",
+  "source_url": "https://github.com/richarda23/edfest-mcp",
+  "install": "npx -y edfest-mcp"
+}

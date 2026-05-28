@@ -1,0 +1,7 @@
+{
+  "name": "danielealbano-azure-devops-boards",
+  "description": "Enables work item creation, updates, queries, and board management",
+  "source_repo": "danielealbano/mcp-for-azure-devops-boards",
+  "source_url": "https://github.com/danielealbano/mcp-for-azure-devops-boards",
+  "install": "# git clone --depth 1 https://github.com/danielealbano/mcp-for-azure-devops-boards\n# See source for mcpServers config block"
+}

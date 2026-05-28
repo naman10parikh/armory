@@ -1,0 +1,7 @@
+{
+  "name": "woobox-hatchable-mcp",
+  "description": "Build and host full-stack web apps and sites on Hatchable from any MCP client. DB, auth, storage, domains, and cron per project. Free tier.",
+  "source_repo": "Woobox/hatchable-mcp",
+  "source_url": "https://github.com/Woobox/hatchable-mcp",
+  "install": "npx -y hatchable-mcp"
+}

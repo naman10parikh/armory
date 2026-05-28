@@ -1,0 +1,7 @@
+{
+  "name": "universal-robots",
+  "description": "Provides complete control over Universal Robots industrial robotic arms through real-time data exchange, dashboard commands, and URScript programming for trajectory planning, force sensing, and automated manufacturing workflows.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/universal-robots",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/universal-robots\n# See source for mcpServers config block"
+}

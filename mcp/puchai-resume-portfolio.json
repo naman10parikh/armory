@@ -1,0 +1,7 @@
+{
+  "name": "puchai-resume-portfolio",
+  "description": "Serves personal resume data in multiple formats and fetches web content with automatic format conversion, validation tools, and content simplification for portfolio access and web research tasks.",
+  "source_repo": "jigyasurajput/mcp-server",
+  "source_url": "https://github.com/jigyasurajput/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/jigyasurajput/mcp-server\n# See source for mcpServers config block"
+}

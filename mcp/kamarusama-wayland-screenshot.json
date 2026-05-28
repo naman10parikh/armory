@@ -1,0 +1,7 @@
+{
+  "name": "kamarusama-wayland-screenshot",
+  "description": "MCP server for capturing screenshots on Linux Wayland desktops using grim and slurp utilities.",
+  "source_repo": "kamarusama/mcp-screenshot",
+  "source_url": "https://github.com/kamarusama/mcp-screenshot",
+  "install": "# git clone --depth 1 https://github.com/kamarusama/mcp-screenshot\n# See source for mcpServers config block"
+}

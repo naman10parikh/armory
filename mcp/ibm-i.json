@@ -1,0 +1,7 @@
+{
+  "name": "ibm-i",
+  "description": "Provides direct access to IBM i (AS/400) systems through SQL-based tools and database operations with security validation, connection pooling, and specialized monitoring capabilities for system administration and performance analysis.",
+  "source_repo": "ibm/ibmi-mcp-server",
+  "source_url": "https://github.com/ibm/ibmi-mcp-server",
+  "install": "npx -y ibmi-mcp-server"
+}

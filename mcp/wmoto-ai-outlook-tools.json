@@ -1,0 +1,7 @@
+{
+  "name": "wmoto-ai-outlook-tools",
+  "description": "Integrates with Microsoft Outlook on Windows to search Exchange directories for user information and manage calendar appointments including creation, retrieval, and recurring event handling through COM automation.",
+  "source_repo": "wmoto-ai/mcp-outlook-tools",
+  "source_url": "https://github.com/wmoto-ai/mcp-outlook-tools",
+  "install": "# git clone --depth 1 https://github.com/wmoto-ai/mcp-outlook-tools\n# See source for mcpServers config block"
+}

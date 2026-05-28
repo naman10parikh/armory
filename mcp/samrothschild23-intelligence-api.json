@@ -1,0 +1,7 @@
+{
+  "name": "samrothschild23-intelligence-api",
+  "description": "E-commerce and business intelligence MCP server. Analyze any Shopify store, research Amazon products with Opportunity Score and FBA profitability estimates, and find qualified sales leads from Google Maps with Lead Quality Scoring. Pay-per-call via x402 (USDC on Base).",
+  "source_repo": "samrothschild23/intelligence-api",
+  "source_url": "https://github.com/samrothschild23/intelligence-api",
+  "install": "# git clone --depth 1 https://github.com/samrothschild23/intelligence-api\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "withinfocus-tba",
+  "description": "Access FIRST Robotics Competition team, event, and match data",
+  "source_repo": "withinfocus/tba-mcp-server",
+  "source_url": "https://github.com/withinfocus/tba-mcp-server",
+  "install": "npx -y tba-mcp-server"
+}

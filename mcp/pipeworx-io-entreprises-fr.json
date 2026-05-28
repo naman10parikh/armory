@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-entreprises-fr",
+  "description": "French company registry data — 26M+ legal units and 30M establishments via the recherche-entreprises.api.gouv.fr API through Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-entreprises-fr",
+  "source_url": "https://github.com/pipeworx-io/mcp-entreprises-fr",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-entreprises-fr\n# See source for mcpServers config block"
+}

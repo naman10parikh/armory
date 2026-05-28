@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 MySQL and MariaDB schema, query, indexing, transaction, replication, and connection-pool patterns for production backends.

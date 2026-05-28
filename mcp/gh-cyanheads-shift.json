@@ -1,0 +1,7 @@
+{
+  "name": "gh-cyanheads-shift",
+  "description": "Lightweight coordination layer for multiple AI agents working on the same codebase simultaneously.",
+  "source_repo": "cyanheads/shift-mcp-server",
+  "source_url": "https://github.com/cyanheads/shift-mcp-server",
+  "install": "npx -y shift-mcp-server"
+}

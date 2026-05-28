@@ -1,0 +1,7 @@
+{
+  "name": "introfini-zotero-plugin-dev",
+  "description": "Provides tools for building, testing, and debugging Zotero 7+ plugins through UI inspection, JavaScript execution, build integration, log streaming, and database access.",
+  "source_repo": "introfini/mcp-server-zotero-dev",
+  "source_url": "https://github.com/introfini/mcp-server-zotero-dev/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/introfini/mcp-server-zotero-dev/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

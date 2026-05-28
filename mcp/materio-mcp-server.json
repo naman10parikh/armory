@@ -1,0 +1,7 @@
+{
+  "name": "materio-mcp-server",
+  "description": "Enables AI assistants to search and read Materio's educational PDF resources directly, without manual file uploads.",
+  "source_repo": "Materioa/mcp-server",
+  "source_url": "https://github.com/Materioa/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Materioa/mcp-server\n# See source for mcpServers config block"
+}

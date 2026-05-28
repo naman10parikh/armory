@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-codeforces",
+  "description": "Query Codeforces competitive programming platform data including user profiles, contest results, problem statements, and submission history.",
+  "source_repo": "pipeworx-io/mcp-codeforces",
+  "source_url": "https://github.com/pipeworx-io/mcp-codeforces",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-codeforces\n# See source for mcpServers config block"
+}

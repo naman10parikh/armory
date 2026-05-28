@@ -1,0 +1,7 @@
+{
+  "name": "mario-andreschak-gameboy",
+  "description": "Enables interaction with GameBoy emulator through button controls, ROM management, and screen capture for playing and analyzing games via natural language commands.",
+  "source_repo": "mario-andreschak/mcp-gameboy",
+  "source_url": "https://github.com/mario-andreschak/mcp-gameboy",
+  "install": "# git clone --depth 1 https://github.com/mario-andreschak/mcp-gameboy\n# See source for mcpServers config block"
+}

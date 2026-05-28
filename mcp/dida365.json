@@ -1,0 +1,7 @@
+{
+  "name": "dida365",
+  "description": "Integrates with Dida365 task management platform to enable creating, updating, and organizing tasks and projects through conversational interfaces.",
+  "source_repo": "zh1754629545/dida365-mcp-servers",
+  "source_url": "https://github.com/zh1754629545/dida365-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/zh1754629545/dida365-mcp-servers\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kanta",
+  "description": "Integrates with the Kanta API to manage French accounting compliance workflows including customer creation, user assignments, risk assessments, and KYC documentation for anti-money laundering and regulatory compliance.",
+  "source_repo": "kanta-inc/kanta-mcp-server",
+  "source_url": "https://github.com/kanta-inc/kanta-mcp-server",
+  "install": "npx -y kanta-mcp-server"
+}

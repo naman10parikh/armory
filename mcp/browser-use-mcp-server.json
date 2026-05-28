@@ -1,0 +1,7 @@
+{
+  "name": "browser-use-mcp-server",
+  "description": "Browser Use MCP Server MCP server listed on mcp.so.",
+  "source_repo": "win4r/browser-use-MCP-Server",
+  "source_url": "https://mcp.so/server/browser-use-MCP-Server/win4r",
+  "install": "npx -y browser-use-MCP-Server"
+}

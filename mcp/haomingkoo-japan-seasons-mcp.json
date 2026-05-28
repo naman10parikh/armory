@@ -1,0 +1,7 @@
+{
+  "name": "haomingkoo-japan-seasons-mcp",
+  "description": "Live Japan seasonal travel — cherry blossom forecasts, autumn leaves, flower spots, fruit picking & festivals. 1,700+ GPS-tagged spots from Japan Meteorological Corporation. Updated daily.",
+  "source_repo": "haomingkoo/japan-seasons-mcp",
+  "source_url": "https://github.com/haomingkoo/japan-seasons-mcp",
+  "install": "npx -y japan-seasons-mcp"
+}

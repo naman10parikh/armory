@@ -1,0 +1,7 @@
+{
+  "name": "rootnix-korean-brokerage",
+  "description": "Unified MCP interface for reading assets, holdings, and transactions from six Korean brokerage platforms.",
+  "source_repo": "rootnix/oh-my-stock-mcp",
+  "source_url": "https://github.com/rootnix/oh-my-stock-mcp",
+  "install": "npx -y oh-my-stock-mcp"
+}

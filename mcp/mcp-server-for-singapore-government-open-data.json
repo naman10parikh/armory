@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-singapore-government-open-data",
+  "description": "Provide seamless access to open datasets and collections from data.gov.sg. Enable searching, metadata retrieval, and filtered dataset downloads for analysis.",
+  "source_repo": "aniruddha-adhikary/gahmen-mcp",
+  "source_url": "https://github.com/aniruddha-adhikary/gahmen-mcp",
+  "install": "npx -y gahmen-mcp"
+}

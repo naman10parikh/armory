@@ -1,0 +1,7 @@
+{
+  "name": "t-rekttt-cgv-cinema",
+  "description": "Integrates with CGV Cinema's API to provide movie showtimes, cinema locations, and seat availability information for planning cinema outings through conversational interfaces.",
+  "source_repo": "t-rekttt/cgv-mcp",
+  "source_url": "https://github.com/t-rekttt/cgv-mcp",
+  "install": "npx -y cgv-mcp"
+}

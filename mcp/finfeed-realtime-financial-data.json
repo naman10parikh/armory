@@ -1,0 +1,7 @@
+{
+  "name": "finfeed-realtime-financial-data",
+  "description": "FinFeedAPI Currencies API - real-time data",
+  "source_repo": "",
+  "source_url": "https://mcp-realtime.fx.finfeedapi.com/mcp",
+  "install": "# git clone --depth 1 https://mcp-realtime.fx.finfeedapi.com/mcp\n# See source for mcpServers config block"
+}

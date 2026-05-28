@@ -1,0 +1,7 @@
+{
+  "name": "rblank9-cross-claude",
+  "description": "Message bus enabling communication between AI instances across platforms through shared channels, threaded conversations, and data exchange with both local SQLite and cloud PostgreSQL modes.",
+  "source_repo": "rblank9/cross-claude-mcp",
+  "source_url": "https://github.com/rblank9/cross-claude-mcp",
+  "install": "npx -y cross-claude-mcp"
+}

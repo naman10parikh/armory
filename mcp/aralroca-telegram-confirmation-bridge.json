@@ -1,0 +1,7 @@
+{
+  "name": "aralroca-telegram-confirmation-bridge",
+  "description": "Requests human confirmation via Telegram by sending YES/NO questions through a bot and polling for responses with secure user validation.",
+  "source_repo": "aralroca/telegram-bot-mcp",
+  "source_url": "https://github.com/aralroca/telegram-bot-mcp",
+  "install": "npx -y telegram-bot-mcp"
+}

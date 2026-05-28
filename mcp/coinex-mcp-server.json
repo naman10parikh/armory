@@ -1,0 +1,7 @@
+{
+  "name": "coinex-mcp-server",
+  "description": "An MCP server for interacting with the CoinEx cryptocurrency exchange, enabling market data queries and authenticated trading operations via AI agents.",
+  "source_repo": "coinexcom/coinex_mcp_server",
+  "source_url": "https://github.com/coinexcom/coinex_mcp_server",
+  "install": "npx -y coinex_mcp_server"
+}

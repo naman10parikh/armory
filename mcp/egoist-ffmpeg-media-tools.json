@@ -1,0 +1,7 @@
+{
+  "name": "egoist-ffmpeg-media-tools",
+  "description": "Provides a simplified interface for common FFmpeg media operations like video speed adjustment and audio extraction without requiring complex command-line syntax",
+  "source_repo": "egoist/ffmpeg-mcp",
+  "source_url": "https://github.com/egoist/ffmpeg-mcp",
+  "install": "npx -y ffmpeg-mcp"
+}

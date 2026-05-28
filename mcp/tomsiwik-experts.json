@@ -1,0 +1,7 @@
+{
+  "name": "tomsiwik-experts",
+  "description": "Provides expert-level code review through simulated personas like Martin Fowler and Uncle Bob, offering refactoring suggestions and clean code recommendations based on established software engineering principles.",
+  "source_repo": "tomsiwik/mcp-experts",
+  "source_url": "https://github.com/tomsiwik/mcp-experts",
+  "install": "# git clone --depth 1 https://github.com/tomsiwik/mcp-experts\n# See source for mcpServers config block"
+}

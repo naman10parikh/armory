@@ -1,0 +1,7 @@
+{
+  "name": "lotus",
+  "description": "GEO intelligence platform for B2B with AI bot monitoring, competitor analysis, revenue risk quantification, and defense code generation.",
+  "source_repo": "martinendara/agentic-seo-lotus",
+  "source_url": "https://github.com/martinendara/agentic-seo-lotus",
+  "install": "# git clone --depth 1 https://github.com/martinendara/agentic-seo-lotus\n# See source for mcpServers config block"
+}

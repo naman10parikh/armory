@@ -1,0 +1,7 @@
+{
+  "name": "cpropster-linear",
+  "description": "Integrates with Linear's project management platform, enabling AI-assisted workflows for team, issue, project, and cycle management through API operations.",
+  "source_repo": "cpropster/linear-mcp-server",
+  "source_url": "https://github.com/cpropster/linear-mcp-server",
+  "install": "npx -y linear-mcp-server"
+}

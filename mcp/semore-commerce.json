@@ -1,0 +1,7 @@
+{
+  "name": "semore-commerce",
+  "description": "Cross-border e-commerce tools for product discovery, cart management, and checkout via the Semore platform.",
+  "source_repo": "semorehq/mcp-commerce",
+  "source_url": "https://github.com/semorehq/mcp-commerce",
+  "install": "# git clone --depth 1 https://github.com/semorehq/mcp-commerce\n# See source for mcpServers config block"
+}

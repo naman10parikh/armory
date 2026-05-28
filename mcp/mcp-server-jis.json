@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-jis",
+  "description": "MCP server for jis: bilateral intent identity verification. Enables users to verify identities, request mutual consent, and send verified messages within the Intent-Centric Web ecosystem.",
+  "source_repo": "jaspertvdm/mcp-server-jis",
+  "source_url": "https://github.com/jaspertvdm/mcp-server-jis",
+  "install": "# git clone --depth 1 https://github.com/jaspertvdm/mcp-server-jis\n# See source for mcpServers config block"
+}

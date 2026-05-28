@@ -1,0 +1,7 @@
+{
+  "name": "mcpwizard",
+  "description": "Mcpwizard MCP server listed on mcp.so.",
+  "source_repo": "yoannarz/mcpwizard",
+  "source_url": "https://mcp.so/server/mcpwizard/yoannarz",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcpwizard/yoannarz\n# See source for mcpServers config block"
+}

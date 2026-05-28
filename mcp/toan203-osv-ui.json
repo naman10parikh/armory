@@ -1,0 +1,7 @@
+{
+  "name": "toan203-osv-ui",
+  "description": "Visual CVE audit dashboard for npm, Python, Go, and Rust. Scan from Claude/Cursor, opens a browser UI for human review (human-in-the-loop), applies fixes with explicit confirmation. Powered by OSV.dev.",
+  "source_repo": "toan203/osv-ui",
+  "source_url": "https://github.com/toan203/osv-ui",
+  "install": "# git clone --depth 1 https://github.com/toan203/osv-ui\n# See source for mcpServers config block"
+}

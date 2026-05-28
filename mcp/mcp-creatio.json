@@ -1,0 +1,7 @@
+{
+  "name": "mcp-creatio",
+  "description": "MCP server for Creatio CRM that enables AI assistants to read, create, update, delete records, execute business processes, and manage settings via OData and REST APIs.",
+  "source_repo": "CRACKISH/mcp-creatio",
+  "source_url": "https://github.com/CRACKISH/mcp-creatio",
+  "install": "# git clone --depth 1 https://github.com/CRACKISH/mcp-creatio\n# See source for mcpServers config block"
+}

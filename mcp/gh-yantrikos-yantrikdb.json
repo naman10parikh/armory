@@ -1,0 +1,7 @@
+{
+  "name": "gh-yantrikos-yantrikdb",
+  "description": "Cognitive memory system providing semantic recall, knowledge graphs, and contradiction detection for agent context management.",
+  "source_repo": "yantrikos/yantrikdb-mcp",
+  "source_url": "https://github.com/yantrikos/yantrikdb-mcp",
+  "install": "npx -y yantrikdb-mcp"
+}

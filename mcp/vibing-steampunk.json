@@ -1,0 +1,7 @@
+{
+  "name": "vibing-steampunk",
+  "description": "Enables AI assistants to access SAP ADT APIs for reading, writing, debugging, deploying, and testing ABAP code through natural language or DSL automation.",
+  "source_repo": "oisee/vibing-steampunk",
+  "source_url": "https://github.com/oisee/vibing-steampunk",
+  "install": "# git clone --depth 1 https://github.com/oisee/vibing-steampunk\n# See source for mcpServers config block"
+}

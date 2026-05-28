@@ -1,0 +1,7 @@
+{
+  "name": "zwldarren-akshare-chinese-stock-market",
+  "description": "Provides access to Chinese stock market data including historical prices, real-time information, financial statements, and news from sources like Eastmoney, Sina, and Xueqiu.",
+  "source_repo": "zwldarren/akshare-one-mcp",
+  "source_url": "https://github.com/zwldarren/akshare-one-mcp",
+  "install": "npx -y akshare-one-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flashalpha",
+  "description": "Real-time options analytics including gamma exposure, greeks, volatility, and variance risk premium for US equities.",
+  "source_repo": "flashalpha-lab/flashalpha-mcp",
+  "source_url": "https://github.com/flashalpha-lab/flashalpha-mcp",
+  "install": "npx -y flashalpha-mcp"
+}

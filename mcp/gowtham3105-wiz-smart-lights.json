@@ -1,0 +1,7 @@
+{
+  "name": "gowtham3105-wiz-smart-lights",
+  "description": "Controls Wiz smart light bulbs directly via UDP protocol on port 38899, enabling RGB color changes, brightness control, and access to 33+ predefined lighting scenes without requiring the official Wiz app.",
+  "source_repo": "gowtham3105/wiz-mcp-server",
+  "source_url": "https://github.com/gowtham3105/wiz-mcp-server",
+  "install": "npx -y wiz-mcp-server"
+}

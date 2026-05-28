@@ -1,0 +1,7 @@
+{
+  "name": "web3auth",
+  "description": "Help AI coding agents integrate MetaMask Embedded Wallets (Web3Auth) SDKs.",
+  "source_repo": "web3auth/web3auth-mcp",
+  "source_url": "https://github.com/web3auth/web3auth-mcp",
+  "install": "npx -y web3auth-mcp"
+}

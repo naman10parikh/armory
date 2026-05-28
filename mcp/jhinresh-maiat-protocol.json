@@ -1,0 +1,7 @@
+{
+  "name": "jhinresh-maiat-protocol",
+  "description": "Trust infrastructure for the agent economy. 4 tools: agent trust scores (18K+ agents indexed), token rug pull forensics, outcome reporting for oracle feedback loop, and Scarab reputation points. Hosted MCP at `https://app.maiat.io/api/mcp`.",
+  "source_repo": "JhiNResH/maiat-protocol",
+  "source_url": "https://github.com/JhiNResH/maiat-protocol",
+  "install": "# git clone --depth 1 https://github.com/JhiNResH/maiat-protocol\n# See source for mcpServers config block"
+}

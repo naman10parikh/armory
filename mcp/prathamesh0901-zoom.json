@@ -1,0 +1,7 @@
+{
+  "name": "prathamesh0901-zoom",
+  "description": "Provides a bridge between Zoom API and virtual meeting management, enabling creation, updating, deletion, and fetching of meetings without navigating the Zoom interface or handling authentication flows.",
+  "source_repo": "prathamesh0901/zoom-mcp-server",
+  "source_url": "https://github.com/prathamesh0901/zoom-mcp-server",
+  "install": "npx -y zoom-mcp-server"
+}

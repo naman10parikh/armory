@@ -1,0 +1,7 @@
+{
+  "name": "mcp-atomictoolkit",
+  "description": "Mcp Atomictoolkit MCP server listed on mcp.so.",
+  "source_repo": "XirtamEsrevni/mcp-atomictoolkit",
+  "source_url": "https://mcp.so/server/mcp-atomictoolkit/XirtamEsrevni",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-atomictoolkit/XirtamEsrevni\n# See source for mcpServers config block"
+}

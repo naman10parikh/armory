@@ -1,0 +1,7 @@
+{
+  "name": "agentcost",
+  "description": "MCP server that analyzes AI agent session logs to find token waste and optimization opportunities.",
+  "source_repo": "digitalpromptmarket-beep/alphaforensics-mcp",
+  "source_url": "https://github.com/digitalpromptmarket-beep/alphaforensics-mcp",
+  "install": "npx -y alphaforensics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spanning-mcp",
+  "description": "MCP server for Spanning Cloud Backup — M365/GWS/Salesforce SaaS backup, restore, and audit. Enables AI assistants to manage and monitor cloud backup protection via the Spanning API.",
+  "source_repo": "wyre-technology/spanning-mcp",
+  "source_url": "https://github.com/wyre-technology/spanning-mcp",
+  "install": "npx -y spanning-mcp"
+}

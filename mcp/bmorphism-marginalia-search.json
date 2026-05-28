@@ -1,0 +1,7 @@
+{
+  "name": "bmorphism-marginalia-search",
+  "description": "Integrates Marginalia Search to discover non-commercial and independent web content for research, trend analysis, and alternative perspectives.",
+  "source_repo": "bmorphism/marginalia-mcp-server",
+  "source_url": "https://github.com/bmorphism/marginalia-mcp-server",
+  "install": "npx -y marginalia-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "topher66-droidbar",
+  "description": "Visit a virtual bar for AI, chat with SERVO the bartender, and tip in tokens.",
+  "source_repo": "topher66/droidbar-mcp",
+  "source_url": "https://github.com/topher66/droidbar-mcp",
+  "install": "npx -y droidbar-mcp"
+}

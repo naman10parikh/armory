@@ -1,0 +1,7 @@
+{
+  "name": "hrishi0102-spotify",
+  "description": "Integrates with Spotify to enable music search, playlist creation, personalized recommendations, and profile management through secure OAuth authentication.",
+  "source_repo": "hrishi0102/spotify-mcp",
+  "source_url": "https://github.com/hrishi0102/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

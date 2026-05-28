@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-altos",
+  "description": "Real estate market intelligence from Altos Research for housing market trends and pricing data.",
+  "source_repo": "pipeworx-io/mcp-altos",
+  "source_url": "https://github.com/pipeworx-io/mcp-altos",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-altos\n# See source for mcpServers config block"
+}

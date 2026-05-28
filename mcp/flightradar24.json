@@ -1,0 +1,7 @@
+{
+  "name": "flightradar24",
+  "description": "Access real-time and historical flight data from Flightradar24's aviation tracking service",
+  "source_repo": "flightradar24/fr24api-mcp",
+  "source_url": "https://github.com/flightradar24/fr24api-mcp",
+  "install": "npx -y fr24api-mcp"
+}

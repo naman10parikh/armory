@@ -1,0 +1,7 @@
+{
+  "name": "bazinga012-code-executor",
+  "description": "Executes Python code within isolated Conda environments, enabling secure and flexible code generation and execution for tasks like data analysis and algorithm testing.",
+  "source_repo": "bazinga012/mcp_code_executor",
+  "source_url": "https://github.com/bazinga012/mcp_code_executor",
+  "install": "# git clone --depth 1 https://github.com/bazinga012/mcp_code_executor\n# See source for mcpServers config block"
+}

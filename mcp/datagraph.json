@@ -1,0 +1,7 @@
+{
+  "name": "datagraph",
+  "description": "Urban intelligence knowledge graph for civic problem-solving",
+  "source_repo": "team-earth/datagraph-city-mcp-server",
+  "source_url": "https://github.com/team-earth/datagraph-city-mcp-server",
+  "install": "npx -y datagraph-city-mcp-server"
+}

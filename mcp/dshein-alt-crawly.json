@@ -1,0 +1,7 @@
+{
+  "name": "dshein-alt-crawly",
+  "description": "Browser-backed web search and content retrieval using Playwright, supporting DuckDuckGo, Google, and Yandex with SSRF protection.",
+  "source_repo": "dshein-alt/crawly-mcp",
+  "source_url": "https://github.com/dshein-alt/crawly-mcp",
+  "install": "npx -y crawly-mcp"
+}

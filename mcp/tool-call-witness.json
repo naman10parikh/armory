@@ -1,0 +1,7 @@
+{
+  "name": "tool-call-witness",
+  "description": "Audit layer for AI agent tool calls: receipts, approval evidence, argument redaction, and result summaries.",
+  "source_repo": "clauxel/tool-call-witness-mcp",
+  "source_url": "https://github.com/clauxel/tool-call-witness-mcp",
+  "install": "npx -y tool-call-witness-mcp"
+}

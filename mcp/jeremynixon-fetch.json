@@ -1,0 +1,7 @@
+{
+  "name": "jeremynixon-fetch",
+  "description": "Fetches and processes web content into markdown with intelligent image handling for seamless integration into research workflows.",
+  "source_repo": "jeremynixon/mcp-fetch",
+  "source_url": "https://github.com/jeremynixon/mcp-fetch",
+  "install": "# git clone --depth 1 https://github.com/jeremynixon/mcp-fetch\n# See source for mcpServers config block"
+}

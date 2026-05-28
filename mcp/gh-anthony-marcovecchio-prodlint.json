@@ -1,0 +1,7 @@
+{
+  "name": "gh-anthony-marcovecchio-prodlint",
+  "description": "Production readiness checks for vibe-coded apps with 52 security and performance rules.",
+  "source_repo": "prodlint/prodlint",
+  "source_url": "https://github.com/prodlint/prodlint",
+  "install": "# git clone --depth 1 https://github.com/prodlint/prodlint\n# See source for mcpServers config block"
+}

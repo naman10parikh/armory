@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-firestore",
+  "description": "Google Cloud Firestore MCP server for AI-assisted management of serverless NoSQL document databases.",
+  "source_repo": "",
+  "source_url": "https://firestore.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://firestore.googleapis.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alleybo55-gocode",
+  "description": "Claude Code reimplemented in Go as a fast AI coding agent runtime with MCP server support.",
+  "source_repo": "alleybo55/gocode",
+  "source_url": "https://github.com/alleybo55/gocode",
+  "install": "# git clone --depth 1 https://github.com/alleybo55/gocode\n# See source for mcpServers config block"
+}

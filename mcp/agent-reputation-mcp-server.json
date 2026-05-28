@@ -1,0 +1,7 @@
+{
+  "name": "agent-reputation-mcp-server",
+  "description": "Enables AI agents to rate each other, track interaction outcomes, and compute trust scores, with features like submitting ratings, getting reputation profiles, leaderboards, and trust computation.",
+  "source_repo": "AiAgentKarl/agent-reputation-mcp-server-js",
+  "source_url": "https://github.com/AiAgentKarl/agent-reputation-mcp-server-js",
+  "install": "# git clone --depth 1 https://github.com/AiAgentKarl/agent-reputation-mcp-server-js\n# See source for mcpServers config block"
+}

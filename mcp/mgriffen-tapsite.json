@@ -1,0 +1,7 @@
+{
+  "name": "mgriffen-tapsite",
+  "description": "Web intelligence extraction for design systems, accessibility, performance, and content analysis.",
+  "source_repo": "mgriffen/tapsite",
+  "source_url": "https://github.com/mgriffen/tapsite",
+  "install": "# git clone --depth 1 https://github.com/mgriffen/tapsite\n# See source for mcpServers config block"
+}

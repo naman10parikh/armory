@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-weibo",
+  "description": "Mcp Server Weibo MCP server listed on mcp.so.",
+  "source_repo": "qinyuanpei/mcp-server-weibo",
+  "source_url": "https://mcp.so/server/mcp-server-weibo/qinyuanpei",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-weibo/qinyuanpei\n# See source for mcpServers config block"
+}

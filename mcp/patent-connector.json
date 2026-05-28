@@ -1,0 +1,7 @@
+{
+  "name": "patent-connector",
+  "description": "Connects to live patent database APIs including EPO OPS, USPTO ODP, and DPMA Connect Plus to fetch patent claims, prior art, and summaries for patent research, IP analysis, and building patent-informed applications.",
+  "source_repo": "",
+  "source_url": "https://patent.dev/patent-connector/",
+  "install": "# git clone --depth 1 https://patent.dev/patent-connector/\n# See source for mcpServers config block"
+}

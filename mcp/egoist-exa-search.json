@@ -1,0 +1,7 @@
+{
+  "name": "egoist-exa-search",
+  "description": "Integrates with Exa Search API to enable web searches with customizable parameters for search type, content categories, date ranges, and domain filtering.",
+  "source_repo": "egoist/exa-mcp",
+  "source_url": "https://github.com/egoist/exa-mcp",
+  "install": "npx -y exa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yuanpeng-li-gradescope",
+  "description": "Integrates with Gradescope for course management, grading workflows, regrade review, and AI-assisted grading.",
+  "source_repo": "yuanpeng-li/gradescope-mcp",
+  "source_url": "https://github.com/yuanpeng-li/gradescope-mcp",
+  "install": "npx -y gradescope-mcp"
+}

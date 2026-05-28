@@ -1,0 +1,7 @@
+{
+  "name": "browseai-hq-browserai-dev",
+  "description": "Evidence-backed web research for AI agents. Real-time search with cited claims, confidence scores, and compare mode (raw LLM vs evidence-backed). MCP server, REST API, and Python SDK.",
+  "source_repo": "BrowseAI-HQ/BrowserAI-Dev",
+  "source_url": "https://github.com/BrowseAI-HQ/BrowserAI-Dev",
+  "install": "# git clone --depth 1 https://github.com/BrowseAI-HQ/BrowserAI-Dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zahhar-zefix",
+  "description": "Searches the Swiss Central Business Name Index (Zefix) for company information, legal details, and change history.",
+  "source_repo": "zahhar/zefix-mcp",
+  "source_url": "https://github.com/zahhar/zefix-mcp",
+  "install": "npx -y zefix-mcp"
+}

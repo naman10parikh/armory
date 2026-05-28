@@ -1,0 +1,7 @@
+{
+  "name": "empe-mcp-server",
+  "description": "Empe Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "empe-io/empe-mcp-server",
+  "source_url": "https://mcp.so/server/empe-mcp-server/empe-io",
+  "install": "npx -y empe-mcp-server"
+}

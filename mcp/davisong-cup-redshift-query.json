@@ -1,0 +1,7 @@
+{
+  "name": "davisong-cup-redshift-query",
+  "description": "Enables AI assistants to run read-only SQL queries against Amazon Redshift with tools for table listing, schema inspection, and query execution.",
+  "source_repo": "davisong-cup/query-mcp-poc",
+  "source_url": "https://github.com/davisong-cup/query-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/davisong-cup/query-mcp-poc\n# See source for mcpServers config block"
+}

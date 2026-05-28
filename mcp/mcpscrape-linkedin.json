@@ -1,0 +1,7 @@
+{
+  "name": "mcpscrape-linkedin",
+  "description": "Provides real-time access to LinkedIn business profile data through a pay-per-use credit system that integrates with no-code tools like Airtable, Zapier, and Google Sheets for sales teams, recruiters, and market researchers who need structured business data without manual scraping.",
+  "source_repo": "",
+  "source_url": "https://mcpscrape.com",
+  "install": "# git clone --depth 1 https://mcpscrape.com\n# See source for mcpServers config block"
+}

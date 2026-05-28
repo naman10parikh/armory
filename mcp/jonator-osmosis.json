@@ -1,0 +1,7 @@
+{
+  "name": "jonator-osmosis",
+  "description": "Provides a bridge to the Osmosis blockchain protocol for executing decentralized finance operations like token swaps, balance queries, and account management",
+  "source_repo": "jonator/osmosis-agent-toolkit",
+  "source_url": "https://github.com/jonator/osmosis-agent-toolkit/tree/HEAD/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/jonator/osmosis-agent-toolkit/tree/HEAD/packages/mcp\n# See source for mcpServers config block"
+}

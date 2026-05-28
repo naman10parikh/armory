@@ -1,0 +1,7 @@
+{
+  "name": "jeffaf-kivv",
+  "description": "Automates academic paper discovery from arXiv with daily collection, relevance scoring, and summarization, providing personalized research feeds and reading status management for researchers.",
+  "source_repo": "jeffaf/kivv",
+  "source_url": "https://github.com/jeffaf/kivv",
+  "install": "# git clone --depth 1 https://github.com/jeffaf/kivv\n# See source for mcpServers config block"
+}

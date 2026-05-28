@@ -1,0 +1,7 @@
+{
+  "name": "fernforestgames-black-forest-labs",
+  "description": "Integrates with Black Forest Labs API to generate high-quality images using FLUX models with parameter control, automatic polling until completion, and signed URLs for creative workflows.",
+  "source_repo": "fernforestgames/mcp-server-bfl",
+  "source_url": "https://github.com/fernforestgames/mcp-server-bfl",
+  "install": "# git clone --depth 1 https://github.com/fernforestgames/mcp-server-bfl\n# See source for mcpServers config block"
+}

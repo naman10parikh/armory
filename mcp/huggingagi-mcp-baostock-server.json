@@ -1,0 +1,7 @@
+{
+  "name": "huggingagi-mcp-baostock-server",
+  "description": "MCP server based on baostock, providing access and analysis capabilities for Chinese stock market data.",
+  "source_repo": "HuggingAGI/mcp-baostock-server",
+  "source_url": "https://github.com/HuggingAGI/mcp-baostock-server",
+  "install": "# git clone --depth 1 https://github.com/HuggingAGI/mcp-baostock-server\n# See source for mcpServers config block"
+}

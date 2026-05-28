@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-paypal",
+  "description": "PayPal account data including transactions, orders, invoices, and disputes via read-only API access.",
+  "source_repo": "pipeworx-io/mcp-paypal",
+  "source_url": "https://github.com/pipeworx-io/mcp-paypal",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-paypal\n# See source for mcpServers config block"
+}

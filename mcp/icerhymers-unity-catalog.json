@@ -1,0 +1,7 @@
+{
+  "name": "icerhymers-unity-catalog",
+  "description": "Semantic search over Databricks Unity Catalog metadata using BGE-large embeddings and pgvector.",
+  "source_repo": "icerhymers/uc-catalog-mcp",
+  "source_url": "https://github.com/icerhymers/uc-catalog-mcp",
+  "install": "npx -y uc-catalog-mcp"
+}

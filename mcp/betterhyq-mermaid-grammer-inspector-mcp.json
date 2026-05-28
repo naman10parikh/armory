@@ -1,0 +1,7 @@
+{
+  "name": "betterhyq-mermaid-grammer-inspector-mcp",
+  "description": "A Model Context Protocol (MCP) server for validating Mermaid diagram syntax and providing comprehensive grammar checking capabilities",
+  "source_repo": "betterhyq/mermaid_grammer_inspector_mcp",
+  "source_url": "https://github.com/betterhyq/mermaid_grammer_inspector_mcp",
+  "install": "npx -y mermaid_grammer_inspector_mcp"
+}

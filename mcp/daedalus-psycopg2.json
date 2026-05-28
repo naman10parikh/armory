@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-psycopg2",
+  "description": "Exposes psycopg2 PostgreSQL database adapter functionality as callable tools.",
+  "source_repo": "daedalus/mcp-psycopg2",
+  "source_url": "https://github.com/daedalus/mcp-psycopg2",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-psycopg2\n# See source for mcpServers config block"
+}

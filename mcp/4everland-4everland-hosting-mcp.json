@@ -1,0 +1,7 @@
+{
+  "name": "4everland-4everland-hosting-mcp",
+  "description": "An MCP server implementation for 4EVERLAND Hosting enabling instant deployment of AI-generated code to decentralized storage networks like Greenfield, IPFS, and Arweave.",
+  "source_repo": "4everland/4everland-hosting-mcp",
+  "source_url": "https://github.com/4everland/4everland-hosting-mcp",
+  "install": "npx -y 4everland-hosting-mcp"
+}

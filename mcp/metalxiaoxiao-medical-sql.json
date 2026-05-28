@@ -1,0 +1,7 @@
+{
+  "name": "metalxiaoxiao-medical-sql",
+  "description": "Integrates with MySQL hospital databases to enable natural language querying in Chinese, converting questions into SQL queries through intelligent schema mapping and organizing tables into semantic categories for medical data analysis and healthcare information system integration.",
+  "source_repo": "metalxiaoxiao/medical-sql-mcp",
+  "source_url": "https://github.com/metalxiaoxiao/medical-sql-mcp",
+  "install": "npx -y medical-sql-mcp"
+}

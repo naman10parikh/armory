@@ -1,0 +1,7 @@
+{
+  "name": "supercurses-powerpoint",
+  "description": "Create PowerPoint presentations leveraging TogetherAI image generation",
+  "source_repo": "supercurses/powerpoint",
+  "source_url": "https://github.com/supercurses/powerpoint",
+  "install": "# git clone --depth 1 https://github.com/supercurses/powerpoint\n# See source for mcpServers config block"
+}

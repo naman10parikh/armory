@@ -1,0 +1,7 @@
+{
+  "name": "trustbench",
+  "description": "Rank x402 providers and generate Ed25519-signed payment receipts for AI agent transactions.",
+  "source_repo": "lithvall/trustbench",
+  "source_url": "https://github.com/lithvall/trustbench",
+  "install": "# git clone --depth 1 https://github.com/lithvall/trustbench\n# See source for mcpServers config block"
+}

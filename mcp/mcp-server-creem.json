@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-creem",
+  "description": "Mcp Server Creem MCP server listed on mcp.so.",
+  "source_repo": "ffhr/mcp-server-creem",
+  "source_url": "https://mcp.so/server/mcp-server-creem/ffhr",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-creem/ffhr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scopeblind-verify-mcp",
+  "description": "Offline verification of signed artifacts -- receipts, manifests, audit bundles. Ed25519 + JCS. No accounts, no API calls. Apache-2.0.",
+  "source_repo": "ScopeBlind/verify-mcp",
+  "source_url": "https://github.com/ScopeBlind/verify-mcp",
+  "install": "npx -y verify-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "youfiliate",
+  "description": "Create and manage geo-targeted affiliate smart links and view YouTube analytics via Claude.",
+  "source_repo": "andrewmpierce/youfiliate-mcp",
+  "source_url": "https://github.com/andrewmpierce/youfiliate-mcp",
+  "install": "npx -y youfiliate-mcp"
+}

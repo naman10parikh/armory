@@ -1,0 +1,7 @@
+{
+  "name": "agentpays",
+  "description": "MCP-native payment infrastructure for AI agents providing virtual card management and policy-enforced spending controls.",
+  "source_repo": "",
+  "source_url": "https://agentpays.dev",
+  "install": "# git clone --depth 1 https://agentpays.dev\n# See source for mcpServers config block"
+}

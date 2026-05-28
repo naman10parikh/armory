@@ -1,0 +1,7 @@
+{
+  "name": "jqlts1-omnifocus-enhanced",
+  "description": "Integrates with OmniFocus on macOS using AppleScript to provide complete task and project management capabilities including CRUD operations, perspective views, batch operations, subtask hierarchies, tag management, and custom filtering for productivity workflows.",
+  "source_repo": "jqlts1/omnifocus-mcp-enhanced",
+  "source_url": "https://github.com/jqlts1/omnifocus-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/jqlts1/omnifocus-mcp-enhanced\n# See source for mcpServers config block"
+}

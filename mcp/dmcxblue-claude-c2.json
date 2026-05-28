@@ -1,0 +1,7 @@
+{
+  "name": "dmcxblue-claude-c2",
+  "description": "Command and control framework that enables secure remote system administration through a Python server and PowerShell client, maintaining task tracking in SQLite for efficient execution and reporting.",
+  "source_repo": "dmcxblue/claude-c2",
+  "source_url": "https://github.com/dmcxblue/claude-c2",
+  "install": "# git clone --depth 1 https://github.com/dmcxblue/claude-c2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zaki-goumri-nestjs-docs",
+  "description": "Provides access to NestJS framework documentation through web scraping, enabling search across API references, code examples, best practices, and package information.",
+  "source_repo": "zaki-goumri/nest-docs-mcp-server",
+  "source_url": "https://github.com/zaki-goumri/nest-docs-mcp-server",
+  "install": "npx -y nest-docs-mcp-server"
+}

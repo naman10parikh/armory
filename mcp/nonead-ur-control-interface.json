@@ -1,0 +1,7 @@
+{
+  "name": "nonead-ur-control-interface",
+  "description": "Provides a bridge to Universal Robots industrial robots through TCP/IP interfaces, enabling control and monitoring of robot operations including force mode, remote servoj, and kinematic transformations for automation and research applications.",
+  "source_repo": "nonead/nonead-universal-robots-mcp",
+  "source_url": "https://github.com/nonead/nonead-universal-robots-mcp",
+  "install": "npx -y nonead-universal-robots-mcp"
+}

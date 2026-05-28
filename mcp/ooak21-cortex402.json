@@ -1,0 +1,7 @@
+{
+  "name": "ooak21-cortex402",
+  "description": "Pay-per-call x402 data products on Base mainnet: sanctions, aviation weather, and US property records.",
+  "source_repo": "ooak21/cortex402",
+  "source_url": "https://github.com/ooak21/cortex402",
+  "install": "# git clone --depth 1 https://github.com/ooak21/cortex402\n# See source for mcpServers config block"
+}

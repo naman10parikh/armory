@@ -1,0 +1,7 @@
+{
+  "name": "jamesanz-cross-llm-mcp",
+  "description": "An MCP server that enables cross-LLM communication and memory sharing, allowing different AI models to collaborate and share context across conversations.",
+  "source_repo": "JamesANZ/cross-llm-mcp",
+  "source_url": "https://github.com/JamesANZ/cross-llm-mcp",
+  "install": "npx -y cross-llm-mcp"
+}

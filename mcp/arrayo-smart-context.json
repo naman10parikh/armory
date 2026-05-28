@@ -1,0 +1,7 @@
+{
+  "name": "arrayo-smart-context",
+  "description": "Intelligent context compression reducing AI agent token usage by ~89% through smart file reading and search.",
+  "source_repo": "arrayo/smart-context-mcp",
+  "source_url": "https://github.com/arrayo/smart-context-mcp",
+  "install": "npx -y smart-context-mcp"
+}

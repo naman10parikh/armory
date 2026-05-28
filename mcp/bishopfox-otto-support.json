@@ -1,0 +1,7 @@
+{
+  "name": "bishopfox-otto-support",
+  "description": "Deliberately vulnerable customer support MCP server for security research and MCP penetration testing practice.",
+  "source_repo": "bishopfox/otto-support",
+  "source_url": "https://github.com/bishopfox/otto-support",
+  "install": "# git clone --depth 1 https://github.com/bishopfox/otto-support\n# See source for mcpServers config block"
+}

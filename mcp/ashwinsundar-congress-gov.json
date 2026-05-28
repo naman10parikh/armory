@@ -1,0 +1,7 @@
+{
+  "name": "ashwinsundar-congress-gov",
+  "description": "Integrates with the Congress.gov API to retrieve US legislative data including bills, amendments, voting records, committee information, member details, and congressional communications for political research and policy analysis workflows.",
+  "source_repo": "ashwinsundar/congress_gov_mcp",
+  "source_url": "https://github.com/ashwinsundar/congress_gov_mcp",
+  "install": "npx -y congress_gov_mcp"
+}

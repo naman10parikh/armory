@@ -1,0 +1,7 @@
+{
+  "name": "dialogbrain",
+  "description": "Unified inbox for AI agents covering WhatsApp, Telegram, email, and voice with read, send, and search.",
+  "source_repo": "saloprj/dialogbrain-mcp",
+  "source_url": "https://github.com/saloprj/dialogbrain-mcp",
+  "install": "npx -y dialogbrain-mcp"
+}

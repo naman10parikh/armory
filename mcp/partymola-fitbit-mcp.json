@@ -1,0 +1,7 @@
+{
+  "name": "partymola-fitbit-mcp",
+  "description": "MCP server for the Fitbit Web API. OAuth 2.0 PKCE, local SQLite cache with auto-sync, and trend analysis. Tools for heart rate, activity, exercises, sleep, weight, SpO2, and HRV.",
+  "source_repo": "partymola/fitbit-mcp",
+  "source_url": "https://github.com/partymola/fitbit-mcp",
+  "install": "npx -y fitbit-mcp"
+}

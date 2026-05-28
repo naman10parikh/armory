@@ -1,0 +1,7 @@
+{
+  "name": "woojinlsh-verkada-camera-alerts",
+  "description": "MCP server for querying Verkada camera security alerts with support for filtering by notification type and time range.",
+  "source_repo": "woojinlsh/vkd-mcp",
+  "source_url": "https://github.com/woojinlsh/vkd-mcp",
+  "install": "npx -y vkd-mcp"
+}

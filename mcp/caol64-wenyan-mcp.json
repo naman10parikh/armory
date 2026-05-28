@@ -1,0 +1,7 @@
+{
+  "name": "caol64-wenyan-mcp",
+  "description": "Wenyan MCP Server, which lets AI automatically format Markdown articles and publish them to WeChat GZH.",
+  "source_repo": "caol64/wenyan-mcp",
+  "source_url": "https://github.com/caol64/wenyan-mcp",
+  "install": "npx -y wenyan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "courtlistener-mcp",
+  "description": "An MCP server providing AI agents access to CourtListener's comprehensive legal database, featuring semantic search, hybrid search, citation verification, and research tools.",
+  "source_repo": "DefendTheDisabled/courtlistener-mcp",
+  "source_url": "https://github.com/DefendTheDisabled/courtlistener-mcp",
+  "install": "npx -y courtlistener-mcp"
+}

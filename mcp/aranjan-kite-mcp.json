@@ -1,0 +1,7 @@
+{
+  "name": "aranjan-kite-mcp",
+  "description": "Trade Indian stocks on Zerodha Kite via natural conversation. 14 tools for holdings, orders, quotes, GTT triggers, and more with automated TOTP login.",
+  "source_repo": "aranjan/kite-mcp",
+  "source_url": "https://github.com/aranjan/kite-mcp",
+  "install": "npx -y kite-mcp"
+}

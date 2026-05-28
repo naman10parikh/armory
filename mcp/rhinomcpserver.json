@@ -1,0 +1,7 @@
+{
+  "name": "rhinomcpserver",
+  "description": "RhinoMcpServer MCP server listed on mcp.so.",
+  "source_repo": "always-tinkering/rhinoMcpServer",
+  "source_url": "https://mcp.so/server/rhinoMcpServer/always-tinkering",
+  "install": "# git clone --depth 1 https://mcp.so/server/rhinoMcpServer/always-tinkering\n# See source for mcpServers config block"
+}

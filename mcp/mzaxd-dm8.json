@@ -1,0 +1,7 @@
+{
+  "name": "mzaxd-dm8",
+  "description": "Secure read-only access to DM8 (Dameng) Chinese database systems with SQL injection prevention and query validation",
+  "source_repo": "mzaxd/dm8-mcp",
+  "source_url": "https://github.com/mzaxd/dm8-mcp",
+  "install": "npx -y dm8-mcp"
+}

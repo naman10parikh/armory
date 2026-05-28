@@ -1,0 +1,7 @@
+{
+  "name": "linera-counter-mcp-server",
+  "description": "Enables Claude to increment and query a counter deployed on the Linera blockchain via natural language, using an Apollo MCP server bridge.",
+  "source_repo": "linera-io/mcp-demo",
+  "source_url": "https://github.com/linera-io/mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/linera-io/mcp-demo\n# See source for mcpServers config block"
+}

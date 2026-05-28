@@ -1,0 +1,7 @@
+{
+  "name": "law-assistant-bonsai",
+  "description": "Monitors Japanese law amendments and provides industry-specific legal Q&amp;A for VoiceOS and Claude Desktop.",
+  "source_repo": "bonsai/law-assistant-mcp",
+  "source_url": "https://github.com/bonsai/law-assistant-mcp",
+  "install": "npx -y law-assistant-mcp"
+}

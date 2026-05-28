@@ -1,0 +1,7 @@
+{
+  "name": "omophub",
+  "description": "Search, map, and navigate 5M+ OMOP medical vocabulary concepts including SNOMED CT, ICD-10, RxNorm, and LOINC.",
+  "source_repo": "omophub/omophub-mcp",
+  "source_url": "https://github.com/omophub/omophub-mcp",
+  "install": "npx -y omophub-mcp"
+}

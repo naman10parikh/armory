@@ -1,0 +1,7 @@
+{
+  "name": "barrhawk-premium-e2e",
+  "description": "Self-healing E2E testing framework with tripartite architecture that automatically recovers from application changes and failures using browser automation, database validation, performance regression detection, and flaky test analysis.",
+  "source_repo": "barrhawk/barrhawk_premium_e2e_mcp",
+  "source_url": "https://github.com/barrhawk/barrhawk_premium_e2e_mcp",
+  "install": "npx -y barrhawk_premium_e2e_mcp"
+}

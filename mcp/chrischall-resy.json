@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-resy",
+  "description": "Browse and book restaurant reservations via the Resy platform.",
+  "source_repo": "chrischall/resy-mcp",
+  "source_url": "https://github.com/chrischall/resy-mcp",
+  "install": "npx -y resy-mcp"
+}

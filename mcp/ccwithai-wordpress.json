@@ -1,0 +1,7 @@
+{
+  "name": "ccwithai-wordpress",
+  "description": "Manages WordPress sites via AI agents, supporting post and page creation, media uploads, and SEO plugin integration.",
+  "source_repo": "ccwithai/mcp-wordpress",
+  "source_url": "https://github.com/ccwithai/mcp-wordpress",
+  "install": "# git clone --depth 1 https://github.com/ccwithai/mcp-wordpress\n# See source for mcpServers config block"
+}

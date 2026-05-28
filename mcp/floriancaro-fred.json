@@ -1,0 +1,7 @@
+{
+  "name": "floriancaro-fred",
+  "description": "Provides comprehensive access to Federal Reserve Economic Data (FRED) API endpoints for searching, retrieving, and analyzing economic indicators including series, categories, releases, sources, tags, and geographic data.",
+  "source_repo": "floriancaro/fred-mcp-server",
+  "source_url": "https://github.com/floriancaro/fred-mcp-server",
+  "install": "npx -y fred-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anatolykoptev-n8n-workflow-automation",
+  "description": "Autonomous agent for n8n workflow automation providing comprehensive access to n8n instances through specialized tools for workflow management, credential handling, execution monitoring, and diagnostics.",
+  "source_repo": "anatolykoptev/n8n-mcp-agent",
+  "source_url": "https://github.com/anatolykoptev/n8n-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/anatolykoptev/n8n-mcp-agent\n# See source for mcpServers config block"
+}

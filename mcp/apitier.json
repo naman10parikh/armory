@@ -1,0 +1,7 @@
+{
+  "name": "apitier",
+  "description": "APITier utility APIs as tools for validation, address lookup, barcode/QR generation, and data conversion.",
+  "source_repo": "apitier/apitier-mcp-server",
+  "source_url": "https://github.com/apitier/apitier-mcp-server",
+  "install": "npx -y apitier-mcp-server"
+}

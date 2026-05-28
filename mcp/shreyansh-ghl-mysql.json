@@ -1,0 +1,7 @@
+{
+  "name": "shreyansh-ghl-mysql",
+  "description": "Provides a lightweight bridge to MySQL databases, enabling read-only database resource introspection and query execution with controlled access and dynamic schema discovery.",
+  "source_repo": "shreyansh-ghl/mysql-mcp-server",
+  "source_url": "https://github.com/shreyansh-ghl/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

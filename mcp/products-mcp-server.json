@@ -1,0 +1,7 @@
+{
+  "name": "products-mcp-server",
+  "description": "Products Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "fwilliams96/products-mcp-server",
+  "source_url": "https://mcp.so/server/products-mcp-server/fwilliams96",
+  "install": "npx -y products-mcp-server"
+}

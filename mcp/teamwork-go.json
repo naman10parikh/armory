@@ -1,0 +1,7 @@
+{
+  "name": "teamwork-go",
+  "description": "Official server for Teamwork.com project management platform",
+  "source_repo": "teamwork/mcp",
+  "source_url": "https://github.com/teamwork/mcp",
+  "install": "# git clone --depth 1 https://github.com/teamwork/mcp\n# See source for mcpServers config block"
+}

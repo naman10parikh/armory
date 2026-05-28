@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-hyperliquid-data",
+  "description": "Real-time Hyperliquid perpetual market data including order books, prices, funding rates, open interest, and candlestick charts.",
+  "source_repo": "br0ski777/hyperliquid-data-x402",
+  "source_url": "https://github.com/br0ski777/hyperliquid-data-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/hyperliquid-data-x402\n# See source for mcpServers config block"
+}

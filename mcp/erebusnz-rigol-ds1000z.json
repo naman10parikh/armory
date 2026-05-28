@@ -1,0 +1,7 @@
+{
+  "name": "erebusnz-rigol-ds1000z",
+  "description": "Controls Rigol DS1000Z series oscilloscopes over LAN for measurements, waveform capture, and instrument configuration.",
+  "source_repo": "erebusnz/rigol-mcp",
+  "source_url": "https://github.com/erebusnz/rigol-mcp",
+  "install": "npx -y rigol-mcp"
+}

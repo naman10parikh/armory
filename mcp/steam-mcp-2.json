@@ -1,0 +1,7 @@
+{
+  "name": "steam-mcp-2",
+  "description": "MCP server for Valve's Steam that enables querying game libraries, player profiles, achievements, friends, store listings, Workshop items, and current player counts. Provides 14 tools across 5 categories with a React dashboard and REST bridge.",
+  "source_repo": "sandraschi/steam-mcp",
+  "source_url": "https://github.com/sandraschi/steam-mcp",
+  "install": "npx -y steam-mcp"
+}

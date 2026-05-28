@@ -1,0 +1,7 @@
+{
+  "name": "alc6-mig2schema",
+  "description": "Extracts database schema from PostgreSQL migration files by running them in temporary containers and outputting human-readable schema information or SQL DDL, enabling developers to understand final database structure without manually tracking changes across multiple migration files.",
+  "source_repo": "alc6/mig2schema",
+  "source_url": "https://github.com/alc6/mig2schema",
+  "install": "# git clone --depth 1 https://github.com/alc6/mig2schema\n# See source for mcpServers config block"
+}

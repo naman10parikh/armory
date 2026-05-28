@@ -1,0 +1,7 @@
+{
+  "name": "padev1-nina-advanced-api",
+  "description": "Provides a bridge between natural language commands and N.I.N.A. astronomical software, enabling control of cameras, mounts, focusers, filter wheels, and domes for automated imaging sessions.",
+  "source_repo": "padev1/nina_advanced_api_mcp",
+  "source_url": "https://github.com/padev1/nina_advanced_api_mcp",
+  "install": "npx -y nina_advanced_api_mcp"
+}

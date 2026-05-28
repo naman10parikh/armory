@@ -1,0 +1,7 @@
+{
+  "name": "nodespace-mcp",
+  "description": "Enables AI coding assistants to query a local knowledge base for persistent, searchable project context, reducing re-explanation and token usage.",
+  "source_repo": "NodeSpaceAI/nodespace-core",
+  "source_url": "https://github.com/NodeSpaceAI/nodespace-core",
+  "install": "# git clone --depth 1 https://github.com/NodeSpaceAI/nodespace-core\n# See source for mcpServers config block"
+}

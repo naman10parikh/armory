@@ -1,0 +1,7 @@
+{
+  "name": "yutori-mcp",
+  "description": "MCP server enabling web monitoring, deep research, and browser automation through Yutori's web agentic technology.",
+  "source_repo": "yutori-ai/yutori-mcp",
+  "source_url": "https://github.com/yutori-ai/yutori-mcp",
+  "install": "npx -y yutori-mcp"
+}

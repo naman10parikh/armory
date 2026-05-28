@@ -1,0 +1,7 @@
+{
+  "name": "react-native-development-guide",
+  "description": "Provides React Native development guidance and codebase analysis tools including component analysis, performance optimization suggestions, architecture advice, debugging guidance, automated package management with security audits, test generation, and migration assistance between React Native versions.",
+  "source_repo": "mrnitro360/react-native-mcp",
+  "source_url": "https://github.com/mrnitro360/react-native-mcp",
+  "install": "npx -y react-native-mcp"
+}

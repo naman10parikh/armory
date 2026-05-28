@@ -1,0 +1,7 @@
+{
+  "name": "future-video-studio",
+  "description": "AI video production platform that creates cinematic sequences with consistent characters and style across entire productions.",
+  "source_repo": "ariadne-coil/fvs-mcp",
+  "source_url": "https://github.com/ariadne-coil/fvs-mcp",
+  "install": "npx -y fvs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arikusi-nakkas",
+  "description": "Renders SVG graphics from declarative JSON configurations with CSS and SMIL animation support.",
+  "source_repo": "arikusi/nakkas",
+  "source_url": "https://github.com/arikusi/nakkas",
+  "install": "# git clone --depth 1 https://github.com/arikusi/nakkas\n# See source for mcpServers config block"
+}

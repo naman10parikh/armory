@@ -1,0 +1,7 @@
+{
+  "name": "jsell-rh-cluster-api",
+  "description": "Provides secure bridge to Kubernetes Cluster API management clusters, enabling creation, scaling, and lifecycle management of Kubernetes clusters across cloud providers with AWS support, node management, kubeconfig retrieval, and comprehensive monitoring capabilities.",
+  "source_repo": "jsell-rh/capi-mcp",
+  "source_url": "https://github.com/jsell-rh/capi-mcp",
+  "install": "npx -y capi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uburuntu-vas3k-club",
+  "description": "Exposes the vas3k.club community platform API as MCP tools for searching members, citing posts, and retrieving links.",
+  "source_repo": "uburuntu/vas3k-mcp",
+  "source_url": "https://github.com/uburuntu/vas3k-mcp",
+  "install": "npx -y vas3k-mcp"
+}

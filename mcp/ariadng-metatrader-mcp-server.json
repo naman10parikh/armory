@@ -1,0 +1,7 @@
+{
+  "name": "ariadng-metatrader-mcp-server",
+  "description": "Enable AI LLMs to execute trades using MetaTrader 5 platform",
+  "source_repo": "ariadng/metatrader-mcp-server",
+  "source_url": "https://github.com/ariadng/metatrader-mcp-server",
+  "install": "npx -y metatrader-mcp-server"
+}

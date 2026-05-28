@@ -1,0 +1,7 @@
+{
+  "name": "google-drive",
+  "description": "Integrates with Google Drive API to enable file listing, searching, and reading for document retrieval and content analysis tasks.",
+  "source_repo": "felores/gdrive-mcp-server",
+  "source_url": "https://github.com/felores/gdrive-mcp-server",
+  "install": "npx -y gdrive-mcp-server"
+}

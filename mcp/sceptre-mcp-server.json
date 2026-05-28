@@ -1,0 +1,7 @@
+{
+  "name": "sceptre-mcp-server",
+  "description": "MCP server that exposes Sceptre CloudFormation management operations as tools for AI agents.",
+  "source_repo": "Sceptre/sceptre-mcp-server",
+  "source_url": "https://github.com/Sceptre/sceptre-mcp-server",
+  "install": "npx -y sceptre-mcp-server"
+}

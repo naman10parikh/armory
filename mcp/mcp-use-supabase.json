@@ -1,0 +1,7 @@
+{
+  "name": "mcp-use-supabase",
+  "description": "Bridges Supabase databases with interactive React widgets for data visualization, providing sortable tables, SQL query editors with syntax highlighting, and schema explorers for read-only database exploration.",
+  "source_repo": "mcp-use/supabase-mcp-server",
+  "source_url": "https://github.com/mcp-use/supabase-mcp-server",
+  "install": "npx -y supabase-mcp-server"
+}

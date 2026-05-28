@@ -1,0 +1,7 @@
+{
+  "name": "datawiz168-snowflake",
+  "description": "Integration with Snowflake databases, enabling execution of SQL queries and analysis of enterprise data.",
+  "source_repo": "datawiz168/mcp-snowflake-service",
+  "source_url": "https://github.com/datawiz168/mcp-snowflake-service",
+  "install": "# git clone --depth 1 https://github.com/datawiz168/mcp-snowflake-service\n# See source for mcpServers config block"
+}

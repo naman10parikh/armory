@@ -1,0 +1,7 @@
+{
+  "name": "github-copilot-mcp-server",
+  "description": "Integrates GitHub Copilot CLI with MCP clients to offer various coding assistance tools including asking questions, explaining code, suggesting commands, debugging, refactoring, generating tests, and reviewing code.",
+  "source_repo": "Poorgramer-Zack/copilot-mcp-tool",
+  "source_url": "https://github.com/Poorgramer-Zack/copilot-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/Poorgramer-Zack/copilot-mcp-tool\n# See source for mcpServers config block"
+}

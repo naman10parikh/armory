@@ -1,0 +1,7 @@
+{
+  "name": "catobot-autoexperiment-mcp-server",
+  "description": "A domain-agnostic MCP server for autonomous experimentation, generalizing Karpathy's autoresearch pattern into a reusable server that any AI agent can drive, pointed at any domain defined by a JSON configuration.",
+  "source_repo": "IamCatoBot/catobot-autoexperiment-mcp",
+  "source_url": "https://github.com/IamCatoBot/catobot-autoexperiment-mcp",
+  "install": "npx -y catobot-autoexperiment-mcp"
+}

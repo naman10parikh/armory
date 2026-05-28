@@ -1,0 +1,7 @@
+{
+  "name": "coresignal",
+  "description": "Access comprehensive B2B data on companies, employees, and job postings for your LLMs and AI workflows.",
+  "source_repo": "coresignal-com/coresignal-mcp",
+  "source_url": "https://github.com/coresignal-com/coresignal-mcp",
+  "install": "npx -y coresignal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chain-of-draft-server",
+  "description": "Mcp Chain Of Draft Server MCP server listed on mcp.so.",
+  "source_repo": "bsmi021/mcp-chain-of-draft-server",
+  "source_url": "https://mcp.so/server/mcp-chain-of-draft-server/bsmi021",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-chain-of-draft-server/bsmi021\n# See source for mcpServers config block"
+}

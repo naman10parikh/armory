@@ -1,0 +1,7 @@
+{
+  "name": "kavi-research-assistant-mcp",
+  "description": "Enables AI to save, organize, search, and synthesize research materials using a local vector database with support for both OpenAI and Ollama backends.",
+  "source_repo": "machhakiran/kavi-research-assistant-mcp",
+  "source_url": "https://github.com/machhakiran/kavi-research-assistant-mcp",
+  "install": "npx -y kavi-research-assistant-mcp"
+}

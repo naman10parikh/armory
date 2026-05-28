@@ -1,0 +1,7 @@
+{
+  "name": "fiji-mcp-server",
+  "description": "Enables AI agents to control Fiji/ImageJ for microscopy image analysis through natural language commands, supporting operations like image opening, filtering, particle analysis, and automated workflows.",
+  "source_repo": "surajinacademia/Fiji_imageJ_mcp",
+  "source_url": "https://github.com/surajinacademia/Fiji_imageJ_mcp",
+  "install": "npx -y Fiji_imageJ_mcp"
+}

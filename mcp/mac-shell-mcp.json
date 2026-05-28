@@ -1,0 +1,7 @@
+{
+  "name": "mac-shell-mcp",
+  "description": "Mac Shell Mcp MCP server listed on mcp.so.",
+  "source_repo": "cfdude/mac-shell-mcp",
+  "source_url": "https://mcp.so/server/mac-shell-mcp/cfdude",
+  "install": "npx -y mac-shell-mcp"
+}

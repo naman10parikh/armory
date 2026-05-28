@@ -1,0 +1,7 @@
+{
+  "name": "ticket-tailor",
+  "description": "Run your events: create events, update tickets, or share sales insights.",
+  "source_repo": "",
+  "source_url": "https://help.tickettailor.com/en/articles/11892797-how-to-connect-ticket-tailor-to-your-favourite-ai-agent",
+  "install": "# git clone --depth 1 https://help.tickettailor.com/en/articles/11892797-how-to-connect-ticket-tailor-to-your-favourite-ai-agent\n# See source for mcpServers config block"
+}

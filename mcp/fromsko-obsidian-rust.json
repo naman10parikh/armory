@@ -1,0 +1,7 @@
+{
+  "name": "fromsko-obsidian-rust",
+  "description": "Rust-based Obsidian vault manager with file tree indexing, smart search by tags and keywords, and automatic frontmatter generation for note organization.",
+  "source_repo": "fromsko/obsidian-rust-mcp",
+  "source_url": "https://github.com/fromsko/obsidian-rust-mcp",
+  "install": "npx -y obsidian-rust-mcp"
+}

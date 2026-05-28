@@ -1,0 +1,7 @@
+{
+  "name": "zalmotek-jetson-remote-monitor",
+  "description": "Enables natural language monitoring and control of NVIDIA Jetson boards over a network, providing remote diagnostics and hardware information without requiring direct terminal access.",
+  "source_repo": "zalmotek/jetson-mcp",
+  "source_url": "https://github.com/zalmotek/jetson-mcp",
+  "install": "npx -y jetson-mcp"
+}

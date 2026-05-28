@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-mitre-cwe",
+  "description": "Queries the MITRE Common Weakness Enumeration database for software vulnerability patterns.",
+  "source_repo": "pipeworx-io/mcp-mitre-cwe",
+  "source_url": "https://github.com/pipeworx-io/mcp-mitre-cwe",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-mitre-cwe\n# See source for mcpServers config block"
+}

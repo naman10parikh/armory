@@ -1,0 +1,7 @@
+{
+  "name": "thunderbit",
+  "description": "Scrapes web pages and extracts structured data via the Thunderbit Open API with seven tools including batch processing of up to 100 URLs.",
+  "source_repo": "thunderbit-com/thunderbit-mcp-server",
+  "source_url": "https://github.com/thunderbit-com/thunderbit-mcp-server",
+  "install": "npx -y thunderbit-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neverinfamous-db",
+  "description": "Provides secure database access across SQLite, PostgreSQL, MySQL, MongoDB, Redis, and SQL Server with OAuth 2.0 authentication and granular scope-based permissions for enterprise environments requiring authenticated multi-database operations.",
+  "source_repo": "neverinfamous/db-mcp",
+  "source_url": "https://github.com/neverinfamous/db-mcp",
+  "install": "npx -y db-mcp"
+}

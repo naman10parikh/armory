@@ -1,0 +1,7 @@
+{
+  "name": "diazoxide-wordpress",
+  "description": "Integrates with WordPress REST API to automatically discover and expose all available endpoints as callable tools with intelligent filtering for managing content, users, media, and site operations across multiple WordPress installations.",
+  "source_repo": "diazoxide/wp-standalone-mcp",
+  "source_url": "https://github.com/diazoxide/wp-standalone-mcp",
+  "install": "npx -y wp-standalone-mcp"
+}

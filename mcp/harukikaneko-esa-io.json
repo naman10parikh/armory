@@ -1,0 +1,7 @@
+{
+  "name": "harukikaneko-esa-io",
+  "description": "Integrates with esa.io knowledge management platform to enable searching, reading, creating, updating, and deleting posts and comments with support for advanced query parameters and content management features.",
+  "source_repo": "harukikaneko/esa-mcp",
+  "source_url": "https://github.com/harukikaneko/esa-mcp",
+  "install": "npx -y esa-mcp"
+}

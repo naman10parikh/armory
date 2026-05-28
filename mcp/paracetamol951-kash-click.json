@@ -1,0 +1,7 @@
+{
+  "name": "paracetamol951-kash-click",
+  "description": "Integrates with the Kash.click French point-of-sale system to create sales transactions, manage product catalogs and customer data, and configure shop settings including departments, payment methods, and delivery options.",
+  "source_repo": "paracetamol951/caisse-enregistreuse-mcp-server",
+  "source_url": "https://github.com/paracetamol951/caisse-enregistreuse-mcp-server",
+  "install": "npx -y caisse-enregistreuse-mcp-server"
+}

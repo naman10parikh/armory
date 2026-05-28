@@ -1,0 +1,7 @@
+{
+  "name": "tensorfeed-x402",
+  "description": "Read-only Base mainnet reader for verifying x402 payment settlements and AFTA federation status.",
+  "source_repo": "rippermercs/tensorfeed-x402-base-mcp",
+  "source_url": "https://github.com/rippermercs/tensorfeed-x402-base-mcp",
+  "install": "npx -y tensorfeed-x402-base-mcp"
+}

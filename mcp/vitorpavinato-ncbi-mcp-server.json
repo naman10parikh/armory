@@ -1,0 +1,7 @@
+{
+  "name": "vitorpavinato-ncbi-mcp-server",
+  "description": "Comprehensive NCBI/PubMed literature search server with advanced analytics, caching, MeSH integration, related articles discovery, and batch processing for all life sciences and biomedical research.",
+  "source_repo": "vitorpavinato/ncbi-mcp-server",
+  "source_url": "https://github.com/vitorpavinato/ncbi-mcp-server",
+  "install": "npx -y ncbi-mcp-server"
+}

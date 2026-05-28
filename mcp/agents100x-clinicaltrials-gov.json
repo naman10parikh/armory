@@ -1,0 +1,7 @@
+{
+  "name": "agents100x-clinicaltrials-gov",
+  "description": "Conversational access to ClinicalTrials.gov with 5 tools for searching, comparing, and retrieving clinical trial data.",
+  "source_repo": "agents100x/clinicaltrials-mcp",
+  "source_url": "https://github.com/agents100x/clinicaltrials-mcp",
+  "install": "npx -y clinicaltrials-mcp"
+}

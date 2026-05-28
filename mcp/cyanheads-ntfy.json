@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-ntfy",
+  "description": "Bridges Claude with ntfy.sh notification service, enabling direct push notifications with support for priorities, tags, attachments, and action buttons without leaving the conversation interface.",
+  "source_repo": "cyanheads/ntfy-mcp-server",
+  "source_url": "https://github.com/cyanheads/ntfy-mcp-server",
+  "install": "npx -y ntfy-mcp-server"
+}

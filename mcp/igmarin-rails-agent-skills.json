@@ -1,0 +1,7 @@
+{
+  "name": "igmarin-rails-agent-skills",
+  "description": "Curated library of 42 Rails agent skills and 5 workflows enforcing test-driven development practices for AI coding assistants.",
+  "source_repo": "igmarin/rails-agent-skills",
+  "source_url": "https://github.com/igmarin/rails-agent-skills",
+  "install": "# git clone --depth 1 https://github.com/igmarin/rails-agent-skills\n# See source for mcpServers config block"
+}

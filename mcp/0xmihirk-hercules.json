@@ -1,0 +1,7 @@
+{
+  "name": "0xmihirk-hercules",
+  "description": "Penetration testing tools via containerized Kali Linux for Claude.",
+  "source_repo": "0xmihirk/hercules-mcp",
+  "source_url": "https://github.com/0xmihirk/hercules-mcp",
+  "install": "npx -y hercules-mcp"
+}

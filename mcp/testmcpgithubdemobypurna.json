@@ -1,0 +1,7 @@
+{
+  "name": "testmcpgithubdemobypurna",
+  "description": "Testmcpgithubdemobypurna MCP server listed on mcp.so.",
+  "source_repo": "biswapm/testmcpgithubdemobypurna",
+  "source_url": "https://mcp.so/server/testmcpgithubdemobypurna/biswapm",
+  "install": "# git clone --depth 1 https://mcp.so/server/testmcpgithubdemobypurna/biswapm\n# See source for mcpServers config block"
+}

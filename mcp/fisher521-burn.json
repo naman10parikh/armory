@@ -1,0 +1,7 @@
+{
+  "name": "fisher521-burn",
+  "description": "AI-powered reading triage with 26 tools and a 24h burn timer to read less and absorb more.",
+  "source_repo": "fisher521/burn-mcp-server",
+  "source_url": "https://github.com/fisher521/burn-mcp-server",
+  "install": "npx -y burn-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lincolnburrows2017-filesystem-mcp",
+  "description": "Model Context Protocol server for file system operations. Supports read, write, search, copy, move with security path restrictions.",
+  "source_repo": "LincolnBurrows2017/filesystem-mcp",
+  "source_url": "https://github.com/LincolnBurrows2017/filesystem-mcp",
+  "install": "npx -y filesystem-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tripuck",
+  "description": "Tripuck — Flight Meta-Search & Meeting Point..",
+  "source_repo": "",
+  "source_url": "https://tripuck.com",
+  "install": "# git clone --depth 1 https://tripuck.com\n# See source for mcpServers config block"
+}

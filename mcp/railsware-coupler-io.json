@@ -1,0 +1,7 @@
+{
+  "name": "railsware-coupler-io",
+  "description": "Integrates with Coupler.io data flows to provide direct access to analytics from hundreds of connected data sources through tools for discovering flows, retrieving metadata, examining schemas, and executing SQL queries.",
+  "source_repo": "railsware/coupler-io-mcp-server",
+  "source_url": "https://github.com/railsware/coupler-io-mcp-server",
+  "install": "npx -y coupler-io-mcp-server"
+}

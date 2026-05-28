@@ -1,0 +1,7 @@
+{
+  "name": "mcp-elevenlab-scribe-asr",
+  "description": "MCP Elevenlab Scribe ASR MCP server listed on mcp.so.",
+  "source_repo": "aromanstatue/MCP-Elevenlab-Scribe-ASR",
+  "source_url": "https://mcp.so/server/MCP-Elevenlab-Scribe-ASR/aromanstatue",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Elevenlab-Scribe-ASR/aromanstatue\n# See source for mcpServers config block"
+}

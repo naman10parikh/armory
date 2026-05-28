@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-yoco",
+  "description": "Integrates with Yoco payment gateway for checkout creation, payment queries, refunds, and balance retrieval.",
+  "source_repo": "theyahia/yoco-mcp",
+  "source_url": "https://github.com/theyahia/yoco-mcp",
+  "install": "npx -y yoco-mcp"
+}

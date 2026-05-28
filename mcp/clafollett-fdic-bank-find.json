@@ -1,0 +1,7 @@
+{
+  "name": "clafollett-fdic-bank-find",
+  "description": "Provides a Rust-based proxy for the FDIC BankFind API, enabling access to detailed financial institution data including institutions, locations, failures, and demographics for financial analysis, banking research, and regulatory compliance workflows.",
+  "source_repo": "clafollett/fdic-bank-find-mcp-server",
+  "source_url": "https://github.com/clafollett/fdic-bank-find-mcp-server",
+  "install": "npx -y fdic-bank-find-mcp-server"
+}

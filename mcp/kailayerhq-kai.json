@@ -1,0 +1,7 @@
+{
+  "name": "kailayerhq-kai",
+  "description": "Semantic code intelligence providing call graphs, dependency maps, impact analysis, and test coverage for AI coding assistants.",
+  "source_repo": "kaicontext/kai",
+  "source_url": "https://github.com/kaicontext/kai/tree/HEAD/packages/kai-mcp",
+  "install": "# git clone --depth 1 https://github.com/kaicontext/kai/tree/HEAD/packages/kai-mcp\n# See source for mcpServers config block"
+}

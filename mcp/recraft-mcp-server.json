@@ -1,0 +1,7 @@
+{
+  "name": "recraft-mcp-server",
+  "description": "MCP server for AI image generation, transformation, and style management via the Recraft API. Provides tools for text-to-image, image-to-image, inpainting, background operations, vectorization, upscaling, and custom style creation.",
+  "source_repo": "BartWaardenburg/recraft-mcp-server",
+  "source_url": "https://github.com/BartWaardenburg/recraft-mcp-server",
+  "install": "npx -y recraft-mcp-server"
+}

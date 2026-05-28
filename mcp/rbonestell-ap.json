@@ -1,0 +1,7 @@
+{
+  "name": "rbonestell-ap",
+  "description": "Integrates with the Associated Press Media API for news content access and analysis",
+  "source_repo": "rbonestell/ap-mcp-server",
+  "source_url": "https://github.com/rbonestell/ap-mcp-server",
+  "install": "npx -y ap-mcp-server"
+}

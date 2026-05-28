@@ -1,0 +1,7 @@
+{
+  "name": "podaac-cmr",
+  "description": "Bridges to NASA's Common Metadata Repository for searching and retrieving Earth science datasets by date range, provider, and keywords with structured information including concept IDs and descriptions.",
+  "source_repo": "podaac/cmr-mcp",
+  "source_url": "https://github.com/podaac/cmr-mcp",
+  "install": "npx -y cmr-mcp"
+}

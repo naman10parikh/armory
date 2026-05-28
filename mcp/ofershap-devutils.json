@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-devutils",
+  "description": "Developer utilities for encoding, hashing, JWT decoding, cron parsing, and data conversion.",
+  "source_repo": "ofershap/mcp-server-devutils",
+  "source_url": "https://github.com/ofershap/mcp-server-devutils",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-devutils\n# See source for mcpServers config block"
+}

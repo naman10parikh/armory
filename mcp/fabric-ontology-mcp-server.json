@@ -1,0 +1,7 @@
+{
+  "name": "fabric-ontology-mcp-server",
+  "description": "Enables full CRUD control of Ontology items in Microsoft Fabric, including entity types, relationships, data bindings, and workspace discovery through natural language.",
+  "source_repo": "tmdaidevs/ontology-mcp-server",
+  "source_url": "https://github.com/tmdaidevs/ontology-mcp-server",
+  "install": "npx -y ontology-mcp-server"
+}

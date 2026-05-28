@@ -1,0 +1,7 @@
+{
+  "name": "codyde-file-tool",
+  "description": "Provides file system operations for reading, creating, and listing files on the local file system, with performance monitoring through Sentry integration.",
+  "source_repo": "codyde/mcp-file-tool",
+  "source_url": "https://github.com/codyde/mcp-file-tool",
+  "install": "# git clone --depth 1 https://github.com/codyde/mcp-file-tool\n# See source for mcpServers config block"
+}

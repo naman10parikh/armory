@@ -1,0 +1,7 @@
+{
+  "name": "carlos-dominguez-n8n",
+  "description": "Connect Claude Code to n8n workflows and Coolify deployments via MCP.",
+  "source_repo": "carlos-dominguez-faber/n8n-automation-kit",
+  "source_url": "https://github.com/carlos-dominguez-faber/n8n-automation-kit",
+  "install": "# git clone --depth 1 https://github.com/carlos-dominguez-faber/n8n-automation-kit\n# See source for mcpServers config block"
+}

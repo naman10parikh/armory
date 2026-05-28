@@ -1,0 +1,7 @@
+{
+  "name": "qso-graph-eqsl",
+  "description": "Download incoming eQSLs, verify QSOs, check AG status, and query upload history.",
+  "source_repo": "qso-graph/eqsl-mcp",
+  "source_url": "https://github.com/qso-graph/eqsl-mcp",
+  "install": "npx -y eqsl-mcp"
+}

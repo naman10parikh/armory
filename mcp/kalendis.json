@@ -1,0 +1,7 @@
+{
+  "name": "kalendis",
+  "description": "Kalendis is a scheduling backend API that provides an MCP server for generating TypeScript clients and framework-specific API route handlers (Next.js, Express, Fastify, NestJS).",
+  "source_repo": "kalendis-dev/kalendis-mcp",
+  "source_url": "https://github.com/kalendis-dev/kalendis-mcp",
+  "install": "npx -y kalendis-mcp"
+}

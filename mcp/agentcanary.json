@@ -1,0 +1,7 @@
+{
+  "name": "agentcanary",
+  "description": "Access cross-asset market intelligence including macro regimes, signals, whale alerts, and trading briefs.",
+  "source_repo": "mrcerq/agentcanary-mcp",
+  "source_url": "https://github.com/mrcerq/agentcanary-mcp",
+  "install": "npx -y agentcanary-mcp"
+}

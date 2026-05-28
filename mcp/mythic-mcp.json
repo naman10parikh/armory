@@ -1,0 +1,7 @@
+{
+  "name": "mythic-mcp",
+  "description": "Mythic_mcp MCP server listed on mcp.so.",
+  "source_repo": "xpn/mythic_mcp",
+  "source_url": "https://mcp.so/server/mythic_mcp/xpn",
+  "install": "npx -y mythic_mcp"
+}

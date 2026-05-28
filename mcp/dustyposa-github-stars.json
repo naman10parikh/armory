@@ -1,0 +1,7 @@
+{
+  "name": "dustyposa-github-stars",
+  "description": "Integrates with GitHub's GraphQL API to analyze user starred repositories, track starring patterns over time, and extract technology adoption insights with timeline analysis and language distribution breakdowns.",
+  "source_repo": "dustyposa/github-stars-mcp-server",
+  "source_url": "https://github.com/dustyposa/github-stars-mcp-server",
+  "install": "npx -y github-stars-mcp-server"
+}

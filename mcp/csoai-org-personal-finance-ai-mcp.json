@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-personal-finance-ai-mcp",
+  "description": "Python MCP server for personal finance management and analysis tools.",
+  "source_repo": "csoai-org/personal-finance-ai-mcp",
+  "source_url": "https://github.com/csoai-org/personal-finance-ai-mcp",
+  "install": "npx -y personal-finance-ai-mcp"
+}

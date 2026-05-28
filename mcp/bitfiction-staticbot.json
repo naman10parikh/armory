@@ -1,0 +1,7 @@
+{
+  "name": "bitfiction-staticbot",
+  "description": "Orchestrates AWS deployment workflows via the Staticbot API for static site hosting, Supabase migrations, and multi-stage infrastructure management.",
+  "source_repo": "bitfiction/staticbot-mcp",
+  "source_url": "https://github.com/bitfiction/staticbot-mcp",
+  "install": "npx -y staticbot-mcp"
+}

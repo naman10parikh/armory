@@ -1,0 +1,7 @@
+{
+  "name": "guilhermelirio-brazilian-cep",
+  "description": "Integrates with Brazilian postal code (CEP) APIs to retrieve address details for location validation and geolocation services in Node.js applications.",
+  "source_repo": "guilhermelirio/brazilian-cep-mcp",
+  "source_url": "https://github.com/guilhermelirio/brazilian-cep-mcp",
+  "install": "npx -y brazilian-cep-mcp"
+}

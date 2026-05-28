@@ -1,0 +1,7 @@
+{
+  "name": "sigil",
+  "description": "Programmatic advertising supply verification via ads.txt, schain, ATAP receipts, and cross-lens analysis.",
+  "source_repo": "tunnelmind/sigil-mcp",
+  "source_url": "https://github.com/tunnelmind/sigil-mcp",
+  "install": "npx -y sigil-mcp"
+}

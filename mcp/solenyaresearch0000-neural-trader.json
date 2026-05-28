@@ -1,0 +1,7 @@
+{
+  "name": "solenyaresearch0000-neural-trader",
+  "description": "Provides AI-driven trading signal generation and portfolio analysis tools.",
+  "source_repo": "solenyaresearch0000/neural-trader-mcp",
+  "source_url": "https://github.com/solenyaresearch0000/neural-trader-mcp",
+  "install": "npx -y neural-trader-mcp"
+}

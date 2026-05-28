@@ -1,0 +1,7 @@
+{
+  "name": "thenextgennexus-social-content",
+  "description": "Search dev.to articles, Steam games, podcasts, and Eventbrite events via 4 tools hosted on the NexGenData Cloudflare Workers MCP proxy.",
+  "source_repo": "",
+  "source_url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/social-content-mcp-server/mcp",
+  "install": "# git clone --depth 1 https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/social-content-mcp-server/mcp\n# See source for mcpServers config block"
+}

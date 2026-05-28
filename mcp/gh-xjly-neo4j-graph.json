@@ -1,0 +1,7 @@
+{
+  "name": "gh-xjly-neo4j-graph",
+  "description": "Query a Neo4j graph database with read-only access via schema inspection, property search, neighborhood traversal, and custom Cypher queries.",
+  "source_repo": "xjly/mcp",
+  "source_url": "https://github.com/xjly/mcp",
+  "install": "# git clone --depth 1 https://github.com/xjly/mcp\n# See source for mcpServers config block"
+}

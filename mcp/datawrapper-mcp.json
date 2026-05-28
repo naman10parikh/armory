@@ -1,0 +1,7 @@
+{
+  "name": "datawrapper-mcp",
+  "description": "Enables AI assistants to create, update, publish, and manage Datawrapper charts via the Model Context Protocol.",
+  "source_repo": "palewire/datawrapper-mcp",
+  "source_url": "https://github.com/palewire/datawrapper-mcp",
+  "install": "npx -y datawrapper-mcp"
+}

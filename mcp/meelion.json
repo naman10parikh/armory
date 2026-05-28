@@ -1,0 +1,7 @@
+{
+  "name": "meelion",
+  "description": "Brazilian fixed income marketplace providing rates, currency quotes, and investment rankings via JSON-RPC.",
+  "source_repo": "meelion-com/meelion-mcp",
+  "source_url": "https://github.com/meelion-com/meelion-mcp",
+  "install": "npx -y meelion-mcp"
+}

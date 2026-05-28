@@ -1,0 +1,7 @@
+{
+  "name": "thebrierfox-intuitek-ace",
+  "description": "AI-powered APIs for yield intelligence, autonomous commerce, and AI strategy via MCP.",
+  "source_repo": "thebrierfox/intuitek-ace",
+  "source_url": "https://github.com/thebrierfox/intuitek-ace",
+  "install": "# git clone --depth 1 https://github.com/thebrierfox/intuitek-ace\n# See source for mcpServers config block"
+}

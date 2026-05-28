@@ -1,0 +1,7 @@
+{
+  "name": "northbeam-mcp-server",
+  "description": "Provides access to Northbeam marketing analytics data, enabling querying of metrics, dimensions, channel performance, cohort analysis, and attribution data.",
+  "source_repo": "mattcoatsworth/Northbeam-MCP-Server",
+  "source_url": "https://github.com/mattcoatsworth/Northbeam-MCP-Server",
+  "install": "npx -y Northbeam-MCP-Server"
+}

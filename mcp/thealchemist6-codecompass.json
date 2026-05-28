@@ -1,0 +1,7 @@
+{
+  "name": "thealchemist6-codecompass",
+  "description": "Integrates with GitHub repositories and OpenRouter to provide deep codebase analysis, dependency mapping, code refactoring, component extraction, and template generation for modernizing legacy code and architectural analysis.",
+  "source_repo": "thealchemist6/codecompass-mcp",
+  "source_url": "https://github.com/thealchemist6/codecompass-mcp",
+  "install": "npx -y codecompass-mcp"
+}

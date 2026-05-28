@@ -1,0 +1,7 @@
+{
+  "name": "dynamo-mcp",
+  "description": "Exposes cookiecutter templates through MCP, enabling discovery, registration, management, and project generation from templates.",
+  "source_repo": "ruvnet/dynamo-mcp",
+  "source_url": "https://github.com/ruvnet/dynamo-mcp",
+  "install": "npx -y dynamo-mcp"
+}

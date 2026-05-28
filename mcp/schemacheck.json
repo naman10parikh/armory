@@ -1,0 +1,7 @@
+{
+  "name": "schemacheck",
+  "description": "Validate Schema.org JSON-LD structured data against Google's rich result requirements with error detection and fix suggestions.",
+  "source_repo": "nicholsmindset/schemacheck",
+  "source_url": "https://github.com/nicholsmindset/schemacheck/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/nicholsmindset/schemacheck/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

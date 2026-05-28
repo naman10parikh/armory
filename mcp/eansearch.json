@@ -1,0 +1,7 @@
+{
+  "name": "eansearch",
+  "description": "Search products by barcode (EAN, UPC, GTIN) or keyword using the EAN-Search.org database.",
+  "source_repo": "eansearch/eansearch-mcp-server",
+  "source_url": "https://github.com/eansearch/eansearch-mcp-server",
+  "install": "npx -y eansearch-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nexon33-console-terminal",
+  "description": "Provides a bridge between AI assistants and system terminals, enabling command execution and output retrieval through an Electron-based application",
+  "source_repo": "nexon33/console-terminal-mcp-server",
+  "source_url": "https://github.com/nexon33/console-terminal-mcp-server",
+  "install": "npx -y console-terminal-mcp-server"
+}

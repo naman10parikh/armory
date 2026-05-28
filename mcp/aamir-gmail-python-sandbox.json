@@ -1,0 +1,7 @@
+{
+  "name": "aamir-gmail-python-sandbox",
+  "description": "Provides secure Python code execution in containerized sandboxes with automatic matplotlib figure persistence and comprehensive data science libraries for interactive analysis and machine learning experimentation.",
+  "source_repo": "aamir-gmail/lm_studio_mcp",
+  "source_url": "https://github.com/aamir-gmail/lm_studio_mcp",
+  "install": "npx -y lm_studio_mcp"
+}

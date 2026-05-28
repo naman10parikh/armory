@@ -1,0 +1,7 @@
+{
+  "name": "novvoo-gurddy",
+  "description": "Solve Constraint Satisfaction Problems (CSP), Linear Programming (LP), Minimax optimization, and SciPy-powered advanced optimization problems.",
+  "source_repo": "novvoo/gurddy-mcp",
+  "source_url": "https://github.com/novvoo/gurddy-mcp",
+  "install": "npx -y gurddy-mcp"
+}

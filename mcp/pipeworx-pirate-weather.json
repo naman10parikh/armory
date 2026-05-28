@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-pirate-weather",
+  "description": "Pirate Weather Dark Sky-compatible forecast API for weather data via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-pirate-weather",
+  "source_url": "https://github.com/pipeworx-io/mcp-pirate-weather",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-pirate-weather\n# See source for mcpServers config block"
+}

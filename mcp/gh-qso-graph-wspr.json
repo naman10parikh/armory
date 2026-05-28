@@ -1,0 +1,7 @@
+{
+  "name": "gh-qso-graph-wspr",
+  "description": "Analyze WSPR beacon data for HF band openings, propagation paths, SNR trends, and solar correlation using wspr.live's public database.",
+  "source_repo": "qso-graph/wspr-mcp",
+  "source_url": "https://github.com/qso-graph/wspr-mcp",
+  "install": "npx -y wspr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scorzeth-anki",
+  "description": "Integrates with Anki to enable AI-driven flashcard creation, retrieval, and review processes for enhanced spaced repetition learning.",
+  "source_repo": "scorzeth/anki-mcp-server",
+  "source_url": "https://github.com/scorzeth/anki-mcp-server",
+  "install": "npx -y anki-mcp-server"
+}

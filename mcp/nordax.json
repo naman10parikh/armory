@@ -1,0 +1,7 @@
+{
+  "name": "nordax",
+  "description": "Search and verify 360,000+ business entities with AI trust scores and W3C verifiable credentials via Nordax's entity network.",
+  "source_repo": "",
+  "source_url": "https://nordax.ai",
+  "install": "# git clone --depth 1 https://nordax.ai\n# See source for mcpServers config block"
+}

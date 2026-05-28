@@ -1,0 +1,7 @@
+{
+  "name": "wot-mcp",
+  "description": "Bridges Web of Things (WoT) devices to AI assistants via MCP, enabling discovery, monitoring, and control of IoT devices through natural language.",
+  "source_repo": "macc-n/wot-mcp",
+  "source_url": "https://github.com/macc-n/wot-mcp",
+  "install": "npx -y wot-mcp"
+}

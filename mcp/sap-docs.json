@@ -1,0 +1,7 @@
+{
+  "name": "sap-docs",
+  "description": "Provides offline access to SAP documentation and community content with searchable indexes across SAPUI5, CAP, OpenUI5 API documentation, and real-time SAP Community integration for fast technical reference without web-based searches.",
+  "source_repo": "marianfoo/mcp-sap-docs",
+  "source_url": "https://github.com/marianfoo/mcp-sap-docs",
+  "install": "# git clone --depth 1 https://github.com/marianfoo/mcp-sap-docs\n# See source for mcpServers config block"
+}

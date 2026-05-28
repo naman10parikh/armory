@@ -1,0 +1,7 @@
+{
+  "name": "twn39-xiaohongshu-rednote",
+  "description": "Automates Xiaohongshu (RedNote) interactions through browser automation for searching posts, extracting content, and analyzing trends.",
+  "source_repo": "twn39/xhs-mcp",
+  "source_url": "https://github.com/twn39/xhs-mcp",
+  "install": "npx -y xhs-mcp"
+}

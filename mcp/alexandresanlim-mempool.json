@@ -1,0 +1,7 @@
+{
+  "name": "alexandresanlim-mempool",
+  "description": "Integrates with mempool.space APIs to provide real-time Bitcoin network data including transaction details, block information, address balances, mining statistics, and fee recommendations for developers and traders.",
+  "source_repo": "alexandresanlim/mempool-mcp-server",
+  "source_url": "https://github.com/alexandresanlim/mempool-mcp-server",
+  "install": "npx -y mempool-mcp-server"
+}

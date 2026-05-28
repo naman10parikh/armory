@@ -1,0 +1,7 @@
+{
+  "name": "michaelcecil-kimi-code-review",
+  "description": "Consults Kimi AI as an adversarial code reviewer within Claude Code sessions.",
+  "source_repo": "michaelcecil/kimi-mcp-server",
+  "source_url": "https://github.com/michaelcecil/kimi-mcp-server",
+  "install": "npx -y kimi-mcp-server"
+}

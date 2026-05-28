@@ -1,0 +1,7 @@
+{
+  "name": "shift-mcp-server",
+  "description": "A lightweight coordination layer for multiple AI agents working on the same codebase, providing check-in and check-out tools via STDIO or Streamable HTTP.",
+  "source_repo": "cyanheads/shift-mcp-server",
+  "source_url": "https://github.com/cyanheads/shift-mcp-server",
+  "install": "npx -y shift-mcp-server"
+}

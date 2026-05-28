@@ -1,0 +1,7 @@
+{
+  "name": "imprvhub-spotify",
+  "description": "Provides a bridge to the Spotify API for controlling music playback, managing playlists, and getting personalized recommendations without leaving your conversation interface.",
+  "source_repo": "imprvhub/mcp-claude-spotify",
+  "source_url": "https://github.com/imprvhub/mcp-claude-spotify",
+  "install": "# git clone --depth 1 https://github.com/imprvhub/mcp-claude-spotify\n# See source for mcpServers config block"
+}

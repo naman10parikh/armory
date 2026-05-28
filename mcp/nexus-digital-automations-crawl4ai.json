@@ -1,0 +1,7 @@
+{
+  "name": "nexus-digital-automations-crawl4ai",
+  "description": "Integrates Crawl4AI's async web crawler to extract webpage content in HTML or markdown formats, capture screenshots, and perform schema-based data extraction using CSS selectors for content research and automated web monitoring.",
+  "source_repo": "nexus-digital-automations/crawl4ai-mcp",
+  "source_url": "https://github.com/nexus-digital-automations/crawl4ai-mcp",
+  "install": "npx -y crawl4ai-mcp"
+}

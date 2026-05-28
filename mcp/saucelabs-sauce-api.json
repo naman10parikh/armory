@@ -1,0 +1,7 @@
+{
+  "name": "saucelabs-sauce-api",
+  "description": "Basic functionality of the Sauce Labs API, allowing you to query data, analyze test results, and get help with platform usage and debugging!",
+  "source_repo": "saucelabs/sauce-api-mcp",
+  "source_url": "https://github.com/saucelabs/sauce-api-mcp",
+  "install": "npx -y sauce-api-mcp"
+}

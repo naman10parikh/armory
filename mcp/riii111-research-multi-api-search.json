@@ -1,0 +1,7 @@
+{
+  "name": "riii111-research-multi-api-search",
+  "description": "Combines multiple search APIs (Brave Search, Tavily Search, and Wikipedia) to intelligently route queries based on classification, providing web search capabilities with automatic categorization, parallel execution, and result deduplication.",
+  "source_repo": "riii111/researchmcp",
+  "source_url": "https://github.com/riii111/researchmcp",
+  "install": "# git clone --depth 1 https://github.com/riii111/researchmcp\n# See source for mcpServers config block"
+}

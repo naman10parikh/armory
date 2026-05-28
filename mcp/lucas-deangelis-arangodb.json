@@ -1,0 +1,7 @@
+{
+  "name": "lucas-deangelis-arangodb",
+  "description": "Integrates ArangoDB databases into workflows, enabling dynamic querying and analysis of document-oriented and graph data via AQL and document retrieval.",
+  "source_repo": "lucas-deangelis/arango-mcp-server",
+  "source_url": "https://github.com/lucas-deangelis/arango-mcp-server",
+  "install": "npx -y arango-mcp-server"
+}

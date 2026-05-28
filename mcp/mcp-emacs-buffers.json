@@ -1,0 +1,7 @@
+{
+  "name": "mcp-emacs-buffers",
+  "description": "Mcp Emacs Buffers MCP server listed on mcp.so.",
+  "source_repo": "kfischer-okarin/mcp-emacs-buffers",
+  "source_url": "https://mcp.so/server/mcp-emacs-buffers/kfischer-okarin",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-emacs-buffers/kfischer-okarin\n# See source for mcpServers config block"
+}

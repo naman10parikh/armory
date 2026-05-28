@@ -1,0 +1,7 @@
+{
+  "name": "mesh-memory",
+  "description": "Self-hosted semantic memory for AI agents. Save worklogs, decisions, and notes via MCP, then recall them across sessions by meaning rather than keyword. Backed by Postgres + pgvector with local embeddings (multilingual-e5-base).",
+  "source_repo": "dklymentiev/mesh-memory",
+  "source_url": "https://github.com/dklymentiev/mesh-memory",
+  "install": "# git clone --depth 1 https://github.com/dklymentiev/mesh-memory\n# See source for mcpServers config block"
+}

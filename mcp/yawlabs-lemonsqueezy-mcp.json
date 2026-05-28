@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-lemonsqueezy-mcp",
+  "description": "MCP server for the LemonSqueezy API. Enables managing stores, products, customers, subscriptions, discounts, and license keys from any MCP-compatible AI assistant.",
+  "source_repo": "YawLabs/lemonsqueezy-mcp",
+  "source_url": "https://github.com/YawLabs/lemonsqueezy-mcp",
+  "install": "npx -y lemonsqueezy-mcp"
+}

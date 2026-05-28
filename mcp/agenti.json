@@ -1,0 +1,7 @@
+{
+  "name": "agenti",
+  "description": "Enables any MCP-compatible LLM client to autonomously hold, spend, earn, and receive cryptocurrency using native MCP tools, no code required.",
+  "source_repo": "nirholas/agenti",
+  "source_url": "https://github.com/nirholas/agenti",
+  "install": "# git clone --depth 1 https://github.com/nirholas/agenti\n# See source for mcpServers config block"
+}

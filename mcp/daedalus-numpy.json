@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-numpy",
+  "description": "Exposes NumPy array operations, mathematical functions, linear algebra, and statistical methods as callable tools.",
+  "source_repo": "daedalus/mcp-numpy",
+  "source_url": "https://github.com/daedalus/mcp-numpy",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-numpy\n# See source for mcpServers config block"
+}

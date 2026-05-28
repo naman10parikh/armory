@@ -1,0 +1,7 @@
+{
+  "name": "unblocked",
+  "description": "Team context engine for AI coding tools",
+  "source_repo": "",
+  "source_url": "https://getunblocked.com/unblocked-mcp/",
+  "install": "# git clone --depth 1 https://getunblocked.com/unblocked-mcp/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ubie-slack",
+  "description": "Enables AI interaction with Slack workspaces through nine tools for channel management, messaging, user profiles, and reactions using both Bot and User OAuth tokens",
+  "source_repo": "ubie-oss/slack-mcp-server",
+  "source_url": "https://github.com/ubie-oss/slack-mcp-server",
+  "install": "npx -y slack-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ojaskord-url-safety-validator",
+  "description": "URL safety assessment with SAFE/SUSPICIOUS/DANGEROUS verdicts using Google Web Risk, URLhaus, and PhishTank.",
+  "source_repo": "ojaskord/url-safety-validator-mcp",
+  "source_url": "https://github.com/ojaskord/url-safety-validator-mcp",
+  "install": "npx -y url-safety-validator-mcp"
+}

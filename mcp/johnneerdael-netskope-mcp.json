@@ -1,0 +1,7 @@
+{
+  "name": "johnneerdael-netskope-mcp",
+  "description": "🔒 ☁️ - An MCP to give access to all Netskope Private Access components within a Netskope Private Access environments including detailed setup information and LLM examples on usage.",
+  "source_repo": "johnneerdael/netskope-mcp",
+  "source_url": "https://github.com/johnneerdael/netskope-mcp",
+  "install": "npx -y netskope-mcp"
+}

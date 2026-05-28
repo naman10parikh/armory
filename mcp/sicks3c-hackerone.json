@@ -1,0 +1,7 @@
+{
+  "name": "sicks3c-hackerone",
+  "description": "Access your HackerOne reports, programs, earnings, and scope data through the HackerOne API.",
+  "source_repo": "sicks3c/hackerone-mcp-server",
+  "source_url": "https://github.com/sicks3c/hackerone-mcp-server",
+  "install": "npx -y hackerone-mcp-server"
+}

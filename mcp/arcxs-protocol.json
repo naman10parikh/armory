@@ -1,0 +1,7 @@
+{
+  "name": "arcxs-protocol",
+  "description": "Universal AI agent registry providing cross-protocol discovery, messaging, and payment routing for autonomous agents.",
+  "source_repo": "arcxs-protocol/arcxs-mcp-server",
+  "source_url": "https://github.com/arcxs-protocol/arcxs-mcp-server",
+  "install": "npx -y arcxs-mcp-server"
+}

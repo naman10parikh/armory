@@ -1,0 +1,7 @@
+{
+  "name": "arktechnwa-zsh-tool",
+  "description": "Intelligent Zsh shell execution with yield-based oversight, PTY mode for interactive prompts, circuit breaker, and learning capabilities.",
+  "source_repo": "arktechnwa/zsh-tool",
+  "source_url": "https://github.com/arktechnwa/zsh-tool",
+  "install": "# git clone --depth 1 https://github.com/arktechnwa/zsh-tool\n# See source for mcpServers config block"
+}

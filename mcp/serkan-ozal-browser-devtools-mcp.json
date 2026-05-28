@@ -1,0 +1,7 @@
+{
+  "name": "serkan-ozal-browser-devtools-mcp",
+  "description": "An MCP Server enables AI assistants to autonomously test, debug, and validate web applications.",
+  "source_repo": "serkan-ozal/browser-devtools-mcp",
+  "source_url": "https://github.com/serkan-ozal/browser-devtools-mcp",
+  "install": "npx -y browser-devtools-mcp"
+}

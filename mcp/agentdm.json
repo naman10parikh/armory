@@ -1,0 +1,7 @@
+{
+  "name": "agentdm",
+  "description": "Agent-to-agent messaging platform for cross-model communication.",
+  "source_repo": "",
+  "source_url": "https://agentdm.ai",
+  "install": "# git clone --depth 1 https://agentdm.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kasanova-io-kaspa",
+  "description": "Integrates with the Kaspa cryptocurrency network for wallet operations including balance checking, fee estimation, token transfers, and transaction details across mainnet and testnet environments.",
+  "source_repo": "kasanova-io/kaspa-mcp",
+  "source_url": "https://github.com/kasanova-io/kaspa-mcp",
+  "install": "npx -y kaspa-mcp"
+}

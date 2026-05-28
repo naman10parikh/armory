@@ -1,0 +1,7 @@
+{
+  "name": "tlofreso-youtube-transcript-extractor",
+  "description": "Extracts YouTube video transcripts from various URL formats using a command-line tool, enabling content analysis and subtitle generation.",
+  "source_repo": "tlofreso/mcp-youtube-transcripts",
+  "source_url": "https://github.com/tlofreso/mcp-youtube-transcripts",
+  "install": "# git clone --depth 1 https://github.com/tlofreso/mcp-youtube-transcripts\n# See source for mcpServers config block"
+}

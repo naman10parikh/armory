@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sqlite-memory-bank",
+  "description": "Dynamic SQLite memory bank with semantic search, table management, and knowledge graphs for LLM agents.",
+  "source_repo": "robertmeisner/mcp_sqlite_memory_bank",
+  "source_url": "https://github.com/robertmeisner/mcp_sqlite_memory_bank",
+  "install": "# git clone --depth 1 https://github.com/robertmeisner/mcp_sqlite_memory_bank\n# See source for mcpServers config block"
+}

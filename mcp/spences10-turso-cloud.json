@@ -1,0 +1,7 @@
+{
+  "name": "spences10-turso-cloud",
+  "description": "Provides a bridge between AI assistants and Turso SQLite databases, enabling organization-level management and database-level queries with persistent context, schema exploration, and vector similarity search capabilities.",
+  "source_repo": "spences10/mcp-turso-cloud",
+  "source_url": "https://github.com/spences10/mcp-turso-cloud",
+  "install": "# git clone --depth 1 https://github.com/spences10/mcp-turso-cloud\n# See source for mcpServers config block"
+}

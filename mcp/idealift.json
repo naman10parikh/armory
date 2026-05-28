@@ -1,0 +1,7 @@
+{
+  "name": "idealift",
+  "description": "Manage product ideas, decisions, and customer signals from AI assistants with NLQ",
+  "source_repo": "",
+  "source_url": "https://idealift.startvest.ai",
+  "install": "# git clone --depth 1 https://idealift.startvest.ai\n# See source for mcpServers config block"
+}

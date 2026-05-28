@@ -1,0 +1,7 @@
+{
+  "name": "taiki-yoshida-copilot-studio-code-tools",
+  "description": "Provides Microsoft Copilot Studio agents with file and shell capabilities including reading, writing, editing files, directory browsing, grep, glob, and shell execution.",
+  "source_repo": "taiki-yoshida/copilot-studio-code",
+  "source_url": "https://github.com/taiki-yoshida/copilot-studio-code",
+  "install": "# git clone --depth 1 https://github.com/taiki-yoshida/copilot-studio-code\n# See source for mcpServers config block"
+}

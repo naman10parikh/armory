@@ -1,0 +1,7 @@
+{
+  "name": "heista",
+  "description": "Ad intelligence MCP for decoding video ads and generating brand-specific creative scripts.",
+  "source_repo": "heista-co/heista-mcp",
+  "source_url": "https://github.com/heista-co/heista-mcp",
+  "install": "npx -y heista-mcp"
+}

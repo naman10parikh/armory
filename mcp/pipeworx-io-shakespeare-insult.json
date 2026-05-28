@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-shakespeare-insult",
+  "description": "Shakespearean insult generator with classical and targeted modes via StupidAPIs through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-shakespeare-insult",
+  "source_url": "https://github.com/pipeworx-io/mcp-shakespeare-insult",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-shakespeare-insult\n# See source for mcpServers config block"
+}

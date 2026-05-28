@@ -1,0 +1,7 @@
+{
+  "name": "rafa2403nunez-droid-pynetbridge",
+  "description": "Bridges AI agents with PyNet Platform for BIM and engineering automation in Autodesk tools.",
+  "source_repo": "rafa2403nunez-droid/pynetbridge",
+  "source_url": "https://github.com/rafa2403nunez-droid/pynetbridge",
+  "install": "# git clone --depth 1 https://github.com/rafa2403nunez-droid/pynetbridge\n# See source for mcpServers config block"
+}

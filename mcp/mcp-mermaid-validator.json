@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mermaid-validator",
+  "description": "Mcp Mermaid Validator MCP server listed on mcp.so.",
+  "source_repo": "rtuin/mcp-mermaid-validator",
+  "source_url": "https://mcp.so/server/mcp-mermaid-validator/rtuin",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-mermaid-validator/rtuin\n# See source for mcpServers config block"
+}

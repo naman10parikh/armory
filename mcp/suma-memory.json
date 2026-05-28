@@ -1,0 +1,7 @@
+{
+  "name": "suma-memory",
+  "description": "Persistent knowledge graph memory for coding assistants across sessions and machines.",
+  "source_repo": "sumanaddanki/suma-mcp",
+  "source_url": "https://github.com/sumanaddanki/suma-mcp",
+  "install": "npx -y suma-mcp"
+}

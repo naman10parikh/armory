@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-mem0-autonomous-memory",
+  "description": "Provides autonomous memory capabilities for storing, retrieving, and utilizing conversation information across sessions, with automatic extraction and categorization of user data for enhanced contextual interactions.",
+  "source_repo": "pinkpixel-dev/mem0-mcp",
+  "source_url": "https://github.com/pinkpixel-dev/mem0-mcp",
+  "install": "npx -y mem0-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tonybotni-doctah-prts",
+  "description": "Integrates with the PRTS wiki to provide detailed Arknights game data including operator stats, abilities, and enemy information through web scraping for players and content creators.",
+  "source_repo": "tonybotni/doctah-mcp",
+  "source_url": "https://github.com/tonybotni/doctah-mcp",
+  "install": "npx -y doctah-mcp"
+}

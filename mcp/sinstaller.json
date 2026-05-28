@@ -1,0 +1,7 @@
+{
+  "name": "sinstaller",
+  "description": "Automates installation and containerization of MCP servers from GitHub repositories by analyzing codebases, generating Docker configurations, and building ready-to-run container images with automatic transport detection and client configuration generation.",
+  "source_repo": "mossaka/mcp-sinstaller",
+  "source_url": "https://github.com/mossaka/mcp-sinstaller",
+  "install": "# git clone --depth 1 https://github.com/mossaka/mcp-sinstaller\n# See source for mcpServers config block"
+}

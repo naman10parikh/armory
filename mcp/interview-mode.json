@@ -1,0 +1,7 @@
+{
+  "name": "interview-mode",
+  "description": "Structured interviewer for Claude Code with probing questions, decision tracking, and evolving checkpoints that learn from collective usage.",
+  "source_repo": "teabagkim/claude-interview-mode",
+  "source_url": "https://github.com/teabagkim/claude-interview-mode",
+  "install": "# git clone --depth 1 https://github.com/teabagkim/claude-interview-mode\n# See source for mcpServers config block"
+}

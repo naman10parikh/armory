@@ -1,0 +1,7 @@
+{
+  "name": "mobileshop9991-clipwise",
+  "description": "Access Clipwise tools for short-form video creators, including TikTok trend research, platform guidance, and viral content analysis.",
+  "source_repo": "mobileshop9991-star/clipwise-mcp",
+  "source_url": "https://github.com/mobileshop9991-star/clipwise-mcp",
+  "install": "npx -y clipwise-mcp"
+}

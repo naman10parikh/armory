@@ -1,0 +1,7 @@
+{
+  "name": "beyond-mcp-server",
+  "description": "Beyond Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Beyond-Network-AI/beyond-mcp-server",
+  "source_url": "https://mcp.so/server/beyond-mcp-server/Beyond-Network-AI",
+  "install": "npx -y beyond-mcp-server"
+}

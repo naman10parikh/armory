@@ -1,0 +1,7 @@
+{
+  "name": "tenfoldmarc-gohighlevel",
+  "description": "Manage GoHighLevel CRM sub-account contacts, pipelines, calendars, invoices, workflows, and campaigns.",
+  "source_repo": "tenfoldmarc/ghl-mcp",
+  "source_url": "https://github.com/tenfoldmarc/ghl-mcp",
+  "install": "npx -y ghl-mcp"
+}

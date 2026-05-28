@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-mcp-server-dns",
+  "description": "DNS lookups, reverse DNS, WHOIS, and domain availability checks. Zero auth, zero config.",
+  "source_repo": "ofershap/mcp-server-dns",
+  "source_url": "https://github.com/ofershap/mcp-server-dns",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-dns\n# See source for mcpServers config block"
+}

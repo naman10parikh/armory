@@ -1,0 +1,7 @@
+{
+  "name": "pab1it0-tripadvisor",
+  "description": "Integrates with Tripadvisor Content API to enable location searches, detailed information retrieval, reviews access, and photo collection for hotels, restaurants, and attractions.",
+  "source_repo": "pab1it0/tripadvisor-mcp",
+  "source_url": "https://github.com/pab1it0/tripadvisor-mcp",
+  "install": "npx -y tripadvisor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "a2cr",
+  "description": "Encrypted AI agent context handoffs with WorkBaton checkpoints and WorkStash notes.",
+  "source_repo": "a2cr/a2cr",
+  "source_url": "https://github.com/a2cr/a2cr",
+  "install": "# git clone --depth 1 https://github.com/a2cr/a2cr\n# See source for mcpServers config block"
+}

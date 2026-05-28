@@ -1,0 +1,7 @@
+{
+  "name": "theobrigitte-time",
+  "description": "Provides time and date manipulation capabilities including current time retrieval, timezone conversion, duration arithmetic, natural language relative time parsing, and time comparison for scheduling workflows and time-based analysis.",
+  "source_repo": "theobrigitte/mcp-time",
+  "source_url": "https://github.com/theobrigitte/mcp-time",
+  "install": "# git clone --depth 1 https://github.com/theobrigitte/mcp-time\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chaingpt",
+  "description": "Integrates with ChainGPT's Web3-focused AI models to provide blockchain and cryptocurrency news retrieval alongside general chat functionality optimized for Web3 queries.",
+  "source_repo": "mikeysrecipes/chaingpt-mcp",
+  "source_url": "https://github.com/mikeysrecipes/chaingpt-mcp",
+  "install": "npx -y chaingpt-mcp"
+}

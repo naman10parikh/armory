@@ -1,0 +1,7 @@
+{
+  "name": "madjeek-web-polybridge",
+  "description": "Bridges multiple MCP tools and services through a unified API gateway interface.",
+  "source_repo": "madjeek-web/polybridge-mcp",
+  "source_url": "https://github.com/madjeek-web/polybridge-mcp",
+  "install": "npx -y polybridge-mcp"
+}

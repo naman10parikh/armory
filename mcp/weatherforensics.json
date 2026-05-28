@@ -1,0 +1,7 @@
+{
+  "name": "weatherforensics",
+  "description": "Historical weather data service providing hourly, daily, and monthly conditions plus tornado, storm, and tropical cyclone analysis from NOAA sources.",
+  "source_repo": "markwkiehl/weatherforensics-mcp",
+  "source_url": "https://github.com/markwkiehl/weatherforensics-mcp",
+  "install": "npx -y weatherforensics-mcp"
+}

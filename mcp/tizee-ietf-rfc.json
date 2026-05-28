@@ -1,0 +1,7 @@
+{
+  "name": "tizee-ietf-rfc",
+  "description": "Provides access to IETF RFC documents, enabling efficient listing, searching, and retrieval with pagination and local caching for internet standards and protocol analysis.",
+  "source_repo": "tizee/mcp-server-ietf",
+  "source_url": "https://github.com/tizee/mcp-server-ietf",
+  "install": "# git clone --depth 1 https://github.com/tizee/mcp-server-ietf\n# See source for mcpServers config block"
+}

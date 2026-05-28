@@ -1,0 +1,7 @@
+{
+  "name": "hypeprinter007-stack-anchor-x402",
+  "description": "MCP server exposing nine blockchain services — including hash anchoring, wallet screening, and token price lookup — via pay-per-call USDC micropayments.",
+  "source_repo": "hypeprinter007-stack/anchor-x402-mcp",
+  "source_url": "https://github.com/hypeprinter007-stack/anchor-x402-mcp",
+  "install": "npx -y anchor-x402-mcp"
+}

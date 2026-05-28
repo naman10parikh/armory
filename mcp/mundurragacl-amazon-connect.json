@@ -1,0 +1,7 @@
+{
+  "name": "mundurragacl-amazon-connect",
+  "description": "Integrates with Amazon Connect contact center services to manage configuration, cases, contacts, analytics, profiles, campaigns, and AI features with multi-region support and industry-specific templates.",
+  "source_repo": "mundurragacl/amazon-connect-mcp",
+  "source_url": "https://github.com/mundurragacl/amazon-connect-mcp",
+  "install": "npx -y amazon-connect-mcp"
+}

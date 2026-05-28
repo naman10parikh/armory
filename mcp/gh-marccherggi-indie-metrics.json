@@ -1,0 +1,7 @@
+{
+  "name": "gh-marccherggi-indie-metrics",
+  "description": "Provides real-time Stripe business intelligence including revenue, customers, and forecasts.",
+  "source_repo": "marccherggi/indie-metrics-mcp",
+  "source_url": "https://github.com/marccherggi/indie-metrics-mcp",
+  "install": "npx -y indie-metrics-mcp"
+}

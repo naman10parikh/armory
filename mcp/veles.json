@@ -1,0 +1,7 @@
+{
+  "name": "veles",
+  "description": "AI-native CPQ (Configure, Price, Quote) platform for sales — build quotes, route approvals, and generate documents via MCP.",
+  "source_repo": "",
+  "source_url": "https://getveles.com",
+  "install": "# git clone --depth 1 https://getveles.com\n# See source for mcpServers config block"
+}

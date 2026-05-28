@@ -1,0 +1,7 @@
+{
+  "name": "efforthye-fast-filesystem",
+  "description": "Provides streaming-based file operations with auto-chunking for memory-efficient handling of large files, including sequential reading, precise line-based editing, batch operations, archive compression, and backup mechanisms with retry logic.",
+  "source_repo": "efforthye/fast-filesystem-mcp",
+  "source_url": "https://github.com/efforthye/fast-filesystem-mcp",
+  "install": "npx -y fast-filesystem-mcp"
+}

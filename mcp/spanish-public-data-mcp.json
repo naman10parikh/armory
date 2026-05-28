@@ -1,0 +1,7 @@
+{
+  "name": "spanish-public-data-mcp",
+  "description": "MCP server for querying Spanish government open data APIs including grants, legislation, company registry, statistics, and open data catalog. Enables LLMs to access Spanish public information on-the-fly.",
+  "source_repo": "mjgmario/spanish-public-info-radar-mcp",
+  "source_url": "https://github.com/mjgmario/spanish-public-info-radar-mcp",
+  "install": "npx -y spanish-public-info-radar-mcp"
+}

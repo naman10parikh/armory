@@ -1,0 +1,7 @@
+{
+  "name": "jhuntinfosec-opencti",
+  "description": "Connects to OpenCTI threat intelligence platforms with specialized tools for querying malware, threat actors, attack patterns, vulnerabilities, and campaigns, enabling sector-based threat analysis and relationship traversal between STIX entities.",
+  "source_repo": "jhuntinfosec/mcp-opencti",
+  "source_url": "https://github.com/jhuntinfosec/mcp-opencti",
+  "install": "# git clone --depth 1 https://github.com/jhuntinfosec/mcp-opencti\n# See source for mcpServers config block"
+}

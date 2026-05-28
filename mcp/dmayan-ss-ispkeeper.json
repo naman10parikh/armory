@@ -1,0 +1,7 @@
+{
+  "name": "dmayan-ss-ispkeeper",
+  "description": "Read-only access to ISPKeeper ISP management platform for querying subscribers, network infrastructure, and service data.",
+  "source_repo": "dmayan-ss/mcp-ispkeeper",
+  "source_url": "https://github.com/dmayan-ss/mcp-ispkeeper",
+  "install": "# git clone --depth 1 https://github.com/dmayan-ss/mcp-ispkeeper\n# See source for mcpServers config block"
+}

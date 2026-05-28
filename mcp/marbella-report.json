@@ -1,0 +1,7 @@
+{
+  "name": "marbella-report",
+  "description": "Marbella real estate market data across 28 sub-areas via SSE endpoint.",
+  "source_repo": "",
+  "source_url": "https://marbellareport-mcp-production.up.railway.app/sse",
+  "install": "# git clone --depth 1 https://marbellareport-mcp-production.up.railway.app/sse\n# See source for mcpServers config block"
+}

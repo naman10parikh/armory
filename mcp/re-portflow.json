@@ -1,0 +1,7 @@
+{
+  "name": "re-portflow",
+  "description": "ReportFlow MCP Server - PDF report generation for Claude and AI agents",
+  "source_repo": "re-port-flow/reportflow-mcp",
+  "source_url": "https://github.com/re-port-flow/reportflow-mcp",
+  "install": "npx -y reportflow-mcp"
+}

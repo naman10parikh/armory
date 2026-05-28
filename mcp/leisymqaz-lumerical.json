@@ -1,0 +1,7 @@
+{
+  "name": "leisymqaz-lumerical",
+  "description": "Integrates Ansys Lumerical photonic simulation tools with Claude.",
+  "source_repo": "leisymqaz/lumerical-mcp",
+  "source_url": "https://github.com/leisymqaz/lumerical-mcp",
+  "install": "npx -y lumerical-mcp"
+}

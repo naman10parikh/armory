@@ -1,0 +1,7 @@
+{
+  "name": "cit-mcp",
+  "description": "Git-style conversation branching MCP server for Claude Code context management.",
+  "source_repo": "v3nividiv1ci/cit-mcp",
+  "source_url": "https://github.com/v3nividiv1ci/cit-mcp",
+  "install": "npx -y cit-mcp"
+}

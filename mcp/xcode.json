@@ -1,0 +1,7 @@
+{
+  "name": "xcode",
+  "description": "Integrates with Apple's development ecosystem to enable Xcode project building, testing, simulator management, app installation, and dependency management across iOS, macOS, tvOS, watchOS, and visionOS platforms.",
+  "source_repo": "stefan-nitu/mcp-xcode-server",
+  "source_url": "https://github.com/stefan-nitu/mcp-xcode-server",
+  "install": "# git clone --depth 1 https://github.com/stefan-nitu/mcp-xcode-server\n# See source for mcpServers config block"
+}

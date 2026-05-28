@@ -1,0 +1,7 @@
+{
+  "name": "ahmedeid1-thoth",
+  "description": "Run AI-assisted systematic literature reviews with per-claim citation verification over an agentic SLR workspace.",
+  "source_repo": "ahmedeid1/thoth",
+  "source_url": "https://github.com/ahmedeid1/thoth",
+  "install": "# git clone --depth 1 https://github.com/ahmedeid1/thoth\n# See source for mcpServers config block"
+}

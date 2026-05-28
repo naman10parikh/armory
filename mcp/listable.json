@@ -1,0 +1,7 @@
+{
+  "name": "listable",
+  "description": "Manages directory website content, listings, and settings through natural conversation.",
+  "source_repo": "johnrich85/listable-mcp",
+  "source_url": "https://github.com/johnrich85/listable-mcp",
+  "install": "npx -y listable-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-bvandevliet-betaflight",
+  "description": "Connects to Betaflight flight controllers over USB serial for real-time sensor reads, CLI configuration, and expert PID tuning.",
+  "source_repo": "bvandevliet/betaflight-mcp",
+  "source_url": "https://github.com/bvandevliet/betaflight-mcp",
+  "install": "npx -y betaflight-mcp"
+}

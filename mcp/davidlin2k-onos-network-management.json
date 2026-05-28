@@ -1,0 +1,7 @@
+{
+  "name": "davidlin2k-onos-network-management",
+  "description": "Enables network management and control for ONOS by providing comprehensive REST API access to network topology, device configuration, flow management, and system diagnostics for software-defined networking research and prototyping.",
+  "source_repo": "davidlin2k/onos-mcp-server",
+  "source_url": "https://github.com/davidlin2k/onos-mcp-server",
+  "install": "npx -y onos-mcp-server"
+}

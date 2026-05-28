@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [python-fastapi, python-hooks]
-tags: [ecc, rules, python]
+tags: [rules, python]
 ---
 ## What it is
 python rule: apply when working on python and you need Python Testing.

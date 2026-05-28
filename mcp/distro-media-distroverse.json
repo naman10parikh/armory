@@ -1,0 +1,7 @@
+{
+  "name": "distro-media-distroverse",
+  "description": "Agentic press platform for managing publications, writing stories, and browsing content feeds.",
+  "source_repo": "null/null",
+  "source_url": "https://github.com/null/null",
+  "install": "# git clone --depth 1 https://github.com/null/null\n# See source for mcpServers config block"
+}

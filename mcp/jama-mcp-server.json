@@ -1,0 +1,7 @@
+{
+  "name": "jama-mcp-server",
+  "description": "Read-only MCP server that allows interaction with a Jama Connect instance via tools, wrapping the official py-jama-rest-client library.",
+  "source_repo": "t-j-thomas/jama-mcp-server",
+  "source_url": "https://github.com/t-j-thomas/jama-mcp-server",
+  "install": "npx -y jama-mcp-server"
+}

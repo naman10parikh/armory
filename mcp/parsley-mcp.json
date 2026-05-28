@@ -1,0 +1,7 @@
+{
+  "name": "parsley-mcp",
+  "description": "Provides buyer intent signals, MEDDIC qualification scores, and lead analytics from Parsley.",
+  "source_repo": "peterjduffy/parsley-mcp",
+  "source_url": "https://github.com/peterjduffy/parsley-mcp",
+  "install": "npx -y parsley-mcp"
+}

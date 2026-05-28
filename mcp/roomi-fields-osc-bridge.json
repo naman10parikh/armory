@@ -1,0 +1,7 @@
+{
+  "name": "roomi-fields-osc-bridge",
+  "description": "Bridges OSC protocol messages to enable integration with audio and multimedia applications.",
+  "source_repo": "roomi-fields/osc-bridge",
+  "source_url": "https://github.com/roomi-fields/osc-bridge",
+  "install": "# git clone --depth 1 https://github.com/roomi-fields/osc-bridge\n# See source for mcpServers config block"
+}

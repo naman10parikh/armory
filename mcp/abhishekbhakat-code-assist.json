@@ -1,0 +1,7 @@
+{
+  "name": "abhishekbhakat-code-assist",
+  "description": "Enables code modification and generation tasks through file operations, search-and-replace, and version control integration for automated refactoring and codebase maintenance.",
+  "source_repo": "abhishekbhakat/mcp_server_code_assist",
+  "source_url": "https://github.com/abhishekbhakat/mcp_server_code_assist",
+  "install": "# git clone --depth 1 https://github.com/abhishekbhakat/mcp_server_code_assist\n# See source for mcpServers config block"
+}

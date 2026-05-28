@@ -1,0 +1,7 @@
+{
+  "name": "pratham-mishra04-trail",
+  "description": "Capture stdout and stderr from any process into per-session JSONL files and expose those logs to AI coding agents for real-time debugging assistance.",
+  "source_repo": "pratham-mishra04/trail",
+  "source_url": "https://github.com/pratham-mishra04/trail",
+  "install": "# git clone --depth 1 https://github.com/pratham-mishra04/trail\n# See source for mcpServers config block"
+}

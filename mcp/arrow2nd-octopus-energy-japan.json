@@ -1,0 +1,7 @@
+{
+  "name": "arrow2nd-octopus-energy-japan",
+  "description": "Integrates with Octopus Energy Japan's GraphQL API for electricity consumption monitoring, account information, and postal area lookups.",
+  "source_repo": "arrow2nd/tako-mcp",
+  "source_url": "https://github.com/arrow2nd/tako-mcp",
+  "install": "npx -y tako-mcp"
+}

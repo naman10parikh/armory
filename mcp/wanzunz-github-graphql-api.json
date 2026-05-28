@@ -1,0 +1,7 @@
+{
+  "name": "wanzunz-github-graphql-api",
+  "description": "Provides direct access to GitHub's GraphQL API for querying repositories, issues, pull requests, and schema documentation with secure authentication through environment variables.",
+  "source_repo": "wanzunz/github_graphql_api_mcp",
+  "source_url": "https://github.com/wanzunz/github_graphql_api_mcp",
+  "install": "npx -y github_graphql_api_mcp"
+}

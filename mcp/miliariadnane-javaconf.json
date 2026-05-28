@@ -1,0 +1,7 @@
+{
+  "name": "miliariadnane-javaconf",
+  "description": "Provides access to Java conference information by parsing GitHub-hosted markdown files, enabling filtering by year to discover upcoming events, track CFP deadlines, and find conferences in specific locations.",
+  "source_repo": "miliariadnane/javaconf-mcp-server",
+  "source_url": "https://github.com/miliariadnane/javaconf-mcp-server",
+  "install": "npx -y javaconf-mcp-server"
+}

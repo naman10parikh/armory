@@ -1,0 +1,7 @@
+{
+  "name": "yamadashy-repomix",
+  "description": "Package codebases into AI-friendly single files with intelligent code structure preservation and token optimization.",
+  "source_repo": "yamadashy/repomix",
+  "source_url": "https://github.com/yamadashy/repomix",
+  "install": "# git clone --depth 1 https://github.com/yamadashy/repomix\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "christianhinge-dicom",
+  "description": "Enables interaction with medical imaging systems through DICOM networking protocols for querying patient information, studies, series, and instances, as well as extracting text from encapsulated PDF documents.",
+  "source_repo": "christianhinge/dicom-mcp",
+  "source_url": "https://github.com/christianhinge/dicom-mcp",
+  "install": "npx -y dicom-mcp"
+}

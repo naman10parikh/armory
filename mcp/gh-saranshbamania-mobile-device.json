@@ -1,0 +1,7 @@
+{
+  "name": "gh-saranshbamania-mobile-device",
+  "description": "Control and interact with Android mobile devices from AI coding assistants with screenshots, UI inspection, touch interaction, AI-powered visual analysis, and Flutter widget tree inspection.",
+  "source_repo": "saranshbamania/mobile-device-mcp",
+  "source_url": "https://github.com/saranshbamania/mobile-device-mcp",
+  "install": "npx -y mobile-device-mcp"
+}

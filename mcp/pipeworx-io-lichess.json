@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-lichess",
+  "description": "Access Lichess public API data including player ratings, game history, puzzle stats, opening explorer, and endgame tablebase lookups.",
+  "source_repo": "pipeworx-io/mcp-lichess",
+  "source_url": "https://github.com/pipeworx-io/mcp-lichess",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-lichess\n# See source for mcpServers config block"
+}

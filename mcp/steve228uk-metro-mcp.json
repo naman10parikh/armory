@@ -1,0 +1,7 @@
+{
+  "name": "steve228uk-metro-mcp",
+  "description": "React Native and Expo runtime debugging, inspection, and automation via Metro and Chrome DevTools Protocol.",
+  "source_repo": "steve228uk/metro-mcp",
+  "source_url": "https://github.com/steve228uk/metro-mcp",
+  "install": "npx -y metro-mcp"
+}

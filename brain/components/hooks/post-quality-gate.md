@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [post-bash-dispatcher, post-ecc-context-monitor]
-tags: [ecc, hook, PostToolUse]
+tags: [hook, PostToolUse]
 ---
 ## What it is
 PostToolUse hook: Run quality gate checks after file edits (matcher: Edit|Write|MultiEdit).

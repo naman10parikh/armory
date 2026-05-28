@@ -1,0 +1,7 @@
+{
+  "name": "jaspertvdm-mcp-server-openai-bridge",
+  "description": "Bridge to OpenAI API. Access GPT-4, GPT-4o and other OpenAI models through MCP.",
+  "source_repo": "jaspertvdm/mcp-server-openai-bridge",
+  "source_url": "https://github.com/jaspertvdm/mcp-server-openai-bridge",
+  "install": "# git clone --depth 1 https://github.com/jaspertvdm/mcp-server-openai-bridge\n# See source for mcpServers config block"
+}

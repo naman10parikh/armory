@@ -1,0 +1,7 @@
+{
+  "name": "travel-assistant-mcp",
+  "description": "Enables travel search workflows including airport lookup, route comparison, travel timing guidance, and external booking links with commission-eligible links.",
+  "source_repo": "forgemeshlabs/travel-mcp",
+  "source_url": "https://github.com/forgemeshlabs/travel-mcp",
+  "install": "npx -y travel-mcp"
+}

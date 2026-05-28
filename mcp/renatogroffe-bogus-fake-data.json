@@ -1,0 +1,7 @@
+{
+  "name": "renatogroffe-bogus-fake-data",
+  "description": "Generates realistic Brazilian-localized fake data using the Bogus library for contacts, companies, products, and Lorem Ipsum text to populate test databases and demo applications.",
+  "source_repo": "renatogroffe/dotnet10-consoleapp-mcp-fakedata",
+  "source_url": "https://github.com/renatogroffe/dotnet10-consoleapp-mcp-fakedata",
+  "install": "# git clone --depth 1 https://github.com/renatogroffe/dotnet10-consoleapp-mcp-fakedata\n# See source for mcpServers config block"
+}

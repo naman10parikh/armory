@@ -1,0 +1,7 @@
+{
+  "name": "darkhorseone-uk-parliament-erskine-may",
+  "description": "Accesses UK Parliament Erskine May API for parliamentary procedure reference content.",
+  "source_repo": "darkhorseone/mcp-servers",
+  "source_url": "https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-erskinemay",
+  "install": "# git clone --depth 1 https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-erskinemay\n# See source for mcpServers config block"
+}

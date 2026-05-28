@@ -1,0 +1,7 @@
+{
+  "name": "bifrotek-supabase-http-stream-n8n",
+  "description": "Integrates with Supabase platform for complete database operations, edge function deployment, project management, and storage handling with HTTP streaming support and development workflow automation.",
+  "source_repo": "bifrotek-com/supabase-mcp-http-stream-n8n",
+  "source_url": "https://github.com/bifrotek-com/supabase-mcp-http-stream-n8n",
+  "install": "# git clone --depth 1 https://github.com/bifrotek-com/supabase-mcp-http-stream-n8n\n# See source for mcpServers config block"
+}

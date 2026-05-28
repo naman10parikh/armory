@@ -1,0 +1,7 @@
+{
+  "name": "alxspiker-ftp",
+  "description": "Enables direct FTP and FTPS server management through natural language commands for remote file operations including directory listing, file transfers, and folder creation.",
+  "source_repo": "alxspiker/mcp-server-ftp",
+  "source_url": "https://github.com/alxspiker/mcp-server-ftp",
+  "install": "# git clone --depth 1 https://github.com/alxspiker/mcp-server-ftp\n# See source for mcpServers config block"
+}

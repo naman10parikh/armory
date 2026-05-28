@@ -1,0 +1,7 @@
+{
+  "name": "nimiq-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for interacting with the Nimiq blockchain.",
+  "source_repo": "onmax/nimiq-mcp",
+  "source_url": "https://github.com/onmax/nimiq-mcp",
+  "install": "npx -y nimiq-mcp"
+}

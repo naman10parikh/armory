@@ -1,0 +1,7 @@
+{
+  "name": "novamira",
+  "description": "WordPress plugin that gives AI agents full access to WordPress through PHP execution, filesystem operations, and crash-recoverable sandboxing.",
+  "source_repo": "use-novamira/novamira",
+  "source_url": "https://github.com/use-novamira/novamira",
+  "install": "# git clone --depth 1 https://github.com/use-novamira/novamira\n# See source for mcpServers config block"
+}

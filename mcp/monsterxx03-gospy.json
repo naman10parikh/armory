@@ -1,0 +1,7 @@
+{
+  "name": "monsterxx03-gospy",
+  "description": "Inspects and analyzes running Go processes by directly reading memory on Linux and macOS systems, providing deep visibility into goroutine states, memory statistics, and runtime behavior without modifying target applications.",
+  "source_repo": "monsterxx03/gospy",
+  "source_url": "https://github.com/monsterxx03/gospy",
+  "install": "# git clone --depth 1 https://github.com/monsterxx03/gospy\n# See source for mcpServers config block"
+}

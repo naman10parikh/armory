@@ -1,0 +1,7 @@
+{
+  "name": "detailobsessed-efficient-gitlab",
+  "description": "Token-efficient GitLab management with progressive disclosure for ~90% token savings",
+  "source_repo": "detailobsessed/efficient-gitlab-mcp",
+  "source_url": "https://github.com/detailobsessed/efficient-gitlab-mcp",
+  "install": "npx -y efficient-gitlab-mcp"
+}

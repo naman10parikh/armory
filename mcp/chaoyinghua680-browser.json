@@ -1,0 +1,7 @@
+{
+  "name": "chaoyinghua680-browser",
+  "description": "Chrome extension bridge for AI access to browser-authenticated web data.",
+  "source_repo": "chaoyinghua680-eng/browser-mcp",
+  "source_url": "https://github.com/chaoyinghua680-eng/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

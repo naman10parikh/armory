@@ -1,0 +1,7 @@
+{
+  "name": "eventify",
+  "description": "Connects AI assistants to the Eventify B2B event management platform via OAuth-authenticated MCP.",
+  "source_repo": "",
+  "source_url": "https://amcp.eventify.io/api/v2/mcp",
+  "install": "# git clone --depth 1 https://amcp.eventify.io/api/v2/mcp\n# See source for mcpServers config block"
+}

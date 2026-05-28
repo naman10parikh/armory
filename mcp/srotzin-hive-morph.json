@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-morph",
+  "description": "Polymorphic agent runtime audit log and identity indexing for the Hive Civilization platform via live production gateway.",
+  "source_repo": "srotzin/hive-mcp-morph",
+  "source_url": "https://github.com/srotzin/hive-mcp-morph",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-morph\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bchh-s-codex-gopls",
+  "description": "Integrates the Go language server (gopls) into Codex, exposing hover, definitions, references, symbols, and diagnostics.",
+  "source_repo": "bchh-s/codex-gopls-mcp",
+  "source_url": "https://github.com/bchh-s/codex-gopls-mcp",
+  "install": "npx -y codex-gopls-mcp"
+}

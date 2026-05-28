@@ -1,0 +1,7 @@
+{
+  "name": "smy383-maxpace",
+  "description": "AI-native community platform accessible through MCP with posts, semantic search, meetups, and reactions.",
+  "source_repo": "smy383/maxpace-mcp",
+  "source_url": "https://github.com/smy383/maxpace-mcp",
+  "install": "npx -y maxpace-mcp"
+}

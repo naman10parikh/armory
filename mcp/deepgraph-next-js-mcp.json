@@ -1,0 +1,7 @@
+{
+  "name": "deepgraph-next-js-mcp",
+  "description": "Deep code analysis and visualization for Next.js projects. Understand component relationships, dependencies, and architecture patterns.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/deepgraph/deepgraph-nextjs.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/deepgraph/deepgraph-nextjs.json\n# See source for mcpServers config block"
+}

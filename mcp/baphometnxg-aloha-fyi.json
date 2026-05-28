@@ -1,0 +1,7 @@
+{
+  "name": "baphometnxg-aloha-fyi",
+  "description": "Hawaii tours, events, and deals from booking platforms for AI assistants.",
+  "source_repo": "baphometnxg/aloha-fyi-mcp",
+  "source_url": "https://github.com/baphometnxg/aloha-fyi-mcp",
+  "install": "npx -y aloha-fyi-mcp"
+}

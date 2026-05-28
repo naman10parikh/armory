@@ -1,0 +1,7 @@
+{
+  "name": "weirdmachine64-kali-docker",
+  "description": "Provides secure command execution within a containerized Kali Linux environment with background job management, interactsh client integration, and pre-configured API access to reconnaissance services like Shodan and VirusTotal for penetration testing workflows and automated security assessments.",
+  "source_repo": "weirdmachine64/kali-docker-mcp",
+  "source_url": "https://github.com/weirdmachine64/kali-docker-mcp",
+  "install": "npx -y kali-docker-mcp"
+}

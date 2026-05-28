@@ -1,0 +1,7 @@
+{
+  "name": "dhks77-ssh-gateway",
+  "description": "Enables secure SSH connections through gateway servers with Kerberos authentication for remote command execution and server management.",
+  "source_repo": "dhks77/gw-ssh",
+  "source_url": "https://github.com/dhks77/gw-ssh",
+  "install": "# git clone --depth 1 https://github.com/dhks77/gw-ssh\n# See source for mcpServers config block"
+}

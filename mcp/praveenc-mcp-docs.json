@@ -1,0 +1,7 @@
+{
+  "name": "praveenc-mcp-docs",
+  "description": "Search and retrieve official Model Context Protocol documentation with BM25 ranking and intelligent text processing.",
+  "source_repo": "praveenc/mcp-docs-server",
+  "source_url": "https://github.com/praveenc/mcp-docs-server",
+  "install": "# git clone --depth 1 https://github.com/praveenc/mcp-docs-server\n# See source for mcpServers config block"
+}

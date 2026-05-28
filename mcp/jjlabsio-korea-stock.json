@@ -1,0 +1,7 @@
+{
+  "name": "jjlabsio-korea-stock",
+  "description": "Integrates with DART and KRX APIs to provide Korean stock market data including company information, trading data, financial statements, and disclosure documents for KOSPI, KOSDAQ, and KONEX markets.",
+  "source_repo": "jjlabsio/korea-stock-mcp",
+  "source_url": "https://github.com/jjlabsio/korea-stock-mcp",
+  "install": "npx -y korea-stock-mcp"
+}

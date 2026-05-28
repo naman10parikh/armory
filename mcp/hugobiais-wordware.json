@@ -1,0 +1,7 @@
+{
+  "name": "hugobiais-wordware",
+  "description": "Integrates with Wordware's deployed flows to enable founder research, lead enrichment, Notion integration, and task solving with Google search and API capabilities.",
+  "source_repo": "hugobiais/wordware-mcp",
+  "source_url": "https://github.com/hugobiais/wordware-mcp",
+  "install": "npx -y wordware-mcp"
+}

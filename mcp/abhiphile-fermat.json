@@ -1,0 +1,7 @@
+{
+  "name": "abhiphile-fermat",
+  "description": "Provides mathematical computation and plotting capabilities through matplotlib for data visualization, NumPy for numerical operations, and SymPy for symbolic mathematics, enabling matrix operations, statistical calculations, equation solving, and calculus problems.",
+  "source_repo": "abhiphile/fermat-mcp",
+  "source_url": "https://github.com/abhiphile/fermat-mcp",
+  "install": "npx -y fermat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sourcesage",
+  "description": "SourceSage is an MCP server that efficiently memorizes key aspects of a codebase—logic, style, and standards—while allowing dynamic updates and fast retrieval.",
+  "source_repo": "mcpflow/sourcesage",
+  "source_url": "https://github.com/mcpflow/sourcesage",
+  "install": "# git clone --depth 1 https://github.com/mcpflow/sourcesage\n# See source for mcpServers config block"
+}

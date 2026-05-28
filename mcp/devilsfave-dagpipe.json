@@ -1,0 +1,7 @@
+{
+  "name": "devilsfave-dagpipe",
+  "description": "Crash-proof LLM pipeline orchestration with DAG-based execution, checkpoint recovery, and cognitive model routing.",
+  "source_repo": "devilsfave/dagpipe",
+  "source_url": "https://github.com/devilsfave/dagpipe/tree/HEAD/servers/dagpipe-generator",
+  "install": "# git clone --depth 1 https://github.com/devilsfave/dagpipe/tree/HEAD/servers/dagpipe-generator\n# See source for mcpServers config block"
+}

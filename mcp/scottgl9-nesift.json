@@ -1,0 +1,7 @@
+{
+  "name": "scottgl9-nesift",
+  "description": "Local semantic search MCP server with hybrid BM25 and vector retrieval, session indexing, and token-aware result curation.",
+  "source_repo": "scottgl9/nesift",
+  "source_url": "https://github.com/scottgl9/nesift",
+  "install": "# git clone --depth 1 https://github.com/scottgl9/nesift\n# See source for mcpServers config block"
+}

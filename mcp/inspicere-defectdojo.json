@@ -1,0 +1,7 @@
+{
+  "name": "inspicere-defectdojo",
+  "description": "MCP server for DefectDojo vulnerability management with RBAC, HMAC audit chain, and SIEM forwarding.",
+  "source_repo": "inspicere/mcp-defectdojo",
+  "source_url": "https://github.com/inspicere/mcp-defectdojo",
+  "install": "# git clone --depth 1 https://github.com/inspicere/mcp-defectdojo\n# See source for mcpServers config block"
+}

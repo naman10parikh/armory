@@ -1,0 +1,7 @@
+{
+  "name": "qgis-geographic-information-system",
+  "description": "Enables remote control of QGIS geographic information system for spatial analysis, map creation, and geographic data management through a JSON-based API",
+  "source_repo": "syauqi-uqi/qgis_mcp_modify1",
+  "source_url": "https://github.com/syauqi-uqi/qgis_mcp_modify1",
+  "install": "# git clone --depth 1 https://github.com/syauqi-uqi/qgis_mcp_modify1\n# See source for mcpServers config block"
+}

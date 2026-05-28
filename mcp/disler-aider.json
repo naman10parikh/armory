@@ -1,0 +1,7 @@
+{
+  "name": "disler-aider",
+  "description": "Aider MCP Server offloads AI coding tasks to Aider's specialized implementation, reducing costs and enhancing development efficiency through natural language code changes and model selection.",
+  "source_repo": "disler/aider-mcp-server",
+  "source_url": "https://github.com/disler/aider-mcp-server",
+  "install": "npx -y aider-mcp-server"
+}

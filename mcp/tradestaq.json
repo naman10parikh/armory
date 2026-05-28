@@ -1,0 +1,7 @@
+{
+  "name": "tradestaq",
+  "description": "AI-powered crypto trading tools for strategies, backtesting, bots, and portfolio management.",
+  "source_repo": "the-staq/tradestaq-mcp",
+  "source_url": "https://github.com/the-staq/tradestaq-mcp",
+  "install": "npx -y tradestaq-mcp"
+}

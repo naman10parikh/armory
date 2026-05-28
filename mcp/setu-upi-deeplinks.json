@@ -1,0 +1,7 @@
+{
+  "name": "setu-upi-deeplinks",
+  "description": "Integrates Setu's UPI payment infrastructure to enable seamless generation and management of payment links for applications.",
+  "source_repo": "setuhq/setu-mcps",
+  "source_url": "https://github.com/setuhq/setu-mcps/tree/HEAD/upi-deeplinks",
+  "install": "# git clone --depth 1 https://github.com/setuhq/setu-mcps/tree/HEAD/upi-deeplinks\n# See source for mcpServers config block"
+}

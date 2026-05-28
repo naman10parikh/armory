@@ -1,0 +1,7 @@
+{
+  "name": "aitrailblazer-deltasignal-atlas-7",
+  "description": "Financial market intelligence with issuer risk, peer ranking, and alpha detection.",
+  "source_repo": "aitrailblazer/deltasignal-atlas-codex-plugin",
+  "source_url": "https://github.com/aitrailblazer/deltasignal-atlas-codex-plugin",
+  "install": "# git clone --depth 1 https://github.com/aitrailblazer/deltasignal-atlas-codex-plugin\n# See source for mcpServers config block"
+}

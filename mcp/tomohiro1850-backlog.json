@@ -1,0 +1,7 @@
+{
+  "name": "tomohiro1850-backlog",
+  "description": "Integrates with Backlog project management API to enable issue creation and project management operations through TypeScript/Node.js endpoints that handle authentication and API communication.",
+  "source_repo": "tmhr1850/backlog-mcp-server",
+  "source_url": "https://github.com/tmhr1850/backlog-mcp-server",
+  "install": "npx -y backlog-mcp-server"
+}

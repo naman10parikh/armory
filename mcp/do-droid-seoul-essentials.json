@@ -1,0 +1,7 @@
+{
+  "name": "do-droid-seoul-essentials",
+  "description": "22,000+ Seoul public facility locations for tourists including restrooms, pharmacies, WiFi, AEDs, and subway stations.",
+  "source_repo": "do-droid/seoul-essentials",
+  "source_url": "https://github.com/do-droid/seoul-essentials",
+  "install": "# git clone --depth 1 https://github.com/do-droid/seoul-essentials\n# See source for mcpServers config block"
+}

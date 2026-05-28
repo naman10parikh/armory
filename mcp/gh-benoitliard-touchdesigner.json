@@ -1,0 +1,7 @@
+{
+  "name": "gh-benoitliard-touchdesigner",
+  "description": "Control TouchDesigner live from AI assistants via a persistent WebSocket bridge, with tools for nodes, parameters, connections, scripting, and rendering.",
+  "source_repo": "benoitliard/touch-mcp",
+  "source_url": "https://github.com/benoitliard/touch-mcp",
+  "install": "npx -y touch-mcp"
+}

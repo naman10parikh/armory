@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-flights",
+  "description": "Track live flight data, schedules, and airline route information via the Aviation Edge API.",
+  "source_repo": "pipeworx-io/mcp-flights",
+  "source_url": "https://github.com/pipeworx-io/mcp-flights",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-flights\n# See source for mcpServers config block"
+}

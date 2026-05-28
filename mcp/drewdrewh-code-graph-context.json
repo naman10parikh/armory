@@ -1,0 +1,7 @@
+{
+  "name": "drewdrewh-code-graph-context",
+  "description": "Builds rich code graphs to provide deep contextual understanding of TypeScript codebases",
+  "source_repo": "andrew-hernandez-paragon/code-graph-context",
+  "source_url": "https://github.com/andrew-hernandez-paragon/code-graph-context",
+  "install": "# git clone --depth 1 https://github.com/andrew-hernandez-paragon/code-graph-context\n# See source for mcpServers config block"
+}

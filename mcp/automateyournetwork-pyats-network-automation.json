@@ -1,0 +1,7 @@
+{
+  "name": "automateyournetwork-pyats-network-automation",
+  "description": "Provides a containerized bridge between AI and Cisco network devices through the pyATS automation framework, enabling device configuration, troubleshooting, and monitoring tasks via SSH connections.",
+  "source_repo": "automateyournetwork/pyats_mcp",
+  "source_url": "https://github.com/automateyournetwork/pyats_mcp",
+  "install": "npx -y pyats_mcp"
+}

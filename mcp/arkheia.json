@@ -1,0 +1,7 @@
+{
+  "name": "arkheia",
+  "description": "Hallucination and fabrication detection for LLM outputs across 30+ models.",
+  "source_repo": "arkheiaai/arkheia-mcp",
+  "source_url": "https://github.com/arkheiaai/arkheia-mcp",
+  "install": "npx -y arkheia-mcp"
+}

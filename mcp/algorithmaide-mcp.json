@@ -1,0 +1,7 @@
+{
+  "name": "algorithmaide-mcp",
+  "description": "An MCP server for real-device Android reversing workflows, wrapping AlgorithmAide config writes, AppSwitch/logList sync, LSPosed scope sync, Frida script injection, and runtime log queries into a stable MCP toolset.",
+  "source_repo": "vwww-droid/algorithmaide-mcp",
+  "source_url": "https://github.com/vwww-droid/algorithmaide-mcp",
+  "install": "npx -y algorithmaide-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alizdavoodi-mcpdocsearch",
+  "description": "Crawls websites to generate searchable Markdown documentation with vector embeddings for semantic search capabilities beyond training cutoffs",
+  "source_repo": "alizdavoodi/mcpdocsearch",
+  "source_url": "https://github.com/alizdavoodi/mcpdocsearch",
+  "install": "# git clone --depth 1 https://github.com/alizdavoodi/mcpdocsearch\n# See source for mcpServers config block"
+}

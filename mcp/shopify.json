@@ -1,0 +1,7 @@
+{
+  "name": "shopify",
+  "description": "Integrates with Shopify's GraphQL API to enable store data management through 16 specialized tools for handling products, customers, orders, collections, and webhooks.",
+  "source_repo": "therealhexi/shopify-mcp-server-main",
+  "source_url": "https://github.com/therealhexi/shopify-mcp-server-main",
+  "install": "# git clone --depth 1 https://github.com/therealhexi/shopify-mcp-server-main\n# See source for mcpServers config block"
+}

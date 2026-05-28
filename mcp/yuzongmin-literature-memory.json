@@ -1,0 +1,7 @@
+{
+  "name": "yuzongmin-literature-memory",
+  "description": "Integrates academic literature management with knowledge graphs to enable efficient source analysis, note-taking, and entity linking across diverse academic materials.",
+  "source_repo": "zongmin-yu/literature-memory-server-fastmcp-mcp",
+  "source_url": "https://github.com/zongmin-yu/literature-memory-server-fastmcp-mcp",
+  "install": "npx -y literature-memory-server-fastmcp-mcp"
+}

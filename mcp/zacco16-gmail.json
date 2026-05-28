@@ -1,0 +1,7 @@
+{
+  "name": "zacco16-gmail",
+  "description": "Integrates with Gmail API to enable email listing, reading, and filtering of emails.",
+  "source_repo": "zacco16/gmail-mcp-server",
+  "source_url": "https://github.com/zacco16/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

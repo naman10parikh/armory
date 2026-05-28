@@ -1,0 +1,7 @@
+{
+  "name": "e2b-dev-mcp-server-python",
+  "description": "Execute code securely in cloud sandboxes.",
+  "source_repo": "e2b-dev/mcp-server",
+  "source_url": "https://github.com/e2b-dev/mcp-server/tree/HEAD/packages/python",
+  "install": "# git clone --depth 1 https://github.com/e2b-dev/mcp-server/tree/HEAD/packages/python\n# See source for mcpServers config block"
+}

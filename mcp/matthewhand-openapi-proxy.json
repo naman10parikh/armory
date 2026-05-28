@@ -1,0 +1,7 @@
+{
+  "name": "matthewhand-openapi-proxy",
+  "description": "Dynamically exposes REST APIs defined by OpenAPI specifications as MCP tools, enabling seamless integration of external services into workflows.",
+  "source_repo": "matthewhand/mcp-openapi-proxy",
+  "source_url": "https://github.com/matthewhand/mcp-openapi-proxy",
+  "install": "# git clone --depth 1 https://github.com/matthewhand/mcp-openapi-proxy\n# See source for mcpServers config block"
+}

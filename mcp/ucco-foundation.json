@@ -1,0 +1,7 @@
+{
+  "name": "ucco-foundation",
+  "description": "Query the UCCO Foundation standard with structured, authoritative data about the UCCO classification system.",
+  "source_repo": "ucco-foundation/ucco-mcp",
+  "source_url": "https://github.com/ucco-foundation/ucco-mcp",
+  "install": "npx -y ucco-mcp"
+}

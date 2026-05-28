@@ -1,0 +1,7 @@
+{
+  "name": "notoriousarnav-eventhorizon",
+  "description": "Integrates with EventHorizon Django platform using Knox authentication to manage event lifecycles, registrations with approval workflows, and user profiles.",
+  "source_repo": "notoriousarnav/eventhorizon-mcp",
+  "source_url": "https://github.com/notoriousarnav/eventhorizon-mcp",
+  "install": "npx -y eventhorizon-mcp"
+}

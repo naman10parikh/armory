@@ -1,0 +1,7 @@
+{
+  "name": "skirano-rat-retrieval-augmented-thinking",
+  "description": "Combines DeepSeek's analysis with multiple response models to enhance AI conversation quality through structured two-stage reasoning.",
+  "source_repo": "newideas99/deepseek-thinking-claude-3.5-sonnet-cline-mcp",
+  "source_url": "https://github.com/newideas99/deepseek-thinking-claude-3.5-sonnet-cline-mcp",
+  "install": "npx -y deepseek-thinking-claude-3.5-sonnet-cline-mcp"
+}

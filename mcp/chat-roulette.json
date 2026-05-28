@@ -1,0 +1,7 @@
+{
+  "name": "chat-roulette",
+  "description": "Creates real-time chat rooms using tool calls and long-polling to enable chat roulette-style conversations between users through room-based pairing and message queuing.",
+  "source_repo": "hbd/mcp-chat",
+  "source_url": "https://github.com/hbd/mcp-chat",
+  "install": "# git clone --depth 1 https://github.com/hbd/mcp-chat\n# See source for mcpServers config block"
+}

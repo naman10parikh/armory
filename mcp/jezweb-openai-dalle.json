@@ -1,0 +1,7 @@
+{
+  "name": "jezweb-openai-dalle",
+  "description": "Integrates with OpenAI's DALL-E API to enable image generation with fine-grained control over parameters including model selection, size, quality, and style through a command-line interface.",
+  "source_repo": "jezweb/openai-mcp",
+  "source_url": "https://github.com/jezweb/openai-mcp",
+  "install": "npx -y openai-mcp"
+}

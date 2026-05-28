@@ -1,0 +1,7 @@
+{
+  "name": "wolfe-jam-grok-faf",
+  "description": "URL-based AI context management using IANA .faf format with 21 tools for project metadata across AI sessions.",
+  "source_repo": "wolfe-jam/grok-faf-mcp",
+  "source_url": "https://github.com/wolfe-jam/grok-faf-mcp",
+  "install": "npx -y grok-faf-mcp"
+}

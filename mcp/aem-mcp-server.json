@@ -1,0 +1,7 @@
+{
+  "name": "aem-mcp-server",
+  "description": "A full-featured MCP server for Adobe Experience Manager that enables non-technical users to manage AEM content, components, assets, and workflows via natural language through any MCP-compatible client.",
+  "source_repo": "easingthemes/aem-mcp-server",
+  "source_url": "https://github.com/easingthemes/aem-mcp-server",
+  "install": "npx -y aem-mcp-server"
+}

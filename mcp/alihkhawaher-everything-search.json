@@ -1,0 +1,7 @@
+{
+  "name": "alihkhawaher-everything-search",
+  "description": "Integrates with the Everything Search Engine to enable file search and management across large file systems using advanced query options and customizable result formatting.",
+  "source_repo": "alihkhawaher/everything-search-server",
+  "source_url": "https://github.com/alihkhawaher/everything-search-server",
+  "install": "# git clone --depth 1 https://github.com/alihkhawaher/everything-search-server\n# See source for mcpServers config block"
+}

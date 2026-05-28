@@ -1,0 +1,7 @@
+{
+  "name": "venice-mcp-server",
+  "description": "Provides 31 tools and 3 resources to access Venice's uncensored AI models for chat, image, video, audio, music, and more, enabling any MCP host to interact with the Venice API.",
+  "source_repo": "veniceai/venice-mcp-server",
+  "source_url": "https://github.com/veniceai/venice-mcp-server",
+  "install": "npx -y venice-mcp-server"
+}

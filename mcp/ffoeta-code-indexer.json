@@ -1,0 +1,7 @@
+{
+  "name": "ffoeta-code-indexer",
+  "description": "Local source code indexer for Python and Java with embedded SQLite storage.",
+  "source_repo": "ffoeta/mcp-indexer",
+  "source_url": "https://github.com/ffoeta/mcp-indexer",
+  "install": "# git clone --depth 1 https://github.com/ffoeta/mcp-indexer\n# See source for mcpServers config block"
+}

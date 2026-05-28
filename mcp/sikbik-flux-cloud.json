@@ -1,0 +1,7 @@
+{
+  "name": "sikbik-flux-cloud",
+  "description": "Integrates with Flux Cloud and FluxOS node APIs to manage decentralized application lifecycles, monitor performance metrics, handle file operations, and automate app registration workflows with cryptographic signing.",
+  "source_repo": "sikbik/fluxtools-skills-mcp",
+  "source_url": "https://github.com/sikbik/fluxtools-skills-mcp/tree/HEAD/flux-mcp",
+  "install": "npx -y fluxtools-skills-mcp"
+}

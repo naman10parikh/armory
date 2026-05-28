@@ -1,0 +1,7 @@
+{
+  "name": "forgesworn-rendezvous",
+  "description": "Finds fair meeting points for multiple participants using isochrone-based travel time calculations.",
+  "source_repo": "forgesworn/rendezvous-mcp",
+  "source_url": "https://github.com/forgesworn/rendezvous-mcp",
+  "install": "npx -y rendezvous-mcp"
+}

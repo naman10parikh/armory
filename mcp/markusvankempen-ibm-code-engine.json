@@ -1,0 +1,7 @@
+{
+  "name": "markusvankempen-ibm-code-engine",
+  "description": "Connect AI assistants to IBM Code Engine for project, app, build, job, and runtime management.",
+  "source_repo": "markusvankempen/code-engine-mcp-server",
+  "source_url": "https://github.com/markusvankempen/code-engine-mcp-server",
+  "install": "npx -y code-engine-mcp-server"
+}

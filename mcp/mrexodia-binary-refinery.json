@@ -1,0 +1,7 @@
+{
+  "name": "mrexodia-binary-refinery",
+  "description": "Provides access to Binary Refinery's malware analysis and reverse engineering toolkit for processing binary data, extracting artifacts from suspicious files, and performing complex data transformations in cybersecurity workflows.",
+  "source_repo": "mrexodia/binref-mcp",
+  "source_url": "https://github.com/mrexodia/binref-mcp",
+  "install": "npx -y binref-mcp"
+}

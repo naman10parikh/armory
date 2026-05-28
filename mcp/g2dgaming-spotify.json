@@ -1,0 +1,7 @@
+{
+  "name": "g2dgaming-spotify",
+  "description": "Integrates with Spotify API to enable music playback control, search functionality, and queue management through natural language conversation.",
+  "source_repo": "g2dgaming/spotify-mcp",
+  "source_url": "https://github.com/g2dgaming/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

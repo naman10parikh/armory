@@ -1,0 +1,7 @@
+{
+  "name": "nsantra-rag-document-search",
+  "description": "Provides document embedding, semantic search, and citation generation using ChromaDB vector storage with PDF ingestion, configurable chunking, cross-encoder reranking, and automatic source attribution for building knowledge bases and research assistants.",
+  "source_repo": "nsantra/rag-mcp-server",
+  "source_url": "https://github.com/nsantra/rag-mcp-server",
+  "install": "npx -y rag-mcp-server"
+}

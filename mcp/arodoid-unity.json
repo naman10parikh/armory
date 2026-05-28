@@ -1,0 +1,7 @@
+{
+  "name": "arodoid-unity",
+  "description": "Enables real-time interaction with Unity Editor projects for tasks like automated level design, asset management, and debugging assistance through C# command execution and editor state retrieval.",
+  "source_repo": "jackwrichards/unitymcp",
+  "source_url": "https://github.com/jackwrichards/unitymcp",
+  "install": "# git clone --depth 1 https://github.com/jackwrichards/unitymcp\n# See source for mcpServers config block"
+}

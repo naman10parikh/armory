@@ -1,0 +1,7 @@
+{
+  "name": "zhiweixu-excel",
+  "description": "Enables direct interaction with Excel files for reading sheet names, extracting data, and managing workbook caching to improve performance with large spreadsheets.",
+  "source_repo": "zhiwei5576/excel-mcp-server",
+  "source_url": "https://github.com/zhiwei5576/excel-mcp-server",
+  "install": "npx -y excel-mcp-server"
+}

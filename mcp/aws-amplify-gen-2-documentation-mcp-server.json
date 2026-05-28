@@ -1,0 +1,7 @@
+{
+  "name": "aws-amplify-gen-2-documentation-mcp-server",
+  "description": "An MCP server that provides comprehensive access to AWS Amplify Gen 2 Next.js documentation, enabling AI assistants to provide accurate, up-to-date guidance on building applications with Amplify.",
+  "source_repo": "Paretofilm/amplify-docs-mcp-server",
+  "source_url": "https://github.com/Paretofilm/amplify-docs-mcp-server",
+  "install": "npx -y amplify-docs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scarletlabs-votars",
+  "description": "Integrates with Votars platform to provide access to meeting transcripts, enabling retrieval and analysis of voice recordings through transcript fetching tools.",
+  "source_repo": "scarletlabs-ai/votars-mcp",
+  "source_url": "https://github.com/scarletlabs-ai/votars-mcp",
+  "install": "npx -y votars-mcp"
+}

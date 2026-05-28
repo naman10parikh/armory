@@ -1,0 +1,7 @@
+{
+  "name": "browsermcp-anchor-browser",
+  "description": "Provides remote browser automation with built-in proxy rotation and stealth capabilities through Anchor Browser's cloud infrastructure for web scraping, testing, and automated interactions that require residential proxy support and anti-detection features.",
+  "source_repo": "browsermcp-com/mcp",
+  "source_url": "https://github.com/browsermcp-com/mcp",
+  "install": "# git clone --depth 1 https://github.com/browsermcp-com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "default-privacy",
+  "description": "Anonymous LLC formation, privacy protocol directory, diagnostics, and business formation intake tools.",
+  "source_repo": "",
+  "source_url": "https://defaultprivacy.com",
+  "install": "# git clone --depth 1 https://defaultprivacy.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-daedalus-pcapy-ng",
+  "description": "Network packet capture and analysis using the pcapy-ng library.",
+  "source_repo": "daedalus/mcp-pcapy-ng",
+  "source_url": "https://github.com/daedalus/mcp-pcapy-ng",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-pcapy-ng\n# See source for mcpServers config block"
+}

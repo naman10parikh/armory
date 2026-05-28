@@ -1,0 +1,7 @@
+{
+  "name": "dcollaoa-bloodyad",
+  "description": "Provides Active Directory penetration testing and enumeration capabilities through a Docker-containerized wrapper around the bloodyAD tool, offering 26 specialized tools for AD reconnaissance, privilege escalation, and object manipulation with support for various authentication methods including Kerberos.",
+  "source_repo": "dcollaoa/bloodyad_mcp",
+  "source_url": "https://github.com/dcollaoa/bloodyad_mcp",
+  "install": "npx -y bloodyad_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "avansaber-tailtest-cline",
+  "description": "Adversarial test generation for AI coding sessions. Detects language and framework; writes tests; runs them; classifies failures via R12 (real_bug / environment / test_bug). Ships 8 adversarial scenario categories. Works in Cline directly and in 8+ editors via Cline host coverage. 162 plugin tests. MIT.",
+  "source_repo": "avansaber/tailtest-cline",
+  "source_url": "https://github.com/avansaber/tailtest-cline",
+  "install": "# git clone --depth 1 https://github.com/avansaber/tailtest-cline\n# See source for mcpServers config block"
+}

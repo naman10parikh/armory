@@ -1,0 +1,7 @@
+{
+  "name": "egoist-shell-command",
+  "description": "Secure shell command execution server that allows running system commands in a controlled environment through an allowlist system, returning results in YAML format.",
+  "source_repo": "egoist/shell-command-mcp",
+  "source_url": "https://github.com/egoist/shell-command-mcp",
+  "install": "npx -y shell-command-mcp"
+}

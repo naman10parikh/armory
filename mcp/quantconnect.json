@@ -1,0 +1,7 @@
+{
+  "name": "quantconnect",
+  "description": "Integrates with QuantConnect's algorithmic trading platform to enable complete trading algorithm development lifecycle including project management, backtesting, optimization, live deployment, and code assistance across 40+ specialized tools.",
+  "source_repo": "quantconnect/mcp-server",
+  "source_url": "https://github.com/quantconnect/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/quantconnect/mcp-server\n# See source for mcpServers config block"
+}

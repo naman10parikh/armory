@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-cra-compliance-mcp",
+  "description": "EU Cyber Resilience Act (Regulation 2024/2847) compliance tools for AI agents",
+  "source_repo": "csoai-org/cra-compliance-mcp",
+  "source_url": "https://github.com/csoai-org/cra-compliance-mcp",
+  "install": "npx -y cra-compliance-mcp"
+}

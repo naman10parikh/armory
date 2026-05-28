@@ -1,0 +1,7 @@
+{
+  "name": "gaoshan0971-digeguigui",
+  "description": "Global reptile & exotic pet knowledge base. 633 species, AI identification, genetics calculator, 12-dimension care, health diagnosis, pricing, and blockchain provenance. Free tier: 9 tools, 10 req/min. MCP: https://api.digeguigui.com/mcp",
+  "source_repo": "Gaoshan0971/digeguigui",
+  "source_url": "https://github.com/Gaoshan0971/digeguigui",
+  "install": "# git clone --depth 1 https://github.com/Gaoshan0971/digeguigui\n# See source for mcpServers config block"
+}

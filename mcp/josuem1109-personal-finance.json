@@ -1,0 +1,7 @@
+{
+  "name": "josuem1109-personal-finance",
+  "description": "Self-hosted, read-only server connecting bank accounts and investments via the Plaid API.",
+  "source_repo": "josuem1109/personal-finance-mcp",
+  "source_url": "https://github.com/josuem1109/personal-finance-mcp",
+  "install": "npx -y personal-finance-mcp"
+}

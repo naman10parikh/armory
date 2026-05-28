@@ -1,0 +1,7 @@
+{
+  "name": "yfinance-mcp-server-2",
+  "description": "Provides Yahoo Finance data including stock info, historical prices, dividends, financials, earnings, news, and more through a set of MCP tools, deployable on Azure Functions.",
+  "source_repo": "torosent/yfinance-mcp",
+  "source_url": "https://github.com/torosent/yfinance-mcp",
+  "install": "npx -y yfinance-mcp"
+}

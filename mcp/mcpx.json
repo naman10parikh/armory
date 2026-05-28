@@ -1,0 +1,7 @@
+{
+  "name": "mcpx",
+  "description": "Dynamic, reprogrammable MCP Server. You use it to discover and install other MCP servers from mcp.run, which then appear in your MCP Client ready to use - no additional configuration needed.",
+  "source_repo": "",
+  "source_url": "https://mcp.run",
+  "install": "# git clone --depth 1 https://mcp.run\n# See source for mcpServers config block"
+}

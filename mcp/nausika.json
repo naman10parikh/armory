@@ -1,0 +1,7 @@
+{
+  "name": "nausika",
+  "description": "Mediterranean marine forecasts, tides, anchorages, and sea routes for AI sailing assistants.",
+  "source_repo": "nausika-app/nausika-feedback",
+  "source_url": "https://github.com/nausika-app/nausika-feedback",
+  "install": "# git clone --depth 1 https://github.com/nausika-app/nausika-feedback\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "304techmaven-plaid-finance",
+  "description": "Provides a robust bridge to the Plaid financial API, enabling secure access to bank account data, transactions, and authentication flows for financial analysis and personal finance tracking.",
+  "source_repo": "304techmaven/plaid-mcp-server",
+  "source_url": "https://github.com/304techmaven/plaid-mcp-server",
+  "install": "npx -y plaid-mcp-server"
+}

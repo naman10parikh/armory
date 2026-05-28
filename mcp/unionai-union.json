@@ -1,0 +1,7 @@
+{
+  "name": "unionai-union",
+  "description": "Connects AI assistants to Union's tasks, workflows, and apps, enabling access to distributed computing capabilities through customizable tools and resources.",
+  "source_repo": "unionai-oss/union-mcp",
+  "source_url": "https://github.com/unionai-oss/union-mcp",
+  "install": "npx -y union-mcp"
+}

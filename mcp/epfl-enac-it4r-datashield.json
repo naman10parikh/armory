@@ -1,0 +1,7 @@
+{
+  "name": "epfl-enac-it4r-datashield",
+  "description": "Provides PICO methodology guidance for systematic reviews in health research.",
+  "source_repo": "epfl-enac/it4r-mcp",
+  "source_url": "https://github.com/epfl-enac/it4r-mcp",
+  "install": "npx -y it4r-mcp"
+}

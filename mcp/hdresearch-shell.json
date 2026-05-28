@@ -1,0 +1,7 @@
+{
+  "name": "hdresearch-shell",
+  "description": "Secure shell command execution server for AI models to interact with local systems while maintaining strict security controls.",
+  "source_repo": "hdresearch/mcp-shell",
+  "source_url": "https://github.com/hdresearch/mcp-shell",
+  "install": "# git clone --depth 1 https://github.com/hdresearch/mcp-shell\n# See source for mcpServers config block"
+}

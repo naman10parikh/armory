@@ -1,0 +1,7 @@
+{
+  "name": "unmarco-supatask",
+  "description": "Redis-based task management system with CRUD operations, time tracking, activity logging, and filtering capabilities",
+  "source_repo": "unmarco/supatask",
+  "source_url": "https://github.com/unmarco/supatask",
+  "install": "# git clone --depth 1 https://github.com/unmarco/supatask\n# See source for mcpServers config block"
+}

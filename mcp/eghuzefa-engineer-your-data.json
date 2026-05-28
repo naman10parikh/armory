@@ -1,0 +1,7 @@
+{
+  "name": "eghuzefa-engineer-your-data",
+  "description": "Data engineering tools for validation, transformation, visualization, and API integration",
+  "source_repo": "eghuzefa/engineer-your-data-mcp",
+  "source_url": "https://github.com/eghuzefa/engineer-your-data-mcp",
+  "install": "npx -y engineer-your-data-mcp"
+}

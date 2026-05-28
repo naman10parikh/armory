@@ -1,0 +1,7 @@
+{
+  "name": "lastmiao-pathscan",
+  "description": "Integrates dirsearch directory brute-forcing tool with Firecrawl web crawling services to enable automated discovery of hidden web directories, files, and endpoints for security researchers and penetration testers.",
+  "source_repo": "lastmiao/pathscan-mcp-server",
+  "source_url": "https://github.com/lastmiao/pathscan-mcp-server",
+  "install": "npx -y pathscan-mcp-server"
+}

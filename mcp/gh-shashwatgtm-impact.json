@@ -1,0 +1,7 @@
+{
+  "name": "gh-shashwatgtm-impact",
+  "description": "B2B positioning and messaging tools using the IMPACT framework by Shashwat Ghosh.",
+  "source_repo": "shashwatgtm/impact-mcp-server",
+  "source_url": "https://github.com/shashwatgtm/impact-mcp-server",
+  "install": "npx -y impact-mcp-server"
+}

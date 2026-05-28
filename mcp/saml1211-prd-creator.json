@@ -1,0 +1,7 @@
+{
+  "name": "saml1211-prd-creator",
+  "description": "Streamlines PRD creation and validation with TypeScript-based templates stored in SQLite, enabling product teams to generate consistent, high-quality documentation directly within conversations.",
+  "source_repo": "saml1211/prd-mcp-server",
+  "source_url": "https://github.com/saml1211/prd-mcp-server",
+  "install": "npx -y prd-mcp-server"
+}

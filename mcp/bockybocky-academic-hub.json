@@ -1,0 +1,7 @@
+{
+  "name": "bockybocky-academic-hub",
+  "description": "MCP server providing access to academic research resources, enabling AI assistants to search and retrieve scholarly content.",
+  "source_repo": "bockybocky/mcp-academic-hub",
+  "source_url": "https://github.com/bockybocky/mcp-academic-hub",
+  "install": "# git clone --depth 1 https://github.com/bockybocky/mcp-academic-hub\n# See source for mcpServers config block"
+}

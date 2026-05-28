@@ -1,0 +1,7 @@
+{
+  "name": "mcp-codemap",
+  "description": "Provides coding agents with a mental map of codebases via progressive disclosure, enabling efficient exploration of project structure and entity relationships.",
+  "source_repo": "breca/mcp-codemap",
+  "source_url": "https://github.com/breca/mcp-codemap",
+  "install": "# git clone --depth 1 https://github.com/breca/mcp-codemap\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "manpreet2000-mongodb-database",
+  "description": "Provides a bridge between MongoDB databases and natural language, enabling collection listing, document querying, record manipulation, and aggregate operations without writing complex queries.",
+  "source_repo": "manpreet2000/mcp-database-server",
+  "source_url": "https://github.com/manpreet2000/mcp-database-server",
+  "install": "# git clone --depth 1 https://github.com/manpreet2000/mcp-database-server\n# See source for mcpServers config block"
+}

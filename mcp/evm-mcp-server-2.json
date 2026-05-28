@@ -1,0 +1,7 @@
+{
+  "name": "evm-mcp-server-2",
+  "description": "Evm Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mcpdotdirect/evm-mcp-server",
+  "source_url": "https://mcp.so/server/evm-mcp-server/mcpdotdirect",
+  "install": "npx -y evm-mcp-server"
+}

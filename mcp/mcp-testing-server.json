@@ -1,0 +1,7 @@
+{
+  "name": "mcp-testing-server",
+  "description": "Mcp Testing Server MCP server listed on mcp.so.",
+  "source_repo": "dependencies-packagist/mcp-testing-server",
+  "source_url": "https://mcp.so/server/mcp-testing-server/dependencies-packagist",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-testing-server/dependencies-packagist\n# See source for mcpServers config block"
+}

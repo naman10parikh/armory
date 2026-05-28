@@ -1,0 +1,7 @@
+{
+  "name": "danielkennedy1-pdf-tools-mcp",
+  "description": "PDF download, view & manipulation utilities.",
+  "source_repo": "danielkennedy1/pdf-tools-mcp",
+  "source_url": "https://github.com/danielkennedy1/pdf-tools-mcp",
+  "install": "npx -y pdf-tools-mcp"
+}

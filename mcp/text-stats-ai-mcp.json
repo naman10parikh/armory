@@ -1,0 +1,7 @@
+{
+  "name": "text-stats-ai-mcp",
+  "description": "Provides text analysis tools including word counting, reading time estimation, keyword density analysis, and sentiment scoring.",
+  "source_repo": "CSOAI-ORG/text-stats-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/text-stats-ai-mcp",
+  "install": "npx -y text-stats-ai-mcp"
+}

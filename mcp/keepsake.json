@@ -1,0 +1,7 @@
+{
+  "name": "keepsake",
+  "description": "Personal CRM for managing contacts, tasks, notes, and relationships.",
+  "source_repo": "nicolascroce/keepsake-mcp",
+  "source_url": "https://github.com/nicolascroce/keepsake-mcp",
+  "install": "npx -y keepsake-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gregario-warhammer-oracle",
+  "description": "Warhammer 40K, Combat Patrol, and Kill Team rules reference with unit datasheets, keywords, phase sequences, and unit comparison.",
+  "source_repo": "gregario/warhammer-oracle",
+  "source_url": "https://github.com/gregario/warhammer-oracle",
+  "install": "# git clone --depth 1 https://github.com/gregario/warhammer-oracle\n# See source for mcpServers config block"
+}

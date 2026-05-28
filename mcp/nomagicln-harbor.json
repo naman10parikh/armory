@@ -1,0 +1,7 @@
+{
+  "name": "nomagicln-harbor",
+  "description": "Enables AI systems to manage Harbor container registry resources including projects, repositories, tags, and Helm charts for streamlined DevOps workflows.",
+  "source_repo": "nomagicln/mcp-harbor",
+  "source_url": "https://github.com/nomagicln/mcp-harbor",
+  "install": "# git clone --depth 1 https://github.com/nomagicln/mcp-harbor\n# See source for mcpServers config block"
+}

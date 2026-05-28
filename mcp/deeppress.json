@@ -1,0 +1,7 @@
+{
+  "name": "deeppress",
+  "description": "Dynamically generated MCP servers to talk to any site with a Wordpress API or RSS support.",
+  "source_repo": "",
+  "source_url": "https://deeppress.mnemonica.ai",
+  "install": "# git clone --depth 1 https://deeppress.mnemonica.ai\n# See source for mcpServers config block"
+}

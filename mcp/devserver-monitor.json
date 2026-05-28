@@ -1,0 +1,7 @@
+{
+  "name": "devserver-monitor",
+  "description": "Monitors development server processes and provides intelligent error categorization with file change correlation to identify which code changes caused specific errors and track error patterns over time.",
+  "source_repo": "mntlabs/devserver-mcp",
+  "source_url": "https://github.com/mntlabs/devserver-mcp",
+  "install": "npx -y devserver-mcp"
+}

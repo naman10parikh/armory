@@ -1,0 +1,7 @@
+{
+  "name": "dokmatiq-docgen",
+  "description": "Generate invoices, Excel files, and PDFs via the Dokmatiq document generation API.",
+  "source_repo": "dokmatiq/docgen-sdks",
+  "source_url": "https://github.com/dokmatiq/docgen-sdks",
+  "install": "# git clone --depth 1 https://github.com/dokmatiq/docgen-sdks\n# See source for mcpServers config block"
+}

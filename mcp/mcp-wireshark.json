@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wireshark",
+  "description": "Enables AI assistants to analyze, filter, and capture network traffic using Wireshark/tshark, allowing natural language interaction with packet captures.",
+  "source_repo": "khuynh22/mcp-wireshark",
+  "source_url": "https://github.com/khuynh22/mcp-wireshark",
+  "install": "# git clone --depth 1 https://github.com/khuynh22/mcp-wireshark\n# See source for mcpServers config block"
+}

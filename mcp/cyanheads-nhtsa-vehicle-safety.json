@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-nhtsa-vehicle-safety",
+  "description": "Vehicle safety data from NHTSA — recalls, complaints, crash ratings, investigations, and VIN decoding.",
+  "source_repo": "cyanheads/nhtsa-vehicle-safety-mcp-server",
+  "source_url": "https://github.com/cyanheads/nhtsa-vehicle-safety-mcp-server",
+  "install": "npx -y nhtsa-vehicle-safety-mcp-server"
+}

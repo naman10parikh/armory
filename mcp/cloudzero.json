@@ -1,0 +1,7 @@
+{
+  "name": "cloudzero",
+  "description": "Integrates with CloudZero's v2 API to enable direct querying of cloud cost data, dimensions, budgets, and insights for financial teams analyzing spending patterns and optimization opportunities.",
+  "source_repo": "burkestar/cloudzero-mcp",
+  "source_url": "https://github.com/burkestar/cloudzero-mcp",
+  "install": "npx -y cloudzero-mcp"
+}

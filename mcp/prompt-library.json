@@ -1,0 +1,7 @@
+{
+  "name": "prompt-library",
+  "description": "Saves and manages prompts locally as timestamped markdown files with chronological organization for building a persistent personal prompt library across sessions.",
+  "source_repo": "seungwonme/prompt-new-mcp",
+  "source_url": "https://github.com/seungwonme/prompt-new-mcp",
+  "install": "npx -y prompt-new-mcp"
+}

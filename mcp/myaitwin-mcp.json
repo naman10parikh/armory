@@ -1,0 +1,7 @@
+{
+  "name": "myaitwin-mcp",
+  "description": "Personal RAG database and semantic search built from inside your AI chat. Store knowledge, voice, and skills; Claude and ChatGPT create work that sounds like you.",
+  "source_repo": "LutoLabs/mytwin-mcp",
+  "source_url": "https://github.com/LutoLabs/mytwin-mcp",
+  "install": "npx -y mytwin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yaap",
+  "description": "Definition, documentation, samples for Yet Another Agent Protocol (YAAP)",
+  "source_repo": "bc3tech/yaap",
+  "source_url": "https://github.com/bc3tech/yaap",
+  "install": "# git clone --depth 1 https://github.com/bc3tech/yaap\n# See source for mcpServers config block"
+}

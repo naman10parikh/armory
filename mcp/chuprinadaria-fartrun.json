@@ -1,0 +1,7 @@
+{
+  "name": "chuprinadaria-fartrun",
+  "description": "Local code scanner with 29 tools for security vulnerability detection, health analysis, and dead code identification without cloud uploads.",
+  "source_repo": "chuprinadaria/vibecode-cleaner-fartrun",
+  "source_url": "https://github.com/chuprinadaria/vibecode-cleaner-fartrun",
+  "install": "# git clone --depth 1 https://github.com/chuprinadaria/vibecode-cleaner-fartrun\n# See source for mcpServers config block"
+}

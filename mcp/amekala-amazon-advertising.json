@@ -1,0 +1,7 @@
+{
+  "name": "amekala-amazon-advertising",
+  "description": "Integrates with Amazon Advertising API to provide marketers direct access to advertiser accounts, listings, and performance data through a simple command-line interface requiring only an API key for authentication.",
+  "source_repo": "amekala/adspirer-mcp-server",
+  "source_url": "https://github.com/amekala/adspirer-mcp-server",
+  "install": "npx -y adspirer-mcp-server"
+}

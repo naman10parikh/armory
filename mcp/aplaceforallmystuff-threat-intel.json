@@ -1,0 +1,7 @@
+{
+  "name": "aplaceforallmystuff-threat-intel",
+  "description": "Unified threat intelligence from OTX, AbuseIPDB, GreyNoise, and abuse.ch",
+  "source_repo": "aplaceforallmystuff/mcp-threatintel",
+  "source_url": "https://github.com/aplaceforallmystuff/mcp-threatintel",
+  "install": "# git clone --depth 1 https://github.com/aplaceforallmystuff/mcp-threatintel\n# See source for mcpServers config block"
+}

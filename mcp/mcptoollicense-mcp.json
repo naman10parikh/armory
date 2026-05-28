@@ -1,0 +1,7 @@
+{
+  "name": "mcptoollicense-mcp",
+  "description": "MCP tool license compliance checks with vendor policy review, alternatives, and license receipts.",
+  "source_repo": "clauxel/mcp-tool-license-gate",
+  "source_url": "https://github.com/clauxel/mcp-tool-license-gate",
+  "install": "# git clone --depth 1 https://github.com/clauxel/mcp-tool-license-gate\n# See source for mcpServers config block"
+}

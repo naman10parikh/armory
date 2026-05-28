@@ -1,0 +1,7 @@
+{
+  "name": "imply-druid-mcp",
+  "description": "A read-only MCP server for Imply Cloud/Druid databases, enabling AI assistants to execute SQL queries, list tables, and explore dashboards and data cubes.",
+  "source_repo": "yeongbin-hwang/imply-druid-mcp",
+  "source_url": "https://github.com/yeongbin-hwang/imply-druid-mcp",
+  "install": "npx -y imply-druid-mcp"
+}

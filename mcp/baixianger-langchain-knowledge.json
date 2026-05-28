@@ -1,0 +1,7 @@
+{
+  "name": "baixianger-langchain-knowledge",
+  "description": "Semantic search across LangChain, LangGraph, LangSmith, and DeepAgents documentation and source code.",
+  "source_repo": "baixianger/langchain-mcp",
+  "source_url": "https://github.com/baixianger/langchain-mcp/tree/HEAD/packages/mcp-server",
+  "install": "npx -y langchain-mcp"
+}

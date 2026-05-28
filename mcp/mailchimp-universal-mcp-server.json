@@ -1,0 +1,7 @@
+{
+  "name": "mailchimp-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Mailchimp's tools and services through the Model Context Protocol, enabling easy management of Mailchimp campaigns, audiences, and reports via natural language commands.",
+  "source_repo": "universal-mcp/mailchimp",
+  "source_url": "https://github.com/universal-mcp/mailchimp",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/mailchimp\n# See source for mcpServers config block"
+}

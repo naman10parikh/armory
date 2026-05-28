@@ -1,0 +1,7 @@
+{
+  "name": "actual-budget",
+  "description": "Integrates with Actual Budget to provide transaction filtering, spending breakdowns by category, monthly summaries with savings rates, and account balance history for budget analysis and financial insights.",
+  "source_repo": "s-stefanov/actual-mcp",
+  "source_url": "https://github.com/s-stefanov/actual-mcp",
+  "install": "npx -y actual-mcp"
+}

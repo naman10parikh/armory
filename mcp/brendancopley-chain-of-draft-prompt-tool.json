@@ -1,0 +1,7 @@
+{
+  "name": "brendancopley-chain-of-draft-prompt-tool",
+  "description": "Organizes prompts into structured, multi-step workflows through a chain execution system where outputs from one step become inputs for subsequent steps, enabling progressive refinement for complex tasks like research, code review, and documentation generation.",
+  "source_repo": "brendancopley/mcp-chain-of-draft-prompt-tool",
+  "source_url": "https://github.com/brendancopley/mcp-chain-of-draft-prompt-tool",
+  "install": "# git clone --depth 1 https://github.com/brendancopley/mcp-chain-of-draft-prompt-tool\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "robbrad-home-assistant",
+  "description": "Controls Home Assistant smart home devices through 40 AI tools covering lights, climate, covers, locks, media players, and vacuums.",
+  "source_repo": "robbrad/homeassistant-mcp",
+  "source_url": "https://github.com/robbrad/homeassistant-mcp",
+  "install": "npx -y homeassistant-mcp"
+}

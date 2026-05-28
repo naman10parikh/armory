@@ -1,0 +1,7 @@
+{
+  "name": "smartbear",
+  "description": "Integrates SmartBear's testing and monitoring tools",
+  "source_repo": "smartbear/smartbear-mcp",
+  "source_url": "https://github.com/smartbear/smartbear-mcp",
+  "install": "npx -y smartbear-mcp"
+}

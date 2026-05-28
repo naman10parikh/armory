@@ -1,0 +1,7 @@
+{
+  "name": "danielctc-ctc-monitor",
+  "description": "Aggregates global technology news from 500+ sources across China, Southeast Asia, India, MENA, Africa, and Latin America with relevance scoring.",
+  "source_repo": "danielctc/ctc-monitor-mcp",
+  "source_url": "https://github.com/danielctc/ctc-monitor-mcp",
+  "install": "npx -y ctc-monitor-mcp"
+}

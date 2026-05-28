@@ -1,0 +1,7 @@
+{
+  "name": "hieuttmmo-entraid",
+  "description": "Provides direct access to Microsoft Entra ID resources through the Graph API, enabling IT administrators to manage users, groups, applications, and security features without switching to the Azure portal.",
+  "source_repo": "hieuttmmo/entraid-mcp-server",
+  "source_url": "https://github.com/hieuttmmo/entraid-mcp-server",
+  "install": "npx -y entraid-mcp-server"
+}

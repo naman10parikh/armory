@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-guardrails",
+  "description": "Security guardrails layer for AI agent actions with policy enforcement.",
+  "source_repo": "expertvagabond/guardrails-mcp-server",
+  "source_url": "https://github.com/expertvagabond/guardrails-mcp-server",
+  "install": "npx -y guardrails-mcp-server"
+}

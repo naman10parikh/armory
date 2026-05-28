@@ -1,0 +1,7 @@
+{
+  "name": "ratamaha-git-n8n",
+  "description": "Community MCP server for n8n that provides workflow generation, linting, execution diagnosis, and live n8n instance management.",
+  "source_repo": "automatelab-tech/n8n-mcp",
+  "source_url": "https://github.com/automatelab-tech/n8n-mcp",
+  "install": "npx -y n8n-mcp"
+}

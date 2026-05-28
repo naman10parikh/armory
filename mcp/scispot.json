@@ -1,0 +1,7 @@
+{
+  "name": "scispot",
+  "description": "Lab information management system with Labsheet queries, electronic lab notebooks, storage tracking, and sample management.",
+  "source_repo": "scispot-repo/scispot-mcp-server",
+  "source_url": "https://github.com/scispot-repo/scispot-mcp-server",
+  "install": "npx -y scispot-mcp-server"
+}

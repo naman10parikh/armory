@@ -1,0 +1,7 @@
+{
+  "name": "wirternow-agent-bank",
+  "description": "Financial infrastructure for autonomous AI agents with self-custody wallets, USDC transfers, collateralized lending, job marketplace, and price negotiation on Polygon.",
+  "source_repo": "wirternow/ai-agent-bank-mcp-server",
+  "source_url": "https://github.com/wirternow/ai-agent-bank-mcp-server",
+  "install": "npx -y ai-agent-bank-mcp-server"
+}

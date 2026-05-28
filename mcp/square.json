@@ -1,0 +1,7 @@
+{
+  "name": "square",
+  "description": "Provides a bridge between Square's complete API ecosystem and conversational interfaces, enabling comprehensive e-commerce and payment processing capabilities including payments, orders, inventory, and customer management.",
+  "source_repo": "square/square-mcp-server",
+  "source_url": "https://github.com/square/square-mcp-server",
+  "install": "npx -y square-mcp-server"
+}

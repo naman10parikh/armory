@@ -1,0 +1,7 @@
+{
+  "name": "huggingface-mcp-server",
+  "description": "Huggingface Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "shreyaskarnik/huggingface-mcp-server",
+  "source_url": "https://mcp.so/server/huggingface-mcp-server/shreyaskarnik",
+  "install": "npx -y huggingface-mcp-server"
+}

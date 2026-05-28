@@ -1,0 +1,7 @@
+{
+  "name": "wn01011-llm-token-tracker",
+  "description": "Token usage tracker for OpenAI and Claude APIs with MCP support, real-time session tracking, and accurate pricing for 2025 models",
+  "source_repo": "wn01011/llm-token-tracker",
+  "source_url": "https://github.com/wn01011/llm-token-tracker",
+  "install": "# git clone --depth 1 https://github.com/wn01011/llm-token-tracker\n# See source for mcpServers config block"
+}

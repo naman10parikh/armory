@@ -1,0 +1,7 @@
+{
+  "name": "xdevplatform-xmcp",
+  "description": "Exposes the X API as MCP tools, enabling posting, searching, and managing content on X (formerly Twitter).",
+  "source_repo": "xdevplatform/xmcp",
+  "source_url": "https://github.com/xdevplatform/xmcp",
+  "install": "# git clone --depth 1 https://github.com/xdevplatform/xmcp\n# See source for mcpServers config block"
+}

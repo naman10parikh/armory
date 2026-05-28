@@ -1,0 +1,7 @@
+{
+  "name": "gh-scaratec-trellio",
+  "description": "Comprehensive Trello integration with 46+ tools for board, list, card, and member management.",
+  "source_repo": "scaratec/trellio-mcp",
+  "source_url": "https://github.com/scaratec/trellio-mcp",
+  "install": "npx -y trellio-mcp"
+}

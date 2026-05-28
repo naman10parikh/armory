@@ -1,0 +1,7 @@
+{
+  "name": "largefile",
+  "description": "Navigate, search, and edit large codebases, logs, and data files that exceed AI context limits.",
+  "source_repo": "peteretelej/largefile",
+  "source_url": "https://github.com/peteretelej/largefile",
+  "install": "# git clone --depth 1 https://github.com/peteretelej/largefile\n# See source for mcpServers config block"
+}

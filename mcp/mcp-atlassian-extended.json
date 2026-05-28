@@ -1,0 +1,7 @@
+{
+  "name": "mcp-atlassian-extended",
+  "description": "An MCP server that extends Jira and Confluence with tools for issue management, agile boards, attachments, and calendars.",
+  "source_repo": "vish288/mcp-atlassian-extended",
+  "source_url": "https://github.com/vish288/mcp-atlassian-extended",
+  "install": "# git clone --depth 1 https://github.com/vish288/mcp-atlassian-extended\n# See source for mcpServers config block"
+}

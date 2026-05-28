@@ -1,0 +1,7 @@
+{
+  "name": "bschoepke-ableton-live",
+  "description": "AI-driven control of Ableton Live DAW via natural language commands and direct Python execution.",
+  "source_repo": "bschoepke/ableton-live-mcp",
+  "source_url": "https://github.com/bschoepke/ableton-live-mcp",
+  "install": "npx -y ableton-live-mcp"
+}

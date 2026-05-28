@@ -1,0 +1,7 @@
+{
+  "name": "ericzakariasson-uber-eats",
+  "description": "Integrates with Uber Eats using browser automation to enable restaurant searches, menu exploration, and food order placement for applications requiring food delivery capabilities.",
+  "source_repo": "ericzakariasson/uber-eats-mcp-server",
+  "source_url": "https://github.com/ericzakariasson/uber-eats-mcp-server",
+  "install": "npx -y uber-eats-mcp-server"
+}

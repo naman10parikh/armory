@@ -1,0 +1,7 @@
+{
+  "name": "gh-jobxdubai-bubblyphone",
+  "description": "Control phone calls, voice agents, and billing on the BubblyPhone telephony platform.",
+  "source_repo": "jobxdubai/mcp-server",
+  "source_url": "https://github.com/jobxdubai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/jobxdubai/mcp-server\n# See source for mcpServers config block"
+}

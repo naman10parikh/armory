@@ -1,0 +1,7 @@
+{
+  "name": "gh-srivastsh-bay-area-transit",
+  "description": "Real-time BART and SF Muni transit data via hosted Cloudflare Workers endpoints.",
+  "source_repo": "srivastsh/bay-area-transit-mcp",
+  "source_url": "https://github.com/srivastsh/bay-area-transit-mcp",
+  "install": "npx -y bay-area-transit-mcp"
+}

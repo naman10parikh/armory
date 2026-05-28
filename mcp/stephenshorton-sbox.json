@@ -1,0 +1,7 @@
+{
+  "name": "stephenshorton-sbox",
+  "description": "Manipulates the s&box game engine editor with scene editing, component management, and asset integration.",
+  "source_repo": "stephenshorton/sbox-mcp",
+  "source_url": "https://github.com/stephenshorton/sbox-mcp",
+  "install": "npx -y sbox-mcp"
+}

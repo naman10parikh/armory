@@ -1,0 +1,7 @@
+{
+  "name": "quail-cli",
+  "description": "Quail Cli MCP server listed on mcp.so.",
+  "source_repo": "quailyquaily/quail-cli",
+  "source_url": "https://mcp.so/server/quail-cli/quailyquaily",
+  "install": "# git clone --depth 1 https://mcp.so/server/quail-cli/quailyquaily\n# See source for mcpServers config block"
+}

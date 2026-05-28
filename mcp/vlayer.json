@@ -1,0 +1,7 @@
+{
+  "name": "vlayer",
+  "description": "HIPAA compliance scanner for healthcare software. Automatically detect PHI exposure, encryption gaps, audit logging issues, and access control violations in your codebase. Scan code, get compliance scores, and receive auto-fix suggestions.",
+  "source_repo": "",
+  "source_url": "https://vlayer.app",
+  "install": "# git clone --depth 1 https://vlayer.app\n# See source for mcpServers config block"
+}

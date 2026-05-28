@@ -1,0 +1,7 @@
+{
+  "name": "cognitive-stack-azure-form-recognizer",
+  "description": "Integrates with Azure Form Recognizer to extract structured data from documents including receipts, invoices, ID documents, and business cards for automated document processing workflows.",
+  "source_repo": "cognitive-stack/orion-vision-mcp",
+  "source_url": "https://github.com/cognitive-stack/orion-vision-mcp",
+  "install": "npx -y orion-vision-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-mizukaizen-hive-doctrine",
+  "description": "Agent knowledge marketplace with 294 products for multi-agent systems, memory architecture, and polytheistic AI safety.",
+  "source_repo": "mizukaizen/hive-doctrine-mcp",
+  "source_url": "https://github.com/mizukaizen/hive-doctrine-mcp",
+  "install": "npx -y hive-doctrine-mcp"
+}

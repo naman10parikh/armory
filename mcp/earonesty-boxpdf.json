@@ -1,0 +1,7 @@
+{
+  "name": "earonesty-boxpdf",
+  "description": "Resource server exposing BoxPDF library documentation and PDF layout templates to AI agents.",
+  "source_repo": "earonesty/boxpdf",
+  "source_url": "https://github.com/earonesty/boxpdf",
+  "install": "# git clone --depth 1 https://github.com/earonesty/boxpdf\n# See source for mcpServers config block"
+}

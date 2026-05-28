@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-8",
+  "description": "A lightweight bridge connecting LLMs to real-world APIs like finance, weather, news, and GitHub through Anthropic's Model Context Protocol, enabling unified access and intelligent query routing.",
+  "source_repo": "Rushhaabhhh/MCP-Server",
+  "source_url": "https://github.com/Rushhaabhhh/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/Rushhaabhhh/MCP-Server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meghp89-mcpx",
+  "description": "Rust MCP proxy server for detecting schema changes and preventing tool poisoning attacks across MCP tool definitions.",
+  "source_repo": "meghp89/mcpx",
+  "source_url": "https://github.com/meghp89/mcpx",
+  "install": "# git clone --depth 1 https://github.com/meghp89/mcpx\n# See source for mcpServers config block"
+}

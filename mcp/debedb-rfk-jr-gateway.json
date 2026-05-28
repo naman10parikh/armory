@@ -1,0 +1,7 @@
+{
+  "name": "debedb-rfk-jr-gateway",
+  "description": "Bridges campaign tools and data to enable dynamic tool registration, endpoint discovery, and information retrieval for RFK Jr's presidential campaign.",
+  "source_repo": "voitta-ai/mcp-voitta-gateway",
+  "source_url": "https://github.com/voitta-ai/mcp-voitta-gateway",
+  "install": "# git clone --depth 1 https://github.com/voitta-ai/mcp-voitta-gateway\n# See source for mcpServers config block"
+}

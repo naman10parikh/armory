@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-delovye-linii",
+  "description": "Integrates with Delovye Linii (Dellin) logistics API for shipping cost calculation, city search, and order tracking.",
+  "source_repo": "theyahia/delovye-linii-mcp",
+  "source_url": "https://github.com/theyahia/delovye-linii-mcp",
+  "install": "npx -y delovye-linii-mcp"
+}

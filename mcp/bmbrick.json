@@ -1,0 +1,7 @@
+{
+  "name": "bmbrick",
+  "description": "Convert local images into LEGO-style brick mosaic previews with AI-powered color quantization.",
+  "source_repo": "able-rip/bmbrick-photo-to-lego-mosaic-skill",
+  "source_url": "https://github.com/able-rip/bmbrick-photo-to-lego-mosaic-skill",
+  "install": "# git clone --depth 1 https://github.com/able-rip/bmbrick-photo-to-lego-mosaic-skill\n# See source for mcpServers config block"
+}

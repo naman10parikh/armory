@@ -1,0 +1,7 @@
+{
+  "name": "glips-figma-context",
+  "description": "Integrates with Figma's design platform API to enable AI-driven design operations, asset management, and team collaboration within Figma workflows.",
+  "source_repo": "glips/figma-context-mcp",
+  "source_url": "https://github.com/glips/figma-context-mcp",
+  "install": "npx -y figma-context-mcp"
+}

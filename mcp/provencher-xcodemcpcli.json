@@ -1,0 +1,7 @@
+{
+  "name": "provencher-xcodemcpcli",
+  "description": "Command-line client that serializes Xcode build, test, and launch commands through a shared background daemon.",
+  "source_repo": "provencher/xcodemcpcli",
+  "source_url": "https://github.com/provencher/xcodemcpcli",
+  "install": "# git clone --depth 1 https://github.com/provencher/xcodemcpcli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "n24q02m-imagine",
+  "description": "Image and video understanding and generation via Gemini, OpenAI, and Grok APIs.",
+  "source_repo": "n24q02m/imagine-mcp",
+  "source_url": "https://github.com/n24q02m/imagine-mcp",
+  "install": "npx -y imagine-mcp"
+}

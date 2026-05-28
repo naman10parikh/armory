@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-watsonx",
+  "description": "Text generation, multi-turn chat, and embeddings via IBM watsonx.ai Doubao models.",
+  "source_repo": "expertvagabond/watsonx-mcp-server",
+  "source_url": "https://github.com/expertvagabond/watsonx-mcp-server",
+  "install": "npx -y watsonx-mcp-server"
+}

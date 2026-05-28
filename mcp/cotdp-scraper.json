@@ -1,0 +1,7 @@
+{
+  "name": "cotdp-scraper",
+  "description": "Extracts content from websites through four core tools for HTML scraping, markdown conversion, text extraction, and link discovery with batch processing, caching, proxy support, and CSS selector filtering for reliable web content extraction and research automation.",
+  "source_repo": "cotdp/scraper-mcp",
+  "source_url": "https://github.com/cotdp/scraper-mcp",
+  "install": "npx -y scraper-mcp"
+}

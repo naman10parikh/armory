@@ -1,0 +1,7 @@
+{
+  "name": "johnneerdael-netskope-private-access",
+  "description": "Integrates with Netskope API to manage private access infrastructure, enabling automated publisher lifecycle, app configuration, policy creation, and traffic diagnostics.",
+  "source_repo": "johnneerdael/privateaccess-mcp",
+  "source_url": "https://github.com/johnneerdael/privateaccess-mcp",
+  "install": "npx -y privateaccess-mcp"
+}

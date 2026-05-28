@@ -1,0 +1,7 @@
+{
+  "name": "gregario-lego-oracle",
+  "description": "Queries the Rebrickable LEGO catalog for sets, parts, minifigures, themes, and community alternate builds.",
+  "source_repo": "gregario/lego-oracle",
+  "source_url": "https://github.com/gregario/lego-oracle",
+  "install": "# git clone --depth 1 https://github.com/gregario/lego-oracle\n# See source for mcpServers config block"
+}

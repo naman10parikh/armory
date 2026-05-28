@@ -1,0 +1,7 @@
+{
+  "name": "buildpulse",
+  "description": "CI test analytics for identifying flaky tests, tracking coverage, and reviewing CI run history.",
+  "source_repo": "buildpulsellc/buildpulse-mcp",
+  "source_url": "https://github.com/buildpulsellc/buildpulse-mcp",
+  "install": "npx -y buildpulse-mcp"
+}

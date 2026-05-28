@@ -1,0 +1,7 @@
+{
+  "name": "davinci-mcp-server",
+  "description": "Enables AI assistants to manage and troubleshoot PingOne DaVinci identity orchestration flows, applications, connectors, variables, and forms through standardized MCP tools.",
+  "source_repo": "pingidentity/davinci-mcp-server",
+  "source_url": "https://github.com/pingidentity/davinci-mcp-server",
+  "install": "npx -y davinci-mcp-server"
+}

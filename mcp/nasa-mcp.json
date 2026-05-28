@@ -1,0 +1,7 @@
+{
+  "name": "nasa-mcp",
+  "description": "Nasa Mcp MCP server listed on mcp.so.",
+  "source_repo": "liuwanglei-tal/nasa-mcp",
+  "source_url": "https://mcp.so/server/nasa-mcp/liuwanglei-tal",
+  "install": "npx -y nasa-mcp"
+}

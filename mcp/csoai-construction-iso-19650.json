@@ -1,0 +1,7 @@
+{
+  "name": "csoai-construction-iso-19650",
+  "description": "ISO 19650 and UK BIM Level 2 compliance for construction projects covering EIR, BEP, MIDP, TIDP, and CDE standards.",
+  "source_repo": "csoai-org/construction-iso-19650-mcp",
+  "source_url": "https://github.com/csoai-org/construction-iso-19650-mcp",
+  "install": "npx -y construction-iso-19650-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hongwenwang36-eng-ansys-workbench",
+  "description": "Automates Ansys Workbench, Mechanical, and MAPDL simulation workflows through scripted journals and batch processing via MCP tools.",
+  "source_repo": "hongwenwang36-eng/ansys-workbench-mcp",
+  "source_url": "https://github.com/hongwenwang36-eng/ansys-workbench-mcp",
+  "install": "npx -y ansys-workbench-mcp"
+}

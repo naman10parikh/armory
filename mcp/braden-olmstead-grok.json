@@ -1,0 +1,7 @@
+{
+  "name": "braden-olmstead-grok",
+  "description": "Provides direct integration with Grok AI's language and vision capabilities, exposing chat completion, image understanding, and function calling tools for developers to interact with Grok's latest models.",
+  "source_repo": "bob-lance/grok-mcp",
+  "source_url": "https://github.com/bob-lance/grok-mcp",
+  "install": "npx -y grok-mcp"
+}

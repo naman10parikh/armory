@@ -1,0 +1,7 @@
+{
+  "name": "code-audit-ollama",
+  "description": "Provides local code auditing using Ollama models to analyze security vulnerabilities, performance bottlenecks, quality issues, architectural problems, testing gaps, and documentation deficiencies across multiple programming languages with configurable analysis depth and severity classification.",
+  "source_repo": "moikas-code/code-audit-mcp",
+  "source_url": "https://github.com/moikas-code/code-audit-mcp",
+  "install": "npx -y code-audit-mcp"
+}

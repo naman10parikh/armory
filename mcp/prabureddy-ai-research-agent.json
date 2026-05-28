@@ -1,0 +1,7 @@
+{
+  "name": "prabureddy-ai-research-agent",
+  "description": "Autonomous research agent that combines web search, document indexing, code execution, and workspace management to gather information, analyze data with Python libraries, and generate comprehensive reports with self-evaluation metrics.",
+  "source_repo": "prabureddy/ai-research-agent-mcp",
+  "source_url": "https://github.com/prabureddy/ai-research-agent-mcp",
+  "install": "npx -y ai-research-agent-mcp"
+}

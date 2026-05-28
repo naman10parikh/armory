@@ -1,0 +1,7 @@
+{
+  "name": "velog-mcp",
+  "description": "Enables AI assistants to read, search, and write Velog blog posts. Supports post management, trending, and series/profile retrieval.",
+  "source_repo": "stoneHee99/velog-mcp",
+  "source_url": "https://github.com/stoneHee99/velog-mcp",
+  "install": "npx -y velog-mcp"
+}

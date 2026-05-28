@@ -1,0 +1,7 @@
+{
+  "name": "krasun-apple-notes",
+  "description": "Connects AI with Apple Notes on macOS, enabling retrieval, creation, and search of notes without leaving your workflow.",
+  "source_repo": "krasun/notes-mcp",
+  "source_url": "https://github.com/krasun/notes-mcp",
+  "install": "npx -y notes-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jayarrowz-osrs-wiki",
+  "description": "Provides tools for accessing Old School RuneScape game data through wiki searches and structured file queries with pagination support",
+  "source_repo": "jayarrowz/mcp-osrs",
+  "source_url": "https://github.com/jayarrowz/mcp-osrs",
+  "install": "# git clone --depth 1 https://github.com/jayarrowz/mcp-osrs\n# See source for mcpServers config block"
+}

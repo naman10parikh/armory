@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-signupgenius",
+  "description": "Manage SignUpGenius sign-ups, slot reports, and groups via the API from AI agents.",
+  "source_repo": "chrischall/signupgenius-mcp",
+  "source_url": "https://github.com/chrischall/signupgenius-mcp",
+  "install": "npx -y signupgenius-mcp"
+}

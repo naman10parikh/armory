@@ -1,0 +1,7 @@
+{
+  "name": "areso-safe-ssh",
+  "description": "Executes curated read-only diagnostic commands over SSH for safe remote system monitoring.",
+  "source_repo": "areso/safe-ssh-mcp",
+  "source_url": "https://github.com/areso/safe-ssh-mcp",
+  "install": "npx -y safe-ssh-mcp"
+}

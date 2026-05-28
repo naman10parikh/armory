@@ -1,0 +1,7 @@
+{
+  "name": "rwestergren-cronometer",
+  "description": "Access Cronometer nutrition data including diary entries, macros, food search, and fasting history via the mobile API.",
+  "source_repo": "rwestergren/cronometer-api-mcp",
+  "source_url": "https://github.com/rwestergren/cronometer-api-mcp",
+  "install": "npx -y cronometer-api-mcp"
+}

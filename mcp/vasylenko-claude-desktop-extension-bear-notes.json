@@ -1,0 +1,7 @@
+{
+  "name": "vasylenko-claude-desktop-extension-bear-notes",
+  "description": "Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy.",
+  "source_repo": "vasylenko/claude-desktop-extension-bear-notes",
+  "source_url": "https://github.com/vasylenko/claude-desktop-extension-bear-notes",
+  "install": "# git clone --depth 1 https://github.com/vasylenko/claude-desktop-extension-bear-notes\n# See source for mcpServers config block"
+}

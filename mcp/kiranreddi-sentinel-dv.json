@@ -1,0 +1,7 @@
+{
+  "name": "kiranreddi-sentinel-dv",
+  "description": "Security-first access to SystemVerilog/UVM/cocotb verification intelligence with 14 specialized tools for test analysis, coverage metrics, assertion data, and regression trends.",
+  "source_repo": "kiranreddi/sentinel-dv",
+  "source_url": "https://github.com/kiranreddi/sentinel-dv",
+  "install": "# git clone --depth 1 https://github.com/kiranreddi/sentinel-dv\n# See source for mcpServers config block"
+}

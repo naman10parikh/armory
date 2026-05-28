@@ -1,0 +1,7 @@
+{
+  "name": "kingdomseed-structured-workflow",
+  "description": "Provides structured workflow guidance for disciplined software engineering practices through four specialized methodologies (refactoring, feature creation, test writing, and test-driven development) with phase-specific validation, file operation safety rules, and session state tracking for systematic code development.",
+  "source_repo": "kingdomseed/structured-workflow",
+  "source_url": "https://github.com/kingdomseed/structured-workflow",
+  "install": "# git clone --depth 1 https://github.com/kingdomseed/structured-workflow\n# See source for mcpServers config block"
+}

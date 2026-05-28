@@ -1,0 +1,7 @@
+{
+  "name": "akramiot-mcp-ai-soc-sher",
+  "description": "MCP Server to do dynamic AI SOC Security Threat analysis for a Text2SQL AI Agent.",
+  "source_repo": "akramIOT/MCP_AI_SOC_Sher",
+  "source_url": "https://github.com/akramIOT/MCP_AI_SOC_Sher",
+  "install": "# git clone --depth 1 https://github.com/akramIOT/MCP_AI_SOC_Sher\n# See source for mcpServers config block"
+}

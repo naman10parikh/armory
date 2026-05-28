@@ -1,0 +1,7 @@
+{
+  "name": "badchars-osint-recon",
+  "description": "Unified OSINT and reconnaissance intelligence aggregating 12 data sources into 37 tools.",
+  "source_repo": "badchars/osint-mcp-server",
+  "source_url": "https://github.com/badchars/osint-mcp-server",
+  "install": "npx -y osint-mcp-server"
+}

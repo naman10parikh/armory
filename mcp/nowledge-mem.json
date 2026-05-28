@@ -1,0 +1,7 @@
+{
+  "name": "nowledge-mem",
+  "description": "Persistent memory and knowledge management with semantic search",
+  "source_repo": "nowledge-co/claude-dxt",
+  "source_url": "https://github.com/nowledge-co/claude-dxt",
+  "install": "# git clone --depth 1 https://github.com/nowledge-co/claude-dxt\n# See source for mcpServers config block"
+}

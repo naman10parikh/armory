@@ -1,0 +1,7 @@
+{
+  "name": "stass-exif-metadata",
+  "description": "Extracts and analyzes image metadata offline from JPEG, PNG, TIFF, and HEIC formats, providing tools for reading EXIF, GPS, XMP, and other data segments without external dependencies.",
+  "source_repo": "stass/exif-mcp",
+  "source_url": "https://github.com/stass/exif-mcp",
+  "install": "npx -y exif-mcp"
+}

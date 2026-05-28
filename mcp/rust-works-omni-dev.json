@@ -1,0 +1,7 @@
+{
+  "name": "rust-works-omni-dev",
+  "description": "MCP server for Atlassian Jira and Confluence with schema-validated Markdown↔ADF conversion. Catches content-model violations at conversion time rather than silently dropping ADF-only nodes like panels, mentions, and layouts.",
+  "source_repo": "rust-works/omni-dev",
+  "source_url": "https://github.com/rust-works/omni-dev",
+  "install": "# git clone --depth 1 https://github.com/rust-works/omni-dev\n# See source for mcpServers config block"
+}

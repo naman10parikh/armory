@@ -1,0 +1,7 @@
+{
+  "name": "a2a-ollama",
+  "description": "Integration of A2A protocol with Ollama",
+  "source_repo": "CorticalFlow/a2a-ollama",
+  "source_url": "https://github.com/CorticalFlow/a2a-ollama",
+  "install": "# git clone --depth 1 https://github.com/CorticalFlow/a2a-ollama\n# See source for mcpServers config block"
+}

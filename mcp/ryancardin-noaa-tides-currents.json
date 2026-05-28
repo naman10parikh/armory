@@ -1,0 +1,7 @@
+{
+  "name": "ryancardin-noaa-tides-currents",
+  "description": "Integrates with NOAA's oceanographic and meteorological APIs to provide access to water level data, tide predictions, currents, weather measurements, station information, and celestial calculations for maritime applications.",
+  "source_repo": "ryancardin15/noaa-tidesandcurrents-mcp",
+  "source_url": "https://github.com/ryancardin15/noaa-tidesandcurrents-mcp",
+  "install": "npx -y noaa-tidesandcurrents-mcp"
+}

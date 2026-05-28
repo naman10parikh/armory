@@ -1,0 +1,7 @@
+{
+  "name": "groundlens-mcp",
+  "description": "Enables hallucination detection for AI assistants by providing tools to assess whether responses are grounded in source material or follow grounded patterns.",
+  "source_repo": "groundlens-dev/groundlens-mcp",
+  "source_url": "https://github.com/groundlens-dev/groundlens-mcp",
+  "install": "npx -y groundlens-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iqms-mcp",
+  "description": "MCP server for IQMS / DELMIAworks (EnterpriseIQ) — read manufacturing ERP data via Oracle and post transactional updates via the WebAPI module.",
+  "source_repo": "wyre-technology/iqms-mcp",
+  "source_url": "https://github.com/wyre-technology/iqms-mcp",
+  "install": "npx -y iqms-mcp"
+}

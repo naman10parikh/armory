@@ -1,0 +1,7 @@
+{
+  "name": "aliafsahnoudeh-wildfire-mcp-server",
+  "description": "MCP server for detecting, monitoring, and analyzing potential wildfires globally using multiple data sources including NASA FIRMS, OpenWeatherMap, and Google Earth Engine.",
+  "source_repo": "aliafsahnoudeh/wildfire-mcp-server",
+  "source_url": "https://github.com/aliafsahnoudeh/wildfire-mcp-server",
+  "install": "npx -y wildfire-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "leoncuhk-yahoo-finance",
+  "description": "Provides real-time financial data and visualization tools through Yahoo Finance API for stock prices, company information, and market analysis with interactive charts and dashboards.",
+  "source_repo": "leoncuhk/mcp-yahoo-finance",
+  "source_url": "https://github.com/leoncuhk/mcp-yahoo-finance",
+  "install": "# git clone --depth 1 https://github.com/leoncuhk/mcp-yahoo-finance\n# See source for mcpServers config block"
+}

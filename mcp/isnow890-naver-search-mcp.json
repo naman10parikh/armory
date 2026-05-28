@@ -1,0 +1,7 @@
+{
+  "name": "isnow890-naver-search-mcp",
+  "description": "MCP server for Naver Search API integration, supporting blog, news, shopping search and DataLab analytics features.",
+  "source_repo": "isnow890/naver-search-mcp",
+  "source_url": "https://github.com/isnow890/naver-search-mcp",
+  "install": "npx -y naver-search-mcp"
+}

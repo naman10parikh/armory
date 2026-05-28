@@ -1,0 +1,7 @@
+{
+  "name": "howrisky",
+  "description": "Financial risk analysis with Monte Carlo simulations and fat-tail modeling for portfolio analysis, startup equity valuation, real estate investment analysis, and Kelly criterion betting strategies.",
+  "source_repo": "howrisky/howrisky-mcp-server",
+  "source_url": "https://github.com/howrisky/howrisky-mcp-server",
+  "install": "npx -y howrisky-mcp-server"
+}

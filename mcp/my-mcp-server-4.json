@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp-server-4",
+  "description": "Demonstrates an MCP server with a vulnerable add tool protected by SonnyLabs prompt injection detection.",
+  "source_repo": "SonnyLabs/mcp_server_example",
+  "source_url": "https://github.com/SonnyLabs/mcp_server_example",
+  "install": "# git clone --depth 1 https://github.com/SonnyLabs/mcp_server_example\n# See source for mcpServers config block"
+}

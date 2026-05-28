@@ -1,0 +1,7 @@
+{
+  "name": "sophymarine-openregistry",
+  "description": "Connects AI agents to official company registry data from 30 countries for due diligence, ownership analysis, and business verification.",
+  "source_repo": "sophymarine/openregistry",
+  "source_url": "https://github.com/sophymarine/openregistry",
+  "install": "# git clone --depth 1 https://github.com/sophymarine/openregistry\n# See source for mcpServers config block"
+}

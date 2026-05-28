@@ -1,0 +1,7 @@
+{
+  "name": "prathammanocha-wordpress-manager",
+  "description": "Enables AI to manage WordPress sites by providing tools for creating and updating posts, managing users, and retrieving content through authenticated API interactions",
+  "source_repo": "prathammanocha/wordpress-mcp-server",
+  "source_url": "https://github.com/prathammanocha/wordpress-mcp-server",
+  "install": "npx -y wordpress-mcp-server"
+}

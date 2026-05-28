@@ -1,0 +1,7 @@
+{
+  "name": "moonlabsai-enrichb2b",
+  "description": "Integrates with EnrichB2B API to provide real-time LinkedIn data access for B2B research, sales intelligence, and professional networking analysis.",
+  "source_repo": "moonlabsai/enrich_b2b_mcp",
+  "source_url": "https://github.com/moonlabsai/enrich_b2b_mcp",
+  "install": "npx -y enrich_b2b_mcp"
+}

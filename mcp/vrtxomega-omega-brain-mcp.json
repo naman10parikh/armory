@@ -1,0 +1,7 @@
+{
+  "name": "vrtxomega-omega-brain-mcp",
+  "description": "Omega Brain MCP Server. Hardened AI execution pipeline prioritizing NAEF logic constraints over narrative LLM hallucination. 15 VERITAS Build Gates for uncompromising determinism, semantic vault integration, and Tri-Node Cortex validations.",
+  "source_repo": "VrtxOmega/omega-brain-mcp",
+  "source_url": "https://github.com/VrtxOmega/omega-brain-mcp",
+  "install": "npx -y omega-brain-mcp"
+}

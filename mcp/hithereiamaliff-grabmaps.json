@@ -1,0 +1,7 @@
+{
+  "name": "hithereiamaliff-grabmaps",
+  "description": "Integrates GrabMaps services through AWS Location Service to provide geocoding, place search, route calculation, and map visualization specifically for Southeast Asian markets including Malaysia, Singapore, Thailand, Myanmar, Cambodia, Vietnam, Philippines, and Indonesia.",
+  "source_repo": "hithereiamaliff/mcp-grabmaps",
+  "source_url": "https://github.com/hithereiamaliff/mcp-grabmaps",
+  "install": "# git clone --depth 1 https://github.com/hithereiamaliff/mcp-grabmaps\n# See source for mcpServers config block"
+}

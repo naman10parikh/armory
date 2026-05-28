@@ -1,0 +1,7 @@
+{
+  "name": "tencent-edgeone-pages",
+  "description": "Enables rapid deployment of HTML content to Tencent's EdgeOne Pages service with integrated Functions and KV store support for edge hosting",
+  "source_repo": "tencentedgeone/edgeone-pages-mcp",
+  "source_url": "https://github.com/tencentedgeone/edgeone-pages-mcp",
+  "install": "npx -y edgeone-pages-mcp"
+}

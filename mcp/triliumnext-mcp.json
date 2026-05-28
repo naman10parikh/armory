@@ -1,0 +1,7 @@
+{
+  "name": "triliumnext-mcp",
+  "description": "A Model Context Protocol (MCP) server for interacting with TriliumNext via its ETAPI. Enables LLMs to create, read, update, and organize notes, including embedding images and files directly into note content.",
+  "source_repo": "perfectra1n/triliumnext-mcp",
+  "source_url": "https://github.com/perfectra1n/triliumnext-mcp",
+  "install": "npx -y triliumnext-mcp"
+}

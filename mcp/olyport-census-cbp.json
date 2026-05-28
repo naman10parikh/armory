@@ -1,0 +1,7 @@
+{
+  "name": "olyport-census-cbp",
+  "description": "Establishment counts, employment, and payroll by geography and industry from the U.S. Census County Business Patterns dataset.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/census-cbp/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/census-cbp/mcp\n# See source for mcpServers config block"
+}

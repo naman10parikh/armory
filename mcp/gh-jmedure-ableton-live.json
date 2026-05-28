@@ -1,0 +1,7 @@
+{
+  "name": "gh-jmedure-ableton-live",
+  "description": "Controls Ableton Live for music production workflows.",
+  "source_repo": "jmedure/talkback-mcp",
+  "source_url": "https://github.com/jmedure/talkback-mcp",
+  "install": "npx -y talkback-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pimea",
+  "description": "AI-powered knowledge extraction and contextual search platform for querying and retrieving insights from connected data sources.",
+  "source_repo": "",
+  "source_url": "https://pimea.ai",
+  "install": "# git clone --depth 1 https://pimea.ai\n# See source for mcpServers config block"
+}

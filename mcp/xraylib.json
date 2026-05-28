@@ -1,0 +1,7 @@
+{
+  "name": "xraylib",
+  "description": "Provides access to X-ray interaction data from the xraylib scientific library.",
+  "source_repo": "tschoonj/xraylib-mcp-server",
+  "source_url": "https://github.com/tschoonj/xraylib-mcp-server",
+  "install": "npx -y xraylib-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mehulvyas911-eng-majestic-ai",
+  "description": "Python MCP server with 50+ cybersecurity automation tools for authorized penetration testing and CTF challenges.",
+  "source_repo": "mehulvyas911-eng/majestic-ai",
+  "source_url": "https://github.com/mehulvyas911-eng/majestic-ai",
+  "install": "# git clone --depth 1 https://github.com/mehulvyas911-eng/majestic-ai\n# See source for mcpServers config block"
+}

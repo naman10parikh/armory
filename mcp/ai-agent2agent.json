@@ -1,0 +1,7 @@
+{
+  "name": "ai-agent2agent",
+  "description": "Implementation of agent-to-agent communication",
+  "source_repo": "labKnowledge/ai_agent2agent",
+  "source_url": "https://github.com/labKnowledge/ai_agent2agent",
+  "install": "# git clone --depth 1 https://github.com/labKnowledge/ai_agent2agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "touchpoint-labs-touchpoint",
+  "description": "Playwright for the entire OS. Gives AI agents the ability to see, find, and interact with UI elements in any desktop application.",
+  "source_repo": "Touchpoint-Labs/touchpoint",
+  "source_url": "https://github.com/Touchpoint-Labs/touchpoint",
+  "install": "# git clone --depth 1 https://github.com/Touchpoint-Labs/touchpoint\n# See source for mcpServers config block"
+}

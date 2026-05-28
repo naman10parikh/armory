@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-openalex",
+  "description": "OpenAlex academic research catalog access for searching 270M+ publications, analyzing research trends, and resolving author and institution identifiers.",
+  "source_repo": "cyanheads/openalex-mcp-server",
+  "source_url": "https://github.com/cyanheads/openalex-mcp-server",
+  "install": "npx -y openalex-mcp-server"
+}

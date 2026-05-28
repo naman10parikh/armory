@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-with-docker-redis-and-timescaledb",
+  "description": "A FastAPI-based MCP server orchestrated with Docker Compose, integrating Redis caching and TimescaleDB for time-series data management.",
+  "source_repo": "chuckwilliams37/mcp-server-docker",
+  "source_url": "https://github.com/chuckwilliams37/mcp-server-docker",
+  "install": "# git clone --depth 1 https://github.com/chuckwilliams37/mcp-server-docker\n# See source for mcpServers config block"
+}

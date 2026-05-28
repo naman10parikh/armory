@@ -1,0 +1,7 @@
+{
+  "name": "pythonanywhere-pythonanywhere-mcp-server",
+  "description": "MCP server implementation for PythonAnywhere cloud platform.",
+  "source_repo": "pythonanywhere/pythonanywhere-mcp-server",
+  "source_url": "https://github.com/pythonanywhere/pythonanywhere-mcp-server",
+  "install": "npx -y pythonanywhere-mcp-server"
+}

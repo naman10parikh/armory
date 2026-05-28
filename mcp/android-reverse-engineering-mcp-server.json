@@ -1,0 +1,7 @@
+{
+  "name": "android-reverse-engineering-mcp-server",
+  "description": "A Python MCP server that decompiles Android APK/XAPK/JAR/AAR files and extracts HTTP APIs used by the app.",
+  "source_repo": "vichhka-git/android-reverse-engineering-mcp-server",
+  "source_url": "https://github.com/vichhka-git/android-reverse-engineering-mcp-server",
+  "install": "npx -y android-reverse-engineering-mcp-server"
+}

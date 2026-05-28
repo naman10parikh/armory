@@ -1,0 +1,7 @@
+{
+  "name": "hunter-arton-google-search",
+  "description": "Provides Google web and image search capabilities through the Custom Search API, enabling access to current internet information with pagination and filtering options.",
+  "source_repo": "hunter-arton/google_search_mcp_server",
+  "source_url": "https://github.com/hunter-arton/google_search_mcp_server",
+  "install": "npx -y google_search_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anshulpatre-redshift",
+  "description": "Provides secure Amazon Redshift database access with configurable permission modes (readonly, readwrite, admin) that enforce SQL operation restrictions, featuring automatic connection management, schema discovery, query execution, and built-in command filtering to prevent dangerous operations.",
+  "source_repo": "anshulpatre/my-redshift-mcp",
+  "source_url": "https://github.com/anshulpatre/my-redshift-mcp",
+  "install": "npx -y my-redshift-mcp"
+}

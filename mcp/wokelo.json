@@ -1,0 +1,7 @@
+{
+  "name": "wokelo",
+  "description": "Connects AI agents to dealmaking research with 100M+ companies and 30+ premium data sources.",
+  "source_repo": "wokelo-ai/wokelo-mcp-server",
+  "source_url": "https://github.com/wokelo-ai/wokelo-mcp-server",
+  "install": "npx -y wokelo-mcp-server"
+}

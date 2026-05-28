@@ -1,0 +1,7 @@
+{
+  "name": "zero-abd-draw2agent",
+  "description": "Visual annotation overlay for websites that provides screenshot and DOM context to coding agents.",
+  "source_repo": "zero-abd/draw2agent",
+  "source_url": "https://github.com/zero-abd/draw2agent",
+  "install": "# git clone --depth 1 https://github.com/zero-abd/draw2agent\n# See source for mcpServers config block"
+}

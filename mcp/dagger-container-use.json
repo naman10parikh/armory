@@ -1,0 +1,7 @@
+{
+  "name": "dagger-container-use",
+  "description": "Provides containerized development environments that persist state across interactions through git-based storage and Dagger's container runtime, enabling isolated environments with custom toolchains, background services, and the ability to checkpoint environments as publishable container images.",
+  "source_repo": "dagger/container-use",
+  "source_url": "https://github.com/dagger/container-use",
+  "install": "# git clone --depth 1 https://github.com/dagger/container-use\n# See source for mcpServers config block"
+}

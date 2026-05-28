@@ -1,0 +1,7 @@
+{
+  "name": "kaizan-ai",
+  "description": "Read-only access to Kaizan client relationship data for account management teams.",
+  "source_repo": "",
+  "source_url": "https://kaizan.ai",
+  "install": "# git clone --depth 1 https://kaizan.ai\n# See source for mcpServers config block"
+}

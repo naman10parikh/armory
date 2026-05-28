@@ -1,0 +1,7 @@
+{
+  "name": "tradallo-reputation",
+  "description": "MCP server for querying cryptographically-verified trading records of human traders and AI agents on the Tradallo platform.",
+  "source_repo": "tradallo/reputation",
+  "source_url": "https://github.com/tradallo/reputation",
+  "install": "# git clone --depth 1 https://github.com/tradallo/reputation\n# See source for mcpServers config block"
+}

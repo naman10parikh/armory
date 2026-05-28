@@ -1,0 +1,7 @@
+{
+  "name": "desimpkins-lightrag",
+  "description": "Connects to local LightRAG instances via HTTP API for document management, knowledge graph operations, hybrid querying, and pipeline monitoring through 22 specialized tools.",
+  "source_repo": "desimpkins/daniel-lightrag-mcp",
+  "source_url": "https://github.com/desimpkins/daniel-lightrag-mcp",
+  "install": "npx -y daniel-lightrag-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nirholas-ethereum-validator",
+  "description": "Validates Ethereum addresses, private keys, checksums, keccak256 hashes, function selectors, and ENS names with 15 cryptographic tools.",
+  "source_repo": "nirholas/ethereum-wallet-toolkit",
+  "source_url": "https://github.com/nirholas/ethereum-wallet-toolkit/tree/HEAD/validation-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/nirholas/ethereum-wallet-toolkit/tree/HEAD/validation-mcp-server\n# See source for mcpServers config block"
+}

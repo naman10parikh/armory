@@ -1,0 +1,7 @@
+{
+  "name": "crossbeam",
+  "description": "Connects to Crossbeam's B2B partnerships platform to query ecosystem data, find partners, analyze account overlaps, surface partner-aware sales signals, and search Crossbeam help content.",
+  "source_repo": "",
+  "source_url": "https://help.crossbeam.com/en/articles/12601327-crossbeam-mcp-server-limited-availability",
+  "install": "# git clone --depth 1 https://help.crossbeam.com/en/articles/12601327-crossbeam-mcp-server-limited-availability\n# See source for mcpServers config block"
+}

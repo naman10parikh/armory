@@ -1,0 +1,7 @@
+{
+  "name": "sjotie-notion",
+  "description": "Integrates with the Notion API to enable database and page management operations, including listing databases, querying and creating pages, updating blocks, and performing searches within Notion workspaces.",
+  "source_repo": "sjotie/notionmcp",
+  "source_url": "https://github.com/sjotie/notionmcp",
+  "install": "# git clone --depth 1 https://github.com/sjotie/notionmcp\n# See source for mcpServers config block"
+}

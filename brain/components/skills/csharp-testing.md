@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 C# and .NET testing patterns with xUnit, FluentAssertions, mocking, integration tests, and test organization best practices.

@@ -1,0 +1,7 @@
+{
+  "name": "ripgrep-mcp",
+  "description": "Provides ripgrep search capabilities to MCP clients like Claude, enabling high-performance text searches across files on your system.",
+  "source_repo": "shk1447/ripgrep-mcp",
+  "source_url": "https://github.com/shk1447/ripgrep-mcp",
+  "install": "npx -y ripgrep-mcp"
+}

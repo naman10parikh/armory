@@ -1,0 +1,7 @@
+{
+  "name": "rami-kali-mcp-server",
+  "description": "Wraps Kali Linux penetration testing tools for authorized security assessments, driven by a local LLM via LM Studio.",
+  "source_repo": "Direct-TO/kail-mcp",
+  "source_url": "https://github.com/Direct-TO/kail-mcp",
+  "install": "npx -y kail-mcp"
+}

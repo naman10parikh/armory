@@ -1,0 +1,7 @@
+{
+  "name": "xskill-ai",
+  "description": "AI content generation toolkit with 50+ models. Image/video generation (Seedance 2.0, FLUX, Kling, Sora), TTS, voice cloning, and more.",
+  "source_repo": "",
+  "source_url": "https://xskill.ai",
+  "install": "# git clone --depth 1 https://xskill.ai\n# See source for mcpServers config block"
+}

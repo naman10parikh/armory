@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-chart-mcp",
+  "description": "Enables fetching TradingView chart images by ticker and interval with browser pooling for high concurrency.",
+  "source_repo": "iflow-mcp/tradingview-chart-mcp",
+  "source_url": "https://github.com/iflow-mcp/tradingview-chart-mcp",
+  "install": "npx -y tradingview-chart-mcp"
+}

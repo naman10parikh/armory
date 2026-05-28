@@ -1,0 +1,7 @@
+{
+  "name": "whoosh-rag-mcp",
+  "description": "An MCP server that provides full-text search over documentation using Whoosh, enabling AI assistants to find up-to-date, authoritative answers.",
+  "source_repo": "jianlins/whoosh_rag_mcp",
+  "source_url": "https://github.com/jianlins/whoosh_rag_mcp",
+  "install": "npx -y whoosh_rag_mcp"
+}

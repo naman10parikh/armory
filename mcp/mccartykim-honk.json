@@ -1,0 +1,7 @@
+{
+  "name": "mccartykim-honk",
+  "description": "Provides a simple text-to-speech interface for MacOS using the built-in 'say' command, enabling voice output for AI models.",
+  "source_repo": "mccartykim/honk_mcp",
+  "source_url": "https://github.com/mccartykim/honk_mcp",
+  "install": "npx -y honk_mcp"
+}

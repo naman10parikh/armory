@@ -1,0 +1,7 @@
+{
+  "name": "turkenberg-mcap-query",
+  "description": "SQL query interface for MCAP robotics recordings using DuckDB, with support for JSON, Protobuf, ROS 1, ROS 2, and FlatBuffers encodings.",
+  "source_repo": "turkenberg/mcap_mcp_server",
+  "source_url": "https://github.com/turkenberg/mcap_mcp_server",
+  "install": "npx -y mcap_mcp_server"
+}

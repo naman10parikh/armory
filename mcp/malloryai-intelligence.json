@@ -1,0 +1,7 @@
+{
+  "name": "malloryai-intelligence",
+  "description": "Provides a bridge to MalloryAI Intelligence platform for querying vulnerabilities, threat actors, and exploitation data through structured API endpoints.",
+  "source_repo": "malloryai/mallorymcp",
+  "source_url": "https://github.com/malloryai/mallorymcp",
+  "install": "# git clone --depth 1 https://github.com/malloryai/mallorymcp\n# See source for mcpServers config block"
+}

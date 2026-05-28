@@ -1,0 +1,7 @@
+{
+  "name": "xenonflare-mcp-server",
+  "description": "Enables AI assistants to manage social media accounts, upload media (videos and images), track upload status, and manage content across platforms like Instagram, YouTube, and TikTok via the XenonFlare API.",
+  "source_repo": "Xenon-Flare/mcp-server",
+  "source_url": "https://github.com/Xenon-Flare/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Xenon-Flare/mcp-server\n# See source for mcpServers config block"
+}

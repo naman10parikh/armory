@@ -1,0 +1,7 @@
+{
+  "name": "aws-ow-pgvector-mcp",
+  "description": "Aws Ow Pgvector Mcp MCP server listed on mcp.so.",
+  "source_repo": "OpenWorkspace-o1/aws-ow-pgvector-mcp",
+  "source_url": "https://mcp.so/server/aws-ow-pgvector-mcp/OpenWorkspace-o1",
+  "install": "npx -y aws-ow-pgvector-mcp"
+}

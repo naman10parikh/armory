@@ -1,0 +1,7 @@
+{
+  "name": "thecreativelabs-plutio",
+  "description": "Community integration for the Plutio all-in-one business platform covering CRM, projects, and invoicing.",
+  "source_repo": "thecreativelabs/plutio-mcp",
+  "source_url": "https://github.com/thecreativelabs/plutio-mcp",
+  "install": "npx -y plutio-mcp"
+}

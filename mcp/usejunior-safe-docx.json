@@ -1,0 +1,7 @@
+{
+  "name": "usejunior-safe-docx",
+  "description": "Surgical, formatting-preserving editing of existing Word .docx files.",
+  "source_repo": "usejunior/safe-docx",
+  "source_url": "https://github.com/usejunior/safe-docx/tree/HEAD/packages/docx-mcp",
+  "install": "# git clone --depth 1 https://github.com/usejunior/safe-docx/tree/HEAD/packages/docx-mcp\n# See source for mcpServers config block"
+}

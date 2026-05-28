@@ -1,0 +1,7 @@
+{
+  "name": "contrastcyber",
+  "description": "Free security intelligence tools for AI agents including CVE lookup, OSINT, threat intel, and code security.",
+  "source_repo": "upinar/contrastapi",
+  "source_url": "https://github.com/upinar/contrastapi",
+  "install": "# git clone --depth 1 https://github.com/upinar/contrastapi\n# See source for mcpServers config block"
+}

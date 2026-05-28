@@ -1,0 +1,7 @@
+{
+  "name": "youtube-content-management",
+  "description": "Integrates with YouTube Data API v3 to provide channel and video discovery capabilities with comprehensive filtering options for duration, upload date, and sort order, enabling content creators and marketers to research competitors and analyze content landscapes.",
+  "source_repo": "nastyrunner13/youtube-content-management-mcp",
+  "source_url": "https://github.com/nastyrunner13/youtube-content-management-mcp",
+  "install": "npx -y youtube-content-management-mcp"
+}

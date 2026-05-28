@@ -1,0 +1,7 @@
+{
+  "name": "ozmnf4-ninjatrader",
+  "description": "Connect to NinjaTrader's trading platform to read positions, place orders, and access market data and indicators.",
+  "source_repo": "ozmnf4/ninjatrader-mcp",
+  "source_url": "https://github.com/ozmnf4/ninjatrader-mcp",
+  "install": "npx -y ninjatrader-mcp"
+}

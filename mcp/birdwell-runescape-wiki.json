@@ -1,0 +1,7 @@
+{
+  "name": "birdwell-runescape-wiki",
+  "description": "Integrates with RuneScape 3 APIs to provide real-time Grand Exchange prices, item data, player statistics across game modes, and wiki content retrieval for game economy analysis and player progression tracking.",
+  "source_repo": "birdwell/runescape-wiki-mcp",
+  "source_url": "https://github.com/birdwell/runescape-wiki-mcp",
+  "install": "npx -y runescape-wiki-mcp"
+}

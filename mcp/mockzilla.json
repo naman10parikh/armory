@@ -1,0 +1,7 @@
+{
+  "name": "mockzilla",
+  "description": "Deploy AI-managed API mocks from an OpenAPI spec or one endpoint at a time.",
+  "source_repo": "mockzilla/mockzilla-mcp",
+  "source_url": "https://github.com/mockzilla/mockzilla-mcp",
+  "install": "npx -y mockzilla-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-sql-admin",
+  "description": "Google Cloud SQL Admin MCP server for AI-assisted management of Cloud SQL database instances.",
+  "source_repo": "",
+  "source_url": "https://sqladmin.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://sqladmin.googleapis.com/mcp\n# See source for mcpServers config block"
+}

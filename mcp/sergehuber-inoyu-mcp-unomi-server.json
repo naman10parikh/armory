@@ -1,0 +1,7 @@
+{
+  "name": "sergehuber-inoyu-mcp-unomi-server",
+  "description": "An MCP server to access and updates profiles on an Apache Unomi CDP server.",
+  "source_repo": "sergehuber/inoyu-mcp-unomi-server",
+  "source_url": "https://github.com/sergehuber/inoyu-mcp-unomi-server",
+  "install": "# git clone --depth 1 https://github.com/sergehuber/inoyu-mcp-unomi-server\n# See source for mcpServers config block"
+}

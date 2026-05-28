@@ -1,0 +1,7 @@
+{
+  "name": "sap-analytics-cloud-mcp",
+  "description": "Enables interaction with SAP Analytics Cloud through an MCP server, exposing 90 tools for content management, data export/import, user management, and more via natural language.",
+  "source_repo": "JumenEngels/sap_analytics_cloud_mcp",
+  "source_url": "https://github.com/JumenEngels/sap_analytics_cloud_mcp",
+  "install": "npx -y sap_analytics_cloud_mcp"
+}

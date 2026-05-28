@@ -1,0 +1,7 @@
+{
+  "name": "chromewire-mcp",
+  "description": "Real browser tabs for AI agents through a safe localhost MCP bridge, enabling control of Chrome tabs via MCP-compatible AI CLIs.",
+  "source_repo": "bakhtiersizhaev/chromewire-mcp",
+  "source_url": "https://github.com/bakhtiersizhaev/chromewire-mcp",
+  "install": "npx -y chromewire-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "computeback",
+  "description": "Agent rewards marketplace and B2B labor platform with capability purchasing and multi-channel campaigns.",
+  "source_repo": "autonomad1/computeback-mcp",
+  "source_url": "https://github.com/autonomad1/computeback-mcp",
+  "install": "npx -y computeback-mcp"
+}

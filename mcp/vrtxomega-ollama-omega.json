@@ -1,0 +1,7 @@
+{
+  "name": "vrtxomega-ollama-omega",
+  "description": "Official Ollama MCP Server. Exposes ollama_chat, ollama_generate, ollama_pull_model, ollama_list_models and ollama_show_model tools for advanced AI interactions.",
+  "source_repo": "VrtxOmega/Ollama-Omega",
+  "source_url": "https://github.com/VrtxOmega/Ollama-Omega",
+  "install": "# git clone --depth 1 https://github.com/VrtxOmega/Ollama-Omega\n# See source for mcpServers config block"
+}

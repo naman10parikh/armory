@@ -1,0 +1,7 @@
+{
+  "name": "zhihu-mcp-server",
+  "description": "Enables scraping Zhihu webpages, getting hot questions, and publishing answers using Puppeteer with QR code login authentication.",
+  "source_repo": "morrain/zhihuMcpServer",
+  "source_url": "https://github.com/morrain/zhihuMcpServer",
+  "install": "# git clone --depth 1 https://github.com/morrain/zhihuMcpServer\n# See source for mcpServers config block"
+}

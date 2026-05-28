@@ -1,0 +1,7 @@
+{
+  "name": "unmuktoai-wazuh",
+  "description": "Integrates with Wazuh security platform to provide real-time security alerts and event data from Elasticsearch indices for security operations and threat analysis workflows.",
+  "source_repo": "gensecaihq/wazuh-mcp-server",
+  "source_url": "https://github.com/gensecaihq/wazuh-mcp-server",
+  "install": "npx -y wazuh-mcp-server"
+}

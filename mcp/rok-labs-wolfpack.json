@@ -1,0 +1,7 @@
+{
+  "name": "rok-labs-wolfpack",
+  "description": "On-chain security and market intelligence for trading agents on Base.",
+  "source_repo": "",
+  "source_url": "https://wolfpack.roklabs.dev",
+  "install": "# git clone --depth 1 https://wolfpack.roklabs.dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "legado-mcp-server",
+  "description": "Enables interaction with Legado Web API via MCP, allowing AI-assisted debugging and management of book sources, RSS sources, replace rules, books, and other Legado features.",
+  "source_repo": "joestar817/legado-mcp-server",
+  "source_url": "https://github.com/joestar817/legado-mcp-server",
+  "install": "npx -y legado-mcp-server"
+}

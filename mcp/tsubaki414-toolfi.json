@@ -1,0 +1,7 @@
+{
+  "name": "tsubaki414-toolfi",
+  "description": "Open API marketplace enabling AI agents to discover, select, and pay for crypto data tools with USDC micropayments.",
+  "source_repo": "tsubaki414/toolfi",
+  "source_url": "https://github.com/tsubaki414/toolfi/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/tsubaki414/toolfi/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

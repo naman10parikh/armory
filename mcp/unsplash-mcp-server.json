@@ -1,0 +1,7 @@
+{
+  "name": "unsplash-mcp-server",
+  "description": "Unsplash Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Carlos-Loscar/unsplash-mcp-server",
+  "source_url": "https://mcp.so/server/unsplash-mcp-server/Carlos-Loscar",
+  "install": "npx -y unsplash-mcp-server"
+}

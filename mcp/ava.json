@@ -1,0 +1,7 @@
+{
+  "name": "ava",
+  "description": "Enables AI agents to create Gmail drafts safely using the Gmail API, without sending emails.",
+  "source_repo": "cwattsnogueira/mcp-server-draft",
+  "source_url": "https://github.com/cwattsnogueira/mcp-server-draft",
+  "install": "# git clone --depth 1 https://github.com/cwattsnogueira/mcp-server-draft\n# See source for mcpServers config block"
+}

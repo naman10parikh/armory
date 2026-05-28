@@ -1,0 +1,7 @@
+{
+  "name": "sinch",
+  "description": "Integrates with Sinch's communication APIs to send messages across SMS, WhatsApp, RCS, and email channels, manage voice calls and conferences, and perform phone number verification and lookup operations with multi-region support and webhook event tracking.",
+  "source_repo": "sinch/sinch-mcp-server",
+  "source_url": "https://github.com/sinch/sinch-mcp-server",
+  "install": "npx -y sinch-mcp-server"
+}

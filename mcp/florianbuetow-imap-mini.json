@@ -1,0 +1,7 @@
+{
+  "name": "florianbuetow-imap-mini",
+  "description": "Lightweight IMAP email integration for reading, searching, organizing, and drafting emails with built-in safety guardrails that prevent sending or deleting.",
+  "source_repo": "florianbuetow/imap-mini-mcp",
+  "source_url": "https://github.com/florianbuetow/imap-mini-mcp",
+  "install": "npx -y imap-mini-mcp"
+}

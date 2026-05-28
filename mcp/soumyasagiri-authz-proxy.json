@@ -1,0 +1,7 @@
+{
+  "name": "soumyasagiri-authz-proxy",
+  "description": "Authorization proxy for MCP servers with JWT validation, policy engine, and behavioral anomaly detection.",
+  "source_repo": "soumyasagiri/mcp-authz",
+  "source_url": "https://github.com/soumyasagiri/mcp-authz",
+  "install": "# git clone --depth 1 https://github.com/soumyasagiri/mcp-authz\n# See source for mcpServers config block"
+}

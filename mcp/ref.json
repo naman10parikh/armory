@@ -1,0 +1,7 @@
+{
+  "name": "ref",
+  "description": "Integrates with Ref.tools documentation search service to provide curated technical documentation access, web search fallback, and URL-to-markdown conversion for efficient developer reference during coding workflows.",
+  "source_repo": "ref-tools/ref-tools-mcp",
+  "source_url": "https://github.com/ref-tools/ref-tools-mcp",
+  "install": "npx -y ref-tools-mcp"
+}

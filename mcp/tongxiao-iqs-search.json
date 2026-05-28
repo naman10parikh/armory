@@ -1,0 +1,7 @@
+{
+  "name": "tongxiao-iqs-search",
+  "description": "Integrates with TongXiao's IQS APIs to provide enhanced real-time web search capabilities that deliver clean, accurate, and diverse results through multiple data sources optimized with large language models.",
+  "source_repo": "aliyun/alibabacloud-iqs-tongxiao-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-iqs-tongxiao-mcp-server",
+  "install": "npx -y alibabacloud-iqs-tongxiao-mcp-server"
+}

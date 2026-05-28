@@ -1,0 +1,7 @@
+{
+  "name": "httpstatus",
+  "description": "API tools for mocking, testing, monitoring, security, and automation via MCP.",
+  "source_repo": "",
+  "source_url": "https://mcp.httpstatus.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.httpstatus.com/mcp\n# See source for mcpServers config block"
+}

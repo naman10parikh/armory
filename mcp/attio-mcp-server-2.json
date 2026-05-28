@@ -1,0 +1,7 @@
+{
+  "name": "attio-mcp-server-2",
+  "description": "Provides seamless access to the Attio API for AI assistants like Claude and Cursor, enabling interaction with objects, records, tasks, notes, and more through human-readable tools.",
+  "source_repo": "itsbrex/attio-mcp-server",
+  "source_url": "https://github.com/itsbrex/attio-mcp-server",
+  "install": "npx -y attio-mcp-server"
+}

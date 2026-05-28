@@ -1,0 +1,7 @@
+{
+  "name": "everaldo-mistral-ocr",
+  "description": "Processes images and PDFs through Mistral AI's OCR API to extract text from visual documents, supporting both local files and URLs with Docker containerization for easy deployment.",
+  "source_repo": "everaldo/mcp-mistral-ocr",
+  "source_url": "https://github.com/everaldo/mcp-mistral-ocr",
+  "install": "# git clone --depth 1 https://github.com/everaldo/mcp-mistral-ocr\n# See source for mcpServers config block"
+}

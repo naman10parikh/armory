@@ -1,0 +1,7 @@
+{
+  "name": "docnav",
+  "description": "Transforms long-form documents into hierarchical tree structures with navigable sections, enabling systematic reading, outline generation, content search, and contextual navigation through parent-child-sibling relationships for comprehensive document analysis workflows.",
+  "source_repo": "shenyimings/docnav-mcp",
+  "source_url": "https://github.com/shenyimings/docnav-mcp",
+  "install": "npx -y docnav-mcp"
+}

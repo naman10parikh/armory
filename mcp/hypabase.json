@@ -1,0 +1,7 @@
+{
+  "name": "hypabase",
+  "description": "Provides a hypergraph database for storing and querying n-ary relationships with provenance tracking and SQLite persistence.",
+  "source_repo": "hypabase/hypabase",
+  "source_url": "https://github.com/hypabase/hypabase",
+  "install": "# git clone --depth 1 https://github.com/hypabase/hypabase\n# See source for mcpServers config block"
+}

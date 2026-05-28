@@ -1,0 +1,7 @@
+{
+  "name": "shadcn-mcp-server",
+  "description": "Provides AI assistants with direct access to shadcn/ui components and blocks, enabling real-time fetching of component source code, documentation, and implementation examples.",
+  "source_repo": "magnusrodseth/shadcn-mcp-server",
+  "source_url": "https://github.com/magnusrodseth/shadcn-mcp-server",
+  "install": "npx -y shadcn-mcp-server"
+}

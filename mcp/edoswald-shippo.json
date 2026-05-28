@@ -1,0 +1,7 @@
+{
+  "name": "edoswald-shippo",
+  "description": "Wraps the Shippo shipping API for rate comparison, label creation, and shipment tracking via SSE transport.",
+  "source_repo": "edoswald/shippo-mcp-wrapper",
+  "source_url": "https://github.com/edoswald/shippo-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/edoswald/shippo-mcp-wrapper\n# See source for mcpServers config block"
+}

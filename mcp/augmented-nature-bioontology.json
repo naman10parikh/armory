@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-bioontology",
+  "description": "Integrates with BioPortal's API to search, annotate, and explore over 1,200 biological ontologies including medical terminologies like NCIT, DOID, and MESH with batch processing, text annotation, and analytics capabilities for bioinformatics research and clinical text processing.",
+  "source_repo": "augmented-nature/bioontology-mcp-server",
+  "source_url": "https://github.com/augmented-nature/bioontology-mcp-server",
+  "install": "npx -y bioontology-mcp-server"
+}

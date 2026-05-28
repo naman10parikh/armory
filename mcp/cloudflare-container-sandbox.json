@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-container-sandbox",
+  "description": "Provides a secure, sandboxed environment for executing Python, Node.js, and shell commands in ephemeral containers with file management capabilities for code testing, visualization, and data analysis.",
+  "source_repo": "cloudflare/mcp-server-cloudflare",
+  "source_url": "https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/sandbox-container",
+  "install": "# git clone --depth 1 https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/sandbox-container\n# See source for mcpServers config block"
+}

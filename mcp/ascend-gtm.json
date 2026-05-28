@@ -1,0 +1,7 @@
+{
+  "name": "ascend-gtm",
+  "description": "34-tool GTM gateway connecting CRMs, ad platforms, analytics, Google Workspace, AWS, and LLMs.",
+  "source_repo": "mishaal-cloud/ascend-gtm-ops",
+  "source_url": "https://github.com/mishaal-cloud/ascend-gtm-ops",
+  "install": "# git clone --depth 1 https://github.com/mishaal-cloud/ascend-gtm-ops\n# See source for mcpServers config block"
+}

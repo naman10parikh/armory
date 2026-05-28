@@ -1,0 +1,7 @@
+{
+  "name": "gh-bphillab-something-awful-forums",
+  "description": "Browse forums, read threads, search posts, and manage messages on Something Awful.",
+  "source_repo": "bphillab/somethingawful_forums_mcp",
+  "source_url": "https://github.com/bphillab/somethingawful_forums_mcp",
+  "install": "npx -y somethingawful_forums_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "laplaceyoung-ansys-aedt",
+  "description": "Controls Ansys Electronics Desktop electromagnetic simulation tools via Claude.",
+  "source_repo": "laplaceyoung/ansys-aedt-mcp",
+  "source_url": "https://github.com/laplaceyoung/ansys-aedt-mcp",
+  "install": "npx -y ansys-aedt-mcp"
+}

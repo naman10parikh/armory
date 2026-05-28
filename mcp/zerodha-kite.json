@@ -1,0 +1,7 @@
+{
+  "name": "zerodha-kite",
+  "description": "Enables natural language interaction with Zerodha Kite trading platform for executing stock orders, retrieving portfolio information, and managing market transactions",
+  "source_repo": "121yaseen/zerodha-mcp",
+  "source_url": "https://github.com/121yaseen/zerodha-mcp",
+  "install": "npx -y zerodha-mcp"
+}

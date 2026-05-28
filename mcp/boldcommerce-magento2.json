@@ -1,0 +1,7 @@
+{
+  "name": "boldcommerce-magento2",
+  "description": "Connects Claude to Magento 2 e-commerce platforms for querying product information, customer data, order statistics, and revenue metrics using natural language date expressions and geographical filtering.",
+  "source_repo": "boldcommerce/magento2-mcp",
+  "source_url": "https://github.com/boldcommerce/magento2-mcp",
+  "install": "npx -y magento2-mcp"
+}

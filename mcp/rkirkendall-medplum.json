@@ -1,0 +1,7 @@
+{
+  "name": "rkirkendall-medplum",
+  "description": "Integrates with Medplum's FHIR healthcare platform to enable creating, reading, updating, and searching healthcare resources including patients, practitioners, organizations, encounters, observations, medications, conditions, and episodes of care for electronic health records and clinical data management.",
+  "source_repo": "rkirkendall/medplum-mcp",
+  "source_url": "https://github.com/rkirkendall/medplum-mcp",
+  "install": "npx -y medplum-mcp"
+}

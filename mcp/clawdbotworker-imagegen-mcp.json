@@ -1,0 +1,7 @@
+{
+  "name": "clawdbotworker-imagegen-mcp",
+  "description": "AI image generation from text prompts via x402 micropayments on Base. $0.10 USDC per image, paid automatically from your wallet. No API key required. `npx coinopai-imagegen`",
+  "source_repo": "clawdbotworker/imagegen-mcp",
+  "source_url": "https://github.com/clawdbotworker/imagegen-mcp",
+  "install": "npx -y imagegen-mcp"
+}

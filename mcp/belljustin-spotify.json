@@ -1,0 +1,7 @@
+{
+  "name": "belljustin-spotify",
+  "description": "Integrates with Spotify's Web API through OAuth authentication to search for tracks, create new playlists, and update existing playlist details or track lists based on natural language descriptions and themes.",
+  "source_repo": "belljustin/spotify-mcp",
+  "source_url": "https://github.com/belljustin/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

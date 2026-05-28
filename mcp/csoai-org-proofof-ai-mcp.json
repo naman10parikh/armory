@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-proofof-ai-mcp",
+  "description": "Python MCP server for proof-of-work verification and validation tools.",
+  "source_repo": "csoai-org/proofof-ai-mcp",
+  "source_url": "https://github.com/csoai-org/proofof-ai-mcp",
+  "install": "npx -y proofof-ai-mcp"
+}

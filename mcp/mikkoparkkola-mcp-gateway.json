@@ -1,0 +1,7 @@
+{
+  "name": "mikkoparkkola-mcp-gateway",
+  "description": "Universal MCP gateway with single-port multiplexing and Meta-MCP. 4 meta-tools replace 100+ registrations, saving 95% context window. Hot-reloadable capabilities, OpenAPI auto-import, 42 starter capabilities (25 zero-config).",
+  "source_repo": "MikkoParkkola/mcp-gateway",
+  "source_url": "https://github.com/MikkoParkkola/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/MikkoParkkola/mcp-gateway\n# See source for mcpServers config block"
+}

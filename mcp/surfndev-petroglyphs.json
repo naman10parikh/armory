@@ -1,0 +1,7 @@
+{
+  "name": "surfndev-petroglyphs",
+  "description": "Bridge iPad handwriting input with LLMs via image capture and Obsidian vault integration.",
+  "source_repo": "surfndev/petroglyphs-mcp",
+  "source_url": "https://github.com/surfndev/petroglyphs-mcp",
+  "install": "npx -y petroglyphs-mcp"
+}

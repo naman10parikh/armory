@@ -1,0 +1,7 @@
+{
+  "name": "versium-reach",
+  "description": "Enriches leads, generates prospect lists, and validates emails using Versium's B2B2C identity graph via natural language queries.",
+  "source_repo": "versiumanalytics/reach",
+  "source_url": "https://github.com/versiumanalytics/reach",
+  "install": "# git clone --depth 1 https://github.com/versiumanalytics/reach\n# See source for mcpServers config block"
+}

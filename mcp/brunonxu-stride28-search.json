@@ -1,0 +1,7 @@
+{
+  "name": "brunonxu-stride28-search",
+  "description": "MCP server providing aggregated search across Xiaohongshu and Zhihu using Playwright browser automation via stdio transport.",
+  "source_repo": "brunonxu/stride28-search-mcp",
+  "source_url": "https://github.com/brunonxu/stride28-search-mcp",
+  "install": "npx -y stride28-search-mcp"
+}

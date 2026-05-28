@@ -1,0 +1,7 @@
+{
+  "name": "brunosantoslab-spring-bridge",
+  "description": "Automatically converts Spring Boot REST applications into MCP servers, enabling AI tools to interact with existing Spring APIs without rewriting backend services.",
+  "source_repo": "brunosantoslabs/spring-mcp-bridge",
+  "source_url": "https://github.com/brunosantoslabs/spring-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/brunosantoslabs/spring-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "abraflexi-mcp-server",
+  "description": "Provides a comprehensive MCP interface to the AbraFlexi ERP REST API, enabling management of invoices, contacts, products, bank transactions, and other evidence through natural language.",
+  "source_repo": "VitexSoftware/abraflexi-mcp-server",
+  "source_url": "https://github.com/VitexSoftware/abraflexi-mcp-server",
+  "install": "npx -y abraflexi-mcp-server"
+}

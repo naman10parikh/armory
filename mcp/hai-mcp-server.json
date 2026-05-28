@@ -1,0 +1,7 @@
+{
+  "name": "hai-mcp-server",
+  "description": "Hai Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "avacx/hai-mcp-server",
+  "source_url": "https://mcp.so/server/hai-mcp-server/avacx",
+  "install": "npx -y hai-mcp-server"
+}

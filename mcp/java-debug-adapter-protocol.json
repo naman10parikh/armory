@@ -1,0 +1,7 @@
+{
+  "name": "java-debug-adapter-protocol",
+  "description": "Bridges Java debugging capabilities through the Debug Adapter Protocol, enabling remote debugging of Java applications by providing tools to attach to debug sessions, inspect thread states and stack traces, examine variable scopes, evaluate expressions in debugging contexts, and control execution flow.",
+  "source_repo": "igorrhamon/mcp_debugger",
+  "source_url": "https://github.com/igorrhamon/mcp_debugger",
+  "install": "# git clone --depth 1 https://github.com/igorrhamon/mcp_debugger\n# See source for mcpServers config block"
+}

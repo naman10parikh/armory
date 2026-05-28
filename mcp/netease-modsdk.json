@@ -1,0 +1,7 @@
+{
+  "name": "netease-modsdk",
+  "description": "Provides documentation search, code generation, and code review for Minecraft China Edition (NetEase) ModSDK development.",
+  "source_repo": "mcneteasedevs/modsdk_mcp_server",
+  "source_url": "https://github.com/mcneteasedevs/modsdk_mcp_server",
+  "install": "npx -y modsdk_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kryptosai-mcp-observatory",
+  "description": "Regression testing for MCP servers. Auto-discovers servers from Claude configs, checks capabilities, invokes tools, detects schema drift between versions, and recommends new servers based on your environment. Works as both a CLI and an MCP server.",
+  "source_repo": "KryptosAI/mcp-observatory",
+  "source_url": "https://github.com/KryptosAI/mcp-observatory",
+  "install": "# git clone --depth 1 https://github.com/KryptosAI/mcp-observatory\n# See source for mcpServers config block"
+}

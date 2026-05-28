@@ -1,0 +1,7 @@
+{
+  "name": "mcpheonix",
+  "description": "MCPheonix MCP server listed on mcp.so.",
+  "source_repo": "jmanhype/MCPheonix",
+  "source_url": "https://mcp.so/server/MCPheonix/jmanhype",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCPheonix/jmanhype\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "travel-art",
+  "description": "Art-tourism data for AI agents: biennales, art fairs, and museums with current prices and dates.",
+  "source_repo": "alexzavialov/travel-art-mcp",
+  "source_url": "https://github.com/alexzavialov/travel-art-mcp",
+  "install": "npx -y travel-art-mcp"
+}

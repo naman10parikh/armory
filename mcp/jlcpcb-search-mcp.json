@@ -1,0 +1,7 @@
+{
+  "name": "jlcpcb-search-mcp",
+  "description": "Enables AI assistants to search JLCPCB's 450K+ electronic component catalog with real-time stock levels and pricing, supporting keyword search, filtering, and detailed component information.",
+  "source_repo": "peterb154/jlcpcb-search-mcp",
+  "source_url": "https://github.com/peterb154/jlcpcb-search-mcp",
+  "install": "npx -y jlcpcb-search-mcp"
+}

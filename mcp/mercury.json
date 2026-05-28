@@ -1,0 +1,7 @@
+{
+  "name": "mercury",
+  "description": "Read-only access to Mercury business banking accounts",
+  "source_repo": "",
+  "source_url": "https://docs.mercury.com/docs/what-is-mercury-mcp",
+  "install": "# git clone --depth 1 https://docs.mercury.com/docs/what-is-mercury-mcp\n# See source for mcpServers config block"
+}

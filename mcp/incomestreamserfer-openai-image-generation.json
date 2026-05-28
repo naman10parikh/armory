@@ -1,0 +1,7 @@
+{
+  "name": "incomestreamserfer-openai-image-generation",
+  "description": "Provides tools for generating and editing images using OpenAI's gpt-image-1 model, handling API interactions, error management, and local image storage.",
+  "source_repo": "incomestreamsurfer/chatgpt-native-image-gen-mcp",
+  "source_url": "https://github.com/incomestreamsurfer/chatgpt-native-image-gen-mcp",
+  "install": "npx -y chatgpt-native-image-gen-mcp"
+}

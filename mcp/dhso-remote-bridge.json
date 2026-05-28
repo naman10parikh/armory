@@ -1,0 +1,7 @@
+{
+  "name": "dhso-remote-bridge",
+  "description": "Containerized HTTP bridge for accessing MCP functionality remotely, enabling distributed deployment without requiring direct library integration in client applications.",
+  "source_repo": "dhso/remote-mcp",
+  "source_url": "https://github.com/dhso/remote-mcp",
+  "install": "npx -y remote-mcp"
+}

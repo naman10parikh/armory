@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-ai-bom-mcp",
+  "description": "Bill of materials generation and dependency tracking tools for AI systems.",
+  "source_repo": "csoai-org/ai-bom-mcp",
+  "source_url": "https://github.com/csoai-org/ai-bom-mcp",
+  "install": "npx -y ai-bom-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "proto-labs-rnd-mesh-status",
+  "description": "Monitors homelab mesh network status for multi-agent AI systems using FastMCP.",
+  "source_repo": "proto-labs-rnd/mesh-status-mcp",
+  "source_url": "https://github.com/proto-labs-rnd/mesh-status-mcp",
+  "install": "npx -y mesh-status-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "purodelphi-firebird",
+  "description": "Enables secure access to Firebird SQL databases through natural language, supporting table listing, schema descriptions, query execution, and field metadata retrieval with comprehensive security features like data masking and operation restrictions.",
+  "source_repo": "purodelphi/mcpfirebird",
+  "source_url": "https://github.com/purodelphi/mcpfirebird",
+  "install": "# git clone --depth 1 https://github.com/purodelphi/mcpfirebird\n# See source for mcpServers config block"
+}

@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Structured self-debugging workflow for AI agent failures using capture, diagnosis, contained recovery, and introspection reports.

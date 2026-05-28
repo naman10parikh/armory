@@ -1,0 +1,7 @@
+{
+  "name": "tkr-agent-chat",
+  "description": "Agent-based chat implementation",
+  "source_repo": "TuckerTucker/tkr-agent-chat",
+  "source_url": "https://github.com/TuckerTucker/tkr-agent-chat",
+  "install": "# git clone --depth 1 https://github.com/TuckerTucker/tkr-agent-chat\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ab-component-server",
+  "description": "AB Component Server MCP server listed on mcp.so.",
+  "source_repo": "python/AB Component Server",
+  "source_url": "https://mcp.so/server/AB Component Server/python",
+  "install": "# git clone --depth 1 https://mcp.so/server/AB Component Server/python\n# See source for mcpServers config block"
+}

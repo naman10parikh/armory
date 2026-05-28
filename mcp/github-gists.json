@@ -1,0 +1,7 @@
+{
+  "name": "github-gists",
+  "description": "Provides a bridge to GitHub Gists for creating, retrieving, updating, listing, and deleting code snippets directly through conversational interfaces.",
+  "source_repo": "bmorphism/gists-mcp-server",
+  "source_url": "https://github.com/bmorphism/gists-mcp-server",
+  "install": "npx -y gists-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reporelay",
+  "description": "Self-hosted MCP server for indexing and searching code repositories via hybrid search and deep code understanding.",
+  "source_repo": "chwoerz/reporelay",
+  "source_url": "https://github.com/chwoerz/reporelay",
+  "install": "# git clone --depth 1 https://github.com/chwoerz/reporelay\n# See source for mcpServers config block"
+}

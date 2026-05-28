@@ -1,0 +1,7 @@
+{
+  "name": "luzia",
+  "description": "Real-time cryptocurrency prices, historical OHLCV data, and cross-exchange comparison from Binance, Coinbase, Kraken, OKX, and Bybit.",
+  "source_repo": "luziadev/mcp-server",
+  "source_url": "https://github.com/luziadev/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/luziadev/mcp-server\n# See source for mcpServers config block"
+}

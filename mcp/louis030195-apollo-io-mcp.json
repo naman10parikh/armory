@@ -1,0 +1,7 @@
+{
+  "name": "louis030195-apollo-io-mcp",
+  "description": "B2B sales intelligence and prospecting with Apollo.io. Search for prospects, enrich contacts with emails and phone numbers, discover companies by industry and size, and access Apollo's database of 275M+ contacts.",
+  "source_repo": "louis030195/apollo-io-mcp",
+  "source_url": "https://github.com/louis030195/apollo-io-mcp",
+  "install": "npx -y apollo-io-mcp"
+}

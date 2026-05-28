@@ -1,0 +1,7 @@
+{
+  "name": "coredash",
+  "description": "Real User Monitoring platform for Core Web Vitals, providing LCP, INP, and CLS performance data from real site visitors.",
+  "source_repo": "corewebvitals/coredash-mcp",
+  "source_url": "https://github.com/corewebvitals/coredash-mcp",
+  "install": "npx -y coredash-mcp"
+}

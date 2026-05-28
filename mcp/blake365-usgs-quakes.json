@@ -1,0 +1,7 @@
+{
+  "name": "blake365-usgs-quakes",
+  "description": "Integrates with USGS earthquake data to provide real-time access for querying and analyzing seismic events, enabling applications in disaster response, geological research, and risk assessment.",
+  "source_repo": "blake365/usgs-quakes-mcp",
+  "source_url": "https://github.com/blake365/usgs-quakes-mcp",
+  "install": "npx -y usgs-quakes-mcp"
+}

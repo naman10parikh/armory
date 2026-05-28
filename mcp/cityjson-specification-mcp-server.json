@@ -1,0 +1,7 @@
+{
+  "name": "cityjson-specification-mcp-server",
+  "description": "Provides AI assistants with structured access to the CityJSON specification, enabling on-demand fetching of specific chapters.",
+  "source_repo": "cityjson/cj-mcp",
+  "source_url": "https://github.com/cityjson/cj-mcp",
+  "install": "npx -y cj-mcp"
+}

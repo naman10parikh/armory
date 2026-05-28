@@ -1,0 +1,7 @@
+{
+  "name": "semrush-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Semrush's tools and services through a unified API using the Model Context Protocol.",
+  "source_repo": "universal-mcp/semrush",
+  "source_url": "https://github.com/universal-mcp/semrush",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/semrush\n# See source for mcpServers config block"
+}

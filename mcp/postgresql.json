@@ -1,0 +1,7 @@
+{
+  "name": "postgresql",
+  "description": "Provides direct PostgreSQL database access through natural language SQL querying with read-only transaction safety, schema introspection, and table/column discovery for data analysis workflows.",
+  "source_repo": "ahmedmustahid/postgres-mcp-server",
+  "source_url": "https://github.com/ahmedmustahid/postgres-mcp-server",
+  "install": "npx -y postgres-mcp-server"
+}

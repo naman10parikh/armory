@@ -1,0 +1,7 @@
+{
+  "name": "dma9527-irs-taxpayer",
+  "description": "39 US tax calculation tools covering federal, state, credits, deductions, and retirement planning.",
+  "source_repo": "dma9527/irs-taxpayer-mcp",
+  "source_url": "https://github.com/dma9527/irs-taxpayer-mcp",
+  "install": "npx -y irs-taxpayer-mcp"
+}

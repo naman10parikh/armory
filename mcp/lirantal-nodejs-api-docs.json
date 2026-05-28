@@ -1,0 +1,7 @@
+{
+  "name": "lirantal-nodejs-api-docs",
+  "description": "Provides up-to-date access to official Node.js core module documentation through search and retrieval tools that fetch from nodejs.org with 7-day caching for current API reference without relying on outdated training data.",
+  "source_repo": "lirantal/mcp-server-nodejs-api-docs",
+  "source_url": "https://github.com/lirantal/mcp-server-nodejs-api-docs",
+  "install": "# git clone --depth 1 https://github.com/lirantal/mcp-server-nodejs-api-docs\n# See source for mcpServers config block"
+}

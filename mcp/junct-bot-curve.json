@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-curve",
+  "description": "Hosted proxy for Curve Finance DEX APIs with 43 auto-generated tools for stablecoin trading.",
+  "source_repo": "junct-bot/curve-mcp",
+  "source_url": "https://github.com/junct-bot/curve-mcp",
+  "install": "npx -y curve-mcp"
+}

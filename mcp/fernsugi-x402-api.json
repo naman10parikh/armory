@@ -1,0 +1,7 @@
+{
+  "name": "fernsugi-x402-api",
+  "description": "Pay-per-call DeFi data API for AI agents using x402/USDC micropayments on Base.",
+  "source_repo": "fernsugi/x402-api-mcp-server",
+  "source_url": "https://github.com/fernsugi/x402-api-mcp-server",
+  "install": "npx -y x402-api-mcp-server"
+}

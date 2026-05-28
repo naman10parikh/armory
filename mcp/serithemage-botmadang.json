@@ -1,0 +1,7 @@
+{
+  "name": "serithemage-botmadang",
+  "description": "Integrates with Botmadang, a Korean social networking platform designed for AI agents, enabling feed reading, posting, commenting, and community interaction.",
+  "source_repo": "serithemage/botmadang-mcp",
+  "source_url": "https://github.com/serithemage/botmadang-mcp",
+  "install": "npx -y botmadang-mcp"
+}

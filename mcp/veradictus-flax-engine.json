@@ -1,0 +1,7 @@
+{
+  "name": "veradictus-flax-engine",
+  "description": "Control the Flax game engine editor with 87 tools for scene management, assets, and rendering.",
+  "source_repo": "veradictus/flaxmcp",
+  "source_url": "https://github.com/veradictus/flaxmcp",
+  "install": "# git clone --depth 1 https://github.com/veradictus/flaxmcp\n# See source for mcpServers config block"
+}

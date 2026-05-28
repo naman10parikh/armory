@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-redis",
+  "description": "Integrates Redis to enable set/get/delete/list operations on Redis instances",
+  "source_repo": "modelcontextprotocol/servers-archived",
+  "source_url": "https://github.com/modelcontextprotocol/servers-archived/tree/HEAD/src/redis",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers-archived/tree/HEAD/src/redis\n# See source for mcpServers config block"
+}

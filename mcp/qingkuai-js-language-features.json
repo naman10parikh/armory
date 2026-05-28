@@ -1,0 +1,7 @@
+{
+  "name": "qingkuai-js-language-features",
+  "description": "Provides QingKuai language tooling and code analysis to AI assistants via an MCP server component.",
+  "source_repo": "qingkuai-js/language-features",
+  "source_url": "https://github.com/qingkuai-js/language-features/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/qingkuai-js/language-features/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mux-video-data",
+  "description": "Integrates with Mux's Video and Data platform to enable video upload, live stream management, analytics querying, and performance metrics tracking across video infrastructure without manual dashboard interaction.",
+  "source_repo": "muxinc/mux-node-sdk",
+  "source_url": "https://github.com/muxinc/mux-node-sdk",
+  "install": "# git clone --depth 1 https://github.com/muxinc/mux-node-sdk\n# See source for mcpServers config block"
+}

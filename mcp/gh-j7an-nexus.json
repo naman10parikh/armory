@@ -1,0 +1,7 @@
+{
+  "name": "gh-j7an-nexus",
+  "description": "Enables AI models to invoke AI CLI agents (Gemini CLI, Codex, Claude Code, OpenCode) as tools with parallel execution and automatic retries.",
+  "source_repo": "j7an/nexus-mcp",
+  "source_url": "https://github.com/j7an/nexus-mcp",
+  "install": "npx -y nexus-mcp"
+}

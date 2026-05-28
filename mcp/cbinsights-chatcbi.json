@@ -1,0 +1,7 @@
+{
+  "name": "cbinsights-chatcbi",
+  "description": "Integrates with CB Insights' ChatCBI platform to provide direct access to market intelligence, company research, funding data, acquisitions, partnerships, and competitive analysis through conversational queries.",
+  "source_repo": "cbinsights/cbi-mcp-server",
+  "source_url": "https://github.com/cbinsights/cbi-mcp-server",
+  "install": "npx -y cbi-mcp-server"
+}

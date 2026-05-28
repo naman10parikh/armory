@@ -1,0 +1,7 @@
+{
+  "name": "alexcs24-medusa-docs",
+  "description": "Provides local Medusa.js documentation access through fuzzy search capabilities, enabling semantic text matching, section retrieval by title or path, and comprehensive section listing with configurable search thresholds for quick framework reference without leaving your development environment.",
+  "source_repo": "alexcs24/medusa.js-documentation-mcp-server",
+  "source_url": "https://github.com/alexcs24/medusa.js-documentation-mcp-server",
+  "install": "npx -y medusa.js-documentation-mcp-server"
+}

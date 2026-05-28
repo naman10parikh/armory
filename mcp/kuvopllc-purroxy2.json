@@ -1,0 +1,7 @@
+{
+  "name": "kuvopllc-purroxy2",
+  "description": "Record what you do on any website and securely automate it forever. Replays browser actions in headless Playwright with encrypted credentials and AI-powered selector healing.",
+  "source_repo": "KuvopLLC/purroxy2",
+  "source_url": "https://github.com/KuvopLLC/purroxy2",
+  "install": "# git clone --depth 1 https://github.com/KuvopLLC/purroxy2\n# See source for mcpServers config block"
+}

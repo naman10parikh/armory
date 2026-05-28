@@ -1,0 +1,7 @@
+{
+  "name": "lab94-frenchie",
+  "description": "Processes PDFs, images, audio, and video, and generates images from text prompts.",
+  "source_repo": "lab94/frenchie-skill",
+  "source_url": "https://github.com/lab94/frenchie-skill",
+  "install": "# git clone --depth 1 https://github.com/lab94/frenchie-skill\n# See source for mcpServers config block"
+}

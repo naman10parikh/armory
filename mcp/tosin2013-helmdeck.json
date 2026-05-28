@@ -1,0 +1,7 @@
+{
+  "name": "tosin2013-helmdeck",
+  "description": "Self-hosted AI agent platform with native MCP support for open-weight local language models.",
+  "source_repo": "tosin2013/helmdeck",
+  "source_url": "https://github.com/tosin2013/helmdeck",
+  "install": "# git clone --depth 1 https://github.com/tosin2013/helmdeck\n# See source for mcpServers config block"
+}

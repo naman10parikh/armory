@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-prompt-builder",
+  "description": "Surfaces Salesforce Prompt Builder templates as MCP prompts for AI agents to leverage org-managed prompt templates.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/salesforce-prompt-builder",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/salesforce-prompt-builder\n# See source for mcpServers config block"
+}

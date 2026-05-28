@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-dynadot",
+  "description": "Manage domains, DNS records, contacts, and transfers through the Dynadot domain registrar API.",
+  "source_repo": "mikusnuz/dynadot-mcp",
+  "source_url": "https://github.com/mikusnuz/dynadot-mcp",
+  "install": "npx -y dynadot-mcp"
+}

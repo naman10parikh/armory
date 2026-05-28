@@ -1,0 +1,7 @@
+{
+  "name": "ssaurabh9-taiga",
+  "description": "Integrates with Taiga project management platform for user story creation, task management, project member coordination, and status tracking through token-based authentication and flexible identifier resolution.",
+  "source_repo": "ssaurabh9/taiga-mcp",
+  "source_url": "https://github.com/ssaurabh9/taiga-mcp",
+  "install": "npx -y taiga-mcp"
+}

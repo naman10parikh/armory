@@ -1,0 +1,7 @@
+{
+  "name": "agenthotspot",
+  "description": "Search thousands of MCP connectors from the AgentHotspot marketplace.",
+  "source_repo": "agenthotspot/agenthotspot-mcp",
+  "source_url": "https://github.com/agenthotspot/agenthotspot-mcp",
+  "install": "npx -y agenthotspot-mcp"
+}

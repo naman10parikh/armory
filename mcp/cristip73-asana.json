@@ -1,0 +1,7 @@
+{
+  "name": "cristip73-asana",
+  "description": "Integrates with Asana's API to enable task management, project organization, and collaboration workflows through 30+ tools for searching, creating, and visualizing projects and tasks.",
+  "source_repo": "cristip73/mcp-server-asana",
+  "source_url": "https://github.com/cristip73/mcp-server-asana",
+  "install": "# git clone --depth 1 https://github.com/cristip73/mcp-server-asana\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imankamyabi-dynamodb",
+  "description": "Integrates with Amazon DynamoDB to enable natural language-based table management, capacity adjustment, and data operations while maintaining safeguards against accidental deletions.",
+  "source_repo": "imankamyabi/dynamodb-mcp-server",
+  "source_url": "https://github.com/imankamyabi/dynamodb-mcp-server",
+  "install": "npx -y dynamodb-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-registry",
+  "description": "Search and retrieve information from the official MCP registry",
+  "source_repo": "jaw9c/mcp-registry-mcp",
+  "source_url": "https://github.com/jaw9c/mcp-registry-mcp",
+  "install": "npx -y mcp-registry-mcp"
+}

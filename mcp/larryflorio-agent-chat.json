@@ -1,0 +1,7 @@
+{
+  "name": "larryflorio-agent-chat",
+  "description": "Multi-agent coordination server using a shared file-based chat log for inter-agent messaging and handoff summaries.",
+  "source_repo": "larryflorio/agent-chat",
+  "source_url": "https://github.com/larryflorio/agent-chat",
+  "install": "# git clone --depth 1 https://github.com/larryflorio/agent-chat\n# See source for mcpServers config block"
+}

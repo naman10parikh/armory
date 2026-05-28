@@ -1,0 +1,7 @@
+{
+  "name": "weibo-hot-search-mcp-server",
+  "description": "MCP server that fetches Weibo hot search trends. Supports Stdio, SSE, and Streamable HTTP.",
+  "source_repo": "bossdong955/mcp-server-example",
+  "source_url": "https://github.com/bossdong955/mcp-server-example",
+  "install": "# git clone --depth 1 https://github.com/bossdong955/mcp-server-example\n# See source for mcpServers config block"
+}

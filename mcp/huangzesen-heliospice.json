@@ -1,0 +1,7 @@
+{
+  "name": "huangzesen-heliospice",
+  "description": "Spacecraft ephemeris with auto-managed SPICE kernels for heliophysics.",
+  "source_repo": "huangzesen/xhelio-spice",
+  "source_url": "https://github.com/huangzesen/xhelio-spice",
+  "install": "# git clone --depth 1 https://github.com/huangzesen/xhelio-spice\n# See source for mcpServers config block"
+}

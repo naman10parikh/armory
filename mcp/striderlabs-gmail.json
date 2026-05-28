@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-gmail",
+  "description": "Gmail integration for sending, reading, searching, and listing emails via Google APIs.",
+  "source_repo": "markswendsen-code/mcp-gmail",
+  "source_url": "https://github.com/markswendsen-code/mcp-gmail",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-gmail\n# See source for mcpServers config block"
+}

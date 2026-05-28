@@ -1,0 +1,7 @@
+{
+  "name": "dennismartis-coding-todo",
+  "description": "Integrates project management tools for viewing, adding, updating, and deleting todo items with priority setting, tagging, and project assignment capabilities, enabling efficient task tracking and AI-assisted prioritization for software development workflows.",
+  "source_repo": "dennismartis/mcp-todo",
+  "source_url": "https://github.com/dennismartis/mcp-todo",
+  "install": "# git clone --depth 1 https://github.com/dennismartis/mcp-todo\n# See source for mcpServers config block"
+}

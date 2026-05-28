@@ -1,0 +1,7 @@
+{
+  "name": "yiwenlu66-piloty",
+  "description": "AI pilot for PTY operations enabling agents to control interactive terminals with stateful sessions, SSH connections, and background process management",
+  "source_repo": "yiwenlu66/PiloTY",
+  "source_url": "https://github.com/yiwenlu66/PiloTY",
+  "install": "# git clone --depth 1 https://github.com/yiwenlu66/PiloTY\n# See source for mcpServers config block"
+}

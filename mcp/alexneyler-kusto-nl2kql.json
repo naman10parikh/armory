@@ -1,0 +1,7 @@
+{
+  "name": "alexneyler-kusto-nl2kql",
+  "description": "Enables natural language querying of Azure Data Explorer (Kusto) databases by translating questions into KQL queries without requiring KQL expertise",
+  "source_repo": "alexneyler/kusto-mcp",
+  "source_url": "https://github.com/alexneyler/kusto-mcp",
+  "install": "npx -y kusto-mcp"
+}

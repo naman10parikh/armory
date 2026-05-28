@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-calendar",
+  "description": "Enables managing Google Calendar events including creating, listing, updating, and deleting events through natural language.",
+  "source_repo": "v01t/mcp-google-calendar",
+  "source_url": "https://github.com/v01t/mcp-google-calendar",
+  "install": "# git clone --depth 1 https://github.com/v01t/mcp-google-calendar\n# See source for mcpServers config block"
+}

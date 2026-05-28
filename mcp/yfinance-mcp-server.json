@@ -1,0 +1,7 @@
+{
+  "name": "yfinance-mcp-server",
+  "description": "Provides AI-friendly stock analysis using Yahoo Finance data, including technical indicators, financial metrics, and Japanese reports.",
+  "source_repo": "mokemokechicken/yfinance-mcp-server",
+  "source_url": "https://github.com/mokemokechicken/yfinance-mcp-server",
+  "install": "npx -y yfinance-mcp-server"
+}

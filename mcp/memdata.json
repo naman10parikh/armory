@@ -1,0 +1,7 @@
+{
+  "name": "memdata",
+  "description": "Persistent memory for AI agents with semantic search, session continuity, and support for text, PDFs, images, and audio.",
+  "source_repo": "thelabvenice/memdata-mcp",
+  "source_url": "https://github.com/thelabvenice/memdata-mcp",
+  "install": "npx -y memdata-mcp"
+}

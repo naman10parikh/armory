@@ -1,0 +1,7 @@
+{
+  "name": "hofill-requestrepo",
+  "description": "Integrates with requestrepo webhook testing service for HTTP request capture, DNS record management, file response configuration, and real-time polling.",
+  "source_repo": "hofill/requestrepo-mcp",
+  "source_url": "https://github.com/hofill/requestrepo-mcp",
+  "install": "npx -y requestrepo-mcp"
+}

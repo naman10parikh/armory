@@ -1,0 +1,7 @@
+{
+  "name": "pthahnix-neocortica-scholar",
+  "description": "Academic paper searching, fetching, reading, and reference exploration across arXiv, Semantic Scholar, and Unpaywall with full-text markdown conversion and AI-powered three-pass analysis.",
+  "source_repo": "pthahnix/neocortica-scholar",
+  "source_url": "https://github.com/pthahnix/neocortica-scholar",
+  "install": "# git clone --depth 1 https://github.com/pthahnix/neocortica-scholar\n# See source for mcpServers config block"
+}

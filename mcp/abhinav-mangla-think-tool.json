@@ -1,0 +1,7 @@
+{
+  "name": "abhinav-mangla-think-tool",
+  "description": "Provides a structured thought process management system for maintaining explicit reasoning steps, policy verification, and tool output analysis through persistent memory storage",
+  "source_repo": "abhinav-mangla/think-tool-mcp",
+  "source_url": "https://github.com/abhinav-mangla/think-tool-mcp",
+  "install": "npx -y think-tool-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ognis1205-unitycatalog",
+  "description": "Integrates with Unity Catalog to enable seamless execution of database functions, with tools for listing, retrieving, creating, and deleting functions within specified catalog environments.",
+  "source_repo": "ognis1205/mcp-server-unitycatalog",
+  "source_url": "https://github.com/ognis1205/mcp-server-unitycatalog",
+  "install": "# git clone --depth 1 https://github.com/ognis1205/mcp-server-unitycatalog\n# See source for mcpServers config block"
+}

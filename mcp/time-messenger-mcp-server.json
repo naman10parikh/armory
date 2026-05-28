@@ -1,0 +1,7 @@
+{
+  "name": "time-messenger-mcp-server",
+  "description": "MCP server for T-Bank's Time Messenger (Mattermost-based) that enables AI assistants to read and send messages, manage threads, search channels and users, and track unread messages.",
+  "source_repo": "BarredEwe/time-messenger-mcp-server",
+  "source_url": "https://github.com/BarredEwe/time-messenger-mcp-server",
+  "install": "npx -y time-messenger-mcp-server"
+}

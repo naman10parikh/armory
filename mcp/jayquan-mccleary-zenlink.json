@@ -1,0 +1,7 @@
+{
+  "name": "jayquan-mccleary-zenlink",
+  "description": "Browser automation bridge for Zen Browser and Firefox through the ZenLink companion extension.",
+  "source_repo": "jayquan-mccleary/zenlink-mcp",
+  "source_url": "https://github.com/jayquan-mccleary/zenlink-mcp",
+  "install": "npx -y zenlink-mcp"
+}

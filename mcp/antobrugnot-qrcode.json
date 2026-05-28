@@ -1,0 +1,7 @@
+{
+  "name": "antobrugnot-qrcode",
+  "description": "Generates QR codes in multiple formats including base64 data URLs, SVG, and terminal ASCII output with customizable error correction, colors, and batch processing for up to 10 codes simultaneously.",
+  "source_repo": "antobrugnot/qrcode-mcp",
+  "source_url": "https://github.com/antobrugnot/qrcode-mcp",
+  "install": "npx -y qrcode-mcp"
+}

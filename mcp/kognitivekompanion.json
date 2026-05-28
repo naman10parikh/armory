@@ -1,0 +1,7 @@
+{
+  "name": "kognitivekompanion",
+  "description": "KognitiveKompanion MCP server listed on mcp.so.",
+  "source_repo": "MagicUnicornInc/KognitiveKompanion",
+  "source_url": "https://mcp.so/server/KognitiveKompanion/MagicUnicornInc",
+  "install": "# git clone --depth 1 https://mcp.so/server/KognitiveKompanion/MagicUnicornInc\n# See source for mcpServers config block"
+}

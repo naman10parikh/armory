@@ -1,0 +1,7 @@
+{
+  "name": "elasticemail",
+  "description": "Turn your favourite AI tool into a personal email agent.",
+  "source_repo": "elasticemail/elasticemail-mcp-server",
+  "source_url": "https://github.com/elasticemail/elasticemail-mcp-server",
+  "install": "npx -y elasticemail-mcp-server"
+}

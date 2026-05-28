@@ -1,0 +1,7 @@
+{
+  "name": "coolify-mcp-server",
+  "description": "Coolify Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "wrediam/coolify-mcp-server",
+  "source_url": "https://mcp.so/server/coolify-mcp-server/wrediam",
+  "install": "npx -y coolify-mcp-server"
+}

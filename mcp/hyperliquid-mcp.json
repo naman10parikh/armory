@@ -1,0 +1,7 @@
+{
+  "name": "hyperliquid-mcp",
+  "description": "Enables AI assistants to securely trade on Hyperliquid perpetual exchange, including order placement, position management, market data retrieval, and vault operations via natural language.",
+  "source_repo": "edkdev/hyperliquid-mcp",
+  "source_url": "https://github.com/edkdev/hyperliquid-mcp",
+  "install": "npx -y hyperliquid-mcp"
+}

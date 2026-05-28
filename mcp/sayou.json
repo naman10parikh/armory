@@ -1,0 +1,7 @@
+{
+  "name": "sayou",
+  "description": "Persistent file-based knowledge workspace for AI agents with versioning and search.",
+  "source_repo": "pixell-global/sayou",
+  "source_url": "https://github.com/pixell-global/sayou",
+  "install": "# git clone --depth 1 https://github.com/pixell-global/sayou\n# See source for mcpServers config block"
+}

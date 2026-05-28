@@ -1,0 +1,7 @@
+{
+  "name": "semihkayan-codeweave",
+  "description": "Token-efficient code context provider that retrieves targeted snippets instead of full file dumps.",
+  "source_repo": "semihkayan/codeweave-mcp",
+  "source_url": "https://github.com/semihkayan/codeweave-mcp",
+  "install": "npx -y codeweave-mcp"
+}

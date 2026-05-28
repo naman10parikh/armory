@@ -1,0 +1,7 @@
+{
+  "name": "griches-apple-apps",
+  "description": "Integrates with macOS native Apple applications including Notes, Messages, Contacts, Mail, Reminders, Calendar, and Maps through AppleScript automation.",
+  "source_repo": "griches/apple-mcp",
+  "source_url": "https://github.com/griches/apple-mcp",
+  "install": "npx -y apple-mcp"
+}

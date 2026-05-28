@@ -1,0 +1,7 @@
+{
+  "name": "development-workflow-mcp-server",
+  "description": "An MCP server that enforces development discipline and workflow best practices, guiding users through a structured process of coding, testing, documenting, committing, and releasing.",
+  "source_repo": "programinglive/dev-workflow-mcp-server",
+  "source_url": "https://github.com/programinglive/dev-workflow-mcp-server",
+  "install": "npx -y dev-workflow-mcp-server"
+}

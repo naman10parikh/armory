@@ -1,0 +1,7 @@
+{
+  "name": "mintline",
+  "description": "Connect to Mintline receipts, transactions, and spending analytics.",
+  "source_repo": "mintlineai/mintline-mcp",
+  "source_url": "https://github.com/mintlineai/mintline-mcp",
+  "install": "npx -y mintline-mcp"
+}

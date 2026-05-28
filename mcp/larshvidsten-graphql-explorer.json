@@ -1,0 +1,7 @@
+{
+  "name": "larshvidsten-graphql-explorer",
+  "description": "Integrates with GraphQL APIs to enable secure data retrieval, query execution, and schema exploration for AI applications",
+  "source_repo": "larshvidsten/mcp_af_graph",
+  "source_url": "https://github.com/larshvidsten/mcp_af_graph",
+  "install": "# git clone --depth 1 https://github.com/larshvidsten/mcp_af_graph\n# See source for mcpServers config block"
+}

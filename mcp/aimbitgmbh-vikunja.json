@@ -1,0 +1,7 @@
+{
+  "name": "aimbitgmbh-vikunja",
+  "description": "Integrates with Vikunja self-hosted task management to enable project and task operations including kanban boards, labels, comments, assignees, and bulk operations with safety controls for destructive actions.",
+  "source_repo": "aimbitgmbh/vikunja-mcp",
+  "source_url": "https://github.com/aimbitgmbh/vikunja-mcp",
+  "install": "npx -y vikunja-mcp"
+}

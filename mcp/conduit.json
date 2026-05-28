@@ -1,0 +1,7 @@
+{
+  "name": "conduit",
+  "description": "Integrates with Phabricator and Phorge APIs to enable task management, code review operations, repository access, and project automation through the Conduit API with comprehensive error handling and secure authentication.",
+  "source_repo": "cortex-app/conduit",
+  "source_url": "https://github.com/cortex-app/conduit",
+  "install": "# git clone --depth 1 https://github.com/cortex-app/conduit\n# See source for mcpServers config block"
+}

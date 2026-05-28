@@ -1,0 +1,7 @@
+{
+  "name": "cdpath-chatgpt-app",
+  "description": "Enables interaction with the ChatGPT macOS app through AppleScript automation, allowing tools to send prompts via keyboard input simulation without switching interfaces.",
+  "source_repo": "cdpath/mcp-server-chatgpt-app",
+  "source_url": "https://github.com/cdpath/mcp-server-chatgpt-app",
+  "install": "# git clone --depth 1 https://github.com/cdpath/mcp-server-chatgpt-app\n# See source for mcpServers config block"
+}

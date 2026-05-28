@@ -1,0 +1,7 @@
+{
+  "name": "insideos-cowork-qa",
+  "description": "Goal-driven Playwright browser sessions for AI agents with full action traces and automated QA workflows.",
+  "source_repo": "insideos-designs/cowork-qa-mcp",
+  "source_url": "https://github.com/insideos-designs/cowork-qa-mcp",
+  "install": "npx -y cowork-qa-mcp"
+}

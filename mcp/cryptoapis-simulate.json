@@ -1,0 +1,7 @@
+{
+  "name": "cryptoapis-simulate",
+  "description": "Dry-run EVM transaction simulation for testing before on-chain execution via Crypto APIs.",
+  "source_repo": "cryptoapis-io/cryptoapis-mcp-simulate",
+  "source_url": "https://github.com/cryptoapis-io/cryptoapis-mcp-simulate",
+  "install": "# git clone --depth 1 https://github.com/cryptoapis-io/cryptoapis-mcp-simulate\n# See source for mcpServers config block"
+}

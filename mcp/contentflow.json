@@ -1,0 +1,7 @@
+{
+  "name": "contentflow",
+  "description": "Search and analyze business podcast transcripts, entities, and speakers.",
+  "source_repo": "",
+  "source_url": "https://api.gocontentflow.com/mcp/",
+  "install": "# git clone --depth 1 https://api.gocontentflow.com/mcp/\n# See source for mcpServers config block"
+}

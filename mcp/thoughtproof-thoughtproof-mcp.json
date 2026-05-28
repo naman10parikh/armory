@@ -1,0 +1,7 @@
+{
+  "name": "thoughtproof-thoughtproof-mcp",
+  "description": "Adversarial multi-model reasoning verification for AI agents before trades execute. Claude, Grok, and DeepSeek challenge each decision — returns ALLOW or HOLD with JWKS-signed attestation. x402-gated on Base (USDC). Part of the 4-issuer Combined Attestation Standard with InsumerAPI, RNWY, and Maiat.",
+  "source_repo": "ThoughtProof/thoughtproof-mcp",
+  "source_url": "https://github.com/ThoughtProof/thoughtproof-mcp",
+  "install": "npx -y thoughtproof-mcp"
+}

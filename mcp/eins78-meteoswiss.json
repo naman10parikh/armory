@@ -1,0 +1,7 @@
+{
+  "name": "eins78-meteoswiss",
+  "description": "Swiss weather data including forecasts, measurements, station data, and pollen information.",
+  "source_repo": "eins78/meteoswiss-llm-tools",
+  "source_url": "https://github.com/eins78/meteoswiss-llm-tools/tree/HEAD/packages/meteoswiss-mcp",
+  "install": "# git clone --depth 1 https://github.com/eins78/meteoswiss-llm-tools/tree/HEAD/packages/meteoswiss-mcp\n# See source for mcpServers config block"
+}

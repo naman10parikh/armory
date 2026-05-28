@@ -1,0 +1,7 @@
+{
+  "name": "estevaom-journal-rag",
+  "description": "Enables semantic search through personal markdown journal entries using vector database technology for effortless retrieval of past experiences, thoughts, and activities.",
+  "source_repo": "estevaom/markdown-journal-rust",
+  "source_url": "https://github.com/estevaom/markdown-journal-rust",
+  "install": "# git clone --depth 1 https://github.com/estevaom/markdown-journal-rust\n# See source for mcpServers config block"
+}

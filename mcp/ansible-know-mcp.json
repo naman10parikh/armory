@@ -1,0 +1,7 @@
+{
+  "name": "ansible-know-mcp",
+  "description": "Module discovery, documentation search, and skill generation for AI agents via the Model Context Protocol.",
+  "source_repo": "leogallego/ansible-know-mcp",
+  "source_url": "https://github.com/leogallego/ansible-know-mcp",
+  "install": "npx -y ansible-know-mcp"
+}

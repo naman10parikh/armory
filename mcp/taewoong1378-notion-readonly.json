@@ -1,0 +1,7 @@
+{
+  "name": "taewoong1378-notion-readonly",
+  "description": "Provides an optimized read-only interface to Notion content with parallel processing and intelligent caching for faster document analysis and knowledge retrieval.",
+  "source_repo": "taewoong1378/notion-readonly-mcp-server",
+  "source_url": "https://github.com/taewoong1378/notion-readonly-mcp-server",
+  "install": "npx -y notion-readonly-mcp-server"
+}

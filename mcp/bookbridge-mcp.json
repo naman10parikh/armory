@@ -1,0 +1,7 @@
+{
+  "name": "bookbridge-mcp",
+  "description": "MCP server for Chinese-to-English book translation and document processing, providing tools, resources, and prompts for efficient translation workflows.",
+  "source_repo": "Polly2014/BookBridge-MCP-Server",
+  "source_url": "https://github.com/Polly2014/BookBridge-MCP-Server",
+  "install": "npx -y BookBridge-MCP-Server"
+}

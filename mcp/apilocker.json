@@ -1,0 +1,7 @@
+{
+  "name": "apilocker",
+  "description": "Encrypted credential vault for LLM, service, and OAuth keys.",
+  "source_repo": "apilocker/apilocker",
+  "source_url": "https://github.com/apilocker/apilocker/tree/HEAD/cli",
+  "install": "# git clone --depth 1 https://github.com/apilocker/apilocker/tree/HEAD/cli\n# See source for mcpServers config block"
+}

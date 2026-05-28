@@ -1,0 +1,7 @@
+{
+  "name": "aureuserp",
+  "description": "Exposes ERP business intelligence tools and developer introspection capabilities for the AureusERP Laravel platform.",
+  "source_repo": "aureuserp/mcp",
+  "source_url": "https://github.com/aureuserp/mcp",
+  "install": "# git clone --depth 1 https://github.com/aureuserp/mcp\n# See source for mcpServers config block"
+}

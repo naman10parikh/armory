@@ -1,0 +1,7 @@
+{
+  "name": "supermemory",
+  "description": "Personal knowledge platform that helps collect, organize, and recall information from various sources with end-to-end encryption and optional self-hosting.",
+  "source_repo": "supermemoryai/supermemory-mcp",
+  "source_url": "https://github.com/supermemoryai/supermemory-mcp",
+  "install": "npx -y supermemory-mcp"
+}

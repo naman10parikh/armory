@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-meok-dora-tlpt-planner-mcp",
+  "description": "Python MCP server for DORA TLPT threat-led penetration testing planning.",
+  "source_repo": "csoai-org/meok-dora-tlpt-planner-mcp",
+  "source_url": "https://github.com/csoai-org/meok-dora-tlpt-planner-mcp",
+  "install": "npx -y meok-dora-tlpt-planner-mcp"
+}

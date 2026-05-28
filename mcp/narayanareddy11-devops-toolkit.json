@@ -1,0 +1,7 @@
+{
+  "name": "narayanareddy11-devops-toolkit",
+  "description": "Collection of 15 MCP servers for a complete local DevOps stack, covering CI/CD, K8s, security, observability, and storage.",
+  "source_repo": "narayanareddy11/devops-mcp-toolkit",
+  "source_url": "https://github.com/narayanareddy11/devops-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/narayanareddy11/devops-mcp-toolkit\n# See source for mcpServers config block"
+}

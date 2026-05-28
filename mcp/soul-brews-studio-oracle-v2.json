@@ -1,0 +1,7 @@
+{
+  "name": "soul-brews-studio-oracle-v2",
+  "description": "Combines semantic vector search with full-text search to create an intelligent knowledge management system that indexes markdown documents, stores them in SQLite with FTS5 and ChromaDB for hybrid search, and provides decision tracking with GitHub issue integration.",
+  "source_repo": "soul-brews-studio/arra-oracle-v3",
+  "source_url": "https://github.com/soul-brews-studio/arra-oracle-v3",
+  "install": "# git clone --depth 1 https://github.com/soul-brews-studio/arra-oracle-v3\n# See source for mcpServers config block"
+}

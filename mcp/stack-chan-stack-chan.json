@@ -1,0 +1,7 @@
+{
+  "name": "stack-chan-stack-chan",
+  "description": "A JavaScript-driven M5Stack-embedded super-kawaii robot with MCP server functionality for AI-controlled interactions and emotions.",
+  "source_repo": "stack-chan/stack-chan",
+  "source_url": "https://github.com/stack-chan/stack-chan",
+  "install": "# git clone --depth 1 https://github.com/stack-chan/stack-chan\n# See source for mcpServers config block"
+}

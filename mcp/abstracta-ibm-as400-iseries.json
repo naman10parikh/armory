@@ -1,0 +1,7 @@
+{
+  "name": "abstracta-ibm-as400-iseries",
+  "description": "Connects to IBM AS/400 and iSeries mainframe systems through RTE protocols (TN5250, TN3270, VT420) with YAML-configurable terminal interaction flows for automated login sequences, menu navigation, and screen output retrieval.",
+  "source_repo": "abstracta/ibm-as-400-iseries-mcp-server",
+  "source_url": "https://github.com/abstracta/ibm-as-400-iseries-mcp-server",
+  "install": "npx -y ibm-as-400-iseries-mcp-server"
+}

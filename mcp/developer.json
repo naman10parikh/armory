@@ -1,0 +1,7 @@
+{
+  "name": "developer",
+  "description": "Developer MCP server listed on mcp.so.",
+  "source_repo": "tejpalvirk/developer",
+  "source_url": "https://mcp.so/server/developer/tejpalvirk",
+  "install": "# git clone --depth 1 https://mcp.so/server/developer/tejpalvirk\n# See source for mcpServers config block"
+}

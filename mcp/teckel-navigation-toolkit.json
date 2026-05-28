@@ -1,0 +1,7 @@
+{
+  "name": "teckel-navigation-toolkit",
+  "description": "Provides aviation flight planning with VFR routing, METAR/TAF weather data, WGS84 geodetic calculations, and road trip logistics.",
+  "source_repo": "teckel-mcp-servers/navigation-toolkit",
+  "source_url": "https://github.com/teckel-mcp-servers/navigation-toolkit",
+  "install": "# git clone --depth 1 https://github.com/teckel-mcp-servers/navigation-toolkit\n# See source for mcpServers config block"
+}

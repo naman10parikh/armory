@@ -1,0 +1,7 @@
+{
+  "name": "zhiqi-li-browser-cdp",
+  "description": "Local Chrome automation via CDP with profile-snapshot isolation and shared-broker multi-client support.",
+  "source_repo": "zhiqi-li/browser-mcp-cdp",
+  "source_url": "https://github.com/zhiqi-li/browser-mcp-cdp",
+  "install": "# git clone --depth 1 https://github.com/zhiqi-li/browser-mcp-cdp\n# See source for mcpServers config block"
+}

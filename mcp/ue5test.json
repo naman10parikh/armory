@@ -1,0 +1,7 @@
+{
+  "name": "ue5test",
+  "description": "Unreal Engine 5 testing with A2A protocol",
+  "source_repo": "jjh2v287/UE5Test",
+  "source_url": "https://github.com/jjh2v287/UE5Test",
+  "install": "# git clone --depth 1 https://github.com/jjh2v287/UE5Test\n# See source for mcpServers config block"
+}

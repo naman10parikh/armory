@@ -1,0 +1,7 @@
+{
+  "name": "zipp",
+  "description": "Multi-language crypto news aggregator with editorial sentiment and importance scoring.",
+  "source_repo": "deficlow/zipp-mcp",
+  "source_url": "https://github.com/deficlow/zipp-mcp",
+  "install": "npx -y zipp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "frontier-compute-zcash",
+  "description": "Zcash shielded operations for AI agents — memo decoding, attestation, and proof verification.",
+  "source_repo": "frontier-compute/zcash-mcp",
+  "source_url": "https://github.com/frontier-compute/zcash-mcp",
+  "install": "npx -y zcash-mcp"
+}

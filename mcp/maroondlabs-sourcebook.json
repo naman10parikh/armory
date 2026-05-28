@@ -1,0 +1,7 @@
+{
+  "name": "maroondlabs-sourcebook",
+  "description": "Live codebase intelligence for AI agents — conventions, blast radius analysis, import graphs, and git insights.",
+  "source_repo": "maroondlabs/sourcebook",
+  "source_url": "https://github.com/maroondlabs/sourcebook",
+  "install": "# git clone --depth 1 https://github.com/maroondlabs/sourcebook\n# See source for mcpServers config block"
+}

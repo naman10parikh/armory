@@ -1,0 +1,7 @@
+{
+  "name": "vscode-mcp",
+  "description": "Vscode Mcp MCP server listed on mcp.so.",
+  "source_repo": "block/vscode-mcp",
+  "source_url": "https://mcp.so/server/vscode-mcp/block",
+  "install": "npx -y vscode-mcp"
+}

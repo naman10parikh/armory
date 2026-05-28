@@ -1,0 +1,7 @@
+{
+  "name": "alan-thegentleman-gentleman-book",
+  "description": "Conversational access to technical content on software architecture and clean code principles",
+  "source_repo": "alan-thegentleman/gentleman-book-mcp",
+  "source_url": "https://github.com/alan-thegentleman/gentleman-book-mcp",
+  "install": "npx -y gentleman-book-mcp"
+}

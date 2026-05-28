@@ -1,0 +1,7 @@
+{
+  "name": "drawing-tool-for-ai-assistants",
+  "description": "Create and manipulate drawings with a simple canvas interface. Enhance your AI assistants by enabling them to draw filled shapes and export images effortlessly. Utilize this tool to bring visual creativity to your applications.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/flrngel/mcp-painter",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/flrngel/mcp-painter\n# See source for mcpServers config block"
+}

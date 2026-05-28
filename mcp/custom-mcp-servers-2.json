@@ -1,0 +1,7 @@
+{
+  "name": "custom-mcp-servers-2",
+  "description": "Custom MCP Servers MCP server listed on mcp.so.",
+  "source_repo": "Delta-Pion/Custom-MCP-Servers",
+  "source_url": "https://mcp.so/server/Custom-MCP-Servers/Delta-Pion",
+  "install": "# git clone --depth 1 https://mcp.so/server/Custom-MCP-Servers/Delta-Pion\n# See source for mcpServers config block"
+}

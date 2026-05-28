@@ -1,0 +1,7 @@
+{
+  "name": "vincentwei1021-agent-toolbox",
+  "description": "Provides 13 production-ready tools for web search, content extraction, weather, finance, screenshots, and more through a unified API.",
+  "source_repo": "vincentwei1021/agent-toolbox",
+  "source_url": "https://github.com/vincentwei1021/agent-toolbox",
+  "install": "# git clone --depth 1 https://github.com/vincentwei1021/agent-toolbox\n# See source for mcpServers config block"
+}

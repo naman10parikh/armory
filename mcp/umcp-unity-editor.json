@@ -1,0 +1,7 @@
+{
+  "name": "umcp-unity-editor",
+  "description": "Enables Unity Editor automation through HTTP interface for asset management, GUID generation, input testing, and development workflow operations with real-time command processing and extensible tool registration.",
+  "source_repo": "mika-f/umcp",
+  "source_url": "https://github.com/mika-f/umcp",
+  "install": "# git clone --depth 1 https://github.com/mika-f/umcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-tempo",
+  "description": "Manages Tempo time-tracking data including worklogs, plans, and timesheet approvals for Claude.",
+  "source_repo": "chrischall/tempo-api-mcp",
+  "source_url": "https://github.com/chrischall/tempo-api-mcp",
+  "install": "npx -y tempo-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aliceljy-recallnest",
+  "description": "Persistent memory MCP server for AI coding agents (Claude Code, Codex, Gemini CLI). Hybrid retrieval (vector + BM25), cross-encoder reranking, knowledge graph with PPR traversal, session checkpoint/resume, and multi-scope isolation. Local-first with LanceDB + SQLite, zero external dependencies.",
+  "source_repo": "AliceLJY/recallnest",
+  "source_url": "https://github.com/AliceLJY/recallnest",
+  "install": "# git clone --depth 1 https://github.com/AliceLJY/recallnest\n# See source for mcpServers config block"
+}

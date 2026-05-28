@@ -1,0 +1,7 @@
+{
+  "name": "mcpjam-spec",
+  "description": "Provides searchable access to the complete MCP specification document using fuzzy search capabilities, enabling quick retrieval of protocol details through predefined section queries like 'Introduction', 'Core components', 'Connection lifecycle', 'Resources', 'Tools', and 'Authorization'.",
+  "source_repo": "mcpjam/mcp-spec",
+  "source_url": "https://github.com/mcpjam/mcp-spec",
+  "install": "# git clone --depth 1 https://github.com/mcpjam/mcp-spec\n# See source for mcpServers config block"
+}

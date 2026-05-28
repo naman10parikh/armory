@@ -1,0 +1,7 @@
+{
+  "name": "kablewy-salesforce",
+  "description": "Integrates with Salesforce's REST API to enable querying, metadata retrieval, and CRUD operations on Salesforce data for tasks like customer analysis and CRM automation.",
+  "source_repo": "kablewy/salesforce-mcp-server",
+  "source_url": "https://github.com/kablewy/salesforce-mcp-server",
+  "install": "npx -y salesforce-mcp-server"
+}

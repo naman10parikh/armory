@@ -1,0 +1,7 @@
+{
+  "name": "orbis-api",
+  "description": "Access 1,000+ APIs for AI agents via x402 USDC micropayments on Base at $0.01 per call.",
+  "source_repo": "orbisapi/orbis-mcp",
+  "source_url": "https://github.com/orbisapi/orbis-mcp",
+  "install": "npx -y orbis-mcp"
+}

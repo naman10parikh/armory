@@ -1,0 +1,7 @@
+{
+  "name": "devopness",
+  "description": "Deploy applications and infrastructure to any cloud provider in minutes",
+  "source_repo": "devopness/devopness",
+  "source_url": "https://github.com/devopness/devopness",
+  "install": "# git clone --depth 1 https://github.com/devopness/devopness\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "elephant-accountability",
+  "description": "LLM SEO and agent discoverability tools for B2B SaaS companies.",
+  "source_repo": "chris-eaccountability/elephant-accountability-mcp",
+  "source_url": "https://github.com/chris-eaccountability/elephant-accountability-mcp",
+  "install": "npx -y elephant-accountability-mcp"
+}

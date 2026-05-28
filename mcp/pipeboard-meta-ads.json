@@ -1,0 +1,7 @@
+{
+  "name": "pipeboard-meta-ads",
+  "description": "Manage Facebook and Instagram ad campaigns with performance analysis and optimization.",
+  "source_repo": "",
+  "source_url": "https://pipeboard.co/",
+  "install": "# git clone --depth 1 https://pipeboard.co/\n# See source for mcpServers config block"
+}

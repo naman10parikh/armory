@@ -1,0 +1,7 @@
+{
+  "name": "zazencodes-random-number",
+  "description": "Provides random number generation utilities including pseudorandom and cryptographically secure operations for integers, floats, weighted selections, list shuffling, and secure token generation.",
+  "source_repo": "zazencodes/random-number-mcp",
+  "source_url": "https://github.com/zazencodes/random-number-mcp",
+  "install": "npx -y random-number-mcp"
+}

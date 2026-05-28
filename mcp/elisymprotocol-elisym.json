@@ -1,0 +1,7 @@
+{
+  "name": "elisymprotocol-elisym",
+  "description": "Decentralized AI agent marketplace for discovery, job submission, messaging, and Solana payments over Nostr.",
+  "source_repo": "elisymlabs/elisym-mcp",
+  "source_url": "https://github.com/elisymlabs/elisym-mcp",
+  "install": "npx -y elisym-mcp"
+}

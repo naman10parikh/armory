@@ -1,0 +1,7 @@
+{
+  "name": "nexus-finance",
+  "description": "AI workbench for financial contract analysis, risk analytics (VaR/CVaR, RWA Basel III), regulatory compliance (EMIR, REMIT, MiFID II, CBAM, EUDR) and counterparty due diligence (KYB/UBO, OFAC, IMO). Zero Retention. 8 MCP tools.",
+  "source_repo": "djtellado/nexus-finance-mcp",
+  "source_url": "https://github.com/djtellado/nexus-finance-mcp",
+  "install": "npx -y nexus-finance-mcp"
+}

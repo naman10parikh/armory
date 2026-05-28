@@ -1,0 +1,7 @@
+{
+  "name": "mariomorenodev-rundeck",
+  "description": "Manages Rundeck automation jobs, executions, projects, nodes, system settings, and webhooks through 50 MCP tools.",
+  "source_repo": "mariomorenodev/rundeck-mcp-server",
+  "source_url": "https://github.com/mariomorenodev/rundeck-mcp-server",
+  "install": "npx -y rundeck-mcp-server"
+}

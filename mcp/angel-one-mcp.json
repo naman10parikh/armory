@@ -1,0 +1,7 @@
+{
+  "name": "angel-one-mcp",
+  "description": "MCP server for Angel One SmartAPI. Lets AI clients trade Indian stocks, manage orders and GTT rules, read holdings/positions/funds, fetch quotes/candles/OI/Greeks, and estimate margin/brokerage with TOTP login and built-in safety guards.",
+  "source_repo": "ameernoufil/angel-one-mcp",
+  "source_url": "https://github.com/ameernoufil/angel-one-mcp",
+  "install": "npx -y angel-one-mcp"
+}

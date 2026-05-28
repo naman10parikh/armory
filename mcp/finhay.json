@@ -1,0 +1,7 @@
+{
+  "name": "finhay",
+  "description": "Vietnamese securities market data and portfolio management for AI assistants.",
+  "source_repo": "finhay/mcp-server",
+  "source_url": "https://github.com/finhay/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/finhay/mcp-server\n# See source for mcpServers config block"
+}

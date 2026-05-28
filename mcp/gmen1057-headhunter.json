@@ -1,0 +1,7 @@
+{
+  "name": "gmen1057-headhunter",
+  "description": "Integrates with HeadHunter (hh.ru) job search platform to enable vacancy searching with advanced filtering, resume management, job applications, and automated job matching analysis with CSV reporting for systematic job hunting on Russia's largest job board.",
+  "source_repo": "gmen1057/headhunter-mcp-server",
+  "source_url": "https://github.com/gmen1057/headhunter-mcp-server",
+  "install": "npx -y headhunter-mcp-server"
+}

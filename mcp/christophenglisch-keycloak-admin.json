@@ -1,0 +1,7 @@
+{
+  "name": "christophenglisch-keycloak-admin",
+  "description": "Integrates with Keycloak Admin to provide streamlined user and realm management operations for identity and access control automation.",
+  "source_repo": "christophenglisch/keycloak-model-context-protocol",
+  "source_url": "https://github.com/christophenglisch/keycloak-model-context-protocol",
+  "install": "# git clone --depth 1 https://github.com/christophenglisch/keycloak-model-context-protocol\n# See source for mcpServers config block"
+}

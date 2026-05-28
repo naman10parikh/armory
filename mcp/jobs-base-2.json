@@ -1,0 +1,7 @@
+{
+  "name": "jobs-base-2",
+  "description": "Builder roles like founding engineers, solo builders, and \"0 to 1\" positions are scattered across dozens of job boards with no way to filter for them specifically. [jobsbase.io](https://jobsbase.io) is a curated job board that only surfaces these roles. Search by location, salary, seniority, workpla",
+  "source_repo": "",
+  "source_url": "https://jobsbase.io",
+  "install": "# git clone --depth 1 https://jobsbase.io\n# See source for mcpServers config block"
+}

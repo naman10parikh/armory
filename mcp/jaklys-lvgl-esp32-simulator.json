@@ -1,0 +1,7 @@
+{
+  "name": "jaklys-lvgl-esp32-simulator",
+  "description": "Headless LVGL simulator for ESP32 UI development that compiles C code, renders PNG screenshots, and exports widget trees without physical hardware.",
+  "source_repo": "jaklys/lvgl-mcp-esp32",
+  "source_url": "https://github.com/jaklys/lvgl-mcp-esp32",
+  "install": "# git clone --depth 1 https://github.com/jaklys/lvgl-mcp-esp32\n# See source for mcpServers config block"
+}

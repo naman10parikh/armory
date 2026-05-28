@@ -1,0 +1,7 @@
+{
+  "name": "jbr-cargo",
+  "description": "Provides safe access to Rust development workflows through whitelisted Cargo commands including check, clippy, test, build, bench, fmt, dependency management, and toolchain switching with path validation and session-based state management.",
+  "source_repo": "jbr/cargo-mcp",
+  "source_url": "https://github.com/jbr/cargo-mcp",
+  "install": "npx -y cargo-mcp"
+}

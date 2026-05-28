@@ -1,0 +1,7 @@
+{
+  "name": "contrastapi",
+  "description": "MCP server with 53 security intelligence tools — CVE/KEV, MITRE ATLAS+D3FEND, Sigma detection rules, email security posture (SPF/DMARC), domain & web intel, threat intel.",
+  "source_repo": "",
+  "source_url": "https://api.contrastcyber.com",
+  "install": "# git clone --depth 1 https://api.contrastcyber.com\n# See source for mcpServers config block"
+}

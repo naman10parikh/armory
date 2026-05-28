@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-hash-utils-ai-mcp",
+  "description": "Cryptographic hash calculation, verification, and digest utilities.",
+  "source_repo": "csoai-org/hash-utils-ai-mcp",
+  "source_url": "https://github.com/csoai-org/hash-utils-ai-mcp",
+  "install": "npx -y hash-utils-ai-mcp"
+}

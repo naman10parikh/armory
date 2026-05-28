@@ -1,0 +1,7 @@
+{
+  "name": "drjforrest-things3",
+  "description": "Integrates with Things3 task management app on macOS, enabling creation and management of tasks and projects via AppleScript and x-callback-url, with specialized functionality for Agenda synchronization.",
+  "source_repo": "drjforrest/mcp-things3",
+  "source_url": "https://github.com/drjforrest/mcp-things3",
+  "install": "# git clone --depth 1 https://github.com/drjforrest/mcp-things3\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rodgomesc-terminal-hook",
+  "description": "VS Code extension that captures real-time terminal output",
+  "source_repo": "rodgomesc/terminal-hook",
+  "source_url": "https://github.com/rodgomesc/terminal-hook",
+  "install": "# git clone --depth 1 https://github.com/rodgomesc/terminal-hook\n# See source for mcpServers config block"
+}

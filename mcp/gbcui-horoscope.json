@@ -1,0 +1,7 @@
+{
+  "name": "gbcui-horoscope",
+  "description": "Provides astrological horoscope functionality with tools for generating personalized predictions and insights based on zodiac signs and celestial positions.",
+  "source_repo": "gbcui/horoscope-serve",
+  "source_url": "https://github.com/gbcui/horoscope-serve",
+  "install": "# git clone --depth 1 https://github.com/gbcui/horoscope-serve\n# See source for mcpServers config block"
+}

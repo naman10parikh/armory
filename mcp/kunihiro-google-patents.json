@@ -1,0 +1,7 @@
+{
+  "name": "kunihiro-google-patents",
+  "description": "Search Google Patents using the SerpAPI.",
+  "source_repo": "kunihiros/google-patents-mcp",
+  "source_url": "https://github.com/kunihiros/google-patents-mcp",
+  "install": "npx -y google-patents-mcp"
+}

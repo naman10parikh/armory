@@ -1,0 +1,7 @@
+{
+  "name": "dolphprefect-pawsift",
+  "description": "Bridges Android Logcat output to AI assistants with intelligent filtering, hierarchical grouping, and surgical querying tools.",
+  "source_repo": "dolphprefect/pawsift-mcp",
+  "source_url": "https://github.com/dolphprefect/pawsift-mcp",
+  "install": "npx -y pawsift-mcp"
+}

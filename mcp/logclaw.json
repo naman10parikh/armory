@@ -1,0 +1,7 @@
+{
+  "name": "logclaw",
+  "description": "AI-powered log intelligence with real-time anomaly detection and incident ticketing.",
+  "source_repo": "logclaw/logclaw",
+  "source_url": "https://github.com/logclaw/logclaw",
+  "install": "# git clone --depth 1 https://github.com/logclaw/logclaw\n# See source for mcpServers config block"
+}

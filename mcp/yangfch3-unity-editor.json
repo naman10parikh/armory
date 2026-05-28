@@ -1,0 +1,7 @@
+{
+  "name": "yangfch3-unity-editor",
+  "description": "Controls a running Unity Editor instance from AI agents with 16+ built-in tools for console logs, PlayMode control, GameObject inspection, build operations, and test execution.",
+  "source_repo": "yangfch3/unity-mcp-server",
+  "source_url": "https://github.com/yangfch3/unity-mcp-server",
+  "install": "npx -y unity-mcp-server"
+}

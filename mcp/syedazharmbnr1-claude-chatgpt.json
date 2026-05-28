@@ -1,0 +1,7 @@
+{
+  "name": "syedazharmbnr1-claude-chatgpt",
+  "description": "Integrates Claude with the ChatGPT desktop app on macOS using AppleScript, enabling cross-assistant interactions for prompt sending, response retrieval, and conversation management.",
+  "source_repo": "syedazharmbnr1/claude-chatgpt-mcp",
+  "source_url": "https://github.com/syedazharmbnr1/claude-chatgpt-mcp",
+  "install": "npx -y claude-chatgpt-mcp"
+}

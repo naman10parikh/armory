@@ -1,0 +1,7 @@
+{
+  "name": "okysu-vision",
+  "description": "Add image and video understanding to AI workflows with 8 tools for UI-to-code conversion, text extraction, and diagram analysis.",
+  "source_repo": "okysu/vision-mcp",
+  "source_url": "https://github.com/okysu/vision-mcp",
+  "install": "npx -y vision-mcp"
+}

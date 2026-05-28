@@ -1,0 +1,7 @@
+{
+  "name": "slouchd-cyberchef-api-mcp-server",
+  "description": "MCP server for interacting with the CyberChef server API which will allow an MCP client to utilise the CyberChef operations.",
+  "source_repo": "slouchd/cyberchef-api-mcp-server",
+  "source_url": "https://github.com/slouchd/cyberchef-api-mcp-server",
+  "install": "npx -y cyberchef-api-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pulsemcp-vercel",
+  "description": "Local stdio integration for managing Vercel deployments, viewing build logs, and monitoring runtime application logs.",
+  "source_repo": "pulsemcp/mcp-servers",
+  "source_url": "https://github.com/pulsemcp/mcp-servers/tree/HEAD/experimental/vercel",
+  "install": "# git clone --depth 1 https://github.com/pulsemcp/mcp-servers/tree/HEAD/experimental/vercel\n# See source for mcpServers config block"
+}

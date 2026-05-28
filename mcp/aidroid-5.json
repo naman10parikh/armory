@@ -1,0 +1,7 @@
+{
+  "name": "aidroid-5",
+  "description": "Search official Microsoft and Azure documentation to ground your answers with trusted, first-party content. Fetch complete articles when you need step-by-step guides, troubleshooting, and prerequisites. Retrieve the latest official code samples across languages to accelerate implementation.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/ren89752/aidroid",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/ren89752/aidroid\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "metricsign",
+  "description": "Monitor and troubleshoot your Power BI refreshes. Get refresh status, incidents, fix suggestions, and data lineage — all from your AI assistant. Tells you not just what broke, but how to fix it.",
+  "source_repo": "",
+  "source_url": "https://metricsign.com",
+  "install": "# git clone --depth 1 https://metricsign.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-data-cityofchicago",
+  "description": "Query the City of Chicago open-data portal for municipal government datasets via the Socrata API.",
+  "source_repo": "pipeworx-io/mcp-data-cityofchicago",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-cityofchicago",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-cityofchicago\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teglon-labs-penrose",
+  "description": "Integrates with Penrose's domain-specific languages to generate mathematical diagrams from natural language inputs.",
+  "source_repo": "bmorphism/penrose-mcp",
+  "source_url": "https://github.com/bmorphism/penrose-mcp",
+  "install": "npx -y penrose-mcp"
+}

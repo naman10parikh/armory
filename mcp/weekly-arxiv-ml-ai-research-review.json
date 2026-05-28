@@ -1,0 +1,7 @@
+{
+  "name": "weekly-arxiv-ml-ai-research-review",
+  "description": "Weekly collection of arXiv paper reviews in machine learning and AI",
+  "source_repo": "Verbasik/Weekly-arXiv-ML-AI-Research-Review",
+  "source_url": "https://github.com/Verbasik/Weekly-arXiv-ML-AI-Research-Review",
+  "install": "# git clone --depth 1 https://github.com/Verbasik/Weekly-arXiv-ML-AI-Research-Review\n# See source for mcpServers config block"
+}

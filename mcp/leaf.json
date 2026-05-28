@@ -1,0 +1,7 @@
+{
+  "name": "leaf",
+  "description": "Mobile reading tracker for building habits through daily goals, streaks, and library management.",
+  "source_repo": "",
+  "source_url": "https://www.readwithleaf.app",
+  "install": "# git clone --depth 1 https://www.readwithleaf.app\n# See source for mcpServers config block"
+}

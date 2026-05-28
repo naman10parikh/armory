@@ -1,0 +1,7 @@
+{
+  "name": "hexsleeves-tailscale",
+  "description": "Integrates with Tailscale's CLI and REST API to provide network management capabilities including device authorization, route configuration, ACL management, DNS settings, exit node setup, and user administration for distributed infrastructure operations.",
+  "source_repo": "hexsleeves/tailscale-mcp",
+  "source_url": "https://github.com/hexsleeves/tailscale-mcp",
+  "install": "npx -y tailscale-mcp"
+}

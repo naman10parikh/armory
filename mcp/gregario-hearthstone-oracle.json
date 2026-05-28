@@ -1,0 +1,7 @@
+{
+  "name": "gregario-hearthstone-oracle",
+  "description": "Hearthstone card search, deck analysis, and strategy coaching. 9 tools covering card lookup, deck decoding, archetype classification, class identities, matchup theory, and game concepts. HearthstoneJSON data.",
+  "source_repo": "gregario/hearthstone-oracle",
+  "source_url": "https://github.com/gregario/hearthstone-oracle",
+  "install": "# git clone --depth 1 https://github.com/gregario/hearthstone-oracle\n# See source for mcpServers config block"
+}

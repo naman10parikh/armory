@@ -1,0 +1,7 @@
+{
+  "name": "glean",
+  "description": "Integrates with Glean's enterprise knowledge platform to provide company search, people profile lookup, and AI assistant capabilities directly within your workflow.",
+  "source_repo": "gleanwork/mcp-server",
+  "source_url": "https://github.com/gleanwork/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/gleanwork/mcp-server\n# See source for mcpServers config block"
+}

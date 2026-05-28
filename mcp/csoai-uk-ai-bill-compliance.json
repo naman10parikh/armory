@@ -1,0 +1,7 @@
+{
+  "name": "csoai-uk-ai-bill-compliance",
+  "description": "Automates compliance audits against the UK AI White Paper's five principles for AI developers and deployers operating in the UK market.",
+  "source_repo": "csoai-org/uk-ai-bill-compliance-mcp",
+  "source_url": "https://github.com/csoai-org/uk-ai-bill-compliance-mcp",
+  "install": "npx -y uk-ai-bill-compliance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flayedone-plesk",
+  "description": "Manages a Plesk hosting server — domains, databases, SSL certificates, and email accounts via AI.",
+  "source_repo": "flayedone/plesk-mcp",
+  "source_url": "https://github.com/flayedone/plesk-mcp",
+  "install": "npx -y plesk-mcp"
+}

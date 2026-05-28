@@ -1,0 +1,7 @@
+{
+  "name": "chess-engine-mcp-server",
+  "description": "Enables AI assistants to perform professional-grade chess analysis using Stockfish and optionally Leela Chess Zero, including position analysis, full game review, opening lookup, and puzzle generation.",
+  "source_repo": "alegerber/stockfish-lc0-mcp",
+  "source_url": "https://github.com/alegerber/stockfish-lc0-mcp",
+  "install": "npx -y stockfish-lc0-mcp"
+}

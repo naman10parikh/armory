@@ -1,0 +1,7 @@
+{
+  "name": "albert-ying-autonomous-lab",
+  "description": "Turns Senior-Junior workflows into autonomous loops where AI handles execution and humans make editorial decisions.",
+  "source_repo": "albert-ying/autonomous-lab",
+  "source_url": "https://github.com/albert-ying/autonomous-lab",
+  "install": "# git clone --depth 1 https://github.com/albert-ying/autonomous-lab\n# See source for mcpServers config block"
+}

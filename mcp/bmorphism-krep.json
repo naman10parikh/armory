@@ -1,0 +1,7 @@
+{
+  "name": "bmorphism-krep",
+  "description": "Provides a high-performance string search utility that automatically selects optimal algorithms and leverages hardware acceleration for significantly faster pattern matching than traditional tools like grep.",
+  "source_repo": "bmorphism/krep-mcp-server",
+  "source_url": "https://github.com/bmorphism/krep-mcp-server",
+  "install": "npx -y krep-mcp-server"
+}

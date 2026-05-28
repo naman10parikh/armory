@@ -1,0 +1,7 @@
+{
+  "name": "ricardolx-airgen",
+  "description": "Generates visual assets like images, logos, icons, and SVGs using OpenAI's DALL-E models, providing designers and developers with a streamlined tool for intelligent asset creation across various styles and sizes.",
+  "source_repo": "ricardolx/airgen-mcp",
+  "source_url": "https://github.com/ricardolx/airgen-mcp",
+  "install": "npx -y airgen-mcp"
+}

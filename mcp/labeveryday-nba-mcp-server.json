@@ -1,0 +1,7 @@
+{
+  "name": "labeveryday-nba-mcp-server",
+  "description": "Access live and historical NBA statistics including player stats, game scores, team data, and advanced analytics via Model Context Protocol",
+  "source_repo": "labeveryday/nba_mcp_server",
+  "source_url": "https://github.com/labeveryday/nba_mcp_server",
+  "install": "npx -y nba_mcp_server"
+}

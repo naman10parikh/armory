@@ -1,0 +1,7 @@
+{
+  "name": "ilay25-coder-quality-guardian",
+  "description": "MCP server aggregating Semgrep, PHPStan, Knip, PHPMetrics, and Deptrac into a unified baseline-aware code quality gate.",
+  "source_repo": "tehprof/quality-guardian-mcp",
+  "source_url": "https://github.com/tehprof/quality-guardian-mcp",
+  "install": "npx -y quality-guardian-mcp"
+}

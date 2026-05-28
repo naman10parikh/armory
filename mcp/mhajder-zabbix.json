@@ -1,0 +1,7 @@
+{
+  "name": "mhajder-zabbix",
+  "description": "Integrates with Zabbix monitoring infrastructure for managing hosts, templates, items, triggers, problems, events, users, proxies, and maintenance periods.",
+  "source_repo": "mhajder/zabbix-mcp",
+  "source_url": "https://github.com/mhajder/zabbix-mcp",
+  "install": "npx -y zabbix-mcp"
+}

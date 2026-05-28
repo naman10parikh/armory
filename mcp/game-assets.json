@@ -1,0 +1,7 @@
+{
+  "name": "game-assets",
+  "description": "Generate game assets with AI including sprites, 3D models, animations, sound effects, music, and voices.",
+  "source_repo": "ludo-ai/ludo-mcp",
+  "source_url": "https://github.com/ludo-ai/ludo-mcp",
+  "install": "npx -y ludo-mcp"
+}

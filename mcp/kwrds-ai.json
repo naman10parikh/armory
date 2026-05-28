@@ -1,0 +1,7 @@
+{
+  "name": "kwrds-ai",
+  "description": "Integrates with kwrds.ai's keyword research API to provide search volume analysis, competition data, SERP insights, LSI keyword generation, and content creation tools for SEO optimization and marketing workflows.",
+  "source_repo": "mkotsollaris/kwrds-ai-mcp",
+  "source_url": "https://github.com/mkotsollaris/kwrds-ai-mcp",
+  "install": "npx -y kwrds-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nunomaduro-nunonation-chat",
+  "description": "Laravel-based chat system that stores messages in SQLite with user identity validation, preventing generic names and encouraging real first names for persistent conversational interfaces",
+  "source_repo": "nunomaduro/nunonation-mcp-chat",
+  "source_url": "https://github.com/nunomaduro/nunonation-mcp-chat",
+  "install": "# git clone --depth 1 https://github.com/nunomaduro/nunonation-mcp-chat\n# See source for mcpServers config block"
+}

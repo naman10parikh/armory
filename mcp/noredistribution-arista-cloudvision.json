@@ -1,0 +1,7 @@
+{
+  "name": "noredistribution-arista-cloudvision",
+  "description": "Enables Claude to interact with Arista CloudVision for network management tasks including device inventory, system events, connectivity monitoring, and tag creation through conversational prompts.",
+  "source_repo": "noredistribution/mcp-cvp-fun",
+  "source_url": "https://github.com/noredistribution/mcp-cvp-fun",
+  "install": "# git clone --depth 1 https://github.com/noredistribution/mcp-cvp-fun\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hyperdrive-nodejs-debugger",
+  "description": "Connects Claude Code to Node.js's Inspector Protocol for real-time debugging capabilities, enabling breakpoint setting, variable inspection, and code execution stepping without leaving the conversation interface.",
+  "source_repo": "workbackai/mcp-nodejs-debugger",
+  "source_url": "https://github.com/workbackai/mcp-nodejs-debugger",
+  "install": "# git clone --depth 1 https://github.com/workbackai/mcp-nodejs-debugger\n# See source for mcpServers config block"
+}

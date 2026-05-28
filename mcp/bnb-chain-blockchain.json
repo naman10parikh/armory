@@ -1,0 +1,7 @@
+{
+  "name": "bnb-chain-blockchain",
+  "description": "Enables direct interaction with BNB Chain and other EVM-compatible networks for blockchain operations including block exploration, smart contract interaction, token management, wallet operations, and Greenfield storage functionality.",
+  "source_repo": "bnb-chain/bnbchain-mcp",
+  "source_url": "https://github.com/bnb-chain/bnbchain-mcp",
+  "install": "npx -y bnbchain-mcp"
+}

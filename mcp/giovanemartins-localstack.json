@@ -1,0 +1,7 @@
+{
+  "name": "giovanemartins-localstack",
+  "description": "Manages local AWS service emulations through LocalStack including S3, SQS, SNS, EventBridge, Kinesis, DynamoDB, Lambda, Secrets Manager, SSM, and SES.",
+  "source_repo": "giovanemartins/localstack-mcp-server",
+  "source_url": "https://github.com/giovanemartins/localstack-mcp-server",
+  "install": "npx -y localstack-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chriskildunne-nexhealth",
+  "description": "MCP server exposing the NexHealth healthcare API for patient management and appointment booking.",
+  "source_repo": "chriskildunne/nexhealth-mcp",
+  "source_url": "https://github.com/chriskildunne/nexhealth-mcp",
+  "install": "npx -y nexhealth-mcp"
+}

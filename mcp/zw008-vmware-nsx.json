@@ -1,0 +1,7 @@
+{
+  "name": "zw008-vmware-nsx",
+  "description": "VMware NSX networking management with segments, gateways, NAT, routing, and IPAM tools.",
+  "source_repo": "zw008/vmware-nsx",
+  "source_url": "https://github.com/zw008/vmware-nsx",
+  "install": "# git clone --depth 1 https://github.com/zw008/vmware-nsx\n# See source for mcpServers config block"
+}

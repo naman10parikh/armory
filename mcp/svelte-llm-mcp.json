@@ -1,0 +1,7 @@
+{
+  "name": "svelte-llm-mcp",
+  "description": "Connect your AI coding assistant directly to up-to-date Svelte 5 and SvelteKit documentation via this MCP server.",
+  "source_repo": "",
+  "source_url": "https://svelte-llm.stanislav.garden",
+  "install": "# git clone --depth 1 https://svelte-llm.stanislav.garden\n# See source for mcpServers config block"
+}

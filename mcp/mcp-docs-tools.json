@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docs-tools",
+  "description": "Provides documentation generation and analysis tools for AI agents, including JSDoc generation, README analysis, changelog generation, API documentation, and code comment analysis.",
+  "source_repo": "rog0x/mcp-docs-tools",
+  "source_url": "https://github.com/rog0x/mcp-docs-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-docs-tools\n# See source for mcpServers config block"
+}

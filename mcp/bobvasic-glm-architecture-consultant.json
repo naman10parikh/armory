@@ -1,0 +1,7 @@
+{
+  "name": "bobvasic-glm-architecture-consultant",
+  "description": "Bridges Claude with GLM-4.6 (Zhipu AI's model) to provide enterprise software architecture consulting through four specialized tools for general architectural guidance, code analysis, system design, and technical decision review with trade-off analysis.",
+  "source_repo": "bobvasic/glm-mcp-server",
+  "source_url": "https://github.com/bobvasic/glm-mcp-server",
+  "install": "npx -y glm-mcp-server"
+}

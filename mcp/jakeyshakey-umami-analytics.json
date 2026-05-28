@@ -1,0 +1,7 @@
+{
+  "name": "jakeyshakey-umami-analytics",
+  "description": "Integrates with Umami analytics to enable website performance analysis, user behavior tracking, and data-driven insights generation through semantic search and web crawling capabilities.",
+  "source_repo": "jakeyshakey/umami_mcp_server",
+  "source_url": "https://github.com/jakeyshakey/umami_mcp_server",
+  "install": "npx -y umami_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "findmine-mcp",
+  "description": "Findmine Mcp MCP server listed on mcp.so.",
+  "source_repo": "findmine/findmine-mcp",
+  "source_url": "https://mcp.so/server/findmine-mcp/findmine",
+  "install": "npx -y findmine-mcp"
+}

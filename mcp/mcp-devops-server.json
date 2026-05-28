@@ -1,0 +1,7 @@
+{
+  "name": "mcp-devops-server",
+  "description": "Enables AI assistants to perform DevOps tasks including Kubernetes management, cloud provider operations, CI/CD, security scanning, and infrastructure monitoring through natural language.",
+  "source_repo": "praveendhra/mcp-devops-server",
+  "source_url": "https://github.com/praveendhra/mcp-devops-server",
+  "install": "# git clone --depth 1 https://github.com/praveendhra/mcp-devops-server\n# See source for mcpServers config block"
+}

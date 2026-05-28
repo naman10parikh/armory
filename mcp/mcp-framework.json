@@ -1,0 +1,7 @@
+{
+  "name": "mcp-framework",
+  "description": "Mcp Framework MCP server listed on mcp.so.",
+  "source_repo": "w-jeon/mcp-framework",
+  "source_url": "https://mcp.so/server/mcp-framework/w-jeon",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-framework/w-jeon\n# See source for mcpServers config block"
+}

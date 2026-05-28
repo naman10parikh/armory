@@ -1,0 +1,7 @@
+{
+  "name": "bis-code-premiere-pro",
+  "description": "Controls Adobe Premiere Pro through CEP plugin bridge with 269 tools covering ExtendScript and QE DOM APIs for timeline editing, effects, keyframes, export, and professional video workflows.",
+  "source_repo": "bis-code/premiere-pro-mcp",
+  "source_url": "https://github.com/bis-code/premiere-pro-mcp",
+  "install": "npx -y premiere-pro-mcp"
+}

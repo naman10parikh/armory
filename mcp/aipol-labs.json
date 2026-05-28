@@ -1,0 +1,7 @@
+{
+  "name": "aipol-labs",
+  "description": "Allow dynamic search and execute any tools available on ACI.dev.",
+  "source_repo": "aipotheosis-labs/aci-mcp",
+  "source_url": "https://github.com/aipotheosis-labs/aci-mcp",
+  "install": "npx -y aci-mcp"
+}

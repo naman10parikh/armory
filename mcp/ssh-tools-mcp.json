@@ -1,0 +1,7 @@
+{
+  "name": "ssh-tools-mcp",
+  "description": "Ssh Tools Mcp MCP server listed on mcp.so.",
+  "source_repo": "lightfate/ssh-tools-mcp",
+  "source_url": "https://mcp.so/server/ssh-tools-mcp/lightfate",
+  "install": "npx -y ssh-tools-mcp"
+}

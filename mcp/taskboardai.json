@@ -1,0 +1,7 @@
+{
+  "name": "taskboardai",
+  "description": "TaskBoardAI MCP server listed on mcp.so.",
+  "source_repo": "TuckerTucker/TaskBoardAI",
+  "source_url": "https://mcp.so/server/TaskBoardAI/TuckerTucker",
+  "install": "# git clone --depth 1 https://mcp.so/server/TaskBoardAI/TuckerTucker\n# See source for mcpServers config block"
+}

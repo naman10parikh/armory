@@ -1,0 +1,7 @@
+{
+  "name": "rebrain-mcp-server",
+  "description": "Enables developers to check system service status, retrieve project documentation, search files, and run whitelisted commands (git, pytest, etc.) securely via natural language.",
+  "source_repo": "DovgiyA/mcp",
+  "source_url": "https://github.com/DovgiyA/mcp",
+  "install": "# git clone --depth 1 https://github.com/DovgiyA/mcp\n# See source for mcpServers config block"
+}

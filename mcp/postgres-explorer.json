@@ -1,0 +1,7 @@
+{
+  "name": "postgres-explorer",
+  "description": "Provides read-only PostgreSQL database access for exploring schemas and executing safe queries, deployable via Docker or NPX for data analysis without risk of modification.",
+  "source_repo": "danielrsnell/postgres-mcp",
+  "source_url": "https://github.com/danielrsnell/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

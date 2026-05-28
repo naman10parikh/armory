@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-iconify",
+  "description": "Search and retrieve SVG icons from over 200 open-source icon sets via Iconify.",
+  "source_repo": "pipeworx-io/mcp-iconify",
+  "source_url": "https://github.com/pipeworx-io/mcp-iconify",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-iconify\n# See source for mcpServers config block"
+}

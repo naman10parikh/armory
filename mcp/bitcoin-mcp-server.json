@@ -1,0 +1,7 @@
+{
+  "name": "bitcoin-mcp-server",
+  "description": "Bitcoin Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "kirtiapte/bitcoin-mcp-server",
+  "source_url": "https://mcp.so/server/bitcoin-mcp-server/kirtiapte",
+  "install": "npx -y bitcoin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "housing-assist",
+  "description": "▎ Tokyo housing market data for foreigners. Search 18,000+ weekly-scraped rental listings, compare Tokyo's 23 wards, estimate move-in costs, and get data-backed negotiation strategies. Data sourced from SUUMO, Homes.co.jp, and at Home. ▎ 7 tools: search_listings, get_neighborhood_info, estimate_move",
+  "source_repo": "",
+  "source_url": "https://housingassist.com",
+  "install": "# git clone --depth 1 https://housingassist.com\n# See source for mcpServers config block"
+}

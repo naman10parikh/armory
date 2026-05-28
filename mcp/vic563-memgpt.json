@@ -1,0 +1,7 @@
+{
+  "name": "vic563-memgpt",
+  "description": "Implements a multi-provider memory system for LLMs, enabling conversation history management and seamless model switching across OpenAI, Anthropic, OpenRouter, and Ollama.",
+  "source_repo": "vic563/memgpt-mcp-server",
+  "source_url": "https://github.com/vic563/memgpt-mcp-server",
+  "install": "npx -y memgpt-mcp-server"
+}

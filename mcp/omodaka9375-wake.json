@@ -1,0 +1,7 @@
+{
+  "name": "omodaka9375-wake",
+  "description": "Post-mortem protocol system for AI agents managing agent lifecycle with succession planning and final message delivery.",
+  "source_repo": "omodaka9375/wake",
+  "source_url": "https://github.com/omodaka9375/wake",
+  "install": "# git clone --depth 1 https://github.com/omodaka9375/wake\n# See source for mcpServers config block"
+}

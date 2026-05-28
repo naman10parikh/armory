@@ -1,0 +1,7 @@
+{
+  "name": "ayon1997-health-reminder",
+  "description": "Provides automated desktop notifications for wellness activities like water intake, posture breaks, and eye rest with configurable reminder intervals and customizable messages.",
+  "source_repo": "ayon1997/health-reminder-mcp",
+  "source_url": "https://github.com/ayon1997/health-reminder-mcp",
+  "install": "npx -y health-reminder-mcp"
+}

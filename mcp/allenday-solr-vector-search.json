@@ -1,0 +1,7 @@
+{
+  "name": "allenday-solr-vector-search",
+  "description": "Bridges Apache Solr search indexes with vector embeddings for hybrid keyword and semantic document retrieval, enabling contextual searches against structured data repositories without direct database access",
+  "source_repo": "allenday/solr-mcp",
+  "source_url": "https://github.com/allenday/solr-mcp",
+  "install": "npx -y solr-mcp"
+}

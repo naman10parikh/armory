@@ -1,0 +1,7 @@
+{
+  "name": "nixlim-amem",
+  "description": "Provides persistent memory capabilities for coding contexts using ChromaDB vector storage and semantic search, enabling storage and retrieval of coding memories with AI-generated keywords, automated memory network evolution, and contextual assistance across development sessions.",
+  "source_repo": "nixlim/amem_mcp",
+  "source_url": "https://github.com/nixlim/amem_mcp",
+  "install": "npx -y amem_mcp"
+}

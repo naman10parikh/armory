@@ -1,0 +1,7 @@
+{
+  "name": "dnullp-bilibili",
+  "description": "Provides a bridge to the Bilibili video-sharing platform for retrieving user profiles, listing followed accounts, and discovering videos through authenticated API access",
+  "source_repo": "dnullp/bilibili-mcp-server",
+  "source_url": "https://github.com/dnullp/bilibili-mcp-server",
+  "install": "npx -y bilibili-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gmlove-zoom-recording-downloader",
+  "description": "Downloads Zoom meeting recordings in bulk with resume capability and automatic organization by meeting topic.",
+  "source_repo": "gmlove/zoom-recording-downloader",
+  "source_url": "https://github.com/gmlove/zoom-recording-downloader",
+  "install": "# git clone --depth 1 https://github.com/gmlove/zoom-recording-downloader\n# See source for mcpServers config block"
+}

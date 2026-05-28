@@ -1,0 +1,7 @@
+{
+  "name": "thunderboltsid-nutanix-prism",
+  "description": "Bridges to Nutanix's Prism Central API, enabling infrastructure teams to query and monitor virtualized resources like VMs, clusters, hosts, and networks without switching to the Prism web interface.",
+  "source_repo": "thunderboltsid/mcp-nutanix",
+  "source_url": "https://github.com/thunderboltsid/mcp-nutanix",
+  "install": "# git clone --depth 1 https://github.com/thunderboltsid/mcp-nutanix\n# See source for mcpServers config block"
+}

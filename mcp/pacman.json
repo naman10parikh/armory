@@ -1,0 +1,7 @@
+{
+  "name": "pacman",
+  "description": "Integrates with package repositories including PyPI, npm, crates.io, Docker Hub, and Terraform Registry to search and retrieve detailed information about packages, versions, dependencies, and Docker images.",
+  "source_repo": "oborchers/mcp-server-pacman",
+  "source_url": "https://github.com/oborchers/mcp-server-pacman",
+  "install": "# git clone --depth 1 https://github.com/oborchers/mcp-server-pacman\n# See source for mcpServers config block"
+}

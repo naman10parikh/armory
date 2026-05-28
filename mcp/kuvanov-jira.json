@@ -1,0 +1,7 @@
+{
+  "name": "kuvanov-jira",
+  "description": "Provides a bridge to Atlassian JIRA for retrieving issue details by key using TypeScript and JSON-RPC requests over stdio transport.",
+  "source_repo": "kuvanov-2/mcp-server-jira",
+  "source_url": "https://github.com/kuvanov-2/mcp-server-jira",
+  "install": "# git clone --depth 1 https://github.com/kuvanov-2/mcp-server-jira\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prompt-template-server-go",
+  "description": "Lightweight Go server that loads and serves YAML-formatted prompt templates from a file system for easy organization and management of standardized prompts to AI models.",
+  "source_repo": "smallnest/mcp-prompt-server-go",
+  "source_url": "https://github.com/smallnest/mcp-prompt-server-go",
+  "install": "# git clone --depth 1 https://github.com/smallnest/mcp-prompt-server-go\n# See source for mcpServers config block"
+}

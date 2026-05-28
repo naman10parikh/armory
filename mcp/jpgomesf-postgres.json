@@ -1,0 +1,7 @@
+{
+  "name": "jpgomesf-postgres",
+  "description": "Read-only MCP server for PostgreSQL with multi-database support and AWS Secrets Manager integration, written in Go.",
+  "source_repo": "jpgomesf/mcp-postgres",
+  "source_url": "https://github.com/jpgomesf/mcp-postgres",
+  "install": "# git clone --depth 1 https://github.com/jpgomesf/mcp-postgres\n# See source for mcpServers config block"
+}

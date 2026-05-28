@@ -1,0 +1,7 @@
+{
+  "name": "sky2608-case-management",
+  "description": "Converts natural language questions about legal case management into safe SQL queries with validation, business glossary mapping, and security controls.",
+  "source_repo": "sky2608/case-management-mcp",
+  "source_url": "https://github.com/sky2608/case-management-mcp",
+  "install": "npx -y case-management-mcp"
+}

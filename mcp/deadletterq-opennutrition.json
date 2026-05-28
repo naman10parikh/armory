@@ -1,0 +1,7 @@
+{
+  "name": "deadletterq-opennutrition",
+  "description": "Provides access to OpenNutrition's 300,000+ food database with tools for searching foods by name, browsing paginated lists, retrieving detailed nutritional information by ID, and looking up products via EAN-13 barcodes for recipe analysis and dietary planning.",
+  "source_repo": "deadletterq/mcp-opennutrition",
+  "source_url": "https://github.com/deadletterq/mcp-opennutrition",
+  "install": "# git clone --depth 1 https://github.com/deadletterq/mcp-opennutrition\n# See source for mcpServers config block"
+}

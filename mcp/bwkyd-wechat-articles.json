@@ -1,0 +1,7 @@
+{
+  "name": "bwkyd-wechat-articles",
+  "description": "Extracts content from WeChat public account articles using browser automation and HTML parsing.",
+  "source_repo": "bwkyd/wexin-read-mcp",
+  "source_url": "https://github.com/bwkyd/wexin-read-mcp",
+  "install": "npx -y wexin-read-mcp"
+}

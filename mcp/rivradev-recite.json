@@ -1,0 +1,7 @@
+{
+  "name": "rivradev-recite",
+  "description": "Citation and reference management with bibliography generation and format conversion.",
+  "source_repo": "rivradev/recite-mcp",
+  "source_url": "https://github.com/rivradev/recite-mcp",
+  "install": "npx -y recite-mcp"
+}

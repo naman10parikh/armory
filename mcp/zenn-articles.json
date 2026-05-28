@@ -1,0 +1,7 @@
+{
+  "name": "zenn-articles",
+  "description": "An MCP server for searching Zenn blog posts and generating frontend weekly content summaries.",
+  "source_repo": "sakupi01/zenn-articles",
+  "source_url": "https://github.com/sakupi01/zenn-articles",
+  "install": "# git clone --depth 1 https://github.com/sakupi01/zenn-articles\n# See source for mcpServers config block"
+}

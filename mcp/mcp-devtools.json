@@ -1,0 +1,7 @@
+{
+  "name": "mcp-devtools",
+  "description": "Mcp Devtools MCP server listed on mcp.so.",
+  "source_repo": "DXHeroes/mcp-devtools",
+  "source_url": "https://mcp.so/server/mcp-devtools/DXHeroes",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-devtools/DXHeroes\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ttiimmaacc-cinema4d",
+  "description": "Enables Claude to interact with Cinema 4D through a socket-based communication system for scene manipulation, rendering, and animation directly from conversations.",
+  "source_repo": "ttiimmaacc/cinema4d-mcp",
+  "source_url": "https://github.com/ttiimmaacc/cinema4d-mcp",
+  "install": "npx -y cinema4d-mcp"
+}

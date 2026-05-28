@@ -1,0 +1,7 @@
+{
+  "name": "s2thend-cursor-history",
+  "description": "Browse, search, export, and back up Cursor AI chat history from local SQLite database.",
+  "source_repo": "s2thend/cursor-history-mcp",
+  "source_url": "https://github.com/s2thend/cursor-history-mcp",
+  "install": "npx -y cursor-history-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boothiq",
+  "description": "Query trade show leads, meetings, and events from BoothIQ.",
+  "source_repo": "",
+  "source_url": "https://getboothiq.com/ai",
+  "install": "# git clone --depth 1 https://getboothiq.com/ai\n# See source for mcpServers config block"
+}

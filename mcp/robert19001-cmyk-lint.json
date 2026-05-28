@@ -1,0 +1,7 @@
+{
+  "name": "robert19001-cmyk-lint",
+  "description": "Lints MCP tool schemas for cross-client compatibility and agent preflight safety.",
+  "source_repo": "robert19001-cmyk/mcp-lint",
+  "source_url": "https://github.com/robert19001-cmyk/mcp-lint",
+  "install": "# git clone --depth 1 https://github.com/robert19001-cmyk/mcp-lint\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ditrixnew-1c-edt",
+  "description": "Integrates with 1C:EDT workspace to expose project management, configuration properties, validation errors, bookmarks, tasks, and check descriptions through HTTP endpoints.",
+  "source_repo": "ditrixnew/edt-mcp",
+  "source_url": "https://github.com/ditrixnew/edt-mcp",
+  "install": "npx -y edt-mcp"
+}

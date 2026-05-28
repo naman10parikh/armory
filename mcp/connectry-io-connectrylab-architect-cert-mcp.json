@@ -1,0 +1,7 @@
+{
+  "name": "connectry-io-connectrylab-architect-cert-mcp",
+  "description": "Free certification prep for the Claude Certified Architect exam. 390 scenario-based questions, guided capstone build, 30 concept handouts, 6 reference projects, practice exams, interactive UI with clickable answer cards, glassmorphism progress dashboard, spaced repetition, and deterministic grading.",
+  "source_repo": "Connectry-io/connectrylab-architect-cert-mcp",
+  "source_url": "https://github.com/Connectry-io/connectrylab-architect-cert-mcp",
+  "install": "npx -y connectrylab-architect-cert-mcp"
+}

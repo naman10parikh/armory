@@ -1,0 +1,7 @@
+{
+  "name": "rohlik-mcp",
+  "description": "Enables AI assistants to interact with Rohlik Group's online grocery delivery services across multiple countries, including product search, cart management, and account info.",
+  "source_repo": "tomaspavlin/rohlik-mcp",
+  "source_url": "https://github.com/tomaspavlin/rohlik-mcp",
+  "install": "npx -y rohlik-mcp"
+}

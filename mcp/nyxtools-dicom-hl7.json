@@ -1,0 +1,7 @@
+{
+  "name": "nyxtools-dicom-hl7",
+  "description": "Healthcare interoperability toolkit bridging DICOM, HL7v2, and FHIR with vendor-specific tag decoding and Mirth channel generation.",
+  "source_repo": "nyxtoolsdev/dicom-hl7-mcp-server",
+  "source_url": "https://github.com/nyxtoolsdev/dicom-hl7-mcp-server",
+  "install": "npx -y dicom-hl7-mcp-server"
+}

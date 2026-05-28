@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-notify",
+  "description": "Mcp_server_notify MCP server listed on mcp.so.",
+  "source_repo": "Cactusinhand/mcp_server_notify",
+  "source_url": "https://mcp.so/server/mcp_server_notify/Cactusinhand",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_notify/Cactusinhand\n# See source for mcpServers config block"
+}

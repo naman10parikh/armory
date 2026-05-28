@@ -1,0 +1,7 @@
+{
+  "name": "arvindand-maven-tools-mcp",
+  "description": "Universal Maven Central dependency intelligence for JVM build tools (Maven, Gradle, SBT, Mill). Features bulk operations, version comparison, stability filtering, dependency age analysis, release patterns, and Context7 integration for upgrade guidance.",
+  "source_repo": "arvindand/maven-tools-mcp",
+  "source_url": "https://github.com/arvindand/maven-tools-mcp",
+  "install": "npx -y maven-tools-mcp"
+}

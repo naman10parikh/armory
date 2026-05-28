@@ -1,0 +1,7 @@
+{
+  "name": "masx200-persistent-terminal",
+  "description": "Provides persistent terminal session management with MCP tools for creating, executing commands, and maintaining long-running processes across connections with real-time output handling and web UI access.",
+  "source_repo": "masx200/persistent-terminal-mcp",
+  "source_url": "https://github.com/masx200/persistent-terminal-mcp",
+  "install": "npx -y persistent-terminal-mcp"
+}

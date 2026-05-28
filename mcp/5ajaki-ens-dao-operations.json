@@ -1,0 +1,7 @@
+{
+  "name": "5ajaki-ens-dao-operations",
+  "description": "Integrates with local Ethereum nodes to simplify ENS DAO operations like domain management and governance participation.",
+  "source_repo": "5ajaki/veri5ight",
+  "source_url": "https://github.com/5ajaki/veri5ight",
+  "install": "# git clone --depth 1 https://github.com/5ajaki/veri5ight\n# See source for mcpServers config block"
+}

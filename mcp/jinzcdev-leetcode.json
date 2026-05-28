@@ -1,0 +1,7 @@
+{
+  "name": "jinzcdev-leetcode",
+  "description": "Connects to LeetCode's programming platform for accessing problem descriptions, searching by tags and difficulty, retrieving user profiles, and viewing community solutions to enhance algorithm learning and contest preparation.",
+  "source_repo": "jinzcdev/leetcode-mcp-server",
+  "source_url": "https://github.com/jinzcdev/leetcode-mcp-server",
+  "install": "npx -y leetcode-mcp-server"
+}

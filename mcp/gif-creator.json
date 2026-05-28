@@ -1,0 +1,7 @@
+{
+  "name": "gif-creator",
+  "description": "Converts video files to high-quality GIF animations using FFmpeg with optimized palette generation, customizable FPS and dimensions, and precise time-based segment extraction for creating animated previews and social media content.",
+  "source_repo": "ananddtyagi/gif-creator-mcp",
+  "source_url": "https://github.com/ananddtyagi/gif-creator-mcp",
+  "install": "npx -y gif-creator-mcp"
+}

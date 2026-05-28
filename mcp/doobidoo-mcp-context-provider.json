@@ -1,0 +1,7 @@
+{
+  "name": "doobidoo-mcp-context-provider",
+  "description": "Static server that provides persistent tool-specific context and rules for AI models",
+  "source_repo": "doobidoo/MCP-Context-Provider",
+  "source_url": "https://github.com/doobidoo/MCP-Context-Provider",
+  "install": "# git clone --depth 1 https://github.com/doobidoo/MCP-Context-Provider\n# See source for mcpServers config block"
+}

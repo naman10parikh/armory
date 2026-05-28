@@ -1,0 +1,7 @@
+{
+  "name": "davehenke-rekordbox",
+  "description": "Integrates with rekordbox DJ software databases through real-time SQLite connections, enabling track searching with BPM/key/genre filters, playlist management, DJ history analysis, and library statistics with automatic backup protection.",
+  "source_repo": "davehenke/rekordbox-mcp",
+  "source_url": "https://github.com/davehenke/rekordbox-mcp",
+  "install": "npx -y rekordbox-mcp"
+}

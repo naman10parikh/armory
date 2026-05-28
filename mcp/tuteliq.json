@@ -1,0 +1,7 @@
+{
+  "name": "tuteliq",
+  "description": "Detect grooming, bullying, fraud, and 16+ online threats across text, voice, image, and video.",
+  "source_repo": "tuteliq/mcp",
+  "source_url": "https://github.com/tuteliq/mcp",
+  "install": "# git clone --depth 1 https://github.com/tuteliq/mcp\n# See source for mcpServers config block"
+}

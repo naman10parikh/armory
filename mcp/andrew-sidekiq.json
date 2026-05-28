@@ -1,0 +1,7 @@
+{
+  "name": "andrew-sidekiq",
+  "description": "Integrates with Sidekiq background job queues to provide real-time monitoring, job management, and queue operations including retry/deletion/rescheduling capabilities, worker utilization tracking, and failure investigation through 20+ specialized tools.",
+  "source_repo": "andrew/sidekiq-mcp",
+  "source_url": "https://github.com/andrew/sidekiq-mcp",
+  "install": "npx -y sidekiq-mcp"
+}

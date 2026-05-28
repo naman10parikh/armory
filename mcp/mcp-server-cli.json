@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-cli",
+  "description": "Mcp Server Cli MCP server listed on mcp.so.",
+  "source_repo": "hdcola/mcp-server-cli",
+  "source_url": "https://mcp.so/server/mcp-server-cli/hdcola",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-cli/hdcola\n# See source for mcpServers config block"
+}

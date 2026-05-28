@@ -1,0 +1,7 @@
+{
+  "name": "prizmad",
+  "description": "Generate AI UGC video ads from any product URL.",
+  "source_repo": "prizmad/prizmad-mcp-server",
+  "source_url": "https://github.com/prizmad/prizmad-mcp-server",
+  "install": "npx -y prizmad-mcp-server"
+}

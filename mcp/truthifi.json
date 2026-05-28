@@ -1,0 +1,7 @@
+{
+  "name": "truthifi",
+  "description": "Connects AI agents to live, verified financial data from thousands of financial institutions.",
+  "source_repo": "",
+  "source_url": "https://truthifi-connect.ai",
+  "install": "# git clone --depth 1 https://truthifi-connect.ai\n# See source for mcpServers config block"
+}

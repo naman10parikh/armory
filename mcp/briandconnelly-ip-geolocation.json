@@ -1,0 +1,7 @@
+{
+  "name": "briandconnelly-ip-geolocation",
+  "description": "Integrates with ipinfo.io API to provide IP geolocation services, enabling location-based insights and network analysis.",
+  "source_repo": "briandconnelly/mcp-server-ipinfo",
+  "source_url": "https://github.com/briandconnelly/mcp-server-ipinfo",
+  "install": "# git clone --depth 1 https://github.com/briandconnelly/mcp-server-ipinfo\n# See source for mcpServers config block"
+}

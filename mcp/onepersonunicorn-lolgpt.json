@@ -1,0 +1,7 @@
+{
+  "name": "onepersonunicorn-lolgpt",
+  "description": "Provides League of Legends professional esports match prediction and summoner analysis capabilities using statistical modeling for predicting outcomes involving pro players and teams across major tournaments like LCK, LCS, Worlds, and MSI, while offering summoner comparison and mock match simulation features.",
+  "source_repo": "onepersonunicorn/lolgpt",
+  "source_url": "https://github.com/onepersonunicorn/lolgpt",
+  "install": "# git clone --depth 1 https://github.com/onepersonunicorn/lolgpt\n# See source for mcpServers config block"
+}

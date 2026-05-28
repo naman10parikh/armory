@@ -1,0 +1,7 @@
+{
+  "name": "github-pr-review-mcp-server",
+  "description": "Comprehensive MCP server for analyzing GitHub pull requests, detecting security vulnerabilities, assessing code quality, and providing risk ratings across multiple languages.",
+  "source_repo": "Vibe-Code-Agent/github-review",
+  "source_url": "https://github.com/Vibe-Code-Agent/github-review",
+  "install": "# git clone --depth 1 https://github.com/Vibe-Code-Agent/github-review\n# See source for mcpServers config block"
+}

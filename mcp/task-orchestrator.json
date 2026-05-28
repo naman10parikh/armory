@@ -1,0 +1,7 @@
+{
+  "name": "task-orchestrator",
+  "description": "Provides hierarchical task orchestration for software development goals with dot-notation IDs, supporting task creation, completion tracking, and parent-child dependency management where parent tasks automatically complete when all children are finished.",
+  "source_repo": "coderexpert123/task-orchestrator",
+  "source_url": "https://github.com/coderexpert123/task-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/coderexpert123/task-orchestrator\n# See source for mcpServers config block"
+}

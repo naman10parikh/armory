@@ -1,0 +1,7 @@
+{
+  "name": "felip3s-git-security",
+  "description": "Analyzes GitHub repositories for security risks including exposed secrets, vulnerable dependencies, and high-churn hotspot files.",
+  "source_repo": "felip3s/git_sec_mcp",
+  "source_url": "https://github.com/felip3s/git_sec_mcp",
+  "install": "npx -y git_sec_mcp"
+}

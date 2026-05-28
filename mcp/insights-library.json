@@ -1,0 +1,7 @@
+{
+  "name": "insights-library",
+  "description": "Provides access to over 10,000 curated business insight reports stored locally with intelligent search capabilities including keyword matching, publisher filtering, date range queries, and full-text content retrieval for research workflows and market analysis.",
+  "source_repo": "v587d/insightslibrary",
+  "source_url": "https://github.com/v587d/insightslibrary",
+  "install": "# git clone --depth 1 https://github.com/v587d/insightslibrary\n# See source for mcpServers config block"
+}

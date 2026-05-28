@@ -1,0 +1,7 @@
+{
+  "name": "muse-code-space-vibe-coding",
+  "description": "Auto-document vibe coding sessions by collecting, summarizing, and publishing to multiple platforms.",
+  "source_repo": "muse-code-space/vibe-coding-mcp",
+  "source_url": "https://github.com/muse-code-space/vibe-coding-mcp",
+  "install": "npx -y vibe-coding-mcp"
+}

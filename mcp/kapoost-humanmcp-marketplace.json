@@ -1,0 +1,7 @@
+{
+  "name": "kapoost-humanmcp-marketplace",
+  "description": "Federated listings from personal humanMCP servers for human-to-human exchange.",
+  "source_repo": "kapoost/humanmcp-marketplace",
+  "source_url": "https://github.com/kapoost/humanmcp-marketplace",
+  "install": "# git clone --depth 1 https://github.com/kapoost/humanmcp-marketplace\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llm-wiki-mcp",
+  "description": "Persistent markdown wiki for your AI agent, built on Karpathy's LLM wiki gist.",
+  "source_repo": "flsteven87/llm-wiki-mcp",
+  "source_url": "https://github.com/flsteven87/llm-wiki-mcp",
+  "install": "npx -y llm-wiki-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blackklegend-postgres",
+  "description": "Provides direct PostgreSQL database access with schema discovery, table exploration, DDL retrieval, data sampling, and SQL execution capabilities with configurable row limits and automatic query protection.",
+  "source_repo": "blackklegend/postgres-mcp",
+  "source_url": "https://github.com/blackklegend/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

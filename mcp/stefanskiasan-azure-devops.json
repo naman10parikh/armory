@@ -1,0 +1,7 @@
+{
+  "name": "stefanskiasan-azure-devops",
+  "description": "Integrates Azure DevOps services, enabling access to work items, repositories, and pull requests for project management and development workflows.",
+  "source_repo": "stefanskiasan/azure-devops-mcp-server",
+  "source_url": "https://github.com/stefanskiasan/azure-devops-mcp-server",
+  "install": "npx -y azure-devops-mcp-server"
+}

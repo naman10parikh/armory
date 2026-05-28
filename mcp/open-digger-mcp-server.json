@@ -1,0 +1,7 @@
+{
+  "name": "open-digger-mcp-server",
+  "description": "Open Digger Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "X-lab2017/open-digger-mcp-server",
+  "source_url": "https://mcp.so/server/open-digger-mcp-server/X-lab2017",
+  "install": "npx -y open-digger-mcp-server"
+}

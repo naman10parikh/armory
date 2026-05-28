@@ -1,0 +1,7 @@
+{
+  "name": "memory-mcp-ce",
+  "description": "Persistent semantic memory for AI agents using PostgreSQL and vector embeddings, enabling cross-session continuity and semantic search.",
+  "source_repo": "symbiomind/memory-mcp-ce",
+  "source_url": "https://github.com/symbiomind/memory-mcp-ce",
+  "install": "# git clone --depth 1 https://github.com/symbiomind/memory-mcp-ce\n# See source for mcpServers config block"
+}

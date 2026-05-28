@@ -1,0 +1,7 @@
+{
+  "name": "severity1-akahu",
+  "description": "Unofficial MCP server for the Akahu New Zealand open-finance API, providing 14 tools for accounts, transactions, and identity with read-only defaults.",
+  "source_repo": "severity1/nz-akahu-mcp",
+  "source_url": "https://github.com/severity1/nz-akahu-mcp",
+  "install": "npx -y nz-akahu-mcp"
+}

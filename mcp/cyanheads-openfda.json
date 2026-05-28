@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-openfda",
+  "description": "Query FDA data on drugs, food, devices, and recalls via the openFDA API — STDIO or Streamable HTTP.",
+  "source_repo": "cyanheads/openfda-mcp-server",
+  "source_url": "https://github.com/cyanheads/openfda-mcp-server",
+  "install": "npx -y openfda-mcp-server"
+}

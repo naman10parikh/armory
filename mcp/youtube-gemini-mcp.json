@@ -1,0 +1,7 @@
+{
+  "name": "youtube-gemini-mcp",
+  "description": "Enables conversational analysis of YouTube videos using Gemini 2.5 Pro, supporting multi-turn sessions, direct URL processing, and local video uploads.",
+  "source_repo": "aigentive/youtube-gemini-mcp",
+  "source_url": "https://github.com/aigentive/youtube-gemini-mcp",
+  "install": "npx -y youtube-gemini-mcp"
+}

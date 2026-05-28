@@ -1,0 +1,7 @@
+{
+  "name": "jguimera-security-copilot",
+  "description": "Integrates Microsoft Security Copilot with Microsoft Sentinel for running KQL queries, managing skillsets, and executing prompts using Azure Identity Authentication",
+  "source_repo": "jguimera/securitycopilotmcpserver",
+  "source_url": "https://github.com/jguimera/securitycopilotmcpserver",
+  "install": "# git clone --depth 1 https://github.com/jguimera/securitycopilotmcpserver\n# See source for mcpServers config block"
+}

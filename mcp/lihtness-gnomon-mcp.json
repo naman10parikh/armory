@@ -1,0 +1,7 @@
+{
+  "name": "lihtness-gnomon-mcp",
+  "description": "Deterministic batch tools so LLM agents stop next-token-guessing dates and math. Rich `now()` snapshot (18 fields), `calendar(ops)` batch dispatcher (diff/until/since/add/weekday/business_days, natural-language parsing), `calc(expressions)` Python eval with math+stats pre-loaded, and Pint-based unit conversion. One wiring for dates + math + units. Listed in the official MCP Server Registry. `uvx gnomon-mcp`.",
+  "source_repo": "lihtness/gnomon-mcp",
+  "source_url": "https://github.com/lihtness/gnomon-mcp",
+  "install": "npx -y gnomon-mcp"
+}

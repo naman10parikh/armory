@@ -1,0 +1,7 @@
+{
+  "name": "llmtxt",
+  "description": "Provides standardized documentation retrieval for LLMs by accessing llms.txt files directly from source websites or a central repository, delivering real-time updates in a consistent format optimized for consumption.",
+  "source_repo": "",
+  "source_url": "https://llmtxt.dev/mcp",
+  "install": "# git clone --depth 1 https://llmtxt.dev/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "techkwon-gemini",
+  "description": "Integrates Google's Gemini model with real-time web search and YouTube data to enhance AI responses with up-to-date information from the internet.",
+  "source_repo": "techkwon/mcp-gemini",
+  "source_url": "https://github.com/techkwon/mcp-gemini",
+  "install": "# git clone --depth 1 https://github.com/techkwon/mcp-gemini\n# See source for mcpServers config block"
+}

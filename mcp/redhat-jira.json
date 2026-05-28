@@ -1,0 +1,7 @@
+{
+  "name": "redhat-jira",
+  "description": "Integrates with Red Hat's Jira instance to provide comprehensive issue management, project administration, and agile workflow operations through 20 specialized tools covering search, boards, sprints, components, versions, and user management.",
+  "source_repo": "redhat-community-ai-tools/jira-mcp",
+  "source_url": "https://github.com/redhat-community-ai-tools/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

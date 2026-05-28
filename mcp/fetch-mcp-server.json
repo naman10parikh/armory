@@ -1,0 +1,7 @@
+{
+  "name": "fetch-mcp-server",
+  "description": "Enables LLMs to fetch and extract web content using browser automation, OCR, and multiple extraction methods, handling JavaScript rendering and anti-scraping techniques.",
+  "source_repo": "MaartenSmeets/mcp-server-fetch",
+  "source_url": "https://github.com/MaartenSmeets/mcp-server-fetch",
+  "install": "# git clone --depth 1 https://github.com/MaartenSmeets/mcp-server-fetch\n# See source for mcpServers config block"
+}

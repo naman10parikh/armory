@@ -1,0 +1,7 @@
+{
+  "name": "bulentkeskin-tk-sql-server",
+  "description": "Enables AI assistants to search tables, execute read-only queries, and retrieve metadata from SQL Server databases.",
+  "source_repo": "bulentkeskin-tk/sql-mcp-server",
+  "source_url": "https://github.com/bulentkeskin-tk/sql-mcp-server",
+  "install": "npx -y sql-mcp-server"
+}

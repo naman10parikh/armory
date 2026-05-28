@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-z3-prover",
+  "description": "Exposes the Z3 theorem prover for constraint solving, satisfiability checking, and optimization with support for Boolean, integer, and real variable types.",
+  "source_repo": "daedalus/mcp-z3-prover",
+  "source_url": "https://github.com/daedalus/mcp-z3-prover",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-z3-prover\n# See source for mcpServers config block"
+}

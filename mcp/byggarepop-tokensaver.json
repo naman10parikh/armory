@@ -1,0 +1,7 @@
+{
+  "name": "byggarepop-tokensaver",
+  "description": "Reduces token usage when working with AI coding assistants by serving only relevant file contents.",
+  "source_repo": "byggarepop/tokensaver",
+  "source_url": "https://github.com/byggarepop/tokensaver",
+  "install": "# git clone --depth 1 https://github.com/byggarepop/tokensaver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpbridge",
+  "description": "Mcpbridge MCP server listed on mcp.so.",
+  "source_repo": "k3d3/mcpbridge",
+  "source_url": "https://mcp.so/server/mcpbridge/k3d3",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcpbridge/k3d3\n# See source for mcpServers config block"
+}

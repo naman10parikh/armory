@@ -1,0 +1,7 @@
+{
+  "name": "clichefactory",
+  "description": "Structured JSON extraction from PDFs, images, spreadsheets, emails, and office documents.",
+  "source_repo": "clichefactory/clichefactory-mcp",
+  "source_url": "https://github.com/clichefactory/clichefactory-mcp",
+  "install": "npx -y clichefactory-mcp"
+}

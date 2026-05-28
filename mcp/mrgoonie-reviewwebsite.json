@@ -1,0 +1,7 @@
+{
+  "name": "mrgoonie-reviewwebsite",
+  "description": "Converts URLs to Markdown, scrapes web content, extracts links, and generates summaries of web pages for efficient content analysis and data extraction.",
+  "source_repo": "mrgoonie/reviewwebsite-mcp-server",
+  "source_url": "https://github.com/mrgoonie/reviewwebsite-mcp-server",
+  "install": "npx -y reviewwebsite-mcp-server"
+}

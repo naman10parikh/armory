@@ -1,0 +1,7 @@
+{
+  "name": "subhashdasyam-mem0-server",
+  "description": "Provides persistent memory capabilities through dual-server architecture combining Mem0 AI with Neo4j graph intelligence, enabling context retention, preference tracking, and knowledge evolution across sessions with support for multiple LLM providers and complete data privacy through local deployment.",
+  "source_repo": "subhashdasyam/mem0-server-mcp",
+  "source_url": "https://github.com/subhashdasyam/mem0-server-mcp",
+  "install": "npx -y mem0-server-mcp"
+}

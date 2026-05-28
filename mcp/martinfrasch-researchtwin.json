@@ -1,0 +1,7 @@
+{
+  "name": "martinfrasch-researchtwin",
+  "description": "Federated research discovery with S-Index metrics.",
+  "source_repo": "martinfrasch/researchtwin",
+  "source_url": "https://github.com/martinfrasch/researchtwin",
+  "install": "# git clone --depth 1 https://github.com/martinfrasch/researchtwin\n# See source for mcpServers config block"
+}

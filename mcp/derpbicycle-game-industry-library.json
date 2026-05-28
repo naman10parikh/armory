@@ -1,0 +1,7 @@
+{
+  "name": "derpbicycle-game-industry-library",
+  "description": "Access comprehensive game industry data including company profiles, job listings, and industry trends.",
+  "source_repo": "derpbicycle/gil-mcp-bridge",
+  "source_url": "https://github.com/derpbicycle/gil-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/derpbicycle/gil-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xerno42-helldivers-2",
+  "description": "Live Helldivers 2 galactic war data via a public remote MCP endpoint — no setup required.",
+  "source_repo": "xerno42/helldivers2-mcp",
+  "source_url": "https://github.com/xerno42/helldivers2-mcp",
+  "install": "npx -y helldivers2-mcp"
+}

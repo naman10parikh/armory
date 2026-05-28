@@ -1,0 +1,7 @@
+{
+  "name": "gh-bountyyfi-watchdog",
+  "description": "Security proxy that detects and blocks 40+ classes of attacks on connections.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/gh-bountyyfi-watchdog",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/gh-bountyyfi-watchdog\n# See source for mcpServers config block"
+}

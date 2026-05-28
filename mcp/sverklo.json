@@ -1,0 +1,7 @@
+{
+  "name": "sverklo",
+  "description": "Local-first code intelligence with hybrid search, impact analysis, diff review, and memory.",
+  "source_repo": "sverklo/sverklo",
+  "source_url": "https://github.com/sverklo/sverklo",
+  "install": "# git clone --depth 1 https://github.com/sverklo/sverklo\n# See source for mcpServers config block"
+}

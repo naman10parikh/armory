@@ -1,0 +1,7 @@
+{
+  "name": "localsynapse",
+  "description": "Offline AI-powered local file search. BM25 + semantic hybrid search across all documents.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/localsynapse",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/localsynapse\n# See source for mcpServers config block"
+}

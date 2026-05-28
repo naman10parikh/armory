@@ -1,0 +1,7 @@
+{
+  "name": "google-android-management",
+  "description": "Manage enterprise Android devices, policies, and apps through Google's Android Management API.",
+  "source_repo": "",
+  "source_url": "https://developers.google.com/android/management",
+  "install": "# git clone --depth 1 https://developers.google.com/android/management\n# See source for mcpServers config block"
+}

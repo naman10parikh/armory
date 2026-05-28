@@ -1,0 +1,7 @@
+{
+  "name": "tornikegomareli-macos-tools",
+  "description": "Provides macOS system monitoring with SQLite-based historical data storage and enhanced file search with tagging support, collecting real-time CPU, memory, disk, and network metrics while offering content-based file searching with regex support and macOS file tagging operations through native utilities like Spotlight and extended attributes.",
+  "source_repo": "tornikegomareli/macos-tools-mcp-server",
+  "source_url": "https://github.com/tornikegomareli/macos-tools-mcp-server",
+  "install": "npx -y macos-tools-mcp-server"
+}

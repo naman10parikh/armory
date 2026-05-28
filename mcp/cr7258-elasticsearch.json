@@ -1,0 +1,7 @@
+{
+  "name": "cr7258-elasticsearch",
+  "description": "Enables natural language interaction with Elasticsearch clusters for querying, indexing, and management operations via Docker-deployed infrastructure.",
+  "source_repo": "cr7258/elasticsearch-mcp-server",
+  "source_url": "https://github.com/cr7258/elasticsearch-mcp-server",
+  "install": "npx -y elasticsearch-mcp-server"
+}

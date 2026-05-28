@@ -1,0 +1,7 @@
+{
+  "name": "zukai-workos",
+  "description": "Bridges AI models with the WorkOS API for enterprise-grade user management, organization control, and identity services through a clean interface that handles authentication and API complexity.",
+  "source_repo": "fefergrgrgrg/cs-insight",
+  "source_url": "https://github.com/fefergrgrgrg/cs-insight",
+  "install": "# git clone --depth 1 https://github.com/fefergrgrgrg/cs-insight\n# See source for mcpServers config block"
+}

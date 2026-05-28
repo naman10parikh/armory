@@ -1,0 +1,7 @@
+{
+  "name": "cycling-coach-ai",
+  "description": "AI cycling coach with training plans, workouts, nutrition, strength training, and Strava, Garmin, and Wahoo sync.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/cycling-coach-ai",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/cycling-coach-ai\n# See source for mcpServers config block"
+}

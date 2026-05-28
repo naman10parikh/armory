@@ -1,0 +1,7 @@
+{
+  "name": "gh-rplryan-x402-discovery",
+  "description": "Service discovery for the x402 micropayment ecosystem with trust scoring and health checks.",
+  "source_repo": "rplryan/x402-discovery-mcp",
+  "source_url": "https://github.com/rplryan/x402-discovery-mcp",
+  "install": "npx -y x402-discovery-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "okdshin-local-git",
+  "description": "Lightweight Git repository management server for local operations using GitPython and Pydantic",
+  "source_repo": "okdshin/local-git-mcp-server",
+  "source_url": "https://github.com/okdshin/local-git-mcp-server",
+  "install": "npx -y local-git-mcp-server"
+}

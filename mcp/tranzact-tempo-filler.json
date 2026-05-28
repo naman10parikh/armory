@@ -1,0 +1,7 @@
+{
+  "name": "tranzact-tempo-filler",
+  "description": "Integrates with Atlassian Tempo's time tracking API to retrieve, create, and delete JIRA worklogs with support for bulk operations and automated timesheet management.",
+  "source_repo": "tranzact/tempo-filler-mcp-server",
+  "source_url": "https://github.com/tranzact/tempo-filler-mcp-server",
+  "install": "npx -y tempo-filler-mcp-server"
+}

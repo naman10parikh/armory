@@ -1,0 +1,7 @@
+{
+  "name": "gh-marcindudekdev-crypto-signals",
+  "description": "Real-time crypto volume anomaly detection across 50+ tokens for whale movements and pump signals.",
+  "source_repo": "marcindudekdev/crypto-signals-mcp",
+  "source_url": "https://github.com/marcindudekdev/crypto-signals-mcp",
+  "install": "npx -y crypto-signals-mcp"
+}

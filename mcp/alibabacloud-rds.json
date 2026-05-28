@@ -1,0 +1,7 @@
+{
+  "name": "alibabacloud-rds",
+  "description": "Provides a bridge to Alibaba Cloud's Relational Database Service (RDS) for managing database instances, monitoring performance, and configuring network settings through natural language interactions.",
+  "source_repo": "aliyun/alibabacloud-rds-openapi-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server",
+  "install": "npx -y alibabacloud-rds-openapi-mcp-server"
+}

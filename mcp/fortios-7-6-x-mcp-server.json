@@ -1,0 +1,7 @@
+{
+  "name": "fortios-7-6-x-mcp-server",
+  "description": "A complete MCP server for Fortinet FortiOS 7.6.x that exposes the entire REST API as typed MCP tools for use with MCP-compatible clients like Claude Desktop.",
+  "source_repo": "paoloamato2/fortinet-mcp-server",
+  "source_url": "https://github.com/paoloamato2/fortinet-mcp-server",
+  "install": "npx -y fortinet-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "madebynando-linear",
+  "description": "Integrates with Linear to enable AI-driven task automation and project tracking, offering functionality for creating and managing issues within project management workflows.",
+  "source_repo": "madebynando/mcp-linear-server",
+  "source_url": "https://github.com/madebynando/mcp-linear-server",
+  "install": "# git clone --depth 1 https://github.com/madebynando/mcp-linear-server\n# See source for mcpServers config block"
+}

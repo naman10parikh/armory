@@ -1,0 +1,7 @@
+{
+  "name": "cerebrocanibalus-godot",
+  "description": "Control Godot Engine projects with 42 tools for scene, node, and resource management using native .tscn parsing.",
+  "source_repo": "cerebrocanibalus/ultra-godot-mcp-asl",
+  "source_url": "https://github.com/cerebrocanibalus/ultra-godot-mcp-asl",
+  "install": "# git clone --depth 1 https://github.com/cerebrocanibalus/ultra-godot-mcp-asl\n# See source for mcpServers config block"
+}

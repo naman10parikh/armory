@@ -1,0 +1,7 @@
+{
+  "name": "lightning-wallet",
+  "description": "Provides Bitcoin Lightning Network wallet capabilities with L402 protocol support for payments, invoicing, and agent budget management.",
+  "source_repo": "lightningfaucet/lightning-wallet-mcp",
+  "source_url": "https://github.com/lightningfaucet/lightning-wallet-mcp",
+  "install": "npx -y lightning-wallet-mcp"
+}

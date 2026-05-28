@@ -1,0 +1,7 @@
+{
+  "name": "mcp-archive-com",
+  "description": "MCP Archive.Com MCP server listed on mcp.so.",
+  "source_repo": "VladonSD/MCP-Archive.com",
+  "source_url": "https://mcp.so/server/MCP-Archive.com/VladonSD",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Archive.com/VladonSD\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rippermercs-tensorfeed",
+  "description": "Provides real-time AI industry intelligence including news, LLM service status, model pricing, and benchmarks via pay-per-call API.",
+  "source_repo": "rippermercs/tensorfeed",
+  "source_url": "https://github.com/rippermercs/tensorfeed",
+  "install": "# git clone --depth 1 https://github.com/rippermercs/tensorfeed\n# See source for mcpServers config block"
+}

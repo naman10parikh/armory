@@ -1,0 +1,7 @@
+{
+  "name": "mkinf",
+  "description": "Mkinf MCP server listed on mcp.so.",
+  "source_repo": "mkinf-io/mkinf",
+  "source_url": "https://mcp.so/server/mkinf/mkinf-io",
+  "install": "# git clone --depth 1 https://mcp.so/server/mkinf/mkinf-io\n# See source for mcpServers config block"
+}

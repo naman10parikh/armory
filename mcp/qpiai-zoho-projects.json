@@ -1,0 +1,7 @@
+{
+  "name": "qpiai-zoho-projects",
+  "description": "Integrates with Zoho Projects API to manage projects, tasks, issues, milestones, and users across portals with OAuth authentication, multi-session support, and 20 specialized tools for project lifecycle management and workflow automation.",
+  "source_repo": "qpiai/zoho-projects-mcp",
+  "source_url": "https://github.com/qpiai/zoho-projects-mcp",
+  "install": "npx -y zoho-projects-mcp"
+}

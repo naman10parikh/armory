@@ -1,0 +1,7 @@
+{
+  "name": "wandb",
+  "description": "Integrates with Weights & Biases machine learning platform for querying Weave traces and evaluations, retrieving experiment data, creating reports with visualizations, and accessing wandbot support",
+  "source_repo": "wandb/wandb-mcp-server",
+  "source_url": "https://github.com/wandb/wandb-mcp-server",
+  "install": "npx -y wandb-mcp-server"
+}

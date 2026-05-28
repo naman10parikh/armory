@@ -1,0 +1,7 @@
+{
+  "name": "rcontesti-interactive-brokers",
+  "description": "Provides complete access to Interactive Brokers' Web API through a containerized FastAPI architecture with session management and auto-generated endpoints for portfolio management, order placement, market data retrieval, contract searching, and trading operations across stocks, options, futures, and other securities.",
+  "source_repo": "rcontesti/ib_mcp",
+  "source_url": "https://github.com/rcontesti/ib_mcp",
+  "install": "npx -y ib_mcp"
+}

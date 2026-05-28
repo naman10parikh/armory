@@ -1,0 +1,7 @@
+{
+  "name": "spences10-jinaai-search",
+  "description": "Integrates JinaAI's search capabilities for web content discovery, information retrieval, and data extraction",
+  "source_repo": "spences10/mcp-jinaai-search",
+  "source_url": "https://github.com/spences10/mcp-jinaai-search",
+  "install": "# git clone --depth 1 https://github.com/spences10/mcp-jinaai-search\n# See source for mcpServers config block"
+}

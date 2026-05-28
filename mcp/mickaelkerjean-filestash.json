@@ -1,0 +1,7 @@
+{
+  "name": "mickaelkerjean-filestash",
+  "description": "Remote Storage Access: SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, etc.",
+  "source_repo": "mickael-kerjean/filestash",
+  "source_url": "https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp",
+  "install": "# git clone --depth 1 https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp\n# See source for mcpServers config block"
+}

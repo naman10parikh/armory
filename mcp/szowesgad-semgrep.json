@@ -1,0 +1,7 @@
+{
+  "name": "szowesgad-semgrep",
+  "description": "Integrates Semgrep for static code analysis, enabling AI-driven security scanning, vulnerability detection, and code quality improvement across multiple programming languages.",
+  "source_repo": "vetcoders/mcp-server-semgrep",
+  "source_url": "https://github.com/vetcoders/mcp-server-semgrep",
+  "install": "# git clone --depth 1 https://github.com/vetcoders/mcp-server-semgrep\n# See source for mcpServers config block"
+}

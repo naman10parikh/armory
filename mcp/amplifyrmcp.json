@@ -1,0 +1,7 @@
+{
+  "name": "amplifyrmcp",
+  "description": "AmplifyrMCP is an MCP server that enables Claude Desktop to manage LinkedIn, Medium, and Telegram accounts through natural language, allowing users to post, schedule, engage, and analyze content without leaving the AI assistant.",
+  "source_repo": "supersaiyane/AmplifyrMCP",
+  "source_url": "https://github.com/supersaiyane/AmplifyrMCP",
+  "install": "# git clone --depth 1 https://github.com/supersaiyane/AmplifyrMCP\n# See source for mcpServers config block"
+}

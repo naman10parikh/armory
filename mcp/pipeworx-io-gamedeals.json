@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-gamedeals",
+  "description": "Find discounted PC game deals across multiple storefronts using the CheapShark API.",
+  "source_repo": "pipeworx-io/mcp-gamedeals",
+  "source_url": "https://github.com/pipeworx-io/mcp-gamedeals",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gamedeals\n# See source for mcpServers config block"
+}

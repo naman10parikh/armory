@@ -1,0 +1,7 @@
+{
+  "name": "bitte-protocol",
+  "description": "Connects AI assistants to the Bitte AI ecosystem, enabling discovery and execution of specialized agents and tools from the Bitte registry through real-time Server-Sent Events communication.",
+  "source_repo": "bitteprotocol/mcp",
+  "source_url": "https://github.com/bitteprotocol/mcp",
+  "install": "# git clone --depth 1 https://github.com/bitteprotocol/mcp\n# See source for mcpServers config block"
+}

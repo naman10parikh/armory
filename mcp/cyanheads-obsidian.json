@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-obsidian",
+  "description": "Enables interaction with Obsidian vaults for file operations, content search, and metadata management, facilitating note-taking and knowledge base organization.",
+  "source_repo": "cyanheads/obsidian-mcp-server",
+  "source_url": "https://github.com/cyanheads/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

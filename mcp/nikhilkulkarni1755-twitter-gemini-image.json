@@ -1,0 +1,7 @@
+{
+  "name": "nikhilkulkarni1755-twitter-gemini-image",
+  "description": "Combines Twitter/X posting with Google Gemini image generation for creating and publishing AI-generated visual content with OAuth authentication.",
+  "source_repo": "nikhilkulkarni1755/generate-image-and-post-mcp",
+  "source_url": "https://github.com/nikhilkulkarni1755/generate-image-and-post-mcp",
+  "install": "npx -y generate-image-and-post-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "akira-papa-notion",
+  "description": "Integrates Notion workspaces, enabling seamless interaction with Notion's API for tasks like automated note-taking and knowledge base management.",
+  "source_repo": "akira-papa/akirapapa-mcp-notion-server",
+  "source_url": "https://github.com/akira-papa/akirapapa-mcp-notion-server",
+  "install": "# git clone --depth 1 https://github.com/akira-papa/akirapapa-mcp-notion-server\n# See source for mcpServers config block"
+}

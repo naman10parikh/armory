@@ -1,0 +1,7 @@
+{
+  "name": "jztan-redmine",
+  "description": "Integrates with Redmine project management systems for issue tracking, project coordination, and file management",
+  "source_repo": "jztan/redmine-mcp-server",
+  "source_url": "https://github.com/jztan/redmine-mcp-server",
+  "install": "npx -y redmine-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kooshi-sharptools",
+  "description": "Provides Roslyn-powered C# codebase analysis and modification with surgical member additions, fuzzy FQN matching, source resolution from multiple sources, and automated Git integration for precise code manipulation with built-in undo capabilities.",
+  "source_repo": "kooshi/sharptoolsmcp",
+  "source_url": "https://github.com/kooshi/sharptoolsmcp",
+  "install": "# git clone --depth 1 https://github.com/kooshi/sharptoolsmcp\n# See source for mcpServers config block"
+}

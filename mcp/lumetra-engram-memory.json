@@ -1,0 +1,7 @@
+{
+  "name": "lumetra-engram-memory",
+  "description": "Provides persistent memory capabilities through explainable retrieval mechanisms that transparently surface stored information with clear reasoning about why specific memories were recalled.",
+  "source_repo": "lumetra-io/engram-mcp",
+  "source_url": "https://github.com/lumetra-io/engram-mcp",
+  "install": "npx -y engram-mcp"
+}

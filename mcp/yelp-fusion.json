@@ -1,0 +1,7 @@
+{
+  "name": "yelp-fusion",
+  "description": "Collection of specialized servers for Google TypeScript style analysis, Yelp Fusion API integration, systematic thinking frameworks, and probabilistic decision-making algorithms, each containerized with Docker for independent deployment.",
+  "source_repo": "waldzellai/waldzell-mcp",
+  "source_url": "https://github.com/waldzellai/waldzell-mcp",
+  "install": "npx -y waldzell-mcp"
+}

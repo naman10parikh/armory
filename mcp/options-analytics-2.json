@@ -1,0 +1,7 @@
+{
+  "name": "options-analytics-2",
+  "description": "Real-time options analytics MCP server. 23 tools covering gamma/delta/vanna/charm exposure (GEX/DEX/VEX/CHEX), dealer positioning, 0DTE analytics, volatility surfaces, SVI parametrization, arbitrage detection, variance swaps, VRP dashboard, Black-Scholes greeks, IV solver, Kelly criterion sizing, op",
+  "source_repo": "",
+  "source_url": "https://flashalpha.com",
+  "install": "# git clone --depth 1 https://flashalpha.com\n# See source for mcpServers config block"
+}

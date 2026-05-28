@@ -1,0 +1,7 @@
+{
+  "name": "ogumarusuisan-excel-read-tools",
+  "description": "Provides read-only Excel workbook analysis with tools for extracting metadata, reading sheet content with range specifications, bulk processing with row limits, quick overviews with sample data, and text search across sheets with cell-level results.",
+  "source_repo": "ogumarusuisan/excelreadmcp",
+  "source_url": "https://github.com/ogumarusuisan/excelreadmcp",
+  "install": "# git clone --depth 1 https://github.com/ogumarusuisan/excelreadmcp\n# See source for mcpServers config block"
+}

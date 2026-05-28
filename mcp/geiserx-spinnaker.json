@@ -1,0 +1,7 @@
+{
+  "name": "geiserx-spinnaker",
+  "description": "Community MCP integration for the Spinnaker CD platform via Gate API.",
+  "source_repo": "geiserx/spinnaker-mcp",
+  "source_url": "https://github.com/geiserx/spinnaker-mcp",
+  "install": "npx -y spinnaker-mcp"
+}

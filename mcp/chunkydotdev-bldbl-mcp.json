@@ -1,0 +1,7 @@
+{
+  "name": "chunkydotdev-bldbl-mcp",
+  "description": "Official MCP server for Buildable AI-powered development platform [bldbl.dev](https://bldbl.dev). Enables AI assistants to manage tasks, track progress, get project context, and collaborate with humans on software projects.",
+  "source_repo": "chunkydotdev/bldbl-mcp",
+  "source_url": "https://github.com/chunkydotdev/bldbl-mcp",
+  "install": "npx -y bldbl-mcp"
+}

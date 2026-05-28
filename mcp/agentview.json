@@ -1,0 +1,7 @@
+{
+  "name": "agentview",
+  "description": "Digital signage platform that lets AI agents push HTML, dashboards, and live data to managed displays.",
+  "source_repo": "",
+  "source_url": "https://agentview.de/developers.html",
+  "install": "# git clone --depth 1 https://agentview.de/developers.html\n# See source for mcpServers config block"
+}

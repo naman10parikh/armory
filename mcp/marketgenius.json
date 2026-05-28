@@ -1,0 +1,7 @@
+{
+  "name": "marketgenius",
+  "description": "Real-time stock heatmaps and investment tools delivered as interactive React components.",
+  "source_repo": "",
+  "source_url": "https://marketgenius.app",
+  "install": "# git clone --depth 1 https://marketgenius.app\n# See source for mcpServers config block"
+}

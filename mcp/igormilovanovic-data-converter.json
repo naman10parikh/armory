@@ -1,0 +1,7 @@
+{
+  "name": "igormilovanovic-data-converter",
+  "description": "Convert between 200+ format pairs including JSON, CSV, XML, YAML, PDF, Excel, and DOCX.",
+  "source_repo": "",
+  "source_url": "https://mcp-converter.tnkng.com/mcp",
+  "install": "# git clone --depth 1 https://mcp-converter.tnkng.com/mcp\n# See source for mcpServers config block"
+}

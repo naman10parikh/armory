@@ -1,0 +1,7 @@
+{
+  "name": "statsource-mcp",
+  "description": "Statsource Mcp MCP server listed on mcp.so.",
+  "source_repo": "jamie7893/statsource-mcp",
+  "source_url": "https://mcp.so/server/statsource-mcp/jamie7893",
+  "install": "npx -y statsource-mcp"
+}

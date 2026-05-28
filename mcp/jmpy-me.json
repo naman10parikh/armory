@@ -1,0 +1,7 @@
+{
+  "name": "jmpy-me",
+  "description": "URL shortener, QR codes, and 70+ marketing analytics tools accessible via MCP.",
+  "source_repo": "jmpy-me/jmpy-mcp-server",
+  "source_url": "https://github.com/jmpy-me/jmpy-mcp-server",
+  "install": "npx -y jmpy-mcp-server"
+}

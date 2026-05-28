@@ -1,0 +1,7 @@
+{
+  "name": "mnemoverse-memory",
+  "description": "Persistent memory storage that syncs context across coding assistants and AI tools using a unified API key.",
+  "source_repo": "mnemoverse/mcp-memory-server",
+  "source_url": "https://github.com/mnemoverse/mcp-memory-server",
+  "install": "# git clone --depth 1 https://github.com/mnemoverse/mcp-memory-server\n# See source for mcpServers config block"
+}

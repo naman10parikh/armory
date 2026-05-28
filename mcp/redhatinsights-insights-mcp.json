@@ -1,0 +1,7 @@
+{
+  "name": "redhatinsights-insights-mcp",
+  "description": "Integrates with Red Hat Lightspeed services for AI-assisted RHEL infrastructure management including advisor, image builder, inventory, remediations, and vulnerability assessment.",
+  "source_repo": "redhatinsights/insights-mcp",
+  "source_url": "https://github.com/redhatinsights/insights-mcp",
+  "install": "npx -y insights-mcp"
+}

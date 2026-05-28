@@ -1,0 +1,7 @@
+{
+  "name": "getonbrd-recruiter",
+  "description": "OAuth-authenticated recruiter search across Latin America's largest tech talent pool with 1.5M+ professionals.",
+  "source_repo": "",
+  "source_url": "https://www.getonbrd.com",
+  "install": "# git clone --depth 1 https://www.getonbrd.com\n# See source for mcpServers config block"
+}

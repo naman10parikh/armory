@@ -1,0 +1,7 @@
+{
+  "name": "arkalda-hejdar-mcp",
+  "description": "Runtime policy enforcement for AI agents. Evaluate actions against organization policies before execution, with observe and enforce modes.",
+  "source_repo": "ARKALDA/hejdar-mcp",
+  "source_url": "https://github.com/ARKALDA/hejdar-mcp",
+  "install": "npx -y hejdar-mcp"
+}

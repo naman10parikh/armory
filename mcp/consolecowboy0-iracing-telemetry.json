@@ -1,0 +1,7 @@
+{
+  "name": "consolecowboy0-iracing-telemetry",
+  "description": "Integrates with iRacing SDK to provide real-time telemetry streaming, racing performance analysis, car spotting, lap evaluation, and contextual coaching feedback for sim racers seeking data-driven performance improvement during practice sessions and races.",
+  "source_repo": "consolecowboy0/race-mcp",
+  "source_url": "https://github.com/consolecowboy0/race-mcp",
+  "install": "npx -y race-mcp"
+}

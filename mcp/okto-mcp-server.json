@@ -1,0 +1,7 @@
+{
+  "name": "okto-mcp-server",
+  "description": "Okto Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "okto-hq/okto-mcp-server",
+  "source_url": "https://mcp.so/server/okto-mcp-server/okto-hq",
+  "install": "npx -y okto-mcp-server"
+}

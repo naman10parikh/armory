@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-git",
+  "description": "Integrates with Git repositories using simple-git to enable core version control operations like cloning, committing, and branch management.",
+  "source_repo": "cyanheads/git-mcp-server",
+  "source_url": "https://github.com/cyanheads/git-mcp-server",
+  "install": "npx -y git-mcp-server"
+}

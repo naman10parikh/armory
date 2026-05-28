@@ -1,0 +1,7 @@
+{
+  "name": "louchi1984-coder-deepseek-worker",
+  "description": "MCP server that delegates coding tasks to DeepSeek V4 via Claude Code, operating as a background worker to reduce token consumption on the main AI client.",
+  "source_repo": "louchi1984-coder/deepseek-claude-code-worker-mcp",
+  "source_url": "https://github.com/louchi1984-coder/deepseek-claude-code-worker-mcp",
+  "install": "npx -y deepseek-claude-code-worker-mcp"
+}

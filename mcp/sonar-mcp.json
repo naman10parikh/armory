@@ -1,0 +1,7 @@
+{
+  "name": "sonar-mcp",
+  "description": "A Model Context Protocol (MCP) server for interacting with SonarQube code quality platform.",
+  "source_repo": "wadew/sonar-mcp",
+  "source_url": "https://github.com/wadew/sonar-mcp",
+  "install": "npx -y sonar-mcp"
+}

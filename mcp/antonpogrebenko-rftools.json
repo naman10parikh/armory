@@ -1,0 +1,7 @@
+{
+  "name": "antonpogrebenko-rftools",
+  "description": "Provides 203 RF and electronics calculators plus 13 server-side simulation tools from rftools.io for engineering calculations and analysis.",
+  "source_repo": "antonpogrebenko-public/rftools-mcp",
+  "source_url": "https://github.com/antonpogrebenko-public/rftools-mcp",
+  "install": "npx -y rftools-mcp"
+}

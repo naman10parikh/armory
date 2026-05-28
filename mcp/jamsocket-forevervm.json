@@ -1,0 +1,7 @@
+{
+  "name": "jamsocket-forevervm",
+  "description": "Enable long-running Python REPL execution on a remote machine",
+  "source_repo": "jamsocket/forevervm",
+  "source_url": "https://github.com/jamsocket/forevervm/tree/HEAD/javascript/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/jamsocket/forevervm/tree/HEAD/javascript/mcp-server\n# See source for mcpServers config block"
+}

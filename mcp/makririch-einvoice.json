@@ -1,0 +1,7 @@
+{
+  "name": "makririch-einvoice",
+  "description": "Create, validate, and convert German e-invoices in XRechnung and ZUGFeRD formats compliant with EN 16931.",
+  "source_repo": "makririch/einvoice-mcp",
+  "source_url": "https://github.com/makririch/einvoice-mcp",
+  "install": "npx -y einvoice-mcp"
+}

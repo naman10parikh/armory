@@ -1,0 +1,7 @@
+{
+  "name": "linkup-search",
+  "description": "Integrates with Linkup Technologies' API to enable web searches for information gathering, fact-checking, and research tasks.",
+  "source_repo": "linkupplatform/python-mcp-server",
+  "source_url": "https://github.com/linkupplatform/python-mcp-server",
+  "install": "npx -y python-mcp-server"
+}

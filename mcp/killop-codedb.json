@@ -1,0 +1,7 @@
+{
+  "name": "killop-codedb",
+  "description": "Indexes and searches codebases using tree-sitter with 4 tools for semantic code search, outlines, symbols, and dependency analysis.",
+  "source_repo": "killop/codedb-mcp",
+  "source_url": "https://github.com/killop/codedb-mcp",
+  "install": "npx -y codedb-mcp"
+}

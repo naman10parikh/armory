@@ -1,0 +1,7 @@
+{
+  "name": "graft",
+  "description": "Enables building agent-ready APIs that expose tools as both HTTP and MCP endpoints from a single server definition, with automatic OpenAPI, discovery docs, and interactive API reference.",
+  "source_repo": "schrepa/graft",
+  "source_url": "https://github.com/schrepa/graft",
+  "install": "# git clone --depth 1 https://github.com/schrepa/graft\n# See source for mcpServers config block"
+}

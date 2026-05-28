@@ -1,0 +1,7 @@
+{
+  "name": "astrograph",
+  "description": "An MCP server that detects duplicate code using AST graph isomorphism, blocking writes of structurally identical code to reduce redundancy.",
+  "source_repo": "Thaylo/astrograph",
+  "source_url": "https://github.com/Thaylo/astrograph",
+  "install": "# git clone --depth 1 https://github.com/Thaylo/astrograph\n# See source for mcpServers config block"
+}

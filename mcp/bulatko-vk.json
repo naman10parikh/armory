@@ -1,0 +1,7 @@
+{
+  "name": "bulatko-vk",
+  "description": "Integrates with VK (VKontakte) social network API for reading user profiles, wall posts, groups, friends, newsfeeds, and photos, plus creating posts and comments.",
+  "source_repo": "bulatko/vk-mcp-server",
+  "source_url": "https://github.com/bulatko/vk-mcp-server",
+  "install": "npx -y vk-mcp-server"
+}

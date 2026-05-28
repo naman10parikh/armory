@@ -1,0 +1,7 @@
+{
+  "name": "handsomejustin-mijia-control",
+  "description": "Control Xiaomi/Mijia smart home devices (lights, AC, heaters, robots, cameras) through MCP. Includes web dashboard, REST API, CLI, SocketIO, energy monitoring, and automation rules.",
+  "source_repo": "handsomejustin/mijia-control",
+  "source_url": "https://github.com/handsomejustin/mijia-control",
+  "install": "# git clone --depth 1 https://github.com/handsomejustin/mijia-control\n# See source for mcpServers config block"
+}

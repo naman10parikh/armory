@@ -1,0 +1,7 @@
+{
+  "name": "opsera",
+  "description": "Authenticated DevOps automation and insights platform",
+  "source_repo": "opseraengineering/opsera-ai",
+  "source_url": "https://github.com/opseraengineering/opsera-ai/tree/HEAD/agent-authentication-gateway",
+  "install": "# git clone --depth 1 https://github.com/opseraengineering/opsera-ai/tree/HEAD/agent-authentication-gateway\n# See source for mcpServers config block"
+}

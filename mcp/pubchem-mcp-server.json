@@ -1,0 +1,7 @@
+{
+  "name": "pubchem-mcp-server",
+  "description": "Pubchem Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "PhelanShao/pubchem-mcp-server",
+  "source_url": "https://mcp.so/server/pubchem-mcp-server/PhelanShao",
+  "install": "npx -y pubchem-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "container-mcp",
+  "description": "Container Mcp MCP server listed on mcp.so.",
+  "source_repo": "54rt1n/container-mcp",
+  "source_url": "https://mcp.so/server/container-mcp/54rt1n",
+  "install": "npx -y container-mcp"
+}

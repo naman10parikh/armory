@@ -1,0 +1,7 @@
+{
+  "name": "jkawamoto-bear",
+  "description": "Integrates with Bear note-taking software to enable note creation, search, and organization operations for enhanced knowledge management.",
+  "source_repo": "jkawamoto/mcp-bear",
+  "source_url": "https://github.com/jkawamoto/mcp-bear",
+  "install": "# git clone --depth 1 https://github.com/jkawamoto/mcp-bear\n# See source for mcpServers config block"
+}

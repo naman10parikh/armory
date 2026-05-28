@@ -1,0 +1,7 @@
+{
+  "name": "veldica-publishready",
+  "description": "Analyzes writing quality and transforms AI-generated drafts into publication-ready prose using deterministic local analysis.",
+  "source_repo": "veldica/publishready-mcp",
+  "source_url": "https://github.com/veldica/publishready-mcp",
+  "install": "npx -y publishready-mcp"
+}

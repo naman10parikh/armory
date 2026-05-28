@@ -1,0 +1,7 @@
+{
+  "name": "eugenregehr-octoboost",
+  "description": "SEO, accessibility, performance, and AI-visibility audits with compact, token-efficient results.",
+  "source_repo": "eugenregehr/octoboost-mcp-server",
+  "source_url": "https://github.com/eugenregehr/octoboost-mcp-server",
+  "install": "npx -y octoboost-mcp-server"
+}

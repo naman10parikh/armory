@@ -1,0 +1,7 @@
+{
+  "name": "insightflow",
+  "description": "InsightFlow MCP server listed on mcp.so.",
+  "source_repo": "ilissrk/InsightFlow",
+  "source_url": "https://mcp.so/server/InsightFlow/ilissrk",
+  "install": "# git clone --depth 1 https://mcp.so/server/InsightFlow/ilissrk\n# See source for mcpServers config block"
+}

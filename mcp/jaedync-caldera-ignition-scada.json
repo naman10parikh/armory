@@ -1,0 +1,7 @@
+{
+  "name": "jaedync-caldera-ignition-scada",
+  "description": "Provides automation and control capabilities for Inductive Automation's Ignition SCADA platform through 110+ tools for HMI development and system configuration.",
+  "source_repo": "jaedync/caldera-mcp",
+  "source_url": "https://github.com/jaedync/caldera-mcp",
+  "install": "npx -y caldera-mcp"
+}

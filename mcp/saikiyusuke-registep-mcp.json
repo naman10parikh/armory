@@ -1,0 +1,7 @@
+{
+  "name": "saikiyusuke-registep-mcp",
+  "description": "AI-powered POS & sales analytics MCP server with 67 tools for Airレジ, スマレジ, and BASE EC integration. Provides store management, sales data querying, AI chat analysis, and weather correlation features.",
+  "source_repo": "saikiyusuke/registep-mcp",
+  "source_url": "https://github.com/saikiyusuke/registep-mcp",
+  "install": "npx -y registep-mcp"
+}

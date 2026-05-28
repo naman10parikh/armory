@@ -1,0 +1,7 @@
+{
+  "name": "vettly",
+  "description": "Content moderation for text, images, and video with configurable policies",
+  "source_repo": "",
+  "source_url": "https://vettly.dev",
+  "install": "# git clone --depth 1 https://vettly.dev\n# See source for mcpServers config block"
+}

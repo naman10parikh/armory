@@ -1,0 +1,7 @@
+{
+  "name": "acheong08-synthetic-search",
+  "description": "Provides web search capabilities through the Synthetic Search API, returning structured results with titles, URLs, descriptions, and publication dates.",
+  "source_repo": "acheong08/synthetic-search-mcp",
+  "source_url": "https://github.com/acheong08/synthetic-search-mcp",
+  "install": "npx -y synthetic-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bbb-build-touchgrass",
+  "description": "Hires Orb-verified humans for real-world tasks using on-chain escrow on World Chain.",
+  "source_repo": "bbb-build/humanproof",
+  "source_url": "https://github.com/bbb-build/humanproof",
+  "install": "# git clone --depth 1 https://github.com/bbb-build/humanproof\n# See source for mcpServers config block"
+}

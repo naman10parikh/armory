@@ -1,0 +1,7 @@
+{
+  "name": "oohiyorioo-neo-memory",
+  "description": "Graph-based memory system using embedded KuzuDB with local ONNX embeddings for coding agents.",
+  "source_repo": "oohiyorioo/neo-memory-mcp",
+  "source_url": "https://github.com/oohiyorioo/neo-memory-mcp",
+  "install": "npx -y neo-memory-mcp"
+}

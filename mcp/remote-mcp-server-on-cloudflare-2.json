@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-on-cloudflare-2",
+  "description": "Enables deploying and connecting to MCP servers on Cloudflare Workers with OAuth login, allowing remote access to tools via MCP clients like Claude Desktop.",
+  "source_repo": "marcelxv/mcp-server",
+  "source_url": "https://github.com/marcelxv/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/marcelxv/mcp-server\n# See source for mcpServers config block"
+}

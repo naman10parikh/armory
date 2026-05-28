@@ -1,0 +1,7 @@
+{
+  "name": "learners-mcp",
+  "description": "Turns any source material into a guided learning experience with learning maps, notes, four-phase study loop, spaced repetition flashcards, and grounded Q\\&A.",
+  "source_repo": "arashbehmand/learners-mcp",
+  "source_url": "https://github.com/arashbehmand/learners-mcp",
+  "install": "npx -y learners-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "therealdataboss-contextkeeper",
+  "description": "Persistent session continuity framework providing zero model drift between AI agents across Claude, GPT, Gemini, and other LLMs.",
+  "source_repo": "therealdataboss/contextkeeper",
+  "source_url": "https://github.com/therealdataboss/contextkeeper",
+  "install": "# git clone --depth 1 https://github.com/therealdataboss/contextkeeper\n# See source for mcpServers config block"
+}

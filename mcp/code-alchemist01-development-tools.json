@@ -1,0 +1,7 @@
+{
+  "name": "code-alchemist01-development-tools",
+  "description": "Combines code analysis tools like ESLint and security scanners with web scraping capabilities using Cheerio and Playwright for automated code reviews, vulnerability detection, and data extraction workflows.",
+  "source_repo": "code-alchemist01/development-tools-mcp-server",
+  "source_url": "https://github.com/code-alchemist01/development-tools-mcp-server",
+  "install": "npx -y development-tools-mcp-server"
+}

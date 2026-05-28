@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-cointelegraph-mcp",
+  "description": "Providing real-time access to the latest news from Cointelegraph.",
+  "source_repo": "kukapay/cointelegraph-mcp",
+  "source_url": "https://github.com/kukapay/cointelegraph-mcp",
+  "install": "npx -y cointelegraph-mcp"
+}

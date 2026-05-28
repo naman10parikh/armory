@@ -1,0 +1,7 @@
+{
+  "name": "memobase",
+  "description": "Provides a bridge between AI assistants and the MemoBase API for managing conversation context and personal knowledge through JSON-RPC over stdio, enabling persistent user data storage and contextual information retrieval during conversations.",
+  "source_repo": "wuyunmei/momedb-mcp",
+  "source_url": "https://github.com/wuyunmei/momedb-mcp",
+  "install": "npx -y momedb-mcp"
+}

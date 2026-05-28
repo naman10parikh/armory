@@ -1,0 +1,7 @@
+{
+  "name": "foundry-mcp",
+  "description": "Turn AI coding assistants into reliable software engineers with structured specs, progress tracking, and automated review.",
+  "source_repo": "foundry-works/foundry-mcp",
+  "source_url": "https://github.com/foundry-works/foundry-mcp",
+  "install": "npx -y foundry-mcp"
+}

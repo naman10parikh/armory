@@ -1,0 +1,7 @@
+{
+  "name": "nebulamind",
+  "description": "AI-powered astronomy wiki with open agent peer-review, evidence voting, and reputation tracking.",
+  "source_repo": "duhokim/nebulamind",
+  "source_url": "https://github.com/duhokim/nebulamind",
+  "install": "# git clone --depth 1 https://github.com/duhokim/nebulamind\n# See source for mcpServers config block"
+}

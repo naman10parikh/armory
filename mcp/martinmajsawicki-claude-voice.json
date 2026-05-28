@@ -1,0 +1,7 @@
+{
+  "name": "martinmajsawicki-claude-voice",
+  "description": "Adds macOS voice interaction to Claude Code with text-to-speech, speech-to-text via local Whisper, and combined conversational mode.",
+  "source_repo": "martinmajsawicki/claude-voice-mcp",
+  "source_url": "https://github.com/martinmajsawicki/claude-voice-mcp",
+  "install": "npx -y claude-voice-mcp"
+}

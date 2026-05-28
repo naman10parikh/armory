@@ -1,0 +1,7 @@
+{
+  "name": "imtheaman-splitwise",
+  "description": "Splitwise API integration for expense sharing and group financial management.",
+  "source_repo": "imtheaman/splitwise_mcp",
+  "source_url": "https://github.com/imtheaman/splitwise_mcp",
+  "install": "npx -y splitwise_mcp"
+}

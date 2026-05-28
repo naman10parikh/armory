@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-binance",
+  "description": "Hosted proxy for Binance exchange APIs with 340 auto-generated tools for trading and market data.",
+  "source_repo": "junct-bot/binance-mcp",
+  "source_url": "https://github.com/junct-bot/binance-mcp",
+  "install": "npx -y binance-mcp"
+}

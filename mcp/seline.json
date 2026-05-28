@@ -1,0 +1,7 @@
+{
+  "name": "seline",
+  "description": "Privacy-focused website and product analytics with visitor journeys, funnels, revenue attribution, and churn detection.",
+  "source_repo": "getseline/seline-mcp",
+  "source_url": "https://github.com/getseline/seline-mcp",
+  "install": "npx -y seline-mcp"
+}

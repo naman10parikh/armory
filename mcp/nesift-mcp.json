@@ -1,0 +1,7 @@
+{
+  "name": "nesift-mcp",
+  "description": "MCP server for local semantic search over web content, enabling AI agents to ingest, index, and query pages with hybrid retrieval and token budget control.",
+  "source_repo": "scottgl9/nesift",
+  "source_url": "https://github.com/scottgl9/nesift",
+  "install": "# git clone --depth 1 https://github.com/scottgl9/nesift\n# See source for mcpServers config block"
+}

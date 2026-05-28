@@ -1,0 +1,7 @@
+{
+  "name": "sunwood-ai-labs-command-executor",
+  "description": "Enables secure execution of pre-approved system commands for automation tasks, system management, and controlled access to host resources.",
+  "source_repo": "sunwood-ai-labs/command-executor-mcp-server",
+  "source_url": "https://github.com/sunwood-ai-labs/command-executor-mcp-server",
+  "install": "npx -y command-executor-mcp-server"
+}

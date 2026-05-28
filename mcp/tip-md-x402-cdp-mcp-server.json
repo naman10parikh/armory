@@ -1,0 +1,7 @@
+{
+  "name": "tip-md-x402-cdp-mcp-server",
+  "description": "Enables any AI agent to send cryptocurrency tips via x402 payment collection and automatic CDP disbursement, turning agents into payment-enabled tipping platforms.",
+  "source_repo": "tipdotmd/tip-md-x402-mcp-server",
+  "source_url": "https://github.com/tipdotmd/tip-md-x402-mcp-server",
+  "install": "npx -y tip-md-x402-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "loganmurphy-oura",
+  "description": "MCP server for Oura Ring health data running on Cloudflare Workers, exposing sleep, activity, and readiness metrics via OAuth 2.1 authentication.",
+  "source_repo": "loganmurphy/oura-mcp-server",
+  "source_url": "https://github.com/loganmurphy/oura-mcp-server",
+  "install": "npx -y oura-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alexbakers-ipfs-storacha",
+  "description": "Enables AI access to the IPFS Storacha Network for decentralized file storage, content addressing, and persistent data management through the w3cli interface.",
+  "source_repo": "alexbakers/mcp-ipfs",
+  "source_url": "https://github.com/alexbakers/mcp-ipfs",
+  "install": "# git clone --depth 1 https://github.com/alexbakers/mcp-ipfs\n# See source for mcpServers config block"
+}

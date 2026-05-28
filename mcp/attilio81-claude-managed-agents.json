@@ -1,0 +1,7 @@
+{
+  "name": "attilio81-claude-managed-agents",
+  "description": "MCP server exposing Claude Managed Agents documentation as searchable tools for Claude Desktop and Claude Code.",
+  "source_repo": "attilio81/mcp_cma",
+  "source_url": "https://github.com/attilio81/mcp_cma",
+  "install": "# git clone --depth 1 https://github.com/attilio81/mcp_cma\n# See source for mcpServers config block"
+}

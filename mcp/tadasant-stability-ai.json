@@ -1,0 +1,7 @@
+{
+  "name": "tadasant-stability-ai",
+  "description": "Integrates Stability AI's image generation and manipulation capabilities for editing, upscaling, and more via Stable Diffusion models.",
+  "source_repo": "tadasant/mcp-server-stability-ai",
+  "source_url": "https://github.com/tadasant/mcp-server-stability-ai",
+  "install": "# git clone --depth 1 https://github.com/tadasant/mcp-server-stability-ai\n# See source for mcpServers config block"
+}

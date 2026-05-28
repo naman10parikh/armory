@@ -1,0 +1,7 @@
+{
+  "name": "hummusonrails-couchbase",
+  "description": "Enables natural language querying of Couchbase databases through SQL++ execution with built-in authentication, connection management, and error handling",
+  "source_repo": "hummusonrails/couchbase-mcp-server",
+  "source_url": "https://github.com/hummusonrails/couchbase-mcp-server",
+  "install": "npx -y couchbase-mcp-server"
+}

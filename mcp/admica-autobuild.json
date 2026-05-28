@@ -1,0 +1,7 @@
+{
+  "name": "admica-autobuild",
+  "description": "Provides profile-based build automation with asynchronous queuing, file system watching, and lifecycle management for automated builds, continuous integration scenarios, and development workflows requiring build system access without manual intervention.",
+  "source_repo": "admica/autobuildmcp",
+  "source_url": "https://github.com/admica/autobuildmcp",
+  "install": "# git clone --depth 1 https://github.com/admica/autobuildmcp\n# See source for mcpServers config block"
+}

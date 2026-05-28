@@ -1,0 +1,7 @@
+{
+  "name": "randomm-files-db",
+  "description": "Provides a local vector database system for semantic code search with zero-configuration setup, real-time file monitoring, and incremental indexing to help developers navigate large codebases efficiently.",
+  "source_repo": "randomm/files-db-mcp",
+  "source_url": "https://github.com/randomm/files-db-mcp",
+  "install": "npx -y files-db-mcp"
+}

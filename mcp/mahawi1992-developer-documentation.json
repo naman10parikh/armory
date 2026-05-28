@@ -1,0 +1,7 @@
+{
+  "name": "mahawi1992-developer-documentation",
+  "description": "Manages up-to-date documentation scraped from the web to support your programming workflows.",
+  "source_repo": "mahawi1992/mcp-documentation-server",
+  "source_url": "https://github.com/mahawi1992/mcp-documentation-server",
+  "install": "# git clone --depth 1 https://github.com/mahawi1992/mcp-documentation-server\n# See source for mcpServers config block"
+}

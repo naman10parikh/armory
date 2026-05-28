@@ -1,0 +1,7 @@
+{
+  "name": "vikunja-mcp",
+  "description": "Enables AI assistants to interact with Vikunja task management via ergonomic and raw REST tools for projects, tasks, labels, and comments.",
+  "source_repo": "shichao402/vikunja-mcp",
+  "source_url": "https://github.com/shichao402/vikunja-mcp",
+  "install": "npx -y vikunja-mcp"
+}

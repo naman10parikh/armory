@@ -1,0 +1,7 @@
+{
+  "name": "jupiterbak-alteryx",
+  "description": "Integrates with Alteryx Server's REST API to enable workflow execution, collection management, user administration, schedule automation, job monitoring, and credential management for data analytics operations.",
+  "source_repo": "jupiterbak/ayx-mcp-wrapper",
+  "source_url": "https://github.com/jupiterbak/ayx-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/jupiterbak/ayx-mcp-wrapper\n# See source for mcpServers config block"
+}

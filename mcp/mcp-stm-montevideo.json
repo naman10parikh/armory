@@ -1,0 +1,7 @@
+{
+  "name": "mcp-stm-montevideo",
+  "description": "MCP server exposing Montevideo public transportation data (STM) as tools for AI assistants, enabling natural language queries about routes, stops, arrivals, and trip planning.",
+  "source_repo": "chaba11/mcp-stm-montevideo",
+  "source_url": "https://github.com/chaba11/mcp-stm-montevideo",
+  "install": "# git clone --depth 1 https://github.com/chaba11/mcp-stm-montevideo\n# See source for mcpServers config block"
+}

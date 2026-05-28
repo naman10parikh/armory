@@ -1,0 +1,7 @@
+{
+  "name": "octonet-apolocine",
+  "description": "Multi-protocol MCP server with access to 13 databases via zero-config deployment with support for REST, GraphQL, WebSocket, and SSE interfaces.",
+  "source_repo": "apolocine/octonet-mcp",
+  "source_url": "https://github.com/apolocine/octonet-mcp",
+  "install": "npx -y octonet-mcp"
+}

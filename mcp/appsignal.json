@@ -1,0 +1,7 @@
+{
+  "name": "appsignal",
+  "description": "Integrates with AppSignal's application performance monitoring platform through a proxy architecture that forwards requests to hosted API endpoints, enabling access to monitoring tools, error tracking, and system metrics for application health insights.",
+  "source_repo": "appsignal/appsignal-mcp",
+  "source_url": "https://github.com/appsignal/appsignal-mcp",
+  "install": "npx -y appsignal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bjenkinsgit-psyxe",
+  "description": "Apple Notes, Reminders, and Contacts for AI assistants with BERT semantic search on macOS.",
+  "source_repo": "bjenkinsgit/psyxe-mcp",
+  "source_url": "https://github.com/bjenkinsgit/psyxe-mcp",
+  "install": "npx -y psyxe-mcp"
+}

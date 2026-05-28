@@ -1,0 +1,7 @@
+{
+  "name": "xjoker-gemini-cli",
+  "description": "Wraps Google Gemini CLI for cross-model queries using local OAuth with activity-based timeouts.",
+  "source_repo": "xjoker/gemini-cli-mcp",
+  "source_url": "https://github.com/xjoker/gemini-cli-mcp",
+  "install": "npx -y gemini-cli-mcp"
+}

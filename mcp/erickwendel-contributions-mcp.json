@@ -1,0 +1,7 @@
+{
+  "name": "erickwendel-contributions-mcp",
+  "description": "Erickwendel Contributions Mcp MCP server listed on mcp.so.",
+  "source_repo": "ErickWendel/erickwendel-contributions-mcp",
+  "source_url": "https://mcp.so/server/erickwendel-contributions-mcp/ErickWendel",
+  "install": "npx -y erickwendel-contributions-mcp"
+}

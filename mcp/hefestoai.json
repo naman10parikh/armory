@@ -1,0 +1,7 @@
+{
+  "name": "hefestoai",
+  "description": "Pre-commit code quality guardian that detects semantic drift in AI-generated code.",
+  "source_repo": "artvepa80/agents-hefesto",
+  "source_url": "https://github.com/artvepa80/agents-hefesto",
+  "install": "# git clone --depth 1 https://github.com/artvepa80/agents-hefesto\n# See source for mcpServers config block"
+}

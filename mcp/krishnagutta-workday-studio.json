@@ -1,0 +1,7 @@
+{
+  "name": "krishnagutta-workday-studio",
+  "description": "Enables AI assistants to navigate and edit Workday Studio integration workspaces locally with 20 tools for files, assemblies, validation, and diagnostics.",
+  "source_repo": "krishnagutta/workday-studio-mcp",
+  "source_url": "https://github.com/krishnagutta/workday-studio-mcp",
+  "install": "npx -y workday-studio-mcp"
+}

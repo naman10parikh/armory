@@ -1,0 +1,7 @@
+{
+  "name": "kallind-iiith-mess",
+  "description": "Manages IIIT Hyderabad cafeteria meal registrations, menus, bookings, and billing via campus intranet.",
+  "source_repo": "kallind/iiith-mess-mcp",
+  "source_url": "https://github.com/kallind/iiith-mess-mcp",
+  "install": "npx -y iiith-mess-mcp"
+}

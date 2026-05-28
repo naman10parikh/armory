@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tmdb",
+  "description": "MCP TMDB MCP server listed on mcp.so.",
+  "source_repo": "ShubhanshuSondhiya/MCP-TMDB",
+  "source_url": "https://mcp.so/server/MCP-TMDB/ShubhanshuSondhiya",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-TMDB/ShubhanshuSondhiya\n# See source for mcpServers config block"
+}

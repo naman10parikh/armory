@@ -1,0 +1,7 @@
+{
+  "name": "pr-narrator-mcp",
+  "description": "Generates commit messages, PR titles and descriptions, and release notes from git changes, with automatic domain detection for appropriate PR templates.",
+  "source_repo": "mhaviv/pr-narrator-mcp",
+  "source_url": "https://github.com/mhaviv/pr-narrator-mcp",
+  "install": "npx -y pr-narrator-mcp"
+}

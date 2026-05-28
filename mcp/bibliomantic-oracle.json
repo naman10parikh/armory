@@ -1,0 +1,7 @@
+{
+  "name": "bibliomantic-oracle",
+  "description": "Integrates traditional I Ching divination with cryptographically secure three-coin method simulation, providing authentic hexagram generation, bibliomantic consultation, and complete 64-hexagram system lookup for creative writing and philosophical exploration.",
+  "source_repo": "d4nshields/bibliomantic-mcp-server",
+  "source_url": "https://github.com/d4nshields/bibliomantic-mcp-server",
+  "install": "npx -y bibliomantic-mcp-server"
+}

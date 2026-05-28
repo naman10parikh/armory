@@ -1,0 +1,7 @@
+{
+  "name": "candiceai",
+  "description": "Integrates with Candice AI's document intelligence platform to provide verifiable, citation-backed outputs with source-level traceability and confidence scoring for enterprise AI workflows.",
+  "source_repo": "",
+  "source_url": "https://www.candiceai.com",
+  "install": "# git clone --depth 1 https://www.candiceai.com\n# See source for mcpServers config block"
+}

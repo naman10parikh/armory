@@ -1,0 +1,7 @@
+{
+  "name": "vdappdev2-vtimestamp",
+  "description": "Verifies and queries vtimestamp proofs on the Verus blockchain.",
+  "source_repo": "vdappdev2/vtimestamp-mcp",
+  "source_url": "https://github.com/vdappdev2/vtimestamp-mcp",
+  "install": "npx -y vtimestamp-mcp"
+}

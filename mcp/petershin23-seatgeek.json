@@ -1,0 +1,7 @@
+{
+  "name": "petershin23-seatgeek",
+  "description": "Integrates with SeatGeek's event discovery platform to find events and generate personalized recommendations with performer-based searches, venue information, and location filtering for entertainment applications and travel planning tools.",
+  "source_repo": "petershin23/seatgeek-mcp",
+  "source_url": "https://github.com/petershin23/seatgeek-mcp",
+  "install": "npx -y seatgeek-mcp"
+}

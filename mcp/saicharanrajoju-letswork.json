@@ -1,0 +1,7 @@
+{
+  "name": "saicharanrajoju-letswork",
+  "description": "Real-time collaborative coding via MCP enabling two developers to share one codebase.",
+  "source_repo": "saicharanrajoju/letswork-mcp",
+  "source_url": "https://github.com/saicharanrajoju/letswork-mcp",
+  "install": "npx -y letswork-mcp"
+}

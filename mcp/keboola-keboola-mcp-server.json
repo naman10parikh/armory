@@ -1,0 +1,7 @@
+{
+  "name": "keboola-keboola-mcp-server",
+  "description": "interact with Keboola Connection Data Platform. This server provides tools for listing and accessing data from Keboola Storage API.",
+  "source_repo": "keboola/keboola-mcp-server",
+  "source_url": "https://github.com/keboola/keboola-mcp-server",
+  "install": "npx -y keboola-mcp-server"
+}

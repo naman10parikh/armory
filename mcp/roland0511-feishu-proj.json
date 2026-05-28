@@ -1,0 +1,7 @@
+{
+  "name": "roland0511-feishu-proj",
+  "description": "Integrates with Feishu Project management API, enabling direct interaction with project data, tasks, and resources through environment variable authentication and stdio-based transport.",
+  "source_repo": "roland0511/mcp-feishu-proj",
+  "source_url": "https://github.com/roland0511/mcp-feishu-proj",
+  "install": "# git clone --depth 1 https://github.com/roland0511/mcp-feishu-proj\n# See source for mcpServers config block"
+}

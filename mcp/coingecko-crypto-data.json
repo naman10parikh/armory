@@ -1,0 +1,7 @@
+{
+  "name": "coingecko-crypto-data",
+  "description": "Integrates with CoinGecko's cryptocurrency data API to provide real-time market data, pricing information, and financial metrics for crypto market analysis and portfolio tracking applications.",
+  "source_repo": "coingecko/coingecko-typescript",
+  "source_url": "https://github.com/coingecko/coingecko-typescript",
+  "install": "# git clone --depth 1 https://github.com/coingecko/coingecko-typescript\n# See source for mcpServers config block"
+}

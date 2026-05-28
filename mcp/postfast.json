@@ -1,0 +1,7 @@
+{
+  "name": "postfast",
+  "description": "Schedule and manage social media posts across 10 platforms via the PostFast API.",
+  "source_repo": "peturgeorgievv-factory/postfast-mcp",
+  "source_url": "https://github.com/peturgeorgievv-factory/postfast-mcp",
+  "install": "npx -y postfast-mcp"
+}

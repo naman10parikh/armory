@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-server-config",
+  "description": "Github Mcp Server Config MCP server listed on mcp.so.",
+  "source_repo": "yosay-org/github-mcp-server-config",
+  "source_url": "https://mcp.so/server/github-mcp-server-config/yosay-org",
+  "install": "# git clone --depth 1 https://mcp.so/server/github-mcp-server-config/yosay-org\n# See source for mcpServers config block"
+}

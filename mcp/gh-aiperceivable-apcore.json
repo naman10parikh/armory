@@ -1,0 +1,7 @@
+{
+  "name": "gh-aiperceivable-apcore",
+  "description": "Turns any apcore-based project into an MCP-compatible tool provider with zero code changes, supporting auto-discovery of modules and multiple transports.",
+  "source_repo": "aiperceivable/apcore-mcp-rust",
+  "source_url": "https://github.com/aiperceivable/apcore-mcp-rust",
+  "install": "# git clone --depth 1 https://github.com/aiperceivable/apcore-mcp-rust\n# See source for mcpServers config block"
+}

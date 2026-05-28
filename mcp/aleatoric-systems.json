@@ -1,0 +1,7 @@
+{
+  "name": "aleatoric-systems",
+  "description": "Generates deterministic synthetic market data for backtesting, stress testing, and model validation across major exchanges.",
+  "source_repo": "aleatoric-systems/aleatoric-engine-mcp",
+  "source_url": "https://github.com/aleatoric-systems/aleatoric-engine-mcp",
+  "install": "npx -y aleatoric-engine-mcp"
+}

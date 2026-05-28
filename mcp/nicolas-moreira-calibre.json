@@ -1,0 +1,7 @@
+{
+  "name": "nicolas-moreira-calibre",
+  "description": "Local-first AI memory system with decay and evolution mechanics, behavioral gene tracking, and multi-agent coordination via MCP.",
+  "source_repo": "nicolas-moreira/calibre-mcp",
+  "source_url": "https://github.com/nicolas-moreira/calibre-mcp",
+  "install": "npx -y calibre-mcp"
+}

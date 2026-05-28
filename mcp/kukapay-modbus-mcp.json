@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-modbus-mcp",
+  "description": "An MCP server that standardizes and contextualizes industrial Modbus data.",
+  "source_repo": "kukapay/modbus-mcp",
+  "source_url": "https://github.com/kukapay/modbus-mcp",
+  "install": "npx -y modbus-mcp"
+}

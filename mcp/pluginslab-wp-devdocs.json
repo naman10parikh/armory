@@ -1,0 +1,7 @@
+{
+  "name": "pluginslab-wp-devdocs",
+  "description": "Indexes WordPress plugin hooks and JavaScript APIs from GitHub repositories and local folders in a SQLite database, providing searchable documentation and validation to prevent developers from using non-existent hook names during WordPress development.",
+  "source_repo": "pluginslab/wp-devdocs-mcp",
+  "source_url": "https://github.com/pluginslab/wp-devdocs-mcp",
+  "install": "npx -y wp-devdocs-mcp"
+}

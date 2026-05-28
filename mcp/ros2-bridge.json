@@ -1,0 +1,7 @@
+{
+  "name": "ros2-bridge",
+  "description": "Bridges ROS 2 robotics systems by exposing services as tools and topics as resources, enabling direct robot control, sensor data analysis, and autonomous navigation tasks with automatic message type conversion and configurable filtering.",
+  "source_repo": "ngres/ros2mcp",
+  "source_url": "https://github.com/ngres/ros2mcp",
+  "install": "# git clone --depth 1 https://github.com/ngres/ros2mcp\n# See source for mcpServers config block"
+}

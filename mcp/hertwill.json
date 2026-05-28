@@ -1,0 +1,7 @@
+{
+  "name": "hertwill",
+  "description": "Official Hertwill dropshipping MCP server with 12 tools for product discovery, margins, and Shopify/WooCommerce sync.",
+  "source_repo": "hertwill/hw-mcp",
+  "source_url": "https://github.com/hertwill/hw-mcp",
+  "install": "npx -y hw-mcp"
+}

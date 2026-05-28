@@ -1,0 +1,7 @@
+{
+  "name": "vicampuzano-jamie-ai",
+  "description": "Integrates with Jamie AI meeting assistant to access meeting summaries, transcripts, action items, and semantic search.",
+  "source_repo": "vicampuzano/jamie-mcp",
+  "source_url": "https://github.com/vicampuzano/jamie-mcp",
+  "install": "npx -y jamie-mcp"
+}

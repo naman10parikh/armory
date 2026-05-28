@@ -1,0 +1,7 @@
+{
+  "name": "tickerr",
+  "description": "Live status, API pricing, and rate limits for ChatGPT, Claude, Gemini, Cursor, and 42+ AI tools.",
+  "source_repo": "imviky-ctrl/tickerr-mcp",
+  "source_url": "https://github.com/imviky-ctrl/tickerr-mcp",
+  "install": "npx -y tickerr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "egarcia74-sql-server",
+  "description": "Integrates with Microsoft SQL Server databases to provide query execution, schema exploration, and data retrieval capabilities with support for both SQL Server and Windows authentication.",
+  "source_repo": "egarcia74/warp-sql-server-mcp",
+  "source_url": "https://github.com/egarcia74/warp-sql-server-mcp",
+  "install": "npx -y warp-sql-server-mcp"
+}

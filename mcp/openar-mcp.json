@@ -1,0 +1,7 @@
+{
+  "name": "openar-mcp",
+  "description": "MCP server for Portuguese Parliament open data, enabling AI agents to access legislative initiatives, deputies, plenary votes, petitions, and parliamentary committees.",
+  "source_repo": "openar-pt/mcp",
+  "source_url": "https://github.com/openar-pt/mcp",
+  "install": "# git clone --depth 1 https://github.com/openar-pt/mcp\n# See source for mcpServers config block"
+}

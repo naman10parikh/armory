@@ -1,0 +1,7 @@
+{
+  "name": "utensils-nixos",
+  "description": "Provides a server for accessing NixOS packages, system options, Home Manager, and nix-darwin configurations with multi-level caching and advanced search capabilities",
+  "source_repo": "utensils/mcp-nixos",
+  "source_url": "https://github.com/utensils/mcp-nixos",
+  "install": "# git clone --depth 1 https://github.com/utensils/mcp-nixos\n# See source for mcpServers config block"
+}

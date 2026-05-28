@@ -1,0 +1,7 @@
+{
+  "name": "irenictable",
+  "description": "Collaborative whiteboard — create objects, connectors, C4 diagrams, and manage boards.",
+  "source_repo": "",
+  "source_url": "https://irenictable.benevolabs.org",
+  "install": "# git clone --depth 1 https://irenictable.benevolabs.org\n# See source for mcpServers config block"
+}

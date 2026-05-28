@@ -1,0 +1,7 @@
+{
+  "name": "geli2001-shopify",
+  "description": "Bridges to the Shopify GraphQL Admin API, enabling product searches, customer information retrieval, order management, and inventory updates without leaving your workflow.",
+  "source_repo": "geli2001/shopify-mcp",
+  "source_url": "https://github.com/geli2001/shopify-mcp",
+  "install": "npx -y shopify-mcp"
+}

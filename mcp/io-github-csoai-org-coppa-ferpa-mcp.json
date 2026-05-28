@@ -1,0 +1,7 @@
+{
+  "name": "io-github-csoai-org-coppa-ferpa-mcp",
+  "description": "MCP server for children's privacy compliance, enabling checks under COPPA, FERPA, UK Age Appropriate Design Code, and EU AI Act provisions for minors.",
+  "source_repo": "CSOAI-ORG/coppa-ferpa-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/coppa-ferpa-mcp",
+  "install": "npx -y coppa-ferpa-mcp"
+}

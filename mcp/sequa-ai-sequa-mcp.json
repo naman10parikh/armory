@@ -1,0 +1,7 @@
+{
+  "name": "sequa-ai-sequa-mcp",
+  "description": "Stop stitching context for Copilot and Cursor. With Sequa MCP, your AI tools know your entire codebase and docs out of the box.",
+  "source_repo": "sequa-ai/sequa-mcp",
+  "source_url": "https://github.com/sequa-ai/sequa-mcp",
+  "install": "npx -y sequa-mcp"
+}

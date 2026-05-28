@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-etf-flow",
+  "description": "Retrieves crypto ETF flow data from CoinGlass API, providing historical Bitcoin and Ethereum fund flow analysis in structured markdown tables with pivot formatting and total calculations for cryptocurrency market analysis and investment decision-making.",
+  "source_repo": "kukapay/etf-flow-mcp",
+  "source_url": "https://github.com/kukapay/etf-flow-mcp",
+  "install": "npx -y etf-flow-mcp"
+}

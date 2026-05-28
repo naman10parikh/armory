@@ -1,0 +1,7 @@
+{
+  "name": "vybit",
+  "description": "Push notifications with personalized sounds — manage and trigger vybits.",
+  "source_repo": "flatirontek/vybit-sdk",
+  "source_url": "https://github.com/flatirontek/vybit-sdk/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/flatirontek/vybit-sdk/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

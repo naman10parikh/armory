@@ -1,0 +1,7 @@
+{
+  "name": "kapillamba4-meta-prompt",
+  "description": "Serves Google and Anthropic prompting guides for meta-prompt generation.",
+  "source_repo": "kapillamba4/meta-prompt-mcp",
+  "source_url": "https://github.com/kapillamba4/meta-prompt-mcp",
+  "install": "npx -y meta-prompt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shepherd-bible-api",
+  "description": "Provides access to Bible translations, books, chapters, verses, and search functionality.",
+  "source_repo": "",
+  "source_url": "https://bible.simplecohortllc.com",
+  "install": "# git clone --depth 1 https://bible.simplecohortllc.com\n# See source for mcpServers config block"
+}

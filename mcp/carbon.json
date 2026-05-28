@@ -1,0 +1,7 @@
+{
+  "name": "carbon",
+  "description": "UK electricity grid carbon intensity and generation mix data via National Grid ESO.",
+  "source_repo": "pipeworx-io/mcp-carbon",
+  "source_url": "https://github.com/pipeworx-io/mcp-carbon",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-carbon\n# See source for mcpServers config block"
+}

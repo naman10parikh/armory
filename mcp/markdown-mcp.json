@@ -1,0 +1,7 @@
+{
+  "name": "markdown-mcp",
+  "description": "Splits Markdown documents into hierarchical sections with parent-child and sibling relationships, enabling structured document access for AI assistants.",
+  "source_repo": "Gal-Gilor/markdown-mcp",
+  "source_url": "https://github.com/Gal-Gilor/markdown-mcp",
+  "install": "npx -y markdown-mcp"
+}

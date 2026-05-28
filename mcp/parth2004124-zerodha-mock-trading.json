@@ -1,0 +1,7 @@
+{
+  "name": "parth2004124-zerodha-mock-trading",
+  "description": "Mock trading interface for Zerodha brokerage with realistic order execution simulation, portfolio management, and P&L tracking for safe algorithmic trading strategy testing",
+  "source_repo": "parth2004124/zerodha-mcp",
+  "source_url": "https://github.com/parth2004124/zerodha-mcp",
+  "install": "npx -y zerodha-mcp"
+}

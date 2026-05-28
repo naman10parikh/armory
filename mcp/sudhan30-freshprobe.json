@@ -1,0 +1,7 @@
+{
+  "name": "sudhan30-freshprobe",
+  "description": "Data freshness verification for AI agents. Probes endpoints for HTTP cache staleness, latency percentiles, content fingerprinting, TLS health, DNS timing, and redirect chains. Returns deterministic FRESH/STALE/UNKNOWN verdicts with NIST AI RMF mapping. CLI + MCP server + HTTP API with Prometheus metrics and YAML policy engine.",
+  "source_repo": "Sudhan30/freshprobe",
+  "source_url": "https://github.com/Sudhan30/freshprobe",
+  "install": "# git clone --depth 1 https://github.com/Sudhan30/freshprobe\n# See source for mcpServers config block"
+}

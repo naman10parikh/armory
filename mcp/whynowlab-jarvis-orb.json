@@ -1,0 +1,7 @@
+{
+  "name": "whynowlab-jarvis-orb",
+  "description": "Persistent 4-tier AI memory (episodic, semantic, project, procedural) with temporal scoring, contradiction detection, entity tracking, and real-time desktop visualization orb.",
+  "source_repo": "whynowlab/jarvis-orb",
+  "source_url": "https://github.com/whynowlab/jarvis-orb",
+  "install": "# git clone --depth 1 https://github.com/whynowlab/jarvis-orb\n# See source for mcpServers config block"
+}

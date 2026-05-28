@@ -1,0 +1,7 @@
+{
+  "name": "kstonekuan-telegram-notification",
+  "description": "Integrates with Telegram's Bot API to send messages and notifications directly through channels or direct messages for automated messaging workflows and conversational bot interactions.",
+  "source_repo": "kstonekuan/telegram-notification-mcp",
+  "source_url": "https://github.com/kstonekuan/telegram-notification-mcp",
+  "install": "npx -y telegram-notification-mcp"
+}

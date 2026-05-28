@@ -1,0 +1,7 @@
+{
+  "name": "fugle-taiwan-stock-market",
+  "description": "Integrates with Fugle's Taiwan stock market data API to provide historical candles, real-time intraday quotes, trading data, and market snapshots for financial analysis and algorithmic trading research.",
+  "source_repo": "fugle-dev/fugle-marketdata-mcp-server",
+  "source_url": "https://github.com/fugle-dev/fugle-marketdata-mcp-server",
+  "install": "npx -y fugle-marketdata-mcp-server"
+}

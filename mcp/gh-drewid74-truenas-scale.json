@@ -1,0 +1,7 @@
+{
+  "name": "gh-drewid74-truenas-scale",
+  "description": "Manages TrueNAS SCALE systems via WebSocket JSON-RPC with FastMCP and SSE transport.",
+  "source_repo": "drewid74/truenas-mcp",
+  "source_url": "https://github.com/drewid74/truenas-mcp",
+  "install": "npx -y truenas-mcp"
+}

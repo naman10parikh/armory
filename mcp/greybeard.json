@@ -1,0 +1,7 @@
+{
+  "name": "greybeard",
+  "description": "An MCP server that provides AI-powered code review and architecture analysis, simulating the perspective of an experienced staff engineer. It integrates with IDEs to review diffs, design decisions, and tradeoffs through natural language.",
+  "source_repo": "btotharye/greybeard",
+  "source_url": "https://github.com/btotharye/greybeard",
+  "install": "# git clone --depth 1 https://github.com/btotharye/greybeard\n# See source for mcpServers config block"
+}

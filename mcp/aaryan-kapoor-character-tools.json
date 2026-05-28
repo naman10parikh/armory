@@ -1,0 +1,7 @@
+{
+  "name": "aaryan-kapoor-character-tools",
+  "description": "14+ specialized tools for character-level text analysis including letter counting, frequency analysis, word spelling, character positioning, and text comparison",
+  "source_repo": "aaryan-kapoor/mcp-character-tools",
+  "source_url": "https://github.com/aaryan-kapoor/mcp-character-tools",
+  "install": "# git clone --depth 1 https://github.com/aaryan-kapoor/mcp-character-tools\n# See source for mcpServers config block"
+}

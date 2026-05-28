@@ -1,0 +1,7 @@
+{
+  "name": "jaenster-remote-shell",
+  "description": "Manages remote machines and containers via persistent SSH, SFTP, and Docker sessions that survive AI client restarts.",
+  "source_repo": "jaenster/remote-shell-mcp",
+  "source_url": "https://github.com/jaenster/remote-shell-mcp",
+  "install": "npx -y remote-shell-mcp"
+}

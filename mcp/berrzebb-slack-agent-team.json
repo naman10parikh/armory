@@ -1,0 +1,7 @@
+{
+  "name": "berrzebb-slack-agent-team",
+  "description": "Coordinates multi-agent teams via Slack channels with command loops, persona management, approval workflows, and context persistence.",
+  "source_repo": "berrzebb/mcp-slack-agent-team",
+  "source_url": "https://github.com/berrzebb/mcp-slack-agent-team",
+  "install": "# git clone --depth 1 https://github.com/berrzebb/mcp-slack-agent-team\n# See source for mcpServers config block"
+}

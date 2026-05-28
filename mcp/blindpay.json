@@ -1,0 +1,7 @@
+{
+  "name": "blindpay",
+  "description": "Integrates with BlindPay's global stablecoin payment infrastructure for payment operations, receiver management, instance administration, and KYC workflows.",
+  "source_repo": "blindpaylabs/blindpay-mcp",
+  "source_url": "https://github.com/blindpaylabs/blindpay-mcp",
+  "install": "npx -y blindpay-mcp"
+}

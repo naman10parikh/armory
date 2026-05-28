@@ -1,0 +1,7 @@
+{
+  "name": "anchorregistry",
+  "description": "On-chain provenance lookup for anchored artifacts — resolve AR-IDs, hashes, and provenance trees.",
+  "source_repo": "anchorregistry/ar-mcp",
+  "source_url": "https://github.com/anchorregistry/ar-mcp",
+  "install": "npx -y ar-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-cataas",
+  "description": "Cat images and content from the CATAAS (Cat as a Service) API, free with no authentication.",
+  "source_repo": "pipeworx-io/mcp-cataas",
+  "source_url": "https://github.com/pipeworx-io/mcp-cataas",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-cataas\n# See source for mcpServers config block"
+}

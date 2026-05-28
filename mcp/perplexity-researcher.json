@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-researcher",
+  "description": "Integrates Perplexity AI's search capabilities with Node.js to provide general search queries, documentation retrieval, API discovery, and code modernization assistance while maintaining conversation history in SQLite.",
+  "source_repo": "clssck/researcher-mcp",
+  "source_url": "https://github.com/clssck/researcher-mcp",
+  "install": "npx -y researcher-mcp"
+}

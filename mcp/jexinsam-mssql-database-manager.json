@@ -1,0 +1,7 @@
+{
+  "name": "jexinsam-mssql-database-manager",
+  "description": "Enables secure interactions with Microsoft SQL Server databases for automated data analysis, dynamic reporting, and intelligent database management.",
+  "source_repo": "jexinsam/mssql_mcp_server",
+  "source_url": "https://github.com/jexinsam/mssql_mcp_server",
+  "install": "npx -y mssql_mcp_server"
+}

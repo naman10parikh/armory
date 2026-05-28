@@ -1,0 +1,7 @@
+{
+  "name": "troystack",
+  "description": "Real-time precious metals market data and portfolio analytics covering gold, silver, and other metals.",
+  "source_repo": "kingleosgold/troystack-api",
+  "source_url": "https://github.com/kingleosgold/troystack-api",
+  "install": "# git clone --depth 1 https://github.com/kingleosgold/troystack-api\n# See source for mcpServers config block"
+}

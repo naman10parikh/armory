@@ -1,0 +1,7 @@
+{
+  "name": "raj-sharma-git-aks-incident",
+  "description": "Monitors Azure Kubernetes Service pod logs for errors, detects incidents using LLM analysis, and automatically creates routed Jira tickets.",
+  "source_repo": "raj-sharma-git/k8s-mcp-jira-agent",
+  "source_url": "https://github.com/raj-sharma-git/k8s-mcp-jira-agent",
+  "install": "# git clone --depth 1 https://github.com/raj-sharma-git/k8s-mcp-jira-agent\n# See source for mcpServers config block"
+}

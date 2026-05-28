@@ -1,0 +1,7 @@
+{
+  "name": "blacktwist-blacktwist",
+  "description": "Social media management for Threads and Bluesky with post scheduling, analytics, and team collaboration.",
+  "source_repo": "blacktwist/blacktwist-mcp",
+  "source_url": "https://github.com/blacktwist/blacktwist-mcp",
+  "install": "npx -y blacktwist-mcp"
+}

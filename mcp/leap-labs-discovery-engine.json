@@ -1,0 +1,7 @@
+{
+  "name": "leap-labs-discovery-engine",
+  "description": "Hypothesis-free pattern discovery in tabular data with statistical validation.",
+  "source_repo": "leap-laboratories/discovery-engine",
+  "source_url": "https://github.com/leap-laboratories/discovery-engine",
+  "install": "# git clone --depth 1 https://github.com/leap-laboratories/discovery-engine\n# See source for mcpServers config block"
+}

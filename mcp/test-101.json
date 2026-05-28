@@ -1,0 +1,7 @@
+{
+  "name": "test-101",
+  "description": "test-101",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/rahular101/test-101",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/rahular101/test-101\n# See source for mcpServers config block"
+}

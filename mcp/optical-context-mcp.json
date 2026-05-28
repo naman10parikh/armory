@@ -1,0 +1,7 @@
+{
+  "name": "optical-context-mcp",
+  "description": "Compress OCR-heavy PDFs into dense packed images so agents can work with long visual documents.",
+  "source_repo": "ChrBoebel/optical-context-mcp",
+  "source_url": "https://github.com/ChrBoebel/optical-context-mcp",
+  "install": "npx -y optical-context-mcp"
+}

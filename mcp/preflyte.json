@@ -1,0 +1,7 @@
+{
+  "name": "preflyte",
+  "description": "DeFi financial intelligence for AI agents, providing oracle data and market verification.",
+  "source_repo": "",
+  "source_url": "https://mcp.preflyte.xyz/mcp",
+  "install": "# git clone --depth 1 https://mcp.preflyte.xyz/mcp\n# See source for mcpServers config block"
+}

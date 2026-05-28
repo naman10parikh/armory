@@ -1,0 +1,7 @@
+{
+  "name": "mibayy-token-savior",
+  "description": "Structural codebase indexing with surgical query tools that reduce token consumption by answering code navigation, dependency, and impact analysis queries with minimal response sizes.",
+  "source_repo": "mibayy/token-savior",
+  "source_url": "https://github.com/mibayy/token-savior",
+  "install": "# git clone --depth 1 https://github.com/mibayy/token-savior\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agirails",
+  "description": "Payment rails for AI agents, enabling autonomous agents to initiate and manage financial transactions from any context window.",
+  "source_repo": "agirails/agirails-mcp-server",
+  "source_url": "https://github.com/agirails/agirails-mcp-server",
+  "install": "npx -y agirails-mcp-server"
+}

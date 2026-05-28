@@ -1,0 +1,7 @@
+{
+  "name": "rohitg00-kubectl",
+  "description": "Enables natural language interaction with Kubernetes resources, allowing developers to manage clusters through conversational interfaces instead of complex kubectl commands.",
+  "source_repo": "rohitg00/kubectl-mcp-server",
+  "source_url": "https://github.com/rohitg00/kubectl-mcp-server",
+  "install": "npx -y kubectl-mcp-server"
+}

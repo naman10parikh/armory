@@ -1,0 +1,7 @@
+{
+  "name": "liveblocks-liveblocks-mcp-server",
+  "description": "Create, modify, and delete different aspects of [Liveblocks](https://liveblocks.io) such as rooms, threads, comments, notifications, and more. Additionally, it has read access to Storage and Yjs.",
+  "source_repo": "liveblocks/liveblocks-mcp-server",
+  "source_url": "https://github.com/liveblocks/liveblocks-mcp-server",
+  "install": "npx -y liveblocks-mcp-server"
+}

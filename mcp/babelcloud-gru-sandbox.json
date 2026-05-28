@@ -1,0 +1,7 @@
+{
+  "name": "babelcloud-gru-sandbox",
+  "description": "Secure, self-hostable sandbox for running Python, TypeScript, and Bash code in isolated Docker containers with automatic resource management for local command execution.",
+  "source_repo": "babelcloud/gbox",
+  "source_url": "https://github.com/babelcloud/gbox",
+  "install": "# git clone --depth 1 https://github.com/babelcloud/gbox\n# See source for mcpServers config block"
+}

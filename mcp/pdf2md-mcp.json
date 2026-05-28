@@ -1,0 +1,7 @@
+{
+  "name": "pdf2md-mcp",
+  "description": "Converts PDF files to Markdown format using AI sampling capabilities.",
+  "source_repo": "fastmcp-me/pdf2md-mcp",
+  "source_url": "https://github.com/fastmcp-me/pdf2md-mcp",
+  "install": "npx -y pdf2md-mcp"
+}

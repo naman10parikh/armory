@@ -1,0 +1,7 @@
+{
+  "name": "edinet-db",
+  "description": "Provides remote MCP access to financial data and filings for 3,800 listed Japanese companies through EDINET DB.",
+  "source_repo": "edinetdb/edinet-db-mcp",
+  "source_url": "https://github.com/edinetdb/edinet-db-mcp",
+  "install": "npx -y edinet-db-mcp"
+}

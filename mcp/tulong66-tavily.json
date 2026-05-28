@@ -1,0 +1,7 @@
+{
+  "name": "tulong66-tavily",
+  "description": "Integrates Tavily's search API with HTTP/HTTPS proxy support for web search capabilities in restricted network environments.",
+  "source_repo": "tulong66/mcp-tavily-proxy",
+  "source_url": "https://github.com/tulong66/mcp-tavily-proxy",
+  "install": "# git clone --depth 1 https://github.com/tulong66/mcp-tavily-proxy\n# See source for mcpServers config block"
+}

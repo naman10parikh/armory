@@ -1,0 +1,7 @@
+{
+  "name": "nordstellar",
+  "description": "Official MCP server for NordStellar threat exposure management platform, enabling natural language queries for attack surface data, dark web search, and security monitoring.",
+  "source_repo": "nordstellar/nordstellar-mcp",
+  "source_url": "https://github.com/nordstellar/nordstellar-mcp",
+  "install": "npx -y nordstellar-mcp"
+}

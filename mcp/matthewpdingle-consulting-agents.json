@@ -1,0 +1,7 @@
+{
+  "name": "matthewpdingle-consulting-agents",
+  "description": "Enables Claude Code to consult with multiple expert coding agents powered by OpenAI's o3-mini and Claude 3.7 Sonnet for enhanced problem analysis and diverse model perspectives",
+  "source_repo": "matthewpdingle/consulting-agents-mcp",
+  "source_url": "https://github.com/matthewpdingle/consulting-agents-mcp",
+  "install": "npx -y consulting-agents-mcp"
+}

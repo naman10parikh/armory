@@ -1,0 +1,7 @@
+{
+  "name": "galoishllee-sagemath",
+  "description": "Integrates with local SageMath installations to execute mathematical computations and check version information with configurable timeouts for research, computational algebra, and educational applications.",
+  "source_repo": "galoishlee/mcp-server-sagemath",
+  "source_url": "https://github.com/galoishlee/mcp-server-sagemath",
+  "install": "# git clone --depth 1 https://github.com/galoishlee/mcp-server-sagemath\n# See source for mcpServers config block"
+}

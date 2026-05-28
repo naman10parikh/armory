@@ -1,0 +1,7 @@
+{
+  "name": "depyler",
+  "description": "Python-to-Rust transpiler with analysis and verification tools",
+  "source_repo": "paiml/depyler",
+  "source_url": "https://github.com/paiml/depyler",
+  "install": "# git clone --depth 1 https://github.com/paiml/depyler\n# See source for mcpServers config block"
+}

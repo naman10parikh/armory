@@ -1,0 +1,7 @@
+{
+  "name": "michaelneale-deepseek-r1-reasoner",
+  "description": "Leverages Deepseek r1 for local reasoning and task planning, enabling autonomous decision-making while maintaining data privacy.",
+  "source_repo": "michaelneale/deepseek-r1-mcp",
+  "source_url": "https://github.com/michaelneale/deepseek-r1-mcp",
+  "install": "npx -y deepseek-r1-mcp"
+}

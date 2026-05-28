@@ -1,0 +1,7 @@
+{
+  "name": "bark-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for sending iOS push notifications via Bark.",
+  "source_repo": "metrovoc/bark-mcp-server",
+  "source_url": "https://github.com/metrovoc/bark-mcp-server",
+  "install": "npx -y bark-mcp-server"
+}

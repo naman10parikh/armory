@@ -1,0 +1,7 @@
+{
+  "name": "thrivestack",
+  "description": "PLG CRM analytics with account engagement, MAU/MTU, and sales lead data.",
+  "source_repo": "thrivestack-public/thrivestack-mcp",
+  "source_url": "https://github.com/thrivestack-public/thrivestack-mcp",
+  "install": "npx -y thrivestack-mcp"
+}

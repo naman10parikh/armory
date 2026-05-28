@@ -1,0 +1,7 @@
+{
+  "name": "creatorrmode-lead-avp-sdk",
+  "description": "Trust, identity (W3C DID), and EigenTrust reputation for AI agents. Attestations, disputes, sybil detection, IPFS audit anchoring.",
+  "source_repo": "creatorrmode-lead/avp-sdk",
+  "source_url": "https://github.com/creatorrmode-lead/avp-sdk",
+  "install": "# git clone --depth 1 https://github.com/creatorrmode-lead/avp-sdk\n# See source for mcpServers config block"
+}

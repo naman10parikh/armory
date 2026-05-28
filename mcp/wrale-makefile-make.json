@@ -1,0 +1,7 @@
+{
+  "name": "wrale-makefile-make",
+  "description": "Integrates with make to enable execution of Makefile targets, automating build processes and development tasks for software projects.",
+  "source_repo": "wrale/mcp-server-make",
+  "source_url": "https://github.com/wrale/mcp-server-make",
+  "install": "# git clone --depth 1 https://github.com/wrale/mcp-server-make\n# See source for mcpServers config block"
+}

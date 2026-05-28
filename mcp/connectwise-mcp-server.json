@@ -1,0 +1,7 @@
+{
+  "name": "connectwise-mcp-server",
+  "description": "Integrates with ConnectWise Manage API to enable ticket, company, and contact management operations. Supports filtering, pagination, and CRUD actions.",
+  "source_repo": "maxpopkin/connectwise-mcp-server",
+  "source_url": "https://github.com/maxpopkin/connectwise-mcp-server",
+  "install": "npx -y connectwise-mcp-server"
+}

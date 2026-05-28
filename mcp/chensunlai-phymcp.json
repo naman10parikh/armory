@@ -1,0 +1,7 @@
+{
+  "name": "chensunlai-phymcp",
+  "description": "Lightweight physical MCP protocol for nearby IoT devices, enabling LLM agents to discover and control ESP32 microcontrollers via ESP-NOW with a Python MCP wrapper.",
+  "source_repo": "chensunlai/phymcp",
+  "source_url": "https://github.com/chensunlai/phymcp",
+  "install": "# git clone --depth 1 https://github.com/chensunlai/phymcp\n# See source for mcpServers config block"
+}

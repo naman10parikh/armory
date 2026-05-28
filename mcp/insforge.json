@@ -1,0 +1,7 @@
+{
+  "name": "insforge",
+  "description": "Backend-as-a-service platform with database, storage, auth, edge functions, and deployment tools.",
+  "source_repo": "insforge/insforge-mcp",
+  "source_url": "https://github.com/insforge/insforge-mcp",
+  "install": "npx -y insforge-mcp"
+}

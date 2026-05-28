@@ -1,0 +1,7 @@
+{
+  "name": "carlos-zamora-windows-terminal",
+  "description": "Windows Terminal settings management with JSON Patch operations, fragment extensions, Oh My Posh themes, and shell integration.",
+  "source_repo": "carlos-zamora/wt-mcp",
+  "source_url": "https://github.com/carlos-zamora/wt-mcp",
+  "install": "npx -y wt-mcp"
+}

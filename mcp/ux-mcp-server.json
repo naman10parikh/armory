@@ -1,0 +1,7 @@
+{
+  "name": "ux-mcp-server",
+  "description": "An MCP server that provides comprehensive UX best practices covering accessibility, usability, UI patterns, design systems, performance, and more, enabling clients to analyze and generate UX-optimized code and recommendations.",
+  "source_repo": "elsahafy/ux-mcp-server",
+  "source_url": "https://github.com/elsahafy/ux-mcp-server",
+  "install": "npx -y ux-mcp-server"
+}

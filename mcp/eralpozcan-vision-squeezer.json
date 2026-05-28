@@ -1,0 +1,7 @@
+{
+  "name": "eralpozcan-vision-squeezer",
+  "description": "Reduces vision model token costs by snapping images to optimal tile boundaries for Claude, GPT-4o, GPT-5, and Gemini.",
+  "source_repo": "eralpozcan/vision-squeezer",
+  "source_url": "https://github.com/eralpozcan/vision-squeezer",
+  "install": "# git clone --depth 1 https://github.com/eralpozcan/vision-squeezer\n# See source for mcpServers config block"
+}

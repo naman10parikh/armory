@@ -1,0 +1,7 @@
+{
+  "name": "danijeun-fanar-mcp-server",
+  "description": "A Model Context Protocol server for Fanar API tools: Islamic RAG, image generation, and translation.",
+  "source_repo": "danijeun/fanar-mcp-server",
+  "source_url": "https://github.com/danijeun/fanar-mcp-server",
+  "install": "npx -y fanar-mcp-server"
+}

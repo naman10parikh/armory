@@ -1,0 +1,7 @@
+{
+  "name": "taidgh-robinson-nba-stats",
+  "description": "Provides real-time NBA game data including scores, player statistics, and play-by-play information through the nba_api package for accessing current basketball information not in Claude's training data.",
+  "source_repo": "taidgh-robinson/nba-mcp-server",
+  "source_url": "https://github.com/taidgh-robinson/nba-mcp-server",
+  "install": "npx -y nba-mcp-server"
+}

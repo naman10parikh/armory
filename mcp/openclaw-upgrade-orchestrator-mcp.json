@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-upgrade-orchestrator-mcp",
+  "description": "Safe AI agent runtime upgrades: regression catalog, snapshot diff, and rollback for OpenClaw deployments.",
+  "source_repo": "temurkhan13/openclaw-upgrade-orchestrator-mcp",
+  "source_url": "https://github.com/temurkhan13/openclaw-upgrade-orchestrator-mcp",
+  "install": "npx -y openclaw-upgrade-orchestrator-mcp"
+}

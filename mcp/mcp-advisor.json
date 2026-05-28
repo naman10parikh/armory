@@ -1,0 +1,7 @@
+{
+  "name": "mcp-advisor",
+  "description": "Provides comprehensive access to the Model Context Protocol specification through prompts and resources, enabling evaluation of server compliance and detailed explanations of MCP topics.",
+  "source_repo": "olaservo/mcp-advisor",
+  "source_url": "https://github.com/olaservo/mcp-advisor",
+  "install": "# git clone --depth 1 https://github.com/olaservo/mcp-advisor\n# See source for mcpServers config block"
+}

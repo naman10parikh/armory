@@ -1,0 +1,7 @@
+{
+  "name": "shaikhspeare-wanderlog",
+  "description": "Build and manage Wanderlog trip itineraries with 14 tools for places, hotels, notes, and expenses.",
+  "source_repo": "shaikhspeare/wanderlog-mcp",
+  "source_url": "https://github.com/shaikhspeare/wanderlog-mcp",
+  "install": "npx -y wanderlog-mcp"
+}

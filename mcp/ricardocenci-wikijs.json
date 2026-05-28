@@ -1,0 +1,7 @@
+{
+  "name": "ricardocenci-wikijs",
+  "description": "Integrates with WikiJS knowledge bases through GraphQL to enable search, page retrieval, and content discovery operations across multilingual wiki deployments with structured metadata and filtering capabilities.",
+  "source_repo": "ricardocenci/wikijs-mcp",
+  "source_url": "https://github.com/ricardocenci/wikijs-mcp",
+  "install": "npx -y wikijs-mcp"
+}

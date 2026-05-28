@@ -1,0 +1,7 @@
+{
+  "name": "ronamosa-protonmail-pro",
+  "description": "Manage ProtonMail through Proton Bridge SMTP with 12 tools for sending, reading, searching, and organizing encrypted email.",
+  "source_repo": "ronamosa/protonmail-pro-mcp",
+  "source_url": "https://github.com/ronamosa/protonmail-pro-mcp",
+  "install": "npx -y protonmail-pro-mcp"
+}

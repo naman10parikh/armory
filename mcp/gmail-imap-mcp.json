@@ -1,0 +1,7 @@
+{
+  "name": "gmail-imap-mcp",
+  "description": "Gmail Imap Mcp MCP server listed on mcp.so.",
+  "source_repo": "tonykipkemboi/gmail-imap-mcp",
+  "source_url": "https://mcp.so/server/gmail-imap-mcp/tonykipkemboi",
+  "install": "npx -y gmail-imap-mcp"
+}

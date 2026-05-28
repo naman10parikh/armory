@@ -1,0 +1,7 @@
+{
+  "name": "openmf-mcp-mifosx-self-service",
+  "description": "A self-service integration for user registration, authentication, account management, transactions, and third-party transfers with Apache Fineract.",
+  "source_repo": "openMF/mcp-mifosx-self-service",
+  "source_url": "https://github.com/openMF/mcp-mifosx-self-service",
+  "install": "# git clone --depth 1 https://github.com/openMF/mcp-mifosx-self-service\n# See source for mcpServers config block"
+}

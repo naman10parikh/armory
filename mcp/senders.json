@@ -1,0 +1,7 @@
+{
+  "name": "senders",
+  "description": "Send email campaigns and manage contacts through Senders' email marketing platform.",
+  "source_repo": "dame-senders/sendersmcp",
+  "source_url": "https://github.com/dame-senders/sendersmcp",
+  "install": "# git clone --depth 1 https://github.com/dame-senders/sendersmcp\n# See source for mcpServers config block"
+}

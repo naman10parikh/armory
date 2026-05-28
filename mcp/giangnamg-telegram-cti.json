@@ -1,0 +1,7 @@
+{
+  "name": "giangnamg-telegram-cti",
+  "description": "Telethon-based Telegram integration for cyber threat intelligence with 60+ tools spanning chat management, messaging, contacts, media, and search.",
+  "source_repo": "giangnamg/telegram-mcp-for-cti",
+  "source_url": "https://github.com/giangnamg/telegram-mcp-for-cti",
+  "install": "# git clone --depth 1 https://github.com/giangnamg/telegram-mcp-for-cti\n# See source for mcpServers config block"
+}

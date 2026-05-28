@@ -1,0 +1,7 @@
+{
+  "name": "google-pse",
+  "description": "Integrates with Google Programmable Search Engine to enable web search capabilities with support for pagination, result size, language restrictions, and safe search filtering",
+  "source_repo": "rendyfebry/google-pse-mcp",
+  "source_url": "https://github.com/rendyfebry/google-pse-mcp",
+  "install": "npx -y google-pse-mcp"
+}

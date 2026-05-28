@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-landlaw-ai-mcp",
+  "description": "Python MCP server for land law and property law guidance.",
+  "source_repo": "csoai-org/landlaw-ai-mcp",
+  "source_url": "https://github.com/csoai-org/landlaw-ai-mcp",
+  "install": "npx -y landlaw-ai-mcp"
+}

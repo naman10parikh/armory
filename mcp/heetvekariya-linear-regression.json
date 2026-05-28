@@ -1,0 +1,7 @@
+{
+  "name": "heetvekariya-linear-regression",
+  "description": "Train linear regression models.",
+  "source_repo": "heetvekariya/linear-regression-mcp",
+  "source_url": "https://github.com/heetvekariya/linear-regression-mcp",
+  "install": "npx -y linear-regression-mcp"
+}

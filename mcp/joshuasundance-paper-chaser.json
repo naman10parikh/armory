@@ -1,0 +1,7 @@
+{
+  "name": "joshuasundance-paper-chaser",
+  "description": "Academic research toolkit for paper discovery, citation graph traversal, reference repair, and regulatory document retrieval.",
+  "source_repo": "joshuasundance-swca/paper-chaser-mcp",
+  "source_url": "https://github.com/joshuasundance-swca/paper-chaser-mcp",
+  "install": "npx -y paper-chaser-mcp"
+}

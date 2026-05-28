@@ -1,0 +1,7 @@
+{
+  "name": "portertech-skills",
+  "description": "Transforms structured markdown skill files with YAML frontmatter into discoverable tools that provide expert knowledge, best practices, and procedural guidance by automatically scanning directories and exposing each skill as an individual tool.",
+  "source_repo": "portertech/skills-mcp-server",
+  "source_url": "https://github.com/portertech/skills-mcp-server",
+  "install": "npx -y skills-mcp-server"
+}

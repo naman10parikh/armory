@@ -1,0 +1,7 @@
+{
+  "name": "willvelida-mcp-afl-server",
+  "description": "MCP server that integrates with the Squiggle API to provide information on Australian Football League teams, ladder standings, results, tips, and power rankings.",
+  "source_repo": "willvelida/mcp-afl-server",
+  "source_url": "https://github.com/willvelida/mcp-afl-server",
+  "install": "# git clone --depth 1 https://github.com/willvelida/mcp-afl-server\n# See source for mcpServers config block"
+}

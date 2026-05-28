@@ -1,0 +1,7 @@
+{
+  "name": "aravindev-inkscape",
+  "description": "Controls Inkscape vector graphics editor via D-Bus and CLI with tools for file conversion, path operations, image analysis, and gradient manipulation.",
+  "source_repo": "aravindev/inkscape_mcp",
+  "source_url": "https://github.com/aravindev/inkscape_mcp",
+  "install": "npx -y inkscape_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jonemo-openpyxl-excel",
+  "description": "Enables Excel file interaction with capabilities for retrieving cell values, searching ranges, examining formatting and formulas, and listing worksheet information for data analysis workflows.",
+  "source_repo": "jonemo/openpyxl-mcp-server",
+  "source_url": "https://github.com/jonemo/openpyxl-mcp-server",
+  "install": "npx -y openpyxl-mcp-server"
+}

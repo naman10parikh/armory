@@ -1,0 +1,7 @@
+{
+  "name": "psychquant-apple-mail",
+  "description": "Native Swift Apple Mail integration with SQLite-powered millisecond search across 250K+ emails.",
+  "source_repo": "psychquant/che-apple-mail-mcp",
+  "source_url": "https://github.com/psychquant/che-apple-mail-mcp",
+  "install": "npx -y che-apple-mail-mcp"
+}

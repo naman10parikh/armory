@@ -1,0 +1,7 @@
+{
+  "name": "snoglobe-prolog",
+  "description": "Bridges AI systems with Prolog's logical programming capabilities through tools for executing programs, running time-limited queries, and exploring available predicates.",
+  "source_repo": "snoglobe/prolog_mcp",
+  "source_url": "https://github.com/snoglobe/prolog_mcp",
+  "install": "npx -y prolog_mcp"
+}

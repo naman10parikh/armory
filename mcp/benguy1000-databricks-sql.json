@@ -1,0 +1,7 @@
+{
+  "name": "benguy1000-databricks-sql",
+  "description": "Databricks Unity Catalog SQL query execution and schema exploration.",
+  "source_repo": "benkeeley9/databricks-sql-mcp",
+  "source_url": "https://github.com/benkeeley9/databricks-sql-mcp",
+  "install": "npx -y databricks-sql-mcp"
+}

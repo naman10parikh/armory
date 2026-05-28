@@ -1,0 +1,7 @@
+{
+  "name": "vivid-money",
+  "description": "Open a Vivid Business account from your AI chat.",
+  "source_repo": "vivid-money/vivid-mcp",
+  "source_url": "https://github.com/vivid-money/vivid-mcp",
+  "install": "npx -y vivid-mcp"
+}

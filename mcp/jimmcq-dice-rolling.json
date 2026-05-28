@@ -1,0 +1,7 @@
+{
+  "name": "jimmcq-dice-rolling",
+  "description": "Provides advanced dice rolling capabilities for tabletop gaming and RPGs with support for standard notation, advantage/disadvantage mechanics, exploding dice, reroll mechanics, keep/drop highest/lowest, success counting, and special dice types including fudge dice and percentile dice.",
+  "source_repo": "jimmcq/dice-rolling-mcp",
+  "source_url": "https://github.com/jimmcq/dice-rolling-mcp",
+  "install": "npx -y dice-rolling-mcp"
+}

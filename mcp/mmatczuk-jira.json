@@ -1,0 +1,7 @@
+{
+  "name": "mmatczuk-jira",
+  "description": "Integrates with Jira using 3 focused tools designed for minimal context overhead in issue management.",
+  "source_repo": "mmatczuk/jira-mcp",
+  "source_url": "https://github.com/mmatczuk/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

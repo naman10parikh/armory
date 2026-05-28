@@ -1,0 +1,7 @@
+{
+  "name": "gh-fr1sk-tmux",
+  "description": "Provides visibility into tmux terminal sessions with tools to list sessions, capture output, and send commands.",
+  "source_repo": "fr1sk/tmux-mcp",
+  "source_url": "https://github.com/fr1sk/tmux-mcp",
+  "install": "npx -y tmux-mcp"
+}

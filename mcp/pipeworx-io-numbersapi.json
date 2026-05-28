@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-numbersapi",
+  "description": "Retrieve interesting facts about numbers, dates, and mathematical trivia.",
+  "source_repo": "pipeworx-io/mcp-numbersapi",
+  "source_url": "https://github.com/pipeworx-io/mcp-numbersapi",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-numbersapi\n# See source for mcpServers config block"
+}

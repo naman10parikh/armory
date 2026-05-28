@@ -1,0 +1,7 @@
+{
+  "name": "pierre3-owasp-zap",
+  "description": "Integrates with OWASP ZAP to enable web application vulnerability scanning through Docker container management and 14 MCP tools for active scanning, passive analysis, spidering, and alert retrieval.",
+  "source_repo": "pierre3/dotnet-zap-mcp",
+  "source_url": "https://github.com/pierre3/dotnet-zap-mcp",
+  "install": "npx -y dotnet-zap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cryptohopper-market-data",
+  "description": "Real-time crypto market data across 13+ exchanges including candles, tickers, and order books via the Cryptohopper platform.",
+  "source_repo": "",
+  "source_url": "https://www.cryptohopper.com",
+  "install": "# git clone --depth 1 https://www.cryptohopper.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pcdck-ozon-mcp",
+  "description": "Knowledge-rich MCP server for the full Ozon Seller + Performance API (466 methods, 15 MCP tools). Auto-pagination over 4 cursor styles, subscription-tier pre-flight, rate-limit management with exponential back-off, and 13 curated analytical workflows (OOS risk, cabinet health, content audit, pricing, warehouse distribution). Russian + English BM25 search across the catalog.",
+  "source_repo": "PCDCK/ozon-mcp",
+  "source_url": "https://github.com/PCDCK/ozon-mcp",
+  "install": "npx -y ozon-mcp"
+}

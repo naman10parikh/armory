@@ -1,0 +1,7 @@
+{
+  "name": "apolocine-mosta",
+  "description": "Multi-database connectivity with zero config — supports 13 databases, multi-protocol transport, Auth, and RBAC.",
+  "source_repo": "apolocine/mosta-net",
+  "source_url": "https://github.com/apolocine/mosta-net",
+  "install": "# git clone --depth 1 https://github.com/apolocine/mosta-net\n# See source for mcpServers config block"
+}

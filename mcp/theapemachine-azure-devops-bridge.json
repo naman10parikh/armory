@@ -1,0 +1,7 @@
+{
+  "name": "theapemachine-azure-devops-bridge",
+  "description": "Integrates with Azure DevOps to manage work items, wikis, and project tasks, enabling AI-driven project management and cross-service automation.",
+  "source_repo": "theapemachine/mcp-server-multi-tools",
+  "source_url": "https://github.com/theapemachine/mcp-server-multi-tools",
+  "install": "# git clone --depth 1 https://github.com/theapemachine/mcp-server-multi-tools\n# See source for mcpServers config block"
+}

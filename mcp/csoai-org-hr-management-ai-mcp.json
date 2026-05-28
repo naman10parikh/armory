@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-hr-management-ai-mcp",
+  "description": "Python MCP server providing HR management automation and workforce tools.",
+  "source_repo": "csoai-org/hr-management-ai-mcp",
+  "source_url": "https://github.com/csoai-org/hr-management-ai-mcp",
+  "install": "npx -y hr-management-ai-mcp"
+}

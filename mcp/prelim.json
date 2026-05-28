@@ -1,0 +1,7 @@
+{
+  "name": "prelim",
+  "description": "Access AI preliminary phone screen results, candidate scores, transcripts, and hiring analytics.",
+  "source_repo": "",
+  "source_url": "https://mcp.prelim.chat/mcp",
+  "install": "# git clone --depth 1 https://mcp.prelim.chat/mcp\n# See source for mcpServers config block"
+}

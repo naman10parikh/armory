@@ -1,0 +1,7 @@
+{
+  "name": "portertech-lm-studio",
+  "description": "Provides remote control over LM Studio model management including loading models with configurable parameters, unloading instances, and retrieving model information.",
+  "source_repo": "portertech/lm-studio-mcp-server",
+  "source_url": "https://github.com/portertech/lm-studio-mcp-server",
+  "install": "npx -y lm-studio-mcp-server"
+}

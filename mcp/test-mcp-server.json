@@ -1,0 +1,7 @@
+{
+  "name": "test-mcp-server",
+  "description": "Test_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "nemono0ne/test_mcp_server",
+  "source_url": "https://mcp.so/server/test_mcp_server/nemono0ne",
+  "install": "npx -y test_mcp_server"
+}

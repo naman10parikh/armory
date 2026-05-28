@@ -1,0 +1,7 @@
+{
+  "name": "aws-2",
+  "description": "aws",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/aws/docs",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/aws/docs\n# See source for mcpServers config block"
+}

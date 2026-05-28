@@ -1,0 +1,7 @@
+{
+  "name": "arpe-io-migratorxpress",
+  "description": "Cross-platform database migration between heterogeneous systems with DDL translation and data transfer.",
+  "source_repo": "arpe-io/migratorxpress-mcp",
+  "source_url": "https://github.com/arpe-io/migratorxpress-mcp",
+  "install": "npx -y migratorxpress-mcp"
+}

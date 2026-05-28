@@ -1,0 +1,7 @@
+{
+  "name": "measure-events",
+  "description": "Privacy-first web analytics with pageviews, referrers, trends, and AI-powered insights.",
+  "source_repo": "turbo-puffin/measure-mcp-server",
+  "source_url": "https://github.com/turbo-puffin/measure-mcp-server",
+  "install": "npx -y measure-mcp-server"
+}

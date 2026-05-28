@@ -1,0 +1,7 @@
+{
+  "name": "popup",
+  "description": "Creates and manages web pages through conversation, supporting text, images, buttons, and media blocks.",
+  "source_repo": "richard-kim-79/popup",
+  "source_url": "https://github.com/richard-kim-79/popup/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/richard-kim-79/popup/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

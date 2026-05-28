@@ -1,0 +1,7 @@
+{
+  "name": "freepik",
+  "description": "Integrates with Freepik's API for searching and downloading icons, managing design resources, and generating images through text-to-image capabilities with job tracking and completion polling.",
+  "source_repo": "freepik-company/freepik-mcp",
+  "source_url": "https://github.com/freepik-company/freepik-mcp",
+  "install": "npx -y freepik-mcp"
+}

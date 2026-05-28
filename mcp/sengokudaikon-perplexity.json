@@ -1,0 +1,7 @@
+{
+  "name": "sengokudaikon-perplexity",
+  "description": "Integrates with Perplexity AI to provide coding assistance and maintain persistent conversations through ask_perplexity for technical solutions and chat_perplexity for context-aware interactions with SQLite-backed history.",
+  "source_repo": "sengokudaikon/mcp-perplexity",
+  "source_url": "https://github.com/sengokudaikon/mcp-perplexity",
+  "install": "# git clone --depth 1 https://github.com/sengokudaikon/mcp-perplexity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentql-mcp",
+  "description": "Agentql Mcp MCP server listed on mcp.so.",
+  "source_repo": "tinyfish-io/agentql-mcp",
+  "source_url": "https://mcp.so/server/agentql-mcp/tinyfish-io",
+  "install": "npx -y agentql-mcp"
+}

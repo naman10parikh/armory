@@ -1,0 +1,7 @@
+{
+  "name": "agentstamp",
+  "description": "Identity certification, public registry, reputation scoring, and x402 micropayments for AI agents built on Base and Solana.",
+  "source_repo": "vinaybhosle/agentstamp",
+  "source_url": "https://github.com/vinaybhosle/agentstamp",
+  "install": "# git clone --depth 1 https://github.com/vinaybhosle/agentstamp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agda-mcp-server",
+  "description": "A stateful Model Context Protocol server for interactive Agda proof development, enabling persistent sessions with goal-aware proof actions.",
+  "source_repo": "InvariantHoldings/agda-mcp-server",
+  "source_url": "https://github.com/InvariantHoldings/agda-mcp-server",
+  "install": "npx -y agda-mcp-server"
+}

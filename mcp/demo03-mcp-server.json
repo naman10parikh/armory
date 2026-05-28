@@ -1,0 +1,7 @@
+{
+  "name": "demo03-mcp-server",
+  "description": "Demo03_mcp Server MCP server listed on mcp.so.",
+  "source_repo": "zhangqiang1003/demo03_mcp-server",
+  "source_url": "https://mcp.so/server/demo03_mcp-server/zhangqiang1003",
+  "install": "npx -y demo03_mcp-server"
+}

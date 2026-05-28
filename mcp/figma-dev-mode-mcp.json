@@ -1,0 +1,7 @@
+{
+  "name": "figma-dev-mode-mcp",
+  "description": "The Dev Mode MCP server brings Figma directly into your workflow by providing important design information and context to AI agents generating code from Figma design files.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/figma-dev-mode.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/figma-dev-mode.json\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-typescript-template",
+  "description": "Mcp Server Typescript Template MCP server listed on mcp.so.",
+  "source_repo": "zubhav/mcp-server-typescript-template",
+  "source_url": "https://mcp.so/server/mcp-server-typescript-template/zubhav",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-typescript-template/zubhav\n# See source for mcpServers config block"
+}

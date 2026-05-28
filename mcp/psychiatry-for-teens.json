@@ -1,0 +1,7 @@
+{
+  "name": "psychiatry-for-teens",
+  "description": "Provides searchable access to clinician-reviewed articles on adolescent psychiatry, medications, and mental health evaluations.",
+  "source_repo": "",
+  "source_url": "https://teenpsychiatry.com",
+  "install": "# git clone --depth 1 https://teenpsychiatry.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tom-semple-apple-notes",
+  "description": "Integrates with Apple Notes to enable listing, searching, creating, and indexing notes using vector and full-text search, leveraging LanceDB and on-device embedding for efficient data management and privacy-preserving information retrieval.",
+  "source_repo": "tom-semple/mcp-apple-notes-fixed",
+  "source_url": "https://github.com/tom-semple/mcp-apple-notes-fixed",
+  "install": "# git clone --depth 1 https://github.com/tom-semple/mcp-apple-notes-fixed\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "outris-identity",
+  "description": "Identity resolution server for phone/email lookups, platform checks, and breach detection across 31+ services with global and India coverage.",
+  "source_repo": "outris-dev-user/outris-identity-mcp",
+  "source_url": "https://github.com/outris-dev-user/outris-identity-mcp",
+  "install": "npx -y outris-identity-mcp"
+}

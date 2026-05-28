@@ -1,0 +1,7 @@
+{
+  "name": "bb-fat-browser-use-rs",
+  "description": "Lightweight browser automation MCP server in Rust with zero dependencies.",
+  "source_repo": "BB-fat/browser-use-rs",
+  "source_url": "https://github.com/BB-fat/browser-use-rs",
+  "install": "# git clone --depth 1 https://github.com/BB-fat/browser-use-rs\n# See source for mcpServers config block"
+}

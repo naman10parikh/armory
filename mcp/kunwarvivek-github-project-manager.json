@@ -1,0 +1,7 @@
+{
+  "name": "kunwarvivek-github-project-manager",
+  "description": "Integrates with GitHub Projects V2 to enable natural language management of project boards, issues, milestones, and sprints.",
+  "source_repo": "kunwarvivek/mcp-github-project-manager",
+  "source_url": "https://github.com/kunwarvivek/mcp-github-project-manager",
+  "install": "# git clone --depth 1 https://github.com/kunwarvivek/mcp-github-project-manager\n# See source for mcpServers config block"
+}

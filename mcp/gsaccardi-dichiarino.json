@@ -1,0 +1,7 @@
+{
+  "name": "gsaccardi-dichiarino",
+  "description": "Assists with compiling the Italian Modello 730 pre-filled annual income tax return.",
+  "source_repo": "gsaccardi/dichiarino-mcp",
+  "source_url": "https://github.com/gsaccardi/dichiarino-mcp",
+  "install": "npx -y dichiarino-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dhasap-android-expert",
+  "description": "Comprehensive Android and Kotlin development toolkit with tools for ADB device control, web scraping, browser automation, emulator management, and VPS deployment.",
+  "source_repo": "dhasap/android-expert-mcp",
+  "source_url": "https://github.com/dhasap/android-expert-mcp",
+  "install": "npx -y android-expert-mcp"
+}

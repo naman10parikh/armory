@@ -1,0 +1,7 @@
+{
+  "name": "rmtech1-txtai-assistant",
+  "description": "Configurable server environment for efficient memory-based operations with customizable settings and flexible limits for scalable applications.",
+  "source_repo": "rmtech1/txtai-assistant-mcp",
+  "source_url": "https://github.com/rmtech1/txtai-assistant-mcp",
+  "install": "npx -y txtai-assistant-mcp"
+}

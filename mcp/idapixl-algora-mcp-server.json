@@ -1,0 +1,7 @@
+{
+  "name": "idapixl-algora-mcp-server",
+  "description": "Browse and search open-source bounties on Algora. 5 tools: list, search, filter by org/tech/amount, get top bounties, aggregate stats. No API key required.",
+  "source_repo": "idapixl/algora-mcp-server",
+  "source_url": "https://github.com/idapixl/algora-mcp-server",
+  "install": "npx -y algora-mcp-server"
+}

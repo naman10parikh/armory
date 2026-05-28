@@ -1,0 +1,7 @@
+{
+  "name": "bharathjinka09-sqlite-memory",
+  "description": "Provides persistent key-value memory storage using SQLite with CRUD operations for storing structured data, conversation history, and user preferences across sessions.",
+  "source_repo": "bharathjinka09/ai-mcp-sql",
+  "source_url": "https://github.com/bharathjinka09/ai-mcp-sql",
+  "install": "# git clone --depth 1 https://github.com/bharathjinka09/ai-mcp-sql\n# See source for mcpServers config block"
+}

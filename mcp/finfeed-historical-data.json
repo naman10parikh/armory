@@ -1,0 +1,7 @@
+{
+  "name": "finfeed-historical-data",
+  "description": "Provides access to historical cryptocurrency market data through CoinAPI's financial data service.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/finfeed-historical-data",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/finfeed-historical-data\n# See source for mcpServers config block"
+}

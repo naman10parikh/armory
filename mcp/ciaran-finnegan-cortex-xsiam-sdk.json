@@ -1,0 +1,7 @@
+{
+  "name": "ciaran-finnegan-cortex-xsiam-sdk",
+  "description": "Integrates with Cortex XSIAM SDK to provide command execution and semantic search over security automation content.",
+  "source_repo": "ciaran-finnegan/cortex-xsiam-sdk-mcp-tools",
+  "source_url": "https://github.com/ciaran-finnegan/cortex-xsiam-sdk-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/ciaran-finnegan/cortex-xsiam-sdk-mcp-tools\n# See source for mcpServers config block"
+}

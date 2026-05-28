@@ -1,0 +1,7 @@
+{
+  "name": "subhatta123-twilize",
+  "description": "Programmatic Tableau workbook (.twb/.twbx) generation — 47 MCP tools for charts, dashboards, calculated fields, dashboard actions, workbook migration, and CSV-to-dashboard pipelines. Install via `uvx twilize`.",
+  "source_repo": "subhatta123/twilize",
+  "source_url": "https://github.com/subhatta123/twilize",
+  "install": "# git clone --depth 1 https://github.com/subhatta123/twilize\n# See source for mcpServers config block"
+}

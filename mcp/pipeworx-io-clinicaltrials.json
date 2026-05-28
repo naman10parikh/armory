@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-clinicaltrials",
+  "description": "Clinical trial data from the ClinicalTrials.gov database via API v2, free with no authentication.",
+  "source_repo": "pipeworx-io/mcp-clinicaltrials",
+  "source_url": "https://github.com/pipeworx-io/mcp-clinicaltrials",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-clinicaltrials\n# See source for mcpServers config block"
+}

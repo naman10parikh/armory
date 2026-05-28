@@ -1,0 +1,7 @@
+{
+  "name": "jeenyjai-desktop-ui-test-utils",
+  "description": "Windows desktop UI automation with screenshots, window management, mouse and keyboard input, UI Automation tree inspection, and OCR for automated testing workflows.",
+  "source_repo": "jeenyjai/mcp-test-utils",
+  "source_url": "https://github.com/jeenyjai/mcp-test-utils",
+  "install": "# git clone --depth 1 https://github.com/jeenyjai/mcp-test-utils\n# See source for mcpServers config block"
+}

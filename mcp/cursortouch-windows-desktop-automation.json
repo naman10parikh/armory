@@ -1,0 +1,7 @@
+{
+  "name": "cursortouch-windows-desktop-automation",
+  "description": "Enables direct Windows desktop automation through native UI element detection, application launching, window management, clipboard operations, and PowerShell execution without requiring computer vision.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/cursortouch-windows-desktop-automation",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/cursortouch-windows-desktop-automation\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "exa",
+  "description": "Query Exa API to retrieve structured search results.",
+  "source_repo": "exa-labs/exa-mcp-server",
+  "source_url": "https://github.com/exa-labs/exa-mcp-server",
+  "install": "npx -y exa-mcp-server"
+}

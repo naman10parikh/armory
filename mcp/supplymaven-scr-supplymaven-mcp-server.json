@@ -1,0 +1,7 @@
+{
+  "name": "supplymaven-scr-supplymaven-mcp-server",
+  "description": "Real-time supply chain risk intelligence for AI agents. 25 tools across 3 tiers: Global Disruption Index, Manufacturing Index, commodity prices, port congestion, border delays, chokepoints, air cargo, trade policy, energy, rail, freight, economic indicators, predictive signals, and AI intelligence briefs.",
+  "source_repo": "SupplyMaven-SCR/supplymaven-mcp-server",
+  "source_url": "https://github.com/SupplyMaven-SCR/supplymaven-mcp-server",
+  "install": "npx -y supplymaven-mcp-server"
+}

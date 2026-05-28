@@ -1,0 +1,7 @@
+{
+  "name": "arc-mcp",
+  "description": "Enables semantic browser automation for the Arc browser, allowing users to perform web tasks like searching, shopping, and data extraction through natural language commands.",
+  "source_repo": "andrewgazelka/arc-mcp",
+  "source_url": "https://github.com/andrewgazelka/arc-mcp",
+  "install": "npx -y arc-mcp"
+}

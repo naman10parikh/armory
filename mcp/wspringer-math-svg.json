@@ -1,0 +1,7 @@
+{
+  "name": "wspringer-math-svg",
+  "description": "Converts LaTeX math expressions to crisp, scalable SVG images using MathJax with support for multiple math fonts.",
+  "source_repo": "wspringer/math-svg-mcp",
+  "source_url": "https://github.com/wspringer/math-svg-mcp",
+  "install": "npx -y math-svg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hiroshic9-png-edition",
+  "description": "MCP server providing AI agents access to a Japanese business intelligence platform with semantic memory, regulatory checking, and keigo analysis.",
+  "source_repo": "hiroshic9-png/edition-api",
+  "source_url": "https://github.com/hiroshic9-png/edition-api",
+  "install": "# git clone --depth 1 https://github.com/hiroshic9-png/edition-api\n# See source for mcpServers config block"
+}

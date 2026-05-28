@@ -1,0 +1,7 @@
+{
+  "name": "curious-layer-cl-firecrawl",
+  "description": "Exposes Firecrawl web scraping and crawling capabilities via MCP with approximately 9 tools.",
+  "source_repo": "asthetech/cl-mcp-firecrawl",
+  "source_url": "https://github.com/asthetech/cl-mcp-firecrawl",
+  "install": "# git clone --depth 1 https://github.com/asthetech/cl-mcp-firecrawl\n# See source for mcpServers config block"
+}

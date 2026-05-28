@@ -1,0 +1,7 @@
+{
+  "name": "wiremcp-network-traffic-analysis",
+  "description": "Empowers network analysis with real-time traffic monitoring capabilities through Wireshark's tshark utility, providing tools for packet capture, protocol statistics, conversation tracking, and threat detection.",
+  "source_repo": "0xkoda/wiremcp",
+  "source_url": "https://github.com/0xkoda/wiremcp",
+  "install": "# git clone --depth 1 https://github.com/0xkoda/wiremcp\n# See source for mcpServers config block"
+}

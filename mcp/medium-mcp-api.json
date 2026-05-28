@@ -1,0 +1,7 @@
+{
+  "name": "medium-mcp-api",
+  "description": "Medium Mcp Api MCP server listed on mcp.so.",
+  "source_repo": "jignesh88/medium-mcp-api",
+  "source_url": "https://mcp.so/server/medium-mcp-api/jignesh88",
+  "install": "# git clone --depth 1 https://mcp.so/server/medium-mcp-api/jignesh88\n# See source for mcpServers config block"
+}

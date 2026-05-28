@@ -1,0 +1,7 @@
+{
+  "name": "aidatanordic-nordic-financial",
+  "description": "Semantic search over Nordic company filings, reports, press releases, and macro indicators for Norway, Sweden, Denmark, and Finland.",
+  "source_repo": "aidatanordic/nordic_financial_mcp",
+  "source_url": "https://github.com/aidatanordic/nordic_financial_mcp",
+  "install": "npx -y nordic_financial_mcp"
+}

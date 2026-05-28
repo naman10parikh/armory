@@ -1,0 +1,7 @@
+{
+  "name": "yetidevworks-yetibrowser",
+  "description": "Provides direct browser control through a Chrome/Firefox extension and WebSocket bridge, enabling real-time web automation, form interactions, DOM snapshots, and screenshot capture on the user's actual browser tab rather than a headless environment.",
+  "source_repo": "yetidevworks/yetibrowser-mcp",
+  "source_url": "https://github.com/yetidevworks/yetibrowser-mcp",
+  "install": "npx -y yetibrowser-mcp"
+}

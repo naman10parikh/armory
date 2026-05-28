@@ -1,0 +1,7 @@
+{
+  "name": "rog0x-seo-tools",
+  "description": "SEO analysis suite for meta tags, heading hierarchy, broken links, keyword density, page speed, and sitemap validation.",
+  "source_repo": "rog0x/mcp-seo-tools",
+  "source_url": "https://github.com/rog0x/mcp-seo-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-seo-tools\n# See source for mcpServers config block"
+}

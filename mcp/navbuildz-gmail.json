@@ -1,0 +1,7 @@
+{
+  "name": "navbuildz-gmail",
+  "description": "MCP server for full Gmail access — reading, searching, archiving, labeling, unsubscribing, and batch processing across multiple accounts.",
+  "source_repo": "navbuildz/gmail-mcp-server",
+  "source_url": "https://github.com/navbuildz/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

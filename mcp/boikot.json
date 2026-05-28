@@ -1,0 +1,7 @@
+{
+  "name": "boikot",
+  "description": "Learn about the ethical and unethical actions of major companies.",
+  "source_repo": "boikot-xyz/boikot",
+  "source_url": "https://github.com/boikot-xyz/boikot",
+  "install": "# git clone --depth 1 https://github.com/boikot-xyz/boikot\n# See source for mcpServers config block"
+}

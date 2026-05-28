@@ -1,0 +1,7 @@
+{
+  "name": "johnnyjoy-pluribus",
+  "description": "Persistent memory control plane for AI agents with Postgres-backed durable storage and situation-shaped recall.",
+  "source_repo": "johnnyjoy/pluribus",
+  "source_url": "https://github.com/johnnyjoy/pluribus",
+  "install": "# git clone --depth 1 https://github.com/johnnyjoy/pluribus\n# See source for mcpServers config block"
+}

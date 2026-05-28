@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mongodb-mysql-server",
+  "description": "Mcp Mongodb Mysql Server MCP server listed on mcp.so.",
+  "source_repo": "yaoxiaolinglong/mcp-mongodb-mysql-server",
+  "source_url": "https://mcp.so/server/mcp-mongodb-mysql-server/yaoxiaolinglong",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-mongodb-mysql-server/yaoxiaolinglong\n# See source for mcpServers config block"
+}

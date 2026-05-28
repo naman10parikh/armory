@@ -1,0 +1,7 @@
+{
+  "name": "komer3-linode",
+  "description": "Provides a bridge to the Linode cloud infrastructure API, enabling developers to query and manage cloud resources through conversational interactions with external tools.",
+  "source_repo": "komer3/linode-mcp",
+  "source_url": "https://github.com/komer3/linode-mcp",
+  "install": "npx -y linode-mcp"
+}

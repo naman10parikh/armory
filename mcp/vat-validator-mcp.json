@@ -1,0 +1,7 @@
+{
+  "name": "vat-validator-mcp",
+  "description": "Validates EU, UK, and Australian VAT numbers against official registries with fraud risk analysis.",
+  "source_repo": "ojaskord/vat-validator-mcp",
+  "source_url": "https://github.com/ojaskord/vat-validator-mcp",
+  "install": "npx -y vat-validator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gaopengbin-cesium-dev-tools",
+  "description": "CesiumJS API documentation lookup, code snippet generation, and Entity configuration building for IDE AI assistants.",
+  "source_repo": "gaopengbin/cesium-mcp",
+  "source_url": "https://github.com/gaopengbin/cesium-mcp/tree/HEAD/packages/cesium-mcp-dev",
+  "install": "npx -y cesium-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ruvnet-claude-flow",
+  "description": "Agent orchestration platform with multi-agent swarms, workflow coordination, and conversational AI systems",
+  "source_repo": "ruvnet/ruflo",
+  "source_url": "https://github.com/ruvnet/ruflo",
+  "install": "# git clone --depth 1 https://github.com/ruvnet/ruflo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "glasstape-policy-builder",
+  "description": "Transforms natural language policy requirements into production-ready Cerbos YAML policies through automated generation, validation, testing, and security analysis with built-in compliance framework support.",
+  "source_repo": "glasstape/agent-policy-builder-mcp",
+  "source_url": "https://github.com/glasstape/agent-policy-builder-mcp",
+  "install": "npx -y agent-policy-builder-mcp"
+}

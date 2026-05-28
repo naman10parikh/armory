@@ -1,0 +1,7 @@
+{
+  "name": "gorse",
+  "description": "Gorse MCP server listed on mcp.so.",
+  "source_repo": "dataontap/gorse",
+  "source_url": "https://mcp.so/server/gorse/dataontap",
+  "install": "# git clone --depth 1 https://mcp.so/server/gorse/dataontap\n# See source for mcpServers config block"
+}

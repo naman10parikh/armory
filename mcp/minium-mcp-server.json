@@ -1,0 +1,7 @@
+{
+  "name": "minium-mcp-server",
+  "description": "Minium Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "roy2an/minium-mcp-server",
+  "source_url": "https://mcp.so/server/minium-mcp-server/roy2an",
+  "install": "npx -y minium-mcp-server"
+}

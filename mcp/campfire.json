@@ -1,0 +1,7 @@
+{
+  "name": "campfire",
+  "description": "Integrates with Campfire ERP to access chart of accounts, transactions, financial reports, and accounting data.",
+  "source_repo": "",
+  "source_url": "https://docs.campfire.ai/guides/ai-integration",
+  "install": "# git clone --depth 1 https://docs.campfire.ai/guides/ai-integration\n# See source for mcpServers config block"
+}

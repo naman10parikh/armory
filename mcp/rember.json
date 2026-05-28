@@ -1,0 +1,7 @@
+{
+  "name": "rember",
+  "description": "Create flashcards and study/remember anything you care about with spaced repetition reviews on Rember.",
+  "source_repo": "rember/rember-mcp",
+  "source_url": "https://github.com/rember/rember-mcp",
+  "install": "npx -y rember-mcp"
+}

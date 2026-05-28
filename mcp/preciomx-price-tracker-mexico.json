@@ -1,0 +1,7 @@
+{
+  "name": "preciomx-price-tracker-mexico",
+  "description": "Rastreador de precios para Mercado Libre Mexico. 120K+ productos con historial de precios, Deal Score, tendencias y recomendaciones de compra en tiempo real. El unico MCP de comparacion de precios en Latinoamerica.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/ing-christopherleon/preciomx",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/ing-christopherleon/preciomx\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kawai-network-docker-gateway",
+  "description": "Docker CLI plugin for discovering, deploying, and managing MCP servers as containers with credential management and multi-client support.",
+  "source_repo": "kawai-network/mcp-gateway",
+  "source_url": "https://github.com/kawai-network/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/kawai-network/mcp-gateway\n# See source for mcpServers config block"
+}

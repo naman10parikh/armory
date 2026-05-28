@@ -1,0 +1,7 @@
+{
+  "name": "mir1198yusuf-pg",
+  "description": "Minimal local MCP server providing Claude Code with read-only PostgreSQL database access over HTTP transport.",
+  "source_repo": "mir1198yusuf/pg-mcp",
+  "source_url": "https://github.com/mir1198yusuf/pg-mcp",
+  "install": "npx -y pg-mcp"
+}

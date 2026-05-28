@@ -1,0 +1,7 @@
+{
+  "name": "hkopenai-hk-creative-goods-trade",
+  "description": "Provides access to Hong Kong's creative goods trade statistics from the Culture, Sports and Tourism Bureau, enabling analysis of domestic exports, re-exports, and imports across eight creative industry categories with optional year-range filtering and data cleaning.",
+  "source_repo": "hkopenai/hk-recreation-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-recreation-mcp-server",
+  "install": "npx -y hk-recreation-mcp-server"
+}

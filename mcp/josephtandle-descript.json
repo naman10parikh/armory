@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-descript",
+  "description": "Controls Descript for audio and video transcription, editing, and AI voice generation.",
+  "source_repo": "josephtandle/descript-complete",
+  "source_url": "https://github.com/josephtandle/descript-complete",
+  "install": "# git clone --depth 1 https://github.com/josephtandle/descript-complete\n# See source for mcpServers config block"
+}

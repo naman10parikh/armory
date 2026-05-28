@@ -1,0 +1,7 @@
+{
+  "name": "run-as-root-warden-magento",
+  "description": "Integrates with Warden and Magento 2 development environments to automate Docker-based workflows including project lifecycle management, database operations, PHP script execution, Magento CLI commands, PHPUnit testing, and Composer package management with customizable stack configurations.",
+  "source_repo": "run-as-root/warden-mcp-server",
+  "source_url": "https://github.com/run-as-root/warden-mcp-server",
+  "install": "npx -y warden-mcp-server"
+}

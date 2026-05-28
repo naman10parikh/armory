@@ -1,0 +1,7 @@
+{
+  "name": "spences10-duckduckgo-search",
+  "description": "Integrates DuckDuckGo search capabilities with customizable parameters for web-based information retrieval.",
+  "source_repo": "spences10/mcp-duckduckgo-search",
+  "source_url": "https://github.com/spences10/mcp-duckduckgo-search",
+  "install": "# git clone --depth 1 https://github.com/spences10/mcp-duckduckgo-search\n# See source for mcpServers config block"
+}

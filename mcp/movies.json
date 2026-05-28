@@ -1,0 +1,7 @@
+{
+  "name": "movies",
+  "description": "Searches movies and TV shows via iTunes and TVmaze APIs, returning details, episode listings, and air schedules.",
+  "source_repo": "pipeworx-io/mcp-movies",
+  "source_url": "https://github.com/pipeworx-io/mcp-movies",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-movies\n# See source for mcpServers config block"
+}

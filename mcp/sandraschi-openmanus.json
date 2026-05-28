@@ -1,0 +1,7 @@
+{
+  "name": "sandraschi-openmanus",
+  "description": "Bridges OpenManus AI agent framework with editor workflows, providing prompt execution, job polling, a web dashboard, and local LLM chat integration.",
+  "source_repo": "sandraschi/openmanus-mcp",
+  "source_url": "https://github.com/sandraschi/openmanus-mcp",
+  "install": "npx -y openmanus-mcp"
+}

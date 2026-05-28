@@ -1,0 +1,7 @@
+{
+  "name": "canopyhq-phloem",
+  "description": "Local-first AI memory with causal graphs and citation verification. Semantic search, confidence decay when code drifts, and zero network connections. Works across Claude Code, Cursor, VS Code, and 7 more MCP clients.",
+  "source_repo": "CanopyHQ/phloem",
+  "source_url": "https://github.com/CanopyHQ/phloem",
+  "install": "# git clone --depth 1 https://github.com/CanopyHQ/phloem\n# See source for mcpServers config block"
+}

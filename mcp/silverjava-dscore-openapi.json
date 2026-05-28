@@ -1,0 +1,7 @@
+{
+  "name": "silverjava-dscore-openapi",
+  "description": "Integrates with DS Core Open API healthcare system to provide search and retrieval of patient records, DICOM studies, digital impressions, and clinical documents with pagination, filtering, and comprehensive medical data access.",
+  "source_repo": "silverjava/dscore-openapi-mcp",
+  "source_url": "https://github.com/silverjava/dscore-openapi-mcp",
+  "install": "npx -y dscore-openapi-mcp"
+}

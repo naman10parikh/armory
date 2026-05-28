@@ -1,0 +1,7 @@
+{
+  "name": "ahujasid-ableton-live",
+  "description": "Enables control of Ableton Live music production software through a bidirectional communication system that supports track creation, MIDI editing, playback control, instrument loading, and library browsing for music composition and sound design workflows.",
+  "source_repo": "ahujasid/ableton-mcp",
+  "source_url": "https://github.com/ahujasid/ableton-mcp",
+  "install": "npx -y ableton-mcp"
+}

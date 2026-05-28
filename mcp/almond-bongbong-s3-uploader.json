@@ -1,0 +1,7 @@
+{
+  "name": "almond-bongbong-s3-uploader",
+  "description": "Uploads images to Amazon S3 from local files or macOS clipboard and generates presigned URLs for sharing.",
+  "source_repo": "almond-bongbong/mcp-s3-uploader",
+  "source_url": "https://github.com/almond-bongbong/mcp-s3-uploader",
+  "install": "# git clone --depth 1 https://github.com/almond-bongbong/mcp-s3-uploader\n# See source for mcpServers config block"
+}

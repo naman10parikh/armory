@@ -1,0 +1,7 @@
+{
+  "name": "v-3-discord",
+  "description": "Integrates with the Discord API to enable direct interaction with channels, supporting automated messaging and conversation management within servers.",
+  "source_repo": "v-3/discordmcp",
+  "source_url": "https://github.com/v-3/discordmcp",
+  "install": "# git clone --depth 1 https://github.com/v-3/discordmcp\n# See source for mcpServers config block"
+}

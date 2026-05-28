@@ -1,0 +1,7 @@
+{
+  "name": "rustsandbox-gmail",
+  "description": "Provides a clean interface for accessing Gmail emails through OAuth2 authentication, automatically handling authentication flows and processing HTML content into plain text for better readability.",
+  "source_repo": "rustsandbox/gmail_mcp",
+  "source_url": "https://github.com/rustsandbox/gmail_mcp",
+  "install": "npx -y gmail_mcp"
+}

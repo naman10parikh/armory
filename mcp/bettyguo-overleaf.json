@@ -1,0 +1,7 @@
+{
+  "name": "bettyguo-overleaf",
+  "description": "MCP server for finishing academic LaTeX papers with venue compliance checks, bibliography validation, and latexdiff generation for NeurIPS, ICML, ICLR, ACL, and CVPR.",
+  "source_repo": "bettyguo/mcp-overleaf",
+  "source_url": "https://github.com/bettyguo/mcp-overleaf",
+  "install": "# git clone --depth 1 https://github.com/bettyguo/mcp-overleaf\n# See source for mcpServers config block"
+}

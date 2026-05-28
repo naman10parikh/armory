@@ -1,0 +1,7 @@
+{
+  "name": "apridachin-kagi-search",
+  "description": "Integrates Kagi search API to provide web search, news retrieval, and fast GPT-powered question answering for up-to-date information access and content enrichment.",
+  "source_repo": "apridachin/kagi-search-mcp",
+  "source_url": "https://github.com/apridachin/kagi-search-mcp",
+  "install": "npx -y kagi-search-mcp"
+}

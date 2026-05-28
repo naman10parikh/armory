@@ -1,0 +1,7 @@
+{
+  "name": "kairosmobius-nexus-memory-mcp",
+  "description": "Persistent semantic memory for AI agents with knowledge graphs.",
+  "source_repo": "kairosmobius/nexus-memory-mcp",
+  "source_url": "https://github.com/kairosmobius/nexus-memory-mcp",
+  "install": "npx -y nexus-memory-mcp"
+}

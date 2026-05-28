@@ -1,0 +1,7 @@
+{
+  "name": "krutarthchovatiya-indian-stock-market",
+  "description": "Provides NSE and BSE stock data including price lookups, company search, and batch queries",
+  "source_repo": "krutarthchovatiya/mcp-server-indian-stock-market",
+  "source_url": "https://github.com/krutarthchovatiya/mcp-server-indian-stock-market",
+  "install": "# git clone --depth 1 https://github.com/krutarthchovatiya/mcp-server-indian-stock-market\n# See source for mcpServers config block"
+}

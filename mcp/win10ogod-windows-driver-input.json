@@ -1,0 +1,7 @@
+{
+  "name": "win10ogod-windows-driver-input",
+  "description": "Driver-level keyboard and mouse automation bypassing standard Windows APIs for games and protected applications",
+  "source_repo": "win10ogod/windows-driver-input-mcp",
+  "source_url": "https://github.com/win10ogod/windows-driver-input-mcp",
+  "install": "npx -y windows-driver-input-mcp"
+}

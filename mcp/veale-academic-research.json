@@ -1,0 +1,7 @@
+{
+  "name": "veale-academic-research",
+  "description": "Searches and retrieves academic papers across Zotero, Semantic Scholar, OpenAlex, and institutional catalogs with full-text extraction and semantic search.",
+  "source_repo": "veale/academic-mcp",
+  "source_url": "https://github.com/veale/academic-mcp",
+  "install": "npx -y academic-mcp"
+}

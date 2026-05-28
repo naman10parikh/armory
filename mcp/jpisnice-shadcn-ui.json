@@ -1,0 +1,7 @@
+{
+  "name": "jpisnice-shadcn-ui",
+  "description": "Provides direct access to shadcn/ui v4 components, blocks, and demos through GitHub API integration with automatic framework detection for React, Svelte, and Vue, enabling rapid UI development with component source code, installation scripts, and complete block implementations.",
+  "source_repo": "jpisnice/shadcn-ui-mcp-server",
+  "source_url": "https://github.com/jpisnice/shadcn-ui-mcp-server",
+  "install": "npx -y shadcn-ui-mcp-server"
+}

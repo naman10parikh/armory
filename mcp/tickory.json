@@ -1,0 +1,7 @@
+{
+  "name": "tickory",
+  "description": "Creates and manages Binance crypto scanner rules, runs scans on schedule, reads alert events, and explains why alerts triggered or were suppressed.",
+  "source_repo": "tickory/tickory-mcp",
+  "source_url": "https://github.com/tickory/tickory-mcp",
+  "install": "npx -y tickory-mcp"
+}

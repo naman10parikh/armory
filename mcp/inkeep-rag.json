@@ -1,0 +1,7 @@
+{
+  "name": "inkeep-rag",
+  "description": "Enables Claude to search and retrieve relevant documentation through Inkeep's RAG API, returning structured citation data for technical support and knowledge-based interactions.",
+  "source_repo": "inkeep/mcp-server-python",
+  "source_url": "https://github.com/inkeep/mcp-server-python",
+  "install": "# git clone --depth 1 https://github.com/inkeep/mcp-server-python\n# See source for mcpServers config block"
+}

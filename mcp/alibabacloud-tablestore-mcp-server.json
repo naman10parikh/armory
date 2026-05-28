@@ -1,0 +1,7 @@
+{
+  "name": "alibabacloud-tablestore-mcp-server",
+  "description": "Alibabacloud Tablestore Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aliyun/alibabacloud-tablestore-mcp-server",
+  "source_url": "https://mcp.so/server/alibabacloud-tablestore-mcp-server/aliyun",
+  "install": "npx -y alibabacloud-tablestore-mcp-server"
+}

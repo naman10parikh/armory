@@ -1,0 +1,7 @@
+{
+  "name": "fgforrest-java-debugger",
+  "description": "Gives AI agents full Java debugger control via JDWP with 40 tools for breakpoints, expression evaluation, and value mutation.",
+  "source_repo": "fgforrest/mcp-jdwp-java",
+  "source_url": "https://github.com/fgforrest/mcp-jdwp-java",
+  "install": "# git clone --depth 1 https://github.com/fgforrest/mcp-jdwp-java\n# See source for mcpServers config block"
+}

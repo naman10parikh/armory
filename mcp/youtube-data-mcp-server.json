@@ -1,0 +1,7 @@
+{
+  "name": "youtube-data-mcp-server",
+  "description": "Youtube Data Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "icraft2170/youtube-data-mcp-server",
+  "source_url": "https://mcp.so/server/youtube-data-mcp-server/icraft2170",
+  "install": "npx -y youtube-data-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blaide-cookwith",
+  "description": "Recipe generation and transformation tools powered by Cookwith's culinary AI",
+  "source_repo": "valetdotdev/cookwith-mcp",
+  "source_url": "https://github.com/valetdotdev/cookwith-mcp",
+  "install": "npx -y cookwith-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iceener-files-stdio",
+  "description": "Sandboxed file system access with pattern matching, checksum verification, and Obsidian/Markdown workflow support",
+  "source_repo": "iceener/files-stdio-mcp-server",
+  "source_url": "https://github.com/iceener/files-stdio-mcp-server",
+  "install": "npx -y files-stdio-mcp-server"
+}

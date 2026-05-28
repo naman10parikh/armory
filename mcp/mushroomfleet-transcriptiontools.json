@@ -1,0 +1,7 @@
+{
+  "name": "mushroomfleet-transcriptiontools",
+  "description": "Processes and enhances transcribed text through error correction, natural formatting of timestamped content, and intelligent summarization using ACE cognitive methodology",
+  "source_repo": "mushroomfleet/transcriptiontools-mcp",
+  "source_url": "https://github.com/mushroomfleet/transcriptiontools-mcp",
+  "install": "npx -y transcriptiontools-mcp"
+}

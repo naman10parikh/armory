@@ -1,0 +1,7 @@
+{
+  "name": "hasdata",
+  "description": "Web scraping and data extraction with 40+ tools covering Google Search, Maps, Amazon, Zillow, Airbnb, Indeed, and other structured data sources.",
+  "source_repo": "hasdata/hasdata-mcp",
+  "source_url": "https://github.com/hasdata/hasdata-mcp",
+  "install": "npx -y hasdata-mcp"
+}

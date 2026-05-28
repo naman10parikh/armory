@@ -1,0 +1,7 @@
+{
+  "name": "fengfangwen-guardian",
+  "description": "MCP safety middleware for Claude Code that validates file operations and bash commands with circuit-breaker protection against retry loops.",
+  "source_repo": "fengfangwen061026/mcp-guardian",
+  "source_url": "https://github.com/fengfangwen061026/mcp-guardian",
+  "install": "# git clone --depth 1 https://github.com/fengfangwen061026/mcp-guardian\n# See source for mcpServers config block"
+}

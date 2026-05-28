@@ -1,0 +1,7 @@
+{
+  "name": "startupbros-renpho",
+  "description": "Connects to Renpho smart scales to retrieve body composition data including weight, BMI, body fat percentage, muscle mass, and water content with intelligent caching and trend analysis for fitness tracking and health monitoring.",
+  "source_repo": "startupbros/renpho-mcp-server",
+  "source_url": "https://github.com/startupbros/renpho-mcp-server",
+  "install": "npx -y renpho-mcp-server"
+}

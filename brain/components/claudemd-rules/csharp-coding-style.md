@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [csharp-hooks, csharp-patterns]
-tags: [ecc, rules, csharp]
+tags: [rules, csharp]
 ---
 ## What it is
 csharp rule: apply when working on csharp and you need C# Coding Style.

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gpu-server",
+  "description": "Exposes NVIDIA GPU metrics (info, utilization, VRAM, temperature) via MCP tools for real-time querying from AI assistants.",
+  "source_repo": "mesutoezdil/mcp-gpu-server",
+  "source_url": "https://github.com/mesutoezdil/mcp-gpu-server",
+  "install": "# git clone --depth 1 https://github.com/mesutoezdil/mcp-gpu-server\n# See source for mcpServers config block"
+}

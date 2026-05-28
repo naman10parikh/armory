@@ -1,0 +1,7 @@
+{
+  "name": "darkhorseone-uk-parliament-members",
+  "description": "Accesses UK Parliament Members API for member profiles, constituencies, parties, and voting records.",
+  "source_repo": "darkhorseone/mcp-servers",
+  "source_url": "https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-members",
+  "install": "# git clone --depth 1 https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-members\n# See source for mcpServers config block"
+}

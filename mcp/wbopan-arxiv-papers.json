@@ -1,0 +1,7 @@
+{
+  "name": "wbopan-arxiv-papers",
+  "description": "Searches arXiv papers by title, author, or query terms and extracts full paper content as structured Markdown with proper handling of mathematical equations, figures, tables, citations, and references.",
+  "source_repo": "wbopan/papers-mcp",
+  "source_url": "https://github.com/wbopan/papers-mcp",
+  "install": "npx -y papers-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boristopalov-spotify",
+  "description": "Integrates with Spotify's API to control music playback, search for content, get detailed information, and manage queues directly within conversations.",
+  "source_repo": "boristopalov/spotify-mcp",
+  "source_url": "https://github.com/boristopalov/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

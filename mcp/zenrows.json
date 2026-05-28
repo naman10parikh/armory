@@ -1,0 +1,7 @@
+{
+  "name": "zenrows",
+  "description": "Scrapes any webpage through the ZenRows Universal Scraper API, including JavaScript-rendered content and anti-bot protected sites.",
+  "source_repo": "zenrows/zenrows-mcp",
+  "source_url": "https://github.com/zenrows/zenrows-mcp",
+  "install": "npx -y zenrows-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "immostage",
+  "description": "AI-powered virtual staging for real estate, transforming empty room photos into furnished spaces with style recommendations and listing optimization.",
+  "source_repo": "larrywalkerdev/mcp-immostage",
+  "source_url": "https://github.com/larrywalkerdev/mcp-immostage",
+  "install": "# git clone --depth 1 https://github.com/larrywalkerdev/mcp-immostage\n# See source for mcpServers config block"
+}

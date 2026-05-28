@@ -1,0 +1,7 @@
+{
+  "name": "mitre-att-ck-mcp-server",
+  "description": "Enables AI-native access to the MITRE ATT\\&CK framework, allowing LLMs and agents to query techniques, threat groups, software, and generate ATT\\&CK Navigator layers for threat intelligence and security workflows.",
+  "source_repo": "imouiche/complete-mitre-attack-mcp-server",
+  "source_url": "https://github.com/imouiche/complete-mitre-attack-mcp-server",
+  "install": "npx -y complete-mitre-attack-mcp-server"
+}

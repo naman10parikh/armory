@@ -1,0 +1,7 @@
+{
+  "name": "shadowgit",
+  "description": "Provides secure, read-only access to ShadowGit repositories with git operations like log, diff, blame, and grep to analyze fine-grained commit history and trace code evolution for debugging workflows.",
+  "source_repo": "aflsolutions/shadowgit-mcp",
+  "source_url": "https://github.com/aflsolutions/shadowgit-mcp",
+  "install": "npx -y shadowgit-mcp"
+}

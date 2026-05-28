@@ -1,0 +1,7 @@
+{
+  "name": "gh-rahuljava2807-claude-code-bridge",
+  "description": "Bridges Claude Code sessions with Claude Chat by providing session log access and synchronization.",
+  "source_repo": "rahuljava2807/claude-code-bridge-mcp",
+  "source_url": "https://github.com/rahuljava2807/claude-code-bridge-mcp",
+  "install": "npx -y claude-code-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chihebnabil-page-design-guide",
+  "description": "Provides comprehensive web design guidance including layout patterns, color psychology, typography hierarchy, responsive design strategies, and accessibility standards to help generate modern, visually appealing web pages.",
+  "source_repo": "chihebnabil/page-design-guide-mcp",
+  "source_url": "https://github.com/chihebnabil/page-design-guide-mcp",
+  "install": "npx -y page-design-guide-mcp"
+}

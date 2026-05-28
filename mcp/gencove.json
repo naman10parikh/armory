@@ -1,0 +1,7 @@
+{
+  "name": "gencove",
+  "description": "Genomics MCP enabling AI agents to interact with Gencove's genetic testing and health insights platform.",
+  "source_repo": "",
+  "source_url": "https://gencove.com",
+  "install": "# git clone --depth 1 https://gencove.com\n# See source for mcpServers config block"
+}

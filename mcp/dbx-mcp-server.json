@@ -1,0 +1,7 @@
+{
+  "name": "dbx-mcp-server",
+  "description": "Dbx Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Albiemark/dbx-mcp-server",
+  "source_url": "https://mcp.so/server/dbx-mcp-server/Albiemark",
+  "install": "npx -y dbx-mcp-server"
+}

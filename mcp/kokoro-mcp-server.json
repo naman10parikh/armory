@@ -1,0 +1,7 @@
+{
+  "name": "kokoro-mcp-server",
+  "description": "Provides text-to-speech generation using the Kokoro-82M model, enabling AI assistants to generate voiceovers and audio content directly within Claude Desktop and Cursor.",
+  "source_repo": "aparsoft/kokoro-mcp-server",
+  "source_url": "https://github.com/aparsoft/kokoro-mcp-server",
+  "install": "npx -y kokoro-mcp-server"
+}

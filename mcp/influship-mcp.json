@@ -1,0 +1,7 @@
+{
+  "name": "influship-mcp",
+  "description": "Enables AI-native creator discovery for influencer marketing, including creator search, lookalikes, profile lookup, and Instagram post transcript analysis.",
+  "source_repo": "Influship/influship-mcp",
+  "source_url": "https://github.com/Influship/influship-mcp",
+  "install": "npx -y influship-mcp"
+}

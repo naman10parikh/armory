@@ -1,0 +1,7 @@
+{
+  "name": "ascript",
+  "description": "Android, iOS, and Windows device automation with 23 tools for screen capture, OCR, UI inspection, and project deployment via the AScript platform.",
+  "source_repo": "ascript-cn/ascript-mcp",
+  "source_url": "https://github.com/ascript-cn/ascript-mcp",
+  "install": "npx -y ascript-mcp"
+}

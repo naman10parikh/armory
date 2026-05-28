@@ -1,0 +1,7 @@
+{
+  "name": "overleaf-mcp",
+  "description": "Enables editing Overleaf projects from Claude, with tools to list, read, edit, and sync files via Git.",
+  "source_repo": "amcheste/overleaf-mcp",
+  "source_url": "https://github.com/amcheste/overleaf-mcp",
+  "install": "npx -y overleaf-mcp"
+}

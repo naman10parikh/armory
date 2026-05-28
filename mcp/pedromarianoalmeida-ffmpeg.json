@@ -1,0 +1,7 @@
+{
+  "name": "pedromarianoalmeida-ffmpeg",
+  "description": "Video/audio tools for cutting, converting, concatenating, removing silence, and executing custom commands.",
+  "source_repo": "pedromarianoalmeida/ffmpeg-mcp",
+  "source_url": "https://github.com/pedromarianoalmeida/ffmpeg-mcp",
+  "install": "npx -y ffmpeg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tibet-phantom-mcp",
+  "description": "MCP server for Phantom Resume that enables cross-device AI session portability with TIBET provenance, allowing users to seal an AI session on one device and resume it on another.",
+  "source_repo": "Humotica/tibet-phantom-mcp",
+  "source_url": "https://github.com/Humotica/tibet-phantom-mcp",
+  "install": "npx -y tibet-phantom-mcp"
+}

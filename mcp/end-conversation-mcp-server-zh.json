@@ -1,0 +1,7 @@
+{
+  "name": "end-conversation-mcp-server-zh",
+  "description": "A stateless MCP server that provides an end_conversation tool for AI to leave a timestamped visible record when it wants to signal a desire to end the conversation, under user control.",
+  "source_repo": "Sumvia/end-conversation-mcp-server-zh",
+  "source_url": "https://github.com/Sumvia/end-conversation-mcp-server-zh",
+  "install": "# git clone --depth 1 https://github.com/Sumvia/end-conversation-mcp-server-zh\n# See source for mcpServers config block"
+}

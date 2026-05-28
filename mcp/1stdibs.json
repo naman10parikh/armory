@@ -1,0 +1,7 @@
+{
+  "name": "1stdibs",
+  "description": "Browse and search luxury design items on 1stDibs marketplace",
+  "source_repo": "",
+  "source_url": "https://www.1stdibs.com",
+  "install": "# git clone --depth 1 https://www.1stdibs.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "newaiteesollama",
+  "description": "Bridges AI assistants with locally-hosted Ollama models for complex reasoning tasks, providing tools for task decomposition and result evaluation without relying on cloud services.",
+  "source_repo": "newaitees/ollama-mcp-server",
+  "source_url": "https://github.com/newaitees/ollama-mcp-server",
+  "install": "npx -y ollama-mcp-server"
+}

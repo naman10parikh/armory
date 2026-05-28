@@ -1,0 +1,7 @@
+{
+  "name": "kallows-bitbucket",
+  "description": "Enables robust Bitbucket repository management by providing comprehensive API integration for repository creation, file manipulation, issue tracking, and branch management with advanced error handling and permission controls.",
+  "source_repo": "kallows/mcp-bitbucket",
+  "source_url": "https://github.com/kallows/mcp-bitbucket",
+  "install": "# git clone --depth 1 https://github.com/kallows/mcp-bitbucket\n# See source for mcpServers config block"
+}

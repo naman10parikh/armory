@@ -1,0 +1,7 @@
+{
+  "name": "oxc-ast",
+  "description": "Provides direct access to the OXC JavaScript/TypeScript parser for parsing code into ASTs, validating syntax and semantics, and exploring AST node documentation with regex filtering.",
+  "source_repo": "leaysgur/oxc-ast-mcp",
+  "source_url": "https://github.com/leaysgur/oxc-ast-mcp",
+  "install": "npx -y oxc-ast-mcp"
+}

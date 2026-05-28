@@ -1,0 +1,7 @@
+{
+  "name": "zcaceres-fetch",
+  "description": "Fetches and transforms web content into various formats.",
+  "source_repo": "zcaceres/fetch-mcp",
+  "source_url": "https://github.com/zcaceres/fetch-mcp",
+  "install": "npx -y fetch-mcp"
+}

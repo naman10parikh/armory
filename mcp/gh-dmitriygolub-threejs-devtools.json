@@ -1,0 +1,7 @@
+{
+  "name": "gh-dmitriygolub-threejs-devtools",
+  "description": "Inspects and modifies Three.js scenes in real time with 47 tools.",
+  "source_repo": "dmitriygolub/threejs-devtools-mcp",
+  "source_url": "https://github.com/dmitriygolub/threejs-devtools-mcp",
+  "install": "npx -y threejs-devtools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "localseodata",
+  "description": "AI assistant access to 42 local SEO tools including SERP tracking, review monitoring, and keyword research.",
+  "source_repo": "localseodata/mcp-server",
+  "source_url": "https://github.com/localseodata/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/localseodata/mcp-server\n# See source for mcpServers config block"
+}

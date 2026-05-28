@@ -1,0 +1,7 @@
+{
+  "name": "themohal-kognitrix",
+  "description": "Suite of hosted services for content generation, code, images, data extraction, translation, and SEO.",
+  "source_repo": "",
+  "source_url": "https://kognitrix.com",
+  "install": "# git clone --depth 1 https://kognitrix.com\n# See source for mcpServers config block"
+}

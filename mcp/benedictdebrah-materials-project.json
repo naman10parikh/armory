@@ -1,0 +1,7 @@
+{
+  "name": "benedictdebrah-materials-project",
+  "description": "Provides direct access to the Materials Project database for querying crystal structures, electronic properties, phonon data, magnetic properties, and thermodynamic stability through 23 specialized tools designed for materials science research.",
+  "source_repo": "benedictdebrah/materials-project-mcp",
+  "source_url": "https://github.com/benedictdebrah/materials-project-mcp",
+  "install": "npx -y materials-project-mcp"
+}

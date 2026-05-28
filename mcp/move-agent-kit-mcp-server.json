@@ -1,0 +1,7 @@
+{
+  "name": "move-agent-kit-mcp-server",
+  "description": "Move Agent Kit Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Nishu0/move-agent-kit-mcp-server",
+  "source_url": "https://mcp.so/server/move-agent-kit-mcp-server/Nishu0",
+  "install": "npx -y move-agent-kit-mcp-server"
+}

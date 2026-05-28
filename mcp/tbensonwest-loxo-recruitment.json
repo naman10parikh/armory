@@ -1,0 +1,7 @@
+{
+  "name": "tbensonwest-loxo-recruitment",
+  "description": "Integrates with Loxo's recruitment platform API to streamline hiring processes through automated candidate tracking, job matching, and task management.",
+  "source_repo": "tbensonwest/loxo-mcp-server",
+  "source_url": "https://github.com/tbensonwest/loxo-mcp-server",
+  "install": "npx -y loxo-mcp-server"
+}

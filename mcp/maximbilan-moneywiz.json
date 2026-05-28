@@ -1,0 +1,7 @@
+{
+  "name": "maximbilan-moneywiz",
+  "description": "Integrates with MoneyWiz personal finance data through SQLite database exports to provide account management, transaction analysis, spending trend insights, savings recommendations, and net worth calculations for budgeting and financial planning workflows.",
+  "source_repo": "maximbilan/moneywiz-mcp",
+  "source_url": "https://github.com/maximbilan/moneywiz-mcp",
+  "install": "npx -y moneywiz-mcp"
+}

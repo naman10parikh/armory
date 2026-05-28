@@ -1,0 +1,7 @@
+{
+  "name": "aws-safe-mcp",
+  "description": "A read-only MCP server for safe, structured investigation of AWS serverless resources, providing curated tools for tracing dependencies, permissions, and failures without exposing raw SDK access.",
+  "source_repo": "harryhazza77/aws-safe-mcp",
+  "source_url": "https://github.com/harryhazza77/aws-safe-mcp",
+  "install": "npx -y aws-safe-mcp"
+}

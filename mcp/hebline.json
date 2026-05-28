@@ -1,0 +1,7 @@
+{
+  "name": "hebline",
+  "description": "Intelligent API routing for AI agents selecting the best service, price, and free alternatives.",
+  "source_repo": "hebline/mcp-server",
+  "source_url": "https://github.com/hebline/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/hebline/mcp-server\n# See source for mcpServers config block"
+}

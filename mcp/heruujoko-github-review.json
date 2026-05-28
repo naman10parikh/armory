@@ -1,0 +1,7 @@
+{
+  "name": "heruujoko-github-review",
+  "description": "Integrates with GitHub's API to enable pull request analysis, code review operations, file change tracking, commit history retrieval, and automated review comment posting for development team collaboration workflows.",
+  "source_repo": "heruujoko/github-review-mcp",
+  "source_url": "https://github.com/heruujoko/github-review-mcp",
+  "install": "npx -y github-review-mcp"
+}

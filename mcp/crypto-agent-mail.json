@@ -1,0 +1,7 @@
+{
+  "name": "crypto-agent-mail",
+  "description": "Hosted email service for AI agents with inboxes, send and receive, memory, and credit-based billing.",
+  "source_repo": "influqa/crypto-agent-mail-skills",
+  "source_url": "https://github.com/influqa/crypto-agent-mail-skills",
+  "install": "# git clone --depth 1 https://github.com/influqa/crypto-agent-mail-skills\n# See source for mcpServers config block"
+}

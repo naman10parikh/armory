@@ -1,0 +1,7 @@
+{
+  "name": "nick-wati-lead-qualifier",
+  "description": "Automates sales lead qualification by extracting and scoring prospect information from conversations and seamlessly syncing qualified leads to CRM systems",
+  "source_repo": "nick-wati/lead-qualifier-mcp",
+  "source_url": "https://github.com/nick-wati/lead-qualifier-mcp",
+  "install": "npx -y lead-qualifier-mcp"
+}

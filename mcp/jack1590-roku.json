@@ -1,0 +1,7 @@
+{
+  "name": "jack1590-roku",
+  "description": "Automates Roku devices through app deployment, remote control commands, screenshot capture, SceneGraph inspection, and debug console access.",
+  "source_repo": "jack1590/rokumcp",
+  "source_url": "https://github.com/jack1590/rokumcp",
+  "install": "# git clone --depth 1 https://github.com/jack1590/rokumcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pathcourse-health",
+  "description": "MCP server integrating PathCourse Health services for LLM inference, USDC-based agent payments, and agent identity lookup.",
+  "source_repo": "pathcourse-health/pch-mcp-server",
+  "source_url": "https://github.com/pathcourse-health/pch-mcp-server",
+  "install": "npx -y pch-mcp-server"
+}

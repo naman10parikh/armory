@@ -1,0 +1,7 @@
+{
+  "name": "everyrow",
+  "description": "AI-powered dataframe ops: transform, dedupe, merge, rank, and screen with natural language",
+  "source_repo": "futuresearch/futuresearch-python",
+  "source_url": "https://github.com/futuresearch/futuresearch-python/tree/HEAD/everyrow-mcp",
+  "install": "# git clone --depth 1 https://github.com/futuresearch/futuresearch-python/tree/HEAD/everyrow-mcp\n# See source for mcpServers config block"
+}

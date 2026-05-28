@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp-2",
+  "description": "Connects Blender to Claude AI through the Model Context Protocol, enabling prompt-assisted 3D modeling, scene creation, and manipulation.",
+  "source_repo": "silwings1986/blender-mcp",
+  "source_url": "https://github.com/silwings1986/blender-mcp",
+  "install": "npx -y blender-mcp"
+}

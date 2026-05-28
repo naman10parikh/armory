@@ -1,0 +1,7 @@
+{
+  "name": "mcp-prose-memory",
+  "description": "Persistent memory server for MCP clients that stores structured facts as JSON across sessions, enabling atomic add, remove, replace, and view operations.",
+  "source_repo": "gabrimatic/mcp-prose-memory",
+  "source_url": "https://github.com/gabrimatic/mcp-prose-memory",
+  "install": "# git clone --depth 1 https://github.com/gabrimatic/mcp-prose-memory\n# See source for mcpServers config block"
+}

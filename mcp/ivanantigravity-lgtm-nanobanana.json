@@ -1,0 +1,7 @@
+{
+  "name": "ivanantigravity-lgtm-nanobanana",
+  "description": "Connects to Polza AI media and storage APIs for managing digital assets through AI agents.",
+  "source_repo": "ivanantigravity-lgtm/nanobanana-2-polzaia-mcp-server",
+  "source_url": "https://github.com/ivanantigravity-lgtm/nanobanana-2-polzaia-mcp-server",
+  "install": "npx -y nanobanana-2-polzaia-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "you922-telegram",
+  "description": "Integrates with Telegram through multiple authentication methods including QR code, phone number, and web-based login flows to enable comprehensive account management, messaging workflows, and bot operations.",
+  "source_repo": "you922/telegram-mcp",
+  "source_url": "https://github.com/you922/telegram-mcp",
+  "install": "npx -y telegram-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lenwood-college-football-data",
+  "description": "Integrates with College Football Data API to provide natural language querying of game results, team records, player stats, rankings, and advanced metrics.",
+  "source_repo": "lenwood/cfbd-mcp-server",
+  "source_url": "https://github.com/lenwood/cfbd-mcp-server",
+  "install": "npx -y cfbd-mcp-server"
+}

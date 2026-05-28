@@ -1,0 +1,7 @@
+{
+  "name": "zuplo-weather-4",
+  "description": "Access U.S. National Weather Service alerts, forecasts, observations, radar, and aviation data. Query by coordinates, zones, stations, or product types to retrieve precise local information. Monitor active alerts, get hourly and zone forecasts, and fetch TAF/SIGMET and text products for planning and",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/anusha5191/aicollectivetest",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/anusha5191/aicollectivetest\n# See source for mcpServers config block"
+}

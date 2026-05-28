@@ -1,0 +1,7 @@
+{
+  "name": "converse-mcp-server",
+  "description": "Enables Claude to chat with various AI models and obtain multi-model consensus for complex decisions.",
+  "source_repo": "FallDownTheSystem/converse",
+  "source_url": "https://github.com/FallDownTheSystem/converse",
+  "install": "# git clone --depth 1 https://github.com/FallDownTheSystem/converse\n# See source for mcpServers config block"
+}

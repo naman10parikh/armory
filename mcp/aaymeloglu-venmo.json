@@ -1,0 +1,7 @@
+{
+  "name": "aaymeloglu-venmo",
+  "description": "Integrates with Venmo for sending money, requesting payments, searching users, and managing transactions.",
+  "source_repo": "aaymeloglu/venmo-mcp",
+  "source_url": "https://github.com/aaymeloglu/venmo-mcp",
+  "install": "npx -y venmo-mcp"
+}

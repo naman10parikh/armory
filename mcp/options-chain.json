@@ -1,0 +1,7 @@
+{
+  "name": "options-chain",
+  "description": "Options Chain MCP server listed on mcp.so.",
+  "source_repo": "blake365/options-chain",
+  "source_url": "https://mcp.so/server/options-chain/blake365",
+  "install": "# git clone --depth 1 https://mcp.so/server/options-chain/blake365\n# See source for mcpServers config block"
+}

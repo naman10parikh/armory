@@ -1,0 +1,7 @@
+{
+  "name": "inonego-asqu",
+  "description": "Async question queue for Claude Code and other agents, providing a desktop UI where questions accumulate so users can answer at their own pace without blocking agent execution.",
+  "source_repo": "inonego-ai/asqu",
+  "source_url": "https://github.com/inonego-ai/asqu",
+  "install": "# git clone --depth 1 https://github.com/inonego-ai/asqu\n# See source for mcpServers config block"
+}

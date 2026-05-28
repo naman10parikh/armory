@@ -1,0 +1,7 @@
+{
+  "name": "shemcp",
+  "description": "An MCP server that provides sandboxed shell command execution with configurable security policies, enabling safe AI-assisted command runs within a project repository.",
+  "source_repo": "acartine/shemcp",
+  "source_url": "https://github.com/acartine/shemcp",
+  "install": "# git clone --depth 1 https://github.com/acartine/shemcp\n# See source for mcpServers config block"
+}

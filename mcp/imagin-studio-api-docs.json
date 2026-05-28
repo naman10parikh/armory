@@ -1,0 +1,7 @@
+{
+  "name": "imagin-studio-api-docs",
+  "description": "Semantic search over IMAGIN.studio API documentation including CDN configuration, integration guides, and data point references.",
+  "source_repo": "imagin-studio/api-docs-mcp",
+  "source_url": "https://github.com/imagin-studio/api-docs-mcp",
+  "install": "npx -y api-docs-mcp"
+}

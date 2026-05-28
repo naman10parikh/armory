@@ -1,0 +1,7 @@
+{
+  "name": "jojoslice-readme-generator",
+  "description": "Automatically analyzes project directories to generate professional README.md files with badges, project structure visualization, technology detection, and comprehensive documentation sections including installation instructions and usage examples.",
+  "source_repo": "jojoslice/readme-gen-mcp-server",
+  "source_url": "https://github.com/jojoslice/readme-gen-mcp-server",
+  "install": "npx -y readme-gen-mcp-server"
+}

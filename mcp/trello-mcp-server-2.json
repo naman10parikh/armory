@@ -1,0 +1,7 @@
+{
+  "name": "trello-mcp-server-2",
+  "description": "Provides programmatic access to Trello's API to manage boards, lists, cards, and organizations via MCP.",
+  "source_repo": "cargom98/gm-trello-mcp",
+  "source_url": "https://github.com/cargom98/gm-trello-mcp",
+  "install": "npx -y gm-trello-mcp"
+}

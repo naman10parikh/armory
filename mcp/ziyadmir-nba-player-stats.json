@@ -1,0 +1,7 @@
+{
+  "name": "ziyadmir-nba-player-stats",
+  "description": "Provides detailed NBA player statistics from basketball-reference.com through 23 specialized tools covering career stats, season comparisons, advanced metrics, game logs, awards voting, trend analysis, and all-time rankings for sports analysis and fantasy basketball applications.",
+  "source_repo": "ziyadmir/nba-player-stats-mcp",
+  "source_url": "https://github.com/ziyadmir/nba-player-stats-mcp",
+  "install": "npx -y nba-player-stats-mcp"
+}

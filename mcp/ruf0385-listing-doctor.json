@@ -1,0 +1,7 @@
+{
+  "name": "ruf0385-listing-doctor",
+  "description": "AI-powered Etsy listing optimization scoring engine analyzing titles, tags, descriptions, and photos for SEO and conversion.",
+  "source_repo": "ruf0385/listing-doctor-mcp",
+  "source_url": "https://github.com/ruf0385/listing-doctor-mcp",
+  "install": "npx -y listing-doctor-mcp"
+}

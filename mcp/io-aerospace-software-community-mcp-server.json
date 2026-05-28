@@ -1,0 +1,7 @@
+{
+  "name": "io-aerospace-software-community-mcp-server",
+  "description": "/🏠 🐧 - IO Aerospace MCP Server: a .NET-based MCP server for aerospace & astrodynamics — ephemeris, orbital conversions, DSS tools, time conversions, and unit/math utilities. Supports STDIO and SSE transports; Docker and native .NET deployment documented.",
+  "source_repo": "IO-Aerospace-software-engineering/mcp-server",
+  "source_url": "https://github.com/IO-Aerospace-software-engineering/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/IO-Aerospace-software-engineering/mcp-server\n# See source for mcpServers config block"
+}

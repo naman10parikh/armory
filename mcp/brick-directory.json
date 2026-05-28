@@ -1,0 +1,7 @@
+{
+  "name": "brick-directory",
+  "description": "Comprehensive LEGO database for sets, minifigures, parts, and market pricing",
+  "source_repo": "",
+  "source_url": "https://brick.directory",
+  "install": "# git clone --depth 1 https://brick.directory\n# See source for mcpServers config block"
+}

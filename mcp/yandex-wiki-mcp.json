@@ -1,0 +1,7 @@
+{
+  "name": "yandex-wiki-mcp",
+  "description": "Enables reading, creating, updating, and appending content to Yandex Wiki pages via MCP. Supports both read-write and read-only modes.",
+  "source_repo": "best-doctor/mcp-yandex-wiki",
+  "source_url": "https://github.com/best-doctor/mcp-yandex-wiki",
+  "install": "# git clone --depth 1 https://github.com/best-doctor/mcp-yandex-wiki\n# See source for mcpServers config block"
+}

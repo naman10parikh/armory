@@ -1,0 +1,7 @@
+{
+  "name": "narumiruna-gitingest-mcp",
+  "description": "A MCP server that uses [gitingest](https://github.com/cyclotruc/gitingest) to convert any Git repository into a simple text digest of its codebase.",
+  "source_repo": "narumiruna/gitingest-mcp",
+  "source_url": "https://github.com/narumiruna/gitingest-mcp",
+  "install": "npx -y gitingest-mcp"
+}

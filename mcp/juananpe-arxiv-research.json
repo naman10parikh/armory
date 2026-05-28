@@ -1,0 +1,7 @@
+{
+  "name": "juananpe-arxiv-research",
+  "description": "Integrates with arXiv API to provide academic paper discovery, metadata extraction, and topic-based organization with automatic JSON storage for literature reviews and research workflows.",
+  "source_repo": "juananpe/arxiv-research-server-mcp",
+  "source_url": "https://github.com/juananpe/arxiv-research-server-mcp",
+  "install": "npx -y arxiv-research-server-mcp"
+}

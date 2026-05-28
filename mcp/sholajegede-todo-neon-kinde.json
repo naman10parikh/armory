@@ -1,0 +1,7 @@
+{
+  "name": "sholajegede-todo-neon-kinde",
+  "description": "Integrates Neon PostgreSQL with Kinde authentication to provide persistent todo management with user isolation, CRUD operations, and freemium billing that limits free users to 5 todos before requiring subscription upgrade.",
+  "source_repo": "sholajegede/todo_mcp_server",
+  "source_url": "https://github.com/sholajegede/todo_mcp_server",
+  "install": "npx -y todo_mcp_server"
+}

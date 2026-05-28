@@ -1,0 +1,7 @@
+{
+  "name": "kingjhonri-ollama",
+  "description": "Integrates with Ollama for local LLM inference, enabling direct access to self-hosted language models with streaming support and model management capabilities for privacy-focused workflows requiring offline processing and data sovereignty.",
+  "source_repo": "kingjhonri/mcp-ollama",
+  "source_url": "https://github.com/kingjhonri/mcp-ollama",
+  "install": "# git clone --depth 1 https://github.com/kingjhonri/mcp-ollama\n# See source for mcpServers config block"
+}

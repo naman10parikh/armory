@@ -1,0 +1,7 @@
+{
+  "name": "github-url-converter",
+  "description": "Converts and validates GitHub URLs between different formats including standard repository URLs, raw file URLs, and other GitHub URL variants with input validation and comprehensive testing.",
+  "source_repo": "kongyo2/github-url-mcp",
+  "source_url": "https://github.com/kongyo2/github-url-mcp",
+  "install": "npx -y github-url-mcp"
+}

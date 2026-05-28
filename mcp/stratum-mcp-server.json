@@ -1,0 +1,7 @@
+{
+  "name": "stratum-mcp-server",
+  "description": "Enables AI coding agents to execute formal, stateful workflows with typed contracts, postcondition enforcement, and structured retry logic.",
+  "source_repo": "smartmemory/stratum",
+  "source_url": "https://github.com/smartmemory/stratum",
+  "install": "# git clone --depth 1 https://github.com/smartmemory/stratum\n# See source for mcpServers config block"
+}

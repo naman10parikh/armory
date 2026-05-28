@@ -1,0 +1,7 @@
+{
+  "name": "cwvedvik-tripletex",
+  "description": "Access to Tripletex accounting software for time tracking, invoicing, and financial management.",
+  "source_repo": "cwvedvik/tripletex-mcp",
+  "source_url": "https://github.com/cwvedvik/tripletex-mcp",
+  "install": "npx -y tripletex-mcp"
+}

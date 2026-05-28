@@ -1,0 +1,7 @@
+{
+  "name": "andylee20014-replicate-flux",
+  "description": "Connects to Replicate's image generation models, enabling text-to-image creation with automatic cloud storage of results for seamless visual content integration.",
+  "source_repo": "andylee20014/mcp-replicate-flux",
+  "source_url": "https://github.com/andylee20014/mcp-replicate-flux",
+  "install": "# git clone --depth 1 https://github.com/andylee20014/mcp-replicate-flux\n# See source for mcpServers config block"
+}

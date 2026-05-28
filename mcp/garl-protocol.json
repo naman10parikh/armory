@@ -1,0 +1,7 @@
+{
+  "name": "garl-protocol",
+  "description": "Trust and reputation layer for autonomous AI agents — verify, score, route, and delegate.",
+  "source_repo": "garl-protocol/garl",
+  "source_url": "https://github.com/garl-protocol/garl",
+  "install": "# git clone --depth 1 https://github.com/garl-protocol/garl\n# See source for mcpServers config block"
+}

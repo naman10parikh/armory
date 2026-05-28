@@ -1,0 +1,7 @@
+{
+  "name": "alejandroqh-npcterm",
+  "description": "Headless in-memory terminal emulator for AI agents to spawn shells, run commands, and interact with TUI applications.",
+  "source_repo": "alejandroqh/npcterm",
+  "source_url": "https://github.com/alejandroqh/npcterm",
+  "install": "# git clone --depth 1 https://github.com/alejandroqh/npcterm\n# See source for mcpServers config block"
+}

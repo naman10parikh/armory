@@ -1,0 +1,7 @@
+{
+  "name": "tesla0225-create",
+  "description": "Creates and manages dynamic MCP servers on-demand, enabling flexible tool execution and server lifecycle control through a TypeScript-based controller that runs in Docker for optimal isolation and security.",
+  "source_repo": "tesla0225/mcp-create",
+  "source_url": "https://github.com/tesla0225/mcp-create",
+  "install": "# git clone --depth 1 https://github.com/tesla0225/mcp-create\n# See source for mcpServers config block"
+}

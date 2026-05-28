@@ -1,0 +1,7 @@
+{
+  "name": "mrjoshuak-godoc-mcp",
+  "description": "Access Go package documentation and project structures.",
+  "source_repo": "mrjoshuak/godoc-mcp",
+  "source_url": "https://github.com/mrjoshuak/godoc-mcp",
+  "install": "npx -y godoc-mcp"
+}

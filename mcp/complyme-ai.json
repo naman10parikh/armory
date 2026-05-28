@@ -1,0 +1,7 @@
+{
+  "name": "complyme-ai",
+  "description": "Legal, privacy, and cybersecurity compliance guidance covering GDPR, CCPA, PIPL, NIS2, DORA, and CRA for AI agents.",
+  "source_repo": "",
+  "source_url": "https://complyme.ai",
+  "install": "# git clone --depth 1 https://complyme.ai\n# See source for mcpServers config block"
+}

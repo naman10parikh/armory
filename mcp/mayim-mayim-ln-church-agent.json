@@ -1,0 +1,7 @@
+{
+  "name": "mayim-mayim-ln-church-agent",
+  "description": "Inspect-only MCP server for HTTP 402 payment challenge analysis and agent-commerce surface reconnaissance without executing payments.",
+  "source_repo": "mayim-mayim/ln-church-agent",
+  "source_url": "https://github.com/mayim-mayim/ln-church-agent",
+  "install": "# git clone --depth 1 https://github.com/mayim-mayim/ln-church-agent\n# See source for mcpServers config block"
+}

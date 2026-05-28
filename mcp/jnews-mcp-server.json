@@ -1,0 +1,7 @@
+{
+  "name": "jnews-mcp-server",
+  "description": "Jnews Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "juhemcp/jnews-mcp-server",
+  "source_url": "https://mcp.so/server/jnews-mcp-server/juhemcp",
+  "install": "npx -y jnews-mcp-server"
+}

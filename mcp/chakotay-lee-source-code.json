@@ -1,0 +1,7 @@
+{
+  "name": "chakotay-lee-source-code",
+  "description": "Manage source code and files on your machine",
+  "source_repo": "chakotay-lee/mcp-source-server",
+  "source_url": "https://github.com/chakotay-lee/mcp-source-server",
+  "install": "# git clone --depth 1 https://github.com/chakotay-lee/mcp-source-server\n# See source for mcpServers config block"
+}

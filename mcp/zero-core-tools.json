@@ -1,0 +1,7 @@
+{
+  "name": "zero-core-tools",
+  "description": "Agent utility tools for web scraping, code review, content generation, and sentiment analysis.",
+  "source_repo": "meltingpixelsai/zero-core-tools",
+  "source_url": "https://github.com/meltingpixelsai/zero-core-tools",
+  "install": "# git clone --depth 1 https://github.com/meltingpixelsai/zero-core-tools\n# See source for mcpServers config block"
+}

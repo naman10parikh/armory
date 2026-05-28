@@ -1,0 +1,7 @@
+{
+  "name": "swayingleaves-uml-diagramming",
+  "description": "Integrates with UML diagramming tools to generate visual representations of system architecture, class relationships, and process flows directly from code or text descriptions within conversational interfaces.",
+  "source_repo": "swayingleaves/uml-mcp-server",
+  "source_url": "https://github.com/swayingleaves/uml-mcp-server",
+  "install": "npx -y uml-mcp-server"
+}

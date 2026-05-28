@@ -1,0 +1,7 @@
+{
+  "name": "danimal141-arxiv-search",
+  "description": "Search and retrieve academic papers from arXiv.org by category, providing titles, authors, summaries, and links sorted by date.",
+  "source_repo": "danimal141/arxiv-search-mcp",
+  "source_url": "https://github.com/danimal141/arxiv-search-mcp",
+  "install": "npx -y arxiv-search-mcp"
+}

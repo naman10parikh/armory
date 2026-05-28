@@ -1,0 +1,7 @@
+{
+  "name": "cosmix-linear",
+  "description": "Integrates Linear's issue tracking system, enabling querying and searching of issues for automated analysis, prioritization, and reporting.",
+  "source_repo": "cosmix/linear-mcp",
+  "source_url": "https://github.com/cosmix/linear-mcp",
+  "install": "npx -y linear-mcp"
+}

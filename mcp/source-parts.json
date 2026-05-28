@@ -1,0 +1,7 @@
+{
+  "name": "source-parts",
+  "description": "Enables AI assistants to search millions of electronic components, compare prices, check availability, and process bills of materials from major EDA tools.",
+  "source_repo": "sourceparts/parts-mcp",
+  "source_url": "https://github.com/sourceparts/parts-mcp",
+  "install": "npx -y parts-mcp"
+}

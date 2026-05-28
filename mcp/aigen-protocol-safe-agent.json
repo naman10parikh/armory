@@ -1,0 +1,7 @@
+{
+  "name": "aigen-protocol-safe-agent",
+  "description": "EVM token safety analysis with scam pattern detection across Ethereum, Base, Optimism, Arbitrum, BSC, and Polygon.",
+  "source_repo": "aigen-protocol/aigen-protocol",
+  "source_url": "https://github.com/aigen-protocol/aigen-protocol",
+  "install": "# git clone --depth 1 https://github.com/aigen-protocol/aigen-protocol\n# See source for mcpServers config block"
+}

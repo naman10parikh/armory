@@ -1,0 +1,7 @@
+{
+  "name": "g0t4-memory-file",
+  "description": "Lightweight, file-based memory storage for maintaining persistent context across conversations using simple text operations.",
+  "source_repo": "g0t4/mcp-server-memory-file",
+  "source_url": "https://github.com/g0t4/mcp-server-memory-file",
+  "install": "# git clone --depth 1 https://github.com/g0t4/mcp-server-memory-file\n# See source for mcpServers config block"
+}

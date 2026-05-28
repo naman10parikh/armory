@@ -1,0 +1,7 @@
+{
+  "name": "ovden13-trilium-next",
+  "description": "TriliumNext knowledge base MCP for reading and writing notes, managing hierarchies, and searching content via ETAPI.",
+  "source_repo": "ovden13/trilium-mcp",
+  "source_url": "https://github.com/ovden13/trilium-mcp",
+  "install": "npx -y trilium-mcp"
+}

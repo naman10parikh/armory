@@ -1,0 +1,7 @@
+{
+  "name": "joomil",
+  "description": "Searches and retrieves classified ads from Joomil.ch, Switzerland's French-speaking marketplace with over 45,000 active listings.",
+  "source_repo": "valmo-sarl/joomil-mcp",
+  "source_url": "https://github.com/valmo-sarl/joomil-mcp",
+  "install": "npx -y joomil-mcp"
+}

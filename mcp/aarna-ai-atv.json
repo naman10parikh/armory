@@ -1,0 +1,7 @@
+{
+  "name": "aarna-ai-atv",
+  "description": "Provides access to Aarna's DeFi tokenized yield vaults for querying performance, building transactions, and tracking portfolios.",
+  "source_repo": "aarna-ai/atv-sdk",
+  "source_url": "https://github.com/aarna-ai/atv-sdk/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/aarna-ai/atv-sdk/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

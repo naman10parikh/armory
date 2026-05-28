@@ -1,0 +1,7 @@
+{
+  "name": "torukmaktoalpha-indian-stocks",
+  "description": "Integrates with the Indian stock market API to provide financial data including trending stocks, IPO information, financial statements, historical statistics, mutual funds, and corporate actions for financial analysis and research.",
+  "source_repo": "torukmaktoalpha/indian-stocks-mcp",
+  "source_url": "https://github.com/torukmaktoalpha/indian-stocks-mcp",
+  "install": "npx -y indian-stocks-mcp"
+}

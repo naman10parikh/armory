@@ -1,0 +1,7 @@
+{
+  "name": "jonathanhefner-bash-mode",
+  "description": "Consolidate multiple tools into a single exec_bash tool using standard Unix commands and pipes.",
+  "source_repo": "jonathanhefner/mcp-bash-mode",
+  "source_url": "https://github.com/jonathanhefner/mcp-bash-mode",
+  "install": "# git clone --depth 1 https://github.com/jonathanhefner/mcp-bash-mode\n# See source for mcpServers config block"
+}

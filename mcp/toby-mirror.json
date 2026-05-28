@@ -1,0 +1,7 @@
+{
+  "name": "toby-mirror",
+  "description": "Enables recursive self-questioning and introspection through a reflect tool that uses MCP sampling to generate thoughtful responses to self-directed questions with configurable system prompts for specialized reflection perspectives like coaching or strategic analysis.",
+  "source_repo": "toby/mirror-mcp",
+  "source_url": "https://github.com/toby/mirror-mcp",
+  "install": "npx -y mirror-mcp"
+}

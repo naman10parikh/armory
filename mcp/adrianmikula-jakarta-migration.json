@@ -1,0 +1,7 @@
+{
+  "name": "adrianmikula-jakarta-migration",
+  "description": "Automates Java EE to Jakarta EE migrations with dependency analysis, namespace refactoring from javax.* to jakarta.* packages, and runtime compatibility verification using OpenRewrite recipes.",
+  "source_repo": "adrianmikula/jakartamigrationmcp",
+  "source_url": "https://github.com/adrianmikula/jakartamigrationmcp",
+  "install": "# git clone --depth 1 https://github.com/adrianmikula/jakartamigrationmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shrawanpaneru-kali-penetration-testing",
+  "description": "Combines Kali Linux penetration testing tools in Docker containers with Windows host system access for authorized security testing scenarios.",
+  "source_repo": "shrawanpaneru/kalimcp-",
+  "source_url": "https://github.com/shrawanpaneru/kalimcp-",
+  "install": "# git clone --depth 1 https://github.com/shrawanpaneru/kalimcp-\n# See source for mcpServers config block"
+}

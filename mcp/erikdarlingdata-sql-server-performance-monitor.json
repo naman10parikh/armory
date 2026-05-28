@@ -1,0 +1,7 @@
+{
+  "name": "erikdarlingdata-sql-server-performance-monitor",
+  "description": "SQL Server performance monitoring with DuckDB storage and natural language queries for CPU, wait stats, blocking, query performance, memory, and I/O.",
+  "source_repo": "erikdarlingdata/performancemonitor",
+  "source_url": "https://github.com/erikdarlingdata/performancemonitor/tree/HEAD/Lite",
+  "install": "# git clone --depth 1 https://github.com/erikdarlingdata/performancemonitor/tree/HEAD/Lite\n# See source for mcpServers config block"
+}

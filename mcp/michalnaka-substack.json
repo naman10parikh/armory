@@ -1,0 +1,7 @@
+{
+  "name": "michalnaka-substack",
+  "description": "Enables downloading and parsing of Substack posts, facilitating content analysis and research workflows.",
+  "source_repo": "michalnaka/mcp-substack",
+  "source_url": "https://github.com/michalnaka/mcp-substack",
+  "install": "# git clone --depth 1 https://github.com/michalnaka/mcp-substack\n# See source for mcpServers config block"
+}

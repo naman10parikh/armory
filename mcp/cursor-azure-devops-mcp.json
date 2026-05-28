@@ -1,0 +1,7 @@
+{
+  "name": "cursor-azure-devops-mcp",
+  "description": "An MCP server that integrates Azure DevOps with Cursor IDE, allowing Claude AI to manage projects, work items, repositories, pull requests, and test plans.",
+  "source_repo": "maximtitovich/cursor-azure-devops-mcp",
+  "source_url": "https://github.com/maximtitovich/cursor-azure-devops-mcp",
+  "install": "npx -y cursor-azure-devops-mcp"
+}

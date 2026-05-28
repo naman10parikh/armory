@@ -1,0 +1,7 @@
+{
+  "name": "gitsim",
+  "description": "Search, order, and manage eSIM data packages for 190+ countries at wholesale prices.",
+  "source_repo": "",
+  "source_url": "https://chat.gitsim.com",
+  "install": "# git clone --depth 1 https://chat.gitsim.com\n# See source for mcpServers config block"
+}

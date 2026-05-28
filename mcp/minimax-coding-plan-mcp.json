@@ -1,0 +1,7 @@
+{
+  "name": "minimax-coding-plan-mcp",
+  "description": "Specialized MCP server for coding workflows with web search and image analysis tools.",
+  "source_repo": "MiniMax-AI/MiniMax-Coding-Plan-MCP",
+  "source_url": "https://github.com/MiniMax-AI/MiniMax-Coding-Plan-MCP",
+  "install": "npx -y MiniMax-Coding-Plan-MCP"
+}

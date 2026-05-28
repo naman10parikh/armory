@@ -1,0 +1,7 @@
+{
+  "name": "airy10-gedcom",
+  "description": "Integrates with GEDCOM genealogy files to provide complete family history management including relationship pathfinding, duplicate detection, statistical analysis, and automated data population from web sources like Wikipedia.",
+  "source_repo": "airy10/gedcommcp",
+  "source_url": "https://github.com/airy10/gedcommcp",
+  "install": "# git clone --depth 1 https://github.com/airy10/gedcommcp\n# See source for mcpServers config block"
+}

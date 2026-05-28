@@ -1,0 +1,7 @@
+{
+  "name": "lowkeyparanoia-pine-script-docs",
+  "description": "Provides full-text BM25 search across TradingView Pine Script v5/v6 documentation covering 858 indexed function references and user manual pages.",
+  "source_repo": "lowkeyparanoia/pine-script-mcp",
+  "source_url": "https://github.com/lowkeyparanoia/pine-script-mcp",
+  "install": "npx -y pine-script-mcp"
+}

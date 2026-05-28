@@ -1,0 +1,7 @@
+{
+  "name": "nccurry-mtg",
+  "description": "Build and manage Magic: The Gathering decks using Scryfall card data, Archidekt deck sync, and combo detection via Commander Spellbook.",
+  "source_repo": "nccurry/mtg-mcp",
+  "source_url": "https://github.com/nccurry/mtg-mcp",
+  "install": "npx -y mtg-mcp"
+}

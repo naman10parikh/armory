@@ -1,0 +1,7 @@
+{
+  "name": "graphiti-mcp-server",
+  "description": "This MCP server extracts entities and relationships from text and stores them in Neo4j, supporting multiple isolated knowledge graph projects that share the same database.",
+  "source_repo": "rawr-ai/mcp-graphiti",
+  "source_url": "https://github.com/rawr-ai/mcp-graphiti",
+  "install": "# git clone --depth 1 https://github.com/rawr-ai/mcp-graphiti\n# See source for mcpServers config block"
+}

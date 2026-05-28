@@ -1,0 +1,7 @@
+{
+  "name": "model-context-protocol",
+  "description": "Model Context Protocol MCP server listed on mcp.so.",
+  "source_repo": "mcp-agents/model-context-protocol",
+  "source_url": "https://mcp.so/server/model-context-protocol/mcp-agents",
+  "install": "# git clone --depth 1 https://mcp.so/server/model-context-protocol/mcp-agents\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toadlybroodle-satring",
+  "description": "Discover and compare L402 + x402 paid API services from satring.com, the best curated Lightning and USDC API directory.",
+  "source_repo": "toadlyBroodle/satring",
+  "source_url": "https://github.com/toadlyBroodle/satring/tree/main/mcp",
+  "install": "# git clone --depth 1 https://github.com/toadlyBroodle/satring/tree/main/mcp\n# See source for mcpServers config block"
+}

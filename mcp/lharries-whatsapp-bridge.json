@@ -1,0 +1,7 @@
+{
+  "name": "lharries-whatsapp-bridge",
+  "description": "Provides a secure bridge to your WhatsApp account, enabling message search, contact management, and sending capabilities while keeping all data stored locally on your device.",
+  "source_repo": "lharries/whatsapp-mcp",
+  "source_url": "https://github.com/lharries/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

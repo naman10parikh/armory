@@ -1,0 +1,7 @@
+{
+  "name": "any2markdown-mcp-server",
+  "description": "Converts PDF, Word, and Excel documents to Markdown with image extraction and header/footer removal via MCP or REST API.",
+  "source_repo": "WW-AI-Lab/any2markdown",
+  "source_url": "https://github.com/WW-AI-Lab/any2markdown",
+  "install": "# git clone --depth 1 https://github.com/WW-AI-Lab/any2markdown\n# See source for mcpServers config block"
+}

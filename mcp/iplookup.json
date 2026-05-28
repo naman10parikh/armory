@@ -1,0 +1,7 @@
+{
+  "name": "iplookup",
+  "description": "Geolocates IP addresses and retrieves network metadata including country, region, and ISP via ip-api.com.",
+  "source_repo": "pipeworx-io/mcp-iplookup",
+  "source_url": "https://github.com/pipeworx-io/mcp-iplookup",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-iplookup\n# See source for mcpServers config block"
+}

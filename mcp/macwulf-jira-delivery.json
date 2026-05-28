@@ -1,0 +1,7 @@
+{
+  "name": "macwulf-jira-delivery",
+  "description": "Jira operations toolkit with reusable policy modules and workflow automation.",
+  "source_repo": "macwulf/jira-delivery-mcp",
+  "source_url": "https://github.com/macwulf/jira-delivery-mcp",
+  "install": "npx -y jira-delivery-mcp"
+}

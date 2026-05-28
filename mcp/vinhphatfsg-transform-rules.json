@@ -1,0 +1,7 @@
+{
+  "name": "vinhphatfsg-transform-rules",
+  "description": "Transform CSV and JSON data using YAML-defined rules with expression support.",
+  "source_repo": "vinhphatfsg/rulemorph",
+  "source_url": "https://github.com/vinhphatfsg/rulemorph",
+  "install": "# git clone --depth 1 https://github.com/vinhphatfsg/rulemorph\n# See source for mcpServers config block"
+}

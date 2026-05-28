@@ -1,0 +1,7 @@
+{
+  "name": "zcag-readdown",
+  "description": "Converts web pages to clean, token-efficient Markdown optimized for language models.",
+  "source_repo": "zcag/readdown-mcp",
+  "source_url": "https://github.com/zcag/readdown-mcp",
+  "install": "npx -y readdown-mcp"
+}

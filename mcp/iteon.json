@@ -1,0 +1,7 @@
+{
+  "name": "iteon",
+  "description": "Polish B2B software house offering AI agent access to project tools and methodology via public and OAuth-secured endpoints.",
+  "source_repo": "iteonpl/iteon-apps",
+  "source_url": "https://github.com/iteonpl/iteon-apps",
+  "install": "# git clone --depth 1 https://github.com/iteonpl/iteon-apps\n# See source for mcpServers config block"
+}

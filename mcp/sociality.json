@@ -1,0 +1,7 @@
+{
+  "name": "sociality",
+  "description": "Social media analytics platform providing AI agents access to post insights, competitor benchmarking, and audience data across channels.",
+  "source_repo": "socialityio/sociality-mcp",
+  "source_url": "https://github.com/socialityio/sociality-mcp",
+  "install": "npx -y sociality-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kalvisan-guardian",
+  "description": "Proactively scans project dependencies for security vulnerabilities using the OSV database with configurable severity filtering, automated detection across multiple package managers, and structured reporting with remediation guidance for maintaining secure codebases.",
+  "source_repo": "kalvisan/guardian-mcp",
+  "source_url": "https://github.com/kalvisan/guardian-mcp",
+  "install": "npx -y guardian-mcp"
+}

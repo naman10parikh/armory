@@ -1,0 +1,7 @@
+{
+  "name": "azeth-protocol-mcp-server",
+  "description": "Trust infrastructure for the machine economy — non-custodial ERC-4337 smart accounts, x402 payments, on-chain reputation via ERC-8004, and service discovery for AI agents.",
+  "source_repo": "azeth-protocol/mcp-server",
+  "source_url": "https://github.com/azeth-protocol/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/azeth-protocol/mcp-server\n# See source for mcpServers config block"
+}

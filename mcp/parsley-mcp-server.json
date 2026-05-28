@@ -1,0 +1,7 @@
+{
+  "name": "parsley-mcp-server",
+  "description": "Enables AI assistants to access buyer intent signals, MEDDIC qualification data, and lead intelligence from Parsley accounts for lead qualification and follow-up.",
+  "source_repo": "peterjduffy/parsley-mcp",
+  "source_url": "https://github.com/peterjduffy/parsley-mcp",
+  "install": "npx -y parsley-mcp"
+}

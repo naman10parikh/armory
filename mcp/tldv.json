@@ -1,0 +1,7 @@
+{
+  "name": "tldv",
+  "description": "Interact with your meeting data (to list, ask, summarize, extract - virtually anything about your meetings) across Zoom, Google Meet and MS Teams via tl;dv.",
+  "source_repo": "tldv-public/tldv-mcp-server",
+  "source_url": "https://github.com/tldv-public/tldv-mcp-server",
+  "install": "npx -y tldv-mcp-server"
+}

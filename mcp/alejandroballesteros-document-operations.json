@@ -1,0 +1,7 @@
+{
+  "name": "alejandroballesteros-document-operations",
+  "description": "Enables document operations on Microsoft Word, Excel, and PDF files through FastMCP and Python tools for creating, editing, converting, and manipulating files without switching applications",
+  "source_repo": "alejandroballesterosc/document-edit-mcp",
+  "source_url": "https://github.com/alejandroballesterosc/document-edit-mcp",
+  "install": "npx -y document-edit-mcp"
+}

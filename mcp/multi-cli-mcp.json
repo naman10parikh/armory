@@ -1,0 +1,7 @@
+{
+  "name": "multi-cli-mcp",
+  "description": "An MCP server that bridges multiple AI clients (Claude, Gemini, Codex, OpenCode) so they can call each other as tools.",
+  "source_repo": "osanoai/multicli",
+  "source_url": "https://github.com/osanoai/multicli",
+  "install": "# git clone --depth 1 https://github.com/osanoai/multicli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cashfree",
+  "description": "Integrates with Cashfree's payment processing APIs to enable creating payment links, managing orders, processing refunds, initiating transfers, and verifying identity information",
+  "source_repo": "cashfree/cashfree-mcp",
+  "source_url": "https://github.com/cashfree/cashfree-mcp",
+  "install": "npx -y cashfree-mcp"
+}

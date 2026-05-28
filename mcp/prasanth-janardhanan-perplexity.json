@@ -1,0 +1,7 @@
+{
+  "name": "prasanth-janardhanan-perplexity",
+  "description": "Integrates Perplexity's question-answering capabilities, enabling natural language understanding and information retrieval for applications like chatbots and research tools.",
+  "source_repo": "gomcpgo/perplexity-mcp-server",
+  "source_url": "https://github.com/gomcpgo/perplexity-mcp-server",
+  "install": "npx -y perplexity-mcp-server"
+}

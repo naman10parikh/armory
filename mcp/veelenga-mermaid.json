@@ -1,0 +1,7 @@
+{
+  "name": "veelenga-mermaid",
+  "description": "Renders Mermaid diagrams in real-time with live preview capabilities, automatic browser refresh, and WebSocket-based updates, supporting SVG, PNG, and PDF formats with pan/zoom functionality and collaborative editing integration.",
+  "source_repo": "veelenga/claude-mermaid",
+  "source_url": "https://github.com/veelenga/claude-mermaid",
+  "install": "# git clone --depth 1 https://github.com/veelenga/claude-mermaid\n# See source for mcpServers config block"
+}

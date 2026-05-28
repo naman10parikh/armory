@@ -1,0 +1,7 @@
+{
+  "name": "amoldericksoans-ffmpeg",
+  "description": "Enables multimedia processing operations using FFmpeg, allowing direct manipulation of audio and video files for tasks like trimming, conversion, extraction, and watermarking without leaving the conversation interface.",
+  "source_repo": "amoldericksoans/ffmpeg-mcp",
+  "source_url": "https://github.com/amoldericksoans/ffmpeg-mcp",
+  "install": "npx -y ffmpeg-mcp"
+}

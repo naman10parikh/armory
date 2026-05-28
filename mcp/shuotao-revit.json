@@ -1,0 +1,7 @@
+{
+  "name": "shuotao-revit",
+  "description": "Educational implementation bridging Autodesk Revit with AI assistants through dual-component architecture for model control and building information extraction.",
+  "source_repo": "shuotao/revit_mcp_study",
+  "source_url": "https://github.com/shuotao/revit_mcp_study",
+  "install": "# git clone --depth 1 https://github.com/shuotao/revit_mcp_study\n# See source for mcpServers config block"
+}

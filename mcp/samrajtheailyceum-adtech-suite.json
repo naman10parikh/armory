@@ -1,0 +1,7 @@
+{
+  "name": "samrajtheailyceum-adtech-suite",
+  "description": "Suite of advertising technology tools with multi-agent architectures for creative intelligence, attribution, brand safety, and campaign optimization.",
+  "source_repo": "samrajtheailyceum/adtech-mcp-suite",
+  "source_url": "https://github.com/samrajtheailyceum/adtech-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/samrajtheailyceum/adtech-mcp-suite\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "klara-research-log-analyzer",
+  "description": "Debugging tool that retrieves, filters, and displays MCP logs from Claude desktop applications across macOS, Windows, and Linux for troubleshooting integration issues.",
+  "source_repo": "klara-research/mcp-analyzer",
+  "source_url": "https://github.com/klara-research/mcp-analyzer",
+  "install": "# git clone --depth 1 https://github.com/klara-research/mcp-analyzer\n# See source for mcpServers config block"
+}

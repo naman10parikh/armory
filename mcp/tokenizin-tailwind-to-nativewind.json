@@ -1,0 +1,7 @@
+{
+  "name": "tokenizin-tailwind-to-nativewind",
+  "description": "Transforms Tailwind components to NativeWind 4 for React Native.",
+  "source_repo": "tokenizin-agency/mcp-nativewind",
+  "source_url": "https://github.com/tokenizin-agency/mcp-nativewind",
+  "install": "# git clone --depth 1 https://github.com/tokenizin-agency/mcp-nativewind\n# See source for mcpServers config block"
+}

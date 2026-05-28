@@ -1,0 +1,7 @@
+{
+  "name": "wordware-mcp",
+  "description": "Wordware Mcp MCP server listed on mcp.so.",
+  "source_repo": "yuhuangou/wordware-mcp",
+  "source_url": "https://mcp.so/server/wordware-mcp/yuhuangou",
+  "install": "npx -y wordware-mcp"
+}

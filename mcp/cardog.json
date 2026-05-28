@@ -1,0 +1,7 @@
+{
+  "name": "cardog",
+  "description": "Access vehicle listings, market analysis, VIN decoding, safety recalls, and EV charging station data across Canada.",
+  "source_repo": "cardog-ai/mcp-server",
+  "source_url": "https://github.com/cardog-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/cardog-ai/mcp-server\n# See source for mcpServers config block"
+}

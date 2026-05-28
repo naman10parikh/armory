@@ -1,0 +1,7 @@
+{
+  "name": "phiality-koboldai",
+  "description": "Integrates KoboldAI's text generation, enabling local language model interactions for creative writing, chatbots, and content generation.",
+  "source_repo": "phialsbasement/koboldcpp-mcp-server",
+  "source_url": "https://github.com/phialsbasement/koboldcpp-mcp-server",
+  "install": "npx -y koboldcpp-mcp-server"
+}

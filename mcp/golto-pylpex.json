@@ -1,0 +1,7 @@
+{
+  "name": "golto-pylpex",
+  "description": "Provides code execution, tokenization, and interpreter state management for the Pylpex programming language with Python-like syntax supporting functions, loops, conditionals, and basic data structures.",
+  "source_repo": "golto/pylpex-mcp",
+  "source_url": "https://github.com/golto/pylpex-mcp",
+  "install": "npx -y pylpex-mcp"
+}

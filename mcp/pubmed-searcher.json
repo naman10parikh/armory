@@ -1,0 +1,7 @@
+{
+  "name": "pubmed-searcher",
+  "description": "Search, retrieve, and analyze scientific literature from PubMed with capabilities for identifying research trends and generating statistical reports.",
+  "source_repo": "darkroaster/pubmearch",
+  "source_url": "https://github.com/darkroaster/pubmearch",
+  "install": "# git clone --depth 1 https://github.com/darkroaster/pubmearch\n# See source for mcpServers config block"
+}

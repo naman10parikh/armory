@@ -1,0 +1,7 @@
+{
+  "name": "hive-mcp-agent-kyc",
+  "description": "Routes blockchain address screening to third-party KYC/AML providers and checks public sanctions lists, serving as a clean-money gate primitive for MCP-compatible agents.",
+  "source_repo": "srotzin/hive-mcp-agent-kyc",
+  "source_url": "https://github.com/srotzin/hive-mcp-agent-kyc",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-agent-kyc\n# See source for mcpServers config block"
+}

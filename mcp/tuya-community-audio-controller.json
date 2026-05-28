@@ -1,0 +1,7 @@
+{
+  "name": "tuya-community-audio-controller",
+  "description": "Controls audio playback on Tuya IoT devices using FastMCP with 9 playback intents including play, stop, resume, and loop modes.",
+  "source_repo": "tuya-community/tuya-audio-controller-mcp",
+  "source_url": "https://github.com/tuya-community/tuya-audio-controller-mcp",
+  "install": "npx -y tuya-audio-controller-mcp"
+}

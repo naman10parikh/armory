@@ -1,0 +1,7 @@
+{
+  "name": "cavendo-vantage",
+  "description": "Personal signal store for AI-native work: capture and query insights from posts, articles, and conversations across all your AI tools.",
+  "source_repo": "cavendo-ai/vantage",
+  "source_url": "https://github.com/cavendo-ai/vantage",
+  "install": "# git clone --depth 1 https://github.com/cavendo-ai/vantage\n# See source for mcpServers config block"
+}

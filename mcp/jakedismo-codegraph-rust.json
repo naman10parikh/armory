@@ -1,0 +1,7 @@
+{
+  "name": "jakedismo-codegraph-rust",
+  "description": "Provides high-performance code intelligence and semantic search capabilities through RocksDB graph storage, FAISS vector indexing, and tree-sitter AST parsing to enable real-time code analysis with incremental updates across multiple programming languages.",
+  "source_repo": "jakedismo/codegraph-rust",
+  "source_url": "https://github.com/jakedismo/codegraph-rust",
+  "install": "# git clone --depth 1 https://github.com/jakedismo/codegraph-rust\n# See source for mcpServers config block"
+}

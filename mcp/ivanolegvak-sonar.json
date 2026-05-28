@@ -1,0 +1,7 @@
+{
+  "name": "ivanolegvak-sonar",
+  "description": "Runs KYB due diligence, sanctions screening, and competitive intelligence on any company from Claude.",
+  "source_repo": "ivanolegvak/competitor-inteligence",
+  "source_url": "https://github.com/ivanolegvak/competitor-inteligence/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ivanolegvak/competitor-inteligence/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deepwired-jira",
+  "description": "Manage Jira Cloud issues, projects, and workflows using modern scoped API tokens with server-side scope enforcement.",
+  "source_repo": "deepwired/mcp-jira",
+  "source_url": "https://github.com/deepwired/mcp-jira",
+  "install": "# git clone --depth 1 https://github.com/deepwired/mcp-jira\n# See source for mcpServers config block"
+}

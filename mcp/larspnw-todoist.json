@@ -1,0 +1,7 @@
+{
+  "name": "larspnw-todoist",
+  "description": "Todoist REST API integration with 35 tools for task and project management.",
+  "source_repo": "larspnw/lars-todoist-mcp",
+  "source_url": "https://github.com/larspnw/lars-todoist-mcp",
+  "install": "npx -y lars-todoist-mcp"
+}

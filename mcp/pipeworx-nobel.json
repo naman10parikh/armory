@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-nobel",
+  "description": "Queries Nobel Prize laureates and award data via the Nobel Prize API v2.",
+  "source_repo": "pipeworx-io/mcp-nobel",
+  "source_url": "https://github.com/pipeworx-io/mcp-nobel",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-nobel\n# See source for mcpServers config block"
+}

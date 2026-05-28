@@ -1,0 +1,7 @@
+{
+  "name": "serac",
+  "description": "Zero-knowledge, end-to-end encrypted cloud storage for AI agents, hosted on French infrastructure with RGPD compliance.",
+  "source_repo": "",
+  "source_url": "https://serac.cloud",
+  "install": "# git clone --depth 1 https://serac.cloud\n# See source for mcpServers config block"
+}

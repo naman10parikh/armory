@@ -1,0 +1,7 @@
+{
+  "name": "hurleysk-can-see",
+  "description": "Lets AI agents visualize and control terminal and CLI apps via PNG screenshots, keystrokes, and text input.",
+  "source_repo": "hurleysk/can-see",
+  "source_url": "https://github.com/hurleysk/can-see",
+  "install": "# git clone --depth 1 https://github.com/hurleysk/can-see\n# See source for mcpServers config block"
+}

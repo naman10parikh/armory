@@ -1,0 +1,7 @@
+{
+  "name": "gh-iseppo-e-arveldaja",
+  "description": "Interfaces with Estonian RIK e-Financials accounting API.",
+  "source_repo": "iseppo/e-arveldaja-mcp",
+  "source_url": "https://github.com/iseppo/e-arveldaja-mcp",
+  "install": "npx -y e-arveldaja-mcp"
+}

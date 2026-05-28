@@ -1,0 +1,7 @@
+{
+  "name": "geiserx-duplicacy",
+  "description": "Monitor Duplicacy backup status and Prometheus metrics via MCP.",
+  "source_repo": "geiserx/duplicacy-mcp",
+  "source_url": "https://github.com/geiserx/duplicacy-mcp",
+  "install": "npx -y duplicacy-mcp"
+}

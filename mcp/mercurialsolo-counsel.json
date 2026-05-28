@@ -1,0 +1,7 @@
+{
+  "name": "mercurialsolo-counsel",
+  "description": "Connects to the Counsel API for strategic reasoning and multi-perspective analysis through debates, question enhancement, and interactive advisor sessions.",
+  "source_repo": "mercurialsolo/counsel-mcp",
+  "source_url": "https://github.com/mercurialsolo/counsel-mcp",
+  "install": "npx -y counsel-mcp"
+}

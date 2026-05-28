@@ -1,0 +1,7 @@
+{
+  "name": "shield",
+  "description": "Protect digital identities and infrastructure by scanning for data breaches, malicious URLs, and compromised credentials. Secure interactions by detecting prompt injection attacks and evaluating plugin supply chain risks. Monitor the reputation of domains, IPs, and email addresses to defend against",
+  "source_repo": "",
+  "source_url": "https://shield.vainplex.dev",
+  "install": "# git clone --depth 1 https://shield.vainplex.dev\n# See source for mcpServers config block"
+}

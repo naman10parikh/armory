@@ -1,0 +1,7 @@
+{
+  "name": "pictomancer",
+  "description": "Processes images in under 50ms with resize, convert, compress, crop, and pipeline operations via REST API and x402 micropayments.",
+  "source_repo": "",
+  "source_url": "https://pictomancer.ai",
+  "install": "# git clone --depth 1 https://pictomancer.ai\n# See source for mcpServers config block"
+}

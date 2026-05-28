@@ -1,0 +1,7 @@
+{
+  "name": "jakedahn-deno-playwright",
+  "description": "Integrates with Playwright and Deno to enable browser automation for web navigation, interaction, and data extraction tasks.",
+  "source_repo": "jakedahn/deno2-playwright-mcp-server",
+  "source_url": "https://github.com/jakedahn/deno2-playwright-mcp-server",
+  "install": "npx -y deno2-playwright-mcp-server"
+}

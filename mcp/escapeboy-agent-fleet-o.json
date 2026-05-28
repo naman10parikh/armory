@@ -1,0 +1,7 @@
+{
+  "name": "escapeboy-agent-fleet-o",
+  "description": "AI Agent Mission Control with 200+ MCP tools. Manage agents, experiments, workflows, crews, skills, and more via stdio + HTTP/SSE. Self-hosted, open-source (AGPL-3.0). Remote server: `https://fleetq.net/mcp`",
+  "source_repo": "escapeboy/agent-fleet-o",
+  "source_url": "https://github.com/escapeboy/agent-fleet-o",
+  "install": "# git clone --depth 1 https://github.com/escapeboy/agent-fleet-o\n# See source for mcpServers config block"
+}

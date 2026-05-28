@@ -1,0 +1,7 @@
+{
+  "name": "kruschdev-pg-git-semantic-memory",
+  "description": "PostgreSQL-backed semantic Git storage for AI coding agents with pgvector embeddings, local Ollama models, and temporal decay scoring.",
+  "source_repo": "kruschdev/pg-git-mcp",
+  "source_url": "https://github.com/kruschdev/pg-git-mcp",
+  "install": "npx -y pg-git-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pwalker-mcp",
+  "description": "Pwalker Mcp MCP server listed on mcp.so.",
+  "source_repo": "pauldw/pwalker-mcp",
+  "source_url": "https://mcp.so/server/pwalker-mcp/pauldw",
+  "install": "npx -y pwalker-mcp"
+}

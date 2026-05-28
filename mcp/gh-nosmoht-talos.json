@@ -1,0 +1,7 @@
+{
+  "name": "gh-nosmoht-talos",
+  "description": "Manages Talos Linux clusters via native gRPC API with read-only and mutating tools plus RBAC support.",
+  "source_repo": "nosmoht/talos-mcp-server",
+  "source_url": "https://github.com/nosmoht/talos-mcp-server",
+  "install": "npx -y talos-mcp-server"
+}

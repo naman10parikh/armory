@@ -1,0 +1,7 @@
+{
+  "name": "apstra-mcp-server",
+  "description": "Enables natural language management of Juniper Apstra datacenter networks, including blueprints, virtual networks, connectivity templates, and deployment.",
+  "source_repo": "vignitin/apstra-mcp-server",
+  "source_url": "https://github.com/vignitin/apstra-mcp-server",
+  "install": "npx -y apstra-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-server-2",
+  "description": "Enables GitHub API integration via MCP, allowing search, repository details, file contents, and issue management.",
+  "source_repo": "mdabdullahfaruque/github-mcp-server",
+  "source_url": "https://github.com/mdabdullahfaruque/github-mcp-server",
+  "install": "npx -y github-mcp-server"
+}

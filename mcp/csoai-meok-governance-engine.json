@@ -1,0 +1,7 @@
+{
+  "name": "csoai-meok-governance-engine",
+  "description": "Orchestrate 13 AI governance frameworks (EU AI Act, NIST AI RMF, ISO 42001, GDPR, SOC 2) with 62 compliance tools, crosswalk mapping, and signed audit receipts.",
+  "source_repo": "csoai-org/meok-governance-engine-mcp",
+  "source_url": "https://github.com/csoai-org/meok-governance-engine-mcp",
+  "install": "npx -y meok-governance-engine-mcp"
+}

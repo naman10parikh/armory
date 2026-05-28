@@ -1,0 +1,7 @@
+{
+  "name": "devrelopers-shell",
+  "description": "Scoped shell access MCP server with allowlist-based command control and TOML-configured safety rules.",
+  "source_repo": "devrelopers/shell-mcp",
+  "source_url": "https://github.com/devrelopers/shell-mcp",
+  "install": "npx -y shell-mcp"
+}

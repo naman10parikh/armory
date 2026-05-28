@@ -1,0 +1,7 @@
+{
+  "name": "refined-element-lightning-enable",
+  "description": "Enable AI agents to make Lightning Network payments, access L402 APIs, and manage Bitcoin wallets.",
+  "source_repo": "refined-element/lightning-enable-mcp",
+  "source_url": "https://github.com/refined-element/lightning-enable-mcp",
+  "install": "npx -y lightning-enable-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wire-chocolate-recipes",
+  "description": "Search 146 vintage chocolate recipes from 1914: cakes, candies, mousses, beverages",
+  "source_repo": "",
+  "source_url": "https://usewire.io/explore/chocolate-recipes",
+  "install": "# git clone --depth 1 https://usewire.io/explore/chocolate-recipes\n# See source for mcpServers config block"
+}

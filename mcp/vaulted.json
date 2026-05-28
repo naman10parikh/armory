@@ -1,0 +1,7 @@
+{
+  "name": "vaulted",
+  "description": "MCP server for creating encrypted, self-destructing secret links to share sensitive values without exposing them to AI context.",
+  "source_repo": "vaulted-fyi/vaulted-mcp-server",
+  "source_url": "https://github.com/vaulted-fyi/vaulted-mcp-server",
+  "install": "npx -y vaulted-mcp-server"
+}

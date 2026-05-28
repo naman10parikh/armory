@@ -1,0 +1,7 @@
+{
+  "name": "joepangallo-agentpay",
+  "description": "Payment gateway for AI agents with tool discovery, provisioning, and billing.",
+  "source_repo": "joepangallo/mcp-server-agentpay",
+  "source_url": "https://github.com/joepangallo/mcp-server-agentpay",
+  "install": "# git clone --depth 1 https://github.com/joepangallo/mcp-server-agentpay\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repo-analyzer-mcp",
+  "description": "Repo Analyzer Mcp MCP server listed on mcp.so.",
+  "source_repo": "DocNR/repo-analyzer-mcp",
+  "source_url": "https://mcp.so/server/repo-analyzer-mcp/DocNR",
+  "install": "npx -y repo-analyzer-mcp"
+}

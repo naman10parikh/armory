@@ -1,0 +1,7 @@
+{
+  "name": "rupeebw-security-scanner",
+  "description": "Performs comprehensive security analysis of code repositories by detecting exposed secrets, vulnerabilities, dependency issues, and configuration problems using regex patterns and vulnerability detection algorithms.",
+  "source_repo": "rupeedev/security-scanner-mcp",
+  "source_url": "https://github.com/rupeedev/security-scanner-mcp",
+  "install": "npx -y security-scanner-mcp"
+}

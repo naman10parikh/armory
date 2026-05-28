@@ -1,0 +1,7 @@
+{
+  "name": "cleanshot-mcp",
+  "description": "Enables AI assistants to control CleanShot X for screenshots, recordings, OCR, and annotations via natural language commands.",
+  "source_repo": "jdorfman/cleanshot-mcp",
+  "source_url": "https://github.com/jdorfman/cleanshot-mcp",
+  "install": "npx -y cleanshot-mcp"
+}

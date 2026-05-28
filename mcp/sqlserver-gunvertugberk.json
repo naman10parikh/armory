@@ -1,0 +1,7 @@
+{
+  "name": "sqlserver-gunvertugberk",
+  "description": "Connects to Microsoft SQL Server with 38 tools for schema discovery, querying, performance diagnostics, and DBA utilities.",
+  "source_repo": "gunvertugberk/mcp-sqlserver",
+  "source_url": "https://github.com/gunvertugberk/mcp-sqlserver",
+  "install": "# git clone --depth 1 https://github.com/gunvertugberk/mcp-sqlserver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "drboria-md-todo",
+  "description": "Task management and approval workflows with 6 tools for creating, managing, approving, and delegating todo items.",
+  "source_repo": "drboria/md-todo-mcp",
+  "source_url": "https://github.com/drboria/md-todo-mcp",
+  "install": "npx -y md-todo-mcp"
+}

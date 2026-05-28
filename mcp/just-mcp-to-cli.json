@@ -1,0 +1,7 @@
+{
+  "name": "just-mcp-to-cli",
+  "description": "MCP client library that converts MCP server tools into native bash CLI commands compatible with just-bash.",
+  "source_repo": "intentface/just-mcp-to-cli",
+  "source_url": "https://github.com/intentface/just-mcp-to-cli",
+  "install": "# git clone --depth 1 https://github.com/intentface/just-mcp-to-cli\n# See source for mcpServers config block"
+}

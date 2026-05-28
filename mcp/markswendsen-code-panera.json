@@ -1,0 +1,7 @@
+{
+  "name": "markswendsen-code-panera",
+  "description": "Automates Panera Bread ordering through browser automation for menu browsing, order customization, and pickup checkout.",
+  "source_repo": "markswendsen-code/mcp-panera",
+  "source_url": "https://github.com/markswendsen-code/mcp-panera",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-panera\n# See source for mcpServers config block"
+}

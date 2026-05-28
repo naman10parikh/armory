@@ -1,0 +1,7 @@
+{
+  "name": "point-mcp-server",
+  "description": "MCP server for the Point Knowledge API that enables AI coding assistants to search and retrieve curated technical documentation (RFCs, framework docs, etc.) with hybrid search and precise citations.",
+  "source_repo": "mcdonaldsam/point-mcp",
+  "source_url": "https://github.com/mcdonaldsam/point-mcp",
+  "install": "npx -y point-mcp"
+}

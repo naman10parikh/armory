@@ -1,0 +1,7 @@
+{
+  "name": "max-rousseau-codeforge",
+  "description": "Self-hosted MCP server that executes TypeScript code in a Deno sandbox for AI agents to call authenticated REST APIs.",
+  "source_repo": "max-rousseau/codeforge-mcp",
+  "source_url": "https://github.com/max-rousseau/codeforge-mcp",
+  "install": "npx -y codeforge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seunghan91-korea-law",
+  "description": "Korean law, ordinance, and court precedent search using hybrid BM25+vector retrieval.",
+  "source_repo": "seunghan91/korea-law-mcp-public",
+  "source_url": "https://github.com/seunghan91/korea-law-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/seunghan91/korea-law-mcp-public\n# See source for mcpServers config block"
+}

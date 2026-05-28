@@ -1,0 +1,7 @@
+{
+  "name": "szhygulin-vaultpilot",
+  "description": "Self-custodial crypto portfolio management across EVM chains with Ledger signing via WalletConnect.",
+  "source_repo": "szhygulin/vaultpilot-mcp",
+  "source_url": "https://github.com/szhygulin/vaultpilot-mcp",
+  "install": "npx -y vaultpilot-mcp"
+}

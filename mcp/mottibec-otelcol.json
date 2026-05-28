@@ -1,0 +1,7 @@
+{
+  "name": "mottibec-otelcol",
+  "description": "Provides a configuration interface for OpenTelemetry Collectors, enabling dynamic management of telemetry components with complete schema definitions for receivers, processors, and exporters.",
+  "source_repo": "mottibec/otelcol-mcp",
+  "source_url": "https://github.com/mottibec/otelcol-mcp",
+  "install": "npx -y otelcol-mcp"
+}

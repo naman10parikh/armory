@@ -1,0 +1,7 @@
+{
+  "name": "serverless-dna-mkdocs",
+  "description": "Enables AI to search and retrieve content from MkDocs documentation sites by leveraging existing Lunr.js indexes and converting HTML to markdown for seamless integration.",
+  "source_repo": "serverless-dna/mkdocs-mcp",
+  "source_url": "https://github.com/serverless-dna/mkdocs-mcp",
+  "install": "npx -y mkdocs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mitchhankins01-oura-ring",
+  "description": "Connect your Oura Ring to AI assistants for human-readable health insights with smart analysis tools.",
+  "source_repo": "mitchhankins01/oura-ring-mcp",
+  "source_url": "https://github.com/mitchhankins01/oura-ring-mcp",
+  "install": "npx -y oura-ring-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aoutpost2-getoutpost",
+  "description": "Access real-time Indian options market data and volatility analytics",
+  "source_repo": "aoutpost2-rgb/getoutpost-mcp-server",
+  "source_url": "https://github.com/aoutpost2-rgb/getoutpost-mcp-server",
+  "install": "npx -y getoutpost-mcp-server"
+}

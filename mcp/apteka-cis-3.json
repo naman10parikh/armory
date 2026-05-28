@@ -1,0 +1,7 @@
+{
+  "name": "apteka-cis-3",
+  "description": "CIS pharmacy aggregator — search medicines, compare prices, and find pharmacies across Kazakhstan, Belarus, Kyrgyzstan, Russia, Ukraine, Georgia, Armenia, and Azerbaijan.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/apteka-health/apteka-cis",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/apteka-health/apteka-cis\n# See source for mcpServers config block"
+}

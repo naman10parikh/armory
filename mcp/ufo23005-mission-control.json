@@ -1,0 +1,7 @@
+{
+  "name": "ufo23005-mission-control",
+  "description": "Enables task automation and validation through iterative workflows with configurable success criteria, attempt tracking, and intelligent feedback generation",
+  "source_repo": "ufo23005/mission-control-mcp",
+  "source_url": "https://github.com/ufo23005/mission-control-mcp",
+  "install": "npx -y mission-control-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zafronix-wc-mcp",
+  "description": "Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.",
+  "source_repo": "zafronix/wc-mcp",
+  "source_url": "https://github.com/zafronix/wc-mcp",
+  "install": "npx -y wc-mcp"
+}

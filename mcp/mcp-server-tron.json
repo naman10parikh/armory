@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-tron",
+  "description": "A comprehensive MCP server that enables AI agents to interact with the TRON blockchain, including tools for blockchain data, token transfers, smart contracts, staking, and wallet management.",
+  "source_repo": "BofAI/mcp-server-tron",
+  "source_url": "https://github.com/BofAI/mcp-server-tron",
+  "install": "# git clone --depth 1 https://github.com/BofAI/mcp-server-tron\n# See source for mcpServers config block"
+}

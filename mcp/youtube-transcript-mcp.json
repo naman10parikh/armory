@@ -1,0 +1,7 @@
+{
+  "name": "youtube-transcript-mcp",
+  "description": "The first remote MCP server that enables Claude AI to extract transcripts from YouTube videos with zero-setup access on any platform, including mobile.",
+  "source_repo": "ergut/youtube-transcript-mcp",
+  "source_url": "https://github.com/ergut/youtube-transcript-mcp",
+  "install": "npx -y youtube-transcript-mcp"
+}

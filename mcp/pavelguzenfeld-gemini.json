@@ -1,0 +1,7 @@
+{
+  "name": "pavelguzenfeld-gemini",
+  "description": "Exposes Google Gemini as tools for Claude Code with multi-turn chat, code analysis, and model selection.",
+  "source_repo": "pavelguzenfeld/gemini-mcp",
+  "source_url": "https://github.com/pavelguzenfeld/gemini-mcp",
+  "install": "npx -y gemini-mcp"
+}

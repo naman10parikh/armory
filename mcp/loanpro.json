@@ -1,0 +1,7 @@
+{
+  "name": "loanpro",
+  "description": "Integrates with the LoanPro lending platform API to access loan management data, customer information, payment history, and loan portfolio details for financial services workflows.",
+  "source_repo": "milocreditplatform/loanpro-mcp-server",
+  "source_url": "https://github.com/milocreditplatform/loanpro-mcp-server",
+  "install": "npx -y loanpro-mcp-server"
+}

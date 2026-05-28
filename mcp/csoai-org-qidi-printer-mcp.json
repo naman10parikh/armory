@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-qidi-printer-mcp",
+  "description": "Python MCP server for Qidi 3D printer control and management tools.",
+  "source_repo": "csoai-org/qidi-printer-mcp",
+  "source_url": "https://github.com/csoai-org/qidi-printer-mcp",
+  "install": "npx -y qidi-printer-mcp"
+}

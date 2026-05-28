@@ -1,0 +1,7 @@
+{
+  "name": "bradleylab-stella-mcp",
+  "description": "Create, read, validate, and save Stella system dynamics models (.stmx files in XMILE format) for scientific simulation and modeling.",
+  "source_repo": "bradleylab/stella-mcp",
+  "source_url": "https://github.com/bradleylab/stella-mcp",
+  "install": "npx -y stella-mcp"
+}

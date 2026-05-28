@@ -1,0 +1,7 @@
+{
+  "name": "moooonad-google-sheets",
+  "description": "Full Google Sheets integration with 26 tools, OAuth-based user authentication, and a script escape hatch.",
+  "source_repo": "moooonad/mcp-google-sheets-full",
+  "source_url": "https://github.com/moooonad/mcp-google-sheets-full",
+  "install": "# git clone --depth 1 https://github.com/moooonad/mcp-google-sheets-full\n# See source for mcpServers config block"
+}

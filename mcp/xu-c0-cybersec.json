@@ -1,0 +1,7 @@
+{
+  "name": "xu-c0-cybersec",
+  "description": "323 cybersecurity prompts and 7 workflows covering red team, blue team, SOC, cloud security, and OSINT operations.",
+  "source_repo": "xu-c0/cybersec-mcp",
+  "source_url": "https://github.com/xu-c0/cybersec-mcp",
+  "install": "npx -y cybersec-mcp"
+}

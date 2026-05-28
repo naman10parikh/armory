@@ -1,0 +1,7 @@
+{
+  "name": "zcsabbagh-knowledge-graph",
+  "description": "Knowledge graph for student learning with spaced repetition scheduling and multi-dimensional mastery tracking.",
+  "source_repo": "zcsabbagh/knowledge-graph-mcp",
+  "source_url": "https://github.com/zcsabbagh/knowledge-graph-mcp",
+  "install": "npx -y knowledge-graph-mcp"
+}

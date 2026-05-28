@@ -1,0 +1,7 @@
+{
+  "name": "vemonet-openroute",
+  "description": "Plan routes for hiking and mountain biking using OpenRouteService API",
+  "source_repo": "vemonet/openroute-mcp",
+  "source_url": "https://github.com/vemonet/openroute-mcp",
+  "install": "npx -y openroute-mcp"
+}

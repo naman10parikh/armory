@@ -1,0 +1,7 @@
+{
+  "name": "klavis-ai-youtube",
+  "description": "Extract and convert YouTube video information.",
+  "source_repo": "Klavis-AI/klavis",
+  "source_url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube",
+  "install": "# git clone --depth 1 https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/youtube\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apple-photos-mcp",
+  "description": "Enables AI assistants to query and export from the macOS Apple Photos library using natural language, backed by osxphotos.",
+  "source_repo": "sweetrb/apple-photos-mcp",
+  "source_url": "https://github.com/sweetrb/apple-photos-mcp",
+  "install": "npx -y apple-photos-mcp"
+}

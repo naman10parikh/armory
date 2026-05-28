@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-mcp",
+  "description": "Enables management of Google Cloud services including BigQuery, Cloud Logging, Cloud Storage, and Compute Engine via MCP tools.",
+  "source_repo": "lockon-n/google-cloud-mcp",
+  "source_url": "https://github.com/lockon-n/google-cloud-mcp",
+  "install": "npx -y google-cloud-mcp"
+}

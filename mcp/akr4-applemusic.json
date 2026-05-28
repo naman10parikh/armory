@@ -1,0 +1,7 @@
+{
+  "name": "akr4-applemusic",
+  "description": "Integrates with Apple Music API to enable song searching and playback link generation for music discovery applications",
+  "source_repo": "akr4/applemusic-mcp-server",
+  "source_url": "https://github.com/akr4/applemusic-mcp-server",
+  "install": "npx -y applemusic-mcp-server"
+}

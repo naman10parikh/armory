@@ -1,0 +1,7 @@
+{
+  "name": "z3-solver-mcp-server",
+  "description": "Enables solving constraint satisfaction problems, mathematical equations, and logic puzzles using the Z3 SMT solver through natural language.",
+  "source_repo": "dsouflis/z3-solver-mcp-server",
+  "source_url": "https://github.com/dsouflis/z3-solver-mcp-server",
+  "install": "npx -y z3-solver-mcp-server"
+}

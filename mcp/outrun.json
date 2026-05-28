@@ -1,0 +1,7 @@
+{
+  "name": "outrun",
+  "description": "Real-time cryptocurrency market data and analysis via Lightning Network micropayments",
+  "source_repo": "jack4000/outrun-mcp",
+  "source_url": "https://github.com/jack4000/outrun-mcp",
+  "install": "npx -y outrun-mcp"
+}

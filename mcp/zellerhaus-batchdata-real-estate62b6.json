@@ -1,0 +1,7 @@
+{
+  "name": "zellerhaus-batchdata-real-estate62b6",
+  "description": "Provides real estate data management through batch processing operations for handling property listings, market analytics, and property management workflows efficiently at scale.",
+  "source_repo": "zellerhaus/batchdata-mcp-real-estate",
+  "source_url": "https://github.com/zellerhaus/batchdata-mcp-real-estate",
+  "install": "# git clone --depth 1 https://github.com/zellerhaus/batchdata-mcp-real-estate\n# See source for mcpServers config block"
+}

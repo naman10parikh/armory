@@ -1,0 +1,7 @@
+{
+  "name": "delmas41-gradusnotation",
+  "description": "Render music notation (SVG + MusicXML + MIDI) from a JSON score, validate input, analyze MusicXML harmonically, and search a curated music-theory knowledge base. Free, no auth. `npx -y @gradusmusic/notation-mcp`",
+  "source_repo": "delmas41/gradusnotation",
+  "source_url": "https://github.com/delmas41/gradusnotation",
+  "install": "# git clone --depth 1 https://github.com/delmas41/gradusnotation\n# See source for mcpServers config block"
+}

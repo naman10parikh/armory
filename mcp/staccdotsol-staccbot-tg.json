@@ -1,0 +1,7 @@
+{
+  "name": "staccdotsol-staccbot-tg",
+  "description": "fomox402 broker + MCP server for last-bidder-wins games on Solana. One URL into Claude/Cursor/Goose/Cline and the agent auto-registers a Solana wallet, gets faucet-funded, and bids autonomously via streamable HTTP at `https://bot.staccpad.fun/mcp`.",
+  "source_repo": "staccDOTsol/staccbot-tg",
+  "source_url": "https://github.com/staccDOTsol/staccbot-tg",
+  "install": "# git clone --depth 1 https://github.com/staccDOTsol/staccbot-tg\n# See source for mcpServers config block"
+}

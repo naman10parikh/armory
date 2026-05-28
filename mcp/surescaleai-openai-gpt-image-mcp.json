@@ -1,0 +1,7 @@
+{
+  "name": "surescaleai-openai-gpt-image-mcp",
+  "description": "OpenAI GPT image generation/editing MCP server.",
+  "source_repo": "SureScaleAI/openai-gpt-image-mcp",
+  "source_url": "https://github.com/SureScaleAI/openai-gpt-image-mcp",
+  "install": "npx -y openai-gpt-image-mcp"
+}

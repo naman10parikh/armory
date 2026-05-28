@@ -1,0 +1,7 @@
+{
+  "name": "penfield-mcp",
+  "description": "Persistent memory and knowledge graphs for AI agents with hybrid search and context checkpoints.",
+  "source_repo": "penfieldlabs/penfield-mcp",
+  "source_url": "https://github.com/penfieldlabs/penfield-mcp",
+  "install": "npx -y penfield-mcp"
+}

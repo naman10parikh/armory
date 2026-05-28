@@ -1,0 +1,7 @@
+{
+  "name": "segfaultsorcerer-heap-seance",
+  "description": "Java memory leak diagnostics via jcmd, jmap, jstat, JFR, Eclipse MAT, and async-profiler with structured confidence-based verdicts. Two-stage escalation model with conservative scan and deep forensics.",
+  "source_repo": "SegfaultSorcerer/heap-seance",
+  "source_url": "https://github.com/SegfaultSorcerer/heap-seance",
+  "install": "# git clone --depth 1 https://github.com/SegfaultSorcerer/heap-seance\n# See source for mcpServers config block"
+}

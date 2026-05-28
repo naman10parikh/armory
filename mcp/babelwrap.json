@@ -1,0 +1,7 @@
+{
+  "name": "babelwrap",
+  "description": "Web browsing capabilities for AI agents via the BabelWrap API.",
+  "source_repo": "babelwrap/babelwrap-mcp",
+  "source_url": "https://github.com/babelwrap/babelwrap-mcp",
+  "install": "npx -y babelwrap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "azure-diagram-mcp-server",
+  "description": "An MCP server that generates professional infrastructure diagrams using the Python diagrams DSL, with first-class Azure support and GitHub Copilot integration for natural language diagram generation.",
+  "source_repo": "Jah-yee/diagrams-mcp-server",
+  "source_url": "https://github.com/Jah-yee/diagrams-mcp-server",
+  "install": "npx -y diagrams-mcp-server"
+}

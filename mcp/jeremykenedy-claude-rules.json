@@ -1,0 +1,7 @@
+{
+  "name": "jeremykenedy-claude-rules",
+  "description": "Reads Claude Code skills and rules from the filesystem and exposes them as queryable MCP tools.",
+  "source_repo": "jeremykenedy/claude-rules-mcp-server",
+  "source_url": "https://github.com/jeremykenedy/claude-rules-mcp-server",
+  "install": "npx -y claude-rules-mcp-server"
+}

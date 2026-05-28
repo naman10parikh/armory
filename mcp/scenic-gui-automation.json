@@ -1,0 +1,7 @@
+{
+  "name": "scenic-gui-automation",
+  "description": "Provides automation and testing capabilities for Scenic Elixir GUI applications through keyboard input simulation, mouse interaction, and real-time connection monitoring via a dual-architecture TCP server and TypeScript interface.",
+  "source_repo": "scenic-contrib/scenic_mcp_experimental",
+  "source_url": "https://github.com/scenic-contrib/scenic_mcp_experimental",
+  "install": "# git clone --depth 1 https://github.com/scenic-contrib/scenic_mcp_experimental\n# See source for mcpServers config block"
+}

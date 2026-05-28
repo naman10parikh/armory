@@ -1,0 +1,7 @@
+{
+  "name": "lemaiwo-sap-odata-btp",
+  "description": "Integrates with SAP OData services on Business Technology Platform to enable CRUD operations on SAP business data through automatically discovered service endpoints with configurable filtering and comprehensive query capabilities.",
+  "source_repo": "lemaiwo/btp-sap-odata-to-mcp-server",
+  "source_url": "https://github.com/lemaiwo/btp-sap-odata-to-mcp-server",
+  "install": "npx -y btp-sap-odata-to-mcp-server"
+}

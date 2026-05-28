@@ -1,0 +1,7 @@
+{
+  "name": "gregkop-sketchfab",
+  "description": "Integrates with Sketchfab to enable searching, viewing details, and downloading 3D models in various formats using an API key for authentication.",
+  "source_repo": "gregkop/sketchfab-mcp-server",
+  "source_url": "https://github.com/gregkop/sketchfab-mcp-server",
+  "install": "npx -y sketchfab-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wopal-chinese-social-media-trends",
+  "description": "Aggregates real-time trending topics from major Chinese social platforms and news sites.",
+  "source_repo": "wopal-cn/mcp-hotnews-server",
+  "source_url": "https://github.com/wopal-cn/mcp-hotnews-server",
+  "install": "# git clone --depth 1 https://github.com/wopal-cn/mcp-hotnews-server\n# See source for mcpServers config block"
+}

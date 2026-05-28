@@ -1,0 +1,7 @@
+{
+  "name": "remoprinz-swiss-health",
+  "description": "Query Swiss health insurance premium data from the BAG Priminfo database covering 2016-2026.",
+  "source_repo": "remoprinz/swiss-health-mcp",
+  "source_url": "https://github.com/remoprinz/swiss-health-mcp",
+  "install": "npx -y swiss-health-mcp"
+}

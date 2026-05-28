@@ -1,0 +1,7 @@
+{
+  "name": "ctvidic-whoop",
+  "description": "Integrates with the Whoop API to retrieve and process fitness data, enabling applications to incorporate health metrics and performance analysis.",
+  "source_repo": "ctvidic/whoop-mcp-server",
+  "source_url": "https://github.com/ctvidic/whoop-mcp-server",
+  "install": "npx -y whoop-mcp-server"
+}

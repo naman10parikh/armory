@@ -1,0 +1,7 @@
+{
+  "name": "supplymaven-risk-intelligence",
+  "description": "Real-time supply chain risk intelligence with composite scoring and early warnings.",
+  "source_repo": "",
+  "source_url": "https://www.supplymaven.com",
+  "install": "# git clone --depth 1 https://www.supplymaven.com\n# See source for mcpServers config block"
+}

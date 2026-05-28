@@ -1,0 +1,7 @@
+{
+  "name": "hivemind",
+  "description": "Collective intelligence, memory storage, and knowledge marketplace for AI agents.",
+  "source_repo": "srotzin/hivemind",
+  "source_url": "https://github.com/srotzin/hivemind",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hivemind\n# See source for mcpServers config block"
+}

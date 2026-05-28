@@ -1,0 +1,7 @@
+{
+  "name": "compress-new-2",
+  "description": "Convert any webpage to clean markdown and feed it directly into AI agent workflows. Why This Matters? Adding webpages to LLM conversations usually means dumping raw HTML, bloated with ads, scripts, and formatting noise. This MCP integrates compress.new into MCP-compatible AI agents to extract only t",
+  "source_repo": "",
+  "source_url": "https://compress.new",
+  "install": "# git clone --depth 1 https://compress.new\n# See source for mcpServers config block"
+}

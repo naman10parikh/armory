@@ -1,0 +1,7 @@
+{
+  "name": "dolfin",
+  "description": "Connect AI agents to Dolfin's sales compensation platform for commission calculations, payout transparency, and CRM integrations with Salesforce, HubSpot, and Pipedrive.",
+  "source_repo": "",
+  "source_url": "https://app.heydolfin.com/mcp",
+  "install": "# git clone --depth 1 https://app.heydolfin.com/mcp\n# See source for mcpServers config block"
+}

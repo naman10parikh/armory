@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [ruby-coding-style, ruby-patterns]
-tags: [ecc, rules, ruby]
+tags: [rules, ruby]
 ---
 ## What it is
 ruby rule: apply when working on ruby and you need Ruby Hooks.

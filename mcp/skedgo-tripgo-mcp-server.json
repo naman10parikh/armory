@@ -1,0 +1,7 @@
+{
+  "name": "skedgo-tripgo-mcp-server",
+  "description": "Provides tools from the TripGo API for multi-modal trip planning, transport locations, and public transport departures, including real-time information.",
+  "source_repo": "skedgo/tripgo-mcp-server",
+  "source_url": "https://github.com/skedgo/tripgo-mcp-server",
+  "install": "npx -y tripgo-mcp-server"
+}

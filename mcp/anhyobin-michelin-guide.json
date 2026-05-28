@@ -1,0 +1,7 @@
+{
+  "name": "anhyobin-michelin-guide",
+  "description": "Search 18,900+ Michelin Guide restaurants worldwide with multi-criteria filtering and SQLite FTS5.",
+  "source_repo": "anhyobin/michelin-guide-mcp",
+  "source_url": "https://github.com/anhyobin/michelin-guide-mcp",
+  "install": "npx -y michelin-guide-mcp"
+}

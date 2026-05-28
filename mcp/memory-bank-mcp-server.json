@@ -1,0 +1,7 @@
+{
+  "name": "memory-bank-mcp-server",
+  "description": "Memory Bank Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "t3ta/memory-bank-mcp-server",
+  "source_url": "https://mcp.so/server/memory-bank-mcp-server/t3ta",
+  "install": "npx -y memory-bank-mcp-server"
+}

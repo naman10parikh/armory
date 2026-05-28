@@ -1,0 +1,7 @@
+{
+  "name": "espressif-esp-rainmaker-mcp",
+  "description": "Official Espressif MCP Server to manage and control ESP RainMaker Devices.",
+  "source_repo": "espressif/esp-rainmaker-mcp",
+  "source_url": "https://github.com/espressif/esp-rainmaker-mcp",
+  "install": "npx -y esp-rainmaker-mcp"
+}

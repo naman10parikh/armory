@@ -1,0 +1,7 @@
+{
+  "name": "organicmoron-super-productivity",
+  "description": "Bridges Super Productivity task management with natural language commands, automatically converting conversational scheduling syntax like 'tomorrow' or 'next Friday' into Super Productivity's format while enabling task creation, project assignments, and batch operations through file-based communication.",
+  "source_repo": "organicmoron/sp-mcp",
+  "source_url": "https://github.com/organicmoron/sp-mcp",
+  "install": "npx -y sp-mcp"
+}

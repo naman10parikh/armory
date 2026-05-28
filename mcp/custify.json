@@ -1,0 +1,7 @@
+{
+  "name": "custify",
+  "description": "Connects to Custify for account management, health scores, and customer success workflows.",
+  "source_repo": "custifyofficial/custify-mcp",
+  "source_url": "https://github.com/custifyofficial/custify-mcp",
+  "install": "npx -y custify-mcp"
+}

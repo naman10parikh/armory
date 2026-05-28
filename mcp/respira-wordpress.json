@@ -1,0 +1,7 @@
+{
+  "name": "respira-wordpress",
+  "description": "WordPress MCP with native page-builder editing for 11 builders, full-page creation, and WooCommerce tools.",
+  "source_repo": "",
+  "source_url": "https://www.respira.press/mcp",
+  "install": "# git clone --depth 1 https://www.respira.press/mcp\n# See source for mcpServers config block"
+}

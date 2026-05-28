@@ -1,0 +1,7 @@
+{
+  "name": "joyooosama-x-ways-forensics",
+  "description": "Integrates X-Ways Forensics 20.0 with AI clients via 32 tools, 10 resources, and 5 prompts for case management, evidence analysis, and automated forensic workflows.",
+  "source_repo": "joyooosama/x-ways-forensics-mcp",
+  "source_url": "https://github.com/joyooosama/x-ways-forensics-mcp",
+  "install": "npx -y x-ways-forensics-mcp"
+}

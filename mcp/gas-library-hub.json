@@ -1,0 +1,7 @@
+{
+  "name": "gas-library-hub",
+  "description": "Search and discover Google Apps Script libraries with AI-generated summaries",
+  "source_repo": "wywy-llc/gas-library-hub",
+  "source_url": "https://github.com/wywy-llc/gas-library-hub",
+  "install": "# git clone --depth 1 https://github.com/wywy-llc/gas-library-hub\n# See source for mcpServers config block"
+}

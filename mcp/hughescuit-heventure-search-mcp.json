@@ -1,0 +1,7 @@
+{
+  "name": "hughescuit-heventure-search-mcp",
+  "description": "Free MCP web search server with 5 engines (DuckDuckGo, Bing, Google SerpAPI, Tavily). No API key required. Auto rate limiting, 300s cache, multi-language support. Install: `uvx heventure-search-mcp`.",
+  "source_repo": "HughesCuit/heventure-search-mcp",
+  "source_url": "https://github.com/HughesCuit/heventure-search-mcp",
+  "install": "npx -y heventure-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-rijksmuseum",
+  "description": "Integrates with the Rijksmuseum API to enable artwork search, detailed information retrieval, and high-resolution image access for art research and cultural exploration.",
+  "source_repo": "r-huijts/rijksmuseum-mcp",
+  "source_url": "https://github.com/r-huijts/rijksmuseum-mcp",
+  "install": "npx -y rijksmuseum-mcp"
+}

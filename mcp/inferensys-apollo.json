@@ -1,0 +1,7 @@
+{
+  "name": "inferensys-apollo",
+  "description": "Connect AI coding assistants to Apollo.io for lead search, contact enrichment, CRM operations, and outreach sequences.",
+  "source_repo": "inferensys/apollo-io-mcp",
+  "source_url": "https://github.com/inferensys/apollo-io-mcp",
+  "install": "npx -y apollo-io-mcp"
+}

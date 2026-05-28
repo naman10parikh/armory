@@ -1,0 +1,7 @@
+{
+  "name": "sonicbotman-wiki-kb",
+  "description": "AI-maintained markdown knowledge base with a dual-layer Compiled Truth and Timeline design for tracking knowledge changes and sources.",
+  "source_repo": "sonicbotman/wiki-kb",
+  "source_url": "https://github.com/sonicbotman/wiki-kb",
+  "install": "# git clone --depth 1 https://github.com/sonicbotman/wiki-kb\n# See source for mcpServers config block"
+}

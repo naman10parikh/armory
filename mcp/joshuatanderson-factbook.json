@@ -1,0 +1,7 @@
+{
+  "name": "joshuatanderson-factbook",
+  "description": "Fetch information about a country from the CIA World Factbook",
+  "source_repo": "joshuatanderson/factbook-mcp",
+  "source_url": "https://github.com/joshuatanderson/factbook-mcp",
+  "install": "npx -y factbook-mcp"
+}

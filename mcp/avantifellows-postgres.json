@@ -1,0 +1,7 @@
+{
+  "name": "avantifellows-postgres",
+  "description": "Read-only PostgreSQL database server with six tools for secure data exploration including queries, schema inspection, and cross-table search",
+  "source_repo": "avantifellows/mcp-postgres",
+  "source_url": "https://github.com/avantifellows/mcp-postgres",
+  "install": "# git clone --depth 1 https://github.com/avantifellows/mcp-postgres\n# See source for mcpServers config block"
+}

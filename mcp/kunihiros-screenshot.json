@@ -1,0 +1,7 @@
+{
+  "name": "kunihiros-screenshot",
+  "description": "Capture website screenshots and save them to a file path specified by the user.",
+  "source_repo": "kunihiros/screenshot-server",
+  "source_url": "https://github.com/kunihiros/screenshot-server",
+  "install": "# git clone --depth 1 https://github.com/kunihiros/screenshot-server\n# See source for mcpServers config block"
+}

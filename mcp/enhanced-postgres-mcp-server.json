@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-postgres-mcp-server",
+  "description": "Enhanced Postgres Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "GarethCott/enhanced-postgres-mcp-server",
+  "source_url": "https://mcp.so/server/enhanced-postgres-mcp-server/GarethCott",
+  "install": "npx -y enhanced-postgres-mcp-server"
+}

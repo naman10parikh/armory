@@ -1,0 +1,7 @@
+{
+  "name": "davlgd-clever-cloud",
+  "description": "Integrates with Clever Cloud's tools and services to enable application deployment, environment management, and resource monitoring.",
+  "source_repo": "davlgd/mcp-clever-demo",
+  "source_url": "https://github.com/davlgd/mcp-clever-demo",
+  "install": "# git clone --depth 1 https://github.com/davlgd/mcp-clever-demo\n# See source for mcpServers config block"
+}

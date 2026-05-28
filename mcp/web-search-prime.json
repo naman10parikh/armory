@@ -1,0 +1,7 @@
+{
+  "name": "web-search-prime",
+  "description": "Web Search MCP Server - Z.AI search capability implementation based on the Model Context Protocol (MCP), providing powerful Z.AI search capabilities for MCP-compatible clients such as Claude Code and Cline, including web search, real-time information retrieval, and other features.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/web/web-search-prime.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/web/web-search-prime.json\n# See source for mcpServers config block"
+}

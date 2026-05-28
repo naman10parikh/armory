@@ -1,0 +1,7 @@
+{
+  "name": "athapong-all-in-one",
+  "description": "Integrates GitLab, Jira, Confluence, YouTube, and Google AI to provide search capabilities and utility tools for streamlined development workflows and project management tasks.",
+  "source_repo": "athapong/aio-mcp",
+  "source_url": "https://github.com/athapong/aio-mcp",
+  "install": "npx -y aio-mcp"
+}

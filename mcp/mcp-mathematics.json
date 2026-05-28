@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mathematics",
+  "description": "A comprehensive MCP server that turns any AI assistant into a powerful mathematical computation engine, providing 52 advanced functions, 158 unit conversions, financial calculations, and secure AST-based evaluation.",
+  "source_repo": "SHSharkar/MCP-Mathematics",
+  "source_url": "https://github.com/SHSharkar/MCP-Mathematics",
+  "install": "# git clone --depth 1 https://github.com/SHSharkar/MCP-Mathematics\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tecton-ai",
+  "description": "Integrates with Tecton clusters to enable feature store management, workspace listing, and configuration retrieval for data scientists and engineers.",
+  "source_repo": "tecton-ai/tecton-mcp",
+  "source_url": "https://github.com/tecton-ai/tecton-mcp",
+  "install": "npx -y tecton-mcp"
+}

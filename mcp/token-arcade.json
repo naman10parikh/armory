@@ -1,0 +1,7 @@
+{
+  "name": "token-arcade",
+  "description": "Games designed for AI agents, each running within a single context window.",
+  "source_repo": "",
+  "source_url": "https://tokenarcade.ai/mcp/",
+  "install": "# git clone --depth 1 https://tokenarcade.ai/mcp/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "armor-crypto",
+  "description": "Multi-blockchain cryptocurrency portfolio management with 30+ tools for trading, DCA, staking, and cross-chain operations",
+  "source_repo": "perfectdev10/armor-crypto",
+  "source_url": "https://github.com/perfectdev10/armor-crypto",
+  "install": "# git clone --depth 1 https://github.com/perfectdev10/armor-crypto\n# See source for mcpServers config block"
+}

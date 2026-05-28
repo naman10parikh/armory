@@ -1,0 +1,7 @@
+{
+  "name": "junct-coinbase",
+  "description": "Auto-generated MCP server for Coinbase exchange API data and trading operations.",
+  "source_repo": "",
+  "source_url": "https://coinbase.mcp.junct.dev/mcp",
+  "install": "# git clone --depth 1 https://coinbase.mcp.junct.dev/mcp\n# See source for mcpServers config block"
+}

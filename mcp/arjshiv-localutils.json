@@ -1,0 +1,7 @@
+{
+  "name": "arjshiv-localutils",
+  "description": "Provides access to system utilities for retrieving local information including time, hostname, IP address, directory listings, Node.js version, and port process checks",
+  "source_repo": "arjshiv/localutils-mcp-server",
+  "source_url": "https://github.com/arjshiv/localutils-mcp-server",
+  "install": "npx -y localutils-mcp-server"
+}

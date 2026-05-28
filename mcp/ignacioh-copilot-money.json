@@ -1,0 +1,7 @@
+{
+  "name": "ignacioh-copilot-money",
+  "description": "Query and manage Copilot Money personal finance data including accounts, transactions, and budgets.",
+  "source_repo": "ignaciohermosillacornejo/copilot-money-mcp",
+  "source_url": "https://github.com/ignaciohermosillacornejo/copilot-money-mcp",
+  "install": "npx -y copilot-money-mcp"
+}

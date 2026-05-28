@@ -1,0 +1,7 @@
+{
+  "name": "society-elizaos-connector-mcp",
+  "description": "Integrates ElizaOS agents with Cursor IDE, allowing users to list, select, and chat with agents via MCP tools.",
+  "source_repo": "wearesociety/elizaos_mcp",
+  "source_url": "https://github.com/wearesociety/elizaos_mcp",
+  "install": "npx -y elizaos_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xytara",
+  "description": "Machine-native execution, payment, and delivery infrastructure accessible through MCP for AI agents and automated workflows.",
+  "source_repo": "",
+  "source_url": "https://naxytra.com/xytara",
+  "install": "# git clone --depth 1 https://naxytra.com/xytara\n# See source for mcpServers config block"
+}

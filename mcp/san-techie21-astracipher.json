@@ -1,0 +1,7 @@
+{
+  "name": "san-techie21-astracipher",
+  "description": "Encryption and decryption tools for AI agents with multiple cipher algorithm support.",
+  "source_repo": "san-techie21/astracipher",
+  "source_url": "https://github.com/san-techie21/astracipher",
+  "install": "# git clone --depth 1 https://github.com/san-techie21/astracipher\n# See source for mcpServers config block"
+}

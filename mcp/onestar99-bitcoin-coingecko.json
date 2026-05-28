@@ -1,0 +1,7 @@
+{
+  "name": "onestar99-bitcoin-coingecko",
+  "description": "Provides a bridge to the CoinGecko API for fetching real-time and historical Bitcoin price data in various currencies, enabling financial analysis and cryptocurrency tracking",
+  "source_repo": "onestar99/mcp-spring-test",
+  "source_url": "https://github.com/onestar99/mcp-spring-test",
+  "install": "# git clone --depth 1 https://github.com/onestar99/mcp-spring-test\n# See source for mcpServers config block"
+}

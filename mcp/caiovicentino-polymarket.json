@@ -1,0 +1,7 @@
+{
+  "name": "caiovicentino-polymarket",
+  "description": "Prediction market trading with 38 tools for orders, market analysis, and portfolio management with safety controls",
+  "source_repo": "caiovicentino/polymarket-mcp-server",
+  "source_url": "https://github.com/caiovicentino/polymarket-mcp-server",
+  "install": "npx -y polymarket-mcp-server"
+}

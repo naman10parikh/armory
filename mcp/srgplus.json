@@ -1,0 +1,7 @@
+{
+  "name": "srgplus",
+  "description": "Manage SRG+ hubs, channels, content, assets, users, and workspaces from any MCP-aware AI agent.",
+  "source_repo": "srgplus/srgplus-mcp",
+  "source_url": "https://github.com/srgplus/srgplus-mcp",
+  "install": "npx -y srgplus-mcp"
+}

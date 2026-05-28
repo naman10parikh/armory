@@ -1,0 +1,7 @@
+{
+  "name": "gradusnikov-pubmed-search",
+  "description": "Integrates with PubMed database via NCBI E-utilities API to search and retrieve academic papers, including titles, authors, journals, abstracts, and DOIs for biomedical research.",
+  "source_repo": "gradusnikov/pubmed-search-mcp-server",
+  "source_url": "https://github.com/gradusnikov/pubmed-search-mcp-server",
+  "install": "npx -y pubmed-search-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shopify-catalog",
+  "description": "Integrates with Shopify's merchant ecosystem to enable native shopping experiences through product search, cart management, and checkout functionality across hundreds of millions of products with compliance-ready infrastructure for GDPR, CCPA, and PCI DSS requirements.",
+  "source_repo": "",
+  "source_url": "https://shopify.dev/docs/agents",
+  "install": "# git clone --depth 1 https://shopify.dev/docs/agents\n# See source for mcpServers config block"
+}

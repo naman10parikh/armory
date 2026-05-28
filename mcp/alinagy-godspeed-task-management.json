@@ -1,0 +1,7 @@
+{
+  "name": "alinagy-godspeed-task-management",
+  "description": "Integrates with Godspeed Task Management API to enable listing, creating, updating, and deleting tasks directly from development environments without context switching.",
+  "source_repo": "alinagy/godspeed-mcp",
+  "source_url": "https://github.com/alinagy/godspeed-mcp",
+  "install": "npx -y godspeed-mcp"
+}

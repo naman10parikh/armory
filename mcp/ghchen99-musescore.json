@@ -1,0 +1,7 @@
+{
+  "name": "ghchen99-musescore",
+  "description": "Provides control of MuseScore music notation software through WebSocket communication, enabling composition, editing, and analysis of musical scores with note insertion, cursor navigation, tuplet creation, lyrics addition, and time signature modifications.",
+  "source_repo": "ghchen99/mcp-musescore",
+  "source_url": "https://github.com/ghchen99/mcp-musescore",
+  "install": "# git clone --depth 1 https://github.com/ghchen99/mcp-musescore\n# See source for mcpServers config block"
+}

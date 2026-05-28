@@ -1,0 +1,7 @@
+{
+  "name": "elementfm-mcp",
+  "description": "Open source podcast hosting platform",
+  "source_repo": "",
+  "source_url": "https://gitlab.com/elementfm/mcp",
+  "install": "# git clone --depth 1 https://gitlab.com/elementfm/mcp\n# See source for mcpServers config block"
+}

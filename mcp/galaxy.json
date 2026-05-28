@@ -1,0 +1,7 @@
+{
+  "name": "galaxy",
+  "description": "Connect to the Galaxy bioinformatics platform to execute tools and manage workflows.",
+  "source_repo": "galaxyproject/galaxy-mcp",
+  "source_url": "https://github.com/galaxyproject/galaxy-mcp",
+  "install": "npx -y galaxy-mcp"
+}

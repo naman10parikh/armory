@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-flakiness-knowledge-graph",
+  "description": "Builds a flakiness knowledge graph from test run history using a Playwright reporter and SQLite.",
+  "source_repo": "vola-trebla/flakiness-knowledge-graph-mcp",
+  "source_url": "https://github.com/vola-trebla/flakiness-knowledge-graph-mcp",
+  "install": "npx -y flakiness-knowledge-graph-mcp"
+}

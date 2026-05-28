@@ -1,0 +1,7 @@
+{
+  "name": "zenn-content",
+  "description": "Content for Zenn platform",
+  "source_repo": "hachimada/zenn-content",
+  "source_url": "https://github.com/hachimada/zenn-content",
+  "install": "# git clone --depth 1 https://github.com/hachimada/zenn-content\n# See source for mcpServers config block"
+}

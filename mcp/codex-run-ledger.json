@@ -1,0 +1,7 @@
+{
+  "name": "codex-run-ledger",
+  "description": "Codex run receipts, scope summaries, evidence tracking, and client handoff documentation for AI coding workflows.",
+  "source_repo": "clauxel/codex-run-ledger-mcp",
+  "source_url": "https://github.com/clauxel/codex-run-ledger-mcp",
+  "install": "npx -y codex-run-ledger-mcp"
+}

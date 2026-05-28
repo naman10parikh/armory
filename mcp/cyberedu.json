@@ -1,0 +1,7 @@
+{
+  "name": "cyberedu",
+  "description": "Integrates with the CyberEdu CTF platform to provide access to cybersecurity challenges, contests, file downloads, service deployment, flag submission, and leaderboard tracking.",
+  "source_repo": "cyberedu-cyber-range/cyberedu-mcp",
+  "source_url": "https://github.com/cyberedu-cyber-range/cyberedu-mcp",
+  "install": "npx -y cyberedu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jbang-mcp-examples",
+  "description": "Jbang Mcp Examples MCP server listed on mcp.so.",
+  "source_repo": "jabrena/jbang-mcp-examples",
+  "source_url": "https://mcp.so/server/jbang-mcp-examples/jabrena",
+  "install": "# git clone --depth 1 https://mcp.so/server/jbang-mcp-examples/jabrena\n# See source for mcpServers config block"
+}

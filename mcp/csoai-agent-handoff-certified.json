@@ -1,0 +1,7 @@
+{
+  "name": "csoai-agent-handoff-certified",
+  "description": "Verifiable agent-to-agent task handoff with cryptographically signed provenance chains for multi-agent workflows.",
+  "source_repo": "csoai-org/agent-handoff-certified-mcp",
+  "source_url": "https://github.com/csoai-org/agent-handoff-certified-mcp",
+  "install": "npx -y agent-handoff-certified-mcp"
+}

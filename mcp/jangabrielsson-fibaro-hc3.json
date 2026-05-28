@@ -1,0 +1,7 @@
+{
+  "name": "jangabrielsson-fibaro-hc3",
+  "description": "VS Code extension and MCP server that provides complete access to Fibaro Home Center 3 smart home systems through 66+ REST API tools covering device control, scene management, energy monitoring, climate zones, alarm systems, and QuickApp development with intelligent context tools for automation suggestions and device relationship analysis.",
+  "source_repo": "jangabrielsson/hc3_mcp",
+  "source_url": "https://github.com/jangabrielsson/hc3_mcp",
+  "install": "npx -y hc3_mcp"
+}

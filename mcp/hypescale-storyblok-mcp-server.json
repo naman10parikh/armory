@@ -1,0 +1,7 @@
+{
+  "name": "hypescale-storyblok-mcp-server",
+  "description": "MCP server for the Storyblok headless CMS with 160 tools across 30 modules. Manage stories, components, assets, workflows, releases, and more via AI assistants.",
+  "source_repo": "hypescale/storyblok-mcp-server",
+  "source_url": "https://github.com/hypescale/storyblok-mcp-server",
+  "install": "npx -y storyblok-mcp-server"
+}

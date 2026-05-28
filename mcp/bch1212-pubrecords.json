@@ -1,0 +1,7 @@
+{
+  "name": "bch1212-pubrecords",
+  "description": "MCP server aggregating US public records from OpenCorporates, SEC EDGAR, federal courts, and government databases for AI agent due diligence workflows.",
+  "source_repo": "bch1212/mcp-pubrecords",
+  "source_url": "https://github.com/bch1212/mcp-pubrecords",
+  "install": "# git clone --depth 1 https://github.com/bch1212/mcp-pubrecords\n# See source for mcpServers config block"
+}

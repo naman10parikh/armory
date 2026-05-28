@@ -1,0 +1,7 @@
+{
+  "name": "leonting1010-taprun",
+  "description": "Local-first browser automation platform that compiles AI-inspected websites into deterministic programs.",
+  "source_repo": "leonting1010/tap",
+  "source_url": "https://github.com/leonting1010/tap",
+  "install": "# git clone --depth 1 https://github.com/leonting1010/tap\n# See source for mcpServers config block"
+}

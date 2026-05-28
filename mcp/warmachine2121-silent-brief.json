@@ -1,0 +1,7 @@
+{
+  "name": "warmachine2121-silent-brief",
+  "description": "AI document generation tools for browsing services, submitting jobs, and managing credits.",
+  "source_repo": "warmachine2121/silent-brief-mcp",
+  "source_url": "https://github.com/warmachine2121/silent-brief-mcp",
+  "install": "npx -y silent-brief-mcp"
+}

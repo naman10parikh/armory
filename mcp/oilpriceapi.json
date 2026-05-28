@@ -1,0 +1,7 @@
+{
+  "name": "oilpriceapi",
+  "description": "Real-time oil, gas, and commodity prices. Brent, WTI, natural gas, diesel & more.",
+  "source_repo": "oilpriceapi/mcp-server",
+  "source_url": "https://github.com/oilpriceapi/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/oilpriceapi/mcp-server\n# See source for mcpServers config block"
+}

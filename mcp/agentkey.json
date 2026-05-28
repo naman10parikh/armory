@@ -1,0 +1,7 @@
+{
+  "name": "agentkey",
+  "description": "AgentKey is the execution layer between AI agents and the real internet. One MCP install gives your Claude / Cursor / n8n agent unified access to web search, scraping, and 20+ social platforms — no API juggling, one bill.",
+  "source_repo": "chainbase-labs/Agentkey",
+  "source_url": "https://github.com/chainbase-labs/Agentkey",
+  "install": "# git clone --depth 1 https://github.com/chainbase-labs/Agentkey\n# See source for mcpServers config block"
+}

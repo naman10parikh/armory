@@ -1,0 +1,7 @@
+{
+  "name": "perf-ai",
+  "description": "Hallucination detection, schema validation, and auto-repair for AI outputs.",
+  "source_repo": "perf-technology/perf-mcp",
+  "source_url": "https://github.com/perf-technology/perf-mcp",
+  "install": "npx -y perf-mcp"
+}

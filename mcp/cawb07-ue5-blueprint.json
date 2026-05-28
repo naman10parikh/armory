@@ -1,0 +1,7 @@
+{
+  "name": "cawb07-ue5-blueprint",
+  "description": "Bridges Unreal Engine 5 Blueprint visual scripting with natural language for programmatic creation and manipulation of Blueprints, widgets, and input systems.",
+  "source_repo": "cawb07/ue5-mcp",
+  "source_url": "https://github.com/cawb07/ue5-mcp",
+  "install": "npx -y ue5-mcp"
+}

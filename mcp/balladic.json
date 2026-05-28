@@ -1,0 +1,7 @@
+{
+  "name": "balladic",
+  "description": "Fluid cowork platform that synthesizes work data across boundaries with project tracking.",
+  "source_repo": "",
+  "source_url": "https://balladic.com",
+  "install": "# git clone --depth 1 https://balladic.com\n# See source for mcpServers config block"
+}

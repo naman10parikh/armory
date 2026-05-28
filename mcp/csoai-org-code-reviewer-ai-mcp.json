@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-code-reviewer-ai-mcp",
+  "description": "AI-powered code review and quality analysis tools.",
+  "source_repo": "csoai-org/code-reviewer-ai-mcp",
+  "source_url": "https://github.com/csoai-org/code-reviewer-ai-mcp",
+  "install": "npx -y code-reviewer-ai-mcp"
+}

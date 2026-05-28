@@ -1,0 +1,7 @@
+{
+  "name": "sailorpepe-undesirables",
+  "description": "TCG card grading, Monte Carlo pricing, and 370K+ product search tools for trading card games.",
+  "source_repo": "sailorpepe/undesirables-mcp-server",
+  "source_url": "https://github.com/sailorpepe/undesirables-mcp-server",
+  "install": "npx -y undesirables-mcp-server"
+}

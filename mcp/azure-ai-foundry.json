@@ -1,0 +1,7 @@
+{
+  "name": "azure-ai-foundry",
+  "description": "Integrates with Microsoft Azure AI Foundry to enable model deployment, experiment tracking, dataset management, and access to Azure's cognitive services for machine learning project workflows.",
+  "source_repo": "microsoft-foundry/mcp-foundry",
+  "source_url": "https://github.com/microsoft-foundry/mcp-foundry",
+  "install": "# git clone --depth 1 https://github.com/microsoft-foundry/mcp-foundry\n# See source for mcpServers config block"
+}

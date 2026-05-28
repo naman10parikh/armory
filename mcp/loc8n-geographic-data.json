@@ -1,0 +1,7 @@
+{
+  "name": "loc8n-geographic-data",
+  "description": "U.S. demographics, housing, mortgage, migration, and employment data via the loc8n API.",
+  "source_repo": "gener8v/gener8v.mcp.geographic-data",
+  "source_url": "https://github.com/gener8v/gener8v.mcp.geographic-data",
+  "install": "# git clone --depth 1 https://github.com/gener8v/gener8v.mcp.geographic-data\n# See source for mcpServers config block"
+}

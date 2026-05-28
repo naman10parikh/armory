@@ -1,0 +1,7 @@
+{
+  "name": "trackmage",
+  "description": "Integrates with TrackMage's shipment tracking and order management platform using OAuth2 authentication to provide real-time delivery status monitoring, carrier detection, bulk retracking operations, and complete order lifecycle management for e-commerce and logistics workflows.",
+  "source_repo": "trackmage/trackmage-mcp-server",
+  "source_url": "https://github.com/trackmage/trackmage-mcp-server",
+  "install": "npx -y trackmage-mcp-server"
+}

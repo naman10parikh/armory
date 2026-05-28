@@ -1,0 +1,7 @@
+{
+  "name": "other-blowsnow-china-railway",
+  "description": "Integrates with the Chinese Railway (12306) system to provide train schedules, ticket availability, and travel planning information for transportation logistics within China.",
+  "source_repo": "other-blowsnow/mcp-server-chinarailway",
+  "source_url": "https://github.com/other-blowsnow/mcp-server-chinarailway",
+  "install": "# git clone --depth 1 https://github.com/other-blowsnow/mcp-server-chinarailway\n# See source for mcpServers config block"
+}

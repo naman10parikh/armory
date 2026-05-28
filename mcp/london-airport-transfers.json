@@ -1,0 +1,7 @@
+{
+  "name": "london-airport-transfers",
+  "description": "Book London airport and cruise port transfers to any UK address with fixed pricing.",
+  "source_repo": "",
+  "source_url": "https://airport-pickups-london.com",
+  "install": "# git clone --depth 1 https://airport-pickups-london.com\n# See source for mcpServers config block"
+}

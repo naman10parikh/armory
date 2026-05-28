@@ -1,0 +1,7 @@
+{
+  "name": "jleechanorg-agent-mail",
+  "description": "Multi-agent coordination through structured mailbox messaging with file reservations and Git-backed persistence",
+  "source_repo": "jleechanorg/mcp_mail",
+  "source_url": "https://github.com/jleechanorg/mcp_mail",
+  "install": "# git clone --depth 1 https://github.com/jleechanorg/mcp_mail\n# See source for mcpServers config block"
+}

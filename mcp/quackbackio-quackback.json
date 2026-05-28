@@ -1,0 +1,7 @@
+{
+  "name": "quackbackio-quackback",
+  "description": "Open-source customer feedback platform with built-in MCP server. Agents can search feedback, triage posts, update statuses, create and comment on posts, vote, manage roadmaps, merge duplicates, and publish changelogs.",
+  "source_repo": "QuackbackIO/quackback",
+  "source_url": "https://github.com/QuackbackIO/quackback",
+  "install": "# git clone --depth 1 https://github.com/QuackbackIO/quackback\n# See source for mcpServers config block"
+}

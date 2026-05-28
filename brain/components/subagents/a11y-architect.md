@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [build-error-resolver, chief-of-staff]
-tags: [ecc, subagent]
+tags: [subagent]
 ---
 ## What it is
 Accessibility Architect specializing in WCAG 2.2 compliance for Web and Native platforms. Use PROACTIVELY when designing UI components, establishing design systems, or auditing code for inclusive user experiences.

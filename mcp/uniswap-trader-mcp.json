@@ -1,0 +1,7 @@
+{
+  "name": "uniswap-trader-mcp",
+  "description": "Uniswap Trader Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/uniswap-trader-mcp",
+  "source_url": "https://mcp.so/server/uniswap-trader-mcp/kukapay",
+  "install": "npx -y uniswap-trader-mcp"
+}

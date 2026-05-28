@@ -1,0 +1,7 @@
+{
+  "name": "dryas-mail-shadow",
+  "description": "Read-only IMAP email access via local SQLite sync for AI agents, with full-text search and thread retrieval.",
+  "source_repo": "dryas/mail-shadow-mcp",
+  "source_url": "https://github.com/dryas/mail-shadow-mcp",
+  "install": "npx -y mail-shadow-mcp"
+}

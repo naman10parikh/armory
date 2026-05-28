@@ -1,0 +1,7 @@
+{
+  "name": "pixeltable-mcp-server",
+  "description": "Pixeltable Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "pixeltable/pixeltable-mcp-server",
+  "source_url": "https://mcp.so/server/pixeltable-mcp-server/pixeltable",
+  "install": "npx -y pixeltable-mcp-server"
+}

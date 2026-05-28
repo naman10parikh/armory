@@ -1,0 +1,7 @@
+{
+  "name": "gustycube-discord",
+  "description": "Integrates with Discord's API and Gateway to provide comprehensive bot capabilities including messaging, role management, channel administration, and real-time event streaming with modular tool packs, security controls, and human-in-the-loop confirmations for building Discord moderation bots and community management tools.",
+  "source_repo": "bennettschwartz/discord-mcp",
+  "source_url": "https://github.com/bennettschwartz/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

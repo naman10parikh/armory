@@ -1,0 +1,7 @@
+{
+  "name": "jason76789-campus-assistant",
+  "description": "Educational management system integrating with school administration for student enrollment, grades, messaging, and scheduling with role-based access control.",
+  "source_repo": "jason76789/campus-assistant",
+  "source_url": "https://github.com/jason76789/campus-assistant",
+  "install": "# git clone --depth 1 https://github.com/jason76789/campus-assistant\n# See source for mcpServers config block"
+}

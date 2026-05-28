@@ -1,0 +1,7 @@
+{
+  "name": "notebooklm-mcp",
+  "description": "An unofficial MCP server for Google NotebookLM that enables users to manage notebooks, add sources, ask questions with citations, and generate audio podcasts via a Playwright-based automation layer.",
+  "source_repo": "gracelee087/notebooklm-mcp-lisa",
+  "source_url": "https://github.com/gracelee087/notebooklm-mcp-lisa",
+  "install": "# git clone --depth 1 https://github.com/gracelee087/notebooklm-mcp-lisa\n# See source for mcpServers config block"
+}

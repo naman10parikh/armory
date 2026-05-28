@@ -1,0 +1,7 @@
+{
+  "name": "denismaggior8-enigma",
+  "description": "Encrypt and decrypt text using historical Enigma machine emulation.",
+  "source_repo": "denismaggior8/enigma-python-mcp",
+  "source_url": "https://github.com/denismaggior8/enigma-python-mcp",
+  "install": "npx -y enigma-python-mcp"
+}

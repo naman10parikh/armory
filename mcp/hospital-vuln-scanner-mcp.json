@@ -1,0 +1,7 @@
+{
+  "name": "hospital-vuln-scanner-mcp",
+  "description": "A real security scanning MCP server for medical information systems, supporting port scanning, vulnerability detection, medical system identification, and compliance report generation.",
+  "source_repo": "12211725-star/hospital-vuln-scanner-mcp",
+  "source_url": "https://github.com/12211725-star/hospital-vuln-scanner-mcp",
+  "install": "npx -y hospital-vuln-scanner-mcp"
+}

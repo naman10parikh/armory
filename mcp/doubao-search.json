@@ -1,0 +1,7 @@
+{
+  "name": "doubao-search",
+  "description": "Integrates with Search1API to enable web searches, website crawling, and content extraction with configurable parameters, featuring specialized tools for image search and integration with Coze AI for generating structured research plans.",
+  "source_repo": "flow-product/doubao-search-mcp",
+  "source_url": "https://github.com/flow-product/doubao-search-mcp",
+  "install": "npx -y doubao-search-mcp"
+}

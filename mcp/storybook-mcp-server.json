@@ -1,0 +1,7 @@
+{
+  "name": "storybook-mcp-server",
+  "description": "An MCP server that enables AI assistants to browse Storybook components, manage stories, inspect props, and capture screenshots of components.",
+  "source_repo": "stefanoamorelli/storybook-mcp-server",
+  "source_url": "https://github.com/stefanoamorelli/storybook-mcp-server",
+  "install": "npx -y storybook-mcp-server"
+}

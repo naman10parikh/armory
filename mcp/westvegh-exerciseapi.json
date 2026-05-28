@@ -1,0 +1,7 @@
+{
+  "name": "westvegh-exerciseapi",
+  "description": "Provides AI coding agents access to 2,198+ vetted fitness exercises across 12 categories via exerciseapi.dev.",
+  "source_repo": "westvegh/exerciseapi-mcp-server",
+  "source_url": "https://github.com/westvegh/exerciseapi-mcp-server",
+  "install": "npx -y exerciseapi-mcp-server"
+}

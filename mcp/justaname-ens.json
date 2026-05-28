@@ -1,0 +1,7 @@
+{
+  "name": "justaname-ens",
+  "description": "Integrates with the Ethereum Name Service to resolve ENS names to addresses, perform lookups, retrieve records, check availability, get prices, and explore name history through configurable Ethereum network providers.",
+  "source_repo": "justaname-id/ens-mcp-server",
+  "source_url": "https://github.com/justaname-id/ens-mcp-server",
+  "install": "npx -y ens-mcp-server"
+}

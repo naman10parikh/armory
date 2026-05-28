@@ -1,0 +1,7 @@
+{
+  "name": "whensport",
+  "description": "Access schedules and data for 10 sports (F1, Tennis, Cricket, Rugby, Golf, Polo, Sailing, Horse Racing, Cycling, Football) with timezone conversion via 48 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp",
+  "install": "# git clone --depth 1 https://whensport.com/mcp\n# See source for mcpServers config block"
+}

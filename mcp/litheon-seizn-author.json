@@ -1,0 +1,7 @@
+{
+  "name": "litheon-seizn-author",
+  "description": "Memory, timeline, and search tools for fiction writers using the Seizn platform.",
+  "source_repo": "litheonhq/seizn",
+  "source_url": "https://github.com/litheonhq/seizn/tree/HEAD/packages/author-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/litheonhq/seizn/tree/HEAD/packages/author-mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nix-mcp-servers",
+  "description": "Nix Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "aloshy-ai/nix-mcp-servers",
+  "source_url": "https://mcp.so/server/nix-mcp-servers/aloshy-ai",
+  "install": "# git clone --depth 1 https://mcp.so/server/nix-mcp-servers/aloshy-ai\n# See source for mcpServers config block"
+}

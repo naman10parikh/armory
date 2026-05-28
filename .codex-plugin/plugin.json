@@ -11,7 +11,7 @@
   "repository": "https://github.com/naman10parikh/armory",
   "license": "MIT",
   "keywords": ["codex", "armory", "registry", "mcp", "skills", "agents", "hooks", "aggregator", "workflow", "automation"],
-  "skills": "./gear/skills/",
+  "skills": "./skills/",
   "mcpServers": {
     "armory": {
       "command": "npx",

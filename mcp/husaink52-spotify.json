@@ -1,0 +1,7 @@
+{
+  "name": "husaink52-spotify",
+  "description": "Enables Claude to search and retrieve Spotify track, artist, and album information through a local Express.js server leveraging the Spotify Web API for real-time music data retrieval.",
+  "source_repo": "husaink52/mcp-spotify",
+  "source_url": "https://github.com/husaink52/mcp-spotify",
+  "install": "# git clone --depth 1 https://github.com/husaink52/mcp-spotify\n# See source for mcpServers config block"
+}

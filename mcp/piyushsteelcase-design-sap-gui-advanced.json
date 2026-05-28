@@ -1,0 +1,7 @@
+{
+  "name": "piyushsteelcase-design-sap-gui-advanced",
+  "description": "Integrates with SAP systems through COM APIs to provide transaction navigation, field operations, data extraction, and workflow automation across sales orders, purchase orders, and master data management with session handling and visual operations support.",
+  "source_repo": "piyushsteelcase-design/mcp-sap-gui-advanced",
+  "source_url": "https://github.com/piyushsteelcase-design/mcp-sap-gui-advanced",
+  "install": "# git clone --depth 1 https://github.com/piyushsteelcase-design/mcp-sap-gui-advanced\n# See source for mcpServers config block"
+}

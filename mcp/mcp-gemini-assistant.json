@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gemini-assistant",
+  "description": "Enables Claude Code to consult Gemini for complex coding problems with session management, file attachments, and conversation persistence.",
+  "source_repo": "peterkrueck/mcp-gemini-assistant",
+  "source_url": "https://github.com/peterkrueck/mcp-gemini-assistant",
+  "install": "# git clone --depth 1 https://github.com/peterkrueck/mcp-gemini-assistant\n# See source for mcpServers config block"
+}

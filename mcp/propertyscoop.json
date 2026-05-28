@@ -1,0 +1,7 @@
+{
+  "name": "propertyscoop",
+  "description": "US property data including powerlines, noise levels, crime rates, hazards, and school information.",
+  "source_repo": "",
+  "source_url": "https://propertyscoop.us",
+  "install": "# git clone --depth 1 https://propertyscoop.us\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "carter-wzq-signalmelo",
+  "description": "Analyze Reddit community sentiment and track competitor mentions in real time.",
+  "source_repo": "carter-wzq/signalmelo-mcp",
+  "source_url": "https://github.com/carter-wzq/signalmelo-mcp",
+  "install": "npx -y signalmelo-mcp"
+}

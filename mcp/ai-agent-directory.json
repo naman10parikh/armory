@@ -1,0 +1,7 @@
+{
+  "name": "ai-agent-directory",
+  "description": "Ai Agent Directory MCP server listed on mcp.so.",
+  "source_repo": "AgentMCP/ai-agent-directory",
+  "source_url": "https://mcp.so/server/ai-agent-directory/AgentMCP",
+  "install": "# git clone --depth 1 https://mcp.so/server/ai-agent-directory/AgentMCP\n# See source for mcpServers config block"
+}

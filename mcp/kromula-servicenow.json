@@ -1,0 +1,7 @@
+{
+  "name": "kromula-servicenow",
+  "description": "Integrates with ServiceNow's REST Table API to enable CRUD operations on incidents, UI actions, business rules, and custom tables with specialized story management and build notes tracking.",
+  "source_repo": "kromula/servicenow-mcp-doc",
+  "source_url": "https://github.com/kromula/servicenow-mcp-doc",
+  "install": "# git clone --depth 1 https://github.com/kromula/servicenow-mcp-doc\n# See source for mcpServers config block"
+}

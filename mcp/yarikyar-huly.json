@@ -1,0 +1,7 @@
+{
+  "name": "yarikyar-huly",
+  "description": "Huly project management integration with issue tracking, time logging, and custom fields.",
+  "source_repo": "yarikyar/huly-mcp",
+  "source_url": "https://github.com/yarikyar/huly-mcp",
+  "install": "npx -y huly-mcp"
+}

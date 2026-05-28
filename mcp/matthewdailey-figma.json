@@ -1,0 +1,7 @@
+{
+  "name": "matthewdailey-figma",
+  "description": "Interact with Figma design files through the Figma REST API for design analysis, feedback, and collaboration.",
+  "source_repo": "matthewdailey/figma-mcp",
+  "source_url": "https://github.com/matthewdailey/figma-mcp",
+  "install": "npx -y figma-mcp"
+}

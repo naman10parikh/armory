@@ -1,0 +1,7 @@
+{
+  "name": "spinqtech-quantum-computing",
+  "description": "Integrates with SpinQ's quantum computing cloud platform to enable quantum circuit construction, compilation, and execution on real quantum hardware and simulators with QASM support, gate operations, and automated optimization.",
+  "source_repo": "spinqtech/spinqit_mcp_tools",
+  "source_url": "https://github.com/spinqtech/spinqit_mcp_tools",
+  "install": "# git clone --depth 1 https://github.com/spinqtech/spinqit_mcp_tools\n# See source for mcpServers config block"
+}

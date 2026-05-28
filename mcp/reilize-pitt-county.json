@@ -1,0 +1,7 @@
+{
+  "name": "reilize-pitt-county",
+  "description": "Real estate intelligence for Pitt County NC with 20 tools covering properties, permits, sales, and foreclosures from public records.",
+  "source_repo": "",
+  "source_url": "https://reilize.com",
+  "install": "# git clone --depth 1 https://reilize.com\n# See source for mcpServers config block"
+}

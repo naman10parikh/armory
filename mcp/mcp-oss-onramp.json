@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oss-onramp",
+  "description": "An MCP server that scouts truly beginner-friendly open-source issues from GitHub, checking availability and summarizing them for AI consumption.",
+  "source_repo": "ryotaro-tanaka/mcp-oss-onramp",
+  "source_url": "https://github.com/ryotaro-tanaka/mcp-oss-onramp",
+  "install": "# git clone --depth 1 https://github.com/ryotaro-tanaka/mcp-oss-onramp\n# See source for mcpServers config block"
+}

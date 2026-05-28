@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-connector",
+  "description": "Enables browsing GitHub profile, repositories, issues, and pull requests directly in Claude conversation through OAuth authentication.",
+  "source_repo": "Ahmedaltu/github-mcp-connector",
+  "source_url": "https://github.com/Ahmedaltu/github-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/Ahmedaltu/github-mcp-connector\n# See source for mcpServers config block"
+}

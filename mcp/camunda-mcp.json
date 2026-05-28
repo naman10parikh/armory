@@ -1,0 +1,7 @@
+{
+  "name": "camunda-mcp",
+  "description": "MCP server for modeling Camunda 7 BPMN diagrams programmatically, including elements, flows, and Camunda extensions.",
+  "source_repo": "fssou/camunda-mcp",
+  "source_url": "https://github.com/fssou/camunda-mcp",
+  "install": "npx -y camunda-mcp"
+}

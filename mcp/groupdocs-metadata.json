@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-metadata",
+  "description": "Read and remove metadata from documents and media files using the GroupDocs.Metadata library.",
+  "source_repo": "groupdocs-metadata/groupdocs.metadata.mcp",
+  "source_url": "https://github.com/groupdocs-metadata/groupdocs.metadata.mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-metadata/groupdocs.metadata.mcp\n# See source for mcpServers config block"
+}

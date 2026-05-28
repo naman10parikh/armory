@@ -1,0 +1,7 @@
+{
+  "name": "jackkuo666-semanticscholar",
+  "description": "Provides a bridge to Semantic Scholar for searching and analyzing academic papers with tools for keyword searches, metadata access, and citation network exploration",
+  "source_repo": "jackkuo666/semanticscholar-mcp-server",
+  "source_url": "https://github.com/jackkuo666/semanticscholar-mcp-server",
+  "install": "npx -y semanticscholar-mcp-server"
+}

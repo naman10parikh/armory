@@ -1,0 +1,7 @@
+{
+  "name": "tradeline-ai",
+  "description": "Credit Economy for AI Agents",
+  "source_repo": "RibbonBlockchain/TradelineAI",
+  "source_url": "https://github.com/RibbonBlockchain/TradelineAI",
+  "install": "# git clone --depth 1 https://github.com/RibbonBlockchain/TradelineAI\n# See source for mcpServers config block"
+}

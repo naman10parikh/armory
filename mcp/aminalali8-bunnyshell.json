@@ -1,0 +1,7 @@
+{
+  "name": "aminalali8-bunnyshell",
+  "description": "Enables direct management of Bunnyshell cloud environments through natural language commands, supporting environment creation, component deployment, and remote development workflows via CLI capabilities.",
+  "source_repo": "aminalali8/bns-mcp-server",
+  "source_url": "https://github.com/aminalali8/bns-mcp-server",
+  "install": "npx -y bns-mcp-server"
+}

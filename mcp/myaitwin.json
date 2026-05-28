@@ -1,0 +1,7 @@
+{
+  "name": "myaitwin",
+  "description": "Build a personal RAG database from your chats so AI generates content that matches your voice and style.",
+  "source_repo": "lutolabs/mytwin-mcp",
+  "source_url": "https://github.com/lutolabs/mytwin-mcp",
+  "install": "npx -y mytwin-mcp"
+}

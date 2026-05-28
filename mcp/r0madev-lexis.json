@@ -1,0 +1,7 @@
+{
+  "name": "r0madev-lexis",
+  "description": "Code-search server using ripgrep and AST symbol extraction to navigate large codebases with 28+ tools, supporting 17+ languages and telecom DSLs with ~80% fewer tokens.",
+  "source_repo": "r0madev/lexis",
+  "source_url": "https://github.com/r0madev/lexis",
+  "install": "# git clone --depth 1 https://github.com/r0madev/lexis\n# See source for mcpServers config block"
+}

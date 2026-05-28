@@ -1,0 +1,7 @@
+{
+  "name": "sherlock-mcp",
+  "description": "Sherlock Mcp MCP server listed on mcp.so.",
+  "source_repo": "Fewsats/sherlock-mcp",
+  "source_url": "https://mcp.so/server/sherlock-mcp/Fewsats",
+  "install": "npx -y sherlock-mcp"
+}

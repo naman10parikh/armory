@@ -1,0 +1,7 @@
+{
+  "name": "minimax-tts-video",
+  "description": "Enables high-quality text-to-speech, voice cloning, and video generation capabilities through MiniMax's API with robust error handling and file management features.",
+  "source_repo": "minimax-ai/minimax-mcp",
+  "source_url": "https://github.com/minimax-ai/minimax-mcp",
+  "install": "npx -y minimax-mcp"
+}

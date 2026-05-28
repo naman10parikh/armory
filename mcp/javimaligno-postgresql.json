@@ -1,0 +1,7 @@
+{
+  "name": "javimaligno-postgresql",
+  "description": "PostgreSQL database operations with SQL injection prevention and read-only mode",
+  "source_repo": "javimaligno/postgres_mcp",
+  "source_url": "https://github.com/javimaligno/postgres_mcp",
+  "install": "npx -y postgres_mcp"
+}

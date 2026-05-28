@@ -1,0 +1,7 @@
+{
+  "name": "dorukardahan-domain-search",
+  "description": "Check domain availability and pricing across multiple registrars",
+  "source_repo": "dorukardahan/domain-search-mcp",
+  "source_url": "https://github.com/dorukardahan/domain-search-mcp",
+  "install": "npx -y domain-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "securityronin-docx-mcp",
+  "description": "Read and edit Word (.docx) documents with track changes, comments, footnotes, and structural validation. The only MCP server combining w:ins/w:del tracked changes, threaded comments, and footnotes with OOXML-level paraId validation and document auditing. 18 tools, Python 3.10+.",
+  "source_repo": "SecurityRonin/docx-mcp",
+  "source_url": "https://github.com/SecurityRonin/docx-mcp",
+  "install": "npx -y docx-mcp"
+}

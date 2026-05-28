@@ -1,0 +1,7 @@
+{
+  "name": "chengjiale150-jupyter",
+  "description": "Enables AI-driven management and execution of Jupyter notebooks with multi-notebook support",
+  "source_repo": "ChengJiale150/jupyter-mcp-server",
+  "source_url": "https://github.com/ChengJiale150/jupyter-mcp-server",
+  "install": "npx -y jupyter-mcp-server"
+}

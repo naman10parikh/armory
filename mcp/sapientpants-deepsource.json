@@ -1,0 +1,7 @@
+{
+  "name": "sapientpants-deepsource",
+  "description": "Integrates with DeepSource's code quality platform to provide access to project metrics, issues, and analysis results for monitoring and troubleshooting code quality directly in conversations.",
+  "source_repo": "sapientpants/deepsource-mcp-server",
+  "source_url": "https://github.com/sapientpants/deepsource-mcp-server",
+  "install": "npx -y deepsource-mcp-server"
+}

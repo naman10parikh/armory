@@ -1,0 +1,7 @@
+{
+  "name": "weibaohui-mcp2cli",
+  "description": "CLI tool for discovering, exploring, and invoking MCP server tools from the command line.",
+  "source_repo": "weibaohui/mcp2cli",
+  "source_url": "https://github.com/weibaohui/mcp2cli",
+  "install": "# git clone --depth 1 https://github.com/weibaohui/mcp2cli\n# See source for mcpServers config block"
+}

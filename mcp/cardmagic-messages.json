@@ -1,0 +1,7 @@
+{
+  "name": "cardmagic-messages",
+  "description": "Fuzzy search and browse Apple Messages/iMessage conversations on macOS.",
+  "source_repo": "cardmagic/messages",
+  "source_url": "https://github.com/cardmagic/messages",
+  "install": "# git clone --depth 1 https://github.com/cardmagic/messages\n# See source for mcpServers config block"
+}

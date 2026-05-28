@@ -1,0 +1,7 @@
+{
+  "name": "yuiseki-edge-tts",
+  "description": "Provides a bridge to Microsoft's Edge Text-to-Speech service for converting text into natural-sounding speech across multiple languages with customizable parameters, returning audio in MP3 format.",
+  "source_repo": "yuiseki/edge_tts_mcp_server",
+  "source_url": "https://github.com/yuiseki/edge_tts_mcp_server",
+  "install": "npx -y edge_tts_mcp_server"
+}

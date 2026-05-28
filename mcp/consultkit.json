@@ -1,0 +1,7 @@
+{
+  "name": "consultkit",
+  "description": "AI-powered consulting toolkit for proposals, client management, and business development.",
+  "source_repo": "",
+  "source_url": "https://getconsultkit.com",
+  "install": "# git clone --depth 1 https://getconsultkit.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mpc-judilibre",
+  "description": "MCP server covering French law via the PISTE platform: 8 tools wrapping the JUDILIBRE API (open data judicial decisions from Cour de cassation, courts of appeal and civil courts).",
+  "source_repo": "Ktulu-Analog/mcp-judilibre",
+  "source_url": "https://github.com/Ktulu-Analog/mcp-judilibre",
+  "install": "# git clone --depth 1 https://github.com/Ktulu-Analog/mcp-judilibre\n# See source for mcpServers config block"
+}

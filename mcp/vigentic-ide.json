@@ -1,0 +1,7 @@
+{
+  "name": "vigentic-ide",
+  "description": "Headless Neovim IDE kernel with full editor operations exposed as tools.",
+  "source_repo": "vigentic/vigentic-mcp",
+  "source_url": "https://github.com/vigentic/vigentic-mcp",
+  "install": "npx -y vigentic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "morinokami-astro",
+  "description": "Provides runtime information about Astro projects to AI assistants",
+  "source_repo": "morinokami/astro-mcp",
+  "source_url": "https://github.com/morinokami/astro-mcp",
+  "install": "npx -y astro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fellowgeek-macos-text-to-speech",
+  "description": "Enables text-to-speech output on macOS using the native 'say' command for converting messages into audible announcements and status updates.",
+  "source_repo": "fellowgeek/mcp-speak",
+  "source_url": "https://github.com/fellowgeek/mcp-speak",
+  "install": "# git clone --depth 1 https://github.com/fellowgeek/mcp-speak\n# See source for mcpServers config block"
+}

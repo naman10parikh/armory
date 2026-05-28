@@ -1,0 +1,7 @@
+{
+  "name": "freestylefly-12306-railway",
+  "description": "Integrates with China's 12306 railway system to search train tickets, check schedules, and retrieve route information across the Chinese railway network with real-time availability and pricing data.",
+  "source_repo": "freestylefly/12306-mcp",
+  "source_url": "https://github.com/freestylefly/12306-mcp",
+  "install": "npx -y 12306-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "isaacgounton-brave-search-sse",
+  "description": "Delivers real-time Brave Search results via Server-Sent Events (SSE), maintaining persistent connections for immediate display without polling requirements.",
+  "source_repo": "isaacgounton/brave-search-mcp-sse",
+  "source_url": "https://github.com/isaacgounton/brave-search-mcp-sse",
+  "install": "# git clone --depth 1 https://github.com/isaacgounton/brave-search-mcp-sse\n# See source for mcpServers config block"
+}

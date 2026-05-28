@@ -1,0 +1,7 @@
+{
+  "name": "mercado-pago",
+  "description": "Tools to enhance developer experience in integrating Mercado Pago solutions, the Latin American payment platform.",
+  "source_repo": "",
+  "source_url": "https://mcp.mercadopago.com/",
+  "install": "# git clone --depth 1 https://mcp.mercadopago.com/\n# See source for mcpServers config block"
+}

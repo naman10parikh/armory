@@ -1,0 +1,7 @@
+{
+  "name": "cvrt-jh-wordpress",
+  "description": "Integrates with the WordPress REST API to provide token-optimized site management including posts, pages, media, users, comments, taxonomies, plugins, themes, and settings through streamlined responses designed for efficient AI interactions.",
+  "source_repo": "cvrt-jh/wordpress-mcp",
+  "source_url": "https://github.com/cvrt-jh/wordpress-mcp",
+  "install": "npx -y wordpress-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cryptoapis-prepare-transactions",
+  "description": "Building unsigned transactions on multiple blockchains via Crypto APIs.",
+  "source_repo": "cryptoapis-io/cryptoapis-mcp-prepare-transactions",
+  "source_url": "https://github.com/cryptoapis-io/cryptoapis-mcp-prepare-transactions",
+  "install": "# git clone --depth 1 https://github.com/cryptoapis-io/cryptoapis-mcp-prepare-transactions\n# See source for mcpServers config block"
+}

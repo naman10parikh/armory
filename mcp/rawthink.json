@@ -1,0 +1,7 @@
+{
+  "name": "rawthink",
+  "description": "Persistent memory for Claude Code — hybrid search, knowledge graph, session lifecycle.",
+  "source_repo": "ygtalp/rawthink-mcp",
+  "source_url": "https://github.com/ygtalp/rawthink-mcp",
+  "install": "npx -y rawthink-mcp"
+}

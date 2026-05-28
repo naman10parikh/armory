@@ -1,0 +1,7 @@
+{
+  "name": "meharajm-agentic-loop-memory",
+  "description": "Persistent memory and state manager for long-running agentic workflows with self-healing and context compaction.",
+  "source_repo": "meharajm/agent-loop-mcp",
+  "source_url": "https://github.com/meharajm/agent-loop-mcp",
+  "install": "npx -y agent-loop-mcp"
+}

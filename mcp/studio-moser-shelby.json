@@ -1,0 +1,7 @@
+{
+  "name": "studio-moser-shelby",
+  "description": "Knowledge-graph memory server with typed relationships, BM25 search, and zero-dependency binary.",
+  "source_repo": "studio-moser/shelby-mcp",
+  "source_url": "https://github.com/studio-moser/shelby-mcp",
+  "install": "npx -y shelby-mcp"
+}

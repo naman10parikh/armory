@@ -1,0 +1,7 @@
+{
+  "name": "omaidf-solana",
+  "description": "Provides a bridge to the Solana blockchain for token analysis, liquidity tracking, and risk assessment with a focus on meme tokens through Python and FastAPI endpoints.",
+  "source_repo": "omaidf/solana-mcp",
+  "source_url": "https://github.com/omaidf/solana-mcp",
+  "install": "npx -y solana-mcp"
+}

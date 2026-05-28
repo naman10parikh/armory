@@ -1,0 +1,7 @@
+{
+  "name": "ankimcp-anki",
+  "description": "Comprehensive Anki flashcard integration with card review, note management, deck operations, and media handling",
+  "source_repo": "ankimcp/anki-mcp-server",
+  "source_url": "https://github.com/ankimcp/anki-mcp-server",
+  "install": "npx -y anki-mcp-server"
+}

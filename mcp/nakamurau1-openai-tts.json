@@ -1,0 +1,7 @@
+{
+  "name": "nakamurau1-openai-tts",
+  "description": "Enables high-quality voice generation from text using OpenAI's TTS API with customizable voices, formats, and speech parameters for seamless audio playback during conversations.",
+  "source_repo": "nakamurau1/tts-mcp",
+  "source_url": "https://github.com/nakamurau1/tts-mcp",
+  "install": "npx -y tts-mcp"
+}

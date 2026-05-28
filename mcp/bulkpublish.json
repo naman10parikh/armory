@@ -1,0 +1,7 @@
+{
+  "name": "bulkpublish",
+  "description": "Publish, schedule, and manage social media posts across 11 platforms via BulkPublish's API.",
+  "source_repo": "azeemkafridi/bulkpublish-api",
+  "source_url": "https://github.com/azeemkafridi/bulkpublish-api",
+  "install": "# git clone --depth 1 https://github.com/azeemkafridi/bulkpublish-api\n# See source for mcpServers config block"
+}

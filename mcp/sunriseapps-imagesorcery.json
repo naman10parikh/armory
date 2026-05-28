@@ -1,0 +1,7 @@
+{
+  "name": "sunriseapps-imagesorcery",
+  "description": "Provides powerful image manipulation capabilities including resizing, cropping, object detection, OCR text extraction, and finding objects based on text descriptions using Python with OpenCV and Ultralytics",
+  "source_repo": "sunriseapps/imagesorcery-mcp",
+  "source_url": "https://github.com/sunriseapps/imagesorcery-mcp",
+  "install": "npx -y imagesorcery-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "einreke-sleeper-fantasy-football",
+  "description": "Integrates with Sleeper Fantasy Football API to provide complete access to user profiles, league data, rosters, matchups, draft information, player statistics, and trending analytics for fantasy football enthusiasts and sports analysts.",
+  "source_repo": "einreke/sleeper-scraper-mcp",
+  "source_url": "https://github.com/einreke/sleeper-scraper-mcp",
+  "install": "npx -y sleeper-scraper-mcp"
+}

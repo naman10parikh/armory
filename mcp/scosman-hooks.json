@@ -1,0 +1,7 @@
+{
+  "name": "scosman-hooks",
+  "description": "Exposes project-specific development tools like tests, linters, and formatters through YAML configuration files, enabling secure execution of common development workflows with parameter substitution and sandbox protection.",
+  "source_repo": "scosman/hooks_mcp",
+  "source_url": "https://github.com/scosman/hooks_mcp",
+  "install": "npx -y hooks_mcp"
+}

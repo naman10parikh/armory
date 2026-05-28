@@ -1,0 +1,7 @@
+{
+  "name": "nebula-block-data-nebulablock-mcp-server",
+  "description": "integrates with the fastmcp library to expose the full range of NebulaBlock API functionalities as accessible tools",
+  "source_repo": "Nebula-Block-Data/nebulablock-mcp-server",
+  "source_url": "https://github.com/Nebula-Block-Data/nebulablock-mcp-server",
+  "install": "npx -y nebulablock-mcp-server"
+}

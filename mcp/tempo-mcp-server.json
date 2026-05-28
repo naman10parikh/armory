@@ -1,0 +1,7 @@
+{
+  "name": "tempo-mcp-server",
+  "description": "Tempo Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ivelin-web/tempo-mcp-server",
+  "source_url": "https://mcp.so/server/tempo-mcp-server/ivelin-web",
+  "install": "npx -y tempo-mcp-server"
+}

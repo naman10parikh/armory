@@ -1,0 +1,7 @@
+{
+  "name": "jackdark425-aigroup-mdtoword",
+  "description": "Converts Markdown documents to professional Word files with advanced formatting",
+  "source_repo": "jackdark425/aigroup-mdtoword-mcp",
+  "source_url": "https://github.com/jackdark425/aigroup-mdtoword-mcp",
+  "install": "npx -y aigroup-mdtoword-mcp"
+}

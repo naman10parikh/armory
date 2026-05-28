@@ -1,0 +1,7 @@
+{
+  "name": "chaindead-telegram",
+  "description": "Bridges AI with Telegram to enable monitoring, organizing, and responding to messages through account access, dialog management, and conversation handling capabilities",
+  "source_repo": "chaindead/telegram-mcp",
+  "source_url": "https://github.com/chaindead/telegram-mcp",
+  "install": "npx -y telegram-mcp"
+}

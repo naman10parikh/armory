@@ -1,0 +1,7 @@
+{
+  "name": "motecloud",
+  "description": "Managed graph memory for AI agents with hybrid retrieval, audit trails, and tenant isolation.",
+  "source_repo": "motecloud/motecloud-mcp-server",
+  "source_url": "https://github.com/motecloud/motecloud-mcp-server",
+  "install": "npx -y motecloud-mcp-server"
+}

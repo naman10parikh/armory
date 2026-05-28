@@ -1,0 +1,7 @@
+{
+  "name": "comfy-cozy",
+  "description": "A plain-English co-pilot for ComfyUI that lets you describe image generation changes in natural language, automatically loading workflows, swapping models, tweaking parameters, and running generations while learning your preferences.",
+  "source_repo": "JosephOIbrahim/Comfy-Cozy",
+  "source_url": "https://github.com/JosephOIbrahim/Comfy-Cozy",
+  "install": "# git clone --depth 1 https://github.com/JosephOIbrahim/Comfy-Cozy\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "franccesco-bloom-growth",
+  "description": "Integrates with Bloom Growth's GraphQL API to enable interaction with growth management and analytics tools for AI-assisted workflows.",
+  "source_repo": "franccesco/bloomy-mcp",
+  "source_url": "https://github.com/franccesco/bloomy-mcp",
+  "install": "npx -y bloomy-mcp"
+}

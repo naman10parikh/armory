@@ -1,0 +1,7 @@
+{
+  "name": "sales-intelligence",
+  "description": "Enables research on prospects, pull call transcripts, and enrich leads using Gong, ZoomInfo, Clay, and LinkedIn Sales Navigator through natural language.",
+  "source_repo": "jbalbu01/sales-intelligence-mcp-server",
+  "source_url": "https://github.com/jbalbu01/sales-intelligence-mcp-server",
+  "install": "npx -y sales-intelligence-mcp-server"
+}

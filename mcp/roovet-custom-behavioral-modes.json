@@ -1,0 +1,7 @@
+{
+  "name": "roovet-custom-behavioral-modes",
+  "description": "Enables custom behavioral mode management for defining, loading, and applying tailored AI behaviors through configuration files in Roo Code",
+  "source_repo": "ccc0168/modes-mcp-server",
+  "source_url": "https://github.com/ccc0168/modes-mcp-server",
+  "install": "npx -y modes-mcp-server"
+}

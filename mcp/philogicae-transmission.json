@@ -1,0 +1,7 @@
+{
+  "name": "philogicae-transmission",
+  "description": "Integrates with Transmission BitTorrent client for torrent management including session control, file operations, queue management, and download statistics monitoring.",
+  "source_repo": "philogicae/transmission-mcp",
+  "source_url": "https://github.com/philogicae/transmission-mcp",
+  "install": "npx -y transmission-mcp"
+}

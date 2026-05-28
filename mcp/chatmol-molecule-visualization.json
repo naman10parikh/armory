@@ -1,0 +1,7 @@
+{
+  "name": "chatmol-molecule-visualization",
+  "description": "Connects AI systems to molecular visualization software like PyMol and ChimeraX, enabling direct command execution and image capture of molecular structures for scientific workflows.",
+  "source_repo": "chatmol/molecule-mcp",
+  "source_url": "https://github.com/chatmol/molecule-mcp",
+  "install": "npx -y molecule-mcp"
+}

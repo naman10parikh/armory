@@ -1,0 +1,7 @@
+{
+  "name": "hzzy2o-flux-image-generator",
+  "description": "Enables text-to-image generation through the Flux API on Cloudflare Workers with customizable parameters for dimensions, aspect ratio, and inference steps.",
+  "source_repo": "duoduohe/flux-cloudfare-mcp",
+  "source_url": "https://github.com/duoduohe/flux-cloudfare-mcp",
+  "install": "npx -y flux-cloudfare-mcp"
+}

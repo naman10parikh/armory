@@ -1,0 +1,7 @@
+{
+  "name": "da-colon-prompt-cleaner",
+  "description": "Sanitizes and redacts sensitive information from user prompts using OpenAI-compatible APIs to intelligently clean text while detecting and removing API keys, tokens, emails, and other secrets before processing.",
+  "source_repo": "dacebt/prompt-cleaner-mcp",
+  "source_url": "https://github.com/dacebt/prompt-cleaner-mcp",
+  "install": "npx -y prompt-cleaner-mcp"
+}

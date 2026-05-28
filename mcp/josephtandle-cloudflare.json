@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-cloudflare",
+  "description": "MCP server enabling AI assistants to manage Cloudflare infrastructure including DNS records, cache purging, Workers, SSL, and analytics.",
+  "source_repo": "josephtandle/cloudflare-mcp-mcp",
+  "source_url": "https://github.com/josephtandle/cloudflare-mcp-mcp",
+  "install": "npx -y cloudflare-mcp-mcp"
+}

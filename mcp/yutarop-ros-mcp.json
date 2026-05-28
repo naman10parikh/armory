@@ -1,0 +1,7 @@
+{
+  "name": "yutarop-ros-mcp",
+  "description": "MCP server that supports ROS2 topics, services, and actions communication, and controls robots using natural language.",
+  "source_repo": "Yutarop/ros-mcp",
+  "source_url": "https://github.com/Yutarop/ros-mcp",
+  "install": "npx -y ros-mcp"
+}

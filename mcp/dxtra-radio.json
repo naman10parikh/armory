@@ -1,0 +1,7 @@
+{
+  "name": "dxtra-radio",
+  "description": "Radio frequency database covering FM, AM, shortwave, TV, ham radio, weather, and emergency alerts across 15+ countries.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/dxtra-radio",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/dxtra-radio\n# See source for mcpServers config block"
+}

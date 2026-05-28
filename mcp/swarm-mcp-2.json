@@ -1,0 +1,7 @@
+{
+  "name": "swarm-mcp-2",
+  "description": "An MCP server that provides access to Foursquare Swarm check-in data, enabling AI assistants to query check-in history, stats, top venues, and venue details.",
+  "source_repo": "alexpriest/swarm-mcp",
+  "source_url": "https://github.com/alexpriest/swarm-mcp",
+  "install": "npx -y swarm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ldoce-mcp-server",
+  "description": "Ldoce Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "edgardamasceno-dev/ldoce-mcp-server",
+  "source_url": "https://mcp.so/server/ldoce-mcp-server/edgardamasceno-dev",
+  "install": "npx -y ldoce-mcp-server"
+}

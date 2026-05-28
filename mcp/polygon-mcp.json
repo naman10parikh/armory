@@ -1,0 +1,7 @@
+{
+  "name": "polygon-mcp",
+  "description": "Enables querying real-time and historical financial market data for stocks, options, forex, and crypto, including quotes, trades, technical indicators, and reference data through a set of MCP tools.",
+  "source_repo": "atomcp-ai/polygon-mcp",
+  "source_url": "https://github.com/atomcp-ai/polygon-mcp",
+  "install": "npx -y polygon-mcp"
+}

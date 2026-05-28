@@ -1,0 +1,7 @@
+{
+  "name": "cybersamuraix-hermes-n8n",
+  "description": "Local stdio MCP bridge for managing self-hosted n8n workflows including listing, inspecting, activating, and checking execution status.",
+  "source_repo": "cybersamuraix/hermes-n8n-mcp",
+  "source_url": "https://github.com/cybersamuraix/hermes-n8n-mcp",
+  "install": "npx -y hermes-n8n-mcp"
+}

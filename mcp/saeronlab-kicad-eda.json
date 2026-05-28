@@ -1,0 +1,7 @@
+{
+  "name": "saeronlab-kicad-eda",
+  "description": "Comprehensive KiCad 9.x integration with 39 tools for schematic editing, PCB layout, library search, design rule checking, and manufacturing file export.",
+  "source_repo": "saeronlab/eda-mcp",
+  "source_url": "https://github.com/saeronlab/eda-mcp",
+  "install": "npx -y eda-mcp"
+}

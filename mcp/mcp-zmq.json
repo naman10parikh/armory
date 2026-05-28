@@ -1,0 +1,7 @@
+{
+  "name": "mcp-zmq",
+  "description": "Provides tools to publish, subscribe, send requests, and listen for replies over ZeroMQ messaging sockets.",
+  "source_repo": "daedalus/mcp-zmq",
+  "source_url": "https://github.com/daedalus/mcp-zmq",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-zmq\n# See source for mcpServers config block"
+}

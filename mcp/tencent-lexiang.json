@@ -1,0 +1,7 @@
+{
+  "name": "tencent-lexiang",
+  "description": "Integrates with Tencent Lexiang for searching knowledge bases, managing entries, and editing documents.",
+  "source_repo": "tencent-lexiang/lexiang-mcp-server",
+  "source_url": "https://github.com/tencent-lexiang/lexiang-mcp-server",
+  "install": "npx -y lexiang-mcp-server"
+}

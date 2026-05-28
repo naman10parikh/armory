@@ -1,0 +1,7 @@
+{
+  "name": "pixie-vacations",
+  "description": "Book Sandals, Beaches resorts, and cruises through Pixie Vacations with co-branded booking URLs.",
+  "source_repo": "stevegriswoldatl/pixie-vacations-mcp",
+  "source_url": "https://github.com/stevegriswoldatl/pixie-vacations-mcp",
+  "install": "npx -y pixie-vacations-mcp"
+}

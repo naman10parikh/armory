@@ -1,0 +1,7 @@
+{
+  "name": "mtg-mcp-servers",
+  "description": "Mtg Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "artillect/mtg-mcp-servers",
+  "source_url": "https://mcp.so/server/mtg-mcp-servers/artillect",
+  "install": "# git clone --depth 1 https://mcp.so/server/mtg-mcp-servers/artillect\n# See source for mcpServers config block"
+}

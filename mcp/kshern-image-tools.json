@@ -1,0 +1,7 @@
+{
+  "name": "kshern-image-tools",
+  "description": "Retrieves image dimensions from URLs and local files with optional compression capabilities through the Tinify API for image analysis and processing tasks.",
+  "source_repo": "kshern/image-tools-mcp",
+  "source_url": "https://github.com/kshern/image-tools-mcp",
+  "install": "npx -y image-tools-mcp"
+}

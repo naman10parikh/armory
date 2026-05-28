@@ -1,0 +1,7 @@
+{
+  "name": "gh-dimitar-grigorov-file-tools",
+  "description": "File operations with non-UTF-8 encoding support for 22 character sets including Cyrillic, Windows-125x, and ISO-8859.",
+  "source_repo": "dimitar-grigorov/mcp-file-tools",
+  "source_url": "https://github.com/dimitar-grigorov/mcp-file-tools",
+  "install": "# git clone --depth 1 https://github.com/dimitar-grigorov/mcp-file-tools\n# See source for mcpServers config block"
+}

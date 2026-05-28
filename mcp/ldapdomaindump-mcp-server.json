@@ -1,0 +1,7 @@
+{
+  "name": "ldapdomaindump-mcp-server",
+  "description": "Enables AI assistants to perform Active Directory reconnaissance by enumerating users, groups, computers, trusts, and password policies using ldapdomaindump on a remote Kali host via SSH.",
+  "source_repo": "schwarztim/sec-ldapdomaindump-mcp",
+  "source_url": "https://github.com/schwarztim/sec-ldapdomaindump-mcp",
+  "install": "npx -y sec-ldapdomaindump-mcp"
+}

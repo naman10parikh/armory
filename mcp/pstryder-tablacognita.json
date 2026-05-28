@@ -1,0 +1,7 @@
+{
+  "name": "pstryder-tablacognita",
+  "description": "Collaborative markdown editor with real-time AI document editing.",
+  "source_repo": "pstryder/tablacognita",
+  "source_url": "https://github.com/pstryder/tablacognita",
+  "install": "# git clone --depth 1 https://github.com/pstryder/tablacognita\n# See source for mcpServers config block"
+}

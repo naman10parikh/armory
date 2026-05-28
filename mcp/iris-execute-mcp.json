@@ -1,0 +1,7 @@
+{
+  "name": "iris-execute-mcp",
+  "description": "MCP server for InterSystems IRIS that provides 8 tools including ObjectScript execution, class compilation, and unit testing with a fast DirectTestRunner.",
+  "source_repo": "jbrandtmse/iris-execute-mcp",
+  "source_url": "https://github.com/jbrandtmse/iris-execute-mcp",
+  "install": "npx -y iris-execute-mcp"
+}

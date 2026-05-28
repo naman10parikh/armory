@@ -1,0 +1,7 @@
+{
+  "name": "kisti-mcp",
+  "description": "Integrates with KISTI's ScienceON, NTIS, and DataON APIs to search and retrieve scientific papers, patents, reports, national R\\&D projects, and research data.",
+  "source_repo": "ansua79/kisti-mcp",
+  "source_url": "https://github.com/ansua79/kisti-mcp",
+  "install": "npx -y kisti-mcp"
+}

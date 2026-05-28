@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-currency-converter-ai-mcp",
+  "description": "Real-time currency conversion and exchange rate data tools.",
+  "source_repo": "csoai-org/currency-converter-ai-mcp",
+  "source_url": "https://github.com/csoai-org/currency-converter-ai-mcp",
+  "install": "npx -y currency-converter-ai-mcp"
+}

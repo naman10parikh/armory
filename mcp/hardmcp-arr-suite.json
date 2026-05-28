@@ -1,0 +1,7 @@
+{
+  "name": "hardmcp-arr-suite",
+  "description": "Unified interface for managing Sonarr, Radarr, Prowlarr, Bazarr, and Overseerr media automation services.",
+  "source_repo": "hardmcp/arr-mcp",
+  "source_url": "https://github.com/hardmcp/arr-mcp",
+  "install": "npx -y arr-mcp"
+}

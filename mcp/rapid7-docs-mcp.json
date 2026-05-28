@@ -1,0 +1,7 @@
+{
+  "name": "rapid7-docs-mcp",
+  "description": "A self-hostable MCP server that enables searching and reading Rapid7 documentation, blog posts, and resources through six tools, with optional authentication and Docker support.",
+  "source_repo": "drunkrhin0/rapid7-docs-mcp",
+  "source_url": "https://github.com/drunkrhin0/rapid7-docs-mcp",
+  "install": "npx -y rapid7-docs-mcp"
+}

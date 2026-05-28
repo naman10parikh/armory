@@ -1,0 +1,7 @@
+{
+  "name": "ntfy-mcp-server",
+  "description": "Ntfy Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "cyanheads/ntfy-mcp-server",
+  "source_url": "https://mcp.so/server/ntfy-mcp-server/cyanheads",
+  "install": "npx -y ntfy-mcp-server"
+}

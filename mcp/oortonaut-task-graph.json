@@ -1,0 +1,7 @@
+{
+  "name": "oortonaut-task-graph",
+  "description": "Structured agent task workflows with phases, dependency graphs, quality gates, and multi-agent coordination.",
+  "source_repo": "oortonaut/task-graph-mcp",
+  "source_url": "https://github.com/oortonaut/task-graph-mcp",
+  "install": "npx -y task-graph-mcp"
+}

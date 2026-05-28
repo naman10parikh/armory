@@ -1,0 +1,7 @@
+{
+  "name": "waka4674-shipsaving",
+  "description": "Access ShipSaving APIs for shipping rates, label generation, order management, and tracking.",
+  "source_repo": "waka4674/shipsaving-mcp",
+  "source_url": "https://github.com/waka4674/shipsaving-mcp",
+  "install": "npx -y shipsaving-mcp"
+}

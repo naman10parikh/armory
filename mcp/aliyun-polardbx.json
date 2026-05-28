@@ -1,0 +1,7 @@
+{
+  "name": "aliyun-polardbx",
+  "description": "Integrates with Alibaba Cloud's PolarDB-X distributed database system to provide SQL query execution, database status monitoring, and schema exploration capabilities for database administration and development workflows.",
+  "source_repo": "aliyun/alibabacloud-polardbx-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-polardbx-mcp-server",
+  "install": "npx -y alibabacloud-polardbx-mcp-server"
+}

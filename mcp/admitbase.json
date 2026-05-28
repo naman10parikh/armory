@@ -1,0 +1,7 @@
+{
+  "name": "admitbase",
+  "description": "Admissions data and match scores for 500+ professional schools: law, medical, dental, MBA, pharmacy, vet, and optometry.",
+  "source_repo": "cnd-north/entrance",
+  "source_url": "https://github.com/cnd-north/entrance",
+  "install": "# git clone --depth 1 https://github.com/cnd-north/entrance\n# See source for mcpServers config block"
+}

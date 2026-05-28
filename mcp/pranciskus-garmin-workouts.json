@@ -1,0 +1,7 @@
+{
+  "name": "pranciskus-garmin-workouts",
+  "description": "Manage Garmin Connect workouts including strength training with mapped exercises and payload validation.",
+  "source_repo": "pranciskus/garmin-workouts-mcp",
+  "source_url": "https://github.com/pranciskus/garmin-workouts-mcp",
+  "install": "npx -y garmin-workouts-mcp"
+}

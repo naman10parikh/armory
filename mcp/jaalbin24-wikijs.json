@@ -1,0 +1,7 @@
+{
+  "name": "jaalbin24-wikijs",
+  "description": "Integrates with Wiki.js instances through GraphQL API to enable full CRUD operations for wiki pages including search, retrieval, creation, updating, deletion, moving, plus page tree navigation and tag management with authentication support.",
+  "source_repo": "jaalbin24/wikijs-mcp",
+  "source_url": "https://github.com/jaalbin24/wikijs-mcp",
+  "install": "npx -y wikijs-mcp"
+}

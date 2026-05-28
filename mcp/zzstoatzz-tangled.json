@@ -1,0 +1,7 @@
+{
+  "name": "zzstoatzz-tangled",
+  "description": "Manage repositories, branches, and issues on Tangled.org",
+  "source_repo": "zzstoatzz/tangled-mcp",
+  "source_url": "https://github.com/zzstoatzz/tangled-mcp",
+  "install": "npx -y tangled-mcp"
+}

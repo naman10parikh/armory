@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-what3words",
+  "description": "what3words 3-word address geocoding via the Pipeworx gateway for precise location lookup and conversion.",
+  "source_repo": "pipeworx-io/mcp-what3words",
+  "source_url": "https://github.com/pipeworx-io/mcp-what3words",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-what3words\n# See source for mcpServers config block"
+}

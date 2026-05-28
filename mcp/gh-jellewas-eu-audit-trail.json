@@ -1,0 +1,7 @@
+{
+  "name": "gh-jellewas-eu-audit-trail",
+  "description": "Tamper-evident audit trail for EU AI Act and GDPR compliance with PII scanning and hash chain verification.",
+  "source_repo": "jellewas/eu-audit-mcp",
+  "source_url": "https://github.com/jellewas/eu-audit-mcp",
+  "install": "npx -y eu-audit-mcp"
+}

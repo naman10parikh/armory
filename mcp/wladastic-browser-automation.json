@@ -1,0 +1,7 @@
+{
+  "name": "wladastic-browser-automation",
+  "description": "Provides browser automation capabilities using Playwright, enabling web page navigation, element interaction, screenshot capture, JavaScript execution, and screenshot analysis for web testing and automated browsing workflows.",
+  "source_repo": "wladastic/autoprobemcp",
+  "source_url": "https://github.com/wladastic/autoprobemcp",
+  "install": "# git clone --depth 1 https://github.com/wladastic/autoprobemcp\n# See source for mcpServers config block"
+}

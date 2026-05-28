@@ -1,0 +1,7 @@
+{
+  "name": "penni",
+  "description": "AI bookkeeper connecting QuickBooks Online to your AI assistant — query balances, P&L, invoices, and post expenses via natural language.",
+  "source_repo": "cwhittemore1010/penni-mcp",
+  "source_url": "https://github.com/cwhittemore1010/penni-mcp",
+  "install": "npx -y penni-mcp"
+}

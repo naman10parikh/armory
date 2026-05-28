@@ -1,0 +1,7 @@
+{
+  "name": "allratestoday",
+  "description": "Access real-time foreign exchange rates for 150+ currencies via the AllRatesToday API.",
+  "source_repo": "allrates-today/realtime-exchange-rate-mcp",
+  "source_url": "https://github.com/allrates-today/realtime-exchange-rate-mcp",
+  "install": "npx -y realtime-exchange-rate-mcp"
+}

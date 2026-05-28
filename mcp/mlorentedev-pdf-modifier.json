@@ -1,0 +1,7 @@
+{
+  "name": "mlorentedev-pdf-modifier",
+  "description": "Read, edit, and redact PDF documents with font style and layout preservation.",
+  "source_repo": "mlorentedev/pdf-modifier-mcp",
+  "source_url": "https://github.com/mlorentedev/pdf-modifier-mcp",
+  "install": "npx -y pdf-modifier-mcp"
+}

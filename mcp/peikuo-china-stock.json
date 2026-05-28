@@ -1,0 +1,7 @@
+{
+  "name": "peikuo-china-stock",
+  "description": "Provides real-time Chinese stock market data through AKShare, offering tools for market overviews, individual stock information, sector analysis, fund flows, and financial indicators across Chinese, Hong Kong, and US exchanges.",
+  "source_repo": "peikuo/china-stock-mcp-server",
+  "source_url": "https://github.com/peikuo/china-stock-mcp-server",
+  "install": "npx -y china-stock-mcp-server"
+}

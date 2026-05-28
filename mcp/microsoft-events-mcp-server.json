@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-events-mcp-server",
+  "description": "Enables AI assistants to search, filter, and analyze Microsoft events (conferences, workshops, webinars) using the Microsoft Events API.",
+  "source_repo": "trsdn/msevent-mcp",
+  "source_url": "https://github.com/trsdn/msevent-mcp",
+  "install": "npx -y msevent-mcp"
+}

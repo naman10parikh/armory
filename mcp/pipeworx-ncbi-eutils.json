@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-ncbi-eutils",
+  "description": "Search and fetch biomedical records across NCBI Entrez databases via E-utilities.",
+  "source_repo": "pipeworx-io/mcp-ncbi-eutils",
+  "source_url": "https://github.com/pipeworx-io/mcp-ncbi-eutils",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ncbi-eutils\n# See source for mcpServers config block"
+}

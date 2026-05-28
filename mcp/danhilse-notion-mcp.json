@@ -1,0 +1,7 @@
+{
+  "name": "danhilse-notion-mcp",
+  "description": "MCP server that enables AI assistants to manage a minimalist Notion todo list through a simple API interface.",
+  "source_repo": "danhilse/notion_mcp",
+  "source_url": "https://github.com/danhilse/notion_mcp",
+  "install": "npx -y notion_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mohamedabdallah-14-prompt-to-asset",
+  "description": "Generates validated, ship-ready logo, icon, and image asset bundles from text prompts using 60+ AI models.",
+  "source_repo": "mohamedabdallah-14/prompt-to-asset",
+  "source_url": "https://github.com/mohamedabdallah-14/prompt-to-asset",
+  "install": "# git clone --depth 1 https://github.com/mohamedabdallah-14/prompt-to-asset\n# See source for mcpServers config block"
+}

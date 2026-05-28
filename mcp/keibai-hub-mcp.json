@@ -1,0 +1,7 @@
+{
+  "name": "keibai-hub-mcp",
+  "description": "Japanese court-run real-estate auction data from BIT — 1,480+ active listings across 46 prefectures via the Keibai Hub API.",
+  "source_repo": "keibai-hub/keibai-hub-mcp",
+  "source_url": "https://github.com/keibai-hub/keibai-hub-mcp",
+  "install": "npx -y keibai-hub-mcp"
+}

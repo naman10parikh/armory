@@ -1,0 +1,7 @@
+{
+  "name": "ashwanthramkl-whoop",
+  "description": "Read-only access to WHOOP fitness data including recoveries, sleep, workouts, and health metrics via OAuth.",
+  "source_repo": "ashwanthramkl/whoop-mcp",
+  "source_url": "https://github.com/ashwanthramkl/whoop-mcp",
+  "install": "npx -y whoop-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "serenahappyhacking-hk-financial-intelligence",
+  "description": "Financial analysis and Hong Kong regulatory compliance with SEC RAG and FinBERT sentiment analysis.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/serenahappyhacking-hk-financial-intelligence",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/serenahappyhacking-hk-financial-intelligence\n# See source for mcpServers config block"
+}

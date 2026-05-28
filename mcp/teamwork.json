@@ -1,0 +1,7 @@
+{
+  "name": "teamwork",
+  "description": "Integrates with Teamwork API to manage projects, tasks, team members, and generate utilization reports for streamlined project management and collaboration workflows.",
+  "source_repo": "vizioz/teamwork-mcp",
+  "source_url": "https://github.com/vizioz/teamwork-mcp",
+  "install": "npx -y teamwork-mcp"
+}

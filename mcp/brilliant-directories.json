@@ -1,0 +1,7 @@
+{
+  "name": "brilliant-directories",
+  "description": "Manage members, posts, leads, reviews, and pages on Brilliant Directories membership sites.",
+  "source_repo": "brilliantdirectories/brilliant-directories-mcp",
+  "source_url": "https://github.com/brilliantdirectories/brilliant-directories-mcp",
+  "install": "npx -y brilliant-directories-mcp"
+}

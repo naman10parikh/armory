@@ -1,0 +1,7 @@
+{
+  "name": "hashicorp-terraform-registry",
+  "description": "Integrates with HashiCorp's Terraform Registry APIs to enable provider documentation retrieval, module search, and infrastructure configuration discovery for Terraform workflows.",
+  "source_repo": "hashicorp/terraform-mcp-server",
+  "source_url": "https://github.com/hashicorp/terraform-mcp-server",
+  "install": "npx -y terraform-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-monitoring",
+  "description": "Google Cloud Monitoring MCP server for AI-assisted infrastructure observability, alerting, and metrics management.",
+  "source_repo": "",
+  "source_url": "https://monitoring.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://monitoring.googleapis.com/mcp\n# See source for mcpServers config block"
+}

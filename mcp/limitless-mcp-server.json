@@ -1,0 +1,7 @@
+{
+  "name": "limitless-mcp-server",
+  "description": "Limitless Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "manueltarouca/limitless-mcp-server",
+  "source_url": "https://mcp.so/server/limitless-mcp-server/manueltarouca",
+  "install": "npx -y limitless-mcp-server"
+}

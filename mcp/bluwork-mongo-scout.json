@@ -1,0 +1,7 @@
+{
+  "name": "bluwork-mongo-scout",
+  "description": "Production-ready MongoDB database exploration with safety features, live monitoring, and data quality tools.",
+  "source_repo": "bluwork/mongo-scout-mcp",
+  "source_url": "https://github.com/bluwork/mongo-scout-mcp",
+  "install": "npx -y mongo-scout-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-bridge-routes",
+  "description": "Finds optimal cross-chain bridge routes with fee breakdowns, estimated transfer times, and provider comparisons powered by LI.FI.",
+  "source_repo": "br0ski777/bridge-routes-x402",
+  "source_url": "https://github.com/br0ski777/bridge-routes-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/bridge-routes-x402\n# See source for mcpServers config block"
+}

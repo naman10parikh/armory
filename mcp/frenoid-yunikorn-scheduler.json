@@ -1,0 +1,7 @@
+{
+  "name": "frenoid-yunikorn-scheduler",
+  "description": "MCP server for observing and interacting with the Apache YuniKorn Kubernetes batch workload scheduler.",
+  "source_repo": "frenoid/yunikorn-mcp-server",
+  "source_url": "https://github.com/frenoid/yunikorn-mcp-server",
+  "install": "npx -y yunikorn-mcp-server"
+}

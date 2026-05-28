@@ -1,0 +1,7 @@
+{
+  "name": "ztxtxwd-feishu-doc",
+  "description": "Searches and retrieves Feishu (Lark) Open Platform API documentation with automatic HTML-to-markdown conversion for improved readability.",
+  "source_repo": "ztxtxwd/feishu-doc-mcp",
+  "source_url": "https://github.com/ztxtxwd/feishu-doc-mcp",
+  "install": "npx -y feishu-doc-mcp"
+}

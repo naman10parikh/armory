@@ -1,0 +1,7 @@
+{
+  "name": "all-our-things",
+  "description": "AI-powered household inventory system that lets you query everything you own via natural language.",
+  "source_repo": "matt-harding/allourthings-mcp",
+  "source_url": "https://github.com/matt-harding/allourthings-mcp/tree/HEAD/packages/mcp-server",
+  "install": "npx -y allourthings-mcp"
+}

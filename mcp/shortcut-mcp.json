@@ -1,0 +1,7 @@
+{
+  "name": "shortcut-mcp",
+  "description": "MCP server for interacting with Shortcut (project management) directly from Claude, enabling viewing, searching, and creating stories, epics, and objectives with safe read-only and create operations.",
+  "source_repo": "idyll/shortcut-mcp",
+  "source_url": "https://github.com/idyll/shortcut-mcp",
+  "install": "npx -y shortcut-mcp"
+}

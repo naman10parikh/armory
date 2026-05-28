@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-ironscales",
+  "description": "MCP server for Ironscales phishing incident management covering incidents, mailboxes, and reporting.",
+  "source_repo": "wyre-technology/ironscales-mcp",
+  "source_url": "https://github.com/wyre-technology/ironscales-mcp",
+  "install": "npx -y ironscales-mcp"
+}

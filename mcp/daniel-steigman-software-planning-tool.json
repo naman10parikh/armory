@@ -1,0 +1,7 @@
+{
+  "name": "daniel-steigman-software-planning-tool",
+  "description": "Guides developers through a structured, question-based approach to break down software goals into actionable implementation plans with detailed task lists, complexity scores, and code examples.",
+  "source_repo": "nighttrek/software-planning-mcp",
+  "source_url": "https://github.com/nighttrek/software-planning-mcp",
+  "install": "npx -y software-planning-mcp"
+}

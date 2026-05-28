@@ -1,0 +1,7 @@
+{
+  "name": "reka-vision",
+  "description": "Upload, index, search, and analyze videos via the Reka Vision API.",
+  "source_repo": "reka-ai/reka-mcp",
+  "source_url": "https://github.com/reka-ai/reka-mcp",
+  "install": "npx -y reka-mcp"
+}

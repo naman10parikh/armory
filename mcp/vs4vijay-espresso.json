@@ -1,0 +1,7 @@
+{
+  "name": "vs4vijay-espresso",
+  "description": "Integrates with Espresso testing framework to enable automated Android application testing through test execution, result analysis, and mobile UI interaction capabilities.",
+  "source_repo": "vs4vijay/espresso-mcp",
+  "source_url": "https://github.com/vs4vijay/espresso-mcp",
+  "install": "npx -y espresso-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "renanvieira-brewfather",
+  "description": "Connects to Brewfather API for retrieving and analyzing homebrew inventory data, including detailed information about fermentables, hops, and yeasts for recipe formulation and brewing process planning.",
+  "source_repo": "renanvieira/brewfather-mcp",
+  "source_url": "https://github.com/renanvieira/brewfather-mcp",
+  "install": "npx -y brewfather-mcp"
+}

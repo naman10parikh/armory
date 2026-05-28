@@ -1,0 +1,7 @@
+{
+  "name": "vitest-mcp-server",
+  "description": "Enables AI assistants to run Vitest tests and analyze code coverage, supporting test-driven development workflows with tools for test execution and coverage analysis.",
+  "source_repo": "madrus/vitest-mcp-server",
+  "source_url": "https://github.com/madrus/vitest-mcp-server",
+  "install": "npx -y vitest-mcp-server"
+}

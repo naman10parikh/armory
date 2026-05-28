@@ -1,0 +1,7 @@
+{
+  "name": "car2db",
+  "description": "Access to Car2DB automotive database for vehicle specs, make/model/trim catalogs, and equipment data.",
+  "source_repo": "car2db/car2db-api-v3-mcp",
+  "source_url": "https://github.com/car2db/car2db-api-v3-mcp",
+  "install": "npx -y car2db-api-v3-mcp"
+}

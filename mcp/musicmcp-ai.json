@@ -1,0 +1,7 @@
+{
+  "name": "musicmcp-ai",
+  "description": "Integrates with the MusicMCP.AI platform to generate songs and musical content directly within conversations through specialized music generation models.",
+  "source_repo": "amcharlie/aimusic-mcp-tool",
+  "source_url": "https://github.com/amcharlie/aimusic-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/amcharlie/aimusic-mcp-tool\n# See source for mcpServers config block"
+}

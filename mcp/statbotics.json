@@ -1,0 +1,7 @@
+{
+  "name": "statbotics",
+  "description": "Provides access to FIRST Robotics Competition statistical data including team EPA ratings, event predictions, and match analytics.",
+  "source_repo": "withinfocus/statbotics-mcp-server",
+  "source_url": "https://github.com/withinfocus/statbotics-mcp-server",
+  "install": "npx -y statbotics-mcp-server"
+}

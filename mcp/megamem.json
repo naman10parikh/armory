@@ -1,0 +1,7 @@
+{
+  "name": "megamem",
+  "description": "Syncs Obsidian notes into a temporal knowledge graph and exposes 23 MCP tools for AI assistants to read, search, and write to your vault, enabling persistent memory across conversations.",
+  "source_repo": "C-Bjorn/MegaMem",
+  "source_url": "https://github.com/C-Bjorn/MegaMem",
+  "install": "# git clone --depth 1 https://github.com/C-Bjorn/MegaMem\n# See source for mcpServers config block"
+}

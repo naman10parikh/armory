@@ -1,0 +1,7 @@
+{
+  "name": "codegraphcontext",
+  "description": "Indexes codebases into a Neo4j graph database to enable sophisticated code analysis including function call relationships, class hierarchies, dead code detection, and dependency tracking through real-time file monitoring and direct Cypher queries.",
+  "source_repo": "codegraphcontext/codegraphcontext",
+  "source_url": "https://github.com/codegraphcontext/codegraphcontext",
+  "install": "# git clone --depth 1 https://github.com/codegraphcontext/codegraphcontext\n# See source for mcpServers config block"
+}

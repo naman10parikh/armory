@@ -1,0 +1,7 @@
+{
+  "name": "yudai-uk-firestore",
+  "description": "Integrates with Firebase Firestore databases for collection and document management including querying, creating, updating, deleting, and counting operations with proper serialization of Firestore data types.",
+  "source_repo": "yudai-uk/firestore-mcp",
+  "source_url": "https://github.com/yudai-uk/firestore-mcp",
+  "install": "npx -y firestore-mcp"
+}

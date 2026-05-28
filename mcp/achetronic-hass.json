@@ -1,0 +1,7 @@
+{
+  "name": "achetronic-hass",
+  "description": "Bridges Home Assistant smart home systems with tools for device control, automation management, system monitoring, and troubleshooting through local and remote connections with OAuth authentication and container deployment.",
+  "source_repo": "achetronic/hass-mcp",
+  "source_url": "https://github.com/achetronic/hass-mcp",
+  "install": "npx -y hass-mcp"
+}

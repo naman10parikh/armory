@@ -1,0 +1,7 @@
+{
+  "name": "saurav61091-mcp-openapi",
+  "description": "Turn any OpenAPI spec into callable MCP tools for Claude. Point at any OpenAPI 3.x spec and Claude can call every endpoint through natural language. Supports Bearer, API key, and Basic auth.",
+  "source_repo": "saurav61091/mcp-openapi",
+  "source_url": "https://github.com/saurav61091/mcp-openapi",
+  "install": "# git clone --depth 1 https://github.com/saurav61091/mcp-openapi\n# See source for mcpServers config block"
+}

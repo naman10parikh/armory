@@ -1,0 +1,7 @@
+{
+  "name": "bitbucket",
+  "description": "Integrates with Bitbucket Cloud and Server APIs to manage pull request workflows including creation, updates, merging, branch management, code review operations, and diff retrieval with configurable context lines.",
+  "source_repo": "pdogra1299/bitbucket-mcp-server",
+  "source_url": "https://github.com/pdogra1299/bitbucket-mcp-server",
+  "install": "npx -y bitbucket-mcp-server"
+}

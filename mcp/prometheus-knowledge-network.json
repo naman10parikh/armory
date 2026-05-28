@@ -1,0 +1,7 @@
+{
+  "name": "prometheus-knowledge-network",
+  "description": "Knowledge network for searching, rating, and reviewing programming guides.",
+  "source_repo": "",
+  "source_url": "https://www.prometheus.sv/",
+  "install": "# git clone --depth 1 https://www.prometheus.sv/\n# See source for mcpServers config block"
+}

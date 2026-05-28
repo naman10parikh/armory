@@ -1,0 +1,7 @@
+{
+  "name": "3202336152-oracle",
+  "description": "Connects to Oracle databases for queries and data operations.",
+  "source_repo": "3202336152/mcp-tools",
+  "source_url": "https://github.com/3202336152/mcp-tools/tree/HEAD/oracle-map-tool",
+  "install": "# git clone --depth 1 https://github.com/3202336152/mcp-tools/tree/HEAD/oracle-map-tool\n# See source for mcpServers config block"
+}

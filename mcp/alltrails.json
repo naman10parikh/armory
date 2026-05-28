@@ -1,0 +1,7 @@
+{
+  "name": "alltrails",
+  "description": "Plan your hike now. Contact us for an API key. Learn more at https://Infoseek.ai",
+  "source_repo": "",
+  "source_url": "https://infoseek.ai/mcp/V12pdwLkDj/alltrails",
+  "install": "# git clone --depth 1 https://infoseek.ai/mcp/V12pdwLkDj/alltrails\n# See source for mcpServers config block"
+}

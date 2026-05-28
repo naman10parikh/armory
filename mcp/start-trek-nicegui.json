@@ -1,0 +1,7 @@
+{
+  "name": "start-trek-nicegui",
+  "description": "Provides documentation lookup, code analysis, safe fixes, and starter code generation for NiceGUI Python UI framework development.",
+  "source_repo": "start-trek/nicegui-mcp",
+  "source_url": "https://github.com/start-trek/nicegui-mcp",
+  "install": "npx -y nicegui-mcp"
+}

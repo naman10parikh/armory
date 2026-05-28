@@ -1,0 +1,7 @@
+{
+  "name": "swannman-arkime",
+  "description": "Search and analyze network packet captures using the Arkime full packet capture system.",
+  "source_repo": "swannman/arkime-mcp-server",
+  "source_url": "https://github.com/swannman/arkime-mcp-server",
+  "install": "npx -y arkime-mcp-server"
+}

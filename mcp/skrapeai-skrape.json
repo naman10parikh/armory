@@ -1,0 +1,7 @@
+{
+  "name": "skrapeai-skrape",
+  "description": "Converts HTML pages into clean, structured Markdown for feeding web content into language models, enabling use cases like content analysis and information extraction.",
+  "source_repo": "skrapeai/skrape-mcp",
+  "source_url": "https://github.com/skrapeai/skrape-mcp",
+  "install": "npx -y skrape-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp-server-2",
+  "description": "Enables AI assistants to interact with Salesforce organizations, allowing them to execute Apex code, query data, describe objects, and manage org connections through natural language.",
+  "source_repo": "advancedcommunities/salesforce-mcp-server",
+  "source_url": "https://github.com/advancedcommunities/salesforce-mcp-server",
+  "install": "npx -y salesforce-mcp-server"
+}

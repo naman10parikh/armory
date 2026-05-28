@@ -1,0 +1,7 @@
+{
+  "name": "vikrant-khedkar-api-tester-openai",
+  "description": "Integrates with OpenAI's APIs to provide tools for API testing, text generation, image creation, and HTTP request handling within applications.",
+  "source_repo": "vikrant-khedkar/api-tester-mcp",
+  "source_url": "https://github.com/vikrant-khedkar/api-tester-mcp",
+  "install": "npx -y api-tester-mcp"
+}

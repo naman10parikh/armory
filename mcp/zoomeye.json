@@ -1,0 +1,7 @@
+{
+  "name": "zoomeye",
+  "description": "Integrates with ZoomEye API to enable network asset reconnaissance through specialized search tools, supporting dork queries, IP filtering, and field selection with built-in caching and error handling for cybersecurity workflows.",
+  "source_repo": "zoomeye-ai/mcp_zoomeye",
+  "source_url": "https://github.com/zoomeye-ai/mcp_zoomeye",
+  "install": "# git clone --depth 1 https://github.com/zoomeye-ai/mcp_zoomeye\n# See source for mcpServers config block"
+}

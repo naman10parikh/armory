@@ -1,0 +1,7 @@
+{
+  "name": "angrysky56-logic",
+  "description": "Integrates Prover9/Mace4 for automated reasoning, theorem proving, and logical analysis.",
+  "source_repo": "angrysky56/mcp-logic",
+  "source_url": "https://github.com/angrysky56/mcp-logic",
+  "install": "# git clone --depth 1 https://github.com/angrysky56/mcp-logic\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "itsalissonsilva-modelsafetymcp",
+  "description": "MCP server for scanning machine learning model artifacts for unsafe serialization, malicious model patterns, risky packaging, URL-based artifact scanning, and directory-level triage using ModelScan, PickleScan, and heuristic inspection.",
+  "source_repo": "itsalissonsilva/ModelSafetyMCP",
+  "source_url": "https://github.com/itsalissonsilva/ModelSafetyMCP",
+  "install": "# git clone --depth 1 https://github.com/itsalissonsilva/ModelSafetyMCP\n# See source for mcpServers config block"
+}

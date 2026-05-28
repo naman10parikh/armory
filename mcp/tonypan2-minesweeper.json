@@ -1,0 +1,7 @@
+{
+  "name": "tonypan2-minesweeper",
+  "description": "Enables Claude to play Minesweeper through a bridge that translates game actions into API calls and returns game states as images for visual puzzle-solving.",
+  "source_repo": "tonypan2/minesweeper-mcp-server",
+  "source_url": "https://github.com/tonypan2/minesweeper-mcp-server",
+  "install": "npx -y minesweeper-mcp-server"
+}

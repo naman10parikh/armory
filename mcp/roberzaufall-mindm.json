@@ -1,0 +1,7 @@
+{
+  "name": "roberzaufall-mindm",
+  "description": "MindManager integration for automation on Windows + macOS",
+  "source_repo": "robertzaufall/mindm-mcp",
+  "source_url": "https://github.com/robertzaufall/mindm-mcp",
+  "install": "npx -y mindm-mcp"
+}

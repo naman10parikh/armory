@@ -1,0 +1,7 @@
+{
+  "name": "openvan-travel",
+  "description": "OpenVan MCP Server exposes OpenVan.camp public APIs over the Model Context Protocol: fuel prices across 125+ countries, VanSky weather suitability scores (0–100), VanBasket food price index, currency exchange rates, vanlife events (expos, festivals, meetups) and aggregated news stories in 7 language",
+  "source_repo": "",
+  "source_url": "https://openvan.camp/",
+  "install": "# git clone --depth 1 https://openvan.camp/\n# See source for mcpServers config block"
+}

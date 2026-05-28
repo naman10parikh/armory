@@ -1,0 +1,7 @@
+{
+  "name": "mukundakatta-agentsnap",
+  "description": "Inspects, normalizes, diffs, and validates agent tool-call traces using canonical SHA-256 fingerprints.",
+  "source_repo": "mukundakatta/agentsnap-mcp",
+  "source_url": "https://github.com/mukundakatta/agentsnap-mcp",
+  "install": "npx -y agentsnap-mcp"
+}

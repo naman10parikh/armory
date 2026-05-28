@@ -1,0 +1,7 @@
+{
+  "name": "stat-guy-chain-of-draft",
+  "description": "Implements Chain of Draft reasoning to generate concise intermediate steps for efficient, token-optimized problem-solving across various domains, offering tools for both CoD and Chain of Thought methods with adaptive complexity estimation and format enforcement.",
+  "source_repo": "stat-guy/chain-of-draft",
+  "source_url": "https://github.com/stat-guy/chain-of-draft",
+  "install": "# git clone --depth 1 https://github.com/stat-guy/chain-of-draft\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-castellotti-gimmick-vision",
+  "description": "Bridges Claude Code to local OpenAI-compatible vision models for image analysis and OCR.",
+  "source_repo": "castellotti/gimmick-vision-mcp",
+  "source_url": "https://github.com/castellotti/gimmick-vision-mcp",
+  "install": "npx -y gimmick-vision-mcp"
+}

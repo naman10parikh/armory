@@ -1,0 +1,7 @@
+{
+  "name": "lukaskai-voice-call",
+  "description": "Enables AI to make outbound phone calls via Twilio with real-time speech processing, creating natural conversations for appointment scheduling, customer service, or information gathering without human intervention.",
+  "source_repo": "popcornspace/voice-call-mcp-server",
+  "source_url": "https://github.com/popcornspace/voice-call-mcp-server",
+  "install": "npx -y voice-call-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bunkerlab-net-mempalace",
+  "description": "Local-first memory palace for AI assistants with structured memories, knowledge graphs, and diary entries.",
+  "source_repo": "bunkerlab-net/mempalace",
+  "source_url": "https://github.com/bunkerlab-net/mempalace",
+  "install": "# git clone --depth 1 https://github.com/bunkerlab-net/mempalace\n# See source for mcpServers config block"
+}

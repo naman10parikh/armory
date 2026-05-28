@@ -1,0 +1,7 @@
+{
+  "name": "fabkho-nuxt-i18n",
+  "description": "Manage i18n translation files in Nuxt projects with structured tools for reading and writing translation keys.",
+  "source_repo": "fabkho/the-i18n-kit",
+  "source_url": "https://github.com/fabkho/the-i18n-kit",
+  "install": "# git clone --depth 1 https://github.com/fabkho/the-i18n-kit\n# See source for mcpServers config block"
+}

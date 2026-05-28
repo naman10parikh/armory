@@ -1,0 +1,7 @@
+{
+  "name": "wp-pinch",
+  "description": "Enables AI assistants to manage and interact with WordPress sites through MCP, providing tools for content creation, moderation, WooCommerce operations, and governance.",
+  "source_repo": "RegionallyFamous/wp-pinch",
+  "source_url": "https://github.com/RegionallyFamous/wp-pinch",
+  "install": "# git clone --depth 1 https://github.com/RegionallyFamous/wp-pinch\n# See source for mcpServers config block"
+}

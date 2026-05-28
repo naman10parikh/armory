@@ -1,0 +1,7 @@
+{
+  "name": "pavelguzenfeld-media-forge",
+  "description": "Generates diagrams, charts, HTML pages, and slide decks from text DSLs for embedding in Markdown documentation.",
+  "source_repo": "pavelguzenfeld/mcp-media-forge",
+  "source_url": "https://github.com/pavelguzenfeld/mcp-media-forge",
+  "install": "# git clone --depth 1 https://github.com/pavelguzenfeld/mcp-media-forge\n# See source for mcpServers config block"
+}

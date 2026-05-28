@@ -1,0 +1,7 @@
+{
+  "name": "kumbukum",
+  "description": "Hosted MCP server providing persistent memory across AI tools with semantic search and US/EU data center options.",
+  "source_repo": "kumbukum/mcp-server",
+  "source_url": "https://github.com/kumbukum/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/kumbukum/mcp-server\n# See source for mcpServers config block"
+}

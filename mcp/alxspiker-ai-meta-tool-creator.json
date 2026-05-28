@@ -1,0 +1,7 @@
+{
+  "name": "alxspiker-ai-meta-tool-creator",
+  "description": "Enables AI to dynamically create, execute, and manage custom tools in a secure sandbox environment for JavaScript, Python, or shell code with persistent storage capabilities.",
+  "source_repo": "alxspiker/ai-meta-mcp-server",
+  "source_url": "https://github.com/alxspiker/ai-meta-mcp-server",
+  "install": "npx -y ai-meta-mcp-server"
+}

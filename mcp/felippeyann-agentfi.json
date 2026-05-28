@@ -1,0 +1,7 @@
+{
+  "name": "felippeyann-agentfi",
+  "description": "Crypto transaction tools for AI agents. 28 MCP tools covering swaps (Uniswap V3, Curve), yield (Aave V3, Compound V3, any ERC-4626 vault), transfers, and agent-to-agent collaboration (jobs, escrow, reputation, atomic payments, P&L). Turnkey MPC wallets + Safe Smart Accounts on Ethereum / Base / Arbitrum / Polygon. Apache 2.0, self-hosted.",
+  "source_repo": "felippeyann/agentfi",
+  "source_url": "https://github.com/felippeyann/agentfi",
+  "install": "# git clone --depth 1 https://github.com/felippeyann/agentfi\n# See source for mcpServers config block"
+}

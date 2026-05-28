@@ -1,0 +1,7 @@
+{
+  "name": "demicode",
+  "description": "Demicode MCP server listed on mcp.so.",
+  "source_repo": "greenrush21/demicode",
+  "source_url": "https://mcp.so/server/demicode/greenrush21",
+  "install": "# git clone --depth 1 https://mcp.so/server/demicode/greenrush21\n# See source for mcpServers config block"
+}

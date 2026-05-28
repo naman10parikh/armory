@@ -1,0 +1,7 @@
+{
+  "name": "thenextgennexus-academic-research",
+  "description": "Search ArXiv preprints and Google Scholar papers with citation counts in one query.",
+  "source_repo": "",
+  "source_url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/academic-research-mcp-server/mcp",
+  "install": "# git clone --depth 1 https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/academic-research-mcp-server/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crunchtools-request-tracker",
+  "description": "Manages Request Tracker (RT) tickets with search, creation, updates, time tracking, and workflow automation.",
+  "source_repo": "crunchtools/mcp-request-tracker",
+  "source_url": "https://github.com/crunchtools/mcp-request-tracker",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-request-tracker\n# See source for mcpServers config block"
+}

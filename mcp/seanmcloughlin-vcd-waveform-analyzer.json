@@ -1,0 +1,7 @@
+{
+  "name": "seanmcloughlin-vcd-waveform-analyzer",
+  "description": "Enables querying and analysis of digital signal data from Value Change Dump (VCD) waveforms for applications in digital design, hardware verification, and signal analysis.",
+  "source_repo": "seanmcloughlin/mcp-vcd",
+  "source_url": "https://github.com/seanmcloughlin/mcp-vcd",
+  "install": "# git clone --depth 1 https://github.com/seanmcloughlin/mcp-vcd\n# See source for mcpServers config block"
+}

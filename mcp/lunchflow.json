@@ -1,0 +1,7 @@
+{
+  "name": "lunchflow",
+  "description": "Integrates with Lunch Flow's banking aggregation platform to provide secure access to personal financial data across multiple providers including GoCardless, Quiltt, and Finverse for listing bank accounts, retrieving transaction history, and checking balances.",
+  "source_repo": "lunchflow/mcp",
+  "source_url": "https://github.com/lunchflow/mcp",
+  "install": "# git clone --depth 1 https://github.com/lunchflow/mcp\n# See source for mcpServers config block"
+}

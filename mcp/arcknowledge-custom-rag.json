@@ -1,0 +1,7 @@
+{
+  "name": "arcknowledge-custom-rag",
+  "description": "Bridges AI systems to custom knowledge base APIs for retrieval-augmented generation across multiple text and image sources with configurable authentication and processing capabilities.",
+  "source_repo": "dragonjump/mcp-arcknowledge",
+  "source_url": "https://github.com/dragonjump/mcp-arcknowledge",
+  "install": "# git clone --depth 1 https://github.com/dragonjump/mcp-arcknowledge\n# See source for mcpServers config block"
+}

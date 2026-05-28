@@ -1,0 +1,7 @@
+{
+  "name": "mcp-meeting-analyzer",
+  "description": "Enables efficient analysis of recorded meetings by transcribing audio, extracting only non-people frames (e.g., slides), and associating them with timestamps for compact LLM input.",
+  "source_repo": "mourabraz/mcp-meeting-analyzer",
+  "source_url": "https://github.com/mourabraz/mcp-meeting-analyzer",
+  "install": "# git clone --depth 1 https://github.com/mourabraz/mcp-meeting-analyzer\n# See source for mcpServers config block"
+}

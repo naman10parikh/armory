@@ -1,0 +1,7 @@
+{
+  "name": "mcp-a2a",
+  "description": "Experimental MCP and A2A integration",
+  "source_repo": "tesla0225/mcp-a2a",
+  "source_url": "https://github.com/tesla0225/mcp-a2a",
+  "install": "# git clone --depth 1 https://github.com/tesla0225/mcp-a2a\n# See source for mcpServers config block"
+}

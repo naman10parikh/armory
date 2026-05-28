@@ -1,0 +1,7 @@
+{
+  "name": "gh-tchivs-aktools-pro",
+  "description": "Enhanced Chinese financial data server with strategy backtesting, simulated trading, and real-time market alerts.",
+  "source_repo": "tchivs/aktools-pro",
+  "source_url": "https://github.com/tchivs/aktools-pro",
+  "install": "# git clone --depth 1 https://github.com/tchivs/aktools-pro\n# See source for mcpServers config block"
+}

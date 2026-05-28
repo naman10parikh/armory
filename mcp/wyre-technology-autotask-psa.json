@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-autotask-psa",
+  "description": "Gives AI assistants direct access to Kaseya Autotask PSA with 39 tools for tickets, time entries, companies, projects, and billing.",
+  "source_repo": "wyre-technology/autotask-mcp",
+  "source_url": "https://github.com/wyre-technology/autotask-mcp",
+  "install": "npx -y autotask-mcp"
+}

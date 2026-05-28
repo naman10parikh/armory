@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-coinmarketcap",
+  "description": "Auto-generated MCP server for CoinMarketCap cryptocurrency data, metrics, and analytics.",
+  "source_repo": "junct-bot/coinmarketcap-mcp",
+  "source_url": "https://github.com/junct-bot/coinmarketcap-mcp",
+  "install": "npx -y coinmarketcap-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spring-ai-example",
+  "description": "Spring Ai Example MCP server listed on mcp.so.",
+  "source_repo": "lucasdengcn/spring-ai-example",
+  "source_url": "https://mcp.so/server/spring-ai-example/lucasdengcn",
+  "install": "# git clone --depth 1 https://mcp.so/server/spring-ai-example/lucasdengcn\n# See source for mcpServers config block"
+}

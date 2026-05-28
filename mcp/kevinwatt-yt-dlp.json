@@ -1,0 +1,7 @@
+{
+  "name": "kevinwatt-yt-dlp",
+  "description": "Integrates with YouTube using yt-dlp to enable downloading of videos and subtitles for content analysis and processing tasks.",
+  "source_repo": "kevinwatt/yt-dlp-mcp",
+  "source_url": "https://github.com/kevinwatt/yt-dlp-mcp",
+  "install": "npx -y yt-dlp-mcp"
+}

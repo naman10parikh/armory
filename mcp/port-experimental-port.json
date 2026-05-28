@@ -1,0 +1,7 @@
+{
+  "name": "port-experimental-port",
+  "description": "Integrates with Port.io's API to enable AI-assisted task management and workflow orchestration through authentication, prompt triggering, and response handling.",
+  "source_repo": "port-labs/remote-mcp-server",
+  "source_url": "https://github.com/port-labs/remote-mcp-server",
+  "install": "npx -y remote-mcp-server"
+}

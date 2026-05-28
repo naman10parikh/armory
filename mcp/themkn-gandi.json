@@ -1,0 +1,7 @@
+{
+  "name": "themkn-gandi",
+  "description": "MCP server for managing Gandi LiveDNS records with tools for domain listing, DNS record CRUD operations, and zone snapshots.",
+  "source_repo": "themkn/gandi-mcp",
+  "source_url": "https://github.com/themkn/gandi-mcp",
+  "install": "npx -y gandi-mcp"
+}

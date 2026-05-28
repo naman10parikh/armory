@@ -1,0 +1,7 @@
+{
+  "name": "zenml-io-zenml",
+  "description": "Integrates with ZenML to enable querying pipeline metadata, triggering new runs, and analyzing ML workflow history through Python-based tools for machine learning pipeline management",
+  "source_repo": "zenml-io/mcp-zenml",
+  "source_url": "https://github.com/zenml-io/mcp-zenml",
+  "install": "# git clone --depth 1 https://github.com/zenml-io/mcp-zenml\n# See source for mcpServers config block"
+}

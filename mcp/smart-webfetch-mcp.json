@@ -1,0 +1,7 @@
+{
+  "name": "smart-webfetch-mcp",
+  "description": "Context-aware web fetching for LLMs, providing 7 tools to check page size, fetch with truncation, extract code/sections/links/tables, and paginate large documents.",
+  "source_repo": "mathisto/smart-webfetch-mcp",
+  "source_url": "https://github.com/mathisto/smart-webfetch-mcp",
+  "install": "npx -y smart-webfetch-mcp"
+}

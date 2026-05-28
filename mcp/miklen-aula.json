@@ -1,0 +1,7 @@
+{
+  "name": "miklen-aula",
+  "description": "Integrates with the Danish AULA educational platform to access calendar, messages, posts, and data from related educational providers via local stdio.",
+  "source_repo": "miklen/aula_mcp",
+  "source_url": "https://github.com/miklen/aula_mcp",
+  "install": "npx -y aula_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verssae-mssql-database-query",
+  "description": "Enables direct SQL query execution against MSSQL databases through a FastMCP-powered server with Docker containerization for seamless data analysis and manipulation.",
+  "source_repo": "verssae/dbmcp",
+  "source_url": "https://github.com/verssae/dbmcp",
+  "install": "# git clone --depth 1 https://github.com/verssae/dbmcp\n# See source for mcpServers config block"
+}

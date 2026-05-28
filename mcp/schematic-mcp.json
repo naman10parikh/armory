@@ -1,0 +1,7 @@
+{
+  "name": "schematic-mcp",
+  "description": "SchematicHQ management for companies, plans, features, and billing.",
+  "source_repo": "schematichq/schematic-mcp",
+  "source_url": "https://github.com/schematichq/schematic-mcp",
+  "install": "npx -y schematic-mcp"
+}

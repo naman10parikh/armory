@@ -1,0 +1,7 @@
+{
+  "name": "clawmem-mcp-server",
+  "description": "An MCP server that leverages a GitHub-compatible API as a durable memory store for AI agents, enabling automatic memory storage, recall, and management without requiring signup or API keys.",
+  "source_repo": "clawmem-ai/clawmem-mcp-server",
+  "source_url": "https://github.com/clawmem-ai/clawmem-mcp-server",
+  "install": "npx -y clawmem-mcp-server"
+}

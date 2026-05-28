@@ -1,0 +1,7 @@
+{
+  "name": "elkalowkey885-gemini-embedding",
+  "description": "Turns local files into searchable knowledge bases using Gemini embeddings and ChromaDB for semantic search.",
+  "source_repo": "elkalowkey885/gemini-embedding-2-mcp-server",
+  "source_url": "https://github.com/elkalowkey885/gemini-embedding-2-mcp-server",
+  "install": "npx -y gemini-embedding-2-mcp-server"
+}

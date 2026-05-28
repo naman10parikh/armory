@@ -1,0 +1,7 @@
+{
+  "name": "isteamhq-hacker-news",
+  "description": "Searches and retrieves Hacker News stories, threads, and user data via the Algolia HN Search API.",
+  "source_repo": "isteamhq/hackernews-mcp",
+  "source_url": "https://github.com/isteamhq/hackernews-mcp",
+  "install": "npx -y hackernews-mcp"
+}

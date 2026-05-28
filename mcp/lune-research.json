@@ -1,0 +1,7 @@
+{
+  "name": "lune-research",
+  "description": "Search and retrieve academic papers from top-tier research venues including NeurIPS, ICLR, and ICML from any MCP-compatible AI client.",
+  "source_repo": "retrogradelabs/lune-mcp-server",
+  "source_url": "https://github.com/retrogradelabs/lune-mcp-server",
+  "install": "npx -y lune-mcp-server"
+}

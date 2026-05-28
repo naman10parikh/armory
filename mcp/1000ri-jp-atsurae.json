@@ -1,0 +1,7 @@
+{
+  "name": "1000ri-jp-atsurae",
+  "description": "AI-powered video editing MCP server with 10 tools for timeline editing, 5-layer compositing, semantic operations, and FFmpeg rendering (1920x1080, 30fps H.264+AAC).",
+  "source_repo": "1000ri-jp/atsurae",
+  "source_url": "https://github.com/1000ri-jp/atsurae",
+  "install": "# git clone --depth 1 https://github.com/1000ri-jp/atsurae\n# See source for mcpServers config block"
+}

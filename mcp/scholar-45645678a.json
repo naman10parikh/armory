@@ -1,0 +1,7 @@
+{
+  "name": "scholar-45645678a",
+  "description": "Academic paper search across nine sources with PDF downloads, AI analysis, and citation graph generation.",
+  "source_repo": "45645678a/scholar-mcp",
+  "source_url": "https://github.com/45645678a/scholar-mcp",
+  "install": "npx -y scholar-mcp"
+}

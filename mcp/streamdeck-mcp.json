@@ -1,0 +1,7 @@
+{
+  "name": "streamdeck-mcp",
+  "description": "Enables AI to generate fully authored Elgato Stream Deck profiles with buttons, icons, colors, dials, and shell scripts from natural language prompts.",
+  "source_repo": "verygoodplugins/streamdeck-mcp",
+  "source_url": "https://github.com/verygoodplugins/streamdeck-mcp",
+  "install": "npx -y streamdeck-mcp"
+}

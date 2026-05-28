@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-government-data-mcp-server",
+  "description": "MCP server that provides access to Hong Kong government city data, including ambulance service indicators, via a FastMCP interface.",
+  "source_repo": "hkopenai/hk-city-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-city-mcp-server",
+  "install": "npx -y hk-city-mcp-server"
+}

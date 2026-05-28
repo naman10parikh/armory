@@ -1,0 +1,7 @@
+{
+  "name": "mcp-atlassian-jira",
+  "description": "Mcp Atlassian Jira MCP server listed on mcp.so.",
+  "source_repo": "aashari/mcp-atlassian-jira",
+  "source_url": "https://mcp.so/server/mcp-atlassian-jira/aashari",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-atlassian-jira/aashari\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ericrollei-download-tools",
+  "description": "Integrates gallery-dl, yt-dlp, and custom web scraping into ComfyUI workflows for downloading media from 1000+ platforms with browser authentication, quality presets, and JavaScript-heavy site support including Instagram, Bluesky, and ArtStation.",
+  "source_repo": "ericrollei/download_tools",
+  "source_url": "https://github.com/ericrollei/download_tools",
+  "install": "# git clone --depth 1 https://github.com/ericrollei/download_tools\n# See source for mcpServers config block"
+}

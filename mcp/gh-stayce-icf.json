@@ -1,0 +1,7 @@
+{
+  "name": "gh-stayce-icf",
+  "description": "WHO ICF classification codes for health and disability. Lookup, search, and browse via WHO API.",
+  "source_repo": "stayce/icf-mcp-cloudflare",
+  "source_url": "https://github.com/stayce/icf-mcp-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/stayce/icf-mcp-cloudflare\n# See source for mcpServers config block"
+}

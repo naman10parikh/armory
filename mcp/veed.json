@@ -1,0 +1,7 @@
+{
+  "name": "veed",
+  "description": "Generate AI talking-head videos with custom characters and voices from text.",
+  "source_repo": "",
+  "source_url": "https://veedstudio.github.io/veed-fabric-mcp/",
+  "install": "# git clone --depth 1 https://veedstudio.github.io/veed-fabric-mcp/\n# See source for mcpServers config block"
+}

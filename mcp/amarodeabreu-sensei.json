@@ -1,0 +1,7 @@
+{
+  "name": "amarodeabreu-sensei",
+  "description": "Transforms engineering standards from passive documentation into an active mentor by intelligently injecting relevant portions of a 57-section rulebook based on file types and operations, maintaining session memory of architectural decisions, and providing validation tools for consistent code quality and architectural compliance across development teams.",
+  "source_repo": "amarodeabreu/sensei-mcp",
+  "source_url": "https://github.com/amarodeabreu/sensei-mcp",
+  "install": "npx -y sensei-mcp"
+}

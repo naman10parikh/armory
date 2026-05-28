@@ -1,0 +1,7 @@
+{
+  "name": "davidmosiah-google-health",
+  "description": "Connects to the Google Health API v4 for Fitbit and Pixel Watch data with tools for connection status, data inventory, and daily summaries.",
+  "source_repo": "davidmosiah/google-health-mcp",
+  "source_url": "https://github.com/davidmosiah/google-health-mcp",
+  "install": "npx -y google-health-mcp"
+}

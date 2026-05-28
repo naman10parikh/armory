@@ -1,0 +1,7 @@
+{
+  "name": "augustas11-antfeed",
+  "description": "Analytics and transaction interface for the AntSeed P2P AI services network.",
+  "source_repo": "augustas11/antseed-explorer",
+  "source_url": "https://github.com/augustas11/antseed-explorer",
+  "install": "# git clone --depth 1 https://github.com/augustas11/antseed-explorer\n# See source for mcpServers config block"
+}

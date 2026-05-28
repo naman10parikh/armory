@@ -1,0 +1,7 @@
+{
+  "name": "rlabs-inc-gemini",
+  "description": "Integrates Google Gemini 3 models for image generation, video creation, text-to-speech, code execution, and deep research.",
+  "source_repo": "rlabs-inc/gemini-mcp",
+  "source_url": "https://github.com/rlabs-inc/gemini-mcp",
+  "install": "npx -y gemini-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "terminal-shop",
+  "description": "Integrates with Terminal.shop's e-commerce platform to enable browsing coffee products, managing shopping carts, and handling subscriptions with secure Stripe payment processing",
+  "source_repo": "pashaydev/terminal.shop.mcp",
+  "source_url": "https://github.com/pashaydev/terminal.shop.mcp",
+  "install": "# git clone --depth 1 https://github.com/pashaydev/terminal.shop.mcp\n# See source for mcpServers config block"
+}

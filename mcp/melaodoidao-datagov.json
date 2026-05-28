@@ -1,0 +1,7 @@
+{
+  "name": "melaodoidao-datagov",
+  "description": "Integrates with Data.gov to enable searching, retrieving, and accessing U.S. government datasets for data-driven analysis and research projects.",
+  "source_repo": "melaodoidao/datagov-mcp-server",
+  "source_url": "https://github.com/melaodoidao/datagov-mcp-server",
+  "install": "npx -y datagov-mcp-server"
+}

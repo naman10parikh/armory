@@ -1,0 +1,7 @@
+{
+  "name": "garblesnarff-gemini-image",
+  "description": "Bridges Claude Desktop with Google's Gemini for seamless, configurable image generation via a JSON-RPC protocol that enables direct conversational image creation.",
+  "source_repo": "garblesnarff/gemini-mcp-server",
+  "source_url": "https://github.com/garblesnarff/gemini-mcp-server",
+  "install": "npx -y gemini-mcp-server"
+}

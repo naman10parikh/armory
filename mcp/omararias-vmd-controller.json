@@ -1,0 +1,7 @@
+{
+  "name": "omararias-vmd-controller",
+  "description": "Controls VMD2 (Visual Molecular Dynamics) via natural language with 23 tools for loading structures, visualizing trajectories, and rendering images.",
+  "source_repo": "omararias-gaguancela/vmd-mcp",
+  "source_url": "https://github.com/omararias-gaguancela/vmd-mcp",
+  "install": "npx -y vmd-mcp"
+}

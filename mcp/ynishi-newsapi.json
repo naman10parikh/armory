@@ -1,0 +1,7 @@
+{
+  "name": "ynishi-newsapi",
+  "description": "Searches news articles, retrieves top headlines, and lists sources from NewsAPI.org.",
+  "source_repo": "ynishi/news-api-mcp",
+  "source_url": "https://github.com/ynishi/news-api-mcp",
+  "install": "npx -y news-api-mcp"
+}

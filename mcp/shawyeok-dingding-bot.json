@@ -1,0 +1,7 @@
+{
+  "name": "shawyeok-dingding-bot",
+  "description": "Integrates with DingDing (Dingtalk) to enable sending text and markdown messages to group chats through custom robot webhooks, supporting user mentions and formatted content for automated notification workflows.",
+  "source_repo": "shawyeok/mcp-dingding-bot",
+  "source_url": "https://github.com/shawyeok/mcp-dingding-bot",
+  "install": "# git clone --depth 1 https://github.com/shawyeok/mcp-dingding-bot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "saidsurucu-yokatlas",
+  "description": "Provides direct access to Turkish university and program data through YokAtlas API integration for informed higher education application decisions.",
+  "source_repo": "saidsurucu/yokatlas-mcp",
+  "source_url": "https://github.com/saidsurucu/yokatlas-mcp",
+  "install": "npx -y yokatlas-mcp"
+}

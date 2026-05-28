@@ -1,0 +1,7 @@
+{
+  "name": "adityaarsharma-librecrawl",
+  "description": "MCP server wrapping LibreCrawl for SEO auditing and web crawling.",
+  "source_repo": "adityaarsharma/librecrawl-mcp",
+  "source_url": "https://github.com/adityaarsharma/librecrawl-mcp",
+  "install": "npx -y librecrawl-mcp"
+}

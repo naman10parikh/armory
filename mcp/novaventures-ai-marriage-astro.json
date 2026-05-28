@@ -1,0 +1,7 @@
+{
+  "name": "novaventures-ai-marriage-astro",
+  "description": "Vedic astrology compatibility analysis with birth charts, Ashtakoot Milan, and dosha calculations.",
+  "source_repo": "novaventures-ai/marriageastro",
+  "source_url": "https://github.com/novaventures-ai/marriageastro",
+  "install": "# git clone --depth 1 https://github.com/novaventures-ai/marriageastro\n# See source for mcpServers config block"
+}

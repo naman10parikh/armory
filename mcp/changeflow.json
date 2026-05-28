@@ -1,0 +1,7 @@
+{
+  "name": "changeflow",
+  "description": "Monitors websites, PDFs, RSS feeds, and APIs for changes and delivers AI-enriched intelligence about what changed and why it matters.",
+  "source_repo": "changeflowhq/changeflow-mcp",
+  "source_url": "https://github.com/changeflowhq/changeflow-mcp",
+  "install": "npx -y changeflow-mcp"
+}

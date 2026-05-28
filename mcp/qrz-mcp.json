@@ -1,0 +1,7 @@
+{
+  "name": "qrz-mcp",
+  "description": "MCP server for QRZ.com — callsign lookups, DXCC entity resolution, and logbook queries through any MCP-compatible AI assistant.",
+  "source_repo": "qso-graph/qrz-mcp",
+  "source_url": "https://github.com/qso-graph/qrz-mcp",
+  "install": "npx -y qrz-mcp"
+}

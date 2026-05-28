@@ -1,0 +1,7 @@
+{
+  "name": "sohlin2-freelance-os",
+  "description": "Freelance business manager for clients, proposals, invoices, time tracking, and follow-ups.",
+  "source_repo": "",
+  "source_url": "https://freelance-os-production.up.railway.app/mcp",
+  "install": "# git clone --depth 1 https://freelance-os-production.up.railway.app/mcp\n# See source for mcpServers config block"
+}

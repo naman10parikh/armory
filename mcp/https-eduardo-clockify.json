@@ -1,0 +1,7 @@
+{
+  "name": "https-eduardo-clockify",
+  "description": "Integrates with Clockify time tracking API to manage billable time entries, retrieve workspace information, list projects, and access user data through natural language prompts.",
+  "source_repo": "https-eduardo/clockify-mcp-server",
+  "source_url": "https://github.com/https-eduardo/clockify-mcp-server",
+  "install": "npx -y clockify-mcp-server"
+}

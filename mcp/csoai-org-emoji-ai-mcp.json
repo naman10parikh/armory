@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-emoji-ai-mcp",
+  "description": "AI tools for emoji selection, sentiment mapping, and text-to-emoji conversion.",
+  "source_repo": "csoai-org/emoji-ai-mcp",
+  "source_url": "https://github.com/csoai-org/emoji-ai-mcp",
+  "install": "npx -y emoji-ai-mcp"
+}

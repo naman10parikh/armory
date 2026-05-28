@@ -1,0 +1,7 @@
+{
+  "name": "jackkuo666-biorxiv",
+  "description": "Provides a specialized interface for searching and retrieving bioRxiv scientific articles through keyword-based searching, advanced parameter filtering, and DOI metadata retrieval using Python's asyncio for asynchronous processing.",
+  "source_repo": "jackkuo666/biorxiv-mcp-server",
+  "source_url": "https://github.com/jackkuo666/biorxiv-mcp-server",
+  "install": "npx -y biorxiv-mcp-server"
+}

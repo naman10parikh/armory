@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-nvd",
+  "description": "Query the National Vulnerability Database for CVE security vulnerability data.",
+  "source_repo": "pipeworx-io/mcp-nvd",
+  "source_url": "https://github.com/pipeworx-io/mcp-nvd",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-nvd\n# See source for mcpServers config block"
+}

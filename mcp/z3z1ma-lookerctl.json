@@ -1,0 +1,7 @@
+{
+  "name": "z3z1ma-lookerctl",
+  "description": "Automates Looker workflows and LookML development with comprehensive parsing, validation, dependency analysis, query testing with baseline comparisons, and workspace management featuring SQLite-backed API caching and SQL formatting capabilities.",
+  "source_repo": "z3z1ma/lookerctl",
+  "source_url": "https://github.com/z3z1ma/lookerctl",
+  "install": "# git clone --depth 1 https://github.com/z3z1ma/lookerctl\n# See source for mcpServers config block"
+}

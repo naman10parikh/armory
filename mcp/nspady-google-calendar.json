@@ -1,0 +1,7 @@
+{
+  "name": "nspady-google-calendar",
+  "description": "Integrates with Google Calendar to enable natural language querying, event creation, and calendar management using the Google Calendar API and OAuth 2.0 authentication.",
+  "source_repo": "nspady/google-calendar-mcp",
+  "source_url": "https://github.com/nspady/google-calendar-mcp",
+  "install": "npx -y google-calendar-mcp"
+}

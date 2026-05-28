@@ -1,0 +1,7 @@
+{
+  "name": "servicetitan-mcp-server",
+  "description": "Provides 108 tools and 15 React apps to manage ServiceTitan field service operations, including jobs, customers, estimates, invoices, dispatching, technicians, equipment, memberships, inventory, locations, marketing, reporting, tags, and payroll.",
+  "source_repo": "BusyBee3333/servicetitan-mcp-2026-complete",
+  "source_url": "https://github.com/BusyBee3333/servicetitan-mcp-2026-complete",
+  "install": "# git clone --depth 1 https://github.com/BusyBee3333/servicetitan-mcp-2026-complete\n# See source for mcpServers config block"
+}

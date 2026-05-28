@@ -1,0 +1,7 @@
+{
+  "name": "rakeshgangwar-tmdb",
+  "description": "Provides a bridge to The Movie Database API for searching and retrieving detailed movie information with filtering by title, year, and pagination",
+  "source_repo": "rakeshgangwar/tmdb-mcp-server",
+  "source_url": "https://github.com/rakeshgangwar/tmdb-mcp-server",
+  "install": "npx -y tmdb-mcp-server"
+}

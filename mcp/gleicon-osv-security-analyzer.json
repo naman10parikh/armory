@@ -1,0 +1,7 @@
+{
+  "name": "gleicon-osv-security-analyzer",
+  "description": "Integrates with OSV.dev to identify and analyze potential vulnerabilities in codebases, providing dependency checking and code security analysis with optional Semgrep-enhanced static analysis.",
+  "source_repo": "gleicon/mcp-osv",
+  "source_url": "https://github.com/gleicon/mcp-osv",
+  "install": "# git clone --depth 1 https://github.com/gleicon/mcp-osv\n# See source for mcpServers config block"
+}

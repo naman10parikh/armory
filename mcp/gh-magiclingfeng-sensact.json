@@ -1,0 +1,7 @@
+{
+  "name": "gh-magiclingfeng-sensact",
+  "description": "Remote device platform enabling LLM clients to discover and invoke capabilities on user-owned devices through OAuth-authenticated MCP connections.",
+  "source_repo": "sensact-agents/sensact",
+  "source_url": "https://github.com/sensact-agents/sensact",
+  "install": "# git clone --depth 1 https://github.com/sensact-agents/sensact\n# See source for mcpServers config block"
+}

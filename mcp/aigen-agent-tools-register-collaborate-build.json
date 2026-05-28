@@ -1,0 +1,7 @@
+{
+  "name": "aigen-agent-tools-register-collaborate-build",
+  "description": "Agent collaboration toolkit. Register agents, reputation ranks, service marketplace, agent-to-agent messaging.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/aigen/agent-tools",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/aigen/agent-tools\n# See source for mcpServers config block"
+}

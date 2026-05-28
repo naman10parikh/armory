@@ -1,0 +1,7 @@
+{
+  "name": "connected-paths-social",
+  "description": "Multi-platform social media publishing via Bluesky, Threads, LinkedIn, Facebook, and Instagram.",
+  "source_repo": "connected-paths/mcp-social",
+  "source_url": "https://github.com/connected-paths/mcp-social",
+  "install": "# git clone --depth 1 https://github.com/connected-paths/mcp-social\n# See source for mcpServers config block"
+}

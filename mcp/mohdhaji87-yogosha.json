@@ -1,0 +1,7 @@
+{
+  "name": "mohdhaji87-yogosha",
+  "description": "Integrates with Yogosha's bug bounty platform API to provide comprehensive program management, vulnerability tracking, asset management, user administration, submission handling, scope definition, and notification management with full CRUD operations and authentication support.",
+  "source_repo": "mohdhaji87/yogosha-mcp",
+  "source_url": "https://github.com/mohdhaji87/yogosha-mcp",
+  "install": "npx -y yogosha-mcp"
+}

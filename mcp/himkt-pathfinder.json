@@ -1,0 +1,7 @@
+{
+  "name": "himkt-pathfinder",
+  "description": "Bridges Language Server Protocol servers to MCP clients, enabling jump-to-definition and code navigation features across multiple programming languages.",
+  "source_repo": "himkt/pathfinder",
+  "source_url": "https://github.com/himkt/pathfinder",
+  "install": "# git clone --depth 1 https://github.com/himkt/pathfinder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentrpc",
+  "description": "A universal RPC layer for AI agents. Connect to any function, any language, any framework, in minutes.",
+  "source_repo": "agentrpc/agentrpc",
+  "source_url": "https://github.com/agentrpc/agentrpc",
+  "install": "# git clone --depth 1 https://github.com/agentrpc/agentrpc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ruchernchong-google-analytics",
+  "description": "Integrates GA4 data to provide web analytics metrics and insights for analyzing website performance and user engagement.",
+  "source_repo": "ruchernchong/mcp-server-google-analytics",
+  "source_url": "https://github.com/ruchernchong/mcp-server-google-analytics",
+  "install": "# git clone --depth 1 https://github.com/ruchernchong/mcp-server-google-analytics\n# See source for mcpServers config block"
+}

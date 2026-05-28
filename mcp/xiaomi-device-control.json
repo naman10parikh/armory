@@ -1,0 +1,7 @@
+{
+  "name": "xiaomi-device-control",
+  "description": "MCP server for controlling Xiaomi/Mi Home smart devices via natural language, supporting device listing, property read/write, action calls, and camera snapshots.",
+  "source_repo": "alleneee/xiaomi-device-control",
+  "source_url": "https://github.com/alleneee/xiaomi-device-control",
+  "install": "# git clone --depth 1 https://github.com/alleneee/xiaomi-device-control\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "evalstate-mcp-hfspace",
+  "description": "MCP server that seamlessly integrates Hugging Face Spaces with AI assistants, enabling easy access to diverse AI models and tools without manual configuration.",
+  "source_repo": "evalstate/mcp-hfspace",
+  "source_url": "https://github.com/evalstate/mcp-hfspace",
+  "install": "# git clone --depth 1 https://github.com/evalstate/mcp-hfspace\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "niallroche-raphtory-graphql-schema-explorer",
+  "description": "Enables AI systems to explore and understand graph structures in Raphtory databases through GraphQL schema queries, property relationship analysis, and detailed information retrieval for effective query construction.",
+  "source_repo": "niallroche/raphtory_mcp",
+  "source_url": "https://github.com/niallroche/raphtory_mcp",
+  "install": "npx -y raphtory_mcp"
+}

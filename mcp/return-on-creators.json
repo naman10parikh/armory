@@ -1,0 +1,7 @@
+{
+  "name": "return-on-creators",
+  "description": "TikTok Shop creator commerce intelligence with category benchmarks, ROC projections, and brand fit analysis.",
+  "source_repo": "sugar-co-dev/roc-mcp-server",
+  "source_url": "https://github.com/sugar-co-dev/roc-mcp-server",
+  "install": "npx -y roc-mcp-server"
+}

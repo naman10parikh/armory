@@ -1,0 +1,7 @@
+{
+  "name": "talismanic-cleanuri-url-shortener",
+  "description": "Integrates with CleanURI API to transform long URLs into shortened links.",
+  "source_repo": "talismanic/cleanuri-url-shortener-mcp",
+  "source_url": "https://github.com/talismanic/cleanuri-url-shortener-mcp",
+  "install": "npx -y cleanuri-url-shortener-mcp"
+}

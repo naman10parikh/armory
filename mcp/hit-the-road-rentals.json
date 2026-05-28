@@ -1,0 +1,7 @@
+{
+  "name": "hit-the-road-rentals",
+  "description": "Search campervans and motorhomes for rent worldwide across 8 countries.",
+  "source_repo": "hittheroad-git/hittheroad-mcp",
+  "source_url": "https://github.com/hittheroad-git/hittheroad-mcp",
+  "install": "npx -y hittheroad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "muse-code-space-content-genie",
+  "description": "AI content creation assistant for Korean creators with trend analysis and SEO optimization.",
+  "source_repo": "muse-code-space/content-genie-mcp",
+  "source_url": "https://github.com/muse-code-space/content-genie-mcp",
+  "install": "npx -y content-genie-mcp"
+}

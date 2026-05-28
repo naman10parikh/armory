@@ -1,0 +1,7 @@
+{
+  "name": "mharnett-bing-ads",
+  "description": "Integrates with the Microsoft Advertising (Bing Ads) API for campaign management, keyword performance analysis, bid automation, and negative keyword management.",
+  "source_repo": "mharnett/mcp-bing-ads",
+  "source_url": "https://github.com/mharnett/mcp-bing-ads",
+  "install": "# git clone --depth 1 https://github.com/mharnett/mcp-bing-ads\n# See source for mcpServers config block"
+}

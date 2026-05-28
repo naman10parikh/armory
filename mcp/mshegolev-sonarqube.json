@@ -1,0 +1,7 @@
+{
+  "name": "mshegolev-sonarqube",
+  "description": "Query SonarQube projects, metrics, quality gates, and issues, with cross-project worst-metric ranking.",
+  "source_repo": "mshegolev/sonarqube-mcp",
+  "source_url": "https://github.com/mshegolev/sonarqube-mcp",
+  "install": "npx -y sonarqube-mcp"
+}

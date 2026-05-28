@@ -1,0 +1,7 @@
+{
+  "name": "muba00-gitstandup",
+  "description": "Generate daily standup notes from git commits across multiple repositories.",
+  "source_repo": "muba00/gitstandup",
+  "source_url": "https://github.com/muba00/gitstandup",
+  "install": "# git clone --depth 1 https://github.com/muba00/gitstandup\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ebhattad-nfl-data",
+  "description": "Provides NFL play-by-play data from 1999 to present with DuckDB-backed analytics, structured tools for play search, team and player statistics, side-by-side comparisons, rosters, injuries, and snap counts.",
+  "source_repo": "ebhattad/nfl-mcp",
+  "source_url": "https://github.com/ebhattad/nfl-mcp",
+  "install": "npx -y nfl-mcp"
+}

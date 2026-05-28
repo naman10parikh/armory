@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chzzk",
+  "description": "Enables querying the Chzzk live-streaming platform for channels, live broadcasts, search, and VODs using natural language.",
+  "source_repo": "saya6k/mcp-chzzk",
+  "source_url": "https://github.com/saya6k/mcp-chzzk",
+  "install": "# git clone --depth 1 https://github.com/saya6k/mcp-chzzk\n# See source for mcpServers config block"
+}

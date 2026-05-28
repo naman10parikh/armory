@@ -1,0 +1,7 @@
+{
+  "name": "iamvirul-the-council",
+  "description": "Multi-agent Claude orchestration that routes tasks by complexity across four tiers — from lightweight formatting to full strategic analysis.",
+  "source_repo": "iamvirul/the-council",
+  "source_url": "https://github.com/iamvirul/the-council",
+  "install": "# git clone --depth 1 https://github.com/iamvirul/the-council\n# See source for mcpServers config block"
+}

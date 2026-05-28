@@ -1,0 +1,7 @@
+{
+  "name": "npupko-agency",
+  "description": "On-demand access to 150+ specialist AI agent templates with search and browse capabilities.",
+  "source_repo": "npupko/agency-mcp-server",
+  "source_url": "https://github.com/npupko/agency-mcp-server",
+  "install": "npx -y agency-mcp-server"
+}

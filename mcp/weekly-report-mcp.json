@@ -1,0 +1,7 @@
+{
+  "name": "weekly-report-mcp",
+  "description": "Weekly Report Mcp MCP server listed on mcp.so.",
+  "source_repo": "kaneyxx/weekly-report-mcp",
+  "source_url": "https://mcp.so/server/weekly-report-mcp/kaneyxx",
+  "install": "npx -y weekly-report-mcp"
+}

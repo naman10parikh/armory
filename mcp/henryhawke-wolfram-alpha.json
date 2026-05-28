@@ -1,0 +1,7 @@
+{
+  "name": "henryhawke-wolfram-alpha",
+  "description": "Integrates with Wolfram Alpha's computational knowledge engine to provide mathematical calculations, scientific data retrieval, and factual information lookup through natural language queries with support for handling ambiguous queries that require clarification.",
+  "source_repo": "henryhawke/wolfram-llm-mcp",
+  "source_url": "https://github.com/henryhawke/wolfram-llm-mcp",
+  "install": "npx -y wolfram-llm-mcp"
+}

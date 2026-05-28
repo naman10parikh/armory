@@ -1,0 +1,7 @@
+{
+  "name": "pinzonjulian-stimulus-docs",
+  "description": "Provides direct access to Stimulus JavaScript framework documentation, fetching content from GitHub with fallback mechanisms for reliable retrieval of handbook tutorials and technical reference materials.",
+  "source_repo": "pinzonjulian/stimulus-docs-mcp-server",
+  "source_url": "https://github.com/pinzonjulian/stimulus-docs-mcp-server",
+  "install": "npx -y stimulus-docs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "raindrop-io-mcp-server",
+  "description": "Enables to manage Raindrop.io bookmarks programmatically—add, search, and organize bookmarks from LLM apps.",
+  "source_repo": "sachin-philip/raindrop.io-mcp",
+  "source_url": "https://github.com/sachin-philip/raindrop.io-mcp",
+  "install": "npx -y raindrop.io-mcp"
+}

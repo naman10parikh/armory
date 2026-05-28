@@ -1,0 +1,7 @@
+{
+  "name": "islem-zaraa-powerpoint",
+  "description": "Enables creation and manipulation of PowerPoint presentations with functions for adding slides, formatting content, reading metadata, and exporting to PDF using pptxgenjs and officegen libraries.",
+  "source_repo": "islem-zaraa/mcp-powerpoint",
+  "source_url": "https://github.com/islem-zaraa/mcp-powerpoint",
+  "install": "# git clone --depth 1 https://github.com/islem-zaraa/mcp-powerpoint\n# See source for mcpServers config block"
+}

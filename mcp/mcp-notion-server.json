@@ -1,0 +1,7 @@
+{
+  "name": "mcp-notion-server",
+  "description": "Mcp Notion Server MCP server listed on mcp.so.",
+  "source_repo": "osaken55/mcp-notion-server",
+  "source_url": "https://mcp.so/server/mcp-notion-server/osaken55",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-notion-server/osaken55\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "make-mcp-server",
+  "description": "Make Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "integromat/make-mcp-server",
+  "source_url": "https://mcp.so/server/make-mcp-server/integromat",
+  "install": "npx -y make-mcp-server"
+}

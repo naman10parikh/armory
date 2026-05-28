@@ -1,0 +1,7 @@
+{
+  "name": "vincentf305-deepseek",
+  "description": "Integrates with Deepseek models via a simple API bridge.",
+  "source_repo": "vincentf305/mcp-server-deepseek",
+  "source_url": "https://github.com/vincentf305/mcp-server-deepseek",
+  "install": "# git clone --depth 1 https://github.com/vincentf305/mcp-server-deepseek\n# See source for mcpServers config block"
+}

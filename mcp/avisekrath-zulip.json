@@ -1,0 +1,7 @@
+{
+  "name": "avisekrath-zulip",
+  "description": "Integrates with Zulip's REST API to send messages, manage conversations, handle files, schedule messages, and interact with users across organizations with support for channel and direct messaging, emoji reactions, and draft management.",
+  "source_repo": "avisekrath/zulip-mcp-server",
+  "source_url": "https://github.com/avisekrath/zulip-mcp-server",
+  "install": "npx -y zulip-mcp-server"
+}

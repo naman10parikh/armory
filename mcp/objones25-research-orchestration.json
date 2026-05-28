@@ -1,0 +1,7 @@
+{
+  "name": "objones25-research-orchestration",
+  "description": "Orchestrates intelligent research workflows by selecting and executing specialized tools (Brave Search, Tavily, GitHub, arXiv, news APIs) based on query context, synthesizing results into well-cited answers with iterative refinement and source attribution.",
+  "source_repo": "objones25/mcp-research-tool",
+  "source_url": "https://github.com/objones25/mcp-research-tool",
+  "install": "# git clone --depth 1 https://github.com/objones25/mcp-research-tool\n# See source for mcpServers config block"
+}

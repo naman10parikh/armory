@@ -1,0 +1,7 @@
+{
+  "name": "kw510-strava-mcp",
+  "description": "An MCP server for Strava, an app for tracking physical exercise",
+  "source_repo": "kw510/strava-mcp",
+  "source_url": "https://github.com/kw510/strava-mcp",
+  "install": "npx -y strava-mcp"
+}

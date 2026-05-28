@@ -1,0 +1,7 @@
+{
+  "name": "millermarru-contextflow",
+  "description": "Semantic code search and AI-powered Q&A over vectorized repositories.",
+  "source_repo": "millermarru/mcpcontext",
+  "source_url": "https://github.com/millermarru/mcpcontext",
+  "install": "# git clone --depth 1 https://github.com/millermarru/mcpcontext\n# See source for mcpServers config block"
+}

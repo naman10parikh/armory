@@ -1,0 +1,7 @@
+{
+  "name": "meacheal-ai-mrc-data",
+  "description": "China's apparel supply chain data for AI agents. 1,000+ verified suppliers, 350+ lab-tested fabrics, 170+ industrial clusters with AATCC / ISO / GB lab-test verification.",
+  "source_repo": "meacheal-ai/mrc-data",
+  "source_url": "https://github.com/meacheal-ai/mrc-data",
+  "install": "# git clone --depth 1 https://github.com/meacheal-ai/mrc-data\n# See source for mcpServers config block"
+}

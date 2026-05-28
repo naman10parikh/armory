@@ -1,0 +1,7 @@
+{
+  "name": "philschmid-code-sandbox",
+  "description": "Provides secure code execution capabilities through containerized sandbox environments, supporting Python and JavaScript with pre-installed libraries for data analysis, visualization, and prototyping without compromising host system security.",
+  "source_repo": "philschmid/code-sandbox-mcp",
+  "source_url": "https://github.com/philschmid/code-sandbox-mcp",
+  "install": "npx -y code-sandbox-mcp"
+}

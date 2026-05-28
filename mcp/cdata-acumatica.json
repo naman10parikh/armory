@@ -1,0 +1,7 @@
+{
+  "name": "cdata-acumatica",
+  "description": "Connects to enterprise databases through JDBC drivers, enabling SQL query execution and metadata exploration across various data sources including Acumatica with results returned in CSV format for business intelligence and automated reporting workflows.",
+  "source_repo": "cdatasoftware/acumatica-mcp-server-by-cdata",
+  "source_url": "https://github.com/cdatasoftware/acumatica-mcp-server-by-cdata",
+  "install": "# git clone --depth 1 https://github.com/cdatasoftware/acumatica-mcp-server-by-cdata\n# See source for mcpServers config block"
+}

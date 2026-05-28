@@ -1,0 +1,7 @@
+{
+  "name": "terminal-controller-mcp-server",
+  "description": "Enables secure terminal command execution, directory navigation, and file system operations through a standardized interface.",
+  "source_repo": "iflow-mcp/gongrzhe-terminal-controller-mcp",
+  "source_url": "https://github.com/iflow-mcp/gongrzhe-terminal-controller-mcp",
+  "install": "npx -y gongrzhe-terminal-controller-mcp"
+}

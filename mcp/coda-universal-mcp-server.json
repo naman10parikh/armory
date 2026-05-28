@@ -1,0 +1,7 @@
+{
+  "name": "coda-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Coda's tools and services through a unified API, following the MCP specification.",
+  "source_repo": "universal-mcp/coda",
+  "source_url": "https://github.com/universal-mcp/coda",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/coda\n# See source for mcpServers config block"
+}

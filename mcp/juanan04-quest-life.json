@@ -1,0 +1,7 @@
+{
+  "name": "juanan04-quest-life",
+  "description": "MCP server for gamified productivity tracking with RPG-style quests, habit streaks, and XP progression via Supabase.",
+  "source_repo": "juanan04/quest-life-mcp",
+  "source_url": "https://github.com/juanan04/quest-life-mcp",
+  "install": "npx -y quest-life-mcp"
+}

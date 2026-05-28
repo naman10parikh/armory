@@ -1,0 +1,7 @@
+{
+  "name": "inkscape-mcp",
+  "description": "Enables AI agents to control Inkscape for vector graphics editing via MCP tools.",
+  "source_repo": "sandraschi/inkscape-mcp",
+  "source_url": "https://github.com/sandraschi/inkscape-mcp",
+  "install": "npx -y inkscape-mcp"
+}

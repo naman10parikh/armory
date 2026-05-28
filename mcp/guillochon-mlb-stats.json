@@ -1,0 +1,7 @@
+{
+  "name": "guillochon-mlb-stats",
+  "description": "Integrates with MLB Stats API and pybaseball to provide real-time baseball statistics, game schedules, player data including sabermetrics, team rosters, live scores, highlights, and Statcast analytics for sports research and fantasy baseball applications.",
+  "source_repo": "guillochon/mlb-api-mcp",
+  "source_url": "https://github.com/guillochon/mlb-api-mcp",
+  "install": "npx -y mlb-api-mcp"
+}

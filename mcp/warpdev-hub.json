@@ -1,0 +1,7 @@
+{
+  "name": "warpdev-hub",
+  "description": "Centralizes multiple MCP servers into a unified hub, enabling seamless tool discovery and routing across specialized servers for complex workflows without managing individual connections.",
+  "source_repo": "warpdev/mcp-hub-mcp",
+  "source_url": "https://github.com/warpdev/mcp-hub-mcp",
+  "install": "npx -y mcp-hub-mcp"
+}

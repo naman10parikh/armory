@@ -1,0 +1,7 @@
+{
+  "name": "weibohot",
+  "description": "Weibohot MCP server listed on mcp.so.",
+  "source_repo": "wangtsiao/weibohot",
+  "source_url": "https://mcp.so/server/weibohot/wangtsiao",
+  "install": "# git clone --depth 1 https://mcp.so/server/weibohot/wangtsiao\n# See source for mcpServers config block"
+}

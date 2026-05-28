@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-playwright",
+  "description": "Enables web browser control for navigating websites, capturing page snapshots, interacting with elements, and taking screenshots through Playwright's automation capabilities.",
+  "source_repo": "microsoft/playwright-mcp",
+  "source_url": "https://github.com/microsoft/playwright-mcp",
+  "install": "npx -y playwright-mcp"
+}

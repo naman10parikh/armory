@@ -1,0 +1,7 @@
+{
+  "name": "namin-dafny-verifier",
+  "description": "Integrates with Dafny to verify code correctness through analysis of formal specifications and proofs.",
+  "source_repo": "namin/dafny-mcp",
+  "source_url": "https://github.com/namin/dafny-mcp",
+  "install": "npx -y dafny-mcp"
+}

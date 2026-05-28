@@ -1,0 +1,7 @@
+{
+  "name": "roboulos-xano1a2c",
+  "description": "Provides a bridge to Xano databases for exploring and managing database structures, schemas, and indexes through natural language interaction",
+  "source_repo": "roboulos/simple-xano-mcp",
+  "source_url": "https://github.com/roboulos/simple-xano-mcp",
+  "install": "npx -y simple-xano-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "krystalview",
+  "description": "Provides AI agents with access to website analytics, session replay data, friction scoring, conversion funnels, and anomaly detection from KrystalView.",
+  "source_repo": "krystalview/krystalview-mcp",
+  "source_url": "https://github.com/krystalview/krystalview-mcp",
+  "install": "npx -y krystalview-mcp"
+}

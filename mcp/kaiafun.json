@@ -1,0 +1,7 @@
+{
+  "name": "kaiafun",
+  "description": "Enables interaction with the KaiaFun memecoin platform for listing, buying, selling, and managing tokens on the Kaia blockchain.",
+  "source_repo": "weero-finance/kaiafun-mcp",
+  "source_url": "https://github.com/weero-finance/kaiafun-mcp",
+  "install": "npx -y kaiafun-mcp"
+}

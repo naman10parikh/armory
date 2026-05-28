@@ -1,0 +1,7 @@
+{
+  "name": "pdf-tools-mcp-server",
+  "description": "Enables PDF file manipulation including merging, splitting, extracting pages, extracting text, excluding pages, and reordering pages.",
+  "source_repo": "h-ucchi/pdf-mcp-server",
+  "source_url": "https://github.com/h-ucchi/pdf-mcp-server",
+  "install": "npx -y pdf-mcp-server"
+}

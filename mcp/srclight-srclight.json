@@ -1,0 +1,7 @@
+{
+  "name": "srclight-srclight",
+  "description": "Deep code indexing MCP server with SQLite FTS5, tree-sitter, and embeddings. 29 tools for symbol search, call graphs, git intelligence, and hybrid semantic search.",
+  "source_repo": "srclight/srclight",
+  "source_url": "https://github.com/srclight/srclight",
+  "install": "# git clone --depth 1 https://github.com/srclight/srclight\n# See source for mcpServers config block"
+}

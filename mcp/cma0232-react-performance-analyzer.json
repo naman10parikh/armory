@@ -1,0 +1,7 @@
+{
+  "name": "cma0232-react-performance-analyzer",
+  "description": "Analyzes React application performance, identifying slow renders and optimization opportunities.",
+  "source_repo": "cma0232/react-perf-mcp",
+  "source_url": "https://github.com/cma0232/react-perf-mcp",
+  "install": "npx -y react-perf-mcp"
+}

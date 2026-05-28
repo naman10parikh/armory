@@ -1,0 +1,7 @@
+{
+  "name": "usdv-capital-your-real-estate-cfo",
+  "description": "Real estate market intelligence, financial calculators, and capital advisory tools covering all 50 US states plus DC and Puerto Rico. Access CFO-level market data for 86,000+ locations, calculate DSCR and flip ROI with professional assessments, check financing eligibility, and screen investment oppo",
+  "source_repo": "",
+  "source_url": "https://markets.usdvcapital.com/",
+  "install": "# git clone --depth 1 https://markets.usdvcapital.com/\n# See source for mcpServers config block"
+}

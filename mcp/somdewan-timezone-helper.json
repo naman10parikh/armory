@@ -1,0 +1,7 @@
+{
+  "name": "somdewan-timezone-helper",
+  "description": "TimezoneDB API wrapper providing timezone lookup via self-hosted MCP.",
+  "source_repo": "",
+  "source_url": "https://timezonedb.com",
+  "install": "# git clone --depth 1 https://timezonedb.com\n# See source for mcpServers config block"
+}

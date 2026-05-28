@@ -1,0 +1,7 @@
+{
+  "name": "rudra-ravi-wikipedia",
+  "description": "Provides a bridge to Wikipedia's knowledge base, enabling search, retrieval, and analysis of articles through the Wikipedia API for research and contextual information gathering.",
+  "source_repo": "rudra-ravi/wikipedia-mcp",
+  "source_url": "https://github.com/rudra-ravi/wikipedia-mcp",
+  "install": "npx -y wikipedia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jolt-transform-web",
+  "description": "Bazaarvoice JOLT transformation capabilities via MCP.",
+  "source_repo": "halversondm/jolt-transform-web",
+  "source_url": "https://github.com/halversondm/jolt-transform-web",
+  "install": "# git clone --depth 1 https://github.com/halversondm/jolt-transform-web\n# See source for mcpServers config block"
+}

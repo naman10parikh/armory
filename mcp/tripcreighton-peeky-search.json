@@ -1,0 +1,7 @@
+{
+  "name": "tripcreighton-peeky-search",
+  "description": "Privacy-focused web search using local SearXNG with BM25 scoring to extract relevant content snippets from web pages.",
+  "source_repo": "tripcreighton/peeky-search",
+  "source_url": "https://github.com/tripcreighton/peeky-search",
+  "install": "# git clone --depth 1 https://github.com/tripcreighton/peeky-search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yuheinkasaka-arithmetic",
+  "description": "Provides arithmetic operations for basic calculations, enabling efficient mathematical computations in workflows and applications.",
+  "source_repo": "yuheinakasaka/arithmetic-mcp-server",
+  "source_url": "https://github.com/yuheinakasaka/arithmetic-mcp-server",
+  "install": "npx -y arithmetic-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cupofowls-kroger",
+  "description": "Integrates with Kroger's grocery shopping API to enable store location management, product search with pricing and aisle information, cart operations, and order history management through OAuth2 authentication and local cart tracking.",
+  "source_repo": "cupofowls/kroger-mcp",
+  "source_url": "https://github.com/cupofowls/kroger-mcp",
+  "install": "npx -y kroger-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "a2a4j",
+  "description": "A Java implementation of the A2A protocol",
+  "source_repo": "imfangs/a2a4j",
+  "source_url": "https://github.com/imfangs/a2a4j",
+  "install": "# git clone --depth 1 https://github.com/imfangs/a2a4j\n# See source for mcpServers config block"
+}

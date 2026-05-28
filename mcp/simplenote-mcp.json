@@ -1,0 +1,7 @@
+{
+  "name": "simplenote-mcp",
+  "description": "MCP server for reading Simplenote notes across macOS, Linux, and Windows.",
+  "source_repo": "automattic/simplenote-mcp",
+  "source_url": "https://github.com/automattic/simplenote-mcp",
+  "install": "npx -y simplenote-mcp"
+}

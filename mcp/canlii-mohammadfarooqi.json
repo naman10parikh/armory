@@ -1,0 +1,7 @@
+{
+  "name": "canlii-mohammadfarooqi",
+  "description": "Search Canadian case law, browse legislation, and check citations via the CanLII API.",
+  "source_repo": "mohammadfarooqi/canlii-mcp",
+  "source_url": "https://github.com/mohammadfarooqi/canlii-mcp",
+  "install": "npx -y canlii-mcp"
+}

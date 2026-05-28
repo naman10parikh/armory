@@ -1,0 +1,7 @@
+{
+  "name": "shanejonas-openrpc-mcp-server",
+  "description": "Make standardized JSON-RPC calls via OpenRPC specification.",
+  "source_repo": "shanejonas/openrpc-mcp-server",
+  "source_url": "https://github.com/shanejonas/openrpc-mcp-server",
+  "install": "npx -y openrpc-mcp-server"
+}

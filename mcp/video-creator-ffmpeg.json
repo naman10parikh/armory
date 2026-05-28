@@ -1,0 +1,7 @@
+{
+  "name": "video-creator-ffmpeg",
+  "description": "Enables video manipulation through natural language commands, providing functionality for searching, retrieving metadata, cutting clips, and concatenating videos without direct interaction with FFmpeg command line tools.",
+  "source_repo": "video-creator/ffmpeg-mcp",
+  "source_url": "https://github.com/video-creator/ffmpeg-mcp",
+  "install": "npx -y ffmpeg-mcp"
+}

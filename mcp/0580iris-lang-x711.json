@@ -1,0 +1,7 @@
+{
+  "name": "0580iris-lang-x711",
+  "description": "Pay-per-use tool API for AI agents with free tier, x402 USDC micropayments, and API key access.",
+  "source_repo": "",
+  "source_url": "https://x711.io",
+  "install": "# git clone --depth 1 https://x711.io\n# See source for mcpServers config block"
+}

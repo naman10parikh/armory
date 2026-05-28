@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-legal-document-ai-mcp",
+  "description": "Python MCP server for legal document analysis and drafting.",
+  "source_repo": "csoai-org/legal-document-ai-mcp",
+  "source_url": "https://github.com/csoai-org/legal-document-ai-mcp",
+  "install": "npx -y legal-document-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simple-mcp-user-server",
+  "description": "Provides tools for retrieving user data, including listing all users and fetching a specific user by name.",
+  "source_repo": "fujahgabriel/simple-mcp-server",
+  "source_url": "https://github.com/fujahgabriel/simple-mcp-server",
+  "install": "npx -y simple-mcp-server"
+}

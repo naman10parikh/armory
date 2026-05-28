@@ -1,0 +1,7 @@
+{
+  "name": "goosefly99-pipeline",
+  "description": "Pipeline orchestration with DAG resolution and JSON Schema artifact validation.",
+  "source_repo": "goosefly99/pipeline-mcp",
+  "source_url": "https://github.com/goosefly99/pipeline-mcp",
+  "install": "npx -y pipeline-mcp"
+}

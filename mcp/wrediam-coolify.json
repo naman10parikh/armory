@@ -1,0 +1,7 @@
+{
+  "name": "wrediam-coolify",
+  "description": "Enables comprehensive Coolify infrastructure management by exposing tools for creating, deploying, and tracking servers, applications, and team resources with robust operational capabilities.",
+  "source_repo": "wrediam/coolify-mcp-server",
+  "source_url": "https://github.com/wrediam/coolify-mcp-server",
+  "install": "npx -y coolify-mcp-server"
+}

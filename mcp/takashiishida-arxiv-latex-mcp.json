@@ -1,0 +1,7 @@
+{
+  "name": "takashiishida-arxiv-latex-mcp",
+  "description": "Get the LaTeX source of arXiv papers to handle mathematical content and equations",
+  "source_repo": "takashiishida/arxiv-latex-mcp",
+  "source_url": "https://github.com/takashiishida/arxiv-latex-mcp",
+  "install": "npx -y arxiv-latex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "regintel-mcp",
+  "description": "MCP server for the RegIntel API — structured regulatory data across 41 jurisdictions and 212 regulations",
+  "source_repo": "ad0750/regintel-mcp",
+  "source_url": "https://github.com/ad0750/regintel-mcp",
+  "install": "npx -y regintel-mcp"
+}

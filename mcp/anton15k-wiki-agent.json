@@ -1,0 +1,7 @@
+{
+  "name": "anton15k-wiki-agent",
+  "description": "MCP server for personal wiki and knowledge management that converts URLs, PDFs, audio, and video into Obsidian notes.",
+  "source_repo": "anton15k/llm_wiki_agent",
+  "source_url": "https://github.com/anton15k/llm_wiki_agent",
+  "install": "# git clone --depth 1 https://github.com/anton15k/llm_wiki_agent\n# See source for mcpServers config block"
+}

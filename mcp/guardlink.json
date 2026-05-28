@@ -1,0 +1,7 @@
+{
+  "name": "guardlink",
+  "description": "Embeds security annotations directly in source code to maintain living threat models that update with code changes, enforced through CI validation.",
+  "source_repo": "bugb-technologies/guardlink",
+  "source_url": "https://github.com/bugb-technologies/guardlink",
+  "install": "# git clone --depth 1 https://github.com/bugb-technologies/guardlink\n# See source for mcpServers config block"
+}

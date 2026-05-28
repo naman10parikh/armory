@@ -1,0 +1,7 @@
+{
+  "name": "agentphone-mcp-server",
+  "description": "Enables AI agents to manage phone numbers, send/receive SMS, and place voice calls through natural language, connecting to the phone network via the AgentPhone API.",
+  "source_repo": "AgentPhone-AI/agentphone-mcp",
+  "source_url": "https://github.com/AgentPhone-AI/agentphone-mcp",
+  "install": "npx -y agentphone-mcp"
+}

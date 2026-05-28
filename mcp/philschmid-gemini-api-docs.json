@@ -1,0 +1,7 @@
+{
+  "name": "philschmid-gemini-api-docs",
+  "description": "Automatically scrapes and indexes Google Gemini API documentation from ai.google.dev into a local SQLite database with FTS5 search capabilities, providing keyword-based search, specific page retrieval, and quick model information access for developers building Gemini-powered applications.",
+  "source_repo": "philschmid/gemini-api-docs-mcp",
+  "source_url": "https://github.com/philschmid/gemini-api-docs-mcp",
+  "install": "npx -y gemini-api-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "labrat-0-rxradar",
+  "description": "Semantic search across five US government healthcare databases including NPI providers, PubMed, FDA adverse events, ClinicalTrials.gov, and FDA drug labels.",
+  "source_repo": "",
+  "source_url": "https://mcp.rxradar.dev/mcp",
+  "install": "# git clone --depth 1 https://mcp.rxradar.dev/mcp\n# See source for mcpServers config block"
+}

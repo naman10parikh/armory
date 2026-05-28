@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-logpush",
+  "description": "Enables AI assistants to retrieve and manage Cloudflare Logpush jobs across multiple accounts, providing tools for monitoring and troubleshooting log delivery pipelines through conversational interfaces.",
+  "source_repo": "cloudflare/mcp-server-cloudflare",
+  "source_url": "https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/logpush",
+  "install": "# git clone --depth 1 https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/logpush\n# See source for mcpServers config block"
+}

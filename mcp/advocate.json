@@ -1,0 +1,7 @@
+{
+  "name": "advocate",
+  "description": "MCP server that makes local businesses discoverable to AI assistants with verified data.",
+  "source_repo": "cameronjmcewan-dev/advocatemcp",
+  "source_url": "https://github.com/cameronjmcewan-dev/advocatemcp",
+  "install": "# git clone --depth 1 https://github.com/cameronjmcewan-dev/advocatemcp\n# See source for mcpServers config block"
+}

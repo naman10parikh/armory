@@ -1,0 +1,7 @@
+{
+  "name": "echo-mcp-server",
+  "description": "Echo Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "narita1980/echo-mcp-server",
+  "source_url": "https://mcp.so/server/echo-mcp-server/narita1980",
+  "install": "npx -y echo-mcp-server"
+}

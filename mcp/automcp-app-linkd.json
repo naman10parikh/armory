@@ -1,0 +1,7 @@
+{
+  "name": "automcp-app-linkd",
+  "description": "Integrates with Linkd API to extract LinkedIn user and company profiles, search contacts, retrieve email addresses, and perform deep research workflows for sales prospecting and recruitment.",
+  "source_repo": "automcp-app/linkd-mcp",
+  "source_url": "https://github.com/automcp-app/linkd-mcp",
+  "install": "npx -y linkd-mcp"
+}

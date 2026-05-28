@@ -1,0 +1,7 @@
+{
+  "name": "korean-law-mcp",
+  "description": "MCP server for Korean law data (statutes, precedents, regulations) with citation verification, impact analysis, and time comparison tools.",
+  "source_repo": "chrisryugj/korean-law-mcp",
+  "source_url": "https://github.com/chrisryugj/korean-law-mcp",
+  "install": "npx -y korean-law-mcp"
+}

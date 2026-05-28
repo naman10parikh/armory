@@ -1,0 +1,7 @@
+{
+  "name": "afshawnlotfi-configurable-puppeteer",
+  "description": "Enables browser automation through Puppeteer with configurable launch options for Chrome and Firefox, supporting web testing, data extraction, form filling, and interactive demonstrations",
+  "source_repo": "afshawnlotfi/mcp-configurable-puppeteer",
+  "source_url": "https://github.com/afshawnlotfi/mcp-configurable-puppeteer",
+  "install": "# git clone --depth 1 https://github.com/afshawnlotfi/mcp-configurable-puppeteer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sam-aec-autodesk-revit",
+  "description": "Bridges Autodesk Revit with AI assistants through a Python MCP server and C# add-in, enabling document operations, structural element creation, MEP systems, export workflows, and parameter management for AEC workflows.",
+  "source_repo": "sam-aec/autodesk-revit-mcp-server",
+  "source_url": "https://github.com/sam-aec/autodesk-revit-mcp-server",
+  "install": "npx -y autodesk-revit-mcp-server"
+}

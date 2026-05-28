@@ -1,0 +1,7 @@
+{
+  "name": "krekun-vrchat",
+  "description": "Provides a bridge between AI assistants and VRChat, enabling direct avatar parameter manipulation, movement control, and interaction through WebSocket and OSC protocols.",
+  "source_repo": "krekun/vrchat-mcp-osc",
+  "source_url": "https://github.com/krekun/vrchat-mcp-osc",
+  "install": "# git clone --depth 1 https://github.com/krekun/vrchat-mcp-osc\n# See source for mcpServers config block"
+}

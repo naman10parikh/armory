@@ -1,0 +1,7 @@
+{
+  "name": "dmayboroda-minima",
+  "description": "Search and retrieve context from local files for RAG.",
+  "source_repo": "dmayboroda/minima",
+  "source_url": "https://github.com/dmayboroda/minima/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/dmayboroda/minima/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

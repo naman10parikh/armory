@@ -1,0 +1,7 @@
+{
+  "name": "zero-core-verify",
+  "description": "Post-transaction outcome verification for agents using LLM-as-judge scoring.",
+  "source_repo": "meltingpixelsai/zero-core-verify",
+  "source_url": "https://github.com/meltingpixelsai/zero-core-verify",
+  "install": "# git clone --depth 1 https://github.com/meltingpixelsai/zero-core-verify\n# See source for mcpServers config block"
+}

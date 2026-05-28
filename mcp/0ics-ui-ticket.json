@@ -1,0 +1,7 @@
+{
+  "name": "0ics-ui-ticket",
+  "description": "Human-to-AI code review bridge for UI prototypes with browser annotations.",
+  "source_repo": "0ics-srls/ui-ticket-mcp_public",
+  "source_url": "https://github.com/0ics-srls/ui-ticket-mcp_public",
+  "install": "# git clone --depth 1 https://github.com/0ics-srls/ui-ticket-mcp_public\n# See source for mcpServers config block"
+}

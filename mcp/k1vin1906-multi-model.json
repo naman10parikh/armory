@@ -1,0 +1,7 @@
+{
+  "name": "k1vin1906-multi-model",
+  "description": "MCP server that routes queries to 12+ AI providers including OpenAI, Gemini, and DeepSeek with intelligent task-based model selection and parallel execution.",
+  "source_repo": "k1vin1906/mcp-multi-model",
+  "source_url": "https://github.com/k1vin1906/mcp-multi-model",
+  "install": "# git clone --depth 1 https://github.com/k1vin1906/mcp-multi-model\n# See source for mcpServers config block"
+}

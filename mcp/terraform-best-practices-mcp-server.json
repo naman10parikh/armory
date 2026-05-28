@@ -1,0 +1,7 @@
+{
+  "name": "terraform-best-practices-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for producing better Terraform through CLI analysis (tflint, checkov, trivy, kics, infracost), best-practice guidance from terraform-best-practices.com, cloud provider recommendations (Azure, AWS, GCP), and Terraform Registry resource and module guidance.",
+  "source_repo": "DownAtTheBottomOfTheMoleHole/terraform-best-practices-mcp",
+  "source_url": "https://github.com/DownAtTheBottomOfTheMoleHole/terraform-best-practices-mcp",
+  "install": "npx -y terraform-best-practices-mcp"
+}

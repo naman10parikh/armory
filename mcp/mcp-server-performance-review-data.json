@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-performance-review-data",
+  "description": "Mcp Server Performance Review Data MCP server listed on mcp.so.",
+  "source_repo": "kfischer-okarin/mcp-server-performance-review-data",
+  "source_url": "https://mcp.so/server/mcp-server-performance-review-data/kfischer-okarin",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-performance-review-data/kfischer-okarin\n# See source for mcpServers config block"
+}

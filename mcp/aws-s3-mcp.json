@@ -1,0 +1,7 @@
+{
+  "name": "aws-s3-mcp",
+  "description": "Aws S3 Mcp MCP server listed on mcp.so.",
+  "source_repo": "samuraikun/aws-s3-mcp",
+  "source_url": "https://mcp.so/server/aws-s3-mcp/samuraikun",
+  "install": "npx -y aws-s3-mcp"
+}

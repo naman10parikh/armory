@@ -1,0 +1,7 @@
+{
+  "name": "automateyournetwork-cisco-ise",
+  "description": "Provides a bridge between Cisco Identity Services Engine (ISE) REST APIs and network administrators, enabling dynamic discovery and retrieval of security configurations without direct API interaction.",
+  "source_repo": "automateyournetwork/ise_mcp",
+  "source_url": "https://github.com/automateyournetwork/ise_mcp/tree/HEAD/ise_mcp",
+  "install": "npx -y ise_mcp"
+}

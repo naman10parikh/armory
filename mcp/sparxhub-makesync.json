@@ -1,0 +1,7 @@
+{
+  "name": "sparxhub-makesync",
+  "description": "Integrates with Make.com's automation platform to create, update, and manage workflow scenarios through natural language commands without requiring deep API knowledge.",
+  "source_repo": "sparxhub/mcp-makesync",
+  "source_url": "https://github.com/sparxhub/mcp-makesync",
+  "install": "# git clone --depth 1 https://github.com/sparxhub/mcp-makesync\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hebbian",
+  "description": "Connects AI agents to Hebbian knowledge workspaces with 8 tools for semantic search, synthesis Q&A, graph traversal, and vault capture.",
+  "source_repo": "hebbianvault/hebbian-mcp",
+  "source_url": "https://github.com/hebbianvault/hebbian-mcp",
+  "install": "npx -y hebbian-mcp"
+}

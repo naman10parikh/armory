@@ -1,0 +1,7 @@
+{
+  "name": "wynnd-shortcut",
+  "description": "Integrates with Shortcut's ticket management system to enable listing, searching, creating and updating stories, managing comments, and retrieving workflow states and projects",
+  "source_repo": "wynnd/mcp-server-shortcut",
+  "source_url": "https://github.com/wynnd/mcp-server-shortcut",
+  "install": "# git clone --depth 1 https://github.com/wynnd/mcp-server-shortcut\n# See source for mcpServers config block"
+}

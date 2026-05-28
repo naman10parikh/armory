@@ -1,0 +1,7 @@
+{
+  "name": "perseus",
+  "description": "MCP server with 24 tools for live workspace state resolution. Pre-resolves git status, service health, file queries, memory federation, and multi-agent coordination into markdown before the AI sees it. Single-file Python (pyyaml only), MIT. Serves over stdio and SSE. Published as io.github.tcconnall",
+  "source_repo": "tcconnally/perseus",
+  "source_url": "https://github.com/tcconnally/perseus",
+  "install": "# git clone --depth 1 https://github.com/tcconnally/perseus\n# See source for mcpServers config block"
+}

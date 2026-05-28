@@ -1,0 +1,7 @@
+{
+  "name": "sawa-zen-vrchat-mcp",
+  "description": "📇 🏠 This is an MCP server for interacting with the VRChat API. You can retrieve information about friends, worlds, avatars, and more in VRChat.",
+  "source_repo": "sawa-zen/vrchat-mcp",
+  "source_url": "https://github.com/sawa-zen/vrchat-mcp",
+  "install": "npx -y vrchat-mcp"
+}

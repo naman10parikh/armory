@@ -1,0 +1,7 @@
+{
+  "name": "thuupx-memory-lite",
+  "description": "Stores durable knowledge for AI coding assistants including technical decisions, architecture notes, and command references in local persistent storage.",
+  "source_repo": "thuupx/memory-mcp-lite",
+  "source_url": "https://github.com/thuupx/memory-mcp-lite",
+  "install": "# git clone --depth 1 https://github.com/thuupx/memory-mcp-lite\n# See source for mcpServers config block"
+}

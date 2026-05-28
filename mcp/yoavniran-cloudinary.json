@@ -1,0 +1,7 @@
+{
+  "name": "yoavniran-cloudinary",
+  "description": "Provides direct access to Cloudinary's Upload and Admin APIs for uploading, retrieving, searching, and managing digital media assets in your Cloudinary cloud.",
+  "source_repo": "yoavniran/cloudinary-mcp-server",
+  "source_url": "https://github.com/yoavniran/cloudinary-mcp-server",
+  "install": "npx -y cloudinary-mcp-server"
+}

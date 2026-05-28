@@ -1,0 +1,7 @@
+{
+  "name": "amcharts5",
+  "description": "On-demand access to the complete amCharts 5 knowledge base including documentation, code examples, and API references.",
+  "source_repo": "amcharts/amcharts5-mcp",
+  "source_url": "https://github.com/amcharts/amcharts5-mcp",
+  "install": "npx -y amcharts5-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tedlikeskix-alpaca-trading",
+  "description": "Integrates with the Alpaca trading API to provide algorithmic trading and portfolio management tools for account information, market data, order placement, and position tracking.",
+  "source_repo": "tedlikeskix/alpaca-mcp-server",
+  "source_url": "https://github.com/tedlikeskix/alpaca-mcp-server",
+  "install": "npx -y alpaca-mcp-server"
+}

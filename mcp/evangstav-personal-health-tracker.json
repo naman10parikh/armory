@@ -1,0 +1,7 @@
+{
+  "name": "evangstav-personal-health-tracker",
+  "description": "Integrates personal health data tracking with natural language querying and visualization for privacy-focused local analysis and trend insights.",
+  "source_repo": "evangstav/personal-mcp",
+  "source_url": "https://github.com/evangstav/personal-mcp",
+  "install": "npx -y personal-mcp"
+}

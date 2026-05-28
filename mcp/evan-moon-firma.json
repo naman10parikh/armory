@@ -1,0 +1,7 @@
+{
+  "name": "evan-moon-firma",
+  "description": "Local-first portfolio tracker for overseas investors with multi-currency support and Claude integration.",
+  "source_repo": "evan-moon/firma",
+  "source_url": "https://github.com/evan-moon/firma",
+  "install": "# git clone --depth 1 https://github.com/evan-moon/firma\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "studentofjs-frontend-testing",
+  "description": "Enables automated frontend testing by analyzing JavaScript/TypeScript code, generating Jest and Cypress tests, and executing them in isolated environments with proper configurations and dependencies.",
+  "source_repo": "studentofjs/mcp-frontend-testing",
+  "source_url": "https://github.com/studentofjs/mcp-frontend-testing",
+  "install": "# git clone --depth 1 https://github.com/studentofjs/mcp-frontend-testing\n# See source for mcpServers config block"
+}

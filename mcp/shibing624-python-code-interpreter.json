@@ -1,0 +1,7 @@
+{
+  "name": "shibing624-python-code-interpreter",
+  "description": "Provides a secure Python code interpreter for executing code, installing packages, and running files in isolated environments with persistent execution contexts and variable extraction capabilities.",
+  "source_repo": "shibing624/mcp-run-python-code",
+  "source_url": "https://github.com/shibing624/mcp-run-python-code",
+  "install": "# git clone --depth 1 https://github.com/shibing624/mcp-run-python-code\n# See source for mcpServers config block"
+}

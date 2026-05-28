@@ -1,0 +1,7 @@
+{
+  "name": "graphistry-gpu-visualization",
+  "description": "GPU-accelerated graph visualization and analytics for LLMs.",
+  "source_repo": "graphistry/graphistry-mcp",
+  "source_url": "https://github.com/graphistry/graphistry-mcp",
+  "install": "npx -y graphistry-mcp"
+}

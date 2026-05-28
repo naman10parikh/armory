@@ -1,0 +1,7 @@
+{
+  "name": "olyport-hud-housing",
+  "description": "Fair Market Rents, income limits, public housing, vouchers, and homeless counts from HUD.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/hud-housing/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/hud-housing/mcp\n# See source for mcpServers config block"
+}

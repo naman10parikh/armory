@@ -1,0 +1,7 @@
+{
+  "name": "whensport-cricket-2026",
+  "description": "Access 2026 cricket tournament and match scheduling data with T20 World Cup focus, team listings, marquee player profiles, and pagination support via 6 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/cricket",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/cricket\n# See source for mcpServers config block"
+}

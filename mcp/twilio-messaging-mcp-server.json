@@ -1,0 +1,7 @@
+{
+  "name": "twilio-messaging-mcp-server",
+  "description": "Twilio Messaging Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "deshartman/twilio-messaging-mcp-server",
+  "source_url": "https://mcp.so/server/twilio-messaging-mcp-server/deshartman",
+  "install": "npx -y twilio-messaging-mcp-server"
+}

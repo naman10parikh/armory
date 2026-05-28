@@ -1,0 +1,7 @@
+{
+  "name": "depwire",
+  "description": "Builds compiler-accurate dependency graphs at the symbol level, enabling impact analysis, architecture health scoring, dead code detection, security scanning, and arc diagram visualization.",
+  "source_repo": "depwire/depwire",
+  "source_url": "https://github.com/depwire/depwire",
+  "install": "# git clone --depth 1 https://github.com/depwire/depwire\n# See source for mcpServers config block"
+}

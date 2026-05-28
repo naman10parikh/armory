@@ -1,0 +1,7 @@
+{
+  "name": "applemusic-mcp",
+  "description": "MCP server for Apple Music that lets AI assistants manage playlists, control playback, and browse the music library.",
+  "source_repo": "epheterson/applemusic-mcp",
+  "source_url": "https://github.com/epheterson/applemusic-mcp",
+  "install": "npx -y applemusic-mcp"
+}

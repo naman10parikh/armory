@@ -1,0 +1,7 @@
+{
+  "name": "lamemind-mcp-server-multiverse",
+  "description": "🛠️ - A middleware server that enables multiple isolated instances of the same MCP servers to coexist independently with unique namespaces and configurations.",
+  "source_repo": "lamemind/mcp-server-multiverse",
+  "source_url": "https://github.com/lamemind/mcp-server-multiverse",
+  "install": "# git clone --depth 1 https://github.com/lamemind/mcp-server-multiverse\n# See source for mcpServers config block"
+}

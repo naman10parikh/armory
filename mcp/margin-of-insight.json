@@ -1,0 +1,7 @@
+{
+  "name": "margin-of-insight",
+  "description": "Equity research for US-listed companies, from free primers to detailed investment memos.",
+  "source_repo": "",
+  "source_url": "https://app.marginofinsight.com/api/mcp",
+  "install": "# git clone --depth 1 https://app.marginofinsight.com/api/mcp\n# See source for mcpServers config block"
+}

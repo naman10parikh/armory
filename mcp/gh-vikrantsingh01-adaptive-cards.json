@@ -1,0 +1,7 @@
+{
+  "name": "gh-vikrantsingh01-adaptive-cards",
+  "description": "Generates valid, accessible Adaptive Cards for Teams, Outlook, and Copilot.",
+  "source_repo": "vikrantsingh01/adaptive-cards-mcp",
+  "source_url": "https://github.com/vikrantsingh01/adaptive-cards-mcp",
+  "install": "npx -y adaptive-cards-mcp"
+}

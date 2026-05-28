@@ -1,0 +1,7 @@
+{
+  "name": "memara-memory-template",
+  "description": "Provides a minimal foundation structure with only a README.md file, serving as a basic template for developers to bootstrap new MCP server projects.",
+  "source_repo": "memarai0/mcp",
+  "source_url": "https://github.com/memarai0/mcp",
+  "install": "# git clone --depth 1 https://github.com/memarai0/mcp\n# See source for mcpServers config block"
+}

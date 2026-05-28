@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-nist-rmf-ai-mcp",
+  "description": "Python MCP server for NIST Risk Management Framework guidance.",
+  "source_repo": "csoai-org/nist-rmf-ai-mcp",
+  "source_url": "https://github.com/csoai-org/nist-rmf-ai-mcp",
+  "install": "npx -y nist-rmf-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "max-rousseau-home-assistant",
+  "description": "Connects AI assistants to Home Assistant via REST and WebSocket APIs with 10 tools for entity control, camera snapshots, and configuration management.",
+  "source_repo": "max-rousseau/mcp-hass",
+  "source_url": "https://github.com/max-rousseau/mcp-hass",
+  "install": "# git clone --depth 1 https://github.com/max-rousseau/mcp-hass\n# See source for mcpServers config block"
+}

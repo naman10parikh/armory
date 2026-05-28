@@ -1,0 +1,7 @@
+{
+  "name": "idoubi-mcp-server-chatsum",
+  "description": "Hook into your WeChat history and pull summaries of conversations.",
+  "source_repo": "chatmcp/mcp-server-chatsum",
+  "source_url": "https://github.com/chatmcp/mcp-server-chatsum",
+  "install": "# git clone --depth 1 https://github.com/chatmcp/mcp-server-chatsum\n# See source for mcpServers config block"
+}

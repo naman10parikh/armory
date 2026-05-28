@@ -1,0 +1,7 @@
+{
+  "name": "icici-mcp",
+  "description": "Enables trading Indian stocks on ICICI Direct through natural conversation with any MCP-compatible AI assistant, featuring automated TOTP login and tools for portfolio monitoring, order placement, and market data.",
+  "source_repo": "aranjan/icici-mcp",
+  "source_url": "https://github.com/aranjan/icici-mcp",
+  "install": "npx -y icici-mcp"
+}

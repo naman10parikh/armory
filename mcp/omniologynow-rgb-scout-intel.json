@@ -1,0 +1,7 @@
+{
+  "name": "omniologynow-rgb-scout-intel",
+  "description": "Web intelligence for AI agents — SERP, competitor analysis, market research, and keyword tracking.",
+  "source_repo": "",
+  "source_url": "https://scout-intel.mcpize.run",
+  "install": "# git clone --depth 1 https://scout-intel.mcpize.run\n# See source for mcpServers config block"
+}

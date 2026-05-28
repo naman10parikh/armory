@@ -1,0 +1,7 @@
+{
+  "name": "gistpad-mcp",
+  "description": "Gistpad Mcp MCP server listed on mcp.so.",
+  "source_repo": "lostintangent/gistpad-mcp",
+  "source_url": "https://mcp.so/server/gistpad-mcp/lostintangent",
+  "install": "npx -y gistpad-mcp"
+}

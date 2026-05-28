@@ -1,0 +1,7 @@
+{
+  "name": "yongzhe-wang-apple-calendar",
+  "description": "Read and manage macOS Calendar.app events via AppleScript with six tools for CRUD operations.",
+  "source_repo": "yongzhe-wang/yapping-apple-calendar-mcp",
+  "source_url": "https://github.com/yongzhe-wang/yapping-apple-calendar-mcp",
+  "install": "npx -y yapping-apple-calendar-mcp"
+}

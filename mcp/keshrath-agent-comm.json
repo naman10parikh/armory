@@ -1,0 +1,7 @@
+{
+  "name": "keshrath-agent-comm",
+  "description": "Agent intercommunication with messaging, channels, shared state, and real-time events.",
+  "source_repo": "keshrath/agent-comm",
+  "source_url": "https://github.com/keshrath/agent-comm",
+  "install": "# git clone --depth 1 https://github.com/keshrath/agent-comm\n# See source for mcpServers config block"
+}

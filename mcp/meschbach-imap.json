@@ -1,0 +1,7 @@
+{
+  "name": "meschbach-imap",
+  "description": "Bridges IMAP email accounts to provide read-only access to email summaries, headers, and message content.",
+  "source_repo": "meschbach/mcp-imap",
+  "source_url": "https://github.com/meschbach/mcp-imap",
+  "install": "# git clone --depth 1 https://github.com/meschbach/mcp-imap\n# See source for mcpServers config block"
+}

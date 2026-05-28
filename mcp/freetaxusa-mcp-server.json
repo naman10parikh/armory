@@ -1,0 +1,7 @@
+{
+  "name": "freetaxusa-mcp-server",
+  "description": "Enables AI agents to file taxes through FreeTaxUSA by automating a browser, allowing form filling, navigation, and refund checks via natural language.",
+  "source_repo": "schwarztim/freetaxusa-mcp",
+  "source_url": "https://github.com/schwarztim/freetaxusa-mcp",
+  "install": "npx -y freetaxusa-mcp"
+}

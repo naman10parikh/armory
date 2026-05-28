@@ -1,0 +1,7 @@
+{
+  "name": "christopherwoodall-nmap",
+  "description": "Provides a bridge to Nmap network scanning tool for performing reconnaissance, port scanning, and service identification with customizable options and proper security handling.",
+  "source_repo": "christopherwoodall/nmap-mcp",
+  "source_url": "https://github.com/christopherwoodall/nmap-mcp",
+  "install": "npx -y nmap-mcp"
+}

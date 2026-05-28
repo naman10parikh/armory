@@ -1,0 +1,7 @@
+{
+  "name": "forge-stack-whatsapp",
+  "description": "Self-hosted WhatsApp integration with QR code login, message history sync, contact management, and full-text search through a Next.js bridge and FastMCP server.",
+  "source_repo": "forge-stack/whatsapp-mcp",
+  "source_url": "https://github.com/forge-stack/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

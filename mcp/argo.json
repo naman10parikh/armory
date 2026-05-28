@@ -1,0 +1,7 @@
+{
+  "name": "argo",
+  "description": "RPG campaign management platform MCP server for accessing guild data, campaigns, and lore via AI assistants.",
+  "source_repo": "argo-rpg-platform/mcp",
+  "source_url": "https://github.com/argo-rpg-platform/mcp",
+  "install": "# git clone --depth 1 https://github.com/argo-rpg-platform/mcp\n# See source for mcpServers config block"
+}

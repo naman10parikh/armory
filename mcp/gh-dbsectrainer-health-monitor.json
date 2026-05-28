@@ -1,0 +1,7 @@
+{
+  "name": "gh-dbsectrainer-health-monitor",
+  "description": "Monitors MCP server health by probing the protocol directly via list_tools calls, with auto-discovery, latency tracking, and version drift detection.",
+  "source_repo": "dbsectrainer/mcp-server-health-monitor",
+  "source_url": "https://github.com/dbsectrainer/mcp-server-health-monitor",
+  "install": "# git clone --depth 1 https://github.com/dbsectrainer/mcp-server-health-monitor\n# See source for mcpServers config block"
+}

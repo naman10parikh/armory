@@ -1,0 +1,7 @@
+{
+  "name": "startreedata-pinot",
+  "description": "Integrates with Apache Pinot to enable real-time analytics queries through SQL execution, table schema inspection, segment analysis, and cluster metadata access for operational monitoring and business intelligence workflows.",
+  "source_repo": "startreedata/mcp-pinot",
+  "source_url": "https://github.com/startreedata/mcp-pinot",
+  "install": "# git clone --depth 1 https://github.com/startreedata/mcp-pinot\n# See source for mcpServers config block"
+}

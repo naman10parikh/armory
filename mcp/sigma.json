@@ -1,0 +1,7 @@
+{
+  "name": "sigma",
+  "description": "pySigma-powered Sigma security detection rule validation.",
+  "source_repo": "sigmahq/sigma-mcp-server",
+  "source_url": "https://github.com/sigmahq/sigma-mcp-server",
+  "install": "npx -y sigma-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "longdog-desktop-notifications",
+  "description": "Provides desktop notification capabilities through notify-send command, enabling system alerts with custom titles and messages via D-Bus integration.",
+  "source_repo": "longdog/notify-mcp",
+  "source_url": "https://github.com/longdog/notify-mcp",
+  "install": "npx -y notify-mcp"
+}

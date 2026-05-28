@@ -1,0 +1,7 @@
+{
+  "name": "ibm-content-services-filenet",
+  "description": "Integrates with IBM Content Services (FileNet) through GraphQL APIs to provide enterprise document operations, folder management, metadata-driven search, class introspection, and annotation handling with authentication support and performance optimization for automated filing systems and content analysis workflows.",
+  "source_repo": "ibm-ecm/ibm-content-services-mcp-server",
+  "source_url": "https://github.com/ibm-ecm/ibm-content-services-mcp-server",
+  "install": "npx -y ibm-content-services-mcp-server"
+}

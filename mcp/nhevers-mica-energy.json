@@ -1,0 +1,7 @@
+{
+  "name": "nhevers-mica-energy",
+  "description": "Routes LLM inference compute through distributed nodes powered by cheap renewable energy.",
+  "source_repo": "nhevers/mica-plugin",
+  "source_url": "https://github.com/nhevers/mica-plugin",
+  "install": "# git clone --depth 1 https://github.com/nhevers/mica-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ubaumann-mkdocs",
+  "description": "Serves MkDocs documentation sites as resources",
+  "source_repo": "ubaumann/mkdocs-mcp",
+  "source_url": "https://github.com/ubaumann/mkdocs-mcp",
+  "install": "npx -y mkdocs-mcp"
+}

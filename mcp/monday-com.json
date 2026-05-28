@@ -1,0 +1,7 @@
+{
+  "name": "monday-com",
+  "description": "Integrates with monday.com API to enable direct access to boards, workflows, and data for automating tasks and managing resources without context switching.",
+  "source_repo": "mondaycom/mcp",
+  "source_url": "https://github.com/mondaycom/mcp/tree/HEAD/packages/monday-api-mcp",
+  "install": "# git clone --depth 1 https://github.com/mondaycom/mcp/tree/HEAD/packages/monday-api-mcp\n# See source for mcpServers config block"
+}

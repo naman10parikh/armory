@@ -1,0 +1,7 @@
+{
+  "name": "antoncoding-brianknows",
+  "description": "Integrates with the BrianKnows knowledge base API to enable searches and information retrieval from specialized domain-specific databases.",
+  "source_repo": "antoncoding/mcp-brianknows",
+  "source_url": "https://github.com/antoncoding/mcp-brianknows",
+  "install": "# git clone --depth 1 https://github.com/antoncoding/mcp-brianknows\n# See source for mcpServers config block"
+}

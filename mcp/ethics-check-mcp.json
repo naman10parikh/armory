@@ -1,0 +1,7 @@
+{
+  "name": "ethics-check-mcp",
+  "description": "An MCP server that turns Claude into a philosophical sparring partner, actively challenging confirmation bias and comfortable conversations. It scans conversations for ethical issues, forces critical thinking, and learns from past interactions to spot blind spots.",
+  "source_repo": "r-huijts/ethics-check-mcp",
+  "source_url": "https://github.com/r-huijts/ethics-check-mcp",
+  "install": "npx -y ethics-check-mcp"
+}

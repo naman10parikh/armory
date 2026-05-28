@@ -1,0 +1,7 @@
+{
+  "name": "tasker-mcp",
+  "description": "Tasker Mcp MCP server listed on mcp.so.",
+  "source_repo": "dceluis/tasker-mcp",
+  "source_url": "https://mcp.so/server/tasker-mcp/dceluis",
+  "install": "npx -y tasker-mcp"
+}

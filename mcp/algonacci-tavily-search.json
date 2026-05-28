@@ -1,0 +1,7 @@
+{
+  "name": "algonacci-tavily-search",
+  "description": "Integrates the Tavily search API to provide customizable web searches with options for depth, result count, time range, and AI-generated answers, enabling up-to-date information retrieval for research, content creation, and data aggregation tasks.",
+  "source_repo": "algonacci/mcp-tools",
+  "source_url": "https://github.com/algonacci/mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/algonacci/mcp-tools\n# See source for mcpServers config block"
+}

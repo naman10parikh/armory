@@ -1,0 +1,7 @@
+{
+  "name": "gavinhuang-pdf2md",
+  "description": "Converts PDF files to Markdown format with incremental processing that resumes from existing page markers, supporting both local files and URLs with fallback handling for various content extraction scenarios.",
+  "source_repo": "gavinhuang/pdf2md-mcp",
+  "source_url": "https://github.com/gavinhuang/pdf2md-mcp",
+  "install": "npx -y pdf2md-mcp"
+}

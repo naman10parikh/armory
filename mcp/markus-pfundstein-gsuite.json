@@ -1,0 +1,7 @@
+{
+  "name": "markus-pfundstein-gsuite",
+  "description": "Integrates with Gmail and Google Calendar APIs to enable email management and scheduling capabilities directly within conversation interfaces.",
+  "source_repo": "albert-launcher/mcp-gsuite",
+  "source_url": "https://github.com/albert-launcher/mcp-gsuite",
+  "install": "# git clone --depth 1 https://github.com/albert-launcher/mcp-gsuite\n# See source for mcpServers config block"
+}

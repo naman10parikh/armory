@@ -1,0 +1,7 @@
+{
+  "name": "spheronfdn-spheron-protocol",
+  "description": "Integrates with Spheron Protocol SDK to deploy and manage compute resources through natural language, enabling users to configure, deploy, and monitor cloud infrastructure without technical expertise.",
+  "source_repo": "spheronfdn/spheron-mcp-plugin",
+  "source_url": "https://github.com/spheronfdn/spheron-mcp-plugin/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/spheronfdn/spheron-mcp-plugin/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

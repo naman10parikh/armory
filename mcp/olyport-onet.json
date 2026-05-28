@@ -1,0 +1,7 @@
+{
+  "name": "olyport-onet",
+  "description": "Job descriptions, skills, education requirements, and wage data from O*NET.",
+  "source_repo": "olyport/onet-mcp-server",
+  "source_url": "https://github.com/olyport/onet-mcp-server",
+  "install": "npx -y onet-mcp-server"
+}

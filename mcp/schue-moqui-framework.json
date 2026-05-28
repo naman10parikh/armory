@@ -1,0 +1,7 @@
+{
+  "name": "schue-moqui-framework",
+  "description": "Integrates with Moqui Framework business applications to provide entity operations, service execution, and search capabilities with session-based authentication, rate limiting, and audit logging for enterprise system automation and data analysis workflows.",
+  "source_repo": "schue/moqui-mcp",
+  "source_url": "https://github.com/schue/moqui-mcp",
+  "install": "npx -y moqui-mcp"
+}

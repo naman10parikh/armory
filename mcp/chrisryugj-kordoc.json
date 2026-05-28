@@ -1,0 +1,7 @@
+{
+  "name": "chrisryugj-kordoc",
+  "description": "Parses Korean government and legal documents with structured data extraction and metadata analysis.",
+  "source_repo": "chrisryugj/kordoc",
+  "source_url": "https://github.com/chrisryugj/kordoc",
+  "install": "# git clone --depth 1 https://github.com/chrisryugj/kordoc\n# See source for mcpServers config block"
+}

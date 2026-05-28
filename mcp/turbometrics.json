@@ -1,0 +1,7 @@
+{
+  "name": "turbometrics",
+  "description": "Website performance monitoring with scans, Core Web Vitals, RUM data, and alerts.",
+  "source_repo": "turbopress-de/turbometrics-mcp",
+  "source_url": "https://github.com/turbopress-de/turbometrics-mcp",
+  "install": "npx -y turbometrics-mcp"
+}

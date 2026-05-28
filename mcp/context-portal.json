@@ -1,0 +1,7 @@
+{
+  "name": "context-portal",
+  "description": "Database-backed project memory management system that stores decisions, progress tracking, and system patterns in a queryable knowledge graph with vector embeddings for semantic search and comprehensive import/export functionality.",
+  "source_repo": "greatscottymac/context-portal",
+  "source_url": "https://github.com/greatscottymac/context-portal",
+  "install": "# git clone --depth 1 https://github.com/greatscottymac/context-portal\n# See source for mcpServers config block"
+}

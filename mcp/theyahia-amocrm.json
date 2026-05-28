@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-amocrm",
+  "description": "Integrates with amoCRM for managing leads, contacts, and sales pipelines.",
+  "source_repo": "theyahia/amocrm-mcp",
+  "source_url": "https://github.com/theyahia/amocrm-mcp",
+  "install": "npx -y amocrm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codespar-brasil-api",
+  "description": "Look up Brazilian CEP codes, CNPJ numbers, banks, FIPE vehicle prices, and holidays.",
+  "source_repo": "codespar/mcp-dev-latam",
+  "source_url": "https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/identity/brasil-api",
+  "install": "# git clone --depth 1 https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/identity/brasil-api\n# See source for mcpServers config block"
+}

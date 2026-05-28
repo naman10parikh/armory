@@ -1,0 +1,7 @@
+{
+  "name": "xplusplusai-dynamics365-fo-semantic",
+  "description": "Semantic search over 50,000+ Dynamics 365 F&O artifacts including tables, forms, classes, and more",
+  "source_repo": "xplusplusai/fo-semantic-mcp",
+  "source_url": "https://github.com/xplusplusai/fo-semantic-mcp",
+  "install": "npx -y fo-semantic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unleash-mcp-server",
+  "description": "Enables AI coding assistants to manage Unleash feature flags, including creation, detection, evaluation, and best practices.",
+  "source_repo": "Unleash/unleash-mcp",
+  "source_url": "https://github.com/Unleash/unleash-mcp",
+  "install": "npx -y unleash-mcp"
+}

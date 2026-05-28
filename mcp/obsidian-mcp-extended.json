@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp-extended",
+  "description": "A comprehensive MCP server for Obsidian with 45 tools across hybrid filesystem-native and API-based architectures, enabling note management, backlinks, tag management, and analytics.",
+  "source_repo": "aleksakarac/obsidian-mcp",
+  "source_url": "https://github.com/aleksakarac/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

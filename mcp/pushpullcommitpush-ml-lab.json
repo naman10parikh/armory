@@ -1,0 +1,7 @@
+{
+  "name": "pushpullcommitpush-ml-lab",
+  "description": "Unified machine learning platform that orchestrates training workflows across OpenAI, Mistral, Together AI, and Vertex AI while managing cloud compute resources from Lambda Labs, RunPod, and Modal for scalable model fine-tuning, dataset management, and deployment to inference systems like Ollama.",
+  "source_repo": "pushpullcommitpush/ml-mcp",
+  "source_url": "https://github.com/pushpullcommitpush/ml-mcp",
+  "install": "npx -y ml-mcp"
+}

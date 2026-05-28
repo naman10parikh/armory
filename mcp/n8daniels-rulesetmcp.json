@@ -1,0 +1,7 @@
+{
+  "name": "n8daniels-rulesetmcp",
+  "description": "Weight-On-Wheels for AI - keeps agents grounded in your project's rules. Query coding standards, validate snippets, and get task-specific guidance from version-controlled rule files.",
+  "source_repo": "n8daniels/RulesetMCP",
+  "source_url": "https://github.com/n8daniels/RulesetMCP",
+  "install": "# git clone --depth 1 https://github.com/n8daniels/RulesetMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pyroprompts-llm-completions-mcp",
+  "description": "Connect to OpenAI-compatible chat completion APIs.",
+  "source_repo": "pyroprompts/any-chat-completions-mcp",
+  "source_url": "https://github.com/pyroprompts/any-chat-completions-mcp",
+  "install": "npx -y any-chat-completions-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swagger-openapi",
+  "description": "Integrates with REST APIs through OpenAPI specifications to fetch documentation, explore endpoints, execute authenticated requests, and validate responses with support for multiple authentication methods.",
+  "source_repo": "amrsa1/swagger-mcp",
+  "source_url": "https://github.com/amrsa1/swagger-mcp",
+  "install": "npx -y swagger-mcp"
+}

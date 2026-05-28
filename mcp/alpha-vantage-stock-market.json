@@ -1,0 +1,7 @@
+{
+  "name": "alpha-vantage-stock-market",
+  "description": "Retrieves real-time financial market data from Alpha Vantage, enabling comprehensive stock analysis, investment research, and market intelligence through dynamic querying capabilities.",
+  "source_repo": "mcp-100/stock-market-server",
+  "source_url": "https://github.com/mcp-100/stock-market-server",
+  "install": "# git clone --depth 1 https://github.com/mcp-100/stock-market-server\n# See source for mcpServers config block"
+}

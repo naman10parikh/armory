@@ -1,0 +1,7 @@
+{
+  "name": "elastic-security",
+  "description": "Interactive security operations dashboards for alert triage, threat hunting, and case management.",
+  "source_repo": "elastic/example-mcp-app-security",
+  "source_url": "https://github.com/elastic/example-mcp-app-security",
+  "install": "# git clone --depth 1 https://github.com/elastic/example-mcp-app-security\n# See source for mcpServers config block"
+}

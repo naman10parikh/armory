@@ -1,0 +1,7 @@
+{
+  "name": "mabeldata-pocketbase",
+  "description": "Interact with a PocketBase instance. Allows you to fetch, list, create, update, and manage records and files in your PocketBase collections.",
+  "source_repo": "mabeldata/pocketbase-mcp",
+  "source_url": "https://github.com/mabeldata/pocketbase-mcp",
+  "install": "npx -y pocketbase-mcp"
+}

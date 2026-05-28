@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-setlist-fm",
+  "description": "Setlist.fm concert setlists: search by artist, venue, or date with a free API key.",
+  "source_repo": "pipeworx-io/mcp-setlist-fm",
+  "source_url": "https://github.com/pipeworx-io/mcp-setlist-fm",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-setlist-fm\n# See source for mcpServers config block"
+}

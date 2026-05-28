@@ -1,0 +1,7 @@
+{
+  "name": "capoom-houdini",
+  "description": "Bridges Houdini 3D software with external systems through a TCP-based Python addon, enabling real-time geometry creation, material application, lighting, camera setup, simulation, and rendering operations for 3D content creation workflows.",
+  "source_repo": "capoom/houdini-mcp",
+  "source_url": "https://github.com/capoom/houdini-mcp",
+  "install": "npx -y houdini-mcp"
+}

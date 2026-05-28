@@ -1,0 +1,7 @@
+{
+  "name": "bizverify",
+  "description": "KYB business entity verification API for AI agents covering 18+ US and UK jurisdictions.",
+  "source_repo": "",
+  "source_url": "https://bizverify.co",
+  "install": "# git clone --depth 1 https://bizverify.co\n# See source for mcpServers config block"
+}

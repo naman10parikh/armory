@@ -1,0 +1,7 @@
+{
+  "name": "michaelfeng-factorhub",
+  "description": "Provides China A-share market data including factor scores, stock quotes, valuations, and strategy backtesting.",
+  "source_repo": "michaelfeng/factorhub-mcp",
+  "source_url": "https://github.com/michaelfeng/factorhub-mcp",
+  "install": "npx -y factorhub-mcp"
+}

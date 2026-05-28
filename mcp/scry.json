@@ -1,0 +1,7 @@
+{
+  "name": "scry",
+  "description": "MCP server by TunnelMind for data querying and analytics operations.",
+  "source_repo": "tunnelmind/scry-mcp",
+  "source_url": "https://github.com/tunnelmind/scry-mcp",
+  "install": "npx -y scry-mcp"
+}

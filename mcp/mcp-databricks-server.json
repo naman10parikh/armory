@@ -1,0 +1,7 @@
+{
+  "name": "mcp-databricks-server",
+  "description": "Mcp Databricks Server MCP server listed on mcp.so.",
+  "source_repo": "JordiNeil/mcp-databricks-server",
+  "source_url": "https://mcp.so/server/mcp-databricks-server/JordiNeil",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-databricks-server/JordiNeil\n# See source for mcpServers config block"
+}

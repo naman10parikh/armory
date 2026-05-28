@@ -1,0 +1,7 @@
+{
+  "name": "rag-memory",
+  "description": "Provides a knowledge graph-enhanced retrieval system that combines vector search with graph-based relationships for persistent memory and contextual information retrieval",
+  "source_repo": "ttommyth/rag-memory-mcp",
+  "source_url": "https://github.com/ttommyth/rag-memory-mcp",
+  "install": "npx -y rag-memory-mcp"
+}

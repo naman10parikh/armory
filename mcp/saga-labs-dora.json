@@ -1,0 +1,7 @@
+{
+  "name": "saga-labs-dora",
+  "description": "Multi-model AI image and video generation with 14 models via an OAuth-secured endpoint.",
+  "source_repo": "saga-labs/dora-mcp",
+  "source_url": "https://github.com/saga-labs/dora-mcp",
+  "install": "npx -y dora-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jasonwilbur-cloud-regions",
+  "description": "Cloud region data for AWS, Azure, GCP, OCI, and 10 more providers. Query 267 regions by location, compliance, GPU availability, and sustainability.",
+  "source_repo": "jasonwilbur/mcp-server-cloud-regions",
+  "source_url": "https://github.com/jasonwilbur/mcp-server-cloud-regions",
+  "install": "# git clone --depth 1 https://github.com/jasonwilbur/mcp-server-cloud-regions\n# See source for mcpServers config block"
+}

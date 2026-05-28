@@ -1,0 +1,7 @@
+{
+  "name": "longevity-genie-opengenes",
+  "description": "Provides access to the OpenGenes database containing aging and longevity research data including experimental lifespan results from genetic interventions, aging-related gene classifications, hallmarks of aging associations, and population genetics longevity studies for researchers analyzing gene-longevity relationships and experimental outcomes.",
+  "source_repo": "longevity-genie/opengenes-mcp",
+  "source_url": "https://github.com/longevity-genie/opengenes-mcp",
+  "install": "npx -y opengenes-mcp"
+}

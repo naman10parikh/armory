@@ -1,0 +1,7 @@
+{
+  "name": "tutor-agent",
+  "description": "Agent for tutoring using A2A",
+  "source_repo": "labKnowledge/tutor_agent",
+  "source_url": "https://github.com/labKnowledge/tutor_agent",
+  "install": "# git clone --depth 1 https://github.com/labKnowledge/tutor_agent\n# See source for mcpServers config block"
+}

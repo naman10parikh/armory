@@ -1,0 +1,7 @@
+{
+  "name": "overquotaai-chatterboxio-mcp-server",
+  "description": "MCP server implementation for ChatterBox.io, enabling AI agents to send bots to online meetings (Zoom, Google Meet) and obtain transcripts and recordings.",
+  "source_repo": "OverQuotaAI/chatterboxio-mcp-server",
+  "source_url": "https://github.com/OverQuotaAI/chatterboxio-mcp-server",
+  "install": "npx -y chatterboxio-mcp-server"
+}

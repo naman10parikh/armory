@@ -1,0 +1,7 @@
+{
+  "name": "irinabuht12-oss-google-meta-ads-ga4",
+  "description": "Manage Google Ads, Meta Ads, and Google Analytics 4 from AI assistants with 250+ tools and OAuth 2.1 authentication.",
+  "source_repo": "irinabuht12-oss/google-meta-ads-ga4-mcp",
+  "source_url": "https://github.com/irinabuht12-oss/google-meta-ads-ga4-mcp",
+  "install": "npx -y google-meta-ads-ga4-mcp"
+}

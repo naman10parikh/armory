@@ -1,0 +1,7 @@
+{
+  "name": "pymcp-kit",
+  "description": "A capability-first MCP server toolkit for FastAPI that supports Streamable HTTP and stdio transports, with registries for tools, prompts, and resources, plus optional auth hooks and task management.",
+  "source_repo": "Agent-Hellboy/py-mcp",
+  "source_url": "https://github.com/Agent-Hellboy/py-mcp",
+  "install": "npx -y py-mcp"
+}

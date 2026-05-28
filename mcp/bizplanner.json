@@ -1,0 +1,7 @@
+{
+  "name": "bizplanner",
+  "description": "Financial simulation for entrepreneurs to model, analyze, and plan business scenarios.",
+  "source_repo": "",
+  "source_url": "https://biz-planner.com/en/mcp",
+  "install": "# git clone --depth 1 https://biz-planner.com/en/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vineethwilson15-semamerge",
+  "description": "Detects semantic merge conflicts between Git branches using AST-level code analysis.",
+  "source_repo": "vineethwilson15/semamerge",
+  "source_url": "https://github.com/vineethwilson15/semamerge",
+  "install": "# git clone --depth 1 https://github.com/vineethwilson15/semamerge\n# See source for mcpServers config block"
+}

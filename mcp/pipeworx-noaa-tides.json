@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-noaa-tides",
+  "description": "Access NOAA tidal observations, predictions, datums, and station metadata.",
+  "source_repo": "pipeworx-io/mcp-noaa-tides",
+  "source_url": "https://github.com/pipeworx-io/mcp-noaa-tides",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-noaa-tides\n# See source for mcpServers config block"
+}

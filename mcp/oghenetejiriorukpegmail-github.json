@@ -1,0 +1,7 @@
+{
+  "name": "oghenetejiriorukpegmail-github",
+  "description": "Bridges GitHub's API with natural language commands, enabling repository creation, content management, and user information retrieval without manual API calls or context switching.",
+  "source_repo": "oghenetejiriorukpegmail/github-mcp",
+  "source_url": "https://github.com/oghenetejiriorukpegmail/github-mcp",
+  "install": "npx -y github-mcp"
+}

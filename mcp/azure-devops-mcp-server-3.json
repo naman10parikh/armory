@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-mcp-server-3",
+  "description": "Enables interaction with Azure DevOps services including work items, builds, releases, test plans, repositories, and search via natural language commands from a code editor.",
+  "source_repo": "AgentsGang/azure-devops-mcp",
+  "source_url": "https://github.com/AgentsGang/azure-devops-mcp",
+  "install": "npx -y azure-devops-mcp"
+}

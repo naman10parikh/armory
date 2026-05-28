@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-intercom",
+  "description": "Mcp Server For Intercom MCP server listed on mcp.so.",
+  "source_repo": "raoulbia-ai/mcp-server-for-intercom",
+  "source_url": "https://mcp.so/server/mcp-server-for-intercom/raoulbia-ai",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-for-intercom/raoulbia-ai\n# See source for mcpServers config block"
+}

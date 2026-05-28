@@ -1,0 +1,7 @@
+{
+  "name": "be-student-project-industrial-iot-monitoring",
+  "description": "Industrial IoT monitoring system combining OPC UA simulation, LSTM autoencoder anomaly detection, and local LLM explanations for real-time equipment monitoring with natural language insights.",
+  "source_repo": "be-student-project/be-student-project",
+  "source_url": "https://github.com/be-student-project/be-student-project",
+  "install": "# git clone --depth 1 https://github.com/be-student-project/be-student-project\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fantay0312-ida-pro-plus",
+  "description": "Extends IDA Pro reverse engineering with 80+ MCP tools for decompilation, disassembly, cross-references, debugging, and headless binary analysis.",
+  "source_repo": "fantay0312/ida-pro-mcp-plus",
+  "source_url": "https://github.com/fantay0312/ida-pro-mcp-plus",
+  "install": "# git clone --depth 1 https://github.com/fantay0312/ida-pro-mcp-plus\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "artgas1-xmlriver",
+  "description": "Google and Yandex SERP parsing, Wordstat keyword frequency, and indexation checks via the XMLRiver API.",
+  "source_repo": "artgas1/xmlriver-mcp",
+  "source_url": "https://github.com/artgas1/xmlriver-mcp",
+  "install": "npx -y xmlriver-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "d-klotz-perplexity",
+  "description": "Provides AI assistants with direct access to Perplexity's web search capabilities, returning AI-generated answers with source citations across multiple Perplexity models.",
+  "source_repo": "d-klotz/perplexity-mcp-ts",
+  "source_url": "https://github.com/d-klotz/perplexity-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/d-klotz/perplexity-mcp-ts\n# See source for mcpServers config block"
+}

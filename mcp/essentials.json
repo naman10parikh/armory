@@ -1,0 +1,7 @@
+{
+  "name": "essentials",
+  "description": "Essentials MCP server listed on mcp.so.",
+  "source_repo": "Rustellar/Essentials",
+  "source_url": "https://mcp.so/server/Essentials/Rustellar",
+  "install": "# git clone --depth 1 https://mcp.so/server/Essentials/Rustellar\n# See source for mcpServers config block"
+}

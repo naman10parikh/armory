@@ -1,0 +1,7 @@
+{
+  "name": "scka-de-ecb",
+  "description": "European Central Bank data including exchange rates, yields, inflation, money supply, and 100+ datasets.",
+  "source_repo": "scka-de/ecb-mcp",
+  "source_url": "https://github.com/scka-de/ecb-mcp",
+  "install": "npx -y ecb-mcp"
+}

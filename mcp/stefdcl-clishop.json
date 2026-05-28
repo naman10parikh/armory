@@ -1,0 +1,7 @@
+{
+  "name": "stefdcl-clishop",
+  "description": "Terminal-based marketplace for searching, comparing, and purchasing products across multiple stores.",
+  "source_repo": "davooxbv2/clishop",
+  "source_url": "https://github.com/davooxbv2/clishop",
+  "install": "# git clone --depth 1 https://github.com/davooxbv2/clishop\n# See source for mcpServers config block"
+}

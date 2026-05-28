@@ -1,0 +1,7 @@
+{
+  "name": "bitingsnakes-silkworm",
+  "description": "Builds web scrapers with async crawling, HTML parsing, and CSS/XPath selectors.",
+  "source_repo": "bitingsnakes/silkworm-mcp",
+  "source_url": "https://github.com/bitingsnakes/silkworm-mcp",
+  "install": "npx -y silkworm-mcp"
+}

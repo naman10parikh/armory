@@ -1,0 +1,7 @@
+{
+  "name": "bespoke34-tableshot",
+  "description": "Extracts tables from PDFs into structured Markdown, CSV, JSON, or HTML output with sub-100ms performance.",
+  "source_repo": "bespoke34/tableshot",
+  "source_url": "https://github.com/bespoke34/tableshot",
+  "install": "# git clone --depth 1 https://github.com/bespoke34/tableshot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "christian-beep383-carryfeed",
+  "description": "Resolve public X/Twitter profiles, posts, and media through the CarryFeed viewer.",
+  "source_repo": "christian-beep383/carryfeed-agent-tools",
+  "source_url": "https://github.com/christian-beep383/carryfeed-agent-tools/tree/HEAD/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/christian-beep383/carryfeed-agent-tools/tree/HEAD/packages/mcp\n# See source for mcpServers config block"
+}

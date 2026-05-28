@@ -1,0 +1,7 @@
+{
+  "name": "gh-lchampz-heimdall",
+  "description": "Environment architecture and diagnostic tool for development setup validation.",
+  "source_repo": "lchampz/mcp-heimdall",
+  "source_url": "https://github.com/lchampz/mcp-heimdall",
+  "install": "# git clone --depth 1 https://github.com/lchampz/mcp-heimdall\n# See source for mcpServers config block"
+}

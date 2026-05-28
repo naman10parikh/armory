@@ -1,0 +1,7 @@
+{
+  "name": "codespar-zenvia",
+  "description": "SMS, WhatsApp, and RCS messaging and template management via the Zenvia API.",
+  "source_repo": "codespar/mcp-dev-latam",
+  "source_url": "https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/communication/zenvia",
+  "install": "# git clone --depth 1 https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/communication/zenvia\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fetch-mcp",
+  "description": "Fetch Mcp MCP server listed on mcp.so.",
+  "source_repo": "jae-jae/fetch-mcp",
+  "source_url": "https://mcp.so/server/fetch-mcp/jae-jae",
+  "install": "npx -y fetch-mcp"
+}

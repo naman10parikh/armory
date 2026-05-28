@@ -1,0 +1,7 @@
+{
+  "name": "123elec",
+  "description": "Official MCP interface for the 123elec electrical supplies e-commerce platform",
+  "source_repo": "",
+  "source_url": "https://www.123elec.com",
+  "install": "# git clone --depth 1 https://www.123elec.com\n# See source for mcpServers config block"
+}

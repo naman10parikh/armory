@@ -1,0 +1,7 @@
+{
+  "name": "mstang-casemgr",
+  "description": "CMMN case management with 184 MCP tools for cases, tasks, workflows, billing, and AI agents.",
+  "source_repo": "mstang/casemgr-mcp",
+  "source_url": "https://github.com/mstang/casemgr-mcp",
+  "install": "npx -y casemgr-mcp"
+}

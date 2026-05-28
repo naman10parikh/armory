@@ -1,0 +1,7 @@
+{
+  "name": "ernestalabs-forage",
+  "description": "Web intelligence, verified B2B contacts, and a persistent knowledge graph for AI agents.",
+  "source_repo": "ernestalabs/web-intelligence-mcp",
+  "source_url": "https://github.com/ernestalabs/web-intelligence-mcp",
+  "install": "npx -y web-intelligence-mcp"
+}

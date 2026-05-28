@@ -1,0 +1,7 @@
+{
+  "name": "shribreeze-wikisearch",
+  "description": "Provides a bridge to Wikipedia's REST API for retrieving article summaries and factual information through concise extracts",
+  "source_repo": "shribreeze/wikisearchmcp",
+  "source_url": "https://github.com/shribreeze/wikisearchmcp/tree/HEAD/wikisearch",
+  "install": "# git clone --depth 1 https://github.com/shribreeze/wikisearchmcp/tree/HEAD/wikisearch\n# See source for mcpServers config block"
+}

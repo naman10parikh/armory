@@ -1,0 +1,7 @@
+{
+  "name": "findimitrov-fintel-discovery",
+  "description": "Financial regulatory data from FINRA, SEC, and market providers for AI assistants.",
+  "source_repo": "findimitrov/fintel-discovery",
+  "source_url": "https://github.com/findimitrov/fintel-discovery",
+  "install": "# git clone --depth 1 https://github.com/findimitrov/fintel-discovery\n# See source for mcpServers config block"
+}

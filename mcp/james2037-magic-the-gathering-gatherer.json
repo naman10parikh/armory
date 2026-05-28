@@ -1,0 +1,7 @@
+{
+  "name": "james2037-magic-the-gathering-gatherer",
+  "description": "Integrates Magic: The Gathering data sources to provide unified access for card searches, rules lookup, and set information retrieval.",
+  "source_repo": "james2037/mcp-gatherer",
+  "source_url": "https://github.com/james2037/mcp-gatherer",
+  "install": "# git clone --depth 1 https://github.com/james2037/mcp-gatherer\n# See source for mcpServers config block"
+}

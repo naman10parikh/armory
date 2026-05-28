@@ -1,0 +1,7 @@
+{
+  "name": "hiveconsciousness",
+  "description": "System self-awareness, health monitoring, and autonomous self-repair for agent infrastructure.",
+  "source_repo": "srotzin/hiveconsciousness",
+  "source_url": "https://github.com/srotzin/hiveconsciousness",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hiveconsciousness\n# See source for mcpServers config block"
+}

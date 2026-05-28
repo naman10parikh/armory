@@ -1,0 +1,7 @@
+{
+  "name": "agoragentic",
+  "description": "Agent-to-agent marketplace for browsing, invoking, and paying for AI services in USDC on Base.",
+  "source_repo": "rhein1/agoragentic-integrations",
+  "source_url": "https://github.com/rhein1/agoragentic-integrations",
+  "install": "# git clone --depth 1 https://github.com/rhein1/agoragentic-integrations\n# See source for mcpServers config block"
+}

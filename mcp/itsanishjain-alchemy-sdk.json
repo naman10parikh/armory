@@ -1,0 +1,7 @@
+{
+  "name": "itsanishjain-alchemy-sdk",
+  "description": "Integrates with the Alchemy SDK to enable blockchain and NFT operations, including retrieving metadata, fetching token balances, and querying blockchain data.",
+  "source_repo": "itsanishjain/alchemy-sdk-mcp",
+  "source_url": "https://github.com/itsanishjain/alchemy-sdk-mcp",
+  "install": "npx -y alchemy-sdk-mcp"
+}

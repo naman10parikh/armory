@@ -1,0 +1,7 @@
+{
+  "name": "multi-theft-auto-scripting",
+  "description": "Official MCP server for Multi Theft Auto providing 8 tools for MTA Wiki docs, function lookups, and scripting reference.",
+  "source_repo": "multitheftauto/mta-mcp-server",
+  "source_url": "https://github.com/multitheftauto/mta-mcp-server",
+  "install": "npx -y mta-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apex-500-mcp-cloud",
+  "description": "Hosted platform providing 25 tools covering crypto, web search, text processing, math, and monitoring with tiered pricing.",
+  "source_repo": "apex-500/mcp-cloud",
+  "source_url": "https://github.com/apex-500/mcp-cloud",
+  "install": "# git clone --depth 1 https://github.com/apex-500/mcp-cloud\n# See source for mcpServers config block"
+}

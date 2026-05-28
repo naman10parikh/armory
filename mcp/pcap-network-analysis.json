@@ -1,0 +1,7 @@
+{
+  "name": "pcap-network-analysis",
+  "description": "Analyzes network packet captures (PCAP files) from local directories or remote HTTP sources using scapy for DNS and DHCP traffic parsing, enabling cybersecurity threat detection, network troubleshooting, and digital forensics investigation with structured statistics generation and specialized security analysis prompts.",
+  "source_repo": "mcpcap/mcpcap",
+  "source_url": "https://github.com/mcpcap/mcpcap",
+  "install": "# git clone --depth 1 https://github.com/mcpcap/mcpcap\n# See source for mcpServers config block"
+}

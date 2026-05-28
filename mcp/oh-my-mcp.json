@@ -1,0 +1,7 @@
+{
+  "name": "oh-my-mcp",
+  "description": "A powerful MCP server with 116 practical tools across 9 categories including compression, web, file system, data processing, text, system, utilities, subagent AI, and browser automation.",
+  "source_repo": "quyansiyuanwang/oh-my-mcp",
+  "source_url": "https://github.com/quyansiyuanwang/oh-my-mcp",
+  "install": "npx -y oh-my-mcp"
+}

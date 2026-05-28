@@ -1,0 +1,7 @@
+{
+  "name": "bybit-mcp",
+  "description": "MCP server for Bybit exchange enabling 246 tools for trading, market data, account management, and more via natural language.",
+  "source_repo": "JohnnyWic/bybit-mcp",
+  "source_url": "https://github.com/JohnnyWic/bybit-mcp",
+  "install": "npx -y bybit-mcp"
+}

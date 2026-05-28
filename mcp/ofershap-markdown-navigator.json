@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-markdown-navigator",
+  "description": "Search, navigate, and extract content from local markdown files with full-text search, section extraction, heading navigation, and code block discovery.",
+  "source_repo": "ofershap/mcp-server-markdown",
+  "source_url": "https://github.com/ofershap/mcp-server-markdown",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-markdown\n# See source for mcpServers config block"
+}

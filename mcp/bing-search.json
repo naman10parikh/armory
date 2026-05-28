@@ -1,0 +1,7 @@
+{
+  "name": "bing-search",
+  "description": "Search the web using Bing services.",
+  "source_repo": "microsoft/semanticworkbench",
+  "source_url": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-bing-search",
+  "install": "# git clone --depth 1 https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-bing-search\n# See source for mcpServers config block"
+}

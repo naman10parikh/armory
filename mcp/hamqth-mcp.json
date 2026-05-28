@@ -1,0 +1,7 @@
+{
+  "name": "hamqth-mcp",
+  "description": "MCP server for HamQTH.com — callsign lookup, DX cluster spots, Reverse Beacon Network, DXCC resolution, and more through any MCP-compatible AI assistant.",
+  "source_repo": "qso-graph/hamqth-mcp",
+  "source_url": "https://github.com/qso-graph/hamqth-mcp",
+  "install": "npx -y hamqth-mcp"
+}

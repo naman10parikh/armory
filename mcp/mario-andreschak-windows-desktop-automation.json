@@ -1,0 +1,7 @@
+{
+  "name": "mario-andreschak-windows-desktop-automation",
+  "description": "Enables Windows desktop automation through TypeScript-wrapped AutoIt functions for controlling mouse movements, keyboard input, window management, and UI elements via natural language instructions.",
+  "source_repo": "mario-andreschak/mcp-windows-desktop-automation",
+  "source_url": "https://github.com/mario-andreschak/mcp-windows-desktop-automation",
+  "install": "# git clone --depth 1 https://github.com/mario-andreschak/mcp-windows-desktop-automation\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wangyafu-haiguitang-lateral-thinking-puzzles",
+  "description": "Hosts a collection of 'Haiguitang' lateral thinking puzzles where users ask yes/no questions to solve mysterious scenarios through interactive critical thinking exercises.",
+  "source_repo": "wangyafu/haiguitangmcp",
+  "source_url": "https://github.com/wangyafu/haiguitangmcp",
+  "install": "# git clone --depth 1 https://github.com/wangyafu/haiguitangmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "29decibel-record-to-markdown",
+  "description": "Integrates with markdown files and Apple Notes to automatically save and format Claude conversation content for easy reference and sharing.",
+  "source_repo": "29decibel/record-to-markdown",
+  "source_url": "https://github.com/29decibel/record-to-markdown",
+  "install": "# git clone --depth 1 https://github.com/29decibel/record-to-markdown\n# See source for mcpServers config block"
+}

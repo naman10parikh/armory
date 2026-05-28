@@ -1,0 +1,7 @@
+{
+  "name": "jarvisassistantux-loopsense",
+  "description": "MCP server that closes the feedback loop for AI coding agents — CI monitoring, process watching, file changes, HTTP polling.",
+  "source_repo": "jarvisassistantux/loopsense",
+  "source_url": "https://github.com/jarvisassistantux/loopsense",
+  "install": "# git clone --depth 1 https://github.com/jarvisassistantux/loopsense\n# See source for mcpServers config block"
+}

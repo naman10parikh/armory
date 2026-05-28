@@ -1,0 +1,7 @@
+{
+  "name": "kkj",
+  "description": "Search Japan's KKJ government procurement information portal for public tender notices from national and local agencies.",
+  "source_repo": "",
+  "source_url": "https://n-3.ai/apps/reinfo-agent",
+  "install": "# git clone --depth 1 https://n-3.ai/apps/reinfo-agent\n# See source for mcpServers config block"
+}

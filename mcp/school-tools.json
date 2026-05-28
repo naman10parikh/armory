@@ -1,0 +1,7 @@
+{
+  "name": "school-tools",
+  "description": "Integrates with Canvas and Gradescope to help students track assignment deadlines, add them to macOS Reminders, and manage course materials across multiple learning platforms.",
+  "source_repo": "54yyyu/school-mcp",
+  "source_url": "https://github.com/54yyyu/school-mcp",
+  "install": "npx -y school-mcp"
+}

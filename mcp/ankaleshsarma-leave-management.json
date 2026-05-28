@@ -1,0 +1,7 @@
+{
+  "name": "ankaleshsarma-leave-management",
+  "description": "Provides comprehensive leave management functionality including request submission, approval workflows, balance tracking, and HR reporting for streamlined organizational leave processes.",
+  "source_repo": "ankaleshsarma/leavemanagementmcp",
+  "source_url": "https://github.com/ankaleshsarma/leavemanagementmcp",
+  "install": "# git clone --depth 1 https://github.com/ankaleshsarma/leavemanagementmcp\n# See source for mcpServers config block"
+}

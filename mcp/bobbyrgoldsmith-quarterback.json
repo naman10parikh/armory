@@ -1,0 +1,7 @@
+{
+  "name": "bobbyrgoldsmith-quarterback",
+  "description": "Strategic task prioritization and agent orchestration for multi-project operators. 22 MCP tools with 5-factor scoring engine, advisory document analysis, agent dispatch with autonomy levels, HMAC webhooks, time-aware planning, and CI/CD integration. Standalone CLI + MCP server.",
+  "source_repo": "bobbyrgoldsmith/quarterback",
+  "source_url": "https://github.com/bobbyrgoldsmith/quarterback",
+  "install": "# git clone --depth 1 https://github.com/bobbyrgoldsmith/quarterback\n# See source for mcpServers config block"
+}

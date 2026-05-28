@@ -1,0 +1,7 @@
+{
+  "name": "katlis-layout-detector",
+  "description": "Analyzes webpage screenshots using OpenCV template matching to extract pixel-perfect layout coordinates and detect spatial patterns like grids and radial arrangements.",
+  "source_repo": "katlis/layout-detector-mcp",
+  "source_url": "https://github.com/katlis/layout-detector-mcp",
+  "install": "npx -y layout-detector-mcp"
+}

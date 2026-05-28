@@ -1,0 +1,7 @@
+{
+  "name": "sap-business-data-cloud-mcp-server",
+  "description": "Enables AI assistants to manage SAP Business Data Cloud operations including data shares, Delta Sharing, and data product publishing through an MCP interface.",
+  "source_repo": "MarioDeFelipe/sap-bdc-mcp-server",
+  "source_url": "https://github.com/MarioDeFelipe/sap-bdc-mcp-server",
+  "install": "npx -y sap-bdc-mcp-server"
+}

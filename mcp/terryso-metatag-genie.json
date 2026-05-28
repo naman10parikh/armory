@@ -1,0 +1,7 @@
+{
+  "name": "terryso-metatag-genie",
+  "description": "Enables AI to write standardized metadata to various image file formats including HEIC and PNG for automated tagging, photo organization, and copyright embedding without switching contexts.",
+  "source_repo": "terryso/meta_tag_genie",
+  "source_url": "https://github.com/terryso/meta_tag_genie",
+  "install": "# git clone --depth 1 https://github.com/terryso/meta_tag_genie\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "roarkanalytics-sdk-mcp",
+  "description": "Enables AI assistants to interact with the Roark REST API, allowing them to explore endpoints, make test requests, and use documentation to help integrate this SDK into your application.",
+  "source_repo": "roarkhq/sdk-roark-analytics-node",
+  "source_url": "https://github.com/roarkhq/sdk-roark-analytics-node",
+  "install": "# git clone --depth 1 https://github.com/roarkhq/sdk-roark-analytics-node\n# See source for mcpServers config block"
+}

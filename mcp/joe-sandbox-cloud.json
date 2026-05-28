@@ -1,0 +1,7 @@
+{
+  "name": "joe-sandbox-cloud",
+  "description": "Integrates with Joe Sandbox Cloud API to provide malware analysis capabilities including file and URL submission, threat intelligence extraction, behavioral analysis reporting, and artifact downloads for security research and incident response workflows.",
+  "source_repo": "joesecurity/joesandboxmcp",
+  "source_url": "https://github.com/joesecurity/joesandboxmcp",
+  "install": "# git clone --depth 1 https://github.com/joesecurity/joesandboxmcp\n# See source for mcpServers config block"
+}

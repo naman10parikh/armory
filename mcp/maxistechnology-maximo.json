@@ -1,0 +1,7 @@
+{
+  "name": "maxistechnology-maximo",
+  "description": "Integrates IBM Maximo's asset management platform via OSLC API with configurable auth modes.",
+  "source_repo": "maxistechnology-dev/maximo-mcp",
+  "source_url": "https://github.com/maxistechnology-dev/maximo-mcp",
+  "install": "npx -y maximo-mcp"
+}

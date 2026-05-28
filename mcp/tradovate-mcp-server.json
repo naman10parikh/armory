@@ -1,0 +1,7 @@
+{
+  "name": "tradovate-mcp-server",
+  "description": "Tradovate Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "alexanimal/tradovate-mcp-server",
+  "source_url": "https://mcp.so/server/tradovate-mcp-server/alexanimal",
+  "install": "npx -y tradovate-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ethangillani-anki",
+  "description": "Enables AI models to interact directly with Anki flashcard software through the AnkiConnect API, providing tools to create, search, and manage decks and notes for learners and educators.",
+  "source_repo": "ethangillani/anki-mcp-server",
+  "source_url": "https://github.com/ethangillani/anki-mcp-server",
+  "install": "npx -y anki-mcp-server"
+}

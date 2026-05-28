@@ -1,0 +1,7 @@
+{
+  "name": "overpod-telegram",
+  "description": "Full Telegram access via MTProto protocol with messaging, chat management, and media tools.",
+  "source_repo": "mcp-telegram/mcp-telegram",
+  "source_url": "https://github.com/mcp-telegram/mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/mcp-telegram/mcp-telegram\n# See source for mcpServers config block"
+}

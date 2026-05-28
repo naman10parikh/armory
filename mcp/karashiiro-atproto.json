@@ -1,0 +1,7 @@
+{
+  "name": "karashiiro-atproto",
+  "description": "Browses public AT Protocol network data including repository metadata, records, blobs, and search without requiring authentication.",
+  "source_repo": "karashiiro/atproto-mcp",
+  "source_url": "https://github.com/karashiiro/atproto-mcp",
+  "install": "npx -y atproto-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-calendar",
+  "description": "Provides access to Google Calendar for creating events, listing calendars, and checking availability.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/google-workspace-calendar",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/google-workspace-calendar\n# See source for mcpServers config block"
+}

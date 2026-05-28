@@ -1,0 +1,7 @@
+{
+  "name": "mastrophot-near-wallet",
+  "description": "Creates NEAR wallets, checks balances, and signs transactions with ED25519 keypair management.",
+  "source_repo": "mastrophot/near-mcp-wallet-manager",
+  "source_url": "https://github.com/mastrophot/near-mcp-wallet-manager",
+  "install": "# git clone --depth 1 https://github.com/mastrophot/near-mcp-wallet-manager\n# See source for mcpServers config block"
+}

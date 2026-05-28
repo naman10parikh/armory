@@ -1,0 +1,7 @@
+{
+  "name": "dem-terrain-analysis",
+  "description": "AI-powered terrain analysis for any location on Earth. Uses super-resolution and computes environmental risk metrics including erosion, water flow, and a composite Site Intelligence Score.",
+  "source_repo": "ava11235/terrain-analysis-mcp",
+  "source_url": "https://github.com/ava11235/terrain-analysis-mcp",
+  "install": "npx -y terrain-analysis-mcp"
+}

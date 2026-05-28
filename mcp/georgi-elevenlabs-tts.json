@@ -1,0 +1,7 @@
+{
+  "name": "georgi-elevenlabs-tts",
+  "description": "Integrates ElevenLabs' text-to-speech capabilities for high-quality, customizable voice output in interactions, featuring voice selection and model choice.",
+  "source_repo": "georgi-io/jessica",
+  "source_url": "https://github.com/georgi-io/jessica",
+  "install": "# git clone --depth 1 https://github.com/georgi-io/jessica\n# See source for mcpServers config block"
+}

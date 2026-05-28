@@ -1,0 +1,7 @@
+{
+  "name": "certman",
+  "description": "Create and manage your own Certificate Authority for internal HTTPS.",
+  "source_repo": "",
+  "source_url": "https://certman.app",
+  "install": "# git clone --depth 1 https://certman.app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alcastaro-datos-gob-do",
+  "description": "Access 1,053 datasets from the Dominican Republic open government data portal.",
+  "source_repo": "alcastaro/datos.gob.do-mcp-server",
+  "source_url": "https://github.com/alcastaro/datos.gob.do-mcp-server",
+  "install": "npx -y datos.gob.do-mcp-server"
+}

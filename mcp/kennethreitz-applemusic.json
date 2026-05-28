@@ -1,0 +1,7 @@
+{
+  "name": "kennethreitz-applemusic",
+  "description": "Integrates with Apple Music on macOS using Python and AppleScript to enable music playback control, library searching, playlist creation, and metadata retrieval.",
+  "source_repo": "kennethreitz/mcp-applemusic",
+  "source_url": "https://github.com/kennethreitz/mcp-applemusic",
+  "install": "# git clone --depth 1 https://github.com/kennethreitz/mcp-applemusic\n# See source for mcpServers config block"
+}

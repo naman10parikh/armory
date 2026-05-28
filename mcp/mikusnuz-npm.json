@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-npm",
+  "description": "Provides npm package management capabilities including publishing, versioning, dependency management, security audits, registry searches, and configuration control directly from AI assistants.",
+  "source_repo": "mikusnuz/npm-mcp",
+  "source_url": "https://github.com/mikusnuz/npm-mcp",
+  "install": "npx -y npm-mcp"
+}

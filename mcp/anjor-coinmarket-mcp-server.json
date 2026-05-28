@@ -1,0 +1,7 @@
+{
+  "name": "anjor-coinmarket-mcp-server",
+  "description": "Access real-time cryptocurrency data from CoinMarketCap.",
+  "source_repo": "anjor/coinmarket-mcp-server",
+  "source_url": "https://github.com/anjor/coinmarket-mcp-server",
+  "install": "npx -y coinmarket-mcp-server"
+}

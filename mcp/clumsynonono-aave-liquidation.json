@@ -1,0 +1,7 @@
+{
+  "name": "clumsynonono-aave-liquidation",
+  "description": "Analyzes Aave V3 liquidation opportunities on Ethereum mainnet by monitoring user health factors, identifying at-risk positions, and calculating potential liquidation profits",
+  "source_repo": "clumsynonono/aave-liquidation-mcp",
+  "source_url": "https://github.com/clumsynonono/aave-liquidation-mcp",
+  "install": "npx -y aave-liquidation-mcp"
+}

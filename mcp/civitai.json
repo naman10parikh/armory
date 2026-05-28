@@ -1,0 +1,7 @@
+{
+  "name": "civitai",
+  "description": "Integrates with Civitai's model repository to provide model search, image browsing, creator discovery, and download access with filtering by type, popularity, and safety ratings.",
+  "source_repo": "cicatriiz/civitai-mcp-server",
+  "source_url": "https://github.com/cicatriiz/civitai-mcp-server",
+  "install": "npx -y civitai-mcp-server"
+}

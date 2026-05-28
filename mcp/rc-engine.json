@@ -1,0 +1,7 @@
+{
+  "name": "rc-engine",
+  "description": "An AI-native product development pipeline that guides users from idea to shipping with structured research, architecture, build, validation, and traceability using 52 tools across 4 domains.",
+  "source_repo": "originalrashmi/rc-engine-product-framework",
+  "source_url": "https://github.com/originalrashmi/rc-engine-product-framework",
+  "install": "# git clone --depth 1 https://github.com/originalrashmi/rc-engine-product-framework\n# See source for mcpServers config block"
+}

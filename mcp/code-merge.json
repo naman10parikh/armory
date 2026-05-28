@@ -1,0 +1,7 @@
+{
+  "name": "code-merge",
+  "description": "Enables code analysis and merging from multiple files in a project with efficient handling of file trees, content compression, and filtering through .gitignore rules for comprehensive codebase context.",
+  "source_repo": "yy1588133/code-merge-mcp",
+  "source_url": "https://github.com/yy1588133/code-merge-mcp",
+  "install": "npx -y code-merge-mcp"
+}

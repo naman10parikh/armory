@@ -1,0 +1,7 @@
+{
+  "name": "afshinator-mcp-server-pexels",
+  "description": "An MCP server to search for (free) stock images and videos from pexels.com.",
+  "source_repo": "afshinator/mcp-server-pexels",
+  "source_url": "https://github.com/afshinator/mcp-server-pexels",
+  "install": "# git clone --depth 1 https://github.com/afshinator/mcp-server-pexels\n# See source for mcpServers config block"
+}

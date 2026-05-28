@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-address-screen",
+  "description": "Pre-settlement on-chain risk screening MCP server using 17-vector GoPlus analysis.",
+  "source_repo": "srotzin/hive-mcp-address-screen",
+  "source_url": "https://github.com/srotzin/hive-mcp-address-screen",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-address-screen\n# See source for mcpServers config block"
+}

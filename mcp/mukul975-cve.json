@@ -1,0 +1,7 @@
+{
+  "name": "mukul975-cve",
+  "description": "Security intelligence with 27 tools across 21 sources including NVD, EPSS, VirusTotal, and Shodan.",
+  "source_repo": "mukul975/cve-mcp-server",
+  "source_url": "https://github.com/mukul975/cve-mcp-server",
+  "install": "npx -y cve-mcp-server"
+}

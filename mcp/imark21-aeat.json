@@ -1,0 +1,7 @@
+{
+  "name": "imark21-aeat",
+  "description": "Provides Spanish tax data from official AEAT and BOE sources including IRPF brackets, VAT rates, fiscal calendar, and autonomous community deductions.",
+  "source_repo": "imark21/aeat-mcp",
+  "source_url": "https://github.com/imark21/aeat-mcp",
+  "install": "npx -y aeat-mcp"
+}

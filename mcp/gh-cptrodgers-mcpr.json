@@ -1,0 +1,7 @@
+{
+  "name": "gh-cptrodgers-mcpr",
+  "description": "Proxy layer for MCP apps providing tunnel, debug, deploy, and monitor capabilities through one endpoint.",
+  "source_repo": "pragmalabs-tech/mcpr",
+  "source_url": "https://github.com/pragmalabs-tech/mcpr",
+  "install": "# git clone --depth 1 https://github.com/pragmalabs-tech/mcpr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "henry-insomniac-horizon",
+  "description": "Wraps the Horizon news pipeline for AI-driven aggregation, scoring, filtering, enrichment, and multilingual summarization of tech news from RSS feeds and search engines.",
+  "source_repo": "henry-insomniac/horizon-mcp",
+  "source_url": "https://github.com/henry-insomniac/horizon-mcp",
+  "install": "npx -y horizon-mcp"
+}

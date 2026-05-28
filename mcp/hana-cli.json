@@ -1,0 +1,7 @@
+{
+  "name": "hana-cli",
+  "description": "150+ SAP HANA database tools for AI assistants via the HANA developer CLI.",
+  "source_repo": "sap-samples/hana-developer-cli-tool-example",
+  "source_url": "https://github.com/sap-samples/hana-developer-cli-tool-example",
+  "install": "# git clone --depth 1 https://github.com/sap-samples/hana-developer-cli-tool-example\n# See source for mcpServers config block"
+}

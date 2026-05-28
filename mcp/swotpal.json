@@ -1,0 +1,7 @@
+{
+  "name": "swotpal",
+  "description": "SWOT, TOWS, and PESTLE analysis tools with access to 100+ pre-built examples and PDF/text/URL conversion.",
+  "source_repo": "aprilelevengo/swotpal-mcp-server",
+  "source_url": "https://github.com/aprilelevengo/swotpal-mcp-server",
+  "install": "npx -y swotpal-mcp-server"
+}

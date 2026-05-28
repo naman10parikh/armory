@@ -1,0 +1,7 @@
+{
+  "name": "acc-mcp-v0-2",
+  "description": "ACC_MCP_V0.2 MCP server listed on mcp.so.",
+  "source_repo": "itaico82/ACC_MCP_V0.2",
+  "source_url": "https://mcp.so/server/ACC_MCP_V0.2/itaico82",
+  "install": "# git clone --depth 1 https://mcp.so/server/ACC_MCP_V0.2/itaico82\n# See source for mcpServers config block"
+}

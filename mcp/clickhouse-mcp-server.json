@@ -1,0 +1,7 @@
+{
+  "name": "clickhouse-mcp-server",
+  "description": "Clickhouse_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "dubin555/clickhouse_mcp_server",
+  "source_url": "https://mcp.so/server/clickhouse_mcp_server/dubin555",
+  "install": "npx -y clickhouse_mcp_server"
+}

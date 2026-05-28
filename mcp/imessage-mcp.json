@@ -1,0 +1,7 @@
+{
+  "name": "imessage-mcp",
+  "description": "Imessage Mcp MCP server listed on mcp.so.",
+  "source_repo": "willccbb/imessage-mcp",
+  "source_url": "https://mcp.so/server/imessage-mcp/willccbb",
+  "install": "npx -y imessage-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "harperreed-bbs",
+  "description": "Message board system with CLI and TUI interfaces enabling forum-style discussions with topics, threads, and messages",
+  "source_repo": "harperreed/bbs-mcp",
+  "source_url": "https://github.com/harperreed/bbs-mcp",
+  "install": "npx -y bbs-mcp"
+}

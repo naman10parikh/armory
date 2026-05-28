@@ -1,0 +1,7 @@
+{
+  "name": "prometheus-mcp-server",
+  "description": "Prometheus Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "pab1it0/prometheus-mcp-server",
+  "source_url": "https://mcp.so/server/prometheus-mcp-server/pab1it0",
+  "install": "npx -y prometheus-mcp-server"
+}

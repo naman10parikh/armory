@@ -1,0 +1,7 @@
+{
+  "name": "qckfx-tree-hugger-js",
+  "description": "Provides JavaScript and TypeScript code analysis through AST parsing for function extraction, scope analysis, identifier renaming, unused import removal, and code transformation with safety previews and history tracking.",
+  "source_repo": "qckfx/tree-hugger-js-mcp",
+  "source_url": "https://github.com/qckfx/tree-hugger-js-mcp",
+  "install": "npx -y tree-hugger-js-mcp"
+}

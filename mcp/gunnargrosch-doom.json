@@ -1,0 +1,7 @@
+{
+  "name": "gunnargrosch-doom",
+  "description": "Embeds the DOOM game engine via FFI, enabling AI clients to play DOOM with real-time game state, enemy detection, and frame rendering.",
+  "source_repo": "gunnargrosch/doom-mcp",
+  "source_url": "https://github.com/gunnargrosch/doom-mcp",
+  "install": "npx -y doom-mcp"
+}

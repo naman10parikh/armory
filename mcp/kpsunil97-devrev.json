@@ -1,0 +1,7 @@
+{
+  "name": "kpsunil97-devrev",
+  "description": "Integrates with DevRev APIs to enable search and retrieval of DevRev data for automated issue tracking, customer support analysis, and data-driven decision making.",
+  "source_repo": "kpsunil97/devrev-mcp-server",
+  "source_url": "https://github.com/kpsunil97/devrev-mcp-server",
+  "install": "npx -y devrev-mcp-server"
+}

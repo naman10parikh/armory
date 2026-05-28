@@ -1,0 +1,7 @@
+{
+  "name": "skipshit",
+  "description": "Content moderation and filtering platform enabling AI agents to detect and filter inappropriate or harmful content.",
+  "source_repo": "jeremynashrei/skipshit",
+  "source_url": "https://github.com/jeremynashrei/skipshit",
+  "install": "# git clone --depth 1 https://github.com/jeremynashrei/skipshit\n# See source for mcpServers config block"
+}

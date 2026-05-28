@@ -1,0 +1,7 @@
+{
+  "name": "wiz0floyd-servicenow-docs",
+  "description": "MCP server providing runtime access to ServiceNow documentation via the public Fluid Docs API with search, retrieval, and autocomplete tools.",
+  "source_repo": "wiz0floyd/sn-docs",
+  "source_url": "https://github.com/wiz0floyd/sn-docs",
+  "install": "# git clone --depth 1 https://github.com/wiz0floyd/sn-docs\n# See source for mcpServers config block"
+}

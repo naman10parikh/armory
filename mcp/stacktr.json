@@ -1,0 +1,7 @@
+{
+  "name": "stacktr",
+  "description": "Publish HTML to private, unguessable, replace-in-place URLs directly from MCP-compatible AI agents.",
+  "source_repo": "stevysmith/stacktree-mcp",
+  "source_url": "https://github.com/stevysmith/stacktree-mcp",
+  "install": "npx -y stacktree-mcp"
+}

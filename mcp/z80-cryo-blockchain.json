@@ -1,0 +1,7 @@
+{
+  "name": "z80-cryo-blockchain",
+  "description": "Provides a powerful Ethereum blockchain data extraction and analysis interface using Cryo and DuckDB, enabling efficient SQL-based querying of on-chain datasets with advanced filtering capabilities.",
+  "source_repo": "z80dev/cryo-mcp",
+  "source_url": "https://github.com/z80dev/cryo-mcp",
+  "install": "npx -y cryo-mcp"
+}

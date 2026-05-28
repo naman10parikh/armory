@@ -1,0 +1,7 @@
+{
+  "name": "oschwald-maxminddb",
+  "description": "Provides geolocation and network intelligence through MaxMind databases with IP lookup, network range iteration with advanced filtering operators, and automatic database updates for security research and location-aware applications.",
+  "source_repo": "oschwald/maxminddb-mcp",
+  "source_url": "https://github.com/oschwald/maxminddb-mcp",
+  "install": "npx -y maxminddb-mcp"
+}

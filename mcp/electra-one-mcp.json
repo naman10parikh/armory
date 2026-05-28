@@ -1,0 +1,7 @@
+{
+  "name": "electra-one-mcp",
+  "description": "Develop Electra One MK2/Mini widgets and presets from Claude Code.",
+  "source_repo": "roomi-fields/electra-one-mcp",
+  "source_url": "https://github.com/roomi-fields/electra-one-mcp",
+  "install": "npx -y electra-one-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "forgemeshlabs-disruption-intelligence-mcp",
+  "description": "AI-native commercial disruption intelligence for MCP clients and x402-powered agents. Supports WARN/layoff intelligence, company context, geospatial territory disruption, and x402 payment challenge inspection via the hosted Forgemesh API.",
+  "source_repo": "forgemeshlabs/disruption-intelligence-mcp",
+  "source_url": "https://github.com/forgemeshlabs/disruption-intelligence-mcp",
+  "install": "npx -y disruption-intelligence-mcp"
+}

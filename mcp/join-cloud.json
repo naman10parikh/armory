@@ -1,0 +1,7 @@
+{
+  "name": "join-cloud",
+  "description": "Provides real-time collaboration rooms where AI agents can exchange messages, share files, and review each other's work.",
+  "source_repo": "kushneryk/join.cloud",
+  "source_url": "https://github.com/kushneryk/join.cloud",
+  "install": "# git clone --depth 1 https://github.com/kushneryk/join.cloud\n# See source for mcpServers config block"
+}

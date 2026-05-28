@@ -1,0 +1,7 @@
+{
+  "name": "ticketmaster-live-events",
+  "description": "Connects AI assistants to Ticketmaster's API for searching and discovering upcoming music events by location, date range, and keywords with detailed event information and ticket links.",
+  "source_repo": "mmmaaatttttt/mcp-live-events",
+  "source_url": "https://github.com/mmmaaatttttt/mcp-live-events",
+  "install": "# git clone --depth 1 https://github.com/mmmaaatttttt/mcp-live-events\n# See source for mcpServers config block"
+}

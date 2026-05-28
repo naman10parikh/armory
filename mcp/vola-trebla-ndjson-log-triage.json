@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-ndjson-log-triage",
+  "description": "Streams NDJSON log triage: query patterns, detect anomalies, and summarize timelines without full file loading.",
+  "source_repo": "vola-trebla/ndjson-local-log-triage-mcp",
+  "source_url": "https://github.com/vola-trebla/ndjson-local-log-triage-mcp",
+  "install": "npx -y ndjson-local-log-triage-mcp"
+}

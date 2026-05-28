@@ -1,0 +1,7 @@
+{
+  "name": "bharathvag-ganesan-whois",
+  "description": "WHOIS domain lookups",
+  "source_repo": "bharathvaj-ganesan/whois-mcp",
+  "source_url": "https://github.com/bharathvaj-ganesan/whois-mcp",
+  "install": "npx -y whois-mcp"
+}

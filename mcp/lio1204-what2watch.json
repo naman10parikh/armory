@@ -1,0 +1,7 @@
+{
+  "name": "lio1204-what2watch",
+  "description": "Real-time TV schedules, streaming availability, and personalized recommendations",
+  "source_repo": "lio1204/what2watch-mcp",
+  "source_url": "https://github.com/lio1204/what2watch-mcp",
+  "install": "npx -y what2watch-mcp"
+}

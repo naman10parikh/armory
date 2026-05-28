@@ -1,0 +1,7 @@
+{
+  "name": "factorio-mcp-server",
+  "description": "Factorio Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "dested/factorio-mcp-server",
+  "source_url": "https://mcp.so/server/factorio-mcp-server/dested",
+  "install": "npx -y factorio-mcp-server"
+}

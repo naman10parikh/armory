@@ -1,0 +1,7 @@
+{
+  "name": "plyght-canvas-lms",
+  "description": "Integrates with Canvas Learning Management System to provide comprehensive course management, assignment submission, messaging, calendar events, grades, and content access through 31 specialized tools covering all major student and instructor workflows.",
+  "source_repo": "plyght/canvas-mcp",
+  "source_url": "https://github.com/plyght/canvas-mcp",
+  "install": "npx -y canvas-mcp"
+}

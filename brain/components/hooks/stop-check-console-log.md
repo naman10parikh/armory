@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [stop-cost-tracker, stop-desktop-notify]
-tags: [ecc, hook, Stop]
+tags: [hook, Stop]
 ---
 ## What it is
 Stop hook: Check for console.log in modified files after each response (matcher: *).

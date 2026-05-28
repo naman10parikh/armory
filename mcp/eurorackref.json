@@ -1,0 +1,7 @@
+{
+  "name": "eurorackref",
+  "description": "Searchable Eurorack modular synthesizer module database for looking up specifications and patch documentation.",
+  "source_repo": "jallen/eurorack-reference",
+  "source_url": "https://github.com/jallen/eurorack-reference",
+  "install": "# git clone --depth 1 https://github.com/jallen/eurorack-reference\n# See source for mcpServers config block"
+}

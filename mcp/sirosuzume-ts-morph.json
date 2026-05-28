@@ -1,0 +1,7 @@
+{
+  "name": "sirosuzume-ts-morph",
+  "description": "Enables AI to perform complex TypeScript/JavaScript refactoring operations like renaming symbols, moving code between files, and updating import paths through ts-morph's powerful code transformation capabilities.",
+  "source_repo": "sirosuzume/mcp-ts-morph",
+  "source_url": "https://github.com/sirosuzume/mcp-ts-morph",
+  "install": "# git clone --depth 1 https://github.com/sirosuzume/mcp-ts-morph\n# See source for mcpServers config block"
+}

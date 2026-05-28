@@ -1,0 +1,7 @@
+{
+  "name": "alexherman11-canvas-lms",
+  "description": "Integrates with Canvas Learning Management System to access courses, assignments, grades, announcements, and messaging with support for assignment submission and file browsing.",
+  "source_repo": "alexherman11/canvas_mcp",
+  "source_url": "https://github.com/alexherman11/canvas_mcp",
+  "install": "npx -y canvas_mcp"
+}

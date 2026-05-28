@@ -1,0 +1,7 @@
+{
+  "name": "sgx-labs-statelessagent",
+  "description": "Memory with provenance tracking — records where agent knowledge originated and detects when sources change. 17 MCP tools for session handoffs, decisions, semantic search, and knowledge graph. Works across Claude Code, Cursor, Windsurf, Codex CLI, and Gemini CLI. Single Go binary, SQLite + vector search, fully local.",
+  "source_repo": "sgx-labs/statelessagent",
+  "source_url": "https://github.com/sgx-labs/statelessagent",
+  "install": "# git clone --depth 1 https://github.com/sgx-labs/statelessagent\n# See source for mcpServers config block"
+}

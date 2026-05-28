@@ -1,0 +1,7 @@
+{
+  "name": "besslframework-stack-tessera",
+  "description": "Transforms workspace documents into a searchable vector database using LanceDB and FastEmbed with hybrid search, version-aware ranking, and cross-session memory persistence.",
+  "source_repo": "besslframework-stack/project-tessera",
+  "source_url": "https://github.com/besslframework-stack/project-tessera",
+  "install": "# git clone --depth 1 https://github.com/besslframework-stack/project-tessera\n# See source for mcpServers config block"
+}

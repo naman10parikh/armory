@@ -1,0 +1,7 @@
+{
+  "name": "2niuhe-plantuml-web",
+  "description": "A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.",
+  "source_repo": "2niuhe/plantuml_web",
+  "source_url": "https://github.com/2niuhe/plantuml_web",
+  "install": "# git clone --depth 1 https://github.com/2niuhe/plantuml_web\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ada20204-antigravity-sync",
+  "description": "Bridges external coding agents to the Antigravity IDE through Chrome DevTools Protocol for cross-environment AI-assisted development.",
+  "source_repo": "ada20204/antigravity-sync-mcp",
+  "source_url": "https://github.com/ada20204/antigravity-sync-mcp",
+  "install": "npx -y antigravity-sync-mcp"
+}

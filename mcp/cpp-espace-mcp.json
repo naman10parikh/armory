@@ -1,0 +1,7 @@
+{
+  "name": "cpp-espace-mcp",
+  "description": "MCP server for accessing the eSpace facilities management API, enabling work orders, events, equipment, and maintenance schedule operations from within Claude conversations.",
+  "source_repo": "norm613/cpp-espace-mcp",
+  "source_url": "https://github.com/norm613/cpp-espace-mcp",
+  "install": "npx -y cpp-espace-mcp"
+}

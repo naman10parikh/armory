@@ -1,0 +1,7 @@
+{
+  "name": "3351163616-pdf-reader",
+  "description": "Extracts text and converts PDFs to PNG images from both local and remote files using multiple PDF processing libraries for document analysis and content processing workflows.",
+  "source_repo": "3351163616/mcp_pdf_reader",
+  "source_url": "https://github.com/3351163616/mcp_pdf_reader",
+  "install": "# git clone --depth 1 https://github.com/3351163616/mcp_pdf_reader\n# See source for mcpServers config block"
+}

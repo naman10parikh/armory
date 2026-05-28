@@ -1,0 +1,7 @@
+{
+  "name": "laraplugins",
+  "description": "Validated Laravel plugin directory with health scores, compatibility data, and vendor trust signals.",
+  "source_repo": "",
+  "source_url": "https://laraplugins.io",
+  "install": "# git clone --depth 1 https://laraplugins.io\n# See source for mcpServers config block"
+}

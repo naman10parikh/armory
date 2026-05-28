@@ -1,0 +1,7 @@
+{
+  "name": "nickytonline-dev-to",
+  "description": "Integrates with dev.to's public API to provide article retrieval, user information access, tag browsing, comment viewing, and content search capabilities for developers and content creators analyzing the dev.to ecosystem.",
+  "source_repo": "nickytonline/dev-to-mcp",
+  "source_url": "https://github.com/nickytonline/dev-to-mcp",
+  "install": "npx -y dev-to-mcp"
+}

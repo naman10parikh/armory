@@ -1,0 +1,7 @@
+{
+  "name": "atla",
+  "description": "Provides a standardized interface for evaluating LLM responses against single or multiple criteria, returning both numerical scores and textual critiques",
+  "source_repo": "atla-ai/atla-mcp-server",
+  "source_url": "https://github.com/atla-ai/atla-mcp-server",
+  "install": "npx -y atla-mcp-server"
+}

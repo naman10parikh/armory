@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-congress-gov",
+  "description": "Queries U.S. congressional data including bills, votes, members, committees, CRS reports, and the Congressional Record via the Congress.gov API.",
+  "source_repo": "cyanheads/congressgov-mcp-server",
+  "source_url": "https://github.com/cyanheads/congressgov-mcp-server",
+  "install": "npx -y congressgov-mcp-server"
+}

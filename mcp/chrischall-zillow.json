@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-zillow",
+  "description": "Provides 15 tools for Zillow property listings, Zestimate history, saved homes, market reports, and mortgage calculations via browser proxy authentication.",
+  "source_repo": "chrischall/zillow-mcp",
+  "source_url": "https://github.com/chrischall/zillow-mcp",
+  "install": "npx -y zillow-mcp"
+}

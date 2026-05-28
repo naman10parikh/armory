@@ -1,0 +1,7 @@
+{
+  "name": "mikelewis1971-ai-workspace",
+  "description": "Provides local AI models with web browsing, Python execution, file management, OCR, vision, and desktop control capabilities.",
+  "source_repo": "mikelewis1971/ai_workspace_mcp",
+  "source_url": "https://github.com/mikelewis1971/ai_workspace_mcp",
+  "install": "npx -y ai_workspace_mcp"
+}

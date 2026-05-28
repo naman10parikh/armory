@@ -1,0 +1,7 @@
+{
+  "name": "computer-use-windows",
+  "description": "A standalone MCP server for Windows desktop control, enabling screenshots, mouse and keyboard input, app launch, window/display management, and clipboard access via natural language.",
+  "source_repo": "wimi321/windows-computer-use-skill",
+  "source_url": "https://github.com/wimi321/windows-computer-use-skill",
+  "install": "# git clone --depth 1 https://github.com/wimi321/windows-computer-use-skill\n# See source for mcpServers config block"
+}

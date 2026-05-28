@@ -1,0 +1,7 @@
+{
+  "name": "spectoda-easyeda-pro",
+  "description": "AI agent integration for EasyEDA Pro PCB design, enabling inspection, design rule checks, component searches, and JLCPCB manufacturing exports via a WebSocket bridge.",
+  "source_repo": "spectoda/easyeda-mcp",
+  "source_url": "https://github.com/spectoda/easyeda-mcp",
+  "install": "npx -y easyeda-mcp"
+}

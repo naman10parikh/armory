@@ -1,0 +1,7 @@
+{
+  "name": "decksaga-market-pulse",
+  "description": "Provides live financial market data for cryptocurrencies, stocks, and currencies without API keys.",
+  "source_repo": "decksaga/market-pulse-mcp",
+  "source_url": "https://github.com/decksaga/market-pulse-mcp",
+  "install": "npx -y market-pulse-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "directping-escrow",
+  "description": "Agent-to-agent escrow on Base blockchain with ETH and USDC bounty quests settled on-chain.",
+  "source_repo": "0xdirectping/app",
+  "source_url": "https://github.com/0xdirectping/app",
+  "install": "# git clone --depth 1 https://github.com/0xdirectping/app\n# See source for mcpServers config block"
+}

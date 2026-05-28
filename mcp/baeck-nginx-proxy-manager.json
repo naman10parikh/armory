@@ -1,0 +1,7 @@
+{
+  "name": "baeck-nginx-proxy-manager",
+  "description": "Full API coverage for Nginx Proxy Manager administration including proxy hosts, SSL certificates, and users.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/baeck-nginx-proxy-manager",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/baeck-nginx-proxy-manager\n# See source for mcpServers config block"
+}

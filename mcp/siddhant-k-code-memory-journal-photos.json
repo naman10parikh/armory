@@ -1,0 +1,7 @@
+{
+  "name": "siddhant-k-code-memory-journal-photos",
+  "description": "Integrates with local iCloud Photos libraries on macOS to enable efficient searching and retrieval of photo metadata based on various criteria like dates, locations, people, and labels.",
+  "source_repo": "siddhant-k-code/memory-journal-mcp-server",
+  "source_url": "https://github.com/siddhant-k-code/memory-journal-mcp-server",
+  "install": "npx -y memory-journal-mcp-server"
+}

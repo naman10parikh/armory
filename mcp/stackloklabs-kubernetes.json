@@ -1,0 +1,7 @@
+{
+  "name": "stackloklabs-kubernetes",
+  "description": "Integrates with Kubernetes clusters to manage resources, retrieve pod logs, execute commands in containers, and apply YAML manifests with configurable timeouts and rate limiting for DevOps automation and cluster monitoring.",
+  "source_repo": "stackloklabs/mkp",
+  "source_url": "https://github.com/stackloklabs/mkp",
+  "install": "# git clone --depth 1 https://github.com/stackloklabs/mkp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "egoist-claude-code",
+  "description": "Bridges Claude Code agent capabilities through a task delegation tool that accepts natural language coding descriptions, manages sessions for multi-turn interactions, and returns structured results with cost tracking for AI-assisted development workflows.",
+  "source_repo": "egoist/claude-code-mcp",
+  "source_url": "https://github.com/egoist/claude-code-mcp",
+  "install": "npx -y claude-code-mcp"
+}

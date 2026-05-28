@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-base-multi-wallet",
+  "description": "Manages multiple wallets with coordinated trading and batch operations on Base.",
+  "source_repo": "lordbasilaiassistant-sudo/base-multi-wallet-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-multi-wallet-mcp",
+  "install": "npx -y base-multi-wallet-mcp"
+}

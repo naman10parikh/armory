@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-iqms",
+  "description": "MCP server for IQMS (DELMIAworks) ERP covering manufacturing, inventory, production, and quality management.",
+  "source_repo": "wyre-technology/iqms-mcp",
+  "source_url": "https://github.com/wyre-technology/iqms-mcp",
+  "install": "npx -y iqms-mcp"
+}

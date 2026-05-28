@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vps-manager",
+  "description": "Enables LLMs to securely manage Virtual Private Servers via SSH, with features including command execution, file operations, system monitoring, and service management.",
+  "source_repo": "ARMeeru/vps-mcp",
+  "source_url": "https://github.com/ARMeeru/vps-mcp",
+  "install": "npx -y vps-mcp"
+}

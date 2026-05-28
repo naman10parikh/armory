@@ -1,0 +1,7 @@
+{
+  "name": "snipmcp-gadschain",
+  "description": "Blockchain advertising platform integrating the Gads advertising network with on-chain transaction management.",
+  "source_repo": "snipmcp/gadschain",
+  "source_url": "https://github.com/snipmcp/gadschain",
+  "install": "# git clone --depth 1 https://github.com/snipmcp/gadschain\n# See source for mcpServers config block"
+}

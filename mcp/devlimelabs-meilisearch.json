@@ -1,0 +1,7 @@
+{
+  "name": "devlimelabs-meilisearch",
+  "description": "Integrates with Meilisearch to enable advanced search operations, index and document management, and customizable search functionality with features like faceted search and custom ranking.",
+  "source_repo": "devlimelabs/meilisearch-ts-mcp",
+  "source_url": "https://github.com/devlimelabs/meilisearch-ts-mcp",
+  "install": "npx -y meilisearch-ts-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "haskell-hackage-mcp",
+  "description": "Haskell Hackage Mcp MCP server listed on mcp.so.",
+  "source_repo": "apenugon/haskell-hackage-mcp",
+  "source_url": "https://mcp.so/server/haskell-hackage-mcp/apenugon",
+  "install": "npx -y haskell-hackage-mcp"
+}

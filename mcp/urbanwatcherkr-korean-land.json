@@ -1,0 +1,7 @@
+{
+  "name": "urbanwatcherkr-korean-land",
+  "description": "Provides Korean spatial land data from the V-World API with 7 tools for geospatial queries and parcel information.",
+  "source_repo": "urbanwatcherkr/korean-land-mcp",
+  "source_url": "https://github.com/urbanwatcherkr/korean-land-mcp",
+  "install": "npx -y korean-land-mcp"
+}

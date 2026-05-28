@@ -1,0 +1,7 @@
+{
+  "name": "dbt",
+  "description": "Provides a bridge between dbt (data build tool) resources and natural language interfaces, enabling execution of CLI commands, discovery of model metadata, and querying of the Semantic Layer for data transformation management.",
+  "source_repo": "dbt-labs/dbt-mcp",
+  "source_url": "https://github.com/dbt-labs/dbt-mcp",
+  "install": "npx -y dbt-mcp"
+}

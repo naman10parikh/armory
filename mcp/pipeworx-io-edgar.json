@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-edgar",
+  "description": "SEC EDGAR public financial data including company filings and regulatory disclosures.",
+  "source_repo": "pipeworx-io/mcp-edgar",
+  "source_url": "https://github.com/pipeworx-io/mcp-edgar",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-edgar\n# See source for mcpServers config block"
+}

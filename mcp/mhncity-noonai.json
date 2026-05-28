@@ -1,0 +1,7 @@
+{
+  "name": "mhncity-noonai",
+  "description": "Image and video de-identification service for face, body, and license plate masking with async processing.",
+  "source_repo": "mhncity/noonai-dis-mcp-server",
+  "source_url": "https://github.com/mhncity/noonai-dis-mcp-server",
+  "install": "npx -y noonai-dis-mcp-server"
+}

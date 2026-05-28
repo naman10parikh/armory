@@ -1,0 +1,7 @@
+{
+  "name": "wesbos-currency-conversion",
+  "description": "Provides real-time currency conversion capabilities by fetching current exchange rates from currency APIs, enabling financial calculations, international business analysis, and travel planning workflows.",
+  "source_repo": "wesbos/currency-conversion-mcp",
+  "source_url": "https://github.com/wesbos/currency-conversion-mcp",
+  "install": "npx -y currency-conversion-mcp"
+}

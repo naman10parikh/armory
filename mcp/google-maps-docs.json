@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-docs",
+  "description": "Enhances the responses from LLMs used for developing applications with the Google Maps Platform by grounding the responses in the official, up-to-date documentation and code samples",
+  "source_repo": "",
+  "source_url": "https://developers.google.com/maps/ai/mcp",
+  "install": "# git clone --depth 1 https://developers.google.com/maps/ai/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gemini-mcp-server",
+  "description": "Gemini Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Garblesnarff/gemini-mcp-server",
+  "source_url": "https://mcp.so/server/gemini-mcp-server/Garblesnarff",
+  "install": "npx -y gemini-mcp-server"
+}

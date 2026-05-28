@@ -1,0 +1,7 @@
+{
+  "name": "crunchloop-teamtailor",
+  "description": "Enables AI to interact with the Teamtailor recruitment platform for candidate discovery, filtering, and detailed information retrieval through authenticated API access.",
+  "source_repo": "crunchloop/mcp-teamtailor",
+  "source_url": "https://github.com/crunchloop/mcp-teamtailor",
+  "install": "# git clone --depth 1 https://github.com/crunchloop/mcp-teamtailor\n# See source for mcpServers config block"
+}

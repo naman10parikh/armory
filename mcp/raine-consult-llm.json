@@ -1,0 +1,7 @@
+{
+  "name": "raine-consult-llm",
+  "description": "Escalates complex reasoning tasks to more powerful language models (OpenAI o3, Google Gemini 2.5 Pro, DeepSeek Reasoner) by forwarding markdown prompts with code context and git diffs, returning responses with detailed cost tracking.",
+  "source_repo": "raine/consult-llm",
+  "source_url": "https://github.com/raine/consult-llm",
+  "install": "# git clone --depth 1 https://github.com/raine/consult-llm\n# See source for mcpServers config block"
+}

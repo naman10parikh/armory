@@ -1,0 +1,7 @@
+{
+  "name": "aikts-yandex-tracker",
+  "description": "Integrates with Yandex Tracker for comprehensive issue management, queue operations, user management, and project data access with OAuth 2.0 authentication and Redis caching support.",
+  "source_repo": "aikts/yandex-tracker-mcp",
+  "source_url": "https://github.com/aikts/yandex-tracker-mcp",
+  "install": "npx -y yandex-tracker-mcp"
+}

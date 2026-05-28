@@ -1,0 +1,7 @@
+{
+  "name": "wire-christmas-carol",
+  "description": "Semantic search through Dickens' A Christmas Carol by meaning, theme, or character",
+  "source_repo": "",
+  "source_url": "https://usewire.io/explore/christmas-carol",
+  "install": "# git clone --depth 1 https://usewire.io/explore/christmas-carol\n# See source for mcpServers config block"
+}

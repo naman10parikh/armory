@@ -1,0 +1,7 @@
+{
+  "name": "mrafaeldie12-nano-banana-pro",
+  "description": "Integrates with Google's Gemini API to generate, edit, and analyze images with configurable aspect ratios, natural language editing instructions, and reference image support for style guidance.",
+  "source_repo": "mrafaeldie12/nano-banana-pro-mcp",
+  "source_url": "https://github.com/mrafaeldie12/nano-banana-pro-mcp",
+  "install": "npx -y nano-banana-pro-mcp"
+}

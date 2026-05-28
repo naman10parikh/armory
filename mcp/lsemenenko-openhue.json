@@ -1,0 +1,7 @@
+{
+  "name": "lsemenenko-openhue",
+  "description": "Integrates with Philips Hue smart lighting systems to enable automated control of light states, scenes, and schedules for complex home automation scenarios.",
+  "source_repo": "lsemenenko/openhue-mcp-server",
+  "source_url": "https://github.com/lsemenenko/openhue-mcp-server",
+  "install": "npx -y openhue-mcp-server"
+}

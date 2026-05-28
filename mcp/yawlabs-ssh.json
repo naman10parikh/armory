@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-ssh",
+  "description": "Manages SSH environments, diagnoses connection issues, and enables remote operations including git, deployments, and server access.",
+  "source_repo": "yawlabs/ssh-mcp",
+  "source_url": "https://github.com/yawlabs/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

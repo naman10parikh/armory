@@ -1,0 +1,7 @@
+{
+  "name": "unanet-govcon-erp-mcp-server",
+  "description": "Enables natural language interaction with Unanet GovCon ERP for project management, time tracking, financial reporting, and contact management, turning complex navigation into simple questions.",
+  "source_repo": "culstrup/unanet-mcp-server",
+  "source_url": "https://github.com/culstrup/unanet-mcp-server",
+  "install": "npx -y unanet-mcp-server"
+}

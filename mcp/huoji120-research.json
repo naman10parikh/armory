@@ -1,0 +1,7 @@
+{
+  "name": "huoji120-research",
+  "description": "Web research via DuckDuckGo search with local knowledge caching and markdown synthesis.",
+  "source_repo": "huoji120/mcp-research",
+  "source_url": "https://github.com/huoji120/mcp-research",
+  "install": "# git clone --depth 1 https://github.com/huoji120/mcp-research\n# See source for mcpServers config block"
+}

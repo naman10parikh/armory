@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 "Production-ready UI motion system for React/Next.js. Use when implementing animations, transitions, or motion patterns."

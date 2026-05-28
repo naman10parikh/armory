@@ -1,0 +1,7 @@
+{
+  "name": "theepicsaxguy-opencollective-hetzner",
+  "description": "Combines OpenCollective financial data with Hetzner and Cloudflare invoice management for automated open-source expense tracking.",
+  "source_repo": "theepicsaxguy/opencollective-hetzner-mcp",
+  "source_url": "https://github.com/theepicsaxguy/opencollective-hetzner-mcp",
+  "install": "npx -y opencollective-hetzner-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zenmemoriai-solana",
+  "description": "Provides a bridge between personal memory storage and Solana blockchain for storing, validating, and retrieving memory blocks with emotional context and tags, enabling trusted verification and persistence.",
+  "source_repo": "zenmemoryai/zenmemory-mcp-sol",
+  "source_url": "https://github.com/zenmemoryai/zenmemory-mcp-sol",
+  "install": "# git clone --depth 1 https://github.com/zenmemoryai/zenmemory-mcp-sol\n# See source for mcpServers config block"
+}

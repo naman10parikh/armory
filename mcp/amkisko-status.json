@@ -1,0 +1,7 @@
+{
+  "name": "amkisko-status",
+  "description": "Provides access to over 1,700 status page links with fuzzy search, detailed service information retrieval, and intelligent status page fetching that handles JavaScript-rendered pages, RSS feeds, and various formats for monitoring service health and incident tracking.",
+  "source_repo": "amkisko/status_mcp.rb",
+  "source_url": "https://github.com/amkisko/status_mcp.rb",
+  "install": "# git clone --depth 1 https://github.com/amkisko/status_mcp.rb\n# See source for mcpServers config block"
+}

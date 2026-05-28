@@ -1,0 +1,7 @@
+{
+  "name": "ramonbedin-game-deck",
+  "description": "Control Unity Editor from AI agents with 268 tools for scene manipulation, GameObjects, prefabs, scripts, and build management.",
+  "source_repo": "ramonbedin/mcp-game-deck",
+  "source_url": "https://github.com/ramonbedin/mcp-game-deck",
+  "install": "# git clone --depth 1 https://github.com/ramonbedin/mcp-game-deck\n# See source for mcpServers config block"
+}

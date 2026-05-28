@@ -1,0 +1,7 @@
+{
+  "name": "amber",
+  "description": "Persistent long-term memory service for AI assistants with semantic search and encrypted private storage.",
+  "source_repo": "lowentry/lowentry-mcp-memory",
+  "source_url": "https://github.com/lowentry/lowentry-mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/lowentry/lowentry-mcp-memory\n# See source for mcpServers config block"
+}

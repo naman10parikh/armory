@@ -1,0 +1,7 @@
+{
+  "name": "directory",
+  "description": "Directory rating websites on AI-agent-friendliness with search, lookup, and submission tools.",
+  "source_repo": "unlikefraction/silicon-friendly",
+  "source_url": "https://github.com/unlikefraction/silicon-friendly",
+  "install": "# git clone --depth 1 https://github.com/unlikefraction/silicon-friendly\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crawlconsole",
+  "description": "SEO backlink analysis for AI agents: authority scoring, referring domains, and competitor link gap discovery.",
+  "source_repo": "",
+  "source_url": "https://mcp.crawlconsole.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.crawlconsole.com/mcp\n# See source for mcpServers config block"
+}

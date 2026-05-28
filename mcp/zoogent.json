@@ -1,0 +1,7 @@
+{
+  "name": "zoogent",
+  "description": "AI agent orchestrator with built-in Architect AI — create and manage teams of autonomous agents with five communication channels, cost tracking, and a web dashboard.",
+  "source_repo": "bepunk/zoogent",
+  "source_url": "https://github.com/bepunk/zoogent",
+  "install": "# git clone --depth 1 https://github.com/bepunk/zoogent\n# See source for mcpServers config block"
+}

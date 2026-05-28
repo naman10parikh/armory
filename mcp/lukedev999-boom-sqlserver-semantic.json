@@ -1,0 +1,7 @@
+{
+  "name": "lukedev999-boom-sqlserver-semantic",
+  "description": "Semantic intelligence layer for SQL Server with 29 tools for schema discovery, FK join-path analysis, and policy-gated query execution.",
+  "source_repo": "lukestacklab/sqlserver-semantic-mcp",
+  "source_url": "https://github.com/lukestacklab/sqlserver-semantic-mcp",
+  "install": "npx -y sqlserver-semantic-mcp"
+}

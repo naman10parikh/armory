@@ -1,0 +1,7 @@
+{
+  "name": "sherweb-mcp",
+  "description": "MCP server for Sherweb Partner API - distributor billing, service provider management, customer subscriptions, and payable charges",
+  "source_repo": "wyre-technology/sherweb-mcp",
+  "source_url": "https://github.com/wyre-technology/sherweb-mcp",
+  "install": "npx -y sherweb-mcp"
+}

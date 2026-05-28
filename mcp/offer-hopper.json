@@ -1,0 +1,7 @@
+{
+  "name": "offer-hopper",
+  "description": "German grocery deal parser and multi-stop route optimizer across REWE, Aldi, DM, Rossmann, and more.",
+  "source_repo": "",
+  "source_url": "https://offerhopper.ai",
+  "install": "# git clone --depth 1 https://offerhopper.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-crossref",
+  "description": "Searches and retrieves scholarly publication metadata, DOI records, citation counts, and funding information via the Crossref API.",
+  "source_repo": "cyanheads/crossref-mcp-server",
+  "source_url": "https://github.com/cyanheads/crossref-mcp-server",
+  "install": "npx -y crossref-mcp-server"
+}

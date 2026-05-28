@@ -1,0 +1,7 @@
+{
+  "name": "mcp-waifu",
+  "description": "Mcp Waifu MCP server listed on mcp.so.",
+  "source_repo": "zhoukuncheng/mcp-waifu",
+  "source_url": "https://mcp.so/server/mcp-waifu/zhoukuncheng",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-waifu/zhoukuncheng\n# See source for mcpServers config block"
+}

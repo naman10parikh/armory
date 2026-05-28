@@ -1,0 +1,7 @@
+{
+  "name": "lvsedeqinglvse-godot-rag",
+  "description": "Processes Godot game engine documentation by converting RST files to Markdown, chunking text, generating embeddings, and enabling semantic search for intelligent documentation queries through natural language instead of manual searching.",
+  "source_repo": "lvsedeqinglvse/-fastmcp-godot-rag-",
+  "source_url": "https://github.com/lvsedeqinglvse/-fastmcp-godot-rag-",
+  "install": "# git clone --depth 1 https://github.com/lvsedeqinglvse/-fastmcp-godot-rag-\n# See source for mcpServers config block"
+}

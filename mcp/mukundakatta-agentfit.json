@@ -1,0 +1,7 @@
+{
+  "name": "mukundakatta-agentfit",
+  "description": "Token-aware message truncation and token counting across multiple AI model families.",
+  "source_repo": "mukundakatta/agentfit-mcp",
+  "source_url": "https://github.com/mukundakatta/agentfit-mcp",
+  "install": "npx -y agentfit-mcp"
+}

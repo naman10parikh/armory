@@ -1,0 +1,7 @@
+{
+  "name": "markifact",
+  "description": "Marketing artifact creation service with AI-powered campaign and content generation tools.",
+  "source_repo": "markifact/markifact-mcp",
+  "source_url": "https://github.com/markifact/markifact-mcp",
+  "install": "npx -y markifact-mcp"
+}

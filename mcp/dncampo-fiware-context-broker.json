@@ -1,0 +1,7 @@
+{
+  "name": "dncampo-fiware-context-broker",
+  "description": "Bridges AI assistants with FIWARE Context Brokers, enabling natural language interaction with IoT data for querying, publishing, and updating information in NGSI-LD format.",
+  "source_repo": "dncampo/fiware-mcp-server",
+  "source_url": "https://github.com/dncampo/fiware-mcp-server",
+  "install": "npx -y fiware-mcp-server"
+}

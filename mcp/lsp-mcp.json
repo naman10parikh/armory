@@ -1,0 +1,7 @@
+{
+  "name": "lsp-mcp",
+  "description": "Minimal MCP server bridging a Roslyn C# language server to AI agents, exposing tools for diagnostics, call hierarchy, and type hierarchy.",
+  "source_repo": "morrow-addref/LSP-MCP",
+  "source_url": "https://github.com/morrow-addref/LSP-MCP",
+  "install": "npx -y LSP-MCP"
+}

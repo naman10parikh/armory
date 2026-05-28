@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-qiskit",
+  "description": "Exposes Qiskit quantum computing capabilities including circuit creation, analysis, visualization, and execution.",
+  "source_repo": "daedalus/mcp-qiskit",
+  "source_url": "https://github.com/daedalus/mcp-qiskit",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-qiskit\n# See source for mcpServers config block"
+}

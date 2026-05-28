@@ -1,0 +1,7 @@
+{
+  "name": "st3v3nmw-sourcerer",
+  "description": "Indexes codebases using Tree-sitter parsing and vector embeddings to enable semantic code search through natural language queries and source code retrieval with real-time file watching and persistent storage.",
+  "source_repo": "st3v3nmw/sourcerer-mcp",
+  "source_url": "https://github.com/st3v3nmw/sourcerer-mcp",
+  "install": "npx -y sourcerer-mcp"
+}

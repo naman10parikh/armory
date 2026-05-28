@@ -1,0 +1,7 @@
+{
+  "name": "yggdrasil-mcp",
+  "description": "A reasoning orchestration MCP server that enables tree-of-thoughts thinking, multi-phase planning, and multi-agent evaluation for complex problem-solving.",
+  "source_repo": "henrychong-ai/yggdrasil-mcp",
+  "source_url": "https://github.com/henrychong-ai/yggdrasil-mcp",
+  "install": "npx -y yggdrasil-mcp"
+}

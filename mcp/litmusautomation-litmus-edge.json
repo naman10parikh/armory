@@ -1,0 +1,7 @@
+{
+  "name": "litmusautomation-litmus-edge",
+  "description": "Integrates with Litmus Edge for industrial IoT device configuration, monitoring, and management, enabling real-time tag value retrieval, Docker container management, DeviceHub device creation across various protocols, NATS topic subscription for data streaming, and system property configuration for industrial automation workflows.",
+  "source_repo": "litmusautomation/litmus-mcp-server",
+  "source_url": "https://github.com/litmusautomation/litmus-mcp-server",
+  "install": "npx -y litmus-mcp-server"
+}

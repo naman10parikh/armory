@@ -1,0 +1,7 @@
+{
+  "name": "xavimf87-govern-catalunya",
+  "description": "Public transparency and corruption detection tool for Catalan, Barcelona, and Spanish government open data sources.",
+  "source_repo": "xavimf87/mcp-govern",
+  "source_url": "https://github.com/xavimf87/mcp-govern",
+  "install": "# git clone --depth 1 https://github.com/xavimf87/mcp-govern\n# See source for mcpServers config block"
+}

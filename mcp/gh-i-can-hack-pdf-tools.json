@@ -1,0 +1,7 @@
+{
+  "name": "gh-i-can-hack-pdf-tools",
+  "description": "Reads, renders, and searches PDF files using PyMuPDF.",
+  "source_repo": "i-can-hack/pdf-mcp",
+  "source_url": "https://github.com/i-can-hack/pdf-mcp",
+  "install": "npx -y pdf-mcp"
+}

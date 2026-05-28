@@ -1,0 +1,7 @@
+{
+  "name": "ypollak2-llm-router",
+  "description": "Subscription-aware LLM router for Claude Code. Routes tasks to 20+ providers (OpenAI, Gemini, Groq, Ollama, Codex) based on complexity classification, Claude subscription pressure, and cost. Free tasks stay on Claude subscription; expensive tasks fall back to the cheapest capable model. Includes 30 MCP tools, 6 auto-routing hooks, semantic dedup cache, prompt caching, daily spend cap, and a live web dashboard.",
+  "source_repo": "ypollak2/llm-router",
+  "source_url": "https://github.com/ypollak2/llm-router",
+  "install": "# git clone --depth 1 https://github.com/ypollak2/llm-router\n# See source for mcpServers config block"
+}

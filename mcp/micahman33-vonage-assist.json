@@ -1,0 +1,7 @@
+{
+  "name": "micahman33-vonage-assist",
+  "description": "Integrates with Vonage APIs to provide targeted documentation search and retrieval for developers implementing communication features like SMS, voice, verification, and video.",
+  "source_repo": "micahman33/vonageaicodeassist",
+  "source_url": "https://github.com/micahman33/vonageaicodeassist",
+  "install": "# git clone --depth 1 https://github.com/micahman33/vonageaicodeassist\n# See source for mcpServers config block"
+}

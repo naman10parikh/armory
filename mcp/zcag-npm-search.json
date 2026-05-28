@@ -1,0 +1,7 @@
+{
+  "name": "zcag-npm-search",
+  "description": "Searches npm packages and returns live registry data including versions, downloads, and comparisons.",
+  "source_repo": "zcag/npm-search-mcp",
+  "source_url": "https://github.com/zcag/npm-search-mcp",
+  "install": "npx -y npm-search-mcp"
+}

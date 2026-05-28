@@ -1,0 +1,7 @@
+{
+  "name": "trevorflipper-near-solana-blockchain",
+  "description": "Multi-chain blockchain data endpoints for NEAR, Solana, and Base networks.",
+  "source_repo": "",
+  "source_url": "https://ironflip.duckdns.org",
+  "install": "# git clone --depth 1 https://ironflip.duckdns.org\n# See source for mcpServers config block"
+}

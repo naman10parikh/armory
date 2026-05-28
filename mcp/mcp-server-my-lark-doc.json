@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-my-lark-doc",
+  "description": "Mcp_server_my_lark_doc MCP server listed on mcp.so.",
+  "source_repo": "T0UGH/mcp_server_my_lark_doc",
+  "source_url": "https://mcp.so/server/mcp_server_my_lark_doc/T0UGH",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_my_lark_doc/T0UGH\n# See source for mcpServers config block"
+}

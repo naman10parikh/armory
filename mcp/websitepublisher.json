@@ -1,0 +1,7 @@
+{
+  "name": "websitepublisher",
+  "description": "Build and publish websites through AI conversation.",
+  "source_repo": "megberts/mcp-websitepublisher-ai",
+  "source_url": "https://github.com/megberts/mcp-websitepublisher-ai",
+  "install": "# git clone --depth 1 https://github.com/megberts/mcp-websitepublisher-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-mysql-connector",
+  "description": "Exposes MySQL database functionality as callable tools via the mysql-connector-python library.",
+  "source_repo": "daedalus/mcp-mysql-connector",
+  "source_url": "https://github.com/daedalus/mcp-mysql-connector",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-mysql-connector\n# See source for mcpServers config block"
+}

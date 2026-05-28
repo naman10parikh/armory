@@ -1,0 +1,7 @@
+{
+  "name": "waggle",
+  "description": "Discover, search, invoke, and rate A2A protocol agents through Waggle's agent marketplace.",
+  "source_repo": "waggle-ai/waggle-claude-code-plugin",
+  "source_url": "https://github.com/waggle-ai/waggle-claude-code-plugin",
+  "install": "# git clone --depth 1 https://github.com/waggle-ai/waggle-claude-code-plugin\n# See source for mcpServers config block"
+}

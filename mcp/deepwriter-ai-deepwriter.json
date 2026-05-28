@@ -1,0 +1,7 @@
+{
+  "name": "deepwriter-ai-deepwriter",
+  "description": "Integrates with DeepWriter API to enable managing writing projects through six core tools for listing, creating, updating, deleting, retrieving details, and generating content.",
+  "source_repo": "deepwriter-ai/deepwriter-mcp",
+  "source_url": "https://github.com/deepwriter-ai/deepwriter-mcp",
+  "install": "npx -y deepwriter-mcp"
+}

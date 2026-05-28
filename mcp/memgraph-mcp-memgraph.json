@@ -1,0 +1,7 @@
+{
+  "name": "memgraph-mcp-memgraph",
+  "description": "Memgraph MCP Server - includes a tool to run a query against Memgraph and a schema resource.",
+  "source_repo": "memgraph/ai-toolkit",
+  "source_url": "https://github.com/memgraph/ai-toolkit/tree/main/integrations/mcp-memgraph",
+  "install": "# git clone --depth 1 https://github.com/memgraph/ai-toolkit/tree/main/integrations/mcp-memgraph\n# See source for mcpServers config block"
+}

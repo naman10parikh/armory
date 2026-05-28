@@ -1,0 +1,7 @@
+{
+  "name": "jkf87-hwp",
+  "description": "Enables direct creation, editing, and formatting of Korean documents in Hangul Word Processor (HWP) format through Python or Node.js interfaces that control the HWP COM interface.",
+  "source_repo": "jkf87/hwp-mcp",
+  "source_url": "https://github.com/jkf87/hwp-mcp",
+  "install": "npx -y hwp-mcp"
+}

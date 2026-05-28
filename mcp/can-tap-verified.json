@@ -1,0 +1,7 @@
+{
+  "name": "can-tap-verified",
+  "description": "Canadian business directory MCP server for finding free dofollow backlink opportunities, claiming listings, and tracking NFC tap analytics.",
+  "source_repo": "morphious33453/can-tap-verified-mcp",
+  "source_url": "https://github.com/morphious33453/can-tap-verified-mcp",
+  "install": "npx -y can-tap-verified-mcp"
+}

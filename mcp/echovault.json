@@ -1,0 +1,7 @@
+{
+  "name": "echovault",
+  "description": "Go port of EchoVault providing local-first persistent memory for coding agents with cross-session context retention.",
+  "source_repo": "go-ports/echovault",
+  "source_url": "https://github.com/go-ports/echovault",
+  "install": "# git clone --depth 1 https://github.com/go-ports/echovault\n# See source for mcpServers config block"
+}

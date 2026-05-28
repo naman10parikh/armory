@@ -1,0 +1,7 @@
+{
+  "name": "averra-extract",
+  "description": "URL-to-Markdown conversion API for AI pipelines — clean, structured Markdown with metadata and caching.",
+  "source_repo": "swwyymm/averra-extract-mcp",
+  "source_url": "https://github.com/swwyymm/averra-extract-mcp",
+  "install": "npx -y averra-extract-mcp"
+}

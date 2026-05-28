@@ -1,0 +1,7 @@
+{
+  "name": "mattcretzman-tripleseat",
+  "description": "Connects to the Tripleseat CRM for real-time event management, lead tracking, booking queries, and venue operations.",
+  "source_repo": "mattcretzman/tripleseat-mcp",
+  "source_url": "https://github.com/mattcretzman/tripleseat-mcp",
+  "install": "npx -y tripleseat-mcp"
+}

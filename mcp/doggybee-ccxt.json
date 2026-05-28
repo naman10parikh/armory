@@ -1,0 +1,7 @@
+{
+  "name": "doggybee-ccxt",
+  "description": "High-performance CCXT MCP server for cryptocurrency exchange integration.",
+  "source_repo": "doggybee/mcp-server-ccxt",
+  "source_url": "https://github.com/doggybee/mcp-server-ccxt",
+  "install": "# git clone --depth 1 https://github.com/doggybee/mcp-server-ccxt\n# See source for mcpServers config block"
+}

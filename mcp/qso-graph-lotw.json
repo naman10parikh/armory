@@ -1,0 +1,7 @@
+{
+  "name": "qso-graph-lotw",
+  "description": "Query ARRL LoTW confirmations, uploaded QSOs, DXCC credits, and user activity.",
+  "source_repo": "qso-graph/lotw-mcp",
+  "source_url": "https://github.com/qso-graph/lotw-mcp",
+  "install": "npx -y lotw-mcp"
+}

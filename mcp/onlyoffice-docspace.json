@@ -1,0 +1,7 @@
+{
+  "name": "onlyoffice-docspace",
+  "description": "Manage documents, rooms, and users in ONLYOFFICE collaborative workspace",
+  "source_repo": "onlyoffice/docspace-mcp",
+  "source_url": "https://github.com/onlyoffice/docspace-mcp",
+  "install": "npx -y docspace-mcp"
+}

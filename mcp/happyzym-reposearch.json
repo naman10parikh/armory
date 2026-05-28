@@ -1,0 +1,7 @@
+{
+  "name": "happyzym-reposearch",
+  "description": "Provides efficient file search functionality within repositories, respecting ignore patterns and offering configurable text content matching for development tools and applications.",
+  "source_repo": "astricaelus/mcp-server-reposearch",
+  "source_url": "https://github.com/astricaelus/mcp-server-reposearch",
+  "install": "# git clone --depth 1 https://github.com/astricaelus/mcp-server-reposearch\n# See source for mcpServers config block"
+}

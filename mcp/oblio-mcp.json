@@ -1,0 +1,7 @@
+{
+  "name": "oblio-mcp",
+  "description": "Unofficial MCP server for Oblio.eu accounting software enabling natural language interaction to create invoices, manage documents, collect payments, query nomenclatures, and submit e-Factura to Romania's SPV system.",
+  "source_repo": "valentinludu/oblio-mcp",
+  "source_url": "https://github.com/valentinludu/oblio-mcp",
+  "install": "npx -y oblio-mcp"
+}

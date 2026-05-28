@@ -1,0 +1,7 @@
+{
+  "name": "lyw405-garen",
+  "description": "Transforms natural language descriptions into production-ready React components through XML-based artifact parsing with support for multiple AI providers including Anthropic Claude, OpenAI GPT, DeepSeek, and Ollama.",
+  "source_repo": "lyw405/mcp-garendesign",
+  "source_url": "https://github.com/lyw405/mcp-garendesign",
+  "install": "# git clone --depth 1 https://github.com/lyw405/mcp-garendesign\n# See source for mcpServers config block"
+}

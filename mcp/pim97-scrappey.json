@@ -1,0 +1,7 @@
+{
+  "name": "pim97-scrappey",
+  "description": "Bridges AI models with Scrappey's web automation platform, enabling browser session management, HTTP requests, and complex browser actions while automatically handling anti-bot protections and enhancing web content with CSS selectors for interactive elements.",
+  "source_repo": "pim97/mcp-server-scrappey",
+  "source_url": "https://github.com/pim97/mcp-server-scrappey",
+  "install": "# git clone --depth 1 https://github.com/pim97/mcp-server-scrappey\n# See source for mcpServers config block"
+}

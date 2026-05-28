@@ -1,0 +1,7 @@
+{
+  "name": "rock913-mongodb",
+  "description": "Integrates with MongoDB databases to enable direct querying, inserting, updating, and managing data collections without leaving the conversation interface.",
+  "source_repo": "rock913/mongo-mcp",
+  "source_url": "https://github.com/rock913/mongo-mcp",
+  "install": "npx -y mongo-mcp"
+}

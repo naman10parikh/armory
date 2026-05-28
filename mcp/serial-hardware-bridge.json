@@ -1,0 +1,7 @@
+{
+  "name": "serial-hardware-bridge",
+  "description": "Bridges LLMs with physical hardware through serial communication, enabling real-world interaction via configurable commands for IoT projects and hardware control applications.",
+  "source_repo": "mcp2everything/mcp2tcp",
+  "source_url": "https://github.com/mcp2everything/mcp2tcp",
+  "install": "# git clone --depth 1 https://github.com/mcp2everything/mcp2tcp\n# See source for mcpServers config block"
+}

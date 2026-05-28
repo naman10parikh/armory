@@ -1,0 +1,7 @@
+{
+  "name": "tendayspace-cbeta-buddhist-texts",
+  "description": "Provides access to Chinese Buddhist Electronic Text Association (CBETA) resources for text retrieval, metadata access, and content analysis of Buddhist texts through catalog browsing, search functionality, and work manipulation tools.",
+  "source_repo": "tendayspace/cbetamcp",
+  "source_url": "https://github.com/tendayspace/cbetamcp",
+  "install": "# git clone --depth 1 https://github.com/tendayspace/cbetamcp\n# See source for mcpServers config block"
+}

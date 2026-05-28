@@ -1,0 +1,7 @@
+{
+  "name": "onetrueclaude-knowledge-gaps",
+  "description": "MCP server for identifying concepts mentioned but not explained in markdown knowledge bases like Obsidian and Logseq vaults.",
+  "source_repo": "onetrueclaude-creator/mcp-knowledge-gaps",
+  "source_url": "https://github.com/onetrueclaude-creator/mcp-knowledge-gaps",
+  "install": "# git clone --depth 1 https://github.com/onetrueclaude-creator/mcp-knowledge-gaps\n# See source for mcpServers config block"
+}

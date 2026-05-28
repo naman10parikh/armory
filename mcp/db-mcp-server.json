@@ -1,0 +1,7 @@
+{
+  "name": "db-mcp-server",
+  "description": "Db Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "FreePeak/db-mcp-server",
+  "source_url": "https://mcp.so/server/db-mcp-server/FreePeak",
+  "install": "npx -y db-mcp-server"
+}

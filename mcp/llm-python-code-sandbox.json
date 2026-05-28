@@ -1,0 +1,7 @@
+{
+  "name": "llm-python-code-sandbox",
+  "description": "Enables LLMs to execute Python code in isolated sandboxes with file operations and MCP integration, supporting multi-round execution and plot capture.",
+  "source_repo": "DSXiangLi/simple_sandbox",
+  "source_url": "https://github.com/DSXiangLi/simple_sandbox",
+  "install": "# git clone --depth 1 https://github.com/DSXiangLi/simple_sandbox\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qq418716640-botbell-mcp",
+  "description": "Send push notifications to iPhone, iPad, and Mac from AI assistants. Two-way messaging — users reply in the BotBell app, AI reads and continues. Supports action buttons, Markdown, and multi-bot management via PAT.",
+  "source_repo": "qq418716640/botbell-mcp",
+  "source_url": "https://github.com/qq418716640/botbell-mcp",
+  "install": "npx -y botbell-mcp"
+}

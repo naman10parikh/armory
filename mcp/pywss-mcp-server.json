@@ -1,0 +1,7 @@
+{
+  "name": "pywss-mcp-server",
+  "description": "A lightweight Python web framework that enables building MCP servers with SSE, StreamHTTP, and MCPO protocols for tool integration.",
+  "source_repo": "czasg/pywss",
+  "source_url": "https://github.com/czasg/pywss",
+  "install": "# git clone --depth 1 https://github.com/czasg/pywss\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "joeblockchain-jina-ai",
+  "description": "Integrates with Jina AI's web services to enable web content extraction, search, and fact-checking through natural language interactions.",
+  "source_repo": "joebuildsstuff/mcp-jina-ai",
+  "source_url": "https://github.com/joebuildsstuff/mcp-jina-ai",
+  "install": "# git clone --depth 1 https://github.com/joebuildsstuff/mcp-jina-ai\n# See source for mcpServers config block"
+}

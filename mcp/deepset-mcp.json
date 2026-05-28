@@ -1,0 +1,7 @@
+{
+  "name": "deepset-mcp",
+  "description": "Enables AI agents to build and debug pipelines on the Haystack Enterprise AI platform through 30+ specialized tools, and provides a Python SDK for programmatic access.",
+  "source_repo": "deepset-ai/deepset-mcp-server",
+  "source_url": "https://github.com/deepset-ai/deepset-mcp-server",
+  "install": "npx -y deepset-mcp-server"
+}

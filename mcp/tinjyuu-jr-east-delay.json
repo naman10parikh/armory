@@ -1,0 +1,7 @@
+{
+  "name": "tinjyuu-jr-east-delay",
+  "description": "Provides real-time train delay information for JR East lines by scraping the official website and extracting structured status data for travelers and commuters.",
+  "source_repo": "tinjyuu/mcp-jr-east-delay",
+  "source_url": "https://github.com/tinjyuu/mcp-jr-east-delay",
+  "install": "# git clone --depth 1 https://github.com/tinjyuu/mcp-jr-east-delay\n# See source for mcpServers config block"
+}

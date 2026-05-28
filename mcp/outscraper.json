@@ -1,0 +1,7 @@
+{
+  "name": "outscraper",
+  "description": "Official Outscraper MCP server for Google Maps business data, reviews, email validation, and web extraction.",
+  "source_repo": "outscraper/outscraper-mcp-server",
+  "source_url": "https://github.com/outscraper/outscraper-mcp-server",
+  "install": "npx -y outscraper-mcp-server"
+}

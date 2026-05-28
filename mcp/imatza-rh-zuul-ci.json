@@ -1,0 +1,7 @@
+{
+  "name": "imatza-rh-zuul-ci",
+  "description": "Zuul CI build failure analysis, log search, pipeline status monitoring, and job configuration inspection.",
+  "source_repo": "imatza-rh/mcp-zuul",
+  "source_url": "https://github.com/imatza-rh/mcp-zuul",
+  "install": "# git clone --depth 1 https://github.com/imatza-rh/mcp-zuul\n# See source for mcpServers config block"
+}

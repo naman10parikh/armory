@@ -1,0 +1,7 @@
+{
+  "name": "whistlegraph-aesthetic-computer",
+  "description": "Publish JavaScript, KidLisp art, and clock melodies on aesthetic.computer.",
+  "source_repo": "whistlegraph/aesthetic-computer",
+  "source_url": "https://github.com/whistlegraph/aesthetic-computer/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/whistlegraph/aesthetic-computer/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

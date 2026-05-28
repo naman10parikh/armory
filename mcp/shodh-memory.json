@@ -1,0 +1,7 @@
+{
+  "name": "shodh-memory",
+  "description": "Persistent AI memory with semantic search and Hebbian learning",
+  "source_repo": "varun29ankus/shodh-memory",
+  "source_url": "https://github.com/varun29ankus/shodh-memory/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/varun29ankus/shodh-memory/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

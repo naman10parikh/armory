@@ -1,0 +1,7 @@
+{
+  "name": "paarths-collab-github-pr-context",
+  "description": "GitHub PR history indexing for context-aware code review with multi-LLM support.",
+  "source_repo": "paarths-collab/github-pr-context-mcp",
+  "source_url": "https://github.com/paarths-collab/github-pr-context-mcp",
+  "install": "npx -y github-pr-context-mcp"
+}

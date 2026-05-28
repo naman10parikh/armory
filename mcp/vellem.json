@@ -1,0 +1,7 @@
+{
+  "name": "vellem",
+  "description": "Native macOS notes app with a bundled MCP server providing 14 tools for AI agents to persist notes, todos, and logs locally.",
+  "source_repo": "pulssart/vellem",
+  "source_url": "https://github.com/pulssart/vellem",
+  "install": "# git clone --depth 1 https://github.com/pulssart/vellem\n# See source for mcpServers config block"
+}

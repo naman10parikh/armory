@@ -1,0 +1,7 @@
+{
+  "name": "infranodus",
+  "description": "Find content gaps, get an overview, and build ontology of any text or public discourse for research, SEO, and content creation",
+  "source_repo": "infranodus/mcp-server-infranodus",
+  "source_url": "https://github.com/infranodus/mcp-server-infranodus",
+  "install": "# git clone --depth 1 https://github.com/infranodus/mcp-server-infranodus\n# See source for mcpServers config block"
+}

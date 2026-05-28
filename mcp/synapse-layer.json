@@ -1,0 +1,7 @@
+{
+  "name": "synapse-layer",
+  "description": "Zero-knowledge memory layer for AI agents with differential privacy and AES-256 encryption.",
+  "source_repo": "synapselayer/synapse-layer",
+  "source_url": "https://github.com/synapselayer/synapse-layer",
+  "install": "# git clone --depth 1 https://github.com/synapselayer/synapse-layer\n# See source for mcpServers config block"
+}

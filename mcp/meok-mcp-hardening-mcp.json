@@ -1,0 +1,7 @@
+{
+  "name": "meok-mcp-hardening-mcp",
+  "description": "Automated security red-team for any MCP server that scans manifests against OWASP LLM Top 10 and MCP-specific risks, returning a 0-100 hardening score and HMAC-signed report.",
+  "source_repo": "CSOAI-ORG/meok-mcp-hardening-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/meok-mcp-hardening-mcp",
+  "install": "npx -y meok-mcp-hardening-mcp"
+}

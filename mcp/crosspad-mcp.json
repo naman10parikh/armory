@@ -1,0 +1,7 @@
+{
+  "name": "crosspad-mcp",
+  "description": "Development workflow server for CrossPad, enabling AI assistants to build, test, run, and navigate the project.",
+  "source_repo": "crosspad/crosspad-mcp",
+  "source_url": "https://github.com/crosspad/crosspad-mcp",
+  "install": "npx -y crosspad-mcp"
+}

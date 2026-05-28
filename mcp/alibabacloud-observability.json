@@ -1,0 +1,7 @@
+{
+  "name": "alibabacloud-observability",
+  "description": "Integrates with Alibaba Cloud's monitoring and logging services, enabling log structure queries, log searches, application monitoring, and trace data analysis for troubleshooting cloud applications",
+  "source_repo": "aliyun/alibabacloud-observability-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-observability-mcp-server",
+  "install": "npx -y alibabacloud-observability-mcp-server"
+}

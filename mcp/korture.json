@@ -1,0 +1,7 @@
+{
+  "name": "korture",
+  "description": "Analyze job descriptions with Korture's behavioral hiring platform to identify key role behaviors, assign demand levels, and generate interview questions via OAuth-authenticated MCP.",
+  "source_repo": "skprasad-korture/korture-mcp",
+  "source_url": "https://github.com/skprasad-korture/korture-mcp",
+  "install": "npx -y korture-mcp"
+}

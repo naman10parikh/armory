@@ -1,0 +1,7 @@
+{
+  "name": "vetclinic-info",
+  "description": "Veterinary clinic directory enabling AI agents to search for vets by location, specialization, and availability.",
+  "source_repo": "",
+  "source_url": "https://vetclinic.info",
+  "install": "# git clone --depth 1 https://vetclinic.info\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "threatflux-yaraflux",
+  "description": "Provides YARA-based malware scanning capabilities with support for local and MinIO storage backends, enabling security professionals to manage rules, scan files/URLs, and analyze results for threat detection.",
+  "source_repo": "threatflux/yaraflux",
+  "source_url": "https://github.com/threatflux/yaraflux",
+  "install": "# git clone --depth 1 https://github.com/threatflux/yaraflux\n# See source for mcpServers config block"
+}

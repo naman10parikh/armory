@@ -1,0 +1,7 @@
+{
+  "name": "mshegolev-allure-testops",
+  "description": "Read-only access to Allure TestOps projects, launches, test cases, and test results via the Allure REST API.",
+  "source_repo": "mshegolev/allure-testops-mcp",
+  "source_url": "https://github.com/mshegolev/allure-testops-mcp",
+  "install": "npx -y allure-testops-mcp"
+}

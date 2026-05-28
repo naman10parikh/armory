@@ -1,0 +1,7 @@
+{
+  "name": "arnavsurve-gateway",
+  "description": "Connects AI assistants to multiple specialized services through a unified gateway, enabling dynamic tool discovery and seamless interaction across various MCP servers and HTTP APIs without leaving the conversation context.",
+  "source_repo": "arnavsurve/gateway-mcp",
+  "source_url": "https://github.com/arnavsurve/gateway-mcp",
+  "install": "npx -y gateway-mcp"
+}

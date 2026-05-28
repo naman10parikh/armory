@@ -1,0 +1,7 @@
+{
+  "name": "therealmrfunguy-open-meteo-weather",
+  "description": "Weather forecasts, current conditions, and location search via Open-Meteo.",
+  "source_repo": "",
+  "source_url": "https://weather.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://weather.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

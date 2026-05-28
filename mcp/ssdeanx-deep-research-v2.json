@@ -1,0 +1,7 @@
+{
+  "name": "ssdeanx-deep-research-v2",
+  "description": "Integrates search engines, web scraping, and Gemini models to perform iterative, deep research on any topic, generating insights and detailed reports with source citations.",
+  "source_repo": "ssdeanx/deep-research-mcp-server",
+  "source_url": "https://github.com/ssdeanx/deep-research-mcp-server",
+  "install": "npx -y deep-research-mcp-server"
+}

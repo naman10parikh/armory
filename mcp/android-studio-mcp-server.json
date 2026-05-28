@@ -1,0 +1,7 @@
+{
+  "name": "android-studio-mcp-server",
+  "description": "Android Studio Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "muxi1998/android-studio-mcp-server",
+  "source_url": "https://mcp.so/server/android-studio-mcp-server/muxi1998",
+  "install": "npx -y android-studio-mcp-server"
+}

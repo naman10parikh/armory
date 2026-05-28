@@ -1,0 +1,7 @@
+{
+  "name": "davidorex-git-forensics",
+  "description": "Provides deep git repository analysis tools for branch overview, time period examination, and merge recommendations to optimize development workflows.",
+  "source_repo": "davidorex/git-forensics-mcp",
+  "source_url": "https://github.com/davidorex/git-forensics-mcp",
+  "install": "npx -y git-forensics-mcp"
+}

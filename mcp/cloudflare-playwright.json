@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-playwright",
+  "description": "Enables browser automation through structured accessibility snapshots for web navigation, form-filling, element interaction, and data extraction without requiring vision models.",
+  "source_repo": "cloudflare/playwright-mcp",
+  "source_url": "https://github.com/cloudflare/playwright-mcp",
+  "install": "npx -y playwright-mcp"
+}

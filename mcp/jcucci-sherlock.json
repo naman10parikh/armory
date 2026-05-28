@@ -1,0 +1,7 @@
+{
+  "name": "jcucci-sherlock",
+  "description": ".NET assembly introspection and reflection analysis",
+  "source_repo": "jcucci/dotnet-sherlock-mcp",
+  "source_url": "https://github.com/jcucci/dotnet-sherlock-mcp",
+  "install": "npx -y dotnet-sherlock-mcp"
+}

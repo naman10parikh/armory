@@ -1,0 +1,7 @@
+{
+  "name": "webcal-mcp",
+  "description": "A read-only MCP server that exposes iCalendar feeds as queryable tools for LLM agents, enabling calendar event retrieval and filtering.",
+  "source_repo": "mnot/webcal-mcp",
+  "source_url": "https://github.com/mnot/webcal-mcp",
+  "install": "npx -y webcal-mcp"
+}

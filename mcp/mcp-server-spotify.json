@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-spotify",
+  "description": "MCP_Server_Spotify MCP server listed on mcp.so.",
+  "source_repo": "Hashim9184/MCP_Server_Spotify",
+  "source_url": "https://mcp.so/server/MCP_Server_Spotify/Hashim9184",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP_Server_Spotify/Hashim9184\n# See source for mcpServers config block"
+}

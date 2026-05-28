@@ -1,0 +1,7 @@
+{
+  "name": "arcane-mcp-server",
+  "description": "Manage your entire Docker infrastructure through natural language with 180 tools.",
+  "source_repo": "RandomSynergy17/Arcane-MCP-Server",
+  "source_url": "https://github.com/RandomSynergy17/Arcane-MCP-Server",
+  "install": "npx -y Arcane-MCP-Server"
+}

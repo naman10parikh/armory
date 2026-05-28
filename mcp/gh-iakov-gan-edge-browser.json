@@ -1,0 +1,7 @@
+{
+  "name": "gh-iakov-gan-edge-browser",
+  "description": "Automate Microsoft Edge browser via Selenium.",
+  "source_repo": "iakov-gan/mcp-server-edge",
+  "source_url": "https://github.com/iakov-gan/mcp-server-edge",
+  "install": "# git clone --depth 1 https://github.com/iakov-gan/mcp-server-edge\n# See source for mcpServers config block"
+}

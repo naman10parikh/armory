@@ -1,0 +1,7 @@
+{
+  "name": "biboyqg-wechat",
+  "description": "Integrates with WeChat on macOS through accessibility APIs to enable automated message reading, sending, and contact management for customer service workflows and chat monitoring.",
+  "source_repo": "biboyqg/wechat-mcp",
+  "source_url": "https://github.com/biboyqg/wechat-mcp",
+  "install": "npx -y wechat-mcp"
+}

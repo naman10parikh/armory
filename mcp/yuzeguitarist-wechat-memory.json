@@ -1,0 +1,7 @@
+{
+  "name": "yuzeguitarist-wechat-memory",
+  "description": "Searches and analyzes WeChat chat history from iPhone backups for AI assistants.",
+  "source_repo": "yuzeguitarist/wx_mcp",
+  "source_url": "https://github.com/yuzeguitarist/wx_mcp",
+  "install": "npx -y wx_mcp"
+}

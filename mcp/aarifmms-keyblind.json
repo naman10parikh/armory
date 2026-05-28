@@ -1,0 +1,7 @@
+{
+  "name": "aarifmms-keyblind",
+  "description": "Encrypted secrets vault that blinds AI agents to API keys. Stores secrets in AES-256-GCM encrypted SQLite vault, resolves them at runtime via MCP values never appear in LLM conversation transcripts. Sandbox .env files with deterministic fakes.",
+  "source_repo": "aarifmms/keyblind",
+  "source_url": "https://github.com/aarifmms/keyblind",
+  "install": "# git clone --depth 1 https://github.com/aarifmms/keyblind\n# See source for mcpServers config block"
+}

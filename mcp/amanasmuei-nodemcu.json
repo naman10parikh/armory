@@ -1,0 +1,7 @@
+{
+  "name": "amanasmuei-nodemcu",
+  "description": "Enables remote management and monitoring of ESP8266-based IoT devices through WebSocket connections and REST API endpoints for smart home automation, environmental monitoring, and device fleet management.",
+  "source_repo": "amanasmuei/mcp-server-nodemcu",
+  "source_url": "https://github.com/amanasmuei/mcp-server-nodemcu",
+  "install": "# git clone --depth 1 https://github.com/amanasmuei/mcp-server-nodemcu\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mpc-0x",
+  "description": "Mpc 0x MCP server listed on mcp.so.",
+  "source_repo": "doronaviguy/mpc-0x",
+  "source_url": "https://mcp.so/server/mpc-0x/doronaviguy",
+  "install": "# git clone --depth 1 https://mcp.so/server/mpc-0x/doronaviguy\n# See source for mcpServers config block"
+}

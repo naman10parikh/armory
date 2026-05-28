@@ -1,0 +1,7 @@
+{
+  "name": "jinchenggao-infty-ccx",
+  "description": "Bridges Claude Code with external AI tools through three specialized servers for Gemini CLI integration, SMTP email notifications, and OpenAI Codex CLI session management.",
+  "source_repo": "jinchenggao-infty/ccx-claude-context-exchange",
+  "source_url": "https://github.com/jinchenggao-infty/ccx-claude-context-exchange",
+  "install": "# git clone --depth 1 https://github.com/jinchenggao-infty/ccx-claude-context-exchange\n# See source for mcpServers config block"
+}

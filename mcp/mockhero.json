@@ -1,0 +1,7 @@
+{
+  "name": "mockhero",
+  "description": "Generates realistic synthetic test data with relational integrity, 156 field types, auto-locale detection, and multiple output formats.",
+  "source_repo": "dinosaur24/mockhero",
+  "source_url": "https://github.com/dinosaur24/mockhero/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/dinosaur24/mockhero/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

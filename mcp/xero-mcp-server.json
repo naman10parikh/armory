@@ -1,0 +1,7 @@
+{
+  "name": "xero-mcp-server",
+  "description": "Xero Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "XeroAPI/xero-mcp-server",
+  "source_url": "https://mcp.so/server/xero-mcp-server/XeroAPI",
+  "install": "npx -y xero-mcp-server"
+}

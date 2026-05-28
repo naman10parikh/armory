@@ -1,0 +1,7 @@
+{
+  "name": "sayouzone-mcp-opendart",
+  "description": "Access Korean corporate disclosure data from the DART electronic filing system.",
+  "source_repo": "sayouzone/mcp-opendart-server",
+  "source_url": "https://github.com/sayouzone/mcp-opendart-server",
+  "install": "# git clone --depth 1 https://github.com/sayouzone/mcp-opendart-server\n# See source for mcpServers config block"
+}

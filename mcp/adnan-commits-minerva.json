@@ -1,0 +1,7 @@
+{
+  "name": "adnan-commits-minerva",
+  "description": "AI-powered research engine that searches the web, processes PDFs, and synthesizes structured reports via MCP.",
+  "source_repo": "adnan-commits/minerva-portfolio",
+  "source_url": "https://github.com/adnan-commits/minerva-portfolio",
+  "install": "# git clone --depth 1 https://github.com/adnan-commits/minerva-portfolio\n# See source for mcpServers config block"
+}

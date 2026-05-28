@@ -1,0 +1,7 @@
+{
+  "name": "paillat-dev-topgg",
+  "description": "Manage Discord bot and server listings on Top.gg through 9 tools covering listing operations via the Top.gg v1 API.",
+  "source_repo": "paillat-dev/topgg-mcp",
+  "source_url": "https://github.com/paillat-dev/topgg-mcp",
+  "install": "npx -y topgg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alyiox-mssql",
+  "description": "Read-only Microsoft SQL Server integration with metadata discovery, parameterized queries, and execution plans.",
+  "source_repo": "alyiox/mcp-mssql",
+  "source_url": "https://github.com/alyiox/mcp-mssql/tree/HEAD/src/Alyio.McpMssql",
+  "install": "# git clone --depth 1 https://github.com/alyiox/mcp-mssql/tree/HEAD/src/Alyio.McpMssql\n# See source for mcpServers config block"
+}

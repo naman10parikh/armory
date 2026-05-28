@@ -1,0 +1,7 @@
+{
+  "name": "pazuzu1w-ubuntu-system-control",
+  "description": "Provides secure Ubuntu system control with safe file operations, command execution, and system information gathering through configurable security policies, path traversal prevention, command filtering, and comprehensive audit logging.",
+  "source_repo": "pazuzu1w/ubuntu_mcp_server",
+  "source_url": "https://github.com/pazuzu1w/ubuntu_mcp_server",
+  "install": "npx -y ubuntu_mcp_server"
+}

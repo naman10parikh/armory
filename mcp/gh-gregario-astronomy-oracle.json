@@ -1,0 +1,7 @@
+{
+  "name": "gh-gregario-astronomy-oracle",
+  "description": "Celestial object catalog and observing session planner.",
+  "source_repo": "gregario/astronomy-oracle",
+  "source_url": "https://github.com/gregario/astronomy-oracle",
+  "install": "# git clone --depth 1 https://github.com/gregario/astronomy-oracle\n# See source for mcpServers config block"
+}

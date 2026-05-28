@@ -1,0 +1,7 @@
+{
+  "name": "blockbenny-tubemcp",
+  "description": "Searches YouTube videos and fetches transcripts with local SQLite caching.",
+  "source_repo": "blockbenny/tubemcp",
+  "source_url": "https://github.com/blockbenny/tubemcp",
+  "install": "# git clone --depth 1 https://github.com/blockbenny/tubemcp\n# See source for mcpServers config block"
+}

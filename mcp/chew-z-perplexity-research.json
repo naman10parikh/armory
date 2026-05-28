@@ -1,0 +1,7 @@
+{
+  "name": "chew-z-perplexity-research",
+  "description": "Enables internet research capabilities through Perplexity AI's API, retrieving up-to-date information with source citations while maintaining conversation context.",
+  "source_repo": "chew-z/researchmcp",
+  "source_url": "https://github.com/chew-z/researchmcp",
+  "install": "# git clone --depth 1 https://github.com/chew-z/researchmcp\n# See source for mcpServers config block"
+}

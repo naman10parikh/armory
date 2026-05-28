@@ -1,0 +1,7 @@
+{
+  "name": "ashachaf-carbon-defi",
+  "description": "Creates and manages on-chain maker trading strategies on Carbon DeFi across Ethereum, Sei, Celo, and TAC networks.",
+  "source_repo": "ashachaf/carbon-mcp-server",
+  "source_url": "https://github.com/ashachaf/carbon-mcp-server",
+  "install": "npx -y carbon-mcp-server"
+}

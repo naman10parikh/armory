@@ -1,0 +1,7 @@
+{
+  "name": "louvre-mcp",
+  "description": "Louvre Mcp MCP server listed on mcp.so.",
+  "source_repo": "oliviermichel/louvre-mcp",
+  "source_url": "https://mcp.so/server/louvre-mcp/oliviermichel",
+  "install": "npx -y louvre-mcp"
+}

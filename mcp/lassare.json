@@ -1,0 +1,7 @@
+{
+  "name": "lassare",
+  "description": "Human-in-the-loop for AI coding agents via Slack approvals.",
+  "source_repo": "lassare-hq/agent-configs",
+  "source_url": "https://github.com/lassare-hq/agent-configs",
+  "install": "# git clone --depth 1 https://github.com/lassare-hq/agent-configs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thatsrajan-vidlens",
+  "description": "YouTube as a queryable database for AI agents — search, transcripts, metadata, and visual descriptions.",
+  "source_repo": "thatsrajan/vidlens-mcp",
+  "source_url": "https://github.com/thatsrajan/vidlens-mcp",
+  "install": "npx -y vidlens-mcp"
+}

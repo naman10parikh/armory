@@ -1,0 +1,7 @@
+{
+  "name": "pwndbg-mcp",
+  "description": "An MCP tool that enables AI agents to debug ELF binaries, particularly for CTF pwn challenges.",
+  "source_repo": "RocketMaDev/pwndbg-mcp",
+  "source_url": "https://github.com/RocketMaDev/pwndbg-mcp",
+  "install": "npx -y pwndbg-mcp"
+}

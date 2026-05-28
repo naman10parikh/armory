@@ -1,0 +1,7 @@
+{
+  "name": "povedaaqui-suzieq",
+  "description": "Interact with a SuzieQ network observability instance via its REST API.",
+  "source_repo": "povedaaqui/suzieq-mcp",
+  "source_url": "https://github.com/povedaaqui/suzieq-mcp",
+  "install": "npx -y suzieq-mcp"
+}

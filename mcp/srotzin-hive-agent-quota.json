@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-agent-quota",
+  "description": "Per-agent quota metering for A2A networks with real USDC settlement on Base L2.",
+  "source_repo": "srotzin/hive-mcp-agent-quota",
+  "source_url": "https://github.com/srotzin/hive-mcp-agent-quota",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-agent-quota\n# See source for mcpServers config block"
+}

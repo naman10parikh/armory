@@ -1,0 +1,7 @@
+{
+  "name": "actual-outcomes-doit",
+  "description": "Work planner and issue tracker for AI agents with CLI and hierarchical task management.",
+  "source_repo": "actual-outcomes/doit",
+  "source_url": "https://github.com/actual-outcomes/doit",
+  "install": "# git clone --depth 1 https://github.com/actual-outcomes/doit\n# See source for mcpServers config block"
+}

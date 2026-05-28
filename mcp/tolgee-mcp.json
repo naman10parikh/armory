@@ -1,0 +1,7 @@
+{
+  "name": "tolgee-mcp",
+  "description": "An MCP server that wraps the Tolgee localization platform API, enabling LLMs to manage translation projects, keys, translations, languages, and related workflows.",
+  "source_repo": "ytarfa/tolgee-mcp",
+  "source_url": "https://github.com/ytarfa/tolgee-mcp",
+  "install": "npx -y tolgee-mcp"
+}

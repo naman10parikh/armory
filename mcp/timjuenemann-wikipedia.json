@@ -1,0 +1,7 @@
+{
+  "name": "timjuenemann-wikipedia",
+  "description": "Provides a structured interface for searching and retrieving Wikipedia articles in clean Markdown format, enabling access to up-to-date encyclopedia information without hallucinating facts.",
+  "source_repo": "timjuenemann/wikipedia-mcp",
+  "source_url": "https://github.com/timjuenemann/wikipedia-mcp",
+  "install": "npx -y wikipedia-mcp"
+}

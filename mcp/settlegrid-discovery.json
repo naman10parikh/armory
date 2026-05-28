@@ -1,0 +1,7 @@
+{
+  "name": "settlegrid-discovery",
+  "description": "settlegrid-discovery",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/settlegrid/settlegrid-discovery",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/settlegrid/settlegrid-discovery\n# See source for mcpServers config block"
+}

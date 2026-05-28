@@ -1,0 +1,7 @@
+{
+  "name": "gotohuman",
+  "description": "Enables AI agents to request human reviews through the gotoHuman platform, creating asynchronous workflows for content approval and critical action validation with webhook-based responses.",
+  "source_repo": "gotohuman/gotohuman-mcp-server",
+  "source_url": "https://github.com/gotohuman/gotohuman-mcp-server",
+  "install": "npx -y gotohuman-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "the-basilisk-ai-squad",
+  "description": "Integrates with Squad's product management platform to enable feedback management, knowledge organization, and workspace operations for product teams streamlining their workflows.",
+  "source_repo": "the-basilisk-ai/squad-mcp",
+  "source_url": "https://github.com/the-basilisk-ai/squad-mcp",
+  "install": "npx -y squad-mcp"
+}

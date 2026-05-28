@@ -1,0 +1,7 @@
+{
+  "name": "aboglioli-orchy",
+  "description": "Provides multi-agent coordination infrastructure with 71 tools for shared task management, knowledge bases, real-time messaging, resource locking, and graph relationships via Streamable HTTP.",
+  "source_repo": "aboglioli/orchy",
+  "source_url": "https://github.com/aboglioli/orchy",
+  "install": "# git clone --depth 1 https://github.com/aboglioli/orchy\n# See source for mcpServers config block"
+}

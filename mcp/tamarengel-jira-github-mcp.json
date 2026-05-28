@@ -1,0 +1,7 @@
+{
+  "name": "tamarengel-jira-github-mcp",
+  "description": "MCP server that integrates Jira and GitHub to automate end-to-end developer workflows, from issue tracking to branches, commits, pull requests, and merges inside the IDE.",
+  "source_repo": "TamarEngel/jira-github-mcp",
+  "source_url": "https://github.com/TamarEngel/jira-github-mcp",
+  "install": "npx -y jira-github-mcp"
+}

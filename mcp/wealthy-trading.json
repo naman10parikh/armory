@@ -1,0 +1,7 @@
+{
+  "name": "wealthy-trading",
+  "description": "Integrates with the Wealthy trading platform to enable real-time financial operations including price queries, order placement, portfolio management, and trade idea retrieval for traders analyzing their investments",
+  "source_repo": "wealthy/wealthy-mcp",
+  "source_url": "https://github.com/wealthy/wealthy-mcp",
+  "install": "npx -y wealthy-mcp"
+}

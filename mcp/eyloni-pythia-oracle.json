@@ -1,0 +1,7 @@
+{
+  "name": "eyloni-pythia-oracle",
+  "description": "Creative problem-solving oracle that returns lateral-thinking readings via streamable HTTP with x402 micropayment support.",
+  "source_repo": "eyloni/pythia-oracle",
+  "source_url": "https://github.com/eyloni/pythia-oracle",
+  "install": "# git clone --depth 1 https://github.com/eyloni/pythia-oracle\n# See source for mcpServers config block"
+}

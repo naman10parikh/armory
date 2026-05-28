@@ -1,0 +1,7 @@
+{
+  "name": "demcp-meson-crosschain",
+  "description": "Enables secure cross-chain cryptocurrency transfers between Ethereum, Arbitrum, Avalanche, and other blockchains using the Meson Protocol, with local private key processing for enhanced security.",
+  "source_repo": "demcp/demcp-meson-mcp",
+  "source_url": "https://github.com/demcp/demcp-meson-mcp",
+  "install": "npx -y demcp-meson-mcp"
+}

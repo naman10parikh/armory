@@ -1,0 +1,7 @@
+{
+  "name": "newrelic",
+  "description": "Access observability data including metrics, logs, traces, and entities",
+  "source_repo": "",
+  "source_url": "https://newrelic.com/blog/news/new-relic-ai-mcp-server-launch",
+  "install": "# git clone --depth 1 https://newrelic.com/blog/news/new-relic-ai-mcp-server-launch\n# See source for mcpServers config block"
+}

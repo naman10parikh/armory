@@ -1,0 +1,7 @@
+{
+  "name": "heyoncall",
+  "description": "Sends phone notifications through HeyOnCall's hosted paging service to alert users when long-running tasks are completed or assistance is needed.",
+  "source_repo": "",
+  "source_url": "https://heyoncall.com/blog/mcp-server-for-paging-a-human",
+  "install": "# git clone --depth 1 https://heyoncall.com/blog/mcp-server-for-paging-a-human\n# See source for mcpServers config block"
+}

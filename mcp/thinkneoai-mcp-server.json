@@ -1,0 +1,7 @@
+{
+  "name": "thinkneoai-mcp-server",
+  "description": "ThinkNEO Control Plane — Enterprise AI governance MCP server with runtime guardrails, observability, AI FinOps, and agent lifecycle control.",
+  "source_repo": "ThinkneoAI/mcp-server",
+  "source_url": "https://github.com/ThinkneoAI/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ThinkneoAI/mcp-server\n# See source for mcpServers config block"
+}

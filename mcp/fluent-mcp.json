@@ -1,0 +1,7 @@
+{
+  "name": "fluent-mcp",
+  "description": "Fluent_mcp MCP server listed on mcp.so.",
+  "source_repo": "FluentData/fluent_mcp",
+  "source_url": "https://mcp.so/server/fluent_mcp/FluentData",
+  "install": "npx -y fluent_mcp"
+}

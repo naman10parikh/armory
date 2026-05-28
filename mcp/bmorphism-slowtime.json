@@ -1,0 +1,7 @@
+{
+  "name": "bmorphism-slowtime",
+  "description": "Integrates drand and tlock-js to enable secure, time-locked encryption for managing scheduled events with cryptographic guarantees.",
+  "source_repo": "bmorphism/slowtime-mcp-server",
+  "source_url": "https://github.com/bmorphism/slowtime-mcp-server",
+  "install": "npx -y slowtime-mcp-server"
+}

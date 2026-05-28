@@ -1,0 +1,7 @@
+{
+  "name": "qianjue-cn-random-org",
+  "description": "Integrates with Random.org's API to generate cryptographically secure random data using atmospheric noise for applications requiring true randomness like cryptographic key generation, statistical sampling, and security testing.",
+  "source_repo": "qianjue-cn/truerandommcp",
+  "source_url": "https://github.com/qianjue-cn/truerandommcp",
+  "install": "# git clone --depth 1 https://github.com/qianjue-cn/truerandommcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "axiom-oracle",
+  "description": "Solana-native attestation infrastructure and real-world asset data for AI agents via Axiom Stack.",
+  "source_repo": "axiom-stack-llc/oracle-mcp-server",
+  "source_url": "https://github.com/axiom-stack-llc/oracle-mcp-server",
+  "install": "npx -y oracle-mcp-server"
+}

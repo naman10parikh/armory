@@ -1,0 +1,7 @@
+{
+  "name": "geralt1983-clickup-better",
+  "description": "Integrates with ClickUp's task management platform to provide comprehensive workspace operations including task CRUD with bulk support, workspace hierarchy management, tag operations with natural language color commands, file attachments with chunked upload, task dependencies with circular dependency prevention, time tracking, and custom field management",
+  "source_repo": "geralt1983/clickup-mcp-server-better",
+  "source_url": "https://github.com/geralt1983/clickup-mcp-server-better",
+  "install": "# git clone --depth 1 https://github.com/geralt1983/clickup-mcp-server-better\n# See source for mcpServers config block"
+}

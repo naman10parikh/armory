@@ -1,0 +1,7 @@
+{
+  "name": "tylerstoltz-odbc",
+  "description": "Enables secure, read-only access to any ODBC-compatible database through tools for listing connections, testing connectivity, retrieving schemas, and executing SQL queries for data analysis and business intelligence.",
+  "source_repo": "tylerstoltz/mcp-odbc",
+  "source_url": "https://github.com/tylerstoltz/mcp-odbc",
+  "install": "# git clone --depth 1 https://github.com/tylerstoltz/mcp-odbc\n# See source for mcpServers config block"
+}

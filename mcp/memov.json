@@ -1,0 +1,7 @@
+{
+  "name": "memov",
+  "description": "Provides a memory layer for AI coding agents with Git-powered version control, enabling automatic tracking of prompts, context, and code diffs.",
+  "source_repo": "memovai/memov",
+  "source_url": "https://github.com/memovai/memov",
+  "install": "# git clone --depth 1 https://github.com/memovai/memov\n# See source for mcpServers config block"
+}

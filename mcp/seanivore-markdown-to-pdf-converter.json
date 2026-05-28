@@ -1,0 +1,7 @@
+{
+  "name": "seanivore-markdown-to-pdf-converter",
+  "description": "Converts Markdown to styled PDFs, enabling creation of visually appealing documents with code highlighting and typography.",
+  "source_repo": "seanivore/convert-markdown-pdf-mcp",
+  "source_url": "https://github.com/seanivore/convert-markdown-pdf-mcp",
+  "install": "npx -y convert-markdown-pdf-mcp"
+}

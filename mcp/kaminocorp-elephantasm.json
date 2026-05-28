@@ -1,0 +1,7 @@
+{
+  "name": "kaminocorp-elephantasm",
+  "description": "Long-term agentic memory framework providing persistent memory, searchable knowledge, and evolving identity for agents.",
+  "source_repo": "kaminocorp/elephantasm-mcp",
+  "source_url": "https://github.com/kaminocorp/elephantasm-mcp",
+  "install": "npx -y elephantasm-mcp"
+}

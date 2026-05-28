@@ -1,0 +1,7 @@
+{
+  "name": "statecli",
+  "description": "State replay and self-debugging layer for AI agents with tracking, replay, undo, and checkpoint capabilities.",
+  "source_repo": "statecli/mcp-server",
+  "source_url": "https://github.com/statecli/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/statecli/mcp-server\n# See source for mcpServers config block"
+}

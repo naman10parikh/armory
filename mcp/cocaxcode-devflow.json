@@ -1,0 +1,7 @@
+{
+  "name": "cocaxcode-devflow",
+  "description": "Jira and GitHub/GitLab workflow automation with 32 tools.",
+  "source_repo": "cocaxcode/devflow-mcp",
+  "source_url": "https://github.com/cocaxcode/devflow-mcp",
+  "install": "npx -y devflow-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "graphiti-mcp-demo",
+  "description": "Enables AI agents to build real-time knowledge graphs using Zep's Graphiti memory, persisting context in Neo4j.",
+  "source_repo": "Kartikk-26/Graphiti-MCP-Demo",
+  "source_url": "https://github.com/Kartikk-26/Graphiti-MCP-Demo",
+  "install": "# git clone --depth 1 https://github.com/Kartikk-26/Graphiti-MCP-Demo\n# See source for mcpServers config block"
+}

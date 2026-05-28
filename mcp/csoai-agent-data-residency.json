@@ -1,0 +1,7 @@
+{
+  "name": "csoai-agent-data-residency",
+  "description": "GDPR Chapter V data residency runtime guard for AI agents that enforces transfer-basis rules programmatically.",
+  "source_repo": "csoai-org/agent-data-residency-mcp",
+  "source_url": "https://github.com/csoai-org/agent-data-residency-mcp",
+  "install": "npx -y agent-data-residency-mcp"
+}

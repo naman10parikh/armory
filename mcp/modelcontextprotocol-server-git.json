@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-server-git",
+  "description": "Direct Git repository operations including reading, searching, and analyzing local repositories",
+  "source_repo": "modelcontextprotocol/servers-archived",
+  "source_url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/git",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers-archived/tree/main/src/git\n# See source for mcpServers config block"
+}

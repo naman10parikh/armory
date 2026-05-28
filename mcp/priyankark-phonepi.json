@@ -1,0 +1,7 @@
+{
+  "name": "priyankark-phonepi",
+  "description": "Control your phone (SMS, calls, contacts) from your favorite AI apps.",
+  "source_repo": "priyankark/phonepi-mcp",
+  "source_url": "https://github.com/priyankark/phonepi-mcp/tree/HEAD/server",
+  "install": "npx -y phonepi-mcp"
+}

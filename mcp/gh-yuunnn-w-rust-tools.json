@@ -1,0 +1,7 @@
+{
+  "name": "gh-yuunnn-w-rust-tools",
+  "description": "High-performance MCP server with WebUI, 18 built-in tools, and security controls.",
+  "source_repo": "yuunnn-w/rust-mcp-server",
+  "source_url": "https://github.com/yuunnn-w/rust-mcp-server",
+  "install": "npx -y rust-mcp-server"
+}

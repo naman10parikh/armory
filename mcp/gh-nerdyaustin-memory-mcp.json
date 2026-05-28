@@ -1,0 +1,7 @@
+{
+  "name": "gh-nerdyaustin-memory-mcp",
+  "description": "Persistent memory and conversation search across multiple AI coding assistants.",
+  "source_repo": "nerdyaustin/memory_mcp",
+  "source_url": "https://github.com/nerdyaustin/memory_mcp",
+  "install": "npx -y memory_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "luminati-io-brightdata-mcp",
+  "description": "Discover, extract, and interact with the web - one interface powering automated access across the public internet.",
+  "source_repo": "luminati-io/brightdata-mcp",
+  "source_url": "https://github.com/luminati-io/brightdata-mcp",
+  "install": "npx -y brightdata-mcp"
+}

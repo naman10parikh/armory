@@ -1,0 +1,7 @@
+{
+  "name": "bluegamma",
+  "description": "Provides live interest rate data, swap pricing, FX forwards, and bond yields.",
+  "source_repo": "",
+  "source_url": "https://www.bluegamma.io/documentation/integrations/index",
+  "install": "# git clone --depth 1 https://www.bluegamma.io/documentation/integrations/index\n# See source for mcpServers config block"
+}

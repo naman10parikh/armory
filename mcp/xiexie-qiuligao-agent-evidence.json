@@ -1,0 +1,7 @@
+{
+  "name": "xiexie-qiuligao-agent-evidence",
+  "description": "Document AI agent workflows with screenshots, screen recordings, and reviewable evidence trails.",
+  "source_repo": "xiexie-qiuligao/agent-evidence-mcp",
+  "source_url": "https://github.com/xiexie-qiuligao/agent-evidence-mcp",
+  "install": "npx -y agent-evidence-mcp"
+}

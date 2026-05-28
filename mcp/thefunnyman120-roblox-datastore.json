@@ -1,0 +1,7 @@
+{
+  "name": "thefunnyman120-roblox-datastore",
+  "description": "Provides AI agents direct access to Roblox game datastores via the Open Cloud API v2 with 18 tools.",
+  "source_repo": "thefunnyman120/roblox-datastore-mcp",
+  "source_url": "https://github.com/thefunnyman120/roblox-datastore-mcp",
+  "install": "npx -y roblox-datastore-mcp"
+}

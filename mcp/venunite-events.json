@@ -1,0 +1,7 @@
+{
+  "name": "venunite-events",
+  "description": "Live events discovery data for concerts, comedy, theater, and festivals across the US via the VenuNite API.",
+  "source_repo": "",
+  "source_url": "https://venunite.com/developers/data-api",
+  "install": "# git clone --depth 1 https://venunite.com/developers/data-api\n# See source for mcpServers config block"
+}

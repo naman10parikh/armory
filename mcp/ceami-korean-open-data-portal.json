@@ -1,0 +1,7 @@
+{
+  "name": "ceami-korean-open-data-portal",
+  "description": "Integrates with Korean Open Data Portal APIs through a three-step workflow that searches for APIs by keywords, retrieves detailed documentation, and executes calls with automatic service key injection for accessing government datasets and building data analysis applications.",
+  "source_repo": "aeriis-kr/opendata-mcp",
+  "source_url": "https://github.com/aeriis-kr/opendata-mcp",
+  "install": "npx -y opendata-mcp"
+}

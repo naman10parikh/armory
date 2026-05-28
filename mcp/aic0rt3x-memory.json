@@ -1,0 +1,7 @@
+{
+  "name": "aic0rt3x-memory",
+  "description": "Persistent cloud memory for AI agents with key-value storage and search across sessions.",
+  "source_repo": "",
+  "source_url": "https://aic0rt3x.dev",
+  "install": "# git clone --depth 1 https://aic0rt3x.dev\n# See source for mcpServers config block"
+}

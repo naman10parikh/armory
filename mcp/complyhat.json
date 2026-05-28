@@ -1,0 +1,7 @@
+{
+  "name": "complyhat",
+  "description": "AI compliance documentation covering EU AI Act, SR 11-7, NAIC, and 6 more regulatory frameworks.",
+  "source_repo": "",
+  "source_url": "https://complyhat.ai",
+  "install": "# git clone --depth 1 https://complyhat.ai\n# See source for mcpServers config block"
+}

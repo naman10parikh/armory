@@ -1,0 +1,7 @@
+{
+  "name": "softchris-backoffice-ai",
+  "description": "Generates product descriptions from titles and keywords using a locally hosted Ollama language model via an Express API.",
+  "source_repo": "softchris/backoffice-ai-mcp",
+  "source_url": "https://github.com/softchris/backoffice-ai-mcp",
+  "install": "npx -y backoffice-ai-mcp"
+}

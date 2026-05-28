@@ -1,0 +1,7 @@
+{
+  "name": "promptot",
+  "description": "Prompt management platform for composing, versioning, and delivering LLM prompts via API and MCP.",
+  "source_repo": "appdevexpert/prompt-ot",
+  "source_url": "https://github.com/appdevexpert/prompt-ot/tree/HEAD/apps/mcp",
+  "install": "# git clone --depth 1 https://github.com/appdevexpert/prompt-ot/tree/HEAD/apps/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "promptexecution-cratedocs-mcp",
+  "description": "Outputs short-form Rust crate derived traits,interfaces, etc. from AST (uses same api as rust-analyzer), output limits (token estimation) & crate docs w/regex stripping.",
+  "source_repo": "promptexecution/cratedocs-mcp",
+  "source_url": "https://github.com/promptexecution/cratedocs-mcp",
+  "install": "npx -y cratedocs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "katalon-testops",
+  "description": "Manage test cases, suites, requirements, sprints, and releases in Katalon TestOps",
+  "source_repo": "",
+  "source_url": "https://katalon.com/testops",
+  "install": "# git clone --depth 1 https://katalon.com/testops\n# See source for mcpServers config block"
+}

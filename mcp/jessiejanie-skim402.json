@@ -1,0 +1,7 @@
+{
+  "name": "jessiejanie-skim402",
+  "description": "MCP server that fetches and cleans web pages into Markdown for AI agents, with micropayment pricing via x402 on Base.",
+  "source_repo": "jessiejanie/skim402",
+  "source_url": "https://github.com/jessiejanie/skim402",
+  "install": "# git clone --depth 1 https://github.com/jessiejanie/skim402\n# See source for mcpServers config block"
+}

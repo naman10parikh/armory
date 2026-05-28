@@ -1,0 +1,7 @@
+{
+  "name": "neuraldraft",
+  "description": "Neural Draft backend integration for AI-generated sites — CMS, blogging, bookings, and commerce in one MCP server.",
+  "source_repo": "vbalagovic/neuraldraft-mcp",
+  "source_url": "https://github.com/vbalagovic/neuraldraft-mcp",
+  "install": "npx -y neuraldraft-mcp"
+}

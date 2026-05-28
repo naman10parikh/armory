@@ -1,0 +1,7 @@
+{
+  "name": "conversation-handoff-mcp",
+  "description": "Hand off conversation context between Claude Desktop projects and across MCP clients. Memory-based, no file clutter.",
+  "source_repo": "trust-delta/conversation-handoff-mcp",
+  "source_url": "https://github.com/trust-delta/conversation-handoff-mcp",
+  "install": "npx -y conversation-handoff-mcp"
+}

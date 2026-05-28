@@ -1,0 +1,7 @@
+{
+  "name": "reza-gholizade-k8s-mcp-server",
+  "description": "/🏠 - A Kubernetes Model Context Protocol (MCP) server that provides tools for interacting with Kubernetes clusters through a standardized interface, including API resource discovery, resource management, pod logs, metrics, and events.",
+  "source_repo": "reza-gholizade/k8s-mcp-server",
+  "source_url": "https://github.com/reza-gholizade/k8s-mcp-server",
+  "install": "npx -y k8s-mcp-server"
+}

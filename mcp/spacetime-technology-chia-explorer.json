@@ -1,0 +1,7 @@
+{
+  "name": "spacetime-technology-chia-explorer",
+  "description": "Provides read-only access to Chia blockchain data including address balances, smart coins, offers, mempool status, and market prices via public APIs.",
+  "source_repo": "spacetime-technology/chia-explorer",
+  "source_url": "https://github.com/spacetime-technology/chia-explorer",
+  "install": "# git clone --depth 1 https://github.com/spacetime-technology/chia-explorer\n# See source for mcpServers config block"
+}

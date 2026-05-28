@@ -1,0 +1,7 @@
+{
+  "name": "esjavadex-ree-spain-electricity",
+  "description": "Integrates with Spain's electricity system through REE API to provide real-time and historical electricity data including demand, generation by source, prices, and emissions with over 1,900 indicators and flexible time granularities for energy analysis and forecasting.",
+  "source_repo": "esjavadex/ree-mcp",
+  "source_url": "https://github.com/esjavadex/ree-mcp",
+  "install": "npx -y ree-mcp"
+}

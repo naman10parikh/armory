@@ -1,0 +1,7 @@
+{
+  "name": "office-powerpoint-mcp",
+  "description": "Enables AI assistants to programmatically create, manipulate, and analyze Microsoft PowerPoint presentations with advanced formatting and template management.",
+  "source_repo": "ihatesea69/office-powerpoint-mcp-server",
+  "source_url": "https://github.com/ihatesea69/office-powerpoint-mcp-server",
+  "install": "npx -y office-powerpoint-mcp-server"
+}

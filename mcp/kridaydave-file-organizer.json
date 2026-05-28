@@ -1,0 +1,7 @@
+{
+  "name": "kridaydave-file-organizer",
+  "description": "Security-hardened file organizer with smart categorization, duplicate detection, and rollback support.",
+  "source_repo": "kridaydave/file-organizer-mcp",
+  "source_url": "https://github.com/kridaydave/file-organizer-mcp",
+  "install": "npx -y file-organizer-mcp"
+}

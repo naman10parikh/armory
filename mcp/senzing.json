@@ -1,0 +1,7 @@
+{
+  "name": "senzing",
+  "description": "Entity resolution tools for data mapping, SDK code generation, documentation search, and error troubleshooting.",
+  "source_repo": "",
+  "source_url": "https://senzing.com",
+  "install": "# git clone --depth 1 https://senzing.com\n# See source for mcpServers config block"
+}

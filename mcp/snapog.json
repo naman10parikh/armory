@@ -1,0 +1,7 @@
+{
+  "name": "snapog",
+  "description": "OG image generation service that creates social preview cards for any URL using real browser rendering.",
+  "source_repo": "",
+  "source_url": "https://snapog.com",
+  "install": "# git clone --depth 1 https://snapog.com\n# See source for mcpServers config block"
+}

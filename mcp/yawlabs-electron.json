@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-electron",
+  "description": "Development intelligence for Electron.js apps covering IPC scaffolding, security auditing, build tooling, and version migration guidance.",
+  "source_repo": "yawlabs/electron-mcp",
+  "source_url": "https://github.com/yawlabs/electron-mcp",
+  "install": "npx -y electron-mcp"
+}

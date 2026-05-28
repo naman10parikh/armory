@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-wikimedia-commons",
+  "description": "Search and retrieve media files from Wikimedia Commons, the free multimedia repository for images, audio, and video.",
+  "source_repo": "pipeworx-io/mcp-commons-wikimedia",
+  "source_url": "https://github.com/pipeworx-io/mcp-commons-wikimedia",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-commons-wikimedia\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vincario-vehicle-data",
+  "description": "Vehicle data for AI: VIN decoding, automotive specs, stolen checks, and valuations.",
+  "source_repo": "vincario/mcp-vincario",
+  "source_url": "https://github.com/vincario/mcp-vincario",
+  "install": "# git clone --depth 1 https://github.com/vincario/mcp-vincario\n# See source for mcpServers config block"
+}

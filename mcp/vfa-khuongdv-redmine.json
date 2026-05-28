@@ -1,0 +1,7 @@
+{
+  "name": "vfa-khuongdv-redmine",
+  "description": "Integrates with Redmine project management systems for ticket, project, and time tracking operations.",
+  "source_repo": "vfa-khuongdv/mcp_readmine",
+  "source_url": "https://github.com/vfa-khuongdv/mcp_readmine",
+  "install": "# git clone --depth 1 https://github.com/vfa-khuongdv/mcp_readmine\n# See source for mcpServers config block"
+}

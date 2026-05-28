@@ -1,0 +1,7 @@
+{
+  "name": "better-qdrant-mcp-server",
+  "description": "Better Qdrant Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "wrediam/better-qdrant-mcp-server",
+  "source_url": "https://mcp.so/server/better-qdrant-mcp-server/wrediam",
+  "install": "npx -y better-qdrant-mcp-server"
+}

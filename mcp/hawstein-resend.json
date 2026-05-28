@@ -1,0 +1,7 @@
+{
+  "name": "hawstein-resend",
+  "description": "Enables AI to compose and send emails through the Resend API with customizable sender addresses, reply-to fields, and scheduled delivery options",
+  "source_repo": "hawstein/resend-mcp",
+  "source_url": "https://github.com/hawstein/resend-mcp",
+  "install": "npx -y resend-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "danhilse-youtube-research",
+  "description": "Integrates with YouTube API to perform aggregated video searches, enabling efficient content curation and trend analysis on specified topics.",
+  "source_repo": "danhilse/youtube_research_mcp",
+  "source_url": "https://github.com/danhilse/youtube_research_mcp",
+  "install": "npx -y youtube_research_mcp"
+}

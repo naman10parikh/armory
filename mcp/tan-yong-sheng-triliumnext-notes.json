@@ -1,0 +1,7 @@
+{
+  "name": "tan-yong-sheng-triliumnext-notes",
+  "description": "Integrates with TriliumNext Notes for creating, retrieving, updating, searching, and deleting notes through conversation, enabling seamless knowledge base management without context switching.",
+  "source_repo": "tan-yong-sheng/triliumnext-mcp",
+  "source_url": "https://github.com/tan-yong-sheng/triliumnext-mcp",
+  "install": "npx -y triliumnext-mcp"
+}

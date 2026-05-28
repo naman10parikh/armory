@@ -1,0 +1,7 @@
+{
+  "name": "puremd-web-access",
+  "description": "Enables AI access to web content in clean markdown format through unblock-url extraction and search-web capabilities, bypassing anti-bot measures for reliable information retrieval.",
+  "source_repo": "puremd/puremd-mcp",
+  "source_url": "https://github.com/puremd/puremd-mcp",
+  "install": "npx -y puremd-mcp"
+}

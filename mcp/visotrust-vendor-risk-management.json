@@ -1,0 +1,7 @@
+{
+  "name": "visotrust-vendor-risk-management",
+  "description": "Provides a bridge to VISO TRUST's vendor risk management API, enabling third-party assessment, relationship tracking, and vendor information querying without switching contexts.",
+  "source_repo": "visotrust/viso-mcp-server",
+  "source_url": "https://github.com/visotrust/viso-mcp-server",
+  "install": "npx -y viso-mcp-server"
+}

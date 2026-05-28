@@ -1,0 +1,7 @@
+{
+  "name": "dpesch-mantisbt",
+  "description": "Manage MantisBT issues, notes, files, tags, and relationships with optional semantic search.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/dpesch-mantisbt",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/dpesch-mantisbt\n# See source for mcpServers config block"
+}

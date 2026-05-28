@@ -1,0 +1,7 @@
+{
+  "name": "stytch",
+  "description": "Interact with the Stytch Management API. The Stytch Management API can be used to programmatically interact with Stytch assets like Projects, Redirect URLs, Email Templates, and more.",
+  "source_repo": "",
+  "source_url": "https://mcp.stytch.dev/",
+  "install": "# git clone --depth 1 https://mcp.stytch.dev/\n# See source for mcpServers config block"
+}

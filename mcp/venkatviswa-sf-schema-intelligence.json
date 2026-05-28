@@ -1,0 +1,7 @@
+{
+  "name": "venkatviswa-sf-schema-intelligence",
+  "description": "Provides deterministic, org-specific Salesforce schema analysis including field lookups, ER diagram generation, schema diffing, and change tracking.",
+  "source_repo": "venkatviswa/sf-schema-intelligence",
+  "source_url": "https://github.com/venkatviswa/sf-schema-intelligence",
+  "install": "# git clone --depth 1 https://github.com/venkatviswa/sf-schema-intelligence\n# See source for mcpServers config block"
+}

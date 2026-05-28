@@ -1,0 +1,7 @@
+{
+  "name": "lspace-io-lspace",
+  "description": "Transforms Git repositories into searchable knowledge bases through automated document processing, timeline tracking, and semantic search capabilities with OpenAI integration for content extraction and GitHub support for repository management.",
+  "source_repo": "lspace-io/lspace-server",
+  "source_url": "https://github.com/lspace-io/lspace-server",
+  "install": "# git clone --depth 1 https://github.com/lspace-io/lspace-server\n# See source for mcpServers config block"
+}

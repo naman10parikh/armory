@@ -1,0 +1,7 @@
+{
+  "name": "pop-pay",
+  "description": "Local MCP server for secure AI agent payments — prevents card leaks and hallucinated purchases with configurable guardrails.",
+  "source_repo": "100xpercent/pop-pay",
+  "source_url": "https://github.com/100xpercent/pop-pay",
+  "install": "# git clone --depth 1 https://github.com/100xpercent/pop-pay\n# See source for mcpServers config block"
+}

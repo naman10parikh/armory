@@ -1,0 +1,7 @@
+{
+  "name": "skymoore-grokipedia",
+  "description": "Integrates with Grokipedia wiki-style knowledge base to provide advanced search capabilities with filtering options, intelligent page retrieval with smart suggestions, section-based content extraction for long articles, and access to citations and related pages for research workflows.",
+  "source_repo": "skymoore/grokipedia-mcp",
+  "source_url": "https://github.com/skymoore/grokipedia-mcp",
+  "install": "npx -y grokipedia-mcp"
+}

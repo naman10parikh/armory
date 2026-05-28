@@ -1,0 +1,7 @@
+{
+  "name": "alpic",
+  "description": "Project management, deployment debugging, and analytics for Alpic-hosted servers.",
+  "source_repo": "",
+  "source_url": "https://alpic.ai",
+  "install": "# git clone --depth 1 https://alpic.ai\n# See source for mcpServers config block"
+}

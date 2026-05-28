@@ -1,0 +1,7 @@
+{
+  "name": "anycontext-thingsboard",
+  "description": "Connects AI to ThingsBoard IoT platforms for retrieving device telemetry data and attributes, enabling monitoring and analysis of IoT device information.",
+  "source_repo": "anycontext-ai/thingsboard-mcp-server",
+  "source_url": "https://github.com/anycontext-ai/thingsboard-mcp-server",
+  "install": "npx -y thingsboard-mcp-server"
+}

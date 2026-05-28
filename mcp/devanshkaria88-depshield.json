@@ -1,0 +1,7 @@
+{
+  "name": "devanshkaria88-depshield",
+  "description": "Security checkpoint that intercepts package installations to block vulnerable dependencies.",
+  "source_repo": "devanshkaria88/depshield-mcp",
+  "source_url": "https://github.com/devanshkaria88/depshield-mcp",
+  "install": "npx -y depshield-mcp"
+}

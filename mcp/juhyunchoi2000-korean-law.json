@@ -1,0 +1,7 @@
+{
+  "name": "juhyunchoi2000-korean-law",
+  "description": "Searches and analyzes Korean laws, court precedents, and administrative regulations via the National Legal Information Center API.",
+  "source_repo": "juhyunchoi2000/korean-law-mcp",
+  "source_url": "https://github.com/juhyunchoi2000/korean-law-mcp",
+  "install": "npx -y korean-law-mcp"
+}

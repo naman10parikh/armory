@@ -1,0 +1,7 @@
+{
+  "name": "navya-tecnologia-planka-v2",
+  "description": "Planka v2.x kanban board management with task lists, time tracking, and membership control.",
+  "source_repo": "navya-tecnologia/planka-v2-mcp",
+  "source_url": "https://github.com/navya-tecnologia/planka-v2-mcp",
+  "install": "npx -y planka-v2-mcp"
+}

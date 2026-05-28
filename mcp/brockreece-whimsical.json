@@ -1,0 +1,7 @@
+{
+  "name": "brockreece-whimsical",
+  "description": "Integrates with Whimsical's API to generate diagrams from Mermaid markup, returning both diagram URLs and base64 encoded images for iterative refinement.",
+  "source_repo": "brockreece/whimsical-mcp-server",
+  "source_url": "https://github.com/brockreece/whimsical-mcp-server",
+  "install": "npx -y whimsical-mcp-server"
+}

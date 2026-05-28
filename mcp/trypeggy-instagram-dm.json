@@ -1,0 +1,7 @@
+{
+  "name": "trypeggy-instagram-dm",
+  "description": "Integrates with Instagram Direct Messages to enable sending messages, managing chat threads, handling message requests, and converting between usernames and user IDs for social media automation and customer service workflows.",
+  "source_repo": "trypeggy/instagram_dm_mcp",
+  "source_url": "https://github.com/trypeggy/instagram_dm_mcp",
+  "install": "npx -y instagram_dm_mcp"
+}

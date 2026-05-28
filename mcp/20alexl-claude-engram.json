@@ -1,0 +1,7 @@
+{
+  "name": "20alexl-claude-engram",
+  "description": "Persistent memory and session intelligence for Claude Code. Auto-tracks mistakes, decisions, and context via hooks. Mines session history for patterns and cross-session search. Loop detection, pre-edit warnings, context compaction survival. Runs locally with Ollama.",
+  "source_repo": "20alexl/claude-engram",
+  "source_url": "https://github.com/20alexl/claude-engram",
+  "install": "# git clone --depth 1 https://github.com/20alexl/claude-engram\n# See source for mcpServers config block"
+}

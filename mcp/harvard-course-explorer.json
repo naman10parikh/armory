@@ -1,0 +1,7 @@
+{
+  "name": "harvard-course-explorer",
+  "description": "Discover and search Harvard's course catalog by code, title, or instructor. Explore random course picks to spark inspiration and uncover new subjects. View detailed course info and catalog insights to plan your schedule.",
+  "source_repo": "minitim222/harvard-mit-course-recommendation",
+  "source_url": "https://github.com/minitim222/harvard-mit-course-recommendation",
+  "install": "# git clone --depth 1 https://github.com/minitim222/harvard-mit-course-recommendation\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nomos-mcp-bridge",
+  "description": "A local MCP proxy that connects AI clients to nomos system controllers, allowing registration and switching between them via natural language. Enables smart home control through MCP-compatible AI clients.",
+  "source_repo": "nomos-system/nomos-mcp-bridge",
+  "source_url": "https://github.com/nomos-system/nomos-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/nomos-system/nomos-mcp-bridge\n# See source for mcpServers config block"
+}

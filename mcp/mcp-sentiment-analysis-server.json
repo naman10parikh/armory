@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sentiment-analysis-server",
+  "description": "A robust MCP server for real-time sentiment analysis with AI-powered insights, featuring multi-dimensional emotion detection, batch processing, and a Gradio web interface.",
+  "source_repo": "AdilzhanB/MCP_sentiment_analysis_server",
+  "source_url": "https://github.com/AdilzhanB/MCP_sentiment_analysis_server",
+  "install": "# git clone --depth 1 https://github.com/AdilzhanB/MCP_sentiment_analysis_server\n# See source for mcpServers config block"
+}

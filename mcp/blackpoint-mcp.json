@@ -1,0 +1,7 @@
+{
+  "name": "blackpoint-mcp",
+  "description": "An MCP server for Blackpoint Cyber MDR platform, enabling management of security monitoring, threat detection, and incident response through Blackpoint's API.",
+  "source_repo": "wyre-technology/blackpoint-mcp",
+  "source_url": "https://github.com/wyre-technology/blackpoint-mcp",
+  "install": "npx -y blackpoint-mcp"
+}

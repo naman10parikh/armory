@@ -1,0 +1,7 @@
+{
+  "name": "den-indance-google-trends",
+  "description": "Google Trends MCP with proxy rotation and auto-retry to work around Google anti-bot measures.",
+  "source_repo": "den-indance/google-trends-mcp",
+  "source_url": "https://github.com/den-indance/google-trends-mcp",
+  "install": "npx -y google-trends-mcp"
+}

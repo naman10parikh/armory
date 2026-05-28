@@ -1,0 +1,7 @@
+{
+  "name": "mcp-java-backend-suite",
+  "description": "A comprehensive MCP toolkit for Java backend developers, providing 35 tools across 5 servers for database analysis, JVM diagnostics, migration assistance, Spring Boot monitoring, and Redis diagnostics.",
+  "source_repo": "Dmitriusan/mcp-java-backend-suite",
+  "source_url": "https://github.com/Dmitriusan/mcp-java-backend-suite",
+  "install": "# git clone --depth 1 https://github.com/Dmitriusan/mcp-java-backend-suite\n# See source for mcpServers config block"
+}

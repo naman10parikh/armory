@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-opentk-dutch-parliament",
+  "description": "Provides a bridge to Dutch parliamentary data through Bert Hubert's tkconv service, enabling search across documents, MP information retrieval, and access to official records for political research and civic engagement.",
+  "source_repo": "r-huijts/opentk-mcp",
+  "source_url": "https://github.com/r-huijts/opentk-mcp",
+  "install": "npx -y opentk-mcp"
+}

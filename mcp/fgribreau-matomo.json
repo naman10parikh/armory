@@ -1,0 +1,7 @@
+{
+  "name": "fgribreau-matomo",
+  "description": "Dynamically introspects Matomo Analytics instances to expose all available API methods as tools.",
+  "source_repo": "fgribreau/mcp-matomo",
+  "source_url": "https://github.com/fgribreau/mcp-matomo",
+  "install": "# git clone --depth 1 https://github.com/fgribreau/mcp-matomo\n# See source for mcpServers config block"
+}

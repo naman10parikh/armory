@@ -1,0 +1,7 @@
+{
+  "name": "alexalexalex222-petamind",
+  "description": "Agentic coding loop with multi-candidate patch generation, deterministic quality gates, and vision-based UI evaluation using Playwright screenshots.",
+  "source_repo": "alexalexalex222/petamind-mcp",
+  "source_url": "https://github.com/alexalexalex222/petamind-mcp",
+  "install": "npx -y petamind-mcp"
+}

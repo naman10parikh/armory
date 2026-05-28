@@ -1,0 +1,7 @@
+{
+  "name": "standardbeagle-harvest",
+  "description": "Integrates with Harvest time tracking API to enable natural language control over time entries, project management, timer operations, and reporting workflows for freelancers and teams.",
+  "source_repo": "standardbeagle/harvest-mcp",
+  "source_url": "https://github.com/standardbeagle/harvest-mcp",
+  "install": "npx -y harvest-mcp"
+}

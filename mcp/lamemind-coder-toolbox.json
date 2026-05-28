@@ -1,0 +1,7 @@
+{
+  "name": "lamemind-coder-toolbox",
+  "description": "Integrates Java code analysis, manipulation, and testing tools for efficient software development workflows and automated code operations.",
+  "source_repo": "lamemind/coder-toolbox-mcp-server",
+  "source_url": "https://github.com/lamemind/coder-toolbox-mcp-server",
+  "install": "npx -y coder-toolbox-mcp-server"
+}

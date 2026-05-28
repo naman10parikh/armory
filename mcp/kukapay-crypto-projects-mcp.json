@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-projects-mcp",
+  "description": "Providing cryptocurrency project data from Mobula.io to AI agents.",
+  "source_repo": "kukapay/crypto-projects-mcp",
+  "source_url": "https://github.com/kukapay/crypto-projects-mcp",
+  "install": "npx -y crypto-projects-mcp"
+}

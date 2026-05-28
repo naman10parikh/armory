@@ -1,0 +1,7 @@
+{
+  "name": "walletap",
+  "description": "Issue and manage Apple Wallet and Google Wallet passes including membership cards, loyalty cards, tickets, and coupons.",
+  "source_repo": "walletap/walletap-mcp",
+  "source_url": "https://github.com/walletap/walletap-mcp",
+  "install": "npx -y walletap-mcp"
+}

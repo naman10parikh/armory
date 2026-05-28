@@ -1,0 +1,7 @@
+{
+  "name": "cicatriiz-healthcare-data-hub",
+  "description": "Provides healthcare professionals and researchers with access to medical information through specialized tools for FDA drug lookups, PubMed searches, Health.gov topics, clinical trials, and ICD-10 codes.",
+  "source_repo": "cicatriiz/healthcare-mcp-public",
+  "source_url": "https://github.com/cicatriiz/healthcare-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/cicatriiz/healthcare-mcp-public\n# See source for mcpServers config block"
+}

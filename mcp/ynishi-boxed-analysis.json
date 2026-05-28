@@ -1,0 +1,7 @@
+{
+  "name": "ynishi-boxed-analysis",
+  "description": "Container-sandboxed code analysis running in Docker via MCP.",
+  "source_repo": "ynishi/boxed-analysis",
+  "source_url": "https://github.com/ynishi/boxed-analysis",
+  "install": "# git clone --depth 1 https://github.com/ynishi/boxed-analysis\n# See source for mcpServers config block"
+}

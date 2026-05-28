@@ -1,0 +1,7 @@
+{
+  "name": "raju-deriv-api",
+  "description": "Integrates with Deriv API to enable trading operations like retrieving symbols and balances for automated trading systems and market analysis tools.",
+  "source_repo": "raju-deriv/mcp-deriv-api-server",
+  "source_url": "https://github.com/raju-deriv/mcp-deriv-api-server",
+  "install": "# git clone --depth 1 https://github.com/raju-deriv/mcp-deriv-api-server\n# See source for mcpServers config block"
+}

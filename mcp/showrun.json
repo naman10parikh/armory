@@ -1,0 +1,7 @@
+{
+  "name": "showrun",
+  "description": "Task pack framework for deterministic browser automations with JSON DSL, teach mode, and real-time monitoring.",
+  "source_repo": "useshowrun/showrun",
+  "source_url": "https://github.com/useshowrun/showrun/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/useshowrun/showrun/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

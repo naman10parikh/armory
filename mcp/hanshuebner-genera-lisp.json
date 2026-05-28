@@ -1,0 +1,7 @@
+{
+  "name": "hanshuebner-genera-lisp",
+  "description": "Evaluate Lisp expressions on a Symbolics Genera machine via TCP bridge.",
+  "source_repo": "hanshuebner/lisp-mcp",
+  "source_url": "https://github.com/hanshuebner/lisp-mcp",
+  "install": "npx -y lisp-mcp"
+}

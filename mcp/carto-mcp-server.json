@@ -1,0 +1,7 @@
+{
+  "name": "carto-mcp-server",
+  "description": "Enables AI coding tools to query your live codebase for routes, import graph, domain context, and blast radius, eliminating hallucinations about project structure.",
+  "source_repo": "theanshsonkar/carto",
+  "source_url": "https://github.com/theanshsonkar/carto",
+  "install": "# git clone --depth 1 https://github.com/theanshsonkar/carto\n# See source for mcpServers config block"
+}

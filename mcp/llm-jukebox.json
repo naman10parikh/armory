@@ -1,0 +1,7 @@
+{
+  "name": "llm-jukebox",
+  "description": "Integrates with YouTube and yt-dlp to search, download, and play music with MP3 conversion, local library management, and basic playback controls for building music discovery and playback systems.",
+  "source_repo": "jabberjabberjabber/llm-jukebox",
+  "source_url": "https://github.com/jabberjabberjabber/llm-jukebox",
+  "install": "# git clone --depth 1 https://github.com/jabberjabberjabber/llm-jukebox\n# See source for mcpServers config block"
+}

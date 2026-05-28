@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-powerbi",
+  "description": "Integrates with Power BI for business analytics and data visualization.",
+  "source_repo": "asklokesh/powerbi-mcp-server",
+  "source_url": "https://github.com/asklokesh/powerbi-mcp-server",
+  "install": "npx -y powerbi-mcp-server"
+}

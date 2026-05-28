@@ -1,0 +1,7 @@
+{
+  "name": "hey-jian-wei-jianying",
+  "description": "Integrates with JianYing desktop video editor using UI automation to enable draft management, media handling, track operations, and export capabilities for automated video editing workflows and batch processing.",
+  "source_repo": "hey-jian-wei/jianying-mcp",
+  "source_url": "https://github.com/hey-jian-wei/jianying-mcp",
+  "install": "npx -y jianying-mcp"
+}

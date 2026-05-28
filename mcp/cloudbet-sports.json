@@ -1,0 +1,7 @@
+{
+  "name": "cloudbet-sports",
+  "description": "Integrates with Cloudbet's sports betting API to provide live sports data, betting markets, and odds across multiple sports with fuzzy search capabilities for finding competitions by name.",
+  "source_repo": "cloudbet/sports-mcp-server",
+  "source_url": "https://github.com/cloudbet/sports-mcp-server",
+  "install": "npx -y sports-mcp-server"
+}

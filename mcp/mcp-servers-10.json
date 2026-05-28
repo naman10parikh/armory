@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-10",
+  "description": "MCP Servers MCP server listed on mcp.so.",
+  "source_repo": "Censini/MCP-servers",
+  "source_url": "https://mcp.so/server/MCP-servers/Censini",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-servers/Censini\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cochaincomplex-tractatus-thinking",
+  "description": "Applies Wittgenstein's Tractus method to break down complex concepts into logical structures, revealing hidden dependencies and multiplicative requirements that sequential thinking typically misses for clearer understanding of complex domains.",
+  "source_repo": "",
+  "source_url": "https://gitlab.com/CochainComplex/tractatus-thinking",
+  "install": "# git clone --depth 1 https://gitlab.com/CochainComplex/tractatus-thinking\n# See source for mcpServers config block"
+}

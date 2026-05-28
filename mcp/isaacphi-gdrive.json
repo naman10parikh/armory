@@ -1,0 +1,7 @@
+{
+  "name": "isaacphi-gdrive",
+  "description": "Integrates Google Drive and Sheets functionality for file operations and spreadsheet data manipulation.",
+  "source_repo": "isaacphi/mcp-gdrive",
+  "source_url": "https://github.com/isaacphi/mcp-gdrive",
+  "install": "# git clone --depth 1 https://github.com/isaacphi/mcp-gdrive\n# See source for mcpServers config block"
+}

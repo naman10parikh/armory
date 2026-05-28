@@ -1,0 +1,7 @@
+{
+  "name": "code-review-mcp-server",
+  "description": "Enables automated code review and GitHub PR commenting through MCP integration.",
+  "source_repo": "Orcus2021/code-review-mcp-server",
+  "source_url": "https://github.com/Orcus2021/code-review-mcp-server",
+  "install": "npx -y code-review-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deepwiki",
+  "description": "Provides AI assistants with access to GitHub repository documentation and search capabilities for code understanding, architecture exploration, and technical question answering.",
+  "source_repo": "",
+  "source_url": "https://docs.devin.ai/work-with-devin/deepwiki-mcp",
+  "install": "# git clone --depth 1 https://docs.devin.ai/work-with-devin/deepwiki-mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kynto2001-ctrl-xrpl-wallet-risk-score",
+  "description": "XRPL wallet risk scoring with behavioral tags, sub-scores, graph analysis, and pay-per-call in XRP.",
+  "source_repo": "kynto2001-ctrl/xrplriskscore-mcp",
+  "source_url": "https://github.com/kynto2001-ctrl/xrplriskscore-mcp",
+  "install": "npx -y xrplriskscore-mcp"
+}

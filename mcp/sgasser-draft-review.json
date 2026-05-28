@@ -1,0 +1,7 @@
+{
+  "name": "sgasser-draft-review",
+  "description": "Opens a local browser-based review window for editing, approving, or rejecting AI-generated drafts before they are sent to their destination.",
+  "source_repo": "sgasser/draft-mcp-server",
+  "source_url": "https://github.com/sgasser/draft-mcp-server",
+  "install": "npx -y draft-mcp-server"
+}

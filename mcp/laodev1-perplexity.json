@@ -1,0 +1,7 @@
+{
+  "name": "laodev1-perplexity",
+  "description": "Integrates with Perplexity AI's language models, enabling enhanced interactions through chat completions and single-query tools.",
+  "source_repo": "laodev1/perplexity-mcp-server",
+  "source_url": "https://github.com/laodev1/perplexity-mcp-server",
+  "install": "npx -y perplexity-mcp-server"
+}

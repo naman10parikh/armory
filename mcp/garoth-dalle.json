@@ -1,0 +1,7 @@
+{
+  "name": "garoth-dalle",
+  "description": "Enables image generation capabilities using OpenAI's DALL-E API with support for creating, editing, and varying images through flexible configuration options.",
+  "source_repo": "garoth/dalle-mcp",
+  "source_url": "https://github.com/garoth/dalle-mcp",
+  "install": "npx -y dalle-mcp"
+}

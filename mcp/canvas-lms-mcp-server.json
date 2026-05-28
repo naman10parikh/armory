@@ -1,0 +1,7 @@
+{
+  "name": "canvas-lms-mcp-server",
+  "description": "MCP server for Canvas LMS, providing 115+ tools to read courses, assignments, submissions, rubrics, quizzes; grade, comment, manage course content, and handle Canvas admin workflows from any AI agent.",
+  "source_repo": "bruchris/canvas-lms-mcp",
+  "source_url": "https://github.com/bruchris/canvas-lms-mcp",
+  "install": "npx -y canvas-lms-mcp"
+}

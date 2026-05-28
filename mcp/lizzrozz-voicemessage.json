@@ -1,0 +1,7 @@
+{
+  "name": "lizzrozz-voicemessage",
+  "description": "Enables Claude to generate and play voice messages via a speak tool with an embedded audio player in the claude.ai interface.",
+  "source_repo": "lizzrozz/voicemessage-for-claude",
+  "source_url": "https://github.com/lizzrozz/voicemessage-for-claude",
+  "install": "# git clone --depth 1 https://github.com/lizzrozz/voicemessage-for-claude\n# See source for mcpServers config block"
+}

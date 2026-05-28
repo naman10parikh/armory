@@ -1,0 +1,7 @@
+{
+  "name": "wddxg-zotero-augmentation",
+  "description": "Zotero MCP augmentation with full-text chunking and local vector search.",
+  "source_repo": "wddxg/zotero-mcp-augmentation",
+  "source_url": "https://github.com/wddxg/zotero-mcp-augmentation",
+  "install": "# git clone --depth 1 https://github.com/wddxg/zotero-mcp-augmentation\n# See source for mcpServers config block"
+}

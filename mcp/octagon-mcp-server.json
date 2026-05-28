@@ -1,0 +1,7 @@
+{
+  "name": "octagon-mcp-server",
+  "description": "Octagon Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "OctagonAI/octagon-mcp-server",
+  "source_url": "https://mcp.so/server/octagon-mcp-server/OctagonAI",
+  "install": "npx -y octagon-mcp-server"
+}

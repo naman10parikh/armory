@@ -1,0 +1,7 @@
+{
+  "name": "your-ko-k8s-ro",
+  "description": "Read-only Kubernetes cluster access with resource inspection, logs, events, metrics, and secret masking.",
+  "source_repo": "your-ko/mcp-k8s-ro",
+  "source_url": "https://github.com/your-ko/mcp-k8s-ro",
+  "install": "# git clone --depth 1 https://github.com/your-ko/mcp-k8s-ro\n# See source for mcpServers config block"
+}

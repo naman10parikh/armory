@@ -1,0 +1,7 @@
+{
+  "name": "dengls24-annota",
+  "description": "AI-powered paper annotation MCP server. Reads papers, highlights key findings with semantic color coding, explains formulas, and writes structured reading notes — all saved back to Zotero. Features two-phase workflow for large PDFs (63–80% context savings) and batch annotations.",
+  "source_repo": "dengls24/annota",
+  "source_url": "https://github.com/dengls24/annota",
+  "install": "# git clone --depth 1 https://github.com/dengls24/annota\n# See source for mcpServers config block"
+}

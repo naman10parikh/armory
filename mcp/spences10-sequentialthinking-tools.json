@@ -1,0 +1,7 @@
+{
+  "name": "spences10-sequentialthinking-tools",
+  "description": "Provides structured problem-solving tools for step-by-step analysis, branching thoughts, and adaptive reasoning strategies in complex decision-making processes.",
+  "source_repo": "spences10/mcp-sequentialthinking-tools",
+  "source_url": "https://github.com/spences10/mcp-sequentialthinking-tools",
+  "install": "# git clone --depth 1 https://github.com/spences10/mcp-sequentialthinking-tools\n# See source for mcpServers config block"
+}

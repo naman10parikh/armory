@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-notion-connect",
+  "description": "Notion workspace access via the Notion API — search, retrieve pages, query databases, and list accessible content.",
+  "source_repo": "pipeworx-io/mcp-notion_connect",
+  "source_url": "https://github.com/pipeworx-io/mcp-notion_connect",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-notion_connect\n# See source for mcpServers config block"
+}

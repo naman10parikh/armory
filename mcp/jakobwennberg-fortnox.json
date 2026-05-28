@@ -1,0 +1,7 @@
+{
+  "name": "jakobwennberg-fortnox",
+  "description": "Integrates with the Fortnox Swedish accounting system for managing invoices, customers, suppliers, orders, accounts, vouchers, and business intelligence analytics.",
+  "source_repo": "erp-mafia/fortnox-mcp",
+  "source_url": "https://github.com/erp-mafia/fortnox-mcp",
+  "install": "npx -y fortnox-mcp"
+}

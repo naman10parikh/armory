@@ -1,0 +1,7 @@
+{
+  "name": "jordy33-iot-home-automation",
+  "description": "Enables smart home automation with IoT device control and persistent memory for maintaining context across interactions through MQTT protocol",
+  "source_repo": "jordy33/iot_mcp_server",
+  "source_url": "https://github.com/jordy33/iot_mcp_server",
+  "install": "npx -y iot_mcp_server"
+}

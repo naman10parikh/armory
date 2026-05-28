@@ -1,0 +1,7 @@
+{
+  "name": "piqrypt",
+  "description": "Cryptographic audit trail for AI agents using Ed25519-signed, hash-chained event records.",
+  "source_repo": "piqrypt/piqrypt-mcp-server",
+  "source_url": "https://github.com/piqrypt/piqrypt-mcp-server",
+  "install": "npx -y piqrypt-mcp-server"
+}

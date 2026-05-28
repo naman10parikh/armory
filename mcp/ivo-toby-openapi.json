@@ -1,0 +1,7 @@
+{
+  "name": "ivo-toby-openapi",
+  "description": "Integrates with OpenAPI specifications to expose REST API endpoints as MCP resources, enabling dynamic discovery and utilization of many web services.",
+  "source_repo": "ivo-toby/mcp-openapi-server",
+  "source_url": "https://github.com/ivo-toby/mcp-openapi-server",
+  "install": "# git clone --depth 1 https://github.com/ivo-toby/mcp-openapi-server\n# See source for mcpServers config block"
+}

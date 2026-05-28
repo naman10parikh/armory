@@ -1,0 +1,7 @@
+{
+  "name": "bwb03-catalog-cli-pro",
+  "description": "Amazon catalog auditing tool with 13 quality checks for product listings.",
+  "source_repo": "bwb03/amazon-catalog-cli",
+  "source_url": "https://github.com/bwb03/amazon-catalog-cli",
+  "install": "# git clone --depth 1 https://github.com/bwb03/amazon-catalog-cli\n# See source for mcpServers config block"
+}

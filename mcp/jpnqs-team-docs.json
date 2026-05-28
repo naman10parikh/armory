@@ -1,0 +1,7 @@
+{
+  "name": "jpnqs-team-docs",
+  "description": "MCP server for semantic search over team documentation using local embeddings and vector similarity search.",
+  "source_repo": "jpnqs/team-docs-mcp",
+  "source_url": "https://github.com/jpnqs/team-docs-mcp",
+  "install": "npx -y team-docs-mcp"
+}

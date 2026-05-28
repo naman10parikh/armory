@@ -1,0 +1,7 @@
+{
+  "name": "vjik-my-prompts",
+  "description": "Serve custom Markdown prompt files with argument substitution to AI clients via MCP.",
+  "source_repo": "vjik/my-prompts-mcp",
+  "source_url": "https://github.com/vjik/my-prompts-mcp",
+  "install": "npx -y my-prompts-mcp"
+}

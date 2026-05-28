@@ -1,0 +1,7 @@
+{
+  "name": "adiking117-orthanc-dicom",
+  "description": "Access Orthanc DICOM servers for querying patients, studies, series, and instances with PDF text extraction.",
+  "source_repo": "adiking117/orthanc-mcp",
+  "source_url": "https://github.com/adiking117/orthanc-mcp",
+  "install": "npx -y orthanc-mcp"
+}

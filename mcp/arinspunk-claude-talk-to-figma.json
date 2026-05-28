@@ -1,0 +1,7 @@
+{
+  "name": "arinspunk-claude-talk-to-figma",
+  "description": "Enables direct control over Figma designs through WebSocket communication for document inspection, element creation and modification, text manipulation, component management, and export capabilities for automated design workflows and content localization.",
+  "source_repo": "arinspunk/claude-talk-to-figma-mcp",
+  "source_url": "https://github.com/arinspunk/claude-talk-to-figma-mcp",
+  "install": "npx -y claude-talk-to-figma-mcp"
+}

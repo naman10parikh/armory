@@ -1,0 +1,7 @@
+{
+  "name": "ogimage-mcp",
+  "description": "Generates beautiful Open Graph images directly from Claude Desktop using ogimage.art, supporting templates, sizes, and license keys.",
+  "source_repo": "ogimage-art/mcp-server",
+  "source_url": "https://github.com/ogimage-art/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ogimage-art/mcp-server\n# See source for mcpServers config block"
+}

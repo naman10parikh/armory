@@ -1,0 +1,7 @@
+{
+  "name": "confluence-mcp-server",
+  "description": "An MCP server that connects AI assistants to Confluence, enabling search and fetch of pages in real time.",
+  "source_repo": "pankaj28843/confluence-mcp-server",
+  "source_url": "https://github.com/pankaj28843/confluence-mcp-server",
+  "install": "npx -y confluence-mcp-server"
+}

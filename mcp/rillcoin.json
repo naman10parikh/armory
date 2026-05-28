@@ -1,0 +1,7 @@
+{
+  "name": "rillcoin",
+  "description": "AI agent wallets, Proof of Conduct reputation, and concentration decay on the Rill L1 blockchain.",
+  "source_repo": "rillcoin/rill",
+  "source_url": "https://github.com/rillcoin/rill",
+  "install": "# git clone --depth 1 https://github.com/rillcoin/rill\n# See source for mcpServers config block"
+}

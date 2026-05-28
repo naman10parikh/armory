@@ -1,0 +1,7 @@
+{
+  "name": "growilabs-growi-mcp-server",
+  "description": "Official MCP Server to integrate with GROWI APIs.",
+  "source_repo": "growilabs/growi-mcp-server",
+  "source_url": "https://github.com/growilabs/growi-mcp-server",
+  "install": "npx -y growi-mcp-server"
+}

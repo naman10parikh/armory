@@ -1,0 +1,7 @@
+{
+  "name": "claude-dev-tools",
+  "description": "Claude Dev Tools MCP server listed on mcp.so.",
+  "source_repo": "StrawHatAI/claude-dev-tools",
+  "source_url": "https://mcp.so/server/claude-dev-tools/StrawHatAI",
+  "install": "# git clone --depth 1 https://mcp.so/server/claude-dev-tools/StrawHatAI\n# See source for mcpServers config block"
+}

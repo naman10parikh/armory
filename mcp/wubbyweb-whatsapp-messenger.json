@@ -1,0 +1,7 @@
+{
+  "name": "wubbyweb-whatsapp-messenger",
+  "description": "Enables sending formatted WhatsApp messages to specified recipients through Twilio's API for automated notifications and customer service workflows.",
+  "source_repo": "wubbyweb/mcp-generated",
+  "source_url": "https://github.com/wubbyweb/mcp-generated",
+  "install": "# git clone --depth 1 https://github.com/wubbyweb/mcp-generated\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mhaggis-security-detections",
+  "description": "Aggregates security detection rules from Sigma, Splunk ESCU, Elastic, and KQL into a unified searchable SQLite database with MITRE ATT&CK mappings and CVE tracking for security analysts and threat hunters.",
+  "source_repo": "mhaggis/security-detections-mcp",
+  "source_url": "https://github.com/mhaggis/security-detections-mcp",
+  "install": "npx -y security-detections-mcp"
+}

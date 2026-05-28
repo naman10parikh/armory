@@ -1,0 +1,7 @@
+{
+  "name": "gh-robocular-frostbyte",
+  "description": "Access 40+ developer APIs through one gateway for geo, crypto, DNS, screenshots, and more.",
+  "source_repo": "robocular/frostbyte-mcp",
+  "source_url": "https://github.com/robocular/frostbyte-mcp",
+  "install": "npx -y frostbyte-mcp"
+}

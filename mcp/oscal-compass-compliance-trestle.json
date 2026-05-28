@@ -1,0 +1,7 @@
+{
+  "name": "oscal-compass-compliance-trestle",
+  "description": "OSCAL security compliance documentation authoring tools.",
+  "source_repo": "oscal-compass/compliance-trestle-mcp",
+  "source_url": "https://github.com/oscal-compass/compliance-trestle-mcp",
+  "install": "npx -y compliance-trestle-mcp"
+}

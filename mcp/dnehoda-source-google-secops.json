@@ -1,0 +1,7 @@
+{
+  "name": "dnehoda-source-google-secops",
+  "description": "Security operations toolkit with 60 tools for Google SecOps, VirusTotal, and threat intelligence.",
+  "source_repo": "dadohen/mcp-boss",
+  "source_url": "https://github.com/dadohen/mcp-boss",
+  "install": "# git clone --depth 1 https://github.com/dadohen/mcp-boss\n# See source for mcpServers config block"
+}

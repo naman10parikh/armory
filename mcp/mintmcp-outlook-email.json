@@ -1,0 +1,7 @@
+{
+  "name": "mintmcp-outlook-email",
+  "description": "Manages Microsoft Outlook email with search, composition, and draft management capabilities",
+  "source_repo": "",
+  "source_url": "https://www.mintmcp.com/outlook",
+  "install": "# git clone --depth 1 https://www.mintmcp.com/outlook\n# See source for mcpServers config block"
+}

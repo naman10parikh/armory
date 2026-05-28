@@ -1,0 +1,7 @@
+{
+  "name": "tofunori-data-explorer",
+  "description": "Enables data analysis and visualization by integrating with pandas, scikit-learn, matplotlib, and seaborn libraries for dataset exploration, statistical analysis, and chart generation",
+  "source_repo": "tofunori/claude-mcp-data-explorer",
+  "source_url": "https://github.com/tofunori/claude-mcp-data-explorer",
+  "install": "# git clone --depth 1 https://github.com/tofunori/claude-mcp-data-explorer\n# See source for mcpServers config block"
+}

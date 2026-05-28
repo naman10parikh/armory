@@ -1,0 +1,7 @@
+{
+  "name": "netlify",
+  "description": "Integrates with Netlify's platform for complete site management including project operations, deployments with zip uploads, team administration, extension configuration, and documentation access across hosting, build, and collaboration workflows.",
+  "source_repo": "netlify/netlify-mcp",
+  "source_url": "https://github.com/netlify/netlify-mcp",
+  "install": "npx -y netlify-mcp"
+}

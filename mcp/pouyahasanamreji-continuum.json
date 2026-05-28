@@ -1,0 +1,7 @@
+{
+  "name": "pouyahasanamreji-continuum",
+  "description": "Shared memory and agent orchestration system for multi-agent AI workflows with local-first vector storage.",
+  "source_repo": "pouyahasanamreji/continuum",
+  "source_url": "https://github.com/pouyahasanamreji/continuum",
+  "install": "# git clone --depth 1 https://github.com/pouyahasanamreji/continuum\n# See source for mcpServers config block"
+}

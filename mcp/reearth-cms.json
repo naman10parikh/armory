@@ -1,0 +1,7 @@
+{
+  "name": "reearth-cms",
+  "description": "Integrates with Re:Earth CMS headless content management system to enable full CRUD operations on projects, models, items, assets, groups, and comments with field-level manipulation, asset publishing controls, comment threading, and data export in CSV and GeoJSON formats for content management workflows and spatial data handling.",
+  "source_repo": "reearth/reearth-cms-mcp",
+  "source_url": "https://github.com/reearth/reearth-cms-mcp",
+  "install": "npx -y reearth-cms-mcp"
+}

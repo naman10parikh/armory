@@ -1,0 +1,7 @@
+{
+  "name": "david-aftergut-openbudget",
+  "description": "Provides access to Israel's OpenBudget API for querying and searching government financial data including budgets, contracts, and support payments",
+  "source_repo": "openbudget/budgetkey-mcp",
+  "source_url": "https://github.com/openbudget/budgetkey-mcp",
+  "install": "npx -y budgetkey-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tanker327-uuid-generator",
+  "description": "Generates timestamp-based UUID v7 identifiers that are chronologically sortable and collision-resistant, following RFC standards for reliable unique identifier creation.",
+  "source_repo": "tanker327/uuid-mcp",
+  "source_url": "https://github.com/tanker327/uuid-mcp",
+  "install": "npx -y uuid-mcp"
+}

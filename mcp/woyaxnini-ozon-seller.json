@@ -1,0 +1,7 @@
+{
+  "name": "woyaxnini-ozon-seller",
+  "description": "Manage Ozon marketplace seller accounts including products, pricing, orders, analytics, and finance reports.",
+  "source_repo": "woyaxnini/mcp-ozon-seller",
+  "source_url": "https://github.com/woyaxnini/mcp-ozon-seller",
+  "install": "# git clone --depth 1 https://github.com/woyaxnini/mcp-ozon-seller\n# See source for mcpServers config block"
+}

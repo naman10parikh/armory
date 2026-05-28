@@ -1,0 +1,7 @@
+{
+  "name": "aourpallynikhil-nuke",
+  "description": "Provides a bridge to Nuke compositing software for automating common tasks like node creation, configuration, and render operations through a Python interface",
+  "source_repo": "aourpallynikhil/nuke-mcp-2",
+  "source_url": "https://github.com/aourpallynikhil/nuke-mcp-2",
+  "install": "# git clone --depth 1 https://github.com/aourpallynikhil/nuke-mcp-2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "memesio",
+  "description": "Searches meme templates, renders captions on images, and generates AI meme variants through a hosted stateless endpoint.",
+  "source_repo": "",
+  "source_url": "https://memesio.com",
+  "install": "# git clone --depth 1 https://memesio.com\n# See source for mcpServers config block"
+}

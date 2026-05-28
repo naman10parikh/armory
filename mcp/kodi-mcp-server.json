@@ -1,0 +1,7 @@
+{
+  "name": "kodi-mcp-server",
+  "description": "Enables querying, searching, and controlling Kodi media center libraries and playback remotely, including smart episode tracking and targeted library scanning.",
+  "source_repo": "dgoo2308/kodi-mcp-server",
+  "source_url": "https://github.com/dgoo2308/kodi-mcp-server",
+  "install": "npx -y kodi-mcp-server"
+}

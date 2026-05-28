@@ -1,0 +1,7 @@
+{
+  "name": "umeiko-umeko-serial",
+  "description": "Connects AI assistants to microcontrollers and embedded devices via serial port with a built-in web monitoring dashboard.",
+  "source_repo": "umeiko/umeko_serial_mcp",
+  "source_url": "https://github.com/umeiko/umeko_serial_mcp",
+  "install": "npx -y umeko_serial_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "defozo-ddc-ci-control-bridge",
+  "description": "Control monitor brightness, contrast, power and input via DDC/CI protocol",
+  "source_repo": "defozo/ddc-ci-control-bridge",
+  "source_url": "https://github.com/defozo/ddc-ci-control-bridge",
+  "install": "# git clone --depth 1 https://github.com/defozo/ddc-ci-control-bridge\n# See source for mcpServers config block"
+}

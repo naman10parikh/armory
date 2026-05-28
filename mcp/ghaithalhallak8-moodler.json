@@ -1,0 +1,7 @@
+{
+  "name": "ghaithalhallak8-moodler",
+  "description": "Interact with Moodle LMS through natural language to browse courses, track deadlines, and manage assignments.",
+  "source_repo": "ghaithalhallak8/moodler-mcp",
+  "source_url": "https://github.com/ghaithalhallak8/moodler-mcp",
+  "install": "npx -y moodler-mcp"
+}

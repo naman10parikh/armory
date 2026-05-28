@@ -1,0 +1,7 @@
+{
+  "name": "islobodan-cruncher",
+  "description": "Scientific calculator with 43 tools covering arithmetic, trigonometry, statistics, and unit conversion.",
+  "source_repo": "islobodan/cruncher-mcp",
+  "source_url": "https://github.com/islobodan/cruncher-mcp",
+  "install": "npx -y cruncher-mcp"
+}

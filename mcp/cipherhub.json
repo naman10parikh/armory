@@ -1,0 +1,7 @@
+{
+  "name": "cipherhub",
+  "description": "Cryptography toolkit with 31 MCP tools for classical, post-quantum, and KMS workflows.",
+  "source_repo": "bowenerchen/cipherhub-mcp-server",
+  "source_url": "https://github.com/bowenerchen/cipherhub-mcp-server",
+  "install": "npx -y cipherhub-mcp-server"
+}

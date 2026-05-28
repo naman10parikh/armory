@@ -1,0 +1,7 @@
+{
+  "name": "paparats-mcp",
+  "description": "Semantic code search for AI coding assistants.",
+  "source_repo": "ibazylchuk/paparats-mcp",
+  "source_url": "https://github.com/ibazylchuk/paparats-mcp/tree/HEAD/packages/server",
+  "install": "npx -y paparats-mcp"
+}

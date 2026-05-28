@@ -1,0 +1,7 @@
+{
+  "name": "rexposadas-attendee-bot",
+  "description": "Automates meeting attendance and transcription across platforms like Zoom and Google Meet, enabling automated note-taking, compliance documentation, and accessibility support through bot deployment.",
+  "source_repo": "rexposadas/attendee-mcp",
+  "source_url": "https://github.com/rexposadas/attendee-mcp",
+  "install": "npx -y attendee-mcp"
+}

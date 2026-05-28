@@ -1,0 +1,7 @@
+{
+  "name": "floriscornel-teams",
+  "description": "Integrates with Microsoft Teams through Graph API to search messages, manage chats and channels, send messages, create group chats, and handle user/team operations with device code authentication for secure access.",
+  "source_repo": "floriscornel/teams-mcp",
+  "source_url": "https://github.com/floriscornel/teams-mcp",
+  "install": "npx -y teams-mcp"
+}

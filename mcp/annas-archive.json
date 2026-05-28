@@ -1,0 +1,7 @@
+{
+  "name": "annas-archive",
+  "description": "Integrates with Anna's Archive to provide search and download capabilities for Creative Commons publications and public domain materials, requiring API key authentication and emphasizing responsible use for research and educational workflows.",
+  "source_repo": "iosifache/annas-mcp",
+  "source_url": "https://github.com/iosifache/annas-mcp",
+  "install": "npx -y annas-mcp"
+}

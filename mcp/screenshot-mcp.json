@@ -1,0 +1,7 @@
+{
+  "name": "screenshot-mcp",
+  "description": "Captures webpage screenshots via ScreenshotOne API, offering desktop, mobile, and element-specific views.",
+  "source_repo": "Rumblingb/screenshot-mcp",
+  "source_url": "https://github.com/Rumblingb/screenshot-mcp",
+  "install": "npx -y screenshot-mcp"
+}

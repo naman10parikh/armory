@@ -1,0 +1,7 @@
+{
+  "name": "youtube-trends-mcp",
+  "description": "Enables AI assistants to query YouTube search trends, including rising topics, growth metrics, and historical search demand, using natural language.",
+  "source_repo": "trendsmcp/youtube-trends-mcp",
+  "source_url": "https://github.com/trendsmcp/youtube-trends-mcp",
+  "install": "npx -y youtube-trends-mcp"
+}

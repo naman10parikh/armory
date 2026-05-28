@@ -1,0 +1,7 @@
+{
+  "name": "webdriverio",
+  "description": "Browser and mobile app automation for Chrome, Firefox, Edge, Safari, iOS, and Android via WebDriver and Appium protocols.",
+  "source_repo": "webdriverio/mcp",
+  "source_url": "https://github.com/webdriverio/mcp",
+  "install": "# git clone --depth 1 https://github.com/webdriverio/mcp\n# See source for mcpServers config block"
+}

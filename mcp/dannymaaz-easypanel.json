@@ -1,0 +1,7 @@
+{
+  "name": "dannymaaz-easypanel",
+  "description": "Controls Easypanel infrastructure through natural language for deploying services, managing projects, and monitoring resources.",
+  "source_repo": "dannymaaz/easypanel-mcp",
+  "source_url": "https://github.com/dannymaaz/easypanel-mcp",
+  "install": "npx -y easypanel-mcp"
+}

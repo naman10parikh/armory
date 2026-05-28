@@ -1,0 +1,7 @@
+{
+  "name": "wangicheng-online-judge",
+  "description": "Connects to Online Judge platforms for competitive programming practice.",
+  "source_repo": "wangicheng/oj-mcp-server",
+  "source_url": "https://github.com/wangicheng/oj-mcp-server",
+  "install": "npx -y oj-mcp-server"
+}

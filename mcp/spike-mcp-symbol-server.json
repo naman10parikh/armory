@@ -1,0 +1,7 @@
+{
+  "name": "spike-mcp-symbol-server",
+  "description": "Spike Mcp Symbol Server MCP server listed on mcp.so.",
+  "source_repo": "husqvaluna/spike-mcp-symbol-server",
+  "source_url": "https://mcp.so/server/spike-mcp-symbol-server/husqvaluna",
+  "install": "# git clone --depth 1 https://mcp.so/server/spike-mcp-symbol-server/husqvaluna\n# See source for mcpServers config block"
+}

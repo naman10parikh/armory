@@ -1,0 +1,7 @@
+{
+  "name": "synapse-research",
+  "description": "A deep-research MCP server exposing a single task-augmented tool that runs GPT-Researcher with Tavily search, Anthropic Claude, and OpenAI embeddings, streaming progress via MCP tasks and Upjack entity stream.",
+  "source_repo": "NimbleBrainInc/synapse-research",
+  "source_url": "https://github.com/NimbleBrainInc/synapse-research",
+  "install": "# git clone --depth 1 https://github.com/NimbleBrainInc/synapse-research\n# See source for mcpServers config block"
+}

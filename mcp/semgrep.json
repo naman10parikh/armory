@@ -1,0 +1,7 @@
+{
+  "name": "semgrep",
+  "description": "Integrates with Semgrep's static analysis engine to scan code for security vulnerabilities and coding issues, enabling developers to identify and fix potential problems directly within their coding workflow.",
+  "source_repo": "semgrep/mcp",
+  "source_url": "https://github.com/semgrep/mcp",
+  "install": "# git clone --depth 1 https://github.com/semgrep/mcp\n# See source for mcpServers config block"
+}

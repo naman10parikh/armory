@@ -1,0 +1,7 @@
+{
+  "name": "mlflowagent",
+  "description": "MlflowAgent MCP server listed on mcp.so.",
+  "source_repo": "iRahulPandey/mlflowAgent",
+  "source_url": "https://mcp.so/server/mlflowAgent/iRahulPandey",
+  "install": "# git clone --depth 1 https://mcp.so/server/mlflowAgent/iRahulPandey\n# See source for mcpServers config block"
+}

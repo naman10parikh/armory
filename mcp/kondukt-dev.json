@@ -1,0 +1,7 @@
+{
+  "name": "kondukt-dev",
+  "description": "MCP developer toolkit for testing, validating, debugging, and scaffolding MCP servers, with self-hosted MCP server capabilities.",
+  "source_repo": "kondukt-dev/core",
+  "source_url": "https://github.com/kondukt-dev/core",
+  "install": "# git clone --depth 1 https://github.com/kondukt-dev/core\n# See source for mcpServers config block"
+}

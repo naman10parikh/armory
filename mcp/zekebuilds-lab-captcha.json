@@ -1,0 +1,7 @@
+{
+  "name": "zekebuilds-lab-captcha",
+  "description": "Autonomous AI agent authentication combining proof-of-work and Lightning micropayments.",
+  "source_repo": "zekebuilds-lab/captcha-mcp",
+  "source_url": "https://github.com/zekebuilds-lab/captcha-mcp",
+  "install": "npx -y captcha-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dmontgomery40-generate-custom-mcps",
+  "description": "Enables dynamic creation of customized MCP servers using the MCP SDK to automate setup and manage tools and resources for specialized AI applications.",
+  "source_repo": "dmontgomery40/meta-mcp-server",
+  "source_url": "https://github.com/dmontgomery40/meta-mcp-server",
+  "install": "npx -y meta-mcp-server"
+}

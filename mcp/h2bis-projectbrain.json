@@ -1,0 +1,7 @@
+{
+  "name": "h2bis-projectbrain",
+  "description": "Connects AI agents to H2BIS ProjectBrain for managing projects, use cases, and capabilities.",
+  "source_repo": "h2bis-dev/h2bis-project-brain-mcp",
+  "source_url": "https://github.com/h2bis-dev/h2bis-project-brain-mcp/tree/HEAD/h2bis-pb-mcp",
+  "install": "npx -y h2bis-project-brain-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-travel-weather-server",
+  "description": "Provides weather forecast tools via the Model Context Protocol, enabling users to query weather data for destinations through natural language.",
+  "source_repo": "zral/mcp-ws11",
+  "source_url": "https://github.com/zral/mcp-ws11",
+  "install": "# git clone --depth 1 https://github.com/zral/mcp-ws11\n# See source for mcpServers config block"
+}

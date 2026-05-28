@@ -1,0 +1,7 @@
+{
+  "name": "case-chronology-mcp",
+  "description": "A Model Context Protocol server for building and managing chronological timelines of case events, enabling legal professionals to organize complex case histories with smart date parsing, document parsing, multi-format export, and advanced search.",
+  "source_repo": "medelman17/case-chronology-mcp",
+  "source_url": "https://github.com/medelman17/case-chronology-mcp",
+  "install": "npx -y case-chronology-mcp"
+}

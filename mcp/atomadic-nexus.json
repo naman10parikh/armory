@@ -1,0 +1,7 @@
+{
+  "name": "atomadic-nexus",
+  "description": "Trust layer for the agent economy with 32 tools covering trust gates, x402 micropayments, lineage tracking, and swarm coordination.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/atomadic-nexus",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/atomadic-nexus\n# See source for mcpServers config block"
+}

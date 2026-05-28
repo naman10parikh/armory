@@ -1,0 +1,7 @@
+{
+  "name": "perplexity",
+  "description": "Connector for the Perplexity API, to enable web search without leaving the MCP ecosystem.",
+  "source_repo": "perplexityai/modelcontextprotocol",
+  "source_url": "https://github.com/perplexityai/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://github.com/perplexityai/modelcontextprotocol\n# See source for mcpServers config block"
+}

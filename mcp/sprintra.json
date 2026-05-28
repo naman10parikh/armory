@@ -1,0 +1,7 @@
+{
+  "name": "sprintra",
+  "description": "AI-native project management providing persistent memory for coding agents across sessions with 17 MCP tools.",
+  "source_repo": "sprintra-io/sprintra-mcp",
+  "source_url": "https://github.com/sprintra-io/sprintra-mcp",
+  "install": "npx -y sprintra-mcp"
+}

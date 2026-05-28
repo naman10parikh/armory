@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-opcua",
+  "description": "Integrates with OPC UA industrial automation systems to enable reading and writing node values for monitoring and controlling connected devices",
+  "source_repo": "kukapay/opcua-mcp",
+  "source_url": "https://github.com/kukapay/opcua-mcp",
+  "install": "npx -y opcua-mcp"
+}

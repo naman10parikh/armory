@@ -1,0 +1,7 @@
+{
+  "name": "aponkratov-yandex-wiki",
+  "description": "Read and write Yandex Wiki pages and grids via the Yandex Wiki API.",
+  "source_repo": "aponkratov/ya-yandex-wiki-mcp",
+  "source_url": "https://github.com/aponkratov/ya-yandex-wiki-mcp",
+  "install": "npx -y ya-yandex-wiki-mcp"
+}

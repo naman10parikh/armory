@@ -1,0 +1,7 @@
+{
+  "name": "device-peripherals",
+  "description": "Provides peripheral device interaction capabilities for computer hardware including cameras, printers, audio devices, and displays, enabling image and video capture, print job management, audio recording and playback, and screen recording with cross-platform support and automatic device detection.",
+  "source_repo": "akshitsinha/mcp-device-server",
+  "source_url": "https://github.com/akshitsinha/mcp-device-server",
+  "install": "# git clone --depth 1 https://github.com/akshitsinha/mcp-device-server\n# See source for mcpServers config block"
+}

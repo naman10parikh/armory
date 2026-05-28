@@ -1,0 +1,7 @@
+{
+  "name": "billychl1-footballbin",
+  "description": "AI match predictions for Premier League and Champions League including scores, goal scorers, and corners.",
+  "source_repo": "billychl1/footballbin-mcp-server",
+  "source_url": "https://github.com/billychl1/footballbin-mcp-server",
+  "install": "npx -y footballbin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jjsantos01-jupyter-notebook-mcp",
+  "description": "connects Jupyter Notebook to Claude AI, allowing Claude to directly interact with and control Jupyter Notebooks.",
+  "source_repo": "jjsantos01/jupyter-notebook-mcp",
+  "source_url": "https://github.com/jjsantos01/jupyter-notebook-mcp",
+  "install": "npx -y jupyter-notebook-mcp"
+}

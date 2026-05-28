@@ -1,0 +1,7 @@
+{
+  "name": "shredgineer-archive-agent",
+  "description": "Semantic file tracker with OCR capabilities that indexes documents using vector search and natural language processing to enable intelligent querying of large document collections through watchlist monitoring and profile management.",
+  "source_repo": "shredengineer/archive-agent",
+  "source_url": "https://github.com/shredengineer/archive-agent",
+  "install": "# git clone --depth 1 https://github.com/shredengineer/archive-agent\n# See source for mcpServers config block"
+}

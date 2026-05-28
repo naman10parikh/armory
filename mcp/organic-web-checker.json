@@ -1,0 +1,7 @@
+{
+  "name": "organic-web-checker",
+  "description": "USDA NOP organic compliance checks — compare operation websites against live OID certificate data to surface verified or flagged products.",
+  "source_repo": "healersfind-alt/organic-web-checker-mcp",
+  "source_url": "https://github.com/healersfind-alt/organic-web-checker-mcp",
+  "install": "npx -y organic-web-checker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-treasury",
+  "description": "US federal financial data via the Treasury Fiscal Data API — query debt, spending, revenue, and exchange rate datasets.",
+  "source_repo": "pipeworx-io/mcp-treasury",
+  "source_url": "https://github.com/pipeworx-io/mcp-treasury",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-treasury\n# See source for mcpServers config block"
+}

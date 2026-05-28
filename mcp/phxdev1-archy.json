@@ -1,0 +1,7 @@
+{
+  "name": "phxdev1-archy",
+  "description": "Generates architectural diagrams from text descriptions or GitHub repositories using Mermaid syntax, supporting flowcharts, class diagrams, sequence diagrams, and repository evolution tracking.",
+  "source_repo": "phxdev1/archy-mcp",
+  "source_url": "https://github.com/phxdev1/archy-mcp",
+  "install": "npx -y archy-mcp"
+}

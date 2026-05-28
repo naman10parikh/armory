@@ -1,0 +1,7 @@
+{
+  "name": "atilioa-tesouro-direto",
+  "description": "Provides real-time access to Brazil's Treasury Direct bond market data, enabling users to retrieve market status, search bonds by type and maturity date, and access detailed information for investment analysis.",
+  "source_repo": "atilioa/tesouro-direto-mcp",
+  "source_url": "https://github.com/atilioa/tesouro-direto-mcp",
+  "install": "npx -y tesouro-direto-mcp"
+}

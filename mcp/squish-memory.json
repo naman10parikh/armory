@@ -1,0 +1,7 @@
+{
+  "name": "squish-memory",
+  "description": "Connect once. Remember everywhere. Squish gives ChatGPT, Claude Code, and every AI agent one shared memory. Stop re-explaining your project to every tool.",
+  "source_repo": "michielhdoteth/squish",
+  "source_url": "https://github.com/michielhdoteth/squish",
+  "install": "# git clone --depth 1 https://github.com/michielhdoteth/squish\n# See source for mcpServers config block"
+}

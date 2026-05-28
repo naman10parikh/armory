@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-huntflow",
+  "description": "Vacancies, candidates, and applicant management via the HuntFlow ATS API for recruiting workflows.",
+  "source_repo": "theyahia/huntflow-mcp",
+  "source_url": "https://github.com/theyahia/huntflow-mcp",
+  "install": "npx -y huntflow-mcp"
+}

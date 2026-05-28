@@ -1,0 +1,7 @@
+{
+  "name": "404f0x-google-colab",
+  "description": "MCP server for controlling Google Colab with notebook editing, runtime connection, shell commands, file operations, and GPU monitoring.",
+  "source_repo": "404f0x/better_colab_mcp",
+  "source_url": "https://github.com/404f0x/better_colab_mcp",
+  "install": "npx -y better_colab_mcp"
+}

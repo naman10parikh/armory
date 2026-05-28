@@ -1,0 +1,7 @@
+{
+  "name": "logotype-fixparser",
+  "description": "🎖 📇 ☁️ 🏠 📟 - FIX Protocol (send orders, market data, etc.) written in TypeScript.",
+  "source_repo": "",
+  "source_url": "https://gitlab.com/logotype/fixparser",
+  "install": "# git clone --depth 1 https://gitlab.com/logotype/fixparser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-edge-search",
+  "description": "Mcp Edge Search MCP server listed on mcp.so.",
+  "source_repo": "Intel420x/mcp-edge-search",
+  "source_url": "https://mcp.so/server/mcp-edge-search/Intel420x",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-edge-search/Intel420x\n# See source for mcpServers config block"
+}

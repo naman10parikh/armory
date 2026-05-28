@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [a11y-architect, build-error-resolver]
-tags: [ecc, subagent]
+tags: [subagent]
 ---
 ## What it is
 C++ build, CMake, and compilation error resolution specialist. Fixes build errors, linker issues, and template errors with minimal changes. Use when C++ builds fail.

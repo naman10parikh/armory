@@ -1,0 +1,7 @@
+{
+  "name": "aallsbury-qb-time",
+  "description": "Integrates with QuickBooks Time API to provide unified access for managing timesheets, users, projects, and generating reports.",
+  "source_repo": "aallsbury/qb-time-mcp-server",
+  "source_url": "https://github.com/aallsbury/qb-time-mcp-server",
+  "install": "npx -y qb-time-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "franccesco-hex",
+  "description": "Integrates with the Hex API to enable retrieval of project details, management of project runs, and execution of Hex workflows for automated data analysis and report generation.",
+  "source_repo": "franccesco/hex-mcp",
+  "source_url": "https://github.com/franccesco/hex-mcp",
+  "install": "npx -y hex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quantoracle",
+  "description": "Calculate options pricing, derivatives metrics, and risk management analytics.",
+  "source_repo": "quantoracledev/quantoracle",
+  "source_url": "https://github.com/quantoracledev/quantoracle",
+  "install": "# git clone --depth 1 https://github.com/quantoracledev/quantoracle\n# See source for mcpServers config block"
+}

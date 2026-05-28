@@ -1,0 +1,7 @@
+{
+  "name": "admit-coach",
+  "description": "Search 3,500+ US universities, check admission chances, and build personalized college lists.",
+  "source_repo": "",
+  "source_url": "https://admit-coach.com",
+  "install": "# git clone --depth 1 https://admit-coach.com\n# See source for mcpServers config block"
+}

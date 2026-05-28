@@ -1,0 +1,7 @@
+{
+  "name": "hupeng9995-browser-automation",
+  "description": "Integrates with web browsers through automated interactions to enable web navigation, content extraction, form filling, and screenshot capture with support for both headless and visible modes.",
+  "source_repo": "hupeng9995/browser-mcp",
+  "source_url": "https://github.com/hupeng9995/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

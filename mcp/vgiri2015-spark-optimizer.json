@@ -1,0 +1,7 @@
+{
+  "name": "vgiri2015-spark-optimizer",
+  "description": "Optimizes Apache Spark code by analyzing PySpark queries and applying performance enhancements for resource management, execution tuning, and query optimization, resulting in significantly faster job execution.",
+  "source_repo": "vgiri2015/ai-spark-mcp-server",
+  "source_url": "https://github.com/vgiri2015/ai-spark-mcp-server",
+  "install": "npx -y ai-spark-mcp-server"
+}

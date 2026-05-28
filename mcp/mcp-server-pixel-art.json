@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-pixel-art",
+  "description": "Mcp Server Pixel Art MCP server listed on mcp.so.",
+  "source_repo": "kfischer-okarin/mcp-server-pixel-art",
+  "source_url": "https://mcp.so/server/mcp-server-pixel-art/kfischer-okarin",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-pixel-art/kfischer-okarin\n# See source for mcpServers config block"
+}

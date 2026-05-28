@@ -1,0 +1,7 @@
+{
+  "name": "aovestdipaperino-tokensave",
+  "description": "Builds semantic code knowledge graphs from codebases in 15+ languages, giving AI agents pre-indexed symbol relationships and call graphs through 37 tools.",
+  "source_repo": "aovestdipaperino/tokensave",
+  "source_url": "https://github.com/aovestdipaperino/tokensave",
+  "install": "# git clone --depth 1 https://github.com/aovestdipaperino/tokensave\n# See source for mcpServers config block"
+}

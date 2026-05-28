@@ -1,0 +1,7 @@
+{
+  "name": "yeick010-agentshield-mcp",
+  "description": "DeFi tools for AI agents on Base. Live Uniswap V3 prices (slot0), on-chain agent scoring, and DeFi knowledge base. Pay-per-query via x402 micropayments in USDC.",
+  "source_repo": "yeick010/agentshield-mcp",
+  "source_url": "https://github.com/yeick010/agentshield-mcp",
+  "install": "npx -y agentshield-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adkit",
+  "description": "Run ad campaigns and browse ad libraries on Meta, Google, and TikTok via AI agents with a draft-first safety layer.",
+  "source_repo": "adkit/adkit-plugin",
+  "source_url": "https://github.com/adkit/adkit-plugin",
+  "install": "# git clone --depth 1 https://github.com/adkit/adkit-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "othmaneblial-term-mcp-deepseek",
+  "description": "A DeepSeek MCP-like Server for Terminal",
+  "source_repo": "OthmaneBlial/term_mcp_deepseek",
+  "source_url": "https://github.com/OthmaneBlial/term_mcp_deepseek",
+  "install": "# git clone --depth 1 https://github.com/OthmaneBlial/term_mcp_deepseek\n# See source for mcpServers config block"
+}

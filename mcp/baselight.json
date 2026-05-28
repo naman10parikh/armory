@@ -1,0 +1,7 @@
+{
+  "name": "baselight",
+  "description": "Query 70,000+ public datasets across finance, demographics, sports, and more via natural language.",
+  "source_repo": "",
+  "source_url": "https://baselight.ai",
+  "install": "# git clone --depth 1 https://baselight.ai\n# See source for mcpServers config block"
+}

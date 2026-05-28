@@ -1,0 +1,7 @@
+{
+  "name": "anuragb7-multi-document-rag",
+  "description": "Enables document processing with OCR, vector embeddings, and semantic search capabilities for efficient retrieval-augmented generation across multiple file formats including PDF, DOCX, PPTX, Excel, CSV, and images.",
+  "source_repo": "anuragb7/mcp-rag",
+  "source_url": "https://github.com/anuragb7/mcp-rag",
+  "install": "# git clone --depth 1 https://github.com/anuragb7/mcp-rag\n# See source for mcpServers config block"
+}

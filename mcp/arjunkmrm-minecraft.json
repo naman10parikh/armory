@@ -1,0 +1,7 @@
+{
+  "name": "arjunkmrm-minecraft",
+  "description": "Integrates with Minecraft to enable AI control and interaction within game environments for research, education, and automation.",
+  "source_repo": "arjunkmrm/mcp-minecraft",
+  "source_url": "https://github.com/arjunkmrm/mcp-minecraft",
+  "install": "# git clone --depth 1 https://github.com/arjunkmrm/mcp-minecraft\n# See source for mcpServers config block"
+}

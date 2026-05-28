@@ -1,0 +1,7 @@
+{
+  "name": "dam-butler-breville",
+  "description": "Integrates with Breville's digital asset management system using natural language processing and brand intelligence to provide quick access to brand-compliant assets across different regions, use cases, and 14 official Brandfolder sections with confidence scoring and OAuth authentication.",
+  "source_repo": "vnsavitri/dam-butler-mcp",
+  "source_url": "https://github.com/vnsavitri/dam-butler-mcp",
+  "install": "npx -y dam-butler-mcp"
+}

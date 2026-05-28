@@ -1,0 +1,7 @@
+{
+  "name": "shigechika-junos",
+  "description": "Manages and monitors Juniper Networks JunOS devices programmatically.",
+  "source_repo": "shigechika/junos-mcp",
+  "source_url": "https://github.com/shigechika/junos-mcp",
+  "install": "npx -y junos-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wiseman-osm",
+  "description": "Provides direct access to OpenStreetMap geospatial data through SQL queries, enabling location-based analysis and extraction of structured information about geographic features from the complete OSM dataset.",
+  "source_repo": "wiseman/osm-mcp",
+  "source_url": "https://github.com/wiseman/osm-mcp",
+  "install": "npx -y osm-mcp"
+}

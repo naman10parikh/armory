@@ -1,0 +1,7 @@
+{
+  "name": "nudg3",
+  "description": "Monitor brand visibility across ChatGPT, Claude, Gemini, AI Overviews, and Perplexity.",
+  "source_repo": "nudg3-ai/nudg3-mcp",
+  "source_url": "https://github.com/nudg3-ai/nudg3-mcp",
+  "install": "npx -y nudg3-mcp"
+}

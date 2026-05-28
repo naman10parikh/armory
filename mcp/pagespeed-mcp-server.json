@@ -1,0 +1,7 @@
+{
+  "name": "pagespeed-mcp-server",
+  "description": "Enables AI assistants to perform comprehensive web performance analysis using Google's PageSpeed Insights API, including metrics, best practices, SEO, and accessibility audits.",
+  "source_repo": "mcpflow/PhialsBasement_Pagespeed-MCP-Server",
+  "source_url": "https://github.com/mcpflow/PhialsBasement_Pagespeed-MCP-Server",
+  "install": "npx -y PhialsBasement_Pagespeed-MCP-Server"
+}

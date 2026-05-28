@@ -1,0 +1,7 @@
+{
+  "name": "benjaminr-chrome-devtools",
+  "description": "Connects to Chrome's remote debugging interface via WebSocket to enable browser automation, network monitoring, DOM inspection, JavaScript execution, console analysis, performance metrics collection, and storage management for web development and testing workflows.",
+  "source_repo": "benjaminr/chrome-devtools-mcp",
+  "source_url": "https://github.com/benjaminr/chrome-devtools-mcp",
+  "install": "npx -y chrome-devtools-mcp"
+}

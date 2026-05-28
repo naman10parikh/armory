@@ -1,0 +1,7 @@
+{
+  "name": "vanikya-ai",
+  "description": "Generate images, videos, vectors, and Lottie animations, run SEO analysis, and access creative insights via the Vanikya AI platform.",
+  "source_repo": "vanikya/vanikya-ai-mcp",
+  "source_url": "https://github.com/vanikya/vanikya-ai-mcp",
+  "install": "npx -y vanikya-ai-mcp"
+}

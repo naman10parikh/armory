@@ -1,0 +1,7 @@
+{
+  "name": "glean-mcp-server",
+  "description": "Glean Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "rahul-roy-glean/glean-mcp-server",
+  "source_url": "https://mcp.so/server/glean-mcp-server/rahul-roy-glean",
+  "install": "npx -y glean-mcp-server"
+}

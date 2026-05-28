@@ -1,0 +1,7 @@
+{
+  "name": "apache-doris",
+  "description": "Enables direct SQL query execution and metadata retrieval from Apache Doris databases without switching contexts.",
+  "source_repo": "apache/doris-mcp-server",
+  "source_url": "https://github.com/apache/doris-mcp-server",
+  "install": "npx -y doris-mcp-server"
+}

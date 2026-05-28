@@ -1,0 +1,7 @@
+{
+  "name": "android-mcp-server",
+  "description": "Android Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "jiantao88/android-mcp-server",
+  "source_url": "https://mcp.so/server/android-mcp-server/jiantao88",
+  "install": "npx -y android-mcp-server"
+}

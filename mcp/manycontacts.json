@@ -1,0 +1,7 @@
+{
+  "name": "manycontacts",
+  "description": "WhatsApp Business CRM for managing contacts, sending messages, running campaigns, and configuring AI agents.",
+  "source_repo": "manycontacts/mcp",
+  "source_url": "https://github.com/manycontacts/mcp",
+  "install": "# git clone --depth 1 https://github.com/manycontacts/mcp\n# See source for mcpServers config block"
+}

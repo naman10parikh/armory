@@ -1,0 +1,7 @@
+{
+  "name": "mossland-alpha",
+  "description": "Korean crypto and AI media MCP providing channel stance, daily briefs, RAG Q&A, and canonical data for Mossland.",
+  "source_repo": "mosslandopendevs/alpha-mcp",
+  "source_url": "https://github.com/mosslandopendevs/alpha-mcp",
+  "install": "npx -y alpha-mcp"
+}

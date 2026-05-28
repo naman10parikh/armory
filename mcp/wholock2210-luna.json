@@ -1,0 +1,7 @@
+{
+  "name": "wholock2210-luna",
+  "description": "Local development server providing file system operations, git workflows, search, command execution, and migration snapshots with built-in safety guardrails.",
+  "source_repo": "wholock2210/luna-mcp",
+  "source_url": "https://github.com/wholock2210/luna-mcp",
+  "install": "npx -y luna-mcp"
+}

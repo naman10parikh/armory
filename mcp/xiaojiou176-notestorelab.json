@@ -1,0 +1,7 @@
+{
+  "name": "xiaojiou176-notestorelab",
+  "description": "Local-first Apple Notes recovery and review for forensics case investigation.",
+  "source_repo": "xiaojiou176-open/apple-notes-forensics",
+  "source_url": "https://github.com/xiaojiou176-open/apple-notes-forensics",
+  "install": "# git clone --depth 1 https://github.com/xiaojiou176-open/apple-notes-forensics\n# See source for mcpServers config block"
+}

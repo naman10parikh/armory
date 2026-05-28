@@ -1,0 +1,7 @@
+{
+  "name": "quantgeekdev-fiscal-data",
+  "description": "Integrates with the US Treasury's Fiscal Data API to fetch, analyze, and generate reports on treasury statements and historical financial data.",
+  "source_repo": "quantgeekdev/fiscal-data-mcp",
+  "source_url": "https://github.com/quantgeekdev/fiscal-data-mcp",
+  "install": "npx -y fiscal-data-mcp"
+}

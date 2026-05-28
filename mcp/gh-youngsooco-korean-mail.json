@@ -1,0 +1,7 @@
+{
+  "name": "gh-youngsooco-korean-mail",
+  "description": "Provides a unified inbox for Korean email services — Naver, Daum, and Gmail — with AI-powered summarization, translation, and spam detection.",
+  "source_repo": "youngsooco/k-mail-mcp",
+  "source_url": "https://github.com/youngsooco/k-mail-mcp",
+  "install": "npx -y k-mail-mcp"
+}

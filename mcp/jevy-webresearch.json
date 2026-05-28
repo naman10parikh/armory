@@ -1,0 +1,7 @@
+{
+  "name": "jevy-webresearch",
+  "description": "Enables web browsing capabilities through a Playwright-powered browser with tools for Google searching, visiting webpages, and capturing screenshots while handling common challenges like consent dialogs and bot detection.",
+  "source_repo": "jevy/mcp-webresearch",
+  "source_url": "https://github.com/jevy/mcp-webresearch",
+  "install": "# git clone --depth 1 https://github.com/jevy/mcp-webresearch\n# See source for mcpServers config block"
+}

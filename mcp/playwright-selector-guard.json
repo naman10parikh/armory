@@ -1,0 +1,7 @@
+{
+  "name": "playwright-selector-guard",
+  "description": "Playwright test selector fragility analysis with healing suggestions, approval routing, and action receipts.",
+  "source_repo": "clauxel/playwright-selector-guard-mcp",
+  "source_url": "https://github.com/clauxel/playwright-selector-guard-mcp",
+  "install": "npx -y playwright-selector-guard-mcp"
+}

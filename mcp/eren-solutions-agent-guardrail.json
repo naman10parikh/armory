@@ -1,0 +1,7 @@
+{
+  "name": "eren-solutions-agent-guardrail",
+  "description": "Action-level governance for AI agents with policy enforcement, spend caps, and flight recording.",
+  "source_repo": "eren-solutions/agent-guardrail",
+  "source_url": "https://github.com/eren-solutions/agent-guardrail",
+  "install": "# git clone --depth 1 https://github.com/eren-solutions/agent-guardrail\n# See source for mcpServers config block"
+}

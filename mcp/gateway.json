@@ -1,0 +1,7 @@
+{
+  "name": "gateway",
+  "description": "Gateway MCP server listed on mcp.so.",
+  "source_repo": "centralmind/gateway",
+  "source_url": "https://mcp.so/server/gateway/centralmind",
+  "install": "# git clone --depth 1 https://mcp.so/server/gateway/centralmind\n# See source for mcpServers config block"
+}

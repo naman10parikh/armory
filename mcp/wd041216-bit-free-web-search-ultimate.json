@@ -1,0 +1,7 @@
+{
+  "name": "wd041216-bit-free-web-search-ultimate",
+  "description": "Zero-cost, privacy-first universal web search MCP server. Enforces a **Search-First** paradigm — instructs LLMs to retrieve real-time information before answering factual questions. Supports 10+ search engines (DuckDuckGo, Bing, Google, Brave, Wikipedia, Arxiv, YouTube, Reddit) and deep page browsing. No API key required.",
+  "source_repo": "wd041216-bit/free-web-search-ultimate",
+  "source_url": "https://github.com/wd041216-bit/free-web-search-ultimate",
+  "install": "# git clone --depth 1 https://github.com/wd041216-bit/free-web-search-ultimate\n# See source for mcpServers config block"
+}

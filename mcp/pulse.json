@@ -1,0 +1,7 @@
+{
+  "name": "pulse",
+  "description": "Access comprehensive travel and location data to streamline trip planning and destination research. Discover curated activities and points of interest for any location worldwide. Retrieve real-time geographic and recreational information to build better travel experiences.",
+  "source_repo": "",
+  "source_url": "https://1trip.app/developers",
+  "install": "# git clone --depth 1 https://1trip.app/developers\n# See source for mcpServers config block"
+}

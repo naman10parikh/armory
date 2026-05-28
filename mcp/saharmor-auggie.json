@@ -1,0 +1,7 @@
+{
+  "name": "saharmor-auggie",
+  "description": "Run Augment Code as a coding agent via the Auggie CLI",
+  "source_repo": "saharmor/auggie-mcp",
+  "source_url": "https://github.com/saharmor/auggie-mcp",
+  "install": "npx -y auggie-mcp"
+}

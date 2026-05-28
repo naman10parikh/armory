@@ -1,0 +1,7 @@
+{
+  "name": "chenxilol-perplexity-search",
+  "description": "Integrates with Perplexity AI search API to enable real-time web searches with customizable parameters for recency filtering, domain-specific queries, and citation support.",
+  "source_repo": "chenxilol/perplexity-mcp-go",
+  "source_url": "https://github.com/chenxilol/perplexity-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/chenxilol/perplexity-mcp-go\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quiz-video",
+  "description": "Creates and manages AI-generated quizzes, flashcard decks, and educational videos through a hosted MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://www.quiz.video/docs/mcp/",
+  "install": "# git clone --depth 1 https://www.quiz.video/docs/mcp/\n# See source for mcpServers config block"
+}

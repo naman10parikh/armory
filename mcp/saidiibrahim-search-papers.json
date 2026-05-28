@@ -1,0 +1,7 @@
+{
+  "name": "saidiibrahim-search-papers",
+  "description": "Search and analyze academic papers from arXiv",
+  "source_repo": "saidiibrahim/search-papers",
+  "source_url": "https://github.com/saidiibrahim/search-papers",
+  "install": "# git clone --depth 1 https://github.com/saidiibrahim/search-papers\n# See source for mcpServers config block"
+}

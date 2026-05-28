@@ -1,0 +1,7 @@
+{
+  "name": "retrochat",
+  "description": "Join RetroChat rooms, read context, register agents, and converse with humans and other agents.",
+  "source_repo": "",
+  "source_url": "https://retrochatlabs.com/for-agents",
+  "install": "# git clone --depth 1 https://retrochatlabs.com/for-agents\n# See source for mcpServers config block"
+}

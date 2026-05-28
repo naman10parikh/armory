@@ -1,0 +1,7 @@
+{
+  "name": "clappia",
+  "description": "Integrates with Clappia's no-code platform to manage form submissions, app configurations, and workflow automation with advanced filtering, data aggregation, and complete lifecycle management capabilities.",
+  "source_repo": "clappia-dev/clappia-mcp",
+  "source_url": "https://github.com/clappia-dev/clappia-mcp",
+  "install": "npx -y clappia-mcp"
+}

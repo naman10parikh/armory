@@ -1,0 +1,7 @@
+{
+  "name": "ihacksubhodip-ios-mobile-automation",
+  "description": "Provides iOS mobile automation capabilities through Appium and XCUITest integration for taking screenshots, launching apps, finding UI elements, tapping controls, and performing text input on iOS simulators.",
+  "source_repo": "ihacksubhodip/mobile-automation-mcp-server",
+  "source_url": "https://github.com/ihacksubhodip/mobile-automation-mcp-server",
+  "install": "npx -y mobile-automation-mcp-server"
+}

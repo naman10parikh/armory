@@ -1,0 +1,7 @@
+{
+  "name": "xcollantes-jira",
+  "description": "Integrates with Jira through the jira-cli command-line tool for ticket management, sprint operations, and workflow automation.",
+  "source_repo": "xcollantes/jira-mcp",
+  "source_url": "https://github.com/xcollantes/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

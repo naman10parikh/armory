@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-dailymed",
+  "description": "Query FDA drug label information (Structured Product Labels) from DailyMed, the official NLM drug information database.",
+  "source_repo": "pipeworx-io/mcp-dailymed",
+  "source_url": "https://github.com/pipeworx-io/mcp-dailymed",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-dailymed\n# See source for mcpServers config block"
+}

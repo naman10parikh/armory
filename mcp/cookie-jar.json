@@ -1,0 +1,7 @@
+{
+  "name": "cookie-jar",
+  "description": "Provides cookie management capabilities for web automation and testing workflows, enabling storage, retrieval, and manipulation of session state and authentication cookies across different web services.",
+  "source_repo": "bnookala/mcp-cookiejar",
+  "source_url": "https://github.com/bnookala/mcp-cookiejar",
+  "install": "# git clone --depth 1 https://github.com/bnookala/mcp-cookiejar\n# See source for mcpServers config block"
+}

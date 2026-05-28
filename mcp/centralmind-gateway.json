@@ -1,0 +1,7 @@
+{
+  "name": "centralmind-gateway",
+  "description": "MCP and MCP SSE Server that automatically generate API based on database schema and data. Supports PostgreSQL, Clickhouse, MySQL, Snowflake, BigQuery, Supabase",
+  "source_repo": "centralmind/gateway",
+  "source_url": "https://github.com/centralmind/gateway",
+  "install": "# git clone --depth 1 https://github.com/centralmind/gateway\n# See source for mcpServers config block"
+}

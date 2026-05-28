@@ -1,0 +1,7 @@
+{
+  "name": "jtwolfe-oparl",
+  "description": "Integrates with parliamentary information systems through the OParl API to provide structured access to government bodies, elected officials, meetings, documents, and legislative processes across multiple implementations including Munich, Cologne, and Hamburg.",
+  "source_repo": "jtwolfe/oparl-mcp-server",
+  "source_url": "https://github.com/jtwolfe/oparl-mcp-server",
+  "install": "npx -y oparl-mcp-server"
+}

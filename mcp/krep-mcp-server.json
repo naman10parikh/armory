@@ -1,0 +1,7 @@
+{
+  "name": "krep-mcp-server",
+  "description": "Krep Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "bmorphism/krep-mcp-server",
+  "source_url": "https://mcp.so/server/krep-mcp-server/bmorphism",
+  "install": "npx -y krep-mcp-server"
+}

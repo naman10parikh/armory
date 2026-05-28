@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-postgres-mcp",
+  "description": "Query and manage PostgreSQL databases from Claude Code, Cursor, and any MCP client, with read-only by default and built-in schema introspection, EXPLAIN, and performance diagnostics.",
+  "source_repo": "YawLabs/postgres-mcp",
+  "source_url": "https://github.com/YawLabs/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

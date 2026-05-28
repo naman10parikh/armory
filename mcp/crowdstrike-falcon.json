@@ -1,0 +1,7 @@
+{
+  "name": "crowdstrike-falcon",
+  "description": "Connect with the CrowdStrike Falcon platform for intelligent security analysis, providing programmatic access to detections, incidents, behaviors, threat intelligence, hosts, vulnerabilities, and identity protection capabilities.",
+  "source_repo": "crowdstrike/falcon-mcp",
+  "source_url": "https://github.com/crowdstrike/falcon-mcp",
+  "install": "npx -y falcon-mcp"
+}

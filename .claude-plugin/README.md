@@ -2,8 +2,8 @@
 
 One install gives your Claude Code agent:
 - **Armory MCP** (`armory-mcp`) — `search_components` + `get_component` + `submit_component` across 24,000+ cataloged harness pieces
-- **900 vendored skills** from `gear/skills/` — ready to invoke immediately
-- **500 vendored commands** from `gear/commands/`
+- **900 vendored skills** from `skills/` — ready to invoke immediately
+- **500 vendored commands** from `commands/`
 - **The `armory` skill** — teaches the agent *when and how* to reach into the registry
 
 ## Install
@@ -39,14 +39,14 @@ search_components query="memory store"
 get_component name="mem0-mcp"
 ```
 
-## Armory vs ECC
+## Armory vs community skill packs
 
-| | ECC | Armory |
+| | Community packs | Armory |
 |---|---|---|
-| Component source | hand-curated set | aggregator of 24k+ from 7 sources |
+| Component source | hand-curated sets | aggregator of 24k+ from 7 sources |
 | MCP bundled | no | yes — `armory-mcp` (search + install) |
-| Skills | 246 | 900 vendored + growing |
-| Commands | 76 | 500 |
+| Skills | hundreds | 900 vendored + growing |
+| Commands | dozens | 500 |
 | Self-updating | manual | `armory update` pulls latest catalog |
 
 ## More

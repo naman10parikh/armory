@@ -1,0 +1,7 @@
+{
+  "name": "meshseeks",
+  "description": "Coordinates specialized coding agents in a mesh network to decompose complex programming problems into parallel tasks, enabling simultaneous analysis, implementation, testing, and documentation with intelligent dependency management and result aggregation.",
+  "source_repo": "twalichiewicz/meshseeks",
+  "source_url": "https://github.com/twalichiewicz/meshseeks",
+  "install": "# git clone --depth 1 https://github.com/twalichiewicz/meshseeks\n# See source for mcpServers config block"
+}

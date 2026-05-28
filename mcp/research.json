@@ -1,0 +1,7 @@
+{
+  "name": "research",
+  "description": "UK property research tools - crime stats, schools, demographics, valuations for AI.",
+  "source_repo": "propbar/mcp",
+  "source_url": "https://github.com/propbar/mcp",
+  "install": "# git clone --depth 1 https://github.com/propbar/mcp\n# See source for mcpServers config block"
+}

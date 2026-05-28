@@ -1,0 +1,7 @@
+{
+  "name": "felores-cloudinary",
+  "description": "Integrates with Cloudinary to enable seamless image and video uploads with customizable parameters for dynamic content management.",
+  "source_repo": "felores/cloudinary-mcp-server",
+  "source_url": "https://github.com/felores/cloudinary-mcp-server",
+  "install": "npx -y cloudinary-mcp-server"
+}

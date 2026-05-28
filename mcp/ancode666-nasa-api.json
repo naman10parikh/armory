@@ -1,0 +1,7 @@
+{
+  "name": "ancode666-nasa-api",
+  "description": "Integrates with NASA APIs to provide real-time astronomical data, space weather information, Earth imagery, and exoplanet research capabilities without requiring technical knowledge of NASA's API structure.",
+  "source_repo": "ancode666/nasa-mcp",
+  "source_url": "https://github.com/ancode666/nasa-mcp",
+  "install": "npx -y nasa-mcp"
+}

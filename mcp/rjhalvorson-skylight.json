@@ -1,0 +1,7 @@
+{
+  "name": "rjhalvorson-skylight",
+  "description": "Connects AI assistants to Skylight family calendars for managing events, chores, grocery lists, and rewards.",
+  "source_repo": "rjhalvorson/skylight-mcp",
+  "source_url": "https://github.com/rjhalvorson/skylight-mcp",
+  "install": "npx -y skylight-mcp"
+}

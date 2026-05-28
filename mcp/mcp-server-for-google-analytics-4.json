@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-google-analytics-4",
+  "description": "Enables LLMs to interact with Google Analytics 4 data through the Google Analytics Data API, supporting standard reports, real-time data, and metadata retrieval.",
+  "source_repo": "harshfolio/mcp-server-ga4",
+  "source_url": "https://github.com/harshfolio/mcp-server-ga4",
+  "install": "# git clone --depth 1 https://github.com/harshfolio/mcp-server-ga4\n# See source for mcpServers config block"
+}

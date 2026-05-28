@@ -1,0 +1,7 @@
+{
+  "name": "base-base-mcp",
+  "description": "Base Network integration for onchain tools, allowing interaction with Base Network and Coinbase API for wallet management, fund transfers, smart contracts, and DeFi operations",
+  "source_repo": "base/base-mcp",
+  "source_url": "https://github.com/base/base-mcp",
+  "install": "npx -y base-mcp"
+}

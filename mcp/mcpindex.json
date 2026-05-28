@@ -1,0 +1,7 @@
+{
+  "name": "mcpindex",
+  "description": "Enables LLMs to automatically discover and invoke suitable MCP tools, eliminating the need to manually find and configure suitable MCP tools for every task",
+  "source_repo": "",
+  "source_url": "https://www.npmjs.com/package/@mcpindex/server",
+  "install": "npx -y @mcpindex"
+}

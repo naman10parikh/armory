@@ -1,0 +1,7 @@
+{
+  "name": "close",
+  "description": "Sales CRM with built-in calling, email, SMS, and pipeline management",
+  "source_repo": "",
+  "source_url": "https://www.close.com/integrations/close-mcp",
+  "install": "# git clone --depth 1 https://www.close.com/integrations/close-mcp\n# See source for mcpServers config block"
+}

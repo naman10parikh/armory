@@ -1,0 +1,7 @@
+{
+  "name": "woogoro-hvac-quote-analyzer",
+  "description": "Paste any HVAC quote into Claude/Cursor/ChatGPT and Woogoro HVAC MCP audits it: - Detects oversizing (proposed tonnage vs Manual J load calculation) - Flags R-410A compliance for 2026+ installs (EPA AIM Act phasedown to A2L refrigerants like R-454B / R-32) - Checks SEER2 / HSPF2 efficiency vs federa",
+  "source_repo": "",
+  "source_url": "https://woogoro.com/hvac-quote-analyzer.html",
+  "install": "# git clone --depth 1 https://woogoro.com/hvac-quote-analyzer.html\n# See source for mcpServers config block"
+}

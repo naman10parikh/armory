@@ -1,0 +1,7 @@
+{
+  "name": "rubix1138-askew",
+  "description": "DeFi yields, staking routing, semantic research, and security intelligence via x402 micropayments on Base.",
+  "source_repo": "rubix1138/askew-mcp",
+  "source_url": "https://github.com/rubix1138/askew-mcp",
+  "install": "npx -y askew-mcp"
+}

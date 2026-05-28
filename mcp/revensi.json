@@ -1,0 +1,7 @@
+{
+  "name": "revensi",
+  "description": "Domain scanning API for AI agents via the Revensi platform.",
+  "source_repo": "",
+  "source_url": "https://mcp.revensi.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.revensi.com/mcp\n# See source for mcpServers config block"
+}

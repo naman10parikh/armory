@@ -1,0 +1,7 @@
+{
+  "name": "dreamc0der-ai-proton-mail-bridge",
+  "description": "Provides email access through Proton Mail Bridge with local SQLite caching, FTS5 full-text search, and comprehensive IMAP/SMTP operations.",
+  "source_repo": "dreamc0der-ai/proton-mail-mcp",
+  "source_url": "https://github.com/dreamc0der-ai/proton-mail-mcp",
+  "install": "npx -y proton-mail-mcp"
+}

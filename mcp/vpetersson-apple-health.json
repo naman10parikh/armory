@@ -1,0 +1,7 @@
+{
+  "name": "vpetersson-apple-health",
+  "description": "Query Apple Health export data using DuckDB with support for records, workouts, ECG readings, and GPS routes.",
+  "source_repo": "vpetersson/apple-health-mcp-server",
+  "source_url": "https://github.com/vpetersson/apple-health-mcp-server",
+  "install": "npx -y apple-health-mcp-server"
+}

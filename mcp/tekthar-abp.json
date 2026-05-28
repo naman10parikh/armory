@@ -1,0 +1,7 @@
+{
+  "name": "tekthar-abp",
+  "description": "Auto-generate MCP tools from ABP Framework application services with permission and multi-tenant support.",
+  "source_repo": "tekthar/abp-mcp",
+  "source_url": "https://github.com/tekthar/abp-mcp",
+  "install": "npx -y abp-mcp"
+}

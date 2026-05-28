@@ -1,0 +1,7 @@
+{
+  "name": "lmorg-web-scraper",
+  "description": "Provides web scraping capabilities using Chrome's headless browser with automatic HTTP fallback, handling JavaScript-heavy sites and single-page applications while extracting article content and stripping HTML tags to reduce token count for LLM processing.",
+  "source_repo": "lmorg/mcp-web-scraper",
+  "source_url": "https://github.com/lmorg/mcp-web-scraper",
+  "install": "# git clone --depth 1 https://github.com/lmorg/mcp-web-scraper\n# See source for mcpServers config block"
+}

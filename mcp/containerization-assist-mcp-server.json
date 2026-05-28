@@ -1,0 +1,7 @@
+{
+  "name": "containerization-assist-mcp-server",
+  "description": "An AI-powered containerization assistant that helps you build, scan, and deploy Docker containers through VS Code and other MCP-compatible tools.",
+  "source_repo": "Azure/containerization-assist",
+  "source_url": "https://github.com/Azure/containerization-assist",
+  "install": "# git clone --depth 1 https://github.com/Azure/containerization-assist\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hangfire",
+  "description": "Enables AI assistants to enqueue background jobs in Hangfire, a popular .NET job scheduling library, for executing server-side processing tasks without additional code.",
+  "source_repo": "nikiforovall/hangfire-mcp",
+  "source_url": "https://github.com/nikiforovall/hangfire-mcp",
+  "install": "npx -y hangfire-mcp"
+}

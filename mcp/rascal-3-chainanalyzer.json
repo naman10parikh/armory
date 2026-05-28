@@ -1,0 +1,7 @@
+{
+  "name": "rascal-3-chainanalyzer",
+  "description": "Multi-chain AML risk scoring, sanctions screening, and transaction tracing across BTC, ETH, Polygon, Avalanche, and Solana.",
+  "source_repo": "rascal-3/chainanalyzer-mcp",
+  "source_url": "https://github.com/rascal-3/chainanalyzer-mcp",
+  "install": "npx -y chainanalyzer-mcp"
+}

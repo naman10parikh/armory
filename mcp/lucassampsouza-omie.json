@@ -1,0 +1,7 @@
+{
+  "name": "lucassampsouza-omie",
+  "description": "Integrates with OMIE ERP to manage finances, suppliers, accounts payable and receivable, bank transactions, and cash flow through 27 tools.",
+  "source_repo": "lucassampsouza/omie-mcp",
+  "source_url": "https://github.com/lucassampsouza/omie-mcp",
+  "install": "npx -y omie-mcp"
+}

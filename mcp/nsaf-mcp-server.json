@@ -1,0 +1,7 @@
+{
+  "name": "nsaf-mcp-server",
+  "description": "Nsaf Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ariunbolor/nsaf-mcp-server",
+  "source_url": "https://mcp.so/server/nsaf-mcp-server/ariunbolor",
+  "install": "npx -y nsaf-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "replica882-twitter-bridge",
+  "description": "Connects to Twitter/X via browser automation with 19 tools for posting, searching, and managing interactions.",
+  "source_repo": "replica882/twitter-bridge-mcp",
+  "source_url": "https://github.com/replica882/twitter-bridge-mcp",
+  "install": "npx -y twitter-bridge-mcp"
+}

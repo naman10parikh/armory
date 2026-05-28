@@ -1,0 +1,7 @@
+{
+  "name": "radutopala-onemcp",
+  "description": "Aggregates tools from multiple MCP servers with TF-IDF semantic search for natural language tool discovery",
+  "source_repo": "radutopala/onemcp",
+  "source_url": "https://github.com/radutopala/onemcp",
+  "install": "# git clone --depth 1 https://github.com/radutopala/onemcp\n# See source for mcpServers config block"
+}

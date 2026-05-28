@@ -1,0 +1,7 @@
+{
+  "name": "p-l-ta-macos-mail",
+  "description": "Search, read, send, and manage email via macOS Mail.app across all configured accounts.",
+  "source_repo": "p-l-ta/mail-mcp",
+  "source_url": "https://github.com/p-l-ta/mail-mcp",
+  "install": "npx -y mail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zueai-mcp-manager",
+  "description": "Simple Web UI to install and manage MCP servers for Claude Desktop App.",
+  "source_repo": "zueai/mcp-manager",
+  "source_url": "https://github.com/zueai/mcp-manager",
+  "install": "# git clone --depth 1 https://github.com/zueai/mcp-manager\n# See source for mcpServers config block"
+}

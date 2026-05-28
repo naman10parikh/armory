@@ -1,0 +1,7 @@
+{
+  "name": "claude-code",
+  "description": "Use Claude Code as an MCP server.",
+  "source_repo": "",
+  "source_url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/tutorials#use-claude-code-as-an-mcp-server",
+  "install": "# git clone --depth 1 https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/tutorials#use-claude-code-as-an-mcp-server\n# See source for mcpServers config block"
+}

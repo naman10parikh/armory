@@ -1,0 +1,7 @@
+{
+  "name": "xepayac-desktop-automation",
+  "description": "Suite of 6 MCP servers providing 53 tools for browser automation, email, image editing, document processing, and OCR.",
+  "source_repo": "xepayac/mcp",
+  "source_url": "https://github.com/xepayac/mcp",
+  "install": "# git clone --depth 1 https://github.com/xepayac/mcp\n# See source for mcpServers config block"
+}

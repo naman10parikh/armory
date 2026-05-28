@@ -1,0 +1,7 @@
+{
+  "name": "emtailabs-xray-vision",
+  "description": "AI-powered codebase analysis with call graphs, security scanning, dead code detection, and complexity metrics.",
+  "source_repo": "",
+  "source_url": "https://mcp.emtailabs.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.emtailabs.com/mcp\n# See source for mcpServers config block"
+}

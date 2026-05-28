@@ -1,0 +1,7 @@
+{
+  "name": "vjcitn-bioc-tcga",
+  "description": "Conversational access to TCGA cancer genomics data through Bioconductor packages for research workflows",
+  "source_repo": "vjcitn/bioctcgamcp",
+  "source_url": "https://github.com/vjcitn/bioctcgamcp",
+  "install": "# git clone --depth 1 https://github.com/vjcitn/bioctcgamcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xiaojiou176-provenote",
+  "description": "First-party MCP server for drafts, research threads, auditable runs, and knowledge search.",
+  "source_repo": "xiaojiou176-open/provenote",
+  "source_url": "https://github.com/xiaojiou176-open/provenote",
+  "install": "# git clone --depth 1 https://github.com/xiaojiou176-open/provenote\n# See source for mcpServers config block"
+}

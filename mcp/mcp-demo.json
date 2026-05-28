@@ -1,0 +1,7 @@
+{
+  "name": "mcp-demo",
+  "description": "Mcp Demo MCP server listed on mcp.so.",
+  "source_repo": "MCPStudio/mcp-demo",
+  "source_url": "https://mcp.so/server/mcp-demo/MCPStudio",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-demo/MCPStudio\n# See source for mcpServers config block"
+}

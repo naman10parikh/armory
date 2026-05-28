@@ -1,0 +1,7 @@
+{
+  "name": "paperclip-mcp",
+  "description": "MCP server that exposes the Paperclip control plane API as tools for Claude Code agents — manage issues, coordinate agents, post comments, and orchestrate work without direct API calls.",
+  "source_repo": "bruhsb/paperclip-mcp",
+  "source_url": "https://github.com/bruhsb/paperclip-mcp",
+  "install": "npx -y paperclip-mcp"
+}

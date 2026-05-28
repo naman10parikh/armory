@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [perl-hooks, perl-patterns]
-tags: [ecc, rules, perl]
+tags: [rules, perl]
 ---
 ## What it is
 perl rule: apply when working on perl and you need Perl Coding Style.

@@ -1,0 +1,7 @@
+{
+  "name": "pierrebrunelle-openai-mcp-server",
+  "description": "Leverage OpenAI's language models through a standardized interface.",
+  "source_repo": "pierrebrunelle/mcp-server-openai",
+  "source_url": "https://github.com/pierrebrunelle/mcp-server-openai",
+  "install": "# git clone --depth 1 https://github.com/pierrebrunelle/mcp-server-openai\n# See source for mcpServers config block"
+}

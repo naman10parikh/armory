@@ -1,0 +1,7 @@
+{
+  "name": "boolsai-directory",
+  "description": "Indexed ecommerce site directory with vendor lookups and brands searchable by city, market, and founder.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/boolsai-directory",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/boolsai-directory\n# See source for mcpServers config block"
+}

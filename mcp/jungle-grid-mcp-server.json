@@ -1,0 +1,7 @@
+{
+  "name": "jungle-grid-mcp-server",
+  "description": "MCP server for Jungle Grid, an agentic GPU execution layer that lets AI agents estimate, submit, monitor, and fetch logs for inference, training, fine-tuning, and batch workloads.",
+  "source_repo": "Jungle-Grid/mcp-server",
+  "source_url": "https://github.com/Jungle-Grid/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Jungle-Grid/mcp-server\n# See source for mcpServers config block"
+}

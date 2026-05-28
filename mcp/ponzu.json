@@ -1,0 +1,7 @@
+{
+  "name": "ponzu",
+  "description": "ERC-20 token launchpad on Ethereum for deploying tokens, managing presales, swapping, and farming via AI agents.",
+  "source_repo": "ponzutech/ponzu_mcp",
+  "source_url": "https://github.com/ponzutech/ponzu_mcp",
+  "install": "npx -y ponzu_mcp"
+}

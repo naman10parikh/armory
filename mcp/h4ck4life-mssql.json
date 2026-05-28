@@ -1,0 +1,7 @@
+{
+  "name": "h4ck4life-mssql",
+  "description": "Enables read-only SQL queries against Microsoft SQL Server databases with configurable timeouts, connection pooling, and write operation detection for secure data analysis",
+  "source_repo": "h4ck4life/mssql_mcp_server_ts",
+  "source_url": "https://github.com/h4ck4life/mssql_mcp_server_ts",
+  "install": "# git clone --depth 1 https://github.com/h4ck4life/mssql_mcp_server_ts\n# See source for mcpServers config block"
+}

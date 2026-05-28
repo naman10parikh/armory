@@ -1,0 +1,7 @@
+{
+  "name": "seojeom",
+  "description": "Local-first project wiki and knowledge graph for Claude and Codex AI coding workflows.",
+  "source_repo": "seojeom/seojeom-mcp",
+  "source_url": "https://github.com/seojeom/seojeom-mcp",
+  "install": "npx -y seojeom-mcp"
+}

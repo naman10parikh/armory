@@ -1,0 +1,7 @@
+{
+  "name": "ask-human",
+  "description": "Enables escalation of questions to humans through a markdown file-based workflow that prevents hallucinations by providing direct human-in-the-loop responses for critical decisions like database passwords, API endpoints, or architectural choices.",
+  "source_repo": "masony817/ask-human-mcp",
+  "source_url": "https://github.com/masony817/ask-human-mcp",
+  "install": "npx -y ask-human-mcp"
+}

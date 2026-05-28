@@ -1,0 +1,7 @@
+{
+  "name": "chuprinadaria-ua-slang",
+  "description": "Daily-updated dictionary of contemporary Ukrainian internet slang and memes scraped from Threads.",
+  "source_repo": "chuprinadaria/ua-slang-mcp",
+  "source_url": "https://github.com/chuprinadaria/ua-slang-mcp",
+  "install": "npx -y ua-slang-mcp"
+}

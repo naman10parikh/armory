@@ -1,0 +1,7 @@
+{
+  "name": "kyurish-trading212",
+  "description": "Interact with the Trading 212 API for portfolio management, orders, pies, dividends, and analytics.",
+  "source_repo": "kyurish/trading212-mcp-server",
+  "source_url": "https://github.com/kyurish/trading212-mcp-server",
+  "install": "npx -y trading212-mcp-server"
+}

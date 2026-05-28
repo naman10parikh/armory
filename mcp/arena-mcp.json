@@ -1,0 +1,7 @@
+{
+  "name": "arena-mcp",
+  "description": "Enables AI agents to interact with Are.na for creative research and knowledge curation, including searching, browsing, creating, and managing channels, blocks, comments, and connections.",
+  "source_repo": "ertekinno/arena-mcp",
+  "source_url": "https://github.com/ertekinno/arena-mcp",
+  "install": "npx -y arena-mcp"
+}

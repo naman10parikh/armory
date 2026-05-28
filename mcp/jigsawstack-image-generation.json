@@ -1,0 +1,7 @@
+{
+  "name": "jigsawstack-image-generation",
+  "description": "JigsawStack Image Generation MCP server listed on mcp.so.",
+  "source_repo": "main/JigsawStack Image Generation",
+  "source_url": "https://mcp.so/server/JigsawStack Image Generation/main",
+  "install": "# git clone --depth 1 https://mcp.so/server/JigsawStack Image Generation/main\n# See source for mcpServers config block"
+}

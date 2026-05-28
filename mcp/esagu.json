@@ -1,0 +1,7 @@
+{
+  "name": "esagu",
+  "description": "Manage repricing, FBA Lost & Found, and HelpDesk for Amazon, eBay, and Kaufland marketplaces.",
+  "source_repo": "",
+  "source_url": "https://www.esagu.de/en/resources/knowledge-base/tutorials/mcp-ki-steuert-repricing-and-support-direkt-per-chat",
+  "install": "# git clone --depth 1 https://www.esagu.de/en/resources/knowledge-base/tutorials/mcp-ki-steuert-repricing-and-support-direkt-per-chat\n# See source for mcpServers config block"
+}

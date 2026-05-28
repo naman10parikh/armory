@@ -1,0 +1,7 @@
+{
+  "name": "mihaelamj-cupertino",
+  "description": "Local Apple documentation crawler with offline search across 263 frameworks",
+  "source_repo": "mihaelamj/cupertino",
+  "source_url": "https://github.com/mihaelamj/cupertino",
+  "install": "# git clone --depth 1 https://github.com/mihaelamj/cupertino\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tailscale-mcp",
+  "description": "Tailscale Mcp MCP server listed on mcp.so.",
+  "source_repo": "Dhananjay-JSR/tailscale-mcp",
+  "source_url": "https://mcp.so/server/tailscale-mcp/Dhananjay-JSR",
+  "install": "npx -y tailscale-mcp"
+}

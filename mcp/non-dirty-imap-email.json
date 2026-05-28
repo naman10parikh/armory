@@ -1,0 +1,7 @@
+{
+  "name": "non-dirty-imap-email",
+  "description": "Provides robust email interaction capabilities through IMAP, enabling advanced email retrieval, searching, and management with first-class support for Gmail OAuth2 and app-specific password authentication.",
+  "source_repo": "non-dirty/imap-mcp",
+  "source_url": "https://github.com/non-dirty/imap-mcp",
+  "install": "npx -y imap-mcp"
+}

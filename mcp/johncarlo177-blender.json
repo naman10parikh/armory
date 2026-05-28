@@ -1,0 +1,7 @@
+{
+  "name": "johncarlo177-blender",
+  "description": "Integrates with Blender through socket-based communication to enable real-time 3D scene manipulation, asset management from PolyHaven and Sketchfab libraries, AI-generated model creation via Hyper3D Rodin, Python script execution, viewport screenshots, and automated rendering workflows for architectural visualization and content creation.",
+  "source_repo": "johncarlo177/python.blendermcp",
+  "source_url": "https://github.com/johncarlo177/python.blendermcp",
+  "install": "# git clone --depth 1 https://github.com/johncarlo177/python.blendermcp\n# See source for mcpServers config block"
+}

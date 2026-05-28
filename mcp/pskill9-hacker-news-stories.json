@@ -1,0 +1,7 @@
+{
+  "name": "pskill9-hacker-news-stories",
+  "description": "Fetches and parses Hacker News stories using Cheerio, enabling tech news aggregation and trend analysis.",
+  "source_repo": "pskill9/hn-server",
+  "source_url": "https://github.com/pskill9/hn-server",
+  "install": "# git clone --depth 1 https://github.com/pskill9/hn-server\n# See source for mcpServers config block"
+}

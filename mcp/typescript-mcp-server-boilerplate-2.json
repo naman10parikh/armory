@@ -1,0 +1,7 @@
+{
+  "name": "typescript-mcp-server-boilerplate-2",
+  "description": "A boilerplate for building MCP servers using TypeScript, with example tools like calculator and greet, plus resource support.",
+  "source_repo": "kimhailey/my-mcp-server-260528",
+  "source_url": "https://github.com/kimhailey/my-mcp-server-260528",
+  "install": "# git clone --depth 1 https://github.com/kimhailey/my-mcp-server-260528\n# See source for mcpServers config block"
+}

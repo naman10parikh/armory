@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics-unofficial",
+  "description": "Connects Google Analytics 4 to AI assistants for natural language querying of website traffic, user behavior, and marketing performance data.",
+  "source_repo": "",
+  "source_url": "https://safe-mcp.com",
+  "install": "# git clone --depth 1 https://safe-mcp.com\n# See source for mcpServers config block"
+}

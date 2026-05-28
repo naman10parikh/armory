@@ -1,0 +1,7 @@
+{
+  "name": "us-all-datadog",
+  "description": "Community MCP integration for Datadog, giving AI agents access to metrics, monitors, logs, APM, RUM, incidents, and CI/CD data.",
+  "source_repo": "us-all/datadog-mcp-server",
+  "source_url": "https://github.com/us-all/datadog-mcp-server",
+  "install": "npx -y datadog-mcp-server"
+}

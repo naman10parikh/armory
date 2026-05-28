@@ -1,0 +1,7 @@
+{
+  "name": "johanli233-python-sandbox",
+  "description": "Provides a secure sandbox environment for executing Python code within isolated Docker containers, enabling safe code testing with resource limits, package installation, and file operations through a RESTful API.",
+  "source_repo": "johanli233/mcp-sandbox",
+  "source_url": "https://github.com/johanli233/mcp-sandbox",
+  "install": "# git clone --depth 1 https://github.com/johanli233/mcp-sandbox\n# See source for mcpServers config block"
+}

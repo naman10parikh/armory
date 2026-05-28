@@ -1,0 +1,7 @@
+{
+  "name": "ghidra",
+  "description": "Bridges Ghidra reverse engineering platform with language models through a Java plugin HTTP server and Python MCP translator, enabling function decompilation, disassembly, symbol management, cross-reference analysis, string extraction, and program modification for AI-assisted binary analysis workflows.",
+  "source_repo": "pr0cf5/ghidramcp",
+  "source_url": "https://github.com/pr0cf5/ghidramcp",
+  "install": "# git clone --depth 1 https://github.com/pr0cf5/ghidramcp\n# See source for mcpServers config block"
+}

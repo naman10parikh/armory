@@ -1,0 +1,7 @@
+{
+  "name": "zukai-screenshot-capture",
+  "description": "Enables AI to capture screenshots of computer screens for analyzing visual interfaces, debugging, or assisting with web development tasks without manual image uploads.",
+  "source_repo": "smileycointools/smileycoindev",
+  "source_url": "https://github.com/smileycointools/smileycoindev",
+  "install": "# git clone --depth 1 https://github.com/smileycointools/smileycoindev\n# See source for mcpServers config block"
+}

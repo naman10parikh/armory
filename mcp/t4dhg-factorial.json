@@ -1,0 +1,7 @@
+{
+  "name": "t4dhg-factorial",
+  "description": "Full CRUD integration with FactorialHR for employees, teams, time off, projects, recruiting, and payroll.",
+  "source_repo": "t4dhg/mcp-factorial",
+  "source_url": "https://github.com/t4dhg/mcp-factorial",
+  "install": "# git clone --depth 1 https://github.com/t4dhg/mcp-factorial\n# See source for mcpServers config block"
+}

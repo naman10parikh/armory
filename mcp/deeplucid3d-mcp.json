@@ -1,0 +1,7 @@
+{
+  "name": "deeplucid3d-mcp",
+  "description": "DeepLucid3D MCP MCP server listed on mcp.so.",
+  "source_repo": "MushroomFleet/DeepLucid3D-MCP",
+  "source_url": "https://mcp.so/server/DeepLucid3D-MCP/MushroomFleet",
+  "install": "npx -y DeepLucid3D-MCP"
+}

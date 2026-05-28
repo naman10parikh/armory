@@ -1,0 +1,7 @@
+{
+  "name": "licensespring",
+  "description": "Integrates with LicenseSpring's license management platform to enable software license activation, validation, consumption tracking, customer management, and trial key generation through dual API architecture with HMAC-SHA256 authentication.",
+  "source_repo": "stier1ba/licensespring-mcp",
+  "source_url": "https://github.com/stier1ba/licensespring-mcp",
+  "install": "npx -y licensespring-mcp"
+}

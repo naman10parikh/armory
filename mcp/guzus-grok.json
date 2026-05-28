@@ -1,0 +1,7 @@
+{
+  "name": "guzus-grok",
+  "description": "Real-time X.com search through xAI's Grok API with post, user, thread, and trend discovery capabilities.",
+  "source_repo": "guzus/grok-mcp",
+  "source_url": "https://github.com/guzus/grok-mcp",
+  "install": "npx -y grok-mcp"
+}

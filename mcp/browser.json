@@ -1,0 +1,7 @@
+{
+  "name": "browser",
+  "description": "Browser extension that enables real-time interaction with web pages, allowing retrieval of content as markdown, CSS styling modifications, and browser history searches.",
+  "source_repo": "djyde/browser-mcp",
+  "source_url": "https://github.com/djyde/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

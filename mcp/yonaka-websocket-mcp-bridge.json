@@ -1,0 +1,7 @@
+{
+  "name": "yonaka-websocket-mcp-bridge",
+  "description": "Provides a WebSocket connection between clients and MCP servers.",
+  "source_repo": "yonaka15/mcp-server-runner",
+  "source_url": "https://github.com/yonaka15/mcp-server-runner",
+  "install": "# git clone --depth 1 https://github.com/yonaka15/mcp-server-runner\n# See source for mcpServers config block"
+}

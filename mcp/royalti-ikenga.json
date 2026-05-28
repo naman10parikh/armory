@@ -1,0 +1,7 @@
+{
+  "name": "royalti-ikenga",
+  "description": "Bridges the Ikenga desktop application with AI agents via MCP, enabling layout control, runtime inspection, and iframe communication.",
+  "source_repo": "royalti-io/ikenga-pkg-mcp-iyke",
+  "source_url": "https://github.com/royalti-io/ikenga-pkg-mcp-iyke",
+  "install": "# git clone --depth 1 https://github.com/royalti-io/ikenga-pkg-mcp-iyke\n# See source for mcpServers config block"
+}

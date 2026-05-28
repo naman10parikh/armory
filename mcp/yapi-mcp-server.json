@@ -1,0 +1,7 @@
+{
+  "name": "yapi-mcp-server",
+  "description": "Yapi Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "zoeminghong/yapi-mcp-server",
+  "source_url": "https://mcp.so/server/yapi-mcp-server/zoeminghong",
+  "install": "npx -y yapi-mcp-server"
+}

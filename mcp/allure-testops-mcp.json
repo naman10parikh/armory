@@ -1,0 +1,7 @@
+{
+  "name": "allure-testops-mcp",
+  "description": "Production-ready MCP server for Allure TestOps, enabling test case, launch, test result, and test plan management via natural language.",
+  "source_repo": "iampopovich/allure-testops-mcp",
+  "source_url": "https://github.com/iampopovich/allure-testops-mcp",
+  "install": "npx -y allure-testops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aiondadotcom-ssh",
+  "description": "Provides secure remote server management capabilities through SSH connections, automatically discovering hosts from SSH configuration files and executing commands, transferring files, and managing connectivity using native SSH and SCP commands.",
+  "source_repo": "aiondadotcom/mcp-ssh",
+  "source_url": "https://github.com/aiondadotcom/mcp-ssh",
+  "install": "# git clone --depth 1 https://github.com/aiondadotcom/mcp-ssh\n# See source for mcpServers config block"
+}

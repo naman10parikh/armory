@@ -1,0 +1,7 @@
+{
+  "name": "harmony-mcp",
+  "description": "An MCP server that enables AI assistants to interact with WeChat Mini Programs, allowing developers to publish versions, analyze package size, diagnose compilation errors, and manage projects via natural language.",
+  "source_repo": "xiaoxuzhu303-prog/harmony-mcp",
+  "source_url": "https://github.com/xiaoxuzhu303-prog/harmony-mcp",
+  "install": "npx -y harmony-mcp"
+}

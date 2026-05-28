@@ -1,0 +1,7 @@
+{
+  "name": "motherduck-duckdb",
+  "description": "Integrates MotherDuck and local DuckDB databases for flexible querying and analysis of structured data in MCP-compatible environments.",
+  "source_repo": "motherduckdb/mcp-server-motherduck",
+  "source_url": "https://github.com/motherduckdb/mcp-server-motherduck",
+  "install": "# git clone --depth 1 https://github.com/motherduckdb/mcp-server-motherduck\n# See source for mcpServers config block"
+}

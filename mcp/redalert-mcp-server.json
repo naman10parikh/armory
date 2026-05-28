@@ -1,0 +1,7 @@
+{
+  "name": "redalert-mcp-server",
+  "description": "An intelligent game assistant for Red Alert, based on LangGraph and MCP, providing asynchronous architecture and multimodal AI control for game strategy, production, and combat management.",
+  "source_repo": "AI-for-anyone/RedAlert",
+  "source_url": "https://github.com/AI-for-anyone/RedAlert",
+  "install": "# git clone --depth 1 https://github.com/AI-for-anyone/RedAlert\n# See source for mcpServers config block"
+}

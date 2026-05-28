@@ -1,0 +1,7 @@
+{
+  "name": "location-mcp-server",
+  "description": "Enables IP address location and latitude/longitude address queries, providing detailed geographic information such as country, province, city, and district.",
+  "source_repo": "v5tech/mcp-server-location",
+  "source_url": "https://github.com/v5tech/mcp-server-location",
+  "install": "# git clone --depth 1 https://github.com/v5tech/mcp-server-location\n# See source for mcpServers config block"
+}

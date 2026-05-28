@@ -1,0 +1,7 @@
+{
+  "name": "plapinski-phpocalypse",
+  "description": "Enables PHP developers to run static analysis, code style checks, and tests directly within conversations by executing PHPStan, PHP-CS-Fixer, and PHPUnit commands through a YAML-configured TypeScript server.",
+  "source_repo": "plapinski/phpocalypse-mcp",
+  "source_url": "https://github.com/plapinski/phpocalypse-mcp",
+  "install": "npx -y phpocalypse-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kakao-navigation",
+  "description": "Integrates with Kakao Maps and Mobility APIs to enable route planning, geocoding, and location searches within Korea.",
+  "source_repo": "cachij/kakao-navigation-mcp-server",
+  "source_url": "https://github.com/cachij/kakao-navigation-mcp-server",
+  "install": "npx -y kakao-navigation-mcp-server"
+}

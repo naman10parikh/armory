@@ -1,0 +1,7 @@
+{
+  "name": "cheffromspace-windows-remote-control",
+  "description": "Enables remote automation of Windows systems for controlling mouse, keyboard, and screen capture via nut.js.",
+  "source_repo": "claude-did-this/mcpcontrol",
+  "source_url": "https://github.com/claude-did-this/mcpcontrol",
+  "install": "# git clone --depth 1 https://github.com/claude-did-this/mcpcontrol\n# See source for mcpServers config block"
+}

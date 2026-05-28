@@ -1,0 +1,7 @@
+{
+  "name": "benzsevern-goldenpipe",
+  "description": "Data quality pipeline orchestrator chaining validation, transformation, and deduplication stages.",
+  "source_repo": "benseverndev-oss/goldenpipe",
+  "source_url": "https://github.com/benseverndev-oss/goldenpipe",
+  "install": "# git clone --depth 1 https://github.com/benseverndev-oss/goldenpipe\n# See source for mcpServers config block"
+}

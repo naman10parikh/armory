@@ -1,0 +1,7 @@
+{
+  "name": "canvas-lms",
+  "description": "Integrates with Canvas LMS to enable course management, student data analysis, and administrative task automation through a TypeScript-based API toolkit.",
+  "source_repo": "ranver/mcp",
+  "source_url": "https://github.com/ranver/mcp",
+  "install": "# git clone --depth 1 https://github.com/ranver/mcp\n# See source for mcpServers config block"
+}

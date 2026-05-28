@@ -1,0 +1,7 @@
+{
+  "name": "jarvismcp",
+  "description": "JarvisMCP MCP server listed on mcp.so.",
+  "source_repo": "getHarshOnline/jarvisMCP",
+  "source_url": "https://mcp.so/server/jarvisMCP/getHarshOnline",
+  "install": "# git clone --depth 1 https://mcp.so/server/jarvisMCP/getHarshOnline\n# See source for mcpServers config block"
+}

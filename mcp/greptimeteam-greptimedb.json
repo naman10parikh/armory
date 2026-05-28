@@ -1,0 +1,7 @@
+{
+  "name": "greptimeteam-greptimedb",
+  "description": "Enables AI interaction with GreptimeDB time-series databases through MySQL protocol for data exploration, analysis, and SQL query execution with built-in security protections.",
+  "source_repo": "greptimeteam/greptimedb-mcp-server",
+  "source_url": "https://github.com/greptimeteam/greptimedb-mcp-server",
+  "install": "npx -y greptimedb-mcp-server"
+}

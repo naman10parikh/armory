@@ -1,0 +1,7 @@
+{
+  "name": "telegram-mcp",
+  "description": "Enables AI agents to read, send, and organize Telegram messages and chats. Supports tools for listing chats, fetching messages, sending/reply, archiving, muting, and folder management.",
+  "source_repo": "VovaVindar/telegram-mcp",
+  "source_url": "https://github.com/VovaVindar/telegram-mcp",
+  "install": "npx -y telegram-mcp"
+}

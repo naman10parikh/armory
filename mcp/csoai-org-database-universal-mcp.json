@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-database-universal-mcp",
+  "description": "Universal database connectivity and query tools for multiple database systems.",
+  "source_repo": "csoai-org/database-universal-mcp",
+  "source_url": "https://github.com/csoai-org/database-universal-mcp",
+  "install": "npx -y database-universal-mcp"
+}

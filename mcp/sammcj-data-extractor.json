@@ -1,0 +1,7 @@
+{
+  "name": "sammcj-data-extractor",
+  "description": "Extracts data from TypeScript/JavaScript code into JSON configuration files, facilitating code refactoring and improved maintainability.",
+  "source_repo": "sammcj/mcp-data-extractor",
+  "source_url": "https://github.com/sammcj/mcp-data-extractor",
+  "install": "# git clone --depth 1 https://github.com/sammcj/mcp-data-extractor\n# See source for mcpServers config block"
+}

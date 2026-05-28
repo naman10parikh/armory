@@ -1,0 +1,7 @@
+{
+  "name": "gnuradio",
+  "description": "Integrates with GNU Radio's signal processing platform to enable conversational creation and manipulation of radio flowgraphs including block management, parameter configuration, signal path connections, and workflow validation for software-defined radio development and signal processing education.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/gnuradio",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/gnuradio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dstrupl-vardoger",
+  "description": "Personalizes AI coding assistants by analyzing local conversation history on-device.",
+  "source_repo": "dstrupl/vardoger",
+  "source_url": "https://github.com/dstrupl/vardoger",
+  "install": "# git clone --depth 1 https://github.com/dstrupl/vardoger\n# See source for mcpServers config block"
+}

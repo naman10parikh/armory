@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-slug-generator",
+  "description": "Generate URL-friendly slugs from text with transliteration and custom separators.",
+  "source_repo": "br0ski777/slug-generator-x402",
+  "source_url": "https://github.com/br0ski777/slug-generator-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/slug-generator-x402\n# See source for mcpServers config block"
+}

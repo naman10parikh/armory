@@ -1,0 +1,7 @@
+{
+  "name": "artillect-mtg-deck-manager",
+  "description": "Integrates with Magic: The Gathering resources to enable deck management, card drawing, hand manipulation, and Scryfall API searches for comprehensive card information retrieval and game simulation.",
+  "source_repo": "artillect/mtg-mcp-servers",
+  "source_url": "https://github.com/artillect/mtg-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/artillect/mtg-mcp-servers\n# See source for mcpServers config block"
+}

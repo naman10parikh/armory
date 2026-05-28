@@ -1,0 +1,7 @@
+{
+  "name": "unified-offer-protocol",
+  "description": "Integrates with multiple e-commerce platforms including Shopify, WooCommerce, and Shopware 6 to provide product search, affiliate link generation, price negotiation, and automated discount code creation with real-time synchronization and billing management.",
+  "source_repo": "unifiedoffer/mcp-server-public",
+  "source_url": "https://github.com/unifiedoffer/mcp-server-public",
+  "install": "# git clone --depth 1 https://github.com/unifiedoffer/mcp-server-public\n# See source for mcpServers config block"
+}

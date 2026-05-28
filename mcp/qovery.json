@@ -1,0 +1,7 @@
+{
+  "name": "qovery",
+  "description": "Deploy apps and manage Kubernetes on AWS, GCP, Azure, and on-premise with natural language.",
+  "source_repo": "",
+  "source_url": "https://www.qovery.com/docs/copilot/mcp-server",
+  "install": "# git clone --depth 1 https://www.qovery.com/docs/copilot/mcp-server\n# See source for mcpServers config block"
+}

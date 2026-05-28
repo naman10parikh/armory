@@ -1,0 +1,7 @@
+{
+  "name": "donovan-jasper-sapling",
+  "description": "Provides structured access to Sapling (sl) version control repositories with built-in safety guardrails.",
+  "source_repo": "donovan-jasper/sl-mcp",
+  "source_url": "https://github.com/donovan-jasper/sl-mcp",
+  "install": "npx -y sl-mcp"
+}

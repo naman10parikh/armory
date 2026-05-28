@@ -1,0 +1,7 @@
+{
+  "name": "ap425q-cutter",
+  "description": "Bridges Cutter reverse engineering platform with binary analysis capabilities including function listing, decompilation, segment analysis, and symbol management for enhanced reverse engineering workflows.",
+  "source_repo": "ap425q/cuttermcp",
+  "source_url": "https://github.com/ap425q/cuttermcp",
+  "install": "# git clone --depth 1 https://github.com/ap425q/cuttermcp\n# See source for mcpServers config block"
+}

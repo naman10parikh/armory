@@ -1,0 +1,7 @@
+{
+  "name": "knight0zh-mssql",
+  "description": "Enables robust SQL query execution and database connection management for Microsoft SQL Server with comprehensive error handling and security features.",
+  "source_repo": "knight0zh/mssql-mcp-server",
+  "source_url": "https://github.com/knight0zh/mssql-mcp-server",
+  "install": "npx -y mssql-mcp-server"
+}

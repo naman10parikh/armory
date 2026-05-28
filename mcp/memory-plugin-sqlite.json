@@ -1,0 +1,7 @@
+{
+  "name": "memory-plugin-sqlite",
+  "description": "Provides SQLite-based persistent memory storage for maintaining context across conversations, enabling long-term recall and knowledge management.",
+  "source_repo": "mekanixms/mcp_memory_plugin",
+  "source_url": "https://github.com/mekanixms/mcp_memory_plugin",
+  "install": "# git clone --depth 1 https://github.com/mekanixms/mcp_memory_plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taniwhaai-arai",
+  "description": "Policy enforcement for AI coding agents derived from existing instruction files (CLAUDE.md, .cursorrules, .windsurfrules, .github/copilot-instructions.md) — no separate YAML to maintain. Rules with prohibitive predicates (`never`, `forbids`, `must_not`) emit `permissionDecision: deny` to block tool calls in Claude Code; advisory rules inject context. PostToolUse is correlated with PreToolUse to produce per-rule obeyed/ignored compliance verdicts in a local JSONL audit log. MCP tools — `arai_add_guard` (register rules mid-session), `arai_list_guards`, `arai_recent_decisions` — work in any MCP client (Claude Desktop, Cursor, Windsurf, Cline). No network on the hook hot path; opt-out anonymous telemetry.",
+  "source_repo": "taniwhaai/arai",
+  "source_url": "https://github.com/taniwhaai/arai",
+  "install": "# git clone --depth 1 https://github.com/taniwhaai/arai\n# See source for mcpServers config block"
+}

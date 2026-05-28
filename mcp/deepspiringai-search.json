@@ -1,0 +1,7 @@
+{
+  "name": "deepspiringai-search",
+  "description": "Provides web search and information extraction capabilities using SearchAPI.io for queries, Firecrawl for content scraping, and embedding models for semantic similarity matching across multiple languages.",
+  "source_repo": "deepspringai/search_mcp_server",
+  "source_url": "https://github.com/deepspringai/search_mcp_server",
+  "install": "npx -y search_mcp_server"
+}

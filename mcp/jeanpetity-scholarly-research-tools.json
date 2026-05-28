@@ -1,0 +1,7 @@
+{
+  "name": "jeanpetity-scholarly-research-tools",
+  "description": "Integrates with Crossref, ORCID, and Semantic Scholar to look up publications by DOI, retrieve researcher work titles, and search academic papers.",
+  "source_repo": "jeanpetity/mcp-server",
+  "source_url": "https://github.com/jeanpetity/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/jeanpetity/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "souzix76-n8n-workflow-tester-safe",
+  "description": "Test, score, and inspect n8n workflows via MCP. Config-driven test suites with two-tier scoring, lightweight execution traces, and a built-in node catalog with 436+ nodes.",
+  "source_repo": "Souzix76/n8n-workflow-tester-safe",
+  "source_url": "https://github.com/Souzix76/n8n-workflow-tester-safe",
+  "install": "# git clone --depth 1 https://github.com/Souzix76/n8n-workflow-tester-safe\n# See source for mcpServers config block"
+}

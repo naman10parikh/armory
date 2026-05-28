@@ -1,0 +1,7 @@
+{
+  "name": "fosdickio-binary-ninja",
+  "description": "Integrates with Binary Ninja reverse engineering platform to enable binary analysis tasks like function listing, code decompilation, symbol renaming, and structure analysis through a HTTP server bridge.",
+  "source_repo": "fosdickio/binary_ninja_mcp",
+  "source_url": "https://github.com/fosdickio/binary_ninja_mcp",
+  "install": "npx -y binary_ninja_mcp"
+}

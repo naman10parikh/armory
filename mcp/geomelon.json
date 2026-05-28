@@ -1,0 +1,7 @@
+{
+  "name": "geomelon",
+  "description": "Geographic data API providing cities, countries, regions, and languages with multilingual support.",
+  "source_repo": "930m310n/geomelon-mcp",
+  "source_url": "https://github.com/930m310n/geomelon-mcp",
+  "install": "npx -y geomelon-mcp"
+}

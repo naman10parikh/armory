@@ -1,0 +1,7 @@
+{
+  "name": "lexware-mcp-server",
+  "description": "MCP server for the Lexware Office API that enables management of invoices, contacts, articles, vouchers, and more through the Model Context Protocol.",
+  "source_repo": "lazyants/lexware-mcp-server",
+  "source_url": "https://github.com/lazyants/lexware-mcp-server",
+  "install": "npx -y lexware-mcp-server"
+}

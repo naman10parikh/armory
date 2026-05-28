@@ -1,0 +1,7 @@
+{
+  "name": "mcp-kubernetes-server",
+  "description": "Mcp Kubernetes Server MCP server listed on mcp.so.",
+  "source_repo": "feiskyer/mcp-kubernetes-server",
+  "source_url": "https://mcp.so/server/mcp-kubernetes-server/feiskyer",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-kubernetes-server/feiskyer\n# See source for mcpServers config block"
+}

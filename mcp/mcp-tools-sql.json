@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tools-sql",
+  "description": "Provides safe, configurable SQL database access via MCP tools, enabling schema introspection, predefined queries, and structured updates with multi-backend support.",
+  "source_repo": "MarcusJellinghaus/mcp-tools-sql",
+  "source_url": "https://github.com/MarcusJellinghaus/mcp-tools-sql",
+  "install": "# git clone --depth 1 https://github.com/MarcusJellinghaus/mcp-tools-sql\n# See source for mcpServers config block"
+}

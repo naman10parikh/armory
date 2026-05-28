@@ -1,0 +1,7 @@
+{
+  "name": "west-emp-ss-jira",
+  "description": "C# .NET Jira Cloud integration with read tools, analysis, and a Blazor suggestions viewer.",
+  "source_repo": "west-emp-ss/jira-mcp",
+  "source_url": "https://github.com/west-emp-ss/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

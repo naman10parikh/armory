@@ -1,0 +1,7 @@
+{
+  "name": "chadrik-maya",
+  "description": "Connects to multiple Autodesk Maya sessions through automatic discovery and command port bootstrapping, enabling Python code execution, virtual module creation, and stdout/stderr streaming for 3D modeling automation and pipeline operations.",
+  "source_repo": "chadrik/maya-mcp-server",
+  "source_url": "https://github.com/chadrik/maya-mcp-server",
+  "install": "npx -y maya-mcp-server"
+}

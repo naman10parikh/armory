@@ -1,0 +1,7 @@
+{
+  "name": "mcp-brex-server",
+  "description": "Mcp Brex Server MCP server listed on mcp.so.",
+  "source_repo": "crazyrabbitLTC/mcp-brex-server",
+  "source_url": "https://mcp.so/server/mcp-brex-server/crazyrabbitLTC",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-brex-server/crazyrabbitLTC\n# See source for mcpServers config block"
+}

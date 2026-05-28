@@ -1,0 +1,7 @@
+{
+  "name": "jina-ai-reader",
+  "description": "Converts web pages into clean Markdown format using Jina AI's r.jina.ai service with automatic content caching, token counting, and change detection for efficient web content extraction.",
+  "source_repo": "jswords91/jina-ai-mcp",
+  "source_url": "https://github.com/jswords91/jina-ai-mcp",
+  "install": "npx -y jina-ai-mcp"
+}

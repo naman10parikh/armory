@@ -1,0 +1,7 @@
+{
+  "name": "chrisryugj-korean-dart",
+  "description": "Compresses 83 OpenDART financial disclosure APIs into 15 tools for Korean stock analysis with insider trading signals and accounting risk scoring.",
+  "source_repo": "chrisryugj/korean-dart-mcp",
+  "source_url": "https://github.com/chrisryugj/korean-dart-mcp",
+  "install": "npx -y korean-dart-mcp"
+}

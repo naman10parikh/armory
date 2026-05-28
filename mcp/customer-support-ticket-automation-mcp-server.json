@@ -1,0 +1,7 @@
+{
+  "name": "customer-support-ticket-automation-mcp-server",
+  "description": "Enables AI-driven customer support ticket processing, including classification, response generation, and automated email sending and Google Sheets logging.",
+  "source_repo": "ManideepMuddagowni/Customer-Support-Ticket-Automation-Using-AI-Agents-and-MCP",
+  "source_url": "https://github.com/ManideepMuddagowni/Customer-Support-Ticket-Automation-Using-AI-Agents-and-MCP",
+  "install": "npx -y Customer-Support-Ticket-Automation-Using-AI-Agents-and-MCP"
+}

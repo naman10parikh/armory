@@ -1,0 +1,7 @@
+{
+  "name": "mikrotik-mcp",
+  "description": "Provides a bridge between AI assistants and MikroTik RouterOS devices, enabling natural language management of VLANs, firewall rules, DNS settings, and more.",
+  "source_repo": "jeff-nasseri/mikrotik-mcp",
+  "source_url": "https://github.com/jeff-nasseri/mikrotik-mcp",
+  "install": "npx -y mikrotik-mcp"
+}

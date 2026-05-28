@@ -1,0 +1,7 @@
+{
+  "name": "tenderly",
+  "description": "Simulate transactions, create Virtual TestNets, trace execution, and inspect contracts across 100+ EVM networks.",
+  "source_repo": "",
+  "source_url": "https://docs.tenderly.co/mcp-server",
+  "install": "# git clone --depth 1 https://docs.tenderly.co/mcp-server\n# See source for mcpServers config block"
+}

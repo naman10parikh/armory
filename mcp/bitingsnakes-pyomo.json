@@ -1,0 +1,7 @@
+{
+  "name": "bitingsnakes-pyomo",
+  "description": "MCP server for the Pyomo optimization modeling library with tools for model inspection, solver management, and expression evaluation.",
+  "source_repo": "bitingsnakes/pyomo-mcp",
+  "source_url": "https://github.com/bitingsnakes/pyomo-mcp",
+  "install": "npx -y pyomo-mcp"
+}

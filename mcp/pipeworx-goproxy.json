@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-goproxy",
+  "description": "Query Go module proxy data including module info, version lists, and go.mod files.",
+  "source_repo": "pipeworx-io/mcp-goproxy",
+  "source_url": "https://github.com/pipeworx-io/mcp-goproxy",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-goproxy\n# See source for mcpServers config block"
+}

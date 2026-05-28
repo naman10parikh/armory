@@ -1,0 +1,7 @@
+{
+  "name": "andrewschreiber-desktop-insights",
+  "description": "Query a database of 12,000+ macOS and Windows desktop apps to look up technology stacks, SDKs, and frameworks used in popular applications.",
+  "source_repo": "andrewschreiber/desktopinsights-mcp",
+  "source_url": "https://github.com/andrewschreiber/desktopinsights-mcp",
+  "install": "npx -y desktopinsights-mcp"
+}

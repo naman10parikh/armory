@@ -1,0 +1,7 @@
+{
+  "name": "igs-pochenkuo-southasia",
+  "description": "Provides tools and utilities for IGS South Asia team operations through a Python-based server with modular architecture and basic endpoint functionality.",
+  "source_repo": "igs-pochenkuo/southasia_mcp",
+  "source_url": "https://github.com/igs-pochenkuo/southasia_mcp",
+  "install": "npx -y southasia_mcp"
+}

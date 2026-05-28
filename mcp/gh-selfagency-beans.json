@@ -1,0 +1,7 @@
+{
+  "name": "gh-selfagency-beans",
+  "description": "Integrates with the Beans CLI issue tracker for AI-powered workspace management.",
+  "source_repo": "selfagency/beans-mcp",
+  "source_url": "https://github.com/selfagency/beans-mcp",
+  "install": "npx -y beans-mcp"
+}

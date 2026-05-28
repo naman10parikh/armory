@@ -1,0 +1,7 @@
+{
+  "name": "olyport-cdc-svi",
+  "description": "CDC Social Vulnerability Index data for community resilience assessment.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/cdc-svi/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/cdc-svi/mcp\n# See source for mcpServers config block"
+}

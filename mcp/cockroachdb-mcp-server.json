@@ -1,0 +1,7 @@
+{
+  "name": "cockroachdb-mcp-server",
+  "description": "Cockroachdb Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Swayingleaves/cockroachdb-mcp-server",
+  "source_url": "https://mcp.so/server/cockroachdb-mcp-server/Swayingleaves",
+  "install": "npx -y cockroachdb-mcp-server"
+}

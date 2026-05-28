@@ -1,0 +1,7 @@
+{
+  "name": "yourtechtribe-labs-koncept",
+  "description": "Queries a YAML semantic concept graph for codebase invariants and cross-cutting architectural facts.",
+  "source_repo": "yourtechtribe-labs/koncept-mcp",
+  "source_url": "https://github.com/yourtechtribe-labs/koncept-mcp",
+  "install": "npx -y koncept-mcp"
+}

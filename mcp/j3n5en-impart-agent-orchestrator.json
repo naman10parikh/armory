@@ -1,0 +1,7 @@
+{
+  "name": "j3n5en-impart-agent-orchestrator",
+  "description": "Orchestrates Claude Code, Codex CLI, and Gemini CLI as specialized expert agents through synchronous, asynchronous, and batch execution modes.",
+  "source_repo": "j3n5en/impart-mcp",
+  "source_url": "https://github.com/j3n5en/impart-mcp",
+  "install": "npx -y impart-mcp"
+}

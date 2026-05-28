@@ -1,0 +1,7 @@
+{
+  "name": "drdroidlab-signoz",
+  "description": "Integrates with SigNoz observability platform to provide dashboard management, custom metrics querying with PromQL support, and APM metrics collection for performance analysis and troubleshooting workflows.",
+  "source_repo": "drdroidlab/signoz-mcp-server",
+  "source_url": "https://github.com/drdroidlab/signoz-mcp-server",
+  "install": "npx -y signoz-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alexandru2882-url-text-fetcher",
+  "description": "Extracts visible text content and hyperlinks from web pages using requests and BeautifulSoup4 for web scraping, content analysis, and link discovery workflows.",
+  "source_repo": "alexandru2882/url-text-fetcher-mcp",
+  "source_url": "https://github.com/alexandru2882/url-text-fetcher-mcp",
+  "install": "npx -y url-text-fetcher-mcp"
+}

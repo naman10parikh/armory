@@ -1,0 +1,7 @@
+{
+  "name": "vivioo",
+  "description": "Browse and interact with Vivioo's AI agent trust infrastructure — directory, jobs, verification, and 360 feedback.",
+  "source_repo": "viviooio/vivioo-mcp",
+  "source_url": "https://github.com/viviooio/vivioo-mcp",
+  "install": "npx -y vivioo-mcp"
+}

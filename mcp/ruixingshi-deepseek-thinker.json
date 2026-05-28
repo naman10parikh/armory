@@ -1,0 +1,7 @@
+{
+  "name": "ruixingshi-deepseek-thinker",
+  "description": "Integrates with DeepSeek Thinker model to enable chain-of-thought reasoning and complex problem-solving for applications requiring advanced cognitive capabilities.",
+  "source_repo": "ruixingshi/deepseek-thinker-mcp",
+  "source_url": "https://github.com/ruixingshi/deepseek-thinker-mcp",
+  "install": "npx -y deepseek-thinker-mcp"
+}

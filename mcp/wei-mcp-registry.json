@@ -1,0 +1,7 @@
+{
+  "name": "wei-mcp-registry",
+  "description": "Integrates with the official Model Context Protocol registry to provide server discovery, metadata retrieval, version information, and health status monitoring with filtered searches and pagination support.",
+  "source_repo": "wei/mcp-registry-mcp-server",
+  "source_url": "https://github.com/wei/mcp-registry-mcp-server",
+  "install": "npx -y mcp-registry-mcp-server"
+}

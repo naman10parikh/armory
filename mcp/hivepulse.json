@@ -1,0 +1,7 @@
+{
+  "name": "hivepulse",
+  "description": "Real-time health monitoring and heartbeat tracking for AI agent services.",
+  "source_repo": "srotzin/hivepulse",
+  "source_url": "https://github.com/srotzin/hivepulse",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hivepulse\n# See source for mcpServers config block"
+}

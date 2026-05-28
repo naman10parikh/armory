@@ -1,0 +1,7 @@
+{
+  "name": "swarm-mcp",
+  "description": "Orchestrate parallel Claude agent workloads via Docker containers with combinators for parallel execution, map-reduce, and pipeline workflows.",
+  "source_repo": "stiege/swarm-mcp",
+  "source_url": "https://github.com/stiege/swarm-mcp",
+  "install": "npx -y swarm-mcp"
+}

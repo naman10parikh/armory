@@ -1,0 +1,7 @@
+{
+  "name": "labelchop",
+  "description": "Diagnoses and resolves Australia Post label printing issues for thermal printers via AI assistants.",
+  "source_repo": "northy9/label-bridge",
+  "source_url": "https://github.com/northy9/label-bridge",
+  "install": "# git clone --depth 1 https://github.com/northy9/label-bridge\n# See source for mcpServers config block"
+}

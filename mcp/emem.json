@@ -1,0 +1,7 @@
+{
+  "name": "emem",
+  "description": "Content-addressed Earth memory with cryptographic signing for geospatial AI workflows.",
+  "source_repo": "vortx-ai/emem",
+  "source_url": "https://github.com/vortx-ai/emem",
+  "install": "# git clone --depth 1 https://github.com/vortx-ai/emem\n# See source for mcpServers config block"
+}

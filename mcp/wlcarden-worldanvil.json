@@ -1,0 +1,7 @@
+{
+  "name": "wlcarden-worldanvil",
+  "description": "Integrates with WorldAnvil's API to automate worldbuilding workflows across articles, maps, timelines, campaigns, and content management with automatic Markdown-to-BBCode conversion.",
+  "source_repo": "wlcarden/worldanvil-mcp",
+  "source_url": "https://github.com/wlcarden/worldanvil-mcp",
+  "install": "npx -y worldanvil-mcp"
+}

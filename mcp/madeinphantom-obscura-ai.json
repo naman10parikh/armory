@@ -1,0 +1,7 @@
+{
+  "name": "madeinphantom-obscura-ai",
+  "description": "Generate and share visual AI automation workflow diagrams from natural language business process descriptions.",
+  "source_repo": "madeinphantom/obscuraai-mcp-server",
+  "source_url": "https://github.com/madeinphantom/obscuraai-mcp-server",
+  "install": "npx -y obscuraai-mcp-server"
+}

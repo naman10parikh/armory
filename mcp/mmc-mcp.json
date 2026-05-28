@@ -1,0 +1,7 @@
+{
+  "name": "mmc-mcp",
+  "description": "MCP server that lets AI agents execute structured business processes by exposing process steps as tools with a sequenced event bus to prevent skipping steps.",
+  "source_repo": "modelmycontext/mmc-mcp",
+  "source_url": "https://github.com/modelmycontext/mmc-mcp",
+  "install": "npx -y mmc-mcp"
+}

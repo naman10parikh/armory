@@ -1,0 +1,7 @@
+{
+  "name": "quantaroute-geocoder",
+  "description": "Geocode addresses, look up administrative boundaries, and process DigiPin codes for India.",
+  "source_repo": "mapdevsaikat/quantaroute-geocoder",
+  "source_url": "https://github.com/mapdevsaikat/quantaroute-geocoder",
+  "install": "# git clone --depth 1 https://github.com/mapdevsaikat/quantaroute-geocoder\n# See source for mcpServers config block"
+}

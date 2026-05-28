@@ -1,0 +1,7 @@
+{
+  "name": "aaronroef-apple",
+  "description": "Provides 28 read/write tools for macOS Apple applications including Notes, Reminders, Calendar, Contacts, and Safari via local stdio using SQLite and JXA.",
+  "source_repo": "aaronroef/apple-mcp",
+  "source_url": "https://github.com/aaronroef/apple-mcp",
+  "install": "npx -y apple-mcp"
+}

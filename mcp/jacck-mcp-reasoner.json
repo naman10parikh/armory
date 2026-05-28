@@ -1,0 +1,7 @@
+{
+  "name": "jacck-mcp-reasoner",
+  "description": "Implements beam search and thought evaluation for structured problem-solving, enabling exploration of multiple solution paths in complex reasoning tasks.",
+  "source_repo": "jacck/mcp-reasoner",
+  "source_url": "https://github.com/jacck/mcp-reasoner",
+  "install": "# git clone --depth 1 https://github.com/jacck/mcp-reasoner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs-sound-effect-server",
+  "description": "Generates sound effects from text descriptions using ElevenLabs API and saves them as MP3 files.",
+  "source_repo": "zym9863/elevenlabs-sound-effect-server",
+  "source_url": "https://github.com/zym9863/elevenlabs-sound-effect-server",
+  "install": "# git clone --depth 1 https://github.com/zym9863/elevenlabs-sound-effect-server\n# See source for mcpServers config block"
+}

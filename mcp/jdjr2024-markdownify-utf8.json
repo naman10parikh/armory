@@ -1,0 +1,7 @@
+{
+  "name": "jdjr2024-markdownify-utf8",
+  "description": "Integrates with the markitdown library to convert various document formats including PDF, Word, and HTML to standardized Markdown, enabling efficient document processing and format unification.",
+  "source_repo": "jdjr2024/markdownify-mcp-utf8",
+  "source_url": "https://github.com/jdjr2024/markdownify-mcp-utf8",
+  "install": "# git clone --depth 1 https://github.com/jdjr2024/markdownify-mcp-utf8\n# See source for mcpServers config block"
+}

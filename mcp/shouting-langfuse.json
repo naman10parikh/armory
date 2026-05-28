@@ -1,0 +1,7 @@
+{
+  "name": "shouting-langfuse",
+  "description": "Connects AI models to Langfuse analytics workspaces, enabling access to LLM performance metrics by time range for monitoring and analysis.",
+  "source_repo": "z9905080/mcp-langfuse",
+  "source_url": "https://github.com/z9905080/mcp-langfuse",
+  "install": "# git clone --depth 1 https://github.com/z9905080/mcp-langfuse\n# See source for mcpServers config block"
+}

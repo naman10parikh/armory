@@ -1,0 +1,7 @@
+{
+  "name": "code-analyzer-server",
+  "description": "Code Analyzer Server MCP server listed on mcp.so.",
+  "source_repo": "vigourpt/code-analyzer-server",
+  "source_url": "https://mcp.so/server/code-analyzer-server/vigourpt",
+  "install": "# git clone --depth 1 https://mcp.so/server/code-analyzer-server/vigourpt\n# See source for mcpServers config block"
+}

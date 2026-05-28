@@ -1,0 +1,7 @@
+{
+  "name": "flik-mcp",
+  "description": "Agentic product delivery platform.",
+  "source_repo": "pdeloulay/flik-mcp",
+  "source_url": "https://github.com/pdeloulay/flik-mcp",
+  "install": "npx -y flik-mcp"
+}

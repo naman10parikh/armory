@@ -1,0 +1,7 @@
+{
+  "name": "quanticsoul4772-analytical",
+  "description": "Enhances structured problem-solving and analytical reasoning with tools for research verification, statistical analysis, logical reasoning, and multi-perspective generation for data analysts, researchers, and decision-makers.",
+  "source_repo": "quanticsoul4772/analytical-mcp",
+  "source_url": "https://github.com/quanticsoul4772/analytical-mcp",
+  "install": "npx -y analytical-mcp"
+}

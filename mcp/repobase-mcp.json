@@ -1,0 +1,7 @@
+{
+  "name": "repobase-mcp",
+  "description": "MCP server for indexing and searching Git repositories with AI. Enables tools like listing repos, semantic search, file globbing, and regex grep.",
+  "source_repo": "fernandoabolafio/repobase",
+  "source_url": "https://github.com/fernandoabolafio/repobase",
+  "install": "# git clone --depth 1 https://github.com/fernandoabolafio/repobase\n# See source for mcpServers config block"
+}

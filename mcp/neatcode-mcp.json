@@ -1,0 +1,7 @@
+{
+  "name": "neatcode-mcp",
+  "description": "Provides deterministic AST graph queries and rule validation for AI coding agents via MCP tools, enabling structural intelligence without LLM calls.",
+  "source_repo": "HITMANdark07/neatcodeai",
+  "source_url": "https://github.com/HITMANdark07/neatcodeai",
+  "install": "# git clone --depth 1 https://github.com/HITMANdark07/neatcodeai\n# See source for mcpServers config block"
+}

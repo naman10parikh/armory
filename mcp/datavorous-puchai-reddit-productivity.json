@@ -1,0 +1,7 @@
+{
+  "name": "datavorous-puchai-reddit-productivity",
+  "description": "Combines Reddit content analysis with personal productivity features, scraping posts across multiple subreddits using fuzzy keyword matching and engagement scoring to identify high-potential discussions for market validation while providing TODO list management and chart generation capabilities.",
+  "source_repo": "datavorous/puch-mcp-hackathon",
+  "source_url": "https://github.com/datavorous/puch-mcp-hackathon",
+  "install": "# git clone --depth 1 https://github.com/datavorous/puch-mcp-hackathon\n# See source for mcpServers config block"
+}

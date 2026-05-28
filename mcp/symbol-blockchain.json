@@ -1,0 +1,7 @@
+{
+  "name": "symbol-blockchain",
+  "description": "Enables interaction with the Symbol blockchain for querying account information, transaction data, and block details through automatically generated tools from the Symbol OpenAPI specification.",
+  "source_repo": "husqvaluna/symbol-blockchain-mcp-server",
+  "source_url": "https://github.com/husqvaluna/symbol-blockchain-mcp-server",
+  "install": "npx -y symbol-blockchain-mcp-server"
+}

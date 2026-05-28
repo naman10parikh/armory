@@ -1,0 +1,7 @@
+{
+  "name": "ansvar-systems-uk-standards",
+  "description": "Provides access to 328 UK cybersecurity controls across 28 frameworks including Cyber Essentials, NCSC CAF, and NHS DSPT.",
+  "source_repo": "ansvarsystems/uk-standards-mcp",
+  "source_url": "https://github.com/ansvarsystems/uk-standards-mcp",
+  "install": "npx -y uk-standards-mcp"
+}

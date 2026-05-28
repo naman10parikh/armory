@@ -1,0 +1,7 @@
+{
+  "name": "aiowhitebit-mcp",
+  "description": "MCP server for WhiteBit cryptocurrency exchange API, enabling market data retrieval, order book access, and real-time WebSocket streams.",
+  "source_repo": "doubledare704/aiowhitebit-mcp",
+  "source_url": "https://github.com/doubledare704/aiowhitebit-mcp",
+  "install": "npx -y aiowhitebit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rohanmuppa-brightspace-mcp-server",
+  "description": "MCP server for D2L Brightspace LMS. Check grades, due dates, assignments, announcements, syllabus, rosters, discussions, and course content. Works with any school that uses Brightspace. Install via `npx brightspace-mcp-server@latest`.",
+  "source_repo": "RohanMuppa/brightspace-mcp-server",
+  "source_url": "https://github.com/RohanMuppa/brightspace-mcp-server",
+  "install": "npx -y brightspace-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "securityscan-api-securityscan-api",
+  "description": "Scans AI agent skills and plugins for prompt injection, malware patterns, and OWASP LLM Top 10 vulnerabilities before installation.",
+  "source_repo": "securityscan-api/securityscan-api",
+  "source_url": "https://github.com/securityscan-api/securityscan-api",
+  "install": "# git clone --depth 1 https://github.com/securityscan-api/securityscan-api\n# See source for mcpServers config block"
+}

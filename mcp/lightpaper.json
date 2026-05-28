@@ -1,0 +1,7 @@
+{
+  "name": "lightpaper",
+  "description": "API-first publishing platform where AI agents publish markdown as permanent, beautifully typeset web pages with quality scoring.",
+  "source_repo": "lightpaperorg/lightpaper",
+  "source_url": "https://github.com/lightpaperorg/lightpaper",
+  "install": "# git clone --depth 1 https://github.com/lightpaperorg/lightpaper\n# See source for mcpServers config block"
+}

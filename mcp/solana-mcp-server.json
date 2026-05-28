@@ -1,0 +1,7 @@
+{
+  "name": "solana-mcp-server",
+  "description": "Enables AI agents to read chain data, execute transactions, swap tokens, and manage wallets on Solana through 38 tools across 7 modules. Supports write operations with a private key and includes built-in prompts for common workflows.",
+  "source_repo": "visioneth/solana-mcp",
+  "source_url": "https://github.com/visioneth/solana-mcp",
+  "install": "npx -y solana-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-aave",
+  "description": "Hosted proxy for Aave lending protocol APIs with 6 auto-generated tools for DeFi analytics.",
+  "source_repo": "junct-bot/aave-mcp",
+  "source_url": "https://github.com/junct-bot/aave-mcp",
+  "install": "npx -y aave-mcp"
+}

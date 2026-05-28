@@ -1,0 +1,7 @@
+{
+  "name": "andres-m-rodriguez-grigori",
+  "description": "Semantic code search that indexes codebases across multiple programming languages using local embeddings to find relevant code examples based on functionality rather than exact keywords.",
+  "source_repo": "andres-m-rodriguez/grigori",
+  "source_url": "https://github.com/andres-m-rodriguez/grigori",
+  "install": "# git clone --depth 1 https://github.com/andres-m-rodriguez/grigori\n# See source for mcpServers config block"
+}

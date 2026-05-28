@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-attom",
+  "description": "Premium real estate data from ATTOM Data Solutions for property, market, and neighborhood intelligence.",
+  "source_repo": "pipeworx-io/mcp-attom",
+  "source_url": "https://github.com/pipeworx-io/mcp-attom",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-attom\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ametyst-alpic",
+  "description": "Service marketplace integration for browsing, purchasing, and running services via Ametyst.",
+  "source_repo": "kkkpeckkk/alpic-mcp",
+  "source_url": "https://github.com/kkkpeckkk/alpic-mcp",
+  "install": "npx -y alpic-mcp"
+}

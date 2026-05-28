@@ -1,0 +1,7 @@
+{
+  "name": "nylas-api-mcp",
+  "description": "Nylas Api Mcp MCP server listed on mcp.so.",
+  "source_repo": "nylas-samples/nylas-api-mcp",
+  "source_url": "https://mcp.so/server/nylas-api-mcp/nylas-samples",
+  "install": "npx -y nylas-api-mcp"
+}

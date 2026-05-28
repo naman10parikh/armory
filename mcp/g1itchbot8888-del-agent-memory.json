@@ -1,0 +1,7 @@
+{
+  "name": "g1itchbot8888-del-agent-memory",
+  "description": "Three-layer memory system for agents (identity/active/archive) with semantic search, graph relationships, conflict detection, and LearningMachine. Built by an agent, for agents. No API keys required.",
+  "source_repo": "g1itchbot8888-del/agent-memory",
+  "source_url": "https://github.com/g1itchbot8888-del/agent-memory",
+  "install": "# git clone --depth 1 https://github.com/g1itchbot8888-del/agent-memory\n# See source for mcpServers config block"
+}

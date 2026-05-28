@@ -1,0 +1,7 @@
+{
+  "name": "favcrm-agentic-crm",
+  "description": "**Agentic CRM for service businesses** — 136 typed tools across customers, bookings, loyalty, invoices, and WhatsApp/SMS. Hosted at `api.favcrm.io/mcp`. ### What it does - **Customers & loyalty** — segments, memberships, rewards, points - **Bookings** — create, confirm, cancel, no-show; capacity-awa",
+  "source_repo": "",
+  "source_url": "https://favcrm.io",
+  "install": "# git clone --depth 1 https://favcrm.io\n# See source for mcpServers config block"
+}

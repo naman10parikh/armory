@@ -1,0 +1,7 @@
+{
+  "name": "ableton-live",
+  "description": "Provides real-time control and automation of Ableton Live through a dual-component architecture consisting of a Python Remote Script and external server that communicate via socket connections, enabling session management, MIDI clip operations, and browser integration for loading instruments and effects.",
+  "source_repo": "chaudepark/ableton-mcp",
+  "source_url": "https://github.com/chaudepark/ableton-mcp",
+  "install": "npx -y ableton-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amkisko-rubygems",
+  "description": "Provides comprehensive Ruby ecosystem information including gem versions, changelogs, download statistics, reverse dependencies, and Ruby release data through RubyGems.org and GitHub APIs with intelligent caching and pagination for development workflow optimization.",
+  "source_repo": "amkisko/rubygems_mcp.rb",
+  "source_url": "https://github.com/amkisko/rubygems_mcp.rb",
+  "install": "# git clone --depth 1 https://github.com/amkisko/rubygems_mcp.rb\n# See source for mcpServers config block"
+}

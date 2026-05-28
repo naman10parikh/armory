@@ -1,0 +1,7 @@
+{
+  "name": "emacs",
+  "description": "Provides deep introspection into Emacs environments, enabling access to documentation, configuration details, keybindings, modes, packages, and system information from running Emacs instances for configuration development and troubleshooting.",
+  "source_repo": "mpontus/emacs-mcp",
+  "source_url": "https://github.com/mpontus/emacs-mcp",
+  "install": "npx -y emacs-mcp"
+}

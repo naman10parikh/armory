@@ -1,0 +1,7 @@
+{
+  "name": "neaj-corp-qrverloz",
+  "description": "Dynamic QR code creation and analytics via the Qrverloz API, with retargetable codes.",
+  "source_repo": "neaj-corp/qrverloz-mcp",
+  "source_url": "https://github.com/neaj-corp/qrverloz-mcp",
+  "install": "npx -y qrverloz-mcp"
+}

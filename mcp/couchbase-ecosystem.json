@@ -1,0 +1,7 @@
+{
+  "name": "couchbase-ecosystem",
+  "description": "Connect to Couchbase clusters for document management, SQL++ queries, and performance analytics",
+  "source_repo": "Couchbase-Ecosystem/mcp-server-couchbase",
+  "source_url": "https://github.com/Couchbase-Ecosystem/mcp-server-couchbase",
+  "install": "# git clone --depth 1 https://github.com/Couchbase-Ecosystem/mcp-server-couchbase\n# See source for mcpServers config block"
+}

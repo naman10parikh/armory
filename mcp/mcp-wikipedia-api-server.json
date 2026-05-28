@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wikipedia-api-server",
+  "description": "MCP Wikipedia API Server MCP server listed on mcp.so.",
+  "source_repo": "Rishavv007/MCP-Wikipedia-API-Server",
+  "source_url": "https://mcp.so/server/MCP-Wikipedia-API-Server/Rishavv007",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Wikipedia-API-Server/Rishavv007\n# See source for mcpServers config block"
+}

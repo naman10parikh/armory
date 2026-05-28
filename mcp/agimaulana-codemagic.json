@@ -1,0 +1,7 @@
+{
+  "name": "agimaulana-codemagic",
+  "description": "Manage Codemagic CI/CD builds, apps, artifacts, caches, and environment variables.",
+  "source_repo": "agimaulana/codemagicmcp",
+  "source_url": "https://github.com/agimaulana/codemagicmcp",
+  "install": "# git clone --depth 1 https://github.com/agimaulana/codemagicmcp\n# See source for mcpServers config block"
+}

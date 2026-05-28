@@ -1,0 +1,7 @@
+{
+  "name": "sourceplane-mcp",
+  "description": "Secure multi-source MCP server for reading local, GitHub, GitLab, Bitbucket, and network source code with read-only-by-default access, enabling AI assistants to inspect repositories safely.",
+  "source_repo": "infraWS/sourceplane-mcp",
+  "source_url": "https://github.com/infraWS/sourceplane-mcp",
+  "install": "npx -y sourceplane-mcp"
+}

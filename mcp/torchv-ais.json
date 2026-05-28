@@ -1,0 +1,7 @@
+{
+  "name": "torchv-ais",
+  "description": "Read, write, and admin access to TorchV AIS enterprise knowledge base systems.",
+  "source_repo": "torchv/ais-mcp",
+  "source_url": "https://github.com/torchv/ais-mcp",
+  "install": "npx -y ais-mcp"
+}

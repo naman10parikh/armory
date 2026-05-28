@@ -1,0 +1,7 @@
+{
+  "name": "aliyun-polardb",
+  "description": "Provides a bridge between natural language interfaces and Alibaba Cloud PolarDB databases, enabling direct interaction with MySQL and PostgreSQL instances through queries, table exploration, and configurable SQL execution.",
+  "source_repo": "aliyun/alibabacloud-polardb-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-polardb-mcp-server",
+  "install": "npx -y alibabacloud-polardb-mcp-server"
+}

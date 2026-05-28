@@ -1,0 +1,7 @@
+{
+  "name": "inventer-internet-speed-test",
+  "description": "Measures network performance metrics including download speed, upload speed, latency, and jitter through configurable test endpoints that adapt to different testing scenarios and environments.",
+  "source_repo": "inventer-dev/mcp-internet-speed-test",
+  "source_url": "https://github.com/inventer-dev/mcp-internet-speed-test",
+  "install": "# git clone --depth 1 https://github.com/inventer-dev/mcp-internet-speed-test\n# See source for mcpServers config block"
+}

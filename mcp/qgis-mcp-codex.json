@@ -1,0 +1,7 @@
+{
+  "name": "qgis-mcp-codex",
+  "description": "Connects OpenAI Codex Desktop to QGIS Desktop for natural language GIS operations, including project management, layer manipulation, and algorithm execution.",
+  "source_repo": "geo2004/OpenAICodex-QGIS-MCP",
+  "source_url": "https://github.com/geo2004/OpenAICodex-QGIS-MCP",
+  "install": "npx -y OpenAICodex-QGIS-MCP"
+}

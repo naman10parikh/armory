@@ -1,0 +1,7 @@
+{
+  "name": "gh-jimmytwei-gasbuddy-price-tracker",
+  "description": "Scrapes GasBuddy.com to find real-time gas prices for US cities and zip codes.",
+  "source_repo": "jimmytwei/gasbuddy-mcp-price-tracker",
+  "source_url": "https://github.com/jimmytwei/gasbuddy-mcp-price-tracker",
+  "install": "# git clone --depth 1 https://github.com/jimmytwei/gasbuddy-mcp-price-tracker\n# See source for mcpServers config block"
+}

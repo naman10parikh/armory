@@ -1,0 +1,7 @@
+{
+  "name": "macwright",
+  "description": "An MCP server for reliable native macOS desktop control from AI agents, providing 72 tools for screenshots, mouse, keyboard, scroll, clipboard, window management, and more.",
+  "source_repo": "ruchit-p/macwright",
+  "source_url": "https://github.com/ruchit-p/macwright",
+  "install": "# git clone --depth 1 https://github.com/ruchit-p/macwright\n# See source for mcpServers config block"
+}

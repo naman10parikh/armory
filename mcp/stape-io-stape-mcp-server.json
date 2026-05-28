@@ -1,0 +1,7 @@
+{
+  "name": "stape-io-stape-mcp-server",
+  "description": "This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.",
+  "source_repo": "stape-io/stape-mcp-server",
+  "source_url": "https://github.com/stape-io/stape-mcp-server",
+  "install": "npx -y stape-mcp-server"
+}

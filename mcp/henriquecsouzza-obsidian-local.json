@@ -1,0 +1,7 @@
+{
+  "name": "henriquecsouzza-obsidian-local",
+  "description": "Expose a local Obsidian vault to VS Code and GitHub Copilot for reading, writing, searching, and tagging notes via stdio.",
+  "source_repo": "henriquecsouzza/obsidian-mcp-local",
+  "source_url": "https://github.com/henriquecsouzza/obsidian-mcp-local",
+  "install": "# git clone --depth 1 https://github.com/henriquecsouzza/obsidian-mcp-local\n# See source for mcpServers config block"
+}

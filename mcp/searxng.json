@@ -1,0 +1,7 @@
+{
+  "name": "searxng",
+  "description": "MCP Server for SearXNG, a privacy-respecting metasearch engine. Perform web searches across multiple search engines without tracking.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/web/searxng.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/web/searxng.json\n# See source for mcpServers config block"
+}

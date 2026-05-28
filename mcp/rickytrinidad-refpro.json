@@ -1,0 +1,7 @@
+{
+  "name": "rickytrinidad-refpro",
+  "description": "Deterministic real estate underwriting, deal analysis, and reports for Fix &amp; Flip, BRRRR, and construction.",
+  "source_repo": "rickytrinidad/refpro-mcp",
+  "source_url": "https://github.com/rickytrinidad/refpro-mcp",
+  "install": "npx -y refpro-mcp"
+}

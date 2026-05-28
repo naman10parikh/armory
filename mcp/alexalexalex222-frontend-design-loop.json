@@ -1,0 +1,7 @@
+{
+  "name": "alexalexalex222-frontend-design-loop",
+  "description": "Screenshot-grounded design iteration for frontend development.",
+  "source_repo": "alexalexalex222/frontend-design-loop-mcp",
+  "source_url": "https://github.com/alexalexalex222/frontend-design-loop-mcp",
+  "install": "npx -y frontend-design-loop-mcp"
+}

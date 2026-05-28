@@ -1,0 +1,7 @@
+{
+  "name": "jkang8-obsidian",
+  "description": "Provides direct vault access for file operations, full-text search, frontmatter manipulation, wikilink analysis, tag management, and daily note creation in Obsidian.",
+  "source_repo": "jkang8/mcp-obsidian",
+  "source_url": "https://github.com/jkang8/mcp-obsidian",
+  "install": "# git clone --depth 1 https://github.com/jkang8/mcp-obsidian\n# See source for mcpServers config block"
+}

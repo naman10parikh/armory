@@ -1,0 +1,7 @@
+{
+  "name": "noodle-engineer",
+  "description": "A2A server for NoodleSeed-com's engineering platform, facilitating agent communication and collaboration in projects",
+  "source_repo": "NoodleSeed-com/noodle-engineer",
+  "source_url": "https://github.com/NoodleSeed-com/noodle-engineer",
+  "install": "# git clone --depth 1 https://github.com/NoodleSeed-com/noodle-engineer\n# See source for mcpServers config block"
+}

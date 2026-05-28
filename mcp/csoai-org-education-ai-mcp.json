@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-education-ai-mcp",
+  "description": "AI tools for creating educational content, quizzes, and learning pathways.",
+  "source_repo": "csoai-org/education-ai-mcp",
+  "source_url": "https://github.com/csoai-org/education-ai-mcp",
+  "install": "npx -y education-ai-mcp"
+}

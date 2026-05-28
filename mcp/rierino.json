@@ -1,0 +1,7 @@
+{
+  "name": "rierino",
+  "description": "Enables organizations to expose existing APIs, event processing, or CDC flows as MCP tools while maintaining security policies and user roles through configurable middleware or custom server implementations.",
+  "source_repo": "rierino-open/mcp",
+  "source_url": "https://github.com/rierino-open/mcp",
+  "install": "# git clone --depth 1 https://github.com/rierino-open/mcp\n# See source for mcpServers config block"
+}

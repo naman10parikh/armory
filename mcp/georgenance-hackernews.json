@@ -1,0 +1,7 @@
+{
+  "name": "georgenance-hackernews",
+  "description": "Integrates with Hacker News API to fetch top stories, retrieve detailed story information with markdown content extraction, get popular comments with filtering options, and search recent stories by keywords within specified time ranges.",
+  "source_repo": "georgenance/hackernews-mcp",
+  "source_url": "https://github.com/georgenance/hackernews-mcp",
+  "install": "npx -y hackernews-mcp"
+}

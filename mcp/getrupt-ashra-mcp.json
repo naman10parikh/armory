@@ -1,0 +1,7 @@
+{
+  "name": "getrupt-ashra-mcp",
+  "description": "Extract structured data from any website. Just prompt and get JSON.",
+  "source_repo": "getrupt/ashra-mcp",
+  "source_url": "https://github.com/getrupt/ashra-mcp",
+  "install": "npx -y ashra-mcp"
+}

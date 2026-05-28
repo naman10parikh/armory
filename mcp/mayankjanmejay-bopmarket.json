@@ -1,0 +1,7 @@
+{
+  "name": "mayankjanmejay-bopmarket",
+  "description": "Automates buying, selling, and product tracking across Amazon, eBay, AliExpress, and other e-commerce platforms.",
+  "source_repo": "mayankjanmejay/bopmarket-mcp",
+  "source_url": "https://github.com/mayankjanmejay/bopmarket-mcp",
+  "install": "npx -y bopmarket-mcp"
+}

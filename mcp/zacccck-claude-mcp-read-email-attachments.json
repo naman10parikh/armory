@@ -1,0 +1,7 @@
+{
+  "name": "zacccck-claude-mcp-read-email-attachments",
+  "description": "Remote HTTP MCP server that reads Outlook email attachments via Microsoft Graph. Parses PDF, Word (with embedded image extraction for multimodal analysis), Excel, and text files in-memory and returns structured content directly to Claude.",
+  "source_repo": "Zacccck/Claude-MCP-Read-Email-Attachments",
+  "source_url": "https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments",
+  "install": "# git clone --depth 1 https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments\n# See source for mcpServers config block"
+}

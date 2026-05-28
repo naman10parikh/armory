@@ -1,0 +1,7 @@
+{
+  "name": "huetension-mcp",
+  "description": "Extract palettes from images, generate harmonies, gradients, random palettes; Check WCAG and APCA contrast; Suggest nearest passing OkLCH lightness; Simulate color-blindness; Convert and sort colors across formats (hex / RGB / HSL / OkLCH / …)",
+  "source_repo": "leporel/huetension",
+  "source_url": "https://github.com/leporel/huetension",
+  "install": "# git clone --depth 1 https://github.com/leporel/huetension\n# See source for mcpServers config block"
+}

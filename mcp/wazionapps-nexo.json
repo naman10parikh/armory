@@ -1,0 +1,7 @@
+{
+  "name": "wazionapps-nexo",
+  "description": "Cognitive memory for AI agents with Atkinson-Shiffrin memory model (STM/LTM/sensory register), semantic RAG, Ebbinghaus decay, trust scoring, and 76+ MCP tools.",
+  "source_repo": "wazionapps/nexo",
+  "source_url": "https://github.com/wazionapps/nexo",
+  "install": "# git clone --depth 1 https://github.com/wazionapps/nexo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thinkchain-uk-police",
+  "description": "Access street-level crime reports, stop and search data, and outcomes across UK police forces.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/thinkchain-uk-police",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/thinkchain-uk-police\n# See source for mcpServers config block"
+}

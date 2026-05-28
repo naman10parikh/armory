@@ -1,0 +1,7 @@
+{
+  "name": "dhravya-apple-native-tools",
+  "description": "Integrates with Apple's native applications to enable searching contacts, managing notes, and sending messages within the macOS ecosystem.",
+  "source_repo": "supermemoryai/apple-mcp",
+  "source_url": "https://github.com/supermemoryai/apple-mcp",
+  "install": "npx -y apple-mcp"
+}

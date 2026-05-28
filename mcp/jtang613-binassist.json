@@ -1,0 +1,7 @@
+{
+  "name": "jtang613-binassist",
+  "description": "Integrates with Binary Ninja to expose decompilation, IL analysis, symbol management, type system manipulation, and cross-reference analysis tools for reverse engineering workflows including vulnerability research, code understanding, and automated documentation generation.",
+  "source_repo": "symgraph/binassistmcp",
+  "source_url": "https://github.com/symgraph/binassistmcp",
+  "install": "# git clone --depth 1 https://github.com/symgraph/binassistmcp\n# See source for mcpServers config block"
+}

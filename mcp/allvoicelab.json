@@ -1,0 +1,7 @@
+{
+  "name": "allvoicelab",
+  "description": "Integrates with AllVoiceLab's API to provide advanced voice and audio processing capabilities including text-to-speech conversion, voice cloning, speech transformation, subtitle extraction, and multilingual video dubbing.",
+  "source_repo": "allvoicelab/allvoicelab-mcp",
+  "source_url": "https://github.com/allvoicelab/allvoicelab-mcp",
+  "install": "npx -y allvoicelab-mcp"
+}

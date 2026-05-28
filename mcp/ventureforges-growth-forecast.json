@@ -1,0 +1,7 @@
+{
+  "name": "ventureforges-growth-forecast",
+  "description": "Cryptographic validation and backtesting data for SP500 and crypto market forecasts",
+  "source_repo": "",
+  "source_url": "https://growth-mcp-page.vercel.app/",
+  "install": "# git clone --depth 1 https://growth-mcp-page.vercel.app/\n# See source for mcpServers config block"
+}

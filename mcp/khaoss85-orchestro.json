@@ -1,0 +1,7 @@
+{
+  "name": "khaoss85-orchestro",
+  "description": "Project orchestration system for AI-assisted development with task decomposition and dependency tracking",
+  "source_repo": "khaoss85/mcp-orchestro",
+  "source_url": "https://github.com/khaoss85/mcp-orchestro",
+  "install": "# git clone --depth 1 https://github.com/khaoss85/mcp-orchestro\n# See source for mcpServers config block"
+}

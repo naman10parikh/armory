@@ -1,0 +1,7 @@
+{
+  "name": "opentorah-ai-sefaria-jewish-library",
+  "description": "Integrates with Sefaria.org API to provide access to Hebrew and English Jewish texts, weekly Torah portions, and associated commentaries for religious study and scholarly research.",
+  "source_repo": "opentorah-ai/mcp-sefaria-server",
+  "source_url": "https://github.com/opentorah-ai/mcp-sefaria-server",
+  "install": "# git clone --depth 1 https://github.com/opentorah-ai/mcp-sefaria-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skala",
+  "description": "Legal platform for global company incorporation, fundraising, and corporate services.",
+  "source_repo": "",
+  "source_url": "https://ai.skala.io/mcp",
+  "install": "# git clone --depth 1 https://ai.skala.io/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kimimgo-viznoir",
+  "description": "Cinema-quality science visualization MCP server for CFD/FEA/SPH. 22 tools for rendering, slicing, contouring, volume rendering, and animating OpenFOAM/VTK/CGNS data. Headless EGL/OSMesa.",
+  "source_repo": "kimimgo/viznoir",
+  "source_url": "https://github.com/kimimgo/viznoir",
+  "install": "# git clone --depth 1 https://github.com/kimimgo/viznoir\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "filipescordeiro2-mongodb",
+  "description": "Queries and manages MongoDB databases including collections, documents, and indexes.",
+  "source_repo": "filipescordeiro2/mcp-mongo",
+  "source_url": "https://github.com/filipescordeiro2/mcp-mongo",
+  "install": "# git clone --depth 1 https://github.com/filipescordeiro2/mcp-mongo\n# See source for mcpServers config block"
+}

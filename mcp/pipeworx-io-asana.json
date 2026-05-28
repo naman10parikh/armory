@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-asana",
+  "description": "Asana project management integration for workspaces and tasks via the Asana REST API with OAuth credentials.",
+  "source_repo": "pipeworx-io/mcp-asana",
+  "source_url": "https://github.com/pipeworx-io/mcp-asana",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-asana\n# See source for mcpServers config block"
+}

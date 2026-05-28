@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-lorem",
+  "description": "Generate lorem ipsum placeholder text in various lengths and formats.",
+  "source_repo": "pipeworx-io/mcp-lorem",
+  "source_url": "https://github.com/pipeworx-io/mcp-lorem",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-lorem\n# See source for mcpServers config block"
+}

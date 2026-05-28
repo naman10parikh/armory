@@ -1,0 +1,7 @@
+{
+  "name": "odos",
+  "description": "Integrates with Odos API and Zerion platform to provide DeFi trading capabilities including swap quotes, zap operations, token price data, and comprehensive wallet portfolio analysis with transaction history and performance metrics across multiple blockchain networks.",
+  "source_repo": "odos-xyz/odos-mcp",
+  "source_url": "https://github.com/odos-xyz/odos-mcp",
+  "install": "npx -y odos-mcp"
+}

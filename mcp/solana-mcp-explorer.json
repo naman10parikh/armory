@@ -1,0 +1,7 @@
+{
+  "name": "solana-mcp-explorer",
+  "description": "Solana Mcp Explorer MCP server listed on mcp.so.",
+  "source_repo": "notorious-d-e-v/solana-mcp-explorer",
+  "source_url": "https://mcp.so/server/solana-mcp-explorer/notorious-d-e-v",
+  "install": "# git clone --depth 1 https://mcp.so/server/solana-mcp-explorer/notorious-d-e-v\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ymeng98-ddddocr-captcha",
+  "description": "Integrates ddddocr Python library through TypeScript interface to automatically solve text-based verification codes, click-to-select object challenges, and sliding puzzle CAPTCHAs for web scraping automation and accessibility workflows.",
+  "source_repo": "ymeng98/ddddocr-captcha-mcp",
+  "source_url": "https://github.com/ymeng98/ddddocr-captcha-mcp",
+  "install": "npx -y ddddocr-captcha-mcp"
+}

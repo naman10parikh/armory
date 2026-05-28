@@ -1,0 +1,7 @@
+{
+  "name": "colophon-group-jobseek",
+  "description": "Job posting monitoring system for company career pages.",
+  "source_repo": "colophon-group/jobseek",
+  "source_url": "https://github.com/colophon-group/jobseek/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/colophon-group/jobseek/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

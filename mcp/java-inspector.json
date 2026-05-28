@@ -1,0 +1,7 @@
+{
+  "name": "java-inspector",
+  "description": "Decompiles Maven dependencies into readable Java source directly inside your AI agent.",
+  "source_repo": "mustafagoksever/java-inspector",
+  "source_url": "https://github.com/mustafagoksever/java-inspector",
+  "install": "# git clone --depth 1 https://github.com/mustafagoksever/java-inspector\n# See source for mcpServers config block"
+}

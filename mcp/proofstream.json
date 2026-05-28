@@ -1,0 +1,7 @@
+{
+  "name": "proofstream",
+  "description": "Dispatches human verifiers to physically verify anything in the real world for AI agents.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/proofstream",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/proofstream\n# See source for mcpServers config block"
+}

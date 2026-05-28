@@ -1,0 +1,7 @@
+{
+  "name": "louis030195-terminator-mcp-agent",
+  "description": "Desktop GUI automation using accessibility APIs. Control Windows, macOS, and Linux applications without vision models or screenshots. Supports workflow recording, structured data extraction, and browser DOM inspection.",
+  "source_repo": "mediar-ai/terminator",
+  "source_url": "https://github.com/mediar-ai/terminator/tree/main/terminator-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/mediar-ai/terminator/tree/main/terminator-mcp-agent\n# See source for mcpServers config block"
+}

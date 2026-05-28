@@ -1,0 +1,7 @@
+{
+  "name": "endor-labs-security",
+  "description": "Integrates with Endor Labs security platform to provide real-time vulnerability detection, dependency scanning, and security analysis directly in development environments through the endorctl CLI tool.",
+  "source_repo": "",
+  "source_url": "https://docs.endorlabs.com/deployment/ide/mcp/",
+  "install": "# git clone --depth 1 https://docs.endorlabs.com/deployment/ide/mcp/\n# See source for mcpServers config block"
+}

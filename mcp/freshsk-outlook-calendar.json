@@ -1,0 +1,7 @@
+{
+  "name": "freshsk-outlook-calendar",
+  "description": "Integrates with Microsoft Outlook through Azure AD authentication to provide email management, calendar operations, and automatic Microsoft Teams meeting creation.",
+  "source_repo": "freshsk/mcp_outlook_calendar",
+  "source_url": "https://github.com/freshsk/mcp_outlook_calendar",
+  "install": "# git clone --depth 1 https://github.com/freshsk/mcp_outlook_calendar\n# See source for mcpServers config block"
+}

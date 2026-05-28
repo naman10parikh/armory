@@ -1,0 +1,7 @@
+{
+  "name": "afrise-academic-search",
+  "description": "Integrates with academic APIs to enable searching, retrieving, and filtering scholarly papers across multiple sources for research and analysis tasks.",
+  "source_repo": "afrise/academic-search-mcp-server",
+  "source_url": "https://github.com/afrise/academic-search-mcp-server",
+  "install": "npx -y academic-search-mcp-server"
+}

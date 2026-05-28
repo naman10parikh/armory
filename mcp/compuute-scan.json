@@ -1,0 +1,7 @@
+{
+  "name": "compuute-scan",
+  "description": "Static security scanner for MCP servers, analyzing GitHub repositories across 37 rules in 8 programming languages.",
+  "source_repo": "compuute/compuute-scan-api",
+  "source_url": "https://github.com/compuute/compuute-scan-api",
+  "install": "# git clone --depth 1 https://github.com/compuute/compuute-scan-api\n# See source for mcpServers config block"
+}

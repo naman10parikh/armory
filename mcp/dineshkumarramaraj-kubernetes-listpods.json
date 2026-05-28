@@ -1,0 +1,7 @@
+{
+  "name": "dineshkumarramaraj-kubernetes-listpods",
+  "description": "Enables interaction with Kubernetes clusters to list pods in specified namespaces using the user's kubeconfig file for DevOps workflows, monitoring, and troubleshooting deployments.",
+  "source_repo": "dineshkumarramaraj/mcp-kubernetes",
+  "source_url": "https://github.com/dineshkumarramaraj/mcp-kubernetes/tree/HEAD/kubernetes-listpods",
+  "install": "# git clone --depth 1 https://github.com/dineshkumarramaraj/mcp-kubernetes/tree/HEAD/kubernetes-listpods\n# See source for mcpServers config block"
+}

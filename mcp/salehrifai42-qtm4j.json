@@ -1,0 +1,7 @@
+{
+  "name": "salehrifai42-qtm4j",
+  "description": "Connects AI assistants to QMetry Test Management for Jira for managing test cases, cycles, executions, and plans.",
+  "source_repo": "salehrifai42/qmetrymcp",
+  "source_url": "https://github.com/salehrifai42/qmetrymcp",
+  "install": "# git clone --depth 1 https://github.com/salehrifai42/qmetrymcp\n# See source for mcpServers config block"
+}

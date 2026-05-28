@@ -1,0 +1,7 @@
+{
+  "name": "yshngg-pmcp",
+  "description": "A Prometheus Model Context Protocol Server.",
+  "source_repo": "yshngg/pmcp",
+  "source_url": "https://github.com/yshngg/pmcp",
+  "install": "# git clone --depth 1 https://github.com/yshngg/pmcp\n# See source for mcpServers config block"
+}

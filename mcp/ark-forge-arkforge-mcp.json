@@ -1,0 +1,7 @@
+{
+  "name": "ark-forge-arkforge-mcp",
+  "description": "Third-party certifying proxy — sign any HTTP call (AI agents, webhooks, microservices) with an independent Ed25519 signature, RFC 3161 timestamp, and Sigstore Rekor anchor. Works with Claude, GPT-4, Mistral, LangChain, AutoGen, or any HTTP client.",
+  "source_repo": "ark-forge/arkforge-mcp",
+  "source_url": "https://github.com/ark-forge/arkforge-mcp",
+  "install": "npx -y arkforge-mcp"
+}

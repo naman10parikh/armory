@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-whereami",
+  "description": "Provides geolocation data based on user IP addresses through the ipapi.co API, returning location details like country, city, and coordinates in a formatted Markdown table.",
+  "source_repo": "kukapay/whereami-mcp",
+  "source_url": "https://github.com/kukapay/whereami-mcp",
+  "install": "npx -y whereami-mcp"
+}

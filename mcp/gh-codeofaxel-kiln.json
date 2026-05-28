@@ -1,0 +1,7 @@
+{
+  "name": "gh-codeofaxel-kiln",
+  "description": "AI agent control of 3D printers for OctoPrint, Moonraker, Bambu, Prusa, and Elegoo.",
+  "source_repo": "codeofaxel/kiln",
+  "source_url": "https://github.com/codeofaxel/kiln",
+  "install": "# git clone --depth 1 https://github.com/codeofaxel/kiln\n# See source for mcpServers config block"
+}

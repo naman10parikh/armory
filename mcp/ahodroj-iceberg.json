@@ -1,0 +1,7 @@
+{
+  "name": "ahodroj-iceberg",
+  "description": "Provides a SQL interface for querying and managing Apache Iceberg tables through connections to Iceberg REST catalogs and S3-compatible storage, enabling data analysts to interact with data lakes without switching contexts.",
+  "source_repo": "ahodroj/mcp-iceberg-service",
+  "source_url": "https://github.com/ahodroj/mcp-iceberg-service",
+  "install": "# git clone --depth 1 https://github.com/ahodroj/mcp-iceberg-service\n# See source for mcpServers config block"
+}

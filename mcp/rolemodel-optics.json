@@ -1,0 +1,7 @@
+{
+  "name": "rolemodel-optics",
+  "description": "Access RoleModel's Optics Design System tokens, components, and documentation",
+  "source_repo": "rolemodel/optics-mcp",
+  "source_url": "https://github.com/rolemodel/optics-mcp",
+  "install": "npx -y optics-mcp"
+}

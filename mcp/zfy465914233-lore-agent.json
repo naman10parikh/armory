@@ -1,0 +1,7 @@
+{
+  "name": "zfy465914233-lore-agent",
+  "description": "Local knowledge agent MCP server with BM25 retrieval and web research integration for querying and saving research notes.",
+  "source_repo": "zfy465914233/scholar-agent",
+  "source_url": "https://github.com/zfy465914233/scholar-agent",
+  "install": "# git clone --depth 1 https://github.com/zfy465914233/scholar-agent\n# See source for mcpServers config block"
+}

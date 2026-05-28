@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rss-crawler",
+  "description": "Mcp Rss Crawler MCP server listed on mcp.so.",
+  "source_repo": "mshk/mcp-rss-crawler",
+  "source_url": "https://mcp.so/server/mcp-rss-crawler/mshk",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-rss-crawler/mshk\n# See source for mcpServers config block"
+}

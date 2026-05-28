@@ -1,0 +1,7 @@
+{
+  "name": "realopen",
+  "description": "Verify crypto wallets and generate proof-of-funds letters for buying real estate with cryptocurrency.",
+  "source_repo": "realopengroup/mcp-server",
+  "source_url": "https://github.com/realopengroup/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/realopengroup/mcp-server\n# See source for mcpServers config block"
+}

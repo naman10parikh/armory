@@ -1,0 +1,7 @@
+{
+  "name": "oopsyz-tmf620-product-catalog",
+  "description": "Integrates with TMF620 Product Catalog Management API to enable listing, retrieving, and creating catalogs, product offerings, and specifications for e-commerce or telecom service providers.",
+  "source_repo": "oopsyz/mcp",
+  "source_url": "https://github.com/oopsyz/mcp",
+  "install": "# git clone --depth 1 https://github.com/oopsyz/mcp\n# See source for mcpServers config block"
+}

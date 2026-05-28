@@ -1,0 +1,7 @@
+{
+  "name": "vmoranv-jshook",
+  "description": "JavaScript analysis, security auditing, browser automation, and hook injection via MCP.",
+  "source_repo": "vmoranv/jshookmcp",
+  "source_url": "https://github.com/vmoranv/jshookmcp",
+  "install": "# git clone --depth 1 https://github.com/vmoranv/jshookmcp\n# See source for mcpServers config block"
+}

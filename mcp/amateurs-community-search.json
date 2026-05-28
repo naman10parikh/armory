@@ -1,0 +1,7 @@
+{
+  "name": "amateurs-community-search",
+  "description": "Provides AI tools for searching and querying community posts from a MySQL database with paginated searches, keyword filtering across titles, content, and tags, and support for various post types including QNA, projects, gatherings, and marketplace items.",
+  "source_repo": "prgrms-aibe-devcourse/aibe1-finalproject-team01-mcp-server",
+  "source_url": "https://github.com/prgrms-aibe-devcourse/aibe1-finalproject-team01-mcp-server",
+  "install": "npx -y aibe1-finalproject-team01-mcp-server"
+}

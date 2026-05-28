@@ -1,0 +1,7 @@
+{
+  "name": "memstem",
+  "description": "A standalone memory service that provides a unified, pull-based knowledge store for AI agents, enabling shared memory and skills across multiple AI clients via MCP.",
+  "source_repo": "Memstem/memstem",
+  "source_url": "https://github.com/Memstem/memstem",
+  "install": "# git clone --depth 1 https://github.com/Memstem/memstem\n# See source for mcpServers config block"
+}

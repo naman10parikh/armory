@@ -1,0 +1,7 @@
+{
+  "name": "knowledgepa3-gia-governance",
+  "description": "Governance layer for Claude AI agents with decision classification and audit trails.",
+  "source_repo": "knowledgepa3/gia-mcp-server",
+  "source_url": "https://github.com/knowledgepa3/gia-mcp-server",
+  "install": "npx -y gia-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mikah13-clickup",
+  "description": "Integrates with ClickUp's API to enable task management, team collaboration, and workflow automation for AI-driven project management and reporting.",
+  "source_repo": "mikah13/mcp-clickup",
+  "source_url": "https://github.com/mikah13/mcp-clickup",
+  "install": "# git clone --depth 1 https://github.com/mikah13/mcp-clickup\n# See source for mcpServers config block"
+}

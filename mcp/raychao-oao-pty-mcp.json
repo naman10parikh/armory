@@ -1,0 +1,7 @@
+{
+  "name": "raychao-oao-pty-mcp",
+  "description": "Interactive PTY sessions for AI agents — local shells, SSH with persistent sessions (ai-tmux daemon for attach/detach), and serial ports. Single Go binary, no tmux dependency.",
+  "source_repo": "raychao-oao/pty-mcp",
+  "source_url": "https://github.com/raychao-oao/pty-mcp",
+  "install": "npx -y pty-mcp"
+}

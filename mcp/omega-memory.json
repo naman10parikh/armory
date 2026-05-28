@@ -1,0 +1,7 @@
+{
+  "name": "omega-memory",
+  "description": "Persistent memory system for coding agents with semantic search, entity extraction, relationship mapping, and cross-session learning.",
+  "source_repo": "omega-memory/omega-memory",
+  "source_url": "https://github.com/omega-memory/omega-memory",
+  "install": "# git clone --depth 1 https://github.com/omega-memory/omega-memory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ip-lookup-mcp",
+  "description": "Provides IP address geolocation and lookup via ip-api.com, no authentication required for basic usage.",
+  "source_repo": "pipeworx-io/mcp-iplookup",
+  "source_url": "https://github.com/pipeworx-io/mcp-iplookup",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-iplookup\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-daktela",
+  "description": "Read-only MCP server for the Daktela contact center REST API, providing 40 tools to access tickets, calls, emails, chats, contacts, CRM records, campaigns, and real-time agent status.",
+  "source_repo": "hajekd/mcp-daktela",
+  "source_url": "https://github.com/hajekd/mcp-daktela",
+  "install": "# git clone --depth 1 https://github.com/hajekd/mcp-daktela\n# See source for mcpServers config block"
+}

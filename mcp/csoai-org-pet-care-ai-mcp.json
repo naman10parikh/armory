@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-pet-care-ai-mcp",
+  "description": "Python MCP server for pet care guidance and veterinary information tools.",
+  "source_repo": "csoai-org/pet-care-ai-mcp",
+  "source_url": "https://github.com/csoai-org/pet-care-ai-mcp",
+  "install": "npx -y pet-care-ai-mcp"
+}

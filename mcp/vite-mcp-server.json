@@ -1,0 +1,7 @@
+{
+  "name": "vite-mcp-server",
+  "description": "Vite Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ESnark/vite-mcp-server",
+  "source_url": "https://mcp.so/server/vite-mcp-server/ESnark",
+  "install": "npx -y vite-mcp-server"
+}

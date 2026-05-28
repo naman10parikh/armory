@@ -1,0 +1,7 @@
+{
+  "name": "scrapi",
+  "description": "Web scraping for AI agents with anti-bot bypass.",
+  "source_repo": "bamchi/scrapi-mcp-server",
+  "source_url": "https://github.com/bamchi/scrapi-mcp-server",
+  "install": "npx -y scrapi-mcp-server"
+}

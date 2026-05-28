@@ -1,0 +1,7 @@
+{
+  "name": "promptbook-mcp",
+  "description": "A server that stores and semantically searches AI prompts via RAG, enabling developers to reuse prompts from AI coding assistants.",
+  "source_repo": "isaacpalomero/promptbook-mcp",
+  "source_url": "https://github.com/isaacpalomero/promptbook-mcp",
+  "install": "npx -y promptbook-mcp"
+}

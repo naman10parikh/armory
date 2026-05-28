@@ -1,0 +1,7 @@
+{
+  "name": "nirholas-llm-energy-docs-extractor",
+  "description": "Fetches and transforms llms.txt documentation files from websites into organized markdown documents with automatic parsing, caching, and multiple export formats.",
+  "source_repo": "nirholas/extract-llms-docs",
+  "source_url": "https://github.com/nirholas/extract-llms-docs/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/nirholas/extract-llms-docs/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

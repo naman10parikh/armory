@@ -1,0 +1,7 @@
+{
+  "name": "pipedream",
+  "description": "Access hosted MCP servers or deploy your own for 2,500+ APIs like Slack, GitHub, Notion, Google Drive, and more, all with built-in auth and 10k tools.",
+  "source_repo": "pipedreamhq/pipedream",
+  "source_url": "https://github.com/pipedreamhq/pipedream/tree/HEAD/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://github.com/pipedreamhq/pipedream/tree/HEAD/modelcontextprotocol\n# See source for mcpServers config block"
+}

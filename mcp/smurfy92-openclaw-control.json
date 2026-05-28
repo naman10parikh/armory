@@ -1,0 +1,7 @@
+{
+  "name": "smurfy92-openclaw-control",
+  "description": "Bridge Claude Code to the OpenClaw gateway management plane via JSON-RPC.",
+  "source_repo": "smurfy92/openclaw-control-mcp",
+  "source_url": "https://github.com/smurfy92/openclaw-control-mcp",
+  "install": "npx -y openclaw-control-mcp"
+}

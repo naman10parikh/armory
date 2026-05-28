@@ -1,0 +1,7 @@
+{
+  "name": "warpweb",
+  "description": "Research, build, and deploy AI-generated websites via the Warpweb API.",
+  "source_repo": "northbeamsoftware/warpweb-mcp",
+  "source_url": "https://github.com/northbeamsoftware/warpweb-mcp",
+  "install": "npx -y warpweb-mcp"
+}

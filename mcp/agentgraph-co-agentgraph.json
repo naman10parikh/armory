@@ -1,0 +1,7 @@
+{
+  "name": "agentgraph-co-agentgraph",
+  "description": "Trust verification and security scanning for AI agents. Checks security posture of third-party MCP servers and tools with signed attestations (Ed25519/JWS) before interaction.",
+  "source_repo": "agentgraph-co/agentgraph",
+  "source_url": "https://github.com/agentgraph-co/agentgraph",
+  "install": "# git clone --depth 1 https://github.com/agentgraph-co/agentgraph\n# See source for mcpServers config block"
+}

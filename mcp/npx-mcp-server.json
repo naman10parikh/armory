@@ -1,0 +1,7 @@
+{
+  "name": "npx-mcp-server",
+  "description": "Npx Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "rohithmenon2/npx-mcp-server",
+  "source_url": "https://mcp.so/server/npx-mcp-server/rohithmenon2",
+  "install": "npx -y npx-mcp-server"
+}

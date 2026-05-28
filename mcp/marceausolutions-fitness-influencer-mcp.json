@@ -1,0 +1,7 @@
+{
+  "name": "marceausolutions-fitness-influencer-mcp",
+  "description": "Fitness content creator workflow automation - video editing with jump cuts, revenue analytics, and branded content creation",
+  "source_repo": "MarceauSolutions/fitness-influencer-mcp",
+  "source_url": "https://github.com/MarceauSolutions/fitness-influencer-mcp",
+  "install": "npx -y fitness-influencer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "local-files-mcp-server",
+  "description": "Provides safe local file operations through MCP, including reading, writing, searching, organizing, and protected deletion with configurable path restrictions.",
+  "source_repo": "TobiasArg/LocalFilesOrganizer-MCP",
+  "source_url": "https://github.com/TobiasArg/LocalFilesOrganizer-MCP",
+  "install": "npx -y LocalFilesOrganizer-MCP"
+}

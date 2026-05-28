@@ -1,0 +1,7 @@
+{
+  "name": "gh-amritanshfixerra-fixerra-funnel",
+  "description": "Query booking funnel metrics and compare periods from the Fixerra admin API.",
+  "source_repo": "amritanshfixerra/fixerra-funnel-mcp",
+  "source_url": "https://github.com/amritanshfixerra/fixerra-funnel-mcp",
+  "install": "npx -y fixerra-funnel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uidriver",
+  "description": "Generates rich, interactive user interfaces that open directly in the browser, providing over 40 specialized tools for creating charts, diagrams, visualizations, forms, calendars, and data tables with fully interactive, editable, and exportable outputs using secure temporary URLs.",
+  "source_repo": "",
+  "source_url": "https://uidriver.com/",
+  "install": "# git clone --depth 1 https://uidriver.com/\n# See source for mcpServers config block"
+}

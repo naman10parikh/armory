@@ -1,0 +1,7 @@
+{
+  "name": "dogukanakkaya-pulumi",
+  "description": "Enables AI assistants to manage infrastructure as code through Pulumi Cloud API, providing capabilities to create and list stacks across organizations and projects",
+  "source_repo": "dogukanakkaya/pulumi-mcp-server",
+  "source_url": "https://github.com/dogukanakkaya/pulumi-mcp-server",
+  "install": "npx -y pulumi-mcp-server"
+}

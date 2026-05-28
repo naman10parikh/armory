@@ -1,0 +1,7 @@
+{
+  "name": "humanjesse-textarttools",
+  "description": "Unicode text styling and ASCII art generation with 23 styles and 322+ figlet fonts",
+  "source_repo": "humanjesse/textarttools-mcp",
+  "source_url": "https://github.com/humanjesse/textarttools-mcp",
+  "install": "npx -y textarttools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-open-elevation",
+  "description": "Open-Elevation terrain elevation lookup by latitude and longitude coordinates with no authentication required via Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-open-elevation",
+  "source_url": "https://github.com/pipeworx-io/mcp-open-elevation",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-open-elevation\n# See source for mcpServers config block"
+}

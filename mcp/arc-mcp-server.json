@@ -1,0 +1,7 @@
+{
+  "name": "arc-mcp-server",
+  "description": "Bridges AI models with the ARC enterprise framework, enabling documentation search, API integration, code generation, and deployment assistance for cloud-native application development.",
+  "source_repo": "maxmurphySF/arc-mcp-server",
+  "source_url": "https://github.com/maxmurphySF/arc-mcp-server",
+  "install": "npx -y arc-mcp-server"
+}

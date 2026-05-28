@@ -1,0 +1,7 @@
+{
+  "name": "npm-sentinel-mcp",
+  "description": "Provide AI-powered real-time analysis and intelligence on NPM packages, including security, dependencies, performance, and quality metrics. Enable faster and safer package management decisions by integrating with Claude and Anthropic AI. Deliver comprehensive insights such as vulnerability scanning,",
+  "source_repo": "Nekzus/npm-sentinel-mcp",
+  "source_url": "https://github.com/Nekzus/npm-sentinel-mcp#readme",
+  "install": "npx -y npm-sentinel-mcp"
+}

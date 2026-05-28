@@ -1,0 +1,7 @@
+{
+  "name": "sarveshtalele-personal-finance",
+  "description": "Financial calculators based on deterministic mathematical principles for budgeting and planning.",
+  "source_repo": "sarveshtalele/personal-finance-mcp",
+  "source_url": "https://github.com/sarveshtalele/personal-finance-mcp",
+  "install": "npx -y personal-finance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smu-rainflow-ctp-futures-trading",
+  "description": "Integrates with Chinese futures markets through vnpy trading framework and CTP gateway to provide real-time market data, account management, order execution, and position tracking for algorithmic trading and market analysis.",
+  "source_repo": "smu-rainflow/ctp-mcp",
+  "source_url": "https://github.com/smu-rainflow/ctp-mcp",
+  "install": "npx -y ctp-mcp"
+}

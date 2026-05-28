@@ -1,0 +1,7 @@
+{
+  "name": "avukatim",
+  "description": "Turkish legal research platform providing AI-powered search over statutes, court decisions, and over 5 million legal precedents.",
+  "source_repo": "",
+  "source_url": "https://hukuk.damdafa.com",
+  "install": "# git clone --depth 1 https://hukuk.damdafa.com\n# See source for mcpServers config block"
+}

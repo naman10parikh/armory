@@ -1,0 +1,7 @@
+{
+  "name": "ian-cowley-sql-server",
+  "description": "Integrates with SQL Server to enable database schema exploration, query execution, and stored procedure management via JSON-RPC communication for relational data analysis and natural language querying.",
+  "source_repo": "ian-cowley/mcpsqlserver",
+  "source_url": "https://github.com/ian-cowley/mcpsqlserver",
+  "install": "# git clone --depth 1 https://github.com/ian-cowley/mcpsqlserver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fkom13-sftp-orchestrator",
+  "description": "Remote task orchestration via SSH/SFTP with persistent queue and hybrid execution",
+  "source_repo": "fkom13/mcp-sftp-orchestrator",
+  "source_url": "https://github.com/fkom13/mcp-sftp-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/fkom13/mcp-sftp-orchestrator\n# See source for mcpServers config block"
+}

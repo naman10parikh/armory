@@ -1,0 +1,7 @@
+{
+  "name": "markswendsen-code-instacart",
+  "description": "Search products, manage cart, and place grocery orders on Instacart via browser automation.",
+  "source_repo": "markswendsen-code/mcp-instacart",
+  "source_url": "https://github.com/markswendsen-code/mcp-instacart",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-instacart\n# See source for mcpServers config block"
+}

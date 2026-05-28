@@ -1,0 +1,7 @@
+{
+  "name": "canuckduck",
+  "description": "Canadian policy causal knowledge graph with 1,334 variables and constitutional doctrine mapping.",
+  "source_repo": "canuckduckdevops/canuckduck-mcp",
+  "source_url": "https://github.com/canuckduckdevops/canuckduck-mcp",
+  "install": "npx -y canuckduck-mcp"
+}

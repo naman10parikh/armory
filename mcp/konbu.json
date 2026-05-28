@@ -1,0 +1,7 @@
+{
+  "name": "konbu",
+  "description": "MCP server for a self-hostable personal planner — exposes memo, todo, calendar event, and cross-resource full-text search tools so Claude, Cursor, or any MCP client can manage your schedule and notes in natural language.",
+  "source_repo": "krtw00/konbu",
+  "source_url": "https://github.com/krtw00/konbu",
+  "install": "# git clone --depth 1 https://github.com/krtw00/konbu\n# See source for mcpServers config block"
+}

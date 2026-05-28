@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-npmjs-mcp",
+  "description": "Enables npm registry operations from MCP clients like Claude Code and Cursor, with 64 tools for package intelligence, security audits, dependency analysis, org/team management, and write operations like deprecate and unpublish.",
+  "source_repo": "YawLabs/npmjs-mcp",
+  "source_url": "https://github.com/YawLabs/npmjs-mcp",
+  "install": "npx -y npmjs-mcp"
+}

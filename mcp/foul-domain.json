@@ -1,0 +1,7 @@
+{
+  "name": "foul-domain",
+  "description": "Search 36,000+ analyzed Phish tracks. Find the best jams, shows, and song versions by year, era, venue, tags, and more.",
+  "source_repo": "",
+  "source_url": "https://fouldomain.com",
+  "install": "# git clone --depth 1 https://fouldomain.com\n# See source for mcpServers config block"
+}

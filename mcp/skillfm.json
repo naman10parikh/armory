@@ -1,0 +1,7 @@
+{
+  "name": "skillfm",
+  "description": "AI agent health monitoring with token usage tracking, LLM cost optimization, BYOK vault, and cleanup audits.",
+  "source_repo": "ericm1018/skillfm-mcp",
+  "source_url": "https://github.com/ericm1018/skillfm-mcp",
+  "install": "npx -y skillfm-mcp"
+}

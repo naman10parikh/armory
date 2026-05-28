@@ -1,0 +1,7 @@
+{
+  "name": "lysiuchenko-wpf-buddy",
+  "description": "200+ tools for WPF desktop app automation, semantic UI testing, accessibility auditing, and diagnostics via UI Automation.",
+  "source_repo": "lysiuchenko/wpf-buddy-mcp",
+  "source_url": "https://github.com/lysiuchenko/wpf-buddy-mcp",
+  "install": "npx -y wpf-buddy-mcp"
+}

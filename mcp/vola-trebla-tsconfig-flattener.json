@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-tsconfig-flattener",
+  "description": "Resolves TypeScript config inheritance chains and returns effective compiler options per file.",
+  "source_repo": "vola-trebla/tsconfig-inheritance-flattener-mcp",
+  "source_url": "https://github.com/vola-trebla/tsconfig-inheritance-flattener-mcp",
+  "install": "npx -y tsconfig-inheritance-flattener-mcp"
+}

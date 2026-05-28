@@ -1,0 +1,7 @@
+{
+  "name": "opengolfapi-mcp-server",
+  "description": "Enables AI agents to search and retrieve detailed information about US golf courses, including course details, tees, climate, and nearby points of interest.",
+  "source_repo": "opengolfapi/mcp-server",
+  "source_url": "https://github.com/opengolfapi/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/opengolfapi/mcp-server\n# See source for mcpServers config block"
+}

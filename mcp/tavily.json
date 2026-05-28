@@ -1,0 +1,7 @@
+{
+  "name": "tavily",
+  "description": "Search the web with fast, accurate results optimized for AI. Get clean, structured answers with source URLs and relevance scoring.",
+  "source_repo": "",
+  "source_url": "https://app.tavily.com/home",
+  "install": "# git clone --depth 1 https://app.tavily.com/home\n# See source for mcpServers config block"
+}

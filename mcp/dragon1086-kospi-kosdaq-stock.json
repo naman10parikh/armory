@@ -1,0 +1,7 @@
+{
+  "name": "dragon1086-kospi-kosdaq-stock",
+  "description": "Integrates with pykrx to provide real-time access to KOSPI and KOSDAQ stock market data, offering tools for retrieving ticker symbols, OHLCV data, market capitalization, fundamental metrics, and trading volumes.",
+  "source_repo": "dragon1086/kospi-kosdaq-stock-server",
+  "source_url": "https://github.com/dragon1086/kospi-kosdaq-stock-server",
+  "install": "# git clone --depth 1 https://github.com/dragon1086/kospi-kosdaq-stock-server\n# See source for mcpServers config block"
+}

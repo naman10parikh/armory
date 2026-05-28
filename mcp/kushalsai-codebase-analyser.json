@@ -1,0 +1,7 @@
+{
+  "name": "kushalsai-codebase-analyser",
+  "description": "Analyzes TypeScript codebases for health issues including large files, missing type annotations, circular dependencies, and incident remediation planning.",
+  "source_repo": "kushalsai-01/mcp-server-codebase-analyser",
+  "source_url": "https://github.com/kushalsai-01/mcp-server-codebase-analyser",
+  "install": "# git clone --depth 1 https://github.com/kushalsai-01/mcp-server-codebase-analyser\n# See source for mcpServers config block"
+}

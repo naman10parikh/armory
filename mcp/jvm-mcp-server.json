@@ -1,0 +1,7 @@
+{
+  "name": "jvm-mcp-server",
+  "description": "Jvm Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "xzq-xu/jvm-mcp-server",
+  "source_url": "https://mcp.so/server/jvm-mcp-server/xzq-xu",
+  "install": "npx -y jvm-mcp-server"
+}

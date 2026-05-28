@@ -1,0 +1,7 @@
+{
+  "name": "tilde-x402-mcp-server",
+  "description": "Enables AI agents to discover and pay for x402-enabled services using natural language, with multi-chain support for Solana and EVM payments.",
+  "source_repo": "Gordian-Labs/tilde-mcp",
+  "source_url": "https://github.com/Gordian-Labs/tilde-mcp",
+  "install": "npx -y tilde-mcp"
+}

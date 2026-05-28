@@ -1,0 +1,7 @@
+{
+  "name": "fusionauth",
+  "description": "Identity and authentication platform with comprehensive user management capabilities",
+  "source_repo": "fusionauth/fusionauth-mcp-api",
+  "source_url": "https://github.com/fusionauth/fusionauth-mcp-api",
+  "install": "# git clone --depth 1 https://github.com/fusionauth/fusionauth-mcp-api\n# See source for mcpServers config block"
+}

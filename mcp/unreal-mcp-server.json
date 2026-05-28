@@ -1,0 +1,7 @@
+{
+  "name": "unreal-mcp-server",
+  "description": "Unreal Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "AlexKissiJr/unreal-mcp-server",
+  "source_url": "https://mcp.so/server/unreal-mcp-server/AlexKissiJr",
+  "install": "npx -y unreal-mcp-server"
+}

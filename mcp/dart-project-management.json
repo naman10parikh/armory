@@ -1,0 +1,7 @@
+{
+  "name": "dart-project-management",
+  "description": "Integrates with Dart's project management platform, enabling direct task and document management through a set of tools for creating, retrieving, updating, and filtering work items by various attributes.",
+  "source_repo": "its-dart/dart-mcp-server",
+  "source_url": "https://github.com/its-dart/dart-mcp-server",
+  "install": "npx -y dart-mcp-server"
+}

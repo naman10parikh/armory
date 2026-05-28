@@ -1,0 +1,7 @@
+{
+  "name": "qckfx-node-debugger",
+  "description": "Provides Node.js debugging capabilities through Chrome DevTools Protocol, enabling breakpoint management, step-through execution, call stack inspection, and expression evaluation for interactive debugging sessions.",
+  "source_repo": "qckfx/node-debugger-mcp",
+  "source_url": "https://github.com/qckfx/node-debugger-mcp",
+  "install": "npx -y node-debugger-mcp"
+}

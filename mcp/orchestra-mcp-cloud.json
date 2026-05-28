@@ -1,0 +1,7 @@
+{
+  "name": "orchestra-mcp-cloud",
+  "description": "Hosted personal MCP server for the Orchestra platform with marketplace browsing, profile management, and installation tools.",
+  "source_repo": "orchestra-mcp/cloud-mcp",
+  "source_url": "https://github.com/orchestra-mcp/cloud-mcp",
+  "install": "npx -y cloud-mcp"
+}

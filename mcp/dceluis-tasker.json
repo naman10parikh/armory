@@ -1,0 +1,7 @@
+{
+  "name": "dceluis-tasker",
+  "description": "Bridges Android's Tasker automation platform with conversational interfaces through HTTP API integration, enabling voice-controlled device automation, smart home routines, and custom workflow execution.",
+  "source_repo": "dceluis/tasker-mcp",
+  "source_url": "https://github.com/dceluis/tasker-mcp",
+  "install": "npx -y tasker-mcp"
+}

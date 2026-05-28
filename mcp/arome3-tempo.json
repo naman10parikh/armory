@@ -1,0 +1,7 @@
+{
+  "name": "arome3-tempo",
+  "description": "Enables autonomous stablecoin payments on Tempo blockchain.",
+  "source_repo": "arome3/tempo-mcp",
+  "source_url": "https://github.com/arome3/tempo-mcp",
+  "install": "npx -y tempo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "twh66666-windows-computer-use",
+  "description": "MCP server for Windows desktop automation with 9 tools covering screenshots, mouse control, keyboard input, and window enumeration.",
+  "source_repo": "twh66666/codex-computer-use-for-windows",
+  "source_url": "https://github.com/twh66666/codex-computer-use-for-windows",
+  "install": "# git clone --depth 1 https://github.com/twh66666/codex-computer-use-for-windows\n# See source for mcpServers config block"
+}

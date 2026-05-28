@@ -1,0 +1,7 @@
+{
+  "name": "zelentsov-dev-asc-mcp",
+  "description": "App Store Connect API server with 208 tools for managing apps, builds, TestFlight, subscriptions, reviews, and more — directly from any MCP client.",
+  "source_repo": "zelentsov-dev/asc-mcp",
+  "source_url": "https://github.com/zelentsov-dev/asc-mcp",
+  "install": "npx -y asc-mcp"
+}

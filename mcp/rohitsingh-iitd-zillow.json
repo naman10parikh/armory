@@ -1,0 +1,7 @@
+{
+  "name": "rohitsingh-iitd-zillow",
+  "description": "Integrates with Zillow's real estate API to provide property searches, detailed information, Zestimates, market trends analysis, and mortgage calculations for home buying decisions.",
+  "source_repo": "rohitsingh-iitd/zillow-mcp-server",
+  "source_url": "https://github.com/rohitsingh-iitd/zillow-mcp-server",
+  "install": "npx -y zillow-mcp-server"
+}

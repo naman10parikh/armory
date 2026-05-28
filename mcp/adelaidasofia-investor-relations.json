@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-investor-relations",
+  "description": "Seed raise pipeline tracker that syncs from Obsidian CRM vault and generates investor meeting prep.",
+  "source_repo": "adelaidasofia/investor-relations-mcp",
+  "source_url": "https://github.com/adelaidasofia/investor-relations-mcp",
+  "install": "npx -y investor-relations-mcp"
+}

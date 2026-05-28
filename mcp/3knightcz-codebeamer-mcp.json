@@ -1,0 +1,7 @@
+{
+  "name": "3knightcz-codebeamer-mcp",
+  "description": "Codebeamer ALM integration for managing work items, trackers, and projects. Provides 17 tools for reading and writing items, associations, references, comments, and risk management data via Codebeamer REST API v3.",
+  "source_repo": "3KniGHtcZ/codebeamer-mcp",
+  "source_url": "https://github.com/3KniGHtcZ/codebeamer-mcp",
+  "install": "npx -y codebeamer-mcp"
+}

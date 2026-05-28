@@ -1,0 +1,7 @@
+{
+  "name": "joinwell52-fcop",
+  "description": "File-based multi-agent coordination system with 35 tools for managing agent state, task queues, and inter-agent communication.",
+  "source_repo": "joinwell52-ai/fcop",
+  "source_url": "https://github.com/joinwell52-ai/fcop",
+  "install": "# git clone --depth 1 https://github.com/joinwell52-ai/fcop\n# See source for mcpServers config block"
+}

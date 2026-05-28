@@ -1,0 +1,7 @@
+{
+  "name": "createya",
+  "description": "Access 100+ AI models including FLUX, Sora, Kling, GPT, and Claude via MCP.",
+  "source_repo": "createya-ai/createya-mcp",
+  "source_url": "https://github.com/createya-ai/createya-mcp",
+  "install": "npx -y createya-mcp"
+}

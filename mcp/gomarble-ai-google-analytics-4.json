@@ -1,0 +1,7 @@
+{
+  "name": "gomarble-ai-google-analytics-4",
+  "description": "Integrates with Google Analytics 4 to provide property management, page views, user metrics, events, traffic sources, device analytics, and custom reporting with automatic OAuth 2.0 authentication for marketing analytics and website performance monitoring.",
+  "source_repo": "gomarble-ai/google-analytics-mcp-server",
+  "source_url": "https://github.com/gomarble-ai/google-analytics-mcp-server",
+  "install": "npx -y google-analytics-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "araa47-jupiter-mcp",
+  "description": "Jupiter API Access (allow AI to Trade Tokens on Solana + Access Balances + Search Tokens + Create Limit Orders )",
+  "source_repo": "araa47/jupiter-mcp",
+  "source_url": "https://github.com/araa47/jupiter-mcp",
+  "install": "npx -y jupiter-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-xodn348-readhn",
+  "description": "Filters Hacker News content with trust-based expert ranking and explainable quality signals.",
+  "source_repo": "xodn348/readhn",
+  "source_url": "https://github.com/xodn348/readhn",
+  "install": "# git clone --depth 1 https://github.com/xodn348/readhn\n# See source for mcpServers config block"
+}

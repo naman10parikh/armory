@@ -1,0 +1,7 @@
+{
+  "name": "jcdickinson-simplemem",
+  "description": "A simple memory tool for coding agents using DuckDB and VoyageAI.",
+  "source_repo": "jcdickinson/simplemem",
+  "source_url": "https://github.com/jcdickinson/simplemem",
+  "install": "# git clone --depth 1 https://github.com/jcdickinson/simplemem\n# See source for mcpServers config block"
+}

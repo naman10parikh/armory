@@ -1,0 +1,7 @@
+{
+  "name": "mrsimpson-quiet-shell",
+  "description": "Executes shell commands with intelligent output filtering that reduces context consumption by extracting only errors and important information using configurable regex templates for common development tools.",
+  "source_repo": "mrsimpson/quiet-shell-mcp",
+  "source_url": "https://github.com/mrsimpson/quiet-shell-mcp",
+  "install": "npx -y quiet-shell-mcp"
+}

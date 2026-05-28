@@ -1,0 +1,7 @@
+{
+  "name": "tejzpr-medha",
+  "description": "Git-backed memory system that stores and organizes memories as markdown files in local or remote repositories, providing persistent context across conversations through recall, storage, linking, and temporal queries with automatic synchronization and intelligent organization by tags, categories, or dates.",
+  "source_repo": "tejzpr/medha-mcp",
+  "source_url": "https://github.com/tejzpr/medha-mcp",
+  "install": "npx -y medha-mcp"
+}

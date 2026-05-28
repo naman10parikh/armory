@@ -1,0 +1,7 @@
+{
+  "name": "zinxer-purelymail",
+  "description": "Unofficial MCP server for managing Purelymail email infrastructure including domains, mailboxes, routing rules, and DNS checks.",
+  "source_repo": "zinxer/mcp-server-purelymail",
+  "source_url": "https://github.com/zinxer/mcp-server-purelymail",
+  "install": "# git clone --depth 1 https://github.com/zinxer/mcp-server-purelymail\n# See source for mcpServers config block"
+}

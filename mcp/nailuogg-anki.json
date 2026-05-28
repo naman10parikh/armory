@@ -1,0 +1,7 @@
+{
+  "name": "nailuogg-anki",
+  "description": "Integrates with Anki flashcard software through AnkiConnect to enable deck management, note creation/modification, and search functionality for spaced repetition learning workflows.",
+  "source_repo": "nailuogg/anki-mcp-server",
+  "source_url": "https://github.com/nailuogg/anki-mcp-server",
+  "install": "npx -y anki-mcp-server"
+}

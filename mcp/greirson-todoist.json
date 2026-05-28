@@ -1,0 +1,7 @@
+{
+  "name": "greirson-todoist",
+  "description": "Integrates with Todoist API to manage tasks, projects, sections, and comments with support for bulk operations, natural language search, and comprehensive CRUD functionality.",
+  "source_repo": "greirson/mcp-todoist",
+  "source_url": "https://github.com/greirson/mcp-todoist",
+  "install": "# git clone --depth 1 https://github.com/greirson/mcp-todoist\n# See source for mcpServers config block"
+}

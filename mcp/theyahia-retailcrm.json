@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-retailcrm",
+  "description": "Integrates with RetailCRM e-commerce platform for managing orders, creating new orders, and searching customers.",
+  "source_repo": "theyahia/retailcrm-mcp",
+  "source_url": "https://github.com/theyahia/retailcrm-mcp",
+  "install": "npx -y retailcrm-mcp"
+}

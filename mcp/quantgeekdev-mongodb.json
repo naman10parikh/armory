@@ -1,0 +1,7 @@
+{
+  "name": "quantgeekdev-mongodb",
+  "description": "Query and analyze MongoDB databases via natural language.",
+  "source_repo": "quantgeekdev/mongo-mcp",
+  "source_url": "https://github.com/quantgeekdev/mongo-mcp",
+  "install": "npx -y mongo-mcp"
+}

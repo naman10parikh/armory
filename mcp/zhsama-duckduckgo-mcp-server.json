@@ -1,0 +1,7 @@
+{
+  "name": "zhsama-duckduckgo-mcp-server",
+  "description": "This is a TypeScript-based MCP server that provides DuckDuckGo search functionality.",
+  "source_repo": "zhsama/duckduckgo-mpc-server",
+  "source_url": "https://github.com/zhsama/duckduckgo-mpc-server/",
+  "install": "# git clone --depth 1 https://github.com/zhsama/duckduckgo-mpc-server/\n# See source for mcpServers config block"
+}

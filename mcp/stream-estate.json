@@ -1,0 +1,7 @@
+{
+  "name": "stream-estate",
+  "description": "Provides access to French real estate data including property searches, market statistics, and saved search management with webhook notifications.",
+  "source_repo": "streamestate/mcp-server",
+  "source_url": "https://github.com/streamestate/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/streamestate/mcp-server\n# See source for mcpServers config block"
+}

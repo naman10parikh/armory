@@ -1,0 +1,7 @@
+{
+  "name": "marcopesani-serper-search-scrape",
+  "description": "Integrates with the Serper API to enable web searches and webpage content extraction, supporting research, content aggregation, and data mining tasks.",
+  "source_repo": "marcopesani/mcp-server-serper",
+  "source_url": "https://github.com/marcopesani/mcp-server-serper",
+  "install": "# git clone --depth 1 https://github.com/marcopesani/mcp-server-serper\n# See source for mcpServers config block"
+}

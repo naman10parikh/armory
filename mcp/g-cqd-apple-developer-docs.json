@@ -1,0 +1,7 @@
+{
+  "name": "g-cqd-apple-developer-docs",
+  "description": "Full-text search and browsing across 330,000+ Apple developer documentation pages with BM25 ranking and incremental sync.",
+  "source_repo": "g-cqd/apple-docs",
+  "source_url": "https://github.com/g-cqd/apple-docs",
+  "install": "# git clone --depth 1 https://github.com/g-cqd/apple-docs\n# See source for mcpServers config block"
+}

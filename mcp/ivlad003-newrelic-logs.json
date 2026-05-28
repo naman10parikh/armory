@@ -1,0 +1,7 @@
+{
+  "name": "ivlad003-newrelic-logs",
+  "description": "Bridges New Relic's log querying capabilities with a Python-based server, enabling execution of NRQL queries for performance monitoring and log analysis.",
+  "source_repo": "ivlad003/mcp_newrelic",
+  "source_url": "https://github.com/ivlad003/mcp_newrelic",
+  "install": "# git clone --depth 1 https://github.com/ivlad003/mcp_newrelic\n# See source for mcpServers config block"
+}

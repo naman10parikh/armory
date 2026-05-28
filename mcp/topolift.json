@@ -1,0 +1,7 @@
+{
+  "name": "topolift",
+  "description": "Atom-grounded negotiation reasoning with typed topology slots, inline citations, and a public reasoning dialect.",
+  "source_repo": "topolift/topolift-mcp",
+  "source_url": "https://github.com/topolift/topolift-mcp",
+  "install": "npx -y topolift-mcp"
+}

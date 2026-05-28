@@ -1,0 +1,7 @@
+{
+  "name": "kentaro-aivis-speech",
+  "description": "Enables AI systems to generate and play speech audio from text input through the AivisSpeech API, with configurable speaker settings for voice output applications.",
+  "source_repo": "kentaro/aivis-speech-mcp",
+  "source_url": "https://github.com/kentaro/aivis-speech-mcp",
+  "install": "npx -y aivis-speech-mcp"
+}

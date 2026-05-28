@@ -1,0 +1,7 @@
+{
+  "name": "mopanc-depguard",
+  "description": "Pre-install guardian for npm packages with static code analysis, supply-chain attack detection, vulnerability audit (npm + GitHub Advisory Database), AI hallucination guard, and CycloneDX 1.6 SBOM generation with VEX. 12 MCP tools. Zero runtime dependencies — the SBOM serializer is implemented natively against the public CycloneDX schema.",
+  "source_repo": "mopanc/depguard",
+  "source_url": "https://github.com/mopanc/depguard",
+  "install": "# git clone --depth 1 https://github.com/mopanc/depguard\n# See source for mcpServers config block"
+}

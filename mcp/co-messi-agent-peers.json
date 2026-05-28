@@ -1,0 +1,7 @@
+{
+  "name": "co-messi-agent-peers",
+  "description": "Enables multiple AI agent sessions on the same machine to discover each other and exchange messages via a local SQLite broker.",
+  "source_repo": "co-messi/agent-peers-mcp",
+  "source_url": "https://github.com/co-messi/agent-peers-mcp",
+  "install": "npx -y agent-peers-mcp"
+}

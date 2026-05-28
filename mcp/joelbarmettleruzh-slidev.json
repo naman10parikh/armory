@@ -1,0 +1,7 @@
+{
+  "name": "joelbarmettleruzh-slidev",
+  "description": "Generate, render, and host Slidev presentations from markdown.",
+  "source_repo": "joelbarmettleruzh/slidev-mcp",
+  "source_url": "https://github.com/joelbarmettleruzh/slidev-mcp",
+  "install": "npx -y slidev-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "avagenesisdev-ava-genesis",
+  "description": "ERC-20 token deployment on Ethereum, Base, BNB Chain, and Polygon via a single MCP call.",
+  "source_repo": "",
+  "source_url": "https://avagenesis.com/mcp-server",
+  "install": "# git clone --depth 1 https://avagenesis.com/mcp-server\n# See source for mcpServers config block"
+}

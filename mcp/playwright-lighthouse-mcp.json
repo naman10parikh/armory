@@ -1,0 +1,7 @@
+{
+  "name": "playwright-lighthouse-mcp",
+  "description": "Playwright Lighthouse Mcp MCP server listed on mcp.so.",
+  "source_repo": "kbyk004/playwright-lighthouse-mcp",
+  "source_url": "https://mcp.so/server/playwright-lighthouse-mcp/kbyk004",
+  "install": "npx -y playwright-lighthouse-mcp"
+}

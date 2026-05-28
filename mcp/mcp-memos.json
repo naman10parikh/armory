@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memos",
+  "description": "Enables creating memos and attaching files to a Memos instance via MCP tools.",
+  "source_repo": "jkawamoto/mcp-memos",
+  "source_url": "https://github.com/jkawamoto/mcp-memos",
+  "install": "# git clone --depth 1 https://github.com/jkawamoto/mcp-memos\n# See source for mcpServers config block"
+}

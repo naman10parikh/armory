@@ -1,0 +1,7 @@
+{
+  "name": "simplemindedbot-mnemex",
+  "description": "Human-like temporal memory for AI assistants that naturally fades over time unless reinforced through use, mimicking the Ebbinghaus forgetting curve",
+  "source_repo": "prefrontal-systems/cortexgraph",
+  "source_url": "https://github.com/prefrontal-systems/cortexgraph",
+  "install": "# git clone --depth 1 https://github.com/prefrontal-systems/cortexgraph\n# See source for mcpServers config block"
+}

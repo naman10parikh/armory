@@ -1,0 +1,7 @@
+{
+  "name": "nim444-android-uiautomator2",
+  "description": "Provides a bridge between Android devices and automation tools for controlling apps, interacting with UI elements, and capturing screenshots through UIAutomator2 technology.",
+  "source_repo": "nim444/mcp-android-server-python",
+  "source_url": "https://github.com/nim444/mcp-android-server-python",
+  "install": "# git clone --depth 1 https://github.com/nim444/mcp-android-server-python\n# See source for mcpServers config block"
+}

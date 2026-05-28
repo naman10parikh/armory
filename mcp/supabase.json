@@ -1,0 +1,7 @@
+{
+  "name": "supabase",
+  "description": "Integrates with the Supabase platform for managing databases, projects, migrations, and storage.",
+  "source_repo": "supabase-community/supabase-mcp",
+  "source_url": "https://github.com/supabase-community/supabase-mcp/tree/HEAD/packages/mcp-server-supabase",
+  "install": "npx -y supabase-mcp"
+}

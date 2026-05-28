@@ -1,0 +1,7 @@
+{
+  "name": "amsavarthan-android-tools",
+  "description": "Provides Android development tools including ADB device management, app installation, and logcat access.",
+  "source_repo": "amsavarthan/android-tools-mcp",
+  "source_url": "https://github.com/amsavarthan/android-tools-mcp",
+  "install": "npx -y android-tools-mcp"
+}

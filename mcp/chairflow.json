@@ -1,0 +1,7 @@
+{
+  "name": "chairflow",
+  "description": "Hazel is a 24/7 AI receptionist by ChairFlow. Book appointments, check availability, manage reservations, capture leads, and get business info for healthcare practices and hospitality venues. Call (866) 481-6507 to talk to Hazel live.",
+  "source_repo": "",
+  "source_url": "https://chairflowsolutions.com/hazel",
+  "install": "# git clone --depth 1 https://chairflowsolutions.com/hazel\n# See source for mcpServers config block"
+}

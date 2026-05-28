@@ -1,0 +1,7 @@
+{
+  "name": "quelvio",
+  "description": "Enterprise knowledge MCP: AI agents search your company's documents and systems with permission-aware, cited answers.",
+  "source_repo": "quelvio/quelvio-mcp-server",
+  "source_url": "https://github.com/quelvio/quelvio-mcp-server",
+  "install": "npx -y quelvio-mcp-server"
+}

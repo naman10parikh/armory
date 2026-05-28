@@ -1,0 +1,7 @@
+{
+  "name": "da-okazaki-neo4j",
+  "description": "Integrates with Neo4j graph databases to enable natural language querying, node creation, and complex graph operations for knowledge exploration and data relationship modeling.",
+  "source_repo": "da-okazaki/mcp-neo4j-server",
+  "source_url": "https://github.com/da-okazaki/mcp-neo4j-server",
+  "install": "# git clone --depth 1 https://github.com/da-okazaki/mcp-neo4j-server\n# See source for mcpServers config block"
+}

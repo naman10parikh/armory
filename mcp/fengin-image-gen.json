@@ -1,0 +1,7 @@
+{
+  "name": "fengin-image-gen",
+  "description": "Accepts text descriptions, generates corresponding images, and offers image download and save functions.",
+  "source_repo": "fengin/image-gen-server",
+  "source_url": "https://github.com/fengin/image-gen-server",
+  "install": "# git clone --depth 1 https://github.com/fengin/image-gen-server\n# See source for mcpServers config block"
+}

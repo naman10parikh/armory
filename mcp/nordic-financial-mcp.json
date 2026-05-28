@@ -1,0 +1,7 @@
+{
+  "name": "nordic-financial-mcp",
+  "description": "Semantic search across 1+ million vectors across Nordic financial data for AI agents. Covers company filings (annual and quarterly reports), exchange announcements, and press releases from Norway, Sweden, Denmark and Finland — plus macroeconomic data including interest rates, GDP, CPI, housing price",
+  "source_repo": "",
+  "source_url": "https://aidatanorge.no",
+  "install": "# git clone --depth 1 https://aidatanorge.no\n# See source for mcpServers config block"
+}

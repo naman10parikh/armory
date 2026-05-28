@@ -1,0 +1,7 @@
+{
+  "name": "goldmembrane-cleaner-code",
+  "description": "AI code security scanner MCP server. Detects 9 categories of threats in AI-generated code (invisible Unicode, Trojan Source, homoglyphs, Glassworm steganography, rules file backdoors, dependency typosquatting, obfuscation) using static analysis plus CodeBERT deep learning. Runs locally, free tier.",
+  "source_repo": "goldmembrane/cleaner-code",
+  "source_url": "https://github.com/goldmembrane/cleaner-code",
+  "install": "# git clone --depth 1 https://github.com/goldmembrane/cleaner-code\n# See source for mcpServers config block"
+}

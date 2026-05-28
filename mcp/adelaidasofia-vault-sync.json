@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-vault-sync",
+  "description": "Bidirectional sync between personal and team Obsidian vaults.",
+  "source_repo": "adelaidasofia/vault-sync-mcp",
+  "source_url": "https://github.com/adelaidasofia/vault-sync-mcp",
+  "install": "npx -y vault-sync-mcp"
+}

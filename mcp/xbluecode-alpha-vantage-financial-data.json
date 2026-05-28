@@ -1,0 +1,7 @@
+{
+  "name": "xbluecode-alpha-vantage-financial-data",
+  "description": "Integrates with Alpha Vantage API to provide stock quotes and historical data for financial analysis and market research tasks.",
+  "source_repo": "xbluecode/findata-mcp-server",
+  "source_url": "https://github.com/xbluecode/findata-mcp-server",
+  "install": "npx -y findata-mcp-server"
+}

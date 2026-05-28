@@ -1,0 +1,7 @@
+{
+  "name": "ahmetsbilgin-finbrain-mcp",
+  "description": "Access institutional-grade alternative financial data directly in your LLM workflows.",
+  "source_repo": "ahmetsbilgin/finbrain-mcp",
+  "source_url": "https://github.com/ahmetsbilgin/finbrain-mcp",
+  "install": "npx -y finbrain-mcp"
+}

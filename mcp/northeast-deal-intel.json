@@ -1,0 +1,7 @@
+{
+  "name": "northeast-deal-intel",
+  "description": "Provides AI assistants with access to commercial real estate deal intelligence for the Northeast US market.",
+  "source_repo": "creintel/ndi-mcp-server",
+  "source_url": "https://github.com/creintel/ndi-mcp-server",
+  "install": "npx -y ndi-mcp-server"
+}

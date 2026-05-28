@@ -1,0 +1,7 @@
+{
+  "name": "jean-johnson-arm-code",
+  "description": "MCP server for optimizing Linux workloads on ARM64 via NEON SIMD intrinsic recommendations and dependency auditing.",
+  "source_repo": "jean-johnson-zwix/arm-code-mcp",
+  "source_url": "https://github.com/jean-johnson-zwix/arm-code-mcp",
+  "install": "npx -y arm-code-mcp"
+}

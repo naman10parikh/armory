@@ -1,0 +1,7 @@
+{
+  "name": "gh-joinquantish-polymarket",
+  "description": "Self-hosted trading server for Polymarket prediction markets on Polygon.",
+  "source_repo": "joinquantish/polymarket-mcp",
+  "source_url": "https://github.com/joinquantish/polymarket-mcp",
+  "install": "npx -y polymarket-mcp"
+}

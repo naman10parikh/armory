@@ -1,0 +1,7 @@
+{
+  "name": "felixallistar-coolify",
+  "description": "Integrates with Coolify's deployment platform to manage self-hosted applications, databases, and infrastructure including 110+ one-click services, 8 database types, server connectivity validation, and environment variable handling.",
+  "source_repo": "felixallistar/coolify-mcp",
+  "source_url": "https://github.com/felixallistar/coolify-mcp",
+  "install": "npx -y coolify-mcp"
+}

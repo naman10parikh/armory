@@ -1,0 +1,7 @@
+{
+  "name": "kinkos1234-comad-world",
+  "description": "Personal knowledge graph system with 30+ MCP tools for RSS crawling, paper discovery, and knowledge management.",
+  "source_repo": "kinkos1234/comad-world",
+  "source_url": "https://github.com/kinkos1234/comad-world",
+  "install": "# git clone --depth 1 https://github.com/kinkos1234/comad-world\n# See source for mcpServers config block"
+}

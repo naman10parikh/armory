@@ -1,0 +1,7 @@
+{
+  "name": "mcpdotdirect-starknet",
+  "description": "Provides a bridge to the Starknet blockchain for querying data, managing tokens, resolving IDs, and executing transactions on both mainnet and sepolia networks.",
+  "source_repo": "mcpdotdirect/starknet-mcp-server",
+  "source_url": "https://github.com/mcpdotdirect/starknet-mcp-server",
+  "install": "npx -y starknet-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-makefile-server",
+  "description": "Exposes Makefile targets as MCP tools, allowing AI agents to execute project automation tasks like build, test, and deploy through natural language.",
+  "source_repo": "ccollicutt/mcp-makefile-server",
+  "source_url": "https://github.com/ccollicutt/mcp-makefile-server",
+  "install": "# git clone --depth 1 https://github.com/ccollicutt/mcp-makefile-server\n# See source for mcpServers config block"
+}

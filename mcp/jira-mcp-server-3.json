@@ -1,0 +1,7 @@
+{
+  "name": "jira-mcp-server-3",
+  "description": "Jira Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "blue7wings/jira-mcp-server",
+  "source_url": "https://mcp.so/server/jira-mcp-server/blue7wings",
+  "install": "npx -y jira-mcp-server"
+}

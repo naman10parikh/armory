@@ -1,0 +1,7 @@
+{
+  "name": "killme2008-devtap",
+  "description": "Captures build and dev process output and feeds structured error data to AI coding tools.",
+  "source_repo": "tma1-ai/devtap",
+  "source_url": "https://github.com/tma1-ai/devtap",
+  "install": "# git clone --depth 1 https://github.com/tma1-ai/devtap\n# See source for mcpServers config block"
+}

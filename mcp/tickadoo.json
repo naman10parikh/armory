@@ -1,0 +1,7 @@
+{
+  "name": "tickadoo",
+  "description": "Discover and book theatre, shows, events, and experiences in 700+ cities worldwide.",
+  "source_repo": "tickadoo/tickadoo-mcp",
+  "source_url": "https://github.com/tickadoo/tickadoo-mcp",
+  "install": "npx -y tickadoo-mcp"
+}

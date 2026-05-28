@@ -1,0 +1,7 @@
+{
+  "name": "regenerating-world-pix-mcp",
+  "description": "Generate Pix QR codes and copy-paste strings with fallback across multiple providers (Efí, Cielo, etc.) for Brazilian instant payments.",
+  "source_repo": "Regenerating-World/pix-mcp",
+  "source_url": "https://github.com/Regenerating-World/pix-mcp",
+  "install": "npx -y pix-mcp"
+}

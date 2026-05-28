@@ -1,0 +1,7 @@
+{
+  "name": "fortunto2-prefect",
+  "description": "Enables interaction with Prefect workflow orchestration platform for retrieving flow information, managing flow runs, searching deployments, and executing workflows directly from conversational interfaces.",
+  "source_repo": "fortunto2/prefect-mcp-server",
+  "source_url": "https://github.com/fortunto2/prefect-mcp-server",
+  "install": "npx -y prefect-mcp-server"
+}

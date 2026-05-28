@@ -1,0 +1,7 @@
+{
+  "name": "matthewdcage-vapi-voice-ai",
+  "description": "Integrates Vapi's voice AI capabilities with code editors, enabling outbound calls, voice assistant management, and conversation transcript retrieval for automated customer outreach and support interactions.",
+  "source_repo": "matthewdcage/vapi-mcp",
+  "source_url": "https://github.com/matthewdcage/vapi-mcp",
+  "install": "npx -y vapi-mcp"
+}

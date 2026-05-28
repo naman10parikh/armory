@@ -1,0 +1,7 @@
+{
+  "name": "mylocalaichat-csv-postgres",
+  "description": "Loads CSV files into PostgreSQL databases with automatic table creation, data validation, and bulk import using COPY commands for efficient data migration and ETL workflows.",
+  "source_repo": "just-local-apps/mcp-csv-postgres",
+  "source_url": "https://github.com/just-local-apps/mcp-csv-postgres",
+  "install": "# git clone --depth 1 https://github.com/just-local-apps/mcp-csv-postgres\n# See source for mcpServers config block"
+}

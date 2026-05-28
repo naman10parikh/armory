@@ -1,0 +1,7 @@
+{
+  "name": "sndevore77-glp1search",
+  "description": "GLP-1 provider directory, peptide database, and medication comparison tools.",
+  "source_repo": "sndevore77/glp1search-mcp",
+  "source_url": "https://github.com/sndevore77/glp1search-mcp",
+  "install": "npx -y glp1search-mcp"
+}

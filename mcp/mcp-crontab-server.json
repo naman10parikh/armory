@@ -1,0 +1,7 @@
+{
+  "name": "mcp-crontab-server",
+  "description": "Enables exploration, explanation, and management of crontab entries, including translating cron expressions into plain English and calculating upcoming execution times.",
+  "source_repo": "jasona7/mcp-crontab-server",
+  "source_url": "https://github.com/jasona7/mcp-crontab-server",
+  "install": "# git clone --depth 1 https://github.com/jasona7/mcp-crontab-server\n# See source for mcpServers config block"
+}

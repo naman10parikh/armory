@@ -1,0 +1,7 @@
+{
+  "name": "james-chahwan-repo-graph",
+  "description": "Structural graph map of any codebase so LLMs navigate by structure rather than guesswork.",
+  "source_repo": "james-chahwan/repo-graph",
+  "source_url": "https://github.com/james-chahwan/repo-graph",
+  "install": "# git clone --depth 1 https://github.com/james-chahwan/repo-graph\n# See source for mcpServers config block"
+}

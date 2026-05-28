@@ -1,0 +1,7 @@
+{
+  "name": "mcp-metricool",
+  "description": "Enables AI agents to interact with Metricool API for social media metrics, campaign data, and scheduling posts.",
+  "source_repo": "namdzmaso02/mcp-metricool",
+  "source_url": "https://github.com/namdzmaso02/mcp-metricool",
+  "install": "# git clone --depth 1 https://github.com/namdzmaso02/mcp-metricool\n# See source for mcpServers config block"
+}

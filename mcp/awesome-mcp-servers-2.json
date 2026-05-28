@@ -1,0 +1,7 @@
+{
+  "name": "awesome-mcp-servers-2",
+  "description": "Awesome Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "sagarjethi/awesome-mcp-servers",
+  "source_url": "https://mcp.so/server/awesome-mcp-servers/sagarjethi",
+  "install": "# git clone --depth 1 https://mcp.so/server/awesome-mcp-servers/sagarjethi\n# See source for mcpServers config block"
+}

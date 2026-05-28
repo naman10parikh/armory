@@ -1,0 +1,7 @@
+{
+  "name": "intina47-context-sync",
+  "description": "Persistent knowledge layer syncing context across Claude, Cursor, VS Code, and other development tools",
+  "source_repo": "intina47/context-sync",
+  "source_url": "https://github.com/intina47/context-sync",
+  "install": "# git clone --depth 1 https://github.com/intina47/context-sync\n# See source for mcpServers config block"
+}

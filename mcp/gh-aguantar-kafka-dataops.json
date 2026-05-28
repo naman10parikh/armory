@@ -1,0 +1,7 @@
+{
+  "name": "gh-aguantar-kafka-dataops",
+  "description": "DataOps-focused Kafka monitoring with consumer lag diagnosis based on real operational experience.",
+  "source_repo": "aguantar/kafka-mcp-server",
+  "source_url": "https://github.com/aguantar/kafka-mcp-server",
+  "install": "npx -y kafka-mcp-server"
+}

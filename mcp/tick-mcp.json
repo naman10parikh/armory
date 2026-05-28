@@ -1,0 +1,7 @@
+{
+  "name": "tick-mcp",
+  "description": "Enables AI assistants to manage TickTick tasks, projects, habits, tags, and focus stats using 71 tools via the Model Context Protocol.",
+  "source_repo": "KpihX/tick-mcp",
+  "source_url": "https://github.com/KpihX/tick-mcp",
+  "install": "npx -y tick-mcp"
+}

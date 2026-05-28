@@ -1,0 +1,7 @@
+{
+  "name": "zcash-mcp-server",
+  "description": "Enables AI agents to send and receive private Zcash payments with shielded transactions, balance checks, and encrypted memos.",
+  "source_repo": "decentrathai/zcash-mcp-server",
+  "source_url": "https://github.com/decentrathai/zcash-mcp-server",
+  "install": "npx -y zcash-mcp-server"
+}

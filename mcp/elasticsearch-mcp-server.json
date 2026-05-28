@@ -1,0 +1,7 @@
+{
+  "name": "elasticsearch-mcp-server",
+  "description": "MCP server for connecting to Elasticsearch data and indices. Supports search queries, mappings, ES|QL, and shard information through natural language interactions.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/elasticsearch.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/elasticsearch.json\n# See source for mcpServers config block"
+}

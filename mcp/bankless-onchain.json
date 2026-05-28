@@ -1,0 +1,7 @@
+{
+  "name": "bankless-onchain",
+  "description": "Integrates with blockchain networks to enable smart contract interaction, transaction history access, and on-chain data exploration through specialized tools for reading contract state, retrieving ABIs, and filtering event logs.",
+  "source_repo": "bankless/onchain-mcp",
+  "source_url": "https://github.com/bankless/onchain-mcp",
+  "install": "npx -y onchain-mcp"
+}

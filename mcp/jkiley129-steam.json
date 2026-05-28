@@ -1,0 +1,7 @@
+{
+  "name": "jkiley129-steam",
+  "description": "Connects to the Steam Web API to query game libraries, playtime statistics, and store metadata.",
+  "source_repo": "jkiley129/steam-mcp",
+  "source_url": "https://github.com/jkiley129/steam-mcp",
+  "install": "npx -y steam-mcp"
+}

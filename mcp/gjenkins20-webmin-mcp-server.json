@@ -1,0 +1,7 @@
+{
+  "name": "gjenkins20-webmin-mcp-server",
+  "description": "MCP server for Webmin with 61 tools for Linux system administration: services, users, storage, security, databases, and more.",
+  "source_repo": "gjenkins20/webmin-mcp-server",
+  "source_url": "https://github.com/gjenkins20/webmin-mcp-server",
+  "install": "npx -y webmin-mcp-server"
+}

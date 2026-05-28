@@ -1,0 +1,7 @@
+{
+  "name": "ramlyburger-gpt-image-2",
+  "description": "Generate images via OpenAI API or ChatGPT web automation with selectable backends.",
+  "source_repo": "lownamlee/gpt-image-2-mcp",
+  "source_url": "https://github.com/lownamlee/gpt-image-2-mcp",
+  "install": "npx -y gpt-image-2-mcp"
+}

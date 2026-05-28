@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-ai-bridge-mcp",
+  "description": "An MCP server bridging AI agents with enterprise productivity suites, enabling Jira automation, Microsoft Graph integration, and web research via Tavily.",
+  "source_repo": "OlegVasilievCS/MCP-Server",
+  "source_url": "https://github.com/OlegVasilievCS/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/OlegVasilievCS/MCP-Server\n# See source for mcpServers config block"
+}

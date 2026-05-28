@@ -1,0 +1,7 @@
+{
+  "name": "console-automation",
+  "description": "Enables interactive console sessions across multiple shell types (cmd, PowerShell, bash, zsh) with real-time output streaming, automatic error detection, and cross-platform process management for development workflows, system administration, and command-line automation.",
+  "source_repo": "ooples/mcp-console-automation",
+  "source_url": "https://github.com/ooples/mcp-console-automation",
+  "install": "# git clone --depth 1 https://github.com/ooples/mcp-console-automation\n# See source for mcpServers config block"
+}

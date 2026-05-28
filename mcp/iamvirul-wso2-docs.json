@@ -1,0 +1,7 @@
+{
+  "name": "iamvirul-wso2-docs",
+  "description": "Provides RAG-based semantic search over WSO2 product documentation including API Manager, Choreo, Ballerina, and Micro Integrator using pgvector embeddings.",
+  "source_repo": "iamvirul/wso2-docs-mcp-server",
+  "source_url": "https://github.com/iamvirul/wso2-docs-mcp-server",
+  "install": "npx -y wso2-docs-mcp-server"
+}

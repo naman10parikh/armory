@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-openlibrary",
+  "description": "Search books and authors, fetch editions, browse subjects, and resolve cover images from Open Library.",
+  "source_repo": "cyanheads/openlibrary-mcp-server",
+  "source_url": "https://github.com/cyanheads/openlibrary-mcp-server",
+  "install": "npx -y openlibrary-mcp-server"
+}

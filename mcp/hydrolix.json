@@ -1,0 +1,7 @@
+{
+  "name": "hydrolix",
+  "description": "Connects to Hydrolix time-series databases through ClickHouse SQL queries with built-in safety guards and performance optimizations for analyzing large-scale log, metrics, and IoT data.",
+  "source_repo": "hydrolix/mcp-hydrolix",
+  "source_url": "https://github.com/hydrolix/mcp-hydrolix",
+  "install": "# git clone --depth 1 https://github.com/hydrolix/mcp-hydrolix\n# See source for mcpServers config block"
+}

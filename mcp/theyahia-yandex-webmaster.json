@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-yandex-webmaster",
+  "description": "Integrates with Yandex Webmaster API for monitoring website indexing, search queries, and site management.",
+  "source_repo": "theyahia/yandex-webmaster-mcp",
+  "source_url": "https://github.com/theyahia/yandex-webmaster-mcp",
+  "install": "npx -y yandex-webmaster-mcp"
+}

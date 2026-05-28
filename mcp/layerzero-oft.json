@@ -1,0 +1,7 @@
+{
+  "name": "layerzero-oft",
+  "description": "Deploys and manages LayerZero OFT tokens across multiple blockchain networks with automated cross-chain bridging, consistent address deployment using CREATE2 factories, and seamless token transfers between Arbitrum Sepolia and Base Sepolia testnets.",
+  "source_repo": "thomasfevre/layerzero_mcp",
+  "source_url": "https://github.com/thomasfevre/layerzero_mcp",
+  "install": "npx -y layerzero_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sonatype",
+  "description": "Component intelligence with versions, security analysis, and Trust Score recommendations",
+  "source_repo": "sonatype/dependency-management-mcp-server",
+  "source_url": "https://github.com/sonatype/dependency-management-mcp-server",
+  "install": "npx -y dependency-management-mcp-server"
+}

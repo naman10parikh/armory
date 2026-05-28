@@ -1,0 +1,7 @@
+{
+  "name": "preflight",
+  "description": "Validates whether an MCP server is ready to publish to the MCP Registry, Smithery, or npm by checking configuration artifacts against directory requirements.",
+  "source_repo": "evanfollis/preflight",
+  "source_url": "https://github.com/evanfollis/preflight",
+  "install": "# git clone --depth 1 https://github.com/evanfollis/preflight\n# See source for mcpServers config block"
+}

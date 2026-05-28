@@ -1,0 +1,7 @@
+{
+  "name": "xuanmusec-gef",
+  "description": "Remote GDB Enhanced Features debugging with multi-session support, memory inspection, and heap analysis.",
+  "source_repo": "xuanmusec/gef-mcp",
+  "source_url": "https://github.com/xuanmusec/gef-mcp",
+  "install": "npx -y gef-mcp"
+}

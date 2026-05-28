@@ -1,0 +1,7 @@
+{
+  "name": "solomonneas-maltego",
+  "description": "MCP server for authoring Maltego OSINT graphs with entity creation, link analysis, and threat intelligence integrations.",
+  "source_repo": "solomonneas/maltego-mcp",
+  "source_url": "https://github.com/solomonneas/maltego-mcp",
+  "install": "npx -y maltego-mcp"
+}

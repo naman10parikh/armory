@@ -1,0 +1,7 @@
+{
+  "name": "url-fetch",
+  "description": "Enables Claude to retrieve and display web content, JSON data, and images directly within conversations through specialized URL fetching tools.",
+  "source_repo": "aelaguiz/mcp-url-fetch",
+  "source_url": "https://github.com/aelaguiz/mcp-url-fetch",
+  "install": "# git clone --depth 1 https://github.com/aelaguiz/mcp-url-fetch\n# See source for mcpServers config block"
+}

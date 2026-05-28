@@ -1,0 +1,7 @@
+{
+  "name": "js-reverse-analyzer",
+  "description": "Provides JavaScript reverse engineering capabilities including static analysis, dynamic execution, and bypassing anti-bot protections like Cloudflare 5-second challenge.",
+  "source_repo": "sjhhh024-cmyk/Spider-JS-Mcp-Skills",
+  "source_url": "https://github.com/sjhhh024-cmyk/Spider-JS-Mcp-Skills",
+  "install": "# git clone --depth 1 https://github.com/sjhhh024-cmyk/Spider-JS-Mcp-Skills\n# See source for mcpServers config block"
+}

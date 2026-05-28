@@ -1,0 +1,7 @@
+{
+  "name": "gh-mintmas-oracle42-intelligence",
+  "description": "AI-powered threat intelligence, smart contract auditing, and cybersecurity OSINT.",
+  "source_repo": "mintmas/oracle42-intelligence",
+  "source_url": "https://github.com/mintmas/oracle42-intelligence",
+  "install": "# git clone --depth 1 https://github.com/mintmas/oracle42-intelligence\n# See source for mcpServers config block"
+}

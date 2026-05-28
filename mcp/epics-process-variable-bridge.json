@@ -1,0 +1,7 @@
+{
+  "name": "epics-process-variable-bridge",
+  "description": "Provides a bridge between AI and EPICS process variables, enabling real-time monitoring and control of industrial systems through tools for getting, setting, and retrieving detailed information about hardware systems.",
+  "source_repo": "jacky1-jiang/epics-mcp-server",
+  "source_url": "https://github.com/jacky1-jiang/epics-mcp-server",
+  "install": "npx -y epics-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "onchain-mcp",
+  "description": "Onchain Mcp MCP server listed on mcp.so.",
+  "source_repo": "Bankless/onchain-mcp",
+  "source_url": "https://mcp.so/server/onchain-mcp/Bankless",
+  "install": "npx -y onchain-mcp"
+}

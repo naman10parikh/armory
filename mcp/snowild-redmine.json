@@ -1,0 +1,7 @@
+{
+  "name": "snowild-redmine",
+  "description": "Integrates with Redmine project management systems through REST API to enable issue creation, updates, querying, and project coordination through conversational interfaces.",
+  "source_repo": "snowild/redmine-mcp",
+  "source_url": "https://github.com/snowild/redmine-mcp",
+  "install": "npx -y redmine-mcp"
+}

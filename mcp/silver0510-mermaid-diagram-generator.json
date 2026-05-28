@@ -1,0 +1,7 @@
+{
+  "name": "silver0510-mermaid-diagram-generator",
+  "description": "Enables creation of visual diagrams from Mermaid syntax with support for multiple themes and background options, handling image data natively for visualizing relationships, processes, or structures directly within conversations.",
+  "source_repo": "silver0510/mermail-mcp",
+  "source_url": "https://github.com/silver0510/mermail-mcp",
+  "install": "npx -y mermail-mcp"
+}

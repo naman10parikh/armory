@@ -1,0 +1,7 @@
+{
+  "name": "ravisharma46-leak-canary",
+  "description": "Detect and analyze Android memory leaks via LeakCanary with tools for leak listing, root cause analysis, and fix suggestions.",
+  "source_repo": "ravisharma46/leak-canary-mcp-server",
+  "source_url": "https://github.com/ravisharma46/leak-canary-mcp-server",
+  "install": "npx -y leak-canary-mcp-server"
+}

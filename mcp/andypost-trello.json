@@ -1,0 +1,7 @@
+{
+  "name": "andypost-trello",
+  "description": "Integrates with Trello API to enable natural language interactions for managing boards, lists, and cards for project tracking and workflow optimization.",
+  "source_repo": "andypost/mcp-server-ts-trello",
+  "source_url": "https://github.com/andypost/mcp-server-ts-trello",
+  "install": "# git clone --depth 1 https://github.com/andypost/mcp-server-ts-trello\n# See source for mcpServers config block"
+}

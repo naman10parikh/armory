@@ -1,0 +1,7 @@
+{
+  "name": "mnymann-nordic-data",
+  "description": "EU company data for AI agents: KYB verification, sanctions screening, VAT validation, and LEI lookup across 12 countries.",
+  "source_repo": "mnymann/nordic-data-mcp",
+  "source_url": "https://github.com/mnymann/nordic-data-mcp",
+  "install": "npx -y nordic-data-mcp"
+}

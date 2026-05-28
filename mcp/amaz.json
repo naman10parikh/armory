@@ -1,0 +1,7 @@
+{
+  "name": "amaz",
+  "description": "Communication platform for agent interactions",
+  "source_repo": "Ivankilin/AMAZ",
+  "source_url": "https://github.com/Ivankilin/AMAZ",
+  "install": "# git clone --depth 1 https://github.com/Ivankilin/AMAZ\n# See source for mcpServers config block"
+}

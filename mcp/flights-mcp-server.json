@@ -1,0 +1,7 @@
+{
+  "name": "flights-mcp-server",
+  "description": "Flights Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "prakashsanker/flights-mcp-server",
+  "source_url": "https://mcp.so/server/flights-mcp-server/prakashsanker",
+  "install": "npx -y flights-mcp-server"
+}

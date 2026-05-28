@@ -1,0 +1,7 @@
+{
+  "name": "abhinav-system-resource-monitor",
+  "description": "Provides real-time system monitoring metrics including CPU, memory, disk, network, battery, and internet speed through both comprehensive snapshots and targeted tools for diagnosing performance issues without leaving conversations.",
+  "source_repo": "abhinav7895/system-mcp",
+  "source_url": "https://github.com/abhinav7895/system-mcp",
+  "install": "npx -y system-mcp"
+}

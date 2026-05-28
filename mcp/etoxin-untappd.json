@@ -1,0 +1,7 @@
+{
+  "name": "etoxin-untappd",
+  "description": "Provides a bridge to the Untappd beer tracking API, enabling search and retrieval of detailed beer and brewery information through a robust TypeScript implementation.",
+  "source_repo": "etoxin/untapped-mcp",
+  "source_url": "https://github.com/etoxin/untapped-mcp",
+  "install": "npx -y untapped-mcp"
+}

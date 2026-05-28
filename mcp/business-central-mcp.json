@@ -1,0 +1,7 @@
+{
+  "name": "business-central-mcp",
+  "description": "Give AI assistants direct access to Microsoft Dynamics 365 Business Central via native WebSocket protocol.",
+  "source_repo": "SShadowS/business-central-mcp",
+  "source_url": "https://github.com/SShadowS/business-central-mcp",
+  "install": "npx -y business-central-mcp"
+}

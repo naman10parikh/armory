@@ -1,0 +1,7 @@
+{
+  "name": "cco-mcp",
+  "description": "Real-time audit and approval system for Claude Code tool calls, enabling monitoring and control of AI agent actions with a web dashboard.",
+  "source_repo": "toolprint/cco-mcp",
+  "source_url": "https://github.com/toolprint/cco-mcp",
+  "install": "npx -y cco-mcp"
+}

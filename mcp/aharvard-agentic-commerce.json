@@ -1,0 +1,7 @@
+{
+  "name": "aharvard-agentic-commerce",
+  "description": "Simulates a complete food delivery platform with mock restaurant data, menu management, and order processing capabilities for prototyping e-commerce interactions and testing conversational ordering workflows without requiring real payment processing or restaurant integrations.",
+  "source_repo": "aharvard/mcp_agentic-commerce",
+  "source_url": "https://github.com/aharvard/mcp_agentic-commerce",
+  "install": "# git clone --depth 1 https://github.com/aharvard/mcp_agentic-commerce\n# See source for mcpServers config block"
+}

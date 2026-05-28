@@ -1,0 +1,7 @@
+{
+  "name": "inthepond-ffmpeg",
+  "description": "FFmpeg video processing tools for AI-driven media manipulation.",
+  "source_repo": "inthepond/ff-toolkit",
+  "source_url": "https://github.com/inthepond/ff-toolkit",
+  "install": "# git clone --depth 1 https://github.com/inthepond/ff-toolkit\n# See source for mcpServers config block"
+}

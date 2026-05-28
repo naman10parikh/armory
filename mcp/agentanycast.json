@@ -1,0 +1,7 @@
+{
+  "name": "agentanycast",
+  "description": "P2P daemon for decentralized agent-to-agent communication with automatic peer discovery and NAT traversal.",
+  "source_repo": "agentanycast/agentanycast-node",
+  "source_url": "https://github.com/agentanycast/agentanycast-node",
+  "install": "# git clone --depth 1 https://github.com/agentanycast/agentanycast-node\n# See source for mcpServers config block"
+}

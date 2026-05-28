@@ -1,0 +1,7 @@
+{
+  "name": "stellify",
+  "description": "Build Laravel apps through conversation with code stored as structured JSON for surgical AI edits.",
+  "source_repo": "stellify-software-ltd/stellify-mcp",
+  "source_url": "https://github.com/stellify-software-ltd/stellify-mcp",
+  "install": "npx -y stellify-mcp"
+}

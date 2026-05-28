@@ -1,0 +1,7 @@
+{
+  "name": "groovybugify-aws-security",
+  "description": "Enables security professionals to inspect and analyze AWS infrastructure for security issues through natural language queries about GuardDuty findings, IAM permissions, S3 buckets, and CloudFront distributions.",
+  "source_repo": "groovybugify/aws-security-mcp",
+  "source_url": "https://github.com/groovybugify/aws-security-mcp",
+  "install": "npx -y aws-security-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mailspring-mcp-server",
+  "description": "Enables AI agents to read email data (threads, messages, contacts, folders, labels) via the Model Context Protocol using Mailspring's DatabaseStore API.",
+  "source_repo": "RyamosThomas/Mailspring-MCP",
+  "source_url": "https://github.com/RyamosThomas/Mailspring-MCP",
+  "install": "npx -y Mailspring-MCP"
+}

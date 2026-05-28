@@ -1,0 +1,7 @@
+{
+  "name": "tabula",
+  "description": "Chart authoring, PNG rendering, and editor handoff for Tabula analytical presentations.",
+  "source_repo": "",
+  "source_url": "https://www.tabula.click",
+  "install": "# git clone --depth 1 https://www.tabula.click\n# See source for mcpServers config block"
+}

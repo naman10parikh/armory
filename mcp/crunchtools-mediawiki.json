@@ -1,0 +1,7 @@
+{
+  "name": "crunchtools-mediawiki",
+  "description": "Searches, reads, creates, and manages MediaWiki pages, categories, files, and recent changes.",
+  "source_repo": "crunchtools/mcp-mediawiki",
+  "source_url": "https://github.com/crunchtools/mcp-mediawiki",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-mediawiki\n# See source for mcpServers config block"
+}

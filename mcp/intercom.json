@@ -1,0 +1,7 @@
+{
+  "name": "intercom",
+  "description": "Enables AI systems to securely access Intercom's customer conversation data, user profiles, and tickets in real-time for identifying patterns, troubleshooting issues, and driving business decisions.",
+  "source_repo": "",
+  "source_url": "https://www.intercom.com/blog/introducing-model-context-protocol-fin/",
+  "install": "# git clone --depth 1 https://www.intercom.com/blog/introducing-model-context-protocol-fin/\n# See source for mcpServers config block"
+}

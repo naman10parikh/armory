@@ -1,0 +1,7 @@
+{
+  "name": "aleemhaider-instagram",
+  "description": "Interact with Instagram Business and Creator accounts through the Instagram Graph API.",
+  "source_repo": "aleemhaider/instagram-mcp",
+  "source_url": "https://github.com/aleemhaider/instagram-mcp",
+  "install": "npx -y instagram-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dontsovcmc-yandex-direct",
+  "description": "Manage Yandex Direct advertising campaigns, ads, and statistics.",
+  "source_repo": "dontsovcmc/mcp-server-yandex-direct",
+  "source_url": "https://github.com/dontsovcmc/mcp-server-yandex-direct",
+  "install": "# git clone --depth 1 https://github.com/dontsovcmc/mcp-server-yandex-direct\n# See source for mcpServers config block"
+}

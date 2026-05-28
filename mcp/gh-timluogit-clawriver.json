@@ -1,0 +1,7 @@
+{
+  "name": "gh-timluogit-clawriver",
+  "description": "AI Agent experience sharing platform for knowledge exchange and collaboration.",
+  "source_repo": "timluogit/clawriver",
+  "source_url": "https://github.com/timluogit/clawriver",
+  "install": "# git clone --depth 1 https://github.com/timluogit/clawriver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meetalfred-mcp",
+  "description": "MCP server for MeetAlfred LinkedIn automation, enabling campaign monitoring, lead management, reply tracking, messaging, tag management, campaign CRUD, and social post scheduling.",
+  "source_repo": "cphoskins/meetalfred-mcp",
+  "source_url": "https://github.com/cphoskins/meetalfred-mcp",
+  "install": "npx -y meetalfred-mcp"
+}

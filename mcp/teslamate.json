@@ -1,0 +1,7 @@
+{
+  "name": "teslamate",
+  "description": "Provides access to TeslaMate database analytics for querying Tesla vehicle data including battery health, charging patterns, driving efficiency, location analytics, and software update history through 20 pre-built analytical tools plus custom SQL query capabilities with safety validation.",
+  "source_repo": "cobanov/teslamate-mcp",
+  "source_url": "https://github.com/cobanov/teslamate-mcp",
+  "install": "npx -y teslamate-mcp"
+}

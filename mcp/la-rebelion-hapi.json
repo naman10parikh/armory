@@ -1,0 +1,7 @@
+{
+  "name": "la-rebelion-hapi",
+  "description": "Dynamically converts OpenAPI REST API specifications into MCP tools without requiring backend rewrites.",
+  "source_repo": "larebelion/hapimcp",
+  "source_url": "https://github.com/larebelion/hapimcp",
+  "install": "# git clone --depth 1 https://github.com/larebelion/hapimcp\n# See source for mcpServers config block"
+}

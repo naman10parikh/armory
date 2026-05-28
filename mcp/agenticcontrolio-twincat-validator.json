@@ -1,0 +1,7 @@
+{
+  "name": "agenticcontrolio-twincat-validator",
+  "description": "Validates, auto-fixes, and scaffolds Beckhoff TwinCAT 3 XML files with IEC 61131-3 OOP checks and deterministic code quality pipelines.",
+  "source_repo": "agenticcontrolio/twincat-validator-mcp",
+  "source_url": "https://github.com/agenticcontrolio/twincat-validator-mcp",
+  "install": "npx -y twincat-validator-mcp"
+}

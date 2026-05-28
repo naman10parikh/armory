@@ -1,0 +1,7 @@
+{
+  "name": "richardlemmon-agent-team",
+  "description": "13 specialized AI agents collaborating via SQLite with 44 MCP tools for project management.",
+  "source_repo": "richardlemmon/agentteam",
+  "source_url": "https://github.com/richardlemmon/agentteam",
+  "install": "# git clone --depth 1 https://github.com/richardlemmon/agentteam\n# See source for mcpServers config block"
+}

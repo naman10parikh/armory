@@ -1,0 +1,7 @@
+{
+  "name": "lucairn",
+  "description": "Pseudonymizes personally identifiable information in prompts before sending to LLMs, with cryptographically signed compliance receipts per response.",
+  "source_repo": "declade/lucairn-sdks",
+  "source_url": "https://github.com/declade/lucairn-sdks",
+  "install": "# git clone --depth 1 https://github.com/declade/lucairn-sdks\n# See source for mcpServers config block"
+}

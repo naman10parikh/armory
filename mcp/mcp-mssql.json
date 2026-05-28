@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mssql",
+  "description": "Mcp Mssql MCP server listed on mcp.so.",
+  "source_repo": "FarukNetworks/mcp-mssql",
+  "source_url": "https://mcp.so/server/mcp-mssql/FarukNetworks",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-mssql/FarukNetworks\n# See source for mcpServers config block"
+}

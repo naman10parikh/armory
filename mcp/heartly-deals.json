@@ -1,0 +1,7 @@
+{
+  "name": "heartly-deals",
+  "description": "Access live flash-sale inventory from verified Shopify and WooCommerce merchants worldwide.",
+  "source_repo": "",
+  "source_url": "https://mcp.heartly.io/",
+  "install": "# git clone --depth 1 https://mcp.heartly.io/\n# See source for mcpServers config block"
+}

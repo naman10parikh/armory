@@ -1,0 +1,7 @@
+{
+  "name": "gh-nearestnabors-webcomic-site",
+  "description": "Template framework for building MCP-enabled webcomic archives deployable as static sites and Netlify Functions.",
+  "source_repo": "nearestnabors/mcp-webcomic-site-server",
+  "source_url": "https://github.com/nearestnabors/mcp-webcomic-site-server",
+  "install": "# git clone --depth 1 https://github.com/nearestnabors/mcp-webcomic-site-server\n# See source for mcpServers config block"
+}

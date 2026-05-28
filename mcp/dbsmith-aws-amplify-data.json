@@ -1,0 +1,7 @@
+{
+  "name": "dbsmith-aws-amplify-data",
+  "description": "Bridges AI systems with AWS Amplify Data APIs, enabling GraphQL-based data model interaction without requiring complex query writing",
+  "source_repo": "dbsmith7491/aws-amplify-data-mcp",
+  "source_url": "https://github.com/dbsmith7491/aws-amplify-data-mcp",
+  "install": "npx -y aws-amplify-data-mcp"
+}

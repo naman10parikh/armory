@@ -1,0 +1,7 @@
+{
+  "name": "zhaoyouj-slicer",
+  "description": "Bridges medical professionals with 3D Slicer's medical imaging platform, enabling MRML node listing and direct Python code execution for advanced image analysis and visualization tasks.",
+  "source_repo": "zhaoyouj/mcp-slicer",
+  "source_url": "https://github.com/zhaoyouj/mcp-slicer",
+  "install": "# git clone --depth 1 https://github.com/zhaoyouj/mcp-slicer\n# See source for mcpServers config block"
+}

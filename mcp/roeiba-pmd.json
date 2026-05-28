@@ -1,0 +1,7 @@
+{
+  "name": "roeiba-pmd",
+  "description": "Run PMD static code analysis and detect code duplicates",
+  "source_repo": "roeiba/pmd",
+  "source_url": "https://github.com/roeiba/pmd",
+  "install": "# git clone --depth 1 https://github.com/roeiba/pmd\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deliciousbuding-codex-browser",
+  "description": "Bridges Claude Code and other MCP agents to Codex Desktop's Chrome extension for tab management, navigation, DOM inspection, and browser interaction on Windows.",
+  "source_repo": "deliciousbuding/codex-browser-bridge",
+  "source_url": "https://github.com/deliciousbuding/codex-browser-bridge",
+  "install": "# git clone --depth 1 https://github.com/deliciousbuding/codex-browser-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shinzo-labs-heimdall",
+  "description": "Manage your agent tools and MCP server configs with ease.",
+  "source_repo": "shinzo-labs/heimdall",
+  "source_url": "https://github.com/shinzo-labs/heimdall",
+  "install": "# git clone --depth 1 https://github.com/shinzo-labs/heimdall\n# See source for mcpServers config block"
+}

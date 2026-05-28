@@ -1,0 +1,7 @@
+{
+  "name": "paul-crafts-openreview",
+  "description": "MCP server for interacting with the OpenReview academic conference management platform for Area Chairs, Reviewers, and Authors.",
+  "source_repo": "paul-crafts/openreview-mcp",
+  "source_url": "https://github.com/paul-crafts/openreview-mcp",
+  "install": "npx -y openreview-mcp"
+}

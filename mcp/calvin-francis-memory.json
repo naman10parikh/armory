@@ -1,0 +1,7 @@
+{
+  "name": "calvin-francis-memory",
+  "description": "Persistent conversational memory with semantic search using PostgreSQL and pgvector, combining traditional memory storage with confidence scoring and a bidirectional knowledge graph for entity relationships",
+  "source_repo": "calvin-francis/memory-mcp",
+  "source_url": "https://github.com/calvin-francis/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

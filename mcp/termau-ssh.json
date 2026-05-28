@@ -1,0 +1,7 @@
+{
+  "name": "termau-ssh",
+  "description": "Provides SSH connectivity and remote server management with command execution, file operations, directory listing, and SFTP transfers across manual configurations, environment variables, and BinaryLane cloud auto-discovery.",
+  "source_repo": "termau/ssh-mcp",
+  "source_url": "https://github.com/termau/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

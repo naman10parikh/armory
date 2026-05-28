@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pear",
+  "description": "Read-only MCP server for Pear Protocol that gives Claude access to markets, pair ratios, positions, orders, trade history, and portfolio.",
+  "source_repo": "MarvelNwachukwu/mcp-pear",
+  "source_url": "https://github.com/MarvelNwachukwu/mcp-pear",
+  "install": "# git clone --depth 1 https://github.com/MarvelNwachukwu/mcp-pear\n# See source for mcpServers config block"
+}

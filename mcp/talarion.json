@@ -1,0 +1,7 @@
+{
+  "name": "talarion",
+  "description": "AI accuracy and confidence enhancement via the Talarion information network.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/talarion",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/talarion\n# See source for mcpServers config block"
+}

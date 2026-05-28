@@ -1,0 +1,7 @@
+{
+  "name": "contentauth-c2pa",
+  "description": "Read and verify Content Credentials from images and media using the official C2PA Rust SDK.",
+  "source_repo": "contentauth/c2pa-mcp",
+  "source_url": "https://github.com/contentauth/c2pa-mcp",
+  "install": "npx -y c2pa-mcp"
+}

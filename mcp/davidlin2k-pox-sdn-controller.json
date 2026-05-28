@@ -1,0 +1,7 @@
+{
+  "name": "davidlin2k-pox-sdn-controller",
+  "description": "Bridges to the POX SDN controller, enabling network topology management and configuration of OpenFlow-based networks through specialized tools for datapath management, flow statistics, and table configuration.",
+  "source_repo": "davidlin2k/pox-mcp-server",
+  "source_url": "https://github.com/davidlin2k/pox-mcp-server",
+  "install": "npx -y pox-mcp-server"
+}

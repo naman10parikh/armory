@@ -1,0 +1,7 @@
+{
+  "name": "gh-jmatsuzaki-inc-taskchute-cloud-2",
+  "description": "CLI tool for managing tasks in TaskChute Cloud 2 with MCP integration.",
+  "source_repo": "jmatsuzaki-inc/homebrew-tap",
+  "source_url": "https://github.com/jmatsuzaki-inc/homebrew-tap",
+  "install": "# git clone --depth 1 https://github.com/jmatsuzaki-inc/homebrew-tap\n# See source for mcpServers config block"
+}

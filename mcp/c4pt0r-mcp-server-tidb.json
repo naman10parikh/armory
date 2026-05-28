@@ -1,0 +1,7 @@
+{
+  "name": "c4pt0r-mcp-server-tidb",
+  "description": "TiDB database integration with schema inspection and query capabilities",
+  "source_repo": "c4pt0r/mcp-server-tidb",
+  "source_url": "https://github.com/c4pt0r/mcp-server-tidb",
+  "install": "# git clone --depth 1 https://github.com/c4pt0r/mcp-server-tidb\n# See source for mcpServers config block"
+}

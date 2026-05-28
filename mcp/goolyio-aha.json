@@ -1,0 +1,7 @@
+{
+  "name": "goolyio-aha",
+  "description": "Access and manage Aha! product management features, sprints, and projects.",
+  "source_repo": "goolyio/aha-mcp",
+  "source_url": "https://github.com/goolyio/aha-mcp",
+  "install": "npx -y aha-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apeyroux-xmind-mind-maps",
+  "description": "Analyze Xmind mind maps on your local machine using fuzzy search and hierarchical navigation.",
+  "source_repo": "apeyroux/mcp-xmind",
+  "source_url": "https://github.com/apeyroux/mcp-xmind",
+  "install": "# git clone --depth 1 https://github.com/apeyroux/mcp-xmind\n# See source for mcpServers config block"
+}

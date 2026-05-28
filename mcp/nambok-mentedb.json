@@ -1,0 +1,7 @@
+{
+  "name": "nambok-mentedb",
+  "description": "Persistent cognitive memory layer for AI agents with semantic search, knowledge graphs, and session-spanning context.",
+  "source_repo": "nambok/mentedb-mcp",
+  "source_url": "https://github.com/nambok/mentedb-mcp",
+  "install": "npx -y mentedb-mcp"
+}

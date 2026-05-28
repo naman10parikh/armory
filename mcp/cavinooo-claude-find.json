@@ -1,0 +1,7 @@
+{
+  "name": "cavinooo-claude-find",
+  "description": "Retrieves deep memory from past Claude Code sessions for use in current conversations.",
+  "source_repo": "cavinooo/claude-find",
+  "source_url": "https://github.com/cavinooo/claude-find",
+  "install": "# git clone --depth 1 https://github.com/cavinooo/claude-find\n# See source for mcpServers config block"
+}

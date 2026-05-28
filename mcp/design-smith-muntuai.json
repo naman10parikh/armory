@@ -1,0 +1,7 @@
+{
+  "name": "design-smith-muntuai",
+  "description": "MCP server for managing email outreach campaigns, lead imports, domain verification, and workspace events programmatically.",
+  "source_repo": "design-smith/muntuai-mcp",
+  "source_url": "https://github.com/design-smith/muntuai-mcp",
+  "install": "npx -y muntuai-mcp"
+}

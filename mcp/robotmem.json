@@ -1,0 +1,7 @@
+{
+  "name": "robotmem",
+  "description": "Persistent memory system for robotic agents with hybrid BM25 and vector search, spatial retrieval, and session-based memory consolidation.",
+  "source_repo": "robotmem/robotmem",
+  "source_url": "https://github.com/robotmem/robotmem",
+  "install": "# git clone --depth 1 https://github.com/robotmem/robotmem\n# See source for mcpServers config block"
+}

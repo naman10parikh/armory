@@ -1,0 +1,7 @@
+{
+  "name": "therealmrfunguy-solana-pay",
+  "description": "Solana blockchain payment processing and transaction management.",
+  "source_repo": "",
+  "source_url": "https://pay.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://pay.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

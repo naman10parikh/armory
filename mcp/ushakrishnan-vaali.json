@@ -1,0 +1,7 @@
+{
+  "name": "ushakrishnan-vaali",
+  "description": "Demonstrates the full spectrum of MCP capabilities through resources for configuration files, reusable prompt templates for code review and documentation, basic tools for weather and calculations, and advanced elicitation-enabled tools that interactively collect missing parameters from users for workflows like email sending and calendar management.",
+  "source_repo": "ushakrishnan/vaali_mcp_server",
+  "source_url": "https://github.com/ushakrishnan/vaali_mcp_server",
+  "install": "npx -y vaali_mcp_server"
+}

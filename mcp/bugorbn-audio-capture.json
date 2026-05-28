@@ -1,0 +1,7 @@
+{
+  "name": "bugorbn-audio-capture",
+  "description": "Record microphone and system audio on macOS into sessions, exposing recordings as WAV files to AI agents.",
+  "source_repo": "bugorbn/audio-mcp",
+  "source_url": "https://github.com/bugorbn/audio-mcp",
+  "install": "npx -y audio-mcp"
+}

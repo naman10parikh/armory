@@ -1,0 +1,7 @@
+{
+  "name": "lumifai-cryptocurrency-technical-analysis",
+  "description": "Provides real-time cryptocurrency technical analysis through FastMCP, calculating 12 and 26-period EMAs for Binance trading pairs using MongoDB-stored OHLCV data and Server-Sent Events.",
+  "source_repo": "lumif-ai/mcp-ta-tool",
+  "source_url": "https://github.com/lumif-ai/mcp-ta-tool",
+  "install": "# git clone --depth 1 https://github.com/lumif-ai/mcp-ta-tool\n# See source for mcpServers config block"
+}

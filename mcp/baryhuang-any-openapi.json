@@ -1,0 +1,7 @@
+{
+  "name": "baryhuang-any-openapi",
+  "description": "Integrates with any OpenAPI-compliant service using dynamic tool generation and vector-based semantic search for efficient API operation discovery and interaction.",
+  "source_repo": "baryhuang/mcp-server-any-openapi",
+  "source_url": "https://github.com/baryhuang/mcp-server-any-openapi",
+  "install": "# git clone --depth 1 https://github.com/baryhuang/mcp-server-any-openapi\n# See source for mcpServers config block"
+}

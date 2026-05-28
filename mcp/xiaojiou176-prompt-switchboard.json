@@ -1,0 +1,7 @@
+{
+  "name": "xiaojiou176-prompt-switchboard",
+  "description": "Local MCP sidecar for comparing AI responses across multiple browser AI workflows.",
+  "source_repo": "xiaojiou176-open/multi-ai-sidepanel",
+  "source_url": "https://github.com/xiaojiou176-open/multi-ai-sidepanel",
+  "install": "# git clone --depth 1 https://github.com/xiaojiou176-open/multi-ai-sidepanel\n# See source for mcpServers config block"
+}

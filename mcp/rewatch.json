@@ -1,0 +1,7 @@
+{
+  "name": "rewatch",
+  "description": "Manages long-running development processes like Next.js and Convex servers with tools for starting, stopping, restarting, and monitoring processes while ensuring proper cleanup and preventing orphaned processes during development workflows.",
+  "source_repo": "brennancheung/mcp-rewatch",
+  "source_url": "https://github.com/brennancheung/mcp-rewatch",
+  "install": "# git clone --depth 1 https://github.com/brennancheung/mcp-rewatch\n# See source for mcpServers config block"
+}

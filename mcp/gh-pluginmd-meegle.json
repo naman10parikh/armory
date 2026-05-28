@@ -1,0 +1,7 @@
+{
+  "name": "gh-pluginmd-meegle",
+  "description": "Connects AI agents to Meegle (Feishu Project) for project management via 102 tools covering work items, workflows, subtasks, comments, and attachments.",
+  "source_repo": "pluginmd/meegle-mcp",
+  "source_url": "https://github.com/pluginmd/meegle-mcp",
+  "install": "npx -y meegle-mcp"
+}

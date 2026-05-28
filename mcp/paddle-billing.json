@@ -1,0 +1,7 @@
+{
+  "name": "paddle-billing",
+  "description": "Enables developers to manage billing operations using natural language commands, streamlining financial API interactions for SaaS businesses.",
+  "source_repo": "paddlehq/paddle-mcp-server",
+  "source_url": "https://github.com/paddlehq/paddle-mcp-server",
+  "install": "npx -y paddle-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scrivener-mcp-server",
+  "description": "Enables Claude AI to seamlessly interact with Scrivener projects for document management, AI-powered content analysis, and advanced writing assistance.",
+  "source_repo": "dcondrey/scrivener-mcp",
+  "source_url": "https://github.com/dcondrey/scrivener-mcp",
+  "install": "npx -y scrivener-mcp"
+}

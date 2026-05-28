@@ -1,0 +1,7 @@
+{
+  "name": "sapientsai-dokploy",
+  "description": "Integrates with Dokploy's self-hosted PaaS for deployment management, database orchestration, and infrastructure automation via 13 consolidated action-based tools.",
+  "source_repo": "sapientsai/dokploy-mcp-server",
+  "source_url": "https://github.com/sapientsai/dokploy-mcp-server",
+  "install": "npx -y dokploy-mcp-server"
+}

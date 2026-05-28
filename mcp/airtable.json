@@ -1,0 +1,7 @@
+{
+  "name": "airtable",
+  "description": "Official Airtable database operations and record management for AI agents.",
+  "source_repo": "",
+  "source_url": "https://mcp.airtable.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.airtable.com/mcp\n# See source for mcpServers config block"
+}

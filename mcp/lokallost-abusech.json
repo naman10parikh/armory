@@ -1,0 +1,7 @@
+{
+  "name": "lokallost-abusech",
+  "description": "Integrates with abuse.ch threat intelligence platforms (MalwareBazaar, URLhaus, ThreatFox) to provide security reports for files, URLs, domains, and IP addresses with hash validation, concurrent API calls, and automatic response limiting for malware analysis and IOC enrichment.",
+  "source_repo": "lokallost/abusech-mcp",
+  "source_url": "https://github.com/lokallost/abusech-mcp",
+  "install": "npx -y abusech-mcp"
+}

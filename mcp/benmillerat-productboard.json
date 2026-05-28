@@ -1,0 +1,7 @@
+{
+  "name": "benmillerat-productboard",
+  "description": "Integrates with Productboard for feature management, customer feedback, OKR tracking, release planning, and organizational data access.",
+  "source_repo": "benmillerat/productboard-mcpb",
+  "source_url": "https://github.com/benmillerat/productboard-mcpb",
+  "install": "# git clone --depth 1 https://github.com/benmillerat/productboard-mcpb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-calendly",
+  "description": "MCP server for meeting scheduling, availability checking, timezone conversion, and recurring date generation.",
+  "source_repo": "josephtandle/calendly-mcp-mcp",
+  "source_url": "https://github.com/josephtandle/calendly-mcp-mcp",
+  "install": "npx -y calendly-mcp-mcp"
+}

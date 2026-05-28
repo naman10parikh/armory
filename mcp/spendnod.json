@@ -1,0 +1,7 @@
+{
+  "name": "spendnod",
+  "description": "Human authorization gateway for AI agent financial transactions with spending rules, approval workflows, and audit trails.",
+  "source_repo": "gstack-ds/spendnod",
+  "source_url": "https://github.com/gstack-ds/spendnod",
+  "install": "# git clone --depth 1 https://github.com/gstack-ds/spendnod\n# See source for mcpServers config block"
+}

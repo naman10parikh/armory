@@ -1,0 +1,7 @@
+{
+  "name": "devqxi-pubdev",
+  "description": "Integrates with pub.dev to enable package discovery, version management, dependency analysis, and documentation retrieval for Dart and Flutter development workflows.",
+  "source_repo": "devqxi/pubdev-mcp-server",
+  "source_url": "https://github.com/devqxi/pubdev-mcp-server",
+  "install": "npx -y pubdev-mcp-server"
+}

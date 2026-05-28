@@ -1,0 +1,7 @@
+{
+  "name": "buiduclong0511-cogover",
+  "description": "Integrates with the Cogover enterprise CRM and process automation platform to retrieve task details and extract Git branch information from development activities.",
+  "source_repo": "buiduclong0511/cgv-mcp",
+  "source_url": "https://github.com/buiduclong0511/cgv-mcp",
+  "install": "npx -y cgv-mcp"
+}

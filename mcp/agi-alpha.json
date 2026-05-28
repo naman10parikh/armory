@@ -1,0 +1,7 @@
+{
+  "name": "agi-alpha",
+  "description": "Decentralized AI agent labor market on Ethereum providing on-chain job lifecycle tools.",
+  "source_repo": "",
+  "source_url": "https://agialpha.com",
+  "install": "# git clone --depth 1 https://agialpha.com\n# See source for mcpServers config block"
+}

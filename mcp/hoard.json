@@ -1,0 +1,7 @@
+{
+  "name": "hoard",
+  "description": "Local MCP server for indexing personal knowledge into SQLite with hybrid search, chunk-level citations, memory tools, and agent orchestration.",
+  "source_repo": "thrr87/hoard",
+  "source_url": "https://github.com/thrr87/hoard",
+  "install": "# git clone --depth 1 https://github.com/thrr87/hoard\n# See source for mcpServers config block"
+}

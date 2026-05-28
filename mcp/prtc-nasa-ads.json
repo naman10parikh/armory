@@ -1,0 +1,7 @@
+{
+  "name": "prtc-nasa-ads",
+  "description": "MCP server for NASA Astrophysics Data System",
+  "source_repo": "prtc/nasa-ads-mcp",
+  "source_url": "https://github.com/prtc/nasa-ads-mcp",
+  "install": "npx -y nasa-ads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agnigateway-marketplace",
+  "description": "AI commerce platform — WooCommerce store products, flights, tours, activities and local transport via MCP. Search, availability and booking tools. No auth for public endpoint.",
+  "source_repo": "Kaanthan24/agnigateway-mcp",
+  "source_url": "https://github.com/Kaanthan24/agnigateway-mcp",
+  "install": "npx -y agnigateway-mcp"
+}

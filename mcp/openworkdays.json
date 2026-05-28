@@ -1,0 +1,7 @@
+{
+  "name": "openworkdays",
+  "description": "Business-day date arithmetic API for adding days, counting workdays, and checking business day status.",
+  "source_repo": "solvohq/openworkdays",
+  "source_url": "https://github.com/solvohq/openworkdays",
+  "install": "# git clone --depth 1 https://github.com/solvohq/openworkdays\n# See source for mcpServers config block"
+}

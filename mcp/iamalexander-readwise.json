@@ -1,0 +1,7 @@
+{
+  "name": "iamalexander-readwise",
+  "description": "Integrates with Readwise to provide access to saved articles, books, highlights, and documents, enabling users to reference, analyze, and search across their personal knowledge collection during conversations.",
+  "source_repo": "iamalexander/readwise-mcp",
+  "source_url": "https://github.com/iamalexander/readwise-mcp",
+  "install": "npx -y readwise-mcp"
+}

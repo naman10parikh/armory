@@ -1,0 +1,7 @@
+{
+  "name": "robspectre-mvf1",
+  "description": "MCP server that controls [MultiViewer](https://multiviewer.app), an app for watching motorsports like Formula 1, World Endurance Championship, IndyCar and others.",
+  "source_repo": "RobSpectre/mvf1",
+  "source_url": "https://github.com/RobSpectre/mvf1",
+  "install": "# git clone --depth 1 https://github.com/RobSpectre/mvf1\n# See source for mcpServers config block"
+}

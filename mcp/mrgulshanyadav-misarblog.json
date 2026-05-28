@@ -1,0 +1,7 @@
+{
+  "name": "mrgulshanyadav-misarblog",
+  "description": "Publish posts, manage drafts, generate AI cover images, and pull analytics from Misar.Blog.",
+  "source_repo": "mrgulshanyadav/misarblog-mcp",
+  "source_url": "https://github.com/mrgulshanyadav/misarblog-mcp",
+  "install": "npx -y misarblog-mcp"
+}

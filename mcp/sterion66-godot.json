@@ -1,0 +1,7 @@
+{
+  "name": "sterion66-godot",
+  "description": "Comprehensive Godot 4 integration with 40+ tools for project management, scripting, assets, and runtime control.",
+  "source_repo": "sterion66/godot-mcp-server",
+  "source_url": "https://github.com/sterion66/godot-mcp-server",
+  "install": "npx -y godot-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cornelcroi-french-tax",
+  "description": "Integrates with official French tax websites (impots.gouv.fr, service-public.fr, legifrance.gouv.fr) to provide tax calculations, form guidance, scheme details, and legal article retrieval with automated report generation for French tax professionals and developers.",
+  "source_repo": "cornelcroi/french-tax-mcp",
+  "source_url": "https://github.com/cornelcroi/french-tax-mcp",
+  "install": "npx -y french-tax-mcp"
+}

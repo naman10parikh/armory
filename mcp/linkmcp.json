@@ -1,0 +1,7 @@
+{
+  "name": "linkmcp",
+  "description": "Hosted MCP server for LinkedIn with 25 tools for profiles, messages, search, and inbox management.",
+  "source_repo": "",
+  "source_url": "https://linkmcp.io",
+  "install": "# git clone --depth 1 https://linkmcp.io\n# See source for mcpServers config block"
+}

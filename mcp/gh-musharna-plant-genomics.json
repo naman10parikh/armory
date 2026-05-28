@@ -1,0 +1,7 @@
+{
+  "name": "gh-musharna-plant-genomics",
+  "description": "Access 32 plant genomics tools across 11 biological databases via MCP.",
+  "source_repo": "musharna/plant-genomics-mcp",
+  "source_url": "https://github.com/musharna/plant-genomics-mcp",
+  "install": "npx -y plant-genomics-mcp"
+}

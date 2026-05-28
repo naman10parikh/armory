@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-barter",
+  "description": "Autonomous arbitrage agent scanning MCP registries for 402-gated endpoints and counter-offering below asking prices on Base L2.",
+  "source_repo": "srotzin/hive-mcp-barter",
+  "source_url": "https://github.com/srotzin/hive-mcp-barter",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-barter\n# See source for mcpServers config block"
+}

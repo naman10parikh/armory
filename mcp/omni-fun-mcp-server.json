@@ -1,0 +1,7 @@
+{
+  "name": "omni-fun-mcp-server",
+  "description": "Multichain memecoin launchpad across 8 chains (Base, Arb, OP, Polygon, BSC, ETH, Avax, Solana). Tokenize yourself as an oMeme — earn 0.5% creator fee forever + 50% Uniswap V3 LP fees after graduation, from a single LP. $69 bounties. First 100 agents FREE for 60 days. 8 tools: trending tokens, search, quotes, bonding curves, trade simulation, chain info.",
+  "source_repo": "0xzcov/omni-fun-mcp-server",
+  "source_url": "https://github.com/0xzcov/omni-fun-mcp-server",
+  "install": "npx -y omni-fun-mcp-server"
+}

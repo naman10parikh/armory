@@ -1,0 +1,7 @@
+{
+  "name": "bsmi021-openrouter-conversation",
+  "description": "Provides a unified conversation management system for OpenRouter's language models with features like token counting, context window management, and filesystem persistence across multiple AI providers.",
+  "source_repo": "bsmi021/mcp-conversation-server",
+  "source_url": "https://github.com/bsmi021/mcp-conversation-server",
+  "install": "# git clone --depth 1 https://github.com/bsmi021/mcp-conversation-server\n# See source for mcpServers config block"
+}

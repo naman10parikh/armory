@@ -1,0 +1,7 @@
+{
+  "name": "workworklabs-payment-button",
+  "description": "Generates cryptocurrency payment button components for React and HTML supporting ETH, USDT, and USDC on Ethereum mainnet.",
+  "source_repo": "workworklabs/payment-mcp",
+  "source_url": "https://github.com/workworklabs/payment-mcp",
+  "install": "npx -y payment-mcp"
+}

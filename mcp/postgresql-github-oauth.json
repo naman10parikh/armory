@@ -1,0 +1,7 @@
+{
+  "name": "postgresql-github-oauth",
+  "description": "Provides secure PostgreSQL database operations with GitHub OAuth authentication, role-based access control, and comprehensive security measures including SQL injection protection and connection pooling for authenticated database access in team workflows.",
+  "source_repo": "technophile-04/sre-mcp",
+  "source_url": "https://github.com/technophile-04/sre-mcp",
+  "install": "npx -y sre-mcp"
+}

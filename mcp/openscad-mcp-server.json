@@ -1,0 +1,7 @@
+{
+  "name": "openscad-mcp-server",
+  "description": "Render STL and PNG from OpenSCAD code.",
+  "source_repo": "fboldo/openscad-mcp-server",
+  "source_url": "https://github.com/fboldo/openscad-mcp-server",
+  "install": "npx -y openscad-mcp-server"
+}

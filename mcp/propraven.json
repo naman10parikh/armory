@@ -1,0 +1,7 @@
+{
+  "name": "propraven",
+  "description": "Property intelligence covering 180M+ US parcels with ownership, hazards, permits, and deeds.",
+  "source_repo": "jdw2111/propraven-mcp",
+  "source_url": "https://github.com/jdw2111/propraven-mcp",
+  "install": "npx -y propraven-mcp"
+}

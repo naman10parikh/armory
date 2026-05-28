@@ -1,0 +1,7 @@
+{
+  "name": "trustrails",
+  "description": "Search UK electronics products across retailers with real-time prices and stock.",
+  "source_repo": "james-webdev/trustrails-mcp-server",
+  "source_url": "https://github.com/james-webdev/trustrails-mcp-server",
+  "install": "npx -y trustrails-mcp-server"
+}

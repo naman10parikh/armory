@@ -1,0 +1,7 @@
+{
+  "name": "boilerplate-paid-mcp-server",
+  "description": "A boilerplate MCP server demonstrating paid tools via Lightning micropayments, including weather data and food ordering.",
+  "source_repo": "getAlby/paidmcp-boilerplate",
+  "source_url": "https://github.com/getAlby/paidmcp-boilerplate",
+  "install": "# git clone --depth 1 https://github.com/getAlby/paidmcp-boilerplate\n# See source for mcpServers config block"
+}

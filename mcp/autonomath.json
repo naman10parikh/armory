@@ -1,0 +1,7 @@
+{
+  "name": "autonomath",
+  "description": "Japanese regulatory intelligence covering subsidies, laws, court decisions, tax systems, and procurement.",
+  "source_repo": "shigetosidumeda-cyber/autonomath-mcp",
+  "source_url": "https://github.com/shigetosidumeda-cyber/autonomath-mcp",
+  "install": "npx -y autonomath-mcp"
+}

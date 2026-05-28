@@ -1,0 +1,7 @@
+{
+  "name": "starbops-harvester-hci",
+  "description": "Enables management of Harvester HCI clusters through a Go-based server that provides tools for handling both standard Kubernetes and Harvester-specific resources with human-readable output formatting.",
+  "source_repo": "starbops/harvester-mcp-server",
+  "source_url": "https://github.com/starbops/harvester-mcp-server",
+  "install": "npx -y harvester-mcp-server"
+}

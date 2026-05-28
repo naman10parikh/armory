@@ -1,0 +1,7 @@
+{
+  "name": "timoncool-telegram-api",
+  "description": "MCP server wrapping Telegram Bot API v9.6 for sending messages, managing chats, and bot interactions.",
+  "source_repo": "timoncool/telegram-api-mcp",
+  "source_url": "https://github.com/timoncool/telegram-api-mcp",
+  "install": "npx -y telegram-api-mcp"
+}

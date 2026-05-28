@@ -1,0 +1,7 @@
+{
+  "name": "shopify-customer-accounts",
+  "description": "Integrates with Shopify stores to enable customer-specific order management, account details retrieval, and preference management through OAuth 2.0 authentication for customer service automation and personalized shopping experiences.",
+  "source_repo": "",
+  "source_url": "https://shopify.dev/docs/apps/build/storefront-mcp/servers/customer-account",
+  "install": "# git clone --depth 1 https://shopify.dev/docs/apps/build/storefront-mcp/servers/customer-account\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kiarash-portfolio-mcp",
+  "description": "WebMCP-enabled portfolio with Ed25519 signed discovery. AI agents can query projects, skills, and execute terminal commands. Built on Cloudflare Pages Functions.",
+  "source_repo": "",
+  "source_url": "https://kiarash-adl.pages.dev/.well-known/mcp.llmfeed.json",
+  "install": "# git clone --depth 1 https://kiarash-adl.pages.dev/.well-known/mcp.llmfeed.json\n# See source for mcpServers config block"
+}

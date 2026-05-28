@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-kraken",
+  "description": "Kraken cryptocurrency exchange public market data: assets, trading pairs, ticker, OHLC, order depth, and trades.",
+  "source_repo": "pipeworx-io/mcp-kraken",
+  "source_url": "https://github.com/pipeworx-io/mcp-kraken",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-kraken\n# See source for mcpServers config block"
+}

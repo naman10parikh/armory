@@ -1,0 +1,7 @@
+{
+  "name": "mcp-auto-install",
+  "description": "Mcp Auto Install MCP server listed on mcp.so.",
+  "source_repo": "MyPrototypeWhat/mcp-auto-install",
+  "source_url": "https://mcp.so/server/mcp-auto-install/MyPrototypeWhat",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-auto-install/MyPrototypeWhat\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "py2755-aiogram-mcp",
+  "description": "MCP server middleware for aiogram Telegram bots — 30 tools, 7 resources, 3 prompts covering messaging, rich media, moderation, interactive keyboards, real-time event streaming, rate limiting, permissions, and audit logging.",
+  "source_repo": "Py2755/aiogram-mcp",
+  "source_url": "https://github.com/Py2755/aiogram-mcp",
+  "install": "npx -y aiogram-mcp"
+}

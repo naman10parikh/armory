@@ -1,0 +1,7 @@
+{
+  "name": "wenb1n-mysql-database-manager",
+  "description": "Provides direct access to MySQL databases with advanced features like multiple SQL execution, table metadata querying, execution plan analysis, and Chinese field to pinyin conversion through a configurable Python-based server.",
+  "source_repo": "wenb1n-dev/mysql_mcp_server_pro",
+  "source_url": "https://github.com/wenb1n-dev/mysql_mcp_server_pro",
+  "install": "# git clone --depth 1 https://github.com/wenb1n-dev/mysql_mcp_server_pro\n# See source for mcpServers config block"
+}

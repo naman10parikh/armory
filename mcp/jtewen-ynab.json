@@ -1,0 +1,7 @@
+{
+  "name": "jtewen-ynab",
+  "description": "Integrates with You Need A Budget's API to enable budget inquiries, expense tracking, and financial data analysis through natural language interactions with your YNAB accounts, transactions, and categories.",
+  "source_repo": "jtewen/ynab-mcp",
+  "source_url": "https://github.com/jtewen/ynab-mcp",
+  "install": "npx -y ynab-mcp"
+}

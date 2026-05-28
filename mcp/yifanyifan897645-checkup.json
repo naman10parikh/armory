@@ -1,0 +1,7 @@
+{
+  "name": "yifanyifan897645-checkup",
+  "description": "Diagnoses token costs, schema bloat, duplicate tools, and optimization opportunities across installed servers.",
+  "source_repo": "yifanyifan897645/mcp-checkup",
+  "source_url": "https://github.com/yifanyifan897645/mcp-checkup",
+  "install": "# git clone --depth 1 https://github.com/yifanyifan897645/mcp-checkup\n# See source for mcpServers config block"
+}

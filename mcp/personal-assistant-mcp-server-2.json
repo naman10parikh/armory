@@ -1,0 +1,7 @@
+{
+  "name": "personal-assistant-mcp-server-2",
+  "description": "A FastMCP server that exposes tools for news aggregation, financial market data, fitness tracking, Spotify music data, and email notifications, usable directly from Claude via the Model Context Protocol.",
+  "source_repo": "OzBlumenfeld/mcp_server",
+  "source_url": "https://github.com/OzBlumenfeld/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/OzBlumenfeld/mcp_server\n# See source for mcpServers config block"
+}

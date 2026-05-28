@@ -1,0 +1,7 @@
+{
+  "name": "clickup-multi-workspace-mcp-server",
+  "description": "Enables AI agents to interact with tasks, spaces, lists, and folders across multiple ClickUp workspaces via the Model Context Protocol.",
+  "source_repo": "alanse-inc/clickup-multi-mcp-server",
+  "source_url": "https://github.com/alanse-inc/clickup-multi-mcp-server",
+  "install": "npx -y clickup-multi-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yanbober-antv-chart-vis",
+  "description": "Wraps AntV's chart generation and GPT-Vis server-side rendering into a turnkey MCP service supporting 26 chart types with automatic local PNG export.",
+  "source_repo": "yanbober/ai-mcp-chart-vis",
+  "source_url": "https://github.com/yanbober/ai-mcp-chart-vis",
+  "install": "# git clone --depth 1 https://github.com/yanbober/ai-mcp-chart-vis\n# See source for mcpServers config block"
+}

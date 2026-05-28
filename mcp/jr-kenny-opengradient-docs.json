@@ -1,0 +1,7 @@
+{
+  "name": "jr-kenny-opengradient-docs",
+  "description": "Provides searchable access to OpenGradient documentation with local caching and 8 tool endpoints.",
+  "source_repo": "jr-kenny/opengradient-mcp",
+  "source_url": "https://github.com/jr-kenny/opengradient-mcp",
+  "install": "npx -y opengradient-mcp"
+}

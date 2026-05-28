@@ -1,0 +1,7 @@
+{
+  "name": "starql-lanhu",
+  "description": "Reads LanHu design drafts and exports assets for AI-assisted frontend implementation.",
+  "source_repo": "starql/lanhu-mcp",
+  "source_url": "https://github.com/starql/lanhu-mcp",
+  "install": "npx -y lanhu-mcp"
+}

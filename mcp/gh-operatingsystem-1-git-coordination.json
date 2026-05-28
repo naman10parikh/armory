@@ -1,0 +1,7 @@
+{
+  "name": "gh-operatingsystem-1-git-coordination",
+  "description": "Coordinate multiple AI agents on shared repositories to prevent conflicts.",
+  "source_repo": "operatingsystem-1/mcp-git-coord",
+  "source_url": "https://github.com/operatingsystem-1/mcp-git-coord",
+  "install": "# git clone --depth 1 https://github.com/operatingsystem-1/mcp-git-coord\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jfrog",
+  "description": "Bridges to the JFrog Platform, enabling interaction with Artifactory repositories, builds, security scanning, and release management for streamlined DevOps workflows.",
+  "source_repo": "jfrog/mcp-jfrog",
+  "source_url": "https://github.com/jfrog/mcp-jfrog",
+  "install": "# git clone --depth 1 https://github.com/jfrog/mcp-jfrog\n# See source for mcpServers config block"
+}

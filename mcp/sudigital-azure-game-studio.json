@@ -1,0 +1,7 @@
+{
+  "name": "sudigital-azure-game-studio",
+  "description": "Multi-engine game development toolkit generating production-ready code for Blender 3D modeling, Unity games, Flutter/Flame mobile games, and Figma UI design with cross-platform asset pipelines.",
+  "source_repo": "sudigital/azure-game-studio-mcp",
+  "source_url": "https://github.com/sudigital/azure-game-studio-mcp",
+  "install": "npx -y azure-game-studio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bgg",
+  "description": "Access BoardGameGeek game data, user collections, and profiles",
+  "source_repo": "kkjdaniel/bgg-mcp",
+  "source_url": "https://github.com/kkjdaniel/bgg-mcp",
+  "install": "npx -y bgg-mcp"
+}

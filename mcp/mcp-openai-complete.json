@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openai-complete",
+  "description": "Mcp Openai Complete MCP server listed on mcp.so.",
+  "source_repo": "aiamblichus/mcp-openai-complete",
+  "source_url": "https://mcp.so/server/mcp-openai-complete/aiamblichus",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-openai-complete/aiamblichus\n# See source for mcpServers config block"
+}

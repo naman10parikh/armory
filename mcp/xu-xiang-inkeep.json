@@ -1,0 +1,7 @@
+{
+  "name": "xu-xiang-inkeep",
+  "description": "Automatically extracts API keys from Inkeep-powered documentation sites and queries their embedded search functionality without manual configuration.",
+  "source_repo": "xu-xiang/inkeep-mcp",
+  "source_url": "https://github.com/xu-xiang/inkeep-mcp",
+  "install": "npx -y inkeep-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agrath-trello-desktop-mcp",
+  "description": "Comprehensive Trello integration: 46 tools covering boards, cards, lists, labels, checklists, attachments, members, custom fields, and search. Read-only mode, image attachment",
+  "source_repo": "agrath/Trello-Desktop-MCP",
+  "source_url": "https://github.com/agrath/Trello-Desktop-MCP",
+  "install": "npx -y Trello-Desktop-MCP"
+}

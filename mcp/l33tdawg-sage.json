@@ -1,0 +1,7 @@
+{
+  "name": "l33tdawg-sage",
+  "description": "Persistent, consensus-validated institutional memory infrastructure for AI agents with BFT validation and confidence scoring.",
+  "source_repo": "l33tdawg/sage",
+  "source_url": "https://github.com/l33tdawg/sage",
+  "install": "# git clone --depth 1 https://github.com/l33tdawg/sage\n# See source for mcpServers config block"
+}

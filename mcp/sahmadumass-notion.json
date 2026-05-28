@@ -1,0 +1,7 @@
+{
+  "name": "sahmadumass-notion",
+  "description": "Integrates with Notion to enable searching, retrieving, creating, and updating pages and databases for natural language-driven knowledge management and collaborative document creation.",
+  "source_repo": "sahmadumass/notion-mcp-server",
+  "source_url": "https://github.com/sahmadumass/notion-mcp-server",
+  "install": "npx -y notion-mcp-server"
+}

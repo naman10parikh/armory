@@ -1,0 +1,7 @@
+{
+  "name": "container-sandbox",
+  "description": "Provides a secure, sandboxed environment for executing code, running commands, accessing files, and performing web operations through multi-layered isolation including containers, AppArmor, and Firejail.",
+  "source_repo": "54rt1n/container-mcp",
+  "source_url": "https://github.com/54rt1n/container-mcp",
+  "install": "npx -y container-mcp"
+}

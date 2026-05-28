@@ -1,0 +1,7 @@
+{
+  "name": "oculairmedia-letta",
+  "description": "Integrates with the Letta API to enable creation and management of agents, memory blocks, and tools for advanced AI-based interactions and memory management",
+  "source_repo": "oculairmedia/letta-mcp-server",
+  "source_url": "https://github.com/oculairmedia/letta-mcp-server",
+  "install": "npx -y letta-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "currenttimeutc",
+  "description": "Provides UTC time retrieval, timezone conversion, and timezone listing capabilities for accurate time handling and scheduling across multiple geographical regions.",
+  "source_repo": "",
+  "source_url": "https://a.currenttimeutc.com/mcp",
+  "install": "# git clone --depth 1 https://a.currenttimeutc.com/mcp\n# See source for mcpServers config block"
+}

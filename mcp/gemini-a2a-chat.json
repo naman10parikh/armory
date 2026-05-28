@@ -1,0 +1,7 @@
+{
+  "name": "gemini-a2a-chat",
+  "description": "Node.js chat app using Gemini function calling and an A2A server to interact with Google Maps APIs",
+  "source_repo": "jeantimex/gemini-a2a-chat",
+  "source_url": "https://github.com/jeantimex/gemini-a2a-chat",
+  "install": "# git clone --depth 1 https://github.com/jeantimex/gemini-a2a-chat\n# See source for mcpServers config block"
+}

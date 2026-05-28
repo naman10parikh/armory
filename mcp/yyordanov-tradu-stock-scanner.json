@@ -1,0 +1,7 @@
+{
+  "name": "yyordanov-tradu-stock-scanner",
+  "description": "Real-time stock and cryptocurrency market data with technical analysis, options flow, and insider trading monitoring.",
+  "source_repo": "yyordanov-tradu/stock-scanner-mcp",
+  "source_url": "https://github.com/yyordanov-tradu/stock-scanner-mcp",
+  "install": "npx -y stock-scanner-mcp"
+}

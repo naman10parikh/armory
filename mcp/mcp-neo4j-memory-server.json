@@ -1,0 +1,7 @@
+{
+  "name": "mcp-neo4j-memory-server",
+  "description": "Mcp Neo4j Memory Server MCP server listed on mcp.so.",
+  "source_repo": "JovanHsu/mcp-neo4j-memory-server",
+  "source_url": "https://mcp.so/server/mcp-neo4j-memory-server/JovanHsu",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-neo4j-memory-server/JovanHsu\n# See source for mcpServers config block"
+}

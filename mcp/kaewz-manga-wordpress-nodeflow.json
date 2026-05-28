@@ -1,0 +1,7 @@
+{
+  "name": "kaewz-manga-wordpress-nodeflow",
+  "description": "Cloudflare Workers-based WordPress REST API integration with multi-tenant authentication and external image hosting for automated content management.",
+  "source_repo": "kaewz-manga/wordpress-nodeflow-mcp",
+  "source_url": "https://github.com/kaewz-manga/wordpress-nodeflow-mcp",
+  "install": "npx -y wordpress-nodeflow-mcp"
+}

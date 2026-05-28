@@ -1,0 +1,7 @@
+{
+  "name": "erikhoward-adls-mcp-server",
+  "description": "/🏠 - MCP Server for Azure Data Lake Storage. It can perform manage containers, read/write/upload/download operations on container files and manage file metadata.",
+  "source_repo": "erikhoward/adls-mcp-server",
+  "source_url": "https://github.com/erikhoward/adls-mcp-server",
+  "install": "npx -y adls-mcp-server"
+}

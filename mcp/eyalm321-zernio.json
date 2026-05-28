@@ -1,0 +1,7 @@
+{
+  "name": "eyalm321-zernio",
+  "description": "Connects to the Zernio social media management platform with 273 tools covering posts, analytics, inbox management, and advertising across 14+ social platforms.",
+  "source_repo": "eyalm321/zernio-mcp",
+  "source_url": "https://github.com/eyalm321/zernio-mcp",
+  "install": "npx -y zernio-mcp"
+}

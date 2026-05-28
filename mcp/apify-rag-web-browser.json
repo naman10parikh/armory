@@ -1,0 +1,7 @@
+{
+  "name": "apify-rag-web-browser",
+  "description": "Integrate with Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in Markdown.",
+  "source_repo": "apify/mcp-server-rag-web-browser",
+  "source_url": "https://github.com/apify/mcp-server-rag-web-browser",
+  "install": "# git clone --depth 1 https://github.com/apify/mcp-server-rag-web-browser\n# See source for mcpServers config block"
+}

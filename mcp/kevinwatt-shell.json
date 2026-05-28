@@ -1,0 +1,7 @@
+{
+  "name": "kevinwatt-shell",
+  "description": "Provides a shell command execution interface for secure and controlled access to local system operations, enabling automation tasks and system management.",
+  "source_repo": "kevinwatt/shell-mcp",
+  "source_url": "https://github.com/kevinwatt/shell-mcp",
+  "install": "npx -y shell-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dsouzaanush-heroku-code",
+  "description": "Search and execute Heroku Platform API operations with token-efficient Code Mode pattern.",
+  "source_repo": "dsouzaanush/heroku-code-mcp",
+  "source_url": "https://github.com/dsouzaanush/heroku-code-mcp",
+  "install": "npx -y heroku-code-mcp"
+}

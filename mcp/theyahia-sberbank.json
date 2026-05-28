@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-sberbank",
+  "description": "Integrates with Sberbank API for account listing and statement retrieval.",
+  "source_repo": "theyahia/sber-mcp",
+  "source_url": "https://github.com/theyahia/sber-mcp",
+  "install": "npx -y sber-mcp"
+}

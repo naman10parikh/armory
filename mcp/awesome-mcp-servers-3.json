@@ -1,0 +1,7 @@
+{
+  "name": "awesome-mcp-servers-3",
+  "description": "Awesome Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "xinmiaoyan/awesome-mcp-servers",
+  "source_url": "https://mcp.so/server/awesome-mcp-servers/xinmiaoyan",
+  "install": "# git clone --depth 1 https://mcp.so/server/awesome-mcp-servers/xinmiaoyan\n# See source for mcpServers config block"
+}

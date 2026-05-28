@@ -1,0 +1,7 @@
+{
+  "name": "frknyldz-ai-session-bridge",
+  "description": "Provides cross-tool access to AI conversation history from VS Code Copilot, Cursor, and Rovodev sessions by scanning workspace storage directories and parsing different session formats to enable conversation continuity and search across previous sessions.",
+  "source_repo": "frknyldz/ai-session-bridge",
+  "source_url": "https://github.com/frknyldz/ai-session-bridge",
+  "install": "# git clone --depth 1 https://github.com/frknyldz/ai-session-bridge\n# See source for mcpServers config block"
+}

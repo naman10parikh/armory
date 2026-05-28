@@ -1,0 +1,7 @@
+{
+  "name": "hithereiamaliff-keywords-everywhere",
+  "description": "Provides access to the Keywords Everywhere API for SEO research and keyword analysis.",
+  "source_repo": "hithereiamaliff/mcp-keywords-everywhere",
+  "source_url": "https://github.com/hithereiamaliff/mcp-keywords-everywhere",
+  "install": "# git clone --depth 1 https://github.com/hithereiamaliff/mcp-keywords-everywhere\n# See source for mcpServers config block"
+}

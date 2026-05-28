@@ -1,0 +1,7 @@
+{
+  "name": "iamdheerajdubey-prisma-sdwan",
+  "description": "MCP server for querying Palo Alto Networks Prisma SD-WAN with 15+ read-only tools for network inventory and topology.",
+  "source_repo": "iamdheerajdubey/prisma-sdwan-mcp",
+  "source_url": "https://github.com/iamdheerajdubey/prisma-sdwan-mcp",
+  "install": "npx -y prisma-sdwan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kyruntime-mysql",
+  "description": "MCP server for MySQL database interaction with 10 tools and SQL injection detection, published on npm as @kyruntime/mysql-mcp.",
+  "source_repo": "kyruntime/mysql-mcp",
+  "source_url": "https://github.com/kyruntime/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

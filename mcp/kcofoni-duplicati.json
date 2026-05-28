@@ -1,0 +1,7 @@
+{
+  "name": "kcofoni-duplicati",
+  "description": "Manage Duplicati backup jobs — list, run, and monitor backups and configure job settings.",
+  "source_repo": "kcofoni/duplicati-mcp",
+  "source_url": "https://github.com/kcofoni/duplicati-mcp",
+  "install": "npx -y duplicati-mcp"
+}

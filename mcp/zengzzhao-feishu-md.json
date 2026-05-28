@@ -1,0 +1,7 @@
+{
+  "name": "zengzzhao-feishu-md",
+  "description": "Uploads local Markdown files to Feishu cloud documents by converting Markdown to Feishu block format.",
+  "source_repo": "zengzzhao/feishu-md-docx-mcp",
+  "source_url": "https://github.com/zengzzhao/feishu-md-docx-mcp",
+  "install": "npx -y feishu-md-docx-mcp"
+}

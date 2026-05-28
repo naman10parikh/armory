@@ -1,0 +1,7 @@
+{
+  "name": "btp-mcp-server",
+  "description": "Connects AI agents to SAP BTP platform APIs for service discovery, instance management, and destination queries via natural language.",
+  "source_repo": "ABRANJAN07/btp-mcp-server",
+  "source_url": "https://github.com/ABRANJAN07/btp-mcp-server",
+  "install": "npx -y btp-mcp-server"
+}

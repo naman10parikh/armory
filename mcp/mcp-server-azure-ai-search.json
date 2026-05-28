@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-azure-ai-search",
+  "description": "Mcp Server Azure Ai Search MCP server listed on mcp.so.",
+  "source_repo": "farzad528/mcp-server-azure-ai-search",
+  "source_url": "https://mcp.so/server/mcp-server-azure-ai-search/farzad528",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-azure-ai-search/farzad528\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pulse-workflow-mcp-server",
+  "description": "Enables Claude Code to browse, create, edit, and publish Pulse workflows by exposing workflow operations as MCP tools.",
+  "source_repo": "Pulse-Intelligence/pulse-workflow-mcp",
+  "source_url": "https://github.com/Pulse-Intelligence/pulse-workflow-mcp",
+  "install": "npx -y pulse-workflow-mcp"
+}

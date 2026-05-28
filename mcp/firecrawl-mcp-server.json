@@ -1,0 +1,7 @@
+{
+  "name": "firecrawl-mcp-server",
+  "description": "Firecrawl Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mendableai/firecrawl-mcp-server",
+  "source_url": "https://mcp.so/server/firecrawl-mcp-server/mendableai",
+  "install": "npx -y firecrawl-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "osu-mcp",
+  "description": "MCP server that exposes the osu! API v2 as tools, allowing natural language queries about osu! profiles, beatmaps, rankings, and more.",
+  "source_repo": "Osyanne/osu-mcp",
+  "source_url": "https://github.com/Osyanne/osu-mcp",
+  "install": "npx -y osu-mcp"
+}

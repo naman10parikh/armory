@@ -1,0 +1,7 @@
+{
+  "name": "tor-mcp-server",
+  "description": "Enables secure access to Tor/onion services with content filtering and safety guardrails for AI assistants.",
+  "source_repo": "pjv4yj/tor-mcp-server",
+  "source_url": "https://github.com/pjv4yj/tor-mcp-server",
+  "install": "npx -y tor-mcp-server"
+}

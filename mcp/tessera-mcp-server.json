@@ -1,0 +1,7 @@
+{
+  "name": "tessera-mcp-server",
+  "description": "MCP server for Tessera's LLM cost-optimization layer. Anchored spend, drift detection, recommendations as typed tools.",
+  "source_repo": "tessera-llm/mcp-server",
+  "source_url": "https://github.com/tessera-llm/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/tessera-llm/mcp-server\n# See source for mcpServers config block"
+}

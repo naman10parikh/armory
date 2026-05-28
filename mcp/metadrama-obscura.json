@@ -1,0 +1,7 @@
+{
+  "name": "metadrama-obscura",
+  "description": "MCP adapter for the Obscura Rust headless browser for web scraping with anti-detection.",
+  "source_repo": "metadrama/obscura-mcp",
+  "source_url": "https://github.com/metadrama/obscura-mcp",
+  "install": "npx -y obscura-mcp"
+}

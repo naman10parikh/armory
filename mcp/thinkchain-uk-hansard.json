@@ -1,0 +1,7 @@
+{
+  "name": "thinkchain-uk-hansard",
+  "description": "Search UK House of Commons Parliamentary questions and motions via the Hansard API.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/thinkchain-uk-hansard",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/thinkchain-uk-hansard\n# See source for mcpServers config block"
+}

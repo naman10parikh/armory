@@ -1,0 +1,7 @@
+{
+  "name": "mcp-k8s-server",
+  "description": "Mcp K8s Server MCP server listed on mcp.so.",
+  "source_repo": "abhijeetka/mcp-k8s-server",
+  "source_url": "https://mcp.so/server/mcp-k8s-server/abhijeetka",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-k8s-server/abhijeetka\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bbriggs1990-moltawards",
+  "description": "Search and retrieve government contract award opportunities via public REST API.",
+  "source_repo": "bbriggs1990/moltawards-mcp",
+  "source_url": "https://github.com/bbriggs1990/moltawards-mcp",
+  "install": "npx -y moltawards-mcp"
+}

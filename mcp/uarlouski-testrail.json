@@ -1,0 +1,7 @@
+{
+  "name": "uarlouski-testrail",
+  "description": "Connects to TestRail test management for searching, creating, updating, and executing test cases.",
+  "source_repo": "uarlouski/testrail-mcp-server",
+  "source_url": "https://github.com/uarlouski/testrail-mcp-server",
+  "install": "npx -y testrail-mcp-server"
+}

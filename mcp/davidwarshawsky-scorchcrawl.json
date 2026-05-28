@@ -1,0 +1,7 @@
+{
+  "name": "davidwarshawsky-scorchcrawl",
+  "description": "Web scraping proxy server with single-page scraping, web search, site mapping, crawling, and structured data extraction through dual local and remote modes.",
+  "source_repo": "davidwarshawsky/scorchcrawl-mcp",
+  "source_url": "https://github.com/davidwarshawsky/scorchcrawl-mcp",
+  "install": "npx -y scorchcrawl-mcp"
+}

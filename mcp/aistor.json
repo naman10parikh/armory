@@ -1,0 +1,7 @@
+{
+  "name": "aistor",
+  "description": "Interact with MinIO AIStor object stores.",
+  "source_repo": "minio/mcp-server-aistor",
+  "source_url": "https://github.com/minio/mcp-server-aistor",
+  "install": "# git clone --depth 1 https://github.com/minio/mcp-server-aistor\n# See source for mcpServers config block"
+}

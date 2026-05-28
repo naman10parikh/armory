@@ -1,0 +1,7 @@
+{
+  "name": "yahoo-fantasy-football",
+  "description": "Integrates with Yahoo Fantasy Sports API to provide lineup optimization, draft assistance, and league management through statistical analysis and machine learning algorithms for data-driven fantasy football decisions across multiple leagues.",
+  "source_repo": "derekrbreese/fantasy-football-mcp-public",
+  "source_url": "https://github.com/derekrbreese/fantasy-football-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/derekrbreese/fantasy-football-mcp-public\n# See source for mcpServers config block"
+}

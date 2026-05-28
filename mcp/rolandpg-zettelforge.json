@@ -1,0 +1,7 @@
+{
+  "name": "rolandpg-zettelforge",
+  "description": "Agentic memory system for cyber threat intelligence that extracts CVEs, threat actors, and IOCs from analyst notes into a structured knowledge base.",
+  "source_repo": "rolandpg/zettelforge",
+  "source_url": "https://github.com/rolandpg/zettelforge",
+  "install": "# git clone --depth 1 https://github.com/rolandpg/zettelforge\n# See source for mcpServers config block"
+}

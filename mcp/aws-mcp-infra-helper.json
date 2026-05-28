@@ -1,0 +1,7 @@
+{
+  "name": "aws-mcp-infra-helper",
+  "description": "Aws Mcp Infra Helper MCP server listed on mcp.so.",
+  "source_repo": "madhurprash/aws-mcp-infra-helper",
+  "source_url": "https://mcp.so/server/aws-mcp-infra-helper/madhurprash",
+  "install": "# git clone --depth 1 https://mcp.so/server/aws-mcp-infra-helper/madhurprash\n# See source for mcpServers config block"
+}

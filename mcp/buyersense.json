@@ -1,0 +1,7 @@
+{
+  "name": "buyersense",
+  "description": "B2B SaaS platform for analyzing and optimizing how AI agents evaluate and recommend products.",
+  "source_repo": "",
+  "source_url": "https://buyersense.ai",
+  "install": "# git clone --depth 1 https://buyersense.ai\n# See source for mcpServers config block"
+}

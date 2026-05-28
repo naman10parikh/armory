@@ -1,0 +1,7 @@
+{
+  "name": "mcp-doc",
+  "description": "MCP Doc MCP server listed on mcp.so.",
+  "source_repo": "MeterLong/MCP-Doc",
+  "source_url": "https://mcp.so/server/MCP-Doc/MeterLong",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Doc/MeterLong\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tsavo-unity-ai-bridge",
+  "description": "Bridge between Unity game environments and AI systems for executing C# code, querying game objects, and performing asynchronous operations like automated testing and scene analysis.",
+  "source_repo": "tsavo/unity-mcp",
+  "source_url": "https://github.com/tsavo/unity-mcp",
+  "install": "npx -y unity-mcp"
+}

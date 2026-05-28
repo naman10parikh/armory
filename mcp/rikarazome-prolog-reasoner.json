@@ -1,0 +1,7 @@
+{
+  "name": "rikarazome-prolog-reasoner",
+  "description": "SWI-Prolog execution for LLMs to delegate combinatorial reasoning and constraint satisfaction problems.",
+  "source_repo": "rikarazome/prolog-reasoner",
+  "source_url": "https://github.com/rikarazome/prolog-reasoner",
+  "install": "# git clone --depth 1 https://github.com/rikarazome/prolog-reasoner\n# See source for mcpServers config block"
+}

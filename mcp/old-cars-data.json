@@ -1,0 +1,7 @@
+{
+  "name": "old-cars-data",
+  "description": "Collector-car auction history, live listings, bid trails, and market statistics for classic vehicles.",
+  "source_repo": "pinecreeklabs/oldcarsdata-mcp",
+  "source_url": "https://github.com/pinecreeklabs/oldcarsdata-mcp",
+  "install": "npx -y oldcarsdata-mcp"
+}

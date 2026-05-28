@@ -1,0 +1,7 @@
+{
+  "name": "laelluo-xiaomi-notes",
+  "description": "Integrates with Xiaomi's cloud-based note-taking service to provide complete note and folder management, content searching, image uploads, and automated organization workflows with persistent authentication and session handling.",
+  "source_repo": "laelluo/mi_note_mcp",
+  "source_url": "https://github.com/laelluo/mi_note_mcp",
+  "install": "npx -y mi_note_mcp"
+}

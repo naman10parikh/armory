@@ -1,0 +1,7 @@
+{
+  "name": "mk965-asset-price",
+  "description": "Provides real-time financial data for precious metals, cryptocurrencies, and other assets, enabling market price tracking and historical trend analysis without direct API integrations to multiple financial sources.",
+  "source_repo": "mk965/asset-price-mcp",
+  "source_url": "https://github.com/mk965/asset-price-mcp",
+  "install": "npx -y asset-price-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-mcp",
+  "description": "Code Mcp MCP server listed on mcp.so.",
+  "source_repo": "block/code-mcp",
+  "source_url": "https://mcp.so/server/code-mcp/block",
+  "install": "npx -y code-mcp"
+}

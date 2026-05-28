@@ -1,0 +1,7 @@
+{
+  "name": "themeselection-flyonui",
+  "description": "Integrates with the FlyonUI component library to provide access to block metadata, component code, and structured workflows for creating, inspiring from, and refining UI components through conversational commands.",
+  "source_repo": "themeselection/flyonui-mcp",
+  "source_url": "https://github.com/themeselection/flyonui-mcp",
+  "install": "npx -y flyonui-mcp"
+}

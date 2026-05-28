@@ -1,0 +1,7 @@
+{
+  "name": "safebreach-mcp-server",
+  "description": "Bridges AI agents with SafeBreach's Breach and Attack Simulation platform, enabling natural language queries and seamless integration through a multi-server architecture with specialized domains.",
+  "source_repo": "SafeBreach/safebreach-mcp",
+  "source_url": "https://github.com/SafeBreach/safebreach-mcp",
+  "install": "npx -y safebreach-mcp"
+}

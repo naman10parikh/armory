@@ -1,0 +1,7 @@
+{
+  "name": "ljadach-remember-the-milk",
+  "description": "Integrates with Remember The Milk's task management API to enable natural language task creation, list management, note attachments, and Smart Add syntax with undo functionality and timezone-aware date handling.",
+  "source_repo": "ljadach/rtm-mcp",
+  "source_url": "https://github.com/ljadach/rtm-mcp",
+  "install": "npx -y rtm-mcp"
+}

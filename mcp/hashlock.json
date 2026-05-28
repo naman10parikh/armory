@@ -1,0 +1,7 @@
+{
+  "name": "hashlock",
+  "description": "Sealed-bid crypto swap protocol enabling atomic cross-chain trades on Ethereum, Bitcoin, and SUI.",
+  "source_repo": "hashlock-tech/hashlock-mcp-server",
+  "source_url": "https://github.com/hashlock-tech/hashlock-mcp-server",
+  "install": "npx -y hashlock-mcp-server"
+}

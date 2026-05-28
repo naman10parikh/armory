@@ -1,0 +1,7 @@
+{
+  "name": "playwright-mcp",
+  "description": "Official Microsoft MCP server that exposes Playwright browser automation as structured accessibility-snapshot tools — no screenshots, structured DOM traversal for reliable agent-driven web interaction.",
+  "source_repo": "microsoft/playwright-mcp",
+  "source_url": "https://github.com/microsoft/playwright-mcp",
+  "install": "npx -y playwright-mcp"
+}

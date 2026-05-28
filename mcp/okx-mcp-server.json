@@ -1,0 +1,7 @@
+{
+  "name": "okx-mcp-server",
+  "description": "Okx Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "badger3000/okx-mcp-server",
+  "source_url": "https://mcp.so/server/okx-mcp-server/badger3000",
+  "install": "npx -y okx-mcp-server"
+}

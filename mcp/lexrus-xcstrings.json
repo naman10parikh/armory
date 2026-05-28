@@ -1,0 +1,7 @@
+{
+  "name": "lexrus-xcstrings",
+  "description": "Provides translation management for Xcode's Localizable.xcstrings files with CRUD operations, plural variations, comment management, key renaming, and a web-based editing interface for iOS/macOS localization workflows.",
+  "source_repo": "lexrus/xcstrings_mcp",
+  "source_url": "https://github.com/lexrus/xcstrings_mcp",
+  "install": "npx -y xcstrings_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "graph-rag-obsidian",
+  "description": "A local-first Graph-RAG system that combines ChromaDB with metadata-based graph relationships and Gemini 2.5 Flash for intelligent Q\\&A over your Obsidian vault.",
+  "source_repo": "nickshffer/graph-rag-mcp-server",
+  "source_url": "https://github.com/nickshffer/graph-rag-mcp-server",
+  "install": "npx -y graph-rag-mcp-server"
+}

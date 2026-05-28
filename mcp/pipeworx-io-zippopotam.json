@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-zippopotam",
+  "description": "ZIP and postal code lookup via the Zippopotam.us API — returns city, state, country, and coordinates for any postal code.",
+  "source_repo": "pipeworx-io/mcp-zippopotam",
+  "source_url": "https://github.com/pipeworx-io/mcp-zippopotam",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-zippopotam\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cypress-cloud",
+  "description": "Access Cypress test results and accessibility reports directly in your AI workflow.",
+  "source_repo": "cypress-io/ai-toolkit",
+  "source_url": "https://github.com/cypress-io/ai-toolkit",
+  "install": "# git clone --depth 1 https://github.com/cypress-io/ai-toolkit\n# See source for mcpServers config block"
+}

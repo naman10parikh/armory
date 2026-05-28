@@ -1,0 +1,7 @@
+{
+  "name": "vorotaai-nmap",
+  "description": "Wraps Nmap for automated security assessments with port scanning, host discovery, service detection, OS fingerprinting, and vulnerability scanning.",
+  "source_repo": "vorota-ai/nmap-mcp",
+  "source_url": "https://github.com/vorota-ai/nmap-mcp",
+  "install": "npx -y nmap-mcp"
+}

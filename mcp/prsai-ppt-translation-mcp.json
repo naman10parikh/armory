@@ -1,0 +1,7 @@
+{
+  "name": "prsai-ppt-translation-mcp",
+  "description": "MCP server for PrsAi intelligent PPT translation with file upload and translation tools.",
+  "source_repo": "prsaiteam/prsai_ppt_translation_mcp",
+  "source_url": "https://github.com/prsaiteam/prsai_ppt_translation_mcp",
+  "install": "npx -y prsai_ppt_translation_mcp"
+}

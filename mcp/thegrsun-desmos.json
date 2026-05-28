@@ -1,0 +1,7 @@
+{
+  "name": "thegrsun-desmos",
+  "description": "Integrates with Desmos API and local SymPy to provide mathematical visualization, formula validation with error explanations, function plotting with customizable ranges, and mathematical analysis including domain calculation and critical point detection.",
+  "source_repo": "thegrsun/desmos-mcp",
+  "source_url": "https://github.com/thegrsun/desmos-mcp",
+  "install": "npx -y desmos-mcp"
+}

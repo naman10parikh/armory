@@ -1,0 +1,7 @@
+{
+  "name": "narkytypey-bug-bounty-tools",
+  "description": "Provides bug bounty hunting tools including subdomain enumeration, vulnerability scanning, and recon automation.",
+  "source_repo": "narkytypey/mcp_bug",
+  "source_url": "https://github.com/narkytypey/mcp_bug",
+  "install": "# git clone --depth 1 https://github.com/narkytypey/mcp_bug\n# See source for mcpServers config block"
+}

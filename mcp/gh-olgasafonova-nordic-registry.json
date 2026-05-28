@@ -1,0 +1,7 @@
+{
+  "name": "gh-olgasafonova-nordic-registry",
+  "description": "Access Nordic business registries for Norway, Denmark, Finland, and Sweden. 23 tools.",
+  "source_repo": "olgasafonova/nordic-registry-mcp-server",
+  "source_url": "https://github.com/olgasafonova/nordic-registry-mcp-server",
+  "install": "npx -y nordic-registry-mcp-server"
+}

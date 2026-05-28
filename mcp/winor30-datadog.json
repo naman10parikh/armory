@@ -1,0 +1,7 @@
+{
+  "name": "winor30-datadog",
+  "description": "Integrates with Datadog's API to enable incident management, including listing and retrieving incident information for system monitoring and observability workflows.",
+  "source_repo": "winor30/mcp-server-datadog",
+  "source_url": "https://github.com/winor30/mcp-server-datadog",
+  "install": "# git clone --depth 1 https://github.com/winor30/mcp-server-datadog\n# See source for mcpServers config block"
+}

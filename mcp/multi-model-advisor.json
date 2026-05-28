@@ -1,0 +1,7 @@
+{
+  "name": "multi-model-advisor",
+  "description": "Queries multiple Ollama models in parallel with distinct system prompts focused on empathy, logic, and creativity to provide diverse perspectives on user queries",
+  "source_repo": "yuchenssr/multi-ai-advisor-mcp",
+  "source_url": "https://github.com/yuchenssr/multi-ai-advisor-mcp",
+  "install": "npx -y multi-ai-advisor-mcp"
+}

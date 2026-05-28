@@ -1,0 +1,7 @@
+{
+  "name": "ricardodeazambuja-browser-automation-playwright",
+  "description": "Universal browser automation server using Playwright that provides web navigation, element interaction, media control, network monitoring, security testing, and performance profiling with intelligent Chrome instance detection.",
+  "source_repo": "ricardodeazambuja/browser-mcp-server",
+  "source_url": "https://github.com/ricardodeazambuja/browser-mcp-server",
+  "install": "npx -y browser-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alanpcf-brasil-data-mcp",
+  "description": "Brazilian public data for AI agents — companies (CNPJ), addresses (CEP), banks (BACEN), national holidays — via [BrasilAPI](https://brasilapi.com.br). No auth, no API key. Install: `npx -y brasil-data-mcp`.",
+  "source_repo": "alanpcf/brasil-data-mcp",
+  "source_url": "https://github.com/alanpcf/brasil-data-mcp",
+  "install": "npx -y brasil-data-mcp"
+}

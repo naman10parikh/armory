@@ -1,0 +1,7 @@
+{
+  "name": "maximepeabody-jira",
+  "description": "Integrates with Jira to enable fetching, commenting on, updating, and creating tickets through natural language commands.",
+  "source_repo": "maximepeabody/simple-jira-mcp",
+  "source_url": "https://github.com/maximepeabody/simple-jira-mcp",
+  "install": "npx -y simple-jira-mcp"
+}

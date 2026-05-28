@@ -1,0 +1,7 @@
+{
+  "name": "shashwat001-langchain-integration",
+  "description": "Integrates Langchain with MCP tools.",
+  "source_repo": "shashwat001/mcptools-langchain-integration",
+  "source_url": "https://github.com/shashwat001/mcptools-langchain-integration",
+  "install": "# git clone --depth 1 https://github.com/shashwat001/mcptools-langchain-integration\n# See source for mcpServers config block"
+}

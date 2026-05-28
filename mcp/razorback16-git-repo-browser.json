@@ -1,0 +1,7 @@
+{
+  "name": "razorback16-git-repo-browser",
+  "description": "Integrates with Git repositories to provide efficient, deterministic access for retrieving directory structures and file contents without local cloning",
+  "source_repo": "razorback16/mcp-git-repo-browser",
+  "source_url": "https://github.com/razorback16/mcp-git-repo-browser",
+  "install": "# git clone --depth 1 https://github.com/razorback16/mcp-git-repo-browser\n# See source for mcpServers config block"
+}

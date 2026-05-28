@@ -1,0 +1,7 @@
+{
+  "name": "pressuredesk",
+  "description": "Read-only spend gate for paid APIs, MCP endpoints, and x402 routes with BUY/WAIT/AVOID verdicts.",
+  "source_repo": "",
+  "source_url": "https://pressuredesk.autonomyforge.dev",
+  "install": "# git clone --depth 1 https://pressuredesk.autonomyforge.dev\n# See source for mcpServers config block"
+}

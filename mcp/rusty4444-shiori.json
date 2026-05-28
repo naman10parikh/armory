@@ -1,0 +1,7 @@
+{
+  "name": "rusty4444-shiori",
+  "description": "Manages Shiori bookmark entries and tags via MCP.",
+  "source_repo": "rusty4444/shiori-mcp",
+  "source_url": "https://github.com/rusty4444/shiori-mcp",
+  "install": "npx -y shiori-mcp"
+}

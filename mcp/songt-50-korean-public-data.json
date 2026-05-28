@@ -1,0 +1,7 @@
+{
+  "name": "songt-50-korean-public-data",
+  "description": "Korean government open data for weather, real estate prices, air quality, economic statistics, and business registration via data.go.kr.",
+  "source_repo": "songt-50/korean-public-data-mcp",
+  "source_url": "https://github.com/songt-50/korean-public-data-mcp",
+  "install": "npx -y korean-public-data-mcp"
+}

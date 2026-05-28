@@ -1,0 +1,7 @@
+{
+  "name": "leadclaw-mcp",
+  "description": "Demo MCP server for booking confirmed sales appointments through Claude. Allows users to request appointments, check status, and get detailed BANT briefings using natural language, with realistic fake data for demonstration.",
+  "source_repo": "no39pikko/leadclaw-mcp",
+  "source_url": "https://github.com/no39pikko/leadclaw-mcp",
+  "install": "npx -y leadclaw-mcp"
+}

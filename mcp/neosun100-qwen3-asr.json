@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-qwen3-asr",
+  "description": "Docker deployment for Qwen3-ASR speech recognition with REST API and transcription tools.",
+  "source_repo": "neosun100/qwen3-asr",
+  "source_url": "https://github.com/neosun100/qwen3-asr",
+  "install": "# git clone --depth 1 https://github.com/neosun100/qwen3-asr\n# See source for mcpServers config block"
+}

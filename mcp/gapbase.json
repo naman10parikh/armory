@@ -1,0 +1,7 @@
+{
+  "name": "gapbase",
+  "description": "Search 474 validated startup gaps by industry, role, or keyword.",
+  "source_repo": "thevibepreneur/gapbase-mcp",
+  "source_url": "https://github.com/thevibepreneur/gapbase-mcp",
+  "install": "npx -y gapbase-mcp"
+}

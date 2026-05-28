@@ -1,0 +1,7 @@
+{
+  "name": "debatetalk",
+  "description": "Structured multi-model AI debates that synthesize findings into agreement points, disagreements, blind spots, and actionable questions.",
+  "source_repo": "debatetalk-ai/mcp",
+  "source_url": "https://github.com/debatetalk-ai/mcp",
+  "install": "# git clone --depth 1 https://github.com/debatetalk-ai/mcp\n# See source for mcpServers config block"
+}

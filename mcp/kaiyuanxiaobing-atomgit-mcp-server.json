@@ -1,0 +1,7 @@
+{
+  "name": "kaiyuanxiaobing-atomgit-mcp-server",
+  "description": "Official AtomGit server for integration with repository management, PRs, issues, branches, labels, and more.",
+  "source_repo": "kaiyuanxiaobing/atomgit-mcp-server",
+  "source_url": "https://github.com/kaiyuanxiaobing/atomgit-mcp-server",
+  "install": "npx -y atomgit-mcp-server"
+}

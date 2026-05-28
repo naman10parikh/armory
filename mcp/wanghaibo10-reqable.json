@@ -1,0 +1,7 @@
+{
+  "name": "wanghaibo10-reqable",
+  "description": "Exposes Reqable's captured HTTP traffic to AI agents with 13 tools for request inspection, JWT decoding, and network flow analysis.",
+  "source_repo": "wanghaibo10/reqable-mcp",
+  "source_url": "https://github.com/wanghaibo10/reqable-mcp",
+  "install": "npx -y reqable-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fathom",
+  "description": "Connects Fathom AI meeting data to LLMs via MCP, providing access to recordings, transcripts, and action items.",
+  "source_repo": "",
+  "source_url": "https://api.fathom.ai/mcp",
+  "install": "# git clone --depth 1 https://api.fathom.ai/mcp\n# See source for mcpServers config block"
+}

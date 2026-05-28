@@ -1,0 +1,7 @@
+{
+  "name": "memory",
+  "description": "A basic implementation of persistent memory using a local knowledge graph. This lets Claude remember information about the user across chats.",
+  "source_repo": "modelcontextprotocol/servers",
+  "source_url": "https://github.com/modelcontextprotocol/servers/blob/main/src/memory/README.md",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers/blob/main/src/memory/README.md\n# See source for mcpServers config block"
+}

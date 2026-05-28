@@ -1,0 +1,7 @@
+{
+  "name": "ifuryst-open-browser-use",
+  "description": "Open-source browser automation MCP server exposing Chrome tab control, navigation, and CDP tools for AI agents.",
+  "source_repo": "ifuryst/open-browser-use",
+  "source_url": "https://github.com/ifuryst/open-browser-use",
+  "install": "# git clone --depth 1 https://github.com/ifuryst/open-browser-use\n# See source for mcpServers config block"
+}

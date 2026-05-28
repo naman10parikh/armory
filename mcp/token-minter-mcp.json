@@ -1,0 +1,7 @@
+{
+  "name": "token-minter-mcp",
+  "description": "Token Minter Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/token-minter-mcp",
+  "source_url": "https://mcp.so/server/token-minter-mcp/kukapay",
+  "install": "npx -y token-minter-mcp"
+}

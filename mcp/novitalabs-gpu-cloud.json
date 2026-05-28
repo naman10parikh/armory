@@ -1,0 +1,7 @@
+{
+  "name": "novitalabs-gpu-cloud",
+  "description": "Provides direct access to Novita AI's GPU cloud infrastructure for deploying, monitoring, and managing GPU-accelerated workloads and containers without leaving your conversation context.",
+  "source_repo": "novitalabs/novita-mcp-server",
+  "source_url": "https://github.com/novitalabs/novita-mcp-server",
+  "install": "npx -y novita-mcp-server"
+}

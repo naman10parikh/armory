@@ -1,0 +1,7 @@
+{
+  "name": "uptier",
+  "description": "Desktop task management application with AI-powered prioritization",
+  "source_repo": "foxintheloop/uptier",
+  "source_url": "https://github.com/foxintheloop/uptier",
+  "install": "# git clone --depth 1 https://github.com/foxintheloop/uptier\n# See source for mcpServers config block"
+}

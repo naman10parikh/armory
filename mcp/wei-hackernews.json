@@ -1,0 +1,7 @@
+{
+  "name": "wei-hackernews",
+  "description": "Integrates with HackerNews Algolia API to provide comprehensive search, trending stories, latest posts, detailed item retrieval with comment trees, and user profile access for content analysis and research applications.",
+  "source_repo": "wei/hn-mcp-server",
+  "source_url": "https://github.com/wei/hn-mcp-server",
+  "install": "npx -y hn-mcp-server"
+}

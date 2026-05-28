@@ -1,0 +1,7 @@
+{
+  "name": "bekirdag-docdex",
+  "description": "Lightweight per-repository documentation indexer providing fast full-text search over local markdown and text files with automatic file change detection.",
+  "source_repo": "bekirdag/docdex",
+  "source_url": "https://github.com/bekirdag/docdex",
+  "install": "# git clone --depth 1 https://github.com/bekirdag/docdex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cashpilot",
+  "description": "Self-hosted passive income fleet management with earnings monitoring, service deployment, and Docker worker control.",
+  "source_repo": "geiserx/cashpilot-mcp",
+  "source_url": "https://github.com/geiserx/cashpilot-mcp",
+  "install": "npx -y cashpilot-mcp"
+}

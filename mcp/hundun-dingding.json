@@ -1,0 +1,7 @@
+{
+  "name": "hundun-dingding",
+  "description": "Integrates with DingDing (DingTalk) messaging platform to enable automated notifications, team alerts, and AI-generated content delivery through multiple message formats including text, markdown, images, and interactive cards.",
+  "source_repo": "hundunonline/mcp-dingdingbot-server",
+  "source_url": "https://github.com/hundunonline/mcp-dingdingbot-server",
+  "install": "# git clone --depth 1 https://github.com/hundunonline/mcp-dingdingbot-server\n# See source for mcpServers config block"
+}

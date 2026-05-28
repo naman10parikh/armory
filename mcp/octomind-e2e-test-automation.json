@@ -1,0 +1,7 @@
+{
+  "name": "octomind-e2e-test-automation",
+  "description": "Enables AI-driven test automation through the Octomind platform for creating, executing, and analyzing end-to-end tests without leaving your development environment.",
+  "source_repo": "octomind-dev/octomind-mcp",
+  "source_url": "https://github.com/octomind-dev/octomind-mcp",
+  "install": "npx -y octomind-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kanban-mcp",
+  "description": "Kanban Mcp MCP server listed on mcp.so.",
+  "source_repo": "bradrisse/kanban-mcp",
+  "source_url": "https://mcp.so/server/kanban-mcp/bradrisse",
+  "install": "npx -y kanban-mcp"
+}

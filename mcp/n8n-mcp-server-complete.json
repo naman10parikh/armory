@@ -1,0 +1,7 @@
+{
+  "name": "n8n-mcp-server-complete",
+  "description": "N8n_MCP_server_complete MCP server listed on mcp.so.",
+  "source_repo": "dopehunter/n8n_MCP_server_complete",
+  "source_url": "https://mcp.so/server/n8n_MCP_server_complete/dopehunter",
+  "install": "# git clone --depth 1 https://mcp.so/server/n8n_MCP_server_complete/dopehunter\n# See source for mcpServers config block"
+}

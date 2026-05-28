@@ -1,0 +1,7 @@
+{
+  "name": "zajtools-mysql",
+  "description": "Integrates with MySQL databases to enable SQL query execution, schema analysis, and automated business insight generation through data reading, writing, and continuous memo updates.",
+  "source_repo": "zajtools/zaj-mysql-mcp",
+  "source_url": "https://github.com/zajtools/zaj-mysql-mcp",
+  "install": "npx -y zaj-mysql-mcp"
+}

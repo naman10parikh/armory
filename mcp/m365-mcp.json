@@ -1,0 +1,7 @@
+{
+  "name": "m365-mcp",
+  "description": "MCP server for Microsoft 365 via the Microsoft Graph API, providing read-only access to profile, calendar, email, Teams chats, OneDrive files, and meeting transcripts from any MCP client.",
+  "source_repo": "StuMason/m365-mcp",
+  "source_url": "https://github.com/StuMason/m365-mcp",
+  "install": "npx -y m365-mcp"
+}

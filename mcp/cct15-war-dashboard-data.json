@@ -1,0 +1,7 @@
+{
+  "name": "cct15-war-dashboard-data",
+  "description": "Geopolitical conflict risk probabilities, political events, and maritime traffic data for AI agents.",
+  "source_repo": "cct15/war-dashboard-data",
+  "source_url": "https://github.com/cct15/war-dashboard-data",
+  "install": "# git clone --depth 1 https://github.com/cct15/war-dashboard-data\n# See source for mcpServers config block"
+}

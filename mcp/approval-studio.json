@@ -1,0 +1,7 @@
+{
+  "name": "approval-studio",
+  "description": "Creative proofing and approval workflow platform for design review collaboration.",
+  "source_repo": "",
+  "source_url": "https://approval.studio",
+  "install": "# git clone --depth 1 https://approval.studio\n# See source for mcpServers config block"
+}

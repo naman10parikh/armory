@@ -1,0 +1,7 @@
+{
+  "name": "bobvasic-gemini-ui-design",
+  "description": "Integrates with Google's Gemini 2.5 Pro to provide enterprise-grade UI/UX design tools, component generation, brand identity creation, and accessibility-compliant frontend implementation guidance.",
+  "source_repo": "bobvasic/gemini-mcp-server",
+  "source_url": "https://github.com/bobvasic/gemini-mcp-server",
+  "install": "npx -y gemini-mcp-server"
+}

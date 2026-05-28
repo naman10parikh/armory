@@ -1,0 +1,7 @@
+{
+  "name": "jtang613-ghidra-assist",
+  "description": "Integrates with Ghidra's analysis framework to provide binary reverse engineering capabilities including function decompilation, disassembly, cross-reference analysis, symbol management, and program structure exploration for malware analysis, vulnerability research, and legacy code understanding.",
+  "source_repo": "symgraph/ghidrassistmcp",
+  "source_url": "https://github.com/symgraph/ghidrassistmcp",
+  "install": "# git clone --depth 1 https://github.com/symgraph/ghidrassistmcp\n# See source for mcpServers config block"
+}

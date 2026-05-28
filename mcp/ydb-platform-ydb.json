@@ -1,0 +1,7 @@
+{
+  "name": "ydb-platform-ydb",
+  "description": "Provides a bridge between AI and YDB databases, enabling natural language interactions for executing SQL queries, exploring schema information, and retrieving connection status.",
+  "source_repo": "ydb-platform/ydb-mcp",
+  "source_url": "https://github.com/ydb-platform/ydb-mcp",
+  "install": "npx -y ydb-mcp"
+}

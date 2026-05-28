@@ -1,0 +1,7 @@
+{
+  "name": "megagrindstone-gopls",
+  "description": "Integrates with gopls to provide Go language server capabilities including go-to-definition, find references, hover information, document symbols, workspace symbols, type definitions, and workspace status monitoring across multiple Go workspaces simultaneously.",
+  "source_repo": "megagrindstone/gopls-mcp",
+  "source_url": "https://github.com/megagrindstone/gopls-mcp",
+  "install": "npx -y gopls-mcp"
+}

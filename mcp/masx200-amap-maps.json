@@ -1,0 +1,7 @@
+{
+  "name": "masx200-amap-maps",
+  "description": "Integrates with China's AutoNavi (Amap) mapping service to provide geocoding, reverse geocoding, place search, weather data, and multi-modal route planning for driving, walking, cycling, and public transit within China's geographic context.",
+  "source_repo": "masx200/amap-maps-mcp-server",
+  "source_url": "https://github.com/masx200/amap-maps-mcp-server",
+  "install": "npx -y amap-maps-mcp-server"
+}

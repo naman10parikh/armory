@@ -1,0 +1,7 @@
+{
+  "name": "dominion-observatory",
+  "description": "Behavioral trust layer for AI agents: trust scores, interaction reporting, and anomaly detection.",
+  "source_repo": "vdineshk/dominion-observatory",
+  "source_url": "https://github.com/vdineshk/dominion-observatory",
+  "install": "# git clone --depth 1 https://github.com/vdineshk/dominion-observatory\n# See source for mcpServers config block"
+}

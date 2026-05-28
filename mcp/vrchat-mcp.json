@@ -1,0 +1,7 @@
+{
+  "name": "vrchat-mcp",
+  "description": "Vrchat Mcp MCP server listed on mcp.so.",
+  "source_repo": "sawa-zen/vrchat-mcp",
+  "source_url": "https://mcp.so/server/vrchat-mcp/sawa-zen",
+  "install": "npx -y vrchat-mcp"
+}

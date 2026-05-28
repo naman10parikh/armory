@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp-worker",
+  "description": "My Mcp Worker MCP server listed on mcp.so.",
+  "source_repo": "sivakumarl/my-mcp-worker",
+  "source_url": "https://mcp.so/server/my-mcp-worker/sivakumarl",
+  "install": "# git clone --depth 1 https://mcp.so/server/my-mcp-worker/sivakumarl\n# See source for mcpServers config block"
+}

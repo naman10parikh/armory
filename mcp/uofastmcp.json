@@ -1,0 +1,7 @@
+{
+  "name": "uofastmcp",
+  "description": "Enables interaction with U2 UniData/UniVerse databases through MCP tools for file, record, dictionary, and BP program operations, with built-in admin UI, JWT authentication, RBAC, and audit logging.",
+  "source_repo": "RoKiPaRk/UOFastMCP",
+  "source_url": "https://github.com/RoKiPaRk/UOFastMCP",
+  "install": "# git clone --depth 1 https://github.com/RoKiPaRk/UOFastMCP\n# See source for mcpServers config block"
+}

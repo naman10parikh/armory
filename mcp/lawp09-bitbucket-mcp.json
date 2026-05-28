@@ -1,0 +1,7 @@
+{
+  "name": "lawp09-bitbucket-mcp",
+  "description": "Bitbucket API integration for repositories and pull requests.",
+  "source_repo": "lawp09/bitbucket-mcp",
+  "source_url": "https://github.com/lawp09/bitbucket-mcp",
+  "install": "npx -y bitbucket-mcp"
+}

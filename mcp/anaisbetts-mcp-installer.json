@@ -1,0 +1,7 @@
+{
+  "name": "anaisbetts-mcp-installer",
+  "description": "Install and configure additional MCP servers dynamically.",
+  "source_repo": "anaisbetts/mcp-installer",
+  "source_url": "https://github.com/anaisbetts/mcp-installer",
+  "install": "# git clone --depth 1 https://github.com/anaisbetts/mcp-installer\n# See source for mcpServers config block"
+}

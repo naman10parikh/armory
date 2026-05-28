@@ -1,0 +1,7 @@
+{
+  "name": "dap-mcp",
+  "description": "Dap_mcp MCP server listed on mcp.so.",
+  "source_repo": "KashunCheng/dap_mcp",
+  "source_url": "https://mcp.so/server/dap_mcp/KashunCheng",
+  "install": "npx -y dap_mcp"
+}

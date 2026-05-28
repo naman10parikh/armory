@@ -1,0 +1,7 @@
+{
+  "name": "modelist444-metatrader-5",
+  "description": "Connects to MetaTrader 5 for trading operations, market data, and trade analysis.",
+  "source_repo": "modelist444/mt5-mcp",
+  "source_url": "https://github.com/modelist444/mt5-mcp",
+  "install": "npx -y mt5-mcp"
+}

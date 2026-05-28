@@ -1,0 +1,7 @@
+{
+  "name": "datadog-mcp-server-2",
+  "description": "A Model Context Protocol (MCP) server that provides comprehensive Datadog monitoring capabilities, enabling Claude to manage CI/CD pipelines, analyze logs, query metrics, and handle monitors and SLOs.",
+  "source_repo": "andreidore/datadog-mcp",
+  "source_url": "https://github.com/andreidore/datadog-mcp",
+  "install": "npx -y datadog-mcp"
+}

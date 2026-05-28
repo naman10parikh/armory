@@ -1,0 +1,7 @@
+{
+  "name": "buyapi",
+  "description": "Unbiased vendor intelligence MCP server that helps AI agents and developers make informed infrastructure decisions by providing current, structured, neutral vendor comparisons and recommendations.",
+  "source_repo": "TheSnakeFang/buyapi-mcp",
+  "source_url": "https://github.com/TheSnakeFang/buyapi-mcp",
+  "install": "npx -y buyapi-mcp"
+}

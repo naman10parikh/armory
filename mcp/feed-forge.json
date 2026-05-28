@@ -1,0 +1,7 @@
+{
+  "name": "feed-forge",
+  "description": "Turn any website into an RSS, Atom, or JSON feed using CSS selectors and scheduled polling.",
+  "source_repo": "",
+  "source_url": "https://feeds.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://feeds.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

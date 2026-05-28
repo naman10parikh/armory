@@ -1,0 +1,7 @@
+{
+  "name": "kvadratni-speech-faster-whisper",
+  "description": "Integrates voice interaction capabilities using faster-whisper and PyAudio for speech recognition and synthesis, enabling natural language voice interfaces for AI models.",
+  "source_repo": "kvadratni/speech-mcp",
+  "source_url": "https://github.com/kvadratni/speech-mcp",
+  "install": "npx -y speech-mcp"
+}

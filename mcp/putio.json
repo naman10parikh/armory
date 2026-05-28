@@ -1,0 +1,7 @@
+{
+  "name": "putio",
+  "description": "Enables AI to manage put.io file transfers by listing, adding, canceling, and retrieving browser links for downloads through a simple authentication-based interface.",
+  "source_repo": "putdotio/putio-mcp-server",
+  "source_url": "https://github.com/putdotio/putio-mcp-server",
+  "install": "npx -y putio-mcp-server"
+}

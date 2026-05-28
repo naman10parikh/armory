@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-mapper",
+  "description": "MCP Github Mapper MCP server listed on mcp.so.",
+  "source_repo": "dazeb/MCP-Github-Mapper",
+  "source_url": "https://mcp.so/server/MCP-Github-Mapper/dazeb",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Github-Mapper/dazeb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-weather",
+  "description": "Mcp_weather MCP server listed on mcp.so.",
+  "source_repo": "xuezhijian/mcp_weather",
+  "source_url": "https://mcp.so/server/mcp_weather/xuezhijian",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_weather/xuezhijian\n# See source for mcpServers config block"
+}

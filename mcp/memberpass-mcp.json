@@ -1,0 +1,7 @@
+{
+  "name": "memberpass-mcp",
+  "description": "Connects MCP clients like Claude and Cursor to MemberPass workspace, exposing 42 tools for managing projects, plans, subscriptions, members, access codes, payments, webhooks, and analytics.",
+  "source_repo": "envigoinnovations/memberpass-mcp",
+  "source_url": "https://github.com/envigoinnovations/memberpass-mcp",
+  "install": "npx -y memberpass-mcp"
+}

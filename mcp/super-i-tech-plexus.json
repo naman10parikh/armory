@@ -1,0 +1,7 @@
+{
+  "name": "super-i-tech-plexus",
+  "description": "Multi-tenant OAuth framework that provides secure user authentication, encrypted API key management, and tenant-scoped tool access controls for enterprise MCP deployments requiring robust authentication and authorization layers.",
+  "source_repo": "super-i-tech/mcp_plexus",
+  "source_url": "https://github.com/super-i-tech/mcp_plexus",
+  "install": "# git clone --depth 1 https://github.com/super-i-tech/mcp_plexus\n# See source for mcpServers config block"
+}

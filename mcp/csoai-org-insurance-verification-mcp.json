@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-insurance-verification-mcp",
+  "description": "Python MCP server for insurance verification and eligibility checking.",
+  "source_repo": "csoai-org/insurance-verification-mcp",
+  "source_url": "https://github.com/csoai-org/insurance-verification-mcp",
+  "install": "npx -y insurance-verification-mcp"
+}

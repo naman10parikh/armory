@@ -1,0 +1,7 @@
+{
+  "name": "moikas-fork-parity",
+  "description": "Tracks upstream repository changes for Git forks with intelligent priority-based categorization, dependency analysis, and integration planning to help developers maintain synchronization with parent repositories.",
+  "source_repo": "moikas-code/fork-parity-mcp",
+  "source_url": "https://github.com/moikas-code/fork-parity-mcp",
+  "install": "npx -y fork-parity-mcp"
+}

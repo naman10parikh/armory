@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-census",
+  "description": "Query U.S. Census Bureau demographic and geographic data, variables, and geographies.",
+  "source_repo": "cyanheads/census-mcp-server",
+  "source_url": "https://github.com/cyanheads/census-mcp-server",
+  "install": "npx -y census-mcp-server"
+}

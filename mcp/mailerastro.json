@@ -1,0 +1,7 @@
+{
+  "name": "mailerastro",
+  "description": "Send transactional emails using a wallet address with no API keys required. Pay automatically for messages using USDC while monitoring deliverability and sender reputation. Automate individual or batch email communications with simplified blockchain-based authentication.",
+  "source_repo": "",
+  "source_url": "https://mailerastro.com",
+  "install": "# git clone --depth 1 https://mailerastro.com\n# See source for mcpServers config block"
+}

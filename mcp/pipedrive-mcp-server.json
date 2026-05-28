@@ -1,0 +1,7 @@
+{
+  "name": "pipedrive-mcp-server",
+  "description": "Pipedrive Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "WillDent/pipedrive-mcp-server",
+  "source_url": "https://mcp.so/server/pipedrive-mcp-server/WillDent",
+  "install": "npx -y pipedrive-mcp-server"
+}

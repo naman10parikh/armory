@@ -1,0 +1,7 @@
+{
+  "name": "vuluu2k-knowledge-base",
+  "description": "GitHub-backed persistent memory system for managing tasks, notes, goals, and a searchable knowledge base.",
+  "source_repo": "vuluu2k/knowledge_mcp",
+  "source_url": "https://github.com/vuluu2k/knowledge_mcp",
+  "install": "npx -y knowledge_mcp"
+}

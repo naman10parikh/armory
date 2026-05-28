@@ -1,0 +1,7 @@
+{
+  "name": "mcprouter",
+  "description": "Mcprouter MCP server listed on mcp.so.",
+  "source_repo": "chatmcp/mcprouter",
+  "source_url": "https://mcp.so/server/mcprouter/chatmcp",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcprouter/chatmcp\n# See source for mcpServers config block"
+}

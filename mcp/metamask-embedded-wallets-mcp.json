@@ -1,0 +1,7 @@
+{
+  "name": "metamask-embedded-wallets-mcp",
+  "description": "MetaMask Embedded Wallets MCP (formerly Web3Auth) gives AI coding assistants live access to Embedded Wallets documentation, SDK references, integration examples, and community troubleshooting. MetaMask Embedded Wallets is not a wallet app itself, but embedded wallet infrastructure that helps develop",
+  "source_repo": "",
+  "source_url": "https://docs.metamask.io/embedded-wallets/build-with-ai/",
+  "install": "# git clone --depth 1 https://docs.metamask.io/embedded-wallets/build-with-ai/\n# See source for mcpServers config block"
+}

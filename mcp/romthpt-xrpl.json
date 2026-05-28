@@ -1,0 +1,7 @@
+{
+  "name": "romthpt-xrpl",
+  "description": "Integrates with XRP Ledger blockchain to enable XRP transfers, token operations, NFT management, DID creation, AMM interactions, escrow services, payment channels, and oracle operations across mainnet and testnet environments.",
+  "source_repo": "romthpt/mcp-xrpl",
+  "source_url": "https://github.com/romthpt/mcp-xrpl",
+  "install": "# git clone --depth 1 https://github.com/romthpt/mcp-xrpl\n# See source for mcpServers config block"
+}

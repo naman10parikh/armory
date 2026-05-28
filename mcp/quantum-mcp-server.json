@@ -1,0 +1,7 @@
+{
+  "name": "quantum-mcp-server",
+  "description": "AI-powered MCP server for analyzing pinuy-binuy (urban renewal) real estate projects in Israel. Provides tools to evaluate building demolition/reconstruction projects, tenant rights, compensation calculations, and project feasibility.",
+  "source_repo": "hemichaeli/quantum-mcp-server",
+  "source_url": "https://github.com/hemichaeli/quantum-mcp-server",
+  "install": "npx -y quantum-mcp-server"
+}

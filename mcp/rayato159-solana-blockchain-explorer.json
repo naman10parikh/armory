@@ -1,0 +1,7 @@
+{
+  "name": "rayato159-solana-blockchain-explorer",
+  "description": "Provides real-time Solana blockchain data access for checking SOL price in USD and retrieving wallet balances from addresses on the Solana mainnet.",
+  "source_repo": "rayato159/sol-chad-mcp",
+  "source_url": "https://github.com/rayato159/sol-chad-mcp",
+  "install": "npx -y sol-chad-mcp"
+}

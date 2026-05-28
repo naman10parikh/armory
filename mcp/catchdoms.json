@@ -1,0 +1,7 @@
+{
+  "name": "catchdoms",
+  "description": "Search 40K+ expired domains from 12 auction platforms with SEO metrics and scores.",
+  "source_repo": "sambel/catchdoms-mcp",
+  "source_url": "https://github.com/sambel/catchdoms-mcp",
+  "install": "npx -y catchdoms-mcp"
+}

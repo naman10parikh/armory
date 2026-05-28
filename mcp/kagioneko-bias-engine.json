@@ -1,0 +1,7 @@
+{
+  "name": "kagioneko-bias-engine",
+  "description": "Manages cognitive biases for AI agents with configurable bias profiles and preset templates.",
+  "source_repo": "kagioneko/bias-engine-mcp",
+  "source_url": "https://github.com/kagioneko/bias-engine-mcp",
+  "install": "npx -y bias-engine-mcp"
+}

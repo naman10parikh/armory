@@ -1,0 +1,7 @@
+{
+  "name": "bigquery-mcp-server",
+  "description": "Bigquery Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "takuya0206/bigquery-mcp-server",
+  "source_url": "https://mcp.so/server/bigquery-mcp-server/takuya0206",
+  "install": "npx -y bigquery-mcp-server"
+}

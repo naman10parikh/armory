@@ -1,0 +1,7 @@
+{
+  "name": "alisaitteke-npm-registry",
+  "description": "MCP server for npm package management, security analysis, and compatibility checking.",
+  "source_repo": "alisaitteke/npm-mcp",
+  "source_url": "https://github.com/alisaitteke/npm-mcp",
+  "install": "npx -y npm-mcp"
+}

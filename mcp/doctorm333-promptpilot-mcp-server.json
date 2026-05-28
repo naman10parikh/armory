@@ -1,0 +1,7 @@
+{
+  "name": "doctorm333-promptpilot-mcp-server",
+  "description": "Generate images, video, and audio via 20+ AI models (Flux, GPT-Image-1, Imagen 4, Grok, Seedance, ElevenLabs). Prompt builder with styles, lighting, camera, mood presets. Batch generation support.",
+  "source_repo": "doctorm333/promptpilot-mcp-server",
+  "source_url": "https://github.com/doctorm333/promptpilot-mcp-server",
+  "install": "npx -y promptpilot-mcp-server"
+}

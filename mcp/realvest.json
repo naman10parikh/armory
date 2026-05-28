@@ -1,0 +1,7 @@
+{
+  "name": "realvest",
+  "description": "Provides 30+ real estate investment calculators including affordability analysis, BRRRR deals, house hacking, syndication analysis, IRR/NPV calculations, and Monte Carlo simulations with current market data, mortgage rates, and state-specific down payment assistance programs for comprehensive investment analysis.",
+  "source_repo": "sigaihealth/realvestmcp",
+  "source_url": "https://github.com/sigaihealth/realvestmcp",
+  "install": "# git clone --depth 1 https://github.com/sigaihealth/realvestmcp\n# See source for mcpServers config block"
+}

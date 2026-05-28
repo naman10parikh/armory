@@ -1,0 +1,7 @@
+{
+  "name": "base-mcp-server",
+  "description": "An MCP server that provides onchain tools for Claude AI to interact with the Base blockchain and Coinbase API, enabling wallet operations, testnet ETH, balance checks, fund transfers, and smart contract deployment.",
+  "source_repo": "dschlabach/base-mcp-alpha",
+  "source_url": "https://github.com/dschlabach/base-mcp-alpha",
+  "install": "# git clone --depth 1 https://github.com/dschlabach/base-mcp-alpha\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paulofroes-meta-marketing",
+  "description": "Wraps Meta's Marketing API v25.0 for Facebook and Instagram advertising operations including insights, campaign management, and creative creation.",
+  "source_repo": "paulofroes/mcp-meta-marketing",
+  "source_url": "https://github.com/paulofroes/mcp-meta-marketing",
+  "install": "# git clone --depth 1 https://github.com/paulofroes/mcp-meta-marketing\n# See source for mcpServers config block"
+}

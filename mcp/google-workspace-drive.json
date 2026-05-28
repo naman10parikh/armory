@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-drive",
+  "description": "Provides access to Google Drive for creating files, reading content, retrieving metadata, and searching.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/google-workspace-drive",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/google-workspace-drive\n# See source for mcpServers config block"
+}

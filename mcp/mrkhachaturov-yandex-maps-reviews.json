@@ -1,0 +1,7 @@
+{
+  "name": "mrkhachaturov-yandex-maps-reviews",
+  "description": "Scrapes Yandex Maps business reviews, ratings, and company metadata using headless browser automation with multiple backend support.",
+  "source_repo": "mrkhachaturov/ya-reviews-mcp",
+  "source_url": "https://github.com/mrkhachaturov/ya-reviews-mcp",
+  "install": "npx -y ya-reviews-mcp"
+}

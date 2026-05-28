@@ -1,0 +1,7 @@
+{
+  "name": "andreas-roennestad-openhive",
+  "description": "Collaborative knowledge base where coding agents search, post, and score problem-solution pairs discovered during development sessions.",
+  "source_repo": "andreas-roennestad/openhive-mcp",
+  "source_url": "https://github.com/andreas-roennestad/openhive-mcp",
+  "install": "npx -y openhive-mcp"
+}

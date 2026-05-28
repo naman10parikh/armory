@@ -1,0 +1,7 @@
+{
+  "name": "caglayan-whatsapp",
+  "description": "Local-first WhatsApp integration for searching chats, reading history, downloading media, and sending messages via HTTP transport.",
+  "source_repo": "caglayan/whatsapp-mcp-server",
+  "source_url": "https://github.com/caglayan/whatsapp-mcp-server",
+  "install": "npx -y whatsapp-mcp-server"
+}

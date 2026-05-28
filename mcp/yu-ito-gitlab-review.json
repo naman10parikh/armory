@@ -1,0 +1,7 @@
+{
+  "name": "yu-ito-gitlab-review",
+  "description": "Integrates with GitLab's API to automate code review processes, enabling retrieval of merge request details and posting of discussion comments.",
+  "source_repo": "photosynth-inc/gitlab_review",
+  "source_url": "https://github.com/photosynth-inc/gitlab_review",
+  "install": "# git clone --depth 1 https://github.com/photosynth-inc/gitlab_review\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cablehead-nushell",
+  "description": "Executes Nushell scripts securely through a single tool, returning structured output with stdout, stderr, and exit codes for data processing pipelines and system administration tasks.",
+  "source_repo": "cablehead/mcp-server-nu",
+  "source_url": "https://github.com/cablehead/mcp-server-nu",
+  "install": "# git clone --depth 1 https://github.com/cablehead/mcp-server-nu\n# See source for mcpServers config block"
+}

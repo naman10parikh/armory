@@ -1,0 +1,7 @@
+{
+  "name": "strato-space-media-gen",
+  "description": "Generates and edits images and videos through OpenAI and Google GenAI APIs.",
+  "source_repo": "strato-space/media-gen-mcp",
+  "source_url": "https://github.com/strato-space/media-gen-mcp",
+  "install": "npx -y media-gen-mcp"
+}

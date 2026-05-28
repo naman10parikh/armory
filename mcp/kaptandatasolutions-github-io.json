@@ -1,0 +1,7 @@
+{
+  "name": "kaptandatasolutions-github-io",
+  "description": "Data solutions blog",
+  "source_repo": "kaptandatasolutions/kaptandatasolutions.github.io",
+  "source_url": "https://github.com/kaptandatasolutions/kaptandatasolutions.github.io",
+  "install": "# git clone --depth 1 https://github.com/kaptandatasolutions/kaptandatasolutions.github.io\n# See source for mcpServers config block"
+}

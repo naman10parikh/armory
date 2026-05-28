@@ -1,0 +1,7 @@
+{
+  "name": "jmh108-md-webcrawl",
+  "description": "Python-based web crawler extracts website content into markdown files, enabling efficient content aggregation and site archiving.",
+  "source_repo": "jmh108/md-webcrawl-mcp",
+  "source_url": "https://github.com/jmh108/md-webcrawl-mcp",
+  "install": "npx -y md-webcrawl-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mfbaig35r-rustcluster",
+  "description": "MCP server providing intelligent clustering algorithm recommendations with a knowledge graph covering 7 algorithms and 30+ parameters.",
+  "source_repo": "mfbaig35r/rustcluster-mcp",
+  "source_url": "https://github.com/mfbaig35r/rustcluster-mcp",
+  "install": "npx -y rustcluster-mcp"
+}

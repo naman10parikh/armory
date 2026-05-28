@@ -1,0 +1,7 @@
+{
+  "name": "politwit1984-github-repository-manager",
+  "description": "Integrates with GitHub's API to automate repository management through natural language commands for creating, updating, and configuring repositories.",
+  "source_repo": "joewilsonai/github-meta-mcp-server",
+  "source_url": "https://github.com/joewilsonai/github-meta-mcp-server",
+  "install": "npx -y github-meta-mcp-server"
+}

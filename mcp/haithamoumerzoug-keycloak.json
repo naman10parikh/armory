@@ -1,0 +1,7 @@
+{
+  "name": "haithamoumerzoug-keycloak",
+  "description": "Integrates with Keycloak identity management to enable user creation, role assignment, group management, and client listing across different realms",
+  "source_repo": "haithamoumerzoug/keycloak-mcp",
+  "source_url": "https://github.com/haithamoumerzoug/keycloak-mcp",
+  "install": "npx -y keycloak-mcp"
+}

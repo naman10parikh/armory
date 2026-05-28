@@ -1,0 +1,7 @@
+{
+  "name": "stackloklabs-osv",
+  "description": "Integrates with the Open Source Vulnerabilities (OSV) database to enable querying vulnerabilities by package versions, commits, or IDs for security auditing and software composition analysis.",
+  "source_repo": "stackloklabs/osv-mcp",
+  "source_url": "https://github.com/stackloklabs/osv-mcp",
+  "install": "npx -y osv-mcp"
+}

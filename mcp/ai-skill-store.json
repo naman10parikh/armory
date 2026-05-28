@@ -1,0 +1,7 @@
+{
+  "name": "ai-skill-store",
+  "description": "Agent-first skill marketplace with USK (Universal Skill Kit) open standard. Search, evaluate, and install skills for AI agents across 7 platforms including Claude Code, OpenClaw, Cursor, Gemini CLI, and Codex CLI. Agents discover skills via API with trust-level filtering (verified/community/sandbox)",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/garasegae/aiskillstore",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/garasegae/aiskillstore\n# See source for mcpServers config block"
+}

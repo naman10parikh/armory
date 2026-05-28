@@ -1,0 +1,7 @@
+{
+  "name": "infra-ops-mcp",
+  "description": "A comprehensive MCP server for infrastructure operations with 92 tools across 13 categories, covering system monitoring, networking, containers, multi-cloud management, databases, CI/CD, IaC, security, and remote SSH fleet management.",
+  "source_repo": "skyvanguard/infra-ops-mcp",
+  "source_url": "https://github.com/skyvanguard/infra-ops-mcp",
+  "install": "npx -y infra-ops-mcp"
+}

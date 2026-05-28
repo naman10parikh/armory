@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-openfda",
+  "description": "FDA drug and medical device data via the openFDA API, free with no authentication required.",
+  "source_repo": "pipeworx-io/mcp-openfda",
+  "source_url": "https://github.com/pipeworx-io/mcp-openfda",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-openfda\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lalanikarim-comfy",
+  "description": "Integrates with ComfyUI to enable text-to-image generation using customizable Stable Diffusion workflows.",
+  "source_repo": "lalanikarim/comfy-mcp-server",
+  "source_url": "https://github.com/lalanikarim/comfy-mcp-server",
+  "install": "npx -y comfy-mcp-server"
+}

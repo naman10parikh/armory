@@ -1,0 +1,7 @@
+{
+  "name": "anandb71-arbor",
+  "description": "Graph-native code intelligence that builds complete dependency graphs for impact analysis and code understanding.",
+  "source_repo": "anandb71/arbor",
+  "source_url": "https://github.com/anandb71/arbor",
+  "install": "# git clone --depth 1 https://github.com/anandb71/arbor\n# See source for mcpServers config block"
+}

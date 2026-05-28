@@ -1,0 +1,7 @@
+{
+  "name": "kibela",
+  "description": "Bridges to Kibela's knowledge management platform, enabling search, creation, and management of notes, folders, comments, and groups within workspaces through GraphQL API calls.",
+  "source_repo": "kibela/kibela-mcp-server",
+  "source_url": "https://github.com/kibela/kibela-mcp-server",
+  "install": "npx -y kibela-mcp-server"
+}

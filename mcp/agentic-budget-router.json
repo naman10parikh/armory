@@ -1,0 +1,7 @@
+{
+  "name": "agentic-budget-router",
+  "description": "Budget approvals, policy checks, spend receipts, and usage evidence for agentic workflows.",
+  "source_repo": "clauxel/agentic-budget-router-mcp",
+  "source_url": "https://github.com/clauxel/agentic-budget-router-mcp",
+  "install": "npx -y agentic-budget-router-mcp"
+}

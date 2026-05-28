@@ -1,0 +1,7 @@
+{
+  "name": "drhelius-gearcoleco",
+  "description": "AI-assisted debugging for ColecoVision emulation, exposing memory inspection, breakpoints, disassembly, and hardware monitoring through the MCP interface.",
+  "source_repo": "drhelius/gearcoleco",
+  "source_url": "https://github.com/drhelius/gearcoleco",
+  "install": "# git clone --depth 1 https://github.com/drhelius/gearcoleco\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nasa-apis",
+  "description": "Integrates with NASA and JPL APIs to provide access to astronomy images, satellite data, space weather information, Mars rover photos, and more through a unified interface built with TypeScript.",
+  "source_repo": "programcomputer/nasa-mcp-server",
+  "source_url": "https://github.com/programcomputer/nasa-mcp-server",
+  "install": "npx -y nasa-mcp-server"
+}

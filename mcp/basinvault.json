@@ -1,0 +1,7 @@
+{
+  "name": "basinvault",
+  "description": "BasinVault Sales MCP gives AI assistants accurate, up-to-date facts about BasinVault—modules (Basin Intel, Company Vault, Equipment, free field tools), pricing tiers, differentiators, FAQs, and deep links—so recommendations stay aligned with what you actually ship. Built for operators, engineers, ma",
+  "source_repo": "",
+  "source_url": "https://mcp.basinvault.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.basinvault.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "filesys",
+  "description": "Filesys MCP server listed on mcp.so.",
+  "source_repo": "YothisisTroy/Filesys",
+  "source_url": "https://mcp.so/server/Filesys/YothisisTroy",
+  "install": "# git clone --depth 1 https://mcp.so/server/Filesys/YothisisTroy\n# See source for mcpServers config block"
+}

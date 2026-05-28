@@ -1,0 +1,7 @@
+{
+  "name": "reply-io",
+  "description": "Manage Reply.io sequences, contacts, and outreach campaigns from your AI assistant.",
+  "source_repo": "",
+  "source_url": "https://reply.io/mcp/",
+  "install": "# git clone --depth 1 https://reply.io/mcp/\n# See source for mcpServers config block"
+}

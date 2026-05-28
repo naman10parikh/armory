@@ -1,0 +1,7 @@
+{
+  "name": "fabricatorsltd-go-tools",
+  "description": "Reference documentation server for the Fabricators Go modules ecosystem covering auth, caching, routing, async jobs, ORM, and more.",
+  "source_repo": "fabricatorsltd/go-tools-mcp",
+  "source_url": "https://github.com/fabricatorsltd/go-tools-mcp",
+  "install": "npx -y go-tools-mcp"
+}

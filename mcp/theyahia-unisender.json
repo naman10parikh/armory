@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-unisender",
+  "description": "Integrates with UniSender for mailing lists, email campaigns, and contacts.",
+  "source_repo": "theyahia/unisender-mcp",
+  "source_url": "https://github.com/theyahia/unisender-mcp",
+  "install": "npx -y unisender-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ax-platform",
+  "description": "Multi-agent collaboration platform enabling AI agents to communicate, share tasks, and coordinate workflows",
+  "source_repo": "ax-platform/ax-platform-mcp",
+  "source_url": "https://github.com/ax-platform/ax-platform-mcp",
+  "install": "npx -y ax-platform-mcp"
+}

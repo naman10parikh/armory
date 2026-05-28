@@ -1,0 +1,7 @@
+{
+  "name": "stefen-taime-donneesqc",
+  "description": "Query open datasets from Données Québec, Ville de Montréal, and Quebec geospatial services (IGO) using natural language.",
+  "source_repo": "stefen-taime/donneesqc-mcp",
+  "source_url": "https://github.com/stefen-taime/donneesqc-mcp",
+  "install": "npx -y donneesqc-mcp"
+}

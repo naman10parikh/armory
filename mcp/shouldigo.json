@@ -1,0 +1,7 @@
+{
+  "name": "shouldigo",
+  "description": "Real-time surf conditions and forecasts for 5,000+ beaches worldwide.",
+  "source_repo": "orlench/shouldigo-surf-mcp",
+  "source_url": "https://github.com/orlench/shouldigo-surf-mcp",
+  "install": "npx -y shouldigo-surf-mcp"
+}

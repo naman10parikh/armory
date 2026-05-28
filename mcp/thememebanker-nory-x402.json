@@ -1,0 +1,7 @@
+{
+  "name": "thememebanker-nory-x402",
+  "description": "Enables AI agents to make payments via the x402 protocol on Solana.",
+  "source_repo": "thememebanker/nory-mcp-server",
+  "source_url": "https://github.com/thememebanker/nory-mcp-server",
+  "install": "npx -y nory-mcp-server"
+}

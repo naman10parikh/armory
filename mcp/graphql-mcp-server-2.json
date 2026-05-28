@@ -1,0 +1,7 @@
+{
+  "name": "graphql-mcp-server-2",
+  "description": "Automatically generates MCP tools from any GraphQL API by introspecting its schema, supporting queries, mutations, and authentication.",
+  "source_repo": "vogler75/graphql-mcp-server",
+  "source_url": "https://github.com/vogler75/graphql-mcp-server",
+  "install": "npx -y graphql-mcp-server"
+}

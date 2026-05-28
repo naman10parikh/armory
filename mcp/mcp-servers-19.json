@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-19",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "wadewegner/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/wadewegner",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/wadewegner\n# See source for mcpServers config block"
+}

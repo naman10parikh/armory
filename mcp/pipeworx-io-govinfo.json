@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-govinfo",
+  "description": "US government publications — laws, CFR, Federal Register, and congressional records — via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-govinfo",
+  "source_url": "https://github.com/pipeworx-io/mcp-govinfo",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-govinfo\n# See source for mcpServers config block"
+}

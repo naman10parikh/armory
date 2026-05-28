@@ -1,0 +1,7 @@
+{
+  "name": "imatrixme-pocketbase",
+  "description": "Provides direct access to PocketBase databases with tools for collection management, record operations, user authentication, and database administration via TypeScript and the PocketBase SDK.",
+  "source_repo": "imatrixme/pocketbase-mcp-server",
+  "source_url": "https://github.com/imatrixme/pocketbase-mcp-server",
+  "install": "npx -y pocketbase-mcp-server"
+}

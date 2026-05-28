@@ -1,0 +1,7 @@
+{
+  "name": "stevenvo-slack",
+  "description": "Read Slack conversations, threads, user info, and search messages",
+  "source_repo": "stevenvo/slack-mcp-server",
+  "source_url": "https://github.com/stevenvo/slack-mcp-server",
+  "install": "npx -y slack-mcp-server"
+}

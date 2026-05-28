@@ -1,0 +1,7 @@
+{
+  "name": "sidebutton",
+  "description": "Enables AI assistants to trigger and respond to SideButton workflow automations.",
+  "source_repo": "sidebutton/sidebutton",
+  "source_url": "https://github.com/sidebutton/sidebutton",
+  "install": "# git clone --depth 1 https://github.com/sidebutton/sidebutton\n# See source for mcpServers config block"
+}

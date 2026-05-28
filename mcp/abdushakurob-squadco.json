@@ -1,0 +1,7 @@
+{
+  "name": "abdushakurob-squadco",
+  "description": "Provides AI coding assistants with structured access to SquadCo's payment API documentation for Nigerian fintech integration.",
+  "source_repo": "abdushakurob/squadco-mcp",
+  "source_url": "https://github.com/abdushakurob/squadco-mcp",
+  "install": "npx -y squadco-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "log-logn-langfuse-mcp-java",
+  "description": "Query Langfuse traces, debug exceptions, analyze sessions, scores, datasets, schema, observations and manage prompts. Full observability toolkit for LLM applications. (https://github.com/langfuse/langfuse)",
+  "source_repo": "Log-LogN/langfuse-mcp-java",
+  "source_url": "https://github.com/Log-LogN/langfuse-mcp-java",
+  "install": "# git clone --depth 1 https://github.com/Log-LogN/langfuse-mcp-java\n# See source for mcpServers config block"
+}

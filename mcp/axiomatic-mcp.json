@@ -1,0 +1,7 @@
+{
+  "name": "axiomatic-mcp",
+  "description": "MCP server enabling AI assistants to access the Axiomatic_AI Platform for scientific computing, document processing, and photonic circuit design.",
+  "source_repo": "Axiomatic-AI/ax-mcp",
+  "source_url": "https://github.com/Axiomatic-AI/ax-mcp",
+  "install": "npx -y ax-mcp"
+}

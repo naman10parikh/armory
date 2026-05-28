@@ -1,0 +1,7 @@
+{
+  "name": "renlab-pronounce",
+  "description": "Developer pronunciation dictionary with 544+ entries for tech jargon (kubectl, nginx, GIF, JSON) providing audio pronunciations sourced from creator interviews and official documentation.",
+  "source_repo": "anzy-renlab-ai/pronounce",
+  "source_url": "https://github.com/anzy-renlab-ai/pronounce",
+  "install": "# git clone --depth 1 https://github.com/anzy-renlab-ai/pronounce\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kochava-for-advertisers",
+  "description": "Mobile attribution and marketing analytics from Kochava — no prior account needed, sign up and query data within the session.",
+  "source_repo": "kochava/kochava-k4a-mcp-server",
+  "source_url": "https://github.com/kochava/kochava-k4a-mcp-server",
+  "install": "npx -y kochava-k4a-mcp-server"
+}

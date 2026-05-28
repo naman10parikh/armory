@@ -1,0 +1,7 @@
+{
+  "name": "mansa-african-markets",
+  "description": "Live African stock market data from NGX, GSE, NSE, JSE, BRVM, and 8 more exchanges.",
+  "source_repo": "heyzod/mansa-african-markets-mcp",
+  "source_url": "https://github.com/heyzod/mansa-african-markets-mcp",
+  "install": "npx -y mansa-african-markets-mcp"
+}

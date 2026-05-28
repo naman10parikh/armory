@@ -1,0 +1,7 @@
+{
+  "name": "aeoess-agent-passport",
+  "description": "Ed25519 identity, delegation, governance, and commerce infrastructure for autonomous agents.",
+  "source_repo": "aeoess/agent-passport-mcp",
+  "source_url": "https://github.com/aeoess/agent-passport-mcp",
+  "install": "npx -y agent-passport-mcp"
+}

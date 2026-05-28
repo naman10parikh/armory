@@ -1,0 +1,7 @@
+{
+  "name": "scrapi-mcp-server",
+  "description": "MCP server that converts URLs to clean Markdown/Text for LLM agents.",
+  "source_repo": "bamchi/scrapi-mcp-server",
+  "source_url": "https://github.com/bamchi/scrapi-mcp-server",
+  "install": "npx -y scrapi-mcp-server"
+}

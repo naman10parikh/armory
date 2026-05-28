@@ -1,0 +1,7 @@
+{
+  "name": "coroot",
+  "description": "Integrates with the Coroot observability platform to monitor applications in real-time, analyze logs and distributed traces, manage custom dashboards, configure Prometheus and alerting systems, and perform root cause analysis for comprehensive infrastructure troubleshooting.",
+  "source_repo": "jamesbrink/mcp-coroot",
+  "source_url": "https://github.com/jamesbrink/mcp-coroot",
+  "install": "# git clone --depth 1 https://github.com/jamesbrink/mcp-coroot\n# See source for mcpServers config block"
+}

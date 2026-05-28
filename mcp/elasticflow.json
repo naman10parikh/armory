@@ -1,0 +1,7 @@
+{
+  "name": "elasticflow",
+  "description": "Manage tables, documents, files, and live dashboards in Elasticflow workspaces through AI agents with 51 tools and OAuth 2.1.",
+  "source_repo": "elasticflowapp/elasticflow-mcp",
+  "source_url": "https://github.com/elasticflowapp/elasticflow-mcp",
+  "install": "npx -y elasticflow-mcp"
+}

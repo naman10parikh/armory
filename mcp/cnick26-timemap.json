@@ -1,0 +1,7 @@
+{
+  "name": "cnick26-timemap",
+  "description": "Chinese metaphysics calculator providing BaZi, Tong Shu, and Feng Shui tools for AI assistants.",
+  "source_repo": "cnick26/timemap-mcp",
+  "source_url": "https://github.com/cnick26/timemap-mcp",
+  "install": "npx -y timemap-mcp"
+}

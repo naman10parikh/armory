@@ -1,0 +1,7 @@
+{
+  "name": "paiml-rash",
+  "description": "Rust-to-shell transpiler with formal correctness guarantees",
+  "source_repo": "paiml/bashrs",
+  "source_url": "https://github.com/paiml/bashrs",
+  "install": "# git clone --depth 1 https://github.com/paiml/bashrs\n# See source for mcpServers config block"
+}

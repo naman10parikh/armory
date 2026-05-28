@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chat",
+  "description": "Mcp Chat MCP server listed on mcp.so.",
+  "source_repo": "Flux159/mcp-chat",
+  "source_url": "https://mcp.so/server/mcp-chat/Flux159",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-chat/Flux159\n# See source for mcpServers config block"
+}

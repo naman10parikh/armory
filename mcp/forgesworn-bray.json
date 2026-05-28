@@ -1,0 +1,7 @@
+{
+  "name": "forgesworn-bray",
+  "description": "Trust-aware Nostr MCP server for AI agents with tools for social interactions, direct messages, payments, and cryptographic identity.",
+  "source_repo": "forgesworn/bray",
+  "source_url": "https://github.com/forgesworn/bray",
+  "install": "# git clone --depth 1 https://github.com/forgesworn/bray\n# See source for mcpServers config block"
+}

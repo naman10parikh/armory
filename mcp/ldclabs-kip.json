@@ -1,0 +1,7 @@
+{
+  "name": "ldclabs-kip",
+  "description": "Knowledge graphs for memory persistence, knowledge evolution, and explainable AI agent interactions.",
+  "source_repo": "ldclabs/kip",
+  "source_url": "https://github.com/ldclabs/kip",
+  "install": "# git clone --depth 1 https://github.com/ldclabs/kip\n# See source for mcpServers config block"
+}

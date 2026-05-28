@@ -1,0 +1,7 @@
+{
+  "name": "thisdot-docusign-navigator",
+  "description": "Enables natural language queries to access and analyze DocuSign agreement data",
+  "source_repo": "thisdot/docusign-navigator-mcp",
+  "source_url": "https://github.com/thisdot/docusign-navigator-mcp",
+  "install": "npx -y docusign-navigator-mcp"
+}

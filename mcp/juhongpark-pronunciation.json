@@ -1,0 +1,7 @@
+{
+  "name": "juhongpark-pronunciation",
+  "description": "MCP server for real-time English pronunciation and fluency coaching with phoneme-level analysis and local audio processing.",
+  "source_repo": "juhongpark/mcp-server-pronunciation",
+  "source_url": "https://github.com/juhongpark/mcp-server-pronunciation",
+  "install": "# git clone --depth 1 https://github.com/juhongpark/mcp-server-pronunciation\n# See source for mcpServers config block"
+}

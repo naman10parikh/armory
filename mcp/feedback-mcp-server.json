@@ -1,0 +1,7 @@
+{
+  "name": "feedback-mcp-server",
+  "description": "A lightweight MCP server that enables AI assistants to collect interactive user feedback via a browser window with full Markdown rendering and syntax highlighting.",
+  "source_repo": "NianLog/feedback-mcp",
+  "source_url": "https://github.com/NianLog/feedback-mcp",
+  "install": "npx -y feedback-mcp"
+}

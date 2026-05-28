@@ -1,0 +1,7 @@
+{
+  "name": "trackerfitness729-jpg-sitelauncher",
+  "description": "Deploy live HTTPS websites instantly with subdomain or custom .xyz domain support, paid via USDC on Base chain.",
+  "source_repo": "trackerfitness729-jpg/sitelauncher-mcp-server",
+  "source_url": "https://github.com/trackerfitness729-jpg/sitelauncher-mcp-server",
+  "install": "npx -y sitelauncher-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "starsinger",
+  "description": "AI music catalog with natural language search, MP3 streaming, artist browsing, and trending track discovery.",
+  "source_repo": "starsinger-ai/starsinger-mcp",
+  "source_url": "https://github.com/starsinger-ai/starsinger-mcp",
+  "install": "npx -y starsinger-mcp"
+}

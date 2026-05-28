@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nodejs-debugger",
+  "description": "Mcp Nodejs Debugger MCP server listed on mcp.so.",
+  "source_repo": "hyperdrive-eng/mcp-nodejs-debugger",
+  "source_url": "https://mcp.so/server/mcp-nodejs-debugger/hyperdrive-eng",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-nodejs-debugger/hyperdrive-eng\n# See source for mcpServers config block"
+}

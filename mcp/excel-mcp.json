@@ -1,0 +1,7 @@
+{
+  "name": "excel-mcp",
+  "description": "An MCP server for performing Excel file operations including read, write, and manipulation, with enterprise security features and VS Code integration.",
+  "source_repo": "az-coder-123/excel-mcp",
+  "source_url": "https://github.com/az-coder-123/excel-mcp",
+  "install": "npx -y excel-mcp"
+}

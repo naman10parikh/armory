@@ -1,0 +1,7 @@
+{
+  "name": "can-acar-jarvis",
+  "description": "Go-based system administration server that provides secure filesystem operations, terminal command execution, web content fetching, and multi-file editing with configurable security controls including directory restrictions, command blocking, and backup mechanisms.",
+  "source_repo": "can-acar/jarvis",
+  "source_url": "https://github.com/can-acar/jarvis",
+  "install": "# git clone --depth 1 https://github.com/can-acar/jarvis\n# See source for mcpServers config block"
+}

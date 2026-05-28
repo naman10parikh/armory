@@ -1,0 +1,7 @@
+{
+  "name": "leonardogilrodriguez-tmdb",
+  "description": "Integrates with The Movie Database API to enable film and television data queries, cast and crew collaboration discovery, and entertainment industry connection analysis through specialized search and filtering tools.",
+  "source_repo": "leonardogilrodriguez/mcp-tmdb",
+  "source_url": "https://github.com/leonardogilrodriguez/mcp-tmdb",
+  "install": "# git clone --depth 1 https://github.com/leonardogilrodriguez/mcp-tmdb\n# See source for mcpServers config block"
+}

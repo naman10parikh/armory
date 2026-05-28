@@ -1,0 +1,7 @@
+{
+  "name": "xray918-douyin",
+  "description": "Downloads videos and extracts metadata from Douyin/TikTok content with progress tracking and proper file handling for content archival and social media analysis workflows.",
+  "source_repo": "lxyd-ai/douyin-mcp-server",
+  "source_url": "https://github.com/lxyd-ai/douyin-mcp-server",
+  "install": "npx -y douyin-mcp-server"
+}

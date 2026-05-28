@@ -1,0 +1,7 @@
+{
+  "name": "middleware",
+  "description": "Middleware MCP server listed on mcp.so.",
+  "source_repo": "AgentrDev/middleware",
+  "source_url": "https://mcp.so/server/middleware/AgentrDev",
+  "install": "# git clone --depth 1 https://mcp.so/server/middleware/AgentrDev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jxnl-cursor-cloud-agent",
+  "description": "Integrates with Cursor's Cloud Agents API for automated repository management, code generation, task monitoring, and PR creation across multiple repositories with git context detection.",
+  "source_repo": "jxnl/cursor-cloud-agent-mcp",
+  "source_url": "https://github.com/jxnl/cursor-cloud-agent-mcp",
+  "install": "npx -y cursor-cloud-agent-mcp"
+}

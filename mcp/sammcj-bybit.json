@@ -1,0 +1,7 @@
+{
+  "name": "sammcj-bybit",
+  "description": "Provides read-only access to Bybit's cryptocurrency exchange API for retrieving real-time market data, order book information, and account details.",
+  "source_repo": "sammcj/bybit-mcp",
+  "source_url": "https://github.com/sammcj/bybit-mcp",
+  "install": "npx -y bybit-mcp"
+}

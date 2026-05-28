@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-freqtrade",
+  "description": "Provides a bridge to Freqtrade's REST API for monitoring market data, managing trades, configuring bot behavior, and analyzing performance metrics in cryptocurrency trading",
+  "source_repo": "kukapay/freqtrade-mcp",
+  "source_url": "https://github.com/kukapay/freqtrade-mcp",
+  "install": "npx -y freqtrade-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "proofly-deepfake-detection",
+  "description": "Enables deepfake detection in images through Proofly API integration, providing detailed analysis results including real/fake probability scores and individual model results for each detected face.",
+  "source_repo": "prooflie/mcp",
+  "source_url": "https://github.com/prooflie/mcp",
+  "install": "# git clone --depth 1 https://github.com/prooflie/mcp\n# See source for mcpServers config block"
+}

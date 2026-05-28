@@ -1,0 +1,7 @@
+{
+  "name": "kakehashi-mattermost-fetch",
+  "description": "Web scraping server that fetches and processes web content with robust features like robots.txt compliance, LRU caching, and markdown conversion, supporting both autonomous and manual content retrieval modes.",
+  "source_repo": "kakehashi-inc/mcp-server-mattermost",
+  "source_url": "https://github.com/kakehashi-inc/mcp-server-mattermost",
+  "install": "# git clone --depth 1 https://github.com/kakehashi-inc/mcp-server-mattermost\n# See source for mcpServers config block"
+}

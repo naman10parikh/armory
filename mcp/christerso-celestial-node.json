@@ -1,0 +1,7 @@
+{
+  "name": "christerso-celestial-node",
+  "description": "Provides real-time space data including ISS tracking, rocket launches, crew in space, Mars weather, star catalogs, and near-Earth asteroid monitoring.",
+  "source_repo": "christerso/celestialnode-mcp",
+  "source_url": "https://github.com/christerso/celestialnode-mcp",
+  "install": "npx -y celestialnode-mcp"
+}

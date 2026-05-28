@@ -1,0 +1,7 @@
+{
+  "name": "kube-audit",
+  "description": "Provides unified access to Kubernetes audit logs across Alibaba Cloud SLS, AWS CloudWatch Logs, and Google Cloud Logging with tools for listing clusters, discovering resources, and querying audit trails with flexible filtering by user, namespace, verbs, resource types, and time ranges.",
+  "source_repo": "mozillazg/kube-audit-mcp",
+  "source_url": "https://github.com/mozillazg/kube-audit-mcp",
+  "install": "npx -y kube-audit-mcp"
+}

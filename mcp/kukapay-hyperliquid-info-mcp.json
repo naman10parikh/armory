@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-hyperliquid-info-mcp",
+  "description": "An MCP server that provides real-time data and insights from the Hyperliquid perp DEX for use in bots, dashboards, and analytics.",
+  "source_repo": "kukapay/hyperliquid-info-mcp",
+  "source_url": "https://github.com/kukapay/hyperliquid-info-mcp",
+  "install": "npx -y hyperliquid-info-mcp"
+}

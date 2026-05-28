@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-aarna",
+  "description": "Hosted proxy for Aarna vault protocol APIs with 138 auto-generated tools for DeFi vault interactions.",
+  "source_repo": "junct-bot/aarna-mcp",
+  "source_url": "https://github.com/junct-bot/aarna-mcp",
+  "install": "npx -y aarna-mcp"
+}

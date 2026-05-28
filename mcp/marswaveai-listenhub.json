@@ -1,0 +1,7 @@
+{
+  "name": "marswaveai-listenhub",
+  "description": "Create podcasts and FlowSpeech episodes through natural conversation with multiple generation modes and speaker management",
+  "source_repo": "marswaveai/listenhub-mcp-server",
+  "source_url": "https://github.com/marswaveai/listenhub-mcp-server",
+  "install": "npx -y listenhub-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pixelixe",
+  "description": "Create editable, on-brand graphics from natural language using reusable templates and brand kits. Supports creative automation workflows with reviewable outputs and visual variant generation.",
+  "source_repo": "pixelixe/pixelixe-mcp",
+  "source_url": "https://github.com/pixelixe/pixelixe-mcp",
+  "install": "npx -y pixelixe-mcp"
+}

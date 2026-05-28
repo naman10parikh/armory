@@ -1,0 +1,7 @@
+{
+  "name": "lilith-shell",
+  "description": "Lilith Shell MCP server listed on mcp.so.",
+  "source_repo": "charles-adedotun/Lilith-Shell",
+  "source_url": "https://mcp.so/server/Lilith-Shell/charles-adedotun",
+  "install": "# git clone --depth 1 https://mcp.so/server/Lilith-Shell/charles-adedotun\n# See source for mcpServers config block"
+}

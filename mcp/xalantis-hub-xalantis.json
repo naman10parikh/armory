@@ -1,0 +1,7 @@
+{
+  "name": "xalantis-hub-xalantis",
+  "description": "Manage support tickets and customer interactions through the Xalantis platform.",
+  "source_repo": "xalantis-hub/xalantis-mcp",
+  "source_url": "https://github.com/xalantis-hub/xalantis-mcp",
+  "install": "npx -y xalantis-mcp"
+}

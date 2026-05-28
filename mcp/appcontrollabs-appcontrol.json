@@ -1,0 +1,7 @@
+{
+  "name": "appcontrollabs-appcontrol",
+  "description": "Provides read-only access to AppControl's Windows desktop monitoring data including CPU, GPU, RAM, disk usage, security events, and binary tracking through 9 tools.",
+  "source_repo": "appcontrollabs/appcontrol-mcp-go",
+  "source_url": "https://github.com/appcontrollabs/appcontrol-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/appcontrollabs/appcontrol-mcp-go\n# See source for mcpServers config block"
+}

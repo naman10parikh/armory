@@ -1,0 +1,7 @@
+{
+  "name": "firstlineaiis-sovereign-node",
+  "description": "113 MCP tools for oracle, escrow, compliance, remittance, and AI operations with pay-as-you-go pricing.",
+  "source_repo": "",
+  "source_url": "https://node-core-firstlineaiis.replit.app/mcp",
+  "install": "# git clone --depth 1 https://node-core-firstlineaiis.replit.app/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verity-rms",
+  "description": "AI-powered investment research management system for searching notes, meetings, and research across a portfolio.",
+  "source_repo": "",
+  "source_url": "https://verityplatform.com",
+  "install": "# git clone --depth 1 https://verityplatform.com\n# See source for mcpServers config block"
+}

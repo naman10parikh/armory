@@ -1,0 +1,7 @@
+{
+  "name": "noblabs-lit-forge",
+  "description": "Financial planning tools for Japanese investors with NISA, retirement, and compound interest calculators.",
+  "source_repo": "noblabs/lit-forge-mcp",
+  "source_url": "https://github.com/noblabs/lit-forge-mcp",
+  "install": "npx -y lit-forge-mcp"
+}

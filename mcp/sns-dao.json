@@ -1,0 +1,7 @@
+{
+  "name": "sns-dao",
+  "description": "Integrates with Service Nervous System DAOs on the Internet Computer blockchain to enable proposal listing, neuron management, and vote execution for governance activities",
+  "source_repo": "baolongt/sns-mcp-server",
+  "source_url": "https://github.com/baolongt/sns-mcp-server",
+  "install": "npx -y sns-mcp-server"
+}

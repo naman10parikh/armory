@@ -1,0 +1,7 @@
+{
+  "name": "demcp-debank",
+  "description": "Provides a bridge to blockchain and DeFi data across multiple chains, enabling access to information about protocols, tokens, pools, user assets, activities, and wallet operations",
+  "source_repo": "demcp/demcp-debank-mcp",
+  "source_url": "https://github.com/demcp/demcp-debank-mcp",
+  "install": "npx -y demcp-debank-mcp"
+}

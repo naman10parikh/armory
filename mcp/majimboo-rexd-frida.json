@@ -1,0 +1,7 @@
+{
+  "name": "majimboo-rexd-frida",
+  "description": "Enables runtime instrumentation and reverse engineering using Frida with 21 tools.",
+  "source_repo": "majimboo/rexd-frida-mcp",
+  "source_url": "https://github.com/majimboo/rexd-frida-mcp",
+  "install": "npx -y rexd-frida-mcp"
+}

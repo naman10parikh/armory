@@ -1,0 +1,7 @@
+{
+  "name": "subindex-mcp-server",
+  "description": "Generates, validates, and updates structured research tables by synthesizing multiple AI queries, enabling AI agents to autonomously drive research workflows.",
+  "source_repo": "EliyahuAI/mcp-server-subindex",
+  "source_url": "https://github.com/EliyahuAI/mcp-server-subindex",
+  "install": "# git clone --depth 1 https://github.com/EliyahuAI/mcp-server-subindex\n# See source for mcpServers config block"
+}

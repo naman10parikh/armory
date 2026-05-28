@@ -1,0 +1,7 @@
+{
+  "name": "wenxiaowendy-whereabouts",
+  "description": "Provides spatial location awareness to AI agents by processing GPS and battery data from iOS Shortcuts into stays and movements.",
+  "source_repo": "wenxiaowendy/whereabouts-mcp",
+  "source_url": "https://github.com/wenxiaowendy/whereabouts-mcp",
+  "install": "npx -y whereabouts-mcp"
+}

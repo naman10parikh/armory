@@ -1,0 +1,7 @@
+{
+  "name": "dkships-pm-copilot",
+  "description": "Triangulates HelpScout support tickets and ProductLift feature requests to generate prioritized product plans. Scores themes by convergence (same signal in both sources = 2x boost), scrubs PII, and accepts business metrics from other MCP servers via `kpi_context` for composable prioritization.",
+  "source_repo": "dkships/pm-copilot",
+  "source_url": "https://github.com/dkships/pm-copilot",
+  "install": "# git clone --depth 1 https://github.com/dkships/pm-copilot\n# See source for mcpServers config block"
+}

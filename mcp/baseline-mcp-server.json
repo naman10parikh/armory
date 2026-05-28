@@ -1,0 +1,7 @@
+{
+  "name": "baseline-mcp-server",
+  "description": "An MCP server that queries the baseline status of web platform features using data from webstatus.dev. It provides tools to get feature baseline status and a summary of baseline categories.",
+  "source_repo": "jlacher/baseline-mcp-server",
+  "source_url": "https://github.com/jlacher/baseline-mcp-server",
+  "install": "npx -y baseline-mcp-server"
+}

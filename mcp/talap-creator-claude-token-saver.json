@@ -1,0 +1,7 @@
+{
+  "name": "talap-creator-claude-token-saver",
+  "description": "Monitors Claude.ai subscription usage in real time with tools for session burn-rate forecasting, per-task cost measurement, and cache hit rate analysis.",
+  "source_repo": "talap-creator/mcp-token-saver",
+  "source_url": "https://github.com/talap-creator/mcp-token-saver",
+  "install": "# git clone --depth 1 https://github.com/talap-creator/mcp-token-saver\n# See source for mcpServers config block"
+}

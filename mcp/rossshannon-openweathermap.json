@@ -1,0 +1,7 @@
+{
+  "name": "rossshannon-openweathermap",
+  "description": "Integrates with OpenWeatherMap API to provide global weather forecasts and current conditions for location-specific planning and alerts.",
+  "source_repo": "rossshannon/weekly-weather-mcp",
+  "source_url": "https://github.com/rossshannon/weekly-weather-mcp",
+  "install": "npx -y weekly-weather-mcp"
+}

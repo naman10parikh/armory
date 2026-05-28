@@ -1,0 +1,7 @@
+{
+  "name": "onesource",
+  "description": "Blockchain data access with live chain queries, token balances, NFT metadata, and API documentation.",
+  "source_repo": "blockparty-global/1s-mcp",
+  "source_url": "https://github.com/blockparty-global/1s-mcp",
+  "install": "npx -y 1s-mcp"
+}

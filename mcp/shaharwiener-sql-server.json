@@ -1,0 +1,7 @@
+{
+  "name": "shaharwiener-sql-server",
+  "description": "Provides secure read-only access to SQL Server databases with tools for query execution, schema inspection, performance analysis, and database monitoring.",
+  "source_repo": "shaharwiener/mcp-sql-server",
+  "source_url": "https://github.com/shaharwiener/mcp-sql-server",
+  "install": "# git clone --depth 1 https://github.com/shaharwiener/mcp-sql-server\n# See source for mcpServers config block"
+}

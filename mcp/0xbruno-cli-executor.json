@@ -1,0 +1,7 @@
+{
+  "name": "0xbruno-cli-executor",
+  "description": "Provides a tool for executing local CLI commands asynchronously using FastMCP and asyncio, handling command arguments securely and offering error handling for failed commands.",
+  "source_repo": "0xbruno/mcpexec",
+  "source_url": "https://github.com/0xbruno/mcpexec",
+  "install": "# git clone --depth 1 https://github.com/0xbruno/mcpexec\n# See source for mcpServers config block"
+}

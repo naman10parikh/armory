@@ -1,0 +1,7 @@
+{
+  "name": "legal-court-mcp-server",
+  "description": "MCP Server providing AI agents access to over 3 million US court decisions via CourtListener and EU legislation via EUR-Lex, with tools for searching cases, citations, judges, and court information.",
+  "source_repo": "AiAgentKarl/legal-court-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/legal-court-mcp-server",
+  "install": "npx -y legal-court-mcp-server"
+}

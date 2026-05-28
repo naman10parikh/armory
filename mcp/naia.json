@@ -1,0 +1,7 @@
+{
+  "name": "naia",
+  "description": "Analyzes and optimizes brand visibility across AI engines including ChatGPT, Gemini, Claude, and Perplexity for generative engine optimization.",
+  "source_repo": "arielvdl/naia-mcp-server",
+  "source_url": "https://github.com/arielvdl/naia-mcp-server",
+  "install": "npx -y naia-mcp-server"
+}

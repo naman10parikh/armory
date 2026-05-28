@@ -1,0 +1,7 @@
+{
+  "name": "darrenjrobinson-entra-news",
+  "description": "Searchable knowledge base over the Entra.news newsletter archive covering Microsoft Entra identity features, announcements, and community tools.",
+  "source_repo": "darrenjrobinson/entranewsmcpserver",
+  "source_url": "https://github.com/darrenjrobinson/entranewsmcpserver",
+  "install": "# git clone --depth 1 https://github.com/darrenjrobinson/entranewsmcpserver\n# See source for mcpServers config block"
+}

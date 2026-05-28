@@ -1,0 +1,7 @@
+{
+  "name": "ertugrul59-tradingview-chart",
+  "description": "Captures and shares TradingView chart images with customizable tickers and timeframes through a Selenium-based scraper that converts screenshots to direct image URLs.",
+  "source_repo": "ertugrul59/tradingview-chart-mcp",
+  "source_url": "https://github.com/ertugrul59/tradingview-chart-mcp",
+  "install": "npx -y tradingview-chart-mcp"
+}

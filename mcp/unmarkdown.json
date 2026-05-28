@@ -1,0 +1,7 @@
+{
+  "name": "unmarkdown",
+  "description": "Document publishing layer converting markdown to 6 destinations with 62 templates.",
+  "source_repo": "unmarkdown/mcp-server",
+  "source_url": "https://github.com/unmarkdown/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/unmarkdown/mcp-server\n# See source for mcpServers config block"
+}

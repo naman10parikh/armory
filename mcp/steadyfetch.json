@@ -1,0 +1,7 @@
+{
+  "name": "steadyfetch",
+  "description": "Reliable web fetching MCP server with built-in retry logic, circuit breaker patterns, caching, and anti-bot bypass. Fetches URLs as raw HTML or clean markdown optimized for LLM consumption. Includes domain health checks and cache management tools.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/intake-triage/steadyfetch",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/intake-triage/steadyfetch\n# See source for mcpServers config block"
+}

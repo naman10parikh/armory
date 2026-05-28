@@ -1,0 +1,7 @@
+{
+  "name": "farraskuy-godot",
+  "description": "168 AI-powered tools for Godot 4 Editor enabling game development through natural language commands.",
+  "source_repo": "farraskuy/godot-mcp",
+  "source_url": "https://github.com/farraskuy/godot-mcp",
+  "install": "npx -y godot-mcp"
+}

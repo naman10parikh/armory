@@ -1,0 +1,7 @@
+{
+  "name": "php",
+  "description": "PHP implementation that enables PHP applications to expose methods as tools, prompts, and resources through attribute-based annotations with support for multiple transport handlers.",
+  "source_repo": "php-mcp/server",
+  "source_url": "https://github.com/php-mcp/server",
+  "install": "# git clone --depth 1 https://github.com/php-mcp/server\n# See source for mcpServers config block"
+}

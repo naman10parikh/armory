@@ -1,0 +1,7 @@
+{
+  "name": "spacebridge-mcp",
+  "description": "A Model Context Protocol (MCP) server that integrates with the SpaceBridge REST API to automate issue management across connected issue trackers, allowing developers to manage issues directly from their AI-assisted coding environment.",
+  "source_repo": "spacecode-ai/SpaceBridge-MCP",
+  "source_url": "https://github.com/spacecode-ai/SpaceBridge-MCP",
+  "install": "npx -y SpaceBridge-MCP"
+}

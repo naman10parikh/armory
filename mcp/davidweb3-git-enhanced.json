@@ -1,0 +1,7 @@
+{
+  "name": "davidweb3-git-enhanced",
+  "description": "Enhanced Git operations for AI coding assistants including code review, commit history analysis, and branch management tools.",
+  "source_repo": "davidweb3-ctrl/mcp-git-enhanced",
+  "source_url": "https://github.com/davidweb3-ctrl/mcp-git-enhanced",
+  "install": "# git clone --depth 1 https://github.com/davidweb3-ctrl/mcp-git-enhanced\n# See source for mcpServers config block"
+}

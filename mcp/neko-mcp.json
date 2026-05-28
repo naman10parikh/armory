@@ -1,0 +1,7 @@
+{
+  "name": "neko-mcp",
+  "description": "Enables AI agents to control a neko virtual browser via WebSocket and REST APIs, while allowing live viewing through a WebRTC stream.",
+  "source_repo": "cavaldos/neko-mcp",
+  "source_url": "https://github.com/cavaldos/neko-mcp",
+  "install": "npx -y neko-mcp"
+}

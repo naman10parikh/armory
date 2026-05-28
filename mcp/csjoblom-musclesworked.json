@@ -1,0 +1,7 @@
+{
+  "name": "csjoblom-musclesworked",
+  "description": "Exercise-to-muscle mapping with 856 exercises, 65 muscles, workout analysis, and alternatives.",
+  "source_repo": "csjoblom/musclesworked-mcp",
+  "source_url": "https://github.com/csjoblom/musclesworked-mcp",
+  "install": "npx -y musclesworked-mcp"
+}

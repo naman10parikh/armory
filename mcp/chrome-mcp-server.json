@@ -1,0 +1,7 @@
+{
+  "name": "chrome-mcp-server",
+  "description": "Chrome Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "adejaimejr/chrome-mcp-server",
+  "source_url": "https://mcp.so/server/chrome-mcp-server/adejaimejr",
+  "install": "npx -y chrome-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vibe-model-context-protocol-server-vmcps",
+  "description": "A Python-based server for managing and analyzing code context for AI-assisted development. Provides real-time code analysis, project structure analysis, dependency tracking, and secure API endpoints.",
+  "source_repo": "non-npc/Vibe-Model-Context-Protocol-Server",
+  "source_url": "https://github.com/non-npc/Vibe-Model-Context-Protocol-Server",
+  "install": "# git clone --depth 1 https://github.com/non-npc/Vibe-Model-Context-Protocol-Server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alan22333-mcp-nexus",
+  "description": "Go MCP gateway that converts OpenAPI and gRPC specs into AI-callable tools with rate limiting and circuit breaking.",
+  "source_repo": "alan22333/mcp-gateway",
+  "source_url": "https://github.com/alan22333/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/alan22333/mcp-gateway\n# See source for mcpServers config block"
+}

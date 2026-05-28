@@ -1,0 +1,7 @@
+{
+  "name": "feedbk",
+  "description": "Create AI-moderated interviews and surveys with intelligent follow-up probing and shareable participant links.",
+  "source_repo": "feedbk-ai/feedbk-mcp-server",
+  "source_url": "https://github.com/feedbk-ai/feedbk-mcp-server",
+  "install": "npx -y feedbk-mcp-server"
+}

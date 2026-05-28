@@ -1,0 +1,7 @@
+{
+  "name": "creis-ai-property-valuation",
+  "description": "Property evaluation and community rating service",
+  "source_repo": "creis-ai/mcp-property-valuation-server",
+  "source_url": "https://github.com/creis-ai/mcp-property-valuation-server",
+  "install": "# git clone --depth 1 https://github.com/creis-ai/mcp-property-valuation-server\n# See source for mcpServers config block"
+}

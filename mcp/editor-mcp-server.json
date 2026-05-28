@@ -1,0 +1,7 @@
+{
+  "name": "editor-mcp-server",
+  "description": "Editor Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "playcanvas/editor-mcp-server",
+  "source_url": "https://mcp.so/server/editor-mcp-server/playcanvas",
+  "install": "npx -y editor-mcp-server"
+}

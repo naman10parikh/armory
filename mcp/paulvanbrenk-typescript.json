@@ -1,0 +1,7 @@
+{
+  "name": "paulvanbrenk-typescript",
+  "description": "Bridges TypeScript development tools with coding agents by wrapping tsgo's Language Server Protocol in an MCP interface, providing real-time type checking, code navigation, diagnostics, symbol lookup, and safe cross-project renaming.",
+  "source_repo": "paulvanbrenk/typescript-mcp",
+  "source_url": "https://github.com/paulvanbrenk/typescript-mcp",
+  "install": "npx -y typescript-mcp"
+}

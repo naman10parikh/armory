@@ -1,0 +1,7 @@
+{
+  "name": "arabold-docs-scraper",
+  "description": "Provides specialized documentation scraping and retrieval from GitHub, NPM, PyPI, and web pages, enabling accurate reference to up-to-date library documentation without disrupting workflow.",
+  "source_repo": "arabold/docs-mcp-server",
+  "source_url": "https://github.com/arabold/docs-mcp-server",
+  "install": "npx -y docs-mcp-server"
+}

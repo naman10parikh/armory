@@ -1,0 +1,7 @@
+{
+  "name": "hifriendbot-ailist",
+  "description": "Search, discover, and submit AI projects to a curated directory from within AI coding assistants.",
+  "source_repo": "hifriendbot/ailist-mcp",
+  "source_url": "https://github.com/hifriendbot/ailist-mcp",
+  "install": "npx -y ailist-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yunfeizhu-email-imap-smtp",
+  "description": "Provides IMAP/SMTP email access for reading messages and sending emails with secure connection support and environment-based credential management.",
+  "source_repo": "yunfeizhu/mcp-mail-server",
+  "source_url": "https://github.com/yunfeizhu/mcp-mail-server",
+  "install": "# git clone --depth 1 https://github.com/yunfeizhu/mcp-mail-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vdalhambra-site-audit",
+  "description": "SEO, performance, and security audits for any URL with no API keys required.",
+  "source_repo": "vdalhambra/siteaudit-mcp",
+  "source_url": "https://github.com/vdalhambra/siteaudit-mcp",
+  "install": "npx -y siteaudit-mcp"
+}

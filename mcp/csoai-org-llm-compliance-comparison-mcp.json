@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-llm-compliance-comparison-mcp",
+  "description": "Python MCP server for comparing LLM compliance and policy adherence.",
+  "source_repo": "csoai-org/llm-compliance-comparison-mcp",
+  "source_url": "https://github.com/csoai-org/llm-compliance-comparison-mcp",
+  "install": "npx -y llm-compliance-comparison-mcp"
+}

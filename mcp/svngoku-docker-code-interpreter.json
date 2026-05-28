@@ -1,0 +1,7 @@
+{
+  "name": "svngoku-docker-code-interpreter",
+  "description": "Provides a secure Docker-based sandbox for executing Python code with resource limits and proper isolation, enabling safe execution of untrusted code for data analysis and algorithm testing.",
+  "source_repo": "svngoku/mcp-docker-code-interpreter",
+  "source_url": "https://github.com/svngoku/mcp-docker-code-interpreter",
+  "install": "# git clone --depth 1 https://github.com/svngoku/mcp-docker-code-interpreter\n# See source for mcpServers config block"
+}

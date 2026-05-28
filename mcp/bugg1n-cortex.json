@@ -1,0 +1,7 @@
+{
+  "name": "bugg1n-cortex",
+  "description": "Scans and indexes software portfolios to build searchable knowledge graphs of technology choices, development decisions, and developer expertise.",
+  "source_repo": "bugg1n/cortex-mcp",
+  "source_url": "https://github.com/bugg1n/cortex-mcp",
+  "install": "npx -y cortex-mcp"
+}

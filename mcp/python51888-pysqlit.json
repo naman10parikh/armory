@@ -1,0 +1,7 @@
+{
+  "name": "python51888-pysqlit",
+  "description": "Provides complete SQLite database operations including table creation, data manipulation, querying, and schema management through the FastMCP framework and PySqlit library integration.",
+  "source_repo": "python51888/pysqlitmcp",
+  "source_url": "https://github.com/python51888/pysqlitmcp",
+  "install": "# git clone --depth 1 https://github.com/python51888/pysqlitmcp\n# See source for mcpServers config block"
+}

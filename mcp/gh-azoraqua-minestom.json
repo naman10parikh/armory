@@ -1,0 +1,7 @@
+{
+  "name": "gh-azoraqua-minestom",
+  "description": "Provides Minestom Minecraft server documentation and development guidance.",
+  "source_repo": "ronaldbunk/minestom-mcp",
+  "source_url": "https://github.com/ronaldbunk/minestom-mcp",
+  "install": "npx -y minestom-mcp"
+}

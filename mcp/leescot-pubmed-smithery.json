@@ -1,0 +1,7 @@
+{
+  "name": "leescot-pubmed-smithery",
+  "description": "Provides powerful tools for searching and analyzing academic medical literature through PubMed, offering specialized functions for keyword searches, MeSH term lookups, publication statistics, and structured PICO-based evidence retrieval with automatic retry mechanisms.",
+  "source_repo": "leescot/pubmed-mcp-smithery",
+  "source_url": "https://github.com/leescot/pubmed-mcp-smithery",
+  "install": "# git clone --depth 1 https://github.com/leescot/pubmed-mcp-smithery\n# See source for mcpServers config block"
+}

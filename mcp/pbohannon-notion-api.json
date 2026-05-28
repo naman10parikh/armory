@@ -1,0 +1,7 @@
+{
+  "name": "pbohannon-notion-api",
+  "description": "Integrates with Notion's API to enable document management, knowledge base interactions, and project tracking tasks.",
+  "source_repo": "pbohannon/notion-api-mcp",
+  "source_url": "https://github.com/pbohannon/notion-api-mcp",
+  "install": "npx -y notion-api-mcp"
+}

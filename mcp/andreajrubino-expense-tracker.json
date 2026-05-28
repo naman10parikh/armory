@@ -1,0 +1,7 @@
+{
+  "name": "andreajrubino-expense-tracker",
+  "description": "Parses natural language expense descriptions to extract amounts, currencies, and dates, storing transactions in a local Excel file.",
+  "source_repo": "andreajrubino/expense-tracker-mcp",
+  "source_url": "https://github.com/andreajrubino/expense-tracker-mcp",
+  "install": "npx -y expense-tracker-mcp"
+}

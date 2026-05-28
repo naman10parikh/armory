@@ -1,0 +1,7 @@
+{
+  "name": "lordmendes-lgpd",
+  "description": "Brazilian LGPD data protection compliance tools for legal bases, consent, and privacy impact assessments.",
+  "source_repo": "lordmendes/lgpd-mcp",
+  "source_url": "https://github.com/lordmendes/lgpd-mcp",
+  "install": "npx -y lgpd-mcp"
+}

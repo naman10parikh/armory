@@ -1,0 +1,7 @@
+{
+  "name": "manideep1822-omnillm",
+  "description": "MCP gateway connecting AI assistants to multiple LLM providers including Claude, GPT-4o, and Gemini with real-time monitoring.",
+  "source_repo": "manideep1822/omnillm",
+  "source_url": "https://github.com/manideep1822/omnillm",
+  "install": "# git clone --depth 1 https://github.com/manideep1822/omnillm\n# See source for mcpServers config block"
+}

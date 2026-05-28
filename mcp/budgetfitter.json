@@ -1,0 +1,7 @@
+{
+  "name": "budgetfitter",
+  "description": "UK deal discovery MCP server for searching verified discount codes, vouchers, and brand intelligence across retailers.",
+  "source_repo": "",
+  "source_url": "https://budgetfitter.uk",
+  "install": "# git clone --depth 1 https://budgetfitter.uk\n# See source for mcpServers config block"
+}

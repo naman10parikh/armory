@@ -1,0 +1,7 @@
+{
+  "name": "tangivis-twitter",
+  "description": "MCP server for Twitter/X interaction using browser cookie authentication, with 57 tools for tweets, timelines, DMs, communities, and article management.",
+  "source_repo": "tangivis/twitter-mcp",
+  "source_url": "https://github.com/tangivis/twitter-mcp",
+  "install": "npx -y twitter-mcp"
+}

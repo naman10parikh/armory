@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rn-devtools",
+  "description": "This MCP server enables real-time debugging and inspection of running React Native apps, providing access to console logs, errors, network requests, navigation state, storage, and performance profiling.",
+  "source_repo": "pablonortiz/mcp-rn-devtools",
+  "source_url": "https://github.com/pablonortiz/mcp-rn-devtools",
+  "install": "# git clone --depth 1 https://github.com/pablonortiz/mcp-rn-devtools\n# See source for mcpServers config block"
+}

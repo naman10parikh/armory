@@ -1,0 +1,7 @@
+{
+  "name": "multimail",
+  "description": "Email capabilities for AI agents with markdown-native messaging, threaded conversations, attachments, and human oversight controls.",
+  "source_repo": "multimail-dev/mcp-server",
+  "source_url": "https://github.com/multimail-dev/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/multimail-dev/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agenson-tools-token-economist",
+  "description": "Estimates LLM token costs and compresses prompts before execution.",
+  "source_repo": "agenson-tools/token-economist-mcp",
+  "source_url": "https://github.com/agenson-tools/token-economist-mcp",
+  "install": "npx -y token-economist-mcp"
+}

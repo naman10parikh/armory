@@ -1,0 +1,7 @@
+{
+  "name": "funsjanssen-faker",
+  "description": "Generates realistic fake data using Faker.js for person records, company information, and custom patterns with multi-locale support and batch processing up to 10,000 records.",
+  "source_repo": "funsjanssen/faker-mcp",
+  "source_url": "https://github.com/funsjanssen/faker-mcp",
+  "install": "npx -y faker-mcp"
+}

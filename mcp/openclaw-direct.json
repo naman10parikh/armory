@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-direct",
+  "description": "Deploy, monitor, and manage OpenClaw AI assistant instances via natural language.",
+  "source_repo": "",
+  "source_url": "https://openclaw.direct/openclaw-mcp-integration",
+  "install": "# git clone --depth 1 https://openclaw.direct/openclaw-mcp-integration\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "husain-zaidi-ros2",
+  "description": "Control ROS 2 robotic systems by publishing messages, calling services, and monitoring topics.",
+  "source_repo": "husain-zaidi/ros-mcp",
+  "source_url": "https://github.com/husain-zaidi/ros-mcp",
+  "install": "npx -y ros-mcp"
+}

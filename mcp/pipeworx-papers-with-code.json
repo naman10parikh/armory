@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-papers-with-code",
+  "description": "Browse machine learning research papers and their associated code repositories from Papers with Code.",
+  "source_repo": "pipeworx-io/mcp-paperswithcode",
+  "source_url": "https://github.com/pipeworx-io/mcp-paperswithcode",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-paperswithcode\n# See source for mcpServers config block"
+}

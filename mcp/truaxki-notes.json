@@ -1,0 +1,7 @@
+{
+  "name": "truaxki-notes",
+  "description": "Provides a simple interface for reading and writing notes, enabling quick information capture and basic note management tasks.",
+  "source_repo": "truaxki/mcp-notes",
+  "source_url": "https://github.com/truaxki/mcp-notes",
+  "install": "# git clone --depth 1 https://github.com/truaxki/mcp-notes\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stripe-mcp",
+  "description": "Use to let an agent operate payments — create customers, prices, payment links, and invoices — the rail that lets an agent earn revenue to fund its own compute.",
+  "source_repo": "stripe/agent-toolkit",
+  "source_url": "https://github.com/stripe/agent-toolkit",
+  "install": "# git clone --depth 1 https://github.com/stripe/agent-toolkit\n# See source for mcpServers config block"
+}

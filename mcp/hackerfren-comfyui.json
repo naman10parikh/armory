@@ -1,0 +1,7 @@
+{
+  "name": "hackerfren-comfyui",
+  "description": "MCP server for controlling ComfyUI through natural language with 57 tools covering node discovery, workflow building, image generation, asset management, and queue monitoring.",
+  "source_repo": "0xhackerfren/comfy-ui-mcp",
+  "source_url": "https://github.com/0xhackerfren/comfy-ui-mcp",
+  "install": "npx -y comfy-ui-mcp"
+}

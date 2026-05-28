@@ -1,0 +1,7 @@
+{
+  "name": "panzer-jack-feuse",
+  "description": "Automates Figma design-to-code workflows by extracting design data, downloading SVG assets, analyzing color variables, and generating API models with design token conversion for CSS frameworks like UnoCSS and TailwindCSS.",
+  "source_repo": "panzer-jack/feuse-mcp",
+  "source_url": "https://github.com/panzer-jack/feuse-mcp",
+  "install": "npx -y feuse-mcp"
+}

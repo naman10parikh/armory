@@ -1,0 +1,7 @@
+{
+  "name": "gh-cyanheads-openfec",
+  "description": "Query U.S. Federal Election Commission campaign finance data.",
+  "source_repo": "cyanheads/openfec-mcp-server",
+  "source_url": "https://github.com/cyanheads/openfec-mcp-server",
+  "install": "npx -y openfec-mcp-server"
+}

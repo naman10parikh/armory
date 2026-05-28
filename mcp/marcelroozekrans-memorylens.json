@@ -1,0 +1,7 @@
+{
+  "name": "marcelroozekrans-memorylens",
+  "description": ".NET memory profiling with JetBrains dotMemory integration for AI-assisted analysis.",
+  "source_repo": "marcelroozekrans/memorylens-mcp",
+  "source_url": "https://github.com/marcelroozekrans/memorylens-mcp",
+  "install": "npx -y memorylens-mcp"
+}

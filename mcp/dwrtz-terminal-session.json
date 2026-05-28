@@ -1,0 +1,7 @@
+{
+  "name": "dwrtz-terminal-session",
+  "description": "Provides stateful, TUI-compatible terminal sessions for executing commands and running interactive applications, enabling persistent interaction with command-line interfaces and programs.",
+  "source_repo": "dwrtz/mcpterm",
+  "source_url": "https://github.com/dwrtz/mcpterm",
+  "install": "# git clone --depth 1 https://github.com/dwrtz/mcpterm\n# See source for mcpServers config block"
+}

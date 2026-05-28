@@ -1,0 +1,7 @@
+{
+  "name": "selver-mcp",
+  "description": "Enables Claude to search products, build a shopping cart on Selver.ee, and open it in the browser for checkout.",
+  "source_repo": "martparve/selver-mcp",
+  "source_url": "https://github.com/martparve/selver-mcp",
+  "install": "npx -y selver-mcp"
+}

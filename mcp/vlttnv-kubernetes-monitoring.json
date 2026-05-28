@@ -1,0 +1,7 @@
+{
+  "name": "vlttnv-kubernetes-monitoring",
+  "description": "Provides a read-only interface for querying Kubernetes clusters, enabling detailed retrieval of information about namespaces, pods, nodes, deployments, services, and events for monitoring and troubleshooting.",
+  "source_repo": "vlttnv/k8s-mcp",
+  "source_url": "https://github.com/vlttnv/k8s-mcp",
+  "install": "npx -y k8s-mcp"
+}

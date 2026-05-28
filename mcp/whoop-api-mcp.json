@@ -1,0 +1,7 @@
+{
+  "name": "whoop-api-mcp",
+  "description": "Whoop Api Mcp MCP server listed on mcp.so.",
+  "source_repo": "RyanLisse/whoop-api-mcp",
+  "source_url": "https://mcp.so/server/whoop-api-mcp/RyanLisse",
+  "install": "npx -y whoop-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "context-book",
+  "description": "Persistent knowledge library for AI agents using vector embeddings to provide relevant context on demand.",
+  "source_repo": "aditya201551/context-book",
+  "source_url": "https://github.com/aditya201551/context-book",
+  "install": "# git clone --depth 1 https://github.com/aditya201551/context-book\n# See source for mcpServers config block"
+}

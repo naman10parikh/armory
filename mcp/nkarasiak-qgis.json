@@ -1,0 +1,7 @@
+{
+  "name": "nkarasiak-qgis",
+  "description": "Connects to QGIS for managing layers, editing features, running processing algorithms, rendering maps, and controlling projects through 50 specialized geospatial tools.",
+  "source_repo": "nkarasiak/qgis-mcp",
+  "source_url": "https://github.com/nkarasiak/qgis-mcp",
+  "install": "npx -y qgis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "noareikhav-city-data",
+  "description": "Provides AI assistants with US civic data including demographics, economics, crime, and employment across 30 major cities.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/noareikhav-city-data",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/noareikhav-city-data\n# See source for mcpServers config block"
+}

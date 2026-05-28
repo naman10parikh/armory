@@ -1,0 +1,7 @@
+{
+  "name": "pine-labs-plural",
+  "description": "Create payment orders, subscriptions, and UPI payments via Pine Labs' Plural payment gateway.",
+  "source_repo": "plural-pinelabs/pinelabs-online-mcp",
+  "source_url": "https://github.com/plural-pinelabs/pinelabs-online-mcp",
+  "install": "npx -y pinelabs-online-mcp"
+}

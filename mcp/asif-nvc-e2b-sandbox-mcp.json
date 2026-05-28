@@ -1,0 +1,7 @@
+{
+  "name": "asif-nvc-e2b-sandbox-mcp",
+  "description": "Connect Claude Code with E2B cloud sandboxes — 29 tools for creating isolated Linux VMs, cloning repos, running commands, managing files, and performing git operations without touching the local machine.",
+  "source_repo": "asif-nvc/e2b-sandbox-mcp",
+  "source_url": "https://github.com/asif-nvc/e2b-sandbox-mcp",
+  "install": "npx -y e2b-sandbox-mcp"
+}

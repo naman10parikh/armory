@@ -1,0 +1,7 @@
+{
+  "name": "qwang07-duckduckgo-search",
+  "description": "Integrates with DuckDuckGo's search engine to enable web searches for up-to-date information retrieval and fact-checking.",
+  "source_repo": "qwang07/duck-duck-mcp",
+  "source_url": "https://github.com/qwang07/duck-duck-mcp",
+  "install": "npx -y duck-duck-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "muhammed-abdelghany-rest-api",
+  "description": "Interact with REST APIs with automatic authentication, token caching, and OpenAPI endpoint discovery.",
+  "source_repo": "muhammed-abdelghany/rest_api_mcp",
+  "source_url": "https://github.com/muhammed-abdelghany/rest_api_mcp",
+  "install": "npx -y rest_api_mcp"
+}

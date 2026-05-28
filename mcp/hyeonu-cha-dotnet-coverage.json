@@ -1,0 +1,7 @@
+{
+  "name": "hyeonu-cha-dotnet-coverage",
+  "description": ".NET test coverage: run tests, parse Cobertura reports, find uncovered branches, and append tests.",
+  "source_repo": "hyeonu-cha/dotnet-coverage-mcp",
+  "source_url": "https://github.com/hyeonu-cha/dotnet-coverage-mcp",
+  "install": "npx -y dotnet-coverage-mcp"
+}

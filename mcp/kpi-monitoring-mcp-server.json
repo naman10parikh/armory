@@ -1,0 +1,7 @@
+{
+  "name": "kpi-monitoring-mcp-server",
+  "description": "MCP server providing data analytics tools for AI agents to load, clean, analyze data, generate charts and dashboards.",
+  "source_repo": "Safae-az/An-Agentic-MCP-Powered-AI-Ecosystem-for-Data-Analytics-",
+  "source_url": "https://github.com/Safae-az/An-Agentic-MCP-Powered-AI-Ecosystem-for-Data-Analytics-",
+  "install": "# git clone --depth 1 https://github.com/Safae-az/An-Agentic-MCP-Powered-AI-Ecosystem-for-Data-Analytics-\n# See source for mcpServers config block"
+}

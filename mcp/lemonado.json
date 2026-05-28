@@ -1,0 +1,7 @@
+{
+  "name": "lemonado",
+  "description": "Query business data in real time using SQL across tools, sheets, and databases",
+  "source_repo": "",
+  "source_url": "https://docs.lemonado.io/",
+  "install": "# git clone --depth 1 https://docs.lemonado.io/\n# See source for mcpServers config block"
+}

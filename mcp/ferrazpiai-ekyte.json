@@ -1,0 +1,7 @@
+{
+  "name": "ferrazpiai-ekyte",
+  "description": "Integrates Claude and other AI assistants with the Ekyte task management and time-tracking platform for reading workspaces and recording hours.",
+  "source_repo": "ferrazpiai/ekyte_mcp_server",
+  "source_url": "https://github.com/ferrazpiai/ekyte_mcp_server",
+  "install": "npx -y ekyte_mcp_server"
+}

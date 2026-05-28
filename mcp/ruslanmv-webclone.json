@@ -1,0 +1,7 @@
+{
+  "name": "ruslanmv-webclone",
+  "description": "Website cloning engine with intelligent crawling, asset downloading, PDF generation, authentication support, and dynamic content rendering for website archival, offline browsing, and data extraction workflows",
+  "source_repo": "ruslanmv/webclone",
+  "source_url": "https://github.com/ruslanmv/webclone",
+  "install": "# git clone --depth 1 https://github.com/ruslanmv/webclone\n# See source for mcpServers config block"
+}

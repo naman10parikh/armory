@@ -1,0 +1,7 @@
+{
+  "name": "wallisking1991-outlook-email",
+  "description": "Enables direct access to Microsoft Outlook email functionality for reading, searching, composing, and managing emails without leaving the conversation context.",
+  "source_repo": "wallisking1991/outlook-mcp-server",
+  "source_url": "https://github.com/wallisking1991/outlook-mcp-server",
+  "install": "npx -y outlook-mcp-server"
+}

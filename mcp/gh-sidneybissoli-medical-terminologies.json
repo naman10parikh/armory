@@ -1,0 +1,7 @@
+{
+  "name": "gh-sidneybissoli-medical-terminologies",
+  "description": "Unified access to global medical terminologies: ICD-11, SNOMED CT, LOINC, RxNorm, MeSH, ATC, CID-10.",
+  "source_repo": "sidneybissoli/medical-terminologies-mcp",
+  "source_url": "https://github.com/sidneybissoli/medical-terminologies-mcp",
+  "install": "npx -y medical-terminologies-mcp"
+}

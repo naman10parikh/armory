@@ -1,0 +1,7 @@
+{
+  "name": "mmorris35-devplan",
+  "description": "Transform project ideas into structured development plans with phases, tasks, and subtasks",
+  "source_repo": "mmorris35/devplan-mcp-server",
+  "source_url": "https://github.com/mmorris35/devplan-mcp-server",
+  "install": "npx -y devplan-mcp-server"
+}

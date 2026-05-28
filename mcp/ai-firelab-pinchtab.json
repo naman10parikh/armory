@@ -1,0 +1,7 @@
+{
+  "name": "ai-firelab-pinchtab",
+  "description": "Bridges browser automation through PinchTab's accessibility-tree snapshots and element references for web navigation, form filling, clicking, scrolling, and screenshot capture.",
+  "source_repo": "ai-firelab/mcp-pinchtab",
+  "source_url": "https://github.com/ai-firelab/mcp-pinchtab",
+  "install": "# git clone --depth 1 https://github.com/ai-firelab/mcp-pinchtab\n# See source for mcpServers config block"
+}

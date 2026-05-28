@@ -1,0 +1,7 @@
+{
+  "name": "gjenkins20-unofficial-fortimonitor-mcp-server",
+  "description": "Unofficial FortiMonitor v2 API integration with 241 tools for server monitoring, outages, maintenance, metrics, notifications, and more.",
+  "source_repo": "gjenkins20/unofficial-fortimonitor-mcp-server",
+  "source_url": "https://github.com/gjenkins20/unofficial-fortimonitor-mcp-server",
+  "install": "npx -y unofficial-fortimonitor-mcp-server"
+}

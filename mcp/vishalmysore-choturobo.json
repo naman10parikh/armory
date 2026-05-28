@@ -1,0 +1,7 @@
+{
+  "name": "vishalmysore-choturobo",
+  "description": "Connects Claude AI with physical hardware through a TypeScript server that translates natural language commands into robotic control actions for LEDs, motors, and sensors via WiFi communication.",
+  "source_repo": "vishalmysore/choturobo",
+  "source_url": "https://github.com/vishalmysore/choturobo",
+  "install": "# git clone --depth 1 https://github.com/vishalmysore/choturobo\n# See source for mcpServers config block"
+}

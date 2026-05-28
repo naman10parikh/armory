@@ -1,0 +1,7 @@
+{
+  "name": "plurality",
+  "description": "Universal memory for AI agents — save, organize, and semantically search context across tools and sessions.",
+  "source_repo": "web3-plurality/plurality-mcp-server",
+  "source_url": "https://github.com/web3-plurality/plurality-mcp-server",
+  "install": "npx -y plurality-mcp-server"
+}

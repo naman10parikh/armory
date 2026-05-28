@@ -1,0 +1,7 @@
+{
+  "name": "census-mcp-server",
+  "description": "Node.js MCP server enabling AI agents to access comprehensive U.S. Census Bureau demographic and economic data, including ACS, decennial census, and business patterns.",
+  "source_repo": "mattpodwysocki/census-mcp-server",
+  "source_url": "https://github.com/mattpodwysocki/census-mcp-server",
+  "install": "npx -y census-mcp-server"
+}

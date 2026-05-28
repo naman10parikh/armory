@@ -1,0 +1,7 @@
+{
+  "name": "gunnerpark-alt-clay",
+  "description": "Connects to Clay's data enrichment platform for schema analysis, row lookup, error diagnostics, and subroutine tracing.",
+  "source_repo": "gunnerpark-alt/slab-mcp",
+  "source_url": "https://github.com/gunnerpark-alt/slab-mcp",
+  "install": "npx -y slab-mcp"
+}

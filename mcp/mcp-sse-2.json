@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sse-2",
+  "description": "Mcp Sse MCP server listed on mcp.so.",
+  "source_repo": "the-vampiire/mcp-sse",
+  "source_url": "https://mcp.so/server/mcp-sse/the-vampiire",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-sse/the-vampiire\n# See source for mcpServers config block"
+}

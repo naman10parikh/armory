@@ -1,0 +1,7 @@
+{
+  "name": "hugging-face-mcp-server",
+  "description": "Connects LLMs to the Hugging Face Hub and thousands of Gradio AI applications, enabling model interaction and search.",
+  "source_repo": "huggingface/hf-mcp-server",
+  "source_url": "https://github.com/huggingface/hf-mcp-server",
+  "install": "npx -y hf-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "curiousbox-ai-prode",
+  "description": "Bridges the gap between your codebase and AI coding assistants by providing deep contextual understanding of your repositories. Get AI responses that understand your specific project structure, patterns, and history across multiple codebases.",
+  "source_repo": "",
+  "source_url": "https://docs.prode.ai/mcp-integration/overview",
+  "install": "# git clone --depth 1 https://docs.prode.ai/mcp-integration/overview\n# See source for mcpServers config block"
+}

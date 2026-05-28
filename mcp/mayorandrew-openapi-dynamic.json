@@ -1,0 +1,7 @@
+{
+  "name": "mayorandrew-openapi-dynamic",
+  "description": "Load OpenAPI specs and expose tools to discover, authenticate, and call multiple APIs through a single interface.",
+  "source_repo": "mayorandrew/openapi-dynamic-mcp",
+  "source_url": "https://github.com/mayorandrew/openapi-dynamic-mcp",
+  "install": "npx -y openapi-dynamic-mcp"
+}

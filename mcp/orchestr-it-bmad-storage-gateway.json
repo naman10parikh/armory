@@ -1,0 +1,7 @@
+{
+  "name": "orchestr-it-bmad-storage-gateway",
+  "description": "Provides filesystem abstraction for BMAD agent workflows through a URI-based interface with switchable storage providers and document-centric operations.",
+  "source_repo": "orchestr-it/bmad-mcp-agents",
+  "source_url": "https://github.com/orchestr-it/bmad-mcp-agents/tree/HEAD/mcp/storage_gateway",
+  "install": "# git clone --depth 1 https://github.com/orchestr-it/bmad-mcp-agents/tree/HEAD/mcp/storage_gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hellovelop-limelink-mcp-server",
+  "description": "Limelink dynamic links with deep linking, social previews, and UTM tracking.",
+  "source_repo": "hellovelop/limelink-mcp-server",
+  "source_url": "https://github.com/hellovelop/limelink-mcp-server",
+  "install": "npx -y limelink-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vector-task-mcp-server",
+  "description": "A secure, vector-based task management server for Claude Desktop using sqlite-vec and sentence-transformers. It provides intelligent task tracking with semantic search capabilities to organize and retrieve development tasks efficiently.",
+  "source_repo": "Xsaven/vector-task-mcp",
+  "source_url": "https://github.com/Xsaven/vector-task-mcp",
+  "install": "npx -y vector-task-mcp"
+}

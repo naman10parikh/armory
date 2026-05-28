@@ -1,0 +1,7 @@
+{
+  "name": "alyiox-atlassian-attachments",
+  "description": "Download Jira and Confluence Cloud attachments by attachment ID via the Atlassian API.",
+  "source_repo": "alyiox/mcp-atlassian-attachments",
+  "source_url": "https://github.com/alyiox/mcp-atlassian-attachments",
+  "install": "# git clone --depth 1 https://github.com/alyiox/mcp-atlassian-attachments\n# See source for mcpServers config block"
+}

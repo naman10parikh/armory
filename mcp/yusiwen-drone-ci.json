@@ -1,0 +1,7 @@
+{
+  "name": "yusiwen-drone-ci",
+  "description": "Interact with Drone CI/CD pipelines to manage repositories, builds, secrets, and cron jobs.",
+  "source_repo": "yusiwen/drone-mcp-server",
+  "source_url": "https://github.com/yusiwen/drone-mcp-server",
+  "install": "npx -y drone-mcp-server"
+}

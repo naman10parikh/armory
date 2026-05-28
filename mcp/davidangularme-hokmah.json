@@ -1,0 +1,7 @@
+{
+  "name": "davidangularme-hokmah",
+  "description": "Persistent codebase understanding via architectural graphs for impact analysis and code generation.",
+  "source_repo": "davidangularme/hokmah-mcp-server",
+  "source_url": "https://github.com/davidangularme/hokmah-mcp-server",
+  "install": "npx -y hokmah-mcp-server"
+}

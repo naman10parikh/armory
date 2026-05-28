@@ -1,0 +1,7 @@
+{
+  "name": "berlinbra-bluesky",
+  "description": "Integrates with BlueSky's API to retrieve user profiles and social graph data, enabling user analysis, network visualization, and content discovery.",
+  "source_repo": "berlinbra/bluesky-mcp",
+  "source_url": "https://github.com/berlinbra/bluesky-mcp",
+  "install": "npx -y bluesky-mcp"
+}

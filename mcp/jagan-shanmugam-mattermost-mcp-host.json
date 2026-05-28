@@ -1,0 +1,7 @@
+{
+  "name": "jagan-shanmugam-mattermost-mcp-host",
+  "description": "A MCP server along with MCP host that provides access to Mattermost teams, channels and messages. MCP host is integrated as a bot in Mattermost with access to MCP servers that can be configured.",
+  "source_repo": "jagan-shanmugam/mattermost-mcp-host",
+  "source_url": "https://github.com/jagan-shanmugam/mattermost-mcp-host",
+  "install": "# git clone --depth 1 https://github.com/jagan-shanmugam/mattermost-mcp-host\n# See source for mcpServers config block"
+}

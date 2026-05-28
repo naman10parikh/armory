@@ -1,0 +1,7 @@
+{
+  "name": "xiaolai-codex-octopus",
+  "description": "MCP server that spawns multiple specialized OpenAI Codex agents with distinct personalities and constraints for multi-agent coding workflows.",
+  "source_repo": "xiaolai/codex-octopus",
+  "source_url": "https://github.com/xiaolai/codex-octopus",
+  "install": "# git clone --depth 1 https://github.com/xiaolai/codex-octopus\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neglect-solana",
+  "description": "Billions of Solana DeFi TXNs, decoded and accessible via LLM",
+  "source_repo": "neglectapp/mcp",
+  "source_url": "https://github.com/neglectapp/mcp",
+  "install": "# git clone --depth 1 https://github.com/neglectapp/mcp\n# See source for mcpServers config block"
+}

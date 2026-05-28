@@ -1,0 +1,7 @@
+{
+  "name": "trpc-a2a-go",
+  "description": "Go implementation for A2A (Agent2Agent) protocol",
+  "source_repo": "trpc-group/trpc-a2a-go",
+  "source_url": "https://github.com/trpc-group/trpc-a2a-go",
+  "install": "# git clone --depth 1 https://github.com/trpc-group/trpc-a2a-go\n# See source for mcpServers config block"
+}

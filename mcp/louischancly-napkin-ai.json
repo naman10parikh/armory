@@ -1,0 +1,7 @@
+{
+  "name": "louischancly-napkin-ai",
+  "description": "Generate infographics and visuals from text input with multiple output formats and storage destinations",
+  "source_repo": "louischancly/napkin-ai-mcp",
+  "source_url": "https://github.com/louischancly/napkin-ai-mcp",
+  "install": "npx -y napkin-ai-mcp"
+}

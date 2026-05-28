@@ -1,0 +1,7 @@
+{
+  "name": "eztexting",
+  "description": "Official EZTexting MCP server: SMS/MMS messaging, contacts, workflows, and account administration.",
+  "source_repo": "",
+  "source_url": "https://gitlab.com/eztexting/mcp-server",
+  "install": "# git clone --depth 1 https://gitlab.com/eztexting/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "divyam-agg-spotify",
+  "description": "Provides a bridge to the Spotify API for retrieving artist information, enabling seamless music data exploration through a TypeScript-based implementation.",
+  "source_repo": "divyamagg24/spotifymcp",
+  "source_url": "https://github.com/divyamagg24/spotifymcp",
+  "install": "# git clone --depth 1 https://github.com/divyamagg24/spotifymcp\n# See source for mcpServers config block"
+}

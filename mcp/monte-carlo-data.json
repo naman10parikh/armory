@@ -1,0 +1,7 @@
+{
+  "name": "monte-carlo-data",
+  "description": "Data observability and data quality MCP tools for monitoring, triaging, and troubleshooting data pipelines.",
+  "source_repo": "monte-carlo-data/mcp",
+  "source_url": "https://github.com/monte-carlo-data/mcp",
+  "install": "# git clone --depth 1 https://github.com/monte-carlo-data/mcp\n# See source for mcpServers config block"
+}

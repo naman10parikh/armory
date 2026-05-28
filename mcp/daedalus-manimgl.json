@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-manimgl",
+  "description": "Mathematical animation creation via ManimGL with 40+ tools for shapes, LaTeX, 3D objects, and audio.",
+  "source_repo": "daedalus/mcp-manimgl",
+  "source_url": "https://github.com/daedalus/mcp-manimgl",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-manimgl\n# See source for mcpServers config block"
+}

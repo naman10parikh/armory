@@ -1,0 +1,7 @@
+{
+  "name": "wso2-fhir",
+  "description": "Access FHIR-compliant healthcare APIs from AI tools and agent workflows.",
+  "source_repo": "wso2/fhir-mcp-server",
+  "source_url": "https://github.com/wso2/fhir-mcp-server",
+  "install": "npx -y fhir-mcp-server"
+}

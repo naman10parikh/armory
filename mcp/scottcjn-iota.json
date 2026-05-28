@@ -1,0 +1,7 @@
+{
+  "name": "scottcjn-iota",
+  "description": "Provides 20 tools for IOTA blockchain interaction including wallet management, Move smart contract development, and on-chain queries with human-in-the-loop transaction signing.",
+  "source_repo": "scottcjn/iota-agent-mcp",
+  "source_url": "https://github.com/scottcjn/iota-agent-mcp",
+  "install": "npx -y iota-agent-mcp"
+}

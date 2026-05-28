@@ -1,0 +1,7 @@
+{
+  "name": "watertian-wechat-devtools",
+  "description": "Automate WeChat Mini Program development and testing through the WeChat DevTools CLI.",
+  "source_repo": "watertian/wechat-devtools-mcp",
+  "source_url": "https://github.com/watertian/wechat-devtools-mcp",
+  "install": "npx -y wechat-devtools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "revolutionarybukhari-psx",
+  "description": "Provides Pakistan Stock Exchange data including quotes, dividends, announcements, and indices.",
+  "source_repo": "revolutionarybukhari/psx-mcp",
+  "source_url": "https://github.com/revolutionarybukhari/psx-mcp",
+  "install": "npx -y psx-mcp"
+}

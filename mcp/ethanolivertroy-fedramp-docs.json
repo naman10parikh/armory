@@ -1,0 +1,7 @@
+{
+  "name": "ethanolivertroy-fedramp-docs",
+  "description": "Provides access to FedRAMP documentation and compliance data, enabling search through security requirements, control mappings, and guidance documents with specialized functions for tracking Key Security Indicators, Methods and Assessment Standards, and NIST control references.",
+  "source_repo": "hackidle/fedramp-docs-mcp",
+  "source_url": "https://github.com/hackidle/fedramp-docs-mcp",
+  "install": "npx -y fedramp-docs-mcp"
+}

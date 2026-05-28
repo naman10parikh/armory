@@ -1,0 +1,7 @@
+{
+  "name": "icons8-mcp-server",
+  "description": "🚀 Access MCP server SVG and PNG icons for your vibe-coding projects! 🎨 Icon Packs * 40,000+ icons * Endless creative possibilities! 🤖 Seamless Integration * Works with Windsurf, Claude Code, Cursor, and other AI coding tools 🔄 Easy Customization * Replace all icons with trendy designs * Customiz",
+  "source_repo": "",
+  "source_url": "https://icons8.com/mcp",
+  "install": "# git clone --depth 1 https://icons8.com/mcp\n# See source for mcpServers config block"
+}

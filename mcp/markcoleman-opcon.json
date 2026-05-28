@@ -1,0 +1,7 @@
+{
+  "name": "markcoleman-opcon",
+  "description": "Integrates with SMA Technologies' OpCon workload automation platform with 257 auto-generated tools for job scheduling and monitoring",
+  "source_repo": "markcoleman/opyconymcpy",
+  "source_url": "https://github.com/markcoleman/opyconymcpy",
+  "install": "# git clone --depth 1 https://github.com/markcoleman/opyconymcpy\n# See source for mcpServers config block"
+}

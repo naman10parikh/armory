@@ -1,0 +1,7 @@
+{
+  "name": "for-sunny-hebbian-mind-enterprise",
+  "description": "Associative memory server using Hebbian learning where concept connections strengthen through co-activation and weaken through disuse.",
+  "source_repo": "for-sunny/hebbian-mind-enterprise",
+  "source_url": "https://github.com/for-sunny/hebbian-mind-enterprise",
+  "install": "# git clone --depth 1 https://github.com/for-sunny/hebbian-mind-enterprise\n# See source for mcpServers config block"
+}

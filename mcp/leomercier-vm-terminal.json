@@ -1,0 +1,7 @@
+{
+  "name": "leomercier-vm-terminal",
+  "description": "Provides a secure web-based terminal interface for remote VM command execution through WebSocket connections and automatic tunnel creation, eliminating the need for direct SSH access.",
+  "source_repo": "leomercier/mcp-tunnel",
+  "source_url": "https://github.com/leomercier/mcp-tunnel",
+  "install": "# git clone --depth 1 https://github.com/leomercier/mcp-tunnel\n# See source for mcpServers config block"
+}

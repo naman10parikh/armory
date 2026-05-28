@@ -1,0 +1,7 @@
+{
+  "name": "tarnover-ansible",
+  "description": "Integrates with Ansible to enable infrastructure automation through direct execution of playbooks, ad-hoc commands, inventory management, and AWS resource operations for DevOps workflows",
+  "source_repo": "tarnover/mcp-sysoperator",
+  "source_url": "https://github.com/tarnover/mcp-sysoperator",
+  "install": "# git clone --depth 1 https://github.com/tarnover/mcp-sysoperator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "syedjami-weather",
+  "description": "Python template demonstrating MCP server structure with weather integration for developers building custom servers.",
+  "source_repo": "syedjami/syedmcpserver",
+  "source_url": "https://github.com/syedjami/syedmcpserver/tree/HEAD/weather",
+  "install": "# git clone --depth 1 https://github.com/syedjami/syedmcpserver/tree/HEAD/weather\n# See source for mcpServers config block"
+}

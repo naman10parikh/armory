@@ -1,0 +1,7 @@
+{
+  "name": "dreamfactory",
+  "description": "Enables AI to interact with databases through DreamFactory's REST API, providing secure, structured access to schemas, data, and stored procedures without direct credential exposure.",
+  "source_repo": "dreamfactorysoftware/df-mcp",
+  "source_url": "https://github.com/dreamfactorysoftware/df-mcp",
+  "install": "npx -y df-mcp"
+}

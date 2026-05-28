@@ -1,0 +1,7 @@
+{
+  "name": "ikoreyoshii-netbrain",
+  "description": "Manage network devices through SSH, Telnet, and SNMP protocols with support for configuration management, topology discovery, and real-time monitoring across Cisco and Huawei equipment",
+  "source_repo": "ikoreyoshii/netbrain_mcp",
+  "source_url": "https://github.com/ikoreyoshii/netbrain_mcp",
+  "install": "npx -y netbrain_mcp"
+}

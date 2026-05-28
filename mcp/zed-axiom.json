@@ -1,0 +1,7 @@
+{
+  "name": "zed-axiom",
+  "description": "Integrates with Axiom's log management platform to query and analyze log data directly within Zed, enabling developers to investigate application logs and troubleshoot issues without leaving their coding environment.",
+  "source_repo": "zed-extensions/mcp-server-axiom",
+  "source_url": "https://github.com/zed-extensions/mcp-server-axiom",
+  "install": "# git clone --depth 1 https://github.com/zed-extensions/mcp-server-axiom\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dataiku-dss-mcp-server",
+  "description": "A comprehensive MCP server for Dataiku DSS integration, providing Claude Code with direct access to manage recipes, datasets, and scenarios.",
+  "source_repo": "steven0lisa/mcp-dataiku",
+  "source_url": "https://github.com/steven0lisa/mcp-dataiku",
+  "install": "# git clone --depth 1 https://github.com/steven0lisa/mcp-dataiku\n# See source for mcpServers config block"
+}

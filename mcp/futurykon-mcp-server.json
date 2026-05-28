@@ -1,0 +1,7 @@
+{
+  "name": "futurykon-mcp-server",
+  "description": "Connects AI agents to the Futurykon prediction platform, enabling them to query and interact with prediction questions, manage predictions, and view leaderboards.",
+  "source_repo": "Futurykon/futurykon-mcp",
+  "source_url": "https://github.com/Futurykon/futurykon-mcp",
+  "install": "npx -y futurykon-mcp"
+}

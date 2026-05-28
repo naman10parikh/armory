@@ -1,0 +1,7 @@
+{
+  "name": "cropgraph",
+  "description": "Garden planning MCP with a database of 1,000 crops, climate-aware planting schedules, and companion plant relationships.",
+  "source_repo": "cropgraph/cropgraph",
+  "source_url": "https://github.com/cropgraph/cropgraph",
+  "install": "# git clone --depth 1 https://github.com/cropgraph/cropgraph\n# See source for mcpServers config block"
+}

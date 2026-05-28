@@ -1,0 +1,7 @@
+{
+  "name": "icons8mcp-4",
+  "description": "icons8mcp",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/icons8community/icons8mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/icons8community/icons8mcp\n# See source for mcpServers config block"
+}

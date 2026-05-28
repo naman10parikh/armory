@@ -1,0 +1,7 @@
+{
+  "name": "scald-tesla-fleet",
+  "description": "Integrates with the Tesla Fleet API to enable vehicle monitoring and control through OAuth 2.0 authentication, allowing for wake-up commands, information retrieval, and real-time data refreshing of Tesla vehicles.",
+  "source_repo": "scald/tesla-mcp",
+  "source_url": "https://github.com/scald/tesla-mcp",
+  "install": "npx -y tesla-mcp"
+}

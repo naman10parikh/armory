@@ -1,0 +1,7 @@
+{
+  "name": "toolprint-graphql-forge",
+  "description": "Automatically converts any GraphQL API into individual tools through schema introspection and intelligent caching, enabling seamless integration with GraphQL-based services like GitHub or Shopify APIs without manual tool definition.",
+  "source_repo": "toolprint/mcp-graphql-forge",
+  "source_url": "https://github.com/toolprint/mcp-graphql-forge",
+  "install": "# git clone --depth 1 https://github.com/toolprint/mcp-graphql-forge\n# See source for mcpServers config block"
+}

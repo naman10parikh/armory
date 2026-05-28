@@ -1,0 +1,7 @@
+{
+  "name": "theoriginalaiexplorer-redfish",
+  "description": "Integrates with Redfish-compliant server management interfaces to enable hardware monitoring and control operations on enterprise servers and BMCs for datacenter automation and infrastructure management workflows.",
+  "source_repo": "theoriginalaiexplorer/mcp-redfish-go",
+  "source_url": "https://github.com/theoriginalaiexplorer/mcp-redfish-go",
+  "install": "# git clone --depth 1 https://github.com/theoriginalaiexplorer/mcp-redfish-go\n# See source for mcpServers config block"
+}

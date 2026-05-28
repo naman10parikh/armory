@@ -1,0 +1,7 @@
+{
+  "name": "ariekogan-ateam-mcp",
+  "description": "Build, validate, and deploy multi-agent AI solutions on the ADAS platform. Design skills with tools, manage solution lifecycle, and connect from any AI environment via stdio or HTTP.",
+  "source_repo": "ariekogan/ateam-mcp",
+  "source_url": "https://github.com/ariekogan/ateam-mcp",
+  "install": "npx -y ateam-mcp"
+}

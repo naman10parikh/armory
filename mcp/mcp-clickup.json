@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clickup",
+  "description": "Mcp Clickup MCP server listed on mcp.so.",
+  "source_repo": "johaneriksson-io/mcp-clickup",
+  "source_url": "https://mcp.so/server/mcp-clickup/johaneriksson-io",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-clickup/johaneriksson-io\n# See source for mcpServers config block"
+}

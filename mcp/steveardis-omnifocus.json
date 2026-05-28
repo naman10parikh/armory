@@ -1,0 +1,7 @@
+{
+  "name": "steveardis-omnifocus",
+  "description": "Full CRUD MCP server for OmniFocus via Omni Automation — tasks, projects, folders, tags, recurrence.",
+  "source_repo": "steveardis/omnifocus-mcp",
+  "source_url": "https://github.com/steveardis/omnifocus-mcp",
+  "install": "npx -y omnifocus-mcp"
+}

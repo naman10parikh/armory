@@ -1,0 +1,7 @@
+{
+  "name": "tollboothlabs-ai-tool-optimizer",
+  "description": "Reduces MCP tool description token costs by 40-70% through pure text schema distillation.",
+  "source_repo": "TollboothLabs/ai-tool-optimizer",
+  "source_url": "https://github.com/TollboothLabs/ai-tool-optimizer",
+  "install": "# git clone --depth 1 https://github.com/TollboothLabs/ai-tool-optimizer\n# See source for mcpServers config block"
+}

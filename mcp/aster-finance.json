@@ -1,0 +1,7 @@
+{
+  "name": "aster-finance",
+  "description": "Integrates with Aster Finance API to provide cryptocurrency futures trading data including kline charts, price statistics, funding rates, order books, and recent trades formatted as Markdown tables for market analysis and trading strategies.",
+  "source_repo": "kukapay/aster-info-mcp",
+  "source_url": "https://github.com/kukapay/aster-info-mcp",
+  "install": "npx -y aster-info-mcp"
+}

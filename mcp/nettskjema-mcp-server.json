@@ -1,0 +1,7 @@
+{
+  "name": "nettskjema-mcp-server",
+  "description": "Enables interaction with Nettskjema forms, submissions, invitations, and data export through the MCP protocol.",
+  "source_repo": "orjahren/nettskjema-mcp",
+  "source_url": "https://github.com/orjahren/nettskjema-mcp",
+  "install": "npx -y nettskjema-mcp"
+}

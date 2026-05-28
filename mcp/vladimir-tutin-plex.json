@@ -1,0 +1,7 @@
+{
+  "name": "vladimir-tutin-plex",
+  "description": "Integrates with Plex media servers to enable browsing, searching, and managing media libraries, including content querying, metadata editing, poster management, and playback control.",
+  "source_repo": "vladimir-tutin/plex-mcp-server",
+  "source_url": "https://github.com/vladimir-tutin/plex-mcp-server",
+  "install": "npx -y plex-mcp-server"
+}

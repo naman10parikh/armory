@@ -1,0 +1,7 @@
+{
+  "name": "kush36agrawal-video-editor",
+  "description": "Integrates FFmpeg for video editing operations, enabling tasks like trimming, merging, and format conversion through natural language commands.",
+  "source_repo": "kush36agrawal/video_editor_mcp",
+  "source_url": "https://github.com/kush36agrawal/video_editor_mcp",
+  "install": "npx -y video_editor_mcp"
+}

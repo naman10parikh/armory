@@ -1,0 +1,7 @@
+{
+  "name": "cookwith-recipe",
+  "description": "Generate and transform recipes with dietary preferences and nutritional goals",
+  "source_repo": "valetdotdev/recipe-mcp",
+  "source_url": "https://github.com/valetdotdev/recipe-mcp",
+  "install": "npx -y recipe-mcp"
+}

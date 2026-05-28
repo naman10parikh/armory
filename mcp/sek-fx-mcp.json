@@ -1,0 +1,7 @@
+{
+  "name": "sek-fx-mcp",
+  "description": "Fetches exchange rates from Riksbanken API for currencies to Swedish kronor using ISO 4217 codes.",
+  "source_repo": "bromaniac/sek-fx-mcp",
+  "source_url": "https://github.com/bromaniac/sek-fx-mcp",
+  "install": "npx -y sek-fx-mcp"
+}

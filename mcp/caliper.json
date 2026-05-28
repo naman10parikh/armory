@@ -1,0 +1,7 @@
+{
+  "name": "caliper",
+  "description": "Geometry and CAD file metadata extraction for STL, OBJ, PLY, PCD, LAS/LAZ, and glTF/GLB formats.",
+  "source_repo": "",
+  "source_url": "https://caliper.fit",
+  "install": "# git clone --depth 1 https://caliper.fit\n# See source for mcpServers config block"
+}

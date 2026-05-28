@@ -1,0 +1,7 @@
+{
+  "name": "mcp-notify-server",
+  "description": "Mcp Notify Server MCP server listed on mcp.so.",
+  "source_repo": "mkusaka/mcp-notify-server",
+  "source_url": "https://mcp.so/server/mcp-notify-server/mkusaka",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-notify-server/mkusaka\n# See source for mcpServers config block"
+}

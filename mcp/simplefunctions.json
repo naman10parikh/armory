@@ -1,0 +1,7 @@
+{
+  "name": "simplefunctions",
+  "description": "Prediction market intelligence platform with tools for thesis modeling, market scanning, edge detection, and trading on Kalshi and Polymarket.",
+  "source_repo": "spfunctions/simplefunctions-cli",
+  "source_url": "https://github.com/spfunctions/simplefunctions-cli",
+  "install": "# git clone --depth 1 https://github.com/spfunctions/simplefunctions-cli\n# See source for mcpServers config block"
+}

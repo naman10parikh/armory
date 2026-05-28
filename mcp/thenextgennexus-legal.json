@@ -1,0 +1,7 @@
+{
+  "name": "thenextgennexus-legal",
+  "description": "Legal documents, court records, and case law data for AI assistants.",
+  "source_repo": "",
+  "source_url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/legal-mcp-server/mcp",
+  "install": "# git clone --depth 1 https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/legal-mcp-server/mcp\n# See source for mcpServers config block"
+}

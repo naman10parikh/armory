@@ -1,0 +1,7 @@
+{
+  "name": "evillimiter-mcp-server",
+  "description": "Enables AI assistants to control network bandwidth, monitor traffic, and manage device connections via EvilLimiter for authorized network testing and debugging.",
+  "source_repo": "i3T4AN/evillimiter-mcp-server",
+  "source_url": "https://github.com/i3T4AN/evillimiter-mcp-server",
+  "install": "npx -y evillimiter-mcp-server"
+}

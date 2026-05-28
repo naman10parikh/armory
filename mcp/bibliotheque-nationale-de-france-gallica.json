@@ -1,0 +1,7 @@
+{
+  "name": "bibliotheque-nationale-de-france-gallica",
+  "description": "Enables searching and generating research reports from the Bibliothèque Nationale de France's Gallica digital library through natural language queries or specific metadata fields with automatic citation and organization.",
+  "source_repo": "kryzo/mcp-bibliotheque_nationale_de_france",
+  "source_url": "https://github.com/kryzo/mcp-bibliotheque_nationale_de_france",
+  "install": "# git clone --depth 1 https://github.com/kryzo/mcp-bibliotheque_nationale_de_france\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "psychiatry-for-children",
+  "description": "Provides searchable access to clinician-reviewed articles on pediatric psychiatry for parents and caregivers.",
+  "source_repo": "",
+  "source_url": "https://childpsychiatry.ai",
+  "install": "# git clone --depth 1 https://childpsychiatry.ai\n# See source for mcpServers config block"
+}

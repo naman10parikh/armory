@@ -1,0 +1,7 @@
+{
+  "name": "tifa365-berlin-opendata",
+  "description": "Provides access to Berlin's open data portal with 6 tools for CKAN catalog search, dataset analysis, and exploration across 2500+ municipal datasets.",
+  "source_repo": "tifa365/berlin-opendata-mcp",
+  "source_url": "https://github.com/tifa365/berlin-opendata-mcp",
+  "install": "npx -y berlin-opendata-mcp"
+}

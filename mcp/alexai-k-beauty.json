@@ -1,0 +1,7 @@
+{
+  "name": "alexai-k-beauty",
+  "description": "Provides specialized Korean skincare and cosmetics knowledge with curated brand data, ingredient analysis, and personalized routine recommendations for different skin types and concerns.",
+  "source_repo": "alexai-mcp/k-beauty-mcp",
+  "source_url": "https://github.com/alexai-mcp/k-beauty-mcp",
+  "install": "npx -y k-beauty-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grimoire",
+  "description": "TTRPG campaign database for AI assistants: NPCs, locations, factions, quests, sessions, lore, and knowledge graphs.",
+  "source_repo": "zafety-vibin/grimoire-mcp",
+  "source_url": "https://github.com/zafety-vibin/grimoire-mcp",
+  "install": "npx -y grimoire-mcp"
+}

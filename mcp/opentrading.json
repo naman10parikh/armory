@@ -1,0 +1,7 @@
+{
+  "name": "opentrading",
+  "description": "An open-source AI trading agent for MetaTrader 5 with MCP support, connecting AI clients to MT5 for market data, analysis, and risk-gated trading.",
+  "source_repo": "hyuwowo/opentrading",
+  "source_url": "https://github.com/hyuwowo/opentrading",
+  "install": "# git clone --depth 1 https://github.com/hyuwowo/opentrading\n# See source for mcpServers config block"
+}

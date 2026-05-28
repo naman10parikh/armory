@@ -1,0 +1,7 @@
+{
+  "name": "fyndling",
+  "description": "# fyndling-mcp Built for **medieval market fans, reenactors, and living-history enthusiasts** — and the AI assistants that help them plan. Fyndling MCP gives AI clients direct access to two niche European datasets: - **Medieval events** — query 2,000+ markets, concerts, castle experiences, and livin",
+  "source_repo": "",
+  "source_url": "https://fyndling.de",
+  "install": "# git clone --depth 1 https://fyndling.de\n# See source for mcpServers config block"
+}

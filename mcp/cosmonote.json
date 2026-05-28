@@ -1,0 +1,7 @@
+{
+  "name": "cosmonote",
+  "description": "AI note-taking MCP server for accessing audio transcriptions, summaries, and action items.",
+  "source_repo": "cosmonote/pocketbase",
+  "source_url": "https://github.com/cosmonote/pocketbase",
+  "install": "# git clone --depth 1 https://github.com/cosmonote/pocketbase\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "k8s-mcp",
+  "description": "A lightweight MCP server that enables AI assistants to deploy, inspect, and operate Kubernetes workloads through high-level workflow tools, reducing token usage with structured outputs.",
+  "source_repo": "jingyanjiang/k8s-mcp",
+  "source_url": "https://github.com/jingyanjiang/k8s-mcp",
+  "install": "npx -y k8s-mcp"
+}

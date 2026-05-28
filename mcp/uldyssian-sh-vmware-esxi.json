@@ -1,0 +1,7 @@
+{
+  "name": "uldyssian-sh-vmware-esxi",
+  "description": "Integrates with VMware ESXi hypervisors for direct virtual machine lifecycle management, host maintenance operations, resource monitoring, and snapshot management without requiring vCenter Server.",
+  "source_repo": "uldyssian-sh/vmware-esxi-mcp",
+  "source_url": "https://github.com/uldyssian-sh/vmware-esxi-mcp",
+  "install": "npx -y vmware-esxi-mcp"
+}

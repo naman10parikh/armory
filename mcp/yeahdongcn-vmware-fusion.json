@@ -1,0 +1,7 @@
+{
+  "name": "yeahdongcn-vmware-fusion",
+  "description": "Integrates with VMware Fusion's REST API to manage virtual machine lifecycles including power operations, configuration retrieval, and status monitoring for local development environments.",
+  "source_repo": "yeahdongcn/vmware-fusion-mcp-server",
+  "source_url": "https://github.com/yeahdongcn/vmware-fusion-mcp-server",
+  "install": "npx -y vmware-fusion-mcp-server"
+}

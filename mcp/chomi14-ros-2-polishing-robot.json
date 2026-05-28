@@ -1,0 +1,7 @@
+{
+  "name": "chomi14-ros-2-polishing-robot",
+  "description": "Bridges ROS 2 robotics systems with AI via rosbridge for polishing robot data processing and execution.",
+  "source_repo": "chomi14/ros-mcp-server",
+  "source_url": "https://github.com/chomi14/ros-mcp-server",
+  "install": "npx -y ros-mcp-server"
+}

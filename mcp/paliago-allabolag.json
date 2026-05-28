@@ -1,0 +1,7 @@
+{
+  "name": "paliago-allabolag",
+  "description": "Provides a bridge to the Swedish company registry database for searching companies by name or location and retrieving detailed business information including revenue, employee count, and industry classification.",
+  "source_repo": "paliago/allabolag-mcp",
+  "source_url": "https://github.com/paliago/allabolag-mcp",
+  "install": "npx -y allabolag-mcp"
+}

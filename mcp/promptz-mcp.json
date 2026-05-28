@@ -1,0 +1,7 @@
+{
+  "name": "promptz-mcp",
+  "description": "Promptz Mcp MCP server listed on mcp.so.",
+  "source_repo": "cremich/promptz-mcp",
+  "source_url": "https://mcp.so/server/promptz-mcp/cremich",
+  "install": "npx -y promptz-mcp"
+}

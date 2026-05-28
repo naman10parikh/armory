@@ -1,0 +1,7 @@
+{
+  "name": "osinmv-funciton-lookup-mcp",
+  "description": "MCP server for function signature lookups.",
+  "source_repo": "osinmv/function-lookup-mcp",
+  "source_url": "https://github.com/osinmv/function-lookup-mcp",
+  "install": "npx -y function-lookup-mcp"
+}

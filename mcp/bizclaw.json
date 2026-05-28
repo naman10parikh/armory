@@ -1,0 +1,7 @@
+{
+  "name": "bizclaw",
+  "description": "Search, compare, and contact real-world companies through a public MCP business directory.",
+  "source_repo": "",
+  "source_url": "https://bizclaw.xyz/for-agents",
+  "install": "# git clone --depth 1 https://bizclaw.xyz/for-agents\n# See source for mcpServers config block"
+}

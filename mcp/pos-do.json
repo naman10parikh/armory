@@ -1,0 +1,7 @@
+{
+  "name": "pos-do",
+  "description": "Restaurant discovery MCP for 356K+ venues across 50+ countries with reviews, cultural context, and booking support.",
+  "source_repo": "posdo-io/mcp-server",
+  "source_url": "https://github.com/posdo-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/posdo-io/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hritik003-linkedin-integration",
+  "description": "Integrates with LinkedIn to enable profile retrieval, job searching, feed post access, and resume analysis for automated platform engagement.",
+  "source_repo": "hritik003/linkedin-mcp",
+  "source_url": "https://github.com/hritik003/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

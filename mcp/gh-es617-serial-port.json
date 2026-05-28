@@ -1,0 +1,7 @@
+{
+  "name": "gh-es617-serial-port",
+  "description": "Serial port communication with line-oriented I/O, control lines, and device plugins.",
+  "source_repo": "es617/serial-mcp-server",
+  "source_url": "https://github.com/es617/serial-mcp-server",
+  "install": "npx -y serial-mcp-server"
+}

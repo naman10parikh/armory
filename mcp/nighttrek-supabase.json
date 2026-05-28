@@ -1,0 +1,7 @@
+{
+  "name": "nighttrek-supabase",
+  "description": "Bridges Supabase databases with natural language commands for querying tables, generating TypeScript types, and exploring schemas.",
+  "source_repo": "nighttrek/supabase-mcp",
+  "source_url": "https://github.com/nighttrek/supabase-mcp",
+  "install": "npx -y supabase-mcp"
+}

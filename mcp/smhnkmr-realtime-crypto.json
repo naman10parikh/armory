@@ -1,0 +1,7 @@
+{
+  "name": "smhnkmr-realtime-crypto",
+  "description": "Provides real-time cryptocurrency data through the CoinCap API, offering detailed exchange information and current rates with robust error handling and automatic retries.",
+  "source_repo": "smhnkmr/realtime-crypto-mcp-server",
+  "source_url": "https://github.com/smhnkmr/realtime-crypto-mcp-server",
+  "install": "npx -y realtime-crypto-mcp-server"
+}

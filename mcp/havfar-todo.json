@@ -1,0 +1,7 @@
+{
+  "name": "havfar-todo",
+  "description": "Provides complete todo list management with SQLite persistence, enabling task creation, completion tracking, deletion, and search functionality through five core tools for organizing and maintaining persistent todo lists.",
+  "source_repo": "havfar/todo-mcp-server",
+  "source_url": "https://github.com/havfar/todo-mcp-server",
+  "install": "npx -y todo-mcp-server"
+}

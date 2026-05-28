@@ -1,0 +1,7 @@
+{
+  "name": "minuet",
+  "description": "Exposes Minuet's ERC-8004 agent relationship graph for AI agent discovery and coordination.",
+  "source_repo": "minuetai/minuet-mcp",
+  "source_url": "https://github.com/minuetai/minuet-mcp",
+  "install": "npx -y minuet-mcp"
+}

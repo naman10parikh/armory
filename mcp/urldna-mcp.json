@@ -1,0 +1,7 @@
+{
+  "name": "urldna-mcp",
+  "description": "MCP server for automated URL scanning and forensic phishing triage. Captures full DOM snapshots, network requests, and visual screenshots to identify malicious redirects and infrastructure. Supports historical threat hunting using Custom Query Language (CQL) to map actor patterns across millions of recorded scans.",
+  "source_repo": "urldna/mcp",
+  "source_url": "https://github.com/urldna/mcp",
+  "install": "# git clone --depth 1 https://github.com/urldna/mcp\n# See source for mcpServers config block"
+}

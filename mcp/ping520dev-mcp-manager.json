@@ -1,0 +1,7 @@
+{
+  "name": "ping520dev-mcp-manager",
+  "description": "Provides a graphical interface for managing and configuring MCP server connections.",
+  "source_repo": "ping520dev/mcp-gui",
+  "source_url": "https://github.com/ping520dev/mcp-gui",
+  "install": "# git clone --depth 1 https://github.com/ping520dev/mcp-gui\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "janaraj-tnl",
+  "description": "MCP server for TNL (Typed Natural Language): per-feature English contracts for AI coding agents. 6 tools — `get_impacted_tnls`, `retrieve_tnl`, `trace`, `propose_tnl_diff`, `approve_tnl_diff`, `verify` — let agents look up relevant contracts, propose contract edits, and verify implementations against them. Drop-in via `npx typed-nl init` for Claude Code, Codex, Gemini.",
+  "source_repo": "janaraj/tnl",
+  "source_url": "https://github.com/janaraj/tnl",
+  "install": "# git clone --depth 1 https://github.com/janaraj/tnl\n# See source for mcpServers config block"
+}

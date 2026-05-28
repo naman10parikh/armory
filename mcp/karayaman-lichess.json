@@ -1,0 +1,7 @@
+{
+  "name": "karayaman-lichess",
+  "description": "Integrates with the Lichess chess platform to enable natural language-driven gameplay, analysis, and tournament participation through its API.",
+  "source_repo": "karayaman/lichess-mcp",
+  "source_url": "https://github.com/karayaman/lichess-mcp",
+  "install": "npx -y lichess-mcp"
+}

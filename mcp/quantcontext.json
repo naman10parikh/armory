@@ -1,0 +1,7 @@
+{
+  "name": "quantcontext",
+  "description": "Stock screening, strategy backtesting, and Fama-French factor analysis for trading workflows.",
+  "source_repo": "zomma-dev/quantcontext-mcp-server",
+  "source_url": "https://github.com/zomma-dev/quantcontext-mcp-server",
+  "install": "npx -y quantcontext-mcp-server"
+}

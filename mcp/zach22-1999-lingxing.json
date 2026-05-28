@@ -1,0 +1,7 @@
+{
+  "name": "zach22-1999-lingxing",
+  "description": "Read-only access to Lingxing ERP data for Amazon sellers including orders, inventory, and advertising.",
+  "source_repo": "zach22-1999/lingxing-mcp",
+  "source_url": "https://github.com/zach22-1999/lingxing-mcp",
+  "install": "npx -y lingxing-mcp"
+}

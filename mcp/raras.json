@@ -1,0 +1,7 @@
+{
+  "name": "raras",
+  "description": "Brazil's rare-disease knowledge graph — 10,468 diseases, phenotypes, genes, and clinical trials via MCP.",
+  "source_repo": "rarasai/raras",
+  "source_url": "https://github.com/rarasai/raras",
+  "install": "# git clone --depth 1 https://github.com/rarasai/raras\n# See source for mcpServers config block"
+}

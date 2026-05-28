@@ -1,0 +1,7 @@
+{
+  "name": "dmontgomery40-3d-printer",
+  "description": "Integrates with multiple 3D printer management systems to enable remote control, file handling, and advanced STL manipulation for automated print job management and custom model modifications.",
+  "source_repo": "dmontgomery40/mcp-3d-printer-server",
+  "source_url": "https://github.com/dmontgomery40/mcp-3d-printer-server",
+  "install": "# git clone --depth 1 https://github.com/dmontgomery40/mcp-3d-printer-server\n# See source for mcpServers config block"
+}

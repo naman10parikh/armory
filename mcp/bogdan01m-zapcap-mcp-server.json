@@ -1,0 +1,7 @@
+{
+  "name": "bogdan01m-zapcap-mcp-server",
+  "description": "MCP server for ZapCap API providing video caption and B-roll generation via natural language",
+  "source_repo": "bogdan01m/zapcap-mcp-server",
+  "source_url": "https://github.com/bogdan01m/zapcap-mcp-server",
+  "install": "npx -y zapcap-mcp-server"
+}

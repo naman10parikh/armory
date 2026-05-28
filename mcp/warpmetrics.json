@@ -1,0 +1,7 @@
+{
+  "name": "warpmetrics",
+  "description": "Query agent runs, API calls, costs, latency, and outcome statistics from Warpmetrics observability data.",
+  "source_repo": "warpmetrics/mcp",
+  "source_url": "https://github.com/warpmetrics/mcp",
+  "install": "# git clone --depth 1 https://github.com/warpmetrics/mcp\n# See source for mcpServers config block"
+}

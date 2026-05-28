@@ -1,0 +1,7 @@
+{
+  "name": "whois-mcp",
+  "description": "Whois Mcp MCP server listed on mcp.so.",
+  "source_repo": "bharathvaj-ganesan/whois-mcp",
+  "source_url": "https://mcp.so/server/whois-mcp/bharathvaj-ganesan",
+  "install": "npx -y whois-mcp"
+}

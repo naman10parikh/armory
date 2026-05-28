@@ -1,0 +1,7 @@
+{
+  "name": "danvega-springone",
+  "description": "Provides SpringOne 2025 conference session data through tools for counting sessions by date and retrieving all sessions, includes predefined prompts for conference analysis, and exposes speaker biographical information as resources.",
+  "source_repo": "danvega/springone-mcp",
+  "source_url": "https://github.com/danvega/springone-mcp",
+  "install": "npx -y springone-mcp"
+}

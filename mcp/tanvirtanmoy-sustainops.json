@@ -1,0 +1,7 @@
+{
+  "name": "tanvirtanmoy-sustainops",
+  "description": "Analyzes electricity carbon intensity data to identify cleaner locations and times for running cloud workloads.",
+  "source_repo": "tanvirtanmoy/sustainops-mcp",
+  "source_url": "https://github.com/tanvirtanmoy/sustainops-mcp",
+  "install": "npx -y sustainops-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shangri-la-0428-oasyce",
+  "description": "On-chain economic system for AI agents with escrow, marketplace, data rights, reputation, and dispute resolution.",
+  "source_repo": "shangri-la-0428/oasyce-sdk",
+  "source_url": "https://github.com/shangri-la-0428/oasyce-sdk",
+  "install": "# git clone --depth 1 https://github.com/shangri-la-0428/oasyce-sdk\n# See source for mcpServers config block"
+}

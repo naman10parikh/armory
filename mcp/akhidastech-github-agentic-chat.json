@@ -1,0 +1,7 @@
+{
+  "name": "akhidastech-github-agentic-chat",
+  "description": "Integrates with GitHub's API to enable natural language interaction with repositories, offering tools for searching, creating issues, and performing semantic searches across stored documents using PostgreSQL with pgvector.",
+  "source_repo": "akhidastech/github-agentic-chat-mcp",
+  "source_url": "https://github.com/akhidastech/github-agentic-chat-mcp",
+  "install": "npx -y github-agentic-chat-mcp"
+}

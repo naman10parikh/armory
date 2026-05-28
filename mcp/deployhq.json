@@ -1,0 +1,7 @@
+{
+  "name": "deployhq",
+  "description": "Interact with DeployHQ deployments for project management, deployment history, and status monitoring",
+  "source_repo": "deployhq/deployhq-mcp-server",
+  "source_url": "https://github.com/deployhq/deployhq-mcp-server",
+  "install": "npx -y deployhq-mcp-server"
+}

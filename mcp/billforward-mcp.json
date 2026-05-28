@@ -1,0 +1,7 @@
+{
+  "name": "billforward-mcp",
+  "description": "Enables LLMs to interact with Billforward's billing and subscription management API, providing tools for accounts, subscriptions, invoices, payments, and more with read-only safety by default.",
+  "source_repo": "GregoriSoria/billforward-mcp",
+  "source_url": "https://github.com/GregoriSoria/billforward-mcp",
+  "install": "npx -y billforward-mcp"
+}

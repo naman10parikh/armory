@@ -1,0 +1,7 @@
+{
+  "name": "eric2877-wecom-aibot",
+  "description": "Sends approval requests and notifications through enterprise WeChat (WeCom) robots via MCP.",
+  "source_repo": "eric2877/wecom-aibot-mcp",
+  "source_url": "https://github.com/eric2877/wecom-aibot-mcp",
+  "install": "npx -y wecom-aibot-mcp"
+}

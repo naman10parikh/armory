@@ -1,0 +1,7 @@
+{
+  "name": "rhnvrm-zerodha-kite",
+  "description": "Integrates with Zerodha Kite trading platform to enable algorithmic trading and portfolio management for Indian stock markets.",
+  "source_repo": "zerodha/kite-mcp-server",
+  "source_url": "https://github.com/zerodha/kite-mcp-server",
+  "install": "npx -y kite-mcp-server"
+}

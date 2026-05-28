@@ -1,0 +1,7 @@
+{
+  "name": "fashionzzz-code-line-counter",
+  "description": "Tracks code line counts across different file types with persistent timestamped storage, enabling developers to monitor codebase growth and project metrics over time.",
+  "source_repo": "fashionzzz/code-line-counter-mcp",
+  "source_url": "https://github.com/fashionzzz/code-line-counter-mcp",
+  "install": "npx -y code-line-counter-mcp"
+}

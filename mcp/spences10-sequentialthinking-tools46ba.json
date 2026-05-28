@@ -1,0 +1,7 @@
+{
+  "name": "spences10-sequentialthinking-tools46ba",
+  "description": "Provides a structured thinking framework for breaking down complex problems into sequential steps while recommending appropriate tools for each stage based on context and progress tracking.",
+  "source_repo": "xinzhongyouhai/mcp-sequentialthinking-tools",
+  "source_url": "https://github.com/xinzhongyouhai/mcp-sequentialthinking-tools",
+  "install": "# git clone --depth 1 https://github.com/xinzhongyouhai/mcp-sequentialthinking-tools\n# See source for mcpServers config block"
+}

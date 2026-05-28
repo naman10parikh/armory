@@ -1,0 +1,7 @@
+{
+  "name": "octagon-investment-research",
+  "description": "Provides specialized investment research tools for analyzing SEC filings, earnings calls, financial data, stock market information, private company details, funding rounds, M&A transactions, and web scraping capabilities.",
+  "source_repo": "octagonai/octagon-mcp-server",
+  "source_url": "https://github.com/octagonai/octagon-mcp-server",
+  "install": "npx -y octagon-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verticka-featurebase",
+  "description": "Manages product feedback, feature requests, and roadmap items via the Featurebase API.",
+  "source_repo": "verticka/featurebase-mcp",
+  "source_url": "https://github.com/verticka/featurebase-mcp",
+  "install": "npx -y featurebase-mcp"
+}

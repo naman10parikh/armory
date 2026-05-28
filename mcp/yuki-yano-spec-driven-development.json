@@ -1,0 +1,7 @@
+{
+  "name": "yuki-yano-spec-driven-development",
+  "description": "Enforces structured software development workflows through 10 specialized tools that guide projects from specification to test-driven implementation with EARS format requirements, technical design creation, task breakdown, and validation gates for maintaining consistent development practices and thorough documentation.",
+  "source_repo": "yuki-yano/sdd-mcp",
+  "source_url": "https://github.com/yuki-yano/sdd-mcp",
+  "install": "npx -y sdd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "autoapply-mcp-2",
+  "description": "AutoApply automates job applications using a real Playwright browser. Save your profile once — name, email, phone, address, work authorization, demographics, salary — then point Claude at any job URL and it handles the rest. What it does: Opens the job application in a real Chromium browser Auto-fil",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/preetrajdeo/autoapply-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/preetrajdeo/autoapply-mcp\n# See source for mcpServers config block"
+}

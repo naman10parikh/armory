@@ -1,0 +1,7 @@
+{
+  "name": "parvesh776-kali-linux",
+  "description": "AI-driven access to 40+ Kali Linux security tools for authorized penetration testing.",
+  "source_repo": "parvesh776/mcp-for-kali",
+  "source_url": "https://github.com/parvesh776/mcp-for-kali",
+  "install": "# git clone --depth 1 https://github.com/parvesh776/mcp-for-kali\n# See source for mcpServers config block"
+}

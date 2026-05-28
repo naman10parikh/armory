@@ -1,0 +1,7 @@
+{
+  "name": "socials-mcp",
+  "description": "Enables Claude to perform actions on X, LinkedIn, and Reddit via a Chrome extension, such as connecting with recruiters, finding threads, and replying to posts.",
+  "source_repo": "Brainrot-Creations/socials",
+  "source_url": "https://github.com/Brainrot-Creations/socials",
+  "install": "# git clone --depth 1 https://github.com/Brainrot-Creations/socials\n# See source for mcpServers config block"
+}

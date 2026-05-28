@@ -1,0 +1,7 @@
+{
+  "name": "tim10002-azure-resource",
+  "description": "Integrates with Azure cloud services to enable resource listing, management, and cost analysis through service principal authentication and the Azure Cost Management API",
+  "source_repo": "tim10002/mcp-azresource",
+  "source_url": "https://github.com/tim10002/mcp-azresource",
+  "install": "# git clone --depth 1 https://github.com/tim10002/mcp-azresource\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sreedeep-documentation-retrieval",
+  "description": "Retrieves up-to-date documentation for Python libraries including LangChain, LlamaIndex, and OpenAI through targeted web searches and HTML content extraction.",
+  "source_repo": "sreedeep-ss/docret-mcp-server",
+  "source_url": "https://github.com/sreedeep-ss/docret-mcp-server",
+  "install": "npx -y docret-mcp-server"
+}

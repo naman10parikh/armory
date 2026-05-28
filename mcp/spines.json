@@ -1,0 +1,7 @@
+{
+  "name": "spines",
+  "description": "Accesses SPINES book collections, reading lists, and bookshelf data for search, browsing, and list management.",
+  "source_repo": "getspines/mcp-server",
+  "source_url": "https://github.com/getspines/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/getspines/mcp-server\n# See source for mcpServers config block"
+}

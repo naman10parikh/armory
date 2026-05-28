@@ -1,0 +1,7 @@
+{
+  "name": "tencent-prosearch",
+  "description": "Integrates with Tencent's ProSearch cloud API to provide intelligent web search capabilities with advanced filtering options including time-based queries, site-specific searches, and multiple search modes for current web information and research workflows.",
+  "source_repo": "tencent/websearchmcp",
+  "source_url": "https://github.com/tencent/websearchmcp",
+  "install": "# git clone --depth 1 https://github.com/tencent/websearchmcp\n# See source for mcpServers config block"
+}

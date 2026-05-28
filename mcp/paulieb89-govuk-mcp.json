@@ -1,0 +1,7 @@
+{
+  "name": "paulieb89-govuk-mcp",
+  "description": "Search GOV.UK content, retrieve full government pages, look up organisations, and resolve UK postcodes to local authorities. 5 read-only tools, no API keys required.",
+  "source_repo": "paulieb89/govuk-mcp",
+  "source_url": "https://github.com/paulieb89/govuk-mcp",
+  "install": "npx -y govuk-mcp"
+}

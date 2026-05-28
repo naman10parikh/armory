@@ -1,0 +1,7 @@
+{
+  "name": "cline-memory-bank",
+  "description": "Cline Memory Bank MCP server listed on mcp.so.",
+  "source_repo": "dazeb/Cline-Memory-Bank",
+  "source_url": "https://mcp.so/server/Cline-Memory-Bank/dazeb",
+  "install": "# git clone --depth 1 https://mcp.so/server/Cline-Memory-Bank/dazeb\n# See source for mcpServers config block"
+}

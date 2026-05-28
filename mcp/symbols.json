@@ -1,0 +1,7 @@
+{
+  "name": "symbols",
+  "description": "Documentation search and DOMQL framework reference for Symbols.app.",
+  "source_repo": "symbo-ls/symbols-mcp",
+  "source_url": "https://github.com/symbo-ls/symbols-mcp",
+  "install": "npx -y symbols-mcp"
+}

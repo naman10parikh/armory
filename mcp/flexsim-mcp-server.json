@@ -1,0 +1,7 @@
+{
+  "name": "flexsim-mcp-server",
+  "description": "Controls FlexSim simulation engine via Model Context Protocol, enabling natural language-driven simulation modeling and automation.",
+  "source_repo": "quqbaku/flexsim-mcp",
+  "source_url": "https://github.com/quqbaku/flexsim-mcp",
+  "install": "npx -y flexsim-mcp"
+}

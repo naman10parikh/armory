@@ -1,0 +1,7 @@
+{
+  "name": "jrigada-foundry-zksync",
+  "description": "Exposes foundry-zksync CLI tools for zkSync Era smart contract development, testing, deployment, and blockchain interaction.",
+  "source_repo": "jrigada/foundry-zksync-mcp",
+  "source_url": "https://github.com/jrigada/foundry-zksync-mcp",
+  "install": "npx -y foundry-zksync-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-nikolanddtesla-ssh-mcp",
+  "description": "SSH server management with zero-token SFTP transfers and multi-server connection pooling.",
+  "source_repo": "nikolanddtesla/ssh-mcp-server",
+  "source_url": "https://github.com/nikolanddtesla/ssh-mcp-server",
+  "install": "npx -y ssh-mcp-server"
+}

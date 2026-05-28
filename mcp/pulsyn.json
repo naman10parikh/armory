@@ -1,0 +1,7 @@
+{
+  "name": "pulsyn",
+  "description": "Integrates with Pulsyn smart ring devices for health metrics.",
+  "source_repo": "pulsynlabs/pulsyn-mcp-server",
+  "source_url": "https://github.com/pulsynlabs/pulsyn-mcp-server",
+  "install": "npx -y pulsyn-mcp-server"
+}

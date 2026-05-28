@@ -1,0 +1,7 @@
+{
+  "name": "itsuzef-reaper",
+  "description": "Bridges REAPER digital audio workstation with external tools, enabling comprehensive control for music production tasks including project management, track operations, MIDI composition, and mixing without direct interface navigation.",
+  "source_repo": "bonfire-audio/reaper-mcp",
+  "source_url": "https://github.com/bonfire-audio/reaper-mcp",
+  "install": "npx -y reaper-mcp"
+}

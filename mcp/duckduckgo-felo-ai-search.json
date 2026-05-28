@@ -1,0 +1,7 @@
+{
+  "name": "duckduckgo-felo-ai-search",
+  "description": "Provide fast, privacy-friendly web and AI-powered search capabilities with integrated content and metadata extraction. Enhance your AI assistants by enabling comprehensive web scraping without requiring API keys. Optimize performance with caching and secure usage through rate limiting and user agent",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/OEvortex/ddg_search",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/OEvortex/ddg_search\n# See source for mcpServers config block"
+}

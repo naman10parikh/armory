@@ -1,0 +1,7 @@
+{
+  "name": "velvetway-minreestr",
+  "description": "Search Russia's official software catalog (каталогпо.рф) to discover domestic software alternatives and FSTEC/FSB-certified products.",
+  "source_repo": "velvetway/minreestr-mcp",
+  "source_url": "https://github.com/velvetway/minreestr-mcp",
+  "install": "npx -y minreestr-mcp"
+}

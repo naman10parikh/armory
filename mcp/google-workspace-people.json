@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-people",
+  "description": "Provides access to Google People API for retrieving profiles, searching contacts, and accessing the directory.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/google-workspace-people",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/google-workspace-people\n# See source for mcpServers config block"
+}

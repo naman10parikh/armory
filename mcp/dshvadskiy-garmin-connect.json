@@ -1,0 +1,7 @@
+{
+  "name": "dshvadskiy-garmin-connect",
+  "description": "Integrates with the Garmin Connect API to retrieve and analyze personal fitness data, enabling detailed tracking of health metrics like sleep, steps, activities, and heart rate.",
+  "source_repo": "dshvadskiy/garmin_mcp",
+  "source_url": "https://github.com/dshvadskiy/garmin_mcp",
+  "install": "npx -y garmin_mcp"
+}

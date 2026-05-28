@@ -1,0 +1,7 @@
+{
+  "name": "gammainfra",
+  "description": "Smart LLM routing across every major provider via a single OpenAI-compatible API.",
+  "source_repo": "yuz0101/gammainfra-mcp-server",
+  "source_url": "https://github.com/yuz0101/gammainfra-mcp-server",
+  "install": "npx -y gammainfra-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "justcall",
+  "description": "Integrates with JustCall's voice communication platform to retrieve and analyze call data with filtering options for date ranges, contact numbers, agent assignments, call directions, and coaching insights.",
+  "source_repo": "saaslabsco/justcall-mcp-server",
+  "source_url": "https://github.com/saaslabsco/justcall-mcp-server",
+  "install": "npx -y justcall-mcp-server"
+}

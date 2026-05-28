@@ -1,0 +1,7 @@
+{
+  "name": "hygao1024-xingchen-workflow-orchestration",
+  "description": "Bridges AI assistants with iFlytek's workflow orchestration system, enabling complex business automation tasks through configurable sequential, parallel, loop, and nested execution modes.",
+  "source_repo": "hygao1024/xingchen-mcp-server",
+  "source_url": "https://github.com/hygao1024/xingchen-mcp-server",
+  "install": "npx -y xingchen-mcp-server"
+}

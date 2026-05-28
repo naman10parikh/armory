@@ -1,0 +1,7 @@
+{
+  "name": "srinivasan-sundaresan95-orihime",
+  "description": "Cross-repository code knowledge graph MCP server for Java, Kotlin, JavaScript, and TypeScript. Indexes source into embedded KuzuDB via tree-sitter; 30+ tools for call-flow tracing, multi-hop taint analysis (OWASP/CWE/PCI/STIG reports), entry-point reachability filtering, performance hotspot detection, and license compliance — without reading source files. 95% fewer tokens vs source-reading baseline. `pip install orihime`",
+  "source_repo": "srinivasan-sundaresan95/orihime",
+  "source_url": "https://github.com/srinivasan-sundaresan95/orihime",
+  "install": "# git clone --depth 1 https://github.com/srinivasan-sundaresan95/orihime\n# See source for mcpServers config block"
+}

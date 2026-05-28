@@ -1,0 +1,7 @@
+{
+  "name": "awei84-antibanana",
+  "description": "Generates images using Google's Antigravity API with prompt-based creation and editing workflows.",
+  "source_repo": "awei84/antibanana-mcp",
+  "source_url": "https://github.com/awei84/antibanana-mcp",
+  "install": "npx -y antibanana-mcp"
+}

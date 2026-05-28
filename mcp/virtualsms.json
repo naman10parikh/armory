@@ -1,0 +1,7 @@
+{
+  "name": "virtualsms",
+  "description": "Receive SMS verifications across 145+ countries using real physical SIM infrastructure.",
+  "source_repo": "virtualsms-io/mcp-server",
+  "source_url": "https://github.com/virtualsms-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/virtualsms-io/mcp-server\n# See source for mcpServers config block"
+}

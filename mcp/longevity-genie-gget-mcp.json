@@ -1,0 +1,7 @@
+{
+  "name": "longevity-genie-gget-mcp",
+  "description": "MCP server providing a powerful bioinformatics toolkit for genomics queries and analysis, wrapping the popular `gget` library.",
+  "source_repo": "longevity-genie/gget-mcp",
+  "source_url": "https://github.com/longevity-genie/gget-mcp",
+  "install": "npx -y gget-mcp"
+}

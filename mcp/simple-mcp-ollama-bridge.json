@@ -1,0 +1,7 @@
+{
+  "name": "simple-mcp-ollama-bridge",
+  "description": "Simple Mcp Ollama Bridge MCP server listed on mcp.so.",
+  "source_repo": "virajsharma2000/simple-mcp-ollama-bridge",
+  "source_url": "https://mcp.so/server/simple-mcp-ollama-bridge/virajsharma2000",
+  "install": "# git clone --depth 1 https://mcp.so/server/simple-mcp-ollama-bridge/virajsharma2000\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slicequeue-seoul-tago-subway",
+  "description": "Integrates with Seoul's TAGO public transportation API to provide real-time subway station search, timetable retrieval with directional filtering, and bulk schedule data access for transit planning and commuter assistance in the Seoul metropolitan area.",
+  "source_repo": "slicequeue/k-targo-subway-mcp-server",
+  "source_url": "https://github.com/slicequeue/k-targo-subway-mcp-server",
+  "install": "npx -y k-targo-subway-mcp-server"
+}

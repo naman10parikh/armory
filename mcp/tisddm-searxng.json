@@ -1,0 +1,7 @@
+{
+  "name": "tisddm-searxng",
+  "description": "Connects AI systems to SearXNG metasearch engine, enabling privacy-respecting web searches with customizable parameters for language, time range, and category filtering.",
+  "source_repo": "tisddm/searxng-mcp",
+  "source_url": "https://github.com/tisddm/searxng-mcp",
+  "install": "npx -y searxng-mcp"
+}

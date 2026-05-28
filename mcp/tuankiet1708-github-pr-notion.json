@@ -1,0 +1,7 @@
+{
+  "name": "tuankiet1708-github-pr-notion",
+  "description": "Fetches GitHub pull request changes and creates structured analysis reports in Notion pages for automated PR documentation workflows.",
+  "source_repo": "tuankiet1708/mcp-starter",
+  "source_url": "https://github.com/tuankiet1708/mcp-starter",
+  "install": "# git clone --depth 1 https://github.com/tuankiet1708/mcp-starter\n# See source for mcpServers config block"
+}

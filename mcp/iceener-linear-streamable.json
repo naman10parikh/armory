@@ -1,0 +1,7 @@
+{
+  "name": "iceener-linear-streamable",
+  "description": "Integrates with Linear project management platform using OAuth2 authentication to provide comprehensive issue, project, team, comment, and cycle management with filtering, pagination, and batch operations support.",
+  "source_repo": "iceener/linear-streamable-mcp-server",
+  "source_url": "https://github.com/iceener/linear-streamable-mcp-server",
+  "install": "npx -y linear-streamable-mcp-server"
+}

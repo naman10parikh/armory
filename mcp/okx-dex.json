@@ -1,0 +1,7 @@
+{
+  "name": "okx-dex",
+  "description": "Integrates with OKX's decentralized exchange and cross-chain bridge to enable token swapping, liquidity management, price quotes, and cross-chain transfers across multiple blockchains including Solana.",
+  "source_repo": "0xobedient/okx-mcp",
+  "source_url": "https://github.com/0xobedient/okx-mcp",
+  "install": "npx -y okx-mcp"
+}

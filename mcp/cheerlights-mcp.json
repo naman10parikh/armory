@@ -1,0 +1,7 @@
+{
+  "name": "cheerlights-mcp",
+  "description": "Cheerlights Mcp MCP server listed on mcp.so.",
+  "source_repo": "cheerlights/cheerlights-mcp",
+  "source_url": "https://mcp.so/server/cheerlights-mcp/cheerlights",
+  "install": "npx -y cheerlights-mcp"
+}

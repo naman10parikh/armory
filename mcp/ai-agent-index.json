@@ -1,0 +1,7 @@
+{
+  "name": "ai-agent-index",
+  "description": "Search and retrieve structured data on AI agents for business automation. Filter by category, pricing, integration, and capability. Updated daily.",
+  "source_repo": "",
+  "source_url": "https://theaiagentindex.com",
+  "install": "# git clone --depth 1 https://theaiagentindex.com\n# See source for mcpServers config block"
+}

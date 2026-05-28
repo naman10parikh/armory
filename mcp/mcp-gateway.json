@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gateway",
+  "description": "Mcp Gateway MCP server listed on mcp.so.",
+  "source_repo": "minovap/mcp-gateway",
+  "source_url": "https://mcp.so/server/mcp-gateway/minovap",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-gateway/minovap\n# See source for mcpServers config block"
+}

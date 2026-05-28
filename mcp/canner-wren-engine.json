@@ -1,0 +1,7 @@
+{
+  "name": "canner-wren-engine",
+  "description": "The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents",
+  "source_repo": "Canner/wren-engine",
+  "source_url": "https://github.com/Canner/wren-engine",
+  "install": "# git clone --depth 1 https://github.com/Canner/wren-engine\n# See source for mcpServers config block"
+}

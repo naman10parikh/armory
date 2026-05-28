@@ -1,0 +1,7 @@
+{
+  "name": "firebase",
+  "description": "Give AI-powered development tools the ability to work with your Firebase projects",
+  "source_repo": "firebase/firebase-tools",
+  "source_url": "https://github.com/firebase/firebase-tools",
+  "install": "# git clone --depth 1 https://github.com/firebase/firebase-tools\n# See source for mcpServers config block"
+}

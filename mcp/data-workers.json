@@ -1,0 +1,7 @@
+{
+  "name": "data-workers",
+  "description": "Open-source autonomous agent swarm of 15 MCP-native AI agents for data engineering — catalog, quality, incidents, schema evolution, governance, migration, observability, ML. 212+ tools, Apache 2.0. Works with Claude Code, Cursor, ChatGPT, and any MCP client.",
+  "source_repo": "DataWorkersProject/dataworkers-claw-community",
+  "source_url": "https://github.com/DataWorkersProject/dataworkers-claw-community",
+  "install": "# git clone --depth 1 https://github.com/DataWorkersProject/dataworkers-claw-community\n# See source for mcpServers config block"
+}

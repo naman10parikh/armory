@@ -1,0 +1,7 @@
+{
+  "name": "lazy-dinosaur-ccxt-crypto-trading",
+  "description": "Bridges the CCXT cryptocurrency trading library with natural language interfaces, enabling monitoring, analysis, and trading operations across 100+ exchanges",
+  "source_repo": "lazy-dinosaur/ccxt-mcp",
+  "source_url": "https://github.com/lazy-dinosaur/ccxt-mcp",
+  "install": "npx -y ccxt-mcp"
+}

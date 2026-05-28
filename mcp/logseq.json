@@ -1,0 +1,7 @@
+{
+  "name": "logseq",
+  "description": "Integrates with local Logseq instances through the Logseq API to read, create, and modify pages and blocks in your personal knowledge graph, supporting hierarchical structures, journal entries, block operations, and linked reference tracking for seamless note-taking and content organization workflows.",
+  "source_repo": "mikeysrecipes/logseq-mcp",
+  "source_url": "https://github.com/mikeysrecipes/logseq-mcp",
+  "install": "npx -y logseq-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "0x-professor-ui-analyzer",
+  "description": "Analyzes website UI using Playwright browser automation to detect layout issues, identify broken elements, and generate precise CSS/HTML fixes with framework-specific solutions for React, Vue, Angular, and popular UI libraries.",
+  "source_repo": "0x-professor/uianalyzermcp",
+  "source_url": "https://github.com/0x-professor/uianalyzermcp",
+  "install": "# git clone --depth 1 https://github.com/0x-professor/uianalyzermcp\n# See source for mcpServers config block"
+}

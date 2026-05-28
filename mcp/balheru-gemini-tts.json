@@ -1,0 +1,7 @@
+{
+  "name": "balheru-gemini-tts",
+  "description": "Provides text-to-speech capabilities using Google Gemini API with configurable voice styles and emotional tones.",
+  "source_repo": "balheru/mcp-speak",
+  "source_url": "https://github.com/balheru/mcp-speak",
+  "install": "# git clone --depth 1 https://github.com/balheru/mcp-speak\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vurtnec-lancedb-vector-search",
+  "description": "Enables vector search capabilities using LanceDB and Ollama's embedding model for similarity searches on document collections without context switching.",
+  "source_repo": "vurtnec/mcp-lancedb-node",
+  "source_url": "https://github.com/vurtnec/mcp-lancedb-node",
+  "install": "# git clone --depth 1 https://github.com/vurtnec/mcp-lancedb-node\n# See source for mcpServers config block"
+}

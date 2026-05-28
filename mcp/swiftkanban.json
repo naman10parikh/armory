@@ -1,0 +1,7 @@
+{
+  "name": "swiftkanban",
+  "description": "Manage SwiftKanban boards and cards via the NimbleWork project management platform.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/swiftkanban",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/swiftkanban\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "junipr-labs-web-scraper",
+  "description": "Apify-hosted web scraper with full page scraping, targeted extraction, web search, and link analysis via SSE transport.",
+  "source_repo": "junipr-labs/mcp-web-scraper",
+  "source_url": "https://github.com/junipr-labs/mcp-web-scraper",
+  "install": "# git clone --depth 1 https://github.com/junipr-labs/mcp-web-scraper\n# See source for mcpServers config block"
+}

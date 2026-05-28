@@ -1,0 +1,7 @@
+{
+  "name": "mception",
+  "description": "Audits MCP servers for security vulnerabilities including tool poisoning, remote code execution, SSRF, and credential exfiltration risks.",
+  "source_repo": "soufianetahiri/mception",
+  "source_url": "https://github.com/soufianetahiri/mception",
+  "install": "# git clone --depth 1 https://github.com/soufianetahiri/mception\n# See source for mcpServers config block"
+}

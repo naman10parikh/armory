@@ -1,0 +1,7 @@
+{
+  "name": "pje",
+  "description": "Integrates with Brazil's PJE electronic court system to enable secure access to legal case data, document retrieval, and court process monitoring for Brazilian judicial workflows.",
+  "source_repo": "chapirousia/pje-mcp-server",
+  "source_url": "https://github.com/chapirousia/pje-mcp-server",
+  "install": "npx -y pje-mcp-server"
+}

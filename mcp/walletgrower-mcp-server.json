@@ -1,0 +1,7 @@
+{
+  "name": "walletgrower-mcp-server",
+  "description": "Enables AI agents to search, compare, and get personalized recommendations for financial products like savings accounts, credit cards, loans, budgeting apps, and earning platforms using curated data from WalletGrower.",
+  "source_repo": "fiatgrowthorg/walletgrower-mcp",
+  "source_url": "https://github.com/fiatgrowthorg/walletgrower-mcp",
+  "install": "npx -y walletgrower-mcp"
+}

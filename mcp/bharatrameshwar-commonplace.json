@@ -1,0 +1,7 @@
+{
+  "name": "bharatrameshwar-commonplace",
+  "description": "Local macOS activity tracker that captures app usage, screenshots, and browser URLs to build a searchable daily commonplace book.",
+  "source_repo": "bharatrameshwar/commonplace",
+  "source_url": "https://github.com/bharatrameshwar/commonplace",
+  "install": "# git clone --depth 1 https://github.com/bharatrameshwar/commonplace\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paris-wedding-celebrant-3",
+  "description": "Paris elopement and wedding ceremony guide — packages, venues, and vendor recommendations by Naïm Terrache",
+  "source_repo": "",
+  "source_url": "https://pariscelebrant.com",
+  "install": "# git clone --depth 1 https://pariscelebrant.com\n# See source for mcpServers config block"
+}

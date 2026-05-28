@@ -1,0 +1,7 @@
+{
+  "name": "lenderprice",
+  "description": "Mortgage pricing and product eligibility platform enabling AI agents to retrieve real-time rate quotes and loan product data.",
+  "source_repo": "",
+  "source_url": "https://lenderprice.com",
+  "install": "# git clone --depth 1 https://lenderprice.com\n# See source for mcpServers config block"
+}

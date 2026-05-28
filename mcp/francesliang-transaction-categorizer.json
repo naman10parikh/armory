@@ -1,0 +1,7 @@
+{
+  "name": "francesliang-transaction-categorizer",
+  "description": "Processes and categorizes financial transaction data into predefined expense and income categories, outputting organized CSV files for personal finance management and expense tracking.",
+  "source_repo": "francesliang/custom_mcp_servers",
+  "source_url": "https://github.com/francesliang/custom_mcp_servers",
+  "install": "# git clone --depth 1 https://github.com/francesliang/custom_mcp_servers\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mbrummerstedt-powerbi-analyst",
+  "description": "Connects to Power BI semantic models to browse workspaces, run DAX queries, and automatically page large result sets through local CSV files.",
+  "source_repo": "mbrummerstedt/powerbi-analyst-mcp",
+  "source_url": "https://github.com/mbrummerstedt/powerbi-analyst-mcp",
+  "install": "npx -y powerbi-analyst-mcp"
+}

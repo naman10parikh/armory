@@ -1,0 +1,7 @@
+{
+  "name": "paperdavid-soul-md",
+  "description": "Portable AI identity layer — lets any LLM read your soul.md file for consistent voice, values, and skills across tools.",
+  "source_repo": "paperdavid/manoma",
+  "source_url": "https://github.com/paperdavid/manoma",
+  "install": "# git clone --depth 1 https://github.com/paperdavid/manoma\n# See source for mcpServers config block"
+}

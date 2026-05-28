@@ -1,0 +1,7 @@
+{
+  "name": "spot",
+  "description": "Gasless non-custodial DeFi orders including limit, TWAP, stop-loss, and take-profit on EVM chains.",
+  "source_repo": "orbs-network/spot",
+  "source_url": "https://github.com/orbs-network/spot",
+  "install": "# git clone --depth 1 https://github.com/orbs-network/spot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "issuebadge",
+  "description": "Integrates with IssueBadge's API to enable issue tracking, project management, and badge-based workflow automation for development teams.",
+  "source_repo": "issuebadge/mcpserver",
+  "source_url": "https://github.com/issuebadge/mcpserver",
+  "install": "# git clone --depth 1 https://github.com/issuebadge/mcpserver\n# See source for mcpServers config block"
+}

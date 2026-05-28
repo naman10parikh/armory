@@ -1,0 +1,7 @@
+{
+  "name": "ksterx-srunx",
+  "description": "MCP server for the SLURM workload manager. Submit jobs, run YAML workflows, monitor GPU resources, manage SSH profiles, and sync files to remote HPC clusters from natural language. 14 tools spanning local SLURM and SSH-remote clusters; companion CLI and FastAPI Web UI ship in the same package.",
+  "source_repo": "ksterx/srunx",
+  "source_url": "https://github.com/ksterx/srunx",
+  "install": "# git clone --depth 1 https://github.com/ksterx/srunx\n# See source for mcpServers config block"
+}

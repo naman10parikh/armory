@@ -1,0 +1,7 @@
+{
+  "name": "ashby-mcp-server",
+  "description": "Provides full access to the Ashby recruiting API with 67 tools covering candidates, jobs, offers, and interviews.",
+  "source_repo": "jonzz02/ashby-mcp-server",
+  "source_url": "https://github.com/jonzz02/ashby-mcp-server",
+  "install": "npx -y ashby-mcp-server"
+}

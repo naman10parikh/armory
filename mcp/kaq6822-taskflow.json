@@ -1,0 +1,7 @@
+{
+  "name": "kaq6822-taskflow",
+  "description": "Workflow orchestration platform for AI agents with scope-based permissions, real-time SSE streaming, and append-only audit logging.",
+  "source_repo": "kaq6822/taskflow-mcp-server",
+  "source_url": "https://github.com/kaq6822/taskflow-mcp-server",
+  "install": "npx -y taskflow-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "glif-mcp-server",
+  "description": "Glif Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "glifxyz/glif-mcp-server",
+  "source_url": "https://mcp.so/server/glif-mcp-server/glifxyz",
+  "install": "npx -y glif-mcp-server"
+}

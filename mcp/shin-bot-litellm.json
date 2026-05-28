@@ -1,0 +1,7 @@
+{
+  "name": "shin-bot-litellm",
+  "description": "Access 100+ LLM providers through a unified interface for model comparison and multi-provider workflows.",
+  "source_repo": "shin-bot-litellm/litellm-agent-mcp",
+  "source_url": "https://github.com/shin-bot-litellm/litellm-agent-mcp",
+  "install": "npx -y litellm-agent-mcp"
+}

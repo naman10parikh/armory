@@ -1,0 +1,7 @@
+{
+  "name": "unleash-ff-mcp-server",
+  "description": "Unleash Ff Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ylin6/unleash-ff-mcp-server",
+  "source_url": "https://mcp.so/server/unleash-ff-mcp-server/ylin6",
+  "install": "npx -y unleash-ff-mcp-server"
+}

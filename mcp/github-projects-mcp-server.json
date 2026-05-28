@@ -1,0 +1,7 @@
+{
+  "name": "github-projects-mcp-server",
+  "description": "Enables managing GitHub Project views, priorities, dependencies, and metrics through natural language.",
+  "source_repo": "TerraCo89/mcp-server-github-projects",
+  "source_url": "https://github.com/TerraCo89/mcp-server-github-projects",
+  "install": "# git clone --depth 1 https://github.com/TerraCo89/mcp-server-github-projects\n# See source for mcpServers config block"
+}

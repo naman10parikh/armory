@@ -1,0 +1,7 @@
+{
+  "name": "vk0dev-agent-cost",
+  "description": "Analyzes local Claude Code session logs to provide per-tool cost breakdowns, daily spending trends, and optimization suggestions.",
+  "source_repo": "vk0dev/agent-cost-mcp",
+  "source_url": "https://github.com/vk0dev/agent-cost-mcp",
+  "install": "npx -y agent-cost-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simonliebers-blazor-components",
+  "description": "Uses reflection to discover and analyze Blazor components from loaded assemblies, extracting metadata about parameters, cascading parameters, and injected dependencies for contextual assistance with component APIs and parameter requirements.",
+  "source_repo": "simonliebers-dev/components.mcp.blazor",
+  "source_url": "https://github.com/simonliebers-dev/components.mcp.blazor",
+  "install": "# git clone --depth 1 https://github.com/simonliebers-dev/components.mcp.blazor\n# See source for mcpServers config block"
+}

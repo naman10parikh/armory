@@ -1,0 +1,7 @@
+{
+  "name": "executeautomation-playwright",
+  "description": "Automate web browsers for testing, scraping, and visual analysis.",
+  "source_repo": "executeautomation/mcp-playwright",
+  "source_url": "https://github.com/executeautomation/mcp-playwright",
+  "install": "# git clone --depth 1 https://github.com/executeautomation/mcp-playwright\n# See source for mcpServers config block"
+}

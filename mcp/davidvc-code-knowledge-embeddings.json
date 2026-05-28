@@ -1,0 +1,7 @@
+{
+  "name": "davidvc-code-knowledge-embeddings",
+  "description": "A knowledge management tool for code repositories using vector embeddings.",
+  "source_repo": "davidvc/code-knowledge-mcptool",
+  "source_url": "https://github.com/davidvc/code-knowledge-mcptool",
+  "install": "# git clone --depth 1 https://github.com/davidvc/code-knowledge-mcptool\n# See source for mcpServers config block"
+}

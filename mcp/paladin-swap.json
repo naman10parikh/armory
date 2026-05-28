@@ -1,0 +1,7 @@
+{
+  "name": "paladin-swap",
+  "description": "Multi-aggregator DeFi swap routing for AI agents on Base with non-custodial execution.",
+  "source_repo": "paladinfi/paladin-swap-mcp",
+  "source_url": "https://github.com/paladinfi/paladin-swap-mcp",
+  "install": "npx -y paladin-swap-mcp"
+}

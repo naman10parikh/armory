@@ -1,0 +1,7 @@
+{
+  "name": "a-001-byte-eyeshot-cad",
+  "description": "Enables AI-driven CAD operations in applications built on the Eyeshot SDK.",
+  "source_repo": "a-001-byte/tesseract-26-eyeshot-mcp",
+  "source_url": "https://github.com/a-001-byte/tesseract-26-eyeshot-mcp",
+  "install": "npx -y tesseract-26-eyeshot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "whensport-wc-2026",
+  "description": "Access all 104 FIFA World Cup 2026 match schedules in local timezones with team lookups, match details, and live match status via 6 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/wc",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/wc\n# See source for mcpServers config block"
+}

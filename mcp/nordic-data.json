@@ -1,0 +1,7 @@
+{
+  "name": "nordic-data",
+  "description": "Norwegian business registry MCP providing access to company data, procurement, sanctions, and financial records.",
+  "source_repo": "sofiajameson20-star/nordicdata",
+  "source_url": "https://github.com/sofiajameson20-star/nordicdata",
+  "install": "# git clone --depth 1 https://github.com/sofiajameson20-star/nordicdata\n# See source for mcpServers config block"
+}

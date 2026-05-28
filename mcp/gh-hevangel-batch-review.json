@@ -1,0 +1,7 @@
+{
+  "name": "gh-hevangel-batch-review",
+  "description": "Enables collaborative code and markdown review between human reviewers and AI agents on shared codebases.",
+  "source_repo": "hevangel/batch-review-mcp",
+  "source_url": "https://github.com/hevangel/batch-review-mcp",
+  "install": "npx -y batch-review-mcp"
+}

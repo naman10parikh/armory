@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-14",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "FrankGenGo/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/FrankGenGo",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/FrankGenGo\n# See source for mcpServers config block"
+}

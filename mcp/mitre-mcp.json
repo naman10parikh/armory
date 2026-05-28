@@ -1,0 +1,7 @@
+{
+  "name": "mitre-mcp",
+  "description": "Comprehensive MITRE ATT\\&CK MCP server with SOC integration for technique lookup, alert mapping, and coverage analysis.",
+  "source_repo": "solomonneas/mitre-mcp",
+  "source_url": "https://github.com/solomonneas/mitre-mcp",
+  "install": "npx -y mitre-mcp"
+}

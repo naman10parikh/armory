@@ -1,0 +1,7 @@
+{
+  "name": "ejb503-gmail",
+  "description": "Integrates with Gmail to enable natural language-based email management, including searching, reading, deleting, and sending emails with attachment support and conversation threading.",
+  "source_repo": "ejb503/systemprompt-mcp-gmail",
+  "source_url": "https://github.com/ejb503/systemprompt-mcp-gmail",
+  "install": "# git clone --depth 1 https://github.com/ejb503/systemprompt-mcp-gmail\n# See source for mcpServers config block"
+}

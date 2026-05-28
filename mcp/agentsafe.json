@@ -1,0 +1,7 @@
+{
+  "name": "agentsafe",
+  "description": "Email security for AI agents - detects phishing, prompt injection, CEO fraud.",
+  "source_repo": "",
+  "source_url": "https://agentsafe.locationledger.com",
+  "install": "# git clone --depth 1 https://agentsafe.locationledger.com\n# See source for mcpServers config block"
+}

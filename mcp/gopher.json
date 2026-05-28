@@ -1,0 +1,7 @@
+{
+  "name": "gopher",
+  "description": "Lead intelligence layer for AI agents — turn a sentence into a qualified B2B pipeline with prospect discovery, contact enrichment, and outreach.",
+  "source_repo": "courtimusprime/gopher.it",
+  "source_url": "https://github.com/courtimusprime/gopher.it",
+  "install": "# git clone --depth 1 https://github.com/courtimusprime/gopher.it\n# See source for mcpServers config block"
+}

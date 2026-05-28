@@ -1,0 +1,7 @@
+{
+  "name": "tmdaidevs-fabric-ontology",
+  "description": "Full CRUD control of Ontology items in Microsoft Fabric, including entities, relationships, data bindings, and Power BI report links.",
+  "source_repo": "tmdaidevs/ontology-mcp-server",
+  "source_url": "https://github.com/tmdaidevs/ontology-mcp-server",
+  "install": "npx -y ontology-mcp-server"
+}

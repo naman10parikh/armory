@@ -1,0 +1,7 @@
+{
+  "name": "samik081-authentik",
+  "description": "Manage Authentik identity provider users, groups, applications, and flows.",
+  "source_repo": "samik081/mcp-authentik",
+  "source_url": "https://github.com/samik081/mcp-authentik",
+  "install": "# git clone --depth 1 https://github.com/samik081/mcp-authentik\n# See source for mcpServers config block"
+}

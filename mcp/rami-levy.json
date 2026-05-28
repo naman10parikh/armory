@@ -1,0 +1,7 @@
+{
+  "name": "rami-levy",
+  "description": "Provides a bridge to the Rami Levy online grocery shopping platform in Israel, enabling product searches, shopping cart management, and checkout functionality through TypeScript-based API integration.",
+  "source_repo": "shilomagen/rami-levy-mcp",
+  "source_url": "https://github.com/shilomagen/rami-levy-mcp",
+  "install": "npx -y rami-levy-mcp"
+}

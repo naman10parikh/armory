@@ -1,0 +1,7 @@
+{
+  "name": "nicolasaev-spartan-ui",
+  "description": "Provides documentation access for the Spartan UI Angular component library.",
+  "source_repo": "nicolasaev/spartan-ui-mcp",
+  "source_url": "https://github.com/nicolasaev/spartan-ui-mcp",
+  "install": "npx -y spartan-ui-mcp"
+}

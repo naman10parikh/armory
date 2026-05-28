@@ -1,0 +1,7 @@
+{
+  "name": "tailabs-milvus",
+  "description": "Integrates with Milvus vector database to enable collection creation with custom schemas, vector similarity search with configurable metrics, data insertion with automatic type conversion, and index management for semantic search and recommendation systems.",
+  "source_repo": "tailabs/mcp-milvus",
+  "source_url": "https://github.com/tailabs/mcp-milvus",
+  "install": "# git clone --depth 1 https://github.com/tailabs/mcp-milvus\n# See source for mcpServers config block"
+}

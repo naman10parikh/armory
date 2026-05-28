@@ -1,0 +1,7 @@
+{
+  "name": "burtthecoder-shodan",
+  "description": "Access Shodan API and CVEDB to query IoT device data and vulnerability information.",
+  "source_repo": "burtthecoder/mcp-shodan",
+  "source_url": "https://github.com/burtthecoder/mcp-shodan",
+  "install": "# git clone --depth 1 https://github.com/burtthecoder/mcp-shodan\n# See source for mcpServers config block"
+}

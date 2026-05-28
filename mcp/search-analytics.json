@@ -1,0 +1,7 @@
+{
+  "name": "search-analytics",
+  "description": "Integrates Google Search Console and Google Analytics 4 data through unified tools for search analytics, traffic overviews, page performance analysis, and combined insights that correlate search visibility with actual traffic metrics.",
+  "source_repo": "vesivanov/mcp-search-analytics",
+  "source_url": "https://github.com/vesivanov/mcp-search-analytics",
+  "install": "# git clone --depth 1 https://github.com/vesivanov/mcp-search-analytics\n# See source for mcpServers config block"
+}

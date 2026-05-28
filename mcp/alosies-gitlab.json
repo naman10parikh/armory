@@ -1,0 +1,7 @@
+{
+  "name": "alosies-gitlab",
+  "description": "Integrates with GitLab's API to manage projects, issues, merge requests, pipelines, and CI/CD workflows with 22 specialized tools including pipeline control, job log analysis, branch browsing, and user management.",
+  "source_repo": "alosies/gitlab-mcp-server",
+  "source_url": "https://github.com/alosies/gitlab-mcp-server",
+  "install": "npx -y gitlab-mcp-server"
+}

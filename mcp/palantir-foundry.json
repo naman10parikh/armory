@@ -1,0 +1,7 @@
+{
+  "name": "palantir-foundry",
+  "description": "Bridges to Palantir Foundry platform, enabling ontology data interaction and SQL query execution against datasets with tools for listing types, querying objects, executing SQL, and running ontology functions.",
+  "source_repo": "qwert666/mcp-server-foundry",
+  "source_url": "https://github.com/qwert666/mcp-server-foundry",
+  "install": "# git clone --depth 1 https://github.com/qwert666/mcp-server-foundry\n# See source for mcpServers config block"
+}

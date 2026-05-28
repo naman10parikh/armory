@@ -1,0 +1,7 @@
+{
+  "name": "maximo-mcp-server",
+  "description": "IBM Maximo integration for API discovery, OSLC querying, and UI generation.",
+  "source_repo": "markusvankempen/maximo-mcp-ai-integration-options",
+  "source_url": "https://github.com/markusvankempen/maximo-mcp-ai-integration-options",
+  "install": "# git clone --depth 1 https://github.com/markusvankempen/maximo-mcp-ai-integration-options\n# See source for mcpServers config block"
+}

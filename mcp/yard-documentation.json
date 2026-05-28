@@ -1,0 +1,7 @@
+{
+  "name": "yard-documentation",
+  "description": "Exposes Ruby gem and YARD documentation through 11 specialized tools for exploring classes, methods, and inheritance hierarchies with fuzzy search, source code retrieval, and automatic documentation building for Ruby development workflows.",
+  "source_repo": "romanbsd/yardmcp",
+  "source_url": "https://github.com/romanbsd/yardmcp",
+  "install": "# git clone --depth 1 https://github.com/romanbsd/yardmcp\n# See source for mcpServers config block"
+}

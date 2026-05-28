@@ -1,0 +1,7 @@
+{
+  "name": "g-gremlin-hubspot-mcp",
+  "description": "Enables advanced HubSpot CRM operations including unlimited record extraction, duplicate detection and merging, property drift analysis, and bulk upserts, surpassing official API limits.",
+  "source_repo": "mikeheilmann1024/g-gremlin-hubspot-mcp",
+  "source_url": "https://github.com/mikeheilmann1024/g-gremlin-hubspot-mcp",
+  "install": "npx -y g-gremlin-hubspot-mcp"
+}

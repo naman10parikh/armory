@@ -1,0 +1,7 @@
+{
+  "name": "todoist-mcp-server-2",
+  "description": "Provides tools for AI assistants to manage tasks, projects, labels, sections, and comments via the Todoist API.",
+  "source_repo": "ganievs/todoist-mcp-server",
+  "source_url": "https://github.com/ganievs/todoist-mcp-server",
+  "install": "npx -y todoist-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nim-langserver",
+  "description": "Official Nim language server with MCP support for symbol navigation, diagnostics, and type resolution in Nim projects.",
+  "source_repo": "nim-lang/langserver",
+  "source_url": "https://github.com/nim-lang/langserver",
+  "install": "# git clone --depth 1 https://github.com/nim-lang/langserver\n# See source for mcpServers config block"
+}

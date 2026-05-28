@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-dex-analysis",
+  "description": "Digital Experience Monitoring (DEX) provides visibility into device, network, and application performance across your Zero Trust organization.",
+  "source_repo": "cloudflare/mcp-server-cloudflare",
+  "source_url": "https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/dex-analysis",
+  "install": "# git clone --depth 1 https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/dex-analysis\n# See source for mcpServers config block"
+}

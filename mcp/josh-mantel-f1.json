@@ -1,0 +1,7 @@
+{
+  "name": "josh-mantel-f1",
+  "description": "Integrates with Formula 1 data through the FastF1 Python package to provide race schedules, session results, driver standings, constructor standings, and detailed lap timing with telemetry information for motorsport analysis and visualization applications.",
+  "source_repo": "josh-mantel/mcp-f1",
+  "source_url": "https://github.com/josh-mantel/mcp-f1",
+  "install": "# git clone --depth 1 https://github.com/josh-mantel/mcp-f1\n# See source for mcpServers config block"
+}

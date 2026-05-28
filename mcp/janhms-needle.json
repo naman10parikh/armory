@@ -1,0 +1,7 @@
+{
+  "name": "janhms-needle",
+  "description": "Bridges Needle AI platform with MCP servers to enable advanced natural language processing and machine learning capabilities.",
+  "source_repo": "needle-ai/needle-mcp",
+  "source_url": "https://github.com/needle-ai/needle-mcp",
+  "install": "npx -y needle-mcp"
+}

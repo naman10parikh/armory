@@ -1,0 +1,7 @@
+{
+  "name": "jovezhong-timeplus",
+  "description": "Integrates with Timeplus to enable SQL query execution and database information retrieval for real-time analytics and data exploration.",
+  "source_repo": "timeplus-io/mcp-timeplus",
+  "source_url": "https://github.com/timeplus-io/mcp-timeplus",
+  "install": "# git clone --depth 1 https://github.com/timeplus-io/mcp-timeplus\n# See source for mcpServers config block"
+}

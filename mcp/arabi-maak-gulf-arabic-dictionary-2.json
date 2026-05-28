@@ -1,0 +1,7 @@
+{
+  "name": "arabi-maak-gulf-arabic-dictionary-2",
+  "description": "Look up Gulf Arabic words with pronunciation, example sentences, and cultural context. 30 essential words across 12 categories — greetings, slang, shopping, travel & more. Perfect for learning Arabic for Saudi Arabia, UAE, Qatar, Kuwait, Bahrain & Oman. 🌐 arabimaak.com 📖 dalilaksa.gumroad.com",
+  "source_repo": "",
+  "source_url": "https://arabimaak.com",
+  "install": "# git clone --depth 1 https://arabimaak.com\n# See source for mcpServers config block"
+}

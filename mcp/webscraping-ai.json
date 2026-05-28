@@ -1,0 +1,7 @@
+{
+  "name": "webscraping-ai",
+  "description": "Integrates with Instagram through the private API to provide authentication, profile management, content discovery, and automated engagement actions like liking posts with session persistence and rate limit handling.",
+  "source_repo": "webscraping-ai/webscraping-ai-mcp-server",
+  "source_url": "https://github.com/webscraping-ai/webscraping-ai-mcp-server",
+  "install": "npx -y webscraping-ai-mcp-server"
+}

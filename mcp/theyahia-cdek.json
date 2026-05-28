@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-cdek",
+  "description": "Integrates with CDEK for tariff calculation, order management, and shipment tracking.",
+  "source_repo": "theyahia/cdek-mcp",
+  "source_url": "https://github.com/theyahia/cdek-mcp",
+  "install": "npx -y cdek-mcp"
+}

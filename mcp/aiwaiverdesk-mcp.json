@@ -1,0 +1,7 @@
+{
+  "name": "aiwaiverdesk-mcp",
+  "description": "AI governance waiver checks with exception approvals, expiry review, and audit receipts.",
+  "source_repo": "clauxel/ai-governance-waiver-desk-mcp",
+  "source_url": "https://github.com/clauxel/ai-governance-waiver-desk-mcp",
+  "install": "npx -y ai-governance-waiver-desk-mcp"
+}

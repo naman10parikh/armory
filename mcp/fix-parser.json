@@ -1,0 +1,7 @@
+{
+  "name": "fix-parser",
+  "description": "Remote MCP server for parsing FIX protocol messages into UFO, FFE, and sequence formats.",
+  "source_repo": "onikora/mcp-registry",
+  "source_url": "https://github.com/onikora/mcp-registry",
+  "install": "# git clone --depth 1 https://github.com/onikora/mcp-registry\n# See source for mcpServers config block"
+}

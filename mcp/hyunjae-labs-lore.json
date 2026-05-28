@@ -1,0 +1,7 @@
+{
+  "name": "hyunjae-labs-lore",
+  "description": "Semantic search across Claude Code conversations using hybrid vector and keyword search, fully local with no API keys required.",
+  "source_repo": "hyunjae-labs/lore",
+  "source_url": "https://github.com/hyunjae-labs/lore",
+  "install": "# git clone --depth 1 https://github.com/hyunjae-labs/lore\n# See source for mcpServers config block"
+}

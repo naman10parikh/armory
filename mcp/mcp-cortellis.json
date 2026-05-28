@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cortellis",
+  "description": "Mcp Cortellis MCP server listed on mcp.so.",
+  "source_repo": "uh-joan/mcp-cortellis",
+  "source_url": "https://mcp.so/server/mcp-cortellis/uh-joan",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-cortellis/uh-joan\n# See source for mcpServers config block"
+}

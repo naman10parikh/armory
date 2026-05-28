@@ -1,0 +1,7 @@
+{
+  "name": "azure-pricing",
+  "description": "Integrates with Microsoft's Azure Retail Prices API to provide service family listings, product filtering, and monthly cost calculations for cloud pricing analysis and budget planning workflows.",
+  "source_repo": "sboludaf/mcp-azure-pricing",
+  "source_url": "https://github.com/sboludaf/mcp-azure-pricing",
+  "install": "# git clone --depth 1 https://github.com/sboludaf/mcp-azure-pricing\n# See source for mcpServers config block"
+}

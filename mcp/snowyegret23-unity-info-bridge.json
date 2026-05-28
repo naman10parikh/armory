@@ -1,0 +1,7 @@
+{
+  "name": "snowyegret23-unity-info-bridge",
+  "description": "Bridges running Unity games for runtime inspection with scene hierarchy, component analysis, text discovery, and snapshot tools for modding and localization.",
+  "source_repo": "snowyegret23/unityinfomcp",
+  "source_url": "https://github.com/snowyegret23/unityinfomcp",
+  "install": "# git clone --depth 1 https://github.com/snowyegret23/unityinfomcp\n# See source for mcpServers config block"
+}

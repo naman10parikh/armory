@@ -1,0 +1,7 @@
+{
+  "name": "browser-spend-guard",
+  "description": "Approval receipts and budget alerts for AI agent browser purchases.",
+  "source_repo": "clauxel/browser-spend-guard-mcp",
+  "source_url": "https://github.com/clauxel/browser-spend-guard-mcp",
+  "install": "npx -y browser-spend-guard-mcp"
+}

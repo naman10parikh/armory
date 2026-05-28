@@ -1,0 +1,7 @@
+{
+  "name": "khgs2411-memvid",
+  "description": "Provides persistent file-based memory storage for maintaining context across sessions, storing text documents with metadata, and performing hybrid semantic search with optional natural language querying.",
+  "source_repo": "khgs2411/memvid_mcp",
+  "source_url": "https://github.com/khgs2411/memvid_mcp",
+  "install": "npx -y memvid_mcp"
+}

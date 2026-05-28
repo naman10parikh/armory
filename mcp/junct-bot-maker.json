@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-maker",
+  "description": "Hosted integration with Maker (MakerDAO) protocol for DAI stablecoin and vault analytics via Junct platform.",
+  "source_repo": "junct-bot/maker-mcp",
+  "source_url": "https://github.com/junct-bot/maker-mcp",
+  "install": "npx -y maker-mcp"
+}

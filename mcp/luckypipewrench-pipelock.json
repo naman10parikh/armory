@@ -1,0 +1,7 @@
+{
+  "name": "luckypipewrench-pipelock",
+  "description": "Security harness that wraps MCP servers as stdio proxies with credential exfiltration prevention, DLP pattern matching, and SSRF protection.",
+  "source_repo": "luckypipewrench/pipelock",
+  "source_url": "https://github.com/luckypipewrench/pipelock",
+  "install": "# git clone --depth 1 https://github.com/luckypipewrench/pipelock\n# See source for mcpServers config block"
+}

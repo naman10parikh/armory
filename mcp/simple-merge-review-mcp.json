@@ -1,0 +1,7 @@
+{
+  "name": "simple-merge-review-mcp",
+  "description": "Provides lightweight Git merge analysis with quick overviews of changes, file lists, and branch status without complex conflict checks.",
+  "source_repo": "sigmade/Git-MCP-Server",
+  "source_url": "https://github.com/sigmade/Git-MCP-Server",
+  "install": "npx -y Git-MCP-Server"
+}

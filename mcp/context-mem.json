@@ -1,0 +1,7 @@
+{
+  "name": "context-mem",
+  "description": "Persistent memory system for AI agents with 44 tools and 98%+ retrieval accuracy.",
+  "source_repo": "jubakitiashvili/context-mem",
+  "source_url": "https://github.com/jubakitiashvili/context-mem",
+  "install": "# git clone --depth 1 https://github.com/jubakitiashvili/context-mem\n# See source for mcpServers config block"
+}

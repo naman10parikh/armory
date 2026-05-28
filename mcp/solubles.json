@@ -1,0 +1,7 @@
+{
+  "name": "solubles",
+  "description": "French solutions journalism podcast providing AI agents access to episode transcripts, search, and junior versions on ecology, climate, and society.",
+  "source_repo": "petitsolu/soluble-mcp",
+  "source_url": "https://github.com/petitsolu/soluble-mcp",
+  "install": "npx -y soluble-mcp"
+}

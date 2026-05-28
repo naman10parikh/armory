@@ -1,0 +1,7 @@
+{
+  "name": "dependency-tracer-mcp-server",
+  "description": "Maps function and component dependencies in Haskell and ReScript codebases, providing LLMs with a real dependency graph for accurate test generation and change-impact analysis.",
+  "source_repo": "pdogra1299/dep-tracer-mcp",
+  "source_url": "https://github.com/pdogra1299/dep-tracer-mcp",
+  "install": "npx -y dep-tracer-mcp"
+}

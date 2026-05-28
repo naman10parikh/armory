@@ -1,0 +1,7 @@
+{
+  "name": "kilicmu-web-content-pick",
+  "description": "Extracts structured content from web pages using customizable selectors for crawling, parsing, and analyzing HTML elements without leaving the assistant interface.",
+  "source_repo": "kilicmu/mcp-web-content-pick",
+  "source_url": "https://github.com/kilicmu/mcp-web-content-pick",
+  "install": "# git clone --depth 1 https://github.com/kilicmu/mcp-web-content-pick\n# See source for mcpServers config block"
+}

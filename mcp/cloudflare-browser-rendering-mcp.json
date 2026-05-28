@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-browser-rendering-mcp",
+  "description": "Cloudflare Browser Rendering Mcp MCP server listed on mcp.so.",
+  "source_repo": "amotivv/cloudflare-browser-rendering-mcp",
+  "source_url": "https://mcp.so/server/cloudflare-browser-rendering-mcp/amotivv",
+  "install": "npx -y cloudflare-browser-rendering-mcp"
+}

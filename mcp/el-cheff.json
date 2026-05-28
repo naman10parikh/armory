@@ -1,0 +1,7 @@
+{
+  "name": "el-cheff",
+  "description": "POS (point of sale) system for restaurants on the elcheff.com.mx platform.",
+  "source_repo": "",
+  "source_url": "https://elcheff.com.mx",
+  "install": "# git clone --depth 1 https://elcheff.com.mx\n# See source for mcpServers config block"
+}

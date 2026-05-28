@@ -1,0 +1,7 @@
+{
+  "name": "alan-mcintyre",
+  "description": "Query Alan McIntyre's consulting profile — skills, project history, availability, and technical background for CodeReclaimers LLC engagements.",
+  "source_repo": "",
+  "source_url": "https://codereclaimers.com",
+  "install": "# git clone --depth 1 https://codereclaimers.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "markmhendrickson-neotoma",
+  "description": "Deterministic state layer for AI agents. Stores versioned entities (contacts, tasks, transactions, decisions) with immutable observations, full provenance, and schema-first extraction. Local-first SQLite, cross-client memory across Claude, Cursor, ChatGPT, and OpenClaw. [Website](https://neotoma.io)",
+  "source_repo": "markmhendrickson/neotoma",
+  "source_url": "https://github.com/markmhendrickson/neotoma",
+  "install": "# git clone --depth 1 https://github.com/markmhendrickson/neotoma\n# See source for mcpServers config block"
+}

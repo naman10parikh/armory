@@ -1,0 +1,7 @@
+{
+  "name": "alexcandrabersiva-binance-futures",
+  "description": "Integrates with Binance Futures API to provide real-time market data access and account management functionality for cryptocurrency trading applications.",
+  "source_repo": "alexcandrabersiva/bin-mcp",
+  "source_url": "https://github.com/alexcandrabersiva/bin-mcp",
+  "install": "npx -y bin-mcp"
+}

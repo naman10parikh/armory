@@ -1,0 +1,7 @@
+{
+  "name": "gotask-mcp",
+  "description": "Gotask Mcp MCP server listed on mcp.so.",
+  "source_repo": "PaddyAlton/gotask-mcp",
+  "source_url": "https://mcp.so/server/gotask-mcp/PaddyAlton",
+  "install": "npx -y gotask-mcp"
+}

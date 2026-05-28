@@ -1,0 +1,7 @@
+{
+  "name": "local-wp",
+  "description": "Automatically detects and connects to Local by Flywheel WordPress development environments by scanning running processes to find active mysqld instances and dynamically building correct connection parameters, providing reliable database access for WordPress developers without manual path configuration.",
+  "source_repo": "verygoodplugins/mcp-local-wp",
+  "source_url": "https://github.com/verygoodplugins/mcp-local-wp",
+  "install": "# git clone --depth 1 https://github.com/verygoodplugins/mcp-local-wp\n# See source for mcpServers config block"
+}

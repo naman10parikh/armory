@@ -1,0 +1,7 @@
+{
+  "name": "cdp-mcp-server",
+  "description": "Wraps Chrome DevTools Protocol to provide AI agents with low-level browser debugging tools including breakpoints, stack traces, stepping, network interception, and source maps.",
+  "source_repo": "jekyll-001/cdp-mcp-server",
+  "source_url": "https://github.com/jekyll-001/cdp-mcp-server",
+  "install": "npx -y cdp-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ac3xx-kagi-search",
+  "description": "Perform privacy-focused web searches via Kagi's search engine.",
+  "source_repo": "ac3xx/mcp-servers-kagi",
+  "source_url": "https://github.com/ac3xx/mcp-servers-kagi",
+  "install": "# git clone --depth 1 https://github.com/ac3xx/mcp-servers-kagi\n# See source for mcpServers config block"
+}

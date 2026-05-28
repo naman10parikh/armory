@@ -1,0 +1,7 @@
+{
+  "name": "gethal",
+  "description": "Read-only MCP server for the Gethal AI autonomous sales platform — pricing, features, use cases, and demo booking without authentication.",
+  "source_repo": "",
+  "source_url": "https://gethal.ai",
+  "install": "# git clone --depth 1 https://gethal.ai\n# See source for mcpServers config block"
+}

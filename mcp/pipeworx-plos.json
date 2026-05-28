@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-plos",
+  "description": "Search PLOS open-access journals via Solr full-text indexing.",
+  "source_repo": "pipeworx-io/mcp-plos",
+  "source_url": "https://github.com/pipeworx-io/mcp-plos",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-plos\n# See source for mcpServers config block"
+}

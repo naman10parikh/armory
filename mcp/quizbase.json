@@ -1,0 +1,7 @@
+{
+  "name": "quizbase",
+  "description": "MCP server for a multilingual trivia API with 1.4M+ questions across 24 categories in English and Polish.",
+  "source_repo": "",
+  "source_url": "https://quizbase.runriva.com/mcp",
+  "install": "# git clone --depth 1 https://quizbase.runriva.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cafitac-codex-channels",
+  "description": "Route Codex agent approval requests, user input, and MCP elicitation to Slack, Discord, or Telegram channels.",
+  "source_repo": "cafitac/codex-channels",
+  "source_url": "https://github.com/cafitac/codex-channels",
+  "install": "# git clone --depth 1 https://github.com/cafitac/codex-channels\n# See source for mcpServers config block"
+}

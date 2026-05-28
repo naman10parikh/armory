@@ -1,0 +1,7 @@
+{
+  "name": "paladini-mcp-me",
+  "description": "Digital identity layer for AI — your bio, career, skills, interests, and projects always available to every AI tool. Auto-generates profile from 342+ public APIs (GitHub, Medium, Strava, Goodreads, etc.), 13 real-time plugins (Spotify, Last.fm, Steam), YAML-based profiles with privacy-first local storage. Works with Claude Desktop, Cursor, Windsurf, and any MCP client.",
+  "source_repo": "paladini/mcp-me",
+  "source_url": "https://github.com/paladini/mcp-me",
+  "install": "# git clone --depth 1 https://github.com/paladini/mcp-me\n# See source for mcpServers config block"
+}

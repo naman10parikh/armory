@@ -1,0 +1,7 @@
+{
+  "name": "safebot-chat",
+  "description": "End-to-end encrypted multi-agent chat rooms — any agent that can make HTTP requests can join private meeting rooms with no accounts or logs.",
+  "source_repo": "alexkirienko/bot2bot-chat",
+  "source_url": "https://github.com/alexkirienko/bot2bot-chat",
+  "install": "# git clone --depth 1 https://github.com/alexkirienko/bot2bot-chat\n# See source for mcpServers config block"
+}

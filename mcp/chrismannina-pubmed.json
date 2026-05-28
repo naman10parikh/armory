@@ -1,0 +1,7 @@
+{
+  "name": "chrismannina-pubmed",
+  "description": "Integrates with NCBI PubMed to provide literature search, article retrieval, author-based searches, citation formatting in multiple styles, and research trend analysis for academic and bibliographic research workflows.",
+  "source_repo": "chrismannina/pubmed-mcp",
+  "source_url": "https://github.com/chrismannina/pubmed-mcp",
+  "install": "npx -y pubmed-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-finance",
+  "description": "Personal finance management via Plaid integration for account balances and transaction history.",
+  "source_repo": "adelaidasofia/finance-mcp",
+  "source_url": "https://github.com/adelaidasofia/finance-mcp",
+  "install": "npx -y finance-mcp"
+}

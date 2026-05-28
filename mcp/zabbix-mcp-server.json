@@ -1,0 +1,7 @@
+{
+  "name": "zabbix-mcp-server",
+  "description": "Provides advanced, programmable access to Zabbix monitoring data and management features, enabling querying, automation, and integration of Zabbix resources.",
+  "source_repo": "mhajder/zabbix-mcp",
+  "source_url": "https://github.com/mhajder/zabbix-mcp",
+  "install": "npx -y zabbix-mcp"
+}

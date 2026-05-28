@@ -1,0 +1,7 @@
+{
+  "name": "travel-assistant-mcp-2",
+  "description": "AI-native travel search MCP with affiliate booking links and optional x402 premium intelligence.",
+  "source_repo": "forgemeshlabs/travel",
+  "source_url": "https://github.com/forgemeshlabs/travel",
+  "install": "# git clone --depth 1 https://github.com/forgemeshlabs/travel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "c4m3lblue-star-xray-cloud",
+  "description": "Integrates with Xray Cloud API to provide test management capabilities including test case creation, execution tracking, test planning, and JQL-based searches across all test artifacts for QA workflow automation and CI/CD pipeline integration.",
+  "source_repo": "c4m3lblue-star/xray-mcp",
+  "source_url": "https://github.com/c4m3lblue-star/xray-mcp",
+  "install": "npx -y xray-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "git-acet-smsenmasse",
+  "description": "Send bulk SMS messages and manage campaigns directly from AI agents.",
+  "source_repo": "git-acet/smsenmasse-mcp",
+  "source_url": "https://github.com/git-acet/smsenmasse-mcp",
+  "install": "npx -y smsenmasse-mcp"
+}

@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Operate and extend NanoClaw v2, ECC's zero-dependency session-aware REPL built on claude -p.

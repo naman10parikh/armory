@@ -1,0 +1,7 @@
+{
+  "name": "dljrealty-guesty",
+  "description": "Guesty property management integration with 38 tools for reservations, guests, messaging, pricing, and financials.",
+  "source_repo": "dljrealty/guesty-mcp-server",
+  "source_url": "https://github.com/dljrealty/guesty-mcp-server",
+  "install": "npx -y guesty-mcp-server"
+}

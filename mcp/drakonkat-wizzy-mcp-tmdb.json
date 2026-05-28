@@ -1,0 +1,7 @@
+{
+  "name": "drakonkat-wizzy-mcp-tmdb",
+  "description": "A MCP server for The Movie Database API that enables AI assistants to search and retrieve movie, TV show, and person information.",
+  "source_repo": "drakonkat/wizzy-mcp-tmdb",
+  "source_url": "https://github.com/drakonkat/wizzy-mcp-tmdb",
+  "install": "# git clone --depth 1 https://github.com/drakonkat/wizzy-mcp-tmdb\n# See source for mcpServers config block"
+}

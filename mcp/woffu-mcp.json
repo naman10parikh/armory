@@ -1,0 +1,7 @@
+{
+  "name": "woffu-mcp",
+  "description": "Enables clocking in/out, viewing work status, and managing time entries on Woffu via MCP tools.",
+  "source_repo": "iflorit/mcp-woffu-server",
+  "source_url": "https://github.com/iflorit/mcp-woffu-server",
+  "install": "# git clone --depth 1 https://github.com/iflorit/mcp-woffu-server\n# See source for mcpServers config block"
+}

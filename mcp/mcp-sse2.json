@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sse2",
+  "description": "MCP SSE2 MCP server listed on mcp.so.",
+  "source_repo": "biswapm/MCP-SSE2",
+  "source_url": "https://mcp.so/server/MCP-SSE2/biswapm",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-SSE2/biswapm\n# See source for mcpServers config block"
+}

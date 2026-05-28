@@ -1,0 +1,7 @@
+{
+  "name": "robbhimself-1337-claude-army",
+  "description": "Orchestrates multiple Claude Code agents across different projects in parallel from a single chat interface.",
+  "source_repo": "robbhimself-1337/claude-army",
+  "source_url": "https://github.com/robbhimself-1337/claude-army",
+  "install": "# git clone --depth 1 https://github.com/robbhimself-1337/claude-army\n# See source for mcpServers config block"
+}

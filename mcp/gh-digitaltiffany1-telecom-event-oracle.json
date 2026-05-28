@@ -1,0 +1,7 @@
+{
+  "name": "gh-digitaltiffany1-telecom-event-oracle",
+  "description": "Audits telecom routing paths, verifies local number portability, and identifies congestion risks for high-traffic events.",
+  "source_repo": "digitaltiffany1/telecom-event-oracle-mcp",
+  "source_url": "https://github.com/digitaltiffany1/telecom-event-oracle-mcp",
+  "install": "npx -y telecom-event-oracle-mcp"
+}

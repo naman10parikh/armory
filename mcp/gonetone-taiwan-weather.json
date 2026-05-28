@@ -1,0 +1,7 @@
+{
+  "name": "gonetone-taiwan-weather",
+  "description": "Retrieves weather forecast data from Taiwan's Central Weather Administration API",
+  "source_repo": "gonetone/mcp-server-taiwan-weather",
+  "source_url": "https://github.com/gonetone/mcp-server-taiwan-weather",
+  "install": "# git clone --depth 1 https://github.com/gonetone/mcp-server-taiwan-weather\n# See source for mcpServers config block"
+}

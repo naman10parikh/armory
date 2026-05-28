@@ -1,0 +1,7 @@
+{
+  "name": "niyonabil-blogger",
+  "description": "Connects to Google's Blogger API for creating, updating, and managing blog posts through TypeScript-based Node.js implementation with Google authentication support.",
+  "source_repo": "niyonabil/blogger-mcp-server",
+  "source_url": "https://github.com/niyonabil/blogger-mcp-server",
+  "install": "npx -y blogger-mcp-server"
+}

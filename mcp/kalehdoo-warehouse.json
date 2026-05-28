@@ -1,0 +1,7 @@
+{
+  "name": "kalehdoo-warehouse",
+  "description": "Universal production MCP server for Postgres, Oracle, Snowflake, BigQuery, Redshift, and DuckDB data warehouses.",
+  "source_repo": "kalehdoo/warehouse-mcp",
+  "source_url": "https://github.com/kalehdoo/warehouse-mcp",
+  "install": "npx -y warehouse-mcp"
+}

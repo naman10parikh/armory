@@ -1,0 +1,7 @@
+{
+  "name": "goplausible-algorand",
+  "description": "Provides a robust toolkit for Algorand blockchain interactions, enabling AI agents to create accounts, manage assets, deploy smart contracts, and execute transactions through a TypeScript-based implementation.",
+  "source_repo": "goplausible/algorand-mcp",
+  "source_url": "https://github.com/goplausible/algorand-mcp",
+  "install": "npx -y algorand-mcp"
+}

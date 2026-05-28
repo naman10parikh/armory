@@ -1,0 +1,7 @@
+{
+  "name": "reapi-com-mcp-openapi",
+  "description": "MCP server that lets LLMs know everything about your OpenAPI specifications to discover, explain and generate code/mock data",
+  "source_repo": "ReAPI-com/mcp-openapi",
+  "source_url": "https://github.com/ReAPI-com/mcp-openapi",
+  "install": "# git clone --depth 1 https://github.com/ReAPI-com/mcp-openapi\n# See source for mcpServers config block"
+}

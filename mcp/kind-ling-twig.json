@@ -1,0 +1,7 @@
+{
+  "name": "kind-ling-twig",
+  "description": "MCP server quality scoring and optimization for the agent economy.",
+  "source_repo": "kind-ling/twig",
+  "source_url": "https://github.com/kind-ling/twig",
+  "install": "# git clone --depth 1 https://github.com/kind-ling/twig\n# See source for mcpServers config block"
+}

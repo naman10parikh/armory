@@ -1,0 +1,7 @@
+{
+  "name": "codemaestroai-advanced-unity",
+  "description": "Unity Editor package that enables direct integration between Unity development environments and external tools for game development workflows including scripting, scene management, and asset organization.",
+  "source_repo": "codemaestroai/advanced-unity-mcp",
+  "source_url": "https://github.com/codemaestroai/advanced-unity-mcp",
+  "install": "npx -y advanced-unity-mcp"
+}

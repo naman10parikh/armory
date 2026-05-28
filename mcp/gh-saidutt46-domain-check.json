@@ -1,0 +1,7 @@
+{
+  "name": "gh-saidutt46-domain-check",
+  "description": "Universal domain availability checker with RDAP/WHOIS, batch checks, TLD presets, and name generation.",
+  "source_repo": "saidutt46/domain-check",
+  "source_url": "https://github.com/saidutt46/domain-check",
+  "install": "# git clone --depth 1 https://github.com/saidutt46/domain-check\n# See source for mcpServers config block"
+}

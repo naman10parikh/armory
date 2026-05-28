@@ -1,0 +1,7 @@
+{
+  "name": "pancrepal-xiaoyibao-get-notes",
+  "description": "Integrates with Get Notes (Biji) API to provide knowledge base search and retrieval functionality from Chinese note-taking platforms with multi-knowledge base support, rate limiting, and intelligent document recall.",
+  "source_repo": "pancrepal-xiaoyibao/get-biji-dev-by-gemini3pro",
+  "source_url": "https://github.com/pancrepal-xiaoyibao/get-biji-dev-by-gemini3pro",
+  "install": "# git clone --depth 1 https://github.com/pancrepal-xiaoyibao/get-biji-dev-by-gemini3pro\n# See source for mcpServers config block"
+}

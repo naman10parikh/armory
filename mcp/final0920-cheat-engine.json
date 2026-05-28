@@ -1,0 +1,7 @@
+{
+  "name": "final0920-cheat-engine",
+  "description": "Cheat Engine plugin exposing an HTTP MCP endpoint for AI-driven memory inspection, disassembly, and breakpoint operations on Windows.",
+  "source_repo": "final0920/ce-mcp",
+  "source_url": "https://github.com/final0920/ce-mcp",
+  "install": "npx -y ce-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "podcast-transcripts-on-demand",
+  "description": "Access high quality transcripts for podcasts. Updated in real-time as new episodes are published. This MCP server also accepts feedback for feature requests and bug reports.",
+  "source_repo": "",
+  "source_url": "https://podcasts.petabloom.com/",
+  "install": "# git clone --depth 1 https://podcasts.petabloom.com/\n# See source for mcpServers config block"
+}

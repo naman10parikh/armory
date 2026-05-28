@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-32",
+  "description": "Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "tmizuma/mcp-server",
+  "source_url": "https://mcp.so/server/mcp-server/tmizuma",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server/tmizuma\n# See source for mcpServers config block"
+}

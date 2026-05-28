@@ -1,0 +1,7 @@
+{
+  "name": "jamesrosing-tebra",
+  "description": "Connects AI agents to Tebra practice management with SOAP and FHIR APIs.",
+  "source_repo": "jamesrosing/tebra-mcp-server",
+  "source_url": "https://github.com/jamesrosing/tebra-mcp-server",
+  "install": "npx -y tebra-mcp-server"
+}

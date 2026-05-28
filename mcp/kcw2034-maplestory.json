@@ -1,0 +1,7 @@
+{
+  "name": "kcw2034-maplestory",
+  "description": "Query Nexon MapleStory game data including character stats, equipment, rankings, union info, guild details, and official notices.",
+  "source_repo": "kcw2034/maplestory-mcp-server",
+  "source_url": "https://github.com/kcw2034/maplestory-mcp-server",
+  "install": "npx -y maplestory-mcp-server"
+}

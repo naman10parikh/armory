@@ -1,0 +1,7 @@
+{
+  "name": "makeup-land",
+  "description": "Israeli cosmetics retailer offering shade matching, cart, orders, and gift cards via MCP.",
+  "source_repo": "",
+  "source_url": "https://makeup.land",
+  "install": "# git clone --depth 1 https://makeup.land\n# See source for mcpServers config block"
+}

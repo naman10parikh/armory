@@ -1,0 +1,7 @@
+{
+  "name": "trackio",
+  "description": "Automatically monkey-patches Gradio applications to expose trackio experiment tracking data, enabling query access to machine learning projects, runs, metrics, and statistics without requiring code changes to existing workflows.",
+  "source_repo": "fcakyon/trackio-mcp",
+  "source_url": "https://github.com/fcakyon/trackio-mcp",
+  "install": "npx -y trackio-mcp"
+}

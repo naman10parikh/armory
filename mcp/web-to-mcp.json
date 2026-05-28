@@ -1,0 +1,7 @@
+{
+  "name": "web-to-mcp",
+  "description": "Bridge the gap between design and code. Send pixel-perfect website components directly to Cursor or Claude Code. No more screenshots or descriptions needed.",
+  "source_repo": "",
+  "source_url": "https://web-to-mcp.com/",
+  "install": "# git clone --depth 1 https://web-to-mcp.com/\n# See source for mcpServers config block"
+}

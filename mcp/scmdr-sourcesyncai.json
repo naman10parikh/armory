@@ -1,0 +1,7 @@
+{
+  "name": "scmdr-sourcesyncai",
+  "description": "Integrates with SourceSync.ai's knowledge management platform to enable semantic search, document management, and content ingestion from diverse sources for AI-driven knowledge retrieval and document analysis.",
+  "source_repo": "scmdr/sourcesyncai-mcp",
+  "source_url": "https://github.com/scmdr/sourcesyncai-mcp",
+  "install": "npx -y sourcesyncai-mcp"
+}

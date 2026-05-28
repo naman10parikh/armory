@@ -1,0 +1,7 @@
+{
+  "name": "tally",
+  "description": "Build Tally forms using natural language through AI assistants like Claude. Instead of clicking through form builders, you can simply tell Claude what you want and it will create your forms for you.",
+  "source_repo": "",
+  "source_url": "https://developers.tally.so/api-reference/mcp",
+  "install": "# git clone --depth 1 https://developers.tally.so/api-reference/mcp\n# See source for mcpServers config block"
+}

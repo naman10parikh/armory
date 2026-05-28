@@ -1,0 +1,7 @@
+{
+  "name": "khalid-tounoussi-1-stil-lab",
+  "description": "Search the STIL research lab knowledge base at ETS Montreal, find papers via ArXiv and Semantic Scholar.",
+  "source_repo": "",
+  "source_url": "https://web-production-4729.up.railway.app/mcp",
+  "install": "# git clone --depth 1 https://web-production-4729.up.railway.app/mcp\n# See source for mcpServers config block"
+}

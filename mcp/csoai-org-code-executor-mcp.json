@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-code-executor-mcp",
+  "description": "Secure code execution environment with multiple language support.",
+  "source_repo": "csoai-org/code-executor-mcp",
+  "source_url": "https://github.com/csoai-org/code-executor-mcp",
+  "install": "npx -y code-executor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paulwenner-dreissigacker",
+  "description": "Wine concierge MCP server for the Dreissigacker winery, providing wine data and recommendations.",
+  "source_repo": "paulwenner/dreissigacker-wine-concierge",
+  "source_url": "https://github.com/paulwenner/dreissigacker-wine-concierge",
+  "install": "# git clone --depth 1 https://github.com/paulwenner/dreissigacker-wine-concierge\n# See source for mcpServers config block"
+}

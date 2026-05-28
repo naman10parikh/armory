@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-binance-alpha",
+  "description": "Tracks Binance Alpha trades in real-time by monitoring on-chain DEX router events and provides trading volume analysis and statistics to optimize alpha point accumulation strategies.",
+  "source_repo": "kukapay/binance-alpha-mcp",
+  "source_url": "https://github.com/kukapay/binance-alpha-mcp",
+  "install": "npx -y binance-alpha-mcp"
+}

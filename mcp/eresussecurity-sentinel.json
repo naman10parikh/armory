@@ -1,0 +1,7 @@
+{
+  "name": "eresussecurity-sentinel",
+  "description": "Security scanning platform for AI and LLM ecosystems with MCP proxy, schema validation, and 48+ security probes.",
+  "source_repo": "eresussecurity/eresus-sentinel",
+  "source_url": "https://github.com/eresussecurity/eresus-sentinel",
+  "install": "# git clone --depth 1 https://github.com/eresussecurity/eresus-sentinel\n# See source for mcpServers config block"
+}

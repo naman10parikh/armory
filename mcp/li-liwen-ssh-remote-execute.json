@@ -1,0 +1,7 @@
+{
+  "name": "li-liwen-ssh-remote-execute",
+  "description": "Executes shell commands on remote servers via SSH with per-host permissions and automatic SSH config parsing.",
+  "source_repo": "li-liwen/ssh-mcp",
+  "source_url": "https://github.com/li-liwen/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wasdubya-x64dbg",
+  "description": "Enables Claude to control x64dbg through natural language commands for dynamic analysis of software, supporting console commands, debugging status checks, module listing, and memory address lookups.",
+  "source_repo": "wasdubya/x64dbgmcp",
+  "source_url": "https://github.com/wasdubya/x64dbgmcp",
+  "install": "# git clone --depth 1 https://github.com/wasdubya/x64dbgmcp\n# See source for mcpServers config block"
+}

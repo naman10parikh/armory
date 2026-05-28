@@ -1,0 +1,7 @@
+{
+  "name": "park-sunho-coqtail",
+  "description": "MCP server for interactive Rocq/Coq proof sessions with tools to step through proofs, inspect goals, and execute queries.",
+  "source_repo": "park-sunho/coqtail-mcp",
+  "source_url": "https://github.com/park-sunho/coqtail-mcp",
+  "install": "npx -y coqtail-mcp"
+}

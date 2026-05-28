@@ -1,0 +1,7 @@
+{
+  "name": "daiji-sshr-redmine-mcp-stateless",
+  "description": "Stateless Redmine MCP server. Credentials are passed per-request via HTTP headers and never stored on the server. Supports listing/creating/updating issues, full-text search across subjects, descriptions and comments, and editing journals (Redmine 5.0+). Deployable on RHEL (systemd) or Docker.",
+  "source_repo": "daiji-sshr/redmine-mcp-stateless",
+  "source_url": "https://github.com/daiji-sshr/redmine-mcp-stateless",
+  "install": "# git clone --depth 1 https://github.com/daiji-sshr/redmine-mcp-stateless\n# See source for mcpServers config block"
+}

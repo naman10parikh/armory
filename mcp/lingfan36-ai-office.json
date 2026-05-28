@@ -1,0 +1,7 @@
+{
+  "name": "lingfan36-ai-office",
+  "description": "MCP server suite for live Microsoft Office automation including Excel, Word, and PowerPoint.",
+  "source_repo": "lingfan36/ai-office-mcp",
+  "source_url": "https://github.com/lingfan36/ai-office-mcp",
+  "install": "npx -y ai-office-mcp"
+}

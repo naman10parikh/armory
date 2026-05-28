@@ -1,0 +1,7 @@
+{
+  "name": "anoopt-london-tfl",
+  "description": "Provides real-time London transport data including tube line status, detailed disruption information, and comprehensive journey planning between any London locations or UK postcodes with intelligent location disambiguation and multi-modal route options.",
+  "source_repo": "anoopt/london-tfl-journey-status-mcp-server",
+  "source_url": "https://github.com/anoopt/london-tfl-journey-status-mcp-server",
+  "install": "npx -y london-tfl-journey-status-mcp-server"
+}

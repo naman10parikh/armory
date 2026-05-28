@@ -1,0 +1,7 @@
+{
+  "name": "sunwood-ai-labs-directory-visualization",
+  "description": "Integrates directory structure visualization and analysis tools to generate and reason about project file hierarchies for codebase understanding.",
+  "source_repo": "sunwood-ai-labs/source-sage-mcp-server",
+  "source_url": "https://github.com/sunwood-ai-labs/source-sage-mcp-server",
+  "install": "npx -y source-sage-mcp-server"
+}

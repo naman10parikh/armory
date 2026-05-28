@@ -1,0 +1,7 @@
+{
+  "name": "drupal-best-practices",
+  "description": "Provides access to curated Drupal development standards and security guidelines through searchable CSV-based knowledge covering coding conventions, OWASP vulnerabilities, accessibility requirements, and API design patterns with category filtering and severity prioritization.",
+  "source_repo": "abderrahimghazali/bestpractices_mcp",
+  "source_url": "https://github.com/abderrahimghazali/bestpractices_mcp",
+  "install": "npx -y bestpractices_mcp"
+}

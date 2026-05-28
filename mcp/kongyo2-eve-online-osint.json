@@ -1,0 +1,7 @@
+{
+  "name": "kongyo2-eve-online-osint",
+  "description": "Integrates with EVE Online APIs including ESI, EveWho, and zKillboard to provide comprehensive intelligence gathering on characters, corporations, and alliances through automated entity resolution, killmail analysis, member activity tracking, and security reconnaissance reporting.",
+  "source_repo": "kongyo2/eve-online-osint-mcp",
+  "source_url": "https://github.com/kongyo2/eve-online-osint-mcp",
+  "install": "npx -y eve-online-osint-mcp"
+}

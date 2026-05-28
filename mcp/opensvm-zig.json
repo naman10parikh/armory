@@ -1,0 +1,7 @@
+{
+  "name": "opensvm-zig",
+  "description": "Integrates with Zig tooling to provide code optimization, analysis, and generation capabilities for efficient Zig development.",
+  "source_repo": "opensvm/zig-mcp-server",
+  "source_url": "https://github.com/opensvm/zig-mcp-server",
+  "install": "npx -y zig-mcp-server"
+}

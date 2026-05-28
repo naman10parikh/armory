@@ -1,0 +1,7 @@
+{
+  "name": "solana-web3js-mcp-server",
+  "description": "Solana Web3js Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "FrankGenGo/solana-web3js-mcp-server",
+  "source_url": "https://mcp.so/server/solana-web3js-mcp-server/FrankGenGo",
+  "install": "npx -y solana-web3js-mcp-server"
+}

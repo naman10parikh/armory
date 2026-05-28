@@ -1,0 +1,7 @@
+{
+  "name": "jonaolden-powerbi-tabular",
+  "description": "Connects to locally running Power BI Desktop tabular models via ADOMD.NET, enabling DAX query execution, metadata exploration, and model analysis with automatic instance discovery and comprehensive error reporting for Power BI development and troubleshooting.",
+  "source_repo": "jonaolden/mcpbi",
+  "source_url": "https://github.com/jonaolden/mcpbi",
+  "install": "# git clone --depth 1 https://github.com/jonaolden/mcpbi\n# See source for mcpServers config block"
+}

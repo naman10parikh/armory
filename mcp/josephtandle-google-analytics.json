@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-google-analytics",
+  "description": "Queries Google Analytics data including traffic, conversions, and audience metrics.",
+  "source_repo": "josephtandle/google-analytics-mcp-mcp",
+  "source_url": "https://github.com/josephtandle/google-analytics-mcp-mcp",
+  "install": "npx -y google-analytics-mcp-mcp"
+}

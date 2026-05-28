@@ -1,0 +1,7 @@
+{
+  "name": "xutaotaotao-installed-apps",
+  "description": "Retrieves a complete list of all installed applications on the user's computer for system analysis and software management tasks.",
+  "source_repo": "xutaotaotao/mcp-get-installed-apps",
+  "source_url": "https://github.com/xutaotaotao/mcp-get-installed-apps",
+  "install": "# git clone --depth 1 https://github.com/xutaotaotao/mcp-get-installed-apps\n# See source for mcpServers config block"
+}

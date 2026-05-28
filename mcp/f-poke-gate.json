@@ -1,0 +1,7 @@
+{
+  "name": "f-poke-gate",
+  "description": "Tunnel local machine access to the Poke AI assistant via MCP over WebSocket.",
+  "source_repo": "f/poke-gate",
+  "source_url": "https://github.com/f/poke-gate",
+  "install": "# git clone --depth 1 https://github.com/f/poke-gate\n# See source for mcpServers config block"
+}

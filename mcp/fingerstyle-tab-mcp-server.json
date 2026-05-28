@@ -1,0 +1,7 @@
+{
+  "name": "fingerstyle-tab-mcp-server",
+  "description": "An AI-powered MCP server that converts guitar audio recordings into high-quality fingerstyle tablature.",
+  "source_repo": "blooper20/fingerstyle-tab-mcp",
+  "source_url": "https://github.com/blooper20/fingerstyle-tab-mcp",
+  "install": "npx -y fingerstyle-tab-mcp"
+}

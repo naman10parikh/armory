@@ -1,0 +1,7 @@
+{
+  "name": "seayniclabs-mooring",
+  "description": "Structured access to local Git repositories and the GitHub API for AI assistants.",
+  "source_repo": "seayniclabs/mooring",
+  "source_url": "https://github.com/seayniclabs/mooring",
+  "install": "# git clone --depth 1 https://github.com/seayniclabs/mooring\n# See source for mcpServers config block"
+}

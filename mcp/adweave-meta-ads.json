@@ -1,0 +1,7 @@
+{
+  "name": "adweave-meta-ads",
+  "description": "Meta Ads management platform with 47 tools for campaigns, creatives, audiences, and performance analytics via AdWeave.",
+  "source_repo": "",
+  "source_url": "https://adweave.ai",
+  "install": "# git clone --depth 1 https://adweave.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ymw0407-auth-fetch-mcp",
+  "description": "Fetch content from login-protected web pages (Notion, Google Docs, Jira, Confluence, etc.) by opening a real browser for authentication with persistent session caching.",
+  "source_repo": "ymw0407/auth-fetch-mcp",
+  "source_url": "https://github.com/ymw0407/auth-fetch-mcp",
+  "install": "npx -y auth-fetch-mcp"
+}

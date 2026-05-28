@@ -1,0 +1,7 @@
+{
+  "name": "cwm-mcp",
+  "description": "CWM MCP MCP server listed on mcp.so.",
+  "source_repo": "jasondsmith72/CWM-MCP",
+  "source_url": "https://mcp.so/server/CWM-MCP/jasondsmith72",
+  "install": "npx -y CWM-MCP"
+}

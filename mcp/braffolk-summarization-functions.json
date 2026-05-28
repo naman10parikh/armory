@@ -1,0 +1,7 @@
+{
+  "name": "braffolk-summarization-functions",
+  "description": "Provides summarized output from various actions, optimizing token usage for efficient processing of large datasets and language models.",
+  "source_repo": "braffolk/mcp-summarization-functions",
+  "source_url": "https://github.com/braffolk/mcp-summarization-functions",
+  "install": "# git clone --depth 1 https://github.com/braffolk/mcp-summarization-functions\n# See source for mcpServers config block"
+}

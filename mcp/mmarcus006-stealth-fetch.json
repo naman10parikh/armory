@@ -1,0 +1,7 @@
+{
+  "name": "mmarcus006-stealth-fetch",
+  "description": "Provides stealth web fetching with browser-grade TLS fingerprint impersonation using curl_cffi for bypassing anti-bot detection.",
+  "source_repo": "mmarcus006/stealth-fetch-mcp",
+  "source_url": "https://github.com/mmarcus006/stealth-fetch-mcp",
+  "install": "npx -y stealth-fetch-mcp"
+}

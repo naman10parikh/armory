@@ -1,0 +1,7 @@
+{
+  "name": "runbook-docs",
+  "description": "Integrates with Runbook documentation systems to provide direct access to articles, books, and search functionality within Claude conversations, eliminating context switching when referencing team documentation.",
+  "source_repo": "qloba/runbook-mcp-server",
+  "source_url": "https://github.com/qloba/runbook-mcp-server",
+  "install": "npx -y runbook-mcp-server"
+}

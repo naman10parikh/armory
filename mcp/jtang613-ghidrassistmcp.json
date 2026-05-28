@@ -1,0 +1,7 @@
+{
+  "name": "jtang613-ghidrassistmcp",
+  "description": "A native Model Context Protocol server for Ghidra. Includes GUI configuration and logging, 31 powerful tools and no external dependencies.",
+  "source_repo": "jtang613/GhidrAssistMCP",
+  "source_url": "https://github.com/jtang613/GhidrAssistMCP",
+  "install": "# git clone --depth 1 https://github.com/jtang613/GhidrAssistMCP\n# See source for mcpServers config block"
+}

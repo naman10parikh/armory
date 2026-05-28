@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-mcp-server",
+  "description": "Enables LLMs to access Jenkins job data, trigger builds, and manage Jenkins tasks through a standardized interface.",
+  "source_repo": "truxt-ai/jenkins-mcp-server",
+  "source_url": "https://github.com/truxt-ai/jenkins-mcp-server",
+  "install": "npx -y jenkins-mcp-server"
+}

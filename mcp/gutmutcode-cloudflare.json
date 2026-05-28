@@ -1,0 +1,7 @@
+{
+  "name": "gutmutcode-cloudflare",
+  "description": "Integrates with Cloudflare's API to enable management of DNS, CDN, and security configurations for web infrastructure automation.",
+  "source_repo": "gutmutcode/mcp-server-cloudflare",
+  "source_url": "https://github.com/gutmutcode/mcp-server-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/gutmutcode/mcp-server-cloudflare\n# See source for mcpServers config block"
+}

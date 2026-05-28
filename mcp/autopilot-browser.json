@@ -1,0 +1,7 @@
+{
+  "name": "autopilot-browser",
+  "description": "Integrates with Autopilot Browser's workflow automation platform to search for and execute pre-built browser automation workflows with custom inputs for web scraping, data extraction, and automated browser tasks.",
+  "source_repo": "autopilotbrowser/mcp-server",
+  "source_url": "https://github.com/autopilotbrowser/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/autopilotbrowser/mcp-server\n# See source for mcpServers config block"
+}

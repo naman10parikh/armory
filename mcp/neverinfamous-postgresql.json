@@ -1,0 +1,7 @@
+{
+  "name": "neverinfamous-postgresql",
+  "description": "Enterprise PostgreSQL server with query optimization, index tuning, EXPLAIN analysis, and database health monitoring",
+  "source_repo": "neverinfamous/postgres-mcp",
+  "source_url": "https://github.com/neverinfamous/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

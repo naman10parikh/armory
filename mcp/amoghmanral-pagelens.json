@@ -1,0 +1,7 @@
+{
+  "name": "amoghmanral-pagelens",
+  "description": "Visual feedback on frontend apps through automated browser testing with screenshot capture, visual diff, and DOM inspection.",
+  "source_repo": "amoghmanral/pagelens-mcp",
+  "source_url": "https://github.com/amoghmanral/pagelens-mcp",
+  "install": "npx -y pagelens-mcp"
+}

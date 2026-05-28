@@ -1,0 +1,7 @@
+{
+  "name": "max-rousseau-yaml-filesystem",
+  "description": "Provides controlled YAML file management with surgical editing, pattern search, directory tree visualization, and SMB share support.",
+  "source_repo": "max-rousseau/mcp-filesystem",
+  "source_url": "https://github.com/max-rousseau/mcp-filesystem",
+  "install": "# git clone --depth 1 https://github.com/max-rousseau/mcp-filesystem\n# See source for mcpServers config block"
+}

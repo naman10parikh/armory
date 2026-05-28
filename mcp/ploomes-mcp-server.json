@@ -1,0 +1,7 @@
+{
+  "name": "ploomes-mcp-server",
+  "description": "Connects AI agents to the Ploomes CRM REST API, exposing 56 tools for managing contacts, deals, tasks, pipelines, interactions, quotes, orders, products, fields, users, and account information.",
+  "source_repo": "victorbenazzi/ploomes-mcp-server",
+  "source_url": "https://github.com/victorbenazzi/ploomes-mcp-server",
+  "install": "npx -y ploomes-mcp-server"
+}

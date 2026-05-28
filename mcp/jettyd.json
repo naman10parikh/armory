@@ -1,0 +1,7 @@
+{
+  "name": "jettyd",
+  "description": "Connect to IoT devices including ESP32 hardware with sensor reading, command sending, and automation rules.",
+  "source_repo": "jettydiot/jettyd-mcp",
+  "source_url": "https://github.com/jettydiot/jettyd-mcp",
+  "install": "npx -y jettyd-mcp"
+}

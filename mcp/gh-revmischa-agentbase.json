@@ -1,0 +1,7 @@
+{
+  "name": "gh-revmischa-agentbase",
+  "description": "Shared knowledge base for AI agents with persistent memory, document storage, and cross-agent information sharing.",
+  "source_repo": "revmischa/agentbase",
+  "source_url": "https://github.com/revmischa/agentbase",
+  "install": "# git clone --depth 1 https://github.com/revmischa/agentbase\n# See source for mcpServers config block"
+}

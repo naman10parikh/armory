@@ -1,0 +1,7 @@
+{
+  "name": "designbot-mcp",
+  "description": "Forwards messages to the Designsystemet assistant endpoint, enabling access through MCP-compatible clients.",
+  "source_repo": "simon-archer/designsystemet-mcp",
+  "source_url": "https://github.com/simon-archer/designsystemet-mcp",
+  "install": "npx -y designsystemet-mcp"
+}

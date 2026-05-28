@@ -1,0 +1,7 @@
+{
+  "name": "subbu3012-kogna",
+  "description": "Bridges multi-agent AI avatar room engine to enable conversations with specialized avatars, room switching, message history retrieval, and cross-platform session management for building conversational applications and multi-agent chat systems.",
+  "source_repo": "subbu3012/kognamcp",
+  "source_url": "https://github.com/subbu3012/kognamcp",
+  "install": "# git clone --depth 1 https://github.com/subbu3012/kognamcp\n# See source for mcpServers config block"
+}

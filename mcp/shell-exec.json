@@ -1,0 +1,7 @@
+{
+  "name": "shell-exec",
+  "description": "Execute bash commands with background job support.",
+  "source_repo": "domdomegg/shell-exec-mcp",
+  "source_url": "https://github.com/domdomegg/shell-exec-mcp",
+  "install": "npx -y shell-exec-mcp"
+}

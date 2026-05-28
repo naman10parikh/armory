@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-tarot",
+  "description": "Tarot card data via the tarotapi.dev API — draw cards, get card meanings, and perform readings.",
+  "source_repo": "pipeworx-io/mcp-tarot",
+  "source_url": "https://github.com/pipeworx-io/mcp-tarot",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-tarot\n# See source for mcpServers config block"
+}

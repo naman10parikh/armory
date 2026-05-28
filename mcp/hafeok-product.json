@@ -1,0 +1,7 @@
+{
+  "name": "hafeok-product",
+  "description": "Product spec knowledge graph MCP for managing features, architectural decisions, and test cases as a structured graph.",
+  "source_repo": "hafeok/product-cli",
+  "source_url": "https://github.com/hafeok/product-cli",
+  "install": "# git clone --depth 1 https://github.com/hafeok/product-cli\n# See source for mcpServers config block"
+}

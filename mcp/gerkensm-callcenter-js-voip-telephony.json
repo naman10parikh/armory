@@ -1,0 +1,7 @@
+{
+  "name": "gerkensm-callcenter-js-voip-telephony",
+  "description": "VoIP telephony system that connects OpenAI's real-time voice API with SIP-based phone networks, enabling natural voice conversations over traditional phone lines with support for major PBX systems and high-quality G.722 audio codec.",
+  "source_repo": "gerkensm/callcenter.js-mcp",
+  "source_url": "https://github.com/gerkensm/callcenter.js-mcp",
+  "install": "npx -y callcenter.js-mcp"
+}

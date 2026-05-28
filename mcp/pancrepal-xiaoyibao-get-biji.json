@@ -1,0 +1,7 @@
+{
+  "name": "pancrepal-xiaoyibao-get-biji",
+  "description": "Integrates with Get Biji API for creating, retrieving, updating, and managing notes within the platform, enabling seamless note-taking workflows and knowledge base management with configurable authentication and topic organization.",
+  "source_repo": "pancrepal-xiaoyibao/get_biji_mcp",
+  "source_url": "https://github.com/pancrepal-xiaoyibao/get_biji_mcp",
+  "install": "npx -y get_biji_mcp"
+}

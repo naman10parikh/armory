@@ -1,0 +1,7 @@
+{
+  "name": "forkast",
+  "description": "Query Forkast documentation and knowledge base for prediction market insights.",
+  "source_repo": "",
+  "source_url": "https://mcp.forkast.gg/mcp",
+  "install": "# git clone --depth 1 https://mcp.forkast.gg/mcp\n# See source for mcpServers config block"
+}

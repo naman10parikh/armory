@@ -1,0 +1,7 @@
+{
+  "name": "mcp-notion",
+  "description": "MCP Notion MCP server listed on mcp.so.",
+  "source_repo": "GsusFC/MCP-Notion",
+  "source_url": "https://mcp.so/server/MCP-Notion/GsusFC",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Notion/GsusFC\n# See source for mcpServers config block"
+}

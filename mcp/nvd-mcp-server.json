@@ -1,0 +1,7 @@
+{
+  "name": "nvd-mcp-server",
+  "description": "MCP server for the NIST National Vulnerability Database — lets AI assistants search CVEs by keyword, severity, CPE, CWE, KEV status, and date range via natural language.",
+  "source_repo": "Alig1493/nvd-mcp-server",
+  "source_url": "https://github.com/Alig1493/nvd-mcp-server",
+  "install": "npx -y nvd-mcp-server"
+}

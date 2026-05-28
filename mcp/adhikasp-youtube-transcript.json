@@ -1,0 +1,7 @@
+{
+  "name": "adhikasp-youtube-transcript",
+  "description": "Fetch and analyze YouTube video transcripts.",
+  "source_repo": "adhikasp/mcp-youtube",
+  "source_url": "https://github.com/adhikasp/mcp-youtube",
+  "install": "# git clone --depth 1 https://github.com/adhikasp/mcp-youtube\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "disdjj-coco",
+  "description": "MCP-Coco provides a pair programming tool that guides technical discussions by transforming code snippets into structured frameworks for critical inquiry about performance, security, and maintainability.",
+  "source_repo": "disdjj/mcp-coco",
+  "source_url": "https://github.com/disdjj/mcp-coco",
+  "install": "# git clone --depth 1 https://github.com/disdjj/mcp-coco\n# See source for mcpServers config block"
+}

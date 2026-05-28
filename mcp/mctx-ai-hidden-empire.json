@@ -1,0 +1,7 @@
+{
+  "name": "mctx-ai-hidden-empire",
+  "description": "Play the classic Zork I text adventure through natural conversation with any MCP-enabled AI assistant.",
+  "source_repo": "",
+  "source_url": "https://mctx.ai/apps/hidden-empire",
+  "install": "# git clone --depth 1 https://mctx.ai/apps/hidden-empire\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jessepwj-agent-teams",
+  "description": "Enables Claude Code to coordinate AI worker agents as a team lead, spawning and managing Claude, Codex, and Gemini CLI subprocesses with push-based message routing.",
+  "source_repo": "jessepwj/agent-teams-mcp",
+  "source_url": "https://github.com/jessepwj/agent-teams-mcp",
+  "install": "npx -y agent-teams-mcp"
+}

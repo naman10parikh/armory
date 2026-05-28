@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-slack",
+  "description": "Multi-workspace Slack MCP with draft-and-confirm safety, vault auto-export, and triple-mode auth.",
+  "source_repo": "adelaidasofia/slack-mcp",
+  "source_url": "https://github.com/adelaidasofia/slack-mcp",
+  "install": "npx -y slack-mcp"
+}

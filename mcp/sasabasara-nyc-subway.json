@@ -1,0 +1,7 @@
+{
+  "name": "sasabasara-nyc-subway",
+  "description": "Provides real-time NYC subway information through MTA GTFS feeds with automatic data management, intelligent station matching with fuzzy search, live train arrivals with delay predictions, service disruption analysis with alternative routes, and location-based station discovery for transit apps and commuter assistance.",
+  "source_repo": "sasabasara/where_is_my_train_mcp",
+  "source_url": "https://github.com/sasabasara/where_is_my_train_mcp",
+  "install": "npx -y where_is_my_train_mcp"
+}

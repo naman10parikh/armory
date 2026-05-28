@@ -1,0 +1,7 @@
+{
+  "name": "mcp-working-context-optimizer",
+  "description": "Prevents context bloat and the 'Lost in the Middle' phenomenon by distilling action histories into concise summaries while maintaining a clear core objective.",
+  "source_repo": "globalpocket/mcp-working-context-optimizer",
+  "source_url": "https://github.com/globalpocket/mcp-working-context-optimizer",
+  "install": "# git clone --depth 1 https://github.com/globalpocket/mcp-working-context-optimizer\n# See source for mcpServers config block"
+}

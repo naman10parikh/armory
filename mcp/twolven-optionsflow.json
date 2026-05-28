@@ -1,0 +1,7 @@
+{
+  "name": "twolven-optionsflow",
+  "description": "Integrates with Yahoo Finance to provide options analysis and strategy evaluation tools for risk assessment and portfolio management.",
+  "source_repo": "twolven/mcp-optionsflow",
+  "source_url": "https://github.com/twolven/mcp-optionsflow",
+  "install": "# git clone --depth 1 https://github.com/twolven/mcp-optionsflow\n# See source for mcpServers config block"
+}

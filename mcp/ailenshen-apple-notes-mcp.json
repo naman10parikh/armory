@@ -1,0 +1,7 @@
+{
+  "name": "ailenshen-apple-notes-mcp",
+  "description": "Read and write Apple Notes with bidirectional Markdown conversion. Fast SQLite queries for listing/searching, AppleScript + native import for full CRUD. Supports stdio and Streamable HTTP transports.",
+  "source_repo": "ailenshen/apple-notes-mcp",
+  "source_url": "https://github.com/ailenshen/apple-notes-mcp",
+  "install": "npx -y apple-notes-mcp"
+}

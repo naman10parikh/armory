@@ -1,0 +1,7 @@
+{
+  "name": "whensport-horse-racing",
+  "description": "Access 2026 horse racing fixture and scheduling data for Cheltenham, Royal Ascot, Kentucky Derby, and Melbourne Cup via 3 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/horse-racing",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/horse-racing\n# See source for mcpServers config block"
+}

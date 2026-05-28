@@ -1,0 +1,7 @@
+{
+  "name": "osmosis-agent-toolkit",
+  "description": "Osmosis Agent Toolkit MCP server listed on mcp.so.",
+  "source_repo": "jonator/osmosis-agent-toolkit",
+  "source_url": "https://mcp.so/server/osmosis-agent-toolkit/jonator",
+  "install": "# git clone --depth 1 https://mcp.so/server/osmosis-agent-toolkit/jonator\n# See source for mcpServers config block"
+}

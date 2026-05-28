@@ -1,0 +1,7 @@
+{
+  "name": "gh-silbercue-silbercueswift",
+  "description": "Native Swift iOS development tools with xcresult parsing, WebDriverAgent automation, and fast screenshots.",
+  "source_repo": "silbercue/silbercueswift",
+  "source_url": "https://github.com/silbercue/silbercueswift",
+  "install": "# git clone --depth 1 https://github.com/silbercue/silbercueswift\n# See source for mcpServers config block"
+}

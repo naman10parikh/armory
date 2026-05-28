@@ -1,0 +1,7 @@
+{
+  "name": "nutrient-dws",
+  "description": "Integrates with Nutrient Document Web Services API to provide PDF manipulation, digital signing, and document processing capabilities across multiple file formats including Office documents and images.",
+  "source_repo": "pspdfkit/nutrient-dws-mcp-server",
+  "source_url": "https://github.com/pspdfkit/nutrient-dws-mcp-server",
+  "install": "npx -y nutrient-dws-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bintocher-qlik-sense",
+  "description": "Integrates with Qlik Sense Enterprise through Repository and Engine APIs to enable querying data models, managing applications and users, extracting table data, and automating reload tasks for business intelligence workflows.",
+  "source_repo": "bintocher/qlik-sense-mcp",
+  "source_url": "https://github.com/bintocher/qlik-sense-mcp",
+  "install": "npx -y qlik-sense-mcp"
+}

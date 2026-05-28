@@ -1,0 +1,7 @@
+{
+  "name": "brightwayai-video-analyzer",
+  "description": "Analyze videos by extracting frames via scene detection, transcribing audio with Whisper, and generating storyboard breakdowns with stylistic fingerprints.",
+  "source_repo": "brightwayai/video-analyzer",
+  "source_url": "https://github.com/brightwayai/video-analyzer",
+  "install": "# git clone --depth 1 https://github.com/brightwayai/video-analyzer\n# See source for mcpServers config block"
+}

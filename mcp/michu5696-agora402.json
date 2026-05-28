@@ -1,0 +1,7 @@
+{
+  "name": "michu5696-agora402",
+  "description": "Escrow protection for agent payments on Base using USDC smart contracts.",
+  "source_repo": "",
+  "source_url": "https://agora402.fly.dev/mcp",
+  "install": "# git clone --depth 1 https://agora402.fly.dev/mcp\n# See source for mcpServers config block"
+}

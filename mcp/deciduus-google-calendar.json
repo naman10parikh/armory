@@ -1,0 +1,7 @@
+{
+  "name": "deciduus-google-calendar",
+  "description": "Integrates with Google Calendar to enable direct calendar management, event operations, and advanced scheduling features like free/busy queries and mutual availability coordination.",
+  "source_repo": "deciduus/calendar-mcp",
+  "source_url": "https://github.com/deciduus/calendar-mcp",
+  "install": "npx -y calendar-mcp"
+}

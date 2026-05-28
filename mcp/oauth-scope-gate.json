@@ -1,0 +1,7 @@
+{
+  "name": "oauth-scope-gate",
+  "description": "OAuth scope risk inspection, approval routing, consent receipts, and scope audit exports for remote MCP servers.",
+  "source_repo": "clauxel/mcp-oauth-scope-gate-mcp",
+  "source_url": "https://github.com/clauxel/mcp-oauth-scope-gate-mcp",
+  "install": "npx -y mcp-oauth-scope-gate-mcp"
+}

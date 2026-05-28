@@ -1,0 +1,7 @@
+{
+  "name": "pleasanter-mcp-server",
+  "description": "Pleasanter Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "narita1980/pleasanter-mcp-server",
+  "source_url": "https://mcp.so/server/pleasanter-mcp-server/narita1980",
+  "install": "npx -y pleasanter-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-itophua-iterminal",
+  "description": "Control SSH connections and remote servers through AI assistants.",
+  "source_repo": "itophua/iterminal",
+  "source_url": "https://github.com/itophua/iterminal/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/itophua/iterminal/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

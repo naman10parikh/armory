@@ -1,0 +1,7 @@
+{
+  "name": "mattyatea-git-conflict",
+  "description": "Streamlines Git merge conflict resolution by providing structured tools for identifying conflicted files, reading conflict content, and marking conflicts as resolved without direct command-line interaction.",
+  "source_repo": "mattyatea/git-conflict-mcp",
+  "source_url": "https://github.com/mattyatea/git-conflict-mcp",
+  "install": "npx -y git-conflict-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-elsahafy-ux-toolkit",
+  "description": "UX design toolkit with 28 knowledge resources, 23 analysis tools, and 4 workflow prompts.",
+  "source_repo": "elsahafy/ux-mcp-server",
+  "source_url": "https://github.com/elsahafy/ux-mcp-server",
+  "install": "npx -y ux-mcp-server"
+}

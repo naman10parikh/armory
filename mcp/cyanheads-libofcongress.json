@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-libofcongress",
+  "description": "Search LOC digital collections, Chronicling America historical newspapers with full OCR, and LC Subject Headings.",
+  "source_repo": "cyanheads/libofcongress-mcp-server",
+  "source_url": "https://github.com/cyanheads/libofcongress-mcp-server",
+  "install": "npx -y libofcongress-mcp-server"
+}

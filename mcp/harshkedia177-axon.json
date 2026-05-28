@@ -1,0 +1,7 @@
+{
+  "name": "harshkedia177-axon",
+  "description": "Builds knowledge graphs from source code repositories with multi-language parsing, hybrid search, community detection, and interactive visualization.",
+  "source_repo": "harshkedia177/axon",
+  "source_url": "https://github.com/harshkedia177/axon",
+  "install": "# git clone --depth 1 https://github.com/harshkedia177/axon\n# See source for mcpServers config block"
+}

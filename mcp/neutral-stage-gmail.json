@@ -1,0 +1,7 @@
+{
+  "name": "neutral-stage-gmail",
+  "description": "Manages Gmail with 20 tools covering search, compose, send, organize, label management, attachments, and bulk operations up to 1000 emails via OAuth.",
+  "source_repo": "neutral-stage/gmail-mcp-server",
+  "source_url": "https://github.com/neutral-stage/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

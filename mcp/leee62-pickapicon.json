@@ -1,0 +1,7 @@
+{
+  "name": "leee62-pickapicon",
+  "description": "Provides a bridge to the Iconify API for searching and retrieving SVG icons from various collections, enabling quick integration of icons into projects.",
+  "source_repo": "leee62/pickapicon-mcp",
+  "source_url": "https://github.com/leee62/pickapicon-mcp",
+  "install": "npx -y pickapicon-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "markswendsen-code-walmart",
+  "description": "Automates Walmart.com shopping through browser automation for product search, cart management, and order tracking.",
+  "source_repo": "markswendsen-code/mcp-walmart",
+  "source_url": "https://github.com/markswendsen-code/mcp-walmart",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-walmart\n# See source for mcpServers config block"
+}

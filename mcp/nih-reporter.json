@@ -1,0 +1,7 @@
+{
+  "name": "nih-reporter",
+  "description": "Provides a conversational interface to the NIH's research database, enabling users to search for funded projects and publications with detailed results formatted in markdown.",
+  "source_repo": "jbdamask/mcp-nih-reporter",
+  "source_url": "https://github.com/jbdamask/mcp-nih-reporter",
+  "install": "# git clone --depth 1 https://github.com/jbdamask/mcp-nih-reporter\n# See source for mcpServers config block"
+}

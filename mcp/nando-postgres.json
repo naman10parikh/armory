@@ -1,0 +1,7 @@
+{
+  "name": "nando-postgres",
+  "description": "Integrates with PostgreSQL databases to enable schema exploration and SQL query execution for data analysis and reporting tasks.",
+  "source_repo": "madebynando/mcp-postgres-server",
+  "source_url": "https://github.com/madebynando/mcp-postgres-server",
+  "install": "# git clone --depth 1 https://github.com/madebynando/mcp-postgres-server\n# See source for mcpServers config block"
+}

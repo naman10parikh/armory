@@ -1,0 +1,7 @@
+{
+  "name": "orishmila-godaddy-domain-availability",
+  "description": "Integrates with GoDaddy's domain API to provide real-time domain availability checking, bulk domain searches with multiple TLD suffixes, and detailed pricing information including registration periods and currency codes for domain research and brand protection workflows.",
+  "source_repo": "orishmila/mcp-domain-availability",
+  "source_url": "https://github.com/orishmila/mcp-domain-availability",
+  "install": "# git clone --depth 1 https://github.com/orishmila/mcp-domain-availability\n# See source for mcpServers config block"
+}

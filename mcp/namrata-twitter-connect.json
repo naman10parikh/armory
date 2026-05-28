@@ -1,0 +1,7 @@
+{
+  "name": "namrata-twitter-connect",
+  "description": "Integrates with Twitter's API to retrieve recent tweets from specified users, enabling real-time Twitter content access within conversations without requiring direct Twitter API credentials.",
+  "source_repo": "namrata-ami/mcp_twitter_connect",
+  "source_url": "https://github.com/namrata-ami/mcp_twitter_connect",
+  "install": "# git clone --depth 1 https://github.com/namrata-ami/mcp_twitter_connect\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mender-iot",
+  "description": "Integrates with Mender IoT device management platform to provide secure access to device fleets, deployments, artifacts, releases, and audit logs with automatic credential masking and comprehensive error handling for production IoT monitoring workflows.",
+  "source_repo": "pasinskim/mender-mcp",
+  "source_url": "https://github.com/pasinskim/mender-mcp",
+  "install": "npx -y mender-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nexgendata-finance",
+  "description": "Access stock market data and financial information through Apify's web scraping infrastructure.",
+  "source_repo": "",
+  "source_url": "https://apify.com/nexgendata/finance-mcp-server",
+  "install": "# git clone --depth 1 https://apify.com/nexgendata/finance-mcp-server\n# See source for mcpServers config block"
+}

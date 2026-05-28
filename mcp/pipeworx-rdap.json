@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-rdap",
+  "description": "Registration Data Access Protocol lookups for domains, IPs, and ASNs via IANA bootstrap through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-rdap",
+  "source_url": "https://github.com/pipeworx-io/mcp-rdap",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-rdap\n# See source for mcpServers config block"
+}

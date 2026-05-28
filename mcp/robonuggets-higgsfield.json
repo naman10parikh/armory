@@ -1,0 +1,7 @@
+{
+  "name": "robonuggets-higgsfield",
+  "description": "Provides unified access to 30+ image and video generation models including Sora, Veo, Kling, and Flux through Higgsfield AI's hosted MCP endpoint.",
+  "source_repo": "robonuggets/higgsfield-skill",
+  "source_url": "https://github.com/robonuggets/higgsfield-skill",
+  "install": "# git clone --depth 1 https://github.com/robonuggets/higgsfield-skill\n# See source for mcpServers config block"
+}

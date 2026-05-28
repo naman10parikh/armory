@@ -1,0 +1,7 @@
+{
+  "name": "major-porkbun-dns",
+  "description": "Manage DNS records, domains, DNSSEC, and SSL certificates through Porkbun's API.",
+  "source_repo": "major/porkbun-mcp",
+  "source_url": "https://github.com/major/porkbun-mcp",
+  "install": "npx -y porkbun-mcp"
+}

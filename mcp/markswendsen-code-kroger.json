@@ -1,0 +1,7 @@
+{
+  "name": "markswendsen-code-kroger",
+  "description": "Automates Kroger grocery shopping through browser automation for product search, cart management, and order placement.",
+  "source_repo": "markswendsen-code/mcp-kroger",
+  "source_url": "https://github.com/markswendsen-code/mcp-kroger",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-kroger\n# See source for mcpServers config block"
+}

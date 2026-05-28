@@ -1,0 +1,7 @@
+{
+  "name": "aws-managed",
+  "description": "Fully managed remote service providing access to AWS documentation and over 15,000 AWS APIs",
+  "source_repo": "",
+  "source_url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-mcp-server/",
+  "install": "# git clone --depth 1 https://aws.amazon.com/about-aws/whats-new/2025/11/aws-mcp-server/\n# See source for mcpServers config block"
+}

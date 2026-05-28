@@ -1,0 +1,7 @@
+{
+  "name": "privilegemendes-amadeus",
+  "description": "Integrates with Amadeus API to enable flight searches, price analysis, and multi-city trip planning with built-in caching for rate limit handling",
+  "source_repo": "privilegemendes/amadeus-mcp-server-standalone",
+  "source_url": "https://github.com/privilegemendes/amadeus-mcp-server-standalone",
+  "install": "# git clone --depth 1 https://github.com/privilegemendes/amadeus-mcp-server-standalone\n# See source for mcpServers config block"
+}

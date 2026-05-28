@@ -1,0 +1,7 @@
+{
+  "name": "tim-y-boy-excel-parser",
+  "description": "Universal Excel parsing MCP server for AI agents, supporting reading and processing Excel files in agent workflows.",
+  "source_repo": "tim-y-boy/excel-parser-mcp",
+  "source_url": "https://github.com/tim-y-boy/excel-parser-mcp",
+  "install": "npx -y excel-parser-mcp"
+}

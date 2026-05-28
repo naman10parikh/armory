@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-listen-notes",
+  "description": "Search and discover podcasts, episodes, and curated lists via the Listen Notes directory.",
+  "source_repo": "pipeworx-io/mcp-listen-notes",
+  "source_url": "https://github.com/pipeworx-io/mcp-listen-notes",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-listen-notes\n# See source for mcpServers config block"
+}

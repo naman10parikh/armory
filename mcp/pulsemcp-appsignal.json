@@ -1,0 +1,7 @@
+{
+  "name": "pulsemcp-appsignal",
+  "description": "Integrates with AppSignal's monitoring platform to provide incident tracking, anomaly detection, performance monitoring, and log analysis with severity filtering and time-based queries for debugging production applications.",
+  "source_repo": "pulsemcp/mcp-servers",
+  "source_url": "https://github.com/pulsemcp/mcp-servers/tree/HEAD/experimental/appsignal",
+  "install": "# git clone --depth 1 https://github.com/pulsemcp/mcp-servers/tree/HEAD/experimental/appsignal\n# See source for mcpServers config block"
+}

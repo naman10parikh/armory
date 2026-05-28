@@ -1,0 +1,7 @@
+{
+  "name": "c-core-guidelines-2",
+  "description": "Enforce consistent C++ style and best practices across your codebase. Analyze naming, memory safety, and const correctness, and get actionable modernization suggestions up to C++23. Accelerate reviews with ready-made prompts and quick access to curated guidelines.",
+  "source_repo": "SongJiangzhou/cpp_guidelines",
+  "source_url": "https://github.com/SongJiangzhou/cpp_guidelines",
+  "install": "# git clone --depth 1 https://github.com/SongJiangzhou/cpp_guidelines\n# See source for mcpServers config block"
+}

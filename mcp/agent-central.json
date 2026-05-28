@@ -1,0 +1,7 @@
+{
+  "name": "agent-central",
+  "description": "Agent Central for all the agents",
+  "source_repo": "heyitsaamir/agent-central",
+  "source_url": "https://github.com/heyitsaamir/agent-central",
+  "install": "# git clone --depth 1 https://github.com/heyitsaamir/agent-central\n# See source for mcpServers config block"
+}

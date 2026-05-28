@@ -1,0 +1,7 @@
+{
+  "name": "untitled",
+  "description": "根据关键词获取小红书的热帖数据，需要钉钉扫码登录，配合 Chrome 使用。",
+  "source_repo": "chaseSpace/mcp_fetch_xhs_post",
+  "source_url": "https://github.com/chaseSpace/mcp_fetch_xhs_post",
+  "install": "# git clone --depth 1 https://github.com/chaseSpace/mcp_fetch_xhs_post\n# See source for mcpServers config block"
+}

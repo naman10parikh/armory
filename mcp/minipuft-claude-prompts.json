@@ -1,0 +1,7 @@
+{
+  "name": "minipuft-claude-prompts",
+  "description": "Provides a flexible, template-based prompt system for Claude models that enables standardized interactions, complex reasoning workflows, and multi-step prompt chains through a TypeScript/Node.js server with comprehensive API support.",
+  "source_repo": "minipuft/claude-prompts",
+  "source_url": "https://github.com/minipuft/claude-prompts",
+  "install": "# git clone --depth 1 https://github.com/minipuft/claude-prompts\n# See source for mcpServers config block"
+}

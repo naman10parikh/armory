@@ -1,0 +1,7 @@
+{
+  "name": "kursk-ye-code2flow",
+  "description": "Generates visual code flow diagrams from source code to help understand program structure, execution paths, and architectural relationships without manual diagramming.",
+  "source_repo": "kursk-ye/code2flow-mcp-server",
+  "source_url": "https://github.com/kursk-ye/code2flow-mcp-server",
+  "install": "npx -y code2flow-mcp-server"
+}

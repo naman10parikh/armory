@@ -1,0 +1,7 @@
+{
+  "name": "mailx",
+  "description": "Email deliverability tools for AI agents — check SPF, DKIM, DMARC, BIMI, blacklists, SMTP/IMAP connectivity, and generate DNS records.",
+  "source_repo": "",
+  "source_url": "https://themailx.com",
+  "install": "# git clone --depth 1 https://themailx.com\n# See source for mcpServers config block"
+}

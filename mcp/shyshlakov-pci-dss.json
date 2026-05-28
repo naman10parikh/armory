@@ -1,0 +1,7 @@
+{
+  "name": "shyshlakov-pci-dss",
+  "description": "PCI DSS v4.0.1 compliance scanner for Go payment services via Docker container.",
+  "source_repo": "shyshlakov/pci-dss-mcp",
+  "source_url": "https://github.com/shyshlakov/pci-dss-mcp",
+  "install": "npx -y pci-dss-mcp"
+}

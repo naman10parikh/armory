@@ -1,0 +1,7 @@
+{
+  "name": "custom-mcp-server",
+  "description": "Custom MCP Server MCP server listed on mcp.so.",
+  "source_repo": "MaitreyaM/Custom-MCP-server",
+  "source_url": "https://mcp.so/server/Custom-MCP-server/MaitreyaM",
+  "install": "npx -y Custom-MCP-server"
+}

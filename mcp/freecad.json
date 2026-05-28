@@ -1,0 +1,7 @@
+{
+  "name": "freecad",
+  "description": "Freecad MCP server listed on mcp.so.",
+  "source_repo": "bonninr/freecad",
+  "source_url": "https://mcp.so/server/freecad/bonninr",
+  "install": "# git clone --depth 1 https://mcp.so/server/freecad/bonninr\n# See source for mcpServers config block"
+}

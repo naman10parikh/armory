@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-git",
+  "description": "Interact with local Git repositories for version control tasks.",
+  "source_repo": "modelcontextprotocol/servers-archived",
+  "source_url": "https://github.com/modelcontextprotocol/servers-archived/tree/HEAD/src/git",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers-archived/tree/HEAD/src/git\n# See source for mcpServers config block"
+}

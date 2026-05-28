@@ -1,0 +1,7 @@
+{
+  "name": "naveedkhan8067-automated-kyc",
+  "description": "Automates Know Your Customer verification workflows with document validation, risk scoring, and compliance checks.",
+  "source_repo": "naveedkhan8067/mcp-automated-kyc",
+  "source_url": "https://github.com/naveedkhan8067/mcp-automated-kyc",
+  "install": "# git clone --depth 1 https://github.com/naveedkhan8067/mcp-automated-kyc\n# See source for mcpServers config block"
+}

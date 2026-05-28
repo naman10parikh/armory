@@ -1,0 +1,7 @@
+{
+  "name": "agentq",
+  "description": "Autonomous AI testing platform for web and mobile test case management with self-healing capabilities.",
+  "source_repo": "agentq-ai/agentq",
+  "source_url": "https://github.com/agentq-ai/agentq",
+  "install": "# git clone --depth 1 https://github.com/agentq-ai/agentq\n# See source for mcpServers config block"
+}

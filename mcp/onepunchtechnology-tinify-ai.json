@@ -1,0 +1,7 @@
+{
+  "name": "onepunchtechnology-tinify-ai",
+  "description": "Image optimization tools powered by Tinify compression algorithms.",
+  "source_repo": "onepunchtechnology/tinify-ai-mcp-server",
+  "source_url": "https://github.com/onepunchtechnology/tinify-ai-mcp-server",
+  "install": "npx -y tinify-ai-mcp-server"
+}

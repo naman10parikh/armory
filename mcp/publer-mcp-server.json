@@ -1,0 +1,7 @@
+{
+  "name": "publer-mcp-server",
+  "description": "MCP server for Publer social media management API, enabling AI assistants to schedule posts, upload media, pull analytics, and manage accounts across 15+ social networks.",
+  "source_repo": "alexkess/publer-mcp-server",
+  "source_url": "https://github.com/alexkess/publer-mcp-server",
+  "install": "npx -y publer-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-nelsonra-mixcloud-mcp",
+  "description": "Search mixes, look up artists, and browse user uploads on the Mixcloud platform.",
+  "source_repo": "nelsonra/mixcloud-mcp",
+  "source_url": "https://github.com/nelsonra/mixcloud-mcp",
+  "install": "npx -y mixcloud-mcp"
+}

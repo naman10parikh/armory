@@ -1,0 +1,7 @@
+{
+  "name": "kdoronin-figma",
+  "description": "Enables AI to interact with Figma design files through WebSocket communication, providing tools for document inspection, node manipulation, text modification, and component management for design automation workflows.",
+  "source_repo": "kdoronin/figma_mcp",
+  "source_url": "https://github.com/kdoronin/figma_mcp",
+  "install": "npx -y figma_mcp"
+}

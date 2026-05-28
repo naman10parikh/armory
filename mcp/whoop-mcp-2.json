@@ -1,0 +1,7 @@
+{
+  "name": "whoop-mcp-2",
+  "description": "A Model Context Protocol (MCP) server that gives Claude access to your WHOOP biometric data — recovery, sleep, strain, and workouts.",
+  "source_repo": "souravpn/whoop-mcp",
+  "source_url": "https://github.com/souravpn/whoop-mcp",
+  "install": "npx -y whoop-mcp"
+}

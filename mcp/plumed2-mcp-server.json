@@ -1,0 +1,7 @@
+{
+  "name": "plumed2-mcp-server",
+  "description": "Enables AI assistants to generate, validate, and optimize PLUMED input files for molecular dynamics simulations using a set of MCP tools.",
+  "source_repo": "iflow-mcp/phelanshao-plumed2-mcp-server",
+  "source_url": "https://github.com/iflow-mcp/phelanshao-plumed2-mcp-server",
+  "install": "npx -y phelanshao-plumed2-mcp-server"
+}

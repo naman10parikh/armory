@@ -1,0 +1,7 @@
+{
+  "name": "meritocra-coroot",
+  "description": "Integrates with the Coroot observability platform for incident management, health monitoring, and AI-powered root cause analysis",
+  "source_repo": "meritocra/coroot-mcp",
+  "source_url": "https://github.com/meritocra/coroot-mcp",
+  "install": "npx -y coroot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "john0n1-geth-proxy",
+  "description": "Provides a proxy bridge to Ethereum JSON-RPC endpoints for querying blockchain data and executing Ethereum operations with built-in safety features, friendly aliases, and support for both standard and Geth-specific APIs.",
+  "source_repo": "john0n1/ethereum-mcp",
+  "source_url": "https://github.com/john0n1/ethereum-mcp",
+  "install": "npx -y ethereum-mcp"
+}

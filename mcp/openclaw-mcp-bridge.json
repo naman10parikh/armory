@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-mcp-bridge",
+  "description": "A smart bridge that aggregates multiple MCP servers under a single interface, providing relevance filtering and optional caching for efficient tool selection and execution.",
+  "source_repo": "gabrielekarra/openclaw-mcp-bridge",
+  "source_url": "https://github.com/gabrielekarra/openclaw-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/gabrielekarra/openclaw-mcp-bridge\n# See source for mcpServers config block"
+}

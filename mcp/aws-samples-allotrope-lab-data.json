@@ -1,0 +1,7 @@
+{
+  "name": "aws-samples-allotrope-lab-data",
+  "description": "Works with Allotrope Simple Model (ASM) laboratory instrument data including schema validation and document fetching.",
+  "source_repo": "aws-samples/sample-laboratory-data-transformation-mcp",
+  "source_url": "https://github.com/aws-samples/sample-laboratory-data-transformation-mcp",
+  "install": "npx -y sample-laboratory-data-transformation-mcp"
+}

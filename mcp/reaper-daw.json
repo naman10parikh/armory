@@ -1,0 +1,7 @@
+{
+  "name": "reaper-daw",
+  "description": "Provides complete control over REAPER DAW through a Lua bridge script, enabling track management, MIDI operations, FX processing, automation, project settings, and transport controls for music production workflows.",
+  "source_repo": "shiehn/total-reaper-mcp",
+  "source_url": "https://github.com/shiehn/total-reaper-mcp",
+  "install": "npx -y total-reaper-mcp"
+}

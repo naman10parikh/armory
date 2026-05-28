@@ -1,0 +1,7 @@
+{
+  "name": "jagan-shanmugam-climatiq",
+  "description": "Provides a bridge to the Climatiq API for calculating precise carbon emissions across electricity usage, travel, cloud computing, and procurement domains using detailed environmental impact measurement tools.",
+  "source_repo": "jagan-shanmugam/climatiq-mcp-server",
+  "source_url": "https://github.com/jagan-shanmugam/climatiq-mcp-server",
+  "install": "npx -y climatiq-mcp-server"
+}

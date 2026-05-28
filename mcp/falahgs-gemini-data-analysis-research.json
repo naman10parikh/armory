@@ -1,0 +1,7 @@
+{
+  "name": "falahgs-gemini-data-analysis-research",
+  "description": "Bridges to Google's Gemini model for data analysis, email communication, and reasoning process generation with tools for Excel/CSV processing, statistical visualization, and AI-generated content.",
+  "source_repo": "falahgs/gemini-data-analysis-research-mcp-server",
+  "source_url": "https://github.com/falahgs/gemini-data-analysis-research-mcp-server",
+  "install": "npx -y gemini-data-analysis-research-mcp-server"
+}

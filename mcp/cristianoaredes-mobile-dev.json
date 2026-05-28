@@ -1,0 +1,7 @@
+{
+  "name": "cristianoaredes-mobile-dev",
+  "description": "Native mobile development server providing 36 tools across Android, iOS, and Flutter platforms with automated SDK setup, intelligent super-tools that combine multiple operations into complete workflows, and fallback systems for reliable cross-platform building, testing, and deployment.",
+  "source_repo": "cristianoaredes/mcp-mobile-server",
+  "source_url": "https://github.com/cristianoaredes/mcp-mobile-server",
+  "install": "# git clone --depth 1 https://github.com/cristianoaredes/mcp-mobile-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "samwang0723-memory-graph",
+  "description": "Provides long-term memory storage for LLM conversations using Redis Graph, enabling persistent knowledge graphs for maintaining context across interactions and building complex information networks.",
+  "source_repo": "samwang0723/mcp-memory",
+  "source_url": "https://github.com/samwang0723/mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/samwang0723/mcp-memory\n# See source for mcpServers config block"
+}

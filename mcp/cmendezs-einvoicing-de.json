@@ -1,0 +1,7 @@
+{
+  "name": "cmendezs-einvoicing-de",
+  "description": "German e-invoice generation and validation for ZUGFeRD, XRechnung, and EN 16931 standards.",
+  "source_repo": "cmendezs/mcp-einvoicing-de",
+  "source_url": "https://github.com/cmendezs/mcp-einvoicing-de",
+  "install": "# git clone --depth 1 https://github.com/cmendezs/mcp-einvoicing-de\n# See source for mcpServers config block"
+}

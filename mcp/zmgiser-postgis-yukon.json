@@ -1,0 +1,7 @@
+{
+  "name": "zmgiser-postgis-yukon",
+  "description": "Integrates PostGIS spatial databases with natural language querying capabilities, enabling geometry operations, spatial analysis, data import from multiple formats, and conversational SQL generation for GIS workflows and spatial data analysis.",
+  "source_repo": "zmgiser/postgis_yukon_mcp",
+  "source_url": "https://github.com/zmgiser/postgis_yukon_mcp",
+  "install": "npx -y postgis_yukon_mcp"
+}

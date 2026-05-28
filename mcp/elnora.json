@@ -1,0 +1,7 @@
+{
+  "name": "elnora",
+  "description": "AI-powered bioprotocol optimization platform for generating, searching, and managing lab protocols.",
+  "source_repo": "elnora-ai/elnora-mcp-server",
+  "source_url": "https://github.com/elnora-ai/elnora-mcp-server",
+  "install": "npx -y elnora-mcp-server"
+}

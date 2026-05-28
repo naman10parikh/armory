@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sse-langchain-example",
+  "description": "Mcp Sse Langchain Example MCP server listed on mcp.so.",
+  "source_repo": "fredrikp999/mcp-sse-langchain-example",
+  "source_url": "https://mcp.so/server/mcp-sse-langchain-example/fredrikp999",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-sse-langchain-example/fredrikp999\n# See source for mcpServers config block"
+}

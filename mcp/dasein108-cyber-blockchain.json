@@ -1,0 +1,7 @@
+{
+  "name": "dasein108-cyber-blockchain",
+  "description": "Integrates with the Cyber blockchain network to create semantic connections between IPFS content through cyberlinks, search the decentralized knowledge graph, and retrieve content for building censorship-resistant web applications.",
+  "source_repo": "dasein108/cyb-mcp",
+  "source_url": "https://github.com/dasein108/cyb-mcp",
+  "install": "npx -y cyb-mcp"
+}

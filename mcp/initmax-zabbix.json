@@ -1,0 +1,7 @@
+{
+  "name": "initmax-zabbix",
+  "description": "Exposes the complete Zabbix monitoring API as 220+ callable tools covering all 57 API groups.",
+  "source_repo": "initmax/zabbix-mcp-server",
+  "source_url": "https://github.com/initmax/zabbix-mcp-server",
+  "install": "npx -y zabbix-mcp-server"
+}

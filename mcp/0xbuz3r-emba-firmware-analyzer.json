@@ -1,0 +1,7 @@
+{
+  "name": "0xbuz3r-emba-firmware-analyzer",
+  "description": "EMBA firmware security analysis for embedded device scanning.",
+  "source_repo": "0xbuz3r/emba-mcp",
+  "source_url": "https://github.com/0xbuz3r/emba-mcp",
+  "install": "npx -y emba-mcp"
+}

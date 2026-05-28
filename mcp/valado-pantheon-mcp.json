@@ -1,0 +1,7 @@
+{
+  "name": "valado-pantheon-mcp",
+  "description": "🤖 - MCP server providing task specific agentic instructions. No more outdated Markdown files and synchronisation overhead.",
+  "source_repo": "valado/pantheon-mcp",
+  "source_url": "https://github.com/valado/pantheon-mcp",
+  "install": "npx -y pantheon-mcp"
+}

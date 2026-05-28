@@ -1,0 +1,7 @@
+{
+  "name": "transcode-mcp",
+  "description": "A media transcoding proxy with an MCP control surface for generating optimized media URLs, primarily for offline delivery in Bible translation projects.",
+  "source_repo": "klappy/transcode-mcp",
+  "source_url": "https://github.com/klappy/transcode-mcp",
+  "install": "npx -y transcode-mcp"
+}

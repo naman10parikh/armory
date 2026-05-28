@@ -1,0 +1,7 @@
+{
+  "name": "simple-memory-extension",
+  "description": "Persistent key-value memory store with semantic search using SQLite and E5 embeddings, enabling contextual information retrieval and long-term memory extension for complex multi-step tasks.",
+  "source_repo": "gmacev/simple-memory-extension-mcp-server",
+  "source_url": "https://github.com/gmacev/simple-memory-extension-mcp-server",
+  "install": "npx -y simple-memory-extension-mcp-server"
+}

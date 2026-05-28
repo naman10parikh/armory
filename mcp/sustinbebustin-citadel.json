@@ -1,0 +1,7 @@
+{
+  "name": "sustinbebustin-citadel",
+  "description": "Bundles per-stack documentation tools for coding agents.",
+  "source_repo": "sustinbebustin/citadel-mcp",
+  "source_url": "https://github.com/sustinbebustin/citadel-mcp",
+  "install": "npx -y citadel-mcp"
+}

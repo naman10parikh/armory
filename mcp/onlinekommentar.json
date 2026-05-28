@@ -1,0 +1,7 @@
+{
+  "name": "onlinekommentar",
+  "description": "Integrates with the Online Kommentar legal commentary database to search Swiss legal commentaries with filters and retrieve detailed commentary information including authors, editors, and publication dates.",
+  "source_repo": "self-tech-labs/onlinekommentar-mcp",
+  "source_url": "https://github.com/self-tech-labs/onlinekommentar-mcp",
+  "install": "npx -y onlinekommentar-mcp"
+}

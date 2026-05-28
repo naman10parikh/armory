@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-yookassa",
+  "description": "Integrates with YooKassa payment gateway for processing payments, managing orders, and handling refunds.",
+  "source_repo": "theyahia/yookassa-mcp",
+  "source_url": "https://github.com/theyahia/yookassa-mcp",
+  "install": "npx -y yookassa-mcp"
+}

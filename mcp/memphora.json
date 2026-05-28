@@ -1,0 +1,7 @@
+{
+  "name": "memphora",
+  "description": "Add persistent memory to AI assistants",
+  "source_repo": "memphora/memphora-mcp",
+  "source_url": "https://github.com/memphora/memphora-mcp",
+  "install": "npx -y memphora-mcp"
+}

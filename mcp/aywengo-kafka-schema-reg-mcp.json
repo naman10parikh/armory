@@ -1,0 +1,7 @@
+{
+  "name": "aywengo-kafka-schema-reg-mcp",
+  "description": "Comprehensive Kafka Schema Registry MCP server with 48 tools for multi-registry management, schema migration, and enterprise features.",
+  "source_repo": "aywengo/kafka-schema-reg-mcp",
+  "source_url": "https://github.com/aywengo/kafka-schema-reg-mcp",
+  "install": "npx -y kafka-schema-reg-mcp"
+}

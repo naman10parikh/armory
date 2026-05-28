@@ -1,0 +1,7 @@
+{
+  "name": "sealca-sql-guard",
+  "description": "SQL safety layer that classifies queries and requires confirmation for mutations.",
+  "source_repo": "sealca/sqlguard-mcp",
+  "source_url": "https://github.com/sealca/sqlguard-mcp",
+  "install": "npx -y sqlguard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anarcyst-youtube",
+  "description": "Zero-configuration YouTube integration with transcript extraction and video search.",
+  "source_repo": "anarcyst/youtube-mcp-server",
+  "source_url": "https://github.com/anarcyst/youtube-mcp-server",
+  "install": "npx -y youtube-mcp-server"
+}

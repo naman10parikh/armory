@@ -1,0 +1,7 @@
+{
+  "name": "adelie-ai-geocode",
+  "description": "Converts addresses to coordinates using OpenStreetMap's Photon geocoding service.",
+  "source_repo": "adelie-ai/geocode-mcp",
+  "source_url": "https://github.com/adelie-ai/geocode-mcp",
+  "install": "npx -y geocode-mcp"
+}

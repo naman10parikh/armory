@@ -1,0 +1,7 @@
+{
+  "name": "skillfm-claude-code",
+  "description": "Claude Code token usage tracking, cost visibility, and SkillFM Beacon AI health checks.",
+  "source_repo": "ericm1018/skillfm-claude-code-token-usage-mcp",
+  "source_url": "https://github.com/ericm1018/skillfm-claude-code-token-usage-mcp",
+  "install": "npx -y skillfm-claude-code-token-usage-mcp"
+}

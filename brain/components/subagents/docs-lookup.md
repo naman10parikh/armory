@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [a11y-architect, build-error-resolver]
-tags: [ecc, subagent]
+tags: [subagent]
 ---
 ## What it is
 When the user asks how to use a library, framework, or API or needs up-to-date code examples, use Context7 MCP to fetch current documentation and return answers with examples. Invoke for docs/API/setup questions.

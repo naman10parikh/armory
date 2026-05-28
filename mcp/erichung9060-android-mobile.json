@@ -1,0 +1,7 @@
+{
+  "name": "erichung9060-android-mobile",
+  "description": "Enable AI agents to control Android devices",
+  "source_repo": "erichung9060/android-mobile-mcp",
+  "source_url": "https://github.com/erichung9060/android-mobile-mcp",
+  "install": "npx -y android-mobile-mcp"
+}

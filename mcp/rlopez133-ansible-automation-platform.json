@@ -1,0 +1,7 @@
+{
+  "name": "rlopez133-ansible-automation-platform",
+  "description": "Integrates with Ansible Automation Platform, OpenShift, and Event-Driven Ansible to enable advanced automation workflows, inventory management, and job template execution for DevOps teams.",
+  "source_repo": "rlopez133/mcp",
+  "source_url": "https://github.com/rlopez133/mcp",
+  "install": "# git clone --depth 1 https://github.com/rlopez133/mcp\n# See source for mcpServers config block"
+}

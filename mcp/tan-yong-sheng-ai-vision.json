@@ -1,0 +1,7 @@
+{
+  "name": "tan-yong-sheng-ai-vision",
+  "description": "Integrates with Google's Gemini and Vertex AI models to analyze images, compare multiple images, and process video content with intelligent file handling that automatically optimizes upload strategies for different file sizes.",
+  "source_repo": "tan-yong-sheng/ai-vision-mcp",
+  "source_url": "https://github.com/tan-yong-sheng/ai-vision-mcp",
+  "install": "npx -y ai-vision-mcp"
+}

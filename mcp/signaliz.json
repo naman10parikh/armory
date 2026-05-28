@@ -1,0 +1,7 @@
+{
+  "name": "signaliz",
+  "description": "B2B email verification, company signal enrichment, and governed GTM data pipeline server for sales and marketing teams.",
+  "source_repo": "signaliz/signaliz-mcp",
+  "source_url": "https://github.com/signaliz/signaliz-mcp",
+  "install": "npx -y signaliz-mcp"
+}

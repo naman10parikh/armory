@@ -1,0 +1,7 @@
+{
+  "name": "back1ply-agent-skill-loader",
+  "description": "Dynamically loads Claude Code skills into AI agents without copying files.",
+  "source_repo": "back1ply/agent-skill-loader",
+  "source_url": "https://github.com/back1ply/agent-skill-loader",
+  "install": "# git clone --depth 1 https://github.com/back1ply/agent-skill-loader\n# See source for mcpServers config block"
+}

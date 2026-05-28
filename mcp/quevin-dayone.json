@@ -1,0 +1,7 @@
+{
+  "name": "quevin-dayone",
+  "description": "Integrates with Day One Journal through CLI and database access to create, read, and search journal entries with attachments, location data, tags, and 'On This Day' functionality for automated journaling workflows and personal data analysis.",
+  "source_repo": "quevin/mcp-dayone",
+  "source_url": "https://github.com/quevin/mcp-dayone",
+  "install": "# git clone --depth 1 https://github.com/quevin/mcp-dayone\n# See source for mcpServers config block"
+}

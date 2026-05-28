@@ -1,0 +1,7 @@
+{
+  "name": "mcp-coincap-jj",
+  "description": "Mcp Coincap Jj MCP server listed on mcp.so.",
+  "source_repo": "wazzan/mcp-coincap-jj",
+  "source_url": "https://mcp.so/server/mcp-coincap-jj/wazzan",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-coincap-jj/wazzan\n# See source for mcpServers config block"
+}

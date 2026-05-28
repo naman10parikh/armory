@@ -1,0 +1,7 @@
+{
+  "name": "predictleads",
+  "description": "B2B company intelligence on 100M+ companies",
+  "source_repo": "",
+  "source_url": "https://predictleads.com",
+  "install": "# git clone --depth 1 https://predictleads.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zapier",
+  "description": "Generate a dynamic MCP server that connects to any of your favorite 8000+ apps on Zapier.",
+  "source_repo": "zapier/zapier-mcp",
+  "source_url": "https://github.com/zapier/zapier-mcp",
+  "install": "npx -y zapier-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rectalogic-langchain",
+  "description": "Use MCP tools within LangChain-powered applications.",
+  "source_repo": "rectalogic/langchain-mcp",
+  "source_url": "https://github.com/rectalogic/langchain-mcp",
+  "install": "npx -y langchain-mcp"
+}

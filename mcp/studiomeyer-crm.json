@@ -1,0 +1,7 @@
+{
+  "name": "studiomeyer-crm",
+  "description": "AI-native CRM with 33 tools for pipeline management, leads, Stripe sync, and more.",
+  "source_repo": "",
+  "source_url": "https://studiomeyer.io",
+  "install": "# git clone --depth 1 https://studiomeyer.io\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-architectds-mathgraphs",
+  "description": "Computes and renders interactive math visualizations including function plots, geometry, histograms, regression curves, and hypothesis tests with graph-verified results.",
+  "source_repo": "architectds/mathgraphs-mcp",
+  "source_url": "https://github.com/architectds/mathgraphs-mcp",
+  "install": "npx -y mathgraphs-mcp"
+}

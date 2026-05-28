@@ -1,0 +1,7 @@
+{
+  "name": "memnode",
+  "description": "Persistent, inspectable memory for AI agents with lineage tracking, correction history, and a hosted MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://api.memnode.dev/mcp",
+  "install": "# git clone --depth 1 https://api.memnode.dev/mcp\n# See source for mcpServers config block"
+}

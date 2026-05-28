@@ -1,0 +1,7 @@
+{
+  "name": "mitchybawesome-aws-service-reference",
+  "description": "Integrates with AWS Service Reference API to provide real-time access to AWS service capabilities and API actions for developers and cloud architects.",
+  "source_repo": "mitchybawesome/sar-mcp",
+  "source_url": "https://github.com/mitchybawesome/sar-mcp",
+  "install": "npx -y sar-mcp"
+}

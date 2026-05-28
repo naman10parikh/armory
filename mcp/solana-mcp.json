@@ -1,0 +1,7 @@
+{
+  "name": "solana-mcp",
+  "description": "Solana Mcp MCP server listed on mcp.so.",
+  "source_repo": "Grandbusta/solana-mcp",
+  "source_url": "https://mcp.so/server/solana-mcp/Grandbusta",
+  "install": "npx -y solana-mcp"
+}

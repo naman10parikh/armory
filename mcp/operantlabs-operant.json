@@ -1,0 +1,7 @@
+{
+  "name": "operantlabs-operant",
+  "description": "Security testing toolkit with 51 tools for penetration testing, forensics, and vulnerability assessment.",
+  "source_repo": "operantlabs/operant-mcp",
+  "source_url": "https://github.com/operantlabs/operant-mcp",
+  "install": "npx -y operant-mcp"
+}

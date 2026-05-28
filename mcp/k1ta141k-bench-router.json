@@ -1,0 +1,7 @@
+{
+  "name": "k1ta141k-bench-router",
+  "description": "Routes design tasks to the top-performing model from the designarena.ai leaderboard via OpenRouter.",
+  "source_repo": "k1ta141k/mcp-bench-router",
+  "source_url": "https://github.com/k1ta141k/mcp-bench-router",
+  "install": "# git clone --depth 1 https://github.com/k1ta141k/mcp-bench-router\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-atlas",
+  "description": "ATLAS enables AI assistants to manage complex projects by breaking them down into hierarchical tasks with rich content support.",
+  "source_repo": "cyanheads/atlas-mcp-server",
+  "source_url": "https://github.com/cyanheads/atlas-mcp-server",
+  "install": "npx -y atlas-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clicky-rhinomcp",
+  "description": "C# MCP server enabling AI agents to create and edit 3D models in Rhino via natural language commands.",
+  "source_repo": "mcneel/rhinomcp",
+  "source_url": "https://github.com/mcneel/rhinomcp",
+  "install": "# git clone --depth 1 https://github.com/mcneel/rhinomcp\n# See source for mcpServers config block"
+}

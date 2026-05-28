@@ -1,0 +1,7 @@
+{
+  "name": "ecriswell7-award-flight-daily",
+  "description": "Provides AI agents access to 12.3 million award flight records across 25 loyalty programs for travel rewards analysis.",
+  "source_repo": "ecriswell7/award-flight-daily-mcp",
+  "source_url": "https://github.com/ecriswell7/award-flight-daily-mcp",
+  "install": "npx -y award-flight-daily-mcp"
+}

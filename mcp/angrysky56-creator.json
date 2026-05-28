@@ -1,0 +1,7 @@
+{
+  "name": "angrysky56-creator",
+  "description": "Generates custom MCP servers through templates and workflows, enabling rapid prototyping and automated scaffolding of new server implementations with built-in best practices and configuration management.",
+  "source_repo": "angrysky56/mcp-creator-mcp",
+  "source_url": "https://github.com/angrysky56/mcp-creator-mcp",
+  "install": "npx -y mcp-creator-mcp"
+}

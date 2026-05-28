@@ -1,0 +1,7 @@
+{
+  "name": "sukeesh-zerodha",
+  "description": "Provides a bridge to the Zerodha trading platform API, enabling real-time market data access, portfolio monitoring, and trading information retrieval through over 20 specialized tools for stock holdings, positions, order margins, and mutual fund details.",
+  "source_repo": "sukeesh/zerodha-mcp-go",
+  "source_url": "https://github.com/sukeesh/zerodha-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/sukeesh/zerodha-mcp-go\n# See source for mcpServers config block"
+}

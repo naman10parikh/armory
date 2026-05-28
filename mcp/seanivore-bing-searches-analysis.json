@@ -1,0 +1,7 @@
+{
+  "name": "seanivore-bing-searches-analysis",
+  "description": "Integrates with Bing Search API to collect, parse, and analyze search data.",
+  "source_repo": "seanivore/bing-searches-mcp",
+  "source_url": "https://github.com/seanivore/bing-searches-mcp",
+  "install": "npx -y bing-searches-mcp"
+}

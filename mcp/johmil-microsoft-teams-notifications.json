@@ -1,0 +1,7 @@
+{
+  "name": "johmil-microsoft-teams-notifications",
+  "description": "Enables sending markdown-formatted notifications to Microsoft Teams channels using Azure AD authentication, specifically designed for development environment status updates and team communication.",
+  "source_repo": "therealjohn/microsoft-teams-mcp",
+  "source_url": "https://github.com/therealjohn/microsoft-teams-mcp",
+  "install": "npx -y microsoft-teams-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-waifu-chat",
+  "description": "Enables chatting with an AI waifu character through MCP tools, with user management and dialog history.",
+  "source_repo": "waifuai/mcp-waifu-chat",
+  "source_url": "https://github.com/waifuai/mcp-waifu-chat",
+  "install": "# git clone --depth 1 https://github.com/waifuai/mcp-waifu-chat\n# See source for mcpServers config block"
+}

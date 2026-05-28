@@ -1,0 +1,7 @@
+{
+  "name": "delimit-ai-delimit",
+  "description": "API governance server that detects breaking changes in OpenAPI specs. Diffs two spec versions, applies configurable policy rules (strict/default/relaxed), and returns structured pass/fail verdicts. 23 change types, 10 breaking. Supports OpenAPI 3.0, 3.1, and Swagger 2.0.",
+  "source_repo": "delimit-ai/delimit",
+  "source_url": "https://github.com/delimit-ai/delimit",
+  "install": "# git clone --depth 1 https://github.com/delimit-ai/delimit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ako2345-android-security-analyzer",
+  "description": "Static security analysis of Android application source code with 53 rules across manifest, Gradle, source, XML, and secret scanning.",
+  "source_repo": "ako2345/android-security-analyzer",
+  "source_url": "https://github.com/ako2345/android-security-analyzer",
+  "install": "# git clone --depth 1 https://github.com/ako2345/android-security-analyzer\n# See source for mcpServers config block"
+}

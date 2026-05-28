@@ -1,0 +1,7 @@
+{
+  "name": "faridyusof727-datagovmy",
+  "description": "Integrates with Malaysia's open government data API to provide access to population statistics, birth records, fuel prices, household income, and vehicle registration information with dataset-specific filtering capabilities.",
+  "source_repo": "faridyusof727/datagovmy-mcp",
+  "source_url": "https://github.com/faridyusof727/datagovmy-mcp",
+  "install": "npx -y datagovmy-mcp"
+}

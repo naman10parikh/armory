@@ -1,0 +1,7 @@
+{
+  "name": "itsomsarraf-pyth-network",
+  "description": "Provides real-time access to Pyth Network's decentralized oracle price feeds across 1,930+ assets and 107+ blockchains, offering tools for searching feeds, fetching latest prices, retrieving historical data, and calculating time-weighted averages for trading bots and financial analysis.",
+  "source_repo": "itsomsarraf/pyth-network-mcp",
+  "source_url": "https://github.com/itsomsarraf/pyth-network-mcp",
+  "install": "npx -y pyth-network-mcp"
+}

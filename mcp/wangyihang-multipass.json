@@ -1,0 +1,7 @@
+{
+  "name": "wangyihang-multipass",
+  "description": "Manages Multipass virtual machine instances with lifecycle operations, snapshots, file transfers, directory mounting, and command execution.",
+  "source_repo": "wangyihang/multipass-mcp",
+  "source_url": "https://github.com/wangyihang/multipass-mcp",
+  "install": "npx -y multipass-mcp"
+}

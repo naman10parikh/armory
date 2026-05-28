@@ -1,0 +1,7 @@
+{
+  "name": "carhaix-proxvanta",
+  "description": "Manage your ProxVanta AI workspace including teams, contexts, workflows, and tools.",
+  "source_repo": "carhaix/oi-mcp",
+  "source_url": "https://github.com/carhaix/oi-mcp",
+  "install": "npx -y oi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "terrakube",
+  "description": "Provides a bridge to Terrakube infrastructure for managing workspaces, variables, modules, and organization resources through natural language interaction",
+  "source_repo": "terrakube-io/mcp-server-terrakube",
+  "source_url": "https://github.com/terrakube-io/mcp-server-terrakube",
+  "install": "# git clone --depth 1 https://github.com/terrakube-io/mcp-server-terrakube\n# See source for mcpServers config block"
+}

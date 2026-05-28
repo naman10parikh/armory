@@ -1,0 +1,7 @@
+{
+  "name": "blackkhawkk-sast-sca-sbom-security-analyzer",
+  "description": "Provides enterprise-grade security analysis through SAST, SCA, SBOM generation, and vulnerability scanning with Snyk integration, enabling automated security testing, code review for common vulnerabilities like SQL injection and XSS, and compliance reporting for DevSecOps workflows.",
+  "source_repo": "blackkhawkk/mcp_sast_sca_sbom",
+  "source_url": "https://github.com/blackkhawkk/mcp_sast_sca_sbom/tree/HEAD/mcp-security-server",
+  "install": "# git clone --depth 1 https://github.com/blackkhawkk/mcp_sast_sca_sbom/tree/HEAD/mcp-security-server\n# See source for mcpServers config block"
+}

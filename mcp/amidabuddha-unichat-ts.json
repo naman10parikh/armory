@@ -1,0 +1,7 @@
+{
+  "name": "amidabuddha-unichat-ts",
+  "description": "Integrates multiple language models via the unified Unichat tool, enabling seamless interaction across OpenAI, MistralAI, Anthropic, xAI, and Google AI platforms.",
+  "source_repo": "amidabuddha/unichat-ts-mcp-server",
+  "source_url": "https://github.com/amidabuddha/unichat-ts-mcp-server",
+  "install": "npx -y unichat-ts-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "annotation",
+  "description": "Provides persistent note-taking and task management through JSON file storage, enabling creation and management of pages with checkable annotations for structured personal knowledge bases and todo lists.",
+  "source_repo": "xmarlon30x2/annotation-mcp",
+  "source_url": "https://github.com/xmarlon30x2/annotation-mcp",
+  "install": "npx -y annotation-mcp"
+}

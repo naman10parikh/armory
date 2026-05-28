@@ -1,0 +1,7 @@
+{
+  "name": "cacaview-wsl-terminal",
+  "description": "Manages persistent terminal sessions in WSL and Docker environments with real-time output polling, log tailing, and file transfer capabilities.",
+  "source_repo": "cacaview/wsl-mcp",
+  "source_url": "https://github.com/cacaview/wsl-mcp",
+  "install": "npx -y wsl-mcp"
+}

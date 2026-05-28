@@ -1,0 +1,7 @@
+{
+  "name": "mizukaizen-nightglass",
+  "description": "Captures website screenshots in multiple formats with customizable viewport dimensions and dark mode support.",
+  "source_repo": "mizukaizen/nightglass-mcp",
+  "source_url": "https://github.com/mizukaizen/nightglass-mcp",
+  "install": "npx -y nightglass-mcp"
+}

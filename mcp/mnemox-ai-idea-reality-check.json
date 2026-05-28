@@ -1,0 +1,7 @@
+{
+  "name": "mnemox-ai-idea-reality-check",
+  "description": "Prevents redundant development by searching GitHub, Hacker News, npm, PyPI, and Product Hunt to assess project similarity and provide reality scores with pivot suggestions before starting new coding projects.",
+  "source_repo": "mnemox-ai/idea-reality-mcp",
+  "source_url": "https://github.com/mnemox-ai/idea-reality-mcp",
+  "install": "npx -y idea-reality-mcp"
+}

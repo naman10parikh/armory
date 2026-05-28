@@ -1,0 +1,7 @@
+{
+  "name": "robertheadley-chrome-debug",
+  "description": "Provides powerful browser control capabilities through Chrome DevTools Protocol and Puppeteer, enabling advanced web automation, scraping, and testing tasks.",
+  "source_repo": "robertheadley/chrome-debug-mcp",
+  "source_url": "https://github.com/robertheadley/chrome-debug-mcp",
+  "install": "npx -y chrome-debug-mcp"
+}

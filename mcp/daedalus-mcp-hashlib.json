@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-mcp-hashlib",
+  "description": "Cryptographic hashing via Python's hashlib — compute MD5, SHA-1, SHA-256, and other digests.",
+  "source_repo": "daedalus/mcp-hashlib",
+  "source_url": "https://github.com/daedalus/mcp-hashlib",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-hashlib\n# See source for mcpServers config block"
+}

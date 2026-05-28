@@ -1,0 +1,7 @@
+{
+  "name": "israeltheminer-clude-bot-memory",
+  "description": "Self-hosted persistent memory server backed by Supabase with hybrid vector-keyword-graph retrieval, importance scoring, memory decay, and dream consolidation cycles.",
+  "source_repo": "israeltheminer/clude-mcp",
+  "source_url": "https://github.com/israeltheminer/clude-mcp",
+  "install": "npx -y clude-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lambda-capture-mcp-server",
+  "description": "MCP server that enables semantic search over macroeconomic data using the Lambda Capture API.",
+  "source_repo": "lambda-capture/mcp-server",
+  "source_url": "https://github.com/lambda-capture/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/lambda-capture/mcp-server\n# See source for mcpServers config block"
+}

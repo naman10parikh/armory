@@ -1,0 +1,7 @@
+{
+  "name": "ragi",
+  "description": "Local-first RAG indexing and semantic search MCP server. Enables document retrieval and context-aware queries using local embedding models.",
+  "source_repo": "SusuTawar/ragi",
+  "source_url": "https://github.com/SusuTawar/ragi",
+  "install": "# git clone --depth 1 https://github.com/SusuTawar/ragi\n# See source for mcpServers config block"
+}

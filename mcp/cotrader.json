@@ -1,0 +1,7 @@
+{
+  "name": "cotrader",
+  "description": "Screen 11,000+ stocks using natural language and detect chart patterns.",
+  "source_repo": "get-cotrader/cotrader-mcp",
+  "source_url": "https://github.com/get-cotrader/cotrader-mcp",
+  "install": "npx -y cotrader-mcp"
+}

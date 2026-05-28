@@ -1,0 +1,7 @@
+{
+  "name": "agentek-crypto",
+  "description": "Offering tools for cryptocurrency research and Ethereum-based automation.",
+  "source_repo": "nanidao/agentek",
+  "source_url": "https://github.com/nanidao/agentek/tree/HEAD/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/nanidao/agentek/tree/HEAD/packages/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seandavi-ontology-lookup-service",
+  "description": "Integrates with the Ontology Lookup Service API to search biomedical ontology terms, retrieve detailed ontology information, explore term hierarchies, and discover semantically similar terms across standardized ontologies like Gene Ontology and Human Phenotype Ontology.",
+  "source_repo": "seandavi/ols-mcp-server",
+  "source_url": "https://github.com/seandavi/ols-mcp-server",
+  "install": "npx -y ols-mcp-server"
+}

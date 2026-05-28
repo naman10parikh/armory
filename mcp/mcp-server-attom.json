@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-attom",
+  "description": "Exposes ATTOM's real estate API as MCP tools, enabling property details, valuations, assessments, sales, and area data via natural language.",
+  "source_repo": "nkbud/mcp-server-attom",
+  "source_url": "https://github.com/nkbud/mcp-server-attom",
+  "install": "# git clone --depth 1 https://github.com/nkbud/mcp-server-attom\n# See source for mcpServers config block"
+}

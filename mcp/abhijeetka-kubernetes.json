@@ -1,0 +1,7 @@
+{
+  "name": "abhijeetka-kubernetes",
+  "description": "Bridges natural language interactions with Kubernetes clusters by wrapping kubectl commands, enabling conversational management of pods, deployments, contexts, and troubleshooting without requiring exact syntax knowledge.",
+  "source_repo": "abhijeetka/mcp-k8s-server",
+  "source_url": "https://github.com/abhijeetka/mcp-k8s-server",
+  "install": "# git clone --depth 1 https://github.com/abhijeetka/mcp-k8s-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anuragraio17-python-docs",
+  "description": "Fetches Python documentation for quick access to language references and code explanations.",
+  "source_repo": "anuragrai017/python-docs-server-mcp-server",
+  "source_url": "https://github.com/anuragrai017/python-docs-server-mcp-server",
+  "install": "npx -y python-docs-server-mcp-server"
+}

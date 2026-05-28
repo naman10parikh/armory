@@ -1,0 +1,7 @@
+{
+  "name": "jbechtel97-dealflowpro",
+  "description": "Multifamily real estate deal analysis: cap rate, DSCR, IRR, and max offer price calculations.",
+  "source_repo": "jbechtel-97/dealflowpro-mcp-server",
+  "source_url": "https://github.com/jbechtel-97/dealflowpro-mcp-server",
+  "install": "npx -y dealflowpro-mcp-server"
+}

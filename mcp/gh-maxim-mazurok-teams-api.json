@@ -1,0 +1,7 @@
+{
+  "name": "gh-maxim-mazurok-teams-api",
+  "description": "AI-native Microsoft Teams integration for reading conversations and sending messages.",
+  "source_repo": "maxim-mazurok/teams-api",
+  "source_url": "https://github.com/maxim-mazurok/teams-api",
+  "install": "# git clone --depth 1 https://github.com/maxim-mazurok/teams-api\n# See source for mcpServers config block"
+}

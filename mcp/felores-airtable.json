@@ -1,0 +1,7 @@
+{
+  "name": "felores-airtable",
+  "description": "Airtable MCP server enables AI assistants to programmatically manage Airtable bases, tables, fields, and records through a simplified interface to the Airtable API.",
+  "source_repo": "felores/airtable-mcp",
+  "source_url": "https://github.com/felores/airtable-mcp",
+  "install": "npx -y airtable-mcp"
+}

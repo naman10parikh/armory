@@ -1,0 +1,7 @@
+{
+  "name": "true-markets",
+  "description": "Real-time crypto market data with price history, trending assets, and market summaries.",
+  "source_repo": "",
+  "source_url": "https://truemarkets.co",
+  "install": "# git clone --depth 1 https://truemarkets.co\n# See source for mcpServers config block"
+}

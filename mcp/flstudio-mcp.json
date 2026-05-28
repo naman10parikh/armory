@@ -1,0 +1,7 @@
+{
+  "name": "flstudio-mcp",
+  "description": "AI control for FL Studio via the Model Context Protocol — full in-DAW mixing (Mix Doctor diagnosis, gain staging, EQ/compression/reverb, reference matching), routing, and composition through Claude and any MCP client. 67 tools. Windows.",
+  "source_repo": "rosasynthesiz/flstudio-mcp",
+  "source_url": "https://github.com/rosasynthesiz/flstudio-mcp",
+  "install": "npx -y flstudio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "promptibus",
+  "description": "Provides structured intelligence about 67+ generative AI models including recommendations, prompt optimization, parameter comparison, and pricing information.",
+  "source_repo": "promptibus/mcp",
+  "source_url": "https://github.com/promptibus/mcp",
+  "install": "# git clone --depth 1 https://github.com/promptibus/mcp\n# See source for mcpServers config block"
+}

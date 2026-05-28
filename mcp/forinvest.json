@@ -1,0 +1,7 @@
+{
+  "name": "forinvest",
+  "description": "Financial data and analytics for Turkish BIST and international markets via AI agents.",
+  "source_repo": "",
+  "source_url": "https://forinvest.com",
+  "install": "# git clone --depth 1 https://forinvest.com\n# See source for mcpServers config block"
+}

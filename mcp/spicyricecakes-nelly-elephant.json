@@ -1,0 +1,7 @@
+{
+  "name": "spicyricecakes-nelly-elephant",
+  "description": "Search and resume past Claude Code conversations from your local session history.",
+  "source_repo": "spicyricecakes/nelly-elephant-mcp",
+  "source_url": "https://github.com/spicyricecakes/nelly-elephant-mcp",
+  "install": "npx -y nelly-elephant-mcp"
+}

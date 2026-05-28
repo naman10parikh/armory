@@ -1,0 +1,7 @@
+{
+  "name": "mcp-powershell-exec",
+  "description": "Mcp Powershell Exec MCP server listed on mcp.so.",
+  "source_repo": "dfinke/mcp-powershell-exec",
+  "source_url": "https://mcp.so/server/mcp-powershell-exec/dfinke",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-powershell-exec/dfinke\n# See source for mcpServers config block"
+}

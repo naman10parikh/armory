@@ -1,0 +1,7 @@
+{
+  "name": "alilxxey-openobserve-community-mcp",
+  "description": "Read-only MCP server for OpenObserve Community Edition via REST API. Search logs, traces, stream schemas, and dashboards without requiring the Enterprise license.",
+  "source_repo": "alilxxey/openobserve-community-mcp",
+  "source_url": "https://github.com/alilxxey/openobserve-community-mcp",
+  "install": "npx -y openobserve-community-mcp"
+}

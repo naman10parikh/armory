@@ -1,0 +1,7 @@
+{
+  "name": "ching-chiang-comsol",
+  "description": "MCP server for AI-driven automation of COMSOL Multiphysics Desktop simulations via attachment to a running COMSOL instance.",
+  "source_repo": "ching-chiang/comsol-mcp",
+  "source_url": "https://github.com/ching-chiang/comsol-mcp",
+  "install": "npx -y comsol-mcp"
+}

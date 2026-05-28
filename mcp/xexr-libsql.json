@@ -1,0 +1,7 @@
+{
+  "name": "xexr-libsql",
+  "description": "Provides secure database operations for libSQL/SQLite databases",
+  "source_repo": "xexr/mcp-libsql",
+  "source_url": "https://github.com/xexr/mcp-libsql",
+  "install": "# git clone --depth 1 https://github.com/xexr/mcp-libsql\n# See source for mcpServers config block"
+}

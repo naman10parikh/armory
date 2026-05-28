@@ -1,0 +1,7 @@
+{
+  "name": "staruml-mcp-server",
+  "description": "Enables creating diagrams or generating code from diagrams in StarUML via prompts.",
+  "source_repo": "staruml/staruml-mcp-server",
+  "source_url": "https://github.com/staruml/staruml-mcp-server",
+  "install": "npx -y staruml-mcp-server"
+}

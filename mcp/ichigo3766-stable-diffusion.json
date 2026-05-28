@@ -1,0 +1,7 @@
+{
+  "name": "ichigo3766-stable-diffusion",
+  "description": "Integrates with Stable Diffusion WebUI to provide text-to-image generation with extensive parameter control and metadata embedding",
+  "source_repo": "ichigo3766/image-gen-mcp",
+  "source_url": "https://github.com/ichigo3766/image-gen-mcp",
+  "install": "npx -y image-gen-mcp"
+}

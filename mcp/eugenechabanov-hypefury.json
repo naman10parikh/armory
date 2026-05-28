@@ -1,0 +1,7 @@
+{
+  "name": "eugenechabanov-hypefury",
+  "description": "Enables AI systems to authenticate with and schedule posts through the Hypefury platform, creating a secure bridge for automated content publishing workflows.",
+  "source_repo": "eugenechabanov/hf-mcp",
+  "source_url": "https://github.com/eugenechabanov/hf-mcp",
+  "install": "npx -y hf-mcp"
+}

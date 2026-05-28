@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-recon-ng",
+  "description": "Exposes the recon-ng OSINT framework for open-source intelligence gathering and reconnaissance.",
+  "source_repo": "daedalus/mcp-recon-ng",
+  "source_url": "https://github.com/daedalus/mcp-recon-ng",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-recon-ng\n# See source for mcpServers config block"
+}

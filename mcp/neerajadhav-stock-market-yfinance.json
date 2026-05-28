@@ -1,0 +1,7 @@
+{
+  "name": "neerajadhav-stock-market-yfinance",
+  "description": "Integrates with yfinance to provide real-time stock quotes, historical price data, market indices tracking, technical analysis tools, and portfolio management capabilities with specialized support for Indian markets including NIFTY 50, SENSEX, and NSE stocks.",
+  "source_repo": "neerajadhav/kai-stock-market-mcp",
+  "source_url": "https://github.com/neerajadhav/kai-stock-market-mcp",
+  "install": "npx -y kai-stock-market-mcp"
+}

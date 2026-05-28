@@ -1,0 +1,7 @@
+{
+  "name": "recipe-clipper",
+  "description": "Connects to your Recipe Clipper library to search, retrieve, and organize your saved recipes.",
+  "source_repo": "",
+  "source_url": "https://www.recipe-clipper.com",
+  "install": "# git clone --depth 1 https://www.recipe-clipper.com\n# See source for mcpServers config block"
+}

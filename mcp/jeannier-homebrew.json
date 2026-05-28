@@ -1,0 +1,7 @@
+{
+  "name": "jeannier-homebrew",
+  "description": "Exposes Homebrew package management commands as individual tools for installing, uninstalling, searching, upgrading, and maintaining macOS development environments through direct brew command execution.",
+  "source_repo": "jeannier/homebrew-mcp",
+  "source_url": "https://github.com/jeannier/homebrew-mcp",
+  "install": "npx -y homebrew-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wealthos",
+  "description": "MCP server for the WealthOS personal finance platform: track net worth, manage budgets, and forecast financial scenarios with AI.",
+  "source_repo": "",
+  "source_url": "https://wealthos.cc/mcp",
+  "install": "# git clone --depth 1 https://wealthos.cc/mcp\n# See source for mcpServers config block"
+}

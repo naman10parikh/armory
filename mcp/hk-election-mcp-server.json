@@ -1,0 +1,7 @@
+{
+  "name": "hk-election-mcp-server",
+  "description": "Provides access to Hong Kong registered electors data from the Registration and Electoral Office, enabling queries of elector counts by year range.",
+  "source_repo": "hkopenai/hk-election-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-election-mcp-server",
+  "install": "npx -y hk-election-mcp-server"
+}

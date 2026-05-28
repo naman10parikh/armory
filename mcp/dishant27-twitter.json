@@ -1,0 +1,7 @@
+{
+  "name": "dishant27-twitter",
+  "description": "Integrates with Twitter's API to enable posting tweets, searching content, managing profiles, and handling follower relationships with robust error handling for rate limits and authentication issues.",
+  "source_repo": "dishant27/twitter-mcp",
+  "source_url": "https://github.com/dishant27/twitter-mcp",
+  "install": "npx -y twitter-mcp"
+}

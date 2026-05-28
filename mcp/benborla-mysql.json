@@ -1,0 +1,7 @@
+{
+  "name": "benborla-mysql",
+  "description": "Secure read-only MySQL database access to execute queries and analyze data patterns.",
+  "source_repo": "benborla/mcp-server-mysql",
+  "source_url": "https://github.com/benborla/mcp-server-mysql",
+  "install": "# git clone --depth 1 https://github.com/benborla/mcp-server-mysql\n# See source for mcpServers config block"
+}

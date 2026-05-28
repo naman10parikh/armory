@@ -1,0 +1,7 @@
+{
+  "name": "qwen-package-manager",
+  "description": "Manages MCP server packages within development environments with tools for searching, installing, uninstalling, and health-checking from multiple registries including GitHub and local sources, featuring transactional operations with automatic rollback, environment validation, and audit logging for centralized package lifecycle management.",
+  "source_repo": "cuifuze/qwen-dgj-mcp",
+  "source_url": "https://github.com/cuifuze/qwen-dgj-mcp",
+  "install": "npx -y qwen-dgj-mcp"
+}

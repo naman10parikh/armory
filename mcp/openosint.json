@@ -1,0 +1,7 @@
+{
+  "name": "openosint",
+  "description": "AI-powered OSINT framework exposing 10 tools (email, username, breach, WHOIS, IP, subdomain, phone, Shodan, dorks, Pastebin) as an MCP server for Claude Code and Claude Desktop, with an autonomous agent REPL and direct CLI.",
+  "source_repo": "OpenOSINT/OpenOSINT",
+  "source_url": "https://github.com/OpenOSINT/OpenOSINT",
+  "install": "# git clone --depth 1 https://github.com/OpenOSINT/OpenOSINT\n# See source for mcpServers config block"
+}

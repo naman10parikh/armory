@@ -1,0 +1,7 @@
+{
+  "name": "line-line-bot-mcp-server",
+  "description": "🎖 📇 ☁️ - MCP Server for Integrating LINE Official Account",
+  "source_repo": "line/line-bot-mcp-server",
+  "source_url": "https://github.com/line/line-bot-mcp-server",
+  "install": "npx -y line-bot-mcp-server"
+}

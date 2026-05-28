@@ -1,0 +1,7 @@
+{
+  "name": "lumina",
+  "description": "Lumina MCP server listed on mcp.so.",
+  "source_repo": "AbramelinTheClown/lumina",
+  "source_url": "https://mcp.so/server/lumina/AbramelinTheClown",
+  "install": "# git clone --depth 1 https://mcp.so/server/lumina/AbramelinTheClown\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iphysresearch-gw150914-signal-search",
+  "description": "Provides complete access to LIGO-Virgo gravitational wave data analysis through PyCBC and GWpy integration, implementing matched filtering pipelines with data fetching, preprocessing, template generation, network SNR calculation, and AI-optimized parameter space search for gravitational wave detection and research.",
+  "source_repo": "iphysresearch/gw150914-mcp-signal-search",
+  "source_url": "https://github.com/iphysresearch/gw150914-mcp-signal-search",
+  "install": "# git clone --depth 1 https://github.com/iphysresearch/gw150914-mcp-signal-search\n# See source for mcpServers config block"
+}

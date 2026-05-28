@@ -1,0 +1,7 @@
+{
+  "name": "recursive-support-agent",
+  "description": "Query the Recursive AI support agent platform — pricing, features, capabilities, and live examples. Recursive builds custom support agents for small businesses with strict grounding, self-improving knowledge bases, and MCP access at every tier.",
+  "source_repo": "",
+  "source_url": "https://recursive.support",
+  "install": "# git clone --depth 1 https://recursive.support\n# See source for mcpServers config block"
+}

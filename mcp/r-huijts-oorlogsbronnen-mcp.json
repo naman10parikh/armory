@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-oorlogsbronnen-mcp",
+  "description": "Oorlogsbronnen (War Sources) API integration for accessing historical WWII records, photographs, and documents from the Netherlands (1940-1945)",
+  "source_repo": "r-huijts/oorlogsbronnen-mcp",
+  "source_url": "https://github.com/r-huijts/oorlogsbronnen-mcp",
+  "install": "npx -y oorlogsbronnen-mcp"
+}

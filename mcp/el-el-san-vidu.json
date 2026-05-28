@@ -1,0 +1,7 @@
+{
+  "name": "el-el-san-vidu",
+  "description": "Transforms static images into dynamic videos with customizable parameters through the Vidu AI video generation API, handling authentication, file management, and asynchronous task processing.",
+  "source_repo": "el-el-san/vidu-mcp-server",
+  "source_url": "https://github.com/el-el-san/vidu-mcp-server",
+  "install": "npx -y vidu-mcp-server"
+}

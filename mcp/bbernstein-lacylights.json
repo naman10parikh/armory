@@ -1,0 +1,7 @@
+{
+  "name": "bbernstein-lacylights",
+  "description": "Integrates with LacyLights theatrical lighting systems to automate DMX fixture management, generate lighting designs from script analysis, and create cue sequences with intelligent color mixing and timing optimization.",
+  "source_repo": "bbernstein/lacylights-mcp",
+  "source_url": "https://github.com/bbernstein/lacylights-mcp",
+  "install": "npx -y lacylights-mcp"
+}

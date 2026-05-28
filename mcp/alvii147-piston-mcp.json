@@ -1,0 +1,7 @@
+{
+  "name": "alvii147-piston-mcp",
+  "description": "MCP server that lets LLMs execute code through the Piston remote code execution engine, with a zero-config `uv` setup and a ready-to-use Claude Desktop config example.",
+  "source_repo": "alvii147/piston-mcp",
+  "source_url": "https://github.com/alvii147/piston-mcp",
+  "install": "npx -y piston-mcp"
+}

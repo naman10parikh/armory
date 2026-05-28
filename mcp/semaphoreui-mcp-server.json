@@ -1,0 +1,7 @@
+{
+  "name": "semaphoreui-mcp-server",
+  "description": "Enables AI assistants to interact with SemaphoreUI for managing and running Ansible automation tasks through natural language commands.",
+  "source_repo": "cloin/semaphore-mcp",
+  "source_url": "https://github.com/cloin/semaphore-mcp",
+  "install": "npx -y semaphore-mcp"
+}

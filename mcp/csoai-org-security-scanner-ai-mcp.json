@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-security-scanner-ai-mcp",
+  "description": "Python MCP server for security scanning and vulnerability detection.",
+  "source_repo": "csoai-org/security-scanner-ai-mcp",
+  "source_url": "https://github.com/csoai-org/security-scanner-ai-mcp",
+  "install": "npx -y security-scanner-ai-mcp"
+}

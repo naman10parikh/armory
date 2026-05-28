@@ -1,0 +1,7 @@
+{
+  "name": "frstycodes-github",
+  "description": "Integrates with GitHub repositories directly within the Zed editor, enabling code review, issue management, and repository exploration through a Rust-based extension that connects to GitHub's API via a configured personal access token.",
+  "source_repo": "frstycodes/zed-github-mcp",
+  "source_url": "https://github.com/frstycodes/zed-github-mcp",
+  "install": "npx -y zed-github-mcp"
+}

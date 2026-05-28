@@ -1,0 +1,7 @@
+{
+  "name": "coinapi-finfeedapi",
+  "description": "Composite server endpoint for all API Bricks products: CoinAPI and FinFeedAPI",
+  "source_repo": "",
+  "source_url": "https://mcp.api.apibricks.io/mcp",
+  "install": "# git clone --depth 1 https://mcp.api.apibricks.io/mcp\n# See source for mcpServers config block"
+}

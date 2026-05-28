@@ -1,0 +1,7 @@
+{
+  "name": "cryptoleek-solana-blockchain",
+  "description": "Enables Claude to interact with the Solana blockchain through specialized tools for retrieving validator information, estimating fees, fetching transaction histories, and managing digital assets.",
+  "source_repo": "cryptoleek-team/awesome-solana-mcp",
+  "source_url": "https://github.com/cryptoleek-team/awesome-solana-mcp",
+  "install": "npx -y awesome-solana-mcp"
+}

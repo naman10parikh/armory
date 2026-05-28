@@ -1,0 +1,7 @@
+{
+  "name": "excel-data-manager",
+  "description": "Enables Excel file operations and data analysis with tools for statistical analysis, data filtering, pivot table creation, and visualization through charts and plots.",
+  "source_repo": "yzfly/mcp-excel-server",
+  "source_url": "https://github.com/yzfly/mcp-excel-server",
+  "install": "# git clone --depth 1 https://github.com/yzfly/mcp-excel-server\n# See source for mcpServers config block"
+}

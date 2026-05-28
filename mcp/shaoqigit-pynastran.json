@@ -1,0 +1,7 @@
+{
+  "name": "shaoqigit-pynastran",
+  "description": "Integrates with Nastran finite element analysis through pyNastran to read BDF input files, extract OP2 results, perform mesh quality checks, and generate analysis reports.",
+  "source_repo": "shaoqigit/pynastran-mcp",
+  "source_url": "https://github.com/shaoqigit/pynastran-mcp",
+  "install": "npx -y pynastran-mcp"
+}

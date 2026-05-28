@@ -1,0 +1,7 @@
+{
+  "name": "kamy",
+  "description": "Document API for AI agents: render PDFs, e-sign with PAdES, and verify documents programmatically.",
+  "source_repo": "kamy-development/kamy-plugin",
+  "source_url": "https://github.com/kamy-development/kamy-plugin",
+  "install": "# git clone --depth 1 https://github.com/kamy-development/kamy-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "janschmiedgen-mural",
+  "description": "Integrates with Mural's collaborative visual workspace platform through OAuth 2.0 authentication to manage workspaces, rooms, murals, sticky notes, and other widgets.",
+  "source_repo": "janschmiedgen/mural-mcp",
+  "source_url": "https://github.com/janschmiedgen/mural-mcp",
+  "install": "npx -y mural-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shinzo-labs-coinmarketcap",
+  "description": "Integrates with CoinMarketCap API to provide tiered access to cryptocurrency market data, exchange information, and blockchain metrics for financial analysis and crypto-related applications.",
+  "source_repo": "shinzo-labs/coinmarketcap-mcp",
+  "source_url": "https://github.com/shinzo-labs/coinmarketcap-mcp",
+  "install": "npx -y coinmarketcap-mcp"
+}

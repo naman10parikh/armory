@@ -1,0 +1,7 @@
+{
+  "name": "apifox-mcp-server",
+  "description": "Apifox Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "wangmhaha/apifox-mcp-server",
+  "source_url": "https://mcp.so/server/apifox-mcp-server/wangmhaha",
+  "install": "npx -y apifox-mcp-server"
+}

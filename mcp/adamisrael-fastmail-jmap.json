@@ -1,0 +1,7 @@
+{
+  "name": "adamisrael-fastmail-jmap",
+  "description": "Searches and reads email via the Fastmail JMAP API with filtering by sender, subject, date, and attachments.",
+  "source_repo": "adamisrael/mcp-fastmail",
+  "source_url": "https://github.com/adamisrael/mcp-fastmail",
+  "install": "# git clone --depth 1 https://github.com/adamisrael/mcp-fastmail\n# See source for mcpServers config block"
+}

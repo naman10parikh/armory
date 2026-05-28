@@ -1,0 +1,7 @@
+{
+  "name": "servicepal",
+  "description": "AI phone answering and appointment booking tools for service businesses.",
+  "source_repo": "",
+  "source_url": "https://servicepal.cloud",
+  "install": "# git clone --depth 1 https://servicepal.cloud\n# See source for mcpServers config block"
+}

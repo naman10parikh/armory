@@ -1,0 +1,7 @@
+{
+  "name": "iceener-tesla-tessie",
+  "description": "Integrates with Tesla vehicles through the Tessie API to retrieve vehicle status information and execute control commands like locking, climate control, and charging management.",
+  "source_repo": "iceener/tesla-streamable-mcp-server",
+  "source_url": "https://github.com/iceener/tesla-streamable-mcp-server",
+  "install": "npx -y tesla-streamable-mcp-server"
+}

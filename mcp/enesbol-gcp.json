@@ -1,0 +1,7 @@
+{
+  "name": "enesbol-gcp",
+  "description": "Enables developers to manage and interact with Google Cloud Platform resources like Compute Engine, Cloud Run, BigQuery, and Cloud Storage through a unified, tool-driven approach.",
+  "source_repo": "enesbol/gcp-mcp",
+  "source_url": "https://github.com/enesbol/gcp-mcp",
+  "install": "npx -y gcp-mcp"
+}

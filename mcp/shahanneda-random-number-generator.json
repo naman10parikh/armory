@@ -1,0 +1,7 @@
+{
+  "name": "shahanneda-random-number-generator",
+  "description": "Provides random number generation capabilities for generating integers and floats within specified ranges, suitable for simulations, games, or statistical sampling.",
+  "source_repo": "shahanneda/wallpaper-mcp",
+  "source_url": "https://github.com/shahanneda/wallpaper-mcp",
+  "install": "npx -y wallpaper-mcp"
+}

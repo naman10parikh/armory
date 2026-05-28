@@ -1,0 +1,7 @@
+{
+  "name": "libragen",
+  "description": "Build searchable documentation libraries that ground AI assistants in accurate information",
+  "source_repo": "libragen/libragen",
+  "source_url": "https://github.com/libragen/libragen",
+  "install": "# git clone --depth 1 https://github.com/libragen/libragen\n# See source for mcpServers config block"
+}

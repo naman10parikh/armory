@@ -1,0 +1,7 @@
+{
+  "name": "skivuha-federal-compass",
+  "description": "Connects to the USAJobs API to search federal job openings, translate federal jargon, analyze CV qualifications, and explain GS grades and clearances.",
+  "source_repo": "skivuha/federal-compass-mcp",
+  "source_url": "https://github.com/skivuha/federal-compass-mcp",
+  "install": "npx -y federal-compass-mcp"
+}

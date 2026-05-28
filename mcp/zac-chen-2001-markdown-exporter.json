@@ -1,0 +1,7 @@
+{
+  "name": "zac-chen-2001-markdown-exporter",
+  "description": "Converts Markdown content to multiple document formats including DOCX, PDF, PPTX, XLSX, HTML, and JSON.",
+  "source_repo": "zac-chen-2001/markdown-exporter-mcp-local",
+  "source_url": "https://github.com/zac-chen-2001/markdown-exporter-mcp-local",
+  "install": "# git clone --depth 1 https://github.com/zac-chen-2001/markdown-exporter-mcp-local\n# See source for mcpServers config block"
+}

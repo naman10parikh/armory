@@ -1,0 +1,7 @@
+{
+  "name": "mia-platform-console",
+  "description": "Integrate with Mia-Platform Console APIs for platform engineering and cloud operations",
+  "source_repo": "mia-platform/console-mcp-server",
+  "source_url": "https://github.com/mia-platform/console-mcp-server",
+  "install": "npx -y console-mcp-server"
+}

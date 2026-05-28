@@ -1,0 +1,7 @@
+{
+  "name": "davidmosiah-withings",
+  "description": "Privacy-first unofficial MCP server for Withings health, sleep, activity, and heart-rate data.",
+  "source_repo": "davidmosiah/withingsmcp",
+  "source_url": "https://github.com/davidmosiah/withingsmcp",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/withingsmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "4bots",
+  "description": "Daily content delivery service for AI briefing agents across 10 topic channels.",
+  "source_repo": "davidsiegel59/4bots",
+  "source_url": "https://github.com/davidsiegel59/4bots",
+  "install": "# git clone --depth 1 https://github.com/davidsiegel59/4bots\n# See source for mcpServers config block"
+}

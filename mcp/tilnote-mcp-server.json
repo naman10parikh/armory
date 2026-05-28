@@ -1,0 +1,7 @@
+{
+  "name": "tilnote-mcp-server",
+  "description": "Enables AI assistants to create, read, search, and update notes on Tilnote, plus manage books.",
+  "source_repo": "wisdomcrane/tilnote-mcp-server",
+  "source_url": "https://github.com/wisdomcrane/tilnote-mcp-server",
+  "install": "npx -y tilnote-mcp-server"
+}

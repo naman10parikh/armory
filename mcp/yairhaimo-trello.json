@@ -1,0 +1,7 @@
+{
+  "name": "yairhaimo-trello",
+  "description": "Integrates with Trello's API to enable AI-powered project management tasks like automated workflow optimization and task creation.",
+  "source_repo": "yairhaimo/trello-mcp-server",
+  "source_url": "https://github.com/yairhaimo/trello-mcp-server",
+  "install": "npx -y trello-mcp-server"
+}

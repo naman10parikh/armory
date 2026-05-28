@@ -1,0 +1,7 @@
+{
+  "name": "mpnikhil-lenny-rag",
+  "description": "Semantic search over Lenny Rachitsky's podcast transcripts using ChromaDB and BGE embeddings for product strategy insights.",
+  "source_repo": "mpnikhil/lenny-rag-mcp",
+  "source_url": "https://github.com/mpnikhil/lenny-rag-mcp",
+  "install": "npx -y lenny-rag-mcp"
+}

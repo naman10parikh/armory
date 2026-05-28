@@ -1,0 +1,7 @@
+{
+  "name": "gh-c5huracan-mcp-finder",
+  "description": "Search and discover 4,500+ MCP servers indexed from npm, PyPI, and the MCP registry.",
+  "source_repo": "",
+  "source_url": "https://api.rhdxm.com/mcp/",
+  "install": "# git clone --depth 1 https://api.rhdxm.com/mcp/\n# See source for mcpServers config block"
+}

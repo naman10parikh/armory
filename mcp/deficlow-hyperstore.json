@@ -1,0 +1,7 @@
+{
+  "name": "deficlow-hyperstore",
+  "description": "Search and inspect curated AI apps from the HyperStore directory via remote MCP endpoint.",
+  "source_repo": "deficlow/hyperstore-mcp",
+  "source_url": "https://github.com/deficlow/hyperstore-mcp",
+  "install": "npx -y hyperstore-mcp"
+}

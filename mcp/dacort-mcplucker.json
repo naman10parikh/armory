@@ -1,0 +1,7 @@
+{
+  "name": "dacort-mcplucker",
+  "description": "Provides direct access to DuckDB's analytical capabilities through file loading, table management, schema inspection, and SQL query execution for fast local processing of CSV, JSON, and Parquet files without database setup overhead.",
+  "source_repo": "dacort/mcplucker",
+  "source_url": "https://github.com/dacort/mcplucker",
+  "install": "# git clone --depth 1 https://github.com/dacort/mcplucker\n# See source for mcpServers config block"
+}

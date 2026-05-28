@@ -1,0 +1,7 @@
+{
+  "name": "hasanjahidul-terminal-history-mcp",
+  "description": "Full-text search over your shell history (zsh / bash / fish) via SQLite FTS5. Local-only. 11-pattern secret redaction runs BEFORE insert. Captures cwd / exit code / duration via opt-in shell hook. Tools: `search_history`, `recent_in_dir`, `failed_commands`, `command_chains`, `reindex`.",
+  "source_repo": "HasanJahidul/terminal-history-mcp",
+  "source_url": "https://github.com/HasanJahidul/terminal-history-mcp",
+  "install": "npx -y terminal-history-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "transcriptapi-youtube",
+  "description": "Fast YouTube transcript extraction and search for AI agents. 49ms median response, 100 free credits, $5/month thereafter.",
+  "source_repo": "zeropointrepo/youtube-mcp",
+  "source_url": "https://github.com/zeropointrepo/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

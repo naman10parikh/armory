@@ -1,0 +1,7 @@
+{
+  "name": "scaleforge-meta-ads",
+  "description": "Meta Graph API wrapper with 32 tools for managing Facebook and Instagram ad campaigns — accounts, campaigns, ad sets, ads, creatives, insights, and bulk operations.",
+  "source_repo": "mike25app/scaleforge-mcp-meta-ads",
+  "source_url": "https://github.com/mike25app/scaleforge-mcp-meta-ads",
+  "install": "# git clone --depth 1 https://github.com/mike25app/scaleforge-mcp-meta-ads\n# See source for mcpServers config block"
+}

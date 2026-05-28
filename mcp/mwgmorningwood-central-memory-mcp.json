@@ -1,0 +1,7 @@
+{
+  "name": "mwgmorningwood-central-memory-mcp",
+  "description": "An Azure PaaS-hostable MCP server that provides a workspace-grounded knowledge graph for multiple developers using Azure Functions MCP triggers and Table storage.",
+  "source_repo": "MWGMorningwood/Central-Memory-MCP",
+  "source_url": "https://github.com/MWGMorningwood/Central-Memory-MCP",
+  "install": "npx -y Central-Memory-MCP"
+}

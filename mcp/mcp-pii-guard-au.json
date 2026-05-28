@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pii-guard-au",
+  "description": "Australian and New Zealand PII detection and sanitisation for AI agents, using Microsoft Presidio with custom recognizers for TFN, Medicare, ABN, and more.",
+  "source_repo": "mattwagstaff/mcp-pii-guard-au",
+  "source_url": "https://github.com/mattwagstaff/mcp-pii-guard-au",
+  "install": "# git clone --depth 1 https://github.com/mattwagstaff/mcp-pii-guard-au\n# See source for mcpServers config block"
+}

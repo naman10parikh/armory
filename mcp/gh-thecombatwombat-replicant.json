@@ -1,0 +1,7 @@
+{
+  "name": "gh-thecombatwombat-replicant",
+  "description": "Build, test, and debug Android apps through AI-driven emulator control and UI automation.",
+  "source_repo": "thecombatwombat/replicant-mcp",
+  "source_url": "https://github.com/thecombatwombat/replicant-mcp",
+  "install": "npx -y replicant-mcp"
+}

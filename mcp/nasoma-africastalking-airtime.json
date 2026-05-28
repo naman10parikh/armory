@@ -1,0 +1,7 @@
+{
+  "name": "nasoma-africastalking-airtime",
+  "description": "Integrates with Africa’s Talking Airtime API, enabling clients to send airtime top-ups to one or more mobile numbers.",
+  "source_repo": "nasoma/africastalking-airtime-mcp",
+  "source_url": "https://github.com/nasoma/africastalking-airtime-mcp",
+  "install": "npx -y africastalking-airtime-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "itworkonline-google-calendar",
+  "description": "Integrates with Google Calendar to enable event creation with customizable parameters including time, description, location, attendees, and timezone through OAuth authentication and API interaction.",
+  "source_repo": "itworkonline/googlecalendarmcp",
+  "source_url": "https://github.com/itworkonline/googlecalendarmcp",
+  "install": "# git clone --depth 1 https://github.com/itworkonline/googlecalendarmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toonight-mnemoscope",
+  "description": "Observability layer for LLM agent memory systems with predictive context degradation scoring, signed audit journals, and hierarchical knowledge organization.",
+  "source_repo": "toonight/mnemoscope",
+  "source_url": "https://github.com/toonight/mnemoscope",
+  "install": "# git clone --depth 1 https://github.com/toonight/mnemoscope\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chuprinadaria-ukrainian-calendar",
+  "description": "Provides access to Ukrainian folk calendar data including 120 holidays, 184 deities, 365 daily folk wisdoms, and birth charm periods rooted in pre-Christian Slavic mythology.",
+  "source_repo": "chuprinadaria/mcp-ukrainian-calendar",
+  "source_url": "https://github.com/chuprinadaria/mcp-ukrainian-calendar",
+  "install": "# git clone --depth 1 https://github.com/chuprinadaria/mcp-ukrainian-calendar\n# See source for mcpServers config block"
+}

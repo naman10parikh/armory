@@ -1,0 +1,7 @@
+{
+  "name": "datalayer-jupyter",
+  "description": "Integrates Jupyter notebooks with MCP to enable code execution, content manipulation, and interactive data exploration within notebook environments.",
+  "source_repo": "datalayer/jupyter-mcp-server",
+  "source_url": "https://github.com/datalayer/jupyter-mcp-server",
+  "install": "npx -y jupyter-mcp-server"
+}

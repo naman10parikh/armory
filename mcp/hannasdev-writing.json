@@ -1,0 +1,7 @@
+{
+  "name": "hannasdev-writing",
+  "description": "Structured manuscript management for fiction writers with scene indexing, prose editing with staged diffs, continuity analysis, and git-based rollback.",
+  "source_repo": "hannasdev/mcp-writing",
+  "source_url": "https://github.com/hannasdev/mcp-writing",
+  "install": "# git clone --depth 1 https://github.com/hannasdev/mcp-writing\n# See source for mcpServers config block"
+}

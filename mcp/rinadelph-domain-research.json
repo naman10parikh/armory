@@ -1,0 +1,7 @@
+{
+  "name": "rinadelph-domain-research",
+  "description": "Provides domain research capabilities through multiple free APIs for domain availability checks, WHOIS lookups via RDAP protocol, DNS record retrieval, SSL certificate analysis, and expired domain discovery from sources like DomainsDB and SnapNames.",
+  "source_repo": "rinadelph/domain-mcp",
+  "source_url": "https://github.com/rinadelph/domain-mcp",
+  "install": "npx -y domain-mcp"
+}

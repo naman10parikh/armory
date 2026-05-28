@@ -1,0 +1,7 @@
+{
+  "name": "shashwatgtm-icp-intelligence",
+  "description": "Provides deep Ideal Customer Profile analysis with pattern detection, scoring models, gap analysis, and market sizing for B2B targeting.",
+  "source_repo": "shashwatgtm/icp-intelligence-mcp",
+  "source_url": "https://github.com/shashwatgtm/icp-intelligence-mcp",
+  "install": "npx -y icp-intelligence-mcp"
+}

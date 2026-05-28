@@ -1,0 +1,7 @@
+{
+  "name": "servo-fetch",
+  "description": "Servo-powered MCP server for JS-aware web fetching, content extraction, crawling, and software-rendered screenshots — Chromium-free single binary.",
+  "source_repo": "konippi/servo-fetch",
+  "source_url": "https://github.com/konippi/servo-fetch",
+  "install": "# git clone --depth 1 https://github.com/konippi/servo-fetch\n# See source for mcpServers config block"
+}

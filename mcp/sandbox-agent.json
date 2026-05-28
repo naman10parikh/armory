@@ -1,0 +1,7 @@
+{
+  "name": "sandbox-agent",
+  "description": "Enables code execution in isolated Docker containers with persistent IPython, Node.js, or R kernels, supporting file import/export and cross-session transfers via MCP tools.",
+  "source_repo": "eduresser/sandbox-agent",
+  "source_url": "https://github.com/eduresser/sandbox-agent",
+  "install": "# git clone --depth 1 https://github.com/eduresser/sandbox-agent\n# See source for mcpServers config block"
+}

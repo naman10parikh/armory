@@ -1,0 +1,7 @@
+{
+  "name": "planka-mcp-server-for-claude",
+  "description": "Enables AI-powered project management by connecting Claude to Planka kanban boards via 75+ MCP tools for creating, updating, and managing projects, boards, lists, and cards.",
+  "source_repo": "NextHeberg/Planka-MCP-Server-for-Claude",
+  "source_url": "https://github.com/NextHeberg/Planka-MCP-Server-for-Claude",
+  "install": "# git clone --depth 1 https://github.com/NextHeberg/Planka-MCP-Server-for-Claude\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "raysker-axon-research",
+  "description": "AI agent ecosystem research, DeFi protocol analysis, and crypto market intelligence tools.",
+  "source_repo": "raysker/axon-research-mcp",
+  "source_url": "https://github.com/raysker/axon-research-mcp",
+  "install": "npx -y axon-research-mcp"
+}

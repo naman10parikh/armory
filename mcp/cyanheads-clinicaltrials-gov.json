@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-clinicaltrials-gov",
+  "description": "Integrates with ClinicalTrials.gov REST API to search clinical trials by conditions, interventions, locations, and status, plus retrieve detailed study information by NCT ID with automatic data cleaning and local backup storage.",
+  "source_repo": "cyanheads/clinicaltrialsgov-mcp-server",
+  "source_url": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server",
+  "install": "npx -y clinicaltrialsgov-mcp-server"
+}

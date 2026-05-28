@@ -1,0 +1,7 @@
+{
+  "name": "alxspiker-windows-command-line",
+  "description": "This server creates a secure bridge between Claude and your computer's command-line functionality.",
+  "source_repo": "alxspiker/windows-command-line-mcp-server",
+  "source_url": "https://github.com/alxspiker/windows-command-line-mcp-server",
+  "install": "npx -y windows-command-line-mcp-server"
+}

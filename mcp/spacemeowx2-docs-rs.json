@@ -1,0 +1,7 @@
+{
+  "name": "spacemeowx2-docs-rs",
+  "description": "Streamlines Rust documentation workflows by providing tools for building, managing, and searching crate documentation through cargo doc commands with caching and error handling.",
+  "source_repo": "spacemeowx2/cargo-doc-mcp",
+  "source_url": "https://github.com/spacemeowx2/cargo-doc-mcp",
+  "install": "npx -y cargo-doc-mcp"
+}

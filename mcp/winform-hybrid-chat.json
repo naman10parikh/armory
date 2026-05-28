@@ -1,0 +1,7 @@
+{
+  "name": "winform-hybrid-chat",
+  "description": "Provides a hybrid desktop-web chat interface that combines Windows Forms GUI with embedded ASP.NET Core web server, offering echo operations, session management, LLM sampling, and GUI automation through desktop form event triggering for building AI-assisted desktop applications with conversational interfaces.",
+  "source_repo": "icyhy/winform-mcp-server",
+  "source_url": "https://github.com/icyhy/winform-mcp-server",
+  "install": "npx -y winform-mcp-server"
+}

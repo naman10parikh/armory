@@ -1,0 +1,7 @@
+{
+  "name": "cryptosquanch-legends-mcp",
+  "description": "Chat with 36 legendary founders & investors (Elon Musk, Warren Buffett, Steve Jobs, CZ). AI personas with authentic voices, frameworks, and principles. No API key required.",
+  "source_repo": "cryptosquanch/legends-mcp",
+  "source_url": "https://github.com/cryptosquanch/legends-mcp",
+  "install": "npx -y legends-mcp"
+}

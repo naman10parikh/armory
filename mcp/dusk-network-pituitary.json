@@ -1,0 +1,7 @@
+{
+  "name": "dusk-network-pituitary",
+  "description": "Detects spec drift by indexing specs, docs, and decision records to find overlaps, contradictions, and stale documentation.",
+  "source_repo": "nantobv/pituitary",
+  "source_url": "https://github.com/nantobv/pituitary",
+  "install": "# git clone --depth 1 https://github.com/nantobv/pituitary\n# See source for mcpServers config block"
+}

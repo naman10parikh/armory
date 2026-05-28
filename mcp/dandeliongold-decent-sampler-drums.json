@@ -1,0 +1,7 @@
+{
+  "name": "dandeliongold-decent-sampler-drums",
+  "description": "Integrates with DecentSampler to generate drum kit configurations by analyzing WAV samples and creating XML-based presets with velocity layers and muting groups.",
+  "source_repo": "dandeliongold/mcp-decent-sampler-drums",
+  "source_url": "https://github.com/dandeliongold/mcp-decent-sampler-drums",
+  "install": "# git clone --depth 1 https://github.com/dandeliongold/mcp-decent-sampler-drums\n# See source for mcpServers config block"
+}

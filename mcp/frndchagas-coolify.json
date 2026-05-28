@@ -1,0 +1,7 @@
+{
+  "name": "frndchagas-coolify",
+  "description": "Integrates with Coolify self-hosting platform for managing applications, databases, deployments, environment variables, and monitoring infrastructure health.",
+  "source_repo": "frndchagas/coolify-mcp",
+  "source_url": "https://github.com/frndchagas/coolify-mcp",
+  "install": "npx -y coolify-mcp"
+}

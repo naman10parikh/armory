@@ -1,0 +1,7 @@
+{
+  "name": "timlukahorstmann-mcp-weather",
+  "description": "Accurate weather forecasts via the AccuWeather API (free tier available).",
+  "source_repo": "TimLukaHorstmann/mcp-weather",
+  "source_url": "https://github.com/TimLukaHorstmann/mcp-weather",
+  "install": "# git clone --depth 1 https://github.com/TimLukaHorstmann/mcp-weather\n# See source for mcpServers config block"
+}

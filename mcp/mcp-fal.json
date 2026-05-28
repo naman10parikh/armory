@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fal",
+  "description": "An MCP server that exposes Fal.ai generative media models as tools for image and video generation, and running any Fal.ai model, callable by Claude and other MCP-compatible clients.",
+  "source_repo": "MohsenMousaviEyeline/MCP-Fal",
+  "source_url": "https://github.com/MohsenMousaviEyeline/MCP-Fal",
+  "install": "# git clone --depth 1 https://github.com/MohsenMousaviEyeline/MCP-Fal\n# See source for mcpServers config block"
+}

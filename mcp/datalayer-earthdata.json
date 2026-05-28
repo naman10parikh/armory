@@ -1,0 +1,7 @@
+{
+  "name": "datalayer-earthdata",
+  "description": "Provides a bridge to NASA's Earthdata platform for searching and retrieving Earth science datasets and data granules based on keywords, temporal ranges, and geographic boundaries.",
+  "source_repo": "datalayer/earthdata-mcp-server",
+  "source_url": "https://github.com/datalayer/earthdata-mcp-server",
+  "install": "npx -y earthdata-mcp-server"
+}

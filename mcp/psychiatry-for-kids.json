@@ -1,0 +1,7 @@
+{
+  "name": "psychiatry-for-kids",
+  "description": "Provides searchable access to clinician-reviewed articles on child psychiatry for parents and caregivers.",
+  "source_repo": "",
+  "source_url": "https://psychiatryforkids.com",
+  "install": "# git clone --depth 1 https://psychiatryforkids.com\n# See source for mcpServers config block"
+}

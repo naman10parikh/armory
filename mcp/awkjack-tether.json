@@ -1,0 +1,7 @@
+{
+  "name": "awkjack-tether",
+  "description": "Cloud-hosted Obsidian vault access via GitHub-backed storage with OAuth authentication.",
+  "source_repo": "awkjack/tether-mcp",
+  "source_url": "https://github.com/awkjack/tether-mcp",
+  "install": "npx -y tether-mcp"
+}

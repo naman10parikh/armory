@@ -1,0 +1,7 @@
+{
+  "name": "inbox-check",
+  "description": "Tests email inbox placement across Gmail, Outlook, Yahoo, and more with SPF, DKIM, and DMARC analysis.",
+  "source_repo": "live-direct-marketing/ldm-inbox-check-mcp",
+  "source_url": "https://github.com/live-direct-marketing/ldm-inbox-check-mcp",
+  "install": "npx -y ldm-inbox-check-mcp"
+}

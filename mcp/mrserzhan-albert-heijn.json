@@ -1,0 +1,7 @@
+{
+  "name": "mrserzhan-albert-heijn",
+  "description": "Retrieves product information, prices, and store data from the Albert Heijn Dutch supermarket.",
+  "source_repo": "mrserzhan/ah-mcp",
+  "source_url": "https://github.com/mrserzhan/ah-mcp",
+  "install": "npx -y ah-mcp"
+}

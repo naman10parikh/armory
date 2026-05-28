@@ -1,0 +1,7 @@
+{
+  "name": "kasathur-energyatit",
+  "description": "Connect AI agents to energy infrastructure.",
+  "source_repo": "kasathur/energyatit-mcp-server",
+  "source_url": "https://github.com/kasathur/energyatit-mcp-server",
+  "install": "npx -y energyatit-mcp-server"
+}

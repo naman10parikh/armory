@@ -1,0 +1,7 @@
+{
+  "name": "musaddiq-dev-aws-cli",
+  "description": "Executes and suggests AWS CLI commands, lists regions, and checks caller identity with validation that blocks shell operators and destructive commands.",
+  "source_repo": "musaddiq-dev/aws-cli-mcp-server",
+  "source_url": "https://github.com/musaddiq-dev/aws-cli-mcp-server",
+  "install": "npx -y aws-cli-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devdrops-property",
+  "description": "Pay-per-query MCP server for UK property data, including Land Registry prices, company charges, and the House Price Index.",
+  "source_repo": "metamorphosis-sre/devdrops",
+  "source_url": "https://github.com/metamorphosis-sre/devdrops",
+  "install": "# git clone --depth 1 https://github.com/metamorphosis-sre/devdrops\n# See source for mcpServers config block"
+}

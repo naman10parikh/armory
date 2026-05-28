@@ -1,0 +1,7 @@
+{
+  "name": "jasoncbraatz-fintable",
+  "description": "Manages Fintable.io financial categories, transaction rules, and spending data.",
+  "source_repo": "jasoncbraatz/fintable-mcp",
+  "source_url": "https://github.com/jasoncbraatz/fintable-mcp",
+  "install": "npx -y fintable-mcp"
+}

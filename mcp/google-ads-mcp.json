@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-mcp",
+  "description": "A typed MCP server that wraps the Google Ads API v20, enabling AI agents to manage campaigns, budgets, keywords, conversions, and run GAQL search via structured MCP tools.",
+  "source_repo": "promobase/google-ads-mcp",
+  "source_url": "https://github.com/promobase/google-ads-mcp",
+  "install": "npx -y google-ads-mcp"
+}

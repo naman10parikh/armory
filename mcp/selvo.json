@@ -1,0 +1,7 @@
+{
+  "name": "selvo",
+  "description": "Manages help center articles, collections, and search for SaaS teams.",
+  "source_repo": "",
+  "source_url": "https://selvo.co",
+  "install": "# git clone --depth 1 https://selvo.co\n# See source for mcpServers config block"
+}

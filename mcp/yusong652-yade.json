@@ -1,0 +1,7 @@
+{
+  "name": "yusong652-yade",
+  "description": "Browse YADE discrete element method API documentation, run simulations, and manage async tasks via natural conversation.",
+  "source_repo": "yusong652/yade-mcp",
+  "source_url": "https://github.com/yusong652/yade-mcp",
+  "install": "npx -y yade-mcp"
+}

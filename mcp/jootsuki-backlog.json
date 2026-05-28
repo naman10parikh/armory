@@ -1,0 +1,7 @@
+{
+  "name": "jootsuki-backlog",
+  "description": "Provides a bridge to the Backlog project management API, enabling querying and manipulation of project tracking, issue management, and collaboration features through conversational interactions.",
+  "source_repo": "jootsuki/backlog-mcp-server",
+  "source_url": "https://github.com/jootsuki/backlog-mcp-server",
+  "install": "npx -y backlog-mcp-server"
+}

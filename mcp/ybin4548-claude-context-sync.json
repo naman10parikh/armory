@@ -1,0 +1,7 @@
+{
+  "name": "ybin4548-claude-context-sync",
+  "description": "Summarizes and shares context across parallel Claude Code sessions so each session can see what others are working on.",
+  "source_repo": "ybin4548/claude-context-sync",
+  "source_url": "https://github.com/ybin4548/claude-context-sync",
+  "install": "# git clone --depth 1 https://github.com/ybin4548/claude-context-sync\n# See source for mcpServers config block"
+}

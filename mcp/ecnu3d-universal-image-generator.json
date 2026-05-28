@@ -1,0 +1,7 @@
+{
+  "name": "ecnu3d-universal-image-generator",
+  "description": "Provides multi-provider image generation and transformation capabilities across Google Gemini, ZhipuAI, and Alibaba Bailian with automatic prompt translation and optimization for each provider's preferred language, supporting URL-based editing with mask support and flexible input methods including base64 encoding, file paths, and public URLs.",
+  "source_repo": "ecnu3d/universal-image-generator-mcp",
+  "source_url": "https://github.com/ecnu3d/universal-image-generator-mcp",
+  "install": "npx -y universal-image-generator-mcp"
+}

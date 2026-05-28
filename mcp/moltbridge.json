@@ -1,0 +1,7 @@
+{
+  "name": "moltbridge",
+  "description": "Network intelligence for AI agents.",
+  "source_repo": "sagemindai/moltbridge",
+  "source_url": "https://github.com/sagemindai/moltbridge",
+  "install": "# git clone --depth 1 https://github.com/sagemindai/moltbridge\n# See source for mcpServers config block"
+}

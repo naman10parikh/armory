@@ -1,0 +1,7 @@
+{
+  "name": "webmoleai-link-doctor",
+  "description": "Checks a webpage for broken links, missing meta tags, and redirect chains with an overall health score.",
+  "source_repo": "webmoleai/mcp-link-doctor",
+  "source_url": "https://github.com/webmoleai/mcp-link-doctor",
+  "install": "# git clone --depth 1 https://github.com/webmoleai/mcp-link-doctor\n# See source for mcpServers config block"
+}

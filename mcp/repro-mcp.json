@@ -1,0 +1,7 @@
+{
+  "name": "repro-mcp",
+  "description": "An MCP server that logs AI-assisted scientific computing sessions, capturing prompts, responses, decisions, and environment snapshots to human-readable markdown files for reproducibility.",
+  "source_repo": "ABindoff/repro-mcp",
+  "source_url": "https://github.com/ABindoff/repro-mcp",
+  "install": "npx -y repro-mcp"
+}

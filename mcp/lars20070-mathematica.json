@@ -1,0 +1,7 @@
+{
+  "name": "lars20070-mathematica",
+  "description": "Wraps WolframScript CLI to execute Wolfram Language code and retrieve engine information.",
+  "source_repo": "lars20070/mathematica-mcp",
+  "source_url": "https://github.com/lars20070/mathematica-mcp",
+  "install": "npx -y mathematica-mcp"
+}

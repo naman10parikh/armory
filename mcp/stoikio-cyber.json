@@ -1,0 +1,7 @@
+{
+  "name": "stoikio-cyber",
+  "description": "Secure MCP gateway for Gmail, Slack, Google Calendar, and Notion with JWT auth and audit logging.",
+  "source_repo": "stoikio/cyber-mcp-public",
+  "source_url": "https://github.com/stoikio/cyber-mcp-public",
+  "install": "# git clone --depth 1 https://github.com/stoikio/cyber-mcp-public\n# See source for mcpServers config block"
+}

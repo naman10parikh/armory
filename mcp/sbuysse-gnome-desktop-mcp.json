@@ -1,0 +1,7 @@
+{
+  "name": "sbuysse-gnome-desktop-mcp",
+  "description": "GNOME desktop automation for AI agents. 30 tools via D-Bus: screenshots, window management, mouse/keyboard injection, clipboard, workspaces, and system notifications. Works on any GNOME 45–49 Linux desktop.",
+  "source_repo": "sbuysse/gnome-desktop-mcp",
+  "source_url": "https://github.com/sbuysse/gnome-desktop-mcp",
+  "install": "npx -y gnome-desktop-mcp"
+}

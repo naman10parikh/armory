@@ -1,0 +1,7 @@
+{
+  "name": "gh-flywheelstudio-ulink",
+  "description": "Deep linking for iOS, Android, and Flutter apps.",
+  "source_repo": "flywheelstudio/ulink-mcp-server",
+  "source_url": "https://github.com/flywheelstudio/ulink-mcp-server",
+  "install": "npx -y ulink-mcp-server"
+}

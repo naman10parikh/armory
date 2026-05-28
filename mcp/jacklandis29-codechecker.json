@@ -1,0 +1,7 @@
+{
+  "name": "jacklandis29-codechecker",
+  "description": "Integrates with Cursor IDE to provide real-time code review capabilities, leveraging GPT models for intelligent analysis and specific improvement suggestions.",
+  "source_repo": "jacklandis29/codechecker-mcp",
+  "source_url": "https://github.com/jacklandis29/codechecker-mcp",
+  "install": "npx -y codechecker-mcp"
+}

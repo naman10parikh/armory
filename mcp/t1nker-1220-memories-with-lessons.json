@@ -1,0 +1,7 @@
+{
+  "name": "t1nker-1220-memories-with-lessons",
+  "description": "Enables persistent memory and error tracking for assistants using a local knowledge graph structure with transactional operations, file management, and caching.",
+  "source_repo": "t1nker-1220/memories-with-lessons-mcp-server",
+  "source_url": "https://github.com/t1nker-1220/memories-with-lessons-mcp-server",
+  "install": "npx -y memories-with-lessons-mcp-server"
+}

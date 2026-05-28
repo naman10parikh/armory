@@ -1,0 +1,7 @@
+{
+  "name": "cqtrinv-trinvmcp",
+  "description": "Explore French communes and cadastral parcels based on name and surface",
+  "source_repo": "cqtrinv/trinvmcp",
+  "source_url": "https://github.com/cqtrinv/trinvmcp",
+  "install": "# git clone --depth 1 https://github.com/cqtrinv/trinvmcp\n# See source for mcpServers config block"
+}

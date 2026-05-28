@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-github-private",
+  "description": "Authenticated access to private GitHub repositories, organizations, issues, and pull requests via OAuth.",
+  "source_repo": "pipeworx-io/mcp-github_private",
+  "source_url": "https://github.com/pipeworx-io/mcp-github_private",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-github_private\n# See source for mcpServers config block"
+}

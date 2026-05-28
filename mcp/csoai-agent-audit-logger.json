@@ -1,0 +1,7 @@
+{
+  "name": "csoai-agent-audit-logger",
+  "description": "Hash-chained HMAC-signed audit log for agent-to-agent calls with tamper-evident records of every tool invocation.",
+  "source_repo": "csoai-org/agent-audit-logger-mcp",
+  "source_url": "https://github.com/csoai-org/agent-audit-logger-mcp",
+  "install": "npx -y agent-audit-logger-mcp"
+}

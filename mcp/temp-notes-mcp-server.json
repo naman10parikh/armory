@@ -1,0 +1,7 @@
+{
+  "name": "temp-notes-mcp-server",
+  "description": "Temp Notes Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "landicefu/temp-notes-mcp-server",
+  "source_url": "https://mcp.so/server/temp-notes-mcp-server/landicefu",
+  "install": "npx -y temp-notes-mcp-server"
+}

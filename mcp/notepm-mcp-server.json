@@ -1,0 +1,7 @@
+{
+  "name": "notepm-mcp-server",
+  "description": "An unofficial MCP server that enables AI assistants to search, read, create, and update pages in your NotePM workspace.",
+  "source_repo": "nonz250/notepm-mcp-server",
+  "source_url": "https://github.com/nonz250/notepm-mcp-server",
+  "install": "npx -y notepm-mcp-server"
+}

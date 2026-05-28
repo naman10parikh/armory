@@ -1,0 +1,7 @@
+{
+  "name": "ticketmaster-mcp",
+  "description": "Provides tools for discovering events, venues, and attractions through the Ticketmaster Discovery API.",
+  "source_repo": "windsornguyen/ticketmaster-mcp",
+  "source_url": "https://github.com/windsornguyen/ticketmaster-mcp",
+  "install": "npx -y ticketmaster-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "redf0x1-camofox",
+  "description": "Anti-detection browser automation with stealth fingerprinting via CamoFox.",
+  "source_repo": "redf0x1/camofox-mcp",
+  "source_url": "https://github.com/redf0x1/camofox-mcp",
+  "install": "npx -y camofox-mcp"
+}

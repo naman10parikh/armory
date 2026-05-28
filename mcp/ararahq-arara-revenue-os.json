@@ -1,0 +1,7 @@
+{
+  "name": "ararahq-arara-revenue-os",
+  "description": "Revenue operations platform with WhatsApp messaging via Arara API and payment link generation through AbacatePay.",
+  "source_repo": "ararahq/ararahq-mcp",
+  "source_url": "https://github.com/ararahq/ararahq-mcp",
+  "install": "npx -y ararahq-mcp"
+}

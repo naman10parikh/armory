@@ -1,0 +1,7 @@
+{
+  "name": "robthepcguy-rag-vault",
+  "description": "Local RAG server with hybrid search, PDF/DOCX support, and zero-config setup",
+  "source_repo": "robthepcguy/rag-vault",
+  "source_url": "https://github.com/robthepcguy/rag-vault",
+  "install": "# git clone --depth 1 https://github.com/robthepcguy/rag-vault\n# See source for mcpServers config block"
+}

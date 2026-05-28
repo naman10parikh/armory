@@ -1,0 +1,7 @@
+{
+  "name": "ens-mcp-server",
+  "description": "Ens Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "JustaName-id/ens-mcp-server",
+  "source_url": "https://mcp.so/server/ens-mcp-server/JustaName-id",
+  "install": "npx -y ens-mcp-server"
+}

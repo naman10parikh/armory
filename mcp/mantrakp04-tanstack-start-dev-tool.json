@@ -1,0 +1,7 @@
+{
+  "name": "mantrakp04-tanstack-start-dev-tool",
+  "description": "Bridge TanStack Devtools with MCP-capable coding agents via WebSocket for local development inspection and debugging.",
+  "source_repo": "mantrakp04/tanstack-start-dev-tool-mcp",
+  "source_url": "https://github.com/mantrakp04/tanstack-start-dev-tool-mcp",
+  "install": "npx -y tanstack-start-dev-tool-mcp"
+}

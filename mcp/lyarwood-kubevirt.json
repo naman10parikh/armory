@@ -1,0 +1,7 @@
+{
+  "name": "lyarwood-kubevirt",
+  "description": "Enables natural language management of virtual machines in Kubernetes environments through KubeVirt API, allowing users to list, start, and stop VMs without writing complex kubectl commands.",
+  "source_repo": "lyarwood/kubevirt-mcp-server",
+  "source_url": "https://github.com/lyarwood/kubevirt-mcp-server",
+  "install": "npx -y kubevirt-mcp-server"
+}

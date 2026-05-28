@@ -1,0 +1,7 @@
+{
+  "name": "carbone",
+  "description": "Generate PDF, DOCX, XLSX, and PPTX from templates and JSON data.",
+  "source_repo": "carboneio/carbone-mcp",
+  "source_url": "https://github.com/carboneio/carbone-mcp",
+  "install": "npx -y carbone-mcp"
+}

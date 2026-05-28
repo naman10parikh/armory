@@ -1,0 +1,7 @@
+{
+  "name": "w2xi-v-rapper",
+  "description": "Provides quick access to Evan You's v-rapper video from VueConf 2025 through a single tool that returns the Bilibili video URL when queried about the rap performance.",
+  "source_repo": "w2xi/v-rapper-mcp",
+  "source_url": "https://github.com/w2xi/v-rapper-mcp",
+  "install": "npx -y v-rapper-mcp"
+}

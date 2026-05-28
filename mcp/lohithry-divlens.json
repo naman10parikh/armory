@@ -1,0 +1,7 @@
+{
+  "name": "lohithry-divlens",
+  "description": "System diagnostics MCP server providing real-time hardware, performance, storage, and network monitoring.",
+  "source_repo": "lohithry/divlens-mcp",
+  "source_url": "https://github.com/lohithry/divlens-mcp",
+  "install": "npx -y divlens-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-diagram-server",
+  "description": "Enables creating, manipulating, and managing Mermaid diagrams with automatic saving and multi-format conversion from JSON, CSV, Python, Markdown, and plain text.",
+  "source_repo": "angrysky56/mcp-diagram-server",
+  "source_url": "https://github.com/angrysky56/mcp-diagram-server",
+  "install": "# git clone --depth 1 https://github.com/angrysky56/mcp-diagram-server\n# See source for mcpServers config block"
+}

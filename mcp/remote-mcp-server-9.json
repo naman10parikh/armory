@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-9",
+  "description": "Remote Mcp Server 9 MCP server listed on mcp.so.",
+  "source_repo": "irvinebroque/remote-mcp-server-9",
+  "source_url": "https://mcp.so/server/remote-mcp-server-9/irvinebroque",
+  "install": "# git clone --depth 1 https://mcp.so/server/remote-mcp-server-9/irvinebroque\n# See source for mcpServers config block"
+}

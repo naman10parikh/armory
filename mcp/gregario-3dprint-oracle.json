@@ -1,0 +1,7 @@
+{
+  "name": "gregario-3dprint-oracle",
+  "description": "3D printing filament and materials knowledge base. 6,957 filaments from SpoolmanDB with material properties, print settings, manufacturer data, and troubleshooting guides. 8 tools for searching filaments, comparing materials, and diagnosing print issues. `npx 3dprint-oracle`",
+  "source_repo": "gregario/3dprint-oracle",
+  "source_url": "https://github.com/gregario/3dprint-oracle",
+  "install": "# git clone --depth 1 https://github.com/gregario/3dprint-oracle\n# See source for mcpServers config block"
+}

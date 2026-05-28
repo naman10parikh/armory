@@ -1,0 +1,7 @@
+{
+  "name": "master-frank-xmind",
+  "description": "Converts multiple file formats into XMind mind maps with AI-powered analysis",
+  "source_repo": "master-frank/xmindmcp",
+  "source_url": "https://github.com/master-frank/xmindmcp",
+  "install": "# git clone --depth 1 https://github.com/master-frank/xmindmcp\n# See source for mcpServers config block"
+}

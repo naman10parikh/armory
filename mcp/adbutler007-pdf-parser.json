@@ -1,0 +1,7 @@
+{
+  "name": "adbutler007-pdf-parser",
+  "description": "MCP server for PDF text extraction optimized for LLMs, with figure detection using spatial heuristics and page screenshot rendering without GPU or API keys.",
+  "source_repo": "adbutler007/pdf-parser-mcp",
+  "source_url": "https://github.com/adbutler007/pdf-parser-mcp",
+  "install": "npx -y pdf-parser-mcp"
+}

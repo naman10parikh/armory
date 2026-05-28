@@ -1,0 +1,7 @@
+{
+  "name": "sujianqingfeng-apifox",
+  "description": "Integrates with Apifox to provide access to API documentation, enabling developers to extract project details and fetch API information using authentication tokens via stdio transport.",
+  "source_repo": "sujianqingfeng/mcp-apifox",
+  "source_url": "https://github.com/sujianqingfeng/mcp-apifox",
+  "install": "# git clone --depth 1 https://github.com/sujianqingfeng/mcp-apifox\n# See source for mcpServers config block"
+}

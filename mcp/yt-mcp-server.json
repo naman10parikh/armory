@@ -1,0 +1,7 @@
+{
+  "name": "yt-mcp-server",
+  "description": "Yt Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "xue160709/yt-mcp-server",
+  "source_url": "https://mcp.so/server/yt-mcp-server/xue160709",
+  "install": "npx -y yt-mcp-server"
+}

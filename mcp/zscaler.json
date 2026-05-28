@@ -1,0 +1,7 @@
+{
+  "name": "zscaler",
+  "description": "Manage Zscaler Zero Trust Exchange via 280+ tools across ZPA, ZIA, ZDX, ZCC, EASM, and more.",
+  "source_repo": "zscaler/zscaler-mcp-server",
+  "source_url": "https://github.com/zscaler/zscaler-mcp-server",
+  "install": "npx -y zscaler-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amanhij-zikkaron",
+  "description": "Biologically-inspired persistent memory engine with 26 cognitive subsystems including Hopfield networks, predictive coding, and hippocampal replay.",
+  "source_repo": "amanhij/zikkaron",
+  "source_url": "https://github.com/amanhij/zikkaron",
+  "install": "# git clone --depth 1 https://github.com/amanhij/zikkaron\n# See source for mcpServers config block"
+}

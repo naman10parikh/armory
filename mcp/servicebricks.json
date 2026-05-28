@@ -1,0 +1,7 @@
+{
+  "name": "servicebricks",
+  "description": "Generate a ServiceBricks C# .NET microservice as a ZIP file.",
+  "source_repo": "holomodular/servicebricks",
+  "source_url": "https://github.com/holomodular/servicebricks",
+  "install": "# git clone --depth 1 https://github.com/holomodular/servicebricks\n# See source for mcpServers config block"
+}

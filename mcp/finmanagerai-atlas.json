@@ -1,0 +1,7 @@
+{
+  "name": "finmanagerai-atlas",
+  "description": "Hosted MCP server for investment analysis, stocks, options, and broker workflows.",
+  "source_repo": "finmanagerai/atlas-mcp-server",
+  "source_url": "https://github.com/finmanagerai/atlas-mcp-server",
+  "install": "npx -y atlas-mcp-server"
+}

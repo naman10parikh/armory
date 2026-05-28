@@ -1,0 +1,7 @@
+{
+  "name": "yywz1999-gdb-debugger",
+  "description": "Integrates GDB with AI capabilities to provide interactive debugging assistance for C/C++ applications, enabling breakpoint management, memory examination, and execution flow analysis during debugging sessions.",
+  "source_repo": "yywz1999/gdb-mcp-server",
+  "source_url": "https://github.com/yywz1999/gdb-mcp-server",
+  "install": "npx -y gdb-mcp-server"
+}

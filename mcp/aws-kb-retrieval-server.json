@@ -1,0 +1,7 @@
+{
+  "name": "aws-kb-retrieval-server",
+  "description": "Aws Kb Retrieval Server MCP server listed on mcp.so.",
+  "source_repo": "modelcontextprotocol/aws-kb-retrieval-server",
+  "source_url": "https://mcp.so/server/aws-kb-retrieval-server/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://mcp.so/server/aws-kb-retrieval-server/modelcontextprotocol\n# See source for mcpServers config block"
+}

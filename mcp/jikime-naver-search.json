@@ -1,0 +1,7 @@
+{
+  "name": "jikime-naver-search",
+  "description": "Provides access to Naver's search APIs across multiple categories including blogs, news, books, images, and shopping items with structured responses optimized for Korean-language search capabilities.",
+  "source_repo": "jikime/py-mcp-naver-search",
+  "source_url": "https://github.com/jikime/py-mcp-naver-search",
+  "install": "# git clone --depth 1 https://github.com/jikime/py-mcp-naver-search\n# See source for mcpServers config block"
+}

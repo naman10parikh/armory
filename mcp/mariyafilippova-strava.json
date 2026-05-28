@@ -1,0 +1,7 @@
+{
+  "name": "mariyafilippova-strava",
+  "description": "Integrates with Strava's API to retrieve and analyze fitness data, enabling workout planning, progress tracking, and performance analysis for athletic applications.",
+  "source_repo": "mariyafilippova/mcp-strava",
+  "source_url": "https://github.com/mariyafilippova/mcp-strava",
+  "install": "# git clone --depth 1 https://github.com/mariyafilippova/mcp-strava\n# See source for mcpServers config block"
+}

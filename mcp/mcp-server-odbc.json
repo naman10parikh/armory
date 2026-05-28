@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-odbc",
+  "description": "Mcp Server Odbc MCP server listed on mcp.so.",
+  "source_repo": "OpenLinkSoftware/mcp-server-odbc",
+  "source_url": "https://mcp.so/server/mcp-server-odbc/OpenLinkSoftware",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-odbc/OpenLinkSoftware\n# See source for mcpServers config block"
+}

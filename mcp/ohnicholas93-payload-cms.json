@@ -1,0 +1,7 @@
+{
+  "name": "ohnicholas93-payload-cms",
+  "description": "Integrates with Payload CMS instances through REST API operations to create, search, and update content across collections with full localization support, complex MongoDB-like queries, relationship population, and automatic JWT authentication including browser-based login flows.",
+  "source_repo": "ohnicholas93/payload-mcp-server",
+  "source_url": "https://github.com/ohnicholas93/payload-mcp-server",
+  "install": "npx -y payload-mcp-server"
+}

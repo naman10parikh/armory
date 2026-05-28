@@ -1,0 +1,7 @@
+{
+  "name": "wikijs-mcp-server",
+  "description": "Enables AI assistants to search, retrieve, and optionally edit pages in a WikiJS knowledge base via the Model Context Protocol.",
+  "source_repo": "cahaseler/wikijs-mcp",
+  "source_url": "https://github.com/cahaseler/wikijs-mcp",
+  "install": "npx -y wikijs-mcp"
+}

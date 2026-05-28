@@ -1,0 +1,7 @@
+{
+  "name": "io-github-abl030-pfsense-mcp",
+  "description": "An MCP server that gives AI agents full control over pfSense firewalls via the REST API v2, with 677 tools covering firewall rules, NAT, VPN, services, routing, certificates, users, diagnostics, and more.",
+  "source_repo": "abl030/pfsense-mcp",
+  "source_url": "https://github.com/abl030/pfsense-mcp",
+  "install": "npx -y pfsense-mcp"
+}

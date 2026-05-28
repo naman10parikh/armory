@@ -1,0 +1,7 @@
+{
+  "name": "feralcarazp-project-memory",
+  "description": "MCP server providing structured project context and memory to AI coding assistants via writable MEMORY.md files and dependency graphs.",
+  "source_repo": "feralcarazp/project-memory-mcp",
+  "source_url": "https://github.com/feralcarazp/project-memory-mcp",
+  "install": "npx -y project-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "akki91-ankr",
+  "description": "Provides blockchain data access through the Ankr API, enabling wallet balance queries across multiple networks with detailed token metadata and dollar values for portfolio tracking and financial analysis.",
+  "source_repo": "akki91/ankr-mcp",
+  "source_url": "https://github.com/akki91/ankr-mcp",
+  "install": "npx -y ankr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "directory-indexer",
+  "description": "Provides AI assistants with semantic search and read access to local files and directories, enabling knowledge retrieval from indexed content.",
+  "source_repo": "peteretelej/directory-indexer",
+  "source_url": "https://github.com/peteretelej/directory-indexer",
+  "install": "# git clone --depth 1 https://github.com/peteretelej/directory-indexer\n# See source for mcpServers config block"
+}

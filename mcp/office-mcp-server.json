@@ -1,0 +1,7 @@
+{
+  "name": "office-mcp-server",
+  "description": "AI-powered professional document generation server that creates Word and Excel documents with multiple themes, Mermaid diagrams, and Chinese national standards compliance, integrated via MCP protocol.",
+  "source_repo": "jiahuidegit/office-mcp-server",
+  "source_url": "https://github.com/jiahuidegit/office-mcp-server",
+  "install": "npx -y office-mcp-server"
+}

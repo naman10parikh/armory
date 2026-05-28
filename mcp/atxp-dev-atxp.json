@@ -1,0 +1,7 @@
+{
+  "name": "atxp-dev-atxp",
+  "description": "Autonomous test execution platform with test generation, scheduling, and result analysis.",
+  "source_repo": "atxp-dev/atxp",
+  "source_url": "https://github.com/atxp-dev/atxp",
+  "install": "# git clone --depth 1 https://github.com/atxp-dev/atxp\n# See source for mcpServers config block"
+}

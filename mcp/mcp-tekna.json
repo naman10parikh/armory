@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tekna",
+  "description": "Enables searching and retrieving Tekna events, news, and member benefits.",
+  "source_repo": "Vortiago/mcp-tekna",
+  "source_url": "https://github.com/Vortiago/mcp-tekna",
+  "install": "# git clone --depth 1 https://github.com/Vortiago/mcp-tekna\n# See source for mcpServers config block"
+}

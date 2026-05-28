@@ -1,0 +1,7 @@
+{
+  "name": "odancona-code2prompt",
+  "description": "Transforms complex codebases into structured summaries optimized for language models, enabling better code understanding for analysis, documentation, and technical assistance workflows.",
+  "source_repo": "odancona/code2prompt-mcp",
+  "source_url": "https://github.com/odancona/code2prompt-mcp",
+  "install": "npx -y code2prompt-mcp"
+}

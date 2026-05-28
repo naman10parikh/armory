@@ -1,0 +1,7 @@
+{
+  "name": "geekbot-standup",
+  "description": "Integrates with Geekbot API to fetch standup meeting data and generate structured reports with filtering capabilities by date ranges and users, enabling automated team activity summaries and pattern analysis.",
+  "source_repo": "geekbot-com/geekbot-mcp",
+  "source_url": "https://github.com/geekbot-com/geekbot-mcp",
+  "install": "npx -y geekbot-mcp"
+}

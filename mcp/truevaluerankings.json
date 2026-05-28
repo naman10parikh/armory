@@ -1,0 +1,7 @@
+{
+  "name": "truevaluerankings",
+  "description": "Provides cryptocurrency fundamental analysis scores, fair value estimates, and rankings from the True Value Rankings platform.",
+  "source_repo": "",
+  "source_url": "https://truevaluerankings.com",
+  "install": "# git clone --depth 1 https://truevaluerankings.com\n# See source for mcpServers config block"
+}

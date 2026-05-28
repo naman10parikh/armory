@@ -1,0 +1,7 @@
+{
+  "name": "gh-withqwerty-football-docs",
+  "description": "Searchable documentation index for football data providers covering event types, qualifiers, and API endpoints.",
+  "source_repo": "withqwerty/football-docs",
+  "source_url": "https://github.com/withqwerty/football-docs",
+  "install": "# git clone --depth 1 https://github.com/withqwerty/football-docs\n# See source for mcpServers config block"
+}

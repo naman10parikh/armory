@@ -1,0 +1,7 @@
+{
+  "name": "seohyunjun-opensearch",
+  "description": "Enables natural language interaction with OpenSearch clusters for index operations, document searches, and cluster management without requiring complex query syntax.",
+  "source_repo": "seohyunjun/opensearch-mcp-server",
+  "source_url": "https://github.com/seohyunjun/opensearch-mcp-server",
+  "install": "npx -y opensearch-mcp-server"
+}

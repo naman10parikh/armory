@@ -1,0 +1,7 @@
+{
+  "name": "social-media-sync",
+  "description": "Enables cross-platform social media content creation by integrating Twitter, Mastodon, and LinkedIn through a unified server that leverages multiple AI models for generating and posting content with robust platform-specific formatting and research capabilities.",
+  "source_repo": "tayler-id/social-media-mcp",
+  "source_url": "https://github.com/tayler-id/social-media-mcp",
+  "install": "npx -y social-media-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tsuchijo-sandbox-docker",
+  "description": "Creates isolated Docker environments for executing code in multiple languages, with persistent containers and Dockerfile generation for reproducible setups.",
+  "source_repo": "tsuchijo/sandbox-mcp",
+  "source_url": "https://github.com/tsuchijo/sandbox-mcp",
+  "install": "npx -y sandbox-mcp"
+}

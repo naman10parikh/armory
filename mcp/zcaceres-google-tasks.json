@@ -1,0 +1,7 @@
+{
+  "name": "zcaceres-google-tasks",
+  "description": "Integrates with Google Tasks API to enable task management capabilities like listing, creating, and updating tasks.",
+  "source_repo": "zcaceres/gtasks-mcp",
+  "source_url": "https://github.com/zcaceres/gtasks-mcp",
+  "install": "npx -y gtasks-mcp"
+}

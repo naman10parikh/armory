@@ -1,0 +1,7 @@
+{
+  "name": "gh-spranab-brainstorm",
+  "description": "Multi-model orchestration for debates and code reviews across GPT, Gemini, DeepSeek, and Claude with synthesis.",
+  "source_repo": "spranab/brainstorm-mcp",
+  "source_url": "https://github.com/spranab/brainstorm-mcp",
+  "install": "npx -y brainstorm-mcp"
+}

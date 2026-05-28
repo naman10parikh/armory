@@ -1,0 +1,7 @@
+{
+  "name": "emgeee-ollama",
+  "description": "Integrates with Ollama for local large language model inference, enabling text generation and model management without relying on cloud APIs.",
+  "source_repo": "emgeee/mcp-ollama",
+  "source_url": "https://github.com/emgeee/mcp-ollama",
+  "install": "# git clone --depth 1 https://github.com/emgeee/mcp-ollama\n# See source for mcpServers config block"
+}

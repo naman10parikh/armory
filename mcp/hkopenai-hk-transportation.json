@@ -1,0 +1,7 @@
+{
+  "name": "hkopenai-hk-transportation",
+  "description": "Provides access to Hong Kong Immigration Department daily passenger traffic statistics since 2021, breaking down visitor flows by type and control point with flexible date filtering.",
+  "source_repo": "hkopenai/hk-transportation-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-transportation-mcp-server",
+  "install": "npx -y hk-transportation-mcp-server"
+}

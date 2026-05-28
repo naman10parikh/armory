@@ -1,0 +1,7 @@
+{
+  "name": "gujord-openapi",
+  "description": "Automatically generates MCP tools from OpenAPI specifications, enabling direct access to third-party REST APIs with authentication, validation, and error handling capabilities.",
+  "source_repo": "gujord/openapi-mcp",
+  "source_url": "https://github.com/gujord/openapi-mcp",
+  "install": "npx -y openapi-mcp"
+}

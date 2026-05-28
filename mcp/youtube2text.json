@@ -1,0 +1,7 @@
+{
+  "name": "youtube2text",
+  "description": "Extracts clean YouTube video transcripts by removing timecodes and metadata, providing text suitable for content analysis, summarization, and generation workflows through REST API and direct integration.",
+  "source_repo": "",
+  "source_url": "https://youtube2text.org",
+  "install": "# git clone --depth 1 https://youtube2text.org\n# See source for mcpServers config block"
+}

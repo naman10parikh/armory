@@ -1,0 +1,7 @@
+{
+  "name": "vivideo",
+  "description": "Generate AI videos from text prompts with customizable aspect ratios, durations, and resolutions.",
+  "source_repo": "",
+  "source_url": "https://vivideo.ai",
+  "install": "# git clone --depth 1 https://vivideo.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "danilop-aws-lambda",
+  "description": "Enables LLMs to interact with AWS Lambda functions, providing access to private resources, AWS services, and Lambda's capabilities for data processing and external API integration.",
+  "source_repo": "danilop/mcp2lambda",
+  "source_url": "https://github.com/danilop/mcp2lambda",
+  "install": "# git clone --depth 1 https://github.com/danilop/mcp2lambda\n# See source for mcpServers config block"
+}

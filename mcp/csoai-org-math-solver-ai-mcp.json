@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-math-solver-ai-mcp",
+  "description": "Python MCP server for mathematical problem solving and computation.",
+  "source_repo": "csoai-org/math-solver-ai-mcp",
+  "source_url": "https://github.com/csoai-org/math-solver-ai-mcp",
+  "install": "npx -y math-solver-ai-mcp"
+}

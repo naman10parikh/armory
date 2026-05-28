@@ -1,0 +1,7 @@
+{
+  "name": "time-workdays-timor",
+  "description": "Integrates with the Timor API to provide current time information and workday calculations for scheduling systems and business logic that depends on working day determination.",
+  "source_repo": "tanranv5/mcp_time_workdays_node",
+  "source_url": "https://github.com/tanranv5/mcp_time_workdays_node",
+  "install": "# git clone --depth 1 https://github.com/tanranv5/mcp_time_workdays_node\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tibet-pol-mcp",
+  "description": "MCP server for running infrastructure health checks with TIBET provenance. It enables users to define, execute, and audit process health checks with dependency chaining and drift tracking.",
+  "source_repo": "Humotica/tibet-pol-mcp",
+  "source_url": "https://github.com/Humotica/tibet-pol-mcp",
+  "install": "npx -y tibet-pol-mcp"
+}

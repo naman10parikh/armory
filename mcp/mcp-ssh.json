@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ssh",
+  "description": "MCP server for remote Linux/Unix server management via SSH, enabling command execution, system monitoring, file operations, and diagnostics through natural language.",
+  "source_repo": "zhouxiangjing/mcp-ssh",
+  "source_url": "https://github.com/zhouxiangjing/mcp-ssh",
+  "install": "# git clone --depth 1 https://github.com/zhouxiangjing/mcp-ssh\n# See source for mcpServers config block"
+}

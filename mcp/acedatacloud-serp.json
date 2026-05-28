@@ -1,0 +1,7 @@
+{
+  "name": "acedatacloud-serp",
+  "description": "Google search results via SERP API through the AceDataCloud API platform.",
+  "source_repo": "acedatacloud/serpmcp",
+  "source_url": "https://github.com/acedatacloud/serpmcp",
+  "install": "# git clone --depth 1 https://github.com/acedatacloud/serpmcp\n# See source for mcpServers config block"
+}

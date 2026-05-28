@@ -1,0 +1,7 @@
+{
+  "name": "mcparr-server",
+  "description": "Integrates with Radarr and Sonarr to manage your media library, enabling search, download requests, status checks, and system health monitoring.",
+  "source_repo": "JasonTulp/mcparr-server",
+  "source_url": "https://github.com/JasonTulp/mcparr-server",
+  "install": "# git clone --depth 1 https://github.com/JasonTulp/mcparr-server\n# See source for mcpServers config block"
+}

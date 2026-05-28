@@ -1,0 +1,7 @@
+{
+  "name": "corpetty-logos-plugin-bridge",
+  "description": "Exposes Logos modular plugin architecture methods as MCP tools, enabling AI assistants to interact with C++ Logos modules via a generated bridge.",
+  "source_repo": "corpetty/logos_mcp",
+  "source_url": "https://github.com/corpetty/logos_mcp",
+  "install": "npx -y logos_mcp"
+}

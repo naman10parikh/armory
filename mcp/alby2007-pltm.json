@@ -1,0 +1,7 @@
+{
+  "name": "alby2007-pltm",
+  "description": "Implements a jury-based memory validation system that extracts semantic triples from conversations, validates them through multi-judge architecture, and stores approved facts in persistent memory graphs with conflict resolution, personality synthesis, and temporal decay.",
+  "source_repo": "alby2007/pltm-mcp",
+  "source_url": "https://github.com/alby2007/pltm-mcp",
+  "install": "npx -y pltm-mcp"
+}

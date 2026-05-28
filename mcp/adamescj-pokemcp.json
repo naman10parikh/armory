@@ -1,0 +1,7 @@
+{
+  "name": "adamescj-pokemcp",
+  "description": "Play Pokemon Fire Red through mGBA emulator with AI-controlled battles and gameplay.",
+  "source_repo": "adamescj/pokemcp",
+  "source_url": "https://github.com/adamescj/pokemcp",
+  "install": "# git clone --depth 1 https://github.com/adamescj/pokemcp\n# See source for mcpServers config block"
+}

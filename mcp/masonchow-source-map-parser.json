@@ -1,0 +1,7 @@
+{
+  "name": "masonchow-source-map-parser",
+  "description": "Maps minified JavaScript stack traces back to original source code locations for efficient production error debugging.",
+  "source_repo": "masonchow/source-map-parser-mcp",
+  "source_url": "https://github.com/masonchow/source-map-parser-mcp",
+  "install": "npx -y source-map-parser-mcp"
+}

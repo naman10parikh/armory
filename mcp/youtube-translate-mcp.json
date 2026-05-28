@@ -1,0 +1,7 @@
+{
+  "name": "youtube-translate-mcp",
+  "description": "Youtube Translate Mcp MCP server listed on mcp.so.",
+  "source_repo": "brianshin22/youtube-translate-mcp",
+  "source_url": "https://mcp.so/server/youtube-translate-mcp/brianshin22",
+  "install": "npx -y youtube-translate-mcp"
+}

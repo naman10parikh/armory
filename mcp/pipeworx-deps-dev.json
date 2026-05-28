@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-deps-dev",
+  "description": "Query deps.dev for package metadata and dependency graphs across open-source ecosystems.",
+  "source_repo": "pipeworx-io/mcp-deps-dev",
+  "source_url": "https://github.com/pipeworx-io/mcp-deps-dev",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-deps-dev\n# See source for mcpServers config block"
+}

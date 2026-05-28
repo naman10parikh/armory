@@ -1,0 +1,7 @@
+{
+  "name": "lofder-dsers-mcp-product",
+  "description": "Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.",
+  "source_repo": "lofder/dsers-mcp-product",
+  "source_url": "https://github.com/lofder/dsers-mcp-product",
+  "install": "# git clone --depth 1 https://github.com/lofder/dsers-mcp-product\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-universities",
+  "description": "Wraps the Hipolabs Universities API for searching and retrieving global university data.",
+  "source_repo": "pipeworx-io/mcp-universities",
+  "source_url": "https://github.com/pipeworx-io/mcp-universities",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-universities\n# See source for mcpServers config block"
+}

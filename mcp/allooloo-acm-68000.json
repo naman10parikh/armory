@@ -1,0 +1,7 @@
+{
+  "name": "allooloo-acm-68000",
+  "description": "CPG product eligibility checker for AI agents — resolve product eligibility via the ACM-68000 DPU.",
+  "source_repo": "allooloo/acm-68000",
+  "source_url": "https://github.com/allooloo/acm-68000",
+  "install": "# git clone --depth 1 https://github.com/allooloo/acm-68000\n# See source for mcpServers config block"
+}

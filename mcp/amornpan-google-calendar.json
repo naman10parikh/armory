@@ -1,0 +1,7 @@
+{
+  "name": "amornpan-google-calendar",
+  "description": "Integrates with Google Calendar API to enable event management through specialized tools for listing, creating, and deleting calendar events with timezone-aware handling and robust error management.",
+  "source_repo": "amornpan/py-mcp-gcalendar",
+  "source_url": "https://github.com/amornpan/py-mcp-gcalendar",
+  "install": "# git clone --depth 1 https://github.com/amornpan/py-mcp-gcalendar\n# See source for mcpServers config block"
+}

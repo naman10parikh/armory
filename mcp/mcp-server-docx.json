@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-docx",
+  "description": "Enables creating professional Word documents from markdown or structured content with fast, customized formatting via natural language.",
+  "source_repo": "jamesmehorter/mcp-server-docx",
+  "source_url": "https://github.com/jamesmehorter/mcp-server-docx",
+  "install": "# git clone --depth 1 https://github.com/jamesmehorter/mcp-server-docx\n# See source for mcpServers config block"
+}

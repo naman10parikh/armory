@@ -1,0 +1,7 @@
+{
+  "name": "stevepridemore-graph-memory",
+  "description": "Personal knowledge graph for Claude on Neo4j. Typed entities (Person/Project/Decision/Preference/Concept), bi-temporal edge validity (`valid_at`/`invalid_at`), per-type weighted decay, contradiction detection, and a nightly \"dream\" extraction process. Local bge-small-en embeddings, no API keys. Optional OAuth 2.1 + Cloudflare Tunnel for cross-device use across Claude Code, Desktop, web, and iOS.",
+  "source_repo": "stevepridemore/graph-memory",
+  "source_url": "https://github.com/stevepridemore/graph-memory",
+  "install": "# git clone --depth 1 https://github.com/stevepridemore/graph-memory\n# See source for mcpServers config block"
+}

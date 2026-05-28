@@ -1,0 +1,7 @@
+{
+  "name": "databridge-org-databridge",
+  "description": "Integrates with DataBridge to enable ingestion and retrieval of contextual information from a local database, supporting persistent storage for AI applications.",
+  "source_repo": "morphik-org/morphik-mcp",
+  "source_url": "https://github.com/morphik-org/morphik-mcp",
+  "install": "npx -y morphik-mcp"
+}

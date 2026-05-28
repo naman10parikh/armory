@@ -1,0 +1,7 @@
+{
+  "name": "lininn-gitlab-code-review",
+  "description": "Integrates with GitLab's REST API to provide merge request analysis, diff comparison, review comment management, and approval workflows for streamlined code review processes across GitLab.com and self-hosted instances.",
+  "source_repo": "lininn/gitlab-code-review-mcp",
+  "source_url": "https://github.com/lininn/gitlab-code-review-mcp",
+  "install": "npx -y gitlab-code-review-mcp"
+}

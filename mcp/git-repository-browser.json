@@ -1,0 +1,7 @@
+{
+  "name": "git-repository-browser",
+  "description": "Enables Git repository exploration and analysis through a Node.js server that executes commands for cloning repositories, browsing directories, reading files, comparing branches, and searching code patterns with structured JSON responses.",
+  "source_repo": "bsreeram08/git-commands-mcp",
+  "source_url": "https://github.com/bsreeram08/git-commands-mcp",
+  "install": "npx -y git-commands-mcp"
+}

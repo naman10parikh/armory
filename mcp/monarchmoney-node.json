@@ -1,0 +1,7 @@
+{
+  "name": "monarchmoney-node",
+  "description": "MCP server providing 30 tools to access and manage Monarch Money financial data, including accounts, transactions, budgets, and more, enabling AI assistants to interact with personal finances.",
+  "source_repo": "hakimelek/monarchmoney-node",
+  "source_url": "https://github.com/hakimelek/monarchmoney-node",
+  "install": "# git clone --depth 1 https://github.com/hakimelek/monarchmoney-node\n# See source for mcpServers config block"
+}

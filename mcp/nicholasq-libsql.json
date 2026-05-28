@@ -1,0 +1,7 @@
+{
+  "name": "nicholasq-libsql",
+  "description": "Integrates with LibSQL databases to enable schema retrieval and table querying for real-time data access and analysis.",
+  "source_repo": "nicholasq/mcp-server-libsql",
+  "source_url": "https://github.com/nicholasq/mcp-server-libsql",
+  "install": "# git clone --depth 1 https://github.com/nicholasq/mcp-server-libsql\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-memorystore",
+  "description": "Google Memorystore MCP server for AI-assisted management of fully managed Redis and Valkey in-memory data stores.",
+  "source_repo": "",
+  "source_url": "https://memorystore.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://memorystore.googleapis.com/mcp\n# See source for mcpServers config block"
+}

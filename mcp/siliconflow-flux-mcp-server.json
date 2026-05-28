@@ -1,0 +1,7 @@
+{
+  "name": "siliconflow-flux-mcp-server",
+  "description": "Enables AI assistants to generate high-quality images using SiliconFlow's Flux model through the Model Context Protocol, supporting multiple resolutions and customizable parameters.",
+  "source_repo": "lioensky/siliconflow-flux-mcp-server",
+  "source_url": "https://github.com/lioensky/siliconflow-flux-mcp-server",
+  "install": "npx -y siliconflow-flux-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "browserous",
+  "description": "Cloud browsers for web automation and agent tasks",
+  "source_repo": "",
+  "source_url": "https://browserous.com/",
+  "install": "# git clone --depth 1 https://browserous.com/\n# See source for mcpServers config block"
+}

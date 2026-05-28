@@ -1,0 +1,7 @@
+{
+  "name": "gnosis23-findrepo",
+  "description": "Provides access to GitHub trending repositories with optional language filtering through the findrepo.work API, enabling developers to stay updated on popular open-source projects without leaving their conversation.",
+  "source_repo": "gnosis23/findrepo-mcp-server",
+  "source_url": "https://github.com/gnosis23/findrepo-mcp-server",
+  "install": "npx -y findrepo-mcp-server"
+}

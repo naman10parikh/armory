@@ -1,0 +1,7 @@
+{
+  "name": "mtane0412-perspective",
+  "description": "Integrates with Perspective API to analyze text toxicity and provide content moderation across multiple languages for enhanced online safety.",
+  "source_repo": "mtane0412/perspective-mcp-server",
+  "source_url": "https://github.com/mtane0412/perspective-mcp-server",
+  "install": "npx -y perspective-mcp-server"
+}

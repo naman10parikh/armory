@@ -1,0 +1,7 @@
+{
+  "name": "gate",
+  "description": "Exposes the full Gate.io API v4 for spot, futures, options, margin, wallet, and account operations.",
+  "source_repo": "gate/gate-local-mcp",
+  "source_url": "https://github.com/gate/gate-local-mcp",
+  "install": "npx -y gate-local-mcp"
+}

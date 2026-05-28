@@ -1,0 +1,7 @@
+{
+  "name": "tiianhk-maxmsp-mcp-server",
+  "description": "🎵 🎥 - A coding agent for Max (Max/MSP/Jitter), which is a visual programming language for music and multimedia.",
+  "source_repo": "tiianhk/MaxMSP-MCP-Server",
+  "source_url": "https://github.com/tiianhk/MaxMSP-MCP-Server",
+  "install": "npx -y MaxMSP-MCP-Server"
+}

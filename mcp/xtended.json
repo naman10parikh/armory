@@ -1,0 +1,7 @@
+{
+  "name": "xtended",
+  "description": "Relational database platform providing persistent memory for AI agents",
+  "source_repo": "",
+  "source_url": "https://xtended.ai",
+  "install": "# git clone --depth 1 https://xtended.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zhangpanda-gomcp",
+  "description": "A Gin-like framework for building MCP servers in Go. Struct-tag auto schema, middleware chain, auth, tool groups, adapters for Gin/OpenAPI/gRPC, async tasks, Inspector UI.",
+  "source_repo": "zhangpanda/gomcp",
+  "source_url": "https://github.com/zhangpanda/gomcp",
+  "install": "# git clone --depth 1 https://github.com/zhangpanda/gomcp\n# See source for mcpServers config block"
+}

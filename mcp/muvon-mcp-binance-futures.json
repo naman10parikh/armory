@@ -1,0 +1,7 @@
+{
+  "name": "muvon-mcp-binance-futures",
+  "description": "MCP server for Binance USDT-M Futures trading — exposes tools for market data, account state, order management, and position/margin control.",
+  "source_repo": "muvon/mcp-binance-futures",
+  "source_url": "https://github.com/muvon/mcp-binance-futures",
+  "install": "# git clone --depth 1 https://github.com/muvon/mcp-binance-futures\n# See source for mcpServers config block"
+}

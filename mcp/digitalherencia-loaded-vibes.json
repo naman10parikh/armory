@@ -1,0 +1,7 @@
+{
+  "name": "digitalherencia-loaded-vibes",
+  "description": "TypeScript web development framework that combines CLI-driven workflow with Spec-Plan-Tasks methodology to generate technical specifications, implementation plans, and executable task breakdowns for Next.js applications with built-in registries for code snippets and design tokens.",
+  "source_repo": "digitalherencia/loadedvibes",
+  "source_url": "https://github.com/digitalherencia/loadedvibes",
+  "install": "# git clone --depth 1 https://github.com/digitalherencia/loadedvibes\n# See source for mcpServers config block"
+}

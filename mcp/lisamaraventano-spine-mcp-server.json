@@ -1,0 +1,7 @@
+{
+  "name": "lisamaraventano-spine-mcp-server",
+  "description": "The Underground Cultural District MCP server. 23 tools for AI agents: 13 free developer utilities (UUID, JSON formatter, Base64, hashing, JWT decoder, regex, cron, ETH converter), 7 paid creative tools, and a browsable marketplace of 218+ digital goods across 22 shops. npm: `@underground-cultural-district/mcp-server`",
+  "source_repo": "lisamaraventano-spine/mcp-server",
+  "source_url": "https://github.com/lisamaraventano-spine/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/lisamaraventano-spine/mcp-server\n# See source for mcpServers config block"
+}

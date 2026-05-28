@@ -1,0 +1,7 @@
+{
+  "name": "migratorxpress-mcp-server",
+  "description": "This MCP server enables database migration between heterogeneous systems (Oracle, PostgreSQL, SQL Server, Netezza to PostgreSQL or SQL Server) through AI assistants by providing tools for command preview, execution, validation, and workflow suggestions.",
+  "source_repo": "arpe-io/migratorxpress-mcp",
+  "source_url": "https://github.com/arpe-io/migratorxpress-mcp",
+  "install": "npx -y migratorxpress-mcp"
+}

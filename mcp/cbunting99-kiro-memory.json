@@ -1,0 +1,7 @@
+{
+  "name": "cbunting99-kiro-memory",
+  "description": "Provides intelligent memory management and task tracking for software development projects with automatic project detection, semantic search, and SQLite-based persistence that maintains context across coding sessions through memory classification, relationship building, and context-aware task creation.",
+  "source_repo": "cbunting99/enhanced-mcp-memory",
+  "source_url": "https://github.com/cbunting99/enhanced-mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/cbunting99/enhanced-mcp-memory\n# See source for mcpServers config block"
+}

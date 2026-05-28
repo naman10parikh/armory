@@ -1,0 +1,7 @@
+{
+  "name": "laurensanp-pandas-data-tools",
+  "description": "Provides data processing capabilities for CSV and Parquet files through pandas-based tools with file reading, data summarization, sample generation, and Discord bot launching functionality for development workflows requiring quick file inspection and external application management.",
+  "source_repo": "laurensanp/mcp-server",
+  "source_url": "https://github.com/laurensanp/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/laurensanp/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daltonnyx-userful-mcps",
+  "description": "Provides specialized document processing and YouTube content extraction tools for template-based document generation and video content analysis without manual intervention.",
+  "source_repo": "daltonnyx/userful-mcps",
+  "source_url": "https://github.com/daltonnyx/userful-mcps",
+  "install": "# git clone --depth 1 https://github.com/daltonnyx/userful-mcps\n# See source for mcpServers config block"
+}

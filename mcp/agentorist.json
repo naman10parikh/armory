@@ -1,0 +1,7 @@
+{
+  "name": "agentorist",
+  "description": "Booking gateway for AI agents: discover events, movies, and hotels, then hand off to partner checkout.",
+  "source_repo": "",
+  "source_url": "https://mcp.agentorist.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.agentorist.com/mcp\n# See source for mcpServers config block"
+}

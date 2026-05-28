@@ -1,0 +1,7 @@
+{
+  "name": "takereshui-video-extraction-plus",
+  "description": "Extracts text from video platforms and audio files using multiple ASR services including OpenAI Whisper, Bilibili's Bcut ASR, and ByteDance's JianYing ASR, supporting downloads from YouTube, Bilibili, TikTok, and other platforms with configurable transcription backends, word-level timestamps, and caching for content analysis and subtitle generation.",
+  "source_repo": "takereshui/mcp-video-extraction-plus",
+  "source_url": "https://github.com/takereshui/mcp-video-extraction-plus",
+  "install": "# git clone --depth 1 https://github.com/takereshui/mcp-video-extraction-plus\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-dbsectrainer-eval-runner",
+  "description": "Standardized testing harness for running YAML-defined eval fixtures against live or simulated servers with composable assertions and regression reports.",
+  "source_repo": "dbsectrainer/mcp-eval-runner",
+  "source_url": "https://github.com/dbsectrainer/mcp-eval-runner",
+  "install": "# git clone --depth 1 https://github.com/dbsectrainer/mcp-eval-runner\n# See source for mcpServers config block"
+}

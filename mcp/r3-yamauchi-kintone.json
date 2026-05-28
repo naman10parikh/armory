@@ -1,0 +1,7 @@
+{
+  "name": "r3-yamauchi-kintone",
+  "description": "Integrates with Kintone's low-code platform API, enabling data retrieval, record creation, and workflow automation in Kintone applications.",
+  "source_repo": "r3-yamauchi/kintone-mcp-server",
+  "source_url": "https://github.com/r3-yamauchi/kintone-mcp-server",
+  "install": "npx -y kintone-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iotlodge-mcpfarm",
+  "description": "Centralized gateway that aggregates multiple MCP servers into a single endpoint with Docker-managed containers, auto-discovery, authentication, rate limiting, and real-time monitoring.",
+  "source_repo": "iotlodge/mcpfarm.ai",
+  "source_url": "https://github.com/iotlodge/mcpfarm.ai",
+  "install": "# git clone --depth 1 https://github.com/iotlodge/mcpfarm.ai\n# See source for mcpServers config block"
+}

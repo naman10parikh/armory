@@ -1,0 +1,7 @@
+{
+  "name": "zinja-coder-apktool",
+  "description": "Provides a bridge to the APKTool utility for analyzing and modifying Android applications, enabling decoding, editing, searching, rebuilding, and signing APK files for reverse engineering and security analysis.",
+  "source_repo": "zinja-coder/apktool-mcp-server",
+  "source_url": "https://github.com/zinja-coder/apktool-mcp-server",
+  "install": "npx -y apktool-mcp-server"
+}

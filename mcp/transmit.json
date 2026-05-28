@@ -1,0 +1,7 @@
+{
+  "name": "transmit",
+  "description": "Email platform integration with 18 tools for sending, templates, campaigns, and contact management.",
+  "source_repo": "sendwithxmit/xmit-mcp",
+  "source_url": "https://github.com/sendwithxmit/xmit-mcp",
+  "install": "npx -y xmit-mcp"
+}

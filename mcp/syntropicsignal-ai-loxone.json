@@ -1,0 +1,7 @@
+{
+  "name": "syntropicsignal-ai-loxone",
+  "description": "MCP server for controlling Loxone Miniserver smart home devices and sensors.",
+  "source_repo": "syntropicsignal-ai/loxone-mcp",
+  "source_url": "https://github.com/syntropicsignal-ai/loxone-mcp",
+  "install": "npx -y loxone-mcp"
+}

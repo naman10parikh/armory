@@ -1,0 +1,7 @@
+{
+  "name": "taskjp-systemd-coredump",
+  "description": "Provides a bridge to systemd-coredump functionality for accessing, managing, and analyzing system core dumps in Linux environments, including listing available coredumps, retrieving information, extracting dumps, and generating stack traces using GDB.",
+  "source_repo": "signal-slot/mcp-systemd-coredump",
+  "source_url": "https://github.com/signal-slot/mcp-systemd-coredump",
+  "install": "# git clone --depth 1 https://github.com/signal-slot/mcp-systemd-coredump\n# See source for mcpServers config block"
+}

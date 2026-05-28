@@ -1,0 +1,7 @@
+{
+  "name": "pinthepiece",
+  "description": "PinThePiece MCP server listed on mcp.so.",
+  "source_repo": "psaboia/PinThePiece",
+  "source_url": "https://mcp.so/server/PinThePiece/psaboia",
+  "install": "# git clone --depth 1 https://mcp.so/server/PinThePiece/psaboia\n# See source for mcpServers config block"
+}

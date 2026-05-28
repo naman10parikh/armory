@@ -1,0 +1,7 @@
+{
+  "name": "notion-mcp-server",
+  "description": "Enables interaction with Notion databases and pages via the Notion API. Allows searching, reading, and writing to Notion through natural language.",
+  "source_repo": "joonhuang/notion-mcp",
+  "source_url": "https://github.com/joonhuang/notion-mcp",
+  "install": "npx -y notion-mcp"
+}

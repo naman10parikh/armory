@@ -1,0 +1,7 @@
+{
+  "name": "tweetsave",
+  "description": "Fetch and analyze Twitter/X posts without API keys. Download media and extract tweet data.",
+  "source_repo": "zezeron/tweetsave-mcp",
+  "source_url": "https://github.com/zezeron/tweetsave-mcp",
+  "install": "npx -y tweetsave-mcp"
+}

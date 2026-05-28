@@ -1,0 +1,7 @@
+{
+  "name": "estonian-mcp",
+  "description": "An MCP server that integrates EstNLTK to provide Estonian language tools (morphology, spell-check, synonyms, etc.) for AI agents, enabling correct Estonian text processing and generation.",
+  "source_repo": "silly-geese/estonian-mcp",
+  "source_url": "https://github.com/silly-geese/estonian-mcp",
+  "install": "npx -y estonian-mcp"
+}

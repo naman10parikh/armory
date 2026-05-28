@@ -1,0 +1,7 @@
+{
+  "name": "zx84",
+  "description": "An MCP server providing a ZX Spectrum emulator for AI testing, enabling loading and running of Spectrum software with debugging, display, and audio features.",
+  "source_repo": "damieng/zx84",
+  "source_url": "https://github.com/damieng/zx84",
+  "install": "# git clone --depth 1 https://github.com/damieng/zx84\n# See source for mcpServers config block"
+}

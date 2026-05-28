@@ -1,0 +1,7 @@
+{
+  "name": "atriumn-tokencost",
+  "description": "LLM pricing oracle for model lookup, cost estimation, and comparison via LiteLLM.",
+  "source_repo": "atriumn/tokencost-dev",
+  "source_url": "https://github.com/atriumn/tokencost-dev",
+  "install": "# git clone --depth 1 https://github.com/atriumn/tokencost-dev\n# See source for mcpServers config block"
+}

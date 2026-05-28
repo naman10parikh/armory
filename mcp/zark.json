@@ -1,0 +1,7 @@
+{
+  "name": "zark",
+  "description": "Create and edit creator-ready images and videos with AI-powered generation tools.",
+  "source_repo": "",
+  "source_url": "https://zarklab.ai",
+  "install": "# git clone --depth 1 https://zarklab.ai\n# See source for mcpServers config block"
+}

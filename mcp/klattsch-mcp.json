@@ -1,0 +1,7 @@
+{
+  "name": "klattsch-mcp",
+  "description": "Enables AI models to speak and sing using retro-style formant speech synthesis, converting text or phoneme strings to WAV audio via MCP tools.",
+  "source_repo": "Endeavor-DoxiDoxi/klattsch-mcp",
+  "source_url": "https://github.com/Endeavor-DoxiDoxi/klattsch-mcp",
+  "install": "npx -y klattsch-mcp"
+}

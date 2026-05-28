@@ -1,0 +1,7 @@
+{
+  "name": "meertrack",
+  "description": "Competitive intelligence platform that tracks competitor changes and delivers filtered signals.",
+  "source_repo": "meertrack/meertrack-mcp",
+  "source_url": "https://github.com/meertrack/meertrack-mcp",
+  "install": "npx -y meertrack-mcp"
+}

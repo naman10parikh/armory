@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rag-agent",
+  "description": "Enables hybrid search over policies using Reciprocal Rank Fusion and provides grounded, context-aware answers via a LangGraph agent with COSTAR prompting.",
+  "source_repo": "luisrodriguesphd/mcp-rag-agent",
+  "source_url": "https://github.com/luisrodriguesphd/mcp-rag-agent",
+  "install": "# git clone --depth 1 https://github.com/luisrodriguesphd/mcp-rag-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-rs485",
+  "description": "Exposes RS485 bus connectivity for reading and writing serial data with configurable connection parameters.",
+  "source_repo": "daedalus/mcp-rs485",
+  "source_url": "https://github.com/daedalus/mcp-rs485",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-rs485\n# See source for mcpServers config block"
+}

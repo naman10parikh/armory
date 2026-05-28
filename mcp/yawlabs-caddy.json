@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-caddy",
+  "description": "Manages Caddy web servers via the admin API with full coverage of config, routes, reverse proxies, TLS, PKI, metrics, and snapshots.",
+  "source_repo": "yawlabs/caddy-mcp",
+  "source_url": "https://github.com/yawlabs/caddy-mcp",
+  "install": "npx -y caddy-mcp"
+}

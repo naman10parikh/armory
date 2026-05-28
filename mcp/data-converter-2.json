@@ -1,0 +1,7 @@
+{
+  "name": "data-converter-2",
+  "description": "Convert data between over 40 formats including JSON, CSV, Excel, and PDF. Restructure complex schemas into custom layouts to ensure seamless data integration. Simplify information processing by automating transformations between structured and unstructured file types.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/data-transform-agent/data-transform",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/data-transform-agent/data-transform\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "algonius-browser",
+  "description": "An open-source MCP server that provides browser automation capabilities to external AI systems, enabling navigation, DOM interaction, and web content extraction.",
+  "source_repo": "algonius/algonius-browser",
+  "source_url": "https://github.com/algonius/algonius-browser",
+  "install": "# git clone --depth 1 https://github.com/algonius/algonius-browser\n# See source for mcpServers config block"
+}

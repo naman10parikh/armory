@@ -1,0 +1,7 @@
+{
+  "name": "tim-mcdonnell-tana",
+  "description": "Integrates with Tana's Input API, enabling creation and manipulation of structured data in Tana workspaces for enhanced note-taking and automated data input tasks.",
+  "source_repo": "tim-mcdonnell/tana-mcp",
+  "source_url": "https://github.com/tim-mcdonnell/tana-mcp",
+  "install": "npx -y tana-mcp"
+}

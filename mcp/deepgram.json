@@ -1,0 +1,7 @@
+{
+  "name": "deepgram",
+  "description": "Integrates Deepgram speech and audio intelligence APIs with AI assistants.",
+  "source_repo": "deepgram/mcp",
+  "source_url": "https://github.com/deepgram/mcp",
+  "install": "# git clone --depth 1 https://github.com/deepgram/mcp\n# See source for mcpServers config block"
+}

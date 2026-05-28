@@ -1,0 +1,7 @@
+{
+  "name": "kaiten-mcp-server",
+  "description": "MCP server for integrating Kaiten API with Claude Desktop, enabling management of cards, comments, spaces, and boards with advanced features like verbosity control, response format selection, and auto-truncation.",
+  "source_repo": "vsaranyuk/kaiten-mcp-server",
+  "source_url": "https://github.com/vsaranyuk/kaiten-mcp-server",
+  "install": "npx -y kaiten-mcp-server"
+}

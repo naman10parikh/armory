@@ -1,0 +1,7 @@
+{
+  "name": "giuseppe-coco-google-workspace-mcp-server",
+  "description": "MCP server that seamlessly interacts with your Google Calendar, Gmail, Drive and so on.",
+  "source_repo": "giuseppe-coco/Google-Workspace-MCP-Server",
+  "source_url": "https://github.com/giuseppe-coco/Google-Workspace-MCP-Server",
+  "install": "npx -y Google-Workspace-MCP-Server"
+}

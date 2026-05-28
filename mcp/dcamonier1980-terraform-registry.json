@@ -1,0 +1,7 @@
+{
+  "name": "dcamonier1980-terraform-registry",
+  "description": "Integrates with Terraform Registry APIs to enable automated discovery, extraction, and exploration of Terraform providers, resources, data sources, and modules for Infrastructure as Code development.",
+  "source_repo": "dcamonier1980/terraform-mcp-server",
+  "source_url": "https://github.com/dcamonier1980/terraform-mcp-server",
+  "install": "npx -y terraform-mcp-server"
+}

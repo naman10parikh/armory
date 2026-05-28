@@ -1,0 +1,7 @@
+{
+  "name": "gh-egoughnour-code-firewall",
+  "description": "Structural similarity-based code filter that blocks malicious patterns before execution.",
+  "source_repo": "egoughnour/code-firewall-mcp",
+  "source_url": "https://github.com/egoughnour/code-firewall-mcp",
+  "install": "npx -y code-firewall-mcp"
+}

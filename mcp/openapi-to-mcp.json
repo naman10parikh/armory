@@ -1,0 +1,7 @@
+{
+  "name": "openapi-to-mcp",
+  "description": "A minimal MCP server that auto-generates tools from your OpenAPI spec, optimized for Vercel.",
+  "source_repo": "kirkwat/openapi-to-mcp",
+  "source_url": "https://github.com/kirkwat/openapi-to-mcp",
+  "install": "npx -y openapi-to-mcp"
+}

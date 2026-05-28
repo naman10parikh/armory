@@ -1,0 +1,7 @@
+{
+  "name": "pete-builds-arr-stack",
+  "description": "Manages Radarr, Sonarr, Overseerr, SABnzbd, and Plex media automation through a unified interface.",
+  "source_repo": "pete-builds/arr-stack-mcp",
+  "source_url": "https://github.com/pete-builds/arr-stack-mcp",
+  "install": "npx -y arr-stack-mcp"
+}

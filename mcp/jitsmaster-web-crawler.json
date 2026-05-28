@@ -1,0 +1,7 @@
+{
+  "name": "jitsmaster-web-crawler",
+  "description": "Configurable web crawler that extracts structured content from websites while respecting robots.txt rules and offering customizable settings for depth, delay, and concurrency.",
+  "source_repo": "jitsmaster/webscrapemcpserver",
+  "source_url": "https://github.com/jitsmaster/webscrapemcpserver",
+  "install": "# git clone --depth 1 https://github.com/jitsmaster/webscrapemcpserver\n# See source for mcpServers config block"
+}

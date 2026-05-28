@@ -1,0 +1,7 @@
+{
+  "name": "mineru",
+  "description": "Parse PDFs, images, Office documents, and HTML into Markdown using MinerU's document intelligence API.",
+  "source_repo": "opendatalab/mineru-ecosystem",
+  "source_url": "https://github.com/opendatalab/mineru-ecosystem",
+  "install": "# git clone --depth 1 https://github.com/opendatalab/mineru-ecosystem\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atlasprzetargow-mcp-server",
+  "description": "Search 800 000+ Polish public tenders (BZP + TED). Profiles of procuring entities and contractors by NIP, market statistics by CPV/province, 90+ term procurement glossary.",
+  "source_repo": "atlasprzetargow/mcp-server",
+  "source_url": "https://github.com/atlasprzetargow/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/atlasprzetargow/mcp-server\n# See source for mcpServers config block"
+}

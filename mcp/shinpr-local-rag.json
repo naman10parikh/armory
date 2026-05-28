@@ -1,0 +1,7 @@
+{
+  "name": "shinpr-local-rag",
+  "description": "Local RAG for semantic document search without external API calls.",
+  "source_repo": "shinpr/mcp-local-rag",
+  "source_url": "https://github.com/shinpr/mcp-local-rag",
+  "install": "# git clone --depth 1 https://github.com/shinpr/mcp-local-rag\n# See source for mcpServers config block"
+}

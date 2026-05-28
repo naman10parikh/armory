@@ -1,0 +1,7 @@
+{
+  "name": "open-meteo-mcp-server",
+  "description": "Provides comprehensive access to Open-Meteo weather APIs, including forecasts, historical data, air quality, marine weather, and geocoding, enabling LLMs to retrieve weather information and location data.",
+  "source_repo": "windsornguyen/open-meteo-mcp",
+  "source_url": "https://github.com/windsornguyen/open-meteo-mcp",
+  "install": "npx -y open-meteo-mcp"
+}

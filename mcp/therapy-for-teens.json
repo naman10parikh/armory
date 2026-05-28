@@ -1,0 +1,7 @@
+{
+  "name": "therapy-for-teens",
+  "description": "Provides searchable access to clinician-reviewed articles on psychotherapy approaches for teenagers.",
+  "source_repo": "",
+  "source_url": "https://teentherapy.ai",
+  "install": "# git clone --depth 1 https://teentherapy.ai\n# See source for mcpServers config block"
+}

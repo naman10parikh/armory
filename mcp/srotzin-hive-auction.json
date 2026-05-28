@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-auction",
+  "description": "Reverse Dutch auction for scarce compute slot allocation, starting at 5x asking rate and dropping 5% per 30 seconds to a floor price.",
+  "source_repo": "srotzin/hive-mcp-auction",
+  "source_url": "https://github.com/srotzin/hive-mcp-auction",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-auction\n# See source for mcpServers config block"
+}

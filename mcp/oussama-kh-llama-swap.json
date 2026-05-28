@@ -1,0 +1,7 @@
+{
+  "name": "oussama-kh-llama-swap",
+  "description": "Hot-swap llama.cpp models in a running Claude Code session without losing conversation context.",
+  "source_repo": "oussama-kh/mcp-llama-swap",
+  "source_url": "https://github.com/oussama-kh/mcp-llama-swap",
+  "install": "# git clone --depth 1 https://github.com/oussama-kh/mcp-llama-swap\n# See source for mcpServers config block"
+}

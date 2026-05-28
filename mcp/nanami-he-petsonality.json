@@ -1,0 +1,7 @@
+{
+  "name": "nanami-he-petsonality",
+  "description": "MBTI-powered terminal pet companion for personality-driven coding session interactions.",
+  "source_repo": "nanami-he/petsonality",
+  "source_url": "https://github.com/nanami-he/petsonality",
+  "install": "# git clone --depth 1 https://github.com/nanami-he/petsonality\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "greatsumini-sharp-image-processing",
+  "description": "Provides session-based image processing with Sharp for high-performance manipulation including dimension extraction, color sampling, region cropping, format conversion, and background removal using machine learning models.",
+  "source_repo": "greatsumini/sharp-mcp",
+  "source_url": "https://github.com/greatsumini/sharp-mcp",
+  "install": "npx -y sharp-mcp"
+}

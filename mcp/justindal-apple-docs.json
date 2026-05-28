@@ -1,0 +1,7 @@
+{
+  "name": "justindal-apple-docs",
+  "description": "Fetches and formats Apple Developer Documentation directly from Apple's JSON APIs with tools for listing frameworks, retrieving documentation, and searching symbols.",
+  "source_repo": "justindal/apple-docs-mcp",
+  "source_url": "https://github.com/justindal/apple-docs-mcp",
+  "install": "npx -y apple-docs-mcp"
+}

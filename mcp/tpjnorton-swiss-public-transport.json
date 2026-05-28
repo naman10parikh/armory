@@ -1,0 +1,7 @@
+{
+  "name": "tpjnorton-swiss-public-transport",
+  "description": "Journey planning, live station boards, delays, and SBB ticket links for Swiss public transport.",
+  "source_repo": "tpjnorton/swiss-public-transport-mcp",
+  "source_url": "https://github.com/tpjnorton/swiss-public-transport-mcp",
+  "install": "npx -y swiss-public-transport-mcp"
+}

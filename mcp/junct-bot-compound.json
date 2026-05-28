@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-compound",
+  "description": "Hosted proxy for Compound lending protocol APIs with 8 auto-generated tools for DeFi lending.",
+  "source_repo": "junct-bot/compound-mcp",
+  "source_url": "https://github.com/junct-bot/compound-mcp",
+  "install": "npx -y compound-mcp"
+}

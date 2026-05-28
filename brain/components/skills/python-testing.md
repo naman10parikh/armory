@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Python testing strategies using pytest, TDD methodology, fixtures, mocking, parametrization, and coverage requirements.

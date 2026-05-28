@@ -1,0 +1,7 @@
+{
+  "name": "eugenevl-1c-copilot",
+  "description": "Connects to the 1C:Enterprise Russian business platform for AI-assisted automation and data access.",
+  "source_repo": "eugenevl/1c-copilot-mcp",
+  "source_url": "https://github.com/eugenevl/1c-copilot-mcp",
+  "install": "npx -y 1c-copilot-mcp"
+}

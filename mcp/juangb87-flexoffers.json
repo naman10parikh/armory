@@ -1,0 +1,7 @@
+{
+  "name": "juangb87-flexoffers",
+  "description": "Accesses the FlexOffers affiliate marketing network to search advertisers, links, and commissions.",
+  "source_repo": "juangb87/flexoffers-mcp",
+  "source_url": "https://github.com/juangb87/flexoffers-mcp",
+  "install": "npx -y flexoffers-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webex-messaging",
+  "description": "Integrates with Cisco Webex Messaging API to provide complete access to rooms, messages, teams, memberships, webhooks, and ECM folder management through 60+ tools covering all major collaboration workflows.",
+  "source_repo": "kashyap-ai-ml-solutions/webex-messaging-mcp-server",
+  "source_url": "https://github.com/kashyap-ai-ml-solutions/webex-messaging-mcp-server",
+  "install": "npx -y webex-messaging-mcp-server"
+}

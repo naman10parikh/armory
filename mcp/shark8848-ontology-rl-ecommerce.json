@@ -1,0 +1,7 @@
+{
+  "name": "shark8848-ontology-rl-ecommerce",
+  "description": "Combines semantic knowledge representation with reinforcement learning to provide intelligent shopping assistance, product recommendations, and automated learning from user interactions through ontology-driven e-commerce capabilities.",
+  "source_repo": "shark8848/ontology-mcp-server-rl-stable-baselines3",
+  "source_url": "https://github.com/shark8848/ontology-mcp-server-rl-stable-baselines3",
+  "install": "# git clone --depth 1 https://github.com/shark8848/ontology-mcp-server-rl-stable-baselines3\n# See source for mcpServers config block"
+}

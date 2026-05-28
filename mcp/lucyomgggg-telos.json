@@ -1,0 +1,7 @@
+{
+  "name": "lucyomgggg-telos",
+  "description": "Telos Core vector database integration for shared AI agent memory.",
+  "source_repo": "lucyomgggg/telos-mcp",
+  "source_url": "https://github.com/lucyomgggg/telos-mcp",
+  "install": "npx -y telos-mcp"
+}

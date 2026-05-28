@@ -1,0 +1,7 @@
+{
+  "name": "triumsebas-unlimited",
+  "description": "Delegate coding and sysops tasks to cheaper agents or local LLMs via durable background job queues.",
+  "source_repo": "triumsebas/unlimited-mcp",
+  "source_url": "https://github.com/triumsebas/unlimited-mcp",
+  "install": "npx -y unlimited-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bracketbot-multi-robot-control",
+  "description": "Enables simultaneous control of multiple robots through a unified interface for movement, sound playback, camera access, and status monitoring with precise velocity control and comprehensive error handling.",
+  "source_repo": "bracketbotcapstone/bracketbot-mcp",
+  "source_url": "https://github.com/bracketbotcapstone/bracketbot-mcp",
+  "install": "npx -y bracketbot-mcp"
+}

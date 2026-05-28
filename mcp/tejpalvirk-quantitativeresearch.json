@@ -1,0 +1,7 @@
+{
+  "name": "tejpalvirk-quantitativeresearch",
+  "description": "Organizes and analyzes numerical research data through a structured knowledge graph, enabling tracking of projects, datasets, variables, hypotheses, and statistical tests with their relationships and results.",
+  "source_repo": "tejpalvirk/quantitativeresearch",
+  "source_url": "https://github.com/tejpalvirk/quantitativeresearch",
+  "install": "# git clone --depth 1 https://github.com/tejpalvirk/quantitativeresearch\n# See source for mcpServers config block"
+}

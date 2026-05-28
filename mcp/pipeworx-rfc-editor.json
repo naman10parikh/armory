@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-rfc-editor",
+  "description": "Retrieves full RFC text, metadata, errata, and BCP/STD mappings from the RFC Editor.",
+  "source_repo": "pipeworx-io/mcp-rfc-editor",
+  "source_url": "https://github.com/pipeworx-io/mcp-rfc-editor",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-rfc-editor\n# See source for mcpServers config block"
+}

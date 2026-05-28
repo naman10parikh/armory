@@ -1,0 +1,7 @@
+{
+  "name": "hushaudio-puppeteer",
+  "description": "Captures full-page screenshots at multiple viewport breakpoints using Puppeteer with error monitoring, responsive design testing, and image optimization for web development and QA workflows.",
+  "source_repo": "hushaudio/puppeteermcp",
+  "source_url": "https://github.com/hushaudio/puppeteermcp",
+  "install": "# git clone --depth 1 https://github.com/hushaudio/puppeteermcp\n# See source for mcpServers config block"
+}

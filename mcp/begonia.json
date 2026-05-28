@@ -1,0 +1,7 @@
+{
+  "name": "begonia",
+  "description": "Local SEO audit tools for business visibility analysis and optimization guidance.",
+  "source_repo": "",
+  "source_url": "https://www.begonia.pro",
+  "install": "# git clone --depth 1 https://www.begonia.pro\n# See source for mcpServers config block"
+}

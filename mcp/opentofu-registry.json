@@ -1,0 +1,7 @@
+{
+  "name": "opentofu-registry",
+  "description": "Enables AI systems to search for and retrieve detailed information about OpenTofu Registry components including providers, modules, resources, and documentation for infrastructure-as-code tasks.",
+  "source_repo": "opentofu/opentofu-mcp-server",
+  "source_url": "https://github.com/opentofu/opentofu-mcp-server",
+  "install": "npx -y opentofu-mcp-server"
+}

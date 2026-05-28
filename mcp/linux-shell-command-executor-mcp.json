@@ -1,0 +1,7 @@
+{
+  "name": "linux-shell-command-executor-mcp",
+  "description": "Enables AI models to safely execute pre-defined Linux shell commands with a whitelist mechanism, restricting execution to allowed commands only.",
+  "source_repo": "Hesccc/shell-mcp-server",
+  "source_url": "https://github.com/Hesccc/shell-mcp-server",
+  "install": "npx -y shell-mcp-server"
+}

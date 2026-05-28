@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T08:21:40.436Z",
+  "generated_at": "2026-05-28T09:30:37.961Z",
   "counts": {
     "total": 25138,
     "by_type": {
@@ -207,7 +207,6 @@
         "angular-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "angular"
       ],
@@ -236,7 +235,6 @@
         "angular-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "angular"
       ],
@@ -291,7 +289,6 @@
         "angular-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "angular"
       ],
@@ -320,7 +317,6 @@
         "angular-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "angular"
       ],
@@ -349,7 +345,6 @@
         "angular-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "angular"
       ],
@@ -503,7 +498,6 @@
         "arkts-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "arkts"
       ],
@@ -532,7 +526,6 @@
         "arkts-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "arkts"
       ],
@@ -561,7 +554,6 @@
         "arkts-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "arkts"
       ],
@@ -590,7 +582,6 @@
         "arkts-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "arkts"
       ],
@@ -619,7 +610,6 @@
         "arkts-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "arkts"
       ],
@@ -1424,7 +1414,6 @@
         "common-development-workflow"
       ],
       "tags": [
-        "ecc",
         "rules",
         "common"
       ],
@@ -1453,7 +1442,6 @@
         "common-development-workflow"
       ],
       "tags": [
-        "ecc",
         "rules",
         "common"
       ],
@@ -1511,7 +1499,6 @@
         "common-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "common"
       ],
@@ -1569,7 +1556,6 @@
         "common-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "common"
       ],
@@ -1598,7 +1584,6 @@
         "common-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "common"
       ],
@@ -1627,7 +1612,6 @@
         "common-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "common"
       ],
@@ -1685,7 +1669,6 @@
         "common-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "common"
       ],
@@ -1859,7 +1842,6 @@
         "cpp-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "cpp"
       ],
@@ -1888,7 +1870,6 @@
         "cpp-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "cpp"
       ],
@@ -1917,7 +1898,6 @@
         "cpp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "cpp"
       ],
@@ -1972,7 +1952,6 @@
         "cpp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "cpp"
       ],
@@ -2001,7 +1980,6 @@
         "cpp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "cpp"
       ],
@@ -2030,7 +2008,6 @@
         "csharp-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "csharp"
       ],
@@ -2059,7 +2036,6 @@
         "csharp-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "csharp"
       ],
@@ -2088,7 +2064,6 @@
         "csharp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "csharp"
       ],
@@ -2117,7 +2092,6 @@
         "csharp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "csharp"
       ],
@@ -2146,7 +2120,6 @@
         "csharp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "csharp"
       ],
@@ -2496,7 +2469,6 @@
         "dart-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "dart"
       ],
@@ -2525,7 +2497,6 @@
         "dart-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "dart"
       ],
@@ -2554,7 +2525,6 @@
         "dart-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "dart"
       ],
@@ -2583,7 +2553,6 @@
         "dart-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "dart"
       ],
@@ -2612,7 +2581,6 @@
         "dart-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "dart"
       ],
@@ -3407,7 +3375,6 @@
         "fsharp-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "fsharp"
       ],
@@ -3436,7 +3403,6 @@
         "fsharp-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "fsharp"
       ],
@@ -3465,7 +3431,6 @@
         "fsharp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "fsharp"
       ],
@@ -3494,7 +3459,6 @@
         "fsharp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "fsharp"
       ],
@@ -3523,7 +3487,6 @@
         "fsharp-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "fsharp"
       ],
@@ -3962,7 +3925,6 @@
         "golang-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "golang"
       ],
@@ -3991,7 +3953,6 @@
         "golang-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "golang"
       ],
@@ -4020,7 +3981,6 @@
         "golang-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "golang"
       ],
@@ -4049,7 +4009,6 @@
         "golang-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "golang"
       ],
@@ -4078,7 +4037,6 @@
         "golang-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "golang"
       ],
@@ -4491,7 +4449,6 @@
         "java-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "java"
       ],
@@ -4546,7 +4503,6 @@
         "java-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "java"
       ],
@@ -4575,7 +4531,6 @@
         "java-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "java"
       ],
@@ -4604,7 +4559,6 @@
         "java-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "java"
       ],
@@ -4659,7 +4613,6 @@
         "java-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "java"
       ],
@@ -4876,7 +4829,6 @@
         "kotlin-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "kotlin"
       ],
@@ -4905,7 +4857,6 @@
         "kotlin-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "kotlin"
       ],
@@ -4960,7 +4911,6 @@
         "kotlin-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "kotlin"
       ],
@@ -4989,7 +4939,6 @@
         "kotlin-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "kotlin"
       ],
@@ -5044,7 +4993,6 @@
         "kotlin-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "kotlin"
       ],
@@ -6399,7 +6347,6 @@
         "perl-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "perl"
       ],
@@ -6428,7 +6375,6 @@
         "perl-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "perl"
       ],
@@ -6457,7 +6403,6 @@
         "perl-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "perl"
       ],
@@ -6486,7 +6431,6 @@
         "perl-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "perl"
       ],
@@ -6515,7 +6459,6 @@
         "perl-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "perl"
       ],
@@ -6544,7 +6487,6 @@
         "php-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "php"
       ],
@@ -6573,7 +6515,6 @@
         "php-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "php"
       ],
@@ -6602,7 +6543,6 @@
         "php-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "php"
       ],
@@ -6631,7 +6571,6 @@
         "php-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "php"
       ],
@@ -6660,7 +6599,6 @@
         "php-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "php"
       ],
@@ -7341,7 +7279,6 @@
         "python-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "python"
       ],
@@ -7500,7 +7437,6 @@
         "python-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "python"
       ],
@@ -7555,7 +7491,6 @@
         "python-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "python"
       ],
@@ -7610,7 +7545,6 @@
         "python-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "python"
       ],
@@ -7639,7 +7573,6 @@
         "python-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "python"
       ],
@@ -8542,7 +8475,6 @@
         "ruby-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "ruby"
       ],
@@ -8571,7 +8503,6 @@
         "ruby-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "ruby"
       ],
@@ -8600,7 +8531,6 @@
         "ruby-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "ruby"
       ],
@@ -8629,7 +8559,6 @@
         "ruby-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "ruby"
       ],
@@ -8658,7 +8587,6 @@
         "ruby-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "ruby"
       ],
@@ -8713,7 +8641,6 @@
         "rust-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "rust"
       ],
@@ -8768,7 +8695,6 @@
         "rust-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "rust"
       ],
@@ -8797,7 +8723,6 @@
         "rust-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "rust"
       ],
@@ -8826,7 +8751,6 @@
         "rust-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "rust"
       ],
@@ -8855,7 +8779,6 @@
         "rust-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "rust"
       ],
@@ -9572,7 +9495,6 @@
         "swift-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "swift"
       ],
@@ -9601,7 +9523,6 @@
         "swift-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "swift"
       ],
@@ -9630,7 +9551,6 @@
         "swift-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "swift"
       ],
@@ -9659,7 +9579,6 @@
         "swift-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "swift"
       ],
@@ -9688,7 +9607,6 @@
         "swift-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "swift"
       ],
@@ -10420,7 +10338,6 @@
         "typescript-security"
       ],
       "tags": [
-        "ecc",
         "rules",
         "typescript"
       ],
@@ -10709,7 +10626,6 @@
         "typescript-security"
       ],
       "tags": [
-        "ecc",
         "rules",
         "typescript"
       ],
@@ -10816,7 +10732,6 @@
         "typescript-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "typescript"
       ],
@@ -10871,7 +10786,6 @@
         "typescript-patterns"
       ],
       "tags": [
-        "ecc",
         "rules",
         "typescript"
       ],
@@ -11510,7 +11424,6 @@
         "web-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "web"
       ],
@@ -11539,7 +11452,6 @@
         "web-hooks"
       ],
       "tags": [
-        "ecc",
         "rules",
         "web"
       ],
@@ -11568,7 +11480,6 @@
         "web-design-quality"
       ],
       "tags": [
-        "ecc",
         "rules",
         "web"
       ],
@@ -11597,7 +11508,6 @@
         "web-design-quality"
       ],
       "tags": [
-        "ecc",
         "rules",
         "web"
       ],
@@ -11626,7 +11536,6 @@
         "web-design-quality"
       ],
       "tags": [
-        "ecc",
         "rules",
         "web"
       ],
@@ -11655,7 +11564,6 @@
         "web-design-quality"
       ],
       "tags": [
-        "ecc",
         "rules",
         "web"
       ],
@@ -11684,7 +11592,6 @@
         "web-design-quality"
       ],
       "tags": [
-        "ecc",
         "rules",
         "web"
       ],
@@ -11864,7 +11771,6 @@
         "zh-coding-style"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -11893,7 +11799,6 @@
         "zh-coding-style"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -11922,7 +11827,6 @@
         "zh-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -11951,7 +11855,6 @@
         "zh-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -11980,7 +11883,6 @@
         "zh-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -12009,7 +11911,6 @@
         "zh-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -12038,7 +11939,6 @@
         "zh-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -12067,7 +11967,6 @@
         "zh-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -12096,7 +11995,6 @@
         "zh-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -12125,7 +12023,6 @@
         "zh-code-review"
       ],
       "tags": [
-        "ecc",
         "rules",
         "zh"
       ],
@@ -15475,6 +15372,32 @@
       "path": "components/hooks/backup-before-edit.md"
     },
     {
+      "name": "bash-quality-dispatcher",
+      "type": "hooks",
+      "description": "PreToolUse Bash dispatcher that runs quality, tmux, push, and GateGuard checks before a Bash command executes.",
+      "source_repo": "affaan-m/ecc",
+      "source_url": "https://github.com/affaan-m/ecc/blob/main/hooks/hooks.json",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-26",
+      "related": [],
+      "tags": [
+        "hooks",
+        "bash",
+        "quality"
+      ],
+      "path": "components/hooks/bash-quality-dispatcher.md"
+    },
+    {
       "name": "block-dangerous-commands",
       "type": "hooks",
       "description": "Wire to the PreToolUse(Bash) event to hard-block destructive shell commands before they run — recursive root deletes, sudo wipes, unconfirmed force-pushes — so an autonomous agent can't catastrophically damage the system.",
@@ -16127,58 +16050,6 @@
       "path": "components/hooks/discord-notifications.md"
     },
     {
-      "name": "ecc-bash-quality-dispatcher",
-      "type": "hooks",
-      "description": "PreToolUse Bash dispatcher that runs quality, tmux, push, and GateGuard checks before a Bash command executes.",
-      "source_repo": "affaan-m/ecc",
-      "source_url": "https://github.com/affaan-m/ecc/blob/main/hooks/hooks.json",
-      "license": "MIT",
-      "cli_compat": [
-        "claude",
-        "codex",
-        "cursor",
-        "gemini",
-        "opencode"
-      ],
-      "maturity": "beta",
-      "stars": null,
-      "eval_score": null,
-      "verified_at": "2026-05-26",
-      "related": [],
-      "tags": [
-        "hooks",
-        "bash",
-        "quality"
-      ],
-      "path": "components/hooks/ecc-bash-quality-dispatcher.md"
-    },
-    {
-      "name": "ecc-memory-persistence",
-      "type": "hooks",
-      "description": "Lifecycle hook bundle (SessionStart, PreCompact, observation, SessionEnd) that loads prior context and persists session state across compaction.",
-      "source_repo": "affaan-m/ecc",
-      "source_url": "https://github.com/affaan-m/ecc/blob/main/hooks/memory-persistence/hooks.json",
-      "license": "MIT",
-      "cli_compat": [
-        "claude",
-        "codex",
-        "cursor",
-        "gemini",
-        "opencode"
-      ],
-      "maturity": "beta",
-      "stars": null,
-      "eval_score": null,
-      "verified_at": "2026-05-26",
-      "related": [],
-      "tags": [
-        "hooks",
-        "memory",
-        "lifecycle"
-      ],
-      "path": "components/hooks/ecc-memory-persistence.md"
-    },
-    {
       "name": "edit-audit-log",
       "type": "hooks",
       "description": "Log all file edits to a project-local audit file with timestamps. Records every Edit tool usage to .claude/edit-log.txt for tracking changes across sessions. Requires jq.",
@@ -16437,6 +16308,32 @@
       "path": "components/hooks/lint-on-save.md"
     },
     {
+      "name": "memory-persistence",
+      "type": "hooks",
+      "description": "Lifecycle hook bundle (SessionStart, PreCompact, observation, SessionEnd) that loads prior context and persists session state across compaction.",
+      "source_repo": "affaan-m/ecc",
+      "source_url": "https://github.com/affaan-m/ecc/blob/main/hooks/memory-persistence/hooks.json",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-26",
+      "related": [],
+      "tags": [
+        "hooks",
+        "memory",
+        "lifecycle"
+      ],
+      "path": "components/hooks/memory-persistence.md"
+    },
+    {
       "name": "memory-persistence-bundle",
       "type": "hooks",
       "description": "Hook bundle: Reference lifecycle hook definitions for ECC memory persistence. The production hook graph is hooks/hooks.json.. Use to persist and reload agent session state across compaction.",
@@ -16459,7 +16356,6 @@
         "post-ecc-context-monitor"
       ],
       "tags": [
-        "ecc",
         "hook",
         "memory-persistence"
       ],
@@ -16726,14 +16622,13 @@
         "post-ecc-metrics-bridge"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
       "path": "components/hooks/post-bash-dispatcher.md"
     },
     {
-      "name": "post-ecc-context-monitor",
+      "name": "post-context-monitor",
       "type": "hooks",
       "description": "PostToolUse hook: Inject agent warnings on context exhaustion, high cost, scope creep, or tool loops (matcher: *).",
       "source_repo": "affaan-m/ecc",
@@ -16755,40 +16650,10 @@
         "post-ecc-metrics-bridge"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
-      "path": "components/hooks/post-ecc-context-monitor.md"
-    },
-    {
-      "name": "post-ecc-metrics-bridge",
-      "type": "hooks",
-      "description": "PostToolUse hook: Maintain running session metrics aggregate for statusline and context monitor (matcher: *).",
-      "source_repo": "affaan-m/ecc",
-      "source_url": "https://github.com/affaan-m/ecc/blob/main/hooks/hooks.json",
-      "license": "MIT",
-      "cli_compat": [
-        "claude",
-        "codex",
-        "cursor",
-        "gemini",
-        "opencode"
-      ],
-      "maturity": "beta",
-      "stars": null,
-      "eval_score": null,
-      "verified_at": "2026-05-26",
-      "related": [
-        "post-bash-dispatcher",
-        "post-ecc-context-monitor"
-      ],
-      "tags": [
-        "ecc",
-        "hook",
-        "PostToolUse"
-      ],
-      "path": "components/hooks/post-ecc-metrics-bridge.md"
+      "path": "components/hooks/post-context-monitor.md"
     },
     {
       "name": "post-edit-accumulator",
@@ -16813,7 +16678,6 @@
         "post-ecc-context-monitor"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
@@ -16842,7 +16706,6 @@
         "post-ecc-context-monitor"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
@@ -16871,7 +16734,6 @@
         "post-ecc-context-monitor"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
@@ -16900,7 +16762,6 @@
         "post-ecc-context-monitor"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
@@ -16929,11 +16790,38 @@
         "post-bash-dispatcher"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUseFailure"
       ],
       "path": "components/hooks/post-mcp-health-check.md"
+    },
+    {
+      "name": "post-metrics-bridge",
+      "type": "hooks",
+      "description": "PostToolUse hook: Maintain running session metrics aggregate for statusline and context monitor (matcher: *).",
+      "source_repo": "affaan-m/ecc",
+      "source_url": "https://github.com/affaan-m/ecc/blob/main/hooks/hooks.json",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-26",
+      "related": [
+        "post-bash-dispatcher",
+        "post-ecc-context-monitor"
+      ],
+      "tags": [
+        "hook",
+        "PostToolUse"
+      ],
+      "path": "components/hooks/post-metrics-bridge.md"
     },
     {
       "name": "post-observe-continuous-learning",
@@ -16958,7 +16846,6 @@
         "post-ecc-context-monitor"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
@@ -17015,7 +16902,6 @@
         "post-ecc-context-monitor"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
@@ -17044,7 +16930,6 @@
         "post-ecc-context-monitor"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PostToolUse"
       ],
@@ -17145,7 +17030,6 @@
         "pre-edit-write-gateguard-fact-force"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreToolUse"
       ],
@@ -17174,7 +17058,6 @@
         "post-bash-dispatcher"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreCompact"
       ],
@@ -17231,7 +17114,6 @@
         "pre-edit-write-gateguard-fact-force"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreToolUse"
       ],
@@ -17260,7 +17142,6 @@
         "pre-config-protection"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreToolUse"
       ],
@@ -17289,7 +17170,6 @@
         "pre-config-protection"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreToolUse"
       ],
@@ -17318,7 +17198,6 @@
         "pre-config-protection"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreToolUse"
       ],
@@ -17347,7 +17226,6 @@
         "pre-config-protection"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreToolUse"
       ],
@@ -17376,7 +17254,6 @@
         "pre-config-protection"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreToolUse"
       ],
@@ -17429,7 +17306,6 @@
         "pre-config-protection"
       ],
       "tags": [
-        "ecc",
         "hook",
         "PreToolUse"
       ],
@@ -17650,7 +17526,6 @@
         "post-bash-dispatcher"
       ],
       "tags": [
-        "ecc",
         "hook",
         "SessionEnd"
       ],
@@ -17679,7 +17554,6 @@
         "post-bash-dispatcher"
       ],
       "tags": [
-        "ecc",
         "hook",
         "SessionStart"
       ],
@@ -17952,7 +17826,6 @@
         "stop-desktop-notify"
       ],
       "tags": [
-        "ecc",
         "hook",
         "Stop"
       ],
@@ -17981,7 +17854,6 @@
         "stop-desktop-notify"
       ],
       "tags": [
-        "ecc",
         "hook",
         "Stop"
       ],
@@ -18010,7 +17882,6 @@
         "stop-cost-tracker"
       ],
       "tags": [
-        "ecc",
         "hook",
         "Stop"
       ],
@@ -18039,7 +17910,6 @@
         "stop-cost-tracker"
       ],
       "tags": [
-        "ecc",
         "hook",
         "Stop"
       ],
@@ -18068,7 +17938,6 @@
         "stop-cost-tracker"
       ],
       "tags": [
-        "ecc",
         "hook",
         "Stop"
       ],
@@ -18121,7 +17990,6 @@
         "stop-cost-tracker"
       ],
       "tags": [
-        "ecc",
         "hook",
         "Stop"
       ],
@@ -107526,7 +107394,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -109053,7 +108920,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -109229,7 +109095,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -116307,7 +116172,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -146718,7 +146582,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -169562,7 +169425,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -170690,7 +170552,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -173633,7 +173494,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -294601,7 +294461,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -300703,7 +300562,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -474668,7 +474526,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "mcp",
         "mcp-server"
       ],
@@ -564550,7 +564407,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/accessibility.md"
@@ -564701,7 +564557,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/agent-architecture-audit.md"
@@ -564820,7 +564675,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/agent-introspection-debugging.md"
@@ -564971,7 +564825,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/agent-payment-x402.md"
@@ -564996,7 +564849,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/agent-sort.md"
@@ -565068,7 +564920,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/agentic-os.md"
@@ -565245,7 +565096,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ai-regression-testing.md"
@@ -565437,7 +565287,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/android-clean-architecture.md"
@@ -565483,7 +565332,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/angular-developer.md"
@@ -565529,7 +565377,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/api-connector-builder.md"
@@ -565832,7 +565679,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/architecture-decision-records.md"
@@ -565878,7 +565724,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/article-writing.md"
@@ -566029,7 +565874,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/automation-audit-ops.md"
@@ -566054,7 +565898,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/autonomous-agent-harness.md"
@@ -566121,7 +565964,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/autonomous-loops.md"
@@ -566356,7 +566198,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/backend-patterns.md"
@@ -566512,7 +566353,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/benchmark-optimization-loop.md"
@@ -566663,7 +566503,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/blender-motion-state-inspection.md"
@@ -566751,7 +566590,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/blueprint.md"
@@ -566902,7 +566740,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/brand-voice.md"
@@ -567074,7 +566911,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/browser-qa.md"
@@ -567162,7 +566998,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/bun-runtime.md"
@@ -567271,7 +567106,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/canary-watch.md"
@@ -567361,7 +567195,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/carrier-relationship-management.md"
@@ -567667,7 +567500,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/cisco-ios-patterns.md"
@@ -567713,7 +567545,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ck.md"
@@ -567840,7 +567671,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/claude-devfleet.md"
@@ -567969,7 +567799,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/click-path-audit.md"
@@ -567994,7 +567823,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/clickhouse-io.md"
@@ -568418,7 +568246,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/code-tour.md"
@@ -568443,7 +568270,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/codebase-onboarding.md"
@@ -568552,7 +568378,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/coding-standards.md"
@@ -568724,7 +568549,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/compose-multiplatform-patterns.md"
@@ -568792,7 +568616,7 @@
       "path": "components/skills/concise-planning.md"
     },
     {
-      "name": "configure-ecc",
+      "name": "configure-harness",
       "type": "skills",
       "description": "Interactive installer for Everything Claude Code — guides users through selecting and installing skills and rules to user-level or project-level directories, verifies paths, and optionally optimizes installed files.",
       "source_repo": "affaan-m/ecc",
@@ -568811,10 +568635,9 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
-      "path": "components/skills/configure-ecc.md"
+      "path": "components/skills/configure-harness.md"
     },
     {
       "name": "connections-optimizer",
@@ -568836,7 +568659,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/connections-optimizer.md"
@@ -568903,7 +568725,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/content-engine.md"
@@ -568928,7 +568749,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/content-hash-cache-pattern.md"
@@ -568974,7 +568794,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/context-budget.md"
@@ -569061,7 +568880,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/continuous-agent-loop.md"
@@ -569086,7 +568904,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/continuous-learning-v2.md"
@@ -569279,7 +569096,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/cost-aware-llm-pipeline.md"
@@ -569304,7 +569120,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/cost-tracking.md"
@@ -569376,7 +569191,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/cpp-coding-standards.md"
@@ -569422,7 +569236,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/cpp-testing.md"
@@ -569615,7 +569428,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/crosspost.md"
@@ -569661,7 +569473,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/csharp-testing.md"
@@ -569707,7 +569518,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/customer-billing-ops.md"
@@ -569732,7 +569542,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/customs-trade-compliance.md"
@@ -569799,7 +569608,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/dart-flutter-patterns.md"
@@ -569824,7 +569632,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/dashboard-builder.md"
@@ -569954,7 +569761,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/data-scraper-agent.md"
@@ -569979,7 +569785,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/data-throughput-accelerator.md"
@@ -570067,7 +569872,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/database-migrations.md"
@@ -570260,7 +570064,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/deep-research.md"
@@ -570396,7 +570199,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/defi-amm-security.md"
@@ -570484,7 +570286,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/deployment-patterns.md"
@@ -570878,7 +570679,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/django-celery.md"
@@ -570903,7 +570703,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/django-patterns.md"
@@ -570949,7 +570748,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/django-security.md"
@@ -570974,7 +570772,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/django-tdd.md"
@@ -570999,7 +570796,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/django-verification.md"
@@ -571024,7 +570820,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/dmux-workflows.md"
@@ -571179,7 +570974,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/documentation-lookup.md"
@@ -571351,7 +571145,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/dotnet-patterns.md"
@@ -571460,7 +571253,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/e2e-testing.md"
@@ -571485,56 +571277,6 @@
         "skills"
       ],
       "path": "components/skills/e2e-testing-patterns.md"
-    },
-    {
-      "name": "ecc-guide",
-      "type": "skills",
-      "description": "Guide users through ECC's current agents, skills, commands, hooks, rules, install profiles, and project onboarding by reading the live repository surface before answering.",
-      "source_repo": "affaan-m/ecc",
-      "source_url": "https://github.com/affaan-m/ecc/blob/main/skills/ecc-guide/SKILL.md",
-      "license": "MIT",
-      "cli_compat": [
-        "claude",
-        "codex",
-        "cursor",
-        "gemini",
-        "opencode"
-      ],
-      "maturity": "beta",
-      "stars": null,
-      "eval_score": null,
-      "verified_at": "2026-05-26",
-      "related": [],
-      "tags": [
-        "ecc",
-        "skill"
-      ],
-      "path": "components/skills/ecc-guide.md"
-    },
-    {
-      "name": "ecc-tools-cost-audit",
-      "type": "skills",
-      "description": "Evidence-first ECC Tools burn and billing audit workflow. Use when investigating runaway PR creation, quota bypass, premium-model leakage, duplicate jobs, or GitHub App cost spikes in the ECC Tools repo.",
-      "source_repo": "affaan-m/ecc",
-      "source_url": "https://github.com/affaan-m/ecc/blob/main/skills/ecc-tools-cost-audit/SKILL.md",
-      "license": "MIT",
-      "cli_compat": [
-        "claude",
-        "codex",
-        "cursor",
-        "gemini",
-        "opencode"
-      ],
-      "maturity": "beta",
-      "stars": null,
-      "eval_score": null,
-      "verified_at": "2026-05-26",
-      "related": [],
-      "tags": [
-        "ecc",
-        "skill"
-      ],
-      "path": "components/skills/ecc-tools-cost-audit.md"
     },
     {
       "name": "electron-development",
@@ -571619,7 +571361,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/email-ops.md"
@@ -571707,7 +571448,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/energy-procurement.md"
@@ -571753,7 +571493,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/enterprise-agent-ops.md"
@@ -571799,7 +571538,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/error-handling.md"
@@ -572018,7 +571756,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/evm-token-decimals.md"
@@ -572043,7 +571780,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/exa-search.md"
@@ -572257,7 +571993,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/fal-ai-media.md"
@@ -572303,7 +572038,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/fastapi-patterns.md"
@@ -572559,7 +572293,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/finance-billing-ops.md"
@@ -572731,7 +572464,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/flox-environments.md"
@@ -572777,7 +572509,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/flutter-dart-code-review.md"
@@ -572865,7 +572596,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/foundation-models-on-device.md"
@@ -572911,7 +572641,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/frontend-a11y.md"
@@ -572959,7 +572688,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/frontend-design-direction.md"
@@ -573005,7 +572733,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/frontend-patterns.md"
@@ -573030,7 +572757,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/frontend-slides.md"
@@ -573076,7 +572802,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/fsharp-testing.md"
@@ -573227,7 +572952,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/gan-style-harness.md"
@@ -573252,7 +572976,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/gateguard.md"
@@ -573550,7 +573273,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/gget.md"
@@ -573680,7 +573402,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/git-workflow.md"
@@ -573768,7 +573489,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/github-ops.md"
@@ -573898,7 +573618,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/golang-patterns.md"
@@ -573944,7 +573663,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/golang-testing.md"
@@ -574116,7 +573834,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/google-workspace-ops.md"
@@ -574311,6 +574028,30 @@
       "path": "components/skills/gwas-database.md"
     },
     {
+      "name": "harness-guide",
+      "type": "skills",
+      "description": "Guide users through ECC's current agents, skills, commands, hooks, rules, install profiles, and project onboarding by reading the live repository surface before answering.",
+      "source_repo": "affaan-m/ecc",
+      "source_url": "https://github.com/affaan-m/ecc/blob/main/skills/ecc-guide/SKILL.md",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-26",
+      "related": [],
+      "tags": [
+        "skill"
+      ],
+      "path": "components/skills/harness-guide.md"
+    },
+    {
       "name": "harness-review",
       "type": "skills",
       "description": "Invoke to audit an agent harness (its skills, rules, hooks, MCPs, and templates) for quality, token efficiency, and correctness — surfacing gaps, conflicts, and over-weight components before they cost you.",
@@ -574379,7 +574120,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/healthcare-cdss-patterns.md"
@@ -574404,7 +574144,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/healthcare-emr-patterns.md"
@@ -574429,7 +574168,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/healthcare-eval-harness.md"
@@ -574454,7 +574192,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/healthcare-phi-compliance.md"
@@ -574500,7 +574237,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/hermes-imports.md"
@@ -574525,7 +574261,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/hexagonal-architecture.md"
@@ -574571,7 +574306,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/hipaa-compliance.md"
@@ -574638,7 +574372,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/homelab-network-readiness.md"
@@ -574663,7 +574396,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/homelab-network-setup.md"
@@ -574688,7 +574420,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/homelab-pihole-dns.md"
@@ -574713,7 +574444,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/homelab-vlan-segmentation.md"
@@ -574738,7 +574468,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/homelab-wireguard-vpn.md"
@@ -574805,7 +574534,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/hookify-rules.md"
@@ -575291,7 +575019,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/inventory-demand-planning.md"
@@ -575316,7 +575043,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/investor-materials.md"
@@ -575341,7 +575067,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/investor-outreach.md"
@@ -575387,7 +575112,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ios-icon-gen.md"
@@ -575475,7 +575199,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/iterative-retrieval.md"
@@ -575500,7 +575223,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ito-basket-compare.md"
@@ -575525,7 +575247,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ito-data-atlas-agent.md"
@@ -575550,7 +575271,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ito-market-intelligence.md"
@@ -575575,7 +575295,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ito-trade-planner.md"
@@ -575600,7 +575319,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/java-coding-standards.md"
@@ -575751,7 +575469,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/jira-integration.md"
@@ -575797,7 +575514,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/jpa-patterns.md"
@@ -575948,7 +575664,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/knowledge-ops.md"
@@ -575994,7 +575709,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/kotlin-coroutines-flows.md"
@@ -576019,7 +575733,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/kotlin-exposed-patterns.md"
@@ -576044,7 +575757,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/kotlin-ktor-patterns.md"
@@ -576069,7 +575781,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/kotlin-patterns.md"
@@ -576094,7 +575805,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/kotlin-testing.md"
@@ -576308,7 +576018,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/laravel-patterns.md"
@@ -576333,7 +576042,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/laravel-plugin-discovery.md"
@@ -576358,7 +576066,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/laravel-security.md"
@@ -576383,7 +576090,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/laravel-tdd.md"
@@ -576408,7 +576114,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/laravel-verification.md"
@@ -576454,7 +576159,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/latency-critical-systems.md"
@@ -576542,7 +576246,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/lead-intelligence.md"
@@ -576714,7 +576417,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/liquid-glass-design.md"
@@ -576739,7 +576441,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/literature-review.md"
@@ -576932,7 +576633,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/llm-trading-agent-security.md"
@@ -576957,7 +576657,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/logistics-exception-management.md"
@@ -577045,7 +576744,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/make-interfaces-feel-better.md"
@@ -577133,7 +576831,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/manim-video.md"
@@ -577158,7 +576855,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/market-research.md"
@@ -577204,7 +576900,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/marketing-campaign.md"
@@ -577440,7 +577135,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/mcp-server-patterns.md"
@@ -577612,7 +577306,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/messages-ops.md"
@@ -577784,7 +577477,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/mle-workflow.md"
@@ -578040,7 +577732,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/motion-advanced.md"
@@ -578086,7 +577777,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/motion-foundations.md"
@@ -578111,7 +577801,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/motion-patterns.md"
@@ -578136,7 +577825,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/motion-ui.md"
@@ -578224,7 +577912,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/mysql-patterns.md"
@@ -578438,7 +578125,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/nanoclaw-repl.md"
@@ -578610,7 +578296,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/nestjs-patterns.md"
@@ -578656,7 +578341,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/netmiko-ssh-automation.md"
@@ -578702,7 +578386,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/network-bgp-diagnostics.md"
@@ -578727,7 +578410,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/network-config-validation.md"
@@ -578752,7 +578434,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/network-interface-health.md"
@@ -578903,7 +578584,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/nextjs-turbopack.md"
@@ -578991,7 +578671,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/nodejs-keccak256.md"
@@ -579184,7 +578863,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/nutrient-document-processing.md"
@@ -579209,7 +578887,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/nuxt4-patterns.md"
@@ -579444,7 +579121,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/openclaw-persona-forge.md"
@@ -579490,7 +579166,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/opensource-pipeline.md"
@@ -579683,7 +579358,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/parallel-execution-optimizer.md"
@@ -580086,7 +579760,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/perl-patterns.md"
@@ -580111,7 +579784,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/perl-security.md"
@@ -580136,7 +579808,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/perl-testing.md"
@@ -580308,7 +579979,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/plan-orchestrate.md"
@@ -580354,7 +580024,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/plankton-code-quality.md"
@@ -580827,7 +580496,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/postgres-patterns.md"
@@ -580977,7 +580645,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/prediction-market-oracle-research.md"
@@ -581002,7 +580669,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/prediction-market-risk-review.md"
@@ -581090,7 +580756,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/prisma-patterns.md"
@@ -581136,7 +580801,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/product-capability.md"
@@ -581161,7 +580825,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/product-lens.md"
@@ -581228,7 +580891,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/production-audit.md"
@@ -581274,7 +580936,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/production-scheduling.md"
@@ -581362,7 +581023,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/project-flow-ops.md"
@@ -581513,7 +581173,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/prompt-optimizer.md"
@@ -581580,7 +581239,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/pubmed-database.md"
@@ -581904,7 +581562,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/python-testing.md"
@@ -582013,7 +581670,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/pytorch-patterns.md"
@@ -582206,7 +581862,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/quality-nonconformance.md"
@@ -582252,7 +581907,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/quarkus-patterns.md"
@@ -582277,7 +581931,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/quarkus-security.md"
@@ -582302,7 +581955,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/quarkus-tdd.md"
@@ -582327,7 +581979,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/quarkus-verification.md"
@@ -582688,7 +582339,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ralphinho-rfc-pipeline.md"
@@ -583007,7 +582657,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/recsys-pipeline-architect.md"
@@ -583032,7 +582681,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/recursive-decision-ledger.md"
@@ -583099,7 +582747,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/redis-patterns.md"
@@ -583187,7 +582834,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/regex-vs-llm-structured-text.md"
@@ -583275,7 +582921,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/remotion-video-creation.md"
@@ -583321,7 +582966,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/repo-scan.md"
@@ -583451,7 +583095,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/research-ops.md"
@@ -583623,7 +583266,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/returns-reverse-logistics.md"
@@ -583711,7 +583353,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/rules-distill.md"
@@ -583757,7 +583398,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/rust-patterns.md"
@@ -583803,7 +583443,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/rust-testing.md"
@@ -583938,7 +583577,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/santa-method.md"
@@ -584047,7 +583685,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/scholar-evaluation.md"
@@ -584408,7 +584045,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/search-first.md"
@@ -584496,7 +584132,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/security-bounty-hunter.md"
@@ -584563,7 +584198,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/security-review.md"
@@ -584588,7 +584222,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/security-scan.md"
@@ -585039,7 +584672,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/seo.md"
@@ -585400,7 +585032,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/skill-comply.md"
@@ -585578,7 +585209,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/skill-scout.md"
@@ -585624,7 +585254,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/skill-stocktake.md"
@@ -585816,7 +585445,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/social-graph-ranker.md"
@@ -585841,7 +585469,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/social-publisher.md"
@@ -585992,7 +585619,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/springboot-patterns.md"
@@ -586017,7 +585643,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/springboot-security.md"
@@ -586042,7 +585667,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/springboot-tdd.md"
@@ -586067,7 +585691,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/springboot-verification.md"
@@ -586496,7 +586119,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/swift-actor-persistence.md"
@@ -586521,7 +586143,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/swift-concurrency-6-2.md"
@@ -586567,7 +586188,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/swift-protocol-di-testing.md"
@@ -586592,7 +586212,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/swiftui-patterns.md"
@@ -587026,7 +586645,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/terminal-ops.md"
@@ -587220,7 +586838,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/tinystruct-patterns.md"
@@ -587245,10 +586862,33 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/token-budget-advisor.md"
+    },
+    {
+      "name": "tools-cost-audit",
+      "type": "skills",
+      "description": "Evidence-first ECC Tools burn and billing audit workflow. Use when investigating runaway PR creation, quota bypass, premium-model leakage, duplicate jobs, or GitHub App cost spikes in the ECC Tools repo.",
+      "source_repo": "affaan-m/ecc",
+      "source_url": "https://github.com/affaan-m/ecc/blob/main/skills/ecc-tools-cost-audit/SKILL.md",
+      "license": "MIT",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "beta",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-26",
+      "related": [],
+      "tags": [
+        "skill"
+      ],
+      "path": "components/skills/tools-cost-audit.md"
     },
     {
       "name": "top-100-web-vulnerabilities-reference",
@@ -587591,7 +587231,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ui-demo.md"
@@ -587637,7 +587276,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/ui-to-vue.md"
@@ -587704,7 +587342,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/uncloud.md"
@@ -587729,7 +587366,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/unified-notifications-ops.md"
@@ -587901,7 +587537,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/uspto-database.md"
@@ -588073,7 +587708,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/verification-loop.md"
@@ -588140,7 +587774,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/video-editing.md"
@@ -588165,7 +587798,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/videodb.md"
@@ -588211,7 +587843,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/visa-doc-translate.md"
@@ -588236,7 +587867,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/vite-patterns.md"
@@ -588641,7 +588271,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/windows-desktop-e2e.md"
@@ -588750,7 +588379,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/workspace-surface-audit.md"
@@ -588922,7 +588550,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "skill"
       ],
       "path": "components/skills/x-api.md"
@@ -589244,7 +588871,6 @@
         "chief-of-staff"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/a11y-architect.md"
@@ -591014,7 +590640,6 @@
         "chief-of-staff"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/build-error-resolver.md"
@@ -591266,7 +590891,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/chief-of-staff.md"
@@ -591678,7 +591302,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/code-architect.md"
@@ -591779,7 +591402,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/code-explorer.md"
@@ -592136,7 +591758,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/comment-analyzer.md"
@@ -592618,7 +592239,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/conversation-analyzer.md"
@@ -592646,7 +592266,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/cpp-build-resolver.md"
@@ -592698,7 +592317,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/cpp-reviewer.md"
@@ -592834,7 +592452,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/csharp-reviewer.md"
@@ -592956,7 +592573,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/dart-build-resolver.md"
@@ -593449,7 +593065,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/database-reviewer.md"
@@ -594148,7 +593763,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/django-build-resolver.md"
@@ -594244,7 +593858,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/django-reviewer.md"
@@ -594272,7 +593885,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/doc-updater.md"
@@ -594324,7 +593936,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/docs-lookup.md"
@@ -594762,7 +594373,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/e2e-runner.md"
@@ -595329,7 +594939,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/fastapi-reviewer.md"
@@ -595471,7 +595080,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/flutter-reviewer.md"
@@ -595678,7 +595286,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/fsharp-reviewer.md"
@@ -595888,7 +595495,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/gan-evaluator.md"
@@ -595916,7 +595522,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/gan-generator.md"
@@ -595944,7 +595549,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/gan-planner.md"
@@ -596155,7 +595759,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/go-build-resolver.md"
@@ -596204,7 +595807,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/go-reviewer.md"
@@ -596409,7 +596011,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/harmonyos-app-resolver.md"
@@ -596508,7 +596109,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/healthcare-reviewer.md"
@@ -596581,7 +596181,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/homelab-architect.md"
@@ -597015,7 +596614,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/java-build-resolver.md"
@@ -597085,7 +596683,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/java-reviewer.md"
@@ -597203,7 +596800,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/kotlin-build-resolver.md"
@@ -597252,7 +596848,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/kotlin-reviewer.md"
@@ -597681,7 +597276,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/loop-operator.md"
@@ -597844,7 +597438,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/marketing-agent.md"
@@ -598386,7 +597979,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/mle-reviewer.md"
@@ -598897,7 +598489,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/network-architect.md"
@@ -598925,7 +598516,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/network-config-reviewer.md"
@@ -598977,7 +598567,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/network-troubleshooter.md"
@@ -599308,7 +598897,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/opensource-forker.md"
@@ -599336,7 +598924,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/opensource-packager.md"
@@ -599364,7 +598951,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/opensource-sanitizer.md"
@@ -599598,7 +599184,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/performance-optimizer.md"
@@ -599776,7 +599361,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/planner.md"
@@ -600329,7 +599913,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/pr-test-analyzer.md"
@@ -600880,7 +600463,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/python-reviewer.md"
@@ -600974,7 +600556,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/pytorch-build-resolver.md"
@@ -601442,7 +601023,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/refactor-cleaner.md"
@@ -601993,7 +601573,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/rust-build-resolver.md"
@@ -602108,7 +601687,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/rust-reviewer.md"
@@ -603084,7 +602662,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/seo-specialist.md"
@@ -603612,7 +603189,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/swift-build-resolver.md"
@@ -603685,7 +603261,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/swift-reviewer.md"
@@ -603909,7 +603484,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/tdd-guide.md"
@@ -604865,7 +604439,6 @@
         "build-error-resolver"
       ],
       "tags": [
-        "ecc",
         "subagent"
       ],
       "path": "components/subagents/typescript-reviewer.md"
@@ -606950,7 +606523,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -606997,7 +606569,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -607260,7 +606831,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -608760,7 +608330,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -608786,7 +608355,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -608812,7 +608380,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -609982,7 +609549,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -610264,7 +609830,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -610610,7 +610175,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -610636,7 +610200,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -610662,7 +610225,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -610877,7 +610439,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -610903,7 +610464,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -611232,7 +610792,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -611258,7 +610817,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -611284,7 +610842,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -611362,7 +610919,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612397,7 +611953,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612423,7 +611978,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612449,7 +612003,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612475,7 +612028,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612501,7 +612053,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612779,7 +612330,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612805,7 +612355,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612831,7 +612380,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -612962,7 +612510,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -613009,7 +612556,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -613035,7 +612581,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -613061,7 +612606,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -613248,7 +612792,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -613536,7 +613079,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -613562,7 +613104,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -613867,7 +613408,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -614165,7 +613705,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -614380,7 +613919,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -614406,7 +613944,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -614432,7 +613969,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -614458,7 +613994,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -614526,7 +614061,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615398,7 +614932,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615424,7 +614957,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615450,7 +614982,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615737,7 +615268,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615847,7 +615377,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615873,7 +615402,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615941,7 +615469,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615967,7 +615494,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -615993,7 +615519,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -616019,7 +615544,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -616045,7 +615569,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -616071,7 +615594,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -616202,7 +615724,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -617674,7 +617195,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -617872,7 +617392,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -617919,7 +617438,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -617945,7 +617463,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -617971,7 +617488,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -617997,7 +617513,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -618242,7 +617757,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -618562,7 +618076,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -618714,7 +618227,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -618740,7 +618252,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -621088,7 +620599,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],
@@ -621135,7 +620645,6 @@
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
-        "ecc",
         "command",
         "workflow"
       ],

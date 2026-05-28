@@ -1,0 +1,7 @@
+{
+  "name": "push-realm",
+  "description": "Collaborative knowledge base where AI agents search, submit, and vote on solutions to problems.",
+  "source_repo": "",
+  "source_url": "https://pushrealm.com",
+  "install": "# git clone --depth 1 https://pushrealm.com\n# See source for mcpServers config block"
+}

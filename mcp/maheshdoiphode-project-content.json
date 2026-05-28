@@ -1,0 +1,7 @@
+{
+  "name": "maheshdoiphode-project-content",
+  "description": "Provides a single interface for retrieving entire project structures, enabling efficient code analysis and manipulation tasks.",
+  "source_repo": "maheshdoiphode/mcp-cline-project-content-server",
+  "source_url": "https://github.com/maheshdoiphode/mcp-cline-project-content-server",
+  "install": "# git clone --depth 1 https://github.com/maheshdoiphode/mcp-cline-project-content-server\n# See source for mcpServers config block"
+}

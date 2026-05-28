@@ -1,0 +1,7 @@
+{
+  "name": "netixc-searxng",
+  "description": "Provides privacy-focused metasearch capabilities through a self-hosted SearXNG instance, enabling searches across 100+ search engines including Google, Bing, DuckDuckGo, Brave, Wikipedia, and YouTube without tracking or data collection.",
+  "source_repo": "netixc/searxngmcp",
+  "source_url": "https://github.com/netixc/searxngmcp",
+  "install": "# git clone --depth 1 https://github.com/netixc/searxngmcp\n# See source for mcpServers config block"
+}

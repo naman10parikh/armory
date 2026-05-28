@@ -1,0 +1,7 @@
+{
+  "name": "ahonn-mcp-server-gsc",
+  "description": "Analyze SEO metrics and search performance data.",
+  "source_repo": "ahonn/mcp-server-gsc",
+  "source_url": "https://github.com/ahonn/mcp-server-gsc",
+  "install": "# git clone --depth 1 https://github.com/ahonn/mcp-server-gsc\n# See source for mcpServers config block"
+}

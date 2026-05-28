@@ -1,0 +1,7 @@
+{
+  "name": "developer-utilities-4",
+  "description": "Streamline technical workflows with a comprehensive suite of data transformation and validation utilities. Convert between diverse formats like JSON, CSV, and Markdown while managing encodings and identifiers efficiently. Enhance productivity by performing complex text analysis, regex testing, and t",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/aparajithn/agent-utils",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/aparajithn/agent-utils\n# See source for mcpServers config block"
+}

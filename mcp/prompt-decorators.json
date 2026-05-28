@@ -1,0 +1,7 @@
+{
+  "name": "prompt-decorators",
+  "description": "Prompt Decorators MCP server listed on mcp.so.",
+  "source_repo": "synaptiai/prompt-decorators",
+  "source_url": "https://mcp.so/server/prompt-decorators/synaptiai",
+  "install": "# git clone --depth 1 https://mcp.so/server/prompt-decorators/synaptiai\n# See source for mcpServers config block"
+}

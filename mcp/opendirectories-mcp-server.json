@@ -1,0 +1,7 @@
+{
+  "name": "opendirectories-mcp-server",
+  "description": "Enables searching 12M+ verified businesses across 10 countries and 19 directories, with tools for lead generation, competitive analysis, and market research.",
+  "source_repo": "BigJai/opendirectories-mcp",
+  "source_url": "https://github.com/BigJai/opendirectories-mcp",
+  "install": "npx -y opendirectories-mcp"
+}

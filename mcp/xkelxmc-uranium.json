@@ -1,0 +1,7 @@
+{
+  "name": "xkelxmc-uranium",
+  "description": "NFT management tools for minting, listing, and managing digital assets on the permaweb",
+  "source_repo": "xkelxmc/uranium-mcp",
+  "source_url": "https://github.com/xkelxmc/uranium-mcp",
+  "install": "npx -y uranium-mcp"
+}

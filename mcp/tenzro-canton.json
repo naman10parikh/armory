@@ -1,0 +1,7 @@
+{
+  "name": "tenzro-canton",
+  "description": "MCP server for Canton blockchain operations on Tenzro Network: DAML submit, contracts, events, parties, domains, CIP-56 tokens, DvP, and DAR upload.",
+  "source_repo": "",
+  "source_url": "https://tenzro.network/mcp/tenzro-canton",
+  "install": "# git clone --depth 1 https://tenzro.network/mcp/tenzro-canton\n# See source for mcpServers config block"
+}

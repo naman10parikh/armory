@@ -1,0 +1,7 @@
+{
+  "name": "logly-mureo",
+  "description": "Framework for AI agents (Claude Code, Cursor, Codex, Gemini) to operate Google Ads, Meta Ads, and Search Console. Grounded in a local STRATEGY.md — not metric-chasing. Defense-in-depth security, local-first. Apache 2.0.",
+  "source_repo": "logly/mureo",
+  "source_url": "https://github.com/logly/mureo",
+  "install": "# git clone --depth 1 https://github.com/logly/mureo\n# See source for mcpServers config block"
+}

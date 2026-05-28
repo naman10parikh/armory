@@ -1,0 +1,7 @@
+{
+  "name": "dice-roll",
+  "description": "Provides a simple dice rolling tool that generates random rolls with customizable dice faces and quantities, returning both individual results and their sum.",
+  "source_repo": "shimapon/mcp-server-diceroll",
+  "source_url": "https://github.com/shimapon/mcp-server-diceroll",
+  "install": "# git clone --depth 1 https://github.com/shimapon/mcp-server-diceroll\n# See source for mcpServers config block"
+}

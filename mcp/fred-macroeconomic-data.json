@@ -1,0 +1,7 @@
+{
+  "name": "fred-macroeconomic-data",
+  "description": "Connects to the FRED API to retrieve real-time economic data series including GDP, employment statistics, inflation metrics, and monetary policy indicators for data-driven analyses and visualizations.",
+  "source_repo": "hungson175/wm_mcp",
+  "source_url": "https://github.com/hungson175/wm_mcp",
+  "install": "npx -y wm_mcp"
+}

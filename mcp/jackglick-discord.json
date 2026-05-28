@@ -1,0 +1,7 @@
+{
+  "name": "jackglick-discord",
+  "description": "Provides Discord server administration through 33 tools covering channel management, role management, member moderation, and server configuration with built-in rate limiting and audit logging.",
+  "source_repo": "jackglick/discord-mcp",
+  "source_url": "https://github.com/jackglick/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

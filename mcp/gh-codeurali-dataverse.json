@@ -1,0 +1,7 @@
+{
+  "name": "gh-codeurali-dataverse",
+  "description": "73 tools for Microsoft Dataverse including CRUD, FetchXML, metadata, and audit operations.",
+  "source_repo": "codeurali/mcp-dataverse",
+  "source_url": "https://github.com/codeurali/mcp-dataverse",
+  "install": "# git clone --depth 1 https://github.com/codeurali/mcp-dataverse\n# See source for mcpServers config block"
+}

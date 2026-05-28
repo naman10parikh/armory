@@ -1,0 +1,7 @@
+{
+  "name": "bing-webmaster-tools",
+  "description": "Integrates with Bing Webmaster Tools API to enable complete site management, URL submission, traffic analysis, crawling, keyword research, and content management through natural language interactions.",
+  "source_repo": "zizzfizzix/mcp-server-bwt",
+  "source_url": "https://github.com/zizzfizzix/mcp-server-bwt",
+  "install": "# git clone --depth 1 https://github.com/zizzfizzix/mcp-server-bwt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-mcp-server",
+  "description": "An MCP server that exposes 41 Azure DevOps tools to AI assistants, enabling management of pipelines, repositories, pull requests, releases, work items, test management, and wikis through natural language.",
+  "source_repo": "iimsaurav/azure-devops-mcp",
+  "source_url": "https://github.com/iimsaurav/azure-devops-mcp",
+  "install": "npx -y azure-devops-mcp"
+}

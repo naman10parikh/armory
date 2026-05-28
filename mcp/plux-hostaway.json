@@ -1,0 +1,7 @@
+{
+  "name": "plux-hostaway",
+  "description": "Manage Hostaway PMS reservations, listings, calendars, financials, and guest messaging.",
+  "source_repo": "mattlong-plux/hostaway-mcp",
+  "source_url": "https://github.com/mattlong-plux/hostaway-mcp",
+  "install": "npx -y hostaway-mcp"
+}

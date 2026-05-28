@@ -1,0 +1,7 @@
+{
+  "name": "agentsafe-tooltrust-scanner",
+  "description": "Scans MCP servers for prompt injection, data exfiltration, and privilege escalation vulnerabilities.",
+  "source_repo": "agentsafe-ai/tooltrust-scanner",
+  "source_url": "https://github.com/agentsafe-ai/tooltrust-scanner",
+  "install": "# git clone --depth 1 https://github.com/agentsafe-ai/tooltrust-scanner\n# See source for mcpServers config block"
+}

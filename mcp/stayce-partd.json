@@ -1,0 +1,7 @@
+{
+  "name": "stayce-partd",
+  "description": "CMS Medicare Part D drug spending and prescriber data.",
+  "source_repo": "stayce/partd-mcp-cloudflare",
+  "source_url": "https://github.com/stayce/partd-mcp-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/stayce/partd-mcp-cloudflare\n# See source for mcpServers config block"
+}

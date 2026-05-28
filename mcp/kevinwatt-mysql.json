@@ -1,0 +1,7 @@
+{
+  "name": "kevinwatt-mysql",
+  "description": "Provides secure MySQL database access for LLMs, enabling read/write operations with transaction support and security features for AI-assisted data management tasks.",
+  "source_repo": "kevinwatt/mysql-mcp",
+  "source_url": "https://github.com/kevinwatt/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "saramali15792-agentrag",
+  "description": "Agentic RAG MCP server providing persistent semantic memory over private data for Claude.",
+  "source_repo": "saramali15792/agentrag",
+  "source_url": "https://github.com/saramali15792/agentrag",
+  "install": "# git clone --depth 1 https://github.com/saramali15792/agentrag\n# See source for mcpServers config block"
+}

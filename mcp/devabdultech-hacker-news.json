@@ -1,0 +1,7 @@
+{
+  "name": "devabdultech-hacker-news",
+  "description": "Integrates with the Hacker News API to provide real-time access to stories, comments, and user data for news aggregation, trend analysis, and custom client development.",
+  "source_repo": "devabdultech/hn-mcp",
+  "source_url": "https://github.com/devabdultech/hn-mcp",
+  "install": "npx -y hn-mcp"
+}

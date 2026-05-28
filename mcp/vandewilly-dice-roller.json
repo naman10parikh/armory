@@ -1,0 +1,7 @@
+{
+  "name": "vandewilly-dice-roller",
+  "description": "Roll dice using standard notation, D&D stats, coin flips, and more",
+  "source_repo": "vandewilly/mcp-dice-roller",
+  "source_url": "https://github.com/vandewilly/mcp-dice-roller",
+  "install": "# git clone --depth 1 https://github.com/vandewilly/mcp-dice-roller\n# See source for mcpServers config block"
+}

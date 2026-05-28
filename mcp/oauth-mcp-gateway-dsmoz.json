@@ -1,0 +1,7 @@
+{
+  "name": "oauth-mcp-gateway-dsmoz",
+  "description": "OAuth 2.0 gateway that authenticates Claude clients and proxies requests to multiple upstream MCP servers from a single endpoint.",
+  "source_repo": "dsmoz/mcp-oauth-server",
+  "source_url": "https://github.com/dsmoz/mcp-oauth-server",
+  "install": "# git clone --depth 1 https://github.com/dsmoz/mcp-oauth-server\n# See source for mcpServers config block"
+}

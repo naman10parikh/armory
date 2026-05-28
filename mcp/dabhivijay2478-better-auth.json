@@ -1,0 +1,7 @@
+{
+  "name": "dabhivijay2478-better-auth",
+  "description": "Integrates with Better Auth documentation through web scraping to provide authentication provider listings, feature details with code examples, keyword-based documentation search, and framework-specific integration guides with intelligent caching for improved performance.",
+  "source_repo": "dabhivijay2478/better-auth-mcp-server",
+  "source_url": "https://github.com/dabhivijay2478/better-auth-mcp-server",
+  "install": "npx -y better-auth-mcp-server"
+}

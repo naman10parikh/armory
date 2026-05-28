@@ -1,0 +1,7 @@
+{
+  "name": "ying-dao-rpa",
+  "description": "Bridges AI with Yingdao RPA platform to automate business processes through local and cloud-based robotic process automation applications.",
+  "source_repo": "ying-dao/yingdao_mcp_server",
+  "source_url": "https://github.com/ying-dao/yingdao_mcp_server",
+  "install": "npx -y yingdao_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "templatefox",
+  "description": "Generate PDFs from templates via AI assistants using the TemplateFox API.",
+  "source_repo": "templatefoxpdf/mcp-server",
+  "source_url": "https://github.com/templatefoxpdf/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/templatefoxpdf/mcp-server\n# See source for mcpServers config block"
+}

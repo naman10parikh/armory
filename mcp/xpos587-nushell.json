@@ -1,0 +1,7 @@
+{
+  "name": "xpos587-nushell",
+  "description": "Provides direct access to Nushell's modern shell environment with structured data processing, command execution, background process management, and fast code editing capabilities.",
+  "source_repo": "xpos587/nu-mcp",
+  "source_url": "https://github.com/xpos587/nu-mcp",
+  "install": "npx -y nu-mcp"
+}

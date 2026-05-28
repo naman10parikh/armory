@@ -1,0 +1,7 @@
+{
+  "name": "snipara-mcp",
+  "description": "Lightweight MCP connector that provides persistent project memory and context optimization for AI agents via Snipara's hosted APIs.",
+  "source_repo": "alopez3006/snipara-mcp",
+  "source_url": "https://github.com/alopez3006/snipara-mcp",
+  "install": "npx -y snipara-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sonarqube-api-mcp",
+  "description": "Read-only MCP server that exposes SonarQube Web API tools for issue retrieval, quality gate status, and source context, enabling coding agents to fix code issues.",
+  "source_repo": "yozzone/sonarqube-mcp",
+  "source_url": "https://github.com/yozzone/sonarqube-mcp",
+  "install": "npx -y sonarqube-mcp"
+}

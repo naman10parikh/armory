@@ -1,0 +1,7 @@
+{
+  "name": "philschmid-gemini",
+  "description": "Integrates with Google's Gemini API to provide intelligent web search with synthesized results and citations, plus direct access to Gemini 2.5 models for complex reasoning and content generation tasks.",
+  "source_repo": "philschmid/gemini-mcp-server",
+  "source_url": "https://github.com/philschmid/gemini-mcp-server",
+  "install": "npx -y gemini-mcp-server"
+}

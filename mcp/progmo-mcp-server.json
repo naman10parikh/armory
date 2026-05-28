@@ -1,0 +1,7 @@
+{
+  "name": "progmo-mcp-server",
+  "description": "Progmo Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "whitmo/progmo-mcp-server",
+  "source_url": "https://mcp.so/server/progmo-mcp-server/whitmo",
+  "install": "npx -y progmo-mcp-server"
+}

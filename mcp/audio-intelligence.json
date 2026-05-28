@@ -1,0 +1,7 @@
+{
+  "name": "audio-intelligence",
+  "description": "Search podcast transcripts, speakers, and entities across 250K+ shows with audio intelligence.",
+  "source_repo": "",
+  "source_url": "https://mcp.audioscrape.com",
+  "install": "# git clone --depth 1 https://mcp.audioscrape.com\n# See source for mcpServers config block"
+}

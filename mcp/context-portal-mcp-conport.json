@@ -1,0 +1,7 @@
+{
+  "name": "context-portal-mcp-conport",
+  "description": "A database-backed MCP server that acts as a project memory bank, enabling AI assistants to store, retrieve, and search structured context like decisions, tasks, and architecture using SQLite and vector embeddings.",
+  "source_repo": "fastmcp-me/context-portal",
+  "source_url": "https://github.com/fastmcp-me/context-portal",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/context-portal\n# See source for mcpServers config block"
+}

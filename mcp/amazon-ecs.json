@@ -1,0 +1,7 @@
+{
+  "name": "amazon-ecs",
+  "description": "AI-powered Amazon ECS workload management including deployment monitoring, container troubleshooting, network inspection, and resource dependency resolution.",
+  "source_repo": "",
+  "source_url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-mcp-introduction.html",
+  "install": "# git clone --depth 1 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-mcp-introduction.html\n# See source for mcpServers config block"
+}

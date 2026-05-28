@@ -1,0 +1,7 @@
+{
+  "name": "flux159-mcp-server-kubernetes",
+  "description": "Manage Kubernetes cluster resources and deployments.",
+  "source_repo": "flux159/mcp-server-kubernetes",
+  "source_url": "https://github.com/flux159/mcp-server-kubernetes",
+  "install": "# git clone --depth 1 https://github.com/flux159/mcp-server-kubernetes\n# See source for mcpServers config block"
+}

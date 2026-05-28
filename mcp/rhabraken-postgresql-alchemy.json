@@ -1,0 +1,7 @@
+{
+  "name": "rhabraken-postgresql-alchemy",
+  "description": "Connects AI models to PostgreSQL databases using Python and SQLAlchemy, enabling flexible querying and data manipulation across SQL dialects.",
+  "source_repo": "rhabraken/mcp-python",
+  "source_url": "https://github.com/rhabraken/mcp-python",
+  "install": "# git clone --depth 1 https://github.com/rhabraken/mcp-python\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "berlin-transport",
+  "description": "Provides direct access to Berlin's public transportation data for searching stops, retrieving real-time departures, and planning optimal routes between locations.",
+  "source_repo": "harshil1712/berlin-transport-mcp",
+  "source_url": "https://github.com/harshil1712/berlin-transport-mcp",
+  "install": "npx -y berlin-transport-mcp"
+}

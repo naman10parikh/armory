@@ -1,0 +1,7 @@
+{
+  "name": "trushtonfactory-anthropic-admin",
+  "description": "Manage Anthropic organizations, workspaces, members, API keys, and usage via the Admin API.",
+  "source_repo": "trushtonfactory/anthropic-admin-mcp",
+  "source_url": "https://github.com/trushtonfactory/anthropic-admin-mcp",
+  "install": "npx -y anthropic-admin-mcp"
+}

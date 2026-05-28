@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-strava",
+  "description": "Integrates with Strava's API to access and analyze fitness data, retrieve athlete profiles, activities, segments, routes, and clubs, with features for exporting routes in GPX/TCX formats for training insights and route planning.",
+  "source_repo": "r-huijts/strava-mcp",
+  "source_url": "https://github.com/r-huijts/strava-mcp",
+  "install": "npx -y strava-mcp"
+}

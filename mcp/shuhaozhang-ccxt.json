@@ -1,0 +1,7 @@
+{
+  "name": "shuhaozhang-ccxt",
+  "description": "Connects language models to cryptocurrency exchanges through a unified API for market data access and trading capabilities across major platforms like Binance, Coinbase, and Kraken.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/shuhaozhang-ccxt",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/shuhaozhang-ccxt\n# See source for mcpServers config block"
+}

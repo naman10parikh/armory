@@ -1,0 +1,7 @@
+{
+  "name": "tenzir",
+  "description": "Integrates with Tenzir data pipelines and OCSF schema framework to execute cybersecurity data processing workflows and retrieve structured security event definitions for threat hunting and security analysis.",
+  "source_repo": "tenzir/mcp",
+  "source_url": "https://github.com/tenzir/mcp",
+  "install": "# git clone --depth 1 https://github.com/tenzir/mcp\n# See source for mcpServers config block"
+}

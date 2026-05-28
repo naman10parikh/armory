@@ -1,0 +1,7 @@
+{
+  "name": "jordan112-skinny-jeans",
+  "description": "Optimizes token usage when reading files by compressing JSON, markdown, and code using TOON encoding, with tools for file reading, token estimation, and batch analysis.",
+  "source_repo": "jordan112/skinny-jeans",
+  "source_url": "https://github.com/jordan112/skinny-jeans",
+  "install": "# git clone --depth 1 https://github.com/jordan112/skinny-jeans\n# See source for mcpServers config block"
+}

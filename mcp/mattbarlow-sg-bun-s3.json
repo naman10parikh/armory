@@ -1,0 +1,7 @@
+{
+  "name": "mattbarlow-sg-bun-s3",
+  "description": "Integrates with S3 to provide efficient code snippet management and retrieval.",
+  "source_repo": "mattbarlow-sg/bun-s3-mcp",
+  "source_url": "https://github.com/mattbarlow-sg/bun-s3-mcp",
+  "install": "npx -y bun-s3-mcp"
+}

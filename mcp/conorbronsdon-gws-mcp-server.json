@@ -1,0 +1,7 @@
+{
+  "name": "conorbronsdon-gws-mcp-server",
+  "description": "Google Workspace MCP server exposing 23 curated tools for Drive, Sheets, Calendar, Docs, and Gmail via the gws CLI.",
+  "source_repo": "conorbronsdon/gws-mcp-server",
+  "source_url": "https://github.com/conorbronsdon/gws-mcp-server",
+  "install": "npx -y gws-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olyport-treatment-locator",
+  "description": "Find substance abuse and mental health treatment facilities via SAMHSA.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/treatment-locator/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/treatment-locator/mcp\n# See source for mcpServers config block"
+}

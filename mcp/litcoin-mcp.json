@@ -1,0 +1,7 @@
+{
+  "name": "litcoin-mcp",
+  "description": "Enables querying the LitCoin knowledge graph for nodes, edges, and relationships, with support for semantic similarity search over nodes and edges via MCP.",
+  "source_repo": "hyi/litcoin-mcp",
+  "source_url": "https://github.com/hyi/litcoin-mcp",
+  "install": "npx -y litcoin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kemalersin-fonparam",
+  "description": "Integrates with FonParam's Turkish mutual funds API to provide real-time fund data, performance metrics, and market insights for investment analysis and research in Turkey's financial markets.",
+  "source_repo": "kemalersin/fonparam-mcp",
+  "source_url": "https://github.com/kemalersin/fonparam-mcp",
+  "install": "npx -y fonparam-mcp"
+}

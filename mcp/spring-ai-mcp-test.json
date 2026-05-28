@@ -1,0 +1,7 @@
+{
+  "name": "spring-ai-mcp-test",
+  "description": "Spring Ai Mcp Test MCP server listed on mcp.so.",
+  "source_repo": "oalles/spring-ai-mcp-test",
+  "source_url": "https://mcp.so/server/spring-ai-mcp-test/oalles",
+  "install": "# git clone --depth 1 https://mcp.so/server/spring-ai-mcp-test/oalles\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "context-rot-detection",
+  "description": "Gives AI agents self-awareness about their cognitive state. Monitors token utilization, context quality degradation, and session fatigue. Returns health scores (0-100) and recovery recommendations based on model-specific degradation curves.",
+  "source_repo": "milos-product-maker/context-rot-detection",
+  "source_url": "https://github.com/milos-product-maker/context-rot-detection",
+  "install": "# git clone --depth 1 https://github.com/milos-product-maker/context-rot-detection\n# See source for mcpServers config block"
+}

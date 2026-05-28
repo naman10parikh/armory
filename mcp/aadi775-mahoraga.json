@@ -1,0 +1,7 @@
+{
+  "name": "aadi775-mahoraga",
+  "description": "Persistent graph-powered memory for AI agents using Kuzu embedded database.",
+  "source_repo": "aadi775/mahoraga",
+  "source_url": "https://github.com/aadi775/mahoraga",
+  "install": "# git clone --depth 1 https://github.com/aadi775/mahoraga\n# See source for mcpServers config block"
+}

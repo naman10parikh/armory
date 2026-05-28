@@ -1,0 +1,7 @@
+{
+  "name": "okooo5km-unsplash",
+  "description": "Connects to Unsplash's API to enable photo searching with customizable filters, detailed image information retrieval, and random photo fetching for seamless imagery integration in conversations.",
+  "source_repo": "okooo5km/unsplash-mcp-server-go",
+  "source_url": "https://github.com/okooo5km/unsplash-mcp-server-go",
+  "install": "# git clone --depth 1 https://github.com/okooo5km/unsplash-mcp-server-go\n# See source for mcpServers config block"
+}

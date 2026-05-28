@@ -1,0 +1,7 @@
+{
+  "name": "corefluxcommunity-coreflux-mqtt",
+  "description": "Integrates with Coreflux IoT platform through MQTT broker connections to enable dynamic discovery and execution of IoT actions, real-time device management, and automated rule generation for industrial control systems.",
+  "source_repo": "corefluxcommunity/coreflux-mqtt-mcp-server",
+  "source_url": "https://github.com/corefluxcommunity/coreflux-mqtt-mcp-server",
+  "install": "npx -y coreflux-mqtt-mcp-server"
+}

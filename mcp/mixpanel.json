@@ -1,0 +1,7 @@
+{
+  "name": "mixpanel",
+  "description": "Query product analytics data, funnels, retention, and session replays through natural language",
+  "source_repo": "",
+  "source_url": "https://docs.mixpanel.com/docs/features/mcp",
+  "install": "# git clone --depth 1 https://docs.mixpanel.com/docs/features/mcp\n# See source for mcpServers config block"
+}

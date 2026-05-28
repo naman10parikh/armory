@@ -1,0 +1,7 @@
+{
+  "name": "integration-app",
+  "description": "Integrates with Integration App's API to expose workflow automation capabilities as tools for triggering and managing complex business processes.",
+  "source_repo": "membranehq/mcp-server",
+  "source_url": "https://github.com/membranehq/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/membranehq/mcp-server\n# See source for mcpServers config block"
+}

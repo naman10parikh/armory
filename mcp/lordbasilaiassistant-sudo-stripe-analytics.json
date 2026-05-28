@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-stripe-analytics",
+  "description": "Query Stripe dashboard data including revenue, customers, subscriptions, refunds, and churn metrics.",
+  "source_repo": "lordbasilaiassistant-sudo/mcp-stripe-analytics",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/mcp-stripe-analytics",
+  "install": "# git clone --depth 1 https://github.com/lordbasilaiassistant-sudo/mcp-stripe-analytics\n# See source for mcpServers config block"
+}

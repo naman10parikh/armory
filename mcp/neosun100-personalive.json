@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-personalive",
+  "description": "Transforms static portrait images into expressive videos using driving motion from reference videos with real-time streaming and GPU memory optimization.",
+  "source_repo": "neosun100/personalive",
+  "source_url": "https://github.com/neosun100/personalive",
+  "install": "# git clone --depth 1 https://github.com/neosun100/personalive\n# See source for mcpServers config block"
+}

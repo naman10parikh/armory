@@ -1,0 +1,7 @@
+{
+  "name": "eviscerations-whisper-windows-mcp",
+  "description": "Windows-native local audio and video transcription using whisper.cpp with Vulkan GPU acceleration. No cloud APIs, no Python. Batch processing, multilingual support, model management, and background job handling built in.",
+  "source_repo": "eviscerations/whisper-windows-mcp",
+  "source_url": "https://github.com/eviscerations/whisper-windows-mcp",
+  "install": "npx -y whisper-windows-mcp"
+}

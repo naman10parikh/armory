@@ -1,0 +1,7 @@
+{
+  "name": "postcardbot-mcp-server",
+  "description": "Send real physical postcards worldwide via AI agents. Bulk send up to 500 recipients. Volume pricing from $0.72/card.",
+  "source_repo": "PostcardBot/mcp-server",
+  "source_url": "https://github.com/PostcardBot/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/PostcardBot/mcp-server\n# See source for mcpServers config block"
+}

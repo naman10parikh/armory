@@ -1,0 +1,7 @@
+{
+  "name": "ebowwa-xcode",
+  "description": "Integrates with Xcode development tools to execute xcodebuild commands, manage iOS/macOS simulators, and perform project operations through 25+ tools covering simulator management, building, testing, and file operations.",
+  "source_repo": "ebowwa/xcode-mcp",
+  "source_url": "https://github.com/ebowwa/xcode-mcp",
+  "install": "npx -y xcode-mcp"
+}

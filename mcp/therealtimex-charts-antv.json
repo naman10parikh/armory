@@ -1,0 +1,7 @@
+{
+  "name": "therealtimex-charts-antv",
+  "description": "Generate charts using AntV visualization library",
+  "source_repo": "therealtimex/charts-mcp",
+  "source_url": "https://github.com/therealtimex/charts-mcp",
+  "install": "npx -y charts-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "autonomad-travel",
+  "description": "AI travel agent for searching and booking flights, hotels, activities, and events worldwide.",
+  "source_repo": "autonomad1/autonomad-travel",
+  "source_url": "https://github.com/autonomad1/autonomad-travel",
+  "install": "# git clone --depth 1 https://github.com/autonomad1/autonomad-travel\n# See source for mcpServers config block"
+}

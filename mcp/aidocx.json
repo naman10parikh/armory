@@ -1,0 +1,7 @@
+{
+  "name": "aidocx",
+  "description": "Create, upload, and manage contracts with AI analysis and e-signatures.",
+  "source_repo": "aidocx/mcp-server",
+  "source_url": "https://github.com/aidocx/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/aidocx/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scrape-hub-koon-web-fetch",
+  "description": "Browser-impersonating web fetch that bypasses bot detection using Rust and BoringSSL.",
+  "source_repo": "scrape-hub/koon-mcp",
+  "source_url": "https://github.com/scrape-hub/koon-mcp",
+  "install": "npx -y koon-mcp"
+}

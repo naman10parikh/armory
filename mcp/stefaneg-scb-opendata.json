@@ -1,0 +1,7 @@
+{
+  "name": "stefaneg-scb-opendata",
+  "description": "Accesses Statistics Sweden's open data API for querying Swedish statistical databases and retrieving socioeconomic data.",
+  "source_repo": "stefaneg/scb-opendata-mcp",
+  "source_url": "https://github.com/stefaneg/scb-opendata-mcp",
+  "install": "npx -y scb-opendata-mcp"
+}

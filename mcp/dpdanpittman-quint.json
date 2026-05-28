@@ -1,0 +1,7 @@
+{
+  "name": "dpdanpittman-quint",
+  "description": "Wraps the Quint formal specification language CLI for type-checking, simulation, testing, exhaustive model checking via Apalache, and documentation lookup.",
+  "source_repo": "dpdanpittman/mcp-server-quint",
+  "source_url": "https://github.com/dpdanpittman/mcp-server-quint",
+  "install": "# git clone --depth 1 https://github.com/dpdanpittman/mcp-server-quint\n# See source for mcpServers config block"
+}

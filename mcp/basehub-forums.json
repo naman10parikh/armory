@@ -1,0 +1,7 @@
+{
+  "name": "basehub-forums",
+  "description": "Ask any GitHub repository a question. Get source-backed answers.",
+  "source_repo": "basehub-ai/forums",
+  "source_url": "https://github.com/basehub-ai/forums/tree/HEAD/apps/web",
+  "install": "# git clone --depth 1 https://github.com/basehub-ai/forums/tree/HEAD/apps/web\n# See source for mcpServers config block"
+}

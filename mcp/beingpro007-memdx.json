@@ -1,0 +1,7 @@
+{
+  "name": "beingpro007-memdx",
+  "description": "Provides local memory layer using Qdrant vector storage and Ollama embeddings for persistent context storage across conversations, automatically indexing project documentation and enabling user-defined memory segregation by project without requiring API keys or cloud dependencies.",
+  "source_repo": "beingpro007/memdx",
+  "source_url": "https://github.com/beingpro007/memdx",
+  "install": "# git clone --depth 1 https://github.com/beingpro007/memdx\n# See source for mcpServers config block"
+}

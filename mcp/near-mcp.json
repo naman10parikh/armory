@@ -1,0 +1,7 @@
+{
+  "name": "near-mcp",
+  "description": "Near Mcp MCP server listed on mcp.so.",
+  "source_repo": "nearai/near-mcp",
+  "source_url": "https://mcp.so/server/near-mcp/nearai",
+  "install": "npx -y near-mcp"
+}

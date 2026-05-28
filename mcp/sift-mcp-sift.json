@@ -1,0 +1,7 @@
+{
+  "name": "sift-mcp-sift",
+  "description": "Parses JUnit XML test reports to extract root causes, detect cascade failures, deduplicate errors via fingerprinting, and track failure history for test intelligence.",
+  "source_repo": "sift-mcp/sift-mcp",
+  "source_url": "https://github.com/sift-mcp/sift-mcp",
+  "install": "npx -y sift-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "finos-ai-governance-mcp-server",
+  "description": "Provides direct access to AI governance framework documents, risks, and mitigations from FINOS repositories, enabling research and risk management through natural language in Claude, VS Code, and other MCP-compatible tools.",
+  "source_repo": "finos/aigf-mcp-server",
+  "source_url": "https://github.com/finos/aigf-mcp-server",
+  "install": "npx -y aigf-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "everything",
+  "description": "This MCP server attempts to exercise all the features of the MCP protocol. It is not intended to be a useful server, but rather a test server for builders of MCP clients. It implements prompts, tools, resources, sampling, and more to showcase MCP capabilities.",
+  "source_repo": "modelcontextprotocol/servers",
+  "source_url": "https://github.com/modelcontextprotocol/servers/blob/main/src/everything/README.md",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers/blob/main/src/everything/README.md\n# See source for mcpServers config block"
+}

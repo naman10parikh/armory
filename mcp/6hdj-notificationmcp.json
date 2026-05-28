@@ -1,0 +1,7 @@
+{
+  "name": "6hdj-notificationmcp",
+  "description": "Control and read Android phone notifications via a local MCP server on-device.",
+  "source_repo": "6hdj/notificationmcp",
+  "source_url": "https://github.com/6hdj/notificationmcp",
+  "install": "# git clone --depth 1 https://github.com/6hdj/notificationmcp\n# See source for mcpServers config block"
+}

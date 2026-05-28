@@ -1,0 +1,7 @@
+{
+  "name": "ai-rules-mcp",
+  "description": "Ai Rules Mcp MCP server listed on mcp.so.",
+  "source_repo": "RonTrace/ai-rules-mcp",
+  "source_url": "https://mcp.so/server/ai-rules-mcp/RonTrace",
+  "install": "npx -y ai-rules-mcp"
+}

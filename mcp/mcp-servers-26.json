@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-26",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "devalexandre/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/devalexandre",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/devalexandre\n# See source for mcpServers config block"
+}

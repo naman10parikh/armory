@@ -1,0 +1,7 @@
+{
+  "name": "jstibal-openterms-mcp",
+  "description": "Ed25519-signed consent receipts and programmable policy engine for AI agents. Spending caps, action whitelists, escalation thresholds, and JWKS-backed provider verification. Independently verifiable.",
+  "source_repo": "jstibal/openterms-mcp",
+  "source_url": "https://github.com/jstibal/openterms-mcp",
+  "install": "npx -y openterms-mcp"
+}

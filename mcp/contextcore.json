@@ -1,0 +1,7 @@
+{
+  "name": "contextcore",
+  "description": "A local-first MCP server that indexes all your local files (text, code, images, audio, video) and provides hybrid search (BM25+embeddings) to retrieve only relevant chunks for AI tools, reducing token usage by over 57%.",
+  "source_repo": "lucifer-ux/Contextcore",
+  "source_url": "https://github.com/lucifer-ux/Contextcore",
+  "install": "# git clone --depth 1 https://github.com/lucifer-ux/Contextcore\n# See source for mcpServers config block"
+}

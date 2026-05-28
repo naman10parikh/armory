@@ -1,0 +1,7 @@
+{
+  "name": "agentry-agent-directory",
+  "description": "Search and compare 120+ AI agents across 12 categories in the Agentry directory.",
+  "source_repo": "",
+  "source_url": "https://agentry.com",
+  "install": "# git clone --depth 1 https://agentry.com\n# See source for mcpServers config block"
+}

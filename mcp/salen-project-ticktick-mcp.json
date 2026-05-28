@@ -1,0 +1,7 @@
+{
+  "name": "salen-project-ticktick-mcp",
+  "description": "[TickTick](https://ticktick.com/) MCP server using the official OAuth 2.0 API. Supports creating, listing, updating, completing, and deleting tasks. Includes a natural language skill for automatic task detection in Claude Cowork.",
+  "source_repo": "Salen-Project/ticktick-mcp",
+  "source_url": "https://github.com/Salen-Project/ticktick-mcp",
+  "install": "npx -y ticktick-mcp"
+}

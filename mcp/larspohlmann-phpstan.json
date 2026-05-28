@@ -1,0 +1,7 @@
+{
+  "name": "larspohlmann-phpstan",
+  "description": "Integrates PHPStan static analysis with two specialized tools for generating human-readable reports and raw JSON output, enabling automated code quality assessment and integration into development workflows.",
+  "source_repo": "larspohlmann/mcp-phpstan-server",
+  "source_url": "https://github.com/larspohlmann/mcp-phpstan-server",
+  "install": "# git clone --depth 1 https://github.com/larspohlmann/mcp-phpstan-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "testcal",
+  "description": "Enables users to get and set meeting appointments in Google Calendar.",
+  "source_repo": "avijeett007/kno2gether-mcp-servers",
+  "source_url": "https://github.com/avijeett007/kno2gether-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/avijeett007/kno2gether-mcp-servers\n# See source for mcpServers config block"
+}

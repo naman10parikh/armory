@@ -1,0 +1,7 @@
+{
+  "name": "sai4447-agentfuse",
+  "description": "Affiliate program management for AI agents, enabling program browsing, tracked link generation, and conversion logging.",
+  "source_repo": "sai4447/agentfuse-mcp",
+  "source_url": "https://github.com/sai4447/agentfuse-mcp",
+  "install": "npx -y agentfuse-mcp"
+}

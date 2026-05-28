@@ -1,0 +1,7 @@
+{
+  "name": "deep-shah-docling",
+  "description": "Integrates IBM's Docling software to parse and convert various document formats into standardized Markdown, enabling efficient document processing and analysis workflows.",
+  "source_repo": "deep070203/docling-mcp",
+  "source_url": "https://github.com/deep070203/docling-mcp",
+  "install": "npx -y docling-mcp"
+}

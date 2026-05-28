@@ -1,0 +1,7 @@
+{
+  "name": "diegocasallas-health-gemini",
+  "description": "Provides healthcare query tools using Google Gemini AI, including drug search, disease information lookup, and medical consultation via a .NET 8 server requiring a Gemini API key.",
+  "source_repo": "diegocasallas/healthgeminimcp.server",
+  "source_url": "https://github.com/diegocasallas/healthgeminimcp.server",
+  "install": "# git clone --depth 1 https://github.com/diegocasallas/healthgeminimcp.server\n# See source for mcpServers config block"
+}

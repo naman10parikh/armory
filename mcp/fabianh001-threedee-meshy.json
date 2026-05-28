@@ -1,0 +1,7 @@
+{
+  "name": "fabianh001-threedee-meshy",
+  "description": "Enables text-to-3D model generation through the Meshy API with tools for creating previews, refining models with PBR textures, and converting images to 3D objects.",
+  "source_repo": "fabianh001/threedee-mcp",
+  "source_url": "https://github.com/fabianh001/threedee-mcp",
+  "install": "npx -y threedee-mcp"
+}

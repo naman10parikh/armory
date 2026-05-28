@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-contenful",
+  "description": "MCP Server Contenful MCP server listed on mcp.so.",
+  "source_repo": "tejedamiguel6/MCP-server-Contenful",
+  "source_url": "https://mcp.so/server/MCP-server-Contenful/tejedamiguel6",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-server-Contenful/tejedamiguel6\n# See source for mcpServers config block"
+}

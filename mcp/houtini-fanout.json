@@ -1,0 +1,7 @@
+{
+  "name": "houtini-fanout",
+  "description": "Content gap analysis tool that identifies which user queries your content answers and which it misses",
+  "source_repo": "houtini-ai/fanout-mcp",
+  "source_url": "https://github.com/houtini-ai/fanout-mcp",
+  "install": "npx -y fanout-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "marissamarym-imessage",
+  "description": "Integrates with Apple's iMessage and Contacts services to enable messaging and contact management operations for automated communication workflows on Apple platforms.",
+  "source_repo": "marissamarym/imessage-mcp-server",
+  "source_url": "https://github.com/marissamarym/imessage-mcp-server",
+  "install": "npx -y imessage-mcp-server"
+}

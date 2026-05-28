@@ -1,0 +1,7 @@
+{
+  "name": "clamp-sh-mcp",
+  "description": "AI-native web analytics. Query pageviews, top pages, referrers, countries, devices, and custom events. Create conversion funnels and alerts.",
+  "source_repo": "clamp-sh/mcp",
+  "source_url": "https://github.com/clamp-sh/mcp",
+  "install": "# git clone --depth 1 https://github.com/clamp-sh/mcp\n# See source for mcpServers config block"
+}

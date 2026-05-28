@@ -1,0 +1,7 @@
+{
+  "name": "r00tkit77-nessus",
+  "description": "Transforms Nessus vulnerability scan data into prioritized remediation tasks by correlating CVEs with NVD, CISA KEV, and asset ownership data.",
+  "source_repo": "r00tkit77/nessus_mcp_server",
+  "source_url": "https://github.com/r00tkit77/nessus_mcp_server",
+  "install": "npx -y nessus_mcp_server"
+}

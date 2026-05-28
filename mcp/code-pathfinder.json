@@ -1,0 +1,7 @@
+{
+  "name": "code-pathfinder",
+  "description": "AI-native static code analysis with call graphs, data flow tracing, type inference, and symbol search for Python and Go.",
+  "source_repo": "shivasurya/code-pathfinder",
+  "source_url": "https://github.com/shivasurya/code-pathfinder",
+  "install": "# git clone --depth 1 https://github.com/shivasurya/code-pathfinder\n# See source for mcpServers config block"
+}

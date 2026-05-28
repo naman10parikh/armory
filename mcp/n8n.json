@@ -1,0 +1,7 @@
+{
+  "name": "n8n",
+  "description": "Integrates with n8n workflow automation platform to enable natural language management of workflows, executions, credentials, users, and projects with support for both core and enterprise features.",
+  "source_repo": "fellipesaraiva88/n8n-mcp-server",
+  "source_url": "https://github.com/fellipesaraiva88/n8n-mcp-server",
+  "install": "npx -y n8n-mcp-server"
+}

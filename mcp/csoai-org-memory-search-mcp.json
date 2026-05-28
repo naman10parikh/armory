@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-memory-search-mcp",
+  "description": "Python MCP server for persistent memory storage and semantic search.",
+  "source_repo": "csoai-org/memory-search-mcp",
+  "source_url": "https://github.com/csoai-org/memory-search-mcp",
+  "install": "npx -y memory-search-mcp"
+}

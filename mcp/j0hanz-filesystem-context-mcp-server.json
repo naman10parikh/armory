@@ -1,0 +1,7 @@
+{
+  "name": "j0hanz-filesystem-context-mcp-server",
+  "description": "Read-only MCP server for secure filesystem exploration, searching, and analysis with symlink protection.",
+  "source_repo": "j0hanz/filesystem-context-mcp-server",
+  "source_url": "https://github.com/j0hanz/filesystem-context-mcp-server",
+  "install": "npx -y filesystem-context-mcp-server"
+}

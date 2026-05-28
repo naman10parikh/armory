@@ -1,0 +1,7 @@
+{
+  "name": "mcp-officer",
+  "description": "Mcp Officer MCP server listed on mcp.so.",
+  "source_repo": "ziyacivan/mcp-officer",
+  "source_url": "https://mcp.so/server/mcp-officer/ziyacivan",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-officer/ziyacivan\n# See source for mcpServers config block"
+}

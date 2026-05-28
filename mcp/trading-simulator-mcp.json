@@ -1,0 +1,7 @@
+{
+  "name": "trading-simulator-mcp",
+  "description": "Trading Simulator Mcp MCP server listed on mcp.so.",
+  "source_repo": "recallnet/trading-simulator-mcp",
+  "source_url": "https://mcp.so/server/trading-simulator-mcp/recallnet",
+  "install": "npx -y trading-simulator-mcp"
+}

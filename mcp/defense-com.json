@@ -1,0 +1,7 @@
+{
+  "name": "defense-com",
+  "description": "Queries Defense.com's XDR threat intelligence platform for open threats, risk scores, remediation assignments, and detection events with natural language and 200+ source type aliases.",
+  "source_repo": "defensedotcom/defense-mcp-claude-extension",
+  "source_url": "https://github.com/defensedotcom/defense-mcp-claude-extension",
+  "install": "# git clone --depth 1 https://github.com/defensedotcom/defense-mcp-claude-extension\n# See source for mcpServers config block"
+}

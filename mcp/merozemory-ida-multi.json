@@ -1,0 +1,7 @@
+{
+  "name": "merozemory-ida-multi",
+  "description": "Orchestrates multiple IDA Pro instances through a centralized registry system, enabling concurrent binary analysis across different samples with automatic instance discovery and intelligent routing.",
+  "source_repo": "merozemory/ida-multi-mcp",
+  "source_url": "https://github.com/merozemory/ida-multi-mcp",
+  "install": "npx -y ida-multi-mcp"
+}

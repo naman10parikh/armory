@@ -1,0 +1,7 @@
+{
+  "name": "kvrancic-prime-intellect",
+  "description": "Unofficial MCP server for managing Prime Intellect GPU pods from Claude Code, with hard spending caps for safe autonomous operation.",
+  "source_repo": "kvrancic/prime-intellect-mcp",
+  "source_url": "https://github.com/kvrancic/prime-intellect-mcp",
+  "install": "npx -y prime-intellect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codebywagas-gitlab-mr-confluence-linker",
+  "description": "Bridges GitLab merge requests with Confluence documentation, enabling automatic retrieval, analysis, and structured documentation of code changes without leaving your conversation interface.",
+  "source_repo": "codebywaqas/mrconfluencelinker-mcp-server",
+  "source_url": "https://github.com/codebywaqas/mrconfluencelinker-mcp-server",
+  "install": "npx -y mrconfluencelinker-mcp-server"
+}

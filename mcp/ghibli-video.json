@@ -1,0 +1,7 @@
+{
+  "name": "ghibli-video",
+  "description": "Transforms static images into animated Ghibli-style videos through the GPT4O Image Generator API with tools for credit balance checking and task monitoring.",
+  "source_repo": "michaelyangjson/mcp-ghibli-video",
+  "source_url": "https://github.com/michaelyangjson/mcp-ghibli-video",
+  "install": "# git clone --depth 1 https://github.com/michaelyangjson/mcp-ghibli-video\n# See source for mcpServers config block"
+}

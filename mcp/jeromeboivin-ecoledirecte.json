@@ -1,0 +1,7 @@
+{
+  "name": "jeromeboivin-ecoledirecte",
+  "description": "Integrates with the EcoleDirecte French school management platform for accessing grades, schedules, and assignments.",
+  "source_repo": "jeromeboivin/ecoledirectemcp",
+  "source_url": "https://github.com/jeromeboivin/ecoledirectemcp",
+  "install": "# git clone --depth 1 https://github.com/jeromeboivin/ecoledirectemcp\n# See source for mcpServers config block"
+}

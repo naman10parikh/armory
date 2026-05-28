@@ -1,0 +1,7 @@
+{
+  "name": "danieleteti-dmvcframework-mcp",
+  "description": "MCP server implementation for Delphi applications using DMVCFramework, exposing tools, resources, and prompts via HTTP streamable and stdio transports.",
+  "source_repo": "danieleteti/mcp-server-delphi",
+  "source_url": "https://github.com/danieleteti/mcp-server-delphi",
+  "install": "# git clone --depth 1 https://github.com/danieleteti/mcp-server-delphi\n# See source for mcpServers config block"
+}

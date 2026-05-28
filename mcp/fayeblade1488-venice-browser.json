@@ -1,0 +1,7 @@
+{
+  "name": "fayeblade1488-venice-browser",
+  "description": "Provides web navigation capabilities through Playwright with support for multiple browsers, persistent session state, and configurable timeouts for automated testing, data extraction, and interactive web tasks.",
+  "source_repo": "fayeblade1488/fayeblade_mcp",
+  "source_url": "https://github.com/fayeblade1488/fayeblade_mcp",
+  "install": "npx -y fayeblade_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "maggie-geller-od",
+  "description": "MCP server for Dr. Maggie Geller's optometry practice providing information and appointment booking tools.",
+  "source_repo": "",
+  "source_url": "https://maggiegeller.com",
+  "install": "# git clone --depth 1 https://maggiegeller.com\n# See source for mcpServers config block"
+}

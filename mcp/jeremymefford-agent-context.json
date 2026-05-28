@@ -1,0 +1,7 @@
+{
+  "name": "jeremymefford-agent-context",
+  "description": "Rust-native code search MCP server for semantic, symbol, and lexical search across local repositories.",
+  "source_repo": "jeremymefford/agent-context-mcp",
+  "source_url": "https://github.com/jeremymefford/agent-context-mcp",
+  "install": "npx -y agent-context-mcp"
+}

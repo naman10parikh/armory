@@ -1,0 +1,7 @@
+{
+  "name": "factruesolin-image-edit-rmcp",
+  "description": "Rust-based image editing server integrating with ModelScope APIs for cropping, rotation, OCR, object detection, and image generation.",
+  "source_repo": "factruesolin/image-edit-rmcp",
+  "source_url": "https://github.com/factruesolin/image-edit-rmcp",
+  "install": "# git clone --depth 1 https://github.com/factruesolin/image-edit-rmcp\n# See source for mcpServers config block"
+}

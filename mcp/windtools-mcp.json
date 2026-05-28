@@ -1,0 +1,7 @@
+{
+  "name": "windtools-mcp",
+  "description": "Windtools Mcp MCP server listed on mcp.so.",
+  "source_repo": "ZahidGalea/windtools-mcp",
+  "source_url": "https://mcp.so/server/windtools-mcp/ZahidGalea",
+  "install": "npx -y windtools-mcp"
+}

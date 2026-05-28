@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-vk",
+  "description": "Integrates with VK social network API for accessing wall posts, searching content, retrieving user profiles, and browsing community data.",
+  "source_repo": "theyahia/vk-mcp",
+  "source_url": "https://github.com/theyahia/vk-mcp",
+  "install": "npx -y vk-mcp"
+}

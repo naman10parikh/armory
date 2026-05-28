@@ -1,0 +1,7 @@
+{
+  "name": "ssatama-rescuedogs-mcp-server",
+  "description": "Search and discover rescue dogs from European and UK organizations with AI-powered personality matching and detailed profiles.",
+  "source_repo": "ssatama/rescuedogs-mcp-server",
+  "source_url": "https://github.com/ssatama/rescuedogs-mcp-server",
+  "install": "npx -y rescuedogs-mcp-server"
+}

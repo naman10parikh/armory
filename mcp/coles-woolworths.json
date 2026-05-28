@@ -1,0 +1,7 @@
+{
+  "name": "coles-woolworths",
+  "description": "Integrates with Coles and Woolworths APIs to fetch real-time product information and prices, enabling grocery price comparison across Australia's two major supermarket chains for optimized shopping decisions.",
+  "source_repo": "hung-ngm/coles-woolworths-mcp-server",
+  "source_url": "https://github.com/hung-ngm/coles-woolworths-mcp-server",
+  "install": "npx -y coles-woolworths-mcp-server"
+}

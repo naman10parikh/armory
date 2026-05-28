@@ -1,0 +1,7 @@
+{
+  "name": "open-street-map",
+  "description": "Enhances LLM capabilities with location-based services and geospatial data from OpenStreetMap.",
+  "source_repo": "jagan-shanmugam/open-streetmap-mcp",
+  "source_url": "https://github.com/jagan-shanmugam/open-streetmap-mcp",
+  "install": "npx -y open-streetmap-mcp"
+}

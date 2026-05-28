@@ -1,0 +1,7 @@
+{
+  "name": "lyramakesmusic-loom",
+  "description": "Collaborative text exploration and completion through base model interactions for interactive content development",
+  "source_repo": "lyramakesmusic/loom-mcp",
+  "source_url": "https://github.com/lyramakesmusic/loom-mcp",
+  "install": "npx -y loom-mcp"
+}

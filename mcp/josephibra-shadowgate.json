@@ -1,0 +1,7 @@
+{
+  "name": "josephibra-shadowgate",
+  "description": "Security firewall for AI agents that scans MCP calls for prompt injection, secrets, and dangerous commands.",
+  "source_repo": "josephibra/shadowgate-mcp",
+  "source_url": "https://github.com/josephibra/shadowgate-mcp",
+  "install": "npx -y shadowgate-mcp"
+}

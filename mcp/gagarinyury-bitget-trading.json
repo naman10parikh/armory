@@ -1,0 +1,7 @@
+{
+  "name": "gagarinyury-bitget-trading",
+  "description": "Integrates with Bitget cryptocurrency exchange to provide complete trading functionality including market data retrieval, account management, order execution, futures operations, and real-time WebSocket feeds for both spot and derivatives markets.",
+  "source_repo": "gagarinyury/mcp-bitget-trading",
+  "source_url": "https://github.com/gagarinyury/mcp-bitget-trading",
+  "install": "# git clone --depth 1 https://github.com/gagarinyury/mcp-bitget-trading\n# See source for mcpServers config block"
+}

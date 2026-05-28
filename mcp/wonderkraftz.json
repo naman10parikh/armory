@@ -1,0 +1,7 @@
+{
+  "name": "wonderkraftz",
+  "description": "Premium gifting marketplace with product search, recommendations, cart management, and checkout via Shopify Storefront API.",
+  "source_repo": "rachit1987/wonderkraftz-mcp",
+  "source_url": "https://github.com/rachit1987/wonderkraftz-mcp",
+  "install": "npx -y wonderkraftz-mcp"
+}

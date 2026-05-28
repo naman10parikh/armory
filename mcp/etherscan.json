@@ -1,0 +1,7 @@
+{
+  "name": "etherscan",
+  "description": "Integrates with Etherscan's API to provide Ethereum blockchain data tools for checking balances, viewing transactions, tracking transfers, fetching contract ABIs, monitoring gas prices, and resolving ENS names.",
+  "source_repo": "otc-ai/mcp-otc",
+  "source_url": "https://github.com/otc-ai/mcp-otc",
+  "install": "# git clone --depth 1 https://github.com/otc-ai/mcp-otc\n# See source for mcpServers config block"
+}

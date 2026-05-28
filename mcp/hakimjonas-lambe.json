@@ -1,0 +1,7 @@
+{
+  "name": "hakimjonas-lambe",
+  "description": "Query, validate, and inspect JSON, YAML, TOML, HCL, XML, CSV, and TSV with a composable pipeline syntax.",
+  "source_repo": "hakimjonas/lambe",
+  "source_url": "https://github.com/hakimjonas/lambe",
+  "install": "# git clone --depth 1 https://github.com/hakimjonas/lambe\n# See source for mcpServers config block"
+}

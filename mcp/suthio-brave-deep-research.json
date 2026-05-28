@@ -1,0 +1,7 @@
+{
+  "name": "suthio-brave-deep-research",
+  "description": "Combines Brave Search with web scraping to provide deep research capabilities by extracting full content from pages and traversing links at configurable depths",
+  "source_repo": "suthio/brave-deep-research-mcp",
+  "source_url": "https://github.com/suthio/brave-deep-research-mcp",
+  "install": "npx -y brave-deep-research-mcp"
+}

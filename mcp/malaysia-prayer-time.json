@@ -1,0 +1,7 @@
+{
+  "name": "malaysia-prayer-time",
+  "description": "Provides accurate Islamic prayer times for Malaysia by integrating with the waktusolat.app API, offering tools to retrieve prayer schedules, list geographical zones, and get current prayer status information.",
+  "source_repo": "amanasmuei/mcp-server-malaysia-prayer-time",
+  "source_url": "https://github.com/amanasmuei/mcp-server-malaysia-prayer-time",
+  "install": "# git clone --depth 1 https://github.com/amanasmuei/mcp-server-malaysia-prayer-time\n# See source for mcpServers config block"
+}

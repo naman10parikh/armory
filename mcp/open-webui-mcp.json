@@ -1,0 +1,7 @@
+{
+  "name": "open-webui-mcp",
+  "description": "Exposes OpenWebUI's admin REST API as an MCP server, enabling administrative operations on OpenWebUI through natural language via MCP tools.",
+  "source_repo": "TETRA-2023/open-webui-mcp",
+  "source_url": "https://github.com/TETRA-2023/open-webui-mcp",
+  "install": "npx -y open-webui-mcp"
+}

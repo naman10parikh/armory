@@ -1,0 +1,7 @@
+{
+  "name": "keturiosakys-bluesky-context-server",
+  "description": "Query and analyze data from the decentralized social network.",
+  "source_repo": "laulauland/bluesky-context-server",
+  "source_url": "https://github.com/laulauland/bluesky-context-server",
+  "install": "# git clone --depth 1 https://github.com/laulauland/bluesky-context-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "index9",
+  "description": "Up-to-date model data for AI coding assistants",
+  "source_repo": "index9-org/mcp",
+  "source_url": "https://github.com/index9-org/mcp",
+  "install": "# git clone --depth 1 https://github.com/index9-org/mcp\n# See source for mcpServers config block"
+}

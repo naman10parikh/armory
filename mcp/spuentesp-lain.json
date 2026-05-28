@@ -1,0 +1,7 @@
+{
+  "name": "spuentesp-lain",
+  "description": "Rust-based code intelligence MCP server that builds queryable knowledge graphs of codebases for dependency analysis and semantic search.",
+  "source_repo": "spuentesp/lain",
+  "source_url": "https://github.com/spuentesp/lain",
+  "install": "# git clone --depth 1 https://github.com/spuentesp/lain\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-umami",
+  "description": "Integrates with Umami Analytics API v2 to provide comprehensive website statistics, visitor tracking, event management, custom reports, team administration, and real-time monitoring.",
+  "source_repo": "mikusnuz/umami-mcp",
+  "source_url": "https://github.com/mikusnuz/umami-mcp",
+  "install": "npx -y umami-mcp"
+}

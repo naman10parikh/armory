@@ -1,0 +1,7 @@
+{
+  "name": "albermm-phos-sales",
+  "description": "B2B lead generation with prospect discovery, ICP scoring, outreach, and pipeline management.",
+  "source_repo": "",
+  "source_url": "https://se.phos.nz/mcp/",
+  "install": "# git clone --depth 1 https://se.phos.nz/mcp/\n# See source for mcpServers config block"
+}

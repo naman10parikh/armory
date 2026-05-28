@@ -1,0 +1,7 @@
+{
+  "name": "adamikhq-adamik",
+  "description": "Integrates with the Adamik API to enable blockchain operations and custom AI functionalities via Starknet, supporting secure API key management and efficient request handling.",
+  "source_repo": "adamikhq/adamik-mcp-server",
+  "source_url": "https://github.com/adamikhq/adamik-mcp-server",
+  "install": "npx -y adamik-mcp-server"
+}

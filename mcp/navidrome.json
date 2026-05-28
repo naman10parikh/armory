@@ -1,0 +1,7 @@
+{
+  "name": "navidrome",
+  "description": "Integrates with Navidrome music servers to provide complete music library management including playlist creation, playback control, search functionality, listening history tracking, Last.fm integration for recommendations, Radio Browser for internet radio discovery, and LRCLIB for synchronized lyrics retrieval.",
+  "source_repo": "blakeem/navidrome-mcp",
+  "source_url": "https://github.com/blakeem/navidrome-mcp",
+  "install": "npx -y navidrome-mcp"
+}

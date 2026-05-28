@@ -1,0 +1,7 @@
+{
+  "name": "daobrewai-wellness",
+  "description": "Monitor biometric stress from Apple Watch and Oura Ring and trigger therapeutic breathing music sessions during coding.",
+  "source_repo": "daobrewai/daobrew-wellness-mcp",
+  "source_url": "https://github.com/daobrewai/daobrew-wellness-mcp",
+  "install": "npx -y daobrew-wellness-mcp"
+}

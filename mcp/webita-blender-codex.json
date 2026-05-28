@@ -1,0 +1,7 @@
+{
+  "name": "webita-blender-codex",
+  "description": "Codex-focused MCP server bridging AI agents with Blender 3D for scene inspection, Python execution, viewport screenshots, and GLB exports.",
+  "source_repo": "webita/blender-codex-mcp",
+  "source_url": "https://github.com/webita/blender-codex-mcp",
+  "install": "npx -y blender-codex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-mcp-server-2",
+  "description": "Enables natural language interaction with ServiceNow instances for managing incidents, changes, CMDB, service catalog, users, groups, and knowledge base via MCP.",
+  "source_repo": "kylburns89/servicenow-mcp-server",
+  "source_url": "https://github.com/kylburns89/servicenow-mcp-server",
+  "install": "npx -y servicenow-mcp-server"
+}

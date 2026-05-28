@@ -1,0 +1,7 @@
+{
+  "name": "ssemble",
+  "description": "Create AI-powered short-form video clips from YouTube videos with auto-curation and face tracking.",
+  "source_repo": "",
+  "source_url": "https://www.ssemble.com",
+  "install": "# git clone --depth 1 https://www.ssemble.com\n# See source for mcpServers config block"
+}

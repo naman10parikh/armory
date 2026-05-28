@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-ethers-wallet",
+  "description": "Integrates with Ethereum networks and smart contracts using ethers.js to enable wallet operations, transaction management, and blockchain interactions.",
+  "source_repo": "crazyrabbitltc/mcp-ethers-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-ethers-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-ethers-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jmeg8r-astgl-knowledge",
+  "description": "Search and cite ASTGL articles on local AI and automation.",
+  "source_repo": "jmeg8r/mcp-astgl-knowledge",
+  "source_url": "https://github.com/jmeg8r/mcp-astgl-knowledge",
+  "install": "# git clone --depth 1 https://github.com/jmeg8r/mcp-astgl-knowledge\n# See source for mcpServers config block"
+}

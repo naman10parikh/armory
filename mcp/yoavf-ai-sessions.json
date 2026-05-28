@@ -1,0 +1,7 @@
+{
+  "name": "yoavf-ai-sessions",
+  "description": "Provides unified access to local AI assistant CLI session histories from Claude Code, Gemini CLI, and OpenAI Codex with tools for listing, browsing, searching, and retrieving session transcripts across different storage formats for finding past solutions and resuming interrupted coding sessions.",
+  "source_repo": "yoavf/ai-sessions-mcp",
+  "source_url": "https://github.com/yoavf/ai-sessions-mcp",
+  "install": "npx -y ai-sessions-mcp"
+}

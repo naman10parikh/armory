@@ -1,0 +1,7 @@
+{
+  "name": "chuk-mcp-s3-bucket-manager",
+  "description": "The CHUK MCP S3 Bucket Manager is a Python-based tool for managing Amazon S3 buckets using the MCP runtime. This utility provides a simple interface for listing, creating, and deleting S3 buckets.",
+  "source_repo": "chrishayuk/chuk-mcp-s3-bucket-manager",
+  "source_url": "https://github.com/chrishayuk/chuk-mcp-s3-bucket-manager",
+  "install": "# git clone --depth 1 https://github.com/chrishayuk/chuk-mcp-s3-bucket-manager\n# See source for mcpServers config block"
+}

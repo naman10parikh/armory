@@ -1,0 +1,7 @@
+{
+  "name": "llm-brand-monitor",
+  "description": "Track how 350+ AI models mention your brand — monitor visibility, sentiment, and competitor mentions.",
+  "source_repo": "serpstatglobal/llm-brand-monitor-mcp",
+  "source_url": "https://github.com/serpstatglobal/llm-brand-monitor-mcp",
+  "install": "npx -y llm-brand-monitor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kazuph-youtube-subtitle-query",
+  "description": "Integrates YouTube subtitle retrieval for natural language queries about video content.",
+  "source_repo": "kazuph/mcp-youtube",
+  "source_url": "https://github.com/kazuph/mcp-youtube",
+  "install": "# git clone --depth 1 https://github.com/kazuph/mcp-youtube\n# See source for mcpServers config block"
+}

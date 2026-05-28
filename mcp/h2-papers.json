@@ -1,0 +1,7 @@
+{
+  "name": "h2-papers",
+  "description": "Search PubMed molecular hydrogen medical literature with delivery-aware safety notes.",
+  "source_repo": "h2-papers/h2-papers-mcp-server",
+  "source_url": "https://github.com/h2-papers/h2-papers-mcp-server",
+  "install": "npx -y h2-papers-mcp-server"
+}

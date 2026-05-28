@@ -1,0 +1,7 @@
+{
+  "name": "lobbywatch-mcp",
+  "description": "An MCP server that connects AI models to the Lobbywatch.ch database, providing access to Swiss parliamentarians' conflicts of interest, lobby groups, access badges, and transparency scores.",
+  "source_repo": "malkreide/lobbywatch-mcp",
+  "source_url": "https://github.com/malkreide/lobbywatch-mcp",
+  "install": "npx -y lobbywatch-mcp"
+}

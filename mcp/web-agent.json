@@ -1,0 +1,7 @@
+{
+  "name": "web-agent",
+  "description": "AI-powered web automation. Navigate websites using AI agents for one page or a thousand.",
+  "source_repo": "",
+  "source_url": "https://tinyfish.ai",
+  "install": "# git clone --depth 1 https://tinyfish.ai\n# See source for mcpServers config block"
+}

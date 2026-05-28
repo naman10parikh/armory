@@ -1,0 +1,7 @@
+{
+  "name": "zbd-mcp-server",
+  "description": "Zbd Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "zebedeeio/zbd-mcp-server",
+  "source_url": "https://mcp.so/server/zbd-mcp-server/zebedeeio",
+  "install": "npx -y zbd-mcp-server"
+}

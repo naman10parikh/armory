@@ -1,0 +1,7 @@
+{
+  "name": "agentcraft-mcp",
+  "description": "Agentcraft Mcp MCP server listed on mcp.so.",
+  "source_repo": "seyhunak/agentcraft-mcp",
+  "source_url": "https://mcp.so/server/agentcraft-mcp/seyhunak",
+  "install": "npx -y agentcraft-mcp"
+}

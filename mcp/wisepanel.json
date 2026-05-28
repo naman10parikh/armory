@@ -1,0 +1,7 @@
+{
+  "name": "wisepanel",
+  "description": "Multi-agent deliberation platform running panels across Claude, Gemini, and Perplexity with real-time streaming.",
+  "source_repo": "ikoskela/wisepanel-mcp",
+  "source_url": "https://github.com/ikoskela/wisepanel-mcp",
+  "install": "npx -y wisepanel-mcp"
+}

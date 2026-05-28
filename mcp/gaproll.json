@@ -1,0 +1,7 @@
+{
+  "name": "gaproll",
+  "description": "EU Directive 2023/970 (Pay Transparency) compliance tools for Polish employers. Check deadlines by headcount, get penalty information, and calculate your compliance risk score. Free, no auth required.",
+  "source_repo": "",
+  "source_url": "https://gaproll.eu",
+  "install": "# git clone --depth 1 https://gaproll.eu\n# See source for mcpServers config block"
+}

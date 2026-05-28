@@ -1,0 +1,7 @@
+{
+  "name": "llmsresearch-paperbanana",
+  "description": "Generates publication-quality methodology diagrams and statistical plots from text descriptions using a multi-agent pipeline with specialized agents for retrieval, planning, styling, visualization, and iterative refinement.",
+  "source_repo": "llmsresearch/paperbanana",
+  "source_url": "https://github.com/llmsresearch/paperbanana",
+  "install": "# git clone --depth 1 https://github.com/llmsresearch/paperbanana\n# See source for mcpServers config block"
+}

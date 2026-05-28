@@ -1,0 +1,7 @@
+{
+  "name": "applianceiq",
+  "description": "Home appliance assistant with CPSC recall lookup, lifespan data, maintenance schedules, repair-or-replace analysis, and energy cost estimates.",
+  "source_repo": "chrisbusbin-pixel/applianceiq-mcp-server",
+  "source_url": "https://github.com/chrisbusbin-pixel/applianceiq-mcp-server",
+  "install": "npx -y applianceiq-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-linkedin",
+  "description": "Mcp Server Linkedin MCP server listed on mcp.so.",
+  "source_repo": "fredericbarthelet/mcp-server-linkedin",
+  "source_url": "https://mcp.so/server/mcp-server-linkedin/fredericbarthelet",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-linkedin/fredericbarthelet\n# See source for mcpServers config block"
+}

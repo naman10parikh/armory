@@ -1,0 +1,7 @@
+{
+  "name": "princegabriel-lgtm-freshcontext-mcp",
+  "description": "Real-time web intelligence with freshness timestamps. GitHub, HN, Scholar, arXiv, YC, jobs, finance, package trends — every result stamped with how old it is.",
+  "source_repo": "PrinceGabriel-lgtm/freshcontext-mcp",
+  "source_url": "https://github.com/PrinceGabriel-lgtm/freshcontext-mcp",
+  "install": "npx -y freshcontext-mcp"
+}

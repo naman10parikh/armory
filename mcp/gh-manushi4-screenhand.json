@@ -1,0 +1,7 @@
+{
+  "name": "gh-manushi4-screenhand",
+  "description": "Native desktop control for MCP agents.",
+  "source_repo": "manushi4/screenhand",
+  "source_url": "https://github.com/manushi4/screenhand",
+  "install": "# git clone --depth 1 https://github.com/manushi4/screenhand\n# See source for mcpServers config block"
+}

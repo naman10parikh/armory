@@ -1,0 +1,7 @@
+{
+  "name": "hollobit-korean-national-assembly",
+  "description": "Queries the Korean National Assembly's open data API for legislative and parliamentary information.",
+  "source_repo": "hollobit/assembly-api-mcp",
+  "source_url": "https://github.com/hollobit/assembly-api-mcp",
+  "install": "npx -y assembly-api-mcp"
+}

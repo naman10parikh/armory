@@ -1,0 +1,7 @@
+{
+  "name": "empresa-mcp-demo",
+  "description": "Demonstration MCP server for Claude Team integration, enabling querying of sample business data (orders, clients, products) and real-time currency exchange rates through natural language.",
+  "source_repo": "ENtiemEN/empresa-mcp-demo",
+  "source_url": "https://github.com/ENtiemEN/empresa-mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/ENtiemEN/empresa-mcp-demo\n# See source for mcpServers config block"
+}

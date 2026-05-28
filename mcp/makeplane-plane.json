@@ -1,0 +1,7 @@
+{
+  "name": "makeplane-plane",
+  "description": "Integrates with Plane's project management APIs to enable creation and management of projects, issues, cycles, modules, and work logs through over 30 specialized tools for automating workflow tasks.",
+  "source_repo": "makeplane/plane-mcp-server",
+  "source_url": "https://github.com/makeplane/plane-mcp-server",
+  "install": "npx -y plane-mcp-server"
+}

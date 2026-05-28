@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-trakt",
+  "description": "Trakt TV and movie metadata, watch history, and tracking signals via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-trakt",
+  "source_url": "https://github.com/pipeworx-io/mcp-trakt",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-trakt\n# See source for mcpServers config block"
+}

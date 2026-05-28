@@ -1,0 +1,7 @@
+{
+  "name": "samihalawa-brevo",
+  "description": "Integrates with Brevo's email marketing and CRM platform to manage contacts, send transactional and campaign emails, handle SMS and WhatsApp messaging, manage deals and tasks, and automate customer communication workflows.",
+  "source_repo": "samihalawa/brevo-mcp",
+  "source_url": "https://github.com/samihalawa/brevo-mcp",
+  "install": "npx -y brevo-mcp"
+}

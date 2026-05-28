@@ -1,0 +1,7 @@
+{
+  "name": "lemmaoracle-lemma",
+  "description": "Query ZK-verified attributes, selective disclosure, and on-chain provenance from Lemma Oracle.",
+  "source_repo": "lemmaoracle/lemma",
+  "source_url": "https://github.com/lemmaoracle/lemma/tree/HEAD/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/lemmaoracle/lemma/tree/HEAD/packages/mcp\n# See source for mcpServers config block"
+}

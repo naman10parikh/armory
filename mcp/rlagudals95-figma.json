@@ -1,0 +1,7 @@
+{
+  "name": "rlagudals95-figma",
+  "description": "Provides a bridge to the Figma design platform, enabling retrieval of detailed design file information, node metadata, and image assets through a flexible TypeScript implementation supporting both stdio and HTTP/SSE transports.",
+  "source_repo": "rlagudals95/mcp_figma",
+  "source_url": "https://github.com/rlagudals95/mcp_figma",
+  "install": "# git clone --depth 1 https://github.com/rlagudals95/mcp_figma\n# See source for mcpServers config block"
+}

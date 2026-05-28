@@ -1,0 +1,7 @@
+{
+  "name": "juniper-routing-director",
+  "description": "Provides intelligent access to Juniper's Routing Director for network routing, optimization, and intelligence.",
+  "source_repo": "juniper/routing-director-mcp-server",
+  "source_url": "https://github.com/juniper/routing-director-mcp-server",
+  "install": "npx -y routing-director-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nj19257-fastskills",
+  "description": "Standalone skill engine that gives any MCP-compatible agent discovery and execution of SKILL.md playbooks without framework lock-in.",
+  "source_repo": "nj19257/fastskills",
+  "source_url": "https://github.com/nj19257/fastskills",
+  "install": "# git clone --depth 1 https://github.com/nj19257/fastskills\n# See source for mcpServers config block"
+}

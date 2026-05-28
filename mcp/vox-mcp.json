@@ -1,0 +1,7 @@
+{
+  "name": "vox-mcp",
+  "description": "Enables MCP clients like Claude Code and Cursor to use multiple AI models (Gemini, GPT, Grok, DeepSeek, Kimi, Ollama) via a unified chat tool with conversation memory.",
+  "source_repo": "linxule/vox-mcp",
+  "source_url": "https://github.com/linxule/vox-mcp",
+  "install": "npx -y vox-mcp"
+}

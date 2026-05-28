@@ -1,0 +1,7 @@
+{
+  "name": "mafzaal-d365fo",
+  "description": "Python client library for Microsoft Dynamics 365 Finance & Operations",
+  "source_repo": "mafzaal/d365fo-client",
+  "source_url": "https://github.com/mafzaal/d365fo-client",
+  "install": "# git clone --depth 1 https://github.com/mafzaal/d365fo-client\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "muhannad-hash-mcp-shield",
+  "description": "Security scanner for MCP servers. Detects backdoors, exfiltration code, obfuscation, dangerous code execution, prompt injection, and supply chain risks before you install. Four tools: scan npm packages, scan local directories, check prompt injection, and audit supply chain trust score. `npx @muhannad-hash/mcp-shield`",
+  "source_repo": "muhannad-hash/mcp-shield",
+  "source_url": "https://github.com/muhannad-hash/mcp-shield",
+  "install": "# git clone --depth 1 https://github.com/muhannad-hash/mcp-shield\n# See source for mcpServers config block"
+}

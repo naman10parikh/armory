@@ -1,0 +1,7 @@
+{
+  "name": "deathwalker-47-openai-compat",
+  "description": "Routes MCP tool calls to any OpenAI-compatible chat or completions API backend.",
+  "source_repo": "deathwalker-47/openai-compat-mcp",
+  "source_url": "https://github.com/deathwalker-47/openai-compat-mcp",
+  "install": "npx -y openai-compat-mcp"
+}

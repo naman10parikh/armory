@@ -1,0 +1,7 @@
+{
+  "name": "a-tarasoff-zenmoney",
+  "description": "Access ZenMoney personal finance data including accounts, transactions, categories, and cross-currency transfers.",
+  "source_repo": "artarasov/zenmoney-mcp",
+  "source_url": "https://github.com/artarasov/zenmoney-mcp",
+  "install": "npx -y zenmoney-mcp"
+}

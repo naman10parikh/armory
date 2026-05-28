@@ -1,0 +1,7 @@
+{
+  "name": "gh-flashy-flashy-mcp",
+  "description": "Access Flashy email and SMS marketing platform for campaign management and analytics.",
+  "source_repo": "flashy/flashy-mcp",
+  "source_url": "https://github.com/flashy/flashy-mcp",
+  "install": "npx -y flashy-mcp"
+}

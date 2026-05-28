@@ -1,0 +1,7 @@
+{
+  "name": "heygen-mcp-server",
+  "description": "Enables AI assistants to generate AI avatar videos, manage templates, and work with assets through natural language commands via the HeyGen API.",
+  "source_repo": "sbroenne/heygen-mcp",
+  "source_url": "https://github.com/sbroenne/heygen-mcp",
+  "install": "npx -y heygen-mcp"
+}

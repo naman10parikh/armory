@@ -1,0 +1,7 @@
+{
+  "name": "zzzccs123-baidu-baike",
+  "description": "Retrieves and renders Baidu Baike encyclopedia entries directly within conversations, providing access to Chinese-language reference information through a TypeScript-based server.",
+  "source_repo": "zzzccs123/mcp-baike-render",
+  "source_url": "https://github.com/zzzccs123/mcp-baike-render",
+  "install": "# git clone --depth 1 https://github.com/zzzccs123/mcp-baike-render\n# See source for mcpServers config block"
+}

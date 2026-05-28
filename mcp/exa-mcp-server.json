@@ -1,0 +1,7 @@
+{
+  "name": "exa-mcp-server",
+  "description": "Enables AI assistants like Claude to perform web searches using the Exa AI Search API, providing real-time structured search results.",
+  "source_repo": "theishangoswami/exa-mcp-server",
+  "source_url": "https://github.com/theishangoswami/exa-mcp-server",
+  "install": "npx -y exa-mcp-server"
+}

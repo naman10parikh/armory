@@ -1,0 +1,7 @@
+{
+  "name": "baronsengir007-openclaw",
+  "description": "Score Solana wallet trustworthiness using on-chain activity analysis.",
+  "source_repo": "baronsengir007/openclaw-trust-scorer",
+  "source_url": "https://github.com/baronsengir007/openclaw-trust-scorer",
+  "install": "# git clone --depth 1 https://github.com/baronsengir007/openclaw-trust-scorer\n# See source for mcpServers config block"
+}

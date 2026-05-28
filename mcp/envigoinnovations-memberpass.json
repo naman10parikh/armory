@@ -1,0 +1,7 @@
+{
+  "name": "envigoinnovations-memberpass",
+  "description": "Connect AI assistants to MemberPass Telegram community monetization with 42 tools for projects, subscriptions, members, payments, and webhooks.",
+  "source_repo": "envigoinnovations/memberpass-mcp",
+  "source_url": "https://github.com/envigoinnovations/memberpass-mcp",
+  "install": "npx -y memberpass-mcp"
+}

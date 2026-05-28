@@ -1,0 +1,7 @@
+{
+  "name": "lling0000-siftmarks",
+  "description": "Local bookmark management MCP server exposing a personal bookmark library to AI clients with search and organization tools.",
+  "source_repo": "lling0000/siftmarks",
+  "source_url": "https://github.com/lling0000/siftmarks",
+  "install": "# git clone --depth 1 https://github.com/lling0000/siftmarks\n# See source for mcpServers config block"
+}

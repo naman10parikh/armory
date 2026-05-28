@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-spanning",
+  "description": "Manage Spanning Cloud Backup for Microsoft 365, Google Workspace, and Salesforce.",
+  "source_repo": "wyre-technology/spanning-mcp",
+  "source_url": "https://github.com/wyre-technology/spanning-mcp",
+  "install": "npx -y spanning-mcp"
+}

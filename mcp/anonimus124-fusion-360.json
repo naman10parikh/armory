@@ -1,0 +1,7 @@
+{
+  "name": "anonimus124-fusion-360",
+  "description": "Controls Autodesk Fusion 360 CAD operations including sketching, 3D modeling, assemblies, and file export through a local bridge add-in.",
+  "source_repo": "anonimus124/fusion-mcp",
+  "source_url": "https://github.com/anonimus124/fusion-mcp",
+  "install": "npx -y fusion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "almogqwinz-amadeus",
+  "description": "Integrates with Amadeus travel API to search flight offers with comprehensive filtering by airports, dates, passengers, travel class, airlines, and pricing constraints for travel planning and booking workflows.",
+  "source_repo": "almogqwinz/mcp-amadeus-api",
+  "source_url": "https://github.com/almogqwinz/mcp-amadeus-api",
+  "install": "# git clone --depth 1 https://github.com/almogqwinz/mcp-amadeus-api\n# See source for mcpServers config block"
+}

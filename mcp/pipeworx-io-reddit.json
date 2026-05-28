@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-reddit",
+  "description": "Public Reddit data access for subreddit posts, search, and comment retrieval without authentication.",
+  "source_repo": "pipeworx-io/mcp-reddit",
+  "source_url": "https://github.com/pipeworx-io/mcp-reddit",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-reddit\n# See source for mcpServers config block"
+}

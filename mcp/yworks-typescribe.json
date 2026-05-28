@@ -1,0 +1,7 @@
+{
+  "name": "yworks-typescribe",
+  "description": "Provides a bridge between TypeScript API documentation and natural language queries, enabling developers to search symbols, explore type hierarchies, find implementations, and examine function parameters for complex TypeScript codebases.",
+  "source_repo": "yworks/mcp-typescribe",
+  "source_url": "https://github.com/yworks/mcp-typescribe",
+  "install": "# git clone --depth 1 https://github.com/yworks/mcp-typescribe\n# See source for mcpServers config block"
+}

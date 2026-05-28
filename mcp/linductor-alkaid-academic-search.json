@@ -1,0 +1,7 @@
+{
+  "name": "linductor-alkaid-academic-search",
+  "description": "Searches Semantic Scholar, arXiv, and OpenAlex for academic papers with citation metrics and impact factors.",
+  "source_repo": "linductor-alkaid/academic-search-mcp",
+  "source_url": "https://github.com/linductor-alkaid/academic-search-mcp",
+  "install": "npx -y academic-search-mcp"
+}

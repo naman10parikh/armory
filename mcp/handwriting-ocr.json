@@ -1,0 +1,7 @@
+{
+  "name": "handwriting-ocr",
+  "description": "Integrates with Handwriting OCR API to extract and digitize text from handwritten documents in various image formats, enabling conversion of physical notes and manuscripts into editable text.",
+  "source_repo": "handwriting-ocr/handwriting-ocr-mcp-server",
+  "source_url": "https://github.com/handwriting-ocr/handwriting-ocr-mcp-server",
+  "install": "npx -y handwriting-ocr-mcp-server"
+}

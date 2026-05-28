@@ -1,0 +1,7 @@
+{
+  "name": "neverinfamous-memory-journal",
+  "description": "Developer journal with knowledge graphs, Git context, and semantic search",
+  "source_repo": "neverinfamous/memory-journal-mcp",
+  "source_url": "https://github.com/neverinfamous/memory-journal-mcp",
+  "install": "npx -y memory-journal-mcp"
+}

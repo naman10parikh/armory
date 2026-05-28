@@ -1,0 +1,7 @@
+{
+  "name": "robotfleet-security-orchestra",
+  "description": "Deterministic data center infrastructure calculator with 50+ agents covering power, cooling, network, and compliance analysis.",
+  "source_repo": "robotfleet-hq/security-orchestra",
+  "source_url": "https://github.com/robotfleet-hq/security-orchestra",
+  "install": "# git clone --depth 1 https://github.com/robotfleet-hq/security-orchestra\n# See source for mcpServers config block"
+}

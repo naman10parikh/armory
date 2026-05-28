@@ -1,0 +1,7 @@
+{
+  "name": "gabbo01-zeek",
+  "description": "Provides a bridge between Zeek network security monitor and language models for executing PCAP file analysis, log parsing, and converting tabular output into structured data formats without requiring direct command-line interaction.",
+  "source_repo": "gabbo01/zeek-mcp",
+  "source_url": "https://github.com/gabbo01/zeek-mcp",
+  "install": "npx -y zeek-mcp"
+}

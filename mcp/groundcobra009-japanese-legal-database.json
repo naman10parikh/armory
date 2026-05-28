@@ -1,0 +1,7 @@
+{
+  "name": "groundcobra009-japanese-legal-database",
+  "description": "Integrates with Japan's official e-Gov legal database to provide search and retrieval of Japanese laws and regulations for legal research, compliance checking, and regulatory analysis.",
+  "source_repo": "groundcobra009/hourei-mcp-server",
+  "source_url": "https://github.com/groundcobra009/hourei-mcp-server",
+  "install": "npx -y hourei-mcp-server"
+}

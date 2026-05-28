@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-nist-nvd",
+  "description": "Search and audit NIST National Vulnerability Database CVEs by keyword, severity, CWE, CISA KEV status, and CPE.",
+  "source_repo": "cyanheads/nist-nvd-mcp-server",
+  "source_url": "https://github.com/cyanheads/nist-nvd-mcp-server",
+  "install": "npx -y nist-nvd-mcp-server"
+}

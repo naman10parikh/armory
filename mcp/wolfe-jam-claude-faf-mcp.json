@@ -1,0 +1,7 @@
+{
+  "name": "wolfe-jam-claude-faf-mcp",
+  "description": "First & only persistent project context MCP. Provides .faf (Foundational AI-context Format) Project DNA with 33+ tools, Podium scoring (0-100%), and format-driven architecture. Official Anthropic Registry. 10k+ npm downloads.",
+  "source_repo": "Wolfe-Jam/claude-faf-mcp",
+  "source_url": "https://github.com/Wolfe-Jam/claude-faf-mcp",
+  "install": "npx -y claude-faf-mcp"
+}

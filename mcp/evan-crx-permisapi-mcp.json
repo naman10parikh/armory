@@ -1,0 +1,7 @@
+{
+  "name": "evan-crx-permisapi-mcp",
+  "description": "7 tools for French open-data building permits (Sitadel, 311k rows, ~2M permits/year, Etalab license). Search, details, DVF transactions cross-ref, real estate dealer opportunity score, PLU urban zoning, BRGM natural and technological risks, and a Vue 360 composite that fans out 6 sub-fetches in one tool call. Powered by [permisapi.fr](https://permisapi.fr). Plan Free covers basic search and details, Pro+ unlocks the enrichments. Install: `pip install permisapi-mcp`.",
+  "source_repo": "Evan-Crx/permisapi-mcp",
+  "source_url": "https://github.com/Evan-Crx/permisapi-mcp",
+  "install": "npx -y permisapi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kunihiros-uniquity",
+  "description": "Analyzes GitHub repositories for code similarities, returning detailed reports in Markdown format",
+  "source_repo": "kunihiros/uniquity-mcp",
+  "source_url": "https://github.com/kunihiros/uniquity-mcp",
+  "install": "npx -y uniquity-mcp"
+}

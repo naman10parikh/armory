@@ -1,0 +1,7 @@
+{
+  "name": "tywenk-solana",
+  "description": "Integrates Solana blockchain with natural language commands to enable querying balances, handling transactions, and retrieving blockchain data.",
+  "source_repo": "tywenk/mcp-sol",
+  "source_url": "https://github.com/tywenk/mcp-sol",
+  "install": "# git clone --depth 1 https://github.com/tywenk/mcp-sol\n# See source for mcpServers config block"
+}

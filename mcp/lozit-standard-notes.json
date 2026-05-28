@@ -1,0 +1,7 @@
+{
+  "name": "lozit-standard-notes",
+  "description": "Encrypted read/write access to Standard Notes vaults with local-only decryption via stdio.",
+  "source_repo": "lozit/mcp-standardnotes",
+  "source_url": "https://github.com/lozit/mcp-standardnotes",
+  "install": "# git clone --depth 1 https://github.com/lozit/mcp-standardnotes\n# See source for mcpServers config block"
+}

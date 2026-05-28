@@ -1,0 +1,7 @@
+{
+  "name": "fanfou-mcp",
+  "description": "基于 FastMCP 构建的饭否 MCP 服务器，提供饭否时间线、用户、发布等工具和服务。",
+  "source_repo": "kingcos/fanfou-mcp",
+  "source_url": "https://github.com/kingcos/fanfou-mcp",
+  "install": "npx -y fanfou-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brightsite",
+  "description": "Manage BrightSite websites from AI agents — pages, blog posts, components, forms, media, and analytics via MCP.",
+  "source_repo": "brightsitehq/brightsite-mcp",
+  "source_url": "https://github.com/brightsitehq/brightsite-mcp",
+  "install": "npx -y brightsite-mcp"
+}

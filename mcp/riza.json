@@ -1,0 +1,7 @@
+{
+  "name": "riza",
+  "description": "Provides a secure bridge between LLMs and Riza's isolated code interpreter API, enabling writing, saving, editing, and executing code safely in a sandboxed environment with persistent tool management across conversations.",
+  "source_repo": "riza-io/riza-mcp",
+  "source_url": "https://github.com/riza-io/riza-mcp",
+  "install": "npx -y riza-mcp"
+}

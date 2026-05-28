@@ -1,0 +1,7 @@
+{
+  "name": "substack-mcp-server",
+  "description": "Substack Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Greg-Swiftomatic/substack-mcp-server",
+  "source_url": "https://mcp.so/server/substack-mcp-server/Greg-Swiftomatic",
+  "install": "npx -y substack-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "johnzfitch-pyghidra-lite",
+  "description": "Token-efficient Ghidra reverse engineering with decompilation, Swift/ObjC, ELF/Mach-O, and async progress support.",
+  "source_repo": "johnzfitch/pyghidra-lite",
+  "source_url": "https://github.com/johnzfitch/pyghidra-lite",
+  "install": "# git clone --depth 1 https://github.com/johnzfitch/pyghidra-lite\n# See source for mcpServers config block"
+}

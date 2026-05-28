@@ -1,0 +1,7 @@
+{
+  "name": "meta-mcp-server",
+  "description": "Meta Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "infinitimeless/meta-mcp-server",
+  "source_url": "https://mcp.so/server/meta-mcp-server/infinitimeless",
+  "install": "npx -y meta-mcp-server"
+}

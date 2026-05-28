@@ -1,0 +1,7 @@
+{
+  "name": "alisaitteke-docker",
+  "description": "MCP server for managing Docker containers, images, networks, volumes, and registries",
+  "source_repo": "alisaitteke/docker-mcp",
+  "source_url": "https://github.com/alisaitteke/docker-mcp",
+  "install": "npx -y docker-mcp"
+}

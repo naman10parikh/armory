@@ -1,0 +1,7 @@
+{
+  "name": "gh-moejeaux-nexflow-smf",
+  "description": "Smart Meta-Facilitator for x402 payments on Base: route, verify, and settle crypto payments.",
+  "source_repo": "nexflow-smf/nexflow-smf-public",
+  "source_url": "https://github.com/nexflow-smf/nexflow-smf-public",
+  "install": "# git clone --depth 1 https://github.com/nexflow-smf/nexflow-smf-public\n# See source for mcpServers config block"
+}

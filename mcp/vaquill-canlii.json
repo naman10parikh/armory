@@ -1,0 +1,7 @@
+{
+  "name": "vaquill-canlii",
+  "description": "Search Canadian case law and legislation metadata across federal, provincial, and territorial jurisdictions via CanLII.",
+  "source_repo": "vaquill-ai/canlii-mcp",
+  "source_url": "https://github.com/vaquill-ai/canlii-mcp",
+  "install": "npx -y canlii-mcp"
+}

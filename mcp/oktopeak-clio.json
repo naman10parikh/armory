@@ -1,0 +1,7 @@
+{
+  "name": "oktopeak-clio",
+  "description": "Access Clio legal practice management data including matters, contacts, documents, tasks, calendar entries, time logs, and billing.",
+  "source_repo": "oktopeak/clio-mcp",
+  "source_url": "https://github.com/oktopeak/clio-mcp",
+  "install": "npx -y clio-mcp"
+}

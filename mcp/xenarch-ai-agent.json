@@ -1,0 +1,7 @@
+{
+  "name": "xenarch-ai-agent",
+  "description": "Make x402 micropayments in USDC on Base from AI coding environments.",
+  "source_repo": "xenarch-ai/xenarch-mcp",
+  "source_url": "https://github.com/xenarch-ai/xenarch-mcp",
+  "install": "npx -y xenarch-mcp"
+}

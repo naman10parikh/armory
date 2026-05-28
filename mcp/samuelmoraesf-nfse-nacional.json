@@ -1,0 +1,7 @@
+{
+  "name": "samuelmoraesf-nfse-nacional",
+  "description": "Query Brazilian electronic invoices (NFSe) from the national portal nfse.gov.br.",
+  "source_repo": "samuelmoraesf/mcp-nfse-nacional",
+  "source_url": "https://github.com/samuelmoraesf/mcp-nfse-nacional",
+  "install": "# git clone --depth 1 https://github.com/samuelmoraesf/mcp-nfse-nacional\n# See source for mcpServers config block"
+}

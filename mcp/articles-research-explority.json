@@ -1,0 +1,7 @@
+{
+  "name": "articles-research-explority",
+  "description": "Queries early-stage orphan drug therapies ranked by success potential for rare disease research.",
+  "source_repo": "articles-research/explority-mcp",
+  "source_url": "https://github.com/articles-research/explority-mcp",
+  "install": "npx -y explority-mcp"
+}

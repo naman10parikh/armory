@@ -1,0 +1,7 @@
+{
+  "name": "aborroy-alfresco-content-services",
+  "description": "Integrates Alfresco's content management, enabling intelligent document processing and automated metadata extraction.",
+  "source_repo": "aborroy/alfresco-mcp-poc",
+  "source_url": "https://github.com/aborroy/alfresco-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/aborroy/alfresco-mcp-poc\n# See source for mcpServers config block"
+}

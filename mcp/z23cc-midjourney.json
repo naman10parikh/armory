@@ -1,0 +1,7 @@
+{
+  "name": "z23cc-midjourney",
+  "description": "Integrates with Midjourney's image generation API to create, blend, upscale, and describe images with support for aspect ratios, variations, and reference inputs.",
+  "source_repo": "z23cc/midjourney-mcp",
+  "source_url": "https://github.com/z23cc/midjourney-mcp",
+  "install": "npx -y midjourney-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kevinwatt-searxng",
+  "description": "Integrates SearXNG's meta-search capabilities to provide privacy-focused, customizable search results from multiple engines for diverse information retrieval scenarios.",
+  "source_repo": "kevinwatt/mcp-server-searxng",
+  "source_url": "https://github.com/kevinwatt/mcp-server-searxng",
+  "install": "# git clone --depth 1 https://github.com/kevinwatt/mcp-server-searxng\n# See source for mcpServers config block"
+}

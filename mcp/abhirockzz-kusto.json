@@ -1,0 +1,7 @@
+{
+  "name": "abhirockzz-kusto",
+  "description": "Integrates with Azure Data Explorer to enable listing databases, retrieving table schemas, and executing KQL queries for data analysis and exploration.",
+  "source_repo": "abhirockzz/mcp_kusto",
+  "source_url": "https://github.com/abhirockzz/mcp_kusto",
+  "install": "# git clone --depth 1 https://github.com/abhirockzz/mcp_kusto\n# See source for mcpServers config block"
+}

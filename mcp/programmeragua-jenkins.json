@@ -1,0 +1,7 @@
+{
+  "name": "programmeragua-jenkins",
+  "description": "Make Jenkins REST API calls to provide common operation interfaces for Jenkins jobs.",
+  "source_repo": "programmeragua/jenkins-mcp-server",
+  "source_url": "https://github.com/programmeragua/jenkins-mcp-server",
+  "install": "npx -y jenkins-mcp-server"
+}

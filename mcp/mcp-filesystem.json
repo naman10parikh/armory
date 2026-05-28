@@ -1,0 +1,7 @@
+{
+  "name": "mcp-filesystem",
+  "description": "Enables natural language filesystem operations (create, list, delete directories/files) via Ollama local LLM and MCP protocol within allowed directories.",
+  "source_repo": "hrushikeshkothem/simple-fs-mcp",
+  "source_url": "https://github.com/hrushikeshkothem/simple-fs-mcp",
+  "install": "npx -y simple-fs-mcp"
+}

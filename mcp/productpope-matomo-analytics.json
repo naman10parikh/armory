@@ -1,0 +1,7 @@
+{
+  "name": "productpope-matomo-analytics",
+  "description": "MCP server connecting AI assistants to Matomo Analytics for querying visitors, goals, traffic sources, and audience data.",
+  "source_repo": "productpope/matomomcp",
+  "source_url": "https://github.com/productpope/matomomcp",
+  "install": "# git clone --depth 1 https://github.com/productpope/matomomcp\n# See source for mcpServers config block"
+}

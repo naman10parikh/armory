@@ -1,0 +1,7 @@
+{
+  "name": "lnfi-network-rgb-lightning",
+  "description": "Integrates with RGB Lightning Node APIs to provide Bitcoin Layer 2 asset management, Lightning Network operations, on-chain transactions, and asset swaps with comprehensive error handling and authentication.",
+  "source_repo": "lnfi-network/rgb-mcp-server",
+  "source_url": "https://github.com/lnfi-network/rgb-mcp-server",
+  "install": "npx -y rgb-mcp-server"
+}

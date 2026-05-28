@@ -1,0 +1,7 @@
+{
+  "name": "security-framework-mcp",
+  "description": "Unified MCP server integrating NIST and OWASP security frameworks with live vulnerability data, enabling security searches, compliance mapping, threat modeling, and checklist generation.",
+  "source_repo": "zer0-kr/security-framework-mcp",
+  "source_url": "https://github.com/zer0-kr/security-framework-mcp",
+  "install": "npx -y security-framework-mcp"
+}

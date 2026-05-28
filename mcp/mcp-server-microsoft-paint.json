@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-microsoft-paint",
+  "description": "Mcp Server Microsoft Paint MCP server listed on mcp.so.",
+  "source_repo": "ghuntley/mcp-server-microsoft-paint",
+  "source_url": "https://mcp.so/server/mcp-server-microsoft-paint/ghuntley",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-microsoft-paint/ghuntley\n# See source for mcpServers config block"
+}

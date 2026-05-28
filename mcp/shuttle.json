@@ -1,0 +1,7 @@
+{
+  "name": "shuttle",
+  "description": "Enables AI assistants to securely execute SSH commands on remote servers with connection pooling, session isolation, and a web audit panel.",
+  "source_repo": "enwaiax/shuttle",
+  "source_url": "https://github.com/enwaiax/shuttle",
+  "install": "# git clone --depth 1 https://github.com/enwaiax/shuttle\n# See source for mcpServers config block"
+}

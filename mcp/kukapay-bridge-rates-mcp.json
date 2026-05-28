@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-bridge-rates-mcp",
+  "description": "Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.",
+  "source_repo": "kukapay/bridge-rates-mcp",
+  "source_url": "https://github.com/kukapay/bridge-rates-mcp",
+  "install": "npx -y bridge-rates-mcp"
+}

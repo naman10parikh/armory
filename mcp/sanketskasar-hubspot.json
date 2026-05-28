@@ -1,0 +1,7 @@
+{
+  "name": "sanketskasar-hubspot",
+  "description": "Integrates with HubSpot CRM to manage contacts, companies, deals, and associations while providing pipeline analysis and lead scoring capabilities with enterprise-grade security and monitoring",
+  "source_repo": "sanketskasar/hubspot-mcp-server",
+  "source_url": "https://github.com/sanketskasar/hubspot-mcp-server",
+  "install": "npx -y hubspot-mcp-server"
+}

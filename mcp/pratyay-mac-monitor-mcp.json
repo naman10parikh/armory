@@ -1,0 +1,7 @@
+{
+  "name": "pratyay-mac-monitor-mcp",
+  "description": "Identifies resource-intensive processes on macOS and provides performance improvement suggestions.",
+  "source_repo": "Pratyay/mac-monitor-mcp",
+  "source_url": "https://github.com/Pratyay/mac-monitor-mcp",
+  "install": "npx -y mac-monitor-mcp"
+}

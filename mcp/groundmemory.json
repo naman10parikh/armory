@@ -1,0 +1,7 @@
+{
+  "name": "groundmemory",
+  "description": "An MCP-native, local-first memory server that gives AI agents persistent, structured memory across sessions and tools, enabling them to maintain identity and context without reconfiguration.",
+  "source_repo": "huss-mo/GroundMemory",
+  "source_url": "https://github.com/huss-mo/GroundMemory",
+  "install": "# git clone --depth 1 https://github.com/huss-mo/GroundMemory\n# See source for mcpServers config block"
+}

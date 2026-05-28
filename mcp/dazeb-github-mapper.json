@@ -1,0 +1,7 @@
+{
+  "name": "dazeb-github-mapper",
+  "description": "Integrates with GitHub to analyze repositories, generate file structure maps, and enable code analysis workflows using TypeScript and the Octokit REST API.",
+  "source_repo": "dazeb/mcp-github-mapper",
+  "source_url": "https://github.com/dazeb/mcp-github-mapper",
+  "install": "# git clone --depth 1 https://github.com/dazeb/mcp-github-mapper\n# See source for mcpServers config block"
+}

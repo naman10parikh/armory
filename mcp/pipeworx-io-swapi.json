@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-swapi",
+  "description": "Wraps the Star Wars API for character, planet, starship, and film data.",
+  "source_repo": "pipeworx-io/mcp-swapi",
+  "source_url": "https://github.com/pipeworx-io/mcp-swapi",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-swapi\n# See source for mcpServers config block"
+}

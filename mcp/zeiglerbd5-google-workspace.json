@@ -1,0 +1,7 @@
+{
+  "name": "zeiglerbd5-google-workspace",
+  "description": "MCP server for Gmail, Google Calendar, Docs, and Sheets via OAuth 2.0 with configurable per-service permission levels.",
+  "source_repo": "zeiglerbd5/google-workspace-mcp",
+  "source_url": "https://github.com/zeiglerbd5/google-workspace-mcp",
+  "install": "npx -y google-workspace-mcp"
+}

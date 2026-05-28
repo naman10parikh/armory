@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-gene-ontology",
+  "description": "Integrates with Gene Ontology databases through QuickGO and official GO APIs to search terms, retrieve definitions and relationships, validate identifiers, and access ontology statistics across molecular function, biological process, and cellular component domains for bioinformatics research and functional analysis.",
+  "source_repo": "augmented-nature/geneontology-mcp-server",
+  "source_url": "https://github.com/augmented-nature/geneontology-mcp-server",
+  "install": "npx -y geneontology-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bonissystems-knox-anchor",
+  "description": "Anchor AI agent tool calls, file hashes, and events to the Bitcoin blockchain via OpenTimestamps for tamper-evident, court-admissible audit records.",
+  "source_repo": "",
+  "source_url": "https://bonissystems.com/api/knox/mcp",
+  "install": "# git clone --depth 1 https://bonissystems.com/api/knox/mcp\n# See source for mcpServers config block"
+}

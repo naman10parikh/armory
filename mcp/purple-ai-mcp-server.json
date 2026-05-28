@@ -1,0 +1,7 @@
+{
+  "name": "purple-ai-mcp-server",
+  "description": "Enables MCP clients to interact with SentinelOne's cybersecurity platform for security analysis, threat investigation, and asset management through natural language queries. Provides read-only access to alerts, vulnerabilities, misconfigurations, and inventory data.",
+  "source_repo": "Sentinel-One/purple-mcp",
+  "source_url": "https://github.com/Sentinel-One/purple-mcp",
+  "install": "npx -y purple-mcp"
+}

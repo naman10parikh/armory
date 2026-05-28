@@ -1,0 +1,7 @@
+{
+  "name": "ktanino10-fusion360",
+  "description": "Enables natural language 3D CAD modeling in Autodesk Fusion 360 from the terminal via approximately 80 parametric tools and a TCP socket interface on port 9876.",
+  "source_repo": "ktanino10/copilot-cli-fusion360-mcp",
+  "source_url": "https://github.com/ktanino10/copilot-cli-fusion360-mcp",
+  "install": "npx -y copilot-cli-fusion360-mcp"
+}

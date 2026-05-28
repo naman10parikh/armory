@@ -1,0 +1,7 @@
+{
+  "name": "lcbro-browser-automation",
+  "description": "Provides browser automation and web scraping through Playwright with Chrome DevTools Protocol support, featuring content extraction, form interaction, session management, and screenshot capture with automatic data cleaning that reduces processing costs by 80-90%.",
+  "source_repo": "lcbro/lcbro-mcp",
+  "source_url": "https://github.com/lcbro/lcbro-mcp",
+  "install": "npx -y lcbro-mcp"
+}

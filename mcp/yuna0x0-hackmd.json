@@ -1,0 +1,7 @@
+{
+  "name": "yuna0x0-hackmd",
+  "description": "Integrates with HackMD API to enable document creation, reading, updating, and deletion within collaborative markdown environments through authentication-secured personal and team workflows.",
+  "source_repo": "yuna0x0/hackmd-mcp",
+  "source_url": "https://github.com/yuna0x0/hackmd-mcp",
+  "install": "npx -y hackmd-mcp"
+}

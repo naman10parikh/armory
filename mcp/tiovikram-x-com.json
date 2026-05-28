@@ -1,0 +1,7 @@
+{
+  "name": "tiovikram-x-com",
+  "description": "Integrates with X.com's API v2 through OAuth 2.0 authentication to provide complete post management capabilities including creation, deletion, search, timelines, retweets, likes, bookmarks, and engagement tracking for social media automation and content analysis workflows.",
+  "source_repo": "tiovikram/x.com-mcp-server",
+  "source_url": "https://github.com/tiovikram/x.com-mcp-server",
+  "install": "npx -y x.com-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mayanktalwar0-carbon-footprint",
+  "description": "Calculate carbon footprints from bank statements using EPA GHG emission factors.",
+  "source_repo": "mayanktalwar0/carbon-footprint-mcp",
+  "source_url": "https://github.com/mayanktalwar0/carbon-footprint-mcp",
+  "install": "npx -y carbon-footprint-mcp"
+}

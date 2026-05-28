@@ -1,0 +1,7 @@
+{
+  "name": "chrysai",
+  "description": "Hosted data operations platform for creating apps, managing schemas, and CRUD on structured data.",
+  "source_repo": "",
+  "source_url": "https://chrysai.com",
+  "install": "# git clone --depth 1 https://chrysai.com\n# See source for mcpServers config block"
+}

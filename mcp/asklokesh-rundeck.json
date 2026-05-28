@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-rundeck",
+  "description": "Integrates with Rundeck for runbook automation and job scheduling.",
+  "source_repo": "asklokesh/rundeck-mcp-server",
+  "source_url": "https://github.com/asklokesh/rundeck-mcp-server",
+  "install": "npx -y rundeck-mcp-server"
+}

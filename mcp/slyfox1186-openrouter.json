@@ -1,0 +1,7 @@
+{
+  "name": "slyfox1186-openrouter",
+  "description": "Provides unified access to multiple AI models including Claude, Gemini, and Kimi through OpenRouter's API with intelligent model aliasing, conversation persistence via UUID-based continuation, and Docker-based deployment for simplified multi-model AI integration.",
+  "source_repo": "slyfox1186/claude-code-openrouter",
+  "source_url": "https://github.com/slyfox1186/claude-code-openrouter",
+  "install": "# git clone --depth 1 https://github.com/slyfox1186/claude-code-openrouter\n# See source for mcpServers config block"
+}

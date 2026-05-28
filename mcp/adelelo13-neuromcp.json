@@ -1,0 +1,7 @@
+{
+  "name": "adelelo13-neuromcp",
+  "description": "Semantic memory for AI agents with hybrid search, knowledge graph, and memory consolidation.",
+  "source_repo": "adelelo13/neuromcp",
+  "source_url": "https://github.com/adelelo13/neuromcp",
+  "install": "# git clone --depth 1 https://github.com/adelelo13/neuromcp\n# See source for mcpServers config block"
+}

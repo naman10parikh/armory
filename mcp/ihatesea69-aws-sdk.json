@@ -1,0 +1,7 @@
+{
+  "name": "ihatesea69-aws-sdk",
+  "description": "Enables direct interaction with AWS services through the AWS SDK v2, allowing users to query environments, manage resources, and analyze cloud infrastructure using credential management and sandboxed JavaScript execution.",
+  "source_repo": "ihatesea69/aws-mcp-server",
+  "source_url": "https://github.com/ihatesea69/aws-mcp-server",
+  "install": "npx -y aws-mcp-server"
+}

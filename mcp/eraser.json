@@ -1,0 +1,7 @@
+{
+  "name": "eraser",
+  "description": "Collaborative diagramming and technical documentation platform with AI-powered diagram generation and code visualization.",
+  "source_repo": "",
+  "source_url": "https://www.eraser.io",
+  "install": "# git clone --depth 1 https://www.eraser.io\n# See source for mcpServers config block"
+}

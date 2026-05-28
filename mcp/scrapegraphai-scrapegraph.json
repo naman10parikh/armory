@@ -1,0 +1,7 @@
+{
+  "name": "scrapegraphai-scrapegraph",
+  "description": "Integrates with ScapeGraph API to enable web scraping and graph-based data analysis for efficient extraction and processing of large-scale web data.",
+  "source_repo": "scrapegraphai/scrapegraph-mcp",
+  "source_url": "https://github.com/scrapegraphai/scrapegraph-mcp",
+  "install": "npx -y scrapegraph-mcp"
+}

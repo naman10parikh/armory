@@ -1,0 +1,7 @@
+{
+  "name": "anish-1101-lab-sticky-notes",
+  "description": "Enables creation, reading, and management of personal notes directly within conversations through a lightweight text-based storage system",
+  "source_repo": "anish-1101-lab/mcp-notes-making",
+  "source_url": "https://github.com/anish-1101-lab/mcp-notes-making",
+  "install": "# git clone --depth 1 https://github.com/anish-1101-lab/mcp-notes-making\n# See source for mcpServers config block"
+}

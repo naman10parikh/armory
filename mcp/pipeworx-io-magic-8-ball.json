@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-magic-8-ball",
+  "description": "Ask the Magic 8-Ball yes-or-no questions with optional cynical or corporate answer modes via StupidAPIs.",
+  "source_repo": "pipeworx-io/mcp-magic-8-ball",
+  "source_url": "https://github.com/pipeworx-io/mcp-magic-8-ball",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-magic-8-ball\n# See source for mcpServers config block"
+}

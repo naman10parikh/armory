@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-code-checker-python",
+  "description": "Mcp_server_code_checker_python MCP server listed on mcp.so.",
+  "source_repo": "MarcusJellinghaus/mcp_server_code_checker_python",
+  "source_url": "https://mcp.so/server/mcp_server_code_checker_python/MarcusJellinghaus",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_code_checker_python/MarcusJellinghaus\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "osv-database",
+  "description": "Integrates with the OSV Database API to query for security vulnerabilities in software packages, retrieve CVE information, and identify affected and fixed versions.",
+  "source_repo": "edenyavin/osv-mcp",
+  "source_url": "https://github.com/edenyavin/osv-mcp",
+  "install": "npx -y osv-mcp"
+}

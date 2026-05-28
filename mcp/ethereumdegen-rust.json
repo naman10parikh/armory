@@ -1,0 +1,7 @@
+{
+  "name": "ethereumdegen-rust",
+  "description": "Provides a flexible, type-safe Rust foundation for building applications with tool management, authentication handling, and custom middleware support, offering both stdio and SSE transports.",
+  "source_repo": "ethereumdegen/mcp-rs",
+  "source_url": "https://github.com/ethereumdegen/mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/ethereumdegen/mcp-rs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aaomidi-bazel",
+  "description": "Integrates with Bazel build systems to enable target building, test running, dependency analysis, and source file identification without requiring command-line syntax knowledge.",
+  "source_repo": "aaomidi/mcp-bazel",
+  "source_url": "https://github.com/aaomidi/mcp-bazel",
+  "install": "# git clone --depth 1 https://github.com/aaomidi/mcp-bazel\n# See source for mcpServers config block"
+}

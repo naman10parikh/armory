@@ -1,0 +1,7 @@
+{
+  "name": "korea-tourism",
+  "description": "Provides access to Korean tourism information through the TOUR API, enabling area code lookup, regional searches, and detailed content about attractions, festivals, and accommodations for travel planning and exploration.",
+  "source_repo": "pjookim/mcp-visit-korea",
+  "source_url": "https://github.com/pjookim/mcp-visit-korea",
+  "install": "# git clone --depth 1 https://github.com/pjookim/mcp-visit-korea\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oura-mcp",
+  "description": "MCP server for the Oura Ring API v2, providing access to sleep, activity, readiness, heart rate, and workout data via OAuth.",
+  "source_repo": "YasuakiOmokawa/oura-mcp",
+  "source_url": "https://github.com/YasuakiOmokawa/oura-mcp",
+  "install": "npx -y oura-mcp"
+}

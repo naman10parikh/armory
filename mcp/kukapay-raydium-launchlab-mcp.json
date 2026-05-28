@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-raydium-launchlab-mcp",
+  "description": "An MCP server that enables AI agents to launch, buy, and sell tokens on the Raydium Launchpad(aka LaunchLab).",
+  "source_repo": "kukapay/raydium-launchlab-mcp",
+  "source_url": "https://github.com/kukapay/raydium-launchlab-mcp",
+  "install": "npx -y raydium-launchlab-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-substack",
+  "description": "Substack MCP for publishing Notes and posts, pulling analytics, and managing drafts.",
+  "source_repo": "adelaidasofia/substack-mcp",
+  "source_url": "https://github.com/adelaidasofia/substack-mcp",
+  "install": "npx -y substack-mcp"
+}

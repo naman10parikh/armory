@@ -1,0 +1,7 @@
+{
+  "name": "sanyambassi-thales-cdsp-crdp-mcp-server",
+  "description": "MCP server for Thales CipherTrust Manager RestFul Data Protection service.",
+  "source_repo": "sanyambassi/thales-cdsp-crdp-mcp-server",
+  "source_url": "https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server",
+  "install": "npx -y thales-cdsp-crdp-mcp-server"
+}

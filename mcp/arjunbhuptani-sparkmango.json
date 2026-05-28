@@ -1,0 +1,7 @@
+{
+  "name": "arjunbhuptani-sparkmango",
+  "description": "Converts Solidity smart contracts into RESTful API implementations, enabling applications to interact with blockchain contracts without requiring deep blockchain knowledge.",
+  "source_repo": "aryabhuptani/sparkmango",
+  "source_url": "https://github.com/aryabhuptani/sparkmango",
+  "install": "# git clone --depth 1 https://github.com/aryabhuptani/sparkmango\n# See source for mcpServers config block"
+}

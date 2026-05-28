@@ -1,0 +1,7 @@
+{
+  "name": "timelinesai-whatsapp",
+  "description": "Connects WhatsApp Business communications to AI workflows via TimelinesAI.",
+  "source_repo": "initechsoftware/whatsapp-mcp-by-timelinesai",
+  "source_url": "https://github.com/initechsoftware/whatsapp-mcp-by-timelinesai",
+  "install": "# git clone --depth 1 https://github.com/initechsoftware/whatsapp-mcp-by-timelinesai\n# See source for mcpServers config block"
+}

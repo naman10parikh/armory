@@ -1,0 +1,7 @@
+{
+  "name": "antv-chart-generator",
+  "description": "Enables AI to generate data visualizations using AntV's charting capabilities, supporting various chart types from structured data without requiring direct knowledge of visualization libraries.",
+  "source_repo": "antvis/mcp-server-chart",
+  "source_url": "https://github.com/antvis/mcp-server-chart",
+  "install": "# git clone --depth 1 https://github.com/antvis/mcp-server-chart\n# See source for mcpServers config block"
+}

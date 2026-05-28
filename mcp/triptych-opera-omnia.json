@@ -1,0 +1,7 @@
+{
+  "name": "triptych-opera-omnia",
+  "description": "Provides access to a rich collection of creative content datasets for games, storytelling, and applications, enabling quick retrieval of character concepts, equipment descriptions, and RPG elements through a clean TypeScript API.",
+  "source_repo": "triptych/opera-omnia-mcp",
+  "source_url": "https://github.com/triptych/opera-omnia-mcp",
+  "install": "npx -y opera-omnia-mcp"
+}

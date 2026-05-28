@@ -1,0 +1,7 @@
+{
+  "name": "shashwatgtm-impact-v2",
+  "description": "Hypothesis-driven B2B positioning engine with strategic tools for identifying buyer champions, mapping competitive alternatives, and crafting go-to-market messaging.",
+  "source_repo": "shashwatgtm/impact-mcp",
+  "source_url": "https://github.com/shashwatgtm/impact-mcp",
+  "install": "npx -y impact-mcp"
+}

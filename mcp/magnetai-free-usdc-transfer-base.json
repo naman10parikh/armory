@@ -1,0 +1,7 @@
+{
+  "name": "magnetai-free-usdc-transfer-base",
+  "description": "Enables feeless USDC transfers on the Base blockchain through Coinbase CDP's MPC wallet integration, providing secure wallet creation and cryptocurrency transactions without gas fees.",
+  "source_repo": "magnetai/mcp-free-usdc-transfer",
+  "source_url": "https://github.com/magnetai/mcp-free-usdc-transfer",
+  "install": "# git clone --depth 1 https://github.com/magnetai/mcp-free-usdc-transfer\n# See source for mcpServers config block"
+}

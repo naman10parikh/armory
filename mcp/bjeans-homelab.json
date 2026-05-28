@@ -1,0 +1,7 @@
+{
+  "name": "bjeans-homelab",
+  "description": "Unified access to homelab infrastructure through Docker/Podman containers, Ollama AI models, Pi-hole DNS, Unifi networks, UPS monitoring, and network ping operations.",
+  "source_repo": "bjeans/homelab-mcp",
+  "source_url": "https://github.com/bjeans/homelab-mcp",
+  "install": "npx -y homelab-mcp"
+}

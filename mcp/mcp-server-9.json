@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-9",
+  "description": "A secure Model Context Protocol server providing HTTP endpoints for AI agent tool execution, including file system operations, shell commands, and LLM-based code generation.",
+  "source_repo": "sdirishguy/mcp_server_project",
+  "source_url": "https://github.com/sdirishguy/mcp_server_project",
+  "install": "# git clone --depth 1 https://github.com/sdirishguy/mcp_server_project\n# See source for mcpServers config block"
+}

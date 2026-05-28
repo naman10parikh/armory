@@ -1,0 +1,7 @@
+{
+  "name": "utk09-ncl-mini-memory",
+  "description": "Persistent memory storage for AI tools using SQLite with full-text search and tag-based filtering.",
+  "source_repo": "utk09-ncl/mini-memory-mcp",
+  "source_url": "https://github.com/utk09-ncl/mini-memory-mcp",
+  "install": "npx -y mini-memory-mcp"
+}

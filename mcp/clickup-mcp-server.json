@@ -1,0 +1,7 @@
+{
+  "name": "clickup-mcp-server",
+  "description": "Enables AI agents to manage ClickUp tasks, spaces, lists, and folders through natural language, supporting CRUD operations and workspace navigation.",
+  "source_repo": "mikepsinn/clickup-mcp-server",
+  "source_url": "https://github.com/mikepsinn/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aaronsb-salesforce-cloud",
+  "description": "Salesforce CRM integration providing opportunity intelligence, conversation analysis, business case generation, and CRUD operations.",
+  "source_repo": "aaronsb/salesforce-cloud",
+  "source_url": "https://github.com/aaronsb/salesforce-cloud",
+  "install": "# git clone --depth 1 https://github.com/aaronsb/salesforce-cloud\n# See source for mcpServers config block"
+}

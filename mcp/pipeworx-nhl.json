@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-nhl",
+  "description": "Live NHL data via the official NHL API — scores, schedules, player stats, and standings.",
+  "source_repo": "pipeworx-io/mcp-nhl",
+  "source_url": "https://github.com/pipeworx-io/mcp-nhl",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-nhl\n# See source for mcpServers config block"
+}

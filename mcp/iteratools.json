@@ -1,0 +1,7 @@
+{
+  "name": "iteratools",
+  "description": "Pay-per-use utility API platform providing image generation, web scraping, TTS, PDF tools, browser automation, and more for AI agents.",
+  "source_repo": "fredpsantos33/iteratools-mcp",
+  "source_url": "https://github.com/fredpsantos33/iteratools-mcp",
+  "install": "npx -y iteratools-mcp"
+}

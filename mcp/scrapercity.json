@@ -1,0 +1,7 @@
+{
+  "name": "scrapercity",
+  "description": "B2B lead generation platform providing access to Apollo scraping, Google Maps extraction, email finding and validation, mobile lookup, and skip tracing.",
+  "source_repo": "scrapercity/scrapercity-cli",
+  "source_url": "https://github.com/scrapercity/scrapercity-cli",
+  "install": "# git clone --depth 1 https://github.com/scrapercity/scrapercity-cli\n# See source for mcpServers config block"
+}

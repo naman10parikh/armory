@@ -1,0 +1,7 @@
+{
+  "name": "raviteja-pegata-azure-finops",
+  "description": "Azure cost, budgets, forecasting, and optimization tools for AI coding assistants.",
+  "source_repo": "raviteja-pegata/azure-finops-mcp-server",
+  "source_url": "https://github.com/raviteja-pegata/azure-finops-mcp-server",
+  "install": "npx -y azure-finops-mcp-server"
+}

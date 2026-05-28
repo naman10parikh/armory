@@ -1,0 +1,7 @@
+{
+  "name": "herosizy-cucumberstudio",
+  "description": "Integrates with CucumberStudio's testing platform for managing BDD projects, scenarios, action words, and test executions through dual stdio and HTTP transports.",
+  "source_repo": "herosizy/cucumberstudio-mcp",
+  "source_url": "https://github.com/herosizy/cucumberstudio-mcp",
+  "install": "npx -y cucumberstudio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-voximplant-mcp",
+  "description": "MCP server for Voximplant API enabling calls, SMS, recordings, scenarios, and rules management with 11 tools and 2 skills.",
+  "source_repo": "theYahia/voximplant-mcp",
+  "source_url": "https://github.com/theYahia/voximplant-mcp",
+  "install": "npx -y voximplant-mcp"
+}

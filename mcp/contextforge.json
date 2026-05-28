@@ -1,0 +1,7 @@
+{
+  "name": "contextforge",
+  "description": "Persistent memory MCP server for Claude Code, Cursor, and GitHub Copilot.",
+  "source_repo": "alfredoizdev/contextforge-mcp",
+  "source_url": "https://github.com/alfredoizdev/contextforge-mcp",
+  "install": "npx -y contextforge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amit-arora-aws-cost-explorer-bedrock-usage",
+  "description": "Integrates with AWS Cost Explorer and CloudWatch to analyze cloud spending patterns and Bedrock model usage statistics for detailed cost monitoring and optimization.",
+  "source_repo": "aarora79/aws-cost-explorer-mcp-server",
+  "source_url": "https://github.com/aarora79/aws-cost-explorer-mcp-server",
+  "install": "npx -y aws-cost-explorer-mcp-server"
+}

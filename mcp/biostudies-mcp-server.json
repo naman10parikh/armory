@@ -1,0 +1,7 @@
+{
+  "name": "biostudies-mcp-server",
+  "description": "Biostudies Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "EBIBioStudies/biostudies-mcp-server",
+  "source_url": "https://mcp.so/server/biostudies-mcp-server/EBIBioStudies",
+  "install": "npx -y biostudies-mcp-server"
+}

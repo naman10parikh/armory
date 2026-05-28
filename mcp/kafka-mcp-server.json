@@ -1,0 +1,7 @@
+{
+  "name": "kafka-mcp-server",
+  "description": "Enables interaction with Kafka clusters via MCP, supporting topic management (list, create, delete, inspect), connection initialization, and more through natural language.",
+  "source_repo": "Joel-hanson/kafka-mcp-server",
+  "source_url": "https://github.com/Joel-hanson/kafka-mcp-server",
+  "install": "npx -y kafka-mcp-server"
+}

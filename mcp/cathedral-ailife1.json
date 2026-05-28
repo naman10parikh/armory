@@ -1,0 +1,7 @@
+{
+  "name": "cathedral-ailife1",
+  "description": "Provides persistent memory and identity infrastructure for AI agents with cross-session identity reconstruction and drift detection.",
+  "source_repo": "ailife1/cathedral",
+  "source_url": "https://github.com/ailife1/cathedral",
+  "install": "# git clone --depth 1 https://github.com/ailife1/cathedral\n# See source for mcpServers config block"
+}

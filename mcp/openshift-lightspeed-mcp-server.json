@@ -1,0 +1,7 @@
+{
+  "name": "openshift-lightspeed-mcp-server",
+  "description": "Integrates OpenShift LightSpeed with Claude Code to provide AI-powered OpenShift assistance and troubleshooting.",
+  "source_repo": "thoraxe/ols-mcp",
+  "source_url": "https://github.com/thoraxe/ols-mcp",
+  "install": "npx -y ols-mcp"
+}

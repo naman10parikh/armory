@@ -1,0 +1,7 @@
+{
+  "name": "samarthsinghal28-gmail-calendar",
+  "description": "Integrates with Gmail and Google Calendar APIs to enable email retrieval, search, sending with attachments, and calendar event management including video conference creation.",
+  "source_repo": "samarthsinghal28/gmail_mcp_server",
+  "source_url": "https://github.com/samarthsinghal28/gmail_mcp_server",
+  "install": "npx -y gmail_mcp_server"
+}

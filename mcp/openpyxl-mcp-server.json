@@ -1,0 +1,7 @@
+{
+  "name": "openpyxl-mcp-server",
+  "description": "Openpyxl Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "jonemo/openpyxl-mcp-server",
+  "source_url": "https://mcp.so/server/openpyxl-mcp-server/jonemo",
+  "install": "npx -y openpyxl-mcp-server"
+}

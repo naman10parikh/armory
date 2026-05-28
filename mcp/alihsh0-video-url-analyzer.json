@@ -1,0 +1,7 @@
+{
+  "name": "alihsh0-video-url-analyzer",
+  "description": "Analyzes YouTube, TikTok, and Instagram videos through Gemini-powered transcription, content analysis, Q&A, and tutorial step extraction.",
+  "source_repo": "u2n4/video-url-analyzer-mcp",
+  "source_url": "https://github.com/u2n4/video-url-analyzer-mcp",
+  "install": "npx -y video-url-analyzer-mcp"
+}

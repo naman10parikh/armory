@@ -1,0 +1,7 @@
+{
+  "name": "schema-drift-gate",
+  "description": "Schema drift detection, tool-schema approval routing, compatibility receipts, and release audit logs for AI agents.",
+  "source_repo": "clauxel/schema-drift-gate-mcp",
+  "source_url": "https://github.com/clauxel/schema-drift-gate-mcp",
+  "install": "npx -y schema-drift-gate-mcp"
+}

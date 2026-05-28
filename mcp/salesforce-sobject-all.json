@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-sobject-all",
+  "description": "Provides full CRUD access to Salesforce objects for creating, reading, updating, deleting, querying, and searching CRM data.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/salesforce-sobject-all",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/salesforce-sobject-all\n# See source for mcpServers config block"
+}

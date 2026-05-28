@@ -1,0 +1,7 @@
+{
+  "name": "facebook-business-mcp",
+  "description": "Unofficial MCP server implementation for Facebook Business API. Enables LLMs to manage ad campaigns and ads via natural language.",
+  "source_repo": "promobase/facebook-business-mcp",
+  "source_url": "https://github.com/promobase/facebook-business-mcp",
+  "install": "npx -y facebook-business-mcp"
+}

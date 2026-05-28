@@ -1,0 +1,7 @@
+{
+  "name": "zyla-labs-api-hub",
+  "description": "Provides a gateway through the Zyla API Hub that enables REST API requests with configurable methods, headers, parameters, and request bodies for integrating any external service without requiring specific connectors.",
+  "source_repo": "zyla-labs/mcp-server",
+  "source_url": "https://github.com/zyla-labs/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/zyla-labs/mcp-server\n# See source for mcpServers config block"
+}

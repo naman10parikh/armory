@@ -1,0 +1,7 @@
+{
+  "name": "ismaileneskucuk-turkish-electronic-markets",
+  "description": "Searches Turkish electronic component marketplaces for real-time pricing, stock availability, and product comparisons across four stores.",
+  "source_repo": "ismaileneskucuk/mcp-electronicmarkets-tr",
+  "source_url": "https://github.com/ismaileneskucuk/mcp-electronicmarkets-tr",
+  "install": "# git clone --depth 1 https://github.com/ismaileneskucuk/mcp-electronicmarkets-tr\n# See source for mcpServers config block"
+}

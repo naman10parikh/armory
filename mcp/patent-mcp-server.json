@@ -1,0 +1,7 @@
+{
+  "name": "patent-mcp-server",
+  "description": "Patent_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "riemannzeta/patent_mcp_server",
+  "source_url": "https://mcp.so/server/patent_mcp_server/riemannzeta",
+  "install": "npx -y patent_mcp_server"
+}

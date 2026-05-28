@@ -1,0 +1,7 @@
+{
+  "name": "khushi-c-sharma-expense-tracker",
+  "description": "Personal expense tracking system using SQLite that enables adding, categorizing, and analyzing financial transactions with detailed category hierarchies and date-based filtering for spending pattern insights.",
+  "source_repo": "khushi-c-sharma/expense-tracker-mcp-server",
+  "source_url": "https://github.com/khushi-c-sharma/expense-tracker-mcp-server",
+  "install": "npx -y expense-tracker-mcp-server"
+}

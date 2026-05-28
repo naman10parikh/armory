@@ -1,0 +1,7 @@
+{
+  "name": "chriswritescode-dev-codedox",
+  "description": "Crawls documentation websites and extracts code snippets using tree-sitter parsing, automatically categorizing and enriching them with metadata to build searchable code databases for technical documentation.",
+  "source_repo": "chriswritescode-dev/codedox",
+  "source_url": "https://github.com/chriswritescode-dev/codedox",
+  "install": "# git clone --depth 1 https://github.com/chriswritescode-dev/codedox\n# See source for mcpServers config block"
+}

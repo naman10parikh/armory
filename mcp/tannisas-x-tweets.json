@@ -1,0 +1,7 @@
+{
+  "name": "tannisas-x-tweets",
+  "description": "Automates tweet scheduling and posting by integrating Google Sheets with Twitter using web automation.",
+  "source_repo": "tannisas/mcp-server",
+  "source_url": "https://github.com/tannisas/mcp-server/tree/HEAD/X_twee",
+  "install": "# git clone --depth 1 https://github.com/tannisas/mcp-server/tree/HEAD/X_twee\n# See source for mcpServers config block"
+}

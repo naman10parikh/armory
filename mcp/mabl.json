@@ -1,0 +1,7 @@
+{
+  "name": "mabl",
+  "description": "AI-powered test automation platform for authoring, running, and analyzing tests across workspaces.",
+  "source_repo": "",
+  "source_url": "https://www.mabl.com",
+  "install": "# git clone --depth 1 https://www.mabl.com\n# See source for mcpServers config block"
+}

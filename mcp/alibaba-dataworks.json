@@ -1,0 +1,7 @@
+{
+  "name": "alibaba-dataworks",
+  "description": "Exports Alibaba Cloud DataWorks Open API tools for dynamic project management and data workflow interactions using TypeScript and Zod for robust schema validation.",
+  "source_repo": "aliyun/alibabacloud-dataworks-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-dataworks-mcp-server",
+  "install": "npx -y alibabacloud-dataworks-mcp-server"
+}

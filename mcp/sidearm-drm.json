@@ -1,0 +1,7 @@
+{
+  "name": "sidearm-drm",
+  "description": "Protect media from AI training, detect AI-generated content, and find stolen work.",
+  "source_repo": "sidearmdrm/mcp-server",
+  "source_url": "https://github.com/sidearmdrm/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sidearmdrm/mcp-server\n# See source for mcpServers config block"
+}

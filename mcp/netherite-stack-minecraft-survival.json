@@ -1,0 +1,7 @@
+{
+  "name": "netherite-stack-minecraft-survival",
+  "description": "Enables LLM agents to play and survive in Minecraft through high-level intent-based commands via Mineflayer.",
+  "source_repo": "netherite-stack/minecraft-survival-mcp-server",
+  "source_url": "https://github.com/netherite-stack/minecraft-survival-mcp-server",
+  "install": "npx -y minecraft-survival-mcp-server"
+}

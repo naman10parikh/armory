@@ -1,0 +1,7 @@
+{
+  "name": "debridge",
+  "description": "Execute cross-chain and same-chain token swaps, fee estimation, and trade execution across major blockchain networks.",
+  "source_repo": "debridge-finance/debridge-mcp",
+  "source_url": "https://github.com/debridge-finance/debridge-mcp",
+  "install": "npx -y debridge-mcp"
+}

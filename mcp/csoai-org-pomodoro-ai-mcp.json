@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-pomodoro-ai-mcp",
+  "description": "Python MCP server for Pomodoro technique and time management tools.",
+  "source_repo": "csoai-org/pomodoro-ai-mcp",
+  "source_url": "https://github.com/csoai-org/pomodoro-ai-mcp",
+  "install": "npx -y pomodoro-ai-mcp"
+}

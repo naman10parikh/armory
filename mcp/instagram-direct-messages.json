@@ -1,0 +1,7 @@
+{
+  "name": "instagram-direct-messages",
+  "description": "Enables reading and sending Instagram direct messages through a Python server that authenticates with Instagram cookies and provides tools for retrieving recent conversations and sending new messages.",
+  "source_repo": "taskmaster-ai/insta-mcp",
+  "source_url": "https://github.com/taskmaster-ai/insta-mcp",
+  "install": "npx -y insta-mcp"
+}

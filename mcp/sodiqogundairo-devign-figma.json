@@ -1,0 +1,7 @@
+{
+  "name": "sodiqogundairo-devign-figma",
+  "description": "Bidirectional Figma integration with WebSocket bridge for design creation, reading, styling, and export.",
+  "source_repo": "sodiqogundairo/devign-figma-mcp",
+  "source_url": "https://github.com/sodiqogundairo/devign-figma-mcp",
+  "install": "npx -y devign-figma-mcp"
+}

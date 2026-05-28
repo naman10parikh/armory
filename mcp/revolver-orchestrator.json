@@ -1,0 +1,7 @@
+{
+  "name": "revolver-orchestrator",
+  "description": "Orchestrates Gemini CLI for architectural planning and Claude Code for implementation, using Context7 to fetch library documentation and create detailed development plans with file structures, dependencies, and risk assessments.",
+  "source_repo": "ruslan-sazonov/revolver-orchestrator-mcp",
+  "source_url": "https://github.com/ruslan-sazonov/revolver-orchestrator-mcp",
+  "install": "npx -y revolver-orchestrator-mcp"
+}

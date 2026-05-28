@@ -1,0 +1,7 @@
+{
+  "name": "holco-apps-pennypilot",
+  "description": "AI copilot for French accounting firms using Pennylane, automating monthly closing report generation.",
+  "source_repo": "holco-apps/pennypilot",
+  "source_url": "https://github.com/holco-apps/pennypilot",
+  "install": "# git clone --depth 1 https://github.com/holco-apps/pennypilot\n# See source for mcpServers config block"
+}

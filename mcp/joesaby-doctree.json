@@ -1,0 +1,7 @@
+{
+  "name": "joesaby-doctree",
+  "description": "BM25 search and tree navigation over markdown documentation for structured, token-efficient document retrieval.",
+  "source_repo": "joesaby/doctree-mcp",
+  "source_url": "https://github.com/joesaby/doctree-mcp",
+  "install": "npx -y doctree-mcp"
+}

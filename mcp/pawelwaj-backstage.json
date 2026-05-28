@@ -1,0 +1,7 @@
+{
+  "name": "pawelwaj-backstage",
+  "description": "Provides comprehensive Backstage knowledge base with search functionality and plugin scaffold generator for building internal developer portals and custom plugins",
+  "source_repo": "pawelwaj/mcp",
+  "source_url": "https://github.com/pawelwaj/mcp",
+  "install": "# git clone --depth 1 https://github.com/pawelwaj/mcp\n# See source for mcpServers config block"
+}

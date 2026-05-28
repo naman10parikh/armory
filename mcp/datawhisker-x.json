@@ -1,0 +1,7 @@
+{
+  "name": "datawhisker-x",
+  "description": "Integrates with the X (Twitter) API to enable posting tweets, retrieving user data, and analyzing trends.",
+  "source_repo": "datawhisker/x-mcp-server",
+  "source_url": "https://github.com/datawhisker/x-mcp-server",
+  "install": "npx -y x-mcp-server"
+}

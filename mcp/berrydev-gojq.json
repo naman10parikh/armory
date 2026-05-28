@@ -1,0 +1,7 @@
+{
+  "name": "berrydev-gojq",
+  "description": "Executes jq filters on JSON files with validation and error handling for data analysis, API response processing, and configuration file manipulation",
+  "source_repo": "berrydev-ai/gojq-mcp",
+  "source_url": "https://github.com/berrydev-ai/gojq-mcp",
+  "install": "npx -y gojq-mcp"
+}

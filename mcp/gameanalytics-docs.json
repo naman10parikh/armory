@@ -1,0 +1,7 @@
+{
+  "name": "gameanalytics-docs",
+  "description": "Searchable access to GameAnalytics SDK documentation for Unity, Unreal, iOS, Android, and REST API.",
+  "source_repo": "",
+  "source_url": "https://gameanalytics.com",
+  "install": "# git clone --depth 1 https://gameanalytics.com\n# See source for mcpServers config block"
+}

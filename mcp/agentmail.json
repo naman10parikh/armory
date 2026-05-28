@@ -1,0 +1,7 @@
+{
+  "name": "agentmail",
+  "description": "Provides dedicated email inboxes for AI agents to send, receive, and query messages",
+  "source_repo": "agentmail-to/agentmail-mcp",
+  "source_url": "https://github.com/agentmail-to/agentmail-mcp",
+  "install": "npx -y agentmail-mcp"
+}

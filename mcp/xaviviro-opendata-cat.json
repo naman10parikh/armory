@@ -1,0 +1,7 @@
+{
+  "name": "xaviviro-opendata-cat",
+  "description": "Search and query 2,800+ datasets from Catalan public institutions including the Generalitat and Barcelona councils.",
+  "source_repo": "xaviviro/opendata.cat-mcp-server",
+  "source_url": "https://github.com/xaviviro/opendata.cat-mcp-server",
+  "install": "npx -y opendata.cat-mcp-server"
+}

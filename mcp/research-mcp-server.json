@@ -1,0 +1,7 @@
+{
+  "name": "research-mcp-server",
+  "description": "Enables searching and managing academic papers from arXiv with tools, resources, and prompt templates for literature review.",
+  "source_repo": "VivedhaElango/MCP_research_server",
+  "source_url": "https://github.com/VivedhaElango/MCP_research_server",
+  "install": "# git clone --depth 1 https://github.com/VivedhaElango/MCP_research_server\n# See source for mcpServers config block"
+}

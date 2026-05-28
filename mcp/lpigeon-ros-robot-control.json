@@ -1,0 +1,7 @@
+{
+  "name": "lpigeon-ros-robot-control",
+  "description": "Provides a bridge between natural language commands and Robot Operating System (ROS) for controlling robot movement through WebSocket communication with velocity commands.",
+  "source_repo": "robotmcp/ros-mcp-server",
+  "source_url": "https://github.com/robotmcp/ros-mcp-server",
+  "install": "npx -y ros-mcp-server"
+}

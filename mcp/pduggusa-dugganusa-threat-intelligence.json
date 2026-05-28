@@ -1,0 +1,7 @@
+{
+  "name": "pduggusa-dugganusa-threat-intelligence",
+  "description": "Threat intelligence scanner and MCP server for checking indicators of compromise from the terminal and AI assistants.",
+  "source_repo": "pduggusa/dugganusa-cli",
+  "source_url": "https://github.com/pduggusa/dugganusa-cli",
+  "install": "# git clone --depth 1 https://github.com/pduggusa/dugganusa-cli\n# See source for mcpServers config block"
+}

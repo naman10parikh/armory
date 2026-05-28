@@ -1,0 +1,7 @@
+{
+  "name": "mcp-local-rag",
+  "description": "Mcp Local Rag MCP server listed on mcp.so.",
+  "source_repo": "nkapila6/mcp-local-rag",
+  "source_url": "https://mcp.so/server/mcp-local-rag/nkapila6",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-local-rag/nkapila6\n# See source for mcpServers config block"
+}

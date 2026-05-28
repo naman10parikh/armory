@@ -1,0 +1,7 @@
+{
+  "name": "irskep-persistproc",
+  "description": "Provides persistent process management capabilities for multi-agent development workflows, enabling natural language control over long-running development processes like servers, build watchers, and background tasks with unified start/stop/restart operations, real-time output streaming, and robust cleanup handling.",
+  "source_repo": "irskep/persistproc",
+  "source_url": "https://github.com/irskep/persistproc",
+  "install": "# git clone --depth 1 https://github.com/irskep/persistproc\n# See source for mcpServers config block"
+}

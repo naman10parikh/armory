@@ -1,0 +1,7 @@
+{
+  "name": "niutrans-translation",
+  "description": "Integrates with NiuTrans commercial translation API to provide professional-grade machine translation between multiple languages",
+  "source_repo": "niutrans/mcp-texttranslation",
+  "source_url": "https://github.com/niutrans/mcp-texttranslation",
+  "install": "# git clone --depth 1 https://github.com/niutrans/mcp-texttranslation\n# See source for mcpServers config block"
+}

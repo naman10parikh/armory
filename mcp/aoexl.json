@@ -1,0 +1,7 @@
+{
+  "name": "aoexl",
+  "description": "Aoexl platform integration for MCP clients via a hosted remote endpoint with API key authentication.",
+  "source_repo": "aryansingh0203/aoexl-mcp",
+  "source_url": "https://github.com/aryansingh0203/aoexl-mcp",
+  "install": "npx -y aoexl-mcp"
+}

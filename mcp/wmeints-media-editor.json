@@ -1,0 +1,7 @@
+{
+  "name": "wmeints-media-editor",
+  "description": "Provides FFmpeg-powered media editing tools for video trimming, audio transcription, and thumbnail generation.",
+  "source_repo": "wmeints/media-editor",
+  "source_url": "https://github.com/wmeints/media-editor",
+  "install": "# git clone --depth 1 https://github.com/wmeints/media-editor\n# See source for mcpServers config block"
+}

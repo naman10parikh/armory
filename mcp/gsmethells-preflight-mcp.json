@@ -1,0 +1,7 @@
+{
+  "name": "gsmethells-preflight-mcp",
+  "description": "TrustPilot for APIs — independent reliability ratings for APIs and MCP servers, powered by synthetic probes and crowdsourced agent telemetry.",
+  "source_repo": "gsmethells/preflight-mcp",
+  "source_url": "https://github.com/gsmethells/preflight-mcp",
+  "install": "npx -y preflight-mcp"
+}

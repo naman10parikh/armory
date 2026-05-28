@@ -1,0 +1,7 @@
+{
+  "name": "historis",
+  "description": "Event tracking infrastructure for AI agents with automatic organization of client interactions, persons, and tags.",
+  "source_repo": "",
+  "source_url": "https://historis.app",
+  "install": "# git clone --depth 1 https://historis.app\n# See source for mcpServers config block"
+}

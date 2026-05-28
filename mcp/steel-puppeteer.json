@@ -1,0 +1,7 @@
+{
+  "name": "steel-puppeteer",
+  "description": "Integrates Puppeteer with Steel SDK for browser automation, enabling complex web interactions and data extraction.",
+  "source_repo": "steel-dev/steel-mcp-server",
+  "source_url": "https://github.com/steel-dev/steel-mcp-server",
+  "install": "npx -y steel-mcp-server"
+}

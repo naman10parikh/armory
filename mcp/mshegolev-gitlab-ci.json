@@ -1,0 +1,7 @@
+{
+  "name": "mshegolev-gitlab-ci",
+  "description": "Manage GitLab CI/CD pipelines, schedules, merge requests, and repository files via the GitLab API.",
+  "source_repo": "mshegolev/gitlab-ci-mcp",
+  "source_url": "https://github.com/mshegolev/gitlab-ci-mcp",
+  "install": "npx -y gitlab-ci-mcp"
+}

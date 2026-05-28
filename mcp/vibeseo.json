@@ -1,0 +1,7 @@
+{
+  "name": "vibeseo",
+  "description": "SEO research, audits, backlinks, Google Search Console integration, and content workflow tools for AI agents.",
+  "source_repo": "sultanlive/vibeseo-mcp",
+  "source_url": "https://github.com/sultanlive/vibeseo-mcp",
+  "install": "npx -y vibeseo-mcp"
+}

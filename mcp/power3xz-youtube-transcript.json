@@ -1,0 +1,7 @@
+{
+  "name": "power3xz-youtube-transcript",
+  "description": "Retrieves and processes YouTube video transcripts and playlist metadata, enabling content analysis without manual transcription or viewing.",
+  "source_repo": "power3xz/youtube-transcript-mcp",
+  "source_url": "https://github.com/power3xz/youtube-transcript-mcp",
+  "install": "npx -y youtube-transcript-mcp"
+}

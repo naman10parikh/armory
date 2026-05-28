@@ -1,0 +1,7 @@
+{
+  "name": "apk-security-guard-suite",
+  "description": "Integrates JADX, MobSF, JEB Pro, and APKTOOL to provide Android APK decompilation, security scanning, reverse engineering, and resource extraction for vulnerability assessment and malware analysis workflows.",
+  "source_repo": "il-il1/apk-security-guard-mcp-suite",
+  "source_url": "https://github.com/il-il1/apk-security-guard-mcp-suite",
+  "install": "# git clone --depth 1 https://github.com/il-il1/apk-security-guard-mcp-suite\n# See source for mcpServers config block"
+}

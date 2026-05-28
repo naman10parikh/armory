@@ -1,0 +1,7 @@
+{
+  "name": "logos-flux-mnemo",
+  "description": "Provides extended memory for large codebases, documentation sites, and web content through Gemini's context caching API, enabling efficient loading and querying without hitting token limits.",
+  "source_repo": "logos-flux/mnemo",
+  "source_url": "https://github.com/logos-flux/mnemo",
+  "install": "# git clone --depth 1 https://github.com/logos-flux/mnemo\n# See source for mcpServers config block"
+}

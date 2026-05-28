@@ -1,0 +1,7 @@
+{
+  "name": "skobyn-dataforseo-seo",
+  "description": "Bridges DataForSEO's SEO APIs with natural language interactions, enabling comprehensive search engine data retrieval and business intelligence analysis through intelligent tool integration.",
+  "source_repo": "skobyn/dataforseo-mcp-server",
+  "source_url": "https://github.com/skobyn/dataforseo-mcp-server",
+  "install": "npx -y dataforseo-mcp-server"
+}

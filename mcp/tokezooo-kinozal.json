@@ -1,0 +1,7 @@
+{
+  "name": "tokezooo-kinozal",
+  "description": "Integrates with kinozal.tv Russian torrent tracker for search, torrent details retrieval, and file downloads through authenticated sessions.",
+  "source_repo": "tokezooo/kinozal-mcp",
+  "source_url": "https://github.com/tokezooo/kinozal-mcp",
+  "install": "npx -y kinozal-mcp"
+}

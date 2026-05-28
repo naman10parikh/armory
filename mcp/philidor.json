@@ -1,0 +1,7 @@
+{
+  "name": "philidor",
+  "description": "Search and analyze 700+ DeFi vaults across Morpho, Aave, Spark, Yearn, Beefy, Compound, Uniswap and others. Multi-vector risk scoring (Asset 40%, Platform 40%, Governance 20%) with Prime/Core/Edge.",
+  "source_repo": "",
+  "source_url": "https://philidor.io",
+  "install": "# git clone --depth 1 https://philidor.io\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "melihbirim-postgresql",
+  "description": "Connects to PostgreSQL databases for executing SQL queries, retrieving table schemas, and performing database operations for data analysis and administration tasks.",
+  "source_repo": "melihbirim/pg-mcp",
+  "source_url": "https://github.com/melihbirim/pg-mcp",
+  "install": "npx -y pg-mcp"
+}

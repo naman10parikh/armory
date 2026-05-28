@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-matrix",
+  "description": "Enables AI assistants to interact with Matrix, the open decentralized communication protocol, allowing them to send and read messages, manage rooms, and perform other Matrix operations through natural language.",
+  "source_repo": "Baho73/mcp-server-matrix",
+  "source_url": "https://github.com/Baho73/mcp-server-matrix",
+  "install": "# git clone --depth 1 https://github.com/Baho73/mcp-server-matrix\n# See source for mcpServers config block"
+}

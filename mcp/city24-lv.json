@@ -1,0 +1,7 @@
+{
+  "name": "city24-lv",
+  "description": "Search live Latvia real estate listings with location, property type, price range, area, and floor filters.",
+  "source_repo": "",
+  "source_url": "https://www.city24.lv",
+  "install": "# git clone --depth 1 https://www.city24.lv\n# See source for mcpServers config block"
+}

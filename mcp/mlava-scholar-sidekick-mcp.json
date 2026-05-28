@@ -1,0 +1,7 @@
+{
+  "name": "mlava-scholar-sidekick-mcp",
+  "description": "Resolve, format, and export academic citations.",
+  "source_repo": "mlava/scholar-sidekick-mcp",
+  "source_url": "https://github.com/mlava/scholar-sidekick-mcp",
+  "install": "npx -y scholar-sidekick-mcp"
+}

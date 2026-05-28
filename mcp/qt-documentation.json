@@ -1,0 +1,7 @@
+{
+  "name": "qt-documentation",
+  "description": "Search Qt 6 API and product documentation including Qt Core, Qt Quick, Qt Creator, and Boot to Qt.",
+  "source_repo": "",
+  "source_url": "https://www.qt.io/blog/introducing-the-mcp-tool-for-qt-documentation",
+  "install": "# git clone --depth 1 https://www.qt.io/blog/introducing-the-mcp-tool-for-qt-documentation\n# See source for mcpServers config block"
+}

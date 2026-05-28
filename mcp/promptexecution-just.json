@@ -1,0 +1,7 @@
+{
+  "name": "promptexecution-just",
+  "description": "Execute Justfile recipes safely through curated command automation",
+  "source_repo": "promptexecution/just-mcp",
+  "source_url": "https://github.com/promptexecution/just-mcp",
+  "install": "npx -y just-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ozon-mcp-server",
+  "description": "MCP server for Ozon marketplace that enables AI assistants to search products, get detailed information, prices, and delivery info from Ozon.ru.",
+  "source_repo": "eduard256/ozon-mcp-server",
+  "source_url": "https://github.com/eduard256/ozon-mcp-server",
+  "install": "npx -y ozon-mcp-server"
+}

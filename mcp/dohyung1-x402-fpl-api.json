@@ -1,0 +1,7 @@
+{
+  "name": "dohyung1-x402-fpl-api",
+  "description": "Personalized Fantasy Premier League intelligence — scored captain picks, transfer suggestions, differentials, fixture outlook, price predictions, live points, and a full manager hub that auto-detects your bank balance, free transfers, and chips.",
+  "source_repo": "dohyung1/x402-fpl-api",
+  "source_url": "https://github.com/dohyung1/x402-fpl-api",
+  "install": "# git clone --depth 1 https://github.com/dohyung1/x402-fpl-api\n# See source for mcpServers config block"
+}

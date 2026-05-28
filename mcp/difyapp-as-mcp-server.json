@@ -1,0 +1,7 @@
+{
+  "name": "difyapp-as-mcp-server",
+  "description": "Difyapp_as_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "Yevanchen/difyapp_as_mcp_server",
+  "source_url": "https://mcp.so/server/difyapp_as_mcp_server/Yevanchen",
+  "install": "npx -y difyapp_as_mcp_server"
+}

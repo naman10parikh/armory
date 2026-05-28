@@ -1,0 +1,7 @@
+{
+  "name": "cahefe-back-office-td",
+  "description": "Investment back-office operations for querying investor information and account details with LGPD compliance.",
+  "source_repo": "cahefe/mcpserverbackofficetd",
+  "source_url": "https://github.com/cahefe/mcpserverbackofficetd",
+  "install": "# git clone --depth 1 https://github.com/cahefe/mcpserverbackofficetd\n# See source for mcpServers config block"
+}

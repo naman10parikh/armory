@@ -1,0 +1,7 @@
+{
+  "name": "karashiiro-my-cool-proxy",
+  "description": "Gateway that minimizes context usage by wrapping multiple servers with progressive Lua-driven tool discovery.",
+  "source_repo": "karashiiro/my-cool-proxy",
+  "source_url": "https://github.com/karashiiro/my-cool-proxy",
+  "install": "# git clone --depth 1 https://github.com/karashiiro/my-cool-proxy\n# See source for mcpServers config block"
+}

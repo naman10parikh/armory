@@ -1,0 +1,7 @@
+{
+  "name": "skybridge-capitals",
+  "description": "World capitals explorer showcasing the Skybridge framework for building interactive apps.",
+  "source_repo": "",
+  "source_url": "https://capitals.skybridge.tech",
+  "install": "# git clone --depth 1 https://capitals.skybridge.tech\n# See source for mcpServers config block"
+}

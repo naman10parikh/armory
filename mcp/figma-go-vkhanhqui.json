@@ -1,0 +1,7 @@
+{
+  "name": "figma-go-vkhanhqui",
+  "description": "Zero-cost Figma integration using a local plugin bridge instead of the REST API, eliminating rate limits and API key requirements.",
+  "source_repo": "vkhanhqui/figma-mcp-go",
+  "source_url": "https://github.com/vkhanhqui/figma-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/vkhanhqui/figma-mcp-go\n# See source for mcpServers config block"
+}

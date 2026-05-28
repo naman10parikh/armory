@@ -1,0 +1,7 @@
+{
+  "name": "svelte",
+  "description": "Official Svelte documentation access and code analysis server that provides up-to-date reference material, playground link generation, and intelligent autofixer capabilities for detecting common patterns, anti-patterns, and migration opportunities in Svelte 5 and SvelteKit projects.",
+  "source_repo": "sveltejs/ai-tools",
+  "source_url": "https://github.com/sveltejs/ai-tools",
+  "install": "# git clone --depth 1 https://github.com/sveltejs/ai-tools\n# See source for mcpServers config block"
+}

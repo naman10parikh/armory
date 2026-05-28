@@ -1,0 +1,7 @@
+{
+  "name": "olostep-mcp-server-2",
+  "description": "Olostep Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Olostep/olostep-mcp-server",
+  "source_url": "https://mcp.so/server/olostep-mcp-server/Olostep",
+  "install": "npx -y olostep-mcp-server"
+}

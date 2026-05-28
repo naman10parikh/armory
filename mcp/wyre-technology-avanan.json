@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-avanan",
+  "description": "Provides AI access to Check Point Avanan Harmony Email for security event management and multi-tenant MSP operations.",
+  "source_repo": "wyre-technology/avanan-mcp",
+  "source_url": "https://github.com/wyre-technology/avanan-mcp",
+  "install": "npx -y avanan-mcp"
+}

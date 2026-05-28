@@ -1,0 +1,7 @@
+{
+  "name": "coda-mcp-server",
+  "description": "Provides full access to the Coda API v1, enabling AI agents to interact with Coda docs, tables, rows, formulas, and more through 51 tools.",
+  "source_repo": "bluestemso/coda-io-mcp",
+  "source_url": "https://github.com/bluestemso/coda-io-mcp",
+  "install": "npx -y coda-io-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sql-server-natural-lang",
+  "description": "Enables natural language querying of Microsoft SQL Server databases by translating conversational input into SQL and interpreting results for database administrators and analysts",
+  "source_repo": "aman-panjwani/mcp-sql-server-natural-lang",
+  "source_url": "https://github.com/aman-panjwani/mcp-sql-server-natural-lang",
+  "install": "# git clone --depth 1 https://github.com/aman-panjwani/mcp-sql-server-natural-lang\n# See source for mcpServers config block"
+}

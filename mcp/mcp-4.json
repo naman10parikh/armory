@@ -1,0 +1,7 @@
+{
+  "name": "mcp-4",
+  "description": "Mcp MCP server listed on mcp.so.",
+  "source_repo": "jmcentire/mcp",
+  "source_url": "https://mcp.so/server/mcp/jmcentire",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp/jmcentire\n# See source for mcpServers config block"
+}

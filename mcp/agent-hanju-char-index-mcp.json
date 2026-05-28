@@ -1,0 +1,7 @@
+{
+  "name": "agent-hanju-char-index-mcp",
+  "description": "Precise character-level string indexing for LLMs. Provides tools for finding, extracting, and manipulating text by exact character position to solve position-based operations.",
+  "source_repo": "agent-hanju/char-index-mcp",
+  "source_url": "https://github.com/agent-hanju/char-index-mcp",
+  "install": "npx -y char-index-mcp"
+}

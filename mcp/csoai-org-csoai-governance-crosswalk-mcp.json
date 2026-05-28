@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-csoai-governance-crosswalk-mcp",
+  "description": "Cross-framework AI governance mapping and compliance crosswalk tools.",
+  "source_repo": "csoai-org/csoai-governance-crosswalk-mcp",
+  "source_url": "https://github.com/csoai-org/csoai-governance-crosswalk-mcp",
+  "install": "npx -y csoai-governance-crosswalk-mcp"
+}

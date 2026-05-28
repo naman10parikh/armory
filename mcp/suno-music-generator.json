@@ -1,0 +1,7 @@
+{
+  "name": "suno-music-generator",
+  "description": "Enables AI assistants to generate custom music compositions with specified lyrics, style tags, and titles through the Suno API, delivering completed audio URLs without leaving the conversation context.",
+  "source_repo": "lioensky/mcp-suno",
+  "source_url": "https://github.com/lioensky/mcp-suno",
+  "install": "# git clone --depth 1 https://github.com/lioensky/mcp-suno\n# See source for mcpServers config block"
+}

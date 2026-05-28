@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-chestnyznak",
+  "description": "Product marking verification and lookup via the Russian Chestniy ZNAK traceability system.",
+  "source_repo": "theyahia/chestnyznak-mcp",
+  "source_url": "https://github.com/theyahia/chestnyznak-mcp",
+  "install": "npx -y chestnyznak-mcp"
+}

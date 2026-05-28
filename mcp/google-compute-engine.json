@@ -1,0 +1,7 @@
+{
+  "name": "google-compute-engine",
+  "description": "Google Compute Engine MCP server for AI-assisted management of virtual machines and cloud infrastructure.",
+  "source_repo": "",
+  "source_url": "https://compute.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://compute.googleapis.com/mcp\n# See source for mcpServers config block"
+}

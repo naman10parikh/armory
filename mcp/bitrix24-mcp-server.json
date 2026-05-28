@@ -1,0 +1,7 @@
+{
+  "name": "bitrix24-mcp-server",
+  "description": "Provides a REST API and MCP server to interact with Bitrix24 CRM, enabling CRUD operations on entities like deals, leads, contacts, and tasks via natural language.",
+  "source_repo": "OneAtDrt/Bitrix24_MCP_Server",
+  "source_url": "https://github.com/OneAtDrt/Bitrix24_MCP_Server",
+  "install": "npx -y Bitrix24_MCP_Server"
+}

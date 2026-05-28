@@ -1,0 +1,7 @@
+{
+  "name": "niko91i-deepseek-claude",
+  "description": "Combines DeepSeek's reasoning capabilities with Claude 3.5 Sonnet's response generation through OpenRouter to leverage both models' strengths in a single conversation flow",
+  "source_repo": "niko91i/mcp-deepseek-v3-et-claude-desktop",
+  "source_url": "https://github.com/niko91i/mcp-deepseek-v3-et-claude-desktop",
+  "install": "# git clone --depth 1 https://github.com/niko91i/mcp-deepseek-v3-et-claude-desktop\n# See source for mcpServers config block"
+}

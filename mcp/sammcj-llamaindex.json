@@ -1,0 +1,7 @@
+{
+  "name": "sammcj-llamaindex",
+  "description": "Integrates with LlamaIndexTS to provide access to various LLM providers for code generation, documentation writing, and question answering tasks",
+  "source_repo": "sammcj/mcp-llm",
+  "source_url": "https://github.com/sammcj/mcp-llm",
+  "install": "# git clone --depth 1 https://github.com/sammcj/mcp-llm\n# See source for mcpServers config block"
+}

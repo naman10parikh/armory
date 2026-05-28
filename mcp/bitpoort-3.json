@@ -1,0 +1,7 @@
+{
+  "name": "bitpoort-3",
+  "description": "On-chain blockchain data for AI agents. 41 MCP tools for whale tracking, entity analysis, exchange flows, ML predictions, wallet profiling, direct Ethereum RPC, and cross-chain signals across Ethereum, Bitcoin, and Hyperliquid.",
+  "source_repo": "",
+  "source_url": "https://bitpoort.com",
+  "install": "# git clone --depth 1 https://bitpoort.com\n# See source for mcpServers config block"
+}

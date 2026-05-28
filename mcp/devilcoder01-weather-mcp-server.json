@@ -1,0 +1,7 @@
+{
+  "name": "devilcoder01-weather-mcp-server",
+  "description": "Access real-time weather data for any location using the WeatherAPI.com API, providing detailed forecasts and current conditions.",
+  "source_repo": "devilcoder01/weather-mcp-server",
+  "source_url": "https://github.com/devilcoder01/weather-mcp-server",
+  "install": "npx -y weather-mcp-server"
+}

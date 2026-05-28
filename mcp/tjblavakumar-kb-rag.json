@@ -1,0 +1,7 @@
+{
+  "name": "tjblavakumar-kb-rag",
+  "description": "Builds and queries a local RAG knowledge base using ChromaDB and FastAPI.",
+  "source_repo": "tjblavakumar/mcp_kb_rag",
+  "source_url": "https://github.com/tjblavakumar/mcp_kb_rag",
+  "install": "# git clone --depth 1 https://github.com/tjblavakumar/mcp_kb_rag\n# See source for mcpServers config block"
+}

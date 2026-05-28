@@ -1,0 +1,7 @@
+{
+  "name": "gh-nanmesh-nan-forget",
+  "description": "Long-term memory for AI coding tools using Qdrant vector search with automatic consolidation.",
+  "source_repo": "nanmesh/nan-forget",
+  "source_url": "https://github.com/nanmesh/nan-forget",
+  "install": "# git clone --depth 1 https://github.com/nanmesh/nan-forget\n# See source for mcpServers config block"
+}

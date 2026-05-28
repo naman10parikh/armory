@@ -1,0 +1,7 @@
+{
+  "name": "altinoren-utopia",
+  "description": "MCP that simulates a set of smart home and lifestyle devices, allowing you to test agent's reasoning and discovery capabilities.",
+  "source_repo": "altinoren/Utopia",
+  "source_url": "https://github.com/altinoren/Utopia",
+  "install": "# git clone --depth 1 https://github.com/altinoren/Utopia\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neurynae-toolcairn",
+  "description": "Discover, compare, and verify tools across 35+ registries from your MCP host.",
+  "source_repo": "neurynae/toolcairn-mcp",
+  "source_url": "https://github.com/neurynae/toolcairn-mcp",
+  "install": "npx -y toolcairn-mcp"
+}

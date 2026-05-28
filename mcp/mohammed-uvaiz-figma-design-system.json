@@ -1,0 +1,7 @@
+{
+  "name": "mohammed-uvaiz-figma-design-system",
+  "description": "Bridges Figma's design ecosystem by extracting design system components, styles, and UI copy, enabling advanced design workflow analysis and documentation generation.",
+  "source_repo": "mohammeduvaiz/figma-mcp-server",
+  "source_url": "https://github.com/mohammeduvaiz/figma-mcp-server",
+  "install": "npx -y figma-mcp-server"
+}

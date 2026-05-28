@@ -1,0 +1,7 @@
+{
+  "name": "fastdomaincheck-mcp-server",
+  "description": "FastDomainCheck MCP Server MCP server listed on mcp.so.",
+  "source_repo": "bingal/FastDomainCheck-MCP-Server",
+  "source_url": "https://mcp.so/server/FastDomainCheck-MCP-Server/bingal",
+  "install": "npx -y FastDomainCheck-MCP-Server"
+}

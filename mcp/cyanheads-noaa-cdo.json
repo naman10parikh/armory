@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-noaa-cdo",
+  "description": "Search NOAA Climate Data Online stations and datasets, and fetch historical weather observations.",
+  "source_repo": "cyanheads/noaa-cdo-mcp-server",
+  "source_url": "https://github.com/cyanheads/noaa-cdo-mcp-server",
+  "install": "npx -y noaa-cdo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-samgov",
+  "description": "Federal contract opportunities and entity registration data from SAM.gov via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-samgov",
+  "source_url": "https://github.com/pipeworx-io/mcp-samgov",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-samgov\n# See source for mcpServers config block"
+}

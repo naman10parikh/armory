@@ -1,0 +1,7 @@
+{
+  "name": "jasonmeverett-cloudera-ai-agent-studio",
+  "description": "Provides a bridge between Cloudera AI Agent Studio and external tools, enabling automated creation and management of multi-agent workflows with hierarchical structures through the Agent Studio API.",
+  "source_repo": "jasonmeverett/cloudera-ai-agent-studio-mcp",
+  "source_url": "https://github.com/jasonmeverett/cloudera-ai-agent-studio-mcp",
+  "install": "npx -y cloudera-ai-agent-studio-mcp"
+}

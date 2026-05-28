@@ -1,0 +1,7 @@
+{
+  "name": "high5-ventures-apple-reminders",
+  "description": "Native macOS integration for Apple Reminders with full CRUD operations via EventKit.",
+  "source_repo": "high5-ventures/apple-reminders-for-claude",
+  "source_url": "https://github.com/high5-ventures/apple-reminders-for-claude",
+  "install": "# git clone --depth 1 https://github.com/high5-ventures/apple-reminders-for-claude\n# See source for mcpServers config block"
+}

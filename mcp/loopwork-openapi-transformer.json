@@ -1,0 +1,7 @@
+{
+  "name": "loopwork-openapi-transformer",
+  "description": "Transforms OpenAPI specifications into ready-to-use tools that enable seamless interaction with REST APIs through automatic endpoint mapping, authentication handling, and response formatting.",
+  "source_repo": "mattt/emcee",
+  "source_url": "https://github.com/mattt/emcee",
+  "install": "# git clone --depth 1 https://github.com/mattt/emcee\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sentinelsignal-verify",
+  "description": "MCP server discovery, comparison, readiness scoring, and validation reports from Sentinel Signal.",
+  "source_repo": "bmiller1009/claim-risk-score",
+  "source_url": "https://github.com/bmiller1009/claim-risk-score",
+  "install": "# git clone --depth 1 https://github.com/bmiller1009/claim-risk-score\n# See source for mcpServers config block"
+}

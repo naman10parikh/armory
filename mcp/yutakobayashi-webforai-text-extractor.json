@@ -1,0 +1,7 @@
+{
+  "name": "yutakobayashi-webforai-text-extractor",
+  "description": "Extracts and processes web page content into clean, readable markdown format for research and information gathering",
+  "source_repo": "yutakobayashidev/webforai-mcp-server",
+  "source_url": "https://github.com/yutakobayashidev/webforai-mcp-server",
+  "install": "npx -y webforai-mcp-server"
+}

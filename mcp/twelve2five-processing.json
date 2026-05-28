@@ -1,0 +1,7 @@
+{
+  "name": "twelve2five-processing",
+  "description": "Generates and executes Processing sketches by creating timestamped project folders, saving code files, and launching interactive visualizations for creative coding and generative art workflows.",
+  "source_repo": "twelve2five/processing-mcp-server",
+  "source_url": "https://github.com/twelve2five/processing-mcp-server",
+  "install": "npx -y processing-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dreamlit",
+  "description": "AI-powered email workflow automation platform with MCP integration.",
+  "source_repo": "dreamlit-ai/dreamlit-mcp",
+  "source_url": "https://github.com/dreamlit-ai/dreamlit-mcp",
+  "install": "npx -y dreamlit-mcp"
+}

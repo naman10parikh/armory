@@ -1,0 +1,7 @@
+{
+  "name": "kiran1689-storyblok",
+  "description": "Enables your AI assistants to directly access and manage your Storyblok spaces, stories, components, assets, workflows, and more.",
+  "source_repo": "kiran1689/storyblok-mcp-server",
+  "source_url": "https://github.com/kiran1689/storyblok-mcp-server",
+  "install": "npx -y storyblok-mcp-server"
+}

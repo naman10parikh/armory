@@ -1,0 +1,7 @@
+{
+  "name": "devjoaocastro-continuum",
+  "description": "Local-first developer memory system that captures coding context from git commits with temporal decay and cross-project learning.",
+  "source_repo": "devjoaocastro/continuum",
+  "source_url": "https://github.com/devjoaocastro/continuum",
+  "install": "# git clone --depth 1 https://github.com/devjoaocastro/continuum\n# See source for mcpServers config block"
+}

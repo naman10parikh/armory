@@ -1,0 +1,7 @@
+{
+  "name": "ragalgo",
+  "description": "Financial data and sentiment analysis for Korean stock and cryptocurrency markets",
+  "source_repo": "kokogo100/ragalgo-mcp-server",
+  "source_url": "https://github.com/kokogo100/ragalgo-mcp-server",
+  "install": "npx -y ragalgo-mcp-server"
+}

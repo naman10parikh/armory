@@ -1,0 +1,7 @@
+{
+  "name": "linear-mcp-server",
+  "description": "Enables interaction with Linear workspace through the Model Context Protocol, supporting issue management, project cycles, teams, and global search.",
+  "source_repo": "Efabien/linear-mcp-server",
+  "source_url": "https://github.com/Efabien/linear-mcp-server",
+  "install": "npx -y linear-mcp-server"
+}

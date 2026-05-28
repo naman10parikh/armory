@@ -1,0 +1,7 @@
+{
+  "name": "montimage-mitre-attack",
+  "description": "Access the MITRE ATT&CK cybersecurity knowledge base",
+  "source_repo": "montimage/mitre-mcp",
+  "source_url": "https://github.com/montimage/mitre-mcp",
+  "install": "npx -y mitre-mcp"
+}

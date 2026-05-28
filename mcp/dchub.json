@@ -1,0 +1,7 @@
+{
+  "name": "dchub",
+  "description": "Query 20,000+ data center facilities across 140+ countries, track M&A transactions, analyze grid fuel mix, score locations for suitability, and access industry news.",
+  "source_repo": "",
+  "source_url": "https://dchub.cloud",
+  "install": "# git clone --depth 1 https://dchub.cloud\n# See source for mcpServers config block"
+}

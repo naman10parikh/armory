@@ -1,0 +1,7 @@
+{
+  "name": "powerplatform-mcp",
+  "description": "Powerplatform Mcp MCP server listed on mcp.so.",
+  "source_repo": "michsob/powerplatform-mcp",
+  "source_url": "https://mcp.so/server/powerplatform-mcp/michsob",
+  "install": "npx -y powerplatform-mcp"
+}

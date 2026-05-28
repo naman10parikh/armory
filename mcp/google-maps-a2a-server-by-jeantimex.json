@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-a2a-server-by-jeantimex",
+  "description": "Enables AI agents to use Google Maps features (geocoding, elevation, search, directions) via the A2A protocol",
+  "source_repo": "jeantimex/google-maps-a2a-server",
+  "source_url": "https://github.com/jeantimex/google-maps-a2a-server",
+  "install": "# git clone --depth 1 https://github.com/jeantimex/google-maps-a2a-server\n# See source for mcpServers config block"
+}

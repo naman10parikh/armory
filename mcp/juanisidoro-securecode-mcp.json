@@ -1,0 +1,7 @@
+{
+  "name": "juanisidoro-securecode-mcp",
+  "description": "Secrets vault for Claude Code with audit logs, MCP access rules, and AES-256 encryption. Secrets are injected to local files so the AI never sees raw values. Includes session lock, device approval, and per-model access policies.",
+  "source_repo": "juanisidoro/securecode-mcp",
+  "source_url": "https://github.com/juanisidoro/securecode-mcp",
+  "install": "npx -y securecode-mcp"
+}

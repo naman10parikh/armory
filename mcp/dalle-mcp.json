@@ -1,0 +1,7 @@
+{
+  "name": "dalle-mcp",
+  "description": "Dalle Mcp MCP server listed on mcp.so.",
+  "source_repo": "Garoth/dalle-mcp",
+  "source_url": "https://mcp.so/server/dalle-mcp/Garoth",
+  "install": "npx -y dalle-mcp"
+}

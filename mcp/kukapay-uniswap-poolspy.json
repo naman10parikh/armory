@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-uniswap-poolspy",
+  "description": "Tracks newly created Uniswap V3 liquidity pools across nine blockchain networks, providing detailed metrics like transaction count, volume, and TVL for cryptocurrency traders and researchers.",
+  "source_repo": "kukapay/uniswap-poolspy-mcp",
+  "source_url": "https://github.com/kukapay/uniswap-poolspy-mcp",
+  "install": "npx -y uniswap-poolspy-mcp"
+}

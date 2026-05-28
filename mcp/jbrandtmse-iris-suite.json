@@ -1,0 +1,7 @@
+{
+  "name": "jbrandtmse-iris-suite",
+  "description": "Suite of five specialized servers for InterSystems IRIS covering development, administration, interoperability, operations, and data analytics with 87 total tools.",
+  "source_repo": "jbrandtmse/iris-execute-mcp-v2",
+  "source_url": "https://github.com/jbrandtmse/iris-execute-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/jbrandtmse/iris-execute-mcp-v2\n# See source for mcpServers config block"
+}

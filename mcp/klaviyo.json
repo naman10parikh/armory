@@ -1,0 +1,7 @@
+{
+  "name": "klaviyo",
+  "description": "Integrates with Klaviyo's marketing automation platform to manage campaigns, flows, profiles, events, catalogs, and reporting data with OAuth authentication and configurable security options.",
+  "source_repo": "klaviyo/klaviyo-mcp-server",
+  "source_url": "https://github.com/klaviyo/klaviyo-mcp-server",
+  "install": "npx -y klaviyo-mcp-server"
+}

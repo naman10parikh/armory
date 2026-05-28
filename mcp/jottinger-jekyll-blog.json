@@ -1,0 +1,7 @@
+{
+  "name": "jottinger-jekyll-blog",
+  "description": "Indexes Jekyll blog posts and drafts with keyword search, category filtering, and content retrieval to enable content analysis, duplicate detection, and AI-assisted writing workflows.",
+  "source_repo": "jottinger/jekyll-mcp-server",
+  "source_url": "https://github.com/jottinger/jekyll-mcp-server",
+  "install": "npx -y jekyll-mcp-server"
+}

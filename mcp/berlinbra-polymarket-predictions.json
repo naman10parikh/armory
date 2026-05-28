@@ -1,0 +1,7 @@
+{
+  "name": "berlinbra-polymarket-predictions",
+  "description": "Integrates with PolyMarket's API to fetch and analyze prediction market data for financial insights and decision support.",
+  "source_repo": "berlinbra/polymarket-mcp",
+  "source_url": "https://github.com/berlinbra/polymarket-mcp",
+  "install": "npx -y polymarket-mcp"
+}

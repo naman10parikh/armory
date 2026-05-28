@@ -1,0 +1,7 @@
+{
+  "name": "setswei-semaphoreui",
+  "description": "MCP server for managing Semaphore UI CI/CD projects, tasks, templates, and schedules.",
+  "source_repo": "setswei/semaphoreui-mcp",
+  "source_url": "https://github.com/setswei/semaphoreui-mcp",
+  "install": "npx -y semaphoreui-mcp"
+}

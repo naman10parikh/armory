@@ -1,0 +1,7 @@
+{
+  "name": "nodeblue-studio-5000",
+  "description": "Parse and reason over Rockwell Allen-Bradley Studio 5000 L5X PLC files with AI, converting ladder logic to compact NeutralText format.",
+  "source_repo": "nodeblue-ai/studio5000-mcp-server",
+  "source_url": "https://github.com/nodeblue-ai/studio5000-mcp-server",
+  "install": "npx -y studio5000-mcp-server"
+}

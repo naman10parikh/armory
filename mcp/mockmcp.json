@@ -1,0 +1,7 @@
+{
+  "name": "mockmcp",
+  "description": "Hosted mock MCP endpoint with realistic fake data for rapid agent prototyping.",
+  "source_repo": "k-cupples/mockmcp",
+  "source_url": "https://github.com/k-cupples/mockmcp",
+  "install": "# git clone --depth 1 https://github.com/k-cupples/mockmcp\n# See source for mcpServers config block"
+}

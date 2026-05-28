@@ -1,0 +1,7 @@
+{
+  "name": "kdursunnizam-relion",
+  "description": "MCP server for RELION 5.x cryo-EM structure determination with 23 tools covering single-particle analysis workflows.",
+  "source_repo": "kdursunnizam-art/relion-mcp-server",
+  "source_url": "https://github.com/kdursunnizam-art/relion-mcp-server",
+  "install": "npx -y relion-mcp-server"
+}

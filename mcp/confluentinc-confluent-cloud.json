@@ -1,0 +1,7 @@
+{
+  "name": "confluentinc-confluent-cloud",
+  "description": "Enables natural language management of Kafka topics, connectors, and Flink SQL statements through Confluent Cloud REST APIs for streamlined data streaming operations",
+  "source_repo": "confluentinc/mcp-confluent",
+  "source_url": "https://github.com/confluentinc/mcp-confluent",
+  "install": "# git clone --depth 1 https://github.com/confluentinc/mcp-confluent\n# See source for mcpServers config block"
+}

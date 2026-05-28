@@ -1,0 +1,7 @@
+{
+  "name": "jgravelle-jcodemunch",
+  "description": "Token-efficient code exploration via tree-sitter AST parsing supporting 25+ programming languages.",
+  "source_repo": "jgravelle/jcodemunch-mcp",
+  "source_url": "https://github.com/jgravelle/jcodemunch-mcp",
+  "install": "npx -y jcodemunch-mcp"
+}

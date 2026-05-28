@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-mcp-server",
+  "description": "Minecraft Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "yuniko-software/minecraft-mcp-server",
+  "source_url": "https://mcp.so/server/minecraft-mcp-server/yuniko-software",
+  "install": "npx -y minecraft-mcp-server"
+}

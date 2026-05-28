@@ -1,0 +1,7 @@
+{
+  "name": "openworkspace-aws-s3",
+  "description": "Provides secure, pre-signed URL-based access to AWS S3 bucket operations with configurable expiration times for simplified cloud storage interactions.",
+  "source_repo": "openworkspace-o1/aws-ow-s3-mcp",
+  "source_url": "https://github.com/openworkspace-o1/aws-ow-s3-mcp",
+  "install": "npx -y aws-ow-s3-mcp"
+}

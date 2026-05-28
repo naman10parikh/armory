@@ -1,0 +1,7 @@
+{
+  "name": "hostsmith",
+  "description": "Managed hosting service that provides infrastructure management and deployment tools via MCP.",
+  "source_repo": "hostsmith/mcp-server",
+  "source_url": "https://github.com/hostsmith/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/hostsmith/mcp-server\n# See source for mcpServers config block"
+}

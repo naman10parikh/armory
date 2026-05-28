@@ -1,0 +1,7 @@
+{
+  "name": "fdionisi-gitingest",
+  "description": "Provides direct access to GitHub and GitLab repositories for code exploration, searching, and analysis with intelligent file filtering and support for various Git references.",
+  "source_repo": "fdionisi/gitingest-mcp",
+  "source_url": "https://github.com/fdionisi/gitingest-mcp",
+  "install": "npx -y gitingest-mcp"
+}

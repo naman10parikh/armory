@@ -1,0 +1,7 @@
+{
+  "name": "sooperset-atlassian",
+  "description": "Access Confluence pages and Jira issues via Atlassian API.",
+  "source_repo": "sooperset/mcp-atlassian",
+  "source_url": "https://github.com/sooperset/mcp-atlassian",
+  "install": "# git clone --depth 1 https://github.com/sooperset/mcp-atlassian\n# See source for mcpServers config block"
+}

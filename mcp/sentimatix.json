@@ -1,0 +1,7 @@
+{
+  "name": "sentimatix",
+  "description": "Real-time Indian stock market sentiment analysis delivering NSE/BSE news NLP scores, technical indicators, and RAG-based news search for AI agents.",
+  "source_repo": "rishav0123/sentimatix",
+  "source_url": "https://github.com/rishav0123/sentimatix",
+  "install": "# git clone --depth 1 https://github.com/rishav0123/sentimatix\n# See source for mcpServers config block"
+}

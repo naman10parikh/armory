@@ -1,0 +1,7 @@
+{
+  "name": "perception",
+  "description": "Real-time digital asset narrative intelligence from 1,000+ curated media sources.",
+  "source_repo": "",
+  "source_url": "https://perception.to",
+  "install": "# git clone --depth 1 https://perception.to\n# See source for mcpServers config block"
+}

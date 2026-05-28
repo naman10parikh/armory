@@ -1,0 +1,7 @@
+{
+  "name": "euleriantechnologies-eulerian",
+  "description": "Access Eulerian Marketing Platform analytics, attribution, and data activation capabilities.",
+  "source_repo": "euleriantechnologies/eulerian-marketing-platform-mcp",
+  "source_url": "https://github.com/euleriantechnologies/eulerian-marketing-platform-mcp",
+  "install": "npx -y eulerian-marketing-platform-mcp"
+}

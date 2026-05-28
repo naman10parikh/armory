@@ -1,0 +1,7 @@
+{
+  "name": "jar285-discord",
+  "description": "Provides a bridge between Discord and AI assistants, enabling comprehensive server management, channel operations, message handling, and community engagement through discord.js integration.",
+  "source_repo": "jar285/mcp-discord",
+  "source_url": "https://github.com/jar285/mcp-discord",
+  "install": "# git clone --depth 1 https://github.com/jar285/mcp-discord\n# See source for mcpServers config block"
+}

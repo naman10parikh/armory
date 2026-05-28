@@ -1,0 +1,7 @@
+{
+  "name": "drishti",
+  "description": "Indian media intelligence with bilingual sentiment analysis, source credibility scoring, and story clustering.",
+  "source_repo": "yashkapoor43-gif/drishti",
+  "source_url": "https://github.com/yashkapoor43-gif/drishti/tree/HEAD/drishti-mcp",
+  "install": "# git clone --depth 1 https://github.com/yashkapoor43-gif/drishti/tree/HEAD/drishti-mcp\n# See source for mcpServers config block"
+}

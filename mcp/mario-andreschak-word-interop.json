@@ -1,0 +1,7 @@
+{
+  "name": "mario-andreschak-word-interop",
+  "description": "Enables automated Microsoft Word document manipulation by exposing comprehensive tools for text editing, formatting, table management, image insertion, and page setup through a Windows-specific COM Interop server.",
+  "source_repo": "mario-andreschak/mcp-msoffice-interop-word",
+  "source_url": "https://github.com/mario-andreschak/mcp-msoffice-interop-word",
+  "install": "# git clone --depth 1 https://github.com/mario-andreschak/mcp-msoffice-interop-word\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "miller-joe-comfyui",
+  "description": "Controls a local ComfyUI instance for text-to-image generation, variations, refinement, and upscaling.",
+  "source_repo": "miller-joe/comfyui-mcp",
+  "source_url": "https://github.com/miller-joe/comfyui-mcp",
+  "install": "npx -y comfyui-mcp"
+}

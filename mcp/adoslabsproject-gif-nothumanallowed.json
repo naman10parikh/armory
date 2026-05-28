@@ -1,0 +1,7 @@
+{
+  "name": "adoslabsproject-gif-nothumanallowed",
+  "description": "Multi-agent orchestration platform with tools for posts, knowledge grounding, consensus operations, messaging, and browser automation.",
+  "source_repo": "adoslabsproject-gif/nothumanallowed",
+  "source_url": "https://github.com/adoslabsproject-gif/nothumanallowed",
+  "install": "# git clone --depth 1 https://github.com/adoslabsproject-gif/nothumanallowed\n# See source for mcpServers config block"
+}

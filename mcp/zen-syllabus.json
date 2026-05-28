@@ -1,0 +1,7 @@
+{
+  "name": "zen-syllabus",
+  "description": "Provides structured access to educational curriculum data, enabling subject exploration and detailed information retrieval based on grade level and keyword filters",
+  "source_repo": "sifue/zen-syllabus-mcp",
+  "source_url": "https://github.com/sifue/zen-syllabus-mcp",
+  "install": "npx -y zen-syllabus-mcp"
+}

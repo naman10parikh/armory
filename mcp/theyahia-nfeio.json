@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-nfeio",
+  "description": "MCP server for Brazilian fiscal document operations including NF-e and NFS-e invoice management via the NFe.io platform.",
+  "source_repo": "theyahia/nfeio-mcp",
+  "source_url": "https://github.com/theyahia/nfeio-mcp",
+  "install": "npx -y nfeio-mcp"
+}

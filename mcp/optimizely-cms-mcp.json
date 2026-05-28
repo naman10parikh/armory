@@ -1,0 +1,7 @@
+{
+  "name": "optimizely-cms-mcp",
+  "description": "Enables AI assistants to interact with Optimizely CMS via its GraphQL and Content Management APIs, supporting dynamic content discovery, retrieval, and management.",
+  "source_repo": "first3things/optimizely-cms-mcp",
+  "source_url": "https://github.com/first3things/optimizely-cms-mcp",
+  "install": "npx -y optimizely-cms-mcp"
+}

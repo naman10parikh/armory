@@ -1,0 +1,7 @@
+{
+  "name": "eventship",
+  "description": "Run in-person events from your AI assistant: create events, manage tickets, attendees, and broadcasts.",
+  "source_repo": "",
+  "source_url": "https://mcp.eventship.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.eventship.com/mcp\n# See source for mcpServers config block"
+}

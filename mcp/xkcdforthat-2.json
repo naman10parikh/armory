@@ -1,0 +1,7 @@
+{
+  "name": "xkcdforthat-2",
+  "description": "Find the obligatory xkcd for whatever you're working on. Article, slide deck, memo, PDF, blog post. Plug it into your AI tool. Your model searches our index of all xkcd comics annotated with applicability, humor type, and themes, picks the right one, and drops it inline.",
+  "source_repo": "",
+  "source_url": "https://xkcdforthat.com",
+  "install": "# git clone --depth 1 https://xkcdforthat.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nocentino-sql-server-dba",
+  "description": "MCP server providing 30 DBA monitoring tools for SQL Server 2025 via DMVs, covering blocking chains, wait statistics, index analysis, and backup status.",
+  "source_repo": "nocentino/sql-mcp-server",
+  "source_url": "https://github.com/nocentino/sql-mcp-server",
+  "install": "npx -y sql-mcp-server"
+}

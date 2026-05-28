@@ -1,0 +1,7 @@
+{
+  "name": "nacgarg-bazel",
+  "description": "Bridges AI with Bazel build system, enabling target building, dependency querying, test running, and workspace management even in environments with misconfigured shells.",
+  "source_repo": "nacgarg/bazel-mcp-server",
+  "source_url": "https://github.com/nacgarg/bazel-mcp-server",
+  "install": "npx -y bazel-mcp-server"
+}

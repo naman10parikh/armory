@@ -1,0 +1,7 @@
+{
+  "name": "n24q02m-code-review-graph",
+  "description": "Knowledge graph for token-efficient code reviews with fixed search, configurable embeddings, and qualified call resolution.",
+  "source_repo": "n24q02m/better-code-review-graph",
+  "source_url": "https://github.com/n24q02m/better-code-review-graph",
+  "install": "# git clone --depth 1 https://github.com/n24q02m/better-code-review-graph\n# See source for mcpServers config block"
+}

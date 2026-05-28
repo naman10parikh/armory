@@ -1,0 +1,7 @@
+{
+  "name": "coderegistry",
+  "description": "Enterprise code intelligence for M&A, security audits, and technical debt analysis.",
+  "source_repo": "the-code-registry/mcp-server",
+  "source_url": "https://github.com/the-code-registry/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/the-code-registry/mcp-server\n# See source for mcpServers config block"
+}

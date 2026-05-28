@@ -1,0 +1,7 @@
+{
+  "name": "madhavi-opsera-bug-detector",
+  "description": "Identifies and analyzes software defects through automated code analysis for quality assurance and development process enhancement.",
+  "source_repo": "madhavi-opsera/bug-detector",
+  "source_url": "https://github.com/madhavi-opsera/bug-detector",
+  "install": "# git clone --depth 1 https://github.com/madhavi-opsera/bug-detector\n# See source for mcpServers config block"
+}

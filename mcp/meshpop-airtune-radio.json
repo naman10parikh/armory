@@ -1,0 +1,7 @@
+{
+  "name": "meshpop-airtune-radio",
+  "description": "Internet radio search and playback across 55,000+ stations from 200+ countries with multilingual support.",
+  "source_repo": "meshpop/radiomcp",
+  "source_url": "https://github.com/meshpop/radiomcp",
+  "install": "# git clone --depth 1 https://github.com/meshpop/radiomcp\n# See source for mcpServers config block"
+}

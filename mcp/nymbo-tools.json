@@ -1,0 +1,7 @@
+{
+  "name": "nymbo-tools",
+  "description": "General-purpose tools including web fetch, search, code interpreter, and media generation",
+  "source_repo": "",
+  "source_url": "https://www.nymbo.net",
+  "install": "# git clone --depth 1 https://www.nymbo.net\n# See source for mcpServers config block"
+}

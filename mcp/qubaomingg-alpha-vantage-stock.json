@@ -1,0 +1,7 @@
+{
+  "name": "qubaomingg-alpha-vantage-stock",
+  "description": "Integrates with Alpha Vantage API to provide real-time and historical stock market data, enabling financial analysis with customizable price alerts and data retrieval options.",
+  "source_repo": "qubaomingg/stock-analysis-mcp",
+  "source_url": "https://github.com/qubaomingg/stock-analysis-mcp",
+  "install": "npx -y stock-analysis-mcp"
+}

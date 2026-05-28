@@ -1,0 +1,7 @@
+{
+  "name": "yourtablecloth-windows-sandbox",
+  "description": "Provides complete lifecycle management of Windows Sandbox instances on Windows 11 24H2+ with customizable configurations, command execution, and shared directory management for automated testing, secure code execution, and isolated development workflows.",
+  "source_repo": "yourtablecloth/windowssandboxmcp",
+  "source_url": "https://github.com/yourtablecloth/windowssandboxmcp",
+  "install": "# git clone --depth 1 https://github.com/yourtablecloth/windowssandboxmcp\n# See source for mcpServers config block"
+}

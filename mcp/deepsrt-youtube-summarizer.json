@@ -1,0 +1,7 @@
+{
+  "name": "deepsrt-youtube-summarizer",
+  "description": "Integrates with DeepSRT's API to generate multi-language video summaries in narrative or bullet-point formats, leveraging content caching and CDN edge delivery for efficient retrieval.",
+  "source_repo": "deepsrt/deepsrt-mcp",
+  "source_url": "https://github.com/deepsrt/deepsrt-mcp",
+  "install": "npx -y deepsrt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cryptoleek-solana-rugcheck-transaction-helper",
+  "description": "Integrates with Solana blockchain to enable token security analysis and transaction execution through RugCheck for scam detection and TransactionHelper for retrieving transaction history.",
+  "source_repo": "cryptoleek-team/goat-mcp",
+  "source_url": "https://github.com/cryptoleek-team/goat-mcp",
+  "install": "npx -y goat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "whenmoon-memory",
+  "description": "Provides persistent memory capabilities through sentence transformers and vector similarity search, enabling storage and retrieval of conversations, facts, documents, and code snippets across sessions",
+  "source_repo": "whenmoon-afk/claude-memory-mcp",
+  "source_url": "https://github.com/whenmoon-afk/claude-memory-mcp",
+  "install": "npx -y claude-memory-mcp"
+}

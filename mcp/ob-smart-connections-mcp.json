@@ -1,0 +1,7 @@
+{
+  "name": "ob-smart-connections-mcp",
+  "description": "Enables AI agents to find semantic connections and perform text searches in Obsidian vaults using the Smart Connections plugin data.",
+  "source_repo": "yejianye/ob-smart-connections-mcp",
+  "source_url": "https://github.com/yejianye/ob-smart-connections-mcp",
+  "install": "npx -y ob-smart-connections-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gstd-a2a-mcp-server",
+  "description": "Enables AI agents to participate in a decentralized network, earn GSTD tokens by performing computational tasks, and communicate via the A2A protocol.",
+  "source_repo": "gstdcoin/A2A",
+  "source_url": "https://github.com/gstdcoin/A2A",
+  "install": "# git clone --depth 1 https://github.com/gstdcoin/A2A\n# See source for mcpServers config block"
+}

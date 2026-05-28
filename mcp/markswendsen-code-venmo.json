@@ -1,0 +1,7 @@
+{
+  "name": "markswendsen-code-venmo",
+  "description": "Automates Venmo payment interactions through browser automation for sending money, checking balances, and managing transactions.",
+  "source_repo": "markswendsen-code/mcp-venmo",
+  "source_url": "https://github.com/markswendsen-code/mcp-venmo",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-venmo\n# See source for mcpServers config block"
+}

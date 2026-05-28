@@ -1,0 +1,7 @@
+{
+  "name": "shashwatgtm-gtm-alpha",
+  "description": "Professional Go-To-Market strategy consultation with EPIC framework analysis",
+  "source_repo": "shashwatgtm/gtm-expert-schema",
+  "source_url": "https://github.com/shashwatgtm/gtm-expert-schema",
+  "install": "# git clone --depth 1 https://github.com/shashwatgtm/gtm-expert-schema\n# See source for mcpServers config block"
+}

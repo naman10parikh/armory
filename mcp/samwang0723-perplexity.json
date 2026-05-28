@@ -1,0 +1,7 @@
+{
+  "name": "samwang0723-perplexity",
+  "description": "Integrates with Perplexity.ai to provide real-time web search, research with citations, and complex reasoning capabilities through three specialized tools for conversational queries, deep research, and analytical tasks.",
+  "source_repo": "samwang0723/mcp-perplexity",
+  "source_url": "https://github.com/samwang0723/mcp-perplexity",
+  "install": "# git clone --depth 1 https://github.com/samwang0723/mcp-perplexity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openshift-pipelines-tekton",
+  "description": "Enables DevOps teams to start and monitor Tekton CI/CD pipelines in Kubernetes environments through natural language commands without requiring direct cluster access.",
+  "source_repo": "openshift-pipelines/mcp-tekton",
+  "source_url": "https://github.com/openshift-pipelines/mcp-tekton",
+  "install": "# git clone --depth 1 https://github.com/openshift-pipelines/mcp-tekton\n# See source for mcpServers config block"
+}

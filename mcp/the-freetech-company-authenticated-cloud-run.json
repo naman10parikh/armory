@@ -1,0 +1,7 @@
+{
+  "name": "the-freetech-company-authenticated-cloud-run",
+  "description": "Enables secure hosting on Google Cloud Run with user-based IAM authentication, providing controlled access to custom servers over the internet for team collaboration.",
+  "source_repo": "the-freetech-company/mcp-sse-authenticated-cloud-run",
+  "source_url": "https://github.com/the-freetech-company/mcp-sse-authenticated-cloud-run",
+  "install": "# git clone --depth 1 https://github.com/the-freetech-company/mcp-sse-authenticated-cloud-run\n# See source for mcpServers config block"
+}

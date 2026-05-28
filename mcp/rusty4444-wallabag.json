@@ -1,0 +1,7 @@
+{
+  "name": "rusty4444-wallabag",
+  "description": "Manages wallabag read-it-later entries, tags, and annotations via MCP.",
+  "source_repo": "rusty4444/wallabag-mcp",
+  "source_url": "https://github.com/rusty4444/wallabag-mcp",
+  "install": "npx -y wallabag-mcp"
+}

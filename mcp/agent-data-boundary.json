@@ -1,0 +1,7 @@
+{
+  "name": "agent-data-boundary",
+  "description": "Permission boundary mapping, sensitive field flagging, and data access receipts for AI agent deployments.",
+  "source_repo": "clauxel/agent-data-boundary-mcp",
+  "source_url": "https://github.com/clauxel/agent-data-boundary-mcp",
+  "install": "npx -y agent-data-boundary-mcp"
+}

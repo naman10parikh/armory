@@ -1,0 +1,7 @@
+{
+  "name": "zacarx-java-sink-tracer",
+  "description": "Analyzes Java applications for security vulnerabilities by tracing data flow through parsed code to identify potential SQL injection, XSS, and other security sink points with automated vulnerability reporting and code extraction capabilities.",
+  "source_repo": "zacarx/javasinktracer_mcp",
+  "source_url": "https://github.com/zacarx/javasinktracer_mcp",
+  "install": "npx -y javasinktracer_mcp"
+}

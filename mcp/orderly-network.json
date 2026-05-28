@@ -1,0 +1,7 @@
+{
+  "name": "orderly-network",
+  "description": "Provides documentation, SDK patterns, smart contract addresses, and API specifications for Orderly Network's omnichain perpetual futures trading infrastructure, enabling developers to build trading interfaces and integrate with cross-chain trading operations.",
+  "source_repo": "orderlynetwork/orderly-mcp",
+  "source_url": "https://github.com/orderlynetwork/orderly-mcp",
+  "install": "npx -y orderly-mcp"
+}

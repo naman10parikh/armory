@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-dora-compliance-mcp",
+  "description": "Tools for Digital Operational Resilience Act compliance and documentation.",
+  "source_repo": "csoai-org/dora-compliance-mcp",
+  "source_url": "https://github.com/csoai-org/dora-compliance-mcp",
+  "install": "npx -y dora-compliance-mcp"
+}

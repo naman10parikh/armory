@@ -1,0 +1,7 @@
+{
+  "name": "gh-ansh-bitontree-icd10-cm-medical-coding",
+  "description": "Provides ICD-10-CM medical coding tools with a RAG pipeline for clinical note analysis.",
+  "source_repo": "ansh-bitontree/icd10-mcp",
+  "source_url": "https://github.com/ansh-bitontree/icd10-mcp",
+  "install": "npx -y icd10-mcp"
+}

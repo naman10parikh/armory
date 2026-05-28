@@ -1,0 +1,7 @@
+{
+  "name": "jessemarshall-coalesce-transform",
+  "description": "Manage Coalesce data transformation workspaces, nodes, pipelines, environments, jobs, and runs through the Coalesce Transform API.",
+  "source_repo": "coalesce-software-inc/coalesce-transform-mcp",
+  "source_url": "https://github.com/coalesce-software-inc/coalesce-transform-mcp",
+  "install": "npx -y coalesce-transform-mcp"
+}

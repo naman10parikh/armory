@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-tree-sitter",
+  "description": "Mcp Server Tree Sitter MCP server listed on mcp.so.",
+  "source_repo": "wrale/mcp-server-tree-sitter",
+  "source_url": "https://mcp.so/server/mcp-server-tree-sitter/wrale",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-tree-sitter/wrale\n# See source for mcpServers config block"
+}

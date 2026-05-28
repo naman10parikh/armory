@@ -1,0 +1,7 @@
+{
+  "name": "mcp-3d-printer-server",
+  "description": "Enables users to connect Claude with various 3D printer management systems, allowing tasks like printer status monitoring, file management, print job control, and STL file manipulation.",
+  "source_repo": "mcpflow/DMontgomery40_mcp-3D-printer-server",
+  "source_url": "https://github.com/mcpflow/DMontgomery40_mcp-3D-printer-server",
+  "install": "# git clone --depth 1 https://github.com/mcpflow/DMontgomery40_mcp-3D-printer-server\n# See source for mcpServers config block"
+}

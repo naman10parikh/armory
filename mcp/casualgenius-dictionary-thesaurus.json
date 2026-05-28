@@ -1,0 +1,7 @@
+{
+  "name": "casualgenius-dictionary-thesaurus",
+  "description": "Provides English word definitions, synonyms, and example usage through the Free Dictionary API for writing assistance and vocabulary building applications.",
+  "source_repo": "casualgenius/mcp-servers",
+  "source_url": "https://github.com/casualgenius/mcp-servers/tree/HEAD/servers/words",
+  "install": "# git clone --depth 1 https://github.com/casualgenius/mcp-servers/tree/HEAD/servers/words\n# See source for mcpServers config block"
+}

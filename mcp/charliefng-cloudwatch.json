@@ -1,0 +1,7 @@
+{
+  "name": "charliefng-cloudwatch",
+  "description": "Provides direct access to AWS CloudWatch resources for monitoring application health, investigating logs, and analyzing metrics through tools for listing log groups, retrieving alarms, executing queries, and accessing saved queries.",
+  "source_repo": "charliefng/cloudwatch-mcp",
+  "source_url": "https://github.com/charliefng/cloudwatch-mcp",
+  "install": "npx -y cloudwatch-mcp"
+}

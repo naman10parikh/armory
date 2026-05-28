@@ -1,0 +1,7 @@
+{
+  "name": "jalehman-sage",
+  "description": "Provides tools for sending prompts to Gemini 2.5 Pro with full file context, enabling second opinions and expert code reviews with gitignore-aware directory traversal.",
+  "source_repo": "jalehman/mcp-sage",
+  "source_url": "https://github.com/jalehman/mcp-sage",
+  "install": "# git clone --depth 1 https://github.com/jalehman/mcp-sage\n# See source for mcpServers config block"
+}

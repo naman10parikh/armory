@@ -1,0 +1,7 @@
+{
+  "name": "trojaner-database-query",
+  "description": "PostgreSQL and SQL Server query tool with interactive grid UI and Chart.js visualizations.",
+  "source_repo": "trojaner/mcp-database-query-app",
+  "source_url": "https://github.com/trojaner/mcp-database-query-app",
+  "install": "# git clone --depth 1 https://github.com/trojaner/mcp-database-query-app\n# See source for mcpServers config block"
+}

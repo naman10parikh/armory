@@ -1,0 +1,7 @@
+{
+  "name": "nikomatsakis-zulook",
+  "description": "Read-only access to Zulip conversations with CLI, MCP, and ACP proxy modes.",
+  "source_repo": "nikomatsakis/zulook",
+  "source_url": "https://github.com/nikomatsakis/zulook",
+  "install": "# git clone --depth 1 https://github.com/nikomatsakis/zulook\n# See source for mcpServers config block"
+}

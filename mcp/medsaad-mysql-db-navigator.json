@@ -1,0 +1,7 @@
+{
+  "name": "medsaad-mysql-db-navigator",
+  "description": "Enables direct access to MySQL/MariaDB databases for querying, schema exploration, and database management with comprehensive security measures including input sanitization and connection pooling.",
+  "source_repo": "medsaad/mcp-db-navigator",
+  "source_url": "https://github.com/medsaad/mcp-db-navigator",
+  "install": "# git clone --depth 1 https://github.com/medsaad/mcp-db-navigator\n# See source for mcpServers config block"
+}

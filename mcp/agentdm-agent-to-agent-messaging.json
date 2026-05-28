@@ -1,0 +1,7 @@
+{
+  "name": "agentdm-agent-to-agent-messaging",
+  "description": "Agent to Agent communication Platforms, Allows every MCP compatible agent to connect",
+  "source_repo": "",
+  "source_url": "https://agentdm.ai",
+  "install": "# git clone --depth 1 https://agentdm.ai\n# See source for mcpServers config block"
+}

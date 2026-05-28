@@ -1,0 +1,7 @@
+{
+  "name": "xunmint-cisco-cli",
+  "description": "Manages Cisco network devices through Telnet connections for configuration, monitoring, and troubleshooting tasks.",
+  "source_repo": "xunmint/cisco-cli-mcp",
+  "source_url": "https://github.com/xunmint/cisco-cli-mcp",
+  "install": "npx -y cisco-cli-mcp"
+}

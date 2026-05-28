@@ -1,0 +1,7 @@
+{
+  "name": "nighttrek-moondream",
+  "description": "Provide image analysis capabilities including captioning, object detection, and visual question answering for applications like content moderation and visual search.",
+  "source_repo": "nighttrek/moondream-mcp",
+  "source_url": "https://github.com/nighttrek/moondream-mcp",
+  "install": "npx -y moondream-mcp"
+}

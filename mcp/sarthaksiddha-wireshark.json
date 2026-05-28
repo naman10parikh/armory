@@ -1,0 +1,7 @@
+{
+  "name": "sarthaksiddha-wireshark",
+  "description": "Extracts, structures, and transmits network packet data from Wireshark for security analysis, anomaly detection, and network troubleshooting without manual formatting.",
+  "source_repo": "sarthaksiddha/wireshark-mcp",
+  "source_url": "https://github.com/sarthaksiddha/wireshark-mcp",
+  "install": "npx -y wireshark-mcp"
+}

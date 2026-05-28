@@ -1,0 +1,7 @@
+{
+  "name": "osseni94-keyneg-mcp",
+  "description": "Enterprise-grade sentiment analysis with 95+ labels, keyword extraction, and batch processing for AI agents",
+  "source_repo": "Osseni94/keyneg-mcp",
+  "source_url": "https://github.com/Osseni94/keyneg-mcp",
+  "install": "npx -y keyneg-mcp"
+}

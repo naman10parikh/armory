@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp-server",
+  "description": "Enables AI-powered 3D content creation in Blender through natural language, including text-to-3D, image-to-3D, animation, rigging, rendering, and export.",
+  "source_repo": "dorialn68/blender-mcp-enhanced",
+  "source_url": "https://github.com/dorialn68/blender-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/dorialn68/blender-mcp-enhanced\n# See source for mcpServers config block"
+}

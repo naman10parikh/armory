@@ -1,0 +1,7 @@
+{
+  "name": "quizlar",
+  "description": "Voice-led flashcard system with spaced repetition from YouTube, PDFs, web pages, or text.",
+  "source_repo": "quizlar/mcp-server",
+  "source_url": "https://github.com/quizlar/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/quizlar/mcp-server\n# See source for mcpServers config block"
+}

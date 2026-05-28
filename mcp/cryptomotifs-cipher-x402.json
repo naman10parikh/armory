@@ -1,0 +1,7 @@
+{
+  "name": "cryptomotifs-cipher-x402",
+  "description": "Solana, crypto, and macro tools behind the x402 payment protocol — agents pay micro-fees in USDC on Base to call wallet scanning, breach checking, GitHub health, and Fed economic data tools.",
+  "source_repo": "cryptomotifs/cipher-x402-mcp",
+  "source_url": "https://github.com/cryptomotifs/cipher-x402-mcp",
+  "install": "npx -y cipher-x402-mcp"
+}

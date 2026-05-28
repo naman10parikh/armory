@@ -1,0 +1,7 @@
+{
+  "name": "tiangong-ai-mcp",
+  "description": "TianGong AI Model Context Protocol (MCP) Server supports Streamable Http protocol.",
+  "source_repo": "linancn/tiangong-ai-mcp",
+  "source_url": "https://github.com/linancn/tiangong-ai-mcp",
+  "install": "npx -y tiangong-ai-mcp"
+}

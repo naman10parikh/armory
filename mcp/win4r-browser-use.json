@@ -1,0 +1,7 @@
+{
+  "name": "win4r-browser-use",
+  "description": "Lightweight TypeScript-based server implementation for Node.js that provides a standards-compliant, type-safe solution for enabling tool interactions and external service integrations with robust configuration and deployment options.",
+  "source_repo": "win4r/browser-use-mcp-server",
+  "source_url": "https://github.com/win4r/browser-use-mcp-server",
+  "install": "npx -y browser-use-mcp-server"
+}

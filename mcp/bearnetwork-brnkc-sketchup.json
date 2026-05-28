@@ -1,0 +1,7 @@
+{
+  "name": "bearnetwork-brnkc-sketchup",
+  "description": "Enables AI control of 3D models in SketchUp through a WebSocket-based system that provides tools for creating, transforming, and modifying components, applying materials, performing boolean operations, and executing Ruby code directly in the modeling environment.",
+  "source_repo": "bearnetwork-brnkc/sketchup-mcp",
+  "source_url": "https://github.com/bearnetwork-brnkc/sketchup-mcp",
+  "install": "npx -y sketchup-mcp"
+}

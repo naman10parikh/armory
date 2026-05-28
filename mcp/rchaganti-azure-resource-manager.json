@@ -1,0 +1,7 @@
+{
+  "name": "rchaganti-azure-resource-manager",
+  "description": "Exposes Azure cloud resource management capabilities including subscription management, resource group operations, resource listing, and storage account validation through Azure SDK libraries with environment-based authentication.",
+  "source_repo": "rchaganti/azure-mcp-server",
+  "source_url": "https://github.com/rchaganti/azure-mcp-server",
+  "install": "npx -y azure-mcp-server"
+}

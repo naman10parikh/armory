@@ -1,0 +1,7 @@
+{
+  "name": "nitrosend",
+  "description": "AI-native email marketing platform with MCP-first architecture for campaigns, automations, transactional email, contacts, and analytics.",
+  "source_repo": "",
+  "source_url": "https://nitrosend.com",
+  "install": "# git clone --depth 1 https://nitrosend.com\n# See source for mcpServers config block"
+}

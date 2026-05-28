@@ -1,0 +1,7 @@
+{
+  "name": "ozanmutlu-gitlab-docs",
+  "description": "Search GitLab's official documentation",
+  "source_repo": "ozanmutlu/gitlab-docs-mcp",
+  "source_url": "https://github.com/ozanmutlu/gitlab-docs-mcp",
+  "install": "npx -y gitlab-docs-mcp"
+}

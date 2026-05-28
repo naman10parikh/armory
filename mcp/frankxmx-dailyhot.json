@@ -1,0 +1,7 @@
+{
+  "name": "frankxmx-dailyhot",
+  "description": "Trending content aggregated from 55+ platforms including Weibo, Zhihu, Bilibili, and GitHub.",
+  "source_repo": "frankxmx/dailyhotmcp",
+  "source_url": "https://github.com/frankxmx/dailyhotmcp",
+  "install": "# git clone --depth 1 https://github.com/frankxmx/dailyhotmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sparkyscientist-comsol-multiphysics",
+  "description": "Control COMSOL Multiphysics simulations with physics-aware mesh generation, solver configuration, and parametric sweeps.",
+  "source_repo": "juijunnarkar/comsol_multiphysics_mcp",
+  "source_url": "https://github.com/juijunnarkar/comsol_multiphysics_mcp",
+  "install": "npx -y comsol_multiphysics_mcp"
+}

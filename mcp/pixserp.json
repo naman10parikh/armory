@@ -1,0 +1,7 @@
+{
+  "name": "pixserp",
+  "description": "AI-powered search platform enabling semantic content indexing, discovery, and visual search for AI agents.",
+  "source_repo": "tetiai/pixserp-mcp",
+  "source_url": "https://github.com/tetiai/pixserp-mcp",
+  "install": "npx -y pixserp-mcp"
+}

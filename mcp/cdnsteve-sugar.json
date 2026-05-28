@@ -1,0 +1,7 @@
+{
+  "name": "cdnsteve-sugar",
+  "description": "Autonomous AI development system with persistent task queue and background execution.",
+  "source_repo": "roboticforce/sugar",
+  "source_url": "https://github.com/roboticforce/sugar",
+  "install": "# git clone --depth 1 https://github.com/roboticforce/sugar\n# See source for mcpServers config block"
+}

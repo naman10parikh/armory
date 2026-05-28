@@ -1,0 +1,7 @@
+{
+  "name": "michsob-powerplatform-dataverse",
+  "description": "Integrates with Microsoft PowerPlatform/Dataverse to enable intelligent access to entity metadata, attributes, relationships, and records with support for OData queries and context-rich prompts for data modeling and exploration.",
+  "source_repo": "michsob/powerplatform-mcp",
+  "source_url": "https://github.com/michsob/powerplatform-mcp",
+  "install": "npx -y powerplatform-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-etherscan-tools",
+  "description": "Integrates with Etherscan's API to provide Ethereum blockchain data tools for balance checking, transaction tracking, and smart contract analysis.",
+  "source_repo": "crazyrabbitltc/mcp-etherscan-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-etherscan-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-etherscan-server\n# See source for mcpServers config block"
+}

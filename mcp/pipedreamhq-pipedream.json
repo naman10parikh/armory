@@ -1,0 +1,7 @@
+{
+  "name": "pipedreamhq-pipedream",
+  "description": "Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.",
+  "source_repo": "PipedreamHQ/pipedream",
+  "source_url": "https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol\n# See source for mcpServers config block"
+}

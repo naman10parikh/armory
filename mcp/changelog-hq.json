@@ -1,0 +1,7 @@
+{
+  "name": "changelog-hq",
+  "description": "Auto-generate changelogs from GitHub PRs with AI-powered categorization and rewriting.",
+  "source_repo": "",
+  "source_url": "https://changelog.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://changelog.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

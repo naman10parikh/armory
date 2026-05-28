@@ -1,0 +1,7 @@
+{
+  "name": "minds-ai",
+  "description": "Integrates with Minds AI platform to create, train, and interact with specialized AI personas and digital twins through keyword-based expertise, person cloning, or website learning modes.",
+  "source_repo": "minds-ai-co/mcp-server",
+  "source_url": "https://github.com/minds-ai-co/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/minds-ai-co/mcp-server\n# See source for mcpServers config block"
+}

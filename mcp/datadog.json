@@ -1,0 +1,7 @@
+{
+  "name": "datadog",
+  "description": "Connects AI agents to Datadog's unified observability platform for querying logs, metrics, traces, dashboards, monitors, incidents, and more in real time.",
+  "source_repo": "datadog-labs/mcp-server",
+  "source_url": "https://github.com/datadog-labs/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/datadog-labs/mcp-server\n# See source for mcpServers config block"
+}

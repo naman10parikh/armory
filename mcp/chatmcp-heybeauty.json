@@ -1,0 +1,7 @@
+{
+  "name": "chatmcp-heybeauty",
+  "description": "Provides a bridge between virtual try-on technology and clothing visualization, enabling users to see how selected items would look on them through image processing and metadata-rich clothing resources.",
+  "source_repo": "chatmcp/heybeauty-mcp",
+  "source_url": "https://github.com/chatmcp/heybeauty-mcp",
+  "install": "npx -y heybeauty-mcp"
+}

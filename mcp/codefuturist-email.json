@@ -1,0 +1,7 @@
+{
+  "name": "codefuturist-email",
+  "description": "Full-featured IMAP/SMTP email client with multi-account support, scheduling, IMAP IDLE real-time watching, and AI-powered triage.",
+  "source_repo": "codefuturist/email-mcp",
+  "source_url": "https://github.com/codefuturist/email-mcp",
+  "install": "npx -y email-mcp"
+}

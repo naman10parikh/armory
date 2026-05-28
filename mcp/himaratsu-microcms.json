@@ -1,0 +1,7 @@
+{
+  "name": "himaratsu-microcms",
+  "description": "Integrates with microCMS headless CMS to enable complete content and media management through CRUD operations, draft previews, field filtering, and file uploads for automated publishing workflows.",
+  "source_repo": "microcmsio/microcms-mcp-server",
+  "source_url": "https://github.com/microcmsio/microcms-mcp-server",
+  "install": "npx -y microcms-mcp-server"
+}

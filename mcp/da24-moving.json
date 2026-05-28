@@ -1,0 +1,7 @@
+{
+  "name": "da24-moving",
+  "description": "Calculates Korean moving estimates and submits inquiries through the Da24/WeMatch relocation platform.",
+  "source_repo": "marketdesigners/da24-mcp-server",
+  "source_url": "https://github.com/marketdesigners/da24-mcp-server",
+  "install": "npx -y da24-mcp-server"
+}

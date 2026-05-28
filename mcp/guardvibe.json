@@ -1,0 +1,7 @@
+{
+  "name": "guardvibe",
+  "description": "Security scanner for AI-generated code with 330+ rules covering Next.js, Supabase, Stripe, Prisma, and the full vibe-coding stack.",
+  "source_repo": "goklab/guardvibe",
+  "source_url": "https://github.com/goklab/guardvibe",
+  "install": "# git clone --depth 1 https://github.com/goklab/guardvibe\n# See source for mcpServers config block"
+}

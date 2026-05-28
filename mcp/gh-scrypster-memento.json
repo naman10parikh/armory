@@ -1,0 +1,7 @@
+{
+  "name": "gh-scrypster-memento",
+  "description": "Persistent AI memory with local-first knowledge graph and hybrid search.",
+  "source_repo": "scrypster/memento",
+  "source_url": "https://github.com/scrypster/memento",
+  "install": "# git clone --depth 1 https://github.com/scrypster/memento\n# See source for mcpServers config block"
+}

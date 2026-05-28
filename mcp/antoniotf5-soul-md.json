@@ -1,0 +1,7 @@
+{
+  "name": "antoniotf5-soul-md",
+  "description": "Validate and generate SOUL.md agent identity files from Claude Desktop.",
+  "source_repo": "antoniotf5/soul-mcp-server",
+  "source_url": "https://github.com/antoniotf5/soul-mcp-server",
+  "install": "npx -y soul-mcp-server"
+}

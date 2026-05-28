@@ -1,0 +1,7 @@
+{
+  "name": "samuelrizzo-jira",
+  "description": "Integrates with Atlassian Jira to enable listing projects, retrieving issue details, searching by project and assignee, and checking user assignments through authenticated API requests with markdown-formatted responses.",
+  "source_repo": "samuelrizzo/jira-mcp-server",
+  "source_url": "https://github.com/samuelrizzo/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

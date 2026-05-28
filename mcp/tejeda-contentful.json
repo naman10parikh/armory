@@ -1,0 +1,7 @@
+{
+  "name": "tejeda-contentful",
+  "description": "Enables Claude to directly interact with Contentful CMS data by providing tools to fetch content types and entries, supporting content exploration, metadata analysis, and dynamic content querying.",
+  "source_repo": "tejedamiguel6/mcp-server-contenful",
+  "source_url": "https://github.com/tejedamiguel6/mcp-server-contenful",
+  "install": "# git clone --depth 1 https://github.com/tejedamiguel6/mcp-server-contenful\n# See source for mcpServers config block"
+}

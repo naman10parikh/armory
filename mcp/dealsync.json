@@ -1,0 +1,7 @@
+{
+  "name": "dealsync",
+  "description": "Shared deal room for Loan Officers and Realtors to track leads from conversation to closing.",
+  "source_repo": "jaymiller-cmg/dealsync-mcp-server",
+  "source_url": "https://github.com/jaymiller-cmg/dealsync-mcp-server",
+  "install": "npx -y dealsync-mcp-server"
+}

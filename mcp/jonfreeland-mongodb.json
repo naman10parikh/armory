@@ -1,0 +1,7 @@
+{
+  "name": "jonfreeland-mongodb",
+  "description": "Enables querying and analyzing MongoDB databases with read-only access, providing operations for exploration, schema inference, querying, aggregation, text search, and geospatial analysis.",
+  "source_repo": "jonfreeland/mongodb-mcp",
+  "source_url": "https://github.com/jonfreeland/mongodb-mcp",
+  "install": "npx -y mongodb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cohnen-google-ads",
+  "description": "Integrates with Google Ads API to enable direct access and management of advertising campaigns, performance analysis, and optimization within conversations.",
+  "source_repo": "cohnen/mcp-google-ads",
+  "source_url": "https://github.com/cohnen/mcp-google-ads",
+  "install": "# git clone --depth 1 https://github.com/cohnen/mcp-google-ads\n# See source for mcpServers config block"
+}

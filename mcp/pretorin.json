@@ -1,0 +1,7 @@
+{
+  "name": "pretorin",
+  "description": "NIST and FedRAMP compliance data access.",
+  "source_repo": "pretorin-ai/pretorin-cli",
+  "source_url": "https://github.com/pretorin-ai/pretorin-cli",
+  "install": "# git clone --depth 1 https://github.com/pretorin-ai/pretorin-cli\n# See source for mcpServers config block"
+}

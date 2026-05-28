@@ -1,0 +1,7 @@
+{
+  "name": "universalamateur-reclaim",
+  "description": "Manage Reclaim.ai calendar, tasks, habits, and focus time through natural language.",
+  "source_repo": "universalamateur/reclaim-mcp-server",
+  "source_url": "https://github.com/universalamateur/reclaim-mcp-server",
+  "install": "npx -y reclaim-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nest-llm-aigent",
+  "description": "Nest Llm Aigent MCP server listed on mcp.so.",
+  "source_repo": "luis1232023/nest-llm-aigent",
+  "source_url": "https://mcp.so/server/nest-llm-aigent/luis1232023",
+  "install": "# git clone --depth 1 https://mcp.so/server/nest-llm-aigent/luis1232023\n# See source for mcpServers config block"
+}

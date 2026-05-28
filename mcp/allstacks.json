@@ -1,0 +1,7 @@
+{
+  "name": "allstacks",
+  "description": "AI-ready access to engineering intelligence and analytics",
+  "source_repo": "allstacks/allstacks-mcp-server",
+  "source_url": "https://github.com/allstacks/allstacks-mcp-server",
+  "install": "npx -y allstacks-mcp-server"
+}

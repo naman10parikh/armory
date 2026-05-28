@@ -1,0 +1,7 @@
+{
+  "name": "lethain-systems-modeling",
+  "description": "Enables systems modeling and visualization by running simulations based on specifications and loading documentation to help generate better models without requiring deep knowledge of the underlying library.",
+  "source_repo": "lethain/systems-mcp",
+  "source_url": "https://github.com/lethain/systems-mcp",
+  "install": "npx -y systems-mcp"
+}

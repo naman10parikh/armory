@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-sbom-cyclonedx",
+  "description": "Generates and validates Software Bill of Materials in CycloneDX 1.6 and SPDX 2.3 formats for regulatory compliance.",
+  "source_repo": "csoai-org/sbom-cyclonedx-mcp",
+  "source_url": "https://github.com/csoai-org/sbom-cyclonedx-mcp",
+  "install": "npx -y sbom-cyclonedx-mcp"
+}

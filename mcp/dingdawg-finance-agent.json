@@ -1,0 +1,7 @@
+{
+  "name": "dingdawg-finance-agent",
+  "description": "Financial analysis AI for forecasting, audit prep, and SOX/GAAP compliance.",
+  "source_repo": "dingdawg/dingdawg-finance-agent",
+  "source_url": "https://github.com/dingdawg/dingdawg-finance-agent",
+  "install": "# git clone --depth 1 https://github.com/dingdawg/dingdawg-finance-agent\n# See source for mcpServers config block"
+}

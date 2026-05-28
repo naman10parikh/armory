@@ -1,0 +1,7 @@
+{
+  "name": "mcp-localhost-server-weaviate",
+  "description": "Mcp Localhost Server Weaviate MCP server listed on mcp.so.",
+  "source_repo": "sndani/mcp-localhost-server-weaviate",
+  "source_url": "https://mcp.so/server/mcp-localhost-server-weaviate/sndani",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-localhost-server-weaviate/sndani\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thelunarcompany-lunar-mcpx",
+  "description": "MCPX is a production-ready, open-source gateway to manage MCP servers at scale—centralize tool discovery, access controls, call prioritization, and usage tracking to simplify agent workflows.",
+  "source_repo": "TheLunarCompany/lunar",
+  "source_url": "https://github.com/TheLunarCompany/lunar/tree/main/mcpx",
+  "install": "# git clone --depth 1 https://github.com/TheLunarCompany/lunar/tree/main/mcpx\n# See source for mcpServers config block"
+}

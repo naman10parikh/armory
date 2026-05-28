@@ -1,0 +1,7 @@
+{
+  "name": "basilalshukaili-agent-broker",
+  "description": "Connects AI agents with small businesses for discovery, messaging, and appointment booking.",
+  "source_repo": "basilalshukaili/agentbroker",
+  "source_url": "https://github.com/basilalshukaili/agentbroker",
+  "install": "# git clone --depth 1 https://github.com/basilalshukaili/agentbroker\n# See source for mcpServers config block"
+}

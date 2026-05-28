@@ -1,0 +1,7 @@
+{
+  "name": "rorymb-make-mcp",
+  "description": "Simplifies the creation of custom MCP servers through natural language requests, providing documentation on implementation structure, components, and best practices without requiring technical expertise.",
+  "source_repo": "rorymb/make_mcp",
+  "source_url": "https://github.com/rorymb/make_mcp",
+  "install": "npx -y make_mcp"
+}

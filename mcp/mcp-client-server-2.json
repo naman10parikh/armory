@@ -1,0 +1,7 @@
+{
+  "name": "mcp-client-server-2",
+  "description": "Mcp Client Server MCP server listed on mcp.so.",
+  "source_repo": "kaioobrabo/mcp-client-server",
+  "source_url": "https://mcp.so/server/mcp-client-server/kaioobrabo",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-client-server/kaioobrabo\n# See source for mcpServers config block"
+}

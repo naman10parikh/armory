@@ -1,0 +1,7 @@
+{
+  "name": "sgs",
+  "description": "Sgs MCP server listed on mcp.so.",
+  "source_repo": "WhisperLooms/sgs",
+  "source_url": "https://mcp.so/server/sgs/WhisperLooms",
+  "install": "# git clone --depth 1 https://mcp.so/server/sgs/WhisperLooms\n# See source for mcpServers config block"
+}

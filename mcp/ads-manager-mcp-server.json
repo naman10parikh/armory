@@ -1,0 +1,7 @@
+{
+  "name": "ads-manager-mcp-server",
+  "description": "Ads Manager Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "amekala/Ads-manager-mcp-server",
+  "source_url": "https://mcp.so/server/Ads-manager-mcp-server/amekala",
+  "install": "npx -y Ads-manager-mcp-server"
+}

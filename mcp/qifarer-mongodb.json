@@ -1,0 +1,7 @@
+{
+  "name": "qifarer-mongodb",
+  "description": "FastAPI-based server that connects MongoDB databases to AI assistants, enabling data access with comprehensive trace management and logging capabilities.",
+  "source_repo": "qifarer/mcp-mongodb",
+  "source_url": "https://github.com/qifarer/mcp-mongodb",
+  "install": "# git clone --depth 1 https://github.com/qifarer/mcp-mongodb\n# See source for mcpServers config block"
+}

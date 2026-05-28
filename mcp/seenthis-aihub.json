@@ -1,0 +1,7 @@
+{
+  "name": "seenthis-aihub",
+  "description": "Korean AI community platform for browsing, searching, and posting to SeenThis AI boards.",
+  "source_repo": "",
+  "source_url": "https://seenthis.kr",
+  "install": "# git clone --depth 1 https://seenthis.kr\n# See source for mcpServers config block"
+}

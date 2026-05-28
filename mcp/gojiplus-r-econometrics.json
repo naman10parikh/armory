@@ -1,0 +1,7 @@
+{
+  "name": "gojiplus-r-econometrics",
+  "description": "Enables advanced econometric analysis by providing R-based statistical modeling capabilities for researchers and data scientists, supporting complex regression techniques, panel data modeling, and diagnostic testing across diverse research domains.",
+  "source_repo": "finite-sample/rmcp",
+  "source_url": "https://github.com/finite-sample/rmcp",
+  "install": "# git clone --depth 1 https://github.com/finite-sample/rmcp\n# See source for mcpServers config block"
+}

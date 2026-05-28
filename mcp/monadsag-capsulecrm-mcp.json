@@ -1,0 +1,7 @@
+{
+  "name": "monadsag-capsulecrm-mcp",
+  "description": "📇 ☁️ Allows AI clients to manage contacts, opportunities and tasks in Capsule CRM including Claude Desktop ready DTX-file",
+  "source_repo": "MonadsAG/capsulecrm-mcp",
+  "source_url": "https://github.com/MonadsAG/capsulecrm-mcp",
+  "install": "npx -y capsulecrm-mcp"
+}

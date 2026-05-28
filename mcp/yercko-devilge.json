@@ -1,0 +1,7 @@
+{
+  "name": "yercko-devilge",
+  "description": "MCP server providing 33 tools for end-to-end Android and KMM application development, including building, testing, and UI automation.",
+  "source_repo": "yercko/devilge",
+  "source_url": "https://github.com/yercko/devilge",
+  "install": "# git clone --depth 1 https://github.com/yercko/devilge\n# See source for mcpServers config block"
+}

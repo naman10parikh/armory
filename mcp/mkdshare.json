@@ -1,0 +1,7 @@
+{
+  "name": "mkdshare",
+  "description": "Publish and share access-controlled Markdown documents directly from AI tools like Claude Desktop, Claude Code, and Cursor.",
+  "source_repo": "",
+  "source_url": "https://mkdshare.dev",
+  "install": "# git clone --depth 1 https://mkdshare.dev\n# See source for mcpServers config block"
+}

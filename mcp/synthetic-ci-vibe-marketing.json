@@ -1,0 +1,7 @@
+{
+  "name": "synthetic-ci-vibe-marketing",
+  "description": "Integrates with HyperFeed's trending content API and copywriting frameworks to generate platform-optimized social media content with voice archetypes, character limit validation, and trending topic discovery across Twitter and Reddit.",
+  "source_repo": "synthetic-ci/vibe-marketing",
+  "source_url": "https://github.com/synthetic-ci/vibe-marketing",
+  "install": "# git clone --depth 1 https://github.com/synthetic-ci/vibe-marketing\n# See source for mcpServers config block"
+}

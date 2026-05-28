@@ -1,0 +1,7 @@
+{
+  "name": "theoklitosbam7-git-commit-generator",
+  "description": "Generates conventional commit messages from staged git changes by analyzing diffs and file status to create properly formatted commits with optional type and scope parameters.",
+  "source_repo": "theoklitosbam7/mcp-git-commit-generator",
+  "source_url": "https://github.com/theoklitosbam7/mcp-git-commit-generator",
+  "install": "# git clone --depth 1 https://github.com/theoklitosbam7/mcp-git-commit-generator\n# See source for mcpServers config block"
+}

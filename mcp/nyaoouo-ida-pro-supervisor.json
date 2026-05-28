@@ -1,0 +1,7 @@
+{
+  "name": "nyaoouo-ida-pro-supervisor",
+  "description": "Headless supervisor for multiple IDA Pro 9.x worker processes via idalib, with browser UI for instance management and HTTP plus stdio transports.",
+  "source_repo": "nyaoouo/idalib-mcp",
+  "source_url": "https://github.com/nyaoouo/idalib-mcp",
+  "install": "npx -y idalib-mcp"
+}

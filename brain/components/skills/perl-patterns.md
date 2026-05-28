@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Modern Perl 5.36+ idioms, best practices, and conventions for building robust, maintainable Perl applications.

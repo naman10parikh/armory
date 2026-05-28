@@ -1,0 +1,7 @@
+{
+  "name": "figma-flutter",
+  "description": "Converts Figma designs into Flutter widget code by extracting design elements, analyzing component structures, and generating complete project structures with proper styling, layout properties, and reusable libraries.",
+  "source_repo": "mhmzdev/figma-flutter-mcp",
+  "source_url": "https://github.com/mhmzdev/figma-flutter-mcp",
+  "install": "npx -y figma-flutter-mcp"
+}

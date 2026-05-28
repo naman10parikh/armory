@@ -1,0 +1,7 @@
+{
+  "name": "gimp-mcp",
+  "description": "Gimp Mcp MCP server listed on mcp.so.",
+  "source_repo": "libreearth/gimp-mcp",
+  "source_url": "https://mcp.so/server/gimp-mcp/libreearth",
+  "install": "npx -y gimp-mcp"
+}

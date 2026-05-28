@@ -1,0 +1,7 @@
+{
+  "name": "blackdesert5410-mysql",
+  "description": "Connects to MySQL databases through command-line credentials for secure database operations, query execution, and schema management without exposing connection details in configuration files.",
+  "source_repo": "blackdesert5410/mysql-mcp-server",
+  "source_url": "https://github.com/blackdesert5410/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

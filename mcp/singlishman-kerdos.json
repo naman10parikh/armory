@@ -1,0 +1,7 @@
+{
+  "name": "singlishman-kerdos",
+  "description": "Cryptocurrency market intelligence tools with per-call USDC payment via x402 protocol.",
+  "source_repo": "singlishman/kerdos-x402-mcp",
+  "source_url": "https://github.com/singlishman/kerdos-x402-mcp",
+  "install": "npx -y kerdos-x402-mcp"
+}

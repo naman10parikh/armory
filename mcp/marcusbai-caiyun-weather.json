@@ -1,0 +1,7 @@
+{
+  "name": "marcusbai-caiyun-weather",
+  "description": "Integrates with Caiyun Weather API to provide real-time weather data and forecasts based on geographic coordinates or location names for travel planning and outdoor activities.",
+  "source_repo": "marcusbai/caiyun-weather-mcp",
+  "source_url": "https://github.com/marcusbai/caiyun-weather-mcp",
+  "install": "npx -y caiyun-weather-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "n8n-mcp",
+  "description": "Build and manage n8n workflows directly from Claude. Includes a pre-built database with all n8n node documentation for workflow automation.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/integration/n8n-mcp.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/integration/n8n-mcp.json\n# See source for mcpServers config block"
+}

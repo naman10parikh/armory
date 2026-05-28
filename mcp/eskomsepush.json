@@ -1,0 +1,7 @@
+{
+  "name": "eskomsepush",
+  "description": "South African electricity load shedding schedules and status via the EskomSePush API.",
+  "source_repo": "zukhanyendiki9-code/eskomsepush-mcp",
+  "source_url": "https://github.com/zukhanyendiki9-code/eskomsepush-mcp",
+  "install": "npx -y eskomsepush-mcp"
+}

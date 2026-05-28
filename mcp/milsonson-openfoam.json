@@ -1,0 +1,7 @@
+{
+  "name": "milsonson-openfoam",
+  "description": "Natural language-driven OpenFOAM CFD simulation setup with predefined templates, automated mesh generation, and post-processing.",
+  "source_repo": "milsonson/openfoam-mcp",
+  "source_url": "https://github.com/milsonson/openfoam-mcp",
+  "install": "npx -y openfoam-mcp"
+}

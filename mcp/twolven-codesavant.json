@@ -1,0 +1,7 @@
+{
+  "name": "twolven-codesavant",
+  "description": "Provides a robust code management and execution interface for reading, writing, versioning, and running code across multiple projects and languages.",
+  "source_repo": "twolven/mcp-codesavant",
+  "source_url": "https://github.com/twolven/mcp-codesavant",
+  "install": "# git clone --depth 1 https://github.com/twolven/mcp-codesavant\n# See source for mcpServers config block"
+}

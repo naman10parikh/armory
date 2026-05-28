@@ -1,0 +1,7 @@
+{
+  "name": "gh-ashev87-propstack",
+  "description": "Propstack CRM integration for contacts, properties, deals, and viewings.",
+  "source_repo": "ashev87/propstack-mcp",
+  "source_url": "https://github.com/ashev87/propstack-mcp",
+  "install": "npx -y propstack-mcp"
+}

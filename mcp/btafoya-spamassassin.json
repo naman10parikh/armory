@@ -1,0 +1,7 @@
+{
+  "name": "btafoya-spamassassin",
+  "description": "Integrates with SpamAssassin spam detection engine to provide email security analysis tools for scanning content, checking sender reputation, explaining spam scores, and managing rule configurations in a secure, defensive-only environment.",
+  "source_repo": "btafoya/spamassassin-mcp",
+  "source_url": "https://github.com/btafoya/spamassassin-mcp",
+  "install": "npx -y spamassassin-mcp"
+}

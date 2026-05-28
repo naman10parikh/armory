@@ -1,0 +1,7 @@
+{
+  "name": "gh-nibsbin-quillmark",
+  "description": "MCP server exposing Quillmark schematized document rendering primitives to LLM consumers.",
+  "source_repo": "nibsbin/quillmark-mcp-package",
+  "source_url": "https://github.com/nibsbin/quillmark-mcp-package",
+  "install": "# git clone --depth 1 https://github.com/nibsbin/quillmark-mcp-package\n# See source for mcpServers config block"
+}

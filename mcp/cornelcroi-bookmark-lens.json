@@ -1,0 +1,7 @@
+{
+  "name": "cornelcroi-bookmark-lens",
+  "description": "Local-first bookmark management with semantic search and AI-powered organization",
+  "source_repo": "cornelcroi/bookmark-lens",
+  "source_url": "https://github.com/cornelcroi/bookmark-lens",
+  "install": "# git clone --depth 1 https://github.com/cornelcroi/bookmark-lens\n# See source for mcpServers config block"
+}

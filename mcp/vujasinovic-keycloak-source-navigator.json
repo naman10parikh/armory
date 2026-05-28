@@ -1,0 +1,7 @@
+{
+  "name": "vujasinovic-keycloak-source-navigator",
+  "description": "Navigates and analyzes Keycloak source code locally to assist with SPI development, custom extensions, and upgrade compatibility.",
+  "source_repo": "vujasinovic/keycloak-source-mcp",
+  "source_url": "https://github.com/vujasinovic/keycloak-source-mcp",
+  "install": "npx -y keycloak-source-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dasein108-cw-graph",
+  "description": "Enables interaction with CosmWasm-based social graph smart contracts for creating, updating, querying, and deleting decentralized relationship data through blockchain transactions.",
+  "source_repo": "dasein108/mcp-cw-graph",
+  "source_url": "https://github.com/dasein108/mcp-cw-graph",
+  "install": "# git clone --depth 1 https://github.com/dasein108/mcp-cw-graph\n# See source for mcpServers config block"
+}

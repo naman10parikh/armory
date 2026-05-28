@@ -1,0 +1,7 @@
+{
+  "name": "gh-c2mv96-letxipu-search",
+  "description": "Academic research engine with 26 sources, PDF analysis, and bilingual Spanish/English support.",
+  "source_repo": "c2mv96/letxinet-search-mcp",
+  "source_url": "https://github.com/c2mv96/letxinet-search-mcp",
+  "install": "npx -y letxinet-search-mcp"
+}

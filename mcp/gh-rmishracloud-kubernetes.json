@@ -1,0 +1,7 @@
+{
+  "name": "gh-rmishracloud-kubernetes",
+  "description": "Manage Kubernetes clusters with pod listing, log retrieval, and deployment operations.",
+  "source_repo": "rmishracloud/kubernetes-mcp-server",
+  "source_url": "https://github.com/rmishracloud/kubernetes-mcp-server",
+  "install": "npx -y kubernetes-mcp-server"
+}

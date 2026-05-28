@@ -1,0 +1,7 @@
+{
+  "name": "rohit-kaundal-digitalocean",
+  "description": "Integrates with DigitalOcean cloud infrastructure using OAuth2 authentication to provide complete CRUD operations for droplets, volumes, snapshots, images, floating IPs, load balancers, Kubernetes clusters, and container registries across 37 specialized tools for DevOps teams and system administrators.",
+  "source_repo": "rohit-kaundal/digitalocean-mcp-server",
+  "source_url": "https://github.com/rohit-kaundal/digitalocean-mcp-server",
+  "install": "npx -y digitalocean-mcp-server"
+}

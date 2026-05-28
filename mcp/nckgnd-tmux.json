@@ -1,0 +1,7 @@
+{
+  "name": "nckgnd-tmux",
+  "description": "Interact with and view tmux session content.",
+  "source_repo": "nickgnd/tmux-mcp",
+  "source_url": "https://github.com/nickgnd/tmux-mcp",
+  "install": "npx -y tmux-mcp"
+}

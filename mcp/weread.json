@@ -1,0 +1,7 @@
+{
+  "name": "weread",
+  "description": "Integrates with WeRead e-book platform to provide access to book content, user highlights, and annotations with efficient cache management for research and literature analysis workflows.",
+  "source_repo": "freestylefly/mcp-server-weread",
+  "source_url": "https://github.com/freestylefly/mcp-server-weread",
+  "install": "# git clone --depth 1 https://github.com/freestylefly/mcp-server-weread\n# See source for mcpServers config block"
+}

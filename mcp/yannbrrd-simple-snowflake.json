@@ -1,0 +1,7 @@
+{
+  "name": "yannbrrd-simple-snowflake",
+  "description": "Integrates with Snowflake data warehouses to enable SQL query execution, database exploration, and result formatting with corporate proxy support and optional read-only mode for secure data analysis workflows.",
+  "source_repo": "yannbrrd/simple_snowflake_mcp",
+  "source_url": "https://github.com/yannbrrd/simple_snowflake_mcp",
+  "install": "npx -y simple_snowflake_mcp"
+}

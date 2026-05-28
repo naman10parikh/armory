@@ -1,0 +1,7 @@
+{
+  "name": "cherchyk-browser",
+  "description": "Load authenticated web pages using Chrome DevTools Protocol",
+  "source_repo": "cherchyk/mcpbrowser",
+  "source_url": "https://github.com/cherchyk/mcpbrowser",
+  "install": "# git clone --depth 1 https://github.com/cherchyk/mcpbrowser\n# See source for mcpServers config block"
+}

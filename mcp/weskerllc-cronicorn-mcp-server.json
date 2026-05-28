@@ -1,0 +1,7 @@
+{
+  "name": "weskerllc-cronicorn-mcp-server",
+  "description": "Adaptive cron job and HTTP endpoint scheduling.",
+  "source_repo": "weskerllc/cronicorn",
+  "source_url": "https://github.com/weskerllc/cronicorn",
+  "install": "# git clone --depth 1 https://github.com/weskerllc/cronicorn\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "negimaru1025-hoshy",
+  "description": "Searches Rakuten products, compares prices, and books hotels from within Claude.",
+  "source_repo": "negimaru1025/hoshy",
+  "source_url": "https://github.com/negimaru1025/hoshy",
+  "install": "# git clone --depth 1 https://github.com/negimaru1025/hoshy\n# See source for mcpServers config block"
+}

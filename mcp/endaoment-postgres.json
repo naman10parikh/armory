@@ -1,0 +1,7 @@
+{
+  "name": "endaoment-postgres",
+  "description": "Enables interaction with PostgreSQL databases for executing SQL queries, exploring table schemas, and performing data analysis with robust error handling and connection pooling.",
+  "source_repo": "endaoment/endaoment-postgres-mcp",
+  "source_url": "https://github.com/endaoment/endaoment-postgres-mcp",
+  "install": "npx -y endaoment-postgres-mcp"
+}

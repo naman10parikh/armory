@@ -1,0 +1,7 @@
+{
+  "name": "openvan",
+  "description": "Vanlife and RV travel data including fuel prices, currency rates, events, and news via the OpenVan.camp API, free with no authentication.",
+  "source_repo": "kopaev/openvan-camp-public-api",
+  "source_url": "https://github.com/kopaev/openvan-camp-public-api",
+  "install": "# git clone --depth 1 https://github.com/kopaev/openvan-camp-public-api\n# See source for mcpServers config block"
+}

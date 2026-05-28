@@ -1,0 +1,7 @@
+{
+  "name": "spider-web-scraper",
+  "description": "Provides web scraping capabilities using Puppeteer and Cheerio to search Bing, extract webpage content, and convert pages to Markdown format with batch processing support for competitive research and content analysis.",
+  "source_repo": "yc9yc/spider-mcp",
+  "source_url": "https://github.com/yc9yc/spider-mcp",
+  "install": "npx -y spider-mcp"
+}

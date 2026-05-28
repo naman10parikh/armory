@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, mcp, mcp-server]
+tags: [mcp, mcp-server]
 ---
 ## What it is
 MCP server — Web search, research, and data ingestion via Exa API — prefer task-scoped use for broader research after GitHub search and primary docs.

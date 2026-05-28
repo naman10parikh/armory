@@ -1,0 +1,7 @@
+{
+  "name": "bettyguo-wandb",
+  "description": "MCP server extending Weights & Biases with hyperparameter importance analysis using RandomForest and SHAP, sweep summaries, regression detection, and Plotly chart generation.",
+  "source_repo": "bettyguo/mcp-wandb-2",
+  "source_url": "https://github.com/bettyguo/mcp-wandb-2",
+  "install": "# git clone --depth 1 https://github.com/bettyguo/mcp-wandb-2\n# See source for mcpServers config block"
+}

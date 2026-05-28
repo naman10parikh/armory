@@ -1,0 +1,7 @@
+{
+  "name": "helenkwok-openbim",
+  "description": "Converts IFC building files to efficient fragment format and enables querying of BIM elements by category with configurable attributes and relations for architectural and construction workflows.",
+  "source_repo": "helenkwok/openbim-mcp",
+  "source_url": "https://github.com/helenkwok/openbim-mcp",
+  "install": "npx -y openbim-mcp"
+}

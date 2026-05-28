@@ -1,0 +1,7 @@
+{
+  "name": "dewtech-tubemind",
+  "description": "Secure YouTube intelligence — 18 tools with OAuth2 and OWASP Top 10 security controls.",
+  "source_repo": "dewtech-technologies/tubemind-secure-mcp",
+  "source_url": "https://github.com/dewtech-technologies/tubemind-secure-mcp",
+  "install": "npx -y tubemind-secure-mcp"
+}

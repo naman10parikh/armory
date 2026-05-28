@@ -1,0 +1,7 @@
+{
+  "name": "satrank",
+  "description": "Lightning trust and audit oracle for L402 endpoints with Ed25519 receipts.",
+  "source_repo": "proofoftrust21/satrank",
+  "source_url": "https://github.com/proofoftrust21/satrank",
+  "install": "# git clone --depth 1 https://github.com/proofoftrust21/satrank\n# See source for mcpServers config block"
+}

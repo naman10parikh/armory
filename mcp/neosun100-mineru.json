@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-mineru",
+  "description": "Integrates with MinerU's document processing API to convert PDFs into structured text and markdown formats with multi-account management, batch processing, and automatic token renewal.",
+  "source_repo": "neosun100/mineru-mcp-server",
+  "source_url": "https://github.com/neosun100/mineru-mcp-server",
+  "install": "npx -y mineru-mcp-server"
+}

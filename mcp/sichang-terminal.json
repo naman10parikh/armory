@@ -1,0 +1,7 @@
+{
+  "name": "sichang-terminal",
+  "description": "Provides a cross-platform terminal control server that executes shell commands and retrieves terminal information, with specialized support for macOS environments including AppleScript and iTerm2 integration.",
+  "source_repo": "sichang824/mcp-terminal",
+  "source_url": "https://github.com/sichang824/mcp-terminal",
+  "install": "# git clone --depth 1 https://github.com/sichang824/mcp-terminal\n# See source for mcpServers config block"
+}

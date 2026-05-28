@@ -1,0 +1,7 @@
+{
+  "name": "mordor-forge-gemini-media-mcp",
+  "description": "Unified Gemini media generation: Nano Banana (images, editing, multi-reference composition), Veo 3.1 (video, image-to-video, extend), TTS, and Lyria 3 (music with vocals). Single Go binary, 12 tools, supports Gemini API key and Vertex AI.",
+  "source_repo": "mordor-forge/gemini-media-mcp",
+  "source_url": "https://github.com/mordor-forge/gemini-media-mcp",
+  "install": "npx -y gemini-media-mcp"
+}

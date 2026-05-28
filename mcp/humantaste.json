@@ -1,0 +1,7 @@
+{
+  "name": "humantaste",
+  "description": "Expert human review of AI-generated content with on-chain proof of review via USDC micropayments.",
+  "source_repo": "with0utwhy/taste-mcp",
+  "source_url": "https://github.com/with0utwhy/taste-mcp",
+  "install": "npx -y taste-mcp"
+}

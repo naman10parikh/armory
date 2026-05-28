@@ -1,0 +1,7 @@
+{
+  "name": "mjpitz-rfc",
+  "description": "Provides a bridge to IETF RFC documents for retrieving, searching, and extracting specific sections from technical standards documentation with support for both HTML and TXT formats",
+  "source_repo": "mjpitz/mcp-rfc",
+  "source_url": "https://github.com/mjpitz/mcp-rfc",
+  "install": "# git clone --depth 1 https://github.com/mjpitz/mcp-rfc\n# See source for mcpServers config block"
+}

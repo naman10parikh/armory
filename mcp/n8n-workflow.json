@@ -1,0 +1,7 @@
+{
+  "name": "n8n-workflow",
+  "description": "Enables AI assistants to execute n8n workflows directly via WebSocket, creating a bridge between conversation context and n8n's workflow engine in a sandboxed environment.",
+  "source_repo": "mito001/mcp-server-n8n",
+  "source_url": "https://github.com/mito001/mcp-server-n8n",
+  "install": "# git clone --depth 1 https://github.com/mito001/mcp-server-n8n\n# See source for mcpServers config block"
+}

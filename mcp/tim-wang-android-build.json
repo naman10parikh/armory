@@ -1,0 +1,7 @@
+{
+  "name": "tim-wang-android-build",
+  "description": "Streamlines Android project development by providing automated tools for building, testing, and running instrumented tests through Visual Studio Code extensions, enabling seamless interaction and error reporting.",
+  "source_repo": "shenghaiwang/androidbuild",
+  "source_url": "https://github.com/shenghaiwang/androidbuild",
+  "install": "# git clone --depth 1 https://github.com/shenghaiwang/androidbuild\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lsd-so-lsd",
+  "description": "Enables querqying and analyzing web content using LSD SQL, a DSL for extracting structured data from websites in real-time.",
+  "source_repo": "lsd-so/lsd-mcp",
+  "source_url": "https://github.com/lsd-so/lsd-mcp",
+  "install": "npx -y lsd-mcp"
+}

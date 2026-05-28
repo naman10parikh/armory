@@ -1,0 +1,7 @@
+{
+  "name": "browserless-mcp",
+  "description": "MCP server for Browserless.io: scrape and automate any site, bypass captchas and enable stealth mode",
+  "source_repo": "browserless/browserless-mcp",
+  "source_url": "https://github.com/browserless/browserless-mcp",
+  "install": "npx -y browserless-mcp"
+}

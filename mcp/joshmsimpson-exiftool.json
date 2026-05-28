@@ -1,0 +1,7 @@
+{
+  "name": "joshmsimpson-exiftool",
+  "description": "Read, write, and remove metadata from 150+ file formats",
+  "source_repo": "joshmsimpson/exiftool_mcp",
+  "source_url": "https://github.com/joshmsimpson/exiftool_mcp",
+  "install": "npx -y exiftool_mcp"
+}

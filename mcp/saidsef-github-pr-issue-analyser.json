@@ -1,0 +1,7 @@
+{
+  "name": "saidsef-github-pr-issue-analyser",
+  "description": "Integrates with GitHub's API to automate pull request analysis, issue management, and repository operations directly from desktop language models.",
+  "source_repo": "saidsef/mcp-github-pr-issue-analyser",
+  "source_url": "https://github.com/saidsef/mcp-github-pr-issue-analyser",
+  "install": "# git clone --depth 1 https://github.com/saidsef/mcp-github-pr-issue-analyser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ajhcs-healthcare-data",
+  "description": "13 MCP servers with 69 tools for US public healthcare analytics covering CMS, Census, BLS, and HRSA data.",
+  "source_repo": "ajhcs/healthcare-data-mcp",
+  "source_url": "https://github.com/ajhcs/healthcare-data-mcp",
+  "install": "npx -y healthcare-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "payclaw",
+  "description": "Issue virtual Visa cards for AI agents with just-in-time provisioning and human approval.",
+  "source_repo": "kyalabs-io/mcp-server",
+  "source_url": "https://github.com/kyalabs-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/kyalabs-io/mcp-server\n# See source for mcpServers config block"
+}

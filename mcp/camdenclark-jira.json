@@ -1,0 +1,7 @@
+{
+  "name": "camdenclark-jira",
+  "description": "Integrates Jira for natural language querying and manipulation of project management data.",
+  "source_repo": "camdenclark/jira-mcp",
+  "source_url": "https://github.com/camdenclark/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trite-code-analysis",
+  "description": "Analyzes .NET solutions and projects using Roslyn to detect unreferenced code members including classes, methods, properties, and fields with configurable filtering options for public members, entry points, and project-specific analysis to help identify dead code for cleanup and refactoring.",
+  "source_repo": "trite/codeanalysismcp",
+  "source_url": "https://github.com/trite/codeanalysismcp",
+  "install": "# git clone --depth 1 https://github.com/trite/codeanalysismcp\n# See source for mcpServers config block"
+}

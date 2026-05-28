@@ -1,0 +1,7 @@
+{
+  "name": "clicks-protocol",
+  "description": "Autonomous DeFi yield for AI agents on Base with Aave V3 and Morpho integration.",
+  "source_repo": "clicks-protocol/clicks-protocol",
+  "source_url": "https://github.com/clicks-protocol/clicks-protocol/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/clicks-protocol/clicks-protocol/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

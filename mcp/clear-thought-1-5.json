@@ -1,0 +1,7 @@
+{
+  "name": "clear-thought-1-5",
+  "description": "[FINAL UPDATE] future updates will be rolled out to Thoughtbox --> https://smithery.ai/server/@Kastalien-Research/clear-thought-two",
+  "source_repo": "",
+  "source_url": "https://waldzellai.com",
+  "install": "# git clone --depth 1 https://waldzellai.com\n# See source for mcpServers config block"
+}

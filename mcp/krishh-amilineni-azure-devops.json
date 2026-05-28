@@ -1,0 +1,7 @@
+{
+  "name": "krishh-amilineni-azure-devops",
+  "description": "Integrates with Azure DevOps to enable work item management, wiki interactions, and sprint tracking for software development teams.",
+  "source_repo": "krishna-amilineni-23307/mcp-azuredevops-bridge",
+  "source_url": "https://github.com/krishna-amilineni-23307/mcp-azuredevops-bridge",
+  "install": "# git clone --depth 1 https://github.com/krishna-amilineni-23307/mcp-azuredevops-bridge\n# See source for mcpServers config block"
+}

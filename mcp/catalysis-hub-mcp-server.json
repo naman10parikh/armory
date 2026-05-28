@@ -1,0 +1,7 @@
+{
+  "name": "catalysis-hub-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides programmatic access to Catalysis Hub's GraphQL API, enabling querying of catalytic reactions, material systems, publications, and surface reaction data.",
+  "source_repo": "QuentinCody/catalysishub-mcp-server",
+  "source_url": "https://github.com/QuentinCody/catalysishub-mcp-server",
+  "install": "npx -y catalysishub-mcp-server"
+}

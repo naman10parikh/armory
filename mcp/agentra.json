@@ -1,0 +1,7 @@
+{
+  "name": "agentra",
+  "description": "Trust and identity verification infrastructure for autonomous AI agents with bidirectional reputation scoring and transaction authorization.",
+  "source_repo": "",
+  "source_url": "https://agentrapay.ai",
+  "install": "# git clone --depth 1 https://agentrapay.ai\n# See source for mcpServers config block"
+}

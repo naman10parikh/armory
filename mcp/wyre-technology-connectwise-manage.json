@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-connectwise-manage",
+  "description": "Enables AI assistants to manage ConnectWise Manage tickets, companies, contacts, projects, time entries, and configurations.",
+  "source_repo": "wyre-technology/connectwise-manage-mcp",
+  "source_url": "https://github.com/wyre-technology/connectwise-manage-mcp",
+  "install": "npx -y connectwise-manage-mcp"
+}

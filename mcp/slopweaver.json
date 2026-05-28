@@ -1,0 +1,7 @@
+{
+  "name": "slopweaver",
+  "description": "A local-first MCP server that helps Claude Code prioritize your work by searching across your tools like GitHub and Slack.",
+  "source_repo": "slopweaver/slopweaver",
+  "source_url": "https://github.com/slopweaver/slopweaver",
+  "install": "# git clone --depth 1 https://github.com/slopweaver/slopweaver\n# See source for mcpServers config block"
+}

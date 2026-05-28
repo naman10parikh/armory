@@ -1,0 +1,7 @@
+{
+  "name": "eighty",
+  "description": "Gamified personal development app where users complete real-world quests, build character stats, and progress through skill trees.",
+  "source_repo": "metlem80/eighty-mcp-examples",
+  "source_url": "https://github.com/metlem80/eighty-mcp-examples",
+  "install": "# git clone --depth 1 https://github.com/metlem80/eighty-mcp-examples\n# See source for mcpServers config block"
+}

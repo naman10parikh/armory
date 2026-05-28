@@ -1,0 +1,7 @@
+{
+  "name": "anysite",
+  "description": "Access LinkedIn, Instagram, Twitter, and Reddit data through one API. No scraping. No maintenance.",
+  "source_repo": "anysiteio/anysite-mcp-server",
+  "source_url": "https://github.com/anysiteio/anysite-mcp-server",
+  "install": "npx -y anysite-mcp-server"
+}

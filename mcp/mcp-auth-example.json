@@ -1,0 +1,7 @@
+{
+  "name": "mcp-auth-example",
+  "description": "Demonstrates a FastMCP server with Bearer token authentication via Nginx and fine-grained authorization via Envoy and OPA.",
+  "source_repo": "Jason-CKY/mcp-auth",
+  "source_url": "https://github.com/Jason-CKY/mcp-auth",
+  "install": "# git clone --depth 1 https://github.com/Jason-CKY/mcp-auth\n# See source for mcpServers config block"
+}

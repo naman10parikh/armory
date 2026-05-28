@@ -1,0 +1,7 @@
+{
+  "name": "mcp-secops-v3",
+  "description": "Mcp Secops V3 MCP server listed on mcp.so.",
+  "source_repo": "emeryray2002/mcp-secops-v3",
+  "source_url": "https://mcp.so/server/mcp-secops-v3/emeryray2002",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-secops-v3/emeryray2002\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-exa-search",
+  "description": "Exposes Exa web search capabilities including general search, code discovery, URL crawling, and filtered queries.",
+  "source_repo": "daedalus/mcp-exa",
+  "source_url": "https://github.com/daedalus/mcp-exa",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-exa\n# See source for mcpServers config block"
+}

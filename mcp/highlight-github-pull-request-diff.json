@@ -1,0 +1,7 @@
+{
+  "name": "highlight-github-pull-request-diff",
+  "description": "Integrates with GitHub's Pull Request API to extract diff content, enabling automated code review and analysis workflows.",
+  "source_repo": "highlight-ing/highlight-github-mcp",
+  "source_url": "https://github.com/highlight-ing/highlight-github-mcp",
+  "install": "npx -y highlight-github-mcp"
+}

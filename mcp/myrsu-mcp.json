@@ -1,0 +1,7 @@
+{
+  "name": "myrsu-mcp",
+  "description": "Analyze RSU concentration risk and get a 0-100 risk score, wealth-at-risk in dollars, and actionable recommendations.",
+  "source_repo": "vidhijav/myrsu-mcp",
+  "source_url": "https://github.com/vidhijav/myrsu-mcp",
+  "install": "npx -y myrsu-mcp"
+}

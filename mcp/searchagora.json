@@ -1,0 +1,7 @@
+{
+  "name": "searchagora",
+  "description": "Connects AI systems to SearchAgora, a universal product search engine, enabling natural language interactions for discovering, viewing, and purchasing products from thousands of online stores without leaving the conversation interface.",
+  "source_repo": "fewsats/agora-mcp",
+  "source_url": "https://github.com/fewsats/agora-mcp",
+  "install": "npx -y agora-mcp"
+}

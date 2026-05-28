@@ -1,0 +1,7 @@
+{
+  "name": "leehanchung-bing-search",
+  "description": "Enables web, news, and image searches through Microsoft's Bing Search API, providing access to up-to-date information from the internet.",
+  "source_repo": "leehanchung/bing-search-mcp",
+  "source_url": "https://github.com/leehanchung/bing-search-mcp",
+  "install": "npx -y bing-search-mcp"
+}

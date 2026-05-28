@@ -1,0 +1,7 @@
+{
+  "name": "springboot-mcpserver-junit",
+  "description": "Springboot MCPserver JUnit MCP server listed on mcp.so.",
+  "source_repo": "dreamcenter/springboot-MCPserver-JUnit",
+  "source_url": "https://mcp.so/server/springboot-MCPserver-JUnit/dreamcenter",
+  "install": "# git clone --depth 1 https://mcp.so/server/springboot-MCPserver-JUnit/dreamcenter\n# See source for mcpServers config block"
+}

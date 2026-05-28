@@ -1,0 +1,7 @@
+{
+  "name": "cycloid",
+  "description": "Interact with the Cycloid Internal Developer Platform for infrastructure automation and DevOps orchestration",
+  "source_repo": "cycloidio/cycloid-mcp-server",
+  "source_url": "https://github.com/cycloidio/cycloid-mcp-server",
+  "install": "npx -y cycloid-mcp-server"
+}

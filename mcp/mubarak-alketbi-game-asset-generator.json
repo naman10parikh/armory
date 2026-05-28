@@ -1,0 +1,7 @@
+{
+  "name": "mubarak-alketbi-game-asset-generator",
+  "description": "Connects to Hugging Face Spaces to generate 2D pixel art sprites and 3D game assets from text prompts using specialized AI models for rapid game development prototyping.",
+  "source_repo": "mubarakhalketbi/game-asset-mcp",
+  "source_url": "https://github.com/mubarakhalketbi/game-asset-mcp",
+  "install": "npx -y game-asset-mcp"
+}

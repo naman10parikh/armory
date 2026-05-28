@@ -1,0 +1,7 @@
+{
+  "name": "netbox-rw",
+  "description": "Integrates with NetBox infrastructure management platform to enable full CRUD operations on network devices, IP addresses, circuits, and virtualization resources through REST API access with comprehensive object type coverage and automated changelog tracking.",
+  "source_repo": "alexkiwi1/netbox-mcp-rw",
+  "source_url": "https://github.com/alexkiwi1/netbox-mcp-rw",
+  "install": "# git clone --depth 1 https://github.com/alexkiwi1/netbox-mcp-rw\n# See source for mcpServers config block"
+}

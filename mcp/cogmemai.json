@@ -1,0 +1,7 @@
+{
+  "name": "cogmemai",
+  "description": "Persistent encrypted cloud memory for AI coding assistants.",
+  "source_repo": "hifriendbot/cogmemai-mcp",
+  "source_url": "https://github.com/hifriendbot/cogmemai-mcp",
+  "install": "npx -y cogmemai-mcp"
+}

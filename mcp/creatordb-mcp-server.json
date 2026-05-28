@@ -1,0 +1,7 @@
+{
+  "name": "creatordb-mcp-server",
+  "description": "Exposes the CreatorDB V3 API as 42 tools for creator search, profile data, sponsor intelligence, and content search across YouTube, Instagram, and TikTok.",
+  "source_repo": "CreatorDB/creatordb-mcp-server",
+  "source_url": "https://github.com/CreatorDB/creatordb-mcp-server",
+  "install": "npx -y creatordb-mcp-server"
+}

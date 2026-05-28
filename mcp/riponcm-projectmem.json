@@ -1,0 +1,7 @@
+{
+  "name": "riponcm-projectmem",
+  "description": "Local-first memory and judgment layer for AI coding agents with pre-commit warnings and cross-project lesson tracking.",
+  "source_repo": "riponcm/projectmem",
+  "source_url": "https://github.com/riponcm/projectmem",
+  "install": "# git clone --depth 1 https://github.com/riponcm/projectmem\n# See source for mcpServers config block"
+}

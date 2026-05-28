@@ -1,0 +1,7 @@
+{
+  "name": "kartaverse-lightwave-3d",
+  "description": "Controls LightWave 3D Modeler and Layout applications through the native Command Port interface for workflow automation.",
+  "source_repo": "kartaverse/lightwave-mcp",
+  "source_url": "https://github.com/kartaverse/lightwave-mcp",
+  "install": "npx -y lightwave-mcp"
+}

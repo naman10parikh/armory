@@ -1,0 +1,7 @@
+{
+  "name": "bsmi021-chain-of-draft",
+  "description": "Enables iterative reasoning through structured drafts with explicit reasoning chains, allowing for focused critiques and targeted revisions to improve problem-solving quality through systematic refinement.",
+  "source_repo": "bsmi021/mcp-chain-of-draft-server",
+  "source_url": "https://github.com/bsmi021/mcp-chain-of-draft-server",
+  "install": "# git clone --depth 1 https://github.com/bsmi021/mcp-chain-of-draft-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-linkedin-outreach-mcp",
+  "description": "Python MCP server for LinkedIn outreach message generation.",
+  "source_repo": "csoai-org/linkedin-outreach-mcp",
+  "source_url": "https://github.com/csoai-org/linkedin-outreach-mcp",
+  "install": "npx -y linkedin-outreach-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reddit-mcp",
+  "description": "Reddit Mcp MCP server listed on mcp.so.",
+  "source_repo": "yuangwei/reddit-mcp",
+  "source_url": "https://mcp.so/server/reddit-mcp/yuangwei",
+  "install": "npx -y reddit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rfdez-pvpc",
+  "description": "Retrieve daily Spanish electricity tariffs for 2.0 TD consumers",
+  "source_repo": "rfdez/pvpc-mcp-server",
+  "source_url": "https://github.com/rfdez/pvpc-mcp-server",
+  "install": "npx -y pvpc-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tecnologicachile-mail-imap",
+  "description": "Secure IMAP email access with read/write operations and cursor-based pagination.",
+  "source_repo": "tecnologicachile/mail-mcp",
+  "source_url": "https://github.com/tecnologicachile/mail-mcp",
+  "install": "npx -y mail-mcp"
+}

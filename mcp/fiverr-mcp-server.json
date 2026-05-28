@@ -1,0 +1,7 @@
+{
+  "name": "fiverr-mcp-server",
+  "description": "Search Fiverr gigs, sellers, pricing, and reviews without an API key.",
+  "source_repo": "kyurish/fiverr-mcp-server",
+  "source_url": "https://github.com/kyurish/fiverr-mcp-server",
+  "install": "npx -y fiverr-mcp-server"
+}

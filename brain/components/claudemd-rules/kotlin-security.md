@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [kotlin-coding-style, kotlin-hooks]
-tags: [ecc, rules, kotlin]
+tags: [rules, kotlin]
 ---
 ## What it is
 kotlin rule: apply when working on kotlin and you need Kotlin Security.

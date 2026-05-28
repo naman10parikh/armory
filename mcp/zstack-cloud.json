@@ -1,0 +1,7 @@
+{
+  "name": "zstack-cloud",
+  "description": "Dynamically query and execute ZStack Cloud platform APIs, including VM management, monitoring metrics, and infrastructure operations.",
+  "source_repo": "zstackio/zstack-mcp-server",
+  "source_url": "https://github.com/zstackio/zstack-mcp-server",
+  "install": "npx -y zstack-mcp-server"
+}

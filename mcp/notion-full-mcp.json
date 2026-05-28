@@ -1,0 +1,7 @@
+{
+  "name": "notion-full-mcp",
+  "description": "Full-featured Notion MCP server enabling deep page reading, block editing, snapshot/restore, file uploads, table manipulation, page restore, and destructive page copying.",
+  "source_repo": "cphoskins/notion-full-mcp",
+  "source_url": "https://github.com/cphoskins/notion-full-mcp",
+  "install": "npx -y notion-full-mcp"
+}

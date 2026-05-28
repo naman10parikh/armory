@@ -1,0 +1,7 @@
+{
+  "name": "eruditepay-blockchain-intelligence",
+  "description": "Blockchain analytics tools covering token prices, whale tracking, DeFi, and wallets across multiple networks.",
+  "source_repo": "eruditeintelligence/blockchain-intelligence-mcp",
+  "source_url": "https://github.com/eruditeintelligence/blockchain-intelligence-mcp",
+  "install": "npx -y blockchain-intelligence-mcp"
+}

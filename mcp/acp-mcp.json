@@ -1,0 +1,7 @@
+{
+  "name": "acp-mcp",
+  "description": "MCP server for remote machine operations via SSH, providing a single tool to execute any shell command on remote machines with real-time progress streaming.",
+  "source_repo": "prmichaelsen/acp-mcp",
+  "source_url": "https://github.com/prmichaelsen/acp-mcp",
+  "install": "npx -y acp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ivanantigravity-lgtm-model-council",
+  "description": "Run a prompt through three AI models in parallel and return all responses for comparison.",
+  "source_repo": "ivanantigravity-lgtm/model-council-mcp-server",
+  "source_url": "https://github.com/ivanantigravity-lgtm/model-council-mcp-server",
+  "install": "npx -y model-council-mcp-server"
+}

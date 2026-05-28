@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-model-runner",
+  "description": "MCP server providing a unified interface to call AI models across OpenAI, Anthropic, Groq, Mistral, Cohere, and DALL-E.",
+  "source_repo": "josephtandle/replicate-mcp-mcp",
+  "source_url": "https://github.com/josephtandle/replicate-mcp-mcp",
+  "install": "npx -y replicate-mcp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adcritter-agents",
+  "description": "Operate the AdCritter ads platform: campaigns, creatives, audiences, and reporting.",
+  "source_repo": "",
+  "source_url": "https://mcp.adcritter.com/mcp/agent",
+  "install": "# git clone --depth 1 https://mcp.adcritter.com/mcp/agent\n# See source for mcpServers config block"
+}

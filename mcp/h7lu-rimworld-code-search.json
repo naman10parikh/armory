@@ -1,0 +1,7 @@
+{
+  "name": "h7lu-rimworld-code-search",
+  "description": "Combine lexical and semantic search for RimWorld modding code with hybrid RAG system using Lucene and embeddings",
+  "source_repo": "h7lu/rimcp_hybrid",
+  "source_url": "https://github.com/h7lu/rimcp_hybrid",
+  "install": "# git clone --depth 1 https://github.com/h7lu/rimcp_hybrid\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seco-labor-mcp",
+  "description": "Enables querying Swiss labor market statistics (unemployment, job seekers, open positions, youth unemployment) from SECO and AMSTAT via opendata.swiss without requiring an API key.",
+  "source_repo": "malkreide/seco-labor-mcp",
+  "source_url": "https://github.com/malkreide/seco-labor-mcp",
+  "install": "npx -y seco-labor-mcp"
+}

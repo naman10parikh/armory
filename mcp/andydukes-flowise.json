@@ -1,0 +1,7 @@
+{
+  "name": "andydukes-flowise",
+  "description": "Integrates with Flowise API to enable interaction with chatflows and assistants through dynamic tool registration or simplified static tools for listing and prediction creation.",
+  "source_repo": "andydukes/mcp-flowise",
+  "source_url": "https://github.com/andydukes/mcp-flowise",
+  "install": "# git clone --depth 1 https://github.com/andydukes/mcp-flowise\n# See source for mcpServers config block"
+}

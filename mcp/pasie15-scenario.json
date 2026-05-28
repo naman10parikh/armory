@@ -1,0 +1,7 @@
+{
+  "name": "pasie15-scenario",
+  "description": "Provides a bridge to the Scenario.com API for generating images from text prompts and removing backgrounds from existing images through authenticated access with environment variables.",
+  "source_repo": "pasie15/scenario.com-mcp-server",
+  "source_url": "https://github.com/pasie15/scenario.com-mcp-server",
+  "install": "npx -y scenario.com-mcp-server"
+}

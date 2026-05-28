@@ -1,0 +1,7 @@
+{
+  "name": "bitbucket-mcp-server",
+  "description": "Enables interaction with Bitbucket repositories through the Model Context Protocol, supporting code search, repository management, branch creation, pull requests, and more.",
+  "source_repo": "dmtr/bitbucket_mcp",
+  "source_url": "https://github.com/dmtr/bitbucket_mcp",
+  "install": "npx -y bitbucket_mcp"
+}

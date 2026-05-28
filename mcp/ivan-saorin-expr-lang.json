@@ -1,0 +1,7 @@
+{
+  "name": "ivan-saorin-expr-lang",
+  "description": "Provides a powerful expression evaluation engine for complex data manipulations, enabling mathematical operations, array transformations, string processing, and conditional logic directly within conversations.",
+  "source_repo": "ivan-saorin/mcp-expr-lang",
+  "source_url": "https://github.com/ivan-saorin/mcp-expr-lang",
+  "install": "# git clone --depth 1 https://github.com/ivan-saorin/mcp-expr-lang\n# See source for mcpServers config block"
+}

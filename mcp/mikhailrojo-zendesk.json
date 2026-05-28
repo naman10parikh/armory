@@ -1,0 +1,7 @@
+{
+  "name": "mikhailrojo-zendesk",
+  "description": "Provides read-only access to Zendesk Support tickets and Chat transcripts with search, retrieval, and view tools.",
+  "source_repo": "mikhailrojo/zendesk-mcp",
+  "source_url": "https://github.com/mikhailrojo/zendesk-mcp",
+  "install": "npx -y zendesk-mcp"
+}

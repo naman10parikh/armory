@@ -1,0 +1,7 @@
+{
+  "name": "mattstrautmann-standards",
+  "description": "Automatically captures tool executions from development workflows and extracts patterns to continuously improve project standards and documentation through significance scoring, temporal knowledge graphs, and validation engines that learn from corrections and failures.",
+  "source_repo": "airmcp-com/mcp-standards",
+  "source_url": "https://github.com/airmcp-com/mcp-standards",
+  "install": "# git clone --depth 1 https://github.com/airmcp-com/mcp-standards\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prasanthmj-primitive-go",
+  "description": "Integrates with OpenAI's DALL-E API to generate and save images from text descriptions.",
+  "source_repo": "prasanthmj/primitive-go-mcp-server",
+  "source_url": "https://github.com/prasanthmj/primitive-go-mcp-server",
+  "install": "npx -y primitive-go-mcp-server"
+}

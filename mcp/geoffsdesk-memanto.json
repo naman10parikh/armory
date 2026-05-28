@@ -1,0 +1,7 @@
+{
+  "name": "geoffsdesk-memanto",
+  "description": "Typed semantic memory MCP server with 13 memory categories and bi-temporal audit trails using Moorcheh vector storage.",
+  "source_repo": "geoffsdesk/memanto-mcp",
+  "source_url": "https://github.com/geoffsdesk/memanto-mcp",
+  "install": "npx -y memanto-mcp"
+}

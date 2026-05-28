@@ -1,0 +1,7 @@
+{
+  "name": "spritualkb-nuclei",
+  "description": "Provides a bridge to the Nuclei vulnerability scanning tool, enabling automated security scans on target URLs with configurable parameters like severity, rate limiting, and proxy settings.",
+  "source_repo": "spritualkb/nuclei-mcp",
+  "source_url": "https://github.com/spritualkb/nuclei-mcp",
+  "install": "npx -y nuclei-mcp"
+}

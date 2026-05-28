@@ -1,0 +1,7 @@
+{
+  "name": "simonutd-ai-cognitive-nexus",
+  "description": "Creates and manages autonomous AI agent teams for collaborative problem-solving and task execution, maintaining persistent team configurations, product knowledge bases, and session management while supporting multiple LLM providers and web search capabilities for complex workflows requiring multi-agent coordination.",
+  "source_repo": "simonutd/ai-cognitive-nexus-mcp",
+  "source_url": "https://github.com/simonutd/ai-cognitive-nexus-mcp",
+  "install": "npx -y ai-cognitive-nexus-mcp"
+}

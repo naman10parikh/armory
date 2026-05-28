@@ -1,0 +1,7 @@
+{
+  "name": "dreamhome",
+  "description": "AI-powered virtual staging and interior redesign tool that transforms room photos into professional design visualizations.",
+  "source_repo": "",
+  "source_url": "https://foto.damdafa.com",
+  "install": "# git clone --depth 1 https://foto.damdafa.com\n# See source for mcpServers config block"
+}

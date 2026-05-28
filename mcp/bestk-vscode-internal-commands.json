@@ -1,0 +1,7 @@
+{
+  "name": "bestk-vscode-internal-commands",
+  "description": "VSCode extension that exposes VSCode's internal commands and functionality, enabling direct control of the editor environment for automated refactoring, code generation workflows, extension management, and editor automation.",
+  "source_repo": "bestk/vscode-internal-command-mcp-server",
+  "source_url": "https://github.com/bestk/vscode-internal-command-mcp-server",
+  "install": "npx -y vscode-internal-command-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bettyguo-mcp-gateway",
+  "description": "Converts OpenAPI 3.x specifications into MCP servers with multi-auth support, rate limiting, OpenTelemetry tracing, and destructive endpoint filtering.",
+  "source_repo": "bettyguo/mcp-gateway",
+  "source_url": "https://github.com/bettyguo/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/bettyguo/mcp-gateway\n# See source for mcpServers config block"
+}

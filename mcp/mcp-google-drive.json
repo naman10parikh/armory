@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-drive",
+  "description": "MCP server for Google Drive integration with file management, search, sharing, and full CRUD operations.",
+  "source_repo": "Longtran2404/mcp-google-drive",
+  "source_url": "https://github.com/Longtran2404/mcp-google-drive",
+  "install": "# git clone --depth 1 https://github.com/Longtran2404/mcp-google-drive\n# See source for mcpServers config block"
+}

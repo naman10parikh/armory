@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-biorxiv-2",
+  "description": "Mcp Server BioRxiv MCP server listed on mcp.so.",
+  "source_repo": "JackKuo666/mcp-server-BioRxiv",
+  "source_url": "https://mcp.so/server/mcp-server-BioRxiv/JackKuo666",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-BioRxiv/JackKuo666\n# See source for mcpServers config block"
+}

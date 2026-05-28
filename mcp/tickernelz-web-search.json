@@ -1,0 +1,7 @@
+{
+  "name": "tickernelz-web-search",
+  "description": "Provides web search capabilities and content extraction using a two-tier system that escalates from fast DuckDuckGo HTML search to Puppeteer-driven Bing search when needed, with Wikipedia summaries and semantic content processing.",
+  "source_repo": "tickernelz/mcp-web-search",
+  "source_url": "https://github.com/tickernelz/mcp-web-search",
+  "install": "# git clone --depth 1 https://github.com/tickernelz/mcp-web-search\n# See source for mcpServers config block"
+}

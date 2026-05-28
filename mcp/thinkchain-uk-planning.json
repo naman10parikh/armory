@@ -1,0 +1,7 @@
+{
+  "name": "thinkchain-uk-planning",
+  "description": "Search UK planning applications, datasets, entities, and conservation areas via planning data APIs.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/thinkchain-uk-planning",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/thinkchain-uk-planning\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kaitoy-nasa-images",
+  "description": "Search and browse NASA's image library with an interactive UI for exploring space photographs from missions, satellites, and astronomical observations.",
+  "source_repo": "kaitoy/nasa-images-mcp-server",
+  "source_url": "https://github.com/kaitoy/nasa-images-mcp-server",
+  "install": "npx -y nasa-images-mcp-server"
+}

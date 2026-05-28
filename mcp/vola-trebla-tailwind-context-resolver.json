@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-tailwind-context-resolver",
+  "description": "Resolves Tailwind CSS design tokens and validates utility classes against the local project config.",
+  "source_repo": "vola-trebla/tailwind-context-resolver-mcp",
+  "source_url": "https://github.com/vola-trebla/tailwind-context-resolver-mcp",
+  "install": "npx -y tailwind-context-resolver-mcp"
+}

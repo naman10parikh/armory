@@ -1,0 +1,7 @@
+{
+  "name": "n-3inc-e-stat",
+  "description": "MCP server for querying Japan's e-Stat government statistics API, providing access to statistical data, metadata, and data catalogs.",
+  "source_repo": "",
+  "source_url": "https://mcp.n-3.ai/mcp?tools=e-stat-get-stats-list,e-stat-get-meta-info,e-stat-get-data-catalog",
+  "install": "# git clone --depth 1 https://mcp.n-3.ai/mcp?tools=e-stat-get-stats-list,e-stat-get-meta-info,e-stat-get-data-catalog\n# See source for mcpServers config block"
+}

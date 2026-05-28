@@ -1,0 +1,7 @@
+{
+  "name": "marsheer-agentdomain",
+  "description": "Community MCP server for AgentDomain's domain registration API, enabling AI agents to search, purchase, and manage internet domains with DNS control.",
+  "source_repo": "marsheer/agentdomain-mcp",
+  "source_url": "https://github.com/marsheer/agentdomain-mcp",
+  "install": "npx -y agentdomain-mcp"
+}

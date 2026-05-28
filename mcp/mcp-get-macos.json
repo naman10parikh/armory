@@ -1,0 +1,7 @@
+{
+  "name": "mcp-get-macos",
+  "description": "Access macOS system information and send notifications.",
+  "source_repo": "mcp-get/community-servers",
+  "source_url": "https://github.com/mcp-get/community-servers/tree/HEAD/src/server-macos",
+  "install": "# git clone --depth 1 https://github.com/mcp-get/community-servers/tree/HEAD/src/server-macos\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rachadele-biolit",
+  "description": "LLM-assisted biomedical literature screening and data extraction for PubMed, GEO, and preprints.",
+  "source_repo": "rachadele/biolit",
+  "source_url": "https://github.com/rachadele/biolit",
+  "install": "# git clone --depth 1 https://github.com/rachadele/biolit\n# See source for mcpServers config block"
+}

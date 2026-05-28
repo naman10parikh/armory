@@ -1,0 +1,7 @@
+{
+  "name": "abhinavala-context-cloud",
+  "description": "Provides persistent AI memory with shared team workspaces, typed knowledge chunks, and cross-tool support.",
+  "source_repo": "abhinavala/cntxtv2",
+  "source_url": "https://github.com/abhinavala/cntxtv2",
+  "install": "# git clone --depth 1 https://github.com/abhinavala/cntxtv2\n# See source for mcpServers config block"
+}

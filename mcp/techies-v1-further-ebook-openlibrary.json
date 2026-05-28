@@ -1,0 +1,7 @@
+{
+  "name": "techies-v1-further-ebook-openlibrary",
+  "description": "Combines ebook processing with OpenLibrary, Gutenberg, and Standard Ebooks discovery for metadata extraction, chapter conversion, and automated book search pipelines.",
+  "source_repo": "techies-v1/futher-mcp",
+  "source_url": "https://github.com/techies-v1/futher-mcp",
+  "install": "npx -y futher-mcp"
+}

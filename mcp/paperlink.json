@@ -1,0 +1,7 @@
+{
+  "name": "paperlink",
+  "description": "Manage transactions, companies, clients, and products in your PaperLink account through AI assistants.",
+  "source_repo": "",
+  "source_url": "https://www.paperlink.online/en/blog/paperlink-mcp-server-25-tools",
+  "install": "# git clone --depth 1 https://www.paperlink.online/en/blog/paperlink-mcp-server-25-tools\n# See source for mcpServers config block"
+}

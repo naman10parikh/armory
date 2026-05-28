@@ -1,0 +1,7 @@
+{
+  "name": "alibabacloud-fc",
+  "description": "Integrates with Alibaba Cloud Function Compute to deploy and manage serverless functions with multi-language runtime support, custom domain routing, and VPC configuration for automated cloud function lifecycle management.",
+  "source_repo": "aliyun/alibabacloud-fc-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-fc-mcp-server",
+  "install": "npx -y alibabacloud-fc-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "government-scheme-mcp-server",
+  "description": "Provides tools for searching, creating, and managing Indian Government Schemes with comprehensive eligibility filtering.",
+  "source_repo": "magicstack-llp/gov-scheme-mcp-py",
+  "source_url": "https://github.com/magicstack-llp/gov-scheme-mcp-py",
+  "install": "# git clone --depth 1 https://github.com/magicstack-llp/gov-scheme-mcp-py\n# See source for mcpServers config block"
+}

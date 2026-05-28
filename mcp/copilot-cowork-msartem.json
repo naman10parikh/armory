@@ -1,0 +1,7 @@
+{
+  "name": "copilot-cowork-msartem",
+  "description": "Bridges GitHub Copilot CLI with Microsoft 365 Copilot for terminal-based M365 access.",
+  "source_repo": "msartem/copilot_cowork_mcp",
+  "source_url": "https://github.com/msartem/copilot_cowork_mcp",
+  "install": "npx -y copilot_cowork_mcp"
+}

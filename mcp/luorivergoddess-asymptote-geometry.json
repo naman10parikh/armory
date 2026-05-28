@@ -1,0 +1,7 @@
+{
+  "name": "luorivergoddess-asymptote-geometry",
+  "description": "Renders precise geometric images using Asymptote vector graphics language, converting mathematical code into SVG or PNG formats for technical diagrams and visualizations.",
+  "source_repo": "luorivergoddess/mcp-geo",
+  "source_url": "https://github.com/luorivergoddess/mcp-geo",
+  "install": "# git clone --depth 1 https://github.com/luorivergoddess/mcp-geo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "byteoverdev-diagrams",
+  "description": "Generate cloud architecture diagrams, flowcharts, and sequence diagrams programmatically.",
+  "source_repo": "byteoverdev/diagrams-mcp",
+  "source_url": "https://github.com/byteoverdev/diagrams-mcp",
+  "install": "npx -y diagrams-mcp"
+}

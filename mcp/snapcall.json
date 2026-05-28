@@ -1,0 +1,7 @@
+{
+  "name": "snapcall",
+  "description": "Create and manage video call URLs for customer support",
+  "source_repo": "",
+  "source_url": "https://www.snapcall.io",
+  "install": "# git clone --depth 1 https://www.snapcall.io\n# See source for mcpServers config block"
+}

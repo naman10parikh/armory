@@ -1,0 +1,7 @@
+{
+  "name": "lilyjem-ssh",
+  "description": "Enables secure SSH remote control with command execution, file transfer operations, and session management for automating server administration and deployment tasks.",
+  "source_repo": "lilyjem/ssh",
+  "source_url": "https://github.com/lilyjem/ssh",
+  "install": "# git clone --depth 1 https://github.com/lilyjem/ssh\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tufantunc-ssh-mcp",
+  "description": "MCP server exposing SSH control for Linux and Windows servers via Model Context Protocol. Securely execute remote shell commands with password or SSH key authentication.",
+  "source_repo": "tufantunc/ssh-mcp",
+  "source_url": "https://github.com/tufantunc/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-agent-costcenter",
+  "description": "Tracks billing and cost allocation for multi-agent workflows and agentic deployments.",
+  "source_repo": "mdfifty50-boop/agent-costcenter-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/agent-costcenter-mcp",
+  "install": "npx -y agent-costcenter-mcp"
+}

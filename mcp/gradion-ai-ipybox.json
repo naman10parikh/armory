@@ -1,0 +1,7 @@
+{
+  "name": "gradion-ai-ipybox",
+  "description": "Provides secure Python code execution in Docker containers with stateful IPython kernels, real-time output streaming, file operations, and network firewall controls for safe AI agent code execution environments.",
+  "source_repo": "gradion-ai/ipybox",
+  "source_url": "https://github.com/gradion-ai/ipybox",
+  "install": "# git clone --depth 1 https://github.com/gradion-ai/ipybox\n# See source for mcpServers config block"
+}

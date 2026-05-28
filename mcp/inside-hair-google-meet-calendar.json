@@ -1,0 +1,7 @@
+{
+  "name": "inside-hair-google-meet-calendar",
+  "description": "Integrates with Google Meet and Calendar APIs to provide comprehensive meeting scheduling, calendar management, conference recording retrieval, and automated workspace coordination through 23+ validated tools with multiple authentication methods and advanced monitoring capabilities.",
+  "source_repo": "inside-hair/mcp-google-calendar-and-meet",
+  "source_url": "https://github.com/inside-hair/mcp-google-calendar-and-meet",
+  "install": "# git clone --depth 1 https://github.com/inside-hair/mcp-google-calendar-and-meet\n# See source for mcpServers config block"
+}

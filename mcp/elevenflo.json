@@ -1,0 +1,7 @@
+{
+  "name": "elevenflo",
+  "description": "Court-grounded Chapter 11 bankruptcy research over hosted remote MCP.",
+  "source_repo": "",
+  "source_url": "https://elevenflo.com/mcp/overview",
+  "install": "# git clone --depth 1 https://elevenflo.com/mcp/overview\n# See source for mcpServers config block"
+}

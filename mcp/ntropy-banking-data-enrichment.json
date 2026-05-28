@@ -1,0 +1,7 @@
+{
+  "name": "ntropy-banking-data-enrichment",
+  "description": "Integrates with Ntropy's API to enrich banking data, enabling detailed financial transaction analysis and categorization for AI applications.",
+  "source_repo": "ntropy-network/ntropy-mcp",
+  "source_url": "https://github.com/ntropy-network/ntropy-mcp",
+  "install": "npx -y ntropy-mcp"
+}

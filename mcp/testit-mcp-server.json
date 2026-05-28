@@ -1,0 +1,7 @@
+{
+  "name": "testit-mcp-server",
+  "description": "Enables interaction with TestIT test management platform, allowing management of projects, work items, test runs, test plans, and analytics.",
+  "source_repo": "iampopovich/testit-mcp-server",
+  "source_url": "https://github.com/iampopovich/testit-mcp-server",
+  "install": "npx -y testit-mcp-server"
+}

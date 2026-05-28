@@ -1,0 +1,7 @@
+{
+  "name": "morinosei-edinet",
+  "description": "Retrieves Japanese corporate financial disclosure documents from the EDINET regulatory filing system.",
+  "source_repo": "morinosei/edinet-mcp-server",
+  "source_url": "https://github.com/morinosei/edinet-mcp-server",
+  "install": "npx -y edinet-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seanivore-code-analyzer",
+  "description": "Analyzes Python code structure, complexity, and dependencies using parsing tools to provide insights for automated quality checks and code reviews.",
+  "source_repo": "seanivore/mcp-code-analyzer",
+  "source_url": "https://github.com/seanivore/mcp-code-analyzer",
+  "install": "# git clone --depth 1 https://github.com/seanivore/mcp-code-analyzer\n# See source for mcpServers config block"
+}

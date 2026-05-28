@@ -1,0 +1,7 @@
+{
+  "name": "0xadvait-team-manager",
+  "description": "MongoDB-native MCP control plane for multi-agent orchestration with planning, routing, memory, and audit trails.",
+  "source_repo": "0xadvait/team-manager-mcp",
+  "source_url": "https://github.com/0xadvait/team-manager-mcp",
+  "install": "npx -y team-manager-mcp"
+}

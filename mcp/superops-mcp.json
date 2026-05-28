@@ -1,0 +1,7 @@
+{
+  "name": "superops-mcp",
+  "description": "An MCP server for SuperOps PSA/RMM, enabling MSPs to manage tickets, assets, clients, and field technician operations through SuperOps's API.",
+  "source_repo": "wyre-technology/superops-mcp",
+  "source_url": "https://github.com/wyre-technology/superops-mcp",
+  "install": "npx -y superops-mcp"
+}

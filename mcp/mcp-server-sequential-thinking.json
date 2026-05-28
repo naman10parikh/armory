@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-sequential-thinking",
+  "description": "Mcp Server Sequential Thinking MCP server listed on mcp.so.",
+  "source_repo": "zengwenliang416/mcp-server-sequential-thinking",
+  "source_url": "https://mcp.so/server/mcp-server-sequential-thinking/zengwenliang416",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-sequential-thinking/zengwenliang416\n# See source for mcpServers config block"
+}

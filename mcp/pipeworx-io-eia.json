@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-eia",
+  "description": "US energy statistics via the EIA API v2, covering production, consumption, and pricing data.",
+  "source_repo": "pipeworx-io/mcp-eia",
+  "source_url": "https://github.com/pipeworx-io/mcp-eia",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-eia\n# See source for mcpServers config block"
+}

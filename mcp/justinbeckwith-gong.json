@@ -1,0 +1,7 @@
+{
+  "name": "justinbeckwith-gong",
+  "description": "Integrates with Gong conversation intelligence platform to query call recordings, retrieve transcripts with speaker attribution, access call summaries and action items, and list workspace users for sales analysis and revenue operations insights.",
+  "source_repo": "justinbeckwith/gongio-mcp",
+  "source_url": "https://github.com/justinbeckwith/gongio-mcp",
+  "install": "npx -y gongio-mcp"
+}

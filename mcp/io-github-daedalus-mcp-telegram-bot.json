@@ -1,0 +1,7 @@
+{
+  "name": "io-github-daedalus-mcp-telegram-bot",
+  "description": "MCP server that exposes a Telegram bot, enabling sending messages and retrieving updates through natural language.",
+  "source_repo": "daedalus/mcp-telegram-bot",
+  "source_url": "https://github.com/daedalus/mcp-telegram-bot",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-telegram-bot\n# See source for mcpServers config block"
+}

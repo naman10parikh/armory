@@ -1,0 +1,7 @@
+{
+  "name": "jedox-mcp-server",
+  "description": "Local MCP server for the Jedox OLAP platform enabling LLM clients to interact with Jedox databases, dimensions, cubes, cells, and rules via natural language.",
+  "source_repo": "emilabd247/work-jedox-mcp-server",
+  "source_url": "https://github.com/emilabd247/work-jedox-mcp-server",
+  "install": "npx -y work-jedox-mcp-server"
+}

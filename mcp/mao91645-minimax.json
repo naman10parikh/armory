@@ -1,0 +1,7 @@
+{
+  "name": "mao91645-minimax",
+  "description": "Provides 11 tools powered by MiniMax APIs for speech synthesis, video and image generation, music creation, web search, and image understanding.",
+  "source_repo": "mao91645/minimax-ymcp",
+  "source_url": "https://github.com/mao91645/minimax-ymcp",
+  "install": "# git clone --depth 1 https://github.com/mao91645/minimax-ymcp\n# See source for mcpServers config block"
+}

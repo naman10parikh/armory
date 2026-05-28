@@ -1,0 +1,7 @@
+{
+  "name": "joodascode-slopwatch",
+  "description": "Tracks implementation claims versus actual delivery by monitoring file content changes, verifying code modifications through content analysis, and generating accountability workflows to measure coding accuracy in development environments.",
+  "source_repo": "joodascode/slopwatch",
+  "source_url": "https://github.com/joodascode/slopwatch",
+  "install": "# git clone --depth 1 https://github.com/joodascode/slopwatch\n# See source for mcpServers config block"
+}

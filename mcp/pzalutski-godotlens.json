@@ -1,0 +1,7 @@
+{
+  "name": "pzalutski-godotlens",
+  "description": "15 semantic GDScript analysis tools via Godot's built-in LSP for navigation and references.",
+  "source_repo": "pzalutski-pixel/godotlens-mcp",
+  "source_url": "https://github.com/pzalutski-pixel/godotlens-mcp",
+  "install": "npx -y godotlens-mcp"
+}

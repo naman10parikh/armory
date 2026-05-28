@@ -1,0 +1,7 @@
+{
+  "name": "mrphu3074-skill-router",
+  "description": "Routes AI agents to specialized skills stored as markdown files using semantic search",
+  "source_repo": "mrphu3074/skill-router-mcp",
+  "source_url": "https://github.com/mrphu3074/skill-router-mcp",
+  "install": "npx -y skill-router-mcp"
+}

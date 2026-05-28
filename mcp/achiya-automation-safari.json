@@ -1,0 +1,7 @@
+{
+  "name": "achiya-automation-safari",
+  "description": "Native Safari browser automation on macOS with 80 tools via AppleScript and JavaScript, requiring no external dependencies.",
+  "source_repo": "achiya-automation/safari-mcp",
+  "source_url": "https://github.com/achiya-automation/safari-mcp",
+  "install": "npx -y safari-mcp"
+}

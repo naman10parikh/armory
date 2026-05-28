@@ -1,0 +1,7 @@
+{
+  "name": "tqiqbal-mcp-confluence-server",
+  "description": "A Model Context Protocol (MCP) server for interacting with Confluence Data Center via REST API.",
+  "source_repo": "tqiqbal/mcp-confluence-server",
+  "source_url": "https://github.com/tqiqbal/mcp-confluence-server",
+  "install": "# git clone --depth 1 https://github.com/tqiqbal/mcp-confluence-server\n# See source for mcpServers config block"
+}

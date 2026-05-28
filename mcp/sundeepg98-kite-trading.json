@@ -1,0 +1,7 @@
+{
+  "name": "sundeepg98-kite-trading",
+  "description": "Indian stock market trading via Zerodha Kite Connect — orders, portfolio, options, and market data.",
+  "source_repo": "sundeepg98/kite-mcp-server",
+  "source_url": "https://github.com/sundeepg98/kite-mcp-server",
+  "install": "npx -y kite-mcp-server"
+}

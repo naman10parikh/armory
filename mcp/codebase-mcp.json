@@ -1,0 +1,7 @@
+{
+  "name": "codebase-mcp",
+  "description": "An open-source AI-powered development assistant that connects Claude Desktop to your codebase via MCP, enabling semantic code search, AI-assisted editing, and persistent memory without additional subscriptions.",
+  "source_repo": "danyQe/codebase-mcp",
+  "source_url": "https://github.com/danyQe/codebase-mcp",
+  "install": "npx -y codebase-mcp"
+}

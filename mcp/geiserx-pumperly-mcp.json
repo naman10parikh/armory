@@ -1,0 +1,7 @@
+{
+  "name": "geiserx-pumperly-mcp",
+  "description": "Go-based MCP server for Pumperly fuel price comparison. Query gas station prices, plan fuel-efficient routes, and find nearby EV charging stations. Docker image available.",
+  "source_repo": "GeiserX/pumperly-mcp",
+  "source_url": "https://github.com/GeiserX/pumperly-mcp",
+  "install": "npx -y pumperly-mcp"
+}

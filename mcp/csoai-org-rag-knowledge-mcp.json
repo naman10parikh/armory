@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-rag-knowledge-mcp",
+  "description": "Python MCP server for retrieval-augmented generation and knowledge base tools.",
+  "source_repo": "csoai-org/rag-knowledge-mcp",
+  "source_url": "https://github.com/csoai-org/rag-knowledge-mcp",
+  "install": "npx -y rag-knowledge-mcp"
+}

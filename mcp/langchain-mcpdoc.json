@@ -1,0 +1,7 @@
+{
+  "name": "langchain-mcpdoc",
+  "description": "Provides AI systems with access to documentation from llms.txt files by fetching and parsing content from specified URLs, enabling seamless documentation lookup during coding sessions.",
+  "source_repo": "langchain-ai/mcpdoc",
+  "source_url": "https://github.com/langchain-ai/mcpdoc",
+  "install": "# git clone --depth 1 https://github.com/langchain-ai/mcpdoc\n# See source for mcpServers config block"
+}

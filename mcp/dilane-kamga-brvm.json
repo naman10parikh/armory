@@ -1,0 +1,7 @@
+{
+  "name": "dilane-kamga-brvm",
+  "description": "Provides live market data from West Africa's BRVM regional stock exchange with 7 tools for quotes, company info, and market summaries.",
+  "source_repo": "dilane-kamga/brvm-mcp-server",
+  "source_url": "https://github.com/dilane-kamga/brvm-mcp-server",
+  "install": "npx -y brvm-mcp-server"
+}

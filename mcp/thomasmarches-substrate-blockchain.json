@@ -1,0 +1,7 @@
+{
+  "name": "thomasmarches-substrate-blockchain",
+  "description": "Enables direct interaction with Substrate blockchain networks for querying account balances, accessing storage, submitting transactions, and retrieving blockchain data with optional transaction signing capabilities.",
+  "source_repo": "thomasmarches/substrate-mcp-rs",
+  "source_url": "https://github.com/thomasmarches/substrate-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/thomasmarches/substrate-mcp-rs\n# See source for mcpServers config block"
+}

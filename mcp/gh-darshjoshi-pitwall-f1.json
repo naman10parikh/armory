@@ -1,0 +1,7 @@
+{
+  "name": "gh-darshjoshi-pitwall-f1",
+  "description": "Provides real-time and historical Formula 1 telemetry, race results, strategy data, and visual plots from 75 years of racing history.",
+  "source_repo": "darshjoshi/pitwall",
+  "source_url": "https://github.com/darshjoshi/pitwall",
+  "install": "# git clone --depth 1 https://github.com/darshjoshi/pitwall\n# See source for mcpServers config block"
+}

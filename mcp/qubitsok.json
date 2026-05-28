@@ -1,0 +1,7 @@
+{
+  "name": "qubitsok",
+  "description": "Quantum computing job search, arXiv paper discovery, and researcher profiles from qubitsok.com.",
+  "source_repo": "",
+  "source_url": "https://qubitsok.com/mcp",
+  "install": "# git clone --depth 1 https://qubitsok.com/mcp\n# See source for mcpServers config block"
+}

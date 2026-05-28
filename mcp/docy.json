@@ -1,0 +1,7 @@
+{
+  "name": "docy",
+  "description": "Provides direct access to technical documentation from configured sources, enabling real-time search, retrieval, and navigation through documentation content without leaving the conversation context.",
+  "source_repo": "oborchers/mcp-server-docy",
+  "source_url": "https://github.com/oborchers/mcp-server-docy",
+  "install": "# git clone --depth 1 https://github.com/oborchers/mcp-server-docy\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "venkateshamatam-recall",
+  "description": "Local SQLite MCP server enabling multiple AI agents to share persistent memory with on-device vector embeddings across Claude, Cursor, and other tools.",
+  "source_repo": "venkateshamatam/recall",
+  "source_url": "https://github.com/venkateshamatam/recall",
+  "install": "# git clone --depth 1 https://github.com/venkateshamatam/recall\n# See source for mcpServers config block"
+}

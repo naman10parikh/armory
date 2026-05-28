@@ -1,0 +1,7 @@
+{
+  "name": "deliberate-reasoning-engine",
+  "description": "An MCP server that structures AI reasoning as directed acyclic graphs of semantic thoughts, enabling explicit dependencies, assumption tracking, and cascade invalidation for transparent decision-making.",
+  "source_repo": "evalops/deliberate-reasoning-engine",
+  "source_url": "https://github.com/evalops/deliberate-reasoning-engine",
+  "install": "# git clone --depth 1 https://github.com/evalops/deliberate-reasoning-engine\n# See source for mcpServers config block"
+}

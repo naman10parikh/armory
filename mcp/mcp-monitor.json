@@ -1,0 +1,7 @@
+{
+  "name": "mcp-monitor",
+  "description": "Mcp Monitor MCP server listed on mcp.so.",
+  "source_repo": "seekrays/mcp-monitor",
+  "source_url": "https://mcp.so/server/mcp-monitor/seekrays",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-monitor/seekrays\n# See source for mcpServers config block"
+}

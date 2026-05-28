@@ -1,0 +1,7 @@
+{
+  "name": "aaronsb-jira-insights",
+  "description": "Enables programmatic management of Jira Insights asset schemas through CRUD operations on object types and AQL queries, streamlining IT asset management and configuration tracking workflows.",
+  "source_repo": "aaronsb/jira-insights-mcp",
+  "source_url": "https://github.com/aaronsb/jira-insights-mcp",
+  "install": "npx -y jira-insights-mcp"
+}

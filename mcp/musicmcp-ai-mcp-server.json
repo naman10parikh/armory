@@ -1,0 +1,7 @@
+{
+  "name": "musicmcp-ai-mcp-server",
+  "description": "Enables AI-powered music generation through natural language commands, supporting both inspiration and custom modes with automatic polling for async generation.",
+  "source_repo": "fastmcp-me/aimusic-mcp-tool",
+  "source_url": "https://github.com/fastmcp-me/aimusic-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/aimusic-mcp-tool\n# See source for mcpServers config block"
+}

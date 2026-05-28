@@ -1,0 +1,7 @@
+{
+  "name": "zzhang82-agent-memory-bridge",
+  "description": "MCP-native, local-first memory for coding agents that turns coding sessions into reusable engineering memory: decisions, gotchas, and domain knowledge.",
+  "source_repo": "zzhang82/Agent-Memory-Bridge",
+  "source_url": "https://github.com/zzhang82/Agent-Memory-Bridge",
+  "install": "# git clone --depth 1 https://github.com/zzhang82/Agent-Memory-Bridge\n# See source for mcpServers config block"
+}

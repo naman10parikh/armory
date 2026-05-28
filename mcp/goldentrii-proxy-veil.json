@@ -1,0 +1,7 @@
+{
+  "name": "goldentrii-proxy-veil",
+  "description": "Residential proxy access for AI agents via Novada, BrightData, Smartproxy, and Oxylabs.",
+  "source_repo": "goldentrii/proxy4agent",
+  "source_url": "https://github.com/goldentrii/proxy4agent",
+  "install": "# git clone --depth 1 https://github.com/goldentrii/proxy4agent\n# See source for mcpServers config block"
+}

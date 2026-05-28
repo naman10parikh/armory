@@ -1,0 +1,7 @@
+{
+  "name": "oura-mcp-server-2",
+  "description": "Integrates Oura Ring health data with Claude Desktop, providing resources, tools, and advanced analytics for sleep, activity, readiness, and health trends.",
+  "source_repo": "hemantkamalakar/oura-mcp-server",
+  "source_url": "https://github.com/hemantkamalakar/oura-mcp-server",
+  "install": "npx -y oura-mcp-server"
+}

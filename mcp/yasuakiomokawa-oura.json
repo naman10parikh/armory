@@ -1,0 +1,7 @@
+{
+  "name": "yasuakiomokawa-oura",
+  "description": "Connects AI assistants to Oura Ring API v2 for sleep, activity, readiness, heart rate, and workout data.",
+  "source_repo": "yasuakiomokawa/oura-mcp",
+  "source_url": "https://github.com/yasuakiomokawa/oura-mcp",
+  "install": "npx -y oura-mcp"
+}

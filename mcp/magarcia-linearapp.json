@@ -1,0 +1,7 @@
+{
+  "name": "magarcia-linearapp",
+  "description": "Integrates with Linear's issue tracking system to enable natural language interaction for creating, updating, and managing issues, comments, attachments, and project information without context switching.",
+  "source_repo": "magarcia/mcp-server-linearapp",
+  "source_url": "https://github.com/magarcia/mcp-server-linearapp",
+  "install": "# git clone --depth 1 https://github.com/magarcia/mcp-server-linearapp\n# See source for mcpServers config block"
+}

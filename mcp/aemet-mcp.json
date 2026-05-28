@@ -1,0 +1,7 @@
+{
+  "name": "aemet-mcp",
+  "description": "Model Context Protocol server: plug AEMET into Claude Desktop, Cursor, Windsurf or any MCP client. Runs locally over stdio.",
+  "source_repo": "jocarrd/aemet-client",
+  "source_url": "https://github.com/jocarrd/aemet-client",
+  "install": "# git clone --depth 1 https://github.com/jocarrd/aemet-client\n# See source for mcpServers config block"
+}

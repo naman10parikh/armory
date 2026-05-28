@@ -1,0 +1,7 @@
+{
+  "name": "feedoracle-compliance",
+  "description": "Regulatory compliance checks for MiCA, DORA, custody risk, and evidence scoring.",
+  "source_repo": "",
+  "source_url": "https://feedoracle.io/mcp/sse",
+  "install": "# git clone --depth 1 https://feedoracle.io/mcp/sse\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "youichi-uda-godot-mcp-pro",
+  "description": "Premium MCP server for Godot game engine with 84 tools for scene editing, scripting, animation, tilemap, shader, input simulation, and runtime debugging.",
+  "source_repo": "youichi-uda/godot-mcp-pro",
+  "source_url": "https://github.com/youichi-uda/godot-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/youichi-uda/godot-mcp-pro\n# See source for mcpServers config block"
+}

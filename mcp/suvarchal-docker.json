@@ -1,0 +1,7 @@
+{
+  "name": "suvarchal-docker",
+  "description": "Enables Docker container management with tools for listing, running, stopping, removing containers and pulling images from registries through a TypeScript-based interface",
+  "source_repo": "suvarchal/docker-mcp",
+  "source_url": "https://github.com/suvarchal/docker-mcp",
+  "install": "npx -y docker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentx-ai-mailchimp",
+  "description": "Integrates with Mailchimp's Marketing API to provide read-only access to automation management, campaign analytics, list and member data, e-commerce integration, template handling, and detailed reporting for email marketing analysis and optimization.",
+  "source_repo": "agentx-ai/mailchimp-mcp",
+  "source_url": "https://github.com/agentx-ai/mailchimp-mcp",
+  "install": "npx -y mailchimp-mcp"
+}

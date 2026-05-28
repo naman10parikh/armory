@@ -1,0 +1,7 @@
+{
+  "name": "praveensehgal-remarkable",
+  "description": "Access reMarkable tablet library with full document browsing, typed text extraction, handwriting OCR, and PDF/EPUB support.",
+  "source_repo": "praveensehgal/remarkable-mcp",
+  "source_url": "https://github.com/praveensehgal/remarkable-mcp",
+  "install": "npx -y remarkable-mcp"
+}

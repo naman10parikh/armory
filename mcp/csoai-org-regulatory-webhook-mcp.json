@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-regulatory-webhook-mcp",
+  "description": "Python MCP server for regulatory compliance webhook integration and monitoring.",
+  "source_repo": "csoai-org/regulatory-webhook-mcp",
+  "source_url": "https://github.com/csoai-org/regulatory-webhook-mcp",
+  "install": "npx -y regulatory-webhook-mcp"
+}

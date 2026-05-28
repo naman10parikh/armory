@@ -1,0 +1,7 @@
+{
+  "name": "jcwleo-ccxt-cryptocurrency-exchange",
+  "description": "Integrates with cryptocurrency exchanges through CCXT library to provide market data analysis and execute trading operations across spot, futures, and options markets without context switching.",
+  "source_repo": "jcwleo/ccxt-mcp-server",
+  "source_url": "https://github.com/jcwleo/ccxt-mcp-server",
+  "install": "npx -y ccxt-mcp-server"
+}

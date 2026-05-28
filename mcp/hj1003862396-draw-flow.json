@@ -1,0 +1,7 @@
+{
+  "name": "hj1003862396-draw-flow",
+  "description": "Generates and edits draw.io diagrams with real-time browser preview and version history.",
+  "source_repo": "hj1003862396/draw-flow-mcp-server",
+  "source_url": "https://github.com/hj1003862396/draw-flow-mcp-server",
+  "install": "npx -y draw-flow-mcp-server"
+}

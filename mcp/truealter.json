@@ -1,0 +1,7 @@
+{
+  "name": "truealter",
+  "description": "Identity infrastructure for AI agents providing personality traits, belonging scores, and x402 micropayment-based identity queries.",
+  "source_repo": "",
+  "source_url": "https://truealter.com",
+  "install": "# git clone --depth 1 https://truealter.com\n# See source for mcpServers config block"
+}

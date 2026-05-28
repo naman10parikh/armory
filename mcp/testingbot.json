@@ -1,0 +1,7 @@
+{
+  "name": "testingbot",
+  "description": "Automated web and mobile testing integration",
+  "source_repo": "testingbot/mcp-server",
+  "source_url": "https://github.com/testingbot/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/testingbot/mcp-server\n# See source for mcpServers config block"
+}

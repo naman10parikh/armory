@@ -1,0 +1,7 @@
+{
+  "name": "w8s-astro",
+  "description": "Astrological computation with natal charts, transits, aspects, composite and Davison charts via SQLite storage.",
+  "source_repo": "w8s/w8s-astro-mcp",
+  "source_url": "https://github.com/w8s/w8s-astro-mcp",
+  "install": "npx -y w8s-astro-mcp"
+}

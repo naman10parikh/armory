@@ -1,0 +1,7 @@
+{
+  "name": "generik0-smooth-code-repo-index",
+  "description": "Provides structured code indexing and retrieval for monorepos with first-class AGENTS.md support, using Lucene.Net full-text search and bounded context discovery.",
+  "source_repo": "generic-automation-and-it/smooth-code-repo-index-mcp",
+  "source_url": "https://github.com/generic-automation-and-it/smooth-code-repo-index-mcp",
+  "install": "npx -y smooth-code-repo-index-mcp"
+}

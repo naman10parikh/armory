@@ -1,0 +1,7 @@
+{
+  "name": "football-data-mcp",
+  "description": "Provides football analytics tools including player scouting, comparisons, market-value filters, expected-goals tables, match-by-match form, team attacking profiles, match search, shot maps, and more for 10 leagues.",
+  "source_repo": "kupsas/football-data-mcp",
+  "source_url": "https://github.com/kupsas/football-data-mcp",
+  "install": "npx -y football-data-mcp"
+}

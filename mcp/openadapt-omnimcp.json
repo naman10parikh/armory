@@ -1,0 +1,7 @@
+{
+  "name": "openadapt-omnimcp",
+  "description": "Provides a robust UI automation framework leveraging advanced computer vision techniques for precise element detection, interaction, and verification across different interfaces",
+  "source_repo": "openadaptai/omnimcp",
+  "source_url": "https://github.com/openadaptai/omnimcp",
+  "install": "# git clone --depth 1 https://github.com/openadaptai/omnimcp\n# See source for mcpServers config block"
+}

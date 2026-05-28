@@ -1,0 +1,7 @@
+{
+  "name": "lumabyteco-clarifyprompt",
+  "description": "Transforms vague prompts into platform-optimized prompts for 58+ AI platforms across image, video, chat, code, voice, and music categories.",
+  "source_repo": "lumabyteco/clarifyprompt-mcp",
+  "source_url": "https://github.com/lumabyteco/clarifyprompt-mcp",
+  "install": "npx -y clarifyprompt-mcp"
+}

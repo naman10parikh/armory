@@ -1,0 +1,7 @@
+{
+  "name": "nakaokarei-swift-autogui",
+  "description": "Enables precise control of macOS through mouse movements, clicks, and scrolling via SwiftAutoGUI, allowing direct manipulation of the macOS interface for automation workflows and GUI testing.",
+  "source_repo": "nakaokarei/swift-mcp-gui",
+  "source_url": "https://github.com/nakaokarei/swift-mcp-gui",
+  "install": "# git clone --depth 1 https://github.com/nakaokarei/swift-mcp-gui\n# See source for mcpServers config block"
+}

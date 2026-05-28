@@ -1,0 +1,7 @@
+{
+  "name": "agiflow-scaffold-generator",
+  "description": "Generates code scaffolding for modern web applications using template-based boilerplate creation and feature addition with variable substitution, conditional file inclusion, and schema validation for rapid prototyping and consistent development patterns.",
+  "source_repo": "agiflow/aicode-toolkit",
+  "source_url": "https://github.com/agiflow/aicode-toolkit",
+  "install": "# git clone --depth 1 https://github.com/agiflow/aicode-toolkit\n# See source for mcpServers config block"
+}

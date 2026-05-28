@@ -1,0 +1,7 @@
+{
+  "name": "nullplatform-meta-mcp-proxy",
+  "description": "Unifies multiple MCP servers into a single gateway with built-in search capabilities, enabling tools to be discovered and executed across different specialized services through one interface",
+  "source_repo": "nullplatform/meta-mcp-proxy",
+  "source_url": "https://github.com/nullplatform/meta-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/nullplatform/meta-mcp-proxy\n# See source for mcpServers config block"
+}

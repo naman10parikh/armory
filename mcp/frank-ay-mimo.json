@@ -1,0 +1,7 @@
+{
+  "name": "frank-ay-mimo",
+  "description": "Access Xiaomi MiMo multimodal AI with 11 tools for dialogue, image and video understanding, TTS, voice cloning, and voice design.",
+  "source_repo": "frank-ay/mimo-mcp",
+  "source_url": "https://github.com/frank-ay/mimo-mcp",
+  "install": "npx -y mimo-mcp"
+}

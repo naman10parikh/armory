@@ -1,0 +1,7 @@
+{
+  "name": "taskade",
+  "description": "Integrates with Taskade's API to manage projects, tasks, and workspaces with support for task assignment, date management, and folder organization, featuring an innovative OpenAPI-to-MCP code generation system for automated tool creation.",
+  "source_repo": "taskade/mcp",
+  "source_url": "https://github.com/taskade/mcp",
+  "install": "# git clone --depth 1 https://github.com/taskade/mcp\n# See source for mcpServers config block"
+}

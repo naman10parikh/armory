@@ -1,0 +1,7 @@
+{
+  "name": "sentinelgate",
+  "description": "Access control for AI agents with RBAC, CEL policy engine, and full audit trail.",
+  "source_repo": "sentinel-gate/sentinelgate",
+  "source_url": "https://github.com/sentinel-gate/sentinelgate",
+  "install": "# git clone --depth 1 https://github.com/sentinel-gate/sentinelgate\n# See source for mcpServers config block"
+}

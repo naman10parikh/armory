@@ -1,0 +1,7 @@
+{
+  "name": "aliivaezii-kpi-lens",
+  "description": "Supply chain intelligence platform with anomaly detection and LLM root-cause analysis.",
+  "source_repo": "aliivaezii/kpi-lens",
+  "source_url": "https://github.com/aliivaezii/kpi-lens",
+  "install": "# git clone --depth 1 https://github.com/aliivaezii/kpi-lens\n# See source for mcpServers config block"
+}

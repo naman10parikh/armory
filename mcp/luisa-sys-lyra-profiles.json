@@ -1,0 +1,7 @@
+{
+  "name": "luisa-sys-lyra-profiles",
+  "description": "Access and manage Lyra user profiles, search by name or location, get gift recommendations, and generate personality insights.",
+  "source_repo": "luisa-sys/lyra-mcp-server",
+  "source_url": "https://github.com/luisa-sys/lyra-mcp-server",
+  "install": "npx -y lyra-mcp-server"
+}

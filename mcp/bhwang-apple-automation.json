@@ -1,0 +1,7 @@
+{
+  "name": "bhwang-apple-automation",
+  "description": "Provides a lightweight macOS application control server for managing Spotify playback and iTerm interactions using AppleScript-based system commands.",
+  "source_repo": "gnosis23/apple-mcp-server",
+  "source_url": "https://github.com/gnosis23/apple-mcp-server",
+  "install": "npx -y apple-mcp-server"
+}

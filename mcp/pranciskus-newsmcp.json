@@ -1,0 +1,7 @@
+{
+  "name": "pranciskus-newsmcp",
+  "description": "Real-time world news aggregation with region and topic filtering.",
+  "source_repo": "pranciskus/newsmcp",
+  "source_url": "https://github.com/pranciskus/newsmcp",
+  "install": "# git clone --depth 1 https://github.com/pranciskus/newsmcp\n# See source for mcpServers config block"
+}

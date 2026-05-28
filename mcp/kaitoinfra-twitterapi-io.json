@@ -1,0 +1,7 @@
+{
+  "name": "kaitoinfra-twitterapi-io",
+  "description": "Provides 12 read-only tools for querying Twitter/X data including tweet search, user profiles, follower lists, and trending topics via the TwitterAPI.io service.",
+  "source_repo": "kaitoinfra/twitterapi-io-mcp-server",
+  "source_url": "https://github.com/kaitoinfra/twitterapi-io-mcp-server",
+  "install": "npx -y twitterapi-io-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fellowabhi-controlapi-openapi",
+  "description": "Converts OpenAPI specifications into executable MCP tools with dynamic server switching",
+  "source_repo": "fellowabhi/controlapi-openapi-to-mcp",
+  "source_url": "https://github.com/fellowabhi/controlapi-openapi-to-mcp",
+  "install": "npx -y controlapi-openapi-to-mcp"
+}

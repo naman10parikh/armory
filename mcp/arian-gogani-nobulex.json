@@ -1,0 +1,7 @@
+{
+  "name": "arian-gogani-nobulex",
+  "description": "Proof-of-behavior enforcement for AI agents. Define behavioral covenant rules (permit/forbid/require), enforce at runtime before execution, get SHA-256 hash-chained tamper-evident audit logs, and verify compliance independently. Cross-agent verification handshake — no proof, no transaction. MIT licensed, 4,244 tests.",
+  "source_repo": "arian-gogani/nobulex",
+  "source_url": "https://github.com/arian-gogani/nobulex",
+  "install": "# git clone --depth 1 https://github.com/arian-gogani/nobulex\n# See source for mcpServers config block"
+}

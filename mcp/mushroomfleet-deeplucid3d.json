@@ -1,0 +1,7 @@
+{
+  "name": "mushroomfleet-deeplucid3d",
+  "description": "Implements the Unified Cognitive Processing Framework for structured problem analysis, creative exploration, and contextual state management across three dimensions of knowledge categorization.",
+  "source_repo": "mushroomfleet/deeplucid3d-mcp",
+  "source_url": "https://github.com/mushroomfleet/deeplucid3d-mcp",
+  "install": "npx -y deeplucid3d-mcp"
+}

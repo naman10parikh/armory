@@ -1,0 +1,7 @@
+{
+  "name": "veroq-ai-veroq-mcp",
+  "description": "62 verified intelligence tools — claim verification with evidence chains, market data for 1,061+ tickers, trading signals, SEC filings, insider trades, technical analysis, and multi-agent verified swarm.",
+  "source_repo": "veroq-ai/veroq-mcp",
+  "source_url": "https://github.com/veroq-ai/veroq-mcp",
+  "install": "npx -y veroq-mcp"
+}

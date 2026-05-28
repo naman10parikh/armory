@@ -1,0 +1,7 @@
+{
+  "name": "willianmarcel-github-pr-reviewer-notion",
+  "description": "Integrates with GitHub's API to fetch, analyze, and document pull request changes, enabling automated code reviews and maintaining documentation of code changes in Notion.",
+  "source_repo": "willianmarcel/mcp-pr-reviewer",
+  "source_url": "https://github.com/willianmarcel/mcp-pr-reviewer",
+  "install": "# git clone --depth 1 https://github.com/willianmarcel/mcp-pr-reviewer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tinker-lgd2026-tencent-cls",
+  "description": "Tencent Cloud Log Service integration with 37 observability tools.",
+  "source_repo": "tinker-lgd2026/cls-mcp-server",
+  "source_url": "https://github.com/tinker-lgd2026/cls-mcp-server",
+  "install": "npx -y cls-mcp-server"
+}

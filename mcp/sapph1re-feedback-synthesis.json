@@ -1,0 +1,7 @@
+{
+  "name": "sapph1re-feedback-synthesis",
+  "description": "Customer feedback intelligence from GitHub Issues, Hacker News, and App Store reviews — synthesized into ranked pain clusters and sentiment trends via x402 micropayments.",
+  "source_repo": "sapph1re/feedback-synthesis-mcp",
+  "source_url": "https://github.com/sapph1re/feedback-synthesis-mcp",
+  "install": "npx -y feedback-synthesis-mcp"
+}

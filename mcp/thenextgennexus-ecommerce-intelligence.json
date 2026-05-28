@@ -1,0 +1,7 @@
+{
+  "name": "thenextgennexus-ecommerce-intelligence",
+  "description": "Analyze Shopify stores and product data for direct-to-consumer competitive research.",
+  "source_repo": "",
+  "source_url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/ecommerce-intelligence-mcp-server/mcp",
+  "install": "# git clone --depth 1 https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/ecommerce-intelligence-mcp-server/mcp\n# See source for mcpServers config block"
+}

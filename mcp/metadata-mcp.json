@@ -1,0 +1,7 @@
+{
+  "name": "metadata-mcp",
+  "description": "Reads and writes metadata across images, audio, video, documents, and text files using ExifTool, mutagen, and inline handlers, supporting bulk operations with glob patterns.",
+  "source_repo": "dullroar/metadata_mcp",
+  "source_url": "https://github.com/dullroar/metadata_mcp",
+  "install": "npx -y metadata_mcp"
+}

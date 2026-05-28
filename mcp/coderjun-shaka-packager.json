@@ -1,0 +1,7 @@
+{
+  "name": "coderjun-shaka-packager",
+  "description": "Bridges AI with Google's Shaka Packager for video analysis, transcoding, and packaging operations, enabling media workflow automation and streaming content preparation without direct command-line interaction.",
+  "source_repo": "coderjun/shaka-packager-mcp-server",
+  "source_url": "https://github.com/coderjun/shaka-packager-mcp-server",
+  "install": "npx -y shaka-packager-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-carbon-calculator",
+  "description": "Enables carbon emission calculations for Australian electricity and gas consumption using official National Greenhouse Accounts 2024 data, supporting all states and territories.",
+  "source_repo": "prdai/mcp-carbon-calculator",
+  "source_url": "https://github.com/prdai/mcp-carbon-calculator",
+  "install": "# git clone --depth 1 https://github.com/prdai/mcp-carbon-calculator\n# See source for mcpServers config block"
+}

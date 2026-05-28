@@ -1,0 +1,7 @@
+{
+  "name": "whatsupdoc",
+  "description": "WhatsUpDoc MCP server listed on mcp.so.",
+  "source_repo": "paradiselabs-ai/WhatsUpDoc",
+  "source_url": "https://mcp.so/server/WhatsUpDoc/paradiselabs-ai",
+  "install": "# git clone --depth 1 https://mcp.so/server/WhatsUpDoc/paradiselabs-ai\n# See source for mcpServers config block"
+}

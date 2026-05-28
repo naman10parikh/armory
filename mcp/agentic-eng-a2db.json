@@ -1,0 +1,7 @@
+{
+  "name": "agentic-eng-a2db",
+  "description": "Safe, read-only database access for AI agents across PostgreSQL, SQLite, MySQL, Oracle, and SQL Server.",
+  "source_repo": "yoselabs/a2db",
+  "source_url": "https://github.com/yoselabs/a2db",
+  "install": "# git clone --depth 1 https://github.com/yoselabs/a2db\n# See source for mcpServers config block"
+}

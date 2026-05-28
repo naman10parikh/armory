@@ -1,0 +1,7 @@
+{
+  "name": "mac-messages-mcp",
+  "description": "Mac_messages_mcp MCP server listed on mcp.so.",
+  "source_repo": "carterlasalle/mac_messages_mcp",
+  "source_url": "https://mcp.so/server/mac_messages_mcp/carterlasalle",
+  "install": "npx -y mac_messages_mcp"
+}

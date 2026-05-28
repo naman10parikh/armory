@@ -1,0 +1,7 @@
+{
+  "name": "felixwu1110-pubmed-medical-literature",
+  "description": "Enables search, retrieval, and analysis of academic medical literature through the NCBI PubMed database with formatted citations and researcher publication statistics.",
+  "source_repo": "felixwu1110/pubmed_mcp",
+  "source_url": "https://github.com/felixwu1110/pubmed_mcp",
+  "install": "npx -y pubmed_mcp"
+}

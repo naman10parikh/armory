@@ -1,0 +1,7 @@
+{
+  "name": "harunraseed07-adc-enterprise-orchestration",
+  "description": "Enterprise orchestration system that intelligently routes queries to specialized servers for text analysis, code review, sentiment analysis, and knowledge management",
+  "source_repo": "harunraseed07/adc_mcp_project",
+  "source_url": "https://github.com/harunraseed07/adc_mcp_project",
+  "install": "# git clone --depth 1 https://github.com/harunraseed07/adc_mcp_project\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-plex",
+  "description": "MCP server for Plex Media Server, focused on media discovery, search, library management, and playback control.",
+  "source_repo": "obrien-matthew/mcp-plex",
+  "source_url": "https://github.com/obrien-matthew/mcp-plex",
+  "install": "# git clone --depth 1 https://github.com/obrien-matthew/mcp-plex\n# See source for mcpServers config block"
+}

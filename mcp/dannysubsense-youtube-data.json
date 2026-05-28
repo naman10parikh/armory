@@ -1,0 +1,7 @@
+{
+  "name": "dannysubsense-youtube-data",
+  "description": "Integrates with YouTube's Data API v3 and transcript extraction to provide video analysis, channel management, playlist operations, content discovery, engagement metrics calculation, trending video discovery by region, and automated transcript retrieval for content research and social media analysis workflows.",
+  "source_repo": "dannysubsense/youtube-mcp-server",
+  "source_url": "https://github.com/dannysubsense/youtube-mcp-server",
+  "install": "npx -y youtube-mcp-server"
+}

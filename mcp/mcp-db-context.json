@@ -1,0 +1,7 @@
+{
+  "name": "mcp-db-context",
+  "description": "Mcp Db Context MCP server listed on mcp.so.",
+  "source_repo": "danielmeppiel/mcp-db-context",
+  "source_url": "https://mcp.so/server/mcp-db-context/danielmeppiel",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-db-context/danielmeppiel\n# See source for mcpServers config block"
+}

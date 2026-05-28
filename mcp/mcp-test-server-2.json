@@ -1,0 +1,7 @@
+{
+  "name": "mcp-test-server-2",
+  "description": "Mcp Test Server MCP server listed on mcp.so.",
+  "source_repo": "Shreyanand/mcp-test-server",
+  "source_url": "https://mcp.so/server/mcp-test-server/Shreyanand",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-test-server/Shreyanand\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "edgarriba-prolink",
+  "description": "Agent-to-agent marketplace middleware — MCP-native discovery, negotiation, and transaction between AI agents",
+  "source_repo": "edgarriba/prolink",
+  "source_url": "https://github.com/edgarriba/prolink",
+  "install": "# git clone --depth 1 https://github.com/edgarriba/prolink\n# See source for mcpServers config block"
+}

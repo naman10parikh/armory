@@ -1,0 +1,7 @@
+{
+  "name": "yuheinkasaka-scrapbox",
+  "description": "Integrates with Scrapbox to retrieve page content, enabling incorporation of collaborative note-taking and knowledge management data into workflows",
+  "source_repo": "yuheinakasaka/scrapbox-mcp",
+  "source_url": "https://github.com/yuheinakasaka/scrapbox-mcp",
+  "install": "npx -y scrapbox-mcp"
+}

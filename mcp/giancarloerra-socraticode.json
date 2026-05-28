@@ -1,0 +1,7 @@
+{
+  "name": "giancarloerra-socraticode",
+  "description": "Local codebase indexing, semantic search, and code dependency graphs.",
+  "source_repo": "giancarloerra/socraticode",
+  "source_url": "https://github.com/giancarloerra/socraticode",
+  "install": "# git clone --depth 1 https://github.com/giancarloerra/socraticode\n# See source for mcpServers config block"
+}

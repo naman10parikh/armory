@@ -1,0 +1,7 @@
+{
+  "name": "elankeeran-companies-house",
+  "description": "Access UK Companies House API for company searches, profiles, officers, and filing history",
+  "source_repo": "elankeeran/companies-house-mcp-server",
+  "source_url": "https://github.com/elankeeran/companies-house-mcp-server",
+  "install": "npx -y companies-house-mcp-server"
+}

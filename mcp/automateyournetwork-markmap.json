@@ -1,0 +1,7 @@
+{
+  "name": "automateyournetwork-markmap",
+  "description": "Transforms Markdown content into interactive SVG mindmap visualizations using markmap.js libraries with support for custom themes, hierarchical structure analysis, and file operations.",
+  "source_repo": "automateyournetwork/markmap_mcp",
+  "source_url": "https://github.com/automateyournetwork/markmap_mcp",
+  "install": "npx -y markmap_mcp"
+}

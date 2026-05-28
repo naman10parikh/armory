@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-robotics-control-mcp",
+  "description": "Python MCP server for robotics control and automation tools.",
+  "source_repo": "csoai-org/robotics-control-mcp",
+  "source_url": "https://github.com/csoai-org/robotics-control-mcp",
+  "install": "npx -y robotics-control-mcp"
+}

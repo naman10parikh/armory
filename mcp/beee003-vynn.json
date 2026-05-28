@@ -1,0 +1,7 @@
+{
+  "name": "beee003-vynn",
+  "description": "Self-improving AI workflows with backtesting, prompt optimization, and scheduling.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/beee003-vynn",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/beee003-vynn\n# See source for mcpServers config block"
+}

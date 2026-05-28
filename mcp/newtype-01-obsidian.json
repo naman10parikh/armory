@@ -1,0 +1,7 @@
+{
+  "name": "newtype-01-obsidian",
+  "description": "Bridges Claude with Obsidian note-taking application, enabling direct interaction with markdown notes through tools for listing, reading, creating, updating, and searching vault content.",
+  "source_repo": "newtype-01/obsidian-mcp",
+  "source_url": "https://github.com/newtype-01/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

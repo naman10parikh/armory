@@ -1,0 +1,7 @@
+{
+  "name": "mrrobotke-django-migrations",
+  "description": "Integrates Django migrations across distributed services, enabling coordinated database schema changes and enhanced migration safety for large-scale projects.",
+  "source_repo": "mrrobotke/django-migrations-mcp",
+  "source_url": "https://github.com/mrrobotke/django-migrations-mcp",
+  "install": "npx -y django-migrations-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ida-pro",
+  "description": "Provides a bridge to IDA Pro for reverse engineering and binary analysis tasks through a remote control plugin that enables script execution, string/function analysis, and disassembly via HTTP endpoints",
+  "source_repo": "fdrechsler/mcp-server-idapro",
+  "source_url": "https://github.com/fdrechsler/mcp-server-idapro",
+  "install": "# git clone --depth 1 https://github.com/fdrechsler/mcp-server-idapro\n# See source for mcpServers config block"
+}

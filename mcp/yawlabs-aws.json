@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-aws",
+  "description": "Calls any AWS API from AI agents with built-in SSO re-login via device-code flow.",
+  "source_repo": "yawlabs/aws-mcp",
+  "source_url": "https://github.com/yawlabs/aws-mcp",
+  "install": "npx -y aws-mcp"
+}

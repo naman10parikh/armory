@@ -1,0 +1,7 @@
+{
+  "name": "systemr-risk-intelligence",
+  "description": "Pre-trade risk validation, position sizing, regime detection, and 48 trading tools for AI agents.",
+  "source_repo": "system-r-ai/systemr-python",
+  "source_url": "https://github.com/system-r-ai/systemr-python",
+  "install": "# git clone --depth 1 https://github.com/system-r-ai/systemr-python\n# See source for mcpServers config block"
+}

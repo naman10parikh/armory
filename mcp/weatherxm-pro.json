@@ -1,0 +1,7 @@
+{
+  "name": "weatherxm-pro",
+  "description": "Integrates with WeatherXM PRO APIs to provide access to hyperlocal weather data, historical observations, and forecast performance metrics for location-specific analysis and planning.",
+  "source_repo": "weatherxm/weatherxm-pro-mcp",
+  "source_url": "https://github.com/weatherxm/weatherxm-pro-mcp",
+  "install": "npx -y weatherxm-pro-mcp"
+}

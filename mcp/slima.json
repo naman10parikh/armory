@@ -1,0 +1,7 @@
+{
+  "name": "slima",
+  "description": "Connect Slima AI Writing IDE books to any MCP-compatible tool for reading, editing, and AI beta reader feedback.",
+  "source_repo": "slima-ai/slima-mcp",
+  "source_url": "https://github.com/slima-ai/slima-mcp",
+  "install": "npx -y slima-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-git",
+  "description": "Enables Git repository interaction and automation via LLMs, providing tools to read, search, and manipulate Git repositories.",
+  "source_repo": "kwanLeeFrmVi/mcp-git",
+  "source_url": "https://github.com/kwanLeeFrmVi/mcp-git",
+  "install": "# git clone --depth 1 https://github.com/kwanLeeFrmVi/mcp-git\n# See source for mcpServers config block"
+}

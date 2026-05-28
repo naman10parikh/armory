@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-npm",
+  "description": "npm registry MCP server for package intelligence, security audits, and dependency analysis for AI assistants.",
+  "source_repo": "yawlabs/npmjs-mcp",
+  "source_url": "https://github.com/yawlabs/npmjs-mcp",
+  "install": "npx -y npmjs-mcp"
+}

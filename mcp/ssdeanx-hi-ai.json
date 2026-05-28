@@ -1,0 +1,7 @@
+{
+  "name": "ssdeanx-hi-ai",
+  "description": "Development assistant providing 36 specialized tools for TypeScript, JavaScript, and Python projects with semantic code analysis, persistent memory management, and browser automation capabilities.",
+  "source_repo": "ssdeanx/ssd-ai",
+  "source_url": "https://github.com/ssdeanx/ssd-ai",
+  "install": "# git clone --depth 1 https://github.com/ssdeanx/ssd-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "getgather-goodreads",
+  "description": "Integrates with Goodreads through GetGather service to retrieve personal book libraries and reading information for book recommendation workflows and reading list management.",
+  "source_repo": "remotebrowser/mcp-getgather-goodreads",
+  "source_url": "https://github.com/remotebrowser/mcp-getgather-goodreads",
+  "install": "# git clone --depth 1 https://github.com/remotebrowser/mcp-getgather-goodreads\n# See source for mcpServers config block"
+}

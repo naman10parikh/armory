@@ -1,0 +1,7 @@
+{
+  "name": "mock-data-mcp",
+  "description": "Mock Data Mcp MCP server listed on mcp.so.",
+  "source_repo": "rhitune2/mock-data-mcp",
+  "source_url": "https://mcp.so/server/mock-data-mcp/rhitune2",
+  "install": "npx -y mock-data-mcp"
+}

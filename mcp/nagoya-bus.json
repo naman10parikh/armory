@@ -1,0 +1,7 @@
+{
+  "name": "nagoya-bus",
+  "description": "Integrates with Nagoya City's transportation API to retrieve bus station information and timetable data for travel planning and transit applications.",
+  "source_repo": "ymyzk/nagoya-bus-mcp",
+  "source_url": "https://github.com/ymyzk/nagoya-bus-mcp",
+  "install": "npx -y nagoya-bus-mcp"
+}

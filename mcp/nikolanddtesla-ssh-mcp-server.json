@@ -1,0 +1,7 @@
+{
+  "name": "nikolanddtesla-ssh-mcp-server",
+  "description": "SSH MCP Server - AI manages remote servers via SSH. Multi-server, SFTP zero-token transfer, SOCKS5 proxy, jump host, 2FA, async transfer with progress.",
+  "source_repo": "NikolaNddTesla/ssh-mcp-server",
+  "source_url": "https://github.com/NikolaNddTesla/ssh-mcp-server",
+  "install": "npx -y ssh-mcp-server"
+}

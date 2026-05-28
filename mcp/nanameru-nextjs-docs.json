@@ -1,0 +1,7 @@
+{
+  "name": "nanameru-nextjs-docs",
+  "description": "Provides structured access to Next.js documentation URLs organized by categories including routing, data fetching, API routes, deployment, and optimization, enabling accurate responses grounded in current Next.js documentation.",
+  "source_repo": "nanameru/next.js-docs-mcp",
+  "source_url": "https://github.com/nanameru/next.js-docs-mcp",
+  "install": "npx -y next.js-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jing7ao-seedance",
+  "description": "Generates videos using Volcano Engine's Seedance 2.0 video generation model.",
+  "source_repo": "jing7ao/seedance-mcp",
+  "source_url": "https://github.com/jing7ao/seedance-mcp",
+  "install": "npx -y seedance-mcp"
+}

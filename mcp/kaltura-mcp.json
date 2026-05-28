@@ -1,0 +1,7 @@
+{
+  "name": "kaltura-mcp",
+  "description": "Kaltura Mcp MCP server listed on mcp.so.",
+  "source_repo": "zoharbabin/kaltura-mcp",
+  "source_url": "https://mcp.so/server/kaltura-mcp/zoharbabin",
+  "install": "npx -y kaltura-mcp"
+}

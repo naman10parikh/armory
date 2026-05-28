@@ -1,0 +1,7 @@
+{
+  "name": "kargatharaakash-google-stitch",
+  "description": "Integrates with Google Stitch design platform to enable automated UI/UX design workflows, component generation, and cross-platform design system management for designers and developers.",
+  "source_repo": "kargatharaakash/stitch-mcp",
+  "source_url": "https://github.com/kargatharaakash/stitch-mcp",
+  "install": "npx -y stitch-mcp"
+}

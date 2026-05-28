@@ -1,0 +1,7 @@
+{
+  "name": "x-twitter-v2-mcp-server",
+  "description": "An MCP server for interacting with the Twitter/X API v2, enabling AI assistants to retrieve tweets, post content, reply, quote, and more programmatically.",
+  "source_repo": "NexusX-MCP/x-v2-server",
+  "source_url": "https://github.com/NexusX-MCP/x-v2-server",
+  "install": "# git clone --depth 1 https://github.com/NexusX-MCP/x-v2-server\n# See source for mcpServers config block"
+}

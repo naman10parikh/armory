@@ -1,0 +1,7 @@
+{
+  "name": "mg-mcp-server",
+  "description": "Mg Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mJace/mg-mcp-server",
+  "source_url": "https://mcp.so/server/mg-mcp-server/mJace",
+  "install": "npx -y mg-mcp-server"
+}

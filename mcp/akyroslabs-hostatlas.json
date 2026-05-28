@@ -1,0 +1,7 @@
+{
+  "name": "akyroslabs-hostatlas",
+  "description": "Monitor servers, manage alerts, tail logs, and defend against attacks on HostAtlas.",
+  "source_repo": "hostatlas-app/mcp-server",
+  "source_url": "https://github.com/hostatlas-app/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/hostatlas-app/mcp-server\n# See source for mcpServers config block"
+}

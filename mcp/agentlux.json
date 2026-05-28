@@ -1,0 +1,7 @@
+{
+  "name": "agentlux",
+  "description": "MCP toolkit for the AgentLux AI agent marketplace — access marketplace listings, avatar inventory, creator workflows, and social features across 33 tools.",
+  "source_repo": "agentlux/agentlux-mcp",
+  "source_url": "https://github.com/agentlux/agentlux-mcp",
+  "install": "npx -y agentlux-mcp"
+}

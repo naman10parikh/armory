@@ -1,0 +1,7 @@
+{
+  "name": "fundchain",
+  "description": "Crypto crowdfunding for AI agents, supporting ETH and USDC donations via the x402 protocol.",
+  "source_repo": "fundchainteam/fundchain-mcp",
+  "source_url": "https://github.com/fundchainteam/fundchain-mcp",
+  "install": "npx -y fundchain-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smartaec-ifc-bim",
+  "description": "Integrates with IFC (Industry Foundation Classes) building information modeling files to extract entities, properties, spatial relationships, and geometric data for construction professionals analyzing architectural and engineering information.",
+  "source_repo": "smartaec/ifcmcp",
+  "source_url": "https://github.com/smartaec/ifcmcp",
+  "install": "# git clone --depth 1 https://github.com/smartaec/ifcmcp\n# See source for mcpServers config block"
+}

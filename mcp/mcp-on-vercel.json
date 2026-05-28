@@ -1,0 +1,7 @@
+{
+  "name": "mcp-on-vercel",
+  "description": "A template for deploying an MCP server on Vercel, with example tools like roll_dice and get_weather.",
+  "source_repo": "vercel-labs/mcp-on-vercel",
+  "source_url": "https://github.com/vercel-labs/mcp-on-vercel",
+  "install": "# git clone --depth 1 https://github.com/vercel-labs/mcp-on-vercel\n# See source for mcpServers config block"
+}

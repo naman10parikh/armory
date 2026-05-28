@@ -1,0 +1,7 @@
+{
+  "name": "kunihiros-patsnap",
+  "description": "Integrates with PatSnap's patent analytics API to provide structured access to patent trends, competitive intelligence, and innovation research through specialized tools for technology scouting and landscape analysis.",
+  "source_repo": "kunihiros/patsnap-mcp",
+  "source_url": "https://github.com/kunihiros/patsnap-mcp",
+  "install": "npx -y patsnap-mcp"
+}

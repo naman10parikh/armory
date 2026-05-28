@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-sonar",
+  "description": "Integrates with Perplexity's Sonar API to provide three-tiered web search and reasoning capabilities, from quick factual queries to deep research analysis with citations.",
+  "source_repo": "rohit-seelam/perplexity_mcp",
+  "source_url": "https://github.com/rohit-seelam/perplexity_mcp",
+  "install": "npx -y perplexity_mcp"
+}

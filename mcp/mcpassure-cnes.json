@@ -1,0 +1,7 @@
+{
+  "name": "mcpassure-cnes",
+  "description": "Queries the Brazilian National Health Establishments Registry (CNES) for professionals, beds, equipment, and health services.",
+  "source_repo": "mcpassure/mcp-cnes",
+  "source_url": "https://github.com/mcpassure/mcp-cnes",
+  "install": "# git clone --depth 1 https://github.com/mcpassure/mcp-cnes\n# See source for mcpServers config block"
+}

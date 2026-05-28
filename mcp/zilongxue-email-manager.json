@@ -1,0 +1,7 @@
+{
+  "name": "zilongxue-email-manager",
+  "description": "Integrates with email systems through IMAP and SMTP protocols to enable searching, retrieving, analyzing, and sending emails directly within conversations.",
+  "source_repo": "zilongxue/claude-post",
+  "source_url": "https://github.com/zilongxue/claude-post",
+  "install": "# git clone --depth 1 https://github.com/zilongxue/claude-post\n# See source for mcpServers config block"
+}

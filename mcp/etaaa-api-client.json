@@ -1,0 +1,7 @@
+{
+  "name": "etaaa-api-client",
+  "description": "Enables real-time REST API testing and exploration through single and batch HTTP requests, optimizing localhost development workflows by allowing direct endpoint validation and debugging.",
+  "source_repo": "nattergabriel/mcp-api-client",
+  "source_url": "https://github.com/nattergabriel/mcp-api-client",
+  "install": "# git clone --depth 1 https://github.com/nattergabriel/mcp-api-client\n# See source for mcpServers config block"
+}

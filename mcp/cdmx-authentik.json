@@ -1,0 +1,7 @@
+{
+  "name": "cdmx-authentik",
+  "description": "Integrates with Authentik's identity and access management platform to provide user, group, and application management capabilities alongside event monitoring, authentication flow configuration, and system administration tools.",
+  "source_repo": "cdmx-in/authentik-mcp",
+  "source_url": "https://github.com/cdmx-in/authentik-mcp",
+  "install": "npx -y authentik-mcp"
+}

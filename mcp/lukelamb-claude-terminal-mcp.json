@@ -1,0 +1,7 @@
+{
+  "name": "lukelamb-claude-terminal-mcp",
+  "description": "Terminal, filesystem, and background-job tools for Claude Desktop on Linux/macOS. Zero npm deps, pure Node.",
+  "source_repo": "LukeLamb/claude-terminal-mcp",
+  "source_url": "https://github.com/LukeLamb/claude-terminal-mcp",
+  "install": "npx -y claude-terminal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ptmorris05-scalene",
+  "description": "Provides structured access to Scalene's CPU, GPU, and memory profiling capabilities for Python scripts and code snippets.",
+  "source_repo": "ptmorris05/scalene-mcp",
+  "source_url": "https://github.com/ptmorris05/scalene-mcp",
+  "install": "npx -y scalene-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rhnvrm-listmonk",
+  "description": "Integrates with Listmonk newsletter platform to manage subscribers, mailing lists, email campaigns, templates, and transactional emails through comprehensive CRUD operations and automation capabilities.",
+  "source_repo": "rhnvrm/listmonk-mcp",
+  "source_url": "https://github.com/rhnvrm/listmonk-mcp",
+  "install": "npx -y listmonk-mcp"
+}

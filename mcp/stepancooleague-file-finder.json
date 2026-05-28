@@ -1,0 +1,7 @@
+{
+  "name": "stepancooleague-file-finder",
+  "description": "Enables quick file location through natural language queries by searching filesystems based on path fragments and returning detailed metadata including name, path, size, and creation date.",
+  "source_repo": "stepancooleague/file-finder-mcp",
+  "source_url": "https://github.com/stepancooleague/file-finder-mcp",
+  "install": "npx -y file-finder-mcp"
+}

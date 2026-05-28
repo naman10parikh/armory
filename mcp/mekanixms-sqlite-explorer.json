@@ -1,0 +1,7 @@
+{
+  "name": "mekanixms-sqlite-explorer",
+  "description": "Integrates with SQLite databases to enable AI-driven schema exploration, querying, updates, and statistical analysis for efficient data management and rapid prototyping.",
+  "source_repo": "mekanixms/sqlite-mcp-server",
+  "source_url": "https://github.com/mekanixms/sqlite-mcp-server",
+  "install": "npx -y sqlite-mcp-server"
+}

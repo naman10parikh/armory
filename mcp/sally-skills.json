@@ -1,0 +1,7 @@
+{
+  "name": "sally-skills",
+  "description": "Plug Sally AI into your agent. The clinical-grade health intelligence behind A1C Insights, Sally AI, now exposed as an MCP endpoint and REST API to your agent — 64+ biomarkers across Western clinical and TCM preventive frameworks. Authenticate, call the skills you need, get billed per request. Built",
+  "source_repo": "a1c-ai-agent/sally-skills",
+  "source_url": "https://github.com/a1c-ai-agent/sally-skills",
+  "install": "# git clone --depth 1 https://github.com/a1c-ai-agent/sally-skills\n# See source for mcpServers config block"
+}

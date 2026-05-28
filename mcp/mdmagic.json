@@ -1,0 +1,7 @@
+{
+  "name": "mdmagic",
+  "description": "MCP server for converting Markdown documents into professional DOCX, PDF, and HTML formats using custom or built-in designer templates.",
+  "source_repo": "mdmagic-mcp/mdmagic-mcp-server",
+  "source_url": "https://github.com/mdmagic-mcp/mdmagic-mcp-server",
+  "install": "npx -y mdmagic-mcp-server"
+}

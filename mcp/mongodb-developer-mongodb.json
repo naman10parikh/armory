@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-developer-mongodb",
+  "description": "Integrates with MongoDB to enable read-only querying, aggregation, and schema inspection for data exploration and analysis workflows.",
+  "source_repo": "mongodb-developer/mongodb-mcp-server",
+  "source_url": "https://github.com/mongodb-developer/mongodb-mcp-server",
+  "install": "npx -y mongodb-mcp-server"
+}

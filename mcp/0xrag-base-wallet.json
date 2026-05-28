@@ -1,0 +1,7 @@
+{
+  "name": "0xrag-base-wallet",
+  "description": "Lightweight blockchain wallet interaction framework using Viem on Base Sepolia testnet, generating random wallet clients and exposing blockchain actions via stdio transport.",
+  "source_repo": "0xrag/mcp",
+  "source_url": "https://github.com/0xrag/mcp",
+  "install": "# git clone --depth 1 https://github.com/0xrag/mcp\n# See source for mcpServers config block"
+}

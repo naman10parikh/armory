@@ -1,0 +1,7 @@
+{
+  "name": "romainsantoli-memory-os",
+  "description": "Adaptive memory system with FAISS search, chat extraction, and cross-project linking.",
+  "source_repo": "romainsantoli-web/memory-os-ai",
+  "source_url": "https://github.com/romainsantoli-web/memory-os-ai",
+  "install": "# git clone --depth 1 https://github.com/romainsantoli-web/memory-os-ai\n# See source for mcpServers config block"
+}

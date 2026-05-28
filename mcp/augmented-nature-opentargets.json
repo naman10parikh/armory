@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-opentargets",
+  "description": "Integrates with Open Targets platform to search therapeutic targets and diseases, retrieve detailed gene and disease information, and analyze target-disease associations with evidence scores for drug discovery and biomedical research.",
+  "source_repo": "augmented-nature/opentargets-mcp-server",
+  "source_url": "https://github.com/augmented-nature/opentargets-mcp-server",
+  "install": "npx -y opentargets-mcp-server"
+}

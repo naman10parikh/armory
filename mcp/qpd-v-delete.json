@@ -1,0 +1,7 @@
+{
+  "name": "qpd-v-delete",
+  "description": "File deletion capabilities to safely delete files when needed, with support for both relative and absolute paths.",
+  "source_repo": "qpd-v/mcp-delete",
+  "source_url": "https://github.com/qpd-v/mcp-delete",
+  "install": "# git clone --depth 1 https://github.com/qpd-v/mcp-delete\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "berlinbra-binary-reader",
+  "description": "Analyzes Unreal Engine asset files and generic binary structures, enabling metadata extraction and file format inspection for game development and digital forensics.",
+  "source_repo": "berlinbra/binary-reader-mcp",
+  "source_url": "https://github.com/berlinbra/binary-reader-mcp",
+  "install": "npx -y binary-reader-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "squidboy30-boltwork",
+  "description": "Pay-per-call AI services including PDF summarization, code review, and translation via Bitcoin Lightning.",
+  "source_repo": "squidboy30/boltwork-mcp",
+  "source_url": "https://github.com/squidboy30/boltwork-mcp",
+  "install": "npx -y boltwork-mcp"
+}

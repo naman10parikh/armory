@@ -1,0 +1,7 @@
+{
+  "name": "keonchennl-graphdb",
+  "description": "Provides read-only access to Ontotext GraphDB repositories, enabling exploration of RDF graphs through SPARQL queries and structured views of repository data including class lists, predicates, statistics, and sample data.",
+  "source_repo": "keonchennl/mcp-graphdb",
+  "source_url": "https://github.com/keonchennl/mcp-graphdb",
+  "install": "# git clone --depth 1 https://github.com/keonchennl/mcp-graphdb\n# See source for mcpServers config block"
+}

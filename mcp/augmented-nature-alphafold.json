@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-alphafold",
+  "description": "Integrates with DeepMind's AlphaFold Protein Structure Database to retrieve protein structures, analyze confidence scores, and export data for visualization tools like PyMOL and ChimeraX.",
+  "source_repo": "augmented-nature/alphafold-mcp-server",
+  "source_url": "https://github.com/augmented-nature/alphafold-mcp-server",
+  "install": "npx -y alphafold-mcp-server"
+}

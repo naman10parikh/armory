@@ -1,0 +1,7 @@
+{
+  "name": "danishashko-make",
+  "description": "Unofficial MCP server for Make.com automation - build, validate & deploy scenarios via AI",
+  "source_repo": "danishashko/make-mcp",
+  "source_url": "https://github.com/danishashko/make-mcp",
+  "install": "npx -y make-mcp"
+}

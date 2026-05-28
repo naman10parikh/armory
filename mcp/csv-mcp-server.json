@@ -1,0 +1,7 @@
+{
+  "name": "csv-mcp-server",
+  "description": "Enables Claude to directly access, query, and analyze local CSV files using natural language, keeping data private and local.",
+  "source_repo": "Navneet1710/csv_mcp_server",
+  "source_url": "https://github.com/Navneet1710/csv_mcp_server",
+  "install": "npx -y csv_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kevinlin-weather",
+  "description": "Integrates with OpenWeather to retrieve and provide weather data.",
+  "source_repo": "kevinlin/mcp-server-weather",
+  "source_url": "https://github.com/kevinlin/mcp-server-weather",
+  "install": "# git clone --depth 1 https://github.com/kevinlin/mcp-server-weather\n# See source for mcpServers config block"
+}

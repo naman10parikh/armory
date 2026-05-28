@@ -1,0 +1,7 @@
+{
+  "name": "delorenj-ticketmaster-discovery",
+  "description": "Integrates with Ticketmaster's Discovery API to search and retrieve detailed event, venue, and attraction data for entertainment planning and ticketing assistance.",
+  "source_repo": "delorenj/mcp-server-ticketmaster",
+  "source_url": "https://github.com/delorenj/mcp-server-ticketmaster",
+  "install": "# git clone --depth 1 https://github.com/delorenj/mcp-server-ticketmaster\n# See source for mcpServers config block"
+}

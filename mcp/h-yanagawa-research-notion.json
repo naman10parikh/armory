@@ -1,0 +1,7 @@
+{
+  "name": "h-yanagawa-research-notion",
+  "description": "Integrates with Notion to enable AI-powered survey creation, data retrieval, and analysis for research projects.",
+  "source_repo": "h-yanagawa/research-mcp-server",
+  "source_url": "https://github.com/h-yanagawa/research-mcp-server",
+  "install": "npx -y research-mcp-server"
+}

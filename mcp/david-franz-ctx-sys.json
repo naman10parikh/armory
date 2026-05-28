@@ -1,0 +1,7 @@
+{
+  "name": "david-franz-ctx-sys",
+  "description": "Knowledge graphs from codebases using AST parsing and semantic embeddings with vector, graph, and full-text search.",
+  "source_repo": "david-franz/ctx-sys",
+  "source_url": "https://github.com/david-franz/ctx-sys",
+  "install": "# git clone --depth 1 https://github.com/david-franz/ctx-sys\n# See source for mcpServers config block"
+}

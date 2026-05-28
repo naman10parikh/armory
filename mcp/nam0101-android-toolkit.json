@@ -1,0 +1,7 @@
+{
+  "name": "nam0101-android-toolkit",
+  "description": "Converts SVG files to Android VectorDrawables with optimization and provides ADB logcat analysis for debugging crashes, ANRs, and application state monitoring.",
+  "source_repo": "nam0101/android-mcp-toolkit",
+  "source_url": "https://github.com/nam0101/android-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/nam0101/android-mcp-toolkit\n# See source for mcpServers config block"
+}

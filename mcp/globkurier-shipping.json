@@ -1,0 +1,7 @@
+{
+  "name": "globkurier-shipping",
+  "description": "Track shipments and search shipping products across DPD, InPost, DHL, FedEx, UPS, and GLS via the GlobKurier API.",
+  "source_repo": "globkurier-pl/mcp-server",
+  "source_url": "https://github.com/globkurier-pl/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/globkurier-pl/mcp-server\n# See source for mcpServers config block"
+}

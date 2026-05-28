@@ -1,0 +1,7 @@
+{
+  "name": "ocean-zhc-apache-seatunnel",
+  "description": "Interact with SeaTunnel through LLM interfaces like Claude.",
+  "source_repo": "ocean-zhc/seatunnel-mcp",
+  "source_url": "https://github.com/ocean-zhc/seatunnel-mcp",
+  "install": "npx -y seatunnel-mcp"
+}

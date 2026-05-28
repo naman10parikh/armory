@@ -1,0 +1,7 @@
+{
+  "name": "build-vault",
+  "description": "Transforms The Build Podcast into a searchable knowledge base using hybrid vector and full-text search, providing semantic search across business ideas, frameworks, products, and expert insights from podcast episodes with speaker-specific filtering and analytics resources.",
+  "source_repo": "the-build-podcast/build-vault-mcp-server",
+  "source_url": "https://github.com/the-build-podcast/build-vault-mcp-server",
+  "install": "npx -y build-vault-mcp-server"
+}

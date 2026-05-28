@@ -1,0 +1,7 @@
+{
+  "name": "badigit-beget",
+  "description": "MCP server providing 72 tools for complete management of Beget hosting services via the Beget REST API.",
+  "source_repo": "badigit/beget-mcp",
+  "source_url": "https://github.com/badigit/beget-mcp",
+  "install": "npx -y beget-mcp"
+}

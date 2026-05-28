@@ -1,0 +1,7 @@
+{
+  "name": "kc23go-anybrowse",
+  "description": "Convert any URL to LLM-ready Markdown via real Chrome browsers. 3 tools: scrape, crawl, search. Free via MCP, pay-per-use via x402. Remote MCP endpoint: `https://anybrowse.dev/mcp`",
+  "source_repo": "kc23go/anybrowse",
+  "source_url": "https://github.com/kc23go/anybrowse",
+  "install": "# git clone --depth 1 https://github.com/kc23go/anybrowse\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "algovoi",
+  "description": "MCP server for AlgoVoi stablecoin payment infrastructure, enabling crypto payment links, on-chain verification, and MPP/x402 protocol support.",
+  "source_repo": "chopmob-cloud/algovoi-platform-adapters",
+  "source_url": "https://github.com/chopmob-cloud/algovoi-platform-adapters",
+  "install": "# git clone --depth 1 https://github.com/chopmob-cloud/algovoi-platform-adapters\n# See source for mcpServers config block"
+}

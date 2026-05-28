@@ -1,0 +1,7 @@
+{
+  "name": "yynps737-x64dbg",
+  "description": "AI control of x64dbg debugger via 92 tools for disassembly, memory, breakpoints, and symbol analysis.",
+  "source_repo": "yynps737/x64dbg-hive",
+  "source_url": "https://github.com/yynps737/x64dbg-hive",
+  "install": "# git clone --depth 1 https://github.com/yynps737/x64dbg-hive\n# See source for mcpServers config block"
+}

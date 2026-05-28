@@ -1,0 +1,7 @@
+{
+  "name": "laozhong86-gbrain",
+  "description": "Compiled personal knowledge graph for AI agents with entity storage, timeline evidence, and full-text search.",
+  "source_repo": "laozhong86/gbrain",
+  "source_url": "https://github.com/laozhong86/gbrain",
+  "install": "# git clone --depth 1 https://github.com/laozhong86/gbrain\n# See source for mcpServers config block"
+}

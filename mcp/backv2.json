@@ -1,0 +1,7 @@
+{
+  "name": "backv2",
+  "description": "Experimental backend with A2A support",
+  "source_repo": "aviadkim/backv2",
+  "source_url": "https://github.com/aviadkim/backv2",
+  "install": "# git clone --depth 1 https://github.com/aviadkim/backv2\n# See source for mcpServers config block"
+}

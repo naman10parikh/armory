@@ -1,0 +1,7 @@
+{
+  "name": "iunera-druid",
+  "description": "Integrates with Apache Druid clusters to enable SQL querying, data ingestion management, cluster monitoring, and administrative operations including datasource management, task control, retention policies, and health diagnostics.",
+  "source_repo": "iunera/druid-mcp-server",
+  "source_url": "https://github.com/iunera/druid-mcp-server",
+  "install": "npx -y druid-mcp-server"
+}

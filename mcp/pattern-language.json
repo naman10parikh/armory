@@ -1,0 +1,7 @@
+{
+  "name": "pattern-language",
+  "description": "Provides structured coding instructions and testing guidelines by dynamically combining general programming principles with language-specific rules through a tool-based interface that processes markdown instruction files into executable patterns.",
+  "source_repo": "markacianfrani/mcp-pattern-language",
+  "source_url": "https://github.com/markacianfrani/mcp-pattern-language",
+  "install": "# git clone --depth 1 https://github.com/markacianfrani/mcp-pattern-language\n# See source for mcpServers config block"
+}

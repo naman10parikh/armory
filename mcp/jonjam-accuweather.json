@@ -1,0 +1,7 @@
+{
+  "name": "jonjam-accuweather",
+  "description": "Provides current weather conditions, forecasts, and location search through the AccuWeather API.",
+  "source_repo": "jonjam/accuweather-mcp",
+  "source_url": "https://github.com/jonjam/accuweather-mcp",
+  "install": "npx -y accuweather-mcp"
+}

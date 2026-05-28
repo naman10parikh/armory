@@ -1,0 +1,7 @@
+{
+  "name": "mharnett-google-gsc",
+  "description": "Provides MCP access to Google Search Console for search analytics, URL inspection, and site management.",
+  "source_repo": "mharnett/mcp-search-console",
+  "source_url": "https://github.com/mharnett/mcp-search-console",
+  "install": "# git clone --depth 1 https://github.com/mharnett/mcp-search-console\n# See source for mcpServers config block"
+}

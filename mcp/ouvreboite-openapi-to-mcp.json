@@ -1,0 +1,7 @@
+{
+  "name": "ouvreboite-openapi-to-mcp",
+  "description": "Lightweight MCP server to access any API using their OpenAPI specification. Supports OAuth2 and full JSON schema parameters and request body.",
+  "source_repo": "ouvreboite/openapi-to-mcp",
+  "source_url": "https://github.com/ouvreboite/openapi-to-mcp",
+  "install": "npx -y openapi-to-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bugherd-mcp-server",
+  "description": "An MCP server that integrates BugHerd bug tracking with AI assistants, providing 37 tools for complete BugHerd API v2 coverage.",
+  "source_repo": "Berckan/bugherd-mcp",
+  "source_url": "https://github.com/Berckan/bugherd-mcp",
+  "install": "npx -y bugherd-mcp"
+}

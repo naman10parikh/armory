@@ -1,0 +1,7 @@
+{
+  "name": "tolmachov-telegram",
+  "description": "Integrates with Telegram through the MTProto API to send messages, retrieve chat histories, search conversations, manage notifications, and perform chat summarization using configurable LLM providers.",
+  "source_repo": "tolmachov/mcp-telegram",
+  "source_url": "https://github.com/tolmachov/mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/tolmachov/mcp-telegram\n# See source for mcpServers config block"
+}

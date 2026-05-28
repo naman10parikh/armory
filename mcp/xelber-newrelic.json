@@ -1,0 +1,7 @@
+{
+  "name": "xelber-newrelic",
+  "description": "Integrates with New Relic's NerdGraph API to provide direct access to log data through custom NRQL queries, keyword-based searches, and recent log retrieval for debugging applications, monitoring system health, and analyzing log patterns.",
+  "source_repo": "xelber/newrelic-mcp",
+  "source_url": "https://github.com/xelber/newrelic-mcp",
+  "install": "npx -y newrelic-mcp"
+}

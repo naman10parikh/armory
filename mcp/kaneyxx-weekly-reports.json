@@ -1,0 +1,7 @@
+{
+  "name": "kaneyxx-weekly-reports",
+  "description": "Lightweight server for processing weekly reports via Google Sheets, providing development mode and automated validation for team tracking workflows.",
+  "source_repo": "kaneyxx/weekly-report-mcp",
+  "source_url": "https://github.com/kaneyxx/weekly-report-mcp",
+  "install": "npx -y weekly-report-mcp"
+}

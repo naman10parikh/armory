@@ -1,0 +1,7 @@
+{
+  "name": "prisma-postgres",
+  "description": "Integrates with Prisma Postgres databases for schema migrations, database creation, backup management, connection string handling, SQL query execution, and database recovery operations across local development and production environments.",
+  "source_repo": "",
+  "source_url": "https://www.prisma.io/docs/postgres/integrations/mcp-server",
+  "install": "# git clone --depth 1 https://www.prisma.io/docs/postgres/integrations/mcp-server\n# See source for mcpServers config block"
+}

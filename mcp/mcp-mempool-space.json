@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mempool-space",
+  "description": "MCP server for Bitcoin block explorer and mempool/fee statistics, providing tools to query fees, mempool stats, blocks, transactions, addresses, hashrate, and mining pools.",
+  "source_repo": "pipeworx-io/mcp-mempool-space",
+  "source_url": "https://github.com/pipeworx-io/mcp-mempool-space",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-mempool-space\n# See source for mcpServers config block"
+}

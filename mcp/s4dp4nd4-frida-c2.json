@@ -1,0 +1,7 @@
+{
+  "name": "s4dp4nd4-frida-c2",
+  "description": "Enables dynamic mobile application security testing by running Frida instrumentation directly on rooted Android devices through Termux for real-time method hooking and security bypass techniques.",
+  "source_repo": "s4dp4nd4/frida-c2-mcp",
+  "source_url": "https://github.com/s4dp4nd4/frida-c2-mcp",
+  "install": "npx -y frida-c2-mcp"
+}

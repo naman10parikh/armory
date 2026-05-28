@@ -1,0 +1,7 @@
+{
+  "name": "spark-sql-mcp-server",
+  "description": "Query Spark SQL clusters via Thrift/HiveServer2, with support for Spark, EMR, Hive, and Impala.",
+  "source_repo": "aidancorrell/spark-sql-mcp-server",
+  "source_url": "https://github.com/aidancorrell/spark-sql-mcp-server",
+  "install": "npx -y spark-sql-mcp-server"
+}

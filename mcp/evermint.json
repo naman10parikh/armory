@@ -1,0 +1,7 @@
+{
+  "name": "evermint",
+  "description": "Mints tamper-evident receipts for AI agent actions as the notary layer for agent transactions.",
+  "source_repo": "evermint-app/evermint-mcp",
+  "source_url": "https://github.com/evermint-app/evermint-mcp",
+  "install": "npx -y evermint-mcp"
+}

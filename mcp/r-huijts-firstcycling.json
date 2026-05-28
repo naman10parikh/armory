@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-firstcycling",
+  "description": "Provides a bridge to FirstCycling.com for retrieving professional cycling statistics, race results, rider profiles, and rankings with robust error handling and data parsing",
+  "source_repo": "r-huijts/firstcycling-mcp",
+  "source_url": "https://github.com/r-huijts/firstcycling-mcp",
+  "install": "npx -y firstcycling-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermanwong-optimized-memory",
+  "description": "Integrates with SQLite to provide a persistent knowledge graph for efficient memory management and relationship modeling across conversations.",
+  "source_repo": "agentwong/optimized-memory-mcp-server",
+  "source_url": "https://github.com/agentwong/optimized-memory-mcp-server",
+  "install": "npx -y optimized-memory-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atomadic-fuse",
+  "description": "Polyglot compiler for the agent economy that harvests logic atoms from codebases and discovers product chains.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/atomadic-fuse",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/atomadic-fuse\n# See source for mcpServers config block"
+}

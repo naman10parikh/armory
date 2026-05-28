@@ -1,0 +1,7 @@
+{
+  "name": "fastly-mcp",
+  "description": "Enables assistants to interact with the Fastly API, allowing them to manage services, domains, TLS settings, traffic, dictionaries, ACLs, purge content, and make configuration changes.",
+  "source_repo": "fastly/mcp",
+  "source_url": "https://github.com/fastly/mcp",
+  "install": "# git clone --depth 1 https://github.com/fastly/mcp\n# See source for mcpServers config block"
+}

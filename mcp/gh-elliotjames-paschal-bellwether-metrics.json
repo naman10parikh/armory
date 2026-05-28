@@ -1,0 +1,7 @@
+{
+  "name": "gh-elliotjames-paschal-bellwether-metrics",
+  "description": "Live prediction market data from Polymarket and Kalshi with VWAP pricing and reportability.",
+  "source_repo": "elliotjames-paschal/bellwether-platform",
+  "source_url": "https://github.com/elliotjames-paschal/bellwether-platform",
+  "install": "# git clone --depth 1 https://github.com/elliotjames-paschal/bellwether-platform\n# See source for mcpServers config block"
+}

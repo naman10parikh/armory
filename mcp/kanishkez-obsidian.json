@@ -1,0 +1,7 @@
+{
+  "name": "kanishkez-obsidian",
+  "description": "Integrates with Obsidian vaults through REST API to enable reading, writing, creating, and deleting markdown files within knowledge bases for note-taking, content creation, and information retrieval workflows.",
+  "source_repo": "kanishkez/obsidian-mcp",
+  "source_url": "https://github.com/kanishkez/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

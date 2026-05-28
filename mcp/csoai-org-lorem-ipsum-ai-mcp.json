@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-lorem-ipsum-ai-mcp",
+  "description": "Python MCP server for generating placeholder and dummy text content.",
+  "source_repo": "csoai-org/lorem-ipsum-ai-mcp",
+  "source_url": "https://github.com/csoai-org/lorem-ipsum-ai-mcp",
+  "install": "npx -y lorem-ipsum-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bbonnin-openapi-to-mcp",
+  "description": "MCP server that automatically converts any OpenAPI/Swagger specification into a set of usable MCP tools. Unlike manual tool definition, this approach auto-generates tools directly from the Swagger spec, ensuring consistency, reducing maintenance effort, and preventing mismatches between the tools and the actual API.",
+  "source_repo": "bbonnin/openapi-to-mcp",
+  "source_url": "https://github.com/bbonnin/openapi-to-mcp",
+  "install": "npx -y openapi-to-mcp"
+}

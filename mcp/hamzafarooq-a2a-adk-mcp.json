@@ -1,0 +1,7 @@
+{
+  "name": "hamzafarooq-a2a-adk-mcp",
+  "description": "Multi-agent pipeline combining A2A protocol, Google ADK, and MCP for secure database query processing with PII masking.",
+  "source_repo": "hamzafarooq/a2a-adk-mcp",
+  "source_url": "https://github.com/hamzafarooq/a2a-adk-mcp",
+  "install": "npx -y a2a-adk-mcp"
+}

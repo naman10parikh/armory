@@ -1,0 +1,7 @@
+{
+  "name": "swiss-culture-mcp",
+  "description": "MCP server providing access to Swiss cultural heritage data including ISOS townscapes, Living Traditions, cultural prizes, and press releases from the Federal Office of Culture, with no API key required.",
+  "source_repo": "malkreide/swiss-culture-mcp",
+  "source_url": "https://github.com/malkreide/swiss-culture-mcp",
+  "install": "npx -y swiss-culture-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bytefer-flux-schnell",
+  "description": "Generates images using the Flux Schnell model via a Cloudflare worker API, providing a streamlined text-to-image generation service with robust error handling and environment variable configuration.",
+  "source_repo": "bytefer/mcp-flux-schnell",
+  "source_url": "https://github.com/bytefer/mcp-flux-schnell",
+  "install": "# git clone --depth 1 https://github.com/bytefer/mcp-flux-schnell\n# See source for mcpServers config block"
+}

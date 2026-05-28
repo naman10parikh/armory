@@ -1,0 +1,7 @@
+{
+  "name": "benahammond-code-auditor",
+  "description": "Analyze code for SOLID principles, DRY violations, and security issues",
+  "source_repo": "benahammond/code-auditor-mcp",
+  "source_url": "https://github.com/benahammond/code-auditor-mcp",
+  "install": "npx -y code-auditor-mcp"
+}

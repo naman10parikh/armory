@@ -1,0 +1,7 @@
+{
+  "name": "fewsats-sherlock-domains",
+  "description": "Enables AI to search, purchase, and manage internet domains through Sherlock Domains API, handling authentication, ICANN requirements, and DNS configuration behind the scenes.",
+  "source_repo": "fewsats/sherlock-mcp",
+  "source_url": "https://github.com/fewsats/sherlock-mcp",
+  "install": "npx -y sherlock-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jkoelker-schwab",
+  "description": "Bridges Claude with Schwab API for accessing financial account information, stock quotes, and transaction history through OAuth authentication and nine specialized tools for retrieving financial data.",
+  "source_repo": "jkoelker/schwab-mcp",
+  "source_url": "https://github.com/jkoelker/schwab-mcp",
+  "install": "npx -y schwab-mcp"
+}

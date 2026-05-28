@@ -1,0 +1,7 @@
+{
+  "name": "gh-meghamegs-lab-skyfi",
+  "description": "Search, price, order, and monitor satellite imagery through the SkyFi platform API.",
+  "source_repo": "meghamegs-lab/skyfi-mcp-server",
+  "source_url": "https://github.com/meghamegs-lab/skyfi-mcp-server",
+  "install": "npx -y skyfi-mcp-server"
+}

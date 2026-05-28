@@ -1,0 +1,7 @@
+{
+  "name": "deusxmachina-dev-memorylane",
+  "description": "Desktop app that captures screen activity via event-driven screenshots, stores AI-generated summaries and OCR text locally in SQLite, and exposes your activity history to AI assistants via MCP with semantic search, timeline browsing, and event detail retrieval.",
+  "source_repo": "deusXmachina-dev/memorylane",
+  "source_url": "https://github.com/deusXmachina-dev/memorylane",
+  "install": "# git clone --depth 1 https://github.com/deusXmachina-dev/memorylane\n# See source for mcpServers config block"
+}

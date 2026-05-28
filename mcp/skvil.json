@@ -1,0 +1,7 @@
+{
+  "name": "skvil",
+  "description": "Security verification for AI agent skills with community-powered scanning, reputation scoring, and on-chain Solana certifications.",
+  "source_repo": "skvil-ia/skvil-mcp",
+  "source_url": "https://github.com/skvil-ia/skvil-mcp",
+  "install": "npx -y skvil-mcp"
+}

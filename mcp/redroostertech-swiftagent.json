@@ -1,0 +1,7 @@
+{
+  "name": "redroostertech-swiftagent",
+  "description": "Swift SDK for Apple platforms that unifies AI tool declarations across Siri, Apple Intelligence, OpenAI, Anthropic, and MCP clients from a single annotated struct definition.",
+  "source_repo": "redroostertech/swiftagent",
+  "source_url": "https://github.com/redroostertech/swiftagent",
+  "install": "# git clone --depth 1 https://github.com/redroostertech/swiftagent\n# See source for mcpServers config block"
+}

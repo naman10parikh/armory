@@ -1,0 +1,7 @@
+{
+  "name": "qiskit-mcp-server",
+  "description": "Qiskit quantum computing tools with circuit serialization.",
+  "source_repo": "qiskit/mcp-servers",
+  "source_url": "https://github.com/qiskit/mcp-servers/tree/HEAD/qiskit-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/qiskit/mcp-servers/tree/HEAD/qiskit-mcp-server\n# See source for mcpServers config block"
+}

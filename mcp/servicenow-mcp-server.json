@@ -1,0 +1,7 @@
+{
+  "name": "servicenow-mcp-server",
+  "description": "Enables interaction with ServiceNow ITSM through browser-based SSO authentication, providing 80+ tools for incidents, changes, catalog, CMDB, and more via natural language.",
+  "source_repo": "schwarztim/servicenow-mcp",
+  "source_url": "https://github.com/schwarztim/servicenow-mcp",
+  "install": "npx -y servicenow-mcp"
+}

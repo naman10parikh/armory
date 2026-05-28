@@ -1,0 +1,7 @@
+{
+  "name": "google-tasks",
+  "description": "Google Tasks provides a simple to-do list and task management system integrated into Gmail and Google Calendar for quick and easy tracking",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/googletasks",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/googletasks\n# See source for mcpServers config block"
+}

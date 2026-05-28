@@ -1,0 +1,7 @@
+{
+  "name": "jonaolden-pbixray",
+  "description": "Provides a bridge to analyze Power BI (.pbix) files through a Python-based interface, enabling data model exploration, language querying, and structure analysis with pagination and filtering capabilities.",
+  "source_repo": "jonaolden/pbixray-mcp-server",
+  "source_url": "https://github.com/jonaolden/pbixray-mcp-server",
+  "install": "npx -y pbixray-mcp-server"
+}

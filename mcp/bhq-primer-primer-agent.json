@@ -1,0 +1,7 @@
+{
+  "name": "bhq-primer-primer-agent",
+  "description": "Provides research and document analysis tools for generating structured primers on topics.",
+  "source_repo": "bhq-primer/primer-agent",
+  "source_url": "https://github.com/bhq-primer/primer-agent",
+  "install": "# git clone --depth 1 https://github.com/bhq-primer/primer-agent\n# See source for mcpServers config block"
+}

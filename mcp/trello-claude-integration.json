@@ -1,0 +1,7 @@
+{
+  "name": "trello-claude-integration",
+  "description": "Trello Claude Integration MCP server listed on mcp.so.",
+  "source_repo": "inakitka/trello-claude-integration",
+  "source_url": "https://mcp.so/server/trello-claude-integration/inakitka",
+  "install": "# git clone --depth 1 https://mcp.so/server/trello-claude-integration/inakitka\n# See source for mcpServers config block"
+}

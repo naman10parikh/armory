@@ -1,0 +1,7 @@
+{
+  "name": "skullzarmy-all-your-base64",
+  "description": "Provides base64 encoding and decoding with 8 output formats, automatic MIME type detection, data URI generation, and intelligent job memory with checksums for file change detection and LRU caching.",
+  "source_repo": "skullzarmy/all-your-base64",
+  "source_url": "https://github.com/skullzarmy/all-your-base64",
+  "install": "# git clone --depth 1 https://github.com/skullzarmy/all-your-base64\n# See source for mcpServers config block"
+}

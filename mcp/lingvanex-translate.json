@@ -1,0 +1,7 @@
+{
+  "name": "lingvanex-translate",
+  "description": "Provides multilingual text translation using the Lingvanex API, allowing translation between more than 100 languages.",
+  "source_repo": "lingvanex-mt/mcp-lingvanex-translate",
+  "source_url": "https://github.com/lingvanex-mt/mcp-lingvanex-translate",
+  "install": "# git clone --depth 1 https://github.com/lingvanex-mt/mcp-lingvanex-translate\n# See source for mcpServers config block"
+}

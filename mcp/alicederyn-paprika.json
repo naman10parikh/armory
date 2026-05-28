@@ -1,0 +1,7 @@
+{
+  "name": "alicederyn-paprika",
+  "description": "Accesses and searches recipes stored in Paprika Recipe Manager.",
+  "source_repo": "alicederyn/paprika-mcp",
+  "source_url": "https://github.com/alicederyn/paprika-mcp",
+  "install": "npx -y paprika-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daleweaver1981-cockpit",
+  "description": "40 AI prompts for homelab and small-team sysadmins using the Cockpit self-hosted ops dashboard.",
+  "source_repo": "daleweaver1981/cockpit-mcp",
+  "source_url": "https://github.com/daleweaver1981/cockpit-mcp",
+  "install": "npx -y cockpit-mcp"
+}

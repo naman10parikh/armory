@@ -1,0 +1,7 @@
+{
+  "name": "cursor-ide-development-tools",
+  "description": "Provides Cursor IDE with domain-specific tools for accessing Jira, GitHub, and PostgreSQL databases through standalone TypeScript servers that enable direct interaction with development tools during AI conversations.",
+  "source_repo": "michael-trullion/mcp-servers",
+  "source_url": "https://github.com/michael-trullion/mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/michael-trullion/mcp-servers\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quincysx-easyeda-pro",
+  "description": "Bridges EasyEDA Pro with Claude through WebSocket for PCB design automation, schematic editing, component library management, and manufacturing export.",
+  "source_repo": "quincysx/easyeda-agent-mcp-server",
+  "source_url": "https://github.com/quincysx/easyeda-agent-mcp-server",
+  "install": "npx -y easyeda-agent-mcp-server"
+}

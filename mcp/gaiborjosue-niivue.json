@@ -1,0 +1,7 @@
+{
+  "name": "gaiborjosue-niivue",
+  "description": "Provides fast lexical and semantic search access to Niivue neuroimaging documentation and API reference through cached BM25 indexing and optional hybrid embeddings.",
+  "source_repo": "gaiborjosue/niivue-mcp",
+  "source_url": "https://github.com/gaiborjosue/niivue-mcp",
+  "install": "npx -y niivue-mcp"
+}

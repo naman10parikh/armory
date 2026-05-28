@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [rust-coding-style, rust-hooks]
-tags: [ecc, rules, rust]
+tags: [rules, rust]
 ---
 ## What it is
 rust rule: apply when working on rust and you need Rust Testing.

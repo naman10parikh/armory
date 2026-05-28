@@ -1,0 +1,7 @@
+{
+  "name": "ga4-mcp",
+  "description": "An MCP server integrating Google Analytics 4, Search Console, and Indexing API, enabling AI agents to run reports, inspect URLs, manage properties, and request indexing.",
+  "source_repo": "chimpmatic/ga4-mcp",
+  "source_url": "https://github.com/chimpmatic/ga4-mcp",
+  "install": "npx -y ga4-mcp"
+}

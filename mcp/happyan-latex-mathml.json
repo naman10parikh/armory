@@ -1,0 +1,7 @@
+{
+  "name": "happyan-latex-mathml",
+  "description": "Converts LaTeX mathematical expressions to MathML using MathJax-node, enabling seamless mathematical notation translation for scientific and technical documentation.",
+  "source_repo": "happyany/latex-mathml-mcp-server",
+  "source_url": "https://github.com/happyany/latex-mathml-mcp-server",
+  "install": "npx -y latex-mathml-mcp-server"
+}

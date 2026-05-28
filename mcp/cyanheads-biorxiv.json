@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-biorxiv",
+  "description": "Searches and retrieves preprints from bioRxiv and medRxiv preprint servers for life sciences and health research.",
+  "source_repo": "cyanheads/biorxiv-mcp-server",
+  "source_url": "https://github.com/cyanheads/biorxiv-mcp-server",
+  "install": "npx -y biorxiv-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tatn-fetch-typescript",
+  "description": "Integrates with web content sources to fetch, convert, and summarize online information for real-time data retrieval and analysis.",
+  "source_repo": "tatn/mcp-server-fetch-typescript",
+  "source_url": "https://github.com/tatn/mcp-server-fetch-typescript",
+  "install": "# git clone --depth 1 https://github.com/tatn/mcp-server-fetch-typescript\n# See source for mcpServers config block"
+}

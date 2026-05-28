@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-secure-vault",
+  "description": "Encrypted secrets and credential management for AI agents.",
+  "source_repo": "mdfifty50-boop/secure-vault-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/secure-vault-mcp",
+  "install": "npx -y secure-vault-mcp"
+}

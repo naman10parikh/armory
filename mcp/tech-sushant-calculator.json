@@ -1,0 +1,7 @@
+{
+  "name": "tech-sushant-calculator",
+  "description": "Provides basic arithmetic operations including addition, subtraction, multiplication, division, power, and square root",
+  "source_repo": "tech-sushant/calculator-mcp",
+  "source_url": "https://github.com/tech-sushant/calculator-mcp",
+  "install": "npx -y calculator-mcp"
+}

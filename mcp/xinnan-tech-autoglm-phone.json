@@ -1,0 +1,7 @@
+{
+  "name": "xinnan-tech-autoglm-phone",
+  "description": "Automates Android phone interactions through vision-language models that capture screenshots, analyze UI elements, and execute touch actions.",
+  "source_repo": "xinnan-tech/xiaozhi-autoglm-mcp",
+  "source_url": "https://github.com/xinnan-tech/xiaozhi-autoglm-mcp",
+  "install": "npx -y xiaozhi-autoglm-mcp"
+}

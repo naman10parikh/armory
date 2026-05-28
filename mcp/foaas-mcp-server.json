@@ -1,0 +1,7 @@
+{
+  "name": "foaas-mcp-server",
+  "description": "A Docker-based MCP server that exposes humorous and explicit FOAAS operations for responding to development scenarios like bug reports, code reviews, and pull requests.",
+  "source_repo": "gusztavvargadr/foaas-mcp",
+  "source_url": "https://github.com/gusztavvargadr/foaas-mcp",
+  "install": "npx -y foaas-mcp"
+}

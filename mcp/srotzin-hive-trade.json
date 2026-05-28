@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-trade",
+  "description": "Cross-border trade finance for SMBs, settling invoices in USDC on Base L2 with same-block settlement via four trade tools.",
+  "source_repo": "srotzin/hive-mcp-trade",
+  "source_url": "https://github.com/srotzin/hive-mcp-trade",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-trade\n# See source for mcpServers config block"
+}

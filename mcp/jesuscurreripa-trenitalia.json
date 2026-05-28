@@ -1,0 +1,7 @@
+{
+  "name": "jesuscurreripa-trenitalia",
+  "description": "Searches for Italian train connections via the unofficial Trenitalia API.",
+  "source_repo": "jesuscurreripa/api-mcp-trenitalia",
+  "source_url": "https://github.com/jesuscurreripa/api-mcp-trenitalia",
+  "install": "# git clone --depth 1 https://github.com/jesuscurreripa/api-mcp-trenitalia\n# See source for mcpServers config block"
+}

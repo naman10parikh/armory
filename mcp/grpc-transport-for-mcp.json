@@ -1,0 +1,7 @@
+{
+  "name": "grpc-transport-for-mcp",
+  "description": "Enables MCP servers and clients to communicate over gRPC using FastMCP, supporting tool calls, text and image content, and progress reporting.",
+  "source_repo": "pawbhard/grpcmcp",
+  "source_url": "https://github.com/pawbhard/grpcmcp",
+  "install": "# git clone --depth 1 https://github.com/pawbhard/grpcmcp\n# See source for mcpServers config block"
+}

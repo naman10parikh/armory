@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-zoho-crm",
+  "description": "Integrates with Zoho CRM API for managing leads, contacts, deals, and records.",
+  "source_repo": "asklokesh/zoho-crm-mcp-server",
+  "source_url": "https://github.com/asklokesh/zoho-crm-mcp-server",
+  "install": "npx -y zoho-crm-mcp-server"
+}

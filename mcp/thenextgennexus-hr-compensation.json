@@ -1,0 +1,7 @@
+{
+  "name": "thenextgennexus-hr-compensation",
+  "description": "HR compensation benchmarks, salary data, and workforce analytics for AI assistants.",
+  "source_repo": "",
+  "source_url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/hr-compensation-mcp-server/mcp",
+  "install": "# git clone --depth 1 https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/hr-compensation-mcp-server/mcp\n# See source for mcpServers config block"
+}

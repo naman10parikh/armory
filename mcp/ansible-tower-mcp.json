@@ -1,0 +1,7 @@
+{
+  "name": "ansible-tower-mcp",
+  "description": "Ansible Tower Mcp MCP server listed on mcp.so.",
+  "source_repo": "a37ai/ansible-tower-mcp",
+  "source_url": "https://mcp.so/server/ansible-tower-mcp/a37ai",
+  "install": "npx -y ansible-tower-mcp"
+}

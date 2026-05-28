@@ -1,0 +1,7 @@
+{
+  "name": "penr-oz-mcp-server",
+  "description": "A FastMCP-based server that provides secure sandboxed filesystem operations, API integration tools, and curated reasoning prompts for analysis and productivity tasks.",
+  "source_repo": "derinworks/penr-oz-mcp-server",
+  "source_url": "https://github.com/derinworks/penr-oz-mcp-server",
+  "install": "npx -y penr-oz-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "packmind",
+  "description": "Centralize engineering playbooks and distribute them as AI context across coding agents",
+  "source_repo": "packmindhub/packmind",
+  "source_url": "https://github.com/packmindhub/packmind/tree/HEAD/apps/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/packmindhub/packmind/tree/HEAD/apps/mcp-server\n# See source for mcpServers config block"
+}

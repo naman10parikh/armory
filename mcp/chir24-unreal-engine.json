@@ -1,0 +1,7 @@
+{
+  "name": "chir24-unreal-engine",
+  "description": "Connects to Unreal Engine 5's Remote Control API to enable automated game development workflows including asset management, actor manipulation, level streaming, animation control, particle effects, Blueprint creation, landscape sculpting, and Play-in-Editor operations.",
+  "source_repo": "chir24/unreal_mcp",
+  "source_url": "https://github.com/chir24/unreal_mcp",
+  "install": "npx -y unreal_mcp"
+}

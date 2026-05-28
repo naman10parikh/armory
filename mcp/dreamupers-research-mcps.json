@@ -1,0 +1,7 @@
+{
+  "name": "dreamupers-research-mcps",
+  "description": "Collection of research tools providing arXiv paper search and Feishu document upload capabilities.",
+  "source_repo": "dreamupers/ai-research-skills-mcp",
+  "source_url": "https://github.com/dreamupers/ai-research-skills-mcp",
+  "install": "npx -y ai-research-skills-mcp"
+}

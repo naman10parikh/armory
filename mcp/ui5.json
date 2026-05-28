@@ -1,0 +1,7 @@
+{
+  "name": "ui5",
+  "description": "Comprehensive development tools for the UI5 enterprise JavaScript framework",
+  "source_repo": "ui5/mcp-server",
+  "source_url": "https://github.com/ui5/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ui5/mcp-server\n# See source for mcpServers config block"
+}

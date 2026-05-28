@@ -1,0 +1,7 @@
+{
+  "name": "nmhjklnm-cue",
+  "description": "Enables persistent conversational sessions between users and assistants through a shared SQLite database with tools for establishing agent identity and sending interactive prompts.",
+  "source_repo": "nmhjklnm/cue-mcp",
+  "source_url": "https://github.com/nmhjklnm/cue-mcp",
+  "install": "npx -y cue-mcp"
+}

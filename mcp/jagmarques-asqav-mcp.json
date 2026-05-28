@@ -1,0 +1,7 @@
+{
+  "name": "jagmarques-asqav-mcp",
+  "description": "AI agent governance MCP server with policy enforcement, quantum-safe audit trails (ML-DSA), multi-party authorization, and compliance reporting. Check policies, sign actions, and verify signatures through MCP tools.",
+  "source_repo": "jagmarques/asqav-mcp",
+  "source_url": "https://github.com/jagmarques/asqav-mcp",
+  "install": "npx -y asqav-mcp"
+}

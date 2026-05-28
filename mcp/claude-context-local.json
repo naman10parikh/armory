@@ -1,0 +1,7 @@
+{
+  "name": "claude-context-local",
+  "description": "Provides local semantic code search using EmbeddingGemma embeddings and FAISS vector indexing with intelligent AST chunking for Python, JavaScript, TypeScript, JSX, TSX, and Svelte codebases, featuring incremental Merkle tree-based change detection and 100% local operation for private code exploration and contextual assistance.",
+  "source_repo": "farhanaliraza/claude-context-local",
+  "source_url": "https://github.com/farhanaliraza/claude-context-local",
+  "install": "# git clone --depth 1 https://github.com/farhanaliraza/claude-context-local\n# See source for mcpServers config block"
+}

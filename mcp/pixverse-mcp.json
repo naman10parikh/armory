@@ -1,0 +1,7 @@
+{
+  "name": "pixverse-mcp",
+  "description": "Enables video generation from text, images, and more through MCP-compatible apps like Claude and Cursor.",
+  "source_repo": "PixVerseAI/PixVerse-MCP",
+  "source_url": "https://github.com/PixVerseAI/PixVerse-MCP",
+  "install": "npx -y PixVerse-MCP"
+}

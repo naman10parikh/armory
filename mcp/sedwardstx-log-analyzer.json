@@ -1,0 +1,7 @@
+{
+  "name": "sedwardstx-log-analyzer",
+  "description": "Analyzes Windows Event Logs, ETL files, structured logs, and unstructured text through specialized parsers with caching, providing real-time system monitoring, log source registration, filtering, pagination, and automated pattern and anomaly detection across multiple log formats.",
+  "source_repo": "sedwardstx/demomcp",
+  "source_url": "https://github.com/sedwardstx/demomcp",
+  "install": "# git clone --depth 1 https://github.com/sedwardstx/demomcp\n# See source for mcpServers config block"
+}

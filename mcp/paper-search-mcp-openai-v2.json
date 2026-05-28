@@ -1,0 +1,7 @@
+{
+  "name": "paper-search-mcp-openai-v2",
+  "description": "Find and download academic papers from leading sources like arXiv, PubMed, bioRxiv, medRxiv, Google Scholar, Semantic Scholar, CrossRef, and IACR. Get standardized results and fetch full-text PDFs when available. Accelerate literature reviews with deep search and effortless retrieval.",
+  "source_repo": "TitanSneaker/paper-search-mcp-openai",
+  "source_url": "https://github.com/TitanSneaker/paper-search-mcp-openai",
+  "install": "# git clone --depth 1 https://github.com/TitanSneaker/paper-search-mcp-openai\n# See source for mcpServers config block"
+}

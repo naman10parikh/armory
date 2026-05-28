@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-getcourse",
+  "description": "Integrates with GetCourse LMS for user management and deals.",
+  "source_repo": "theyahia/getcourse-mcp",
+  "source_url": "https://github.com/theyahia/getcourse-mcp",
+  "install": "npx -y getcourse-mcp"
+}

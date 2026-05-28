@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-grubhub",
+  "description": "Enables AI agents to autonomously order food from Grubhub, including searching restaurants, browsing menus, managing cart, placing orders, and tracking delivery.",
+  "source_repo": "markswendsen-code/mcp-grubhub",
+  "source_url": "https://github.com/markswendsen-code/mcp-grubhub",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-grubhub\n# See source for mcpServers config block"
+}

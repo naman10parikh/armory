@@ -1,0 +1,7 @@
+{
+  "name": "fleet-mcp",
+  "description": "Enables AI assistants to interact with Fleet Device Management for device management, security monitoring, and compliance enforcement through the Model Context Protocol.",
+  "source_repo": "SimplyMinimal/fleet-mcp",
+  "source_url": "https://github.com/SimplyMinimal/fleet-mcp",
+  "install": "npx -y fleet-mcp"
+}

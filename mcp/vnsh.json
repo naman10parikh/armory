@@ -1,0 +1,7 @@
+{
+  "name": "vnsh",
+  "description": "Ephemeral encrypted file sharing for AI with AES-256 encryption and 24-hour auto-deletion.",
+  "source_repo": "raullenchai/vnsh",
+  "source_url": "https://github.com/raullenchai/vnsh",
+  "install": "# git clone --depth 1 https://github.com/raullenchai/vnsh\n# See source for mcpServers config block"
+}

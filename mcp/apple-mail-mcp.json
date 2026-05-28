@@ -1,0 +1,7 @@
+{
+  "name": "apple-mail-mcp",
+  "description": "This MCP server allows AI assistants to read, send, search, and manage emails in Apple Mail on macOS. It uses AppleScript to interact with the Mail app locally.",
+  "source_repo": "sweetrb/apple-mail-mcp",
+  "source_url": "https://github.com/sweetrb/apple-mail-mcp",
+  "install": "npx -y apple-mail-mcp"
+}

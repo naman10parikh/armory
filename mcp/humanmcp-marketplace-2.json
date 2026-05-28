@@ -1,0 +1,7 @@
+{
+  "name": "humanmcp-marketplace-2",
+  "description": "Federated search across personal humanMCP servers. Find listings, offers, and trades published by humans. 3 tools: search_marketplace, list_servers, get_server.",
+  "source_repo": "",
+  "source_url": "https://marketplace.humanmcp.net",
+  "install": "# git clone --depth 1 https://marketplace.humanmcp.net\n# See source for mcpServers config block"
+}

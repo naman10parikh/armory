@@ -1,0 +1,7 @@
+{
+  "name": "ynivin-waveform",
+  "description": "Analyzes RTL waveform files from hardware simulations using WAL engine, providing signal discovery with regex filtering, transition analysis within time ranges, waveform length inspection, and direct WAL expression execution for debugging timing issues and extracting specific signal behaviors from VCD and FST format digital designs.",
+  "source_repo": "ynivin/waveform-mcp",
+  "source_url": "https://github.com/ynivin/waveform-mcp",
+  "install": "npx -y waveform-mcp"
+}

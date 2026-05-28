@@ -1,0 +1,7 @@
+{
+  "name": "arrismo-kaggle-mcp",
+  "description": "Connects to Kaggle, ability to download and analyze datasets.",
+  "source_repo": "arrismo/kaggle-mcp",
+  "source_url": "https://github.com/arrismo/kaggle-mcp",
+  "install": "npx -y kaggle-mcp"
+}

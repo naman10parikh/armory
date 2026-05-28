@@ -1,0 +1,7 @@
+{
+  "name": "v9rt3x-cs2-rcon",
+  "description": "Enables Counter-Strike 2 server administration through RCON commands, allowing execution of administrative tasks, server status queries, and player management on game servers.",
+  "source_repo": "v9rt3x/cs2-rcon-mcp",
+  "source_url": "https://github.com/v9rt3x/cs2-rcon-mcp",
+  "install": "npx -y cs2-rcon-mcp"
+}

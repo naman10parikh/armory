@@ -1,0 +1,7 @@
+{
+  "name": "agentdesk-browser-use",
+  "description": "AgentDesk fork of browser-use that integrates with the AgentDesk agent platform — adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.",
+  "source_repo": "AgentDeskAI/browser-tools-mcp",
+  "source_url": "https://github.com/AgentDeskAI/browser-tools-mcp",
+  "install": "npx -y browser-tools-mcp"
+}

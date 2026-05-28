@@ -1,0 +1,7 @@
+{
+  "name": "mcp-reasoning-server",
+  "description": "Mcp Reasoning Server MCP server listed on mcp.so.",
+  "source_repo": "AzDeltaQQ/Mcp-Reasoning-Server",
+  "source_url": "https://mcp.so/server/Mcp-Reasoning-Server/AzDeltaQQ",
+  "install": "# git clone --depth 1 https://mcp.so/server/Mcp-Reasoning-Server/AzDeltaQQ\n# See source for mcpServers config block"
+}

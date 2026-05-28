@@ -1,0 +1,7 @@
+{
+  "name": "dcc-mcp-ipc",
+  "description": "Multi-protocol IPC adapter layer for integrating DCC software (Maya, Houdini, Blender, Unreal, Unity) with MCP, enabling tool registration and remote control across multiple transport protocols.",
+  "source_repo": "loonghao/dcc-mcp-ipc",
+  "source_url": "https://github.com/loonghao/dcc-mcp-ipc",
+  "install": "# git clone --depth 1 https://github.com/loonghao/dcc-mcp-ipc\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-shanyang-me-xiaohongshu",
+  "description": "Publish, search, and manage content on the Xiaohongshu (Little Red Book) platform.",
+  "source_repo": "shanyang-me/xhs-mcp",
+  "source_url": "https://github.com/shanyang-me/xhs-mcp",
+  "install": "npx -y xhs-mcp"
+}

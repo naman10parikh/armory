@@ -1,0 +1,7 @@
+{
+  "name": "elcukro-bank",
+  "description": "Unified banking integration across EnableBanking, Teller, Plaid, Tink, and mock providers for account management, transactions, and spending analysis.",
+  "source_repo": "elcukro/bank-mcp",
+  "source_url": "https://github.com/elcukro/bank-mcp",
+  "install": "npx -y bank-mcp"
+}

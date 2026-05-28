@@ -1,0 +1,7 @@
+{
+  "name": "hughedward-agent-browser",
+  "description": "Wraps Vercel's agent-browser CLI for Playwright-based browser automation with 44 tools, token-efficient element referencing, and session persistence.",
+  "source_repo": "hughedward/agent_browser_mcp",
+  "source_url": "https://github.com/hughedward/agent_browser_mcp",
+  "install": "npx -y agent_browser_mcp"
+}

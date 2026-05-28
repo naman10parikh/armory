@@ -1,0 +1,7 @@
+{
+  "name": "saileaxh-ida-pro",
+  "description": "IDA Pro plugin that exposes static binary analysis capabilities to AI assistants via 79 MCP tools over a local HTTP server.",
+  "source_repo": "saileaxh/iida-mcp",
+  "source_url": "https://github.com/saileaxh/iida-mcp",
+  "install": "npx -y iida-mcp"
+}

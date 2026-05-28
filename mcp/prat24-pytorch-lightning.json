@@ -1,0 +1,7 @@
+{
+  "name": "prat24-pytorch-lightning",
+  "description": "Enables remote training and inspection of PyTorch Lightning models through JSON-RPC interfaces with stdio and HTTP transport options",
+  "source_repo": "prat24/pytorch-lightning-mcp",
+  "source_url": "https://github.com/prat24/pytorch-lightning-mcp",
+  "install": "npx -y pytorch-lightning-mcp"
+}

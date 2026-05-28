@@ -1,0 +1,7 @@
+{
+  "name": "dannylee1020-hackernews",
+  "description": "Integrates with the HackerNews API to fetch top stories, user information, and story details for content analysis and trend identification",
+  "source_repo": "dannylee1020/toy-mcp",
+  "source_url": "https://github.com/dannylee1020/toy-mcp",
+  "install": "npx -y toy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "waitfish-sqlite",
+  "description": "Provides a SQLite-based database backend for efficient data storage and retrieval, leveraging Rust and integrating with mcp-core and mcp-server libraries for embedded systems, desktop applications, or small-scale server deployments.",
+  "source_repo": "fishcode2025/mcp-sqlite",
+  "source_url": "https://github.com/fishcode2025/mcp-sqlite",
+  "install": "# git clone --depth 1 https://github.com/fishcode2025/mcp-sqlite\n# See source for mcpServers config block"
+}

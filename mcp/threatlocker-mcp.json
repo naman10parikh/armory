@@ -1,0 +1,7 @@
+{
+  "name": "threatlocker-mcp",
+  "description": "MCP server for ThreatLocker — zero-trust application allowlisting, approval requests, audit logs",
+  "source_repo": "wyre-technology/threatlocker-mcp",
+  "source_url": "https://github.com/wyre-technology/threatlocker-mcp",
+  "install": "npx -y threatlocker-mcp"
+}

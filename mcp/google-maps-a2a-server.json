@@ -1,0 +1,7 @@
+{
+  "name": "google-maps-a2a-server",
+  "description": "An A2A-compliant server that provides Google Maps capabilities",
+  "source_repo": "pab1it0/google-maps-a2a",
+  "source_url": "https://github.com/pab1it0/google-maps-a2a",
+  "install": "# git clone --depth 1 https://github.com/pab1it0/google-maps-a2a\n# See source for mcpServers config block"
+}

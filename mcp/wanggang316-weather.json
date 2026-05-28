@@ -1,0 +1,7 @@
+{
+  "name": "wanggang316-weather",
+  "description": "Integrates with weather data APIs to provide real-time conditions and forecasts for location-based decision making, travel planning, and outdoor activity scheduling.",
+  "source_repo": "wanggang316/zongzi-mcp",
+  "source_url": "https://github.com/wanggang316/zongzi-mcp/tree/HEAD/weather",
+  "install": "npx -y zongzi-mcp"
+}

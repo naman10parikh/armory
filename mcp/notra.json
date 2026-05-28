@@ -1,0 +1,7 @@
+{
+  "name": "notra",
+  "description": "Access the Notra API for managing posts, brand identities, and integrations with GitHub, Slack, and Linear.",
+  "source_repo": "usenotra/notra-mcp",
+  "source_url": "https://github.com/usenotra/notra-mcp",
+  "install": "npx -y notra-mcp"
+}

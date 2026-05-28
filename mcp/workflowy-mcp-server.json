@@ -1,0 +1,7 @@
+{
+  "name": "workflowy-mcp-server",
+  "description": "Provides LLM access to Workflowy's API, enabling agents to create, read, update, delete, and reorganize nodes in a Workflowy outline.",
+  "source_repo": "dp-pcs/workflowy-mcp-server",
+  "source_url": "https://github.com/dp-pcs/workflowy-mcp-server",
+  "install": "npx -y workflowy-mcp-server"
+}

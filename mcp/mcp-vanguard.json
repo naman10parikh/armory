@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vanguard",
+  "description": "A security pentesting MCP server with 89 tools across 10 categories, enabling comprehensive reconnaissance, web security, OSINT, and exploitation tasks. It features a native Windows/WSL bridge for Kali Linux tools and scope-aware permission tiers for safe and efficient scanning.",
+  "source_repo": "skyvanguard/mcp-vanguard",
+  "source_url": "https://github.com/skyvanguard/mcp-vanguard",
+  "install": "# git clone --depth 1 https://github.com/skyvanguard/mcp-vanguard\n# See source for mcpServers config block"
+}

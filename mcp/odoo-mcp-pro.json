@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp-pro",
+  "description": "AI connector for Odoo ERP enabling natural language interaction to search, create, update, and manage business records.",
+  "source_repo": "pantalytics/odoo-mcp-pro",
+  "source_url": "https://github.com/pantalytics/odoo-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/pantalytics/odoo-mcp-pro\n# See source for mcpServers config block"
+}

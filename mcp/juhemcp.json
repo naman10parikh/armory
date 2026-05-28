@@ -1,0 +1,7 @@
+{
+  "name": "juhemcp",
+  "description": "Lightweight Python FastAPI server implementation for streamlined server-side interactions, using modern tooling like uv for dependency management and GitHub Actions for automated testing and deployment.",
+  "source_repo": "juhemcp/jnews-mcp-server",
+  "source_url": "https://github.com/juhemcp/jnews-mcp-server",
+  "install": "npx -y jnews-mcp-server"
+}

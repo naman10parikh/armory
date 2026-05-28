@@ -1,0 +1,7 @@
+{
+  "name": "alfonsograziano-node-code-sandbox",
+  "description": "Provides a secure Docker-based sandbox for executing JavaScript code with npm dependencies, offering both persistent and ephemeral containers with strict resource limits for safe code testing and demonstration.",
+  "source_repo": "alfonsograziano/node-code-sandbox-mcp",
+  "source_url": "https://github.com/alfonsograziano/node-code-sandbox-mcp",
+  "install": "npx -y node-code-sandbox-mcp"
+}

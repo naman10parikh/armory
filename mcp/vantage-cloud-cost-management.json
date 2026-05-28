@@ -1,0 +1,7 @@
+{
+  "name": "vantage-cloud-cost-management",
+  "description": "Provides real-time cloud cost management data across multiple providers (AWS, Azure, etc.) for analyzing spending patterns, tracking budgets, detecting anomalies, and optimizing cloud infrastructure costs.",
+  "source_repo": "vantage-sh/vantage-mcp-server",
+  "source_url": "https://github.com/vantage-sh/vantage-mcp-server",
+  "install": "npx -y vantage-mcp-server"
+}

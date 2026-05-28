@@ -1,0 +1,7 @@
+{
+  "name": "titaniumtushar-burp-mcp-plus",
+  "description": "Wraps Burp Suite for AI-assisted penetration testing, providing proxy history access, structured HTTP request building, and Intruder integration.",
+  "source_repo": "titaniumtushar/burp-mcp-plus",
+  "source_url": "https://github.com/titaniumtushar/burp-mcp-plus",
+  "install": "# git clone --depth 1 https://github.com/titaniumtushar/burp-mcp-plus\n# See source for mcpServers config block"
+}

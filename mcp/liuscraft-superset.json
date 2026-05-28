@@ -1,0 +1,7 @@
+{
+  "name": "liuscraft-superset",
+  "description": "Bridges Apache Superset with TypeScript to enable direct interaction with data visualization dashboards, allowing querying, analysis, and visualization without context switching.",
+  "source_repo": "liuscraft/superset-mcp-server",
+  "source_url": "https://github.com/liuscraft/superset-mcp-server",
+  "install": "npx -y superset-mcp-server"
+}

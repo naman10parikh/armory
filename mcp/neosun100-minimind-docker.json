@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-minimind-docker",
+  "description": "Containerized MiniMind language model deployment with training pipeline, GPU acceleration, and multiple interface options including MCP tools for chat and model management.",
+  "source_repo": "neosun100/minimind-docker",
+  "source_url": "https://github.com/neosun100/minimind-docker",
+  "install": "# git clone --depth 1 https://github.com/neosun100/minimind-docker\n# See source for mcpServers config block"
+}

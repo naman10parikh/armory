@@ -1,0 +1,7 @@
+{
+  "name": "tessie-mcp-server",
+  "description": "Enables AI assistants to control and monitor Tesla vehicles via natural language through the Tessie API, supporting battery, climate, security, charging, and more.",
+  "source_repo": "akrowczyk/tessie-mcp-server",
+  "source_url": "https://github.com/akrowczyk/tessie-mcp-server",
+  "install": "npx -y tessie-mcp-server"
+}

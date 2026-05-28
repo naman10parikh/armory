@@ -1,0 +1,7 @@
+{
+  "name": "timowhite88-farnsworth-syntek",
+  "description": "7-layer recursive agent memory with context branching, holographic recall, dream consolidation, and on-chain persistence. MCP-native with 10 tools for persistent agent cognition.",
+  "source_repo": "timowhite88/farnsworth-syntek",
+  "source_url": "https://github.com/timowhite88/farnsworth-syntek",
+  "install": "# git clone --depth 1 https://github.com/timowhite88/farnsworth-syntek\n# See source for mcpServers config block"
+}

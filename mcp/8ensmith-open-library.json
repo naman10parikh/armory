@@ -1,0 +1,7 @@
+{
+  "name": "8ensmith-open-library",
+  "description": "Search and retrieve book and author information from the Internet Archive's Open Library",
+  "source_repo": "8ensmith/mcp-open-library",
+  "source_url": "https://github.com/8ensmith/mcp-open-library",
+  "install": "# git clone --depth 1 https://github.com/8ensmith/mcp-open-library\n# See source for mcpServers config block"
+}

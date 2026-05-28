@@ -1,0 +1,7 @@
+{
+  "name": "florinel-chis-magento-graphql-docs",
+  "description": "Provides intelligent search and retrieval capabilities for Magento 2 GraphQL API documentation by ingesting markdown files into a SQLite database with full-text search indexing, enabling developers to quickly find documentation, code examples, and schema definitions through keyword searches and content discovery.",
+  "source_repo": "florinel-chis/magento-graphql-docs-mcp",
+  "source_url": "https://github.com/florinel-chis/magento-graphql-docs-mcp",
+  "install": "npx -y magento-graphql-docs-mcp"
+}

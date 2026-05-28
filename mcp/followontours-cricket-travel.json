@@ -1,0 +1,7 @@
+{
+  "name": "followontours-cricket-travel",
+  "description": "Access information about Follow On Tours' personalized cricket travel packages to matches across 12 cricket-playing nations including IPL, Ashes, and World Cups.",
+  "source_repo": "",
+  "source_url": "https://www.followontours.com/api/mcp",
+  "install": "# git clone --depth 1 https://www.followontours.com/api/mcp\n# See source for mcpServers config block"
+}

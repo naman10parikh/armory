@@ -1,0 +1,7 @@
+{
+  "name": "weather8484",
+  "description": "Integrates with OpenWeatherMap API to provide real-time weather conditions, forecasts, air quality information, historical data, location search, and weather alerts for seamless access to accurate weather information during conversations.",
+  "source_repo": "saintdoresh/weather-mcp-claudedesktop",
+  "source_url": "https://github.com/saintdoresh/weather-mcp-claudedesktop",
+  "install": "# git clone --depth 1 https://github.com/saintdoresh/weather-mcp-claudedesktop\n# See source for mcpServers config block"
+}

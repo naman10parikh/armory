@@ -1,0 +1,7 @@
+{
+  "name": "meraki-mcp-server",
+  "description": "Enables interaction with the Meraki Dashboard API for LLMs, allowing seamless integration of Meraki network management capabilities within an AI assistant's conversational interface.",
+  "source_repo": "yujiterada/mcp-server-meraki-donottrust",
+  "source_url": "https://github.com/yujiterada/mcp-server-meraki-donottrust",
+  "install": "# git clone --depth 1 https://github.com/yujiterada/mcp-server-meraki-donottrust\n# See source for mcpServers config block"
+}

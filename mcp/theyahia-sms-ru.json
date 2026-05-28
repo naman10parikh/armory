@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-sms-ru",
+  "description": "Integrates with SMS.RU API for sending SMS messages, checking delivery status, and managing account balance.",
+  "source_repo": "theyahia/sms-ru-mcp",
+  "source_url": "https://github.com/theyahia/sms-ru-mcp",
+  "install": "npx -y sms-ru-mcp"
+}

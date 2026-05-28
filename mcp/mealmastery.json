@@ -1,0 +1,7 @@
+{
+  "name": "mealmastery",
+  "description": "AI meal planning with weekly plan generation, recipe management, and Kroger grocery list integration.",
+  "source_repo": "mealmasteryai/mcp-server",
+  "source_url": "https://github.com/mealmasteryai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/mealmasteryai/mcp-server\n# See source for mcpServers config block"
+}

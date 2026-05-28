@@ -1,0 +1,7 @@
+{
+  "name": "whissle",
+  "description": "Integrates with Whissle's speech processing API to enable speech-to-text transcription with timestamps and speaker diarization, machine translation between languages, and text summarization using LLM models.",
+  "source_repo": "whissleai/whissle-mcp",
+  "source_url": "https://github.com/whissleai/whissle-mcp",
+  "install": "npx -y whissle-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repomend-mcp",
+  "description": "Security scanning MCP server that connects Claude to RepoMend findings, enabling vulnerability management and automated fix drafting.",
+  "source_repo": "RepoMend-dev/mcp",
+  "source_url": "https://github.com/RepoMend-dev/mcp",
+  "install": "# git clone --depth 1 https://github.com/RepoMend-dev/mcp\n# See source for mcpServers config block"
+}

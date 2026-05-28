@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-sunrise-sunset",
+  "description": "Calculates sunrise, sunset, and twilight times for any location.",
+  "source_repo": "pipeworx-io/mcp-sunrisesunset",
+  "source_url": "https://github.com/pipeworx-io/mcp-sunrisesunset",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-sunrisesunset\n# See source for mcpServers config block"
+}

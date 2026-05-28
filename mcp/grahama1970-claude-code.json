@@ -1,0 +1,7 @@
+{
+  "name": "grahama1970-claude-code",
+  "description": "Enables AI to execute code, manage files, run Git operations, and perform terminal commands through a robust task orchestration system with intelligent retry mechanisms and heartbeat monitoring.",
+  "source_repo": "grahama1970/claude-code-mcp-enhanced",
+  "source_url": "https://github.com/grahama1970/claude-code-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/grahama1970/claude-code-mcp-enhanced\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vb30-google-cloud-compliance-manager",
+  "description": "Integrates with Google Cloud Compliance Manager to discover, deploy, and manage compliance frameworks like CIS, NIST, and FedRAMP across organizations, folders, and projects with monitoring and enforcement capabilities.",
+  "source_repo": "vb30/compliance-manager-mcp-server",
+  "source_url": "https://github.com/vb30/compliance-manager-mcp-server",
+  "install": "npx -y compliance-manager-mcp-server"
+}

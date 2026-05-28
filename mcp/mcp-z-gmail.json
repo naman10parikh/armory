@@ -1,0 +1,7 @@
+{
+  "name": "mcp-z-gmail",
+  "description": "Integrates with Gmail for email search, sending, label management, and CSV export with OAuth authentication.",
+  "source_repo": "mcp-z/mcp-gmail",
+  "source_url": "https://github.com/mcp-z/mcp-gmail",
+  "install": "# git clone --depth 1 https://github.com/mcp-z/mcp-gmail\n# See source for mcpServers config block"
+}

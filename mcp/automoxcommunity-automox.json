@@ -1,0 +1,7 @@
+{
+  "name": "automoxcommunity-automox",
+  "description": "Integrates with Automox's endpoint management platform to provide policy health monitoring, device compliance insights, remediation actions, and patch management through curated workflows for IT operations automation and security compliance.",
+  "source_repo": "automoxcommunity/automox-mcp",
+  "source_url": "https://github.com/automoxcommunity/automox-mcp",
+  "install": "npx -y automox-mcp"
+}

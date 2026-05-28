@@ -1,0 +1,7 @@
+{
+  "name": "shadowcz007-standalone-exe",
+  "description": "Standalone MCP server executable for Windows, macOS, and other platforms that uses JavaScript configuration files to define resources, tools, and prompts without requiring Node.js installation.",
+  "source_repo": "shadowcz007/mcp_server_exe",
+  "source_url": "https://github.com/shadowcz007/mcp_server_exe",
+  "install": "# git clone --depth 1 https://github.com/shadowcz007/mcp_server_exe\n# See source for mcpServers config block"
+}

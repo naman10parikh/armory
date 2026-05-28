@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-base-flash-arb",
+  "description": "Detects flash loan arbitrage opportunities across DEXes on Base.",
+  "source_repo": "lordbasilaiassistant-sudo/base-flash-arb-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-flash-arb-mcp",
+  "install": "npx -y base-flash-arb-mcp"
+}

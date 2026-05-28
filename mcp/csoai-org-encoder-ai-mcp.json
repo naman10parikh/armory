@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-encoder-ai-mcp",
+  "description": "Tools for encoding, decoding, and transforming data in various formats.",
+  "source_repo": "csoai-org/encoder-ai-mcp",
+  "source_url": "https://github.com/csoai-org/encoder-ai-mcp",
+  "install": "npx -y encoder-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mastercard-developers-toolkit",
+  "description": "Service discovery and integration guides for the Mastercard Developers platform with API documentation access.",
+  "source_repo": "mastercard/developers-agent-toolkit",
+  "source_url": "https://github.com/mastercard/developers-agent-toolkit",
+  "install": "# git clone --depth 1 https://github.com/mastercard/developers-agent-toolkit\n# See source for mcpServers config block"
+}

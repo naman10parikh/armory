@@ -1,0 +1,7 @@
+{
+  "name": "nazarlysyi-brickognize",
+  "description": "Identifies LEGO parts, sets, and minifigures from images using the Brickognize API.",
+  "source_repo": "nazarlysyi/brickscope",
+  "source_url": "https://github.com/nazarlysyi/brickscope",
+  "install": "# git clone --depth 1 https://github.com/nazarlysyi/brickscope\n# See source for mcpServers config block"
+}

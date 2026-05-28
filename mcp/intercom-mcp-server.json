@@ -1,0 +1,7 @@
+{
+  "name": "intercom-mcp-server",
+  "description": "Enables AI agents to manage Intercom support workflows, including searching and updating contacts, handling conversations, assigning and closing tickets, and logging notes.",
+  "source_repo": "ShackletonAnalytics/intercom-mcp-server",
+  "source_url": "https://github.com/ShackletonAnalytics/intercom-mcp-server",
+  "install": "npx -y intercom-mcp-server"
+}

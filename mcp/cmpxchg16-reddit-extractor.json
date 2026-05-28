@@ -1,0 +1,7 @@
+{
+  "name": "cmpxchg16-reddit-extractor",
+  "description": "Extracts content from Reddit discussions using both API and HTML parsing methods, enabling access to post metadata and comments without requiring an API key or authentication.",
+  "source_repo": "cmpxchg16/mcp-ethical-hacking",
+  "source_url": "https://github.com/cmpxchg16/mcp-ethical-hacking/tree/HEAD/reddit-mcp",
+  "install": "# git clone --depth 1 https://github.com/cmpxchg16/mcp-ethical-hacking/tree/HEAD/reddit-mcp\n# See source for mcpServers config block"
+}

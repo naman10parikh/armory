@@ -1,0 +1,7 @@
+{
+  "name": "kill-process",
+  "description": "Provides cross-platform process management with intelligent filtering, sorting, and termination capabilities, featuring macOS-style memory reporting, CPU monitoring, and built-in safety measures to prevent system process interference.",
+  "source_repo": "misiektoja/kill-process-mcp",
+  "source_url": "https://github.com/misiektoja/kill-process-mcp",
+  "install": "npx -y kill-process-mcp"
+}

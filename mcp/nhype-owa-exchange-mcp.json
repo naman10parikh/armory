@@ -1,0 +1,7 @@
+{
+  "name": "nhype-owa-exchange-mcp",
+  "description": "Microsoft Exchange / OWA integration for email, calendar, and directory.",
+  "source_repo": "nhype/owa-exchange-mcp",
+  "source_url": "https://github.com/nhype/owa-exchange-mcp",
+  "install": "npx -y owa-exchange-mcp"
+}

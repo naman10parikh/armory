@@ -1,0 +1,7 @@
+{
+  "name": "theupsider-lsp",
+  "description": "Universal Language Server Protocol integration for AI coding assistants.",
+  "source_repo": "theupsider/lsp-mcp",
+  "source_url": "https://github.com/theupsider/lsp-mcp",
+  "install": "npx -y lsp-mcp"
+}

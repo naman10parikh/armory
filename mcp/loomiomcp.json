@@ -1,0 +1,7 @@
+{
+  "name": "loomiomcp",
+  "description": "Loomio tools for Claude. Local install via npx, org-wide via Custom Connectors. Read-only mode supported.",
+  "source_repo": "soil-dev/loomiomcp",
+  "source_url": "https://github.com/soil-dev/loomiomcp",
+  "install": "# git clone --depth 1 https://github.com/soil-dev/loomiomcp\n# See source for mcpServers config block"
+}

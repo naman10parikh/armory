@@ -1,0 +1,7 @@
+{
+  "name": "baryhuang-headless-gmail",
+  "description": "Enables headless Gmail access by separating credential storage from implementation, allowing clients to complete OAuth flows independently and pass credentials as context for email operations in containerized environments.",
+  "source_repo": "baryhuang/mcp-headless-gmail",
+  "source_url": "https://github.com/baryhuang/mcp-headless-gmail",
+  "install": "# git clone --depth 1 https://github.com/baryhuang/mcp-headless-gmail\n# See source for mcpServers config block"
+}

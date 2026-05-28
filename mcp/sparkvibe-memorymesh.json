@@ -1,0 +1,7 @@
+{
+  "name": "sparkvibe-memorymesh",
+  "description": "Persistent zero-dependency AI memory using SQLite with local-first, cross-tool portability.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/sparkvibe-memorymesh",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/sparkvibe-memorymesh\n# See source for mcpServers config block"
+}

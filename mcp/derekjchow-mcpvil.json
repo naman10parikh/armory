@@ -1,0 +1,7 @@
+{
+  "name": "derekjchow-mcpvil",
+  "description": "Minimal Wayland compositor with integrated tools for launching applications and capturing screenshots.",
+  "source_repo": "derekjchow/mcpvil",
+  "source_url": "https://github.com/derekjchow/mcpvil",
+  "install": "# git clone --depth 1 https://github.com/derekjchow/mcpvil\n# See source for mcpServers config block"
+}

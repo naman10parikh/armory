@@ -1,0 +1,7 @@
+{
+  "name": "vue-docs-mcp",
+  "description": "Provides AI assistants with up-to-date Vue ecosystem documentation through the Model Context Protocol, enabling semantic search, API lookup, and cross-framework references.",
+  "source_repo": "joelbarmettlerUZH/vue-mcp",
+  "source_url": "https://github.com/joelbarmettlerUZH/vue-mcp",
+  "install": "npx -y vue-mcp"
+}

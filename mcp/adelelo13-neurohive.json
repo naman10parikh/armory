@@ -1,0 +1,7 @@
+{
+  "name": "adelelo13-neurohive",
+  "description": "Multi-agent memory intelligence with expertise tracking and conflict detection.",
+  "source_repo": "adelelo13/neurohive",
+  "source_url": "https://github.com/adelelo13/neurohive",
+  "install": "# git clone --depth 1 https://github.com/adelelo13/neurohive\n# See source for mcpServers config block"
+}

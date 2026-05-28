@@ -1,0 +1,7 @@
+{
+  "name": "klievan-jlink",
+  "description": "Debug embedded devices through SEGGER J-Link probes with tools for memory operations, flash management, breakpoints, RTT logging, and GDB server control.",
+  "source_repo": "klievan/jlink-mcp",
+  "source_url": "https://github.com/klievan/jlink-mcp",
+  "install": "npx -y jlink-mcp"
+}

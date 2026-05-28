@@ -1,0 +1,7 @@
+{
+  "name": "spl-bgu-planningcopilot",
+  "description": "A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.",
+  "source_repo": "SPL-BGU/PlanningCopilot",
+  "source_url": "https://github.com/SPL-BGU/PlanningCopilot",
+  "install": "# git clone --depth 1 https://github.com/SPL-BGU/PlanningCopilot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "edu-data-mcp-server",
+  "description": "Edu_data_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "ckz/edu_data_mcp_server",
+  "source_url": "https://mcp.so/server/edu_data_mcp_server/ckz",
+  "install": "npx -y edu_data_mcp_server"
+}

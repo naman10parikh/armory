@@ -1,0 +1,7 @@
+{
+  "name": "mahmoud-nb-thread-mind",
+  "description": "Organizes AI conversations into hierarchical threads with compact summaries to reduce token consumption, with solo and team modes.",
+  "source_repo": "mahmoud-nb/thread-mind-mcp",
+  "source_url": "https://github.com/mahmoud-nb/thread-mind-mcp",
+  "install": "npx -y thread-mind-mcp"
+}

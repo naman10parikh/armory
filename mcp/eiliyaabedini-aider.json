@@ -1,0 +1,7 @@
+{
+  "name": "eiliyaabedini-aider",
+  "description": "Provides a bridge between Aider pair programming tool and AI models, enabling parallel execution of multiple coding tasks with configurable file access permissions and comprehensive error handling.",
+  "source_repo": "eiliyaabedini/aider-mcp",
+  "source_url": "https://github.com/eiliyaabedini/aider-mcp",
+  "install": "npx -y aider-mcp"
+}

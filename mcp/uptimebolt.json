@@ -1,0 +1,7 @@
+{
+  "name": "uptimebolt",
+  "description": "AI-powered infrastructure monitoring with health checks, incident tracking, predictions, and deploy safety.",
+  "source_repo": "clm-cloud-solutions/uptimebolt-mcp-server",
+  "source_url": "https://github.com/clm-cloud-solutions/uptimebolt-mcp-server",
+  "install": "npx -y uptimebolt-mcp-server"
+}

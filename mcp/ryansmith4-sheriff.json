@@ -1,0 +1,7 @@
+{
+  "name": "ryansmith4-sheriff",
+  "description": "Work queue manager for AI agents fixing static analysis issues from SARIF reports with persistent progress tracking.",
+  "source_repo": "ryansmith4/sheriff-mcp",
+  "source_url": "https://github.com/ryansmith4/sheriff-mcp",
+  "install": "npx -y sheriff-mcp"
+}

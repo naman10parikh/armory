@@ -1,0 +1,7 @@
+{
+  "name": "brunokrugel-echo-mcp",
+  "description": "A zero-configuration Go library to automatically expose any existing Echo web framework APIs as MCP tools.",
+  "source_repo": "BrunoKrugel/echo-mcp",
+  "source_url": "https://github.com/BrunoKrugel/echo-mcp",
+  "install": "npx -y echo-mcp"
+}

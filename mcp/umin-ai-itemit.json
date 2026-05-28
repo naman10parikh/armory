@@ -1,0 +1,7 @@
+{
+  "name": "umin-ai-itemit",
+  "description": "Integrates with itemit's asset management platform to enable searching, creating, and managing physical assets and locations with item tracking, location lookup, and reminder retrieval capabilities.",
+  "source_repo": "umin-ai/itemit-mcp",
+  "source_url": "https://github.com/umin-ai/itemit-mcp",
+  "install": "npx -y itemit-mcp"
+}

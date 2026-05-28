@@ -1,0 +1,7 @@
+{
+  "name": "thadius83-openai",
+  "description": "Integrates with OpenAI's API to enable direct querying of various language models, supporting efficient text generation and question answering tasks.",
+  "source_repo": "thadius83/mcp-server-openai",
+  "source_url": "https://github.com/thadius83/mcp-server-openai",
+  "install": "# git clone --depth 1 https://github.com/thadius83/mcp-server-openai\n# See source for mcpServers config block"
+}

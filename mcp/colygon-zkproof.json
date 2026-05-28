@@ -1,0 +1,7 @@
+{
+  "name": "colygon-zkproof",
+  "description": "Enables privacy-preserving computations with zero-knowledge proofs for verifying claims like age requirements without revealing sensitive personal data",
+  "source_repo": "opencolin/zkpmcp",
+  "source_url": "https://github.com/opencolin/zkpmcp",
+  "install": "# git clone --depth 1 https://github.com/opencolin/zkpmcp\n# See source for mcpServers config block"
+}

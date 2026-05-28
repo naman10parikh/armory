@@ -1,0 +1,7 @@
+{
+  "name": "hope1026-weppy-roblox-mcp",
+  "description": "MCP server and plugin that lets AI agents (Claude Code, Cursor, Codex, Gemini) directly control a live Roblox Studio session — create scripts, instances, terrain, lighting, and assets via natural language. 21 tools, 140+ actions, bidirectional sync, and automated playtest.",
+  "source_repo": "hope1026/weppy-roblox-mcp",
+  "source_url": "https://github.com/hope1026/weppy-roblox-mcp",
+  "install": "npx -y weppy-roblox-mcp"
+}

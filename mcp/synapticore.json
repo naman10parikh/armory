@@ -1,0 +1,7 @@
+{
+  "name": "synapticore",
+  "description": "Genesis Playground <> Automation Agents",
+  "source_repo": "insomniac-klutz/SynaptiCore",
+  "source_url": "https://github.com/insomniac-klutz/SynaptiCore",
+  "install": "# git clone --depth 1 https://github.com/insomniac-klutz/SynaptiCore\n# See source for mcpServers config block"
+}

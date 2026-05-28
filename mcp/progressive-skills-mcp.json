@@ -1,0 +1,7 @@
+{
+  "name": "progressive-skills-mcp",
+  "description": "MCP server implementing progressive disclosure for skill instructions, loading skills on-demand for token efficiency.",
+  "source_repo": "Flowtrica/progressive-skills-mcp",
+  "source_url": "https://github.com/Flowtrica/progressive-skills-mcp",
+  "install": "npx -y progressive-skills-mcp"
+}

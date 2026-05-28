@@ -1,0 +1,7 @@
+{
+  "name": "drafts-mcp-server",
+  "description": "Enables AI assistants to manage drafts, tags, workspaces, and actions in the Drafts app on macOS.",
+  "source_repo": "agiletortoise/drafts-mcp-server",
+  "source_url": "https://github.com/agiletortoise/drafts-mcp-server",
+  "install": "npx -y drafts-mcp-server"
+}

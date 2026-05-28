@@ -1,0 +1,7 @@
+{
+  "name": "intelliglow-smart-lighting",
+  "description": "Provides intelligent smart lighting control through UDP network communication, enabling discovery, connection, and control of physical smart bulbs on local networks with voice command integration for comprehensive bulb management including RGB color control, brightness adjustment, and power management.",
+  "source_repo": "shree-bd/intelliglow-ai-voice-mcp-iot-platform",
+  "source_url": "https://github.com/shree-bd/intelliglow-ai-voice-mcp-iot-platform",
+  "install": "# git clone --depth 1 https://github.com/shree-bd/intelliglow-ai-voice-mcp-iot-platform\n# See source for mcpServers config block"
+}

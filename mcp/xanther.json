@@ -1,0 +1,7 @@
+{
+  "name": "xanther",
+  "description": "Delivers architectural context to coding agents via semantic code search, impact analysis, traceability, and codebase queries using the Xanther Context Engine with SSE transport.",
+  "source_repo": "xanther-ai/xce-mcp",
+  "source_url": "https://github.com/xanther-ai/xce-mcp",
+  "install": "npx -y xce-mcp"
+}

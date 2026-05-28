@@ -1,0 +1,7 @@
+{
+  "name": "velixar-memory",
+  "description": "Persistent memory for AI assistants with store, search, and recall across sessions.",
+  "source_repo": "velixarai/velixar-mcp-server",
+  "source_url": "https://github.com/velixarai/velixar-mcp-server",
+  "install": "npx -y velixar-mcp-server"
+}

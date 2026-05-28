@@ -1,0 +1,7 @@
+{
+  "name": "csoai-haulage-uk-compliance",
+  "description": "Covers UK operator licence requirements, tachograph rules, drivers' hours regulations, and DVSA roadside check procedures for haulage operators.",
+  "source_repo": "csoai-org/haulage-uk-compliance-mcp",
+  "source_url": "https://github.com/csoai-org/haulage-uk-compliance-mcp",
+  "install": "npx -y haulage-uk-compliance-mcp"
+}

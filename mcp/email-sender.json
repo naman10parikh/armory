@@ -1,0 +1,7 @@
+{
+  "name": "email-sender",
+  "description": "Enables language models to compose and send emails with attachments through SMTP servers, supporting multiple providers and secure transmission for automated email workflows.",
+  "source_repo": "shy2593666979/mcp-server-email",
+  "source_url": "https://github.com/shy2593666979/mcp-server-email",
+  "install": "# git clone --depth 1 https://github.com/shy2593666979/mcp-server-email\n# See source for mcpServers config block"
+}

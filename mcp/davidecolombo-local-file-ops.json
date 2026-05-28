@@ -1,0 +1,7 @@
+{
+  "name": "davidecolombo-local-file-ops",
+  "description": "Delegates file read, write, edit, delete, and rename operations to a local Ollama model to keep file contents out of Claude's context.",
+  "source_repo": "davidecolombo/local-mcp",
+  "source_url": "https://github.com/davidecolombo/local-mcp",
+  "install": "npx -y local-mcp"
+}

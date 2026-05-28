@@ -1,0 +1,7 @@
+{
+  "name": "domain-checker",
+  "description": "Fast domain availability checker with DNS and RDAP/WHOIS verification",
+  "source_repo": "wearebravelabs/domain-checker-mcp",
+  "source_url": "https://github.com/wearebravelabs/domain-checker-mcp",
+  "install": "npx -y domain-checker-mcp"
+}

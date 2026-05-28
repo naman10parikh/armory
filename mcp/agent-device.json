@@ -1,0 +1,7 @@
+{
+  "name": "agent-device",
+  "description": "Mobile and desktop device automation for AI agents, enabling control of iOS, Android, TV, and macOS applications.",
+  "source_repo": "callstackincubator/agent-device",
+  "source_url": "https://github.com/callstackincubator/agent-device",
+  "install": "# git clone --depth 1 https://github.com/callstackincubator/agent-device\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rwestergren-hevy",
+  "description": "Gateway-ready MCP server for Hevy fitness tracking — workouts, routines, and templates.",
+  "source_repo": "rwestergren/hevy-mcp",
+  "source_url": "https://github.com/rwestergren/hevy-mcp",
+  "install": "npx -y hevy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inhiblabcore-mcp-image-compression",
+  "description": "MCP server for local compression of various image formats.",
+  "source_repo": "InhiblabCore/mcp-image-compression",
+  "source_url": "https://github.com/InhiblabCore/mcp-image-compression",
+  "install": "# git clone --depth 1 https://github.com/InhiblabCore/mcp-image-compression\n# See source for mcpServers config block"
+}

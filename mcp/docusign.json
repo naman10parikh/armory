@@ -1,0 +1,7 @@
+{
+  "name": "docusign",
+  "description": "Connects to Docusign's Intelligent Agreement Management platform to create, send, sign, and manage agreements, plus query and analyze agreement data.",
+  "source_repo": "",
+  "source_url": "https://developers.docusign.com/platform/mcp-server/",
+  "install": "# git clone --depth 1 https://developers.docusign.com/platform/mcp-server/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-disify",
+  "description": "Validate email addresses and detect disposable or temporary email domains using Disify.",
+  "source_repo": "pipeworx-io/mcp-disify",
+  "source_url": "https://github.com/pipeworx-io/mcp-disify",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-disify\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "context-repo-mcp",
+  "description": "An MCP server that enables AI assistants to manage Context Repo prompts, documents, and collections with semantic search and progressive disclosure navigation.",
+  "source_repo": "Gitmaxd/context-repo-mcp",
+  "source_url": "https://github.com/Gitmaxd/context-repo-mcp",
+  "install": "npx -y context-repo-mcp"
+}

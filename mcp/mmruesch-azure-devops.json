@@ -1,0 +1,7 @@
+{
+  "name": "mmruesch-azure-devops",
+  "description": "Integrates with Azure DevOps API to enable natural language management of work items, pull requests, and wiki content through authenticated access and specialized tools for resource creation and modification.",
+  "source_repo": "mmruesch12/azdo-mcp",
+  "source_url": "https://github.com/mmruesch12/azdo-mcp",
+  "install": "npx -y azdo-mcp"
+}

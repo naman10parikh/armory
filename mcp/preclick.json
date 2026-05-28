@@ -1,0 +1,7 @@
+{
+  "name": "preclick",
+  "description": "URL preflight scanning service that analyzes links for security threats and verifies alignment with the agent's intended browsing goal.",
+  "source_repo": "cybrlab-ai/preclick-mcp",
+  "source_url": "https://github.com/cybrlab-ai/preclick-mcp",
+  "install": "npx -y preclick-mcp"
+}

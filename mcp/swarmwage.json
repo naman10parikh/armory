@@ -1,0 +1,7 @@
+{
+  "name": "swarmwage",
+  "description": "Protocol and MCP server for hiring and paying specialized AI agents in USDC on Base blockchain using x402.",
+  "source_repo": "swarmwage/swarmwage",
+  "source_url": "https://github.com/swarmwage/swarmwage",
+  "install": "# git clone --depth 1 https://github.com/swarmwage/swarmwage\n# See source for mcpServers config block"
+}

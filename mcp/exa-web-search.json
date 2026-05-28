@@ -1,0 +1,7 @@
+{
+  "name": "exa-web-search",
+  "description": "MCP server — Web search, research, and data ingestion via Exa API — prefer task-scoped use for broader research after GitHub search and primary docs.",
+  "source_repo": "affaan-m/ecc",
+  "source_url": "https://github.com/affaan-m/ecc/blob/main/mcp-configs/mcp-servers.json",
+  "install": "# git clone --depth 1 https://github.com/affaan-m/ecc/blob/main/mcp-configs/mcp-servers.json\n# See source for mcpServers config block"
+}

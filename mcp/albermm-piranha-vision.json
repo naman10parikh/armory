@@ -1,0 +1,7 @@
+{
+  "name": "albermm-piranha-vision",
+  "description": "Real-time market surveillance with news scanning, risk alerts, and economic monitoring.",
+  "source_repo": "",
+  "source_url": "https://pi.phos.nz/mcp/",
+  "install": "# git clone --depth 1 https://pi.phos.nz/mcp/\n# See source for mcpServers config block"
+}

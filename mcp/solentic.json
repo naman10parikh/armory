@@ -1,0 +1,7 @@
+{
+  "name": "solentic",
+  "description": "Native Solana staking infrastructure for AI agents with 26 MCP tools, one-shot signing, and webhook monitoring.",
+  "source_repo": "blueprint-infrastructure/solentic-mcp",
+  "source_url": "https://github.com/blueprint-infrastructure/solentic-mcp",
+  "install": "npx -y solentic-mcp"
+}

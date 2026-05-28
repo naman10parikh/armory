@@ -1,0 +1,7 @@
+{
+  "name": "faceton-mcp-server",
+  "description": "FaceTron is a high-performance face embedding server with ONNX Runtime, dynamic multi-model loading, and MCP-compatible OpenAPI metadata for offline face recognition and detection.",
+  "source_repo": "13shivam/facetron",
+  "source_url": "https://github.com/13shivam/facetron",
+  "install": "# git clone --depth 1 https://github.com/13shivam/facetron\n# See source for mcpServers config block"
+}

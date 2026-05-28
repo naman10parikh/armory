@@ -1,0 +1,7 @@
+{
+  "name": "dino65-yahoo-finance",
+  "description": "Integrates with Yahoo Finance's APIs and databases to enable market data retrieval, portfolio management, transaction processing, and financial analysis for investment and trading strategies.",
+  "source_repo": "dino65-dev/finance_mcp-server",
+  "source_url": "https://github.com/dino65-dev/finance_mcp-server",
+  "install": "npx -y finance_mcp-server"
+}

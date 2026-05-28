@@ -1,0 +1,7 @@
+{
+  "name": "asafdafna-rize",
+  "description": "Integrates with Rize.io's automatic time tracking platform to manage clients, projects, and tasks while logging time entries and analyzing productivity data.",
+  "source_repo": "asafdafna/rize.io-mcp",
+  "source_url": "https://github.com/asafdafna/rize.io-mcp",
+  "install": "npx -y rize.io-mcp"
+}

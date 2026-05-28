@@ -1,0 +1,7 @@
+{
+  "name": "devantler-tech-ksail",
+  "description": "SDK for creating, managing, and operating Kubernetes clusters and workloads.",
+  "source_repo": "devantler-tech/ksail",
+  "source_url": "https://github.com/devantler-tech/ksail",
+  "install": "# git clone --depth 1 https://github.com/devantler-tech/ksail\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "superglue-ai-superglue",
+  "description": "Drop-in proxy between applications and REST/GraphQL/SQL/file endpoints that automatically handles schema drift detection, data transformation, and pipeline healing using LLM-assisted mapping to create cached JSONata transforms that run without latency and regenerate when upstream schemas change.",
+  "source_repo": "superglue-ai/superglue",
+  "source_url": "https://github.com/superglue-ai/superglue/tree/HEAD/docs",
+  "install": "# git clone --depth 1 https://github.com/superglue-ai/superglue/tree/HEAD/docs\n# See source for mcpServers config block"
+}

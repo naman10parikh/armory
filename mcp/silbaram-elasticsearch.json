@@ -1,0 +1,7 @@
+{
+  "name": "silbaram-elasticsearch",
+  "description": "Integrates with Elasticsearch to enable cluster health checks, index mapping retrieval, alias management, and document searches using Elasticsearch's query DSL",
+  "source_repo": "silbaram/elasticsearch-mcp-server",
+  "source_url": "https://github.com/silbaram/elasticsearch-mcp-server",
+  "install": "npx -y elasticsearch-mcp-server"
+}

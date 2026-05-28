@@ -1,0 +1,7 @@
+{
+  "name": "aruxojuyu665-2captcha",
+  "description": "Full 2Captcha API integration with 31 captcha solver types and account management tools.",
+  "source_repo": "aruxojuyu665/2captcha-mcp",
+  "source_url": "https://github.com/aruxojuyu665/2captcha-mcp",
+  "install": "npx -y 2captcha-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bjesus-begagnad",
+  "description": "Provides search capabilities across Sweden's largest second-hand marketplaces, Blocket and Tradera, enabling unified access to classified listings with normalized data including prices, descriptions, images, seller ratings, and direct links for price comparison and market research.",
+  "source_repo": "bjesus/begagnad-mcp",
+  "source_url": "https://github.com/bjesus/begagnad-mcp",
+  "install": "npx -y begagnad-mcp"
+}

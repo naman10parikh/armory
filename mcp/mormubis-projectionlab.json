@@ -1,0 +1,7 @@
+{
+  "name": "mormubis-projectionlab",
+  "description": "Exports, snapshots, and restores financial plans from ProjectionLab with a built-in FIRE advisor knowledge base for AI-assisted retirement planning.",
+  "source_repo": "mormubis/projectionlab-mcp",
+  "source_url": "https://github.com/mormubis/projectionlab-mcp",
+  "install": "npx -y projectionlab-mcp"
+}

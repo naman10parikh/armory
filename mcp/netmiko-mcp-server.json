@@ -1,0 +1,7 @@
+{
+  "name": "netmiko-mcp-server",
+  "description": "Enables management of network devices via SSH using Netmiko, supporting command execution, configuration management, and concurrent operations across multiple vendors.",
+  "source_repo": "ntunes/netmiko-mcp-server",
+  "source_url": "https://github.com/ntunes/netmiko-mcp-server",
+  "install": "npx -y netmiko-mcp-server"
+}

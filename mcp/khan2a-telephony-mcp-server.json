@@ -1,0 +1,7 @@
+{
+  "name": "khan2a-telephony-mcp-server",
+  "description": "💬 - MCP Telephony server for automating voice calls with Speech-to-Text and Speech Recognition to summarize call conversations. Send and receive SMS, detect voicemail, and integrate with Vonage APIs for advanced telephony workflows.",
+  "source_repo": "khan2a/telephony-mcp-server",
+  "source_url": "https://github.com/khan2a/telephony-mcp-server",
+  "install": "npx -y telephony-mcp-server"
+}

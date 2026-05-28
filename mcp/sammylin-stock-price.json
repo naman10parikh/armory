@@ -1,0 +1,7 @@
+{
+  "name": "sammylin-stock-price",
+  "description": "Integrates with yfinance library to provide real-time stock prices, historical market data, and detailed company information across global exchanges including US, Taiwan, and international markets for financial analysis and investment research.",
+  "source_repo": "sammylin/stock-price-mcp-server",
+  "source_url": "https://github.com/sammylin/stock-price-mcp-server",
+  "install": "npx -y stock-price-mcp-server"
+}

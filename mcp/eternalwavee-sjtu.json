@@ -1,0 +1,7 @@
+{
+  "name": "eternalwavee-sjtu",
+  "description": "Wraps the SJTU Zhiyuan No.1 API with four tools for text and vision tasks via OpenAI-compatible endpoints.",
+  "source_repo": "eternalwavee/sjtu-mcp",
+  "source_url": "https://github.com/eternalwavee/sjtu-mcp",
+  "install": "npx -y sjtu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sidemail",
+  "description": "Integrates with Sidemail.io email service to send emails through a simple API interface for automated notifications, customer communications, and workflow-triggered messaging.",
+  "source_repo": "sidemail/sidemail-mcp-server",
+  "source_url": "https://github.com/sidemail/sidemail-mcp-server",
+  "install": "npx -y sidemail-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jmanhype-dart",
+  "description": "Integrates with the Dart task management system to enable AI-driven project organization, document handling, and workflow automation through secure API interactions and Dartboard feature integration.",
+  "source_repo": "jmanhype/dart-mcp-server",
+  "source_url": "https://github.com/jmanhype/dart-mcp-server",
+  "install": "npx -y dart-mcp-server"
+}

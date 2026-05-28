@@ -1,0 +1,7 @@
+{
+  "name": "argia-andreas-linear",
+  "description": "Bridges Linear's project management platform by retrieving user todo tickets via user ID or email, enabling seamless integration of project context into workflow tools.",
+  "source_repo": "argia-andreas/linear-mcp-server",
+  "source_url": "https://github.com/argia-andreas/linear-mcp-server",
+  "install": "npx -y linear-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "the402",
+  "description": "AI agent service marketplace for browsing, purchasing, and managing services via x402 and USDC payments.",
+  "source_repo": "the402ai/mcp-server",
+  "source_url": "https://github.com/the402ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/the402ai/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-comtrade",
+  "description": "United Nations international bilateral trade statistics via the UN Comtrade API.",
+  "source_repo": "pipeworx-io/mcp-comtrade",
+  "source_url": "https://github.com/pipeworx-io/mcp-comtrade",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-comtrade\n# See source for mcpServers config block"
+}

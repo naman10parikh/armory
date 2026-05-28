@@ -1,0 +1,7 @@
+{
+  "name": "netbox-mcp-server",
+  "description": "Read-only MCP server for NetBox that enables LLMs to query NetBox objects (devices, IPAM, etc.) and change logs through natural language, with field filtering for token optimization.",
+  "source_repo": "netboxlabs/netbox-mcp-server",
+  "source_url": "https://github.com/netboxlabs/netbox-mcp-server",
+  "install": "npx -y netbox-mcp-server"
+}

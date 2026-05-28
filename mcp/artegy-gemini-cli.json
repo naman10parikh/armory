@@ -1,0 +1,7 @@
+{
+  "name": "artegy-gemini-cli",
+  "description": "Bridges code2prompt with Google's Gemini models to analyze entire codebases or specific components, providing architectural reviews, refactoring recommendations, and development insights by extracting structured codebase content and leveraging Gemini's large context window for comprehensive code analysis.",
+  "source_repo": "artegy/gemini-cli-mcp",
+  "source_url": "https://github.com/artegy/gemini-cli-mcp",
+  "install": "npx -y gemini-cli-mcp"
+}

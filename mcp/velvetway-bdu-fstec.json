@@ -1,0 +1,7 @@
+{
+  "name": "velvetway-bdu-fstec",
+  "description": "Query Russia's official FSTEC vulnerability database with 86,000+ records via full-text search, CVE mapping, and BDU identifier lookup.",
+  "source_repo": "velvetway/bdu-fstec-mcp",
+  "source_url": "https://github.com/velvetway/bdu-fstec-mcp",
+  "install": "npx -y bdu-fstec-mcp"
+}

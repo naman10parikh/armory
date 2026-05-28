@@ -1,0 +1,7 @@
+{
+  "name": "dragogargo-mcp-sysmon",
+  "description": "Local system monitoring — CPU, memory, swap, disk, network, and process management. Find resource-hungry processes, diagnose performance issues, and kill processes via AI.",
+  "source_repo": "dragogargo/mcp-sysmon",
+  "source_url": "https://github.com/dragogargo/mcp-sysmon",
+  "install": "# git clone --depth 1 https://github.com/dragogargo/mcp-sysmon\n# See source for mcpServers config block"
+}

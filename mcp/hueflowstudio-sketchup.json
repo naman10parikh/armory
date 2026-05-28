@@ -1,0 +1,7 @@
+{
+  "name": "hueflowstudio-sketchup",
+  "description": "MCP server connecting SketchUp 3D modeling software to Claude AI with 21 tools for geometry creation, materials, transformations, and roof truss design.",
+  "source_repo": "hueflowstudio/hueflow-sketchup-mcp",
+  "source_url": "https://github.com/hueflowstudio/hueflow-sketchup-mcp",
+  "install": "npx -y hueflow-sketchup-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rebots-online-chat-analysis",
+  "description": "Integrates vector embeddings and knowledge graphs to enable advanced chat analysis tasks like topic modeling, sentiment analysis, and user behavior tracking.",
+  "source_repo": "rebots-online/mcp-chat-analysis-server",
+  "source_url": "https://github.com/rebots-online/mcp-chat-analysis-server",
+  "install": "# git clone --depth 1 https://github.com/rebots-online/mcp-chat-analysis-server\n# See source for mcpServers config block"
+}

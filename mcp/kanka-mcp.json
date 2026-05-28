@@ -1,0 +1,7 @@
+{
+  "name": "kanka-mcp",
+  "description": "Enables MCP-compatible agents to authenticate to a Kanka account and interact with campaigns, entities (CRUD on all 18 entity types, posts, relations), and full-text search.",
+  "source_repo": "torinvdb/kanka-mcp",
+  "source_url": "https://github.com/torinvdb/kanka-mcp",
+  "install": "npx -y kanka-mcp"
+}

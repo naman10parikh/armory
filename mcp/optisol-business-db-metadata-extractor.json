@@ -1,0 +1,7 @@
+{
+  "name": "optisol-business-db-metadata-extractor",
+  "description": "Extract database schema metadata from PostgreSQL, Snowflake, SQL Server, BigQuery, and Oracle.",
+  "source_repo": "optisol-business/db-metadata-extractor-mcp",
+  "source_url": "https://github.com/optisol-business/db-metadata-extractor-mcp",
+  "install": "npx -y db-metadata-extractor-mcp"
+}

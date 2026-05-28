@@ -1,0 +1,7 @@
+{
+  "name": "oenius-browser-tools",
+  "description": "Provides browser debugging capabilities through a Chrome extension that captures console logs, network requests, screenshots, and DOM elements while offering Lighthouse-powered audits for web page analysis and issue resolution.",
+  "source_repo": "oenius/browser-tools-mcp",
+  "source_url": "https://github.com/oenius/browser-tools-mcp",
+  "install": "npx -y browser-tools-mcp"
+}

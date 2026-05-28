@@ -1,0 +1,7 @@
+{
+  "name": "danielguru-repomemory",
+  "description": "Persistent, searchable knowledge base for AI coding agents with hybrid keyword and semantic search across project context.",
+  "source_repo": "danielguru/repomemory",
+  "source_url": "https://github.com/danielguru/repomemory",
+  "install": "# git clone --depth 1 https://github.com/danielguru/repomemory\n# See source for mcpServers config block"
+}

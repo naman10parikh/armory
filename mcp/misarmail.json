@@ -1,0 +1,7 @@
+{
+  "name": "misarmail",
+  "description": "Email marketing platform for campaigns, automation, contacts, templates, and analytics.",
+  "source_repo": "",
+  "source_url": "https://mail.misar.io",
+  "install": "# git clone --depth 1 https://mail.misar.io\n# See source for mcpServers config block"
+}

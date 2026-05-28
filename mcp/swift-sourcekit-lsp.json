@@ -1,0 +1,7 @@
+{
+  "name": "swift-sourcekit-lsp",
+  "description": "Integrates with Apple's SourceKit-LSP to provide advanced static analysis and architectural insights for Swift codebases, offering Protocol-Oriented Programming assessment, architecture pattern detection, project memory with pattern learning, and automated documentation generation for comprehensive code quality evaluation.",
+  "source_repo": "theanvora/swift-mcp-server",
+  "source_url": "https://github.com/theanvora/swift-mcp-server",
+  "install": "npx -y swift-mcp-server"
+}

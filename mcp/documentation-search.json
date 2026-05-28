@@ -1,0 +1,7 @@
+{
+  "name": "documentation-search",
+  "description": "Provides a documentation search tool that retrieves the latest Python library documentation from LangChain, LlamaIndex, and OpenAI through targeted Google searches and content extraction.",
+  "source_repo": "graphfied/mcp-claude-desktop-connect",
+  "source_url": "https://github.com/graphfied/mcp-claude-desktop-connect",
+  "install": "# git clone --depth 1 https://github.com/graphfied/mcp-claude-desktop-connect\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ast-grep",
+  "description": "Bridges to the ast-grep code search tool for finding code patterns in projects using abstract syntax tree matching, enabling efficient code analysis and refactoring tasks.",
+  "source_repo": "ast-grep/ast-grep-mcp",
+  "source_url": "https://github.com/ast-grep/ast-grep-mcp",
+  "install": "npx -y ast-grep-mcp"
+}

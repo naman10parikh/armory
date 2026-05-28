@@ -1,0 +1,7 @@
+{
+  "name": "dsp-mcp-server-steam",
+  "description": "Integrates with the Steam Web API. Allows for querying various stats, such as games in your library and their respective playtime.",
+  "source_repo": "dsp/mcp-server-steam",
+  "source_url": "https://github.com/dsp/mcp-server-steam",
+  "install": "# git clone --depth 1 https://github.com/dsp/mcp-server-steam\n# See source for mcpServers config block"
+}

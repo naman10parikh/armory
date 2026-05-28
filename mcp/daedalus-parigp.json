@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-parigp",
+  "description": "Exposes the cypari2 number theory library for integer factorization, primality testing, polynomial operations, and elliptic curves.",
+  "source_repo": "daedalus/mcp-parigp",
+  "source_url": "https://github.com/daedalus/mcp-parigp",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-parigp\n# See source for mcpServers config block"
+}

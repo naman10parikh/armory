@@ -1,0 +1,7 @@
+{
+  "name": "seo-audit",
+  "description": "AI-powered SEO and AEO audit for websites.",
+  "source_repo": "stobo-app/stobo-mcp",
+  "source_url": "https://github.com/stobo-app/stobo-mcp",
+  "install": "npx -y stobo-mcp"
+}

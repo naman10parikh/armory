@@ -1,0 +1,7 @@
+{
+  "name": "appcircle",
+  "description": "Bridges AI tools with the Appcircle mobile CI/CD platform for build profiles, signing, testing distribution, and app store publishing.",
+  "source_repo": "appcircleio/appcircle-mcp",
+  "source_url": "https://github.com/appcircleio/appcircle-mcp",
+  "install": "npx -y appcircle-mcp"
+}

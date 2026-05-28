@@ -1,0 +1,7 @@
+{
+  "name": "adhirajhangal-vapi",
+  "description": "Manage Vapi voice assistants, outbound calls, transcripts, and phone numbers through AI coding tools.",
+  "source_repo": "adhirajhangal/mcp-vapi",
+  "source_url": "https://github.com/adhirajhangal/mcp-vapi",
+  "install": "# git clone --depth 1 https://github.com/adhirajhangal/mcp-vapi\n# See source for mcpServers config block"
+}

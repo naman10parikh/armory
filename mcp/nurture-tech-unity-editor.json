@@ -1,0 +1,7 @@
+{
+  "name": "nurture-tech-unity-editor",
+  "description": "Integrates with Unity game engine to enable automated game development tasks, asset management, and Unity project analysis through direct workflow integration.",
+  "source_repo": "nurture-tech/unity-mcp-server",
+  "source_url": "https://github.com/nurture-tech/unity-mcp-server",
+  "install": "npx -y unity-mcp-server"
+}

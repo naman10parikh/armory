@@ -1,0 +1,7 @@
+{
+  "name": "getexperience",
+  "description": "Search and book tours and travel experiences across 40+ countries with real-time availability and pricing.",
+  "source_repo": "skurakov/getexperience-mcp",
+  "source_url": "https://github.com/skurakov/getexperience-mcp",
+  "install": "npx -y getexperience-mcp"
+}

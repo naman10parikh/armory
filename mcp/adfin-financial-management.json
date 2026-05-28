@@ -1,0 +1,7 @@
+{
+  "name": "adfin-financial-management",
+  "description": "Integrates with Adfin's financial management platform to enable credit control checks, invoice creation, and document uploads through dynamically generated API tools and specialized file system capabilities.",
+  "source_repo": "adfin-engineering/mcp-server-adfin",
+  "source_url": "https://github.com/adfin-engineering/mcp-server-adfin",
+  "install": "# git clone --depth 1 https://github.com/adfin-engineering/mcp-server-adfin\n# See source for mcpServers config block"
+}

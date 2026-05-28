@@ -1,0 +1,7 @@
+{
+  "name": "overseerr-mcp-server",
+  "description": "FastMCP server to interact with the Overseerr API for movie and TV show requests management, enabling users to request media, search, and manage libraries via natural language.",
+  "source_repo": "ptbsare/overseerr-mcp-server",
+  "source_url": "https://github.com/ptbsare/overseerr-mcp-server",
+  "install": "npx -y overseerr-mcp-server"
+}

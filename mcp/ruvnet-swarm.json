@@ -1,0 +1,7 @@
+{
+  "name": "ruvnet-swarm",
+  "description": "Distributed neural network swarm orchestration with ephemeral intelligence and multi-agent coordination",
+  "source_repo": "ruvnet/ruv-fann",
+  "source_url": "https://github.com/ruvnet/ruv-fann/tree/HEAD/ruv-swarm",
+  "install": "# git clone --depth 1 https://github.com/ruvnet/ruv-fann/tree/HEAD/ruv-swarm\n# See source for mcpServers config block"
+}

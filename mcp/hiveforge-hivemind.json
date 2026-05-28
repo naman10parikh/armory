@@ -1,0 +1,7 @@
+{
+  "name": "hiveforge-hivemind",
+  "description": "Transforms Obsidian worldbuilding vaults into queryable knowledge graphs with automatic entity detection and relationship mapping.",
+  "source_repo": "hiveforge-sh/hivemind",
+  "source_url": "https://github.com/hiveforge-sh/hivemind",
+  "install": "# git clone --depth 1 https://github.com/hiveforge-sh/hivemind\n# See source for mcpServers config block"
+}

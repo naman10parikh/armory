@@ -1,0 +1,7 @@
+{
+  "name": "csoai-agent-rate-limiter",
+  "description": "Fleet-wide shared rate limiter for agent-to-agent and multi-MCP deployments with coordinated throttling across servers.",
+  "source_repo": "csoai-org/agent-rate-limiter-mcp",
+  "source_url": "https://github.com/csoai-org/agent-rate-limiter-mcp",
+  "install": "npx -y agent-rate-limiter-mcp"
+}

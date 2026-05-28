@@ -1,0 +1,7 @@
+{
+  "name": "newageflyfish-max-volthq",
+  "description": "Compute price oracle for AI agents. Compare inference pricing across 8 providers in real time with routing recommendations and spend tracking. One-command install: `npx volthq-mcp-server --setup`.",
+  "source_repo": "newageflyfish-max/volthq",
+  "source_url": "https://github.com/newageflyfish-max/volthq",
+  "install": "# git clone --depth 1 https://github.com/newageflyfish-max/volthq\n# See source for mcpServers config block"
+}

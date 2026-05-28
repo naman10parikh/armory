@@ -1,0 +1,7 @@
+{
+  "name": "arclan-registry",
+  "description": "MCP server registry validated by live handshake, scored on reliability, and monitored continuously.",
+  "source_repo": "",
+  "source_url": "https://arclan.ai",
+  "install": "# git clone --depth 1 https://arclan.ai\n# See source for mcpServers config block"
+}

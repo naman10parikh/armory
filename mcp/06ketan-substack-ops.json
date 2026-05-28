@@ -1,0 +1,7 @@
+{
+  "name": "06ketan-substack-ops",
+  "description": "Substack content management and engagement automation — browse posts, reply, restack, and run automations via 26 tools.",
+  "source_repo": "06ketan/substack-ops",
+  "source_url": "https://github.com/06ketan/substack-ops",
+  "install": "# git clone --depth 1 https://github.com/06ketan/substack-ops\n# See source for mcpServers config block"
+}

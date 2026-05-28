@@ -1,0 +1,7 @@
+{
+  "name": "charmhealth-mcp-server",
+  "description": "An MCP server for CharmHealth EHR that allows LLMs and MCP clients to interact with patient records, encounters, and practice information.",
+  "source_repo": "CharmHealth/charm-mcp-server",
+  "source_url": "https://github.com/CharmHealth/charm-mcp-server",
+  "install": "npx -y charm-mcp-server"
+}

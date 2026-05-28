@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-toolkit",
+  "description": "Provides system utilities and tools for network diagnostics, monitoring, cryptography, and QR code generation.",
+  "source_repo": "cyanheads/toolkit-mcp-server",
+  "source_url": "https://github.com/cyanheads/toolkit-mcp-server",
+  "install": "npx -y toolkit-mcp-server"
+}

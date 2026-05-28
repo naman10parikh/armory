@@ -1,0 +1,7 @@
+{
+  "name": "playcanvas-editor",
+  "description": "Enables real-time interaction with the PlayCanvas game engine through a Chrome extension that injects WebSocket capabilities into the Editor, allowing creation and modification of game objects, assets, and scene settings.",
+  "source_repo": "playcanvas/editor-mcp-server",
+  "source_url": "https://github.com/playcanvas/editor-mcp-server",
+  "install": "npx -y editor-mcp-server"
+}

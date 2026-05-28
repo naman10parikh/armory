@@ -1,0 +1,7 @@
+{
+  "name": "bilibili-mcp-server",
+  "description": "Bilibili Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "huccihuang/bilibili-mcp-server",
+  "source_url": "https://mcp.so/server/bilibili-mcp-server/huccihuang",
+  "install": "npx -y bilibili-mcp-server"
+}

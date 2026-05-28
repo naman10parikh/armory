@@ -1,0 +1,7 @@
+{
+  "name": "rhylthyme",
+  "description": "Creates interactive schedule visualizations with parallel tracks, dependencies, and live timers.",
+  "source_repo": "rhylthyme/rhylthyme-mcp",
+  "source_url": "https://github.com/rhylthyme/rhylthyme-mcp",
+  "install": "npx -y rhylthyme-mcp"
+}

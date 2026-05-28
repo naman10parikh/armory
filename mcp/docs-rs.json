@@ -1,0 +1,7 @@
+{
+  "name": "docs-rs",
+  "description": "Integrates with crates.io and docs.rs to search Rust crates, retrieve README content, fetch documentation for specific API items, and search within crate APIs using web scraping converted to markdown format.",
+  "source_repo": "nuskey8/docs-rs-mcp",
+  "source_url": "https://github.com/nuskey8/docs-rs-mcp",
+  "install": "npx -y docs-rs-mcp"
+}

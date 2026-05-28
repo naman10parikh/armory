@@ -1,0 +1,7 @@
+{
+  "name": "jason-tan-railway",
+  "description": "Integrates with Railway.app to enable management of deployments, monitoring of application performance, and automation of DevOps workflows within the Railway ecosystem.",
+  "source_repo": "jason-tan-swe/railway-mcp",
+  "source_url": "https://github.com/jason-tan-swe/railway-mcp",
+  "install": "npx -y railway-mcp"
+}

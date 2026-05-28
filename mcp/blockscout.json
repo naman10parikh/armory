@@ -1,0 +1,7 @@
+{
+  "name": "blockscout",
+  "description": "Integrates with Blockscout APIs to provide blockchain data access including address balances, token holdings, NFT collections, transaction details, smart contract ABIs, and ENS name resolution across multiple networks with caching optimization and decoded transaction analysis.",
+  "source_repo": "blockscout/mcp-server",
+  "source_url": "https://github.com/blockscout/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/blockscout/mcp-server\n# See source for mcpServers config block"
+}

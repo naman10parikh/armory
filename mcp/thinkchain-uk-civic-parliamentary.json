@@ -1,0 +1,7 @@
+{
+  "name": "thinkchain-uk-civic-parliamentary",
+  "description": "Query UK Parliament, elections, crime statistics, ONS census data, and national archives via public APIs.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/thinkchain-uk-civic-parliamentary",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/thinkchain-uk-civic-parliamentary\n# See source for mcpServers config block"
+}

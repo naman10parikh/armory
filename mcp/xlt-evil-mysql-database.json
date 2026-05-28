@@ -1,0 +1,7 @@
+{
+  "name": "xlt-evil-mysql-database",
+  "description": "Go-based MCP server implementation providing MySQL database connectivity and basic greeting functionality through modular architecture with YAML configuration management",
+  "source_repo": "xlt-evil/mcp",
+  "source_url": "https://github.com/xlt-evil/mcp",
+  "install": "# git clone --depth 1 https://github.com/xlt-evil/mcp\n# See source for mcpServers config block"
+}

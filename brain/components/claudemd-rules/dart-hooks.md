@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [dart-coding-style, dart-patterns]
-tags: [ecc, rules, dart]
+tags: [rules, dart]
 ---
 ## What it is
 dart rule: apply when working on dart and you need Dart/Flutter Hooks.

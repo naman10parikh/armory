@@ -1,0 +1,7 @@
+{
+  "name": "raspberry-pi-notes",
+  "description": "Provides a lightweight note storage system for creating, reading, and summarizing notes with custom styling options, designed to run efficiently on Raspberry Pi devices.",
+  "source_repo": "daikw/mcp-server-on-raspi",
+  "source_url": "https://github.com/daikw/mcp-server-on-raspi",
+  "install": "# git clone --depth 1 https://github.com/daikw/mcp-server-on-raspi\n# See source for mcpServers config block"
+}

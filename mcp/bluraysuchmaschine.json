@@ -1,0 +1,7 @@
+{
+  "name": "bluraysuchmaschine",
+  "description": "Searches Blu-ray and 4K UHD movies, featured titles, and detailed film information from a German catalog.",
+  "source_repo": "",
+  "source_url": "https://bluraysuchmaschine.de",
+  "install": "# git clone --depth 1 https://bluraysuchmaschine.de\n# See source for mcpServers config block"
+}

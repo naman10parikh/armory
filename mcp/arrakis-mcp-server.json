@@ -1,0 +1,7 @@
+{
+  "name": "arrakis-mcp-server",
+  "description": "Arrakis Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "abshkbh/arrakis-mcp-server",
+  "source_url": "https://mcp.so/server/arrakis-mcp-server/abshkbh",
+  "install": "npx -y arrakis-mcp-server"
+}

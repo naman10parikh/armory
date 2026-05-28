@@ -1,0 +1,7 @@
+{
+  "name": "social-analytics-mcp-server",
+  "description": "Enables Instagram and Facebook analytics via the Meta Graph API, offering account insights, media analytics, and post engagement data.",
+  "source_repo": "BilalTariq01/instagram-analytics-mcp",
+  "source_url": "https://github.com/BilalTariq01/instagram-analytics-mcp",
+  "install": "npx -y instagram-analytics-mcp"
+}

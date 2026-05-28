@@ -1,0 +1,7 @@
+{
+  "name": "hats-protocol",
+  "description": "Integrates with the Hats Protocol across Ethereum, Polygon, Arbitrum, Optimism, Base, and Gnosis Chain to provide hierarchical role management through hat creation, minting, burning, transfers, permission checking, and organizational structure visualization for DAOs and decentralized governance systems.",
+  "source_repo": "dennisonbertram/mcp-hats",
+  "source_url": "https://github.com/dennisonbertram/mcp-hats",
+  "install": "# git clone --depth 1 https://github.com/dennisonbertram/mcp-hats\n# See source for mcpServers config block"
+}

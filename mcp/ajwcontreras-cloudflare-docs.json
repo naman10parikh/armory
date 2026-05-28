@@ -1,0 +1,7 @@
+{
+  "name": "ajwcontreras-cloudflare-docs",
+  "description": "Semantic search over Cloudflare developer documentation with 28,000+ indexed chunks on Cloudflare Workers.",
+  "source_repo": "ajwcontreras/cf-docs-mcp",
+  "source_url": "https://github.com/ajwcontreras/cf-docs-mcp",
+  "install": "npx -y cf-docs-mcp"
+}

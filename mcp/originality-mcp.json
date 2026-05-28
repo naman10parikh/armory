@@ -1,0 +1,7 @@
+{
+  "name": "originality-mcp",
+  "description": "MCP server for Originality.ai that provides tools for AI detection, plagiarism checking, fact verification, readability analysis, grammar/spelling, and SEO optimization.",
+  "source_repo": "Eyalm321/originality-mcp",
+  "source_url": "https://github.com/Eyalm321/originality-mcp",
+  "install": "npx -y originality-mcp"
+}

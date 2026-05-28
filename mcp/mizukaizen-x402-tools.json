@@ -1,0 +1,7 @@
+{
+  "name": "mizukaizen-x402-tools",
+  "description": "16 x402 pay-per-call tools for web scraping, validation, notifications, conversion, and synthesis on Base.",
+  "source_repo": "mizukaizen/x402-tools-mcp",
+  "source_url": "https://github.com/mizukaizen/x402-tools-mcp",
+  "install": "npx -y x402-tools-mcp"
+}

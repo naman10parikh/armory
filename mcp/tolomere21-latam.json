@@ -1,0 +1,7 @@
+{
+  "name": "tolomere21-latam",
+  "description": "Peruvian public data API — SUNAT business lookups, BCRP exchange rates, and SEACE tenders.",
+  "source_repo": "tolomere21/latam-mcp",
+  "source_url": "https://github.com/tolomere21/latam-mcp",
+  "install": "npx -y latam-mcp"
+}

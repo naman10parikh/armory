@@ -1,0 +1,7 @@
+{
+  "name": "bmorphism-babashka",
+  "description": "Integrates with Babashka to enable dynamic Clojure code execution and interaction for scripting, data processing, and system automation tasks.",
+  "source_repo": "bmorphism/babashka-mcp-server",
+  "source_url": "https://github.com/bmorphism/babashka-mcp-server",
+  "install": "npx -y babashka-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "changjunpark-qdrant-vector-database",
+  "description": "Provides a vector database for storing and retrieving code snippets through semantic search using Docker containers and sentence-transformers embeddings",
+  "source_repo": "changjunpark/mcp-qdrant-server-with-qdrant-db",
+  "source_url": "https://github.com/changjunpark/mcp-qdrant-server-with-qdrant-db",
+  "install": "# git clone --depth 1 https://github.com/changjunpark/mcp-qdrant-server-with-qdrant-db\n# See source for mcpServers config block"
+}

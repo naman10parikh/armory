@@ -1,0 +1,7 @@
+{
+  "name": "xonack-apex-twitter",
+  "description": "Integrates with X (Twitter) through Apex's social media infrastructure to enable tweet retrieval, search operations, reply generation, content posting, and direct reply management without requiring Twitter API keys.",
+  "source_repo": "xonack/apex-mcp",
+  "source_url": "https://github.com/xonack/apex-mcp",
+  "install": "npx -y apex-mcp"
+}

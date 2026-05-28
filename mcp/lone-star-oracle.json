@@ -1,0 +1,7 @@
+{
+  "name": "lone-star-oracle",
+  "description": "AI data service providing crypto, equities, energy, government intelligence, and coding tools via a pay-per-query MCP gateway.",
+  "source_repo": "",
+  "source_url": "https://lonestaroracle.xyz",
+  "install": "# git clone --depth 1 https://lonestaroracle.xyz\n# See source for mcpServers config block"
+}

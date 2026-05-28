@@ -1,0 +1,7 @@
+{
+  "name": "fetter",
+  "description": "Real-time Python package metadata and vulnerability data for AI coding agents.",
+  "source_repo": "fetter-io/fetter-mcp",
+  "source_url": "https://github.com/fetter-io/fetter-mcp",
+  "install": "npx -y fetter-mcp"
+}

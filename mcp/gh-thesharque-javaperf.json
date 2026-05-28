@@ -1,0 +1,7 @@
+{
+  "name": "gh-thesharque-javaperf",
+  "description": "Java application profiling via jcmd, JFR, and jps for performance diagnostics and thread analysis.",
+  "source_repo": "thesharque/mcp-jperf",
+  "source_url": "https://github.com/thesharque/mcp-jperf",
+  "install": "# git clone --depth 1 https://github.com/thesharque/mcp-jperf\n# See source for mcpServers config block"
+}

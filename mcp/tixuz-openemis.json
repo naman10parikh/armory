@@ -1,0 +1,7 @@
+{
+  "name": "tixuz-openemis",
+  "description": "Read-only MCP bridge connecting AI agents to OpenEMIS education management systems with natural language access to 645 education data resources.",
+  "source_repo": "tixuz/openemis-mcp",
+  "source_url": "https://github.com/tixuz/openemis-mcp",
+  "install": "npx -y openemis-mcp"
+}

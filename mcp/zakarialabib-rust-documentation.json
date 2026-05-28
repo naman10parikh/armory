@@ -1,0 +1,7 @@
+{
+  "name": "zakarialabib-rust-documentation",
+  "description": "Provides access to Rust documentation from docs.rs, crates.io search, and the Rust Book with intelligent caching, source code browsing, dependency analysis, and macro expansion capabilities.",
+  "source_repo": "zakarialabib/rustools-mcp",
+  "source_url": "https://github.com/zakarialabib/rustools-mcp",
+  "install": "npx -y rustools-mcp"
+}

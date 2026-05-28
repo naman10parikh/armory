@@ -1,0 +1,7 @@
+{
+  "name": "zhangkaigod2000-bing-search",
+  "description": "Performs Bing web searches using Playwright scraping with optional LLM-powered query rewriting and content summarization.",
+  "source_repo": "zhangkaigod2000/bing_search_mcp",
+  "source_url": "https://github.com/zhangkaigod2000/bing_search_mcp",
+  "install": "npx -y bing_search_mcp"
+}

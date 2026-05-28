@@ -1,0 +1,7 @@
+{
+  "name": "mumez-pharo-smalltalk-interop-mcp-server",
+  "description": "Pharo Smalltalk integration enabling code evaluation, class/method introspection, package management, test execution, and project installation for interactive development with Pharo images.",
+  "source_repo": "mumez/pharo-smalltalk-interop-mcp-server",
+  "source_url": "https://github.com/mumez/pharo-smalltalk-interop-mcp-server",
+  "install": "npx -y pharo-smalltalk-interop-mcp-server"
+}

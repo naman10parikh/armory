@@ -1,0 +1,7 @@
+{
+  "name": "pbs-mcp-server",
+  "description": "Pbs Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "matthewdcage/pbs-mcp-server",
+  "source_url": "https://mcp.so/server/pbs-mcp-server/matthewdcage",
+  "install": "npx -y pbs-mcp-server"
+}

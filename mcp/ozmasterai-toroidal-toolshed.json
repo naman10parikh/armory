@@ -1,0 +1,7 @@
+{
+  "name": "ozmasterai-toroidal-toolshed",
+  "description": "Proxy that multiplexes multiple backends through two tools, reducing token overhead.",
+  "source_repo": "ozmasterai/toroidal-toolshed",
+  "source_url": "https://github.com/ozmasterai/toroidal-toolshed",
+  "install": "# git clone --depth 1 https://github.com/ozmasterai/toroidal-toolshed\n# See source for mcpServers config block"
+}

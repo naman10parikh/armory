@@ -1,0 +1,7 @@
+{
+  "name": "stumason-coolify",
+  "description": "Integrates with Coolify to enable natural language management of servers, projects, applications, and databases through the Coolify API, allowing users to perform DevOps operations without leaving their conversation interface.",
+  "source_repo": "stumason/coolify-mcp",
+  "source_url": "https://github.com/stumason/coolify-mcp",
+  "install": "npx -y coolify-mcp"
+}

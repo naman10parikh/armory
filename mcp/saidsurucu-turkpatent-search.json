@@ -1,0 +1,7 @@
+{
+  "name": "saidsurucu-turkpatent-search",
+  "description": "Searches Turkey's TURKPATENT database for trademarks, patents, and industrial designs with filtering by name, owner, classification codes, and pagination support.",
+  "source_repo": "saidsurucu/markapatent-mcp",
+  "source_url": "https://github.com/saidsurucu/markapatent-mcp",
+  "install": "npx -y markapatent-mcp"
+}

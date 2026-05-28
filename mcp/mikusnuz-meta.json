@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-meta",
+  "description": "Manage Instagram and Threads content, analytics, and engagement through Meta's Graph API v25.0.",
+  "source_repo": "mikusnuz/meta-mcp",
+  "source_url": "https://github.com/mikusnuz/meta-mcp",
+  "install": "npx -y meta-mcp"
+}

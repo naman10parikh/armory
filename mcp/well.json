@@ -1,0 +1,7 @@
+{
+  "name": "well",
+  "description": "Access Well financial data including invoices, companies, and contacts.",
+  "source_repo": "",
+  "source_url": "https://wellapp.ai/mcp",
+  "install": "# git clone --depth 1 https://wellapp.ai/mcp\n# See source for mcpServers config block"
+}

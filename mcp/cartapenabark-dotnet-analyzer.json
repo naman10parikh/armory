@@ -1,0 +1,7 @@
+{
+  "name": "cartapenabark-dotnet-analyzer",
+  "description": "Deep C# code analysis using Microsoft's Roslyn compiler platform.",
+  "source_repo": "cartapenabark/dotnetanalyzer",
+  "source_url": "https://github.com/cartapenabark/dotnetanalyzer",
+  "install": "# git clone --depth 1 https://github.com/cartapenabark/dotnetanalyzer\n# See source for mcpServers config block"
+}

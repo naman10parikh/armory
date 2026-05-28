@@ -1,0 +1,7 @@
+{
+  "name": "iris-eval",
+  "description": "Agent evaluation and observability with trace logging, quality scoring, and cost tracking.",
+  "source_repo": "iris-eval/mcp-server",
+  "source_url": "https://github.com/iris-eval/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/iris-eval/mcp-server\n# See source for mcpServers config block"
+}

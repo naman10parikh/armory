@@ -1,0 +1,7 @@
+{
+  "name": "divar-zoekt",
+  "description": "Integrates with Zoekt search engine to provide fast code search capabilities across repositories using query language with language filters, file path patterns, and repository scoping for discovering code patterns and retrieving file contents.",
+  "source_repo": "najva-ai/zoekt-mcp",
+  "source_url": "https://github.com/najva-ai/zoekt-mcp",
+  "install": "npx -y zoekt-mcp"
+}

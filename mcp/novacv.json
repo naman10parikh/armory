@@ -1,0 +1,7 @@
+{
+  "name": "novacv",
+  "description": "Integrates with NovaCV API to generate, analyze, and convert resumes in various formats without dealing with complex document formatting",
+  "source_repo": "hiretechupup/mcp-server-novacv",
+  "source_url": "https://github.com/hiretechupup/mcp-server-novacv",
+  "install": "# git clone --depth 1 https://github.com/hiretechupup/mcp-server-novacv\n# See source for mcpServers config block"
+}

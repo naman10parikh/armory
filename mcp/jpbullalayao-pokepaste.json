@@ -1,0 +1,7 @@
+{
+  "name": "jpbullalayao-pokepaste",
+  "description": "Converts Pokemon team compositions into shareable Pokepaste URLs by accepting detailed Pokemon configurations including stats, moves, abilities, items, and competitive metadata, then automatically uploading the formatted team data to pokepast.es for easy collaboration among competitive players and team builders.",
+  "source_repo": "jpbullalayao/pokemon-paste-mcp",
+  "source_url": "https://github.com/jpbullalayao/pokemon-paste-mcp",
+  "install": "npx -y pokemon-paste-mcp"
+}

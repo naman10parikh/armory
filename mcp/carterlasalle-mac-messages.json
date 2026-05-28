@@ -1,0 +1,7 @@
+{
+  "name": "carterlasalle-mac-messages",
+  "description": "Bridges Claude Desktop with macOS Messages app, enabling reading and sending iMessages through direct database access with contact lookup and group chat support.",
+  "source_repo": "carterlasalle/mac_messages_mcp",
+  "source_url": "https://github.com/carterlasalle/mac_messages_mcp",
+  "install": "npx -y mac_messages_mcp"
+}

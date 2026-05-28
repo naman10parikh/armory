@@ -1,0 +1,7 @@
+{
+  "name": "zephex",
+  "description": "Hosted MCP gateway with 10 tools for code analysis, architecture review, package auditing, and security scanning.",
+  "source_repo": "",
+  "source_url": "https://zephex.dev",
+  "install": "# git clone --depth 1 https://zephex.dev\n# See source for mcpServers config block"
+}

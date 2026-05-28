@@ -1,0 +1,7 @@
+{
+  "name": "project-explorer",
+  "description": "Provides secure file system exploration and project analysis for TypeScript/JavaScript codebases with tools for project exploration, file search with regex support, file management operations, package dependency analysis, and directory access control through configurable allowed paths.",
+  "source_repo": "mausrundung/mcp-explorer",
+  "source_url": "https://github.com/mausrundung/mcp-explorer",
+  "install": "# git clone --depth 1 https://github.com/mausrundung/mcp-explorer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cursor-chat-history",
+  "description": "Analyzes local Cursor chat history to extract development patterns, usage insights, and coding best practices with tools for searching conversations, generating analytics, and exporting data in multiple formats for personalized development assistance.",
+  "source_repo": "vltansky/cursor-chat-history-mcp",
+  "source_url": "https://github.com/vltansky/cursor-chat-history-mcp",
+  "install": "npx -y cursor-chat-history-mcp"
+}

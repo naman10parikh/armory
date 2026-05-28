@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-pkg-go-dev",
+  "description": "Go module and package documentation via the Go proxy API through Pipeworx's managed gateway.",
+  "source_repo": "pipeworx-io/mcp-pkg-go-dev",
+  "source_url": "https://github.com/pipeworx-io/mcp-pkg-go-dev",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-pkg-go-dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vessel-traffic-mcp",
+  "description": "Read-only MCP server for vessel identity lookup, AIS-style positions, tracks, port calls, carrier schedules, vessel schedules, and delay heuristics with source attribution and BYOK provider support.",
+  "source_repo": "tools-mcp/vessel-traffic-mcp",
+  "source_url": "https://github.com/tools-mcp/vessel-traffic-mcp",
+  "install": "npx -y vessel-traffic-mcp"
+}

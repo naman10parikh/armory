@@ -1,0 +1,7 @@
+{
+  "name": "tiny-mcp-server-rs",
+  "description": "Tiny_mcp_server_rs MCP server listed on mcp.so.",
+  "source_repo": "AllenDang/tiny_mcp_server_rs",
+  "source_url": "https://mcp.so/server/tiny_mcp_server_rs/AllenDang",
+  "install": "# git clone --depth 1 https://mcp.so/server/tiny_mcp_server_rs/AllenDang\n# See source for mcpServers config block"
+}

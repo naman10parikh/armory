@@ -1,0 +1,7 @@
+{
+  "name": "pdubbbbbs-blueguard",
+  "description": "MCP server for Bluetooth LE security scanning, threat analysis with heuristic scoring, and continuous BLE environment monitoring.",
+  "source_repo": "pdubbbbbs/blueguard-mcp-server",
+  "source_url": "https://github.com/pdubbbbbs/blueguard-mcp-server",
+  "install": "npx -y blueguard-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seeking-l-to-do-list",
+  "description": "Manages personal to-do lists with tasks, priorities, and completion tracking.",
+  "source_repo": "seeking-l/todolist_mcp",
+  "source_url": "https://github.com/seeking-l/todolist_mcp",
+  "install": "npx -y todolist_mcp"
+}

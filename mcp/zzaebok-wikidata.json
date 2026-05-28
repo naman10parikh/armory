@@ -1,0 +1,7 @@
+{
+  "name": "zzaebok-wikidata",
+  "description": "Integrates with Wikidata to enable entity searches, property retrieval, and SPARQL queries for accessing structured knowledge about people, places, and concepts",
+  "source_repo": "zzaebok/mcp-wikidata",
+  "source_url": "https://github.com/zzaebok/mcp-wikidata",
+  "install": "# git clone --depth 1 https://github.com/zzaebok/mcp-wikidata\n# See source for mcpServers config block"
+}

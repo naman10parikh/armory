@@ -1,0 +1,7 @@
+{
+  "name": "peeper-mcp-server",
+  "description": "Peeper Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "maskedsaqib/peeper-mcp-server",
+  "source_url": "https://mcp.so/server/peeper-mcp-server/maskedsaqib",
+  "install": "npx -y peeper-mcp-server"
+}

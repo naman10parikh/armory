@@ -1,0 +1,7 @@
+{
+  "name": "dynatrace-managed",
+  "description": "Integrates with self-hosted Dynatrace Managed environments to access logs, events, metrics, problems, and entity data.",
+  "source_repo": "dynatrace-oss/dynatrace-managed-mcp",
+  "source_url": "https://github.com/dynatrace-oss/dynatrace-managed-mcp",
+  "install": "npx -y dynatrace-managed-mcp"
+}

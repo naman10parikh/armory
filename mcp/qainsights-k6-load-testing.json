@@ -1,0 +1,7 @@
+{
+  "name": "qainsights-k6-load-testing",
+  "description": "Enables natural language-driven k6 load testing with configurable parameters for duration and virtual user count, bridging conversational interfaces with performance testing workflows.",
+  "source_repo": "qainsights/k6-mcp-server",
+  "source_url": "https://github.com/qainsights/k6-mcp-server",
+  "install": "npx -y k6-mcp-server"
+}

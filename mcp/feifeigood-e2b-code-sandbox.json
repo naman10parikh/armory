@@ -1,0 +1,7 @@
+{
+  "name": "feifeigood-e2b-code-sandbox",
+  "description": "Provides secure code execution capabilities through E2B's cloud sandbox infrastructure, enabling Python code execution and shell command execution in isolated environments.",
+  "source_repo": "feifeigood/code-sandbox-mcp",
+  "source_url": "https://github.com/feifeigood/code-sandbox-mcp",
+  "install": "npx -y code-sandbox-mcp"
+}

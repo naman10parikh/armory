@@ -1,0 +1,7 @@
+{
+  "name": "vaquill-courtlistener",
+  "description": "Access US federal and state court opinions, dockets, judges, oral arguments, and eCFR regulations via CourtListener.",
+  "source_repo": "vaquill-ai/courtlistener-mcp",
+  "source_url": "https://github.com/vaquill-ai/courtlistener-mcp",
+  "install": "npx -y courtlistener-mcp"
+}

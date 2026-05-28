@@ -1,0 +1,7 @@
+{
+  "name": "ryanmac-twitter-client",
+  "description": "Provides a TypeScript-based server for interacting with Twitter, enabling tweet operations, user profile management, and Grok AI integration through multiple authentication methods.",
+  "source_repo": "ryanmac/agent-twitter-client-mcp",
+  "source_url": "https://github.com/ryanmac/agent-twitter-client-mcp",
+  "install": "npx -y agent-twitter-client-mcp"
+}

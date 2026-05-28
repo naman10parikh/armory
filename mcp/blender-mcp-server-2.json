@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp-server-2",
+  "description": "Exposes 50+ Blender tools (object manipulation, materials, animation, etc.) via MCP for AI-driven 3D workflows and automation.",
+  "source_repo": "namurokuro/Blender-MCP-Server",
+  "source_url": "https://github.com/namurokuro/Blender-MCP-Server",
+  "install": "npx -y Blender-MCP-Server"
+}

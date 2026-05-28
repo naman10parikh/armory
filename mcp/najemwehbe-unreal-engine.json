@@ -1,0 +1,7 @@
+{
+  "name": "najemwehbe-unreal-engine",
+  "description": "Drives Unreal Engine 5 editor automation with 105 tools for asset management, blueprint inspection, actor spawning, and more.",
+  "source_repo": "najemwehbe/unreal-ai-connection",
+  "source_url": "https://github.com/najemwehbe/unreal-ai-connection",
+  "install": "# git clone --depth 1 https://github.com/najemwehbe/unreal-ai-connection\n# See source for mcpServers config block"
+}

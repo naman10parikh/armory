@@ -1,0 +1,7 @@
+{
+  "name": "c4pt0r-s3",
+  "description": "Provides a bridge to Amazon S3 storage services for listing buckets, browsing objects, retrieving file contents, uploading, downloading, and deleting files directly from conversations.",
+  "source_repo": "c4pt0r/mcp-server-s3",
+  "source_url": "https://github.com/c4pt0r/mcp-server-s3",
+  "install": "# git clone --depth 1 https://github.com/c4pt0r/mcp-server-s3\n# See source for mcpServers config block"
+}

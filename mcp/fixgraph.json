@@ -1,0 +1,7 @@
+{
+  "name": "fixgraph",
+  "description": "Search 25,000+ community-verified fixes for real-world technical errors across software, vehicles, home systems, and appliances.",
+  "source_repo": "jawdat6/fixgraph-mcp",
+  "source_url": "https://github.com/jawdat6/fixgraph-mcp",
+  "install": "npx -y fixgraph-mcp"
+}

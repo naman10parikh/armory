@@ -1,0 +1,7 @@
+{
+  "name": "metabase",
+  "description": "Official Metabase MCP server enabling AI agents to search, explore, query, and visualize data in a self-hosted Metabase instance.",
+  "source_repo": "metabase/metabase",
+  "source_url": "https://github.com/metabase/metabase",
+  "install": "# git clone --depth 1 https://github.com/metabase/metabase\n# See source for mcpServers config block"
+}

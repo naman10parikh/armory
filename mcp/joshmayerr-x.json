@@ -1,0 +1,7 @@
+{
+  "name": "joshmayerr-x",
+  "description": "Integrates with X using real browser APIs to bypass rate limits and enable extensive social media operations and data analysis.",
+  "source_repo": "joshmayerr/mcp-x",
+  "source_url": "https://github.com/joshmayerr/mcp-x",
+  "install": "# git clone --depth 1 https://github.com/joshmayerr/mcp-x\n# See source for mcpServers config block"
+}

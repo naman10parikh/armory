@@ -1,0 +1,7 @@
+{
+  "name": "nursinghomedatabase",
+  "description": "Searches US nursing facility data including inspection ratings, staffing levels, and ownership records sourced from CMS federal releases.",
+  "source_repo": "jmtroller/nhd-mcp-public-documentation",
+  "source_url": "https://github.com/jmtroller/nhd-mcp-public-documentation",
+  "install": "# git clone --depth 1 https://github.com/jmtroller/nhd-mcp-public-documentation\n# See source for mcpServers config block"
+}

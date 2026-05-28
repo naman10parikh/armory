@@ -1,0 +1,7 @@
+{
+  "name": "hexdecimal16-web-search",
+  "description": "Performs Google searches and crawls content from the top 5 non-social media results, filtering out social platforms to deliver consolidated web content for research, fact-checking, and content discovery workflows.",
+  "source_repo": "hexdecimal16/web-search-mcp",
+  "source_url": "https://github.com/hexdecimal16/web-search-mcp",
+  "install": "npx -y web-search-mcp"
+}

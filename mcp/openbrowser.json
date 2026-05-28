@@ -1,0 +1,7 @@
+{
+  "name": "openbrowser",
+  "description": "AI-powered browser automation using CodeAgent and Chrome DevTools Protocol.",
+  "source_repo": "billy-enrizky/openbrowser-ai",
+  "source_url": "https://github.com/billy-enrizky/openbrowser-ai",
+  "install": "# git clone --depth 1 https://github.com/billy-enrizky/openbrowser-ai\n# See source for mcpServers config block"
+}

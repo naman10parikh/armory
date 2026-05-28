@@ -1,0 +1,7 @@
+{
+  "name": "louiewoof2026-skool",
+  "description": "Integrates with Skool.com community platforms for managing posts, members, courses, and notifications via reverse-engineered APIs.",
+  "source_repo": "louiewoof2026/skool-mcp",
+  "source_url": "https://github.com/louiewoof2026/skool-mcp",
+  "install": "npx -y skool-mcp"
+}

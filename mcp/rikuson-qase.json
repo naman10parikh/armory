@@ -1,0 +1,7 @@
+{
+  "name": "rikuson-qase",
+  "description": "Provides a TypeScript-based integration with the Qase test management platform, enabling interaction with test-related entities like projects, cases, runs, results, plans, suites, and shared steps through strong typing and Zod-validated API calls.",
+  "source_repo": "rikuson/mcp-qase",
+  "source_url": "https://github.com/rikuson/mcp-qase",
+  "install": "# git clone --depth 1 https://github.com/rikuson/mcp-qase\n# See source for mcpServers config block"
+}

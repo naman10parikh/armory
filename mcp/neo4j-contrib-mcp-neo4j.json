@@ -1,0 +1,7 @@
+{
+  "name": "neo4j-contrib-mcp-neo4j",
+  "description": "Interact with Neo4j graph databases to query, analyze, and manipulate data.",
+  "source_repo": "neo4j-contrib/mcp-neo4j",
+  "source_url": "https://github.com/neo4j-contrib/mcp-neo4j",
+  "install": "# git clone --depth 1 https://github.com/neo4j-contrib/mcp-neo4j\n# See source for mcpServers config block"
+}

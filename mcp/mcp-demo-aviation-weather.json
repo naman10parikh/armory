@@ -1,0 +1,7 @@
+{
+  "name": "mcp-demo-aviation-weather",
+  "description": "Mcp Demo Aviation Weather MCP server listed on mcp.so.",
+  "source_repo": "mcdickenson/mcp-demo-aviation-weather",
+  "source_url": "https://mcp.so/server/mcp-demo-aviation-weather/mcdickenson",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-demo-aviation-weather/mcdickenson\n# See source for mcpServers config block"
+}

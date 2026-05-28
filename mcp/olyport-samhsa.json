@@ -1,0 +1,7 @@
+{
+  "name": "olyport-samhsa",
+  "description": "Behavioral health statistics from SAMHSA surveys including NSDUH.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/samhsa/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/samhsa/mcp\n# See source for mcpServers config block"
+}

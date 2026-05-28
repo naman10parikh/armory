@@ -1,0 +1,7 @@
+{
+  "name": "duckduckgo-mcp-server",
+  "description": "Provides web and news search via DuckDuckGo with support for region filtering, time ranges, and token optimization for AI assistants.",
+  "source_repo": "ericthered926/duckduckgo-mcp-server",
+  "source_url": "https://github.com/ericthered926/duckduckgo-mcp-server",
+  "install": "npx -y duckduckgo-mcp-server"
+}

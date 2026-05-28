@@ -1,0 +1,7 @@
+{
+  "name": "cail",
+  "description": "Schedule outbound calls, read transcription of incoming calls.",
+  "source_repo": "",
+  "source_url": "https://app.cail.io",
+  "install": "# git clone --depth 1 https://app.cail.io\n# See source for mcpServers config block"
+}

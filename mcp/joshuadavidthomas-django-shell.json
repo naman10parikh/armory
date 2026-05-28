@@ -1,0 +1,7 @@
+{
+  "name": "joshuadavidthomas-django-shell",
+  "description": "Provides a stateful Python shell environment specifically configured for Django development, enabling execution of Django ORM operations, model exploration, and application interaction through persistent sessions with intelligent formatting and comprehensive error handling.",
+  "source_repo": "joshuadavidthomas/mcp-django",
+  "source_url": "https://github.com/joshuadavidthomas/mcp-django",
+  "install": "# git clone --depth 1 https://github.com/joshuadavidthomas/mcp-django\n# See source for mcpServers config block"
+}

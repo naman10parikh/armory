@@ -1,0 +1,7 @@
+{
+  "name": "ovrsea",
+  "description": "Freight visibility and operations platform for logistics teams.",
+  "source_repo": "",
+  "source_url": "https://mcp.ovrsea.com",
+  "install": "# git clone --depth 1 https://mcp.ovrsea.com\n# See source for mcpServers config block"
+}

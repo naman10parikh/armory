@@ -1,0 +1,7 @@
+{
+  "name": "giuliocapecchi-sound",
+  "description": "Play desktop audio notifications and toast alerts from AI agents on Linux systems.",
+  "source_repo": "giuliocapecchi/sound-mcp",
+  "source_url": "https://github.com/giuliocapecchi/sound-mcp",
+  "install": "npx -y sound-mcp"
+}

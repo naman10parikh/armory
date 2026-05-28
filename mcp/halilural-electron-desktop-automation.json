@@ -1,0 +1,7 @@
+{
+  "name": "halilural-electron-desktop-automation",
+  "description": "Automates Electron desktop applications through Chrome DevTools Protocol integration, enabling screenshot capture, JavaScript execution, console monitoring, and window management with intelligent project detection and debugging configuration.",
+  "source_repo": "halilural/electron-mcp-server",
+  "source_url": "https://github.com/halilural/electron-mcp-server",
+  "install": "npx -y electron-mcp-server"
+}

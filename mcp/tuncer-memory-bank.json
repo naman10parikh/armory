@@ -1,0 +1,7 @@
+{
+  "name": "tuncer-memory-bank",
+  "description": "Structured documentation system that generates and maintains interconnected Markdown documents capturing project knowledge from high-level goals to technical details, with advanced search capabilities across all documents.",
+  "source_repo": "tuncer-byte/memory-bank-mcp",
+  "source_url": "https://github.com/tuncer-byte/memory-bank-mcp",
+  "install": "npx -y memory-bank-mcp"
+}

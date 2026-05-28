@@ -1,0 +1,7 @@
+{
+  "name": "huaqiu-electronics-kicad",
+  "description": "Exposes KiCad PCB and schematic editor capabilities as tools through a custom IPC API integration.",
+  "source_repo": "huaqiu-electronics/kicad-mcp",
+  "source_url": "https://github.com/huaqiu-electronics/kicad-mcp",
+  "install": "npx -y kicad-mcp"
+}

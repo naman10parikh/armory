@@ -1,0 +1,7 @@
+{
+  "name": "instanode",
+  "description": "MCP server for InstaNode that lets AI agents provision ephemeral Postgres databases and webhook receivers instantly without signup.",
+  "source_repo": "instanode-dev/mcp",
+  "source_url": "https://github.com/instanode-dev/mcp",
+  "install": "# git clone --depth 1 https://github.com/instanode-dev/mcp\n# See source for mcpServers config block"
+}

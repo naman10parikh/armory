@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-mcp",
+  "description": "Claude Code Mcp MCP server listed on mcp.so.",
+  "source_repo": "KunihiroS/claude-code-mcp",
+  "source_url": "https://mcp.so/server/claude-code-mcp/KunihiroS",
+  "install": "npx -y claude-code-mcp"
+}

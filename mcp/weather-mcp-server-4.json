@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-server-4",
+  "description": "Weather Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ankushmehta123/weather-mcp-server",
+  "source_url": "https://mcp.so/server/weather-mcp-server/ankushmehta123",
+  "install": "npx -y weather-mcp-server"
+}

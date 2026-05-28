@@ -1,0 +1,7 @@
+{
+  "name": "map-maraventano-agent-protocol",
+  "description": "MAP (Maraventano Agent Protocol). One MCP server with three subtractive parts — Merchant Key (read any product URL into one CleanRead), Atlas (publish your own catalog by reading yourself), Provisions (wallet curriculum), Teacher, not butler: never signs, pays, or holds keys.",
+  "source_repo": "maraventano/map",
+  "source_url": "https://github.com/maraventano/map",
+  "install": "# git clone --depth 1 https://github.com/maraventano/map\n# See source for mcpServers config block"
+}

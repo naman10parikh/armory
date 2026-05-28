@@ -1,0 +1,7 @@
+{
+  "name": "sqry",
+  "description": "AST-based semantic code search with 33 tools across 35 programming languages, supporting call tracing, impact analysis, and graph queries.",
+  "source_repo": "verivus-oss/sqry",
+  "source_url": "https://github.com/verivus-oss/sqry",
+  "install": "# git clone --depth 1 https://github.com/verivus-oss/sqry\n# See source for mcpServers config block"
+}

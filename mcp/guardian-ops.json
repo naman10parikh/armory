@@ -1,0 +1,7 @@
+{
+  "name": "guardian-ops",
+  "description": "Enables network vulnerability scanning and CVE detection through an AI assistant, with optional remote port blocking via Discord bot.",
+  "source_repo": "aryanrangapur/Vulnerability-Scanner-MCP-Server",
+  "source_url": "https://github.com/aryanrangapur/Vulnerability-Scanner-MCP-Server",
+  "install": "npx -y Vulnerability-Scanner-MCP-Server"
+}

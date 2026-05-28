@@ -1,0 +1,7 @@
+{
+  "name": "willheadlee-lgl",
+  "description": "Manages donors, gifts, and reports in Little Green Light nonprofit CRM via MCP.",
+  "source_repo": "willheadlee/little-green-light-mcp-server",
+  "source_url": "https://github.com/willheadlee/little-green-light-mcp-server",
+  "install": "npx -y little-green-light-mcp-server"
+}

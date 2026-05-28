@@ -1,0 +1,7 @@
+{
+  "name": "paulieb89-uk-legal",
+  "description": "UK legal research covering case law, legislation, Hansard, bills, parliamentary votes, and HMRC guidance.",
+  "source_repo": "paulieb89/uk-legal-mcp",
+  "source_url": "https://github.com/paulieb89/uk-legal-mcp",
+  "install": "npx -y uk-legal-mcp"
+}

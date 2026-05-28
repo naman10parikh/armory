@@ -1,0 +1,7 @@
+{
+  "name": "virgilio-murillo-kiro-investigation",
+  "description": "Orchestrates parallel multi-agent investigation workflows using kiro-cli.",
+  "source_repo": "virgilio-murillo/kiro-mcp-investigation",
+  "source_url": "https://github.com/virgilio-murillo/kiro-mcp-investigation",
+  "install": "# git clone --depth 1 https://github.com/virgilio-murillo/kiro-mcp-investigation\n# See source for mcpServers config block"
+}

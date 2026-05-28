@@ -1,0 +1,7 @@
+{
+  "name": "supremehyo-appium-android-automation",
+  "description": "Bridges natural language instructions to Appium mobile automation for controlling Android devices through automated testing workflows with device auto-detection, UI element parsing, and multi-step test scenario execution.",
+  "source_repo": "supremehyo/appium-mcp-claude-android",
+  "source_url": "https://github.com/supremehyo/appium-mcp-claude-android",
+  "install": "# git clone --depth 1 https://github.com/supremehyo/appium-mcp-claude-android\n# See source for mcpServers config block"
+}

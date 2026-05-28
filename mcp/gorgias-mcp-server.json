@@ -1,0 +1,7 @@
+{
+  "name": "gorgias-mcp-server",
+  "description": "Enables interaction with the Gorgias helpdesk API, providing tools to manage tickets, customers, and other helpdesk functionalities through natural language.",
+  "source_repo": "mattcoatsworth/Gorgias-MCP-Server",
+  "source_url": "https://github.com/mattcoatsworth/Gorgias-MCP-Server",
+  "install": "npx -y Gorgias-MCP-Server"
+}

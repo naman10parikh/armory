@@ -1,0 +1,7 @@
+{
+  "name": "gh-manancoder29-berlin-services",
+  "description": "Integration with Berlin.de city services for search, form discovery, filling, and PDF management.",
+  "source_repo": "manancoder29/berlin-services-mcp-server",
+  "source_url": "https://github.com/manancoder29/berlin-services-mcp-server",
+  "install": "npx -y berlin-services-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "incode",
+  "description": "Identity verification and KYC tools",
+  "source_repo": "incodetechnologies/incode-idv-mcp",
+  "source_url": "https://github.com/incodetechnologies/incode-idv-mcp",
+  "install": "npx -y incode-idv-mcp"
+}

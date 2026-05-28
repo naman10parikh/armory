@@ -1,0 +1,7 @@
+{
+  "name": "rhobimd-shebe",
+  "description": "BM25-based code search engine providing fast full-text search over code repositories using Tantivy with UTF-8 safe chunking, session-based indexing, and sub-2ms query latency.",
+  "source_repo": "shebe-oss/shebe",
+  "source_url": "https://github.com/shebe-oss/shebe",
+  "install": "# git clone --depth 1 https://github.com/shebe-oss/shebe\n# See source for mcpServers config block"
+}

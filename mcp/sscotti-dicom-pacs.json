@@ -1,0 +1,7 @@
+{
+  "name": "sscotti-dicom-pacs",
+  "description": "Integrates with Orthanc PACS servers and FHIR systems to provide DICOM query/retrieve operations, PDF text extraction from medical documents, and healthcare database connectivity for medical imaging workflows and radiology automation.",
+  "source_repo": "sscotti/dicom-mcp",
+  "source_url": "https://github.com/sscotti/dicom-mcp",
+  "install": "npx -y dicom-mcp"
+}

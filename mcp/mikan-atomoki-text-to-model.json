@@ -1,0 +1,7 @@
+{
+  "name": "mikan-atomoki-text-to-model",
+  "description": "Turn natural language into 3D models in Fusion 360. 64 CAD tools including sketches, extrudes, fillets, and JIS standard parts.",
+  "source_repo": "mikan-atomoki/text-to-model",
+  "source_url": "https://github.com/mikan-atomoki/text-to-model",
+  "install": "# git clone --depth 1 https://github.com/mikan-atomoki/text-to-model\n# See source for mcpServers config block"
+}

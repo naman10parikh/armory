@@ -1,0 +1,7 @@
+{
+  "name": "playwright-mcp-fetch",
+  "description": "Playwright Mcp Fetch MCP server listed on mcp.so.",
+  "source_repo": "kevinwatt/playwright-mcp-fetch",
+  "source_url": "https://mcp.so/server/playwright-mcp-fetch/kevinwatt",
+  "install": "# git clone --depth 1 https://mcp.so/server/playwright-mcp-fetch/kevinwatt\n# See source for mcpServers config block"
+}

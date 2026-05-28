@@ -1,0 +1,7 @@
+{
+  "name": "gh-pinealctx-openproject",
+  "description": "Go-based project management integration for OpenProject with comprehensive CRUD operations across projects, work packages, time tracking, boards, and notifications.",
+  "source_repo": "pinealctx/openproject-mcp",
+  "source_url": "https://github.com/pinealctx/openproject-mcp",
+  "install": "npx -y openproject-mcp"
+}

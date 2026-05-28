@@ -1,0 +1,7 @@
+{
+  "name": "zalab-mysql",
+  "description": "Enables direct interaction with MySQL databases through TypeScript tools for executing SQL queries, checking connectivity, and managing database operations with robust error handling.",
+  "source_repo": "zalab-inc/mcp-mysql-app",
+  "source_url": "https://github.com/zalab-inc/mcp-mysql-app",
+  "install": "# git clone --depth 1 https://github.com/zalab-inc/mcp-mysql-app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "acp-to-mcp-adapter",
+  "description": "Bridges Agent Communication Protocol (ACP) agents with Model Context Protocol (MCP) applications, allowing MCP clients such as Claude Desktop to discover and invoke ACP agents as tools and resources.",
+  "source_repo": "i-am-bee/acp-mcp",
+  "source_url": "https://github.com/i-am-bee/acp-mcp",
+  "install": "npx -y acp-mcp"
+}

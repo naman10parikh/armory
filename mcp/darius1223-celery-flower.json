@@ -1,0 +1,7 @@
+{
+  "name": "darius1223-celery-flower",
+  "description": "MCP server exposing all 21 Celery Flower REST API endpoints for monitoring workers, tasks, and queues.",
+  "source_repo": "darius1223/celery-flower-mcp",
+  "source_url": "https://github.com/darius1223/celery-flower-mcp",
+  "install": "npx -y celery-flower-mcp"
+}

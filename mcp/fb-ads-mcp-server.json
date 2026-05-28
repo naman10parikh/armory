@@ -1,0 +1,7 @@
+{
+  "name": "fb-ads-mcp-server",
+  "description": "This project provides an MCP server acting as an interface to the Meta Ads, enabling programmatic access to Meta Ads data and management features.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/marketing/facebook-ads-mcp-server.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/marketing/facebook-ads-mcp-server.json\n# See source for mcpServers config block"
+}

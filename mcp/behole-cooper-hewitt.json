@@ -1,0 +1,7 @@
+{
+  "name": "behole-cooper-hewitt",
+  "description": "Integrates with Cooper Hewitt Museum's collection API to enable searching and retrieving detailed information about artifacts for art research and cultural analysis.",
+  "source_repo": "behole/cooper-hewitt-mcp",
+  "source_url": "https://github.com/behole/cooper-hewitt-mcp",
+  "install": "npx -y cooper-hewitt-mcp"
+}

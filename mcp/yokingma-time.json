@@ -1,0 +1,7 @@
+{
+  "name": "yokingma-time",
+  "description": "Temporal awareness tools for timezone conversion, timestamps, and calendar calculations",
+  "source_repo": "yokingma/time-mcp",
+  "source_url": "https://github.com/yokingma/time-mcp",
+  "install": "npx -y time-mcp"
+}

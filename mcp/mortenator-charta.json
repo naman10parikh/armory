@@ -1,0 +1,7 @@
+{
+  "name": "mortenator-charta",
+  "description": "Generate presentation-ready charts in SVG and PNG format with 14 chart types including waterfall, mekko, and radar.",
+  "source_repo": "mortenator/charta-mcp",
+  "source_url": "https://github.com/mortenator/charta-mcp",
+  "install": "npx -y charta-mcp"
+}

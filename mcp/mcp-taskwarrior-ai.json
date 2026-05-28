@@ -1,0 +1,7 @@
+{
+  "name": "mcp-taskwarrior-ai",
+  "description": "An AI-native Taskwarrior bridge that provides natural language task management for Claude Code and other AI systems, integrating with existing Taskwarrior infrastructure.",
+  "source_repo": "storypixel/mcp-taskwarrior-ai",
+  "source_url": "https://github.com/storypixel/mcp-taskwarrior-ai",
+  "install": "# git clone --depth 1 https://github.com/storypixel/mcp-taskwarrior-ai\n# See source for mcpServers config block"
+}

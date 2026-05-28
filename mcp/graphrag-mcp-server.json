@@ -1,0 +1,7 @@
+{
+  "name": "graphrag-mcp-server",
+  "description": "Enables graph-powered semantic search over the Grand Débat National dataset, providing fast, transparent answers with provenance tracing back to citizen contributions.",
+  "source_repo": "ArthurSrz/graphRAGmcp",
+  "source_url": "https://github.com/ArthurSrz/graphRAGmcp",
+  "install": "# git clone --depth 1 https://github.com/ArthurSrz/graphRAGmcp\n# See source for mcpServers config block"
+}

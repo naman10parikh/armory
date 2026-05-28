@@ -1,0 +1,7 @@
+{
+  "name": "ledgermem-mcp-server",
+  "description": "Enables persistent memory storage and retrieval for MCP clients, allowing AI assistants to remember facts and context across conversations.",
+  "source_repo": "ledgermem/getmnemo-mcp",
+  "source_url": "https://github.com/ledgermem/getmnemo-mcp",
+  "install": "npx -y getmnemo-mcp"
+}

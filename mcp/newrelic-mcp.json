@@ -1,0 +1,7 @@
+{
+  "name": "newrelic-mcp",
+  "description": "A command-line tool for monitoring and analyzing New Relic application metrics using MCP.",
+  "source_repo": "neoai-agent/newrelic-mcp",
+  "source_url": "https://github.com/neoai-agent/newrelic-mcp",
+  "install": "npx -y newrelic-mcp"
+}

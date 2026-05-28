@@ -1,0 +1,7 @@
+{
+  "name": "commitshow-audit",
+  "description": "MCP server that scores any public GitHub repository against the commit.show audit rubric.",
+  "source_repo": "commitshow/cli",
+  "source_url": "https://github.com/commitshow/cli/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/commitshow/cli/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

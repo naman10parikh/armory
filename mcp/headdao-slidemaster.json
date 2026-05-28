@@ -1,0 +1,7 @@
+{
+  "name": "headdao-slidemaster",
+  "description": "Create AI-powered presentation videos with slides, narration, and export from a simple topic.",
+  "source_repo": "headdao/slidemaster-mcp",
+  "source_url": "https://github.com/headdao/slidemaster-mcp",
+  "install": "npx -y slidemaster-mcp"
+}

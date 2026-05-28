@@ -1,0 +1,7 @@
+{
+  "name": "claude-bridge-mcp",
+  "description": "An MCP server that exposes your local Claude Code CLI over HTTP+SSE, enabling any MCP-compatible client to use your Claude Code MAX/PRO subscription remotely.",
+  "source_repo": "0motionguy/claude-bridge-mcp",
+  "source_url": "https://github.com/0motionguy/claude-bridge-mcp",
+  "install": "npx -y claude-bridge-mcp"
+}

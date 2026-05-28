@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-python-template",
+  "description": "Mcp Server Python Template MCP server listed on mcp.so.",
+  "source_repo": "sontallive/mcp-server-python-template",
+  "source_url": "https://mcp.so/server/mcp-server-python-template/sontallive",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-python-template/sontallive\n# See source for mcpServers config block"
+}

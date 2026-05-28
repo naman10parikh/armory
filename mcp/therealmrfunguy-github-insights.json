@@ -1,0 +1,7 @@
+{
+  "name": "therealmrfunguy-github-insights",
+  "description": "GitHub repository analytics, trending repos, contributor statistics, and language breakdowns.",
+  "source_repo": "",
+  "source_url": "https://github.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://github.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

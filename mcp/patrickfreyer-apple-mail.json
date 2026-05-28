@@ -1,0 +1,7 @@
+{
+  "name": "patrickfreyer-apple-mail",
+  "description": "Integrates with Apple Mail through AppleScript automation to provide complete email management including unified search, batch operations, conversation threading, draft management, and analytics via natural language commands.",
+  "source_repo": "patrickfreyer/apple-mail-mcp",
+  "source_url": "https://github.com/patrickfreyer/apple-mail-mcp",
+  "install": "npx -y apple-mail-mcp"
+}

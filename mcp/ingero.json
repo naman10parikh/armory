@@ -1,0 +1,7 @@
+{
+  "name": "ingero",
+  "description": "GPU causal observability agent using eBPF to trace CUDA runtime/driver calls, kernel events, and system metrics with automated root cause analysis.",
+  "source_repo": "ingero-io/ingero",
+  "source_url": "https://github.com/ingero-io/ingero",
+  "install": "# git clone --depth 1 https://github.com/ingero-io/ingero\n# See source for mcpServers config block"
+}

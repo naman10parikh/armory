@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-pyright",
+  "description": "Exposes Pyright language server functionality for Python type checking, hover info, completions, and code navigation.",
+  "source_repo": "daedalus/mcp-pyright",
+  "source_url": "https://github.com/daedalus/mcp-pyright",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-pyright\n# See source for mcpServers config block"
+}

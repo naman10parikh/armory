@@ -1,0 +1,7 @@
+{
+  "name": "icost-app-mcp-server",
+  "description": "MCP server for iCost iOS app that enables smart expense tracking, category management, and account operations through natural language, supporting multiple account types and currencies.",
+  "source_repo": "TooLife/icost-app-mcp-server",
+  "source_url": "https://github.com/TooLife/icost-app-mcp-server",
+  "install": "npx -y icost-app-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sarfraznawaz2005-windows-screenshot",
+  "description": "Captures Windows desktop screenshots through full-screen and interactive region selection modes, automatically saving timestamped images and optionally embedding them as base64 data for visual content analysis.",
+  "source_repo": "sarfraznawaz2005/mcp-windows-screenshot",
+  "source_url": "https://github.com/sarfraznawaz2005/mcp-windows-screenshot",
+  "install": "# git clone --depth 1 https://github.com/sarfraznawaz2005/mcp-windows-screenshot\n# See source for mcpServers config block"
+}

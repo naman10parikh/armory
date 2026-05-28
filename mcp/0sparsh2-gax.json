@@ -1,0 +1,7 @@
+{
+  "name": "0sparsh2-gax",
+  "description": "Provides a CLI ergonomics framework for AI agents with an MCP bridge adapter and lazy tool discovery.",
+  "source_repo": "0sparsh2/gax",
+  "source_url": "https://github.com/0sparsh2/gax",
+  "install": "# git clone --depth 1 https://github.com/0sparsh2/gax\n# See source for mcpServers config block"
+}

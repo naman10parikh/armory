@@ -1,0 +1,7 @@
+{
+  "name": "cornmankl-whatsapp-business-bot",
+  "description": "Automates WhatsApp Business messaging with AI-powered chat responses, broadcast management, scheduled messages, auto-responses, chat flows, group management, and analytics through web dashboard integration.",
+  "source_repo": "cornmankl/whatsapp-bot-mcp",
+  "source_url": "https://github.com/cornmankl/whatsapp-bot-mcp",
+  "install": "npx -y whatsapp-bot-mcp"
+}

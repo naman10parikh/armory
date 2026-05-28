@@ -1,0 +1,7 @@
+{
+  "name": "razroo-state-trace",
+  "description": "Bounded working-memory system for coding agents with typed memories, causal retrieval, and compact briefs.",
+  "source_repo": "agent-pattern-labs/state-trace",
+  "source_url": "https://github.com/agent-pattern-labs/state-trace",
+  "install": "# git clone --depth 1 https://github.com/agent-pattern-labs/state-trace\n# See source for mcpServers config block"
+}

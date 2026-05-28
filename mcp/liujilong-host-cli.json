@@ -1,0 +1,7 @@
+{
+  "name": "liujilong-host-cli",
+  "description": "Command-line tool for creating and managing MCP hosts with streamlined setup for developers integrating AI capabilities into applications.",
+  "source_repo": "liujilongobject/mcp-host-use",
+  "source_url": "https://github.com/liujilongobject/mcp-host-use",
+  "install": "# git clone --depth 1 https://github.com/liujilongobject/mcp-host-use\n# See source for mcpServers config block"
+}

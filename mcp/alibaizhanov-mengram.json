@@ -1,0 +1,7 @@
+{
+  "name": "alibaizhanov-mengram",
+  "description": "Human-like memory layer for AI agents with semantic, episodic, and procedural memory. Claude Code hooks (auto-save, auto-recall, cognitive profile). 29 MCP tools, knowledge graph, smart triggers, multi-user isolation. Python & JS SDKs.",
+  "source_repo": "alibaizhanov/mengram",
+  "source_url": "https://github.com/alibaizhanov/mengram",
+  "install": "# git clone --depth 1 https://github.com/alibaizhanov/mengram\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rushtothesun-dreampoebot-eval",
+  "description": "Enables AI agents to execute C# scripts and inspect type definitions within the DreamPoeBot Path of Exile automation framework.",
+  "source_repo": "rushtothesun/dpbmcpeval",
+  "source_url": "https://github.com/rushtothesun/dpbmcpeval",
+  "install": "# git clone --depth 1 https://github.com/rushtothesun/dpbmcpeval\n# See source for mcpServers config block"
+}

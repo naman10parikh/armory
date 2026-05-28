@@ -1,0 +1,7 @@
+{
+  "name": "smart-crypto-portfolio-manager",
+  "description": "A sophisticated multi-agent system for intelligent cryptocurrency portfolio management using A2A communication",
+  "source_repo": "tonycai/smart_crypto_portfolio_manager",
+  "source_url": "https://github.com/tonycai/smart_crypto_portfolio_manager",
+  "install": "# git clone --depth 1 https://github.com/tonycai/smart_crypto_portfolio_manager\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pentagonal",
+  "description": "**AI-powered smart contract forge** with an 8-agent adversarial security audit system. ### Tools | Tool | Cost | |---|---| | `pentagonal_audit` — 8-agent security pen test | $5 | | `pentagonal_generate` — contracts from natural language | $5 | | `pentagonal_fix` — fix vulnerabilities | Free | | `pen",
+  "source_repo": "",
+  "source_url": "https://pentagonal.ai",
+  "install": "# git clone --depth 1 https://pentagonal.ai\n# See source for mcpServers config block"
+}

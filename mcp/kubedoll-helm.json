@@ -1,0 +1,7 @@
+{
+  "name": "kubedoll-helm",
+  "description": "Read-only Helm chart data including versions, values schemas, dependencies, and release notes.",
+  "source_repo": "kubedoll-heavy-industries/helm-mcp",
+  "source_url": "https://github.com/kubedoll-heavy-industries/helm-mcp",
+  "install": "npx -y helm-mcp"
+}

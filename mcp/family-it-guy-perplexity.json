@@ -1,0 +1,7 @@
+{
+  "name": "family-it-guy-perplexity",
+  "description": "Connects Claude Desktop to Perplexity AI's language models through a lightweight proxy, offering web search capabilities with llama-3.1-sonar-small-128k-online and multi-turn conversations with mixtral-8x7b-instruct.",
+  "source_repo": "family-it-guy/perplexity-mcp",
+  "source_url": "https://github.com/family-it-guy/perplexity-mcp",
+  "install": "npx -y perplexity-mcp"
+}

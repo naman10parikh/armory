@@ -1,0 +1,7 @@
+{
+  "name": "bidsparq",
+  "description": "Search U.S. federal, state, and local RFPs, subaward primes, pricing, and vendor data.",
+  "source_repo": "n0edlg/bidsparq-mcp-server",
+  "source_url": "https://github.com/n0edlg/bidsparq-mcp-server",
+  "install": "npx -y bidsparq-mcp-server"
+}

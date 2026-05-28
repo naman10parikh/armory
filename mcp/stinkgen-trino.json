@@ -1,0 +1,7 @@
+{
+  "name": "stinkgen-trino",
+  "description": "Integrates with Trino databases to enable natural language querying, data analysis, and SQL execution via a FastAPI-based REST interface.",
+  "source_repo": "stinkgen/trino_mcp",
+  "source_url": "https://github.com/stinkgen/trino_mcp",
+  "install": "npx -y trino_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sheshiyer-deepseek",
+  "description": "Integrates with the DeepSeek API to provide code generation, completion, and optimization across multiple languages using tool chaining and caching strategies.",
+  "source_repo": "sheshiyer/deepseek-mcp-with-moe",
+  "source_url": "https://github.com/sheshiyer/deepseek-mcp-with-moe",
+  "install": "# git clone --depth 1 https://github.com/sheshiyer/deepseek-mcp-with-moe\n# See source for mcpServers config block"
+}

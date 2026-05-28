@@ -1,0 +1,7 @@
+{
+  "name": "bh-rat-context-awesome",
+  "description": "MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.",
+  "source_repo": "bh-rat/context-awesome",
+  "source_url": "https://github.com/bh-rat/context-awesome",
+  "install": "# git clone --depth 1 https://github.com/bh-rat/context-awesome\n# See source for mcpServers config block"
+}

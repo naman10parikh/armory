@@ -1,0 +1,7 @@
+{
+  "name": "florinvica-msbuild-graph",
+  "description": "Performs static analysis on MSBuild solutions to visualize project dependency graphs.",
+  "source_repo": "florinvica/msbuild-graph-mcp",
+  "source_url": "https://github.com/florinvica/msbuild-graph-mcp",
+  "install": "npx -y msbuild-graph-mcp"
+}

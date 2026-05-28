@@ -1,0 +1,7 @@
+{
+  "name": "rckl88-seracade",
+  "description": "Drop-in OpenAI-compatible routing proxy that audits LLM costs and routes to cheapest quality models.",
+  "source_repo": "rckl88/seracade",
+  "source_url": "https://github.com/rckl88/seracade",
+  "install": "# git clone --depth 1 https://github.com/rckl88/seracade\n# See source for mcpServers config block"
+}

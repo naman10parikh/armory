@@ -1,0 +1,7 @@
+{
+  "name": "ipayx-stellar-fx-audit",
+  "description": "Forensic FX audit tool that detects hidden bank markups in foreign exchange transactions.",
+  "source_repo": "",
+  "source_url": "https://wild-bird-a412.ybolduc.workers.dev/mcp",
+  "install": "# git clone --depth 1 https://wild-bird-a412.ybolduc.workers.dev/mcp\n# See source for mcpServers config block"
+}

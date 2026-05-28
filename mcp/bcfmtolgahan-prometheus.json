@@ -1,0 +1,7 @@
+{
+  "name": "bcfmtolgahan-prometheus",
+  "description": "Production-grade Prometheus integration providing specialized tools for monitoring operations, query execution, alert management, target monitoring, anomaly detection, capacity forecasting, SRE golden signals calculation, and PromQL optimization.",
+  "source_repo": "bcfmtolgahan/prometheus-mcp-server",
+  "source_url": "https://github.com/bcfmtolgahan/prometheus-mcp-server",
+  "install": "npx -y prometheus-mcp-server"
+}

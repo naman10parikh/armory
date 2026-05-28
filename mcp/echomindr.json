@@ -1,0 +1,7 @@
+{
+  "name": "echomindr",
+  "description": "Search real founder decisions, lessons, and signals from 100+ startup podcasts.",
+  "source_repo": "echomindr/echomindr",
+  "source_url": "https://github.com/echomindr/echomindr",
+  "install": "# git clone --depth 1 https://github.com/echomindr/echomindr\n# See source for mcpServers config block"
+}

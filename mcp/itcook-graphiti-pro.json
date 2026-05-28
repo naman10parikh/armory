@@ -1,0 +1,7 @@
+{
+  "name": "itcook-graphiti-pro",
+  "description": "Provides persistent memory capabilities through Neo4j knowledge graphs with episode-based storage, entity relationship tracking, semantic search, and a web dashboard for managing memory operations across conversations.",
+  "source_repo": "itcook/graphiti-mcp-pro",
+  "source_url": "https://github.com/itcook/graphiti-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/itcook/graphiti-mcp-pro\n# See source for mcpServers config block"
+}

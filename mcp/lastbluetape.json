@@ -1,0 +1,7 @@
+{
+  "name": "lastbluetape",
+  "description": "Construction punch list management service for creating lists, tracking items, and sharing progress with teams.",
+  "source_repo": "vulkanr/lastbluetape-mcp",
+  "source_url": "https://github.com/vulkanr/lastbluetape-mcp",
+  "install": "npx -y lastbluetape-mcp"
+}

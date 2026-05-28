@@ -1,0 +1,7 @@
+{
+  "name": "chasewnorton-shopify-admin",
+  "description": "Production-grade MCP server for Shopify Admin GraphQL API with schema-driven tools and cost-aware throttling.",
+  "source_repo": "chasewnorton/shopify-admin-mcp",
+  "source_url": "https://github.com/chasewnorton/shopify-admin-mcp",
+  "install": "npx -y shopify-admin-mcp"
+}

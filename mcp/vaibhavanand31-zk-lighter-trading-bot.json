@@ -1,0 +1,7 @@
+{
+  "name": "vaibhavanand31-zk-lighter-trading-bot",
+  "description": "Integrates with ZK Lighter protocol for automated cryptocurrency trading on BTC, ETH, SOL, and HYPE markets using technical analysis indicators, position management, and confidence-based trade execution for algorithmic trading strategies and portfolio management on decentralized exchanges.",
+  "source_repo": "vaibhavanand31/trading_mcp_server",
+  "source_url": "https://github.com/vaibhavanand31/trading_mcp_server",
+  "install": "npx -y trading_mcp_server"
+}

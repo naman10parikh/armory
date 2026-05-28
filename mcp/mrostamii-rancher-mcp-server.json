@@ -1,0 +1,7 @@
+{
+  "name": "mrostamii-rancher-mcp-server",
+  "description": "/🏠 - MCP server for the Rancher ecosystem with multi-cluster Kubernetes operations, Harvester HCI management (VMs, storage, networks), and Fleet GitOps tooling.",
+  "source_repo": "mrostamii/rancher-mcp-server",
+  "source_url": "https://github.com/mrostamii/rancher-mcp-server",
+  "install": "npx -y rancher-mcp-server"
+}

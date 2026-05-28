@@ -1,0 +1,7 @@
+{
+  "name": "xlisp-termux",
+  "description": "Enables remote control of Android devices running Termux via SSH, providing tools for UI automation, device management, communication, media capture, and file operations.",
+  "source_repo": "xlisp/termux-mcp-server",
+  "source_url": "https://github.com/xlisp/termux-mcp-server",
+  "install": "npx -y termux-mcp-server"
+}

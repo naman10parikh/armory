@@ -1,0 +1,7 @@
+{
+  "name": "zip-compression",
+  "description": "Enables direct file compression and decompression operations using ZIP format through fastMCP and zip.js utilities for efficient file handling within conversations.",
+  "source_repo": "7gugu/zip-mcp",
+  "source_url": "https://github.com/7gugu/zip-mcp",
+  "install": "npx -y zip-mcp"
+}

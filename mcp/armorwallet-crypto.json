@@ -1,0 +1,7 @@
+{
+  "name": "armorwallet-crypto",
+  "description": "Enables direct blockchain operations, crypto trading, and wallet management through the Armor Wallet API with JWT authentication and detailed logging for portfolio monitoring and trading strategy execution.",
+  "source_repo": "armorwallet/armor-crypto-mcp",
+  "source_url": "https://github.com/armorwallet/armor-crypto-mcp",
+  "install": "npx -y armor-crypto-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hsk-mcp",
+  "description": "A remote Model Context Protocol (MCP) server that gives AI assistants structured access to the complete HSK Chinese vocabulary dataset. It exposes 13 tools and 8 resources covering word lookup, transcription conversion, frequency analysis, study set generation, and more. 11,470 headwords / 12,623 pr",
+  "source_repo": "kuibinlin/hsk-mcp-server",
+  "source_url": "https://github.com/kuibinlin/hsk-mcp-server",
+  "install": "npx -y hsk-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bjoernbonk-letsbonk",
+  "description": "Enables token creation and management on the Solana blockchain through the LetsBonk launchpad, handling IPFS metadata, image uploads, and Raydium integration for seamless meme token launches.",
+  "source_repo": "bjoernbonk/letsbonk_mcp_server",
+  "source_url": "https://github.com/bjoernbonk/letsbonk_mcp_server",
+  "install": "npx -y letsbonk_mcp_server"
+}

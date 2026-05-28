@@ -1,0 +1,7 @@
+{
+  "name": "mcp-longbridge",
+  "description": "Mcp Longbridge MCP server listed on mcp.so.",
+  "source_repo": "baranwang/mcp-longbridge",
+  "source_url": "https://mcp.so/server/mcp-longbridge/baranwang",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-longbridge/baranwang\n# See source for mcpServers config block"
+}

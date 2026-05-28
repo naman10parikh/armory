@@ -1,0 +1,7 @@
+{
+  "name": "theaisingularity-agentic-research-engine",
+  "description": "Local research agent that retrieves, synthesizes, and self-verifies answers at zero per-query cost.",
+  "source_repo": "theaisingularity/agentic-research-engine-oss",
+  "source_url": "https://github.com/theaisingularity/agentic-research-engine-oss",
+  "install": "# git clone --depth 1 https://github.com/theaisingularity/agentic-research-engine-oss\n# See source for mcpServers config block"
+}

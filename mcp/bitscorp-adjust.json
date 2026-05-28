@@ -1,0 +1,7 @@
+{
+  "name": "bitscorp-adjust",
+  "description": "Integrates with Adjust API to enable natural language queries for marketing analytics data, including campaign performance metrics and reports without leaving your chat interface.",
+  "source_repo": "bitscorp-mcp/mcp-adjust",
+  "source_url": "https://github.com/bitscorp-mcp/mcp-adjust",
+  "install": "# git clone --depth 1 https://github.com/bitscorp-mcp/mcp-adjust\n# See source for mcpServers config block"
+}

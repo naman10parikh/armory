@@ -1,0 +1,7 @@
+{
+  "name": "philosolares-roam-research",
+  "description": "Integrates with Roam Research to enable searching, creating, and managing knowledge base content with features like block search, page creation, and YouTube transcript retrieval",
+  "source_repo": "philosolares/roam-mcp",
+  "source_url": "https://github.com/philosolares/roam-mcp",
+  "install": "npx -y roam-mcp"
+}

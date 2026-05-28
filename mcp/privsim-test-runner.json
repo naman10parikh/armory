@@ -1,0 +1,7 @@
+{
+  "name": "privsim-test-runner",
+  "description": "Unifies test execution and result processing across multiple frameworks for streamlined cross-language testing and analysis.",
+  "source_repo": "privsim/mcp-test-runner",
+  "source_url": "https://github.com/privsim/mcp-test-runner",
+  "install": "# git clone --depth 1 https://github.com/privsim/mcp-test-runner\n# See source for mcpServers config block"
+}

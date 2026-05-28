@@ -1,0 +1,7 @@
+{
+  "name": "contextstream",
+  "description": "Persistent memory and semantic search for AI coding assistants",
+  "source_repo": "contextstream/mcp-server",
+  "source_url": "https://github.com/contextstream/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/contextstream/mcp-server\n# See source for mcpServers config block"
+}

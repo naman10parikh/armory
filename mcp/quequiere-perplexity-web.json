@@ -1,0 +1,7 @@
+{
+  "name": "quequiere-perplexity-web",
+  "description": "Provides web search capabilities through Perplexity.ai using Playwright browser automation, returning answers with source citations without requiring an API key.",
+  "source_repo": "quequiere/perplexity-web-mcp",
+  "source_url": "https://github.com/quequiere/perplexity-web-mcp",
+  "install": "npx -y perplexity-web-mcp"
+}

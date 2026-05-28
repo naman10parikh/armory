@@ -1,0 +1,7 @@
+{
+  "name": "comfy-ui-builder",
+  "description": "ComfyUI MCP server with knowledge base, workflow builder, real-time execution, and model/plugin management.",
+  "source_repo": "mit9/mcp-comfy-ui-builder",
+  "source_url": "https://github.com/mit9/mcp-comfy-ui-builder",
+  "install": "# git clone --depth 1 https://github.com/mit9/mcp-comfy-ui-builder\n# See source for mcpServers config block"
+}

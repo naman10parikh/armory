@@ -1,0 +1,7 @@
+{
+  "name": "mickae1-homebox",
+  "description": "Enables interaction with Homebox home inventory management for searching items and listing storage locations.",
+  "source_repo": "mickae1/homebox-mcp",
+  "source_url": "https://github.com/mickae1/homebox-mcp",
+  "install": "npx -y homebox-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "huayinghuo-unreal-editor",
+  "description": "Control Unreal Engine 5.3 editor via 58 MCP operations for actors, Blueprints, and widgets.",
+  "source_repo": "huayinghuo/uneraleditormcp",
+  "source_url": "https://github.com/huayinghuo/uneraleditormcp",
+  "install": "# git clone --depth 1 https://github.com/huayinghuo/uneraleditormcp\n# See source for mcpServers config block"
+}

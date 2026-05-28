@@ -1,0 +1,7 @@
+{
+  "name": "lsp-tools-mcp",
+  "description": "Lsp Tools Mcp MCP server listed on mcp.so.",
+  "source_repo": "rajnaveen344/lsp-tools-mcp",
+  "source_url": "https://mcp.so/server/lsp-tools-mcp/rajnaveen344",
+  "install": "npx -y lsp-tools-mcp"
+}

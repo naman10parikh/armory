@@ -1,0 +1,7 @@
+{
+  "name": "ks-gen-ai-confluence",
+  "description": "Integrates with Confluence's API to execute CQL queries and retrieve page content, enabling efficient search and access of wiki information.",
+  "source_repo": "ks-gen-ai/confluence-mcp-server",
+  "source_url": "https://github.com/ks-gen-ai/confluence-mcp-server",
+  "install": "npx -y confluence-mcp-server"
+}

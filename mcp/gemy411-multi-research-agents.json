@@ -1,0 +1,7 @@
+{
+  "name": "gemy411-multi-research-agents",
+  "description": "a KTOR server/ MCP server written in Kotlin applying multi-agents schools in a flexible research system to be used with coding or for research any general case.",
+  "source_repo": "gemy411/multi-agents-research",
+  "source_url": "https://github.com/gemy411/multi-agents-research",
+  "install": "# git clone --depth 1 https://github.com/gemy411/multi-agents-research\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pbs-mcp",
+  "description": "MCP server for Proxmox Backup Server. Exposes datastore status, snapshot inventory, garbage collection, verify, and prune over the PBS REST API as 13 LLM-callable tools.",
+  "source_repo": "ahmetem/pbs-mcp",
+  "source_url": "https://github.com/ahmetem/pbs-mcp",
+  "install": "npx -y pbs-mcp"
+}

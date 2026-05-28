@@ -1,0 +1,7 @@
+{
+  "name": "gaoharimran29-glitch-cybersecurity-mcp-server",
+  "description": "Cybersecurity reconnaissance server for Claude. WHOIS lookup, DNS enumeration with subdomain brute-forcing, Nmap port scanning with service detection, SSL/TLS certificate inspection, technology stack fingerprinting, CVE lookup, and IP reputation checking. Runs fully locally via FastMCP.",
+  "source_repo": "gaoharimran29-glitch/Cybersecurity-MCP-Server",
+  "source_url": "https://github.com/gaoharimran29-glitch/Cybersecurity-MCP-Server",
+  "install": "npx -y Cybersecurity-MCP-Server"
+}

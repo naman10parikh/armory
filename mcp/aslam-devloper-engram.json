@@ -1,0 +1,7 @@
+{
+  "name": "aslam-devloper-engram",
+  "description": "Persistent memory system for AI tools that preserves project knowledge, rules, and skills across sessions.",
+  "source_repo": "aslam-devloper/engram-mcp",
+  "source_url": "https://github.com/aslam-devloper/engram-mcp",
+  "install": "npx -y engram-mcp"
+}

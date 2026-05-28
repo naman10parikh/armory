@@ -1,0 +1,7 @@
+{
+  "name": "make",
+  "description": "Connects AI systems to Make automation workflows, enabling assistants to trigger scenarios with parameters and receive structured JSON output from your existing Make account.",
+  "source_repo": "integromat/make-mcp-server",
+  "source_url": "https://github.com/integromat/make-mcp-server",
+  "install": "npx -y make-mcp-server"
+}

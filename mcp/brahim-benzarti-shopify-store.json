@@ -1,0 +1,7 @@
+{
+  "name": "brahim-benzarti-shopify-store",
+  "description": "Connects to live Shopify stores via Admin and Storefront APIs for real-time store operations, inventory management, bulk operations, and customer service workflows.",
+  "source_repo": "brahim-benzarti/shopify_store-mcp",
+  "source_url": "https://github.com/brahim-benzarti/shopify_store-mcp",
+  "install": "npx -y shopify_store-mcp"
+}

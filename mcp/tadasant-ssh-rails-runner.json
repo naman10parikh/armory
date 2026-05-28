@@ -1,0 +1,7 @@
+{
+  "name": "tadasant-ssh-rails-runner",
+  "description": "Enables safe remote execution of Rails console commands via SSH for efficient data operations and administrative tasks on production Rails applications.",
+  "source_repo": "tadasant/mcp-server-ssh-rails-runner",
+  "source_url": "https://github.com/tadasant/mcp-server-ssh-rails-runner",
+  "install": "# git clone --depth 1 https://github.com/tadasant/mcp-server-ssh-rails-runner\n# See source for mcpServers config block"
+}

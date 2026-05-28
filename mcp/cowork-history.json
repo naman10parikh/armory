@@ -1,0 +1,7 @@
+{
+  "name": "cowork-history",
+  "description": "Hybrid search for Claude conversation history using full-text search, Spotlight, and semantic vector embeddings.",
+  "source_repo": "egoughnour/cowork-history",
+  "source_url": "https://github.com/egoughnour/cowork-history",
+  "install": "# git clone --depth 1 https://github.com/egoughnour/cowork-history\n# See source for mcpServers config block"
+}

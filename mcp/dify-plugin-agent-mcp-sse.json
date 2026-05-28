@@ -1,0 +1,7 @@
+{
+  "name": "dify-plugin-agent-mcp-sse",
+  "description": "Dify Plugin Agent Mcp_sse MCP server listed on mcp.so.",
+  "source_repo": "junjiem/dify-plugin-agent-mcp_sse",
+  "source_url": "https://mcp.so/server/dify-plugin-agent-mcp_sse/junjiem",
+  "install": "# git clone --depth 1 https://mcp.so/server/dify-plugin-agent-mcp_sse/junjiem\n# See source for mcpServers config block"
+}

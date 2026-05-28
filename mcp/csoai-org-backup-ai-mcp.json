@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-backup-ai-mcp",
+  "description": "AI-assisted backup strategy and data recovery coordination tools.",
+  "source_repo": "csoai-org/backup-ai-mcp",
+  "source_url": "https://github.com/csoai-org/backup-ai-mcp",
+  "install": "npx -y backup-ai-mcp"
+}

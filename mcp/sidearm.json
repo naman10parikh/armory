@@ -1,0 +1,7 @@
+{
+  "name": "sidearm",
+  "description": "Protect media using watermarking, content disruption, and adversarial hardening algorithms. Verify provenance, detect synthetic content, and perform similarity searches across digital libraries. Manage digital rights and track media history through detailed audit chains.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/sidearmdrm/sidearm",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/sidearmdrm/sidearm\n# See source for mcpServers config block"
+}

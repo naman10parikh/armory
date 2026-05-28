@@ -1,0 +1,7 @@
+{
+  "name": "google-search-console-mcp-server-2",
+  "description": "Provides programmatic access to Google Search Console API data through Claude Code and Cursor, enabling search analytics, sitemap info, URL inspection, and indexing submission.",
+  "source_repo": "Shin-sibainu/google-search-console-mcp-server",
+  "source_url": "https://github.com/Shin-sibainu/google-search-console-mcp-server",
+  "install": "npx -y google-search-console-mcp-server"
+}

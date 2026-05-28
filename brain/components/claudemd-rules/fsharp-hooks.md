@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [fsharp-coding-style, fsharp-patterns]
-tags: [ecc, rules, fsharp]
+tags: [rules, fsharp]
 ---
 ## What it is
 fsharp rule: apply when working on fsharp and you need F# Hooks.

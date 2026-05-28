@@ -1,0 +1,7 @@
+{
+  "name": "delimit",
+  "description": "API governance toolkit with breaking change detection, security audit, persistent task ledger, and multi-model consensus for AI coding assistants.",
+  "source_repo": "delimit-ai/delimit-mcp-server",
+  "source_url": "https://github.com/delimit-ai/delimit-mcp-server",
+  "install": "npx -y delimit-mcp-server"
+}

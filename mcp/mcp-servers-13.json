@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-13",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "MasatoraAtarashi/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/MasatoraAtarashi",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/MasatoraAtarashi\n# See source for mcpServers config block"
+}

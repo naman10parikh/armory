@@ -1,0 +1,7 @@
+{
+  "name": "krupalp525-fledge-iot",
+  "description": "Bridges the Fledge IoT platform with natural language interfaces for sensor data access, system management, and real-time visualization through WebSocket streaming and containerized deployment.",
+  "source_repo": "krupalp525/fledge-mcp",
+  "source_url": "https://github.com/krupalp525/fledge-mcp",
+  "install": "npx -y fledge-mcp"
+}

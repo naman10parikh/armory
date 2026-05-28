@@ -1,0 +1,7 @@
+{
+  "name": "yubinkim444-repo-memory",
+  "description": "Shared, git-tracked working memory for AI agents collaborating on the same codebase.",
+  "source_repo": "yubinkim444/repo-memory",
+  "source_url": "https://github.com/yubinkim444/repo-memory",
+  "install": "# git clone --depth 1 https://github.com/yubinkim444/repo-memory\n# See source for mcpServers config block"
+}

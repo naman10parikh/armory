@@ -1,0 +1,7 @@
+{
+  "name": "onplana",
+  "description": "Portfolio management MCP providing AI agents access to projects, tasks, and semantic search across organizational content.",
+  "source_repo": "onplana/onplana-mcp-server",
+  "source_url": "https://github.com/onplana/onplana-mcp-server",
+  "install": "npx -y onplana-mcp-server"
+}

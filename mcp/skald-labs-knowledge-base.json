@@ -1,0 +1,7 @@
+{
+  "name": "skald-labs-knowledge-base",
+  "description": "Integrates with Skald Labs' knowledge base platform to enable AI-generated responses with inline citations, semantic search for memos, and automated content creation and indexing for research and documentation workflows.",
+  "source_repo": "skaldlabs/skald-mcp",
+  "source_url": "https://github.com/skaldlabs/skald-mcp",
+  "install": "npx -y skald-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nickcirv-engram",
+  "description": "Context caching layer for AI coding agents, integrating any MCP server as a short plugin.",
+  "source_repo": "nickcirv/engram",
+  "source_url": "https://github.com/nickcirv/engram",
+  "install": "# git clone --depth 1 https://github.com/nickcirv/engram\n# See source for mcpServers config block"
+}

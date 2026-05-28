@@ -1,0 +1,7 @@
+{
+  "name": "doxa",
+  "description": "Bible lookup and Christian encouragement tools from the Doxa app.",
+  "source_repo": "the-doxa-way/doxa-mcp-schema",
+  "source_url": "https://github.com/the-doxa-way/doxa-mcp-schema",
+  "install": "# git clone --depth 1 https://github.com/the-doxa-way/doxa-mcp-schema\n# See source for mcpServers config block"
+}

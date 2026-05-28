@@ -1,0 +1,7 @@
+{
+  "name": "cognitive-stack-hermes-search",
+  "description": "Provides a bridge to Azure Cognitive Search for executing search queries, indexing documents, and managing search indexes with filtering options",
+  "source_repo": "cognitive-stack/hermes-search-mcp",
+  "source_url": "https://github.com/cognitive-stack/hermes-search-mcp",
+  "install": "npx -y hermes-search-mcp"
+}

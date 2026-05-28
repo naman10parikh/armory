@@ -1,0 +1,7 @@
+{
+  "name": "digitalocean-archived",
+  "description": "Integrates with DigitalOcean's cloud platform API to enable management of cloud resources, deployment of applications, and monitoring of infrastructure through natural language commands.",
+  "source_repo": "digitalocean/digitalocean-mcp",
+  "source_url": "https://github.com/digitalocean/digitalocean-mcp",
+  "install": "npx -y digitalocean-mcp"
+}

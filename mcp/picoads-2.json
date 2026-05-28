@@ -1,0 +1,7 @@
+{
+  "name": "picoads-2",
+  "description": "Earn from your audience or buy ad distribution — the only agent ad network with independent delivery verification. Publishers receive 100% of the agreed price with zero deductions. Verified deliveries settle immediately in USDC on Base, no waiting for advertiser review. 14 tools: discover hubs and m",
+  "source_repo": "",
+  "source_url": "https://picoads.xyz",
+  "install": "# git clone --depth 1 https://picoads.xyz\n# See source for mcpServers config block"
+}

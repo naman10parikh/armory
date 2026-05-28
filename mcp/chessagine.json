@@ -1,0 +1,7 @@
+{
+  "name": "chessagine",
+  "description": "Analyze chess positions using powerful engines like Stockfish, Leela, and Maia. Retrieve games, puzzles, and opening statistics directly from Lichess and specialized databases. Visualize moves and games through interactive board renders and PGN viewers.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/jalpp/chessagine",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/jalpp/chessagine\n# See source for mcpServers config block"
+}

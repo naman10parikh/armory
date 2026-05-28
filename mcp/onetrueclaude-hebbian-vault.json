@@ -1,0 +1,7 @@
+{
+  "name": "onetrueclaude-hebbian-vault",
+  "description": "Usage-adaptive Obsidian vault search combining Hebbian learning, PageRank, and BM25 via Reciprocal Rank Fusion.",
+  "source_repo": "onetrueclaude-creator/hebbian-vault",
+  "source_url": "https://github.com/onetrueclaude-creator/hebbian-vault",
+  "install": "# git clone --depth 1 https://github.com/onetrueclaude-creator/hebbian-vault\n# See source for mcpServers config block"
+}

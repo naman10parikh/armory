@@ -1,0 +1,7 @@
+{
+  "name": "agenttic-ai-dev-skill2mcp",
+  "description": "CLI tool that converts SKILL.md markdown documents into deployable MCP server packages.",
+  "source_repo": "agenttic-ai-dev/skill2mcp",
+  "source_url": "https://github.com/agenttic-ai-dev/skill2mcp",
+  "install": "# git clone --depth 1 https://github.com/agenttic-ai-dev/skill2mcp\n# See source for mcpServers config block"
+}

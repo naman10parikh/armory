@@ -1,0 +1,7 @@
+{
+  "name": "chrome-debug",
+  "description": "Provides browser automation capabilities through Chrome's debugging protocol with session persistence, enabling web scraping, testing, and automation tasks with tools for screenshots, navigation, element interaction, and content retrieval.",
+  "source_repo": "rainmen-xia/chrome-debug-mcp",
+  "source_url": "https://github.com/rainmen-xia/chrome-debug-mcp",
+  "install": "npx -y chrome-debug-mcp"
+}

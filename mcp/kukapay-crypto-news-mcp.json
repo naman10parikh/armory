@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-news-mcp",
+  "description": "An MCP server that provides real-time cryptocurrency news sourced from NewsData for AI agents.",
+  "source_repo": "kukapay/crypto-news-mcp",
+  "source_url": "https://github.com/kukapay/crypto-news-mcp",
+  "install": "npx -y crypto-news-mcp"
+}

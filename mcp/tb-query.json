@@ -1,0 +1,7 @@
+{
+  "name": "tb-query",
+  "description": "MCP server for querying and analyzing TensorBoard event files, enabling AI agents to extract scalar data, statistics, and correlations without a running TensorBoard server.",
+  "source_repo": "Alir3z4/tb-query",
+  "source_url": "https://github.com/Alir3z4/tb-query",
+  "install": "# git clone --depth 1 https://github.com/Alir3z4/tb-query\n# See source for mcpServers config block"
+}

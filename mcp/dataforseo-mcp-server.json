@@ -1,0 +1,7 @@
+{
+  "name": "dataforseo-mcp-server",
+  "description": "Dataforseo Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Skobyn/dataforseo-mcp-server",
+  "source_url": "https://mcp.so/server/dataforseo-mcp-server/Skobyn",
+  "install": "npx -y dataforseo-mcp-server"
+}

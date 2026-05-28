@@ -1,0 +1,7 @@
+{
+  "name": "scriptedalchemy-devtools-debugger",
+  "description": "Provides full Chrome DevTools Protocol debugging capabilities for Node.js applications with breakpoint management, stepping controls, call stack inspection, variable evaluation, and console output capture through a clean API interface.",
+  "source_repo": "scriptedalchemy/devtools-debugger-mcp",
+  "source_url": "https://github.com/scriptedalchemy/devtools-debugger-mcp",
+  "install": "npx -y devtools-debugger-mcp"
+}

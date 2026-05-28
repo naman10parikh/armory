@@ -1,0 +1,7 @@
+{
+  "name": "shqkel-openweather",
+  "description": "Fetches current weather and forecasts from the OpenWeatherMap API via MCP.",
+  "source_repo": "shqkel/openweather-mcp-server",
+  "source_url": "https://github.com/shqkel/openweather-mcp-server",
+  "install": "npx -y openweather-mcp-server"
+}

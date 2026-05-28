@@ -1,0 +1,7 @@
+{
+  "name": "tharanabope-sql-server",
+  "description": "SQL Server database integration with schema exploration and read-only querying",
+  "source_repo": "tharanabope/sql-mcp-mac-windows",
+  "source_url": "https://github.com/tharanabope/sql-mcp-mac-windows",
+  "install": "# git clone --depth 1 https://github.com/tharanabope/sql-mcp-mac-windows\n# See source for mcpServers config block"
+}

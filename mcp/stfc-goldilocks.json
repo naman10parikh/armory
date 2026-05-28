@@ -1,0 +1,7 @@
+{
+  "name": "stfc-goldilocks",
+  "description": "Predicts optimal k-point grids for Quantum ESPRESSO DFT calculations using machine learning models trained on SSSP1.3 PBEsol pseudopotentials.",
+  "source_repo": "stfc/goldilocks-mcp",
+  "source_url": "https://github.com/stfc/goldilocks-mcp",
+  "install": "npx -y goldilocks-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "koyach-sfc-syllabus",
+  "description": "Course syllabus search for Keio University's Shonan Fujisawa Campus with tools for searching, filtering, and retrieving course details.",
+  "source_repo": "koyach/sfc-syllabus-mcp",
+  "source_url": "https://github.com/koyach/sfc-syllabus-mcp",
+  "install": "npx -y sfc-syllabus-mcp"
+}

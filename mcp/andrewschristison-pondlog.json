@@ -1,0 +1,7 @@
+{
+  "name": "andrewschristison-pondlog",
+  "description": "Unified nature and garden data briefing from 8 public APIs — iNaturalist, eBird, USGS, NPN, Mushroom Observer, Trefle, astronomy, and garden planner.",
+  "source_repo": "andrewschristison/pondlog",
+  "source_url": "https://github.com/andrewschristison/pondlog",
+  "install": "# git clone --depth 1 https://github.com/andrewschristison/pondlog\n# See source for mcpServers config block"
+}

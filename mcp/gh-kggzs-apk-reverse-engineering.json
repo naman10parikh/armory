@@ -1,0 +1,7 @@
+{
+  "name": "gh-kggzs-apk-reverse-engineering",
+  "description": "Android reverse engineering toolkit with JADX, APKTool, ADB, and Frida integration.",
+  "source_repo": "kggzs/apkmcp-auto",
+  "source_url": "https://github.com/kggzs/apkmcp-auto",
+  "install": "# git clone --depth 1 https://github.com/kggzs/apkmcp-auto\n# See source for mcpServers config block"
+}

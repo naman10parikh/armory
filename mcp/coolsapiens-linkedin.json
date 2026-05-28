@@ -1,0 +1,7 @@
+{
+  "name": "coolsapiens-linkedin",
+  "description": "Provides AI tools with secure access to a LinkedIn network, connections, and direct messages.",
+  "source_repo": "coolsapiens/linkedin-mcp",
+  "source_url": "https://github.com/coolsapiens/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-church-telegram",
+  "description": "Connect to Telegram to browse chats, read and summarize messages.",
+  "source_repo": "",
+  "source_url": "https://mcp.ai.church",
+  "install": "# git clone --depth 1 https://mcp.ai.church\n# See source for mcpServers config block"
+}

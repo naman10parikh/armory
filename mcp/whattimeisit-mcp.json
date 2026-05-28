@@ -1,0 +1,7 @@
+{
+  "name": "whattimeisit-mcp",
+  "description": "Whattimeisit Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/whattimeisit-mcp",
+  "source_url": "https://mcp.so/server/whattimeisit-mcp/kukapay",
+  "install": "npx -y whattimeisit-mcp"
+}

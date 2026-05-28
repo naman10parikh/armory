@@ -1,0 +1,7 @@
+{
+  "name": "mcp-store-scraper",
+  "description": "MCP server that scrapes app data from Google Play and Apple App Store, providing tools for search, details, reviews, and similar apps.",
+  "source_repo": "LucasMonteiro1/mcp-store-scraper",
+  "source_url": "https://github.com/LucasMonteiro1/mcp-store-scraper",
+  "install": "# git clone --depth 1 https://github.com/LucasMonteiro1/mcp-store-scraper\n# See source for mcpServers config block"
+}

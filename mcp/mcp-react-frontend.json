@@ -1,0 +1,7 @@
+{
+  "name": "mcp-react-frontend",
+  "description": "Enables AI agents to analyze and scaffold React/Next.js applications enforcing Feature-Sliced Design (FSD) conventions, providing tools for project analysis, rule retrieval, and entity generation.",
+  "source_repo": "KDF25/mcp-react-frontend",
+  "source_url": "https://github.com/KDF25/mcp-react-frontend",
+  "install": "# git clone --depth 1 https://github.com/KDF25/mcp-react-frontend\n# See source for mcpServers config block"
+}

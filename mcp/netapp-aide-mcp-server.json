@@ -1,0 +1,7 @@
+{
+  "name": "netapp-aide-mcp-server",
+  "description": "MCP server that exposes NetApp AI Data Engine's RAG search for semantic document retrieval.",
+  "source_repo": "NetApp/aide-mcp-server",
+  "source_url": "https://github.com/NetApp/aide-mcp-server",
+  "install": "npx -y aide-mcp-server"
+}

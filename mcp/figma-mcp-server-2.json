@@ -1,0 +1,7 @@
+{
+  "name": "figma-mcp-server-2",
+  "description": "Figma Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mohammeduvaiz/figma-mcp-server",
+  "source_url": "https://mcp.so/server/figma-mcp-server/mohammeduvaiz",
+  "install": "npx -y figma-mcp-server"
+}

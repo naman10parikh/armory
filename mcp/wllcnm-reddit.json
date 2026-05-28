@@ -1,0 +1,7 @@
+{
+  "name": "wllcnm-reddit",
+  "description": "Integrates with Reddit's API using PRAW to enable retrieving and posting content, managing subreddits, and analyzing user data for applications like sentiment analysis and trend monitoring.",
+  "source_repo": "wllcnm/mcp-reddit",
+  "source_url": "https://github.com/wllcnm/mcp-reddit",
+  "install": "# git clone --depth 1 https://github.com/wllcnm/mcp-reddit\n# See source for mcpServers config block"
+}

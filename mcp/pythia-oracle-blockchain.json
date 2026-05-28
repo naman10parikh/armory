@@ -1,0 +1,7 @@
+{
+  "name": "pythia-oracle-blockchain",
+  "description": "Delivers on-chain technical indicators including EMA, RSI, Bollinger Bands, VWAP, and volatility for smart contracts and AI agents via Chainlink.",
+  "source_repo": "pythia-the-oracle/pythia-oracle-mcp",
+  "source_url": "https://github.com/pythia-the-oracle/pythia-oracle-mcp",
+  "install": "npx -y pythia-oracle-mcp"
+}

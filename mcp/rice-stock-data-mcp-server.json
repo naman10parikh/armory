@@ -1,0 +1,7 @@
+{
+  "name": "rice-stock-data-mcp-server",
+  "description": "Enables natural language queries for stock market data via the Rice Business Stock Market Data Portal, with Rice University email verification for access control.",
+  "source_repo": "kerrybackapps/rice-stock-mcp-clean",
+  "source_url": "https://github.com/kerrybackapps/rice-stock-mcp-clean",
+  "install": "# git clone --depth 1 https://github.com/kerrybackapps/rice-stock-mcp-clean\n# See source for mcpServers config block"
+}

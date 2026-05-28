@@ -1,0 +1,7 @@
+{
+  "name": "eversinc33-triage-pe-file-analysis",
+  "description": "Integrates with multiple security tools to perform static analysis of PE files, extracting critical information like import tables, metadata, strings, and malware capabilities for rapid triage of suspicious Windows executables.",
+  "source_repo": "eversinc33/triagemcp",
+  "source_url": "https://github.com/eversinc33/triagemcp",
+  "install": "# git clone --depth 1 https://github.com/eversinc33/triagemcp\n# See source for mcpServers config block"
+}

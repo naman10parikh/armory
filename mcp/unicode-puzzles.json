@@ -1,0 +1,7 @@
+{
+  "name": "unicode-puzzles",
+  "description": "Creates and manages steganography puzzles that hide messages within Unicode characters, offering template-based generation with configurable difficulty levels and persistent storage of puzzle metadata.",
+  "source_repo": "vetcoders/unicode-puzzles-mcp",
+  "source_url": "https://github.com/vetcoders/unicode-puzzles-mcp",
+  "install": "npx -y unicode-puzzles-mcp"
+}

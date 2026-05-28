@@ -1,0 +1,7 @@
+{
+  "name": "atulbargotra-spring-jvm-diagnostics",
+  "description": "Diagnoses performance problems in Java Spring Boot applications with JVM metrics and thread analysis.",
+  "source_repo": "atulbargotra/jvm-mcp",
+  "source_url": "https://github.com/atulbargotra/jvm-mcp",
+  "install": "npx -y jvm-mcp"
+}

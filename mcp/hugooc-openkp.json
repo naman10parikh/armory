@@ -1,0 +1,7 @@
+{
+  "name": "hugooc-openkp",
+  "description": "Patient-directed MCP server for accessing Kaiser Permanente medical records, covering appointments, labs, messages, medications, and visit notes locally.",
+  "source_repo": "hugooc/openkp",
+  "source_url": "https://github.com/hugooc/openkp",
+  "install": "# git clone --depth 1 https://github.com/hugooc/openkp\n# See source for mcpServers config block"
+}

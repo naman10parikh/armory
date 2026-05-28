@@ -1,0 +1,7 @@
+{
+  "name": "jweather",
+  "description": "Integrates with weather data services to provide real-time conditions and forecasts through an asyncio-powered Python server with automated CI/CD workflows.",
+  "source_repo": "juhemcp/jweather-mcp-server",
+  "source_url": "https://github.com/juhemcp/jweather-mcp-server",
+  "install": "npx -y jweather-mcp-server"
+}

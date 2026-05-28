@@ -1,0 +1,7 @@
+{
+  "name": "tgeselle-bugsnag-mcp",
+  "description": "An MCP server for interacting with [Bugsnag](https://www.bugsnag.com/)",
+  "source_repo": "tgeselle/bugsnag-mcp",
+  "source_url": "https://github.com/tgeselle/bugsnag-mcp",
+  "install": "npx -y bugsnag-mcp"
+}

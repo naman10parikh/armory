@@ -1,0 +1,7 @@
+{
+  "name": "signalfuse",
+  "description": "Fused crypto trading signals combining sentiment analysis, macro regime classification, and market structure metrics.",
+  "source_repo": "hypeprinter007-stack/signalfuse-mcp",
+  "source_url": "https://github.com/hypeprinter007-stack/signalfuse-mcp",
+  "install": "npx -y signalfuse-mcp"
+}

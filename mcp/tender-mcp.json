@@ -1,0 +1,7 @@
+{
+  "name": "tender-mcp",
+  "description": "Searches UK, EU, and US government procurement portals and scores tenders with AI analysis.",
+  "source_repo": "ojaskord/tender-mcp",
+  "source_url": "https://github.com/ojaskord/tender-mcp",
+  "install": "npx -y tender-mcp"
+}

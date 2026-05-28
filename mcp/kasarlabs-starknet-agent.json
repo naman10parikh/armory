@@ -1,0 +1,7 @@
+{
+  "name": "kasarlabs-starknet-agent",
+  "description": "Toolkit for creating blockchain agents that interact with the Starknet network, enabling wallet management, DeFi operations, and smart contract interactions through modular plugins",
+  "source_repo": "kasarlabs/snak",
+  "source_url": "https://github.com/kasarlabs/snak/tree/HEAD/mcp/snak",
+  "install": "# git clone --depth 1 https://github.com/kasarlabs/snak/tree/HEAD/mcp/snak\n# See source for mcpServers config block"
+}

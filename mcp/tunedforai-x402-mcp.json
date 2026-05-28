@@ -1,0 +1,7 @@
+{
+  "name": "tunedforai-x402-mcp",
+  "description": "Real-time crypto market structure for AI agents — orderflow across 20 exchanges, 24 tokens. 9 tools: price/funding/OI snapshots, cross-exchange CVD with whale activity, 7yr OHLCV history with buy/sell flow, on-chain address risk. Free via MCP ([`@tunedforai/x402-mcp`](https://www.npmjs.com/package/@tunedforai/x402-mcp) on npm) or pay-per-call in USDC on Base via x402 REST at [`x402.tunedfor.ai`](https://x402.tunedfor.ai) — no API key, no rate limits.",
+  "source_repo": "tunedforai/x402-mcp",
+  "source_url": "https://github.com/tunedforai/x402-mcp",
+  "install": "npx -y x402-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zboralski-ida-headless",
+  "description": "Provides headless access to IDA Pro's reverse engineering capabilities for analyzing binaries, extracting functions and strings, navigating cross-references, and integrating specialized analysis tools without requiring the GUI.",
+  "source_repo": "zboralski/ida-headless-mcp",
+  "source_url": "https://github.com/zboralski/ida-headless-mcp",
+  "install": "npx -y ida-headless-mcp"
+}

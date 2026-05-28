@@ -1,0 +1,7 @@
+{
+  "name": "eyaltoledano-task-master",
+  "description": "Provides task management capabilities for development workflows with PRD parsing, task CRUD operations with dependency management, complexity analysis, and context-based organization across project phases.",
+  "source_repo": "eyaltoledano/claude-task-master",
+  "source_url": "https://github.com/eyaltoledano/claude-task-master",
+  "install": "# git clone --depth 1 https://github.com/eyaltoledano/claude-task-master\n# See source for mcpServers config block"
+}

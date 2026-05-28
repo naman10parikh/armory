@@ -1,0 +1,7 @@
+{
+  "name": "ptp-mcp-server",
+  "description": "Monitors and analyzes Precision Time Protocol (PTP) systems in OpenShift clusters, enabling configuration analysis, real-time log monitoring, and health checks.",
+  "source_repo": "redhat-cne/ptp-mcp-server",
+  "source_url": "https://github.com/redhat-cne/ptp-mcp-server",
+  "install": "npx -y ptp-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "markpitt-freeagent",
+  "description": "Integrates with FreeAgent API to enable time tracking management, including timeslip and timer operations for project tracking and reporting.",
+  "source_repo": "markpitt/freeagent-mcp",
+  "source_url": "https://github.com/markpitt/freeagent-mcp",
+  "install": "npx -y freeagent-mcp"
+}

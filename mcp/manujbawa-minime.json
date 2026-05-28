@@ -1,0 +1,7 @@
+{
+  "name": "manujbawa-minime",
+  "description": "Provides persistent memory management and meta-learning capabilities for software development workflows, featuring sequential thinking, task extraction, pattern detection, and real-time analytics through a React dashboard with local LLM processing via Ollama and PostgreSQL storage.",
+  "source_repo": "manujbawa/minime-mcp",
+  "source_url": "https://github.com/manujbawa/minime-mcp",
+  "install": "npx -y minime-mcp"
+}

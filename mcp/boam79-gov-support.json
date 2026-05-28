@@ -1,0 +1,7 @@
+{
+  "name": "boam79-gov-support",
+  "description": "Search and manage South Korean government subsidy applications across Bizinfo, K-Startup, and SMEs24 with 12 tools for discovery, eligibility, and document preparation.",
+  "source_repo": "boam79/gov_support_mcp",
+  "source_url": "https://github.com/boam79/gov_support_mcp",
+  "install": "npx -y gov_support_mcp"
+}

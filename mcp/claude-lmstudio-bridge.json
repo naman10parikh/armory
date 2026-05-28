@@ -1,0 +1,7 @@
+{
+  "name": "claude-lmstudio-bridge",
+  "description": "Claude Lmstudio Bridge MCP server listed on mcp.so.",
+  "source_repo": "infinitimeless/claude-lmstudio-bridge",
+  "source_url": "https://mcp.so/server/claude-lmstudio-bridge/infinitimeless",
+  "install": "# git clone --depth 1 https://mcp.so/server/claude-lmstudio-bridge/infinitimeless\n# See source for mcpServers config block"
+}

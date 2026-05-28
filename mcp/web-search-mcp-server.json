@@ -1,0 +1,7 @@
+{
+  "name": "web-search-mcp-server",
+  "description": "This MCP server provides tools for AI agents to search the web, fetch page content, and query specific elements from pages using DuckDuckGo.",
+  "source_repo": "sthbryan/web-search-mcp-server",
+  "source_url": "https://github.com/sthbryan/web-search-mcp-server",
+  "install": "npx -y web-search-mcp-server"
+}

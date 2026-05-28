@@ -1,0 +1,7 @@
+{
+  "name": "opendart-mcp-server",
+  "description": "Enables AI agents to access Korean corporate disclosure data from DART, allowing natural language queries about companies, financial statements, and disclosures.",
+  "source_repo": "SongHyojun0228/opendart-mcp-server",
+  "source_url": "https://github.com/SongHyojun0228/opendart-mcp-server",
+  "install": "npx -y opendart-mcp-server"
+}

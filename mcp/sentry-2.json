@@ -1,0 +1,7 @@
+{
+  "name": "sentry-2",
+  "description": "This service implements the Model Context Protocol (MCP) for interacting with Sentry, focused on human-in-the-loop coding agents and developer workflows rather than general-purpose API access.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/sentry.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/sentry.json\n# See source for mcpServers config block"
+}

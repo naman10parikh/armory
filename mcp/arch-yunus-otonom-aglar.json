@@ -1,0 +1,7 @@
+{
+  "name": "arch-yunus-otonom-aglar",
+  "description": "Autonomous agent MCP framework with ReAct loop architecture, semantic memory, secure code execution, and sub-agent delegation.",
+  "source_repo": "arch-yunus/otonom-aglar-mcp",
+  "source_url": "https://github.com/arch-yunus/otonom-aglar-mcp",
+  "install": "npx -y otonom-aglar-mcp"
+}

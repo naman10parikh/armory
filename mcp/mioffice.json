@@ -1,0 +1,7 @@
+{
+  "name": "mioffice",
+  "description": "AI office suite browser tools for PDF, image, video, audio, and AI processing — files never leave your device.",
+  "source_repo": "",
+  "source_url": "https://mioffice.ai",
+  "install": "# git clone --depth 1 https://mioffice.ai\n# See source for mcpServers config block"
+}

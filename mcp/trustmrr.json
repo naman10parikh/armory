@@ -1,0 +1,7 @@
+{
+  "name": "trustmrr",
+  "description": "Provides access to the TrustMRR startup marketplace API for browsing, filtering, and analyzing SaaS startups available for acquisition.",
+  "source_repo": "abdelhakrazi/trustmrr-mcp",
+  "source_url": "https://github.com/abdelhakrazi/trustmrr-mcp",
+  "install": "npx -y trustmrr-mcp"
+}

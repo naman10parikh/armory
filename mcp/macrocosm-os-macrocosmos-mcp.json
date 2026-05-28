@@ -1,0 +1,7 @@
+{
+  "name": "macrocosm-os-macrocosmos-mcp",
+  "description": "🎖️ 🐍 ☁️ Access real-time X/Reddit/YouTube data directly in your LLM applications with search phrases, users, and date filtering.",
+  "source_repo": "macrocosm-os/macrocosmos-mcp",
+  "source_url": "https://github.com/macrocosm-os/macrocosmos-mcp",
+  "install": "npx -y macrocosmos-mcp"
+}

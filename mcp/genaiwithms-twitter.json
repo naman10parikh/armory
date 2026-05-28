@@ -1,0 +1,7 @@
+{
+  "name": "genaiwithms-twitter",
+  "description": "Integrates with Twitter through OAuth 1.0a authentication to enable posting text and image tweets, searching for content, and managing threaded conversations with rate limiting protection",
+  "source_repo": "genaiwithms/twitter-mcp",
+  "source_url": "https://github.com/genaiwithms/twitter-mcp",
+  "install": "npx -y twitter-mcp"
+}

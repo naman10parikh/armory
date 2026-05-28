@@ -1,0 +1,7 @@
+{
+  "name": "flox-mcp",
+  "description": "MCP server for the FLOX trading framework. About 30 tools to run backtests, scaffold strategies, validate for lookahead bias, compute indicators, place orders, and query PnL from Claude/Cursor.",
+  "source_repo": "FLOX-Foundation/flox",
+  "source_url": "https://github.com/FLOX-Foundation/flox",
+  "install": "# git clone --depth 1 https://github.com/FLOX-Foundation/flox\n# See source for mcpServers config block"
+}

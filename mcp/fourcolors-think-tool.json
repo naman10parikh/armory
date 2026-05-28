@@ -1,0 +1,7 @@
+{
+  "name": "fourcolors-think-tool",
+  "description": "Provides a structured thinking environment with a dedicated scratchpad for breaking down complex problems, verifying policy compliance, and validating planned actions before execution.",
+  "source_repo": "fourcolors/think-tool",
+  "source_url": "https://github.com/fourcolors/think-tool",
+  "install": "# git clone --depth 1 https://github.com/fourcolors/think-tool\n# See source for mcpServers config block"
+}

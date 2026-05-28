@@ -1,0 +1,7 @@
+{
+  "name": "david-steel-otp",
+  "description": "MCP server providing access to cross-organizational best practices, network learnings, publishing patterns, and agent org charts.",
+  "source_repo": "david-steel/otp-mcp-server",
+  "source_url": "https://github.com/david-steel/otp-mcp-server",
+  "install": "npx -y otp-mcp-server"
+}

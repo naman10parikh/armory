@@ -1,0 +1,7 @@
+{
+  "name": "marceausolutions-hvac-quotes-mcp",
+  "description": "HVAC equipment RFQ management for contractors - submit quotes to distributors, track responses, and compare pricing",
+  "source_repo": "MarceauSolutions/hvac-quotes-mcp",
+  "source_url": "https://github.com/MarceauSolutions/hvac-quotes-mcp",
+  "install": "npx -y hvac-quotes-mcp"
+}

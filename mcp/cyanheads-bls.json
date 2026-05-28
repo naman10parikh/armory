@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-bls",
+  "description": "Retrieves U.S. Bureau of Labor Statistics data on employment, wages, inflation, and workplace safety.",
+  "source_repo": "cyanheads/bls-labor-mcp-server",
+  "source_url": "https://github.com/cyanheads/bls-labor-mcp-server",
+  "install": "npx -y bls-labor-mcp-server"
+}

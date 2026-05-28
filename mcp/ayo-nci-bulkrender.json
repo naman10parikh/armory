@@ -1,0 +1,7 @@
+{
+  "name": "ayo-nci-bulkrender",
+  "description": "MCP server for generating DOCX and PDF documents from templates via the BulkRender API.",
+  "source_repo": "ayo-nci/bulkrender-mcp",
+  "source_url": "https://github.com/ayo-nci/bulkrender-mcp",
+  "install": "npx -y bulkrender-mcp"
+}

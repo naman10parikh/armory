@@ -1,0 +1,7 @@
+{
+  "name": "handsomestwei-java-class-analyzer",
+  "description": "Analyzes and decompiles Java class files with CFR decompiler integration, Maven repository support, and dependency scanning to enable reverse engineering, security auditing, and understanding of compiled bytecode when source code is unavailable.",
+  "source_repo": "handsomestwei/java-class-analyzer-mcp-server",
+  "source_url": "https://github.com/handsomestwei/java-class-analyzer-mcp-server",
+  "install": "npx -y java-class-analyzer-mcp-server"
+}

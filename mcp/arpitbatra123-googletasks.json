@@ -1,0 +1,7 @@
+{
+  "name": "arpitbatra123-googletasks",
+  "description": "Integrates with Google Tasks API to enable direct task management, including creating, updating, organizing, and completing tasks through conversational interactions.",
+  "source_repo": "arpitbatra123/mcp-googletasks",
+  "source_url": "https://github.com/arpitbatra123/mcp-googletasks",
+  "install": "# git clone --depth 1 https://github.com/arpitbatra123/mcp-googletasks\n# See source for mcpServers config block"
+}

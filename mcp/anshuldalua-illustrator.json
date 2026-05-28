@@ -1,0 +1,7 @@
+{
+  "name": "anshuldalua-illustrator",
+  "description": "Enables direct execution of JavaScript/ExtendScript code in Adobe Illustrator with visual feedback through screenshots, allowing vector graphics creation and manipulation",
+  "source_repo": "anshuldalua/illustrator-mcp",
+  "source_url": "https://github.com/anshuldalua/illustrator-mcp",
+  "install": "npx -y illustrator-mcp"
+}

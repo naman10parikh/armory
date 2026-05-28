@@ -1,0 +1,7 @@
+{
+  "name": "danube-ai",
+  "description": "Unified platform for AI tool discovery, execution, and integration across APIs.",
+  "source_repo": "danubeai/danube-mcp",
+  "source_url": "https://github.com/danubeai/danube-mcp",
+  "install": "npx -y danube-mcp"
+}

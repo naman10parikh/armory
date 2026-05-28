@@ -1,0 +1,7 @@
+{
+  "name": "nicosolo-whatsapp-web",
+  "description": "Send and receive WhatsApp messages via the whatsapp-web.js library.",
+  "source_repo": "nicosolo/whatsapp-mcp",
+  "source_url": "https://github.com/nicosolo/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

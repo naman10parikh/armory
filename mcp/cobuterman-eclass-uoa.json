@@ -1,0 +1,7 @@
+{
+  "name": "cobuterman-eclass-uoa",
+  "description": "Integrates with Open eClass platform to enable course access and management through UoA's SSO authentication system, providing tools for login, course listing, and session handling",
+  "source_repo": "sdi2200262/eclass-mcp-server",
+  "source_url": "https://github.com/sdi2200262/eclass-mcp-server",
+  "install": "npx -y eclass-mcp-server"
+}

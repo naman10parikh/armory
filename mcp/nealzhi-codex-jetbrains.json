@@ -1,0 +1,7 @@
+{
+  "name": "nealzhi-codex-jetbrains",
+  "description": "MCP server bridging OpenAI Codex and JetBrains IDEs, enabling AI-assisted code generation within JetBrains development environments.",
+  "source_repo": "nealzhi/codex-jetbrains-mcp",
+  "source_url": "https://github.com/nealzhi/codex-jetbrains-mcp",
+  "install": "npx -y codex-jetbrains-mcp"
+}

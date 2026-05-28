@@ -1,0 +1,7 @@
+{
+  "name": "context-first",
+  "description": "Maintains AI conversation coherence through context monitoring, conflict detection, and persistent memory across long interactions.",
+  "source_repo": "xjtlumedia/context-first-mcp",
+  "source_url": "https://github.com/xjtlumedia/context-first-mcp",
+  "install": "npx -y context-first-mcp"
+}

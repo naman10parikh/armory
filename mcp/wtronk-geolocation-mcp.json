@@ -1,0 +1,7 @@
+{
+  "name": "wtronk-geolocation-mcp",
+  "description": "Reverse geocoding, IP lookup, and geolocation tools powered by the Jeleo Geolocation API.",
+  "source_repo": "wtronk/geolocation-mcp",
+  "source_url": "https://github.com/wtronk/geolocation-mcp",
+  "install": "npx -y geolocation-mcp"
+}

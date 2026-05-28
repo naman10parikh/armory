@@ -1,0 +1,7 @@
+{
+  "name": "happy-shine-ibkr",
+  "description": "Integrates with Interactive Brokers TWS API to provide real-time market data, account management, order execution, and options analysis with configurable safety controls for algorithmic trading and portfolio management.",
+  "source_repo": "happy-shine/ibkr_mcp",
+  "source_url": "https://github.com/happy-shine/ibkr_mcp",
+  "install": "npx -y ibkr_mcp"
+}

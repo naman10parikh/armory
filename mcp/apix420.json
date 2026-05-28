@@ -1,0 +1,7 @@
+{
+  "name": "apix420",
+  "description": "Real-time data APIs for AI agents with 100+ endpoints covering crypto, weather, news, and more.",
+  "source_repo": "",
+  "source_url": "https://apix420.com",
+  "install": "# git clone --depth 1 https://apix420.com\n# See source for mcpServers config block"
+}

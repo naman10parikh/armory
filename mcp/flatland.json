@@ -1,0 +1,7 @@
+{
+  "name": "flatland",
+  "description": "Financial modeling engine MCP server for AI agents that builds multi-statement models with typed assumptions and scenario analysis.",
+  "source_repo": "",
+  "source_url": "https://flatlandfi.com",
+  "install": "# git clone --depth 1 https://flatlandfi.com\n# See source for mcpServers config block"
+}

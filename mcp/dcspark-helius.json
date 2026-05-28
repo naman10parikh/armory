@@ -1,0 +1,7 @@
+{
+  "name": "dcspark-helius",
+  "description": "Integrates with the Helius API to provide real-time Solana blockchain data access, enabling wallet balance checks and block height retrieval for blockchain monitoring and analysis.",
+  "source_repo": "dcspark/mcp-server-helius",
+  "source_url": "https://github.com/dcspark/mcp-server-helius",
+  "install": "# git clone --depth 1 https://github.com/dcspark/mcp-server-helius\n# See source for mcpServers config block"
+}

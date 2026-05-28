@@ -1,0 +1,7 @@
+{
+  "name": "rendex",
+  "description": "Capture webpage screenshots with configurable format, viewport, dark mode, and ad blocking options.",
+  "source_repo": "copperline-labs/rendex-mcp",
+  "source_url": "https://github.com/copperline-labs/rendex-mcp",
+  "install": "npx -y rendex-mcp"
+}

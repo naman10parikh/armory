@@ -1,0 +1,7 @@
+{
+  "name": "abnersajr-readedit",
+  "description": "Batch file read and edit MCP server that consolidates multi-file operations into single tool calls, reducing token usage by 80-95% for refactoring tasks.",
+  "source_repo": "abnersajr/mcp-readedit",
+  "source_url": "https://github.com/abnersajr/mcp-readedit",
+  "install": "# git clone --depth 1 https://github.com/abnersajr/mcp-readedit\n# See source for mcpServers config block"
+}

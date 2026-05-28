@@ -1,0 +1,7 @@
+{
+  "name": "stanislavlysenko0912-todoist",
+  "description": "Full implementation of the Todoist REST API.",
+  "source_repo": "stanislavlysenko0912/todoist-mcp-server",
+  "source_url": "https://github.com/stanislavlysenko0912/todoist-mcp-server",
+  "install": "npx -y todoist-mcp-server"
+}

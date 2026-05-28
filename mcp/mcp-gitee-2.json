@@ -1,0 +1,7 @@
+{
+  "name": "mcp-gitee-2",
+  "description": "Mcp Gitee MCP server listed on mcp.so.",
+  "source_repo": "oschina/mcp-gitee",
+  "source_url": "https://mcp.so/server/mcp-gitee/oschina",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-gitee/oschina\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codeql-development-mcp-server",
+  "description": "Enables AI-assisted development of CodeQL queries for security analysis through the Model Context Protocol. Provides tools for compiling, testing, and executing CodeQL queries across multiple programming languages.",
+  "source_repo": "advanced-security/codeql-development-mcp-server",
+  "source_url": "https://github.com/advanced-security/codeql-development-mcp-server",
+  "install": "npx -y codeql-development-mcp-server"
+}

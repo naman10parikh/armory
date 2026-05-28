@@ -1,0 +1,7 @@
+{
+  "name": "simplypixi-bugbug-mcp-server",
+  "description": "MCP for BugBug API, to manage test and suites on BugBug",
+  "source_repo": "simplypixi/bugbug-mcp-server",
+  "source_url": "https://github.com/simplypixi/bugbug-mcp-server",
+  "install": "npx -y bugbug-mcp-server"
+}

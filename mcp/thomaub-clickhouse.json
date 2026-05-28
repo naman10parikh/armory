@@ -1,0 +1,7 @@
+{
+  "name": "thomaub-clickhouse",
+  "description": "Integrates with ClickHouse databases to enable data analysis, querying, and exploration for large-scale analytical workloads.",
+  "source_repo": "thomaub/clickhouse_mcp_server",
+  "source_url": "https://github.com/thomaub/clickhouse_mcp_server",
+  "install": "npx -y clickhouse_mcp_server"
+}

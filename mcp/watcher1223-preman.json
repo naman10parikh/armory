@@ -1,0 +1,7 @@
+{
+  "name": "watcher1223-preman",
+  "description": "TypeScript SDK and CLI that converts REST API endpoints into hosted MCP servers with scoped consumer tokens, rate limits, and audit logging.",
+  "source_repo": "watcher1223/preman-sdk",
+  "source_url": "https://github.com/watcher1223/preman-sdk",
+  "install": "# git clone --depth 1 https://github.com/watcher1223/preman-sdk\n# See source for mcpServers config block"
+}

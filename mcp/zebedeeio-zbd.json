@@ -1,0 +1,7 @@
+{
+  "name": "zebedeeio-zbd",
+  "description": "Integrates with the ZBD API to enable Bitcoin Lightning Network payments, allowing instant cryptocurrency transactions to email addresses, Lightning addresses, and ZBD Gamertags directly within conversations.",
+  "source_repo": "zbdpay/zbd-mcp-server",
+  "source_url": "https://github.com/zbdpay/zbd-mcp-server",
+  "install": "npx -y zbd-mcp-server"
+}

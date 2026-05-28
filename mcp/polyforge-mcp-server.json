@@ -1,0 +1,7 @@
+{
+  "name": "polyforge-mcp-server",
+  "description": "Enables AI assistants to interact with the Polyforge prediction market platform for market browsing, strategy management, order execution, and portfolio tracking.",
+  "source_repo": "F4CTE/polyforge-mcp",
+  "source_url": "https://github.com/F4CTE/polyforge-mcp",
+  "install": "npx -y polyforge-mcp"
+}

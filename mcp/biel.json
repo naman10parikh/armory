@@ -1,0 +1,7 @@
+{
+  "name": "biel",
+  "description": "Provides access to documentation and knowledge bases through a remote proxy architecture, enabling conversational queries of product documentation, API specifications, and troubleshooting guides without direct API integration.",
+  "source_repo": "techdocsstudio/biel-mcp",
+  "source_url": "https://github.com/techdocsstudio/biel-mcp",
+  "install": "npx -y biel-mcp"
+}

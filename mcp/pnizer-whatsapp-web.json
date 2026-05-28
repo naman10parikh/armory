@@ -1,0 +1,7 @@
+{
+  "name": "pnizer-whatsapp-web",
+  "description": "Enables AI interaction with WhatsApp through direct client integration or API connectivity, supporting message handling, contact management, group creation, and conversation search capabilities.",
+  "source_repo": "pnizer/wweb-mcp",
+  "source_url": "https://github.com/pnizer/wweb-mcp",
+  "install": "npx -y wweb-mcp"
+}

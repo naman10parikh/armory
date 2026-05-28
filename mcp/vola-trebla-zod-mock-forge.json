@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-zod-mock-forge",
+  "description": "Generates deterministic mock data and API contract scaffolding from Zod schemas.",
+  "source_repo": "vola-trebla/zod-contract-mock-forge-mcp",
+  "source_url": "https://github.com/vola-trebla/zod-contract-mock-forge-mcp",
+  "install": "npx -y zod-contract-mock-forge-mcp"
+}

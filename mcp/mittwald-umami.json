@@ -1,0 +1,7 @@
+{
+  "name": "mittwald-umami",
+  "description": "Read-only Streamable HTTP MCP server for Umami Analytics providing traffic stats, pageviews, live visitor counts, and session data.",
+  "source_repo": "mittwald/umami-mcp",
+  "source_url": "https://github.com/mittwald/umami-mcp",
+  "install": "npx -y umami-mcp"
+}

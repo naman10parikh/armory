@@ -1,0 +1,7 @@
+{
+  "name": "servicegraph",
+  "description": "Searchable directory of 100,000+ US professional-services firms.",
+  "source_repo": "nostrband/servicegraph",
+  "source_url": "https://github.com/nostrband/servicegraph",
+  "install": "# git clone --depth 1 https://github.com/nostrband/servicegraph\n# See source for mcpServers config block"
+}

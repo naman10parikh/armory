@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-stocks",
+  "description": "Tracks real-time market data for major crypto-related stocks like Coinbase and MicroStrategy using yfinance, providing tools to list crypto-adjacent equities, fetch current prices with timestamps, and retrieve historical price data for traditional equity analysis of the blockchain sector.",
+  "source_repo": "kukapay/crypto-stocks-mcp",
+  "source_url": "https://github.com/kukapay/crypto-stocks-mcp",
+  "install": "npx -y crypto-stocks-mcp"
+}

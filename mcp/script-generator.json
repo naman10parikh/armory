@@ -1,0 +1,7 @@
+{
+  "name": "script-generator",
+  "description": "Generates professional video scripts using a multi-agent workflow with OpenAI's GPT-4o and Tavily's research capabilities, enabling efficient content creation across various topics.",
+  "source_repo": "pratik-kumar-cse/script-generation-mcp",
+  "source_url": "https://github.com/pratik-kumar-cse/script-generation-mcp",
+  "install": "npx -y script-generation-mcp"
+}

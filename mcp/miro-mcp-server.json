@@ -1,0 +1,7 @@
+{
+  "name": "miro-mcp-server",
+  "description": "Enables AI agents to programmatically interact with a Miro board through the Miro API, supporting operations like creating items, updating positions, and managing connectors.",
+  "source_repo": "LuotoCompany/mcp-server-miro",
+  "source_url": "https://github.com/LuotoCompany/mcp-server-miro",
+  "install": "# git clone --depth 1 https://github.com/LuotoCompany/mcp-server-miro\n# See source for mcpServers config block"
+}

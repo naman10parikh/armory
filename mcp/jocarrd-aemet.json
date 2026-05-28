@@ -1,0 +1,7 @@
+{
+  "name": "jocarrd-aemet",
+  "description": "Spanish weather data from AEMET OpenData: forecasts, CAP warnings, and station observations.",
+  "source_repo": "jocarrd/aemet-client",
+  "source_url": "https://github.com/jocarrd/aemet-client",
+  "install": "# git clone --depth 1 https://github.com/jocarrd/aemet-client\n# See source for mcpServers config block"
+}

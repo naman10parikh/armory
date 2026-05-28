@@ -1,0 +1,7 @@
+{
+  "name": "arcgis-pro-bridge-mcp-server",
+  "description": "A local MCP server that enables AI clients to read ArcGIS Pro project information and execute ArcPy geoprocessing in the native ArcGIS Pro Python environment.",
+  "source_repo": "Sangwxx/ArcGIS-Pro-Bridge-MCP-Server",
+  "source_url": "https://github.com/Sangwxx/ArcGIS-Pro-Bridge-MCP-Server",
+  "install": "npx -y ArcGIS-Pro-Bridge-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prompeteer",
+  "description": "AI prompt engineering with expert-level generation, quality scoring, and prompt library management.",
+  "source_repo": "prompeteer/prompeteer-mcp",
+  "source_url": "https://github.com/prompeteer/prompeteer-mcp",
+  "install": "npx -y prompeteer-mcp"
+}

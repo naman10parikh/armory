@@ -1,0 +1,7 @@
+{
+  "name": "idapixl-idapixl-web-research-mcp",
+  "description": "Pay-per-use web research for AI agents on Apify. Search (Brave + DuckDuckGo), fetch pages to clean markdown, and multi-step research with relevance scoring and key fact extraction.",
+  "source_repo": "idapixl/idapixl-web-research-mcp",
+  "source_url": "https://github.com/idapixl/idapixl-web-research-mcp",
+  "install": "npx -y idapixl-web-research-mcp"
+}

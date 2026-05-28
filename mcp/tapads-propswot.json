@@ -1,0 +1,7 @@
+{
+  "name": "tapads-propswot",
+  "description": "Property management tools for work orders, vendors, appliances, and maintenance triage.",
+  "source_repo": "",
+  "source_url": "https://pm.propswot.com/api/mcp",
+  "install": "# git clone --depth 1 https://pm.propswot.com/api/mcp\n# See source for mcpServers config block"
+}

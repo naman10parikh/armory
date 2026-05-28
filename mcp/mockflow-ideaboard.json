@@ -1,0 +1,7 @@
+{
+  "name": "mockflow-ideaboard",
+  "description": "Visual diagram creation including flowcharts, mind maps, kanban boards, and architecture diagrams.",
+  "source_repo": "mockflow/ideaboard-mcp",
+  "source_url": "https://github.com/mockflow/ideaboard-mcp",
+  "install": "npx -y ideaboard-mcp"
+}

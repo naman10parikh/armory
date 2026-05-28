@@ -1,0 +1,7 @@
+{
+  "name": "gemini-bridge",
+  "description": "A lightweight MCP server that enables AI coding assistants to interact with Google's Gemini AI through the official CLI.",
+  "source_repo": "FojleRabbiRabib/gemini-bridge",
+  "source_url": "https://github.com/FojleRabbiRabib/gemini-bridge",
+  "install": "# git clone --depth 1 https://github.com/FojleRabbiRabib/gemini-bridge\n# See source for mcpServers config block"
+}

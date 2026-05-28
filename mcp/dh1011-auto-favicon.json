@@ -1,0 +1,7 @@
+{
+  "name": "dh1011-auto-favicon",
+  "description": "Automatically generates complete favicon sets from PNG images or URLs, creating multiple sizes, ICO files, Apple touch icons, and web app manifests for comprehensive cross-platform web compatibility.",
+  "source_repo": "dh1011/auto-favicon-mcp",
+  "source_url": "https://github.com/dh1011/auto-favicon-mcp",
+  "install": "npx -y auto-favicon-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "omniparser-autogui-mcp",
+  "description": "Omniparser Autogui Mcp MCP server listed on mcp.so.",
+  "source_repo": "NON906/omniparser-autogui-mcp",
+  "source_url": "https://mcp.so/server/omniparser-autogui-mcp/NON906",
+  "install": "npx -y omniparser-autogui-mcp"
+}

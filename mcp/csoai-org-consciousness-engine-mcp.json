@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-consciousness-engine-mcp",
+  "description": "Simulation and modeling tools for consciousness-related AI experiments.",
+  "source_repo": "csoai-org/consciousness-engine-mcp",
+  "source_url": "https://github.com/csoai-org/consciousness-engine-mcp",
+  "install": "npx -y consciousness-engine-mcp"
+}

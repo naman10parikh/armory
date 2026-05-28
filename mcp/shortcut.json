@@ -1,0 +1,7 @@
+{
+  "name": "shortcut",
+  "description": "Integrates with Shortcut's project management platform to provide story management, epic and iteration operations, team workflows, objective tracking, and comprehensive search capabilities for development teams automating sprint planning and task management.",
+  "source_repo": "useshortcut/mcp-server-shortcut",
+  "source_url": "https://github.com/useshortcut/mcp-server-shortcut",
+  "install": "# git clone --depth 1 https://github.com/useshortcut/mcp-server-shortcut\n# See source for mcpServers config block"
+}

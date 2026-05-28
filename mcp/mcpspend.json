@@ -1,0 +1,7 @@
+{
+  "name": "mcpspend",
+  "description": "Track MCP tool call costs, latency, and errors across AI agent sessions with budget alerts and attribution.",
+  "source_repo": "andreisirbu91-lab/mcpspend",
+  "source_url": "https://github.com/andreisirbu91-lab/mcpspend",
+  "install": "# git clone --depth 1 https://github.com/andreisirbu91-lab/mcpspend\n# See source for mcpServers config block"
+}

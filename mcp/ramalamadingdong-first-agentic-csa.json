@@ -1,0 +1,7 @@
+{
+  "name": "ramalamadingdong-first-agentic-csa",
+  "description": "Search through FRC documentation for WPILib, REV, CTRE, Redux, and PhotonVision using natural language questions.",
+  "source_repo": "ramalamadingdong/agentic-csa",
+  "source_url": "https://github.com/ramalamadingdong/agentic-csa",
+  "install": "# git clone --depth 1 https://github.com/ramalamadingdong/agentic-csa\n# See source for mcpServers config block"
+}

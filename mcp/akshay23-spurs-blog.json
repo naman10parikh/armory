@@ -1,0 +1,7 @@
+{
+  "name": "akshay23-spurs-blog",
+  "description": "Provides San Antonio Spurs basketball news by scraping the Pounding The Rock blog, offering tools to retrieve articles, search content, extract game results, and get player information with recent mentions.",
+  "source_repo": "akshay23/spurs-blog-mcp-server",
+  "source_url": "https://github.com/akshay23/spurs-blog-mcp-server",
+  "install": "npx -y spurs-blog-mcp-server"
+}

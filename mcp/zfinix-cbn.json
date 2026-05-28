@@ -1,0 +1,7 @@
+{
+  "name": "zfinix-cbn",
+  "description": "Integrates with the Central Bank of Nigeria API to fetch, search, and filter regulatory circulars and policy documents by date range and category, providing direct PDF access for compliance analysis and regulatory research.",
+  "source_repo": "zfinix/cbn_mcp",
+  "source_url": "https://github.com/zfinix/cbn_mcp",
+  "install": "npx -y cbn_mcp"
+}

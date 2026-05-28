@@ -1,0 +1,7 @@
+{
+  "name": "pdf-indexer-mcp-server",
+  "description": "Enables AI agents to download, index, and semantically search PDF research papers using 8 MCP tools.",
+  "source_repo": "lizTheDeveloper/pdf-indexer-mcp",
+  "source_url": "https://github.com/lizTheDeveloper/pdf-indexer-mcp",
+  "install": "npx -y pdf-indexer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-anilist",
+  "description": "Anime and manga data from AniList via the AniList GraphQL API, free with no authentication.",
+  "source_repo": "pipeworx-io/mcp-anilist",
+  "source_url": "https://github.com/pipeworx-io/mcp-anilist",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-anilist\n# See source for mcpServers config block"
+}

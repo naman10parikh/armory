@@ -1,0 +1,7 @@
+{
+  "name": "ythalorossy-openfda",
+  "description": "Integrates with the FDA's OpenFDA API to provide access to drug information, safety data, adverse event reports, and manufacturer details through eight specialized search and retrieval tools with robust error handling and NDC format validation.",
+  "source_repo": "ythalorossy/openfda",
+  "source_url": "https://github.com/ythalorossy/openfda",
+  "install": "# git clone --depth 1 https://github.com/ythalorossy/openfda\n# See source for mcpServers config block"
+}

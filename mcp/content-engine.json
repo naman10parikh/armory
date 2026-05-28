@@ -1,0 +1,7 @@
+{
+  "name": "content-engine",
+  "description": "AI content creation for autonomous agents. Generate video scripts, images, and videos from any topic via MCP tools — pay-per-use in USDC with x402 protocol. No API keys, no signup, no subscriptions. ### Free Tools - `get_pricing` — Live USDC pricing for all operations - `get_queue_status` — Queue po",
+  "source_repo": "",
+  "source_url": "https://content-engine-x402.fly.dev",
+  "install": "# git clone --depth 1 https://content-engine-x402.fly.dev\n# See source for mcpServers config block"
+}

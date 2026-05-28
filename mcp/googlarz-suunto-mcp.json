@@ -1,0 +1,7 @@
+{
+  "name": "googlarz-suunto-mcp",
+  "description": "MCP server for Suunto watches via the official apizone API. OAuth2 pairing, list/get workouts, time-series samples, FIT-file decoding, GPX export, plus 24/7 activity, sleep, and recovery/HRV. Resources expose today's recovery and the week's training summary as ambient context.",
+  "source_repo": "googlarz/suunto-mcp",
+  "source_url": "https://github.com/googlarz/suunto-mcp",
+  "install": "npx -y suunto-mcp"
+}

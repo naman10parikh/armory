@@ -1,0 +1,7 @@
+{
+  "name": "gh-tranhoaihung-figma-ui",
+  "description": "Bidirectional Figma integration that enables drawing UI with code and reading designs as structured data.",
+  "source_repo": "tranhoaihung/figma-ui-mcp",
+  "source_url": "https://github.com/tranhoaihung/figma-ui-mcp",
+  "install": "npx -y figma-ui-mcp"
+}

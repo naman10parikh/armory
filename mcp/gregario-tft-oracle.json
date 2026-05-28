@@ -1,0 +1,7 @@
+{
+  "name": "gregario-tft-oracle",
+  "description": "Provides accurate Teamfight Tactics champion, trait, item, augment, and rolling odds data sourced from CommunityDragon.",
+  "source_repo": "gregario/tft-oracle",
+  "source_url": "https://github.com/gregario/tft-oracle",
+  "install": "# git clone --depth 1 https://github.com/gregario/tft-oracle\n# See source for mcpServers config block"
+}

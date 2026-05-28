@@ -1,0 +1,7 @@
+{
+  "name": "edkdev-defi-trading",
+  "description": "Transforms conversational interfaces into autonomous DeFi trading agents with real-time market analysis, portfolio management, and seamless trade execution across 17+ blockchains including Ethereum, Base, and Arbitrum through 0x API swap aggregation and gasless trading support.",
+  "source_repo": "edkdev/defi-trading-mcp",
+  "source_url": "https://github.com/edkdev/defi-trading-mcp",
+  "install": "npx -y defi-trading-mcp"
+}

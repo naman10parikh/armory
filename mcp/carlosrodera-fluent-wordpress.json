@@ -1,0 +1,7 @@
+{
+  "name": "carlosrodera-fluent-wordpress",
+  "description": "Collection of five servers connecting AI agents to the Fluent WordPress plugin ecosystem.",
+  "source_repo": "carlosrodera/fluent-mcp-servers",
+  "source_url": "https://github.com/carlosrodera/fluent-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/carlosrodera/fluent-mcp-servers\n# See source for mcpServers config block"
+}

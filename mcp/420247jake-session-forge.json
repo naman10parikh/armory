@@ -1,0 +1,7 @@
+{
+  "name": "420247jake-session-forge",
+  "description": "Persistent session memory with decision logging and dead-end tracking for coding assistants.",
+  "source_repo": "420247jake/session-forge",
+  "source_url": "https://github.com/420247jake/session-forge",
+  "install": "# git clone --depth 1 https://github.com/420247jake/session-forge\n# See source for mcpServers config block"
+}

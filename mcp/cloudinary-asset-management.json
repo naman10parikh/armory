@@ -1,0 +1,7 @@
+{
+  "name": "cloudinary-asset-management",
+  "description": "Provides asset management capabilities for uploading, searching, transforming, and organizing media assets in Cloudinary.",
+  "source_repo": "cloudinary/asset-management-mcp",
+  "source_url": "https://github.com/cloudinary/asset-management-mcp",
+  "install": "npx -y asset-management-mcp"
+}

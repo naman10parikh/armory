@@ -1,0 +1,7 @@
+{
+  "name": "williamcloudqi-matlab",
+  "description": "Integrates with MATLAB to execute code, generate scripts from natural language, and access documentation, enabling complex mathematical operations and data analysis using MATLAB's toolsets.",
+  "source_repo": "williamcloudqi/matlab-mcp-server",
+  "source_url": "https://github.com/williamcloudqi/matlab-mcp-server",
+  "install": "npx -y matlab-mcp-server"
+}

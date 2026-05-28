@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-tilda",
+  "description": "Integrates with Tilda website builder API for project, page, and content management.",
+  "source_repo": "theyahia/tilda-mcp",
+  "source_url": "https://github.com/theyahia/tilda-mcp",
+  "install": "npx -y tilda-mcp"
+}

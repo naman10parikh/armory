@@ -1,0 +1,7 @@
+{
+  "name": "nodetec-nostr-code-snippets",
+  "description": "Enables AI to fetch and retrieve code snippets from the decentralized Nostr protocol network for accessing community-shared programming solutions.",
+  "source_repo": "nodetec/nostr-code-snippet-mcp",
+  "source_url": "https://github.com/nodetec/nostr-code-snippet-mcp",
+  "install": "npx -y nostr-code-snippet-mcp"
+}

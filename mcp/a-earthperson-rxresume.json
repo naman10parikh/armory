@@ -1,0 +1,7 @@
+{
+  "name": "a-earthperson-rxresume",
+  "description": "Integrates with the Reactive Resume API for creating, editing, and managing professional resumes with schema-validated data manipulation.",
+  "source_repo": "a-earthperson/rxresume-mcp",
+  "source_url": "https://github.com/a-earthperson/rxresume-mcp",
+  "install": "npx -y rxresume-mcp"
+}

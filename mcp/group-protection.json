@@ -1,0 +1,7 @@
+{
+  "name": "group-protection",
+  "description": "Provides access to insurance policy and claims data with tools for monitoring policy changes, premium payments, member enrollments, and claims processing",
+  "source_repo": "wayneqs/mcp_server_spike",
+  "source_url": "https://github.com/wayneqs/mcp_server_spike",
+  "install": "# git clone --depth 1 https://github.com/wayneqs/mcp_server_spike\n# See source for mcpServers config block"
+}

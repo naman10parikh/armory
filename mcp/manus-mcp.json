@@ -1,0 +1,7 @@
+{
+  "name": "manus-mcp",
+  "description": "Manus Mcp MCP server listed on mcp.so.",
+  "source_repo": "huyouare/manus-mcp",
+  "source_url": "https://mcp.so/server/manus-mcp/huyouare",
+  "install": "npx -y manus-mcp"
+}

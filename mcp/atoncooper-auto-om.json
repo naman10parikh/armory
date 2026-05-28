@@ -1,0 +1,7 @@
+{
+  "name": "atoncooper-auto-om",
+  "description": "Provides remote Linux server automation through SSH connections with tools for file management, text processing, system monitoring, process management, network operations, compression, and package management.",
+  "source_repo": "atoncooper/auto-om",
+  "source_url": "https://github.com/atoncooper/auto-om",
+  "install": "# git clone --depth 1 https://github.com/atoncooper/auto-om\n# See source for mcpServers config block"
+}

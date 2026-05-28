@@ -1,0 +1,7 @@
+{
+  "name": "seunghan91-ainote",
+  "description": "Manages AI-powered notes and knowledge through the ainote.dev service.",
+  "source_repo": "seunghan91/ainote",
+  "source_url": "https://github.com/seunghan91/ainote",
+  "install": "# git clone --depth 1 https://github.com/seunghan91/ainote\n# See source for mcpServers config block"
+}

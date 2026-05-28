@@ -1,0 +1,7 @@
+{
+  "name": "ethancod1ng-bybit",
+  "description": "Integrates with Bybit cryptocurrency exchange APIs to provide real-time market data, account management, and testnet-only trading operations for cryptocurrency trading and portfolio management applications.",
+  "source_repo": "ethancod1ng/bybit-mcp-server",
+  "source_url": "https://github.com/ethancod1ng/bybit-mcp-server",
+  "install": "npx -y bybit-mcp-server"
+}

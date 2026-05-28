@@ -1,0 +1,7 @@
+{
+  "name": "tech-mcp-server",
+  "description": "Tech Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "a-ssign/tech-mcp-server",
+  "source_url": "https://mcp.so/server/tech-mcp-server/a-ssign",
+  "install": "npx -y tech-mcp-server"
+}

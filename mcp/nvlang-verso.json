@@ -1,0 +1,7 @@
+{
+  "name": "nvlang-verso",
+  "description": "Read Verso-generated documentation sites such as the Lean Language Reference via MCP.",
+  "source_repo": "nvlang/verso-mcp",
+  "source_url": "https://github.com/nvlang/verso-mcp",
+  "install": "npx -y verso-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "localstack",
+  "description": "Provides tools to manage your LocalStack container and other assorted related tasks, to simplify local cloud development and testing.",
+  "source_repo": "localstack/localstack-mcp-server",
+  "source_url": "https://github.com/localstack/localstack-mcp-server",
+  "install": "npx -y localstack-mcp-server"
+}

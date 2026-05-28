@@ -1,0 +1,7 @@
+{
+  "name": "aegis-dq-aegis-dq",
+  "description": "Agentic data quality framework that runs structured rules against warehouses (DuckDB, BigQuery, Athena, Databricks, Postgres), diagnoses failures with LLM root cause analysis, and proposes SQL remediations. Every LLM decision is audit-logged with cost and latency.",
+  "source_repo": "aegis-dq/aegis-dq",
+  "source_url": "https://github.com/aegis-dq/aegis-dq",
+  "install": "# git clone --depth 1 https://github.com/aegis-dq/aegis-dq\n# See source for mcpServers config block"
+}

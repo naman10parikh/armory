@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-scope-guard",
+  "description": "Enforces scope boundaries in multi-agent systems to prevent drift and duplicate work.",
+  "source_repo": "mdfifty50-boop/scope-guard-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/scope-guard-mcp",
+  "install": "npx -y scope-guard-mcp"
+}

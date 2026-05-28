@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-56",
+  "description": "Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "gleanwork/mcp-server",
+  "source_url": "https://mcp.so/server/mcp-server/gleanwork",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server/gleanwork\n# See source for mcpServers config block"
+}

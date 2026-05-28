@@ -1,0 +1,7 @@
+{
+  "name": "gh-nextonexus-163-email",
+  "description": "Integrates with 163.com email accounts via IMAP and SMTP to read, search, send, and manage emails with attachments.",
+  "source_repo": "nextonexus/nexus-email-mcp-server",
+  "source_url": "https://github.com/nextonexus/nexus-email-mcp-server",
+  "install": "npx -y nexus-email-mcp-server"
+}

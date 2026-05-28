@@ -1,0 +1,7 @@
+{
+  "name": "jemgold-capacities",
+  "description": "Integrates with Capacities knowledge management platform to search content across knowledge bases, save weblinks with metadata, add content to daily notes, and create structured summaries, research notes, and meeting notes.",
+  "source_repo": "jem-computer/capacities-mcp",
+  "source_url": "https://github.com/jem-computer/capacities-mcp",
+  "install": "npx -y capacities-mcp"
+}

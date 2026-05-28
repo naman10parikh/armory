@@ -1,0 +1,7 @@
+{
+  "name": "christopherwxyz-remix-ableton",
+  "description": "Controls Ableton Live through OSC communication, providing tools for transport control, track management, MIDI clip creation and editing, device parameter manipulation, browser navigation, and scene triggering across Session and Arrangement views.",
+  "source_repo": "christopherwxyz/remix-mcp",
+  "source_url": "https://github.com/christopherwxyz/remix-mcp",
+  "install": "npx -y remix-mcp"
+}

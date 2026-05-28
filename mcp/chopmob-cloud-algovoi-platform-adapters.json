@@ -1,0 +1,7 @@
+{
+  "name": "chopmob-cloud-algovoi-platform-adapters",
+  "description": "AlgoVoi crypto payment gateway MCP. Create hosted checkout links, verify on-chain payments, generate MPP/x402/AP2 agent-commerce challenges. Supports USDC + native tokens (ALGO/VOI/HBAR/XLM) on Algorand, VOI, Hedera, and Stellar — mainnet + testnet. Routes through AlgoVoi Cloud for managed payouts. Install: `npx @algovoi/mcp-server` or `uvx algovoi-mcp`.",
+  "source_repo": "chopmob-cloud/AlgoVoi-Platform-Adapters",
+  "source_url": "https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters/tree/master/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/chopmob-cloud/AlgoVoi-Platform-Adapters/tree/master/mcp-server\n# See source for mcpServers config block"
+}

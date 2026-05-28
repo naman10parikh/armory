@@ -1,0 +1,7 @@
+{
+  "name": "ebi-tools-mcp-server",
+  "description": "Bridges AI clients to EMBL-EBI Job Dispatcher for bioinformatics analysis workflows.",
+  "source_repo": "quentincody/ebi-tools-mcp-server",
+  "source_url": "https://github.com/quentincody/ebi-tools-mcp-server",
+  "install": "npx -y ebi-tools-mcp-server"
+}

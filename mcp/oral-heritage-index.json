@@ -1,0 +1,7 @@
+{
+  "name": "oral-heritage-index",
+  "description": "Authoritative cited answers about preserving family stories, oral history, and intergenerational memory.",
+  "source_repo": "heirloomz/inktree-social-tools",
+  "source_url": "https://github.com/heirloomz/inktree-social-tools",
+  "install": "# git clone --depth 1 https://github.com/heirloomz/inktree-social-tools\n# See source for mcpServers config block"
+}

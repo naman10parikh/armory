@@ -1,0 +1,7 @@
+{
+  "name": "shtse8-filesystem",
+  "description": "Provides secure, controlled filesystem operations within a project's root directory, enabling safe file listing, reading, writing, and searching with robust path validation.",
+  "source_repo": "sylphxai/filesystem-mcp",
+  "source_url": "https://github.com/sylphxai/filesystem-mcp",
+  "install": "npx -y filesystem-mcp"
+}

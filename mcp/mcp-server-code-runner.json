@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-code-runner",
+  "description": "Mcp Server Code Runner MCP server listed on mcp.so.",
+  "source_repo": "formulahendry/mcp-server-code-runner",
+  "source_url": "https://mcp.so/server/mcp-server-code-runner/formulahendry",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-code-runner/formulahendry\n# See source for mcpServers config block"
+}

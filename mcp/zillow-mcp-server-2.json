@@ -1,0 +1,7 @@
+{
+  "name": "zillow-mcp-server-2",
+  "description": "Provides real-time access to Zillow real estate data, enabling property search, details, Zestimates, market trends, and mortgage calculations via natural language.",
+  "source_repo": "sap156/zillow-mcp-server",
+  "source_url": "https://github.com/sap156/zillow-mcp-server",
+  "install": "npx -y zillow-mcp-server"
+}

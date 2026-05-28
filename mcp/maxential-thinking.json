@@ -1,0 +1,7 @@
+{
+  "name": "maxential-thinking",
+  "description": "Structured thinking tools for managing reasoning processes with branching and revision capabilities",
+  "source_repo": "bam-devcrew/maxential-thinking-mcp",
+  "source_url": "https://github.com/bam-devcrew/maxential-thinking-mcp",
+  "install": "npx -y maxential-thinking-mcp"
+}

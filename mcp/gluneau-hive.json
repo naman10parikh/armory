@@ -1,0 +1,7 @@
+{
+  "name": "gluneau-hive",
+  "description": "Integrates with the Hive blockchain to enable querying data, posting content, and managing accounts for content creation, social media automation, and blockchain analysis tasks.",
+  "source_repo": "gluneau/hive-mcp-server",
+  "source_url": "https://github.com/gluneau/hive-mcp-server",
+  "install": "npx -y hive-mcp-server"
+}

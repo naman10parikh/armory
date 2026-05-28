@@ -1,0 +1,7 @@
+{
+  "name": "acedata-wan",
+  "description": "AI video generation through the Wan model on the AceDataCloud platform.",
+  "source_repo": "acedatacloud/wanmcp",
+  "source_url": "https://github.com/acedatacloud/wanmcp",
+  "install": "# git clone --depth 1 https://github.com/acedatacloud/wanmcp\n# See source for mcpServers config block"
+}

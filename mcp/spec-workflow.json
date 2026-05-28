@@ -1,0 +1,7 @@
+{
+  "name": "spec-workflow",
+  "description": "Provides structured project management through a four-phase development workflow with requirements gathering, technical design, task breakdown, and implementation execution, featuring real-time web dashboard monitoring, approval workflows for stakeholder review, and specialized validation agents for systematic feature development with documentation trails and collaborative oversight.",
+  "source_repo": "pimzino/spec-workflow-mcp",
+  "source_url": "https://github.com/pimzino/spec-workflow-mcp",
+  "install": "npx -y spec-workflow-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "design-pattern-mcp",
+  "description": "Provides design pattern templates and anti-pattern guidance to AI coding agents for correct pattern implementation.",
+  "source_repo": "sirius-zuo/design-pattern-mcp",
+  "source_url": "https://github.com/sirius-zuo/design-pattern-mcp",
+  "install": "npx -y design-pattern-mcp"
+}

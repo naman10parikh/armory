@@ -1,0 +1,7 @@
+{
+  "name": "jbeshir-uk-supermarkets",
+  "description": "Search and compare grocery prices across nine UK supermarkets including Tesco, Sainsbury's, Ocado, and Morrisons.",
+  "source_repo": "jbeshir/mcp-servers",
+  "source_url": "https://github.com/jbeshir/mcp-servers/tree/HEAD/supermarkets-uk",
+  "install": "# git clone --depth 1 https://github.com/jbeshir/mcp-servers/tree/HEAD/supermarkets-uk\n# See source for mcpServers config block"
+}

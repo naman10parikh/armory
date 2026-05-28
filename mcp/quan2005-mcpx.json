@@ -1,0 +1,7 @@
+{
+  "name": "quan2005-mcpx",
+  "description": "Proxy server that aggregates multiple MCP servers into a single unified interface with progressive tool loading, session isolation, and health monitoring.",
+  "source_repo": "quan2005/mcp-compact",
+  "source_url": "https://github.com/quan2005/mcp-compact",
+  "install": "# git clone --depth 1 https://github.com/quan2005/mcp-compact\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-super",
+  "description": "Google Super App combines all Google services including Drive, Calendar, Gmail, Sheets, Analytics, Ads, and more, providing a unified platform for seamless integration and management of your digital life.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/googlesuper",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/googlesuper\n# See source for mcpServers config block"
+}

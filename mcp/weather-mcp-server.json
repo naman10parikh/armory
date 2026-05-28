@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-server",
+  "description": "Retrieve real-time weather information effortlessly for any city. Get accurate weather updates using a simple command or API call without needing an API key. Enhance your applications with reliable weather data from the Open-Meteo API.",
+  "source_repo": "isdaniel/mcp_weather_server",
+  "source_url": "https://github.com/isdaniel/mcp_weather_server",
+  "install": "# git clone --depth 1 https://github.com/isdaniel/mcp_weather_server\n# See source for mcpServers config block"
+}

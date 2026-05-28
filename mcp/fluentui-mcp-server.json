@@ -1,0 +1,7 @@
+{
+  "name": "fluentui-mcp-server",
+  "description": "Comprehensive MCP server for Fluent UI React v9 development, providing component knowledge, design tokens, code generation, and validation tools.",
+  "source_repo": "aminvishvam/fluentui-mcp-server",
+  "source_url": "https://github.com/aminvishvam/fluentui-mcp-server",
+  "install": "npx -y fluentui-mcp-server"
+}

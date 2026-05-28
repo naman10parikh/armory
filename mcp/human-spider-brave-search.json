@@ -1,0 +1,7 @@
+{
+  "name": "human-spider-brave-search",
+  "description": "Integrates with Brave Search API to enable secure and privacy-focused web searches for research and content aggregation tasks.",
+  "source_repo": "human-spider/mcp-server-brave",
+  "source_url": "https://github.com/human-spider/mcp-server-brave",
+  "install": "# git clone --depth 1 https://github.com/human-spider/mcp-server-brave\n# See source for mcpServers config block"
+}

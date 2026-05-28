@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-get-dollars-news-news",
+  "description": "Mcp_server_get_dollars_news_news MCP server listed on mcp.so.",
+  "source_repo": "RainbollD/mcp_server_get_dollars_news_news",
+  "source_url": "https://mcp.so/server/mcp_server_get_dollars_news_news/RainbollD",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_get_dollars_news_news/RainbollD\n# See source for mcpServers config block"
+}

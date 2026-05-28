@@ -1,0 +1,7 @@
+{
+  "name": "wavelovey-pubmed-search",
+  "description": "Integrates with PubMed to enable natural language querying and analysis of biomedical literature for research and evidence-based decision making.",
+  "source_repo": "wavelovey/pubmed_search",
+  "source_url": "https://github.com/wavelovey/pubmed_search",
+  "install": "# git clone --depth 1 https://github.com/wavelovey/pubmed_search\n# See source for mcpServers config block"
+}

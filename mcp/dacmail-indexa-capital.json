@@ -1,0 +1,7 @@
+{
+  "name": "dacmail-indexa-capital",
+  "description": "Monitors Indexa Capital investment portfolios via read-only REST API access covering performance, transactions, and fees.",
+  "source_repo": "dacmail/indexa-capital-mcp-server",
+  "source_url": "https://github.com/dacmail/indexa-capital-mcp-server",
+  "install": "npx -y indexa-capital-mcp-server"
+}

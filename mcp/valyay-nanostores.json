@@ -1,0 +1,7 @@
+{
+  "name": "valyay-nanostores",
+  "description": "Nanostores state management analysis and documentation search for AI assistants.",
+  "source_repo": "valyay/nanostores-mcp",
+  "source_url": "https://github.com/valyay/nanostores-mcp",
+  "install": "npx -y nanostores-mcp"
+}

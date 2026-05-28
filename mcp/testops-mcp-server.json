@@ -1,0 +1,7 @@
+{
+  "name": "testops-mcp-server",
+  "description": "Enables AI assistants to interact with TestOps 5.25 for managing projects, test runs, test plans, and test cases via MCP tools.",
+  "source_repo": "syn7xx/testops-mcp-server",
+  "source_url": "https://github.com/syn7xx/testops-mcp-server",
+  "install": "npx -y testops-mcp-server"
+}

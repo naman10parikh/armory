@@ -1,0 +1,7 @@
+{
+  "name": "ura-tools-agentrace",
+  "description": "Structured observability for AI agents with session tracking, decision logging, and failure analysis.",
+  "source_repo": "ura-tools/agentrace",
+  "source_url": "https://github.com/ura-tools/agentrace",
+  "install": "# git clone --depth 1 https://github.com/ura-tools/agentrace\n# See source for mcpServers config block"
+}

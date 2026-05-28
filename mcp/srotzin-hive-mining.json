@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-mining",
+  "description": "Provides Tether MOS telemetry, Bitcoin mempool fee intelligence, and Boltz BTC-to-USDC atomic swap brokering.",
+  "source_repo": "srotzin/hive-mcp-mining",
+  "source_url": "https://github.com/srotzin/hive-mcp-mining",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-mining\n# See source for mcpServers config block"
+}

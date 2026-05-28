@@ -1,0 +1,7 @@
+{
+  "name": "whale-tracker-mcp",
+  "description": "Whale Tracker Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/whale-tracker-mcp",
+  "source_url": "https://mcp.so/server/whale-tracker-mcp/kukapay",
+  "install": "npx -y whale-tracker-mcp"
+}

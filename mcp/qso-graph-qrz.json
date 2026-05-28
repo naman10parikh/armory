@@ -1,0 +1,7 @@
+{
+  "name": "qso-graph-qrz",
+  "description": "QRZ.com callsign lookups, DXCC resolution, and logbook queries with rate limiting.",
+  "source_repo": "qso-graph/qrz-mcp",
+  "source_url": "https://github.com/qso-graph/qrz-mcp",
+  "install": "npx -y qrz-mcp"
+}

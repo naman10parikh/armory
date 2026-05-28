@@ -1,0 +1,7 @@
+{
+  "name": "bettyguo-postgres",
+  "description": "Security-hardened read-only PostgreSQL MCP server with AST-based SQL guard using pglast, per-transaction safety envelope, and JSON-Lines audit logging.",
+  "source_repo": "bettyguo/mcp-postgres",
+  "source_url": "https://github.com/bettyguo/mcp-postgres",
+  "install": "# git clone --depth 1 https://github.com/bettyguo/mcp-postgres\n# See source for mcpServers config block"
+}

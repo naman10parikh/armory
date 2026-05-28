@@ -1,0 +1,7 @@
+{
+  "name": "gwas-mcp",
+  "description": "Provides AI-powered access to major biological databases for GWAS and bioinformatics research. Enables natural language queries for protein, gene, variant, pathway, and drug discovery analysis.",
+  "source_repo": "muslus/gwas-mcp",
+  "source_url": "https://github.com/muslus/gwas-mcp",
+  "install": "npx -y gwas-mcp"
+}

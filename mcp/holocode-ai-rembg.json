@@ -1,0 +1,7 @@
+{
+  "name": "holocode-ai-rembg",
+  "description": "Provides background removal capabilities using the rembg library with 20+ specialized models including U2Net, BiRefNet, and SAM variants for portraits, anime, clothing, and general objects, supporting single image processing and batch folder operations with configurable alpha matting and mask-only output options.",
+  "source_repo": "holocode-ai/rembg-mcp",
+  "source_url": "https://github.com/holocode-ai/rembg-mcp",
+  "install": "npx -y rembg-mcp"
+}

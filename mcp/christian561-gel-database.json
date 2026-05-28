@@ -1,0 +1,7 @@
+{
+  "name": "christian561-gel-database",
+  "description": "Integrates with Gel databases to enable automated schema discovery, query validation, and execution of EdgeQL and TypeScript queries for database interactions and management tasks.",
+  "source_repo": "christian561/gel-mcp-server",
+  "source_url": "https://github.com/christian561/gel-mcp-server",
+  "install": "npx -y gel-mcp-server"
+}

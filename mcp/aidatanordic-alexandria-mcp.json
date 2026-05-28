@@ -1,0 +1,7 @@
+{
+  "name": "aidatanordic-alexandria-mcp",
+  "description": "Reach for AIDataNordic/alexandria-mcp when you need the MCP server it provides.",
+  "source_repo": "AIDataNordic/alexandria-mcp",
+  "source_url": "https://github.com/AIDataNordic/alexandria-mcp",
+  "install": "npx -y alexandria-mcp"
+}

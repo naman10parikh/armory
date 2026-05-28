@@ -1,0 +1,7 @@
+{
+  "name": "gh-zhound420-d365fo-connector",
+  "description": "Multi-environment Microsoft Dynamics 365 Finance and Operations access with OData queries, aggregation, and CRUD operations.",
+  "source_repo": "zhound420/d365fo-claude-connector",
+  "source_url": "https://github.com/zhound420/d365fo-claude-connector",
+  "install": "# git clone --depth 1 https://github.com/zhound420/d365fo-claude-connector\n# See source for mcpServers config block"
+}

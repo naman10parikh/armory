@@ -1,0 +1,7 @@
+{
+  "name": "j-east-pixel-surgeon",
+  "description": "Generates, edits, and repairs images and videos through natural language using Google Gemini and OpenAI models.",
+  "source_repo": "j-east/pixel-surgeon-mcp",
+  "source_url": "https://github.com/j-east/pixel-surgeon-mcp",
+  "install": "npx -y pixel-surgeon-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lapfelix-xcode",
+  "description": "Automates Xcode build processes and project management through JavaScript for Automation scripts, enabling project opening, building with specific schemes and destinations, test execution, debugging, and intelligent build log analysis with error reporting.",
+  "source_repo": "lapfelix/xcodemcp",
+  "source_url": "https://github.com/lapfelix/xcodemcp",
+  "install": "# git clone --depth 1 https://github.com/lapfelix/xcodemcp\n# See source for mcpServers config block"
+}

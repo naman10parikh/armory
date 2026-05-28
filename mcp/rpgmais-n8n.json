@@ -1,0 +1,7 @@
+{
+  "name": "rpgmais-n8n",
+  "description": "Comprehensive n8n workflow automation integration with 43 tools covering workflows, data tables, tags, credentials, users, and audit.",
+  "source_repo": "rpgmais/mcp-n8n",
+  "source_url": "https://github.com/rpgmais/mcp-n8n",
+  "install": "# git clone --depth 1 https://github.com/rpgmais/mcp-n8n\n# See source for mcpServers config block"
+}

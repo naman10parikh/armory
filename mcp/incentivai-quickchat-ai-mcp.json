@@ -1,0 +1,7 @@
+{
+  "name": "incentivai-quickchat-ai-mcp",
+  "description": "Launch your conversational Quickchat AI agent as an MCP to give AI apps real-time access to its Knowledge Base and conversational capabilities.",
+  "source_repo": "incentivai/quickchat-ai-mcp",
+  "source_url": "https://github.com/incentivai/quickchat-ai-mcp",
+  "install": "npx -y quickchat-ai-mcp"
+}

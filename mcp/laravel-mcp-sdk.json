@@ -1,0 +1,7 @@
+{
+  "name": "laravel-mcp-sdk",
+  "description": "Laravel Mcp Sdk MCP server listed on mcp.so.",
+  "source_repo": "mohamedahmed01/laravel-mcp-sdk",
+  "source_url": "https://mcp.so/server/laravel-mcp-sdk/mohamedahmed01",
+  "install": "# git clone --depth 1 https://mcp.so/server/laravel-mcp-sdk/mohamedahmed01\n# See source for mcpServers config block"
+}

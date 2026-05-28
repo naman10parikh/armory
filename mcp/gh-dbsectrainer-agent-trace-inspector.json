@@ -1,0 +1,7 @@
+{
+  "name": "gh-dbsectrainer-agent-trace-inspector",
+  "description": "Local-first observability for agent workflows with tool call tracing, token cost estimation, trace comparison, and exportable HTML dashboards.",
+  "source_repo": "dbsectrainer/mcp-agent-trace-inspector",
+  "source_url": "https://github.com/dbsectrainer/mcp-agent-trace-inspector",
+  "install": "# git clone --depth 1 https://github.com/dbsectrainer/mcp-agent-trace-inspector\n# See source for mcpServers config block"
+}

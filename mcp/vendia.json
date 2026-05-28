@@ -1,0 +1,7 @@
+{
+  "name": "vendia",
+  "description": "Fully managed MCP server to run any MCP compliant AI agent (Claude, ChatGPT, Gemini etc.) on any type of data (files, tables, SaaS apps, databases, data warehouse/data lakes etc.).",
+  "source_repo": "",
+  "source_url": "https://www.vendia.com/platform/try-mcp-on-aws-s3/",
+  "install": "# git clone --depth 1 https://www.vendia.com/platform/try-mcp-on-aws-s3/\n# See source for mcpServers config block"
+}

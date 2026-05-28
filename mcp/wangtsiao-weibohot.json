@@ -1,0 +1,7 @@
+{
+  "name": "wangtsiao-weibohot",
+  "description": "Provides real-time access to Weibo trending topics through a TypeScript/Node.js server that delivers Chinese social media insights for conversation workflows requiring current information.",
+  "source_repo": "wangtsiao/pulse-cn-mcp",
+  "source_url": "https://github.com/wangtsiao/pulse-cn-mcp",
+  "install": "npx -y pulse-cn-mcp"
+}

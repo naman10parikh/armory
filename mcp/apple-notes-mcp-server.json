@@ -1,0 +1,7 @@
+{
+  "name": "apple-notes-mcp-server",
+  "description": "Enables AI assistants to read, create, search, update, and delete Apple Notes through natural language conversation, using JXA to communicate directly with the Notes app.",
+  "source_repo": "RodriguesJohn/applenotesmcp",
+  "source_url": "https://github.com/RodriguesJohn/applenotesmcp",
+  "install": "# git clone --depth 1 https://github.com/RodriguesJohn/applenotesmcp\n# See source for mcpServers config block"
+}

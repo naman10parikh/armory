@@ -1,0 +1,7 @@
+{
+  "name": "kailashg-figma-to-react-native",
+  "description": "Extracts and analyzes components from Figma design files, enabling seamless integration between Figma designs and React Native development through component hierarchy processing and metadata generation.",
+  "source_repo": "kailashappdev/figma-mcp-toolkit",
+  "source_url": "https://github.com/kailashappdev/figma-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/kailashappdev/figma-mcp-toolkit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "files",
+  "description": "Cloud-native file orchestration platform for automating secure file operations across multiple systems and protocols",
+  "source_repo": "files-com/files-mcp",
+  "source_url": "https://github.com/files-com/files-mcp",
+  "install": "npx -y files-mcp"
+}

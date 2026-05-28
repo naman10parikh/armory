@@ -1,0 +1,7 @@
+{
+  "name": "leadenrich-mcp-server",
+  "description": "Waterfall lead enrichment for AI agents. Cascades through Apollo, Clearbit, and Hunter to build the most complete lead profile in a single call.",
+  "source_repo": "carsonlabs/leadenrich-mcp",
+  "source_url": "https://github.com/carsonlabs/leadenrich-mcp",
+  "install": "npx -y leadenrich-mcp"
+}

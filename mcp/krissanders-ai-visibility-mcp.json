@@ -1,0 +1,7 @@
+{
+  "name": "krissanders-ai-visibility-mcp",
+  "description": "Audit how AI sees your website. Per-bot robots.txt verdicts for 22 known AI user-agents (GPTBot, ClaudeBot, PerplexityBot, Google-Extended, Bytespider, etc), Cloudflare AI-default flags, on-page schema, sitemap, llms.txt, SPA-shell detection, and cross-model brand mentions via Perplexity + OpenRouter. 0-100 score with explainable deductions; parallel competitor compare. SSRF-guarded, per-call and daily LLM spend caps. MIT, 24 tests, stdio + HTTP.",
+  "source_repo": "krissanders/ai-visibility-mcp",
+  "source_url": "https://github.com/krissanders/ai-visibility-mcp",
+  "install": "npx -y ai-visibility-mcp"
+}

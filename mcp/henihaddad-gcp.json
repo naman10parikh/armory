@@ -1,0 +1,7 @@
+{
+  "name": "henihaddad-gcp",
+  "description": "Integrates with Google Cloud Platform to enable natural language management of cloud resources including compute, storage, networking, and databases through automated OAuth authentication.",
+  "source_repo": "henihaddad/gcp-mcp",
+  "source_url": "https://github.com/henihaddad/gcp-mcp",
+  "install": "npx -y gcp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "miiton-meilisearch-hybrid-search",
+  "description": "Bridges Claude with Meilisearch's hybrid search capabilities, enabling adjustable semantic-to-keyword ratio searches with customizable document filtering for precise information retrieval.",
+  "source_repo": "miiton/meilisearch-hybrid-search-mcp",
+  "source_url": "https://github.com/miiton/meilisearch-hybrid-search-mcp",
+  "install": "npx -y meilisearch-hybrid-search-mcp"
+}

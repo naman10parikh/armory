@@ -1,0 +1,7 @@
+{
+  "name": "adancurusul-embedded-debugger",
+  "description": "Provides hardware debugging capabilities for ARM Cortex-M and RISC-V microcontrollers through probe-rs integration, supporting popular debug probes like J-Link and ST-Link with session management, memory operations, breakpoint control, flash programming, and Real-Time Transfer communication for embedded firmware development.",
+  "source_repo": "adancurusul/embedded-debugger-mcp",
+  "source_url": "https://github.com/adancurusul/embedded-debugger-mcp",
+  "install": "npx -y embedded-debugger-mcp"
+}

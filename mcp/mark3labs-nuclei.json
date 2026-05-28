@@ -1,0 +1,7 @@
+{
+  "name": "mark3labs-nuclei",
+  "description": "Integrates with Nuclei vulnerability scanner to automate security assessments through configurable scanning operations with comprehensive reporting for vulnerability analysis and remediation.",
+  "source_repo": "addcontent/nuclei-mcp",
+  "source_url": "https://github.com/addcontent/nuclei-mcp",
+  "install": "npx -y nuclei-mcp"
+}

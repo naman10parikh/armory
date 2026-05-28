@@ -1,0 +1,7 @@
+{
+  "name": "texan-nxtassist-node-red",
+  "description": "Node-RED flow management with safe deploy, optimistic locking, and smart search across 13 tools.",
+  "source_repo": "texan-nxtassist/nr-mcp",
+  "source_url": "https://github.com/texan-nxtassist/nr-mcp",
+  "install": "npx -y nr-mcp"
+}

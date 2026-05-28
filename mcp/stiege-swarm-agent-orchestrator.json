@@ -1,0 +1,7 @@
+{
+  "name": "stiege-swarm-agent-orchestrator",
+  "description": "Orchestrates parallel Claude agent workloads in isolated Docker containers with functional combinators and lazy result references.",
+  "source_repo": "stiege/swarm-mcp",
+  "source_url": "https://github.com/stiege/swarm-mcp",
+  "install": "npx -y swarm-mcp"
+}

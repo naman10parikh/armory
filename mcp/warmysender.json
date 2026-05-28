@@ -1,0 +1,7 @@
+{
+  "name": "warmysender",
+  "description": "Cold email, email warmup, LinkedIn outreach, and B2B lead generation via AI agents.",
+  "source_repo": "",
+  "source_url": "https://warmysender.com",
+  "install": "# git clone --depth 1 https://warmysender.com\n# See source for mcpServers config block"
+}

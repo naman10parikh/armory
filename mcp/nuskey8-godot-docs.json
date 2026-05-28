@@ -1,0 +1,7 @@
+{
+  "name": "nuskey8-godot-docs",
+  "description": "Provides direct access to complete Godot game engine documentation through search, content retrieval, and class information tools that fetch and convert HTML documentation to clean Markdown format.",
+  "source_repo": "nuskey8/godot-docs-mcp",
+  "source_url": "https://github.com/nuskey8/godot-docs-mcp",
+  "install": "npx -y godot-docs-mcp"
+}

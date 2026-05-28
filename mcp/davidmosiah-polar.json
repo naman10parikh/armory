@@ -1,0 +1,7 @@
+{
+  "name": "davidmosiah-polar",
+  "description": "Privacy-first unofficial MCP server for Polar AccessLink health, sleep, and training data.",
+  "source_repo": "davidmosiah/polarmcp",
+  "source_url": "https://github.com/davidmosiah/polarmcp",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/polarmcp\n# See source for mcpServers config block"
+}

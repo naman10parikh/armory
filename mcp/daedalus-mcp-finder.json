@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-mcp-finder",
+  "description": "Discover, evaluate, and install MCP servers from the Official Registry, Glama, and Smithery.",
+  "source_repo": "daedalus/mcp-server-find",
+  "source_url": "https://github.com/daedalus/mcp-server-find",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-server-find\n# See source for mcpServers config block"
+}

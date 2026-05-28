@@ -1,0 +1,7 @@
+{
+  "name": "axe-mcp-server",
+  "description": "Axe DevTools for Web accessibility testing.",
+  "source_repo": "dequelabs/axe-mcp-server-public",
+  "source_url": "https://github.com/dequelabs/axe-mcp-server-public",
+  "install": "# git clone --depth 1 https://github.com/dequelabs/axe-mcp-server-public\n# See source for mcpServers config block"
+}

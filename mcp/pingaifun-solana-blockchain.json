@@ -1,0 +1,7 @@
+{
+  "name": "pingaifun-solana-blockchain",
+  "description": "Enables interaction with the Solana blockchain for deploying tokens, fetching asset information, checking balances, transferring funds, minting NFTs, trading, and resolving domains without switching context.",
+  "source_repo": "pingaifun/ping-mcp",
+  "source_url": "https://github.com/pingaifun/ping-mcp",
+  "install": "npx -y ping-mcp"
+}

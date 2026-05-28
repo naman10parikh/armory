@@ -1,0 +1,7 @@
+{
+  "name": "nk3750-jitapi",
+  "description": "Dynamic API discovery and execution from OpenAPI specs. Uses semantic search and dependency graphs to find relevant endpoints across multiple registered APIs, plan multi-step workflows, and execute API calls — without dumping entire specs into context.",
+  "source_repo": "nk3750/jitapi",
+  "source_url": "https://github.com/nk3750/jitapi",
+  "install": "# git clone --depth 1 https://github.com/nk3750/jitapi\n# See source for mcpServers config block"
+}

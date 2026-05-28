@@ -1,0 +1,7 @@
+{
+  "name": "shade666-gmail-send",
+  "description": "Sends emails via Gmail SMTP with support for HTML formatting, CC, BCC, and multiple recipients.",
+  "source_repo": "primeberi/gmail-send-mcp",
+  "source_url": "https://github.com/primeberi/gmail-send-mcp",
+  "install": "npx -y gmail-send-mcp"
+}

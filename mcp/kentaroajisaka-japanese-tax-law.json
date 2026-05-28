@@ -1,0 +1,7 @@
+{
+  "name": "kentaroajisaka-japanese-tax-law",
+  "description": "Retrieves Japanese tax laws, administrative circulars, and tribunal rulings from e-Gov and National Tax Agency sources to prevent hallucination.",
+  "source_repo": "kentaroajisaka/tax-law-mcp",
+  "source_url": "https://github.com/kentaroajisaka/tax-law-mcp",
+  "install": "npx -y tax-law-mcp"
+}

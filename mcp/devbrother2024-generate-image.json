@@ -1,0 +1,7 @@
+{
+  "name": "devbrother2024-generate-image",
+  "description": "Provides image generation capabilities by connecting to various models via Gradio clients, enabling creation of images from text prompts for creative workflows and visual design tasks.",
+  "source_repo": "devbrother2024/mcp-generate-image",
+  "source_url": "https://github.com/devbrother2024/mcp-generate-image",
+  "install": "# git clone --depth 1 https://github.com/devbrother2024/mcp-generate-image\n# See source for mcpServers config block"
+}

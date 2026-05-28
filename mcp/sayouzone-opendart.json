@@ -1,0 +1,7 @@
+{
+  "name": "sayouzone-opendart",
+  "description": "Access Korean corporate disclosure data through the OpenDart API.",
+  "source_repo": "sayouzone/sayou-opendart-mcp",
+  "source_url": "https://github.com/sayouzone/sayou-opendart-mcp",
+  "install": "npx -y sayou-opendart-mcp"
+}

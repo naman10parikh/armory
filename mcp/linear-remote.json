@@ -1,0 +1,7 @@
+{
+  "name": "linear-remote",
+  "description": "Integrates with Linear's issue tracking system to enable creating, updating, and searching issues, managing teams, and organizing workflow states directly from conversations.",
+  "source_repo": "martinsione/linear-remote-mcp",
+  "source_url": "https://github.com/martinsione/linear-remote-mcp",
+  "install": "npx -y linear-remote-mcp"
+}

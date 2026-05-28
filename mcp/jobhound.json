@@ -1,0 +1,7 @@
+{
+  "name": "jobhound",
+  "description": "Enables autonomous job search by scanning, scoring, and applying to jobs via APIs like Ashby, Greenhouse, and Lever, with a TUI dashboard for tracking.",
+  "source_repo": "Null-Phnix/jobhound",
+  "source_url": "https://github.com/Null-Phnix/jobhound",
+  "install": "# git clone --depth 1 https://github.com/Null-Phnix/jobhound\n# See source for mcpServers config block"
+}

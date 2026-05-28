@@ -1,0 +1,7 @@
+{
+  "name": "promptvault",
+  "description": "AI prompt library with collections, tags, version history, and team collaboration.",
+  "source_repo": "",
+  "source_url": "https://promtlabs.ru/mcp",
+  "install": "# git clone --depth 1 https://promtlabs.ru/mcp\n# See source for mcpServers config block"
+}

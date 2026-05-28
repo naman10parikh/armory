@@ -1,0 +1,7 @@
+{
+  "name": "cocktail-glass",
+  "description": "Searches 500 cocktail recipes, retrieves full recipes, finds drinks by ingredient, and suggests random picks.",
+  "source_repo": "",
+  "source_url": "https://cocktail.glass",
+  "install": "# git clone --depth 1 https://cocktail.glass\n# See source for mcpServers config block"
+}

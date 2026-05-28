@@ -1,0 +1,7 @@
+{
+  "name": "gh-xiyueyy-ssh-remote",
+  "description": "Executes remote commands and transfers files over SSH with configurable authentication, whitelisting, and AstrBot admin validation.",
+  "source_repo": "xiyueyy/ssh-mcp",
+  "source_url": "https://github.com/xiyueyy/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

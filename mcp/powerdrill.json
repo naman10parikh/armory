@@ -1,0 +1,7 @@
+{
+  "name": "powerdrill",
+  "description": "Provides tools to interact with Powerdrill datasets to perform data work.",
+  "source_repo": "powerdrillai/powerdrill-mcp",
+  "source_url": "https://github.com/powerdrillai/powerdrill-mcp",
+  "install": "npx -y powerdrill-mcp"
+}

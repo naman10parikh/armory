@@ -1,0 +1,7 @@
+{
+  "name": "direct-web-drop-beacon",
+  "description": "Provides access to 100,000+ EDC products and 1,000+ brands from the Drop Beacon database.",
+  "source_repo": "direct-web/drop-beacon-mcp",
+  "source_url": "https://github.com/direct-web/drop-beacon-mcp",
+  "install": "npx -y drop-beacon-mcp"
+}

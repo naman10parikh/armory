@@ -1,0 +1,7 @@
+{
+  "name": "tipdotmd-tip-md-x402-mcp-server",
+  "description": "MCP server for cryptocurrency tipping through AI interfaces using x402 payment protocol and CDP Wallet.",
+  "source_repo": "tipdotmd/tip-md-x402-mcp-server",
+  "source_url": "https://github.com/tipdotmd/tip-md-x402-mcp-server",
+  "install": "npx -y tip-md-x402-mcp-server"
+}

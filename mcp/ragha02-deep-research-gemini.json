@@ -1,0 +1,7 @@
+{
+  "name": "ragha02-deep-research-gemini",
+  "description": "Orchestrates specialized web research agents using CrewAI and Gemini 2.5 Pro to conduct multi-angle searches via LinkUp API and synthesize findings into structured 1500-2000 word reports with citations.",
+  "source_repo": "ragha02/deep_rsrch_gemini",
+  "source_url": "https://github.com/ragha02/deep_rsrch_gemini",
+  "install": "# git clone --depth 1 https://github.com/ragha02/deep_rsrch_gemini\n# See source for mcpServers config block"
+}

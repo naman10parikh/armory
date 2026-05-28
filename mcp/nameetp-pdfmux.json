@@ -1,0 +1,7 @@
+{
+  "name": "nameetp-pdfmux",
+  "description": "PDF extraction router with built-in MCP server. Classifies each page (digital, scanned, tables) and routes to the best backend (PyMuPDF, Docling, OCR, or optional LLM fallback). Per-page confidence scoring flags low-quality pages and auto-reextracts them — prevents silent RAG failures. Zero config: `pip install pdfmux`. MIT licensed.",
+  "source_repo": "NameetP/pdfmux",
+  "source_url": "https://github.com/NameetP/pdfmux",
+  "install": "# git clone --depth 1 https://github.com/NameetP/pdfmux\n# See source for mcpServers config block"
+}

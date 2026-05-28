@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-viewer",
+  "description": "Renders document pages as PNG images and inspects view metadata using GroupDocs.Viewer.",
+  "source_repo": "groupdocs-viewer/groupdocs.viewer.mcp",
+  "source_url": "https://github.com/groupdocs-viewer/groupdocs.viewer.mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-viewer/groupdocs.viewer.mcp\n# See source for mcpServers config block"
+}

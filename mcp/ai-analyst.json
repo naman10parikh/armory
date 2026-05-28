@@ -1,0 +1,7 @@
+{
+  "name": "ai-analyst",
+  "description": "Enables natural language data queries with statistical rigor and a semantic layer, supporting 23+ analytical tools for product analytics.",
+  "source_repo": "sbdk-dev/local-ai-analyst",
+  "source_url": "https://github.com/sbdk-dev/local-ai-analyst",
+  "install": "# git clone --depth 1 https://github.com/sbdk-dev/local-ai-analyst\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcptube-vision",
+  "description": "Transforms YouTube videos into a persistent, structured knowledge base using transcripts and visual frame analysis, enabling knowledge compounding and natural language querying.",
+  "source_repo": "0xchamin/mcptube",
+  "source_url": "https://github.com/0xchamin/mcptube",
+  "install": "# git clone --depth 1 https://github.com/0xchamin/mcptube\n# See source for mcpServers config block"
+}

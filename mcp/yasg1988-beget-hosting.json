@@ -1,0 +1,7 @@
+{
+  "name": "yasg1988-beget-hosting",
+  "description": "Integrates with Beget hosting provider API to manage web hosting infrastructure including sites, domains, MySQL databases, FTP accounts, cron jobs, DNS records, and backups through natural language commands.",
+  "source_repo": "yasg1988/mcp-beget",
+  "source_url": "https://github.com/yasg1988/mcp-beget",
+  "install": "# git clone --depth 1 https://github.com/yasg1988/mcp-beget\n# See source for mcpServers config block"
+}

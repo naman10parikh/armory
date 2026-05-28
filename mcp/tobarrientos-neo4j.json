@@ -1,0 +1,7 @@
+{
+  "name": "tobarrientos-neo4j",
+  "description": "Provides a TypeScript-based server for executing Cypher queries against Neo4j graph databases via stdio transport, enabling secure and flexible database interactions for developers and data analysts.",
+  "source_repo": "tobarrientos2/neo4j-mcpserver",
+  "source_url": "https://github.com/tobarrientos2/neo4j-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/tobarrientos2/neo4j-mcpserver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dingtalk",
+  "description": "Integrates with DingTalk messaging platform through webhook connections to send text messages, markdown content, and link cards with @mentions and signature authentication for team notifications and automated updates.",
+  "source_repo": "sfyyy/claude-code-dingtalk-mcp",
+  "source_url": "https://github.com/sfyyy/claude-code-dingtalk-mcp",
+  "install": "npx -y claude-code-dingtalk-mcp"
+}

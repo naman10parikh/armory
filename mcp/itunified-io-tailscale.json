@@ -1,0 +1,7 @@
+{
+  "name": "itunified-io-tailscale",
+  "description": "Manages Tailscale networks with 48 tools for devices, DNS, ACL policies, auth keys, users, and webhooks.",
+  "source_repo": "itunified-io/mcp-tailscale",
+  "source_url": "https://github.com/itunified-io/mcp-tailscale",
+  "install": "# git clone --depth 1 https://github.com/itunified-io/mcp-tailscale\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ez-walk-weather",
+  "description": "Integrates with National Weather Service APIs to provide current weather alerts by state code and detailed forecasts by location coordinates for planning activities and monitoring severe weather conditions.",
+  "source_repo": "ez-walk/weather-mcp-server",
+  "source_url": "https://github.com/ez-walk/weather-mcp-server",
+  "install": "npx -y weather-mcp-server"
+}

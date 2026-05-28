@@ -1,0 +1,7 @@
+{
+  "name": "cnonim-mcp-hub",
+  "description": "Aggregates multiple upstream MCP servers behind a single stdio interface with TOML-based configuration and resource proxying.",
+  "source_repo": "cnonim/mcp-hub",
+  "source_url": "https://github.com/cnonim/mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/cnonim/mcp-hub\n# See source for mcpServers config block"
+}

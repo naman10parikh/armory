@@ -1,0 +1,7 @@
+{
+  "name": "booking-system-fixed",
+  "description": "Booking System Fixed MCP server listed on mcp.so.",
+  "source_repo": "Konstrex/booking-system-fixed",
+  "source_url": "https://mcp.so/server/booking-system-fixed/Konstrex",
+  "install": "# git clone --depth 1 https://mcp.so/server/booking-system-fixed/Konstrex\n# See source for mcpServers config block"
+}

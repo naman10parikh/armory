@@ -1,0 +1,7 @@
+{
+  "name": "gh-baronsengir007-openclaw-agent-tools",
+  "description": "Bundles weather, GitHub code search, currency conversion, and blockchain wallet trust scoring into a single MCP server.",
+  "source_repo": "baronsengir007/openclaw-agent-tools",
+  "source_url": "https://github.com/baronsengir007/openclaw-agent-tools",
+  "install": "# git clone --depth 1 https://github.com/baronsengir007/openclaw-agent-tools\n# See source for mcpServers config block"
+}

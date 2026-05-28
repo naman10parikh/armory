@@ -1,0 +1,7 @@
+{
+  "name": "pagebolt",
+  "description": "Take screenshots, generate PDFs, create OG images, inspect pages, and record demo videos via the PageBolt web capture API.",
+  "source_repo": "custodia-admin/pagebolt-mcp",
+  "source_url": "https://github.com/custodia-admin/pagebolt-mcp",
+  "install": "npx -y pagebolt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iwanghc-google-search",
+  "description": "Provides web search capabilities through Google Search integration using browser automation with advanced fingerprinting techniques to avoid detection and deliver clean, structured search results.",
+  "source_repo": "iwanghc/mcp_web_search",
+  "source_url": "https://github.com/iwanghc/mcp_web_search",
+  "install": "# git clone --depth 1 https://github.com/iwanghc/mcp_web_search\n# See source for mcpServers config block"
+}

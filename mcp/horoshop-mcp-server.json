@@ -1,0 +1,7 @@
+{
+  "name": "horoshop-mcp-server",
+  "description": "An unofficial MCP server that connects AI agents to Horoshop e-commerce stores, providing tools for managing orders, products, and store operations via the Horoshop API.",
+  "source_repo": "narkov/horoshop-mcp-server",
+  "source_url": "https://github.com/narkov/horoshop-mcp-server",
+  "install": "npx -y horoshop-mcp-server"
+}

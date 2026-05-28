@@ -1,0 +1,7 @@
+{
+  "name": "amansingh63-dbhub-analytics",
+  "description": "Multi-database MCP server supporting PostgreSQL, MySQL, SQL Server, SQLite, Databricks, and BigQuery for AI-powered database exploration and querying.",
+  "source_repo": "amansingh63/dbhub-analytics",
+  "source_url": "https://github.com/amansingh63/dbhub-analytics",
+  "install": "# git clone --depth 1 https://github.com/amansingh63/dbhub-analytics\n# See source for mcpServers config block"
+}

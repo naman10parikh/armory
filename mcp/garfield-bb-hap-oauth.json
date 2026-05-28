@@ -1,0 +1,7 @@
+{
+  "name": "garfield-bb-hap-oauth",
+  "description": "Automates HAP personal OAuth authorization and token generation for MCP client configuration.",
+  "source_repo": "garfield-bb/hap-oauth-mcp",
+  "source_url": "https://github.com/garfield-bb/hap-oauth-mcp",
+  "install": "npx -y hap-oauth-mcp"
+}

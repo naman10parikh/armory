@@ -1,0 +1,7 @@
+{
+  "name": "get-mcp-keys",
+  "description": "Get Mcp Keys MCP server listed on mcp.so.",
+  "source_repo": "StuMason/get-mcp-keys",
+  "source_url": "https://mcp.so/server/get-mcp-keys/StuMason",
+  "install": "# git clone --depth 1 https://mcp.so/server/get-mcp-keys/StuMason\n# See source for mcpServers config block"
+}

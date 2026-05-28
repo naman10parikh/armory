@@ -1,0 +1,7 @@
+{
+  "name": "davidamom-snowflake",
+  "description": "Provides secure access to Snowflake databases with robust connection management, supporting both password and key pair authentication for SQL query execution and data analysis workflows.",
+  "source_repo": "davidamom/snowflake-mcp",
+  "source_url": "https://github.com/davidamom/snowflake-mcp",
+  "install": "npx -y snowflake-mcp"
+}

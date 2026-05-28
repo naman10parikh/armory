@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-argocd",
+  "description": "Integrates with ArgoCD for GitOps continuous delivery and Kubernetes application management.",
+  "source_repo": "asklokesh/argocd-mcp-server",
+  "source_url": "https://github.com/asklokesh/argocd-mcp-server",
+  "install": "npx -y argocd-mcp-server"
+}

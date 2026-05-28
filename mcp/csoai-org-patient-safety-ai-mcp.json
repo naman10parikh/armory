@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-patient-safety-ai-mcp",
+  "description": "Python MCP server for patient safety analysis and healthcare risk assessment.",
+  "source_repo": "csoai-org/patient-safety-ai-mcp",
+  "source_url": "https://github.com/csoai-org/patient-safety-ai-mcp",
+  "install": "npx -y patient-safety-ai-mcp"
+}

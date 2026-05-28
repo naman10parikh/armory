@@ -1,0 +1,7 @@
+{
+  "name": "freecad-mcp",
+  "description": "Freecad Mcp MCP server listed on mcp.so.",
+  "source_repo": "neka-nat/freecad-mcp",
+  "source_url": "https://mcp.so/server/freecad-mcp/neka-nat",
+  "install": "npx -y freecad-mcp"
+}

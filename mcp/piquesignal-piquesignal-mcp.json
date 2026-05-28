@@ -1,0 +1,7 @@
+{
+  "name": "piquesignal-piquesignal-mcp",
+  "description": "Solana memecoin Flash Point alerts with conviction scoring, safety profiles, and market data. Paper trade with a built-in risk engine. 6 tools: signals, paper buy/sell, positions, portfolio, price.",
+  "source_repo": "piquesignal/piquesignal-mcp",
+  "source_url": "https://github.com/piquesignal/piquesignal-mcp",
+  "install": "npx -y piquesignal-mcp"
+}

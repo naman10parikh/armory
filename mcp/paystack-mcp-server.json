@@ -1,0 +1,7 @@
+{
+  "name": "paystack-mcp-server",
+  "description": "Enables AI assistants to interact with the full range of Paystack APIs, allowing operations like transaction management, customer creation, and payments through natural language.",
+  "source_repo": "PaystackOSS/paystack-mcp-server",
+  "source_url": "https://github.com/PaystackOSS/paystack-mcp-server",
+  "install": "npx -y paystack-mcp-server"
+}

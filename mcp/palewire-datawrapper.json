@@ -1,0 +1,7 @@
+{
+  "name": "palewire-datawrapper",
+  "description": "Create and manage Datawrapper charts and visualizations",
+  "source_repo": "palewire/datawrapper-mcp",
+  "source_url": "https://github.com/palewire/datawrapper-mcp",
+  "install": "npx -y datawrapper-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boldsign-boldsign-mcp",
+  "description": "Search, request, and manage e-signature contracts effortlessly with [BoldSign](https://boldsign.com/).",
+  "source_repo": "boldsign/boldsign-mcp",
+  "source_url": "https://github.com/boldsign/boldsign-mcp",
+  "install": "npx -y boldsign-mcp"
+}

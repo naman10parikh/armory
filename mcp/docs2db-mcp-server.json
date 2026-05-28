@@ -1,0 +1,7 @@
+{
+  "name": "docs2db-mcp-server",
+  "description": "MCP server for semantic and hybrid search over RHEL documentation using docs2db RAG, with cross-encoder reranking and support for multiple MCP clients.",
+  "source_repo": "rhel-lightspeed/docs2db-mcp-server",
+  "source_url": "https://github.com/rhel-lightspeed/docs2db-mcp-server",
+  "install": "npx -y docs2db-mcp-server"
+}

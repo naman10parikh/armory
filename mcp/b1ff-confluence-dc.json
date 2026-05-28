@@ -1,0 +1,7 @@
+{
+  "name": "b1ff-confluence-dc",
+  "description": "Integrates with Confluence Data Center for content management and search",
+  "source_repo": "b1ff/atlassian-dc-mcp",
+  "source_url": "https://github.com/b1ff/atlassian-dc-mcp/tree/HEAD/packages/confluence",
+  "install": "npx -y atlassian-dc-mcp"
+}

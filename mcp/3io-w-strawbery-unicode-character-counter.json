@@ -1,0 +1,7 @@
+{
+  "name": "3io-w-strawbery-unicode-character-counter",
+  "description": "Provides Unicode character counting and position tracking for text analysis with support for CJK and multilingual content.",
+  "source_repo": "3io-w/strawbery-mcp",
+  "source_url": "https://github.com/3io-w/strawbery-mcp",
+  "install": "npx -y strawbery-mcp"
+}

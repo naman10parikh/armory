@@ -1,0 +1,7 @@
+{
+  "name": "openai-websearch-mcp",
+  "description": "Openai Websearch Mcp MCP server listed on mcp.so.",
+  "source_repo": "ConechoAI/openai-websearch-mcp",
+  "source_url": "https://mcp.so/server/openai-websearch-mcp/ConechoAI",
+  "install": "npx -y openai-websearch-mcp"
+}

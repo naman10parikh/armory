@@ -1,0 +1,7 @@
+{
+  "name": "philflowio-dav",
+  "description": "AI-orchestrated calendars, contacts, and tasks across any CalDAV/CardDAV platform — 26 field-agnostic tools.",
+  "source_repo": "philflowio/dav-mcp",
+  "source_url": "https://github.com/philflowio/dav-mcp",
+  "install": "npx -y dav-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ruanodendaal-bear-notes",
+  "description": "Connects Claude to Bear Notes through semantic search and vector similarity, enabling powerful knowledge retrieval directly from your personal note database.",
+  "source_repo": "ruanodendaal/bear-mcp-server",
+  "source_url": "https://github.com/ruanodendaal/bear-mcp-server",
+  "install": "npx -y bear-mcp-server"
+}

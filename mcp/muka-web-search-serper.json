@@ -1,0 +1,7 @@
+{
+  "name": "muka-web-search-serper",
+  "description": "Integrates with the Serper API to perform web searches, enabling efficient retrieval and processing of up-to-date web content for applications.",
+  "source_repo": "muka/web-search-mcp",
+  "source_url": "https://github.com/muka/web-search-mcp",
+  "install": "npx -y web-search-mcp"
+}

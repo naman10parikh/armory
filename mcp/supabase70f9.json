@@ -1,0 +1,7 @@
+{
+  "name": "supabase70f9",
+  "description": "Enables AI to perform database operations with Supabase including reading, creating, updating, and deleting records with filtering, pagination, and sorting capabilities.",
+  "source_repo": "gevans3000/supabase-mcp",
+  "source_url": "https://github.com/gevans3000/supabase-mcp",
+  "install": "npx -y supabase-mcp"
+}

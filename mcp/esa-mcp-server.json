@@ -1,0 +1,7 @@
+{
+  "name": "esa-mcp-server",
+  "description": "Esa Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "sou-lab/esa-mcp-server",
+  "source_url": "https://mcp.so/server/esa-mcp-server/sou-lab",
+  "install": "npx -y esa-mcp-server"
+}

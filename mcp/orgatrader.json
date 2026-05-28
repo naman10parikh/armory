@@ -1,0 +1,7 @@
+{
+  "name": "orgatrader",
+  "description": "OrgaTrader MCP server listed on mcp.so.",
+  "source_repo": "dmaccoille820/OrgaTrader",
+  "source_url": "https://mcp.so/server/OrgaTrader/dmaccoille820",
+  "install": "# git clone --depth 1 https://mcp.so/server/OrgaTrader/dmaccoille820\n# See source for mcpServers config block"
+}

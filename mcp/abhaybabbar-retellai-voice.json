@@ -1,0 +1,7 @@
+{
+  "name": "abhaybabbar-retellai-voice",
+  "description": "Integrates with RetellAI's voice services for creating and managing phone conversations, enabling call initiation, agent configuration, and voice selection for tasks like customer service, appointment scheduling, and information gathering.",
+  "source_repo": "abhaybabbar/retellai-mcp-server",
+  "source_url": "https://github.com/abhaybabbar/retellai-mcp-server",
+  "install": "npx -y retellai-mcp-server"
+}

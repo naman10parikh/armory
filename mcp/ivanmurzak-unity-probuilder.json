@@ -1,0 +1,7 @@
+{
+  "name": "ivanmurzak-unity-probuilder",
+  "description": "Integrates with Unity's ProBuilder package to enable 3D mesh creation, editing, and manipulation including shape generation, face extrusion, edge beveling, geometry bridging, and material assignment for level design and procedural content generation workflows.",
+  "source_repo": "ivanmurzak/unity-ai-probuilder",
+  "source_url": "https://github.com/ivanmurzak/unity-ai-probuilder",
+  "install": "# git clone --depth 1 https://github.com/ivanmurzak/unity-ai-probuilder\n# See source for mcpServers config block"
+}

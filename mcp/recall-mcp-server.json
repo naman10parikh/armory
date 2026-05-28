@@ -1,0 +1,7 @@
+{
+  "name": "recall-mcp-server",
+  "description": "Enables interaction with Recall services for blockchain storage operations, including account management, bucket creation, and object CRUD.",
+  "source_repo": "recallnet/recall-mcp",
+  "source_url": "https://github.com/recallnet/recall-mcp",
+  "install": "npx -y recall-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dingding-bot",
+  "description": "Mcp Dingding Bot MCP server listed on mcp.so.",
+  "source_repo": "Shawyeok/mcp-dingding-bot",
+  "source_url": "https://mcp.so/server/mcp-dingding-bot/Shawyeok",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-dingding-bot/Shawyeok\n# See source for mcpServers config block"
+}

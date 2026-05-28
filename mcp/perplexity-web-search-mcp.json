@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-web-search-mcp",
+  "description": "Enables AI assistants to perform real-time web and academic searches using Perplexity's Sonar API.",
+  "source_repo": "lv042/perplexity-web-search-mcp",
+  "source_url": "https://github.com/lv042/perplexity-web-search-mcp",
+  "install": "npx -y perplexity-web-search-mcp"
+}

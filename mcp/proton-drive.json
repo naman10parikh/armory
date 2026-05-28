@@ -1,0 +1,7 @@
+{
+  "name": "proton-drive",
+  "description": "Provides file system access to Proton Drive through cross-platform path detection and standard file operations, enabling encrypted cloud storage management with directory listing, file reading/writing, folder creation, and deletion capabilities.",
+  "source_repo": "anyrxo/proton-drive-mcp",
+  "source_url": "https://github.com/anyrxo/proton-drive-mcp",
+  "install": "npx -y proton-drive-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-think-tool",
+  "description": "Mcp Think Tool MCP server listed on mcp.so.",
+  "source_repo": "DannyMac180/mcp-think-tool",
+  "source_url": "https://mcp.so/server/mcp-think-tool/DannyMac180",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-think-tool/DannyMac180\n# See source for mcpServers config block"
+}

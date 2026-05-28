@@ -1,0 +1,7 @@
+{
+  "name": "doganaybalaban-wealthguard",
+  "description": "Manage personal finances through natural language by connecting Claude to a Google Sheets spreadsheet for budget tracking, forecasting, and transaction logging.",
+  "source_repo": "doganaybalaban/finance-mcp",
+  "source_url": "https://github.com/doganaybalaban/finance-mcp",
+  "install": "npx -y finance-mcp"
+}

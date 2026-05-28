@@ -1,0 +1,7 @@
+{
+  "name": "makz81-spendlog",
+  "description": "Expense tracking for freelancers with income logging, invoice generation, budget management, and accounting exports.",
+  "source_repo": "makz81/spendlog",
+  "source_url": "https://github.com/makz81/spendlog",
+  "install": "# git clone --depth 1 https://github.com/makz81/spendlog\n# See source for mcpServers config block"
+}

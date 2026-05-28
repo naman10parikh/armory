@@ -1,0 +1,7 @@
+{
+  "name": "shigechika-jquants",
+  "description": "Retrieves Japanese stock market data from the J-Quants API including equities, financials, indices, and derivatives.",
+  "source_repo": "shigechika/jquants-mcp",
+  "source_url": "https://github.com/shigechika/jquants-mcp",
+  "install": "npx -y jquants-mcp"
+}

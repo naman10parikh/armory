@@ -1,0 +1,7 @@
+{
+  "name": "aryankeluskar-polymarket",
+  "description": "Real-time Polymarket prediction market data with 7 tools for market discovery, event analysis, and probability tracking",
+  "source_repo": "aryankeluskar/polymarket-mcp",
+  "source_url": "https://github.com/aryankeluskar/polymarket-mcp",
+  "install": "npx -y polymarket-mcp"
+}

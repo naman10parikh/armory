@@ -1,0 +1,7 @@
+{
+  "name": "builtwith-domain-lookup",
+  "description": "Integrates with BuiltWith's technology detection API to identify and analyze web technologies used on specified domains, providing marketers and developers with comprehensive website stack information.",
+  "source_repo": "builtwith/builtwith-mcp",
+  "source_url": "https://github.com/builtwith/builtwith-mcp",
+  "install": "npx -y builtwith-mcp"
+}

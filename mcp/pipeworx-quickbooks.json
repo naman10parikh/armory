@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-quickbooks",
+  "description": "QuickBooks Online financial data including customers, invoices, and chart of accounts.",
+  "source_repo": "pipeworx-io/mcp-quickbooks",
+  "source_url": "https://github.com/pipeworx-io/mcp-quickbooks",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-quickbooks\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zine",
+  "description": "Curated memory you can publish to humans or agents via MCP",
+  "source_repo": "",
+  "source_url": "https://www.zine.ai",
+  "install": "# git clone --depth 1 https://www.zine.ai\n# See source for mcpServers config block"
+}

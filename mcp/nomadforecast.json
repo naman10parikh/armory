@@ -1,0 +1,7 @@
+{
+  "name": "nomadforecast",
+  "description": "Trip planning for nomadic families covering multi-stop itineraries, Schengen rules, visas, and climate data.",
+  "source_repo": "",
+  "source_url": "https://nomadforecast.com/api/mcp",
+  "install": "# git clone --depth 1 https://nomadforecast.com/api/mcp\n# See source for mcpServers config block"
+}

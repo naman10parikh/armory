@@ -1,0 +1,7 @@
+{
+  "name": "open-horizon-services-open-horizon",
+  "description": "Manages IBM Open Horizon edge computing services, nodes, and deployment policies.",
+  "source_repo": "open-horizon-services/service-open-horizon-mcp-server",
+  "source_url": "https://github.com/open-horizon-services/service-open-horizon-mcp-server",
+  "install": "npx -y service-open-horizon-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scgis-wales-helm",
+  "description": "Exposes all 44 Helm CLI operations as MCP tools for release management, chart operations, repository handling, and OCI registry support with Kubernetes integration.",
+  "source_repo": "scgis-wales/helm-mcp",
+  "source_url": "https://github.com/scgis-wales/helm-mcp",
+  "install": "npx -y helm-mcp"
+}

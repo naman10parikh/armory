@@ -1,0 +1,7 @@
+{
+  "name": "sanyambassi-thales-cdsp-cakm-mcp-server",
+  "description": "MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.",
+  "source_repo": "sanyambassi/thales-cdsp-cakm-mcp-server",
+  "source_url": "https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server",
+  "install": "npx -y thales-cdsp-cakm-mcp-server"
+}

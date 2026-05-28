@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mealie",
+  "description": "MCP server for Mealie that exposes its REST API to manage recipes, meal plans, shopping lists, cookbooks, and taxonomy through natural language.",
+  "source_repo": "obrien-matthew/mcp-mealie",
+  "source_url": "https://github.com/obrien-matthew/mcp-mealie",
+  "install": "# git clone --depth 1 https://github.com/obrien-matthew/mcp-mealie\n# See source for mcpServers config block"
+}

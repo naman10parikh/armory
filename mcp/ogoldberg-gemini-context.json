@@ -1,0 +1,7 @@
+{
+  "name": "ogoldberg-gemini-context",
+  "description": "Provides persistent conversation history, semantic search, and API-level caching for Gemini models to optimize token usage and reduce costs.",
+  "source_repo": "ogoldberg/gemini-context-mcp-server",
+  "source_url": "https://github.com/ogoldberg/gemini-context-mcp-server",
+  "install": "npx -y gemini-context-mcp-server"
+}

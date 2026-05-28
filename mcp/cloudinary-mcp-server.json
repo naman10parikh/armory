@@ -1,0 +1,7 @@
+{
+  "name": "cloudinary-mcp-server",
+  "description": "Cloudinary Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "felores/cloudinary-mcp-server",
+  "source_url": "https://mcp.so/server/cloudinary-mcp-server/felores",
+  "install": "npx -y cloudinary-mcp-server"
+}

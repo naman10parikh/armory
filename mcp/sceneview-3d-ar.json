@@ -1,0 +1,7 @@
+{
+  "name": "sceneview-3d-ar",
+  "description": "Cross-platform 3D & AR for Android (Compose + Filament), iOS / macOS / visionOS (SwiftUI + RealityKit), and Web (Filament.js + WebXR). 63 tools across 6 multiplexed MCPs: - **sceneview-mcp** — 26 free tools (samples, guides, validator, code analysis, search) + 7 Pro tools (scene gen, 3D artifacts, m",
+  "source_repo": "",
+  "source_url": "https://sceneview.github.io",
+  "install": "# git clone --depth 1 https://sceneview.github.io\n# See source for mcpServers config block"
+}

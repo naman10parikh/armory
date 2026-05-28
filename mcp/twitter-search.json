@@ -1,0 +1,7 @@
+{
+  "name": "twitter-search",
+  "description": "Enables Claude to search Twitter with natural language queries, filtering by keywords, users, dates, and engagement metrics with formatted markdown results.",
+  "source_repo": "0xgval/twitter-x-mcp-server",
+  "source_url": "https://github.com/0xgval/twitter-x-mcp-server",
+  "install": "npx -y twitter-x-mcp-server"
+}

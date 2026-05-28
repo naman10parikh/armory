@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-who-gho",
+  "description": "WHO Global Health Observatory — 3,059 indicators across 194 member states.",
+  "source_repo": "cyanheads/who-gho-mcp-server",
+  "source_url": "https://github.com/cyanheads/who-gho-mcp-server",
+  "install": "npx -y who-gho-mcp-server"
+}

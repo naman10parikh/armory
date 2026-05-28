@@ -1,0 +1,7 @@
+{
+  "name": "mihailo2501-potter",
+  "description": "MCP server providing B2B GTM research tools for LinkedIn data, web scraping, and decision-maker discovery.",
+  "source_repo": "mihailo2501/potter-mcp",
+  "source_url": "https://github.com/mihailo2501/potter-mcp",
+  "install": "npx -y potter-mcp"
+}

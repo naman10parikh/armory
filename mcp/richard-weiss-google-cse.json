@@ -1,0 +1,7 @@
+{
+  "name": "richard-weiss-google-cse",
+  "description": "Integrates with Google Custom Search Engine API to enable web searches for fact-checking, research, and content generation with current data.",
+  "source_repo": "richard-weiss/mcp-google-cse",
+  "source_url": "https://github.com/richard-weiss/mcp-google-cse",
+  "install": "# git clone --depth 1 https://github.com/richard-weiss/mcp-google-cse\n# See source for mcpServers config block"
+}

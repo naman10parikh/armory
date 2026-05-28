@@ -1,0 +1,7 @@
+{
+  "name": "pspdfkit-nutrient-document-engine-mcp-server",
+  "description": "Self-hosted MCP server for Nutrient Document Engine. On-premises document processing with natural language control — designed for HIPAA, SOC 2, and GDPR compliance.",
+  "source_repo": "PSPDFKit/nutrient-document-engine-mcp-server",
+  "source_url": "https://github.com/PSPDFKit/nutrient-document-engine-mcp-server",
+  "install": "npx -y nutrient-document-engine-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-to-markdown",
+  "description": "Mcp Server To Markdown MCP server listed on mcp.so.",
+  "source_repo": "FradSer/mcp-server-to-markdown",
+  "source_url": "https://mcp.so/server/mcp-server-to-markdown/FradSer",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-to-markdown/FradSer\n# See source for mcpServers config block"
+}

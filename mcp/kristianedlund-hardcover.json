@@ -1,0 +1,7 @@
+{
+  "name": "kristianedlund-hardcover",
+  "description": "Unofficial MCP server for the Hardcover book tracking platform, enabling library management and book discovery via natural language.",
+  "source_repo": "kristianedlund/hardcover-mcp",
+  "source_url": "https://github.com/kristianedlund/hardcover-mcp",
+  "install": "npx -y hardcover-mcp"
+}

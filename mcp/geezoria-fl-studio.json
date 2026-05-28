@@ -1,0 +1,7 @@
+{
+  "name": "geezoria-fl-studio",
+  "description": "Control FL Studio 2025 from AI assistants with 160+ tools covering transport, patterns, piano roll, mixer, and voice-to-MIDI.",
+  "source_repo": "geezoria/flstudiomcp",
+  "source_url": "https://github.com/geezoria/flstudiomcp",
+  "install": "# git clone --depth 1 https://github.com/geezoria/flstudiomcp\n# See source for mcpServers config block"
+}

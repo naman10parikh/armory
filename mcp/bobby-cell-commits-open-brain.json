@@ -1,0 +1,7 @@
+{
+  "name": "bobby-cell-commits-open-brain",
+  "description": "Personal knowledge graph with 16 MCP tools. Auto-links, deduplicates, tracks themes, and synthesizes.",
+  "source_repo": "bobby-cell-commits/open-brain-server",
+  "source_url": "https://github.com/bobby-cell-commits/open-brain-server",
+  "install": "# git clone --depth 1 https://github.com/bobby-cell-commits/open-brain-server\n# See source for mcpServers config block"
+}

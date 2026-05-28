@@ -1,0 +1,7 @@
+{
+  "name": "karaage0703-notion-markdown",
+  "description": "Integrates with Notion to provide simplified access to workspace content through Markdown conversion for easy retrieval and manipulation of databases and pages.",
+  "source_repo": "karaage0703/notion-mcp-light",
+  "source_url": "https://github.com/karaage0703/notion-mcp-light",
+  "install": "# git clone --depth 1 https://github.com/karaage0703/notion-mcp-light\n# See source for mcpServers config block"
+}

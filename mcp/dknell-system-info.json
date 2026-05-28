@@ -1,0 +1,7 @@
+{
+  "name": "dknell-system-info",
+  "description": "Provides real-time system monitoring capabilities through psutil, enabling access to CPU usage, memory statistics, disk information, network status, running processes, and system uptime data with cross-platform compatibility and performance optimization.",
+  "source_repo": "dknell/mcp-system-info",
+  "source_url": "https://github.com/dknell/mcp-system-info",
+  "install": "# git clone --depth 1 https://github.com/dknell/mcp-system-info\n# See source for mcpServers config block"
+}

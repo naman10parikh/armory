@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-research-mcp-server",
+  "description": "Enables natural language search and analysis of arXiv academic papers with AI-powered relevance ranking, full-text extraction, and support for multiple integrations like Claude and LangChain.",
+  "source_repo": "borderlessboy/arxiv-research-mcp",
+  "source_url": "https://github.com/borderlessboy/arxiv-research-mcp",
+  "install": "npx -y arxiv-research-mcp"
+}

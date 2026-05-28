@@ -1,0 +1,7 @@
+{
+  "name": "jmonsellier-gmail",
+  "description": "Integrates with Gmail's API to enable email management tasks like sending, reading, drafting, and organizing messages.",
+  "source_repo": "jmonsellier/gmail-mcp-server",
+  "source_url": "https://github.com/jmonsellier/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

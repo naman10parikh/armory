@@ -1,0 +1,7 @@
+{
+  "name": "michael-kanda-designare-kb",
+  "description": "Semantic search over designare.at knowledge base covering web development and AI topics.",
+  "source_repo": "michael-kanda/designare",
+  "source_url": "https://github.com/michael-kanda/designare",
+  "install": "# git clone --depth 1 https://github.com/michael-kanda/designare\n# See source for mcpServers config block"
+}

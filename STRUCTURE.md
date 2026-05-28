@@ -32,12 +32,12 @@ catalog.json                  ← generated index (never hand-edited); run `pnpm
 ## 2. The gear — actual installable files (~2,546)
 
 ```
-gear/                         ← real component files vendored from upstream repos
-  skills/   <slug>/SKILL.md
-  agents/   <slug>.md
-  commands/ <slug>.md
-  hooks/    <slug>.py|json
-  rules/    <slug>.md
+skills/   <slug>/SKILL.md    ← real component files vendored from upstream repos
+agents/   <slug>.md
+commands/ <slug>.md
+hooks/    <slug>.py|json
+rules/    <slug>.md
+mcp/      <slug>.json        ← install configs for all ~21,000 MCPs (generated)
 ```
 
 Harness-native mirrors (same files, laid out for each CLI):
@@ -59,7 +59,7 @@ armory-skill/                 ← the `armory` skill (teaches agents when to rea
 .hermes-plugin/plugin.json    ← Hermes plugin manifest
 opencode.json                 ← OpenCode config
 .gemini/settings.json         ← Gemini CLI config
-install.sh / install.ps1      ← auto-detects harness, wires armory-mcp + gear/
+install.sh / install.ps1      ← auto-detects harness, wires armory-mcp + root type dirs
 ```
 
 See [HARNESS.md](./HARNESS.md) for the distinction between Armory's own gear and the catalog.
@@ -73,9 +73,9 @@ See [PLUGIN.md](./PLUGIN.md) for per-harness install commands.
 ingest/
   catalog.mjs                 ← walks brain/components/, writes catalog.json
   validate.mjs                ← validates every engram's frontmatter contract
-  vendor.mjs                  ← copies real files from upstream repos into gear/
+  vendor.mjs                  ← copies real files from upstream repos into root type dirs
   crawl-*.mjs                 ← per-source crawlers (PulseMCP, Smithery, Glama, …)
-  promote.mjs                 ← moves incoming/ → brain/components/ + gear/
+  promote.mjs                 ← moves incoming/ → brain/components/ + root type dirs
   verify-links.mjs            ← checks source_url liveness
 incoming/                     ← staging area for new engrams before promote
 .github/workflows/autolab.yml ← nightly self-improvement pipeline
@@ -91,7 +91,8 @@ AUTOLAB-LOG.md                ← AutoLab run history
 |-------------------|-------------------------------------------------|
 | `armory-*`        | Armory's own gear (the tool that runs the show) |
 | `brain/`          | catalog metadata + detail pages                 |
-| `gear/`           | actual vendored installable files               |
+| `skills/ agents/ commands/ hooks/ rules/` | actual vendored installable files (repo root) |
+| `mcp/`            | generated MCP install configs (~21,000)         |
 | `ingest/` + `incoming/` | the machinery that grows the registry     |
 
-No duplicate "components" names. `brain/components/` = catalog pages. `gear/` = real files.
+No duplicate "components" names. `brain/components/` = catalog pages. Real files live at repo root.

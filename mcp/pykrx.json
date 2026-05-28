@@ -1,0 +1,7 @@
+{
+  "name": "pykrx",
+  "description": "Provides Korean stock market data from KRX including KOSPI, KOSDAQ, and KONEX prices, fundamentals, and ETF tracking.",
+  "source_repo": "sharebook-kr/pykrx-mcp",
+  "source_url": "https://github.com/sharebook-kr/pykrx-mcp",
+  "install": "npx -y pykrx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vcluster-yaml-mcp-server",
+  "description": "Enables AI assistants to query, validate, and create vCluster YAML configurations directly from GitHub, supporting version-specific queries and automatic validation.",
+  "source_repo": "Piotr1215/vcluster-yaml-mcp",
+  "source_url": "https://github.com/Piotr1215/vcluster-yaml-mcp",
+  "install": "npx -y vcluster-yaml-mcp"
+}

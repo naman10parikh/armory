@@ -1,0 +1,7 @@
+{
+  "name": "ripe-atlas-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for the RIPE Atlas network measurement platform. Enables AI assistants to create network measurements, retrieve results, search probes, and manage credits.",
+  "source_repo": "jrelph/ripe-atlas-mcp",
+  "source_url": "https://github.com/jrelph/ripe-atlas-mcp",
+  "install": "npx -y ripe-atlas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mirror-memory",
+  "description": "Personal knowledge base with semantic search, auto-categorization, and metadata extraction.",
+  "source_repo": "mirrormemory-ai/mcp-server",
+  "source_url": "https://github.com/mirrormemory-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/mirrormemory-ai/mcp-server\n# See source for mcpServers config block"
+}

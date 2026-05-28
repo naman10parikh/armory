@@ -1,0 +1,7 @@
+{
+  "name": "ezbiz-services-business-intelligence",
+  "description": "AI-powered business intelligence with competitor analysis, web presence scoring, review aggregation, and market research tools.",
+  "source_repo": "ezbiz-services/mcp-business-intelligence",
+  "source_url": "https://github.com/ezbiz-services/mcp-business-intelligence",
+  "install": "# git clone --depth 1 https://github.com/ezbiz-services/mcp-business-intelligence\n# See source for mcpServers config block"
+}

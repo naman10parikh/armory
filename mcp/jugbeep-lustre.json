@@ -1,0 +1,7 @@
+{
+  "name": "jugbeep-lustre",
+  "description": "Premium Flutter UI component library providing 46 widgets across three design themes with light and dark mode support.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/jugbeep-lustre",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/jugbeep-lustre\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "attio-mcp-server",
+  "description": "Provides tools to interact with the Attio API, enabling management of resources in an Attio workspace.",
+  "source_repo": "Arkel-ai/attio-mcp-server",
+  "source_url": "https://github.com/Arkel-ai/attio-mcp-server",
+  "install": "npx -y attio-mcp-server"
+}

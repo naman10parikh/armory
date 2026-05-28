@@ -1,0 +1,7 @@
+{
+  "name": "aditya2755-video-edit-moviepy",
+  "description": "MoviePy-based video editing server that provides comprehensive video and audio processing capabilities including trimming, merging, resizing, effects, format conversion, YouTube downloading, and text/image overlays through an in-memory object store for chaining operations efficiently.",
+  "source_repo": "aditya2755/video-edit-mcp",
+  "source_url": "https://github.com/aditya2755/video-edit-mcp",
+  "install": "npx -y video-edit-mcp"
+}

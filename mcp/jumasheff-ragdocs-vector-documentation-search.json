@@ -1,0 +1,7 @@
+{
+  "name": "jumasheff-ragdocs-vector-documentation-search",
+  "description": "Enables semantic documentation search and retrieval using vector databases, allowing for URL extraction, source management, and indexing queues with support for multiple embedding providers including Ollama and OpenAI.",
+  "source_repo": "jumasheff/mcp-ragdoc-fork",
+  "source_url": "https://github.com/jumasheff/mcp-ragdoc-fork",
+  "install": "# git clone --depth 1 https://github.com/jumasheff/mcp-ragdoc-fork\n# See source for mcpServers config block"
+}

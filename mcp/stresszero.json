@@ -1,0 +1,7 @@
+{
+  "name": "stresszero",
+  "description": "Burnout risk scoring across physical, emotional, and effectiveness dimensions with personalized recommendations.",
+  "source_repo": "gomessoaresemmanuel-cpu/stresszero-mcp",
+  "source_url": "https://github.com/gomessoaresemmanuel-cpu/stresszero-mcp",
+  "install": "npx -y stresszero-mcp"
+}

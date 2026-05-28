@@ -1,0 +1,7 @@
+{
+  "name": "thenodon-parseable",
+  "description": "Integrates with Parseable log analytics platform for querying log streams, executing SQL queries with time-based filtering, and retrieving schema information and stream statistics.",
+  "source_repo": "thenodon/mcp-parseable-server",
+  "source_url": "https://github.com/thenodon/mcp-parseable-server",
+  "install": "# git clone --depth 1 https://github.com/thenodon/mcp-parseable-server\n# See source for mcpServers config block"
+}

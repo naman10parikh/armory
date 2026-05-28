@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-marine",
+  "description": "Track vessel positions and retrieve maritime data from the marine traffic API.",
+  "source_repo": "pipeworx-io/mcp-marine",
+  "source_url": "https://github.com/pipeworx-io/mcp-marine",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-marine\n# See source for mcpServers config block"
+}

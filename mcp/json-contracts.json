@@ -1,0 +1,7 @@
+{
+  "name": "json-contracts",
+  "description": "Contract registry and validator for structured JSON outputs from LLMs and agents.",
+  "source_repo": "json-contracts/json-contracts",
+  "source_url": "https://github.com/json-contracts/json-contracts",
+  "install": "# git clone --depth 1 https://github.com/json-contracts/json-contracts\n# See source for mcpServers config block"
+}

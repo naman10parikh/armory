@@ -1,0 +1,7 @@
+{
+  "name": "recallworks-recall",
+  "description": "Open-source persistent memory server with searchable, tiered memory across AI agent sessions.",
+  "source_repo": "recallworks/recall",
+  "source_url": "https://github.com/recallworks/recall",
+  "install": "# git clone --depth 1 https://github.com/recallworks/recall\n# See source for mcpServers config block"
+}

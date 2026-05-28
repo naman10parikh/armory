@@ -1,0 +1,7 @@
+{
+  "name": "danielpeter-99-calcom-mcp",
+  "description": "MCP server for Calcom. Manage event types, create bookings, and access Cal.com scheduling data through LLMs.",
+  "source_repo": "Danielpeter-99/calcom-mcp",
+  "source_url": "https://github.com/Danielpeter-99/calcom-mcp",
+  "install": "npx -y calcom-mcp"
+}

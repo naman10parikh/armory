@@ -1,0 +1,7 @@
+{
+  "name": "davidteren-play-sound",
+  "description": "Provides audio notification capabilities for coding tasks, enabling sound alerts when work is completed with cross-platform audio backend support, volume control, and device switching for developers who want audible feedback without constant screen monitoring.",
+  "source_repo": "davidteren/play-sound-mcp-server",
+  "source_url": "https://github.com/davidteren/play-sound-mcp-server",
+  "install": "npx -y play-sound-mcp-server"
+}

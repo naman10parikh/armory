@@ -1,0 +1,7 @@
+{
+  "name": "matthewdcage-pbs-api",
+  "description": "Provides access to the Australian Pharmaceutical Benefits Scheme (PBS) API for querying medicine listings, pricing, and availability data through multiple interfaces including stdio, HTTP/SSE, and command-line tools.",
+  "source_repo": "matthewdcage/pbs-mcp-server",
+  "source_url": "https://github.com/matthewdcage/pbs-mcp-server",
+  "install": "npx -y pbs-mcp-server"
+}

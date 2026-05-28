@@ -1,0 +1,7 @@
+{
+  "name": "code-graph-mcp",
+  "description": "MCP server for comprehensive code analysis, navigation, and quality assessment across 25+ programming languages.",
+  "source_repo": "entrepeneur4lyf/code-graph-mcp",
+  "source_url": "https://github.com/entrepeneur4lyf/code-graph-mcp",
+  "install": "npx -y code-graph-mcp"
+}

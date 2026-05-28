@@ -1,0 +1,7 @@
+{
+  "name": "sanderkooger-ragdocs",
+  "description": "Provides semantic document search and retrieval through vector embeddings, enabling context-aware responses backed by specific documentation sources",
+  "source_repo": "sanderkooger/mcp-server-ragdocs",
+  "source_url": "https://github.com/sanderkooger/mcp-server-ragdocs",
+  "install": "# git clone --depth 1 https://github.com/sanderkooger/mcp-server-ragdocs\n# See source for mcpServers config block"
+}

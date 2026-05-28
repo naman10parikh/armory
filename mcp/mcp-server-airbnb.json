@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-airbnb",
+  "description": "Mcp Server Airbnb MCP server listed on mcp.so.",
+  "source_repo": "openbnb-org/mcp-server-airbnb",
+  "source_url": "https://mcp.so/server/mcp-server-airbnb/openbnb-org",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-airbnb/openbnb-org\n# See source for mcpServers config block"
+}

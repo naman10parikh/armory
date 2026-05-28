@@ -1,0 +1,7 @@
+{
+  "name": "gitwhy",
+  "description": "AI context engine for git that saves, searches, and shares the reasoning behind code changes.",
+  "source_repo": "gitwhy-cli/gitwhy",
+  "source_url": "https://github.com/gitwhy-cli/gitwhy",
+  "install": "# git clone --depth 1 https://github.com/gitwhy-cli/gitwhy\n# See source for mcpServers config block"
+}

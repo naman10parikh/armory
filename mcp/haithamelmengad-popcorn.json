@@ -1,0 +1,7 @@
+{
+  "name": "haithamelmengad-popcorn",
+  "description": "Extracts keyframes and generates transcripts from video files using FFmpeg and Whisper backends with intelligent preset configurations for different video types and analysis objectives.",
+  "source_repo": "haithamelmengad/popcorn",
+  "source_url": "https://github.com/haithamelmengad/popcorn",
+  "install": "# git clone --depth 1 https://github.com/haithamelmengad/popcorn\n# See source for mcpServers config block"
+}

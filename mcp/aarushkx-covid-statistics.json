@@ -1,0 +1,7 @@
+{
+  "name": "aarushkx-covid-statistics",
+  "description": "Provides real-time COVID-19 statistics by connecting to the disease.sh API, delivering case counts, deaths, recoveries, and testing data for any country.",
+  "source_repo": "aarushkx/covid-mcp-server",
+  "source_url": "https://github.com/aarushkx/covid-mcp-server",
+  "install": "npx -y covid-mcp-server"
+}

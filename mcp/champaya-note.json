@@ -1,0 +1,7 @@
+{
+  "name": "champaya-note",
+  "description": "Bridges AI systems with note.com's API for searching articles by keyword, retrieving detailed information, and listing user-specific content without context switching.",
+  "source_repo": "champaya/note-mcp",
+  "source_url": "https://github.com/champaya/note-mcp",
+  "install": "npx -y note-mcp"
+}

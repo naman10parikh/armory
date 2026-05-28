@@ -1,0 +1,7 @@
+{
+  "name": "neveresleep-vibe-check",
+  "description": "Scans projects and files for security vulnerabilities including secrets, injections, and unsafe configurations.",
+  "source_repo": "neveresleep/vibe-check-mcp",
+  "source_url": "https://github.com/neveresleep/vibe-check-mcp",
+  "install": "npx -y vibe-check-mcp"
+}

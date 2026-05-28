@@ -1,0 +1,7 @@
+{
+  "name": "gojue-moling",
+  "description": "Enables AI to interact with local system resources through a secure, configurable server that provides browser automation, file operations, and command execution with robust security measures.",
+  "source_repo": "gojue/moling",
+  "source_url": "https://github.com/gojue/moling",
+  "install": "# git clone --depth 1 https://github.com/gojue/moling\n# See source for mcpServers config block"
+}

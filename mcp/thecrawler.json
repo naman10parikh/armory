@@ -1,0 +1,7 @@
+{
+  "name": "thecrawler",
+  "description": "Open-source web scraper and extraction MCP server with JavaScript rendering, markdown output, PDF/DOCX parsing, structured errors, and validated extraction contract diagnostics for agents.",
+  "source_repo": "manchittlab/TheCrawler",
+  "source_url": "https://github.com/manchittlab/TheCrawler",
+  "install": "# git clone --depth 1 https://github.com/manchittlab/TheCrawler\n# See source for mcpServers config block"
+}

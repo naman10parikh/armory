@@ -1,0 +1,7 @@
+{
+  "name": "rev2ret-secureaudit-mcp",
+  "description": "Model Context Protocol (MCP) server for static C/C++ memory-safety scanning and compiled PE/ELF binary protections auditing (ASLR, DEP/NX, SafeSEH, PIE) with secure templates remediation.",
+  "source_repo": "rev2ret/SecureAudit-MCP",
+  "source_url": "https://github.com/rev2ret/SecureAudit-MCP",
+  "install": "npx -y SecureAudit-MCP"
+}

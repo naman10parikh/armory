@@ -1,0 +1,7 @@
+{
+  "name": "fabkit",
+  "description": "Provides documentation and code patterns for the Fabkit Svelte 5 UI library, including component props, theming API, and Phosphor icon search.",
+  "source_repo": "fabricatorsltd/fabkit-mcp",
+  "source_url": "https://github.com/fabricatorsltd/fabkit-mcp",
+  "install": "npx -y fabkit-mcp"
+}

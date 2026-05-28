@@ -1,0 +1,7 @@
+{
+  "name": "edgardamasceno-ldoce",
+  "description": "Provides a bridge to the Longman Dictionary of Contemporary English for looking up word definitions, examples, and linguistic information without requiring context switching to external dictionary resources.",
+  "source_repo": "edgardamasceno-dev/ldoce-mcp-server",
+  "source_url": "https://github.com/edgardamasceno-dev/ldoce-mcp-server",
+  "install": "npx -y ldoce-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-felixgeelhaar-scout",
+  "description": "AI-powered browser automation for Go with a 66-tool MCP server, CLI, and library using pure CDP over WebSocket.",
+  "source_repo": "felixgeelhaar/scout",
+  "source_url": "https://github.com/felixgeelhaar/scout",
+  "install": "# git clone --depth 1 https://github.com/felixgeelhaar/scout\n# See source for mcpServers config block"
+}

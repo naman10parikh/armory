@@ -1,0 +1,7 @@
+{
+  "name": "nikhilbhima-mistral-ai-docs",
+  "description": "Unofficial MCP server providing BM25 search over Mistral AI developer documentation and API reference.",
+  "source_repo": "nikhilbhima/mistral-ai-docs-mcp-server",
+  "source_url": "https://github.com/nikhilbhima/mistral-ai-docs-mcp-server",
+  "install": "npx -y mistral-ai-docs-mcp-server"
+}

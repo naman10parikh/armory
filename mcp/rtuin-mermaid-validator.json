@@ -1,0 +1,7 @@
+{
+  "name": "rtuin-mermaid-validator",
+  "description": "Validates and renders Mermaid diagrams as SVG images, providing detailed error messages for invalid syntax to enhance visualization capabilities within conversations.",
+  "source_repo": "rtuin/mcp-mermaid-validator",
+  "source_url": "https://github.com/rtuin/mcp-mermaid-validator",
+  "install": "# git clone --depth 1 https://github.com/rtuin/mcp-mermaid-validator\n# See source for mcpServers config block"
+}

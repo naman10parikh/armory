@@ -1,0 +1,7 @@
+{
+  "name": "homeassistant-ai",
+  "description": "Enables natural language control of Home Assistant smart home devices, automations, and system management",
+  "source_repo": "homeassistant-ai/ha-mcp",
+  "source_url": "https://github.com/homeassistant-ai/ha-mcp",
+  "install": "npx -y ha-mcp"
+}

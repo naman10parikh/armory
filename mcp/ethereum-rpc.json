@@ -1,0 +1,7 @@
+{
+  "name": "ethereum-rpc",
+  "description": "Provides a bridge to the Ethereum blockchain for querying contract bytecode, gas prices, and account balances through standard JSON-RPC calls to public endpoints.",
+  "source_repo": "0xkoda/eth-mcp",
+  "source_url": "https://github.com/0xkoda/eth-mcp",
+  "install": "npx -y eth-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-huntress",
+  "description": "Connects AI assistants to the Huntress cybersecurity platform for managing agents, incidents, organizations, and signals.",
+  "source_repo": "wyre-technology/huntress-mcp",
+  "source_url": "https://github.com/wyre-technology/huntress-mcp",
+  "install": "npx -y huntress-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dl4rce-flaiwheel",
+  "description": "Self-hosted memory and governance layer for AI coding agents. 28 MCP tools with structured knowledge capture, hybrid search (semantic + BM25 + cross-encoder reranking), behavioral documentation nudges, cold-start codebase analyzer, and git-native storage. Single Docker container, zero cloud dependencies.",
+  "source_repo": "dl4rce/flaiwheel",
+  "source_url": "https://github.com/dl4rce/flaiwheel",
+  "install": "# git clone --depth 1 https://github.com/dl4rce/flaiwheel\n# See source for mcpServers config block"
+}

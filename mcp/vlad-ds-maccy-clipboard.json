@@ -1,0 +1,7 @@
+{
+  "name": "vlad-ds-maccy-clipboard",
+  "description": "Provides direct access to Maccy clipboard history on macOS through SQLite database integration, enabling search with regex and date filtering, retrieval of recent items with image display, copying historical items back to clipboard, managing pinned items, exporting data in multiple formats, and analyzing usage statistics by source application.",
+  "source_repo": "vlad-ds/maccy-clipboard-mcp",
+  "source_url": "https://github.com/vlad-ds/maccy-clipboard-mcp",
+  "install": "npx -y maccy-clipboard-mcp"
+}

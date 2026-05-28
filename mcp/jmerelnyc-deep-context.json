@@ -1,0 +1,7 @@
+{
+  "name": "jmerelnyc-deep-context",
+  "description": "Analyzes TypeScript and JavaScript codebases using the compiler API to build a complete symbol graph for semantic code navigation and cross-reference discovery.",
+  "source_repo": "jmerelnyc/mcp-deepcontext",
+  "source_url": "https://github.com/jmerelnyc/mcp-deepcontext",
+  "install": "# git clone --depth 1 https://github.com/jmerelnyc/mcp-deepcontext\n# See source for mcpServers config block"
+}

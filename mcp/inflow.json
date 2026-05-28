@@ -1,0 +1,7 @@
+{
+  "name": "inflow",
+  "description": "Agentic payment infrastructure for autonomous agent onboarding, payments, and service provisioning.",
+  "source_repo": "inflowpayai/inflow-mcp",
+  "source_url": "https://github.com/inflowpayai/inflow-mcp",
+  "install": "npx -y inflow-mcp"
+}

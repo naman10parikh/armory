@@ -1,0 +1,7 @@
+{
+  "name": "mukundakatta-agentcast",
+  "description": "Extracts and validates JSON from LLM text output with structured retry feedback generation.",
+  "source_repo": "mukundakatta/agentcast-mcp",
+  "source_url": "https://github.com/mukundakatta/agentcast-mcp",
+  "install": "npx -y agentcast-mcp"
+}

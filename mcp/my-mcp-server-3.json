@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp-server-3",
+  "description": "A minimal starter template for building Model Context Protocol (MCP) servers using TypeScript and FastMCP, including an example weather tool for demonstration.",
+  "source_repo": "MarvelNwachukwu/my-mcp-server",
+  "source_url": "https://github.com/MarvelNwachukwu/my-mcp-server",
+  "install": "npx -y my-mcp-server"
+}

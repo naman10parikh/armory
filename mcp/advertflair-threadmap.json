@@ -1,0 +1,7 @@
+{
+  "name": "advertflair-threadmap",
+  "description": "Conversation drift visualization and context tracking for Claude.",
+  "source_repo": "advertflair/threadmap-mcp",
+  "source_url": "https://github.com/advertflair/threadmap-mcp",
+  "install": "npx -y threadmap-mcp"
+}

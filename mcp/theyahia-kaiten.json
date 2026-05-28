@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-kaiten",
+  "description": "Integrates with Kaiten project management API for board, card, and column operations.",
+  "source_repo": "theyahia/kaiten-mcp",
+  "source_url": "https://github.com/theyahia/kaiten-mcp",
+  "install": "npx -y kaiten-mcp"
+}

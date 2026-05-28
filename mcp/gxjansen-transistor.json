@@ -1,0 +1,7 @@
+{
+  "name": "gxjansen-transistor",
+  "description": "Integrates with Transistor.fm's API to manage podcasts, episodes, analytics, and subscribers for automating podcast workflows.",
+  "source_repo": "gxjansen/transistor-mcp",
+  "source_url": "https://github.com/gxjansen/transistor-mcp",
+  "install": "npx -y transistor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xybstone-macos-calendar",
+  "description": "Integrates with macOS Calendar through AppleScript automation to enable event management, scheduling operations, and calendar data access without requiring third-party APIs or cloud services.",
+  "source_repo": "xybstone/macos-calendar-mcp",
+  "source_url": "https://github.com/xybstone/macos-calendar-mcp",
+  "install": "npx -y macos-calendar-mcp"
+}

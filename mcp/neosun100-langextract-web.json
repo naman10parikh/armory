@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-langextract-web",
+  "description": "Web application wrapping Google's LangExtract library for structured information extraction with web UI, REST API, and MCP server interfaces.",
+  "source_repo": "neosun100/langextract-web",
+  "source_url": "https://github.com/neosun100/langextract-web",
+  "install": "# git clone --depth 1 https://github.com/neosun100/langextract-web\n# See source for mcpServers config block"
+}

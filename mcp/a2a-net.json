@@ -1,0 +1,7 @@
+{
+  "name": "a2a-net",
+  "description": ".NET implementation of the A2A protocol to enable secure, interoperable communication",
+  "source_repo": "neuroglia-io/a2a-net",
+  "source_url": "https://github.com/neuroglia-io/a2a-net",
+  "install": "# git clone --depth 1 https://github.com/neuroglia-io/a2a-net\n# See source for mcpServers config block"
+}

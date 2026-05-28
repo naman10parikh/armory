@@ -1,0 +1,7 @@
+{
+  "name": "bol-mcp",
+  "description": "MCP server for the bol.com Retailer API that enables managing orders, offers, shipments, returns, invoices, and commissions via natural language.",
+  "source_repo": "BartWaardenburg/bol-mcp",
+  "source_url": "https://github.com/BartWaardenburg/bol-mcp",
+  "install": "npx -y bol-mcp"
+}

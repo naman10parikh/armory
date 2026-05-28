@@ -1,0 +1,7 @@
+{
+  "name": "nia194-shipsmart",
+  "description": "Shipping tools for address validation and rate quote previews with pluggable provider support for UPS, FedEx, DHL, and USPS.",
+  "source_repo": "nia194/shipsmart-mcp",
+  "source_url": "https://github.com/nia194/shipsmart-mcp",
+  "install": "npx -y shipsmart-mcp"
+}

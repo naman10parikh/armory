@@ -1,0 +1,7 @@
+{
+  "name": "kocierik-nomad",
+  "description": "Provides a bridge to HashiCorp Nomad's cluster management capabilities, enabling job management, deployment tracking, namespace administration, node operations, and ACL management for infrastructure operations.",
+  "source_repo": "kocierik/mcp-nomad",
+  "source_url": "https://github.com/kocierik/mcp-nomad",
+  "install": "# git clone --depth 1 https://github.com/kocierik/mcp-nomad\n# See source for mcpServers config block"
+}

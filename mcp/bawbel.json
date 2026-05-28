@@ -1,0 +1,7 @@
+{
+  "name": "bawbel",
+  "description": "MCP server scanner for AVE vulnerabilities in skill files with conformance scoring and threat intelligence.",
+  "source_repo": "bawbel/bawbel-mcp",
+  "source_url": "https://github.com/bawbel/bawbel-mcp",
+  "install": "npx -y bawbel-mcp"
+}

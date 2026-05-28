@@ -1,0 +1,7 @@
+{
+  "name": "ariunbolor-nsaf",
+  "description": "Enables AI systems to evolve and optimize neural network architectures through self-constructing meta-agents that adapt to different problem domains using TensorFlow-powered evolutionary algorithms.",
+  "source_repo": "ariunbolor/nsaf-mcp-server",
+  "source_url": "https://github.com/ariunbolor/nsaf-mcp-server",
+  "install": "npx -y nsaf-mcp-server"
+}

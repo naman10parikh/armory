@@ -1,0 +1,7 @@
+{
+  "name": "blueprint-mcp-2",
+  "description": "Provides architectural memory for AI coding agents, enabling reuse of existing abstractions and advisory-first guidance on code placement and imports.",
+  "source_repo": "Vedv7/BLUEPRINT.MCP",
+  "source_url": "https://github.com/Vedv7/BLUEPRINT.MCP",
+  "install": "# git clone --depth 1 https://github.com/Vedv7/BLUEPRINT.MCP\n# See source for mcpServers config block"
+}

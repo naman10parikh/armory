@@ -1,0 +1,7 @@
+{
+  "name": "freema-openclaw",
+  "description": "Provides tools for interacting with the OpenClaw open-source game engine.",
+  "source_repo": "freema/openclaw-mcp",
+  "source_url": "https://github.com/freema/openclaw-mcp",
+  "install": "npx -y openclaw-mcp"
+}

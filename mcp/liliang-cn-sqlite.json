@@ -1,0 +1,7 @@
+{
+  "name": "liliang-cn-sqlite",
+  "description": "Provides secure SQLite database operations with multi-database switching, complete CRUD operations, transaction management, and directory-restricted access that prevents path traversal attacks while enabling dynamic database creation.",
+  "source_repo": "liliang-cn/mcp-sqlite-server",
+  "source_url": "https://github.com/liliang-cn/mcp-sqlite-server",
+  "install": "# git clone --depth 1 https://github.com/liliang-cn/mcp-sqlite-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trinv-server",
+  "description": "Recherche des communes françaises et des parcelles cadastrales dans une commune via TRINV.",
+  "source_repo": "cqtrinv/trinvmcp",
+  "source_url": "https://github.com/cqtrinv/trinvmcp",
+  "install": "# git clone --depth 1 https://github.com/cqtrinv/trinvmcp\n# See source for mcpServers config block"
+}

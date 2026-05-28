@@ -1,0 +1,7 @@
+{
+  "name": "tranhuucanh-shellkeeper",
+  "description": "Provides persistent terminal sessions with SSH support that maintain stateful shell connections across multiple command executions, enabling complex workflows like remote server administration, multi-step operations, and interactive applications that require session continuity.",
+  "source_repo": "tranhuucanh/mcp-shellkeeper",
+  "source_url": "https://github.com/tranhuucanh/mcp-shellkeeper",
+  "install": "# git clone --depth 1 https://github.com/tranhuucanh/mcp-shellkeeper\n# See source for mcpServers config block"
+}

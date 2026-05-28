@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-bitcoin-utxo-mcp",
+  "description": "An MCP server that tracks Bitcoin's Unspent Transaction Outputs (UTXO) and block statistics.",
+  "source_repo": "kukapay/bitcoin-utxo-mcp",
+  "source_url": "https://github.com/kukapay/bitcoin-utxo-mcp",
+  "install": "npx -y bitcoin-utxo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-mailchimp",
+  "description": "Manages Mailchimp campaigns, audiences, and subscribers through a full-featured Marketing API integration.",
+  "source_repo": "cyanheads/mailchimp-mcp-server",
+  "source_url": "https://github.com/cyanheads/mailchimp-mcp-server",
+  "install": "npx -y mailchimp-mcp-server"
+}

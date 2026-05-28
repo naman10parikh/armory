@@ -1,0 +1,7 @@
+{
+  "name": "loda",
+  "description": "Integrates with the LODA Language API to provide sequence search, LODA program compilation and evaluation, and submission capabilities for mathematical research and integer sequence analysis workflows with the Online Encyclopedia of Integer Sequences.",
+  "source_repo": "loda-lang/loda-mcp",
+  "source_url": "https://github.com/loda-lang/loda-mcp",
+  "install": "npx -y loda-mcp"
+}

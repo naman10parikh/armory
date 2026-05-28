@@ -1,0 +1,7 @@
+{
+  "name": "yazzy-unity",
+  "description": "Enables real-time manipulation of Unity scenes through a WebSocket protocol that supports GameObject creation, component management, transform operations, and property access for game development workflows.",
+  "source_repo": "yazzyyaz/unity-mcp",
+  "source_url": "https://github.com/yazzyyaz/unity-mcp",
+  "install": "npx -y unity-mcp"
+}

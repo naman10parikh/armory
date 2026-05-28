@@ -1,0 +1,7 @@
+{
+  "name": "fast-mcp-telegram",
+  "description": "Fast MCP Telegram — Production-grade Telegram MCP server with direct MTProto API, multi-user ACL, dual transport (stdio + HTTP SSE), voice transcription, and context-optimized design. One-command setup with uvx fast-mcp-telegram",
+  "source_repo": "leshchenko1979/fast-mcp-telegram",
+  "source_url": "https://github.com/leshchenko1979/fast-mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/leshchenko1979/fast-mcp-telegram\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cinema4d-mcp",
+  "description": "Cinema4d Mcp MCP server listed on mcp.so.",
+  "source_repo": "ttiimmaacc/cinema4d-mcp",
+  "source_url": "https://mcp.so/server/cinema4d-mcp/ttiimmaacc",
+  "install": "npx -y cinema4d-mcp"
+}

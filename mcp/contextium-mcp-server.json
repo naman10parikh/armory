@@ -1,0 +1,7 @@
+{
+  "name": "contextium-mcp-server",
+  "description": "MCP server for Contextium — pipe team SOPs, coding standards, agents, skills, and workflows directly into Claude, Cursor, and other AI coding assistants.",
+  "source_repo": "contextium-io/contextium-mcp-server",
+  "source_url": "https://github.com/contextium-io/contextium-mcp-server",
+  "install": "npx -y contextium-mcp-server"
+}

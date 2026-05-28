@@ -1,0 +1,7 @@
+{
+  "name": "gaudiolab-audio-ai",
+  "description": "Separate audio stems, extract dialogue from video, and sync lyrics with timestamps.",
+  "source_repo": "gaudiolab-jp/gaudio-developers-mcp",
+  "source_url": "https://github.com/gaudiolab-jp/gaudio-developers-mcp",
+  "install": "npx -y gaudio-developers-mcp"
+}

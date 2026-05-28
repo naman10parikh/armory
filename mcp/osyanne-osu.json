@@ -1,0 +1,7 @@
+{
+  "name": "osyanne-osu",
+  "description": "Queries osu! game data including beatmaps, scores, user profiles, and rankings via the osu! API.",
+  "source_repo": "osyanne/osu-mcp",
+  "source_url": "https://github.com/osyanne/osu-mcp",
+  "install": "npx -y osu-mcp"
+}

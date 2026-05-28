@@ -1,0 +1,7 @@
+{
+  "name": "icloudza-algokiller",
+  "description": "ARM64 binary trace analysis plugin with 25 tools for cryptographic algorithm detection and execution pattern recovery in mobile security research.",
+  "source_repo": "icloudza/algokiller-plugin",
+  "source_url": "https://github.com/icloudza/algokiller-plugin",
+  "install": "# git clone --depth 1 https://github.com/icloudza/algokiller-plugin\n# See source for mcpServers config block"
+}

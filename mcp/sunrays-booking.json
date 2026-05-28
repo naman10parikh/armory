@@ -1,0 +1,7 @@
+{
+  "name": "sunrays-booking",
+  "description": "MCP server for booking and appointment scheduling operations.",
+  "source_repo": "",
+  "source_url": "https://mcp.sunrays.dev/mcp",
+  "install": "# git clone --depth 1 https://mcp.sunrays.dev/mcp\n# See source for mcpServers config block"
+}

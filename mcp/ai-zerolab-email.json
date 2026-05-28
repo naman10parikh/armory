@@ -1,0 +1,7 @@
+{
+  "name": "ai-zerolab-email",
+  "description": "Integrates with email providers to enable sending and receiving emails, automating workflows and managing communications via IMAP and SMTP functionality.",
+  "source_repo": "ai-zerolab/mcp-email-server",
+  "source_url": "https://github.com/ai-zerolab/mcp-email-server",
+  "install": "# git clone --depth 1 https://github.com/ai-zerolab/mcp-email-server\n# See source for mcpServers config block"
+}

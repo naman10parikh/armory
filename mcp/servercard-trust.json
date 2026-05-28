@@ -1,0 +1,7 @@
+{
+  "name": "servercard-trust",
+  "description": "MCP server-card validation, auth checks, and trust packet generation for agent security.",
+  "source_repo": "",
+  "source_url": "https://servercardtrust.space",
+  "install": "# git clone --depth 1 https://servercardtrust.space\n# See source for mcpServers config block"
+}

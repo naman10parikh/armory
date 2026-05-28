@@ -1,0 +1,7 @@
+{
+  "name": "jeanlaurent-google-calendar",
+  "description": "Integrates with Google Calendar through OAuth2 authentication to provide calendar access, event management, and scheduling capabilities with flexible deployment options including Docker containerization.",
+  "source_repo": "jeanlaurent/agenda-mcp",
+  "source_url": "https://github.com/jeanlaurent/agenda-mcp",
+  "install": "npx -y agenda-mcp"
+}

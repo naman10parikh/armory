@@ -1,0 +1,7 @@
+{
+  "name": "qirabot-mcp",
+  "description": "Enables AI assistants to control mobile and desktop devices with natural language, including running automation tasks, taking screenshots, and managing devices.",
+  "source_repo": "qirabot/mcp-server",
+  "source_url": "https://github.com/qirabot/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/qirabot/mcp-server\n# See source for mcpServers config block"
+}

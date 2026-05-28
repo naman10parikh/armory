@@ -1,0 +1,7 @@
+{
+  "name": "brutus-gr-osint-template",
+  "description": "Real-time OSINT intelligence platform for global security monitoring.",
+  "source_repo": "brutus-gr/stratint-mcp",
+  "source_url": "https://github.com/brutus-gr/stratint-mcp",
+  "install": "npx -y stratint-mcp"
+}

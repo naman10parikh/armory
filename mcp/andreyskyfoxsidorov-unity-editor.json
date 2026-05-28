@@ -1,0 +1,7 @@
+{
+  "name": "andreyskyfoxsidorov-unity-editor",
+  "description": "Integrates with Unity Editor through HTTP transport to enable real-time GameObject manipulation, component management, asset control, scene operations, and build pipeline automation for game development workflows.",
+  "source_repo": "andreyskyfoxsidorov/unifiedunitymcp",
+  "source_url": "https://github.com/andreyskyfoxsidorov/unifiedunitymcp",
+  "install": "# git clone --depth 1 https://github.com/andreyskyfoxsidorov/unifiedunitymcp\n# See source for mcpServers config block"
+}

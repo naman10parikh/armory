@@ -1,0 +1,7 @@
+{
+  "name": "boar-blockchain-mcp-advanced-2",
+  "description": "Free, keyless MCP server with 50 read-only blockchain tools for Bitcoin, Ethereum, and Mezo. No installation, no API key required - just add the URL to your MCP client and start querying balances, transactions, blocks, ENS names, ERC-20 tokens, smart contracts, and more. Runs on Cloudflare's global",
+  "source_repo": "boar-network/blockchain-mcp",
+  "source_url": "https://github.com/boar-network/blockchain-mcp",
+  "install": "npx -y blockchain-mcp"
+}

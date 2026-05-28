@@ -1,0 +1,7 @@
+{
+  "name": "johnnyclem-xcsift",
+  "description": "Wraps the xcsift CLI tool to parse Xcode build output into structured, token-efficient JSON or TOON formats, automatically managing the binary and providing tools to execute build commands with automatic parsing and extract specific errors, warnings, and test failures with file/line details.",
+  "source_repo": "johnnyclem/xcsift-mcp",
+  "source_url": "https://github.com/johnnyclem/xcsift-mcp",
+  "install": "npx -y xcsift-mcp"
+}

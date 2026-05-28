@@ -1,0 +1,7 @@
+{
+  "name": "dokploy-mcp-server-2",
+  "description": "Comprehensive, type-safe MCP server providing 380 tools to manage Dokploy deployments, applications, and infrastructure via natural language.",
+  "source_repo": "tacticlaunch/dokploy-mcp",
+  "source_url": "https://github.com/tacticlaunch/dokploy-mcp",
+  "install": "npx -y dokploy-mcp"
+}

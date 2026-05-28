@@ -1,0 +1,7 @@
+{
+  "name": "mate-tools",
+  "description": "32 utility tools for AI agents — hash, encode, regex, finance, JSON, CSV, and more via the free mate.tools API.",
+  "source_repo": "matetools/mcp-server",
+  "source_url": "https://github.com/matetools/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/matetools/mcp-server\n# See source for mcpServers config block"
+}

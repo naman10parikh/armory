@@ -1,0 +1,7 @@
+{
+  "name": "fli",
+  "description": "Enables flight search and fare calendar exploration by interacting with Google Flights' API, supporting detailed filters for origin, destination, dates, cabin class, airlines, and more.",
+  "source_repo": "punitarani/fli",
+  "source_url": "https://github.com/punitarani/fli",
+  "install": "# git clone --depth 1 https://github.com/punitarani/fli\n# See source for mcpServers config block"
+}

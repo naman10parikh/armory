@@ -1,0 +1,7 @@
+{
+  "name": "ssdavidai-mem0",
+  "description": "Integrates with Mem0's cloud platform to provide persistent memory storage and retrieval, enabling long-term context retention across conversations and sessions for personalized experiences.",
+  "source_repo": "ssdavidai/mem0-mcp",
+  "source_url": "https://github.com/ssdavidai/mem0-mcp",
+  "install": "npx -y mem0-mcp"
+}

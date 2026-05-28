@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-ocr-extract",
+  "description": "Extracts text from images using the Tesseract OCR engine, supporting various image formats for downstream text processing.",
+  "source_repo": "br0ski777/ocr-extract-x402",
+  "source_url": "https://github.com/br0ski777/ocr-extract-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/ocr-extract-x402\n# See source for mcpServers config block"
+}

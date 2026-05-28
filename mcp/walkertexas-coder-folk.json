@@ -1,0 +1,7 @@
+{
+  "name": "walkertexas-coder-folk",
+  "description": "Integrates with Folk CRM to provide contact management, deal tracking, note-taking with markdown support, reminder scheduling with iCalendar recurrence rules, and interaction logging.",
+  "source_repo": "walkertexas-coder/folk-mcp-server",
+  "source_url": "https://github.com/walkertexas-coder/folk-mcp-server",
+  "install": "npx -y folk-mcp-server"
+}

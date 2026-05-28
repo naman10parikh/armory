@@ -1,0 +1,7 @@
+{
+  "name": "yyue9527-oracle-sql",
+  "description": "Provides a Spring Boot-based interface to Oracle databases for executing SQL queries, listing tables, and describing table structures with built-in security measures that prevent non-SELECT statements in production.",
+  "source_repo": "yyue9527/oracle-mcp-server",
+  "source_url": "https://github.com/yyue9527/oracle-mcp-server",
+  "install": "npx -y oracle-mcp-server"
+}

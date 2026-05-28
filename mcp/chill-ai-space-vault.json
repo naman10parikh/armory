@@ -1,0 +1,7 @@
+{
+  "name": "chill-ai-space-vault",
+  "description": "Credential isolation for AI agents — bots use passwords and API keys without seeing them in context.",
+  "source_repo": "zerocreds-com/zerocreds-mcp",
+  "source_url": "https://github.com/zerocreds-com/zerocreds-mcp",
+  "install": "npx -y zerocreds-mcp"
+}

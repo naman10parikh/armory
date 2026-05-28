@@ -1,0 +1,7 @@
+{
+  "name": "markswendsen-code-southwest",
+  "description": "Automates Southwest Airlines interactions through browser automation for flight search and booking management.",
+  "source_repo": "markswendsen-code/mcp-southwest",
+  "source_url": "https://github.com/markswendsen-code/mcp-southwest",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-southwest\n# See source for mcpServers config block"
+}

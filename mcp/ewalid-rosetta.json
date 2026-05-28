@@ -1,0 +1,7 @@
+{
+  "name": "ewalid-rosetta",
+  "description": "Translates Excel files to different languages while preserving formatting, formulas, and data integrity.",
+  "source_repo": "ewalid/rosetta",
+  "source_url": "https://github.com/ewalid/rosetta",
+  "install": "# git clone --depth 1 https://github.com/ewalid/rosetta\n# See source for mcpServers config block"
+}

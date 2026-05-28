@@ -1,0 +1,7 @@
+{
+  "name": "microquery",
+  "description": "SQL access to public datasets including FDA, SEC, blockchain, genomics, and CVE data without configuration.",
+  "source_repo": "microqueryhq/microquery-mcp",
+  "source_url": "https://github.com/microqueryhq/microquery-mcp",
+  "install": "npx -y microquery-mcp"
+}

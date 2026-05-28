@@ -1,0 +1,7 @@
+{
+  "name": "cexll-codex-cli",
+  "description": "Bridges OpenAI's Codex CLI with structured command execution, brainstorming sessions, and chunked response delivery for code analysis, automated refactoring, and development workflow automation.",
+  "source_repo": "cexll/codex-mcp-server",
+  "source_url": "https://github.com/cexll/codex-mcp-server",
+  "install": "npx -y codex-mcp-server"
+}

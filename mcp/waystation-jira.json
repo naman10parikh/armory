@@ -1,0 +1,7 @@
+{
+  "name": "waystation-jira",
+  "description": "Track issues, manage projects, and streamline workflows in Jira",
+  "source_repo": "",
+  "source_url": "https://waystation.ai",
+  "install": "# git clone --depth 1 https://waystation.ai\n# See source for mcpServers config block"
+}

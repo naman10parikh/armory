@@ -1,0 +1,7 @@
+{
+  "name": "lmwharton-sieve",
+  "description": "Venture capital due diligence with startup screening across seven investment dimensions.",
+  "source_repo": "lmwharton/sieve-mcp",
+  "source_url": "https://github.com/lmwharton/sieve-mcp",
+  "install": "npx -y sieve-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fortimanager-mcp",
+  "description": "This MCP server provides tools to interact with FortiManager via JSON-RPC, but is deprecated and replaced by a more efficient Code Mode architecture.",
+  "source_repo": "jmpijll/fortimanager-mcp",
+  "source_url": "https://github.com/jmpijll/fortimanager-mcp",
+  "install": "npx -y fortimanager-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kydlikebtc-binance-spot-trading",
+  "description": "Integrates with Binance spot trading API to enable automated cryptocurrency trading strategies using SQLite for data storage and secure credential management.",
+  "source_repo": "kydlikebtc/mcp-server-bn",
+  "source_url": "https://github.com/kydlikebtc/mcp-server-bn",
+  "install": "# git clone --depth 1 https://github.com/kydlikebtc/mcp-server-bn\n# See source for mcpServers config block"
+}

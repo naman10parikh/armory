@@ -1,0 +1,7 @@
+{
+  "name": "blender-2",
+  "description": "Blender MCP server listed on mcp.so.",
+  "source_repo": "VxASI/blender",
+  "source_url": "https://mcp.so/server/blender/VxASI",
+  "install": "# git clone --depth 1 https://mcp.so/server/blender/VxASI\n# See source for mcpServers config block"
+}

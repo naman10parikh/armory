@@ -1,0 +1,7 @@
+{
+  "name": "bitrix24",
+  "description": "Work with the current methods of the Bitrix24 REST API to reduce the number of errors when generating code",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/bitrix24",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/bitrix24\n# See source for mcpServers config block"
+}

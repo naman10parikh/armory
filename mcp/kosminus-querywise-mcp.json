@@ -1,0 +1,7 @@
+{
+  "name": "kosminus-querywise-mcp",
+  "description": "Query SQL databases (SQLite, PostgreSQL, BigQuery, Databricks) in natural language through a business semantic layer — glossary, metrics, and a data dictionary grounded against your real schema.",
+  "source_repo": "kosminus/querywise-mcp",
+  "source_url": "https://github.com/kosminus/querywise-mcp",
+  "install": "npx -y querywise-mcp"
+}

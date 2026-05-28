@@ -1,0 +1,7 @@
+{
+  "name": "beyond-network-ai-farcaster",
+  "description": "Integrates with social platforms like Farcaster to provide standardized access to user profiles, content search, thread analysis, and trending topics through flexible stdio and HTTP/SSE transports.",
+  "source_repo": "beyond-network-ai/beyond-mcp-server",
+  "source_url": "https://github.com/beyond-network-ai/beyond-mcp-server",
+  "install": "npx -y beyond-mcp-server"
+}

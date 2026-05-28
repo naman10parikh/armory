@@ -1,0 +1,7 @@
+{
+  "name": "hunter-heidenreich-academic-tools",
+  "description": "Search papers, retrieve metadata, download PDFs, and read full-text sections from OpenAlex, arXiv, bioRxiv, Crossref, and Wikipedia.",
+  "source_repo": "hunter-heidenreich/academic-tools-mcp",
+  "source_url": "https://github.com/hunter-heidenreich/academic-tools-mcp",
+  "install": "npx -y academic-tools-mcp"
+}

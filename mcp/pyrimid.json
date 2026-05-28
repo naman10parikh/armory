@@ -1,0 +1,7 @@
+{
+  "name": "pyrimid",
+  "description": "Agent-commerce protocol server for discovering and purchasing MCP tools with USDC payments on Base blockchain.",
+  "source_repo": "pyrimid-ai/pyrimid",
+  "source_url": "https://github.com/pyrimid-ai/pyrimid",
+  "install": "# git clone --depth 1 https://github.com/pyrimid-ai/pyrimid\n# See source for mcpServers config block"
+}

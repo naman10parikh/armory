@@ -1,0 +1,7 @@
+{
+  "name": "danielrz-investbuddy",
+  "description": "AI-powered stock predictions with 10-day forecasts and portfolio analysis",
+  "source_repo": "danielrz/investbuddy-mcp-server",
+  "source_url": "https://github.com/danielrz/investbuddy-mcp-server",
+  "install": "npx -y investbuddy-mcp-server"
+}

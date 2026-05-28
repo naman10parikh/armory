@@ -1,0 +1,7 @@
+{
+  "name": "arjanlig-strava",
+  "description": "Connects Strava training data to Claude for training load analysis, weekly plans, and activity insights.",
+  "source_repo": "arjanlig/strava-mcp",
+  "source_url": "https://github.com/arjanlig/strava-mcp",
+  "install": "npx -y strava-mcp"
+}

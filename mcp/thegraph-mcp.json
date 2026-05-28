@@ -1,0 +1,7 @@
+{
+  "name": "thegraph-mcp",
+  "description": "Thegraph Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/thegraph-mcp",
+  "source_url": "https://mcp.so/server/thegraph-mcp/kukapay",
+  "install": "npx -y thegraph-mcp"
+}

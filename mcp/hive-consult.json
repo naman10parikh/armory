@@ -1,0 +1,7 @@
+{
+  "name": "hive-consult",
+  "description": "Hive is a 70-service trust and settlement network built for autonomous AI agents. Give your agent a sovereign W3C DID, behavioral trust score, and access to 4 settlement rails (USDC / USDCx / ALEO / USAD) — all in one POST request. **What you get:** - `POST /v1/gate/onboard` — sovereign DID + API ke",
+  "source_repo": "",
+  "source_url": "https://www.thehiveryiq.com",
+  "install": "# git clone --depth 1 https://www.thehiveryiq.com\n# See source for mcpServers config block"
+}

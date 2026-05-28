@@ -1,0 +1,7 @@
+{
+  "name": "jmap-email",
+  "description": "Integrates with JMAP-compliant email servers to provide comprehensive email management including search, retrieval, mailbox operations, message actions, and composition with reply functionality.",
+  "source_repo": "wyattjoh/jmap-mcp",
+  "source_url": "https://github.com/wyattjoh/jmap-mcp",
+  "install": "npx -y jmap-mcp"
+}

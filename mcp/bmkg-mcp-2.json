@@ -1,0 +1,7 @@
+{
+  "name": "bmkg-mcp-2",
+  "description": "Access real-time weather forecasts and climate data across Indonesia. Stay informed about recent seismic activity and natural disasters with official government alerts. Plan activities and ensure safety by monitoring environmental conditions from the national meteorological agency. This is an unoffi",
+  "source_repo": "",
+  "source_url": "https://bmkg-restapi.vercel.app",
+  "install": "# git clone --depth 1 https://bmkg-restapi.vercel.app\n# See source for mcpServers config block"
+}

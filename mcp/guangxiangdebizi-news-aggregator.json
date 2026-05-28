@@ -1,0 +1,7 @@
+{
+  "name": "guangxiangdebizi-news-aggregator",
+  "description": "Integrates with five news APIs (TheNewsAPI, NewsData.io, NewsAPI.org, GNews, and Twingly) with automatic failover switching to ensure reliable news data access when individual APIs hit rate limits or become unavailable.",
+  "source_repo": "guangxiangdebizi/news-mcp",
+  "source_url": "https://github.com/guangxiangdebizi/news-mcp",
+  "install": "npx -y news-mcp"
+}

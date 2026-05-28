@@ -1,0 +1,7 @@
+{
+  "name": "bluewatch",
+  "description": "Search live UK firefighter recruitment across 73 fire services, with on-call station proximity data.",
+  "source_repo": "",
+  "source_url": "https://bluewatch.app/mcp",
+  "install": "# git clone --depth 1 https://bluewatch.app/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "andylbrummer-quantum",
+  "description": "GPU-accelerated quantum mechanics simulations with Schrodinger equation solving and wavefunction analysis.",
+  "source_repo": "andylbrummer/math-mcp",
+  "source_url": "https://github.com/andylbrummer/math-mcp/tree/HEAD/servers/quantum-mcp",
+  "install": "npx -y math-mcp"
+}

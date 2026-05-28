@@ -1,0 +1,7 @@
+{
+  "name": "fia-signals",
+  "description": "Crypto market intelligence with regime detection, funding rates, DeFi yields, and trading signals.",
+  "source_repo": "odds7/fia-signals-mcp",
+  "source_url": "https://github.com/odds7/fia-signals-mcp",
+  "install": "npx -y fia-signals-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gblin",
+  "description": "Hold GBLIN tokens on Base and JIT-swap to USDC for x402 micropayments from AI agents.",
+  "source_repo": "gblinproject/gblin-mcp",
+  "source_url": "https://github.com/gblinproject/gblin-mcp",
+  "install": "npx -y gblin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hadoyun-mixamo",
+  "description": "Integrates with Adobe Mixamo animation library for Unity projects.",
+  "source_repo": "had0yun/unity-mcp-mixamo",
+  "source_url": "https://github.com/had0yun/unity-mcp-mixamo",
+  "install": "# git clone --depth 1 https://github.com/had0yun/unity-mcp-mixamo\n# See source for mcpServers config block"
+}

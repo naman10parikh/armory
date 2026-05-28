@@ -1,0 +1,7 @@
+{
+  "name": "pexels",
+  "description": "Pexels free stock photo and video search via a Pipeworx-hosted MCP endpoint.",
+  "source_repo": "pipeworx-io/mcp-pexels",
+  "source_url": "https://github.com/pipeworx-io/mcp-pexels",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-pexels\n# See source for mcpServers config block"
+}

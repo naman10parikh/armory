@@ -1,0 +1,7 @@
+{
+  "name": "mctlhq-mctl-mcp",
+  "description": "AI-native platform for Kubernetes management and automated GitOps (30+ tools).",
+  "source_repo": "mctlhq/mctl-mcp",
+  "source_url": "https://github.com/mctlhq/mctl-mcp",
+  "install": "npx -y mctl-mcp"
+}

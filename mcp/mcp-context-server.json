@@ -1,0 +1,7 @@
+{
+  "name": "mcp-context-server",
+  "description": "A secure multi-tenant server that provides real-time context to LLMs via REST API, using JWT authentication and PostgreSQL row-level security for tenant isolation.",
+  "source_repo": "dotteduniverse/Model-Context-Protocol-Server",
+  "source_url": "https://github.com/dotteduniverse/Model-Context-Protocol-Server",
+  "install": "# git clone --depth 1 https://github.com/dotteduniverse/Model-Context-Protocol-Server\n# See source for mcpServers config block"
+}

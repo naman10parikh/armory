@@ -1,0 +1,7 @@
+{
+  "name": "mhunzi-mcp-hub",
+  "description": "Governs multiple MCP servers with JWT authentication, RBAC, multi-tenant workspaces, audit logging, and cost tracking.",
+  "source_repo": "mhunzi/mcp_hub",
+  "source_url": "https://github.com/mhunzi/mcp_hub",
+  "install": "# git clone --depth 1 https://github.com/mhunzi/mcp_hub\n# See source for mcpServers config block"
+}

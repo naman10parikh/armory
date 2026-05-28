@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-ukpolice",
+  "description": "UK police data via the Police API — query crime statistics, outcomes, stop-and-search data, and force information by location.",
+  "source_repo": "pipeworx-io/mcp-ukpolice",
+  "source_url": "https://github.com/pipeworx-io/mcp-ukpolice",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ukpolice\n# See source for mcpServers config block"
+}

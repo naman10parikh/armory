@@ -1,0 +1,7 @@
+{
+  "name": "alcova-ai-perplexity",
+  "description": "Connects AI assistants to Perplexity's API for real-time web search and specialized reasoning capabilities through perplexity_ask and perplexity_reason tools.",
+  "source_repo": "alcova-ai/perplexity-mcp",
+  "source_url": "https://github.com/alcova-ai/perplexity-mcp",
+  "install": "npx -y perplexity-mcp"
+}

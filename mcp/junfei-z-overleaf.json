@@ -1,0 +1,7 @@
+{
+  "name": "junfei-z-overleaf",
+  "description": "Read, write, and push LaTeX files in Overleaf projects directly through Claude with efficient patch operations.",
+  "source_repo": "junfei-z/overleaf-claude-mcp",
+  "source_url": "https://github.com/junfei-z/overleaf-claude-mcp",
+  "install": "npx -y overleaf-claude-mcp"
+}

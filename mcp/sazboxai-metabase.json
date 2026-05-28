@@ -1,0 +1,7 @@
+{
+  "name": "sazboxai-metabase",
+  "description": "Provides a bridge between databases and external tools, enabling metadata retrieval, schema exploration, and secure action execution across Metabase database systems through an encrypted configuration interface.",
+  "source_repo": "sazboxai/mcp_metabase",
+  "source_url": "https://github.com/sazboxai/mcp_metabase",
+  "install": "# git clone --depth 1 https://github.com/sazboxai/mcp_metabase\n# See source for mcpServers config block"
+}

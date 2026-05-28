@@ -1,0 +1,7 @@
+{
+  "name": "didierrlopes-openbb-widgets",
+  "description": "Provides comprehensive access to OpenBB's widget development documentation and boilerplate code for building financial dashboard widgets with FastAPI setup, parameter configurations, and working examples like Monte Carlo stock simulations.",
+  "source_repo": "didierrlopes/openbb-widgets-json-mcp",
+  "source_url": "https://github.com/didierrlopes/openbb-widgets-json-mcp",
+  "install": "npx -y openbb-widgets-json-mcp"
+}

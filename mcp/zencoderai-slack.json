@@ -1,0 +1,7 @@
+{
+  "name": "zencoderai-slack",
+  "description": "Integrates with Slack workspaces to enable complete messaging operations including channel management, message posting, thread replies, reactions, and user profile retrieval with OAuth authentication and configurable channel restrictions.",
+  "source_repo": "zencoderai/slack-mcp-server",
+  "source_url": "https://github.com/zencoderai/slack-mcp-server",
+  "install": "npx -y slack-mcp-server"
+}

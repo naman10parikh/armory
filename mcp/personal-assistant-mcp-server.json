@@ -1,0 +1,7 @@
+{
+  "name": "personal-assistant-mcp-server",
+  "description": "Enables users to manage tasks with priorities, perform calculations with history, generate secure passwords, and analyze text, all through MCP tools, resources, and prompts.",
+  "source_repo": "LinkaG/MCP_demo",
+  "source_url": "https://github.com/LinkaG/MCP_demo",
+  "install": "# git clone --depth 1 https://github.com/LinkaG/MCP_demo\n# See source for mcpServers config block"
+}

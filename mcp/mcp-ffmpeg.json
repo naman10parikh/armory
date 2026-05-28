@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ffmpeg",
+  "description": "A job queue-based FFmpeg wrapper enabling AI assistants to perform video processing tasks such as trimming, format conversion, resolution change, and subtitle conversion through natural language.",
+  "source_repo": "priyanshum143/MCP-FFMPEG",
+  "source_url": "https://github.com/priyanshum143/MCP-FFMPEG",
+  "install": "# git clone --depth 1 https://github.com/priyanshum143/MCP-FFMPEG\n# See source for mcpServers config block"
+}

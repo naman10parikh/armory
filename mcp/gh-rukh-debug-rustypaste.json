@@ -1,0 +1,7 @@
+{
+  "name": "gh-rukh-debug-rustypaste",
+  "description": "Manage files on a self-hosted Rustypaste server including upload, delete, list, and expiry operations.",
+  "source_repo": "rukh-debug/rustypaste-mcp",
+  "source_url": "https://github.com/rukh-debug/rustypaste-mcp",
+  "install": "npx -y rustypaste-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "python-mcp-server",
+  "description": "A modular server for managing and registering tools, enabling extensible functionality through tool registration and configuration.",
+  "source_repo": "praveenmenon76/python-mcp-server",
+  "source_url": "https://github.com/praveenmenon76/python-mcp-server",
+  "install": "npx -y python-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bifrostmcp",
+  "description": "BifrostMCP MCP server listed on mcp.so.",
+  "source_repo": "biegehydra/BifrostMCP",
+  "source_url": "https://mcp.so/server/BifrostMCP/biegehydra",
+  "install": "# git clone --depth 1 https://mcp.so/server/BifrostMCP/biegehydra\n# See source for mcpServers config block"
+}

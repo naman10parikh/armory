@@ -1,0 +1,7 @@
+{
+  "name": "raheesahmed-wordpress",
+  "description": "Integrates with WordPress REST API to provide complete site management including posts, pages, media uploads, user management, comments, categories, tags, plugins, themes, menus, and site settings through 49+ tools with Basic authentication and robust error handling.",
+  "source_repo": "raheesahmed/wordpress-mcp-server",
+  "source_url": "https://github.com/raheesahmed/wordpress-mcp-server",
+  "install": "npx -y wordpress-mcp-server"
+}

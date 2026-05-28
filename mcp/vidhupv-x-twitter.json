@@ -1,0 +1,7 @@
+{
+  "name": "vidhupv-x-twitter",
+  "description": "Create and manage X/Twitter posts.",
+  "source_repo": "vidhupv/x-mcp",
+  "source_url": "https://github.com/vidhupv/x-mcp",
+  "install": "npx -y x-mcp"
+}

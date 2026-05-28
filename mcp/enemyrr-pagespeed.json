@@ -1,0 +1,7 @@
+{
+  "name": "enemyrr-pagespeed",
+  "description": "Integrates with Google PageSpeed Insights to analyze webpage performance and provide optimization recommendations for improved loading speed and user experience",
+  "source_repo": "enemyrr/mcp-server-pagespeed",
+  "source_url": "https://github.com/enemyrr/mcp-server-pagespeed",
+  "install": "# git clone --depth 1 https://github.com/enemyrr/mcp-server-pagespeed\n# See source for mcpServers config block"
+}

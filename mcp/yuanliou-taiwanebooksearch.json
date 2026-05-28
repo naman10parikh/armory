@@ -1,0 +1,7 @@
+{
+  "name": "yuanliou-taiwanebooksearch",
+  "description": "Searches and compares e-book prices across Taiwan bookstores with 3 tools for book discovery and price comparison.",
+  "source_repo": "yuanliou/taiwanebooksearch-mcp",
+  "source_url": "https://github.com/yuanliou/taiwanebooksearch-mcp",
+  "install": "npx -y taiwanebooksearch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tsuchijo-matlab",
+  "description": "Integrates MATLAB's numerical computing capabilities, enabling execution of MATLAB scripts and functions for data analysis, signal processing, and visualization.",
+  "source_repo": "tsuchijo/matlab-mcp",
+  "source_url": "https://github.com/tsuchijo/matlab-mcp",
+  "install": "npx -y matlab-mcp"
+}

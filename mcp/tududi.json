@@ -1,0 +1,7 @@
+{
+  "name": "tududi",
+  "description": "Integrates with tududi task management system for task lifecycle management, project organization, and productivity analytics.",
+  "source_repo": "tududi/tududi-mcp",
+  "source_url": "https://github.com/tududi/tududi-mcp",
+  "install": "npx -y tududi-mcp"
+}

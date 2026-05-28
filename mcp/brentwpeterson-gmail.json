@@ -1,0 +1,7 @@
+{
+  "name": "brentwpeterson-gmail",
+  "description": "Integrates with Gmail API using OAuth 2.0 authentication to enable email management including reading, sending, replying, searching, and organizing messages with automatic signature detection and proper threading.",
+  "source_repo": "brentwpeterson/mcp-gmail",
+  "source_url": "https://github.com/brentwpeterson/mcp-gmail",
+  "install": "# git clone --depth 1 https://github.com/brentwpeterson/mcp-gmail\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "srmorete-mobile-device",
+  "description": "Control iOS and Android devices with multi-device and seamless Native/WebView support.",
+  "source_repo": "srmorete/mobile-device-mcp",
+  "source_url": "https://github.com/srmorete/mobile-device-mcp",
+  "install": "npx -y mobile-device-mcp"
+}

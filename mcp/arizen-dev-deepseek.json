@@ -1,0 +1,7 @@
+{
+  "name": "arizen-dev-deepseek",
+  "description": "Integrates DeepSeek AI as a supervised worker with two tools: fast flash-model tasks and deep-reasoning pro-model advice.",
+  "source_repo": "arizen-dev/deepseek-mcp",
+  "source_url": "https://github.com/arizen-dev/deepseek-mcp",
+  "install": "npx -y deepseek-mcp"
+}

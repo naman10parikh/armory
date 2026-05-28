@@ -1,0 +1,7 @@
+{
+  "name": "avanishd-3-math",
+  "description": "Provides basic arithmetic operations and matrix multiplication with 64-bit floating point precision, handling edge cases like division by zero and empty inputs for reliable mathematical computation in educational and data analysis workflows.",
+  "source_repo": "avanishd-3/math-mcp",
+  "source_url": "https://github.com/avanishd-3/math-mcp",
+  "install": "npx -y math-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gigapi-timeseries",
+  "description": "Integrates with GigAPI Timeseries Lake to execute SQL queries, manage databases and tables, and write time-series data using InfluxDB Line Protocol for analytics and IoT monitoring applications.",
+  "source_repo": "gigapi/gigapi-mcp",
+  "source_url": "https://github.com/gigapi/gigapi-mcp",
+  "install": "npx -y gigapi-mcp"
+}

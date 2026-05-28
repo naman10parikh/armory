@@ -1,0 +1,7 @@
+{
+  "name": "syumai-idgen",
+  "description": "Provides four distinct ID generation tools (UUID, XID, ULID, and shortuuid) for creating unique identifiers in database entries, tracking systems, or distributed applications.",
+  "source_repo": "syumai/mcp",
+  "source_url": "https://github.com/syumai/mcp/tree/HEAD/idgen-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/syumai/mcp/tree/HEAD/idgen-mcp-server\n# See source for mcpServers config block"
+}

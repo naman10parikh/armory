@@ -1,0 +1,7 @@
+{
+  "name": "telerik-kendo-ui-angular-generator",
+  "description": "Generate production-ready Angular UIs using natural language prompts and Kendo UI components",
+  "source_repo": "",
+  "source_url": "https://www.telerik.com/kendo-angular-ui/components/ai-tools/agentic-ui-generator",
+  "install": "# git clone --depth 1 https://www.telerik.com/kendo-angular-ui/components/ai-tools/agentic-ui-generator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wopee",
+  "description": "Dispatch autonomous testing agents, generate test cases, and manage test suites for web applications.",
+  "source_repo": "wopee-io/wopee-mcp",
+  "source_url": "https://github.com/wopee-io/wopee-mcp",
+  "install": "npx -y wopee-mcp"
+}

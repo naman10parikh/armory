@@ -1,0 +1,7 @@
+{
+  "name": "nanmesh",
+  "description": "AI trust network with 29 tools for agent search, voting, registration, and trust score queries.",
+  "source_repo": "nanmesh/nanmesh-mcp",
+  "source_url": "https://github.com/nanmesh/nanmesh-mcp",
+  "install": "npx -y nanmesh-mcp"
+}

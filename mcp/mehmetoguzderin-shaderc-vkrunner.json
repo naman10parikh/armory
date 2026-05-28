@@ -1,0 +1,7 @@
+{
+  "name": "mehmetoguzderin-shaderc-vkrunner",
+  "description": "Provides a secure local sandbox for developing, compiling, and visualizing GPU shaders using Vulkan without requiring physical GPU hardware.",
+  "source_repo": "mehmetoguzderin/shaderc-vkrunner-mcp",
+  "source_url": "https://github.com/mehmetoguzderin/shaderc-vkrunner-mcp",
+  "install": "npx -y shaderc-vkrunner-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boryszielonka-php-clock",
+  "description": "Provides current timestamp and date/time information with timezone support through a lightweight PHP-based server built with Symfony components, offering both STDIO and Server-Sent Events transport methods with JWT authentication and rate limiting.",
+  "source_repo": "boryszielonka/php-clock-mcp-poc",
+  "source_url": "https://github.com/boryszielonka/php-clock-mcp-poc",
+  "install": "# git clone --depth 1 https://github.com/boryszielonka/php-clock-mcp-poc\n# See source for mcpServers config block"
+}

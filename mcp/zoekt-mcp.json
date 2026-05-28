@@ -1,0 +1,7 @@
+{
+  "name": "zoekt-mcp",
+  "description": "Exposes Sourcegraph Zoekt code search to MCP-capable AI agents, enabling fast, indexed regex/symbol-aware code search over repositories.",
+  "source_repo": "radiovisual/zoekt-mcp",
+  "source_url": "https://github.com/radiovisual/zoekt-mcp",
+  "install": "npx -y zoekt-mcp"
+}

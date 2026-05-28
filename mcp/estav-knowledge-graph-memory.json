@@ -1,0 +1,7 @@
+{
+  "name": "estav-knowledge-graph-memory",
+  "description": "Provides a knowledge graph management system for storing, retrieving, and querying information to build and maintain long-term memory across conversations.",
+  "source_repo": "evangstav/python-memory-mcp-server",
+  "source_url": "https://github.com/evangstav/python-memory-mcp-server",
+  "install": "npx -y python-memory-mcp-server"
+}

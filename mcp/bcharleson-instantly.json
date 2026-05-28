@@ -1,0 +1,7 @@
+{
+  "name": "bcharleson-instantly",
+  "description": "Integrates with Instantly API v2 to enable email campaign management, lead tracking, and account health monitoring for automated outreach workflows.",
+  "source_repo": "bcharleson/instantly-mcp",
+  "source_url": "https://github.com/bcharleson/instantly-mcp",
+  "install": "npx -y instantly-mcp"
+}

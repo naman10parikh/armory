@@ -1,0 +1,7 @@
+{
+  "name": "rachitkumarrastogi-unity",
+  "description": "Unity project management with build automation, scene listing, and agent documentation.",
+  "source_repo": "rachitkumarrastogi/unity-mcp-server",
+  "source_url": "https://github.com/rachitkumarrastogi/unity-mcp-server",
+  "install": "npx -y unity-mcp-server"
+}

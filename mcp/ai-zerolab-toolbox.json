@@ -1,0 +1,7 @@
+{
+  "name": "ai-zerolab-toolbox",
+  "description": "Integrates with external APIs and services to provide command execution, Figma file interaction, and file operations, enhancing LLM capabilities for UI/UX design, file management, and service interactions.",
+  "source_repo": "ai-zerolab/mcp-toolbox",
+  "source_url": "https://github.com/ai-zerolab/mcp-toolbox",
+  "install": "# git clone --depth 1 https://github.com/ai-zerolab/mcp-toolbox\n# See source for mcpServers config block"
+}

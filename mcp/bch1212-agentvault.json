@@ -1,0 +1,7 @@
+{
+  "name": "bch1212-agentvault",
+  "description": "Credential vault for AI agents with Fernet-encrypted API keys, per-agent spending budgets, and comprehensive audit logs.",
+  "source_repo": "bch1212/agentvault",
+  "source_url": "https://github.com/bch1212/agentvault",
+  "install": "# git clone --depth 1 https://github.com/bch1212/agentvault\n# See source for mcpServers config block"
+}

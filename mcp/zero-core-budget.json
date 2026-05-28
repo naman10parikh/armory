@@ -1,0 +1,7 @@
+{
+  "name": "zero-core-budget",
+  "description": "Agent spending management, budget tracking, and ROI analysis for AI workflows.",
+  "source_repo": "meltingpixelsai/zero-core-budget",
+  "source_url": "https://github.com/meltingpixelsai/zero-core-budget",
+  "install": "# git clone --depth 1 https://github.com/meltingpixelsai/zero-core-budget\n# See source for mcpServers config block"
+}

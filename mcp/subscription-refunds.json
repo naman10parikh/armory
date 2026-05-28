@@ -1,0 +1,7 @@
+{
+  "name": "subscription-refunds",
+  "description": "Determine refund eligibility for popular US consumer subscriptions including Apple, Netflix, and Adobe. Simplify the process of reclaiming funds by providing clear approval status based on vendor policies. Check status for individual plans across major digital service providers within the United Sta",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/refund-decide/notary",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/refund-decide/notary\n# See source for mcpServers config block"
+}

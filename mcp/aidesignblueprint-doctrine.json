@@ -1,0 +1,7 @@
+{
+  "name": "aidesignblueprint-doctrine",
+  "description": "Agentic AI Blueprint doctrine and 13 public tools for learning and prototyping agent patterns.",
+  "source_repo": "",
+  "source_url": "https://aidesignblueprint.com/en/for-agents/mcp",
+  "install": "# git clone --depth 1 https://aidesignblueprint.com/en/for-agents/mcp\n# See source for mcpServers config block"
+}

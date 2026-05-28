@@ -1,0 +1,7 @@
+{
+  "name": "mcp-claude-context-server",
+  "description": "A powerful MCP server that extracts, stores, searches, and analyzes Claude.ai conversations with SQLite database, semantic search, and multiple export formats including Obsidian and PDF.",
+  "source_repo": "hamzaamjad/mcp-claude-context",
+  "source_url": "https://github.com/hamzaamjad/mcp-claude-context",
+  "install": "# git clone --depth 1 https://github.com/hamzaamjad/mcp-claude-context\n# See source for mcpServers config block"
+}

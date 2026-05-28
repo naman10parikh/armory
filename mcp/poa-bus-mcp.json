@@ -1,0 +1,7 @@
+{
+  "name": "poa-bus-mcp",
+  "description": "Access bus stops, routes, and real-time information for Porto Alegre's public transportation system.",
+  "source_repo": "emiliosheinz/poa-bus-mcp",
+  "source_url": "https://github.com/emiliosheinz/poa-bus-mcp",
+  "install": "npx -y poa-bus-mcp"
+}

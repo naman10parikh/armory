@@ -1,0 +1,7 @@
+{
+  "name": "dappierai-real-time-data-search",
+  "description": "Connects AI assistants to real-time, rights-cleared data from trusted sources through search and recommendation tools for retrieving web results, financial information, and personalized content without leaving the conversation interface.",
+  "source_repo": "dappierai/dappier-mcp",
+  "source_url": "https://github.com/dappierai/dappier-mcp",
+  "install": "npx -y dappier-mcp"
+}

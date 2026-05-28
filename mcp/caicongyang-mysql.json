@@ -1,0 +1,7 @@
+{
+  "name": "caicongyang-mysql",
+  "description": "Provides secure MySQL database access through a FastAPI server with SQLAlchemy and PyMySQL, enabling configurable connection pooling and optional query restrictions.",
+  "source_repo": "caicongyang/mcp-demo",
+  "source_url": "https://github.com/caicongyang/mcp-demo",
+  "install": "# git clone --depth 1 https://github.com/caicongyang/mcp-demo\n# See source for mcpServers config block"
+}

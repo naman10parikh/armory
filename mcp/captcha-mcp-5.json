@@ -1,0 +1,7 @@
+{
+  "name": "captcha-mcp-5",
+  "description": "PoW CAPTCHA verification for MCP clients. Exposes generate_challenge and verify_solution tools — stateless proof-of-work that agents can embed in auth flows. L402 Lightning skip tier available for trusted clients. No API key required for PoW path.",
+  "source_repo": "",
+  "source_url": "https://captcha-mcp.powforge.dev",
+  "install": "# git clone --depth 1 https://captcha-mcp.powforge.dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "helger-it-peppol-network",
+  "description": "Look up Peppol network participants, document types, SMP endpoints, and validate e-procurement identifiers via AI assistants.",
+  "source_repo": "helger-it/phoss-peppol-mcp",
+  "source_url": "https://github.com/helger-it/phoss-peppol-mcp",
+  "install": "npx -y phoss-peppol-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "axiomhq-mcp-server-axiom",
+  "description": "Query and analyze observability data using Axiom Processing Language",
+  "source_repo": "axiomhq/mcp",
+  "source_url": "https://github.com/axiomhq/mcp/tree/HEAD/apps/mcp",
+  "install": "# git clone --depth 1 https://github.com/axiomhq/mcp/tree/HEAD/apps/mcp\n# See source for mcpServers config block"
+}

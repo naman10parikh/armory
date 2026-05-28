@@ -1,0 +1,7 @@
+{
+  "name": "qihoo360-ecs-cloud-storage",
+  "description": "Provides comprehensive file management and cloud storage operations including upload, download, search, move, rename, delete, directory management, file sharing, and video downloading capabilities with authentication and configurable timeout handling.",
+  "source_repo": "qihoo360/ecs_mcp_server",
+  "source_url": "https://github.com/qihoo360/ecs_mcp_server",
+  "install": "npx -y ecs_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nogoo9-cloud-filesystem",
+  "description": "Drop-in cloud storage replacement for the standard filesystem MCP server, supporting Amazon S3, Azure Blob Storage, Google Cloud Storage, and S3-compatible backends.",
+  "source_repo": "nogoo9/mcp-server-cloud-fs",
+  "source_url": "https://github.com/nogoo9/mcp-server-cloud-fs",
+  "install": "# git clone --depth 1 https://github.com/nogoo9/mcp-server-cloud-fs\n# See source for mcpServers config block"
+}

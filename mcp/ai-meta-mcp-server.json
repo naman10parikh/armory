@@ -1,0 +1,7 @@
+{
+  "name": "ai-meta-mcp-server",
+  "description": "Ai Meta Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "alxspiker/ai-meta-mcp-server",
+  "source_url": "https://mcp.so/server/ai-meta-mcp-server/alxspiker",
+  "install": "npx -y ai-meta-mcp-server"
+}

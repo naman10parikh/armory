@@ -1,0 +1,7 @@
+{
+  "name": "datanoisetv-translator-ai",
+  "description": "Translates JSON internationalization files using multiple translation providers (Google Gemini, OpenAI, Ollama/DeepSeek) with intelligent caching, deduplication across files, and format preservation to minimize API costs while maintaining exact JSON structure and consistent results across target languages.",
+  "source_repo": "datanoisetv/translator-ai",
+  "source_url": "https://github.com/datanoisetv/translator-ai",
+  "install": "# git clone --depth 1 https://github.com/datanoisetv/translator-ai\n# See source for mcpServers config block"
+}

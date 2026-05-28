@@ -1,0 +1,7 @@
+{
+  "name": "chennan777-video-analyzer",
+  "description": "Download, transcribe, and analyze video content with intelligent frame extraction and image recognition.",
+  "source_repo": "chennan777/video-mcp",
+  "source_url": "https://github.com/chennan777/video-mcp",
+  "install": "npx -y video-mcp"
+}

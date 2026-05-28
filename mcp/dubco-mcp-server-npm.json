@@ -1,0 +1,7 @@
+{
+  "name": "dubco-mcp-server-npm",
+  "description": "Dubco Mcp Server Npm MCP server listed on mcp.so.",
+  "source_repo": "Gitmaxd/dubco-mcp-server-npm",
+  "source_url": "https://mcp.so/server/dubco-mcp-server-npm/Gitmaxd",
+  "install": "# git clone --depth 1 https://mcp.so/server/dubco-mcp-server-npm/Gitmaxd\n# See source for mcpServers config block"
+}

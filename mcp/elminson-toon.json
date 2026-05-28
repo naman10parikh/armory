@@ -1,0 +1,7 @@
+{
+  "name": "elminson-toon",
+  "description": "Converts structured data formats into compact tabular notation where field names appear once in headers, reducing token usage by 50-70%.",
+  "source_repo": "elminson/toon-mcp",
+  "source_url": "https://github.com/elminson/toon-mcp",
+  "install": "npx -y toon-mcp"
+}

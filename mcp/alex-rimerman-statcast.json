@@ -1,0 +1,7 @@
+{
+  "name": "alex-rimerman-statcast",
+  "description": "Queries MLB Statcast data from Baseball Savant, FanGraphs, and Baseball Reference using natural language.",
+  "source_repo": "alex-rimerman/statcast-mcp",
+  "source_url": "https://github.com/alex-rimerman/statcast-mcp",
+  "install": "npx -y statcast-mcp"
+}

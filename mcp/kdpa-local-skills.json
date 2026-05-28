@@ -1,0 +1,7 @@
+{
+  "name": "kdpa-local-skills",
+  "description": "Universal MCP server for local filesystem skills with lazy loading and context-efficient discovery",
+  "source_repo": "kdpa-llc/local-skills-mcp",
+  "source_url": "https://github.com/kdpa-llc/local-skills-mcp",
+  "install": "npx -y local-skills-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "leixiaotian1-postgresql",
+  "description": "Enables direct PostgreSQL database interaction with tools for executing SQL queries, creating tables, and listing database schema, featuring security controls like query validation and input sanitization.",
+  "source_repo": "leixiaotian1/pgsql-mcp-server",
+  "source_url": "https://github.com/leixiaotian1/pgsql-mcp-server",
+  "install": "npx -y pgsql-mcp-server"
+}

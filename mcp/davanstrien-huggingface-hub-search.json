@@ -1,0 +1,7 @@
+{
+  "name": "davanstrien-huggingface-hub-search",
+  "description": "Provides semantic search capabilities for Hugging Face models and datasets using vector embeddings to find resources through natural language descriptions, similarity-based discovery, and trending content retrieval with detailed metadata extraction.",
+  "source_repo": "davanstrien/hub-semantic-search-mcp",
+  "source_url": "https://github.com/davanstrien/hub-semantic-search-mcp",
+  "install": "npx -y hub-semantic-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cdata-connect-ai",
+  "description": "Cloud-hosted platform for secure, real-time access to 350+ enterprise data sources via managed connectivity.",
+  "source_repo": "",
+  "source_url": "https://www.cdata.com/ai/",
+  "install": "# git clone --depth 1 https://www.cdata.com/ai/\n# See source for mcpServers config block"
+}

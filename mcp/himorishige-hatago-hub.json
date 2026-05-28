@@ -1,0 +1,7 @@
+{
+  "name": "himorishige-hatago-hub",
+  "description": "Lightweight hub for unified management of multiple MCP servers",
+  "source_repo": "himorishige/hatago-mcp-hub",
+  "source_url": "https://github.com/himorishige/hatago-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/himorishige/hatago-mcp-hub\n# See source for mcpServers config block"
+}

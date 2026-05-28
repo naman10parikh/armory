@@ -1,0 +1,7 @@
+{
+  "name": "xinthink-reader",
+  "description": "Integrates with Readwise Reader to retrieve saved documents from different locations (new, feed, archive, or library) based on time parameters using the FastMCP framework.",
+  "source_repo": "xinthink/reader-mcp-server",
+  "source_url": "https://github.com/xinthink/reader-mcp-server",
+  "install": "npx -y reader-mcp-server"
+}

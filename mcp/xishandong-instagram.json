@@ -1,0 +1,7 @@
+{
+  "name": "xishandong-instagram",
+  "description": "Access Instagram public data using browser automation with Cloudflare bypass.",
+  "source_repo": "xishandong/instagram-mcp",
+  "source_url": "https://github.com/xishandong/instagram-mcp",
+  "install": "npx -y instagram-mcp"
+}

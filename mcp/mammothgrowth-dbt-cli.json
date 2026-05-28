@@ -1,0 +1,7 @@
+{
+  "name": "mammothgrowth-dbt-cli",
+  "description": "Bridges Claude with dbt Core CLI, enabling direct execution of data transformation workflows, model management, and pipeline analysis within conversation interfaces.",
+  "source_repo": "mammothgrowth/dbt-cli-mcp",
+  "source_url": "https://github.com/mammothgrowth/dbt-cli-mcp",
+  "install": "npx -y dbt-cli-mcp"
+}

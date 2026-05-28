@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nettools",
+  "description": "A Model Context Protocol server that provides network diagnostics and scanning tools such as nmap, DNS lookups, whois, traceroute, and security analysis.",
+  "source_repo": "dkruyt/mcp-nettools",
+  "source_url": "https://github.com/dkruyt/mcp-nettools",
+  "install": "# git clone --depth 1 https://github.com/dkruyt/mcp-nettools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "midjourney-mcp",
+  "description": "Enables Midjourney image generation via PiAPI with daily cost caps, audit logs, and SSRF-safe image URL inputs.",
+  "source_repo": "adelaidasofia/midjourney-mcp",
+  "source_url": "https://github.com/adelaidasofia/midjourney-mcp",
+  "install": "npx -y midjourney-mcp"
+}

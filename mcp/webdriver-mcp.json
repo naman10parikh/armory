@@ -1,0 +1,7 @@
+{
+  "name": "webdriver-mcp",
+  "description": "WebDriverIO-based MCP server enabling cross-browser automation (Chrome, Firefox, Safari) via the W3C WebDriver protocol — useful for enterprise test environments that mandate WebDriver over CDP.",
+  "source_repo": "webdriverio/webdriverio",
+  "source_url": "https://github.com/webdriverio/webdriverio",
+  "install": "# git clone --depth 1 https://github.com/webdriverio/webdriverio\n# See source for mcpServers config block"
+}

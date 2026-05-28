@@ -1,0 +1,7 @@
+{
+  "name": "gh-shangri-la-0428-thronglets",
+  "description": "P2P shared memory substrate for AI agents enabling stigmergic knowledge networks.",
+  "source_repo": "shangri-la-0428/thronglets",
+  "source_url": "https://github.com/shangri-la-0428/thronglets",
+  "install": "# git clone --depth 1 https://github.com/shangri-la-0428/thronglets\n# See source for mcpServers config block"
+}

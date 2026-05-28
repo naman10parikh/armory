@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-watermark",
+  "description": "Add, search, and manage watermarks in documents via the GroupDocs.Watermark API.",
+  "source_repo": "groupdocs-watermark/groupdocs.watermark.mcp",
+  "source_url": "https://github.com/groupdocs-watermark/groupdocs.watermark.mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-watermark/groupdocs.watermark.mcp\n# See source for mcpServers config block"
+}

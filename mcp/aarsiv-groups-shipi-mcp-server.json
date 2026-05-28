@@ -1,0 +1,7 @@
+{
+  "name": "aarsiv-groups-shipi-mcp-server",
+  "description": "Shipi MCP server to create shipments, track packages, and compare rates with 18 tools for various carriers. Supports [remote MCP](https://mcp.myshipi.com/api/mcp).",
+  "source_repo": "aarsiv-groups/shipi-mcp-server",
+  "source_url": "https://github.com/aarsiv-groups/shipi-mcp-server",
+  "install": "npx -y shipi-mcp-server"
+}

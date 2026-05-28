@@ -1,0 +1,7 @@
+{
+  "name": "gh-fasuizu-br-speech-ai",
+  "description": "Pronunciation scoring, speech-to-text, and text-to-speech for language learning.",
+  "source_repo": "fasuizu-br/speech-ai-examples",
+  "source_url": "https://github.com/fasuizu-br/speech-ai-examples",
+  "install": "# git clone --depth 1 https://github.com/fasuizu-br/speech-ai-examples\n# See source for mcpServers config block"
+}

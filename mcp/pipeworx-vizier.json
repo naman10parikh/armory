@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-vizier",
+  "description": "Queries the CDS VizieR astronomical catalogue database with tens of thousands of catalogues.",
+  "source_repo": "pipeworx-io/mcp-vizier",
+  "source_url": "https://github.com/pipeworx-io/mcp-vizier",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-vizier\n# See source for mcpServers config block"
+}

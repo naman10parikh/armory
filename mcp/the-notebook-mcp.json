@@ -1,0 +1,7 @@
+{
+  "name": "the-notebook-mcp",
+  "description": "Enables AI agents to directly manipulate Jupyter Notebook cells and structure through a secure, well-defined API, overcoming Cursor's AI agent mode limitations.",
+  "source_repo": "svallory/the-notebook-mcp",
+  "source_url": "https://github.com/svallory/the-notebook-mcp",
+  "install": "npx -y the-notebook-mcp"
+}

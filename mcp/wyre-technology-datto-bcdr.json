@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-datto-bcdr",
+  "description": "Manage Datto BCDR appliances, agents, recovery points, and alerts via MCP.",
+  "source_repo": "wyre-technology/datto-bcdr-mcp",
+  "source_url": "https://github.com/wyre-technology/datto-bcdr-mcp",
+  "install": "npx -y datto-bcdr-mcp"
+}

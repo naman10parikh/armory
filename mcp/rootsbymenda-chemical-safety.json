@@ -1,0 +1,7 @@
+{
+  "name": "rootsbymenda-chemical-safety",
+  "description": "Free chemical hazard lookup across 468K classifications: SVHC restricted substances, GHS labeling, NIOSH occupational limits, and ICSC safety cards.",
+  "source_repo": "rootsbymenda/chem-mcp-server",
+  "source_url": "https://github.com/rootsbymenda/chem-mcp-server",
+  "install": "npx -y chem-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shalinda-j-cse-predictor",
+  "description": "Delivers Colombo Stock Exchange technical analysis and ensemble predictions using RSI, MACD, and Bollinger Bands with simulated data.",
+  "source_repo": "shalinda-j/cse-predictor-mcp",
+  "source_url": "https://github.com/shalinda-j/cse-predictor-mcp",
+  "install": "npx -y cse-predictor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mumo-chat",
+  "description": "Run multi-model AI deliberations using Claude, GPT, Gemini, Grok, and others in parallel.",
+  "source_repo": "mumo-chat/mumo-mcp",
+  "source_url": "https://github.com/mumo-chat/mumo-mcp",
+  "install": "npx -y mumo-mcp"
+}

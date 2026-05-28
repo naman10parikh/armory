@@ -1,0 +1,7 @@
+{
+  "name": "urjitbhatia-tpm",
+  "description": "Local SQLite-based project management server that tracks organizations, projects, tickets, tasks, and dependencies with automated ID generation, status tracking, JSON import/export, and PDF report generation for offline technical team coordination.",
+  "source_repo": "urjitbhatia/tpm-mcp",
+  "source_url": "https://github.com/urjitbhatia/tpm-mcp",
+  "install": "npx -y tpm-mcp"
+}

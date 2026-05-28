@@ -1,0 +1,7 @@
+{
+  "name": "tracepii-shield",
+  "description": "LLM trace PII scanning, payload redaction, sensitive field classification, and privacy receipts for AI agent systems.",
+  "source_repo": "clauxel/tracepii-shield-mcp",
+  "source_url": "https://github.com/clauxel/tracepii-shield-mcp",
+  "install": "npx -y tracepii-shield-mcp"
+}

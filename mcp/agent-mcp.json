@@ -1,0 +1,7 @@
+{
+  "name": "agent-mcp",
+  "description": "Agent MCP MCP server listed on mcp.so.",
+  "source_repo": "Zeppelinpp/Agent-MCP",
+  "source_url": "https://mcp.so/server/Agent-MCP/Zeppelinpp",
+  "install": "npx -y Agent-MCP"
+}

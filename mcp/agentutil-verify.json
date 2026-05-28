@@ -1,0 +1,7 @@
+{
+  "name": "agentutil-verify",
+  "description": "Sub-cent factual claim verification against live data sources.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/agentutil-verify",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/agentutil-verify\n# See source for mcpServers config block"
+}

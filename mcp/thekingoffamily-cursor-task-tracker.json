@@ -1,0 +1,7 @@
+{
+  "name": "thekingoffamily-cursor-task-tracker",
+  "description": "Task management system for AI coding agents with kanban dashboard and role-based workflows.",
+  "source_repo": "thekingoffamily/cursor-mcp-server-for-track-ai-agents-works",
+  "source_url": "https://github.com/thekingoffamily/cursor-mcp-server-for-track-ai-agents-works",
+  "install": "# git clone --depth 1 https://github.com/thekingoffamily/cursor-mcp-server-for-track-ai-agents-works\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "durannd-vertex-ai",
+  "description": "Offload repository analysis and screenshot understanding to Google Vertex AI.",
+  "source_repo": "durannd/vertex-ai-mcp",
+  "source_url": "https://github.com/durannd/vertex-ai-mcp",
+  "install": "npx -y vertex-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "roomi-fields-rtfm",
+  "description": "Open retrieval layer for indexing code, documentation, and data with semantic search.",
+  "source_repo": "roomi-fields/rtfm",
+  "source_url": "https://github.com/roomi-fields/rtfm",
+  "install": "# git clone --depth 1 https://github.com/roomi-fields/rtfm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-inventory-management-ai-mcp",
+  "description": "Python MCP server for inventory tracking and management automation.",
+  "source_repo": "csoai-org/inventory-management-ai-mcp",
+  "source_url": "https://github.com/csoai-org/inventory-management-ai-mcp",
+  "install": "npx -y inventory-management-ai-mcp"
+}

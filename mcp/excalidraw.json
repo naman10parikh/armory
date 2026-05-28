@@ -1,0 +1,7 @@
+{
+  "name": "excalidraw",
+  "description": "Generates hand-drawn style Excalidraw diagrams with streaming animations and interactive editing.",
+  "source_repo": "excalidraw/excalidraw-mcp",
+  "source_url": "https://github.com/excalidraw/excalidraw-mcp",
+  "install": "npx -y excalidraw-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "doktor-mx",
+  "description": "Search verified Mexican doctors by specialty, location, symptoms, insurance, and validate medical credentials via SEP registry.",
+  "source_repo": "vanguardiaai/doktor-mcp-server",
+  "source_url": "https://github.com/vanguardiaai/doktor-mcp-server",
+  "install": "npx -y doktor-mcp-server"
+}

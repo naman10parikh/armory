@@ -1,0 +1,7 @@
+{
+  "name": "world-999-labs-proof-layer",
+  "description": "Creates signed, hash-chained provenance receipts for AI agent actions.",
+  "source_repo": "world-999-labs/proof-layer",
+  "source_url": "https://github.com/world-999-labs/proof-layer",
+  "install": "# git clone --depth 1 https://github.com/world-999-labs/proof-layer\n# See source for mcpServers config block"
+}

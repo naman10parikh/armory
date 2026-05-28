@@ -1,0 +1,7 @@
+{
+  "name": "proofslip",
+  "description": "Ephemeral receipt API for AI agent workflows — create, verify, and poll proof objects before agents act.",
+  "source_repo": "johnny-z13/proofslip",
+  "source_url": "https://github.com/johnny-z13/proofslip/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/johnny-z13/proofslip/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

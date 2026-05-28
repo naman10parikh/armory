@@ -1,0 +1,7 @@
+{
+  "name": "olamide-olaniyan-sociavault",
+  "description": "Integrates with SociaVault API to retrieve profile information and content from Instagram, TikTok, Twitter/X, Threads, YouTube, Facebook, and Reddit for social media analysis, content research, and influencer monitoring.",
+  "source_repo": "olamide-olaniyan/sociavault-mcp",
+  "source_url": "https://github.com/olamide-olaniyan/sociavault-mcp",
+  "install": "npx -y sociavault-mcp"
+}

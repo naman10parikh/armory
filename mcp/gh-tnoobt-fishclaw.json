@@ -1,0 +1,7 @@
+{
+  "name": "gh-tnoobt-fishclaw",
+  "description": "Automates Xianyu (闲鱼) marketplace operations including product listing, inventory management, and market research through browser automation.",
+  "source_repo": "tnoobt/fishclaw_mcp",
+  "source_url": "https://github.com/tnoobt/fishclaw_mcp",
+  "install": "npx -y fishclaw_mcp"
+}

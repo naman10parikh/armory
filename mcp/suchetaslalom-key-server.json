@@ -1,0 +1,7 @@
+{
+  "name": "suchetaslalom-key-server",
+  "description": "Provides secure API key storage and NPM package management with role-based access control, enabling developers to centrally store service credentials while maintaining dependencies.",
+  "source_repo": "suchetaslalom-sf/mcp-key-server",
+  "source_url": "https://github.com/suchetaslalom-sf/mcp-key-server",
+  "install": "# git clone --depth 1 https://github.com/suchetaslalom-sf/mcp-key-server\n# See source for mcpServers config block"
+}

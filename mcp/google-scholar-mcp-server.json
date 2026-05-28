@@ -1,0 +1,7 @@
+{
+  "name": "google-scholar-mcp-server",
+  "description": "Google Scholar MCP Server MCP server listed on mcp.so.",
+  "source_repo": "JackKuo666/Google-Scholar-MCP-Server",
+  "source_url": "https://mcp.so/server/Google-Scholar-MCP-Server/JackKuo666",
+  "install": "npx -y Google-Scholar-MCP-Server"
+}

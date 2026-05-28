@@ -1,0 +1,7 @@
+{
+  "name": "zephyrdeng-go-pprof-analyzer",
+  "description": "Analyzes Go performance profiles to extract key metrics and generate flame graphs for diagnosing bottlenecks, memory issues, and concurrency problems in Go applications.",
+  "source_repo": "zephyrdeng/pprof-analyzer-mcp",
+  "source_url": "https://github.com/zephyrdeng/pprof-analyzer-mcp",
+  "install": "npx -y pprof-analyzer-mcp"
+}

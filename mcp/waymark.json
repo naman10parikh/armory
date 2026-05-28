@@ -1,0 +1,7 @@
+{
+  "name": "waymark",
+  "description": "MCP server that intercepts and controls AI agent actions in your codebase by enforcing policies on file operations and commands, with logging, approval workflows, and rollback capabilities.",
+  "source_repo": "waymarks/waymark",
+  "source_url": "https://github.com/waymarks/waymark",
+  "install": "# git clone --depth 1 https://github.com/waymarks/waymark\n# See source for mcpServers config block"
+}

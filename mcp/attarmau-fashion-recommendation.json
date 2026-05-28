@@ -1,0 +1,7 @@
+{
+  "name": "attarmau-fashion-recommendation",
+  "description": "Analyzes fashion images using CLIP to extract clothing attributes like style, color, and fabric, then generates personalized recommendations based on detected tags and user behavior.",
+  "source_repo": "attarmau/styleclip",
+  "source_url": "https://github.com/attarmau/styleclip",
+  "install": "# git clone --depth 1 https://github.com/attarmau/styleclip\n# See source for mcpServers config block"
+}

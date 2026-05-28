@@ -1,0 +1,7 @@
+{
+  "name": "nefino-mcp-server",
+  "description": "Provides LLMs with access to news and information about renewable energy projects and planning in Germany via the Nefino API, enabling location-based queries with topic and date filtering.",
+  "source_repo": "liamkauffman/mcp-nefino",
+  "source_url": "https://github.com/liamkauffman/mcp-nefino",
+  "install": "# git clone --depth 1 https://github.com/liamkauffman/mcp-nefino\n# See source for mcpServers config block"
+}

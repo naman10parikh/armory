@@ -1,0 +1,7 @@
+{
+  "name": "oktopeak-filevine",
+  "description": "Open-source MCP server connecting Claude to Filevine legal practice management, built by Oktopeak.",
+  "source_repo": "oktopeak/filevine-mcp",
+  "source_url": "https://github.com/oktopeak/filevine-mcp",
+  "install": "npx -y filevine-mcp"
+}

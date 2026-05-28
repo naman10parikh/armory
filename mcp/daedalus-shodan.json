@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-shodan",
+  "description": "Exposes all Shodan API functionality for host lookups, network scanning, alert management, and exploit searches.",
+  "source_repo": "daedalus/mcp-shodan",
+  "source_url": "https://github.com/daedalus/mcp-shodan",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-shodan\n# See source for mcpServers config block"
+}

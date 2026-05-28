@@ -1,0 +1,7 @@
+{
+  "name": "webforj",
+  "description": "Documentation search, project scaffolding, and theme generation for Java web applications",
+  "source_repo": "",
+  "source_url": "https://mcp.webforj.com",
+  "install": "# git clone --depth 1 https://mcp.webforj.com\n# See source for mcpServers config block"
+}

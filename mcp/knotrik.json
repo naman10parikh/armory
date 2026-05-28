@@ -1,0 +1,7 @@
+{
+  "name": "knotrik",
+  "description": "Query and audit AppSheet apps in natural language using Knotrik's pre-scanned definitions.",
+  "source_repo": "",
+  "source_url": "https://knotrik.com",
+  "install": "# git clone --depth 1 https://knotrik.com\n# See source for mcpServers config block"
+}

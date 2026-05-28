@@ -1,0 +1,7 @@
+{
+  "name": "pulse-fetch",
+  "description": "Reliable, configurable tool to fetch or extract clean data from publicly available webpages while bypassing anti-bot detection measures.",
+  "source_repo": "pulsemcp/mcp-servers",
+  "source_url": "https://github.com/pulsemcp/mcp-servers/tree/HEAD/productionized/pulse-fetch",
+  "install": "# git clone --depth 1 https://github.com/pulsemcp/mcp-servers/tree/HEAD/productionized/pulse-fetch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "megacloud-mcp-server",
+  "description": "Enables middleware management, information checking, backups, and node-level operations for the MegaCloud API.",
+  "source_repo": "megaease/megacloud-mcp",
+  "source_url": "https://github.com/megaease/megacloud-mcp",
+  "install": "npx -y megacloud-mcp"
+}

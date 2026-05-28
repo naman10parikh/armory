@@ -1,0 +1,7 @@
+{
+  "name": "jhackman2019-codebase-context-mcp",
+  "description": "Codebase indexing and search via WASM tree-sitter.",
+  "source_repo": "jhackman2019/codebase-context-mcp",
+  "source_url": "https://github.com/jhackman2019/codebase-context-mcp",
+  "install": "npx -y codebase-context-mcp"
+}

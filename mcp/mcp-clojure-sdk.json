@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clojure-sdk",
+  "description": "Mcp Clojure Sdk MCP server listed on mcp.so.",
+  "source_repo": "unravel-team/mcp-clojure-sdk",
+  "source_url": "https://mcp.so/server/mcp-clojure-sdk/unravel-team",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-clojure-sdk/unravel-team\n# See source for mcpServers config block"
+}

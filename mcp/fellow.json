@@ -1,0 +1,7 @@
+{
+  "name": "fellow",
+  "description": "Connects to Fellow's AI meeting management platform to retrieve meeting summaries, transcripts, action items, participants, and search across past meetings.",
+  "source_repo": "",
+  "source_url": "https://help.fellow.ai/en/articles/12622641-fellow-s-mcp-server",
+  "install": "# git clone --depth 1 https://help.fellow.ai/en/articles/12622641-fellow-s-mcp-server\n# See source for mcpServers config block"
+}

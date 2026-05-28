@@ -1,0 +1,7 @@
+{
+  "name": "roddutra-agent-gateway",
+  "description": "Aggregates multiple MCP servers behind single interface with on-demand tool discovery and per-agent access control",
+  "source_repo": "roddutra/agent-mcp-gateway",
+  "source_url": "https://github.com/roddutra/agent-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/roddutra/agent-mcp-gateway\n# See source for mcpServers config block"
+}

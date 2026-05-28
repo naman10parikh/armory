@@ -1,0 +1,7 @@
+{
+  "name": "tritlo-lsp",
+  "description": "Bridges Language Server Protocol (LSP) servers with code intelligence features like hover information, completions, and diagnostics for accurate code suggestions across multiple programming languages.",
+  "source_repo": "tritlo/lsp-mcp",
+  "source_url": "https://github.com/tritlo/lsp-mcp",
+  "install": "npx -y lsp-mcp"
+}

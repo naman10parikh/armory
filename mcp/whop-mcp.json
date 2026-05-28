@@ -1,0 +1,7 @@
+{
+  "name": "whop-mcp",
+  "description": "A Model Context Protocol server that enables AI assistants to manage Whop.com business operations, including payments, memberships, products, promo codes, and affiliates.",
+  "source_repo": "furkankoykiran/whop-mcp",
+  "source_url": "https://github.com/furkankoykiran/whop-mcp",
+  "install": "npx -y whop-mcp"
+}

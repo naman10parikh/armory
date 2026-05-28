@@ -1,0 +1,7 @@
+{
+  "name": "osirishorus-opencoffer",
+  "description": "Provides tools for managing accounts, transactions, and spending analysis in the OpenCoffer self-hosted finance app.",
+  "source_repo": "osirishorus/opencoffer",
+  "source_url": "https://github.com/osirishorus/opencoffer",
+  "install": "# git clone --depth 1 https://github.com/osirishorus/opencoffer\n# See source for mcpServers config block"
+}

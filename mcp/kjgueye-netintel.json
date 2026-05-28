@@ -1,0 +1,7 @@
+{
+  "name": "kjgueye-netintel",
+  "description": "DNS, SSL, WHOIS, email security, and OSINT tools via x402 micropayments.",
+  "source_repo": "kjgueye/netintel-mcp",
+  "source_url": "https://github.com/kjgueye/netintel-mcp",
+  "install": "npx -y netintel-mcp"
+}

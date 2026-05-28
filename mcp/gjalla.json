@@ -1,0 +1,7 @@
+{
+  "name": "gjalla",
+  "description": "Architecture visibility and control for agentic engineering workflows.",
+  "source_repo": "",
+  "source_url": "https://gjalla.io",
+  "install": "# git clone --depth 1 https://gjalla.io\n# See source for mcpServers config block"
+}

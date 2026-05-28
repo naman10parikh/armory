@@ -1,0 +1,7 @@
+{
+  "name": "telnyx",
+  "description": "Integrates with Telnyx's telecommunications APIs to provide voice calling, SMS/MMS messaging, phone number management, cloud storage, and webhook handling with 60+ tools for building communication applications and telecom workflows.",
+  "source_repo": "team-telnyx/telnyx-mcp-server",
+  "source_url": "https://github.com/team-telnyx/telnyx-mcp-server",
+  "install": "npx -y telnyx-mcp-server"
+}

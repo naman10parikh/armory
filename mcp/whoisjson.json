@@ -1,0 +1,7 @@
+{
+  "name": "whoisjson",
+  "description": "WHOIS, DNS, SSL, and domain availability lookups via the WhoisJSON API.",
+  "source_repo": "whoisjson/mcp-server",
+  "source_url": "https://github.com/whoisjson/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/whoisjson/mcp-server\n# See source for mcpServers config block"
+}

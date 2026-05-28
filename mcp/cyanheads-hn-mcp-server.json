@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-hn-mcp-server",
+  "description": "MCP server for Hacker News providing tools to fetch stories, threads, users, and search content via Firebase and Algolia APIs.",
+  "source_repo": "cyanheads/hn-mcp-server",
+  "source_url": "https://github.com/cyanheads/hn-mcp-server",
+  "install": "npx -y hn-mcp-server"
+}

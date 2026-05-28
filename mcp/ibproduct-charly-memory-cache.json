@@ -1,0 +1,7 @@
+{
+  "name": "ibproduct-charly-memory-cache",
+  "description": "Caches data between language model queries to optimize token consumption and reduce costs in AI interactions.",
+  "source_repo": "ibproduct/ib-mcp-cache-server",
+  "source_url": "https://github.com/ibproduct/ib-mcp-cache-server",
+  "install": "# git clone --depth 1 https://github.com/ibproduct/ib-mcp-cache-server\n# See source for mcpServers config block"
+}

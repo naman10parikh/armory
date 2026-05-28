@@ -1,0 +1,7 @@
+{
+  "name": "flowy11-imagician",
+  "description": "Provides eight core image editing operations including resizing, format conversion, cropping, compression, rotation, flipping, metadata extraction, and batch processing using the Sharp library for automating image workflows and web optimization tasks.",
+  "source_repo": "flowy11/imagician",
+  "source_url": "https://github.com/flowy11/imagician",
+  "install": "# git clone --depth 1 https://github.com/flowy11/imagician\n# See source for mcpServers config block"
+}

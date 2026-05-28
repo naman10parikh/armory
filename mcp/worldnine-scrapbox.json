@@ -1,0 +1,7 @@
+{
+  "name": "worldnine-scrapbox",
+  "description": "Integrates with Scrapbox to enable reading and writing pages for knowledge management, collaborative note-taking, and chatbot applications.",
+  "source_repo": "worldnine/scrapbox-cosense-mcp",
+  "source_url": "https://github.com/worldnine/scrapbox-cosense-mcp",
+  "install": "npx -y scrapbox-cosense-mcp"
+}

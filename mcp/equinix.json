@@ -1,0 +1,7 @@
+{
+  "name": "equinix",
+  "description": "Hundreds of network, communication, security, and cloud providers - all from a single location",
+  "source_repo": "",
+  "source_url": "https://www.equinix.com/products/digital-infrastructure-services/equinix-fabric",
+  "install": "# git clone --depth 1 https://www.equinix.com/products/digital-infrastructure-services/equinix-fabric\n# See source for mcpServers config block"
+}

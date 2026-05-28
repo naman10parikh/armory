@@ -1,0 +1,7 @@
+{
+  "name": "orgsoft-jsr",
+  "description": "Integrates with JSR (JavaScript Registry) through Orama Cloud search and direct API access to provide package discovery, comparison, documentation generation, and source code exploration for the Deno ecosystem.",
+  "source_repo": "orgsofthq/jsr",
+  "source_url": "https://github.com/orgsofthq/jsr",
+  "install": "# git clone --depth 1 https://github.com/orgsofthq/jsr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "andrasfe-vulnicheck",
+  "description": "Python vulnerability scanner with Docker security analysis and secrets detection",
+  "source_repo": "andrasfe/vulnicheck",
+  "source_url": "https://github.com/andrasfe/vulnicheck",
+  "install": "# git clone --depth 1 https://github.com/andrasfe/vulnicheck\n# See source for mcpServers config block"
+}

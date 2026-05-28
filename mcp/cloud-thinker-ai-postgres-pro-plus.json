@@ -1,0 +1,7 @@
+{
+  "name": "cloud-thinker-ai-postgres-pro-plus",
+  "description": "Provides PostgreSQL database analysis and optimization capabilities including health monitoring across connections, vacuum status, and replication, query performance analysis with execution plan insights, and automated index recommendations with duplicate detection and bloat analysis.",
+  "source_repo": "cloudthinker-ai/postgres-mcp-pro-plus",
+  "source_url": "https://github.com/cloudthinker-ai/postgres-mcp-pro-plus",
+  "install": "# git clone --depth 1 https://github.com/cloudthinker-ai/postgres-mcp-pro-plus\n# See source for mcpServers config block"
+}

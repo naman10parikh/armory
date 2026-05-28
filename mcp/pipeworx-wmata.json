@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-wmata",
+  "description": "Washington Metro real-time and static rail and bus data via WMATA API through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-wmata",
+  "source_url": "https://github.com/pipeworx-io/mcp-wmata",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-wmata\n# See source for mcpServers config block"
+}

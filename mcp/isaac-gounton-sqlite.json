@@ -1,0 +1,7 @@
+{
+  "name": "isaac-gounton-sqlite",
+  "description": "Provides a lightweight SQLite database management solution with TypeScript and Docker support, enabling quick, embedded database operations with minimal setup complexity.",
+  "source_repo": "isaacgounton/sqlite-mcp-server",
+  "source_url": "https://github.com/isaacgounton/sqlite-mcp-server",
+  "install": "npx -y sqlite-mcp-server"
+}

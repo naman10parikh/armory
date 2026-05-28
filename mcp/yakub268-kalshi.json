@@ -1,0 +1,7 @@
+{
+  "name": "yakub268-kalshi",
+  "description": "Search, analyze, and trade Kalshi prediction markets with portfolio tracking and order management.",
+  "source_repo": "yakub268/kalshi-mcp",
+  "source_url": "https://github.com/yakub268/kalshi-mcp",
+  "install": "npx -y kalshi-mcp"
+}

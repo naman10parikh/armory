@@ -1,0 +1,7 @@
+{
+  "name": "datadog-mcp-server",
+  "description": "A comprehensive read-only MCP server for Datadog, providing 117 tools to query logs, APM, metrics, monitors, dashboards, SLOs, and more, with zero write capabilities for safe AI integration.",
+  "source_repo": "dreamiurg/datadog-mcp",
+  "source_url": "https://github.com/dreamiurg/datadog-mcp",
+  "install": "npx -y datadog-mcp"
+}

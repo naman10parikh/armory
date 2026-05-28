@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-librivox",
+  "description": "Searches approximately 17,000 LibriVox public-domain audiobooks in dozens of languages.",
+  "source_repo": "pipeworx-io/mcp-librivox",
+  "source_url": "https://github.com/pipeworx-io/mcp-librivox",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-librivox\n# See source for mcpServers config block"
+}

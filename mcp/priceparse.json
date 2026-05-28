@@ -1,0 +1,7 @@
+{
+  "name": "priceparse",
+  "description": "Extract structured pricing tiers, features, and addons from any SaaS pricing page URL.",
+  "source_repo": "larshiensch99/priceparse",
+  "source_url": "https://github.com/larshiensch99/priceparse",
+  "install": "# git clone --depth 1 https://github.com/larshiensch99/priceparse\n# See source for mcpServers config block"
+}

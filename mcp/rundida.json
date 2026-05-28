@@ -1,0 +1,7 @@
+{
+  "name": "rundida",
+  "description": "Provides running calculators, marathon data, pace calculations, race predictions, and heart rate training zones from the RunDida platform.",
+  "source_repo": "xweaponx7/rundida-mcp",
+  "source_url": "https://github.com/xweaponx7/rundida-mcp",
+  "install": "npx -y rundida-mcp"
+}

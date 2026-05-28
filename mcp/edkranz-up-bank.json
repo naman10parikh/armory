@@ -1,0 +1,7 @@
+{
+  "name": "edkranz-up-bank",
+  "description": "Bridges to the Up Bank API for analyzing personal banking data, including accounts, transactions, categories, and tags for financial insights and spending pattern analysis.",
+  "source_repo": "edkranz/up-mcp",
+  "source_url": "https://github.com/edkranz/up-mcp",
+  "install": "npx -y up-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-euler",
+  "description": "Hosted integration with Euler DeFi protocol for on-chain analytics and contract interactions via Junct platform.",
+  "source_repo": "junct-bot/euler-mcp",
+  "source_url": "https://github.com/junct-bot/euler-mcp",
+  "install": "npx -y euler-mcp"
+}

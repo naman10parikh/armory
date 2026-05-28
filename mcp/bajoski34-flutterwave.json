@@ -1,0 +1,7 @@
+{
+  "name": "bajoski34-flutterwave",
+  "description": "Integrates with Flutterwave's payment processing API to enable creating payment links, verifying transactions, and resending failed webhooks for seamless payment processing within conversations.",
+  "source_repo": "bajoski34/mcp-flutterwave",
+  "source_url": "https://github.com/bajoski34/mcp-flutterwave",
+  "install": "# git clone --depth 1 https://github.com/bajoski34/mcp-flutterwave\n# See source for mcpServers config block"
+}

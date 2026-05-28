@@ -1,0 +1,7 @@
+{
+  "name": "damms005-devdb",
+  "description": "Exposes database tables and schemas via HTTP endpoints, allowing tools to query database structure without direct database access for security-conscious development.",
+  "source_repo": "damms005/devdb-vscode",
+  "source_url": "https://github.com/damms005/devdb-vscode",
+  "install": "# git clone --depth 1 https://github.com/damms005/devdb-vscode\n# See source for mcpServers config block"
+}

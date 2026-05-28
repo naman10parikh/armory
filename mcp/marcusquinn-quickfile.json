@@ -1,0 +1,7 @@
+{
+  "name": "marcusquinn-quickfile",
+  "description": "Integrates with QuickFile UK accounting software to manage clients, invoices, estimates, suppliers, bank accounts, transactions, and generate comprehensive financial reports including P&L statements, balance sheets, VAT obligations, and ageing reports for complete UK business accounting automation.",
+  "source_repo": "marcusquinn/quickfile-mcp",
+  "source_url": "https://github.com/marcusquinn/quickfile-mcp",
+  "install": "npx -y quickfile-mcp"
+}

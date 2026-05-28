@@ -1,0 +1,7 @@
+{
+  "name": "datagate-mcp",
+  "description": "MCP server for the DataGate billing platform API, providing read-only tools to manage customers, invoices, products, agreements, sites, and payments.",
+  "source_repo": "hyamie/datagate-mcp",
+  "source_url": "https://github.com/hyamie/datagate-mcp",
+  "install": "npx -y datagate-mcp"
+}

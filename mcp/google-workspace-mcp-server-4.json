@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-mcp-server-4",
+  "description": "The Ultimate MCP Server for Google Workspace Automation — Seamlessly integrate Google Drive, Sheets, and Docs with Claude AI and other AI agents through the Model Context Protocol (MCP).",
+  "source_repo": "chayan-1906/Google-Workspace-MCP",
+  "source_url": "https://github.com/chayan-1906/Google-Workspace-MCP",
+  "install": "npx -y Google-Workspace-MCP"
+}

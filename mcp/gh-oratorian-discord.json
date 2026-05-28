@@ -1,0 +1,7 @@
+{
+  "name": "gh-oratorian-discord",
+  "description": "Control Discord servers via bot token with channel, role, and message management.",
+  "source_repo": "oratorian/discord-node-mcp",
+  "source_url": "https://github.com/oratorian/discord-node-mcp",
+  "install": "npx -y discord-node-mcp"
+}

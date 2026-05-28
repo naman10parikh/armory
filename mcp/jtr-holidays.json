@@ -1,0 +1,7 @@
+{
+  "name": "jtr-holidays",
+  "description": "Search tours, attraction tickets, and holiday packages across 24 countries.",
+  "source_repo": "jtr-holidays/jtr-holidays-mcp",
+  "source_url": "https://github.com/jtr-holidays/jtr-holidays-mcp",
+  "install": "npx -y jtr-holidays-mcp"
+}

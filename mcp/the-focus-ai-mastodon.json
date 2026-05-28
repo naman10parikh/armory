@@ -1,0 +1,7 @@
+{
+  "name": "the-focus-ai-mastodon",
+  "description": "Integrates with Mastodon social media platforms for creating posts with customizable visibility settings and media attachments, securely managing credentials through 1Password CLI for automated content scheduling and engagement.",
+  "source_repo": "the-focus-ai/mastodon-mcp",
+  "source_url": "https://github.com/the-focus-ai/mastodon-mcp",
+  "install": "npx -y mastodon-mcp"
+}

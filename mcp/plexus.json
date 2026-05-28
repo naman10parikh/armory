@@ -1,0 +1,7 @@
+{
+  "name": "plexus",
+  "description": "Persistent typed knowledge graph for AI agents with full-text search, entity relationships, and temporal history.",
+  "source_repo": "pcas-io/plexus",
+  "source_url": "https://github.com/pcas-io/plexus",
+  "install": "# git clone --depth 1 https://github.com/pcas-io/plexus\n# See source for mcpServers config block"
+}

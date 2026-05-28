@@ -1,0 +1,7 @@
+{
+  "name": "udaykumar-dhokia-flow",
+  "description": "Visual no-code platform for designing and deploying MCP servers through a drag-and-drop node editor that generates TypeScript code.",
+  "source_repo": "udaykumar-dhokia/mcp-flow",
+  "source_url": "https://github.com/udaykumar-dhokia/mcp-flow",
+  "install": "# git clone --depth 1 https://github.com/udaykumar-dhokia/mcp-flow\n# See source for mcpServers config block"
+}

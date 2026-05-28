@@ -1,0 +1,7 @@
+{
+  "name": "data-skunks-keywordspeopleuse",
+  "description": "Integrates with KeywordsPeopleUse API to provide keyword research capabilities including People Also Ask questions, Google Autocomplete suggestions, Reddit/Quora questions, and semantic keywords with language and country localization options.",
+  "source_repo": "data-skunks/kpu-mcp",
+  "source_url": "https://github.com/data-skunks/kpu-mcp",
+  "install": "npx -y kpu-mcp"
+}

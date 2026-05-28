@@ -1,0 +1,7 @@
+{
+  "name": "pungggi-smart-terminal",
+  "description": "PTY-based interactive terminal with persistent shell sessions and strong Windows support.",
+  "source_repo": "pungggi/smart-terminal-mcp",
+  "source_url": "https://github.com/pungggi/smart-terminal-mcp",
+  "install": "npx -y smart-terminal-mcp"
+}

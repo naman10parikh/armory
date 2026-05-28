@@ -1,0 +1,7 @@
+{
+  "name": "smith-and-web-obsidian-mcp-server",
+  "description": "SSE-enabled MCP server for remote Obsidian vault management with 29 tools for notes, directories, frontmatter, tags, search, and link operations. Docker-ready with health monitoring.",
+  "source_repo": "smith-and-web/obsidian-mcp-server",
+  "source_url": "https://github.com/smith-and-web/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

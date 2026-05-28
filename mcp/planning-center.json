@@ -1,0 +1,7 @@
+{
+  "name": "planning-center",
+  "description": "Interact with Planning Center ministry management data through natural language queries.",
+  "source_repo": "",
+  "source_url": "https://www.planningcenter.com",
+  "install": "# git clone --depth 1 https://www.planningcenter.com\n# See source for mcpServers config block"
+}

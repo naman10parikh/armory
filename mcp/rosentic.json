@@ -1,0 +1,7 @@
+{
+  "name": "rosentic",
+  "description": "Cross-branch conflict detection for AI coding agents using semantic analysis.",
+  "source_repo": "rosentic/cursor-plugin",
+  "source_url": "https://github.com/rosentic/cursor-plugin",
+  "install": "# git clone --depth 1 https://github.com/rosentic/cursor-plugin\n# See source for mcpServers config block"
+}

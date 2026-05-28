@@ -1,0 +1,7 @@
+{
+  "name": "cantrip",
+  "description": "GTM engine helping solo founders find their first customers through structured workflows.",
+  "source_repo": "ozten/mcp-server-cantrip",
+  "source_url": "https://github.com/ozten/mcp-server-cantrip",
+  "install": "# git clone --depth 1 https://github.com/ozten/mcp-server-cantrip\n# See source for mcpServers config block"
+}

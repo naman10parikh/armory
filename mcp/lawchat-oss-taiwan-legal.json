@@ -1,0 +1,7 @@
+{
+  "name": "lawchat-oss-taiwan-legal",
+  "description": "Searches Taiwan judicial decisions and laws across 11,700+ statutes.",
+  "source_repo": "lawchat-oss/mcp-taiwan-legal-db",
+  "source_url": "https://github.com/lawchat-oss/mcp-taiwan-legal-db",
+  "install": "# git clone --depth 1 https://github.com/lawchat-oss/mcp-taiwan-legal-db\n# See source for mcpServers config block"
+}

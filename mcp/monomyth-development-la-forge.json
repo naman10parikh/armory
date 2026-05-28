@@ -1,0 +1,7 @@
+{
+  "name": "monomyth-development-la-forge",
+  "description": "Provides pixel-perfect visual debugging for CSS development by capturing screenshots, comparing against baselines, detecting visual differences, and analyzing CSS rule conflicts through Chrome DevTools Protocol integration.",
+  "source_repo": "monomythdevelopment/la-forge-mcp",
+  "source_url": "https://github.com/monomythdevelopment/la-forge-mcp",
+  "install": "npx -y la-forge-mcp"
+}

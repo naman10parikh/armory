@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-calltouch",
+  "description": "Integrates with Calltouch call tracking for call lists and statistics.",
+  "source_repo": "theyahia/calltouch-mcp",
+  "source_url": "https://github.com/theyahia/calltouch-mcp",
+  "install": "npx -y calltouch-mcp"
+}

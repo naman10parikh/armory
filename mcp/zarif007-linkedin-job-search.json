@@ -1,0 +1,7 @@
+{
+  "name": "zarif007-linkedin-job-search",
+  "description": "Provides a bridge between LinkedIn job listings and search capabilities through web scraping, enabling job discovery by title, location, and recency with comprehensive details including company information and URLs.",
+  "source_repo": "zarif007/job-search-mcp",
+  "source_url": "https://github.com/zarif007/job-search-mcp",
+  "install": "npx -y job-search-mcp"
+}

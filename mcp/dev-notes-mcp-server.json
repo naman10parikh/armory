@@ -1,0 +1,7 @@
+{
+  "name": "dev-notes-mcp-server",
+  "description": "Enables Claude Code to save, list, and read markdown notes directly from conversations, eliminating manual file management for project ideas, debugging notes, and meeting summaries.",
+  "source_repo": "al928132/mcp-server",
+  "source_url": "https://github.com/al928132/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/al928132/mcp-server\n# See source for mcpServers config block"
+}

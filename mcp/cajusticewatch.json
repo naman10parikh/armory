@@ -1,0 +1,7 @@
+{
+  "name": "cajusticewatch",
+  "description": "California criminal-justice accountability data: DAs, defenders, judges, officers, and oversight boards.",
+  "source_repo": "",
+  "source_url": "https://cajusticewatch.com",
+  "install": "# git clone --depth 1 https://cajusticewatch.com\n# See source for mcpServers config block"
+}

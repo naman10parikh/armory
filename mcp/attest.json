@@ -1,0 +1,7 @@
+{
+  "name": "attest",
+  "description": "Enforce scoped credential tokens on every MCP tool call with cryptographic JWT verification.",
+  "source_repo": "chudah1/attest-dev",
+  "source_url": "https://github.com/chudah1/attest-dev",
+  "install": "# git clone --depth 1 https://github.com/chudah1/attest-dev\n# See source for mcpServers config block"
+}

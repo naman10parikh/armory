@@ -1,0 +1,7 @@
+{
+  "name": "elecz",
+  "description": "Real-time Nordic electricity spot prices and contract recommendations for Finland, Sweden, Norway, and Denmark.",
+  "source_repo": "zemloai-ctrl/elecz-api",
+  "source_url": "https://github.com/zemloai-ctrl/elecz-api",
+  "install": "# git clone --depth 1 https://github.com/zemloai-ctrl/elecz-api\n# See source for mcpServers config block"
+}

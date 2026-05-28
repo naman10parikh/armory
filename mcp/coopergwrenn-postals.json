@@ -1,0 +1,7 @@
+{
+  "name": "coopergwrenn-postals",
+  "description": "Enables AI agents to send physical handwritten postcards via USPS using robotic pen-and-ink writing, delivered in 3-5 business days for $4.99 each.",
+  "source_repo": "coopergwrenn/postals-mcp",
+  "source_url": "https://github.com/coopergwrenn/postals-mcp",
+  "install": "npx -y postals-mcp"
+}

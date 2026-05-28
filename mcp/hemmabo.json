@@ -1,0 +1,7 @@
+{
+  "name": "hemmabo",
+  "description": "Vacation rental booking infrastructure for independent hosts.",
+  "source_repo": "hemmabo-se/hemmabo-mcp-server",
+  "source_url": "https://github.com/hemmabo-se/hemmabo-mcp-server",
+  "install": "npx -y hemmabo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "angelogiacco-harvestr",
+  "description": "Manage customer feedback and product discoveries on Harvestr.io",
+  "source_repo": "angelogiacco/harvestr-mcp",
+  "source_url": "https://github.com/angelogiacco/harvestr-mcp",
+  "install": "npx -y harvestr-mcp"
+}

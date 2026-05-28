@@ -1,0 +1,7 @@
+{
+  "name": "fauguste-boondmanager",
+  "description": "Access BoondManager ERP/CRM data with 158 tools across 36 business domains.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/fauguste-boondmanager",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/fauguste-boondmanager\n# See source for mcpServers config block"
+}

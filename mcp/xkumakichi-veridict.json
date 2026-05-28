@@ -1,0 +1,7 @@
+{
+  "name": "xkumakichi-veridict",
+  "description": "Runtime verification layer that monitors tool execution and provides trust judgments based on success rate metrics.",
+  "source_repo": "xkumakichi/veridict",
+  "source_url": "https://github.com/xkumakichi/veridict",
+  "install": "# git clone --depth 1 https://github.com/xkumakichi/veridict\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "frankfurter",
+  "description": "Get blended exchange rates from 55+ central banks via the Frankfurter open API.",
+  "source_repo": "lineofflight/frankfurter-mcp",
+  "source_url": "https://github.com/lineofflight/frankfurter-mcp",
+  "install": "npx -y frankfurter-mcp"
+}

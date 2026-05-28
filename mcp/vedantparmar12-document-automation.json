@@ -1,0 +1,7 @@
+{
+  "name": "vedantparmar12-document-automation",
+  "description": "Automates codebase analysis and documentation generation for local directories or GitHub repositories, extracting project structure, dependencies, and API endpoints while generating documentation in multiple formats including Markdown, HTML, and RST.",
+  "source_repo": "vedantparmar12/document-automation",
+  "source_url": "https://github.com/vedantparmar12/document-automation",
+  "install": "# git clone --depth 1 https://github.com/vedantparmar12/document-automation\n# See source for mcpServers config block"
+}

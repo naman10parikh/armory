@@ -1,0 +1,7 @@
+{
+  "name": "basicmachines-co-code-remote",
+  "description": "Enables secure remote command execution on your local machine through a cloud-hosted relay architecture with WebSocket connections and token-based authentication.",
+  "source_repo": "basicmachines-co/code-remote",
+  "source_url": "https://github.com/basicmachines-co/code-remote",
+  "install": "# git clone --depth 1 https://github.com/basicmachines-co/code-remote\n# See source for mcpServers config block"
+}

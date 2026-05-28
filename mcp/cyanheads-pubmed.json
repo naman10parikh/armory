@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-pubmed",
+  "description": "Enables AI systems to search, retrieve, and analyze biomedical literature from PubMed for evidence-based research, citation generation, and data visualization",
+  "source_repo": "cyanheads/pubmed-mcp-server",
+  "source_url": "https://github.com/cyanheads/pubmed-mcp-server",
+  "install": "npx -y pubmed-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pavelungr-seznam-webmaster",
+  "description": "Manages Czech search engine Seznam website indexation, tracks page counts and history, and submits reindex requests via the Seznam Webmaster API.",
+  "source_repo": "pavelungr/seznam-webmaster-mcp",
+  "source_url": "https://github.com/pavelungr/seznam-webmaster-mcp",
+  "install": "npx -y seznam-webmaster-mcp"
+}

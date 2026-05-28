@@ -1,0 +1,7 @@
+{
+  "name": "ucp-checker",
+  "description": "A universal commerce gateway for AI agents to interact with UCP-enabled stores. Enables live product discovery, real-time catalog search, and checkout generation across verified Shopify stores (e.g., Allbirds, Gymshark). Use this to find products, verify merchant capabilities, and facilitate end-to-",
+  "source_repo": "",
+  "source_url": "https://ucpchecker.com/",
+  "install": "# git clone --depth 1 https://ucpchecker.com/\n# See source for mcpServers config block"
+}

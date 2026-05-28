@@ -1,0 +1,7 @@
+{
+  "name": "fish-audio-mcp-server",
+  "description": "Enables natural language-driven speech synthesis using Fish Audio's Text-to-Speech API, supporting multiple voices, streaming, and flexible configuration.",
+  "source_repo": "zjandrew/mcp-fish-audio-server",
+  "source_url": "https://github.com/zjandrew/mcp-fish-audio-server",
+  "install": "# git clone --depth 1 https://github.com/zjandrew/mcp-fish-audio-server\n# See source for mcpServers config block"
+}

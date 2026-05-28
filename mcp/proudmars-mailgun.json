@@ -1,0 +1,7 @@
+{
+  "name": "proudmars-mailgun",
+  "description": "Enables direct email sending from desktop applications using the Mailgun API, providing flexible content options like plain text and HTML for streamlined communication workflows.",
+  "source_repo": "proudmars/mailgun-mcp",
+  "source_url": "https://github.com/proudmars/mailgun-mcp",
+  "install": "npx -y mailgun-mcp"
+}

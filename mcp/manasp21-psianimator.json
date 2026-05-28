@@ -1,0 +1,7 @@
+{
+  "name": "manasp21-psianimator",
+  "description": "Integrates QuTip quantum physics computations with Manim mathematical animations to create quantum states, simulate time evolution, perform measurements, and generate visualizations for Bloch spheres, Wigner functions, and quantum circuits.",
+  "source_repo": "manasp21/psianimator-mcp",
+  "source_url": "https://github.com/manasp21/psianimator-mcp",
+  "install": "npx -y psianimator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mickael62800-autocad-quality",
+  "description": "MCP server for quality verification of AutoCAD VRD drawings with 9 tools for layer validation, block naming, and graphics standards compliance.",
+  "source_repo": "mickael62800/mcpqualityautocad",
+  "source_url": "https://github.com/mickael62800/mcpqualityautocad",
+  "install": "# git clone --depth 1 https://github.com/mickael62800/mcpqualityautocad\n# See source for mcpServers config block"
+}

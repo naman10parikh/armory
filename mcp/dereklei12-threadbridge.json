@@ -1,0 +1,7 @@
+{
+  "name": "dereklei12-threadbridge",
+  "description": "Persistent AI memory for Zed editor with hybrid semantic search and cognitive decay modeling.",
+  "source_repo": "dereklei12/zed-mcp-server-threadbridge",
+  "source_url": "https://github.com/dereklei12/zed-mcp-server-threadbridge",
+  "install": "# git clone --depth 1 https://github.com/dereklei12/zed-mcp-server-threadbridge\n# See source for mcpServers config block"
+}

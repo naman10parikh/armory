@@ -1,0 +1,7 @@
+{
+  "name": "tositon-opendeepsearch",
+  "description": "Integrates with Brave Search API to enable web research capabilities through tools for general queries, location-based searches, and multi-step research workflows for synthesizing information from multiple sources.",
+  "source_repo": "tositon/opendeepsearch",
+  "source_url": "https://github.com/tositon/opendeepsearch",
+  "install": "# git clone --depth 1 https://github.com/tositon/opendeepsearch\n# See source for mcpServers config block"
+}

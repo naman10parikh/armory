@@ -1,0 +1,7 @@
+{
+  "name": "labguy94-cpu-emulator",
+  "description": "Exposes CPU emulation, disassembly, and assembly capabilities through MCP for multiple architectures.",
+  "source_repo": "labguy94/mcpemulate",
+  "source_url": "https://github.com/labguy94/mcpemulate",
+  "install": "# git clone --depth 1 https://github.com/labguy94/mcpemulate\n# See source for mcpServers config block"
+}

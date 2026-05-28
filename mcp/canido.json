@@ -1,0 +1,7 @@
+{
+  "name": "canido",
+  "description": "Permit and license lookup for construction, business, and municipal projects.",
+  "source_repo": "benswork-space/canido-mcp",
+  "source_url": "https://github.com/benswork-space/canido-mcp",
+  "install": "npx -y canido-mcp"
+}

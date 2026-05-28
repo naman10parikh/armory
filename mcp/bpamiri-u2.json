@@ -1,0 +1,7 @@
+{
+  "name": "bpamiri-u2",
+  "description": "Connect to Rocket Universe/UniData MultiValue databases",
+  "source_repo": "bpamiri/u2-mcp",
+  "source_url": "https://github.com/bpamiri/u2-mcp",
+  "install": "npx -y u2-mcp"
+}

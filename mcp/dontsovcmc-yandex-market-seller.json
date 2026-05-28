@@ -1,0 +1,7 @@
+{
+  "name": "dontsovcmc-yandex-market-seller",
+  "description": "Manage Yandex Market seller listings, orders, and catalog data.",
+  "source_repo": "dontsovcmc/mcp-server-yandex-market-seller",
+  "source_url": "https://github.com/dontsovcmc/mcp-server-yandex-market-seller",
+  "install": "# git clone --depth 1 https://github.com/dontsovcmc/mcp-server-yandex-market-seller\n# See source for mcpServers config block"
+}

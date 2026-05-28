@@ -1,0 +1,7 @@
+{
+  "name": "mailgun",
+  "description": "Integrates with Mailgun's email service API to enable sending emails and retrieving delivery statistics through over 30 endpoints including message sending, domain information, and analytics",
+  "source_repo": "mailgun/mailgun-mcp-server",
+  "source_url": "https://github.com/mailgun/mailgun-mcp-server",
+  "install": "npx -y mailgun-mcp-server"
+}

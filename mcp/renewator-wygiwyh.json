@@ -1,0 +1,7 @@
+{
+  "name": "renewator-wygiwyh",
+  "description": "Converts WYGIWYH expense tracking API endpoints into MCP tools with automatic OpenAPI schema validation, enabling direct expense management, financial data analysis, and automated bookkeeping workflows.",
+  "source_repo": "renewator/mcp-wygiwyh",
+  "source_url": "https://github.com/renewator/mcp-wygiwyh",
+  "install": "# git clone --depth 1 https://github.com/renewator/mcp-wygiwyh\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rug-munch-intelligence-base",
+  "description": "36+ crypto security & intelligence tools via x402 micropayments. Free trials on every tool (1-5 free calls per tool, resets weekly). Deep contract audits ($0.05, 1 free), honeypot detection ($0.02, 3 free), whale decoding ($0.15, 1 free), rug pull prediction ($0.10, 1 free), copy trade finding ($0.0",
+  "source_repo": "",
+  "source_url": "https://rugmunch.io",
+  "install": "# git clone --depth 1 https://rugmunch.io\n# See source for mcpServers config block"
+}

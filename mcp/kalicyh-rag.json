@@ -1,0 +1,7 @@
+{
+  "name": "kalicyh-rag",
+  "description": "Provides cloud-based document management and semantic search using OpenAI embeddings with in-memory vector storage, enabling retrieval-augmented generation workflows through document ingestion, metadata filtering, and cosine similarity search.",
+  "source_repo": "kalicyh/mcp-rag",
+  "source_url": "https://github.com/kalicyh/mcp-rag",
+  "install": "# git clone --depth 1 https://github.com/kalicyh/mcp-rag\n# See source for mcpServers config block"
+}

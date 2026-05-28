@@ -1,0 +1,7 @@
+{
+  "name": "stitch-pro-mcp",
+  "description": "An intelligent MCP server for Google Stitch that generates production-ready UI from text prompts, with auto-orchestration of design systems, WCAG accessibility, responsive breakpoints, and framework conversion (React, Vue, Svelte).",
+  "source_repo": "LuciferDono/stitch-pro-mcp",
+  "source_url": "https://github.com/LuciferDono/stitch-pro-mcp",
+  "install": "npx -y stitch-pro-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "darwinphi-ph-schools",
+  "description": "Philippine school records search and lookup for AI assistants.",
+  "source_repo": "darwinphi/ph-schools-mcp-server",
+  "source_url": "https://github.com/darwinphi/ph-schools-mcp-server",
+  "install": "npx -y ph-schools-mcp-server"
+}

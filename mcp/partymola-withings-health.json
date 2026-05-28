@@ -1,0 +1,7 @@
+{
+  "name": "partymola-withings-health",
+  "description": "Integrates with Withings health devices for body metrics, sleep, activity, workouts, and ECG data with local SQLite caching.",
+  "source_repo": "partymola/withings-mcp",
+  "source_url": "https://github.com/partymola/withings-mcp",
+  "install": "npx -y withings-mcp"
+}

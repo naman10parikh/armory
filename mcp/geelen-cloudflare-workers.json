@@ -1,0 +1,7 @@
+{
+  "name": "geelen-cloudflare-workers",
+  "description": "Cloudflare Workers-based MCP implementation enables AI assistants to execute custom serverless logic at the edge.",
+  "source_repo": "geelen/workers-mcp",
+  "source_url": "https://github.com/geelen/workers-mcp",
+  "install": "npx -y workers-mcp"
+}

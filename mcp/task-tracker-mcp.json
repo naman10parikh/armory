@@ -1,0 +1,7 @@
+{
+  "name": "task-tracker-mcp",
+  "description": "A task management system for LLM-based agents that stores all tasks in a single tree, available immediately after the server starts.",
+  "source_repo": "feodal01/task-tracker-mcp",
+  "source_url": "https://github.com/feodal01/task-tracker-mcp",
+  "install": "npx -y task-tracker-mcp"
+}

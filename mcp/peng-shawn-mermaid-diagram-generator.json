@@ -1,0 +1,7 @@
+{
+  "name": "peng-shawn-mermaid-diagram-generator",
+  "description": "Converts Mermaid diagrams to PNG images using Puppeteer for high-quality headless browser rendering, supporting multiple themes and customizable backgrounds.",
+  "source_repo": "peng-shawn/mermaid-mcp-server",
+  "source_url": "https://github.com/peng-shawn/mermaid-mcp-server",
+  "install": "npx -y mermaid-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pi22by7-in-memoria",
+  "description": "Provides persistent intelligence infrastructure for codebase analysis through hybrid Rust-TypeScript architecture that combines Tree-sitter AST parsing with semantic concept extraction, developer pattern recognition, and SQLite-based persistence to build contextual understanding of codebases over time, learning from developer behavior and architectural decisions.",
+  "source_repo": "pi22by7/in-memoria",
+  "source_url": "https://github.com/pi22by7/in-memoria",
+  "install": "# git clone --depth 1 https://github.com/pi22by7/in-memoria\n# See source for mcpServers config block"
+}

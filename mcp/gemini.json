@@ -1,0 +1,7 @@
+{
+  "name": "gemini",
+  "description": "Provides a robust interface to Google's Gemini AI models with specialized tools for content generation, chat functionality, function calling, and file/cache management.",
+  "source_repo": "bsmi021/mcp-gemini-server",
+  "source_url": "https://github.com/bsmi021/mcp-gemini-server",
+  "install": "# git clone --depth 1 https://github.com/bsmi021/mcp-gemini-server\n# See source for mcpServers config block"
+}

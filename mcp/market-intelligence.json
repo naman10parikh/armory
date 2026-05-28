@@ -1,0 +1,7 @@
+{
+  "name": "market-intelligence",
+  "description": "Query live Upwork freelance market intelligence directly from your AI agent. Get real-time data about: - Trending skills with week-over-week change - Average fixed & hourly rates by category - Top hiring countries - Highest-budget jobs in last 24 hours - 7×24 activity heatmap (best times to apply) -",
+  "source_repo": "",
+  "source_url": "https://snipework.com",
+  "install": "# git clone --depth 1 https://snipework.com\n# See source for mcpServers config block"
+}

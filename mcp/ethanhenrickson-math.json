@@ -1,0 +1,7 @@
+{
+  "name": "ethanhenrickson-math",
+  "description": "Provides basic mathematical and statistical functions for accurate numerical computations within AI-assisted applications.",
+  "source_repo": "ethanhenrickson/math-mcp",
+  "source_url": "https://github.com/ethanhenrickson/math-mcp",
+  "install": "npx -y math-mcp"
+}

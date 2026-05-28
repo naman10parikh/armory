@@ -1,0 +1,7 @@
+{
+  "name": "onetrueclaude-vault-health",
+  "description": "Detect broken links, orphaned notes, and missing frontmatter in Obsidian vaults, with safe auto-repair.",
+  "source_repo": "onetrueclaude-creator/vault-health-mcp",
+  "source_url": "https://github.com/onetrueclaude-creator/vault-health-mcp",
+  "install": "npx -y vault-health-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kvadratni-square",
+  "description": "Integrates with Square's API to enable payment processing, business management, and e-commerce operations for AI applications.",
+  "source_repo": "block/square-mcp",
+  "source_url": "https://github.com/block/square-mcp",
+  "install": "npx -y square-mcp"
+}

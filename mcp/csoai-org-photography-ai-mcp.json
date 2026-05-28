@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-photography-ai-mcp",
+  "description": "Python MCP server for photography analysis and image processing tools.",
+  "source_repo": "csoai-org/photography-ai-mcp",
+  "source_url": "https://github.com/csoai-org/photography-ai-mcp",
+  "install": "npx -y photography-ai-mcp"
+}

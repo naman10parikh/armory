@@ -1,0 +1,7 @@
+{
+  "name": "noditlabs-blockchain-context",
+  "description": "Provides blockchain context through Nodit's APIs, enabling real-time interaction with multiple protocols including Ethereum, Polygon, and Aptos for token information and on-chain activity analysis.",
+  "source_repo": "noditlabs/nodit-mcp-server",
+  "source_url": "https://github.com/noditlabs/nodit-mcp-server",
+  "install": "npx -y nodit-mcp-server"
+}

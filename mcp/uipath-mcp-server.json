@@ -1,0 +1,7 @@
+{
+  "name": "uipath-mcp-server",
+  "description": "Enables interaction with UiPath Orchestrator Cloud API to manage processes, robots, jobs, queues, and assets through natural language.",
+  "source_repo": "LokiMCPUniverse/uipath-mcp-server",
+  "source_url": "https://github.com/LokiMCPUniverse/uipath-mcp-server",
+  "install": "npx -y uipath-mcp-server"
+}

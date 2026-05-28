@@ -1,0 +1,7 @@
+{
+  "name": "searchapi",
+  "description": "Access real-time search data across Google, Bing, flights, hotels, shopping, and more.",
+  "source_repo": "searchapi/searchapi-mcp",
+  "source_url": "https://github.com/searchapi/searchapi-mcp",
+  "install": "npx -y searchapi-mcp"
+}

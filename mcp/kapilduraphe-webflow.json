@@ -1,0 +1,7 @@
+{
+  "name": "kapilduraphe-webflow",
+  "description": "Integrates with the Webflow API to enable retrieving site information, managing custom domains, and automating Webflow site management tasks.",
+  "source_repo": "kapilduraphe/webflow-mcp-server",
+  "source_url": "https://github.com/kapilduraphe/webflow-mcp-server",
+  "install": "npx -y webflow-mcp-server"
+}

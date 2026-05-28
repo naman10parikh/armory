@@ -1,0 +1,7 @@
+{
+  "name": "inkra-mcp",
+  "description": "MCP bridge for Inkra — drive a native macOS Markdown editor (SwiftUI + AppKit, not Electron) with live KaTeX/Mermaid preview from Claude, Cursor, or any MCP client. 18 tools across document editing, outline navigation, folder browsing, bookmarks, themes, and focus/wide view modes. Bridge open-source",
+  "source_repo": "juergenkoller-software/inkra-mcp",
+  "source_url": "https://github.com/juergenkoller-software/inkra-mcp",
+  "install": "npx -y inkra-mcp"
+}

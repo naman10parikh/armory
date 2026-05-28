@@ -1,0 +1,7 @@
+{
+  "name": "drqedwards-pmll-memory",
+  "description": "Persistent key-value context memory with Q-promise deduplication for AI agent tasks.",
+  "source_repo": "drqedwards/ppm",
+  "source_url": "https://github.com/drqedwards/ppm",
+  "install": "# git clone --depth 1 https://github.com/drqedwards/ppm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nuwa",
+  "description": "Experimental A2A server for Rooch Network",
+  "source_repo": "rooch-network/nuwa",
+  "source_url": "https://github.com/rooch-network/nuwa",
+  "install": "# git clone --depth 1 https://github.com/rooch-network/nuwa\n# See source for mcpServers config block"
+}

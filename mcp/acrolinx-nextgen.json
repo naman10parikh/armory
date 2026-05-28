@@ -1,0 +1,7 @@
+{
+  "name": "acrolinx-nextgen",
+  "description": "Integrates with Acrolinx's NextGen API to provide automated text rewriting, quality analysis, targeted editing suggestions, and workflow status checking with support for multiple style guides and configurable parameters for professional content improvement.",
+  "source_repo": "acrolinx/nextgen-mcp",
+  "source_url": "https://github.com/acrolinx/nextgen-mcp",
+  "install": "npx -y nextgen-mcp"
+}

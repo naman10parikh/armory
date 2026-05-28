@@ -1,0 +1,7 @@
+{
+  "name": "parallel-web-search",
+  "description": "Highest accuracy web search for AIs",
+  "source_repo": "",
+  "source_url": "https://parallel.ai",
+  "install": "# git clone --depth 1 https://parallel.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adeze-raindrop",
+  "description": "Integrates with Raindrop.io bookmarking service to provide direct access for managing collections, bookmarks, tags, highlights, and user data without leaving your conversation context.",
+  "source_repo": "adeze/raindrop-mcp",
+  "source_url": "https://github.com/adeze/raindrop-mcp",
+  "install": "npx -y raindrop-mcp"
+}

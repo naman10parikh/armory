@@ -1,0 +1,7 @@
+{
+  "name": "cloudbees-unify",
+  "description": "Integrates with CloudBees Unify's enterprise DevOps platform to provide unified access to CI/CD pipeline data, security scans, and delivery workflows across hybrid Jenkins, GitHub Actions, and multi-cloud environments.",
+  "source_repo": "",
+  "source_url": "https://www.cloudbees.com/blog/introducing-cloudbees-mcp-server",
+  "install": "# git clone --depth 1 https://www.cloudbees.com/blog/introducing-cloudbees-mcp-server\n# See source for mcpServers config block"
+}

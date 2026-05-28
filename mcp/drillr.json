@@ -1,0 +1,7 @@
+{
+  "name": "drillr",
+  "description": "Financial data MCP for AI agents: 90+ SQL tables, SEC filings, earnings transcripts, and alternative data.",
+  "source_repo": "little-grebe-inc/drillr-mcp-server",
+  "source_url": "https://github.com/little-grebe-inc/drillr-mcp-server",
+  "install": "npx -y drillr-mcp-server"
+}

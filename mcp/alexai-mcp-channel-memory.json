@@ -1,0 +1,7 @@
+{
+  "name": "alexai-mcp-channel-memory",
+  "description": "Stores Discord and Telegram channel messages locally for persistent memory across Claude Code sessions.",
+  "source_repo": "alexai-mcp/cc-channel-mem",
+  "source_url": "https://github.com/alexai-mcp/cc-channel-mem",
+  "install": "# git clone --depth 1 https://github.com/alexai-mcp/cc-channel-mem\n# See source for mcpServers config block"
+}

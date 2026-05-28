@@ -1,0 +1,7 @@
+{
+  "name": "duolaamengweb3-solana-alpha-tracker",
+  "description": "Monitor Solana blockchain trading activity from key opinion leaders and custom watchlists, with entry scoring, cluster detection, and real-time webhook alerts.",
+  "source_repo": "duolaamengweb3/solana-alpha-tracker",
+  "source_url": "https://github.com/duolaamengweb3/solana-alpha-tracker",
+  "install": "# git clone --depth 1 https://github.com/duolaamengweb3/solana-alpha-tracker\n# See source for mcpServers config block"
+}

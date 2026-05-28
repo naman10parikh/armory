@@ -1,0 +1,7 @@
+{
+  "name": "gh-ravibhanawat-sap-ai-agent",
+  "description": "Exposes 30 SAP ERP tools across FI/CO, MM, SD, HR, PP, and ABAP modules.",
+  "source_repo": "ravibhanawat/mcp-ai",
+  "source_url": "https://github.com/ravibhanawat/mcp-ai",
+  "install": "# git clone --depth 1 https://github.com/ravibhanawat/mcp-ai\n# See source for mcpServers config block"
+}

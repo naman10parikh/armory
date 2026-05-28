@@ -1,0 +1,7 @@
+{
+  "name": "hughkantsime-odin-print-farm",
+  "description": "Provides 3D print farm management tools including cost calculators, printer recommendations, and capacity planning.",
+  "source_repo": "hughkantsime/odin-mcp",
+  "source_url": "https://github.com/hughkantsime/odin-mcp",
+  "install": "npx -y odin-mcp"
+}

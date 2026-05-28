@@ -1,0 +1,7 @@
+{
+  "name": "zerubroberts-safetyculture",
+  "description": "Provides a bridge to the SafetyCulture API, enabling querying and analysis of workplace safety inspection data for managers and compliance teams to gain actionable insights across different time periods.",
+  "source_repo": "zerubroberts/safetyculture-mcp-server",
+  "source_url": "https://github.com/zerubroberts/safetyculture-mcp-server",
+  "install": "npx -y safetyculture-mcp-server"
+}

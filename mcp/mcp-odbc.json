@@ -1,0 +1,7 @@
+{
+  "name": "mcp-odbc",
+  "description": "Mcp Odbc MCP server listed on mcp.so.",
+  "source_repo": "tylerstoltz/mcp-odbc",
+  "source_url": "https://mcp.so/server/mcp-odbc/tylerstoltz",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-odbc/tylerstoltz\n# See source for mcpServers config block"
+}

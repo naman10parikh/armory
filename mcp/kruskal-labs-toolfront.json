@@ -1,0 +1,7 @@
+{
+  "name": "kruskal-labs-toolfront",
+  "description": "Provides unified access to multiple database types including PostgreSQL, MySQL, SQLite, DuckDB, BigQuery, and Snowflake with tools for schema inspection, data sampling, read-only querying, and intelligent pattern matching across tables.",
+  "source_repo": "statespace-tech/statespace",
+  "source_url": "https://github.com/statespace-tech/statespace",
+  "install": "# git clone --depth 1 https://github.com/statespace-tech/statespace\n# See source for mcpServers config block"
+}

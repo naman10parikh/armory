@@ -1,0 +1,7 @@
+{
+  "name": "google-calendar-mcp-2",
+  "description": "Google Calendar Mcp MCP server listed on mcp.so.",
+  "source_repo": "KhryptorGraphics/google-calendar-mcp",
+  "source_url": "https://mcp.so/server/google-calendar-mcp/KhryptorGraphics",
+  "install": "npx -y google-calendar-mcp"
+}

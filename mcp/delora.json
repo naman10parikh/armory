@@ -1,0 +1,7 @@
+{
+  "name": "delora",
+  "description": "Cross-chain swap quotes, token data, and chain information via the Delora Protocol API.",
+  "source_repo": "deloraprotocol/delora-mcp",
+  "source_url": "https://github.com/deloraprotocol/delora-mcp",
+  "install": "npx -y delora-mcp"
+}

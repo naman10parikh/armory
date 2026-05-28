@@ -1,0 +1,7 @@
+{
+  "name": "runbook-mcp-server",
+  "description": "Runbook Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "qloba/runbook-mcp-server",
+  "source_url": "https://mcp.so/server/runbook-mcp-server/qloba",
+  "install": "npx -y runbook-mcp-server"
+}

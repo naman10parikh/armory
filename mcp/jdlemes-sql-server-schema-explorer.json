@@ -1,0 +1,7 @@
+{
+  "name": "jdlemes-sql-server-schema-explorer",
+  "description": "Provides SQL Server database schema exploration tools for retrieving tables, columns, and relationships through connection strings configured in appsettings.json",
+  "source_repo": "jdlemes/mssqlmcp",
+  "source_url": "https://github.com/jdlemes/mssqlmcp",
+  "install": "# git clone --depth 1 https://github.com/jdlemes/mssqlmcp\n# See source for mcpServers config block"
+}

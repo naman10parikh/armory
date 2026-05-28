@@ -1,0 +1,7 @@
+{
+  "name": "ananddtyagi-gif-creator-mcp",
+  "description": "A MCP server for creating GIFs from your videos.",
+  "source_repo": "ananddtyagi/gif-creator-mcp",
+  "source_url": "https://github.com/ananddtyagi/gif-creator-mcp/tree/main",
+  "install": "npx -y gif-creator-mcp"
+}

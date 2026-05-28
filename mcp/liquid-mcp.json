@@ -1,0 +1,7 @@
+{
+  "name": "liquid-mcp",
+  "description": "Connect your agent to any HTTP API on the fly: Liquid discovers and maps any REST API once, then fetches typed data deterministically. Server-side search/aggregate, cross-API normalization, and structured recovery built in.",
+  "source_repo": "ertad-family/liquid",
+  "source_url": "https://github.com/ertad-family/liquid",
+  "install": "# git clone --depth 1 https://github.com/ertad-family/liquid\n# See source for mcpServers config block"
+}

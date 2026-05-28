@@ -1,0 +1,7 @@
+{
+  "name": "alibabacloud-hologres-mcp-server",
+  "description": "Alibabacloud Hologres Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aliyun/alibabacloud-hologres-mcp-server",
+  "source_url": "https://mcp.so/server/alibabacloud-hologres-mcp-server/aliyun",
+  "install": "npx -y alibabacloud-hologres-mcp-server"
+}

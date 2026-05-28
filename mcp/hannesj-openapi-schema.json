@@ -1,0 +1,7 @@
+{
+  "name": "hannesj-openapi-schema",
+  "description": "Transforms OpenAPI specifications into YAML-formatted tools for exploring API paths, operations, parameters, schemas, and security definitions, enabling seamless API documentation navigation and understanding.",
+  "source_repo": "hannesj/mcp-openapi-schema",
+  "source_url": "https://github.com/hannesj/mcp-openapi-schema",
+  "install": "# git clone --depth 1 https://github.com/hannesj/mcp-openapi-schema\n# See source for mcpServers config block"
+}

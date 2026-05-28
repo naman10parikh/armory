@@ -1,0 +1,7 @@
+{
+  "name": "npm-package-docs",
+  "description": "Fetches npm package documentation by retrieving README files from GitHub repositories or package tarballs with automatic fallback across multiple branch names and file formats.",
+  "source_repo": "meanands/npm-package-docs-mcp",
+  "source_url": "https://github.com/meanands/npm-package-docs-mcp",
+  "install": "npx -y npm-package-docs-mcp"
+}

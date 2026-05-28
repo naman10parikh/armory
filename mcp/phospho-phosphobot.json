@@ -1,0 +1,7 @@
+{
+  "name": "phospho-phosphobot",
+  "description": "Integrates with phosphobot automation service to replay recorded user interaction episodes from datasets, enabling testing scenarios and development workflows that require reproducible user behavior sequences.",
+  "source_repo": "phospho-app/phospho-mcp-server",
+  "source_url": "https://github.com/phospho-app/phospho-mcp-server",
+  "install": "npx -y phospho-mcp-server"
+}

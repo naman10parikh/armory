@@ -1,0 +1,7 @@
+{
+  "name": "abacus-mcp-server-2",
+  "description": "Enables AI-driven first-principles calculations for quantum chemistry and materials science using ABACUS, with tools for SCF, structure optimization, molecular dynamics, band structure, and intelligent parameter suggestions.",
+  "source_repo": "PhelanShao/abacus-mcp-server",
+  "source_url": "https://github.com/PhelanShao/abacus-mcp-server",
+  "install": "npx -y abacus-mcp-server"
+}

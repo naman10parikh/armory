@@ -1,0 +1,7 @@
+{
+  "name": "zettelforge",
+  "description": "ZettelForge is an agentic memory system for cyber threat intelligence that extracts CTI entities, resolves aliases, and builds a knowledge graph, serving past investigations to analysts and Claude Code via MCP.",
+  "source_repo": "rolandpg/zettelforge",
+  "source_url": "https://github.com/rolandpg/zettelforge",
+  "install": "# git clone --depth 1 https://github.com/rolandpg/zettelforge\n# See source for mcpServers config block"
+}

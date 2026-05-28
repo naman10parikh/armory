@@ -1,0 +1,7 @@
+{
+  "name": "lukaris-framedeck-mcp",
+  "description": "[Framedeck](https://framedeck.app) is a Kanban content production manager for YouTube, Instagram, TikTok and Podcast creators. 32 tools for managing productions, stages, frames (cards), checklists, comments, and labels. Ideas land in an Idea Pool and graduate into full productions with stages (Idea → Scripting → Filming → Editing → Published). All tools ship with MCP safety annotations. `npx framedeck-mcp`",
+  "source_repo": "Lukaris/framedeck-mcp",
+  "source_url": "https://github.com/Lukaris/framedeck-mcp",
+  "install": "npx -y framedeck-mcp"
+}

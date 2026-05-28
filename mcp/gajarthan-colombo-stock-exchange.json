@@ -1,0 +1,7 @@
+{
+  "name": "gajarthan-colombo-stock-exchange",
+  "description": "Access Colombo Stock Exchange market data including stock quotes, market snapshots, and index performance.",
+  "source_repo": "gajarthan/cse-mcp",
+  "source_url": "https://github.com/gajarthan/cse-mcp",
+  "install": "npx -y cse-mcp"
+}

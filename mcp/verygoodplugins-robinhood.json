@@ -1,0 +1,7 @@
+{
+  "name": "verygoodplugins-robinhood",
+  "description": "Read-only research tools for analyzing Robinhood portfolio data, holdings, and market fundamentals.",
+  "source_repo": "verygoodplugins/robinhood-mcp",
+  "source_url": "https://github.com/verygoodplugins/robinhood-mcp",
+  "install": "npx -y robinhood-mcp"
+}

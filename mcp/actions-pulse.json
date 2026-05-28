@@ -1,0 +1,7 @@
+{
+  "name": "actions-pulse",
+  "description": "Real-time GitHub Actions observability with DORA Metrics, Cost Analysis, and CI/CD Health dashboards.",
+  "source_repo": "tsviz/github-mcp-server-devops",
+  "source_url": "https://github.com/tsviz/github-mcp-server-devops",
+  "install": "# git clone --depth 1 https://github.com/tsviz/github-mcp-server-devops\n# See source for mcpServers config block"
+}

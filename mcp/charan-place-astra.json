@@ -1,0 +1,7 @@
+{
+  "name": "charan-place-astra",
+  "description": "MCP server that builds persistent code knowledge graphs using tree-sitter, vector embeddings, and PageRank for semantic code search.",
+  "source_repo": "charan-place/astra-mcp",
+  "source_url": "https://github.com/charan-place/astra-mcp",
+  "install": "npx -y astra-mcp"
+}

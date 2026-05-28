@@ -1,0 +1,7 @@
+{
+  "name": "smart-thinking",
+  "description": "Enables intelligent decision-making through semantic embeddings and thought graphs with built-in verification states and memory-based reasoning capabilities",
+  "source_repo": "leghis/smart-thinking",
+  "source_url": "https://github.com/leghis/smart-thinking",
+  "install": "# git clone --depth 1 https://github.com/leghis/smart-thinking\n# See source for mcpServers config block"
+}

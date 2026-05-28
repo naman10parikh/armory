@@ -1,0 +1,7 @@
+{
+  "name": "adamrtalbot-nextflow",
+  "description": "Streamlines Nextflow development by providing tools for building, testing, and executing pipelines directly from local repositories.",
+  "source_repo": "adamrtalbot/mcp-nextflow",
+  "source_url": "https://github.com/adamrtalbot/mcp-nextflow",
+  "install": "# git clone --depth 1 https://github.com/adamrtalbot/mcp-nextflow\n# See source for mcpServers config block"
+}

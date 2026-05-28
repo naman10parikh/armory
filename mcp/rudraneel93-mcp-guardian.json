@@ -1,0 +1,7 @@
+{
+  "name": "rudraneel93-mcp-guardian",
+  "description": "Provides security monitoring and governance for MCP server interactions.",
+  "source_repo": "rudraneel93/mcp-guardian",
+  "source_url": "https://github.com/rudraneel93/mcp-guardian",
+  "install": "# git clone --depth 1 https://github.com/rudraneel93/mcp-guardian\n# See source for mcpServers config block"
+}

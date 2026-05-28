@@ -1,0 +1,7 @@
+{
+  "name": "laptou-rust-docs",
+  "description": "Integrates with Rust documentation from docs.rs, enabling search for crates, retrieval of documentation, type information, feature flags, versions, and source code for Rust projects.",
+  "source_repo": "laptou/rust-docs-mcp-server",
+  "source_url": "https://github.com/laptou/rust-docs-mcp-server",
+  "install": "npx -y rust-docs-mcp-server"
+}

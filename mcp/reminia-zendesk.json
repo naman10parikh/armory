@@ -1,0 +1,7 @@
+{
+  "name": "reminia-zendesk",
+  "description": "Integrates with Zendesk to enable ticket management, comment handling, and Help Center article retrieval for streamlined customer support operations.",
+  "source_repo": "reminia/zendesk-mcp-server",
+  "source_url": "https://github.com/reminia/zendesk-mcp-server",
+  "install": "npx -y zendesk-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-ewanlimr25-unusual-whales",
+  "description": "Suite of 10 servers for analyzing stock and options data exported from Unusual Whales.",
+  "source_repo": "ewanlimr25/unusual-whales-mcp",
+  "source_url": "https://github.com/ewanlimr25/unusual-whales-mcp",
+  "install": "npx -y unusual-whales-mcp"
+}

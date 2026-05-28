@@ -1,0 +1,7 @@
+{
+  "name": "keynote",
+  "description": "Automates Keynote presentation creation and management through AppleScript integration, enabling slide manipulation, content insertion, image integration via Unsplash API, and export to various formats for streamlined presentation workflows.",
+  "source_repo": "easychen/keynote-mcp",
+  "source_url": "https://github.com/easychen/keynote-mcp",
+  "install": "npx -y keynote-mcp"
+}

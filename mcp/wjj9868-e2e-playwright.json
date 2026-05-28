@@ -1,0 +1,7 @@
+{
+  "name": "wjj9868-e2e-playwright",
+  "description": "Automates Playwright test generation and execution for web applications, providing project initialization, intelligent test script creation, and comprehensive reporting with screenshots and videos.",
+  "source_repo": "wjj9868/e2e-mcp-server",
+  "source_url": "https://github.com/wjj9868/e2e-mcp-server",
+  "install": "npx -y e2e-mcp-server"
+}

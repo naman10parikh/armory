@@ -1,0 +1,7 @@
+{
+  "name": "dkpoulsen-flutter-tools",
+  "description": "Integrates with the Flutter SDK to analyze and fix Dart/Flutter files, enabling automated code analysis and improvement suggestions for Flutter development.",
+  "source_repo": "dkpoulsen/flutter-tools",
+  "source_url": "https://github.com/dkpoulsen/flutter-tools",
+  "install": "# git clone --depth 1 https://github.com/dkpoulsen/flutter-tools\n# See source for mcpServers config block"
+}

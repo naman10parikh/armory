@@ -1,0 +1,7 @@
+{
+  "name": "tyrchen-postgres",
+  "description": "Enables secure SQL operations on PostgreSQL databases through a validated API that supports connection management, data operations, and schema manipulation.",
+  "source_repo": "tyrchen/postgres-mcp",
+  "source_url": "https://github.com/tyrchen/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

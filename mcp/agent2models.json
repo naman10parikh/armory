@@ -1,0 +1,7 @@
+{
+  "name": "agent2models",
+  "description": "Access to multiple AI models within a single request",
+  "source_repo": "",
+  "source_url": "https://ai-mcp.app",
+  "install": "# git clone --depth 1 https://ai-mcp.app\n# See source for mcpServers config block"
+}

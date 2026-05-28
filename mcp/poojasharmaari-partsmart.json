@@ -1,0 +1,7 @@
+{
+  "name": "poojasharmaari-partsmart",
+  "description": "Automates PartSmart industrial parts web application using Playwright browser automation.",
+  "source_repo": "poojasharmaari/mcp-partsmart-tools",
+  "source_url": "https://github.com/poojasharmaari/mcp-partsmart-tools",
+  "install": "# git clone --depth 1 https://github.com/poojasharmaari/mcp-partsmart-tools\n# See source for mcpServers config block"
+}

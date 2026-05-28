@@ -1,0 +1,7 @@
+{
+  "name": "im47cn-feishu-project",
+  "description": "Integrates with Feishu project management platform to automate requirement analysis, bug tracking, and task management through TypeScript and Express-based tools for development teams.",
+  "source_repo": "im47cn/feishu-project-mcp",
+  "source_url": "https://github.com/im47cn/feishu-project-mcp",
+  "install": "npx -y feishu-project-mcp"
+}

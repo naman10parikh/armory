@@ -1,0 +1,7 @@
+{
+  "name": "saurabhsing21-depmap",
+  "description": "Provides read-only access to DepMap gene dependency data for searching gene symbols, computing dependency metrics, and identifying top cell-line dependencies.",
+  "source_repo": "saurabhsing21/deepmap-mcp",
+  "source_url": "https://github.com/saurabhsing21/deepmap-mcp",
+  "install": "npx -y deepmap-mcp"
+}

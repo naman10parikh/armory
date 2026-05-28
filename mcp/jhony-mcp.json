@@ -1,0 +1,7 @@
+{
+  "name": "jhony-mcp",
+  "description": "Jhony Mcp MCP server listed on mcp.so.",
+  "source_repo": "joao-loker/jhony-mcp",
+  "source_url": "https://mcp.so/server/jhony-mcp/joao-loker",
+  "install": "npx -y jhony-mcp"
+}

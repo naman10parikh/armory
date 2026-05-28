@@ -1,0 +1,7 @@
+{
+  "name": "kiss-gg-database-operations",
+  "description": "Provides secure SQL execution capabilities across multiple database types with connection pooling, safety checking, audit logging, and write confirmation previews.",
+  "source_repo": "kiss-gg/db_mcp_server",
+  "source_url": "https://github.com/kiss-gg/db_mcp_server",
+  "install": "npx -y db_mcp_server"
+}

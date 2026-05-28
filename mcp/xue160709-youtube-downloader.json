@@ -1,0 +1,7 @@
+{
+  "name": "xue160709-youtube-downloader",
+  "description": "Bridges AI systems with YouTube content through yt-dlp, enabling video information extraction and downloading capabilities for content analysis and media processing.",
+  "source_repo": "xue160709/yt-mcp-server",
+  "source_url": "https://github.com/xue160709/yt-mcp-server",
+  "install": "npx -y yt-mcp-server"
+}

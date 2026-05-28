@@ -1,0 +1,7 @@
+{
+  "name": "rotexhawk-puppeteer",
+  "description": "Enables browser automation within Home Assistant through Puppeteer, providing web navigation, element interaction, screenshot capture, and JavaScript execution capabilities in a containerized environment.",
+  "source_repo": "rotexhawk/mcp-puppeteer-server",
+  "source_url": "https://github.com/rotexhawk/mcp-puppeteer-server",
+  "install": "# git clone --depth 1 https://github.com/rotexhawk/mcp-puppeteer-server\n# See source for mcpServers config block"
+}

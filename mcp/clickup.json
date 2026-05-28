@@ -1,0 +1,7 @@
+{
+  "name": "clickup",
+  "description": "Integrates with ClickUp workspaces to enable task management, project reporting, time tracking, and collaborative workflows through OAuth 2.1 authentication and natural language interactions.",
+  "source_repo": "",
+  "source_url": "https://developer.clickup.com/docs/connect-an-ai-assistant-to-clickups-mcp-server",
+  "install": "# git clone --depth 1 https://developer.clickup.com/docs/connect-an-ai-assistant-to-clickups-mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "air-pollution",
+  "description": "Air Pollution MCP server listed on mcp.so.",
+  "source_repo": "Ashwani00001/Air-Pollution",
+  "source_url": "https://mcp.so/server/Air-Pollution/Ashwani00001",
+  "install": "# git clone --depth 1 https://mcp.so/server/Air-Pollution/Ashwani00001\n# See source for mcpServers config block"
+}

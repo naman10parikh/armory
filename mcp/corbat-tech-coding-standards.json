@@ -1,0 +1,7 @@
+{
+  "name": "corbat-tech-coding-standards",
+  "description": "Enforce production-grade coding standards with DDD, SOLID, and TDD guardrails.",
+  "source_repo": "corbat-tech/coding-standards-mcp",
+  "source_url": "https://github.com/corbat-tech/coding-standards-mcp",
+  "install": "npx -y coding-standards-mcp"
+}

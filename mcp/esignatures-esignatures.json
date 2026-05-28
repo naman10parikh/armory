@@ -1,0 +1,7 @@
+{
+  "name": "esignatures-esignatures",
+  "description": "Integrates with the eSignatures.com API to simplify contract and document management, enabling creation, querying, and handling of digital contracts and signatures.",
+  "source_repo": "esignaturescom/mcp-server-esignatures",
+  "source_url": "https://github.com/esignaturescom/mcp-server-esignatures",
+  "install": "# git clone --depth 1 https://github.com/esignaturescom/mcp-server-esignatures\n# See source for mcpServers config block"
+}

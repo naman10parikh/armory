@@ -1,0 +1,7 @@
+{
+  "name": "ezrabrilliant-staruml",
+  "description": "Generates UML diagrams in a running StarUML application via AI agents using stdio or HTTP.",
+  "source_repo": "ezrabrilliant/staruml-mcp",
+  "source_url": "https://github.com/ezrabrilliant/staruml-mcp",
+  "install": "npx -y staruml-mcp"
+}

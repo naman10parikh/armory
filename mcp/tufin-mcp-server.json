@@ -1,0 +1,7 @@
+{
+  "name": "tufin-mcp-server",
+  "description": "Bridges Tufin SecureTrack and SecureChange APIs with AI development workflows, providing a secure REST API with RBAC for ticketing, device management, and topology queries.",
+  "source_repo": "stonecircle82/tufin-mcp",
+  "source_url": "https://github.com/stonecircle82/tufin-mcp",
+  "install": "npx -y tufin-mcp"
+}

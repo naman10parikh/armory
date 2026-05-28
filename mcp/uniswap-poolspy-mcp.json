@@ -1,0 +1,7 @@
+{
+  "name": "uniswap-poolspy-mcp",
+  "description": "Uniswap Poolspy Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/uniswap-poolspy-mcp",
+  "source_url": "https://mcp.so/server/uniswap-poolspy-mcp/kukapay",
+  "install": "npx -y uniswap-poolspy-mcp"
+}

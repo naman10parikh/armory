@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-eips",
+  "description": "Provides semantic search across Ethereum Improvement Proposals using vector embeddings and LanceDB to retrieve relevant EIP documentation chunks for understanding protocol changes, smart contract standards, and blockchain development patterns.",
+  "source_repo": "kukapay/eips-mcp",
+  "source_url": "https://github.com/kukapay/eips-mcp",
+  "install": "npx -y eips-mcp"
+}

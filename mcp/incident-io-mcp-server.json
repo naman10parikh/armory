@@ -1,0 +1,7 @@
+{
+  "name": "incident-io-mcp-server",
+  "description": "Enables interaction with Incident.io to manage incidents, severities, and health checks via natural language. Provides endpoints for getting and creating incidents.",
+  "source_repo": "stuartphilp/incident-io-mcp-server",
+  "source_url": "https://github.com/stuartphilp/incident-io-mcp-server",
+  "install": "npx -y incident-io-mcp-server"
+}

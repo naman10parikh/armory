@@ -1,0 +1,7 @@
+{
+  "name": "local-brain-mcp",
+  "description": "A local MCP server for AI assistants to store and retrieve personal memories on disk, with optional semantic search using embeddings.",
+  "source_repo": "ejsinfuego/memory-mcp",
+  "source_url": "https://github.com/ejsinfuego/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

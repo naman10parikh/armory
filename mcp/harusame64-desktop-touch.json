@@ -1,0 +1,7 @@
+{
+  "name": "harusame64-desktop-touch",
+  "description": "Windows desktop automation MCP server — screenshots, mouse/keyboard, Windows UI Automation, Chrome DevTools Protocol, and workflow batching across 57 tools.",
+  "source_repo": "harusame64/desktop-touch-mcp",
+  "source_url": "https://github.com/harusame64/desktop-touch-mcp",
+  "install": "npx -y desktop-touch-mcp"
+}

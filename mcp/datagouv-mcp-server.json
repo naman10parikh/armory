@@ -1,0 +1,7 @@
+{
+  "name": "datagouv-mcp-server",
+  "description": "Datagouv Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "csonigo/datagouv-mcp-server",
+  "source_url": "https://mcp.so/server/datagouv-mcp-server/csonigo",
+  "install": "npx -y datagouv-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-starrocks",
+  "description": "Mcp Server Starrocks MCP server listed on mcp.so.",
+  "source_repo": "StarRocks/mcp-server-starrocks",
+  "source_url": "https://mcp.so/server/mcp-server-starrocks/StarRocks",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-starrocks/StarRocks\n# See source for mcpServers config block"
+}

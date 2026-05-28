@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-release-readiness-triage",
+  "description": "Aggregates CI failures and outputs GO/NO_GO release verdicts for AI agents.",
+  "source_repo": "vola-trebla/release-readiness-triage-mcp",
+  "source_url": "https://github.com/vola-trebla/release-readiness-triage-mcp",
+  "install": "npx -y release-readiness-triage-mcp"
+}

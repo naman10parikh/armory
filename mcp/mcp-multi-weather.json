@@ -1,0 +1,7 @@
+{
+  "name": "mcp-multi-weather",
+  "description": "MCP server for checking historical weather data for cities using OpenWeather API. Exposes a get_historical_weather tool.",
+  "source_repo": "igalarzab/mcp-multi-weather",
+  "source_url": "https://github.com/igalarzab/mcp-multi-weather",
+  "install": "# git clone --depth 1 https://github.com/igalarzab/mcp-multi-weather\n# See source for mcpServers config block"
+}

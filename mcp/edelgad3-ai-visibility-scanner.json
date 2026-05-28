@@ -1,0 +1,7 @@
+{
+  "name": "edelgad3-ai-visibility-scanner",
+  "description": "Scans websites for AI visibility and marketing health with an interactive dashboard.",
+  "source_repo": "edelgad3/ai-visibility-scanner",
+  "source_url": "https://github.com/edelgad3/ai-visibility-scanner",
+  "install": "# git clone --depth 1 https://github.com/edelgad3/ai-visibility-scanner\n# See source for mcpServers config block"
+}

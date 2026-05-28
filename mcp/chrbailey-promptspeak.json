@@ -1,0 +1,7 @@
+{
+  "name": "chrbailey-promptspeak",
+  "description": "Pre-execution governance for AI agents with 9-stage validation, drift detection, human approval queues, and circuit breakers.",
+  "source_repo": "chrbailey/promptspeak-mcp-server",
+  "source_url": "https://github.com/chrbailey/promptspeak-mcp-server",
+  "install": "npx -y promptspeak-mcp-server"
+}

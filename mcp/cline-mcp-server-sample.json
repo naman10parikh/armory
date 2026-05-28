@@ -1,0 +1,7 @@
+{
+  "name": "cline-mcp-server-sample",
+  "description": "Cline Mcp Server Sample MCP server listed on mcp.so.",
+  "source_repo": "hymnk/cline-mcp-server-sample",
+  "source_url": "https://mcp.so/server/cline-mcp-server-sample/hymnk",
+  "install": "# git clone --depth 1 https://mcp.so/server/cline-mcp-server-sample/hymnk\n# See source for mcpServers config block"
+}

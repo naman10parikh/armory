@@ -1,0 +1,7 @@
+{
+  "name": "lexandro-win-taskman",
+  "description": "Provides Windows process listing, killing, and TCP port lookup through native Win32 APIs for AI-assisted system administration.",
+  "source_repo": "lexandro/win-taskman-mcp",
+  "source_url": "https://github.com/lexandro/win-taskman-mcp",
+  "install": "npx -y win-taskman-mcp"
+}

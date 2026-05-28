@@ -1,0 +1,7 @@
+{
+  "name": "prince",
+  "description": "Convert Markdown, HTML, and web pages to high-quality PDF with Prince.",
+  "source_repo": "",
+  "source_url": "https://prince.cloud/mcp",
+  "install": "# git clone --depth 1 https://prince.cloud/mcp\n# See source for mcpServers config block"
+}

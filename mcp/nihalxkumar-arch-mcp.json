@@ -1,0 +1,7 @@
+{
+  "name": "nihalxkumar-arch-mcp",
+  "description": "Arch Linux MCP Server to the Arch Linux ecosystem of the Arch Wiki, AUR, and official repositories for AI-assisted Arch Linux usage on Arch and non-Arch systems. Features include searching Arch Wiki and AUR, getting package info, checking for updates, installing packages securely, and analyzing PKGBUILDs.",
+  "source_repo": "nihalxkumar/arch-mcp",
+  "source_url": "https://github.com/nihalxkumar/arch-mcp",
+  "install": "npx -y arch-mcp"
+}

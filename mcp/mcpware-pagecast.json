@@ -1,0 +1,7 @@
+{
+  "name": "mcpware-pagecast",
+  "description": "Records browser sessions as GIFs, WebM, and MP4 videos for demos and documentation.",
+  "source_repo": "mcpware/pagecast",
+  "source_url": "https://github.com/mcpware/pagecast",
+  "install": "# git clone --depth 1 https://github.com/mcpware/pagecast\n# See source for mcpServers config block"
+}

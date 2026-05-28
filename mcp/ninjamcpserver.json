@@ -1,0 +1,7 @@
+{
+  "name": "ninjamcpserver",
+  "description": "NinjaMCPServer MCP server listed on mcp.so.",
+  "source_repo": "jasondsmith72/NinjaMCPServer",
+  "source_url": "https://mcp.so/server/NinjaMCPServer/jasondsmith72",
+  "install": "# git clone --depth 1 https://mcp.so/server/NinjaMCPServer/jasondsmith72\n# See source for mcpServers config block"
+}

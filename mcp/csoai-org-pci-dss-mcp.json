@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-pci-dss-mcp",
+  "description": "Python MCP server for PCI DSS compliance guidance and payment security analysis.",
+  "source_repo": "csoai-org/pci-dss-mcp",
+  "source_url": "https://github.com/csoai-org/pci-dss-mcp",
+  "install": "npx -y pci-dss-mcp"
+}

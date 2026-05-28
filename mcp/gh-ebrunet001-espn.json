@@ -1,0 +1,7 @@
+{
+  "name": "gh-ebrunet001-espn",
+  "description": "Real-time ESPN sports data for AI assistants covering 25+ leagues.",
+  "source_repo": "ebrunet001/mcp-server-espn",
+  "source_url": "https://github.com/ebrunet001/mcp-server-espn",
+  "install": "# git clone --depth 1 https://github.com/ebrunet001/mcp-server-espn\n# See source for mcpServers config block"
+}

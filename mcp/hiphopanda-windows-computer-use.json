@@ -1,0 +1,7 @@
+{
+  "name": "hiphopanda-windows-computer-use",
+  "description": "Control Windows desktop via MCP — mouse, keyboard, screenshots, clipboard, and application management.",
+  "source_repo": "hiphopanda/windows-computer-use-mcp",
+  "source_url": "https://github.com/hiphopanda/windows-computer-use-mcp",
+  "install": "npx -y windows-computer-use-mcp"
+}

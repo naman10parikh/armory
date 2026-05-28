@@ -1,0 +1,7 @@
+{
+  "name": "shortlist-jobs",
+  "description": "Automates job searching, application form filling, and submission across major applicant tracking systems.",
+  "source_repo": "mls-tech-inc/shortlistjobs-mcp",
+  "source_url": "https://github.com/mls-tech-inc/shortlistjobs-mcp",
+  "install": "npx -y shortlistjobs-mcp"
+}

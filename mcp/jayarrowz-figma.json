@@ -1,0 +1,7 @@
+{
+  "name": "jayarrowz-figma",
+  "description": "Integrates with Figma's API to enable viewing, manipulating, and collaborating on design files through comprehensive access to file operations, comments, components, and team resources.",
+  "source_repo": "thirdstrandstudio/mcp-figma",
+  "source_url": "https://github.com/thirdstrandstudio/mcp-figma",
+  "install": "# git clone --depth 1 https://github.com/thirdstrandstudio/mcp-figma\n# See source for mcpServers config block"
+}

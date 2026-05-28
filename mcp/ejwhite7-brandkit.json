@@ -1,0 +1,7 @@
+{
+  "name": "ejwhite7-brandkit",
+  "description": "Expose your company design system—colors, typography, logos, and tokens—to AI coding tools.",
+  "source_repo": "ejwhite7/brandkit-mcp",
+  "source_url": "https://github.com/ejwhite7/brandkit-mcp",
+  "install": "npx -y brandkit-mcp"
+}

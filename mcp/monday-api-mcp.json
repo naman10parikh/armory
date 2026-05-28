@@ -1,0 +1,7 @@
+{
+  "name": "monday-api-mcp",
+  "description": "Enable AI agents to operate reliably within real workflows. This MCP is monday.com's open framework for connecting agents into your work OS - giving them secure access to structured data, tools to take action, and the context needed to make smart decisions.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/productivity/monday.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/productivity/monday.json\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adexltd-google-workspace",
+  "description": "Integrates with Google Workspace to enable document creation, search, and management across Drive, Docs, and Sheets using OAuth authentication and multiple transport modes",
+  "source_repo": "adexltd/mcp-google-suite",
+  "source_url": "https://github.com/adexltd/mcp-google-suite",
+  "install": "# git clone --depth 1 https://github.com/adexltd/mcp-google-suite\n# See source for mcpServers config block"
+}

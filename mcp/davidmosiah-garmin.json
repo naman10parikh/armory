@@ -1,0 +1,7 @@
+{
+  "name": "davidmosiah-garmin",
+  "description": "Privacy-first MCP server for Garmin Connect health, sleep, recovery and activities.",
+  "source_repo": "davidmosiah/garminmcp",
+  "source_url": "https://github.com/davidmosiah/garminmcp",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/garminmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eat-pray-ai-youtube-data-api",
+  "description": "Integrates with YouTube Data API v3 to provide complete video management, channel operations, playlist control, analytics access, live streaming management, and content moderation capabilities for creators and social media managers.",
+  "source_repo": "eat-pray-ai/yutu",
+  "source_url": "https://github.com/eat-pray-ai/yutu",
+  "install": "# git clone --depth 1 https://github.com/eat-pray-ai/yutu\n# See source for mcpServers config block"
+}

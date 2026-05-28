@@ -1,0 +1,7 @@
+{
+  "name": "miaofalianhua-resx",
+  "description": "Integrates with .NET resource files to provide localization and string management tools for internationalization tasks and multi-language application development.",
+  "source_repo": "miaofalianhua/resxmcp",
+  "source_url": "https://github.com/miaofalianhua/resxmcp",
+  "install": "# git clone --depth 1 https://github.com/miaofalianhua/resxmcp\n# See source for mcpServers config block"
+}

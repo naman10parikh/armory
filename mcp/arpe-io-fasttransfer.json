@@ -1,0 +1,7 @@
+{
+  "name": "arpe-io-fasttransfer",
+  "description": "High-performance parallel data transfer between heterogeneous database systems with safety-first command preview.",
+  "source_repo": "arpe-io/fasttransfer-mcp",
+  "source_url": "https://github.com/arpe-io/fasttransfer-mcp",
+  "install": "npx -y fasttransfer-mcp"
+}

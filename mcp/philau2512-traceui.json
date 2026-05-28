@@ -1,0 +1,7 @@
+{
+  "name": "philau2512-traceui",
+  "description": "Statically analyze React and Next.js components to extract state, hooks, effects, API calls, and cross-file dependencies without running the app.",
+  "source_repo": "philau2512/traceui-mcp",
+  "source_url": "https://github.com/philau2512/traceui-mcp",
+  "install": "npx -y traceui-mcp"
+}

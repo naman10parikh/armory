@@ -1,0 +1,7 @@
+{
+  "name": "dumpling-ai",
+  "description": "Provides a bridge to Dumpling AI's data extraction API for performing web searches, scraping content, extracting structured data, and processing various document formats through 20+ specialized tools.",
+  "source_repo": "dumplingai/mcp-server-dumplingai",
+  "source_url": "https://github.com/dumplingai/mcp-server-dumplingai",
+  "install": "# git clone --depth 1 https://github.com/dumplingai/mcp-server-dumplingai\n# See source for mcpServers config block"
+}

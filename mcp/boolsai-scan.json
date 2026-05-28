@@ -1,0 +1,7 @@
+{
+  "name": "boolsai-scan",
+  "description": "Live tech-stack scan of any public site: vendors, account IDs, tracking scripts, and JSON-LD data.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/boolsai-scan",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/boolsai-scan\n# See source for mcpServers config block"
+}

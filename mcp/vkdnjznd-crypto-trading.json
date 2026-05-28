@@ -1,0 +1,7 @@
+{
+  "name": "vkdnjznd-crypto-trading",
+  "description": "Provides a bridge to multiple cryptocurrency exchanges (Upbit, Gate.io, and Binance) for spot trading operations, market data retrieval, and portfolio management across different platforms.",
+  "source_repo": "vkdnjznd/crypto-trading-mcp",
+  "source_url": "https://github.com/vkdnjznd/crypto-trading-mcp",
+  "install": "npx -y crypto-trading-mcp"
+}

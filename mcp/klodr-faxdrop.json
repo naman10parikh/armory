@@ -1,0 +1,7 @@
+{
+  "name": "klodr-faxdrop",
+  "description": "MCP server for sending faxes via the FaxDrop API with support for PDF, DOCX, and image formats.",
+  "source_repo": "klodr/faxdrop-mcp",
+  "source_url": "https://github.com/klodr/faxdrop-mcp",
+  "install": "npx -y faxdrop-mcp"
+}

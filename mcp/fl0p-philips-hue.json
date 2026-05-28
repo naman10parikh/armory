@@ -1,0 +1,7 @@
+{
+  "name": "fl0p-philips-hue",
+  "description": "Provides direct control over Philips Hue smart lighting systems through automatic bridge discovery and API key management, enabling brightness, color, and on/off state control for individual lights, zones, and rooms.",
+  "source_repo": "fl0p/huemcp",
+  "source_url": "https://github.com/fl0p/huemcp",
+  "install": "# git clone --depth 1 https://github.com/fl0p/huemcp\n# See source for mcpServers config block"
+}

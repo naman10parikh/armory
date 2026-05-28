@@ -1,0 +1,7 @@
+{
+  "name": "profitelligence",
+  "description": "Financial intelligence: insider trades, SEC filings, 13F holdings, and market signals.",
+  "source_repo": "profitelligence/profitelligence-mcp-server",
+  "source_url": "https://github.com/profitelligence/profitelligence-mcp-server",
+  "install": "npx -y profitelligence-mcp-server"
+}

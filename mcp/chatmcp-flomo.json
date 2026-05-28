@@ -1,0 +1,7 @@
+{
+  "name": "chatmcp-flomo",
+  "description": "Enables direct note-taking in Flomo by capturing Markdown content from conversations and posting it to your knowledge base via webhook integration",
+  "source_repo": "chatmcp/flomo-mcp",
+  "source_url": "https://github.com/chatmcp/flomo-mcp",
+  "install": "npx -y flomo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fortytwoservices-keycloak",
+  "description": "Provides full administrative control over Keycloak identity management including realms, users, groups, roles, clients, and audit events.",
+  "source_repo": "fortytwoservices/keycloak-mcp",
+  "source_url": "https://github.com/fortytwoservices/keycloak-mcp",
+  "install": "npx -y keycloak-mcp"
+}

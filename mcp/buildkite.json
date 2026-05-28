@@ -1,0 +1,7 @@
+{
+  "name": "buildkite",
+  "description": "Integrates with Buildkite's CI/CD platform, enabling access to pipeline details, build information, job logs, artifacts, and user data for monitoring workflows and troubleshooting builds.",
+  "source_repo": "buildkite/buildkite-mcp-server",
+  "source_url": "https://github.com/buildkite/buildkite-mcp-server",
+  "install": "npx -y buildkite-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-lulzasaur9192-agent-infra",
+  "description": "Agent infrastructure toolkit providing persistent memory, drift detection, and trust receipt management for AI agents.",
+  "source_repo": "lulzasaur9192/agent-infra-mcp",
+  "source_url": "https://github.com/lulzasaur9192/agent-infra-mcp",
+  "install": "npx -y agent-infra-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dairus01-interswitch",
+  "description": "Access Interswitch financial APIs for payments, transfers, and lending operations.",
+  "source_repo": "dairus01/interswitch-mcp-server",
+  "source_url": "https://github.com/dairus01/interswitch-mcp-server",
+  "install": "npx -y interswitch-mcp-server"
+}

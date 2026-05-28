@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wynncraft",
+  "description": "Enables querying Wynncraft MMORPG data including player stats, guilds, leaderboards, and item database lookups.",
+  "source_repo": "pipeworx-io/mcp-wynncraft",
+  "source_url": "https://github.com/pipeworx-io/mcp-wynncraft",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-wynncraft\n# See source for mcpServers config block"
+}

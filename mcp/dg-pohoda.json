@@ -1,0 +1,7 @@
+{
+  "name": "dg-pohoda",
+  "description": "Reads and parses Pohoda accounting software XML export files.",
+  "source_repo": "dg/pohoda-mcp",
+  "source_url": "https://github.com/dg/pohoda-mcp",
+  "install": "npx -y pohoda-mcp"
+}

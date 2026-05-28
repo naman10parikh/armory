@@ -1,0 +1,7 @@
+{
+  "name": "deepl-translator",
+  "description": "Integrates with DeepL to provide high-quality text translation and rephrasing between numerous languages with formality controls for supported language pairs.",
+  "source_repo": "deeplcom/deepl-mcp-server",
+  "source_url": "https://github.com/deeplcom/deepl-mcp-server",
+  "install": "npx -y deepl-mcp-server"
+}

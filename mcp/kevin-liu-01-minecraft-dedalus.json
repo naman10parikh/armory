@@ -1,0 +1,7 @@
+{
+  "name": "kevin-liu-01-minecraft-dedalus",
+  "description": "LAN-oriented Minecraft bot control stack with 60+ tools for movement, mining, building, crafting, combat, planning, persistent memory, skill libraries, and autonomous survival mode via a Python server and Mineflayer bridge.",
+  "source_repo": "kevin-liu-01/minecraft-agent",
+  "source_url": "https://github.com/kevin-liu-01/minecraft-agent",
+  "install": "# git clone --depth 1 https://github.com/kevin-liu-01/minecraft-agent\n# See source for mcpServers config block"
+}

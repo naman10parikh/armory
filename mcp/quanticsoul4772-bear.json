@@ -1,0 +1,7 @@
+{
+  "name": "quanticsoul4772-bear",
+  "description": "Connects to Bear's local SQLite database to provide read-only access for searching notes by text or tags, retrieving complete note content, browsing available tags, and listing tagged notes for knowledge base exploration and research workflows.",
+  "source_repo": "quanticsoul4772/bear-mcp",
+  "source_url": "https://github.com/quanticsoul4772/bear-mcp",
+  "install": "npx -y bear-mcp"
+}

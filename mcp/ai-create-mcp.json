@@ -1,0 +1,7 @@
+{
+  "name": "ai-create-mcp",
+  "description": "Ai Create Mcp MCP server listed on mcp.so.",
+  "source_repo": "xxlv/ai-create-mcp",
+  "source_url": "https://mcp.so/server/ai-create-mcp/xxlv",
+  "install": "npx -y ai-create-mcp"
+}

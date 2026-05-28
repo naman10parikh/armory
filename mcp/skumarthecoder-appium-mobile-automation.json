@@ -1,0 +1,7 @@
+{
+  "name": "skumarthecoder-appium-mobile-automation",
+  "description": "Enables mobile app automation through Appium integration, controlling Android and iOS devices with natural language commands for tapping, typing, screenshots, and navigation.",
+  "source_repo": "skumarthecoder/mcp-appium-server",
+  "source_url": "https://github.com/skumarthecoder/mcp-appium-server",
+  "install": "# git clone --depth 1 https://github.com/skumarthecoder/mcp-appium-server\n# See source for mcpServers config block"
+}

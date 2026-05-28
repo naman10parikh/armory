@@ -1,0 +1,7 @@
+{
+  "name": "auto-browse-unbundle-openapi",
+  "description": "Splits and extracts portions of OpenAPI specification files into smaller, more focused files while preserving referenced components for improved documentation and maintainability.",
+  "source_repo": "auto-browse/unbundle_openapi_mcp",
+  "source_url": "https://github.com/auto-browse/unbundle_openapi_mcp",
+  "install": "npx -y unbundle_openapi_mcp"
+}

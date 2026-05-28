@@ -1,0 +1,7 @@
+{
+  "name": "shakram02-mysql-readonly",
+  "description": "Provides secure read-only MySQL database access with strict query validation that blocks all write operations and dangerous functions while allowing SELECT, SHOW, DESCRIBE, and EXPLAIN statements for safe data exploration and analysis.",
+  "source_repo": "shakram02/go-readonly-mcp-sql-db",
+  "source_url": "https://github.com/shakram02/go-readonly-mcp-sql-db",
+  "install": "# git clone --depth 1 https://github.com/shakram02/go-readonly-mcp-sql-db\n# See source for mcpServers config block"
+}

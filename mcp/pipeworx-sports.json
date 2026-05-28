@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-sports",
+  "description": "Sports data via MCP — teams, players, standings, and match results from free public APIs.",
+  "source_repo": "pipeworx-io/mcp-sports",
+  "source_url": "https://github.com/pipeworx-io/mcp-sports",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-sports\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dragonkhoi-ramp",
+  "description": "Integrates with Ramp's API to enable credit card transaction querying and spend management data access for financial tracking and analysis workflows.",
+  "source_repo": "dragonkhoi/ramp-mcp",
+  "source_url": "https://github.com/dragonkhoi/ramp-mcp",
+  "install": "npx -y ramp-mcp"
+}

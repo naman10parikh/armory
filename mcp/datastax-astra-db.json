@@ -1,0 +1,7 @@
+{
+  "name": "datastax-astra-db",
+  "description": "Integrates with Astra DB, enabling cloud-native database operations for scalable data storage and retrieval in AI applications.",
+  "source_repo": "datastax/astra-db-mcp",
+  "source_url": "https://github.com/datastax/astra-db-mcp",
+  "install": "npx -y astra-db-mcp"
+}

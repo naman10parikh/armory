@@ -1,0 +1,7 @@
+{
+  "name": "bernerspace-slack",
+  "description": "Integrates with Slack workspaces through OAuth 2.0 authentication and JWT-based client identification to provide messaging, channel management, file operations, user administration, and team management capabilities across multiple organizations with persistent token storage.",
+  "source_repo": "bernerspace/bernerspace",
+  "source_url": "https://github.com/bernerspace/bernerspace",
+  "install": "# git clone --depth 1 https://github.com/bernerspace/bernerspace\n# See source for mcpServers config block"
+}

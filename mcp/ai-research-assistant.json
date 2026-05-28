@@ -1,0 +1,7 @@
+{
+  "name": "ai-research-assistant",
+  "description": "The server provides immediate access to millions of academic papers through Semantic Scholar and arXiv, enabling AI-powered research with comprehensive search, citation analysis, and full-text PDF extraction from multiple sources (arXiv and Wiley open-access). - No API key is required.",
+  "source_repo": "",
+  "source_url": "http://lit-review-assistant.streamlit.app",
+  "install": "# git clone --depth 1 http://lit-review-assistant.streamlit.app\n# See source for mcpServers config block"
+}

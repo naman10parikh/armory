@@ -1,0 +1,7 @@
+{
+  "name": "mcpc-tech-code-runner",
+  "description": "Executes Python and JavaScript/TypeScript code snippets in isolated environments, enabling developers to test, prototype, and demonstrate programming concepts directly within conversations.",
+  "source_repo": "mcpc-tech/mcpc",
+  "source_url": "https://github.com/mcpc-tech/mcpc/tree/HEAD/packages/code-runner-mcp",
+  "install": "# git clone --depth 1 https://github.com/mcpc-tech/mcpc/tree/HEAD/packages/code-runner-mcp\n# See source for mcpServers config block"
+}

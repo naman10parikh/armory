@@ -1,0 +1,7 @@
+{
+  "name": "daft-ie",
+  "description": "Scrapes Irish rental property data from Daft.ie with advanced filtering for location, price, bedrooms, and property type, extracting detailed information including coordinates and BER ratings for property research and market analysis.",
+  "source_repo": "amineremache/dafty-mcp",
+  "source_url": "https://github.com/amineremache/dafty-mcp",
+  "install": "npx -y dafty-mcp"
+}

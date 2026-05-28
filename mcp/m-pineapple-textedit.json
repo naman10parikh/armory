@@ -1,0 +1,7 @@
+{
+  "name": "m-pineapple-textedit",
+  "description": "Integrates with macOS TextEdit to enable rich text document creation, editing, and formatting operations through RTF manipulation without manual TextEdit interaction.",
+  "source_repo": "m-pineapple/textedit-mcp",
+  "source_url": "https://github.com/m-pineapple/textedit-mcp",
+  "install": "npx -y textedit-mcp"
+}

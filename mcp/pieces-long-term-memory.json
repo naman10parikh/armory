@@ -1,0 +1,7 @@
+{
+  "name": "pieces-long-term-memory",
+  "description": "Add long-term memory to your favorite AI tools",
+  "source_repo": "",
+  "source_url": "https://pieces.app/blog/introducing-the-pieces-mcp-server",
+  "install": "# git clone --depth 1 https://pieces.app/blog/introducing-the-pieces-mcp-server\n# See source for mcpServers config block"
+}

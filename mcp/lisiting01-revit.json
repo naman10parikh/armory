@@ -1,0 +1,7 @@
+{
+  "name": "lisiting01-revit",
+  "description": "Enables AI interaction with Autodesk Revit models through a Node.js server that provides tools for creating, modifying, and deleting BIM objects in architectural design workflows.",
+  "source_repo": "mcp-servers-for-revit/revit-mcp",
+  "source_url": "https://github.com/mcp-servers-for-revit/revit-mcp",
+  "install": "npx -y revit-mcp"
+}

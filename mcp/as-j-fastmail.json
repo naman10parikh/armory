@@ -1,0 +1,7 @@
+{
+  "name": "as-j-fastmail",
+  "description": "Accesses Fastmail email, contacts, and calendar data through the JMAP protocol.",
+  "source_repo": "as-j/fastmail-mcp",
+  "source_url": "https://github.com/as-j/fastmail-mcp",
+  "install": "npx -y fastmail-mcp"
+}

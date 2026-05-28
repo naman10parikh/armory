@@ -1,0 +1,7 @@
+{
+  "name": "apillon-mcp-server",
+  "description": "Enables AI models to manage decentralized storage, hosting, and NFTs via Apillon's API.",
+  "source_repo": "Apillon/mcp-server",
+  "source_url": "https://github.com/Apillon/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Apillon/mcp-server\n# See source for mcpServers config block"
+}

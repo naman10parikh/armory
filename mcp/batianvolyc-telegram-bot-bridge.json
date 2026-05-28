@@ -1,0 +1,7 @@
+{
+  "name": "batianvolyc-telegram-bot-bridge",
+  "description": "Bridges Telegram messaging with remote coding sessions, enabling mobile access to development environments through bot commands while maintaining persistent session state and file-based communication across multiple concurrent projects.",
+  "source_repo": "archetyx/telegram-mcp-server",
+  "source_url": "https://github.com/archetyx/telegram-mcp-server",
+  "install": "npx -y telegram-mcp-server"
+}

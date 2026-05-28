@@ -1,0 +1,7 @@
+{
+  "name": "hatayama-unity-ai-cli-bridge",
+  "description": "Go-based CLI bridge exposing Unity Editor's built-in MCP tools through stdio, enabling AI agents to perform scene manipulation, compilation, testing, and asset management.",
+  "source_repo": "hatayama/unity-ai-cli-bridge",
+  "source_url": "https://github.com/hatayama/unity-ai-cli-bridge",
+  "install": "# git clone --depth 1 https://github.com/hatayama/unity-ai-cli-bridge\n# See source for mcpServers config block"
+}

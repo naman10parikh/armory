@@ -1,0 +1,7 @@
+{
+  "name": "fcp-sheets",
+  "description": "MCP server for semantic spreadsheet operations that lets LLMs create and edit Excel workbooks by describing spreadsheet intent.",
+  "source_repo": "os-tack/fcp-sheets",
+  "source_url": "https://github.com/os-tack/fcp-sheets",
+  "install": "# git clone --depth 1 https://github.com/os-tack/fcp-sheets\n# See source for mcpServers config block"
+}

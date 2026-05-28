@@ -1,0 +1,7 @@
+{
+  "name": "elieworkspace-rocketchat",
+  "description": "Integrates with RocketChat instances to enable team communication through channel management, message sending and retrieval, user information access, and automated notifications for collaborative workflows.",
+  "source_repo": "elieworkspace/rocketchat-mcp",
+  "source_url": "https://github.com/elieworkspace/rocketchat-mcp",
+  "install": "npx -y rocketchat-mcp"
+}

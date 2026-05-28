@@ -1,0 +1,7 @@
+{
+  "name": "louis030195-gptzero-mcp",
+  "description": "AI detection for text content with GPTZero API. Detect AI-generated text, get confidence scores, multilingual support (French/Spanish), and detailed probability breakdowns.",
+  "source_repo": "louis030195/gptzero-mcp",
+  "source_url": "https://github.com/louis030195/gptzero-mcp",
+  "install": "npx -y gptzero-mcp"
+}

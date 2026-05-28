@@ -1,0 +1,7 @@
+{
+  "name": "sh20raj-resend",
+  "description": "Integrates with Resend API for sending single and batch emails, managing domain verification, creating API keys with specific permissions, and handling contact audiences for email marketing workflows.",
+  "source_repo": "sh20raj/resend-mcp",
+  "source_url": "https://github.com/sh20raj/resend-mcp",
+  "install": "npx -y resend-mcp"
+}

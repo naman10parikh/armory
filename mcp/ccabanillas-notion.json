@@ -1,0 +1,7 @@
+{
+  "name": "ccabanillas-notion",
+  "description": "Integrates Notion's API, enabling workflows to interact with Notion databases and pages for dynamic content management and retrieval.",
+  "source_repo": "ccabanillas/notion-mcp",
+  "source_url": "https://github.com/ccabanillas/notion-mcp",
+  "install": "npx -y notion-mcp"
+}

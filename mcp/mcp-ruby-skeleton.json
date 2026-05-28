@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ruby-skeleton",
+  "description": "Mcp Ruby Skeleton MCP server listed on mcp.so.",
+  "source_repo": "bash0C7/mcp-ruby-skeleton",
+  "source_url": "https://mcp.so/server/mcp-ruby-skeleton/bash0C7",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-ruby-skeleton/bash0C7\n# See source for mcpServers config block"
+}

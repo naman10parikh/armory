@@ -1,0 +1,7 @@
+{
+  "name": "pia-mcp-server",
+  "description": "Enables AI to search and retrieve detailed information from U.S. government datasets, including GAO reports, oversight recommendations, congressional bills, and more, with OData filtering and faceted search.",
+  "source_repo": "Program-Integrity-Alliance/pia-mcp-local",
+  "source_url": "https://github.com/Program-Integrity-Alliance/pia-mcp-local",
+  "install": "# git clone --depth 1 https://github.com/Program-Integrity-Alliance/pia-mcp-local\n# See source for mcpServers config block"
+}

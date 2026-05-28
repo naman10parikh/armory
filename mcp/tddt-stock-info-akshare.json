@@ -1,0 +1,7 @@
+{
+  "name": "tddt-stock-info-akshare",
+  "description": "Provides real-time financial market data from Chinese and global markets through AKShare API integration for traders and financial analysts",
+  "source_repo": "tddt/stock_info_mcp",
+  "source_url": "https://github.com/tddt/stock_info_mcp",
+  "install": "npx -y stock_info_mcp"
+}

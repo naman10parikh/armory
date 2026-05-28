@@ -1,0 +1,7 @@
+{
+  "name": "gattjoe-acms",
+  "description": "Provides programmatic access to Apple's container CLI tool on macOS with 50+ container operations across 9 functional categories, supporting both local and remote HTTP/S access.",
+  "source_repo": "gattjoe/acms",
+  "source_url": "https://github.com/gattjoe/acms",
+  "install": "# git clone --depth 1 https://github.com/gattjoe/acms\n# See source for mcpServers config block"
+}

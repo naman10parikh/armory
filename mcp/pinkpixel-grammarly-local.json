@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-grammarly-local",
+  "description": "Checks text for AI-generated content and plagiarism using local Grammarly browser automation.",
+  "source_repo": "pinkpixel/grammarly-local-mcp",
+  "source_url": "https://github.com/pinkpixel/grammarly-local-mcp",
+  "install": "npx -y grammarly-local-mcp"
+}

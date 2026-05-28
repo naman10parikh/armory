@@ -1,0 +1,7 @@
+{
+  "name": "keboola",
+  "description": "An open-source bridge between your Keboola project and modern AI tools. It turns Keboola features - like storage access, SQL transformations, and job triggers - into callable tools for Claude, Cursor, CrewAI, LangChain, Amazon Q, and more.",
+  "source_repo": "keboola/mcp-server",
+  "source_url": "https://github.com/keboola/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/keboola/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "malkreide-swisstopo",
+  "description": "Access to Swiss Federal Office of Topography APIs for geodata, geocoding, and elevation queries.",
+  "source_repo": "malkreide/swisstopo-mcp",
+  "source_url": "https://github.com/malkreide/swisstopo-mcp",
+  "install": "npx -y swisstopo-mcp"
+}

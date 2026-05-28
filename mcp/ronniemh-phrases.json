@@ -1,0 +1,7 @@
+{
+  "name": "ronniemh-phrases",
+  "description": "Provides a simple API for managing phrases and their authors with operations for creating, retrieving, updating, and deleting quote-like content with proper attribution.",
+  "source_repo": "ronniemh/phrases-mcp-server",
+  "source_url": "https://github.com/ronniemh/phrases-mcp-server",
+  "install": "npx -y phrases-mcp-server"
+}

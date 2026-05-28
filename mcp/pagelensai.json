@@ -1,0 +1,7 @@
+{
+  "name": "pagelensai",
+  "description": "AI website audit for security, SEO, performance, UX, and accessibility with actionable fixes.",
+  "source_repo": "pagelens-ai/pagelensai-mcp-server",
+  "source_url": "https://github.com/pagelens-ai/pagelensai-mcp-server",
+  "install": "npx -y pagelensai-mcp-server"
+}

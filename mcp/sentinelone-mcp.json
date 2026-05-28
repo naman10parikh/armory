@@ -1,0 +1,7 @@
+{
+  "name": "sentinelone-mcp",
+  "description": "Multitenant Streamable HTTP wrapper for SentinelOne's purple-mcp. Enables MSPs to expose SentinelOne threat detection and response capabilities to AI assistants across multiple tenants.",
+  "source_repo": "wyre-technology/sentinelone-mcp",
+  "source_url": "https://github.com/wyre-technology/sentinelone-mcp",
+  "install": "npx -y sentinelone-mcp"
+}

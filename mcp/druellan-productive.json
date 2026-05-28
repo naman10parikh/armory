@@ -1,0 +1,7 @@
+{
+  "name": "druellan-productive",
+  "description": "Integrates with Productive.io project management platform to access projects, tasks, pages, and teams",
+  "source_repo": "druellan/productive-simple-mcp",
+  "source_url": "https://github.com/druellan/productive-simple-mcp",
+  "install": "npx -y productive-simple-mcp"
+}

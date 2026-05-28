@@ -1,0 +1,7 @@
+{
+  "name": "product-source",
+  "description": "Real-time product data across 450+ retailers. Query any UPC for prices, images, and margin data.",
+  "source_repo": "skutrue/productsource-mcp",
+  "source_url": "https://github.com/skutrue/productsource-mcp",
+  "install": "npx -y productsource-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shtse8-pdf-reader",
+  "description": "Securely extracts text, metadata, and page information from PDF files within a project directory using pdfjs-dist for both local files and remote URLs.",
+  "source_repo": "sylphxai/pdf-reader-mcp",
+  "source_url": "https://github.com/sylphxai/pdf-reader-mcp",
+  "install": "npx -y pdf-reader-mcp"
+}

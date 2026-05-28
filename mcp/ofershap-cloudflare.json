@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-cloudflare",
+  "description": "Manage Cloudflare Workers, KV, R2, Pages, DNS records, and cache purging from your IDE.",
+  "source_repo": "ofershap/mcp-server-cloudflare",
+  "source_url": "https://github.com/ofershap/mcp-server-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-cloudflare\n# See source for mcpServers config block"
+}

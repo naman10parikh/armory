@@ -1,0 +1,7 @@
+{
+  "name": "gbg-loqate-reach",
+  "description": "Verify addresses, email addresses, and phone numbers with confidence scores via GBG's Loqate Reach API.",
+  "source_repo": "gbgplc/lqt",
+  "source_url": "https://github.com/gbgplc/lqt",
+  "install": "# git clone --depth 1 https://github.com/gbgplc/lqt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "testkube",
+  "description": "Kubernetes-native continuous testing platform providing test orchestration, execution, and analysis",
+  "source_repo": "kubeshop/testkube",
+  "source_url": "https://github.com/kubeshop/testkube",
+  "install": "# git clone --depth 1 https://github.com/kubeshop/testkube\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bromoket-x64dbg",
+  "description": "AI-powered reverse engineering and debugging interface for the x64dbg debugger with breakpoints, memory analysis, and tracing.",
+  "source_repo": "bromoket/x64dbg_mcp",
+  "source_url": "https://github.com/bromoket/x64dbg_mcp",
+  "install": "npx -y x64dbg_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mailpace",
+  "description": "Provides a bridge to MailPace's transactional email API for sending HTML/text emails with attachments, custom headers, and CC/BCC recipients using domain API token authentication",
+  "source_repo": "mailpace/mailpace-mcp",
+  "source_url": "https://github.com/mailpace/mailpace-mcp",
+  "install": "npx -y mailpace-mcp"
+}

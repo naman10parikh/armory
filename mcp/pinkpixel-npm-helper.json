@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-npm-helper",
+  "description": "Provides specialized tools for searching npm packages, fetching documentation, checking outdated dependencies, and safely upgrading Node.js packages with version constraint management",
+  "source_repo": "pinkpixel-dev/npm-helper-mcp",
+  "source_url": "https://github.com/pinkpixel-dev/npm-helper-mcp",
+  "install": "npx -y npm-helper-mcp"
+}

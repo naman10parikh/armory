@@ -1,0 +1,7 @@
+{
+  "name": "oeradio",
+  "description": "Amateur radio tools with band plans, EIRP calculations, cable loss, antenna gains, and Austrian callsign lookup.",
+  "source_repo": "achildrenmile/oeradio-mcp",
+  "source_url": "https://github.com/achildrenmile/oeradio-mcp",
+  "install": "npx -y oeradio-mcp"
+}

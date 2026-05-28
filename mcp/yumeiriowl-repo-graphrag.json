@@ -1,0 +1,7 @@
+{
+  "name": "yumeiriowl-repo-graphrag",
+  "description": "Uses LightRAG and Tree-sitter to build a repository knowledge graph from code and docs, for Q&A and implementation planning.",
+  "source_repo": "yumeiriowl/repo-graphrag-mcp",
+  "source_url": "https://github.com/yumeiriowl/repo-graphrag-mcp",
+  "install": "npx -y repo-graphrag-mcp"
+}

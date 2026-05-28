@@ -1,0 +1,7 @@
+{
+  "name": "leixinsun-joplin",
+  "description": "Provides dual integration with Joplin note-taking app through Claude Code skills and a TypeScript MCP server for managing notes, notebooks, tags, and resources.",
+  "source_repo": "leixinsun/joplin-skills-mcp",
+  "source_url": "https://github.com/leixinsun/joplin-skills-mcp",
+  "install": "npx -y joplin-skills-mcp"
+}

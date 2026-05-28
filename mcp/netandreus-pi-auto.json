@@ -1,0 +1,7 @@
+{
+  "name": "netandreus-pi-auto",
+  "description": "Provides usage-aware model switching and load-balancing across coding agent backends like Claude Code, OpenAI Codex, and CursorAI.",
+  "source_repo": "netandreus/pi-auto",
+  "source_url": "https://github.com/netandreus/pi-auto",
+  "install": "# git clone --depth 1 https://github.com/netandreus/pi-auto\n# See source for mcpServers config block"
+}

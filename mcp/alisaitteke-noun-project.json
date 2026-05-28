@@ -1,0 +1,7 @@
+{
+  "name": "alisaitteke-noun-project",
+  "description": "Search and download icons from The Noun Project directly in AI assistants",
+  "source_repo": "alisaitteke/noun-mcp",
+  "source_url": "https://github.com/alisaitteke/noun-mcp",
+  "install": "npx -y noun-mcp"
+}

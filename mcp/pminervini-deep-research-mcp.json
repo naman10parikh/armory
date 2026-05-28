@@ -1,0 +1,7 @@
+{
+  "name": "pminervini-deep-research-mcp",
+  "description": "Deep research MCP server for OpenAI Responses API or Open Deep Research (smolagents), with web search and code interpreter support.",
+  "source_repo": "pminervini/deep-research-mcp",
+  "source_url": "https://github.com/pminervini/deep-research-mcp",
+  "install": "npx -y deep-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zengliwei-php-pdo-database",
+  "description": "PHP-based MCP server for Windows database operations through PDO.",
+  "source_repo": "zengliwei/php-mcp",
+  "source_url": "https://github.com/zengliwei/php-mcp",
+  "install": "npx -y php-mcp"
+}

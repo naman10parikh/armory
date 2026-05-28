@@ -1,0 +1,7 @@
+{
+  "name": "translator-pro-ai",
+  "description": "Translates text, detects languages, and compares translations across multiple languages using a built-in phrase dictionary.",
+  "source_repo": "CSOAI-ORG/translator-pro-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/translator-pro-ai-mcp",
+  "install": "npx -y translator-pro-ai-mcp"
+}

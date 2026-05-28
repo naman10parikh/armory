@@ -1,0 +1,7 @@
+{
+  "name": "dion-hagan-spinnaker",
+  "description": "Integrates with Spinnaker to enable AI-driven management of deployments, pipelines, and applications for enhanced CI/CD automation and orchestration.",
+  "source_repo": "dion-hagan/mcp-server-spinnaker",
+  "source_url": "https://github.com/dion-hagan/mcp-server-spinnaker",
+  "install": "# git clone --depth 1 https://github.com/dion-hagan/mcp-server-spinnaker\n# See source for mcpServers config block"
+}

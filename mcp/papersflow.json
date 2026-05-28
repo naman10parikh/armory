@@ -1,0 +1,7 @@
+{
+  "name": "papersflow",
+  "description": "Academic research platform for literature search, citation verification, related-paper discovery, and citation graph exploration.",
+  "source_repo": "papersflow-ai/papersflow-mcp",
+  "source_url": "https://github.com/papersflow-ai/papersflow-mcp",
+  "install": "npx -y papersflow-mcp"
+}

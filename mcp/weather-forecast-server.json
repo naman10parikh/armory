@@ -1,0 +1,7 @@
+{
+  "name": "weather-forecast-server",
+  "description": "Provides current weather and multi-day forecasts for any location worldwide, integrable with MCP clients like Claude.",
+  "source_repo": "shibing624/weather-forecast-server",
+  "source_url": "https://github.com/shibing624/weather-forecast-server",
+  "install": "# git clone --depth 1 https://github.com/shibing624/weather-forecast-server\n# See source for mcpServers config block"
+}

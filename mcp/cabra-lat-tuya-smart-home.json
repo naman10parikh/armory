@@ -1,0 +1,7 @@
+{
+  "name": "cabra-lat-tuya-smart-home",
+  "description": "Integrates with Tuya smart home devices using tinytuya, enabling control and monitoring for home automation scenarios like voice commands and energy optimization.",
+  "source_repo": "cabra-lat/tuyactl",
+  "source_url": "https://github.com/cabra-lat/tuyactl",
+  "install": "# git clone --depth 1 https://github.com/cabra-lat/tuyactl\n# See source for mcpServers config block"
+}

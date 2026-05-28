@@ -1,0 +1,7 @@
+{
+  "name": "antigravity-mcp-bridge",
+  "description": "A TypeScript-based MCP server template for the Antigravity agentic environment, providing system status and SQLite database tools via stdio transport.",
+  "source_repo": "Flexcrit/Antigravity-MCP-Bridge",
+  "source_url": "https://github.com/Flexcrit/Antigravity-MCP-Bridge",
+  "install": "# git clone --depth 1 https://github.com/Flexcrit/Antigravity-MCP-Bridge\n# See source for mcpServers config block"
+}

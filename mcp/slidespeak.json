@@ -1,0 +1,7 @@
+{
+  "name": "slidespeak",
+  "description": "Generate presentations using the SlideSpeak API.",
+  "source_repo": "slidespeak/slidespeak-mcp",
+  "source_url": "https://github.com/slidespeak/slidespeak-mcp",
+  "install": "npx -y slidespeak-mcp"
+}

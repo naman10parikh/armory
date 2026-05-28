@@ -1,0 +1,7 @@
+{
+  "name": "openai-websearch-mcp-server",
+  "description": "OpenAI WebSearch MCP Server MCP server listed on mcp.so.",
+  "source_repo": "bitibi/OpenAI-WebSearch-MCP-Server",
+  "source_url": "https://mcp.so/server/OpenAI-WebSearch-MCP-Server/bitibi",
+  "install": "npx -y OpenAI-WebSearch-MCP-Server"
+}

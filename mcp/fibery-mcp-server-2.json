@@ -1,0 +1,7 @@
+{
+  "name": "fibery-mcp-server-2",
+  "description": "Fibery Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Fibery.io/fibery-mcp-server",
+  "source_url": "https://mcp.so/server/fibery-mcp-server/Fibery.io",
+  "install": "npx -y fibery-mcp-server"
+}

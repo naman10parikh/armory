@@ -1,0 +1,7 @@
+{
+  "name": "neonia-cloud-os",
+  "description": "Agent infrastructure platform with zero-bloat data processing and auto-discovery of capabilities.",
+  "source_repo": "neonia-io/agent-mcp-examples",
+  "source_url": "https://github.com/neonia-io/agent-mcp-examples",
+  "install": "# git clone --depth 1 https://github.com/neonia-io/agent-mcp-examples\n# See source for mcpServers config block"
+}

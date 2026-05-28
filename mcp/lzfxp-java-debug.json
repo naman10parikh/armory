@@ -1,0 +1,7 @@
+{
+  "name": "lzfxp-java-debug",
+  "description": "Enables AI agents to debug Java applications via JVM with breakpoints, variable monitoring, stepping, and thread inspection.",
+  "source_repo": "lzfxp/java-debug-mcp-server",
+  "source_url": "https://github.com/lzfxp/java-debug-mcp-server",
+  "install": "npx -y java-debug-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "softjapan-ollama",
+  "description": "Connects AI assistants to locally-hosted Ollama models with specialized servers for retrieving time and weather information through a lightweight, modular architecture.",
+  "source_repo": "softjapan/ollama-mcp-agent",
+  "source_url": "https://github.com/softjapan/ollama-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/softjapan/ollama-mcp-agent\n# See source for mcpServers config block"
+}

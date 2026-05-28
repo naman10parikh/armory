@@ -1,0 +1,7 @@
+{
+  "name": "kazuph-gmail-gas",
+  "description": "Integrates Gmail functionality, enabling email search, message retrieval, and attachment downloads via Google Apps Script.",
+  "source_repo": "kazuph/mcp-gmail-gas",
+  "source_url": "https://github.com/kazuph/mcp-gmail-gas",
+  "install": "# git clone --depth 1 https://github.com/kazuph/mcp-gmail-gas\n# See source for mcpServers config block"
+}

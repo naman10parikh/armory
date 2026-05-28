@@ -1,0 +1,7 @@
+{
+  "name": "czlonkowski-n8n",
+  "description": "Integrates with n8n workflow automation platform to provide conversational access to 525+ nodes including AI-capable nodes and triggers, enabling natural language workflow creation, validation, and management without requiring direct platform knowledge.",
+  "source_repo": "czlonkowski/n8n-mcp",
+  "source_url": "https://github.com/czlonkowski/n8n-mcp",
+  "install": "npx -y n8n-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amirsina-mandegari-gitlab",
+  "description": "Integrates with GitLab's API to provide merge request management, code review workflows, and branch-based development operations through tools for listing, retrieving detailed information, accessing discussions, and finding associated merge requests.",
+  "source_repo": "amirsina-mandegari/gitlab-mr-mcp",
+  "source_url": "https://github.com/amirsina-mandegari/gitlab-mr-mcp",
+  "install": "npx -y gitlab-mr-mcp"
+}

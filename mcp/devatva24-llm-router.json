@@ -1,0 +1,7 @@
+{
+  "name": "devatva24-llm-router",
+  "description": "Routes prompts across Claude, Gemini, and GPT-4o based on task type to minimize token cost.",
+  "source_repo": "devatva24/llm-router-mcp",
+  "source_url": "https://github.com/devatva24/llm-router-mcp",
+  "install": "npx -y llm-router-mcp"
+}

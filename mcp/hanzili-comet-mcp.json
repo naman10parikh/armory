@@ -1,0 +1,7 @@
+{
+  "name": "hanzili-comet-mcp",
+  "description": "Connect to Perplexity Comet browser for agentic web browsing, deep research, and real-time task monitoring.",
+  "source_repo": "hanzili/comet-mcp",
+  "source_url": "https://github.com/hanzili/comet-mcp",
+  "install": "npx -y comet-mcp"
+}

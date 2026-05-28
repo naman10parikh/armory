@@ -1,0 +1,7 @@
+{
+  "name": "pokemon-data",
+  "description": "Provides a bridge to Pokémon data, enabling interaction with comprehensive information about species, abilities, moves, and game mechanics through TypeScript and Node.js.",
+  "source_repo": "naveenbandarage/poke-mcp",
+  "source_url": "https://github.com/naveenbandarage/poke-mcp",
+  "install": "npx -y poke-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tweet-search",
+  "description": "Search Twitter using advanced operators to find relevant tweets, media, and links. Filter by users, hashtags, dates, sentiment, and more, then paginate through results to explore deeper. Discover timely conversations and gather insights fast.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/janwilmake/x-search-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/janwilmake/x-search-mcp\n# See source for mcpServers config block"
+}

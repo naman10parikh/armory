@@ -1,0 +1,7 @@
+{
+  "name": "thrownlemon-medical-apis",
+  "description": "Integrates with FDA drug databases, WHO health indicators, RxNorm classifications, PubMed research, Google Scholar, and Australia's PBS to provide drug information lookup, health data queries, academic research retrieval, and pharmaceutical pricing analysis for medical research and clinical decision support.",
+  "source_repo": "thrownlemon/medical-mcp",
+  "source_url": "https://github.com/thrownlemon/medical-mcp",
+  "install": "npx -y medical-mcp"
+}

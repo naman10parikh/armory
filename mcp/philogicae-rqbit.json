@@ -1,0 +1,7 @@
+{
+  "name": "philogicae-rqbit",
+  "description": "Integrates with the rqbit BitTorrent client to enable torrent management operations including adding torrents via magnet links, monitoring download progress, and controlling torrent lifecycle with pause, start, delete, and forget commands.",
+  "source_repo": "philogicae/rqbit-mcp",
+  "source_url": "https://github.com/philogicae/rqbit-mcp",
+  "install": "npx -y rqbit-mcp"
+}

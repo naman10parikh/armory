@@ -1,0 +1,7 @@
+{
+  "name": "bypawel-tachibot",
+  "description": "Multi-model orchestration running OpenAI, Google, Anthropic, xAI, Perplexity, and OpenRouter in parallel for cross-validation",
+  "source_repo": "bypawel/tachibot-mcp",
+  "source_url": "https://github.com/bypawel/tachibot-mcp",
+  "install": "npx -y tachibot-mcp"
+}

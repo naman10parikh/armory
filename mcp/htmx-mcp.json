@@ -1,0 +1,7 @@
+{
+  "name": "htmx-mcp",
+  "description": "Chrome DevTools-based server for debugging and interacting with HTMX-powered web applications.",
+  "source_repo": "madeonawave/htmx-mcp",
+  "source_url": "https://github.com/madeonawave/htmx-mcp",
+  "install": "npx -y htmx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taiki200504-voiceos-calendar-slots",
+  "description": "Calculates available calendar time slots, factoring in travel time between meetings and location data.",
+  "source_repo": "taiki200504/voiceos-google-calendar-slots-mcp",
+  "source_url": "https://github.com/taiki200504/voiceos-google-calendar-slots-mcp",
+  "install": "npx -y voiceos-google-calendar-slots-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gannonh-firebase",
+  "description": "Enables Firebase Authentication, Firestore, and Storage operations for developers building applications that require seamless backend service integration.",
+  "source_repo": "gannonh/firebase-mcp",
+  "source_url": "https://github.com/gannonh/firebase-mcp",
+  "install": "npx -y firebase-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pixelcheck",
+  "description": "Visual inspection and web interaction for AI agents: audit pages, extract data, and judge UI correctness.",
+  "source_repo": "xcodethink/pixelcheck",
+  "source_url": "https://github.com/xcodethink/pixelcheck",
+  "install": "# git clone --depth 1 https://github.com/xcodethink/pixelcheck\n# See source for mcpServers config block"
+}

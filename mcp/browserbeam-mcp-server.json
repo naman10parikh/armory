@@ -1,0 +1,7 @@
+{
+  "name": "browserbeam-mcp-server",
+  "description": "Enables real browser automation as tools in Cursor, Claude Desktop, Windsurf, and any MCP-compatible client, allowing AI agents to interact with web pages through natural language.",
+  "source_repo": "nyku/browserbeam-mcp",
+  "source_url": "https://github.com/nyku/browserbeam-mcp",
+  "install": "npx -y browserbeam-mcp"
+}

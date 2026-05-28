@@ -1,0 +1,7 @@
+{
+  "name": "elagerway-magpipe",
+  "description": "Manage voice agents, calls, SMS, contacts, and phone numbers via Magpipe.",
+  "source_repo": "elagerway/magpipe",
+  "source_url": "https://github.com/elagerway/magpipe",
+  "install": "# git clone --depth 1 https://github.com/elagerway/magpipe\n# See source for mcpServers config block"
+}

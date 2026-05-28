@@ -1,0 +1,7 @@
+{
+  "name": "matthewdcage-cursor-installer",
+  "description": "Streamlines MCP server installation and configuration within Cursor IDE, automatically handling environment setup and creating necessary configuration entries in mcp.json.",
+  "source_repo": "matthewdcage/cursor-mcp-installer",
+  "source_url": "https://github.com/matthewdcage/cursor-mcp-installer",
+  "install": "# git clone --depth 1 https://github.com/matthewdcage/cursor-mcp-installer\n# See source for mcpServers config block"
+}

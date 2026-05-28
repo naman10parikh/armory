@@ -1,0 +1,7 @@
+{
+  "name": "esh2n-nexus-data-processor",
+  "description": "Integrates data processing libraries and external services to facilitate complex data operations, transformations, and API interactions across multiple formats and sources.",
+  "source_repo": "esh2n/mcp-servers",
+  "source_url": "https://github.com/esh2n/mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/esh2n/mcp-servers\n# See source for mcpServers config block"
+}

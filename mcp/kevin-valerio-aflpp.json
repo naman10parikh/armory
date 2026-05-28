@@ -1,0 +1,7 @@
+{
+  "name": "kevin-valerio-aflpp",
+  "description": "Integrates with AFL++ fuzzing framework for automated security testing through workspace management, instrumented binary compilation, corpus management, fuzzing campaign orchestration, and crash analysis.",
+  "source_repo": "kevin-valerio/aflpp-mcp",
+  "source_url": "https://github.com/kevin-valerio/aflpp-mcp",
+  "install": "npx -y aflpp-mcp"
+}

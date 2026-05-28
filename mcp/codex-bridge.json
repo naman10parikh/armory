@@ -1,0 +1,7 @@
+{
+  "name": "codex-bridge",
+  "description": "MCP server that lets Claude Code ask GPT Codex for adversarial planning, code review, debugging, research, and risk triage without leaving your project workflow.",
+  "source_repo": "ndcorder/claude-codex-team",
+  "source_url": "https://github.com/ndcorder/claude-codex-team",
+  "install": "# git clone --depth 1 https://github.com/ndcorder/claude-codex-team\n# See source for mcpServers config block"
+}

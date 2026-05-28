@@ -1,0 +1,7 @@
+{
+  "name": "investigation-game",
+  "description": "Mystery investigation game with LLM-driven suspects.",
+  "source_repo": "",
+  "source_url": "https://investigation-game.skybridge.tech",
+  "install": "# git clone --depth 1 https://investigation-game.skybridge.tech\n# See source for mcpServers config block"
+}

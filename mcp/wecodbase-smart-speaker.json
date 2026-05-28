@@ -1,0 +1,7 @@
+{
+  "name": "wecodbase-smart-speaker",
+  "description": "Controls Google Home and Amazon Alexa speakers through AI assistants with music playback and volume control.",
+  "source_repo": "wecodebase/smart-speaker-mcp",
+  "source_url": "https://github.com/wecodebase/smart-speaker-mcp",
+  "install": "npx -y smart-speaker-mcp"
+}

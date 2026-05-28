@@ -1,0 +1,7 @@
+{
+  "name": "qpd-v-guide",
+  "description": "Interactive tutorial and tools for understanding, implementing, and exploring MCP concepts and capabilities.",
+  "source_repo": "qpd-v/mcp-guide",
+  "source_url": "https://github.com/qpd-v/mcp-guide",
+  "install": "# git clone --depth 1 https://github.com/qpd-v/mcp-guide\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "firstorderai-authenticator",
+  "description": "Provides secure access to two-factor authentication codes and passwords stored in the Authenticator App, enabling seamless login assistance across multiple services without manual code entry.",
+  "source_repo": "firstorderai/authenticator_mcp",
+  "source_url": "https://github.com/firstorderai/authenticator_mcp",
+  "install": "npx -y authenticator_mcp"
+}

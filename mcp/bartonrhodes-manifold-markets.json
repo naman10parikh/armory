@@ -1,0 +1,7 @@
+{
+  "name": "bartonrhodes-manifold-markets",
+  "description": "Integrates with Manifold Markets prediction markets, enabling market search, analysis, betting, and portfolio management with precise limit orders and advanced filtering.",
+  "source_repo": "bmorphism/manifold-mcp-server",
+  "source_url": "https://github.com/bmorphism/manifold-mcp-server",
+  "install": "npx -y manifold-mcp-server"
+}

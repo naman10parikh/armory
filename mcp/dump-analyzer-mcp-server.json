@@ -1,0 +1,7 @@
+{
+  "name": "dump-analyzer-mcp-server",
+  "description": "MCP server for remote Windows Crash Dump analysis. Enables AI agents to analyze crash dumps via CDB commands through standard MCP interfaces.",
+  "source_repo": "zuohuiyang/dump-analyzer-mcp-server",
+  "source_url": "https://github.com/zuohuiyang/dump-analyzer-mcp-server",
+  "install": "npx -y dump-analyzer-mcp-server"
+}

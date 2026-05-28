@@ -1,0 +1,7 @@
+{
+  "name": "ian747-tw-antigravity-jupyter",
+  "description": "Enables AI agents in Antigravity to read, edit, execute, and orchestrate Jupyter notebooks with cell management, kernel control, and tag-based pipeline execution.",
+  "source_repo": "ian747-tw/antigravity-jupiter-notebook-mcp",
+  "source_url": "https://github.com/ian747-tw/antigravity-jupiter-notebook-mcp",
+  "install": "npx -y antigravity-jupiter-notebook-mcp"
+}

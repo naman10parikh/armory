@@ -1,0 +1,7 @@
+{
+  "name": "opslevel-developer-portal",
+  "description": "Provides direct access to OpsLevel's developer portal data, enabling intelligent interactions with service catalogs, component metrics, and operational workflows for DevOps teams managing service infrastructure.",
+  "source_repo": "opslevel/opslevel-mcp",
+  "source_url": "https://github.com/opslevel/opslevel-mcp",
+  "install": "npx -y opslevel-mcp"
+}

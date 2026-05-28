@@ -1,0 +1,7 @@
+{
+  "name": "neosh11-visa-jobs",
+  "description": "Searches LinkedIn for job listings and cross-references DOL disclosure data to identify employers with H-1B, E-3, and green card sponsorship history.",
+  "source_repo": "neosh11/visa-jobs-mcp",
+  "source_url": "https://github.com/neosh11/visa-jobs-mcp",
+  "install": "npx -y visa-jobs-mcp"
+}

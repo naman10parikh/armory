@@ -1,0 +1,7 @@
+{
+  "name": "calclavia-mcp-obsidian",
+  "description": "This is a connector to allow Claude Desktop (or any MCP client) to read and search any directory containing Markdown notes (such as an Obsidian vault).",
+  "source_repo": "calclavia/mcp-obsidian",
+  "source_url": "https://github.com/calclavia/mcp-obsidian",
+  "install": "# git clone --depth 1 https://github.com/calclavia/mcp-obsidian\n# See source for mcpServers config block"
+}

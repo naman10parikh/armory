@@ -1,0 +1,7 @@
+{
+  "name": "sweatent-askr",
+  "description": "Provides async Q&A capabilities by routing questions to any OpenAI-compatible API with streaming and parallel query support.",
+  "source_repo": "sweatent/askr",
+  "source_url": "https://github.com/sweatent/askr",
+  "install": "# git clone --depth 1 https://github.com/sweatent/askr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jtang613-gdb",
+  "description": "Integrates with GNU Debugger to enable execution of arbitrary GDB commands within debugging sessions for automated debugging workflows, intelligent breakpoint management, and conversational program state inspection.",
+  "source_repo": "jtang613/gdb-mcp",
+  "source_url": "https://github.com/jtang613/gdb-mcp",
+  "install": "npx -y gdb-mcp"
+}

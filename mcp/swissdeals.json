@@ -1,0 +1,7 @@
+{
+  "name": "swissdeals",
+  "description": "Provides access to Swiss deals, offers, and discounts through a confirmed MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://mcp.swissdeals.app/api/mcp",
+  "install": "# git clone --depth 1 https://mcp.swissdeals.app/api/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "damus-nostrdb",
+  "description": "Integrates with nostrdb to enable local Nostr data querying and analysis.",
+  "source_repo": "damus-io/nostrdb-mcp",
+  "source_url": "https://github.com/damus-io/nostrdb-mcp",
+  "install": "npx -y nostrdb-mcp"
+}

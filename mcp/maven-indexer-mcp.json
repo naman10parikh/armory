@@ -1,0 +1,7 @@
+{
+  "name": "maven-indexer-mcp",
+  "description": "Indexes local Maven and Gradle caches to enable AI agents to search for Java classes, method signatures, and source code, including from internal or obscure libraries.",
+  "source_repo": "tangcent/maven-indexer-mcp",
+  "source_url": "https://github.com/tangcent/maven-indexer-mcp",
+  "install": "npx -y maven-indexer-mcp"
+}

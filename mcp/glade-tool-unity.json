@@ -1,0 +1,7 @@
+{
+  "name": "glade-tool-unity",
+  "description": "Bridges AI coding assistants to the Unity Editor for scene management, GameObjects, scripts, and materials.",
+  "source_repo": "glade-tool/glade-mcp-unity",
+  "source_url": "https://github.com/glade-tool/glade-mcp-unity",
+  "install": "# git clone --depth 1 https://github.com/glade-tool/glade-mcp-unity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-git-commit-generator",
+  "description": "Analyzes Git repository changes and generates conventional, context-aware commit messages using the Model Context Protocol.",
+  "source_repo": "LuiccianDev/mcp_git_commit_generator",
+  "source_url": "https://github.com/LuiccianDev/mcp_git_commit_generator",
+  "install": "# git clone --depth 1 https://github.com/LuiccianDev/mcp_git_commit_generator\n# See source for mcpServers config block"
+}

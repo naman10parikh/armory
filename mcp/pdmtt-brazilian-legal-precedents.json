@@ -1,0 +1,7 @@
+{
+  "name": "pdmtt-brazilian-legal-precedents",
+  "description": "Provides automated access to Brazilian legal precedents from the Supreme Federal Court, Superior Court of Justice, and Superior Labor Court using web scraping to handle dynamic content and authentication for legal research and case law analysis.",
+  "source_repo": "pdmtt/brlaw_mcp_server",
+  "source_url": "https://github.com/pdmtt/brlaw_mcp_server",
+  "install": "npx -y brlaw_mcp_server"
+}

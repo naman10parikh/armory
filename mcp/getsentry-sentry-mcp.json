@@ -1,0 +1,7 @@
+{
+  "name": "getsentry-sentry-mcp",
+  "description": "Sentry.io integration for error tracking and performance monitoring",
+  "source_repo": "getsentry/sentry-mcp",
+  "source_url": "https://github.com/getsentry/sentry-mcp",
+  "install": "npx -y sentry-mcp"
+}

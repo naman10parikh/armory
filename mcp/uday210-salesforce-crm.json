@@ -1,0 +1,7 @@
+{
+  "name": "uday210-salesforce-crm",
+  "description": "Integrates with Salesforce CRM to enable querying data, retrieving object metadata, and performing CRUD operations on Salesforce records directly within conversation interfaces.",
+  "source_repo": "uday210/salesforce-mcp-server",
+  "source_url": "https://github.com/uday210/salesforce-mcp-server",
+  "install": "npx -y salesforce-mcp-server"
+}

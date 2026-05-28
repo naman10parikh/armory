@@ -1,0 +1,7 @@
+{
+  "name": "veithly-vibeshell",
+  "description": "SSH client with built-in MCP server for remote server management, terminal sessions, and SFTP file operations.",
+  "source_repo": "veithly/vibeshell",
+  "source_url": "https://github.com/veithly/vibeshell",
+  "install": "# git clone --depth 1 https://github.com/veithly/vibeshell\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "schemacrawler-schemacrawler-mcp-server-usage",
+  "description": "Connect to any relational database, and be able to get valid SQL, and ask questions like what does a certain column prefix mean.",
+  "source_repo": "schemacrawler/SchemaCrawler-MCP-Server-Usage",
+  "source_url": "https://github.com/schemacrawler/SchemaCrawler-MCP-Server-Usage",
+  "install": "# git clone --depth 1 https://github.com/schemacrawler/SchemaCrawler-MCP-Server-Usage\n# See source for mcpServers config block"
+}

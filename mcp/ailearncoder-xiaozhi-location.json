@@ -1,0 +1,7 @@
+{
+  "name": "ailearncoder-xiaozhi-location",
+  "description": "Integrates with the xiaozhi-app Android device framework to retrieve real-time location data including GPS coordinates, altitude, and accuracy measurements from mobile devices using multiple location providers for navigation, geofencing, and location-based services.",
+  "source_repo": "ailearncoder/xiaozhi-location-mcp",
+  "source_url": "https://github.com/ailearncoder/xiaozhi-location-mcp",
+  "install": "npx -y xiaozhi-location-mcp"
+}

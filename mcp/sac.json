@@ -1,0 +1,7 @@
+{
+  "name": "sac",
+  "description": "Agent SDK for generating live, interactive apps as responses instead of static text.",
+  "source_repo": "dynsoft-lab/software-as-content-sdk",
+  "source_url": "https://github.com/dynsoft-lab/software-as-content-sdk",
+  "install": "# git clone --depth 1 https://github.com/dynsoft-lab/software-as-content-sdk\n# See source for mcpServers config block"
+}

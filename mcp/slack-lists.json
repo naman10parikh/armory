@@ -1,0 +1,7 @@
+{
+  "name": "slack-lists",
+  "description": "Integrates with Slack Lists to enable creation, retrieval, filtering, and management of list items with support for bulk operations, data export to JSON/CSV formats, and all Slack List field types including text, date, user, select, and checkbox fields.",
+  "source_repo": "maplehilllabs/mcp-slack-lists",
+  "source_url": "https://github.com/maplehilllabs/mcp-slack-lists",
+  "install": "# git clone --depth 1 https://github.com/maplehilllabs/mcp-slack-lists\n# See source for mcpServers config block"
+}

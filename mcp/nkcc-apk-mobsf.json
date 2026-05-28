@@ -1,0 +1,7 @@
+{
+  "name": "nkcc-apk-mobsf",
+  "description": "Integrates with MobSF (Mobile Security Framework) to provide automated mobile application security analysis for APK, IPA, and APPX files with vulnerability scanning, detailed reporting, and comparative analysis capabilities.",
+  "source_repo": "il-il1/mobsf-mcp",
+  "source_url": "https://github.com/il-il1/mobsf-mcp",
+  "install": "npx -y mobsf-mcp"
+}

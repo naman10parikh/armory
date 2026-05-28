@@ -1,0 +1,7 @@
+{
+  "name": "iwark-linear",
+  "description": "Integrates with Linear's issue tracking system to enable efficient creation, searching, and analysis of project tasks and issues",
+  "source_repo": "iwark/linear-mcp-server",
+  "source_url": "https://github.com/iwark/linear-mcp-server",
+  "install": "npx -y linear-mcp-server"
+}

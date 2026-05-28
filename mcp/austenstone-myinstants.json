@@ -1,0 +1,7 @@
+{
+  "name": "austenstone-myinstants",
+  "description": "Connects to myinstants.com to search, browse, and play millions of meme sounds through local audio players with category browsing and trending sound discovery.",
+  "source_repo": "austenstone/myinstants-mcp",
+  "source_url": "https://github.com/austenstone/myinstants-mcp",
+  "install": "npx -y myinstants-mcp"
+}

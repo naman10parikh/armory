@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rails",
+  "description": "Mcp_rails MCP server listed on mcp.so.",
+  "source_repo": "whoojemaflip/mcp_rails",
+  "source_url": "https://mcp.so/server/mcp_rails/whoojemaflip",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_rails/whoojemaflip\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sarimsiddd-xano",
+  "description": "Integrates with Xano's no-code backend platform to enable data querying, manipulation, and CRUD operations for rapid application development and prototyping.",
+  "source_repo": "sarimsiddd/xano_mcp",
+  "source_url": "https://github.com/sarimsiddd/xano_mcp",
+  "install": "npx -y xano_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gscfwid-nccn-guidelines",
+  "description": "Provides access to NCCN clinical practice guidelines through automated web scraping, PDF downloading, and content extraction with intelligent caching and targeted page retrieval for evidence-based cancer treatment protocols and clinical decision support.",
+  "source_repo": "gscfwid/nccn_guidelines_mcp",
+  "source_url": "https://github.com/gscfwid/nccn_guidelines_mcp",
+  "install": "npx -y nccn_guidelines_mcp"
+}

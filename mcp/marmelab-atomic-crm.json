@@ -1,0 +1,7 @@
+{
+  "name": "marmelab-atomic-crm",
+  "description": "Enables secure querying of Atomic CRM data including contacts, companies, deals, and tasks through Supabase with OAuth 2.1 authentication and Row Level Security enforcement.",
+  "source_repo": "marmelab/atomic-crm-mcp",
+  "source_url": "https://github.com/marmelab/atomic-crm-mcp",
+  "install": "npx -y atomic-crm-mcp"
+}

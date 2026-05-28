@@ -1,0 +1,7 @@
+{
+  "name": "cryptoapis-address-latest",
+  "description": "Current balance and state for EVM, UTXO, Solana, XRP, and Kaspa blockchain addresses via Crypto APIs.",
+  "source_repo": "cryptoapis-io/cryptoapis-mcp-address-latest",
+  "source_url": "https://github.com/cryptoapis-io/cryptoapis-mcp-address-latest",
+  "install": "# git clone --depth 1 https://github.com/cryptoapis-io/cryptoapis-mcp-address-latest\n# See source for mcpServers config block"
+}

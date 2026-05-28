@@ -1,0 +1,7 @@
+{
+  "name": "yanjiusheng431-ctp-chinese-futures-trading",
+  "description": "Integrates with Chinese futures markets through vnpy trading framework to provide real-time market data, account management, order execution, and position tracking for algorithmic trading and automated strategies in commodity and financial futures.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/yanjiusheng431-ctp-chinese-futures-trading",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/yanjiusheng431-ctp-chinese-futures-trading\n# See source for mcpServers config block"
+}

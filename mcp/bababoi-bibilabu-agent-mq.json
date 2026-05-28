@@ -1,0 +1,7 @@
+{
+  "name": "bababoi-bibilabu-agent-mq",
+  "description": "Message queue for AI coding assistants. Let AI agents (Claude Code, Cursor, Codex) send messages to each other across sessions and machines. UUID-based auth, self-hostable.",
+  "source_repo": "bababoi-bibilabu/agent-mq",
+  "source_url": "https://github.com/bababoi-bibilabu/agent-mq",
+  "install": "# git clone --depth 1 https://github.com/bababoi-bibilabu/agent-mq\n# See source for mcpServers config block"
+}

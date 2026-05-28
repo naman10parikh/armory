@@ -1,0 +1,7 @@
+{
+  "name": "stewyboy1990-stockscope",
+  "description": "SEC EDGAR-powered stock market data and financial intelligence for AI agents.",
+  "source_repo": "stewyboy1990/stockscope-mcp",
+  "source_url": "https://github.com/stewyboy1990/stockscope-mcp",
+  "install": "npx -y stockscope-mcp"
+}

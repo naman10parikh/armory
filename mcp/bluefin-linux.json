@@ -1,0 +1,7 @@
+{
+  "name": "bluefin-linux",
+  "description": "Provides system context and troubleshooting guidance for Project Bluefin Linux distributions.",
+  "source_repo": "projectbluefin/bluefin-mcp",
+  "source_url": "https://github.com/projectbluefin/bluefin-mcp",
+  "install": "npx -y bluefin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "magnus919-shlink",
+  "description": "Integrates with a self-hosted Shlink instance to create, list, retrieve, and delete shortened URLs and manage tags.",
+  "source_repo": "magnus919/mcp-shlink",
+  "source_url": "https://github.com/magnus919/mcp-shlink",
+  "install": "# git clone --depth 1 https://github.com/magnus919/mcp-shlink\n# See source for mcpServers config block"
+}

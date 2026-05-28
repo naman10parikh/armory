@@ -1,0 +1,7 @@
+{
+  "name": "notasandy-code-sanitizer",
+  "description": "Strict AI code reviewer powered by Groq that detects bugs and security vulnerabilities in code.",
+  "source_repo": "notasandy/mcp-code-sanitizer",
+  "source_url": "https://github.com/notasandy/mcp-code-sanitizer",
+  "install": "# git clone --depth 1 https://github.com/notasandy/mcp-code-sanitizer\n# See source for mcpServers config block"
+}

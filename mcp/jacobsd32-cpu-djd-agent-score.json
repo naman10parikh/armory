@@ -1,0 +1,7 @@
+{
+  "name": "jacobsd32-cpu-djd-agent-score",
+  "description": "Agent performance scoring and benchmarking with task completion metrics.",
+  "source_repo": "jacobsd32-cpu/djd-agent-score-mcp",
+  "source_url": "https://github.com/jacobsd32-cpu/djd-agent-score-mcp",
+  "install": "npx -y djd-agent-score-mcp"
+}

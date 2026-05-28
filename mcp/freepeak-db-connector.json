@@ -1,0 +1,7 @@
+{
+  "name": "freepeak-db-connector",
+  "description": "Enables direct interaction with MySQL and PostgreSQL databases through a Go-based connectivity layer that supports both local stdio and production SSE transport modes for querying, analyzing, and manipulating structured data.",
+  "source_repo": "freepeak/db-mcp-server",
+  "source_url": "https://github.com/freepeak/db-mcp-server",
+  "install": "npx -y db-mcp-server"
+}

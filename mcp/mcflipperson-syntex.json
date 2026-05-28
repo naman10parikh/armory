@@ -1,0 +1,7 @@
+{
+  "name": "mcflipperson-syntex",
+  "description": "Preprocesses and structures tasks for the Syntex system with context extraction and RISE tier classification.",
+  "source_repo": "mcflipperson/syntex-mcp",
+  "source_url": "https://github.com/mcflipperson/syntex-mcp",
+  "install": "npx -y syntex-mcp"
+}

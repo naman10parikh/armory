@@ -1,0 +1,7 @@
+{
+  "name": "nkapila6-mcp-local-rag",
+  "description": "\"primitive\" RAG-like web search model context protocol (MCP) server that runs locally. No APIs needed.",
+  "source_repo": "nkapila6/mcp-local-rag",
+  "source_url": "https://github.com/nkapila6/mcp-local-rag",
+  "install": "# git clone --depth 1 https://github.com/nkapila6/mcp-local-rag\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mattjeff-orizn-visa",
+  "description": "Provides visa requirement lookups for 39,585 passport-destination country pairs in 15 languages.",
+  "source_repo": "mattjeff/orizn-mcp-server",
+  "source_url": "https://github.com/mattjeff/orizn-mcp-server",
+  "install": "npx -y orizn-mcp-server"
+}

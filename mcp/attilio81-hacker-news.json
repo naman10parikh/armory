@@ -1,0 +1,7 @@
+{
+  "name": "attilio81-hacker-news",
+  "description": "Retrieves Hacker News stories, items, search results, and user profiles using the official HN Firebase API and Algolia.",
+  "source_repo": "attilio81/mcp-hackernews",
+  "source_url": "https://github.com/attilio81/mcp-hackernews",
+  "install": "# git clone --depth 1 https://github.com/attilio81/mcp-hackernews\n# See source for mcpServers config block"
+}

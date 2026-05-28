@@ -1,0 +1,7 @@
+{
+  "name": "terminal-control",
+  "description": "Provides interactive terminal session management through tmux, enabling command execution, multiple shell sessions, and persistent terminal state for debugging applications, managing remote systems, and database administration.",
+  "source_repo": "wehnsdaefflae/terminal-control-mcp",
+  "source_url": "https://github.com/wehnsdaefflae/terminal-control-mcp",
+  "install": "npx -y terminal-control-mcp"
+}

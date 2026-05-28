@@ -1,0 +1,7 @@
+{
+  "name": "shinpr-image",
+  "description": "Integrates with Google's Gemini 2.5 Flash model to generate images with automatic prompt enhancement and file-based output, featuring character consistency maintenance and multi-image blending capabilities for content creators.",
+  "source_repo": "shinpr/mcp-image",
+  "source_url": "https://github.com/shinpr/mcp-image",
+  "install": "# git clone --depth 1 https://github.com/shinpr/mcp-image\n# See source for mcpServers config block"
+}

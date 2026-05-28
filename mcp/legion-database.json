@@ -1,0 +1,7 @@
+{
+  "name": "legion-database",
+  "description": "Enables natural language querying and management of multiple database types (PostgreSQL, MySQL, SQL Server, BigQuery) for data analysis, business intelligence, and database exploration.",
+  "source_repo": "theralabs/legion-mcp",
+  "source_url": "https://github.com/theralabs/legion-mcp",
+  "install": "npx -y legion-mcp"
+}

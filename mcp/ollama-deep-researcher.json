@@ -1,0 +1,7 @@
+{
+  "name": "ollama-deep-researcher",
+  "description": "Leverage Ollama as your LLM, and Tavily or Perplexity to do your deep web research",
+  "source_repo": "cam10001110101/mcp-server-ollama-deep-researcher",
+  "source_url": "https://github.com/cam10001110101/mcp-server-ollama-deep-researcher",
+  "install": "# git clone --depth 1 https://github.com/cam10001110101/mcp-server-ollama-deep-researcher\n# See source for mcpServers config block"
+}

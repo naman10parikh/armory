@@ -1,0 +1,7 @@
+{
+  "name": "bluesky-mcp",
+  "description": "A Model Context Protocol (MCP) server for Bluesky that can post on your behalf by using the AT Protocol.",
+  "source_repo": "semioz/bluesky-mcp",
+  "source_url": "https://github.com/semioz/bluesky-mcp",
+  "install": "npx -y bluesky-mcp"
+}

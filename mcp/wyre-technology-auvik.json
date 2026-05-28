@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-auvik",
+  "description": "Auvik network monitoring management via MCP — devices, alerts, statistics, and billing tools.",
+  "source_repo": "wyre-technology/auvik-mcp",
+  "source_url": "https://github.com/wyre-technology/auvik-mcp",
+  "install": "npx -y auvik-mcp"
+}

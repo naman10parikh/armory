@@ -1,0 +1,7 @@
+{
+  "name": "legalize-kr",
+  "description": "Queries Korean statutes, court precedents, administrative rules, and local ordinances via ten MCP tools.",
+  "source_repo": "legalize-kr/cli-tools",
+  "source_url": "https://github.com/legalize-kr/cli-tools",
+  "install": "# git clone --depth 1 https://github.com/legalize-kr/cli-tools\n# See source for mcpServers config block"
+}

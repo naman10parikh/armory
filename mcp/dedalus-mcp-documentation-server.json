@@ -1,0 +1,7 @@
+{
+  "name": "dedalus-mcp-documentation-server",
+  "description": "An MCP server that serves documentation and enables AI-powered search, Q\\&A, and document analysis for developer tools and guides.",
+  "source_repo": "dedalus-labs/mcp-server-example-python",
+  "source_url": "https://github.com/dedalus-labs/mcp-server-example-python",
+  "install": "# git clone --depth 1 https://github.com/dedalus-labs/mcp-server-example-python\n# See source for mcpServers config block"
+}

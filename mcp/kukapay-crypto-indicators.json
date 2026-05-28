@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-indicators",
+  "description": "Provides AI trading agents with real-time technical analysis indicators and trading signals for cryptocurrency markets, enabling quantitative strategy development without implementing complex algorithms.",
+  "source_repo": "kukapay/crypto-indicators-mcp",
+  "source_url": "https://github.com/kukapay/crypto-indicators-mcp",
+  "install": "npx -y crypto-indicators-mcp"
+}

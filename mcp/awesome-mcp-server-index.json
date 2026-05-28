@@ -1,0 +1,7 @@
+{
+  "name": "awesome-mcp-server-index",
+  "description": "Awesome Mcp Server Index MCP server listed on mcp.so.",
+  "source_repo": "shiquda/awesome-mcp-server-index",
+  "source_url": "https://mcp.so/server/awesome-mcp-server-index/shiquda",
+  "install": "# git clone --depth 1 https://mcp.so/server/awesome-mcp-server-index/shiquda\n# See source for mcpServers config block"
+}

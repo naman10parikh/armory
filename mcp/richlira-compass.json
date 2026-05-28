@@ -1,0 +1,7 @@
+{
+  "name": "richlira-compass",
+  "description": "Shared task state and project context across Claude Chat, Cowork, and Code.",
+  "source_repo": "richlira/compass-mcp",
+  "source_url": "https://github.com/richlira/compass-mcp",
+  "install": "npx -y compass-mcp"
+}

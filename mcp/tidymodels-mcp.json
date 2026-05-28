@@ -1,0 +1,7 @@
+{
+  "name": "tidymodels-mcp",
+  "description": "Tidymodels Mcp MCP server listed on mcp.so.",
+  "source_repo": "JavOrraca/tidymodels-mcp",
+  "source_url": "https://mcp.so/server/tidymodels-mcp/JavOrraca",
+  "install": "npx -y tidymodels-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "renanlido-custom-database",
+  "description": "Provides secure database access across PostgreSQL, MySQL, MongoDB, and Oracle databases with credential management, connection configuration, and parameterized query execution for data analysis and business intelligence workflows.",
+  "source_repo": "renanlido/custom-mcp-database",
+  "source_url": "https://github.com/renanlido/custom-mcp-database",
+  "install": "# git clone --depth 1 https://github.com/renanlido/custom-mcp-database\n# See source for mcpServers config block"
+}

@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [angular-hooks, angular-patterns]
-tags: [ecc, rules, angular]
+tags: [rules, angular]
 ---
 ## What it is
 angular rule: apply when working on angular and you need Angular Coding Style.

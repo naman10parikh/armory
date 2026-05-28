@@ -1,0 +1,7 @@
+{
+  "name": "actiongate",
+  "description": "Pre-execution safety layer for autonomous agent wallets with x402 micropayments and configurable tool proxying.",
+  "source_repo": "",
+  "source_url": "https://actiongate.xyz",
+  "install": "# git clone --depth 1 https://actiongate.xyz\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pdf-manipulation-mcp-server",
+  "description": "Enables PDF manipulation including text, images, annotations, form fields, page operations, and metadata through natural language.",
+  "source_repo": "fastmcp-me/pdf-manipulation-mcp-server",
+  "source_url": "https://github.com/fastmcp-me/pdf-manipulation-mcp-server",
+  "install": "npx -y pdf-manipulation-mcp-server"
+}

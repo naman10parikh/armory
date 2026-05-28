@@ -1,0 +1,7 @@
+{
+  "name": "mutker-todo",
+  "description": "Manages TODO.md and CHANGELOG.md files with precise, line-based editing, multiple character encodings, and atomic operations for structured task and release management.",
+  "source_repo": "mutker/mcp-todo-server",
+  "source_url": "https://github.com/mutker/mcp-todo-server",
+  "install": "# git clone --depth 1 https://github.com/mutker/mcp-todo-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devflow-mcp-server",
+  "description": "MCP server that integrates DevFlow with AI code assistants to enforce structured development workflows including planning, task tracking, and code review gates.",
+  "source_repo": "KlausFreiberufler/devflow-mcp",
+  "source_url": "https://github.com/KlausFreiberufler/devflow-mcp",
+  "install": "npx -y devflow-mcp"
+}

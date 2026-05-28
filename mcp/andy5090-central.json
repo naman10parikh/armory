@@ -1,0 +1,7 @@
+{
+  "name": "andy5090-central",
+  "description": "Orchestrates multiple AI coding agents in parallel across projects with non-blocking dispatch to Claude, Codex, Gemini, and others.",
+  "source_repo": "andy5090/central-mcp",
+  "source_url": "https://github.com/andy5090/central-mcp",
+  "install": "npx -y central-mcp"
+}

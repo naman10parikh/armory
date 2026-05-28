@@ -1,0 +1,7 @@
+{
+  "name": "tantiope-datadog",
+  "description": "Full Datadog API access for monitors, logs, metrics, traces, dashboards, and observability workflows",
+  "source_repo": "tantiope/datadog-mcp-server",
+  "source_url": "https://github.com/tantiope/datadog-mcp-server",
+  "install": "npx -y datadog-mcp-server"
+}

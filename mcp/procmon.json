@@ -1,0 +1,7 @@
+{
+  "name": "procmon",
+  "description": "18-tool Windows process monitoring MCP server for security researchers, covering ETW tracing, PE analysis, event logs, services, and drivers.",
+  "source_repo": "0xhackerfren/procmon-mcp",
+  "source_url": "https://github.com/0xhackerfren/procmon-mcp",
+  "install": "npx -y procmon-mcp"
+}

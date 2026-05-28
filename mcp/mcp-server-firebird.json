@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-firebird",
+  "description": "An MCP server that enables AI assistants to execute SQL queries, list tables, and manage connections to external Firebird databases with automatic diagnostics and multilingual support.",
+  "source_repo": "marcelofmatos/mcp-server-firebird",
+  "source_url": "https://github.com/marcelofmatos/mcp-server-firebird",
+  "install": "# git clone --depth 1 https://github.com/marcelofmatos/mcp-server-firebird\n# See source for mcpServers config block"
+}

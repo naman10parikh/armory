@@ -1,0 +1,7 @@
+{
+  "name": "ericpjtsai-framer",
+  "description": "Connects AI clients to Framer projects for reading site structure, editing CMS content, designing pages, and managing code components.",
+  "source_repo": "ericpjtsai/framer-mcp-server",
+  "source_url": "https://github.com/ericpjtsai/framer-mcp-server",
+  "install": "npx -y framer-mcp-server"
+}

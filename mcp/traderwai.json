@@ -1,0 +1,7 @@
+{
+  "name": "traderwai",
+  "description": "Real-time candlestick charts for forex, crypto, commodities, and indices.",
+  "source_repo": "",
+  "source_url": "https://traderwai.com/mcp",
+  "install": "# git clone --depth 1 https://traderwai.com/mcp\n# See source for mcpServers config block"
+}

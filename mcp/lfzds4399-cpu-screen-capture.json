@@ -1,0 +1,7 @@
+{
+  "name": "lfzds4399-cpu-screen-capture",
+  "description": "Provides cross-platform screen capture, OCR, and change detection tools for AI assistants on Windows, macOS, and Linux.",
+  "source_repo": "lfzds4399-cpu/claude-screen-mcp",
+  "source_url": "https://github.com/lfzds4399-cpu/claude-screen-mcp",
+  "install": "npx -y claude-screen-mcp"
+}

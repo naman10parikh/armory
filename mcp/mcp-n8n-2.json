@@ -1,0 +1,7 @@
+{
+  "name": "mcp-n8n-2",
+  "description": "MCP server for n8n workflow automation, enabling management of workflows, executions, credentials, tags, users, and webhooks via an MCP-compatible client.",
+  "source_repo": "lyzetam/mcp-n8n",
+  "source_url": "https://github.com/lyzetam/mcp-n8n",
+  "install": "# git clone --depth 1 https://github.com/lyzetam/mcp-n8n\n# See source for mcpServers config block"
+}

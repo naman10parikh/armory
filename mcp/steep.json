@@ -1,0 +1,7 @@
+{
+  "name": "steep",
+  "description": "Analytics platform that connects marketing data sources with AI-powered insights and automated report generation.",
+  "source_repo": "steephq/steep-mcp",
+  "source_url": "https://github.com/steephq/steep-mcp",
+  "install": "npx -y steep-mcp"
+}

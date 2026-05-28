@@ -1,0 +1,7 @@
+{
+  "name": "dosugamea-voicevox",
+  "description": "Connects AI systems to VOICEVOX text-to-speech engine for Japanese voice synthesis, supporting both default transport and Server-Sent Events with configurable speaker options.",
+  "source_repo": "dosugamea/voicevox-mcp-server",
+  "source_url": "https://github.com/dosugamea/voicevox-mcp-server",
+  "install": "npx -y voicevox-mcp-server"
+}

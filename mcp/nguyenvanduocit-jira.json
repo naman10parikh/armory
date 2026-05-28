@@ -1,0 +1,7 @@
+{
+  "name": "nguyenvanduocit-jira",
+  "description": "Integrates with the Jira API to enable searching, creating, updating, and transitioning issues through conversational interactions, streamlining project management workflows.",
+  "source_repo": "nguyenvanduocit/jira-mcp",
+  "source_url": "https://github.com/nguyenvanduocit/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

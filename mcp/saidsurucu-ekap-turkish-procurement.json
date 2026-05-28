@@ -1,0 +1,7 @@
+{
+  "name": "saidsurucu-ekap-turkish-procurement",
+  "description": "Integrates with Turkey's EKAP v2 government procurement API to search public tenders, announcements, and procurement classifications with filtering for tender characteristics and geographic regions.",
+  "source_repo": "saidsurucu/ihale-mcp",
+  "source_url": "https://github.com/saidsurucu/ihale-mcp",
+  "install": "npx -y ihale-mcp"
+}

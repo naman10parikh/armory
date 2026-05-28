@@ -1,0 +1,7 @@
+{
+  "name": "georgejeffers-gemini-pro",
+  "description": "Integrates Google's Gemini Pro model for text generation, enabling content creation, translation, and conversational capabilities.",
+  "source_repo": "georgejeffers/gemini-mcp-server",
+  "source_url": "https://github.com/georgejeffers/gemini-mcp-server",
+  "install": "npx -y gemini-mcp-server"
+}

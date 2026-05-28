@@ -1,0 +1,7 @@
+{
+  "name": "kevinkda-schwab-marketdata",
+  "description": "Unofficial MCP server for Charles Schwab Market Data API with 14 tools for quotes, price history, option chains, and market hours.",
+  "source_repo": "kevinkda/schwab-marketdata-mcp",
+  "source_url": "https://github.com/kevinkda/schwab-marketdata-mcp",
+  "install": "npx -y schwab-marketdata-mcp"
+}

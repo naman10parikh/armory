@@ -1,0 +1,7 @@
+{
+  "name": "anurag-dhamala-newsdata",
+  "description": "Fetches the latest news and sources based on country and language using newsdata.io.",
+  "source_repo": "anurag-dhamala/news-mcp-server",
+  "source_url": "https://github.com/anurag-dhamala/news-mcp-server",
+  "install": "npx -y news-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "premnidhikeshav08-expense-tracker",
+  "description": "Remote expense tracking with category management via MCP.",
+  "source_repo": "premnidhikeshav08/expense-tracker-remote-mcp-server",
+  "source_url": "https://github.com/premnidhikeshav08/expense-tracker-remote-mcp-server",
+  "install": "npx -y expense-tracker-remote-mcp-server"
+}

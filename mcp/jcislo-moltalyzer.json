@@ -1,0 +1,7 @@
+{
+  "name": "jcislo-moltalyzer",
+  "description": "Crypto intelligence, GitHub trends, market signals, and AI advisor with x402 micropayments.",
+  "source_repo": "jcislo/moltalyzer-mcp",
+  "source_url": "https://github.com/jcislo/moltalyzer-mcp",
+  "install": "npx -y moltalyzer-mcp"
+}

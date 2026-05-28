@@ -1,0 +1,7 @@
+{
+  "name": "currency-mcp-agent",
+  "description": "Local service for currency rates and conversion using MCP and agent layer. Accepts user requests, selects appropriate tool, and returns structured responses.",
+  "source_repo": "mariakasimceva0305-ux/currency-mcp-agent",
+  "source_url": "https://github.com/mariakasimceva0305-ux/currency-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/mariakasimceva0305-ux/currency-mcp-agent\n# See source for mcpServers config block"
+}

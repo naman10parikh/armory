@@ -1,0 +1,7 @@
+{
+  "name": "bneil-memory-pouchdb",
+  "description": "Provides a knowledge graph-based memory system using PouchDB for storing and retrieving entity relationships and observations, enabling persistent conversational context across interactions.",
+  "source_repo": "bneil/mcp-memory-pouchdb",
+  "source_url": "https://github.com/bneil/mcp-memory-pouchdb",
+  "install": "# git clone --depth 1 https://github.com/bneil/mcp-memory-pouchdb\n# See source for mcpServers config block"
+}

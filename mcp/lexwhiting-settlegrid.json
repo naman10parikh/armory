@@ -1,0 +1,7 @@
+{
+  "name": "lexwhiting-settlegrid",
+  "description": "Payment settlement layer for AI agent tool monetization with per-call billing.",
+  "source_repo": "lexwhiting/settlegrid",
+  "source_url": "https://github.com/lexwhiting/settlegrid/tree/HEAD/open-source-servers",
+  "install": "# git clone --depth 1 https://github.com/lexwhiting/settlegrid/tree/HEAD/open-source-servers\n# See source for mcpServers config block"
+}

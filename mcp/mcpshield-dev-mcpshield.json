@@ -1,0 +1,7 @@
+{
+  "name": "mcpshield-dev-mcpshield",
+  "description": "Security proxy for MCP servers that intercepts and filters tool calls to prevent prompt injection, data exfiltration, and unauthorized API access.",
+  "source_repo": "mcpshield-dev/mcpshield",
+  "source_url": "https://github.com/mcpshield-dev/mcpshield",
+  "install": "# git clone --depth 1 https://github.com/mcpshield-dev/mcpshield\n# See source for mcpServers config block"
+}

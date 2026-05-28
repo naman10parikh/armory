@@ -1,0 +1,7 @@
+{
+  "name": "nikhilcherry-indian-stock-exchange",
+  "description": "Integrates with Indian Stock Exchange API to provide real-time market data, historical prices, stock recommendations, and top gainers/losers for BSE and NSE listed companies.",
+  "source_repo": "nikhilcherry/indian-stock-mcp",
+  "source_url": "https://github.com/nikhilcherry/indian-stock-mcp",
+  "install": "npx -y indian-stock-mcp"
+}

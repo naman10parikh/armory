@@ -1,0 +1,7 @@
+{
+  "name": "stijn-meijers-dracor",
+  "description": "Integrates with the Drama Corpora Project API to enable analysis of dramatic texts, character networks, and literary themes across different languages and historical periods.",
+  "source_repo": "stijn-meijers/dracor-mcp",
+  "source_url": "https://github.com/stijn-meijers/dracor-mcp",
+  "install": "npx -y dracor-mcp"
+}

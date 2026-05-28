@@ -1,0 +1,7 @@
+{
+  "name": "kunihiros-claude-code",
+  "description": "Use Claude Code with less capable LLMs.",
+  "source_repo": "kunihiros/claude-code-mcp",
+  "source_url": "https://github.com/kunihiros/claude-code-mcp",
+  "install": "npx -y claude-code-mcp"
+}

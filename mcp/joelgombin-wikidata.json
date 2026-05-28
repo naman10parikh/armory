@@ -1,0 +1,7 @@
+{
+  "name": "joelgombin-wikidata",
+  "description": "Integrates with Wikidata to search entities, retrieve detailed information, execute SPARQL queries, and explore knowledge graph relationships for fact-checking, research, and structured data access.",
+  "source_repo": "joelgombin/mcp-wikidata",
+  "source_url": "https://github.com/joelgombin/mcp-wikidata",
+  "install": "# git clone --depth 1 https://github.com/joelgombin/mcp-wikidata\n# See source for mcpServers config block"
+}

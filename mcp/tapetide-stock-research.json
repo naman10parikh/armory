@@ -1,0 +1,7 @@
+{
+  "name": "tapetide-stock-research",
+  "description": "Access Indian stock market data including quotes, financials, technicals, screening, and institutional flow tracking.",
+  "source_repo": "tapetide-hq/tapetide-stock-research-mcp",
+  "source_url": "https://github.com/tapetide-hq/tapetide-stock-research-mcp",
+  "install": "npx -y tapetide-stock-research-mcp"
+}

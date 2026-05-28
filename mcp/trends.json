@@ -1,0 +1,7 @@
+{
+  "name": "trends",
+  "description": "Live trend data from Google, YouTube, TikTok, Reddit, Amazon, Wikipedia, and other sources with normalized 0-100 scoring.",
+  "source_repo": "",
+  "source_url": "https://trendsmcp.ai",
+  "install": "# git clone --depth 1 https://trendsmcp.ai\n# See source for mcpServers config block"
+}

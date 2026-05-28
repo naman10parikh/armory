@@ -1,0 +1,7 @@
+{
+  "name": "henu-wang-tokrepo",
+  "description": "Searches and installs AI skills, prompts, MCP configs, and workflows from TokRepo.",
+  "source_repo": "henu-wang/tokrepo-mcp-server",
+  "source_url": "https://github.com/henu-wang/tokrepo-mcp-server",
+  "install": "npx -y tokrepo-mcp-server"
+}

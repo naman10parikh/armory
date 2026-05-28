@@ -1,0 +1,7 @@
+{
+  "name": "israeli-land-authority",
+  "description": "Integrates with Israeli Land Authority's public API to provide real estate developers, legal professionals, and government contractors with conversational access to land tender data, detailed tender information, geographic mapping, and settlement code conversion for tracking opportunities and monitoring deadlines.",
+  "source_repo": "barvhaim/remy-mcp",
+  "source_url": "https://github.com/barvhaim/remy-mcp",
+  "install": "npx -y remy-mcp"
+}

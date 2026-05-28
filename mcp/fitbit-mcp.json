@@ -1,0 +1,7 @@
+{
+  "name": "fitbit-mcp",
+  "description": "Local-first MCP server that connects AI agents to your Fitbit activity, sleep, heart-rate, HRV, SpO2 and weight data.",
+  "source_repo": "davidmosiah/fitbitmcp",
+  "source_url": "https://github.com/davidmosiah/fitbitmcp",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/fitbitmcp\n# See source for mcpServers config block"
+}

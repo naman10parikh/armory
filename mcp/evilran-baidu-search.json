@@ -1,0 +1,7 @@
+{
+  "name": "evilran-baidu-search",
+  "description": "Provides web search capabilities through Baidu's search engine, enabling retrieval of search results and webpage content with robust error handling and content parsing.",
+  "source_repo": "evilran/baidu-mcp-server",
+  "source_url": "https://github.com/evilran/baidu-mcp-server",
+  "install": "npx -y baidu-mcp-server"
+}

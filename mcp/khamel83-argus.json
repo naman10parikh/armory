@@ -1,0 +1,7 @@
+{
+  "name": "khamel83-argus",
+  "description": "Multi-provider web search broker with budget-aware routing, RRF ranking, and content extraction across 11 search providers.",
+  "source_repo": "khamel83/argus",
+  "source_url": "https://github.com/khamel83/argus",
+  "install": "# git clone --depth 1 https://github.com/khamel83/argus\n# See source for mcpServers config block"
+}

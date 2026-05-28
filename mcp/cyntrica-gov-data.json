@@ -1,0 +1,7 @@
+{
+  "name": "cyntrica-gov-data",
+  "description": "Provides access to 114 government data APIs with 562 tools covering federal, state, and international data across economics, health, education, energy, and legislative domains.",
+  "source_repo": "cyntrica/gov-data-mcp",
+  "source_url": "https://github.com/cyntrica/gov-data-mcp",
+  "install": "npx -y gov-data-mcp"
+}

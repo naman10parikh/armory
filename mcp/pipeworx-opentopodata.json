@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-opentopodata",
+  "description": "Retrieves global elevation data from multiple DEM datasets via Open Topo Data.",
+  "source_repo": "pipeworx-io/mcp-opentopodata",
+  "source_url": "https://github.com/pipeworx-io/mcp-opentopodata",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-opentopodata\n# See source for mcpServers config block"
+}

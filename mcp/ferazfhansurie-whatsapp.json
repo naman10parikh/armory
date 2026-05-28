@@ -1,0 +1,7 @@
+{
+  "name": "ferazfhansurie-whatsapp",
+  "description": "MCP server for reading and sending WhatsApp messages, searching contacts, and managing sessions via whatsapp-web.js.",
+  "source_repo": "ferazfhansurie/claude-whatsapp-mcp",
+  "source_url": "https://github.com/ferazfhansurie/claude-whatsapp-mcp",
+  "install": "npx -y claude-whatsapp-mcp"
+}

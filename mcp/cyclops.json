@@ -1,0 +1,7 @@
+{
+  "name": "cyclops",
+  "description": "Provides safe Kubernetes application management through template-based deployments using the Cyclops framework, enabling creation and updates of applications via validated Helm, Git, and OCI templates without direct cluster manipulation.",
+  "source_repo": "cyclops-ui/mcp-cyclops",
+  "source_url": "https://github.com/cyclops-ui/mcp-cyclops",
+  "install": "# git clone --depth 1 https://github.com/cyclops-ui/mcp-cyclops\n# See source for mcpServers config block"
+}

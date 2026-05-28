@@ -1,0 +1,7 @@
+{
+  "name": "wire-lennys-podcast",
+  "description": "Search product management wisdom from Lenny's Podcast episodes featuring leaders at Figma, Airbnb, and Linear.",
+  "source_repo": "",
+  "source_url": "https://usewire.io/explore/lennys-podcast",
+  "install": "# git clone --depth 1 https://usewire.io/explore/lennys-podcast\n# See source for mcpServers config block"
+}

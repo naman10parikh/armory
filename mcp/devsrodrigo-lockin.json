@@ -1,0 +1,7 @@
+{
+  "name": "devsrodrigo-lockin",
+  "description": "iOS app tools for managing social media usage with screen time blocking and dopamine detox schedules.",
+  "source_repo": "devsrodrigo/lockin-mcp",
+  "source_url": "https://github.com/devsrodrigo/lockin-mcp",
+  "install": "npx -y lockin-mcp"
+}

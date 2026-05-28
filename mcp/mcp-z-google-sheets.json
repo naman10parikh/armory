@@ -1,0 +1,7 @@
+{
+  "name": "mcp-z-google-sheets",
+  "description": "Integrates with Google Sheets API for spreadsheet management, batch operations, and formatting.",
+  "source_repo": "mcp-z/mcp-sheets",
+  "source_url": "https://github.com/mcp-z/mcp-sheets",
+  "install": "# git clone --depth 1 https://github.com/mcp-z/mcp-sheets\n# See source for mcpServers config block"
+}

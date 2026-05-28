@@ -1,0 +1,7 @@
+{
+  "name": "alexsowt-hardcover",
+  "description": "Query books, book series, and user information from Hardcover.app",
+  "source_repo": "alexsowt/hardcover-mcp",
+  "source_url": "https://github.com/alexsowt/hardcover-mcp",
+  "install": "npx -y hardcover-mcp"
+}

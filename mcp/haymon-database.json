@@ -1,0 +1,7 @@
+{
+  "name": "haymon-database",
+  "description": "Database MCP server supporting MySQL, MariaDB, PostgreSQL, and SQLite.",
+  "source_repo": "haymon-ai/dbmcp",
+  "source_url": "https://github.com/haymon-ai/dbmcp",
+  "install": "# git clone --depth 1 https://github.com/haymon-ai/dbmcp\n# See source for mcpServers config block"
+}

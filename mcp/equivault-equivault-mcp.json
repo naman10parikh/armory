@@ -1,0 +1,7 @@
+{
+  "name": "equivault-equivault-mcp",
+  "description": "Official [EquiVault](https://equivault.ai) MCP — AI-powered equity research for Claude. 38 tools covering company fundamentals, financial statements, ratios & metrics, stock quotes, screening, peer comparison, investment narrative, guidance tracking, segments, capital allocation, insider transactions, earnings quality, signals intelligence, alerts, briefs, portfolio analytics, and more. Tier-aware with graceful upgrade prompts. Install via `npx equivault-mcp`.",
+  "source_repo": "equivault/equivault-mcp",
+  "source_url": "https://github.com/equivault/equivault-mcp",
+  "install": "npx -y equivault-mcp"
+}

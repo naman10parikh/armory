@@ -1,0 +1,7 @@
+{
+  "name": "wegotdocs-open-mcp",
+  "description": "Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org",
+  "source_repo": "wegotdocs/open-mcp",
+  "source_url": "https://github.com/wegotdocs/open-mcp",
+  "install": "npx -y open-mcp"
+}

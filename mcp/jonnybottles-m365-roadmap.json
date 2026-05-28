@@ -1,0 +1,7 @@
+{
+  "name": "jonnybottles-m365-roadmap",
+  "description": "Query the Microsoft 365 Roadmap programmatically, filtering by product, status, cloud instance, release phase, and platform.",
+  "source_repo": "jonnybottles/m365-roadmap-mcp-server",
+  "source_url": "https://github.com/jonnybottles/m365-roadmap-mcp-server",
+  "install": "npx -y m365-roadmap-mcp-server"
+}

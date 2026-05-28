@@ -1,0 +1,7 @@
+{
+  "name": "random-robbie-web-browser",
+  "description": "Integrates with Playwright to enable cross-browser web automation for tasks like scraping, testing, and content extraction.",
+  "source_repo": "random-robbie/mcp-web-browser",
+  "source_url": "https://github.com/random-robbie/mcp-web-browser",
+  "install": "# git clone --depth 1 https://github.com/random-robbie/mcp-web-browser\n# See source for mcpServers config block"
+}

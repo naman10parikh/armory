@@ -1,0 +1,7 @@
+{
+  "name": "ndthanhdev-mcp-browser-kit",
+  "description": "An MCP Server that enables AI assistants to interact with your local browsers.",
+  "source_repo": "ndthanhdev/mcp-browser-kit",
+  "source_url": "https://github.com/ndthanhdev/mcp-browser-kit",
+  "install": "# git clone --depth 1 https://github.com/ndthanhdev/mcp-browser-kit\n# See source for mcpServers config block"
+}

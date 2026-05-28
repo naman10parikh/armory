@@ -1,0 +1,7 @@
+{
+  "name": "pbandreddy-blazemeter",
+  "description": "Integrates with BlazeMeter's performance testing platform to manage test runs, analyze performance data, and monitor application metrics across automated testing pipelines.",
+  "source_repo": "pbandreddy/blazemeter-mcp-server",
+  "source_url": "https://github.com/pbandreddy/blazemeter-mcp-server",
+  "install": "npx -y blazemeter-mcp-server"
+}

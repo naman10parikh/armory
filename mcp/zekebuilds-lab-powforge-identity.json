@@ -1,0 +1,7 @@
+{
+  "name": "zekebuilds-lab-powforge-identity",
+  "description": "Exposes chaintip-anchored Depth-of-Identity scoring for Nostr public keys, with L402 Lightning-priced lookups and offline Schnorr certificate verification.",
+  "source_repo": "zekebuilds-lab/mcp-identity",
+  "source_url": "https://github.com/zekebuilds-lab/mcp-identity",
+  "install": "# git clone --depth 1 https://github.com/zekebuilds-lab/mcp-identity\n# See source for mcpServers config block"
+}

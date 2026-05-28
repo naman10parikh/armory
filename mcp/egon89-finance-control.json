@@ -1,0 +1,7 @@
+{
+  "name": "egon89-finance-control",
+  "description": "Personal finance management with SQLite-backed data storage and SSE transport for tracking financial records.",
+  "source_repo": "egon89/finance-control-mcp-server",
+  "source_url": "https://github.com/egon89/finance-control-mcp-server",
+  "install": "npx -y finance-control-mcp-server"
+}

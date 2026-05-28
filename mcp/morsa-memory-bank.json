@@ -1,0 +1,7 @@
+{
+  "name": "morsa-memory-bank",
+  "description": "Memory bank integration for the Morsa.io platform.",
+  "source_repo": "morsa-dev/mb-mcp",
+  "source_url": "https://github.com/morsa-dev/mb-mcp",
+  "install": "npx -y mb-mcp"
+}

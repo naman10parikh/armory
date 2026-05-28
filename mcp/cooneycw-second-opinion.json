@@ -1,0 +1,7 @@
+{
+  "name": "cooneycw-second-opinion",
+  "description": "Provides code review and analysis using Google Gemini models with streaming responses, context caching, multi-turn sessions, and web search capabilities.",
+  "source_repo": "cooneycw/claude-power-pack",
+  "source_url": "https://github.com/cooneycw/claude-power-pack/tree/HEAD/mcp-second-opinion",
+  "install": "# git clone --depth 1 https://github.com/cooneycw/claude-power-pack/tree/HEAD/mcp-second-opinion\n# See source for mcpServers config block"
+}

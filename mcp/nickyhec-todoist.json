@@ -1,0 +1,7 @@
+{
+  "name": "nickyhec-todoist",
+  "description": "Integrates with Todoist via the Dedalus AI platform, providing 25 tools for tasks, projects, sections, comments, and labels.",
+  "source_repo": "nickyhec/todoist-mcp",
+  "source_url": "https://github.com/nickyhec/todoist-mcp",
+  "install": "npx -y todoist-mcp"
+}

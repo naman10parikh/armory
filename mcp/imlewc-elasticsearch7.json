@@ -1,0 +1,7 @@
+{
+  "name": "imlewc-elasticsearch7",
+  "description": "Integrates with Elasticsearch 7.x, providing efficient data management and search capabilities for projects requiring robust analytics within the ecosystem.",
+  "source_repo": "imlewc/elasticsearch7-mcp-server",
+  "source_url": "https://github.com/imlewc/elasticsearch7-mcp-server",
+  "install": "npx -y elasticsearch7-mcp-server"
+}

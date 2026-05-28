@@ -1,0 +1,7 @@
+{
+  "name": "dingdawg-loop",
+  "description": "DingDawg Loop Protocol (DDLP) — safe scheduled AI agents with governance gates. Every loop execution is verified, receipted, and fail-closed. MCP-native, works with CrewAI, LangGraph, Claude Code, Cursor.",
+  "source_repo": "dingdawg/loop-protocol",
+  "source_url": "https://github.com/dingdawg/loop-protocol",
+  "install": "# git clone --depth 1 https://github.com/dingdawg/loop-protocol\n# See source for mcpServers config block"
+}

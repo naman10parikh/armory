@@ -1,0 +1,7 @@
+{
+  "name": "creative-claw",
+  "description": "AI creative studio for generating images, video, audio, and 3D models through natural language.",
+  "source_repo": "creativeclawco/creative-claw-marketplace",
+  "source_url": "https://github.com/creativeclawco/creative-claw-marketplace",
+  "install": "# git clone --depth 1 https://github.com/creativeclawco/creative-claw-marketplace\n# See source for mcpServers config block"
+}

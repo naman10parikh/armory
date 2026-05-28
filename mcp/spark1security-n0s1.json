@@ -1,0 +1,7 @@
+{
+  "name": "spark1security-n0s1",
+  "description": "Secret scanner for collaboration platforms including Slack, Jira, Confluence, Asana, and GitHub.",
+  "source_repo": "spark1security/n0s1-mcp",
+  "source_url": "https://github.com/spark1security/n0s1-mcp",
+  "install": "npx -y n0s1-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "delorenj-super-windows-cli",
+  "description": "Provides unrestricted Windows system access and command execution across multiple shells for remote administration and complex task automation.",
+  "source_repo": "delorenj/super-win-cli-mcp-server",
+  "source_url": "https://github.com/delorenj/super-win-cli-mcp-server",
+  "install": "npx -y super-win-cli-mcp-server"
+}

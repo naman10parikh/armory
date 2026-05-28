@@ -1,0 +1,7 @@
+{
+  "name": "olyport-drought",
+  "description": "Current drought conditions and severity levels across the United States.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/drought/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/drought/mcp\n# See source for mcpServers config block"
+}

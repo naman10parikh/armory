@@ -1,0 +1,7 @@
+{
+  "name": "bug-bounty-mcp-server",
+  "description": "Provides Claude Code with access to a comprehensive bug bounty knowledge base including techniques, payloads, wordlists, and real-world reports through 14 tools for searching, retrieving payloads, and assessing report quality.",
+  "source_repo": "R-s0n/rs0n-bug-bounty-mcp-server",
+  "source_url": "https://github.com/R-s0n/rs0n-bug-bounty-mcp-server",
+  "install": "npx -y rs0n-bug-bounty-mcp-server"
+}

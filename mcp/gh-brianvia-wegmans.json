@@ -1,0 +1,7 @@
+{
+  "name": "gh-brianvia-wegmans",
+  "description": "Search products, manage carts, and analyze purchase history from Wegmans grocery stores.",
+  "source_repo": "brianvia/wegmans-mcp",
+  "source_url": "https://github.com/brianvia/wegmans-mcp",
+  "install": "npx -y wegmans-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nazar256-user-prompt",
+  "description": "Enables Cursor users to provide additional input during AI generation through interactive dialog boxes, creating a more dynamic experience without interrupting the workflow.",
+  "source_repo": "nazar256/user-prompt-mcp",
+  "source_url": "https://github.com/nazar256/user-prompt-mcp",
+  "install": "npx -y user-prompt-mcp"
+}

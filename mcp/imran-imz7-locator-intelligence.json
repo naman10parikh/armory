@@ -1,0 +1,7 @@
+{
+  "name": "imran-imz7-locator-intelligence",
+  "description": "Generates, validates, ranks, and heals UI element locators using DOM/XML analysis and visual correlation for Playwright automation.",
+  "source_repo": "imran-imz7/lims-mcp",
+  "source_url": "https://github.com/imran-imz7/lims-mcp",
+  "install": "npx -y lims-mcp"
+}

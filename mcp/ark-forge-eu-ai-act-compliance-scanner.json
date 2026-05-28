@@ -1,0 +1,7 @@
+{
+  "name": "ark-forge-eu-ai-act-compliance-scanner",
+  "description": "Scans codebases for AI framework usage and checks compliance against EU AI Act requirements with risk classification and remediation guidance.",
+  "source_repo": "ark-forge/mcp-eu-ai-act",
+  "source_url": "https://github.com/ark-forge/mcp-eu-ai-act",
+  "install": "# git clone --depth 1 https://github.com/ark-forge/mcp-eu-ai-act\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "article-scraper-mcp",
+  "description": "Enables fetching and parsing news articles from URLs, extracting title, text, author, and publication date.",
+  "source_repo": "dmitriiweb/article-scraper-mcp",
+  "source_url": "https://github.com/dmitriiweb/article-scraper-mcp",
+  "install": "npx -y article-scraper-mcp"
+}

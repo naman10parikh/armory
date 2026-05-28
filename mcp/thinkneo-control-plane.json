@@ -1,0 +1,7 @@
+{
+  "name": "thinkneo-control-plane",
+  "description": "Enterprise AI governance control plane with spend tracking, guardrails, policy enforcement, and compliance monitoring.",
+  "source_repo": "thinkneo-ai/mcp-server",
+  "source_url": "https://github.com/thinkneo-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/thinkneo-ai/mcp-server\n# See source for mcpServers config block"
+}

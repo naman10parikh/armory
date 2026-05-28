@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-opencellid",
+  "description": "OpenCellID cell tower geolocation database for converting cell tower IDs to GPS coordinates via Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-opencellid",
+  "source_url": "https://github.com/pipeworx-io/mcp-opencellid",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-opencellid\n# See source for mcpServers config block"
+}

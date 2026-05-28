@@ -1,0 +1,7 @@
+{
+  "name": "contendeo",
+  "description": "Multimodal video analysis — transcription, vision keyframe analysis, and OCR for any video URL.",
+  "source_repo": "0xkaroshi/contendeo-mcp",
+  "source_url": "https://github.com/0xkaroshi/contendeo-mcp",
+  "install": "npx -y contendeo-mcp"
+}

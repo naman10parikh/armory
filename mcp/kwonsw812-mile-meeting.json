@@ -1,0 +1,7 @@
+{
+  "name": "kwonsw812-mile-meeting",
+  "description": "Manage conference room reservations and bookings through the Mile Meeting API.",
+  "source_repo": "kwonsw812/mile-mcp",
+  "source_url": "https://github.com/kwonsw812/mile-mcp",
+  "install": "npx -y mile-mcp"
+}

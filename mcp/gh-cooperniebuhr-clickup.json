@@ -1,0 +1,7 @@
+{
+  "name": "gh-cooperniebuhr-clickup",
+  "description": "Manage tasks, docs, time tracking, and chat in ClickUp with OAuth 2.1 authentication.",
+  "source_repo": "cooperniebuhr/clickup-mcp-server",
+  "source_url": "https://github.com/cooperniebuhr/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

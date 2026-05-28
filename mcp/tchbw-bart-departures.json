@@ -1,0 +1,7 @@
+{
+  "name": "tchbw-bart-departures",
+  "description": "Integrates with BART's API to provide real-time train departure information in San Francisco.",
+  "source_repo": "tchbw/bart-mcp",
+  "source_url": "https://github.com/tchbw/bart-mcp",
+  "install": "npx -y bart-mcp"
+}

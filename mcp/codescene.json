@@ -1,0 +1,7 @@
+{
+  "name": "codescene",
+  "description": "Code Health analysis and technical debt management",
+  "source_repo": "codescene-oss/codescene-mcp-server",
+  "source_url": "https://github.com/codescene-oss/codescene-mcp-server",
+  "install": "npx -y codescene-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dawdler-g-atomic-computer",
+  "description": "Provides low-level desktop automation with screen capture, window inspection, and mouse/keyboard input.",
+  "source_repo": "dawdler-g/atomic-computer-mcp",
+  "source_url": "https://github.com/dawdler-g/atomic-computer-mcp",
+  "install": "npx -y atomic-computer-mcp"
+}

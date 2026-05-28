@@ -1,0 +1,7 @@
+{
+  "name": "canva",
+  "description": "Canva integration that enables creating new designs, autofilling templates with content, searching existing designs, and exporting them as PDFs or images for automated design workflows and visual content generation.",
+  "source_repo": "",
+  "source_url": "https://www.canva.dev/docs/connect/canva-mcp-server-setup/",
+  "install": "# git clone --depth 1 https://www.canva.dev/docs/connect/canva-mcp-server-setup/\n# See source for mcpServers config block"
+}

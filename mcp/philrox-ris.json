@@ -1,0 +1,7 @@
+{
+  "name": "philrox-ris",
+  "description": "Searches and retrieves Austrian federal laws, state laws, court decisions, law gazettes, and government bills from the official Rechtsinformationssystem (RIS) Open Government Data API.",
+  "source_repo": "honeyfield-org/ris-mcp-ts",
+  "source_url": "https://github.com/honeyfield-org/ris-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/honeyfield-org/ris-mcp-ts\n# See source for mcpServers config block"
+}

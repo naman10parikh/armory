@@ -1,0 +1,7 @@
+{
+  "name": "imagesorcery-mcp",
+  "description": "An MCP server providing tools for image processing operations",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/imagesorcery.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/imagesorcery.json\n# See source for mcpServers config block"
+}

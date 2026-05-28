@@ -1,0 +1,7 @@
+{
+  "name": "jovezhong-mcp-timeplus",
+  "description": "MCP server for Apache Kafka and Timeplus. Able to list Kafka topics, poll Kafka messages, save Kafka data locally and query streaming data with SQL via Timeplus",
+  "source_repo": "jovezhong/mcp-timeplus",
+  "source_url": "https://github.com/jovezhong/mcp-timeplus",
+  "install": "# git clone --depth 1 https://github.com/jovezhong/mcp-timeplus\n# See source for mcpServers config block"
+}

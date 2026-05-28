@@ -1,0 +1,7 @@
+{
+  "name": "foxit-pdf-api",
+  "description": "Cloud-based PDF processing and manipulation through Foxit's PDF Services API",
+  "source_repo": "foxitsoftware/foxit-pdf-api-mcp-server",
+  "source_url": "https://github.com/foxitsoftware/foxit-pdf-api-mcp-server",
+  "install": "npx -y foxit-pdf-api-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kommo-mcp-server",
+  "description": "Enables AI assistants to autonomously interact with Kommo CRM, providing tools for managing pipelines, leads, contacts, and custom fields via the Kommo API v4.",
+  "source_repo": "wdavidce/kommo-mcp-server",
+  "source_url": "https://github.com/wdavidce/kommo-mcp-server",
+  "install": "npx -y kommo-mcp-server"
+}

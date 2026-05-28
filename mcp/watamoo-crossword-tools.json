@@ -1,0 +1,7 @@
+{
+  "name": "watamoo-crossword-tools",
+  "description": "Provides crossword puzzle creation and solving tools with grid management, clue handling, and puzzle analysis capabilities for educational and entertainment applications.",
+  "source_repo": "watamoo/mcp-crossword-tools",
+  "source_url": "https://github.com/watamoo/mcp-crossword-tools",
+  "install": "# git clone --depth 1 https://github.com/watamoo/mcp-crossword-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "delphi-compiler",
+  "description": "Integrates with RAD Studio compilers and MSBuild to compile Delphi/Object Pascal projects with automatic project discovery, multi-platform support, and detailed error reporting.",
+  "source_repo": "unununununununun/delphi-compiler-mcp",
+  "source_url": "https://github.com/unununununununun/delphi-compiler-mcp",
+  "install": "npx -y delphi-compiler-mcp"
+}

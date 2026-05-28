@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-data-gov-sg",
+  "description": "Access Singapore's official government open data portal including static datasets and real-time environmental, transport, and public service feeds.",
+  "source_repo": "pipeworx-io/mcp-data-gov-sg",
+  "source_url": "https://github.com/pipeworx-io/mcp-data-gov-sg",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-data-gov-sg\n# See source for mcpServers config block"
+}

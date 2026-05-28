@@ -1,0 +1,7 @@
+{
+  "name": "mql5-help-mcp",
+  "description": "Provides AI coding assistants with local access to 4500+ MQL5 documentation files and supplementary ebooks via MCP, enabling efficient search, browsing, and error diagnosis for MQL5 development.",
+  "source_repo": "caoshuo594/mql5-help-mcp",
+  "source_url": "https://github.com/caoshuo594/mql5-help-mcp",
+  "install": "npx -y mql5-help-mcp"
+}

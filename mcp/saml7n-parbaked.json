@@ -1,0 +1,7 @@
+{
+  "name": "saml7n-parbaked",
+  "description": "Scaffold invite-only Python FastAPI apps with auth, admin dashboard, local dev server, and Fly.io deployment.",
+  "source_repo": "saml7n/parbaked",
+  "source_url": "https://github.com/saml7n/parbaked",
+  "install": "# git clone --depth 1 https://github.com/saml7n/parbaked\n# See source for mcpServers config block"
+}

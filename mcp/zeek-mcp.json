@@ -1,0 +1,7 @@
+{
+  "name": "zeek-mcp",
+  "description": "An MCP server for Zeek and Suricata, providing intelligent log parsing, querying, and analysis over network security monitoring data.",
+  "source_repo": "solomonneas/zeek-mcp",
+  "source_url": "https://github.com/solomonneas/zeek-mcp",
+  "install": "npx -y zeek-mcp"
+}

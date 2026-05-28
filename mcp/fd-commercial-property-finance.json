@@ -1,0 +1,7 @@
+{
+  "name": "fd-commercial-property-finance",
+  "description": "UK property finance calculators: bridging costs, development appraisal, BTL stress test, and stamp duty.",
+  "source_repo": "fdcommercial/property-finance-mcp",
+  "source_url": "https://github.com/fdcommercial/property-finance-mcp",
+  "install": "npx -y property-finance-mcp"
+}

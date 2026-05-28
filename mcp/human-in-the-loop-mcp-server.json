@@ -1,0 +1,7 @@
+{
+  "name": "human-in-the-loop-mcp-server",
+  "description": "Enables AI assistants to interact with humans through GUI dialogs for text input, choices, confirmations, and information display.",
+  "source_repo": "animalnots/Human-In-the-Loop-MCP-Server",
+  "source_url": "https://github.com/animalnots/Human-In-the-Loop-MCP-Server",
+  "install": "npx -y Human-In-the-Loop-MCP-Server"
+}

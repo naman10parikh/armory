@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-planfix",
+  "description": "Integrates with Planfix for task, contact, and project management.",
+  "source_repo": "theyahia/planfix-mcp",
+  "source_url": "https://github.com/theyahia/planfix-mcp",
+  "install": "npx -y planfix-mcp"
+}

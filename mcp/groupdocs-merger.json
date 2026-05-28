@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-merger",
+  "description": "Merge, split, and inspect documents across PDF, DOCX, XLSX, PPTX, and 30+ formats via AI agents.",
+  "source_repo": "groupdocs-merger/groupdocs.merger.mcp",
+  "source_url": "https://github.com/groupdocs-merger/groupdocs.merger.mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-merger/groupdocs.merger.mcp\n# See source for mcpServers config block"
+}

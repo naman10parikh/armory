@@ -1,0 +1,7 @@
+{
+  "name": "crmy",
+  "description": "Provides AI agents with operational customer context, including typed revenue objects, persistent state, scoped tools, and human-in-the-loop handoffs through MCP, REST, and CLI.",
+  "source_repo": "crmy-ai/crmy",
+  "source_url": "https://github.com/crmy-ai/crmy",
+  "install": "# git clone --depth 1 https://github.com/crmy-ai/crmy\n# See source for mcpServers config block"
+}

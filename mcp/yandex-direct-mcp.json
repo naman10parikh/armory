@@ -1,0 +1,7 @@
+{
+  "name": "yandex-direct-mcp",
+  "description": "MCP server for Yandex.Direct API v5 enabling management of campaigns, ad groups, ads, keywords, statistics, and account info via 12 tools.",
+  "source_repo": "theYahia/yandex-direct-mcp",
+  "source_url": "https://github.com/theYahia/yandex-direct-mcp",
+  "install": "npx -y yandex-direct-mcp"
+}

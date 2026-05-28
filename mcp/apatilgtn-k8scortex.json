@@ -1,0 +1,7 @@
+{
+  "name": "apatilgtn-k8scortex",
+  "description": "Kubernetes management tools for GKE, AKS, and EKS clusters with RBAC, audit logging, and GitOps support.",
+  "source_repo": "apatilgtn/k8scortex-mcp",
+  "source_url": "https://github.com/apatilgtn/k8scortex-mcp",
+  "install": "npx -y k8scortex-mcp"
+}

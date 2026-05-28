@@ -1,0 +1,7 @@
+{
+  "name": "jjrpf-telegram-bot",
+  "description": "Telegram Bot API integration for AI agent messaging automation.",
+  "source_repo": "jjrpf/telegram-bot-mcp",
+  "source_url": "https://github.com/jjrpf/telegram-bot-mcp",
+  "install": "npx -y telegram-bot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llmse",
+  "description": "Classify websites, analyze SEO and E-E-A-T quality, match advertisers, and discover competitor sites using an LLM-powered search engine.",
+  "source_repo": "",
+  "source_url": "https://llmse.ai",
+  "install": "# git clone --depth 1 https://llmse.ai\n# See source for mcpServers config block"
+}

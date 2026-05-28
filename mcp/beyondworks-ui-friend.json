@@ -1,0 +1,7 @@
+{
+  "name": "beyondworks-ui-friend",
+  "description": "Provides live UI preview with hot reload, element inspection, responsive viewport switching, and multi-framework export.",
+  "source_repo": "beyondworks/ui-inspector",
+  "source_url": "https://github.com/beyondworks/ui-inspector",
+  "install": "# git clone --depth 1 https://github.com/beyondworks/ui-inspector\n# See source for mcpServers config block"
+}

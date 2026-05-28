@@ -1,0 +1,7 @@
+{
+  "name": "devshero-search-scrape",
+  "description": "Combines SearXNG federated search with Rust-native content extraction to provide privacy-focused web search and intelligent scraping across multiple search engines with readability algorithms and specialized documentation parsing.",
+  "source_repo": "cortex-works/cortex-scout",
+  "source_url": "https://github.com/cortex-works/cortex-scout",
+  "install": "# git clone --depth 1 https://github.com/cortex-works/cortex-scout\n# See source for mcpServers config block"
+}

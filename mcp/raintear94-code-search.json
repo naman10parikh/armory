@@ -1,0 +1,7 @@
+{
+  "name": "raintear94-code-search",
+  "description": "Java-focused code exploration toolkit with batch processing and structural parsing",
+  "source_repo": "raintear94/code-search-mcp",
+  "source_url": "https://github.com/raintear94/code-search-mcp",
+  "install": "npx -y code-search-mcp"
+}

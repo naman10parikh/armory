@@ -1,0 +1,7 @@
+{
+  "name": "agentshield-guard",
+  "description": "Runtime gateway for detecting prompt injection and jailbreak attempts in LLM agents.",
+  "source_repo": "dl-eigenart/agentshield-platform",
+  "source_url": "https://github.com/dl-eigenart/agentshield-platform",
+  "install": "# git clone --depth 1 https://github.com/dl-eigenart/agentshield-platform\n# See source for mcpServers config block"
+}

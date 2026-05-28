@@ -1,0 +1,7 @@
+{
+  "name": "rozkoduj-mcp",
+  "description": "Provides AI assistants with market screening, analysis, and scoring across stocks, crypto, and forex, enabling natural language queries for trading insights.",
+  "source_repo": "rozkoduj/rozkoduj-mcp",
+  "source_url": "https://github.com/rozkoduj/rozkoduj-mcp",
+  "install": "npx -y rozkoduj-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "divar-sourcegraph",
+  "description": "Integrates with Sourcegraph's search API to provide advanced code search with regex patterns, language filters, and repository scoping, plus intelligent query guidance and content fetching for exploring codebases and understanding large software projects.",
+  "source_repo": "najva-ai/sourcegraph-mcp",
+  "source_url": "https://github.com/najva-ai/sourcegraph-mcp",
+  "install": "npx -y sourcegraph-mcp"
+}

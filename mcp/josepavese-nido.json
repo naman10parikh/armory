@@ -1,0 +1,7 @@
+{
+  "name": "josepavese-nido",
+  "description": "Fast local VM orchestration with QEMU/KVM and native MCP support for autonomous agents.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/josepavese-nido",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/josepavese-nido\n# See source for mcpServers config block"
+}

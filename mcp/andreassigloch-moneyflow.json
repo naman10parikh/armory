@@ -1,0 +1,7 @@
+{
+  "name": "andreassigloch-moneyflow",
+  "description": "Models money flows between state, citizens, and enterprises with policy simulation and cohort comparison tools.",
+  "source_repo": "andreassigloch/moneyflow-mcp",
+  "source_url": "https://github.com/andreassigloch/moneyflow-mcp",
+  "install": "npx -y moneyflow-mcp"
+}

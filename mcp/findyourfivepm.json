@@ -1,0 +1,7 @@
+{
+  "name": "findyourfivepm",
+  "description": "Discover cities where it's currently 5PM around the world",
+  "source_repo": "",
+  "source_url": "https://findyourfivepm.com",
+  "install": "# git clone --depth 1 https://findyourfivepm.com\n# See source for mcpServers config block"
+}

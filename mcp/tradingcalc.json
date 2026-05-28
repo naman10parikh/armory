@@ -1,0 +1,7 @@
+{
+  "name": "tradingcalc",
+  "description": "Crypto perpetual futures calculator with 19 deterministic tools for liquidation, PnL, and position sizing across 7 exchanges.",
+  "source_repo": "skalinin909/tradingcalc-mcp",
+  "source_url": "https://github.com/skalinin909/tradingcalc-mcp",
+  "install": "npx -y tradingcalc-mcp"
+}

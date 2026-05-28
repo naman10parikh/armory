@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [pre-bash-dispatcher, pre-edit-write-gateguard-fact-force]
-tags: [ecc, hook, PreToolUse]
+tags: [hook, PreToolUse]
 ---
 ## What it is
 PreToolUse hook: Block modifications to linter/formatter config files. Steers agent to fix code instead of weakening configs. (matcher: Write|Edit|MultiEdit).

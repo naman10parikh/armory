@@ -1,0 +1,7 @@
+{
+  "name": "catherinedparnell-finnhub",
+  "description": "Integrates with Finnhub's financial API to provide streamlined access to market news, stock quotes, financials, and recommendation trends.",
+  "source_repo": "catherinedparnell/mcp-finnhub",
+  "source_url": "https://github.com/catherinedparnell/mcp-finnhub",
+  "install": "# git clone --depth 1 https://github.com/catherinedparnell/mcp-finnhub\n# See source for mcpServers config block"
+}

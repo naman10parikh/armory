@@ -1,0 +1,7 @@
+{
+  "name": "rainu-system-control",
+  "description": "Provides cross-platform system control with command execution, filesystem access, and system information gathering through individually configurable and approval-protected tools.",
+  "source_repo": "rainu/mcp-system-control",
+  "source_url": "https://github.com/rainu/mcp-system-control",
+  "install": "# git clone --depth 1 https://github.com/rainu/mcp-system-control\n# See source for mcpServers config block"
+}

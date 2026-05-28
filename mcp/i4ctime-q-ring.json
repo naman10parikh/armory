@@ -1,0 +1,7 @@
+{
+  "name": "i4ctime-q-ring",
+  "description": "Quantum-inspired keyring for AI coding agents with superposition, entanglement, and tunneling mechanics.",
+  "source_repo": "i4ctime/quantum_ring",
+  "source_url": "https://github.com/i4ctime/quantum_ring",
+  "install": "# git clone --depth 1 https://github.com/i4ctime/quantum_ring\n# See source for mcpServers config block"
+}

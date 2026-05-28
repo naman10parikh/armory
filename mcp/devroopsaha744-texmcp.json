@@ -1,0 +1,7 @@
+{
+  "name": "devroopsaha744-texmcp",
+  "description": "An MCP server that converts LaTeX into high-quality PDF documents. It provides tools for rendering both raw LaTeX input and customizable templates, producing shareable, production-ready artifacts such as reports, resumes, and research papers.",
+  "source_repo": "devroopsaha744/TexMCP",
+  "source_url": "https://github.com/devroopsaha744/TexMCP",
+  "install": "# git clone --depth 1 https://github.com/devroopsaha744/TexMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brownbrawh-gong",
+  "description": "Integrates with Gong's sales intelligence platform to analyze call recordings, retrieve transcripts with speaker identification, track conversation topics, and extract customer feedback patterns from sales conversations.",
+  "source_repo": "brownbrawh/gong-mcp-server",
+  "source_url": "https://github.com/brownbrawh/gong-mcp-server",
+  "install": "npx -y gong-mcp-server"
+}

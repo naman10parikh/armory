@@ -1,0 +1,7 @@
+{
+  "name": "digitarald-chatterbox-tts",
+  "description": "Converts text to speech using either high-quality Chatterbox TTS neural models or macOS's built-in 'say' command with configurable expressiveness controls, automatic audio file management, and specialized prompts for daily haikus and code roasts.",
+  "source_repo": "digitarald/chatterbox-mcp",
+  "source_url": "https://github.com/digitarald/chatterbox-mcp",
+  "install": "npx -y chatterbox-mcp"
+}

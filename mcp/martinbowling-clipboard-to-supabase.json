@@ -1,0 +1,7 @@
+{
+  "name": "martinbowling-clipboard-to-supabase",
+  "description": "Monitors your clipboard for images, automatically uploads them to Supabase Storage, and writes the public URL back to the clipboard for seamless sharing across platforms.",
+  "source_repo": "martinbowling/clipboard-to-supabase-mcp-helper",
+  "source_url": "https://github.com/martinbowling/clipboard-to-supabase-mcp-helper",
+  "install": "# git clone --depth 1 https://github.com/martinbowling/clipboard-to-supabase-mcp-helper\n# See source for mcpServers config block"
+}

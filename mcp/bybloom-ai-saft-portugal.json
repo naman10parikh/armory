@@ -1,0 +1,7 @@
+{
+  "name": "bybloom-ai-saft-portugal",
+  "description": "Parses and validates Portuguese SAF-T XML tax audit files with schema validation, business rule compliance, and executive reporting for Portuguese tax workflows.",
+  "source_repo": "bloomidea/saft-mcp",
+  "source_url": "https://github.com/bloomidea/saft-mcp",
+  "install": "npx -y saft-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vulnebify",
+  "description": "Real-time vulnerability monitoring and threat intelligence for developers",
+  "source_repo": "",
+  "source_url": "https://docs.vulnebify.com/mcp",
+  "install": "# git clone --depth 1 https://docs.vulnebify.com/mcp\n# See source for mcpServers config block"
+}

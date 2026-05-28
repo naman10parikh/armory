@@ -1,0 +1,7 @@
+{
+  "name": "samber-go-playground",
+  "description": "Enables remote execution of Go code using the official Go Playground API with tools for running code with optional vet checking, sharing snippets via public URLs, and combining execution with sharing for immediate testing and distribution.",
+  "source_repo": "samber/go-playground-mcp",
+  "source_url": "https://github.com/samber/go-playground-mcp",
+  "install": "npx -y go-playground-mcp"
+}

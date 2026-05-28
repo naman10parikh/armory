@@ -1,0 +1,7 @@
+{
+  "name": "yelp",
+  "description": "Integrates with Yelp's Fusion AI API to provide business search, detailed information retrieval, and restaurant reservation booking with location-based filtering and conversational query processing.",
+  "source_repo": "yelp/yelp-mcp",
+  "source_url": "https://github.com/yelp/yelp-mcp",
+  "install": "npx -y yelp-mcp"
+}

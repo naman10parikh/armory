@@ -1,0 +1,7 @@
+{
+  "name": "kkb0318-kubernetes",
+  "description": "Integrates with Kubernetes clusters to provide resource management, monitoring, and troubleshooting capabilities across multiple contexts with pod log retrieval, event filtering, and multi-cluster operations.",
+  "source_repo": "kkb0318/kubernetes-mcp",
+  "source_url": "https://github.com/kkb0318/kubernetes-mcp",
+  "install": "npx -y kubernetes-mcp"
+}

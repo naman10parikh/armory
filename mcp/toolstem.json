@@ -1,0 +1,7 @@
+{
+  "name": "toolstem",
+  "description": "Agent-ready financial intelligence tools with derived signals built on market data APIs.",
+  "source_repo": "toolstem/toolstem-mcp-server",
+  "source_url": "https://github.com/toolstem/toolstem-mcp-server",
+  "install": "npx -y toolstem-mcp-server"
+}

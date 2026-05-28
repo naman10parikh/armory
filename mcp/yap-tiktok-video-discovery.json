@@ -1,0 +1,7 @@
+{
+  "name": "yap-tiktok-video-discovery",
+  "description": "Automates TikTok video discovery through hashtag searches and trending content retrieval with anti-detection measures for content analysis and social media research.",
+  "source_repo": "yap-audio/tiktok-mcp",
+  "source_url": "https://github.com/yap-audio/tiktok-mcp",
+  "install": "npx -y tiktok-mcp"
+}

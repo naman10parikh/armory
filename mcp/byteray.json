@@ -1,0 +1,7 @@
+{
+  "name": "byteray",
+  "description": "Provides AI-augmented binary vulnerability analysis with tools for taint tracing, zero-day hunting, and reverse code engineering.",
+  "source_repo": "",
+  "source_url": "https://mcp.byteray.ai/mcp",
+  "install": "# git clone --depth 1 https://mcp.byteray.ai/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verybigsad-nginx-proxy-manager",
+  "description": "Manages Nginx Proxy Manager instances with 50 tools covering proxy hosts, SSL certificates, redirection hosts, streams, access lists, users, and settings.",
+  "source_repo": "verybigsad/nginx-proxy-manager-mcp",
+  "source_url": "https://github.com/verybigsad/nginx-proxy-manager-mcp",
+  "install": "npx -y nginx-proxy-manager-mcp"
+}

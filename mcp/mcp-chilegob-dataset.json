@@ -1,0 +1,7 @@
+{
+  "name": "mcp-chilegob-dataset",
+  "description": "Enables AI assistants to search, read, and explore thousands of public datasets from Chile's open government data portal (datos.gob.cl) without requiring an API key.",
+  "source_repo": "gerardbourguett/mcp-chilegob-dataset",
+  "source_url": "https://github.com/gerardbourguett/mcp-chilegob-dataset",
+  "install": "# git clone --depth 1 https://github.com/gerardbourguett/mcp-chilegob-dataset\n# See source for mcpServers config block"
+}

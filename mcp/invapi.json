@@ -1,0 +1,7 @@
+{
+  "name": "invapi",
+  "description": "Extract, convert, and validate invoices across UBL, CII, XRechnung, ZUGFeRD, PDF, and Excel formats via the Invapi API.",
+  "source_repo": "invapi-org/invapi-mcp",
+  "source_url": "https://github.com/invapi-org/invapi-mcp",
+  "install": "npx -y invapi-mcp"
+}

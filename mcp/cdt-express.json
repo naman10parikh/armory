@@ -1,0 +1,7 @@
+{
+  "name": "cdt-express",
+  "description": "Access RiskThinking's climate risk and transition metrics via the CDT Express API.",
+  "source_repo": "riskthinking/cdt-express-mcp",
+  "source_url": "https://github.com/riskthinking/cdt-express-mcp",
+  "install": "npx -y cdt-express-mcp"
+}

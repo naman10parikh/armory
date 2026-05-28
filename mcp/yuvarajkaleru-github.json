@@ -1,0 +1,7 @@
+{
+  "name": "yuvarajkaleru-github",
+  "description": "Integrates with GitHub API to list public repositories and retrieve README content for repository discovery and documentation access.",
+  "source_repo": "yuvarajkaleru/github-mcp-server",
+  "source_url": "https://github.com/yuvarajkaleru/github-mcp-server",
+  "install": "npx -y github-mcp-server"
+}

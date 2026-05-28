@@ -1,0 +1,7 @@
+{
+  "name": "edwinbernadus-nocodb-mcp-server",
+  "description": "Nocodb database integration, read and write capabilities",
+  "source_repo": "edwinbernadus/nocodb-mcp-server",
+  "source_url": "https://github.com/edwinbernadus/nocodb-mcp-server",
+  "install": "npx -y nocodb-mcp-server"
+}

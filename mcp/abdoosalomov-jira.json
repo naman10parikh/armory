@@ -1,0 +1,7 @@
+{
+  "name": "abdoosalomov-jira",
+  "description": "Connects to self-hosted Jira instances for issue management and project tracking.",
+  "source_repo": "abdoosalomov/jira-mcp",
+  "source_url": "https://github.com/abdoosalomov/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

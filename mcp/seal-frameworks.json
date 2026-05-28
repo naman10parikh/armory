@@ -1,0 +1,7 @@
+{
+  "name": "seal-frameworks",
+  "description": "Read-only access to Security Alliance (SEAL) security framework documentation for Web3 builders.",
+  "source_repo": "security-alliance/frameworks-mcp",
+  "source_url": "https://github.com/security-alliance/frameworks-mcp",
+  "install": "npx -y frameworks-mcp"
+}

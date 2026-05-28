@@ -1,0 +1,7 @@
+{
+  "name": "token-pilot",
+  "description": "MCP server that reduces token consumption in AI coding assistants by up to 90% via structural reads, PreToolUse hooks, and tp-\\* subagents.",
+  "source_repo": "Digital-Threads/token-pilot",
+  "source_url": "https://github.com/Digital-Threads/token-pilot",
+  "install": "# git clone --depth 1 https://github.com/Digital-Threads/token-pilot\n# See source for mcpServers config block"
+}

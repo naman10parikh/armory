@@ -1,0 +1,7 @@
+{
+  "name": "stackhawk",
+  "description": "Dynamic application security testing and API security scanning platform integration",
+  "source_repo": "stackhawk/stackhawk-mcp",
+  "source_url": "https://github.com/stackhawk/stackhawk-mcp",
+  "install": "npx -y stackhawk-mcp"
+}

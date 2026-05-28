@@ -1,0 +1,7 @@
+{
+  "name": "evc-team-relay-mcp",
+  "description": "Give AI agents read/write access to your Obsidian vault via MCP",
+  "source_repo": "entire-vc/evc-team-relay-mcp",
+  "source_url": "https://github.com/entire-vc/evc-team-relay-mcp",
+  "install": "npx -y evc-team-relay-mcp"
+}

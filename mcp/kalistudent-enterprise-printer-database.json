@@ -1,0 +1,7 @@
+{
+  "name": "kalistudent-enterprise-printer-database",
+  "description": "Provides enterprise printer information and tools for sales teams conducting product research, service technicians performing diagnostics, and IT departments evaluating fleet deployments across major manufacturers including HP, Canon, Kyocera, Konica Minolta, Sharp, Lexmark, Ricoh, Brother, and Epson with search, comparison, TCO calculations, troubleshooting, and configuration capabilities.",
+  "source_repo": "kalistudent/pc-hardware-mcp",
+  "source_url": "https://github.com/kalistudent/pc-hardware-mcp",
+  "install": "npx -y pc-hardware-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mgthompo1-anchorr",
+  "description": "Agent-native CRM with 25 tools for contact enrichment, deal management, sequences, and autonomous prospecting.",
+  "source_repo": "mgthompo1/anchorr-mcp",
+  "source_url": "https://github.com/mgthompo1/anchorr-mcp",
+  "install": "npx -y anchorr-mcp"
+}

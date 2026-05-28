@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-ror",
+  "description": "Queries ROR for canonical identifiers and metadata for research institutions.",
+  "source_repo": "pipeworx-io/mcp-ror",
+  "source_url": "https://github.com/pipeworx-io/mcp-ror",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ror\n# See source for mcpServers config block"
+}

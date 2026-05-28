@@ -1,0 +1,7 @@
+{
+  "name": "kanren3-windbg",
+  "description": "Exposes WinDbg debugging sessions as an MCP server for command execution, documentation lookup, and target interruption.",
+  "source_repo": "kanren3/windbg-mcp-rs",
+  "source_url": "https://github.com/kanren3/windbg-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/kanren3/windbg-mcp-rs\n# See source for mcpServers config block"
+}

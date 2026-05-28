@@ -1,0 +1,7 @@
+{
+  "name": "okahu",
+  "description": "Manage genAI trace data from Okahu's AI observability platform.",
+  "source_repo": "",
+  "source_url": "https://www.okahu.ai",
+  "install": "# git clone --depth 1 https://www.okahu.ai\n# See source for mcpServers config block"
+}

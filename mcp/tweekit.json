@@ -1,0 +1,7 @@
+{
+  "name": "tweekit",
+  "description": "Universal file conversion service supporting 400+ formats including legacy Office, design files, and CAD documents",
+  "source_repo": "equilibrium-team/tweekit-mcp",
+  "source_url": "https://github.com/equilibrium-team/tweekit-mcp",
+  "install": "npx -y tweekit-mcp"
+}

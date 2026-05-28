@@ -1,0 +1,7 @@
+{
+  "name": "geekmai90-remio",
+  "description": "Manage Remio notes and knowledge base with 8 tools for search, content reading, creation, updates, and RAG queries.",
+  "source_repo": "geekmai90/remio-mcp",
+  "source_url": "https://github.com/geekmai90/remio-mcp",
+  "install": "npx -y remio-mcp"
+}

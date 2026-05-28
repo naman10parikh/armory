@@ -1,0 +1,7 @@
+{
+  "name": "crash-ept-docrocket",
+  "description": "Generate on-brand proposals, reports, and contracts by auto-extracting brand identity from any URL.",
+  "source_repo": "crash-ept/docrocket",
+  "source_url": "https://github.com/crash-ept/docrocket",
+  "install": "# git clone --depth 1 https://github.com/crash-ept/docrocket\n# See source for mcpServers config block"
+}

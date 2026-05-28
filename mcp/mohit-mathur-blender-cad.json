@@ -1,0 +1,7 @@
+{
+  "name": "mohit-mathur-blender-cad",
+  "description": "Controls a live Blender 3D session with 51 tools covering modeling, materials, lighting, rendering, and animation.",
+  "source_repo": "mohit-mathur/cad-mcp-blender",
+  "source_url": "https://github.com/mohit-mathur/cad-mcp-blender",
+  "install": "# git clone --depth 1 https://github.com/mohit-mathur/cad-mcp-blender\n# See source for mcpServers config block"
+}

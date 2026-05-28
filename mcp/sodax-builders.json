@@ -1,0 +1,7 @@
+{
+  "name": "sodax-builders",
+  "description": "Live cross-network DeFi API data and SDK docs for 17+ blockchain networks.",
+  "source_repo": "gosodax/builders-sodax-mcp-server",
+  "source_url": "https://github.com/gosodax/builders-sodax-mcp-server",
+  "install": "npx -y builders-sodax-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "multi-mail-mcp",
+  "description": "Local-first MCP server for agents that need to work across multiple Gmail and Microsoft 365 accounts without cloud token storage.",
+  "source_repo": "claygeo/multi-mail-mcp",
+  "source_url": "https://github.com/claygeo/multi-mail-mcp",
+  "install": "npx -y multi-mail-mcp"
+}

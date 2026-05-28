@@ -1,0 +1,7 @@
+{
+  "name": "blitzdotdev-iphone-control",
+  "description": "Controls real iPhones and simulators on macOS through Facebook's idb and WebDriverAgent for automated device discovery, UI interaction, screenshot capture, and app testing.",
+  "source_repo": "blitzdotdev/iphone-mcp",
+  "source_url": "https://github.com/blitzdotdev/iphone-mcp",
+  "install": "npx -y iphone-mcp"
+}

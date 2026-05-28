@@ -1,0 +1,7 @@
+{
+  "name": "ajeetraina-jetson-nano",
+  "description": "Provides remote management capabilities for NVIDIA Jetson Nano edge computing systems through SSH connections, enabling hardware control, thermal management, GPIO operations, CUDA verification, ML framework installation, TensorRT model optimization, system administration, and container orchestration with GPU acceleration.",
+  "source_repo": "ajeetraina/jetsonmcp",
+  "source_url": "https://github.com/ajeetraina/jetsonmcp",
+  "install": "# git clone --depth 1 https://github.com/ajeetraina/jetsonmcp\n# See source for mcpServers config block"
+}

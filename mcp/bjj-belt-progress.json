@@ -1,0 +1,7 @@
+{
+  "name": "bjj-belt-progress",
+  "description": "BJJ Belt Progress MCP server — instant access to IBJJF belt requirements, progression timeline calculations, and BJJ training facts for any AI assistant. Three tools: get belt requirements by rank, calculate your personal timeline from belt and training frequency, and retrieve data-backed BJJ progre",
+  "source_repo": "",
+  "source_url": "https://bjj-belt-progress.web.app/",
+  "install": "# git clone --depth 1 https://bjj-belt-progress.web.app/\n# See source for mcpServers config block"
+}

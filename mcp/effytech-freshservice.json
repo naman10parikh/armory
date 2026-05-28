@@ -1,0 +1,7 @@
+{
+  "name": "effytech-freshservice",
+  "description": "Enable AI assistants to manage IT service tickets and operations by integrating directly with Freshservice. Automate ticket creation, updates, and asset management to streamline your IT support workflows. Accelerate routine IT service tasks with seamless AI-driven interactions.",
+  "source_repo": "effytech/freshservice_mcp",
+  "source_url": "https://github.com/effytech/freshservice_mcp",
+  "install": "npx -y freshservice_mcp"
+}

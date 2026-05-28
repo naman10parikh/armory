@@ -1,0 +1,7 @@
+{
+  "name": "trxo-ldap",
+  "description": "Integrates with LDAP directories to enable search, retrieval, and management operations including user provisioning, entry modification, and automated directory administration with secure authentication and connection handling.",
+  "source_repo": "trxo/ldap-mcp",
+  "source_url": "https://github.com/trxo/ldap-mcp",
+  "install": "npx -y ldap-mcp"
+}

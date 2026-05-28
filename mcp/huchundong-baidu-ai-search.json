@@ -1,0 +1,7 @@
+{
+  "name": "huchundong-baidu-ai-search",
+  "description": "Integrates with Baidu's search engine through browser automation to extract search results, titles, URLs, and content snippets for accessing Chinese web content and market research.",
+  "source_repo": "huchundong/baidu-ai-search",
+  "source_url": "https://github.com/huchundong/baidu-ai-search",
+  "install": "# git clone --depth 1 https://github.com/huchundong/baidu-ai-search\n# See source for mcpServers config block"
+}

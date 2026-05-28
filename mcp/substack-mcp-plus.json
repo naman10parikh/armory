@@ -1,0 +1,7 @@
+{
+  "name": "substack-mcp-plus",
+  "description": "Create, manage, and publish Substack posts with full rich text formatting directly from Claude Desktop or any MCP-compatible client.",
+  "source_repo": "ty13r/substack-mcp-plus",
+  "source_url": "https://github.com/ty13r/substack-mcp-plus",
+  "install": "# git clone --depth 1 https://github.com/ty13r/substack-mcp-plus\n# See source for mcpServers config block"
+}

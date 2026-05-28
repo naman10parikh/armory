@@ -1,0 +1,7 @@
+{
+  "name": "google-sheets",
+  "description": "Integrates with Google Sheets to enable spreadsheet creation, editing, and formatting capabilities through specialized Python tools built with FastMCP framework, requiring Google Cloud OAuth authentication.",
+  "source_repo": "akchro/google-sheets-mcp",
+  "source_url": "https://github.com/akchro/google-sheets-mcp",
+  "install": "npx -y google-sheets-mcp"
+}

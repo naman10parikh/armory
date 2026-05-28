@@ -1,0 +1,7 @@
+{
+  "name": "malekjabri-ibm-baw",
+  "description": "Manages IBM Business Automation Workflow (BAW) administration including authentication, snapshot installation, and monitoring — not an official IBM product.",
+  "source_repo": "malekjabri/baw-admin-mcp-server-standalone",
+  "source_url": "https://github.com/malekjabri/baw-admin-mcp-server-standalone",
+  "install": "# git clone --depth 1 https://github.com/malekjabri/baw-admin-mcp-server-standalone\n# See source for mcpServers config block"
+}

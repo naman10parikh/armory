@@ -1,0 +1,7 @@
+{
+  "name": "hyperd",
+  "description": "DeFi data and analytics platform providing token security, yield recommendations, DEX quotes, and wallet analysis via x402 micropayments.",
+  "source_repo": "hyperd-ai/hyperd-mcp",
+  "source_url": "https://github.com/hyperd-ai/hyperd-mcp",
+  "install": "npx -y hyperd-mcp"
+}

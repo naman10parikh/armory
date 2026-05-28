@@ -1,0 +1,7 @@
+{
+  "name": "ie3jp-illustrator",
+  "description": "Read, manipulate, and export Adobe Illustrator design data on macOS via ExtendScript.",
+  "source_repo": "ie3jp/illustrator-mcp-server",
+  "source_url": "https://github.com/ie3jp/illustrator-mcp-server",
+  "install": "npx -y illustrator-mcp-server"
+}

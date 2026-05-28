@@ -1,0 +1,7 @@
+{
+  "name": "fortnightly-devs-timelooker",
+  "description": "Automated web monitoring system that executes paid search tasks at scheduled intervals, detects genuine changes using duplicate detection, and sends email notifications when new results are found.",
+  "source_repo": "fortnightly-devs/mcp-x402-task-scheduler",
+  "source_url": "https://github.com/fortnightly-devs/mcp-x402-task-scheduler",
+  "install": "# git clone --depth 1 https://github.com/fortnightly-devs/mcp-x402-task-scheduler\n# See source for mcpServers config block"
+}

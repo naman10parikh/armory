@@ -1,0 +1,7 @@
+{
+  "name": "dickiedyce-obsidian-cli",
+  "description": "Wraps the official Obsidian CLI for note management, search, metadata, tasks, and templates in Obsidian vaults.",
+  "source_repo": "dickiedyce/obsidian-ts-mcp",
+  "source_url": "https://github.com/dickiedyce/obsidian-ts-mcp",
+  "install": "npx -y obsidian-ts-mcp"
+}

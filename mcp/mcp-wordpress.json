@@ -1,0 +1,7 @@
+{
+  "name": "mcp-wordpress",
+  "description": "Manages WordPress sites via the REST API, including posts, pages, media, and users.",
+  "source_repo": "leonardobora/mcp-wordpress",
+  "source_url": "https://github.com/leonardobora/mcp-wordpress",
+  "install": "# git clone --depth 1 https://github.com/leonardobora/mcp-wordpress\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "puchunjie-word-document-tools",
+  "description": "Enables natural language-driven Word document creation, editing, and formatting through a Node.js server that integrates seamlessly with development environments for document automation workflows.",
+  "source_repo": "puchunjie/doc-tools-mcp",
+  "source_url": "https://github.com/puchunjie/doc-tools-mcp",
+  "install": "npx -y doc-tools-mcp"
+}

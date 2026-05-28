@@ -1,0 +1,7 @@
+{
+  "name": "gh-joinquantish-kalshi",
+  "description": "Self-hosted trading server for Kalshi prediction markets via DFlow on Solana.",
+  "source_repo": "joinquantish/kalshi-mcp",
+  "source_url": "https://github.com/joinquantish/kalshi-mcp",
+  "install": "npx -y kalshi-mcp"
+}

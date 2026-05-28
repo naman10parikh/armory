@@ -1,0 +1,7 @@
+{
+  "name": "vishaltorc-subconscious",
+  "description": "Local-first semantic memory layer for MCP agents with recall, remember, forget, and stats tools backed by ChromaDB.",
+  "source_repo": "vishaltorc/subconscious-mcp",
+  "source_url": "https://github.com/vishaltorc/subconscious-mcp",
+  "install": "npx -y subconscious-mcp"
+}

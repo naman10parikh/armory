@@ -1,0 +1,7 @@
+{
+  "name": "push-based-angular-toolkit",
+  "description": "Provides Angular development teams with component analysis, design system migration support, and automated refactoring workflows including deprecated CSS detection, component contract generation, and validation steps for modernizing legacy codebases.",
+  "source_repo": "push-based/angular-toolkit-mcp",
+  "source_url": "https://github.com/push-based/angular-toolkit-mcp",
+  "install": "npx -y angular-toolkit-mcp"
+}

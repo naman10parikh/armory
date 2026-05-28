@@ -1,0 +1,7 @@
+{
+  "name": "ai-aviate-better-notion",
+  "description": "Operate Notion with a single Markdown document in one call.",
+  "source_repo": "ai-aviate/better-mcp-notion",
+  "source_url": "https://github.com/ai-aviate/better-mcp-notion",
+  "install": "# git clone --depth 1 https://github.com/ai-aviate/better-mcp-notion\n# See source for mcpServers config block"
+}

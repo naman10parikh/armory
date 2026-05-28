@@ -1,0 +1,7 @@
+{
+  "name": "flowvenue",
+  "description": "Enterprise workflow automation platform exposing business processes as AI-callable MCP tools for approvals, CRM, HR, expense management, and support operations.",
+  "source_repo": "flowvenue-it/flowvenue-mcp-server",
+  "source_url": "https://github.com/flowvenue-it/flowvenue-mcp-server",
+  "install": "npx -y flowvenue-mcp-server"
+}

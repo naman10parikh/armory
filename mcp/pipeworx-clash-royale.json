@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-clash-royale",
+  "description": "Clash Royale player, clan, war, tournament, card, and rankings data via the Supercell developer API.",
+  "source_repo": "pipeworx-io/mcp-clash-royale",
+  "source_url": "https://github.com/pipeworx-io/mcp-clash-royale",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-clash-royale\n# See source for mcpServers config block"
+}

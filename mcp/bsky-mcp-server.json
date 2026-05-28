@@ -1,0 +1,7 @@
+{
+  "name": "bsky-mcp-server",
+  "description": "Bsky Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "brianellin/bsky-mcp-server",
+  "source_url": "https://mcp.so/server/bsky-mcp-server/brianellin",
+  "install": "npx -y bsky-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clck0622-c2c",
+  "description": "LAN-based Claude Code agent collaboration via mDNS discovery and WebSocket messaging.",
+  "source_repo": "clck0622/c2c-mcp",
+  "source_url": "https://github.com/clck0622/c2c-mcp",
+  "install": "npx -y c2c-mcp"
+}

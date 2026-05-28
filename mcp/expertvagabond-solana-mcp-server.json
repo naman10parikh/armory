@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-solana-mcp-server",
+  "description": "25 tools for Solana blockchain — wallet management, SOL/SPL token transfers, SPL token creation and minting, account operations, and network switching (mainnet/devnet/testnet).",
+  "source_repo": "ExpertVagabond/solana-mcp-server",
+  "source_url": "https://github.com/ExpertVagabond/solana-mcp-server",
+  "install": "npx -y solana-mcp-server"
+}

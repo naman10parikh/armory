@@ -1,0 +1,7 @@
+{
+  "name": "wende-cicada",
+  "description": "Code Intelligence for Elixir: module search, function tracking, and PR attribution through tree-sitter AST parsing",
+  "source_repo": "wende/cicada",
+  "source_url": "https://github.com/wende/cicada",
+  "install": "# git clone --depth 1 https://github.com/wende/cicada\n# See source for mcpServers config block"
+}

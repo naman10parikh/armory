@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [php-coding-style, php-hooks]
-tags: [ecc, rules, php]
+tags: [rules, php]
 ---
 ## What it is
 php rule: apply when working on php and you need PHP Patterns.

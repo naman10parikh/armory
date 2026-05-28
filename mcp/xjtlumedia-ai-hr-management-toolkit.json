@@ -1,0 +1,7 @@
+{
+  "name": "xjtlumedia-ai-hr-management-toolkit",
+  "description": "Twenty-four MCP tools for resume parsing, skill extraction, and applicant tracking system management.",
+  "source_repo": "xjtlumedia/ai-hr-management-toolkit",
+  "source_url": "https://github.com/xjtlumedia/ai-hr-management-toolkit",
+  "install": "# git clone --depth 1 https://github.com/xjtlumedia/ai-hr-management-toolkit\n# See source for mcpServers config block"
+}

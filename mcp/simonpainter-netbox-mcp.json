@@ -1,0 +1,7 @@
+{
+  "name": "simonpainter-netbox-mcp",
+  "description": "MCP server for interacting with NetBox API.",
+  "source_repo": "simonpainter/netbox-mcp",
+  "source_url": "https://github.com/simonpainter/netbox-mcp",
+  "install": "npx -y netbox-mcp"
+}

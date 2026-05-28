@@ -1,0 +1,7 @@
+{
+  "name": "paulopalaoro-cortex-debug-bridge",
+  "description": "VSCode extension exposing embedded systems debug data from Cortex-Debug sessions via a local SSE server.",
+  "source_repo": "paulopalaoro/cortex-mcp-bridge",
+  "source_url": "https://github.com/paulopalaoro/cortex-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/paulopalaoro/cortex-mcp-bridge\n# See source for mcpServers config block"
+}

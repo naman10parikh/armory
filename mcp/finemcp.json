@@ -1,0 +1,7 @@
+{
+  "name": "finemcp",
+  "description": "A production-grade Go framework for building MCP servers and clients with 16 middleware, 5 transports, and OpenTelemetry support.",
+  "source_repo": "finemcp/finemcp",
+  "source_url": "https://github.com/finemcp/finemcp",
+  "install": "# git clone --depth 1 https://github.com/finemcp/finemcp\n# See source for mcpServers config block"
+}

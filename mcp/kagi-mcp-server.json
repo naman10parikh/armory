@@ -1,0 +1,7 @@
+{
+  "name": "kagi-mcp-server",
+  "description": "Kagi Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "elliottlawson/kagi-mcp-server",
+  "source_url": "https://mcp.so/server/kagi-mcp-server/elliottlawson",
+  "install": "npx -y kagi-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sydowma-crypto-exchange",
+  "description": "Provides real-time cryptocurrency market data from major exchanges (Bybit, OKX, Binance) including prices, order books, funding rates, and open interest for spot and linear markets.",
+  "source_repo": "sydowma/crypto_exchange_mcp",
+  "source_url": "https://github.com/sydowma/crypto_exchange_mcp/tree/HEAD/crypto_exchange_mcp_python",
+  "install": "npx -y crypto_exchange_mcp"
+}

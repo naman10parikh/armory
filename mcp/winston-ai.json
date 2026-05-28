@@ -1,0 +1,7 @@
+{
+  "name": "winston-ai",
+  "description": "Integrates with Winston AI's detection APIs to analyze text for AI-generated content with sentence-level scoring, detect AI-generated images through metadata analysis, scan text for plagiarism against billions of web pages, and compare texts for similarity with detailed matching breakdowns.",
+  "source_repo": "gowinston-ai/winston-ai-mcp-server",
+  "source_url": "https://github.com/gowinston-ai/winston-ai-mcp-server",
+  "install": "npx -y winston-ai-mcp-server"
+}

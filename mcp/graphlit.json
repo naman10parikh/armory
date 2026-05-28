@@ -1,0 +1,7 @@
+{
+  "name": "graphlit",
+  "description": "Integrates with the Graphlit platform to enable natural language processing tasks and data retrieval from the Graphlit ecosystem.",
+  "source_repo": "graphlit/graphlit-mcp-server",
+  "source_url": "https://github.com/graphlit/graphlit-mcp-server",
+  "install": "npx -y graphlit-mcp-server"
+}

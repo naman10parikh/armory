@@ -1,0 +1,7 @@
+{
+  "name": "connect-via-ai-via-ai",
+  "description": "Relationship intelligence tools for professional networking with connection path discovery and ICP targeting.",
+  "source_repo": "connect-via-ai/mcp-server",
+  "source_url": "https://github.com/connect-via-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/connect-via-ai/mcp-server\n# See source for mcpServers config block"
+}

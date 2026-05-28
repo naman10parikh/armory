@@ -1,0 +1,7 @@
+{
+  "name": "sbomapp",
+  "description": "SBOM generation, vulnerability scanning, and dependency analysis for local projects and Git repositories.",
+  "source_repo": "mcpsbom/sbomapp-mcp-server",
+  "source_url": "https://github.com/mcpsbom/sbomapp-mcp-server",
+  "install": "npx -y sbomapp-mcp-server"
+}

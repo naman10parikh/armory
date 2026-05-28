@@ -1,0 +1,7 @@
+{
+  "name": "da1y-elasticsearch",
+  "description": "Integrates with Elasticsearch to enable index management, document indexing, and powerful search capabilities across large datasets.",
+  "source_repo": "da1y/mcp-server-elasticsearch",
+  "source_url": "https://github.com/da1y/mcp-server-elasticsearch",
+  "install": "# git clone --depth 1 https://github.com/da1y/mcp-server-elasticsearch\n# See source for mcpServers config block"
+}

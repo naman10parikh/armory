@@ -1,0 +1,7 @@
+{
+  "name": "onelogin-mcp",
+  "description": "OneLogin API integration for user, app, role, and authentication management.",
+  "source_repo": "onelogin/onelogin-mcp",
+  "source_url": "https://github.com/onelogin/onelogin-mcp",
+  "install": "npx -y onelogin-mcp"
+}

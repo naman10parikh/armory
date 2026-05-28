@@ -1,0 +1,7 @@
+{
+  "name": "urlbox-urlbox-mcp-server",
+  "description": "📇 🏠 A reliable MCP server for generating and managing screenshots, PDFs, and videos, performing AI-powered screenshot analysis, and extracting web content (Markdown, metadata, and HTML) via the [Urlbox](https://urlbox.com) API.",
+  "source_repo": "urlbox/urlbox-mcp-server",
+  "source_url": "https://github.com/urlbox/urlbox-mcp-server/",
+  "install": "npx -y urlbox-mcp-server"
+}

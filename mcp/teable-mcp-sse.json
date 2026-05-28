@@ -1,0 +1,7 @@
+{
+  "name": "teable-mcp-sse",
+  "description": "Teable Mcp Sse MCP server listed on mcp.so.",
+  "source_repo": "dearlordylord/teable-mcp-sse",
+  "source_url": "https://mcp.so/server/teable-mcp-sse/dearlordylord",
+  "install": "# git clone --depth 1 https://mcp.so/server/teable-mcp-sse/dearlordylord\n# See source for mcpServers config block"
+}

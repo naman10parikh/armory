@@ -1,0 +1,7 @@
+{
+  "name": "jhomen368-steam-reviews",
+  "description": "Searches Steam games, fetches user reviews, and performs sentiment analysis with topic drill-down capabilities.",
+  "source_repo": "jhomen368/steam-reviews-mcp",
+  "source_url": "https://github.com/jhomen368/steam-reviews-mcp",
+  "install": "npx -y steam-reviews-mcp"
+}

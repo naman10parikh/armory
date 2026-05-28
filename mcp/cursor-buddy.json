@@ -1,0 +1,7 @@
+{
+  "name": "cursor-buddy",
+  "description": "Provides development workflow management through a structured .buddy directory system with full-text search across coding rules, knowledge base entries, database schemas, todo tracking, and implementation history for centralized project context and documentation.",
+  "source_repo": "omar-haris/cursor-buddy-mcp",
+  "source_url": "https://github.com/omar-haris/cursor-buddy-mcp",
+  "install": "npx -y cursor-buddy-mcp"
+}

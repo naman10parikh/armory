@@ -1,0 +1,7 @@
+{
+  "name": "kimkun07-k-visual-studio",
+  "description": "Controls Visual Studio 2022 through COM/DTE automation for file operations, building, and debugging.",
+  "source_repo": "kimkun07-k/vs-mcp-server",
+  "source_url": "https://github.com/kimkun07-k/vs-mcp-server",
+  "install": "npx -y vs-mcp-server"
+}

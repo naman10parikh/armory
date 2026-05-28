@@ -1,0 +1,7 @@
+{
+  "name": "jinguyuan",
+  "description": "Automation management system for JinGuYuan Dumpling Restaurant, accessible via MCP from AI agents.",
+  "source_repo": "",
+  "source_url": "https://mcp.jinguyuan.cloud/",
+  "install": "# git clone --depth 1 https://mcp.jinguyuan.cloud/\n# See source for mcpServers config block"
+}

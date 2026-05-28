@@ -1,0 +1,7 @@
+{
+  "name": "arthas-mcp-server",
+  "description": "Java diagnostics MCP server for LLM integration with Alibaba Arthas, enabling analysis and diagnosis of Java applications.",
+  "source_repo": "toby1123yjh/arthas_mcp_server",
+  "source_url": "https://github.com/toby1123yjh/arthas_mcp_server",
+  "install": "npx -y arthas_mcp_server"
+}

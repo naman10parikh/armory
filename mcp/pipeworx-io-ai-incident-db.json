@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-ai-incident-db",
+  "description": "Query real-world AI incident reports from the AI Incident Database (AIID) to research AI safety failures and responsible deployment.",
+  "source_repo": "pipeworx-io/mcp-ai-incident-db",
+  "source_url": "https://github.com/pipeworx-io/mcp-ai-incident-db",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ai-incident-db\n# See source for mcpServers config block"
+}

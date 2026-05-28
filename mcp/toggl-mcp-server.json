@@ -1,0 +1,7 @@
+{
+  "name": "toggl-mcp-server",
+  "description": "Enables AI assistants to interact with the Toggl time tracking API to manage time entries, projects, and workspaces through natural language.",
+  "source_repo": "taiseimiyaji/toggl-mcp-server",
+  "source_url": "https://github.com/taiseimiyaji/toggl-mcp-server",
+  "install": "npx -y toggl-mcp-server"
+}

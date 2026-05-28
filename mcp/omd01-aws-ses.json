@@ -1,0 +1,7 @@
+{
+  "name": "omd01-aws-ses",
+  "description": "Enables direct email sending through Amazon SES with support for HTML content, CC/BCC recipients, and reply-to addressing while maintaining AWS security standards.",
+  "source_repo": "omd01/aws-ses-mcp",
+  "source_url": "https://github.com/omd01/aws-ses-mcp",
+  "install": "npx -y aws-ses-mcp"
+}

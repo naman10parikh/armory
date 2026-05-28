@@ -1,0 +1,7 @@
+{
+  "name": "mikechambers-adobe-creative-suite",
+  "description": "Bridges Adobe Creative Suite applications including Photoshop, Premiere Pro, and InDesign through WebSocket connections and UXP plugins, enabling natural language control of layer manipulation, filter application, video editing with transitions and effects, and document creation workflows.",
+  "source_repo": "mikechambers/adb-mcp",
+  "source_url": "https://github.com/mikechambers/adb-mcp",
+  "install": "npx -y adb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jwwd-modusop",
+  "description": "MCP server for ModusOp — projects, tasks, time tracking, and retainers for AI assistants.",
+  "source_repo": "jwwd-repos/modusop-mcp",
+  "source_url": "https://github.com/jwwd-repos/modusop-mcp",
+  "install": "npx -y modusop-mcp"
+}

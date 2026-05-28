@@ -1,0 +1,7 @@
+{
+  "name": "acedatacloud-mcpnanobanana",
+  "description": "NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.",
+  "source_repo": "AceDataCloud/MCPNanoBanana",
+  "source_url": "https://github.com/AceDataCloud/MCPNanoBanana",
+  "install": "# git clone --depth 1 https://github.com/AceDataCloud/MCPNanoBanana\n# See source for mcpServers config block"
+}

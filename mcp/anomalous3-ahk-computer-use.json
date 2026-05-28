@@ -1,0 +1,7 @@
+{
+  "name": "anomalous3-ahk-computer-use",
+  "description": "Token-efficient Windows computer use MCP server using AutoHotkey v2 and UI Automation for AI agent control of desktop applications.",
+  "source_repo": "anomalous3/ahk-mcp",
+  "source_url": "https://github.com/anomalous3/ahk-mcp",
+  "install": "npx -y ahk-mcp"
+}

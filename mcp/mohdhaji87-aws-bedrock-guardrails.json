@@ -1,0 +1,7 @@
+{
+  "name": "mohdhaji87-aws-bedrock-guardrails",
+  "description": "Provides complete AWS Bedrock Guardrails management with full CRUD operations for all policy types including content filtering, topic restrictions, word blocking, and sensitive information detection, plus Terraform export functionality for infrastructure-as-code workflows.",
+  "source_repo": "mohdhaji87/aws-bedrock-guardrails-mcp",
+  "source_url": "https://github.com/mohdhaji87/aws-bedrock-guardrails-mcp",
+  "install": "npx -y aws-bedrock-guardrails-mcp"
+}

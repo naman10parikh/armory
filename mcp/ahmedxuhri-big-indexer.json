@@ -1,0 +1,7 @@
+{
+  "name": "ahmedxuhri-big-indexer",
+  "description": "Architecture-aware MCP context for large codebases — behavioral boundaries, coupling seams, impact scope, and BGI-TWIN guidance.",
+  "source_repo": "ahmedxuhri/bigindexer",
+  "source_url": "https://github.com/ahmedxuhri/bigindexer",
+  "install": "# git clone --depth 1 https://github.com/ahmedxuhri/bigindexer\n# See source for mcpServers config block"
+}

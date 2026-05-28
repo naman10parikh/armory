@@ -1,0 +1,7 @@
+{
+  "name": "iceener-firecrawl",
+  "description": "Firecrawl web scraping with streamable HTTP transport, batch support for up to 100 URLs, and automatic rate limit handling.",
+  "source_repo": "iceener/firecrawl-streamable-mcp-server",
+  "source_url": "https://github.com/iceener/firecrawl-streamable-mcp-server",
+  "install": "npx -y firecrawl-streamable-mcp-server"
+}

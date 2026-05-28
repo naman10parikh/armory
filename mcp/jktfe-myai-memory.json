@@ -1,0 +1,7 @@
+{
+  "name": "jktfe-myai-memory",
+  "description": "Synchronizes personal memory templates across Claude interfaces, enabling consistent user preferences and response styles without manual copying.",
+  "source_repo": "jktfe/myaimemory-mcp",
+  "source_url": "https://github.com/jktfe/myaimemory-mcp",
+  "install": "npx -y myaimemory-mcp"
+}

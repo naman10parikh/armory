@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-blockchain-verification-mcp",
+  "description": "Verification tools for blockchain transactions and smart contract states.",
+  "source_repo": "csoai-org/blockchain-verification-mcp",
+  "source_url": "https://github.com/csoai-org/blockchain-verification-mcp",
+  "install": "npx -y blockchain-verification-mcp"
+}

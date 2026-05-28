@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-exoplanet-archive",
+  "description": "Query NASA's Exoplanet Archive for confirmed exoplanet data through a hosted MCP endpoint.",
+  "source_repo": "pipeworx-io/mcp-exoplanet-archive",
+  "source_url": "https://github.com/pipeworx-io/mcp-exoplanet-archive",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-exoplanet-archive\n# See source for mcpServers config block"
+}

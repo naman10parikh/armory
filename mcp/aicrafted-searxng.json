@@ -1,0 +1,7 @@
+{
+  "name": "aicrafted-searxng",
+  "description": "Provides web search capabilities by integrating with a self-hosted SearXNG instance.",
+  "source_repo": "aicrafted/searxng-mcp",
+  "source_url": "https://github.com/aicrafted/searxng-mcp",
+  "install": "npx -y searxng-mcp"
+}

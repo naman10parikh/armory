@@ -1,0 +1,7 @@
+{
+  "name": "rett-fra-bonden-lokal-matfinner",
+  "description": "Search 1,433+ Norwegian local-food producers — farms, shops, REKO rings, farm shops, dairies, fishers, bakeries — across 368+ cities. Now includes 13 Bondens marked lokallag + 58 market venues + umbrellas like Hanen, Debio, Norsk Gardsmat, and Mathallen Oslo. Returns ranked producers with contact in",
+  "source_repo": "",
+  "source_url": "https://rettfrabonden.com",
+  "install": "# git clone --depth 1 https://rettfrabonden.com\n# See source for mcpServers config block"
+}

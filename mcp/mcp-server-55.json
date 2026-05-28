@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-55",
+  "description": "MCP Server MCP server listed on mcp.so.",
+  "source_repo": "wubbyweb/MCP-server",
+  "source_url": "https://mcp.so/server/MCP-server/wubbyweb",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-server/wubbyweb\n# See source for mcpServers config block"
+}

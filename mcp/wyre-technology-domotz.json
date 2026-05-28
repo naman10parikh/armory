@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-domotz",
+  "description": "Domotz network monitoring integration for agents, devices, alerts, and discovery.",
+  "source_repo": "wyre-technology/domotz-mcp",
+  "source_url": "https://github.com/wyre-technology/domotz-mcp",
+  "install": "npx -y domotz-mcp"
+}

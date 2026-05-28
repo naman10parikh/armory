@@ -1,0 +1,7 @@
+{
+  "name": "bamboohr",
+  "description": "Full BambooHR API coverage for employees, time off, hiring, benefits, training, goals, reports, webhooks, and file management.",
+  "source_repo": "acalder-techpm/bamboohr-mcp",
+  "source_url": "https://github.com/acalder-techpm/bamboohr-mcp",
+  "install": "npx -y bamboohr-mcp"
+}

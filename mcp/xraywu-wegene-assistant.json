@@ -1,0 +1,7 @@
+{
+  "name": "xraywu-wegene-assistant",
+  "description": "Integrates with WeGene's genetic testing API to access and analyze users' genetic reports for personalized health and ancestry insights.",
+  "source_repo": "xraywu/mcp-wegene-assistant",
+  "source_url": "https://github.com/xraywu/mcp-wegene-assistant",
+  "install": "# git clone --depth 1 https://github.com/xraywu/mcp-wegene-assistant\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pitchlense-mcp",
+  "description": "AI-driven startup risk analysis server using Gemini, providing comprehensive assessments across market, product, team, financial, and other risk categories via MCP tools.",
+  "source_repo": "fastmcp-me/pitchlense-mcp",
+  "source_url": "https://github.com/fastmcp-me/pitchlense-mcp",
+  "install": "npx -y pitchlense-mcp"
+}

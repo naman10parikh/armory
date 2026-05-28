@@ -1,0 +1,7 @@
+{
+  "name": "hugging-face-spaces",
+  "description": "Connects Claude Desktop to Hugging Face Spaces by automatically discovering and exposing Gradio endpoints as tools, enabling seamless interaction with machine learning models for text, image, and audio processing.",
+  "source_repo": "xiyuefox/mcp-hfspace",
+  "source_url": "https://github.com/xiyuefox/mcp-hfspace",
+  "install": "# git clone --depth 1 https://github.com/xiyuefox/mcp-hfspace\n# See source for mcpServers config block"
+}

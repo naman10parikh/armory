@@ -1,0 +1,7 @@
+{
+  "name": "t8y2-dbx",
+  "description": "Query databases from AI agents using connections configured in the DBX database client.",
+  "source_repo": "t8y2/dbx",
+  "source_url": "https://github.com/t8y2/dbx",
+  "install": "# git clone --depth 1 https://github.com/t8y2/dbx\n# See source for mcpServers config block"
+}

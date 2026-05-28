@@ -1,0 +1,7 @@
+{
+  "name": "console-mcp",
+  "description": "An MCP server for streaming and searching macOS Console.app and iOS device logs, enabling real-time log access and debugging through natural language.",
+  "source_repo": "rohithgoud30/console-mcp",
+  "source_url": "https://github.com/rohithgoud30/console-mcp",
+  "install": "npx -y console-mcp"
+}

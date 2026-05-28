@@ -1,0 +1,7 @@
+{
+  "name": "eficode-agileday",
+  "description": "Connects Agileday's talent and skills platform with natural language queries to find employees by competency, retrieve profiles, and explore organizational skill taxonomy.",
+  "source_repo": "eficode/mcp-agileday",
+  "source_url": "https://github.com/eficode/mcp-agileday",
+  "install": "# git clone --depth 1 https://github.com/eficode/mcp-agileday\n# See source for mcpServers config block"
+}

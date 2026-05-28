@@ -1,0 +1,7 @@
+{
+  "name": "jincai-rootdata",
+  "description": "Provides a bridge to the RootData API for searching and retrieving detailed information about blockchain projects, venture capital organizations, and industry professionals for crypto research and investment analysis.",
+  "source_repo": "jincai/rootdata-mcp-server",
+  "source_url": "https://github.com/jincai/rootdata-mcp-server",
+  "install": "npx -y rootdata-mcp-server"
+}

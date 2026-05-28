@@ -1,0 +1,7 @@
+{
+  "name": "letta-railway",
+  "description": "Bridges clients with Letta.ai agents through HTTP transport, enabling stateful conversations with persistent memory, agent lifecycle management, and tool attachment capabilities without requiring conversation history management.",
+  "source_repo": "snycfire-core/letta-mcp-server-railway",
+  "source_url": "https://github.com/snycfire-core/letta-mcp-server-railway",
+  "install": "# git clone --depth 1 https://github.com/snycfire-core/letta-mcp-server-railway\n# See source for mcpServers config block"
+}

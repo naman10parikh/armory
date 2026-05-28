@@ -1,0 +1,7 @@
+{
+  "name": "bmorphism-say",
+  "description": "Leverages macOS 'say' command for customizable text-to-speech functionality, enabling dynamic voice output.",
+  "source_repo": "bmorphism/say-mcp-server",
+  "source_url": "https://github.com/bmorphism/say-mcp-server",
+  "install": "npx -y say-mcp-server"
+}

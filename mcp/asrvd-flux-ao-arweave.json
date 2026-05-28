@@ -1,0 +1,7 @@
+{
+  "name": "asrvd-flux-ao-arweave",
+  "description": "Integrates with Arweave and AO ecosystems to enable developers to run, create, and test AO code and blueprints using natural language commands without requiring deep technical knowledge of the underlying systems.",
+  "source_repo": "asrvd/flux",
+  "source_url": "https://github.com/asrvd/flux",
+  "install": "# git clone --depth 1 https://github.com/asrvd/flux\n# See source for mcpServers config block"
+}

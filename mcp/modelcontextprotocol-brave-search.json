@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-brave-search",
+  "description": "Retrieve web pages, news, and local business results via Brave API.",
+  "source_repo": "modelcontextprotocol/servers-archived",
+  "source_url": "https://github.com/modelcontextprotocol/servers-archived/tree/HEAD/src/brave-search",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers-archived/tree/HEAD/src/brave-search\n# See source for mcpServers config block"
+}

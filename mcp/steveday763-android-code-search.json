@@ -1,0 +1,7 @@
+{
+  "name": "steveday763-android-code-search",
+  "description": "Provides direct access to Android source code through reverse-engineered APIs to enable code search, file content retrieval, and symbol suggestions across Android projects including the main platform, AndroidX libraries, Android Studio, and Android-LLVM.",
+  "source_repo": "steveday763/cs_android_mcp",
+  "source_url": "https://github.com/steveday763/cs_android_mcp",
+  "install": "npx -y cs_android_mcp"
+}

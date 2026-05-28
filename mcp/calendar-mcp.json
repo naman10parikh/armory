@@ -1,0 +1,7 @@
+{
+  "name": "calendar-mcp",
+  "description": "Calendar Mcp MCP server listed on mcp.so.",
+  "source_repo": "falgom4/calendar-mcp",
+  "source_url": "https://mcp.so/server/calendar-mcp/falgom4",
+  "install": "npx -y calendar-mcp"
+}

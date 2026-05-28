@@ -1,0 +1,7 @@
+{
+  "name": "abhi5h3k-email-verify",
+  "description": "Validates email addresses through Abstract API, checking format, deliverability, and identifying disposable or role-based addresses to reduce bounces and prevent fake signups.",
+  "source_repo": "abhi5h3k/mcp-email-verify",
+  "source_url": "https://github.com/abhi5h3k/mcp-email-verify",
+  "install": "# git clone --depth 1 https://github.com/abhi5h3k/mcp-email-verify\n# See source for mcpServers config block"
+}

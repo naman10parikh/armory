@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-playwright-spatial-layout",
+  "description": "Gives AI agents geometric spatial awareness of web page layouts using Playwright.",
+  "source_repo": "vola-trebla/playwright-spatial-layout-mcp",
+  "source_url": "https://github.com/vola-trebla/playwright-spatial-layout-mcp",
+  "install": "npx -y playwright-spatial-layout-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xpaysh-awesome-x402",
+  "description": "Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base, Arbitrum, and other EVM chains.",
+  "source_repo": "xpaysh/awesome-x402",
+  "source_url": "https://github.com/xpaysh/awesome-x402",
+  "install": "# git clone --depth 1 https://github.com/xpaysh/awesome-x402\n# See source for mcpServers config block"
+}

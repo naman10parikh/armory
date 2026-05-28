@@ -1,0 +1,7 @@
+{
+  "name": "hangwin-chrome",
+  "description": "Provides browser automation and semantic search capabilities through Chrome extension integration, enabling intelligent web element interaction, form filling, screenshot capture, and vector-based content indexing with transformer models for cross-platform web automation workflows.",
+  "source_repo": "hangwin/mcp-chrome",
+  "source_url": "https://github.com/hangwin/mcp-chrome",
+  "install": "# git clone --depth 1 https://github.com/hangwin/mcp-chrome\n# See source for mcpServers config block"
+}

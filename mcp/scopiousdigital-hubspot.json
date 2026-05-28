@@ -1,0 +1,7 @@
+{
+  "name": "scopiousdigital-hubspot",
+  "description": "Enables detailed interactions with HubSpot CRM data by providing comprehensive tools for searching contacts, managing sales pipelines, retrieving analytics, and performing advanced reporting through direct API integration.",
+  "source_repo": "scopiousdigital/hubspot-mcp",
+  "source_url": "https://github.com/scopiousdigital/hubspot-mcp",
+  "install": "npx -y hubspot-mcp"
+}

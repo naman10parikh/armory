@@ -1,0 +1,7 @@
+{
+  "name": "svim-stock",
+  "description": "Trade tokenized real-world stocks across multiple blockchains including Ethereum, Solana, Arbitrum, Base, and BNB using Web3 wallets.",
+  "source_repo": "",
+  "source_url": "https://svim.io",
+  "install": "# git clone --depth 1 https://svim.io\n# See source for mcpServers config block"
+}

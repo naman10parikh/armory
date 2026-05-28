@@ -1,0 +1,7 @@
+{
+  "name": "mcp-openmetadata",
+  "description": "Enables searching and retrieving metadata from OpenMetadata, including tables, columns, sample data, and ownership information.",
+  "source_repo": "pfldy2850/mcp-openmetadata",
+  "source_url": "https://github.com/pfldy2850/mcp-openmetadata",
+  "install": "# git clone --depth 1 https://github.com/pfldy2850/mcp-openmetadata\n# See source for mcpServers config block"
+}

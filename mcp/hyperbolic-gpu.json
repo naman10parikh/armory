@@ -1,0 +1,7 @@
+{
+  "name": "hyperbolic-gpu",
+  "description": "Integrates with Hyperbolic's decentralized GPU network to discover available instances, rent compute resources, establish SSH connections, and execute remote commands for on-demand machine learning workloads.",
+  "source_repo": "hyperboliclabs/hyperbolic-mcp",
+  "source_url": "https://github.com/hyperboliclabs/hyperbolic-mcp",
+  "install": "npx -y hyperbolic-mcp"
+}

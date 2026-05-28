@@ -1,0 +1,7 @@
+{
+  "name": "kunwar-shah-claudex",
+  "description": "Persistent memory and full-text search for Claude Code conversation history using FTS5.",
+  "source_repo": "kunwar-shah/claudex",
+  "source_url": "https://github.com/kunwar-shah/claudex",
+  "install": "# git clone --depth 1 https://github.com/kunwar-shah/claudex\n# See source for mcpServers config block"
+}

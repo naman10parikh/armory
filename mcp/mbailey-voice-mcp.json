@@ -1,0 +1,7 @@
+{
+  "name": "mbailey-voice-mcp",
+  "description": "Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations through local microphone, OpenAI-compatible APIs, and LiveKit integration",
+  "source_repo": "mbailey/voice-mcp",
+  "source_url": "https://github.com/mbailey/voice-mcp",
+  "install": "npx -y voice-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alexgladkov-claude-mobile",
+  "description": "Provides unified mobile device automation for Android devices via ADB and iOS simulators via simctl, enabling screenshots, UI interactions, touch gestures, text input, and app management.",
+  "source_repo": "alexgladkov/claude-in-mobile",
+  "source_url": "https://github.com/alexgladkov/claude-in-mobile",
+  "install": "# git clone --depth 1 https://github.com/alexgladkov/claude-in-mobile\n# See source for mcpServers config block"
+}

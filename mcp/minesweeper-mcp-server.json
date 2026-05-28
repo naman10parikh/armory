@@ -1,0 +1,7 @@
+{
+  "name": "minesweeper-mcp-server",
+  "description": "Minesweeper Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "tonypan2/minesweeper-mcp-server",
+  "source_url": "https://mcp.so/server/minesweeper-mcp-server/tonypan2",
+  "install": "npx -y minesweeper-mcp-server"
+}

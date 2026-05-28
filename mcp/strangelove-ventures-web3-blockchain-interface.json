@@ -1,0 +1,7 @@
+{
+  "name": "strangelove-ventures-web3-blockchain-interface",
+  "description": "Unifies interactions with multiple blockchains like Solana and Ethereum, enabling cross-chain operations such as balance checks and token transfers.",
+  "source_repo": "strangelove-ventures/web3-mcp",
+  "source_url": "https://github.com/strangelove-ventures/web3-mcp",
+  "install": "npx -y web3-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jayzeedesign-figma",
+  "description": "Integrates with Figma's API to enable direct access to design files and prototypes for generating code and answering UI implementation queries.",
+  "source_repo": "jayzeedesign/figma-mcp",
+  "source_url": "https://github.com/jayzeedesign/figma-mcp",
+  "install": "npx -y figma-mcp"
+}

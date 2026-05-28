@@ -1,0 +1,7 @@
+{
+  "name": "cdata-sap-netweaver-gateway",
+  "description": "Bridges SAP NetWeaver Gateway systems through JDBC connectivity, enabling natural language queries of SAP business data with table discovery, metadata retrieval, and SQL execution capabilities.",
+  "source_repo": "cdatasoftware/sap-netweaver-gateway-mcp-server-by-cdata",
+  "source_url": "https://github.com/cdatasoftware/sap-netweaver-gateway-mcp-server-by-cdata",
+  "install": "# git clone --depth 1 https://github.com/cdatasoftware/sap-netweaver-gateway-mcp-server-by-cdata\n# See source for mcpServers config block"
+}

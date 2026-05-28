@@ -1,0 +1,7 @@
+{
+  "name": "waldur",
+  "description": "Integrates with Waldur's cloud management platform API to enable natural language-driven provisioning, monitoring, and billing of multi-provider cloud resources.",
+  "source_repo": "waldur/waldur-mcp-server",
+  "source_url": "https://github.com/waldur/waldur-mcp-server",
+  "install": "npx -y waldur-mcp-server"
+}

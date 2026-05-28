@@ -1,0 +1,7 @@
+{
+  "name": "sh-patterson-fec-mcp-server",
+  "description": "Query FEC campaign finance data — search candidates, track donations, analyze spending, and monitor Super PAC activity via the OpenFEC API.",
+  "source_repo": "sh-patterson/fec-mcp-server",
+  "source_url": "https://github.com/sh-patterson/fec-mcp-server",
+  "install": "npx -y fec-mcp-server"
+}

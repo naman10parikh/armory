@@ -1,0 +1,7 @@
+{
+  "name": "dag-planner-mcp",
+  "description": "A durable DAG-based task planner exposed as an MCP server that lets AI orchestrators break a goal into a dependency graph of tasks, execute them in parallel where possible, track state durably, and handle human-in-the-loop approval through 22 MCP tools.",
+  "source_repo": "Shubhamnegi/dag-planner-mcp",
+  "source_url": "https://github.com/Shubhamnegi/dag-planner-mcp",
+  "install": "npx -y dag-planner-mcp"
+}

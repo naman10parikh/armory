@@ -1,0 +1,7 @@
+{
+  "name": "lightdash",
+  "description": "Query metrics, dimensions, and execute analytics queries through Lightdash's semantic layer.",
+  "source_repo": "",
+  "source_url": "https://docs.lightdash.com/guides/lightdash-mcp",
+  "install": "# git clone --depth 1 https://docs.lightdash.com/guides/lightdash-mcp\n# See source for mcpServers config block"
+}

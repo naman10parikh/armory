@@ -1,0 +1,7 @@
+{
+  "name": "spectra-mcp-server",
+  "description": "Spectra Finance MCP server: yield discovery, PT/YT, looping, Morpho, 10 chains",
+  "source_repo": "finanzgoblin/spectra-mcp-server",
+  "source_url": "https://github.com/finanzgoblin/spectra-mcp-server",
+  "install": "npx -y spectra-mcp-server"
+}

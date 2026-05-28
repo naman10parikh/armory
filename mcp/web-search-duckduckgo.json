@@ -1,0 +1,7 @@
+{
+  "name": "web-search-duckduckgo",
+  "description": "Web Search Duckduckgo MCP server listed on mcp.so.",
+  "source_repo": "kouui/web-search-duckduckgo",
+  "source_url": "https://mcp.so/server/web-search-duckduckgo/kouui",
+  "install": "# git clone --depth 1 https://mcp.so/server/web-search-duckduckgo/kouui\n# See source for mcpServers config block"
+}

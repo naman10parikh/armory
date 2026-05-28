@@ -1,0 +1,7 @@
+{
+  "name": "tolegm-astranl",
+  "description": "Coordination protocol connecting humans, AI agents, and robots with 15 AI functions including translation, writing, and code generation.",
+  "source_repo": "tolegm/astranl-mcp",
+  "source_url": "https://github.com/tolegm/astranl-mcp",
+  "install": "npx -y astranl-mcp"
+}

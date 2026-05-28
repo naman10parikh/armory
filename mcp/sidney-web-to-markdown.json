@@ -1,0 +1,7 @@
+{
+  "name": "sidney-web-to-markdown",
+  "description": "Fetch any URL and return clean Markdown using a three-tier strategy: native markdown fast-path, trafilatura extraction, and headless Chromium fallback.",
+  "source_repo": "sidney/web-to-markdown-mcp",
+  "source_url": "https://github.com/sidney/web-to-markdown-mcp",
+  "install": "npx -y web-to-markdown-mcp"
+}

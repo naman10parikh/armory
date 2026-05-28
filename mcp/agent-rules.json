@@ -1,0 +1,7 @@
+{
+  "name": "agent-rules",
+  "description": "Fetches coding rules and best practices on-demand from GitHub repositories, providing remote access to development standards with intelligent caching and support for multiple file formats without requiring local rule files.",
+  "source_repo": "4regab/agent-rules-mcp",
+  "source_url": "https://github.com/4regab/agent-rules-mcp",
+  "install": "npx -y agent-rules-mcp"
+}

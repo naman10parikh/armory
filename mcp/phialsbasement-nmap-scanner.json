@@ -1,0 +1,7 @@
+{
+  "name": "phialsbasement-nmap-scanner",
+  "description": "Integrates NMAP to enable network scanning, security assessments, and automated penetration testing on Windows systems.",
+  "source_repo": "phialsbasement/nmap-mcp-server",
+  "source_url": "https://github.com/phialsbasement/nmap-mcp-server",
+  "install": "npx -y nmap-mcp-server"
+}

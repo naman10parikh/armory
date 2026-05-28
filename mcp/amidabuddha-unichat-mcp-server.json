@@ -1,0 +1,7 @@
+{
+  "name": "amidabuddha-unichat-mcp-server",
+  "description": "Interact with multiple LLM chat APIs through a unified interface.",
+  "source_repo": "amidabuddha/unichat-mcp-server",
+  "source_url": "https://github.com/amidabuddha/unichat-mcp-server",
+  "install": "npx -y unichat-mcp-server"
+}

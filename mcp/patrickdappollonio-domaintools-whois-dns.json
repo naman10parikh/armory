@@ -1,0 +1,7 @@
+{
+  "name": "patrickdappollonio-domaintools-whois-dns",
+  "description": "Provides DNS and WHOIS query capabilities for AI assistants. It enables AI models to perform DNS lookups both via local DNS resolvers and remote DNS-over-HTTPS services.",
+  "source_repo": "patrickdappollonio/mcp-netutils",
+  "source_url": "https://github.com/patrickdappollonio/mcp-netutils",
+  "install": "# git clone --depth 1 https://github.com/patrickdappollonio/mcp-netutils\n# See source for mcpServers config block"
+}

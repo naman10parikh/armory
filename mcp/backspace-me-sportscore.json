@@ -1,0 +1,7 @@
+{
+  "name": "backspace-me-sportscore",
+  "description": "Live sports data for football, basketball, cricket, and tennis via the SportScore API.",
+  "source_repo": "backspace-me/sportscore-mcp",
+  "source_url": "https://github.com/backspace-me/sportscore-mcp",
+  "install": "npx -y sportscore-mcp"
+}

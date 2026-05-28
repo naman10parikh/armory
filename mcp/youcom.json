@@ -1,0 +1,7 @@
+{
+  "name": "youcom",
+  "description": "Web search, AI agent, and content extraction via You.com APIs",
+  "source_repo": "youdotcom-oss/dx-toolkit",
+  "source_url": "https://github.com/youdotcom-oss/dx-toolkit",
+  "install": "# git clone --depth 1 https://github.com/youdotcom-oss/dx-toolkit\n# See source for mcpServers config block"
+}

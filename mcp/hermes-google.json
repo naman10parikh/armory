@@ -1,0 +1,7 @@
+{
+  "name": "hermes-google",
+  "description": "Enables Claude Code to manage Gmail, Google Calendar, and Google Drive via a dedicated Google account, keeping personal data separate.",
+  "source_repo": "jimmy-larsson/hermes-google",
+  "source_url": "https://github.com/jimmy-larsson/hermes-google",
+  "install": "# git clone --depth 1 https://github.com/jimmy-larsson/hermes-google\n# See source for mcpServers config block"
+}

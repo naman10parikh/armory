@@ -1,0 +1,7 @@
+{
+  "name": "robot-mcp",
+  "description": "Robot Mcp MCP server listed on mcp.so.",
+  "source_repo": "monteslu/robot-mcp",
+  "source_url": "https://mcp.so/server/robot-mcp/monteslu",
+  "install": "npx -y robot-mcp"
+}

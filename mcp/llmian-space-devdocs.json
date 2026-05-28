@@ -1,0 +1,7 @@
+{
+  "name": "llmian-space-devdocs",
+  "description": "Integrates with software documentation sources to process, index, and retrieve technical content for enhanced code assistance and API exploration.",
+  "source_repo": "llmian-space/devdocs-mcp",
+  "source_url": "https://github.com/llmian-space/devdocs-mcp",
+  "install": "npx -y devdocs-mcp"
+}

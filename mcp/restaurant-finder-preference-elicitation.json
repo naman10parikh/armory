@@ -1,0 +1,7 @@
+{
+  "name": "restaurant-finder-preference-elicitation",
+  "description": "Demonstrates preference elicitation techniques for restaurant recommendations by learning user preferences through strategic questioning and feedback rather than relying on static queries.",
+  "source_repo": "mcpjam/mcp-elicitation-restaurant-finder",
+  "source_url": "https://github.com/mcpjam/mcp-elicitation-restaurant-finder",
+  "install": "# git clone --depth 1 https://github.com/mcpjam/mcp-elicitation-restaurant-finder\n# See source for mcpServers config block"
+}

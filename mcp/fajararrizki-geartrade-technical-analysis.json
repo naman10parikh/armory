@@ -1,0 +1,7 @@
+{
+  "name": "fajararrizki-geartrade-technical-analysis",
+  "description": "Provides cryptocurrency market analysis through technical indicators, volume analysis, and risk management calculations for trading strategy development",
+  "source_repo": "fajararrizki/mcp-technical-analysis",
+  "source_url": "https://github.com/fajararrizki/mcp-technical-analysis",
+  "install": "# git clone --depth 1 https://github.com/fajararrizki/mcp-technical-analysis\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-freshbooks",
+  "description": "Integrates with FreshBooks accounting software for invoicing, expenses, and financial management.",
+  "source_repo": "asklokesh/freshbooks-mcp-server",
+  "source_url": "https://github.com/asklokesh/freshbooks-mcp-server",
+  "install": "npx -y freshbooks-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "weidwonder-crawl4ai-google-custom-search",
+  "description": "Integrates with Google Custom Search Engine to enable automated web crawling, content extraction, and search result parsing for data collection and analysis at scale.",
+  "source_repo": "weidwonder/crawl4ai-mcp-server",
+  "source_url": "https://github.com/weidwonder/crawl4ai-mcp-server",
+  "install": "npx -y crawl4ai-mcp-server"
+}

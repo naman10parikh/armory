@@ -1,0 +1,7 @@
+{
+  "name": "mcpdotdirect-evm-blockchain",
+  "description": "Integrates with EVM-compatible blockchains to enable querying data, transferring tokens, reading smart contracts, and resolving ENS names across Ethereum, Optimism, Arbitrum, and Base networks.",
+  "source_repo": "mcpdotdirect/evm-mcp-server",
+  "source_url": "https://github.com/mcpdotdirect/evm-mcp-server",
+  "install": "npx -y evm-mcp-server"
+}

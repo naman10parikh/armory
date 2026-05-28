@@ -1,0 +1,7 @@
+{
+  "name": "kirchlive-github-inside-claude-code",
+  "description": "Normalized GitHub CLI bridge for Claude Code and other MCP clients, with typed JSON envelopes and 89 operations across 6 families.",
+  "source_repo": "kirchlive/github-inside-claude-code",
+  "source_url": "https://github.com/kirchlive/github-inside-claude-code",
+  "install": "# git clone --depth 1 https://github.com/kirchlive/github-inside-claude-code\n# See source for mcpServers config block"
+}

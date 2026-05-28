@@ -1,0 +1,7 @@
+{
+  "name": "entscheidsuche-mcp-server",
+  "description": "Entscheidsuche MCP Server MCP server listed on mcp.so.",
+  "source_repo": "self-tech-labs/entscheidsuche-MCP-server",
+  "source_url": "https://mcp.so/server/entscheidsuche-MCP-server/self-tech-labs",
+  "install": "npx -y entscheidsuche-MCP-server"
+}

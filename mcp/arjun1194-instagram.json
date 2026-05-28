@@ -1,0 +1,7 @@
+{
+  "name": "arjun1194-instagram",
+  "description": "Integrates with Instagram's private API to provide analytics, content management, and automation capabilities including post engagement metrics, follower management, user and hashtag search, and media uploading with intelligent rate limiting and session persistence.",
+  "source_repo": "arjun1194/insta-mcp",
+  "source_url": "https://github.com/arjun1194/insta-mcp",
+  "install": "npx -y insta-mcp"
+}

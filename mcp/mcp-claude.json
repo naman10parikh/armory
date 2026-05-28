@@ -1,0 +1,7 @@
+{
+  "name": "mcp-claude",
+  "description": "Enables chatting with AI directly in Roblox Studio to read, write, and modify scripts and instances, supporting multiple free AI providers.",
+  "source_repo": "BassicalyAdev/MCP-Claude",
+  "source_url": "https://github.com/BassicalyAdev/MCP-Claude",
+  "install": "# git clone --depth 1 https://github.com/BassicalyAdev/MCP-Claude\n# See source for mcpServers config block"
+}

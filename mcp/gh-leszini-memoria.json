@@ -1,0 +1,7 @@
+{
+  "name": "gh-leszini-memoria",
+  "description": "Provide persistent structured memory across conversation sessions.",
+  "source_repo": "leszini/memoria-mcp",
+  "source_url": "https://github.com/leszini/memoria-mcp",
+  "install": "npx -y memoria-mcp"
+}

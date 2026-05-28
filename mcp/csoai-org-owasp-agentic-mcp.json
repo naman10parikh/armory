@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-owasp-agentic-mcp",
+  "description": "Python MCP server for OWASP security guidelines and agentic AI security analysis.",
+  "source_repo": "csoai-org/owasp-agentic-mcp",
+  "source_url": "https://github.com/csoai-org/owasp-agentic-mcp",
+  "install": "npx -y owasp-agentic-mcp"
+}

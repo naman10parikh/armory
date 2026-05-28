@@ -1,0 +1,7 @@
+{
+  "name": "decidefyi-decide",
+  "description": "Deterministic refund eligibility notary MCP server. Returns ALLOWED / DENIED / UNKNOWN for subscription refunds (Adobe, Spotify, etc.) via a stateless rules engine.",
+  "source_repo": "decidefyi/decide",
+  "source_url": "https://github.com/decidefyi/decide",
+  "install": "# git clone --depth 1 https://github.com/decidefyi/decide\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "louiscklaw-hko-mcp",
+  "description": "MCP server with basic demonstration of getting weather from Hong Kong Observatory",
+  "source_repo": "louiscklaw/hko-mcp",
+  "source_url": "https://github.com/louiscklaw/hko-mcp",
+  "install": "npx -y hko-mcp"
+}

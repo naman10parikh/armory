@@ -1,0 +1,7 @@
+{
+  "name": "tradesystemsnique-mt5-by-leo",
+  "description": "Accesses MetaTrader 5 trades, logs, and compilation functions via a full MCP server integration.",
+  "source_repo": "tradesystemsnique/fullmt5mcpbyleo",
+  "source_url": "https://github.com/tradesystemsnique/fullmt5mcpbyleo",
+  "install": "# git clone --depth 1 https://github.com/tradesystemsnique/fullmt5mcpbyleo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thornguard",
+  "description": "MCP security gateway for auth enforcement, request blocking, data redaction, policy control, and audit logging.",
+  "source_repo": "",
+  "source_url": "https://qwady.wiki/thornguard/quickstart",
+  "install": "# git clone --depth 1 https://qwady.wiki/thornguard/quickstart\n# See source for mcpServers config block"
+}

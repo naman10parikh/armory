@@ -1,0 +1,7 @@
+{
+  "name": "fu-jie-mimo",
+  "description": "OpenAI-compatible gateway for Xiaomi's MiMo AI models with web search and vision tools via reverse-engineered API access.",
+  "source_repo": "fu-jie/mimo-free-api-mcp",
+  "source_url": "https://github.com/fu-jie/mimo-free-api-mcp",
+  "install": "npx -y mimo-free-api-mcp"
+}

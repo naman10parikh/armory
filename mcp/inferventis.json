@@ -1,0 +1,7 @@
+{
+  "name": "inferventis",
+  "description": "Live financial data for AI agents: FX rates, crypto prices, stocks, news, and URL reading.",
+  "source_repo": "inferventis-ai/inferventis-tools",
+  "source_url": "https://github.com/inferventis-ai/inferventis-tools",
+  "install": "# git clone --depth 1 https://github.com/inferventis-ai/inferventis-tools\n# See source for mcpServers config block"
+}

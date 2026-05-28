@@ -1,0 +1,7 @@
+{
+  "name": "streen9-terminal",
+  "description": "Provides a secure interface for executing commands, managing processes, and retrieving outputs in terminal or PowerShell environments, with robust logging and error handling for system administration and development tasks.",
+  "source_repo": "kalivaraprasad-gonapa/terminal-mcp",
+  "source_url": "https://github.com/kalivaraprasad-gonapa/terminal-mcp",
+  "install": "npx -y terminal-mcp"
+}

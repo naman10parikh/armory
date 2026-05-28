@@ -1,0 +1,7 @@
+{
+  "name": "releases",
+  "description": "Releases MCP server listed on mcp.so.",
+  "source_repo": "prysm/releases",
+  "source_url": "https://mcp.so/server/releases/prysm",
+  "install": "# git clone --depth 1 https://mcp.so/server/releases/prysm\n# See source for mcpServers config block"
+}

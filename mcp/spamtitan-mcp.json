@@ -1,0 +1,7 @@
+{
+  "name": "spamtitan-mcp",
+  "description": "MCP server for SpamTitan email security — manage quarantine, allowlists, blocklists, and view email stats",
+  "source_repo": "wyre-technology/spamtitan-mcp",
+  "source_url": "https://github.com/wyre-technology/spamtitan-mcp",
+  "install": "npx -y spamtitan-mcp"
+}

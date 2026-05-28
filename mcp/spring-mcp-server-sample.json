@@ -1,0 +1,7 @@
+{
+  "name": "spring-mcp-server-sample",
+  "description": "Spring Mcp Server Sample MCP server listed on mcp.so.",
+  "source_repo": "ricken07/spring-mcp-server-sample",
+  "source_url": "https://mcp.so/server/spring-mcp-server-sample/ricken07",
+  "install": "# git clone --depth 1 https://mcp.so/server/spring-mcp-server-sample/ricken07\n# See source for mcpServers config block"
+}

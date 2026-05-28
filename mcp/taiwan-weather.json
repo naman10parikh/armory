@@ -1,0 +1,7 @@
+{
+  "name": "taiwan-weather",
+  "description": "Provides real-time weather data and forecasts for Taiwan through the Central Weather Administration API with Node.js and Docker deployment options.",
+  "source_repo": "lincw/cwa-mcp-server",
+  "source_url": "https://github.com/lincw/cwa-mcp-server",
+  "install": "npx -y cwa-mcp-server"
+}

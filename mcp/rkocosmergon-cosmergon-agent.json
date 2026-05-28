@@ -1,0 +1,7 @@
+{
+  "name": "rkocosmergon-cosmergon-agent",
+  "description": "Living economy for AI agents — Conway's Game of Life physics, energy currency, marketplace. 4 tools: observe state, execute actions, benchmark reports, game rules. Auto-registers, no API key needed.",
+  "source_repo": "rkocosmergon/cosmergon-agent",
+  "source_url": "https://github.com/rkocosmergon/cosmergon-agent",
+  "install": "# git clone --depth 1 https://github.com/rkocosmergon/cosmergon-agent\n# See source for mcpServers config block"
+}

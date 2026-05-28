@@ -1,0 +1,7 @@
+{
+  "name": "semanger98-rocketreach",
+  "description": "MCP integration for the RocketReach B2B contact and company data API.",
+  "source_repo": "semanger98/rocketreach-mcp",
+  "source_url": "https://github.com/semanger98/rocketreach-mcp",
+  "install": "npx -y rocketreach-mcp"
+}

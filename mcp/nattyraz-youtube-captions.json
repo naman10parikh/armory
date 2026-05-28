@@ -1,0 +1,7 @@
+{
+  "name": "nattyraz-youtube-captions",
+  "description": "Extracts and transforms YouTube video content, providing metadata, multi-language captions, chapter information, and customizable markdown transcripts with search capabilities through the YouTube Data API.",
+  "source_repo": "nattyraz/youtube-mcp",
+  "source_url": "https://github.com/nattyraz/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

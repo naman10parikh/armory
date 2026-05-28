@@ -1,0 +1,7 @@
+{
+  "name": "brandkity-mcp-server",
+  "description": "Enables AI agents to create, manage, and publish brand kits with colors, typography, logos, and white-label branding via the BrandKity platform.",
+  "source_repo": "BrandKity/mcp-server",
+  "source_url": "https://github.com/BrandKity/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/BrandKity/mcp-server\n# See source for mcpServers config block"
+}

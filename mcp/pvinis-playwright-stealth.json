@@ -1,0 +1,7 @@
+{
+  "name": "pvinis-playwright-stealth",
+  "description": "Enables stealth web browsing automation with Playwright for tasks like navigation, form filling, and screenshot capture while avoiding detection by anti-bot systems",
+  "source_repo": "pvinis/mcp-playwright-stealth",
+  "source_url": "https://github.com/pvinis/mcp-playwright-stealth",
+  "install": "# git clone --depth 1 https://github.com/pvinis/mcp-playwright-stealth\n# See source for mcpServers config block"
+}

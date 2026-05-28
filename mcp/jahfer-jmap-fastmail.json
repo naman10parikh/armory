@@ -1,0 +1,7 @@
+{
+  "name": "jahfer-jmap-fastmail",
+  "description": "Connects to Fastmail servers via JMAP protocol to enable email reading, searching with advanced filters, and content retrieval for conversational email management.",
+  "source_repo": "jahfer/jmap-mcp-server",
+  "source_url": "https://github.com/jahfer/jmap-mcp-server",
+  "install": "npx -y jmap-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cerebras-code",
+  "description": "Fast code generation using Cerebras AI inference",
+  "source_repo": "cerebras/cerebras-code-mcp",
+  "source_url": "https://github.com/cerebras/cerebras-code-mcp",
+  "install": "npx -y cerebras-code-mcp"
+}

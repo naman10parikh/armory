@@ -1,0 +1,7 @@
+{
+  "name": "writbase",
+  "description": "MCP-native task management for AI agent fleets with scoped permissions, inter-agent delegation, and full provenance tracking.",
+  "source_repo": "writbase/writbase",
+  "source_url": "https://github.com/writbase/writbase",
+  "install": "# git clone --depth 1 https://github.com/writbase/writbase\n# See source for mcpServers config block"
+}

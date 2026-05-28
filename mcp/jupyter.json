@@ -1,0 +1,7 @@
+{
+  "name": "jupyter",
+  "description": "Model Context Protocol server for Jupyter notebooks. Execute code, manage notebooks, and interact with Jupyter kernels directly from Claude.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/jupyter.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/jupyter.json\n# See source for mcpServers config block"
+}

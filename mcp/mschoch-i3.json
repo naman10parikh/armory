@@ -1,0 +1,7 @@
+{
+  "name": "mschoch-i3",
+  "description": "Integrates with the i3 window manager through its IPC interface to query window tree structures, list workspace details, find windows by criteria, and execute commands for desktop automation and layout management.",
+  "source_repo": "mschoch/ithreemcp",
+  "source_url": "https://github.com/mschoch/ithreemcp",
+  "install": "# git clone --depth 1 https://github.com/mschoch/ithreemcp\n# See source for mcpServers config block"
+}

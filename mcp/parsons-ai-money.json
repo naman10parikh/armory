@@ -1,0 +1,7 @@
+{
+  "name": "parsons-ai-money",
+  "description": "Personal finance assistant with transaction and budget tracking.",
+  "source_repo": "parsons-ai/money-mcp-server",
+  "source_url": "https://github.com/parsons-ai/money-mcp-server",
+  "install": "npx -y money-mcp-server"
+}

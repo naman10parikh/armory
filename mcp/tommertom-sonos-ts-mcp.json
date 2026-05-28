@@ -1,0 +1,7 @@
+{
+  "name": "tommertom-sonos-ts-mcp",
+  "description": "Comprehensive Sonos audio system control through pure TypeScript implementation. Features complete device discovery, multi-room playback management, queue control, music library browsing, alarm management, real-time event subscriptions, and audio EQ settings. Includes 50+ tools for seamless smart home audio automation via UPnP/SOAP protocols.",
+  "source_repo": "Tommertom/sonos-ts-mcp",
+  "source_url": "https://github.com/Tommertom/sonos-ts-mcp",
+  "install": "npx -y sonos-ts-mcp"
+}

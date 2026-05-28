@@ -1,0 +1,7 @@
+{
+  "name": "freshsk-teams",
+  "description": "Integrates with Microsoft Teams through Azure MSAL authentication to enable chat management, message sending, channel operations, and team creation.",
+  "source_repo": "freshsk/mcp_teams",
+  "source_url": "https://github.com/freshsk/mcp_teams",
+  "install": "# git clone --depth 1 https://github.com/freshsk/mcp_teams\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vari",
+  "description": "Six deterministic hydration calculation tools covering daily intake, dehydration, and athlete planning.",
+  "source_repo": "getvari/vari-mcp",
+  "source_url": "https://github.com/getvari/vari-mcp",
+  "install": "npx -y vari-mcp"
+}

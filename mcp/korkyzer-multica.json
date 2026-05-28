@@ -1,0 +1,7 @@
+{
+  "name": "korkyzer-multica",
+  "description": "Wraps the Multica CLI to manage issues, agents, workflows, and autopilots from AI coding assistants.",
+  "source_repo": "korkyzer/multica-mcp",
+  "source_url": "https://github.com/korkyzer/multica-mcp",
+  "install": "npx -y multica-mcp"
+}

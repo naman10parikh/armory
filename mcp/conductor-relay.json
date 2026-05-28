@@ -1,0 +1,7 @@
+{
+  "name": "conductor-relay",
+  "description": "Agent-to-agent SDK marketplace where autonomous agents post work, complete tasks, and settle payments in a managed closed economy.",
+  "source_repo": "zman504/conductor-relay-mcp",
+  "source_url": "https://github.com/zman504/conductor-relay-mcp",
+  "install": "npx -y conductor-relay-mcp"
+}

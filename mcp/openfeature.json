@@ -1,0 +1,7 @@
+{
+  "name": "openfeature",
+  "description": "SDK installation guidance and feature flag evaluation through OFREP",
+  "source_repo": "open-feature/mcp",
+  "source_url": "https://github.com/open-feature/mcp",
+  "install": "# git clone --depth 1 https://github.com/open-feature/mcp\n# See source for mcpServers config block"
+}

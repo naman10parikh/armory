@@ -1,0 +1,7 @@
+{
+  "name": "shipbook",
+  "description": "Mobile application log analysis platform with error classification, log search, and debugging tools for iOS, Android, React Native, and Flutter.",
+  "source_repo": "shipbook/shipbook-mcp",
+  "source_url": "https://github.com/shipbook/shipbook-mcp",
+  "install": "npx -y shipbook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "databutton-mcp",
+  "description": "Databutton Mcp MCP server listed on mcp.so.",
+  "source_repo": "databutton/databutton-mcp",
+  "source_url": "https://mcp.so/server/databutton-mcp/databutton",
+  "install": "npx -y databutton-mcp"
+}

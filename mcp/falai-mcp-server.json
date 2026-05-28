@@ -1,0 +1,7 @@
+{
+  "name": "falai-mcp-server",
+  "description": "A FastMCP server that exposes core fal.ai model API operations, enabling model catalogue browsing, search, schema retrieval, inference, queue management, and CDN uploads through natural language.",
+  "source_repo": "berkbirkan/falai-mcp",
+  "source_url": "https://github.com/berkbirkan/falai-mcp",
+  "install": "npx -y falai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vernonstinebaker-webdav",
+  "description": "Zero-dependency WebDAV integration as a single static binary with no runtime requirements.",
+  "source_repo": "vernonstinebaker/webdav-mcp",
+  "source_url": "https://github.com/vernonstinebaker/webdav-mcp",
+  "install": "npx -y webdav-mcp"
+}

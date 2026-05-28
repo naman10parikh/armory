@@ -1,0 +1,7 @@
+{
+  "name": "aigc-humanizer-zh",
+  "description": "MCP server for detecting AI writing patterns in Chinese academic text and providing rewrite guidance to reduce AIGC detection rates.",
+  "source_repo": "shuohui-air-technology/aigc-humanizer-zh",
+  "source_url": "https://github.com/shuohui-air-technology/aigc-humanizer-zh",
+  "install": "# git clone --depth 1 https://github.com/shuohui-air-technology/aigc-humanizer-zh\n# See source for mcpServers config block"
+}

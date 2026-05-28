@@ -1,0 +1,7 @@
+{
+  "name": "weblate",
+  "description": "Integrates with Weblate translation management systems to provide project and component management, translation operations, change tracking, and statistical reporting for multilingual application development workflows.",
+  "source_repo": "mmntm/weblate-mcp",
+  "source_url": "https://github.com/mmntm/weblate-mcp",
+  "install": "npx -y weblate-mcp"
+}

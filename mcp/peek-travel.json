@@ -1,0 +1,7 @@
+{
+  "name": "peek-travel",
+  "description": "Provides real-time access to travel experiences, activities, and tours with live availability and pricing data for accurate trip planning with bookable activities across destinations worldwide.",
+  "source_repo": "",
+  "source_url": "https://peek.com/mcp",
+  "install": "# git clone --depth 1 https://peek.com/mcp\n# See source for mcpServers config block"
+}

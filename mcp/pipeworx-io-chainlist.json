@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-chainlist",
+  "description": "Look up EVM-compatible blockchain networks by chain ID, including RPC endpoints, native currency, and network configuration from the Chainlist registry.",
+  "source_repo": "pipeworx-io/mcp-chainlist",
+  "source_url": "https://github.com/pipeworx-io/mcp-chainlist",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-chainlist\n# See source for mcpServers config block"
+}

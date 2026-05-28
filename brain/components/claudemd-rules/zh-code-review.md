@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [zh-agents, zh-coding-style]
-tags: [ecc, rules, zh]
+tags: [rules, zh]
 ---
 ## What it is
 zh rule: apply when working on zh and you need 代码审查标准.

@@ -1,0 +1,7 @@
+{
+  "name": "touch-mcp",
+  "description": "High-performance MCP server that enables AI assistants to control TouchDesigner live via WebSocket, providing 37 tools for nodes, parameters, scripting, and more.",
+  "source_repo": "benoitliard/touch-mcp",
+  "source_url": "https://github.com/benoitliard/touch-mcp",
+  "install": "npx -y touch-mcp"
+}

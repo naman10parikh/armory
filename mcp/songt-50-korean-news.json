@@ -1,0 +1,7 @@
+{
+  "name": "songt-50-korean-news",
+  "description": "Korean and global tech news aggregation from Naver, Google News, Hacker News, and other sources with no API key required.",
+  "source_repo": "songt-50/korean-news-mcp",
+  "source_url": "https://github.com/songt-50/korean-news-mcp",
+  "install": "npx -y korean-news-mcp"
+}

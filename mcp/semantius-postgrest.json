@@ -1,0 +1,7 @@
+{
+  "name": "semantius-postgrest",
+  "description": "Provides OAuth2-authenticated access to any PostgREST API with tools for direct REST requests, SQL-to-REST query conversion, and user profile retrieval.",
+  "source_repo": "semantius/postgrest-mcp",
+  "source_url": "https://github.com/semantius/postgrest-mcp",
+  "install": "npx -y postgrest-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "catastro-mcp-server",
+  "description": "A Python MCP server that queries Spanish Cadastre services for non-protected cadastral data and exports parcel geometry in GML, GeoJSON, and IFC formats.",
+  "source_repo": "carlosGalisteo/catastro_mcp_server",
+  "source_url": "https://github.com/carlosGalisteo/catastro_mcp_server",
+  "install": "npx -y catastro_mcp_server"
+}

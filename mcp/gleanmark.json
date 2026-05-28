@@ -1,0 +1,7 @@
+{
+  "name": "gleanmark",
+  "description": "USPTO trademark search with clearance analysis, phonetic matching, and TTAB statistics.",
+  "source_repo": "",
+  "source_url": "https://gleanmark.com",
+  "install": "# git clone --depth 1 https://gleanmark.com\n# See source for mcpServers config block"
+}

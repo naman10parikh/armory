@@ -1,0 +1,7 @@
+{
+  "name": "gh-simplyliz-codemcp",
+  "description": "Code intelligence with 80+ tools for navigation, impact analysis, and architecture mapping.",
+  "source_repo": "nyxcore-systems/ckb",
+  "source_url": "https://github.com/nyxcore-systems/ckb",
+  "install": "# git clone --depth 1 https://github.com/nyxcore-systems/ckb\n# See source for mcpServers config block"
+}

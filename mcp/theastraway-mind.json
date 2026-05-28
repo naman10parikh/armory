@@ -1,0 +1,7 @@
+{
+  "name": "theastraway-mind",
+  "description": "Personal knowledge graph AI memory with 15 tools, emotional intelligence, CRM, and social features.",
+  "source_repo": "theastraway/mind-mcp-server",
+  "source_url": "https://github.com/theastraway/mind-mcp-server",
+  "install": "npx -y mind-mcp-server"
+}

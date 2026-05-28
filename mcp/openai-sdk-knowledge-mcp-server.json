@@ -1,0 +1,7 @@
+{
+  "name": "openai-sdk-knowledge-mcp-server",
+  "description": "An MCP server that provides expert knowledge on the OpenAI API, powered by RAG. It enables users to ask technical questions and get accurate answers, with support for search and fetch tools.",
+  "source_repo": "iflow-mcp/openai-sdk-knowledge-org",
+  "source_url": "https://github.com/iflow-mcp/openai-sdk-knowledge-org",
+  "install": "# git clone --depth 1 https://github.com/iflow-mcp/openai-sdk-knowledge-org\n# See source for mcpServers config block"
+}

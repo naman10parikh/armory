@@ -1,0 +1,7 @@
+{
+  "name": "generator-mcp",
+  "description": "Generator Mcp MCP server listed on mcp.so.",
+  "source_repo": "formulahendry/generator-mcp",
+  "source_url": "https://mcp.so/server/generator-mcp/formulahendry",
+  "install": "npx -y generator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "veritasacta-acta",
+  "description": "Contribute, challenge, verify, and query contestable public records on the Veritas Acta platform.",
+  "source_repo": "veritasacta/acta-mcp",
+  "source_url": "https://github.com/veritasacta/acta-mcp",
+  "install": "npx -y acta-mcp"
+}

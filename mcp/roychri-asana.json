@@ -1,0 +1,7 @@
+{
+  "name": "roychri-asana",
+  "description": "Integrates with Asana to enable task automation, project tracking, and team collaboration through the Asana API.",
+  "source_repo": "roychri/mcp-server-asana",
+  "source_url": "https://github.com/roychri/mcp-server-asana",
+  "install": "# git clone --depth 1 https://github.com/roychri/mcp-server-asana\n# See source for mcpServers config block"
+}

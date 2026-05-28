@@ -1,0 +1,7 @@
+{
+  "name": "chess-mcp-server",
+  "description": "Enables AI assistants to explore player profiles, ratings, game archives, leaderboards, clubs, and puzzles via the Chess.com API.",
+  "source_repo": "bhayanak/chess-mcp-server",
+  "source_url": "https://github.com/bhayanak/chess-mcp-server",
+  "install": "npx -y chess-mcp-server"
+}

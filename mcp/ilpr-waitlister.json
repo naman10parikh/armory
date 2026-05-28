@@ -1,0 +1,7 @@
+{
+  "name": "ilpr-waitlister",
+  "description": "Manages waitlist subscribers through the Waitlister API with tools for adding, listing, updating, and tracking subscribers.",
+  "source_repo": "ilpr/waitlister-mcp",
+  "source_url": "https://github.com/ilpr/waitlister-mcp",
+  "install": "npx -y waitlister-mcp"
+}

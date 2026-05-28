@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-solana-fees",
+  "description": "Solana network priority fee data at six congestion levels, with costs expressed in SOL and USD.",
+  "source_repo": "br0ski777/solana-fees-x402",
+  "source_url": "https://github.com/br0ski777/solana-fees-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/solana-fees-x402\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "elblanco2-hostbridge",
+  "description": "Simplifies web application deployment across multiple hosting providers like Netlify and Vercel through a unified interface that handles authentication, building, and deployment operations with simple commands.",
+  "source_repo": "elblanco2/hostbridge-mcp",
+  "source_url": "https://github.com/elblanco2/hostbridge-mcp",
+  "install": "npx -y hostbridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-iso-42001-ai-mcp",
+  "description": "Python MCP server for ISO 42001 AI management system compliance.",
+  "source_repo": "csoai-org/iso-42001-ai-mcp",
+  "source_url": "https://github.com/csoai-org/iso-42001-ai-mcp",
+  "install": "npx -y iso-42001-ai-mcp"
+}

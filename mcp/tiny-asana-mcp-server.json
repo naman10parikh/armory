@@ -1,0 +1,7 @@
+{
+  "name": "tiny-asana-mcp-server",
+  "description": "Tiny Asana Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "bnwebdev/tiny-asana-mcp-server",
+  "source_url": "https://mcp.so/server/tiny-asana-mcp-server/bnwebdev",
+  "install": "npx -y tiny-asana-mcp-server"
+}

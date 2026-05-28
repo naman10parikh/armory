@@ -1,0 +1,7 @@
+{
+  "name": "newsmind",
+  "description": "Hosted MCP server that connects AI assistants to RSS feed subscriptions with search, deduplication, and OPML import.",
+  "source_repo": "rdowty/newsmind",
+  "source_url": "https://github.com/rdowty/newsmind",
+  "install": "# git clone --depth 1 https://github.com/rdowty/newsmind\n# See source for mcpServers config block"
+}

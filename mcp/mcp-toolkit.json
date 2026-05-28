@@ -1,0 +1,7 @@
+{
+  "name": "mcp-toolkit",
+  "description": "Mcp Toolkit MCP server listed on mcp.so.",
+  "source_repo": "cheqd/mcp-toolkit",
+  "source_url": "https://mcp.so/server/mcp-toolkit/cheqd",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-toolkit/cheqd\n# See source for mcpServers config block"
+}

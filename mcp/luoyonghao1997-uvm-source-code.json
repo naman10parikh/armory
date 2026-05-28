@@ -1,0 +1,7 @@
+{
+  "name": "luoyonghao1997-uvm-source-code",
+  "description": "Provides semantic search and exploration of UVM 1.2 SystemVerilog source code through locally-hosted embeddings and ChromaDB indexing.",
+  "source_repo": "luoyonghao1997/uvm-source-code-1.2-knowledge-mcp",
+  "source_url": "https://github.com/luoyonghao1997/uvm-source-code-1.2-knowledge-mcp",
+  "install": "npx -y uvm-source-code-1.2-knowledge-mcp"
+}

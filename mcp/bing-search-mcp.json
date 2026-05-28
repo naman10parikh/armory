@@ -1,0 +1,7 @@
+{
+  "name": "bing-search-mcp",
+  "description": "Bing Search Mcp MCP server listed on mcp.so.",
+  "source_repo": "leehanchung/bing-search-mcp",
+  "source_url": "https://mcp.so/server/bing-search-mcp/leehanchung",
+  "install": "npx -y bing-search-mcp"
+}

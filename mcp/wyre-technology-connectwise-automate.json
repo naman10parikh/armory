@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-connectwise-automate",
+  "description": "Community MCP integration for ConnectWise Automate RMM, enabling AI agents to manage computers, clients, and alerts.",
+  "source_repo": "wyre-technology/connectwise-automate-mcp",
+  "source_url": "https://github.com/wyre-technology/connectwise-automate-mcp",
+  "install": "npx -y connectwise-automate-mcp"
+}

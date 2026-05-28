@@ -1,0 +1,7 @@
+{
+  "name": "lloydmcl-pihole",
+  "description": "Production-grade MCP server for comprehensive Pi-hole v6 DNS filtering management with 55 tools.",
+  "source_repo": "hexamatic/pihole-mcp",
+  "source_url": "https://github.com/hexamatic/pihole-mcp",
+  "install": "npx -y pihole-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tmdaidevs-force-fabric",
+  "description": "Provides live optimization analysis for Microsoft Fabric items with 100+ rules across Lakehouses, Warehouses, Eventhouses, and Semantic Models.",
+  "source_repo": "tmdaidevs/force-fabric-mcp-server",
+  "source_url": "https://github.com/tmdaidevs/force-fabric-mcp-server",
+  "install": "npx -y force-fabric-mcp-server"
+}

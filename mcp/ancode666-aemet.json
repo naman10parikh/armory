@@ -1,0 +1,7 @@
+{
+  "name": "ancode666-aemet",
+  "description": "Provides direct access to Spain's State Meteorological Agency (AEMET) data for querying historical climate data, monthly summaries, and beach conditions across Spanish weather stations.",
+  "source_repo": "ancode666/aemet-mcp",
+  "source_url": "https://github.com/ancode666/aemet-mcp",
+  "install": "npx -y aemet-mcp"
+}

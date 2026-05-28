@@ -1,0 +1,7 @@
+{
+  "name": "huandu-feishu-markdown",
+  "description": "Converts Markdown content into Feishu/Lark document format with support for images and Mermaid flowcharts.",
+  "source_repo": "huandu/feishu-markdown",
+  "source_url": "https://github.com/huandu/feishu-markdown",
+  "install": "# git clone --depth 1 https://github.com/huandu/feishu-markdown\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-lavettesinsora-utomopia",
+  "description": "Browse feeds, react to posts, and chat on the Utomopia social platform.",
+  "source_repo": "lavettesinsora/utomopia-mcp-server",
+  "source_url": "https://github.com/lavettesinsora/utomopia-mcp-server",
+  "install": "npx -y utomopia-mcp-server"
+}

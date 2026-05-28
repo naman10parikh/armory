@@ -1,0 +1,7 @@
+{
+  "name": "catrinmdonnelly-royalmail-mcp",
+  "description": "Book, label, track and cancel Royal Mail and Parcelforce shipments. 33 UK and international services via friendly keys or raw Service Register codes. `npx royalmail-mcp`.",
+  "source_repo": "catrinmdonnelly/royalmail-mcp",
+  "source_url": "https://github.com/catrinmdonnelly/royalmail-mcp",
+  "install": "npx -y royalmail-mcp"
+}

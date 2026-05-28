@@ -1,0 +1,7 @@
+{
+  "name": "julienkalamon-ign-apicarto",
+  "description": "Access French geographic data including cadastral parcels, postal codes, agricultural land use, protected natural areas, urban planning documents, wine appellations, and administrative boundaries.",
+  "source_repo": "julienkalamon/ign-apicarto-mcp-server",
+  "source_url": "https://github.com/julienkalamon/ign-apicarto-mcp-server",
+  "install": "npx -y ign-apicarto-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chandrahas455-photoshop-controller",
+  "description": "Enables direct control of Adobe Photoshop through natural language commands for manipulating layers, text, images, and effects without switching contexts.",
+  "source_repo": "chandrahas455/psmcp-mcp-server-for-photoshop",
+  "source_url": "https://github.com/chandrahas455/psmcp-mcp-server-for-photoshop",
+  "install": "# git clone --depth 1 https://github.com/chandrahas455/psmcp-mcp-server-for-photoshop\n# See source for mcpServers config block"
+}

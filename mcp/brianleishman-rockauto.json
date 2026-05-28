@@ -1,0 +1,7 @@
+{
+  "name": "brianleishman-rockauto",
+  "description": "Search and browse the RockAuto auto parts catalog with pricing and vehicle compatibility.",
+  "source_repo": "brianleishman/rockauto-mcp",
+  "source_url": "https://github.com/brianleishman/rockauto-mcp",
+  "install": "npx -y rockauto-mcp"
+}

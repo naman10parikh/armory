@@ -1,0 +1,7 @@
+{
+  "name": "spraay-solana-gateway",
+  "description": "Batch payment infrastructure for AI agents on Solana using the x402 payment protocol.",
+  "source_repo": "plagtech/spraay-solana-gateway",
+  "source_url": "https://github.com/plagtech/spraay-solana-gateway",
+  "install": "# git clone --depth 1 https://github.com/plagtech/spraay-solana-gateway\n# See source for mcpServers config block"
+}

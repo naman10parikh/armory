@@ -1,0 +1,7 @@
+{
+  "name": "gepuro-company-lens",
+  "description": "Search Japanese company database",
+  "source_repo": "gepuro/company-lens-mcp-registry",
+  "source_url": "https://github.com/gepuro/company-lens-mcp-registry",
+  "install": "# git clone --depth 1 https://github.com/gepuro/company-lens-mcp-registry\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "socialapis",
+  "description": "Unified API for extracting data from Facebook, Instagram, TikTok, and other social platforms at scale.",
+  "source_repo": "socialapishub/mcp-server",
+  "source_url": "https://github.com/socialapishub/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/socialapishub/mcp-server\n# See source for mcpServers config block"
+}

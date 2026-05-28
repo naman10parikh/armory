@@ -1,0 +1,7 @@
+{
+  "name": "archicad-mcp",
+  "description": "MCP server for Archicad automation, enabling AI assistants to run Python scripts against running Archicad instances via the Tapir JSON API for complex workflows.",
+  "source_repo": "Boti-Ormandi/archicad-mcp",
+  "source_url": "https://github.com/Boti-Ormandi/archicad-mcp",
+  "install": "npx -y archicad-mcp"
+}

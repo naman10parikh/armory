@@ -1,0 +1,7 @@
+{
+  "name": "velvoite-compliance",
+  "description": "EU financial regulatory compliance monitoring across DORA, MiCA, MiFID II, AML, and Solvency II.",
+  "source_repo": "",
+  "source_url": "https://velvoite.eu",
+  "install": "# git clone --depth 1 https://velvoite.eu\n# See source for mcpServers config block"
+}

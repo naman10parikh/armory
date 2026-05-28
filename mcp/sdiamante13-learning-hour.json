@@ -1,0 +1,7 @@
+{
+  "name": "sdiamante13-learning-hour",
+  "description": "Generates structured 60-minute technical practice sessions for software development teams using the 4C Learning Model by analyzing GitHub repositories for code smells and creating contextual learning content with Miro board layouts.",
+  "source_repo": "sdiamante13/learning-hour-mcp",
+  "source_url": "https://github.com/sdiamante13/learning-hour-mcp",
+  "install": "npx -y learning-hour-mcp"
+}

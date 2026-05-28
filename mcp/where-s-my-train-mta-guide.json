@@ -1,0 +1,7 @@
+{
+  "name": "where-s-my-train-mta-guide",
+  "description": "Real-time NYC subway stations, arrivals, service alerts, and route planning.",
+  "source_repo": "sasabasara/where_is_my_train_mcp",
+  "source_url": "https://github.com/sasabasara/where_is_my_train_mcp#readme",
+  "install": "npx -y where_is_my_train_mcp"
+}

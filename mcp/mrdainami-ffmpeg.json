@@ -1,0 +1,7 @@
+{
+  "name": "mrdainami-ffmpeg",
+  "description": "Wraps ffmpeg for video and audio editing operations through AI-driven shell commands.",
+  "source_repo": "mrdainami/ffmpeg-mcp",
+  "source_url": "https://github.com/mrdainami/ffmpeg-mcp",
+  "install": "npx -y ffmpeg-mcp"
+}

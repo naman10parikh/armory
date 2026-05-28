@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-robokassa",
+  "description": "Generate payment URLs and check invoice status via the Robokassa payment API.",
+  "source_repo": "theyahia/robokassa-mcp",
+  "source_url": "https://github.com/theyahia/robokassa-mcp",
+  "install": "npx -y robokassa-mcp"
+}

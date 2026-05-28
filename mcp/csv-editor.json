@@ -1,0 +1,7 @@
+{
+  "name": "csv-editor",
+  "description": "Provides pandas-powered CSV file operations including data loading, filtering, transformation, statistical analysis, and quality validation through a session-based architecture with auto-save capabilities and support for multiple formats.",
+  "source_repo": "santoshray02/csv-editor",
+  "source_url": "https://github.com/santoshray02/csv-editor",
+  "install": "# git clone --depth 1 https://github.com/santoshray02/csv-editor\n# See source for mcpServers config block"
+}

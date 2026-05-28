@@ -1,0 +1,7 @@
+{
+  "name": "alea-institute-folio",
+  "description": "Provides searchable access to the FOLIO legal ontology with 18,000+ concepts covering areas of law, document types, and legal entities.",
+  "source_repo": "alea-institute/folio-mcp",
+  "source_url": "https://github.com/alea-institute/folio-mcp",
+  "install": "npx -y folio-mcp"
+}

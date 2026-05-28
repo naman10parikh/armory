@@ -1,0 +1,7 @@
+{
+  "name": "proxmox-mcp-server",
+  "description": "Enables interaction with Proxmox VE for managing VMs, containers, storage, and cluster resources via natural language through the Model Context Protocol.",
+  "source_repo": "ry-ops/proxmox-mcp-server",
+  "source_url": "https://github.com/ry-ops/proxmox-mcp-server",
+  "install": "npx -y proxmox-mcp-server"
+}

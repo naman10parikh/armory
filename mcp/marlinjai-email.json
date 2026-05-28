@@ -1,0 +1,7 @@
+{
+  "name": "marlinjai-email",
+  "description": "Send emails via SMTP with attachment support and HTML formatting.",
+  "source_repo": "marlinjai/email-mcp",
+  "source_url": "https://github.com/marlinjai/email-mcp",
+  "install": "npx -y email-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hendrickcastro-cosmosdb",
+  "description": "Integrates with Azure CosmosDB to provide database operations including container management, SQL query execution with performance metrics, document retrieval, and automated schema discovery across collections.",
+  "source_repo": "hendrickcastro/mcpcosmosdb",
+  "source_url": "https://github.com/hendrickcastro/mcpcosmosdb",
+  "install": "# git clone --depth 1 https://github.com/hendrickcastro/mcpcosmosdb\n# See source for mcpServers config block"
+}

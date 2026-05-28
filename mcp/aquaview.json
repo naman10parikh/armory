@@ -1,0 +1,7 @@
+{
+  "name": "aquaview",
+  "description": "Search and access global oceanographic and environmental datasets",
+  "source_repo": "",
+  "source_url": "https://www.aquaview.org",
+  "install": "# git clone --depth 1 https://www.aquaview.org\n# See source for mcpServers config block"
+}

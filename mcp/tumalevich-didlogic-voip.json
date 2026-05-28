@@ -1,0 +1,7 @@
+{
+  "name": "tumalevich-didlogic-voip",
+  "description": "Provides a natural language interface to DIDLogic telecommunications API for managing SIP accounts, phone numbers, call history, and billing information through specialized VoIP administration tools.",
+  "source_repo": "userad/didlogic_mcp",
+  "source_url": "https://github.com/userad/didlogic_mcp",
+  "install": "npx -y didlogic_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inference-sh",
+  "description": "Agent runtime platform for running 150+ AI applications across image, video, audio, LLMs, and 3D.",
+  "source_repo": "",
+  "source_url": "https://inference.sh",
+  "install": "# git clone --depth 1 https://inference.sh\n# See source for mcpServers config block"
+}

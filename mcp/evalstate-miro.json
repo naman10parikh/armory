@@ -1,0 +1,7 @@
+{
+  "name": "evalstate-miro",
+  "description": "Create and manage content on Miro whiteboards.",
+  "source_repo": "evalstate/mcp-miro",
+  "source_url": "https://github.com/evalstate/mcp-miro",
+  "install": "# git clone --depth 1 https://github.com/evalstate/mcp-miro\n# See source for mcpServers config block"
+}

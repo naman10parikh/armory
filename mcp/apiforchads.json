@@ -1,0 +1,7 @@
+{
+  "name": "apiforchads",
+  "description": "Crypto prices, prediction market data, web research, and page rendering with Solana micropayments.",
+  "source_repo": "chadbot0x/apiforchads-mcp",
+  "source_url": "https://github.com/chadbot0x/apiforchads-mcp",
+  "install": "npx -y apiforchads-mcp"
+}

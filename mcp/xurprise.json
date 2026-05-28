@@ -1,0 +1,7 @@
+{
+  "name": "xurprise",
+  "description": "Commerce discovery for SEA and China with attribution-tracked storefronts across Taobao, Shopee, Shein, and more.",
+  "source_repo": "nimo1987/xurprise-mcp-docs",
+  "source_url": "https://github.com/nimo1987/xurprise-mcp-docs",
+  "install": "# git clone --depth 1 https://github.com/nimo1987/xurprise-mcp-docs\n# See source for mcpServers config block"
+}

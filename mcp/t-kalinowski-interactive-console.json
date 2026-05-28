@@ -1,0 +1,7 @@
+{
+  "name": "t-kalinowski-interactive-console",
+  "description": "Exposes a long-lived interactive REPL for R or Python with stateful execution, plot visualization, and OS-level sandboxing.",
+  "source_repo": "posit-dev/mcp-repl",
+  "source_url": "https://github.com/posit-dev/mcp-repl",
+  "install": "# git clone --depth 1 https://github.com/posit-dev/mcp-repl\n# See source for mcpServers config block"
+}

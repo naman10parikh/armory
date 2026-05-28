@@ -1,0 +1,7 @@
+{
+  "name": "getcurrentoffer",
+  "description": "Search and compare credit card merchant offers from Chase, Amex, Citi, Capital One, PayPal, and Rakuten.",
+  "source_repo": "stanley17112000/getcurrentoffer-mcp",
+  "source_url": "https://github.com/stanley17112000/getcurrentoffer-mcp",
+  "install": "npx -y getcurrentoffer-mcp"
+}

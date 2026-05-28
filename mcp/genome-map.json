@@ -1,0 +1,7 @@
+{
+  "name": "genome-map",
+  "description": "Access industrial fingerprint data for insight into supply chain and company performance",
+  "source_repo": "rdcahalane/genome-mcp",
+  "source_url": "https://github.com/rdcahalane/genome-mcp",
+  "install": "npx -y genome-mcp"
+}

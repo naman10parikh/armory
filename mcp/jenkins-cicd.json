@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-cicd",
+  "description": "Integrates with Jenkins CI/CD infrastructure to provide complete job management, build monitoring, pipeline execution, and artifact handling with intelligent caching and CSRF protection for DevOps automation workflows.",
+  "source_repo": "ashwinighuge3012/jenkins-mcp-server",
+  "source_url": "https://github.com/ashwinighuge3012/jenkins-mcp-server",
+  "install": "npx -y jenkins-mcp-server"
+}

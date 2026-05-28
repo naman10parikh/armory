@@ -1,0 +1,7 @@
+{
+  "name": "victoriametrics-community-mcp-victorialogs",
+  "description": "Provides comprehensive integration with your [VictoriaLogs instance APIs](https://docs.victoriametrics.com/victorialogs/querying/#http-api) and [documentation](https://docs.victoriametrics.com/victorialogs/) for working with logs, investigating and debugging tasks related to your VictoriaLogs instances.",
+  "source_repo": "VictoriaMetrics-Community/mcp-victorialogs",
+  "source_url": "https://github.com/VictoriaMetrics-Community/mcp-victorialogs",
+  "install": "# git clone --depth 1 https://github.com/VictoriaMetrics-Community/mcp-victorialogs\n# See source for mcpServers config block"
+}

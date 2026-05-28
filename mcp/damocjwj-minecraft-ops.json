@@ -1,0 +1,7 @@
+{
+  "name": "damocjwj-minecraft-ops",
+  "description": "Minecraft server administration with tools for lifecycle management, files, players, and modpack testing.",
+  "source_repo": "damocjwj/minecraft-ops-mcp",
+  "source_url": "https://github.com/damocjwj/minecraft-ops-mcp",
+  "install": "npx -y minecraft-ops-mcp"
+}

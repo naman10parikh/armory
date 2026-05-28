@@ -1,0 +1,7 @@
+{
+  "name": "specleft",
+  "description": "Python intent tracing that maps specs to pytest tests and monitors implementation progress.",
+  "source_repo": "specleft/specleft",
+  "source_url": "https://github.com/specleft/specleft",
+  "install": "# git clone --depth 1 https://github.com/specleft/specleft\n# See source for mcpServers config block"
+}

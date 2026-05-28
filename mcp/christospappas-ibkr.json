@@ -1,0 +1,7 @@
+{
+  "name": "christospappas-ibkr",
+  "description": "Read-only integration with Interactive Brokers Gateway and TWS for querying account data, positions, executions, contract details, and historical market data with built-in safety controls that prevent order entry.",
+  "source_repo": "christospappas/ibkr-mcp",
+  "source_url": "https://github.com/christospappas/ibkr-mcp",
+  "install": "npx -y ibkr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eregulations-mcp-server",
+  "description": "Eregulations Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "unctad-ai/eregulations-mcp-server",
+  "source_url": "https://mcp.so/server/eregulations-mcp-server/unctad-ai",
+  "install": "npx -y eregulations-mcp-server"
+}

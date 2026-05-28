@@ -1,0 +1,7 @@
+{
+  "name": "hmk-attio",
+  "description": "Integrates with Attio's API for reading and writing company records and notes, enabling CRM operations without direct interface navigation.",
+  "source_repo": "hmk/attio-mcp-server",
+  "source_url": "https://github.com/hmk/attio-mcp-server",
+  "install": "npx -y attio-mcp-server"
+}

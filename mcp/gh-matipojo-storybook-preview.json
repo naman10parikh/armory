@@ -1,0 +1,7 @@
+{
+  "name": "gh-matipojo-storybook-preview",
+  "description": "Renders Storybook component previews inside the IDE as components are edited.",
+  "source_repo": "matipojo/simple-storybook-preview-mcp",
+  "source_url": "https://github.com/matipojo/simple-storybook-preview-mcp",
+  "install": "npx -y simple-storybook-preview-mcp"
+}

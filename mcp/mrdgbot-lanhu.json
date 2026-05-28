@@ -1,0 +1,7 @@
+{
+  "name": "mrdgbot-lanhu",
+  "description": "Access Lanhu design files to generate HTML/CSS, extract design tokens, and convert mockups to code without leaving your editor.",
+  "source_repo": "mrdgbot/lanhu-mcp",
+  "source_url": "https://github.com/mrdgbot/lanhu-mcp",
+  "install": "npx -y lanhu-mcp"
+}

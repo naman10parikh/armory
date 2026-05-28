@@ -1,0 +1,7 @@
+{
+  "name": "preflight-ios",
+  "description": "82-tool suite for AI-powered iOS Simulator automation — tap, swipe, type, screenshots, accessibility inspection, and more.",
+  "source_repo": "ethanackerman-git/preflight",
+  "source_url": "https://github.com/ethanackerman-git/preflight",
+  "install": "# git clone --depth 1 https://github.com/ethanackerman-git/preflight\n# See source for mcpServers config block"
+}

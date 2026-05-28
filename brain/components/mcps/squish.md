@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, mcp, mcp-server]
+tags: [mcp, mcp-server]
 ---
 ## What it is
 MCP server — Local-first persistent memory runtime for AI agents — MCP server for Claude Code, Cursor, OpenCode, Codex, Cline. Auto-captures context across sessions. 1-20ms recall, 283KB, no second LLM needed. Runs locally with SQLite. Supports cloud sync via Stripe checkout ($9-$99/mo). GitHub: https://github.com/michielhdoteth/squish | Docs: https://squishplugin.dev | (also available via local `squish run mcp`).

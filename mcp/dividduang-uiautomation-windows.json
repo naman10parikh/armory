@@ -1,0 +1,7 @@
+{
+  "name": "dividduang-uiautomation-windows",
+  "description": "Provides Windows UI automation capabilities through the Python UIAutomation library, enabling control finding, interaction, screenshots, and window management across Win32, WPF, UWP, and Electron applications.",
+  "source_repo": "dividduang/uiautomation_mcp",
+  "source_url": "https://github.com/dividduang/uiautomation_mcp",
+  "install": "npx -y uiautomation_mcp"
+}

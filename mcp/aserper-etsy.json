@@ -1,0 +1,7 @@
+{
+  "name": "aserper-etsy",
+  "description": "Provides full access to the Etsy Open API v3 for listings, orders, and payments.",
+  "source_repo": "aserper/etsy-mcp",
+  "source_url": "https://github.com/aserper/etsy-mcp",
+  "install": "npx -y etsy-mcp"
+}

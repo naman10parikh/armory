@@ -1,0 +1,7 @@
+{
+  "name": "treza-enclaves",
+  "description": "Manage secure enclaves (TEEs) with attestation, payments, and signing for AI agents.",
+  "source_repo": "treza-labs/treza-sdk",
+  "source_url": "https://github.com/treza-labs/treza-sdk",
+  "install": "# git clone --depth 1 https://github.com/treza-labs/treza-sdk\n# See source for mcpServers config block"
+}

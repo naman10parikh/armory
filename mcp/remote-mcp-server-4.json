@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-4",
+  "description": "Remote Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "nevikashah/remote-mcp-server",
+  "source_url": "https://mcp.so/server/remote-mcp-server/nevikashah",
+  "install": "npx -y remote-mcp-server"
+}

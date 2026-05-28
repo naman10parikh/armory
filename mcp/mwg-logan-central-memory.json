@@ -1,0 +1,7 @@
+{
+  "name": "mwg-logan-central-memory",
+  "description": "Persistent knowledge graph storage through Azure Functions and Table Storage with workspace isolation, entity management, and temporal event tracking",
+  "source_repo": "mwg-logan/central-memory-mcp",
+  "source_url": "https://github.com/mwg-logan/central-memory-mcp",
+  "install": "npx -y central-memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iamwi11-agentnx",
+  "description": "Hosted MCP server providing AI agents for federal IT and pharma workflows including alert triage, ICAM, helpdesk, and incident routing.",
+  "source_repo": "",
+  "source_url": "https://www.agentnx.ai/api/mcp-server",
+  "install": "# git clone --depth 1 https://www.agentnx.ai/api/mcp-server\n# See source for mcpServers config block"
+}

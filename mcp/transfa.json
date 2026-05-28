@@ -1,0 +1,7 @@
+{
+  "name": "transfa",
+  "description": "Upload files and get SHA-256 verified, TTL-enforced signed links with no account required.",
+  "source_repo": "colapsis/transfa",
+  "source_url": "https://github.com/colapsis/transfa",
+  "install": "# git clone --depth 1 https://github.com/colapsis/transfa\n# See source for mcpServers config block"
+}

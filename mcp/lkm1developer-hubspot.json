@@ -1,0 +1,7 @@
+{
+  "name": "lkm1developer-hubspot",
+  "description": "Integrates with HubSpot CRM to enable contact creation, company management, and activity tracking directly from conversational interfaces",
+  "source_repo": "lkm1developer/hubspot-mcp-server",
+  "source_url": "https://github.com/lkm1developer/hubspot-mcp-server",
+  "install": "npx -y hubspot-mcp-server"
+}

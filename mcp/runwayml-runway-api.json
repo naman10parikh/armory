@@ -1,0 +1,7 @@
+{
+  "name": "runwayml-runway-api",
+  "description": "Integrates with Runway's generative AI platform to create and edit videos and images through text-to-image generation, image-to-video conversion, video upscaling, and editing capabilities with automatic task polling and media URL delivery.",
+  "source_repo": "runwayml/runway-api-mcp-server",
+  "source_url": "https://github.com/runwayml/runway-api-mcp-server",
+  "install": "npx -y runway-api-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hzacode-onecite",
+  "description": "Generate academic citations from DOI, arXiv, titles, or URLs in BibTeX, APA, MLA formats",
+  "source_repo": "hzacode/onecite",
+  "source_url": "https://github.com/hzacode/onecite",
+  "install": "# git clone --depth 1 https://github.com/hzacode/onecite\n# See source for mcpServers config block"
+}

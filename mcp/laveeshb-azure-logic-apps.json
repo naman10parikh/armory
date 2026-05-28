@@ -1,0 +1,7 @@
+{
+  "name": "laveeshb-azure-logic-apps",
+  "description": "Debug workflows, manage runs, and author Azure Logic Apps configurations.",
+  "source_repo": "laveeshb/logicapps-mcp",
+  "source_url": "https://github.com/laveeshb/logicapps-mcp",
+  "install": "npx -y logicapps-mcp"
+}

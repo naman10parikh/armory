@@ -1,0 +1,7 @@
+{
+  "name": "memestack",
+  "description": "Search and browse a curated gallery of memes, infographics, and visual content.",
+  "source_repo": "",
+  "source_url": "https://memestack.ai",
+  "install": "# git clone --depth 1 https://memestack.ai\n# See source for mcpServers config block"
+}

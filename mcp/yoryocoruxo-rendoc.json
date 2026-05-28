@@ -1,0 +1,7 @@
+{
+  "name": "yoryocoruxo-rendoc",
+  "description": "Generate professional PDFs — invoices, contracts, reports — from AI tools via Rendoc templates.",
+  "source_repo": "yoryocoruxo-ai/rendoc-mcp-server",
+  "source_url": "https://github.com/yoryocoruxo-ai/rendoc-mcp-server",
+  "install": "npx -y rendoc-mcp-server"
+}

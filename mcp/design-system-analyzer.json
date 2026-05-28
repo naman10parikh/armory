@@ -1,0 +1,7 @@
+{
+  "name": "design-system-analyzer",
+  "description": "Analyzes React component files and design tokens to provide accurate component properties and styling information for precise UI code generation and design recommendations.",
+  "source_repo": "yajihum/design-system-mcp",
+  "source_url": "https://github.com/yajihum/design-system-mcp",
+  "install": "npx -y design-system-mcp"
+}

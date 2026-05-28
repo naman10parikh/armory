@@ -1,0 +1,7 @@
+{
+  "name": "lazer-twosplit",
+  "description": "Leverages multiple Claude instances to compare and combine responses, delivering optimized answers by selecting the best output or merging insights from parallel AI processing.",
+  "source_repo": "lazerthings/twosplit",
+  "source_url": "https://github.com/lazerthings/twosplit",
+  "install": "# git clone --depth 1 https://github.com/lazerthings/twosplit\n# See source for mcpServers config block"
+}

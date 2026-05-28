@@ -1,0 +1,7 @@
+{
+  "name": "findmine-shopping-stylist",
+  "description": "Integrates with FindMine's product styling API to enable fashion recommendations, outfit creation, product browsing, and style guide access for e-commerce platforms.",
+  "source_repo": "findmine/findmine-mcp",
+  "source_url": "https://github.com/findmine/findmine-mcp",
+  "install": "npx -y findmine-mcp"
+}

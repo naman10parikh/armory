@@ -1,0 +1,7 @@
+{
+  "name": "helixdata-gopherhole",
+  "description": "MCP server for the GopherHole A2A agent network, enabling IDE and AI assistant integration.",
+  "source_repo": "helixdata/gopherhole-clients",
+  "source_url": "https://github.com/helixdata/gopherhole-clients/tree/HEAD/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/helixdata/gopherhole-clients/tree/HEAD/packages/mcp\n# See source for mcpServers config block"
+}

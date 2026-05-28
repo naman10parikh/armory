@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-image-generation-flux",
+  "description": "Bridges Claude with the Replicate API to generate images using the Flux model directly within conversations through customizable parameters and asynchronous processing.",
+  "source_repo": "gongrzhe/image-generation-mcp-server",
+  "source_url": "https://github.com/gongrzhe/image-generation-mcp-server",
+  "install": "npx -y image-generation-mcp-server"
+}

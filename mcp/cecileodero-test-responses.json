@@ -1,0 +1,7 @@
+{
+  "name": "cecileodero-test-responses",
+  "description": "Returns configurable success or error responses for testing MCP client error handling.",
+  "source_repo": "cecileodero/mcp-server-test-responses",
+  "source_url": "https://github.com/cecileodero/mcp-server-test-responses",
+  "install": "# git clone --depth 1 https://github.com/cecileodero/mcp-server-test-responses\n# See source for mcpServers config block"
+}

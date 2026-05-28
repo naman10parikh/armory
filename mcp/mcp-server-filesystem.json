@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-filesystem",
+  "description": "Mcp_server_filesystem MCP server listed on mcp.so.",
+  "source_repo": "MarcusJellinghaus/mcp_server_filesystem",
+  "source_url": "https://mcp.so/server/mcp_server_filesystem/MarcusJellinghaus",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_server_filesystem/MarcusJellinghaus\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "figma",
+  "description": "Integrates with Figma's desktop app to extract design information, variables, and component data from selected frames for generating code that maintains design-to-code fidelity. Also capable of writing designs to Figma.",
+  "source_repo": "",
+  "source_url": "https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server",
+  "install": "# git clone --depth 1 https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server\n# See source for mcpServers config block"
+}

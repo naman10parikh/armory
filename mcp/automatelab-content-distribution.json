@@ -1,0 +1,7 @@
+{
+  "name": "automatelab-content-distribution",
+  "description": "Publishes content simultaneously to DEV.to, Hashnode, GitHub Discussions, Reddit, Bluesky, LinkedIn, and Medium.",
+  "source_repo": "automatelab-tech/content-distribution-mcp",
+  "source_url": "https://github.com/automatelab-tech/content-distribution-mcp",
+  "install": "npx -y content-distribution-mcp"
+}

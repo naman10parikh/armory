@@ -1,0 +1,7 @@
+{
+  "name": "cevatkerim-unsplash-mcp",
+  "description": "Unsplash photo search with proper attribution. Returns ready-to-use attribution text and HTML for each photo, making it easy for LLMs to build content pages with properly credited images. Includes search, random photos, and download tracking.",
+  "source_repo": "cevatkerim/unsplash-mcp",
+  "source_url": "https://github.com/cevatkerim/unsplash-mcp",
+  "install": "npx -y unsplash-mcp"
+}

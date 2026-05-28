@@ -1,0 +1,7 @@
+{
+  "name": "yault-aesp",
+  "description": "Policy-gated vault operations for AI agent payments with configurable spending limits and human oversight.",
+  "source_repo": "acechain-io/aesp",
+  "source_url": "https://github.com/acechain-io/aesp",
+  "install": "# git clone --depth 1 https://github.com/acechain-io/aesp\n# See source for mcpServers config block"
+}

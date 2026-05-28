@@ -1,0 +1,7 @@
+{
+  "name": "coherence",
+  "description": "Chat with your Coherence CRM's AI agent from Claude, Cursor, and Cline — read records, draft outreach, send email, and create reminders.",
+  "source_repo": "getcoherence/mcp-server",
+  "source_url": "https://github.com/getcoherence/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/getcoherence/mcp-server\n# See source for mcpServers config block"
+}

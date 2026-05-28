@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-blockstream-info",
+  "description": "Explore the Bitcoin blockchain using Blockstream's Esplora API, covering addresses, transactions, blocks, and mempool data on mainnet and testnet.",
+  "source_repo": "pipeworx-io/mcp-blockstream-info",
+  "source_url": "https://github.com/pipeworx-io/mcp-blockstream-info",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-blockstream-info\n# See source for mcpServers config block"
+}

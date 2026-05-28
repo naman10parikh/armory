@@ -1,0 +1,7 @@
+{
+  "name": "elvismdev-mem0-mcp-selfhosted",
+  "description": "Self-hosted mem0 MCP server for Claude Code with Qdrant vector search, Neo4j knowledge graph, and Ollama embeddings. Zero-config OAT auth, split-model graph routing, session hooks for automatic cross-session memory, and 11 tools. Supports both Anthropic and fully local Ollama setups.",
+  "source_repo": "elvismdev/mem0-mcp-selfhosted",
+  "source_url": "https://github.com/elvismdev/mem0-mcp-selfhosted",
+  "install": "# git clone --depth 1 https://github.com/elvismdev/mem0-mcp-selfhosted\n# See source for mcpServers config block"
+}

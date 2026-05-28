@@ -1,0 +1,7 @@
+{
+  "name": "henkdz-selfhosted-supabase",
+  "description": "Provides a bridge between development environments and self-hosted Supabase instances for database introspection, migration management, and storage operations through direct RPC calls and database connections.",
+  "source_repo": "henkdz/selfhosted-supabase-mcp",
+  "source_url": "https://github.com/henkdz/selfhosted-supabase-mcp",
+  "install": "npx -y selfhosted-supabase-mcp"
+}

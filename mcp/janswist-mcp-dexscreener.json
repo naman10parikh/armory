@@ -1,0 +1,7 @@
+{
+  "name": "janswist-mcp-dexscreener",
+  "description": "Real-time on-chain market prices using open and free Dexscreener API",
+  "source_repo": "janswist/mcp-dexscreener",
+  "source_url": "https://github.com/janswist/mcp-dexscreener",
+  "install": "# git clone --depth 1 https://github.com/janswist/mcp-dexscreener\n# See source for mcpServers config block"
+}

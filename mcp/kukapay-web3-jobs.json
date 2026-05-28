@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-web3-jobs",
+  "description": "Integrates with the web3.career API to search and filter cryptocurrency and blockchain job opportunities with parameters like remote work preferences, location, and technology tags, returning structured job listings with company details, descriptions, and application URLs.",
+  "source_repo": "kukapay/web3-jobs-mcp",
+  "source_url": "https://github.com/kukapay/web3-jobs-mcp",
+  "install": "npx -y web3-jobs-mcp"
+}

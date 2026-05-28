@@ -1,0 +1,7 @@
+{
+  "name": "taxformatter",
+  "description": "Parse crypto CSVs and bank PDFs into clean transaction data for Koinly, TurboTax, and CoinLedger.",
+  "source_repo": "sean-bravo/trw",
+  "source_url": "https://github.com/sean-bravo/trw",
+  "install": "# git clone --depth 1 https://github.com/sean-bravo/trw\n# See source for mcpServers config block"
+}

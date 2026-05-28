@@ -1,0 +1,7 @@
+{
+  "name": "bcharleson-cursor-sound-notifications",
+  "description": "Plays customizable audio notifications when code generation completes in the Cursor editor, eliminating the need to visually monitor for completions.",
+  "source_repo": "bcharleson/sound-mcp",
+  "source_url": "https://github.com/bcharleson/sound-mcp",
+  "install": "npx -y sound-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-creator35lwb-web-verifimind",
+  "description": "Multi-agent AI validation with RefleXion Trinity for ethical and secure application development.",
+  "source_repo": "creator35lwb-web/verifimind-peas",
+  "source_url": "https://github.com/creator35lwb-web/verifimind-peas",
+  "install": "# git clone --depth 1 https://github.com/creator35lwb-web/verifimind-peas\n# See source for mcpServers config block"
+}

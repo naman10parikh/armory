@@ -1,0 +1,7 @@
+{
+  "name": "cortivium",
+  "description": "Enables reliable AI behavior control by registering Ghost Skills as MCP tools that the model reads before every action, providing enforceable behavioral rules with ~95% reliability.",
+  "source_repo": "Cortivium/cortivium",
+  "source_url": "https://github.com/Cortivium/cortivium",
+  "install": "# git clone --depth 1 https://github.com/Cortivium/cortivium\n# See source for mcpServers config block"
+}

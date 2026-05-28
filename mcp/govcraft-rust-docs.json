@@ -1,0 +1,7 @@
+{
+  "name": "govcraft-rust-docs",
+  "description": "Efficiently loads and processes Rust crate documentation using LlamaIndex's HTML reader, with intelligent file selection logic to handle duplicate files and optional comprehensive parsing modes.",
+  "source_repo": "govcraft/rust-docs-mcp-server",
+  "source_url": "https://github.com/govcraft/rust-docs-mcp-server",
+  "install": "npx -y rust-docs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olibuijr-iceland-news",
+  "description": "Aggregates RSS feeds from six major Icelandic news outlets including RÚV and Morgunblaðið with support for Icelandic, English, and Polish language feeds.",
+  "source_repo": "olibuijr/iceland-news-mcp",
+  "source_url": "https://github.com/olibuijr/iceland-news-mcp",
+  "install": "npx -y iceland-news-mcp"
+}

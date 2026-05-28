@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Cache expensive file processing results using SHA-256 content hashes — path-independent, auto-invalidating, with service layer separation.

@@ -1,0 +1,7 @@
+{
+  "name": "duhlink-instagram-analytics",
+  "description": "Integrates with Instagram's API and web scraping tools to enable social media analytics, account management, and content strategy insights.",
+  "source_repo": "duhlink/instagram-server-next-mcp",
+  "source_url": "https://github.com/duhlink/instagram-server-next-mcp",
+  "install": "npx -y instagram-server-next-mcp"
+}

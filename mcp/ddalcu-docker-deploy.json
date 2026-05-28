@@ -1,0 +1,7 @@
+{
+  "name": "ddalcu-docker-deploy",
+  "description": "Lightweight PaaS for deploying Docker containers to any VPS with automatic SSL, subdomain routing, and MCP-based management from any AI coding agent.",
+  "source_repo": "ddalcu/mcp-deploy",
+  "source_url": "https://github.com/ddalcu/mcp-deploy",
+  "install": "# git clone --depth 1 https://github.com/ddalcu/mcp-deploy\n# See source for mcpServers config block"
+}

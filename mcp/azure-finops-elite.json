@@ -1,0 +1,7 @@
+{
+  "name": "azure-finops-elite",
+  "description": "Production-grade MCP server for enterprise Azure cost optimization, enabling spend anomaly detection, multi-tenant auditing, budget validation, and compliance-aware recommendations.",
+  "source_repo": "mazhar480/Azure-FinOps-Optimizer-MCP",
+  "source_url": "https://github.com/mazhar480/Azure-FinOps-Optimizer-MCP",
+  "install": "npx -y Azure-FinOps-Optimizer-MCP"
+}

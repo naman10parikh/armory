@@ -1,0 +1,7 @@
+{
+  "name": "maverick7-glue-code-generator",
+  "description": "Generates Vue/React components from API JSON with Zod validation schemas",
+  "source_repo": "maverick7/mcp-glue-code-generator",
+  "source_url": "https://github.com/maverick7/mcp-glue-code-generator",
+  "install": "# git clone --depth 1 https://github.com/maverick7/mcp-glue-code-generator\n# See source for mcpServers config block"
+}

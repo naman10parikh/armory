@@ -1,0 +1,7 @@
+{
+  "name": "loonghao-photoshop",
+  "description": "Connects AI agents to Adobe Photoshop via an HTTP server and UXP plugin for programmatic image manipulation and design automation.",
+  "source_repo": "loonghao/dcc-mcp-photoshop",
+  "source_url": "https://github.com/loonghao/dcc-mcp-photoshop",
+  "install": "# git clone --depth 1 https://github.com/loonghao/dcc-mcp-photoshop\n# See source for mcpServers config block"
+}

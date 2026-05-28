@@ -1,0 +1,7 @@
+{
+  "name": "ready-apis",
+  "description": "MCP tools for geo, email, phone, company, DNS, FX, equities, weather, tax, economics, and intelligence — streamable HTTP, one API key.",
+  "source_repo": "ReadyAPIs-com/readyapis-mcp",
+  "source_url": "https://github.com/ReadyAPIs-com/readyapis-mcp",
+  "install": "npx -y readyapis-mcp"
+}

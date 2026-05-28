@@ -1,0 +1,7 @@
+{
+  "name": "wangmhaha-apifox",
+  "description": "Bridges Claude with Apifox API testing platform, enabling direct interaction with API documentation and testing capabilities through environment variable authentication and TypeScript/Express implementation.",
+  "source_repo": "wangmhaha/apifox-mcp-server",
+  "source_url": "https://github.com/wangmhaha/apifox-mcp-server",
+  "install": "npx -y apifox-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "winstonfassett-sonos",
+  "description": "Provides a bridge between Sonos audio devices and natural language control, enabling speaker discovery, playback management, volume adjustment, and system configuration through specialized tools for seamless home audio control.",
+  "source_repo": "winstonfassett/sonos-mcp-server",
+  "source_url": "https://github.com/winstonfassett/sonos-mcp-server",
+  "install": "npx -y sonos-mcp-server"
+}

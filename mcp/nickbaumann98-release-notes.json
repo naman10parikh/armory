@@ -1,0 +1,7 @@
+{
+  "name": "nickbaumann98-release-notes",
+  "description": "Integrates with release note management systems to automate generation and updating of software project documentation.",
+  "source_repo": "nickbaumann98/release-notes-server",
+  "source_url": "https://github.com/nickbaumann98/release-notes-server",
+  "install": "# git clone --depth 1 https://github.com/nickbaumann98/release-notes-server\n# See source for mcpServers config block"
+}

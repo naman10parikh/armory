@@ -1,0 +1,7 @@
+{
+  "name": "klyph-io-pii-redactor",
+  "description": "Detects and redacts personally identifiable information from text including emails, phone numbers, credit cards, and SSNs.",
+  "source_repo": "klyph-io/pii-redactor-mcp",
+  "source_url": "https://github.com/klyph-io/pii-redactor-mcp",
+  "install": "npx -y pii-redactor-mcp"
+}

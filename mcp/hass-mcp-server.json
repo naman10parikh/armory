@@ -1,0 +1,7 @@
+{
+  "name": "hass-mcp-server",
+  "description": "MCP server for full Home Assistant control, enabling AI agents to manage dashboards, automations, files, apps, entities, and more via REST API, WebSocket, and SSH.",
+  "source_repo": "jarahkon/hass-mcp-server",
+  "source_url": "https://github.com/jarahkon/hass-mcp-server",
+  "install": "npx -y hass-mcp-server"
+}

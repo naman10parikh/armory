@@ -1,0 +1,7 @@
+{
+  "name": "pingzen",
+  "description": "Monitors websites, APIs, and services across 22 protocols with 1-minute check intervals, instant alerts via Telegram, Slack, and Discord, and public status page generation.",
+  "source_repo": "",
+  "source_url": "https://pingzen.dev",
+  "install": "# git clone --depth 1 https://pingzen.dev\n# See source for mcpServers config block"
+}

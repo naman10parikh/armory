@@ -1,0 +1,7 @@
+{
+  "name": "mygene-mcp-server",
+  "description": "Enables AI assistants to query gene annotations, expression, pathways, variants, and more via the MyGene.info API, supporting batch operations and multiple biological data sources.",
+  "source_repo": "nickzren/mygene-mcp",
+  "source_url": "https://github.com/nickzren/mygene-mcp",
+  "install": "npx -y mygene-mcp"
+}

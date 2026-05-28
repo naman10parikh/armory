@@ -1,0 +1,7 @@
+{
+  "name": "asmith26-jupytercad-mcp",
+  "description": "An MCP server for [JupyterCAD](https://github.com/jupytercad/JupyterCAD) that allows you to control it using LLMs/natural language.",
+  "source_repo": "asmith26/jupytercad-mcp",
+  "source_url": "https://github.com/asmith26/jupytercad-mcp",
+  "install": "npx -y jupytercad-mcp"
+}

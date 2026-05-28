@@ -1,0 +1,7 @@
+{
+  "name": "chasesaurabh-mcp-page-capture",
+  "description": "MCP server that captures webpage screenshots, with viewport or full-page options and base64 PNG output.",
+  "source_repo": "chasesaurabh/mcp-page-capture",
+  "source_url": "https://github.com/chasesaurabh/mcp-page-capture",
+  "install": "# git clone --depth 1 https://github.com/chasesaurabh/mcp-page-capture\n# See source for mcpServers config block"
+}

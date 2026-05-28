@@ -1,0 +1,7 @@
+{
+  "name": "bocha-search",
+  "description": "Integrates with Bocha, a Chinese search engine, to provide web search capabilities with rich structured data from billions of documents across multiple domains and languages.",
+  "source_repo": "bochaai/bocha-search-mcp",
+  "source_url": "https://github.com/bochaai/bocha-search-mcp",
+  "install": "npx -y bocha-search-mcp"
+}

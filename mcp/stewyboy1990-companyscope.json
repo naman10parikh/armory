@@ -1,0 +1,7 @@
+{
+  "name": "stewyboy1990-companyscope",
+  "description": "Aggregates company intelligence from 10 public sources including SEC EDGAR, GitHub, Wikipedia, and patent databases.",
+  "source_repo": "stewyboy1990/companyscope-mcp",
+  "source_url": "https://github.com/stewyboy1990/companyscope-mcp",
+  "install": "npx -y companyscope-mcp"
+}

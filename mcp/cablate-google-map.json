@@ -1,0 +1,7 @@
+{
+  "name": "cablate-google-map",
+  "description": "Integrates with Google Maps API to enable location-based operations like place searching, geocoding, and geographical information retrieval within conversations.",
+  "source_repo": "cablate/mcp-google-map",
+  "source_url": "https://github.com/cablate/mcp-google-map",
+  "install": "# git clone --depth 1 https://github.com/cablate/mcp-google-map\n# See source for mcpServers config block"
+}

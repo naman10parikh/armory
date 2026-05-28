@@ -1,0 +1,7 @@
+{
+  "name": "kotelberg-playwright-web-browser",
+  "description": "Enables web browsing capabilities through Playwright automation for navigating websites, extracting content, identifying interactive elements, and performing browser actions in a containerized Docker environment.",
+  "source_repo": "kotelberg/playwright-mcp-server",
+  "source_url": "https://github.com/kotelberg/playwright-mcp-server",
+  "install": "npx -y playwright-mcp-server"
+}

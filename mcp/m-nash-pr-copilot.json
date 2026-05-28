@@ -1,0 +1,7 @@
+{
+  "name": "m-nash-pr-copilot",
+  "description": "Monitors GitHub pull requests with automated state machine-driven CI checks, review comment handling, merge conflict detection, and TUI dashboard visualization.",
+  "source_repo": "m-nash/pr-copilot",
+  "source_url": "https://github.com/m-nash/pr-copilot",
+  "install": "# git clone --depth 1 https://github.com/m-nash/pr-copilot\n# See source for mcpServers config block"
+}

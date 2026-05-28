@@ -1,0 +1,7 @@
+{
+  "name": "josh-fisher-datto-rmm",
+  "description": "Connects to Datto RMM platforms for device management, alert monitoring, job scheduling, and audit operations with automatic OAuth authentication across all six regional platforms.",
+  "source_repo": "josh-fisher/datto-rmm",
+  "source_url": "https://github.com/josh-fisher/datto-rmm/tree/HEAD/apps/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/josh-fisher/datto-rmm/tree/HEAD/apps/mcp-server\n# See source for mcpServers config block"
+}

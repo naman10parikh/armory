@@ -1,0 +1,7 @@
+{
+  "name": "beeper-mcp-server",
+  "description": "Beeper Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "stopWarByWar/beeper-mcp-server",
+  "source_url": "https://mcp.so/server/beeper-mcp-server/stopWarByWar",
+  "install": "npx -y beeper-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "auralshin-neleus",
+  "description": "MCP server for Hyperliquid cryptocurrency trading with market analysis, order book data, and trade execution tools.",
+  "source_repo": "auralshin/neleus-mcp",
+  "source_url": "https://github.com/auralshin/neleus-mcp",
+  "install": "npx -y neleus-mcp"
+}

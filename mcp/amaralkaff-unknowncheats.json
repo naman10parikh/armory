@@ -1,0 +1,7 @@
+{
+  "name": "amaralkaff-unknowncheats",
+  "description": "Scrapes and searches the UnknownCheats security forum with Cloudflare bypass using 6 tools.",
+  "source_repo": "amaralkaff/mcp-unknowncheat",
+  "source_url": "https://github.com/amaralkaff/mcp-unknowncheat",
+  "install": "# git clone --depth 1 https://github.com/amaralkaff/mcp-unknowncheat\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kmexnx-excel-to-pdf",
+  "description": "Converts Excel and Apple Numbers spreadsheets to PDF format, enabling file sharing with stakeholders who lack access to the original applications.",
+  "source_repo": "kmexnx/excel-to-pdf-mcp",
+  "source_url": "https://github.com/kmexnx/excel-to-pdf-mcp",
+  "install": "npx -y excel-to-pdf-mcp"
+}

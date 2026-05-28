@@ -1,0 +1,7 @@
+{
+  "name": "claude-sidekick",
+  "description": "A Model Context Protocol (MCP) server that connects Claude to local Ollama models, enabling offloading of simpler tasks to save Claude tokens.",
+  "source_repo": "andrewbrereton/claude-sidekick",
+  "source_url": "https://github.com/andrewbrereton/claude-sidekick",
+  "install": "# git clone --depth 1 https://github.com/andrewbrereton/claude-sidekick\n# See source for mcpServers config block"
+}

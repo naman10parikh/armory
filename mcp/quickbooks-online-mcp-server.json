@@ -1,0 +1,7 @@
+{
+  "name": "quickbooks-online-mcp-server",
+  "description": "Provides 55 tools for managing QuickBooks entities like customers, invoices, and bills via any MCP-compatible client, built on Cloudflare Workers with OAuth 2.0 authentication.",
+  "source_repo": "LibreChat-AI/quickbooks-online-mcp",
+  "source_url": "https://github.com/LibreChat-AI/quickbooks-online-mcp",
+  "install": "npx -y quickbooks-online-mcp"
+}

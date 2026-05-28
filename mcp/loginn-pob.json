@@ -1,0 +1,7 @@
+{
+  "name": "loginn-pob",
+  "description": "Analyzes Path of Exile character builds using Path of Building Community data, with support for trade price-checking, gear pricing, and wiki lookups.",
+  "source_repo": "loginn/pob-mcp",
+  "source_url": "https://github.com/loginn/pob-mcp",
+  "install": "npx -y pob-mcp"
+}

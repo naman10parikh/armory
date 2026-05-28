@@ -1,0 +1,7 @@
+{
+  "name": "apt-mcp-server",
+  "description": "Enables AI agents to install, remove, update, and query apt packages on Linux via MCP tools.",
+  "source_repo": "GdMacmillan/apt-mcp-server",
+  "source_url": "https://github.com/GdMacmillan/apt-mcp-server",
+  "install": "npx -y apt-mcp-server"
+}

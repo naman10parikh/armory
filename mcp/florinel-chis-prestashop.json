@@ -1,0 +1,7 @@
+{
+  "name": "florinel-chis-prestashop",
+  "description": "Provides searchable access to PrestaShop's official documentation through locally-indexed SQLite database with FTS5 full-text search for hooks, guides, tutorials, API references, and components.",
+  "source_repo": "florinel-chis/prestashop-mcp",
+  "source_url": "https://github.com/florinel-chis/prestashop-mcp",
+  "install": "npx -y prestashop-mcp"
+}

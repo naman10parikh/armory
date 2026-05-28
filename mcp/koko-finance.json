@@ -1,0 +1,7 @@
+{
+  "name": "koko-finance",
+  "description": "AI-powered credit card advisor for searching, comparing, and optimizing rewards across 100+ US cards.",
+  "source_repo": "kokofinance/koko-mcp-server",
+  "source_url": "https://github.com/kokofinance/koko-mcp-server",
+  "install": "npx -y koko-mcp-server"
+}

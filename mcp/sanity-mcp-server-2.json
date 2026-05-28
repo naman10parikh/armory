@@ -1,0 +1,7 @@
+{
+  "name": "sanity-mcp-server-2",
+  "description": "Sanity Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "jlmelis/sanity-mcp-server",
+  "source_url": "https://mcp.so/server/sanity-mcp-server/jlmelis",
+  "install": "npx -y sanity-mcp-server"
+}

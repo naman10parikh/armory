@@ -1,0 +1,7 @@
+{
+  "name": "olyport-epa-ejscreen",
+  "description": "Environmental justice screening and mapping data from EPA EJScreen.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/ejscreen/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/ejscreen/mcp\n# See source for mcpServers config block"
+}

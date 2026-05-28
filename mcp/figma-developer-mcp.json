@@ -1,0 +1,7 @@
+{
+  "name": "figma-developer-mcp",
+  "description": "Enables coding agents like Cursor to access Figma design data, fetch layout and styling information, and implement designs in any framework.",
+  "source_repo": "Cangnt5/Windsurf-Figma-Context-MCP",
+  "source_url": "https://github.com/Cangnt5/Windsurf-Figma-Context-MCP",
+  "install": "npx -y Windsurf-Figma-Context-MCP"
+}

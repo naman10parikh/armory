@@ -1,0 +1,7 @@
+{
+  "name": "gensecai-sonicwall",
+  "description": "Integrates with SonicWall firewalls to provide natural language log analysis, threat detection, connection searching, and security statistics with data export capabilities for both SonicOS 7.x and 8.x versions.",
+  "source_repo": "gensecaihq/sonicwall-mcp-server",
+  "source_url": "https://github.com/gensecaihq/sonicwall-mcp-server",
+  "install": "npx -y sonicwall-mcp-server"
+}

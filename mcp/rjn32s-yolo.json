@@ -1,0 +1,7 @@
+{
+  "name": "rjn32s-yolo",
+  "description": "Zero-shot object detection and segmentation using Ultralytics YOLOE models.",
+  "source_repo": "rjn32s/mcp-yolo",
+  "source_url": "https://github.com/rjn32s/mcp-yolo",
+  "install": "# git clone --depth 1 https://github.com/rjn32s/mcp-yolo\n# See source for mcpServers config block"
+}

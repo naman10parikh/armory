@@ -1,0 +1,7 @@
+{
+  "name": "nexussquad300-costrack",
+  "description": "MCP server for LLM cost tracking with tools for logging, reporting, model price comparison, and budget enforcement.",
+  "source_repo": "nexussquad300/costrack-mcp",
+  "source_url": "https://github.com/nexussquad300/costrack-mcp",
+  "install": "npx -y costrack-mcp"
+}

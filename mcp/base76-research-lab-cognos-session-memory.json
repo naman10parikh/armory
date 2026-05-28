@@ -1,0 +1,7 @@
+{
+  "name": "base76-research-lab-cognos-session-memory",
+  "description": "Verified context injection via epistemic trust scoring for session continuity between conversations.",
+  "source_repo": "base76-research-lab/cognos-session-memory",
+  "source_url": "https://github.com/base76-research-lab/cognos-session-memory",
+  "install": "# git clone --depth 1 https://github.com/base76-research-lab/cognos-session-memory\n# See source for mcpServers config block"
+}

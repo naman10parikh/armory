@@ -1,0 +1,7 @@
+{
+  "name": "scraperis-scraper",
+  "description": "Integrates with Scraper.is API to enable web content extraction, structured data parsing, and Markdown conversion for tasks like product research, news aggregation, and content analysis.",
+  "source_repo": "ai-quill/scraperis-mcp",
+  "source_url": "https://github.com/ai-quill/scraperis-mcp",
+  "install": "npx -y scraperis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "haravan-pluginmd",
+  "description": "Manages Haravan e-commerce stores through 70 tools covering customers, orders, products, and inventory.",
+  "source_repo": "pluginmd/haravan-mcp",
+  "source_url": "https://github.com/pluginmd/haravan-mcp",
+  "install": "npx -y haravan-mcp"
+}

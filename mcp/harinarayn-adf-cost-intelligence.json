@@ -1,0 +1,7 @@
+{
+  "name": "harinarayn-adf-cost-intelligence",
+  "description": "Azure Data Factory FinOps intelligence for pipeline cost ranking, waste detection, and optimization.",
+  "source_repo": "harinarayn/adf-cost-intelligence-mcp",
+  "source_url": "https://github.com/harinarayn/adf-cost-intelligence-mcp",
+  "install": "npx -y adf-cost-intelligence-mcp"
+}

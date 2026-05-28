@@ -1,0 +1,7 @@
+{
+  "name": "connhex-mcp-server",
+  "description": "Enables natural language interaction with Connhex IoT platform APIs for managing devices, telemetry, rules, and resources via MCP tools.",
+  "source_repo": "compiuta-origin/connhex-mcp-server",
+  "source_url": "https://github.com/compiuta-origin/connhex-mcp-server",
+  "install": "npx -y connhex-mcp-server"
+}

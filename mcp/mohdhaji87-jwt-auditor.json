@@ -1,0 +1,7 @@
+{
+  "name": "mohdhaji87-jwt-auditor",
+  "description": "Provides JWT security auditing capabilities through token decoding, vulnerability analysis, HMAC secret brute-forcing, and token generation for penetration testing and security assessments.",
+  "source_repo": "mohdhaji87/jwtauditormcp",
+  "source_url": "https://github.com/mohdhaji87/jwtauditormcp",
+  "install": "# git clone --depth 1 https://github.com/mohdhaji87/jwtauditormcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "youtube",
+  "description": "Integrates with YouTube to enable video content analysis through transcript extraction, search, comment retrieval, and content summarization for research and educational insights",
+  "source_repo": "prajwal-ak-0/youtube-mcp",
+  "source_url": "https://github.com/prajwal-ak-0/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-climatiq",
+  "description": "Climatiq carbon footprint calculator with 60k peer-reviewed emission factors via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-climatiq",
+  "source_url": "https://github.com/pipeworx-io/mcp-climatiq",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-climatiq\n# See source for mcpServers config block"
+}

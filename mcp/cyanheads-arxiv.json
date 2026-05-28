@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-arxiv",
+  "description": "Search arXiv papers, fetch metadata in batch, read full HTML content, and browse the category taxonomy.",
+  "source_repo": "cyanheads/arxiv-mcp-server",
+  "source_url": "https://github.com/cyanheads/arxiv-mcp-server",
+  "install": "npx -y arxiv-mcp-server"
+}

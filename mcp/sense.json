@@ -1,0 +1,7 @@
+{
+  "name": "sense",
+  "description": "Codebase intelligence for AI coding agents: symbol graph, blast-radius analysis, and semantic search across large repositories.",
+  "source_repo": "luuuc/sense",
+  "source_url": "https://github.com/luuuc/sense",
+  "install": "# git clone --depth 1 https://github.com/luuuc/sense\n# See source for mcpServers config block"
+}

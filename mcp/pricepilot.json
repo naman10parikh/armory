@@ -1,0 +1,7 @@
+{
+  "name": "pricepilot",
+  "description": "Free competitive pricing intelligence for CPG brands across Amazon grocery, health, household, and pet supply categories.",
+  "source_repo": "vantage-meridian-group/pricepilot-mcpb",
+  "source_url": "https://github.com/vantage-meridian-group/pricepilot-mcpb",
+  "install": "# git clone --depth 1 https://github.com/vantage-meridian-group/pricepilot-mcpb\n# See source for mcpServers config block"
+}

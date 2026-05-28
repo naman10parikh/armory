@@ -1,0 +1,7 @@
+{
+  "name": "devload-whatap-mxql",
+  "description": "Analyze WhaTap APM, browser, and infrastructure metrics through MXQL queries with secure session management",
+  "source_repo": "devload/whatap-mxql-cli",
+  "source_url": "https://github.com/devload/whatap-mxql-cli",
+  "install": "# git clone --depth 1 https://github.com/devload/whatap-mxql-cli\n# See source for mcpServers config block"
+}

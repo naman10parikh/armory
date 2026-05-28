@@ -1,0 +1,7 @@
+{
+  "name": "wklee610-kafka-mcp",
+  "description": "MCP server for Apache Kafka that allows LLM agents to inspect topics, consumer groups, and safely manage offsets (reset, rewind).",
+  "source_repo": "wklee610/kafka-mcp",
+  "source_url": "https://github.com/wklee610/kafka-mcp",
+  "install": "npx -y kafka-mcp"
+}

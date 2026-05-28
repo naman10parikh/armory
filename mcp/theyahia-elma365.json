@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-elma365",
+  "description": "Integrates with ELMA365 for application elements and BPM task management.",
+  "source_repo": "theyahia/elma365-mcp",
+  "source_url": "https://github.com/theyahia/elma365-mcp",
+  "install": "npx -y elma365-mcp"
+}

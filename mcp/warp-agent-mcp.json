@@ -1,0 +1,7 @@
+{
+  "name": "warp-agent-mcp",
+  "description": "Quote, book, and track real LTL, FTL, cargo van, and box-truck freight through the Warp network - 20 tools, in-chat login, Stripe-charged bookings, and real carrier dispatch. Quoting is keyless; booking needs a free Warp account with a card on file.",
+  "source_repo": "warpfreight/warp-agent-mcp",
+  "source_url": "https://github.com/warpfreight/warp-agent-mcp",
+  "install": "npx -y warp-agent-mcp"
+}

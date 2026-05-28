@@ -1,0 +1,7 @@
+{
+  "name": "pmxt",
+  "description": "Unified prediction market API covering Polymarket, Kalshi, Limitless, and other exchanges for market queries and trading.",
+  "source_repo": "pmxt-dev/pmxt-mcp",
+  "source_url": "https://github.com/pmxt-dev/pmxt-mcp",
+  "install": "npx -y pmxt-mcp"
+}

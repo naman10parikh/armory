@@ -1,0 +1,7 @@
+{
+  "name": "jxnl-apple-native-applications",
+  "description": "Enables AI interaction with macOS native applications through AppleScript for tasks like managing contacts, notes, emails, reminders, calendar events, and maps navigation",
+  "source_repo": "jxnl/python-apple-mcp",
+  "source_url": "https://github.com/jxnl/python-apple-mcp",
+  "install": "npx -y python-apple-mcp"
+}

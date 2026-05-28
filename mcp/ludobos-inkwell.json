@@ -1,0 +1,7 @@
+{
+  "name": "ludobos-inkwell",
+  "description": "Editorial intelligence platform for newsletter writers that manages research workflows from source collection through article drafting.",
+  "source_repo": "ludobos/inkwell-mcp",
+  "source_url": "https://github.com/ludobos/inkwell-mcp",
+  "install": "npx -y inkwell-mcp"
+}

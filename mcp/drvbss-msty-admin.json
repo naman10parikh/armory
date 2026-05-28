@@ -1,0 +1,7 @@
+{
+  "name": "drvbss-msty-admin",
+  "description": "Provides administration and automation capabilities for Msty Studio Desktop, enabling database queries, model management, conversation analysis, and configuration backup/restore for local LLM workflows.",
+  "source_repo": "drvbss/msty-admin-mcp",
+  "source_url": "https://github.com/drvbss/msty-admin-mcp",
+  "install": "npx -y msty-admin-mcp"
+}

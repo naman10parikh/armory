@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [arkts-coding-style, arkts-hooks]
-tags: [ecc, rules, arkts]
+tags: [rules, arkts]
 ---
 ## What it is
 arkts rule: apply when working on arkts and you need HarmonyOS / ArkTS Testing.

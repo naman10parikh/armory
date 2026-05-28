@@ -1,0 +1,7 @@
+{
+  "name": "cocktails-mcp",
+  "description": "Enables searching for cocktail recipes by name, ingredient, or randomly, and retrieving full cocktail details including ingredients, measurements, and instructions via TheCocktailDB API.",
+  "source_repo": "pipeworx-io/mcp-cocktails",
+  "source_url": "https://github.com/pipeworx-io/mcp-cocktails",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-cocktails\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tocharianou-elasticsearch",
+  "description": "Integrates with Elasticsearch clusters (versions 5.x-9.x) for security-focused threat detection, anomaly analysis, incident investigation, and compliance monitoring with automatic version detection and adaptive feature loading.",
+  "source_repo": "tocharianou/elasticsearch-mcp",
+  "source_url": "https://github.com/tocharianou/elasticsearch-mcp",
+  "install": "npx -y elasticsearch-mcp"
+}

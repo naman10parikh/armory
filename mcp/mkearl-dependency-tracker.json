@@ -1,0 +1,7 @@
+{
+  "name": "mkearl-dependency-tracker",
+  "description": "Manage and analyze project dependencies, offering caching and flexible configuration for efficient tracking across complex software ecosystems.",
+  "source_repo": "mkearl/dependency-mcp",
+  "source_url": "https://github.com/mkearl/dependency-mcp",
+  "install": "npx -y dependency-mcp"
+}

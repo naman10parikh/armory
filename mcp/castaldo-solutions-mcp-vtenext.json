@@ -1,0 +1,7 @@
+{
+  "name": "castaldo-solutions-mcp-vtenext",
+  "description": "MCP server for VTENext CRM (open-source vtiger-based). Query, create and update opportunities and contacts via the WebService API. Available on npm as `@castaldosolutions/mcp-vtenext`.",
+  "source_repo": "Castaldo-Solutions/mcp-vtenext",
+  "source_url": "https://github.com/Castaldo-Solutions/mcp-vtenext",
+  "install": "# git clone --depth 1 https://github.com/Castaldo-Solutions/mcp-vtenext\n# See source for mcpServers config block"
+}

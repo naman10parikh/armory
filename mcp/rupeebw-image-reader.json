@@ -1,0 +1,7 @@
+{
+  "name": "rupeebw-image-reader",
+  "description": "Provides advanced image processing capabilities using TypeScript and Sharp, enabling users to list, analyze, resize, and convert images through flexible metadata extraction, thumbnail generation, and format conversion tools.",
+  "source_repo": "rupeedev/mcp-image-reader",
+  "source_url": "https://github.com/rupeedev/mcp-image-reader",
+  "install": "# git clone --depth 1 https://github.com/rupeedev/mcp-image-reader\n# See source for mcpServers config block"
+}

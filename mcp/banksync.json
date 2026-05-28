@@ -1,0 +1,7 @@
+{
+  "name": "banksync",
+  "description": "Connects AI agents to bank accounts, transactions, balances, investments, and loan data across 15,000+ financial institutions.",
+  "source_repo": "banksynchq/banksync-mcp",
+  "source_url": "https://github.com/banksynchq/banksync-mcp",
+  "install": "npx -y banksync-mcp"
+}

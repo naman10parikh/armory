@@ -1,0 +1,7 @@
+{
+  "name": "kevodb-mcp-server",
+  "description": "Enables AI agents to interact with KevoDB, a key-value database, through MCP tools for CRUD operations, transactions, and scans.",
+  "source_repo": "fastmcp-me/kevo-mcp",
+  "source_url": "https://github.com/fastmcp-me/kevo-mcp",
+  "install": "npx -y kevo-mcp"
+}

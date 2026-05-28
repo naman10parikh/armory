@@ -1,0 +1,7 @@
+{
+  "name": "vast-db-mcp-server",
+  "description": "Enables AI agents to securely query VAST Data databases for schema, metadata, and sample data via read-only SQL and MCP resources.",
+  "source_repo": "elementalcollision/vast-db-mcp",
+  "source_url": "https://github.com/elementalcollision/vast-db-mcp",
+  "install": "npx -y vast-db-mcp"
+}

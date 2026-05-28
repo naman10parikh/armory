@@ -1,0 +1,7 @@
+{
+  "name": "hrgarber-wagyu-sports",
+  "description": "Provides a bridge to The Odds API for accessing sports betting data including available sports, odds comparisons across bookmakers, and quota tracking in both test and live modes.",
+  "source_repo": "hrgarber/wagyu_mcp_hackathon",
+  "source_url": "https://github.com/hrgarber/wagyu_mcp_hackathon/tree/HEAD/wagyu_sports",
+  "install": "# git clone --depth 1 https://github.com/hrgarber/wagyu_mcp_hackathon/tree/HEAD/wagyu_sports\n# See source for mcpServers config block"
+}

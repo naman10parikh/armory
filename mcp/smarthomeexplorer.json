@@ -1,0 +1,7 @@
+{
+  "name": "smarthomeexplorer",
+  "description": "Smart home product intelligence with expert consensus scores and compatibility data across 1,000+ products.",
+  "source_repo": "nicks-sidehustle/smarthome-explorer-blog",
+  "source_url": "https://github.com/nicks-sidehustle/smarthome-explorer-blog",
+  "install": "# git clone --depth 1 https://github.com/nicks-sidehustle/smarthome-explorer-blog\n# See source for mcpServers config block"
+}

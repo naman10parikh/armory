@@ -1,0 +1,7 @@
+{
+  "name": "meghanmurphy1-elasticsearch",
+  "description": "Integrates with Elasticsearch to enable advanced search capabilities, data retrieval, and analysis for AI-assisted applications.",
+  "source_repo": "meghanmurphy1/mcp",
+  "source_url": "https://github.com/meghanmurphy1/mcp",
+  "install": "# git clone --depth 1 https://github.com/meghanmurphy1/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aplaceforallmystuff-pihole",
+  "description": "Manage DNS blocking, monitor traffic stats, and control whitelist/blacklist for Pi-hole v6",
+  "source_repo": "aplaceforallmystuff/mcp-pihole",
+  "source_url": "https://github.com/aplaceforallmystuff/mcp-pihole",
+  "install": "# git clone --depth 1 https://github.com/aplaceforallmystuff/mcp-pihole\n# See source for mcpServers config block"
+}

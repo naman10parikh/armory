@@ -1,0 +1,7 @@
+{
+  "name": "mark3labs-filesystem-server",
+  "description": "Read, write, and manipulate local files through a controlled API.",
+  "source_repo": "mark3labs/mcp-filesystem-server",
+  "source_url": "https://github.com/mark3labs/mcp-filesystem-server",
+  "install": "# git clone --depth 1 https://github.com/mark3labs/mcp-filesystem-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hannesrudolph-imessage-query",
+  "description": "Query and analyze iMessage conversations on macOS.",
+  "source_repo": "hannesrudolph/imessage-query-fastmcp-mcp-server",
+  "source_url": "https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server",
+  "install": "npx -y imessage-query-fastmcp-mcp-server"
+}

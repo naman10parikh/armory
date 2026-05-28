@@ -1,0 +1,7 @@
+{
+  "name": "shinzo-labs-hubspot",
+  "description": "Integrates with HubSpot CRM API for managing companies, contacts, deals, and other CRM objects through natural language, enabling sales teams to query, create, and update records without leaving their assistant interface.",
+  "source_repo": "shinzo-labs/hubspot-mcp",
+  "source_url": "https://github.com/shinzo-labs/hubspot-mcp",
+  "install": "npx -y hubspot-mcp"
+}

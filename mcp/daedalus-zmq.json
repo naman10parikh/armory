@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-zmq",
+  "description": "Enables ZeroMQ messaging with publish/subscribe, request/reply, and pair socket patterns.",
+  "source_repo": "daedalus/mcp-zmq",
+  "source_url": "https://github.com/daedalus/mcp-zmq",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-zmq\n# See source for mcpServers config block"
+}

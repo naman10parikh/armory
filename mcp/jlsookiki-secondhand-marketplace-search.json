@@ -1,0 +1,7 @@
+{
+  "name": "jlsookiki-secondhand-marketplace-search",
+  "description": "Searches multiple secondhand marketplaces including Facebook Marketplace, eBay, and Depop through a unified interface for price comparison and deal hunting across platforms.",
+  "source_repo": "jlsookiki/secondhand-mcp",
+  "source_url": "https://github.com/jlsookiki/secondhand-mcp",
+  "install": "npx -y secondhand-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sandeepmallareddy-whatsapp",
+  "description": "WhatsApp messaging integration with 16 tools for sending, receiving, and media handling.",
+  "source_repo": "sandeepmallareddy/wa-cli-mcp",
+  "source_url": "https://github.com/sandeepmallareddy/wa-cli-mcp",
+  "install": "npx -y wa-cli-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-agent-negotiation-mcp",
+  "description": "Negotiation protocol tools for autonomous agent-to-agent interactions.",
+  "source_repo": "csoai-org/agent-negotiation-mcp",
+  "source_url": "https://github.com/csoai-org/agent-negotiation-mcp",
+  "install": "npx -y agent-negotiation-mcp"
+}

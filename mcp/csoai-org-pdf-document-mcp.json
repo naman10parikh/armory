@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-pdf-document-mcp",
+  "description": "Python MCP server for PDF document processing and manipulation tools.",
+  "source_repo": "csoai-org/pdf-document-mcp",
+  "source_url": "https://github.com/csoai-org/pdf-document-mcp",
+  "install": "npx -y pdf-document-mcp"
+}

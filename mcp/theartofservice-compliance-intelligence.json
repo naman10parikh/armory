@@ -1,0 +1,7 @@
+{
+  "name": "theartofservice-compliance-intelligence",
+  "description": "Query 692+ compliance frameworks, 13,700+ controls, and 280K+ cross-framework mappings.",
+  "source_repo": "gjb65/compliance-mcp-server",
+  "source_url": "https://github.com/gjb65/compliance-mcp-server",
+  "install": "npx -y compliance-mcp-server"
+}

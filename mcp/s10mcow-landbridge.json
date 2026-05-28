@@ -1,0 +1,7 @@
+{
+  "name": "s10mcow-landbridge",
+  "description": "Land investment CRM integration for managing leads, properties, campaigns, and deal analytics.",
+  "source_repo": "s10mcow/landbridge-mcp",
+  "source_url": "https://github.com/s10mcow/landbridge-mcp",
+  "install": "npx -y landbridge-mcp"
+}

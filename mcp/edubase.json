@@ -1,0 +1,7 @@
+{
+  "name": "edubase",
+  "description": "Integrates AI assistants with the EduBase e-learning platform for quiz and exam management.",
+  "source_repo": "edubase/mcp",
+  "source_url": "https://github.com/edubase/mcp",
+  "install": "# git clone --depth 1 https://github.com/edubase/mcp\n# See source for mcpServers config block"
+}

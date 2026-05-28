@@ -1,0 +1,7 @@
+{
+  "name": "manusa-podman",
+  "description": "Integrates with Podman's API to enable container creation, management, and orchestration for automated DevOps workflows and microservices architecture deployment.",
+  "source_repo": "manusa/podman-mcp-server",
+  "source_url": "https://github.com/manusa/podman-mcp-server",
+  "install": "npx -y podman-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "whm-mcp-server",
+  "description": "Enables AI assistants to manage WHM hosting accounts and server administration tasks including account management, server stats, updates, SSL, backups, and email through a secure API.",
+  "source_repo": "hosthobbit/whm-mcp-server",
+  "source_url": "https://github.com/hosthobbit/whm-mcp-server",
+  "install": "npx -y whm-mcp-server"
+}

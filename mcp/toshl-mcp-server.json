@@ -1,0 +1,7 @@
+{
+  "name": "toshl-mcp-server",
+  "description": "Toshl Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "hktari/toshl-mcp-server",
+  "source_url": "https://mcp.so/server/toshl-mcp-server/hktari",
+  "install": "npx -y toshl-mcp-server"
+}

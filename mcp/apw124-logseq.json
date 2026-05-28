@@ -1,0 +1,7 @@
+{
+  "name": "apw124-logseq",
+  "description": "Enables AI interaction with Logseq knowledge graphs for capturing notes, organizing information, and retrieving knowledge from personal databases",
+  "source_repo": "apw124/logseq-mcp",
+  "source_url": "https://github.com/apw124/logseq-mcp",
+  "install": "npx -y logseq-mcp"
+}

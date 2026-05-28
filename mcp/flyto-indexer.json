@@ -1,0 +1,7 @@
+{
+  "name": "flyto-indexer",
+  "description": "Code intelligence for impact analysis, dependency graphs, and dead code detection.",
+  "source_repo": "flytohub/flyto-indexer",
+  "source_url": "https://github.com/flytohub/flyto-indexer",
+  "install": "# git clone --depth 1 https://github.com/flytohub/flyto-indexer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "panitw-jira-project-management",
+  "description": "Wraps Jira Cloud REST API for AI-driven agile project management with sprint health monitoring, velocity tracking, and automated audits.",
+  "source_repo": "panitw/jira-mcp-server",
+  "source_url": "https://github.com/panitw/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "justinbeckwith-pylon",
+  "description": "Integrates with Pylon's customer support platform for managing support tickets, customer relationships, and team operations.",
+  "source_repo": "justinbeckwith/pylon-mcp",
+  "source_url": "https://github.com/justinbeckwith/pylon-mcp",
+  "install": "npx -y pylon-mcp"
+}

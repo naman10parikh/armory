@@ -1,0 +1,7 @@
+{
+  "name": "soccer-mcp-server",
+  "description": "Soccer Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "obinopaul/soccer-mcp-server",
+  "source_url": "https://mcp.so/server/soccer-mcp-server/obinopaul",
+  "install": "npx -y soccer-mcp-server"
+}

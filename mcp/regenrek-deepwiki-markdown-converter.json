@@ -1,0 +1,7 @@
+{
+  "name": "regenrek-deepwiki-markdown-converter",
+  "description": "Converts DeepWiki repositories into well-formatted Markdown, maintaining links between pages while removing headers, footers, navigation elements, and ads for clean documentation extraction.",
+  "source_repo": "regenrek/deepwiki-mcp",
+  "source_url": "https://github.com/regenrek/deepwiki-mcp",
+  "install": "npx -y deepwiki-mcp"
+}

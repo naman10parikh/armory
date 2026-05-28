@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-gdb-server",
+  "description": "Remote debugging with gdbserver — breakpoints, stepping, memory inspection, and thread management.",
+  "source_repo": "daedalus/mcp-gdbserver",
+  "source_url": "https://github.com/daedalus/mcp-gdbserver",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-gdbserver\n# See source for mcpServers config block"
+}

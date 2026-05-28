@@ -1,0 +1,7 @@
+{
+  "name": "formester",
+  "description": "Give AI agents access to form submissions — read, search, update, and process file attachments.",
+  "source_repo": "formester/mcp",
+  "source_url": "https://github.com/formester/mcp",
+  "install": "# git clone --depth 1 https://github.com/formester/mcp\n# See source for mcpServers config block"
+}

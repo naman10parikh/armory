@@ -1,0 +1,7 @@
+{
+  "name": "foodhy-stealthis",
+  "description": "Exposes the StealThis.dev resource library of reusable web components, animations, and page templates to AI tools for browsing, searching, and retrieving code snippets.",
+  "source_repo": "foodhy/stealthis",
+  "source_url": "https://github.com/foodhy/stealthis/tree/HEAD/apps/mcp",
+  "install": "# git clone --depth 1 https://github.com/foodhy/stealthis/tree/HEAD/apps/mcp\n# See source for mcpServers config block"
+}

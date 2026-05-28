@@ -1,0 +1,7 @@
+{
+  "name": "ansvar-automotive-cybersecurity",
+  "description": "Automotive cybersecurity standards reference covering R155/R156, ISO 21434, TISAX, and AUTOSAR.",
+  "source_repo": "ansvar-systems/automotive-mcp",
+  "source_url": "https://github.com/ansvar-systems/automotive-mcp",
+  "install": "npx -y automotive-mcp"
+}

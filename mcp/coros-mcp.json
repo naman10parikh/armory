@@ -1,0 +1,7 @@
+{
+  "name": "coros-mcp",
+  "description": "A Model Context Protocol (MCP) server that fetches sleep, HRV, and training data from the unofficial Coros API and exposes them to AI assistants like Claude, enabling natural language queries about fitness metrics and workout management.",
+  "source_repo": "cygnusb/coros-mcp",
+  "source_url": "https://github.com/cygnusb/coros-mcp",
+  "install": "npx -y coros-mcp"
+}

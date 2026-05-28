@@ -1,0 +1,7 @@
+{
+  "name": "boce",
+  "description": "Chinese website quality inspection via SSE covering ICP filings, DNS, SSL verification, Ping diagnostics, and connectivity checks.",
+  "source_repo": "",
+  "source_url": "https://mcp.boce.com",
+  "install": "# git clone --depth 1 https://mcp.boce.com\n# See source for mcpServers config block"
+}

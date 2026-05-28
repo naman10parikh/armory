@@ -1,0 +1,7 @@
+{
+  "name": "adonaivera-fiftyone",
+  "description": "Control FiftyOne computer vision datasets through MCP tools",
+  "source_repo": "voxel51/fiftyone-mcp-server",
+  "source_url": "https://github.com/voxel51/fiftyone-mcp-server",
+  "install": "npx -y fiftyone-mcp-server"
+}

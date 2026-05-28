@@ -1,0 +1,7 @@
+{
+  "name": "gh-vikas9793-context-fabric",
+  "description": "Automatically captures project state on git commits, detects context drift, and delivers structured, token-budgeted briefings to coding agents.",
+  "source_repo": "vikas9793/context-fabric",
+  "source_url": "https://github.com/vikas9793/context-fabric",
+  "install": "# git clone --depth 1 https://github.com/vikas9793/context-fabric\n# See source for mcpServers config block"
+}

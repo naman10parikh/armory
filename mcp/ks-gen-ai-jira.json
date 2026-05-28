@@ -1,0 +1,7 @@
+{
+  "name": "ks-gen-ai-jira",
+  "description": "Integrates with Jira to enable automated ticket management, project oversight, and streamlined communication through JQL queries and comprehensive API operations.",
+  "source_repo": "ks-gen-ai/jira-mcp-server",
+  "source_url": "https://github.com/ks-gen-ai/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

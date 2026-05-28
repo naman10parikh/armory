@@ -1,0 +1,7 @@
+{
+  "name": "vanto-beanquery",
+  "description": "Enables querying and analyzing Beancount ledger files using Beancount Query Language (BQL) for personal finance tracking, expense analysis, and financial report generation.",
+  "source_repo": "vanto/beanquery-mcp",
+  "source_url": "https://github.com/vanto/beanquery-mcp",
+  "install": "npx -y beanquery-mcp"
+}

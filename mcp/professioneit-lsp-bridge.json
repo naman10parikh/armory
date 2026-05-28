@@ -1,0 +1,7 @@
+{
+  "name": "professioneit-lsp-bridge",
+  "description": "Bridges Language Server Protocol (LSP) servers to provide advanced code intelligence features like go-to-definition, find references, hover information, diagnostics, completions, and refactoring across multiple programming languages.",
+  "source_repo": "professioneit/lsp-mcp-server",
+  "source_url": "https://github.com/professioneit/lsp-mcp-server",
+  "install": "npx -y lsp-mcp-server"
+}

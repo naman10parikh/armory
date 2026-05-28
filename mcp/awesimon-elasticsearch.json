@@ -1,0 +1,7 @@
+{
+  "name": "awesimon-elasticsearch",
+  "description": "Enables natural language interaction with Elasticsearch databases for search functionality and index management without requiring complex query syntax or API knowledge.",
+  "source_repo": "awesimon/elasticsearch-mcp",
+  "source_url": "https://github.com/awesimon/elasticsearch-mcp",
+  "install": "npx -y elasticsearch-mcp"
+}

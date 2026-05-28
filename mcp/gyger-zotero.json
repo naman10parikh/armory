@@ -1,0 +1,7 @@
+{
+  "name": "gyger-zotero",
+  "description": "Integrates local Zotero libraries, enabling natural language interactions for exploring and analyzing personal research collections.",
+  "source_repo": "gyger/mcp-pyzotero",
+  "source_url": "https://github.com/gyger/mcp-pyzotero",
+  "install": "# git clone --depth 1 https://github.com/gyger/mcp-pyzotero\n# See source for mcpServers config block"
+}

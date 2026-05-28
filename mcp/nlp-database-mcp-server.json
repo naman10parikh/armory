@@ -1,0 +1,7 @@
+{
+  "name": "nlp-database-mcp-server",
+  "description": "Connect your LLMs to SQL databases safely and intuitively using the Model Context Protocol (MCP). NLP Database acts as a secure, read-only bridge that allows AI agents to explore schemas and query data using natural language.",
+  "source_repo": "Lisito11/nlp-database-mcp",
+  "source_url": "https://github.com/Lisito11/nlp-database-mcp",
+  "install": "npx -y nlp-database-mcp"
+}

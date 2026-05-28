@@ -1,0 +1,7 @@
+{
+  "name": "jasnonaz-vibe-worldbuilding",
+  "description": "Guides users through systematic worldbuilding with structured prompts and Google Imagen integration for generating visual representations of fictional universe elements",
+  "source_repo": "jasnonaz/vibe-worldbuilding-mcp",
+  "source_url": "https://github.com/jasnonaz/vibe-worldbuilding-mcp",
+  "install": "npx -y vibe-worldbuilding-mcp"
+}

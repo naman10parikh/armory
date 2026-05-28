@@ -1,0 +1,7 @@
+{
+  "name": "lib4u-open-notebook",
+  "description": "Connects to an Open Notebook instance for managing notebooks, sources, notes, and chat sessions with vector and text search capabilities.",
+  "source_repo": "lib4u/open-notebook-mcp",
+  "source_url": "https://github.com/lib4u/open-notebook-mcp",
+  "install": "npx -y open-notebook-mcp"
+}

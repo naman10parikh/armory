@@ -1,0 +1,7 @@
+{
+  "name": "stream29-intellij-kotlin-repl",
+  "description": "IntelliJ IDEA plugin exposing a stateful Kotlin REPL as an MCP server for AI agents to interact with IDE internals via HTTP.",
+  "source_repo": "stream29/ideaktsreplmcp",
+  "source_url": "https://github.com/stream29/ideaktsreplmcp",
+  "install": "# git clone --depth 1 https://github.com/stream29/ideaktsreplmcp\n# See source for mcpServers config block"
+}

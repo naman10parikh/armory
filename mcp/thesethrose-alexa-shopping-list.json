@@ -1,0 +1,7 @@
+{
+  "name": "thesethrose-alexa-shopping-list",
+  "description": "Connects to Amazon's Alexa shopping list backend, enabling viewing, adding, deleting, and marking items as complete or incomplete through a FastAPI bridge.",
+  "source_repo": "thesethrose/alexa-shopping-list",
+  "source_url": "https://github.com/thesethrose/alexa-shopping-list",
+  "install": "# git clone --depth 1 https://github.com/thesethrose/alexa-shopping-list\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brucedh-aws-ireveal",
+  "description": "Integrates with AWS security services to enable incident response and investigation through CloudTrail logs, Athena queries, CloudWatch events, GuardDuty findings, and IAM Access Analyzer for comprehensive security event analysis and threat detection.",
+  "source_repo": "brucedh/aws-ireveal-mcp",
+  "source_url": "https://github.com/brucedh/aws-ireveal-mcp",
+  "install": "npx -y aws-ireveal-mcp"
+}

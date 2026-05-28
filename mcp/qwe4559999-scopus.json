@@ -1,0 +1,7 @@
+{
+  "name": "qwe4559999-scopus",
+  "description": "Provides access to the Elsevier Scopus API for searching academic papers, retrieving abstracts, and looking up author profiles.",
+  "source_repo": "qwe4559999/scopus-mcp",
+  "source_url": "https://github.com/qwe4559999/scopus-mcp",
+  "install": "npx -y scopus-mcp"
+}

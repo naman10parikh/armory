@@ -1,0 +1,7 @@
+{
+  "name": "kestra-workflow-orchestration",
+  "description": "Integrates with Kestra workflow orchestration platform to enable natural language control of data pipelines, execution management, namespace operations, and enterprise features like user management through conversational interfaces.",
+  "source_repo": "kestra-io/mcp-server-python",
+  "source_url": "https://github.com/kestra-io/mcp-server-python",
+  "install": "# git clone --depth 1 https://github.com/kestra-io/mcp-server-python\n# See source for mcpServers config block"
+}

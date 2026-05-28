@@ -1,0 +1,7 @@
+{
+  "name": "gemina-filetag",
+  "description": "Tag, rename, and enrich PDFs and images with structured metadata and embedded file enrichment.",
+  "source_repo": "tommyil/gemina-mcp",
+  "source_url": "https://github.com/tommyil/gemina-mcp",
+  "install": "npx -y gemina-mcp"
+}

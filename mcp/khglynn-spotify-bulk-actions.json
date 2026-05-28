@@ -1,0 +1,7 @@
+{
+  "name": "khglynn-spotify-bulk-actions",
+  "description": "Bulk Spotify operations with confidence-scored song matching and batch playlist creation",
+  "source_repo": "khglynn/spotify-bulk-actions-mcp",
+  "source_url": "https://github.com/khglynn/spotify-bulk-actions-mcp",
+  "install": "npx -y spotify-bulk-actions-mcp"
+}

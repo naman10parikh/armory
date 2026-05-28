@@ -1,0 +1,7 @@
+{
+  "name": "lucky-dersan-gitlab",
+  "description": "Integrates with GitLab repositories to enable comprehensive project management including repository operations, multi-file commits with automatic branch creation, issue and merge request handling, and file content retrieval with diff analysis for automated DevOps workflows and code review processes.",
+  "source_repo": "lucky-dersan/gitlab-mcp-server",
+  "source_url": "https://github.com/lucky-dersan/gitlab-mcp-server",
+  "install": "npx -y gitlab-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "partle-2",
+  "description": "Search and discover products across a diverse marketplace of local stores. Access detailed information on specific items and store locations to streamline the shopping experience. Monitor platform statistics to stay informed on product availability and marketplace growth.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/rubenayla/partle",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/rubenayla/partle\n# See source for mcpServers config block"
+}

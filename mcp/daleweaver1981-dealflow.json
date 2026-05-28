@@ -1,0 +1,7 @@
+{
+  "name": "daleweaver1981-dealflow",
+  "description": "50 AI prompts for real estate investors covering BRRRR strategy, flips, and multifamily analysis.",
+  "source_repo": "daleweaver1981/dealflow-mcp",
+  "source_url": "https://github.com/daleweaver1981/dealflow-mcp",
+  "install": "npx -y dealflow-mcp"
+}

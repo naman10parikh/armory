@@ -1,0 +1,7 @@
+{
+  "name": "shibley-apistatuscheck-mcp-server",
+  "description": "Check real-time operational status of 114+ cloud services and APIs (AWS, GitHub, Stripe, OpenAI, Vercel, etc.) directly from AI assistants. Published on npm.",
+  "source_repo": "shibley/apistatuscheck-mcp-server",
+  "source_url": "https://github.com/shibley/apistatuscheck-mcp-server",
+  "install": "npx -y apistatuscheck-mcp-server"
+}

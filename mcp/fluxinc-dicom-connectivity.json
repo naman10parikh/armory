@@ -1,0 +1,7 @@
+{
+  "name": "fluxinc-dicom-connectivity",
+  "description": "Integrates with DICOM systems to provide connectivity testing and diagnostics for medical imaging workflows, enabling node listing, C-ECHO operations, and configuration management.",
+  "source_repo": "fluxinc/dicom-mcp-server",
+  "source_url": "https://github.com/fluxinc/dicom-mcp-server",
+  "install": "npx -y dicom-mcp-server"
+}

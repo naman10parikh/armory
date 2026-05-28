@@ -1,0 +1,7 @@
+{
+  "name": "gh-nveil-ai-nveil",
+  "description": "Generates data visualizations across geospatial, 3D, and scientific domains using multiple rendering backends.",
+  "source_repo": "nveil-ai/nveil-toolkit",
+  "source_url": "https://github.com/nveil-ai/nveil-toolkit",
+  "install": "# git clone --depth 1 https://github.com/nveil-ai/nveil-toolkit\n# See source for mcpServers config block"
+}

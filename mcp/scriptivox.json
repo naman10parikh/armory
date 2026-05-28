@@ -1,0 +1,7 @@
+{
+  "name": "scriptivox",
+  "description": "AI transcription from URLs or audio files with 119 language support, speaker diarization, and multiple export formats.",
+  "source_repo": "sparkleofficial/scriptivox-mcp-server",
+  "source_url": "https://github.com/sparkleofficial/scriptivox-mcp-server",
+  "install": "npx -y scriptivox-mcp-server"
+}

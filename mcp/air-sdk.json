@@ -1,0 +1,7 @@
+{
+  "name": "air-sdk",
+  "description": "Collective intelligence for browser automation agents with resilient selectors and site capability awareness.",
+  "source_repo": "arcededev/air-sdk",
+  "source_url": "https://github.com/arcededev/air-sdk",
+  "install": "# git clone --depth 1 https://github.com/arcededev/air-sdk\n# See source for mcpServers config block"
+}

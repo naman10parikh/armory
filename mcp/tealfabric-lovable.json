@@ -1,0 +1,7 @@
+{
+  "name": "tealfabric-lovable",
+  "description": "Lovable Desktop integration for managing Tealfabric webapps, ProcessFlow workflows, and connectors.",
+  "source_repo": "tealfabric/lovable-mcp-tealfabric",
+  "source_url": "https://github.com/tealfabric/lovable-mcp-tealfabric",
+  "install": "# git clone --depth 1 https://github.com/tealfabric/lovable-mcp-tealfabric\n# See source for mcpServers config block"
+}

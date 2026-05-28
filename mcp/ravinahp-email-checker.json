@@ -1,0 +1,7 @@
+{
+  "name": "ravinahp-email-checker",
+  "description": "Integrates with external email verification services to perform real-time email address validation, improving data quality and reducing bounced emails.",
+  "source_repo": "ravinahp/email-checker-mcp",
+  "source_url": "https://github.com/ravinahp/email-checker-mcp",
+  "install": "npx -y email-checker-mcp"
+}

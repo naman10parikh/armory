@@ -1,0 +1,7 @@
+{
+  "name": "verity-score",
+  "description": "GEO audit for Shopify stores with AI readiness scoring and vertical checklists.",
+  "source_repo": "milka974/verityscore-mcp",
+  "source_url": "https://github.com/milka974/verityscore-mcp",
+  "install": "npx -y verityscore-mcp"
+}

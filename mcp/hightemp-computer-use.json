@@ -1,0 +1,7 @@
+{
+  "name": "hightemp-computer-use",
+  "description": "Local desktop automation for AI agents — mouse, keyboard, screen, window, and process control via Go and robotgo.",
+  "source_repo": "hightemp/go_computer_use_mcp_server",
+  "source_url": "https://github.com/hightemp/go_computer_use_mcp_server",
+  "install": "npx -y go_computer_use_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arqoslabs-fildos",
+  "description": "Provides autonomous file storage on Filecoin's decentralized network with folder NFT organization, automatic content tagging, and semantic search across stored files.",
+  "source_repo": "arqoslabs/fildos-mcp",
+  "source_url": "https://github.com/arqoslabs/fildos-mcp",
+  "install": "npx -y fildos-mcp"
+}

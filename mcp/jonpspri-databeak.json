@@ -1,0 +1,7 @@
+{
+  "name": "jonpspri-databeak",
+  "description": "Provides comprehensive CSV file operations including loading, transforming, analyzing, and exporting tabular data with statistical analysis capabilities, secure expression evaluation, and session-based data management for data analysis workflows and cleaning tasks.",
+  "source_repo": "jonpspri/databeak",
+  "source_url": "https://github.com/jonpspri/databeak",
+  "install": "# git clone --depth 1 https://github.com/jonpspri/databeak\n# See source for mcpServers config block"
+}

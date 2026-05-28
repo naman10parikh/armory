@@ -1,0 +1,7 @@
+{
+  "name": "benguy1000-doc2md",
+  "description": "Converts PDF, DOCX, and PPTX documents to clean Markdown text with support for batch conversion and automatic format detection.",
+  "source_repo": "benkeeley9/doc2md",
+  "source_url": "https://github.com/benkeeley9/doc2md",
+  "install": "# git clone --depth 1 https://github.com/benkeeley9/doc2md\n# See source for mcpServers config block"
+}

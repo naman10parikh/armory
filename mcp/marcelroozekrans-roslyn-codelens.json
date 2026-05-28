@@ -1,0 +1,7 @@
+{
+  "name": "marcelroozekrans-roslyn-codelens",
+  "description": "Roslyn-based semantic code intelligence for .NET codebases with type hierarchy, call graph, and dependency injection analysis.",
+  "source_repo": "marcelroozekrans/roslyn-codelens-mcp",
+  "source_url": "https://github.com/marcelroozekrans/roslyn-codelens-mcp",
+  "install": "npx -y roslyn-codelens-mcp"
+}

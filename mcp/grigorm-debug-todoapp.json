@@ -1,0 +1,7 @@
+{
+  "name": "grigorm-debug-todoapp",
+  "description": "Manages todo tasks stored in PostgreSQL via a .NET 9 MCP server with Clean Architecture and soft-delete support.",
+  "source_repo": "grigorm-debug/todoapp-mcp-server",
+  "source_url": "https://github.com/grigorm-debug/todoapp-mcp-server",
+  "install": "npx -y todoapp-mcp-server"
+}

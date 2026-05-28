@@ -1,0 +1,7 @@
+{
+  "name": "crowvault",
+  "description": "327 developer tools via MCP for generating Dockerfiles, schemas, Kubernetes configs, APIs, and more.",
+  "source_repo": "rajeswaran140/crowvault-setup",
+  "source_url": "https://github.com/rajeswaran140/crowvault-setup",
+  "install": "# git clone --depth 1 https://github.com/rajeswaran140/crowvault-setup\n# See source for mcpServers config block"
+}

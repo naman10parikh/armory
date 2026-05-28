@@ -1,0 +1,7 @@
+{
+  "name": "seo-review-tools",
+  "description": "Integrates with SEO Review Tools API for website traffic analysis, authority scoring, backlink discovery, SERP data retrieval, keyword research, and content optimization recommendations.",
+  "source_repo": "seo-review-tools/seo-api-mcp",
+  "source_url": "https://github.com/seo-review-tools/seo-api-mcp",
+  "install": "npx -y seo-api-mcp"
+}

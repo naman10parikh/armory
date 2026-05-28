@@ -1,0 +1,7 @@
+{
+  "name": "finnng-rethinkdb",
+  "description": "Read-only access to RethinkDB databases.",
+  "source_repo": "finnng/mcp-rethinkdb-server",
+  "source_url": "https://github.com/finnng/mcp-rethinkdb-server",
+  "install": "# git clone --depth 1 https://github.com/finnng/mcp-rethinkdb-server\n# See source for mcpServers config block"
+}

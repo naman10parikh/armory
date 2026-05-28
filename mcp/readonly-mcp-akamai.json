@@ -1,0 +1,7 @@
+{
+  "name": "readonly-mcp-akamai",
+  "description": "Read-only MCP server for Akamai CDN that enables searching properties, browsing EdgeWorker code, querying DNS zones, inspecting network lists, and translating error codes via natural language.",
+  "source_repo": "desty2k/readonly-mcp-akamai",
+  "source_url": "https://github.com/desty2k/readonly-mcp-akamai",
+  "install": "# git clone --depth 1 https://github.com/desty2k/readonly-mcp-akamai\n# See source for mcpServers config block"
+}

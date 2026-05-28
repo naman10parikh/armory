@@ -1,0 +1,7 @@
+{
+  "name": "gh-yafeiaa-piskel",
+  "description": "Pixel art editor providing 20+ tools for drawing, layers, frames, and exporting pixel art as PNG, GIF, or sprite sheets.",
+  "source_repo": "yafeiaa/piskel-mcp-server",
+  "source_url": "https://github.com/yafeiaa/piskel-mcp-server",
+  "install": "npx -y piskel-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eltociear-security-audit",
+  "description": "Scan MCP servers, AI agent skills, and plugins for 68+ security attack signatures including credential theft and code execution patterns.",
+  "source_repo": "eltociear/skill-audit-mcp",
+  "source_url": "https://github.com/eltociear/skill-audit-mcp",
+  "install": "npx -y skill-audit-mcp"
+}

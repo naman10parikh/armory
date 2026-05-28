@@ -1,0 +1,7 @@
+{
+  "name": "homelycarlos-nexusre",
+  "description": "AI bridge for reverse engineering tools including IDA Pro, Ghidra, x64dbg, Cheat Engine, and Frida.",
+  "source_repo": "homelycarlos/nexusre-mcp",
+  "source_url": "https://github.com/homelycarlos/nexusre-mcp",
+  "install": "npx -y nexusre-mcp"
+}

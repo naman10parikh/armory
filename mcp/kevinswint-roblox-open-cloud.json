@@ -1,0 +1,7 @@
+{
+  "name": "kevinswint-roblox-open-cloud",
+  "description": "Integrates with Roblox Open Cloud APIs for managing game universes, data stores, assets, and deployments.",
+  "source_repo": "kevinswint/roblox-opencloud-mcp-server",
+  "source_url": "https://github.com/kevinswint/roblox-opencloud-mcp-server",
+  "install": "npx -y roblox-opencloud-mcp-server"
+}

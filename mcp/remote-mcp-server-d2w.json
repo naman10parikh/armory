@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-d2w",
+  "description": "Remote Mcp Server D2w MCP server listed on mcp.so.",
+  "source_repo": "irvinebroque/remote-mcp-server-d2w",
+  "source_url": "https://mcp.so/server/remote-mcp-server-d2w/irvinebroque",
+  "install": "# git clone --depth 1 https://mcp.so/server/remote-mcp-server-d2w/irvinebroque\n# See source for mcpServers config block"
+}

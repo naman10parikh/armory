@@ -1,0 +1,7 @@
+{
+  "name": "jmanhype-flux-studio",
+  "description": "Bridges Flux's image generation capabilities to coding environments, enabling text-to-image, image-to-image, inpainting, and structural control operations directly within IDEs through TypeScript-to-CLI command translation.",
+  "source_repo": "jmanhype/mcp-flux-studio",
+  "source_url": "https://github.com/jmanhype/mcp-flux-studio",
+  "install": "# git clone --depth 1 https://github.com/jmanhype/mcp-flux-studio\n# See source for mcpServers config block"
+}

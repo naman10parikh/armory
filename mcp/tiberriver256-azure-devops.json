@@ -1,0 +1,7 @@
+{
+  "name": "tiberriver256-azure-devops",
+  "description": "Integrates with Azure DevOps to enable AI-driven management of projects, work items, repositories, pull requests, branches, and pipelines for enhanced DevOps workflows and automation.",
+  "source_repo": "tiberriver256/mcp-server-azure-devops",
+  "source_url": "https://github.com/tiberriver256/mcp-server-azure-devops",
+  "install": "# git clone --depth 1 https://github.com/tiberriver256/mcp-server-azure-devops\n# See source for mcpServers config block"
+}

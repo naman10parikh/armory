@@ -1,0 +1,7 @@
+{
+  "name": "quartzunit-browsegrab",
+  "description": "Token-efficient browser automation agent using Playwright accessibility tree and markdown extraction.",
+  "source_repo": "quartzunit/browsegrab",
+  "source_url": "https://github.com/quartzunit/browsegrab",
+  "install": "# git clone --depth 1 https://github.com/quartzunit/browsegrab\n# See source for mcpServers config block"
+}

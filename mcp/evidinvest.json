@@ -1,0 +1,7 @@
+{
+  "name": "evidinvest",
+  "description": "34 financial data and stock valuation tools — DCF, WACC, portfolio optimization, and SEC filings via AI.",
+  "source_repo": "evidinvest/mcp",
+  "source_url": "https://github.com/evidinvest/mcp",
+  "install": "# git clone --depth 1 https://github.com/evidinvest/mcp\n# See source for mcpServers config block"
+}

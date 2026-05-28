@@ -1,0 +1,7 @@
+{
+  "name": "foodblock",
+  "description": "Describe food in natural language and receive structured food data using the FoodBlock protocol.",
+  "source_repo": "foodxdevelopment/foodblock",
+  "source_url": "https://github.com/foodxdevelopment/foodblock/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/foodxdevelopment/foodblock/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nitingramesh-dynatrace-support",
+  "description": "Assists Dynatrace support engineers with documentation search, case triage, escalation drafting, and investigation planning.",
+  "source_repo": "nitingramesh/dynatrace-mcp",
+  "source_url": "https://github.com/nitingramesh/dynatrace-mcp",
+  "install": "npx -y dynatrace-mcp"
+}

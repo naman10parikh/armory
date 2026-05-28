@@ -1,0 +1,7 @@
+{
+  "name": "cmann50-chrome-google-search",
+  "description": "Integrates Google search and webpage content extraction via Chrome browser automation, enabling access up-to-date web information for tasks like fact-checking and research.",
+  "source_repo": "cmann50/mcp-chrome-google-search",
+  "source_url": "https://github.com/cmann50/mcp-chrome-google-search",
+  "install": "# git clone --depth 1 https://github.com/cmann50/mcp-chrome-google-search\n# See source for mcpServers config block"
+}

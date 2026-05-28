@@ -1,0 +1,7 @@
+{
+  "name": "maurodruwel-smartschool",
+  "description": "Access courses, grades, assignments, and messages from Smartschool educational platform",
+  "source_repo": "maurodruwel/smartschool-mcp",
+  "source_url": "https://github.com/maurodruwel/smartschool-mcp",
+  "install": "npx -y smartschool-mcp"
+}

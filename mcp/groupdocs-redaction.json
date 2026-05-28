@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-redaction",
+  "description": "Redacts sensitive text, metadata, annotations, and image regions from PDF, Word, Excel, PowerPoint, and image documents via AI agents.",
+  "source_repo": "groupdocs-redaction/groupdocs.redaction.mcp",
+  "source_url": "https://github.com/groupdocs-redaction/groupdocs.redaction.mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-redaction/groupdocs.redaction.mcp\n# See source for mcpServers config block"
+}

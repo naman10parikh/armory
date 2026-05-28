@@ -1,0 +1,7 @@
+{
+  "name": "heejunshin-mariadb",
+  "description": "Bridges Claude with MariaDB databases for read-only SQL query execution, enabling data exploration through formatted table results while enforcing safety restrictions on permitted operations.",
+  "source_repo": "abel9851/mcp-server-mariadb",
+  "source_url": "https://github.com/abel9851/mcp-server-mariadb",
+  "install": "# git clone --depth 1 https://github.com/abel9851/mcp-server-mariadb\n# See source for mcpServers config block"
+}

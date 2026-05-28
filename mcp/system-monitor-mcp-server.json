@@ -1,0 +1,7 @@
+{
+  "name": "system-monitor-mcp-server",
+  "description": "Gives AI agents real-time access to system metrics, process management, and container orchestration.",
+  "source_repo": "Dev-Herni/system-monitor-mcp",
+  "source_url": "https://github.com/Dev-Herni/system-monitor-mcp",
+  "install": "npx -y system-monitor-mcp"
+}

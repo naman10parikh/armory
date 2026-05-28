@@ -1,0 +1,7 @@
+{
+  "name": "oreilly-content-search",
+  "description": "Connects to O'Reilly Media's content search API for discovering relevant books, articles, and technical resources with detailed metadata and filtering capabilities.",
+  "source_repo": "odewahn/orm-mcp-tools",
+  "source_url": "https://github.com/odewahn/orm-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/odewahn/orm-mcp-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sentinel-signal",
+  "description": "Healthcare claims scoring for denial risk, prior authorization, reimbursement prediction, and workflow validation.",
+  "source_repo": "sentinelsignal/sentinel-signal-mcp",
+  "source_url": "https://github.com/sentinelsignal/sentinel-signal-mcp",
+  "install": "npx -y sentinel-signal-mcp"
+}

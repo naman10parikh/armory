@@ -1,0 +1,7 @@
+{
+  "name": "raveenb-fal-mcp-server",
+  "description": "Generate AI images, videos, and music using Fal.ai models (FLUX, Stable Diffusion, MusicGen) directly in Claude Desktop",
+  "source_repo": "raveenb/fal-mcp-server",
+  "source_url": "https://github.com/raveenb/fal-mcp-server",
+  "install": "npx -y fal-mcp-server"
+}

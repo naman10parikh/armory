@@ -1,0 +1,7 @@
+{
+  "name": "dredd",
+  "description": "Pre-flight security checks for MCP agents: blocks compromised dependencies and tool drift with HMAC signing.",
+  "source_repo": "pduggusa/dredd-mcp",
+  "source_url": "https://github.com/pduggusa/dredd-mcp",
+  "install": "npx -y dredd-mcp"
+}

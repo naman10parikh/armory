@@ -1,0 +1,7 @@
+{
+  "name": "colber",
+  "description": "Trust and coordination infrastructure for the agent economy: identity, payments, reputation, and task delegation.",
+  "source_repo": "obi49/colber",
+  "source_url": "https://github.com/obi49/colber/tree/HEAD/apps/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/obi49/colber/tree/HEAD/apps/mcp-server\n# See source for mcpServers config block"
+}

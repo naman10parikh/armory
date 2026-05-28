@@ -1,0 +1,7 @@
+{
+  "name": "daredev256-fcpxml-mcp-server",
+  "description": "The first MCP server for Final Cut Pro. 53 tools that parse, edit, and generate FCPXML timelines — health checks, flash frame detection, chapter markers, rough cuts, NLE export. 912 tests, MIT licensed.",
+  "source_repo": "DareDev256/fcpxml-mcp-server",
+  "source_url": "https://github.com/DareDev256/fcpxml-mcp-server",
+  "install": "npx -y fcpxml-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atomno-labs-mcp-egrul",
+  "description": "Russian state registries EGRUL (legal entities) and EGRIP (individual entrepreneurs), built on official Federal Tax Service open-data dumps. Self-hosted via local SQLite, no API key required.",
+  "source_repo": "atomno-labs/mcp-egrul",
+  "source_url": "https://github.com/atomno-labs/mcp-egrul",
+  "install": "# git clone --depth 1 https://github.com/atomno-labs/mcp-egrul\n# See source for mcpServers config block"
+}

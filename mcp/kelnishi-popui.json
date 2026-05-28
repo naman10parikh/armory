@@ -1,0 +1,7 @@
+{
+  "name": "kelnishi-popui",
+  "description": "Enables Claude Desktop to create and interact with dynamic visual interfaces through a bi-directional Electron bridge, allowing real-time manipulation of shared visual components for collaborative experiences like control panels, games, and visualization tools.",
+  "source_repo": "kelnishi/popui",
+  "source_url": "https://github.com/kelnishi/popui",
+  "install": "# git clone --depth 1 https://github.com/kelnishi/popui\n# See source for mcpServers config block"
+}

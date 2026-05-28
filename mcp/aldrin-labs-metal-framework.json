@@ -1,0 +1,7 @@
+{
+  "name": "aldrin-labs-metal-framework",
+  "description": "Integrates Metal Framework documentation search and code generation capabilities for graphics-intensive application development.",
+  "source_repo": "aldrin-labs/metal-mcp-server",
+  "source_url": "https://github.com/aldrin-labs/metal-mcp-server",
+  "install": "npx -y metal-mcp-server"
+}

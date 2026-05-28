@@ -1,0 +1,7 @@
+{
+  "name": "herohunt",
+  "description": "Talent search platform for discovering professionals across LinkedIn, GitHub, and StackOverflow with contact enrichment.",
+  "source_repo": "herohunt-ai/herohunt-mcp",
+  "source_url": "https://github.com/herohunt-ai/herohunt-mcp",
+  "install": "npx -y herohunt-mcp"
+}

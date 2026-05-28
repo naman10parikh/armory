@@ -1,0 +1,7 @@
+{
+  "name": "fizzy-mcp",
+  "description": "MCP server for Fizzy (Kanban tool by 37signals) that enables AI assistants to read and manage boards, cards, columns, tags, comments, and more.",
+  "source_repo": "alexrbzz/fizzy-mcp",
+  "source_url": "https://github.com/alexrbzz/fizzy-mcp",
+  "install": "npx -y fizzy-mcp"
+}

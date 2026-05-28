@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-11",
+  "description": "MCP Servers MCP server listed on mcp.so.",
+  "source_repo": "KrishCodesw/MCP-servers-",
+  "source_url": "https://mcp.so/server/MCP-servers-/KrishCodesw",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-servers-/KrishCodesw\n# See source for mcpServers config block"
+}

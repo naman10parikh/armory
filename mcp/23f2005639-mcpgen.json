@@ -1,0 +1,7 @@
+{
+  "name": "23f2005639-mcpgen",
+  "description": "MCP server generator that auto-creates MCP servers from API documentation pages or regular websites using Firecrawl and LLMs.",
+  "source_repo": "23f2005639/mcp_ai",
+  "source_url": "https://github.com/23f2005639/mcp_ai",
+  "install": "# git clone --depth 1 https://github.com/23f2005639/mcp_ai\n# See source for mcpServers config block"
+}

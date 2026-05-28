@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-raven",
+  "description": "Centralized knowledge search connecting Confluence, Notion, GitHub, Dropbox, and Google Drive.",
+  "source_repo": "",
+  "source_url": "https://knowledge-raven.com",
+  "install": "# git clone --depth 1 https://knowledge-raven.com\n# See source for mcpServers config block"
+}

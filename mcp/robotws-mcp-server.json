@@ -1,0 +1,7 @@
+{
+  "name": "robotws-mcp-server",
+  "description": "Indexes Robot Framework and Python files from robotws, stores metadata in SQLite, and provides generation context to help Cursor's LLM draft testcases in team style.",
+  "source_repo": "stella555359/robotws_mcp_server",
+  "source_url": "https://github.com/stella555359/robotws_mcp_server",
+  "install": "npx -y robotws_mcp_server"
+}

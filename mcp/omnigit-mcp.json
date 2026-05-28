@@ -1,0 +1,7 @@
+{
+  "name": "omnigit-mcp",
+  "description": "Fork of the official GitHub MCP server with local git operations, comment management, and body filtering.",
+  "source_repo": "aifity/omnigit-mcp",
+  "source_url": "https://github.com/aifity/omnigit-mcp",
+  "install": "npx -y omnigit-mcp"
+}

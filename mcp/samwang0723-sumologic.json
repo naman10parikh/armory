@@ -1,0 +1,7 @@
+{
+  "name": "samwang0723-sumologic",
+  "description": "Integrates with the Sumo Logic API to perform log searches, enabling custom queries and analysis of log data for troubleshooting, monitoring, and generating insights from application logs.",
+  "source_repo": "samwang0723/mcp-sumologic",
+  "source_url": "https://github.com/samwang0723/mcp-sumologic",
+  "install": "# git clone --depth 1 https://github.com/samwang0723/mcp-sumologic\n# See source for mcpServers config block"
+}

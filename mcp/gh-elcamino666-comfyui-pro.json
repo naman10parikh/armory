@@ -1,0 +1,7 @@
+{
+  "name": "gh-elcamino666-comfyui-pro",
+  "description": "Control ComfyUI with 31 tools for workflow execution, image generation, and model management.",
+  "source_repo": "elcamino666/comfyui-mcp-pro",
+  "source_url": "https://github.com/elcamino666/comfyui-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/elcamino666/comfyui-mcp-pro\n# See source for mcpServers config block"
+}

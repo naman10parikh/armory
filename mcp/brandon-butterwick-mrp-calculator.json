@@ -1,0 +1,7 @@
+{
+  "name": "brandon-butterwick-mrp-calculator",
+  "description": "Enables supply chain managers to perform Material Requirements Planning calculations by determining optimal order quantities based on inventory data, forecasts, and delivery schedules.",
+  "source_repo": "brandon-butterwick/mrp_calculation",
+  "source_url": "https://github.com/brandon-butterwick/mrp_calculation",
+  "install": "# git clone --depth 1 https://github.com/brandon-butterwick/mrp_calculation\n# See source for mcpServers config block"
+}

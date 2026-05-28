@@ -1,0 +1,7 @@
+{
+  "name": "mccartykim-goose-fm",
+  "description": "Integrates with RTL-SDR hardware to enable FM radio tuning, playback control, and audio analysis for smart home and voice-controlled applications.",
+  "source_repo": "mccartykim/goose_fm",
+  "source_url": "https://github.com/mccartykim/goose_fm",
+  "install": "# git clone --depth 1 https://github.com/mccartykim/goose_fm\n# See source for mcpServers config block"
+}

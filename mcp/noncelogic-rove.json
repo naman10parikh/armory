@@ -1,0 +1,7 @@
+{
+  "name": "noncelogic-rove",
+  "description": "Hosted Playwright browser automation for AI agents that returns accessibility trees instead of screenshots, reducing token consumption by 77%.",
+  "source_repo": "noncelogic/mcp",
+  "source_url": "https://github.com/noncelogic/mcp",
+  "install": "# git clone --depth 1 https://github.com/noncelogic/mcp\n# See source for mcpServers config block"
+}

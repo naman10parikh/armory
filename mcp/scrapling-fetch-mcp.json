@@ -1,0 +1,7 @@
+{
+  "name": "scrapling-fetch-mcp",
+  "description": "Scrapling Fetch Mcp MCP server listed on mcp.so.",
+  "source_repo": "cyberchitta/scrapling-fetch-mcp",
+  "source_url": "https://mcp.so/server/scrapling-fetch-mcp/cyberchitta",
+  "install": "npx -y scrapling-fetch-mcp"
+}

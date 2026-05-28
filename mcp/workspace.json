@@ -1,0 +1,7 @@
+{
+  "name": "workspace",
+  "description": "Provides secure filesystem access, command execution, and web preview capabilities with multi-tenant isolation, document processing, and sandboxed execution environments.",
+  "source_repo": "answerlink/mcp-workspace-server",
+  "source_url": "https://github.com/answerlink/mcp-workspace-server",
+  "install": "# git clone --depth 1 https://github.com/answerlink/mcp-workspace-server\n# See source for mcpServers config block"
+}

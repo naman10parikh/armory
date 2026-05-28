@@ -1,0 +1,7 @@
+{
+  "name": "placenl2026-okx-trade",
+  "description": "Connect AI agents to OKX cryptocurrency exchange with 145 tools covering spot, futures, options trading, algo orders, bots, and market data.",
+  "source_repo": "placenl2026/okx-agent-trade-kit",
+  "source_url": "https://github.com/placenl2026/okx-agent-trade-kit",
+  "install": "# git clone --depth 1 https://github.com/placenl2026/okx-agent-trade-kit\n# See source for mcpServers config block"
+}

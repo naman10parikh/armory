@@ -1,0 +1,7 @@
+{
+  "name": "graphql-mcp-server",
+  "description": "Automatically discovers and exposes any GraphQL API as MCP tools with zero configuration.",
+  "source_repo": "nifetency/nife-mcp-graphql",
+  "source_url": "https://github.com/nifetency/nife-mcp-graphql",
+  "install": "# git clone --depth 1 https://github.com/nifetency/nife-mcp-graphql\n# See source for mcpServers config block"
+}

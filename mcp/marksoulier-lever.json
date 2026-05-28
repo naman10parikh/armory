@@ -1,0 +1,7 @@
+{
+  "name": "marksoulier-lever",
+  "description": "Connects to the Lever financial planning app for accessing and managing personal financial plans.",
+  "source_repo": "marksoulier/lever-mcp",
+  "source_url": "https://github.com/marksoulier/lever-mcp",
+  "install": "npx -y lever-mcp"
+}

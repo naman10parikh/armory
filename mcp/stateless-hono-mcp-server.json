@@ -1,0 +1,7 @@
+{
+  "name": "stateless-hono-mcp-server",
+  "description": "An MCP server using Hono and Streamable HTTP, deployable to Cloudflare Workers, with tools for periodic notifications and prompt templates.",
+  "source_repo": "sint-ai/sint-mcp-marketplace",
+  "source_url": "https://github.com/sint-ai/sint-mcp-marketplace",
+  "install": "# git clone --depth 1 https://github.com/sint-ai/sint-mcp-marketplace\n# See source for mcpServers config block"
+}

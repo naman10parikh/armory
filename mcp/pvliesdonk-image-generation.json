@@ -1,0 +1,7 @@
+{
+  "name": "pvliesdonk-image-generation",
+  "description": "Multi-provider image generation supporting OpenAI, Stable Diffusion WebUI, and placeholder providers.",
+  "source_repo": "pvliesdonk/image-generation-mcp",
+  "source_url": "https://github.com/pvliesdonk/image-generation-mcp",
+  "install": "npx -y image-generation-mcp"
+}

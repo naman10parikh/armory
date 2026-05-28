@@ -1,0 +1,7 @@
+{
+  "name": "financial-services-3",
+  "description": "AI-powered financial services marketplace connecting borrowers with 200+ lenders across loans, mortgages, credit cards, and banking products. 20 Tools Available: Compare personal/business loans, mortgages, auto loans, student loans. Calculate loan payments and mortgage PITI. Compare credit cards and",
+  "source_repo": "",
+  "source_url": "https://securelend.ai/",
+  "install": "# git clone --depth 1 https://securelend.ai/\n# See source for mcpServers config block"
+}

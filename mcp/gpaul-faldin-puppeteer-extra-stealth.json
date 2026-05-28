@@ -1,0 +1,7 @@
+{
+  "name": "gpaul-faldin-puppeteer-extra-stealth",
+  "description": "Enables stealthy web automation with Puppeteer-Extra and Stealth Plugin for navigating websites, capturing screenshots, interacting with elements, and executing JavaScript while avoiding detection as automation.",
+  "source_repo": "gpaul-faldin/mcp_puppeteer_extra",
+  "source_url": "https://github.com/gpaul-faldin/mcp_puppeteer_extra",
+  "install": "# git clone --depth 1 https://github.com/gpaul-faldin/mcp_puppeteer_extra\n# See source for mcpServers config block"
+}

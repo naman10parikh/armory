@@ -1,0 +1,7 @@
+{
+  "name": "minimal-mcp-server",
+  "description": "Minimal Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "LeZuse/minimal-mcp-server",
+  "source_url": "https://mcp.so/server/minimal-mcp-server/LeZuse",
+  "install": "npx -y minimal-mcp-server"
+}

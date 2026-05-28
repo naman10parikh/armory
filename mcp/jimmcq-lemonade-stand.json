@@ -1,0 +1,7 @@
+{
+  "name": "jimmcq-lemonade-stand",
+  "description": "Enables playing the classic Lemonade Stand business simulation game directly within Claude Desktop through an interactive interface that manages game state and player decisions.",
+  "source_repo": "jimmcq/lemonade-stand-mcp-server",
+  "source_url": "https://github.com/jimmcq/lemonade-stand-mcp-server",
+  "install": "npx -y lemonade-stand-mcp-server"
+}

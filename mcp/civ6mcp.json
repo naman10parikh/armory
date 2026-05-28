@@ -1,0 +1,7 @@
+{
+  "name": "civ6mcp",
+  "description": "Enables Claude to access real-time Civilization VI game data for strategic analysis, diplomatic intelligence, military assessments, and more via MCP.",
+  "source_repo": "lowrykun/civ6mcp",
+  "source_url": "https://github.com/lowrykun/civ6mcp",
+  "install": "# git clone --depth 1 https://github.com/lowrykun/civ6mcp\n# See source for mcpServers config block"
+}

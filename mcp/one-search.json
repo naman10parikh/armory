@@ -1,0 +1,7 @@
+{
+  "name": "one-search",
+  "description": "Provides a unified search and web scraping platform that integrates multiple search providers like SearxNG and Tavily, along with Firecrawl for advanced web content extraction, enabling flexible web data retrieval and structured information gathering.",
+  "source_repo": "yokingma/one-search-mcp",
+  "source_url": "https://github.com/yokingma/one-search-mcp",
+  "install": "npx -y one-search-mcp"
+}

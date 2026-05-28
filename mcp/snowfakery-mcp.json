@@ -1,0 +1,7 @@
+{
+  "name": "snowfakery-mcp",
+  "description": "Author, analyze, debug, and run Snowfakery data generation recipes for Salesforce testing workflows.",
+  "source_repo": "composable-delivery/snowfakery-mcp",
+  "source_url": "https://github.com/composable-delivery/snowfakery-mcp",
+  "install": "npx -y snowfakery-mcp"
+}

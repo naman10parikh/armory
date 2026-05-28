@@ -1,0 +1,7 @@
+{
+  "name": "lpf-github-io",
+  "description": "GitHub pages blog",
+  "source_repo": "lpflpf/lpflpf.github.io",
+  "source_url": "https://github.com/lpflpf/lpflpf.github.io",
+  "install": "# git clone --depth 1 https://github.com/lpflpf/lpflpf.github.io\n# See source for mcpServers config block"
+}

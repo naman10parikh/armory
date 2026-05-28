@@ -1,0 +1,7 @@
+{
+  "name": "opencart-mcp-server",
+  "description": "Query and edit your OpenCart store from Claude Code. Products, orders, customers, Journal3 modules, SEO URLs, CMS pages — 36 tools, all through natural language.",
+  "source_repo": "chrisbray85/opencart-mcp",
+  "source_url": "https://github.com/chrisbray85/opencart-mcp",
+  "install": "npx -y opencart-mcp"
+}

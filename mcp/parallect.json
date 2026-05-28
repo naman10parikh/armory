@@ -1,0 +1,7 @@
+{
+  "name": "parallect",
+  "description": "Multi-provider AI research orchestration platform that fans out queries to Perplexity, Gemini, OpenAI, Grok, and Claude simultaneously, then synthesizes results into a unified report with cross-referenced citations.",
+  "source_repo": "",
+  "source_url": "https://parallect.ai",
+  "install": "# git clone --depth 1 https://parallect.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hald-things",
+  "description": "Integrates with the Things task management app to enable natural language queries and updates for tasks, projects, and areas.",
+  "source_repo": "hald/things-mcp",
+  "source_url": "https://github.com/hald/things-mcp",
+  "install": "npx -y things-mcp"
+}

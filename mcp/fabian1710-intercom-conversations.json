@@ -1,0 +1,7 @@
+{
+  "name": "fabian1710-intercom-conversations",
+  "description": "Integrates with Intercom to provide filtered access to conversations and chats, enabling detailed analysis of customer interactions and support trends.",
+  "source_repo": "fabian1710/mcp-intercom",
+  "source_url": "https://github.com/fabian1710/mcp-intercom",
+  "install": "# git clone --depth 1 https://github.com/fabian1710/mcp-intercom\n# See source for mcpServers config block"
+}

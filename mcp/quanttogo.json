@@ -1,0 +1,7 @@
+{
+  "name": "quanttogo",
+  "description": "Macro-factor quantitative trading signal source with live strategy performance data and AI-native signal delivery.",
+  "source_repo": "quanttogo/quanttogo-mcp",
+  "source_url": "https://github.com/quanttogo/quanttogo-mcp",
+  "install": "npx -y quanttogo-mcp"
+}

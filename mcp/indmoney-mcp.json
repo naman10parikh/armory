@@ -1,0 +1,7 @@
+{
+  "name": "indmoney-mcp",
+  "description": "Read-only INDmoney portfolio access for Claude — Indian stocks, mutual funds, US stocks, gold, credit cards, loans, and Experian credit score. OTP browser login with AES-256-GCM encrypted sessions.",
+  "source_repo": "VIckys-AI-Stuffs/indmoney-mcp-python",
+  "source_url": "https://github.com/VIckys-AI-Stuffs/indmoney-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/VIckys-AI-Stuffs/indmoney-mcp-python\n# See source for mcpServers config block"
+}

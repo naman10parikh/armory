@@ -1,0 +1,7 @@
+{
+  "name": "gh-nen9ma0-ida-yes-mcp",
+  "description": "Exports IDA Pro decompiled code into AI-optimized chunk files for reverse engineering workflows.",
+  "source_repo": "nen9ma0/ida-yes-mcp",
+  "source_url": "https://github.com/nen9ma0/ida-yes-mcp",
+  "install": "npx -y ida-yes-mcp"
+}

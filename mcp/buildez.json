@@ -1,0 +1,7 @@
+{
+  "name": "buildez",
+  "description": "Automates complete website creation and deployment by taking a business name and description as input, then using AI to select plugins, generate web IDs, customize design elements, and deploy functional sites with editor URLs for review and publishing.",
+  "source_repo": "buildezai/buildez-mcp",
+  "source_url": "https://github.com/buildezai/buildez-mcp",
+  "install": "npx -y buildez-mcp"
+}

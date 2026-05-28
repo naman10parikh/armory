@@ -1,0 +1,7 @@
+{
+  "name": "akrasia0-stern-philosophical-mentor",
+  "description": "Provides a philosophical mentor named Stern who combines rationalist thinking, stoic philosophy, and psychological insights with smart contract-based accountability for personal growth commitments.",
+  "source_repo": "akrasia0/s-mcp",
+  "source_url": "https://github.com/akrasia0/s-mcp",
+  "install": "npx -y s-mcp"
+}

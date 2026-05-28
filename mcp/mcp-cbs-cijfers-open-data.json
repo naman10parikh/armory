@@ -1,0 +1,7 @@
+{
+  "name": "mcp-cbs-cijfers-open-data",
+  "description": "Mcp Cbs Cijfers Open Data MCP server listed on mcp.so.",
+  "source_repo": "dstotijn/mcp-cbs-cijfers-open-data",
+  "source_url": "https://mcp.so/server/mcp-cbs-cijfers-open-data/dstotijn",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-cbs-cijfers-open-data/dstotijn\n# See source for mcpServers config block"
+}

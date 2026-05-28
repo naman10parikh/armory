@@ -1,0 +1,7 @@
+{
+  "name": "bpuhnk-klipper-docs",
+  "description": "Provides searchable access to Klipper 3D printer firmware documentation through automated Git synchronization and full-text search capabilities.",
+  "source_repo": "bpuhnk/mcp-klipper-docs",
+  "source_url": "https://github.com/bpuhnk/mcp-klipper-docs",
+  "install": "# git clone --depth 1 https://github.com/bpuhnk/mcp-klipper-docs\n# See source for mcpServers config block"
+}

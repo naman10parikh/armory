@@ -1,0 +1,7 @@
+{
+  "name": "deepview",
+  "description": "Enables AI-powered code analysis by loading entire codebases into Gemini's large context window, allowing developers to query and understand complex repositories through natural language interactions.",
+  "source_repo": "ai-1st/deepview-mcp",
+  "source_url": "https://github.com/ai-1st/deepview-mcp",
+  "install": "npx -y deepview-mcp"
+}

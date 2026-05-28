@@ -1,0 +1,7 @@
+{
+  "name": "mcp-browser-use",
+  "description": "Mcp Browser Use MCP server listed on mcp.so.",
+  "source_repo": "vinayak-mehta/mcp-browser-use",
+  "source_url": "https://mcp.so/server/mcp-browser-use/vinayak-mehta",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-browser-use/vinayak-mehta\n# See source for mcpServers config block"
+}

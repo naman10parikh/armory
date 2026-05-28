@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-pdfme",
+  "description": "Mcp Server Pdfme MCP server listed on mcp.so.",
+  "source_repo": "pdfme/mcp-server-pdfme",
+  "source_url": "https://mcp.so/server/mcp-server-pdfme/pdfme",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-pdfme/pdfme\n# See source for mcpServers config block"
+}

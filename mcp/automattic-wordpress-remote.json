@@ -1,0 +1,7 @@
+{
+  "name": "automattic-wordpress-remote",
+  "description": "Bridges WordPress websites and WooCommerce data with local clients through REST API calls, enabling content access without direct streaming connections.",
+  "source_repo": "automattic/mcp-wordpress-remote",
+  "source_url": "https://github.com/automattic/mcp-wordpress-remote",
+  "install": "# git clone --depth 1 https://github.com/automattic/mcp-wordpress-remote\n# See source for mcpServers config block"
+}

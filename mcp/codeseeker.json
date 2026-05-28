@@ -1,0 +1,7 @@
+{
+  "name": "codeseeker",
+  "description": "Four-layer hybrid search and knowledge graph for AI coding assistants: BM25 + vector embeddings + RAPTOR directory summaries + graph expansion fused into a single MCP tool.",
+  "source_repo": "jghiringhelli/codeseeker",
+  "source_url": "https://github.com/jghiringhelli/codeseeker",
+  "install": "# git clone --depth 1 https://github.com/jghiringhelli/codeseeker\n# See source for mcpServers config block"
+}

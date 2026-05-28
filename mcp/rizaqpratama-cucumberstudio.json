@@ -1,0 +1,7 @@
+{
+  "name": "rizaqpratama-cucumberstudio",
+  "description": "Bridges CucumberStudio API with natural language interaction, enabling conversational management of BDD test scenarios including creation, updating, and deletion without leaving your chat interface.",
+  "source_repo": "rizaqpratama/mcp-cucumberstudio",
+  "source_url": "https://github.com/rizaqpratama/mcp-cucumberstudio",
+  "install": "# git clone --depth 1 https://github.com/rizaqpratama/mcp-cucumberstudio\n# See source for mcpServers config block"
+}

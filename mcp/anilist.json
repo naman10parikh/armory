@@ -1,0 +1,7 @@
+{
+  "name": "anilist",
+  "description": "Anilist MCP server listed on mcp.so.",
+  "source_repo": "yuna0x0/anilist",
+  "source_url": "https://mcp.so/server/anilist/yuna0x0",
+  "install": "# git clone --depth 1 https://mcp.so/server/anilist/yuna0x0\n# See source for mcpServers config block"
+}

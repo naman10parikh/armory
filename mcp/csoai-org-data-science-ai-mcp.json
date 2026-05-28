@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-data-science-ai-mcp",
+  "description": "Machine learning and statistical analysis tools for data science workflows.",
+  "source_repo": "csoai-org/data-science-ai-mcp",
+  "source_url": "https://github.com/csoai-org/data-science-ai-mcp",
+  "install": "npx -y data-science-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smart-tree",
+  "description": "Rust-based directory visualization and analysis tool that provides quantum compression, semantic analysis, and streaming modes with over 20 specialized tools for file system exploration, content discovery, and project understanding optimized for large codebase analysis.",
+  "source_repo": "8b-is/smart-tree",
+  "source_url": "https://github.com/8b-is/smart-tree",
+  "install": "# git clone --depth 1 https://github.com/8b-is/smart-tree\n# See source for mcpServers config block"
+}

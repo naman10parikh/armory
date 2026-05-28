@@ -1,0 +1,7 @@
+{
+  "name": "easy8",
+  "description": "Project management MCP built into Easy8 for listing projects, managing issues, and automating workflow tasks.",
+  "source_repo": "easy8com/easy8-mcp",
+  "source_url": "https://github.com/easy8com/easy8-mcp",
+  "install": "npx -y easy8-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-us-city-weather",
+  "description": "Mcp Us City Weather MCP server listed on mcp.so.",
+  "source_repo": "yogi-miraje/mcp-us-city-weather",
+  "source_url": "https://mcp.so/server/mcp-us-city-weather/yogi-miraje",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-us-city-weather/yogi-miraje\n# See source for mcpServers config block"
+}

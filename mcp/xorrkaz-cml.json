@@ -1,0 +1,7 @@
+{
+  "name": "xorrkaz-cml",
+  "description": "Automates Cisco Modeling Labs operations for network simulation and testing",
+  "source_repo": "xorrkaz/cml-mcp",
+  "source_url": "https://github.com/xorrkaz/cml-mcp",
+  "install": "npx -y cml-mcp"
+}

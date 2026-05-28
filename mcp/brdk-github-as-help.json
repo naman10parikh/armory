@@ -1,0 +1,7 @@
+{
+  "name": "brdk-github-as-help",
+  "description": "Provides full-text search for B&R Automation Studio help documentation using SQLite FTS5 indexing with BM25 ranking and hierarchical navigation.",
+  "source_repo": "brdk-public/as-help-mcp",
+  "source_url": "https://github.com/brdk-public/as-help-mcp",
+  "install": "npx -y as-help-mcp"
+}

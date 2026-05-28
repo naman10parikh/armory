@@ -1,0 +1,7 @@
+{
+  "name": "ada333-rhoai",
+  "description": "Integrates with Red Hat OpenShift AI clusters through Kubernetes APIs to list pods and workbenches within specified namespaces for DevOps workflows, cluster monitoring, and machine learning workload management.",
+  "source_repo": "ada333/mcp-server-rhoai-workbenches",
+  "source_url": "https://github.com/ada333/mcp-server-rhoai-workbenches",
+  "install": "# git clone --depth 1 https://github.com/ada333/mcp-server-rhoai-workbenches\n# See source for mcpServers config block"
+}

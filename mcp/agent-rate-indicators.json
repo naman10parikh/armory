@@ -1,0 +1,7 @@
+{
+  "name": "agent-rate-indicators",
+  "description": "Fair-price checks, leaderboards, and Ed25519 receipt verification for x402 and MPP payment services.",
+  "source_repo": "antmanbuilds/ari",
+  "source_url": "https://github.com/antmanbuilds/ari",
+  "install": "# git clone --depth 1 https://github.com/antmanbuilds/ari\n# See source for mcpServers config block"
+}

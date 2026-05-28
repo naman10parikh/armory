@@ -1,0 +1,7 @@
+{
+  "name": "gh-theduodecim-ascii-art",
+  "description": "Generates ASCII and Unicode art with various styles and formatting options.",
+  "source_repo": "theduodecim/ascii-art-mcp",
+  "source_url": "https://github.com/theduodecim/ascii-art-mcp",
+  "install": "npx -y ascii-art-mcp"
+}

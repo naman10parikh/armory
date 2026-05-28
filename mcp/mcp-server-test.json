@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-test",
+  "description": "Mcp Server Test MCP server listed on mcp.so.",
+  "source_repo": "fist-maestro/mcp-server-test",
+  "source_url": "https://mcp.so/server/mcp-server-test/fist-maestro",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-test/fist-maestro\n# See source for mcpServers config block"
+}

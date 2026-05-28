@@ -1,0 +1,7 @@
+{
+  "name": "daichi-kudo-llm-advisor",
+  "description": "Second-opinion responses from Gemini, GPT-4, and other LLMs for cross-model validation.",
+  "source_repo": "daichi-kudo/llm-advisor-mcp",
+  "source_url": "https://github.com/daichi-kudo/llm-advisor-mcp",
+  "install": "npx -y llm-advisor-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hardware-mcp-arduino",
+  "description": "Wraps arduino-cli for complete Arduino development workflows including board detection, sketch compilation and upload, serial monitoring, and electrical safety checks.",
+  "source_repo": "hardware-mcp/arduino-mcp-server",
+  "source_url": "https://github.com/hardware-mcp/arduino-mcp-server",
+  "install": "npx -y arduino-mcp-server"
+}

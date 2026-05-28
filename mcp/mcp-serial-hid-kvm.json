@@ -1,0 +1,7 @@
+{
+  "name": "mcp-serial-hid-kvm",
+  "description": "Gives AI agents full keyboard, mouse, and screen access to a physical PC via a KVM server and OCR.",
+  "source_repo": "sunasaji/mcp-serial-hid-kvm",
+  "source_url": "https://github.com/sunasaji/mcp-serial-hid-kvm",
+  "install": "# git clone --depth 1 https://github.com/sunasaji/mcp-serial-hid-kvm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pgiffy-usgs-water",
+  "description": "Integrates with USGS water data services to provide real-time and historical water measurements, flood monitoring, and geospatial queries for hydrological analysis and emergency management applications.",
+  "source_repo": "pgiffy/usgs-water-mcp",
+  "source_url": "https://github.com/pgiffy/usgs-water-mcp",
+  "install": "npx -y usgs-water-mcp"
+}

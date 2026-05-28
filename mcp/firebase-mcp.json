@@ -1,0 +1,7 @@
+{
+  "name": "firebase-mcp",
+  "description": "Firebase Mcp MCP server listed on mcp.so.",
+  "source_repo": "gannonh/firebase-mcp",
+  "source_url": "https://mcp.so/server/firebase-mcp/gannonh",
+  "install": "npx -y firebase-mcp"
+}

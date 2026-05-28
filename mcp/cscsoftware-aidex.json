@@ -1,0 +1,7 @@
+{
+  "name": "cscsoftware-aidex",
+  "description": "Persistent code index MCP server using Tree-sitter for fast, precise code search. Replaces grep with ~50 token responses instead of 2000+. Supports 11 languages including C#, TypeScript, Python, Rust, and Go.",
+  "source_repo": "CSCSoftware/AiDex",
+  "source_url": "https://github.com/CSCSoftware/AiDex",
+  "install": "# git clone --depth 1 https://github.com/CSCSoftware/AiDex\n# See source for mcpServers config block"
+}

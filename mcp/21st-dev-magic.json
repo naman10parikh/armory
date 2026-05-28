@@ -1,0 +1,7 @@
+{
+  "name": "21st-dev-magic",
+  "description": "Create beautiful, modern UI components instantly through natural language descriptions.",
+  "source_repo": "21st-dev/magic-mcp",
+  "source_url": "https://github.com/21st-dev/magic-mcp",
+  "install": "npx -y magic-mcp"
+}

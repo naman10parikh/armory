@@ -1,0 +1,7 @@
+{
+  "name": "vishalsachdev-eventbrite",
+  "description": "Bridges to the Eventbrite API for managing and analyzing event data with tools for listing events, applying filters, and retrieving detailed information through authenticated requests.",
+  "source_repo": "vishalsachdev/eventbrite-mcp",
+  "source_url": "https://github.com/vishalsachdev/eventbrite-mcp",
+  "install": "npx -y eventbrite-mcp"
+}

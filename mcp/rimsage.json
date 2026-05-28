@@ -1,0 +1,7 @@
+{
+  "name": "rimsage",
+  "description": "Search and browse RimWorld source code, definitions, and C# symbols via MCP tools.",
+  "source_repo": "realloon/RimSage",
+  "source_url": "https://github.com/realloon/RimSage",
+  "install": "# git clone --depth 1 https://github.com/realloon/RimSage\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iceener-google-maps",
+  "description": "Integrates with Google Maps Platform APIs to provide place searching, detailed location information with ratings and reviews, and route computation with turn-by-turn directions across multiple travel modes for trip planning and navigation assistance.",
+  "source_repo": "iceener/maps-streamable-mcp-server",
+  "source_url": "https://github.com/iceener/maps-streamable-mcp-server",
+  "install": "npx -y maps-streamable-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nitrocrcr-gread",
+  "description": "Gives AI agents access to source code and documentation from any public GitHub repository.",
+  "source_repo": "nitrorcr/gread",
+  "source_url": "https://github.com/nitrorcr/gread",
+  "install": "# git clone --depth 1 https://github.com/nitrorcr/gread\n# See source for mcpServers config block"
+}

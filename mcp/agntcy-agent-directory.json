@@ -1,0 +1,7 @@
+{
+  "name": "agntcy-agent-directory",
+  "description": "MCP server for the agntcy OASF agent directory, enabling AI agents to create, validate, search, and manage agent records using the Open Agent Schema Framework.",
+  "source_repo": "agntcy/dir-mcp",
+  "source_url": "https://github.com/agntcy/dir-mcp",
+  "install": "npx -y dir-mcp"
+}

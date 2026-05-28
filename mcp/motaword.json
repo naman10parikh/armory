@@ -1,0 +1,7 @@
+{
+  "name": "motaword",
+  "description": "Professional and certified translation and localization services via the MotaWord platform.",
+  "source_repo": "",
+  "source_url": "https://api.motaword.com/mcp",
+  "install": "# git clone --depth 1 https://api.motaword.com/mcp\n# See source for mcpServers config block"
+}

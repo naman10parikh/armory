@@ -1,0 +1,7 @@
+{
+  "name": "gh-jasonwilbur-oci-pricing",
+  "description": "Oracle Cloud Infrastructure pricing data with cost calculators and comparisons.",
+  "source_repo": "jasonwilbur/oci-pricing-mcp",
+  "source_url": "https://github.com/jasonwilbur/oci-pricing-mcp",
+  "install": "npx -y oci-pricing-mcp"
+}

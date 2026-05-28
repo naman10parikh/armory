@@ -1,0 +1,7 @@
+{
+  "name": "medusa-js-documentation-mcp-server",
+  "description": "Provides AI assistants with instant access to comprehensive Medusa.js v2 documentation, enabling smart search, precise section retrieval, and complete browsing through 2,105+ documentation sections.",
+  "source_repo": "Alexcs24/Medusa.js-Documentation-MCP-Server",
+  "source_url": "https://github.com/Alexcs24/Medusa.js-Documentation-MCP-Server",
+  "install": "npx -y Medusa.js-Documentation-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ibrahim-sajib-calendar",
+  "description": "Integrates with Google Calendar API to retrieve events by date alongside basic utility tools for arithmetic and greeting generation.",
+  "source_repo": "ibrahim-sajib/my-mcp",
+  "source_url": "https://github.com/ibrahim-sajib/my-mcp",
+  "install": "npx -y my-mcp"
+}

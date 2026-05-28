@@ -1,0 +1,7 @@
+{
+  "name": "peach-ai",
+  "description": "Send and manage WhatsApp messages, contacts, templates, and events via Peach AI.",
+  "source_repo": "trypeach-io/mcp",
+  "source_url": "https://github.com/trypeach-io/mcp",
+  "install": "# git clone --depth 1 https://github.com/trypeach-io/mcp\n# See source for mcpServers config block"
+}

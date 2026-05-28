@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-ibmcloud",
+  "description": "Manage IBM Cloud resources through CLI commands via AI assistants.",
+  "source_repo": "expertvagabond/ibmcloud-mcp-server",
+  "source_url": "https://github.com/expertvagabond/ibmcloud-mcp-server",
+  "install": "npx -y ibmcloud-mcp-server"
+}

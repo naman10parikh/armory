@@ -1,0 +1,7 @@
+{
+  "name": "dogmeat88-easyeda-pro",
+  "description": "MCP server for AI-driven control of EasyEDA Pro PCB design, covering schematics, component placement, routing, and project management.",
+  "source_repo": "dogmeat88/easyeda-mcp",
+  "source_url": "https://github.com/dogmeat88/easyeda-mcp",
+  "install": "npx -y easyeda-mcp"
+}

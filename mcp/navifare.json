@@ -1,0 +1,7 @@
+{
+  "name": "navifare",
+  "description": "Flight price comparison across multiple booking sources",
+  "source_repo": "navifare/navifare-mcp",
+  "source_url": "https://github.com/navifare/navifare-mcp",
+  "install": "npx -y navifare-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "c5huracan-meyhem",
+  "description": "Agent-native search for MCP servers and web content with outcome ranking.",
+  "source_repo": "c5huracan/meyhem",
+  "source_url": "https://github.com/c5huracan/meyhem",
+  "install": "# git clone --depth 1 https://github.com/c5huracan/meyhem\n# See source for mcpServers config block"
+}

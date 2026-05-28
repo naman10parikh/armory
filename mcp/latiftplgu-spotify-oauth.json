@@ -1,0 +1,7 @@
+{
+  "name": "latiftplgu-spotify-oauth",
+  "description": "Integrates with Spotify's Web API through OAuth authentication to manage music libraries, control playback across devices, create and modify playlists, search music catalogs, and access listening history and recommendations.",
+  "source_repo": "latiftplgu/spotify-oauth-mcp-server",
+  "source_url": "https://github.com/latiftplgu/spotify-oauth-mcp-server",
+  "install": "npx -y spotify-oauth-mcp-server"
+}

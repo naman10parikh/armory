@@ -1,0 +1,7 @@
+{
+  "name": "pantheon-security-notebooklm-secure",
+  "description": "Security-hardened fork with post-quantum encryption, secrets scanning, and enterprise-grade protections",
+  "source_repo": "pantheon-security/notebooklm-mcp-secure",
+  "source_url": "https://github.com/pantheon-security/notebooklm-mcp-secure",
+  "install": "# git clone --depth 1 https://github.com/pantheon-security/notebooklm-mcp-secure\n# See source for mcpServers config block"
+}

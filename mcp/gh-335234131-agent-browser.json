@@ -1,0 +1,7 @@
+{
+  "name": "gh-335234131-agent-browser",
+  "description": "Controls a locally-running Chrome browser with preserved login states, supporting CDP commands, screenshots, and keyboard/mouse input.",
+  "source_repo": "335234131/agent-browser-mcp",
+  "source_url": "https://github.com/335234131/agent-browser-mcp",
+  "install": "npx -y agent-browser-mcp"
+}

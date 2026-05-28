@@ -1,0 +1,7 @@
+{
+  "name": "docfork-2",
+  "description": "Up-to-date docs for AI Agents. Sign up for free API key at https://docfork.com",
+  "source_repo": "",
+  "source_url": "https://docfork.com",
+  "install": "# git clone --depth 1 https://docfork.com\n# See source for mcpServers config block"
+}

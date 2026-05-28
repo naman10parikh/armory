@@ -1,0 +1,7 @@
+{
+  "name": "m-pineapple-claude-command-runner",
+  "description": "Provides terminal command execution and management capabilities for macOS, bridging with terminal applications like Warp, iTerm2, and Terminal.app through AppleScript automation and SQLite-based command history tracking for intelligent command suggestions based on execution history and project context.",
+  "source_repo": "m-pineapple/claude-command-runner",
+  "source_url": "https://github.com/m-pineapple/claude-command-runner",
+  "install": "# git clone --depth 1 https://github.com/m-pineapple/claude-command-runner\n# See source for mcpServers config block"
+}

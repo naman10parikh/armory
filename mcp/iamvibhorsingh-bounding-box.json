@@ -1,0 +1,7 @@
+{
+  "name": "iamvibhorsingh-bounding-box",
+  "description": "Geospatial toolkit for coordinate conversion, EPSG projections, H3 indexing, Overpass queries, and map visualization.",
+  "source_repo": "iamvibhorsingh/bbox-mcp-server",
+  "source_url": "https://github.com/iamvibhorsingh/bbox-mcp-server",
+  "install": "npx -y bbox-mcp-server"
+}

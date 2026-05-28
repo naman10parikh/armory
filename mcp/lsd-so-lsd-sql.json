@@ -1,0 +1,7 @@
+{
+  "name": "lsd-so-lsd-sql",
+  "description": "Enables Claude to query and extract structured data from websites through LSD SQL, a domain-specific language that connects to cloud browsers for web data aggregation and automated browser interactions.",
+  "source_repo": "",
+  "source_url": "https://lsd.so",
+  "install": "# git clone --depth 1 https://lsd.so\n# See source for mcpServers config block"
+}

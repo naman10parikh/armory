@@ -1,0 +1,7 @@
+{
+  "name": "obligationsign-agts",
+  "description": "Governance MCP gateway with 64 tools, five-gate authorization, and Merkle transparency log for regulated AI agent deployments.",
+  "source_repo": "obligationsign/agts-mcp",
+  "source_url": "https://github.com/obligationsign/agts-mcp",
+  "install": "npx -y agts-mcp"
+}

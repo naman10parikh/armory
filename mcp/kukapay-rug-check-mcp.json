@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-rug-check-mcp",
+  "description": "An MCP server that detects potential risks in Solana meme tokens.",
+  "source_repo": "kukapay/rug-check-mcp",
+  "source_url": "https://github.com/kukapay/rug-check-mcp",
+  "install": "npx -y rug-check-mcp"
+}

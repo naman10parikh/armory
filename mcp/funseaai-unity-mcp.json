@@ -1,0 +1,7 @@
+{
+  "name": "funseaai-unity-mcp",
+  "description": "Bridges the Unity Editor for AI-driven scene inspection and project management.",
+  "source_repo": "funplayai/funplay-unity-mcp",
+  "source_url": "https://github.com/funplayai/funplay-unity-mcp",
+  "install": "npx -y funplay-unity-mcp"
+}

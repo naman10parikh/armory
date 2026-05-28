@@ -1,0 +1,7 @@
+{
+  "name": "blowsh-mcp",
+  "description": "Enables AI agents to browse and extract content from JavaScript-rendered web pages via the Model Context Protocol, returning plain text, HTML, or Markdown.",
+  "source_repo": "mokhtarabadi/blowsh-mcp",
+  "source_url": "https://github.com/mokhtarabadi/blowsh-mcp",
+  "install": "npx -y blowsh-mcp"
+}

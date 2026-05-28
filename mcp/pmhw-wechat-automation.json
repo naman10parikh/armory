@@ -1,0 +1,7 @@
+{
+  "name": "pmhw-wechat-automation",
+  "description": "Automates WeChat desktop application on Windows through UI element interaction, enabling message sending via clipboard-based text handling and process management without requiring official API access.",
+  "source_repo": "pmhw/winautowx",
+  "source_url": "https://github.com/pmhw/winautowx",
+  "install": "# git clone --depth 1 https://github.com/pmhw/winautowx\n# See source for mcpServers config block"
+}

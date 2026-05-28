@@ -1,0 +1,7 @@
+{
+  "name": "rnwy-trust-intelligence-ai-scanner",
+  "description": "Check if an AI agent is trustworthy before you hire it. Sybil detection, signed attestations, and reviewer wallet analysis across 150,000+ agents. Free, no key required.",
+  "source_repo": "",
+  "source_url": "https://rnwy.com/",
+  "install": "# git clone --depth 1 https://rnwy.com/\n# See source for mcpServers config block"
+}

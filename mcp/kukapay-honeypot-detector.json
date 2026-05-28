@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-honeypot-detector",
+  "description": "Detects honeypot tokens on Ethereum, BNB Smart Chain, and Base networks using the honeypot.is API to validate contract addresses and return detailed analysis including risk level, taxes, and verification status for safer DeFi trading.",
+  "source_repo": "kukapay/honeypot-detector-mcp",
+  "source_url": "https://github.com/kukapay/honeypot-detector-mcp",
+  "install": "npx -y honeypot-detector-mcp"
+}

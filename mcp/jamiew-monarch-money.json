@@ -1,0 +1,7 @@
+{
+  "name": "jamiew-monarch-money",
+  "description": "Access Monarch Money financial data including accounts, transactions, budgets, and investments.",
+  "source_repo": "jamiew/monarch-mcp",
+  "source_url": "https://github.com/jamiew/monarch-mcp",
+  "install": "npx -y monarch-mcp"
+}

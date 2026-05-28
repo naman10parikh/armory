@@ -1,0 +1,7 @@
+{
+  "name": "bnm",
+  "description": "Integrates with Bank Negara Malaysia's public APIs to provide direct access to Malaysian financial and economic data including exchange rates, interest rates, monetary aggregates, banking statistics, and macroeconomic indicators through over 30 specialized tools.",
+  "source_repo": "meisin/bnm-mcp",
+  "source_url": "https://github.com/meisin/bnm-mcp",
+  "install": "npx -y bnm-mcp"
+}

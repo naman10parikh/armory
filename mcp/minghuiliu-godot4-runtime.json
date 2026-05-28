@@ -1,0 +1,7 @@
+{
+  "name": "minghuiliu-godot4-runtime",
+  "description": "Bridges Godot 4 C# projects with development tools through HTTP API communication, enabling real-time scene manipulation, script management, property inspection, signal handling, and resource operations during active game development sessions.",
+  "source_repo": "minghuiliu/godot4-runtime-mcp",
+  "source_url": "https://github.com/minghuiliu/godot4-runtime-mcp",
+  "install": "npx -y godot4-runtime-mcp"
+}

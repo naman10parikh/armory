@@ -1,0 +1,7 @@
+{
+  "name": "urjitbhatia-iterm2-control",
+  "description": "Controls iTerm2 terminal sessions with 40 tools across session, window, tab, profile, and broadcast management with tiered permissions.",
+  "source_repo": "urjitbhatia/it2mcp",
+  "source_url": "https://github.com/urjitbhatia/it2mcp",
+  "install": "# git clone --depth 1 https://github.com/urjitbhatia/it2mcp\n# See source for mcpServers config block"
+}

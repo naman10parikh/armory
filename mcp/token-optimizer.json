@@ -1,0 +1,7 @@
+{
+  "name": "token-optimizer",
+  "description": "Intelligent token optimization achieving 95%+ reduction through caching and compression",
+  "source_repo": "ooples/token-optimizer-mcp",
+  "source_url": "https://github.com/ooples/token-optimizer-mcp",
+  "install": "npx -y token-optimizer-mcp"
+}

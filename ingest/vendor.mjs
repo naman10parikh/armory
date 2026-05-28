@@ -1,14 +1,13 @@
 #!/usr/bin/env node
 // Armory vendor.mjs — copies ACTUAL component files from upstream repos into
-// gear/<type>/ and harness-native dot-folders.
+// root type folders and harness-native dot-folders.
 //
 // Owned surfaces (touched, reset on --apply):
-//   gear/{skills,agents,commands,hooks,rules}/
+//   {skills,agents,commands,hooks,rules}/
 //   .claude/{skills,agents,commands,hooks}/
 //   .cursor/rules/
 //   .claude/rules/           (mirror of cursor rules)
 //   .codex/README.md  .opencode/README.md  .gemini/README.md
-//   gear/README.md
 //
 // NEVER touched: brain/, catalog.json, armory-mcp/, cli/, armory-skill/,
 //                armory-plugin/, README.md, package.json, ingest/* (other files)
@@ -27,7 +26,7 @@ import { execSync } from "node:child_process";
 
 const DRY_RUN = !process.argv.includes("--apply");
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const COMP = join(ROOT, "gear");
+const COMP = ROOT; // real files live at root now, not under gear/
 const TMP = "/tmp/armory-vendor";
 
 // ─── helpers ────────────────────────────────────────────────────────────────
@@ -318,7 +317,7 @@ function processDisler(cloneDir, destHooks, seenH) {
 // ─── HARNESS FOLDER WRITER ───────────────────────────────────────────────────
 
 const HARNESS_POINTER_MSG = (harness) =>
-  `# Armory components for ${harness}\n\nSee \`../gear/\` for actual vendored files.\nInstall a component: \`armory install <name> --cli ${harness}\`\n`;
+  `# Armory components for ${harness}\n\nReal files live at the repo root: skills/ agents/ commands/ hooks/ rules/\nInstall a component: \`armory install <name> --cli ${harness}\`\n`;
 
 function buildHarnessFolders(destSkills, destAgents, destCommands, destHooks, destRules) {
   // .claude/ harness
@@ -395,37 +394,9 @@ function buildHarnessFolders(destSkills, destAgents, destCommands, destHooks, de
 
 // ─── COMPONENTS README ───────────────────────────────────────────────────────
 
-const COMP_README = `# Armory — Vendored Gear
-
-This directory contains the **actual component files** vendored from upstream repos.
-
-\`brain/\` holds metadata graph stubs (one per component, YAML frontmatter + description).
-\`gear/\` holds the **real pieces** — copy them straight into your project or run
-\`armory install <slug>\` to let the CLI wire them for you.
-
-## Layout
-
-\`\`\`
-gear/
-  skills/      <slug>/SKILL.md (+ optional supporting files)
-  agents/      <slug>.md       (Claude sub-agent definitions)
-  commands/    <slug>.md       (slash-command definitions)
-  hooks/       <slug>.py|json  (lifecycle hook scripts)
-  rules/       <slug>.md       (coding rules for Cursor / Claude)
-\`\`\`
-
-## Harness-native mirrors
-
-| Harness        | Location         | Notes                              |
-|----------------|------------------|------------------------------------|
-| Claude Code    | \`.claude/\`      | skills/ agents/ commands/ hooks/ rules/ |
-| Cursor         | \`.cursor/rules/\`| rules only                         |
-| Codex          | \`.codex/\`       | pointer README → ../gear/          |
-| OpenCode       | \`.opencode/\`    | pointer README → ../gear/          |
-| Gemini         | \`.gemini/\`      | pointer README → ../gear/          |
-
-Sources are vendored verbatim (license-compliant). Each file has a 1-line provenance header.
-`;
+// Note: gear/README.md is no longer written — the real files live at the root now.
+// This constant is kept as a reference only.
+const _LEGACY_COMP_README = ``;
 
 // ─── MAIN ────────────────────────────────────────────────────────────────────
 
@@ -437,7 +408,7 @@ async function main() {
     ensureDir(TMP);
   }
 
-  // Destination dirs inside gear/
+  // Destination dirs at repo root
   const destSkills   = join(COMP, "skills");
   const destAgents   = join(COMP, "agents");
   const destCommands = join(COMP, "commands");
@@ -561,11 +532,6 @@ async function main() {
   // ── harness folders ──────────────────────────────────────────────────────────
   console.log("\n── Building harness-native folders ──\n");
   const mirroredFiles = buildHarnessFolders(destSkills, destAgents, destCommands, destHooks, destRules);
-
-  // ── components README ────────────────────────────────────────────────────────
-  if (!DRY_RUN) {
-    writeFileSync(join(COMP, "README.md"), COMP_README, "utf8");
-  }
 
   // ── report ───────────────────────────────────────────────────────────────────
   const total = counts.skills + counts.agents + counts.commands + counts.hooks + counts.rules;

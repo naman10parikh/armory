@@ -1,0 +1,7 @@
+{
+  "name": "calories-club",
+  "description": "AI-powered calorie tracking with photo recognition, barcode scanning, and voice logging.",
+  "source_repo": "",
+  "source_url": "https://recordo.app/mcp/calories",
+  "install": "# git clone --depth 1 https://recordo.app/mcp/calories\n# See source for mcpServers config block"
+}

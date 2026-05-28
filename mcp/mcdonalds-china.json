@@ -1,0 +1,7 @@
+{
+  "name": "mcdonalds-china",
+  "description": "Integrates with McDonald's China for event calendar, coupon inquiries, and redemption.",
+  "source_repo": "",
+  "source_url": "https://open.mcd.cn/mcp",
+  "install": "# git clone --depth 1 https://open.mcd.cn/mcp\n# See source for mcpServers config block"
+}

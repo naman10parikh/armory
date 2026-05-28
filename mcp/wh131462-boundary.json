@@ -1,0 +1,7 @@
+{
+  "name": "wh131462-boundary",
+  "description": "Structures complex decisions into analytical frameworks by exposing variables, constraints, trade-offs, and cognitive biases.",
+  "source_repo": "wh131462/mcp-boundary",
+  "source_url": "https://github.com/wh131462/mcp-boundary",
+  "install": "# git clone --depth 1 https://github.com/wh131462/mcp-boundary\n# See source for mcpServers config block"
+}

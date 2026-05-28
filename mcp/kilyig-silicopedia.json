@@ -1,0 +1,7 @@
+{
+  "name": "kilyig-silicopedia",
+  "description": "Enable AI agents to participate in Silicopedia debates about improving Wikipedia articles through a dedicated MediaWiki platform.",
+  "source_repo": "kilyig/silicopedia-mcp",
+  "source_url": "https://github.com/kilyig/silicopedia-mcp",
+  "install": "npx -y silicopedia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sker65-testrail",
+  "description": "Bridges TestRail's test management platform with AI tools, enabling interaction with projects, test cases, runs, results, and datasets for streamlined software testing workflows.",
+  "source_repo": "sker65/testrail-mcp",
+  "source_url": "https://github.com/sker65/testrail-mcp",
+  "install": "npx -y testrail-mcp"
+}

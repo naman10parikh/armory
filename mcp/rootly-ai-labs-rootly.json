@@ -1,0 +1,7 @@
+{
+  "name": "rootly-ai-labs-rootly",
+  "description": "Integrates with Rootly's incident management API to enable real-time production incident resolution directly within code editors, focusing on core endpoints with optimized pagination to prevent context overflow.",
+  "source_repo": "rootly-ai-labs/rootly-mcp-server",
+  "source_url": "https://github.com/rootly-ai-labs/rootly-mcp-server",
+  "install": "npx -y rootly-mcp-server"
+}

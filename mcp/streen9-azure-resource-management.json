@@ -1,0 +1,7 @@
+{
+  "name": "streen9-azure-resource-management",
+  "description": "Integrates with Azure services to enable cloud resource management, including provisioning virtual machines, configuring networks, and monitoring subscriptions.",
+  "source_repo": "kalivaraprasad-gonapa/azure-mcp",
+  "source_url": "https://github.com/kalivaraprasad-gonapa/azure-mcp",
+  "install": "npx -y azure-mcp"
+}

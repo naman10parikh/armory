@@ -1,0 +1,7 @@
+{
+  "name": "burakdirin-clickhouse",
+  "description": "Integrates with ClickHouse databases to execute SQL queries and retrieve results in JSON format, enabling data analysis and exploration directly within conversation interfaces.",
+  "source_repo": "burakdirin/clickhouse-mcp-server",
+  "source_url": "https://github.com/burakdirin/clickhouse-mcp-server",
+  "install": "npx -y clickhouse-mcp-server"
+}

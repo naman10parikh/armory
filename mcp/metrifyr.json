@@ -1,0 +1,7 @@
+{
+  "name": "metrifyr",
+  "description": "Natural language access to Google Analytics 4, Search Console, Google Tag Manager, and AdSense through 69 marketing tools.",
+  "source_repo": "",
+  "source_url": "https://www.metrifyr.cloud",
+  "install": "# git clone --depth 1 https://www.metrifyr.cloud\n# See source for mcpServers config block"
+}

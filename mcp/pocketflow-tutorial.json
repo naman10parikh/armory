@@ -1,0 +1,7 @@
+{
+  "name": "pocketflow-tutorial",
+  "description": "Turns GitHub repositories into easy tutorials with AI",
+  "source_repo": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+  "source_url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+  "install": "# git clone --depth 1 https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge\n# See source for mcpServers config block"
+}

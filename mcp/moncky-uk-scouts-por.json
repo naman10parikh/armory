@@ -1,0 +1,7 @@
+{
+  "name": "moncky-uk-scouts-por",
+  "description": "Provides automated access to the UK Scouts Policy, Organisation and Rules document through PDF processing and text search.",
+  "source_repo": "moncky/por-mcp-server",
+  "source_url": "https://github.com/moncky/por-mcp-server",
+  "install": "npx -y por-mcp-server"
+}

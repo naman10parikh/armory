@@ -1,0 +1,7 @@
+{
+  "name": "vladyslavmykhailyshyn-ukrainian-statistics",
+  "description": "Integrates with Ukraine's State Statistics Service SDMX API to provide access to official government statistical data across energy, trade, and demographics with flexible filtering by dimensions and time periods for economic research and policy analysis.",
+  "source_repo": "vladyslavmykhailyshyn/ukrainian-stats-mcp-server",
+  "source_url": "https://github.com/vladyslavmykhailyshyn/ukrainian-stats-mcp-server",
+  "install": "npx -y ukrainian-stats-mcp-server"
+}

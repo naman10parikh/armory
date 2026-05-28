@@ -1,0 +1,7 @@
+{
+  "name": "kyrgyz-news",
+  "description": "Access the latest news and trending stories from Kyrgyzstan. Search for specific topics using natural language and follow developing stories across multiple sources through trending clusters. Get comprehensive article summaries and related content to stay informed on local events.",
+  "source_repo": "",
+  "source_url": "https://fuddy-duddy.org",
+  "install": "# git clone --depth 1 https://fuddy-duddy.org\n# See source for mcpServers config block"
+}

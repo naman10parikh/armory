@@ -1,0 +1,7 @@
+{
+  "name": "school-mcp",
+  "description": "School Mcp MCP server listed on mcp.so.",
+  "source_repo": "54yyyu/school-mcp",
+  "source_url": "https://mcp.so/server/school-mcp/54yyyu",
+  "install": "npx -y school-mcp"
+}

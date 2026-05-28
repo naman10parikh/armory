@@ -1,0 +1,7 @@
+{
+  "name": "koko-call-mcp",
+  "description": "Read-only MCP server for searching Japanese government procurement bid notices (官公需) from the SME Agency's KKJ portal. Includes AI ranking, PDF requirement extraction, and CSV/calendar export.",
+  "source_repo": "sugukurukabe/koko-call-mcp",
+  "source_url": "https://github.com/sugukurukabe/koko-call-mcp",
+  "install": "npx -y koko-call-mcp"
+}

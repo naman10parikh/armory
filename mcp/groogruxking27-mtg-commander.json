@@ -1,0 +1,7 @@
+{
+  "name": "groogruxking27-mtg-commander",
+  "description": "Supports Magic: The Gathering Commander/EDH gameplay with 13 tools for card lookup, deck building, price comparison, and rules reference.",
+  "source_repo": "groogruxking27/mtg-commander-mcp",
+  "source_url": "https://github.com/groogruxking27/mtg-commander-mcp",
+  "install": "npx -y mtg-commander-mcp"
+}

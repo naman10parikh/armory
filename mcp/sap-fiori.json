@@ -1,0 +1,7 @@
+{
+  "name": "sap-fiori",
+  "description": "MCP server for interacting with SAP Fiori development tools and SAP UX Tools projects.",
+  "source_repo": "sap/open-ux-tools",
+  "source_url": "https://github.com/sap/open-ux-tools/tree/HEAD/packages/fiori-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sap/open-ux-tools/tree/HEAD/packages/fiori-mcp-server\n# See source for mcpServers config block"
+}

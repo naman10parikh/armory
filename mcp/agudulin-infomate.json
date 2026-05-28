@@ -1,0 +1,7 @@
+{
+  "name": "agudulin-infomate",
+  "description": "Fetches and summarizes curated tech news from infomate.club/vas3k by parsing HTML content to extract articles from multiple feeds like Hacker News, Techmeme, GitHub, Reddit, and Pinboard, grouping them by source and generating keyword-based summaries in structured markdown format.",
+  "source_repo": "agudulin/infomate-mcp",
+  "source_url": "https://github.com/agudulin/infomate-mcp",
+  "install": "npx -y infomate-mcp"
+}

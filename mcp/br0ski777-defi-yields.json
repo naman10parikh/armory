@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-defi-yields",
+  "description": "Find the best DeFi yields by token with APY, TVL, risk scores, and protocol data via DeFiLlama.",
+  "source_repo": "br0ski777/defi-yields-x402",
+  "source_url": "https://github.com/br0ski777/defi-yields-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/defi-yields-x402\n# See source for mcpServers config block"
+}

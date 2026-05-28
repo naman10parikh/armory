@@ -1,0 +1,7 @@
+{
+  "name": "jikime-google-toolbox",
+  "description": "Integrates with Google services including Gmail, Calendar, Drive, and Search through OAuth 2.0 authentication, enabling email management, scheduling, document access, and web information retrieval.",
+  "source_repo": "jikime/py-mcp-google-toolbox",
+  "source_url": "https://github.com/jikime/py-mcp-google-toolbox",
+  "install": "# git clone --depth 1 https://github.com/jikime/py-mcp-google-toolbox\n# See source for mcpServers config block"
+}

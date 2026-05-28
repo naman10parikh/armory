@@ -1,0 +1,7 @@
+{
+  "name": "davidlandais-ovh-api",
+  "description": "Explore and call any OVH API endpoint via sandboxed JavaScript execution.",
+  "source_repo": "davidlandais/ovh-api-mcp",
+  "source_url": "https://github.com/davidlandais/ovh-api-mcp",
+  "install": "npx -y ovh-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "reyneill-kontxt",
+  "description": "Provides AI-driven codebase analysis by connecting to local repositories and using Gemini 2.0 Flash's 1M input window to generate context based on user queries without manual indexing.",
+  "source_repo": "reyneill/kontxt",
+  "source_url": "https://github.com/reyneill/kontxt",
+  "install": "# git clone --depth 1 https://github.com/reyneill/kontxt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "greencore-solutions-cpg",
+  "description": "CPG-to-retail grocery node intelligence — 2,235 banners across 28 markets for AI supply chain workflows.",
+  "source_repo": "gsc-em/aio-agents-mcp",
+  "source_url": "https://github.com/gsc-em/aio-agents-mcp",
+  "install": "npx -y aio-agents-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aegis-gov-sec-filings-mcp",
+  "description": "Query SEC EDGAR for company filings, financial data, and executive disclosures. Search by company name or ticker, retrieve 10-K/10-Q/8-K filings, and extract structured financials — backed by the official SEC EDGAR API, built for AI agents.",
+  "source_repo": "AEGISGOVDAO/aegisgov-sec-mcp",
+  "source_url": "https://github.com/AEGISGOVDAO/aegisgov-sec-mcp",
+  "install": "npx -y aegisgov-sec-mcp"
+}

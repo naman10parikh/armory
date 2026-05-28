@@ -1,0 +1,7 @@
+{
+  "name": "stage0-authorization-mcp-server",
+  "description": "An MCP server that enforces runtime authorization for tool calls using Stage0 policy validation, preventing AI agents from executing unauthorized actions before they happen.",
+  "source_repo": "Starlight143/mcp-server-stage0-authorization",
+  "source_url": "https://github.com/Starlight143/mcp-server-stage0-authorization",
+  "install": "# git clone --depth 1 https://github.com/Starlight143/mcp-server-stage0-authorization\n# See source for mcpServers config block"
+}

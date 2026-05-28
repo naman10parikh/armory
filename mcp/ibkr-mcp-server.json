@@ -1,0 +1,7 @@
+{
+  "name": "ibkr-mcp-server",
+  "description": "This MCP server interacts with the Interactive Brokers API to fetch portfolio details, enabling portfolio management through natural language.",
+  "source_repo": "seriallazer/ibkr-mcp-server",
+  "source_url": "https://github.com/seriallazer/ibkr-mcp-server",
+  "install": "npx -y ibkr-mcp-server"
+}

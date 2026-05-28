@@ -1,0 +1,7 @@
+{
+  "name": "vulk",
+  "description": "Build, edit, deploy, and export full-stack web applications from natural language prompts.",
+  "source_repo": "vulk-dev/vulk-mcp-server",
+  "source_url": "https://github.com/vulk-dev/vulk-mcp-server",
+  "install": "npx -y vulk-mcp-server"
+}

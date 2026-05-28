@@ -1,0 +1,7 @@
+{
+  "name": "ethereum-rpc-mpc-server",
+  "description": "An MCP server that bridges AI models with Ethereum blockchains via all JSON-RPC calls, enabling natural language queries for block numbers, balances, transactions, and smart contract data.",
+  "source_repo": "Kemperino/ethereum-rpc-mpc",
+  "source_url": "https://github.com/Kemperino/ethereum-rpc-mpc",
+  "install": "# git clone --depth 1 https://github.com/Kemperino/ethereum-rpc-mpc\n# See source for mcpServers config block"
+}

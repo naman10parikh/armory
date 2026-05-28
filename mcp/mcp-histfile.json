@@ -1,0 +1,7 @@
+{
+  "name": "mcp-histfile",
+  "description": "Mcp Histfile MCP server listed on mcp.so.",
+  "source_repo": "rajpdus/mcp-histfile",
+  "source_url": "https://mcp.so/server/mcp-histfile/rajpdus",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-histfile/rajpdus\n# See source for mcpServers config block"
+}

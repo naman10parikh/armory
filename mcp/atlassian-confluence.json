@@ -1,0 +1,7 @@
+{
+  "name": "atlassian-confluence",
+  "description": "Integrates with Atlassian Confluence to provide direct access to spaces, pages, and content with tools for listing, retrieving, and searching using CQL while converting content to Markdown format",
+  "source_repo": "aashari/mcp-server-atlassian-confluence",
+  "source_url": "https://github.com/aashari/mcp-server-atlassian-confluence",
+  "install": "# git clone --depth 1 https://github.com/aashari/mcp-server-atlassian-confluence\n# See source for mcpServers config block"
+}

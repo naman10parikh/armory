@@ -1,0 +1,7 @@
+{
+  "name": "tjp2021-thinkgate",
+  "description": "Automatically classifies prompt complexity and routes to optimal Claude thinking modes, selecting between no thinking, medium effort, and maximum effort based on task demands.",
+  "source_repo": "tjp2021/mcp-thinkgate",
+  "source_url": "https://github.com/tjp2021/mcp-thinkgate",
+  "install": "# git clone --depth 1 https://github.com/tjp2021/mcp-thinkgate\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "snmp-mcp",
+  "description": "An MCP server that wraps the IETF SNMP standard so AI agents can poll any SNMP-speaking device on the network, with generic primitives and MIB-specific wrappers for read-only inspection.",
+  "source_repo": "acato/snmp-mcp",
+  "source_url": "https://github.com/acato/snmp-mcp",
+  "install": "npx -y snmp-mcp"
+}

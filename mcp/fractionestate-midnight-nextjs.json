@@ -1,0 +1,7 @@
+{
+  "name": "fractionestate-midnight-nextjs",
+  "description": "Provides tools for Midnight blockchain smart contract development and Next.js dApp building.",
+  "source_repo": "dajo-code/midnight-nextjs-mcp",
+  "source_url": "https://github.com/dajo-code/midnight-nextjs-mcp",
+  "install": "npx -y midnight-nextjs-mcp"
+}

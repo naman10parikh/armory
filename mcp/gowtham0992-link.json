@@ -1,0 +1,7 @@
+{
+  "name": "gowtham0992-link",
+  "description": "Personal knowledge wiki maintained by LLMs with agent-optimized search and graph visualization.",
+  "source_repo": "gowtham0992/link",
+  "source_url": "https://github.com/gowtham0992/link",
+  "install": "# git clone --depth 1 https://github.com/gowtham0992/link\n# See source for mcpServers config block"
+}

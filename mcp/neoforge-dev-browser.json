@@ -1,0 +1,7 @@
+{
+  "name": "neoforge-dev-browser",
+  "description": "Provides a headless browser interface for testing and analyzing frontend applications, enabling screenshot capture, DOM extraction, CSS analysis, accessibility testing, and responsive design verification across different viewports.",
+  "source_repo": "neoforge-dev/mcp-browser",
+  "source_url": "https://github.com/neoforge-dev/mcp-browser",
+  "install": "# git clone --depth 1 https://github.com/neoforge-dev/mcp-browser\n# See source for mcpServers config block"
+}

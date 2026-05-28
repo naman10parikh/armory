@@ -1,0 +1,7 @@
+{
+  "name": "sinagilassi-mozichem",
+  "description": "Provides thermodynamic and chemical engineering calculations through the MoziChem framework, offering equation of state models and flash calculations for process design, optimization, and phase equilibrium analysis.",
+  "source_repo": "sinagilassi/mozichem-mcp",
+  "source_url": "https://github.com/sinagilassi/mozichem-mcp",
+  "install": "npx -y mozichem-mcp"
+}

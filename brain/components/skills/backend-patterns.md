@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes.

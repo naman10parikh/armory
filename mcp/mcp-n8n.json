@@ -1,0 +1,7 @@
+{
+  "name": "mcp-n8n",
+  "description": "MCP server for integrating with n8n, enabling workflow automation and management through natural language.",
+  "source_repo": "backsoul/mcp-n8n",
+  "source_url": "https://github.com/backsoul/mcp-n8n",
+  "install": "# git clone --depth 1 https://github.com/backsoul/mcp-n8n\n# See source for mcpServers config block"
+}

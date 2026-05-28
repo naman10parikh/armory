@@ -1,0 +1,7 @@
+{
+  "name": "reidbryant-str-investment-analysis",
+  "description": "Analyzes short-term rental investment opportunities with property search, return calculation, and cap rate tools.",
+  "source_repo": "reidbryant/str-mcp-server",
+  "source_url": "https://github.com/reidbryant/str-mcp-server",
+  "install": "npx -y str-mcp-server"
+}

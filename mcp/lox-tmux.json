@@ -1,0 +1,7 @@
+{
+  "name": "lox-tmux",
+  "description": "Enables terminal session management through tmux with tools for creating sessions, sending commands and keystrokes, capturing screen content, and managing session lifecycles for system administration, development workflows, and terminal-based application interactions.",
+  "source_repo": "lox/tmux-mcp-server",
+  "source_url": "https://github.com/lox/tmux-mcp-server",
+  "install": "npx -y tmux-mcp-server"
+}

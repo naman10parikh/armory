@@ -1,0 +1,7 @@
+{
+  "name": "geoservercloud-mcp",
+  "description": "MCP server for managing GeoServer workspaces, datastores, layers, and styles",
+  "source_repo": "ronitjadhav/geoservercloud-mcp",
+  "source_url": "https://github.com/ronitjadhav/geoservercloud-mcp",
+  "install": "npx -y geoservercloud-mcp"
+}

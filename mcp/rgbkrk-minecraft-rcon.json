@@ -1,0 +1,7 @@
+{
+  "name": "rgbkrk-minecraft-rcon",
+  "description": "Integrates with Minecraft servers via RCON to enable administration, world manipulation, and player management.",
+  "source_repo": "rgbkrk/rcon-mcp",
+  "source_url": "https://github.com/rgbkrk/rcon-mcp",
+  "install": "npx -y rcon-mcp"
+}

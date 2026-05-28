@@ -1,0 +1,7 @@
+{
+  "name": "john-zhang-xero-accounting",
+  "description": "Integrates with Xero Accounting Software to access financial data including accounts, transactions, contacts, invoices, and more through authenticated API connections for financial analysis and bookkeeping tasks.",
+  "source_repo": "john-zhang-dev/xero-mcp",
+  "source_url": "https://github.com/john-zhang-dev/xero-mcp",
+  "install": "npx -y xero-mcp"
+}

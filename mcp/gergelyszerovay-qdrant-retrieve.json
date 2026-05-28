@@ -1,0 +1,7 @@
+{
+  "name": "gergelyszerovay-qdrant-retrieve",
+  "description": "Enables semantic search across multiple document collections using Qdrant vector database integration, allowing natural language queries with configurable result counts and collection tracking.",
+  "source_repo": "gergelyszerovay/mcp-server-qdrant-retrieve",
+  "source_url": "https://github.com/gergelyszerovay/mcp-server-qdrant-retrieve",
+  "install": "# git clone --depth 1 https://github.com/gergelyszerovay/mcp-server-qdrant-retrieve\n# See source for mcpServers config block"
+}

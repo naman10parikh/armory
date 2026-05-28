@@ -1,0 +1,7 @@
+{
+  "name": "thesnakefang-buyapi",
+  "description": "Evaluate and compare vendor options for infrastructure and software purchasing decisions.",
+  "source_repo": "thesnakefang/buyapi-mcp",
+  "source_url": "https://github.com/thesnakefang/buyapi-mcp",
+  "install": "npx -y buyapi-mcp"
+}

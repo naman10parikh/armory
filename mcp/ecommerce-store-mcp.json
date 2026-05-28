@@ -1,0 +1,7 @@
+{
+  "name": "ecommerce-store-mcp",
+  "description": "Enables intelligent ecommerce tools for agents and applications, including product catalog access, product addition, and shopping policies.",
+  "source_repo": "khesayed/ecommerce-store-mcp",
+  "source_url": "https://github.com/khesayed/ecommerce-store-mcp",
+  "install": "npx -y ecommerce-store-mcp"
+}

@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Test-driven development for Laravel with PHPUnit and Pest, factories, database testing, fakes, and coverage targets.

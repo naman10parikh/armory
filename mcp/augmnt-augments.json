@@ -1,0 +1,7 @@
+{
+  "name": "augmnt-augments",
+  "description": "Real-time framework documentation provider for 90+ frameworks",
+  "source_repo": "augmnt/augments-mcp-server",
+  "source_url": "https://github.com/augmnt/augments-mcp-server",
+  "install": "npx -y augments-mcp-server"
+}

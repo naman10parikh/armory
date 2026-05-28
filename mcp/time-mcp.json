@@ -1,0 +1,7 @@
+{
+  "name": "time-mcp",
+  "description": "Time Mcp MCP server listed on mcp.so.",
+  "source_repo": "yokingma/time-mcp",
+  "source_url": "https://mcp.so/server/time-mcp/yokingma",
+  "install": "npx -y time-mcp"
+}

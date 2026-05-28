@@ -1,0 +1,7 @@
+{
+  "name": "nordsynk-fortnox",
+  "description": "Hosted MCP server connecting AI assistants to Fortnox accounting data via OAuth.",
+  "source_repo": "",
+  "source_url": "https://mcp.nordsynk.se/",
+  "install": "# git clone --depth 1 https://mcp.nordsynk.se/\n# See source for mcpServers config block"
+}

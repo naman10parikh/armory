@@ -1,0 +1,7 @@
+{
+  "name": "shaunie2fly-ndlovu-code-reviewer",
+  "description": "Combines static analysis with Gemini CLI integration to automatically detect uncommitted JavaScript, TypeScript, and Vue file changes via git diff, runs the best available linter, and returns structured JSON reviews with actionable findings categorized by severity for enhanced code quality feedback beyond basic linting.",
+  "source_repo": "shaunie2fly/ndlovu-code-reviewer",
+  "source_url": "https://github.com/shaunie2fly/ndlovu-code-reviewer",
+  "install": "# git clone --depth 1 https://github.com/shaunie2fly/ndlovu-code-reviewer\n# See source for mcpServers config block"
+}

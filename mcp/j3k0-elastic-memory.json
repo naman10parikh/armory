@@ -1,0 +1,7 @@
+{
+  "name": "j3k0-elastic-memory",
+  "description": "Elasticsearch-based knowledge graph that tracks access patterns to prioritize recent, important, and frequently accessed information with advanced search capabilities and complete CRUD operations.",
+  "source_repo": "j3k0/mcp-brain-tools",
+  "source_url": "https://github.com/j3k0/mcp-brain-tools",
+  "install": "# git clone --depth 1 https://github.com/j3k0/mcp-brain-tools\n# See source for mcpServers config block"
+}

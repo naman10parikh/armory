@@ -1,0 +1,7 @@
+{
+  "name": "writesdavid-open-primitive",
+  "description": "Access 13 US federal data domains including flights, vehicles, food safety, drugs, hospitals, nutrition, jobs, demographics, and SEC filings with cryptographically signed responses.",
+  "source_repo": "writesdavid/open-primitive-api",
+  "source_url": "https://github.com/writesdavid/open-primitive-api",
+  "install": "# git clone --depth 1 https://github.com/writesdavid/open-primitive-api\n# See source for mcpServers config block"
+}

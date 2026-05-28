@@ -1,0 +1,7 @@
+{
+  "name": "hair",
+  "description": "Your AI-powered Prohall hair expert. Ask any hair question and get expert advice and product recommendations in 6 languages(EN / ES / FR / DE / JA / PT)",
+  "source_repo": "",
+  "source_url": "https://prohall.hair/",
+  "install": "# git clone --depth 1 https://prohall.hair/\n# See source for mcpServers config block"
+}

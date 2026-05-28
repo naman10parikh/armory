@@ -1,0 +1,7 @@
+{
+  "name": "qso-graph-qsp",
+  "description": "Relays MCP tools to any OpenAI-compatible local LLM endpoint for the qso-graph amateur radio ecosystem.",
+  "source_repo": "qso-graph/qsp-mcp",
+  "source_url": "https://github.com/qso-graph/qsp-mcp",
+  "install": "npx -y qsp-mcp"
+}

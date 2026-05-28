@@ -1,0 +1,7 @@
+{
+  "name": "workofarttattoo-qulab",
+  "description": "Remote MCP server for computational science and laboratory tools via Streamable HTTP.",
+  "source_repo": "workofarttattoo/qulab-infinite-mcp",
+  "source_url": "https://github.com/workofarttattoo/qulab-infinite-mcp",
+  "install": "npx -y qulab-infinite-mcp"
+}

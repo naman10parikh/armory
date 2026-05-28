@@ -1,0 +1,7 @@
+{
+  "name": "google-ads-mcp-server",
+  "description": "Google Ads Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "bjorndavidhansen/google-ads-mcp-server",
+  "source_url": "https://mcp.so/server/google-ads-mcp-server/bjorndavidhansen",
+  "install": "npx -y google-ads-mcp-server"
+}

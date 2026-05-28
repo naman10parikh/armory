@@ -1,0 +1,7 @@
+{
+  "name": "unirate",
+  "description": "Currency conversion and exchange rates for AI agents covering 170+ currencies with historical data since 1999.",
+  "source_repo": "unirate-api/unirate-mcp",
+  "source_url": "https://github.com/unirate-api/unirate-mcp",
+  "install": "npx -y unirate-mcp"
+}

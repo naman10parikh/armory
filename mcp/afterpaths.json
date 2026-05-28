@@ -1,0 +1,7 @@
+{
+  "name": "afterpaths",
+  "description": "Location-based content discovery for finding nearby places, events, and activities.",
+  "source_repo": "burnssa/afterpaths",
+  "source_url": "https://github.com/burnssa/afterpaths",
+  "install": "# git clone --depth 1 https://github.com/burnssa/afterpaths\n# See source for mcpServers config block"
+}

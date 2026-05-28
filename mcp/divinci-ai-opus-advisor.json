@@ -1,0 +1,7 @@
+{
+  "name": "divinci-ai-opus-advisor",
+  "description": "Lets Claude Code on Sonnet or Haiku consult Claude Opus as a strategic advisor during complex tasks via the local claude CLI.",
+  "source_repo": "divinci-ai/opus-advisor-mcp",
+  "source_url": "https://github.com/divinci-ai/opus-advisor-mcp",
+  "install": "npx -y opus-advisor-mcp"
+}

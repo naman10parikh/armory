@@ -1,0 +1,7 @@
+{
+  "name": "jonnyblankinship-philips-hue-ble",
+  "description": "Controls Philips Hue smart lights directly via Bluetooth Low Energy without requiring a Hue Bridge or internet connection.",
+  "source_repo": "jonnyblankinship/hue-ble-mcp",
+  "source_url": "https://github.com/jonnyblankinship/hue-ble-mcp",
+  "install": "npx -y hue-ble-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-ip-network-ai-mcp",
+  "description": "Python MCP server for IP address and network analysis tools.",
+  "source_repo": "csoai-org/ip-network-ai-mcp",
+  "source_url": "https://github.com/csoai-org/ip-network-ai-mcp",
+  "install": "npx -y ip-network-ai-mcp"
+}

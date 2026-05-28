@@ -1,0 +1,7 @@
+{
+  "name": "huang-sh-scanpy",
+  "description": "Provides natural language access to single-cell RNA sequencing analysis through Scanpy, enabling bioinformatics workflows like clustering, dimensionality reduction, and cell type annotation without writing code.",
+  "source_repo": "huang-sh/scmcp",
+  "source_url": "https://github.com/huang-sh/scmcp",
+  "install": "# git clone --depth 1 https://github.com/huang-sh/scmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iletimerkezi-iletimerkezi-mcp-server",
+  "description": "Send SMS, query delivery reports, manage senders / blacklists, register and check İYS (Turkish messaging consent registry) records through the [iletiMerkezi](https://www.iletimerkezi.com) BTK-licensed SMS API. 11 tools, runtime-fetched manifest stays in lock-step with the live API. Install: `npx -y @iletimerkezi/mcp-server`.",
+  "source_repo": "iletimerkezi/iletimerkezi-mcp-server",
+  "source_url": "https://github.com/iletimerkezi/iletimerkezi-mcp-server",
+  "install": "npx -y iletimerkezi-mcp-server"
+}

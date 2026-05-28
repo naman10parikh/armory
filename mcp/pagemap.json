@@ -1,0 +1,7 @@
+{
+  "name": "pagemap",
+  "description": "Compresses web pages into structured, actionable maps at 97% fewer tokens while preserving interactive elements for browsing automation.",
+  "source_repo": "retio-ai/retio-pagemap",
+  "source_url": "https://github.com/retio-ai/retio-pagemap",
+  "install": "# git clone --depth 1 https://github.com/retio-ai/retio-pagemap\n# See source for mcpServers config block"
+}

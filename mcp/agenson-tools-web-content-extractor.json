@@ -1,0 +1,7 @@
+{
+  "name": "agenson-tools-web-content-extractor",
+  "description": "Extracts and processes web content for use in AI workflows.",
+  "source_repo": "agenson-tools/web-content-extractor-mcp",
+  "source_url": "https://github.com/agenson-tools/web-content-extractor-mcp",
+  "install": "npx -y web-content-extractor-mcp"
+}

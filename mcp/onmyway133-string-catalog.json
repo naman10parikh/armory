@@ -1,0 +1,7 @@
+{
+  "name": "onmyway133-string-catalog",
+  "description": "Manages Xcode String Catalog (.xcstrings) files for iOS/macOS localization with read, search, and update capabilities for translation workflows.",
+  "source_repo": "onmyway133/string-catalog-mcp",
+  "source_url": "https://github.com/onmyway133/string-catalog-mcp",
+  "install": "npx -y string-catalog-mcp"
+}

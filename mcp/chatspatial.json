@@ -1,0 +1,7 @@
+{
+  "name": "chatspatial",
+  "description": "Enables natural language-driven spatial transcriptomics analysis with support for multiple analytical methods and platforms.",
+  "source_repo": "cafferychen777/chatspatial",
+  "source_url": "https://github.com/cafferychen777/chatspatial",
+  "install": "# git clone --depth 1 https://github.com/cafferychen777/chatspatial\n# See source for mcpServers config block"
+}

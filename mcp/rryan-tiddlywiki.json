@@ -1,0 +1,7 @@
+{
+  "name": "rryan-tiddlywiki",
+  "description": "Integrates with TiddlyWiki instances to enable reading, writing, searching, and managing tiddlers for wiki management and documentation tasks.",
+  "source_repo": "rryan/tiddly-mcp",
+  "source_url": "https://github.com/rryan/tiddly-mcp",
+  "install": "npx -y tiddly-mcp"
+}

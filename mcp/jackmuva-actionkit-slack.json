@@ -1,0 +1,7 @@
+{
+  "name": "jackmuva-actionkit-slack",
+  "description": "Enables interaction with Slack through ActionKit's API using TypeScript and JWT authentication, with filtered actions and user authentication via Paragon Connect Portal",
+  "source_repo": "jackmuva/mcp-actionkit",
+  "source_url": "https://github.com/jackmuva/mcp-actionkit",
+  "install": "# git clone --depth 1 https://github.com/jackmuva/mcp-actionkit\n# See source for mcpServers config block"
+}

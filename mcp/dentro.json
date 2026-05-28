@@ -1,0 +1,7 @@
+{
+  "name": "dentro",
+  "description": "Connects AI shopping agents to a curated directory of 22,000+ direct-to-consumer independent stores across 16 countries.",
+  "source_repo": "dentro-fyi/dentro-mcp",
+  "source_url": "https://github.com/dentro-fyi/dentro-mcp",
+  "install": "npx -y dentro-mcp"
+}

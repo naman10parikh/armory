@@ -1,0 +1,7 @@
+{
+  "name": "glyphic",
+  "description": "Integrates with the Glyphic sales intelligence platform to access call recordings, transcripts, deal insights, and conversational analytics.",
+  "source_repo": "",
+  "source_url": "https://www.glyphic.ai",
+  "install": "# git clone --depth 1 https://www.glyphic.ai\n# See source for mcpServers config block"
+}

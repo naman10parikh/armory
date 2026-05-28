@@ -1,0 +1,7 @@
+{
+  "name": "ferdiangunawan-debate-agent",
+  "description": "Orchestrates competitive code review debates between CLI-based language models with deterministic scoring to generate merged recommendations and declare winners.",
+  "source_repo": "ferdiangunawan/debate-agent-mcp",
+  "source_url": "https://github.com/ferdiangunawan/debate-agent-mcp",
+  "install": "npx -y debate-agent-mcp"
+}

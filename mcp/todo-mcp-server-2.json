@@ -1,0 +1,7 @@
+{
+  "name": "todo-mcp-server-2",
+  "description": "A TODO management MCP server using Cloudflare Workers and D1 database, enabling create, read, update, and delete operations on todos.",
+  "source_repo": "yusukebe/todo-mcp-server",
+  "source_url": "https://github.com/yusukebe/todo-mcp-server",
+  "install": "npx -y todo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyberlens",
+  "description": "Security scanning for websites, public repositories, and Open CLAW skills.",
+  "source_repo": "shadoprizm/cyberlens-mcp-server",
+  "source_url": "https://github.com/shadoprizm/cyberlens-mcp-server",
+  "install": "npx -y cyberlens-mcp-server"
+}

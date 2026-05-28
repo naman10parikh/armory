@@ -1,0 +1,7 @@
+{
+  "name": "yangkyeongmo-openmetadata",
+  "description": "Integrates with OpenMetadata to enable querying and manipulating metadata across data assets for governance, cataloging, and lineage tracking.",
+  "source_repo": "yangkyeongmo/mcp-server-openmetadata",
+  "source_url": "https://github.com/yangkyeongmo/mcp-server-openmetadata",
+  "install": "# git clone --depth 1 https://github.com/yangkyeongmo/mcp-server-openmetadata\n# See source for mcpServers config block"
+}

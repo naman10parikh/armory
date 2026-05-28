@@ -1,0 +1,7 @@
+{
+  "name": "peakmojo-zoom-noauth",
+  "description": "Provides headless access to Zoom's API functionality for retrieving cloud recordings, meeting details, and transcripts without requiring direct user authentication.",
+  "source_repo": "peakmojo/mcp-server-zoom-noauth",
+  "source_url": "https://github.com/peakmojo/mcp-server-zoom-noauth",
+  "install": "# git clone --depth 1 https://github.com/peakmojo/mcp-server-zoom-noauth\n# See source for mcpServers config block"
+}

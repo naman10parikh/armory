@@ -1,0 +1,7 @@
+{
+  "name": "florinel-chis-shopify-liquid",
+  "description": "Provides searchable access to Shopify's Liquid templating language documentation using SQLite full-text search across filters, objects, and tags",
+  "source_repo": "florinel-chis/shopify-liquid-mcp",
+  "source_url": "https://github.com/florinel-chis/shopify-liquid-mcp",
+  "install": "npx -y shopify-liquid-mcp"
+}

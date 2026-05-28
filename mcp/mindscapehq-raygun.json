@@ -1,0 +1,7 @@
+{
+  "name": "mindscapehq-raygun",
+  "description": "Monitor crash reports and performance metrics for application stability.",
+  "source_repo": "mindscapehq/mcp-server-raygun",
+  "source_url": "https://github.com/mindscapehq/mcp-server-raygun",
+  "install": "# git clone --depth 1 https://github.com/mindscapehq/mcp-server-raygun\n# See source for mcpServers config block"
+}

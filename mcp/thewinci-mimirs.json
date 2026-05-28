@@ -1,0 +1,7 @@
+{
+  "name": "thewinci-mimirs",
+  "description": "Local MCP server providing persistent project memory, semantic codebase search, and dependency graphs for AI coding agents.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/thewinci-mimirs",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/thewinci-mimirs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lucashild-bigquery",
+  "description": "Inspect schemas and execute SQL queries on Google BigQuery.",
+  "source_repo": "lucashild/mcp-server-bigquery",
+  "source_url": "https://github.com/lucashild/mcp-server-bigquery",
+  "install": "# git clone --depth 1 https://github.com/lucashild/mcp-server-bigquery\n# See source for mcpServers config block"
+}

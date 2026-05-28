@@ -1,0 +1,7 @@
+{
+  "name": "rsys-vtiwari-us-weather",
+  "description": "US National Weather Service alerts by state and short-term forecasts by coordinates",
+  "source_repo": "rsys-vtiwari/weather-mcp",
+  "source_url": "https://github.com/rsys-vtiwari/weather-mcp",
+  "install": "npx -y weather-mcp"
+}

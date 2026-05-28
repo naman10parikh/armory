@@ -1,0 +1,7 @@
+{
+  "name": "tmtabor-skypilot",
+  "description": "Manages Bluesky social media accounts through the SkyPilot platform, supporting post scheduling, queue management, analytics, automation rules, and list operations.",
+  "source_repo": "tmtabor/skypilot-mcp",
+  "source_url": "https://github.com/tmtabor/skypilot-mcp",
+  "install": "npx -y skypilot-mcp"
+}

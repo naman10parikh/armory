@@ -1,0 +1,7 @@
+{
+  "name": "tigrisdata-tigris-storage",
+  "description": "Provides S3-compatible object storage capabilities for managing buckets, uploading/downloading objects, and generating signed URLs through Tigris Storage",
+  "source_repo": "tigrisdata/tigris-mcp-server",
+  "source_url": "https://github.com/tigrisdata/tigris-mcp-server",
+  "install": "npx -y tigris-mcp-server"
+}

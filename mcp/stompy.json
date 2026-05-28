@@ -1,0 +1,7 @@
+{
+  "name": "stompy",
+  "description": "Persistent memory system with semantic search, conflict detection, and ticketing.",
+  "source_repo": "banton/stompy-mcp-server",
+  "source_url": "https://github.com/banton/stompy-mcp-server",
+  "install": "npx -y stompy-mcp-server"
+}

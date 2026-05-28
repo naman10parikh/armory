@@ -1,0 +1,7 @@
+{
+  "name": "jhirono-microsoft-todo",
+  "description": "Integrates with Microsoft Todo through Graph API, enabling natural language task management including viewing lists, creating tasks with due dates, and managing checklist items with automatic token refresh.",
+  "source_repo": "jhirono/todomcp",
+  "source_url": "https://github.com/jhirono/todomcp",
+  "install": "# git clone --depth 1 https://github.com/jhirono/todomcp\n# See source for mcpServers config block"
+}

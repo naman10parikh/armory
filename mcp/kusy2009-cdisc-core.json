@@ -1,0 +1,7 @@
+{
+  "name": "kusy2009-cdisc-core",
+  "description": "Validates clinical datasets against CDISC conformance rules with browsing of 981+ validation rules, standard filtering, and controlled terminology package management.",
+  "source_repo": "kusy2009/core-mcp-server",
+  "source_url": "https://github.com/kusy2009/core-mcp-server",
+  "install": "npx -y core-mcp-server"
+}

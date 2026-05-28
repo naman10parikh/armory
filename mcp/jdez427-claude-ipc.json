@@ -1,0 +1,7 @@
+{
+  "name": "jdez427-claude-ipc",
+  "description": "Enables secure inter-process communication between multiple AI instances running on the same machine through TCP socket-based message brokering, session authentication, and file sharing for coordinated multi-AI workflows and collaborative problem-solving.",
+  "source_repo": "jdez427/claude-ipc-mcp",
+  "source_url": "https://github.com/jdez427/claude-ipc-mcp",
+  "install": "npx -y claude-ipc-mcp"
+}

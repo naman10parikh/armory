@@ -1,0 +1,7 @@
+{
+  "name": "gh-shashankswe2020-ux-whoop",
+  "description": "Accesses WHOOP fitness device data including recovery scores, sleep analysis, and workout history.",
+  "source_repo": "shashankswe2020-ux/whoop-mcp",
+  "source_url": "https://github.com/shashankswe2020-ux/whoop-mcp",
+  "install": "npx -y whoop-mcp"
+}

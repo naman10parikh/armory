@@ -1,0 +1,7 @@
+{
+  "name": "hailuo",
+  "description": "Hailuo MCP server listed on mcp.so.",
+  "source_repo": "yojjoyy1/hailuo",
+  "source_url": "https://mcp.so/server/hailuo/yojjoyy1",
+  "install": "# git clone --depth 1 https://mcp.so/server/hailuo/yojjoyy1\n# See source for mcpServers config block"
+}

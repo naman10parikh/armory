@@ -1,0 +1,7 @@
+{
+  "name": "loglm-prometheus",
+  "description": "Bridges Prometheus metrics data to enable easy retrieval and analysis of monitoring information for automated system health checks, performance tracking, and anomaly detection.",
+  "source_repo": "loglmhq/mcp-server-prometheus",
+  "source_url": "https://github.com/loglmhq/mcp-server-prometheus",
+  "install": "# git clone --depth 1 https://github.com/loglmhq/mcp-server-prometheus\n# See source for mcpServers config block"
+}

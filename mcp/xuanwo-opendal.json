@@ -1,0 +1,7 @@
+{
+  "name": "xuanwo-opendal",
+  "description": "Integrates with OpenDAL to provide unified access to diverse storage backends, enabling LLMs to read from and write to various storage systems for data management tasks.",
+  "source_repo": "xuanwo/mcp-server-opendal",
+  "source_url": "https://github.com/xuanwo/mcp-server-opendal",
+  "install": "# git clone --depth 1 https://github.com/xuanwo/mcp-server-opendal\n# See source for mcpServers config block"
+}

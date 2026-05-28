@@ -1,0 +1,7 @@
+{
+  "name": "srijanshukla18-xray",
+  "description": "Progressive code intelligence and navigation capabilities for AI assistants through structural code analysis using ast-grep",
+  "source_repo": "srijanshukla18/xray",
+  "source_url": "https://github.com/srijanshukla18/xray",
+  "install": "# git clone --depth 1 https://github.com/srijanshukla18/xray\n# See source for mcpServers config block"
+}

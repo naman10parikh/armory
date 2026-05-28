@@ -1,0 +1,7 @@
+{
+  "name": "stanfrbd-cyberbro",
+  "description": "IOC extraction, enrichment, and reputation analysis for cybersecurity investigations.",
+  "source_repo": "stanfrbd/mcp-cyberbro",
+  "source_url": "https://github.com/stanfrbd/mcp-cyberbro",
+  "install": "# git clone --depth 1 https://github.com/stanfrbd/mcp-cyberbro\n# See source for mcpServers config block"
+}

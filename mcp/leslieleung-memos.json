@@ -1,0 +1,7 @@
+{
+  "name": "leslieleung-memos",
+  "description": "Connects Claude to the Memos note-taking application, enabling search of existing notes and creation of new ones with automatic tagging.",
+  "source_repo": "leslieleung/mcp-server-memos",
+  "source_url": "https://github.com/leslieleung/mcp-server-memos",
+  "install": "# git clone --depth 1 https://github.com/leslieleung/mcp-server-memos\n# See source for mcpServers config block"
+}

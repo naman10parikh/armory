@@ -1,0 +1,7 @@
+{
+  "name": "dearlordylord-huly",
+  "description": "Connects to the Huly project management platform for task and issue tracking.",
+  "source_repo": "dearlordylord/huly-mcp",
+  "source_url": "https://github.com/dearlordylord/huly-mcp",
+  "install": "npx -y huly-mcp"
+}

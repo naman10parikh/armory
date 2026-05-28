@@ -1,0 +1,7 @@
+{
+  "name": "susuya233-ida-pro-binary-analysis",
+  "description": "Integrates with IDA Pro for automated vulnerability scanning including buffer overflows, format strings, and command injection detection with specialized support for embedded device and IoT firmware analysis.",
+  "source_repo": "susuya233/ida-mcp-gui",
+  "source_url": "https://github.com/susuya233/ida-mcp-gui",
+  "install": "# git clone --depth 1 https://github.com/susuya233/ida-mcp-gui\n# See source for mcpServers config block"
+}

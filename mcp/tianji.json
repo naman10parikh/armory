@@ -1,0 +1,7 @@
+{
+  "name": "tianji",
+  "description": "An MCP server that integrates hundreds of thinking models and frameworks to help users systematically analyze and solve problems through structured reasoning.",
+  "source_repo": "lanyijianke/thinking_models_mcp",
+  "source_url": "https://github.com/lanyijianke/thinking_models_mcp",
+  "install": "npx -y thinking_models_mcp"
+}

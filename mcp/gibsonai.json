@@ -1,0 +1,7 @@
+{
+  "name": "gibsonai",
+  "description": "Allows interaction with GibsonAI cloud databases.",
+  "source_repo": "",
+  "source_url": "https://docs.gibsonai.com/#mcp",
+  "install": "# git clone --depth 1 https://docs.gibsonai.com/#mcp\n# See source for mcpServers config block"
+}

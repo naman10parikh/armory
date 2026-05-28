@@ -1,0 +1,7 @@
+{
+  "name": "alxpark-propresenter",
+  "description": "Provides complete control over ProPresenter 7 presentations, covering 231 API endpoints across 27 functional groups including slides, audio, timers, stage displays, and capture.",
+  "source_repo": "alxpark/propresenter-mcp",
+  "source_url": "https://github.com/alxpark/propresenter-mcp",
+  "install": "npx -y propresenter-mcp"
+}

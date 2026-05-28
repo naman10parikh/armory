@@ -1,0 +1,7 @@
+{
+  "name": "etsd-tech-mcp-pointer",
+  "description": "Visual DOM element selector for agentic coding tools. Chrome extension + MCP server bridge for Claude Code, Cursor, Windsurf etc. Option+Click to capture elements.",
+  "source_repo": "etsd-tech/mcp-pointer",
+  "source_url": "https://github.com/etsd-tech/mcp-pointer",
+  "install": "# git clone --depth 1 https://github.com/etsd-tech/mcp-pointer\n# See source for mcpServers config block"
+}

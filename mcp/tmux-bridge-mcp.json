@@ -1,0 +1,7 @@
+{
+  "name": "tmux-bridge-mcp",
+  "description": "Enables AI agents to communicate and coordinate across tmux panes, allowing them to read, type, and send messages to each other without manual copy-pasting.",
+  "source_repo": "howardpen9/tmux-bridge-mcp",
+  "source_url": "https://github.com/howardpen9/tmux-bridge-mcp",
+  "install": "npx -y tmux-bridge-mcp"
+}

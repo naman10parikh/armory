@@ -1,0 +1,7 @@
+{
+  "name": "shutter-network-timelock",
+  "description": "Encrypts messages using Shutter Network's decentralized timelock encryption system where messages can only be decrypted after a specified future time, supporting natural language time parsing and threshold cryptography for trustless time-delayed communications like sealed bid auctions and scheduled announcements.",
+  "source_repo": "shutter-network/shuttermcp",
+  "source_url": "https://github.com/shutter-network/shuttermcp",
+  "install": "# git clone --depth 1 https://github.com/shutter-network/shuttermcp\n# See source for mcpServers config block"
+}

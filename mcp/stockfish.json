@@ -1,0 +1,7 @@
+{
+  "name": "stockfish",
+  "description": "Integrates with the Stockfish chess engine through UCI protocol to provide move analysis, position evaluation, and game analysis with configurable search depth and time limits.",
+  "source_repo": "sonirico/mcp-stockfish",
+  "source_url": "https://github.com/sonirico/mcp-stockfish",
+  "install": "# git clone --depth 1 https://github.com/sonirico/mcp-stockfish\n# See source for mcpServers config block"
+}

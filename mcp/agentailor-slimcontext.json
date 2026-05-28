@@ -1,0 +1,7 @@
+{
+  "name": "agentailor-slimcontext",
+  "description": "Chat history compression with token-based trimming and AI-powered summarization",
+  "source_repo": "agentailor/slimcontext-mcp-server",
+  "source_url": "https://github.com/agentailor/slimcontext-mcp-server",
+  "install": "npx -y slimcontext-mcp-server"
+}

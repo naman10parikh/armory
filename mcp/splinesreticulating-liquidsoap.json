@@ -1,0 +1,7 @@
+{
+  "name": "splinesreticulating-liquidsoap",
+  "description": "Integrates with LiquidSoap 2.4.0 documentation to provide function search, code examples for streaming tasks, script validation for deprecated patterns, and migration guidance for audio/video streaming applications and broadcast workflows.",
+  "source_repo": "splinesreticulating/liquidsoapmcp",
+  "source_url": "https://github.com/splinesreticulating/liquidsoapmcp",
+  "install": "# git clone --depth 1 https://github.com/splinesreticulating/liquidsoapmcp\n# See source for mcpServers config block"
+}

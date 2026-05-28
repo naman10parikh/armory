@@ -1,0 +1,7 @@
+{
+  "name": "code-yeongyu-perplexity-advanced",
+  "description": "Command-line interface for interacting with Perplexity and OpenRouter APIs, supporting both simple queries and complex file attachments with easy provider switching through a containerized Docker implementation.",
+  "source_repo": "code-yeongyu/perplexity-advanced-mcp",
+  "source_url": "https://github.com/code-yeongyu/perplexity-advanced-mcp",
+  "install": "npx -y perplexity-advanced-mcp"
+}

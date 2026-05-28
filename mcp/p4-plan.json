@@ -1,0 +1,7 @@
+{
+  "name": "p4-plan",
+  "description": "Manage tasks, sprints, bugs, and comments in Perforce P4 Plan via its GraphQL API.",
+  "source_repo": "perforce/p4plan-mcp",
+  "source_url": "https://github.com/perforce/p4plan-mcp",
+  "install": "npx -y p4plan-mcp"
+}

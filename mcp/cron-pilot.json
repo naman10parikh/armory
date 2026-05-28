@@ -1,0 +1,7 @@
+{
+  "name": "cron-pilot",
+  "description": "Scheduled HTTP requests and shell commands with retries, timeouts, and webhook alerts.",
+  "source_repo": "",
+  "source_url": "https://cron.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://cron.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

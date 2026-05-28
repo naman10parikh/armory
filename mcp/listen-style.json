@@ -1,0 +1,7 @@
+{
+  "name": "listen-style",
+  "description": "Access LISTEN podcast data including episodes, transcripts, playback history, and search via AI editors.",
+  "source_repo": "ondinc/listen-mcp-server",
+  "source_url": "https://github.com/ondinc/listen-mcp-server",
+  "install": "npx -y listen-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anaisbetts-cursor-installer",
+  "description": "Utility server that simplifies adding new MCP capabilities to Cursor by installing and configuring servers from npm, Python packages, or local repositories without manual configuration file editing.",
+  "source_repo": "gnayiak/cursor-mcp-installer",
+  "source_url": "https://github.com/gnayiak/cursor-mcp-installer",
+  "install": "# git clone --depth 1 https://github.com/gnayiak/cursor-mcp-installer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gucci-atlasv-skillssafe",
+  "description": "Security scanner for AI agent skills that detects credential theft, prompt injection, shell injection, and hidden Unicode characters.",
+  "source_repo": "gucci-atlasv/skillssafe.com",
+  "source_url": "https://github.com/gucci-atlasv/skillssafe.com",
+  "install": "# git clone --depth 1 https://github.com/gucci-atlasv/skillssafe.com\n# See source for mcpServers config block"
+}

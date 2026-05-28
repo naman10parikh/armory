@@ -1,0 +1,7 @@
+{
+  "name": "hannesrudolph-sqlite-explorer",
+  "description": "Secure, read-only access to query and analyze SQLite databases.",
+  "source_repo": "hannesrudolph/sqlite-explorer-fastmcp-mcp-server",
+  "source_url": "https://github.com/hannesrudolph/sqlite-explorer-fastmcp-mcp-server",
+  "install": "npx -y sqlite-explorer-fastmcp-mcp-server"
+}

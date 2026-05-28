@@ -1,0 +1,7 @@
+{
+  "name": "garoth-wolframalpha-llm",
+  "description": "Integrates with WolframAlpha's LLM API to enable complex mathematical and scientific queries, offering tools for asking questions and getting simplified answers.",
+  "source_repo": "garoth/wolframalpha-llm-mcp",
+  "source_url": "https://github.com/garoth/wolframalpha-llm-mcp",
+  "install": "npx -y wolframalpha-llm-mcp"
+}

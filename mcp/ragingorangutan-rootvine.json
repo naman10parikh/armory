@@ -1,0 +1,7 @@
+{
+  "name": "ragingorangutan-rootvine",
+  "description": "Cross-platform music link resolution for AI agents, returning ranked streaming and purchase links from Spotify, Apple Music, Amazon, YouTube, and 15+ other services.",
+  "source_repo": "ragingorangutan/rootvine-mcp",
+  "source_url": "https://github.com/ragingorangutan/rootvine-mcp",
+  "install": "npx -y rootvine-mcp"
+}

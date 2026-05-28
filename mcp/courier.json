@@ -1,0 +1,7 @@
+{
+  "name": "courier",
+  "description": "Send notifications, manage templates, and configure integrations with Courier.",
+  "source_repo": "trycourier/courier-mcp",
+  "source_url": "https://github.com/trycourier/courier-mcp",
+  "install": "npx -y courier-mcp"
+}

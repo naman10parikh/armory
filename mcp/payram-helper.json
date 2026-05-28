@@ -1,0 +1,7 @@
+{
+  "name": "payram-helper",
+  "description": "Integrate and validate self-hosted Payram cryptocurrency payment deployments",
+  "source_repo": "payram/payram-mcp",
+  "source_url": "https://github.com/payram/payram-mcp",
+  "install": "npx -y payram-mcp"
+}

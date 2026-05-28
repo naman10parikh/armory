@@ -1,0 +1,7 @@
+{
+  "name": "nguthrie-ucp-shopping",
+  "description": "UCP commerce protocol integration for AI-powered shopping.",
+  "source_repo": "nguthrie/ucp-mcp-server",
+  "source_url": "https://github.com/nguthrie/ucp-mcp-server",
+  "install": "npx -y ucp-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pthrower-strata",
+  "description": "AI ecosystem intelligence MCP server. Verified best practices, news, integrations, and MCP server directory across 22 AI ecosystems including Claude, ChatGPT, Gemini, LangChain, Groq, Cursor, and more. Claude-validated, injection-safe, refreshed twice daily. 📇 ☁️",
+  "source_repo": "PThrower/Strata",
+  "source_url": "https://github.com/PThrower/Strata",
+  "install": "# git clone --depth 1 https://github.com/PThrower/Strata\n# See source for mcpServers config block"
+}

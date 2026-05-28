@@ -1,0 +1,7 @@
+{
+  "name": "cloudsmithy-easysearch",
+  "description": "Integrates with Elasticsearch and OpenSearch clusters for index management, document operations, search queries, snapshot handling, and cluster monitoring across large datasets.",
+  "source_repo": "cloudsmithy/easysearch-mcp-server",
+  "source_url": "https://github.com/cloudsmithy/easysearch-mcp-server",
+  "install": "npx -y easysearch-mcp-server"
+}

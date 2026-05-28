@@ -1,0 +1,7 @@
+{
+  "name": "harryvgiunta-prompt-to-json",
+  "description": "JSON schema contract registry for reliable natural language to structured JSON conversion.",
+  "source_repo": "harryvgiunta/prompt-to-json",
+  "source_url": "https://github.com/harryvgiunta/prompt-to-json",
+  "install": "# git clone --depth 1 https://github.com/harryvgiunta/prompt-to-json\n# See source for mcpServers config block"
+}

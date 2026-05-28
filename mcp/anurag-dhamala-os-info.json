@@ -1,0 +1,7 @@
+{
+  "name": "anurag-dhamala-os-info",
+  "description": "Provides real-time system information about the host computer, including CPU, memory, operating system, disk, battery, and process details for monitoring resources and troubleshooting performance issues.",
+  "source_repo": "anurag-dhamala/os-info-mcp-server",
+  "source_url": "https://github.com/anurag-dhamala/os-info-mcp-server",
+  "install": "npx -y os-info-mcp-server"
+}

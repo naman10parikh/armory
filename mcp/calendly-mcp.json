@@ -1,0 +1,7 @@
+{
+  "name": "calendly-mcp",
+  "description": "Enables Claude to schedule, query, and cancel Calendly events via Calendly API v2, allowing direct event management without the public booking form.",
+  "source_repo": "ericlucianoferreira/calendly-mcp",
+  "source_url": "https://github.com/ericlucianoferreira/calendly-mcp",
+  "install": "npx -y calendly-mcp"
+}

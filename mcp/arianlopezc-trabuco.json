@@ -1,0 +1,7 @@
+{
+  "name": "arianlopezc-trabuco",
+  "description": "Generates and manages production-ready Java multi-module Maven projects with database, messaging, and CI/CD configurations.",
+  "source_repo": "arianlopezc/trabuco",
+  "source_url": "https://github.com/arianlopezc/trabuco",
+  "install": "# git clone --depth 1 https://github.com/arianlopezc/trabuco\n# See source for mcpServers config block"
+}

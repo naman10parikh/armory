@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent-servers",
+  "description": "Mcp Agent Servers MCP server listed on mcp.so.",
+  "source_repo": "egor-baranov/mcp-agent-servers",
+  "source_url": "https://mcp.so/server/mcp-agent-servers/egor-baranov",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-agent-servers/egor-baranov\n# See source for mcpServers config block"
+}

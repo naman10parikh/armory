@@ -1,0 +1,7 @@
+{
+  "name": "coinstats-cryptocurrency",
+  "description": "Provides real-time cryptocurrency market data, portfolio tracking, and news through direct access to the CoinStats API for retrieving coin information, market trends, wallet balances, and exchange integrations.",
+  "source_repo": "coinstatshq/coinstats-mcp",
+  "source_url": "https://github.com/coinstatshq/coinstats-mcp",
+  "install": "npx -y coinstats-mcp"
+}

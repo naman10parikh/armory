@@ -1,0 +1,7 @@
+{
+  "name": "pdogra1299-jira",
+  "description": "Integrates with Jira Cloud REST API v3 to enable issue creation, updates, searching with JQL, comment management, workflow transitions, user lookup, and project discovery with automatic email-to-account-ID resolution and rich text content extraction from Atlassian Document Format.",
+  "source_repo": "pdogra1299/jira-mcp-server",
+  "source_url": "https://github.com/pdogra1299/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

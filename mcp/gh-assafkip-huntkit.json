@@ -1,0 +1,7 @@
+{
+  "name": "gh-assafkip-huntkit",
+  "description": "OSINT investigation toolkit providing two MCP servers for infrastructure reconnaissance and threat intelligence lookups, covering WHOIS, DNS, Wayback, VirusTotal, URLhaus, ThreatFox, and certificate transparency.",
+  "source_repo": "assafkip/huntkit",
+  "source_url": "https://github.com/assafkip/huntkit",
+  "install": "# git clone --depth 1 https://github.com/assafkip/huntkit\n# See source for mcpServers config block"
+}

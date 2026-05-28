@@ -1,0 +1,7 @@
+{
+  "name": "teddyzxcv-ntfy-notifications",
+  "description": "Enables real-time notifications through ntfy.sh, allowing assistants to send customizable alerts with titles and summaries to users for task completions, errors, or important events.",
+  "source_repo": "teddyzxcv/ntfy-mcp",
+  "source_url": "https://github.com/teddyzxcv/ntfy-mcp",
+  "install": "npx -y ntfy-mcp"
+}

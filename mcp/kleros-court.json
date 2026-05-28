@@ -1,0 +1,7 @@
+{
+  "name": "kleros-court",
+  "description": "Retrieves dispute data, evidence submissions, and meta-evidence from Kleros decentralized arbitration platform across Ethereum Mainnet and Gnosis Chain networks, handling IPFS content resolution for legal researchers and developers building arbitration applications.",
+  "source_repo": "gmkung/kleros-court-mcp",
+  "source_url": "https://github.com/gmkung/kleros-court-mcp",
+  "install": "npx -y kleros-court-mcp"
+}

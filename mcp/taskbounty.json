@@ -1,0 +1,7 @@
+{
+  "name": "taskbounty",
+  "description": "Post AI-fixable GitHub bug bounties or pick them up — funded in USD, paid in crypto.",
+  "source_repo": "eliottreich/taskbounty-mcp-server",
+  "source_url": "https://github.com/eliottreich/taskbounty-mcp-server",
+  "install": "npx -y taskbounty-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "piiiico-proof-of-commitment",
+  "description": "Supply chain risk scoring for npm, PyPI, Cargo, and Go. 9 tools. Behavioral signals.",
+  "source_repo": "piiiico/proof-of-commitment",
+  "source_url": "https://github.com/piiiico/proof-of-commitment",
+  "install": "# git clone --depth 1 https://github.com/piiiico/proof-of-commitment\n# See source for mcpServers config block"
+}

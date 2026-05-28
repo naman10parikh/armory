@@ -1,0 +1,7 @@
+{
+  "name": "mindsdb",
+  "description": "MindsDB allows applications to answer questions over large-scale federated data—spanning databases, data warehouses, and SaaS applications.",
+  "source_repo": "mindsdb/minds-platform",
+  "source_url": "https://github.com/mindsdb/minds-platform",
+  "install": "# git clone --depth 1 https://github.com/mindsdb/minds-platform\n# See source for mcpServers config block"
+}

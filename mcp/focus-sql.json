@@ -1,0 +1,7 @@
+{
+  "name": "focus-sql",
+  "description": "Converts natural language queries into SQL by registering database schema information and handling text-to-SQL transformations through a Spring Boot implementation.",
+  "source_repo": "focussearch/focus_mcp_sql",
+  "source_url": "https://github.com/focussearch/focus_mcp_sql",
+  "install": "# git clone --depth 1 https://github.com/focussearch/focus_mcp_sql\n# See source for mcpServers config block"
+}

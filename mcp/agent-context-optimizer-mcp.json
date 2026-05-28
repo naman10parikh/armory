@@ -1,0 +1,7 @@
+{
+  "name": "agent-context-optimizer-mcp",
+  "description": "Analyzes tasks to recommend the minimal set of MCP servers needed, reducing context window waste by up to 85%.",
+  "source_repo": "AiAgentKarl/agent-context-optimizer-mcp",
+  "source_url": "https://github.com/AiAgentKarl/agent-context-optimizer-mcp",
+  "install": "npx -y agent-context-optimizer-mcp"
+}

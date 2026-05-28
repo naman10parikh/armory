@@ -1,0 +1,7 @@
+{
+  "name": "yamariki-hub-japan-corporate-mcp",
+  "description": "Japanese corporate data via government APIs (gBizINFO, EDINET, e-Stat). Search companies, financials, patents, subsidies, procurement, and government statistics.",
+  "source_repo": "yamariki-hub/japan-corporate-mcp",
+  "source_url": "https://github.com/yamariki-hub/japan-corporate-mcp",
+  "install": "npx -y japan-corporate-mcp"
+}

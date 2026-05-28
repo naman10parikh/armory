@@ -1,0 +1,7 @@
+{
+  "name": "michaeldvinci-audiobookshelf",
+  "description": "Comprehensive Audiobookshelf integration with 25+ tools for audiobook and podcast library management",
+  "source_repo": "michaeldvinci/audiobookshelf-mcp",
+  "source_url": "https://github.com/michaeldvinci/audiobookshelf-mcp",
+  "install": "npx -y audiobookshelf-mcp"
+}

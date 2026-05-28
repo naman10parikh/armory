@@ -1,0 +1,7 @@
+{
+  "name": "multi-protocol-mcp-server",
+  "description": "A framework that supports stdio, streamable HTTP, and SSE protocols for MCP services, enabling one-time development for multiple platforms.",
+  "source_repo": "XingtongCai/mcp-server-ts",
+  "source_url": "https://github.com/XingtongCai/mcp-server-ts",
+  "install": "# git clone --depth 1 https://github.com/XingtongCai/mcp-server-ts\n# See source for mcpServers config block"
+}

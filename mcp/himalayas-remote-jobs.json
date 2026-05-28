@@ -1,0 +1,7 @@
+{
+  "name": "himalayas-remote-jobs",
+  "description": "Search remote jobs, post job listings, find remote candidates, check salary benchmarks, and manage your career, all through AI conversation. The Himalayas Remote Jobs MCP server connects your AI assistant to the Himalayas remote jobs marketplace in real time.",
+  "source_repo": "",
+  "source_url": "https://himalayas.app",
+  "install": "# git clone --depth 1 https://himalayas.app\n# See source for mcpServers config block"
+}

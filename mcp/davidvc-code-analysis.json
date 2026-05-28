@@ -1,0 +1,7 @@
+{
+  "name": "davidvc-code-analysis",
+  "description": "Integrates code analysis using a Neo4j graph database to enable structural insights, quality metrics, and natural language querying of codebases.",
+  "source_repo": "davidvc/code-mcp",
+  "source_url": "https://github.com/davidvc/code-mcp",
+  "install": "npx -y code-mcp"
+}

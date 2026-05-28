@@ -1,0 +1,7 @@
+{
+  "name": "localfiles-mcp-server",
+  "description": "Provides secure access to local files from specified directories. Enables listing files, reading contents, and configurable file size and extension filtering.",
+  "source_repo": "AliceLynxx/LocalFiles-MCP-Server",
+  "source_url": "https://github.com/AliceLynxx/LocalFiles-MCP-Server",
+  "install": "npx -y LocalFiles-MCP-Server"
+}

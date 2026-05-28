@@ -1,0 +1,7 @@
+{
+  "name": "gh-roylans-remotolist",
+  "description": "Searches the Remotolist candidate database using natural language queries to find tech talent.",
+  "source_repo": "roylans/remotolist-mcp",
+  "source_url": "https://github.com/roylans/remotolist-mcp",
+  "install": "npx -y remotolist-mcp"
+}

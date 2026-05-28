@@ -1,0 +1,7 @@
+{
+  "name": "iwen-conf-apifox",
+  "description": "Integrates with Apifox platform for managing APIs, schemas, folders, tags, and testing workflows",
+  "source_repo": "iwen-conf/apifox-mcp",
+  "source_url": "https://github.com/iwen-conf/apifox-mcp",
+  "install": "npx -y apifox-mcp"
+}

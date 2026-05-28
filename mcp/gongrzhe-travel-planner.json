@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-travel-planner",
+  "description": "Integrates with Google Maps to enable AI-driven travel planning, itinerary optimization, and location-based services for automated trip management.",
+  "source_repo": "gongrzhe/travel-planner-mcp-server",
+  "source_url": "https://github.com/gongrzhe/travel-planner-mcp-server",
+  "install": "npx -y travel-planner-mcp-server"
+}

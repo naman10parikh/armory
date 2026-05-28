@@ -1,0 +1,7 @@
+{
+  "name": "gh-fiedlermarius-sbox-docs",
+  "description": "Provides searchable access to s&box game engine documentation and API reference, covering 180+ pages and 1,800+ types.",
+  "source_repo": "fiedlermarius/sbox-mcp-documentation",
+  "source_url": "https://github.com/fiedlermarius/sbox-mcp-documentation",
+  "install": "# git clone --depth 1 https://github.com/fiedlermarius/sbox-mcp-documentation\n# See source for mcpServers config block"
+}

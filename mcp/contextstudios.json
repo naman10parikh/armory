@@ -1,0 +1,7 @@
+{
+  "name": "contextstudios",
+  "description": "25 free tools for AI agency content including glossary lookups, comparisons, blog articles, guides, and cost estimates.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/contextstudios",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/contextstudios\n# See source for mcpServers config block"
+}

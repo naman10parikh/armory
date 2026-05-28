@@ -1,0 +1,7 @@
+{
+  "name": "dmontgomery40-faxbot",
+  "description": "Provides T.38 fax transmission capabilities through cloud (Phaxio) and on-premises (Asterisk SIP) backends, enabling document sending, status tracking, and webhook callbacks with HIPAA compliance considerations for healthcare, legal, and business fax operations.",
+  "source_repo": "dmontgomery40/faxbot",
+  "source_url": "https://github.com/dmontgomery40/faxbot",
+  "install": "# git clone --depth 1 https://github.com/dmontgomery40/faxbot\n# See source for mcpServers config block"
+}

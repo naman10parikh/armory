@@ -1,0 +1,7 @@
+{
+  "name": "drhepa-modly",
+  "description": "Headless CLI and MCP server for automating Modly 3D mesh processing workflows and operations.",
+  "source_repo": "drhepa/modly_cli_mcp",
+  "source_url": "https://github.com/drhepa/modly_cli_mcp",
+  "install": "npx -y modly_cli_mcp"
+}

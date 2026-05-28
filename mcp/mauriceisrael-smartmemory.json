@@ -1,0 +1,7 @@
+{
+  "name": "mauriceisrael-smartmemory",
+  "description": "Neuro-symbolic memory system combining knowledge graphs with language models",
+  "source_repo": "mauriceisrael/smartmemory",
+  "source_url": "https://github.com/mauriceisrael/smartmemory",
+  "install": "# git clone --depth 1 https://github.com/mauriceisrael/smartmemory\n# See source for mcpServers config block"
+}

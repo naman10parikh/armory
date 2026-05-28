@@ -1,0 +1,7 @@
+{
+  "name": "gh-widoriezebos-descartes",
+  "description": "Debug live JVMs using JDWP or embedded runtime tooling with JShell, profiler, and hot reload capabilities.",
+  "source_repo": "widoriezebos/descartes-mcp",
+  "source_url": "https://github.com/widoriezebos/descartes-mcp",
+  "install": "npx -y descartes-mcp"
+}

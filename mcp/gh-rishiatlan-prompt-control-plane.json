@@ -1,0 +1,7 @@
+{
+  "name": "gh-rishiatlan-prompt-control-plane",
+  "description": "Scores, optimizes, and enforces policy on AI prompts with cost estimation across models.",
+  "source_repo": "rishi-banerjee1/prompt-control-plane",
+  "source_url": "https://github.com/rishi-banerjee1/prompt-control-plane",
+  "install": "# git clone --depth 1 https://github.com/rishi-banerjee1/prompt-control-plane\n# See source for mcpServers config block"
+}

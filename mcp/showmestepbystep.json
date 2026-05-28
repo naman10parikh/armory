@@ -1,0 +1,7 @@
+{
+  "name": "showmestepbystep",
+  "description": "Search, browse, and cite a 393-tutorial step-by-step how-to corpus from any MCP client.",
+  "source_repo": "rt1966/showmestepbystep",
+  "source_url": "https://github.com/rt1966/showmestepbystep",
+  "install": "# git clone --depth 1 https://github.com/rt1966/showmestepbystep\n# See source for mcpServers config block"
+}

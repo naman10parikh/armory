@@ -1,0 +1,7 @@
+{
+  "name": "dnaerys-onekgp",
+  "description": "Natural language access to 1000 Genomes Project genomic data",
+  "source_repo": "dnaerys/onekgpd-mcp",
+  "source_url": "https://github.com/dnaerys/onekgpd-mcp",
+  "install": "npx -y onekgpd-mcp"
+}

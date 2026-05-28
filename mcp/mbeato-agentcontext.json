@@ -1,0 +1,7 @@
+{
+  "name": "mbeato-agentcontext",
+  "description": "Normalizes agent-context files from different coding agents into a unified intermediate representation.",
+  "source_repo": "mbeato/agentcontext-mcp",
+  "source_url": "https://github.com/mbeato/agentcontext-mcp",
+  "install": "npx -y agentcontext-mcp"
+}

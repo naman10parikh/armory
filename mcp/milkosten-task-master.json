@@ -1,0 +1,7 @@
+{
+  "name": "milkosten-task-master",
+  "description": "Integrates with an external task API to provide CRUD operations for task management, enabling natural language interactions for task creation, filtering, and progress reporting.",
+  "source_repo": "milkosten/task-mcp-server",
+  "source_url": "https://github.com/milkosten/task-mcp-server",
+  "install": "npx -y task-mcp-server"
+}

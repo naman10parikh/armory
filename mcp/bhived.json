@@ -1,0 +1,7 @@
+{
+  "name": "bhived",
+  "description": "Shared knowledge graph, skills, and tool discovery network for AI agents.",
+  "source_repo": "artkeyai/bhived-mcp",
+  "source_url": "https://github.com/artkeyai/bhived-mcp",
+  "install": "npx -y bhived-mcp"
+}

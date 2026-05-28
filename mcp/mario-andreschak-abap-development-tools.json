@@ -1,0 +1,7 @@
+{
+  "name": "mario-andreschak-abap-development-tools",
+  "description": "Integrates ABAP Development Tools API to enable automated code reviews, intelligent transport management, and AI-assisted ABAP development.",
+  "source_repo": "mario-andreschak/mcp-abap-abap-adt-api",
+  "source_url": "https://github.com/mario-andreschak/mcp-abap-abap-adt-api",
+  "install": "# git clone --depth 1 https://github.com/mario-andreschak/mcp-abap-abap-adt-api\n# See source for mcpServers config block"
+}

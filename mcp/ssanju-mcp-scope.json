@@ -1,0 +1,7 @@
+{
+  "name": "ssanju-mcp-scope",
+  "description": "Passive debugging proxy for MCP that captures and analyzes JSON-RPC traffic between clients and servers, with TUI exploration, statistics, and session replay.",
+  "source_repo": "ssanju/mcp-scope",
+  "source_url": "https://github.com/ssanju/mcp-scope",
+  "install": "# git clone --depth 1 https://github.com/ssanju/mcp-scope\n# See source for mcpServers config block"
+}

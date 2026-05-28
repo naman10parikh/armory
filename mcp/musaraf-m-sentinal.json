@@ -1,0 +1,7 @@
+{
+  "name": "musaraf-m-sentinal",
+  "description": "Redis health monitoring, BullMQ queue inspection, memory analysis, and slow query diagnostics.",
+  "source_repo": "musaraf-m/sentinal",
+  "source_url": "https://github.com/musaraf-m/sentinal",
+  "install": "# git clone --depth 1 https://github.com/musaraf-m/sentinal\n# See source for mcpServers config block"
+}

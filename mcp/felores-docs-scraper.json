@@ -1,0 +1,7 @@
+{
+  "name": "felores-docs-scraper",
+  "description": "Scrapes web-based documentation through multiple crawling strategies like sitemap traversal and menu navigation, enabling structured content extraction with rate limiting and robots.txt compliance",
+  "source_repo": "felores/docs_scraper_mcp",
+  "source_url": "https://github.com/felores/docs_scraper_mcp",
+  "install": "npx -y docs_scraper_mcp"
+}

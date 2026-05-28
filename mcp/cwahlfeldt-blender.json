@@ -1,0 +1,7 @@
+{
+  "name": "cwahlfeldt-blender",
+  "description": "Integrates with Blender's Python API to enable natural language-driven 3D modeling, scene generation, and animation scripting within the Blender environment.",
+  "source_repo": "cwahlfeldt/blender-mcp",
+  "source_url": "https://github.com/cwahlfeldt/blender-mcp",
+  "install": "npx -y blender-mcp"
+}

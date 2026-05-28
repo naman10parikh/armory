@@ -1,0 +1,7 @@
+{
+  "name": "wais-mcp",
+  "description": "Universal MCP server for WAIS (Web Agent Interaction Standard) that provides 5 generic tools to discover, register, execute actions, confirm high-risk actions, and check status on any WAIS-compatible site.",
+  "source_repo": "deegerhq/wais-mcp",
+  "source_url": "https://github.com/deegerhq/wais-mcp",
+  "install": "npx -y wais-mcp"
+}

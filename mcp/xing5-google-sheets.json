@@ -1,0 +1,7 @@
+{
+  "name": "xing5-google-sheets",
+  "description": "Integrates with Google Drive and Google Sheets to create, read, update, and manage spreadsheets with support for both OAuth and service account authentication methods.",
+  "source_repo": "xing5/mcp-google-sheets",
+  "source_url": "https://github.com/xing5/mcp-google-sheets",
+  "install": "# git clone --depth 1 https://github.com/xing5/mcp-google-sheets\n# See source for mcpServers config block"
+}

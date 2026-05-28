@@ -1,0 +1,7 @@
+{
+  "name": "rustchain-mcp",
+  "description": "MCP server for the RustChain blockchain and BoTTube video platform, enabling AI-agent-based token earning through model context protocol and proof-of-antiquity.",
+  "source_repo": "avellane-snit922/rustchain-mcp",
+  "source_url": "https://github.com/avellane-snit922/rustchain-mcp",
+  "install": "npx -y rustchain-mcp"
+}

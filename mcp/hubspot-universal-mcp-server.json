@@ -1,0 +1,7 @@
+{
+  "name": "hubspot-universal-mcp-server",
+  "description": "Enables interacting with Hubspot tools and services through a unified API and the Model Context Protocol.",
+  "source_repo": "universal-mcp/hubspot",
+  "source_url": "https://github.com/universal-mcp/hubspot",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/hubspot\n# See source for mcpServers config block"
+}

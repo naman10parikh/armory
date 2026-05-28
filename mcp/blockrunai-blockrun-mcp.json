@@ -1,0 +1,7 @@
+{
+  "name": "blockrunai-blockrun-mcp",
+  "description": "Access 30+ AI models (GPT-5, Claude, Gemini, Grok, DeepSeek) without API keys. Pay-per-use via x402 micropayments with USDC on Base.",
+  "source_repo": "blockrunai/blockrun-mcp",
+  "source_url": "https://github.com/blockrunai/blockrun-mcp",
+  "install": "npx -y blockrun-mcp"
+}

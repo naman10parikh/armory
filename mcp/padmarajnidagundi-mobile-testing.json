@@ -1,0 +1,7 @@
+{
+  "name": "padmarajnidagundi-mobile-testing",
+  "description": "AI-driven mobile app testing for Android and iOS with a three-agent system — Planner, Generator, and Healer — automating test creation, execution, and self-repair.",
+  "source_repo": "padmarajnidagundi/mobile-app-testing-ai-agent-mcp-server",
+  "source_url": "https://github.com/padmarajnidagundi/mobile-app-testing-ai-agent-mcp-server",
+  "install": "npx -y mobile-app-testing-ai-agent-mcp-server"
+}

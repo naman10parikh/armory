@@ -1,0 +1,7 @@
+{
+  "name": "zazencodes-public-apis",
+  "description": "Provides semantic search across a curated catalog of free public APIs using embedding-based natural language queries to help developers discover APIs by use case, retrieve detailed metadata including authentication and CORS requirements, and match requirements to available capabilities.",
+  "source_repo": "zazencodes/public-apis-mcp",
+  "source_url": "https://github.com/zazencodes/public-apis-mcp",
+  "install": "npx -y public-apis-mcp"
+}

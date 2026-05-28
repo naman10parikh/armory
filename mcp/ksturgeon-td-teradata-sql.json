@@ -1,0 +1,7 @@
+{
+  "name": "ksturgeon-td-teradata-sql",
+  "description": "Execute queries and manage schema on Teradata databases with read-only mode and execution plan support.",
+  "source_repo": "ksturgeon-td/tdsql-mcp",
+  "source_url": "https://github.com/ksturgeon-td/tdsql-mcp",
+  "install": "npx -y tdsql-mcp"
+}

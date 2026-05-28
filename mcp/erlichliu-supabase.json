@@ -1,0 +1,7 @@
+{
+  "name": "erlichliu-supabase",
+  "description": "Integrates with Supabase's PostgreSQL database service to enable persistent data storage, user management, and structured data retrieval operations.",
+  "source_repo": "erlichliu/ai-surge-mcp",
+  "source_url": "https://github.com/erlichliu/ai-surge-mcp",
+  "install": "npx -y ai-surge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simstim",
+  "description": "Deploy Claude-generated web displays to any screen via URL, turning prompts into live widgets for kitchens, offices, cafes, and more.",
+  "source_repo": "",
+  "source_url": "https://simstim.ai",
+  "install": "# git clone --depth 1 https://simstim.ai\n# See source for mcpServers config block"
+}

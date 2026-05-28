@@ -1,0 +1,7 @@
+{
+  "name": "faizan45640-google-classroom",
+  "description": "Integrates with Google Classroom to retrieve courses, announcements, and assignments using OAuth2 authentication, enabling students and educators to access classroom information without switching contexts.",
+  "source_repo": "faizan45640/google-classroom-mcp-server",
+  "source_url": "https://github.com/faizan45640/google-classroom-mcp-server",
+  "install": "npx -y google-classroom-mcp-server"
+}

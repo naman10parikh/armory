@@ -1,0 +1,7 @@
+{
+  "name": "lstarkgv-parse-platform",
+  "description": "Enables AI assistants to interact with Parse Server databases for schema management, CRUD operations, and migrations.",
+  "source_repo": "lstarkgv/parse-server-mcp",
+  "source_url": "https://github.com/lstarkgv/parse-server-mcp",
+  "install": "npx -y parse-server-mcp"
+}

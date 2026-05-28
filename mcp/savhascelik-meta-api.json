@@ -1,0 +1,7 @@
+{
+  "name": "savhascelik-meta-api",
+  "description": "Generic API gateway enabling connection to any REST API through configuration files",
+  "source_repo": "savhascelik/meta-api-mcp-server",
+  "source_url": "https://github.com/savhascelik/meta-api-mcp-server",
+  "install": "npx -y meta-api-mcp-server"
+}

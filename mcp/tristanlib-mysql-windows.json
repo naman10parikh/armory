@@ -1,0 +1,7 @@
+{
+  "name": "tristanlib-mysql-windows",
+  "description": "Integrates with MySQL databases on Windows systems, providing an API for executing SQL queries and retrieving results with user authentication and error handling support.",
+  "source_repo": "tristanlib/mcp_server_mysql_windows",
+  "source_url": "https://github.com/tristanlib/mcp_server_mysql_windows",
+  "install": "# git clone --depth 1 https://github.com/tristanlib/mcp_server_mysql_windows\n# See source for mcpServers config block"
+}

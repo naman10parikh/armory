@@ -1,0 +1,7 @@
+{
+  "name": "ambivo-crm",
+  "description": "Integrates with Ambivo's CRM API to enable natural language querying of leads, contacts, opportunities, and other business objects with secure JWT authentication and multi-tenant support.",
+  "source_repo": "ambivo-corp/ambivo-mcp-server",
+  "source_url": "https://github.com/ambivo-corp/ambivo-mcp-server",
+  "install": "npx -y ambivo-mcp-server"
+}

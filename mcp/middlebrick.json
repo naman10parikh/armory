@@ -1,0 +1,7 @@
+{
+  "name": "middlebrick",
+  "description": "Scans APIs for security vulnerabilities through static analysis and runtime testing.",
+  "source_repo": "middlebrick/mcp-server",
+  "source_url": "https://github.com/middlebrick/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/middlebrick/mcp-server\n# See source for mcpServers config block"
+}

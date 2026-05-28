@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fortress",
+  "description": "Security scanner detecting vulnerabilities, prompt injection, and tool poisoning",
+  "source_repo": "mcp-fortress/mcp-fortress",
+  "source_url": "https://github.com/mcp-fortress/mcp-fortress",
+  "install": "# git clone --depth 1 https://github.com/mcp-fortress/mcp-fortress\n# See source for mcpServers config block"
+}

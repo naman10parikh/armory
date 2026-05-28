@@ -1,0 +1,7 @@
+{
+  "name": "vlei-wiki",
+  "description": "Provides direct access to the vLEI.wiki knowledge base containing 420+ KERI and vLEI concepts from 3,588+ source documents, offering specialized tools for searching documentation with fuzzy matching, explaining cryptographic concepts with depth control, retrieving complete documents, accessing GLEIF training context, and generating concept relationship graphs for digital identity and verifiable credential development.",
+  "source_repo": "",
+  "source_url": "https://www.vlei.wiki/mcp",
+  "install": "# git clone --depth 1 https://www.vlei.wiki/mcp\n# See source for mcpServers config block"
+}

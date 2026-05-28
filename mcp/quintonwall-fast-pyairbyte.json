@@ -1,0 +1,7 @@
+{
+  "name": "quintonwall-fast-pyairbyte",
+  "description": "Generates complete Python data pipeline scripts by automatically retrieving Airbyte connector specifications from a vector store and producing production-ready PyAirbyte code with error handling, environment management, and setup instructions for rapid ETL pipeline development.",
+  "source_repo": "quintonwall/fast-pyairbyte",
+  "source_url": "https://github.com/quintonwall/fast-pyairbyte",
+  "install": "# git clone --depth 1 https://github.com/quintonwall/fast-pyairbyte\n# See source for mcpServers config block"
+}

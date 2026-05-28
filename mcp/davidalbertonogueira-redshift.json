@@ -1,0 +1,7 @@
+{
+  "name": "davidalbertonogueira-redshift",
+  "description": "Secure, read-only access to Amazon Redshift with schema introspection and smart sampling",
+  "source_repo": "davidalbertonogueira/redshift-mcp-server",
+  "source_url": "https://github.com/davidalbertonogueira/redshift-mcp-server",
+  "install": "npx -y redshift-mcp-server"
+}

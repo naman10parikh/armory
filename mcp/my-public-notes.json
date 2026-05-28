@@ -1,0 +1,7 @@
+{
+  "name": "my-public-notes",
+  "description": "Public note sharing platform",
+  "source_repo": "felipepimentel/my-public-notes",
+  "source_url": "https://github.com/felipepimentel/my-public-notes",
+  "install": "# git clone --depth 1 https://github.com/felipepimentel/my-public-notes\n# See source for mcpServers config block"
+}

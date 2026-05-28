@@ -1,0 +1,7 @@
+{
+  "name": "neemee",
+  "description": "MCP client library and bridge for Neemee personal knowledge management system",
+  "source_repo": "paul-bonneville-labs/neemee-mcp",
+  "source_url": "https://github.com/paul-bonneville-labs/neemee-mcp",
+  "install": "npx -y neemee-mcp"
+}

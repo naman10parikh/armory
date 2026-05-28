@@ -1,0 +1,7 @@
+{
+  "name": "settro",
+  "description": "Sales tools for missed-call ROI, direct-order recovery, social ordering, and fit analysis.",
+  "source_repo": "",
+  "source_url": "https://settro.net",
+  "install": "# git clone --depth 1 https://settro.net\n# See source for mcpServers config block"
+}

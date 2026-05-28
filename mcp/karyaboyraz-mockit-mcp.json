@@ -1,0 +1,7 @@
+{
+  "name": "karyaboyraz-mockit-mcp",
+  "description": "Generate premium iOS mobile UI mockups (PNG + HTML) from a single text prompt. Pairs Claude (Opus 4.7 by default) with a Playwright headless renderer. Two backends — `claude` CLI (uses your Claude Code subscription) or Anthropic API. Stdio + HTTP transports, MIT.",
+  "source_repo": "karyaboyraz/mockit-mcp",
+  "source_url": "https://github.com/karyaboyraz/mockit-mcp",
+  "install": "npx -y mockit-mcp"
+}

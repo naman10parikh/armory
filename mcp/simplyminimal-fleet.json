@@ -1,0 +1,7 @@
+{
+  "name": "simplyminimal-fleet",
+  "description": "Manage and monitor Fleet Device Management instances with tools for host queries, policy compliance, software inventory, and live osquery execution.",
+  "source_repo": "simplyminimal/fleet-mcp",
+  "source_url": "https://github.com/simplyminimal/fleet-mcp",
+  "install": "npx -y fleet-mcp"
+}

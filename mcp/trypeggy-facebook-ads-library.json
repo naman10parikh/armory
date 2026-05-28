@@ -1,0 +1,7 @@
+{
+  "name": "trypeggy-facebook-ads-library",
+  "description": "Integrates with Meta's advertising platform through the Scrape Creators API to search for brand platform IDs and retrieve currently running Facebook ads with structured data including media URLs, ad copy, and campaign timing for competitive analysis and marketing intelligence.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/trypeggy-facebook-ads-library",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/trypeggy-facebook-ads-library\n# See source for mcpServers config block"
+}

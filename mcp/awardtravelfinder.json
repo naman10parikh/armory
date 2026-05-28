@@ -1,0 +1,7 @@
+{
+  "name": "awardtravelfinder",
+  "description": "Searches award flight availability, points redemption pricing, and status match opportunities via AI.",
+  "source_repo": "jackculpan/awardtravelfinder",
+  "source_url": "https://github.com/jackculpan/awardtravelfinder/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/jackculpan/awardtravelfinder/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

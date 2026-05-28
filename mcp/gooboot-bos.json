@@ -1,0 +1,7 @@
+{
+  "name": "gooboot-bos",
+  "description": "Modular server framework for building and managing extensible MCP services through a configuration-based approach that simplifies module loading and registration.",
+  "source_repo": "gooboot/mcp-bos",
+  "source_url": "https://github.com/gooboot/mcp-bos",
+  "install": "# git clone --depth 1 https://github.com/gooboot/mcp-bos\n# See source for mcpServers config block"
+}

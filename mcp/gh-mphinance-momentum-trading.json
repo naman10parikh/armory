@@ -1,0 +1,7 @@
+{
+  "name": "gh-mphinance-momentum-trading",
+  "description": "Quantitative trading analysis with stock screening, technicals, and candlestick charts.",
+  "source_repo": "mphinance/momentum-mcp",
+  "source_url": "https://github.com/mphinance/momentum-mcp",
+  "install": "npx -y momentum-mcp"
+}

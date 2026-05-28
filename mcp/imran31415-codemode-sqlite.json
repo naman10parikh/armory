@@ -1,0 +1,7 @@
+{
+  "name": "imran31415-codemode-sqlite",
+  "description": "SQLite operations via sandboxed Go code execution for faster, token-efficient database queries",
+  "source_repo": "imran31415/codemode-sqlite-mcp",
+  "source_url": "https://github.com/imran31415/codemode-sqlite-mcp",
+  "install": "npx -y codemode-sqlite-mcp"
+}

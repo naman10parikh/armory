@@ -1,0 +1,7 @@
+{
+  "name": "takuya0206-bigquery",
+  "description": "Enables secure, read-only access to Google BigQuery databases for data exploration and SQL query execution with built-in safeguards for cost control and performance optimization.",
+  "source_repo": "takuya0206/bigquery-mcp-server",
+  "source_url": "https://github.com/takuya0206/bigquery-mcp-server",
+  "install": "npx -y bigquery-mcp-server"
+}

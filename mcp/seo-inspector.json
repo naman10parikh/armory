@@ -1,0 +1,7 @@
+{
+  "name": "seo-inspector",
+  "description": "Automates web page SEO analysis by scanning HTML files and websites to identify critical optimization issues like missing titles, meta descriptions, and heading structures using Node.js and Cheerio.",
+  "source_repo": "mgsrevolver/seo-inspector-mcp",
+  "source_url": "https://github.com/mgsrevolver/seo-inspector-mcp",
+  "install": "npx -y seo-inspector-mcp"
+}

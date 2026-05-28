@@ -1,0 +1,7 @@
+{
+  "name": "egguliyev-geant4",
+  "description": "Design and simulate radiation detectors using Geant4 and Allpix2 through natural language with 9 tools.",
+  "source_repo": "egguliyev/geant4-mcp-server",
+  "source_url": "https://github.com/egguliyev/geant4-mcp-server",
+  "install": "npx -y geant4-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-0xomara-sqlite-access-control",
+  "description": "Query SQLite databases with fine-grained column-level access control in Rust.",
+  "source_repo": "0xomara/mcp-server-sqlite",
+  "source_url": "https://github.com/0xomara/mcp-server-sqlite",
+  "install": "# git clone --depth 1 https://github.com/0xomara/mcp-server-sqlite\n# See source for mcpServers config block"
+}

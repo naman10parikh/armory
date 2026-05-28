@@ -1,0 +1,7 @@
+{
+  "name": "2051project-cryptoweather",
+  "description": "Integrates with CryptoWeather's Bitcoin price prediction API to provide current trading signals, performance metrics, recommendations, and methodology information for cryptocurrency market analysis.",
+  "source_repo": "2051project/cryptoweather",
+  "source_url": "https://github.com/2051project/cryptoweather",
+  "install": "# git clone --depth 1 https://github.com/2051project/cryptoweather\n# See source for mcpServers config block"
+}

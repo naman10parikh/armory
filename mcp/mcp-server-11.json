@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-11",
+  "description": "Node.js MCP server for ChatGPT with OAuth 2.0 authorization code flow + PKCE, refresh token rotation, and Supabase-backed persistence. Includes sample tools like calculator, get_weather, and search_web.",
+  "source_repo": "buitanphat247/mcp-server",
+  "source_url": "https://github.com/buitanphat247/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/buitanphat247/mcp-server\n# See source for mcpServers config block"
+}

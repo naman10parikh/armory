@@ -1,0 +1,7 @@
+{
+  "name": "ohnlp-omop-mcp",
+  "description": "Map clinical terminology to OMOP concepts using LLMs for healthcare data standardization and interoperability.",
+  "source_repo": "OHNLP/omop_mcp",
+  "source_url": "https://github.com/OHNLP/omop_mcp",
+  "install": "npx -y omop_mcp"
+}

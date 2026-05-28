@@ -1,0 +1,7 @@
+{
+  "name": "owen-lacey-fpl",
+  "description": "Integrates with the official Fantasy Premier League API to retrieve player statistics, team information, fixture data, and league standings for fantasy football analysis and transfer decisions.",
+  "source_repo": "owen-lacey/fpl-mcp",
+  "source_url": "https://github.com/owen-lacey/fpl-mcp",
+  "install": "npx -y fpl-mcp"
+}

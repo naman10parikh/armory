@@ -1,0 +1,7 @@
+{
+  "name": "novyxlabs-novyx-memory",
+  "description": "Persistent memory system for AI agents with knowledge graph, context spaces, replay, and multi-agent collaboration.",
+  "source_repo": "novyxlabs/novyx-mcp",
+  "source_url": "https://github.com/novyxlabs/novyx-mcp",
+  "install": "npx -y novyx-mcp"
+}

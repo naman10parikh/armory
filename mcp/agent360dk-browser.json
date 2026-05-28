@@ -1,0 +1,7 @@
+{
+  "name": "agent360dk-browser",
+  "description": "Real Chrome browser control with CAPTCHA solving and multi-session support.",
+  "source_repo": "agent360dk/browser-mcp",
+  "source_url": "https://github.com/agent360dk/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-kubernetes-engine",
+  "description": "Google Kubernetes Engine MCP server for AI-assisted management of containerized workloads and GKE clusters.",
+  "source_repo": "",
+  "source_url": "https://container.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://container.googleapis.com/mcp\n# See source for mcpServers config block"
+}

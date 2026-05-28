@@ -1,0 +1,7 @@
+{
+  "name": "rationalbloks",
+  "description": "Deploy production REST APIs from JSON schemas in seconds, managing projects, schemas, and deployments.",
+  "source_repo": "rationalbloks/rationalbloks-mcp",
+  "source_url": "https://github.com/rationalbloks/rationalbloks-mcp",
+  "install": "npx -y rationalbloks-mcp"
+}

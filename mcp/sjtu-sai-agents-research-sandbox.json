@@ -1,0 +1,7 @@
+{
+  "name": "sjtu-sai-agents-research-sandbox",
+  "description": "Multi-layered sandbox that combines Google search, web content parsing, and ArXiv paper processing with configurable LLM backends for comprehensive web research and academic document analysis.",
+  "source_repo": "sjtu-sai-agents/mcp_sandbox",
+  "source_url": "https://github.com/sjtu-sai-agents/mcp_sandbox",
+  "install": "# git clone --depth 1 https://github.com/sjtu-sai-agents/mcp_sandbox\n# See source for mcpServers config block"
+}

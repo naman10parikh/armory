@@ -1,0 +1,7 @@
+{
+  "name": "zym9863-modelscope-qwen-image",
+  "description": "Integrates with ModelScope's Qwen-Image model to generate images from text prompts, returning base64-encoded results with automatic format detection and error handling for multilingual content creation.",
+  "source_repo": "zym9863/modelscope-image-mcp",
+  "source_url": "https://github.com/zym9863/modelscope-image-mcp",
+  "install": "npx -y modelscope-image-mcp"
+}

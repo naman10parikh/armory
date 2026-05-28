@@ -1,0 +1,7 @@
+{
+  "name": "snowbikemike-tascan",
+  "description": "Universal task protocol for managing projects, tasks, workers, QR codes, and reports.",
+  "source_repo": "snowbikemike/tascan-mcp",
+  "source_url": "https://github.com/snowbikemike/tascan-mcp",
+  "install": "npx -y tascan-mcp"
+}

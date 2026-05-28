@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-reactome",
+  "description": "Integrates with Reactome's curated biological pathway database to search pathways by keywords, genes, or diseases, retrieve detailed pathway information and biochemical reactions, explore pathway hierarchies, and analyze protein interactions for systems biology research and drug discovery workflows.",
+  "source_repo": "augmented-nature/reactome-mcp-server",
+  "source_url": "https://github.com/augmented-nature/reactome-mcp-server",
+  "install": "npx -y reactome-mcp-server"
+}

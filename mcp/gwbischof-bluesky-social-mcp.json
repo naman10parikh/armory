@@ -1,0 +1,7 @@
+{
+  "name": "gwbischof-bluesky-social-mcp",
+  "description": "An MCP server for interacting with Bluesky via the atproto client.",
+  "source_repo": "gwbischof/bluesky-social-mcp",
+  "source_url": "https://github.com/gwbischof/bluesky-social-mcp",
+  "install": "npx -y bluesky-social-mcp"
+}

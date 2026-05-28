@@ -1,0 +1,7 @@
+{
+  "name": "vviinn-commerce",
+  "description": "Semantic and visual search and discovery layer for agentic commerce workflows.",
+  "source_repo": "",
+  "source_url": "https://api.vviinn.com/mcp",
+  "install": "# git clone --depth 1 https://api.vviinn.com/mcp\n# See source for mcpServers config block"
+}

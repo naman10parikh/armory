@@ -1,0 +1,7 @@
+{
+  "name": "mysql-mcp-server-2",
+  "description": "Provides read-only access to MySQL database schema and sample data, offering tools to list tables, get schema, and fetch sample rows for safe backend development.",
+  "source_repo": "yukihito-jokyu/mysql-mcp-server",
+  "source_url": "https://github.com/yukihito-jokyu/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docx-server",
+  "description": "Mcp Docx Server MCP server listed on mcp.so.",
+  "source_repo": "h4ck4life/mcp-docx-server",
+  "source_url": "https://mcp.so/server/mcp-docx-server/h4ck4life",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-docx-server/h4ck4life\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gossipcat",
+  "description": "Enables multi-agent code review with cross-verification of findings against source code, catching hallucinations and improving agent accuracy over time.",
+  "source_repo": "gossipcat-ai/gossipcat-ai",
+  "source_url": "https://github.com/gossipcat-ai/gossipcat-ai",
+  "install": "# git clone --depth 1 https://github.com/gossipcat-ai/gossipcat-ai\n# See source for mcpServers config block"
+}

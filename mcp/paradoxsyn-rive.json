@@ -1,0 +1,7 @@
+{
+  "name": "paradoxsyn-rive",
+  "description": "Creates and edits Rive animation files with 139 tools for AI-driven animation workflows.",
+  "source_repo": "paradoxsyn/rivemcp-releases",
+  "source_url": "https://github.com/paradoxsyn/rivemcp-releases",
+  "install": "# git clone --depth 1 https://github.com/paradoxsyn/rivemcp-releases\n# See source for mcpServers config block"
+}

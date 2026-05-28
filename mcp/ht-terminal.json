@@ -1,0 +1,7 @@
+{
+  "name": "ht-terminal",
+  "description": "Provides direct access to headless terminal sessions through a high-performance Rust implementation, enabling terminal automation, command execution with output capture, session management, and optional live preview for server administration workflows without manual console interaction.",
+  "source_repo": "memextech/ht-mcp",
+  "source_url": "https://github.com/memextech/ht-mcp",
+  "install": "npx -y ht-mcp"
+}

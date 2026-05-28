@@ -1,0 +1,7 @@
+{
+  "name": "timholden-figma-design-system",
+  "description": "Integrates with the Figma REST API to manage design system elements, enabling variable handling, file operations, and collaborative workflows.",
+  "source_repo": "timholden/figma-mcp-server",
+  "source_url": "https://github.com/timholden/figma-mcp-server",
+  "install": "npx -y figma-mcp-server"
+}

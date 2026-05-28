@@ -1,0 +1,7 @@
+{
+  "name": "benborla-mysql-readonly",
+  "description": "Provides read-only access to MySQL databases for inspecting schemas and executing SQL queries without modifying underlying data.",
+  "source_repo": "zhaoxin34/mcp-server-mysql",
+  "source_url": "https://github.com/zhaoxin34/mcp-server-mysql",
+  "install": "# git clone --depth 1 https://github.com/zhaoxin34/mcp-server-mysql\n# See source for mcpServers config block"
+}

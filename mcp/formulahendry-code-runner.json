@@ -1,0 +1,7 @@
+{
+  "name": "formulahendry-code-runner",
+  "description": "Executes code snippets in over 30 programming languages by creating temporary files and running them with appropriate interpreters, enabling direct testing and demonstration within conversations.",
+  "source_repo": "formulahendry/mcp-server-code-runner",
+  "source_url": "https://github.com/formulahendry/mcp-server-code-runner",
+  "install": "# git clone --depth 1 https://github.com/formulahendry/mcp-server-code-runner\n# See source for mcpServers config block"
+}

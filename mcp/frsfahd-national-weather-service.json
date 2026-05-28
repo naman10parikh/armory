@@ -1,0 +1,7 @@
+{
+  "name": "frsfahd-national-weather-service",
+  "description": "Retrieves weather data from the National Weather Service API for US locations",
+  "source_repo": "frsfahd/py-weather-mcp-server",
+  "source_url": "https://github.com/frsfahd/py-weather-mcp-server",
+  "install": "npx -y py-weather-mcp-server"
+}

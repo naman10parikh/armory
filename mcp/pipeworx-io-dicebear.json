@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-dicebear",
+  "description": "SVG avatar generation via the DiceBear API v7, supporting 30+ avatar styles with customizable seeds and options.",
+  "source_repo": "pipeworx-io/mcp-dicebear",
+  "source_url": "https://github.com/pipeworx-io/mcp-dicebear",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-dicebear\n# See source for mcpServers config block"
+}

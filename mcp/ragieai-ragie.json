@@ -1,0 +1,7 @@
+{
+  "name": "ragieai-ragie",
+  "description": "Integrates with Ragie's knowledge base retrieval system to enable efficient querying and information extraction from large-scale datasets.",
+  "source_repo": "ragieai/ragie-mcp-server",
+  "source_url": "https://github.com/ragieai/ragie-mcp-server",
+  "install": "npx -y ragie-mcp-server"
+}

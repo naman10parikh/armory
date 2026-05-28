@@ -1,0 +1,7 @@
+{
+  "name": "grain",
+  "description": "Access Grain meeting recordings, notes, transcripts, deals, and coaching scorecard data with built-in prompts for voice-of-customer reports, pipeline analysis, and sales skill scorecards.",
+  "source_repo": "",
+  "source_url": "https://grain.com/release-note/06-18-2025",
+  "install": "# git clone --depth 1 https://grain.com/release-note/06-18-2025\n# See source for mcpServers config block"
+}

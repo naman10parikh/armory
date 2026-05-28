@@ -1,0 +1,7 @@
+{
+  "name": "incomestreamsurfer-roo-code-memory-bank",
+  "description": "Implements a file-based project context management system that maintains persistent memory across sessions through structured markdown files for tracking progress, decisions, and system patterns.",
+  "source_repo": "incomestreamsurfer/roo-code-memory-bank-mcp-server",
+  "source_url": "https://github.com/incomestreamsurfer/roo-code-memory-bank-mcp-server",
+  "install": "npx -y roo-code-memory-bank-mcp-server"
+}

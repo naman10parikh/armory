@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-dataverse",
+  "description": "Enables AI assistants to access and manipulate Microsoft Dataverse data with tools for listing tables, describing schemas, reading/writing records, executing prompts, and retrieving knowledge from configured sources.",
+  "source_repo": "",
+  "source_url": "https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-mcp",
+  "install": "# git clone --depth 1 https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-mcp\n# See source for mcpServers config block"
+}

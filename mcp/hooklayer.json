@@ -1,0 +1,7 @@
+{
+  "name": "hooklayer",
+  "description": "Viral content intelligence platform analyzing social media hooks and engagement patterns with evidence-layer scoring.",
+  "source_repo": "khan-ashifur/hooklayer",
+  "source_url": "https://github.com/khan-ashifur/hooklayer",
+  "install": "# git clone --depth 1 https://github.com/khan-ashifur/hooklayer\n# See source for mcpServers config block"
+}

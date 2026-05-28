@@ -1,0 +1,7 @@
+{
+  "name": "web-search-mcp",
+  "description": "Web_Search_MCP MCP server listed on mcp.so.",
+  "source_repo": "memohib/Web_Search_MCP",
+  "source_url": "https://mcp.so/server/Web_Search_MCP/memohib",
+  "install": "npx -y Web_Search_MCP"
+}

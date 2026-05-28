@@ -1,0 +1,7 @@
+{
+  "name": "acamolese-google-search-console",
+  "description": "Read-only access to Google Search Console performance data, URL inspection, and SEO audit reports.",
+  "source_repo": "acamolese/google-search-console-mcp",
+  "source_url": "https://github.com/acamolese/google-search-console-mcp",
+  "install": "npx -y google-search-console-mcp"
+}

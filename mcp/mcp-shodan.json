@@ -1,0 +1,7 @@
+{
+  "name": "mcp-shodan",
+  "description": "Mcp Shodan MCP server listed on mcp.so.",
+  "source_repo": "ADEOSec/mcp-shodan",
+  "source_url": "https://mcp.so/server/mcp-shodan/ADEOSec",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-shodan/ADEOSec\n# See source for mcpServers config block"
+}

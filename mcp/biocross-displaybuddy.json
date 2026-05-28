@@ -1,0 +1,7 @@
+{
+  "name": "biocross-displaybuddy",
+  "description": "Controls Mac external monitors via DisplayBuddy for brightness, contrast, volume, input source, presets, and display sync.",
+  "source_repo": "biocross/displaybuddy-mcp",
+  "source_url": "https://github.com/biocross/displaybuddy-mcp",
+  "install": "npx -y displaybuddy-mcp"
+}

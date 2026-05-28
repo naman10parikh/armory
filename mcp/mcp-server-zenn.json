@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-zenn",
+  "description": "Mcp Server Zenn MCP server listed on mcp.so.",
+  "source_repo": "shibuiwilliam/mcp-server-zenn",
+  "source_url": "https://mcp.so/server/mcp-server-zenn/shibuiwilliam",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-zenn/shibuiwilliam\n# See source for mcpServers config block"
+}

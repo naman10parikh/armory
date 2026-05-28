@@ -1,0 +1,7 @@
+{
+  "name": "zotero-mcp-server",
+  "description": "Zotero Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "cr625/zotero-mcp-server",
+  "source_url": "https://mcp.so/server/zotero-mcp-server/cr625",
+  "install": "npx -y zotero-mcp-server"
+}

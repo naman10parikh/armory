@@ -1,0 +1,7 @@
+{
+  "name": "jaspertvdm-mcp-server-ollama-bridge",
+  "description": "Bridge to local Ollama LLM server. Run Llama, Mistral, Qwen and other local models through MCP.",
+  "source_repo": "jaspertvdm/mcp-server-ollama-bridge",
+  "source_url": "https://github.com/jaspertvdm/mcp-server-ollama-bridge",
+  "install": "# git clone --depth 1 https://github.com/jaspertvdm/mcp-server-ollama-bridge\n# See source for mcpServers config block"
+}

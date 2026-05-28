@@ -1,0 +1,7 @@
+{
+  "name": "bbekshr-mcppedia-search",
+  "description": "Enables discovery, evaluation, and comparison of 17,000+ MCP servers from the MCPpedia catalog with integrated security scoring.",
+  "source_repo": "bbekshr/mcp-server-mcppedia",
+  "source_url": "https://github.com/bbekshr/mcp-server-mcppedia",
+  "install": "# git clone --depth 1 https://github.com/bbekshr/mcp-server-mcppedia\n# See source for mcpServers config block"
+}

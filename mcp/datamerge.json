@@ -1,0 +1,7 @@
+{
+  "name": "datamerge",
+  "description": "B2B company and contact data enrichment across 375M+ companies with corporate hierarchy mapping.",
+  "source_repo": "",
+  "source_url": "https://datamerge.ai",
+  "install": "# git clone --depth 1 https://datamerge.ai\n# See source for mcpServers config block"
+}

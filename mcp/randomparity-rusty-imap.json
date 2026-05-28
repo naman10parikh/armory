@@ -1,0 +1,7 @@
+{
+  "name": "randomparity-rusty-imap",
+  "description": "Security-first IMAP email MCP server written in Rust with prompt-injection defenses.",
+  "source_repo": "randomparity/rusty-imap-mcp",
+  "source_url": "https://github.com/randomparity/rusty-imap-mcp",
+  "install": "npx -y rusty-imap-mcp"
+}

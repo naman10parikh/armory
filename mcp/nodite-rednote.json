@@ -1,0 +1,7 @@
+{
+  "name": "nodite-rednote",
+  "description": "MCP server for accessing RedNote (Xiaohongshu) content via stealth browser automation.",
+  "source_repo": "nodite/rednote-mcp",
+  "source_url": "https://github.com/nodite/rednote-mcp",
+  "install": "npx -y rednote-mcp"
+}

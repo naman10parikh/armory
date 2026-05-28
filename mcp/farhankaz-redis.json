@@ -1,0 +1,7 @@
+{
+  "name": "farhankaz-redis",
+  "description": "Bridge to Redis databases, enabling fast in-memory data operations for AI workflows.",
+  "source_repo": "farhankaz/redis-mcp",
+  "source_url": "https://github.com/farhankaz/redis-mcp",
+  "install": "npx -y redis-mcp"
+}

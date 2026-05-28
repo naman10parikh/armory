@@ -1,0 +1,7 @@
+{
+  "name": "anarkh-lee-universal-database",
+  "description": "Provides unified database connectivity across PostgreSQL, MySQL, Oracle, Redis, and 13 additional databases with standardized operations for structured queries and key-value storage.",
+  "source_repo": "anarkh-lee/universal-db-mcp",
+  "source_url": "https://github.com/anarkh-lee/universal-db-mcp",
+  "install": "npx -y universal-db-mcp"
+}

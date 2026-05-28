@@ -1,0 +1,7 @@
+{
+  "name": "idyll-party-time",
+  "description": "Provides a fun, lighthearted time-telling service that always responds with 'It's Party Time' when queried.",
+  "source_repo": "idyll/party-time-mcp",
+  "source_url": "https://github.com/idyll/party-time-mcp",
+  "install": "npx -y party-time-mcp"
+}

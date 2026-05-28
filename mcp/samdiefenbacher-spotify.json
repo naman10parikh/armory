@@ -1,0 +1,7 @@
+{
+  "name": "samdiefenbacher-spotify",
+  "description": "Controls Spotify playback, manages playlists, and searches the music catalog via the Spotify Web API.",
+  "source_repo": "samdiefenbacher/spotify-mcp",
+  "source_url": "https://github.com/samdiefenbacher/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

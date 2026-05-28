@@ -1,0 +1,7 @@
+{
+  "name": "trello-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Trello's tools and services through the Model Context Protocol.",
+  "source_repo": "universal-mcp/trello",
+  "source_url": "https://github.com/universal-mcp/trello",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/trello\n# See source for mcpServers config block"
+}

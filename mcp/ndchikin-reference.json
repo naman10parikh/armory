@@ -1,0 +1,7 @@
+{
+  "name": "ndchikin-reference",
+  "description": "Integrates with CiteAs and Google Scholar to retrieve BibTeX-formatted citation data using DOIs, URLs, or keywords for seamless research citation workflows.",
+  "source_repo": "ndchikin/reference-mcp",
+  "source_url": "https://github.com/ndchikin/reference-mcp",
+  "install": "npx -y reference-mcp"
+}

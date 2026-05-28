@@ -1,0 +1,7 @@
+{
+  "name": "projectdochelper",
+  "description": "ProjectDocHelper MCP server listed on mcp.so.",
+  "source_repo": "Stark1937/ProjectDocHelper",
+  "source_url": "https://mcp.so/server/ProjectDocHelper/Stark1937",
+  "install": "# git clone --depth 1 https://mcp.so/server/ProjectDocHelper/Stark1937\n# See source for mcpServers config block"
+}

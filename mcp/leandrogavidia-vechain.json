@@ -1,0 +1,7 @@
+{
+  "name": "leandrogavidia-vechain",
+  "description": "Integrates with VeChain blockchain networks to provide documentation search, account/transaction/block queries, wallet creation, cryptographic signing, and EVM-compatible token operations for building dApps and automated trading systems.",
+  "source_repo": "leandrogavidia/vechain-mcp-server",
+  "source_url": "https://github.com/leandrogavidia/vechain-mcp-server",
+  "install": "npx -y vechain-mcp-server"
+}

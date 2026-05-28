@@ -1,0 +1,7 @@
+{
+  "name": "voog-mcp",
+  "description": "MCP server for Voog CMS enabling management of Liquid templates, pages, products, ecommerce settings, and redirects via natural language or terminal commands.",
+  "source_repo": "runnel/voog-mcp",
+  "source_url": "https://github.com/runnel/voog-mcp",
+  "install": "npx -y voog-mcp"
+}

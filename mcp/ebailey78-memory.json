@@ -1,0 +1,7 @@
+{
+  "name": "ebailey78-memory",
+  "description": "Provides structured memory management for project-based work through markdown file storage, enabling persistent context across chat sessions with efficient Lunr.js indexing for retrieval, updating, and relating memories.",
+  "source_repo": "ebailey78/mcp-memory",
+  "source_url": "https://github.com/ebailey78/mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/ebailey78/mcp-memory\n# See source for mcpServers config block"
+}

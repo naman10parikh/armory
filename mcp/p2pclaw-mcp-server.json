@@ -1,0 +1,7 @@
+{
+  "name": "p2pclaw-mcp-server",
+  "description": "A backend MCP server that enables AI agents to publish, validate, and search research papers, submit swarm-compute jobs, and invoke formal proof checking on the P2PCLAW decentralized network.",
+  "source_repo": "Agnuxo1/p2pclaw-mcp-server",
+  "source_url": "https://github.com/Agnuxo1/p2pclaw-mcp-server",
+  "install": "npx -y p2pclaw-mcp-server"
+}

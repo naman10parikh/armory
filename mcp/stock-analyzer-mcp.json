@@ -1,0 +1,7 @@
+{
+  "name": "stock-analyzer-mcp",
+  "description": "85 tools for Taiwan + US stock-market analysis — quotes, three major institutional flows, chip data, fundamentals, technical indicators, backtesting, risk metrics. Requires the Stock Analyzer desktop app running locally on port 3000.",
+  "source_repo": "kevinlin49361128-stack/stock-analyzer-mcp",
+  "source_url": "https://github.com/kevinlin49361128-stack/stock-analyzer-mcp",
+  "install": "npx -y stock-analyzer-mcp"
+}

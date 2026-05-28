@@ -1,0 +1,7 @@
+{
+  "name": "serverscom",
+  "description": "Integrates with Servers.com dedicated server hosting to manage hardware configurations, power operations, SSH keys, networks, storage, and OS reinstallation across multiple data centers.",
+  "source_repo": "serverscom/serverscom-mcp",
+  "source_url": "https://github.com/serverscom/serverscom-mcp",
+  "install": "npx -y serverscom-mcp"
+}

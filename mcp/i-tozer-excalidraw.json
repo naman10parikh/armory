@@ -1,0 +1,7 @@
+{
+  "name": "i-tozer-excalidraw",
+  "description": "Enables creation and management of Excalidraw drawings with tools for creating, updating, exporting, and storing visual content directly within conversational workflows.",
+  "source_repo": "i-tozer/excalidraw-mcp",
+  "source_url": "https://github.com/i-tozer/excalidraw-mcp",
+  "install": "npx -y excalidraw-mcp"
+}

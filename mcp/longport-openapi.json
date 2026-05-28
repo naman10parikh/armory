@@ -1,0 +1,7 @@
+{
+  "name": "longport-openapi",
+  "description": "Integrates with Longport's financial OpenAPI services to enable market data retrieval, trade execution, order management, and account information access across multiple platforms.",
+  "source_repo": "longportapp/longport-mcp",
+  "source_url": "https://github.com/longportapp/longport-mcp",
+  "install": "npx -y longport-mcp"
+}

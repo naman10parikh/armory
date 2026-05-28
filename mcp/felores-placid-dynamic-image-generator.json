@@ -1,0 +1,7 @@
+{
+  "name": "felores-placid-dynamic-image-generator",
+  "description": "Integrates with Placid's API to generate dynamic images from templates for tasks like social media posts and marketing materials.",
+  "source_repo": "felores/placid-mcp-server",
+  "source_url": "https://github.com/felores/placid-mcp-server",
+  "install": "npx -y placid-mcp-server"
+}

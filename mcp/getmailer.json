@@ -1,0 +1,7 @@
+{
+  "name": "getmailer",
+  "description": "Send transactional emails using the GetMailer API",
+  "source_repo": "getplatform/getmailer-mcp",
+  "source_url": "https://github.com/getplatform/getmailer-mcp",
+  "install": "npx -y getmailer-mcp"
+}

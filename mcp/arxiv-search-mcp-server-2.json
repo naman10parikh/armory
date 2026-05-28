@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-search-mcp-server-2",
+  "description": "Arxiv Search MCP Server MCP server listed on mcp.so.",
+  "source_repo": "win4r/arxiv-search-MCP-Server",
+  "source_url": "https://mcp.so/server/arxiv-search-MCP-Server/win4r",
+  "install": "npx -y arxiv-search-MCP-Server"
+}

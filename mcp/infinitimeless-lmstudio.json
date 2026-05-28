@@ -1,0 +1,7 @@
+{
+  "name": "infinitimeless-lmstudio",
+  "description": "Bridges Claude with locally running LLM models via LM Studio, enabling users to leverage private models through Claude's interface while maintaining local hosting.",
+  "source_repo": "infinitimeless/lmstudio-mcp",
+  "source_url": "https://github.com/infinitimeless/lmstudio-mcp",
+  "install": "npx -y lmstudio-mcp"
+}

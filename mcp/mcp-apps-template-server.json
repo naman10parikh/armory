@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apps-template-server",
+  "description": "A starter template for building MCP apps with React widgets, featuring tool execution, UI capability negotiation, and host integration.",
+  "source_repo": "pomerium/chatgpt-app-typescript-template",
+  "source_url": "https://github.com/pomerium/chatgpt-app-typescript-template",
+  "install": "# git clone --depth 1 https://github.com/pomerium/chatgpt-app-typescript-template\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mercy719-goofish",
+  "description": "Enables browsing and monitoring of Goofish (Xianyu), China's largest secondhand marketplace, via Playwright browser automation.",
+  "source_repo": "mercy719/goofish-mcp-server",
+  "source_url": "https://github.com/mercy719/goofish-mcp-server",
+  "install": "npx -y goofish-mcp-server"
+}

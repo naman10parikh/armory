@@ -1,0 +1,7 @@
+{
+  "name": "eburza-svijet-beba",
+  "description": "MCP server for the Svijet Beba Croatian baby and kids products webshop, exposing product search, details, categories, and deals.",
+  "source_repo": "",
+  "source_url": "https://www.svijet-beba.hr",
+  "install": "# git clone --depth 1 https://www.svijet-beba.hr\n# See source for mcpServers config block"
+}

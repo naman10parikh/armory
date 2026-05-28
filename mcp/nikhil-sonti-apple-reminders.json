@@ -1,0 +1,7 @@
+{
+  "name": "nikhil-sonti-apple-reminders",
+  "description": "Enables AI assistants to manage Apple Reminders on macOS by using AppleScript to directly interact with the Reminders app, providing a simple TypeScript-based API for creating, completing, and deleting reminders.",
+  "source_repo": "shadowfax92/apple-reminders-mcp",
+  "source_url": "https://github.com/shadowfax92/apple-reminders-mcp",
+  "install": "npx -y apple-reminders-mcp"
+}

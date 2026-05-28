@@ -1,0 +1,7 @@
+{
+  "name": "promptly-structured-thinking",
+  "description": "Structures reasoning processes through defined thought stages, managing a history of thoughts with metadata for transparent, step-by-step problem solving and decision making.",
+  "source_repo": "promptly-technologies-llc/mcp-structured-thinking",
+  "source_url": "https://github.com/promptly-technologies-llc/mcp-structured-thinking",
+  "install": "# git clone --depth 1 https://github.com/promptly-technologies-llc/mcp-structured-thinking\n# See source for mcpServers config block"
+}

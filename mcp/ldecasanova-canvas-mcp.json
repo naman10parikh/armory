@@ -1,0 +1,7 @@
+{
+  "name": "ldecasanova-canvas-mcp",
+  "description": "Provides read-only access to Canvas LMS courses, assignments, announcements, and deadline prioritization for AI assistants.",
+  "source_repo": "ldecasanova/canvas-mcp",
+  "source_url": "https://github.com/ldecasanova/canvas-mcp",
+  "install": "npx -y canvas-mcp"
+}

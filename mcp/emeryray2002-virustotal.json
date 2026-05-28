@@ -1,0 +1,7 @@
+{
+  "name": "emeryray2002-virustotal",
+  "description": "Bridges to the VirusTotal API for comprehensive threat intelligence, enabling security analysts to analyze file hashes, URLs, domains, and IP addresses with automatically fetched relationship data for complete security overviews.",
+  "source_repo": "emeryray2002/virustotal-mcp",
+  "source_url": "https://github.com/emeryray2002/virustotal-mcp",
+  "install": "npx -y virustotal-mcp"
+}

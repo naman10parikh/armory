@@ -1,0 +1,7 @@
+{
+  "name": "openziti",
+  "description": "Natural language interface for OpenZiti network management operations through 201 API tools and 8 meta-tools.",
+  "source_repo": "openziti/ziti-mcp-server",
+  "source_url": "https://github.com/openziti/ziti-mcp-server",
+  "install": "npx -y ziti-mcp-server"
+}

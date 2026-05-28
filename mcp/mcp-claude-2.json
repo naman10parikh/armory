@@ -1,0 +1,7 @@
+{
+  "name": "mcp-claude-2",
+  "description": "Mcp Claude MCP server listed on mcp.so.",
+  "source_repo": "hrushik-reddy/mcp-claude",
+  "source_url": "https://mcp.so/server/mcp-claude/hrushik-reddy",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-claude/hrushik-reddy\n# See source for mcpServers config block"
+}

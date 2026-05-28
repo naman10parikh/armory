@@ -1,0 +1,7 @@
+{
+  "name": "lisberndt-zap",
+  "description": "Integrates with OWASP ZAP to provide comprehensive web application security testing through active vulnerability scanning, passive analysis, traditional spidering, and AJAX crawling with configurable scan policies, session management, and evidence collection for automated penetration testing workflows.",
+  "source_repo": "lisberndt/zap-mcp-server",
+  "source_url": "https://github.com/lisberndt/zap-mcp-server",
+  "install": "npx -y zap-mcp-server"
+}

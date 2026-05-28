@@ -1,0 +1,7 @@
+{
+  "name": "arkapravasinha-groww",
+  "description": "Integrates with Groww trading platform API to enable stock market operations including instrument search, order management, portfolio tracking, margin calculations, and live market data retrieval across NSE and BSE exchanges for Indian equity and F&O trading workflows.",
+  "source_repo": "arkapravasinha/groww-mcp-server",
+  "source_url": "https://github.com/arkapravasinha/groww-mcp-server",
+  "install": "npx -y groww-mcp-server"
+}

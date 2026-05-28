@@ -1,0 +1,7 @@
+{
+  "name": "csoai-dora-nis2-crosswalk",
+  "description": "Maps EU DORA and NIS2 regulatory obligations to unified compliance controls for financial and critical infrastructure operators.",
+  "source_repo": "csoai-org/dora-nis2-crosswalk-mcp",
+  "source_url": "https://github.com/csoai-org/dora-nis2-crosswalk-mcp",
+  "install": "npx -y dora-nis2-crosswalk-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ttjslbz001-akshare",
+  "description": "Integrates with AKShare to provide real-time financial data and analysis tools for Chinese and global markets, enabling stock, fund, bond, futures, forex, and macroeconomic data queries for investment decision support.",
+  "source_repo": "ttjslbz001/akshare_mcp_server",
+  "source_url": "https://github.com/ttjslbz001/akshare_mcp_server",
+  "install": "npx -y akshare_mcp_server"
+}

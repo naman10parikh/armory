@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-markdown",
+  "description": "Convert PDF, DOCX, XLSX, and other documents to Markdown via AI agents using the GroupDocs.Markdown .NET library.",
+  "source_repo": "groupdocs-markdown/groupdocs.markdown.mcp",
+  "source_url": "https://github.com/groupdocs-markdown/groupdocs.markdown.mcp",
+  "install": "# git clone --depth 1 https://github.com/groupdocs-markdown/groupdocs.markdown.mcp\n# See source for mcpServers config block"
+}

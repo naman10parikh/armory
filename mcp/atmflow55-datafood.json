@@ -1,0 +1,7 @@
+{
+  "name": "atmflow55-datafood",
+  "description": "MCP server providing unified access to 16 cross-niche data sources including crypto, DeFi, weather, news, finance, and web3 via a single endpoint.",
+  "source_repo": "atmflow55/datafood-mcp",
+  "source_url": "https://github.com/atmflow55/datafood-mcp",
+  "install": "npx -y datafood-mcp"
+}

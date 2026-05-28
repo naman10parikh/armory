@@ -1,0 +1,7 @@
+{
+  "name": "williamvd4-web-search",
+  "description": "Enables web search capabilities by scraping Google search results without API keys, returning structured data with titles, URLs, and descriptions for quick information retrieval.",
+  "source_repo": "williamvd4/web-search",
+  "source_url": "https://github.com/williamvd4/web-search",
+  "install": "# git clone --depth 1 https://github.com/williamvd4/web-search\n# See source for mcpServers config block"
+}

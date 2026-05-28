@@ -1,0 +1,7 @@
+{
+  "name": "readwise-vector-db-mcp-server",
+  "description": "Turns your Readwise library into a blazing-fast semantic search engine with a streaming MCP server for LLM clients, supporting vector search, nightly syncs, and deployment on serverless platforms like Vercel.",
+  "source_repo": "leonardsellem/readwise-vector-db",
+  "source_url": "https://github.com/leonardsellem/readwise-vector-db",
+  "install": "# git clone --depth 1 https://github.com/leonardsellem/readwise-vector-db\n# See source for mcpServers config block"
+}

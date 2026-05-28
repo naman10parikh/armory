@@ -1,0 +1,7 @@
+{
+  "name": "chrishayuk-code-sandbox",
+  "description": "Provides secure, isolated Python code execution environments with modular architecture for running untrusted code, testing solutions, generating visualizations, and performing file operations through multiple backend options including E2B and Firecracker microVMs.",
+  "source_repo": "chrishayuk/mcp-code-sandbox",
+  "source_url": "https://github.com/chrishayuk/mcp-code-sandbox",
+  "install": "# git clone --depth 1 https://github.com/chrishayuk/mcp-code-sandbox\n# See source for mcpServers config block"
+}

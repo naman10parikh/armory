@@ -1,0 +1,7 @@
+{
+  "name": "ai-memory",
+  "description": "Production-ready semantic memory management server that stores, retrieves, and manages contextual knowledge across sessions using PostgreSQL with pgvector for vector similarity search, featuring intelligent caching, multi-user support, memory relationships, automatic clustering, and background job processing for persistent AI memory and knowledge management systems.",
+  "source_repo": "scanadi/mcp-ai-memory",
+  "source_url": "https://github.com/scanadi/mcp-ai-memory",
+  "install": "# git clone --depth 1 https://github.com/scanadi/mcp-ai-memory\n# See source for mcpServers config block"
+}

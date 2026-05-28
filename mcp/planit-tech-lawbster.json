@@ -1,0 +1,7 @@
+{
+  "name": "planit-tech-lawbster",
+  "description": "Managed SaaS MCP server providing verified, citable access to German and EU law with daily updates from official sources.",
+  "source_repo": "planit-tech/lawbster-mcp",
+  "source_url": "https://github.com/planit-tech/lawbster-mcp",
+  "install": "npx -y lawbster-mcp"
+}

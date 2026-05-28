@@ -1,0 +1,7 @@
+{
+  "name": "emran1993-mobile-development-validator",
+  "description": "Enforces structured development practices for mobile projects by validating code architecture, preventing oversized files, and detecting breaking changes across Flutter, React Native, iOS, and Android platforms.",
+  "source_repo": "emran1993/mobile-mcp-validator",
+  "source_url": "https://github.com/emran1993/mobile-mcp-validator",
+  "install": "# git clone --depth 1 https://github.com/emran1993/mobile-mcp-validator\n# See source for mcpServers config block"
+}

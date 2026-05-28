@@ -1,0 +1,7 @@
+{
+  "name": "aniruddha-adhikary-gahmen",
+  "description": "Integrates with Singapore's government data APIs (data.gov.sg and SingStat) to enable browsing, searching, filtering, and downloading of open datasets for policy research, economic analysis, demographic studies, and data journalism.",
+  "source_repo": "aniruddha-adhikary/gahmen-mcp",
+  "source_url": "https://github.com/aniruddha-adhikary/gahmen-mcp",
+  "install": "npx -y gahmen-mcp"
+}

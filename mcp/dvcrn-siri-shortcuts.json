@@ -1,0 +1,7 @@
+{
+  "name": "dvcrn-siri-shortcuts",
+  "description": "Integrates with macOS Shortcuts to dynamically expose and execute user-defined automation workflows through generated tools.",
+  "source_repo": "dvcrn/mcp-server-siri-shortcuts",
+  "source_url": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+  "install": "# git clone --depth 1 https://github.com/dvcrn/mcp-server-siri-shortcuts\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-qualixar-slm-hub",
+  "description": "Federated MCP gateway that consolidates multiple MCP servers into a single local HTTP endpoint with intelligent caching, cost tracking, and cross-session learning.",
+  "source_repo": "qualixar/slm-mcp-hub",
+  "source_url": "https://github.com/qualixar/slm-mcp-hub",
+  "install": "# git clone --depth 1 https://github.com/qualixar/slm-mcp-hub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "visactor-vchart",
+  "description": "Generates interactive charts and visualizations using the VChart library, supporting over 15 chart types from basic line and bar charts to specialized heatmaps and hierarchical visualizations with flexible output formats including specifications, rendered images, or HTML embeddings.",
+  "source_repo": "visactor/vchart-mcp-server",
+  "source_url": "https://github.com/visactor/vchart-mcp-server",
+  "install": "npx -y vchart-mcp-server"
+}

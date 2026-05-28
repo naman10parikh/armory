@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-abnormal-security",
+  "description": "Community MCP integration for Abnormal Security, enabling AI agents to access email threat cases and trigger remediation.",
+  "source_repo": "wyre-technology/abnormal-mcp",
+  "source_url": "https://github.com/wyre-technology/abnormal-mcp",
+  "install": "npx -y abnormal-mcp"
+}

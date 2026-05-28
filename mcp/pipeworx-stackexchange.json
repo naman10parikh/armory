@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-stackexchange",
+  "description": "Wraps the StackExchange API v2.3 for searching questions, answers, and tags across Stack Overflow and sister sites.",
+  "source_repo": "pipeworx-io/mcp-stackexchange",
+  "source_url": "https://github.com/pipeworx-io/mcp-stackexchange",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-stackexchange\n# See source for mcpServers config block"
+}

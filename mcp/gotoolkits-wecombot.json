@@ -1,0 +1,7 @@
+{
+  "name": "gotoolkits-wecombot",
+  "description": "Integrates WeCom group messaging, enabling automated sending of diverse message types and file uploads for streamlined team communication and notifications.",
+  "source_repo": "gotoolkits/mcp-wecombot-server",
+  "source_url": "https://github.com/gotoolkits/mcp-wecombot-server",
+  "install": "# git clone --depth 1 https://github.com/gotoolkits/mcp-wecombot-server\n# See source for mcpServers config block"
+}

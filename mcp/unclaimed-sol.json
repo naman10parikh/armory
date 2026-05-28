@@ -1,0 +1,7 @@
+{
+  "name": "unclaimed-sol",
+  "description": "Scan and reclaim dormant SOL from Solana wallet token accounts and staking positions.",
+  "source_repo": "unclaimed-sol/unclaimed-sol-mcp",
+  "source_url": "https://github.com/unclaimed-sol/unclaimed-sol-mcp",
+  "install": "npx -y unclaimed-sol-mcp"
+}

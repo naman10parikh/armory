@@ -1,0 +1,7 @@
+{
+  "name": "photo-organizer",
+  "description": "AI-powered organization for Google Photos and Drive with auto-organize, duplicate detection, and album creation.",
+  "source_repo": "expertvagabond/photo-organizer-mcp",
+  "source_url": "https://github.com/expertvagabond/photo-organizer-mcp",
+  "install": "npx -y photo-organizer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tomtom-traffic-analytics",
+  "description": "Provides 8 tools for analyzing real-time and historical traffic patterns via TomTom's MOVE portal and Developer API.",
+  "source_repo": "tomtom-international/tomtom-traffic-analytics-mcp",
+  "source_url": "https://github.com/tomtom-international/tomtom-traffic-analytics-mcp",
+  "install": "npx -y tomtom-traffic-analytics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vitalydv-mysql-readonly",
+  "description": "Provides a secure bridge to MySQL databases for executing read-only queries, retrieving table schemas, and listing database tables with built-in row limits for safe data exploration.",
+  "source_repo": "vitalydv/mysql-mcp",
+  "source_url": "https://github.com/vitalydv/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

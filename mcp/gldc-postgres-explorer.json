@@ -1,0 +1,7 @@
+{
+  "name": "gldc-postgres-explorer",
+  "description": "Enables natural language interaction with PostgreSQL databases through tools for schema exploration, table inspection, relationship discovery, and SQL query execution",
+  "source_repo": "gldc/mcp-postgres",
+  "source_url": "https://github.com/gldc/mcp-postgres",
+  "install": "# git clone --depth 1 https://github.com/gldc/mcp-postgres\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "silkyland-senior-consult",
+  "description": "Enables consultation with senior-level AI models (Claude, GPT, Gemini, DeepSeek, Z.ai) for expert technical guidance, code reviews, and architecture advice with smart memory management.",
+  "source_repo": "silkyland/senior-consult-mcp",
+  "source_url": "https://github.com/silkyland/senior-consult-mcp",
+  "install": "npx -y senior-consult-mcp"
+}

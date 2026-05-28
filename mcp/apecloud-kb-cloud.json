@@ -1,0 +1,7 @@
+{
+  "name": "apecloud-kb-cloud",
+  "description": "Enables querying and managing KubeBlocks Cloud resources including organizations, environments, instances, and backups via the KB Cloud API for automated database operations.",
+  "source_repo": "apecloud/kb-cloud-mcp-server",
+  "source_url": "https://github.com/apecloud/kb-cloud-mcp-server",
+  "install": "npx -y kb-cloud-mcp-server"
+}

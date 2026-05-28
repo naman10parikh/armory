@@ -1,0 +1,7 @@
+{
+  "name": "ivarvd-hldng-html-to-pdf-generator",
+  "description": "Combines PDFKit and Puppeteer to generate PDFs from HTML content and programmatic layouts, enabling versatile document creation and web page snapshots.",
+  "source_repo": "ivarvd-hldng/pdf-generator-mcp-server",
+  "source_url": "https://github.com/ivarvd-hldng/pdf-generator-mcp-server",
+  "install": "npx -y pdf-generator-mcp-server"
+}

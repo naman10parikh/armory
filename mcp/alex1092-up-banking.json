@@ -1,0 +1,7 @@
+{
+  "name": "alex1092-up-banking",
+  "description": "Read-only Up Banking (Australia) integration for account balances, transactions, and spending category analysis",
+  "source_repo": "alex1092/up-bank-mcp-server",
+  "source_url": "https://github.com/alex1092/up-bank-mcp-server",
+  "install": "npx -y up-bank-mcp-server"
+}

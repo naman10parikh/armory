@@ -1,0 +1,7 @@
+{
+  "name": "sctg-development-heroui-migration",
+  "description": "Assists with migrating HeroUI v2 and NextUI projects to HeroUI v3 beta through project scanning, file analysis, guided rewrites, and component comparison.",
+  "source_repo": "sctg-development/heroui-migration-mcp",
+  "source_url": "https://github.com/sctg-development/heroui-migration-mcp",
+  "install": "npx -y heroui-migration-mcp"
+}

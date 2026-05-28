@@ -1,0 +1,7 @@
+{
+  "name": "sofianhamiti-s3-tools",
+  "description": "Integrates with AWS S3 to enable bucket listing and management, facilitating cloud storage operations for applications requiring file organization or content delivery.",
+  "source_repo": "sofianhamiti/mcp-server-s3",
+  "source_url": "https://github.com/sofianhamiti/mcp-server-s3",
+  "install": "# git clone --depth 1 https://github.com/sofianhamiti/mcp-server-s3\n# See source for mcpServers config block"
+}

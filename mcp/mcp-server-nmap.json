@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-nmap",
+  "description": "Enables network scanning and reconnaissance through MCP tools, leveraging nmap for port scanning, service detection, and host discovery via synchronous, asynchronous, and streaming interfaces.",
+  "source_repo": "daedalus/mcp-server-nmap",
+  "source_url": "https://github.com/daedalus/mcp-server-nmap",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-server-nmap\n# See source for mcpServers config block"
+}

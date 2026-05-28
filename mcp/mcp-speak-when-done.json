@@ -1,0 +1,7 @@
+{
+  "name": "mcp-speak-when-done",
+  "description": "An MCP server that makes AI agents speak a brief summary of every response out loud using TTS.",
+  "source_repo": "j3k0/mcp-speak-when-done",
+  "source_url": "https://github.com/j3k0/mcp-speak-when-done",
+  "install": "# git clone --depth 1 https://github.com/j3k0/mcp-speak-when-done\n# See source for mcpServers config block"
+}

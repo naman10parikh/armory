@@ -1,0 +1,7 @@
+{
+  "name": "pavelpiha-specrun",
+  "description": "Converts OpenAPI specifications into callable tools for querying API endpoints.",
+  "source_repo": "pavelpiha/specrun",
+  "source_url": "https://github.com/pavelpiha/specrun",
+  "install": "# git clone --depth 1 https://github.com/pavelpiha/specrun\n# See source for mcpServers config block"
+}

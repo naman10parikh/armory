@@ -1,0 +1,7 @@
+{
+  "name": "numikel-polish-sejm-legal-acts",
+  "description": "Integrates with Poland's official Sejm API to provide search, retrieval, and analysis of legal documents from Dziennik Ustaw and Monitor Polski with keyword filtering, metadata access, and structural examination capabilities for legal research and compliance workflows.",
+  "source_repo": "numikel/law-scrapper-mcp",
+  "source_url": "https://github.com/numikel/law-scrapper-mcp",
+  "install": "npx -y law-scrapper-mcp"
+}

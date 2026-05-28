@@ -1,0 +1,7 @@
+{
+  "name": "darkphilosophy-vibe",
+  "description": "Wraps Mistral Vibe CLI as a subagent, enabling task execution and session management with cost tracking and persistence across project directories.",
+  "source_repo": "darkphilosophy/vibe-mcp",
+  "source_url": "https://github.com/darkphilosophy/vibe-mcp",
+  "install": "npx -y vibe-mcp"
+}

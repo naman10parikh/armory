@@ -1,0 +1,7 @@
+{
+  "name": "steffensbola-salesforce",
+  "description": "Integrates with Salesforce CRM through TypeScript to enable SOQL queries, SOSL searches, record CRUD operations, object metadata retrieval, and REST API access with robust authentication and automatic token refresh for enterprise automation and data analysis workflows.",
+  "source_repo": "steffensbola/salesforce-mcp-ts",
+  "source_url": "https://github.com/steffensbola/salesforce-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/steffensbola/salesforce-mcp-ts\n# See source for mcpServers config block"
+}

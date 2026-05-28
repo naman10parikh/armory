@@ -1,0 +1,7 @@
+{
+  "name": "clinicaltrialsgov-mcp-server-5",
+  "description": "MCP server for the ClinicalTrials.gov v2 API. Search trials, retrieve study details and results, and match patients to eligible trials.",
+  "source_repo": "cyanheads/clinicaltrialsgov-mcp-server",
+  "source_url": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server",
+  "install": "npx -y clinicaltrialsgov-mcp-server"
+}

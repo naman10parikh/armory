@@ -1,0 +1,7 @@
+{
+  "name": "azure-api-management-gateway-with-entra-id-authentication",
+  "description": "Secures remote AI servers using Azure API Management as a gateway with Microsoft Entra ID authentication, enabling enterprise-grade access control for organizations leveraging existing Azure identity services.",
+  "source_repo": "azure-samples/remote-mcp-apim-functions-python",
+  "source_url": "https://github.com/azure-samples/remote-mcp-apim-functions-python",
+  "install": "# git clone --depth 1 https://github.com/azure-samples/remote-mcp-apim-functions-python\n# See source for mcpServers config block"
+}

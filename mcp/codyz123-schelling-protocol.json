@@ -1,0 +1,7 @@
+{
+  "name": "codyz123-schelling-protocol",
+  "description": "Universal coordination protocol for agent discovery, matching, and negotiation.",
+  "source_repo": "codyz123/schelling-protocol",
+  "source_url": "https://github.com/codyz123/schelling-protocol/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/codyz123/schelling-protocol/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

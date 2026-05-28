@@ -1,0 +1,7 @@
+{
+  "name": "alexey-pelykh-lhremote",
+  "description": "Open-source CLI and MCP server for LinkedHelper automation — 32 tools for campaign management, messaging, and profile queries via Chrome DevTools Protocol.",
+  "source_repo": "alexey-pelykh/lhremote",
+  "source_url": "https://github.com/alexey-pelykh/lhremote",
+  "install": "# git clone --depth 1 https://github.com/alexey-pelykh/lhremote\n# See source for mcpServers config block"
+}

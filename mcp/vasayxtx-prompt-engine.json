@@ -1,0 +1,7 @@
+{
+  "name": "vasayxtx-prompt-engine",
+  "description": "Provides dynamic prompt template management with Go template engine support, file system watching for real-time updates, and CLI tooling for template rendering, validation, and listing with support for partials, environment variables, and automatic reloading.",
+  "source_repo": "vasayxtx/mcp-prompt-engine",
+  "source_url": "https://github.com/vasayxtx/mcp-prompt-engine",
+  "install": "# git clone --depth 1 https://github.com/vasayxtx/mcp-prompt-engine\n# See source for mcpServers config block"
+}

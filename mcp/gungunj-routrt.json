@@ -1,0 +1,7 @@
+{
+  "name": "gungunj-routrt",
+  "description": "Provides routing and navigation tools for calculating paths and directions.",
+  "source_repo": "gungunj/routrt-mcp",
+  "source_url": "https://github.com/gungunj/routrt-mcp",
+  "install": "npx -y routrt-mcp"
+}

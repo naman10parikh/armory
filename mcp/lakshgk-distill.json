@@ -1,0 +1,7 @@
+{
+  "name": "lakshgk-distill",
+  "description": "Convert PDF, DOCX, XLSX, PPTX, HTML, and audio files to token-efficient Markdown.",
+  "source_repo": "lakshgk/distill-mcp",
+  "source_url": "https://github.com/lakshgk/distill-mcp",
+  "install": "npx -y distill-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mikeylong-agent-memory",
+  "description": "Local-first cross-agent memory layer using SQLite with optional Ollama semantic embeddings for shared durable memory across Codex and Claude Code sessions.",
+  "source_repo": "mikeylong/agent-memory-mcp",
+  "source_url": "https://github.com/mikeylong/agent-memory-mcp",
+  "install": "npx -y agent-memory-mcp"
+}

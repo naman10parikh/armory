@@ -1,0 +1,7 @@
+{
+  "name": "jamesanz-system-prompts-mcp-server",
+  "description": "Exposes a large catalog of coding assistant prompts as MCP tools with model-aware suggestions and persona activation to emulate agents like Cursor or Devin.",
+  "source_repo": "JamesANZ/system-prompts-mcp-server",
+  "source_url": "https://github.com/JamesANZ/system-prompts-mcp-server",
+  "install": "npx -y system-prompts-mcp-server"
+}

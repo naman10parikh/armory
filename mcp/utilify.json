@@ -1,0 +1,7 @@
+{
+  "name": "utilify",
+  "description": "Texas utility plan comparison and enrollment for electricity, internet, natural gas, water, and trash across 4,844 ZIP codes.",
+  "source_repo": "utilify-io/utilify-mcp",
+  "source_url": "https://github.com/utilify-io/utilify-mcp",
+  "install": "npx -y utilify-mcp"
+}

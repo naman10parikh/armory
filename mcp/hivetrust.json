@@ -1,0 +1,7 @@
+{
+  "name": "hivetrust",
+  "description": "KYA identity verification, trust scoring, and performance bonds for AI agents.",
+  "source_repo": "srotzin/hivetrust",
+  "source_url": "https://github.com/srotzin/hivetrust",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hivetrust\n# See source for mcpServers config block"
+}

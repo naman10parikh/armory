@@ -1,0 +1,7 @@
+{
+  "name": "benyue1978-run-command",
+  "description": "Enables direct execution of shell commands from chat interfaces, creating a bridge between natural language prompts and local system operations for quick developer workflows.",
+  "source_repo": "benyue1978/run-command-mcp",
+  "source_url": "https://github.com/benyue1978/run-command-mcp",
+  "install": "npx -y run-command-mcp"
+}

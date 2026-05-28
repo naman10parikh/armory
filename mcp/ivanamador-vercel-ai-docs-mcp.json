@@ -1,0 +1,7 @@
+{
+  "name": "ivanamador-vercel-ai-docs-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides AI-powered search and querying capabilities for the Vercel AI SDK documentation.",
+  "source_repo": "IvanAmador/vercel-ai-docs-mcp",
+  "source_url": "https://github.com/IvanAmador/vercel-ai-docs-mcp",
+  "install": "npx -y vercel-ai-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-pochta-russia",
+  "description": "Integrates with Russian Post API for tracking shipments, calculating tariffs, and searching postal offices.",
+  "source_repo": "theyahia/pochta-russia-mcp",
+  "source_url": "https://github.com/theyahia/pochta-russia-mcp",
+  "install": "npx -y pochta-russia-mcp"
+}

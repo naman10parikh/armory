@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-barcode-scanner",
+  "description": "Scan and generate barcodes and QR codes.",
+  "source_repo": "domdomegg/barcode-scanner-mcp",
+  "source_url": "https://github.com/domdomegg/barcode-scanner-mcp",
+  "install": "npx -y barcode-scanner-mcp"
+}

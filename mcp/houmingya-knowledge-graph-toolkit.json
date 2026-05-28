@@ -1,0 +1,7 @@
+{
+  "name": "houmingya-knowledge-graph-toolkit",
+  "description": "Intelligent tool scheduling system with knowledge graph construction, database operations, and document processing through ChromaDB integration.",
+  "source_repo": "houmingya/llm_mcp_tools",
+  "source_url": "https://github.com/houmingya/llm_mcp_tools",
+  "install": "# git clone --depth 1 https://github.com/houmingya/llm_mcp_tools\n# See source for mcpServers config block"
+}

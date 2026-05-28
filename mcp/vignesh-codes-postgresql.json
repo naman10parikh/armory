@@ -1,0 +1,7 @@
+{
+  "name": "vignesh-codes-postgresql",
+  "description": "Provides secure read-only access to PostgreSQL databases for executing SQL queries and retrieving schema information.",
+  "source_repo": "vignesh-codes/ai-agents-mcp-pg",
+  "source_url": "https://github.com/vignesh-codes/ai-agents-mcp-pg",
+  "install": "# git clone --depth 1 https://github.com/vignesh-codes/ai-agents-mcp-pg\n# See source for mcpServers config block"
+}

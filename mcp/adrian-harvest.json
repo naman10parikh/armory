@@ -1,0 +1,7 @@
+{
+  "name": "adrian-harvest",
+  "description": "Integrates with Harvest's time tracking and project management features, enabling natural language interactions for managing projects, tracking time entries, and handling leave requests.",
+  "source_repo": "adrian-dotco/harvest-mcp-server",
+  "source_url": "https://github.com/adrian-dotco/harvest-mcp-server",
+  "install": "npx -y harvest-mcp-server"
+}

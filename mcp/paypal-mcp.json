@@ -1,0 +1,7 @@
+{
+  "name": "paypal-mcp",
+  "description": "PayPal MCP MCP server listed on mcp.so.",
+  "source_repo": "arbuthnot-eth/PayPal-MCP",
+  "source_url": "https://mcp.so/server/PayPal-MCP/arbuthnot-eth",
+  "install": "npx -y PayPal-MCP"
+}

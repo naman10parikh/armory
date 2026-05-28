@@ -1,0 +1,7 @@
+{
+  "name": "negokaz-excel",
+  "description": "Integrates with Microsoft Excel to enable reading and writing of text data in xlsx files for spreadsheet manipulation and analysis tasks.",
+  "source_repo": "negokaz/excel-mcp-server",
+  "source_url": "https://github.com/negokaz/excel-mcp-server",
+  "install": "npx -y excel-mcp-server"
+}

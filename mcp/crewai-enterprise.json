@@ -1,0 +1,7 @@
+{
+  "name": "crewai-enterprise",
+  "description": "Connects to CrewAI Enterprise workflows, enabling kickoff and monitoring of collaborative agent teams for complex task delegation without leaving your interface.",
+  "source_repo": "crewaiinc/enterprise-mcp-server",
+  "source_url": "https://github.com/crewaiinc/enterprise-mcp-server",
+  "install": "npx -y enterprise-mcp-server"
+}

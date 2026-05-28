@@ -1,0 +1,7 @@
+{
+  "name": "softvoyagers-qrmint-api",
+  "description": "Free styled QR code generator API with custom colors, logos, frames, and batch generation. No API key required.",
+  "source_repo": "softvoyagers/qrmint-api",
+  "source_url": "https://github.com/softvoyagers/qrmint-api",
+  "install": "# git clone --depth 1 https://github.com/softvoyagers/qrmint-api\n# See source for mcpServers config block"
+}

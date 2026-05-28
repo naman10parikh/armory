@@ -1,0 +1,7 @@
+{
+  "name": "mc-mcp-server",
+  "description": "Enables AI-driven interactions with Minecraft through a WebSocket-based server and MCP protocol, allowing external MCP clients and in-game chat to trigger AI tools.",
+  "source_repo": "rice-awa/mc-mcp-server",
+  "source_url": "https://github.com/rice-awa/mc-mcp-server",
+  "install": "npx -y mc-mcp-server"
+}

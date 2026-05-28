@@ -1,0 +1,7 @@
+{
+  "name": "samarth208p-0mcp",
+  "description": "Decentralized AI memory MCP server anchored to the 0G blockchain with contradiction detection, repo-aware ingestion, and tradeable memory assets.",
+  "source_repo": "samarth208p/0mcp",
+  "source_url": "https://github.com/samarth208p/0mcp",
+  "install": "# git clone --depth 1 https://github.com/samarth208p/0mcp\n# See source for mcpServers config block"
+}

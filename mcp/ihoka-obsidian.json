@@ -1,0 +1,7 @@
+{
+  "name": "ihoka-obsidian",
+  "description": "Provides read-only access to Obsidian vaults, enabling search, browsing, and analysis of personal knowledge bases stored as Markdown files with automatic frontmatter parsing, link extraction, and flexible content discovery through tag-based filtering and full-text search capabilities.",
+  "source_repo": "ihoka/obsidian-mcp-server",
+  "source_url": "https://github.com/ihoka/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

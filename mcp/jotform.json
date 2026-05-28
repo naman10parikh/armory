@@ -1,0 +1,7 @@
+{
+  "name": "jotform",
+  "description": "Programmatic access to forms and submissions via natural language interfaces, compatible with popular AI assistants including Cursor and VS Code extensions.",
+  "source_repo": "",
+  "source_url": "https://www.jotform.com/developers/mcp/",
+  "install": "# git clone --depth 1 https://www.jotform.com/developers/mcp/\n# See source for mcpServers config block"
+}

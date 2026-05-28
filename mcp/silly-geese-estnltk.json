@@ -1,0 +1,7 @@
+{
+  "name": "silly-geese-estnltk",
+  "description": "Hosted MCP server exposing the EstNLTK Estonian NLP toolkit with 20 tools for morphology, NER, lemmatization, and spell-checking.",
+  "source_repo": "silly-geese/estonian-mcp",
+  "source_url": "https://github.com/silly-geese/estonian-mcp",
+  "install": "npx -y estonian-mcp"
+}

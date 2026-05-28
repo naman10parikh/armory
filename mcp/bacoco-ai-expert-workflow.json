@@ -1,0 +1,7 @@
+{
+  "name": "bacoco-ai-expert-workflow",
+  "description": "Facilitates structured product development through specialized AI roles (Product Manager, UX Designer, Software Architect) that generate documentation and convert requirements into actionable tasks.",
+  "source_repo": "bacoco/ai-expert-workflow-mcp",
+  "source_url": "https://github.com/bacoco/ai-expert-workflow-mcp",
+  "install": "npx -y ai-expert-workflow-mcp"
+}

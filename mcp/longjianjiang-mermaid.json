@@ -1,0 +1,7 @@
+{
+  "name": "longjianjiang-mermaid",
+  "description": "Provides a bridge to mermaid.js for generating flowcharts, sequence diagrams, and other visualizations through natural language",
+  "source_repo": "longjianjiang/mermaid-mcp-server",
+  "source_url": "https://github.com/longjianjiang/mermaid-mcp-server",
+  "install": "npx -y mermaid-mcp-server"
+}

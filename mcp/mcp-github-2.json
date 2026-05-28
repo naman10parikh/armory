@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-2",
+  "description": "Mcp Github MCP server listed on mcp.so.",
+  "source_repo": "aghonem1/mcp-github",
+  "source_url": "https://mcp.so/server/mcp-github/aghonem1",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-github/aghonem1\n# See source for mcpServers config block"
+}

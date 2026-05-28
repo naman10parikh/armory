@@ -1,0 +1,7 @@
+{
+  "name": "gopher-lab-twitter-search",
+  "description": "Integrates with Twitter through the Gopher AI API to search and retrieve relevant posts with metadata and relevance scores using natural language queries for social media analysis, trend monitoring, and research applications.",
+  "source_repo": "gopher-lab/gopher-mcp-server",
+  "source_url": "https://github.com/gopher-lab/gopher-mcp-server",
+  "install": "npx -y gopher-mcp-server"
+}

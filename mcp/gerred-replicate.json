@@ -1,0 +1,7 @@
+{
+  "name": "gerred-replicate",
+  "description": "Integrates with Replicate API to provide seamless access to diverse machine learning models for inference and result retrieval across various domains.",
+  "source_repo": "gerred/mcp-server-replicate",
+  "source_url": "https://github.com/gerred/mcp-server-replicate",
+  "install": "# git clone --depth 1 https://github.com/gerred/mcp-server-replicate\n# See source for mcpServers config block"
+}

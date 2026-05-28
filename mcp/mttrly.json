@@ -1,0 +1,7 @@
+{
+  "name": "mttrly",
+  "description": "AI-powered incident management and server monitoring with alert triage, diagnostics, and remediation directly from an IDE.",
+  "source_repo": "",
+  "source_url": "https://mttrly.com/mcp",
+  "install": "# git clone --depth 1 https://mttrly.com/mcp\n# See source for mcpServers config block"
+}

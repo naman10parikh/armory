@@ -1,0 +1,7 @@
+{
+  "name": "copyright01",
+  "description": "Copyright deposit API for protecting code, text, and websites with Berne Convention proof.",
+  "source_repo": "whitemarmot/copyright01-mcp",
+  "source_url": "https://github.com/whitemarmot/copyright01-mcp",
+  "install": "npx -y copyright01-mcp"
+}

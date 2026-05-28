@@ -1,0 +1,7 @@
+{
+  "name": "robwilde-obsidian",
+  "description": "Automatically captures Claude Code responses and saves them as structured markdown files in your Obsidian vault with configurable templates, project-specific organization, and automatic frontmatter generation for seamless AI conversation archiving.",
+  "source_repo": "robwilde/obsidian-mcp-server",
+  "source_url": "https://github.com/robwilde/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

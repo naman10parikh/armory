@@ -1,0 +1,7 @@
+{
+  "name": "niuzaishu-querynest",
+  "description": "Transforms MongoDB databases into conversational interfaces by automatically discovering collection schemas and generating optimized queries from natural language requests.",
+  "source_repo": "niuzaishu/querynest",
+  "source_url": "https://github.com/niuzaishu/querynest",
+  "install": "# git clone --depth 1 https://github.com/niuzaishu/querynest\n# See source for mcpServers config block"
+}

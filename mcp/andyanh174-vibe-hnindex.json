@@ -1,0 +1,7 @@
+{
+  "name": "andyanh174-vibe-hnindex",
+  "description": "Index source code into a local knowledge base with keyword, semantic, and hybrid search modes.",
+  "source_repo": "andyanh174/vibe-hnindex",
+  "source_url": "https://github.com/andyanh174/vibe-hnindex",
+  "install": "# git clone --depth 1 https://github.com/andyanh174/vibe-hnindex\n# See source for mcpServers config block"
+}

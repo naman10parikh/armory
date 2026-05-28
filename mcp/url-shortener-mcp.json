@@ -1,0 +1,7 @@
+{
+  "name": "url-shortener-mcp",
+  "description": "Enables URL shortening and management through MCP, allowing creation of short links with optional tags and expiry, search, and stats.",
+  "source_repo": "michaelshumshum/url-shortener-mcp",
+  "source_url": "https://github.com/michaelshumshum/url-shortener-mcp",
+  "install": "npx -y url-shortener-mcp"
+}

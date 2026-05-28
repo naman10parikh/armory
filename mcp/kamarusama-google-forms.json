@@ -1,0 +1,7 @@
+{
+  "name": "kamarusama-google-forms",
+  "description": "MCP server for creating, editing, and managing Google Forms with 19 tools via the Google Forms API.",
+  "source_repo": "kamarusama/mcp-google-forms",
+  "source_url": "https://github.com/kamarusama/mcp-google-forms",
+  "install": "# git clone --depth 1 https://github.com/kamarusama/mcp-google-forms\n# See source for mcpServers config block"
+}

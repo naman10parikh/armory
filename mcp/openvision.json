@@ -1,0 +1,7 @@
+{
+  "name": "openvision",
+  "description": "Integrates with OpenRouter's vision models to analyze images from file paths, URLs, or base64 data using configurable queries and system prompts across multiple model providers including Claude, GPT-4o, and Qwen variants.",
+  "source_repo": "mikeysrecipes/mcp-openvision",
+  "source_url": "https://github.com/mikeysrecipes/mcp-openvision",
+  "install": "# git clone --depth 1 https://github.com/mikeysrecipes/mcp-openvision\n# See source for mcpServers config block"
+}

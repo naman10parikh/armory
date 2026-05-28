@@ -1,0 +1,7 @@
+{
+  "name": "tinypng-mcp-server",
+  "description": "Tinypng Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aiyogg/tinypng-mcp-server",
+  "source_url": "https://mcp.so/server/tinypng-mcp-server/aiyogg",
+  "install": "npx -y tinypng-mcp-server"
+}

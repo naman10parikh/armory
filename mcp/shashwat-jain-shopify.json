@@ -1,0 +1,7 @@
+{
+  "name": "shashwat-jain-shopify",
+  "description": "Provides a flexible bridge to Shopify store data, enabling interaction with product, order, and inventory information through GraphQL queries for e-commerce managers and developers",
+  "source_repo": "codeyogi911/shopify-mcp",
+  "source_url": "https://github.com/codeyogi911/shopify-mcp",
+  "install": "npx -y shopify-mcp"
+}

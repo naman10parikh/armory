@@ -1,0 +1,7 @@
+{
+  "name": "main-py",
+  "description": "Main.Py MCP server listed on mcp.so.",
+  "source_repo": "mplayer/main.py",
+  "source_url": "https://mcp.so/server/main.py/mplayer",
+  "install": "# git clone --depth 1 https://mcp.so/server/main.py/mplayer\n# See source for mcpServers config block"
+}

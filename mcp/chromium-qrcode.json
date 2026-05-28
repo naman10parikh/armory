@@ -1,0 +1,7 @@
+{
+  "name": "chromium-qrcode",
+  "description": "Generates QR codes with circular dot modules and rounded corners in Google Chrome's visual style.",
+  "source_repo": "chromium-style-qrcode/mcp",
+  "source_url": "https://github.com/chromium-style-qrcode/mcp",
+  "install": "# git clone --depth 1 https://github.com/chromium-style-qrcode/mcp\n# See source for mcpServers config block"
+}

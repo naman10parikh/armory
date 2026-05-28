@@ -1,0 +1,7 @@
+{
+  "name": "reactuse",
+  "description": "MCP server for the ReactUse library. Exposes 110+ React Hook signatures, examples, and API metadata so AI coding assistants can discover and use any hook from @reactuses/core directly.",
+  "source_repo": "childrentime/reactuse",
+  "source_url": "https://github.com/childrentime/reactuse",
+  "install": "# git clone --depth 1 https://github.com/childrentime/reactuse\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "profikid-soulseek",
+  "description": "Searches and downloads files from the Soulseek peer-to-peer music sharing network.",
+  "source_repo": "profikid/soulseek-mcp",
+  "source_url": "https://github.com/profikid/soulseek-mcp",
+  "install": "npx -y soulseek-mcp"
+}

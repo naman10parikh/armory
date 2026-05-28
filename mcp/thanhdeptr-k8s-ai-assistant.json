@@ -1,0 +1,7 @@
+{
+  "name": "thanhdeptr-k8s-ai-assistant",
+  "description": "Integrates with Kubernetes clusters through kubectl and Helm to provide unified resource management, diagnostics, and operations with configurable safety controls for production environments.",
+  "source_repo": "thanhdeptr/k8s_ai_assistant_mcp",
+  "source_url": "https://github.com/thanhdeptr/k8s_ai_assistant_mcp",
+  "install": "npx -y k8s_ai_assistant_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jafforgehq-google-analytics",
+  "description": "Integrates Google Analytics 4 and Google Search Console for unified SEO and traffic analysis with natural language querying.",
+  "source_repo": "jafforgehq/google-analytics-mcp",
+  "source_url": "https://github.com/jafforgehq/google-analytics-mcp",
+  "install": "npx -y google-analytics-mcp"
+}

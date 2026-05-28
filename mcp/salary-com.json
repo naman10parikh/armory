@@ -1,0 +1,7 @@
+{
+  "name": "salary-com",
+  "description": "MCP server for real-time compensation data from Salary.com, returning salary percentiles by job title, location, company type, and industry context.",
+  "source_repo": "salary-com-llc/mcp-server",
+  "source_url": "https://github.com/salary-com-llc/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/salary-com-llc/mcp-server\n# See source for mcpServers config block"
+}

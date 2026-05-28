@@ -1,0 +1,7 @@
+{
+  "name": "gitmotion-ntfy-push",
+  "description": "Enables sending push notifications through the ntfy service with customizable titles, summaries, priority levels, and tags for alerting users about completed tasks or status updates.",
+  "source_repo": "gitmotion/ntfy-me-mcp",
+  "source_url": "https://github.com/gitmotion/ntfy-me-mcp",
+  "install": "npx -y ntfy-me-mcp"
+}

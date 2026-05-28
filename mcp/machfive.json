@@ -1,0 +1,7 @@
+{
+  "name": "machfive",
+  "description": "Hyper-personalized cold email sequence generation via the MachFive API.",
+  "source_repo": "bluecraft-ai/machfive-mcp",
+  "source_url": "https://github.com/bluecraft-ai/machfive-mcp",
+  "install": "npx -y machfive-mcp"
+}

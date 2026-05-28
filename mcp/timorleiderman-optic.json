@@ -1,0 +1,7 @@
+{
+  "name": "timorleiderman-optic",
+  "description": "Connects USB cameras, IP cameras, and screen capture to enable image analysis, object detection, QR/barcode decoding, and real-time visual monitoring with token-efficient metadata responses.",
+  "source_repo": "timorleiderman/opticmcp",
+  "source_url": "https://github.com/timorleiderman/opticmcp",
+  "install": "# git clone --depth 1 https://github.com/timorleiderman/opticmcp\n# See source for mcpServers config block"
+}

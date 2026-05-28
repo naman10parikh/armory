@@ -1,0 +1,7 @@
+{
+  "name": "hairyhenderson-obsidian-tasks",
+  "description": "Parses Obsidian task data directly from markdown files with support for status filters, due date comparisons, tag inclusion and exclusion, path filtering, and description matching.",
+  "source_repo": "hairyhenderson/obsidian-tasks-mcp",
+  "source_url": "https://github.com/hairyhenderson/obsidian-tasks-mcp",
+  "install": "npx -y obsidian-tasks-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "medusa",
+  "description": "Access Medusa e-commerce platform documentation",
+  "source_repo": "",
+  "source_url": "https://docs.medusajs.com/learn/introduction/build-with-llms-ai",
+  "install": "# git clone --depth 1 https://docs.medusajs.com/learn/introduction/build-with-llms-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "holocode-ai-gemini",
+  "description": "Integrates with Google Gemini AI services to provide text-to-image generation, image editing, multi-image composition, and text-to-video creation using Imagen 4.0 and Veo 3.0 models with configurable quality settings and automatic file saving.",
+  "source_repo": "holocode-ai/gemini-mcp",
+  "source_url": "https://github.com/holocode-ai/gemini-mcp",
+  "install": "npx -y gemini-mcp"
+}

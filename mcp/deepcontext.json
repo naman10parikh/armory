@@ -1,0 +1,7 @@
+{
+  "name": "deepcontext",
+  "description": "Adds symbol-aware semantic search to coding agents like Codex CLI and Claude Code, enabling precise codebase context via natural language queries.",
+  "source_repo": "Wildcard-Official/deepcontext-mcp",
+  "source_url": "https://github.com/Wildcard-Official/deepcontext-mcp",
+  "install": "npx -y deepcontext-mcp"
+}

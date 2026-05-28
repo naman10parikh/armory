@@ -1,0 +1,7 @@
+{
+  "name": "n8n-mcp-server-2",
+  "description": "N8n Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "lowprofix/n8n-mcp-server",
+  "source_url": "https://mcp.so/server/n8n-mcp-server/lowprofix",
+  "install": "npx -y n8n-mcp-server"
+}

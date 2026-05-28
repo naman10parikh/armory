@@ -1,0 +1,7 @@
+{
+  "name": "a2a-insecure-demo",
+  "description": "Demonstration of A2A protocol with insecure settings",
+  "source_repo": "kenhuangus/a2a-insecure-demo",
+  "source_url": "https://github.com/kenhuangus/a2a-insecure-demo",
+  "install": "# git clone --depth 1 https://github.com/kenhuangus/a2a-insecure-demo\n# See source for mcpServers config block"
+}

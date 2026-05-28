@@ -1,0 +1,7 @@
+{
+  "name": "pgedge-postgres",
+  "description": "Enterprise PostgreSQL server with natural language queries, hybrid search using pgvector and BM25, and a web UI.",
+  "source_repo": "pgedge/pgedge-postgres-mcp",
+  "source_url": "https://github.com/pgedge/pgedge-postgres-mcp",
+  "install": "npx -y pgedge-postgres-mcp"
+}

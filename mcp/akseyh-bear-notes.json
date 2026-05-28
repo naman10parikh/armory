@@ -1,0 +1,7 @@
+{
+  "name": "akseyh-bear-notes",
+  "description": "Integrates with Bear notes on macOS, providing direct database access for efficient retrieval and analysis of personal note content.",
+  "source_repo": "akseyh/bear-mcp-server",
+  "source_url": "https://github.com/akseyh/bear-mcp-server",
+  "install": "npx -y bear-mcp-server"
+}

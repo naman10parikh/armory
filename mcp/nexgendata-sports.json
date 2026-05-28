@@ -1,0 +1,7 @@
+{
+  "name": "nexgendata-sports",
+  "description": "Retrieve sports scores, statistics, and analytics through Apify's web scraping infrastructure.",
+  "source_repo": "",
+  "source_url": "https://apify.com/nexgendata/sports-mcp-server",
+  "install": "# git clone --depth 1 https://apify.com/nexgendata/sports-mcp-server\n# See source for mcpServers config block"
+}

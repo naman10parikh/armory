@@ -1,0 +1,7 @@
+{
+  "name": "justinpbarnett-unity",
+  "description": "Allow MCP clients to perform Unity Editor actions.",
+  "source_repo": "coplaydev/unity-mcp",
+  "source_url": "https://github.com/coplaydev/unity-mcp",
+  "install": "npx -y unity-mcp"
+}

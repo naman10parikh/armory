@@ -1,0 +1,7 @@
+{
+  "name": "michaelzag-migadu",
+  "description": "Integrates with Migadu's email hosting API to manage mailboxes, aliases, identities, and rewrite rules with bulk operations, password resets, and autoresponder configuration.",
+  "source_repo": "michaelzag/migadu-mcp",
+  "source_url": "https://github.com/michaelzag/migadu-mcp",
+  "install": "npx -y migadu-mcp"
+}

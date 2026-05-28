@@ -1,0 +1,7 @@
+{
+  "name": "sequential-thinking",
+  "description": "Sequential Thinking MCP server listed on mcp.so.",
+  "source_repo": "modelcontextprotocol/sequential-thinking",
+  "source_url": "https://mcp.so/server/sequential-thinking/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://mcp.so/server/sequential-thinking/modelcontextprotocol\n# See source for mcpServers config block"
+}

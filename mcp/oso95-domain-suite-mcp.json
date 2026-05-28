@@ -1,0 +1,7 @@
+{
+  "name": "oso95-domain-suite-mcp",
+  "description": "Full domain lifecycle management: availability checking (zero config), registration, DNS, SSL, email auth (SPF/DKIM/DMARC), and WHOIS across Porkbun, Namecheap, GoDaddy, and Cloudflare. 21 tools.",
+  "source_repo": "oso95/domain-suite-mcp",
+  "source_url": "https://github.com/oso95/domain-suite-mcp",
+  "install": "npx -y domain-suite-mcp"
+}

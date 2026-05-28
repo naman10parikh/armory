@@ -1,0 +1,7 @@
+{
+  "name": "milsonson-rdkit-3d-molecular-viewer",
+  "description": "Generates interactive 3D molecular structures from SMILES or InChI inputs with RDKit conformer generation, 3Dmol.js visualization, multiple rendering styles, and measurement tools.",
+  "source_repo": "milsonson/rdkit-mcp",
+  "source_url": "https://github.com/milsonson/rdkit-mcp",
+  "install": "npx -y rdkit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "v4lheru-trello",
+  "description": "Provides a bridge to Trello for creating and managing boards, lists, cards, labels, members, and checklists through TypeScript-based service handlers that handle authentication and API communication.",
+  "source_repo": "v4lheru/trello-mcp-server",
+  "source_url": "https://github.com/v4lheru/trello-mcp-server",
+  "install": "npx -y trello-mcp-server"
+}

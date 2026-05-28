@@ -1,0 +1,7 @@
+{
+  "name": "jseborga-odoo-18-ce",
+  "description": "Manage Odoo 18 Community Edition from Claude Code with tools for modules, records, and model inspection.",
+  "source_repo": "jseborga/odoo18-mcp",
+  "source_url": "https://github.com/jseborga/odoo18-mcp",
+  "install": "npx -y odoo18-mcp"
+}

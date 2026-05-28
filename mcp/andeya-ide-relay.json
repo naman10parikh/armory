@@ -1,0 +1,7 @@
+{
+  "name": "andeya-ide-relay",
+  "description": "Provides a native desktop feedback window for pausing AI agent requests and collecting human input.",
+  "source_repo": "andeya/ide-relay-mcp",
+  "source_url": "https://github.com/andeya/ide-relay-mcp",
+  "install": "npx -y ide-relay-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pepabo-colormeshop-mcp",
+  "description": "Official remote MCP server for Color Me Shop (GMO Pepabo), a Japanese e-commerce platform. Manage orders, products, inventory, customers, coupons, and shop settings via natural language.",
+  "source_repo": "pepabo/colormeshop-mcp",
+  "source_url": "https://github.com/pepabo/colormeshop-mcp",
+  "install": "npx -y colormeshop-mcp"
+}

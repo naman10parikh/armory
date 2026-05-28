@@ -1,0 +1,7 @@
+{
+  "name": "docherty-contextmgr",
+  "description": "Provides a structured workflow management system for software development projects, maintaining context across sessions through state tracking of projects, tasks, and file changes from triage through QA phases.",
+  "source_repo": "docherty/contextmgr-mcp",
+  "source_url": "https://github.com/docherty/contextmgr-mcp",
+  "install": "npx -y contextmgr-mcp"
+}

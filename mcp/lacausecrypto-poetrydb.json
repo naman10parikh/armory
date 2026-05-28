@@ -1,0 +1,7 @@
+{
+  "name": "lacausecrypto-poetrydb",
+  "description": "Classic poetry search and discovery via the PoetryDB API, with access to poems by author, title, and text content.",
+  "source_repo": "lacausecrypto/mcp-poetrydb",
+  "source_url": "https://github.com/lacausecrypto/mcp-poetrydb",
+  "install": "# git clone --depth 1 https://github.com/lacausecrypto/mcp-poetrydb\n# See source for mcpServers config block"
+}

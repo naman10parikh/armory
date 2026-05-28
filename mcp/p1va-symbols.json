@@ -1,0 +1,7 @@
+{
+  "name": "p1va-symbols",
+  "description": "Explore and navigate codebase symbols by connecting to language servers",
+  "source_repo": "p1va/symbols",
+  "source_url": "https://github.com/p1va/symbols",
+  "install": "# git clone --depth 1 https://github.com/p1va/symbols\n# See source for mcpServers config block"
+}

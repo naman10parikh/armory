@@ -1,0 +1,7 @@
+{
+  "name": "milofax-xert-mcp",
+  "description": "MCP server for XERT cycling analytics — access fitness signature (FTP, HIE, PP), training status, workouts, activities with XSS metrics, and MPA analysis.",
+  "source_repo": "Milofax/xert-mcp",
+  "source_url": "https://github.com/Milofax/xert-mcp",
+  "install": "npx -y xert-mcp"
+}

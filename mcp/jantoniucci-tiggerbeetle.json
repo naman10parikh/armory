@@ -1,0 +1,7 @@
+{
+  "name": "jantoniucci-tiggerbeetle",
+  "description": "Integrates with TigerBeetle to enable creating and configuring high-performance accounting database accounts through a Spring Boot server with stdio-based connections.",
+  "source_repo": "jantoniucci/mcp-tiggerbeetle",
+  "source_url": "https://github.com/jantoniucci/mcp-tiggerbeetle",
+  "install": "# git clone --depth 1 https://github.com/jantoniucci/mcp-tiggerbeetle\n# See source for mcpServers config block"
+}

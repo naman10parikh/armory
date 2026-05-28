@@ -1,0 +1,7 @@
+{
+  "name": "libres-coder-parseflow",
+  "description": "Document parsing library supporting PDF, Word, Excel, PowerPoint, and image OCR",
+  "source_repo": "libres-coder/parseflow",
+  "source_url": "https://github.com/libres-coder/parseflow",
+  "install": "# git clone --depth 1 https://github.com/libres-coder/parseflow\n# See source for mcpServers config block"
+}

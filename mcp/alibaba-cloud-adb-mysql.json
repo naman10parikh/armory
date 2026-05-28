@@ -1,0 +1,7 @@
+{
+  "name": "alibaba-cloud-adb-mysql",
+  "description": "Connects to Alibaba Cloud's Adb MySQL databases for executing SQL queries, analyzing query plans, and retrieving database metadata with minimal configuration requirements",
+  "source_repo": "aliyun/alibabacloud-adb-mysql-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-adb-mysql-mcp-server",
+  "install": "npx -y alibabacloud-adb-mysql-mcp-server"
+}

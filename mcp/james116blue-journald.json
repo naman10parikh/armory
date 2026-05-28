@@ -1,0 +1,7 @@
+{
+  "name": "james116blue-journald",
+  "description": "Query systemd journal logs with natural language datetime support",
+  "source_repo": "james116blue/journald-mcp-server",
+  "source_url": "https://github.com/james116blue/journald-mcp-server",
+  "install": "npx -y journald-mcp-server"
+}

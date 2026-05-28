@@ -1,0 +1,7 @@
+{
+  "name": "paulsmith-tailscale-network-monitor",
+  "description": "Provides read-only access to your Tailscale network for monitoring connected devices, checking network status, running diagnostics, and querying exit nodes without modifying configuration.",
+  "source_repo": "paulsmith/tailscale-mcp-server",
+  "source_url": "https://github.com/paulsmith/tailscale-mcp-server",
+  "install": "npx -y tailscale-mcp-server"
+}

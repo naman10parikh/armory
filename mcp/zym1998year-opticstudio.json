@@ -1,0 +1,7 @@
+{
+  "name": "zym1998year-opticstudio",
+  "description": "Control Ansys Zemax OpticStudio for AI-assisted optical system design, analysis, and optimization via MCP.",
+  "source_repo": "zym1998year/opticstudiomcpserver",
+  "source_url": "https://github.com/zym1998year/opticstudiomcpserver",
+  "install": "# git clone --depth 1 https://github.com/zym1998year/opticstudiomcpserver\n# See source for mcpServers config block"
+}

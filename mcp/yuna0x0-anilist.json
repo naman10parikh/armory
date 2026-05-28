@@ -1,0 +1,7 @@
+{
+  "name": "yuna0x0-anilist",
+  "description": "Integrates with Anilist's anime/manga database through GraphQL queries, enabling search, retrieval, and analysis of Japanese media information for accurate conversations about anime and manga.",
+  "source_repo": "yuna0x0/anilist-mcp",
+  "source_url": "https://github.com/yuna0x0/anilist-mcp",
+  "install": "npx -y anilist-mcp"
+}

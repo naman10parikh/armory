@@ -1,0 +1,7 @@
+{
+  "name": "cryptoradi-schemaflow",
+  "description": "Provides real-time PostgreSQL schema access through cloud-based caching, delivering cached database structure information including tables, columns, relationships, functions, triggers, enums, and indexes with schema validation and performance insights.",
+  "source_repo": "cryptoradi/schemaflow-mcp-server",
+  "source_url": "https://github.com/cryptoradi/schemaflow-mcp-server",
+  "install": "npx -y schemaflow-mcp-server"
+}

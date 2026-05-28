@@ -1,0 +1,7 @@
+{
+  "name": "zanzythebar-memory-libsql",
+  "description": "High-performance Go implementation of persistent memory storage using libSQL with vector search capabilities, managing knowledge graphs through entities, observations, and relations with multi-project support and compatibility with both local SQLite files and remote libSQL servers like Turso.",
+  "source_repo": "zanzythebar/mcp-memory-libsql-go",
+  "source_url": "https://github.com/zanzythebar/mcp-memory-libsql-go",
+  "install": "# git clone --depth 1 https://github.com/zanzythebar/mcp-memory-libsql-go\n# See source for mcpServers config block"
+}

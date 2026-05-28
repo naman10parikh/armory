@@ -1,0 +1,7 @@
+{
+  "name": "9-trinkets-projectbrain",
+  "description": "Project planning and execution platform with tools for tasks, decisions, milestones, and team messaging.",
+  "source_repo": "9-trinkets/projectbrain-mcp",
+  "source_url": "https://github.com/9-trinkets/projectbrain-mcp",
+  "install": "npx -y projectbrain-mcp"
+}

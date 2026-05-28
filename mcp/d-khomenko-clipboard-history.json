@@ -1,0 +1,7 @@
+{
+  "name": "d-khomenko-clipboard-history",
+  "description": "15-tool clipboard history server with type classification, secret detection, biometric auth, and full-text search backed by SQLite.",
+  "source_repo": "d-khomenko/clipboard-history-mcp",
+  "source_url": "https://github.com/d-khomenko/clipboard-history-mcp",
+  "install": "npx -y clipboard-history-mcp"
+}

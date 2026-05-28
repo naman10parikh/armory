@@ -1,0 +1,7 @@
+{
+  "name": "metoro-mcp-server",
+  "description": "MCP server enabling AI assistants to query and analyze Kubernetes telemetry data collected via eBPF instrumentation for observability and optimization.",
+  "source_repo": "metoro-io/metoro-mcp-server",
+  "source_url": "https://github.com/metoro-io/metoro-mcp-server",
+  "install": "npx -y metoro-mcp-server"
+}

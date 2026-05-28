@@ -1,0 +1,7 @@
+{
+  "name": "predictive-maintenance-mcp-server",
+  "description": "Enables AI assistants to analyze vibration data, detect machinery faults, and generate professional diagnostic reports through natural conversation.",
+  "source_repo": "LGDiMaggio/predictive-maintenance-mcp",
+  "source_url": "https://github.com/LGDiMaggio/predictive-maintenance-mcp",
+  "install": "npx -y predictive-maintenance-mcp"
+}

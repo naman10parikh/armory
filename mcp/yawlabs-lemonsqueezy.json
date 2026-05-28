@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-lemonsqueezy",
+  "description": "Manage LemonSqueezy stores, products, subscriptions, and customers through 61 tools with built-in guardrails for safe agentic use.",
+  "source_repo": "yawlabs/lemonsqueezy-mcp",
+  "source_url": "https://github.com/yawlabs/lemonsqueezy-mcp",
+  "install": "npx -y lemonsqueezy-mcp"
+}

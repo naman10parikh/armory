@@ -1,0 +1,7 @@
+{
+  "name": "avrodotter-nutrition-maxing",
+  "description": "Log food intake and track daily nutrition macros using natural language input, synced to Notion.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/avrodotter-nutrition-maxing",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/avrodotter-nutrition-maxing\n# See source for mcpServers config block"
+}

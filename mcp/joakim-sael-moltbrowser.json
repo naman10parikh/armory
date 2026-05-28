@@ -1,0 +1,7 @@
+{
+  "name": "joakim-sael-moltbrowser",
+  "description": "Browser automation server built on Playwright with a community hub for sharing and discovering browser automation scripts.",
+  "source_repo": "joakim-sael/moltbrowser",
+  "source_url": "https://github.com/joakim-sael/moltbrowser",
+  "install": "# git clone --depth 1 https://github.com/joakim-sael/moltbrowser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-financial-compliance-audit-framework",
+  "description": "A production-grade MCP server that automates financial compliance audits by combining LLMs with structured analysis, enabling policy validation, risk profiling, and automated reporting.",
+  "source_repo": "nikhil-sharma-dotcom/MCP-Server",
+  "source_url": "https://github.com/nikhil-sharma-dotcom/MCP-Server",
+  "install": "# git clone --depth 1 https://github.com/nikhil-sharma-dotcom/MCP-Server\n# See source for mcpServers config block"
+}

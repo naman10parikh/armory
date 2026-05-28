@@ -1,0 +1,7 @@
+{
+  "name": "relaxcloud-cn-port-scanner",
+  "description": "Provides network port scanning, HTTP service discovery, and admin directory enumeration with banner grabbing, service version detection, and concurrent scanning operations for security reconnaissance and infrastructure auditing.",
+  "source_repo": "relaxcloud-cn/mcp-port-scanner",
+  "source_url": "https://github.com/relaxcloud-cn/mcp-port-scanner",
+  "install": "# git clone --depth 1 https://github.com/relaxcloud-cn/mcp-port-scanner\n# See source for mcpServers config block"
+}

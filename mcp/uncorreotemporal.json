@@ -1,0 +1,7 @@
+{
+  "name": "uncorreotemporal",
+  "description": "Temporary email for AI agents — create inboxes, wait for verification emails, extract OTPs, and automate signup flows.",
+  "source_repo": "francofuji/uncorreotemporal-mcp-server",
+  "source_url": "https://github.com/francofuji/uncorreotemporal-mcp-server",
+  "install": "npx -y uncorreotemporal-mcp-server"
+}

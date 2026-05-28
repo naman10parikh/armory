@@ -1,0 +1,7 @@
+{
+  "name": "options-analysis-suite",
+  "description": "MCP server for options analytics including 17 pricing models, Greeks, GEX, IV surface, 23 screeners, dark pool, and max pain data.",
+  "source_repo": "options-analysis-suite/options-analysis-suite-mcp",
+  "source_url": "https://github.com/options-analysis-suite/options-analysis-suite-mcp",
+  "install": "npx -y options-analysis-suite-mcp"
+}

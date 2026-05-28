@@ -1,0 +1,7 @@
+{
+  "name": "dphoeniixx-djeb",
+  "description": "Integrates with JEB decompiler through a Python-Jython bridge to enable direct Android APK analysis, method decompilation, code element manipulation, cross-reference analysis, manifest extraction, and automated refactoring operations for reverse engineering and security assessment workflows.",
+  "source_repo": "dphoeniixx/djeb_mcp_server",
+  "source_url": "https://github.com/dphoeniixx/djeb_mcp_server",
+  "install": "npx -y djeb_mcp_server"
+}

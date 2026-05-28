@@ -1,0 +1,7 @@
+{
+  "name": "ip2whois-mcp-ip2whois",
+  "description": "MCP server that provides comprehensive WHOIS lookup capabilities using the IP2WHOIS API. This server allows AI agents to query domain registration details, including expiry dates, registrar information, and registrant data.",
+  "source_repo": "ip2whois/mcp-ip2whois",
+  "source_url": "https://github.com/ip2whois/mcp-ip2whois",
+  "install": "# git clone --depth 1 https://github.com/ip2whois/mcp-ip2whois\n# See source for mcpServers config block"
+}

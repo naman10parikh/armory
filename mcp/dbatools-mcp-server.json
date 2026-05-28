@@ -1,0 +1,7 @@
+{
+  "name": "dbatools-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for the dbatools PowerShell module. Exposes dbatools commands as MCP tools so AI assistants can discover, explain, and execute dbatools commands directly.",
+  "source_repo": "dataplat/dbatools-mcp-server",
+  "source_url": "https://github.com/dataplat/dbatools-mcp-server",
+  "install": "npx -y dbatools-mcp-server"
+}

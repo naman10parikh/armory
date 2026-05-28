@@ -1,0 +1,7 @@
+{
+  "name": "chainflip-broker",
+  "description": "Cross-chain cryptocurrency swaps via Chainflip with quote generation, swap execution, and progress tracking.",
+  "source_repo": "",
+  "source_url": "https://chainflip-broker.io",
+  "install": "# git clone --depth 1 https://chainflip-broker.io\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "browser-agent",
+  "description": "Browser automation with AI agent.",
+  "source_repo": "runbook-ai/runbook-ai-mcp",
+  "source_url": "https://github.com/runbook-ai/runbook-ai-mcp",
+  "install": "npx -y runbook-ai-mcp"
+}

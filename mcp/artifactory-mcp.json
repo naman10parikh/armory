@@ -1,0 +1,7 @@
+{
+  "name": "artifactory-mcp",
+  "description": "Enables AI assistants to query Maven artifacts in JFrog Artifactory by reusing credentials from ~/.m2/settings.xml and providing tools like getting latest stable versions, listing artifacts, and checking dependency updates.",
+  "source_repo": "charanchelloju/artifactory-mcp",
+  "source_url": "https://github.com/charanchelloju/artifactory-mcp",
+  "install": "npx -y artifactory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unibaseio-membase-mcp",
+  "description": "Save and query your agent memory in distributed way by Membase",
+  "source_repo": "unibaseio/membase-mcp",
+  "source_url": "https://github.com/unibaseio/membase-mcp",
+  "install": "npx -y membase-mcp"
+}

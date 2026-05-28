@@ -1,0 +1,7 @@
+{
+  "name": "andrelandgraf-home-assistant",
+  "description": "Demonstrates light control in Home Assistant by comparing OpenAI function calling with a standardized protocol for external tool interaction",
+  "source_repo": "andrelandgraf/mcp-vs-function-calling",
+  "source_url": "https://github.com/andrelandgraf/mcp-vs-function-calling",
+  "install": "# git clone --depth 1 https://github.com/andrelandgraf/mcp-vs-function-calling\n# See source for mcpServers config block"
+}

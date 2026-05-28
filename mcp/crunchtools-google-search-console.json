@@ -1,0 +1,7 @@
+{
+  "name": "crunchtools-google-search-console",
+  "description": "Query search analytics, manage sitemaps, and inspect URL indexing status via Google Search Console API.",
+  "source_repo": "crunchtools/mcp-google-search-console",
+  "source_url": "https://github.com/crunchtools/mcp-google-search-console",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-google-search-console\n# See source for mcpServers config block"
+}

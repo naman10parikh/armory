@@ -1,0 +1,7 @@
+{
+  "name": "mcp-man-pages-server",
+  "description": "Provides AI assistants with access to Linux man pages for searching, retrieving, and exploring system documentation.",
+  "source_repo": "guyru/man-mcp-server",
+  "source_url": "https://github.com/guyru/man-mcp-server",
+  "install": "npx -y man-mcp-server"
+}

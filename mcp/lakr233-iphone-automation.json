@@ -1,0 +1,7 @@
+{
+  "name": "lakr233-iphone-automation",
+  "description": "Provides iPhone automation capabilities through Appium and XCUITest, enabling device control, app launching, UI interaction, and screenshot capture with optimized XML filtering and JPEG compression for testing and demonstration workflows.",
+  "source_repo": "lakr233/iphone-mcp",
+  "source_url": "https://github.com/lakr233/iphone-mcp",
+  "install": "npx -y iphone-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vdineshk-ai-compliance-monitor",
+  "description": "Regulatory intelligence for AI agents covering EU AI Act, Singapore IMDA, and Colorado AI Act.",
+  "source_repo": "vdineshk/ai-compliance-monitor",
+  "source_url": "https://github.com/vdineshk/ai-compliance-monitor",
+  "install": "# git clone --depth 1 https://github.com/vdineshk/ai-compliance-monitor\n# See source for mcpServers config block"
+}

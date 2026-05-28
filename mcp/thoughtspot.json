@@ -1,0 +1,7 @@
+{
+  "name": "thoughtspot",
+  "description": "OAuth-based analytics data querying from ThoughtSpot instances",
+  "source_repo": "thoughtspot/mcp-server",
+  "source_url": "https://github.com/thoughtspot/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/thoughtspot/mcp-server\n# See source for mcpServers config block"
+}

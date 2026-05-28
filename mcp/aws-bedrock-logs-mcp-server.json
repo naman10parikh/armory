@@ -1,0 +1,7 @@
+{
+  "name": "aws-bedrock-logs-mcp-server",
+  "description": "Aws Bedrock Logs Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "dheerajoruganty/aws-bedrock-logs-mcp-server",
+  "source_url": "https://mcp.so/server/aws-bedrock-logs-mcp-server/dheerajoruganty",
+  "install": "npx -y aws-bedrock-logs-mcp-server"
+}

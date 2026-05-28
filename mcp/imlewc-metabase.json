@@ -1,0 +1,7 @@
+{
+  "name": "imlewc-metabase",
+  "description": "Integrates with Metabase to enable querying dashboards, executing SQL, and retrieving structured data for data analysis and insights generation.",
+  "source_repo": "imlewc/metabase-server",
+  "source_url": "https://github.com/imlewc/metabase-server",
+  "install": "# git clone --depth 1 https://github.com/imlewc/metabase-server\n# See source for mcpServers config block"
+}

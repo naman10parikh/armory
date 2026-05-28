@@ -1,0 +1,7 @@
+{
+  "name": "gh-cphoskins-cronometer",
+  "description": "Access Cronometer nutrition data including food logs, macros, fasting, biometrics, and recurring foods.",
+  "source_repo": "cphoskins/cronometer-mcp",
+  "source_url": "https://github.com/cphoskins/cronometer-mcp",
+  "install": "npx -y cronometer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "j0hanz-cortex-mcp",
+  "description": "Multi-level reasoning with configurable depth.",
+  "source_repo": "j0hanz/cortex-mcp",
+  "source_url": "https://github.com/j0hanz/cortex-mcp",
+  "install": "npx -y cortex-mcp"
+}

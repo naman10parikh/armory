@@ -1,0 +1,7 @@
+{
+  "name": "clearml-mcp",
+  "description": "A lightweight Model Context Protocol (MCP) server that enables AI assistants to interact with ClearML experiments, models, and projects.",
+  "source_repo": "prassanna-ravishankar/clearml-mcp",
+  "source_url": "https://github.com/prassanna-ravishankar/clearml-mcp",
+  "install": "npx -y clearml-mcp"
+}

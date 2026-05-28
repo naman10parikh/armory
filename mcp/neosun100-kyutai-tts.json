@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-kyutai-tts",
+  "description": "Containerized text-to-speech service using Kyutai's neural TTS models with GPU-accelerated inference and streaming capabilities.",
+  "source_repo": "neosun100/kyutai-tts-docker",
+  "source_url": "https://github.com/neosun100/kyutai-tts-docker",
+  "install": "# git clone --depth 1 https://github.com/neosun100/kyutai-tts-docker\n# See source for mcpServers config block"
+}

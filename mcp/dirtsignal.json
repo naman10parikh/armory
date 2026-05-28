@@ -1,0 +1,7 @@
+{
+  "name": "dirtsignal",
+  "description": "Real estate lead generation and market data MCP server — search leads, look up property addresses, and browse market data.",
+  "source_repo": "",
+  "source_url": "https://dirtsignal.com",
+  "install": "# git clone --depth 1 https://dirtsignal.com\n# See source for mcpServers config block"
+}

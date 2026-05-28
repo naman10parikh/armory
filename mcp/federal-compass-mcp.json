@@ -1,0 +1,7 @@
+{
+  "name": "federal-compass-mcp",
+  "description": "An MCP server that connects Claude to the USAJobs API, enabling natural language search for federal jobs, translation of government jargon, CV qualification analysis, and explanation of federal concepts like GS grades and clearances.",
+  "source_repo": "skivuha/federal-compass-mcp",
+  "source_url": "https://github.com/skivuha/federal-compass-mcp",
+  "install": "npx -y federal-compass-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ndjordjevic-pinrag",
+  "description": "RAG system for indexing and querying PDFs, code repositories, YouTube transcripts, Discord logs, and plain text.",
+  "source_repo": "ndjordjevic/pinrag",
+  "source_url": "https://github.com/ndjordjevic/pinrag",
+  "install": "# git clone --depth 1 https://github.com/ndjordjevic/pinrag\n# See source for mcpServers config block"
+}

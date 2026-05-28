@@ -1,0 +1,7 @@
+{
+  "name": "ghost-browser-mcp",
+  "description": "Undetectable browser automation server for MCP-compatible AI agents, offering 225 tools across 32 sections to navigate, extract, clone pages, and bypass antibot systems like Cloudflare.",
+  "source_repo": "BU3NO77XL/Ghost_Browser_MCP",
+  "source_url": "https://github.com/BU3NO77XL/Ghost_Browser_MCP",
+  "install": "npx -y Ghost_Browser_MCP"
+}

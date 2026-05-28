@@ -1,0 +1,7 @@
+{
+  "name": "nowah-travel",
+  "description": "AI travel concierge with flights, hotels, 116M+ points of interest, visa requirements, live flight tracking, and trip management.",
+  "source_repo": "nowah-xyz/nowah-mcp-server",
+  "source_url": "https://github.com/nowah-xyz/nowah-mcp-server",
+  "install": "npx -y nowah-mcp-server"
+}

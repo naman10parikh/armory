@@ -1,0 +1,7 @@
+{
+  "name": "nickclyde-duckduckgo-search",
+  "description": "Integrates with DuckDuckGo to provide web search capabilities, content fetching, and parsing, with results formatted for large language model consumption.",
+  "source_repo": "nickclyde/duckduckgo-mcp-server",
+  "source_url": "https://github.com/nickclyde/duckduckgo-mcp-server",
+  "install": "npx -y duckduckgo-mcp-server"
+}

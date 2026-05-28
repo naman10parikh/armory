@@ -1,0 +1,7 @@
+{
+  "name": "dumbspacecookie-openeye",
+  "description": "AR/XR procedure verification with memory, visual sessions, and DPO trajectory export.",
+  "source_repo": "dumbspacecookie/openeye",
+  "source_url": "https://github.com/dumbspacecookie/openeye",
+  "install": "# git clone --depth 1 https://github.com/dumbspacecookie/openeye\n# See source for mcpServers config block"
+}

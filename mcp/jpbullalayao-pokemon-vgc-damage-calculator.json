@@ -1,0 +1,7 @@
+{
+  "name": "jpbullalayao-pokemon-vgc-damage-calculator",
+  "description": "Provides Pokemon VGC damage calculation capabilities using the Smogon calc library, computing battle damage ranges, KO probabilities, and detailed combat scenarios for competitive Pokemon analysis and strategy optimization.",
+  "source_repo": "jpbullalayao/pokemon-vgc-calc-mcp",
+  "source_url": "https://github.com/jpbullalayao/pokemon-vgc-calc-mcp",
+  "install": "npx -y pokemon-vgc-calc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bm1-phillip-hellohq",
+  "description": "Manages projects, tasks, documents, time tracking, and invoices in the helloHQ ERP platform.",
+  "source_repo": "bm1-de/hellohq-mcp",
+  "source_url": "https://github.com/bm1-de/hellohq-mcp",
+  "install": "npx -y hellohq-mcp"
+}

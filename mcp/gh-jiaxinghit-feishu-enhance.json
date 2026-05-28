@@ -1,0 +1,7 @@
+{
+  "name": "gh-jiaxinghit-feishu-enhance",
+  "description": "Monitors and processes Feishu/Lark messages with file upload, async tasks, and scheduled messaging.",
+  "source_repo": "jiaxinghit/feishu-enhance-mcp",
+  "source_url": "https://github.com/jiaxinghit/feishu-enhance-mcp",
+  "install": "npx -y feishu-enhance-mcp"
+}

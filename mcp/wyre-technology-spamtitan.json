@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-spamtitan",
+  "description": "Manages SpamTitan email security quarantine, allowlists, blocklists, and delivery statistics for MSP environments.",
+  "source_repo": "wyre-technology/spamtitan-mcp",
+  "source_url": "https://github.com/wyre-technology/spamtitan-mcp",
+  "install": "npx -y spamtitan-mcp"
+}

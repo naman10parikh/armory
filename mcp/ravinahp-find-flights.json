@@ -1,0 +1,7 @@
+{
+  "name": "ravinahp-find-flights",
+  "description": "Integrates with the Duffel API to provide streamlined flight search capabilities for tasks like travel planning, fare comparison, and building travel-related applications.",
+  "source_repo": "ravinahp/flights-mcp",
+  "source_url": "https://github.com/ravinahp/flights-mcp",
+  "install": "npx -y flights-mcp"
+}

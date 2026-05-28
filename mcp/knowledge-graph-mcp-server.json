@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-graph-mcp-server",
+  "description": "An MCP server for tracking student learning via a knowledge graph, with spaced repetition scheduling and intelligent queries to identify gaps, misconceptions, and optimal next steps.",
+  "source_repo": "zcsabbagh/knowledge-graph-mcp",
+  "source_url": "https://github.com/zcsabbagh/knowledge-graph-mcp",
+  "install": "npx -y knowledge-graph-mcp"
+}

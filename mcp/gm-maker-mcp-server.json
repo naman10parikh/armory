@@ -1,0 +1,7 @@
+{
+  "name": "gm-maker-mcp-server",
+  "description": "Enables AI-assisted GameMaker project development in Cursor IDE, allowing users to create projects, add scripts, objects, and sprites using natural language.",
+  "source_repo": "darkw3bb/GameMaker-MCP-Server",
+  "source_url": "https://github.com/darkw3bb/GameMaker-MCP-Server",
+  "install": "npx -y GameMaker-MCP-Server"
+}

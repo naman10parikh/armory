@@ -1,0 +1,7 @@
+{
+  "name": "codeforces-mcp-server",
+  "description": "Codeforces MCP Tools supercharges your AI with live competitive programming data. With 11 strictly-typed tools, it enables your AI agent to: 📊 Pull live user statistics, ratings, and peak performance metrics. 🎯 Map out topic-specific strengths and weaknesses to highlight growth areas. 💡 Recommend",
+  "source_repo": "",
+  "source_url": "https://www.npmjs.com/package/codeforces-mcp-tools",
+  "install": "npx -y codeforces-mcp-tools"
+}

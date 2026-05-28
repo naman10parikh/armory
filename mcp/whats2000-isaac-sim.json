@@ -1,0 +1,7 @@
+{
+  "name": "whats2000-isaac-sim",
+  "description": "Control NVIDIA Isaac Sim robotics simulator through natural language with a comprehensive tool set.",
+  "source_repo": "whats2000/isaacsim-mcp-server",
+  "source_url": "https://github.com/whats2000/isaacsim-mcp-server",
+  "install": "npx -y isaacsim-mcp-server"
+}

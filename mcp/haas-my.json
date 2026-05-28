@@ -1,0 +1,7 @@
+{
+  "name": "haas-my",
+  "description": "Human-as-a-Service platform providing on-demand verified humans for AI agent tasks via MCP and REST API.",
+  "source_repo": "",
+  "source_url": "https://haas.my/api/mcp",
+  "install": "# git clone --depth 1 https://haas.my/api/mcp\n# See source for mcpServers config block"
+}

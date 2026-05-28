@@ -1,0 +1,7 @@
+{
+  "name": "alexzeitler-rails-diff",
+  "description": "Rails version diff comparison through GitHub API integration.",
+  "source_repo": "alexzeitler/rails-diff-mcp",
+  "source_url": "https://github.com/alexzeitler/rails-diff-mcp",
+  "install": "npx -y rails-diff-mcp"
+}

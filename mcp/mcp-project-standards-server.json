@@ -1,0 +1,7 @@
+{
+  "name": "mcp-project-standards-server",
+  "description": "Manages project standards, configurations, and API debugging for AI-assisted development, ensuring unified development practices across teams and machines.",
+  "source_repo": "liliangshan/mcp-server-project-standards",
+  "source_url": "https://github.com/liliangshan/mcp-server-project-standards",
+  "install": "# git clone --depth 1 https://github.com/liliangshan/mcp-server-project-standards\n# See source for mcpServers config block"
+}

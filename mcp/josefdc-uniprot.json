@@ -1,0 +1,7 @@
+{
+  "name": "josefdc-uniprot",
+  "description": "Integrates with UniProtKB protein database to provide complete protein entries, sequences, filtered searches, and ID mapping between 200+ database types for bioinformatics workflows and protein research.",
+  "source_repo": "josefdc/uniprot-mcp",
+  "source_url": "https://github.com/josefdc/uniprot-mcp",
+  "install": "npx -y uniprot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "citizen-infra-open-collective",
+  "description": "Manages Open Collective pages with tools for profiles, posts, projects, tiers, and finances.",
+  "source_repo": "citizen-infra/open-collective-mcp",
+  "source_url": "https://github.com/citizen-infra/open-collective-mcp",
+  "install": "npx -y open-collective-mcp"
+}

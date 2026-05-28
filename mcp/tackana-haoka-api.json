@@ -1,0 +1,7 @@
+{
+  "name": "tackana-haoka-api",
+  "description": "Integrates with the Haoka API to provide authenticated access to Haoka's data and services through HTTP requests with environment-based token configuration.",
+  "source_repo": "tackana/haokaquery172_mcp",
+  "source_url": "https://github.com/tackana/haokaquery172_mcp",
+  "install": "npx -y haokaquery172_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "characat0-databricks",
+  "description": "Provides a bridge between AI and Databricks workspaces, enabling interaction with data catalogs, schemas, tables, and SQL warehouses for direct querying and analysis of Databricks data.",
+  "source_repo": "characat0/databricks-mcp-server",
+  "source_url": "https://github.com/characat0/databricks-mcp-server",
+  "install": "npx -y databricks-mcp-server"
+}

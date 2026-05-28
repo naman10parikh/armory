@@ -1,0 +1,7 @@
+{
+  "name": "evidai-alpaca-guard",
+  "description": "Trade US stocks via Alpaca Markets with a hard daily USD spending cap that blocks over-budget orders.",
+  "source_repo": "evidai/agent-payment-mcp",
+  "source_url": "https://github.com/evidai/agent-payment-mcp/tree/HEAD/alpaca-guard-mcp",
+  "install": "npx -y agent-payment-mcp"
+}

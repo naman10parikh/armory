@@ -1,0 +1,7 @@
+{
+  "name": "jmcomic-ai",
+  "description": "MCP server enabling AI agents to search, download, and manage JMComic manga via natural language, with dynamic configuration and skill injection.",
+  "source_repo": "hect0x7/jmcomic-ai",
+  "source_url": "https://github.com/hect0x7/jmcomic-ai",
+  "install": "# git clone --depth 1 https://github.com/hect0x7/jmcomic-ai\n# See source for mcpServers config block"
+}

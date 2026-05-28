@@ -1,0 +1,7 @@
+{
+  "name": "nicogis-arcgis-pro",
+  "description": "Bridges ArcGIS Pro desktop GIS software through a .NET add-in and IPC communication to enable spatial analysis, map creation, and GIS workflow automation without requiring direct API access.",
+  "source_repo": "nicogis/mcp-server-arcgis-pro-addin",
+  "source_url": "https://github.com/nicogis/mcp-server-arcgis-pro-addin",
+  "install": "# git clone --depth 1 https://github.com/nicogis/mcp-server-arcgis-pro-addin\n# See source for mcpServers config block"
+}

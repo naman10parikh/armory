@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-copilot",
+  "description": "A meta MCP server that scales LLMs to 1000+ servers via automatic routing, without exposing all servers and tools directly.",
+  "source_repo": "tshu-w/mcp-copilot",
+  "source_url": "https://github.com/tshu-w/mcp-copilot",
+  "install": "# git clone --depth 1 https://github.com/tshu-w/mcp-copilot\n# See source for mcpServers config block"
+}

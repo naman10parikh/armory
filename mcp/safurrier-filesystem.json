@@ -1,0 +1,7 @@
+{
+  "name": "safurrier-filesystem",
+  "description": "Provides secure, token-efficient access to local filesystems with advanced capabilities including line-targeted reading/editing, powerful search through ripgrep, and intelligent context management for large files and codebases.",
+  "source_repo": "safurrier/mcp-filesystem",
+  "source_url": "https://github.com/safurrier/mcp-filesystem",
+  "install": "# git clone --depth 1 https://github.com/safurrier/mcp-filesystem\n# See source for mcpServers config block"
+}

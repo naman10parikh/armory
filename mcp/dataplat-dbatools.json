@@ -1,0 +1,7 @@
+{
+  "name": "dataplat-dbatools",
+  "description": "SQL Server database administration through dbatools PowerShell module with instance management, backup, and migration tools.",
+  "source_repo": "dataplat/dbatools-mcp-server",
+  "source_url": "https://github.com/dataplat/dbatools-mcp-server",
+  "install": "npx -y dbatools-mcp-server"
+}

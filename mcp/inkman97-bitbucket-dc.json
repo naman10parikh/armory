@@ -1,0 +1,7 @@
+{
+  "name": "inkman97-bitbucket-dc",
+  "description": "MCP server for self-hosted Bitbucket Data Center with 17 tools for repository management, branching, and pull request operations.",
+  "source_repo": "inkman97/bitbucket-dc-mcp",
+  "source_url": "https://github.com/inkman97/bitbucket-dc-mcp",
+  "install": "npx -y bitbucket-dc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jaldekoa-fredapi",
+  "description": "Integrates with the Federal Reserve Economic Data (FRED) API to retrieve economic time series data with customizable parameters for date ranges, frequency aggregation, and data transformations.",
+  "source_repo": "jaldekoa/mcp-fredapi",
+  "source_url": "https://github.com/jaldekoa/mcp-fredapi",
+  "install": "# git clone --depth 1 https://github.com/jaldekoa/mcp-fredapi\n# See source for mcpServers config block"
+}

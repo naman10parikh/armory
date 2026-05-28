@@ -1,0 +1,7 @@
+{
+  "name": "hikmahtech-drwhome",
+  "description": "Remote MCP server at `https://drwho.me/mcp/mcp` with 10 developer utilities: base64 encode/decode, JWT decode (no verify), DNS lookup via Cloudflare DoH, UUID v4/v7, URL encode/decode, JSON format, User-Agent parse, IP lookup via ipinfo. Open access over streamable HTTP — point Claude Desktop at the URL.",
+  "source_repo": "hikmahtech/drwhome",
+  "source_url": "https://github.com/hikmahtech/drwhome",
+  "install": "# git clone --depth 1 https://github.com/hikmahtech/drwhome\n# See source for mcpServers config block"
+}

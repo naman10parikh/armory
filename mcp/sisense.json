@@ -1,0 +1,7 @@
+{
+  "name": "sisense",
+  "description": "Query Sisense analytics dashboards and retrieve actionable business intelligence insights.",
+  "source_repo": "sisense/sisense-mcp-server",
+  "source_url": "https://github.com/sisense/sisense-mcp-server",
+  "install": "npx -y sisense-mcp-server"
+}

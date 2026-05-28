@@ -1,0 +1,7 @@
+{
+  "name": "ground",
+  "description": "Reference data API for classification systems, real-time world data, and unit conversions.",
+  "source_repo": "",
+  "source_url": "https://ground.fyi",
+  "install": "# git clone --depth 1 https://ground.fyi\n# See source for mcpServers config block"
+}

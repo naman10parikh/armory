@@ -1,0 +1,7 @@
+{
+  "name": "vitrine3d-mcp",
+  "description": "3D product viewer platform with a visual editor. Upload GLB models, style scenes with lighting, camera, and backgrounds, and embed on any website. `npx @vitrine3d/mcp`",
+  "source_repo": "vitrine3d/mcp",
+  "source_url": "https://github.com/vitrine3d/mcp",
+  "install": "# git clone --depth 1 https://github.com/vitrine3d/mcp\n# See source for mcpServers config block"
+}

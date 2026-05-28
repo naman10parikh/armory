@@ -1,0 +1,7 @@
+{
+  "name": "harshitagr-codabench",
+  "description": "ML benchmark participant workflow automation via the Codabench REST API.",
+  "source_repo": "harshitagr/codabench-mcp",
+  "source_url": "https://github.com/harshitagr/codabench-mcp",
+  "install": "npx -y codabench-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpware-ui-annotator",
+  "description": "Adds interactive hover annotations to web pages via a reverse proxy, enabling AI assistants to reference visible UI elements.",
+  "source_repo": "mcpware/ui-annotator-mcp",
+  "source_url": "https://github.com/mcpware/ui-annotator-mcp",
+  "install": "npx -y ui-annotator-mcp"
+}

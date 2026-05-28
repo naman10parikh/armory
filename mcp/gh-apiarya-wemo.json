@@ -1,0 +1,7 @@
+{
+  "name": "gh-apiarya-wemo",
+  "description": "Control WeMo smart home devices with discovery, toggle, brightness, and HomeKit codes.",
+  "source_repo": "apiarya/wemo-mcp-server",
+  "source_url": "https://github.com/apiarya/wemo-mcp-server",
+  "install": "npx -y wemo-mcp-server"
+}

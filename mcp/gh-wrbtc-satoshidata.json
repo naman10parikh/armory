@@ -1,0 +1,7 @@
+{
+  "name": "gh-wrbtc-satoshidata",
+  "description": "Bitcoin wallet intelligence API with address labels, trust scoring, transaction analysis, and fee recommendations.",
+  "source_repo": "wrbtc/satoshidata-examples",
+  "source_url": "https://github.com/wrbtc/satoshidata-examples",
+  "install": "# git clone --depth 1 https://github.com/wrbtc/satoshidata-examples\n# See source for mcpServers config block"
+}

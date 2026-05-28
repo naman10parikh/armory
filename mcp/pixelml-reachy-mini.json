@@ -1,0 +1,7 @@
+{
+  "name": "pixelml-reachy-mini",
+  "description": "Controls Reachy Mini humanoid robots with dance choreography, emotional expressions, head movements, camera capture, and local text-to-speech with synchronized animations.",
+  "source_repo": "pixelml/reachy-mini-mcp",
+  "source_url": "https://github.com/pixelml/reachy-mini-mcp",
+  "install": "npx -y reachy-mini-mcp"
+}

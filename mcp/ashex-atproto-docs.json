@@ -1,0 +1,7 @@
+{
+  "name": "ashex-atproto-docs",
+  "description": "Searchable knowledge base for the AT Protocol ecosystem including protocol documentation, lexicon schemas, Bluesky developer API docs, and cookbook examples powered by semantic search.",
+  "source_repo": "ashex/atproto-mcp",
+  "source_url": "https://github.com/ashex/atproto-mcp",
+  "install": "npx -y atproto-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aicayzer-companies-house-uk",
+  "description": "Programmatic access to UK Companies House data for company lookups, officer searches, ownership tracing, and due diligence scanning.",
+  "source_repo": "aicayzer/companies-house-mcp",
+  "source_url": "https://github.com/aicayzer/companies-house-mcp",
+  "install": "npx -y companies-house-mcp"
+}

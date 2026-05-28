@@ -1,0 +1,7 @@
+{
+  "name": "annasmazhar-pyspark",
+  "description": "MCP server for running PySpark SQL queries and data transformations against Spark clusters.",
+  "source_repo": "annasmazhar/pyspark_mcp",
+  "source_url": "https://github.com/annasmazhar/pyspark_mcp",
+  "install": "npx -y pyspark_mcp"
+}

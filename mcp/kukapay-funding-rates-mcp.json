@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-funding-rates-mcp",
+  "description": "Providing real-time funding rate data across major crypto exchanges.",
+  "source_repo": "kukapay/funding-rates-mcp",
+  "source_url": "https://github.com/kukapay/funding-rates-mcp",
+  "install": "npx -y funding-rates-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "guilleheizen-the-truth",
+  "description": "Self-organizing markdown knowledge vault with Google Gemini auto-categorization and six tools for search, read, and save operations.",
+  "source_repo": "guilleheizen/the-truth-mcp",
+  "source_url": "https://github.com/guilleheizen/the-truth-mcp",
+  "install": "npx -y the-truth-mcp"
+}

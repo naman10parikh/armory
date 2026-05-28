@@ -1,0 +1,7 @@
+{
+  "name": "akkshay10-mockserver",
+  "description": "Programmatically control MockServer for HTTP mocking and request verification",
+  "source_repo": "akkshay10/mcpclientmock",
+  "source_url": "https://github.com/akkshay10/mcpclientmock",
+  "install": "# git clone --depth 1 https://github.com/akkshay10/mcpclientmock\n# See source for mcpServers config block"
+}

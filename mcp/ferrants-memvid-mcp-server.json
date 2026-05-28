@@ -1,0 +1,7 @@
+{
+  "name": "ferrants-memvid-mcp-server",
+  "description": "Python Streamable HTTP Server you can run locally to interact with [memvid](https://github.com/Olow304/memvid) storage and semantic search.",
+  "source_repo": "ferrants/memvid-mcp-server",
+  "source_url": "https://github.com/ferrants/memvid-mcp-server",
+  "install": "npx -y memvid-mcp-server"
+}

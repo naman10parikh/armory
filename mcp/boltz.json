@@ -1,0 +1,7 @@
+{
+  "name": "boltz",
+  "description": "Claude Desktop MCP extension for protein structure prediction, ligand binding estimation, and molecular design via Boltz computational biology tools.",
+  "source_repo": "boltz-bio/boltz-mcpb",
+  "source_url": "https://github.com/boltz-bio/boltz-mcpb",
+  "install": "# git clone --depth 1 https://github.com/boltz-bio/boltz-mcpb\n# See source for mcpServers config block"
+}

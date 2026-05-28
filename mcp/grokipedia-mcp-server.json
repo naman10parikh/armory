@@ -1,0 +1,7 @@
+{
+  "name": "grokipedia-mcp-server",
+  "description": "Enables searching and retrieving content from Grokipedia, with tools for page lookup, citations, sections, and related pages.",
+  "source_repo": "fastmcp-me/grokipedia-mcp",
+  "source_url": "https://github.com/fastmcp-me/grokipedia-mcp",
+  "install": "npx -y grokipedia-mcp"
+}

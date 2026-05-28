@@ -1,0 +1,7 @@
+{
+  "name": "mattmarcin-aqicn-air-quality",
+  "description": "Integrates with the World Air Quality Index API to retrieve real-time air quality data for cities and monitoring stations globally.",
+  "source_repo": "mattmarcin/aqicn-mcp",
+  "source_url": "https://github.com/mattmarcin/aqicn-mcp",
+  "install": "npx -y aqicn-mcp"
+}

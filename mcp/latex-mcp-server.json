@@ -1,0 +1,7 @@
+{
+  "name": "latex-mcp-server",
+  "description": "An MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex.",
+  "source_repo": "Yeok-c/latex-mcp-server",
+  "source_url": "https://github.com/Yeok-c/latex-mcp-server",
+  "install": "npx -y latex-mcp-server"
+}

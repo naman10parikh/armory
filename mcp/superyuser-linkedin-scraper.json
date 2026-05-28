@@ -1,0 +1,7 @@
+{
+  "name": "superyuser-linkedin-scraper",
+  "description": "Automates LinkedIn profile data extraction using Selenium WebDriver with anti-detection measures and progressive scrolling to scrape personal details, work experience, education, skills, and contact information for recruitment and lead generation.",
+  "source_repo": "superyuser/linkedin-scraper-mcp",
+  "source_url": "https://github.com/superyuser/linkedin-scraper-mcp",
+  "install": "npx -y linkedin-scraper-mcp"
+}

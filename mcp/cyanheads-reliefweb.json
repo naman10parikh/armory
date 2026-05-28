@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-reliefweb",
+  "description": "Search humanitarian reports, disasters, jobs, training, and country profiles from ReliefWeb.",
+  "source_repo": "cyanheads/reliefweb-mcp-server",
+  "source_url": "https://github.com/cyanheads/reliefweb-mcp-server",
+  "install": "npx -y reliefweb-mcp-server"
+}

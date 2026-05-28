@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ev-assistant-server",
+  "description": "Mcp_ev_assistant_server MCP server listed on mcp.so.",
+  "source_repo": "Abiorh001/mcp_ev_assistant_server",
+  "source_url": "https://mcp.so/server/mcp_ev_assistant_server/Abiorh001",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_ev_assistant_server/Abiorh001\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clypt",
+  "description": "Submit podcast URLs and receive AI-generated clips, trailers, show notes, and transcripts.",
+  "source_repo": "nelsonjordanme/clypt-mcp-server",
+  "source_url": "https://github.com/nelsonjordanme/clypt-mcp-server",
+  "install": "npx -y clypt-mcp-server"
+}

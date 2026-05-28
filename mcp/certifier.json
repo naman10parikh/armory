@@ -1,0 +1,7 @@
+{
+  "name": "certifier",
+  "description": "Issue, manage, and track digital certificates and badges.",
+  "source_repo": "",
+  "source_url": "https://certifier.io",
+  "install": "# git clone --depth 1 https://certifier.io\n# See source for mcpServers config block"
+}

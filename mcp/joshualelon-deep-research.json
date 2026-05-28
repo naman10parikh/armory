@@ -1,0 +1,7 @@
+{
+  "name": "joshualelon-deep-research",
+  "description": "Integrates multiple AI agents to conduct in-depth research on complex topics with customizable tones, providing detailed progress reporting and error handling.",
+  "source_repo": "joshualelon/deep-research-mcp",
+  "source_url": "https://github.com/joshualelon/deep-research-mcp",
+  "install": "npx -y deep-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opgginc-gaming-data",
+  "description": "Connects AI to OP.GG's gaming data services for League of Legends, Teamfight Tactics, Valorant, and esports, providing access to champion statistics, leaderboards, match histories, and meta trends.",
+  "source_repo": "opgginc/opgg-mcp",
+  "source_url": "https://github.com/opgginc/opgg-mcp",
+  "install": "npx -y opgg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "semiotronika-linza",
+  "description": "Local-first MCP sidecar for Markdown knowledge artifacts, review cards, and supervised learning.",
+  "source_repo": "semiotronika/linza-mcp",
+  "source_url": "https://github.com/semiotronika/linza-mcp",
+  "install": "npx -y linza-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mclose-dns-security",
+  "description": "Real-time DNS security analysis with DNSSEC validation, email authentication auditing, and RDAP lookups for SOC investigations.",
+  "source_repo": "mclose/dns-mcp",
+  "source_url": "https://github.com/mclose/dns-mcp",
+  "install": "npx -y dns-mcp"
+}

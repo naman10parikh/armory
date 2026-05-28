@@ -1,0 +1,7 @@
+{
+  "name": "dddabtc-winremote",
+  "description": "Remote control and automation for Windows desktops with tiered security, supporting screenshots, input control, file operations, PowerShell, OCR, and screen recording.",
+  "source_repo": "dddabtc/winremote-mcp",
+  "source_url": "https://github.com/dddabtc/winremote-mcp",
+  "install": "npx -y winremote-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coji-journal",
+  "description": "Provides personal journaling capabilities through markdown file storage with time-stamped entries, automatic hashtag extraction, full-text search across entries, and a web viewer interface for browsing historical journal data.",
+  "source_repo": "coji/journal-mcp",
+  "source_url": "https://github.com/coji/journal-mcp",
+  "install": "npx -y journal-mcp"
+}

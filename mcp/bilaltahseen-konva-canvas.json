@@ -1,0 +1,7 @@
+{
+  "name": "bilaltahseen-konva-canvas",
+  "description": "Enables 2D canvas drawing using Konva.js with tools for creating shapes, layers, groups, and exporting PNG images.",
+  "source_repo": "bilaltahseen/konva-mcp",
+  "source_url": "https://github.com/bilaltahseen/konva-mcp",
+  "install": "npx -y konva-mcp"
+}

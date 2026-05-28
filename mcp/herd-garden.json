@@ -1,0 +1,7 @@
+{
+  "name": "herd-garden",
+  "description": "Automate your favorite websites over MCP.",
+  "source_repo": "",
+  "source_url": "https://herd.garden",
+  "install": "# git clone --depth 1 https://herd.garden\n# See source for mcpServers config block"
+}

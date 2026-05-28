@@ -1,0 +1,7 @@
+{
+  "name": "huanwang0-privacyguard",
+  "description": "Routes sensitive prompts to local Ollama instances instead of cloud LLMs using keyword-based pattern matching for PII, PHI, and credential detection.",
+  "source_repo": "johnwoth/privacyguard-mcp",
+  "source_url": "https://github.com/johnwoth/privacyguard-mcp",
+  "install": "npx -y privacyguard-mcp"
+}

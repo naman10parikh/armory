@@ -1,0 +1,7 @@
+{
+  "name": "wricardo-gpt-proxy",
+  "description": "Bridges HTTP clients with tool servers, enabling tool discovery and execution via REST endpoints, featuring automatic HTTPS exposure and OpenAPI 3.1.0 specification for seamless integration with custom GPTs and AI-assisted applications.",
+  "source_repo": "wricardo/gpt-mcp-proxy",
+  "source_url": "https://github.com/wricardo/gpt-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/wricardo/gpt-mcp-proxy\n# See source for mcpServers config block"
+}

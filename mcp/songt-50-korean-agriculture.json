@@ -1,0 +1,7 @@
+{
+  "name": "songt-50-korean-agriculture",
+  "description": "Korean wholesale agriculture market auction data covering real-time prices, trends, and market comparisons across 32+ markets.",
+  "source_repo": "songt-50/korean-agriculture-mcp",
+  "source_url": "https://github.com/songt-50/korean-agriculture-mcp",
+  "install": "npx -y korean-agriculture-mcp"
+}

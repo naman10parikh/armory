@@ -1,0 +1,7 @@
+{
+  "name": "lucky-dersan-gemini",
+  "description": "Integrates with Google Gemini AI through Google's OpenAI-compatible API endpoint, providing streaming and non-streaming responses with configurable reasoning capabilities and effort levels for advanced AI interactions.",
+  "source_repo": "lucky-dersan/gemini-mcp-server",
+  "source_url": "https://github.com/lucky-dersan/gemini-mcp-server",
+  "install": "npx -y gemini-mcp-server"
+}

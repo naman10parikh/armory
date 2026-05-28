@@ -1,0 +1,7 @@
+{
+  "name": "cronalert",
+  "description": "Manage CronAlert uptime monitors, check results, and handle incidents.",
+  "source_repo": "jaredhobbs/cronalert-mcp",
+  "source_url": "https://github.com/jaredhobbs/cronalert-mcp",
+  "install": "npx -y cronalert-mcp"
+}

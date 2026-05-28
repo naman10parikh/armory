@@ -1,0 +1,7 @@
+{
+  "name": "catoncat-notion-local-ops",
+  "description": "Gives Notion's custom AI agent access to local file operations, shell commands, and Git workflows through 18+ tools via a cloudflared HTTPS tunnel.",
+  "source_repo": "catoncat/notion-local-ops-mcp",
+  "source_url": "https://github.com/catoncat/notion-local-ops-mcp",
+  "install": "npx -y notion-local-ops-mcp"
+}

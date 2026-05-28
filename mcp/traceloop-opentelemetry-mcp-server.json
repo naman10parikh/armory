@@ -1,0 +1,7 @@
+{
+  "name": "traceloop-opentelemetry-mcp-server",
+  "description": "🐍🏠 - An MCP server for connecting to any OpenTelemetry backend (Datadog, Grafana, Dynatrace, Traceloop, etc.).",
+  "source_repo": "traceloop/opentelemetry-mcp-server",
+  "source_url": "https://github.com/traceloop/opentelemetry-mcp-server.git",
+  "install": "npx -y opentelemetry-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fledge-mcp",
+  "description": "Fledge Mcp MCP server listed on mcp.so.",
+  "source_repo": "Krupalp525/fledge-mcp",
+  "source_url": "https://mcp.so/server/fledge-mcp/Krupalp525",
+  "install": "npx -y fledge-mcp"
+}

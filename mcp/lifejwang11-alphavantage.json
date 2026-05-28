@@ -1,0 +1,7 @@
+{
+  "name": "lifejwang11-alphavantage",
+  "description": "Bridges AlphaVantage's financial data ecosystem by providing real-time access to stock market, forex, cryptocurrency, and fundamental financial metrics for data-driven investment research and analysis.",
+  "source_repo": "lifejwang11/alphavantage-mcp",
+  "source_url": "https://github.com/lifejwang11/alphavantage-mcp",
+  "install": "npx -y alphavantage-mcp"
+}

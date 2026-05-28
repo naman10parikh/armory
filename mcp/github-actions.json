@@ -1,0 +1,7 @@
+{
+  "name": "github-actions",
+  "description": "Enables management of GitHub Actions workflows with tools for listing, viewing, triggering, canceling, and rerunning workflows, along with detailed run and job information for CI/CD pipeline monitoring and troubleshooting.",
+  "source_repo": "ko1ynnky/github-actions-mcp-server",
+  "source_url": "https://github.com/ko1ynnky/github-actions-mcp-server",
+  "install": "npx -y github-actions-mcp-server"
+}

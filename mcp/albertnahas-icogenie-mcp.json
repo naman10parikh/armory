@@ -1,0 +1,7 @@
+{
+  "name": "albertnahas-icogenie-mcp",
+  "description": "AI-powered SVG icon generation MCP server. Generate production-ready SVG icons from text descriptions with customizable styles.",
+  "source_repo": "albertnahas/icogenie-mcp",
+  "source_url": "https://github.com/albertnahas/icogenie-mcp",
+  "install": "npx -y icogenie-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fs-mcp",
+  "description": "Provides Claude with complete file system integration including directory management, file operations, Office document creation/editing, and advanced file tree visualization.",
+  "source_repo": "chayan-1906/FS-MCP",
+  "source_url": "https://github.com/chayan-1906/FS-MCP",
+  "install": "npx -y FS-MCP"
+}

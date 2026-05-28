@@ -1,0 +1,7 @@
+{
+  "name": "sebastienmonnier59-google-search-console",
+  "description": "Access Google Search Console site performance data, keyword opportunities, and indexation status.",
+  "source_repo": "sebastienmonnier59-dotcom/mcp-gsc-lucky",
+  "source_url": "https://github.com/sebastienmonnier59-dotcom/mcp-gsc-lucky",
+  "install": "# git clone --depth 1 https://github.com/sebastienmonnier59-dotcom/mcp-gsc-lucky\n# See source for mcpServers config block"
+}

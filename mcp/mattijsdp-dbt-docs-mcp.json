@@ -1,0 +1,7 @@
+{
+  "name": "mattijsdp-dbt-docs-mcp",
+  "description": "MCP server for dbt-core (OSS) users as the official dbt MCP only supports dbt Cloud. Supports project metadata, model and column-level lineage and dbt documentation.",
+  "source_repo": "mattijsdp/dbt-docs-mcp",
+  "source_url": "https://github.com/mattijsdp/dbt-docs-mcp",
+  "install": "npx -y dbt-docs-mcp"
+}

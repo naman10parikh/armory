@@ -1,0 +1,7 @@
+{
+  "name": "poly-observability-mcp",
+  "description": "Unified MCP server for observability and monitoring, providing tools to query metrics, logs, and traces through Prometheus, Grafana, Loki, and Jaeger.",
+  "source_repo": "hyperpolymath/poly-observability-mcp",
+  "source_url": "https://github.com/hyperpolymath/poly-observability-mcp",
+  "install": "npx -y poly-observability-mcp"
+}

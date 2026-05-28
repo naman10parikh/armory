@@ -1,0 +1,7 @@
+{
+  "name": "zlinzzzz-findata-mcp-server",
+  "description": "An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.",
+  "source_repo": "zlinzzzz/finData-mcp-server",
+  "source_url": "https://github.com/zlinzzzz/finData-mcp-server",
+  "install": "npx -y finData-mcp-server"
+}

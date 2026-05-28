@@ -1,0 +1,7 @@
+{
+  "name": "strato-scopus-mcp",
+  "description": "Connects Scopus to AI assistants for literature discovery. Provides tools for finding papers, experts, citation networks, and analyzing research trends.",
+  "source_repo": "stratosphereips/strato-mcp-scopus",
+  "source_url": "https://github.com/stratosphereips/strato-mcp-scopus",
+  "install": "# git clone --depth 1 https://github.com/stratosphereips/strato-mcp-scopus\n# See source for mcpServers config block"
+}

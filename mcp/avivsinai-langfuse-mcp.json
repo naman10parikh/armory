@@ -1,0 +1,7 @@
+{
+  "name": "avivsinai-langfuse-mcp",
+  "description": "Query Langfuse traces, debug exceptions, analyze sessions, and manage prompts. Full observability toolkit for LLM applications.",
+  "source_repo": "avivsinai/langfuse-mcp",
+  "source_url": "https://github.com/avivsinai/langfuse-mcp",
+  "install": "npx -y langfuse-mcp"
+}

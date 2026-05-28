@@ -1,0 +1,7 @@
+{
+  "name": "apappascs-tavily-search",
+  "description": "Integrates the Tavily Search API to perform real-time web searches for fact-checking, research, and content generation.",
+  "source_repo": "apappascs/tavily-search-mcp-server",
+  "source_url": "https://github.com/apappascs/tavily-search-mcp-server",
+  "install": "npx -y tavily-search-mcp-server"
+}

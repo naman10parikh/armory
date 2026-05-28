@@ -1,0 +1,7 @@
+{
+  "name": "yifanyifan897645-git-summary",
+  "description": "Provides deep Git repository intelligence including commit summaries, blame analysis, changelogs, and branch health checks.",
+  "source_repo": "yifanyifan897645/git-summary-mcp",
+  "source_url": "https://github.com/yifanyifan897645/git-summary-mcp",
+  "install": "npx -y git-summary-mcp"
+}

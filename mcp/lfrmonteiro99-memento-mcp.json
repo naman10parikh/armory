@@ -1,0 +1,7 @@
+{
+  "name": "lfrmonteiro99-memento-mcp",
+  "description": "Local-first persistent memory for AI coding agents. Captures facts, decisions, patterns, and architecture notes in SQLite (with optional cloud embeddings) to reduce repeated context across sessions.",
+  "source_repo": "lfrmonteiro99/memento-mcp",
+  "source_url": "https://github.com/lfrmonteiro99/memento-mcp",
+  "install": "npx -y memento-mcp"
+}

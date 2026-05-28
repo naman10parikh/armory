@@ -1,0 +1,7 @@
+{
+  "name": "gpavan1992-globalpulse",
+  "description": "Provides real-world macroeconomic, climate, disaster, trade, aviation, and country data from institutional sources.",
+  "source_repo": "gpavan1992/globalpulse-mcp",
+  "source_url": "https://github.com/gpavan1992/globalpulse-mcp",
+  "install": "npx -y globalpulse-mcp"
+}

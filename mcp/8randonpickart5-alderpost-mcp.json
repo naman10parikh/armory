@@ -1,0 +1,7 @@
+{
+  "name": "8randonpickart5-alderpost-mcp",
+  "description": "8 bundled intelligence endpoints (security, company, threat, compliance, sales, sports, property, health) via x402 micropayments on Base.",
+  "source_repo": "8randonpickart5/alderpost-mcp",
+  "source_url": "https://github.com/8randonpickart5/alderpost-mcp",
+  "install": "npx -y alderpost-mcp"
+}

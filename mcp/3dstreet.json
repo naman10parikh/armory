@@ -1,0 +1,7 @@
+{
+  "name": "3dstreet",
+  "description": "AI-driven control of 3DStreet 3D scene editing via MCP.",
+  "source_repo": "3dstreet/3dstreet-mcp",
+  "source_url": "https://github.com/3dstreet/3dstreet-mcp",
+  "install": "npx -y 3dstreet-mcp"
+}

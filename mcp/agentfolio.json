@@ -1,0 +1,7 @@
+{
+  "name": "agentfolio",
+  "description": "Query AI agent profiles, trust scores, verifications, marketplace jobs, and leaderboard rankings on the AgentFolio reputation platform.",
+  "source_repo": "0xbrainkid/agentfolio-mcp-server",
+  "source_url": "https://github.com/0xbrainkid/agentfolio-mcp-server",
+  "install": "npx -y agentfolio-mcp-server"
+}

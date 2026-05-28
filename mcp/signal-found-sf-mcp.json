@@ -1,0 +1,7 @@
+{
+  "name": "signal-found-sf-mcp",
+  "description": "Connect AI agents to Signal Found's proprietary Reddit outreach network. Find prospects posting about problems your product solves, send personalized DMs at scale via your own Reddit account or a managed bot network of hundreds of accounts, and manage a full outreach CRM — all without leaving your AI client.",
+  "source_repo": "signal-found/sf-mcp",
+  "source_url": "https://github.com/signal-found/sf-mcp",
+  "install": "npx -y sf-mcp"
+}

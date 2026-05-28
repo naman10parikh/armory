@@ -1,0 +1,7 @@
+{
+  "name": "woyaxnini-max-messenger",
+  "description": "Control MAX Messenger (VK's Russian national messenger) through MCP. Send and read messages, manage chats, pin messages, and handle group conversations.",
+  "source_repo": "woyaxnini/mcp-max-messenger",
+  "source_url": "https://github.com/woyaxnini/mcp-max-messenger",
+  "install": "# git clone --depth 1 https://github.com/woyaxnini/mcp-max-messenger\n# See source for mcpServers config block"
+}

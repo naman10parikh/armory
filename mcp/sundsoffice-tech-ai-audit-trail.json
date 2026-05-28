@@ -1,0 +1,7 @@
+{
+  "name": "sundsoffice-tech-ai-audit-trail",
+  "description": "Tamper-evident Ed25519-signed audit trails for AI agents with EU AI Act compliance support.",
+  "source_repo": "sundsoffice-tech/ai-audit-trail",
+  "source_url": "https://github.com/sundsoffice-tech/ai-audit-trail",
+  "install": "# git clone --depth 1 https://github.com/sundsoffice-tech/ai-audit-trail\n# See source for mcpServers config block"
+}

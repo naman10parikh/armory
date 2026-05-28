@@ -1,0 +1,7 @@
+{
+  "name": "central-mcp-server",
+  "description": "Enables AI assistants to query HPE Aruba Networking Central data (sites, devices, clients, alerts, events) through natural language.",
+  "source_repo": "KarthikSKumar98/central-mcp-server",
+  "source_url": "https://github.com/KarthikSKumar98/central-mcp-server",
+  "install": "npx -y central-mcp-server"
+}

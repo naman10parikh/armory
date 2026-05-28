@@ -1,0 +1,7 @@
+{
+  "name": "adadvisor",
+  "description": "Query Meta Ads performance data including accounts, campaigns, ad sets, ads, metrics, and settings.",
+  "source_repo": "",
+  "source_url": "https://www.adadvisor.ai",
+  "install": "# git clone --depth 1 https://www.adadvisor.ai\n# See source for mcpServers config block"
+}

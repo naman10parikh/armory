@@ -1,0 +1,7 @@
+{
+  "name": "notifly-mcp-server",
+  "description": "Enables AI agents to search Notifly documentation and SDK code examples for seamless integration.",
+  "source_repo": "notifly-tech/notifly-mcp-server",
+  "source_url": "https://github.com/notifly-tech/notifly-mcp-server",
+  "install": "npx -y notifly-mcp-server"
+}

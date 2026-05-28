@@ -1,0 +1,7 @@
+{
+  "name": "foodxdevelopment-foodblock-mcp",
+  "description": "17 MCP tools for the food industry. Describe food in plain English and get structured, content-addressed data blocks back. Covers actors, places, ingredients, products, transforms, transfers, and observations. Works standalone with zero config via `npx foodblock-mcp`.",
+  "source_repo": "FoodXDevelopment/foodblock",
+  "source_url": "https://github.com/FoodXDevelopment/foodblock",
+  "install": "# git clone --depth 1 https://github.com/FoodXDevelopment/foodblock\n# See source for mcpServers config block"
+}

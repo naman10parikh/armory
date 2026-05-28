@@ -1,0 +1,7 @@
+{
+  "name": "gh-rootsbymenda-roots",
+  "description": "Cosmetic ingredient and regulatory intelligence platform.",
+  "source_repo": "rootsbymenda/roots-mcp-server",
+  "source_url": "https://github.com/rootsbymenda/roots-mcp-server",
+  "install": "npx -y roots-mcp-server"
+}

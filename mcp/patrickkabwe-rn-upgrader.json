@@ -1,0 +1,7 @@
+{
+  "name": "patrickkabwe-rn-upgrader",
+  "description": "Automates React Native project upgrades by analyzing codebases, checking for outdated dependencies, and streamlining the complex process of keeping applications current with the latest React Native versions and dependency updates.",
+  "source_repo": "patrickkabwe/react-native-upgrader-mcp",
+  "source_url": "https://github.com/patrickkabwe/react-native-upgrader-mcp",
+  "install": "npx -y react-native-upgrader-mcp"
+}

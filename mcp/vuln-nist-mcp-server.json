@@ -1,0 +1,7 @@
+{
+  "name": "vuln-nist-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for querying the NIST National Vulnerability Database (NVD) API, enabling search and retrieval of CVE details, temporal context, and KEV catalog entries.",
+  "source_repo": "HaroldFinchIFT/vuln-nist-mcp-server",
+  "source_url": "https://github.com/HaroldFinchIFT/vuln-nist-mcp-server",
+  "install": "npx -y vuln-nist-mcp-server"
+}

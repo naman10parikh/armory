@@ -1,0 +1,7 @@
+{
+  "name": "vue-mcp-next",
+  "description": "Enables real-time debugging and state manipulation of Vue.js applications through MCP protocol, integrating with Vue DevTools to access component trees, states, router info, and Pinia stores.",
+  "source_repo": "tuskermanshu/vue-mcp-next",
+  "source_url": "https://github.com/tuskermanshu/vue-mcp-next",
+  "install": "# git clone --depth 1 https://github.com/tuskermanshu/vue-mcp-next\n# See source for mcpServers config block"
+}

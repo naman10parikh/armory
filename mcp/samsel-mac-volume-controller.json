@@ -1,0 +1,7 @@
+{
+  "name": "samsel-mac-volume-controller",
+  "description": "Enables macOS volume control via osascript, providing mute and unmute functionality for system audio management.",
+  "source_repo": "samsel/onesies",
+  "source_url": "https://github.com/samsel/onesies",
+  "install": "# git clone --depth 1 https://github.com/samsel/onesies\n# See source for mcpServers config block"
+}

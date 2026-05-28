@@ -1,0 +1,7 @@
+{
+  "name": "rowhint-seat-intelligence",
+  "description": "Airline seat quality scores and ratings for US airline aircraft configurations.",
+  "source_repo": "",
+  "source_url": "https://mcp.rowhint.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.rowhint.com/mcp\n# See source for mcpServers config block"
+}

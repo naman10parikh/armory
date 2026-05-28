@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-developer-tools",
+  "description": "Search and access Google Workspace API documentation and code examples",
+  "source_repo": "",
+  "source_url": "https://developers.google.com/workspace/guides/developer-tools",
+  "install": "# git clone --depth 1 https://developers.google.com/workspace/guides/developer-tools\n# See source for mcpServers config block"
+}

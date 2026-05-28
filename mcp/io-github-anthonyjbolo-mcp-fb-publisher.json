@@ -1,0 +1,7 @@
+{
+  "name": "io-github-anthonyjbolo-mcp-fb-publisher",
+  "description": "MCP server to safely publish posts to multiple Facebook Pages via Meta Graph API, with built-in guardrails for brand voice, banned topics, image requirements, and anti-duplication.",
+  "source_repo": "anthonyjbolo/mcp-fb-publisher",
+  "source_url": "https://github.com/anthonyjbolo/mcp-fb-publisher",
+  "install": "# git clone --depth 1 https://github.com/anthonyjbolo/mcp-fb-publisher\n# See source for mcpServers config block"
+}

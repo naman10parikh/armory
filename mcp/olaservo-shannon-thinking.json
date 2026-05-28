@@ -1,0 +1,7 @@
+{
+  "name": "olaservo-shannon-thinking",
+  "description": "Implements Claude Shannon's systematic problem-solving methodology to guide users through structured stages of complex problem breakdown and solution refinement.",
+  "source_repo": "olaservo/shannon-thinking",
+  "source_url": "https://github.com/olaservo/shannon-thinking",
+  "install": "# git clone --depth 1 https://github.com/olaservo/shannon-thinking\n# See source for mcpServers config block"
+}

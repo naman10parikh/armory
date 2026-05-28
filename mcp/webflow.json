@@ -1,0 +1,7 @@
+{
+  "name": "webflow",
+  "description": "AI-powered design and management for Webflow sites via the Data API and Designer API.",
+  "source_repo": "webflow/mcp-server",
+  "source_url": "https://github.com/webflow/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/webflow/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentdata",
+  "description": "Crypto market data tools for prices, funding rates, DeFi yields, and technical analysis.",
+  "source_repo": "speteai/agentdata-mcp",
+  "source_url": "https://github.com/speteai/agentdata-mcp",
+  "install": "npx -y agentdata-mcp"
+}

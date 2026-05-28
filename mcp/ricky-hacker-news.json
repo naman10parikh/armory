@@ -1,0 +1,7 @@
+{
+  "name": "ricky-hacker-news",
+  "description": "Integrates with Hacker News to fetch stories, comments, and user data, enabling tech news aggregation, trend analysis, and community engagement tracking.",
+  "source_repo": "erithwik/mcp-hn",
+  "source_url": "https://github.com/erithwik/mcp-hn",
+  "install": "# git clone --depth 1 https://github.com/erithwik/mcp-hn\n# See source for mcpServers config block"
+}

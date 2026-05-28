@@ -1,0 +1,7 @@
+{
+  "name": "studiogo-notebooklm",
+  "description": "Fork of the NotebookLM MCP server with 12 additional tools, automatic cookie refresh, and compatibility fixes for notebooklm-py 0.3.4+.",
+  "source_repo": "studiogo/notebooklm-mcp",
+  "source_url": "https://github.com/studiogo/notebooklm-mcp",
+  "install": "npx -y notebooklm-mcp"
+}

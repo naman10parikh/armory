@@ -1,0 +1,7 @@
+{
+  "name": "aws-oscal",
+  "description": "Provides AI assistants with tools to work with NIST's Open Security Controls Assessment Language. Includes OSCAL schema access, resource discovery, documentation queries, and component definition tools for security compliance workflows.",
+  "source_repo": "awslabs/mcp-server-for-oscal",
+  "source_url": "https://github.com/awslabs/mcp-server-for-oscal",
+  "install": "# git clone --depth 1 https://github.com/awslabs/mcp-server-for-oscal\n# See source for mcpServers config block"
+}

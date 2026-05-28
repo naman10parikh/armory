@@ -1,0 +1,7 @@
+{
+  "name": "mkutka-meraki-magic",
+  "description": "Integrates with Cisco's Meraki Dashboard API to enable network discovery, device management, policy retrieval, and network creation/deletion operations without leaving your conversation context.",
+  "source_repo": "ciscodevnet/meraki-magic-mcp-community",
+  "source_url": "https://github.com/ciscodevnet/meraki-magic-mcp-community",
+  "install": "# git clone --depth 1 https://github.com/ciscodevnet/meraki-magic-mcp-community\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rsweeting1-pixelvault",
+  "description": "Community MCP integration for PixelVault, an AI-native marketplace for searching and licensing pre-cleared media assets.",
+  "source_repo": "rsweeting1/pixelvault-mcp",
+  "source_url": "https://github.com/rsweeting1/pixelvault-mcp",
+  "install": "npx -y pixelvault-mcp"
+}

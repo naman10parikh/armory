@@ -1,0 +1,7 @@
+{
+  "name": "cso1z-feishu",
+  "description": "Integrates with Feishu (Lark) to enable document retrieval, messaging, and collaborative features directly within workplace conversations through a TypeScript implementation that runs as either a CLI or HTTP server.",
+  "source_repo": "cso1z/feishu-mcp",
+  "source_url": "https://github.com/cso1z/feishu-mcp",
+  "install": "npx -y feishu-mcp"
+}

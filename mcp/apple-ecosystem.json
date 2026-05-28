@@ -1,0 +1,7 @@
+{
+  "name": "apple-ecosystem",
+  "description": "Integrates with macOS applications including Messages, Contacts, Notes, Mail, Reminders, Calendar, and Maps through AppleScript automation and direct database queries for native Apple ecosystem control and productivity automation.",
+  "source_repo": "ayaanisthebest/applemcp",
+  "source_url": "https://github.com/ayaanisthebest/applemcp",
+  "install": "# git clone --depth 1 https://github.com/ayaanisthebest/applemcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "notion",
+  "description": "Enables AI systems to create, update, and manage Notion pages and blocks through a Node.js bridge to the Notion API, supporting efficient batch operations for documentation and knowledge base maintenance.",
+  "source_repo": "awkoy/notion-mcp-server",
+  "source_url": "https://github.com/awkoy/notion-mcp-server",
+  "install": "npx -y notion-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jaguar999paw-droid-comms",
+  "description": "Centralized multi-channel communication server supporting SMS, voice, email, and OTP via Telnyx, Twilio, and Resend.",
+  "source_repo": "jaguar999paw-droid/comms-mcp",
+  "source_url": "https://github.com/jaguar999paw-droid/comms-mcp",
+  "install": "npx -y comms-mcp"
+}

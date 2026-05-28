@@ -1,0 +1,7 @@
+{
+  "name": "folderr-tech-folderr",
+  "description": "Integrates with Folderr's API to enable management and communication with Folderr Assistants, facilitating tasks like listing assistants and sending questions.",
+  "source_repo": "folderr-tech/folderr-mcp-server",
+  "source_url": "https://github.com/folderr-tech/folderr-mcp-server",
+  "install": "npx -y folderr-mcp-server"
+}

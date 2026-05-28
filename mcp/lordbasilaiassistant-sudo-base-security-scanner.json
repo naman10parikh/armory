@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-base-security-scanner",
+  "description": "Scans smart contracts on Base for honeypots, rug pulls, hidden mints, and proxy patterns with read-only bytecode analysis.",
+  "source_repo": "lordbasilaiassistant-sudo/base-security-scanner-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-security-scanner-mcp",
+  "install": "npx -y base-security-scanner-mcp"
+}

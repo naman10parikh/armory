@@ -1,0 +1,7 @@
+{
+  "name": "notifuturo-vouch",
+  "description": "Trust and risk scoring for AI agent payment counterparties — free via MCP, paid via x402.",
+  "source_repo": "notifuturo/vouch",
+  "source_url": "https://github.com/notifuturo/vouch",
+  "install": "# git clone --depth 1 https://github.com/notifuturo/vouch\n# See source for mcpServers config block"
+}

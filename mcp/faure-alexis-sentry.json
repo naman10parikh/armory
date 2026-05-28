@@ -1,0 +1,7 @@
+{
+  "name": "faure-alexis-sentry",
+  "description": "Connects AI to Sentry error tracking platform for retrieving and analyzing application errors, including stacktraces, error types, and occurrence statistics without context switching.",
+  "source_repo": "faurealexis/sentry-mcp-server",
+  "source_url": "https://github.com/faurealexis/sentry-mcp-server",
+  "install": "npx -y sentry-mcp-server"
+}

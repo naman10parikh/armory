@@ -1,0 +1,7 @@
+{
+  "name": "nirholas-universal-crypto",
+  "description": "Integrates with EVM-compatible blockchain networks including BSC, Ethereum, Arbitrum, Polygon, Base, and Optimism to enable DeFi operations, security analysis, cross-chain bridging, NFT management, and portfolio tracking.",
+  "source_repo": "nirholas/universal-crypto-mcp",
+  "source_url": "https://github.com/nirholas/universal-crypto-mcp",
+  "install": "npx -y universal-crypto-mcp"
+}

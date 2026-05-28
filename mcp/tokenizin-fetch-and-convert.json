@@ -1,0 +1,7 @@
+{
+  "name": "tokenizin-fetch-and-convert",
+  "description": "Fetches and converts web content to Markdown using JSDOM and Turndown.",
+  "source_repo": "tokenizin-agency/mcp-npx-fetch",
+  "source_url": "https://github.com/tokenizin-agency/mcp-npx-fetch",
+  "install": "# git clone --depth 1 https://github.com/tokenizin-agency/mcp-npx-fetch\n# See source for mcpServers config block"
+}

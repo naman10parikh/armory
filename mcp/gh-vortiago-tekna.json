@@ -1,0 +1,7 @@
+{
+  "name": "gh-vortiago-tekna",
+  "description": "Searches Tekna's event catalog and news articles with filters for region, topic, format, and audience, and retrieves member benefits.",
+  "source_repo": "vortiago/mcp-tekna",
+  "source_url": "https://github.com/vortiago/mcp-tekna",
+  "install": "# git clone --depth 1 https://github.com/vortiago/mcp-tekna\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "huggingface",
+  "description": "Integrates with Hugging Face's ecosystem to search models, datasets, and papers while dynamically connecting to Gradio-based tools hosted on Spaces for extended ML capabilities.",
+  "source_repo": "huggingface/hf-mcp-server",
+  "source_url": "https://github.com/huggingface/hf-mcp-server",
+  "install": "npx -y hf-mcp-server"
+}

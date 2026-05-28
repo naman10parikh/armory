@@ -1,0 +1,7 @@
+{
+  "name": "kenosinc-sigrok",
+  "description": "Signal analysis and hardware debugging via the sigrok open-source measurement suite.",
+  "source_repo": "kenosinc/sigrok-mcp-server",
+  "source_url": "https://github.com/kenosinc/sigrok-mcp-server",
+  "install": "npx -y sigrok-mcp-server"
+}

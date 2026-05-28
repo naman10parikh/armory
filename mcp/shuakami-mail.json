@@ -1,0 +1,7 @@
+{
+  "name": "shuakami-mail",
+  "description": "Enables AI assistants to send and receive emails directly through IMAP and SMTP protocols, bridging email services with conversation interfaces for seamless correspondence management.",
+  "source_repo": "shuakami/mcp-mail",
+  "source_url": "https://github.com/shuakami/mcp-mail",
+  "install": "# git clone --depth 1 https://github.com/shuakami/mcp-mail\n# See source for mcpServers config block"
+}

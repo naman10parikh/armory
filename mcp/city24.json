@@ -1,0 +1,7 @@
+{
+  "name": "city24",
+  "description": "Estonia's real estate portal providing live property listings with search and geographic filters via MCP.",
+  "source_repo": "",
+  "source_url": "https://www.city24.ee",
+  "install": "# git clone --depth 1 https://www.city24.ee\n# See source for mcpServers config block"
+}

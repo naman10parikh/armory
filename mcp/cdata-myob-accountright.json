@@ -1,0 +1,7 @@
+{
+  "name": "cdata-myob-accountright",
+  "description": "Transforms MYOB AccountRight accounting data into SQL-queryable format using JDBC connectivity, enabling database-style access to financial records, table schemas, and metadata for reporting automation and data analysis workflows.",
+  "source_repo": "cdatasoftware/myob-accountright-mcp-server-by-cdata",
+  "source_url": "https://github.com/cdatasoftware/myob-accountright-mcp-server-by-cdata",
+  "install": "# git clone --depth 1 https://github.com/cdatasoftware/myob-accountright-mcp-server-by-cdata\n# See source for mcpServers config block"
+}

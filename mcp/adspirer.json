@@ -1,0 +1,7 @@
+{
+  "name": "adspirer",
+  "description": "Campaign planning, research, and cross-platform ad creation",
+  "source_repo": "amekala/ads-mcp",
+  "source_url": "https://github.com/amekala/ads-mcp",
+  "install": "npx -y ads-mcp"
+}

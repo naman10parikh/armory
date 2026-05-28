@@ -1,0 +1,7 @@
+{
+  "name": "carlmontanari-scrapli",
+  "description": "Integrates the Scrapli network automation library to enable SSH command execution on Cisco IOS XE devices for network configuration and troubleshooting tasks",
+  "source_repo": "carlmontanari/scrapli-mcp",
+  "source_url": "https://github.com/carlmontanari/scrapli-mcp",
+  "install": "npx -y scrapli-mcp"
+}

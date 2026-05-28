@@ -1,0 +1,7 @@
+{
+  "name": "saleor-commerce",
+  "description": "Interact with the Saleor Commerce platform to fetch information about products, orders and customers.",
+  "source_repo": "saleor/saleor-mcp",
+  "source_url": "https://github.com/saleor/saleor-mcp",
+  "install": "npx -y saleor-mcp"
+}

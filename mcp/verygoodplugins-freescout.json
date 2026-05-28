@@ -1,0 +1,7 @@
+{
+  "name": "verygoodplugins-freescout",
+  "description": "Manage FreeScout helpdesk tickets with AI-powered analysis, search filters, and structured outputs.",
+  "source_repo": "verygoodplugins/mcp-freescout",
+  "source_url": "https://github.com/verygoodplugins/mcp-freescout",
+  "install": "# git clone --depth 1 https://github.com/verygoodplugins/mcp-freescout\n# See source for mcpServers config block"
+}

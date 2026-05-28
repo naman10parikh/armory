@@ -1,0 +1,7 @@
+{
+  "name": "codespar-pagar-me",
+  "description": "Orders, charges, recipients, and transfers via the Pagar.me API.",
+  "source_repo": "codespar/mcp-dev-latam",
+  "source_url": "https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/payments/pagar-me",
+  "install": "# git clone --depth 1 https://github.com/codespar/mcp-dev-latam/tree/HEAD/packages/payments/pagar-me\n# See source for mcpServers config block"
+}

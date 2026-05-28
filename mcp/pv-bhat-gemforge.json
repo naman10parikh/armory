@@ -1,0 +1,7 @@
+{
+  "name": "pv-bhat-gemforge",
+  "description": "Provides a specialized server that connects to Google's Gemini models with optimized tools for search, reasoning, code analysis, and file operations, automatically selecting the best model based on task requirements.",
+  "source_repo": "pv-bhat/gemforge-mcp",
+  "source_url": "https://github.com/pv-bhat/gemforge-mcp",
+  "install": "npx -y gemforge-mcp"
+}

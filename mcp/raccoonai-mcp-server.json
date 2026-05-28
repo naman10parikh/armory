@@ -1,0 +1,7 @@
+{
+  "name": "raccoonai-mcp-server",
+  "description": "Raccoonai Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "raccoonaihq/raccoonai-mcp-server",
+  "source_url": "https://mcp.so/server/raccoonai-mcp-server/raccoonaihq",
+  "install": "npx -y raccoonai-mcp-server"
+}

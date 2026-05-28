@@ -1,0 +1,7 @@
+{
+  "name": "sureshkumars-openapi-analyzer",
+  "description": "Analyzes OpenAPI specifications with seven core tools including spec loading, API listing, endpoint searching, statistics generation, inconsistency detection, and schema comparison for API documentation review, validation, and multi-API comparison workflows.",
+  "source_repo": "sureshkumars/openapi-analyzer-mcp",
+  "source_url": "https://github.com/sureshkumars/openapi-analyzer-mcp",
+  "install": "npx -y openapi-analyzer-mcp"
+}

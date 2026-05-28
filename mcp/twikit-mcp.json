@@ -1,0 +1,7 @@
+{
+  "name": "twikit-mcp",
+  "description": "An MCP server for interacting with Twitter/X using browser cookies without an API key, enabling tweet management, user actions, and search via natural language.",
+  "source_repo": "tangivis/twitter-mcp",
+  "source_url": "https://github.com/tangivis/twitter-mcp",
+  "install": "npx -y twitter-mcp"
+}

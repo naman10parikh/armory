@@ -1,0 +1,7 @@
+{
+  "name": "shar0-naninovel",
+  "description": "Unity C# plugin that exposes Naninovel visual novel engine controls, enabling direct script editing, playback testing, and visual verification through screenshot capture.",
+  "source_repo": "shar0/naninovel-mcp",
+  "source_url": "https://github.com/shar0/naninovel-mcp",
+  "install": "npx -y naninovel-mcp"
+}

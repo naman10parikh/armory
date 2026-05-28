@@ -1,0 +1,7 @@
+{
+  "name": "metatronsdoob369-cartographer",
+  "description": "Inspects MCP server capabilities with AST analysis for tool discovery and documentation.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/metatronsdoob369-cartographer",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/metatronsdoob369-cartographer\n# See source for mcpServers config block"
+}

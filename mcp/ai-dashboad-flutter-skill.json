@@ -1,0 +1,7 @@
+{
+  "name": "ai-dashboad-flutter-skill",
+  "description": "AI E2E testing bridge for apps across 8 platforms with 40+ tools.",
+  "source_repo": "ai-dashboad/flutter-skill",
+  "source_url": "https://github.com/ai-dashboad/flutter-skill",
+  "install": "# git clone --depth 1 https://github.com/ai-dashboad/flutter-skill\n# See source for mcpServers config block"
+}

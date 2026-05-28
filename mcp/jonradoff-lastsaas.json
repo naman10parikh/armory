@@ -1,0 +1,7 @@
+{
+  "name": "jonradoff-lastsaas",
+  "description": "Read-only admin interface for LastSaaS covering dashboards, users, tenants, billing, and logs.",
+  "source_repo": "jonradoff/lastsaas",
+  "source_url": "https://github.com/jonradoff/lastsaas",
+  "install": "# git clone --depth 1 https://github.com/jonradoff/lastsaas\n# See source for mcpServers config block"
+}

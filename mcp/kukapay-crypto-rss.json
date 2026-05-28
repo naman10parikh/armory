@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-rss",
+  "description": "Aggregates real-time cryptocurrency news from multiple RSS feeds with keyword filtering and Markdown formatting to help analyze market trends and sentiment.",
+  "source_repo": "kukapay/crypto-rss-mcp",
+  "source_url": "https://github.com/kukapay/crypto-rss-mcp",
+  "install": "npx -y crypto-rss-mcp"
+}

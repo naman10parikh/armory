@@ -1,0 +1,7 @@
+{
+  "name": "indesign-uxp-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that gives AI assistants direct, native control over Adobe InDesign via a UXP plugin bridge, with ~130 tools covering documents, pages, text, graphics, styles, master spreads, books, and export.",
+  "source_repo": "theloniuser/indesign-uxp-server",
+  "source_url": "https://github.com/theloniuser/indesign-uxp-server",
+  "install": "# git clone --depth 1 https://github.com/theloniuser/indesign-uxp-server\n# See source for mcpServers config block"
+}

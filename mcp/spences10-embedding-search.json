@@ -1,0 +1,7 @@
+{
+  "name": "spences10-embedding-search",
+  "description": "Provides embedding search capabilities for transcripts using a SQLite database, enabling efficient semantic retrieval of relevant text segments for applications like podcast analysis or content recommendation.",
+  "source_repo": "spences10/mcp-embedding-search",
+  "source_url": "https://github.com/spences10/mcp-embedding-search",
+  "install": "# git clone --depth 1 https://github.com/spences10/mcp-embedding-search\n# See source for mcpServers config block"
+}

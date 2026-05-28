@@ -1,0 +1,7 @@
+{
+  "name": "anton-prosterity-documentation-search",
+  "description": "Provides direct access to technical documentation across 40+ popular frameworks and libraries including Python, React, FastAPI, and AWS with intelligent caching and unified retrieval for development workflows.",
+  "source_repo": "gemini2026/documentation-search-mcp",
+  "source_url": "https://github.com/gemini2026/documentation-search-mcp",
+  "install": "npx -y documentation-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wyattjoh-calendar-mcp",
+  "description": "MCP server for accessing macOS Calendar events",
+  "source_repo": "wyattjoh/calendar-mcp",
+  "source_url": "https://github.com/wyattjoh/calendar-mcp",
+  "install": "npx -y calendar-mcp"
+}

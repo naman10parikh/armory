@@ -1,0 +1,7 @@
+{
+  "name": "jordanburke-joplin",
+  "description": "Integrates with Joplin's REST API to enable complete note and notebook management including search, read, create, edit, and delete operations with support for hierarchical structures and todo items.",
+  "source_repo": "jordanburke/joplin-mcp-server",
+  "source_url": "https://github.com/jordanburke/joplin-mcp-server",
+  "install": "npx -y joplin-mcp-server"
+}

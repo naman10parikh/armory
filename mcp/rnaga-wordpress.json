@@ -1,0 +1,7 @@
+{
+  "name": "rnaga-wordpress",
+  "description": "Manage posts, users, comments, terms, metadata, and settings",
+  "source_repo": "rnaga/wp-mcp",
+  "source_url": "https://github.com/rnaga/wp-mcp",
+  "install": "npx -y wp-mcp"
+}

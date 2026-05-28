@@ -1,0 +1,7 @@
+{
+  "name": "portel-dev-ncp-orchestrator",
+  "description": "Intelligent orchestration layer that unifies multiple MCP servers into a single gateway with RAG-powered discovery engine for semantic tool routing across diverse services like GitHub, Slack, PostgreSQL, and AWS.",
+  "source_repo": "portel-dev/ncp",
+  "source_url": "https://github.com/portel-dev/ncp",
+  "install": "# git clone --depth 1 https://github.com/portel-dev/ncp\n# See source for mcpServers config block"
+}

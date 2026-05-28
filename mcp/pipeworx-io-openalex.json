@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-openalex",
+  "description": "Access the OpenAlex catalog of scholarly works, authors, institutions, and research concepts.",
+  "source_repo": "pipeworx-io/mcp-openalex",
+  "source_url": "https://github.com/pipeworx-io/mcp-openalex",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-openalex\n# See source for mcpServers config block"
+}

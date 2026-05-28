@@ -1,0 +1,7 @@
+{
+  "name": "sage",
+  "description": "Universal development assistant that automatically selects optimal models across OpenAI, Anthropic, Google Gemini, OpenRouter, and local Ollama based on task complexity through eight specialized modes (chat, analyze, review, debug, plan, test, refactor, think) with conversation memory and flexible file handling.",
+  "source_repo": "david-strejc/sage-mcp",
+  "source_url": "https://github.com/david-strejc/sage-mcp",
+  "install": "npx -y sage-mcp"
+}

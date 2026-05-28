@@ -1,0 +1,7 @@
+{
+  "name": "notes-mcp-server",
+  "description": "Enables note management (create, read, update, delete, list) through MCP, with advanced features including real-time WebSocket communication, performance optimization, security, and monitoring.",
+  "source_repo": "Surya07102000/Notes-MCP-Server",
+  "source_url": "https://github.com/Surya07102000/Notes-MCP-Server",
+  "install": "npx -y Notes-MCP-Server"
+}

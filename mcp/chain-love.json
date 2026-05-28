@@ -1,0 +1,7 @@
+{
+  "name": "chain-love",
+  "description": "Web3 infrastructure MCP gateway for discovering and connecting to blockchain services across 20+ networks.",
+  "source_repo": "",
+  "source_url": "https://app.chain.love/mcp",
+  "install": "# git clone --depth 1 https://app.chain.love/mcp\n# See source for mcpServers config block"
+}

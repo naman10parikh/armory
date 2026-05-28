@@ -1,0 +1,7 @@
+{
+  "name": "sipflow",
+  "description": "SIP/VoIP telecom grounding for AI agents with vendor docs, RFCs, and 21 diagnostic utilities.",
+  "source_repo": "cmendes0101/sipflow-cursor-plugin",
+  "source_url": "https://github.com/cmendes0101/sipflow-cursor-plugin",
+  "install": "# git clone --depth 1 https://github.com/cmendes0101/sipflow-cursor-plugin\n# See source for mcpServers config block"
+}

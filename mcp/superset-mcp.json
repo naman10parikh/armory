@@ -1,0 +1,7 @@
+{
+  "name": "superset-mcp",
+  "description": "Superset Mcp MCP server listed on mcp.so.",
+  "source_repo": "aptro/superset-mcp",
+  "source_url": "https://mcp.so/server/superset-mcp/aptro",
+  "install": "npx -y superset-mcp"
+}

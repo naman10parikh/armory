@@ -1,0 +1,7 @@
+{
+  "name": "praecipio-workato",
+  "description": "Manages Workato integration recipes, connections, and workflows with read and mutate operations.",
+  "source_repo": "praecipio/workato_mcp",
+  "source_url": "https://github.com/praecipio/workato_mcp",
+  "install": "npx -y workato_mcp"
+}

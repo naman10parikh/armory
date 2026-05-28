@@ -1,0 +1,7 @@
+{
+  "name": "sap-notes",
+  "description": "Integrates with SAP's knowledge base using certificate authentication and browser automation to search and retrieve SAP Notes and technical articles for troubleshooting and system administration.",
+  "source_repo": "marianfoo/mcp-sap-notes",
+  "source_url": "https://github.com/marianfoo/mcp-sap-notes",
+  "install": "# git clone --depth 1 https://github.com/marianfoo/mcp-sap-notes\n# See source for mcpServers config block"
+}

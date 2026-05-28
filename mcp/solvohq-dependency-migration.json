@@ -1,0 +1,7 @@
+{
+  "name": "solvohq-dependency-migration",
+  "description": "Dependency upgrade briefs for LLM coding agents covering breaking changes, codemods, and manual fix patterns.",
+  "source_repo": "solvohq/dependency-migration-mcp",
+  "source_url": "https://github.com/solvohq/dependency-migration-mcp",
+  "install": "npx -y dependency-migration-mcp"
+}

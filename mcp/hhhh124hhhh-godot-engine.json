@@ -1,0 +1,7 @@
+{
+  "name": "hhhh124hhhh-godot-engine",
+  "description": "Bidirectional Godot engine integration for natural language game development with scene manipulation and GDScript editing",
+  "source_repo": "hhhh124hhhh/godot-mcp",
+  "source_url": "https://github.com/hhhh124hhhh/godot-mcp",
+  "install": "npx -y godot-mcp"
+}

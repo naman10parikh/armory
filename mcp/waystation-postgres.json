@@ -1,0 +1,7 @@
+{
+  "name": "waystation-postgres",
+  "description": "Connect to PostgreSQL databases to query data and schemas",
+  "source_repo": "",
+  "source_url": "https://waystation.ai/connect/mcp-server",
+  "install": "# git clone --depth 1 https://waystation.ai/connect/mcp-server\n# See source for mcpServers config block"
+}

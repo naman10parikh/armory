@@ -1,0 +1,7 @@
+{
+  "name": "wllcnm-dingding",
+  "description": "Provides integration with the DingTalk API, enabling easy deployment and scaling of services like chatbots and data processing pipelines.",
+  "source_repo": "wllcnm/dingding-mcp",
+  "source_url": "https://github.com/wllcnm/dingding-mcp",
+  "install": "npx -y dingding-mcp"
+}

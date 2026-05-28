@@ -1,0 +1,7 @@
+{
+  "name": "navin4078-web-scraper",
+  "description": "Provides web scraping capabilities through specialized tools for extracting text, links, images, tables, headlines, metadata, and page statistics with CSS selector support and configurable result limits for content analysis and competitive intelligence workflows.",
+  "source_repo": "navin4078/mcp-web-scraper",
+  "source_url": "https://github.com/navin4078/mcp-web-scraper",
+  "install": "# git clone --depth 1 https://github.com/navin4078/mcp-web-scraper\n# See source for mcpServers config block"
+}

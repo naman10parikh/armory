@@ -1,0 +1,7 @@
+{
+  "name": "leadcloser-mcp",
+  "description": "Integrates LeadCloser AI CRM tools with MCP clients for New Zealand trade businesses.",
+  "source_repo": "dylanc1317-create/leadcloser-mcp",
+  "source_url": "https://github.com/dylanc1317-create/leadcloser-mcp",
+  "install": "npx -y leadcloser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "barryyip0625-discord",
+  "description": "Integrates with Discord to enable channel management, forum post creation, message sending, and reaction handling through secure authentication and permissions",
+  "source_repo": "barryyip0625/mcp-discord",
+  "source_url": "https://github.com/barryyip0625/mcp-discord",
+  "install": "# git clone --depth 1 https://github.com/barryyip0625/mcp-discord\n# See source for mcpServers config block"
+}

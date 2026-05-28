@@ -1,0 +1,7 @@
+{
+  "name": "a2a-by-mlaurel",
+  "description": "A2A protocol implementation",
+  "source_repo": "mlaurel/A2A",
+  "source_url": "https://github.com/mlaurel/A2A",
+  "install": "# git clone --depth 1 https://github.com/mlaurel/A2A\n# See source for mcpServers config block"
+}

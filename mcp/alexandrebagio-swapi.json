@@ -1,0 +1,7 @@
+{
+  "name": "alexandrebagio-swapi",
+  "description": "Provides access to the Star Wars API for retrieving and paginating through planet information from the Star Wars universe.",
+  "source_repo": "alexandrebagio/swapi-mcp",
+  "source_url": "https://github.com/alexandrebagio/swapi-mcp",
+  "install": "npx -y swapi-mcp"
+}

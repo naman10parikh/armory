@@ -1,0 +1,7 @@
+{
+  "name": "roach-hue",
+  "description": "Controls Philips Hue smart lighting with 9 tools for light control, status, and color management.",
+  "source_repo": "roach/airglow",
+  "source_url": "https://github.com/roach/airglow",
+  "install": "# git clone --depth 1 https://github.com/roach/airglow\n# See source for mcpServers config block"
+}

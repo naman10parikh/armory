@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-crossref",
+  "description": "Academic paper metadata and DOI lookups via the Crossref REST API, covering 130M+ scholarly records.",
+  "source_repo": "pipeworx-io/mcp-crossref",
+  "source_url": "https://github.com/pipeworx-io/mcp-crossref",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-crossref\n# See source for mcpServers config block"
+}

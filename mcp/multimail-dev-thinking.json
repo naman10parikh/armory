@@ -1,0 +1,7 @@
+{
+  "name": "multimail-dev-thinking",
+  "description": "Extract and query cognitive patterns, decision heuristics, and mental models from conversations in a typed knowledge graph.",
+  "source_repo": "multimail-dev/thinking-mcp",
+  "source_url": "https://github.com/multimail-dev/thinking-mcp",
+  "install": "npx -y thinking-mcp"
+}

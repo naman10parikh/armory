@@ -1,0 +1,7 @@
+{
+  "name": "gomarble",
+  "description": "Unified access to marketing data from Meta Ads, Google Ads, Google Analytics 4, and Shopify",
+  "source_repo": "",
+  "source_url": "https://apps.gomarble.ai/mcp-api/sse",
+  "install": "# git clone --depth 1 https://apps.gomarble.ai/mcp-api/sse\n# See source for mcpServers config block"
+}

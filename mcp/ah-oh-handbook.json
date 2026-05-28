@@ -1,0 +1,7 @@
+{
+  "name": "ah-oh-handbook",
+  "description": "Manage handbook entries via CRUD operations, overview, and tag search through the Handbook API.",
+  "source_repo": "ah-oh/handbook-mcp-server",
+  "source_url": "https://github.com/ah-oh/handbook-mcp-server",
+  "install": "npx -y handbook-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "f2c-figma-to-code",
+  "description": "Bridges Figma design files to code generation, enabling direct conversion of designs into HTML, CSS, and other assets with customizable output paths and file organization.",
+  "source_repo": "f2c-ai/f2c-mcp",
+  "source_url": "https://github.com/f2c-ai/f2c-mcp",
+  "install": "npx -y f2c-mcp"
+}

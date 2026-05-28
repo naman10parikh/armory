@@ -1,0 +1,7 @@
+{
+  "name": "zkytech-openapi-documentation",
+  "description": "Transforms OpenAPI specifications into dynamic tools for interacting with external services, handling authentication, validation, and request routing without custom code.",
+  "source_repo": "zkytech/api-doc-mcp",
+  "source_url": "https://github.com/zkytech/api-doc-mcp",
+  "install": "npx -y api-doc-mcp"
+}

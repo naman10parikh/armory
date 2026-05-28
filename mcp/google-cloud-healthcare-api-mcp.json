@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-healthcare-api-mcp",
+  "description": "Google Cloud Healthcare Api Mcp MCP server listed on mcp.so.",
+  "source_repo": "Kartha-AI/google-cloud-healthcare-api-mcp",
+  "source_url": "https://mcp.so/server/google-cloud-healthcare-api-mcp/Kartha-AI",
+  "install": "npx -y google-cloud-healthcare-api-mcp"
+}

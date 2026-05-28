@@ -1,0 +1,7 @@
+{
+  "name": "rayanzaki-google-contacts",
+  "description": "Integrates with Google Contacts to enable listing, searching, creating, updating, and deleting contacts from both personal accounts and Google Workspace directories.",
+  "source_repo": "rayanzaki/mcp-google-contacts-server",
+  "source_url": "https://github.com/rayanzaki/mcp-google-contacts-server",
+  "install": "# git clone --depth 1 https://github.com/rayanzaki/mcp-google-contacts-server\n# See source for mcpServers config block"
+}

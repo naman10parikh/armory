@@ -1,0 +1,7 @@
+{
+  "name": "drboria-gitlab",
+  "description": "GitLab REST API integration with 25 tools for repositories, merge requests, and issues.",
+  "source_repo": "drboria/md-gitlab-mcp",
+  "source_url": "https://github.com/drboria/md-gitlab-mcp",
+  "install": "npx -y md-gitlab-mcp"
+}

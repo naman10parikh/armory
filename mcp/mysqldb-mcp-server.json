@@ -1,0 +1,7 @@
+{
+  "name": "mysqldb-mcp-server",
+  "description": "Mysqldb Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "burakdirin/mysqldb-mcp-server",
+  "source_url": "https://mcp.so/server/mysqldb-mcp-server/burakdirin",
+  "install": "npx -y mysqldb-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "weatherai",
+  "description": "Real-time weather data for AI assistants with 11 tools covering forecasts, air quality, and solar data.",
+  "source_repo": "weatherai-io/mcp-server",
+  "source_url": "https://github.com/weatherai-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/weatherai-io/mcp-server\n# See source for mcpServers config block"
+}

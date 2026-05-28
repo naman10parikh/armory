@@ -1,0 +1,7 @@
+{
+  "name": "rope-mcp-server",
+  "description": "Provides Python refactoring capabilities via the Rope library, enabling AI agents to perform safe, project-wide code transformations such as renaming symbols, moving modules, and extracting methods.",
+  "source_repo": "krystofbe/rope-mcp-server",
+  "source_url": "https://github.com/krystofbe/rope-mcp-server",
+  "install": "npx -y rope-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "graffiticode",
+  "description": "Connects AI assistants to Graffiticode's catalog of domain-specific language tools for creating assessments, spreadsheets, and flashcards.",
+  "source_repo": "graffiticode/graffiticode-mcp-server",
+  "source_url": "https://github.com/graffiticode/graffiticode-mcp-server",
+  "install": "npx -y graffiticode-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "launchthatbrand-graphql",
+  "description": "Enables LLMs to interact with GraphQL APIs through schema introspection and query execution, with security measures like disabled mutations by default.",
+  "source_repo": "launchthatbrand/mcp-graphql",
+  "source_url": "https://github.com/launchthatbrand/mcp-graphql",
+  "install": "# git clone --depth 1 https://github.com/launchthatbrand/mcp-graphql\n# See source for mcpServers config block"
+}

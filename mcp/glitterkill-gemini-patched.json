@@ -1,0 +1,7 @@
+{
+  "name": "glitterkill-gemini-patched",
+  "description": "Windows-compatible Gemini CLI integration with intelligent quota management, automatic model fallback, brainstorming tools, and changeMode formatting for Claude-compatible edit instructions.",
+  "source_repo": "glitterkill/gemini-mcp-tool-patched",
+  "source_url": "https://github.com/glitterkill/gemini-mcp-tool-patched",
+  "install": "# git clone --depth 1 https://github.com/glitterkill/gemini-mcp-tool-patched\n# See source for mcpServers config block"
+}

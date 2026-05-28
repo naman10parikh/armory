@@ -1,0 +1,7 @@
+{
+  "name": "cryppadotta-scryfall",
+  "description": "Integrates with the Scryfall Magic: The Gathering API to enable card searches, retrieval of card details, rulings, and pricing information for deck building and game analysis.",
+  "source_repo": "cryppadotta/scryfall-mcp",
+  "source_url": "https://github.com/cryppadotta/scryfall-mcp",
+  "install": "npx -y scryfall-mcp"
+}

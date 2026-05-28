@@ -1,0 +1,7 @@
+{
+  "name": "a7om-pricing-intelligence",
+  "description": "Global price benchmarking for AI inference across vendors, SKUs, and price indexes.",
+  "source_repo": "a7om-ai/atom-mcp-server",
+  "source_url": "https://github.com/a7om-ai/atom-mcp-server",
+  "install": "npx -y atom-mcp-server"
+}

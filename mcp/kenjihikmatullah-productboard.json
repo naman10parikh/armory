@@ -1,0 +1,7 @@
+{
+  "name": "kenjihikmatullah-productboard",
+  "description": "Integrates with the Productboard API to enable access to companies, components, features, and products for enhanced product management and feature tracking workflows.",
+  "source_repo": "kenjihikmatullah/productboard-mcp",
+  "source_url": "https://github.com/kenjihikmatullah/productboard-mcp",
+  "install": "npx -y productboard-mcp"
+}

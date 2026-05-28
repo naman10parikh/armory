@@ -1,0 +1,7 @@
+{
+  "name": "atlas-vector-search-docs",
+  "description": "Provides semantic search and document retrieval using MongoDB Atlas Vector Search with Voyage AI embeddings, enabling intelligent querying across markdown documentation with hierarchical chunking and contextual understanding.",
+  "source_repo": "patw/avs-docs-mcp",
+  "source_url": "https://github.com/patw/avs-docs-mcp",
+  "install": "npx -y avs-docs-mcp"
+}

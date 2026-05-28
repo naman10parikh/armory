@@ -1,0 +1,7 @@
+{
+  "name": "purescript-development-tools",
+  "description": "Provides PureScript development tools through Tree-sitter AST parsing and purs IDE server integration for module analysis, type checking, dependency mapping, and project compilation.",
+  "source_repo": "avi892nash/purescript-mcp-tools",
+  "source_url": "https://github.com/avi892nash/purescript-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/avi892nash/purescript-mcp-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vexly",
+  "description": "Cross-service business analytics across Shopify, Meta Ads, Google Ads, and more.",
+  "source_repo": "just-strings/vexly-mcp",
+  "source_url": "https://github.com/just-strings/vexly-mcp",
+  "install": "npx -y vexly-mcp"
+}

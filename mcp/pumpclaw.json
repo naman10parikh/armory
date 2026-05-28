@@ -1,0 +1,7 @@
+{
+  "name": "pumpclaw",
+  "description": "ERC-20 token launcher on Base via Uniswap V4.",
+  "source_repo": "clawd800/pumpclaw",
+  "source_url": "https://github.com/clawd800/pumpclaw",
+  "install": "# git clone --depth 1 https://github.com/clawd800/pumpclaw\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-grammar-tools",
+  "description": "Validates and tests llguidance grammars (Lark format), providing grammar validation, batch test execution, and syntax documentation.",
+  "source_repo": "guidance-ai/guidance-lark-mcp",
+  "source_url": "https://github.com/guidance-ai/guidance-lark-mcp",
+  "install": "npx -y guidance-lark-mcp"
+}

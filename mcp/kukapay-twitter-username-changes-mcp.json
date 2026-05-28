@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-twitter-username-changes-mcp",
+  "description": "An MCP server that tracks the historical changes of Twitter usernames.",
+  "source_repo": "kukapay/twitter-username-changes-mcp",
+  "source_url": "https://github.com/kukapay/twitter-username-changes-mcp",
+  "install": "npx -y twitter-username-changes-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zhsama-duckduckgo-search",
+  "description": "Lightweight TypeScript-based DuckDuckGo search server that enables developers to retrieve search results programmatically using the duck-duck-scrape library with minimal configuration.",
+  "source_repo": "zhsama/duckduckgo-mcp-server",
+  "source_url": "https://github.com/zhsama/duckduckgo-mcp-server",
+  "install": "npx -y duckduckgo-mcp-server"
+}

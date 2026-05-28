@@ -1,0 +1,7 @@
+{
+  "name": "bsmi021-mistral-codestral",
+  "description": "Integrates with Mistral's code-related APIs to enable code completion, bug fixing, and test generation across multiple programming languages.",
+  "source_repo": "bsmi021/mcp-mistral-codestral",
+  "source_url": "https://github.com/bsmi021/mcp-mistral-codestral",
+  "install": "# git clone --depth 1 https://github.com/bsmi021/mcp-mistral-codestral\n# See source for mcpServers config block"
+}

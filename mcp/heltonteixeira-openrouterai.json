@@ -1,0 +1,7 @@
+{
+  "name": "heltonteixeira-openrouterai",
+  "description": "Unifies access to diverse AI models via OpenRouter, enabling flexible model selection and usage for applications like chatbots and content generation.",
+  "source_repo": "heltonteixeira/openrouterai",
+  "source_url": "https://github.com/heltonteixeira/openrouterai",
+  "install": "# git clone --depth 1 https://github.com/heltonteixeira/openrouterai\n# See source for mcpServers config block"
+}

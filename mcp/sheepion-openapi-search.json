@@ -1,0 +1,7 @@
+{
+  "name": "sheepion-openapi-search",
+  "description": "Loads OpenAPI specifications from URLs and provides tools for searching endpoints, exploring schemas, and extracting authentication configurations to help developers quickly understand API structures without manually parsing complex documentation files.",
+  "source_repo": "sheepion/openapi-search-mcp",
+  "source_url": "https://github.com/sheepion/openapi-search-mcp",
+  "install": "npx -y openapi-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "llaa33219-kakaotalk-emoticons",
+  "description": "Automates KakaoTalk emoticon creation with AI-powered generation and validation tools",
+  "source_repo": "llaa33219/playmcp-kakaotalk-emoticon",
+  "source_url": "https://github.com/llaa33219/playmcp-kakaotalk-emoticon",
+  "install": "# git clone --depth 1 https://github.com/llaa33219/playmcp-kakaotalk-emoticon\n# See source for mcpServers config block"
+}

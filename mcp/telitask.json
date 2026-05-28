@@ -1,0 +1,7 @@
+{
+  "name": "telitask",
+  "description": "Manage contacts, tasks, and calls from AI assistants.",
+  "source_repo": "telitask/telitask-ai",
+  "source_url": "https://github.com/telitask/telitask-ai",
+  "install": "# git clone --depth 1 https://github.com/telitask/telitask-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gabogabucho-google-ads-ga4",
+  "description": "Manages Google Ads campaigns and Google Analytics 4 reporting with a preview-confirm safety system for write operations.",
+  "source_repo": "gabogabucho/google-ads-mcp",
+  "source_url": "https://github.com/gabogabucho/google-ads-mcp",
+  "install": "npx -y google-ads-mcp"
+}

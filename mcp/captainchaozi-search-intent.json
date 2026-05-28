@@ -1,0 +1,7 @@
+{
+  "name": "captainchaozi-search-intent",
+  "description": "Detects search intent for SEO-related workflows.",
+  "source_repo": "captainchaozi/search-intent-mcp",
+  "source_url": "https://github.com/captainchaozi/search-intent-mcp",
+  "install": "npx -y search-intent-mcp"
+}

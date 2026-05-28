@@ -1,0 +1,7 @@
+{
+  "name": "matsushitatokitsugu-micro-data-api-factory",
+  "description": "Dynamically generates micro data APIs on demand, enabling rapid data access for AI workflows.",
+  "source_repo": "matsushitatokitsugu/micro-data-api-factory",
+  "source_url": "https://github.com/matsushitatokitsugu/micro-data-api-factory",
+  "install": "# git clone --depth 1 https://github.com/matsushitatokitsugu/micro-data-api-factory\n# See source for mcpServers config block"
+}

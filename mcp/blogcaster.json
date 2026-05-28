@@ -1,0 +1,7 @@
+{
+  "name": "blogcaster",
+  "description": "Multi-platform blog publishing tool for Hashnode and Dev.to",
+  "source_repo": "",
+  "source_url": "https://blogcaster-mcp.rrpb2580.workers.dev/mcp",
+  "install": "# git clone --depth 1 https://blogcaster-mcp.rrpb2580.workers.dev/mcp\n# See source for mcpServers config block"
+}

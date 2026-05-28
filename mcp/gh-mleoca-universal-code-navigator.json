@@ -1,0 +1,7 @@
+{
+  "name": "gh-mleoca-universal-code-navigator",
+  "description": "Structural code intelligence for AI agents using tree-sitter analysis.",
+  "source_repo": "mleoca/ucn",
+  "source_url": "https://github.com/mleoca/ucn",
+  "install": "# git clone --depth 1 https://github.com/mleoca/ucn\n# See source for mcpServers config block"
+}

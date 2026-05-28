@@ -1,0 +1,7 @@
+{
+  "name": "google-search285f",
+  "description": "Provides web search capabilities and webpage content extraction through Google Custom Search API, enabling access to search results and cleaned webpage content with minimal setup.",
+  "source_repo": "mcp-for-dev/mcp-google-search",
+  "source_url": "https://github.com/mcp-for-dev/mcp-google-search",
+  "install": "# git clone --depth 1 https://github.com/mcp-for-dev/mcp-google-search\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "huccihuang-bilibili-search",
+  "description": "Enables search across Bilibili's Chinese video platform through a lightweight FastMCP interface that retrieves video content, user information, and other searchable data with optional authentication via session cookies.",
+  "source_repo": "huccihuang/bilibili-mcp-server",
+  "source_url": "https://github.com/huccihuang/bilibili-mcp-server",
+  "install": "npx -y bilibili-mcp-server"
+}

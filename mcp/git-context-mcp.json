@@ -1,0 +1,7 @@
+{
+  "name": "git-context-mcp",
+  "description": "Provides AI coding agents with structured Git repository context including project state, code structure, activity, and risk analysis without modifying or uploading code.",
+  "source_repo": "TamiShaks-2/git-context-mcp",
+  "source_url": "https://github.com/TamiShaks-2/git-context-mcp",
+  "install": "npx -y git-context-mcp"
+}

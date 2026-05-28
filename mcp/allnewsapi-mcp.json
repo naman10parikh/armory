@@ -1,0 +1,7 @@
+{
+  "name": "allnewsapi-mcp",
+  "description": "Enables LLMs to search for news articles, get top headlines, and access comprehensive news data with advanced filtering options through AllNewsAPI.",
+  "source_repo": "AllNewsAPI/mcp-server",
+  "source_url": "https://github.com/AllNewsAPI/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/AllNewsAPI/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-dispatch-mcp-server",
+  "description": "Enables AI assistants to spawn and manage long-running cloud agents via MCP, offloading tasks to AWS Bedrock AgentCore.",
+  "source_repo": "agent-dispatch/mcp-server",
+  "source_url": "https://github.com/agent-dispatch/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/agent-dispatch/mcp-server\n# See source for mcpServers config block"
+}

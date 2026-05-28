@@ -1,0 +1,7 @@
+{
+  "name": "grafana-tempo",
+  "description": "Integrates with Grafana Tempo for distributed tracing analysis, enabling conversational access to trace searches and detailed trace information for debugging microservices and investigating performance bottlenecks.",
+  "source_repo": "c3ptv3/simple-tempo-mcp-server",
+  "source_url": "https://github.com/c3ptv3/simple-tempo-mcp-server",
+  "install": "npx -y simple-tempo-mcp-server"
+}

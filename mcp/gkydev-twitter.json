@@ -1,0 +1,7 @@
+{
+  "name": "gkydev-twitter",
+  "description": "Integrates with Twitter through browser session cookies to enable posting tweets, searching content, retrieving timelines, managing user interactions, and monitoring social media activity without requiring official API access.",
+  "source_repo": "gkydev/twitter-mcp-server",
+  "source_url": "https://github.com/gkydev/twitter-mcp-server",
+  "install": "npx -y twitter-mcp-server"
+}

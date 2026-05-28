@@ -1,0 +1,7 @@
+{
+  "name": "axiomatic-ai",
+  "description": "Provides six specialized servers for scientific and engineering workflows including photonic circuit design with gdsfactory integration, document processing with advanced OCR, plot data extraction from images, equation composition and analysis, PDF annotation with contextual analysis, and model fitting with optimization capabilities.",
+  "source_repo": "axiomatic-ai/ax-mcp",
+  "source_url": "https://github.com/axiomatic-ai/ax-mcp",
+  "install": "npx -y ax-mcp"
+}

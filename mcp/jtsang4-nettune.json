@@ -1,0 +1,7 @@
+{
+  "name": "jtsang4-nettune",
+  "description": "Network diagnostics and TCP optimization tool for Linux servers with automated tuning profiles and safe rollback capabilities.",
+  "source_repo": "jtsang4/nettune",
+  "source_url": "https://github.com/jtsang4/nettune",
+  "install": "# git clone --depth 1 https://github.com/jtsang4/nettune\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "beehiveinnovations-gemini",
+  "description": "Give your development workflow access to all state of the art AI models for enhanced code analysis, problem-solving, and collaborative development.",
+  "source_repo": "beehiveinnovations/pal-mcp-server",
+  "source_url": "https://github.com/beehiveinnovations/pal-mcp-server",
+  "install": "npx -y pal-mcp-server"
+}

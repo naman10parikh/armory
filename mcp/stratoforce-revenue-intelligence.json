@@ -1,0 +1,7 @@
+{
+  "name": "stratoforce-revenue-intelligence",
+  "description": "Revenue intelligence from Salesforce pipeline data with deal coaching, risk scanning, and forecast preparation.",
+  "source_repo": "stratoforce-ai-llc/stratoforce-mcp-server",
+  "source_url": "https://github.com/stratoforce-ai-llc/stratoforce-mcp-server",
+  "install": "npx -y stratoforce-mcp-server"
+}

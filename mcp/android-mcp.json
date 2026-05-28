@@ -1,0 +1,7 @@
+{
+  "name": "android-mcp",
+  "description": "MCP Server for interacting with Android devices. Control, inspect, and automate Android devices via ADB through Claude.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/android-mcp.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/android-mcp.json\n# See source for mcpServers config block"
+}

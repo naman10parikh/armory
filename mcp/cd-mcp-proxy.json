@@ -1,0 +1,7 @@
+{
+  "name": "cd-mcp-proxy",
+  "description": "Cd Mcp Proxy MCP server listed on mcp.so.",
+  "source_repo": "12beam/cd-mcp-proxy",
+  "source_url": "https://mcp.so/server/cd-mcp-proxy/12beam",
+  "install": "# git clone --depth 1 https://mcp.so/server/cd-mcp-proxy/12beam\n# See source for mcpServers config block"
+}

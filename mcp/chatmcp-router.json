@@ -1,0 +1,7 @@
+{
+  "name": "chatmcp-router",
+  "description": "Provides a proxy service that connects local MCP clients to remote tool servers through a central routing service, eliminating the need to run your own server infrastructure.",
+  "source_repo": "chatmcp/mcp-server-router",
+  "source_url": "https://github.com/chatmcp/mcp-server-router",
+  "install": "# git clone --depth 1 https://github.com/chatmcp/mcp-server-router\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "charlesmuchene-android-pref-editor",
+  "description": "Integrates with Android devices through ADB connectivity to read, modify, add, and delete SharedPreferences and DataStore preference files for debugging app preferences, automating testing workflows, and managing app configuration data.",
+  "source_repo": "charlesmuchene/pref-editor-mcp-server",
+  "source_url": "https://github.com/charlesmuchene/pref-editor-mcp-server",
+  "install": "npx -y pref-editor-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "denis-platonov-qtm4j",
+  "description": "QMetry Test Management for Jira (QTM4J) integration with 20+ tools for test cases, cycles, executions, and steps.",
+  "source_repo": "denis-platonov/qtm4j-mcp-server",
+  "source_url": "https://github.com/denis-platonov/qtm4j-mcp-server",
+  "install": "npx -y qtm4j-mcp-server"
+}

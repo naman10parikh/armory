@@ -1,0 +1,7 @@
+{
+  "name": "trollspace-mcp",
+  "description": "MCP server for the Trollspace API that exposes 47 type-safe tools for managing snippets, nuggets, todos, ideas, tools, repos, travel, subscriptions, and more.",
+  "source_repo": "da-troll/troll-mcp",
+  "source_url": "https://github.com/da-troll/troll-mcp",
+  "install": "npx -y troll-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "usecortex-mcp-server",
+  "description": "Provides persistent memory for AI coding agents, enabling them to read and write structured knowledge through MCP-compatible tools.",
+  "source_repo": "usecortex-official/usecortex-mcp",
+  "source_url": "https://github.com/usecortex-official/usecortex-mcp",
+  "install": "npx -y usecortex-mcp"
+}

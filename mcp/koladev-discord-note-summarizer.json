@@ -1,0 +1,7 @@
+{
+  "name": "koladev-discord-note-summarizer",
+  "description": "Integrates Discord chat, enabling message sending and reading.",
+  "source_repo": "koladev32/mcp-discord-chat",
+  "source_url": "https://github.com/koladev32/mcp-discord-chat",
+  "install": "# git clone --depth 1 https://github.com/koladev32/mcp-discord-chat\n# See source for mcpServers config block"
+}

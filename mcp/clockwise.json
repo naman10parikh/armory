@@ -1,0 +1,7 @@
+{
+  "name": "clockwise",
+  "description": "Enables AI clients to schedule and reschedule meetings with multiple participants, optimize your work calendar for productivity, and automatically block time for tasks.",
+  "source_repo": "",
+  "source_url": "https://www.getclockwise.com/mcp",
+  "install": "# git clone --depth 1 https://www.getclockwise.com/mcp\n# See source for mcpServers config block"
+}

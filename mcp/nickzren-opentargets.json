@@ -1,0 +1,7 @@
+{
+  "name": "nickzren-opentargets",
+  "description": "Access biomedical research data for targets, diseases, drugs, variants, and evidence",
+  "source_repo": "nickzren/opentargets-mcp",
+  "source_url": "https://github.com/nickzren/opentargets-mcp",
+  "install": "npx -y opentargets-mcp"
+}

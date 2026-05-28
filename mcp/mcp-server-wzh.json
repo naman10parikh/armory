@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-wzh",
+  "description": "MCP SERVER WZH MCP server listed on mcp.so.",
+  "source_repo": "kyre-99/MCP-SERVER-WZH",
+  "source_url": "https://mcp.so/server/MCP-SERVER-WZH/kyre-99",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-SERVER-WZH/kyre-99\n# See source for mcpServers config block"
+}

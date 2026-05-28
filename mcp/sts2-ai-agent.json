@@ -1,0 +1,7 @@
+{
+  "name": "sts2-ai-agent",
+  "description": "Enables AI agents to play Slay the Spire 2 by exposing game state and actions through an MCP server, supporting combat, rewards, and run management.",
+  "source_repo": "CharTyr/STS2-Agent",
+  "source_url": "https://github.com/CharTyr/STS2-Agent",
+  "install": "# git clone --depth 1 https://github.com/CharTyr/STS2-Agent\n# See source for mcpServers config block"
+}

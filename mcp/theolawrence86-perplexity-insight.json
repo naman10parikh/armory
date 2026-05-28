@@ -1,0 +1,7 @@
+{
+  "name": "theolawrence86-perplexity-insight",
+  "description": "Integrates with Perplexity AI to enable real-time question answering and web search capabilities through customizable tools for direct questions and web queries across multiple Perplexity models.",
+  "source_repo": "theolawrence86/perplexity-insight-mcp",
+  "source_url": "https://github.com/theolawrence86/perplexity-insight-mcp",
+  "install": "npx -y perplexity-insight-mcp"
+}

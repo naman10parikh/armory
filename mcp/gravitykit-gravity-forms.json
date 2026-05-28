@@ -1,0 +1,7 @@
+{
+  "name": "gravitykit-gravity-forms",
+  "description": "Integrates with Gravity Forms REST API v2 to provide comprehensive form, entry, submission, feed, and notification management with intelligent field operations, advanced search capabilities, file upload handling, and dual environment support for safe WordPress development workflows.",
+  "source_repo": "gravitykit/mcp",
+  "source_url": "https://github.com/gravitykit/mcp",
+  "install": "# git clone --depth 1 https://github.com/gravitykit/mcp\n# See source for mcpServers config block"
+}

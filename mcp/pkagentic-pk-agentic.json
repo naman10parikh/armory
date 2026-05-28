@@ -1,0 +1,7 @@
+{
+  "name": "pkagentic-pk-agentic",
+  "description": "Connects to PK Agentic WordPress plugin for AI-powered content management, SEO analysis, and image generation.",
+  "source_repo": "pkagentic/pk-mcp",
+  "source_url": "https://github.com/pkagentic/pk-mcp",
+  "install": "npx -y pk-mcp"
+}

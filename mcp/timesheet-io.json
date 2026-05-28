@@ -1,0 +1,7 @@
+{
+  "name": "timesheet-io",
+  "description": "Manage timers, projects, tasks, and reports in Timesheet.io via natural language.",
+  "source_repo": "timesheetio/timesheet-mcp",
+  "source_url": "https://github.com/timesheetio/timesheet-mcp",
+  "install": "npx -y timesheet-mcp"
+}

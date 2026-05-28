@@ -1,0 +1,7 @@
+{
+  "name": "kamel-irzouni-qwen-max",
+  "description": "Integrates with Qwen Max large language model via Dashscope API for text generation and analysis tasks in applications.",
+  "source_repo": "kamelirzouni/mcp-server-qwen_max",
+  "source_url": "https://github.com/kamelirzouni/mcp-server-qwen_max",
+  "install": "# git clone --depth 1 https://github.com/kamelirzouni/mcp-server-qwen_max\n# See source for mcpServers config block"
+}

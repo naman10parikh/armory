@@ -1,0 +1,7 @@
+{
+  "name": "viking-experience",
+  "description": "Real-time booking, multi-currency pricing, and FAQ for Reykjavik's Viking portrait photo studio.",
+  "source_repo": "",
+  "source_url": "https://mink.is",
+  "install": "# git clone --depth 1 https://mink.is\n# See source for mcpServers config block"
+}

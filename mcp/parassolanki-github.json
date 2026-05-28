@@ -1,0 +1,7 @@
+{
+  "name": "parassolanki-github",
+  "description": "Integrates with GitHub's API to enable repository management, code manipulation, and issue tracking for streamlined development workflows.",
+  "source_repo": "parassolanki/github-mcp-server",
+  "source_url": "https://github.com/parassolanki/github-mcp-server",
+  "install": "npx -y github-mcp-server"
+}

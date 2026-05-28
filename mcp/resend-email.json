@@ -1,0 +1,7 @@
+{
+  "name": "resend-email",
+  "description": "Integrates with the Resend API to enable sending plain text emails with scheduling options and configurable reply-to addresses through command-line or environment variable configuration.",
+  "source_repo": "resend/resend-mcp",
+  "source_url": "https://github.com/resend/resend-mcp",
+  "install": "npx -y resend-mcp"
+}

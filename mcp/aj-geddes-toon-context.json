@@ -1,0 +1,7 @@
+{
+  "name": "aj-geddes-toon-context",
+  "description": "Converts verbose JSON structures to compact TOON format, achieving 40-60% token reduction while maintaining complete data integrity through intelligent pattern detection and automatic compression strategy selection.",
+  "source_repo": "aj-geddes/toon-context-mcp",
+  "source_url": "https://github.com/aj-geddes/toon-context-mcp",
+  "install": "npx -y toon-context-mcp"
+}

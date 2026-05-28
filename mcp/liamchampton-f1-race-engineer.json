@@ -1,0 +1,7 @@
+{
+  "name": "liamchampton-f1-race-engineer",
+  "description": "F1 race engineering assistant MCP server providing real-time race data, strategy analysis, and lap time telemetry.",
+  "source_repo": "liamchampton/f1-race-engineer-mcp",
+  "source_url": "https://github.com/liamchampton/f1-race-engineer-mcp",
+  "install": "npx -y f1-race-engineer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tusharshahi-jira",
+  "description": "Provides a bridge between Jira and conversational interfaces, enabling updating Jira dashboards, ticket creation, project information retrieval, and issue management.",
+  "source_repo": "tusharshahi/mcp-jira",
+  "source_url": "https://github.com/tusharshahi/mcp-jira",
+  "install": "# git clone --depth 1 https://github.com/tusharshahi/mcp-jira\n# See source for mcpServers config block"
+}

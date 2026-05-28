@@ -1,0 +1,7 @@
+{
+  "name": "digitalocean",
+  "description": "Enables AI to manage DigitalOcean cloud infrastructure by providing access to account information, droplets, domains, firewalls, and other services for monitoring and automation tasks.",
+  "source_repo": "digitalocean-labs/mcp-digitalocean",
+  "source_url": "https://github.com/digitalocean-labs/mcp-digitalocean",
+  "install": "# git clone --depth 1 https://github.com/digitalocean-labs/mcp-digitalocean\n# See source for mcpServers config block"
+}

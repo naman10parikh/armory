@@ -1,0 +1,7 @@
+{
+  "name": "adamosk-mysql",
+  "description": "Provides secure MySQL database access with multi-database support, configurable security levels from read-only to full SQL access, and hot-reloadable configurations with lazy connection pooling for efficient database interactions.",
+  "source_repo": "adamosk/mysql-mcp-server",
+  "source_url": "https://github.com/adamosk/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

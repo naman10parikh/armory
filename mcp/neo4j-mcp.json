@@ -1,0 +1,7 @@
+{
+  "name": "neo4j-mcp",
+  "description": "MCP server for Neo4j graph database operations, enabling Cypher queries, node/relationship management, and schema discovery.",
+  "source_repo": "lesleslie/neo4j-mcp",
+  "source_url": "https://github.com/lesleslie/neo4j-mcp",
+  "install": "npx -y neo4j-mcp"
+}

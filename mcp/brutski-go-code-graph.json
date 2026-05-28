@@ -1,0 +1,7 @@
+{
+  "name": "brutski-go-code-graph",
+  "description": "Analyzes Go codebases using AST parsing and Neo4j graph storage to enable natural language queries about code structure, dependencies, architectural patterns, and refactoring impact through interactive visualization and conversational interfaces.",
+  "source_repo": "brutski/go-code-graph",
+  "source_url": "https://github.com/brutski/go-code-graph",
+  "install": "# git clone --depth 1 https://github.com/brutski/go-code-graph\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dreyfus92-astro-docs",
+  "description": "Provides direct access to Astro documentation through searchable, categorized resources and curated prompts for helping developers with component architecture, content management, and deployment tasks.",
+  "source_repo": "dreyfus92/astro-docs-mcp",
+  "source_url": "https://github.com/dreyfus92/astro-docs-mcp",
+  "install": "npx -y astro-docs-mcp"
+}

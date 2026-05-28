@@ -1,0 +1,7 @@
+{
+  "name": "ggerve-coding-standards",
+  "description": "Provides coding style guidelines and best practices for Java, Python, and React in Markdown format to enhance development workflows and maintain consistent code quality.",
+  "source_repo": "ggerve/coding-standards-mcp",
+  "source_url": "https://github.com/ggerve/coding-standards-mcp",
+  "install": "npx -y coding-standards-mcp"
+}

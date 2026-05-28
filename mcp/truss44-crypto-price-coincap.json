@@ -1,0 +1,7 @@
+{
+  "name": "truss44-crypto-price-coincap",
+  "description": "Integrates with CoinCap's API to provide real-time cryptocurrency data, enabling price tracking, market analysis, and historical trend examination for financial applications.",
+  "source_repo": "truss44/mcp-crypto-price",
+  "source_url": "https://github.com/truss44/mcp-crypto-price",
+  "install": "# git clone --depth 1 https://github.com/truss44/mcp-crypto-price\n# See source for mcpServers config block"
+}

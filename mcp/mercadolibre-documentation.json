@@ -1,0 +1,7 @@
+{
+  "name": "mercadolibre-documentation",
+  "description": "Integrates with Mercado Libre's API documentation to provide real-time search and retrieval of technical specifications, code examples, and integration guides with multi-language support for developers building e-commerce applications.",
+  "source_repo": "",
+  "source_url": "https://mcp.mercadolibre.com/",
+  "install": "# git clone --depth 1 https://mcp.mercadolibre.com/\n# See source for mcpServers config block"
+}

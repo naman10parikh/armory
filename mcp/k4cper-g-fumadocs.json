@@ -1,0 +1,7 @@
+{
+  "name": "k4cper-g-fumadocs",
+  "description": "Integrates with Fumadocs documentation platform to enable searches, component documentation retrieval, and framework-specific setup guides for Next.js, React Router, Tanstack Start, and Waku.",
+  "source_repo": "k4cper-g/fumadocs-mcp",
+  "source_url": "https://github.com/k4cper-g/fumadocs-mcp",
+  "install": "npx -y fumadocs-mcp"
+}

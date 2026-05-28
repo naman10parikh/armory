@@ -1,0 +1,7 @@
+{
+  "name": "ray0907-git",
+  "description": "Unified interface for GitHub and GitLab operations",
+  "source_repo": "ray0907/git-mcp-server",
+  "source_url": "https://github.com/ray0907/git-mcp-server",
+  "install": "npx -y git-mcp-server"
+}

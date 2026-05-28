@@ -1,0 +1,7 @@
+{
+  "name": "arre-ankit-notion",
+  "description": "Integrates with Notion to enable creating, reading, updating, and deleting pages and databases for automated note-taking, task management, and knowledge base maintenance.",
+  "source_repo": "arre-ankit/notion-mcp-server",
+  "source_url": "https://github.com/arre-ankit/notion-mcp-server",
+  "install": "npx -y notion-mcp-server"
+}

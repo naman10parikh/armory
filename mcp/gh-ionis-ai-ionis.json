@@ -1,0 +1,7 @@
+{
+  "name": "gh-ionis-ai-ionis",
+  "description": "HF radio propagation analytics with WSPR, RBN, and solar correlation data.",
+  "source_repo": "qso-graph/ionis-mcp",
+  "source_url": "https://github.com/qso-graph/ionis-mcp",
+  "install": "npx -y ionis-mcp"
+}

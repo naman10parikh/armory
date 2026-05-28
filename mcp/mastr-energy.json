@@ -1,0 +1,7 @@
+{
+  "name": "mastr-energy",
+  "description": "Query Germany's official energy market master data register via 21 tools.",
+  "source_repo": "ulircs/mastr-mcp-server",
+  "source_url": "https://github.com/ulircs/mastr-mcp-server",
+  "install": "npx -y mastr-mcp-server"
+}

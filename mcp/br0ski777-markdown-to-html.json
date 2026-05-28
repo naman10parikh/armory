@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-markdown-to-html",
+  "description": "Convert Markdown to clean HTML with headings, lists, and code blocks.",
+  "source_repo": "br0ski777/markdown-to-html-x402",
+  "source_url": "https://github.com/br0ski777/markdown-to-html-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/markdown-to-html-x402\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ethora",
+  "description": "Integrates AI assistants with the Ethora chat platform for messaging, AI bots, and ERC-20 wallets.",
+  "source_repo": "dappros/ethora-mcp-cli",
+  "source_url": "https://github.com/dappros/ethora-mcp-cli",
+  "install": "# git clone --depth 1 https://github.com/dappros/ethora-mcp-cli\n# See source for mcpServers config block"
+}

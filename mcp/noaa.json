@@ -1,0 +1,7 @@
+{
+  "name": "noaa",
+  "description": "NOAA MCP server listed on mcp.so.",
+  "source_repo": "RyanCardin15/NOAA",
+  "source_url": "https://mcp.so/server/NOAA/RyanCardin15",
+  "install": "# git clone --depth 1 https://mcp.so/server/NOAA/RyanCardin15\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "webweaver-nexus",
+  "description": "WebWeaver Nexus services via MCP — waitlist signup, product overview, and contact information.",
+  "source_repo": "webweaver-nexus/webweaver-mcp-server",
+  "source_url": "https://github.com/webweaver-nexus/webweaver-mcp-server",
+  "install": "npx -y webweaver-mcp-server"
+}

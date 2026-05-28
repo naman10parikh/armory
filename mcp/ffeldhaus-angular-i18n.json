@@ -1,0 +1,7 @@
+{
+  "name": "ffeldhaus-angular-i18n",
+  "description": "Automates Angular i18n translation workflows by extracting strings from templates, managing XLIFF translation units with pagination, and updating translations while maintaining proper state tracking.",
+  "source_repo": "ffeldhaus/angular-i18n-mcp",
+  "source_url": "https://github.com/ffeldhaus/angular-i18n-mcp",
+  "install": "npx -y angular-i18n-mcp"
+}

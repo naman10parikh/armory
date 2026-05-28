@@ -1,0 +1,7 @@
+{
+  "name": "azure-cosmos-mcp-server",
+  "description": "Azure Cosmos Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "AzureCosmosDB/azure-cosmos-mcp-server",
+  "source_url": "https://mcp.so/server/azure-cosmos-mcp-server/AzureCosmosDB",
+  "install": "npx -y azure-cosmos-mcp-server"
+}

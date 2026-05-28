@@ -1,0 +1,7 @@
+{
+  "name": "junipr-labs-mcp-server",
+  "description": "Web intelligence API for AI agents — screenshot capture, PDF generation, page metadata extraction, and 75+ specialized data extractors for news, social media, SERP, pricing, and more. Free tier included.",
+  "source_repo": "junipr-labs/mcp-server",
+  "source_url": "https://github.com/junipr-labs/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/junipr-labs/mcp-server\n# See source for mcpServers config block"
+}

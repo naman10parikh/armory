@@ -1,0 +1,7 @@
+{
+  "name": "pigyon-mcpwner",
+  "description": "Secure static code analysis through CodeQL integration with automated workspace creation from GitHub repositories.",
+  "source_repo": "pigyon/mcpwner",
+  "source_url": "https://github.com/pigyon/mcpwner",
+  "install": "# git clone --depth 1 https://github.com/pigyon/mcpwner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clayop-korean-university-regulations",
+  "description": "Search and retrieve regulations from 14 Korean universities that share a common regulation management system.",
+  "source_repo": "clayop/korean-university-regulation-mcp",
+  "source_url": "https://github.com/clayop/korean-university-regulation-mcp",
+  "install": "npx -y korean-university-regulation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "takiguchi-yu-google-workspace",
+  "description": "Integrates with Google Sheets, Slides, and Drive for spreadsheet operations, presentation management, and file search via OAuth2.",
+  "source_repo": "takiguchi-yu/google-workspace-mcp-server",
+  "source_url": "https://github.com/takiguchi-yu/google-workspace-mcp-server",
+  "install": "npx -y google-workspace-mcp-server"
+}

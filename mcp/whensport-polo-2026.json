@@ -1,0 +1,7 @@
+{
+  "name": "whensport-polo-2026",
+  "description": "Access polo tournament schedules and team data for USPA, Argentine Triple Crown, and British Open with player information via 5 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/polo",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/polo\n# See source for mcpServers config block"
+}

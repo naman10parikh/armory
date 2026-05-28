@@ -1,0 +1,7 @@
+{
+  "name": "vnc-mcp",
+  "description": "Enables MCP-compatible LLMs to interact with any desktop accessible over VNC, providing tools for screen reading (OCR), mouse and keyboard control, and automation.",
+  "source_repo": "regulad/vnc-mcp",
+  "source_url": "https://github.com/regulad/vnc-mcp",
+  "install": "npx -y vnc-mcp"
+}

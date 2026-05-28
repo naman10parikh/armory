@@ -1,0 +1,7 @@
+{
+  "name": "gravityphone-grey-swan-llm-safety",
+  "description": "Provides a MongoDB-integrated platform for systematically documenting and analyzing AI safety challenges, tracking LLM vulnerabilities through detailed thread, message, and model metadata across testing sessions.",
+  "source_repo": "gravityphone/swanzmcp",
+  "source_url": "https://github.com/gravityphone/swanzmcp",
+  "install": "# git clone --depth 1 https://github.com/gravityphone/swanzmcp\n# See source for mcpServers config block"
+}

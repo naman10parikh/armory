@@ -1,0 +1,7 @@
+{
+  "name": "claude-gemini-mcp-integration-server",
+  "description": "Bridges Claude Code and Google's Gemini AI models to enable AI-to-AI collaboration for code reviews, brainstorming, and direct questions.",
+  "source_repo": "i3T4AN/Claude-Gemini-MCP-Integration-Server",
+  "source_url": "https://github.com/i3T4AN/Claude-Gemini-MCP-Integration-Server",
+  "install": "# git clone --depth 1 https://github.com/i3T4AN/Claude-Gemini-MCP-Integration-Server\n# See source for mcpServers config block"
+}

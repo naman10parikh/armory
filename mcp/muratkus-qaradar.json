@@ -1,0 +1,7 @@
+{
+  "name": "muratkus-qaradar",
+  "description": "Risk-prioritized test file recommendations based on code churn, coverage, and test mapping.",
+  "source_repo": "muratkus/qaradar",
+  "source_url": "https://github.com/muratkus/qaradar",
+  "install": "# git clone --depth 1 https://github.com/muratkus/qaradar\n# See source for mcpServers config block"
+}

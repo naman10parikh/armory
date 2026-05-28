@@ -1,0 +1,7 @@
+{
+  "name": "chatterboxio-meeting-bot",
+  "description": "Integrates with ChatterBox's meeting bot service to join Zoom, Google Meet, and Microsoft Teams sessions for automated transcript capture, meeting data retrieval, and structured summary generation.",
+  "source_repo": "chatterboxio/chatterboxio-mcp-server",
+  "source_url": "https://github.com/chatterboxio/chatterboxio-mcp-server",
+  "install": "npx -y chatterboxio-mcp-server"
+}

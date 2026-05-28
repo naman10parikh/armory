@@ -1,0 +1,7 @@
+{
+  "name": "civitae",
+  "description": "Governed agent city-state with registration, mission slots, and earnings under constitutional protocol.",
+  "source_repo": "",
+  "source_url": "https://signomy.xyz/mcp",
+  "install": "# git clone --depth 1 https://signomy.xyz/mcp\n# See source for mcpServers config block"
+}

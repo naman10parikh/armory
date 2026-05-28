@@ -1,0 +1,7 @@
+{
+  "name": "kivo360-anthropic-code-analyzer",
+  "description": "Integrates with open source projects to analyze codebases, detect patterns, and generate intelligent merge strategies for streamlined integration and refactoring.",
+  "source_repo": "kivo360/anthropic-mcp-code-analyzer",
+  "source_url": "https://github.com/kivo360/anthropic-mcp-code-analyzer",
+  "install": "# git clone --depth 1 https://github.com/kivo360/anthropic-mcp-code-analyzer\n# See source for mcpServers config block"
+}

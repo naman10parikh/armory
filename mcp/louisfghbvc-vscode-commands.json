@@ -1,0 +1,7 @@
+{
+  "name": "louisfghbvc-vscode-commands",
+  "description": "Bridges VSCode extensions with external tools by exposing VSCode commands as executable tools, enabling command discovery, execution with parameters, and error handling for development workflows.",
+  "source_repo": "louisfghbvc/mcp-vscode-commands",
+  "source_url": "https://github.com/louisfghbvc/mcp-vscode-commands",
+  "install": "# git clone --depth 1 https://github.com/louisfghbvc/mcp-vscode-commands\n# See source for mcpServers config block"
+}

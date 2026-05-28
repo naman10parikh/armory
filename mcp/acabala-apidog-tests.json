@@ -1,0 +1,7 @@
+{
+  "name": "acabala-apidog-tests",
+  "description": "Manage Apidog test cases, scenarios, suites, and test data from AI agents.",
+  "source_repo": "acabala/apidog-tests-mcp",
+  "source_url": "https://github.com/acabala/apidog-tests-mcp",
+  "install": "npx -y apidog-tests-mcp"
+}

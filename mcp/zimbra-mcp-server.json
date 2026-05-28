@@ -1,0 +1,7 @@
+{
+  "name": "zimbra-mcp-server",
+  "description": "Enables to manage Zimbra emails, tags, calendar, and contacts through natural language. Supports searching, sending, drafting emails, managing contacts, tags, and calendar events.",
+  "source_repo": "jeremie-lesage/zimbra-mcp",
+  "source_url": "https://github.com/jeremie-lesage/zimbra-mcp",
+  "install": "npx -y zimbra-mcp"
+}

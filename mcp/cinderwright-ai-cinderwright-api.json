@@ -1,0 +1,7 @@
+{
+  "name": "cinderwright-ai-cinderwright-api",
+  "description": "x402 Discovery Hub. Search engine for the agent economy with 1450+ services indexed. Pay with USDC on Base via x402.",
+  "source_repo": "cinderwright-ai/cinderwright-api",
+  "source_url": "https://github.com/cinderwright-ai/cinderwright-api",
+  "install": "# git clone --depth 1 https://github.com/cinderwright-ai/cinderwright-api\n# See source for mcpServers config block"
+}

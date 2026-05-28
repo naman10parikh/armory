@@ -1,0 +1,7 @@
+{
+  "name": "code-expert-mcp-server",
+  "description": "Analyzes codebases from local directories, GitHub, and Azure DevOps, providing intelligent context to AI coding assistants through repository structure, critical files, and semantic maps.",
+  "source_repo": "lfnovo/code-expert-mcp",
+  "source_url": "https://github.com/lfnovo/code-expert-mcp",
+  "install": "npx -y code-expert-mcp"
+}

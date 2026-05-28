@@ -1,0 +1,7 @@
+{
+  "name": "stopwarbywar-binance-smart-chain",
+  "description": "Enables blockchain operations on Binance Smart Chain including token deployment, trading, and asset management through Web3.py integration with PancakeSwap V3 for cryptocurrency workflows.",
+  "source_repo": "stopwarbywar/beeper-mcp-server",
+  "source_url": "https://github.com/stopwarbywar/beeper-mcp-server",
+  "install": "npx -y beeper-mcp-server"
+}

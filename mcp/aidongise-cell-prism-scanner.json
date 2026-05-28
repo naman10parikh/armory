@@ -1,0 +1,7 @@
+{
+  "name": "aidongise-cell-prism-scanner",
+  "description": "Scans AI agent skills, plugins, and MCP servers for security vulnerabilities using 39 detection rules.",
+  "source_repo": "aidongise-cell/prism-scanner",
+  "source_url": "https://github.com/aidongise-cell/prism-scanner",
+  "install": "# git clone --depth 1 https://github.com/aidongise-cell/prism-scanner\n# See source for mcpServers config block"
+}

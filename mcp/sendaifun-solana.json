@@ -1,0 +1,7 @@
+{
+  "name": "sendaifun-solana",
+  "description": "Enables blockchain interactions on Solana by providing a comprehensive server for asset retrieval, token deployment, wallet management, transfers, NFT minting, and domain resolution.",
+  "source_repo": "sendaifun/solana-mcp",
+  "source_url": "https://github.com/sendaifun/solana-mcp",
+  "install": "npx -y solana-mcp"
+}

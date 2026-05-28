@@ -1,0 +1,7 @@
+{
+  "name": "openai-mcp",
+  "description": "Openai Mcp MCP server listed on mcp.so.",
+  "source_repo": "jezweb/openai-mcp",
+  "source_url": "https://mcp.so/server/openai-mcp/jezweb",
+  "install": "npx -y openai-mcp"
+}

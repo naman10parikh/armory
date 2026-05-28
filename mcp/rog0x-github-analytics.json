@@ -1,0 +1,7 @@
+{
+  "name": "rog0x-github-analytics",
+  "description": "GitHub repository analytics including repo analysis, PR summaries, issue triage, release notes generation, and contributor statistics.",
+  "source_repo": "rog0x/mcp-github-tools",
+  "source_url": "https://github.com/rog0x/mcp-github-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-github-tools\n# See source for mcpServers config block"
+}

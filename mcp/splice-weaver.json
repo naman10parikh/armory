@@ -1,0 +1,7 @@
+{
+  "name": "splice-weaver",
+  "description": "Provides AST-powered semantic code editing capabilities across 20+ programming languages through ast-grep integration, enabling precise structure-aware code modifications, scope-based navigation, and automated refactoring workflows with pattern matching and rule generation.",
+  "source_repo": "micahscopes/splice-weaver-mcp",
+  "source_url": "https://github.com/micahscopes/splice-weaver-mcp",
+  "install": "npx -y splice-weaver-mcp"
+}

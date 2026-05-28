@@ -1,0 +1,7 @@
+{
+  "name": "webreactiva-devs-character-counter",
+  "description": "Analyzes text by counting total characters, characters without spaces, letters, numbers, and symbols for lightweight text composition statistics.",
+  "source_repo": "webreactiva-devs/mcp-character-counter",
+  "source_url": "https://github.com/webreactiva-devs/mcp-character-counter",
+  "install": "# git clone --depth 1 https://github.com/webreactiva-devs/mcp-character-counter\n# See source for mcpServers config block"
+}

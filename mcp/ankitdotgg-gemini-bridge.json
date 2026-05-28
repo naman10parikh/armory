@@ -1,0 +1,7 @@
+{
+  "name": "ankitdotgg-gemini-bridge",
+  "description": "Delegates large-context tasks from Claude to Google Gemini via subprocess, enabling token-efficient analysis of large files and codebases.",
+  "source_repo": "ankitdotgg/making-gemini-useful-with-claude",
+  "source_url": "https://github.com/ankitdotgg/making-gemini-useful-with-claude",
+  "install": "# git clone --depth 1 https://github.com/ankitdotgg/making-gemini-useful-with-claude\n# See source for mcpServers config block"
+}

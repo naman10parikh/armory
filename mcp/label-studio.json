@@ -1,0 +1,7 @@
+{
+  "name": "label-studio",
+  "description": "Integrates with Label Studio's data labeling platform to manage annotation projects, import tasks, handle predictions, and streamline machine learning data preparation workflows.",
+  "source_repo": "humansignal/label-studio-mcp-server",
+  "source_url": "https://github.com/humansignal/label-studio-mcp-server",
+  "install": "npx -y label-studio-mcp-server"
+}

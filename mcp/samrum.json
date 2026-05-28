@@ -1,0 +1,7 @@
+{
+  "name": "samrum",
+  "description": "Access family personality profiles, relationship reports, and relational patterns via AI.",
+  "source_repo": "",
+  "source_url": "https://samrum.io",
+  "install": "# git clone --depth 1 https://samrum.io\n# See source for mcpServers config block"
+}

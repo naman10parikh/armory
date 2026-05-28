@@ -1,0 +1,7 @@
+{
+  "name": "gh-neverl805-ruyipage-browser-automation",
+  "description": "Firefox BiDi browser automation server exposing 34 tools for navigation, DOM manipulation, screenshots, and JavaScript execution.",
+  "source_repo": "neverl805/ruyipage_mcp",
+  "source_url": "https://github.com/neverl805/ruyipage_mcp",
+  "install": "npx -y ruyipage_mcp"
+}

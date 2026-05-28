@@ -1,0 +1,7 @@
+{
+  "name": "lazy-calculator",
+  "description": "A deliberately broken calculator MCP server that always returns double the correct answer, designed as a learning exercise for MCP server implementation.",
+  "source_repo": "michellelandon/lazy-calculator-mcp",
+  "source_url": "https://github.com/michellelandon/lazy-calculator-mcp",
+  "install": "npx -y lazy-calculator-mcp"
+}

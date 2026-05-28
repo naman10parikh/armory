@@ -1,0 +1,7 @@
+{
+  "name": "mediaeater-swarm-at",
+  "description": "Settlement protocol for AI agent swarms with hash-chained ledger, trust scoring, blueprints, and cross-vendor agent coordination.",
+  "source_repo": "mediaeater/swarm-at-ledger",
+  "source_url": "https://github.com/mediaeater/swarm-at-ledger",
+  "install": "# git clone --depth 1 https://github.com/mediaeater/swarm-at-ledger\n# See source for mcpServers config block"
+}

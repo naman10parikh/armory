@@ -1,0 +1,7 @@
+{
+  "name": "samuel-gursky-davinci-resolve",
+  "description": "Enables developers and video editors to automate complex workflows in DaVinci Resolve by providing a flexible Python-based scripting interface for timeline manipulation, clip analysis, color correction, and media pool management.",
+  "source_repo": "samuelgursky/davinci-resolve-mcp",
+  "source_url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+  "install": "npx -y davinci-resolve-mcp"
+}

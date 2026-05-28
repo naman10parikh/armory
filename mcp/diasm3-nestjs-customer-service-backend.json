@@ -1,0 +1,7 @@
+{
+  "name": "diasm3-nestjs-customer-service-backend",
+  "description": "Integrates with NestJS customer service backend to manage complaint workflows, user data, employee assignments, and JIRA ticket operations with comprehensive filtering, escalation tracking, and audit trail capabilities.",
+  "source_repo": "diasm3/n8n_postgres_mcp_server_backend",
+  "source_url": "https://github.com/diasm3/n8n_postgres_mcp_server_backend/tree/HEAD/mcp_server_practice",
+  "install": "# git clone --depth 1 https://github.com/diasm3/n8n_postgres_mcp_server_backend/tree/HEAD/mcp_server_practice\n# See source for mcpServers config block"
+}

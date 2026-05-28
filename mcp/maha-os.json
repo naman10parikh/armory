@@ -1,0 +1,7 @@
+{
+  "name": "maha-os",
+  "description": "Biological and metabolic telemetry tools for the Maha OS health platform.",
+  "source_repo": "",
+  "source_url": "https://mcp.maha-os.com/mcp/sse",
+  "install": "# git clone --depth 1 https://mcp.maha-os.com/mcp/sse\n# See source for mcpServers config block"
+}

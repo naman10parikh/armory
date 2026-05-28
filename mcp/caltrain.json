@@ -1,0 +1,7 @@
+{
+  "name": "caltrain",
+  "description": "Provides real-time Caltrain commuter rail information including schedules, station details, and trip planning for the San Francisco Bay Area",
+  "source_repo": "davidyen1124/caltrain-mcp",
+  "source_url": "https://github.com/davidyen1124/caltrain-mcp",
+  "install": "npx -y caltrain-mcp"
+}

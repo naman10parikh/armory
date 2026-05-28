@@ -1,0 +1,7 @@
+{
+  "name": "skyuniversemax-travel-agents",
+  "description": "Multi-agent travel assistant MCP server for flight, hotel, car rental, and tour queries with stdio, SSE, and HTTP transports.",
+  "source_repo": "skyuniversemax/travel-agents-mcp",
+  "source_url": "https://github.com/skyuniversemax/travel-agents-mcp",
+  "install": "npx -y travel-agents-mcp"
+}

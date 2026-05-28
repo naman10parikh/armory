@@ -1,0 +1,7 @@
+{
+  "name": "ramidecodes-notion",
+  "description": "Integrates with the Notion API to enable searching, querying databases, managing pages and blocks, and handling users and comments for content management and collaborative document editing.",
+  "source_repo": "ramidecodes/mcp-server-notion",
+  "source_url": "https://github.com/ramidecodes/mcp-server-notion",
+  "install": "# git clone --depth 1 https://github.com/ramidecodes/mcp-server-notion\n# See source for mcpServers config block"
+}

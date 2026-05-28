@@ -1,0 +1,7 @@
+{
+  "name": "kbyk004-playwright-lighthouse",
+  "description": "Combines Playwright's browser automation with Lighthouse's auditing capabilities to analyze website performance, generate detailed reports, and capture screenshots for web development optimization.",
+  "source_repo": "kbyk004-diy/playwright-lighthouse-mcp",
+  "source_url": "https://github.com/kbyk004-diy/playwright-lighthouse-mcp",
+  "install": "npx -y playwright-lighthouse-mcp"
+}

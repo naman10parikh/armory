@@ -1,0 +1,7 @@
+{
+  "name": "mo-hemprasadb-43257-outlook",
+  "description": "Searches and analyzes Outlook emails via Windows COM automation with shared mailbox and AdvancedSearch support.",
+  "source_repo": "techiewonk/outlook-mcp-server",
+  "source_url": "https://github.com/techiewonk/outlook-mcp-server",
+  "install": "npx -y outlook-mcp-server"
+}

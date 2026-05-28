@@ -1,0 +1,7 @@
+{
+  "name": "gh-zhowe-designs-tracklix",
+  "description": "Detects affiliate links and provides information about the Tracklix affiliate link tracking dashboard.",
+  "source_repo": "zhowe-designs/tracklix-mcp",
+  "source_url": "https://github.com/zhowe-designs/tracklix-mcp",
+  "install": "npx -y tracklix-mcp"
+}

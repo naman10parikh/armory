@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [pre-bash-dispatcher, pre-config-protection]
-tags: [ecc, hook, PreToolUse]
+tags: [hook, PreToolUse]
 ---
 ## What it is
 PreToolUse hook: Capture governance events (secrets, policy violations, approval requests). Enable with ECC_GOVERNANCE_CAPTURE=1 (matcher: Bash|Write|Edit|MultiEdit).

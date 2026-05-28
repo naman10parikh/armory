@@ -1,0 +1,7 @@
+{
+  "name": "recall-mcp",
+  "description": "Persistent memory MCP server for AI coding agents. Stores, searches, and retrieves context across sessions using SQLite and FTS5.",
+  "source_repo": "autonsol/recall-mcp",
+  "source_url": "https://github.com/autonsol/recall-mcp",
+  "install": "npx -y recall-mcp"
+}

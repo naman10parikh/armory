@@ -1,0 +1,7 @@
+{
+  "name": "hainrixz-auto-crm",
+  "description": "Self-customizing open-source CRM with AI-powered pipeline analysis running on local SQLite.",
+  "source_repo": "hainrixz/auto-crm",
+  "source_url": "https://github.com/hainrixz/auto-crm",
+  "install": "# git clone --depth 1 https://github.com/hainrixz/auto-crm\n# See source for mcpServers config block"
+}

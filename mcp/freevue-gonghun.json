@@ -1,0 +1,7 @@
+{
+  "name": "freevue-gonghun",
+  "description": "Searches and retrieves Korean independence merit records from the national veterans affairs database.",
+  "source_repo": "freevue/gonghun-mcp",
+  "source_url": "https://github.com/freevue/gonghun-mcp",
+  "install": "npx -y gonghun-mcp"
+}

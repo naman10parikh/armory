@@ -1,0 +1,7 @@
+{
+  "name": "myque08-savvy-scratch",
+  "description": "Access the Savvy Scratch lottery analysis platform through AI assistants, covering scratch-off game data across 19 U.S. states.",
+  "source_repo": "myque08/savvymcp",
+  "source_url": "https://github.com/myque08/savvymcp",
+  "install": "# git clone --depth 1 https://github.com/myque08/savvymcp\n# See source for mcpServers config block"
+}

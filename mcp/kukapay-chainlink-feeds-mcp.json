@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-chainlink-feeds-mcp",
+  "description": "Providing real-time access to Chainlink's decentralized on-chain price feeds.",
+  "source_repo": "kukapay/chainlink-feeds-mcp",
+  "source_url": "https://github.com/kukapay/chainlink-feeds-mcp",
+  "install": "npx -y chainlink-feeds-mcp"
+}

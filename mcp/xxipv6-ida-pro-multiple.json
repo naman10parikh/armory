@@ -1,0 +1,7 @@
+{
+  "name": "xxipv6-ida-pro-multiple",
+  "description": "Bridges IDA Pro's reverse engineering capabilities with language models through a multi-session architecture that enables concurrent binary analysis across isolated processes for malware analysis and vulnerability research workflows.",
+  "source_repo": "xxipv6/ida-pro-mcp-multiple",
+  "source_url": "https://github.com/xxipv6/ida-pro-mcp-multiple",
+  "install": "# git clone --depth 1 https://github.com/xxipv6/ida-pro-mcp-multiple\n# See source for mcpServers config block"
+}

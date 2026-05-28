@@ -1,0 +1,7 @@
+{
+  "name": "nocturnus",
+  "description": "Deterministic context compression engine that extracts and ranks facts from AI agent conversations.",
+  "source_repo": "auctalis/nocturnusai",
+  "source_url": "https://github.com/auctalis/nocturnusai",
+  "install": "# git clone --depth 1 https://github.com/auctalis/nocturnusai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zhizhuodemao-wechat-miniapp-debugger",
+  "description": "Enables AI assistants to debug WeChat mini-programs via Chrome DevTools Protocol, with breakpoints, network interception, and source analysis.",
+  "source_repo": "zhizhuodemao/miniapp-cdp-mcp",
+  "source_url": "https://github.com/zhizhuodemao/miniapp-cdp-mcp",
+  "install": "npx -y miniapp-cdp-mcp"
+}

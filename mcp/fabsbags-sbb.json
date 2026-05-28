@@ -1,0 +1,7 @@
+{
+  "name": "fabsbags-sbb",
+  "description": "Swiss Federal Railways train schedules, pricing, and ticket links via the SBB SMAPI.",
+  "source_repo": "fabsbags/sbb-mcp",
+  "source_url": "https://github.com/fabsbags/sbb-mcp",
+  "install": "npx -y sbb-mcp"
+}

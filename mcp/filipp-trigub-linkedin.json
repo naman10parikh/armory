@@ -1,0 +1,7 @@
+{
+  "name": "filipp-trigub-linkedin",
+  "description": "Integrates with LinkedIn to enable direct posting of text and media content with customizable visibility settings through OAuth2 authentication and secure token management.",
+  "source_repo": "filipptrigub/linkedin-mcp",
+  "source_url": "https://github.com/filipptrigub/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

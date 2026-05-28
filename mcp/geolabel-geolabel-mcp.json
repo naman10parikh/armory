@@ -1,0 +1,7 @@
+{
+  "name": "geolabel-geolabel-mcp",
+  "description": "GPS coordinates to AI-ready location context — returns place name, stable category (gym, supermarket, restaurant…), and live opening hours via OpenStreetMap. Works in Claude Desktop, Claude Code, Hermes Agent, OpenClaw, and any MCP client.",
+  "source_repo": "geolabel/geolabel-mcp",
+  "source_url": "https://github.com/geolabel/geolabel-mcp",
+  "install": "npx -y geolabel-mcp"
+}

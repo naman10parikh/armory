@@ -1,0 +1,7 @@
+{
+  "name": "gh-jinho-von-choi-parism",
+  "description": "Structured shell output parser for command execution.",
+  "source_repo": "jinho-von-choi/parism",
+  "source_url": "https://github.com/jinho-von-choi/parism",
+  "install": "# git clone --depth 1 https://github.com/jinho-von-choi/parism\n# See source for mcpServers config block"
+}

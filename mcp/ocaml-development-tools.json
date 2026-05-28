@@ -1,0 +1,7 @@
+{
+  "name": "ocaml-development-tools",
+  "description": "Integrates with OCaml's Dune build system and Merlin code intelligence to provide real-time build status monitoring and module signature extraction for OCaml development projects.",
+  "source_repo": "tmattio/ocaml-mcp",
+  "source_url": "https://github.com/tmattio/ocaml-mcp",
+  "install": "npx -y ocaml-mcp"
+}

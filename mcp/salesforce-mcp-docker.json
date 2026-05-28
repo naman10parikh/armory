@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp-docker",
+  "description": "Salesforce Mcp Docker MCP server listed on mcp.so.",
+  "source_repo": "Yusful33/salesforce-mcp-docker",
+  "source_url": "https://mcp.so/server/salesforce-mcp-docker/Yusful33",
+  "install": "# git clone --depth 1 https://mcp.so/server/salesforce-mcp-docker/Yusful33\n# See source for mcpServers config block"
+}

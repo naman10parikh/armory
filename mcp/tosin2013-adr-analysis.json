@@ -1,0 +1,7 @@
+{
+  "name": "tosin2013-adr-analysis",
+  "description": "Analyzes Architecture Decision Records (ADRs) to extract decision context, validate against best practices, and identify architectural patterns for maintaining documentation quality and tracking technical debt evolution.",
+  "source_repo": "tosin2013/mcp-adr-analysis-server",
+  "source_url": "https://github.com/tosin2013/mcp-adr-analysis-server",
+  "install": "# git clone --depth 1 https://github.com/tosin2013/mcp-adr-analysis-server\n# See source for mcpServers config block"
+}

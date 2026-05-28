@@ -1,0 +1,7 @@
+{
+  "name": "keiner-2006-ferreteria-angular",
+  "description": "Exposes hardware store inventory and sales data from a .NET backend for product lookups, order tracking, and sales history retrieval.",
+  "source_repo": "keiner-2006/proyectoferreteria-angular",
+  "source_url": "https://github.com/keiner-2006/proyectoferreteria-angular/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/keiner-2006/proyectoferreteria-angular/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

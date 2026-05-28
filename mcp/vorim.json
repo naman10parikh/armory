@@ -1,0 +1,7 @@
+{
+  "name": "vorim",
+  "description": "Identity and trust layer for autonomous AI agents — cryptographic identity, permission management, audit trails, and behavioral trust scoring.",
+  "source_repo": "kzino/vorim-mcp-server",
+  "source_url": "https://github.com/kzino/vorim-mcp-server",
+  "install": "npx -y vorim-mcp-server"
+}

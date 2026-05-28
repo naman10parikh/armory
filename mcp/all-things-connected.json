@@ -1,0 +1,7 @@
+{
+  "name": "all-things-connected",
+  "description": "Knowledge connection system",
+  "source_repo": "Mon8Cats/all-things-connected",
+  "source_url": "https://github.com/Mon8Cats/all-things-connected",
+  "install": "# git clone --depth 1 https://github.com/Mon8Cats/all-things-connected\n# See source for mcpServers config block"
+}

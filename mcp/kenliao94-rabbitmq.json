@@ -1,0 +1,7 @@
+{
+  "name": "kenliao94-rabbitmq",
+  "description": "Integrates RabbitMQ, enabling message queue operations for distributed systems and event-driven architectures.",
+  "source_repo": "kenliao94/mcp-server-rabbitmq",
+  "source_url": "https://github.com/kenliao94/mcp-server-rabbitmq",
+  "install": "# git clone --depth 1 https://github.com/kenliao94/mcp-server-rabbitmq\n# See source for mcpServers config block"
+}

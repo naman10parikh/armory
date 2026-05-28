@@ -1,0 +1,7 @@
+{
+  "name": "turlockmike-chess",
+  "description": "Integrates with chess engines and libraries to provide game analysis, move generation, and position evaluation for chess applications and research.",
+  "source_repo": "turlockmike/chess-mcp",
+  "source_url": "https://github.com/turlockmike/chess-mcp",
+  "install": "npx -y chess-mcp"
+}

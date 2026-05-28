@@ -1,0 +1,7 @@
+{
+  "name": "qflav-agentdrop",
+  "description": "AI agent deployment and management tool for streamlined agent publishing workflows.",
+  "source_repo": "qflav/agentdrop-mcp-server",
+  "source_url": "https://github.com/qflav/agentdrop-mcp-server",
+  "install": "npx -y agentdrop-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sapph1re-findata-mcp",
+  "description": "Stock quotes, fundamentals, FRED economic data, SEC filings, and crypto prices via x402 micropayments.",
+  "source_repo": "sapph1re/findata-mcp",
+  "source_url": "https://github.com/sapph1re/findata-mcp",
+  "install": "npx -y findata-mcp"
+}

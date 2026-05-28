@@ -1,0 +1,7 @@
+{
+  "name": "ssh-real-mcp-server",
+  "description": "Enables SSH remote command execution on any host using the system ssh binary, supporting existing configurations like ssh-agent, ProxyCommand, and jump hosts.",
+  "source_repo": "danielecr/realssh-mcp",
+  "source_url": "https://github.com/danielecr/realssh-mcp",
+  "install": "npx -y realssh-mcp"
+}

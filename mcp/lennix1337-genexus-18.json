@@ -1,0 +1,7 @@
+{
+  "name": "lennix1337-genexus-18",
+  "description": "MCP server for reading, editing, and analyzing GeneXus 18 knowledge base objects with AI agents.",
+  "source_repo": "lennix1337/genexus18mcp",
+  "source_url": "https://github.com/lennix1337/genexus18mcp",
+  "install": "# git clone --depth 1 https://github.com/lennix1337/genexus18mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "versuscontrol-aws-infrastructure-agent",
+  "description": "Provides autonomous AWS infrastructure management through natural language processing, combining real-time resource discovery with AI-driven planning to execute step-by-step deployments across EC2, VPC, RDS, and security groups while maintaining persistent state tracking and conflict resolution.",
+  "source_repo": "versuscontrol/ai-infrastructure-agent",
+  "source_url": "https://github.com/versuscontrol/ai-infrastructure-agent",
+  "install": "# git clone --depth 1 https://github.com/versuscontrol/ai-infrastructure-agent\n# See source for mcpServers config block"
+}

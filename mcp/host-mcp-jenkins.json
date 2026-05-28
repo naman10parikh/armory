@@ -1,0 +1,7 @@
+{
+  "name": "host-mcp-jenkins",
+  "description": "A local MCP server for Jenkins that provides 17 tools to interact with Jenkins jobs, builds, logs, SCM, and test results via REST API, no plugin required.",
+  "source_repo": "mister-good-deal/host-mcp-jenkins",
+  "source_url": "https://github.com/mister-good-deal/host-mcp-jenkins",
+  "install": "# git clone --depth 1 https://github.com/mister-good-deal/host-mcp-jenkins\n# See source for mcpServers config block"
+}

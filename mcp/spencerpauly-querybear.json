@@ -1,0 +1,7 @@
+{
+  "name": "spencerpauly-querybear",
+  "description": "MCP server for safe AI access to production databases with SQL AST parsing, table allowlisting, column filtering, and row limits.",
+  "source_repo": "spencerpauly/querybear",
+  "source_url": "https://github.com/spencerpauly/querybear",
+  "install": "# git clone --depth 1 https://github.com/spencerpauly/querybear\n# See source for mcpServers config block"
+}

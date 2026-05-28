@@ -1,0 +1,7 @@
+{
+  "name": "apifox-filter-mcp-server",
+  "description": "Precisely filter and fetch API documentation from Apifox or any OpenAPI URL, reducing context bloat by fetching only needed endpoints.",
+  "source_repo": "xiaou66/apifox-filter-mcp-server",
+  "source_url": "https://github.com/xiaou66/apifox-filter-mcp-server",
+  "install": "npx -y apifox-filter-mcp-server"
+}

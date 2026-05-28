@@ -1,0 +1,7 @@
+{
+  "name": "lgcarrier-xrpl",
+  "description": "Provides direct access to XRP Ledger data and functionality, enabling querying account information, transaction history, and submitting signed transactions to the network.",
+  "source_repo": "lgcarrier/xrpl-mcp-server",
+  "source_url": "https://github.com/lgcarrier/xrpl-mcp-server",
+  "install": "npx -y xrpl-mcp-server"
+}

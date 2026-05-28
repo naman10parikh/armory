@@ -1,0 +1,7 @@
+{
+  "name": "bellekou-mcp-viral-transformer",
+  "description": "Turn URLs into viral posts via \"remake\" command.",
+  "source_repo": "BelleKou/mcp-viral-transformer",
+  "source_url": "https://github.com/BelleKou/mcp-viral-transformer",
+  "install": "# git clone --depth 1 https://github.com/BelleKou/mcp-viral-transformer\n# See source for mcpServers config block"
+}

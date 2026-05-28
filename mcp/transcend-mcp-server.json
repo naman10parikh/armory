@@ -1,0 +1,7 @@
+{
+  "name": "transcend-mcp-server",
+  "description": "AI-powered route optimization MCP server for heavy vehicles and logistics. Calculate truck-optimized routes, predict traffic congestion with LSTM neural networks, compute toll costs, fuel costs and CO2 emissions, find truck stops and check weather along any European route.",
+  "source_repo": "cargoffer/transcend-mcp-server",
+  "source_url": "https://github.com/cargoffer/transcend-mcp-server",
+  "install": "npx -y transcend-mcp-server"
+}

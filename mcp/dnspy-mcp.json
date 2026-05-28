@@ -1,0 +1,7 @@
+{
+  "name": "dnspy-mcp",
+  "description": "A Model Context Protocol server for static .NET assembly analysis, offering decompilation, IL disassembly, metadata inspection, and protection detection tools without executing target assemblies.",
+  "source_repo": "notgate/dnSpy-MCP",
+  "source_url": "https://github.com/notgate/dnSpy-MCP",
+  "install": "npx -y dnSpy-MCP"
+}

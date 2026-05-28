@@ -1,0 +1,7 @@
+{
+  "name": "kotlin-android",
+  "description": "Provides Android/Kotlin development capabilities through 31+ specialized tools covering code generation, build management, architecture setup, Gradle operations, ktlint formatting, Android Lint analysis, Room database configuration, Retrofit API setup, MVVM scaffolding, Jetpack Compose creation, and security utilities with encryption and compliance support.",
+  "source_repo": "normaltusker/kotlin-mcp-server",
+  "source_url": "https://github.com/normaltusker/kotlin-mcp-server",
+  "install": "npx -y kotlin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "danielcy-coze-openclaw",
+  "description": "Bridges Coze workflow automation with MCP clients for listing, executing, and managing Coze workflows through conversational interfaces.",
+  "source_repo": "danielcy/coze-mcp-for-openclaw",
+  "source_url": "https://github.com/danielcy/coze-mcp-for-openclaw",
+  "install": "# git clone --depth 1 https://github.com/danielcy/coze-mcp-for-openclaw\n# See source for mcpServers config block"
+}

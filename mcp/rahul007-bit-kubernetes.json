@@ -1,0 +1,7 @@
+{
+  "name": "rahul007-bit-kubernetes",
+  "description": "Integrates with Kubernetes clusters to provide pod operations, deployment scaling, node management, and resource monitoring through 20+ specialized tools with intelligent YAML application and real-time event streaming capabilities.",
+  "source_repo": "rahul007-bit/k8s-mcp",
+  "source_url": "https://github.com/rahul007-bit/k8s-mcp",
+  "install": "npx -y k8s-mcp"
+}

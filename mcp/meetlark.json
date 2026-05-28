@@ -1,0 +1,7 @@
+{
+  "name": "meetlark",
+  "description": "Agent-first meeting schedule polls for humans and agents. Create polls, vote, and find times.",
+  "source_repo": "",
+  "source_url": "https://meetlark.ai",
+  "install": "# git clone --depth 1 https://meetlark.ai\n# See source for mcpServers config block"
+}

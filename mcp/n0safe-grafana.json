@@ -1,0 +1,7 @@
+{
+  "name": "n0safe-grafana",
+  "description": "Connects AI systems to Grafana monitoring dashboards, enabling access to visualization data, dashboards, folders, and datasources for enhanced monitoring workflows and infrastructure troubleshooting.",
+  "source_repo": "n0safe/grafana-mcp",
+  "source_url": "https://github.com/n0safe/grafana-mcp",
+  "install": "npx -y grafana-mcp"
+}

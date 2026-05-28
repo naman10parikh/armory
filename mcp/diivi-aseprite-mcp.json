@@ -1,0 +1,7 @@
+{
+  "name": "diivi-aseprite-mcp",
+  "description": "MCP server using the Aseprite API to create pixel art",
+  "source_repo": "diivi/aseprite-mcp",
+  "source_url": "https://github.com/diivi/aseprite-mcp",
+  "install": "npx -y aseprite-mcp"
+}

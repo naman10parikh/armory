@@ -1,0 +1,7 @@
+{
+  "name": "anamnese",
+  "description": "Personal memory and productivity layer for AI assistants with cloud-synced facts, tasks, goals, and notes.",
+  "source_repo": "anamneseai/anamnese-plugin-marketplace",
+  "source_url": "https://github.com/anamneseai/anamnese-plugin-marketplace",
+  "install": "# git clone --depth 1 https://github.com/anamneseai/anamnese-plugin-marketplace\n# See source for mcpServers config block"
+}

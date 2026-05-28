@@ -1,0 +1,7 @@
+{
+  "name": "bram2w-baserow",
+  "description": "Baserow database integration with table search, list, and row create, read, update, and delete capabilities.",
+  "source_repo": "bram2w/baserow",
+  "source_url": "https://github.com/bram2w/baserow",
+  "install": "# git clone --depth 1 https://github.com/bram2w/baserow\n# See source for mcpServers config block"
+}

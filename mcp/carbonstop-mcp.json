@@ -1,0 +1,7 @@
+{
+  "name": "carbonstop-mcp",
+  "description": "MCP server enabling AI assistants to automatically perform carbon footprint modeling, product queries, and emission analysis via the Carbonstop Cloud API.",
+  "source_repo": "carbonstop-hub/carbonstop-mcp",
+  "source_url": "https://github.com/carbonstop-hub/carbonstop-mcp",
+  "install": "npx -y carbonstop-mcp"
+}

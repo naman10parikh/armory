@@ -1,0 +1,7 @@
+{
+  "name": "hiveagentiq-simpson-strong-tie",
+  "description": "Look up Simpson Strong-Tie structural products, specifications, and construction catalog data.",
+  "source_repo": "srotzin/simpson-strong-agent-service",
+  "source_url": "https://github.com/srotzin/simpson-strong-agent-service",
+  "install": "# git clone --depth 1 https://github.com/srotzin/simpson-strong-agent-service\n# See source for mcpServers config block"
+}

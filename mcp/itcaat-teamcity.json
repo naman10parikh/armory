@@ -1,0 +1,7 @@
+{
+  "name": "itcaat-teamcity",
+  "description": "Integrates with JetBrains TeamCity for complete CI/CD pipeline management, enabling build triggering, cancellation, pinning, artifact downloads, tag management, and advanced build search with status, branch, and date filtering.",
+  "source_repo": "itcaat/teamcity-mcp",
+  "source_url": "https://github.com/itcaat/teamcity-mcp",
+  "install": "npx -y teamcity-mcp"
+}

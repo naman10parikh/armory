@@ -1,0 +1,7 @@
+{
+  "name": "netdata",
+  "description": "Real-time infrastructure monitoring with metrics, logs, alerts, and ML anomaly detection",
+  "source_repo": "netdata/netdata",
+  "source_url": "https://github.com/netdata/netdata",
+  "install": "# git clone --depth 1 https://github.com/netdata/netdata\n# See source for mcpServers config block"
+}

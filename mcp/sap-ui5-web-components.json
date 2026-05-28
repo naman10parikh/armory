@@ -1,0 +1,7 @@
+{
+  "name": "sap-ui5-web-components",
+  "description": "Development assistance for building applications with SAP UI5 Web Components.",
+  "source_repo": "ui5/webcomponents-mcp-server",
+  "source_url": "https://github.com/ui5/webcomponents-mcp-server",
+  "install": "npx -y webcomponents-mcp-server"
+}

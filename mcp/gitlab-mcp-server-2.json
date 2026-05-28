@@ -1,0 +1,7 @@
+{
+  "name": "gitlab-mcp-server-2",
+  "description": "Enables AI assistants to interact seamlessly with self-hosted GitLab instances, supporting repository operations, issue management, merge requests, CI/CD pipelines, and more.",
+  "source_repo": "wadew/gitlab-mcp",
+  "source_url": "https://github.com/wadew/gitlab-mcp",
+  "install": "npx -y gitlab-mcp"
+}

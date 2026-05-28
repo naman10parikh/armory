@@ -1,0 +1,7 @@
+{
+  "name": "gh-ebrunet001-league-of-legends",
+  "description": "League of Legends data and AI-powered coaching via Riot Games API.",
+  "source_repo": "ebrunet001/mcp-server-lol",
+  "source_url": "https://github.com/ebrunet001/mcp-server-lol",
+  "install": "# git clone --depth 1 https://github.com/ebrunet001/mcp-server-lol\n# See source for mcpServers config block"
+}

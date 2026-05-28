@@ -1,0 +1,7 @@
+{
+  "name": "kansei-link-kansei",
+  "description": "Intelligence layer for discovering and orchestrating Japanese SaaS MCP tools.",
+  "source_repo": "kansei-link/kansei-mcp-server",
+  "source_url": "https://github.com/kansei-link/kansei-mcp-server",
+  "install": "npx -y kansei-mcp-server"
+}

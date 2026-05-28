@@ -1,0 +1,7 @@
+{
+  "name": "browserbase-browser-automation",
+  "description": "Provides browser automation through dual servers: Browserbase for direct browser control and Stagehand for natural language-driven workflows, enabling navigation, data extraction, and complex multi-step actions",
+  "source_repo": "xinzhongyouhai/mcp-server-browserbase",
+  "source_url": "https://github.com/xinzhongyouhai/mcp-server-browserbase",
+  "install": "# git clone --depth 1 https://github.com/xinzhongyouhai/mcp-server-browserbase\n# See source for mcpServers config block"
+}

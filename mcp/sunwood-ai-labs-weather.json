@@ -1,0 +1,7 @@
+{
+  "name": "sunwood-ai-labs-weather",
+  "description": "Integrates real-time weather data from OpenWeather to provide location-specific forecasts.",
+  "source_repo": "sunwood-ai-labs/mcp-weather-service-server",
+  "source_url": "https://github.com/sunwood-ai-labs/mcp-weather-service-server",
+  "install": "# git clone --depth 1 https://github.com/sunwood-ai-labs/mcp-weather-service-server\n# See source for mcpServers config block"
+}

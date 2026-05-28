@@ -1,0 +1,7 @@
+{
+  "name": "tocharianou-kibana",
+  "description": "Provides direct access to Kibana's API endpoints for querying server status, executing custom requests, and exploring available endpoints through a searchable interface for monitoring Elasticsearch clusters, managing visualizations, and troubleshooting deployments.",
+  "source_repo": "tocharianou/mcp-server-kibana",
+  "source_url": "https://github.com/tocharianou/mcp-server-kibana",
+  "install": "# git clone --depth 1 https://github.com/tocharianou/mcp-server-kibana\n# See source for mcpServers config block"
+}

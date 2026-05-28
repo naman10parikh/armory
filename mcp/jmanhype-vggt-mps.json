@@ -1,0 +1,7 @@
+{
+  "name": "jmanhype-vggt-mps",
+  "description": "Provides 3D vision and reconstruction capabilities through VGGT transformer model for multi-view reconstruction from image sequences, offering camera pose estimation, depth prediction, point cloud generation, and point tracking with Apple Silicon MPS acceleration for efficient inference on Mac hardware.",
+  "source_repo": "jmanhype/vggt-mps",
+  "source_url": "https://github.com/jmanhype/vggt-mps",
+  "install": "# git clone --depth 1 https://github.com/jmanhype/vggt-mps\n# See source for mcpServers config block"
+}

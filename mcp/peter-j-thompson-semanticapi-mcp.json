@@ -1,0 +1,7 @@
+{
+  "name": "peter-j-thompson-semanticapi-mcp",
+  "description": "Natural language API discovery — search 700+ API capabilities, get endpoints, auth setup, and code snippets. Supports auto-discovery of new APIs.",
+  "source_repo": "peter-j-thompson/semanticapi-mcp",
+  "source_url": "https://github.com/peter-j-thompson/semanticapi-mcp",
+  "install": "npx -y semanticapi-mcp"
+}

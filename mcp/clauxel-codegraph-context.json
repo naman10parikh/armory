@@ -1,0 +1,7 @@
+{
+  "name": "clauxel-codegraph-context",
+  "description": "Code graph analysis for AI coding assistants with repo graph queries, symbol impact paths, and dependency hotspot reports.",
+  "source_repo": "clauxel/codegraph-context-mcp",
+  "source_url": "https://github.com/clauxel/codegraph-context-mcp",
+  "install": "npx -y codegraph-context-mcp"
+}

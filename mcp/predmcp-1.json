@@ -1,0 +1,7 @@
+{
+  "name": "predmcp-1",
+  "description": "MCP server for cryptocurrency prediction and trading signals using Polymarket, HIP-4, and Hyperliquid data.",
+  "source_repo": "raviolelabs/predmcp",
+  "source_url": "https://github.com/raviolelabs/predmcp",
+  "install": "# git clone --depth 1 https://github.com/raviolelabs/predmcp\n# See source for mcpServers config block"
+}

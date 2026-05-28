@@ -1,0 +1,7 @@
+{
+  "name": "clauxel-cli-anything-hub",
+  "description": "Exposes CLI tools to AI assistants with tool listing, command execution, schema validation, and result receipts.",
+  "source_repo": "clauxel/cli-anything-hub-mcp",
+  "source_url": "https://github.com/clauxel/cli-anything-hub-mcp",
+  "install": "npx -y cli-anything-hub-mcp"
+}

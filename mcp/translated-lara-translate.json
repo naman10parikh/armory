@@ -1,0 +1,7 @@
+{
+  "name": "translated-lara-translate",
+  "description": "Bridges to the Lara Translation API for accurate, context-aware text translations between languages with automatic language detection capabilities.",
+  "source_repo": "translated/lara-mcp",
+  "source_url": "https://github.com/translated/lara-mcp",
+  "install": "npx -y lara-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "joeybrar-agentseal",
+  "description": "Verifiable action logs for AI agents using SHA-256 hash chains to detect tampering.",
+  "source_repo": "joeybrar/agentseal-mcp",
+  "source_url": "https://github.com/joeybrar/agentseal-mcp",
+  "install": "npx -y agentseal-mcp"
+}

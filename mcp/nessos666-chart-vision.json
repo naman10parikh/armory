@@ -1,0 +1,7 @@
+{
+  "name": "nessos666-chart-vision",
+  "description": "Offline MCP server for analyzing TradingView charts using computer vision, detecting candle patterns, price levels, zones, and volume without API keys.",
+  "source_repo": "nessos666/chart-vision-mcp",
+  "source_url": "https://github.com/nessos666/chart-vision-mcp",
+  "install": "npx -y chart-vision-mcp"
+}

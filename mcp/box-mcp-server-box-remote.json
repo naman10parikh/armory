@@ -1,0 +1,7 @@
+{
+  "name": "box-mcp-server-box-remote",
+  "description": "The Box MCP server allows third party AI agents to securely and seamlessly access Box content and use tools such as search, asking questions from files and folders, and data extraction.",
+  "source_repo": "box/mcp-server-box-remote",
+  "source_url": "https://github.com/box/mcp-server-box-remote/",
+  "install": "# git clone --depth 1 https://github.com/box/mcp-server-box-remote/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "the-momentum-fhir-healthcare",
+  "description": "Integrates with FHIR healthcare systems and medical document repositories to provide natural language access to electronic health records, clinical observations, patient data management, and medical literature search through OAuth2-authenticated FHIR servers and vector-based document analysis.",
+  "source_repo": "the-momentum/fhir-mcp-server",
+  "source_url": "https://github.com/the-momentum/fhir-mcp-server",
+  "install": "npx -y fhir-mcp-server"
+}

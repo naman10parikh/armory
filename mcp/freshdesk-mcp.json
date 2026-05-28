@@ -1,0 +1,7 @@
+{
+  "name": "freshdesk-mcp",
+  "description": "Freshdesk_mcp MCP server listed on mcp.so.",
+  "source_repo": "effytech/freshdesk_mcp",
+  "source_url": "https://mcp.so/server/freshdesk_mcp/effytech",
+  "install": "npx -y freshdesk_mcp"
+}

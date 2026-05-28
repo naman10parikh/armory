@@ -1,0 +1,7 @@
+{
+  "name": "gh-pierre3-maildev",
+  "description": "Local email testing tool integration for inspecting SMTP-captured messages.",
+  "source_repo": "pierre3/maildevmcp",
+  "source_url": "https://github.com/pierre3/maildevmcp",
+  "install": "# git clone --depth 1 https://github.com/pierre3/maildevmcp\n# See source for mcpServers config block"
+}

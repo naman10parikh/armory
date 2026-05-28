@@ -1,0 +1,7 @@
+{
+  "name": "godalo-ai",
+  "description": "Affiliate product search across 30,000+ merchants with full-text and SQL-based querying.",
+  "source_repo": "godalo-ai/godalo-mcp",
+  "source_url": "https://github.com/godalo-ai/godalo-mcp",
+  "install": "npx -y godalo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paralax-seldommonster",
+  "description": "Collection of cybersecurity MCP servers for threat intelligence, integrating Greynoise, Malpedia, OpenCTI, OTX, IBM XForce, and more.",
+  "source_repo": "paralax/seldommonster",
+  "source_url": "https://github.com/paralax/seldommonster",
+  "install": "# git clone --depth 1 https://github.com/paralax/seldommonster\n# See source for mcpServers config block"
+}

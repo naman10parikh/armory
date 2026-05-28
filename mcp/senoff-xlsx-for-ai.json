@@ -1,0 +1,7 @@
+{
+  "name": "senoff-xlsx-for-ai",
+  "description": "Production-grade Excel (.xlsx) tooling for read, write, diff, and redact operations.",
+  "source_repo": "senoff/xlsx-for-ai",
+  "source_url": "https://github.com/senoff/xlsx-for-ai",
+  "install": "# git clone --depth 1 https://github.com/senoff/xlsx-for-ai\n# See source for mcpServers config block"
+}

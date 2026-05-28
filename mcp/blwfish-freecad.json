@@ -1,0 +1,7 @@
+{
+  "name": "blwfish-freecad",
+  "description": "Control FreeCAD from AI agents — 3D modeling, PartDesign workflows, CNC toolpaths, mesh operations, and file export via 32 tools.",
+  "source_repo": "blwfish/freecad-mcp",
+  "source_url": "https://github.com/blwfish/freecad-mcp",
+  "install": "npx -y freecad-mcp"
+}

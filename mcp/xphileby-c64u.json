@@ -1,0 +1,7 @@
+{
+  "name": "xphileby-c64u",
+  "description": "Controls Commodore 64 Ultimate hardware through REST API, enabling program execution, machine state management, floppy drive operations, and screen capture with automatic graphics mode detection.",
+  "source_repo": "xphileby/c64u-mcp-server",
+  "source_url": "https://github.com/xphileby/c64u-mcp-server",
+  "install": "npx -y c64u-mcp-server"
+}

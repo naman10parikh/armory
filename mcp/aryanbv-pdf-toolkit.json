@@ -1,0 +1,7 @@
+{
+  "name": "aryanbv-pdf-toolkit",
+  "description": "Create, merge, split, watermark, and convert Markdown to PDF with sixteen manipulation tools.",
+  "source_repo": "aryanbv/pdf-toolkit-mcp",
+  "source_url": "https://github.com/aryanbv/pdf-toolkit-mcp",
+  "install": "npx -y pdf-toolkit-mcp"
+}

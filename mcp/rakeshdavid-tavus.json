@@ -1,0 +1,7 @@
+{
+  "name": "rakeshdavid-tavus",
+  "description": "Integrates with Tavus API to enable video generation from text or audio, replica creation and training, conversational video interfaces, lipsync capabilities, and speech synthesis for creating interactive video content and virtual assistants.",
+  "source_repo": "rakeshdavid/tavus-mcp",
+  "source_url": "https://github.com/rakeshdavid/tavus-mcp",
+  "install": "npx -y tavus-mcp"
+}

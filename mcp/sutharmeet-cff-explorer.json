@@ -1,0 +1,7 @@
+{
+  "name": "sutharmeet-cff-explorer",
+  "description": "Bridges CFF Explorer's PE analysis engine for natural language-driven binary inspection, import/export analysis, resource extraction, and binary patching on Windows.",
+  "source_repo": "sutharmeet/cff-explorer-mcp-server",
+  "source_url": "https://github.com/sutharmeet/cff-explorer-mcp-server",
+  "install": "npx -y cff-explorer-mcp-server"
+}

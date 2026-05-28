@@ -1,0 +1,7 @@
+{
+  "name": "harvester-mcp-server",
+  "description": "Harvester Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "starbops/harvester-mcp-server",
+  "source_url": "https://mcp.so/server/harvester-mcp-server/starbops",
+  "install": "npx -y harvester-mcp-server"
+}

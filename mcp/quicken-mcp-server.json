@@ -1,0 +1,7 @@
+{
+  "name": "quicken-mcp-server",
+  "description": "Converts Quicken QIF files into a queryable DuckDB database and exposes financial data through MCP tools, enabling LLMs to query transactions, accounts, and summaries.",
+  "source_repo": "sgoley/quicken-mcp-server",
+  "source_url": "https://github.com/sgoley/quicken-mcp-server",
+  "install": "npx -y quicken-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wolkwork-knmi-weather",
+  "description": "Provides real-time weather data from the Royal Netherlands Meteorological Institute (KNMI) by automatically finding the nearest weather station to any location in the Netherlands, delivering current measurements including temperature, humidity, wind speed, and more.",
+  "source_repo": "wolkwork/knmi-mcp",
+  "source_url": "https://github.com/wolkwork/knmi-mcp",
+  "install": "npx -y knmi-mcp"
+}

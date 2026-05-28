@@ -1,0 +1,7 @@
+{
+  "name": "headless-ida",
+  "description": "Enables reverse engineering of binary files through IDA Pro's headless mode, providing tools for function analysis, disassembly, decompilation, and code annotation for security research workflows.",
+  "source_repo": "cnitlrt/headless-ida-mcp-server",
+  "source_url": "https://github.com/cnitlrt/headless-ida-mcp-server",
+  "install": "npx -y headless-ida-mcp-server"
+}

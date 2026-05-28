@@ -1,0 +1,7 @@
+{
+  "name": "swiss-truth",
+  "description": "Verified knowledge base for AI agents delivering certified facts with confidence scores and source references.",
+  "source_repo": "swisstruthorg/swiss-truth-mcp",
+  "source_url": "https://github.com/swisstruthorg/swiss-truth-mcp",
+  "install": "npx -y swiss-truth-mcp"
+}

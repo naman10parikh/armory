@@ -1,0 +1,7 @@
+{
+  "name": "githubc978",
+  "description": "Enables AI interaction with GitHub repositories for managing issues, pull requests, code scanning alerts, and file contents through both read-only and read-write operations.",
+  "source_repo": "deniscruzrodrigues/mackenzie-github-mcp-server",
+  "source_url": "https://github.com/deniscruzrodrigues/mackenzie-github-mcp-server",
+  "install": "npx -y mackenzie-github-mcp-server"
+}

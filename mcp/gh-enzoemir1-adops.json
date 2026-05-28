@@ -1,0 +1,7 @@
+{
+  "name": "gh-enzoemir1-adops",
+  "description": "AI-powered cross-platform ad management for Google Ads and Meta Ads.",
+  "source_repo": "enzoemir1/adops-mcp",
+  "source_url": "https://github.com/enzoemir1/adops-mcp",
+  "install": "npx -y adops-mcp"
+}

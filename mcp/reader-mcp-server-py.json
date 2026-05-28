@@ -1,0 +1,7 @@
+{
+  "name": "reader-mcp-server-py",
+  "description": "Reader Mcp Server Py MCP server listed on mcp.so.",
+  "source_repo": "xinthink/reader-mcp-server-py",
+  "source_url": "https://mcp.so/server/reader-mcp-server-py/xinthink",
+  "install": "# git clone --depth 1 https://mcp.so/server/reader-mcp-server-py/xinthink\n# See source for mcpServers config block"
+}

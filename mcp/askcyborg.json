@@ -1,0 +1,7 @@
+{
+  "name": "askcyborg",
+  "description": "Analyst-debate company research: structured reports, investment scores, and audio briefings on public and private companies.",
+  "source_repo": "ask-cyborg/askcyborg-mcp",
+  "source_url": "https://github.com/ask-cyborg/askcyborg-mcp",
+  "install": "npx -y askcyborg-mcp"
+}

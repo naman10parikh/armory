@@ -1,0 +1,7 @@
+{
+  "name": "pensiata",
+  "description": "Bulgarian pension fund analytics with NAV data, performance metrics, rankings, and benchmarks.",
+  "source_repo": "nvasilevv/pensiata-mcp",
+  "source_url": "https://github.com/nvasilevv/pensiata-mcp",
+  "install": "npx -y pensiata-mcp"
+}

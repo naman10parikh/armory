@@ -1,0 +1,7 @@
+{
+  "name": "agenson-tools-agent-output-guard",
+  "description": "Validates and filters AI agent outputs for safety and compliance.",
+  "source_repo": "agenson-tools/agent-output-guard-mcp",
+  "source_url": "https://github.com/agenson-tools/agent-output-guard-mcp",
+  "install": "npx -y agent-output-guard-mcp"
+}

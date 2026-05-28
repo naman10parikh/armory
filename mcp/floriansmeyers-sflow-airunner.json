@@ -1,0 +1,7 @@
+{
+  "name": "floriansmeyers-sflow-airunner",
+  "description": "Job scheduling and automation server that executes Claude Code CLI tasks on cron schedules with web dashboard, webhook endpoints, and dynamic MCP server creation capabilities.",
+  "source_repo": "floriansmeyers/sflow-airunner-mcp-prd",
+  "source_url": "https://github.com/floriansmeyers/sflow-airunner-mcp-prd",
+  "install": "# git clone --depth 1 https://github.com/floriansmeyers/sflow-airunner-mcp-prd\n# See source for mcpServers config block"
+}

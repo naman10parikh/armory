@@ -1,0 +1,7 @@
+{
+  "name": "linxule-music-studio",
+  "description": "Creative music composition tool with multi-instrument playback, style presets, visual sheet music, and ABC notation support.",
+  "source_repo": "linxule/mcp-music-studio",
+  "source_url": "https://github.com/linxule/mcp-music-studio",
+  "install": "# git clone --depth 1 https://github.com/linxule/mcp-music-studio\n# See source for mcpServers config block"
+}

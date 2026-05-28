@@ -1,0 +1,7 @@
+{
+  "name": "haiku-trading",
+  "description": "DeFi execution for AI agents — swap, lend, bridge, and yield across 22 blockchain networks.",
+  "source_repo": "haiku-trading/haiku-mcp-server",
+  "source_url": "https://github.com/haiku-trading/haiku-mcp-server",
+  "install": "npx -y haiku-mcp-server"
+}

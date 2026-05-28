@@ -1,0 +1,7 @@
+{
+  "name": "stevenyu113228-bloodhound",
+  "description": "Enables security professionals to analyze Active Directory and Azure AD environments through natural language queries by connecting to BloodHound's Neo4j database for identifying attack paths and vulnerabilities.",
+  "source_repo": "stevenyu113228/bloodhound-mcp",
+  "source_url": "https://github.com/stevenyu113228/bloodhound-mcp",
+  "install": "npx -y bloodhound-mcp"
+}

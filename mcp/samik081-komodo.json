@@ -1,0 +1,7 @@
+{
+  "name": "samik081-komodo",
+  "description": "Manage Komodo DevOps servers, stacks, deployments, and builds.",
+  "source_repo": "samik081/mcp-komodo",
+  "source_url": "https://github.com/samik081/mcp-komodo",
+  "install": "# git clone --depth 1 https://github.com/samik081/mcp-komodo\n# See source for mcpServers config block"
+}

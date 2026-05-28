@@ -1,0 +1,7 @@
+{
+  "name": "healthy-aging-atlas",
+  "description": "MCP server for evidence-based supplement data including trust-scored products, price history, comparisons, and goal-based recommendations.",
+  "source_repo": "rustamismail/healthyagingatlas-mcp",
+  "source_url": "https://github.com/rustamismail/healthyagingatlas-mcp",
+  "install": "npx -y healthyagingatlas-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-bitrix24",
+  "description": "Integrates with Bitrix24 CRM via webhooks for deal, contact, and task management.",
+  "source_repo": "theyahia/bitrix24-mcp",
+  "source_url": "https://github.com/theyahia/bitrix24-mcp",
+  "install": "npx -y bitrix24-mcp"
+}

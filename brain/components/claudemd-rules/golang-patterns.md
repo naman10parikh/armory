@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [golang-coding-style, golang-hooks]
-tags: [ecc, rules, golang]
+tags: [rules, golang]
 ---
 ## What it is
 golang rule: apply when working on golang and you need Go Patterns.

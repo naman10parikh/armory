@@ -1,0 +1,7 @@
+{
+  "name": "parsedark-stock-market-analysis",
+  "description": "Provides specialized tools for stock market analysis including sector analysis, financial indicators, F10 information, market emotion tracking, and limit-up stock monitoring with Tavily search integration.",
+  "source_repo": "parsedark/mcp_stock",
+  "source_url": "https://github.com/parsedark/mcp_stock",
+  "install": "# git clone --depth 1 https://github.com/parsedark/mcp_stock\n# See source for mcpServers config block"
+}

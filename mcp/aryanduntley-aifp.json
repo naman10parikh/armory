@@ -1,0 +1,7 @@
+{
+  "name": "aryanduntley-aifp",
+  "description": "Database-driven FP enforcement and project management.",
+  "source_repo": "aryanduntley/aimfp",
+  "source_url": "https://github.com/aryanduntley/aimfp",
+  "install": "# git clone --depth 1 https://github.com/aryanduntley/aimfp\n# See source for mcpServers config block"
+}

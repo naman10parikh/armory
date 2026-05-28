@@ -1,0 +1,7 @@
+{
+  "name": "andr3medeiros-pdf-manipulation",
+  "description": "Provides comprehensive PDF processing capabilities through PyMuPDF, including text operations, page manipulation, image handling, form field management, annotation support, and metadata editing with intelligent auto-cropping and timestamped output files for document automation workflows.",
+  "source_repo": "andr3medeiros/pdf-manipulation-mcp-server",
+  "source_url": "https://github.com/andr3medeiros/pdf-manipulation-mcp-server",
+  "install": "npx -y pdf-manipulation-mcp-server"
+}

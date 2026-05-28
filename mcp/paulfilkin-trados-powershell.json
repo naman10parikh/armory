@@ -1,0 +1,7 @@
+{
+  "name": "paulfilkin-trados-powershell",
+  "description": "Manages Trados Studio, GroupShare, and Language Cloud translation projects through PowerShell toolkits.",
+  "source_repo": "paulfilkin/trados-powershell-mcp",
+  "source_url": "https://github.com/paulfilkin/trados-powershell-mcp",
+  "install": "npx -y trados-powershell-mcp"
+}

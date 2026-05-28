@@ -1,0 +1,7 @@
+{
+  "name": "g4f-mcp-server",
+  "description": "G4f Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "npnpatidar/g4f-mcp-server",
+  "source_url": "https://mcp.so/server/g4f-mcp-server/npnpatidar",
+  "install": "npx -y g4f-mcp-server"
+}

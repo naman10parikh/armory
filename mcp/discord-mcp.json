@@ -1,0 +1,7 @@
+{
+  "name": "discord-mcp",
+  "description": "Enables LLMs to read and send Discord messages, list servers and channels, and monitor unread messages via a selfbot that uses a user token (violates Discord ToS).",
+  "source_repo": "tensakulabs/discord-mcp",
+  "source_url": "https://github.com/tensakulabs/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

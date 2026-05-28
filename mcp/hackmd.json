@@ -1,0 +1,7 @@
+{
+  "name": "hackmd",
+  "description": "Hackmd MCP server listed on mcp.so.",
+  "source_repo": "yuna0x0/hackmd",
+  "source_url": "https://mcp.so/server/hackmd/yuna0x0",
+  "install": "# git clone --depth 1 https://mcp.so/server/hackmd/yuna0x0\n# See source for mcpServers config block"
+}

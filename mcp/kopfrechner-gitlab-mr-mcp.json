@@ -1,0 +1,7 @@
+{
+  "name": "kopfrechner-gitlab-mr-mcp",
+  "description": "Interact seamlessly with issues and merge requests of your GitLab projects.",
+  "source_repo": "kopfrechner/gitlab-mr-mcp",
+  "source_url": "https://github.com/kopfrechner/gitlab-mr-mcp",
+  "install": "npx -y gitlab-mr-mcp"
+}

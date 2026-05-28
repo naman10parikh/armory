@@ -1,0 +1,7 @@
+{
+  "name": "timeslope",
+  "description": "Automated economic analysis over FRED data",
+  "source_repo": "",
+  "source_url": "https://timeslope.com",
+  "install": "# git clone --depth 1 https://timeslope.com\n# See source for mcpServers config block"
+}

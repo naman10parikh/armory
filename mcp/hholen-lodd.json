@@ -1,0 +1,7 @@
+{
+  "name": "hholen-lodd",
+  "description": "Headless web analytics with 34 tools for traffic analysis, events, and funnel tracking.",
+  "source_repo": "hholen/lodd-mcp-server",
+  "source_url": "https://github.com/hholen/lodd-mcp-server",
+  "install": "npx -y lodd-mcp-server"
+}

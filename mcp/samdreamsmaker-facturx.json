@@ -1,0 +1,7 @@
+{
+  "name": "samdreamsmaker-facturx",
+  "description": "Generates, validates, and manages Factur-X electronic invoices compliant with EN 16931 and French B2B 2026 reform requirements.",
+  "source_repo": "samdreamsmaker/facturx-mcp",
+  "source_url": "https://github.com/samdreamsmaker/facturx-mcp",
+  "install": "npx -y facturx-mcp"
+}

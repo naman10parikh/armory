@@ -1,0 +1,7 @@
+{
+  "name": "ebaymcpserver",
+  "description": "EbayMcpServer MCP server listed on mcp.so.",
+  "source_repo": "CooKey-Monster/EbayMcpServer",
+  "source_url": "https://mcp.so/server/EbayMcpServer/CooKey-Monster",
+  "install": "# git clone --depth 1 https://mcp.so/server/EbayMcpServer/CooKey-Monster\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prospect-research-mcp-server",
+  "description": "Enables prospect research through semantic web search, webpage scraping, and batch search using multiple APIs.",
+  "source_repo": "jzhang17/prospect-research-mcp",
+  "source_url": "https://github.com/jzhang17/prospect-research-mcp",
+  "install": "npx -y prospect-research-mcp"
+}

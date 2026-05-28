@@ -1,0 +1,7 @@
+{
+  "name": "gemini-cloud-assist",
+  "description": "Connect to Gemini Cloud Assist APIs, enabling you to manage and troubleshoot your Google Cloud environment using natural language.",
+  "source_repo": "googlecloudplatform/gemini-cloud-assist-mcp",
+  "source_url": "https://github.com/googlecloudplatform/gemini-cloud-assist-mcp",
+  "install": "npx -y gemini-cloud-assist-mcp"
+}

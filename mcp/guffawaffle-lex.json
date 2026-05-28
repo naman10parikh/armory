@@ -1,0 +1,7 @@
+{
+  "name": "guffawaffle-lex",
+  "description": "Provides episodic memory and architectural policy enforcement for AI agents.",
+  "source_repo": "guffawaffle/lex",
+  "source_url": "https://github.com/guffawaffle/lex",
+  "install": "# git clone --depth 1 https://github.com/guffawaffle/lex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deepfates-replicate",
+  "description": "Bridges Replicate's AI model hosting platform, enabling seamless interaction with diverse machine learning models for tasks like image generation and text processing.",
+  "source_repo": "deepfates/mcp-replicate",
+  "source_url": "https://github.com/deepfates/mcp-replicate",
+  "install": "# git clone --depth 1 https://github.com/deepfates/mcp-replicate\n# See source for mcpServers config block"
+}

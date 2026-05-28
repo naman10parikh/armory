@@ -1,0 +1,7 @@
+{
+  "name": "doggychip-agentforge",
+  "description": "Unified API gateway and marketplace for 300+ AI agents. One API key, REST + streaming, 90% creator revenue share, health monitoring. Self-hostable (MIT).",
+  "source_repo": "doggychip/agentforge",
+  "source_url": "https://github.com/doggychip/agentforge",
+  "install": "# git clone --depth 1 https://github.com/doggychip/agentforge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "k8sautom8-garmin-connect",
+  "description": "Comprehensive Garmin Connect integration with 72+ tools for fitness data, health metrics, and AI-powered training recommendations",
+  "source_repo": "k8sautom8/garmin_mcp",
+  "source_url": "https://github.com/k8sautom8/garmin_mcp",
+  "install": "npx -y garmin_mcp"
+}

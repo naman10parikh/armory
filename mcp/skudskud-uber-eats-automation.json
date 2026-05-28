@@ -1,0 +1,7 @@
+{
+  "name": "skudskud-uber-eats-automation",
+  "description": "Integrates with Uber Eats to enable automated menu searches and food order placements via browser interactions, streamlining the food discovery and ordering process.",
+  "source_repo": "skudskud/test-repo-mcp",
+  "source_url": "https://github.com/skudskud/test-repo-mcp",
+  "install": "npx -y test-repo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vinsidious-whodis",
+  "description": "Provides domain availability checking through WHOIS lookups, enabling users to verify multiple domain names simultaneously for new projects or bulk status verification.",
+  "source_repo": "vinsidious/whodis-mcp-server",
+  "source_url": "https://github.com/vinsidious/whodis-mcp-server",
+  "install": "npx -y whodis-mcp-server"
+}

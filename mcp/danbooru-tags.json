@@ -1,0 +1,7 @@
+{
+  "name": "danbooru-tags",
+  "description": "Extract tags from any Danbooru post and explore categories at a glance. Analyze character-specific tag frequencies to surface top traits and clothing patterns. Look up tag and character details from the Danbooru Wiki to add context.",
+  "source_repo": "gamzadongza/danbooru-tags-mcp",
+  "source_url": "https://github.com/gamzadongza/danbooru-tags-mcp",
+  "install": "npx -y danbooru-tags-mcp"
+}

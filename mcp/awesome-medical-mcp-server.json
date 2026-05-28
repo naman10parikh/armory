@@ -1,0 +1,7 @@
+{
+  "name": "awesome-medical-mcp-server",
+  "description": "A collection of MCP servers providing medical calculation tools (eGFR, pregnancy due dates, pediatric asthma score, strep McIsaac) for AI assistants, with support for Chinese medical terminology and detailed clinical explanations.",
+  "source_repo": "shanggqm/awesome-medical-mcp-server",
+  "source_url": "https://github.com/shanggqm/awesome-medical-mcp-server",
+  "install": "npx -y awesome-medical-mcp-server"
+}

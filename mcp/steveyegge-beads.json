@@ -1,0 +1,7 @@
+{
+  "name": "steveyegge-beads",
+  "description": "A drop-in memory upgrade for your coding agent",
+  "source_repo": "gastownhall/beads",
+  "source_url": "https://github.com/gastownhall/beads/tree/HEAD/integrations/beads-mcp",
+  "install": "# git clone --depth 1 https://github.com/gastownhall/beads/tree/HEAD/integrations/beads-mcp\n# See source for mcpServers config block"
+}

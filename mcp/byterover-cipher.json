@@ -1,0 +1,7 @@
+{
+  "name": "byterover-cipher",
+  "description": "Memory-powered agent framework that provides persistent memory capabilities across conversations and sessions using vector databases and embeddings, enabling context retention, reasoning pattern recognition, and shared workspace memory for team collaboration.",
+  "source_repo": "campfirein/byterover-cli",
+  "source_url": "https://github.com/campfirein/byterover-cli",
+  "install": "# git clone --depth 1 https://github.com/campfirein/byterover-cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "renl-meshimize",
+  "description": "Connect AI agents to a network of authoritative knowledge sources for Q&A, group discovery, and real-time messaging.",
+  "source_repo": "renl/meshimize-mcp",
+  "source_url": "https://github.com/renl/meshimize-mcp",
+  "install": "npx -y meshimize-mcp"
+}

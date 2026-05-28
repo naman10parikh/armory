@@ -1,0 +1,7 @@
+{
+  "name": "kishimoto-banana-shopify",
+  "description": "Integrates with the Shopify API to enable e-commerce data management and operations for online stores, including product, order, and customer information handling.",
+  "source_repo": "kishimoto-banana/shopify-py-mcp",
+  "source_url": "https://github.com/kishimoto-banana/shopify-py-mcp",
+  "install": "npx -y shopify-py-mcp"
+}

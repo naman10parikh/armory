@@ -1,0 +1,7 @@
+{
+  "name": "legal-text-mcp-de",
+  "description": "Cite-grade German legal-text infrastructure for LLM agents, providing access to federal, Länder, and EU laws with cryptographic provenance.",
+  "source_repo": "klein-business/legal-text-mcp-de",
+  "source_url": "https://github.com/klein-business/legal-text-mcp-de",
+  "install": "# git clone --depth 1 https://github.com/klein-business/legal-text-mcp-de\n# See source for mcpServers config block"
+}

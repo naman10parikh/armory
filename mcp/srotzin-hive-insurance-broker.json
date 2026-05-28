@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-insurance-broker",
+  "description": "Discovers and quotes DeFi insurance coverage from Nexus Mutual, Sherlock, Risk Harbor, and InsurAce via three broker tools.",
+  "source_repo": "srotzin/hive-mcp-insurance-broker",
+  "source_url": "https://github.com/srotzin/hive-mcp-insurance-broker",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-insurance-broker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "softwaretree-ormcp",
+  "description": "Enables object-oriented data exchange with any JDBC-compliant database (e.g., PostgreSQL, MySQL, Oracle, SQL Server, DB2, SQLite) through object-relational mapping.",
+  "source_repo": "softwaretree/ormcp-docs",
+  "source_url": "https://github.com/softwaretree/ormcp-docs",
+  "install": "# git clone --depth 1 https://github.com/softwaretree/ormcp-docs\n# See source for mcpServers config block"
+}

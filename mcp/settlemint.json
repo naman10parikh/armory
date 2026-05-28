@@ -1,0 +1,7 @@
+{
+  "name": "settlemint",
+  "description": "Settlemint MCP server listed on mcp.so.",
+  "source_repo": "sdk/settlemint",
+  "source_url": "https://mcp.so/server/settlemint/sdk",
+  "install": "# git clone --depth 1 https://mcp.so/server/settlemint/sdk\n# See source for mcpServers config block"
+}

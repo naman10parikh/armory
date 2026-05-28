@@ -1,0 +1,7 @@
+{
+  "name": "gh-mahender22-legalmcp",
+  "description": "US legal research server with case law search, citation tracing, Clio practice management, and PACER federal filings.",
+  "source_repo": "mahender22/legal-mcp",
+  "source_url": "https://github.com/mahender22/legal-mcp",
+  "install": "npx -y legal-mcp"
+}

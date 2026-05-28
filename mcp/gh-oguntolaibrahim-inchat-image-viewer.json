@@ -1,0 +1,7 @@
+{
+  "name": "gh-oguntolaibrahim-inchat-image-viewer",
+  "description": "View images inline in AI chat by providing a file path.",
+  "source_repo": "oguntolaibrahim/inchat-image-viewer-mcp",
+  "source_url": "https://github.com/oguntolaibrahim/inchat-image-viewer-mcp",
+  "install": "npx -y inchat-image-viewer-mcp"
+}

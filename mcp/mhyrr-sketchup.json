@@ -1,0 +1,7 @@
+{
+  "name": "mhyrr-sketchup",
+  "description": "Integrates with Sketchup to enable AI-assisted 3D modeling through bidirectional communication, allowing creation, modification, and transformation of components directly within the modeling environment.",
+  "source_repo": "mhyrr/sketchup-mcp",
+  "source_url": "https://github.com/mhyrr/sketchup-mcp",
+  "install": "npx -y sketchup-mcp"
+}

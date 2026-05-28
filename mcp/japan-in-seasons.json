@@ -1,0 +1,7 @@
+{
+  "name": "japan-in-seasons",
+  "description": "Live Japan seasonal travel data — cherry blossom forecasts, autumn leaves, fruit picking, flowers & festivals. 1,700+ spots from Japan Meteorological Corporation. Updated daily.",
+  "source_repo": "",
+  "source_url": "https://seasons.kooexperience.com/",
+  "install": "# git clone --depth 1 https://seasons.kooexperience.com/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tanevanwifferen-docs-scraper",
+  "description": "Connects to the DocsScraper web API to provide semantic search across technical documentation and API references with automatic fallback to scraper sources when local results are unavailable.",
+  "source_repo": "tanevanwifferen/docsscrapermcp",
+  "source_url": "https://github.com/tanevanwifferen/docsscrapermcp",
+  "install": "# git clone --depth 1 https://github.com/tanevanwifferen/docsscrapermcp\n# See source for mcpServers config block"
+}

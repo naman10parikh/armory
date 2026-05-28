@@ -1,0 +1,7 @@
+{
+  "name": "adeu",
+  "description": "Legal automation MCP server for contract redlining and request triage in in-house legal teams.",
+  "source_repo": "dealfluence/adeu",
+  "source_url": "https://github.com/dealfluence/adeu",
+  "install": "# git clone --depth 1 https://github.com/dealfluence/adeu\n# See source for mcpServers config block"
+}

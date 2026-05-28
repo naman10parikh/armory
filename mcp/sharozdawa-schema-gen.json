@@ -1,0 +1,7 @@
+{
+  "name": "sharozdawa-schema-gen",
+  "description": "Generate Schema.org JSON-LD structured data markup for 12 content types including Person, Product, and FAQ.",
+  "source_repo": "sharozdawa/schema-gen",
+  "source_url": "https://github.com/sharozdawa/schema-gen",
+  "install": "# git clone --depth 1 https://github.com/sharozdawa/schema-gen\n# See source for mcpServers config block"
+}

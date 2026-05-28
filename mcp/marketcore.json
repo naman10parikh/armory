@@ -1,0 +1,7 @@
+{
+  "name": "marketcore",
+  "description": "Create on-brand marketing deliverables and GTM documents with AI-powered blueprints and brand guidelines.",
+  "source_repo": "",
+  "source_url": "https://marketcore.ai",
+  "install": "# git clone --depth 1 https://marketcore.ai\n# See source for mcpServers config block"
+}

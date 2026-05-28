@@ -1,0 +1,7 @@
+{
+  "name": "bacnet-mcp-server",
+  "description": "A lightweight MCP server that connects LLM agents to BACnet devices for building automation, enabling real-time monitoring, actuation, and task orchestration.",
+  "source_repo": "ezhuk/bacnet-mcp",
+  "source_url": "https://github.com/ezhuk/bacnet-mcp",
+  "install": "npx -y bacnet-mcp"
+}

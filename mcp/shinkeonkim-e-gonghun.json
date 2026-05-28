@@ -1,0 +1,7 @@
+{
+  "name": "shinkeonkim-e-gonghun",
+  "description": "Provides a bridge to the Korean military service records API for retrieving and verifying service history information with authentication and caching support",
+  "source_repo": "kokoa-tools/e-gonghun-mcp",
+  "source_url": "https://github.com/kokoa-tools/e-gonghun-mcp",
+  "install": "npx -y e-gonghun-mcp"
+}

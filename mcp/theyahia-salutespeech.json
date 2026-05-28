@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-salutespeech",
+  "description": "Integrates with Sber SaluteSpeech API for speech recognition and text-to-speech synthesis.",
+  "source_repo": "theyahia/salutespeech-mcp",
+  "source_url": "https://github.com/theyahia/salutespeech-mcp",
+  "install": "npx -y salutespeech-mcp"
+}

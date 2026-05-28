@@ -1,0 +1,7 @@
+{
+  "name": "alejandroarnaud-zotero",
+  "description": "Connects Zotero reference libraries to AI assistants for natural language search, citation management, and bibliography export.",
+  "source_repo": "",
+  "source_url": "https://mcpforzotero.alejandroarnaud.dev",
+  "install": "# git clone --depth 1 https://mcpforzotero.alejandroarnaud.dev\n# See source for mcpServers config block"
+}

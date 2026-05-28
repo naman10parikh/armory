@@ -1,0 +1,7 @@
+{
+  "name": "newaitees-task-management",
+  "description": "Enables dynamic task creation, tracking, and organization across multiple agents and projects using FastAPI and LangChain, with robust JSON-based task management and flexible operational capabilities.",
+  "source_repo": "newaitees/taskmateai",
+  "source_url": "https://github.com/newaitees/taskmateai",
+  "install": "# git clone --depth 1 https://github.com/newaitees/taskmateai\n# See source for mcpServers config block"
+}

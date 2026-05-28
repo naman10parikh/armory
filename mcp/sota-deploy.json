@@ -1,0 +1,7 @@
+{
+  "name": "sota-deploy",
+  "description": "Deploy and manage web applications via AI agents through the sota.io platform.",
+  "source_repo": "sota-deploy/mcp-server",
+  "source_url": "https://github.com/sota-deploy/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sota-deploy/mcp-server\n# See source for mcpServers config block"
+}

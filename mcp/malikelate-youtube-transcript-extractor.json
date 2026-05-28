@@ -1,0 +1,7 @@
+{
+  "name": "malikelate-youtube-transcript-extractor",
+  "description": "Extracts and processes complete transcripts from YouTube videos using a single tool that accepts video URLs, enabling content analysis without watching the videos.",
+  "source_repo": "malikelate/yt-description-mcp",
+  "source_url": "https://github.com/malikelate/yt-description-mcp",
+  "install": "npx -y yt-description-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-factory",
+  "description": "Generates production-ready MCP servers from natural language, OpenAPI specs, database schemas, GraphQL schemas, or ontologies.",
+  "source_repo": "HeshamFS/mcp-tool-factory-ts",
+  "source_url": "https://github.com/HeshamFS/mcp-tool-factory-ts",
+  "install": "# git clone --depth 1 https://github.com/HeshamFS/mcp-tool-factory-ts\n# See source for mcpServers config block"
+}

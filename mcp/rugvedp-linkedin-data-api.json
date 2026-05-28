@@ -1,0 +1,7 @@
+{
+  "name": "rugvedp-linkedin-data-api",
+  "description": "Integrates with LinkedIn Data API to fetch, analyze, and search posts by username, keywords, date ranges, and engagement metrics for social media analysis and content strategy development.",
+  "source_repo": "rugvedp/linkedin-mcp",
+  "source_url": "https://github.com/rugvedp/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

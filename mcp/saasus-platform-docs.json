@@ -1,0 +1,7 @@
+{
+  "name": "saasus-platform-docs",
+  "description": "Integrates with SaaSus Platform documentation to provide search, content retrieval, and sitemap navigation with Japanese language support and HTML-to-Markdown conversion for accessing platform documentation and support workflows.",
+  "source_repo": "saasus-platform/saasus-docs-mcp-server",
+  "source_url": "https://github.com/saasus-platform/saasus-docs-mcp-server",
+  "install": "npx -y saasus-docs-mcp-server"
+}

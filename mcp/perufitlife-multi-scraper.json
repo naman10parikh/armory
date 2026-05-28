@@ -1,0 +1,7 @@
+{
+  "name": "perufitlife-multi-scraper",
+  "description": "Wraps 12 production Apify scraping tools—Reddit, Amazon, Google Maps, TikTok, and more—into a single MCP endpoint.",
+  "source_repo": "perufitlife/multi-scraper-mcp",
+  "source_url": "https://github.com/perufitlife/multi-scraper-mcp",
+  "install": "npx -y multi-scraper-mcp"
+}

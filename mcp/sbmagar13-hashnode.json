@@ -1,0 +1,7 @@
+{
+  "name": "sbmagar13-hashnode",
+  "description": "Create, update, and search Hashnode articles directly through Claude or other MCP clients.",
+  "source_repo": "sbmagar13/hashnode-mcp-server",
+  "source_url": "https://github.com/sbmagar13/hashnode-mcp-server",
+  "install": "npx -y hashnode-mcp-server"
+}

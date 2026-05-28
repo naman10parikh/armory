@@ -1,0 +1,7 @@
+{
+  "name": "cyberia-to-bostrom",
+  "description": "Comprehensive Bostrom blockchain tools for reading chain state and signing transactions.",
+  "source_repo": "cyberia-to/bostrom-mcp",
+  "source_url": "https://github.com/cyberia-to/bostrom-mcp",
+  "install": "npx -y bostrom-mcp"
+}

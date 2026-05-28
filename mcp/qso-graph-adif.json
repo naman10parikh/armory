@@ -1,0 +1,7 @@
+{
+  "name": "qso-graph-adif",
+  "description": "ADIF 3.1.6 parser and validator for amateur radio QSO logs with full spec coverage.",
+  "source_repo": "qso-graph/adif-mcp",
+  "source_url": "https://github.com/qso-graph/adif-mcp",
+  "install": "npx -y adif-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jira-server",
+  "description": "Comprehensive Jira integration for Claude Code enabling issue management, sprint operations, comments, attachments, and batch processing.",
+  "source_repo": "tom28881/mcp-jira-server",
+  "source_url": "https://github.com/tom28881/mcp-jira-server",
+  "install": "# git clone --depth 1 https://github.com/tom28881/mcp-jira-server\n# See source for mcpServers config block"
+}

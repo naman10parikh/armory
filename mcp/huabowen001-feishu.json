@@ -1,0 +1,7 @@
+{
+  "name": "huabowen001-feishu",
+  "description": "Integrates with Feishu (Lark) workplace platform using OAuth2 authentication to manage calendar events, documents, instant messaging, tasks, and user information for enterprise workflow automation.",
+  "source_repo": "huabowen001/feishu-mcp",
+  "source_url": "https://github.com/huabowen001/feishu-mcp",
+  "install": "npx -y feishu-mcp"
+}

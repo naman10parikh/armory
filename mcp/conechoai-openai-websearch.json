@@ -1,0 +1,7 @@
+{
+  "name": "conechoai-openai-websearch",
+  "description": "Enables AI assistants to search the web in real-time through OpenAI's websearch functionality, retrieving up-to-date information beyond training data cutoffs with configurable search parameters.",
+  "source_repo": "conechoai/openai-websearch-mcp",
+  "source_url": "https://github.com/conechoai/openai-websearch-mcp",
+  "install": "npx -y openai-websearch-mcp"
+}

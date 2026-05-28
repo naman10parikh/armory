@@ -1,0 +1,7 @@
+{
+  "name": "subaru486desuwa-micu-image",
+  "description": "MCP server wrapping the Micu image generation API for text-to-image, editing, batch processing, and multi-reference fusion.",
+  "source_repo": "subaru486desuwa/micu-image-mcp",
+  "source_url": "https://github.com/subaru486desuwa/micu-image-mcp",
+  "install": "npx -y micu-image-mcp"
+}

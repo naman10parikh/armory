@@ -1,0 +1,7 @@
+{
+  "name": "imran-siddique-agentos-mcp-server",
+  "description": "Agent OS MCP server for AI agent governance with policy enforcement, code safety verification, multi-model hallucination detection, and immutable audit trails.",
+  "source_repo": "imran-siddique/agent-os",
+  "source_url": "https://github.com/imran-siddique/agent-os/tree/master/extensions/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/imran-siddique/agent-os/tree/master/extensions/mcp-server\n# See source for mcpServers config block"
+}

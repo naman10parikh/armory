@@ -1,0 +1,7 @@
+{
+  "name": "anyproto-anytype",
+  "description": "Converts any OpenAPI 3.0/3.1 specification into callable tools by automatically generating schemas from REST API endpoints, handling authentication via environment variables, and supporting file uploads through multipart form-data while filtering out destructive operations.",
+  "source_repo": "anyproto/anytype-mcp",
+  "source_url": "https://github.com/anyproto/anytype-mcp",
+  "install": "npx -y anytype-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-composer",
+  "description": "Google Cloud Composer MCP server for AI-assisted management of Apache Airflow workflow orchestration environments.",
+  "source_repo": "",
+  "source_url": "https://composer.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://composer.googleapis.com/mcp\n# See source for mcpServers config block"
+}

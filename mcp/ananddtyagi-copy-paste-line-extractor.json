@@ -1,0 +1,7 @@
+{
+  "name": "ananddtyagi-copy-paste-line-extractor",
+  "description": "Extracts specific line ranges from text content while preserving exact formatting and newlines, ideal for working with code snippets or documentation sections",
+  "source_repo": "ananddtyagi/copy-paste-mcp",
+  "source_url": "https://github.com/ananddtyagi/copy-paste-mcp",
+  "install": "npx -y copy-paste-mcp"
+}

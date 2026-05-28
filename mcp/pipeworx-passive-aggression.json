@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-passive-aggression",
+  "description": "Detects passive-aggressive language in text with severity scoring, phrase identification, and response suggestions.",
+  "source_repo": "pipeworx-io/mcp-passive-aggression",
+  "source_url": "https://github.com/pipeworx-io/mcp-passive-aggression",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-passive-aggression\n# See source for mcpServers config block"
+}

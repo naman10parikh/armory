@@ -1,0 +1,7 @@
+{
+  "name": "goose-mcp",
+  "description": "Goose_mcp MCP server listed on mcp.so.",
+  "source_repo": "Jay4242/goose_mcp",
+  "source_url": "https://mcp.so/server/goose_mcp/Jay4242",
+  "install": "npx -y goose_mcp"
+}

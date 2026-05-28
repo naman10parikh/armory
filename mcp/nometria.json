@@ -1,0 +1,7 @@
+{
+  "name": "nometria",
+  "description": "Deploys applications to major cloud platforms from Claude Code using the Nometria deployment platform.",
+  "source_repo": "nometria/claude-code-plugin",
+  "source_url": "https://github.com/nometria/claude-code-plugin",
+  "install": "# git clone --depth 1 https://github.com/nometria/claude-code-plugin\n# See source for mcpServers config block"
+}

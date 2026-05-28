@@ -1,0 +1,7 @@
+{
+  "name": "snowflake-mcp-server",
+  "description": "Provides secure, read-only access to Snowflake data warehouses, enabling AI assistants to explore schemas, write queries, and analyze data with SSO authentication and smart caching.",
+  "source_repo": "ncejda-g2/snowflake_mcp_server",
+  "source_url": "https://github.com/ncejda-g2/snowflake_mcp_server",
+  "install": "npx -y snowflake_mcp_server"
+}

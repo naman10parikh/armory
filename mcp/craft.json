@@ -1,0 +1,7 @@
+{
+  "name": "craft",
+  "description": "Access and edit Craft documents with full content management and collaboration features.",
+  "source_repo": "",
+  "source_url": "https://mcp.craft.do/my/mcp",
+  "install": "# git clone --depth 1 https://mcp.craft.do/my/mcp\n# See source for mcpServers config block"
+}

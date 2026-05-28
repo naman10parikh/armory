@@ -1,0 +1,7 @@
+{
+  "name": "shawndurrani-registry",
+  "description": "Search the public MCP Registry and discover servers",
+  "source_repo": "",
+  "source_url": "https://mcp-registry.shawndurrani.ai/sse",
+  "install": "# git clone --depth 1 https://mcp-registry.shawndurrani.ai/sse\n# See source for mcpServers config block"
+}

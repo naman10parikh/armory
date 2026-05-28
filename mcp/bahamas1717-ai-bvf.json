@@ -1,0 +1,7 @@
+{
+  "name": "bahamas1717-ai-bvf",
+  "description": "Open protocol for scoring AI initiatives as Accelerate, Fix, or Stop with EUR value modeling and portfolio validation.",
+  "source_repo": "bahamas1717/ai-bvf",
+  "source_url": "https://github.com/bahamas1717/ai-bvf",
+  "install": "# git clone --depth 1 https://github.com/bahamas1717/ai-bvf\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "siriuslattice-evmcp",
+  "description": "Provides tools for interacting with Ethereum and EVM-compatible blockchains, including smart contract calls and transaction management.",
+  "source_repo": "siriuslattice/evmcp",
+  "source_url": "https://github.com/siriuslattice/evmcp",
+  "install": "# git clone --depth 1 https://github.com/siriuslattice/evmcp\n# See source for mcpServers config block"
+}

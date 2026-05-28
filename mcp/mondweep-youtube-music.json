@@ -1,0 +1,7 @@
+{
+  "name": "mondweep-youtube-music",
+  "description": "Enables YouTube Music playback via Google Chrome, allowing voice-activated song selection and mood-based playlists without direct user interaction.",
+  "source_repo": "mondweep/youtube-music-mcp-server",
+  "source_url": "https://github.com/mondweep/youtube-music-mcp-server",
+  "install": "npx -y youtube-music-mcp-server"
+}

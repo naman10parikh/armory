@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-hub",
+  "description": "Mcp Servers Hub MCP server listed on mcp.so.",
+  "source_repo": "hanzlahabib/mcp-servers-hub",
+  "source_url": "https://mcp.so/server/mcp-servers-hub/hanzlahabib",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers-hub/hanzlahabib\n# See source for mcpServers config block"
+}

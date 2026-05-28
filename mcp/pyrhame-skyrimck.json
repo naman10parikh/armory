@@ -1,0 +1,7 @@
+{
+  "name": "pyrhame-skyrimck",
+  "description": "Creates and modifies Skyrim SE ESP/ESM files via Claude without opening the Creation Kit GUI.",
+  "source_repo": "pyrhame/skyrimck-mcp",
+  "source_url": "https://github.com/pyrhame/skyrimck-mcp",
+  "install": "npx -y skyrimck-mcp"
+}

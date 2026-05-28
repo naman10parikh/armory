@@ -1,0 +1,7 @@
+{
+  "name": "lachlanbridges-latex",
+  "description": "Provides complete LaTeX document compilation and generation capabilities through a Docker-containerized TeXLive environment, offering tools for compiling LaTeX source to PDF using multiple engines, managing reusable document templates, and rendering LaTeX snippets with parameter substitution for educators, researchers, and developers building document generation workflows.",
+  "source_repo": "thetailorretailored/latex-mcp",
+  "source_url": "https://github.com/thetailorretailored/latex-mcp",
+  "install": "npx -y latex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hyper-mcp",
+  "description": "Hyper Mcp MCP server listed on mcp.so.",
+  "source_repo": "tuananh/hyper-mcp",
+  "source_url": "https://mcp.so/server/hyper-mcp/tuananh",
+  "install": "npx -y hyper-mcp"
+}

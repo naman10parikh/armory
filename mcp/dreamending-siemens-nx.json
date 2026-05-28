@@ -1,0 +1,7 @@
+{
+  "name": "dreamending-siemens-nx",
+  "description": "Controls Siemens NX CAD software through 47 tools covering 3D modeling, sketching, assembly, drawing creation, and measurement operations.",
+  "source_repo": "dreamending/nx_mcp",
+  "source_url": "https://github.com/dreamending/nx_mcp",
+  "install": "npx -y nx_mcp"
+}

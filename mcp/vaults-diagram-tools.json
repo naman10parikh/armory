@@ -1,0 +1,7 @@
+{
+  "name": "vaults-diagram-tools",
+  "description": "Converts Mermaid diagrams to rendered assets and maps source code to visual diagrams for AI agents.",
+  "source_repo": "malnati/vaults-diagram-tools",
+  "source_url": "https://github.com/malnati/vaults-diagram-tools",
+  "install": "# git clone --depth 1 https://github.com/malnati/vaults-diagram-tools\n# See source for mcpServers config block"
+}

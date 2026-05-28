@@ -1,0 +1,7 @@
+{
+  "name": "r00tkit77-cmdb-cve",
+  "description": "Correlates CMDB asset inventory with NIST NVD CVE data to identify vulnerabilities and generate email reports.",
+  "source_repo": "r00tkit77/cmdb_nvd_mcp_server",
+  "source_url": "https://github.com/r00tkit77/cmdb_nvd_mcp_server",
+  "install": "npx -y cmdb_nvd_mcp_server"
+}

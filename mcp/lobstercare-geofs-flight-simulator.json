@@ -1,0 +1,7 @@
+{
+  "name": "lobstercare-geofs-flight-simulator",
+  "description": "Enables natural language control of aircraft in the GeoFS flight simulator through a WebSocket server that translates commands into simulator actions for takeoff, landing, and navigation maneuvers.",
+  "source_repo": "lobstercare/geofs-mcp",
+  "source_url": "https://github.com/lobstercare/geofs-mcp",
+  "install": "npx -y geofs-mcp"
+}

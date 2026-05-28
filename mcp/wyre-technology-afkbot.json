@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-afkbot",
+  "description": "Manages paid time-off requests through AFKBot, syncing PTO across Float, Outlook Calendar, Autotask, and Rootly.",
+  "source_repo": "wyre-technology/afkbot-mcp",
+  "source_url": "https://github.com/wyre-technology/afkbot-mcp",
+  "install": "npx -y afkbot-mcp"
+}

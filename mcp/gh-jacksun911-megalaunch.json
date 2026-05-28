@@ -1,0 +1,7 @@
+{
+  "name": "gh-jacksun911-megalaunch",
+  "description": "Community wrapper for launching meme tokens on Solana via the MegaLaunch platform, with bundled buys and Jito speed optimization.",
+  "source_repo": "jacksun911/megalaunch-mcp",
+  "source_url": "https://github.com/jacksun911/megalaunch-mcp",
+  "install": "npx -y megalaunch-mcp"
+}

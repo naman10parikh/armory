@@ -1,0 +1,7 @@
+{
+  "name": "gh-hoangsonww-gitintel",
+  "description": "Deep repository analytics computed locally from Git commit history.",
+  "source_repo": "hoangsonww/gitintel-mcp-server",
+  "source_url": "https://github.com/hoangsonww/gitintel-mcp-server",
+  "install": "npx -y gitintel-mcp-server"
+}

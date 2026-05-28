@@ -1,0 +1,7 @@
+{
+  "name": "gh-marcorusc-biomodelling",
+  "description": "Integrates biological mechanistic modeling tools MaBoSS, NeKo, and PhysiCell with AI assistants for simulation workflows.",
+  "source_repo": "marcorusc/mcp-biomodelling-servers",
+  "source_url": "https://github.com/marcorusc/mcp-biomodelling-servers",
+  "install": "# git clone --depth 1 https://github.com/marcorusc/mcp-biomodelling-servers\n# See source for mcpServers config block"
+}

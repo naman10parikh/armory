@@ -1,0 +1,7 @@
+{
+  "name": "bazylhorsey-obsidian",
+  "description": "Integrates with Obsidian vaults to provide knowledge graph analysis, note creation and editing, template management, tag-based searching, and Canvas file manipulation with support for multiple vault configurations and real-time file watching.",
+  "source_repo": "bazylhorsey/obsidian-mcp-server",
+  "source_url": "https://github.com/bazylhorsey/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

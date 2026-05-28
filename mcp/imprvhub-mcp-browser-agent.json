@@ -1,0 +1,7 @@
+{
+  "name": "imprvhub-mcp-browser-agent",
+  "description": "A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities.",
+  "source_repo": "imprvhub/mcp-browser-agent",
+  "source_url": "https://github.com/imprvhub/mcp-browser-agent",
+  "install": "# git clone --depth 1 https://github.com/imprvhub/mcp-browser-agent\n# See source for mcpServers config block"
+}

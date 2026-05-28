@@ -1,0 +1,7 @@
+{
+  "name": "ljdigital-au-bizintel",
+  "description": "Real-time Australian Business Register lookups and AI-powered business intelligence for ABN and ACN data.",
+  "source_repo": "ljdigital/au-bizintel-mcp",
+  "source_url": "https://github.com/ljdigital/au-bizintel-mcp",
+  "install": "npx -y au-bizintel-mcp"
+}

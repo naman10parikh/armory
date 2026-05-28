@@ -1,0 +1,7 @@
+{
+  "name": "cryptoapis-utils",
+  "description": "Address derivation and encoding utilities across multiple blockchains via Crypto APIs.",
+  "source_repo": "cryptoapis-io/cryptoapis-mcp-utils",
+  "source_url": "https://github.com/cryptoapis-io/cryptoapis-mcp-utils",
+  "install": "# git clone --depth 1 https://github.com/cryptoapis-io/cryptoapis-mcp-utils\n# See source for mcpServers config block"
+}

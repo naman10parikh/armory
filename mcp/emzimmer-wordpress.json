@@ -1,0 +1,7 @@
+{
+  "name": "emzimmer-wordpress",
+  "description": "Integrates with WordPress REST API to enable secure content management, user administration, and site configuration tasks.",
+  "source_repo": "emzimmer/server-wp-mcp",
+  "source_url": "https://github.com/emzimmer/server-wp-mcp",
+  "install": "npx -y server-wp-mcp"
+}

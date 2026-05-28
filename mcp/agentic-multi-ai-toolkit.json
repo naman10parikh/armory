@@ -1,0 +1,7 @@
+{
+  "name": "agentic-multi-ai-toolkit",
+  "description": "Organizes AI functionality into specialized agents (OpenAI, Ollama, and File agents) through a centralized tool registry, enabling hybrid workflows that combine cloud and local AI capabilities with file operations.",
+  "source_repo": "adamsalah13/mcp_server_full",
+  "source_url": "https://github.com/adamsalah13/mcp_server_full",
+  "install": "# git clone --depth 1 https://github.com/adamsalah13/mcp_server_full\n# See source for mcpServers config block"
+}

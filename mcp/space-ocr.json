@@ -1,0 +1,7 @@
+{
+  "name": "space-ocr",
+  "description": "Multilingual structured OCR with verified per-character bounding boxes for AI agents.",
+  "source_repo": "hwang-yh-cto/space-ocr-mcp",
+  "source_url": "https://github.com/hwang-yh-cto/space-ocr-mcp",
+  "install": "npx -y space-ocr-mcp"
+}

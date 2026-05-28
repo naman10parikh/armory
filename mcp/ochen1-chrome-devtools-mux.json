@@ -1,0 +1,7 @@
+{
+  "name": "ochen1-chrome-devtools-mux",
+  "description": "Multiplex multiple MCP clients over a single shared Chrome instance with per-client tab isolation.",
+  "source_repo": "ochen1/chrome-devtools-mcp-mux",
+  "source_url": "https://github.com/ochen1/chrome-devtools-mcp-mux",
+  "install": "# git clone --depth 1 https://github.com/ochen1/chrome-devtools-mcp-mux\n# See source for mcpServers config block"
+}

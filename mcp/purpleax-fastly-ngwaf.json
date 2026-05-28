@@ -1,0 +1,7 @@
+{
+  "name": "purpleax-fastly-ngwaf",
+  "description": "Integrates with Fastly's Next-Gen Web Application Firewall API to manage security configurations, monitor attack patterns, handle IP lists, configure rules, set up alerts, and analyze security analytics for web application protection.",
+  "source_repo": "purpleax/fastlymcp",
+  "source_url": "https://github.com/purpleax/fastlymcp",
+  "install": "# git clone --depth 1 https://github.com/purpleax/fastlymcp\n# See source for mcpServers config block"
+}

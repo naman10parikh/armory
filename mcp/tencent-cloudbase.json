@@ -1,0 +1,7 @@
+{
+  "name": "tencent-cloudbase",
+  "description": "Enables AI systems to deploy, monitor, and manage full-stack applications on Tencent CloudBase through tools for cloud environments, databases, functions, hosting services, and storage resources.",
+  "source_repo": "tencentcloudbase/cloudbase-mcp",
+  "source_url": "https://github.com/tencentcloudbase/cloudbase-mcp",
+  "install": "npx -y cloudbase-mcp"
+}

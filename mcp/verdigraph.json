@@ -1,0 +1,7 @@
+{
+  "name": "verdigraph",
+  "description": "Paid hosted MCP for agent-to-agent compute routing and brain-builder workflows. OAuth 2.1 + PKCE auth, Stripe prepaid USD credits, 29 tools (10 free, 19 metered). 25% of net revenue funds verified conservation via a public auditable ledger. SEP-1960 manifest and SEP-1649 server card published.",
+  "source_repo": "viridis-security/verdigraph-neurogenesis",
+  "source_url": "https://github.com/viridis-security/verdigraph-neurogenesis",
+  "install": "# git clone --depth 1 https://github.com/viridis-security/verdigraph-neurogenesis\n# See source for mcpServers config block"
+}

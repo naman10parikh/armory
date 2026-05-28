@@ -1,0 +1,7 @@
+{
+  "name": "samt439-expense-tracker",
+  "description": "Tracks personal expenses with SQLite storage for adding, listing, and summarizing transactions.",
+  "source_repo": "samt439/test-remote-mcp-server",
+  "source_url": "https://github.com/samt439/test-remote-mcp-server",
+  "install": "npx -y test-remote-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hmr-docs",
+  "description": "Provides access to HMR (Hot Module Replacement) documentation for reactive programming and hot reloading in Python through a streamable HTTP protocol endpoint, serving guides, examples, conceptual explanations, architecture overviews, and complete library source code.",
+  "source_repo": "",
+  "source_url": "https://pyth-on-line.promplate.dev/hmr/mcp",
+  "install": "# git clone --depth 1 https://pyth-on-line.promplate.dev/hmr/mcp\n# See source for mcpServers config block"
+}

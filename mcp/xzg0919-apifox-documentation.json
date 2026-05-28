@@ -1,0 +1,7 @@
+{
+  "name": "xzg0919-apifox-documentation",
+  "description": "Generates Swagger JSON documentation from code and uploads it directly to ApiFox API management platform for automated documentation workflows",
+  "source_repo": "xzg0919/code-to-apifox-mcp",
+  "source_url": "https://github.com/xzg0919/code-to-apifox-mcp",
+  "install": "npx -y code-to-apifox-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geminiomnirights-mcp",
+  "description": "Gemini Omni commercial rights receipt management with structured audit logs and reviewer-ready evidence.",
+  "source_repo": "clauxel/gemini-omni-rights-receipt-mcp",
+  "source_url": "https://github.com/clauxel/gemini-omni-rights-receipt-mcp",
+  "install": "npx -y gemini-omni-rights-receipt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "insideout",
+  "description": "Luther Systems enterprise MCP server for AI-powered workflow and compliance access.",
+  "source_repo": "luthersystems/insideout-agent-skills",
+  "source_url": "https://github.com/luthersystems/insideout-agent-skills",
+  "install": "# git clone --depth 1 https://github.com/luthersystems/insideout-agent-skills\n# See source for mcpServers config block"
+}

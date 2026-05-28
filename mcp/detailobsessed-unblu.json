@@ -1,0 +1,7 @@
+{
+  "name": "detailobsessed-unblu",
+  "description": "Token-efficient access to 300+ Unblu API endpoints via progressive disclosure",
+  "source_repo": "detailobsessed/unblu-mcp",
+  "source_url": "https://github.com/detailobsessed/unblu-mcp",
+  "install": "npx -y unblu-mcp"
+}

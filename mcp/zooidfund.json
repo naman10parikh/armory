@@ -1,0 +1,7 @@
+{
+  "name": "zooidfund",
+  "description": "Discover crowdfunding campaigns and donate USDC directly on Base blockchain.",
+  "source_repo": "",
+  "source_url": "https://fcefnmdlggldmfusydix.supabase.co/functions/v1/mcp",
+  "install": "# git clone --depth 1 https://fcefnmdlggldmfusydix.supabase.co/functions/v1/mcp\n# See source for mcpServers config block"
+}

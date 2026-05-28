@@ -1,0 +1,7 @@
+{
+  "name": "cdmx-goodday",
+  "description": "Integrates with Goodday's project management platform to provide task, project, sprint, and user management capabilities with semantic search through vector database integration for automated workflow management and analytics.",
+  "source_repo": "cdmx-in/goodday-mcp",
+  "source_url": "https://github.com/cdmx-in/goodday-mcp",
+  "install": "npx -y goodday-mcp"
+}

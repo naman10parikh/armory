@@ -1,0 +1,7 @@
+{
+  "name": "podcast-commerce-intelligence",
+  "description": "Extract product mentions, sponsors, and trends from podcast transcripts. Returns structured data with product names, categories, confidence scores, recommendation strength, and aesthetic tags. Tools: extract_podcast_products, analyze_episode_sponsors, track_product_trends (with avg_recommendation_st",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/sincetoday/podcast-commerce-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/sincetoday/podcast-commerce-mcp\n# See source for mcpServers config block"
+}

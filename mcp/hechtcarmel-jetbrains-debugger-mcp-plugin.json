@@ -1,0 +1,7 @@
+{
+  "name": "hechtcarmel-jetbrains-debugger-mcp-plugin",
+  "description": "A JetBrains IDE plugin that exposes an MCP server, giving AI coding assistants full programmatic control over the debugger.",
+  "source_repo": "hechtcarmel/jetbrains-debugger-mcp-plugin",
+  "source_url": "https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin\n# See source for mcpServers config block"
+}

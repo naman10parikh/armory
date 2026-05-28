@@ -1,0 +1,7 @@
+{
+  "name": "bmorphism-anti-bullshit",
+  "description": "Integrates multiple epistemological frameworks to analyze claims, validate sources, and detect manipulation for enhanced fact-checking and critical thinking.",
+  "source_repo": "bmorphism/anti-bullshit-mcp-server",
+  "source_url": "https://github.com/bmorphism/anti-bullshit-mcp-server",
+  "install": "npx -y anti-bullshit-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xcode-cloud-mcp",
+  "description": "MCP server for managing Xcode Cloud workflows, builds, and test artifacts via the App Store Connect API.",
+  "source_repo": "thatfactory/xcode-cloud-mcp",
+  "source_url": "https://github.com/thatfactory/xcode-cloud-mcp",
+  "install": "npx -y xcode-cloud-mcp"
+}

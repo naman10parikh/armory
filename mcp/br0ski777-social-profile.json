@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-social-profile",
+  "description": "Look up public social media profiles on GitHub, Twitter/X, LinkedIn, and YouTube by username.",
+  "source_repo": "br0ski777/social-profile-x402",
+  "source_url": "https://github.com/br0ski777/social-profile-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/social-profile-x402\n# See source for mcpServers config block"
+}

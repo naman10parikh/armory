@@ -1,0 +1,7 @@
+{
+  "name": "mxkhec01-dokploy-mcp-bridge",
+  "description": "Docker sidecar MCP server for Dokploy deployments with database queries, Docker operations, and container telemetry.",
+  "source_repo": "mxkhec01/dokploy-mcp-bridge",
+  "source_url": "https://github.com/mxkhec01/dokploy-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/mxkhec01/dokploy-mcp-bridge\n# See source for mcpServers config block"
+}

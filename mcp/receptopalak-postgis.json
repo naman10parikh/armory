@@ -1,0 +1,7 @@
+{
+  "name": "receptopalak-postgis",
+  "description": "Provides direct PostgreSQL database integration with PostGIS spatial extension support, enabling SQL query execution, spatial data analysis, geographic information systems operations, and location-based queries for both traditional relational data and geographic datasets.",
+  "source_repo": "receptopalak/postgis-mcp",
+  "source_url": "https://github.com/receptopalak/postgis-mcp",
+  "install": "npx -y postgis-mcp"
+}

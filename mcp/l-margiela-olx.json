@@ -1,0 +1,7 @@
+{
+  "name": "l-margiela-olx",
+  "description": "Integrates with OLX marketplaces across five European domains using web scraping to search listings with filters and retrieve detailed property information including seller data for market research and price monitoring.",
+  "source_repo": "l-margiela/olx-mcp",
+  "source_url": "https://github.com/l-margiela/olx-mcp",
+  "install": "npx -y olx-mcp"
+}

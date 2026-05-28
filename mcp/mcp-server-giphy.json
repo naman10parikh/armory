@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-giphy",
+  "description": "Mcp Server Giphy MCP server listed on mcp.so.",
+  "source_repo": "magarcia/mcp-server-giphy",
+  "source_url": "https://mcp.so/server/mcp-server-giphy/magarcia",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-giphy/magarcia\n# See source for mcpServers config block"
+}

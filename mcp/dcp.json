@@ -1,0 +1,7 @@
+{
+  "name": "dcp",
+  "description": "Bridges the Device Context Protocol (DCP) for IoT microcontrollers to the MCP standard, enabling AI control of ESP32 devices.",
+  "source_repo": "device-context-protocol/dcp",
+  "source_url": "https://github.com/device-context-protocol/dcp",
+  "install": "# git clone --depth 1 https://github.com/device-context-protocol/dcp\n# See source for mcpServers config block"
+}

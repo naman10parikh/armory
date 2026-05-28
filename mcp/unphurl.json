@@ -1,0 +1,7 @@
+{
+  "name": "unphurl",
+  "description": "URL intelligence service that analyzes links across security, brand safety, and data quality dimensions, returning structured signals.",
+  "source_repo": "123ergo/unphurl-mcp",
+  "source_url": "https://github.com/123ergo/unphurl-mcp",
+  "install": "npx -y unphurl-mcp"
+}

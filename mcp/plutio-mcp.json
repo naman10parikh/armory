@@ -1,0 +1,7 @@
+{
+  "name": "plutio-mcp",
+  "description": "Enables Claude and other MCP clients to interact with Plutio's business platform resources including CRM, projects, invoicing, and more through structured tools.",
+  "source_repo": "thecreativelabs/plutio-mcp",
+  "source_url": "https://github.com/thecreativelabs/plutio-mcp",
+  "install": "npx -y plutio-mcp"
+}

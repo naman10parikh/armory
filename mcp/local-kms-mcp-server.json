@@ -1,0 +1,7 @@
+{
+  "name": "local-kms-mcp-server",
+  "description": "Local-first MCP server for per-agent key management, generating and using signing keys without external KMS.",
+  "source_repo": "Diegoescalonaro/local-kms-mcp-server",
+  "source_url": "https://github.com/Diegoescalonaro/local-kms-mcp-server",
+  "install": "npx -y local-kms-mcp-server"
+}

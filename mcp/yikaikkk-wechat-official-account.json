@@ -1,0 +1,7 @@
+{
+  "name": "yikaikkk-wechat-official-account",
+  "description": "Integrates with WeChat Official Account platform to enable automated article management, publishing workflows, and bulk content operations for marketing teams and content creators.",
+  "source_repo": "yikaikkk/gongzhonghao_mcp",
+  "source_url": "https://github.com/yikaikkk/gongzhonghao_mcp",
+  "install": "npx -y gongzhonghao_mcp"
+}

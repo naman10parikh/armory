@@ -1,0 +1,7 @@
+{
+  "name": "prismer-ai-signet",
+  "description": "Cryptographic signing, verification, and content hash tools for AI agent workflows.",
+  "source_repo": "prismer-ai/signet",
+  "source_url": "https://github.com/prismer-ai/signet",
+  "install": "# git clone --depth 1 https://github.com/prismer-ai/signet\n# See source for mcpServers config block"
+}

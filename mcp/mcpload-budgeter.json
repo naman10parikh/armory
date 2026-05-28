@@ -1,0 +1,7 @@
+{
+  "name": "mcpload-budgeter",
+  "description": "Context budget analysis and tool optimization for AI agent platforms.",
+  "source_repo": "",
+  "source_url": "https://mcploadbudgeter.space",
+  "install": "# git clone --depth 1 https://mcploadbudgeter.space\n# See source for mcpServers config block"
+}

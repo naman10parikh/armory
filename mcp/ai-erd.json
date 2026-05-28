@@ -1,0 +1,7 @@
+{
+  "name": "ai-erd",
+  "description": "Create and manage database schemas using DBML with a real-time visual canvas.",
+  "source_repo": "",
+  "source_url": "https://ai-erd.com",
+  "install": "# git clone --depth 1 https://ai-erd.com\n# See source for mcpServers config block"
+}

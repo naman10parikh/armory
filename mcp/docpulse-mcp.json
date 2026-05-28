@@ -1,0 +1,7 @@
+{
+  "name": "docpulse-mcp",
+  "description": "docpulse-mcp",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/nicholasemccormick/docpulse-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/nicholasemccormick/docpulse-mcp\n# See source for mcpServers config block"
+}

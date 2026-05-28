@@ -1,0 +1,7 @@
+{
+  "name": "dm-mcp",
+  "description": "Provides secure SELECT queries and table structure retrieval for Dameng database via Model Context Protocol.",
+  "source_repo": "pkyit/dameng-mcp",
+  "source_url": "https://github.com/pkyit/dameng-mcp",
+  "install": "npx -y dameng-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-cryptography",
+  "description": "Python cryptography library tools for encryption, hashing, and digital signatures.",
+  "source_repo": "daedalus/mcp-cryptography",
+  "source_url": "https://github.com/daedalus/mcp-cryptography",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-cryptography\n# See source for mcpServers config block"
+}

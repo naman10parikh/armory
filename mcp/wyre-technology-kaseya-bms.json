@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-kaseya-bms",
+  "description": "Manage Kaseya BMS PSA tickets, accounts, time entries, and contracts via MCP.",
+  "source_repo": "wyre-technology/kaseya-bms-mcp",
+  "source_url": "https://github.com/wyre-technology/kaseya-bms-mcp",
+  "install": "npx -y kaseya-bms-mcp"
+}

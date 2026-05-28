@@ -1,0 +1,7 @@
+{
+  "name": "semanticscholar-universal-mcp-server",
+  "description": "Provides a standardized interface for interacting with Semanticscholar's tools and services through a unified API.",
+  "source_repo": "universal-mcp/semanticscholar",
+  "source_url": "https://github.com/universal-mcp/semanticscholar",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/semanticscholar\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mfydev-ghost",
+  "description": "Interact with the Ghost CMS to control your blog through natural language. Manage posts, tags, users, members, and more with secure access.",
+  "source_repo": "mfydev/ghost-mcp",
+  "source_url": "https://github.com/mfydev/ghost-mcp",
+  "install": "npx -y ghost-mcp"
+}

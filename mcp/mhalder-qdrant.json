@@ -1,0 +1,7 @@
+{
+  "name": "mhalder-qdrant",
+  "description": "Provides semantic search capabilities using a local Qdrant vector database and OpenAI embeddings for building private knowledge bases and document search systems without sending data to external services.",
+  "source_repo": "mhalder/qdrant-mcp-server",
+  "source_url": "https://github.com/mhalder/qdrant-mcp-server",
+  "install": "npx -y qdrant-mcp-server"
+}

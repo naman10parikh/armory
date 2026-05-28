@@ -1,0 +1,7 @@
+{
+  "name": "bielacki-igdb",
+  "description": "Integrates with IGDB's video game database API to provide access to game details, release dates, platforms, genres, ratings, and gaming metadata for building gaming applications, research projects, and content creation workflows.",
+  "source_repo": "bielacki/igdb-mcp-server",
+  "source_url": "https://github.com/bielacki/igdb-mcp-server",
+  "install": "npx -y igdb-mcp-server"
+}

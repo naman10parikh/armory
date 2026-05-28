@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-zola",
+  "description": "Manages Zola wedding planning data including vendors, budget, guests, seating, registry, and RSVPs.",
+  "source_repo": "chrischall/zola-mcp",
+  "source_url": "https://github.com/chrischall/zola-mcp",
+  "install": "npx -y zola-mcp"
+}

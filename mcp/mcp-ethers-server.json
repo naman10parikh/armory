@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ethers-server",
+  "description": "A complete ethers.js v6 wrapper for Claude with 40+ tools for Ethereum blockchain interactions, enabling wallet operations, token transfers, and smart contract calls.",
+  "source_repo": "dennisonbertram/mcp-ethers-v6",
+  "source_url": "https://github.com/dennisonbertram/mcp-ethers-v6",
+  "install": "# git clone --depth 1 https://github.com/dennisonbertram/mcp-ethers-v6\n# See source for mcpServers config block"
+}

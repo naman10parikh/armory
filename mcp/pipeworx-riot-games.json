@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-riot-games",
+  "description": "Riot Games API for accounts, summoners, match history, league entries, and champion mastery via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-riot-games",
+  "source_url": "https://github.com/pipeworx-io/mcp-riot-games",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-riot-games\n# See source for mcpServers config block"
+}

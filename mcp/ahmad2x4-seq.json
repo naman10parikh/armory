@@ -1,0 +1,7 @@
+{
+  "name": "ahmad2x4-seq",
+  "description": "Integrates with Seq's API for retrieving signals, events, and alert states, enabling real-time insights into application logs and system performance metrics.",
+  "source_repo": "ahmad2x4/mcp-server-seq",
+  "source_url": "https://github.com/ahmad2x4/mcp-server-seq",
+  "install": "# git clone --depth 1 https://github.com/ahmad2x4/mcp-server-seq\n# See source for mcpServers config block"
+}

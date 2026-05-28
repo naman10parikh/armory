@@ -1,0 +1,7 @@
+{
+  "name": "jeong-sik-kakao-maps",
+  "description": "Integrates with Kakao Maps API to provide location-based services including geolocation, address lookup, and map functionality for conversational interfaces",
+  "source_repo": "jeong-sik/kakao-api-mcp-server",
+  "source_url": "https://github.com/jeong-sik/kakao-api-mcp-server",
+  "install": "npx -y kakao-api-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nougat-mcp",
+  "description": "Provides high-fidelity OCR for scientific PDFs using Meta's Nougat, with output format control and settings for agent workflows.",
+  "source_repo": "svretina/nougat-mcp",
+  "source_url": "https://github.com/svretina/nougat-mcp",
+  "install": "npx -y nougat-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "robertoforni-autostore-interface",
+  "description": "AI-powered customer support agent using AutoStore Interface documentation as a knowledge source.",
+  "source_repo": "robertoforni/mcpserver",
+  "source_url": "https://github.com/robertoforni/mcpserver",
+  "install": "# git clone --depth 1 https://github.com/robertoforni/mcpserver\n# See source for mcpServers config block"
+}

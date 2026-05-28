@@ -1,0 +1,7 @@
+{
+  "name": "replicate-flux-mcp",
+  "description": "Replicate Flux Mcp MCP server listed on mcp.so.",
+  "source_repo": "awkoy/replicate-flux-mcp",
+  "source_url": "https://mcp.so/server/replicate-flux-mcp/awkoy",
+  "install": "npx -y replicate-flux-mcp"
+}

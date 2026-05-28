@@ -1,0 +1,7 @@
+{
+  "name": "boost-security",
+  "description": "Safeguards coding agents against adding vulnerable packages into projects",
+  "source_repo": "boost-community/boost-mcp",
+  "source_url": "https://github.com/boost-community/boost-mcp",
+  "install": "npx -y boost-mcp"
+}

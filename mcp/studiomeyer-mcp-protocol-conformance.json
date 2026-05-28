@@ -1,0 +1,7 @@
+{
+  "name": "studiomeyer-mcp-protocol-conformance",
+  "description": "Validate MCP server implementations against JSON-RPC 2.0 wire compliance, OAuth 2.1 PKCE, tool schemas, and capability advertisement across spec versions.",
+  "source_repo": "studiomeyer-io/mcp-protocol-conformance",
+  "source_url": "https://github.com/studiomeyer-io/mcp-protocol-conformance",
+  "install": "# git clone --depth 1 https://github.com/studiomeyer-io/mcp-protocol-conformance\n# See source for mcpServers config block"
+}

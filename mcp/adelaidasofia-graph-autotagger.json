@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-graph-autotagger",
+  "description": "Suggests Obsidian wikilinks and tags for notes using knowledge graph analysis.",
+  "source_repo": "adelaidasofia/graph-autotagger-mcp",
+  "source_url": "https://github.com/adelaidasofia/graph-autotagger-mcp",
+  "install": "npx -y graph-autotagger-mcp"
+}

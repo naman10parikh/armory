@@ -1,0 +1,7 @@
+{
+  "name": "twenty-crm",
+  "description": "Integrates with Twenty CRM's REST API to enable complete customer relationship management through natural language interactions, supporting CRUD operations across people, companies, notes, and tasks with cross-object search and filtering capabilities.",
+  "source_repo": "mhenry3164/twenty-crm-mcp-server",
+  "source_url": "https://github.com/mhenry3164/twenty-crm-mcp-server",
+  "install": "npx -y twenty-crm-mcp-server"
+}

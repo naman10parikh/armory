@@ -1,0 +1,7 @@
+{
+  "name": "whensport-f1-2026",
+  "description": "Access the 2026 Formula 1 season calendar, race details, driver roster, and constructor data with local timezone support via 5 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/f1",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/f1\n# See source for mcpServers config block"
+}

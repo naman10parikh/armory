@@ -1,0 +1,7 @@
+{
+  "name": "myanimelist-mcp-server",
+  "description": "MCP Server for interacting with the MyAnimeList API, allowing LLM clients to access and interact with anime, manga and more.",
+  "source_repo": "nicoaguerrero/myanimelist-mcp-server",
+  "source_url": "https://github.com/nicoaguerrero/myanimelist-mcp-server",
+  "install": "npx -y myanimelist-mcp-server"
+}

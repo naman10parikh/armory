@@ -1,0 +1,7 @@
+{
+  "name": "gh-dickdavis-apple-calendar-reminders",
+  "description": "Read Apple Calendar events and Reminders on macOS via EventKit.",
+  "source_repo": "dickdavis/apple-bridge-mcp",
+  "source_url": "https://github.com/dickdavis/apple-bridge-mcp",
+  "install": "npx -y apple-bridge-mcp"
+}

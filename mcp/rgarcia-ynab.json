@@ -1,0 +1,7 @@
+{
+  "name": "rgarcia-ynab",
+  "description": "Read-only access to YNAB budgets, accounts, categories, payees, and transactions.",
+  "source_repo": "rgarcia/ynab-mcp-server",
+  "source_url": "https://github.com/rgarcia/ynab-mcp-server",
+  "install": "npx -y ynab-mcp-server"
+}

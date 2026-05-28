@@ -1,0 +1,7 @@
+{
+  "name": "vinayak-mehta-sonic-pi",
+  "description": "Connects AI systems to the Sonic Pi music programming environment, enabling creation and control of musical compositions through Ruby code with features for playback, pattern access, and live coding.",
+  "source_repo": "vinayak-mehta/mcp-sonic-pi",
+  "source_url": "https://github.com/vinayak-mehta/mcp-sonic-pi",
+  "install": "# git clone --depth 1 https://github.com/vinayak-mehta/mcp-sonic-pi\n# See source for mcpServers config block"
+}

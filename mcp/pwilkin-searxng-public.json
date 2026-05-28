@@ -1,0 +1,7 @@
+{
+  "name": "pwilkin-searxng-public",
+  "description": "Queries public SearXNG instances to extract structured search results with time-range filtering and fallback mechanisms for reliable web search capabilities",
+  "source_repo": "pwilkin/mcp-searxng-public",
+  "source_url": "https://github.com/pwilkin/mcp-searxng-public",
+  "install": "# git clone --depth 1 https://github.com/pwilkin/mcp-searxng-public\n# See source for mcpServers config block"
+}

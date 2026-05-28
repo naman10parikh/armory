@@ -1,0 +1,7 @@
+{
+  "name": "mephistophelesbits-rssdeck",
+  "description": "Token-efficient RSS aggregation service for AI agents with feed monitoring, deduplication, relevance scoring, and sentiment analysis.",
+  "source_repo": "mephistophelesbits/rssdeck-mcp",
+  "source_url": "https://github.com/mephistophelesbits/rssdeck-mcp",
+  "install": "npx -y rssdeck-mcp"
+}

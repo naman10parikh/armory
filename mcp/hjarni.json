@@ -1,0 +1,7 @@
+{
+  "name": "hjarni",
+  "description": "Markdown-based note-taking with a hosted endpoint for persistent, searchable access to notes and knowledge bases.",
+  "source_repo": "hjarni/hjarni-mcp",
+  "source_url": "https://github.com/hjarni/hjarni-mcp",
+  "install": "npx -y hjarni-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kiwamizamurai-kibela",
+  "description": "Integrates with Kibela API to enable searching, retrieving, and accessing collaborative documentation for knowledge management and AI-assisted workflows.",
+  "source_repo": "kiwamizamurai/mcp-kibela-server",
+  "source_url": "https://github.com/kiwamizamurai/mcp-kibela-server",
+  "install": "# git clone --depth 1 https://github.com/kiwamizamurai/mcp-kibela-server\n# See source for mcpServers config block"
+}

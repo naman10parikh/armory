@@ -1,0 +1,7 @@
+{
+  "name": "webscraper",
+  "description": "Webscraper MCP server listed on mcp.so.",
+  "source_repo": "saishridhar/webscraper",
+  "source_url": "https://mcp.so/server/webscraper/saishridhar",
+  "install": "# git clone --depth 1 https://mcp.so/server/webscraper/saishridhar\n# See source for mcpServers config block"
+}

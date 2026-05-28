@@ -1,0 +1,7 @@
+{
+  "name": "bjan-centauri",
+  "description": "Elegoo Centauri Carbon 3D printer control via reverse-engineered SDCP v3 WebSocket protocol.",
+  "source_repo": "bjan/pycentauri",
+  "source_url": "https://github.com/bjan/pycentauri",
+  "install": "# git clone --depth 1 https://github.com/bjan/pycentauri\n# See source for mcpServers config block"
+}

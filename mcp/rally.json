@@ -1,0 +1,7 @@
+{
+  "name": "rally",
+  "description": "Sales materials, product demos, and deal rooms for GTM teams.",
+  "source_repo": "",
+  "source_url": "https://rally.space",
+  "install": "# git clone --depth 1 https://rally.space\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "recursechat-apple-shortcuts-macos",
+  "description": "Control Apple Shortcuts automations on macOS.",
+  "source_repo": "recursechat/mcp-server-apple-shortcuts",
+  "source_url": "https://github.com/recursechat/mcp-server-apple-shortcuts",
+  "install": "# git clone --depth 1 https://github.com/recursechat/mcp-server-apple-shortcuts\n# See source for mcpServers config block"
+}

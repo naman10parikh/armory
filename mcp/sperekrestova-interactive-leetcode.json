@@ -1,0 +1,7 @@
+{
+  "name": "sperekrestova-interactive-leetcode",
+  "description": "Enables interactive LeetCode problem solving with AI-guided authentication, solution submission, and learning-mode hints.",
+  "source_repo": "sperekrestova/interactive-leetcode-mcp",
+  "source_url": "https://github.com/sperekrestova/interactive-leetcode-mcp",
+  "install": "npx -y interactive-leetcode-mcp"
+}

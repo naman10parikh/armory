@@ -1,0 +1,7 @@
+{
+  "name": "storydoc",
+  "description": "Generate and manage interactive Storydoc presentations and sales documents from any MCP-compatible client.",
+  "source_repo": "dotell-org/mcp",
+  "source_url": "https://github.com/dotell-org/mcp",
+  "install": "# git clone --depth 1 https://github.com/dotell-org/mcp\n# See source for mcpServers config block"
+}

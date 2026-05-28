@@ -1,0 +1,7 @@
+{
+  "name": "korext",
+  "description": "Governance copilot for AI-assisted coding with architecture rules and proof bundles.",
+  "source_repo": "korext/enforce-action",
+  "source_url": "https://github.com/korext/enforce-action",
+  "install": "# git clone --depth 1 https://github.com/korext/enforce-action\n# See source for mcpServers config block"
+}

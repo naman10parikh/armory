@@ -1,0 +1,7 @@
+{
+  "name": "snyk-cli",
+  "description": "Security scanner that tests applications and infrastructure for vulnerabilities, generates SBOMs, and monitors projects using TypeScript and Go components.",
+  "source_repo": "snyk/cli",
+  "source_url": "https://github.com/snyk/cli",
+  "install": "# git clone --depth 1 https://github.com/snyk/cli\n# See source for mcpServers config block"
+}

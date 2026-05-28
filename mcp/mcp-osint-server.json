@@ -1,0 +1,7 @@
+{
+  "name": "mcp-osint-server",
+  "description": "Mcp Osint Server MCP server listed on mcp.so.",
+  "source_repo": "himanshusanecha/mcp-osint-server",
+  "source_url": "https://mcp.so/server/mcp-osint-server/himanshusanecha",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-osint-server/himanshusanecha\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-morpho",
+  "description": "Integrates with Morpho DeFi protocol's GraphQL API to enable querying market data, vaults, positions, and historical APY information for portfolio management and yield optimization.",
+  "source_repo": "crazyrabbitltc/mcp-morpho-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-morpho-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-morpho-server\n# See source for mcpServers config block"
+}

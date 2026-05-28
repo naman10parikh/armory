@@ -1,0 +1,7 @@
+{
+  "name": "minimax-multimodal",
+  "description": "Official JavaScript implementation that integrates with MiniMax's multimodal capabilities for image generation, video creation, text-to-speech, and voice cloning across multiple transport modes.",
+  "source_repo": "minimax-ai/minimax-mcp-js",
+  "source_url": "https://github.com/minimax-ai/minimax-mcp-js",
+  "install": "# git clone --depth 1 https://github.com/minimax-ai/minimax-mcp-js\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-browser-kit",
+  "description": "Multi-backend browser MCP that auto-detects the best available driver (Playwright, Puppeteer, or CDP) and exposes a unified tool surface — navigate, interact, screenshot, and extract across all three backends.",
+  "source_repo": "hdresearch/mcp-browser",
+  "source_url": "https://github.com/hdresearch/mcp-browser",
+  "install": "# git clone --depth 1 https://github.com/hdresearch/mcp-browser\n# See source for mcpServers config block"
+}

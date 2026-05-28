@@ -1,0 +1,7 @@
+{
+  "name": "aurekai",
+  "description": "Provides akai doctor diagnostics, manifest and artifact management, feature queries, and runtime inspection.",
+  "source_repo": "aurekai/aurekai-mcp",
+  "source_url": "https://github.com/aurekai/aurekai-mcp",
+  "install": "npx -y aurekai-mcp"
+}

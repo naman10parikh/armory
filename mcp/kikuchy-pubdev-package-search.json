@@ -1,0 +1,7 @@
+{
+  "name": "kikuchy-pubdev-package-search",
+  "description": "Enables natural language search for Dart and Flutter packages on pub.dev, providing detailed package information, scores, and metrics through conversational queries.",
+  "source_repo": "kikuchy/pubdev_mcp",
+  "source_url": "https://github.com/kikuchy/pubdev_mcp",
+  "install": "npx -y pubdev_mcp"
+}

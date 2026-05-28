@@ -1,0 +1,7 @@
+{
+  "name": "veritiknik-random-number-generator",
+  "description": "Provides cryptographically secure random number generation with seven specialized tools for integers, floats, bytes, UUIDs, strings, random choices, and booleans using Node.js's crypto module for security-sensitive applications like key generation, session tokens, and password creation.",
+  "source_repo": "veriteknik/pluggedin-random-number-generator-mcp",
+  "source_url": "https://github.com/veriteknik/pluggedin-random-number-generator-mcp",
+  "install": "npx -y pluggedin-random-number-generator-mcp"
+}

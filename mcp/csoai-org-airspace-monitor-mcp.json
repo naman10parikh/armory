@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-airspace-monitor-mcp",
+  "description": "Airspace monitoring and drone flight coordination tools.",
+  "source_repo": "csoai-org/airspace-monitor-mcp",
+  "source_url": "https://github.com/csoai-org/airspace-monitor-mcp",
+  "install": "npx -y airspace-monitor-mcp"
+}

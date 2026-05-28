@@ -1,0 +1,7 @@
+{
+  "name": "girste-mcp-cybersec-watchdog",
+  "description": "Comprehensive Linux server security audit with 89 CIS Benchmark controls, NIST 800-53, and PCI-DSS compliance checks. Real-time monitoring with anomaly detection across 23 analyzers: firewall, SSH, fail2ban, Docker, CVE, rootkit, SSL/TLS, filesystem, network, and more.",
+  "source_repo": "girste/mcp-cybersec-watchdog",
+  "source_url": "https://github.com/girste/mcp-cybersec-watchdog",
+  "install": "# git clone --depth 1 https://github.com/girste/mcp-cybersec-watchdog\n# See source for mcpServers config block"
+}

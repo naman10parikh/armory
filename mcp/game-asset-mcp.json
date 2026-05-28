@@ -1,0 +1,7 @@
+{
+  "name": "game-asset-mcp",
+  "description": "Game Asset Mcp MCP server listed on mcp.so.",
+  "source_repo": "MubarakHAlketbi/game-asset-mcp",
+  "source_url": "https://mcp.so/server/game-asset-mcp/MubarakHAlketbi",
+  "install": "npx -y game-asset-mcp"
+}

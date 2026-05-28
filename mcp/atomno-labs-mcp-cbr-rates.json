@@ -1,0 +1,7 @@
+{
+  "name": "atomno-labs-mcp-cbr-rates",
+  "description": "Central Bank of Russia (ЦБ РФ) data — currency exchange rates (daily and historical), key interest rate, inflation, and aggregated macro statistics. Five typed tools backed by an in-memory TTL cache. No API key required.",
+  "source_repo": "atomno-labs/mcp-cbr-rates",
+  "source_url": "https://github.com/atomno-labs/mcp-cbr-rates",
+  "install": "# git clone --depth 1 https://github.com/atomno-labs/mcp-cbr-rates\n# See source for mcpServers config block"
+}

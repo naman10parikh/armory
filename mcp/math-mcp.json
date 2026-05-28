@@ -1,0 +1,7 @@
+{
+  "name": "math-mcp",
+  "description": "Enable your LLMs to perform accurate numerical calculations with a simple API. Leverage basic arithmetic and statistical functions to enhance your applications. Simplify complex mathematical tasks effortlessly and improve your model's capabilities.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/EthanHenrickson/math-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/EthanHenrickson/math-mcp\n# See source for mcpServers config block"
+}

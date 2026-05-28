@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-geolocation-ai-mcp",
+  "description": "Tools for geolocation queries, address lookups, and geographic data processing.",
+  "source_repo": "csoai-org/geolocation-ai-mcp",
+  "source_url": "https://github.com/csoai-org/geolocation-ai-mcp",
+  "install": "npx -y geolocation-ai-mcp"
+}

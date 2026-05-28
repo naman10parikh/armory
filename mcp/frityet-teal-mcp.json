@@ -1,0 +1,7 @@
+{
+  "name": "frityet-teal-mcp",
+  "description": "Provides sandboxed Lua code execution environments with session management, package installation via LuaRocks, and filesystem operations using Teal's type-safe architecture for educational coding assistance and data analysis workflows.",
+  "source_repo": "frityet/tealmcp",
+  "source_url": "https://github.com/frityet/tealmcp",
+  "install": "# git clone --depth 1 https://github.com/frityet/tealmcp\n# See source for mcpServers config block"
+}

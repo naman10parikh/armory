@@ -1,0 +1,7 @@
+{
+  "name": "drolosoft-immich-photo-manager",
+  "description": "Turn your self-hosted Immich photo library into a conversation — natural language search via CLIP, geographic album curation from GPS data, cross-source duplicate detection with perceptual hashing, library health reports, and offline-ready interactive HTML galleries. Claude Code plugin with 21 MCP tools, 11 skills, and 5 slash commands.",
+  "source_repo": "drolosoft/immich-photo-manager",
+  "source_url": "https://github.com/drolosoft/immich-photo-manager",
+  "install": "# git clone --depth 1 https://github.com/drolosoft/immich-photo-manager\n# See source for mcpServers config block"
+}

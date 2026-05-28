@@ -1,0 +1,7 @@
+{
+  "name": "chanmeng666-google-news",
+  "description": "Integrates with Google News via SerpAPI to enable querying and retrieving current news articles, headlines, and related information for applications like news aggregation and trend analysis.",
+  "source_repo": "chanmeng666/server-google-news",
+  "source_url": "https://github.com/chanmeng666/server-google-news",
+  "install": "# git clone --depth 1 https://github.com/chanmeng666/server-google-news\n# See source for mcpServers config block"
+}

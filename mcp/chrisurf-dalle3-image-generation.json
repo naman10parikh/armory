@@ -1,0 +1,7 @@
+{
+  "name": "chrisurf-dalle3-image-generation",
+  "description": "Integrates with OpenAI's DALL-E 3 API to generate high-quality images with configurable size, quality, and style parameters, automatically saving results locally with descriptive filenames.",
+  "source_repo": "chrisurf/imagegen-mcp-d3",
+  "source_url": "https://github.com/chrisurf/imagegen-mcp-d3",
+  "install": "# git clone --depth 1 https://github.com/chrisurf/imagegen-mcp-d3\n# See source for mcpServers config block"
+}

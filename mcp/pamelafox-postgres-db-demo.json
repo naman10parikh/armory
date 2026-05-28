@@ -1,0 +1,7 @@
+{
+  "name": "pamelafox-postgres-db-demo",
+  "description": "Educational MCP server demonstrating four FastMCP abstraction levels for safe PostgreSQL tool design.",
+  "source_repo": "pamelafox/mcp-for-postgres-db-demo",
+  "source_url": "https://github.com/pamelafox/mcp-for-postgres-db-demo",
+  "install": "# git clone --depth 1 https://github.com/pamelafox/mcp-for-postgres-db-demo\n# See source for mcpServers config block"
+}

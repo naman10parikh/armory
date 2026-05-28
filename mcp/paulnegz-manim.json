@@ -1,0 +1,7 @@
+{
+  "name": "paulnegz-manim",
+  "description": "Generates mathematical animation videos from natural language prompts using multi-agent orchestration.",
+  "source_repo": "paulnegz/manim-mcp",
+  "source_url": "https://github.com/paulnegz/manim-mcp",
+  "install": "npx -y manim-mcp"
+}

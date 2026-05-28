@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-sleep-tracker-ai-mcp",
+  "description": "Python MCP server for sleep tracking and analysis.",
+  "source_repo": "csoai-org/sleep-tracker-ai-mcp",
+  "source_url": "https://github.com/csoai-org/sleep-tracker-ai-mcp",
+  "install": "npx -y sleep-tracker-ai-mcp"
+}

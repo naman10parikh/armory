@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [web-coding-style, web-design-quality]
-tags: [ecc, rules, web]
+tags: [rules, web]
 ---
 ## What it is
 web rule: apply when working on web and you need Web Hooks.

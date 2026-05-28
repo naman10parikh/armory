@@ -1,0 +1,7 @@
+{
+  "name": "gitintel",
+  "description": "A local Git intelligence MCP server that provides deep repository analytics including hotspots, temporal coupling, knowledge maps, churn analysis, and risk scoring for AI agents.",
+  "source_repo": "hoangsonww/GitIntel-MCP-Server",
+  "source_url": "https://github.com/hoangsonww/GitIntel-MCP-Server",
+  "install": "npx -y GitIntel-MCP-Server"
+}

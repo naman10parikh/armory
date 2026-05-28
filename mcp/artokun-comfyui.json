@@ -1,0 +1,7 @@
+{
+  "name": "artokun-comfyui",
+  "description": "MCP server and Claude Code plugin for ComfyUI: run workflows, generate images, and manage models.",
+  "source_repo": "artokun/comfyui-mcp",
+  "source_url": "https://github.com/artokun/comfyui-mcp",
+  "install": "npx -y comfyui-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "keyfactor-research-command",
+  "description": "Integrates with Keyfactor Command PKI platform to enable certificate enrollment, revocation, and search operations while combining Risk Intelligence security findings with risk assessment for enterprise certificate lifecycle management.",
+  "source_repo": "keyfactor-research/command-mcp",
+  "source_url": "https://github.com/keyfactor-research/command-mcp",
+  "install": "npx -y command-mcp"
+}

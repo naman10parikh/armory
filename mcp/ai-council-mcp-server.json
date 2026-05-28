@@ -1,0 +1,7 @@
+{
+  "name": "ai-council-mcp-server",
+  "description": "Multi-AI Consensus Tool: Query multiple AI models in parallel, synthesize responses for better accuracy, and reduce AI bias through ensemble decision-making.",
+  "source_repo": "0xAkuti/ai-council-mcp",
+  "source_url": "https://github.com/0xAkuti/ai-council-mcp",
+  "install": "npx -y ai-council-mcp"
+}

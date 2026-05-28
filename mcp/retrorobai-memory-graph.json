@@ -1,0 +1,7 @@
+{
+  "name": "retrorobai-memory-graph",
+  "description": "Maintains an authority-weighted memory graph for AI agents with conflict detection and semantic search.",
+  "source_repo": "retrorobai/mcp-memory-graph",
+  "source_url": "https://github.com/retrorobai/mcp-memory-graph",
+  "install": "# git clone --depth 1 https://github.com/retrorobai/mcp-memory-graph\n# See source for mcpServers config block"
+}

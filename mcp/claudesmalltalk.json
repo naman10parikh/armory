@@ -1,0 +1,7 @@
+{
+  "name": "claudesmalltalk",
+  "description": "Enables AI interaction with live Smalltalk environments (Cuis and Squeak) for code evaluation, class browsing, method management, and image manipulation through multiple deployment options.",
+  "source_repo": "corporatesmalltalkconsultingltd/claudesmalltalk",
+  "source_url": "https://github.com/corporatesmalltalkconsultingltd/claudesmalltalk",
+  "install": "# git clone --depth 1 https://github.com/corporatesmalltalkconsultingltd/claudesmalltalk\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antseer-openweb3data",
+  "description": "Web3 data platform providing 100+ real-time on-chain analytics tools for DeFi, CeFi, TradFi, and crypto market intelligence.",
+  "source_repo": "antseer-dev/openweb3data_mcp",
+  "source_url": "https://github.com/antseer-dev/openweb3data_mcp",
+  "install": "npx -y openweb3data_mcp"
+}

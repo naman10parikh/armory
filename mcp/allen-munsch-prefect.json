@@ -1,0 +1,7 @@
+{
+  "name": "allen-munsch-prefect",
+  "description": "Integrates with Prefect workflow orchestration platform to enable natural language control over flow management, deployment operations, task monitoring, and infrastructure management with complete CRUD operations across flows, deployments, task runs, work queues, variables, and blocks.",
+  "source_repo": "allen-munsch/mcp-prefect",
+  "source_url": "https://github.com/allen-munsch/mcp-prefect",
+  "install": "# git clone --depth 1 https://github.com/allen-munsch/mcp-prefect\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-browser-rendering",
+  "description": "Integrates with Cloudflare's Browser Rendering API to enable web scraping and screenshot capture using Puppeteer for dynamic content processing and automated visual testing.",
+  "source_repo": "amotivv/cloudflare-browser-rendering",
+  "source_url": "https://github.com/amotivv/cloudflare-browser-rendering",
+  "install": "# git clone --depth 1 https://github.com/amotivv/cloudflare-browser-rendering\n# See source for mcpServers config block"
+}

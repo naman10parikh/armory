@@ -1,0 +1,7 @@
+{
+  "name": "dontsovcmc-yandex-metrika",
+  "description": "Accesses Yandex Metrika analytics data including visit statistics, counter management, and log exports.",
+  "source_repo": "dontsovcmc/mcp-server-yandex-metrika",
+  "source_url": "https://github.com/dontsovcmc/mcp-server-yandex-metrika",
+  "install": "# git clone --depth 1 https://github.com/dontsovcmc/mcp-server-yandex-metrika\n# See source for mcpServers config block"
+}

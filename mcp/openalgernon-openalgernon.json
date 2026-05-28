@@ -1,0 +1,7 @@
+{
+  "name": "openalgernon-openalgernon",
+  "description": "AI-powered study platform with FSRS spaced repetition, flashcard generation, and knowledge retrieval.",
+  "source_repo": "openalgernon/openalgernon-mcp",
+  "source_url": "https://github.com/openalgernon/openalgernon-mcp",
+  "install": "npx -y openalgernon-mcp"
+}

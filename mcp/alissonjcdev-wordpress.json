@@ -1,0 +1,7 @@
+{
+  "name": "alissonjcdev-wordpress",
+  "description": "Manages WordPress sites through a companion PHP plugin, supporting content creation, Elementor page building, themes, plugins, media, and direct database operations.",
+  "source_repo": "alissonjcdev/mcp-wordpress",
+  "source_url": "https://github.com/alissonjcdev/mcp-wordpress",
+  "install": "# git clone --depth 1 https://github.com/alissonjcdev/mcp-wordpress\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olyport-usda-food",
+  "description": "SNAP participation, food insecurity indicators, and agricultural statistics from USDA.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/usda-food/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/usda-food/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-akougkas-zulipchat",
+  "description": "Connect AI to Zulip with 60+ tools for messaging, streams, events, and analytics.",
+  "source_repo": "akougkas/zulipchat-mcp",
+  "source_url": "https://github.com/akougkas/zulipchat-mcp",
+  "install": "npx -y zulipchat-mcp"
+}

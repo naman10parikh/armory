@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-quickbooks",
+  "description": "Integrates with QuickBooks API for accounting and financial management tasks.",
+  "source_repo": "asklokesh/quickbooks-mcp-server",
+  "source_url": "https://github.com/asklokesh/quickbooks-mcp-server",
+  "install": "npx -y quickbooks-mcp-server"
+}

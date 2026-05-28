@@ -1,0 +1,7 @@
+{
+  "name": "bandsintown",
+  "description": "Access Bandsintown concert and event data for artists via MCP.",
+  "source_repo": "pipeworx-io/mcp-bandsintown",
+  "source_url": "https://github.com/pipeworx-io/mcp-bandsintown",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bandsintown\n# See source for mcpServers config block"
+}

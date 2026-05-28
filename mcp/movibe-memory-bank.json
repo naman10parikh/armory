@@ -1,0 +1,7 @@
+{
+  "name": "movibe-memory-bank",
+  "description": "TypeScript-based server for tracking project context across sessions, enabling persistent knowledge sharing through modular, markdown-based memory management with support for multiple development modes.",
+  "source_repo": "movibe/memory-bank-mcp",
+  "source_url": "https://github.com/movibe/memory-bank-mcp",
+  "install": "npx -y memory-bank-mcp"
+}

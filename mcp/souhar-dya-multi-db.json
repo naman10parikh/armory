@@ -1,0 +1,7 @@
+{
+  "name": "souhar-dya-multi-db",
+  "description": "Natural language SQL querying across SQLite, PostgreSQL, and MySQL databases.",
+  "source_repo": "souhar-dya/mcp-db-server",
+  "source_url": "https://github.com/souhar-dya/mcp-db-server",
+  "install": "# git clone --depth 1 https://github.com/souhar-dya/mcp-db-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "detection-forge-detection-lookups",
+  "description": "Security detection lookups for LOLBAS, GTFOBins, and process parent-child relationship analysis.",
+  "source_repo": "detection-forge/agentic-detection-lookups",
+  "source_url": "https://github.com/detection-forge/agentic-detection-lookups",
+  "install": "# git clone --depth 1 https://github.com/detection-forge/agentic-detection-lookups\n# See source for mcpServers config block"
+}

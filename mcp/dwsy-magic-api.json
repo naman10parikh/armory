@@ -1,0 +1,7 @@
+{
+  "name": "dwsy-magic-api",
+  "description": "Integrates with Magic-API development environments to provide API management, debugging with breakpoints and step execution, documentation access, backup/restore functionality, Java class introspection, and content search across API scripts through REST endpoints and WebSocket interfaces.",
+  "source_repo": "dwsy/magic-api-mcp-server",
+  "source_url": "https://github.com/dwsy/magic-api-mcp-server",
+  "install": "npx -y magic-api-mcp-server"
+}

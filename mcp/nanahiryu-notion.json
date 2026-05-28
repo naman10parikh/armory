@@ -1,0 +1,7 @@
+{
+  "name": "nanahiryu-notion",
+  "description": "Integrates with Notion's API to enable document management, knowledge base maintenance, and collaborative workflows through comprehensive tools for managing blocks, pages, databases, users, and comments.",
+  "source_repo": "nanahiryu/notion-mcp-server",
+  "source_url": "https://github.com/nanahiryu/notion-mcp-server",
+  "install": "npx -y notion-mcp-server"
+}

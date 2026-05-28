@@ -1,0 +1,7 @@
+{
+  "name": "mcp-hub-server",
+  "description": "An app store for AI agents. Discover, search, and install 49+ MCP servers from a curated catalog.",
+  "source_repo": "AiAgentKarl/mcp-hub-server-js",
+  "source_url": "https://github.com/AiAgentKarl/mcp-hub-server-js",
+  "install": "# git clone --depth 1 https://github.com/AiAgentKarl/mcp-hub-server-js\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wilsonllucena-sqlite-database",
+  "description": "Provides database connectivity through SQLite integration with pre-seeded sample data, enabling query execution and structured data interaction for prototyping and testing relational database operations.",
+  "source_repo": "wilsonllucena/mcp-connect-database",
+  "source_url": "https://github.com/wilsonllucena/mcp-connect-database",
+  "install": "# git clone --depth 1 https://github.com/wilsonllucena/mcp-connect-database\n# See source for mcpServers config block"
+}

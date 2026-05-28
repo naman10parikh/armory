@@ -1,0 +1,7 @@
+{
+  "name": "lyellr88-marm",
+  "description": "Persistent memory system with semantic search for AI agents",
+  "source_repo": "lyellr88/marm-systems",
+  "source_url": "https://github.com/lyellr88/marm-systems",
+  "install": "# git clone --depth 1 https://github.com/lyellr88/marm-systems\n# See source for mcpServers config block"
+}

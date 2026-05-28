@@ -1,0 +1,7 @@
+{
+  "name": "medrecpro-drug-label",
+  "description": "Search and export FDA drug labels by brand name, generic ingredient, or UNII code.",
+  "source_repo": "chriserikbarnes/medrecpro",
+  "source_url": "https://github.com/chriserikbarnes/medrecpro/tree/HEAD/MedRecProMCP",
+  "install": "# git clone --depth 1 https://github.com/chriserikbarnes/medrecpro/tree/HEAD/MedRecProMCP\n# See source for mcpServers config block"
+}

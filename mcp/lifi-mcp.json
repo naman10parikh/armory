@@ -1,0 +1,7 @@
+{
+  "name": "lifi-mcp",
+  "description": "Lifi Mcp MCP server listed on mcp.so.",
+  "source_repo": "lifinance/lifi-mcp",
+  "source_url": "https://mcp.so/server/lifi-mcp/lifinance",
+  "install": "npx -y lifi-mcp"
+}

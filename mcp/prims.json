@@ -1,0 +1,7 @@
+{
+  "name": "prims",
+  "description": "Provides secure Python code execution in isolated Docker containers with session-persistent workspaces, configurable pip requirements, file mounting capabilities, and automatic artifact capture for data analysis workflows.",
+  "source_repo": "hileamlakb/python-runtime-interpreter-mcp-server",
+  "source_url": "https://github.com/hileamlakb/python-runtime-interpreter-mcp-server",
+  "install": "npx -y python-runtime-interpreter-mcp-server"
+}

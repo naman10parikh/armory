@@ -1,0 +1,7 @@
+{
+  "name": "cmendezs-ksef-pl",
+  "description": "Polish e-invoicing MCP server supporting KSeF API v2, FA(3)/FA(2) XML, Peppol BIS 3.0, and NIP/REGON validation.",
+  "source_repo": "cmendezs/mcp-ksef-pl",
+  "source_url": "https://github.com/cmendezs/mcp-ksef-pl",
+  "install": "# git clone --depth 1 https://github.com/cmendezs/mcp-ksef-pl\n# See source for mcpServers config block"
+}

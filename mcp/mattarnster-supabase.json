@@ -1,0 +1,7 @@
+{
+  "name": "mattarnster-supabase",
+  "description": "Integrates with the Supabase CLI to enable project management, database operations, and automated workflows for Supabase projects.",
+  "source_repo": "mattarnster/supabase-mcp-server",
+  "source_url": "https://github.com/mattarnster/supabase-mcp-server",
+  "install": "npx -y supabase-mcp-server"
+}

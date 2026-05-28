@@ -1,0 +1,7 @@
+{
+  "name": "jonafly-rednote",
+  "description": "Provides a bridge to Xiaohongshu (Red Note) social media platform for retrieving note details, analyzing trends, and monitoring content without manual browsing.",
+  "source_repo": "jonafly/rednote-mcp",
+  "source_url": "https://github.com/jonafly/rednote-mcp",
+  "install": "npx -y rednote-mcp"
+}

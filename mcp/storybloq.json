@@ -1,0 +1,7 @@
+{
+  "name": "storybloq",
+  "description": "Enables AI coding assistants to persist and manage project context across sessions, including tickets, roadmap, handovers, and lessons learned, via a structured .story/ directory.",
+  "source_repo": "Storybloq/storybloq",
+  "source_url": "https://github.com/Storybloq/storybloq",
+  "install": "# git clone --depth 1 https://github.com/Storybloq/storybloq\n# See source for mcpServers config block"
+}

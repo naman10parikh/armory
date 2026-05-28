@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-mcp-server-docker",
+  "description": "Docker operations — manage containers, images, volumes, networks, and compose services.",
+  "source_repo": "ofershap/mcp-server-docker",
+  "source_url": "https://github.com/ofershap/mcp-server-docker",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-docker\n# See source for mcpServers config block"
+}

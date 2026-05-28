@@ -1,0 +1,7 @@
+{
+  "name": "alexifeng-chat-logger",
+  "description": "Saves chat conversations as formatted Markdown files with timestamps and role information for record-keeping and analysis.",
+  "source_repo": "alexifeng/mcp_chat_logger",
+  "source_url": "https://github.com/alexifeng/mcp_chat_logger",
+  "install": "# git clone --depth 1 https://github.com/alexifeng/mcp_chat_logger\n# See source for mcpServers config block"
+}

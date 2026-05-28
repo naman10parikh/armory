@@ -1,0 +1,7 @@
+{
+  "name": "perplexica-mcp-server",
+  "description": "An MCP server that provides AI-powered search capabilities including web, academic, YouTube, Reddit search and writing assistance via Perplexica.",
+  "source_repo": "tianmu/perplexica-mcp-server",
+  "source_url": "https://github.com/tianmu/perplexica-mcp-server",
+  "install": "npx -y perplexica-mcp-server"
+}

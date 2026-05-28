@@ -1,0 +1,7 @@
+{
+  "name": "nvidia-usdcode",
+  "description": "Integrates with NVIDIA's USDCode Llama 3.1 70B model to provide specialized assistance for Isaac Sim scripting, USD workflows, and Python API development within NVIDIA's Omniverse ecosystem.",
+  "source_repo": "ishandotsh/nvidia-usdcode-mcp-server",
+  "source_url": "https://github.com/ishandotsh/nvidia-usdcode-mcp-server",
+  "install": "npx -y nvidia-usdcode-mcp-server"
+}

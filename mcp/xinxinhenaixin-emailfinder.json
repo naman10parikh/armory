@@ -1,0 +1,7 @@
+{
+  "name": "xinxinhenaixin-emailfinder",
+  "description": "Find verified professional emails by name, domain, LinkedIn profile, or role using the emailfinder.dev API.",
+  "source_repo": "xinxinhenaixin/emailfinder-mcp",
+  "source_url": "https://github.com/xinxinhenaixin/emailfinder-mcp",
+  "install": "npx -y emailfinder-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aidc-ai-pixelle",
+  "description": "Integrates with ComfyUI workflows to provide text-to-image, image-to-image, and image-to-video generation capabilities through natural language interactions for creative content creation.",
+  "source_repo": "aidc-ai/pixelle-mcp",
+  "source_url": "https://github.com/aidc-ai/pixelle-mcp",
+  "install": "npx -y pixelle-mcp"
+}

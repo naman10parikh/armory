@@ -1,0 +1,7 @@
+{
+  "name": "pharaoh-so-pharaoh",
+  "description": "Hosted MCP server that parses TypeScript and Python codebases into Neo4j knowledge graphs for blast radius analysis, dead code detection, dependency tracing, and architectural context.",
+  "source_repo": "0xUXDesign/pharaoh-mcp",
+  "source_url": "https://github.com/0xUXDesign/pharaoh-mcp",
+  "install": "npx -y pharaoh-mcp"
+}

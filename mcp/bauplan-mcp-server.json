@@ -1,0 +1,7 @@
+{
+  "name": "bauplan-mcp-server",
+  "description": "Enables AI assistants to interact with Bauplan lakehouse operations, including querying tables, schema inspection, branch management, and pipeline execution.",
+  "source_repo": "BauplanLabs/bauplan-mcp-server",
+  "source_url": "https://github.com/BauplanLabs/bauplan-mcp-server",
+  "install": "npx -y bauplan-mcp-server"
+}

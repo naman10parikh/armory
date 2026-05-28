@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-zabbix",
+  "description": "Exposes all Zabbix API methods as callable tools for comprehensive monitoring infrastructure management.",
+  "source_repo": "daedalus/mcp-zabbix",
+  "source_url": "https://github.com/daedalus/mcp-zabbix",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-zabbix\n# See source for mcpServers config block"
+}

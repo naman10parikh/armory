@@ -1,0 +1,7 @@
+{
+  "name": "tickerr-live-status",
+  "description": "Real-time status, pricing, and inference latency for 90+ AI tools. Agent-reported failure signals with live fallback routing. No auth required.",
+  "source_repo": "",
+  "source_url": "https://tickerr.ai/mcp-server",
+  "install": "# git clone --depth 1 https://tickerr.ai/mcp-server\n# See source for mcpServers config block"
+}

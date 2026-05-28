@@ -1,0 +1,7 @@
+{
+  "name": "vugola",
+  "description": "AI video clipping and social media scheduling platform.",
+  "source_repo": "vcoder25/vugola-mcp",
+  "source_url": "https://github.com/vcoder25/vugola-mcp",
+  "install": "npx -y vugola-mcp"
+}

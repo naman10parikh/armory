@@ -1,0 +1,7 @@
+{
+  "name": "greb",
+  "description": "Intelligent code search for AI coding assistants",
+  "source_repo": "",
+  "source_url": "https://greb.cheetahai.co/",
+  "install": "# git clone --depth 1 https://greb.cheetahai.co/\n# See source for mcpServers config block"
+}

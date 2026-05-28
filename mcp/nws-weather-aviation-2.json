@@ -1,0 +1,7 @@
+{
+  "name": "nws-weather-aviation-2",
+  "description": "Access real-time US weather forecasts, alerts, radar, and station observations from the National Weather Service. Retrieve aviation products including TAFs and SIGMETs for flight planning. Build location-aware features with point metadata, grid forecasts, and zone products.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/ahmed2real/thinkzone",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/ahmed2real/thinkzone\n# See source for mcpServers config block"
+}

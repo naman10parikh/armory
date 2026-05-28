@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-opendata-canada",
+  "description": "Searches Canada's national open data catalogue via the CKAN API on open.canada.ca.",
+  "source_repo": "pipeworx-io/mcp-opendata-canada",
+  "source_url": "https://github.com/pipeworx-io/mcp-opendata-canada",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-opendata-canada\n# See source for mcpServers config block"
+}

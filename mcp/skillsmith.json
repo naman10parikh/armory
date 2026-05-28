@@ -1,0 +1,7 @@
+{
+  "name": "skillsmith",
+  "description": "Discover, install, and manage reusable skills for Claude Code.",
+  "source_repo": "smith-horn/skillsmith",
+  "source_url": "https://github.com/smith-horn/skillsmith",
+  "install": "# git clone --depth 1 https://github.com/smith-horn/skillsmith\n# See source for mcpServers config block"
+}

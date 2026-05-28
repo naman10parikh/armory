@@ -1,0 +1,7 @@
+{
+  "name": "omarchy-mcp",
+  "description": "Enables AI assistants to manage Omarchy desktop themes, including listing, switching, previewing, installing, removing, and rotating backgrounds.",
+  "source_repo": "ServiceStack/omarchy-mcp",
+  "source_url": "https://github.com/ServiceStack/omarchy-mcp",
+  "install": "npx -y omarchy-mcp"
+}

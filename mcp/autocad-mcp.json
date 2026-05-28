@@ -1,0 +1,7 @@
+{
+  "name": "autocad-mcp",
+  "description": "Autocad Mcp MCP server listed on mcp.so.",
+  "source_repo": "hvkshetry/autocad-mcp",
+  "source_url": "https://mcp.so/server/autocad-mcp/hvkshetry",
+  "install": "npx -y autocad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ellmos-ai-n8n-manager",
+  "description": "Manage n8n workflows with multi-server support, execution history, and import/export capabilities.",
+  "source_repo": "ellmos-ai/n8n-manager-mcp",
+  "source_url": "https://github.com/ellmos-ai/n8n-manager-mcp",
+  "install": "npx -y n8n-manager-mcp"
+}

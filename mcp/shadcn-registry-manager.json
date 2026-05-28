@@ -1,0 +1,7 @@
+{
+  "name": "shadcn-registry-manager",
+  "description": "Integrates with the shadcn/ui component registry to initialize projects, add components, and manage configurations remotely through CLI operations like init and add, supporting both official and custom registries for automating React/Next.js project setup and component library management.",
+  "source_repo": "reuvenaor/shadcn-registry-manager",
+  "source_url": "https://github.com/reuvenaor/shadcn-registry-manager",
+  "install": "# git clone --depth 1 https://github.com/reuvenaor/shadcn-registry-manager\n# See source for mcpServers config block"
+}

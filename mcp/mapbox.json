@@ -1,0 +1,7 @@
+{
+  "name": "mapbox",
+  "description": "Geospatial intelligence with geocoding, POI search, routing, and isochrones",
+  "source_repo": "mapbox/mcp-server",
+  "source_url": "https://github.com/mapbox/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/mapbox/mcp-server\n# See source for mcpServers config block"
+}

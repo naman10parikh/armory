@@ -1,0 +1,7 @@
+{
+  "name": "jess321995-kubernetes-natural-language-commander",
+  "description": "Converts natural language requests into valid kubectl commands for Kubernetes cluster management, enabling administrators to interact with their clusters without memorizing complex syntax",
+  "source_repo": "jess321995/kube-core-mcp",
+  "source_url": "https://github.com/jess321995/kube-core-mcp",
+  "install": "npx -y kube-core-mcp"
+}

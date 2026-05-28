@@ -1,0 +1,7 @@
+{
+  "name": "cognitive-stack-volume-wall-detector",
+  "description": "Analyzes stock trading data to identify volume walls and key price levels where significant trading activity occurs, providing traders with insights into market structure and potential reversal points.",
+  "source_repo": "cognitive-stack/volume-wall-detector-mcp",
+  "source_url": "https://github.com/cognitive-stack/volume-wall-detector-mcp",
+  "install": "npx -y volume-wall-detector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "serkanh-cloudwatch-logs",
+  "description": "Provides direct access to AWS CloudWatch logs with tools for listing log groups and retrieving filtered log entries through a Python-based server using FastMCP and boto3.",
+  "source_repo": "serkanh/cloudwatch-logs-mcp",
+  "source_url": "https://github.com/serkanh/cloudwatch-logs-mcp",
+  "install": "npx -y cloudwatch-logs-mcp"
+}

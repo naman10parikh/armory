@@ -1,0 +1,7 @@
+{
+  "name": "vitalemazo-cloud-pilot",
+  "description": "Multi-cloud infrastructure MCP server for AWS, Azure, GCP, and Alibaba Cloud with 51,900+ API operations and a 4-level dry-run safety system.",
+  "source_repo": "vitalemazo/cloud-pilot-mcp",
+  "source_url": "https://github.com/vitalemazo/cloud-pilot-mcp",
+  "install": "npx -y cloud-pilot-mcp"
+}

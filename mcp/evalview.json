@@ -1,0 +1,7 @@
+{
+  "name": "evalview",
+  "description": "MCP server — AI agent regression testing — snapshot behavior, detect regressions in tool calls and output quality. 8 tools: create_test, run_snapshot, run_check, list_tests, validate_skill, generate_skill_tests, run_skill_test, generate_visual_report. API key optional — deterministic checks (tool…",
+  "source_repo": "affaan-m/ecc",
+  "source_url": "https://github.com/affaan-m/ecc/blob/main/mcp-configs/mcp-servers.json",
+  "install": "# git clone --depth 1 https://github.com/affaan-m/ecc/blob/main/mcp-configs/mcp-servers.json\n# See source for mcpServers config block"
+}

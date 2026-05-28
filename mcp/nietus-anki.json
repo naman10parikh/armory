@@ -1,0 +1,7 @@
+{
+  "name": "nietus-anki",
+  "description": "Provides a bridge between the Anki flashcard application and external tools for creating, updating, and retrieving flashcards without manually navigating the Anki interface.",
+  "source_repo": "nietus/anki-mcp",
+  "source_url": "https://github.com/nietus/anki-mcp",
+  "install": "npx -y anki-mcp"
+}

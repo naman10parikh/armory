@@ -1,0 +1,7 @@
+{
+  "name": "selbyventurecap-apollo-salesforce-mapper",
+  "description": "Maps Apollo contact payloads to Salesforce Lead objects using deterministic TypeScript rules.",
+  "source_repo": "",
+  "source_url": "https://cf-worker.selbyventurecap.workers.dev/mcp",
+  "install": "# git clone --depth 1 https://cf-worker.selbyventurecap.workers.dev/mcp\n# See source for mcpServers config block"
+}

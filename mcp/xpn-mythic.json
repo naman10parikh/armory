@@ -1,0 +1,7 @@
+{
+  "name": "xpn-mythic",
+  "description": "Integrates with the Mythic Command and Control framework for penetration testing, enabling shell command execution, file operations, and security tool deployment through specialized prompt templates for automated security workflows.",
+  "source_repo": "xpn/mythic_mcp",
+  "source_url": "https://github.com/xpn/mythic_mcp",
+  "install": "npx -y mythic_mcp"
+}

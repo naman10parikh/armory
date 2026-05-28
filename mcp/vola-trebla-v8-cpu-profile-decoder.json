@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-v8-cpu-profile-decoder",
+  "description": "Decodes V8 CPU profiles into token-efficient bottleneck summaries for AI agents.",
+  "source_repo": "vola-trebla/v8-cpu-profile-decoder-mcp",
+  "source_url": "https://github.com/vola-trebla/v8-cpu-profile-decoder-mcp",
+  "install": "npx -y v8-cpu-profile-decoder-mcp"
+}

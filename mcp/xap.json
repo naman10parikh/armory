@@ -1,0 +1,7 @@
+{
+  "name": "xap",
+  "description": "Agent settlement protocol for discovering, negotiating, settling, and verifying commercial transactions.",
+  "source_repo": "agentra-commerce/xap-sdk",
+  "source_url": "https://github.com/agentra-commerce/xap-sdk/tree/HEAD/npm",
+  "install": "# git clone --depth 1 https://github.com/agentra-commerce/xap-sdk/tree/HEAD/npm\n# See source for mcpServers config block"
+}

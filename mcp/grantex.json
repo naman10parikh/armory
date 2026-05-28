@@ -1,0 +1,7 @@
+{
+  "name": "grantex",
+  "description": "OAuth 2.0 authorization infrastructure for AI agents — scoped delegation tokens, audit trails, and revocation.",
+  "source_repo": "mishrasanjeev/grantex",
+  "source_url": "https://github.com/mishrasanjeev/grantex",
+  "install": "# git clone --depth 1 https://github.com/mishrasanjeev/grantex\n# See source for mcpServers config block"
+}

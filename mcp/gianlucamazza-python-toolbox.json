@@ -1,0 +1,7 @@
+{
+  "name": "gianlucamazza-python-toolbox",
+  "description": "Integrates Python development tools for file operations, code analysis, project management, and safe code execution, enabling advanced programming workflows and automated testing.",
+  "source_repo": "gianlucamazza/mcp_python_toolbox",
+  "source_url": "https://github.com/gianlucamazza/mcp_python_toolbox",
+  "install": "# git clone --depth 1 https://github.com/gianlucamazza/mcp_python_toolbox\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kakitucurrency-kakitu",
+  "description": "Cryptocurrency operations for the Kakitu network including wallet management, balance queries, and transactions.",
+  "source_repo": "kakitucurrency/kakitu_mcp_server",
+  "source_url": "https://github.com/kakitucurrency/kakitu_mcp_server",
+  "install": "npx -y kakitu_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zgts-derma-roller",
+  "description": "Expert MCP server for derma roller (microneedling) guidance. 4 tools: needle size recommendations, guide search, product info, and usage protocols. 26 research-backed guides reviewed by Dr. Priya Mehta. No auth required.",
+  "source_repo": "",
+  "source_url": "https://zgts.in",
+  "install": "# git clone --depth 1 https://zgts.in\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unsloth-llm-fine-tuning",
+  "description": "Unsloth's MCP server optimizes large language model fine-tuning by reducing VRAM usage and training time, supporting 4-bit quantization and extended context length for models like Llama, Mistral, and Phi.",
+  "source_repo": "ototao/unsloth-mcp-server",
+  "source_url": "https://github.com/ototao/unsloth-mcp-server",
+  "install": "npx -y unsloth-mcp-server"
+}

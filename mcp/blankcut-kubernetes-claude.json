@@ -1,0 +1,7 @@
+{
+  "name": "blankcut-kubernetes-claude",
+  "description": "Integrates Claude with Kubernetes, ArgoCD, and GitLab to analyze and troubleshoot GitOps workflows by collecting resource information, correlating cross-system data, and providing actionable recommendations through a RESTful API.",
+  "source_repo": "blankcut/kubernetes-mcp-server",
+  "source_url": "https://github.com/blankcut/kubernetes-mcp-server",
+  "install": "npx -y kubernetes-mcp-server"
+}

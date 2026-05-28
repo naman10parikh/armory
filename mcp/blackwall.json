@@ -1,0 +1,7 @@
+{
+  "name": "blackwall",
+  "description": "Identity and access security platform providing threat detection, authentication management, and policy enforcement for AI agents.",
+  "source_repo": "bluetieroperations-create/blackwall-mcp",
+  "source_url": "https://github.com/bluetieroperations-create/blackwall-mcp",
+  "install": "npx -y blackwall-mcp"
+}

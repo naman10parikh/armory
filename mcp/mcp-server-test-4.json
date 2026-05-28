@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-test-4",
+  "description": "Mcp Server Test MCP server listed on mcp.so.",
+  "source_repo": "Loag/mcp-server-test",
+  "source_url": "https://mcp.so/server/mcp-server-test/Loag",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-test/Loag\n# See source for mcpServers config block"
+}

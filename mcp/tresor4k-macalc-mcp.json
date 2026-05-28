@@ -1,0 +1,7 @@
+{
+  "name": "tresor4k-macalc-mcp",
+  "description": "The most comprehensive everyday calculator MCP server — 501 tools, 22 categories, 8 countries' tax systems (FR, BE, CH, CA, US, UK, MA, SN). Finance, health, math, science, construction, conversions, education, sport, cooking, travel & more. Free, no API key.",
+  "source_repo": "tresor4k/macalc-mcp",
+  "source_url": "https://github.com/tresor4k/macalc-mcp",
+  "install": "npx -y macalc-mcp"
+}

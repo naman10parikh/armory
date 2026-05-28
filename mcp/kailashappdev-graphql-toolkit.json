@@ -1,0 +1,7 @@
+{
+  "name": "kailashappdev-graphql-toolkit",
+  "description": "Enables LLMs to interact with GraphQL APIs through schema introspection and query execution, with security measures like disabled mutations and support for authentication headers.",
+  "source_repo": "kailashappdev/graphql-mcp-toolkit",
+  "source_url": "https://github.com/kailashappdev/graphql-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/kailashappdev/graphql-mcp-toolkit\n# See source for mcpServers config block"
+}

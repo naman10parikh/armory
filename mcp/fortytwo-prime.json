@@ -1,0 +1,7 @@
+{
+  "name": "fortytwo-prime",
+  "description": "Collective AI inference via swarm of frontier models with x402 micropayments.",
+  "source_repo": "fortytwo-network/fortytwo-mcp-skills",
+  "source_url": "https://github.com/fortytwo-network/fortytwo-mcp-skills",
+  "install": "# git clone --depth 1 https://github.com/fortytwo-network/fortytwo-mcp-skills\n# See source for mcpServers config block"
+}

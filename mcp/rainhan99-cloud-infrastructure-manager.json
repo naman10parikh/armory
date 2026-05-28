@@ -1,0 +1,7 @@
+{
+  "name": "rainhan99-cloud-infrastructure-manager",
+  "description": "Provides unified cloud infrastructure management across AWS, DigitalOcean, Vultr, and Alibaba Cloud for creating virtual machines, configuring security groups, and handling DNS records through provider-specific modules that abstract underlying APIs.",
+  "source_repo": "rainhan99/cloud_manage_mcp_server",
+  "source_url": "https://github.com/rainhan99/cloud_manage_mcp_server",
+  "install": "npx -y cloud_manage_mcp_server"
+}

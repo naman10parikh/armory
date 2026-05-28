@@ -1,0 +1,7 @@
+{
+  "name": "gregario-brewers-almanack",
+  "description": "Brewing knowledge reference covering beer styles, ingredients, off-flavour diagnosis, water chemistry, and recipe guidance.",
+  "source_repo": "gregario/brewers-almanack",
+  "source_url": "https://github.com/gregario/brewers-almanack",
+  "install": "# git clone --depth 1 https://github.com/gregario/brewers-almanack\n# See source for mcpServers config block"
+}

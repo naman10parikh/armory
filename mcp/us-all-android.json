@@ -1,0 +1,7 @@
+{
+  "name": "us-all-android",
+  "description": "Community MCP integration for Android via ADB, enabling AI agents to control devices, inspect apps, stream logcat, and debug.",
+  "source_repo": "us-all/android-mcp-server",
+  "source_url": "https://github.com/us-all/android-mcp-server",
+  "install": "npx -y android-mcp-server"
+}

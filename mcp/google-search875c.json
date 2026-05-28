@@ -1,0 +1,7 @@
+{
+  "name": "google-search875c",
+  "description": "Bypasses Google search anti-bot mechanisms with advanced browser fingerprinting and automatic CAPTCHA handling to provide real-time, multi-language search capabilities for external tools.",
+  "source_repo": "modelcontextprotocol-servers/google-search-mcp",
+  "source_url": "https://github.com/modelcontextprotocol-servers/google-search-mcp",
+  "install": "npx -y google-search-mcp"
+}

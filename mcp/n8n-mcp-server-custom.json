@@ -1,0 +1,7 @@
+{
+  "name": "n8n-mcp-server-custom",
+  "description": "Custom MCP server for n8n automation, providing 27 tools to manage workflows, executions, credentials, variables, and more via the n8n REST API. Designed to fix compatibility issues with Antigravity AI assistant.",
+  "source_repo": "burnham/n8n-mcp-server-custom",
+  "source_url": "https://github.com/burnham/n8n-mcp-server-custom",
+  "install": "# git clone --depth 1 https://github.com/burnham/n8n-mcp-server-custom\n# See source for mcpServers config block"
+}

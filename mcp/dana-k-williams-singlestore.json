@@ -1,0 +1,7 @@
+{
+  "name": "dana-k-williams-singlestore",
+  "description": "Integrates with SingleStore databases to enable efficient querying and data operations for large-scale, real-time analytics applications.",
+  "source_repo": "madhukarkumar/singlestore-mcp-server",
+  "source_url": "https://github.com/madhukarkumar/singlestore-mcp-server",
+  "install": "npx -y singlestore-mcp-server"
+}

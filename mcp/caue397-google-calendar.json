@@ -1,0 +1,7 @@
+{
+  "name": "caue397-google-calendar",
+  "description": "Provides a robust bridge to the Google Calendar API, enabling calendar management tasks like listing calendars, creating/updating/deleting events, and handling Brazilian date formats through comprehensive OAuth2 authentication and flexible event manipulation.",
+  "source_repo": "caue397/google-calendar-mcp",
+  "source_url": "https://github.com/caue397/google-calendar-mcp",
+  "install": "npx -y google-calendar-mcp"
+}

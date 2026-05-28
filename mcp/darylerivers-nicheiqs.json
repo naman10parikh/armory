@@ -1,0 +1,7 @@
+{
+  "name": "darylerivers-nicheiqs",
+  "description": "Scores market niches using Reddit discussions, Google Trends data, and competition analysis to identify business opportunities.",
+  "source_repo": "darylerivers/nicheiqs-mcp",
+  "source_url": "https://github.com/darylerivers/nicheiqs-mcp",
+  "install": "npx -y nicheiqs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grok-vision-ocr",
+  "description": "Integrates xAI's Grok vision model with Tesseract OCR to provide image analysis and text extraction from URLs or local files, processing multiple formats temporarily in memory for content analysis and document digitization workflows.",
+  "source_repo": "7etsuo/image-description-mcp_server",
+  "source_url": "https://github.com/7etsuo/image-description-mcp_server",
+  "install": "npx -y image-description-mcp_server"
+}

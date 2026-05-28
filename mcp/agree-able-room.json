@@ -1,0 +1,7 @@
+{
+  "name": "agree-able-room",
+  "description": "Enables creation and interaction with virtual rooms in a peer-to-peer space, facilitating multi-agent collaboration and communication in decentralized environments.",
+  "source_repo": "agree-able/room-mcp",
+  "source_url": "https://github.com/agree-able/room-mcp",
+  "install": "npx -y room-mcp"
+}

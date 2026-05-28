@@ -1,0 +1,7 @@
+{
+  "name": "eyalzh-browser-control",
+  "description": "Enables browser automation through a Firefox extension for tab management, webpage content extraction, history searching, and text highlighting via secure WebSocket communication.",
+  "source_repo": "eyalzh/browser-control-mcp",
+  "source_url": "https://github.com/eyalzh/browser-control-mcp",
+  "install": "npx -y browser-control-mcp"
+}

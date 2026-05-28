@@ -1,0 +1,7 @@
+{
+  "name": "tencent-cloud-log-service",
+  "description": "Search logs, query metrics with PromQL, and manage alarms in Tencent Cloud Log Service.",
+  "source_repo": "tencent/cls-mcp-server",
+  "source_url": "https://github.com/tencent/cls-mcp-server",
+  "install": "npx -y cls-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yesc97-biopharma-catalyst",
+  "description": "Forensic biopharma research tool that audits biotech companies by cross-referencing ClinicalTrials, SEC EDGAR, and FDA data.",
+  "source_repo": "yesc97/biopharma-catalyst-mcp",
+  "source_url": "https://github.com/yesc97/biopharma-catalyst-mcp",
+  "install": "npx -y biopharma-catalyst-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-dispute",
+  "description": "Surfaces dispute history and arbitration signals from Kleros, UMA, and Reality.eth before agents commit to counterparty payments.",
+  "source_repo": "srotzin/hive-mcp-dispute",
+  "source_url": "https://github.com/srotzin/hive-mcp-dispute",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-dispute\n# See source for mcpServers config block"
+}

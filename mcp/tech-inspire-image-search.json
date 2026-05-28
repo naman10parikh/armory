@@ -1,0 +1,7 @@
+{
+  "name": "tech-inspire-image-search",
+  "description": "Integrates with the Inspire backend API to find similar images based on text descriptions, returning optimized JPEG images with pagination support for visual content discovery and retrieval.",
+  "source_repo": "tech-inspire/mcp-server",
+  "source_url": "https://github.com/tech-inspire/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/tech-inspire/mcp-server\n# See source for mcpServers config block"
+}

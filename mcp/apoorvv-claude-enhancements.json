@@ -1,0 +1,7 @@
+{
+  "name": "apoorvv-claude-enhancements",
+  "description": "Extends Claude's capabilities with modular utility servers for greeting users, counting files, saving conversations, and managing context through a lightweight, configurable JSON interface.",
+  "source_repo": "apoorvv/mcp-claude-enhancements",
+  "source_url": "https://github.com/apoorvv/mcp-claude-enhancements",
+  "install": "# git clone --depth 1 https://github.com/apoorvv/mcp-claude-enhancements\n# See source for mcpServers config block"
+}

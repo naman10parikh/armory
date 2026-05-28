@@ -1,0 +1,7 @@
+{
+  "name": "joergmichno-clawguard-mcp",
+  "description": "Security scanner for AI agents that detects prompt injections using 42+ regex patterns",
+  "source_repo": "joergmichno/clawguard-mcp",
+  "source_url": "https://github.com/joergmichno/clawguard-mcp",
+  "install": "npx -y clawguard-mcp"
+}

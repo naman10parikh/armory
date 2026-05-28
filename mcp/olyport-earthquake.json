@@ -1,0 +1,7 @@
+{
+  "name": "olyport-earthquake",
+  "description": "Real-time earthquake events and seismic data from the U.S. Geological Survey.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/earthquake/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/earthquake/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "timoconnellaus-iterm-worktree",
+  "description": "Automates git worktree management with iTerm2 integration, creating isolated feature branches in dedicated terminal sessions and safely cleaning up completed work with validation checks.",
+  "source_repo": "timoconnellaus/claude-code-iterm-worktree-mcp",
+  "source_url": "https://github.com/timoconnellaus/claude-code-iterm-worktree-mcp",
+  "install": "npx -y claude-code-iterm-worktree-mcp"
+}

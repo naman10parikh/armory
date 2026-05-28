@@ -1,0 +1,7 @@
+{
+  "name": "rbatis-rbdc-database",
+  "description": "Provides SQL database access through the RBDC framework, supporting SQLite, MySQL, PostgreSQL, and MSSQL with connection pooling for executing queries, data modifications, and monitoring database connections.",
+  "source_repo": "rbatis/rbdc-mcp",
+  "source_url": "https://github.com/rbatis/rbdc-mcp",
+  "install": "npx -y rbdc-mcp"
+}

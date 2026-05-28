@@ -1,0 +1,7 @@
+{
+  "name": "elyxlz-microsoft-365",
+  "description": "Integrates with Microsoft 365 services including Outlook, Calendar, OneDrive, and Contacts to enable email management, calendar operations, file handling, and contact management with multi-account authentication and advanced search capabilities.",
+  "source_repo": "elyxlz/microsoft-mcp",
+  "source_url": "https://github.com/elyxlz/microsoft-mcp",
+  "install": "npx -y microsoft-mcp"
+}

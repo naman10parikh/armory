@@ -1,0 +1,7 @@
+{
+  "name": "modellix-docs",
+  "description": "Search the Modellix knowledge base to quickly find relevant technical information, code examples, and API references. Retrieve implementation details and official guides to solve development queries efficiently. Access direct links to documentation for deeper context on specific features and tools.",
+  "source_repo": "",
+  "source_url": "https://modellix.ai",
+  "install": "# git clone --depth 1 https://modellix.ai\n# See source for mcpServers config block"
+}

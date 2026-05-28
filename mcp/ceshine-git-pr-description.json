@@ -1,0 +1,7 @@
+{
+  "name": "ceshine-git-pr-description",
+  "description": "Analyzes Git repository changes to automatically generate contextually relevant pull request descriptions based on commit differences.",
+  "source_repo": "ceshine/git-prompts-mcp-server",
+  "source_url": "https://github.com/ceshine/git-prompts-mcp-server",
+  "install": "npx -y git-prompts-mcp-server"
+}

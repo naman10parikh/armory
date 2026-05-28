@@ -1,0 +1,7 @@
+{
+  "name": "scrapebadger",
+  "description": "Access Twitter/X data including profiles, tweets, trends, and communities via the ScrapeBadger API.",
+  "source_repo": "scrape-badger/scrapebadger-mcp",
+  "source_url": "https://github.com/scrape-badger/scrapebadger-mcp",
+  "install": "npx -y scrapebadger-mcp"
+}

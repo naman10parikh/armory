@@ -1,0 +1,7 @@
+{
+  "name": "rioriost-age-graph",
+  "description": "Bridges Claude with PostgreSQL databases using Apache AGE graph extension, enabling natural language execution of Cypher queries for graph operations, relationship analysis, and data visualization without complex SQL.",
+  "source_repo": "rioriost/age_mcp_server",
+  "source_url": "https://github.com/rioriost/age_mcp_server",
+  "install": "npx -y age_mcp_server"
+}

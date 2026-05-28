@@ -1,0 +1,7 @@
+{
+  "name": "igorpdev-databr",
+  "description": "Brazilian open data from IBGE, BCB, and INEP for demographics, economics, and education statistics.",
+  "source_repo": "igorpdev/databr",
+  "source_url": "https://github.com/igorpdev/databr",
+  "install": "# git clone --depth 1 https://github.com/igorpdev/databr\n# See source for mcpServers config block"
+}

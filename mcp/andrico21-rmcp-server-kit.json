@@ -1,0 +1,7 @@
+{
+  "name": "andrico21-rmcp-server-kit",
+  "description": "Production-grade Rust framework for building authenticated, observable MCP servers over Streamable HTTP.",
+  "source_repo": "andrico21/rmcp-server-kit",
+  "source_url": "https://github.com/andrico21/rmcp-server-kit",
+  "install": "# git clone --depth 1 https://github.com/andrico21/rmcp-server-kit\n# See source for mcpServers config block"
+}

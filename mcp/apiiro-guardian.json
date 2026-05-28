@@ -1,0 +1,7 @@
+{
+  "name": "apiiro-guardian",
+  "description": "Application security posture management tools for AI coding assistants.",
+  "source_repo": "apiiro/mcp-server",
+  "source_url": "https://github.com/apiiro/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/apiiro/mcp-server\n# See source for mcpServers config block"
+}

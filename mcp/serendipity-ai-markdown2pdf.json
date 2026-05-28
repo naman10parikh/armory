@@ -1,0 +1,7 @@
+{
+  "name": "serendipity-ai-markdown2pdf",
+  "description": "Converts Markdown documents to PDF format using Lightning Network micropayments, handling payment flows with QR codes and returning downloadable PDF URLs for pay-per-use document conversion.",
+  "source_repo": "serendipity-ai/markdown2pdf-mcp",
+  "source_url": "https://github.com/serendipity-ai/markdown2pdf-mcp",
+  "install": "npx -y markdown2pdf-mcp"
+}

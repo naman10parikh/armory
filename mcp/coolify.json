@@ -1,0 +1,7 @@
+{
+  "name": "coolify",
+  "description": "Integrates with Coolify's self-hosted PaaS platform through its REST API, enabling management of applications, databases, services, servers, and deployments via natural language commands with over 40 tools for operations like creating Git-based applications, setting up databases, managing environment variables, and monitoring deployment logs.",
+  "source_repo": "pavelsukhachev/mcp-server-coolify",
+  "source_url": "https://github.com/pavelsukhachev/mcp-server-coolify",
+  "install": "# git clone --depth 1 https://github.com/pavelsukhachev/mcp-server-coolify\n# See source for mcpServers config block"
+}

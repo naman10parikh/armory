@@ -1,0 +1,7 @@
+{
+  "name": "rajnaveen344-lsp-tools",
+  "description": "Provides regex-based text analysis capabilities for developers to precisely locate character and line positions of pattern matches within files, with robust security checks to prevent unauthorized file access.",
+  "source_repo": "rajnaveen344/lsp-tools-mcp",
+  "source_url": "https://github.com/rajnaveen344/lsp-tools-mcp",
+  "install": "npx -y lsp-tools-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hackerzhuli-unity-code",
+  "description": "Provides Unity Editor integration with compilation-resilient architecture that survives Unity's domain reload cycles, enabling asset database refresh with error reporting and execution of EditMode and PlayMode tests with comprehensive results.",
+  "source_repo": "hackerzhuli/unity_code_mcp",
+  "source_url": "https://github.com/hackerzhuli/unity_code_mcp",
+  "install": "npx -y unity_code_mcp"
+}

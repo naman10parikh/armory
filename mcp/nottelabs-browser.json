@@ -1,0 +1,7 @@
+{
+  "name": "nottelabs-browser",
+  "description": "Provides a bridge between AI and Notte's cloud browser technology, enabling web automation, scraping, and autonomous task completion on websites without direct browser management.",
+  "source_repo": "nottelabs/notte",
+  "source_url": "https://github.com/nottelabs/notte/tree/HEAD/packages/notte-mcp",
+  "install": "# git clone --depth 1 https://github.com/nottelabs/notte/tree/HEAD/packages/notte-mcp\n# See source for mcpServers config block"
+}

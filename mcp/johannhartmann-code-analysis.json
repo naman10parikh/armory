@@ -1,0 +1,7 @@
+{
+  "name": "johannhartmann-code-analysis",
+  "description": "Provides intelligent code analysis and semantic search for large codebases using TreeSitter parsing, PostgreSQL with pgvector embeddings, and Git-based indexing to enable natural language code search, architectural analysis, dependency mapping, and refactoring suggestions across repositories with up to 10M lines of code.",
+  "source_repo": "johannhartmann/mcpcodeanalysis",
+  "source_url": "https://github.com/johannhartmann/mcpcodeanalysis",
+  "install": "# git clone --depth 1 https://github.com/johannhartmann/mcpcodeanalysis\n# See source for mcpServers config block"
+}

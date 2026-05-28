@@ -1,0 +1,7 @@
+{
+  "name": "anuj0456-arxiv",
+  "description": "Integrates with arXiv's academic paper repository to enable searching, analyzing, and managing research papers with features like author searches, trend analysis, citation estimation, and multi-format export capabilities.",
+  "source_repo": "anuj0456/arxiv-mcp-server",
+  "source_url": "https://github.com/anuj0456/arxiv-mcp-server",
+  "install": "npx -y arxiv-mcp-server"
+}

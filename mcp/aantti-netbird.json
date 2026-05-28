@@ -1,0 +1,7 @@
+{
+  "name": "aantti-netbird",
+  "description": "Integrates with Netbird's API to enable virtual private network management including peer listing, group configuration, and access policy control",
+  "source_repo": "aantti/mcp-netbird",
+  "source_url": "https://github.com/aantti/mcp-netbird",
+  "install": "# git clone --depth 1 https://github.com/aantti/mcp-netbird\n# See source for mcpServers config block"
+}

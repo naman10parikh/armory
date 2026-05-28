@@ -1,0 +1,7 @@
+{
+  "name": "utcp-bridge",
+  "description": "UTCP-MCP Bridge is a universal, all-in-one MCP server that brings the full power of the Universal Tool Calling Protocol (UTCP) to the MCP ecosystem.",
+  "source_repo": "universal-tool-calling-protocol/utcp-mcp",
+  "source_url": "https://github.com/universal-tool-calling-protocol/utcp-mcp",
+  "install": "npx -y utcp-mcp"
+}

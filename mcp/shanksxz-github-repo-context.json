@@ -1,0 +1,7 @@
+{
+  "name": "shanksxz-github-repo-context",
+  "description": "Provides a GitHub repository context retrieval tool that enables AI models to access repository structures, file contents, and filtered file lists through GitHub token authentication.",
+  "source_repo": "shanksxz/gh-mcp-server",
+  "source_url": "https://github.com/shanksxz/gh-mcp-server",
+  "install": "npx -y gh-mcp-server"
+}

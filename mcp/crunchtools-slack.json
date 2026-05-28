@@ -1,0 +1,7 @@
+{
+  "name": "crunchtools-slack",
+  "description": "Read-only Slack workspace integration for channels, messages, users, and files.",
+  "source_repo": "crunchtools/mcp-slack",
+  "source_url": "https://github.com/crunchtools/mcp-slack",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-slack\n# See source for mcpServers config block"
+}

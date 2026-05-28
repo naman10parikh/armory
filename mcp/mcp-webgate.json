@@ -1,0 +1,7 @@
+{
+  "name": "mcp-webgate",
+  "description": "Provides clean, bounded web content to AI by filtering HTML noise and optionally summarizing, preventing context window overflow.",
+  "source_repo": "x-hannibal/mcp-webgate",
+  "source_url": "https://github.com/x-hannibal/mcp-webgate",
+  "install": "# git clone --depth 1 https://github.com/x-hannibal/mcp-webgate\n# See source for mcpServers config block"
+}

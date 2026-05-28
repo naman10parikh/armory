@@ -1,0 +1,7 @@
+{
+  "name": "yxgzcc-xiaomi-mijia",
+  "description": "Controls Xiaomi smart home devices through cloud API with discovery, monitoring, and automation.",
+  "source_repo": "yxgzcc/mijiaapi-mcp",
+  "source_url": "https://github.com/yxgzcc/mijiaapi-mcp",
+  "install": "npx -y mijiaapi-mcp"
+}

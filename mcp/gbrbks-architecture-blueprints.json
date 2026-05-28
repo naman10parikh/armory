@@ -1,0 +1,7 @@
+{
+  "name": "gbrbks-architecture-blueprints",
+  "description": "Exposes software architecture blueprints and patterns as persistent context for AI-assisted development, with tools to validate code compliance with layered architecture principles.",
+  "source_repo": "bitraptors/archie",
+  "source_url": "https://github.com/bitraptors/archie",
+  "install": "# git clone --depth 1 https://github.com/bitraptors/archie\n# See source for mcpServers config block"
+}

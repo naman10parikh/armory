@@ -1,0 +1,7 @@
+{
+  "name": "merabylabs-promptarchitect-mcp",
+  "description": "Workspace-aware prompt engineering. Refines, analyzes and generates prompts based on your project's tech stack, dependencies and context. Free to use.",
+  "source_repo": "MerabyLabs/promptarchitect-mcp",
+  "source_url": "https://github.com/MerabyLabs/promptarchitect-mcp",
+  "install": "npx -y promptarchitect-mcp"
+}

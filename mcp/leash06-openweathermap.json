@@ -1,0 +1,7 @@
+{
+  "name": "leash06-openweathermap",
+  "description": "Provides real-time weather data and 5-day forecasts to AI agents via the OpenWeatherMap API.",
+  "source_repo": "leash06/weather-mcp-server",
+  "source_url": "https://github.com/leash06/weather-mcp-server",
+  "install": "npx -y weather-mcp-server"
+}

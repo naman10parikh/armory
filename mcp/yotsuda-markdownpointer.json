@@ -1,0 +1,7 @@
+{
+  "name": "yotsuda-markdownpointer",
+  "description": "Markdown viewer for AI-assisted document review with element-level path and line number copying.",
+  "source_repo": "yotsuda/markdownpointer",
+  "source_url": "https://github.com/yotsuda/markdownpointer",
+  "install": "# git clone --depth 1 https://github.com/yotsuda/markdownpointer\n# See source for mcpServers config block"
+}

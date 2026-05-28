@@ -1,0 +1,7 @@
+{
+  "name": "gh-comol-1c-designer-tools",
+  "description": "Executes code, queries, and diagnostics in 1C:Enterprise ERP systems.",
+  "source_repo": "comol/mcp_designer_tools",
+  "source_url": "https://github.com/comol/mcp_designer_tools",
+  "install": "# git clone --depth 1 https://github.com/comol/mcp_designer_tools\n# See source for mcpServers config block"
+}

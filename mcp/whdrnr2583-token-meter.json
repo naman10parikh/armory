@@ -1,0 +1,7 @@
+{
+  "name": "whdrnr2583-token-meter",
+  "description": "Local-first token usage dashboard and MCP for Claude Code and Codex with per-tool breakdown and cost tracking.",
+  "source_repo": "whdrnr2583-cmd/token-meter",
+  "source_url": "https://github.com/whdrnr2583-cmd/token-meter",
+  "install": "# git clone --depth 1 https://github.com/whdrnr2583-cmd/token-meter\n# See source for mcpServers config block"
+}

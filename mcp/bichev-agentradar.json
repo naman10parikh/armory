@@ -1,0 +1,7 @@
+{
+  "name": "bichev-agentradar",
+  "description": "Trust scoring and scam detection for AI agents on Base blockchain.",
+  "source_repo": "bichev/agentradar-mcp",
+  "source_url": "https://github.com/bichev/agentradar-mcp",
+  "install": "npx -y agentradar-mcp"
+}

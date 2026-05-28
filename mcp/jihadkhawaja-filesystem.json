@@ -1,0 +1,7 @@
+{
+  "name": "jihadkhawaja-filesystem",
+  "description": "Provides secure file system operations including reading, writing, copying, moving, and deleting files plus directory management and advanced search capabilities with regex pattern matching and content searching across files.",
+  "source_repo": "jihadkhawaja/mcp.filesystem",
+  "source_url": "https://github.com/jihadkhawaja/mcp.filesystem",
+  "install": "# git clone --depth 1 https://github.com/jihadkhawaja/mcp.filesystem\n# See source for mcpServers config block"
+}

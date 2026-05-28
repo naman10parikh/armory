@@ -1,0 +1,7 @@
+{
+  "name": "ai-diagram-maker",
+  "description": "Generate professional software engineering diagrams from text, JSON, ASCII, images, or Mermaid.",
+  "source_repo": "erajasekar/ai-diagram-maker-mcp",
+  "source_url": "https://github.com/erajasekar/ai-diagram-maker-mcp",
+  "install": "npx -y ai-diagram-maker-mcp"
+}

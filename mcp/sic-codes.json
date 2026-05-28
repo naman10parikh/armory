@@ -1,0 +1,7 @@
+{
+  "name": "sic-codes",
+  "description": "Free UK SIC code lookup, GICS/ICB cross-classification mapping, and Companies House company search. No API key required. lookup_sic_code - Look up any SIC, GICS, or ICB code with full hierarchy and cross-mappings search_sic_codes - Describe a business activity in plain English to find the right SIC",
+  "source_repo": "",
+  "source_url": "https://siccodes.co.uk",
+  "install": "# git clone --depth 1 https://siccodes.co.uk\n# See source for mcpServers config block"
+}

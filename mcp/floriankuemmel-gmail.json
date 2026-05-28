@@ -1,0 +1,7 @@
+{
+  "name": "floriankuemmel-gmail",
+  "description": "Read, compose, organize, and export Gmail with 24 tools via secure local OAuth2.",
+  "source_repo": "floriankuemmel/gmail-mcp",
+  "source_url": "https://github.com/floriankuemmel/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

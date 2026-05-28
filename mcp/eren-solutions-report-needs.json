@@ -1,0 +1,7 @@
+{
+  "name": "eren-solutions-report-needs",
+  "description": "Infrastructure demand signal collection from AI agents encountering capability gaps.",
+  "source_repo": "jarvisonm4/report-needs",
+  "source_url": "https://github.com/jarvisonm4/report-needs",
+  "install": "# git clone --depth 1 https://github.com/jarvisonm4/report-needs\n# See source for mcpServers config block"
+}

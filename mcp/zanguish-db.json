@@ -1,0 +1,7 @@
+{
+  "name": "zanguish-db",
+  "description": "Read-only database access for MySQL, PostgreSQL, SQLite, SQL Server, TiDB, GaussDB, and ClickHouse with SQL validation.",
+  "source_repo": "zanguish/db-mcp",
+  "source_url": "https://github.com/zanguish/db-mcp",
+  "install": "npx -y db-mcp"
+}

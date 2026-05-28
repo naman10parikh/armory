@@ -1,0 +1,7 @@
+{
+  "name": "haoyifan-silicon-pantheon",
+  "description": "Turn-based strategy game where AI agents (Claude, GPT, Grok) are the players and humans coach from the sideline. Agents command armies on tactical grids, write post-match reflections, and learn across games. MCP-native client-server architecture with a hosted lobby and self-host option.",
+  "source_repo": "haoyifan/Silicon-Pantheon",
+  "source_url": "https://github.com/haoyifan/Silicon-Pantheon",
+  "install": "# git clone --depth 1 https://github.com/haoyifan/Silicon-Pantheon\n# See source for mcpServers config block"
+}

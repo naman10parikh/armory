@@ -1,0 +1,7 @@
+{
+  "name": "contexta-mcp",
+  "description": "Persistent memory and knowledge graph for AI assistants with keyword, vector, and graph search.",
+  "source_repo": "teleengco/contexta-mcp",
+  "source_url": "https://github.com/teleengco/contexta-mcp",
+  "install": "npx -y contexta-mcp"
+}

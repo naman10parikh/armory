@@ -1,0 +1,7 @@
+{
+  "name": "rededis-dataverse",
+  "description": "Access to Microsoft Dataverse for querying records, schema management, and CRUD operations.",
+  "source_repo": "rededis/dataverse-mcp-server",
+  "source_url": "https://github.com/rededis/dataverse-mcp-server",
+  "install": "npx -y dataverse-mcp-server"
+}

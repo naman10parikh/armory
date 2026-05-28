@@ -1,0 +1,7 @@
+{
+  "name": "rawtherapee-mcp-server",
+  "description": "Enables AI-assisted RAW photo development via RawTherapee CLI, with a visual feedback loop that allows the LLM to see and iteratively edit images.",
+  "source_repo": "lucamarien/rawtherapee-mcp-server",
+  "source_url": "https://github.com/lucamarien/rawtherapee-mcp-server",
+  "install": "npx -y rawtherapee-mcp-server"
+}

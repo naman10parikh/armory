@@ -1,0 +1,7 @@
+{
+  "name": "stockfilm",
+  "description": "Search and license 217,000+ authentic vintage 8mm home movie clips from the 1930s-1980s. All footage is real archival film restored in 4K.",
+  "source_repo": "",
+  "source_url": "https://stockfilm.com/for-ai-agents",
+  "install": "# git clone --depth 1 https://stockfilm.com/for-ai-agents\n# See source for mcpServers config block"
+}

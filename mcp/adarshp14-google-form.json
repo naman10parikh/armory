@@ -1,0 +1,7 @@
+{
+  "name": "adarshp14-google-form",
+  "description": "Enables creation and management of Google Forms through natural language requests, converting conversational inputs into structured form elements for surveys, feedback forms, and event registrations",
+  "source_repo": "adarshp14/google-form-mcp-server",
+  "source_url": "https://github.com/adarshp14/google-form-mcp-server",
+  "install": "npx -y google-form-mcp-server"
+}

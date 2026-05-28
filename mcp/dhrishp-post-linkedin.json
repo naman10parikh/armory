@@ -1,0 +1,7 @@
+{
+  "name": "dhrishp-post-linkedin",
+  "description": "Integrates with LinkedIn's API to enable direct publishing of text content, media attachments, and link sharing with customizable visibility settings for social media management and professional networking.",
+  "source_repo": "dhrishp/mcp-post-linkedin",
+  "source_url": "https://github.com/dhrishp/mcp-post-linkedin",
+  "install": "# git clone --depth 1 https://github.com/dhrishp/mcp-post-linkedin\n# See source for mcpServers config block"
+}

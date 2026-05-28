@@ -1,0 +1,7 @@
+{
+  "name": "dify-mcp-server",
+  "description": "Dify Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "YanxingLiu/dify-mcp-server",
+  "source_url": "https://mcp.so/server/dify-mcp-server/YanxingLiu",
+  "install": "npx -y dify-mcp-server"
+}

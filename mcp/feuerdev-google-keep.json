@@ -1,0 +1,7 @@
+{
+  "name": "feuerdev-google-keep",
+  "description": "Provides a bridge to Google Keep for searching, creating, updating, and deleting notes with safety features that restrict modifications to specifically labeled content.",
+  "source_repo": "feuerdev/keep-mcp",
+  "source_url": "https://github.com/feuerdev/keep-mcp",
+  "install": "npx -y keep-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "maitreyam-gmail",
+  "description": "Enables sending emails through Gmail's SMTP service with support for attachments from local files, pre-staged files, or URLs downloaded during conversation.",
+  "source_repo": "maitreyam/gmail-mcp-server",
+  "source_url": "https://github.com/maitreyam/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

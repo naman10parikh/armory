@@ -1,0 +1,7 @@
+{
+  "name": "pilat-datalink",
+  "description": "Provides secure database access for PostgreSQL, MySQL, and SQLite with built-in safety features.",
+  "source_repo": "pilat/mcp-datalink",
+  "source_url": "https://github.com/pilat/mcp-datalink",
+  "install": "# git clone --depth 1 https://github.com/pilat/mcp-datalink\n# See source for mcpServers config block"
+}

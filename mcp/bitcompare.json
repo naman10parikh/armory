@@ -1,0 +1,7 @@
+{
+  "name": "bitcompare",
+  "description": "Access cryptocurrency rates, prices, market stats, and stablecoin data via the Bitcompare platform.",
+  "source_repo": "bitcompare/services",
+  "source_url": "https://github.com/bitcompare/services",
+  "install": "# git clone --depth 1 https://github.com/bitcompare/services\n# See source for mcpServers config block"
+}

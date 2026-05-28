@@ -1,0 +1,7 @@
+{
+  "name": "carrie-l-blog-publisher",
+  "description": "Enables AI assistants to publish blog content to external platforms through a Python-based server with standard and local execution modes for automated content publishing workflows.",
+  "source_repo": "carrie-l/blog_publisher_mcp_server",
+  "source_url": "https://github.com/carrie-l/blog_publisher_mcp_server",
+  "install": "npx -y blog_publisher_mcp_server"
+}

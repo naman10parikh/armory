@@ -1,0 +1,7 @@
+{
+  "name": "socfortress-copilot",
+  "description": "Access to SOCFortress CoPilot security operations API for investigations, reports, and IOC management.",
+  "source_repo": "socfortress/copilot-mcp-server",
+  "source_url": "https://github.com/socfortress/copilot-mcp-server",
+  "install": "npx -y copilot-mcp-server"
+}

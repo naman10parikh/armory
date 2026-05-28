@@ -1,0 +1,7 @@
+{
+  "name": "sherman94062-sqlmesh",
+  "description": "Interact with SQLMesh data transformation pipelines for model management and plan application.",
+  "source_repo": "sherman94062/sqlmesh-mcp",
+  "source_url": "https://github.com/sherman94062/sqlmesh-mcp",
+  "install": "npx -y sqlmesh-mcp"
+}

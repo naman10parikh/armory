@@ -1,0 +1,7 @@
+{
+  "name": "view-control-mcp-server",
+  "description": "View Control Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "nakashima-takeo/view-control-mcp-server",
+  "source_url": "https://mcp.so/server/view-control-mcp-server/nakashima-takeo",
+  "install": "npx -y view-control-mcp-server"
+}

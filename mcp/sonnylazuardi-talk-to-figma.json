@@ -1,0 +1,7 @@
+{
+  "name": "sonnylazuardi-talk-to-figma",
+  "description": "Enables bidirectional communication with Figma designs through a plugin and WebSocket server, allowing creation and manipulation of design elements directly from conversations.",
+  "source_repo": "grab/cursor-talk-to-figma-mcp",
+  "source_url": "https://github.com/grab/cursor-talk-to-figma-mcp",
+  "install": "npx -y cursor-talk-to-figma-mcp"
+}

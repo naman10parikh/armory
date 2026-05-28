@@ -1,0 +1,7 @@
+{
+  "name": "cdeust-cortex",
+  "description": "Persistent memory for Claude Code grounded in computational neuroscience (41 cited papers). Thermodynamic decay, hippocampal-cortical consolidation, predictive-coding write gate, WRRF retrieval. PostgreSQL + pgvector, 33 MCP tools, 7 lifecycle hooks. Benchmarked 97.8% R@10 on LongMemEval. `claude plugin marketplace add cdeust/Cortex`",
+  "source_repo": "cdeust/Cortex",
+  "source_url": "https://github.com/cdeust/Cortex",
+  "install": "# git clone --depth 1 https://github.com/cdeust/Cortex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blake365-macrostrat",
+  "description": "Integrates the Macrostrat API to enable geological data querying and analysis for earth sciences, resource exploration, and environmental studies.",
+  "source_repo": "blake365/macrostrat-mcp",
+  "source_url": "https://github.com/blake365/macrostrat-mcp",
+  "install": "npx -y macrostrat-mcp"
+}

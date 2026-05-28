@@ -1,0 +1,7 @@
+{
+  "name": "kagisearch-kagi",
+  "description": "Integrates Kagi's advanced search capabilities into workflows, enabling high-quality, privacy-focused web information retrieval for informed decision-making and analysis.",
+  "source_repo": "kagisearch/kagimcp",
+  "source_url": "https://github.com/kagisearch/kagimcp",
+  "install": "# git clone --depth 1 https://github.com/kagisearch/kagimcp\n# See source for mcpServers config block"
+}

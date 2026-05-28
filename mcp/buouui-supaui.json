@@ -1,0 +1,7 @@
+{
+  "name": "buouui-supaui",
+  "description": "Enables React UI component generation, fetching, and management through natural language interactions on the buouui.com platform, leveraging TypeScript and developer-focused design workflows.",
+  "source_repo": "buoooou/mcp-ui-gen",
+  "source_url": "https://github.com/buoooou/mcp-ui-gen",
+  "install": "# git clone --depth 1 https://github.com/buoooou/mcp-ui-gen\n# See source for mcpServers config block"
+}

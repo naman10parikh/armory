@@ -1,0 +1,7 @@
+{
+  "name": "ilyagusev-academia",
+  "description": "Integrates with ArXiv, ACL Anthology, Semantic Scholar, and Hugging Face datasets to enable scientific literature discovery, citation analysis, LaTeX compilation, and automated research workflows including paper reviews and proposal generation.",
+  "source_repo": "ilyagusev/academia_mcp",
+  "source_url": "https://github.com/ilyagusev/academia_mcp",
+  "install": "npx -y academia_mcp"
+}

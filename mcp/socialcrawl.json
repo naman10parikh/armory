@@ -1,0 +1,7 @@
+{
+  "name": "socialcrawl",
+  "description": "MCP server for the SocialCrawl API providing unified access to social media data across 21 platforms and 108 endpoints.",
+  "source_repo": "socialcrawl/mcp",
+  "source_url": "https://github.com/socialcrawl/mcp",
+  "install": "# git clone --depth 1 https://github.com/socialcrawl/mcp\n# See source for mcpServers config block"
+}

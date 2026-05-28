@@ -1,0 +1,7 @@
+{
+  "name": "figma-mcp-server-3",
+  "description": "Figma Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "karthiks3000/figma-mcp-server",
+  "source_url": "https://mcp.so/server/figma-mcp-server/karthiks3000",
+  "install": "npx -y figma-mcp-server"
+}

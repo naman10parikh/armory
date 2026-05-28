@@ -1,0 +1,7 @@
+{
+  "name": "asadullokhn-teztun",
+  "description": "Manage TezTun tunnels, subdomains, and service tokens from any MCP-compatible AI client.",
+  "source_repo": "asadullokhn/teztun-mcp",
+  "source_url": "https://github.com/asadullokhn/teztun-mcp",
+  "install": "npx -y teztun-mcp"
+}

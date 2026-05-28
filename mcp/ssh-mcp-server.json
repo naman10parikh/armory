@@ -1,0 +1,7 @@
+{
+  "name": "ssh-mcp-server",
+  "description": "Enables remote Linux server management via SSH, allowing command execution and system administration through natural language.",
+  "source_repo": "InfraMCP/ssh-mcp-server",
+  "source_url": "https://github.com/InfraMCP/ssh-mcp-server",
+  "install": "npx -y ssh-mcp-server"
+}

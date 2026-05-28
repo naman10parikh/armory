@@ -1,0 +1,7 @@
+{
+  "name": "alioshr-memory-bank",
+  "description": "Transforms file-based memory banks into a centralized, remotely accessible service for multi-project management with consistent structure and validation.",
+  "source_repo": "alioshr/memory-bank-mcp",
+  "source_url": "https://github.com/alioshr/memory-bank-mcp",
+  "install": "npx -y memory-bank-mcp"
+}

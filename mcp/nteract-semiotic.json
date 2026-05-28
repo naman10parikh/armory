@@ -1,0 +1,7 @@
+{
+  "name": "nteract-semiotic",
+  "description": "React data visualization MCP server with 30+ chart types. 5 tools: suggest charts for a dataset, render validated React configs to SVG, diagnose configuration anti-patterns, get component schemas, and report issues.",
+  "source_repo": "nteract/semiotic",
+  "source_url": "https://github.com/nteract/semiotic",
+  "install": "# git clone --depth 1 https://github.com/nteract/semiotic\n# See source for mcpServers config block"
+}

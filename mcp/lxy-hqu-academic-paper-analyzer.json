@@ -1,0 +1,7 @@
+{
+  "name": "lxy-hqu-academic-paper-analyzer",
+  "description": "Analyzes academic papers with PDF text extraction, mathematical notation explanation, document structure analysis, content summarization, code generation from algorithms, and data visualization for efficient research and experimental reproduction.",
+  "source_repo": "lxy-hqu/-mcp-for-paper-read-based-on-ai-ide",
+  "source_url": "https://github.com/lxy-hqu/-mcp-for-paper-read-based-on-ai-ide",
+  "install": "# git clone --depth 1 https://github.com/lxy-hqu/-mcp-for-paper-read-based-on-ai-ide\n# See source for mcpServers config block"
+}

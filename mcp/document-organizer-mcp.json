@@ -1,0 +1,7 @@
+{
+  "name": "document-organizer-mcp",
+  "description": "Enables agents to manage and organize local documents by listing, inspecting, extracting text, searching, and renaming files, with optional Google Drive integration.",
+  "source_repo": "bigbabyfilmrentals-tech/document-organizer-mcp",
+  "source_url": "https://github.com/bigbabyfilmrentals-tech/document-organizer-mcp",
+  "install": "npx -y document-organizer-mcp"
+}

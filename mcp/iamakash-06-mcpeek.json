@@ -1,0 +1,7 @@
+{
+  "name": "iamakash-06-mcpeek",
+  "description": "Static AST-level security scanner for MCP server source code vulnerabilities.",
+  "source_repo": "iamakash-06/mcpeek",
+  "source_url": "https://github.com/iamakash-06/mcpeek",
+  "install": "# git clone --depth 1 https://github.com/iamakash-06/mcpeek\n# See source for mcpServers config block"
+}

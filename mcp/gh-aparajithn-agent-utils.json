@@ -1,0 +1,7 @@
+{
+  "name": "gh-aparajithn-agent-utils",
+  "description": "Utility toolkit with 18 tools for text processing, encoding, datetime conversion, and data transformation.",
+  "source_repo": "aparajithn/agent-utils-mcp",
+  "source_url": "https://github.com/aparajithn/agent-utils-mcp",
+  "install": "npx -y agent-utils-mcp"
+}

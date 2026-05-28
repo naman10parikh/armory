@@ -1,0 +1,7 @@
+{
+  "name": "danielramosacosta-nixos-search",
+  "description": "Integrates with NixOS search API to find configuration options and packages with detailed metadata including types, defaults, descriptions, versions, and maintainer information.",
+  "source_repo": "danielramosacosta/nixos-mcp",
+  "source_url": "https://github.com/danielramosacosta/nixos-mcp",
+  "install": "npx -y nixos-mcp"
+}

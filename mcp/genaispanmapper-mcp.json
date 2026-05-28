@@ -1,0 +1,7 @@
+{
+  "name": "genaispanmapper-mcp",
+  "description": "GenAI span mapping with provider normalization, dashboard schemas, and structured receipts.",
+  "source_repo": "clauxel/genai-span-mapper-mcp",
+  "source_url": "https://github.com/clauxel/genai-span-mapper-mcp",
+  "install": "npx -y genai-span-mapper-mcp"
+}

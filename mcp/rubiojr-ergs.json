@@ -1,0 +1,7 @@
+{
+  "name": "rubiojr-ergs",
+  "description": "Integrates with Ergs full-text search system to enable searching and browsing across personal datasources like GitHub repositories and RSS feeds with FTS5 query syntax, pagination, and date filtering.",
+  "source_repo": "rubiojr/ergs-mcp",
+  "source_url": "https://github.com/rubiojr/ergs-mcp",
+  "install": "npx -y ergs-mcp"
+}

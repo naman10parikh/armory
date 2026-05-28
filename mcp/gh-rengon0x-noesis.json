@@ -1,0 +1,7 @@
+{
+  "name": "gh-rengon0x-noesis",
+  "description": "Analyzes Solana blockchain tokens, wallets, and on-chain activity with 19 intelligence tools.",
+  "source_repo": "rengon0x/noesisapi",
+  "source_url": "https://github.com/rengon0x/noesisapi",
+  "install": "# git clone --depth 1 https://github.com/rengon0x/noesisapi\n# See source for mcpServers config block"
+}

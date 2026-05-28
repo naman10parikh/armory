@@ -1,0 +1,7 @@
+{
+  "name": "leon-melamud-mysql",
+  "description": "Provides direct MySQL database interaction capabilities through natural language commands, enabling users to query, manage, and explore databases securely via parameterized queries without requiring SQL expertise.",
+  "source_repo": "leonmelamud/mysql-mcp",
+  "source_url": "https://github.com/leonmelamud/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

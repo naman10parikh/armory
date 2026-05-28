@@ -1,0 +1,7 @@
+{
+  "name": "video-audio-editor",
+  "description": "Provides comprehensive video and audio editing capabilities through FFmpeg, enabling operations like format conversion, trimming, subtitle addition, text overlays, and video concatenation with transition effects.",
+  "source_repo": "misbahsy/video-audio-mcp",
+  "source_url": "https://github.com/misbahsy/video-audio-mcp",
+  "install": "npx -y video-audio-mcp"
+}

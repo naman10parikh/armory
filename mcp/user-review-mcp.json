@@ -1,0 +1,7 @@
+{
+  "name": "user-review-mcp",
+  "description": "Simulates harsh, fake user reviews to psychologically condition AI agents for enforcing disciplined development practices, with optional Ollama integration for dynamic criticism.",
+  "source_repo": "wtfsayo/user-review-mcp",
+  "source_url": "https://github.com/wtfsayo/user-review-mcp",
+  "install": "npx -y user-review-mcp"
+}

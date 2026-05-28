@@ -1,0 +1,7 @@
+{
+  "name": "writio",
+  "description": "LinkedIn-native content creation, scheduling, and analytics.",
+  "source_repo": "writio/mcp-server",
+  "source_url": "https://github.com/writio/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/writio/mcp-server\n# See source for mcpServers config block"
+}

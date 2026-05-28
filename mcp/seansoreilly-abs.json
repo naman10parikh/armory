@@ -1,0 +1,7 @@
+{
+  "name": "seansoreilly-abs",
+  "description": "Integrates with the Australian Bureau of Statistics API to provide access to statistical datasets for economic analysis, demographic research, and data-driven policy making.",
+  "source_repo": "seansoreilly/mcp-server-abs",
+  "source_url": "https://github.com/seansoreilly/mcp-server-abs",
+  "install": "# git clone --depth 1 https://github.com/seansoreilly/mcp-server-abs\n# See source for mcpServers config block"
+}

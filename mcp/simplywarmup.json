@@ -1,0 +1,7 @@
+{
+  "name": "simplywarmup",
+  "description": "MCP server for email warmup and inbox health management to protect domain reputation.",
+  "source_repo": "",
+  "source_url": "https://simplywarmup.com/mcp",
+  "install": "# git clone --depth 1 https://simplywarmup.com/mcp\n# See source for mcpServers config block"
+}

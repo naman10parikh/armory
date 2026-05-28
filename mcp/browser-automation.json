@@ -1,0 +1,7 @@
+{
+  "name": "browser-automation",
+  "description": "Selenium-powered browser automation server that enables web interactions like navigation, clicking, form filling, and scrolling with minimal human supervision for web scraping, testing, and automated browsing scenarios.",
+  "source_repo": "janspoerer/mcp_browser_use",
+  "source_url": "https://github.com/janspoerer/mcp_browser_use",
+  "install": "# git clone --depth 1 https://github.com/janspoerer/mcp_browser_use\n# See source for mcpServers config block"
+}

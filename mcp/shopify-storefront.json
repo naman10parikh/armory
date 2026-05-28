@@ -1,0 +1,7 @@
+{
+  "name": "shopify-storefront",
+  "description": "Integrates with individual Shopify stores to enable product catalog search, cart management, and policy inquiries for complete shopping experiences from discovery to checkout.",
+  "source_repo": "",
+  "source_url": "https://shopify.dev/docs/apps/build/storefront-mcp/servers/storefront",
+  "install": "# git clone --depth 1 https://shopify.dev/docs/apps/build/storefront-mcp/servers/storefront\n# See source for mcpServers config block"
+}

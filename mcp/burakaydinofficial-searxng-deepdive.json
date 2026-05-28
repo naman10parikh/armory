@@ -1,0 +1,7 @@
+{
+  "name": "burakaydinofficial-searxng-deepdive",
+  "description": "Searches SearXNG with engine targeting, multi-page fanout, and HTML-to-Markdown URL reading.",
+  "source_repo": "burakaydinofficial/searxng-deepdive",
+  "source_url": "https://github.com/burakaydinofficial/searxng-deepdive",
+  "install": "# git clone --depth 1 https://github.com/burakaydinofficial/searxng-deepdive\n# See source for mcpServers config block"
+}

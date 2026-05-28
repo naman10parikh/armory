@@ -1,0 +1,7 @@
+{
+  "name": "runno",
+  "description": "Execute code in a secure WebAssembly sandbox supporting Python, JavaScript, C, C++, Ruby, and PHP",
+  "source_repo": "taybenlor/runno",
+  "source_url": "https://github.com/taybenlor/runno",
+  "install": "# git clone --depth 1 https://github.com/taybenlor/runno\n# See source for mcpServers config block"
+}

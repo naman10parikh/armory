@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp-server",
+  "description": "An enterprise-grade MCP server for interacting with Odoo ERP through AI assistants, enabling guided workflows, native BI, and deep introspection.",
+  "source_repo": "edubolivar/odoo-mcp-server",
+  "source_url": "https://github.com/edubolivar/odoo-mcp-server",
+  "install": "npx -y odoo-mcp-server"
+}

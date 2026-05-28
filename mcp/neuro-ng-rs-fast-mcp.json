@@ -1,0 +1,7 @@
+{
+  "name": "neuro-ng-rs-fast-mcp",
+  "description": "High-performance async Rust framework for building MCP servers with OAuth2/OIDC authentication, rate limiting, and caching middleware.",
+  "source_repo": "neuro-ng/rs-fast-mcp",
+  "source_url": "https://github.com/neuro-ng/rs-fast-mcp",
+  "install": "npx -y rs-fast-mcp"
+}

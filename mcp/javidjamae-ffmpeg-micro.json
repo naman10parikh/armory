@@ -1,0 +1,7 @@
+{
+  "name": "javidjamae-ffmpeg-micro",
+  "description": "Video transcoding via the FFmpeg Micro REST API with job management and signed download URLs.",
+  "source_repo": "javidjamae/ffmpeg-micro-mcp",
+  "source_url": "https://github.com/javidjamae/ffmpeg-micro-mcp",
+  "install": "npx -y ffmpeg-micro-mcp"
+}

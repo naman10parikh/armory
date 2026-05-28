@@ -1,0 +1,7 @@
+{
+  "name": "outlook",
+  "description": "Read and send emails, manage calendar events, and organize contacts. Search messages, handle attachments, and schedule meetings.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/outlook",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/outlook\n# See source for mcpServers config block"
+}

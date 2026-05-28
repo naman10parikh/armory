@@ -1,0 +1,7 @@
+{
+  "name": "dolphinquant-echolon",
+  "description": "LLM-agent-native backtest framework for SHFE daily futures research. 23 MCP tools (strategy validation, scaffolding, indicator catalog, error-code lookup), 22 in-package skills, 32 catalogued error codes, working strategy templates. `pip install echolon` then `claude mcp add -s user echolon -- echolon-mcp`.",
+  "source_repo": "dolphinquant/echolon",
+  "source_url": "https://github.com/dolphinquant/echolon",
+  "install": "# git clone --depth 1 https://github.com/dolphinquant/echolon\n# See source for mcpServers config block"
+}

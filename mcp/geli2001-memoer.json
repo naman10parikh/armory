@@ -1,0 +1,7 @@
+{
+  "name": "geli2001-memoer",
+  "description": "Provides persistent memory storage for assistants to create and retrieve memories with filtering options by app name, category, and result limits through a SQLite database with automatic setup.",
+  "source_repo": "geli2001/memoer-mcp",
+  "source_url": "https://github.com/geli2001/memoer-mcp",
+  "install": "npx -y memoer-mcp"
+}

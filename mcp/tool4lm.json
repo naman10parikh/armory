@@ -1,0 +1,7 @@
+{
+  "name": "tool4lm",
+  "description": "Provides local research toolkit with web search, document processing, academic databases, and mathematical computation without requiring external API keys",
+  "source_repo": "khanhs-234/tool4lm",
+  "source_url": "https://github.com/khanhs-234/tool4lm",
+  "install": "# git clone --depth 1 https://github.com/khanhs-234/tool4lm\n# See source for mcpServers config block"
+}

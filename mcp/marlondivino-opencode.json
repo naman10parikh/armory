@@ -1,0 +1,7 @@
+{
+  "name": "marlondivino-opencode",
+  "description": "Wraps the OpenCode coding assistant for token-efficient prompt refinement and code analysis with RAG-powered memory using LanceDB and Ollama.",
+  "source_repo": "marlondivino/open-code-as-mcp",
+  "source_url": "https://github.com/marlondivino/open-code-as-mcp",
+  "install": "npx -y open-code-as-mcp"
+}

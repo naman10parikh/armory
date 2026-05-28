@@ -1,0 +1,7 @@
+{
+  "name": "stryk91-lsp-mcp-rs",
+  "description": "Universal bridge to Language Server Protocol servers with multi-language support.",
+  "source_repo": "stryk91/lsp-mcp-rs",
+  "source_url": "https://github.com/stryk91/lsp-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/stryk91/lsp-mcp-rs\n# See source for mcpServers config block"
+}

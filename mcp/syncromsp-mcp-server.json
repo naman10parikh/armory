@@ -1,0 +1,7 @@
+{
+  "name": "syncromsp-mcp-server",
+  "description": "Enables AI assistants to fully access and manage SyncroMSP resources including tickets, customers, assets, invoices, and over 30 resource types through 180+ API endpoints.",
+  "source_repo": "advenimus/syncromsp-mcp",
+  "source_url": "https://github.com/advenimus/syncromsp-mcp",
+  "install": "npx -y syncromsp-mcp"
+}

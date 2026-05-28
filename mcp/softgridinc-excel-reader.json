@@ -1,0 +1,7 @@
+{
+  "name": "softgridinc-excel-reader",
+  "description": "Integrates with Excel files to extract and process data from sheets, enabling automated analysis and reporting tasks",
+  "source_repo": "softgridinc-pte-ltd/mcp-excel-reader-server",
+  "source_url": "https://github.com/softgridinc-pte-ltd/mcp-excel-reader-server",
+  "install": "# git clone --depth 1 https://github.com/softgridinc-pte-ltd/mcp-excel-reader-server\n# See source for mcpServers config block"
+}

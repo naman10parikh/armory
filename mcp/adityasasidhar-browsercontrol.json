@@ -1,0 +1,7 @@
+{
+  "name": "adityasasidhar-browsercontrol",
+  "description": "Enables browser automation through visual interaction using numbered screenshots where interactive elements are marked for precise clicking, form filling, and web scraping with persistent sessions and debugging capabilities.",
+  "source_repo": "adityasasidhar/browsercontrol",
+  "source_url": "https://github.com/adityasasidhar/browsercontrol",
+  "install": "# git clone --depth 1 https://github.com/adityasasidhar/browsercontrol\n# See source for mcpServers config block"
+}

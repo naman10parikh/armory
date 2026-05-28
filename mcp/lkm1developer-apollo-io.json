@@ -1,0 +1,7 @@
+{
+  "name": "lkm1developer-apollo-io",
+  "description": "Integrates with Apollo.io's API to enable access to sales intelligence data, including contact enrichment, company information, and job listings for sales teams and recruiters.",
+  "source_repo": "lkm1developer/apollo-io-mcp-server",
+  "source_url": "https://github.com/lkm1developer/apollo-io-mcp-server",
+  "install": "npx -y apollo-io-mcp-server"
+}

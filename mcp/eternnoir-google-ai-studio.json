@@ -1,0 +1,7 @@
+{
+  "name": "eternnoir-google-ai-studio",
+  "description": "Integrates with Google AI Studio/Gemini API to process multimodal content including images, videos, audio, PDFs, and text files for content generation, analysis, and document conversion tasks.",
+  "source_repo": "eternnoir/aistudio-mcp-server",
+  "source_url": "https://github.com/eternnoir/aistudio-mcp-server",
+  "install": "npx -y aistudio-mcp-server"
+}

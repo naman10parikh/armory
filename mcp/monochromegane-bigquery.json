@@ -1,0 +1,7 @@
+{
+  "name": "monochromegane-bigquery",
+  "description": "Integrates with BigQuery to enable querying and retrieving table schemas from specified datasets for data analysis and reporting",
+  "source_repo": "monochromegane/mcp-bigquery-server",
+  "source_url": "https://github.com/monochromegane/mcp-bigquery-server",
+  "install": "# git clone --depth 1 https://github.com/monochromegane/mcp-bigquery-server\n# See source for mcpServers config block"
+}

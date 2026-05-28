@@ -1,0 +1,7 @@
+{
+  "name": "ferdousbhai-wsb-analyst-mcp",
+  "description": "Reddit integration to analyze content on WallStreetBets community",
+  "source_repo": "ferdousbhai/wsb-analyst-mcp",
+  "source_url": "https://github.com/ferdousbhai/wsb-analyst-mcp",
+  "install": "npx -y wsb-analyst-mcp"
+}

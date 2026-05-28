@@ -1,0 +1,7 @@
+{
+  "name": "haudnn-kiotviet",
+  "description": "Connects AI assistants to the KiotViet Vietnamese retail management system with 36 tools covering products, customers, orders, and invoices.",
+  "source_repo": "haudnn/kiotviet-mcp",
+  "source_url": "https://github.com/haudnn/kiotviet-mcp",
+  "install": "npx -y kiotviet-mcp"
+}

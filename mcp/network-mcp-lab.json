@@ -1,0 +1,7 @@
+{
+  "name": "network-mcp-lab",
+  "description": "MCP server for executing show commands and managing Cisco IOS-XE network devices via async SSH using Scrapli.",
+  "source_repo": "E-Conners-Lab/First_MCP_Server",
+  "source_url": "https://github.com/E-Conners-Lab/First_MCP_Server",
+  "install": "npx -y First_MCP_Server"
+}

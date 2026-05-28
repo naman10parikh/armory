@@ -1,0 +1,7 @@
+{
+  "name": "fkesheh-skill-management",
+  "description": "Organizes and executes reusable automation scripts with structured metadata, environment variable management, and automatic dependency installation for building maintainable workflow collections.",
+  "source_repo": "fkesheh/skill-mcp",
+  "source_url": "https://github.com/fkesheh/skill-mcp",
+  "install": "npx -y skill-mcp"
+}

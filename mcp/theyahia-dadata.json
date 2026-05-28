@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-dadata",
+  "description": "Address validation, company lookup, geocoding, and data enrichment via the DaData.ru API.",
+  "source_repo": "theyahia/dadata-mcp",
+  "source_url": "https://github.com/theyahia/dadata-mcp",
+  "install": "npx -y dadata-mcp"
+}

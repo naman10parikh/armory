@@ -1,0 +1,7 @@
+{
+  "name": "egorkurito-apple-calendar",
+  "description": "Native Apple Calendar integration through hybrid TypeScript/Swift with EventKit APIs on macOS.",
+  "source_repo": "egorkurito/apple-calendar-mcp",
+  "source_url": "https://github.com/egorkurito/apple-calendar-mcp",
+  "install": "npx -y apple-calendar-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "withastro-docs",
+  "description": "Provides access to the latest Astro framework documentation through Kapa.ai's search API, enabling developers to query official docs and retrieve structured results with titles, URLs, content snippets, and source types.",
+  "source_repo": "withastro/docs-mcp",
+  "source_url": "https://github.com/withastro/docs-mcp",
+  "install": "npx -y docs-mcp"
+}

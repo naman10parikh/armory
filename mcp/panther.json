@@ -1,0 +1,7 @@
+{
+  "name": "panther",
+  "description": "Integrates with Panther Labs' cybersecurity platform to enable security alert triage, data lake querying, detection rule management, and log source analysis for incident response and threat hunting workflows.",
+  "source_repo": "panther-labs/mcp-panther",
+  "source_url": "https://github.com/panther-labs/mcp-panther",
+  "install": "# git clone --depth 1 https://github.com/panther-labs/mcp-panther\n# See source for mcpServers config block"
+}

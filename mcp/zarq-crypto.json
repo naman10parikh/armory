@@ -1,0 +1,7 @@
+{
+  "name": "zarq-crypto",
+  "description": "Provides crypto risk intelligence including trust scores, distance-to-default analysis, and structural collapse warnings for 198 tokens.",
+  "source_repo": "zarq-ai/zarq-mcp-server",
+  "source_url": "https://github.com/zarq-ai/zarq-mcp-server",
+  "install": "npx -y zarq-mcp-server"
+}

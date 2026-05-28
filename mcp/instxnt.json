@@ -1,0 +1,7 @@
+{
+  "name": "instxnt",
+  "description": "Create and manage instxnt.xyz storefronts through AI agents — add products, connect Stripe, and go live.",
+  "source_repo": "ericspencer00/instxnt-mcp",
+  "source_url": "https://github.com/ericspencer00/instxnt-mcp",
+  "install": "npx -y instxnt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bsmi021-filesystem",
+  "description": "Integrates with local filesystems to enable file operations, analysis, and manipulation across various file types and structures.",
+  "source_repo": "bsmi021/mcp-filesystem-server",
+  "source_url": "https://github.com/bsmi021/mcp-filesystem-server",
+  "install": "# git clone --depth 1 https://github.com/bsmi021/mcp-filesystem-server\n# See source for mcpServers config block"
+}

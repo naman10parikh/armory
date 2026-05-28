@@ -1,0 +1,7 @@
+{
+  "name": "nineoneninetwo",
+  "description": "Business services platform from Brazil providing AI agent integrations for operational workflows.",
+  "source_repo": "",
+  "source_url": "https://nineoneninetwo.com.br",
+  "install": "# git clone --depth 1 https://nineoneninetwo.com.br\n# See source for mcpServers config block"
+}

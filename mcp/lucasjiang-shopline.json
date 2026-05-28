@@ -1,0 +1,7 @@
+{
+  "name": "lucasjiang-shopline",
+  "description": "Manage Shopline e-commerce operations with 143 tools for products, orders, and customers.",
+  "source_repo": "lucasjiang-aoi/mcp-shopline",
+  "source_url": "https://github.com/lucasjiang-aoi/mcp-shopline",
+  "install": "# git clone --depth 1 https://github.com/lucasjiang-aoi/mcp-shopline\n# See source for mcpServers config block"
+}

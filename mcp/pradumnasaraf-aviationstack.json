@@ -1,0 +1,7 @@
+{
+  "name": "pradumnasaraf-aviationstack",
+  "description": "Integrates with the AviationStack API to provide real-time flight data, airport schedules, aircraft information, and aviation details for travel planning and flight tracking applications.",
+  "source_repo": "pradumnasaraf/aviationstack-mcp",
+  "source_url": "https://github.com/pradumnasaraf/aviationstack-mcp",
+  "install": "npx -y aviationstack-mcp"
+}

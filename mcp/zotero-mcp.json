@@ -1,0 +1,7 @@
+{
+  "name": "zotero-mcp",
+  "description": "Integrates with Zotero's local API to search, retrieve, read PDFs, and add items by DOI from your Zotero library.",
+  "source_repo": "masaki39/zotero-mcp",
+  "source_url": "https://github.com/masaki39/zotero-mcp",
+  "install": "npx -y zotero-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-vavere-graylog-proxy",
+  "description": "Local proxy that fixes Graylog MCP API schema and response compatibility issues.",
+  "source_repo": "vavere/graylog-mcp-fix",
+  "source_url": "https://github.com/vavere/graylog-mcp-fix",
+  "install": "# git clone --depth 1 https://github.com/vavere/graylog-mcp-fix\n# See source for mcpServers config block"
+}

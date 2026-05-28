@@ -1,0 +1,7 @@
+{
+  "name": "chemmcp",
+  "description": "ChemMCP is an easy-to-use and extensible chemistry toolkit for LLMs and AI assistants, enabling molecular analysis, property prediction, and reaction synthesis tasks without domain-specific training.",
+  "source_repo": "OSU-NLP-Group/ChemMCP",
+  "source_url": "https://github.com/OSU-NLP-Group/ChemMCP",
+  "install": "# git clone --depth 1 https://github.com/OSU-NLP-Group/ChemMCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "liyue1000-kali-security-tools",
+  "description": "Provides secure access to Kali Linux penetration testing tools like nmap, nikto, dirb, gobuster, sqlmap, and wpscan with JWT authentication, role-based authorization, command validation, and real-time streaming for controlled security scanning workflows.",
+  "source_repo": "liyue1000/kali_sse",
+  "source_url": "https://github.com/liyue1000/kali_sse",
+  "install": "# git clone --depth 1 https://github.com/liyue1000/kali_sse\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "krystalview-mcp-server",
+  "description": "Enables AI agents to access website analytics, including visitor sessions, UX friction, conversion funnels, and anomaly alerts.",
+  "source_repo": "KrystalView/krystalview-mcp",
+  "source_url": "https://github.com/KrystalView/krystalview-mcp",
+  "install": "npx -y krystalview-mcp"
+}

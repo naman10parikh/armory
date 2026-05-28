@@ -1,0 +1,7 @@
+{
+  "name": "aymericzip-intlayer",
+  "description": "A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, access to the docs.",
+  "source_repo": "aymericzip/intlayer",
+  "source_url": "https://github.com/aymericzip/intlayer",
+  "install": "# git clone --depth 1 https://github.com/aymericzip/intlayer\n# See source for mcpServers config block"
+}

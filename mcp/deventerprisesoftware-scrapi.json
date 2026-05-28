@@ -1,0 +1,7 @@
+{
+  "name": "deventerprisesoftware-scrapi",
+  "description": "Enables web scraping from sites with bot detection, captchas, or geolocation restrictions through residential proxies and automated captcha solving for content extraction in HTML or Markdown formats.",
+  "source_repo": "deventerprisesoftware/scrapi-mcp",
+  "source_url": "https://github.com/deventerprisesoftware/scrapi-mcp",
+  "install": "npx -y scrapi-mcp"
+}

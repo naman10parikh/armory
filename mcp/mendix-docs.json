@@ -1,0 +1,7 @@
+{
+  "name": "mendix-docs",
+  "description": "Search 4,000+ Mendix documentation pages using full-text SQLite indexing.",
+  "source_repo": "mendixlabs/mendix-doc-mcp",
+  "source_url": "https://github.com/mendixlabs/mendix-doc-mcp",
+  "install": "npx -y mendix-doc-mcp"
+}

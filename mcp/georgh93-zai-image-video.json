@@ -1,0 +1,7 @@
+{
+  "name": "georgh93-zai-image-video",
+  "description": "Provides access to Z.AI's GLM-Image, CogView-4, CogVideoX-3, and Vidu video models for image and video generation with async processing and automatic downloads.",
+  "source_repo": "georgh93/z_ai_image_gen_mcp",
+  "source_url": "https://github.com/georgh93/z_ai_image_gen_mcp",
+  "install": "npx -y z_ai_image_gen_mcp"
+}

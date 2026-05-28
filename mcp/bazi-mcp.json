@@ -1,0 +1,7 @@
+{
+  "name": "bazi-mcp",
+  "description": "MCP server for accurate Bazi calculations, enabling personality analysis, destiny forecasting, and Chinese calendar queries via AI agents.",
+  "source_repo": "shuangzixing1976/bazi-mcp",
+  "source_url": "https://github.com/shuangzixing1976/bazi-mcp",
+  "install": "npx -y bazi-mcp"
+}

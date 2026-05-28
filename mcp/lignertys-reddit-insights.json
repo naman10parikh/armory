@@ -1,0 +1,7 @@
+{
+  "name": "lignertys-reddit-insights",
+  "description": "AI-powered Reddit search. Search millions of posts semantically, explore subreddits, and discover trending topics and insights.",
+  "source_repo": "lignertys/reddit-insights-mcp",
+  "source_url": "https://github.com/lignertys/reddit-insights-mcp",
+  "install": "npx -y reddit-insights-mcp"
+}

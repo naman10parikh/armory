@@ -1,0 +1,7 @@
+{
+  "name": "cargo",
+  "description": "Provides access to Rust crate documentation, version information, and workspace metadata through rustdoc JSON generation, crates.io API integration, and cargo metadata parsing for dependency management, API exploration, and project structure analysis.",
+  "source_repo": "camshaft/cargo-mcp",
+  "source_url": "https://github.com/camshaft/cargo-mcp",
+  "install": "npx -y cargo-mcp"
+}

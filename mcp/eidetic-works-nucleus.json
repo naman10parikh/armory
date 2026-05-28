@@ -1,0 +1,7 @@
+{
+  "name": "eidetic-works-nucleus",
+  "description": "Cross-platform memory synchronization between dev environments using persistent knowledge stores called engrams.",
+  "source_repo": "eidetic-works/nucleus-mcp",
+  "source_url": "https://github.com/eidetic-works/nucleus-mcp",
+  "install": "npx -y nucleus-mcp"
+}

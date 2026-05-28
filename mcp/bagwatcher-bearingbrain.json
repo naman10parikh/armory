@@ -1,0 +1,7 @@
+{
+  "name": "bagwatcher-bearingbrain",
+  "description": "Bearing lookup, fitment analysis, and quote review for industrial parts sourcing.",
+  "source_repo": "optimizedwf/bearingbrain-mcp",
+  "source_url": "https://github.com/optimizedwf/bearingbrain-mcp",
+  "install": "npx -y bearingbrain-mcp"
+}

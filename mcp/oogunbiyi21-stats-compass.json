@@ -1,0 +1,7 @@
+{
+  "name": "oogunbiyi21-stats-compass",
+  "description": "50+ pandas-powered tools for data loading, cleaning, visualization, and ML workflows",
+  "source_repo": "oogunbiyi21/stats-compass-mcp",
+  "source_url": "https://github.com/oogunbiyi21/stats-compass-mcp",
+  "install": "npx -y stats-compass-mcp"
+}

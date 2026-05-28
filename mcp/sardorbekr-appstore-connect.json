@@ -1,0 +1,7 @@
+{
+  "name": "sardorbekr-appstore-connect",
+  "description": "Integrates with Apple's App Store Connect API to manage iOS, macOS, tvOS, and visionOS apps including listing apps and versions, managing beta testing groups and testers, handling localizations and screenshots, managing bundle IDs and registered devices, and accessing pricing and availability data.",
+  "source_repo": "sardorbekr/appstore-connect-mcp",
+  "source_url": "https://github.com/sardorbekr/appstore-connect-mcp",
+  "install": "npx -y appstore-connect-mcp"
+}

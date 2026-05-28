@@ -1,0 +1,7 @@
+{
+  "name": "king-of-the-grackles-reddit",
+  "description": "Turn Reddit into structured insights with full citations",
+  "source_repo": "king-of-the-grackles/reddit-research-mcp",
+  "source_url": "https://github.com/king-of-the-grackles/reddit-research-mcp",
+  "install": "npx -y reddit-research-mcp"
+}

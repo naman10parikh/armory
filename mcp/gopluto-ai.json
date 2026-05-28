@@ -1,0 +1,7 @@
+{
+  "name": "gopluto-ai",
+  "description": "Access human experts on-demand.",
+  "source_repo": "gopluto-ai/gopluto-ai-mcp",
+  "source_url": "https://github.com/gopluto-ai/gopluto-ai-mcp",
+  "install": "npx -y gopluto-ai-mcp"
+}

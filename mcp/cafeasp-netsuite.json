@@ -1,0 +1,7 @@
+{
+  "name": "cafeasp-netsuite",
+  "description": "MCP server providing AI clients with access to NetSuite REST APIs, SuiteQL queries, and record management.",
+  "source_repo": "cafeasp/cafeasp-netsuite-cli-mcp-server",
+  "source_url": "https://github.com/cafeasp/cafeasp-netsuite-cli-mcp-server",
+  "install": "npx -y cafeasp-netsuite-cli-mcp-server"
+}

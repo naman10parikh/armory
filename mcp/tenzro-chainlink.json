@@ -1,0 +1,7 @@
+{
+  "name": "tenzro-chainlink",
+  "description": "MCP server for Chainlink services on Tenzro Network: CCIP, CCT pools, Data Feeds, Data Streams, VRF v2.5, PoR, Automation, and Functions.",
+  "source_repo": "",
+  "source_url": "https://tenzro.network/mcp/tenzro-chainlink",
+  "install": "# git clone --depth 1 https://tenzro.network/mcp/tenzro-chainlink\n# See source for mcpServers config block"
+}

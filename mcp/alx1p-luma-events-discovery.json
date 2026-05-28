@@ -1,0 +1,7 @@
+{
+  "name": "alx1p-luma-events-discovery",
+  "description": "Discovers events from Luma's public feed and subscribed calendars with distance filtering and ICS export.",
+  "source_repo": "alx1p/luma-cal-mcp",
+  "source_url": "https://github.com/alx1p/luma-cal-mcp",
+  "install": "npx -y luma-cal-mcp"
+}

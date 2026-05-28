@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-filesystem",
+  "description": "Read, create, and edit files",
+  "source_repo": "domdomegg/filesystem-mcp",
+  "source_url": "https://github.com/domdomegg/filesystem-mcp",
+  "install": "npx -y filesystem-mcp"
+}

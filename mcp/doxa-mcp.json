@@ -1,0 +1,7 @@
+{
+  "name": "doxa-mcp",
+  "description": "Christian Bible Scripture MCP: BSB verse lookup, Christian encouragement, the Doxa Way journey map. Three tools: doxa_encourage, doxa_scripture, doxa_way_movement. Hosted at https://doxa.app/mcp/v1, free per-individual quota, BYOL for unlimited. Scripture, summoned.",
+  "source_repo": "The-Doxa-Way/doxa-mcp-schema",
+  "source_url": "https://github.com/The-Doxa-Way/doxa-mcp-schema",
+  "install": "# git clone --depth 1 https://github.com/The-Doxa-Way/doxa-mcp-schema\n# See source for mcpServers config block"
+}

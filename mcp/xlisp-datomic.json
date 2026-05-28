@@ -1,0 +1,7 @@
+{
+  "name": "xlisp-datomic",
+  "description": "Provides direct access to Datomic databases through nine specialized tools covering connection management, schema installation, data loading with Datalog queries, entity retrieval with temporal queries, transaction history analysis, and relationship path finding between entities.",
+  "source_repo": "xlisp/datomic-mcp-server",
+  "source_url": "https://github.com/xlisp/datomic-mcp-server",
+  "install": "npx -y datomic-mcp-server"
+}

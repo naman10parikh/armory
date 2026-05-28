@@ -1,0 +1,7 @@
+{
+  "name": "grantai-memory",
+  "description": "Persistent shared memory layer for AI agents with sub-millisecond recall and AES-256 encryption.",
+  "source_repo": "solonai-com/grantai",
+  "source_url": "https://github.com/solonai-com/grantai",
+  "install": "# git clone --depth 1 https://github.com/solonai-com/grantai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-coingecko",
+  "description": "Integrates with CoinGecko Pro API to retrieve cryptocurrency data, enabling market analysis, portfolio tracking, and price monitoring applications.",
+  "source_repo": "crazyrabbitltc/mcp-coingecko-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-coingecko-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-coingecko-server\n# See source for mcpServers config block"
+}

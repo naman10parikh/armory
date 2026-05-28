@@ -1,0 +1,7 @@
+{
+  "name": "johannespettersson80-codesys",
+  "description": "Integrates with CODESYS V3 automation programming environments through Python scripting to enable project management, POU creation and editing, code manipulation, and compilation tasks for PLC development workflows.",
+  "source_repo": "johannespettersson80/codesys-mcp-toolkit",
+  "source_url": "https://github.com/johannespettersson80/codesys-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/johannespettersson80/codesys-mcp-toolkit\n# See source for mcpServers config block"
+}

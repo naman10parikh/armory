@@ -1,0 +1,7 @@
+{
+  "name": "mattgierhart-espresso",
+  "description": "Find specialty espresso cafes worldwide using curated data and transparent quality scoring.",
+  "source_repo": "mattgierhart/espresso-mcp",
+  "source_url": "https://github.com/mattgierhart/espresso-mcp",
+  "install": "npx -y espresso-mcp"
+}

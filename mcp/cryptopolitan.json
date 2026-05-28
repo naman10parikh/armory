@@ -1,0 +1,7 @@
+{
+  "name": "cryptopolitan",
+  "description": "Real-time cryptocurrency news, analysis, and price data from Cryptopolitan for AI agents via a hosted API.",
+  "source_repo": "4dmrkey/cryptopolitan-mcp",
+  "source_url": "https://github.com/4dmrkey/cryptopolitan-mcp",
+  "install": "npx -y cryptopolitan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "syucream-lightdash",
+  "description": "Integrates with Lightdash to enable automated reporting, data exploration, and analytics-driven decision making.",
+  "source_repo": "syucream/lightdash-mcp-server",
+  "source_url": "https://github.com/syucream/lightdash-mcp-server",
+  "install": "npx -y lightdash-mcp-server"
+}

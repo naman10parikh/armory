@@ -1,0 +1,7 @@
+{
+  "name": "plutocalcdesigner-mcp",
+  "description": "Connects to Plutocalc Designer for water and wastewater treatment plant design calculations.",
+  "source_repo": "danpeig/plutocalcdesigner-mcp",
+  "source_url": "https://github.com/danpeig/plutocalcdesigner-mcp",
+  "install": "npx -y plutocalcdesigner-mcp"
+}

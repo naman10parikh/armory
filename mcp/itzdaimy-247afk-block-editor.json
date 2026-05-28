@@ -1,0 +1,7 @@
+{
+  "name": "itzdaimy-247afk-block-editor",
+  "description": "Bridges AI assistants with the 247afk Minecraft bot's visual block editor through WebSocket communication for real-time script editing.",
+  "source_repo": "itzdaimy/247afk-mcp-server",
+  "source_url": "https://github.com/itzdaimy/247afk-mcp-server",
+  "install": "npx -y 247afk-mcp-server"
+}

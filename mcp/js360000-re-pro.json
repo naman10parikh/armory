@@ -1,0 +1,7 @@
+{
+  "name": "js360000-re-pro",
+  "description": "Reverse engineering workbench MCP server integrating Ghidra, rizin, ILSpy, and JADX.",
+  "source_repo": "js360000/re-pro",
+  "source_url": "https://github.com/js360000/re-pro",
+  "install": "# git clone --depth 1 https://github.com/js360000/re-pro\n# See source for mcpServers config block"
+}

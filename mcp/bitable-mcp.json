@@ -1,0 +1,7 @@
+{
+  "name": "bitable-mcp",
+  "description": "Bitable Mcp MCP server listed on mcp.so.",
+  "source_repo": "lloydzhou/bitable-mcp",
+  "source_url": "https://mcp.so/server/bitable-mcp/lloydzhou",
+  "install": "npx -y bitable-mcp"
+}

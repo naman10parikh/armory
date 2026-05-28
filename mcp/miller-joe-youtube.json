@@ -1,0 +1,7 @@
+{
+  "name": "miller-joe-youtube",
+  "description": "Manages YouTube creator operations including uploads, metadata, analytics, and AI thumbnail generation.",
+  "source_repo": "miller-joe/youtube-mcp",
+  "source_url": "https://github.com/miller-joe/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xero-accounting",
+  "description": "Provides a bridge to the Xero accounting API, enabling financial data interactions and accounting operations through OAuth2 custom connections for automated workflow management.",
+  "source_repo": "xeroapi/xero-mcp-server",
+  "source_url": "https://github.com/xeroapi/xero-mcp-server",
+  "install": "npx -y xero-mcp-server"
+}

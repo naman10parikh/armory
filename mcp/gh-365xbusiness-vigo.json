@@ -1,0 +1,7 @@
+{
+  "name": "gh-365xbusiness-vigo",
+  "description": "Hong Kong SFC regulatory intelligence with bilingual EN/ZH compliance queries.",
+  "source_repo": "orphicone-platform/vigo-mcp",
+  "source_url": "https://github.com/orphicone-platform/vigo-mcp",
+  "install": "npx -y vigo-mcp"
+}

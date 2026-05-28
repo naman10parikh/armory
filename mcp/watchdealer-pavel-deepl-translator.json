@@ -1,0 +1,7 @@
+{
+  "name": "watchdealer-pavel-deepl-translator",
+  "description": "Integrates with DeepL API to provide high-quality text translation between multiple languages with comprehensive error handling and request validation",
+  "source_repo": "watchdealer-pavel/deepl-mcp-server",
+  "source_url": "https://github.com/watchdealer-pavel/deepl-mcp-server",
+  "install": "npx -y deepl-mcp-server"
+}

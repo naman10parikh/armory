@@ -1,0 +1,7 @@
+{
+  "name": "bitrise",
+  "description": "Provides a bridge to the Bitrise CI/CD platform API, enabling mobile app development workflow management including builds, artifacts, and releases for iOS and Android platforms.",
+  "source_repo": "bitrise-io/bitrise-mcp",
+  "source_url": "https://github.com/bitrise-io/bitrise-mcp",
+  "install": "npx -y bitrise-mcp"
+}

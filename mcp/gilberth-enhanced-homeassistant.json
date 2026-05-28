@@ -1,0 +1,7 @@
+{
+  "name": "gilberth-enhanced-homeassistant",
+  "description": "Integrates with Home Assistant smart home platform to provide comprehensive device control, automation management, historical analysis, and system monitoring through domain-specific tools for lights, climate systems, media players, and covers with bulk operations and energy optimization capabilities.",
+  "source_repo": "gilberth/enhanced-homeassistant-mcp",
+  "source_url": "https://github.com/gilberth/enhanced-homeassistant-mcp",
+  "install": "npx -y enhanced-homeassistant-mcp"
+}

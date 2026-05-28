@@ -1,0 +1,7 @@
+{
+  "name": "andresthor-cmd-line",
+  "description": "Safely run command-line arguments for Unix/macOS systems.",
+  "source_repo": "andresthor/cmd-line-mcp",
+  "source_url": "https://github.com/andresthor/cmd-line-mcp",
+  "install": "npx -y cmd-line-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-ecdsa",
+  "description": "Elliptic curve cryptography for key generation, signing, verification, and key import/export.",
+  "source_repo": "daedalus/mcp-ecdsa",
+  "source_url": "https://github.com/daedalus/mcp-ecdsa",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-ecdsa\n# See source for mcpServers config block"
+}

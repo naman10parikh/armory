@@ -1,0 +1,7 @@
+{
+  "name": "aighostmod-mcp-toolkit",
+  "description": "Diagnostic MCP server that captures and inspects MCP traffic including request headers, auth tokens, and JSON-RPC details.",
+  "source_repo": "aighostmod/mcptoolkit",
+  "source_url": "https://github.com/aighostmod/mcptoolkit",
+  "install": "# git clone --depth 1 https://github.com/aighostmod/mcptoolkit\n# See source for mcpServers config block"
+}

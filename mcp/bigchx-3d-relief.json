@@ -1,0 +1,7 @@
+{
+  "name": "bigchx-3d-relief",
+  "description": "Converts 2D images into 3D relief STL files for 3D printing by generating depth maps from brightness values and creating triangulated mesh surfaces with configurable dimensions and detail levels.",
+  "source_repo": "bigchx/mcp_3d_relief",
+  "source_url": "https://github.com/bigchx/mcp_3d_relief",
+  "install": "# git clone --depth 1 https://github.com/bigchx/mcp_3d_relief\n# See source for mcpServers config block"
+}

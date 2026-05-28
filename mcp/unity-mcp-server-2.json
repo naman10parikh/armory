@@ -1,0 +1,7 @@
+{
+  "name": "unity-mcp-server-2",
+  "description": "Unity Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "propenster/unity-mcp-server",
+  "source_url": "https://mcp.so/server/unity-mcp-server/propenster",
+  "install": "npx -y unity-mcp-server"
+}

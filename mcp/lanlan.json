@@ -1,0 +1,7 @@
+{
+  "name": "lanlan",
+  "description": "Build and manage hosted websites through chat with snapshots, forms, and analytics.",
+  "source_repo": "",
+  "source_url": "https://mcp.lanlan.site/mcp",
+  "install": "# git clone --depth 1 https://mcp.lanlan.site/mcp\n# See source for mcpServers config block"
+}

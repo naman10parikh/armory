@@ -1,0 +1,7 @@
+{
+  "name": "roshan-rb-autodesk-alias",
+  "description": "Provides access to Autodesk Alias Python API documentation through web scraping with keyword-based search, page listing, and full content retrieval.",
+  "source_repo": "roshan-rb/autodesk_mcp",
+  "source_url": "https://github.com/roshan-rb/autodesk_mcp",
+  "install": "npx -y autodesk_mcp"
+}

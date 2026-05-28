@@ -1,0 +1,7 @@
+{
+  "name": "98lukehall-renoun",
+  "description": "Structural risk telemetry for crypto markets, classifying regimes as bounded, active, or unstable with stability half-life predictions.",
+  "source_repo": "98lukehall/renoun-mcp",
+  "source_url": "https://github.com/98lukehall/renoun-mcp",
+  "install": "npx -y renoun-mcp"
+}

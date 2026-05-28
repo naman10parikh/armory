@@ -1,0 +1,7 @@
+{
+  "name": "steam-review-mcp",
+  "description": "Steam Review Mcp MCP server listed on mcp.so.",
+  "source_repo": "fenxer/steam-review-mcp",
+  "source_url": "https://mcp.so/server/steam-review-mcp/fenxer",
+  "install": "npx -y steam-review-mcp"
+}

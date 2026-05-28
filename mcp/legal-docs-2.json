@@ -1,0 +1,7 @@
+{
+  "name": "legal-docs-2",
+  "description": "legal-docs",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/ebenova/legal-docs",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/ebenova/legal-docs\n# See source for mcpServers config block"
+}

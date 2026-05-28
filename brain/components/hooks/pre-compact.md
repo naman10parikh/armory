@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [memory-persistence-bundle, post-bash-dispatcher]
-tags: [ecc, hook, PreCompact]
+tags: [hook, PreCompact]
 ---
 ## What it is
 PreCompact hook: Save state before context compaction (matcher: *).

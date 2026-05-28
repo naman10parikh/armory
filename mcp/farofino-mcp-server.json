@@ -1,0 +1,7 @@
+{
+  "name": "farofino-mcp-server",
+  "description": "Enables smart contract security auditing using Slither, Aderyn, and custom pattern analysis through the Model Context Protocol, allowing AI assistants to run static analysis and vulnerability checks on Solidity and Vyper contracts.",
+  "source_repo": "italoag/farofino-mcp",
+  "source_url": "https://github.com/italoag/farofino-mcp",
+  "install": "npx -y farofino-mcp"
+}

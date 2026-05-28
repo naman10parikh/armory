@@ -1,0 +1,7 @@
+{
+  "name": "ronantakizawa-social-video",
+  "description": "Plays YouTube and TikTok videos through a local mpv player with full playback control, account browsing, smart recommendations, and cookie-based authentication.",
+  "source_repo": "ronantakizawa/social-video-mcp",
+  "source_url": "https://github.com/ronantakizawa/social-video-mcp",
+  "install": "npx -y social-video-mcp"
+}

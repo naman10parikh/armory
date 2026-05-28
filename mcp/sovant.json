@@ -1,0 +1,7 @@
+{
+  "name": "sovant",
+  "description": "Persistent project memory through governed memory layer with git integration and semantic search.",
+  "source_repo": "sovant-ai/sovant-claude-code-mcp",
+  "source_url": "https://github.com/sovant-ai/sovant-claude-code-mcp",
+  "install": "npx -y sovant-claude-code-mcp"
+}

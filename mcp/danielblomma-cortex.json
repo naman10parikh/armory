@@ -1,0 +1,7 @@
+{
+  "name": "danielblomma-cortex",
+  "description": "Local repo context platform for coding assistants with semantic search and graph relationships.",
+  "source_repo": "danielblomma/cortex",
+  "source_url": "https://github.com/danielblomma/cortex",
+  "install": "# git clone --depth 1 https://github.com/danielblomma/cortex\n# See source for mcpServers config block"
+}

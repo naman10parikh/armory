@@ -1,0 +1,7 @@
+{
+  "name": "wlixi008-byte-autocad",
+  "description": "Control AutoCAD through COM automation for architectural design workflows",
+  "source_repo": "wlixi008-byte/autocad-mcp",
+  "source_url": "https://github.com/wlixi008-byte/autocad-mcp",
+  "install": "npx -y autocad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-starling-bank",
+  "description": "View and control your Starling Bank account",
+  "source_repo": "domdomegg/starling-bank-mcp",
+  "source_url": "https://github.com/domdomegg/starling-bank-mcp",
+  "install": "npx -y starling-bank-mcp"
+}

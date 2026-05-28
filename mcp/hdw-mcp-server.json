@@ -1,0 +1,7 @@
+{
+  "name": "hdw-mcp-server",
+  "description": "Hdw Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "horizondatawave/hdw-mcp-server",
+  "source_url": "https://mcp.so/server/hdw-mcp-server/horizondatawave",
+  "install": "npx -y hdw-mcp-server"
+}

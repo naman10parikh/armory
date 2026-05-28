@@ -1,0 +1,7 @@
+{
+  "name": "tarkiin-sketchup",
+  "description": "Control SketchUp for AI-driven 3D modeling with 21 tools via an HTTP bridge to a SketchUp Ruby plugin.",
+  "source_repo": "tarkiin/sketchup-mcp",
+  "source_url": "https://github.com/tarkiin/sketchup-mcp",
+  "install": "npx -y sketchup-mcp"
+}

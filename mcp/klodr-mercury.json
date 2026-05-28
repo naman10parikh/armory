@@ -1,0 +1,7 @@
+{
+  "name": "klodr-mercury",
+  "description": "Mercury business banking MCP server with 34 tools for accounts, transactions, invoicing, and transfers.",
+  "source_repo": "klodr/mercury-invoicing-mcp",
+  "source_url": "https://github.com/klodr/mercury-invoicing-mcp",
+  "install": "npx -y mercury-invoicing-mcp"
+}

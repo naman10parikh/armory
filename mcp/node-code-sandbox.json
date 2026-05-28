@@ -1,0 +1,7 @@
+{
+  "name": "node-code-sandbox",
+  "description": "Provides a secure Docker-based environment for executing Node.js code with npm dependencies, shell commands, and file operations while maintaining proper isolation for testing and web development prototyping.",
+  "source_repo": "ssdeanx/node-code-sandbox-mcp",
+  "source_url": "https://github.com/ssdeanx/node-code-sandbox-mcp",
+  "install": "npx -y node-code-sandbox-mcp"
+}

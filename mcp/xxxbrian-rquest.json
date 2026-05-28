@@ -1,0 +1,7 @@
+{
+  "name": "xxxbrian-rquest",
+  "description": "Enables LLMs to make advanced HTTP requests with realistic browser emulation, bypassing anti-bot measures while supporting all HTTP methods, authentication, and automatic response handling for web scraping and API interactions.",
+  "source_repo": "xxxbrian/mcp-rquest",
+  "source_url": "https://github.com/xxxbrian/mcp-rquest",
+  "install": "# git clone --depth 1 https://github.com/xxxbrian/mcp-rquest\n# See source for mcpServers config block"
+}

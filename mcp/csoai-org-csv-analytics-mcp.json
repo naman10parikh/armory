@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-csv-analytics-mcp",
+  "description": "Analytics and statistical analysis tools for CSV data files.",
+  "source_repo": "csoai-org/csv-analytics-mcp",
+  "source_url": "https://github.com/csoai-org/csv-analytics-mcp",
+  "install": "npx -y csv-analytics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bossx429-agent-farm",
+  "description": "Parallel AI task execution system that spawns specialized AI agents with distinct roles to execute tasks concurrently.",
+  "source_repo": "bossx429/agent-farm",
+  "source_url": "https://github.com/bossx429/agent-farm",
+  "install": "# git clone --depth 1 https://github.com/bossx429/agent-farm\n# See source for mcpServers config block"
+}

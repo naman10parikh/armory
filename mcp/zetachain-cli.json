@@ -1,0 +1,7 @@
+{
+  "name": "zetachain-cli",
+  "description": "Integrates with ZetaChain's universal blockchain development tools to enable cross-chain account management, contract deployment, token operations, and transaction execution across multiple blockchain networks including EVM, Solana, Bitcoin, TON, and Sui.",
+  "source_repo": "zeta-chain/cli",
+  "source_url": "https://github.com/zeta-chain/cli",
+  "install": "# git clone --depth 1 https://github.com/zeta-chain/cli\n# See source for mcpServers config block"
+}

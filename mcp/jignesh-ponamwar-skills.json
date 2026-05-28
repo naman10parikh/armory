@@ -1,0 +1,7 @@
+{
+  "name": "jignesh-ponamwar-skills",
+  "description": "Self-hostable MCP server providing a semantically-searchable agent skills registry with progressive disclosure and security scanning.",
+  "source_repo": "jignesh-ponamwar/skills-mcp",
+  "source_url": "https://github.com/jignesh-ponamwar/skills-mcp",
+  "install": "npx -y skills-mcp"
+}

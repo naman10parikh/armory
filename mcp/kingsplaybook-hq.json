@@ -1,0 +1,7 @@
+{
+  "name": "kingsplaybook-hq",
+  "description": "Sports data for AI agents: NBA, MLB, and NHL lineups, projections, and betting lines.",
+  "source_repo": "kingplaybookhqadmin1/kingsplaybook-mcp",
+  "source_url": "https://github.com/kingplaybookhqadmin1/kingsplaybook-mcp",
+  "install": "npx -y kingsplaybook-mcp"
+}

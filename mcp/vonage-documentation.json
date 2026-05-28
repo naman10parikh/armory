@@ -1,0 +1,7 @@
+{
+  "name": "vonage-documentation",
+  "description": "Access Vonage API documentation, code snippets, tutorials, and troubleshooting resources.",
+  "source_repo": "vonage/vonage-mcp-server-documentation",
+  "source_url": "https://github.com/vonage/vonage-mcp-server-documentation",
+  "install": "# git clone --depth 1 https://github.com/vonage/vonage-mcp-server-documentation\n# See source for mcpServers config block"
+}

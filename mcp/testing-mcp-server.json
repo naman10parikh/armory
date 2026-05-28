@@ -1,0 +1,7 @@
+{
+  "name": "testing-mcp-server",
+  "description": "Testing Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "misbiheyv/testing-mcp-server",
+  "source_url": "https://mcp.so/server/testing-mcp-server/misbiheyv",
+  "install": "npx -y testing-mcp-server"
+}

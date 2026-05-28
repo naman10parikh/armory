@@ -1,0 +1,7 @@
+{
+  "name": "picsha-ai-mcp-server",
+  "description": "MCP server for Picsha AI platform enabling LLMs to search, upload, and manage digital assets through natural language, with secure local proxy and multi-tenant sandbox support.",
+  "source_repo": "picsha-ai/mcp-server",
+  "source_url": "https://github.com/picsha-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/picsha-ai/mcp-server\n# See source for mcpServers config block"
+}

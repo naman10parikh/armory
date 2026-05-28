@@ -1,0 +1,7 @@
+{
+  "name": "opaqueglass-siyuan-note-taking",
+  "description": "Integrates with SiYuan note-taking application to enable reading, writing, searching, and querying functionality directly within your knowledge management workflows.",
+  "source_repo": "opaqueglass/syplugin-anmcpserver",
+  "source_url": "https://github.com/opaqueglass/syplugin-anmcpserver",
+  "install": "# git clone --depth 1 https://github.com/opaqueglass/syplugin-anmcpserver\n# See source for mcpServers config block"
+}

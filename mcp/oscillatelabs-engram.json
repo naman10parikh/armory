@@ -1,0 +1,7 @@
+{
+  "name": "oscillatelabs-engram",
+  "description": "Event-sourced memory system with semantic vector search, DuckDB storage, multi-tenant groups, and temporal filtering.",
+  "source_repo": "oscillatelabsllc/engram",
+  "source_url": "https://github.com/oscillatelabsllc/engram",
+  "install": "# git clone --depth 1 https://github.com/oscillatelabsllc/engram\n# See source for mcpServers config block"
+}

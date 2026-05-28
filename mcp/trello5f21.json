@@ -1,0 +1,7 @@
+{
+  "name": "trello5f21",
+  "description": "Integrates with Trello to enable board, list, and card management with automatic rate limiting and input validation for seamless task tracking and organization",
+  "source_repo": "diegofornalha/mcp-server-trello",
+  "source_url": "https://github.com/diegofornalha/mcp-server-trello",
+  "install": "# git clone --depth 1 https://github.com/diegofornalha/mcp-server-trello\n# See source for mcpServers config block"
+}

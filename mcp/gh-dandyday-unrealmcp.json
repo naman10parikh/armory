@@ -1,0 +1,7 @@
+{
+  "name": "gh-dandyday-unrealmcp",
+  "description": "Control Unreal Engine 5.7 through a C++ plugin and Python bridge.",
+  "source_repo": "dandyday/unrealmcp",
+  "source_url": "https://github.com/dandyday/unrealmcp",
+  "install": "# git clone --depth 1 https://github.com/dandyday/unrealmcp\n# See source for mcpServers config block"
+}

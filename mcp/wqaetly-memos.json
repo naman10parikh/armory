@@ -1,0 +1,7 @@
+{
+  "name": "wqaetly-memos",
+  "description": "MCP server for MemOS local memory management, providing tools to add, search, delete, and manage memory entries and user profiles.",
+  "source_repo": "wqaetly/memos-api-mcp",
+  "source_url": "https://github.com/wqaetly/memos-api-mcp",
+  "install": "npx -y memos-api-mcp"
+}

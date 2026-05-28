@@ -1,0 +1,7 @@
+{
+  "name": "agent-ai-mcp-server",
+  "description": "An MCP server that integrates with the Agent.ai API to provide web text extraction, web screenshots, and YouTube transcript capabilities through a dynamic function loading system.",
+  "source_repo": "OnStartups/agentai-mcp-server",
+  "source_url": "https://github.com/OnStartups/agentai-mcp-server",
+  "install": "npx -y agentai-mcp-server"
+}

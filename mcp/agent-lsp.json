@@ -1,0 +1,7 @@
+{
+  "name": "agent-lsp",
+  "description": "Stateful LSP runtime for AI agents — 50+ tools across 30+ programming languages.",
+  "source_repo": "blackwell-systems/agent-lsp",
+  "source_url": "https://github.com/blackwell-systems/agent-lsp",
+  "install": "# git clone --depth 1 https://github.com/blackwell-systems/agent-lsp\n# See source for mcpServers config block"
+}

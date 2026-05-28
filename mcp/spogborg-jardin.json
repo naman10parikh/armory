@@ -1,0 +1,7 @@
+{
+  "name": "spogborg-jardin",
+  "description": "Personal garden management tool for tracking plants, logging observations, and scheduling care tasks with Apple Calendar and Reminders integration.",
+  "source_repo": "spogborg/jardin-mcp",
+  "source_url": "https://github.com/spogborg/jardin-mcp",
+  "install": "npx -y jardin-mcp"
+}

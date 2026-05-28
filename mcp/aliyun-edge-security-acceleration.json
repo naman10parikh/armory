@@ -1,0 +1,7 @@
+{
+  "name": "aliyun-edge-security-acceleration",
+  "description": "Provides a bridge to Alibaba Cloud's Edge Security Acceleration service for managing edge routines, deployments, routes, and sites through authenticated API operations.",
+  "source_repo": "aliyun/mcp-server-esa",
+  "source_url": "https://github.com/aliyun/mcp-server-esa",
+  "install": "# git clone --depth 1 https://github.com/aliyun/mcp-server-esa\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "edition-leadsclean",
+  "description": "Extracts structured B2B lead intelligence from company websites with buying signals, inferred needs, and personalized icebreaker lines.",
+  "source_repo": "edition/leadsclean",
+  "source_url": "https://github.com/edition/leadsclean",
+  "install": "# git clone --depth 1 https://github.com/edition/leadsclean\n# See source for mcpServers config block"
+}

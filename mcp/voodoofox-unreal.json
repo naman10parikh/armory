@@ -1,0 +1,7 @@
+{
+  "name": "voodoofox-unreal",
+  "description": "Controls Unreal Engine from AI assistants via a Python FastMCP server and C++ Unreal plugin with 100+ tools across 11 categories.",
+  "source_repo": "voodoofox/unreal-mcp",
+  "source_url": "https://github.com/voodoofox/unreal-mcp",
+  "install": "npx -y unreal-mcp"
+}

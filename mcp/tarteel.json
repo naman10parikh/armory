@@ -1,0 +1,7 @@
+{
+  "name": "tarteel",
+  "description": "Quran tools for translation, tafsir, mutashabihat analysis, recitation playlists, and prayer times.",
+  "source_repo": "",
+  "source_url": "https://mcp.tarteel.ai/docs/",
+  "install": "# git clone --depth 1 https://mcp.tarteel.ai/docs/\n# See source for mcpServers config block"
+}

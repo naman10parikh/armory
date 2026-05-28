@@ -1,0 +1,7 @@
+{
+  "name": "quickcontract-mcp",
+  "description": "Enables AI agents to sign contracts, release escrow, query portfolios, and verify on-chain proofs via QuickContract.",
+  "source_repo": "QuickContractIO/mcp",
+  "source_url": "https://github.com/QuickContractIO/mcp",
+  "install": "# git clone --depth 1 https://github.com/QuickContractIO/mcp\n# See source for mcpServers config block"
+}

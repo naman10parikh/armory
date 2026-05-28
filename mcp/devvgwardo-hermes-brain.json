@@ -1,0 +1,7 @@
+{
+  "name": "devvgwardo-hermes-brain",
+  "description": "Multi-agent orchestration MCP server with 30+ tools across 9 categories and shared SQLite database for agent coordination.",
+  "source_repo": "devvgwardo/brain-mcp",
+  "source_url": "https://github.com/devvgwardo/brain-mcp",
+  "install": "npx -y brain-mcp"
+}

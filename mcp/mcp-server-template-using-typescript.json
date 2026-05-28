@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-template-using-typescript",
+  "description": "MCP Server Template Using Typescript MCP server listed on mcp.so.",
+  "source_repo": "duyquangnvx/MCP-Server-Template-using-Typescript",
+  "source_url": "https://mcp.so/server/MCP-Server-Template-using-Typescript/duyquangnvx",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Server-Template-using-Typescript/duyquangnvx\n# See source for mcpServers config block"
+}

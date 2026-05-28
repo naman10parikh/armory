@@ -1,0 +1,7 @@
+{
+  "name": "timkulbaev-mcp-linkedin",
+  "description": "LinkedIn publishing, commenting, and reacting via Unipile API. Dry-run by default, SKILL.md included, CLI-first design for AI automation workflows.",
+  "source_repo": "timkulbaev/mcp-linkedin",
+  "source_url": "https://github.com/timkulbaev/mcp-linkedin",
+  "install": "# git clone --depth 1 https://github.com/timkulbaev/mcp-linkedin\n# See source for mcpServers config block"
+}

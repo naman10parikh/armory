@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-marketing-analytics-ai-mcp",
+  "description": "Python MCP server for marketing analytics and campaign performance tools.",
+  "source_repo": "csoai-org/marketing-analytics-ai-mcp",
+  "source_url": "https://github.com/csoai-org/marketing-analytics-ai-mcp",
+  "install": "npx -y marketing-analytics-ai-mcp"
+}

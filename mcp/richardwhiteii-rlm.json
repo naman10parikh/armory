@@ -1,0 +1,7 @@
+{
+  "name": "richardwhiteii-rlm",
+  "description": "Handles massive contexts exceeding token limits by chunking content strategically, enabling recursive sub-queries with tool access and parallel processing for analyzing large codebases, documents, or datasets.",
+  "source_repo": "richardwhiteii/rlm",
+  "source_url": "https://github.com/richardwhiteii/rlm",
+  "install": "# git clone --depth 1 https://github.com/richardwhiteii/rlm\n# See source for mcpServers config block"
+}

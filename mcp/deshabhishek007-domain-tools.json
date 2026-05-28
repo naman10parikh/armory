@@ -1,0 +1,7 @@
+{
+  "name": "deshabhishek007-domain-tools",
+  "description": "Provides domain analysis capabilities through WHOIS lookups, DNS record queries, health checks, and comprehensive domain validation for system administration, security analysis, and web development troubleshooting.",
+  "source_repo": "deshabhishek007/domain-tools-mcp-server",
+  "source_url": "https://github.com/deshabhishek007/domain-tools-mcp-server",
+  "install": "npx -y domain-tools-mcp-server"
+}

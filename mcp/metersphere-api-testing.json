@@ -1,0 +1,7 @@
+{
+  "name": "metersphere-api-testing",
+  "description": "Bridges AI systems with MeterSphere's testing platform, enabling natural language control of API testing, debugging, and documentation generation without leaving conversation context.",
+  "source_repo": "metersphere/metersphere-mcp-server",
+  "source_url": "https://github.com/metersphere/metersphere-mcp-server",
+  "install": "npx -y metersphere-mcp-server"
+}

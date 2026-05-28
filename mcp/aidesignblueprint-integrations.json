@@ -1,0 +1,7 @@
+{
+  "name": "aidesignblueprint-integrations",
+  "description": "Read-only doctrine access for the Agentic AI Blueprint — the industry standard reference for safe, observable, and steerable AI agent UX. Browse and search 10 principles, clusters, curated implementation examples, and application guides for production agentic AI systems. 13 public tools require no credentials. `https://aidesignblueprint.com/mcp`",
+  "source_repo": "aidesignblueprint/integrations",
+  "source_url": "https://github.com/aidesignblueprint/integrations",
+  "install": "# git clone --depth 1 https://github.com/aidesignblueprint/integrations\n# See source for mcpServers config block"
+}

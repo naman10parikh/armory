@@ -1,0 +1,7 @@
+{
+  "name": "ayeletstudioindia-unreal-analyzer",
+  "description": "Analyzes Unreal Engine codebases, enabling deep insights into class hierarchies, subsystems, and game patterns.",
+  "source_repo": "ayeletstudioindia/unreal-analyzer-mcp",
+  "source_url": "https://github.com/ayeletstudioindia/unreal-analyzer-mcp",
+  "install": "npx -y unreal-analyzer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "turlockmike-rand",
+  "description": "Provides diverse random generation utilities including UUIDs, numbers, strings, passwords, and more.",
+  "source_repo": "turlockmike/mcp-rand",
+  "source_url": "https://github.com/turlockmike/mcp-rand",
+  "install": "# git clone --depth 1 https://github.com/turlockmike/mcp-rand\n# See source for mcpServers config block"
+}

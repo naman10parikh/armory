@@ -1,0 +1,7 @@
+{
+  "name": "vivekvells-mcp-pandoc",
+  "description": "Document format conversion using Pandoc, enabling transformation of content between PDF, HTML, Markdown, .docx, .rst, .epuc, .latex, and more.",
+  "source_repo": "vivekvells/mcp-pandoc",
+  "source_url": "https://github.com/vivekvells/mcp-pandoc",
+  "install": "# git clone --depth 1 https://github.com/vivekvells/mcp-pandoc\n# See source for mcpServers config block"
+}

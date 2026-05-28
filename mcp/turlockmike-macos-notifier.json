@@ -1,0 +1,7 @@
+{
+  "name": "turlockmike-macos-notifier",
+  "description": "Enables interaction with macOS notifications and system dialogs for desktop alerts, user input, and system operations.",
+  "source_repo": "turlockmike/apple-notifier-mcp",
+  "source_url": "https://github.com/turlockmike/apple-notifier-mcp",
+  "install": "npx -y apple-notifier-mcp"
+}

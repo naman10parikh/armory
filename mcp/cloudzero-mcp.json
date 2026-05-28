@@ -1,0 +1,7 @@
+{
+  "name": "cloudzero-mcp",
+  "description": "Cloudzero Mcp MCP server listed on mcp.so.",
+  "source_repo": "burkestar/cloudzero-mcp",
+  "source_url": "https://mcp.so/server/cloudzero-mcp/burkestar",
+  "install": "npx -y cloudzero-mcp"
+}

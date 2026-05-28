@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-nearby-search",
+  "description": "Integrates with Google Places API to provide location-based place discovery using IP-based detection, enabling users to find nearby businesses, restaurants, or services without manually entering coordinates.",
+  "source_repo": "kukapay/nearby-search-mcp",
+  "source_url": "https://github.com/kukapay/nearby-search-mcp",
+  "install": "npx -y nearby-search-mcp"
+}

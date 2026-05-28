@@ -1,0 +1,7 @@
+{
+  "name": "jameskanyiri-daraja-mpesa",
+  "description": "Enables AI systems to initiate and process M-Pesa mobile payment transactions through the Safaricom Daraja API, allowing users to authorize payments directly from conversations.",
+  "source_repo": "jameskanyiri/darajamcp",
+  "source_url": "https://github.com/jameskanyiri/darajamcp",
+  "install": "# git clone --depth 1 https://github.com/jameskanyiri/darajamcp\n# See source for mcpServers config block"
+}

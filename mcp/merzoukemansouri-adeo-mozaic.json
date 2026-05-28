@@ -1,0 +1,7 @@
+{
+  "name": "merzoukemansouri-adeo-mozaic",
+  "description": "Searchable database of ADEO's Mozaic Design System enabling component discovery, token retrieval in multiple formats, and framework-specific code generation.",
+  "source_repo": "merzoukemansouri/adeo-mozaic-mcp",
+  "source_url": "https://github.com/merzoukemansouri/adeo-mozaic-mcp",
+  "install": "npx -y adeo-mozaic-mcp"
+}

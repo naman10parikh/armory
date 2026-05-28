@@ -1,0 +1,7 @@
+{
+  "name": "grll-pubmed",
+  "description": "Integrates PubMed data for searching and fetching biomedical literature, enabling dynamic querying and analysis of scientific information.",
+  "source_repo": "grll/pubmedmcp",
+  "source_url": "https://github.com/grll/pubmedmcp",
+  "install": "# git clone --depth 1 https://github.com/grll/pubmedmcp\n# See source for mcpServers config block"
+}

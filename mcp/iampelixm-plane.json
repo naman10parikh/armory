@@ -1,0 +1,7 @@
+{
+  "name": "iampelixm-plane",
+  "description": "MCP server for syncing and managing issues with the Plane project management platform.",
+  "source_repo": "iampelixm/plane-io-mcp",
+  "source_url": "https://github.com/iampelixm/plane-io-mcp",
+  "install": "npx -y plane-io-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "techmanual",
+  "description": "Search technical manuals for T&M, industrial automation, and power electronics equipment via AI agents.",
+  "source_repo": "techmanual-ai/techmanual.ai",
+  "source_url": "https://github.com/techmanual-ai/techmanual.ai",
+  "install": "# git clone --depth 1 https://github.com/techmanual-ai/techmanual.ai\n# See source for mcpServers config block"
+}

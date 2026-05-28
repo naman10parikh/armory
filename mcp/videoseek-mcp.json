@@ -1,0 +1,7 @@
+{
+  "name": "videoseek-mcp",
+  "description": "Enables AI agents to semantically search, ask questions about, and analyze videos, with persistent memory and social media import capabilities.",
+  "source_repo": "kennyzheng-builds/videoseek-mcp",
+  "source_url": "https://github.com/kennyzheng-builds/videoseek-mcp",
+  "install": "npx -y videoseek-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aidevboard",
+  "description": "Specialized job board for AI and machine learning engineers with 5,000+ curated roles.",
+  "source_repo": "",
+  "source_url": "https://aidevboard.com",
+  "install": "# git clone --depth 1 https://aidevboard.com\n# See source for mcpServers config block"
+}

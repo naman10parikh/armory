@@ -1,0 +1,7 @@
+{
+  "name": "bns-mcp-server",
+  "description": "Bns Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aminalali8/bns-mcp-server",
+  "source_url": "https://mcp.so/server/bns-mcp-server/aminalali8",
+  "install": "npx -y bns-mcp-server"
+}

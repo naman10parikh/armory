@@ -1,0 +1,7 @@
+{
+  "name": "damientilman-mailchimp-mcp-server",
+  "description": "Mailchimp Marketing API integration with 53 tools for managing campaigns, audiences, reports, automations, landing pages, e-commerce data, and batch operations.",
+  "source_repo": "damientilman/mailchimp-mcp-server",
+  "source_url": "https://github.com/damientilman/mailchimp-mcp-server",
+  "install": "npx -y mailchimp-mcp-server"
+}

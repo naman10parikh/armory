@@ -1,0 +1,7 @@
+{
+  "name": "mcp-figma",
+  "description": "Mcp Figma MCP server listed on mcp.so.",
+  "source_repo": "JayArrowz/mcp-figma",
+  "source_url": "https://mcp.so/server/mcp-figma/JayArrowz",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-figma/JayArrowz\n# See source for mcpServers config block"
+}

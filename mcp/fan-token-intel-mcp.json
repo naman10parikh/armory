@@ -1,0 +1,7 @@
+{
+  "name": "fan-token-intel-mcp",
+  "description": "67+ tools for fan token intelligence: whale flows, signal scores, sports calendar, backtesting, DEX trading, social sentiment. SSE transport with Bearer auth.",
+  "source_repo": "BrunoPessoa22/chiliz-marketing-intel",
+  "source_url": "https://github.com/BrunoPessoa22/chiliz-marketing-intel",
+  "install": "# git clone --depth 1 https://github.com/BrunoPessoa22/chiliz-marketing-intel\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-clarity-analytics",
+  "description": "Enables AI to fetch and analyze Microsoft Clarity website analytics data including metrics like scroll depth, engagement time, and traffic with filtering by browser, device, and country.",
+  "source_repo": "microsoft/clarity-mcp-server",
+  "source_url": "https://github.com/microsoft/clarity-mcp-server",
+  "install": "npx -y clarity-mcp-server"
+}

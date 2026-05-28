@@ -1,0 +1,7 @@
+{
+  "name": "cdata-ebay-jdbc",
+  "description": "Provides access to eBay data through JDBC connections, enabling SQL queries for data discovery, metadata retrieval, and complex analysis operations across any JDBC-compliant database backend.",
+  "source_repo": "cdatasoftware/ebay-mcp-server-by-cdata",
+  "source_url": "https://github.com/cdatasoftware/ebay-mcp-server-by-cdata",
+  "install": "# git clone --depth 1 https://github.com/cdatasoftware/ebay-mcp-server-by-cdata\n# See source for mcpServers config block"
+}

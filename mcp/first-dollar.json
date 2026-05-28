@@ -1,0 +1,7 @@
+{
+  "name": "first-dollar",
+  "description": "A curriculum that teaches AI agents how to spend their own money. Sixteen lessons from \"what is a wallet\" to your first x402 purchase. Teacher, not butler — never signs, pays, or holds keys.",
+  "source_repo": "lisamaraventano-spine/firstdollar",
+  "source_url": "https://github.com/lisamaraventano-spine/firstdollar",
+  "install": "# git clone --depth 1 https://github.com/lisamaraventano-spine/firstdollar\n# See source for mcpServers config block"
+}

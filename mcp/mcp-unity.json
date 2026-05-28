@@ -1,0 +1,7 @@
+{
+  "name": "mcp-unity",
+  "description": "Mcp Unity MCP server listed on mcp.so.",
+  "source_repo": "CoderGamester/mcp-unity",
+  "source_url": "https://mcp.so/server/mcp-unity/CoderGamester",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-unity/CoderGamester\n# See source for mcpServers config block"
+}

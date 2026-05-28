@@ -1,0 +1,7 @@
+{
+  "name": "rebots-online-hkg-ontologizer",
+  "description": "Transforms text content and web URLs into structured knowledge graphs using entity extraction and relationship mapping, with support for multiple file formats, real-time visualization, and persistent storage in Neo4j and Qdrant databases.",
+  "source_repo": "rebots-online/hkg-ontologizer-kgb-mcp",
+  "source_url": "https://github.com/rebots-online/hkg-ontologizer-kgb-mcp",
+  "install": "npx -y hkg-ontologizer-kgb-mcp"
+}

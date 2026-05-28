@@ -1,0 +1,7 @@
+{
+  "name": "firas-mcp-servers-k8s-lens",
+  "description": "Natural-language Kubernetes operations across single or multi-cluster environments via MCP.",
+  "source_repo": "firas-mcp-servers/k8s-lens-mcp",
+  "source_url": "https://github.com/firas-mcp-servers/k8s-lens-mcp",
+  "install": "npx -y k8s-lens-mcp"
+}

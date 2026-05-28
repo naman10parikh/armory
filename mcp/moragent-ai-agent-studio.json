@@ -1,0 +1,7 @@
+{
+  "name": "moragent-ai-agent-studio",
+  "description": "Turns Claude Code into an AI Agent Studio with a guided menu and 11 tools to design, create, and manage multi-agent projects without coding.",
+  "source_repo": "EduardoMoraga/moragent",
+  "source_url": "https://github.com/EduardoMoraga/moragent",
+  "install": "# git clone --depth 1 https://github.com/EduardoMoraga/moragent\n# See source for mcpServers config block"
+}

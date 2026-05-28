@@ -1,0 +1,7 @@
+{
+  "name": "outlook-universal-mcp-server",
+  "description": "Enables interaction with Microsoft Outlook through a unified API, supporting tools for email, calendar, and contacts management via natural language.",
+  "source_repo": "universal-mcp/outlook",
+  "source_url": "https://github.com/universal-mcp/outlook",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/outlook\n# See source for mcpServers config block"
+}

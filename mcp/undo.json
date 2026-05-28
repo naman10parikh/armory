@@ -1,0 +1,7 @@
+{
+  "name": "undo",
+  "description": "Provides checkpoint-based version control with intelligent undo functionality that tracks file changes, creates restoration points before modifications, and enables precise rollback of changes or removal of newly created files through automated deduplication.",
+  "source_repo": "khalilbalaree/rewind-mcp",
+  "source_url": "https://github.com/khalilbalaree/rewind-mcp",
+  "install": "npx -y rewind-mcp"
+}

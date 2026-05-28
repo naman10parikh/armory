@@ -1,0 +1,7 @@
+{
+  "name": "gupta-kush-spotify-mcp",
+  "description": "93-tool Spotify server with smart shuffle, natural language song search, vibe analysis, artist network mapping, taste evolution, and playlist power tools. Works after Spotify's Feb 2026 API changes.",
+  "source_repo": "gupta-kush/spotify-mcp",
+  "source_url": "https://github.com/gupta-kush/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

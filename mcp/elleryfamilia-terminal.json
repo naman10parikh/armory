@@ -1,0 +1,7 @@
+{
+  "name": "elleryfamilia-terminal",
+  "description": "Provides direct access to a headless terminal emulator with tools for typing text, sending special keys, reading output, and capturing terminal state for interactive command-line operations and system administration.",
+  "source_repo": "elleryfamilia/terminal-mcp",
+  "source_url": "https://github.com/elleryfamilia/terminal-mcp",
+  "install": "npx -y terminal-mcp"
+}

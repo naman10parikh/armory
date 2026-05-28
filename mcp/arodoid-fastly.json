@@ -1,0 +1,7 @@
+{
+  "name": "arodoid-fastly",
+  "description": "Enables management of Fastly CDN services through authenticated API requests and CLI commands for DevOps teams using natural language interactions.",
+  "source_repo": "jackwrichards/fastlymcp",
+  "source_url": "https://github.com/jackwrichards/fastlymcp",
+  "install": "# git clone --depth 1 https://github.com/jackwrichards/fastlymcp\n# See source for mcpServers config block"
+}

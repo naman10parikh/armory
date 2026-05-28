@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-computer-use",
+  "description": "Control your computer with screenshots, mouse, and keyboard automation",
+  "source_repo": "domdomegg/computer-use-mcp",
+  "source_url": "https://github.com/domdomegg/computer-use-mcp",
+  "install": "npx -y computer-use-mcp"
+}

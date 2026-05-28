@@ -1,0 +1,7 @@
+{
+  "name": "casper0301-meta-ads",
+  "description": "Read-only access to Meta/Facebook Ads data including spend, campaigns, ROAS, and daily metrics.",
+  "source_repo": "casper0301/meta-ads-mcp-free",
+  "source_url": "https://github.com/casper0301/meta-ads-mcp-free",
+  "install": "# git clone --depth 1 https://github.com/casper0301/meta-ads-mcp-free\n# See source for mcpServers config block"
+}

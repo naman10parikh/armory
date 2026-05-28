@@ -1,0 +1,7 @@
+{
+  "name": "mukundakatta-agentguard",
+  "description": "Network-egress firewall for AI agents that evaluates URLs against security policies before requests.",
+  "source_repo": "mukundakatta/agentguard-mcp",
+  "source_url": "https://github.com/mukundakatta/agentguard-mcp",
+  "install": "npx -y agentguard-mcp"
+}

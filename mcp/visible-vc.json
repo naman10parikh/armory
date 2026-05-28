@@ -1,0 +1,7 @@
+{
+  "name": "visible-vc",
+  "description": "Provides structured access to your Visible.vc data, enabling AI-agents and automated workflows to query, analyze and act on portfolio information directly.",
+  "source_repo": "",
+  "source_url": "https://visible.vc/ai-mcp-server/",
+  "install": "# git clone --depth 1 https://visible.vc/ai-mcp-server/\n# See source for mcpServers config block"
+}

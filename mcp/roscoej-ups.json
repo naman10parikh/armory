@@ -1,0 +1,7 @@
+{
+  "name": "roscoej-ups",
+  "description": "Unofficial MCP server for UPS shipping and logistics APIs, supporting shipment creation, tracking, rate quotes, address validation, and pickup scheduling.",
+  "source_repo": "roscoej/ups-mcp",
+  "source_url": "https://github.com/roscoej/ups-mcp",
+  "install": "npx -y ups-mcp"
+}

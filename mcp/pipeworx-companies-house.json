@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-companies-house",
+  "description": "Query UK company registration data from the Companies House official registry.",
+  "source_repo": "pipeworx-io/mcp-companies-house",
+  "source_url": "https://github.com/pipeworx-io/mcp-companies-house",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-companies-house\n# See source for mcpServers config block"
+}

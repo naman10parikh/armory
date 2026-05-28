@@ -1,0 +1,7 @@
+{
+  "name": "apimesh",
+  "description": "20 x402-payable API tools for web analysis including vitals, SEO, security, and email verification.",
+  "source_repo": "mbeato/apimesh",
+  "source_url": "https://github.com/mbeato/apimesh/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/mbeato/apimesh/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

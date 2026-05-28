@@ -1,0 +1,7 @@
+{
+  "name": "estruyf-demo-time",
+  "description": "Interact with Demo Time documentation and automate presentation demos",
+  "source_repo": "estruyf/vscode-demo-time",
+  "source_url": "https://github.com/estruyf/vscode-demo-time",
+  "install": "# git clone --depth 1 https://github.com/estruyf/vscode-demo-time\n# See source for mcpServers config block"
+}

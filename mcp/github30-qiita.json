@@ -1,0 +1,7 @@
+{
+  "name": "github30-qiita",
+  "description": "Publish articles to Qiita, Japan's largest technical knowledge sharing platform",
+  "source_repo": "github30/qiita-mcp-server",
+  "source_url": "https://github.com/github30/qiita-mcp-server",
+  "install": "npx -y qiita-mcp-server"
+}

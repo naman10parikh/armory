@@ -1,0 +1,7 @@
+{
+  "name": "bmccarn-garmin-connect",
+  "description": "Garmin Connect health and fitness data access with 34 tools.",
+  "source_repo": "bmccarn/garmin-mcp-server",
+  "source_url": "https://github.com/bmccarn/garmin-mcp-server",
+  "install": "npx -y garmin-mcp-server"
+}

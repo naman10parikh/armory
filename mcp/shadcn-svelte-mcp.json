@@ -1,0 +1,7 @@
+{
+  "name": "shadcn-svelte-mcp",
+  "description": "Provides real-time access to shadcn-svelte component documentation and developer utilities using web scraping.",
+  "source_repo": "Michael-Obele/shadcn-svelte-mcp",
+  "source_url": "https://github.com/Michael-Obele/shadcn-svelte-mcp",
+  "install": "npx -y shadcn-svelte-mcp"
+}

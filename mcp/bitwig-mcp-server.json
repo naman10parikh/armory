@@ -1,0 +1,7 @@
+{
+  "name": "bitwig-mcp-server",
+  "description": "An MCP server that enables AI-powered music production by allowing Claude to control Bitwig Studio, including transport, mixer, and device controls.",
+  "source_repo": "WeModulate/bitwig-mcp-server",
+  "source_url": "https://github.com/WeModulate/bitwig-mcp-server",
+  "install": "npx -y bitwig-mcp-server"
+}

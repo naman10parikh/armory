@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-revit-python",
+  "description": "Enables Large Language Models to access and manipulate Autodesk Revit models through a pyRevit-based bridge and the Model Context Protocol.",
+  "source_repo": "mcp-servers-for-revit/mcp-server-for-revit-python",
+  "source_url": "https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python",
+  "install": "# git clone --depth 1 https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python\n# See source for mcpServers config block"
+}

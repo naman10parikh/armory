@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-latex-mcp",
+  "description": "An MCP server that enables MCP clients to directly access and process arXiv papers by fetching the LaTeX source, improving mathematical content understanding.",
+  "source_repo": "takashiishida/arxiv-latex-mcp",
+  "source_url": "https://github.com/takashiishida/arxiv-latex-mcp",
+  "install": "npx -y arxiv-latex-mcp"
+}

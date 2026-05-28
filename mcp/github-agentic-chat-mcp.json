@@ -1,0 +1,7 @@
+{
+  "name": "github-agentic-chat-mcp",
+  "description": "Github Agentic Chat Mcp MCP server listed on mcp.so.",
+  "source_repo": "akhidasTech/github-agentic-chat-mcp",
+  "source_url": "https://mcp.so/server/github-agentic-chat-mcp/akhidasTech",
+  "install": "npx -y github-agentic-chat-mcp"
+}

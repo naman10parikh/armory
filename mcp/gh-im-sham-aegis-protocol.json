@@ -1,0 +1,7 @@
+{
+  "name": "gh-im-sham-aegis-protocol",
+  "description": "Trustless escrow for AI agent-to-agent transactions on Base L2 with USDC.",
+  "source_repo": "im-sham/aegis-protocol",
+  "source_url": "https://github.com/im-sham/aegis-protocol",
+  "install": "# git clone --depth 1 https://github.com/im-sham/aegis-protocol\n# See source for mcpServers config block"
+}

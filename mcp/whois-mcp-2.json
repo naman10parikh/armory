@@ -1,0 +1,7 @@
+{
+  "name": "whois-mcp-2",
+  "description": "Whois Mcp MCP server listed on mcp.so.",
+  "source_repo": "modelcontextprotocol-servers/whois-mcp",
+  "source_url": "https://mcp.so/server/whois-mcp/modelcontextprotocol-servers",
+  "install": "npx -y whois-mcp"
+}

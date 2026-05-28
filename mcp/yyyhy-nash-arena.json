@@ -1,0 +1,7 @@
+{
+  "name": "yyyhy-nash-arena",
+  "description": "A Chess and Card Game Arena For LLM, Agents can battle in game by mcp",
+  "source_repo": "yyyhy/nash-arena",
+  "source_url": "https://github.com/yyyhy/nash-arena",
+  "install": "# git clone --depth 1 https://github.com/yyyhy/nash-arena\n# See source for mcpServers config block"
+}

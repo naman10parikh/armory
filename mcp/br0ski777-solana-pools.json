@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-solana-pools",
+  "description": "Solana DEX pool liquidity depth analysis — TVL, slippage, volume across Raydium, Orca, and Meteora.",
+  "source_repo": "br0ski777/solana-pools-x402",
+  "source_url": "https://github.com/br0ski777/solana-pools-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/solana-pools-x402\n# See source for mcpServers config block"
+}

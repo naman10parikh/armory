@@ -1,0 +1,7 @@
+{
+  "name": "kartik-2239-pokemon-nds-desmume",
+  "description": "Controls Nintendo DS emulation through DeSmuME, enabling button presses, touchscreen input, screenshot capture, save state management, and persistent memory tracking for automated gameplay.",
+  "source_repo": "kartik-2239/pokemon-nds-mcp",
+  "source_url": "https://github.com/kartik-2239/pokemon-nds-mcp",
+  "install": "npx -y pokemon-nds-mcp"
+}

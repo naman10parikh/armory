@@ -1,0 +1,7 @@
+{
+  "name": "vilin97-axle-lean-engine",
+  "description": "Wraps the AXLE (Axiom Lean Engine) CLI for Lean 4 proof checking, repair, simplification, counterexample finding, and code transformation.",
+  "source_repo": "vilin97/axle-mcp",
+  "source_url": "https://github.com/vilin97/axle-mcp",
+  "install": "npx -y axle-mcp"
+}

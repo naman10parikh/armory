@@ -1,0 +1,7 @@
+{
+  "name": "nefesh-human-state",
+  "description": "Real-time human physiological state awareness through multi-signal fusion for AI behavior adaptation.",
+  "source_repo": "nefesh-ai/nefesh-mcp-server",
+  "source_url": "https://github.com/nefesh-ai/nefesh-mcp-server",
+  "install": "npx -y nefesh-mcp-server"
+}

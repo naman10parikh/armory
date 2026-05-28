@@ -1,0 +1,7 @@
+{
+  "name": "dahlia-ko-stdict",
+  "description": "Provides Korean Standard Dictionary lookup from the National Institute of the Korean Language via SQLite-backed search.",
+  "source_repo": "dahlia/ko-stdict-mcp",
+  "source_url": "https://github.com/dahlia/ko-stdict-mcp",
+  "install": "npx -y ko-stdict-mcp"
+}

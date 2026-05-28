@@ -1,0 +1,7 @@
+{
+  "name": "1yhy-ali-oss",
+  "description": "Provides a bridge between AI systems and Ali OSS cloud storage, enabling file upload, download, listing, and management operations through a RESTful API.",
+  "source_repo": "1yhy/oss-mcp",
+  "source_url": "https://github.com/1yhy/oss-mcp",
+  "install": "npx -y oss-mcp"
+}

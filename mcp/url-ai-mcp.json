@@ -1,0 +1,7 @@
+{
+  "name": "url-ai-mcp",
+  "description": "Provides URL parsing and analysis tools, including component parsing, deterministic hash generation, heuristic safety checks, and metadata extraction, all without external HTTP requests.",
+  "source_repo": "CSOAI-ORG/url-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/url-ai-mcp",
+  "install": "npx -y url-ai-mcp"
+}

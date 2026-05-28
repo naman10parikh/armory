@@ -1,0 +1,7 @@
+{
+  "name": "mcp-odoo",
+  "description": "Mcp Odoo MCP server listed on mcp.so.",
+  "source_repo": "tuanle96/mcp-odoo",
+  "source_url": "https://mcp.so/server/mcp-odoo/tuanle96",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-odoo/tuanle96\n# See source for mcpServers config block"
+}

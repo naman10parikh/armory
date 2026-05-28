@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-xcode",
+  "description": "Integrates with Xcode to streamline iOS development workflows, automate build processes, and facilitate code generation for efficient app creation.",
+  "source_repo": "r-huijts/xcode-mcp-server",
+  "source_url": "https://github.com/r-huijts/xcode-mcp-server",
+  "install": "npx -y xcode-mcp-server"
+}

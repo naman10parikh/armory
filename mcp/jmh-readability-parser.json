@@ -1,0 +1,7 @@
+{
+  "name": "jmh-readability-parser",
+  "description": "Extracts and transforms webpage content into clean, LLM-optimized Markdown by removing non-essential elements while preserving key metadata.",
+  "source_repo": "jmh108/mcp-server-readability-python",
+  "source_url": "https://github.com/jmh108/mcp-server-readability-python",
+  "install": "# git clone --depth 1 https://github.com/jmh108/mcp-server-readability-python\n# See source for mcpServers config block"
+}

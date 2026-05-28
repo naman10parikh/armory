@@ -1,0 +1,7 @@
+{
+  "name": "dhebp-dero",
+  "description": "MCP interface for the DERO privacy blockchain — accounts, transactions, and smart contracts.",
+  "source_repo": "dhebp/dero-mcp-server",
+  "source_url": "https://github.com/dhebp/dero-mcp-server",
+  "install": "npx -y dero-mcp-server"
+}

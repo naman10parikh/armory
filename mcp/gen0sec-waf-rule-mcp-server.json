@@ -1,0 +1,7 @@
+{
+  "name": "gen0sec-waf-rule-mcp-server",
+  "description": "Enables an LLM to author, validate, and test Wirefilter WAF and Smart Firewall rules using live schema and real CVE exploit templates.",
+  "source_repo": "gen0sec/mcp-server",
+  "source_url": "https://github.com/gen0sec/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/gen0sec/mcp-server\n# See source for mcpServers config block"
+}

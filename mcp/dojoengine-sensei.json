@@ -1,0 +1,7 @@
+{
+  "name": "dojoengine-sensei",
+  "description": "Provides specialized guidance for Starknet ecosystem development with Cairo programming and Entity Component System (ECS) framework expertise through TypeScript-based tools for Dojo developers building onchain games and applications.",
+  "source_repo": "dojoengine/sensei-mcp",
+  "source_url": "https://github.com/dojoengine/sensei-mcp",
+  "install": "npx -y sensei-mcp"
+}

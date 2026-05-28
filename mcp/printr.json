@@ -1,0 +1,7 @@
+{
+  "name": "printr",
+  "description": "Create, discover, and track tokens across multiple blockchains via the Printr cross-chain token platform.",
+  "source_repo": "printrfi/printr-mcp",
+  "source_url": "https://github.com/printrfi/printr-mcp",
+  "install": "npx -y printr-mcp"
+}

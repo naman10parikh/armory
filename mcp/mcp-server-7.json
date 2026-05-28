@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-7",
+  "description": "Knowledge Graph, GraphQL, GS1 Digital Link and SEO tools for semantic content optimization",
+  "source_repo": "wordlift/mcp-wordlift",
+  "source_url": "https://github.com/wordlift/mcp-wordlift",
+  "install": "# git clone --depth 1 https://github.com/wordlift/mcp-wordlift\n# See source for mcpServers config block"
+}

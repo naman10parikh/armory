@@ -1,0 +1,7 @@
+{
+  "name": "six-ben-axure-prototype-extractor",
+  "description": "Extracts visible text and images from public Axure share pages with multi-page crawling and OCR fallback.",
+  "source_repo": "six-ben/axure-mcp-server",
+  "source_url": "https://github.com/six-ben/axure-mcp-server",
+  "install": "npx -y axure-mcp-server"
+}

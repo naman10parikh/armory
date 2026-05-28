@@ -1,0 +1,7 @@
+{
+  "name": "connerlambden-bgpt",
+  "description": "Searches scientific papers with structured experimental data extracted from full-text studies.",
+  "source_repo": "connerlambden/bgpt-mcp",
+  "source_url": "https://github.com/connerlambden/bgpt-mcp",
+  "install": "npx -y bgpt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iqai-upbit",
+  "description": "Integrates with Upbit cryptocurrency exchange to provide real-time market data access and optional trading functionality with JWT authentication, order management, and configurable safety controls for Korean crypto markets.",
+  "source_repo": "iqaicom/mcp-upbit",
+  "source_url": "https://github.com/iqaicom/mcp-upbit",
+  "install": "# git clone --depth 1 https://github.com/iqaicom/mcp-upbit\n# See source for mcpServers config block"
+}

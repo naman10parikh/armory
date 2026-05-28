@@ -1,0 +1,7 @@
+{
+  "name": "d4vinci-scrapling",
+  "description": "Provides advanced web scraping capabilities with browser fingerprint impersonation, dynamic content fetching via Chromium, and stealth scraping through modified Camoufox to bypass anti-bot protections, featuring CSS selector-based content filtering to reduce token consumption and support for bulk operations, proxy integration, and multiple output formats.",
+  "source_repo": "d4vinci/scrapling",
+  "source_url": "https://github.com/d4vinci/scrapling",
+  "install": "# git clone --depth 1 https://github.com/d4vinci/scrapling\n# See source for mcpServers config block"
+}

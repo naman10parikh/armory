@@ -1,0 +1,7 @@
+{
+  "name": "mrnaqa-sourceweave-web-search",
+  "description": "Web search and page reading with SearXNG, Crawl4AI, and Redis caching for source-first discovery.",
+  "source_repo": "mrnaqa/sourceweave-web-search",
+  "source_url": "https://github.com/mrnaqa/sourceweave-web-search",
+  "install": "# git clone --depth 1 https://github.com/mrnaqa/sourceweave-web-search\n# See source for mcpServers config block"
+}

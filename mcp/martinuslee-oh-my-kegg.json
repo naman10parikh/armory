@@ -1,0 +1,7 @@
+{
+  "name": "martinuslee-oh-my-kegg",
+  "description": "Integrates with KEGG biological databases to provide access to pathways, genes, compounds, reactions, enzymes, diseases, drugs, and orthology data with advanced analysis capabilities like cross-organism ortholog finding, drug-drug interaction checking, and identifier conversion for bioinformatics research.",
+  "source_repo": "martinuslee/oh-my-kegg-mcp",
+  "source_url": "https://github.com/martinuslee/oh-my-kegg-mcp",
+  "install": "npx -y oh-my-kegg-mcp"
+}

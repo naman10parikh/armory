@@ -1,0 +1,7 @@
+{
+  "name": "gh-daedalus-rpn-calculator",
+  "description": "Reverse Polish Notation calculator with standard math operations.",
+  "source_repo": "daedalus/mcp-rpn",
+  "source_url": "https://github.com/daedalus/mcp-rpn",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-rpn\n# See source for mcpServers config block"
+}

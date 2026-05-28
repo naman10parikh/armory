@@ -1,0 +1,7 @@
+{
+  "name": "agonx402-agon-gateway",
+  "description": "Enable AI agents to discover and call Agon Gateway routes, handle x402/SIWX authentication challenges, and interact with payment workflows via caller-managed wallets.",
+  "source_repo": "ryvonetwork/ryvo-agentic",
+  "source_url": "https://github.com/ryvonetwork/ryvo-agentic",
+  "install": "# git clone --depth 1 https://github.com/ryvonetwork/ryvo-agentic\n# See source for mcpServers config block"
+}

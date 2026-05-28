@@ -1,0 +1,7 @@
+{
+  "name": "lumile-mercadolibre",
+  "description": "Integrates with MercadoLibre's e-commerce platform to simplify product and seller data retrieval, enabling functions like price monitoring, inventory management, and market analysis.",
+  "source_repo": "lumile/mercadolibre-mcp",
+  "source_url": "https://github.com/lumile/mercadolibre-mcp",
+  "install": "npx -y mercadolibre-mcp"
+}

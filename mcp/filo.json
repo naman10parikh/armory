@@ -1,0 +1,7 @@
+{
+  "name": "filo",
+  "description": "An unofficial MCP server that gives AI assistants structured access to Italy's Design System .italia, including components, design tokens, usage guidelines, and GitHub issues, updated nightly.",
+  "source_repo": "Fupete/design-system-italia-mcp",
+  "source_url": "https://github.com/Fupete/design-system-italia-mcp",
+  "install": "npx -y design-system-italia-mcp"
+}

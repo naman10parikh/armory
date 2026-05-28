@@ -1,0 +1,7 @@
+{
+  "name": "enquire-mcp",
+  "description": "MCP server that exposes a local Obsidian vault as persistent, searchable memory for AI agents, with hybrid retrieval, reranker, and PDF support.",
+  "source_repo": "oomkapwn/enquire-mcp",
+  "source_url": "https://github.com/oomkapwn/enquire-mcp",
+  "install": "npx -y enquire-mcp"
+}

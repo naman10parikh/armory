@@ -1,0 +1,7 @@
+{
+  "name": "analyticsinmotion-listen",
+  "description": "Microphone capture and speech-to-text MCP server using whisper.cpp for STT and Ollama for local LLM processing.",
+  "source_repo": "decibri/mcp-listen",
+  "source_url": "https://github.com/decibri/mcp-listen",
+  "install": "# git clone --depth 1 https://github.com/decibri/mcp-listen\n# See source for mcpServers config block"
+}

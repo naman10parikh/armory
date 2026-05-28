@@ -1,0 +1,7 @@
+{
+  "name": "moltbook-mcp",
+  "description": "Interact with MoltBook social network for AI agents including posts, comments, upvotes, DMs, and community management.",
+  "source_repo": "easingthemes/moltbook-http-mcp",
+  "source_url": "https://github.com/easingthemes/moltbook-http-mcp",
+  "install": "npx -y moltbook-http-mcp"
+}

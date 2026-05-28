@@ -1,0 +1,7 @@
+{
+  "name": "customerio",
+  "description": "Integrates with Customer.io's customer engagement platform to enable workspace management, user profile inspection, segment generation, and campaign analytics through OAuth-authenticated tools for marketing teams and developers.",
+  "source_repo": "",
+  "source_url": "https://docs.customer.io/ai/mcp-server/",
+  "install": "# git clone --depth 1 https://docs.customer.io/ai/mcp-server/\n# See source for mcpServers config block"
+}

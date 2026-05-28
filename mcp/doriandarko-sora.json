@@ -1,0 +1,7 @@
+{
+  "name": "doriandarko-sora",
+  "description": "Integrates with OpenAI's Sora 2 video generation API to create, remix, monitor, and manage videos with customizable parameters, automatic downloading, and complete lifecycle management from generation to cleanup.",
+  "source_repo": "doriandarko/sora-mcp",
+  "source_url": "https://github.com/doriandarko/sora-mcp",
+  "install": "npx -y sora-mcp"
+}

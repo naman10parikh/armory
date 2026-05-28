@@ -1,0 +1,7 @@
+{
+  "name": "willtheodore-intervals-icu",
+  "description": "Integrates with Intervals.icu training data for querying activities, managing workouts, and tracking fitness metrics.",
+  "source_repo": "willtheodore/intervals-icu-mcp",
+  "source_url": "https://github.com/willtheodore/intervals-icu-mcp",
+  "install": "npx -y intervals-icu-mcp"
+}

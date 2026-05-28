@@ -1,0 +1,7 @@
+{
+  "name": "jotaderodriguez-bonsai-blender-ifc",
+  "description": "Connects Claude to Blender for analyzing and interacting with IFC building models through five specialized tools for querying project information, listing entities, examining properties, exploring spatial structures, and analyzing element relationships.",
+  "source_repo": "jotaderodriguez/bonsai_mcp",
+  "source_url": "https://github.com/jotaderodriguez/bonsai_mcp",
+  "install": "npx -y bonsai_mcp"
+}

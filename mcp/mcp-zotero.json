@@ -1,0 +1,7 @@
+{
+  "name": "mcp-zotero",
+  "description": "Enables interaction with Zotero libraries for searching, managing collections, items, tags, and attachments, plus optional semantic search across PDFs via local embeddings.",
+  "source_repo": "nealcaren/mcp-zotero",
+  "source_url": "https://github.com/nealcaren/mcp-zotero",
+  "install": "# git clone --depth 1 https://github.com/nealcaren/mcp-zotero\n# See source for mcpServers config block"
+}

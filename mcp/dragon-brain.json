@@ -1,0 +1,7 @@
+{
+  "name": "dragon-brain",
+  "description": "Open-source MCP server that gives any LLM long-term memory using a knowledge graph and vector search hybrid. It stores entities, observations, and relationships, enabling semantic recall across sessions with automatic clustering and fail-loud infrastructure.",
+  "source_repo": "iikarus/Dragon-Brain",
+  "source_url": "https://github.com/iikarus/Dragon-Brain",
+  "install": "# git clone --depth 1 https://github.com/iikarus/Dragon-Brain\n# See source for mcpServers config block"
+}

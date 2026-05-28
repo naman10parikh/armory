@@ -1,0 +1,7 @@
+{
+  "name": "dejo90-nace",
+  "description": "Browse, search, and fuzzy-match NACE Rev. 2.1 economic activity classification codes.",
+  "source_repo": "dejo90/nace-mcp",
+  "source_url": "https://github.com/dejo90/nace-mcp",
+  "install": "npx -y nace-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "filesystem-context",
+  "description": "Secure, read-only filesystem exploration and analysis",
+  "source_repo": "j0hanz/filesystem-mcp",
+  "source_url": "https://github.com/j0hanz/filesystem-mcp",
+  "install": "npx -y filesystem-mcp"
+}

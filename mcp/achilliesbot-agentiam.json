@@ -1,0 +1,7 @@
+{
+  "name": "achilliesbot-agentiam",
+  "description": "MCP wrapper for AgentIAM's agent safety, intelligence, and identity verification endpoints on Base.",
+  "source_repo": "achilliesbot/agentiam-mcp",
+  "source_url": "https://github.com/achilliesbot/agentiam-mcp",
+  "install": "npx -y agentiam-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "supabase-mcp-server",
+  "description": "A production-ready MCP server providing AI assistants with intelligent Supabase database access, featuring dynamic schema discovery, complete user management, and file storage operations.",
+  "source_repo": "sweir1/supabase-mcp-server",
+  "source_url": "https://github.com/sweir1/supabase-mcp-server",
+  "install": "npx -y supabase-mcp-server"
+}

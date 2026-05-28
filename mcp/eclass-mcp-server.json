@@ -1,0 +1,7 @@
+{
+  "name": "eclass-mcp-server",
+  "description": "EClass MCP Server MCP server listed on mcp.so.",
+  "source_repo": "sdi2200262/eClass-MCP-Server",
+  "source_url": "https://mcp.so/server/eClass-MCP-Server/sdi2200262",
+  "install": "npx -y eClass-MCP-Server"
+}

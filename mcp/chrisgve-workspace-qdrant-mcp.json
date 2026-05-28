@@ -1,0 +1,7 @@
+{
+  "name": "chrisgve-workspace-qdrant-mcp",
+  "description": "Project-scoped semantic workspace memory for AI coding assistants. Watches your project files, auto-indexes code and docs into Qdrant with tree-sitter semantic chunking, LSP integration, and hybrid search (dense + sparse + RRF). 6 MCP tools: store, search, retrieve, grep, list, rules. **Alpha** — testers and feedback welcome.",
+  "source_repo": "ChrisGVE/workspace-qdrant-mcp",
+  "source_url": "https://github.com/ChrisGVE/workspace-qdrant-mcp",
+  "install": "npx -y workspace-qdrant-mcp"
+}

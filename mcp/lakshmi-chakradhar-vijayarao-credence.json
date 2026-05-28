@@ -1,0 +1,7 @@
+{
+  "name": "lakshmi-chakradhar-vijayarao-credence",
+  "description": "Epistemic guard for AI coding that tracks uncertain values and blocks writes until verified.",
+  "source_repo": "lakshmi-chakradhar-vijayarao/credence-ai",
+  "source_url": "https://github.com/lakshmi-chakradhar-vijayarao/credence-ai",
+  "install": "# git clone --depth 1 https://github.com/lakshmi-chakradhar-vijayarao/credence-ai\n# See source for mcpServers config block"
+}

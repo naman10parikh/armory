@@ -1,0 +1,7 @@
+{
+  "name": "checksumdev-kagi-session",
+  "description": "Searches Kagi using an existing browser session cookie without an API key, supporting web, FastGPT, news, images, videos, and podcast searches via stdio.",
+  "source_repo": "checksumdev/kagi-session-mcp",
+  "source_url": "https://github.com/checksumdev/kagi-session-mcp",
+  "install": "npx -y kagi-session-mcp"
+}

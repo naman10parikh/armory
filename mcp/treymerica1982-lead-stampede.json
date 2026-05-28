@@ -1,0 +1,7 @@
+{
+  "name": "treymerica1982-lead-stampede",
+  "description": "Search the Lead Stampede SMB directory by name, city, and business type.",
+  "source_repo": "treymerica1982/lead-stampede-mcp-server",
+  "source_url": "https://github.com/treymerica1982/lead-stampede-mcp-server",
+  "install": "npx -y lead-stampede-mcp-server"
+}

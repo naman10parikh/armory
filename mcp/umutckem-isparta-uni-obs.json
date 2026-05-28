@@ -1,0 +1,7 @@
+{
+  "name": "umutckem-isparta-uni-obs",
+  "description": "Integrates with Isparta University's student information system using web scraping to retrieve course schedules, grades, transcripts, and academic records for automated data access and analysis.",
+  "source_repo": "umutckem/isparta-uni-obs-mcp",
+  "source_url": "https://github.com/umutckem/isparta-uni-obs-mcp",
+  "install": "npx -y isparta-uni-obs-mcp"
+}

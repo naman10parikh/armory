@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-regex-ai-mcp",
+  "description": "Python MCP server for regular expression generation and pattern matching tools.",
+  "source_repo": "csoai-org/regex-ai-mcp",
+  "source_url": "https://github.com/csoai-org/regex-ai-mcp",
+  "install": "npx -y regex-ai-mcp"
+}

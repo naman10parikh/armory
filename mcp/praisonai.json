@@ -1,0 +1,7 @@
+{
+  "name": "praisonai",
+  "description": "Multi-agent framework with self-reflection capabilities",
+  "source_repo": "mervinpraison/praisonai",
+  "source_url": "https://github.com/mervinpraison/praisonai",
+  "install": "# git clone --depth 1 https://github.com/mervinpraison/praisonai\n# See source for mcpServers config block"
+}

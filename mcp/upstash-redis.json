@@ -1,0 +1,7 @@
+{
+  "name": "upstash-redis",
+  "description": "Integrates with Upstash's Developer APIs to enable natural language management of Redis databases.",
+  "source_repo": "upstash/mcp-server",
+  "source_url": "https://github.com/upstash/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/upstash/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kmb-bus",
+  "description": "Access real-time bus arrival information and comprehensive route details for Hong Kong's KMB and Long Win Bus services. Query bus routes, stops, and estimated arrival times effortlessly to enhance user experience. Utilize bilingual support for both English and Traditional Chinese to cater to a wider",
+  "source_repo": "",
+  "source_url": "https://data.etabus.gov.hk/documentation/overview",
+  "install": "# git clone --depth 1 https://data.etabus.gov.hk/documentation/overview\n# See source for mcpServers config block"
+}

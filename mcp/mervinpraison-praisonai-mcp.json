@@ -1,0 +1,7 @@
+{
+  "name": "mervinpraison-praisonai-mcp",
+  "description": "AI Agents framework with 64+ built-in tools for search, memory, workflows, code execution, and file operations. Turn any AI assistant into a multi-agent system with MCP.",
+  "source_repo": "MervinPraison/praisonai-mcp",
+  "source_url": "https://github.com/MervinPraison/praisonai-mcp",
+  "install": "npx -y praisonai-mcp"
+}

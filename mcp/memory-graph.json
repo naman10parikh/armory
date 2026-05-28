@@ -1,0 +1,7 @@
+{
+  "name": "memory-graph",
+  "description": "Provides persistent knowledge graph storage through entity-relationship modeling with observations, enabling long-term memory persistence and contextual information retrieval across conversation sessions.",
+  "source_repo": "songlairui/mcp-memory-server",
+  "source_url": "https://github.com/songlairui/mcp-memory-server",
+  "install": "# git clone --depth 1 https://github.com/songlairui/mcp-memory-server\n# See source for mcpServers config block"
+}

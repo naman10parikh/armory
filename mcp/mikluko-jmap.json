@@ -1,0 +1,7 @@
+{
+  "name": "mikluko-jmap",
+  "description": "Email access via the JMAP protocol for reading, searching, and managing messages.",
+  "source_repo": "mikluko/jmap-mcp",
+  "source_url": "https://github.com/mikluko/jmap-mcp",
+  "install": "npx -y jmap-mcp"
+}

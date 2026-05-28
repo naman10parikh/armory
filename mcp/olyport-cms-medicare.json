@@ -1,0 +1,7 @@
+{
+  "name": "olyport-cms-medicare",
+  "description": "Medicare provider data, hospital comparisons, and healthcare quality metrics from CMS.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/cms-medicare/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/cms-medicare/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "virajsharma2000-websocket-enhancer",
+  "description": "Combines a standard server with WebSocket functionality to enable real-time data updates and efficient asynchronous operations for applications requiring both traditional interactions and data streaming capabilities.",
+  "source_repo": "virajsharma2000/mcp-websocket",
+  "source_url": "https://github.com/virajsharma2000/mcp-websocket",
+  "install": "# git clone --depth 1 https://github.com/virajsharma2000/mcp-websocket\n# See source for mcpServers config block"
+}

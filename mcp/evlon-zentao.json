@@ -1,0 +1,7 @@
+{
+  "name": "evlon-zentao",
+  "description": "Integrates with ZenTao project management systems for bug tracking, project information retrieval, and workflow automation",
+  "source_repo": "evlon/mcp-zentao-bugs",
+  "source_url": "https://github.com/evlon/mcp-zentao-bugs",
+  "install": "# git clone --depth 1 https://github.com/evlon/mcp-zentao-bugs\n# See source for mcpServers config block"
+}

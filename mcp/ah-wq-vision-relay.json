@@ -1,0 +1,7 @@
+{
+  "name": "ah-wq-vision-relay",
+  "description": "Bridges Google Gemini and Alibaba Qwen vision models through CLI tools to provide image analysis capabilities from local files, URLs, or base64 data with automatic validation and configurable execution parameters.",
+  "source_repo": "ah-wq/mcp-vision-relay",
+  "source_url": "https://github.com/ah-wq/mcp-vision-relay",
+  "install": "# git clone --depth 1 https://github.com/ah-wq/mcp-vision-relay\n# See source for mcpServers config block"
+}

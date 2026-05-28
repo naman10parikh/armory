@@ -1,0 +1,7 @@
+{
+  "name": "nchemb-whoop",
+  "description": "MCP server for accessing Whoop biometric data including recovery, sleep, and workout metrics.",
+  "source_repo": "nchemb/whoop-mcp",
+  "source_url": "https://github.com/nchemb/whoop-mcp",
+  "install": "npx -y whoop-mcp"
+}

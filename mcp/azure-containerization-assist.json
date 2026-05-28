@@ -1,0 +1,7 @@
+{
+  "name": "azure-containerization-assist",
+  "description": "AI-powered containerization workflows with Docker builds, security scanning, Kubernetes deployment, and OPA policy enforcement.",
+  "source_repo": "azure/containerization-assist",
+  "source_url": "https://github.com/azure/containerization-assist",
+  "install": "# git clone --depth 1 https://github.com/azure/containerization-assist\n# See source for mcpServers config block"
+}

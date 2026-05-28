@@ -1,0 +1,7 @@
+{
+  "name": "luisbretasjr-routekit",
+  "description": "Route optimization API for Brazil — routes, distance matrices, and VRP solver.",
+  "source_repo": "luisbretasjr/routekit-mcp",
+  "source_url": "https://github.com/luisbretasjr/routekit-mcp",
+  "install": "npx -y routekit-mcp"
+}

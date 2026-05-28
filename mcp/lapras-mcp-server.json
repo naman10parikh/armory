@@ -1,0 +1,7 @@
+{
+  "name": "lapras-mcp-server",
+  "description": "LAPRASの公式MCPサーバーで、求人検索や職歴・スキル管理を可能にします。",
+  "source_repo": "lapras-inc/lapras-mcp-server",
+  "source_url": "https://github.com/lapras-inc/lapras-mcp-server",
+  "install": "npx -y lapras-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fitodomik-gitlab",
+  "description": "Integrates with GitLab projects to provide merge request management, code review workflows, and CI/CD pipeline monitoring with tools for accessing discussions, pipeline logs, and managing review comments.",
+  "source_repo": "fitodomik/gitlab-mcp-server",
+  "source_url": "https://github.com/fitodomik/gitlab-mcp-server",
+  "install": "npx -y gitlab-mcp-server"
+}

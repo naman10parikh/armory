@@ -1,0 +1,7 @@
+{
+  "name": "univercity",
+  "description": "Eight-dimension business diagnosis with Revenue Leak Score and triple-option recommendations.",
+  "source_repo": "davidscoreal/cia-diagnose",
+  "source_url": "https://github.com/davidscoreal/cia-diagnose",
+  "install": "# git clone --depth 1 https://github.com/davidscoreal/cia-diagnose\n# See source for mcpServers config block"
+}

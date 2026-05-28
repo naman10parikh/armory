@@ -1,0 +1,7 @@
+{
+  "name": "michaelrice-zendesk",
+  "description": "Zendesk integration for Claude Code and MCP clients — manage tickets, knowledge base, and support workflows.",
+  "source_repo": "michaelrice/zendesk-mcp",
+  "source_url": "https://github.com/michaelrice/zendesk-mcp",
+  "install": "npx -y zendesk-mcp"
+}

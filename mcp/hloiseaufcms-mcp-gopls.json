@@ -1,0 +1,7 @@
+{
+  "name": "hloiseaufcms-mcp-gopls",
+  "description": "A MCP server for interacting with [Go's Language Server Protocol (gopls)](https://github.com/golang/tools/tree/master/gopls) and benefit from advanced Go code analysis features.",
+  "source_repo": "hloiseaufcms/mcp-gopls",
+  "source_url": "https://github.com/hloiseaufcms/mcp-gopls",
+  "install": "# git clone --depth 1 https://github.com/hloiseaufcms/mcp-gopls\n# See source for mcpServers config block"
+}

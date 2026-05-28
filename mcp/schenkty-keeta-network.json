@@ -1,0 +1,7 @@
+{
+  "name": "schenkty-keeta-network",
+  "description": "Native access to the Keeta Layer 1 blockchain for payments, asset transfers, and cross-chain interoperability.",
+  "source_repo": "schenkty/kta-mcp",
+  "source_url": "https://github.com/schenkty/kta-mcp",
+  "install": "npx -y kta-mcp"
+}

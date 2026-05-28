@@ -1,0 +1,7 @@
+{
+  "name": "mharnett-reddit-ads",
+  "description": "Manages Reddit Ads campaigns, ad groups, ads, reporting, and audience targeting through MCP.",
+  "source_repo": "mharnett/mcp-reddit-ads",
+  "source_url": "https://github.com/mharnett/mcp-reddit-ads",
+  "install": "# git clone --depth 1 https://github.com/mharnett/mcp-reddit-ads\n# See source for mcpServers config block"
+}

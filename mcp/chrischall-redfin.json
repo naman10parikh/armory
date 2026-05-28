@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-redfin",
+  "description": "Search Redfin property listings, view property details, market reports, and saved homes using your browser session.",
+  "source_repo": "chrischall/redfin-mcp",
+  "source_url": "https://github.com/chrischall/redfin-mcp",
+  "install": "npx -y redfin-mcp"
+}

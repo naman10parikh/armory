@@ -1,0 +1,7 @@
+{
+  "name": "fastalert",
+  "description": "FastAlert tools for listing channels and sending notifications.",
+  "source_repo": "fastalertnow/mcp-server",
+  "source_url": "https://github.com/fastalertnow/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/fastalertnow/mcp-server\n# See source for mcpServers config block"
+}

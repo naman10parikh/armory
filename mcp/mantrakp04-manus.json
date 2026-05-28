@@ -1,0 +1,7 @@
+{
+  "name": "mantrakp04-manus",
+  "description": "Orchestrates specialized agents for collaborative task execution with file operations, shell commands, and browser automation capabilities through a TypeScript-based API.",
+  "source_repo": "mantrakp04/manusmcp",
+  "source_url": "https://github.com/mantrakp04/manusmcp",
+  "install": "# git clone --depth 1 https://github.com/mantrakp04/manusmcp\n# See source for mcpServers config block"
+}

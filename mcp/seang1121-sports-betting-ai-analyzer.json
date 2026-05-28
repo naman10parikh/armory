@@ -1,0 +1,7 @@
+{
+  "name": "seang1121-sports-betting-ai-analyzer",
+  "description": "AI-powered sports betting picks, odds, injury reports, and line movement analysis for NBA, NHL, and NCAAB.",
+  "source_repo": "seang1121/sports-betting-mcp",
+  "source_url": "https://github.com/seang1121/sports-betting-mcp",
+  "install": "npx -y sports-betting-mcp"
+}

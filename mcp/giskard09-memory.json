@@ -1,0 +1,7 @@
+{
+  "name": "giskard09-memory",
+  "description": "Pay-per-use semantic memory for AI agents with SHA256 commitment and Lightning payments.",
+  "source_repo": "giskard09/giskard-memory",
+  "source_url": "https://github.com/giskard09/giskard-memory",
+  "install": "# git clone --depth 1 https://github.com/giskard09/giskard-memory\n# See source for mcpServers config block"
+}

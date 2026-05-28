@@ -1,0 +1,7 @@
+{
+  "name": "canuckeats",
+  "description": "Order food delivery from UberEats and DoorDash across 89 Canadian cities.",
+  "source_repo": "canuckeats/mcp",
+  "source_url": "https://github.com/canuckeats/mcp",
+  "install": "# git clone --depth 1 https://github.com/canuckeats/mcp\n# See source for mcpServers config block"
+}

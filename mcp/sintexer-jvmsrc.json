@@ -1,0 +1,7 @@
+{
+  "name": "sintexer-jvmsrc",
+  "description": "Fetch Java source code, method signatures, and class structure using Gradle-accurate JVM classpaths.",
+  "source_repo": "sintexer/jvm-source-lens",
+  "source_url": "https://github.com/sintexer/jvm-source-lens",
+  "install": "# git clone --depth 1 https://github.com/sintexer/jvm-source-lens\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-4",
+  "description": "Mcp Github MCP server listed on mcp.so.",
+  "source_repo": "MissionSquad/mcp-github",
+  "source_url": "https://mcp.so/server/mcp-github/MissionSquad",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-github/MissionSquad\n# See source for mcpServers config block"
+}

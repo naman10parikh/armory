@@ -1,0 +1,7 @@
+{
+  "name": "imagegen-mcp",
+  "description": "MCP server that wraps OpenAI's image generation and editing APIs, enabling text-to-image and image-to-image operations via tools.",
+  "source_repo": "spartanz51/imagegen-mcp",
+  "source_url": "https://github.com/spartanz51/imagegen-mcp",
+  "install": "npx -y imagegen-mcp"
+}

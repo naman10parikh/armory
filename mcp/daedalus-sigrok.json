@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-sigrok",
+  "description": "Hardware debugging and signal analysis via the sigrok open-source measurement suite.",
+  "source_repo": "daedalus/mcp-sigrok",
+  "source_url": "https://github.com/daedalus/mcp-sigrok",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-sigrok\n# See source for mcpServers config block"
+}

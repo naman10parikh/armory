@@ -1,0 +1,7 @@
+{
+  "name": "jamiesonio-defectdojo",
+  "description": "Bridges to the DefectDojo vulnerability management system, enabling interaction with security findings, products, and engagements for streamlined security workflow integration.",
+  "source_repo": "jamiesonio/defectdojo-mcp",
+  "source_url": "https://github.com/jamiesonio/defectdojo-mcp",
+  "install": "npx -y defectdojo-mcp"
+}

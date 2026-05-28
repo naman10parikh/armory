@@ -1,0 +1,7 @@
+{
+  "name": "lars-hagen-playwright-cdp",
+  "description": "Integrates Playwright and Chrome DevTools Protocol to enable advanced web automation, testing, and analysis through browser control and interaction.",
+  "source_repo": "lars-hagen/mcp-playwright-cdp",
+  "source_url": "https://github.com/lars-hagen/mcp-playwright-cdp",
+  "install": "# git clone --depth 1 https://github.com/lars-hagen/mcp-playwright-cdp\n# See source for mcpServers config block"
+}

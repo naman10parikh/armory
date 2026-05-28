@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-pad",
+  "description": "Mcp Server Pad MCP server listed on mcp.so.",
+  "source_repo": "psaboia/mcp-server-pad",
+  "source_url": "https://mcp.so/server/mcp-server-pad/psaboia",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-pad/psaboia\n# See source for mcpServers config block"
+}

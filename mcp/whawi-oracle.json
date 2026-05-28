@@ -1,0 +1,7 @@
+{
+  "name": "whawi-oracle",
+  "description": "Ground truth operational data layer for urban transfers and logistics intelligence in Latin America.",
+  "source_repo": "whawi/oracle-agent-card",
+  "source_url": "https://github.com/whawi/oracle-agent-card",
+  "install": "# git clone --depth 1 https://github.com/whawi/oracle-agent-card\n# See source for mcpServers config block"
+}

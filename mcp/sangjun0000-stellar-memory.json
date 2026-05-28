@@ -1,0 +1,7 @@
+{
+  "name": "sangjun0000-stellar-memory",
+  "description": "Persistent local-first AI memory system using orbital mechanics for importance-based recall.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/sangjun0000-stellar-memory",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/sangjun0000-stellar-memory\n# See source for mcpServers config block"
+}

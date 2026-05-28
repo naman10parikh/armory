@@ -1,0 +1,7 @@
+{
+  "name": "marcopesani-think",
+  "description": "Provides a dedicated thinking space for complex reasoning with encouraging feedback, enabling step-by-step analysis and memory retention without external actions.",
+  "source_repo": "marcopesani/think-mcp-server",
+  "source_url": "https://github.com/marcopesani/think-mcp-server",
+  "install": "npx -y think-mcp-server"
+}

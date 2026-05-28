@@ -1,0 +1,7 @@
+{
+  "name": "fal-ai-mcp-server",
+  "description": "An MCP server to use the fal.ai APIs to generate images and videos.",
+  "source_repo": "piebro/fal-ai-mcp-server",
+  "source_url": "https://github.com/piebro/fal-ai-mcp-server",
+  "install": "npx -y fal-ai-mcp-server"
+}

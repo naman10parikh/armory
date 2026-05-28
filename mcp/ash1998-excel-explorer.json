@@ -1,0 +1,7 @@
+{
+  "name": "ash1998-excel-explorer",
+  "description": "Provides Excel file analysis through pandas-powered tools for loading spreadsheets, extracting schemas, sampling data, generating statistics, and assessing data quality to enable quick dataset exploration without manual navigation.",
+  "source_repo": "ash1998/excel-mcp",
+  "source_url": "https://github.com/ash1998/excel-mcp",
+  "install": "npx -y excel-mcp"
+}

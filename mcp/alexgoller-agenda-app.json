@@ -1,0 +1,7 @@
+{
+  "name": "alexgoller-agenda-app",
+  "description": "Integrates with Agenda note-taking app on macOS to enable creating notes, managing projects, and opening existing notes using x-callback-urls.",
+  "source_repo": "alexgoller/mcp-server-agenda",
+  "source_url": "https://github.com/alexgoller/mcp-server-agenda",
+  "install": "# git clone --depth 1 https://github.com/alexgoller/mcp-server-agenda\n# See source for mcpServers config block"
+}

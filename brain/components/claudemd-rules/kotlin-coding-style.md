@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [kotlin-hooks, kotlin-patterns]
-tags: [ecc, rules, kotlin]
+tags: [rules, kotlin]
 ---
 ## What it is
 kotlin rule: apply when working on kotlin and you need Kotlin Coding Style.

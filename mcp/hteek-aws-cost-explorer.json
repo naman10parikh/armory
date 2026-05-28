@@ -1,0 +1,7 @@
+{
+  "name": "hteek-aws-cost-explorer",
+  "description": "Integrates with AWS Cost Explorer through OAuth 2.0 authentication to provide cost analysis, usage forecasting, dimension discovery, and cost comparison capabilities for financial analysis and cloud cost optimization workflows.",
+  "source_repo": "hteek/serverless-mcp",
+  "source_url": "https://github.com/hteek/serverless-mcp",
+  "install": "npx -y serverless-mcp"
+}

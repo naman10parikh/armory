@@ -1,0 +1,7 @@
+{
+  "name": "jamot-mcp",
+  "description": "An MCP server that turns AI agents into a coordination brain for human teams — assign tasks, check workload, decompose complex instructions, and hand over full context through a single SSE endpoint.",
+  "source_repo": "jamot-pro/Jamot-MCP",
+  "source_url": "https://github.com/jamot-pro/Jamot-MCP",
+  "install": "npx -y Jamot-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cloud-foundry-hoover",
+  "description": "Registry and aggregator for Cloud Foundry. Queries for and aggregates cf-butler instances' data",
+  "source_repo": "cf-toolsuite/cf-kaizen",
+  "source_url": "https://github.com/cf-toolsuite/cf-kaizen/tree/HEAD/hoover",
+  "install": "# git clone --depth 1 https://github.com/cf-toolsuite/cf-kaizen/tree/HEAD/hoover\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-pdwi2020-colab-exec",
+  "description": "Execute Python code on Google Colab GPU runtimes (T4/L4) from any MCP client.",
+  "source_repo": "pdwi2020/mcp-server-colab-exec",
+  "source_url": "https://github.com/pdwi2020/mcp-server-colab-exec",
+  "install": "# git clone --depth 1 https://github.com/pdwi2020/mcp-server-colab-exec\n# See source for mcpServers config block"
+}

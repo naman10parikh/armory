@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tool-chainer",
+  "description": "Mcp_tool_chainer MCP server listed on mcp.so.",
+  "source_repo": "thirdstrandstudio/mcp_tool_chainer",
+  "source_url": "https://mcp.so/server/mcp_tool_chainer/thirdstrandstudio",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_tool_chainer/thirdstrandstudio\n# See source for mcpServers config block"
+}

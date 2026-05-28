@@ -1,0 +1,7 @@
+{
+  "name": "steam-mcp",
+  "description": "MCP server that enables searching Steam games, fetching user reviews with filters, and retrieving game details including price and tags.",
+  "source_repo": "Whatp/steam-mcp",
+  "source_url": "https://github.com/Whatp/steam-mcp",
+  "install": "npx -y steam-mcp"
+}

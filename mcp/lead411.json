@@ -1,0 +1,7 @@
+{
+  "name": "lead411",
+  "description": "B2B lead generation, company search, and contact enrichment from Lead411's sales intelligence platform.",
+  "source_repo": "",
+  "source_url": "https://lead411.com",
+  "install": "# git clone --depth 1 https://lead411.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mansurjisan-noaa-coops",
+  "description": "Provides access to NOAA CO-OPS tidal predictions, real-time water levels, currents, and coastal meteorological observations.",
+  "source_repo": "mansurjisan/ocean-mcp",
+  "source_url": "https://github.com/mansurjisan/ocean-mcp",
+  "install": "npx -y ocean-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agendum",
+  "description": "Project memory and scoping engine for AI coding agents. It gives any agent persistent project state, bounded work packages, and cross-session continuity.",
+  "source_repo": "sralli/agendum",
+  "source_url": "https://github.com/sralli/agendum",
+  "install": "# git clone --depth 1 https://github.com/sralli/agendum\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fliptheweb-yazio",
+  "description": "Access user nutrition data and food diary from Yazio tracking app",
+  "source_repo": "fliptheweb/yazio-mcp",
+  "source_url": "https://github.com/fliptheweb/yazio-mcp",
+  "install": "npx -y yazio-mcp"
+}

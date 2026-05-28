@@ -1,0 +1,7 @@
+{
+  "name": "urltomarkdown-mcp",
+  "description": "Converts URLs and raw HTML to clean Markdown, enabling AI assistants to read web pages for summarization, analysis, or ingestion.",
+  "source_repo": "SapienEx-AI/urltomarkdown-mcp",
+  "source_url": "https://github.com/SapienEx-AI/urltomarkdown-mcp",
+  "install": "npx -y urltomarkdown-mcp"
+}

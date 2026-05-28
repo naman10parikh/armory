@@ -1,0 +1,7 @@
+{
+  "name": "zenturacp-rest-api-tester",
+  "description": "Integrates with REST API's via Axios to provide a command-line tool for testing and debugging REST APIs with customizable requests and response analysis.",
+  "source_repo": "dkmaker/mcp-rest-api",
+  "source_url": "https://github.com/dkmaker/mcp-rest-api",
+  "install": "# git clone --depth 1 https://github.com/dkmaker/mcp-rest-api\n# See source for mcpServers config block"
+}

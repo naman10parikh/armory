@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-dummyjson",
+  "description": "DummyJSON mock REST API: products, users, posts, recipes, todos, and test data. No authentication required.",
+  "source_repo": "pipeworx-io/mcp-dummyjson",
+  "source_url": "https://github.com/pipeworx-io/mcp-dummyjson",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-dummyjson\n# See source for mcpServers config block"
+}

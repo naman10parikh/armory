@@ -1,0 +1,7 @@
+{
+  "name": "syamaner-roastpilot",
+  "description": "Controls coffee roasting sessions through local MCP tools and exports roast logs.",
+  "source_repo": "syamaner/coffee-roaster-mcp",
+  "source_url": "https://github.com/syamaner/coffee-roaster-mcp",
+  "install": "npx -y coffee-roaster-mcp"
+}

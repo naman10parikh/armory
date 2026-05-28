@@ -1,0 +1,7 @@
+{
+  "name": "savignano-vscode-simple-browser",
+  "description": "Enables web interaction through VS Code's Simple Browser with tools for opening URLs, navigating pages, executing JavaScript, and monitoring console logs in real-time for web automation and debugging workflows.",
+  "source_repo": "savignano/vscode-simple-browser-mcp",
+  "source_url": "https://github.com/savignano/vscode-simple-browser-mcp",
+  "install": "npx -y vscode-simple-browser-mcp"
+}

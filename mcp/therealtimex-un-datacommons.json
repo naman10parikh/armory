@@ -1,0 +1,7 @@
+{
+  "name": "therealtimex-un-datacommons",
+  "description": "Query Data Commons indicators and observations from the public knowledge graph",
+  "source_repo": "therealtimex/un-datacommons-mcp",
+  "source_url": "https://github.com/therealtimex/un-datacommons-mcp",
+  "install": "npx -y un-datacommons-mcp"
+}

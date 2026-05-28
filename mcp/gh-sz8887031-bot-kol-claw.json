@@ -1,0 +1,7 @@
+{
+  "name": "gh-sz8887031-bot-kol-claw",
+  "description": "Evaluates KOL (influencer) performance metrics, generates outreach scripts, and manages campaign tracking.",
+  "source_repo": "sz8887031-bot/kol-claw-mcp",
+  "source_url": "https://github.com/sz8887031-bot/kol-claw-mcp",
+  "install": "npx -y kol-claw-mcp"
+}

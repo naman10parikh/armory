@@ -1,0 +1,7 @@
+{
+  "name": "bischoffjeremy-email",
+  "description": "Provider-agnostic email management via IMAP and SMTP with configurable read, send, and delete operations.",
+  "source_repo": "bischoffjeremy/email-mcp",
+  "source_url": "https://github.com/bischoffjeremy/email-mcp",
+  "install": "npx -y email-mcp"
+}

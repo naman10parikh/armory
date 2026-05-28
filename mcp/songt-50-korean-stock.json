@@ -1,0 +1,7 @@
+{
+  "name": "songt-50-korean-stock",
+  "description": "Korean stock market data including prices, dividends, short selling, and financial disclosures via data.go.kr APIs.",
+  "source_repo": "songt-50/korean-stock-mcp",
+  "source_url": "https://github.com/songt-50/korean-stock-mcp",
+  "install": "npx -y korean-stock-mcp"
+}

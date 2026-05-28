@@ -1,0 +1,7 @@
+{
+  "name": "sleeper-hit-studio",
+  "description": "Read-only discovery endpoint for finding opted-in storytellers and approved public project assets.",
+  "source_repo": "sleeperhitstudio/sleeperhit-studio",
+  "source_url": "https://github.com/sleeperhitstudio/sleeperhit-studio",
+  "install": "# git clone --depth 1 https://github.com/sleeperhitstudio/sleeperhit-studio\n# See source for mcpServers config block"
+}

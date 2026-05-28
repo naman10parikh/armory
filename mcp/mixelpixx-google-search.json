@@ -1,0 +1,7 @@
+{
+  "name": "mixelpixx-google-search",
+  "description": "Integrates with Google Custom Search API and web scraping tools to enable web searches, content extraction, and analysis for research and data aggregation tasks.",
+  "source_repo": "mixelpixx/google-research-mcp",
+  "source_url": "https://github.com/mixelpixx/google-research-mcp",
+  "install": "npx -y google-research-mcp"
+}

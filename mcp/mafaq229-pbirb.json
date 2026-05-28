@@ -1,0 +1,7 @@
+{
+  "name": "mafaq229-pbirb",
+  "description": "Edits Power BI paginated reports (.rdl files) via atomic MCP tools for charts, datasets, layout, and parameters.",
+  "source_repo": "mafaq229/pbirb-mcp",
+  "source_url": "https://github.com/mafaq229/pbirb-mcp",
+  "install": "npx -y pbirb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "see-quick-strimzi-kafka",
+  "description": "Provides management and troubleshooting capabilities for Strimzi Kafka deployments on Kubernetes, including cluster operations, topic and user management, Kafka Connect lifecycle, Cruise Control rebalancing, MirrorMaker2 replication, and observability tasks.",
+  "source_repo": "see-quick/strimzi-mcp-server",
+  "source_url": "https://github.com/see-quick/strimzi-mcp-server",
+  "install": "npx -y strimzi-mcp-server"
+}

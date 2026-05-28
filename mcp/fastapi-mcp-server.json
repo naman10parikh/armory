@@ -1,0 +1,7 @@
+{
+  "name": "fastapi-mcp-server",
+  "description": "Fastapi Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "NishizukaKoichi/fastapi-mcp-server",
+  "source_url": "https://mcp.so/server/fastapi-mcp-server/NishizukaKoichi",
+  "install": "npx -y fastapi-mcp-server"
+}

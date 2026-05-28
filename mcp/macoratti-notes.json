@@ -1,0 +1,7 @@
+{
+  "name": "macoratti-notes",
+  "description": "Simple MCP server for creating and listing notes using SQLite persistence, implemented in C# with .NET 10.",
+  "source_repo": "macoratti/mcpapp",
+  "source_url": "https://github.com/macoratti/mcpapp",
+  "install": "# git clone --depth 1 https://github.com/macoratti/mcpapp\n# See source for mcpServers config block"
+}

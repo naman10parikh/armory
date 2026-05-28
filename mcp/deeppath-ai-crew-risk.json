@@ -1,0 +1,7 @@
+{
+  "name": "deeppath-ai-crew-risk",
+  "description": "Evaluates websites for crawling compliance and safety by analyzing robots.txt files, detecting anti-crawling mechanisms, identifying sensitive data, checking copyright restrictions, and scanning for exposed endpoints to provide three-tier risk ratings with specific recommendations for compliant web scraping strategies.",
+  "source_repo": "deeppath-ai/mcp-crew-risk",
+  "source_url": "https://github.com/deeppath-ai/mcp-crew-risk",
+  "install": "# git clone --depth 1 https://github.com/deeppath-ai/mcp-crew-risk\n# See source for mcpServers config block"
+}

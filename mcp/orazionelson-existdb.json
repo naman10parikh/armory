@@ -1,0 +1,7 @@
+{
+  "name": "orazionelson-existdb",
+  "description": "Integrates with eXist-db for offline XQuery documentation lookup, live query execution, and XML collection management.",
+  "source_repo": "orazionelson/existdb-mcp",
+  "source_url": "https://github.com/orazionelson/existdb-mcp",
+  "install": "npx -y existdb-mcp"
+}

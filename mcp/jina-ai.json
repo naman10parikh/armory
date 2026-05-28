@@ -1,0 +1,7 @@
+{
+  "name": "jina-ai",
+  "description": "AI-powered search and retrieval platform. Search the web, read page content, extract structured data, and ground AI responses.",
+  "source_repo": "",
+  "source_url": "https://jina.ai",
+  "install": "# git clone --depth 1 https://jina.ai\n# See source for mcpServers config block"
+}

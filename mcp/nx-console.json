@@ -1,0 +1,7 @@
+{
+  "name": "nx-console",
+  "description": "Exposes monorepo workspace architecture, generators, tasks, and documentation to language models",
+  "source_repo": "nrwl/nx-console",
+  "source_url": "https://github.com/nrwl/nx-console",
+  "install": "# git clone --depth 1 https://github.com/nrwl/nx-console\n# See source for mcpServers config block"
+}

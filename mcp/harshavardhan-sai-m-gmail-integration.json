@@ -1,0 +1,7 @@
+{
+  "name": "harshavardhan-sai-m-gmail-integration",
+  "description": "Integrates with Gmail APIs to enable reading, sending, and managing emails across multiple accounts, supporting automated email processing and workflow integration.",
+  "source_repo": "quantum-369/gmail-mcp-server",
+  "source_url": "https://github.com/quantum-369/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

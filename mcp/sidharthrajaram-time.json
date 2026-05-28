@@ -1,0 +1,7 @@
+{
+  "name": "sidharthrajaram-time",
+  "description": "Provides current time and date information.",
+  "source_repo": "sidharthrajaram/time-mcp",
+  "source_url": "https://github.com/sidharthrajaram/time-mcp",
+  "install": "npx -y time-mcp"
+}

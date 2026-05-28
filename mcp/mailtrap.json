@@ -1,0 +1,7 @@
+{
+  "name": "mailtrap",
+  "description": "Enables sending transactional emails through the Mailtrap Email API.",
+  "source_repo": "mailtrap/mailtrap-mcp",
+  "source_url": "https://github.com/mailtrap/mailtrap-mcp",
+  "install": "npx -y mailtrap-mcp"
+}

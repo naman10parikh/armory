@@ -1,0 +1,7 @@
+{
+  "name": "1mcp-agent",
+  "description": "Aggregates multiple MCP servers into a single unified interface, reducing system resource usage and simplifying configuration management with dynamic reloading and tag-based filtering capabilities.",
+  "source_repo": "1mcp-app/agent",
+  "source_url": "https://github.com/1mcp-app/agent",
+  "install": "# git clone --depth 1 https://github.com/1mcp-app/agent\n# See source for mcpServers config block"
+}

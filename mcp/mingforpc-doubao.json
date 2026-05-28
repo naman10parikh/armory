@@ -1,0 +1,7 @@
+{
+  "name": "mingforpc-doubao",
+  "description": "Integrates with ByteDance's Doubao AI model to generate images from text prompts with customizable sizing and watermarking options, plus image compression and format conversion capabilities.",
+  "source_repo": "mingforpc/seedream_mcp",
+  "source_url": "https://github.com/mingforpc/seedream_mcp",
+  "install": "npx -y seedream_mcp"
+}

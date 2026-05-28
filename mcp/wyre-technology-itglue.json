@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-itglue",
+  "description": "Provides AI access to IT Glue for managing organizations, configurations, passwords, and documentation assets.",
+  "source_repo": "wyre-technology/itglue-mcp",
+  "source_url": "https://github.com/wyre-technology/itglue-mcp",
+  "install": "npx -y itglue-mcp"
+}

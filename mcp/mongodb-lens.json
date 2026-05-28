@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-lens",
+  "description": "Mongodb Lens MCP server listed on mcp.so.",
+  "source_repo": "furey/mongodb-lens",
+  "source_url": "https://mcp.so/server/mongodb-lens/furey",
+  "install": "# git clone --depth 1 https://mcp.so/server/mongodb-lens/furey\n# See source for mcpServers config block"
+}

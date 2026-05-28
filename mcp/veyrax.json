@@ -1,0 +1,7 @@
+{
+  "name": "veyrax",
+  "description": "Integrates with Veyrax's API to enable access to specialized AI capabilities and data services, utilizing TypeScript and Node.js for seamless interaction with Veyrax's platform.",
+  "source_repo": "veyrax/veyrax-mcp",
+  "source_url": "https://github.com/veyrax/veyrax-mcp",
+  "install": "npx -y veyrax-mcp"
+}

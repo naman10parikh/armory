@@ -1,0 +1,7 @@
+{
+  "name": "ctkadvisors-graphql",
+  "description": "Transforms any GraphQL API into dynamic tools through automatic schema introspection, enabling direct access to structured data with parameter validation and configurable security controls.",
+  "source_repo": "ctkadvisors/graphql-mcp",
+  "source_url": "https://github.com/ctkadvisors/graphql-mcp",
+  "install": "npx -y graphql-mcp"
+}

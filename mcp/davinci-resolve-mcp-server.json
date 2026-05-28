@@ -1,0 +1,7 @@
+{
+  "name": "davinci-resolve-mcp-server",
+  "description": "Exposes 20 tools for project, media, render, and timeline control in DaVinci Resolve 18+ via stdio MCP, enabling AI agents to operate the software through natural language.",
+  "source_repo": "Poechant/davinci-resolve-cli",
+  "source_url": "https://github.com/Poechant/davinci-resolve-cli",
+  "install": "# git clone --depth 1 https://github.com/Poechant/davinci-resolve-cli\n# See source for mcpServers config block"
+}

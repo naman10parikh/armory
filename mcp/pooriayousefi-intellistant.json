@@ -1,0 +1,7 @@
+{
+  "name": "pooriayousefi-intellistant",
+  "description": "Production C++23 multi-agent development framework with specialized agents for coding, DevOps, documentation, testing, data analysis, and security.",
+  "source_repo": "pooriayousefi/intellistant",
+  "source_url": "https://github.com/pooriayousefi/intellistant",
+  "install": "# git clone --depth 1 https://github.com/pooriayousefi/intellistant\n# See source for mcpServers config block"
+}

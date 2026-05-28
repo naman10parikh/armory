@@ -1,0 +1,7 @@
+{
+  "name": "jaacob-perplexity",
+  "description": "Integrates with Perplexity's API to enable real-time web searches for up-to-date information retrieval and context-aware responses.",
+  "source_repo": "jaacob/perplexity-mcp",
+  "source_url": "https://github.com/jaacob/perplexity-mcp",
+  "install": "npx -y perplexity-mcp"
+}

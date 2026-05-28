@@ -1,0 +1,7 @@
+{
+  "name": "vatsal191201-tracxn",
+  "description": "Integrates with Tracxn's startup and investment data platform, enabling search and analysis of companies, investors, transactions, acquisitions, and business models for startup ecosystem research and competitive intelligence.",
+  "source_repo": "vatsal191201/tracxn-mcp",
+  "source_url": "https://github.com/vatsal191201/tracxn-mcp/tree/HEAD/tracxn-mcp",
+  "install": "npx -y tracxn-mcp"
+}

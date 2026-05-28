@@ -1,0 +1,7 @@
+{
+  "name": "klavis-strata",
+  "description": "One MCP server that guides your AI agents use tools reliably progressively at any scale.",
+  "source_repo": "klavis-ai/klavis",
+  "source_url": "https://github.com/klavis-ai/klavis",
+  "install": "# git clone --depth 1 https://github.com/klavis-ai/klavis\n# See source for mcpServers config block"
+}

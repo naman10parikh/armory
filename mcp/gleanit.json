@@ -1,0 +1,7 @@
+{
+  "name": "gleanit",
+  "description": "Content discovery and knowledge curation platform that helps AI agents find, extract, and organize relevant information.",
+  "source_repo": "",
+  "source_url": "https://gleanit.co",
+  "install": "# git clone --depth 1 https://gleanit.co\n# See source for mcpServers config block"
+}

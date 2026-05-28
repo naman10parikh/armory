@@ -1,0 +1,7 @@
+{
+  "name": "twells89-sigma-data-model",
+  "description": "Converts data models from dbt, Snowflake, LookML, Tableau, and Power BI into Sigma Computing data model format.",
+  "source_repo": "twells89/sigma-data-model-mcp",
+  "source_url": "https://github.com/twells89/sigma-data-model-mcp",
+  "install": "npx -y sigma-data-model-mcp"
+}

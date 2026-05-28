@@ -1,0 +1,7 @@
+{
+  "name": "darkhorseone-uk-parliament-questions-statements",
+  "description": "Accesses UK Parliament Questions and Statements API for written questions, daily reports, and written statements.",
+  "source_repo": "darkhorseone/mcp-servers",
+  "source_url": "https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-questions-statements",
+  "install": "# git clone --depth 1 https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-questions-statements\n# See source for mcpServers config block"
+}

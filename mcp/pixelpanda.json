@@ -1,0 +1,7 @@
+{
+  "name": "pixelpanda",
+  "description": "Image editing and AI product photography with free local tools and premium generation features.",
+  "source_repo": "ryankramer/pixelpanda-mcp",
+  "source_url": "https://github.com/ryankramer/pixelpanda-mcp",
+  "install": "npx -y pixelpanda-mcp"
+}

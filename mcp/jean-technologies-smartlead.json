@@ -1,0 +1,7 @@
+{
+  "name": "jean-technologies-smartlead",
+  "description": "Integrates with Smartlead's email marketing API to manage campaigns, track leads, and optimize email deliverability through a tiered licensing system with multiple operation modes.",
+  "source_repo": "jonathan-politzki/smartlead-mcp-server",
+  "source_url": "https://github.com/jonathan-politzki/smartlead-mcp-server",
+  "install": "npx -y smartlead-mcp-server"
+}

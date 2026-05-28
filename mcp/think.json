@@ -1,0 +1,7 @@
+{
+  "name": "think",
+  "description": "Provides a lightweight 'think' tool for structured reasoning, enabling LLMs to pause, log thoughts, and improve multi-step problem solving without obtaining new information.",
+  "source_repo": "rai220/think-mcp",
+  "source_url": "https://github.com/rai220/think-mcp",
+  "install": "npx -y think-mcp"
+}

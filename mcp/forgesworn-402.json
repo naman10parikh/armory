@@ -1,0 +1,7 @@
+{
+  "name": "forgesworn-402",
+  "description": "Enable AI agents to autonomously discover, pay for, and consume Lightning-gated APIs using L402 and x402 protocols.",
+  "source_repo": "forgesworn/402-mcp",
+  "source_url": "https://github.com/forgesworn/402-mcp",
+  "install": "npx -y 402-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "i-dot-ai-uk-parliament",
+  "description": "Integrates with UK Parliament's API and Hansard debates to provide constituency searches, member information, election results, government post listings, and semantic search through parliamentary debates and written questions using Azure OpenAI embeddings for political research and policy analysis.",
+  "source_repo": "i-dot-ai/parliament-mcp",
+  "source_url": "https://github.com/i-dot-ai/parliament-mcp",
+  "install": "npx -y parliament-mcp"
+}

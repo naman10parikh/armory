@@ -1,0 +1,7 @@
+{
+  "name": "screenshot-api",
+  "description": "Capture website screenshots as PNG, JPEG, or PDF with custom viewports and full-page capture.",
+  "source_repo": "",
+  "source_url": "https://api.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://api.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

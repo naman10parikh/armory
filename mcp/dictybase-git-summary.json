@@ -1,0 +1,7 @@
+{
+  "name": "dictybase-git-summary",
+  "description": "Lightweight git commit message summary generator that analyzes repository histories by filtering commits and producing human-readable markdown summaries highlighting key changes and business impact.",
+  "source_repo": "cybersiddhu/dcr-mcp",
+  "source_url": "https://github.com/cybersiddhu/dcr-mcp",
+  "install": "npx -y dcr-mcp"
+}

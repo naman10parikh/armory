@@ -1,0 +1,7 @@
+{
+  "name": "contextcrumb",
+  "description": "ContextCrumb compresses long text, local files, and MCP catalog descriptions into denser context for LLM agents. It helps agents load more useful information into the context window and reduce token usage without turning the input into a summary.",
+  "source_repo": "Yuchen20/Context-Crumb",
+  "source_url": "https://github.com/Yuchen20/Context-Crumb",
+  "install": "# git clone --depth 1 https://github.com/Yuchen20/Context-Crumb\n# See source for mcpServers config block"
+}

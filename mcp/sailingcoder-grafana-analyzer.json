@@ -1,0 +1,7 @@
+{
+  "name": "sailingcoder-grafana-analyzer",
+  "description": "Connects to Grafana instances via API to enable natural language querying of metrics and dashboard data with intelligent analysis, monitoring capabilities, and conversation management for streamlined DevOps troubleshooting and performance insights.",
+  "source_repo": "sailingcoder/grafana-mcp-analyzer",
+  "source_url": "https://github.com/sailingcoder/grafana-mcp-analyzer",
+  "install": "# git clone --depth 1 https://github.com/sailingcoder/grafana-mcp-analyzer\n# See source for mcpServers config block"
+}

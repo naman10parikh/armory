@@ -1,0 +1,7 @@
+{
+  "name": "mcp-turso",
+  "description": "Mcp Turso MCP server listed on mcp.so.",
+  "source_repo": "spences10/mcp-turso",
+  "source_url": "https://mcp.so/server/mcp-turso/spences10",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-turso/spences10\n# See source for mcpServers config block"
+}

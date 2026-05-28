@@ -1,0 +1,7 @@
+{
+  "name": "ricaardo-interactive-brokers-tws",
+  "description": "Connects to Interactive Brokers Trader Workstation to retrieve account data and place orders.",
+  "source_repo": "ricaardo/ibkr-tws-mcp",
+  "source_url": "https://github.com/ricaardo/ibkr-tws-mcp",
+  "install": "npx -y ibkr-tws-mcp"
+}

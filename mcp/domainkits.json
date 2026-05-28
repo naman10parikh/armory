@@ -1,0 +1,7 @@
+{
+  "name": "domainkits",
+  "description": "Domain intelligence tools for NS reverse lookup and newly registered domain search",
+  "source_repo": "abtdomain/domainkits-mcp",
+  "source_url": "https://github.com/abtdomain/domainkits-mcp",
+  "install": "npx -y domainkits-mcp"
+}

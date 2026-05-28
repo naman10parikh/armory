@@ -1,0 +1,7 @@
+{
+  "name": "nautobot-mcp",
+  "description": "A Model Context Protocol (MCP) server for interacting with Nautobot APIs using semantic search and dynamic API requests.",
+  "source_repo": "kvncampos/nautobot_mcp",
+  "source_url": "https://github.com/kvncampos/nautobot_mcp",
+  "install": "npx -y nautobot_mcp"
+}

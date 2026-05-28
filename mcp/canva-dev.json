@@ -1,0 +1,7 @@
+{
+  "name": "canva-dev",
+  "description": "Integrates with Canva's development platform to provide contextual documentation, SDK references, and specialized development tools for building Canva apps and integrations.",
+  "source_repo": "",
+  "source_url": "https://www.canva.dev/docs/apps/mcp-server/",
+  "install": "# git clone --depth 1 https://www.canva.dev/docs/apps/mcp-server/\n# See source for mcpServers config block"
+}

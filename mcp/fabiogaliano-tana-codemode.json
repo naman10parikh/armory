@@ -1,0 +1,7 @@
+{
+  "name": "fabiogaliano-tana-codemode",
+  "description": "Enables dynamic TypeScript code execution against Tana's Local API for flexible knowledge management operations including workspaces, nodes, tags, search, and field management.",
+  "source_repo": "fabiogaliano/tana-mcp-codemode",
+  "source_url": "https://github.com/fabiogaliano/tana-mcp-codemode",
+  "install": "# git clone --depth 1 https://github.com/fabiogaliano/tana-mcp-codemode\n# See source for mcpServers config block"
+}

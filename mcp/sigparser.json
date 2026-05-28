@@ -1,0 +1,7 @@
+{
+  "name": "sigparser",
+  "description": "Query contacts, companies, relationships, and communication metrics from SigParser.",
+  "source_repo": "",
+  "source_url": "https://sigparser.com",
+  "install": "# git clone --depth 1 https://sigparser.com\n# See source for mcpServers config block"
+}

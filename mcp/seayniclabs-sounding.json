@@ -1,0 +1,7 @@
+{
+  "name": "seayniclabs-sounding",
+  "description": "Network diagnostics tools — ping, traceroute, DNS, port scanning, and connectivity testing for AI assistants.",
+  "source_repo": "seayniclabs/sounding",
+  "source_url": "https://github.com/seayniclabs/sounding",
+  "install": "# git clone --depth 1 https://github.com/seayniclabs/sounding\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yambr-open-computer-use",
+  "description": "Managed Docker sandbox for LLMs with live browser, terminal, code execution, and autonomous sub-agent support.",
+  "source_repo": "wide-moat/open-computer-use",
+  "source_url": "https://github.com/wide-moat/open-computer-use",
+  "install": "# git clone --depth 1 https://github.com/wide-moat/open-computer-use\n# See source for mcpServers config block"
+}

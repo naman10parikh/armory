@@ -1,0 +1,7 @@
+{
+  "name": "kitepon-rgb-caveat",
+  "description": "Long-term memory knowledge base for AI coding agents using SQLite FTS5 full-text search and git-backed markdown files.",
+  "source_repo": "kitepon-rgb/caveat",
+  "source_url": "https://github.com/kitepon-rgb/caveat",
+  "install": "# git clone --depth 1 https://github.com/kitepon-rgb/caveat\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "teatak-mcp-server-browser",
+  "description": "An MCP server that runs in the browser, letting web pages register custom tools and prompts and expose them to an MCP client over WebSocket. Enables agents to drive UI, call page-scoped APIs, and get human-in-the-loop confirmation.",
+  "source_repo": "teatak/mcp-server-browser",
+  "source_url": "https://github.com/teatak/mcp-server-browser",
+  "install": "# git clone --depth 1 https://github.com/teatak/mcp-server-browser\n# See source for mcpServers config block"
+}

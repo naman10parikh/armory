@@ -1,0 +1,7 @@
+{
+  "name": "paddlepaddle-paddleocr",
+  "description": "Integrates with PaddleOCR and PP-StructureV3 to extract text from images and PDFs with confidence scores and bounding boxes, plus parse complex documents into structured markdown with embedded images, tables, and formulas.",
+  "source_repo": "paddlepaddle/paddleocr",
+  "source_url": "https://github.com/paddlepaddle/paddleocr/tree/HEAD/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/paddlepaddle/paddleocr/tree/HEAD/mcp_server\n# See source for mcpServers config block"
+}

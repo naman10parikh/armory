@@ -1,0 +1,7 @@
+{
+  "name": "tenzro-ledger",
+  "description": "MCP server for the Tenzro Network ledger: wallet, identity, payments, inference, staking, bridges, verification, and agents.",
+  "source_repo": "",
+  "source_url": "https://tenzro.network",
+  "install": "# git clone --depth 1 https://tenzro.network\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "athukarad109-ghidra-bridge",
+  "description": "Bridges Ghidra reverse engineering platform with HTTP server architecture for program analysis, function management, binary patching, and comment operations.",
+  "source_repo": "athukarad109/ghidra-mcp",
+  "source_url": "https://github.com/athukarad109/ghidra-mcp",
+  "install": "npx -y ghidra-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "markswendsen-code-doordash",
+  "description": "Search restaurants, browse menus, add to cart, place orders, and track deliveries on DoorDash via browser automation.",
+  "source_repo": "markswendsen-code/mcp-doordash",
+  "source_url": "https://github.com/markswendsen-code/mcp-doordash",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-doordash\n# See source for mcpServers config block"
+}

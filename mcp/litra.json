@@ -1,0 +1,7 @@
+{
+  "name": "litra",
+  "description": "AI-powered academic paper search with relevance scoring and author lookup via the Litra.ai platform.",
+  "source_repo": "akkylab/litra-paper-search-mcp",
+  "source_url": "https://github.com/akkylab/litra-paper-search-mcp",
+  "install": "npx -y litra-paper-search-mcp"
+}

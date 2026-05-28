@@ -1,0 +1,7 @@
+{
+  "name": "saurabhsing21-europe-pmc",
+  "description": "Provides structured evidence retrieval from Europe PMC biomedical literature database with citation-weighted ranking for therapeutic target discovery and clinical research.",
+  "source_repo": "saurabhsing21/literature-mcp",
+  "source_url": "https://github.com/saurabhsing21/literature-mcp",
+  "install": "npx -y literature-mcp"
+}

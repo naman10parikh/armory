@@ -1,0 +1,7 @@
+{
+  "name": "ianaleck-harvest-mcp-server",
+  "description": "Harvest time tracking integration with 40+ tools for managing time entries, projects, clients, tasks, and generating time reports via the Harvest API v2",
+  "source_repo": "ianaleck/harvest-mcp-server",
+  "source_url": "https://github.com/ianaleck/harvest-mcp-server",
+  "install": "npx -y harvest-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "guardrail",
+  "description": "GUARDRAIL MCP server listed on mcp.so.",
+  "source_repo": "nshkrdotcom/GUARDRAIL",
+  "source_url": "https://mcp.so/server/GUARDRAIL/nshkrdotcom",
+  "install": "# git clone --depth 1 https://mcp.so/server/GUARDRAIL/nshkrdotcom\n# See source for mcpServers config block"
+}

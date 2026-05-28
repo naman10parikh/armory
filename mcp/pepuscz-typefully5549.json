@@ -1,0 +1,7 @@
+{
+  "name": "pepuscz-typefully5549",
+  "description": "Integrates with Typefully's social media scheduling platform to automate content creation, scheduling, and publishing workflows across multiple social media platforms.",
+  "source_repo": "pepuscz/typefully-mcp-server",
+  "source_url": "https://github.com/pepuscz/typefully-mcp-server",
+  "install": "npx -y typefully-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cloud-ru-tech-mattermost",
+  "description": "Integrates with Mattermost team collaboration platform to manage channels, messages, reactions, threads, users, teams, files, and bookmarks across workspaces for automated notifications, team management, and workflow integration.",
+  "source_repo": "cloud-ru-tech/mcp-server-mattermost",
+  "source_url": "https://github.com/cloud-ru-tech/mcp-server-mattermost",
+  "install": "# git clone --depth 1 https://github.com/cloud-ru-tech/mcp-server-mattermost\n# See source for mcpServers config block"
+}

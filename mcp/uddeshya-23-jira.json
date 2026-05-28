@@ -1,0 +1,7 @@
+{
+  "name": "uddeshya-23-jira",
+  "description": "Integrates with Jira's REST API to enable issue tracking, project management, and workload analytics tasks.",
+  "source_repo": "uddeshya-23/mcp-server-jira",
+  "source_url": "https://github.com/uddeshya-23/mcp-server-jira",
+  "install": "# git clone --depth 1 https://github.com/uddeshya-23/mcp-server-jira\n# See source for mcpServers config block"
+}

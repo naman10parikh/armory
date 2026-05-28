@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-saas-gateway",
+  "description": "A single MCP server that fronts multiple REST APIs, each configured via environment variables, allowing Claude to orchestrate across several SaaS backends with namespaced tools.",
+  "source_repo": "grobinson3108/mcp-server-saas-gateway",
+  "source_url": "https://github.com/grobinson3108/mcp-server-saas-gateway",
+  "install": "# git clone --depth 1 https://github.com/grobinson3108/mcp-server-saas-gateway\n# See source for mcpServers config block"
+}

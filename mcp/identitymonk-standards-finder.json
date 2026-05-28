@@ -1,0 +1,7 @@
+{
+  "name": "identitymonk-standards-finder",
+  "description": "Provides access to IETF RFCs, Internet Drafts, and OpenID Foundation specifications with tools for document fetching, keyword searching, section extraction, and working group collection retrieval with automatic version detection and smart filtering of expired drafts.",
+  "source_repo": "identitymonk/mcp-standard-finder",
+  "source_url": "https://github.com/identitymonk/mcp-standard-finder",
+  "install": "# git clone --depth 1 https://github.com/identitymonk/mcp-standard-finder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apimatic-validator-mcp",
+  "description": "Apimatic Validator Mcp MCP server listed on mcp.so.",
+  "source_repo": "apimatic/apimatic-validator-mcp",
+  "source_url": "https://mcp.so/server/apimatic-validator-mcp/apimatic",
+  "install": "npx -y apimatic-validator-mcp"
+}

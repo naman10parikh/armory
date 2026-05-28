@@ -1,0 +1,7 @@
+{
+  "name": "clpublic-cloudbrowser",
+  "description": "Provides an anti-association fingerprint browser environment and automated interaction APIs.",
+  "source_repo": "clpublic/mcp-server-cloudbrowser",
+  "source_url": "https://github.com/clpublic/mcp-server-cloudbrowser",
+  "install": "# git clone --depth 1 https://github.com/clpublic/mcp-server-cloudbrowser\n# See source for mcpServers config block"
+}

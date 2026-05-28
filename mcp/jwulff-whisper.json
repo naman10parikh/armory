@@ -1,0 +1,7 @@
+{
+  "name": "jwulff-whisper",
+  "description": "Local audio transcription using whisper.cpp with support for multiple Whisper models.",
+  "source_repo": "jwulff/whisper-mcp",
+  "source_url": "https://github.com/jwulff/whisper-mcp",
+  "install": "npx -y whisper-mcp"
+}

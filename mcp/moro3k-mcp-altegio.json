@@ -1,0 +1,7 @@
+{
+  "name": "moro3k-mcp-altegio",
+  "description": "MCP server for Altegio API — appointments, clients, services, staff schedules for salon/spa/clinic management. 18 tools with Docker support.",
+  "source_repo": "moro3k/mcp-altegio",
+  "source_url": "https://github.com/moro3k/mcp-altegio",
+  "install": "# git clone --depth 1 https://github.com/moro3k/mcp-altegio\n# See source for mcpServers config block"
+}

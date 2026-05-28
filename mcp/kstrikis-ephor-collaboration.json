@@ -1,0 +1,7 @@
+{
+  "name": "kstrikis-ephor-collaboration",
+  "description": "Facilitates collaborative debates between multiple agents through a Node.js/TypeScript server that manages multi-turn conversations in a session-based architecture for reaching consensus on user prompts.",
+  "source_repo": "kstrikis/ephor-mcp-collaboration",
+  "source_url": "https://github.com/kstrikis/ephor-mcp-collaboration",
+  "install": "# git clone --depth 1 https://github.com/kstrikis/ephor-mcp-collaboration\n# See source for mcpServers config block"
+}

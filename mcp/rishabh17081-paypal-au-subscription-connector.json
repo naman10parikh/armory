@@ -1,0 +1,7 @@
+{
+  "name": "rishabh17081-paypal-au-subscription-connector",
+  "description": "Integrates with PayPal's Account Updater service to automatically maintain current payment card information for merchants across multiple environments through subscription management and webhook processing.",
+  "source_repo": "rishabh17081/paypal-au-subscription-connector",
+  "source_url": "https://github.com/rishabh17081/paypal-au-subscription-connector",
+  "install": "# git clone --depth 1 https://github.com/rishabh17081/paypal-au-subscription-connector\n# See source for mcpServers config block"
+}

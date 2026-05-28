@@ -1,0 +1,7 @@
+{
+  "name": "mvtandas-wp-cli-mcp",
+  "description": "Full WordPress management via WP-CLI with 30+ tools for themes, plugins, posts, menus, users, database, scaffolding, and cache. Works locally or over SSH to remote servers.",
+  "source_repo": "mvtandas/wp-cli-mcp",
+  "source_url": "https://github.com/mvtandas/wp-cli-mcp",
+  "install": "npx -y wp-cli-mcp"
+}

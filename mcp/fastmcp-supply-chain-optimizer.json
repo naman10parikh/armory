@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-supply-chain-optimizer",
+  "description": "Demonstrates real-time supply chain optimization using Google Gemini for intelligent decision-making across inventory management, warehouse transfers, and reorder recommendations through a Flask web interface that processes supply chain events from CSV data and executes parallel tool calls for optimization decisions.",
+  "source_repo": "ansh-riyal/fastmcp",
+  "source_url": "https://github.com/ansh-riyal/fastmcp",
+  "install": "# git clone --depth 1 https://github.com/ansh-riyal/fastmcp\n# See source for mcpServers config block"
+}

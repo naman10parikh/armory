@@ -1,0 +1,7 @@
+{
+  "name": "intentguard-mcp-server",
+  "description": "Enables AI agents to submit Ethereum transactions with on-chain outcome protection by wrapping DeFi transactions with enforcement transactions that drop the bundle if balance constraints are violated.",
+  "source_repo": "IntentGuardLabs/mcp-server",
+  "source_url": "https://github.com/IntentGuardLabs/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/IntentGuardLabs/mcp-server\n# See source for mcpServers config block"
+}

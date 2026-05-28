@@ -1,0 +1,7 @@
+{
+  "name": "sombra",
+  "description": "Research library that saves web pages as clean markdown, organizes them into collections, and distills them into focused context.",
+  "source_repo": "",
+  "source_url": "https://sombra.so",
+  "install": "# git clone --depth 1 https://sombra.so\n# See source for mcpServers config block"
+}

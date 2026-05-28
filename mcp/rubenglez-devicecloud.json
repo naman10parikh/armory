@@ -1,0 +1,7 @@
+{
+  "name": "rubenglez-devicecloud",
+  "description": "Queries DeviceCloud test uploads, results, analytics, and artifacts for Maestro mobile testing workflows.",
+  "source_repo": "rubenglez/devicecloud-mcp",
+  "source_url": "https://github.com/rubenglez/devicecloud-mcp",
+  "install": "npx -y devicecloud-mcp"
+}

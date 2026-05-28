@@ -1,0 +1,7 @@
+{
+  "name": "manfye-datagovmy",
+  "description": "Integrates with Malaysia's official government data through data.gov.my API and GitHub metadata repository to enable discovery, exploration, and analysis of Malaysian datasets including population statistics, economic indicators, and public service data.",
+  "source_repo": "manfye/data-dosm-mcp-nodejs",
+  "source_url": "https://github.com/manfye/data-dosm-mcp-nodejs",
+  "install": "# git clone --depth 1 https://github.com/manfye/data-dosm-mcp-nodejs\n# See source for mcpServers config block"
+}

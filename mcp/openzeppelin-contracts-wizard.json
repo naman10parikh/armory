@@ -1,0 +1,7 @@
+{
+  "name": "openzeppelin-contracts-wizard",
+  "description": "A Model Context Protocol (MCP) server that allows AI agents to generate secure smart contracts in multiples languages based on [OpenZeppelin Wizard templates](https://wizard.openzeppelin.com/).",
+  "source_repo": "OpenZeppelin/contracts-wizard",
+  "source_url": "https://github.com/OpenZeppelin/contracts-wizard/tree/master/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/OpenZeppelin/contracts-wizard/tree/master/packages/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dlanz1-desktop-automation",
+  "description": "Automates Windows desktop applications using UI Automation APIs for token-efficient window management, element finding, and input control.",
+  "source_repo": "dlanz1/desktop-mcp-server",
+  "source_url": "https://github.com/dlanz1/desktop-mcp-server",
+  "install": "npx -y desktop-mcp-server"
+}

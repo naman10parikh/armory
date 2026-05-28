@@ -1,0 +1,7 @@
+{
+  "name": "fastly-cdn",
+  "description": "Integrates with Fastly CDN to enable direct management of services, domains, cache settings, and security configurations for streamlined DevOps automation and maintenance tasks.",
+  "source_repo": "fastly/mcp",
+  "source_url": "https://github.com/fastly/mcp",
+  "install": "# git clone --depth 1 https://github.com/fastly/mcp\n# See source for mcpServers config block"
+}

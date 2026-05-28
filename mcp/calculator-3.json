@@ -1,0 +1,7 @@
+{
+  "name": "calculator-3",
+  "description": "Perform quick, reliable arithmetic including addition, subtraction, multiplication, and division. Speed up everyday calculations and reduce errors across your workflows.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/AITutor3/calculator-mcp-test",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/AITutor3/calculator-mcp-test\n# See source for mcpServers config block"
+}

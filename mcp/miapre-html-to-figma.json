@@ -1,0 +1,7 @@
+{
+  "name": "miapre-html-to-figma",
+  "description": "Translate HTML prototypes into Figma using real design system components and tokens.",
+  "source_repo": "miapre/mimic-ai",
+  "source_url": "https://github.com/miapre/mimic-ai",
+  "install": "# git clone --depth 1 https://github.com/miapre/mimic-ai\n# See source for mcpServers config block"
+}

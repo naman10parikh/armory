@@ -1,0 +1,7 @@
+{
+  "name": "alpermdr-vscode-workspace",
+  "description": "Integrates with VSCode to provide real-time workspace access, enabling file reading, code analysis across multiple languages, command execution, and automatic detection of recently accessed files and active projects.",
+  "source_repo": "alpermdr/vscode_mcp_python",
+  "source_url": "https://github.com/alpermdr/vscode_mcp_python",
+  "install": "# git clone --depth 1 https://github.com/alpermdr/vscode_mcp_python\n# See source for mcpServers config block"
+}

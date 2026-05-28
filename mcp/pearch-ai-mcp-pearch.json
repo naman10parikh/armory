@@ -1,0 +1,7 @@
+{
+  "name": "pearch-ai-mcp-pearch",
+  "description": "Best people search engine that reduces the time spent on talent discovery",
+  "source_repo": "Pearch-ai/mcp_pearch",
+  "source_url": "https://github.com/Pearch-ai/mcp_pearch",
+  "install": "# git clone --depth 1 https://github.com/Pearch-ai/mcp_pearch\n# See source for mcpServers config block"
+}

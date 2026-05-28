@@ -1,0 +1,7 @@
+{
+  "name": "pipepie-pipepie",
+  "description": "Self-hosted webhook relay and tunnel with Noise NK encryption. 13 MCP tools to inspect requests, replay webhooks, trace AI pipelines, connect/disconnect tunnels, and manage subdomains. No tokens or passwords — the cryptographic handshake is the auth.",
+  "source_repo": "pipepie/pipepie",
+  "source_url": "https://github.com/pipepie/pipepie",
+  "install": "# git clone --depth 1 https://github.com/pipepie/pipepie\n# See source for mcpServers config block"
+}

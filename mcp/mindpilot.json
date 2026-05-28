@@ -1,0 +1,7 @@
+{
+  "name": "mindpilot",
+  "description": "Enables creation and rendering of Mermaid diagrams with real-time visualization through a local web interface, featuring diagram history, export capabilities, and git repository integration for organizing visual representations by project.",
+  "source_repo": "abrinsmead/mindpilot-mcp",
+  "source_url": "https://github.com/abrinsmead/mindpilot-mcp",
+  "install": "npx -y mindpilot-mcp"
+}

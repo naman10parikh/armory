@@ -1,0 +1,7 @@
+{
+  "name": "twjackysu-taiwan-stock-exchange",
+  "description": "Integrates with Taiwan Stock Exchange OpenAPI to provide comprehensive stock market data including company fundamentals, trading patterns, market indices, and valuation metrics for financial analysis and investment research.",
+  "source_repo": "twjackysu/twsemcpserver",
+  "source_url": "https://github.com/twjackysu/twsemcpserver",
+  "install": "# git clone --depth 1 https://github.com/twjackysu/twsemcpserver\n# See source for mcpServers config block"
+}

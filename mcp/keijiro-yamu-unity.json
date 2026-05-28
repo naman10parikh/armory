@@ -1,0 +1,7 @@
+{
+  "name": "keijiro-yamu-unity",
+  "description": "Enables Unity Editor compilation feedback through HTTP server integration, providing tools to trigger compilation, monitor build status, and retrieve error details for automated edit-compile-debug cycles in Unity C# development.",
+  "source_repo": "keijiro/yamu",
+  "source_url": "https://github.com/keijiro/yamu",
+  "install": "# git clone --depth 1 https://github.com/keijiro/yamu\n# See source for mcpServers config block"
+}

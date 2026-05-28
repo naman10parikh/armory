@@ -1,0 +1,7 @@
+{
+  "name": "crawl4ai",
+  "description": "Integrates with Crawl4AI to provide web crawling, content extraction, screenshot capture, PDF generation, and batch processing capabilities with intelligent content detection for sitemaps and RSS feeds.",
+  "source_repo": "omgwtfwow/mcp-crawl4ai-ts",
+  "source_url": "https://github.com/omgwtfwow/mcp-crawl4ai-ts",
+  "install": "# git clone --depth 1 https://github.com/omgwtfwow/mcp-crawl4ai-ts\n# See source for mcpServers config block"
+}

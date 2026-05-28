@@ -1,0 +1,7 @@
+{
+  "name": "puppeteer-mcp",
+  "description": "Official Anthropic/Claude reference MCP server using Puppeteer — provides navigate, screenshot, click, fill, select, hover, evaluate, and network-monitoring tools; reference implementation for browser MCP design.",
+  "source_repo": "modelcontextprotocol/servers",
+  "source_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer\n# See source for mcpServers config block"
+}

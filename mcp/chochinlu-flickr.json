@@ -1,0 +1,7 @@
+{
+  "name": "chochinlu-flickr",
+  "description": "Integrates with the Flickr API for photo search, album management, tagging, metadata updates, and group operations with OAuth authentication.",
+  "source_repo": "chochinlu/flickr-mcp-server",
+  "source_url": "https://github.com/chochinlu/flickr-mcp-server",
+  "install": "npx -y flickr-mcp-server"
+}

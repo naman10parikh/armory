@@ -1,0 +1,7 @@
+{
+  "name": "ariklapid-pyslang",
+  "description": "MCP server providing 10 compiler-backed read-only analysis tools for Verilog and SystemVerilog projects.",
+  "source_repo": "ariklapid/pyslang-mcp",
+  "source_url": "https://github.com/ariklapid/pyslang-mcp",
+  "install": "npx -y pyslang-mcp"
+}

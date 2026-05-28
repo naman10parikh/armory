@@ -1,0 +1,7 @@
+{
+  "name": "emberian-crate-public-api",
+  "description": "Exposes Rust crate public APIs to language models by listing project dependencies and generating documentation for specific crates using cargo's resolution system and rustdoc JSON generation.",
+  "source_repo": "emberian/crate-mcp",
+  "source_url": "https://github.com/emberian/crate-mcp",
+  "install": "npx -y crate-mcp"
+}

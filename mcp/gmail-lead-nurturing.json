@@ -1,0 +1,7 @@
+{
+  "name": "gmail-lead-nurturing",
+  "description": "Automates Gmail-based lead nurturing campaigns for dental practices with multi-stage follow-up sequences, intelligent response tracking, and lead scoring to provide 24/7 hands-off email outreach automation.",
+  "source_repo": "brandononchain/gmail-mcp-agent",
+  "source_url": "https://github.com/brandononchain/gmail-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/brandononchain/gmail-mcp-agent\n# See source for mcpServers config block"
+}

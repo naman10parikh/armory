@@ -1,0 +1,7 @@
+{
+  "name": "presentations-ai",
+  "description": "Create professionally designed slide decks from a topic, text, or document using Presentations.AI.",
+  "source_repo": "slidecraft-in/presentations-ai-mcp-server",
+  "source_url": "https://github.com/slidecraft-in/presentations-ai-mcp-server",
+  "install": "npx -y presentations-ai-mcp-server"
+}

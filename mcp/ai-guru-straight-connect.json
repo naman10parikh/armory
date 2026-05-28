@@ -1,0 +1,7 @@
+{
+  "name": "ai-guru-straight-connect",
+  "description": "Communication service connectors framework with multi-account Telegram support, tiered permission levels, per-account URL routing, and chat whitelisting for secure bot interactions.",
+  "source_repo": "ai-guru/mmxxvi_straight_connect",
+  "source_url": "https://github.com/ai-guru/mmxxvi_straight_connect",
+  "install": "# git clone --depth 1 https://github.com/ai-guru/mmxxvi_straight_connect\n# See source for mcpServers config block"
+}

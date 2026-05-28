@@ -1,0 +1,7 @@
+{
+  "name": "gh-julesliu390-amadeus-qq",
+  "description": "Bridges QQ messaging through NapCatQQ's OneBot v11 API, enabling real-time message monitoring, context buffering, and automated responses in QQ groups and private chats.",
+  "source_repo": "julesliu390/amadeus-qq-mcp",
+  "source_url": "https://github.com/julesliu390/amadeus-qq-mcp",
+  "install": "npx -y amadeus-qq-mcp"
+}

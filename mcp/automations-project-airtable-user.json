@@ -1,0 +1,7 @@
+{
+  "name": "automations-project-airtable-user",
+  "description": "Community MCP server for Airtable with 30 tools for schema inspection, field CRUD, view configuration, and formula validation.",
+  "source_repo": "automations-project/vscode-airtable-formula",
+  "source_url": "https://github.com/automations-project/vscode-airtable-formula",
+  "install": "# git clone --depth 1 https://github.com/automations-project/vscode-airtable-formula\n# See source for mcpServers config block"
+}

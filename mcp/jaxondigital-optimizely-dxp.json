@@ -1,0 +1,7 @@
+{
+  "name": "jaxondigital-optimizely-dxp",
+  "description": "Integrates with Optimizely DXP deployment operations through PowerShell to manage environment-to-environment deployments, database operations, storage containers, and edge logs with intelligent validation and deployment path guardrails.",
+  "source_repo": "jaxondigital/optimizely-dxp-mcp",
+  "source_url": "https://github.com/jaxondigital/optimizely-dxp-mcp",
+  "install": "npx -y optimizely-dxp-mcp"
+}

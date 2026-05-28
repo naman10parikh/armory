@@ -1,0 +1,7 @@
+{
+  "name": "perceptron-studios-ssh-hub",
+  "description": "SSH connection management with persistent pooling, file operations, command execution, and bidirectional directory sync.",
+  "source_repo": "perceptron-studios/ssh-hub",
+  "source_url": "https://github.com/perceptron-studios/ssh-hub",
+  "install": "# git clone --depth 1 https://github.com/perceptron-studios/ssh-hub\n# See source for mcpServers config block"
+}

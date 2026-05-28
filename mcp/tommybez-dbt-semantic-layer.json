@@ -1,0 +1,7 @@
+{
+  "name": "tommybez-dbt-semantic-layer",
+  "description": "Integrates with the DBT Semantic Layer API to enable querying and analysis of data models defined in DBT, supporting report generation, ad-hoc analysis, and data-driven application development.",
+  "source_repo": "tommybez/dbt-semantic-layer-mcp-server",
+  "source_url": "https://github.com/tommybez/dbt-semantic-layer-mcp-server",
+  "install": "npx -y dbt-semantic-layer-mcp-server"
+}

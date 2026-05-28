@@ -1,0 +1,7 @@
+{
+  "name": "fisheep-easy-copy",
+  "description": "Utility server that automatically reads Claude Desktop configuration files and presents all available MCP services in an easy-to-copy format for quick access and troubleshooting.",
+  "source_repo": "f-is-h/mcp-easy-copy",
+  "source_url": "https://github.com/f-is-h/mcp-easy-copy",
+  "install": "# git clone --depth 1 https://github.com/f-is-h/mcp-easy-copy\n# See source for mcpServers config block"
+}

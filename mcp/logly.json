@@ -1,0 +1,7 @@
+{
+  "name": "logly",
+  "description": "Query Logly web analytics for traffic data, funnels, and real-time visitor counts from any MCP client.",
+  "source_repo": "logly-uk/logly-mcp",
+  "source_url": "https://github.com/logly-uk/logly-mcp",
+  "install": "npx -y logly-mcp"
+}

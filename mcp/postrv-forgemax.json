@@ -1,0 +1,7 @@
+{
+  "name": "postrv-forgemax",
+  "description": "Code Mode MCP Gateway that collapses N servers x M tools into 2 tools through sandboxed V8 JavaScript execution for cross-server orchestration.",
+  "source_repo": "postrv/forgemax",
+  "source_url": "https://github.com/postrv/forgemax",
+  "install": "# git clone --depth 1 https://github.com/postrv/forgemax\n# See source for mcpServers config block"
+}

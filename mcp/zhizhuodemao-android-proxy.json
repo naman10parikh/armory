@@ -1,0 +1,7 @@
+{
+  "name": "zhizhuodemao-android-proxy",
+  "description": "Captures and analyzes Android device network traffic through mitmproxy integration for HTTP/HTTPS interception and mobile app debugging.",
+  "source_repo": "zhizhuodemao/android_proxy_mcp",
+  "source_url": "https://github.com/zhizhuodemao/android_proxy_mcp",
+  "install": "npx -y android_proxy_mcp"
+}

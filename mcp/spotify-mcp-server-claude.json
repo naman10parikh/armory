@@ -1,0 +1,7 @@
+{
+  "name": "spotify-mcp-server-claude",
+  "description": "Spotify_mcp_server_claude MCP server listed on mcp.so.",
+  "source_repo": "himanshuverma8/spotify_mcp_server_claude",
+  "source_url": "https://mcp.so/server/spotify_mcp_server_claude/himanshuverma8",
+  "install": "# git clone --depth 1 https://mcp.so/server/spotify_mcp_server_claude/himanshuverma8\n# See source for mcpServers config block"
+}

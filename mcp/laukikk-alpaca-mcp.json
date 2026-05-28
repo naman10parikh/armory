@@ -1,0 +1,7 @@
+{
+  "name": "laukikk-alpaca-mcp",
+  "description": "An MCP Server for the Alpaca trading API to manage stock and crypto portfolios, place trades, and access market data.",
+  "source_repo": "laukikk/alpaca-mcp",
+  "source_url": "https://github.com/laukikk/alpaca-mcp",
+  "install": "npx -y alpaca-mcp"
+}

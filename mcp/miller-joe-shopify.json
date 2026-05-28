@@ -1,0 +1,7 @@
+{
+  "name": "miller-joe-shopify",
+  "description": "Manages Shopify stores via the Admin API with AI-powered product image generation.",
+  "source_repo": "miller-joe/shopify-mcp",
+  "source_url": "https://github.com/miller-joe/shopify-mcp",
+  "install": "npx -y shopify-mcp"
+}

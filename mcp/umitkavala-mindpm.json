@@ -1,0 +1,7 @@
+{
+  "name": "umitkavala-mindpm",
+  "description": "Persistent project memory for LLMs via SQLite with a built-in Kanban board UI.",
+  "source_repo": "umitkavala/mindpm",
+  "source_url": "https://github.com/umitkavala/mindpm",
+  "install": "# git clone --depth 1 https://github.com/umitkavala/mindpm\n# See source for mcpServers config block"
+}

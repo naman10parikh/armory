@@ -1,0 +1,7 @@
+{
+  "name": "wh0ff24-crypto-data",
+  "description": "MCP server for live cryptocurrency prices, market overview, Fear &amp; Greed Index, and historical charts via CoinGecko.",
+  "source_repo": "wh0ff24/crypto-data-mcp",
+  "source_url": "https://github.com/wh0ff24/crypto-data-mcp",
+  "install": "npx -y crypto-data-mcp"
+}

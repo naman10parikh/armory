@@ -1,0 +1,7 @@
+{
+  "name": "trymonoly-kali-toolkit",
+  "description": "Exposes Kali Linux security tools with interactive terminal sessions, code execution, and configurable authentication for penetration testing workflows.",
+  "source_repo": "trymonoly/kali-mcp-toolkit",
+  "source_url": "https://github.com/trymonoly/kali-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/trymonoly/kali-mcp-toolkit\n# See source for mcpServers config block"
+}

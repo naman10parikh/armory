@@ -1,0 +1,7 @@
+{
+  "name": "mcp-email-server",
+  "description": "Enables LLMs to read, send, and manage emails via POP3 and SMTP with TLS support.",
+  "source_repo": "ptbsare/email-mcp-server",
+  "source_url": "https://github.com/ptbsare/email-mcp-server",
+  "install": "npx -y email-mcp-server"
+}

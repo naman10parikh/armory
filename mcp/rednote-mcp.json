@@ -1,0 +1,7 @@
+{
+  "name": "rednote-mcp",
+  "description": "Rednote_mcp MCP server listed on mcp.so.",
+  "source_repo": "wuzufeng/rednote_mcp",
+  "source_url": "https://mcp.so/server/rednote_mcp/wuzufeng",
+  "install": "npx -y rednote_mcp"
+}

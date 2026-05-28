@@ -1,0 +1,7 @@
+{
+  "name": "cursor-conversations",
+  "description": "Provides direct access to Cursor's local conversation database for analyzing coding patterns, extracting personalized development insights, and generating context-aware assistance based on your actual project history and problem-solving sessions.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/cursor-conversations",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/cursor-conversations\n# See source for mcpServers config block"
+}

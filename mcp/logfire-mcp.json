@@ -1,0 +1,7 @@
+{
+  "name": "logfire-mcp",
+  "description": "Logfire Mcp MCP server listed on mcp.so.",
+  "source_repo": "pydantic/logfire-mcp",
+  "source_url": "https://mcp.so/server/logfire-mcp/pydantic",
+  "install": "npx -y logfire-mcp"
+}

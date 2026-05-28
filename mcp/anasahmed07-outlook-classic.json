@@ -1,0 +1,7 @@
+{
+  "name": "anasahmed07-outlook-classic",
+  "description": "Exposes Outlook desktop functionality to AI agents via Windows COM API, covering mail, calendar, contacts, tasks, and rules.",
+  "source_repo": "anasahmed07/outlook-classic-mcp",
+  "source_url": "https://github.com/anasahmed07/outlook-classic-mcp",
+  "install": "npx -y outlook-classic-mcp"
+}

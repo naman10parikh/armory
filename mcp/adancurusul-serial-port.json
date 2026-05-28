@@ -1,0 +1,7 @@
+{
+  "name": "adancurusul-serial-port",
+  "description": "Enables serial port communication with embedded devices and hardware through configurable connection parameters, multiple data encodings, and session management for IoT development, firmware debugging, and hardware automation.",
+  "source_repo": "adancurusul/serial-mcp-server",
+  "source_url": "https://github.com/adancurusul/serial-mcp-server",
+  "install": "npx -y serial-mcp-server"
+}

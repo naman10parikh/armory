@@ -1,0 +1,7 @@
+{
+  "name": "xieemengxin-memory-inspector",
+  "description": "Exposes Windows process memory debugging capabilities through ~50 tools for memory scanning, reading, writing, disassembly, and DLL injection via a Python MCP bridge.",
+  "source_repo": "xieemengxin/memory-inspector-mcp",
+  "source_url": "https://github.com/xieemengxin/memory-inspector-mcp",
+  "install": "npx -y memory-inspector-mcp"
+}

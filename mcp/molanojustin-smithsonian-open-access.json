@@ -1,0 +1,7 @@
+{
+  "name": "molanojustin-smithsonian-open-access",
+  "description": "Provides access to the Smithsonian Institution's Open Access collections through their API, enabling search across 3+ million cultural objects from museums like NMNH, NPG, and SAAM with filters for object type, creator, materials, and licensing status, plus detailed object retrieval with metadata, images, and 3D models.",
+  "source_repo": "molanojustin/smithsonian-mcp",
+  "source_url": "https://github.com/molanojustin/smithsonian-mcp",
+  "install": "npx -y smithsonian-mcp"
+}

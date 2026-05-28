@@ -1,0 +1,7 @@
+{
+  "name": "splitifi",
+  "description": "Litigation outcome predictions and judge profiles from ML models trained on 30 million court records.",
+  "source_repo": "mysplitifi/splitifi",
+  "source_url": "https://github.com/mysplitifi/splitifi/tree/HEAD/splitifi-mcp",
+  "install": "# git clone --depth 1 https://github.com/mysplitifi/splitifi/tree/HEAD/splitifi-mcp\n# See source for mcpServers config block"
+}

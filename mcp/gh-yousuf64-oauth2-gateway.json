@@ -1,0 +1,7 @@
+{
+  "name": "gh-yousuf64-oauth2-gateway",
+  "description": "Multi-tenant OAuth2 gateway that proxies MCP tool calls to downstream servers with per-user token management.",
+  "source_repo": "yousuf64/mcp-auth",
+  "source_url": "https://github.com/yousuf64/mcp-auth",
+  "install": "# git clone --depth 1 https://github.com/yousuf64/mcp-auth\n# See source for mcpServers config block"
+}

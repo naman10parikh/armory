@@ -1,0 +1,7 @@
+{
+  "name": "lvoytek-ubuntu",
+  "description": "Query and manage Ubuntu ecosystem data including bugs, packages, versions, and merge requests via Launchpad, GitHub, and Snapcraft.",
+  "source_repo": "lvoytek/ubuntu-mcp",
+  "source_url": "https://github.com/lvoytek/ubuntu-mcp",
+  "install": "npx -y ubuntu-mcp"
+}

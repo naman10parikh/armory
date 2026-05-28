@@ -1,0 +1,7 @@
+{
+  "name": "mexican75-simple-email",
+  "description": "Provider-agnostic email management via IMAP and SMTP with multi-account support and calendar invites.",
+  "source_repo": "mexican75/simple-email-mcp",
+  "source_url": "https://github.com/mexican75/simple-email-mcp",
+  "install": "npx -y simple-email-mcp"
+}

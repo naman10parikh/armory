@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-server-sqlite",
+  "description": "SQLite database operations with built-in analysis features",
+  "source_repo": "modelcontextprotocol/servers-archived",
+  "source_url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sqlite\n# See source for mcpServers config block"
+}

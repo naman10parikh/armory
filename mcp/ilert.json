@@ -1,0 +1,7 @@
+{
+  "name": "ilert",
+  "description": "Integrates with ilert's alerting and incident management platform to provide direct access to alerting workflows, incident data, and on-call management through a remote HTTP transport requiring only API key authentication.",
+  "source_repo": "ilert/mcp-ilert",
+  "source_url": "https://github.com/ilert/mcp-ilert",
+  "install": "# git clone --depth 1 https://github.com/ilert/mcp-ilert\n# See source for mcpServers config block"
+}

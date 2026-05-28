@@ -1,0 +1,7 @@
+{
+  "name": "countrycalling-codes",
+  "description": "Look up country calling codes, ISO codes, E.164 dial codes, regions, trunk prefixes, and NANP area codes.",
+  "source_repo": "",
+  "source_url": "https://countrycalling.codes/api/mcp",
+  "install": "# git clone --depth 1 https://countrycalling.codes/api/mcp\n# See source for mcpServers config block"
+}

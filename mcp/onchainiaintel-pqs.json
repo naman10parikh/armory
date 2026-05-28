@@ -1,0 +1,7 @@
+{
+  "name": "onchainiaintel-pqs",
+  "description": "Evaluates LLM prompts before execution with a quality score, letter grade, percentile, and dimensional breakdown.",
+  "source_repo": "onchainaiintel/pqs-mcp-server",
+  "source_url": "https://github.com/onchainaiintel/pqs-mcp-server",
+  "install": "npx -y pqs-mcp-server"
+}

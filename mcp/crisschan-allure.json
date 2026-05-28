@@ -1,0 +1,7 @@
+{
+  "name": "crisschan-allure",
+  "description": "Provides a bridge to Allure test reports, enabling access to test execution data including test cases, steps, statuses, and timestamps through a structured API for analysis and custom reporting.",
+  "source_repo": "crisschan/mcp-allure",
+  "source_url": "https://github.com/crisschan/mcp-allure",
+  "install": "# git clone --depth 1 https://github.com/crisschan/mcp-allure\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "davidmosiah-wellness-nourish",
+  "description": "Local-first nutrition MCP server for food search, barcode lookup, meal logging, hydration tracking, and dietary goal management.",
+  "source_repo": "davidmosiah/wellness-nourish",
+  "source_url": "https://github.com/davidmosiah/wellness-nourish",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/wellness-nourish\n# See source for mcpServers config block"
+}

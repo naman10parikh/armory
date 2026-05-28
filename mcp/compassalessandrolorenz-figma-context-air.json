@@ -1,0 +1,7 @@
+{
+  "name": "compassalessandrolorenz-figma-context-air",
+  "description": "Extended fork of the Figma Context MCP server providing AI coding tools with access to Figma design data, assets, and code documentation.",
+  "source_repo": "compassalessandrolorenz/figma-context-mcp-air",
+  "source_url": "https://github.com/compassalessandrolorenz/figma-context-mcp-air",
+  "install": "# git clone --depth 1 https://github.com/compassalessandrolorenz/figma-context-mcp-air\n# See source for mcpServers config block"
+}

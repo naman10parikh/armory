@@ -1,0 +1,7 @@
+{
+  "name": "cuthongthai-vn-vimo-mcp-server",
+  "description": "Vietnam stock market intelligence — 35 tools: real-time SSI quotes, technical analysis, financial statements, stock screener (13 strategies), AI picks, foreign flow, macro indicators, and 13 investment playbook categories",
+  "source_repo": "cuthongthai-vn/vimo-mcp-server",
+  "source_url": "https://github.com/cuthongthai-vn/vimo-mcp-server",
+  "install": "npx -y vimo-mcp-server"
+}

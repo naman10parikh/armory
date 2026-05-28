@@ -1,0 +1,7 @@
+{
+  "name": "invinoveritas",
+  "description": "A Lightning-paid tool stack for autonomous agents — capital-scale-aware second-opinion /review (Sentinel mode auto-injects live trading state), reasoning, structured decisions, sandboxed code execution, paid agent-to-agent messaging, persistent memory, and signed audit proofs. Built and used daily b",
+  "source_repo": "babyblueviper1/invinoveritas-sdk",
+  "source_url": "https://github.com/babyblueviper1/invinoveritas-sdk",
+  "install": "# git clone --depth 1 https://github.com/babyblueviper1/invinoveritas-sdk\n# See source for mcpServers config block"
+}

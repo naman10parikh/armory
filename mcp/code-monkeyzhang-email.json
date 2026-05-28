@@ -1,0 +1,7 @@
+{
+  "name": "code-monkeyzhang-email",
+  "description": "Integrates with IMAP and SMTP email servers to enable comprehensive email management including sending messages with attachments, retrieving content, organizing conversations through threading, and automating email workflows.",
+  "source_repo": "code-monkeyzhang/email-mcp-app",
+  "source_url": "https://github.com/code-monkeyzhang/email-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/code-monkeyzhang/email-mcp-app\n# See source for mcpServers config block"
+}

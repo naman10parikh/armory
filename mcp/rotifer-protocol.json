@@ -1,0 +1,7 @@
+{
+  "name": "rotifer-protocol",
+  "description": "Searches, compares, and ranks AI Genes in the Rotifer Protocol ecosystem for autonomous agent capability evolution.",
+  "source_repo": "rotifer-protocol/rotifer-mcp-server",
+  "source_url": "https://github.com/rotifer-protocol/rotifer-mcp-server",
+  "install": "npx -y rotifer-mcp-server"
+}

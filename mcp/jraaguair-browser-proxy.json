@@ -1,0 +1,7 @@
+{
+  "name": "jraaguair-browser-proxy",
+  "description": "Experimental MCP server runtime connecting AI agents to browser automation and network proxy capture for local research workflows.",
+  "source_repo": "jraaguair/python_mcp",
+  "source_url": "https://github.com/jraaguair/python_mcp",
+  "install": "npx -y python_mcp"
+}

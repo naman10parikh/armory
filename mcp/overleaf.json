@@ -1,0 +1,7 @@
+{
+  "name": "overleaf",
+  "description": "Integrates with Overleaf LaTeX projects through Git access to read, analyze, and navigate academic papers and documents with file listing, content retrieval, document structure parsing, and multi-project support for academic writing workflows and research paper analysis.",
+  "source_repo": "mjyoo2/overleafmcp",
+  "source_url": "https://github.com/mjyoo2/overleafmcp",
+  "install": "# git clone --depth 1 https://github.com/mjyoo2/overleafmcp\n# See source for mcpServers config block"
+}

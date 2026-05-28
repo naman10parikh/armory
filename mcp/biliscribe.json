@@ -1,0 +1,7 @@
+{
+  "name": "biliscribe",
+  "description": "Extracts and formats Bilibili video content into structured text for LLM processing and analysis.",
+  "source_repo": "mcp-server-summary/biliscribe",
+  "source_url": "https://github.com/mcp-server-summary/biliscribe",
+  "install": "# git clone --depth 1 https://github.com/mcp-server-summary/biliscribe\n# See source for mcpServers config block"
+}

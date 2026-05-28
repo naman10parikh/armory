@@ -1,0 +1,7 @@
+{
+  "name": "reexpress-sdm-verification",
+  "description": "Enable Similarity-Distance-Magnitude statistical verification for your search, software, and data science workflows.",
+  "source_repo": "reexpressai/reexpress_mcp_server",
+  "source_url": "https://github.com/reexpressai/reexpress_mcp_server",
+  "install": "npx -y reexpress_mcp_server"
+}

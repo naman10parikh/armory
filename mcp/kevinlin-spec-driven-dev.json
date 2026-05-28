@@ -1,0 +1,7 @@
+{
+  "name": "kevinlin-spec-driven-dev",
+  "description": "Transforms development from idea to implementation through structured phases including goal collection, EARS format requirements gathering, technical design documentation, task planning, and systematic code execution with template-based guidance and organized specification documents.",
+  "source_repo": "kevinlin/spec-coding-mcp",
+  "source_url": "https://github.com/kevinlin/spec-coding-mcp",
+  "install": "npx -y spec-coding-mcp"
+}

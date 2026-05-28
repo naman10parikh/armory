@@ -1,0 +1,7 @@
+{
+  "name": "wolfyy970-docs-fetch",
+  "description": "Fetches and explores web content with recursive link-following capabilities, using a dual-strategy approach with axios and puppeteer fallback to provide reliable document retrieval within time constraints.",
+  "source_repo": "wolfyy970/docs-fetch-mcp",
+  "source_url": "https://github.com/wolfyy970/docs-fetch-mcp",
+  "install": "npx -y docs-fetch-mcp"
+}

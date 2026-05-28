@@ -1,0 +1,7 @@
+{
+  "name": "subnetmarco-pgmcp",
+  "description": "Natural language PostgreSQL queries with automatic streaming, read-only safety, and universal database compatibility.",
+  "source_repo": "subnetmarco/pgmcp",
+  "source_url": "https://github.com/subnetmarco/pgmcp",
+  "install": "# git clone --depth 1 https://github.com/subnetmarco/pgmcp\n# See source for mcpServers config block"
+}

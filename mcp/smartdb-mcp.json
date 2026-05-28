@@ -1,0 +1,7 @@
+{
+  "name": "smartdb-mcp",
+  "description": "智能数据库查询 MCP 服务，支持在 AI 编程工具中用自然语言查询数据库。",
+  "source_repo": "zhaoran025/smart-db-mcp",
+  "source_url": "https://github.com/zhaoran025/smart-db-mcp",
+  "install": "npx -y smart-db-mcp"
+}

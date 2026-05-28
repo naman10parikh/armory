@@ -1,0 +1,7 @@
+{
+  "name": "cantpr09ram-tku-academic-systems",
+  "description": "Connects Blender to TKU's learning management and student information systems, enabling automated interactions with university platforms through authenticated access to TronClass and TKU-ilife.",
+  "source_repo": "cantpr09ram/tronclass-mcp",
+  "source_url": "https://github.com/cantpr09ram/tronclass-mcp",
+  "install": "npx -y tronclass-mcp"
+}

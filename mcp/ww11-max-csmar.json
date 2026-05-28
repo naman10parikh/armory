@@ -1,0 +1,7 @@
+{
+  "name": "ww11-max-csmar",
+  "description": "CSMAR Chinese financial database access covering 240+ datasets for securities and accounting research.",
+  "source_repo": "ww11-max/csmar-mcp",
+  "source_url": "https://github.com/ww11-max/csmar-mcp",
+  "install": "npx -y csmar-mcp"
+}

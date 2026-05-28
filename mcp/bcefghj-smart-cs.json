@@ -1,0 +1,7 @@
+{
+  "name": "bcefghj-smart-cs",
+  "description": "Enterprise multi-agent customer service system using MCP for standardized tool interfaces across order queries, ticket management, and knowledge base search.",
+  "source_repo": "bcefghj/smart-cs-multi-agent",
+  "source_url": "https://github.com/bcefghj/smart-cs-multi-agent",
+  "install": "# git clone --depth 1 https://github.com/bcefghj/smart-cs-multi-agent\n# See source for mcpServers config block"
+}

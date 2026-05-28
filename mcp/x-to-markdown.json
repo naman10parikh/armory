@@ -1,0 +1,7 @@
+{
+  "name": "x-to-markdown",
+  "description": "Convert X (Twitter) articles, tweets, and threads to clean Markdown. Free, no auth required. **Tool:** `convert_x_to_markdown` — pass any X/Twitter URL, get structured Markdown back. Works with X Articles (long-form), regular tweets, note tweets, and threads. Returns author, date, engagement stats,",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/xtomd/x-to-markdown",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/xtomd/x-to-markdown\n# See source for mcpServers config block"
+}

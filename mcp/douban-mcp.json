@@ -1,0 +1,7 @@
+{
+  "name": "douban-mcp",
+  "description": "Douban Mcp MCP server listed on mcp.so.",
+  "source_repo": "L-Chris/douban-mcp",
+  "source_url": "https://mcp.so/server/douban-mcp/L-Chris",
+  "install": "npx -y douban-mcp"
+}

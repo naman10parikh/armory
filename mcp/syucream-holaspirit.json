@@ -1,0 +1,7 @@
+{
+  "name": "syucream-holaspirit",
+  "description": "Integrates with Holaspirit's API to provide access to organizational data for tasks like structure analysis, role management, and policy review.",
+  "source_repo": "syucream/holaspirit-mcp-server",
+  "source_url": "https://github.com/syucream/holaspirit-mcp-server",
+  "install": "npx -y holaspirit-mcp-server"
+}

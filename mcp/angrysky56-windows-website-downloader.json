@@ -1,0 +1,7 @@
+{
+  "name": "angrysky56-windows-website-downloader",
+  "description": "Windows-compatible website downloader for efficient web content retrieval and storage, leveraging asynchronous processing and concurrent downloads for tasks like web scraping and content archiving.",
+  "source_repo": "angrysky56/mcp-windows-website-downloader",
+  "source_url": "https://github.com/angrysky56/mcp-windows-website-downloader",
+  "install": "# git clone --depth 1 https://github.com/angrysky56/mcp-windows-website-downloader\n# See source for mcpServers config block"
+}

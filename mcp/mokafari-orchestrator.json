@@ -1,0 +1,7 @@
+{
+  "name": "mokafari-orchestrator",
+  "description": "Orchestrates distributed task management by coordinating workflows, enforcing dependencies, and tracking execution across instances for complex data processing and computing jobs.",
+  "source_repo": "mokafari/orchestrator-server",
+  "source_url": "https://github.com/mokafari/orchestrator-server",
+  "install": "# git clone --depth 1 https://github.com/mokafari/orchestrator-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "duckpond-mcp-server",
+  "description": "MCP server for multi-tenant DuckDB management with R2/S3 cloud storage, enabling AI agents to manage per-user databases with automatic cloud persistence.",
+  "source_repo": "jordanburke/duckpond-mcp-server",
+  "source_url": "https://github.com/jordanburke/duckpond-mcp-server",
+  "install": "npx -y duckpond-mcp-server"
+}

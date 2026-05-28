@@ -1,0 +1,7 @@
+{
+  "name": "automenta-logic",
+  "description": "First-order logic reasoning with theorem proving, model finding, and syntax validation using Tau-Prolog.",
+  "source_repo": "autonull/mcplogic",
+  "source_url": "https://github.com/autonull/mcplogic",
+  "install": "# git clone --depth 1 https://github.com/autonull/mcplogic\n# See source for mcpServers config block"
+}

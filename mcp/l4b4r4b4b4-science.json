@@ -1,0 +1,7 @@
+{
+  "name": "l4b4r4b4b4-science",
+  "description": "Enables research workflows with paper ingestion, semantic search, citation graph traversal, and knowledge synthesis.",
+  "source_repo": "l4b4r4b4b4/science-mcp",
+  "source_url": "https://github.com/l4b4r4b4b4/science-mcp",
+  "install": "npx -y science-mcp"
+}

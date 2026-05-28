@@ -1,0 +1,7 @@
+{
+  "name": "dsbissett-excel-webview2",
+  "description": "Bridge Claude Code to Excel add-ins running in WebView2 via Chrome DevTools Protocol.",
+  "source_repo": "dsbissett/excel-webview2-mcp",
+  "source_url": "https://github.com/dsbissett/excel-webview2-mcp",
+  "install": "npx -y excel-webview2-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seekrays-system-monitor",
+  "description": "Provides real-time system metrics for CPU, memory, disk, network, host, and process statistics using Go and gopsutil, enabling detailed performance monitoring and diagnostics across Windows, macOS, and Linux.",
+  "source_repo": "seekrays/mcp-monitor",
+  "source_url": "https://github.com/seekrays/mcp-monitor",
+  "install": "# git clone --depth 1 https://github.com/seekrays/mcp-monitor\n# See source for mcpServers config block"
+}

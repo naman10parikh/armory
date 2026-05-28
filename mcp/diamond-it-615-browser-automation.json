@@ -1,0 +1,7 @@
+{
+  "name": "diamond-it-615-browser-automation",
+  "description": "Enables browser automation through a WebSocket-connected browser extension, providing tools for extracting page content as markdown, injecting custom CSS styles, retrieving URLs, and searching browser history for web scraping, testing, and content analysis workflows.",
+  "source_repo": "diamond-it-615/browser-mcp",
+  "source_url": "https://github.com/diamond-it-615/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

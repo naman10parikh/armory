@@ -1,0 +1,7 @@
+{
+  "name": "airops",
+  "description": "Provides programmatic access to AirOps's AEO platform for monitoring brand visibility across AI search, analyzing competitors, generating reports, and managing brand and content kits.",
+  "source_repo": "",
+  "source_url": "https://docs.airops.com/mcp/mcp-server",
+  "install": "# git clone --depth 1 https://docs.airops.com/mcp/mcp-server\n# See source for mcpServers config block"
+}

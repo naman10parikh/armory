@@ -1,0 +1,7 @@
+{
+  "name": "uptimerobot",
+  "description": "Monitor uptime, incidents, and response times through a hosted MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://uptimerobot.com/mcp",
+  "install": "# git clone --depth 1 https://uptimerobot.com/mcp\n# See source for mcpServers config block"
+}

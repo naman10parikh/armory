@@ -1,0 +1,7 @@
+{
+  "name": "kcofoni-pmwiki",
+  "description": "Search and read PmWiki pages with text queries and group filtering",
+  "source_repo": "kcofoni/pmwiki-mcp",
+  "source_url": "https://github.com/kcofoni/pmwiki-mcp",
+  "install": "npx -y pmwiki-mcp"
+}

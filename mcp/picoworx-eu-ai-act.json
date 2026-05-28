@@ -1,0 +1,7 @@
+{
+  "name": "picoworx-eu-ai-act",
+  "description": "Provides structured knowledge about the EU AI Act for risk classification, compliance, and penalty calculations.",
+  "source_repo": "lexbeam-software/eu-ai-act-mcp",
+  "source_url": "https://github.com/lexbeam-software/eu-ai-act-mcp",
+  "install": "npx -y eu-ai-act-mcp"
+}

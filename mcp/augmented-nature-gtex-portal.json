@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-gtex-portal",
+  "description": "Integrates with GTEx Portal API to provide gene expression analysis, genetic variant associations, and tissue-specific genomics data retrieval across 25 specialized tools for human gene expression research and comparative genomics studies.",
+  "source_repo": "augmented-nature/gtex-mcp-server",
+  "source_url": "https://github.com/augmented-nature/gtex-mcp-server",
+  "install": "npx -y gtex-mcp-server"
+}

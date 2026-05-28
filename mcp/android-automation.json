@@ -1,0 +1,7 @@
+{
+  "name": "android-automation",
+  "description": "Provides direct automation and control of Android devices through uiautomator2, enabling clicking, swiping, typing, and UI element inspection for mobile app testing and automation workflows.",
+  "source_repo": "cursortouch/android-mcp",
+  "source_url": "https://github.com/cursortouch/android-mcp",
+  "install": "npx -y android-mcp"
+}

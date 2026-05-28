@@ -1,0 +1,7 @@
+{
+  "name": "cyfrin-aderyn",
+  "description": "Provides intelligent Solidity smart contract analysis through the Aderyn static analyzer, scanning codebases to identify security vulnerabilities, code quality issues, and potential exploits across multiple severity levels with support for Foundry and Hardhat projects.",
+  "source_repo": "cyfrin/aderyn",
+  "source_url": "https://github.com/cyfrin/aderyn",
+  "install": "# git clone --depth 1 https://github.com/cyfrin/aderyn\n# See source for mcpServers config block"
+}

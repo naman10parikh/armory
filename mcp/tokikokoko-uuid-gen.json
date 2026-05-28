@@ -1,0 +1,7 @@
+{
+  "name": "tokikokoko-uuid-gen",
+  "description": "Generates unique UUIDs through a lightweight Deno-based tool interface with comprehensive logging and error handling capabilities",
+  "source_repo": "tokikokoko/mcp-server-uuid-gen",
+  "source_url": "https://github.com/tokikokoko/mcp-server-uuid-gen",
+  "install": "# git clone --depth 1 https://github.com/tokikokoko/mcp-server-uuid-gen\n# See source for mcpServers config block"
+}

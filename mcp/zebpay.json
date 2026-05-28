@@ -1,0 +1,7 @@
+{
+  "name": "zebpay",
+  "description": "Access Zebpay crypto exchange spot and futures APIs for market data, trading, and account management.",
+  "source_repo": "zebpay/zebpay-mcp-server",
+  "source_url": "https://github.com/zebpay/zebpay-mcp-server",
+  "install": "npx -y zebpay-mcp-server"
+}

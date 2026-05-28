@@ -1,0 +1,7 @@
+{
+  "name": "jakenuts-solarwinds-observability-logs",
+  "description": "Integrates with SolarWinds Observability logs, providing tools for searching, visualizing, and analyzing log data with advanced filtering options and customizable time ranges for DevOps and IT operations teams.",
+  "source_repo": "jakenuts/mcp-solarwinds",
+  "source_url": "https://github.com/jakenuts/mcp-solarwinds",
+  "install": "# git clone --depth 1 https://github.com/jakenuts/mcp-solarwinds\n# See source for mcpServers config block"
+}

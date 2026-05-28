@@ -1,0 +1,7 @@
+{
+  "name": "chipbaskets-getkin",
+  "description": "Provides agent infrastructure tools including LLM model routing, availability monitoring, and memory compression.",
+  "source_repo": "chipbaskets/getkin-mcp",
+  "source_url": "https://github.com/chipbaskets/getkin-mcp",
+  "install": "npx -y getkin-mcp"
+}

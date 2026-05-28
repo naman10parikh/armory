@@ -1,0 +1,7 @@
+{
+  "name": "laurynas-biveinis-elisp-dev",
+  "description": "Provides Emacs Lisp development assistance through function documentation retrieval, source code definition extraction, variable information lookup, Info documentation access, and secure source file reading from system directories and ELPA packages.",
+  "source_repo": "laurynas-biveinis/elisp-dev-mcp",
+  "source_url": "https://github.com/laurynas-biveinis/elisp-dev-mcp",
+  "install": "npx -y elisp-dev-mcp"
+}

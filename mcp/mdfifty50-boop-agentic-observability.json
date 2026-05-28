@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-agentic-observability",
+  "description": "Agent tracing, cost tracking, and anomaly detection for LLM-based agents.",
+  "source_repo": "mdfifty50-boop/agent-observability-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/agent-observability-mcp",
+  "install": "npx -y agent-observability-mcp"
+}

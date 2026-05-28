@@ -1,0 +1,7 @@
+{
+  "name": "helpful-ais-triplyfy-mcp",
+  "description": "An MCP server that lets LLMs plan and manage itineraries with interactive maps in Triplyfy; manage itineraries, places and notes, and search/save flights.",
+  "source_repo": "helpful-AIs/triplyfy-mcp",
+  "source_url": "https://github.com/helpful-AIs/triplyfy-mcp",
+  "install": "npx -y triplyfy-mcp"
+}

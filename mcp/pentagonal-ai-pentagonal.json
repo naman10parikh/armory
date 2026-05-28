@@ -1,0 +1,7 @@
+{
+  "name": "pentagonal-ai-pentagonal",
+  "description": "AI-powered smart contract security forge with 8-agent adversarial pen test. Generate, audit, fix, and compile contracts across 8 chains (Ethereum, Solana, Polygon, Base, Arbitrum, Optimism, BSC, Avalanche). Token intelligence with honeypot detection. x402 USDC payments for autonomous agents.",
+  "source_repo": "Pentagonal-ai/pentagonal",
+  "source_url": "https://github.com/Pentagonal-ai/pentagonal",
+  "install": "# git clone --depth 1 https://github.com/Pentagonal-ai/pentagonal\n# See source for mcpServers config block"
+}

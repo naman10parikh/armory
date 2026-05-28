@@ -1,0 +1,7 @@
+{
+  "name": "inas-21-formula-1",
+  "description": "Real-time and historical Formula 1 data including standings, race results, and schedules via OpenF1 API.",
+  "source_repo": "inas-21/f1-mcp",
+  "source_url": "https://github.com/inas-21/f1-mcp",
+  "install": "npx -y f1-mcp"
+}

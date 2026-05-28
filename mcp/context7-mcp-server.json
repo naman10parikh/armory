@@ -1,0 +1,7 @@
+{
+  "name": "context7-mcp-server",
+  "description": "An MCP server that bridges to the Context7 API, enabling querying documentation context, searching projects, and retrieving project metadata.",
+  "source_repo": "quiint/c7-mcp-server",
+  "source_url": "https://github.com/quiint/c7-mcp-server",
+  "install": "npx -y c7-mcp-server"
+}

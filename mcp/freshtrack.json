@@ -1,0 +1,7 @@
+{
+  "name": "freshtrack",
+  "description": "Look up food shelf life, storage tips, food safety guidelines, and waste cost estimates.",
+  "source_repo": "chrisbusbin-pixel/freshtrack-mcp-server",
+  "source_url": "https://github.com/chrisbusbin-pixel/freshtrack-mcp-server",
+  "install": "npx -y freshtrack-mcp-server"
+}

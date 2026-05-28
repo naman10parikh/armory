@@ -1,0 +1,7 @@
+{
+  "name": "gh-alisaitteke-photoshop",
+  "description": "Automate Adobe Photoshop operations including layer management, filters, and image manipulation.",
+  "source_repo": "alisaitteke/photoshop-mcp",
+  "source_url": "https://github.com/alisaitteke/photoshop-mcp",
+  "install": "npx -y photoshop-mcp"
+}

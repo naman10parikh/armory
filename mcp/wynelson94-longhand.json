@@ -1,0 +1,7 @@
+{
+  "name": "wynelson94-longhand",
+  "description": "Persistent local memory for Claude Code sessions by indexing tool calls, file edits, and thinking blocks with semantic recall.",
+  "source_repo": "wynelson94/longhand",
+  "source_url": "https://github.com/wynelson94/longhand",
+  "install": "# git clone --depth 1 https://github.com/wynelson94/longhand\n# See source for mcpServers config block"
+}

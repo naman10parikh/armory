@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-31",
+  "description": "MCP Servers MCP server listed on mcp.so.",
+  "source_repo": "AIAnytime/MCP-Servers",
+  "source_url": "https://mcp.so/server/MCP-Servers/AIAnytime",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Servers/AIAnytime\n# See source for mcpServers config block"
+}

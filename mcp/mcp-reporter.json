@@ -1,0 +1,7 @@
+{
+  "name": "mcp-reporter",
+  "description": "Mcp Reporter MCP server listed on mcp.so.",
+  "source_repo": "cyanheads/mcp-reporter",
+  "source_url": "https://mcp.so/server/mcp-reporter/cyanheads",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-reporter/cyanheads\n# See source for mcpServers config block"
+}

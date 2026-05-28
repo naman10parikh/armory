@@ -1,0 +1,7 @@
+{
+  "name": "wendellbigato-cep",
+  "description": "Provides a simple interface for querying Brazilian postal codes (CEPs) via the ViaCEP API, enabling address validation and expansion without leaving conversation context.",
+  "source_repo": "wendellbigato/mcp-cep",
+  "source_url": "https://github.com/wendellbigato/mcp-cep",
+  "install": "# git clone --depth 1 https://github.com/wendellbigato/mcp-cep\n# See source for mcpServers config block"
+}

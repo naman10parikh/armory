@@ -1,0 +1,7 @@
+{
+  "name": "metabase-mcp",
+  "description": "Enables AI assistants to interact with Metabase for querying databases, executing SQL, managing dashboards, and automating analytics workflows.",
+  "source_repo": "hluaguo/metabase-mcp",
+  "source_url": "https://github.com/hluaguo/metabase-mcp",
+  "install": "npx -y metabase-mcp"
+}

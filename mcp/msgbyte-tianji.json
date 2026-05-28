@@ -1,0 +1,7 @@
+{
+  "name": "msgbyte-tianji",
+  "description": "Bridges AI assistants with the Tianji platform to enable survey management, including querying results, retrieving detailed information, and listing workspace surveys without navigating the Tianji interface.",
+  "source_repo": "msgbyte/tianji",
+  "source_url": "https://github.com/msgbyte/tianji",
+  "install": "# git clone --depth 1 https://github.com/msgbyte/tianji\n# See source for mcpServers config block"
+}

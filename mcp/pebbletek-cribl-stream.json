@@ -1,0 +1,7 @@
+{
+  "name": "pebbletek-cribl-stream",
+  "description": "Integrates with Cribl Stream deployments to enable management of configurations, pipelines, sources, and system metrics for DevOps teams and data engineers monitoring data processing workflows.",
+  "source_repo": "pebbletek/cribl-mcp",
+  "source_url": "https://github.com/pebbletek/cribl-mcp",
+  "install": "npx -y cribl-mcp"
+}

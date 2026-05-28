@@ -1,0 +1,7 @@
+{
+  "name": "benzaidfoued-velero",
+  "description": "Provides read-only access to Velero backup and schedule resources in Kubernetes clusters with structured data retrieval and YAML generation capabilities.",
+  "source_repo": "benzaidfoued/velero-mcp",
+  "source_url": "https://github.com/benzaidfoued/velero-mcp",
+  "install": "npx -y velero-mcp"
+}

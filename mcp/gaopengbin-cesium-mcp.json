@@ -1,0 +1,7 @@
+{
+  "name": "gaopengbin-cesium-mcp",
+  "description": "AI-powered 3D globe control via MCP. Connect any MCP-compatible AI agent to CesiumJS — camera flight, GeoJSON/3D Tiles layers, markers, spatial analysis, heatmaps, and more through 19 natural language tools.",
+  "source_repo": "gaopengbin/cesium-mcp",
+  "source_url": "https://github.com/gaopengbin/cesium-mcp",
+  "install": "npx -y cesium-mcp"
+}

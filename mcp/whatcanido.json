@@ -1,0 +1,7 @@
+{
+  "name": "whatcanido",
+  "description": "Cross-product MCP server for CRM, project management, booking, and lead tools.",
+  "source_repo": "",
+  "source_url": "https://whatcanido.dev",
+  "install": "# git clone --depth 1 https://whatcanido.dev\n# See source for mcpServers config block"
+}

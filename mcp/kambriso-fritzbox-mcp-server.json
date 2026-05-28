@@ -1,0 +1,7 @@
+{
+  "name": "kambriso-fritzbox-mcp-server",
+  "description": "Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions",
+  "source_repo": "kambriso/fritzbox-mcp-server",
+  "source_url": "https://github.com/kambriso/fritzbox-mcp-server",
+  "install": "npx -y fritzbox-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-ftp",
+  "description": "Mcp Server Ftp MCP server listed on mcp.so.",
+  "source_repo": "alxspiker/mcp-server-ftp",
+  "source_url": "https://mcp.so/server/mcp-server-ftp/alxspiker",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-ftp/alxspiker\n# See source for mcpServers config block"
+}

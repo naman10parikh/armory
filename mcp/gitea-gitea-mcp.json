@@ -1,0 +1,7 @@
+{
+  "name": "gitea-gitea-mcp",
+  "description": "Interactive with Gitea instances with MCP.",
+  "source_repo": "",
+  "source_url": "https://gitea.com/gitea/gitea-mcp",
+  "install": "# git clone --depth 1 https://gitea.com/gitea/gitea-mcp\n# See source for mcpServers config block"
+}

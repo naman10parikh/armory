@@ -1,0 +1,7 @@
+{
+  "name": "figma-ui-mcp",
+  "description": "Bidirectional MCP bridge enabling AI assistants to draw UI on Figma canvas and read designs back as structured data or code tokens via localhost, requiring Figma Desktop.",
+  "source_repo": "TranHoaiHung/figma-ui-mcp",
+  "source_url": "https://github.com/TranHoaiHung/figma-ui-mcp",
+  "install": "npx -y figma-ui-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "filipescordeiro2-postgres",
+  "description": "Read/write PostgreSQL MCP server using asyncpg and FastMCP with schema inspection, audit logging, and multiple transport modes.",
+  "source_repo": "filipescordeiro2/mcp-postgres",
+  "source_url": "https://github.com/filipescordeiro2/mcp-postgres",
+  "install": "# git clone --depth 1 https://github.com/filipescordeiro2/mcp-postgres\n# See source for mcpServers config block"
+}

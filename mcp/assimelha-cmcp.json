@@ -1,0 +1,7 @@
+{
+  "name": "assimelha-cmcp",
+  "description": "Aggregates multiple MCP servers behind two unified tools, enabling TypeScript-based tool discovery and cross-server workflow orchestration.",
+  "source_repo": "assimelha/cmcp",
+  "source_url": "https://github.com/assimelha/cmcp",
+  "install": "# git clone --depth 1 https://github.com/assimelha/cmcp\n# See source for mcpServers config block"
+}

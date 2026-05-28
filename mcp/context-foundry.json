@@ -1,0 +1,7 @@
+{
+  "name": "context-foundry",
+  "description": "Autonomous build system that orchestrates AI agents through multi-phase development workflows",
+  "source_repo": "context-foundry/context-foundry",
+  "source_url": "https://github.com/context-foundry/context-foundry",
+  "install": "# git clone --depth 1 https://github.com/context-foundry/context-foundry\n# See source for mcpServers config block"
+}

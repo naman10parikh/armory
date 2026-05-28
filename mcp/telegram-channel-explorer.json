@@ -1,0 +1,7 @@
+{
+  "name": "telegram-channel-explorer",
+  "description": "Enables access to Telegram channels and messages for searching content by keywords, listing available channels, retrieving specific messages, and filtering with regex patterns using the MTProto protocol.",
+  "source_repo": "kfastov/tgcli",
+  "source_url": "https://github.com/kfastov/tgcli",
+  "install": "# git clone --depth 1 https://github.com/kfastov/tgcli\n# See source for mcpServers config block"
+}

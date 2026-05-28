@@ -1,0 +1,7 @@
+{
+  "name": "doubao-image",
+  "description": "Integrates with ByteDance's Doubao API to generate images from text prompts with configurable dimensions and quality settings for automated visual content creation and design workflows.",
+  "source_repo": "suibin521/doubao-image-mcp-server",
+  "source_url": "https://github.com/suibin521/doubao-image-mcp-server",
+  "install": "npx -y doubao-image-mcp-server"
+}

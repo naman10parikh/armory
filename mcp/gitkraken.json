@@ -1,0 +1,7 @@
+{
+  "name": "gitkraken",
+  "description": "Git CLI with integrated MCP server for GitHub, GitLab, Bitbucket, Azure DevOps, and Jira",
+  "source_repo": "gitkraken/gk-cli",
+  "source_url": "https://github.com/gitkraken/gk-cli",
+  "install": "# git clone --depth 1 https://github.com/gitkraken/gk-cli\n# See source for mcpServers config block"
+}

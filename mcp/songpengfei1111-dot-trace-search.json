@@ -1,0 +1,7 @@
+{
+  "name": "songpengfei1111-dot-trace-search",
+  "description": "Provides efficient searching and text extraction capabilities for large text files with line-based retrieval and search functionality for analyzing log files, traces, and text-heavy documents.",
+  "source_repo": "songpengfei1111-dot/tracesearch_mcp",
+  "source_url": "https://github.com/songpengfei1111-dot/tracesearch_mcp",
+  "install": "npx -y tracesearch_mcp"
+}

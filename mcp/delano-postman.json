@@ -1,0 +1,7 @@
+{
+  "name": "delano-postman",
+  "description": "Integrates with Postman's API management platform to enable automated API testing, documentation, and workflow management for developers and QA engineers.",
+  "source_repo": "delano/postman-mcp-server",
+  "source_url": "https://github.com/delano/postman-mcp-server",
+  "install": "npx -y postman-mcp-server"
+}

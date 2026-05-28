@@ -1,0 +1,7 @@
+{
+  "name": "kstrikis-llm-responses",
+  "description": "Enables multiple LLMs to share and analyze each other's responses to the same prompt, facilitating collaborative problem-solving and multi-perspective analysis through TypeScript-based response submission and retrieval tools.",
+  "source_repo": "kstrikis/ephor-mcp",
+  "source_url": "https://github.com/kstrikis/ephor-mcp",
+  "install": "npx -y ephor-mcp"
+}

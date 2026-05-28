@@ -1,0 +1,7 @@
+{
+  "name": "automcp",
+  "description": "Automcp MCP server listed on mcp.so.",
+  "source_repo": "beaukuhn/automcp",
+  "source_url": "https://mcp.so/server/automcp/beaukuhn",
+  "install": "# git clone --depth 1 https://mcp.so/server/automcp/beaukuhn\n# See source for mcpServers config block"
+}

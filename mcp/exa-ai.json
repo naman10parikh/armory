@@ -1,0 +1,7 @@
+{
+  "name": "exa-ai",
+  "description": "Integrates with Exa AI's search engine to provide real-time web searching, company research, LinkedIn profile discovery, URL content extraction, and multi-step research workflows with live crawling capabilities.",
+  "source_repo": "dsouza-anush/exa-mcp-server-heroku",
+  "source_url": "https://github.com/dsouza-anush/exa-mcp-server-heroku",
+  "install": "# git clone --depth 1 https://github.com/dsouza-anush/exa-mcp-server-heroku\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-calculator",
+  "description": "A Model Context Protocol (MCP) server example with calculator tools, built using FastMCP.",
+  "source_repo": "arulrajnet/mcp-calculator",
+  "source_url": "https://github.com/arulrajnet/mcp-calculator",
+  "install": "# git clone --depth 1 https://github.com/arulrajnet/mcp-calculator\n# See source for mcpServers config block"
+}

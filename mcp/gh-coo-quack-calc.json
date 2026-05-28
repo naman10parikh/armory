@@ -1,0 +1,7 @@
+{
+  "name": "gh-coo-quack-calc",
+  "description": "Deterministic math, randomness, dates, encoding, and hashing tools.",
+  "source_repo": "coo-quack/calc-mcp",
+  "source_url": "https://github.com/coo-quack/calc-mcp",
+  "install": "npx -y calc-mcp"
+}

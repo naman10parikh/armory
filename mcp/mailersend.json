@@ -1,0 +1,7 @@
+{
+  "name": "mailersend",
+  "description": "MailerSend integration for managing email campaigns, domain configuration, message scheduling, template creation, webhook setup, activity monitoring, analytics retrieval, and email verification with OAuth authentication support.",
+  "source_repo": "",
+  "source_url": "https://developers.mailersend.com/mcp-server.html",
+  "install": "# git clone --depth 1 https://developers.mailersend.com/mcp-server.html\n# See source for mcpServers config block"
+}

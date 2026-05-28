@@ -1,0 +1,7 @@
+{
+  "name": "vybe-solana-api",
+  "description": "Real-time Solana blockchain data for tokens, wallets, trades, and DeFi protocols via the Vybe API.",
+  "source_repo": "vybenetwork/solana-mcp-vybe",
+  "source_url": "https://github.com/vybenetwork/solana-mcp-vybe",
+  "install": "# git clone --depth 1 https://github.com/vybenetwork/solana-mcp-vybe\n# See source for mcpServers config block"
+}

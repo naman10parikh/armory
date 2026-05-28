@@ -1,0 +1,7 @@
+{
+  "name": "mz462-paylocity",
+  "description": "Integrates with Paylocity's HR and payroll API to enable secure access to employee data and payroll information directly within conversations, eliminating the need to switch to the Paylocity platform.",
+  "source_repo": "mz462/mcppaylocity",
+  "source_url": "https://github.com/mz462/mcppaylocity",
+  "install": "# git clone --depth 1 https://github.com/mz462/mcppaylocity\n# See source for mcpServers config block"
+}

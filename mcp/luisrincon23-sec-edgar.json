@@ -1,0 +1,7 @@
+{
+  "name": "luisrincon23-sec-edgar",
+  "description": "Integrates with the SEC EDGAR database to retrieve company filings, financial data, and structured XBRL information for financial analysis and compliance monitoring.",
+  "source_repo": "luisrincon23/sec-mcp",
+  "source_url": "https://github.com/luisrincon23/sec-mcp",
+  "install": "npx -y sec-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amgadabdelhafez-dropbox",
+  "description": "Integrates with Dropbox to enable file management operations like listing, uploading, downloading, and sharing files for cloud storage workflows.",
+  "source_repo": "amgadabdelhafez/dbx-mcp-server",
+  "source_url": "https://github.com/amgadabdelhafez/dbx-mcp-server",
+  "install": "npx -y dbx-mcp-server"
+}

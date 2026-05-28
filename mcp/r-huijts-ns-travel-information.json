@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-ns-travel-information",
+  "description": "Access real-time Dutch Railways data for trip planning.",
+  "source_repo": "r-huijts/ns-mcp-server",
+  "source_url": "https://github.com/r-huijts/ns-mcp-server",
+  "install": "npx -y ns-mcp-server"
+}

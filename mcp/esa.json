@@ -1,0 +1,7 @@
+{
+  "name": "esa",
+  "description": "Manage posts, comments, categories, tags, and team members on the esa.io documentation sharing platform.",
+  "source_repo": "esaio/esa-mcp-server",
+  "source_url": "https://github.com/esaio/esa-mcp-server",
+  "install": "npx -y esa-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "parallel-task",
+  "description": "Highly accurate deep search and batch tasks",
+  "source_repo": "parallel-web/task-mcp",
+  "source_url": "https://github.com/parallel-web/task-mcp",
+  "install": "npx -y task-mcp"
+}

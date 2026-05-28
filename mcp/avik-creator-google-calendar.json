@@ -1,0 +1,7 @@
+{
+  "name": "avik-creator-google-calendar",
+  "description": "Integrates with Google Calendar API for viewing, creating, and managing calendar events to enhance scheduling assistance and meeting management without requiring application switching.",
+  "source_repo": "avik-creator/googlecalendarmcp",
+  "source_url": "https://github.com/avik-creator/googlecalendarmcp",
+  "install": "# git clone --depth 1 https://github.com/avik-creator/googlecalendarmcp\n# See source for mcpServers config block"
+}

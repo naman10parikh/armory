@@ -1,0 +1,7 @@
+{
+  "name": "rotunda",
+  "description": "Search, Fetch and Clip Congressional Transcripts from all congressional hearings",
+  "source_repo": "",
+  "source_url": "https://rotunda.bullpenstrategygroup.com/mcp",
+  "install": "# git clone --depth 1 https://rotunda.bullpenstrategygroup.com/mcp\n# See source for mcpServers config block"
+}

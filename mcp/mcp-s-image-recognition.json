@@ -1,0 +1,7 @@
+{
+  "name": "mcp-s-image-recognition",
+  "description": "Analyzes and describes images using OpenAI vision models",
+  "source_repo": "mcp-s-ai/image-recognition-mcp",
+  "source_url": "https://github.com/mcp-s-ai/image-recognition-mcp",
+  "install": "npx -y image-recognition-mcp"
+}

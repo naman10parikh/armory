@@ -1,0 +1,7 @@
+{
+  "name": "psu3d0-spreadsheet-kit",
+  "description": "Agent-safe Excel workbook analysis, editing, formula recalculation, and verification tools with dry-run previews and stateful sessions.",
+  "source_repo": "psu3d0/spreadsheet-mcp",
+  "source_url": "https://github.com/psu3d0/spreadsheet-mcp",
+  "install": "npx -y spreadsheet-mcp"
+}

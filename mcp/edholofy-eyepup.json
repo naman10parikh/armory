@@ -1,0 +1,7 @@
+{
+  "name": "edholofy-eyepup",
+  "description": "Agentic visitor analytics with five tools for CRO and session analysis.",
+  "source_repo": "edholofy/agentic-analytics",
+  "source_url": "https://github.com/edholofy/agentic-analytics/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/edholofy/agentic-analytics/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

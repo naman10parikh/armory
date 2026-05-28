@@ -1,0 +1,7 @@
+{
+  "name": "chroma-working-memory",
+  "description": "Provides a persistent, searchable, automatically updated 'second brain' for development by integrating ChromaDB with automated codebase indexing, chat logging, and sequential thinking tools that maintain context across sessions.",
+  "source_repo": "djm81/chroma_mcp_server",
+  "source_url": "https://github.com/djm81/chroma_mcp_server",
+  "install": "npx -y chroma_mcp_server"
+}

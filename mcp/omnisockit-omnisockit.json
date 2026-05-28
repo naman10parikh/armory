@@ -1,0 +1,7 @@
+{
+  "name": "omnisockit-omnisockit",
+  "description": "Injects social marketing platform development knowledge into AI tools, covering WeCom APIs, authentication, messaging, and CRM operations.",
+  "source_repo": "omnisockit/omnisockit-mcp",
+  "source_url": "https://github.com/omnisockit/omnisockit-mcp",
+  "install": "npx -y omnisockit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amoca-sendai-agent-kit-mcp-server",
+  "description": "Amoca Sendai Agent Kit Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "manolaz/amoca-sendai-agent-kit-mcp-server",
+  "source_url": "https://mcp.so/server/amoca-sendai-agent-kit-mcp-server/manolaz",
+  "install": "npx -y amoca-sendai-agent-kit-mcp-server"
+}

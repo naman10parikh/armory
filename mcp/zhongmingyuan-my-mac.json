@@ -1,0 +1,7 @@
+{
+  "name": "zhongmingyuan-my-mac",
+  "description": "Provides AI with real-time Mac system information through a lightweight local server that safely executes verified commands for hardware specs, configuration, and resource usage data.",
+  "source_repo": "zhongmingyuan/mcp-my-mac",
+  "source_url": "https://github.com/zhongmingyuan/mcp-my-mac",
+  "install": "# git clone --depth 1 https://github.com/zhongmingyuan/mcp-my-mac\n# See source for mcpServers config block"
+}

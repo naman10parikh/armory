@@ -1,0 +1,7 @@
+{
+  "name": "domdemetz-claude-soul",
+  "description": "Self-improving learning engine for Claude Code. Extracts signals from every session (corrections, successes, confusion), runs periodic reflections, and evolves behavioral frameworks through evidence tiers (hypothesis → observed → validated). Frameworks that keep working get promoted, bad ones get retired. 9 MCP tools, automatic hooks, phase-adaptive learning. Single dependency, local-only. `npx claude-soul init --starter`",
+  "source_repo": "DomDemetz/claude-soul",
+  "source_url": "https://github.com/DomDemetz/claude-soul",
+  "install": "# git clone --depth 1 https://github.com/DomDemetz/claude-soul\n# See source for mcpServers config block"
+}

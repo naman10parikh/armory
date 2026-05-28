@@ -1,0 +1,7 @@
+{
+  "name": "unity-mcp-server",
+  "description": "Unity Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "folkward99/unity-mcp-server",
+  "source_url": "https://mcp.so/server/unity-mcp-server/folkward99",
+  "install": "npx -y unity-mcp-server"
+}

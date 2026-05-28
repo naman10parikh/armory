@@ -1,0 +1,7 @@
+{
+  "name": "yaddyvirus-darktable",
+  "description": "Controls Darktable photo editing software via natural language, supporting RAW and JPEG processing, non-destructive adjustments, batch editing, and JPEG, PNG, and TIFF export.",
+  "source_repo": "yaddyvirus/darktable-mcp",
+  "source_url": "https://github.com/yaddyvirus/darktable-mcp",
+  "install": "npx -y darktable-mcp"
+}

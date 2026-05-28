@@ -1,0 +1,7 @@
+{
+  "name": "gyibb",
+  "description": "Cited product-review verdicts from real user voices across Reddit, Hacker News, YouTube, and Trustpilot.",
+  "source_repo": "patheras/gyibb-mcp",
+  "source_url": "https://github.com/patheras/gyibb-mcp",
+  "install": "npx -y gyibb-mcp"
+}

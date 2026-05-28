@@ -1,0 +1,7 @@
+{
+  "name": "transcriptiontools-mcp",
+  "description": "TranscriptionTools MCP MCP server listed on mcp.so.",
+  "source_repo": "MushroomFleet/TranscriptionTools-MCP",
+  "source_url": "https://mcp.so/server/TranscriptionTools-MCP/MushroomFleet",
+  "install": "npx -y TranscriptionTools-MCP"
+}

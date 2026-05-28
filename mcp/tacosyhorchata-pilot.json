@@ -1,0 +1,7 @@
+{
+  "name": "tacosyhorchata-pilot",
+  "description": "Fast browser automation for AI agents with persistent Chromium, ref-based interaction, and cookie import.",
+  "source_repo": "tacosyhorchata/pilot",
+  "source_url": "https://github.com/tacosyhorchata/pilot",
+  "install": "# git clone --depth 1 https://github.com/tacosyhorchata/pilot\n# See source for mcpServers config block"
+}

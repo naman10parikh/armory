@@ -1,0 +1,7 @@
+{
+  "name": "fabric-admin-mcp-server",
+  "description": "Provides MCP tools to manage Microsoft Fabric capacities, including listing, creating, updating, and deleting them, using Azure authentication.",
+  "source_repo": "gmh5225/fabric-admin-mcp",
+  "source_url": "https://github.com/gmh5225/fabric-admin-mcp",
+  "install": "npx -y fabric-admin-mcp"
+}

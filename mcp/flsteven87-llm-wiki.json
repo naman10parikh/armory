@@ -1,0 +1,7 @@
+{
+  "name": "flsteven87-llm-wiki",
+  "description": "Persistent Karpathy-style LLM wiki with markdown pages your agent grows over time.",
+  "source_repo": "flsteven87/llm-wiki-mcp",
+  "source_url": "https://github.com/flsteven87/llm-wiki-mcp",
+  "install": "npx -y llm-wiki-mcp"
+}

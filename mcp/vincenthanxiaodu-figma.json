@@ -1,0 +1,7 @@
+{
+  "name": "vincenthanxiaodu-figma",
+  "description": "Integrates with Figma's REST API using MongoDB-backed caching and Azure OpenAI embeddings to enable hybrid search across design elements, URL parsing, file node retrieval, and PNG generation for design system documentation and automated design analysis.",
+  "source_repo": "vincenthanxiaodu/figma-mcp",
+  "source_url": "https://github.com/vincenthanxiaodu/figma-mcp",
+  "install": "npx -y figma-mcp"
+}

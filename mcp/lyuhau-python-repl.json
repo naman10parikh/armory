@@ -1,0 +1,7 @@
+{
+  "name": "lyuhau-python-repl",
+  "description": "Provides a Python REPL server for executing code and shell commands, enabling complex data analysis and system administration tasks.",
+  "source_repo": "lyuhau/claude-mcp-repl",
+  "source_url": "https://github.com/lyuhau/claude-mcp-repl",
+  "install": "# git clone --depth 1 https://github.com/lyuhau/claude-mcp-repl\n# See source for mcpServers config block"
+}

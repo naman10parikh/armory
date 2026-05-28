@@ -1,0 +1,7 @@
+{
+  "name": "paybyrd-payment-processing",
+  "description": "Integrates with Paybyrd's payment processing API to enable creating payment links, processing refunds, and retrieving order information through a JavaScript library with configurable permissions and comprehensive error handling.",
+  "source_repo": "paybyrd/ai-agent-toolkit-js",
+  "source_url": "https://github.com/paybyrd/ai-agent-toolkit-js",
+  "install": "# git clone --depth 1 https://github.com/paybyrd/ai-agent-toolkit-js\n# See source for mcpServers config block"
+}

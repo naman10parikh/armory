@@ -1,0 +1,7 @@
+{
+  "name": "opticayaan-cat-facts",
+  "description": "Connects to the Layer API service to provide cat facts through a stdio transport server built with the MCP SDK.",
+  "source_repo": "opticayaan/cat-facts-mcp",
+  "source_url": "https://github.com/opticayaan/cat-facts-mcp",
+  "install": "npx -y cat-facts-mcp"
+}

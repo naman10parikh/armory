@@ -1,0 +1,7 @@
+{
+  "name": "spences10-sqlite-tools",
+  "description": "Local SQLite database operations with transaction management and schema tools",
+  "source_repo": "spences10/mcp-sqlite-tools",
+  "source_url": "https://github.com/spences10/mcp-sqlite-tools",
+  "install": "# git clone --depth 1 https://github.com/spences10/mcp-sqlite-tools\n# See source for mcpServers config block"
+}

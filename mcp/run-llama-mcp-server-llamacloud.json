@@ -1,0 +1,7 @@
+{
+  "name": "run-llama-mcp-server-llamacloud",
+  "description": "Query managed vector indexes for knowledge retrieval.",
+  "source_repo": "run-llama/mcp-server-llamacloud",
+  "source_url": "https://github.com/run-llama/mcp-server-llamacloud",
+  "install": "# git clone --depth 1 https://github.com/run-llama/mcp-server-llamacloud\n# See source for mcpServers config block"
+}

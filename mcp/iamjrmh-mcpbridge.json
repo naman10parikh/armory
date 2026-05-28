@@ -1,0 +1,7 @@
+{
+  "name": "iamjrmh-mcpbridge",
+  "description": "Bridge connecting Claude Code and Ollama to Roblox Studio and Blender for AI-assisted game and 3D development.",
+  "source_repo": "iamjrmh/mcpbridge",
+  "source_url": "https://github.com/iamjrmh/mcpbridge",
+  "install": "# git clone --depth 1 https://github.com/iamjrmh/mcpbridge\n# See source for mcpServers config block"
+}

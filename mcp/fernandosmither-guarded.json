@@ -1,0 +1,7 @@
+{
+  "name": "fernandosmither-guarded",
+  "description": "Authorization middleware requiring human approval via Telegram for sensitive AI agent tool calls.",
+  "source_repo": "fernandosmither/guarded-mcp",
+  "source_url": "https://github.com/fernandosmither/guarded-mcp",
+  "install": "npx -y guarded-mcp"
+}

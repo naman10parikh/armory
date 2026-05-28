@@ -1,0 +1,7 @@
+{
+  "name": "therealmrfunguy-whois-lookup",
+  "description": "Domain WHOIS records, DNS lookups, SSL certificate inspection, and domain availability checks.",
+  "source_repo": "",
+  "source_url": "https://whois.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://whois.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

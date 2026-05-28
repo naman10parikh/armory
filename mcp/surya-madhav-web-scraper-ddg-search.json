@@ -1,0 +1,7 @@
+{
+  "name": "surya-madhav-web-scraper-ddg-search",
+  "description": "Provides web scraping and DuckDuckGo search capabilities for retrieving and processing web content as markdown.",
+  "source_repo": "surya-madhav/mcp",
+  "source_url": "https://github.com/surya-madhav/mcp",
+  "install": "# git clone --depth 1 https://github.com/surya-madhav/mcp\n# See source for mcpServers config block"
+}

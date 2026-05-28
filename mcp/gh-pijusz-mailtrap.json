@@ -1,0 +1,7 @@
+{
+  "name": "gh-pijusz-mailtrap",
+  "description": "Comprehensive Mailtrap integration with 48 tools covering analytics, email logs, contacts, templates, sandbox testing, domains, and account management.",
+  "source_repo": "pijusz/mcp-mailtrap",
+  "source_url": "https://github.com/pijusz/mcp-mailtrap",
+  "install": "# git clone --depth 1 https://github.com/pijusz/mcp-mailtrap\n# See source for mcpServers config block"
+}

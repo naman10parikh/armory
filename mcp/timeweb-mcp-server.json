@@ -1,0 +1,7 @@
+{
+  "name": "timeweb-mcp-server",
+  "description": "Automates deployment of applications to Timeweb Cloud via the Model Context Protocol.",
+  "source_repo": "timeweb-cloud/mcp-server",
+  "source_url": "https://github.com/timeweb-cloud/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/timeweb-cloud/mcp-server\n# See source for mcpServers config block"
+}

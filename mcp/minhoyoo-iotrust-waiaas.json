@@ -1,0 +1,7 @@
+{
+  "name": "minhoyoo-iotrust-waiaas",
+  "description": "Self-hosted wallet-as-a-service for AI agents. 60 tools for multi-chain crypto: transfers, DeFi (swap, lend, stake, bridge, perp, yield), NFTs, smart contracts, transaction signing, and x402 payments. Solana + EVM with session auth and spending policies.",
+  "source_repo": "minhoyoo-iotrust/WAIaaS",
+  "source_url": "https://github.com/minhoyoo-iotrust/WAIaaS",
+  "install": "# git clone --depth 1 https://github.com/minhoyoo-iotrust/WAIaaS\n# See source for mcpServers config block"
+}

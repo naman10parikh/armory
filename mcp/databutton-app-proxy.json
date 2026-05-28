@@ -1,0 +1,7 @@
+{
+  "name": "databutton-app-proxy",
+  "description": "Enables using Databutton app API endpoints as tools by establishing secure websocket connections and handling authentication for seamless integration",
+  "source_repo": "databutton/databutton-app-mcp",
+  "source_url": "https://github.com/databutton/databutton-app-mcp",
+  "install": "npx -y databutton-app-mcp"
+}

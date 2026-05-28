@@ -1,0 +1,7 @@
+{
+  "name": "ckanthony-gin",
+  "description": "Automatically exposes existing Gin API endpoints as tools with zero configuration, requiring just a single line of code to bridge your Go application with AI assistants.",
+  "source_repo": "ckanthony/gin-mcp",
+  "source_url": "https://github.com/ckanthony/gin-mcp",
+  "install": "npx -y gin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shaileshahuja-github-pr-comments",
+  "description": "Integrates with GitHub's Pull Request system to fetch and analyze PR comments with their associated file paths, line ranges, and replies for seamless code review workflows.",
+  "source_repo": "shaileshahuja/github-pr-mcp",
+  "source_url": "https://github.com/shaileshahuja/github-pr-mcp",
+  "install": "npx -y github-pr-mcp"
+}

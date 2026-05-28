@@ -1,0 +1,7 @@
+{
+  "name": "tesseron",
+  "description": "Expose typed web-app actions to AI agents via MCP over WebSocket without DOM scraping or browser automation.",
+  "source_repo": "brainblend-ai/tesseron",
+  "source_url": "https://github.com/brainblend-ai/tesseron",
+  "install": "# git clone --depth 1 https://github.com/brainblend-ai/tesseron\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xjtlumedia-markdown-formatter",
+  "description": "Convert Markdown to PDF, DOCX, HTML, and 7 other formats locally.",
+  "source_repo": "xjtlumedia/mcp_markdown_formatter",
+  "source_url": "https://github.com/xjtlumedia/mcp_markdown_formatter",
+  "install": "# git clone --depth 1 https://github.com/xjtlumedia/mcp_markdown_formatter\n# See source for mcpServers config block"
+}

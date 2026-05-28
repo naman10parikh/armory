@@ -1,0 +1,7 @@
+{
+  "name": "filipecalegario-strateegia",
+  "description": "Provides a bridge to the Strateegia API, enabling quick retrieval of project workspace details through a single tool for listing projects and integrating collaborative data directly into workflows.",
+  "source_repo": "filipecalegario/mcp-server-strateegia",
+  "source_url": "https://github.com/filipecalegario/mcp-server-strateegia",
+  "install": "# git clone --depth 1 https://github.com/filipecalegario/mcp-server-strateegia\n# See source for mcpServers config block"
+}

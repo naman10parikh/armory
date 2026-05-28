@@ -1,0 +1,7 @@
+{
+  "name": "ejb503-systemprompt",
+  "description": "Integrates with SystemPrompt.io to enable centralized creation, management, and versioning of prompts.",
+  "source_repo": "ejb503/systemprompt-mcp-core",
+  "source_url": "https://github.com/ejb503/systemprompt-mcp-core",
+  "install": "# git clone --depth 1 https://github.com/ejb503/systemprompt-mcp-core\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jsx-prop-lookup-mcp-server",
+  "description": "Analyzes JSX prop usage in React/TypeScript codebases using AST parsing, enabling prop usage tracking, component analysis, and TypeScript support.",
+  "source_repo": "lmn451/jsx-prop-lookup-mcp-server",
+  "source_url": "https://github.com/lmn451/jsx-prop-lookup-mcp-server",
+  "install": "npx -y jsx-prop-lookup-mcp-server"
+}

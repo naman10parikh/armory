@@ -1,0 +1,7 @@
+{
+  "name": "razz-games",
+  "description": "Enables wagering on provably fair casino games and multiplayer strategy games on the Razz platform using SOL cryptocurrency.",
+  "source_repo": "razz-games/razz-mcp",
+  "source_url": "https://github.com/razz-games/razz-mcp",
+  "install": "npx -y razz-mcp"
+}

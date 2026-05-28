@@ -1,0 +1,7 @@
+{
+  "name": "mgovedarov-vcf-automation-orchestrator",
+  "description": "MCP server exposing VMware VCF Automation Orchestrator REST API operations for managing workflows, actions, and subscriptions via AI assistants.",
+  "source_repo": "mgovedarov/mcp-vcf-orchestrator",
+  "source_url": "https://github.com/mgovedarov/mcp-vcf-orchestrator",
+  "install": "# git clone --depth 1 https://github.com/mgovedarov/mcp-vcf-orchestrator\n# See source for mcpServers config block"
+}

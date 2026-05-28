@@ -1,0 +1,7 @@
+{
+  "name": "cammac-creator-openswissdata",
+  "description": "Swiss federal open data MCP server covering TARES tariffs, FINMA registry, and NOGA codes via 9 specialized tools.",
+  "source_repo": "cammac-creator/openswissdata",
+  "source_url": "https://github.com/cammac-creator/openswissdata",
+  "install": "# git clone --depth 1 https://github.com/cammac-creator/openswissdata\n# See source for mcpServers config block"
+}

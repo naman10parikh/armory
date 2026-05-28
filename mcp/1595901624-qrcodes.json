@@ -1,0 +1,7 @@
+{
+  "name": "1595901624-qrcodes",
+  "description": "Generates QR codes.",
+  "source_repo": "1595901624/qrcode-mcp",
+  "source_url": "https://github.com/1595901624/qrcode-mcp",
+  "install": "npx -y qrcode-mcp"
+}

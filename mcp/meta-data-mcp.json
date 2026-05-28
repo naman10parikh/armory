@@ -1,0 +1,7 @@
+{
+  "name": "meta-data-mcp",
+  "description": "A single MCP server that transparently routes user requests to 83 open-data sources with built-in discovery and autonomous plugin creation.",
+  "source_repo": "derekslinz/meta-data-mcp",
+  "source_url": "https://github.com/derekslinz/meta-data-mcp",
+  "install": "npx -y meta-data-mcp"
+}

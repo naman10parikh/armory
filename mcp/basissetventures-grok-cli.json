@@ -1,0 +1,7 @@
+{
+  "name": "basissetventures-grok-cli",
+  "description": "Bridges to Grok AI through the official CLI, enabling simple queries, multi-turn conversations, and code generation with configurable timeouts and model selection.",
+  "source_repo": "basissetventures/grok-cli-mcp",
+  "source_url": "https://github.com/basissetventures/grok-cli-mcp",
+  "install": "npx -y grok-cli-mcp"
+}

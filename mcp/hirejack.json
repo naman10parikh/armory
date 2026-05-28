@@ -1,0 +1,7 @@
+{
+  "name": "hirejack",
+  "description": "Tech job market intelligence platform providing job search, company profiles, salary benchmarking, and hiring trend analysis.",
+  "source_repo": "tvlss/hirejack-mcp",
+  "source_url": "https://github.com/tvlss/hirejack-mcp",
+  "install": "npx -y hirejack-mcp"
+}

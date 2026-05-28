@@ -1,0 +1,7 @@
+{
+  "name": "meacheal-mrc-data",
+  "description": "Provides structured data on China's apparel supply chain, covering 1,000+ suppliers, 350+ fabric specifications, and 170+ industrial clusters.",
+  "source_repo": "",
+  "source_url": "https://api.meacheal.ai/mcp",
+  "install": "# git clone --depth 1 https://api.meacheal.ai/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-startup-oracle",
+  "description": "Startup idea evaluation with brutally honest feedback, pivot count, comparable company, and YC rejection reasons.",
+  "source_repo": "pipeworx-io/mcp-startup-oracle",
+  "source_url": "https://github.com/pipeworx-io/mcp-startup-oracle",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-startup-oracle\n# See source for mcpServers config block"
+}

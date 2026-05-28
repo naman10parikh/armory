@@ -1,0 +1,7 @@
+{
+  "name": "seanfdz-agentbridge",
+  "description": "Control Classic Mac OS (System 7–9) from AI agents via shared folder protocol.",
+  "source_repo": "seanfdz/agentbridge",
+  "source_url": "https://github.com/seanfdz/agentbridge",
+  "install": "# git clone --depth 1 https://github.com/seanfdz/agentbridge\n# See source for mcpServers config block"
+}

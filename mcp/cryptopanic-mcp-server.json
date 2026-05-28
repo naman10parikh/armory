@@ -1,0 +1,7 @@
+{
+  "name": "cryptopanic-mcp-server",
+  "description": "Cryptopanic Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "kukapay/cryptopanic-mcp-server",
+  "source_url": "https://mcp.so/server/cryptopanic-mcp-server/kukapay",
+  "install": "npx -y cryptopanic-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "deeprecall",
+  "description": "Search 120,000+ recalled products from 8 global safety agencies using AI similarity.",
+  "source_repo": "deeprecall-io/deeprecall-mcp",
+  "source_url": "https://github.com/deeprecall-io/deeprecall-mcp",
+  "install": "npx -y deeprecall-mcp"
+}

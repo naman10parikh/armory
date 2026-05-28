@@ -1,0 +1,7 @@
+{
+  "name": "nicktcode-swissgroceries",
+  "description": "Real-time Swiss grocery shopping across Migros, Coop, Aldi, Denner, Lidl, and more with price comparison and store location.",
+  "source_repo": "nicktcode/swissgroceries-mcp",
+  "source_url": "https://github.com/nicktcode/swissgroceries-mcp",
+  "install": "npx -y swissgroceries-mcp"
+}

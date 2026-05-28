@@ -1,0 +1,7 @@
+{
+  "name": "oabolade-figma",
+  "description": "Apify Actor providing API-based access to Figma design files, components, assets, and project management through 15+ specialized tools",
+  "source_repo": "oabolade/figma_mcp_server_actor",
+  "source_url": "https://github.com/oabolade/figma_mcp_server_actor",
+  "install": "# git clone --depth 1 https://github.com/oabolade/figma_mcp_server_actor\n# See source for mcpServers config block"
+}

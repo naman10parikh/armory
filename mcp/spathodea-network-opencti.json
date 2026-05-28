@@ -1,0 +1,7 @@
+{
+  "name": "spathodea-network-opencti",
+  "description": "Integrates with OpenCTI to query and manipulate threat intelligence data, enabling automated analysis and enrichment of cyber threat information.",
+  "source_repo": "zxzinn/opencti-mcp",
+  "source_url": "https://github.com/zxzinn/opencti-mcp",
+  "install": "npx -y opencti-mcp"
+}

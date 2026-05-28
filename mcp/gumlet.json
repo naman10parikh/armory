@@ -1,0 +1,7 @@
+{
+  "name": "gumlet",
+  "description": "Integrates with Gumlet's video and image processing APIs to enable video asset management, live streaming, DRM integration, image transformations, and analytics with documentation search capabilities.",
+  "source_repo": "",
+  "source_url": "https://docs.gumlet.com/reference/mcp",
+  "install": "# git clone --depth 1 https://docs.gumlet.com/reference/mcp\n# See source for mcpServers config block"
+}

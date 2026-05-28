@@ -1,0 +1,7 @@
+{
+  "name": "msrbuilds-elementor",
+  "description": "Extends WordPress MCP Adapter to expose Elementor page builder tools for programmatic page design, widget management, and template handling.",
+  "source_repo": "msrbuilds/elementor-mcp",
+  "source_url": "https://github.com/msrbuilds/elementor-mcp",
+  "install": "npx -y elementor-mcp"
+}

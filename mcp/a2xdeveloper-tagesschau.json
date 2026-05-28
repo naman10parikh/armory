@@ -1,0 +1,7 @@
+{
+  "name": "a2xdeveloper-tagesschau",
+  "description": "Provides a bridge to Tagesschau's news API for retrieving and analyzing German news articles across categories like domestic, foreign, economic and sports coverage",
+  "source_repo": "a2xdeveloper/tagesschau-mcp-server",
+  "source_url": "https://github.com/a2xdeveloper/tagesschau-mcp-server",
+  "install": "npx -y tagesschau-mcp-server"
+}

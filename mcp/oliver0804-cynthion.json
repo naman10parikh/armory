@@ -1,0 +1,7 @@
+{
+  "name": "oliver0804-cynthion",
+  "description": "MCP server for controlling Cynthion USB test instruments with 17 tools for sniffing, decoding, and emulating USB devices in hardware reverse engineering workflows.",
+  "source_repo": "oliver0804/cynthion-mcp",
+  "source_url": "https://github.com/oliver0804/cynthion-mcp",
+  "install": "npx -y cynthion-mcp"
+}

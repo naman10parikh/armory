@@ -1,0 +1,7 @@
+{
+  "name": "jeffkit-wecom-hitl",
+  "description": "Sends messages to WeCom (WeChat Work) chats and waits for human replies, enabling interactive human-in-the-loop workflows with configurable timeouts and reference-based reply matching.",
+  "source_repo": "jeffkit/hitl-mcp",
+  "source_url": "https://github.com/jeffkit/hitl-mcp",
+  "install": "npx -y hitl-mcp"
+}

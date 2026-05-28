@@ -1,0 +1,7 @@
+{
+  "name": "postgres-advanced",
+  "description": "Provides full read-write PostgreSQL database access with transaction management, connection pooling, and safety features that require explicit commit or rollback decisions for all write operations.",
+  "source_repo": "syahiidkamil/mcp-postgres-full-access",
+  "source_url": "https://github.com/syahiidkamil/mcp-postgres-full-access",
+  "install": "# git clone --depth 1 https://github.com/syahiidkamil/mcp-postgres-full-access\n# See source for mcpServers config block"
+}

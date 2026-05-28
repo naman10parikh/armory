@@ -1,0 +1,7 @@
+{
+  "name": "defi-intelligence-engine",
+  "description": "Complete DeFi intelligence — Yield, Staking, Restaking, RWA, Perps, Gas Optimization & Contract Security. One answer, not raw data.",
+  "source_repo": "danteriva45-hub/defi-yield-engine",
+  "source_url": "https://github.com/danteriva45-hub/defi-yield-engine",
+  "install": "# git clone --depth 1 https://github.com/danteriva45-hub/defi-yield-engine\n# See source for mcpServers config block"
+}

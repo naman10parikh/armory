@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-51",
+  "description": "Mcp_server MCP server listed on mcp.so.",
+  "source_repo": "caok/mcp_server",
+  "source_url": "https://mcp.so/server/mcp_server/caok",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_server/caok\n# See source for mcpServers config block"
+}

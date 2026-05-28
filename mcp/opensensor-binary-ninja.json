@@ -1,0 +1,7 @@
+{
+  "name": "opensensor-binary-ninja",
+  "description": "Integrates with Binary Ninja for reverse engineering tasks by providing tools to retrieve binary metadata, list functions, disassemble code, and decompile functions to C.",
+  "source_repo": "opensensor/bn_cline_mcp",
+  "source_url": "https://github.com/opensensor/bn_cline_mcp",
+  "install": "npx -y bn_cline_mcp"
+}

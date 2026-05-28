@@ -1,0 +1,7 @@
+{
+  "name": "vilasone455-ssh",
+  "description": "Enables secure remote command execution across Linux and Windows systems through SSH connections with configurable authentication methods, safety restrictions, and multi-machine management for system administration and infrastructure monitoring tasks.",
+  "source_repo": "vilasone455/ssh-mcp-server",
+  "source_url": "https://github.com/vilasone455/ssh-mcp-server",
+  "install": "npx -y ssh-mcp-server"
+}

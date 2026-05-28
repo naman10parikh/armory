@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-gods-eye-geospatial-mcp",
+  "description": "Advanced geospatial analysis and satellite imagery processing tools.",
+  "source_repo": "csoai-org/gods-eye-geospatial-mcp",
+  "source_url": "https://github.com/csoai-org/gods-eye-geospatial-mcp",
+  "install": "npx -y gods-eye-geospatial-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unixlamadev-spec-lpxpoly-mcp",
+  "description": "Polymarket prediction market analysis via LightningProx. Find mispriced markets, analyze specific markets, get top markets by volume. Pay per request with Bitcoin Lightning spend tokens.",
+  "source_repo": "unixlamadev-spec/lpxpoly-mcp",
+  "source_url": "https://github.com/unixlamadev-spec/lpxpoly-mcp",
+  "install": "npx -y lpxpoly-mcp"
+}

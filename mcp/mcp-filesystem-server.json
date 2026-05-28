@@ -1,0 +1,7 @@
+{
+  "name": "mcp-filesystem-server",
+  "description": "Mcp Filesystem Server MCP server listed on mcp.so.",
+  "source_repo": "qiangmzsx/mcp-filesystem-server",
+  "source_url": "https://mcp.so/server/mcp-filesystem-server/qiangmzsx",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-filesystem-server/qiangmzsx\n# See source for mcpServers config block"
+}

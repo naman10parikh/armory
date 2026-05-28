@@ -1,0 +1,7 @@
+{
+  "name": "acedata-kling",
+  "description": "AI video generation through the Kling model on the AceDataCloud platform.",
+  "source_repo": "acedatacloud/klingmcp",
+  "source_url": "https://github.com/acedatacloud/klingmcp",
+  "install": "# git clone --depth 1 https://github.com/acedatacloud/klingmcp\n# See source for mcpServers config block"
+}

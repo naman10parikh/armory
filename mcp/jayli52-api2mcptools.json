@@ -1,0 +1,7 @@
+{
+  "name": "jayli52-api2mcptools",
+  "description": "Converts JSON API definitions into executable tools, enabling seamless integration of external APIs without modifying core server code.",
+  "source_repo": "jayli52/api2mcptools",
+  "source_url": "https://github.com/jayli52/api2mcptools",
+  "install": "# git clone --depth 1 https://github.com/jayli52/api2mcptools\n# See source for mcpServers config block"
+}

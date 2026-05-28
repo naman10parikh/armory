@@ -1,0 +1,7 @@
+{
+  "name": "f-prompts-chat",
+  "description": "Proxy server that forwards requests to the prompts.chat API, providing access to a curated collection of prompts with search and filtering capabilities by keyword, type, category, and tag.",
+  "source_repo": "f/prompts.chat-mcp",
+  "source_url": "https://github.com/f/prompts.chat-mcp",
+  "install": "npx -y prompts.chat-mcp"
+}

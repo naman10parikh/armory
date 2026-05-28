@@ -1,0 +1,7 @@
+{
+  "name": "slack-mcp-server",
+  "description": "Slack Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "AVIMBU/slack-mcp-server",
+  "source_url": "https://mcp.so/server/slack-mcp-server/AVIMBU",
+  "install": "npx -y slack-mcp-server"
+}

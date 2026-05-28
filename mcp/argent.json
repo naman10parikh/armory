@@ -1,0 +1,7 @@
+{
+  "name": "argent",
+  "description": "Enables AI assistants to interact with iOS Simulators and Android Emulators, allowing autonomous app development, UI interaction, profiling, and debugging through natural language.",
+  "source_repo": "software-mansion/argent",
+  "source_url": "https://github.com/software-mansion/argent",
+  "install": "# git clone --depth 1 https://github.com/software-mansion/argent\n# See source for mcpServers config block"
+}

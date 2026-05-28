@@ -1,0 +1,7 @@
+{
+  "name": "mcp-jena",
+  "description": "Mcp Jena MCP server listed on mcp.so.",
+  "source_repo": "ramuzes/mcp-jena",
+  "source_url": "https://mcp.so/server/mcp-jena/ramuzes",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-jena/ramuzes\n# See source for mcpServers config block"
+}

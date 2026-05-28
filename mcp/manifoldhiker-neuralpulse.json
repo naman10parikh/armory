@@ -1,0 +1,7 @@
+{
+  "name": "manifoldhiker-neuralpulse",
+  "description": "Personalized content feed aggregation from RSS, YouTube, and GitHub sources with channel management and filtering.",
+  "source_repo": "manifoldhiker/neuralpulse-mcp",
+  "source_url": "https://github.com/manifoldhiker/neuralpulse-mcp",
+  "install": "npx -y neuralpulse-mcp"
+}

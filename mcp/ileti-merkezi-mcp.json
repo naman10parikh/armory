@@ -1,0 +1,7 @@
+{
+  "name": "ileti-merkezi-mcp",
+  "description": "MCP server for Ileti Merkezi SMS API (Turkey). Enables sending SMS, bulk SMS, checking delivery reports, and managing contacts and blacklists via API Key + Hash authentication.",
+  "source_repo": "theYahia/ileti-merkezi-mcp",
+  "source_url": "https://github.com/theYahia/ileti-merkezi-mcp",
+  "install": "npx -y ileti-merkezi-mcp"
+}

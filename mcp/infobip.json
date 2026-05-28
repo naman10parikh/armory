@@ -1,0 +1,7 @@
+{
+  "name": "infobip",
+  "description": "Integration with the Infobip communication platform that allows you to reach your customers globally across any channel.",
+  "source_repo": "infobip/mcp",
+  "source_url": "https://github.com/infobip/mcp",
+  "install": "# git clone --depth 1 https://github.com/infobip/mcp\n# See source for mcpServers config block"
+}

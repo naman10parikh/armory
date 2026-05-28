@@ -1,0 +1,7 @@
+{
+  "name": "parthshr370-filesystem-access",
+  "description": "Provides direct access to local filesystem operations for reading file contents and listing directory entries through a FastMCP-powered server that supports both stdio and SSE transport modes.",
+  "source_repo": "parthshr370/mcp-servers",
+  "source_url": "https://github.com/parthshr370/mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/parthshr370/mcp-servers\n# See source for mcpServers config block"
+}

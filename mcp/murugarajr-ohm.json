@@ -1,0 +1,7 @@
+{
+  "name": "murugarajr-ohm",
+  "description": "AST-based Python refactoring and code quality analysis with safe automated refactorings and rollback",
+  "source_repo": "murugarajr/ohm-mcp",
+  "source_url": "https://github.com/murugarajr/ohm-mcp",
+  "install": "npx -y ohm-mcp"
+}

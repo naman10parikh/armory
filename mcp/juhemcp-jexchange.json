@@ -1,0 +1,7 @@
+{
+  "name": "juhemcp-jexchange",
+  "description": "Provides a lightweight, asynchronous Python server for connecting AI models with external services through a simple, deployable foundation built on asyncio.",
+  "source_repo": "juhemcp/jexchange-mcp-server",
+  "source_url": "https://github.com/juhemcp/jexchange-mcp-server",
+  "install": "npx -y jexchange-mcp-server"
+}

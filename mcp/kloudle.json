@@ -1,0 +1,7 @@
+{
+  "name": "kloudle",
+  "description": "Automated cloud security scanner detecting 380+ misconfigurations across AWS, GCP, Azure, and Kubernetes.",
+  "source_repo": "",
+  "source_url": "https://mcp.kloudle.dev/mcp",
+  "install": "# git clone --depth 1 https://mcp.kloudle.dev/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jxue0-opencut-controller",
+  "description": "Automate video editing workflows with OpenCut through MCP tool calls.",
+  "source_repo": "jxue0/opencut-controller",
+  "source_url": "https://github.com/jxue0/opencut-controller",
+  "install": "# git clone --depth 1 https://github.com/jxue0/opencut-controller\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "saurabhdaware-abell",
+  "description": "Enables AI assistants to interact with Abell static site generator for retrieving syntax documentation and scaffolding complete applications through the create-abell package.",
+  "source_repo": "saurabhdaware/abell-mcp",
+  "source_url": "https://github.com/saurabhdaware/abell-mcp",
+  "install": "npx -y abell-mcp"
+}

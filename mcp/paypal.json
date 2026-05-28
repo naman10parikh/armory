@@ -1,0 +1,7 @@
+{
+  "name": "paypal",
+  "description": "Integrates with PayPal's APIs for payment processing, order management, invoicing, and subscription handling through TypeScript/Node.js implementation with OAuth 2.0 authentication and comprehensive validation.",
+  "source_repo": "arbuthnot-eth/paypal-mcp",
+  "source_url": "https://github.com/arbuthnot-eth/paypal-mcp",
+  "install": "npx -y paypal-mcp"
+}

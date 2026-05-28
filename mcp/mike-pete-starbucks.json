@@ -1,0 +1,7 @@
+{
+  "name": "mike-pete-starbucks",
+  "description": "Provides programmatic access to Starbucks menu and ordering data by leveraging Playwright for web interactions, Zod for type validation, and the MCP SDK to enable developers to explore menu categories, items, and store locations.",
+  "source_repo": "mike-pete/starbucks-mcp",
+  "source_url": "https://github.com/mike-pete/starbucks-mcp",
+  "install": "npx -y starbucks-mcp"
+}

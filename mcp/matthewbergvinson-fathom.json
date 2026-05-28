@@ -1,0 +1,7 @@
+{
+  "name": "matthewbergvinson-fathom",
+  "description": "Integrates with Fathom.video to provide access to meeting transcripts, summaries, and action items with search capabilities by participants or date ranges.",
+  "source_repo": "matthewbergvinson/fathom-mcp",
+  "source_url": "https://github.com/matthewbergvinson/fathom-mcp",
+  "install": "npx -y fathom-mcp"
+}

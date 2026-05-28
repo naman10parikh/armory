@@ -1,0 +1,7 @@
+{
+  "name": "juicetea-github-repository-integration",
+  "description": "Integrates GitHub repositories with Cursor IDE, enabling direct access and interaction with GitHub content within the editor using only a Personal Access Token for authentication.",
+  "source_repo": "juicetea/mcp-cursor-project",
+  "source_url": "https://github.com/juicetea/mcp-cursor-project",
+  "install": "# git clone --depth 1 https://github.com/juicetea/mcp-cursor-project\n# See source for mcpServers config block"
+}

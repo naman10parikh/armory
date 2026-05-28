@@ -1,0 +1,7 @@
+{
+  "name": "fablefang-ai-conversation-logger",
+  "description": "Automatically captures and organizes AI conversations across multiple platforms, storing them in structured markdown format with intelligent project detection and daily logging for persistent conversation history without manual intervention.",
+  "source_repo": "fablefang/ai-conversation-logger-mcp",
+  "source_url": "https://github.com/fablefang/ai-conversation-logger-mcp",
+  "install": "npx -y ai-conversation-logger-mcp"
+}

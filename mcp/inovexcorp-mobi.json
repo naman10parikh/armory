@@ -1,0 +1,7 @@
+{
+  "name": "inovexcorp-mobi",
+  "description": "Integrates with Mobi knowledge management platform to enable semantic data operations including ontology management, SHACL shapes validation, catalog searching, and git-inspired version control for knowledge engineers and semantic web developers.",
+  "source_repo": "inovexcorp/mobi-mcp",
+  "source_url": "https://github.com/inovexcorp/mobi-mcp",
+  "install": "npx -y mobi-mcp"
+}

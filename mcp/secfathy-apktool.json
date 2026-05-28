@@ -1,0 +1,7 @@
+{
+  "name": "secfathy-apktool",
+  "description": "Integrates with Apktool to provide Android APK decompilation, recompilation, manifest analysis, permission extraction, and smali code searching for mobile security research and reverse engineering workflows.",
+  "source_repo": "secfathy/apktool-mcp",
+  "source_url": "https://github.com/secfathy/apktool-mcp",
+  "install": "npx -y apktool-mcp"
+}

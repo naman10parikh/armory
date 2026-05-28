@@ -1,0 +1,7 @@
+{
+  "name": "gh-cristianuibar-bricks-builder",
+  "description": "WordPress plugin providing MCP server for Bricks Builder site management with natural language control.",
+  "source_repo": "cristianuibar/bricks-mcp",
+  "source_url": "https://github.com/cristianuibar/bricks-mcp",
+  "install": "npx -y bricks-mcp"
+}

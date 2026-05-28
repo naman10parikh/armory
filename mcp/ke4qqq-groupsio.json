@@ -1,0 +1,7 @@
+{
+  "name": "ke4qqq-groupsio",
+  "description": "Manage and consume Groups.io mailing lists and group data via the REST API.",
+  "source_repo": "ke4qqq/groupsio-mcp-server",
+  "source_url": "https://github.com/ke4qqq/groupsio-mcp-server",
+  "install": "npx -y groupsio-mcp-server"
+}

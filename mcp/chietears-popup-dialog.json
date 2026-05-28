@@ -1,0 +1,7 @@
+{
+  "name": "chietears-popup-dialog",
+  "description": "Creates native desktop popup dialogs for user interaction with keyboard shortcuts, progress tracking, and multi-language support",
+  "source_repo": "chietears/popup-mcp",
+  "source_url": "https://github.com/chietears/popup-mcp",
+  "install": "npx -y popup-mcp"
+}

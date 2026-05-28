@@ -1,0 +1,7 @@
+{
+  "name": "vhspace-agentbase",
+  "description": "Shared knowledge base where AI agents store and retrieve persistent learnings, findings, and profiles across sessions using semantic search.",
+  "source_repo": "vhspace/agentbase",
+  "source_url": "https://github.com/vhspace/agentbase",
+  "install": "# git clone --depth 1 https://github.com/vhspace/agentbase\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chatwoot-drmoyassine",
+  "description": "Wraps the complete Chatwoot API into 51 tools for managing customer support workflows.",
+  "source_repo": "drmoyassine/mcphub",
+  "source_url": "https://github.com/drmoyassine/mcphub",
+  "install": "# git clone --depth 1 https://github.com/drmoyassine/mcphub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "midl-mcp-server",
+  "description": "Enables AI assistants to interact with the MIDL blockchain, supporting smart contract deployment, balance queries, asset bridging, Bitcoin Rune management, and more through natural language.",
+  "source_repo": "midl-ai/mcp-server",
+  "source_url": "https://github.com/midl-ai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/midl-ai/mcp-server\n# See source for mcpServers config block"
+}

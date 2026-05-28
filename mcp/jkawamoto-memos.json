@@ -1,0 +1,7 @@
+{
+  "name": "jkawamoto-memos",
+  "description": "Connects to Memos note-taking application for creating and managing notes",
+  "source_repo": "jkawamoto/mcp-memos",
+  "source_url": "https://github.com/jkawamoto/mcp-memos",
+  "install": "# git clone --depth 1 https://github.com/jkawamoto/mcp-memos\n# See source for mcpServers config block"
+}

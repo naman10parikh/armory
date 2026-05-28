@@ -1,0 +1,7 @@
+{
+  "name": "ivanostanin-lucius",
+  "description": "Allure TestOps integration for managing test cases, launches, plans, defects, and metadata via the Model Context Protocol.",
+  "source_repo": "ivanostanin/lucius-mcp",
+  "source_url": "https://github.com/ivanostanin/lucius-mcp",
+  "install": "npx -y lucius-mcp"
+}

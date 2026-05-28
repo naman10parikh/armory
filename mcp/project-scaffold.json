@@ -1,0 +1,7 @@
+{
+  "name": "project-scaffold",
+  "description": "An MCP server that scaffolds full-stack projects with consistent structure, Docker setup, CI/CD pipelines, and database configuration.",
+  "source_repo": "dawiegriesel/mcp-dev",
+  "source_url": "https://github.com/dawiegriesel/mcp-dev",
+  "install": "# git clone --depth 1 https://github.com/dawiegriesel/mcp-dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "graphmemory-ide",
+  "description": "An AI-assisted, long-term memory system for IDEs, powered by Kuzu graph database. GraphMemory-IDE is an MCP server that provides semantic vector search, graph-based knowledge storage, and real-time analytics.",
+  "source_repo": "elementalcollision/GraphMemory-IDE",
+  "source_url": "https://github.com/elementalcollision/GraphMemory-IDE",
+  "install": "# git clone --depth 1 https://github.com/elementalcollision/GraphMemory-IDE\n# See source for mcpServers config block"
+}

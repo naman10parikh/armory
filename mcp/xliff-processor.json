@@ -1,0 +1,7 @@
+{
+  "name": "xliff-processor",
+  "description": "An MCP server for processing XLIFF and TMX translation files, enabling parsing, validation, and manipulation of translation units in localization workflows.",
+  "source_repo": "langlink-localization/xliff-mcp-server",
+  "source_url": "https://github.com/langlink-localization/xliff-mcp-server",
+  "install": "npx -y xliff-mcp-server"
+}

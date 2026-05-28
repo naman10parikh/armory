@@ -1,0 +1,7 @@
+{
+  "name": "frida-agent",
+  "description": "AI-driven Android dynamic analysis tool wrapping Frida for automated reverse engineering with device management, script injection, method hooking, and Claude Code skills integration.",
+  "source_repo": "1193776794/frida-mcp",
+  "source_url": "https://github.com/1193776794/frida-mcp",
+  "install": "npx -y frida-mcp"
+}

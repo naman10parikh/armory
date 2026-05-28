@@ -1,0 +1,7 @@
+{
+  "name": "freespirit-pdfsearch-zed",
+  "description": "Built for Zed to enable semantic searching of PDF documents using a Qdrant vector database and OpenAI embeddings.",
+  "source_repo": "freespirit/pdfsearch-zed",
+  "source_url": "https://github.com/freespirit/pdfsearch-zed",
+  "install": "# git clone --depth 1 https://github.com/freespirit/pdfsearch-zed\n# See source for mcpServers config block"
+}

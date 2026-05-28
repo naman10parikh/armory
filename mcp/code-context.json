@@ -1,0 +1,7 @@
+{
+  "name": "code-context",
+  "description": "Enables semantic code search and understanding by cloning git repositories, splitting code into semantic chunks, and generating embeddings for natural language querying of large codebases",
+  "source_repo": "fkesheh/code-context-mcp",
+  "source_url": "https://github.com/fkesheh/code-context-mcp",
+  "install": "npx -y code-context-mcp"
+}

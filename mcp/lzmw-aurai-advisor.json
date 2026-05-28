@@ -1,0 +1,7 @@
+{
+  "name": "lzmw-aurai-advisor",
+  "description": "Provides advisory capabilities through specialized AI-powered consultation and guidance functions with enterprise-grade operational support.",
+  "source_repo": "lzmw/mcp-aurai-server",
+  "source_url": "https://github.com/lzmw/mcp-aurai-server",
+  "install": "# git clone --depth 1 https://github.com/lzmw/mcp-aurai-server\n# See source for mcpServers config block"
+}

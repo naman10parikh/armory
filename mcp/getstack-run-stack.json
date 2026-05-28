@@ -1,0 +1,7 @@
+{
+  "name": "getstack-run-stack",
+  "description": "Runtime control plane for AI agents with scoped credentials, audit logging, and real-time revocation.",
+  "source_repo": "getstack-run/stack",
+  "source_url": "https://github.com/getstack-run/stack",
+  "install": "# git clone --depth 1 https://github.com/getstack-run/stack\n# See source for mcpServers config block"
+}

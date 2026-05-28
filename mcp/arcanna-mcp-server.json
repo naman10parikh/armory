@@ -1,0 +1,7 @@
+{
+  "name": "arcanna-mcp-server",
+  "description": "Arcanna Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "siscale/arcanna-mcp-server",
+  "source_url": "https://mcp.so/server/arcanna-mcp-server/siscale",
+  "install": "npx -y arcanna-mcp-server"
+}

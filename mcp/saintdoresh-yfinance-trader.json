@@ -1,0 +1,7 @@
+{
+  "name": "saintdoresh-yfinance-trader",
+  "description": "Provides real-time stock market data and trading capabilities through yfinance, offering tools for retrieving quotes, company overviews, historical prices, symbol searches, analyst recommendations, and insider transactions.",
+  "source_repo": "saintdoresh/yfinance-trader-mcp-claudedesktop",
+  "source_url": "https://github.com/saintdoresh/yfinance-trader-mcp-claudedesktop",
+  "install": "# git clone --depth 1 https://github.com/saintdoresh/yfinance-trader-mcp-claudedesktop\n# See source for mcpServers config block"
+}

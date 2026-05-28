@@ -1,0 +1,7 @@
+{
+  "name": "gh-josiebot26-prospector",
+  "description": "Find and verify B2B email addresses with self-contained DNS/SMTP verification and web scraping.",
+  "source_repo": "josiebot26/prospector-mcp-email-finder",
+  "source_url": "https://github.com/josiebot26/prospector-mcp-email-finder",
+  "install": "# git clone --depth 1 https://github.com/josiebot26/prospector-mcp-email-finder\n# See source for mcpServers config block"
+}

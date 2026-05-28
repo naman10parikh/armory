@@ -1,0 +1,7 @@
+{
+  "name": "africanmarketos591-mvr",
+  "description": "Minimum Viable Relationships API — relational-readiness tools for high-context market decisions in African and emerging markets.",
+  "source_repo": "africanmarketos591/mvr-framework",
+  "source_url": "https://github.com/africanmarketos591/mvr-framework",
+  "install": "# git clone --depth 1 https://github.com/africanmarketos591/mvr-framework\n# See source for mcpServers config block"
+}

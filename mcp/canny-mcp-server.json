@@ -1,0 +1,7 @@
+{
+  "name": "canny-mcp-server",
+  "description": "Enables customer feedback management by integrating with Canny.io, supporting board listing, post retrieval, search, and creation.",
+  "source_repo": "mailerlite/canny-mcp-server",
+  "source_url": "https://github.com/mailerlite/canny-mcp-server",
+  "install": "npx -y canny-mcp-server"
+}

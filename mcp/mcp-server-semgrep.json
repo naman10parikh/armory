@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-semgrep",
+  "description": "Mcp Server Semgrep MCP server listed on mcp.so.",
+  "source_repo": "Maciej Gad/mcp-server-semgrep",
+  "source_url": "https://mcp.so/server/mcp-server-semgrep/Maciej Gad",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-semgrep/Maciej Gad\n# See source for mcpServers config block"
+}

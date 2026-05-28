@@ -1,0 +1,7 @@
+{
+  "name": "nazruden-clickup",
+  "description": "Integrates with ClickUp to enable task creation, project management, and workflow automation for teams using AI-powered assistants.",
+  "source_repo": "nazruden/clickup-mcp-server",
+  "source_url": "https://github.com/nazruden/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

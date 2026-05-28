@@ -1,0 +1,7 @@
+{
+  "name": "elevy99927-devops-mcp-webui",
+  "description": "/🏠 - MCP Server for Kubernetes integrated with Open-WebUI, bridging the gap between DevOps and non-technical teams. Supports `kubectl` and `helm` operations through natural-language commands.",
+  "source_repo": "elevy99927/devops-mcp-webui",
+  "source_url": "https://github.com/elevy99927/devops-mcp-webui",
+  "install": "# git clone --depth 1 https://github.com/elevy99927/devops-mcp-webui\n# See source for mcpServers config block"
+}

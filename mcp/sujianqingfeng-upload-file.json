@@ -1,0 +1,7 @@
+{
+  "name": "sujianqingfeng-upload-file",
+  "description": "Provides a bridge for efficient file uploads within AI-assisted workflows, enabling seamless integration of file handling capabilities into existing systems.",
+  "source_repo": "sujianqingfeng/mcp-upload-file",
+  "source_url": "https://github.com/sujianqingfeng/mcp-upload-file",
+  "install": "# git clone --depth 1 https://github.com/sujianqingfeng/mcp-upload-file\n# See source for mcpServers config block"
+}

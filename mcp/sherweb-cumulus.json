@@ -1,0 +1,7 @@
+{
+  "name": "sherweb-cumulus",
+  "description": "Cloud services management platform enabling AI agents to manage Microsoft 365, Azure, and partner solutions.",
+  "source_repo": "sherweb-development/cumulus-mcp",
+  "source_url": "https://github.com/sherweb-development/cumulus-mcp",
+  "install": "npx -y cumulus-mcp"
+}

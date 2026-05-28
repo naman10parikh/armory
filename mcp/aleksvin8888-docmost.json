@@ -1,0 +1,7 @@
+{
+  "name": "aleksvin8888-docmost",
+  "description": "Integrates with self-hosted Docmost wiki for listing spaces, searching documents, and retrieving page content.",
+  "source_repo": "aleksvin8888/local-docmost-mcp",
+  "source_url": "https://github.com/aleksvin8888/local-docmost-mcp",
+  "install": "npx -y local-docmost-mcp"
+}

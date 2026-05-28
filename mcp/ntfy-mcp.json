@@ -1,0 +1,7 @@
+{
+  "name": "ntfy-mcp",
+  "description": "Enables AI agents to send push notifications to your phone through ntfy, with built-in security controls to prevent data exfiltration. It exposes a single tool notify_user for notifying when tasks complete or need attention.",
+  "source_repo": "MahdiHedhli/ntfy-mcp",
+  "source_url": "https://github.com/MahdiHedhli/ntfy-mcp",
+  "install": "npx -y ntfy-mcp"
+}

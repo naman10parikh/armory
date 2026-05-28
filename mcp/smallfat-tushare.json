@@ -1,0 +1,7 @@
+{
+  "name": "smallfat-tushare",
+  "description": "Accesses Chinese financial market data through the Tushare API with 173 data interfaces and 17 tools.",
+  "source_repo": "smallfat/tushare-mcp-server",
+  "source_url": "https://github.com/smallfat/tushare-mcp-server",
+  "install": "npx -y tushare-mcp-server"
+}

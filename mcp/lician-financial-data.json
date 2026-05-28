@@ -1,0 +1,7 @@
+{
+  "name": "lician-financial-data",
+  "description": "Provides stock prices, financial statements, insider trades, institutional holdings, analyst ratings, and SEC filings for over 141,000 US and European companies via the Lician API.",
+  "source_repo": "sebastianbo/quant-platform",
+  "source_url": "https://github.com/sebastianbo/quant-platform/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sebastianbo/quant-platform/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yindex-wechat-bot",
+  "description": "Go-based WeChat iLink Bot integration supporting both stdio and SSE transport protocols for automated messaging, conversation management, and file sharing.",
+  "source_repo": "yindex/wx-mcp",
+  "source_url": "https://github.com/yindex/wx-mcp",
+  "install": "npx -y wx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "unifi-applications-kallistox",
+  "description": "Exposes UniFi API documentation for Network, Protect, and Site Manager as queryable tools with endpoint search, schema inspection, and code examples.",
+  "source_repo": "kallistox/mcp-unifi-applications",
+  "source_url": "https://github.com/kallistox/mcp-unifi-applications",
+  "install": "# git clone --depth 1 https://github.com/kallistox/mcp-unifi-applications\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "decision-anchor",
+  "description": "External accountability proof for agent payments, delegation, and dispute resolution.",
+  "source_repo": "zse4321/decision-anchor-sdk",
+  "source_url": "https://github.com/zse4321/decision-anchor-sdk",
+  "install": "# git clone --depth 1 https://github.com/zse4321/decision-anchor-sdk\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "worldbank-mcp",
+  "description": "Queries World Bank Open Data API for global economic, social, education, and health indicators by country.",
+  "source_repo": "tianyuio/worldbank-mcp",
+  "source_url": "https://github.com/tianyuio/worldbank-mcp",
+  "install": "npx -y worldbank-mcp"
+}

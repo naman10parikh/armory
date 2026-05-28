@@ -1,0 +1,7 @@
+{
+  "name": "hobson-stock-analyzer",
+  "description": "Integrates with Tiingo API to perform technical analysis on stocks, providing key indicators for trading decisions.",
+  "source_repo": "wshobson/mcp-trader",
+  "source_url": "https://github.com/wshobson/mcp-trader",
+  "install": "# git clone --depth 1 https://github.com/wshobson/mcp-trader\n# See source for mcpServers config block"
+}

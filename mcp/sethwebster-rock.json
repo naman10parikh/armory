@@ -1,0 +1,7 @@
+{
+  "name": "sethwebster-rock",
+  "description": "Documentation crawler that indexes websites into SQLite with full-text search, enabling AI agents to search, read, and expand on crawled content on demand.",
+  "source_repo": "sethwebster/rock-mcp",
+  "source_url": "https://github.com/sethwebster/rock-mcp",
+  "install": "npx -y rock-mcp"
+}

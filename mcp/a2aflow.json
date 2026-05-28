@@ -1,0 +1,7 @@
+{
+  "name": "a2aflow",
+  "description": "A2A protocol server for data flow management",
+  "source_repo": "closedloop-technologies/A2AFlow",
+  "source_url": "https://github.com/closedloop-technologies/A2AFlow",
+  "install": "# git clone --depth 1 https://github.com/closedloop-technologies/A2AFlow\n# See source for mcpServers config block"
+}

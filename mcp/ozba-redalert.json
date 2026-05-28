@@ -1,0 +1,7 @@
+{
+  "name": "ozba-redalert",
+  "description": "Monitor Israel's emergency alert system with real-time rocket alerts and shelter information.",
+  "source_repo": "ozba/redalert-mcp-server",
+  "source_url": "https://github.com/ozba/redalert-mcp-server",
+  "install": "npx -y redalert-mcp-server"
+}

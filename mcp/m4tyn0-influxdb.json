@@ -1,0 +1,7 @@
+{
+  "name": "m4tyn0-influxdb",
+  "description": "Provides secure, read-only access to InfluxDB 1.8 time-series databases with JWT authentication, enabling database listing, measurement exploration, and query execution while enforcing security restrictions.",
+  "source_repo": "m4tyn0/influx_mcp",
+  "source_url": "https://github.com/m4tyn0/influx_mcp",
+  "install": "npx -y influx_mcp"
+}

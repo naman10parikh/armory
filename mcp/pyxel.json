@@ -1,0 +1,7 @@
+{
+  "name": "pyxel",
+  "description": "Enables AI-assisted retro game development with Pyxel engine through script execution, screenshot capture, sprite inspection, and audio analysis.",
+  "source_repo": "kitao/pyxel-mcp",
+  "source_url": "https://github.com/kitao/pyxel-mcp",
+  "install": "npx -y pyxel-mcp"
+}

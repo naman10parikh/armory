@@ -1,0 +1,7 @@
+{
+  "name": "nckhemanth0-subscription-tracker-mcp",
+  "description": "MCP server for intelligent subscription management with Gmail + MySQL integration.",
+  "source_repo": "nckhemanth0/subscription-tracker-mcp",
+  "source_url": "https://github.com/nckhemanth0/subscription-tracker-mcp",
+  "install": "npx -y subscription-tracker-mcp"
+}

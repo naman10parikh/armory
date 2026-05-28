@@ -1,0 +1,7 @@
+{
+  "name": "tien226anh-aseprite",
+  "description": "Python MCP server bridging LLMs to Aseprite for programmatic pixel art creation, animation, and sprite management.",
+  "source_repo": "tien226anh/aseprite-mcp-python",
+  "source_url": "https://github.com/tien226anh/aseprite-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/tien226anh/aseprite-mcp-python\n# See source for mcpServers config block"
+}

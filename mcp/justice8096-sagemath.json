@@ -1,0 +1,7 @@
+{
+  "name": "justice8096-sagemath",
+  "description": "Access SageMath's computer algebra system with 10 symbolic-math tools for LLMs.",
+  "source_repo": "justice8096/sagemath-mcp-server",
+  "source_url": "https://github.com/justice8096/sagemath-mcp-server",
+  "install": "npx -y sagemath-mcp-server"
+}

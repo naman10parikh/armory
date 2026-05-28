@@ -1,0 +1,7 @@
+{
+  "name": "strava-mcp-server",
+  "description": "Strava Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "rakeshgangwar/strava-mcp-server",
+  "source_url": "https://mcp.so/server/strava-mcp-server/rakeshgangwar",
+  "install": "npx -y strava-mcp-server"
+}

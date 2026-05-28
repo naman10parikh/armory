@@ -1,0 +1,7 @@
+{
+  "name": "devids77-mcp-market-russia",
+  "description": "Searches Russian construction and real estate companies, house projects, and pricing across major cities.",
+  "source_repo": "devids77/mcp-market-server",
+  "source_url": "https://github.com/devids77/mcp-market-server",
+  "install": "# git clone --depth 1 https://github.com/devids77/mcp-market-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "am-lich-vietnamese-calendar",
+  "description": "Convert dates between the Gregorian solar calendar and the Vietnamese lunar calendar.",
+  "source_repo": "",
+  "source_url": "https://am-lich.com/mcp",
+  "install": "# git clone --depth 1 https://am-lich.com/mcp\n# See source for mcpServers config block"
+}

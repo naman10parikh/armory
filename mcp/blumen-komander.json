@@ -1,0 +1,7 @@
+{
+  "name": "blumen-komander",
+  "description": "Order fresh flowers with same-day delivery in Munich from Germany's first florist with MCP.",
+  "source_repo": "severin2k/blumen-komander-mcp",
+  "source_url": "https://github.com/severin2k/blumen-komander-mcp",
+  "install": "npx -y blumen-komander-mcp"
+}

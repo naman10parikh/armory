@@ -1,0 +1,7 @@
+{
+  "name": "database-connector",
+  "description": "Provides a unified interface for connecting to and interacting with multiple database systems (SQLite, PostgreSQL, MySQL/MariaDB, SQL Server) through consistent tools for connection management, query execution, schema manipulation, and transaction support.",
+  "source_repo": "georgi-terziyski/database_mcp_server",
+  "source_url": "https://github.com/georgi-terziyski/database_mcp_server",
+  "install": "npx -y database_mcp_server"
+}

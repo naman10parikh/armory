@@ -1,0 +1,7 @@
+{
+  "name": "transcode",
+  "description": "Media transcoding tool that converts audio and video files between formats.",
+  "source_repo": "hiroshic9-png/japan-intelligence-api",
+  "source_url": "https://github.com/hiroshic9-png/japan-intelligence-api",
+  "install": "# git clone --depth 1 https://github.com/hiroshic9-png/japan-intelligence-api\n# See source for mcpServers config block"
+}

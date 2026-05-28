@@ -1,0 +1,7 @@
+{
+  "name": "apogeoapi",
+  "description": "Geographic data MCP providing country info, states, cities, IP geolocation, and live currency rates.",
+  "source_repo": "apogeoapi/apogeoapi-mcp",
+  "source_url": "https://github.com/apogeoapi/apogeoapi-mcp",
+  "install": "npx -y apogeoapi-mcp"
+}

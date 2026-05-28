@@ -1,0 +1,7 @@
+{
+  "name": "darknoah-feishu",
+  "description": "Feishu/Lark messaging platform integration.",
+  "source_repo": "darknoah/feishu-mcp",
+  "source_url": "https://github.com/darknoah/feishu-mcp",
+  "install": "npx -y feishu-mcp"
+}

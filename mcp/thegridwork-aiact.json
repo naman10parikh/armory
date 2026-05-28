@@ -1,0 +1,7 @@
+{
+  "name": "thegridwork-aiact",
+  "description": "Assesses AI systems and workflows for compliance with EU AI Act requirements and risk classifications.",
+  "source_repo": "thegridwork/aiact",
+  "source_url": "https://github.com/thegridwork/aiact",
+  "install": "# git clone --depth 1 https://github.com/thegridwork/aiact\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dikshitrj-quickfill",
+  "description": "Render interactive browser-based UIs instantly for rapid prototyping and data visualization.",
+  "source_repo": "dikshitrj/quickfill-mcp",
+  "source_url": "https://github.com/dikshitrj/quickfill-mcp",
+  "install": "npx -y quickfill-mcp"
+}

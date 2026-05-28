@@ -1,0 +1,7 @@
+{
+  "name": "tao-izm-devpulse-mcp",
+  "description": "Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your local dev environment. Detects framework, running services, recent errors, and git state in one call.",
+  "source_repo": "tao-izm/devpulse-mcp",
+  "source_url": "https://github.com/tao-izm/devpulse-mcp",
+  "install": "npx -y devpulse-mcp"
+}

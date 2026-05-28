@@ -1,0 +1,7 @@
+{
+  "name": "memstate-ai-memstate-mcp",
+  "description": "Versioned, structured memory for AI agents. Stores facts as keypaths with full version history, automatic conflict detection, and O(1) token retrieval.",
+  "source_repo": "memstate-ai/memstate-mcp",
+  "source_url": "https://github.com/memstate-ai/memstate-mcp",
+  "install": "npx -y memstate-mcp"
+}

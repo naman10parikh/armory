@@ -1,0 +1,7 @@
+{
+  "name": "stitch-mcp-server",
+  "description": "Enables AI coding assistants to generate, edit, and scaffold HTML UIs from natural language using Google Stitch API.",
+  "source_repo": "0x-Professor/Stitch-mcp-server",
+  "source_url": "https://github.com/0x-Professor/Stitch-mcp-server",
+  "install": "npx -y Stitch-mcp-server"
+}

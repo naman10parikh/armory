@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-docker-helper-ai-mcp",
+  "description": "AI tools for managing Docker containers, images, and configurations.",
+  "source_repo": "csoai-org/docker-helper-ai-mcp",
+  "source_url": "https://github.com/csoai-org/docker-helper-ai-mcp",
+  "install": "npx -y docker-helper-ai-mcp"
+}

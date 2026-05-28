@@ -1,0 +1,7 @@
+{
+  "name": "slack-mcp",
+  "description": "Use to let an agent participate in Slack — post messages, reply in threads, read channel history, and react — so it can report status or take instructions in a team's chat.",
+  "source_repo": "modelcontextprotocol/servers-archived",
+  "source_url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack\n# See source for mcpServers config block"
+}

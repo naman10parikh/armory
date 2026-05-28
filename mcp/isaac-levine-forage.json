@@ -1,0 +1,7 @@
+{
+  "name": "isaac-levine-forage",
+  "description": "Self-improving tool discovery for AI agents that finds, installs, and uses new servers automatically.",
+  "source_repo": "isaac-levine/forage",
+  "source_url": "https://github.com/isaac-levine/forage",
+  "install": "# git clone --depth 1 https://github.com/isaac-levine/forage\n# See source for mcpServers config block"
+}

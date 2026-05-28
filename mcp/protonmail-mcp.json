@@ -1,0 +1,7 @@
+{
+  "name": "protonmail-mcp",
+  "description": "Protonmail Mcp MCP server listed on mcp.so.",
+  "source_repo": "amotivv/protonmail-mcp",
+  "source_url": "https://mcp.so/server/protonmail-mcp/amotivv",
+  "install": "npx -y protonmail-mcp"
+}

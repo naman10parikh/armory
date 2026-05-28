@@ -1,0 +1,7 @@
+{
+  "name": "90barricade93-msfs-sdk",
+  "description": "Provides TypeScript-based access to Microsoft Flight Simulator SDK documentation through web scraping and natural language processing, enabling flight simulation developers to search and retrieve API references, code examples, and technical specifications through conversational queries.",
+  "source_repo": "90barricade93/msfs-sdk-mcp",
+  "source_url": "https://github.com/90barricade93/msfs-sdk-mcp",
+  "install": "npx -y msfs-sdk-mcp"
+}

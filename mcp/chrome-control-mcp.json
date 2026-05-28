@@ -1,0 +1,7 @@
+{
+  "name": "chrome-control-mcp",
+  "description": "Chrome Control Mcp MCP server listed on mcp.so.",
+  "source_repo": "needsupport/chrome-control-mcp",
+  "source_url": "https://mcp.so/server/chrome-control-mcp/needsupport",
+  "install": "npx -y chrome-control-mcp"
+}

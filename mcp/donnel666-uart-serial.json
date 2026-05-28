@@ -1,0 +1,7 @@
+{
+  "name": "donnel666-uart-serial",
+  "description": "Direct access to UART/serial interfaces for hardware devices, microcontrollers, and embedded systems",
+  "source_repo": "donnel666/uart-mcp",
+  "source_url": "https://github.com/donnel666/uart-mcp",
+  "install": "npx -y uart-mcp"
+}

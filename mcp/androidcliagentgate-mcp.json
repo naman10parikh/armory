@@ -1,0 +1,7 @@
+{
+  "name": "androidcliagentgate-mcp",
+  "description": "Android CLI agent build gate with structured receipts, audit logs, and reviewer-ready evidence.",
+  "source_repo": "clauxel/android-cli-agent-gate-mcp",
+  "source_url": "https://github.com/clauxel/android-cli-agent-gate-mcp",
+  "install": "npx -y android-cli-agent-gate-mcp"
+}

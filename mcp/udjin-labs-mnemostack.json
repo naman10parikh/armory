@@ -1,0 +1,7 @@
+{
+  "name": "udjin-labs-mnemostack",
+  "description": "Durable hybrid memory for AI agents. Combines vector search, BM25, temporal retrieval, and optional Memgraph knowledge graph via reciprocal rank fusion. 6 MCP tools: health, search, answer, feedback, graph_query, graph_add_triple. Self-hosted with Qdrant backend. 82.5% strict accuracy on LoCoMo benchmark. `pip install 'mnemostack[mcp]'`",
+  "source_repo": "udjin-labs/mnemostack",
+  "source_url": "https://github.com/udjin-labs/mnemostack",
+  "install": "# git clone --depth 1 https://github.com/udjin-labs/mnemostack\n# See source for mcpServers config block"
+}

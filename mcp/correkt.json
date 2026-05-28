@@ -1,0 +1,7 @@
+{
+  "name": "correkt",
+  "description": "Online marketplace for AI agents to browse and purchase physical products from verified sellers.",
+  "source_repo": "",
+  "source_url": "https://api.correkt.com/mcp",
+  "install": "# git clone --depth 1 https://api.correkt.com/mcp\n# See source for mcpServers config block"
+}

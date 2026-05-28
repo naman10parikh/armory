@@ -1,0 +1,7 @@
+{
+  "name": "joy7758-chinese-legal-database",
+  "description": "Provides access to Chinese legal regulations and laws through a structured database interface, enabling legal research and compliance queries within the Chinese legal system.",
+  "source_repo": "joy7758/mcp-legal-china",
+  "source_url": "https://github.com/joy7758/mcp-legal-china",
+  "install": "# git clone --depth 1 https://github.com/joy7758/mcp-legal-china\n# See source for mcpServers config block"
+}

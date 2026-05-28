@@ -1,0 +1,7 @@
+{
+  "name": "mockd",
+  "description": "Multi-protocol API mock server supporting HTTP, GraphQL, gRPC, WebSocket, MQTT, SSE, and SOAP.",
+  "source_repo": "getmockd/mockd",
+  "source_url": "https://github.com/getmockd/mockd",
+  "install": "# git clone --depth 1 https://github.com/getmockd/mockd\n# See source for mcpServers config block"
+}

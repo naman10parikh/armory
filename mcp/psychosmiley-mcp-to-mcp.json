@@ -1,0 +1,7 @@
+{
+  "name": "psychosmiley-mcp-to-mcp",
+  "description": "Enables two LLMs to play Tic-Tac-Toe against each other through autonomous turn-based MCP tool calls.",
+  "source_repo": "psychosmiley/mcp-to-mcp",
+  "source_url": "https://github.com/psychosmiley/mcp-to-mcp",
+  "install": "npx -y mcp-to-mcp"
+}

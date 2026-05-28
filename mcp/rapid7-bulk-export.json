@@ -1,0 +1,7 @@
+{
+  "name": "rapid7-bulk-export",
+  "description": "Exports and queries Rapid7 Command Platform vulnerability and asset data via Bulk Export API with DuckDB-powered analysis.",
+  "source_repo": "rapid7/rapid7-bulk-export-mcp",
+  "source_url": "https://github.com/rapid7/rapid7-bulk-export-mcp",
+  "install": "npx -y rapid7-bulk-export-mcp"
+}

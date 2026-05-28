@@ -1,0 +1,7 @@
+{
+  "name": "frgmt0-inked",
+  "description": "Provides tools for managing and generating long-form content through conversation-based drafting and revision workflows, enabling efficient development of novels, reports, and other extensive documents.",
+  "source_repo": "frgmt0/inked",
+  "source_url": "https://github.com/frgmt0/inked",
+  "install": "# git clone --depth 1 https://github.com/frgmt0/inked\n# See source for mcpServers config block"
+}

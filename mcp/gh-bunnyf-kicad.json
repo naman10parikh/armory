@@ -1,0 +1,7 @@
+{
+  "name": "gh-bunnyf-kicad",
+  "description": "AI-assisted PCB design with KiCad 9.x — schematic capture and board layout tools.",
+  "source_repo": "bunnyf/pcb-mcp",
+  "source_url": "https://github.com/bunnyf/pcb-mcp",
+  "install": "npx -y pcb-mcp"
+}

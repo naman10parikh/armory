@@ -1,0 +1,7 @@
+{
+  "name": "waitlist-kit",
+  "description": "Viral waitlist management with referral tracking, leaderboards, analytics, and built-in themes.",
+  "source_repo": "",
+  "source_url": "https://waitlist.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://waitlist.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

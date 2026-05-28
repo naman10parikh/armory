@@ -1,0 +1,7 @@
+{
+  "name": "hoqqun-stooq-mcp",
+  "description": "Fetch real-time stock prices from Stooq without API keys. Supports global markets (US, Japan, UK, Germany).",
+  "source_repo": "hoqqun/stooq-mcp",
+  "source_url": "https://github.com/hoqqun/stooq-mcp",
+  "install": "npx -y stooq-mcp"
+}

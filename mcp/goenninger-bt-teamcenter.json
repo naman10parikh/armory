@@ -1,0 +1,7 @@
+{
+  "name": "goenninger-bt-teamcenter",
+  "description": "Integrates with Siemens Teamcenter PLM for search, BOM operations, change management, and workflow automation.",
+  "source_repo": "goenninger-b-t/tc-mcp",
+  "source_url": "https://github.com/goenninger-b-t/tc-mcp",
+  "install": "npx -y tc-mcp"
+}

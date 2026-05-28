@@ -1,0 +1,7 @@
+{
+  "name": "capobianco-chatgpt",
+  "description": "Integrates with OpenAI's GPT-4o model to provide text analysis, summarization, and generation capabilities through a simple API for scenarios requiring complex processing beyond primary capabilities.",
+  "source_repo": "automateyournetwork/chatgpt_mcp",
+  "source_url": "https://github.com/automateyournetwork/chatgpt_mcp",
+  "install": "npx -y chatgpt_mcp"
+}

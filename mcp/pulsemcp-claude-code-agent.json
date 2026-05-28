@@ -1,0 +1,7 @@
+{
+  "name": "pulsemcp-claude-code-agent",
+  "description": "Solves tool overload by dynamically spawning Claude Code subagents with only task-relevant MCP servers, analyzing trusted server lists to create isolated instances with custom prompts and selective configurations for scaling to hundreds of servers without context window bloat.",
+  "source_repo": "pulsemcp/mcp-servers",
+  "source_url": "https://github.com/pulsemcp/mcp-servers/tree/HEAD/experimental/claude-code-agent",
+  "install": "# git clone --depth 1 https://github.com/pulsemcp/mcp-servers/tree/HEAD/experimental/claude-code-agent\n# See source for mcpServers config block"
+}

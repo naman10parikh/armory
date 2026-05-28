@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-app-publish",
+  "description": "Manage iOS and Android app publishing across App Store Connect and Google Play Console.",
+  "source_repo": "mikusnuz/app-publish-mcp",
+  "source_url": "https://github.com/mikusnuz/app-publish-mcp",
+  "install": "npx -y app-publish-mcp"
+}

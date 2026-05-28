@@ -1,0 +1,7 @@
+{
+  "name": "respawn-app-tool-filter",
+  "description": "Proxy server that filters tools from upstream MCP servers using configurable regex patterns to control which tools are exposed to clients.",
+  "source_repo": "respawn-app/tool-filter-mcp",
+  "source_url": "https://github.com/respawn-app/tool-filter-mcp",
+  "install": "npx -y tool-filter-mcp"
+}

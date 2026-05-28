@@ -1,0 +1,7 @@
+{
+  "name": "jexchange-mcp-server",
+  "description": "Jexchange Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "juhemcp/jexchange-mcp-server",
+  "source_url": "https://mcp.so/server/jexchange-mcp-server/juhemcp",
+  "install": "npx -y jexchange-mcp-server"
+}

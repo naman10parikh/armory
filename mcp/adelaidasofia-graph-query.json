@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-graph-query",
+  "description": "Queries a local knowledge graph vault for semantic search and relationship traversal.",
+  "source_repo": "adelaidasofia/graph-query-mcp",
+  "source_url": "https://github.com/adelaidasofia/graph-query-mcp",
+  "install": "npx -y graph-query-mcp"
+}

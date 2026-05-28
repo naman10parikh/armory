@@ -1,0 +1,7 @@
+{
+  "name": "zigpoll-mcp",
+  "description": "Analyze Zigpoll survey responses and track trends.",
+  "source_repo": "jasonzigelbaum/zigpoll-mcp-plugin",
+  "source_url": "https://github.com/jasonzigelbaum/zigpoll-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/jasonzigelbaum/zigpoll-mcp-plugin\n# See source for mcpServers config block"
+}

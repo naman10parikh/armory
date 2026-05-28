@@ -1,0 +1,7 @@
+{
+  "name": "member-berries-apple",
+  "description": "Integrates with Apple's native productivity apps (Notes, Reminders, Calendar) on macOS to create, search, and manage personal information while maintaining conversational context through a persistent memory system that tracks activities and relationship continuity.",
+  "source_repo": "m-pineapple/member-berries-apple-mcp",
+  "source_url": "https://github.com/m-pineapple/member-berries-apple-mcp/tree/HEAD/member-berries",
+  "install": "npx -y member-berries-apple-mcp"
+}

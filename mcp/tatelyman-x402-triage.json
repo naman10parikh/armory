@@ -1,0 +1,7 @@
+{
+  "name": "tatelyman-x402-triage",
+  "description": "Analyze x402 payment protocol surfaces, endpoint health checks, and 402 Index metadata.",
+  "source_repo": "tatelyman/x402-triage-mcp",
+  "source_url": "https://github.com/tatelyman/x402-triage-mcp",
+  "install": "npx -y x402-triage-mcp"
+}

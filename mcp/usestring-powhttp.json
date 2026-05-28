@@ -1,0 +1,7 @@
+{
+  "name": "usestring-powhttp",
+  "description": "Provides comprehensive access to HTTP traffic captured by powhttp with tools for searching entries, analyzing TLS fingerprints, comparing browser vs programmatic requests for anti-bot detection, clustering API endpoints, and validating response schemas.",
+  "source_repo": "usestring/powhttp-mcp",
+  "source_url": "https://github.com/usestring/powhttp-mcp",
+  "install": "npx -y powhttp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "m2ai-ratchet-clinical-charting",
+  "description": "Clinical charting with Claude — document patient visits and send to EMR systems.",
+  "source_repo": "m2ai-mcp-servers/chartinghero",
+  "source_url": "https://github.com/m2ai-mcp-servers/chartinghero",
+  "install": "# git clone --depth 1 https://github.com/m2ai-mcp-servers/chartinghero\n# See source for mcpServers config block"
+}

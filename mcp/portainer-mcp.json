@@ -1,0 +1,7 @@
+{
+  "name": "portainer-mcp",
+  "description": "Enables AI assistants to manage Portainer container environments through natural language, including deploying stacks, managing containers, images, volumes, networks, and executing commands.",
+  "source_repo": "ginkida/portainer-mcp",
+  "source_url": "https://github.com/ginkida/portainer-mcp",
+  "install": "npx -y portainer-mcp"
+}

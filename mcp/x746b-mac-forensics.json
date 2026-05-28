@@ -1,0 +1,7 @@
+{
+  "name": "x746b-mac-forensics",
+  "description": "Integrates with macOS forensic tools like FSEParser and unifiedlog_iterator to parse system artifacts, correlate timeline events, and detect security incidents across unified logs, FSEvents, Safari history, and system databases for digital forensics investigations.",
+  "source_repo": "x746b/mac_forensics-mcp",
+  "source_url": "https://github.com/x746b/mac_forensics-mcp",
+  "install": "npx -y mac_forensics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "speedofme-dev-speedofme-mcp",
+  "description": "Official SpeedOf.Me server for accurate internet speed tests via 129 global Fastly edge servers with analytics dashboard and local history",
+  "source_repo": "",
+  "source_url": "https://www.npmjs.com/package/@speedofme/mcp",
+  "install": "npx -y @speedofme"
+}

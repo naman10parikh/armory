@@ -1,0 +1,7 @@
+{
+  "name": "mikhael-abdallah-azure-revisor",
+  "description": "Enables automated code review workflows in Azure DevOps by retrieving pull request diffs and creating inline comments using personal access tokens.",
+  "source_repo": "mikhael-abdallah/mcp-revisor-server",
+  "source_url": "https://github.com/mikhael-abdallah/mcp-revisor-server",
+  "install": "# git clone --depth 1 https://github.com/mikhael-abdallah/mcp-revisor-server\n# See source for mcpServers config block"
+}

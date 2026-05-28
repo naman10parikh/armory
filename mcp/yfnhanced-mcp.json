@@ -1,0 +1,7 @@
+{
+  "name": "yfnhanced-mcp",
+  "description": "Production-grade financial data infrastructure for AI assistants, providing reliable market data from Yahoo Finance with enterprise resilience patterns.",
+  "source_repo": "kanishka-namdeo/yfnhanced-mcp",
+  "source_url": "https://github.com/kanishka-namdeo/yfnhanced-mcp",
+  "install": "npx -y yfnhanced-mcp"
+}

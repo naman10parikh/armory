@@ -1,0 +1,7 @@
+{
+  "name": "mbentham-sqlaugur",
+  "description": "Read-only SQL Server database access with schema exploration and query execution.",
+  "source_repo": "mbentham/sqlaugur",
+  "source_url": "https://github.com/mbentham/sqlaugur",
+  "install": "# git clone --depth 1 https://github.com/mbentham/sqlaugur\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "therealmrfunguy-uptime-probe",
+  "description": "HTTP health checks, SSL expiry monitoring, TCP port scanning, and batch URL testing.",
+  "source_repo": "",
+  "source_url": "https://uptime.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://uptime.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

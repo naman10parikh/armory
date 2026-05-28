@@ -1,0 +1,7 @@
+{
+  "name": "clawbackai-mcp",
+  "description": "LLM cost optimization tool that audits API calls, proves savings, and routes to the cheapest quality model.",
+  "source_repo": "rckl88/clawbackai",
+  "source_url": "https://github.com/rckl88/clawbackai",
+  "install": "# git clone --depth 1 https://github.com/rckl88/clawbackai\n# See source for mcpServers config block"
+}

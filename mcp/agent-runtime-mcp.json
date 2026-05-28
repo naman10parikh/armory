@@ -1,0 +1,7 @@
+{
+  "name": "agent-runtime-mcp",
+  "description": "Enables persistent task and goal management with AI-powered decomposition, cross-session continuity, and fault-tolerant multi-agent pipelines.",
+  "source_repo": "marc-shade/agent-runtime-mcp",
+  "source_url": "https://github.com/marc-shade/agent-runtime-mcp",
+  "install": "npx -y agent-runtime-mcp"
+}

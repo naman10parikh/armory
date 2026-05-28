@@ -1,0 +1,7 @@
+{
+  "name": "jasonsmiff-albacore",
+  "description": "Lightweight TypeScript server with Ollama integration that enables local text generation, embedding services, and optional Supabase database support for rapid prototyping of context-aware tools and resources.",
+  "source_repo": "jsmiff/mcp",
+  "source_url": "https://github.com/jsmiff/mcp",
+  "install": "# git clone --depth 1 https://github.com/jsmiff/mcp\n# See source for mcpServers config block"
+}

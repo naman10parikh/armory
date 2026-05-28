@@ -1,0 +1,7 @@
+{
+  "name": "brewmytech-grok",
+  "description": "Provides access to Grok API for chat completions, text completions, embeddings, and model operations with robust request validation and error handling.",
+  "source_repo": "brewmytech/grok-mcp",
+  "source_url": "https://github.com/brewmytech/grok-mcp",
+  "install": "npx -y grok-mcp"
+}

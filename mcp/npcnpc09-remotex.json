@@ -1,0 +1,7 @@
+{
+  "name": "npcnpc09-remotex",
+  "description": "SSH fleet management server enabling remote command execution, file transfers, and multi-host orchestration across distributed infrastructure.",
+  "source_repo": "npcnpc09/remotex",
+  "source_url": "https://github.com/npcnpc09/remotex",
+  "install": "# git clone --depth 1 https://github.com/npcnpc09/remotex\n# See source for mcpServers config block"
+}

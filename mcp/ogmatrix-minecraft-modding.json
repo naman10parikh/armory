@@ -1,0 +1,7 @@
+{
+  "name": "ogmatrix-minecraft-modding",
+  "description": "Semantic search across Fabric and NeoForge modding documentation with code examples",
+  "source_repo": "ogmatrix/mcmodding-mcp",
+  "source_url": "https://github.com/ogmatrix/mcmodding-mcp",
+  "install": "npx -y mcmodding-mcp"
+}

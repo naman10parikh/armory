@@ -1,0 +1,7 @@
+{
+  "name": "xuange520-ruishu",
+  "description": "Intercepts and analyzes network traffic using Chrome DevTools Protocol.",
+  "source_repo": "xuange520/ruishu-mcp",
+  "source_url": "https://github.com/xuange520/ruishu-mcp",
+  "install": "npx -y ruishu-mcp"
+}

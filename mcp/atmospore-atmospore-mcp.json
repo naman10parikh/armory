@@ -1,0 +1,7 @@
+{
+  "name": "atmospore-atmospore-mcp",
+  "description": "Per-species pollen forecasts at any point on Earth, seven days ahead, via the Atmospore API. Tools: `get_pollen`, `get_top_species`, `get_area_average`, `list_supported_species`. Free tier (100 calls/day, no credit card). Hosted variant at `mcp.atmospore.com`.",
+  "source_repo": "atmospore/atmospore-mcp",
+  "source_url": "https://github.com/atmospore/atmospore-mcp",
+  "install": "npx -y atmospore-mcp"
+}

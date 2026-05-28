@@ -1,0 +1,7 @@
+{
+  "name": "un-mcpdaddy",
+  "description": "Local-first proxy server that aggregates multiple upstream MCP servers and provides per-client exposure control through configurable profiles.",
+  "source_repo": "un/mcpdaddy",
+  "source_url": "https://github.com/un/mcpdaddy",
+  "install": "# git clone --depth 1 https://github.com/un/mcpdaddy\n# See source for mcpServers config block"
+}

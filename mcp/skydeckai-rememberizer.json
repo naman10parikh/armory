@@ -1,0 +1,7 @@
+{
+  "name": "skydeckai-rememberizer",
+  "description": "Leverage Rememberizer's document API for AI-powered semantic search and retrieval of enterprise knowledge.",
+  "source_repo": "skydeckai/mcp-server-rememberizer",
+  "source_url": "https://github.com/skydeckai/mcp-server-rememberizer",
+  "install": "# git clone --depth 1 https://github.com/skydeckai/mcp-server-rememberizer\n# See source for mcpServers config block"
+}

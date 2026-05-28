@@ -1,0 +1,7 @@
+{
+  "name": "mordor-forge-tripo",
+  "description": "3D model generation via Tripo API supporting text-to-3D, image-to-3D, retopology, and format conversion.",
+  "source_repo": "mordor-forge/trident-mcp",
+  "source_url": "https://github.com/mordor-forge/trident-mcp",
+  "install": "npx -y trident-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "szeider-dblp",
+  "description": "Integrates with the DBLP computer science bibliography database to enable searching publications, processing citations, generating BibTeX entries, and analyzing research trends.",
+  "source_repo": "szeider/mcp-dblp",
+  "source_url": "https://github.com/szeider/mcp-dblp",
+  "install": "# git clone --depth 1 https://github.com/szeider/mcp-dblp\n# See source for mcpServers config block"
+}

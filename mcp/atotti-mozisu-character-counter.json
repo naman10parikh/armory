@@ -1,0 +1,7 @@
+{
+  "name": "atotti-mozisu-character-counter",
+  "description": "Provides accurate character counting for text with special handling for multi-byte characters like Japanese text and emojis, returning both total and non-whitespace counts",
+  "source_repo": "atotti/mozisu-mcp-server",
+  "source_url": "https://github.com/atotti/mozisu-mcp-server",
+  "install": "npx -y mozisu-mcp-server"
+}

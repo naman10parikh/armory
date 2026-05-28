@@ -1,0 +1,7 @@
+{
+  "name": "moxt",
+  "description": "AI-powered business communication and messaging platform integration.",
+  "source_repo": "",
+  "source_url": "https://mcp.moxt.ai/openapi/v1/mcp",
+  "install": "# git clone --depth 1 https://mcp.moxt.ai/openapi/v1/mcp\n# See source for mcpServers config block"
+}

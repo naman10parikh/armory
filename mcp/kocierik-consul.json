@@ -1,0 +1,7 @@
+{
+  "name": "kocierik-consul",
+  "description": "Provides a bridge to HashiCorp Consul for service discovery, health checks, key-value operations, and configuration management without leaving your assistant environment.",
+  "source_repo": "kocierik/consul-mcp-server",
+  "source_url": "https://github.com/kocierik/consul-mcp-server",
+  "install": "npx -y consul-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ai-kline-mcp-server",
+  "description": "MCP server for A-share stock technical analysis and AI prediction, enabling LLM-based interaction to analyze stocks.",
+  "source_repo": "QuantMLResearch/AI-Kline",
+  "source_url": "https://github.com/QuantMLResearch/AI-Kline",
+  "install": "# git clone --depth 1 https://github.com/QuantMLResearch/AI-Kline\n# See source for mcpServers config block"
+}

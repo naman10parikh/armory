@@ -1,0 +1,7 @@
+{
+  "name": "stefanoamorelli-hyprland",
+  "description": "Provides direct control over Hyprland window manager functionality, enabling natural language commands for managing monitors, workspaces, windows, and configuration settings without leaving conversation context.",
+  "source_repo": "stefanoamorelli/hyprmcp",
+  "source_url": "https://github.com/stefanoamorelli/hyprmcp",
+  "install": "# git clone --depth 1 https://github.com/stefanoamorelli/hyprmcp\n# See source for mcpServers config block"
+}

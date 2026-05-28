@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-whale-tracker",
+  "description": "Monitors real-time cryptocurrency whale transactions across blockchains, providing detailed transaction information and configurable filtering for traders and analysts tracking significant market movements.",
+  "source_repo": "kukapay/whale-tracker-mcp",
+  "source_url": "https://github.com/kukapay/whale-tracker-mcp",
+  "install": "npx -y whale-tracker-mcp"
+}

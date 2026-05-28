@@ -1,0 +1,7 @@
+{
+  "name": "irahulpandey-mlflow",
+  "description": "Provides a natural language interface to MLflow tracking servers for querying and managing machine learning experiments and models through standardized tools for listing models, exploring experiments, and retrieving detailed information.",
+  "source_repo": "irahulpandey/mlflowmcpserver",
+  "source_url": "https://github.com/irahulpandey/mlflowmcpserver",
+  "install": "# git clone --depth 1 https://github.com/irahulpandey/mlflowmcpserver\n# See source for mcpServers config block"
+}

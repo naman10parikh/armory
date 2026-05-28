@@ -1,0 +1,7 @@
+{
+  "name": "gcloud",
+  "description": "Interact with Google Cloud environments using the gcloud CLI through natural language",
+  "source_repo": "googleapis/gcloud-mcp",
+  "source_url": "https://github.com/googleapis/gcloud-mcp",
+  "install": "npx -y gcloud-mcp"
+}

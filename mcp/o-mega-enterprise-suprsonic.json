@@ -1,0 +1,7 @@
+{
+  "name": "o-mega-enterprise-suprsonic",
+  "description": "Multi-capability API gateway — web search, scraping, email finding, image generation, and more with one key.",
+  "source_repo": "o-mega-enterprise/suprsonic-mcp",
+  "source_url": "https://github.com/o-mega-enterprise/suprsonic-mcp",
+  "install": "npx -y suprsonic-mcp"
+}

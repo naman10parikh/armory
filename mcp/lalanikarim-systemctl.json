@@ -1,0 +1,7 @@
+{
+  "name": "lalanikarim-systemctl",
+  "description": "Bridges Claude with systemd services, enabling direct management of system services through a FastMCP server that communicates using Server-Sent Events.",
+  "source_repo": "lalanikarim/systemctl-mcp-server",
+  "source_url": "https://github.com/lalanikarim/systemctl-mcp-server",
+  "install": "npx -y systemctl-mcp-server"
+}

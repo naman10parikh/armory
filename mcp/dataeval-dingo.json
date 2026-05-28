@@ -1,0 +1,7 @@
+{
+  "name": "dataeval-dingo",
+  "description": "MCP server for the Dingo: a comprehensive data quality evaluation tool. Server Enables interaction with Dingo's rule-based and LLM-based evaluation capabilities and rules&prompts listing.",
+  "source_repo": "DataEval/dingo",
+  "source_url": "https://github.com/DataEval/dingo",
+  "install": "# git clone --depth 1 https://github.com/DataEval/dingo\n# See source for mcpServers config block"
+}

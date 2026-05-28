@@ -1,0 +1,7 @@
+{
+  "name": "moyu6027-deepseek-r1-reasoning",
+  "description": "Integrates with DeepSeek's R1 reasoning engine to enable advanced cognitive modeling and multi-step reasoning capabilities for complex problem-solving across various domains.",
+  "source_repo": "moyu6027/deepseek-mcp-server",
+  "source_url": "https://github.com/moyu6027/deepseek-mcp-server",
+  "install": "npx -y deepseek-mcp-server"
+}

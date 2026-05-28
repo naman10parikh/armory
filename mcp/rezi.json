@@ -1,0 +1,7 @@
+{
+  "name": "rezi",
+  "description": "Connect AI assistants to your Rezi account to read, create, and update resumes and search job listings.",
+  "source_repo": "rezi-io/rezi-mcp",
+  "source_url": "https://github.com/rezi-io/rezi-mcp",
+  "install": "npx -y rezi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-daniel-cherny-localplate",
+  "description": "Verified restaurant nutrition data, food search, diary logs, and dietary guidance via Plato.",
+  "source_repo": "",
+  "source_url": "https://iihzbnyxbxhsrexqsori.supabase.co/functions/v1/localplate-mcp",
+  "install": "# git clone --depth 1 https://iihzbnyxbxhsrexqsori.supabase.co/functions/v1/localplate-mcp\n# See source for mcpServers config block"
+}

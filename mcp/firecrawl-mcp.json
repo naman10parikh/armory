@@ -1,0 +1,7 @@
+{
+  "name": "firecrawl-mcp",
+  "description": "Use when an agent needs to turn the web into clean data — scrape a page, crawl a site, or extract structured content (incl. from PDFs) as markdown the model can read directly.",
+  "source_repo": "firecrawl/firecrawl-mcp-server",
+  "source_url": "https://github.com/firecrawl/firecrawl-mcp-server",
+  "install": "npx -y firecrawl-mcp-server"
+}

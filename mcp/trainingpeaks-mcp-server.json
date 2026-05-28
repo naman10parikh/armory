@@ -1,0 +1,7 @@
+{
+  "name": "trainingpeaks-mcp-server",
+  "description": "A Model Context Protocol server for TrainingPeaks with an analytics focus — enabling real-time querying of training data, performance trends, CTL/ATL/TSB analysis, and training load optimization through Claude Desktop.",
+  "source_repo": "banananovej-chuan/tp-mcp-server",
+  "source_url": "https://github.com/banananovej-chuan/tp-mcp-server",
+  "install": "npx -y tp-mcp-server"
+}

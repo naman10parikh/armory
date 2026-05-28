@@ -1,0 +1,7 @@
+{
+  "name": "rt96-hub-prompt-tester",
+  "description": "Enables AI assistants to test and compare LLM prompts across different providers with side-by-side comparisons, token tracking, and cost calculation for evaluating prompt effectiveness.",
+  "source_repo": "rt96-hub/prompt-tester",
+  "source_url": "https://github.com/rt96-hub/prompt-tester",
+  "install": "# git clone --depth 1 https://github.com/rt96-hub/prompt-tester\n# See source for mcpServers config block"
+}

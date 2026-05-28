@@ -1,0 +1,7 @@
+{
+  "name": "johnisanerd-apple-maps",
+  "description": "Search Apple Maps for businesses with Apple ratings and aggregated Yelp and TripAdvisor reviews.",
+  "source_repo": "johnisanerd/apple-maps-mcp",
+  "source_url": "https://github.com/johnisanerd/apple-maps-mcp",
+  "install": "npx -y apple-maps-mcp"
+}

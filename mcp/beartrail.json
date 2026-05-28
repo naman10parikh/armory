@@ -1,0 +1,7 @@
+{
+  "name": "beartrail",
+  "description": "Query workouts, browse exercises, and explore fitness data from the BearTrail workout tracking platform.",
+  "source_repo": "",
+  "source_url": "https://perpvue.xyz",
+  "install": "# git clone --depth 1 https://perpvue.xyz\n# See source for mcpServers config block"
+}

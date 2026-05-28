@@ -1,0 +1,7 @@
+{
+  "name": "climate-triage",
+  "description": "Connects to the ClimateTriage API for searching and filtering open source climate change and sustainability issues across GitHub repositories, enabling developers to find and contribute to environmental projects.",
+  "source_repo": "codeshark-net/climate-triage-mcp",
+  "source_url": "https://github.com/codeshark-net/climate-triage-mcp",
+  "install": "npx -y climate-triage-mcp"
+}

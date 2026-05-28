@@ -1,0 +1,7 @@
+{
+  "name": "kehvinbehvin-json-filter",
+  "description": "Converts JSON samples into TypeScript type definitions and filters large JSON files to extract only specified fields, eliminating unwanted data from LLM context through shape-based filtering with simple object notation.",
+  "source_repo": "kehvinbehvin/json-mcp-filter",
+  "source_url": "https://github.com/kehvinbehvin/json-mcp-filter",
+  "install": "# git clone --depth 1 https://github.com/kehvinbehvin/json-mcp-filter\n# See source for mcpServers config block"
+}

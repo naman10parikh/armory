@@ -1,0 +1,7 @@
+{
+  "name": "trello",
+  "description": "Enables Trello board interactions for task and project management using the Trello REST API.",
+  "source_repo": "delorenj/mcp-server-trello",
+  "source_url": "https://github.com/delorenj/mcp-server-trello",
+  "install": "# git clone --depth 1 https://github.com/delorenj/mcp-server-trello\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "exoquery",
+  "description": "Compile-time SQL library for Kotlin with documentation, validation, and execution tools",
+  "source_repo": "",
+  "source_url": "https://exoquery.com",
+  "install": "# git clone --depth 1 https://exoquery.com\n# See source for mcpServers config block"
+}

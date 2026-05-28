@@ -1,0 +1,7 @@
+{
+  "name": "purmemo",
+  "description": "Persistent conversation memory and identity layer across Claude, ChatGPT, Gemini, and Cursor.",
+  "source_repo": "purmemo-ai/purmemo-mcp",
+  "source_url": "https://github.com/purmemo-ai/purmemo-mcp",
+  "install": "npx -y purmemo-mcp"
+}

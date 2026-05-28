@@ -1,0 +1,7 @@
+{
+  "name": "vlad-ds-street-view",
+  "description": "Provides a bridge to Google Street View API for fetching and displaying street imagery by address, coordinates, or panorama ID with customizable parameters for virtual exploration and location visualization.",
+  "source_repo": "vlad-ds/street-view-mcp",
+  "source_url": "https://github.com/vlad-ds/street-view-mcp",
+  "install": "npx -y street-view-mcp"
+}

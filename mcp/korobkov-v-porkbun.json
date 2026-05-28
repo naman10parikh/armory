@@ -1,0 +1,7 @@
+{
+  "name": "korobkov-v-porkbun",
+  "description": "Manage Porkbun domains, DNS records, DNSSEC, SSL certificates, and URL forwarding with safe read-only defaults.",
+  "source_repo": "korobkov-v/porkbun-mcp",
+  "source_url": "https://github.com/korobkov-v/porkbun-mcp",
+  "install": "npx -y porkbun-mcp"
+}

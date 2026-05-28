@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [memory-persistence-bundle, post-bash-dispatcher]
-tags: [ecc, hook, SessionStart]
+tags: [hook, SessionStart]
 ---
 ## What it is
 SessionStart hook: Load previous context and detect package manager on new session (matcher: *).

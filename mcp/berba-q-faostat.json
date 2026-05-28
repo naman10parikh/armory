@@ -1,0 +1,7 @@
+{
+  "name": "berba-q-faostat",
+  "description": "UN Food and Agriculture Organization statistics for 245 countries — crops, trade, food security, and emissions via 21 tools.",
+  "source_repo": "berba-q/faostat-mcp",
+  "source_url": "https://github.com/berba-q/faostat-mcp",
+  "install": "npx -y faostat-mcp"
+}

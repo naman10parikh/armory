@@ -1,0 +1,7 @@
+{
+  "name": "mybuddymichael-youtube-transcript",
+  "description": "Fetches and analyzes YouTube video transcripts by accepting URLs or video IDs and returning formatted transcript data with timestamps for video content analysis without watching.",
+  "source_repo": "mybuddymichael/youtube-transcript-mcp",
+  "source_url": "https://github.com/mybuddymichael/youtube-transcript-mcp",
+  "install": "npx -y youtube-transcript-mcp"
+}

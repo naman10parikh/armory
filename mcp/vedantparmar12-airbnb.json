@@ -1,0 +1,7 @@
+{
+  "name": "vedantparmar12-airbnb",
+  "description": "Provides direct access to Airbnb's search and listing data through web scraping, enabling property research, price analysis, budget calculations, and listing comparisons for travel planning and market research.",
+  "source_repo": "vedantparmar12/airbnb-mcp",
+  "source_url": "https://github.com/vedantparmar12/airbnb-mcp",
+  "install": "npx -y airbnb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chadsly-michelson",
+  "description": "Parse, validate, and simulate Tezos Michelson smart contracts.",
+  "source_repo": "chadsly/michelson_mcp",
+  "source_url": "https://github.com/chadsly/michelson_mcp",
+  "install": "npx -y michelson_mcp"
+}

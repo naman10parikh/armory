@@ -1,0 +1,7 @@
+{
+  "name": "agnuxo1-enigmagent",
+  "description": "AES-256-GCM encrypted credential vault for AI agents with placeholder-based secret injection.",
+  "source_repo": "agnuxo1/enigmagent",
+  "source_url": "https://github.com/agnuxo1/enigmagent",
+  "install": "# git clone --depth 1 https://github.com/agnuxo1/enigmagent\n# See source for mcpServers config block"
+}

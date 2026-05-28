@@ -1,0 +1,7 @@
+{
+  "name": "zs-zobr-script-3",
+  "description": "ZS (Zobr Script) — cognitive scripting language for structured reasoning with LLMs. Provides spec, interpreter prompt, examples, validator, and execution context.",
+  "source_repo": "docxi-org/zobr-script",
+  "source_url": "https://github.com/docxi-org/zobr-script",
+  "install": "# git clone --depth 1 https://github.com/docxi-org/zobr-script\n# See source for mcpServers config block"
+}

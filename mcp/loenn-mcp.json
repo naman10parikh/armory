@@ -1,0 +1,7 @@
+{
+  "name": "loenn-mcp",
+  "description": "An MCP server that enables AI agents to read, edit, analyze, procedurally generate, and preview Celeste .bin map files without the Lönn editor.",
+  "source_repo": "Magedeline/loenn-mcp",
+  "source_url": "https://github.com/Magedeline/loenn-mcp",
+  "install": "npx -y loenn-mcp"
+}

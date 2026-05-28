@@ -1,0 +1,7 @@
+{
+  "name": "zebbern-kali",
+  "description": "Provides access to Kali Linux penetration testing tools through a Flask API, enabling reconnaissance, web security testing, Active Directory attacks, and exploitation framework operations.",
+  "source_repo": "zebbern/zebbern-kali-mcp",
+  "source_url": "https://github.com/zebbern/zebbern-kali-mcp",
+  "install": "npx -y zebbern-kali-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fancyboi999-xianyu",
+  "description": "Automate Xianyu secondhand marketplace workflows including listing items, messaging, and order management.",
+  "source_repo": "fancyboi999/goofish-cli",
+  "source_url": "https://github.com/fancyboi999/goofish-cli",
+  "install": "# git clone --depth 1 https://github.com/fancyboi999/goofish-cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xugu-mcp",
+  "description": "A Model Context Protocol server for XuguDB with full DDL/DML support, multi-LLM provider integration, and natural language to SQL capabilities.",
+  "source_repo": "LeoKuPo/xugu-mcp",
+  "source_url": "https://github.com/LeoKuPo/xugu-mcp",
+  "install": "npx -y xugu-mcp"
+}

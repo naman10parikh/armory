@@ -1,0 +1,7 @@
+{
+  "name": "yuliiakovalova-dotnet-template",
+  "description": "Search, inspect, preview, and create .NET projects from dotnet new templates.",
+  "source_repo": "yuliiakovalova/dotnet-template-mcp",
+  "source_url": "https://github.com/yuliiakovalova/dotnet-template-mcp",
+  "install": "npx -y dotnet-template-mcp"
+}

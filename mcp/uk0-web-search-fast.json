@@ -1,0 +1,7 @@
+{
+  "name": "uk0-web-search-fast",
+  "description": "High-performance web search from Google, Bing, and DuckDuckGo with structured output.",
+  "source_repo": "uk0/web-search-fast",
+  "source_url": "https://github.com/uk0/web-search-fast",
+  "install": "# git clone --depth 1 https://github.com/uk0/web-search-fast\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "theprotocol",
+  "description": "Sovereign AI agent registry with decentralized identity (DIDs), AVT token economy, and federated orchestration.",
+  "source_repo": "",
+  "source_url": "https://theprotocol.cloud",
+  "install": "# git clone --depth 1 https://theprotocol.cloud\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "revit-converter",
+  "description": "Convert Revit BIM files and query building data via natural language through MCP.",
+  "source_repo": "labsfuture/revit-converter-remote-mcp-release",
+  "source_url": "https://github.com/labsfuture/revit-converter-remote-mcp-release",
+  "install": "# git clone --depth 1 https://github.com/labsfuture/revit-converter-remote-mcp-release\n# See source for mcpServers config block"
+}

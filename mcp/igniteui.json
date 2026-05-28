@@ -1,0 +1,7 @@
+{
+  "name": "igniteui",
+  "description": "Official MCP server for Ignite UI providing documentation access, GitHub API integration, and CLI component scaffolding.",
+  "source_repo": "igniteui/igniteui-cli",
+  "source_url": "https://github.com/igniteui/igniteui-cli",
+  "install": "# git clone --depth 1 https://github.com/igniteui/igniteui-cli\n# See source for mcpServers config block"
+}

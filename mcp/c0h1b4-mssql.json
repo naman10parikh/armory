@@ -1,0 +1,7 @@
+{
+  "name": "c0h1b4-mssql",
+  "description": "Enables secure AI-driven interactions with Microsoft SQL Server databases for automated data analysis, dynamic reporting, and intelligent database management.",
+  "source_repo": "c0h1b4/mssql-mcp-server",
+  "source_url": "https://github.com/c0h1b4/mssql-mcp-server",
+  "install": "npx -y mssql-mcp-server"
+}

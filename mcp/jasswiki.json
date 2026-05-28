@@ -1,0 +1,7 @@
+{
+  "name": "jasswiki",
+  "description": "Swiss Jass card game encyclopedia, attested and maintained by the Jassverband Schweiz.",
+  "source_repo": "remoprinz/jasswiki-mcp",
+  "source_url": "https://github.com/remoprinz/jasswiki-mcp",
+  "install": "npx -y jasswiki-mcp"
+}

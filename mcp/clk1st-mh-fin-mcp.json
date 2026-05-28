@@ -1,0 +1,7 @@
+{
+  "name": "clk1st-mh-fin-mcp",
+  "description": "China A-Share quantitative data covering 5,000+ stocks with 13 factors and daily market analysis.",
+  "source_repo": "clk1st/mh-fin-mcp",
+  "source_url": "https://github.com/clk1st/mh-fin-mcp",
+  "install": "npx -y mh-fin-mcp"
+}

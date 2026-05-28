@@ -1,0 +1,7 @@
+{
+  "name": "cinderfi",
+  "description": "Retirement planning for Canada and the US with CPP, OAS, Social Security, and Monte Carlo simulations.",
+  "source_repo": "cinderfi/cinderfi-mcp",
+  "source_url": "https://github.com/cinderfi/cinderfi-mcp",
+  "install": "npx -y cinderfi-mcp"
+}

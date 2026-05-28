@@ -1,0 +1,7 @@
+{
+  "name": "dcspark-cryptowallet-evm",
+  "description": "Enables direct interaction with Ethereum and EVM-compatible blockchains for wallet creation, balance checking, transaction sending, and smart contract operations through ethers.js v5.",
+  "source_repo": "dcspark/mcp-cryptowallet-evm",
+  "source_url": "https://github.com/dcspark/mcp-cryptowallet-evm",
+  "install": "# git clone --depth 1 https://github.com/dcspark/mcp-cryptowallet-evm\n# See source for mcpServers config block"
+}

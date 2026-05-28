@@ -1,0 +1,7 @@
+{
+  "name": "fastmcp-2",
+  "description": "A high-level framework for building MCP servers in TypeScript",
+  "source_repo": "punkpeye/fastmcp",
+  "source_url": "https://github.com/punkpeye/fastmcp",
+  "install": "# git clone --depth 1 https://github.com/punkpeye/fastmcp\n# See source for mcpServers config block"
+}

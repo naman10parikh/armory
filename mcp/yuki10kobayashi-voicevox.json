@@ -1,0 +1,7 @@
+{
+  "name": "yuki10kobayashi-voicevox",
+  "description": "Enables AI to generate natural-sounding Japanese voice audio from text through integration with the VOICEVOX engine, supporting configurable parameters like speaker ID and speech speed.",
+  "source_repo": "yuki10kobayashi/voicevox-mcp",
+  "source_url": "https://github.com/yuki10kobayashi/voicevox-mcp",
+  "install": "npx -y voicevox-mcp"
+}

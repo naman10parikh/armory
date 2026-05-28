@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-remotion",
+  "description": "Wraps the Remotion API for programmatic video rendering, Lambda renders, and progress monitoring.",
+  "source_repo": "josephtandle/remotion-complete",
+  "source_url": "https://github.com/josephtandle/remotion-complete",
+  "install": "# git clone --depth 1 https://github.com/josephtandle/remotion-complete\n# See source for mcpServers config block"
+}

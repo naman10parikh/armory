@@ -1,0 +1,7 @@
+{
+  "name": "maratsarbasov-flights",
+  "description": "Provides flight search capabilities using the Aviasales Flight Search API",
+  "source_repo": "maratsarbasov/flights-mcp",
+  "source_url": "https://github.com/maratsarbasov/flights-mcp",
+  "install": "npx -y flights-mcp"
+}

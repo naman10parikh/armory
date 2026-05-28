@@ -1,0 +1,7 @@
+{
+  "name": "zw008-vmware-aria",
+  "description": "VMware Aria Operations monitoring with metrics, alerts, capacity, and anomaly detection tools.",
+  "source_repo": "zw008/vmware-aria",
+  "source_url": "https://github.com/zw008/vmware-aria",
+  "install": "# git clone --depth 1 https://github.com/zw008/vmware-aria\n# See source for mcpServers config block"
+}

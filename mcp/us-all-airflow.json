@@ -1,0 +1,7 @@
+{
+  "name": "us-all-airflow",
+  "description": "Apache Airflow integration for listing DAGs, monitoring tasks, and triggering runs.",
+  "source_repo": "us-all/airflow-mcp-server",
+  "source_url": "https://github.com/us-all/airflow-mcp-server",
+  "install": "npx -y airflow-mcp-server"
+}

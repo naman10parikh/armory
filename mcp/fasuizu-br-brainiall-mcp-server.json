@@ -1,0 +1,7 @@
+{
+  "name": "fasuizu-br-brainiall-mcp-server",
+  "description": "AI-powered speech tools: pronunciation assessment with phoneme-level feedback, speech-to-text with language detection, and text-to-speech with multiple voices.",
+  "source_repo": "fasuizu-br/brainiall-mcp-server",
+  "source_url": "https://github.com/fasuizu-br/brainiall-mcp-server",
+  "install": "npx -y brainiall-mcp-server"
+}

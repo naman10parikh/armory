@@ -1,0 +1,7 @@
+{
+  "name": "cmendezs-einvoicing-be",
+  "description": "Handles Belgian e-invoicing with Peppol BIS 3.0, UBL 2.1, PINT-BE, and Mercurius network support.",
+  "source_repo": "cmendezs/mcp-einvoicing-be",
+  "source_url": "https://github.com/cmendezs/mcp-einvoicing-be",
+  "install": "# git clone --depth 1 https://github.com/cmendezs/mcp-einvoicing-be\n# See source for mcpServers config block"
+}

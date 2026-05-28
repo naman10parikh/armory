@@ -1,0 +1,7 @@
+{
+  "name": "cric-ai-mcp-server",
+  "description": "Enables users to access real estate property industry news daily and search a specialized knowledge base covering laws, regulations, company info, and more.",
+  "source_repo": "wuye-ai/mcp-server-wuye-ai",
+  "source_url": "https://github.com/wuye-ai/mcp-server-wuye-ai",
+  "install": "# git clone --depth 1 https://github.com/wuye-ai/mcp-server-wuye-ai\n# See source for mcpServers config block"
+}

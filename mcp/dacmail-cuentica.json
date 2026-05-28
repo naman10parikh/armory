@@ -1,0 +1,7 @@
+{
+  "name": "dacmail-cuentica",
+  "description": "MCP server for the Cuentica accounting API, supporting invoice management, expense tracking, and financial operations via natural language.",
+  "source_repo": "dacmail/cuentica-mcp",
+  "source_url": "https://github.com/dacmail/cuentica-mcp",
+  "install": "npx -y cuentica-mcp"
+}

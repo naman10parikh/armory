@@ -1,0 +1,7 @@
+{
+  "name": "e18e",
+  "description": "Advises agents on modern and performant JavaScript package alternatives",
+  "source_repo": "e18e/mcp",
+  "source_url": "https://github.com/e18e/mcp",
+  "install": "# git clone --depth 1 https://github.com/e18e/mcp\n# See source for mcpServers config block"
+}

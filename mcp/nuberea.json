@@ -1,0 +1,7 @@
+{
+  "name": "nuberea",
+  "description": "AI-powered biblical research tools: lexicons, morphology, manuscripts, and original language analysis.",
+  "source_repo": "streamsapps/nuberea-mcp",
+  "source_url": "https://github.com/streamsapps/nuberea-mcp",
+  "install": "npx -y nuberea-mcp"
+}

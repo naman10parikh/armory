@@ -1,0 +1,7 @@
+{
+  "name": "railway-mcp-server",
+  "description": "MCP server with Streamable HTTP transport, deployed on Railway, offering tools like weather, BMI calculator, greetings, and question generation.",
+  "source_repo": "Magnazee/railwaymcp",
+  "source_url": "https://github.com/Magnazee/railwaymcp",
+  "install": "# git clone --depth 1 https://github.com/Magnazee/railwaymcp\n# See source for mcpServers config block"
+}

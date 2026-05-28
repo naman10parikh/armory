@@ -1,0 +1,7 @@
+{
+  "name": "brian-knows-blockchain-transactions",
+  "description": "Retrieves blockchain transaction data from specified addresses using natural language prompts, translating user queries into structured data retrieval with flexible chain and address support.",
+  "source_repo": "brian-knows/mcp-server-brian",
+  "source_url": "https://github.com/brian-knows/mcp-server-brian",
+  "install": "# git clone --depth 1 https://github.com/brian-knows/mcp-server-brian\n# See source for mcpServers config block"
+}

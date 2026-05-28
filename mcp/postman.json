@@ -1,0 +1,7 @@
+{
+  "name": "postman",
+  "description": "Connect AI agents, assistants, and chatbots directly to your APIs on Postman.",
+  "source_repo": "postmanlabs/postman-mcp-server",
+  "source_url": "https://github.com/postmanlabs/postman-mcp-server",
+  "install": "npx -y postman-mcp-server"
+}

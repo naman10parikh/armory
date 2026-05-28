@@ -1,0 +1,7 @@
+{
+  "name": "mcp-2",
+  "description": "Mcp MCP server listed on mcp.so.",
+  "source_repo": "saptechengineer/mcp",
+  "source_url": "https://mcp.so/server/mcp/saptechengineer",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp/saptechengineer\n# See source for mcpServers config block"
+}

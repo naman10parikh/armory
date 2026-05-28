@@ -1,0 +1,7 @@
+{
+  "name": "softvoyagers-pdfspark-api",
+  "description": "Free HTML/URL to PDF conversion API powered by Playwright. No API key required.",
+  "source_repo": "softvoyagers/pdfspark-api",
+  "source_url": "https://github.com/softvoyagers/pdfspark-api",
+  "install": "# git clone --depth 1 https://github.com/softvoyagers/pdfspark-api\n# See source for mcpServers config block"
+}

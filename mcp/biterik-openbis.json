@@ -1,0 +1,7 @@
+{
+  "name": "biterik-openbis",
+  "description": "Exposes openBIS scientific data management to LLM agents with 30+ tools for browsing, searching, and managing research data.",
+  "source_repo": "biterik/openbis-mcp-server",
+  "source_url": "https://github.com/biterik/openbis-mcp-server",
+  "install": "npx -y openbis-mcp-server"
+}

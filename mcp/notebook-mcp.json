@@ -1,0 +1,7 @@
+{
+  "name": "notebook-mcp",
+  "description": "Provides AI assistants with deep semantic and runtime understanding of Jupyter notebooks.",
+  "source_repo": "akram-side-projects/notebook-mcp",
+  "source_url": "https://github.com/akram-side-projects/notebook-mcp",
+  "install": "npx -y notebook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "breez-lightning",
+  "description": "Integrates with the Breez SDK to provide Bitcoin Lightning Network wallet operations including balance checking, payment sending, invoice creation, and transaction history for building Lightning-enabled applications.",
+  "source_repo": "breez/breez-mcp",
+  "source_url": "https://github.com/breez/breez-mcp",
+  "install": "npx -y breez-mcp"
+}

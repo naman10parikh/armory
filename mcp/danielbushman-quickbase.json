@@ -1,0 +1,7 @@
+{
+  "name": "danielbushman-quickbase",
+  "description": "Integrates with Quickbase's JSON RESTful API for querying records, managing table relationships, handling file attachments, and user management directly within conversations.",
+  "source_repo": "danielbushman/mcp-quickbase",
+  "source_url": "https://github.com/danielbushman/mcp-quickbase",
+  "install": "# git clone --depth 1 https://github.com/danielbushman/mcp-quickbase\n# See source for mcpServers config block"
+}

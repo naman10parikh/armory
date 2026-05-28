@@ -1,0 +1,7 @@
+{
+  "name": "obinopaul-nba-stats",
+  "description": "Provides a Python-based interface to NBA statistics and live game data, offering tools for accessing game information, player statistics, team data, and league standings without requiring knowledge of the underlying API structure.",
+  "source_repo": "obinopaul/nba-mcp-server",
+  "source_url": "https://github.com/obinopaul/nba-mcp-server",
+  "install": "npx -y nba-mcp-server"
+}

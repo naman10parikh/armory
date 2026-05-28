@@ -1,0 +1,7 @@
+{
+  "name": "mcp-developer-name",
+  "description": "MCP Developer Name MCP server listed on mcp.so.",
+  "source_repo": "SeriaWei/MCP-Developer-Name",
+  "source_url": "https://mcp.so/server/MCP-Developer-Name/SeriaWei",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Developer-Name/SeriaWei\n# See source for mcpServers config block"
+}

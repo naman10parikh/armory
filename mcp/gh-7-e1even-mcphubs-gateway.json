@@ -1,0 +1,7 @@
+{
+  "name": "gh-7-e1even-mcphubs-gateway",
+  "description": "Gateway that aggregates multiple servers behind progressive disclosure meta-tools to reduce token overhead.",
+  "source_repo": "7-e1even/mcphubs",
+  "source_url": "https://github.com/7-e1even/mcphubs",
+  "install": "# git clone --depth 1 https://github.com/7-e1even/mcphubs\n# See source for mcpServers config block"
+}

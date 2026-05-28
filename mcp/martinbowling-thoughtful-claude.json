@@ -1,0 +1,7 @@
+{
+  "name": "martinbowling-thoughtful-claude",
+  "description": "Integrates DeepSeek's R1 reasoning engine to enhance problem-solving, analysis, and decision-making capabilities.",
+  "source_repo": "martinbowling/thoughtful-claude",
+  "source_url": "https://github.com/martinbowling/thoughtful-claude",
+  "install": "# git clone --depth 1 https://github.com/martinbowling/thoughtful-claude\n# See source for mcpServers config block"
+}

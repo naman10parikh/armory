@@ -1,0 +1,7 @@
+{
+  "name": "webmoleai-vibe-checker",
+  "description": "Analyzes code with humorous personality type assignments, energy ratings, and aesthetic naming suggestions.",
+  "source_repo": "webmoleai/mcp-vibe-checker",
+  "source_url": "https://github.com/webmoleai/mcp-vibe-checker",
+  "install": "# git clone --depth 1 https://github.com/webmoleai/mcp-vibe-checker\n# See source for mcpServers config block"
+}

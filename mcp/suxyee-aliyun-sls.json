@@ -1,0 +1,7 @@
+{
+  "name": "suxyee-aliyun-sls",
+  "description": "Queries Alibaba Cloud SLS logs with natural language, supporting multi-region search, SQL analysis, and log context tracing.",
+  "source_repo": "suxyee/aliyun-sls-mcp",
+  "source_url": "https://github.com/suxyee/aliyun-sls-mcp",
+  "install": "npx -y aliyun-sls-mcp"
+}

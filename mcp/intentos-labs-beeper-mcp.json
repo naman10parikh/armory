@@ -1,0 +1,7 @@
+{
+  "name": "intentos-labs-beeper-mcp",
+  "description": "Beeper provides transactions on BSC, including balance/token transfers, token swaps in Pancakeswap and beeper reward claims.",
+  "source_repo": "intentos-labs/beeper-mcp",
+  "source_url": "https://github.com/intentos-labs/beeper-mcp",
+  "install": "npx -y beeper-mcp"
+}

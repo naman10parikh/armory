@@ -1,0 +1,7 @@
+{
+  "name": "menyoung-paperqa2",
+  "description": "Exposes PaperQA2 functionality for reading, searching, and synthesizing across a local PDF library of scientific papers.",
+  "source_repo": "menyoung/paperqa-mcp-server",
+  "source_url": "https://github.com/menyoung/paperqa-mcp-server",
+  "install": "npx -y paperqa-mcp-server"
+}

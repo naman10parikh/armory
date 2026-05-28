@@ -1,0 +1,7 @@
+{
+  "name": "minimax-coding-plan",
+  "description": "Provides web search and image understanding capabilities optimized for code development workflows",
+  "source_repo": "minimax-ai/minimax-coding-plan-mcp",
+  "source_url": "https://github.com/minimax-ai/minimax-coding-plan-mcp",
+  "install": "npx -y minimax-coding-plan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rankparse",
+  "description": "SEO data API for developers and AI agents providing backlinks, domain authority, tech stack analysis, and 22 additional SEO signals.",
+  "source_repo": "",
+  "source_url": "https://rankparse.com",
+  "install": "# git clone --depth 1 https://rankparse.com\n# See source for mcpServers config block"
+}

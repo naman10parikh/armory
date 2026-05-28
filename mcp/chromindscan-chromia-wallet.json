@@ -1,0 +1,7 @@
+{
+  "name": "chromindscan-chromia-wallet",
+  "description": "Integrates with the Chromia blockchain to enable cryptocurrency transactions and wallet operations for automated financial workflows.",
+  "source_repo": "chromindscan/chromia-mcp",
+  "source_url": "https://github.com/chromindscan/chromia-mcp",
+  "install": "npx -y chromia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nakulben-whatsapp-business",
+  "description": "Manages WhatsApp Business templates and sends messages via the Meta Cloud API.",
+  "source_repo": "nakulben/whatsapp-mcp",
+  "source_url": "https://github.com/nakulben/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

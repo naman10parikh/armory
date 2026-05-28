@@ -1,0 +1,7 @@
+{
+  "name": "maid-runner-mcp",
+  "description": "Exposes MAID Runner validation tools (validate, snapshot, test) as MCP tools, resources, and prompts for AI agents like Claude Code and Aider, enabling seamless integration with AI development workflows.",
+  "source_repo": "mamertofabian/maid-runner-mcp",
+  "source_url": "https://github.com/mamertofabian/maid-runner-mcp",
+  "install": "npx -y maid-runner-mcp"
+}

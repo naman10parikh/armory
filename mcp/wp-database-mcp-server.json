@@ -1,0 +1,7 @@
+{
+  "name": "wp-database-mcp-server",
+  "description": "Read-only MCP server for exploring WordPress MySQL/MariaDB databases. Provides schema inspection, relationship mapping, and safe SQL querying.",
+  "source_repo": "s3rgiosan/wp-db-mcp",
+  "source_url": "https://github.com/s3rgiosan/wp-db-mcp",
+  "install": "npx -y wp-db-mcp"
+}

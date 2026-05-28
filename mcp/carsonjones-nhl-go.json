@@ -1,0 +1,7 @@
+{
+  "name": "carsonjones-nhl-go",
+  "description": "Integrates with NHL data sources to provide real-time game updates, player stats, and league standings for sports analysis and fantasy hockey applications.",
+  "source_repo": "carsonjones/nhl-go",
+  "source_url": "https://github.com/carsonjones/nhl-go",
+  "install": "# git clone --depth 1 https://github.com/carsonjones/nhl-go\n# See source for mcpServers config block"
+}

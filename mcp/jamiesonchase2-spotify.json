@@ -1,0 +1,7 @@
+{
+  "name": "jamiesonchase2-spotify",
+  "description": "Integrates with Spotify Web API and Last.fm for music search, playlist management, playback control, and similar artist discovery via Azure Container Apps deployment.",
+  "source_repo": "jamiesonchase2/spotify-mcp-azure-terraform",
+  "source_url": "https://github.com/jamiesonchase2/spotify-mcp-azure-terraform",
+  "install": "# git clone --depth 1 https://github.com/jamiesonchase2/spotify-mcp-azure-terraform\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "telcharfromnogrod-keen",
+  "description": "AI image upscaling to 2x or 4x resolution with x402 micropayments via the Keen API.",
+  "source_repo": "telcharfromnogrod/keen-mcp",
+  "source_url": "https://github.com/telcharfromnogrod/keen-mcp",
+  "install": "npx -y keen-mcp"
+}

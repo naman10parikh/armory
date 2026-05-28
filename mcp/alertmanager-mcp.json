@@ -1,0 +1,7 @@
+{
+  "name": "alertmanager-mcp",
+  "description": "Alertmanager Mcp MCP server listed on mcp.so.",
+  "source_repo": "kaznak/alertmanager-mcp",
+  "source_url": "https://mcp.so/server/alertmanager-mcp/kaznak",
+  "install": "npx -y alertmanager-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentmodule-mcp",
+  "description": "Agent-native knowledge infrastructure. Deterministic, vertical-specific knowledge bases engineered for autonomous agent consumption via MCP. Ethics module (22 modules, EU AI Act mapped) included with every membership. Free 24hr ethics trial.",
+  "source_repo": "AgentModule/mcp",
+  "source_url": "https://github.com/AgentModule/mcp",
+  "install": "# git clone --depth 1 https://github.com/AgentModule/mcp\n# See source for mcpServers config block"
+}

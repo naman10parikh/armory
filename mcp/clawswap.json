@@ -1,0 +1,7 @@
+{
+  "name": "clawswap",
+  "description": "Cross-chain token swaps and bridges between Solana and Base with x402 micropayments.",
+  "source_repo": "wartech9/clawswap-mcp",
+  "source_url": "https://github.com/wartech9/clawswap-mcp",
+  "install": "npx -y clawswap-mcp"
+}

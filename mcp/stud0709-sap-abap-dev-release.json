@@ -1,0 +1,7 @@
+{
+  "name": "stud0709-sap-abap-dev-release",
+  "description": "Bridges AI agents to legacy SAP ABAP systems for read-only code exploration and documentation generation.",
+  "source_repo": "stud0709/sap-dev-release",
+  "source_url": "https://github.com/stud0709/sap-dev-release",
+  "install": "# git clone --depth 1 https://github.com/stud0709/sap-dev-release\n# See source for mcpServers config block"
+}

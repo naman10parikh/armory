@@ -1,0 +1,7 @@
+{
+  "name": "weibaohui-mcp2cli-rs",
+  "description": "Rust CLI MCP client with on-demand schema loading, OAuth 2.1 support, and multiple transports.",
+  "source_repo": "weibaohui/mcp2cli-rs",
+  "source_url": "https://github.com/weibaohui/mcp2cli-rs",
+  "install": "# git clone --depth 1 https://github.com/weibaohui/mcp2cli-rs\n# See source for mcpServers config block"
+}

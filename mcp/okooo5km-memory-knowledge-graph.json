@@ -1,0 +1,7 @@
+{
+  "name": "okooo5km-memory-knowledge-graph",
+  "description": "Provides a persistent knowledge graph system for maintaining structured memory across conversations, enabling creation, querying, and management of entities and relationships through specialized graph operation tools.",
+  "source_repo": "okooo5km/memory-mcp-server",
+  "source_url": "https://github.com/okooo5km/memory-mcp-server",
+  "install": "npx -y memory-mcp-server"
+}

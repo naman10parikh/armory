@@ -1,0 +1,7 @@
+{
+  "name": "mtane0412-twitch-api-integration",
+  "description": "Integrates with Twitch API to provide channel info, stream details, game data, user profiles, clips, chat settings, and video comments for building Twitch-related tools and analytics platforms.",
+  "source_repo": "mtane0412/twitch-mcp-server",
+  "source_url": "https://github.com/mtane0412/twitch-mcp-server",
+  "install": "npx -y twitch-mcp-server"
+}

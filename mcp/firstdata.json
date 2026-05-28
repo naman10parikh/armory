@@ -1,0 +1,7 @@
+{
+  "name": "firstdata",
+  "description": "Curated knowledge base of global authoritative primary data sources with intelligent search for finding official portals, government data, and research repositories.",
+  "source_repo": "mlt-oss/firstdata",
+  "source_url": "https://github.com/mlt-oss/firstdata",
+  "install": "# git clone --depth 1 https://github.com/mlt-oss/firstdata\n# See source for mcpServers config block"
+}

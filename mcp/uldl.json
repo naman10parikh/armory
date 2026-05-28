@@ -1,0 +1,7 @@
+{
+  "name": "uldl",
+  "description": "Persistent file storage for AI agents with upload, download, versioning, and search.",
+  "source_repo": "",
+  "source_url": "https://uldl.sh",
+  "install": "# git clone --depth 1 https://uldl.sh\n# See source for mcpServers config block"
+}

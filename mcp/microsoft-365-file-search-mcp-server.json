@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-365-file-search-mcp-server",
+  "description": "Enables searching and retrieving files from SharePoint and OneDrive within Microsoft 365, with local caching for efficiency.",
+  "source_repo": "godwin3737/mcp-server-microsoft365-filesearch",
+  "source_url": "https://github.com/godwin3737/mcp-server-microsoft365-filesearch",
+  "install": "# git clone --depth 1 https://github.com/godwin3737/mcp-server-microsoft365-filesearch\n# See source for mcpServers config block"
+}

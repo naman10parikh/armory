@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-giphy",
+  "description": "GIF search and retrieval via the Giphy API with a shared public beta key through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-giphy",
+  "source_url": "https://github.com/pipeworx-io/mcp-giphy",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-giphy\n# See source for mcpServers config block"
+}

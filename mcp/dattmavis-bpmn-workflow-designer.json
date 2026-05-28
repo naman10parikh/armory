@@ -1,0 +1,7 @@
+{
+  "name": "dattmavis-bpmn-workflow-designer",
+  "description": "Enables creation and manipulation of BPMN 2.0 workflow diagrams using the bpmn-js library, providing tools for adding process elements, connecting them with sequence flows, and exporting diagrams as standard BPMN XML or SVG formats.",
+  "source_repo": "dattmavis/bpmn-mcp",
+  "source_url": "https://github.com/dattmavis/bpmn-mcp",
+  "install": "npx -y bpmn-mcp"
+}

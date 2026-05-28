@@ -1,0 +1,7 @@
+{
+  "name": "sap-mdk",
+  "description": "MCP server for AI-assisted development of SAP Mobile Development Kit cross-platform mobile applications.",
+  "source_repo": "sap/mdk-mcp-server",
+  "source_url": "https://github.com/sap/mdk-mcp-server",
+  "install": "npx -y mdk-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "booboooking",
+  "description": "Appointment booking platform for service providers, enabling AI agents to check availability and create bookings.",
+  "source_repo": "",
+  "source_url": "https://booboooking.com",
+  "install": "# git clone --depth 1 https://booboooking.com\n# See source for mcpServers config block"
+}

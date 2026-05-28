@@ -1,0 +1,7 @@
+{
+  "name": "blesscat-gemini-cli",
+  "description": "Integrates with Google's Gemini CLI tool to enable conversational interactions, content generation with configurable temperature settings, and model discovery through command-line interface calls.",
+  "source_repo": "blesscat/gemini-cli-mcp",
+  "source_url": "https://github.com/blesscat/gemini-cli-mcp",
+  "install": "npx -y gemini-cli-mcp"
+}

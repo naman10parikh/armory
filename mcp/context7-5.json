@@ -1,0 +1,7 @@
+{
+  "name": "context7-5",
+  "description": "Access up-to-date documentation and code examples for any programming library or framework. Discover the most relevant packages for your projects using reputation and quality scores. Simplify the search for technical information by resolving package names to direct documentation queries.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/composio/context7",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/composio/context7\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-memory",
+  "description": "Mcp Memory MCP server listed on mcp.so.",
+  "source_repo": "sdimitrov/mcp-memory",
+  "source_url": "https://mcp.so/server/mcp-memory/sdimitrov",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-memory/sdimitrov\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpserver",
+  "description": "MCPServer MCP server listed on mcp.so.",
+  "source_repo": "amurata/MCPServer",
+  "source_url": "https://mcp.so/server/MCPServer/amurata",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCPServer/amurata\n# See source for mcpServers config block"
+}

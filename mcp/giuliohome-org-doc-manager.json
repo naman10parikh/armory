@@ -1,0 +1,7 @@
+{
+  "name": "giuliohome-org-doc-manager",
+  "description": "Personal document vault on Azure Blob Storage with a built-in MCP server. Client-side AES-256-GCM zero-knowledge encryption: encrypted docs stay opaque to Claude, plaintext docs are fully readable, writable, and searchable from chat.",
+  "source_repo": "giuliohome-org/doc-manager",
+  "source_url": "https://github.com/giuliohome-org/doc-manager",
+  "install": "# git clone --depth 1 https://github.com/giuliohome-org/doc-manager\n# See source for mcpServers config block"
+}

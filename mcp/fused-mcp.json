@@ -1,0 +1,7 @@
+{
+  "name": "fused-mcp",
+  "description": "Fused Mcp MCP server listed on mcp.so.",
+  "source_repo": "fusedio/fused-mcp",
+  "source_url": "https://mcp.so/server/fused-mcp/fusedio",
+  "install": "npx -y fused-mcp"
+}

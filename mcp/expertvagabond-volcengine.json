@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-volcengine",
+  "description": "Text generation, chat, and embeddings via ByteDance Volcano Engine Doubao models.",
+  "source_repo": "expertvagabond/volcengine-mcp",
+  "source_url": "https://github.com/expertvagabond/volcengine-mcp",
+  "install": "npx -y volcengine-mcp"
+}

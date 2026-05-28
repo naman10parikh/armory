@@ -1,0 +1,7 @@
+{
+  "name": "marginfi-mcp-server",
+  "description": "Marginfi Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aldrin-labs/marginfi-mcp-server",
+  "source_url": "https://mcp.so/server/marginfi-mcp-server/aldrin-labs",
+  "install": "npx -y marginfi-mcp-server"
+}

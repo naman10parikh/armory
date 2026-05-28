@@ -1,0 +1,7 @@
+{
+  "name": "ltejedor-newshub",
+  "description": "Provides real-time access to news articles from various RSS feeds with tools for listing feeds, retrieving latest news by category, searching across all content, and fetching specific article details.",
+  "source_repo": "ltejedor/newsfeed-mcp",
+  "source_url": "https://github.com/ltejedor/newsfeed-mcp",
+  "install": "npx -y newsfeed-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codefriar-salesforce-cli",
+  "description": "Exposes Salesforce CLI functionality for interacting with Salesforce orgs, enabling developers to query data, deploy code, and manage orgs through dynamically discovered commands.",
+  "source_repo": "codefriar/sf-mcp",
+  "source_url": "https://github.com/codefriar/sf-mcp",
+  "install": "npx -y sf-mcp"
+}

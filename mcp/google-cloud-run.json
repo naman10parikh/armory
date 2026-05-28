@@ -1,0 +1,7 @@
+{
+  "name": "google-cloud-run",
+  "description": "Deploys applications to Google Cloud Run through automated containerization, project setup, and service management with support for both local files and provided content.",
+  "source_repo": "googlecloudplatform/cloud-run-mcp",
+  "source_url": "https://github.com/googlecloudplatform/cloud-run-mcp",
+  "install": "npx -y cloud-run-mcp"
+}

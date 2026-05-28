@@ -1,0 +1,7 @@
+{
+  "name": "rayyokoyama-qase",
+  "description": "Provides a bridge to Qase test management platform for automated test case management and reporting through the Qase API",
+  "source_repo": "rayyokoyama/qase-mcp-server",
+  "source_url": "https://github.com/rayyokoyama/qase-mcp-server",
+  "install": "npx -y qase-mcp-server"
+}

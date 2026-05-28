@@ -1,0 +1,7 @@
+{
+  "name": "agentdesk-workflows",
+  "description": "Provides specialized software development tools through a data-driven configuration system that loads tool definitions from YAML files for thinking, coding, and GitHub integration workflows",
+  "source_repo": "dx-zero/mcpn",
+  "source_url": "https://github.com/dx-zero/mcpn/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/dx-zero/mcpn/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

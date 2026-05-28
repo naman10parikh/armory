@@ -1,0 +1,7 @@
+{
+  "name": "google-forms",
+  "description": "Enables programmatic interaction with Google Forms by generating refresh tokens and establishing OAuth authentication for automating form-related workflows and data retrieval.",
+  "source_repo": "masatoshi118/mcp_google_froms",
+  "source_url": "https://github.com/masatoshi118/mcp_google_froms",
+  "install": "# git clone --depth 1 https://github.com/masatoshi118/mcp_google_froms\n# See source for mcpServers config block"
+}

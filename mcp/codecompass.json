@@ -1,0 +1,7 @@
+{
+  "name": "codecompass",
+  "description": "Helps developers tackle legacy codebases by giving AI coding assistants context through Qdrant vector store and Agentic RAG with Ollama or DeepSeek.",
+  "source_repo": "alvinveroy/CodeCompass",
+  "source_url": "https://github.com/alvinveroy/CodeCompass",
+  "install": "# git clone --depth 1 https://github.com/alvinveroy/CodeCompass\n# See source for mcpServers config block"
+}

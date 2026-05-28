@@ -1,0 +1,7 @@
+{
+  "name": "cachebro",
+  "description": "Provides file caching and diff tracking for AI coding agents, reducing token usage by returning changes or confirming no changes instead of full file contents on repeated reads.",
+  "source_repo": "glommer/cachebro",
+  "source_url": "https://github.com/glommer/cachebro",
+  "install": "# git clone --depth 1 https://github.com/glommer/cachebro\n# See source for mcpServers config block"
+}

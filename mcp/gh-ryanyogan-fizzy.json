@@ -1,0 +1,7 @@
+{
+  "name": "gh-ryanyogan-fizzy",
+  "description": "Manages Fizzy kanban boards, cards, columns, comments, and tags for Basecamp's task tracking tool.",
+  "source_repo": "ryanyogan/fizzy-mcp",
+  "source_url": "https://github.com/ryanyogan/fizzy-mcp",
+  "install": "npx -y fizzy-mcp"
+}

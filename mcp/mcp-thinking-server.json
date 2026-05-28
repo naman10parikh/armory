@@ -1,0 +1,7 @@
+{
+  "name": "mcp-thinking-server",
+  "description": "A powerful MCP server that enhances LLMs with advanced sequential thinking capabilities, supporting 19 thinking modes for structured reasoning and complex cognitive tasks.",
+  "source_repo": "VitalyMalakanov/mcp-thinking",
+  "source_url": "https://github.com/VitalyMalakanov/mcp-thinking",
+  "install": "# git clone --depth 1 https://github.com/VitalyMalakanov/mcp-thinking\n# See source for mcpServers config block"
+}

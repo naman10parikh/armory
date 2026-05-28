@@ -1,0 +1,7 @@
+{
+  "name": "honey-guard-anchor",
+  "description": "Provides security analysis for Solana Anchor programs by exposing tools that check smart contracts against Fender security vulnerabilities directly within development environments.",
+  "source_repo": "honey-guard/anchor-mcp",
+  "source_url": "https://github.com/honey-guard/anchor-mcp",
+  "install": "npx -y anchor-mcp"
+}

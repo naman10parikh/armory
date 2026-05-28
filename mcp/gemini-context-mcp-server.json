@@ -1,0 +1,7 @@
+{
+  "name": "gemini-context-mcp-server",
+  "description": "Gemini Context Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ogoldberg/gemini-context-mcp-server",
+  "source_url": "https://mcp.so/server/gemini-context-mcp-server/ogoldberg",
+  "install": "npx -y gemini-context-mcp-server"
+}

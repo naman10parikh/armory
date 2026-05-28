@@ -1,0 +1,7 @@
+{
+  "name": "kareverie-codezap",
+  "description": "Acts as a project CTO for developers by automating initial setup and architectural decisions, clarifying product requirements through guided questions, selecting modern technology stacks, building initialized projects with standardized architecture, and providing development tips to help users progress from idea to working product without getting stuck on technical setup.",
+  "source_repo": "",
+  "source_url": "https://www.codezap.co",
+  "install": "# git clone --depth 1 https://www.codezap.co\n# See source for mcpServers config block"
+}

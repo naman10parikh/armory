@@ -1,0 +1,7 @@
+{
+  "name": "mikeysklar-circuitpython",
+  "description": "Enables interaction with CircuitPython microcontroller boards via serial REPL connections.",
+  "source_repo": "mikeysklar/circuitpython-mcp",
+  "source_url": "https://github.com/mikeysklar/circuitpython-mcp",
+  "install": "npx -y circuitpython-mcp"
+}

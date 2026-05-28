@@ -1,0 +1,7 @@
+{
+  "name": "wavyrai-remarkable",
+  "description": "Access reMarkable tablet data including documents, notebooks, handwritten notes via OCR, and page images through the reMarkable Cloud API.",
+  "source_repo": "wavyrai/rm-mcp",
+  "source_url": "https://github.com/wavyrai/rm-mcp",
+  "install": "npx -y rm-mcp"
+}

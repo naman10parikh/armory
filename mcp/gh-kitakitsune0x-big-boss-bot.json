@@ -1,0 +1,7 @@
+{
+  "name": "gh-kitakitsune0x-big-boss-bot",
+  "description": "stdio MCP server providing read-only access to a self-hosted OSINT intelligence dashboard aggregating news, Telegram channels, military tracking, and market data.",
+  "source_repo": "kitakitsune0x/bigbossbot",
+  "source_url": "https://github.com/kitakitsune0x/bigbossbot",
+  "install": "# git clone --depth 1 https://github.com/kitakitsune0x/bigbossbot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "first-mcp-server",
+  "description": "First Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aroramrinaal/first-mcp-server",
+  "source_url": "https://mcp.so/server/first-mcp-server/aroramrinaal",
+  "install": "npx -y first-mcp-server"
+}

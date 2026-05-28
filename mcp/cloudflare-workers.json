@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-workers",
+  "description": "Enables MCP capabilities in Cloudflare Workers for deploying low-latency, scalable AI services at the network edge.",
+  "source_repo": "cloudflare/workers-mcp",
+  "source_url": "https://github.com/cloudflare/workers-mcp",
+  "install": "npx -y workers-mcp"
+}

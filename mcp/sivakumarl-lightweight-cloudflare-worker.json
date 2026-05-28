@@ -1,0 +1,7 @@
+{
+  "name": "sivakumarl-lightweight-cloudflare-worker",
+  "description": "Lightweight Cloudflare Workers-based MCP server implementation that enables custom API interactions with a basic greeting functionality, easily extendable for integration with external services.",
+  "source_repo": "sivakumarl/my-mcp-worker",
+  "source_url": "https://github.com/sivakumarl/my-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/sivakumarl/my-mcp-worker\n# See source for mcpServers config block"
+}

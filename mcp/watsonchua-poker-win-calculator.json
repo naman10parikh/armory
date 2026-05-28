@@ -1,0 +1,7 @@
+{
+  "name": "watsonchua-poker-win-calculator",
+  "description": "Calculates poker hand win probabilities through Monte Carlo simulations, providing strategic action recommendations based on statistical analysis of possible outcomes.",
+  "source_repo": "watsonchua/poker_win_calculator",
+  "source_url": "https://github.com/watsonchua/poker_win_calculator",
+  "install": "# git clone --depth 1 https://github.com/watsonchua/poker_win_calculator\n# See source for mcpServers config block"
+}

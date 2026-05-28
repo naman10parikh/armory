@@ -1,0 +1,7 @@
+{
+  "name": "trafflux-pdf-reader",
+  "description": "Integrates with PyPDF2 to enable efficient text extraction and information retrieval from PDF documents for various applications.",
+  "source_repo": "trafflux/pdf-reader-mcp",
+  "source_url": "https://github.com/trafflux/pdf-reader-mcp",
+  "install": "npx -y pdf-reader-mcp"
+}

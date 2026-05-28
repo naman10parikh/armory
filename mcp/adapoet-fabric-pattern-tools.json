@@ -1,0 +1,7 @@
+{
+  "name": "adapoet-fabric-pattern-tools",
+  "description": "Exposes Fabric design patterns as executable tools that can be discovered and run directly within development workflows, with automatic pattern recommendation based on task descriptions.",
+  "source_repo": "augmentedivan/fabric-mcp-server",
+  "source_url": "https://github.com/augmentedivan/fabric-mcp-server",
+  "install": "npx -y fabric-mcp-server"
+}

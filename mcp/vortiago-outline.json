@@ -1,0 +1,7 @@
+{
+  "name": "vortiago-outline",
+  "description": "Enables AI systems to search, read, edit, and manage documents within Outline's knowledge management platform through direct API integration with both cloud and self-hosted instances.",
+  "source_repo": "vortiago/mcp-outline",
+  "source_url": "https://github.com/vortiago/mcp-outline",
+  "install": "# git clone --depth 1 https://github.com/vortiago/mcp-outline\n# See source for mcpServers config block"
+}

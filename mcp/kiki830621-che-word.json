@@ -1,0 +1,7 @@
+{
+  "name": "kiki830621-che-word",
+  "description": "Microsoft Word document generation and template management.",
+  "source_repo": "psychquant/che-word-mcp",
+  "source_url": "https://github.com/psychquant/che-word-mcp",
+  "install": "npx -y che-word-mcp"
+}

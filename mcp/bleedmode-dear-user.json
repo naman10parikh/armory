@@ -1,0 +1,7 @@
+{
+  "name": "bleedmode-dear-user",
+  "description": "Audit your Claude setup for security risks, persona conflicts, and configuration health.",
+  "source_repo": "bleedmode/dearuser",
+  "source_url": "https://github.com/bleedmode/dearuser",
+  "install": "# git clone --depth 1 https://github.com/bleedmode/dearuser\n# See source for mcpServers config block"
+}

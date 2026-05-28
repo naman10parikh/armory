@@ -1,0 +1,7 @@
+{
+  "name": "hejie-calculator",
+  "description": "Provides a secure mathematical expression evaluation service using Python's AST module for basic operations without relying on eval(), enabling quick calculations within conversations.",
+  "source_repo": "githejie/mcp-server-calculator",
+  "source_url": "https://github.com/githejie/mcp-server-calculator",
+  "install": "# git clone --depth 1 https://github.com/githejie/mcp-server-calculator\n# See source for mcpServers config block"
+}

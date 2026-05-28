@@ -1,0 +1,7 @@
+{
+  "name": "anteos-booking",
+  "description": "Book medical appointments with French doctors by specialty and city via AI agents.",
+  "source_repo": "anteos-health/anteos-mcp",
+  "source_url": "https://github.com/anteos-health/anteos-mcp",
+  "install": "npx -y anteos-mcp"
+}

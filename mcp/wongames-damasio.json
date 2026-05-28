@@ -1,0 +1,7 @@
+{
+  "name": "wongames-damasio",
+  "description": "Provides a GraphQL interface to retrieve video game data from Strapi CMS, enabling filtered access to game collections, pricing information, and metadata for conversational interfaces.",
+  "source_repo": "saymondamasio/wongames-mcp",
+  "source_url": "https://github.com/saymondamasio/wongames-mcp",
+  "install": "npx -y wongames-mcp"
+}

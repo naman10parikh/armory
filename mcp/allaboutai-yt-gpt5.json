@@ -1,0 +1,7 @@
+{
+  "name": "allaboutai-yt-gpt5",
+  "description": "Provides direct integration with OpenAI's GPT-5 API through simple prompt-based and structured conversation tools for text generation without building custom API integration layers.",
+  "source_repo": "allaboutai-yt/gpt5mcp",
+  "source_url": "https://github.com/allaboutai-yt/gpt5mcp",
+  "install": "# git clone --depth 1 https://github.com/allaboutai-yt/gpt5mcp\n# See source for mcpServers config block"
+}

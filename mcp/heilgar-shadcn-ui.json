@@ -1,0 +1,7 @@
+{
+  "name": "heilgar-shadcn-ui",
+  "description": "Provides tools for managing and installing shadcn/ui components directly through assistants, enabling efficient component discovery, documentation retrieval, and installation command generation with multiple package manager support.",
+  "source_repo": "heilgar/shadcn-ui-mcp-server",
+  "source_url": "https://github.com/heilgar/shadcn-ui-mcp-server",
+  "install": "npx -y shadcn-ui-mcp-server"
+}

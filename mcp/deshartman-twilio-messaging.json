@@ -1,0 +1,7 @@
+{
+  "name": "deshartman-twilio-messaging",
+  "description": "Enables sending SMS messages through the Twilio API with a simple tool that handles authentication and message delivery using provided Twilio credentials and sender phone number.",
+  "source_repo": "deshartman/twilio-messaging-mcp-server",
+  "source_url": "https://github.com/deshartman/twilio-messaging-mcp-server",
+  "install": "npx -y twilio-messaging-mcp-server"
+}

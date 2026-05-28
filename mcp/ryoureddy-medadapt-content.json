@@ -1,0 +1,7 @@
+{
+  "name": "ryoureddy-medadapt-content",
+  "description": "Provides medical students and educators with curated educational resources from PubMed and NCBI Bookshelf through a FastMCP-powered system that enables searching, generating topic overviews, creating learning plans, and extracting key points from medical literature.",
+  "source_repo": "ryoureddy/medadapt-content-server",
+  "source_url": "https://github.com/ryoureddy/medadapt-content-server",
+  "install": "# git clone --depth 1 https://github.com/ryoureddy/medadapt-content-server\n# See source for mcpServers config block"
+}

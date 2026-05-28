@@ -1,0 +1,7 @@
+{
+  "name": "scholar-toolkit-mcp",
+  "description": "Comprehensive MCP server for academic research workflows, enabling paper searching across multiple sources, manuscript processing with citation placeholders, search caching, and citation export.",
+  "source_repo": "czwziy/paper-toolkit-mcp",
+  "source_url": "https://github.com/czwziy/paper-toolkit-mcp",
+  "install": "npx -y paper-toolkit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "norman-finance",
+  "description": "Enables interaction with the Norman Finance API, offering access to accounting, invoices, companies, clients, taxes, and more.",
+  "source_repo": "norman-finance/norman-mcp-server",
+  "source_url": "https://github.com/norman-finance/norman-mcp-server",
+  "install": "npx -y norman-mcp-server"
+}

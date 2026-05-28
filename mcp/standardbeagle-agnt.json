@@ -1,0 +1,7 @@
+{
+  "name": "standardbeagle-agnt",
+  "description": "Browser instrumentation and development tooling with process management, reverse proxy, and frontend diagnostics",
+  "source_repo": "standardbeagle/agnt",
+  "source_url": "https://github.com/standardbeagle/agnt",
+  "install": "# git clone --depth 1 https://github.com/standardbeagle/agnt\n# See source for mcpServers config block"
+}

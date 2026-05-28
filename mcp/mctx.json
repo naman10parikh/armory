@@ -1,0 +1,7 @@
+{
+  "name": "mctx",
+  "description": "Search mctx platform documentation to learn how to scaffold, build, deploy, and monetize hosted servers.",
+  "source_repo": "",
+  "source_url": "https://help.mctx.ai",
+  "install": "# git clone --depth 1 https://help.mctx.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chatbi",
+  "description": "Transforms CSV and Excel files into conversational data analysis by generating and executing Python code to answer natural language questions about datasets with automatic error correction and visualization capabilities.",
+  "source_repo": "steven-luo/chatbi-mcp-server",
+  "source_url": "https://github.com/steven-luo/chatbi-mcp-server",
+  "install": "npx -y chatbi-mcp-server"
+}

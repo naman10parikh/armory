@@ -1,0 +1,7 @@
+{
+  "name": "drengr",
+  "description": "Eyes and hands for AI agents on Android and iOS devices, enabling screen observation, interaction, and autonomous navigation via a single Rust binary.",
+  "source_repo": "sharminsirajudeen/drengr-community",
+  "source_url": "https://github.com/sharminsirajudeen/drengr-community",
+  "install": "# git clone --depth 1 https://github.com/sharminsirajudeen/drengr-community\n# See source for mcpServers config block"
+}

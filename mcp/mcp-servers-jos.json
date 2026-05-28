@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-jos",
+  "description": "Mcp Servers Jos MCP server listed on mcp.so.",
+  "source_repo": "josmithiii/mcp-servers-jos",
+  "source_url": "https://mcp.so/server/mcp-servers-jos/josmithiii",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers-jos/josmithiii\n# See source for mcpServers config block"
+}

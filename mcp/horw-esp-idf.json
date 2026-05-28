@@ -1,0 +1,7 @@
+{
+  "name": "horw-esp-idf",
+  "description": "Streamlines ESP-IDF project building with automatic environment setup and error handling for ESP32 microcontroller development.",
+  "source_repo": "horw/esp-mcp",
+  "source_url": "https://github.com/horw/esp-mcp",
+  "install": "npx -y esp-mcp"
+}

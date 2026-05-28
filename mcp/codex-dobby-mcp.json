@@ -1,0 +1,7 @@
+{
+  "name": "codex-dobby-mcp",
+  "description": "A local MCP server that lets Claude delegate scoped work to Codex with structured results and guardrails, supporting planning, code review, build, reverse engineering, and long-running background tasks.",
+  "source_repo": "Averyy/codex-dobby-mcp",
+  "source_url": "https://github.com/Averyy/codex-dobby-mcp",
+  "install": "npx -y codex-dobby-mcp"
+}

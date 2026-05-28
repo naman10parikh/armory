@@ -1,0 +1,7 @@
+{
+  "name": "mrgoonie-todo",
+  "description": "Provides SQLite-backed todo list and task management with full CRUD operations, priority levels, status tracking, assignee management, tagging, due dates with snooze functionality, recurring tasks, webhook notifications for deadlines, and powerful search and filtering capabilities.",
+  "source_repo": "mrgoonie/todo-mcp",
+  "source_url": "https://github.com/mrgoonie/todo-mcp",
+  "install": "npx -y todo-mcp"
+}

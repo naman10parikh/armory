@@ -1,0 +1,7 @@
+{
+  "name": "crispvibe-localshell",
+  "description": "Cross-platform PTY-based terminal server exposing shell execution, persistent sessions, and real-time I/O streaming to AI clients on macOS, Linux, and Windows.",
+  "source_repo": "crispvibe/localshell-mcp",
+  "source_url": "https://github.com/crispvibe/localshell-mcp",
+  "install": "npx -y localshell-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "3xfreedom-agentpedia",
+  "description": "Search, discover, and contribute to AgentPedia — the knowledge base for AI tools, APIs, and agents.",
+  "source_repo": "3xfreedom/agentpedia",
+  "source_url": "https://github.com/3xfreedom/agentpedia",
+  "install": "# git clone --depth 1 https://github.com/3xfreedom/agentpedia\n# See source for mcpServers config block"
+}

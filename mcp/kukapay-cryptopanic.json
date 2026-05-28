@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-cryptopanic",
+  "description": "Integrates with CryptoPanic to provide real-time cryptocurrency news, analysis, and video content with configurable pagination for financial analysis and investment decision support.",
+  "source_repo": "kukapay/cryptopanic-mcp-server",
+  "source_url": "https://github.com/kukapay/cryptopanic-mcp-server",
+  "install": "npx -y cryptopanic-mcp-server"
+}

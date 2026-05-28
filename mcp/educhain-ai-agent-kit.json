@@ -1,0 +1,7 @@
+{
+  "name": "educhain-ai-agent-kit",
+  "description": "Educhain Ai Agent Kit MCP server listed on mcp.so.",
+  "source_repo": "SailFish-Finance/educhain-ai-agent-kit",
+  "source_url": "https://mcp.so/server/educhain-ai-agent-kit/SailFish-Finance",
+  "install": "# git clone --depth 1 https://mcp.so/server/educhain-ai-agent-kit/SailFish-Finance\n# See source for mcpServers config block"
+}

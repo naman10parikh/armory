@@ -1,0 +1,7 @@
+{
+  "name": "petrbroz-autodesk-platform-services",
+  "description": "Provides secure access to Autodesk Platform Services API for architecture, engineering, and construction workflows, enabling interaction with projects, documents, and construction issues through a Node.js-based server with fine-grained access control.",
+  "source_repo": "petrbroz/aps-mcp-server",
+  "source_url": "https://github.com/petrbroz/aps-mcp-server",
+  "install": "npx -y aps-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-brapi",
+  "description": "Provides AI agents access to agricultural breeding data across BrAPI-compliant platforms including Breedbase and T3.",
+  "source_repo": "cyanheads/brapi-mcp-server",
+  "source_url": "https://github.com/cyanheads/brapi-mcp-server",
+  "install": "npx -y brapi-mcp-server"
+}

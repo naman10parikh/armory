@@ -1,0 +1,7 @@
+{
+  "name": "faf-mcp",
+  "description": "Sync project context once and distribute it to all IDE-specific formats including Cursor, Windsurf, VS Code, and Cline.",
+  "source_repo": "wolfe-jam/faf-mcp",
+  "source_url": "https://github.com/wolfe-jam/faf-mcp",
+  "install": "npx -y faf-mcp"
+}

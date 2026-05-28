@@ -1,0 +1,7 @@
+{
+  "name": "time-zone",
+  "description": "Provides real-time timezone-aware date and time information for any IANA timezone through a Python-based server that converts and returns responses in ISO format.",
+  "source_repo": "samay58/time-mcp",
+  "source_url": "https://github.com/samay58/time-mcp",
+  "install": "npx -y time-mcp"
+}

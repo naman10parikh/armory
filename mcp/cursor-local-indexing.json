@@ -1,0 +1,7 @@
+{
+  "name": "cursor-local-indexing",
+  "description": "Cursor Local Indexing MCP server listed on mcp.so.",
+  "source_repo": "LuotoCompany/cursor-local-indexing",
+  "source_url": "https://mcp.so/server/cursor-local-indexing/LuotoCompany",
+  "install": "# git clone --depth 1 https://mcp.so/server/cursor-local-indexing/LuotoCompany\n# See source for mcpServers config block"
+}

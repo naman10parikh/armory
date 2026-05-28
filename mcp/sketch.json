@@ -1,0 +1,7 @@
+{
+  "name": "sketch",
+  "description": "Processes Sketch design files by extracting internal structure, analyzing design elements, and rendering visual components as SVG images for design-to-code workflows and automated design analysis.",
+  "source_repo": "mater1996/sketch-mcp-server",
+  "source_url": "https://github.com/mater1996/sketch-mcp-server",
+  "install": "npx -y sketch-mcp-server"
+}

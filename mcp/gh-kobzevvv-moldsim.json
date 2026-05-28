@@ -1,0 +1,7 @@
+{
+  "name": "gh-kobzevvv-moldsim",
+  "description": "Injection molding simulation expertise with material properties, process validation, and DFM checks.",
+  "source_repo": "moldsim/moldsim-mcp",
+  "source_url": "https://github.com/moldsim/moldsim-mcp",
+  "install": "npx -y moldsim-mcp"
+}

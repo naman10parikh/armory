@@ -1,0 +1,7 @@
+{
+  "name": "pg-health",
+  "description": "Archived MCP server for PostgreSQL health monitoring; functionality merged into pg-dash.",
+  "source_repo": "indiekitai/pg-health",
+  "source_url": "https://github.com/indiekitai/pg-health",
+  "install": "# git clone --depth 1 https://github.com/indiekitai/pg-health\n# See source for mcpServers config block"
+}

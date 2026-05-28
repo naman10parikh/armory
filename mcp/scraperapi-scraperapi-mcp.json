@@ -1,0 +1,7 @@
+{
+  "name": "scraperapi-scraperapi-mcp",
+  "description": "MCP server for ScraperAPI web scraping with JavaScript rendering, geotargeting, premium proxies, and auto-parsing support.",
+  "source_repo": "scraperapi/scraperapi-mcp",
+  "source_url": "https://github.com/scraperapi/scraperapi-mcp",
+  "install": "npx -y scraperapi-mcp"
+}

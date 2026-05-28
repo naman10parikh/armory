@@ -1,0 +1,7 @@
+{
+  "name": "graphql-mcp",
+  "description": "Graphql Mcp MCP server listed on mcp.so.",
+  "source_repo": "ctkadvisors/graphql-mcp",
+  "source_url": "https://mcp.so/server/graphql-mcp/ctkadvisors",
+  "install": "npx -y graphql-mcp"
+}

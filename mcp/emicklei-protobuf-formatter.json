@@ -1,0 +1,7 @@
+{
+  "name": "emicklei-protobuf-formatter",
+  "description": "Formats Protocol Buffer (.proto) files with consistent indentation and standardized conventions for cleaner, more maintainable code",
+  "source_repo": "emicklei/protofmt-mcp",
+  "source_url": "https://github.com/emicklei/protofmt-mcp",
+  "install": "npx -y protofmt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "normal-coder-gitee",
+  "description": "Integrates with Gitee repositories to enable repository creation, code management, issue tracking, and pull request workflows using a simple token-based authentication system.",
+  "source_repo": "normal-coder/gitee-mcp-server",
+  "source_url": "https://github.com/normal-coder/gitee-mcp-server",
+  "install": "npx -y gitee-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nahmanmate-postgresql-database-manager",
+  "description": "Integrates with PostgreSQL to provide database analysis, optimization, and troubleshooting tools for streamlined management and performance tuning.",
+  "source_repo": "nahmanmate/postgresql-mcp-server",
+  "source_url": "https://github.com/nahmanmate/postgresql-mcp-server",
+  "install": "npx -y postgresql-mcp-server"
+}

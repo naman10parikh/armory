@@ -1,0 +1,7 @@
+{
+  "name": "albermm-incomebot",
+  "description": "Options trading intelligence with regime detection, momentum scanning, and risk simulation.",
+  "source_repo": "",
+  "source_url": "https://ib.phos.nz/mcp/",
+  "install": "# git clone --depth 1 https://ib.phos.nz/mcp/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kuroakira-session-cache",
+  "description": "In-memory file cache for Claude Code subagents that eliminates redundant file reads across parallel tasks.",
+  "source_repo": "kuroakira/session-cache-mcp",
+  "source_url": "https://github.com/kuroakira/session-cache-mcp",
+  "install": "npx -y session-cache-mcp"
+}

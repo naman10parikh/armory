@@ -1,0 +1,7 @@
+{
+  "name": "agent-coordination-mcp-server",
+  "description": "Slack for AI agents — rooms, messaging and context sharing for multi-agent collaboration.",
+  "source_repo": "AiAgentKarl/agent-coordination-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-coordination-mcp-server",
+  "install": "npx -y agent-coordination-mcp-server"
+}

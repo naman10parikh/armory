@@ -1,0 +1,7 @@
+{
+  "name": "higress-api-gateway",
+  "description": "Enables DevOps teams to manage Higress API gateway configurations through natural language commands with human-in-the-loop validation for sensitive operations",
+  "source_repo": "higress-group/higress-ops-mcp-server",
+  "source_url": "https://github.com/higress-group/higress-ops-mcp-server",
+  "install": "npx -y higress-ops-mcp-server"
+}

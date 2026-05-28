@@ -1,0 +1,7 @@
+{
+  "name": "kame6493-del-kabu-stock-market",
+  "description": "Provides real-time stock quotes, search, and historical data for Japanese JPX/TSE, US, and crypto markets.",
+  "source_repo": "kame6493-del/kabu-mcp",
+  "source_url": "https://github.com/kame6493-del/kabu-mcp",
+  "install": "npx -y kabu-mcp"
+}

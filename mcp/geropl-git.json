@@ -1,0 +1,7 @@
+{
+  "name": "geropl-git",
+  "description": "Integrates with Git repositories to enable version control operations and automation, supporting both shell-based commands and the go-git library for flexible implementation.",
+  "source_repo": "geropl/git-mcp-go",
+  "source_url": "https://github.com/geropl/git-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/geropl/git-mcp-go\n# See source for mcpServers config block"
+}

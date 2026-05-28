@@ -1,0 +1,7 @@
+{
+  "name": "code-sandbox-mcp",
+  "description": "Code Sandbox Mcp MCP server listed on mcp.so.",
+  "source_repo": "nervouslimit/code-sandbox-mcp",
+  "source_url": "https://mcp.so/server/code-sandbox-mcp/nervouslimit",
+  "install": "npx -y code-sandbox-mcp"
+}

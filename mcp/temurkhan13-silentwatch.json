@@ -1,0 +1,7 @@
+{
+  "name": "temurkhan13-silentwatch",
+  "description": "MCP server that surfaces silent job failures — scheduled jobs that exit successfully but produce no meaningful output.",
+  "source_repo": "temurkhan13/silentwatch-mcp",
+  "source_url": "https://github.com/temurkhan13/silentwatch-mcp",
+  "install": "npx -y silentwatch-mcp"
+}

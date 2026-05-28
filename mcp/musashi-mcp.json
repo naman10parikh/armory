@@ -1,0 +1,7 @@
+{
+  "name": "musashi-mcp",
+  "description": "Exposes Musashi market intelligence as MCP tools for clients like Claude and ChatGPT, enabling text analysis, arbitrage detection, market movers, wallet activity, and smart money tracking.",
+  "source_repo": "MusashiBot/musashi-mcp",
+  "source_url": "https://github.com/MusashiBot/musashi-mcp",
+  "install": "npx -y musashi-mcp"
+}

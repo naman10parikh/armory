@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-earthquake",
+  "description": "Search USGS and EMSC seismic data — real-time earthquake feeds, event queries, and counts.",
+  "source_repo": "cyanheads/earthquake-mcp-server",
+  "source_url": "https://github.com/cyanheads/earthquake-mcp-server",
+  "install": "npx -y earthquake-mcp-server"
+}

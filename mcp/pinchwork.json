@@ -1,0 +1,7 @@
+{
+  "name": "pinchwork",
+  "description": "Agent-to-agent task marketplace with credits-based economy for delegating and picking up work.",
+  "source_repo": "anneschuth/pinchwork",
+  "source_url": "https://github.com/anneschuth/pinchwork",
+  "install": "# git clone --depth 1 https://github.com/anneschuth/pinchwork\n# See source for mcpServers config block"
+}

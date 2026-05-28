@@ -1,0 +1,7 @@
+{
+  "name": "newbeb-macos-clipboard",
+  "description": "Integrates with the MacOS clipboard to enable reading and writing of system clipboard content for text processing and data transfer tasks.",
+  "source_repo": "brian-ln/clipboard-mcp",
+  "source_url": "https://github.com/brian-ln/clipboard-mcp",
+  "install": "npx -y clipboard-mcp"
+}

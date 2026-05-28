@@ -1,0 +1,7 @@
+{
+  "name": "excalidraw-plus",
+  "description": "Connects to your Excalidraw+ workspace to manage scenes, collections, members, and workspace settings.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/excalidraw-plus",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/excalidraw-plus\n# See source for mcpServers config block"
+}

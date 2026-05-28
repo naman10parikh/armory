@@ -1,0 +1,7 @@
+{
+  "name": "math280h-safe-pkgs",
+  "description": "Analyzes npm and Cargo packages for security risks through typosquatting detection, version analysis, and advisory scanning.",
+  "source_repo": "math280h/safe-pkgs",
+  "source_url": "https://github.com/math280h/safe-pkgs",
+  "install": "# git clone --depth 1 https://github.com/math280h/safe-pkgs\n# See source for mcpServers config block"
+}

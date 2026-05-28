@@ -1,0 +1,7 @@
+{
+  "name": "nutriref",
+  "description": "USDA nutrition API optimized for AI agents. x402 + USDC on Base",
+  "source_repo": "Younghef/nutriref-api",
+  "source_url": "https://github.com/Younghef/nutriref-api",
+  "install": "# git clone --depth 1 https://github.com/Younghef/nutriref-api\n# See source for mcpServers config block"
+}

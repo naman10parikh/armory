@@ -1,0 +1,7 @@
+{
+  "name": "probeops-mcp-server",
+  "description": "Global network diagnostics for SSL, DNS, ping, whois, and traceroute.",
+  "source_repo": "kumarprobeops/probeops-mcp-server",
+  "source_url": "https://github.com/kumarprobeops/probeops-mcp-server",
+  "install": "npx -y probeops-mcp-server"
+}

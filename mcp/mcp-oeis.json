@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oeis",
+  "description": "MCP server for querying the OEIS (Online Encyclopedia of Integer Sequences) API, enabling sequence lookup by ID, term search, and name search.",
+  "source_repo": "daedalus/mcp-oeis",
+  "source_url": "https://github.com/daedalus/mcp-oeis",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-oeis\n# See source for mcpServers config block"
+}

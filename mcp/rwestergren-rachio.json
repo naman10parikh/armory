@@ -1,0 +1,7 @@
+{
+  "name": "rwestergren-rachio",
+  "description": "Control Rachio smart sprinkler controllers with 23 tools for schedules and live watering.",
+  "source_repo": "rwestergren/rachio-mcp",
+  "source_url": "https://github.com/rwestergren/rachio-mcp",
+  "install": "npx -y rachio-mcp"
+}

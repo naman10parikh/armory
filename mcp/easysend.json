@@ -1,0 +1,7 @@
+{
+  "name": "easysend",
+  "description": "File sharing with upload, download, and shareable link generation through the EasySend platform.",
+  "source_repo": "easysend-co/easysend-mcp",
+  "source_url": "https://github.com/easysend-co/easysend-mcp",
+  "install": "npx -y easysend-mcp"
+}

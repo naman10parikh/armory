@@ -1,0 +1,7 @@
+{
+  "name": "graqle",
+  "description": "Architecture-aware knowledge graph that enables AI assistants to understand codebase structure and dependencies.",
+  "source_repo": "quantamixsol/graqle",
+  "source_url": "https://github.com/quantamixsol/graqle",
+  "install": "# git clone --depth 1 https://github.com/quantamixsol/graqle\n# See source for mcpServers config block"
+}

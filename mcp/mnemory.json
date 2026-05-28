@@ -1,0 +1,7 @@
+{
+  "name": "mnemory",
+  "description": "Self-hosted MCP server giving AI agents persistent memory for personalization and context across conversations.",
+  "source_repo": "fpytloun/mnemory",
+  "source_url": "https://github.com/fpytloun/mnemory",
+  "install": "# git clone --depth 1 https://github.com/fpytloun/mnemory\n# See source for mcpServers config block"
+}

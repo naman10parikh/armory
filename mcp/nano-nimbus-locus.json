@@ -1,0 +1,7 @@
+{
+  "name": "nano-nimbus-locus",
+  "description": "Hierarchical markdown memory palace for persistent AI agent knowledge.",
+  "source_repo": "nano-nimbus/locus",
+  "source_url": "https://github.com/nano-nimbus/locus",
+  "install": "# git clone --depth 1 https://github.com/nano-nimbus/locus\n# See source for mcpServers config block"
+}

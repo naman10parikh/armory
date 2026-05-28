@@ -1,0 +1,7 @@
+{
+  "name": "cursor-history-mcp",
+  "description": "MCP server for browsing, searching, exporting, and backing up your Cursor AI chat history directly into Claude via natural language.",
+  "source_repo": "S2thend/cursor-history-mcp",
+  "source_url": "https://github.com/S2thend/cursor-history-mcp",
+  "install": "npx -y cursor-history-mcp"
+}

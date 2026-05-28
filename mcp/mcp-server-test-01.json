@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-test-01",
+  "description": "Mcp Server Test 01 MCP server listed on mcp.so.",
+  "source_repo": "avantjohn/mcp-server-test-01",
+  "source_url": "https://mcp.so/server/mcp-server-test-01/avantjohn",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-test-01/avantjohn\n# See source for mcpServers config block"
+}

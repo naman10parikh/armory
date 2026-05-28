@@ -1,0 +1,7 @@
+{
+  "name": "caramba",
+  "description": "Experimental A2A implementation",
+  "source_repo": "TheApeMachine/caramba",
+  "source_url": "https://github.com/TheApeMachine/caramba",
+  "install": "# git clone --depth 1 https://github.com/TheApeMachine/caramba\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rmondjone-yapi",
+  "description": "MCP server for the YAPI API management platform with tools to search and browse API interfaces for code generation.",
+  "source_repo": "rmondjone/yapi-mcp",
+  "source_url": "https://github.com/rmondjone/yapi-mcp",
+  "install": "npx -y yapi-mcp"
+}

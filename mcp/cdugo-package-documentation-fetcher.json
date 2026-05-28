@@ -1,0 +1,7 @@
+{
+  "name": "cdugo-package-documentation-fetcher",
+  "description": "Integrates with multiple package registries and documentation sources to provide up-to-date library information for code assistance, dependency analysis, and learning about new libraries.",
+  "source_repo": "cdugo/package-documentation-mcp",
+  "source_url": "https://github.com/cdugo/package-documentation-mcp",
+  "install": "npx -y package-documentation-mcp"
+}

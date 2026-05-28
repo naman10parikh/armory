@@ -1,0 +1,7 @@
+{
+  "name": "veonua-smartthings",
+  "description": "Integrates with Samsung SmartThings platform to control smart home devices, monitor real-time status, and analyze historical sensor data with room-based filtering and time-range aggregation.",
+  "source_repo": "veonua/smartthings-mcp",
+  "source_url": "https://github.com/veonua/smartthings-mcp",
+  "install": "npx -y smartthings-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pusher-mcp-server",
+  "description": "Trigger events and manage realtime messaging on Pusher.",
+  "source_repo": "crashbytes/pusher-mcp-server",
+  "source_url": "https://github.com/crashbytes/pusher-mcp-server",
+  "install": "npx -y pusher-mcp-server"
+}

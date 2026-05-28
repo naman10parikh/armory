@@ -1,0 +1,7 @@
+{
+  "name": "artchristech-fillin",
+  "description": "Searches AI-relevant content including CVEs, research papers, frontier AI news, and prediction markets to fill knowledge gaps.",
+  "source_repo": "",
+  "source_url": "https://fillin.glyphapi.dev",
+  "install": "# git clone --depth 1 https://fillin.glyphapi.dev\n# See source for mcpServers config block"
+}

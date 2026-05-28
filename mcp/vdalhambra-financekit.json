@@ -1,0 +1,7 @@
+{
+  "name": "vdalhambra-financekit",
+  "description": "Real-time stock quotes, cryptocurrency prices, and technical indicators (RSI, MACD, Bollinger Bands) with no API key for basic data.",
+  "source_repo": "vdalhambra/financekit-mcp",
+  "source_url": "https://github.com/vdalhambra/financekit-mcp",
+  "install": "npx -y financekit-mcp"
+}

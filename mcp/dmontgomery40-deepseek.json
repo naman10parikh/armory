@@ -1,0 +1,7 @@
+{
+  "name": "dmontgomery40-deepseek",
+  "description": "Integrates DeepSeek's language models, enabling AI-powered chat completions with customizable parameters for tasks like writing assistance and code generation.",
+  "source_repo": "dmontgomery40/deepseek-mcp-server",
+  "source_url": "https://github.com/dmontgomery40/deepseek-mcp-server",
+  "install": "npx -y deepseek-mcp-server"
+}

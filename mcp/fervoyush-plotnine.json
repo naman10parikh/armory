@@ -1,0 +1,7 @@
+{
+  "name": "fervoyush-plotnine",
+  "description": "Creates grammar of graphics visualizations by loading data from files, URLs, or JSON and building customizable plots with multiple geometry layers, aesthetic mappings, scales, themes, facets, and statistical transformations.",
+  "source_repo": "fervoyush/plotnine-mcp",
+  "source_url": "https://github.com/fervoyush/plotnine-mcp",
+  "install": "npx -y plotnine-mcp"
+}

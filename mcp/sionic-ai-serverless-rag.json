@@ -1,0 +1,7 @@
+{
+  "name": "sionic-ai-serverless-rag",
+  "description": "Serverless RAG implementation using FastAPI that provides flexible file upload, processing, and tool integration capabilities with a modular server architecture for dynamic resource management.",
+  "source_repo": "sionic-ai/serverless-rag-mcp-server",
+  "source_url": "https://github.com/sionic-ai/serverless-rag-mcp-server",
+  "install": "npx -y serverless-rag-mcp-server"
+}

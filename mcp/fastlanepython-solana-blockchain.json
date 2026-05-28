@@ -1,0 +1,7 @@
+{
+  "name": "fastlanepython-solana-blockchain",
+  "description": "Integrates with Solana blockchain to enable cryptocurrency operations including account management, token transfers, and smart contract interactions using secure private key handling.",
+  "source_repo": "fastlanepython/fastlanepy-mcp",
+  "source_url": "https://github.com/fastlanepython/fastlanepy-mcp",
+  "install": "npx -y fastlanepy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cursor-sound",
+  "description": "Lightweight macOS server that plays a system sound effect after code generation is complete, providing auditory feedback for developers during coding sessions.",
+  "source_repo": "yarikbuilds/sound-mcp",
+  "source_url": "https://github.com/yarikbuilds/sound-mcp",
+  "install": "npx -y sound-mcp"
+}

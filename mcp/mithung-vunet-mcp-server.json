@@ -1,0 +1,7 @@
+{
+  "name": "mithung-vunet-mcp-server",
+  "description": "Model Context Protocol (MCP) Server for Vunet vuSmartMaps - A multi-tenant observability platform integration. Query metrics, traces, logs, and data models from your Vunet tenants using natural language through AI assistants like Claude, GitHub Copilot, or any MCP-compatible client.",
+  "source_repo": "mithung-vunet/vunet-mcp-server",
+  "source_url": "https://github.com/mithung-vunet/vunet-mcp-server",
+  "install": "npx -y vunet-mcp-server"
+}

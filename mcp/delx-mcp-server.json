@@ -1,0 +1,7 @@
+{
+  "name": "delx-mcp-server",
+  "description": "Agent operations platform with 20+ tools for AI agents. Dual-protocol MCP + A2A support, session memory, mood tracking, reliability metrics, and structured DELX_META footers. Built for production agent workflows.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/delx/delx-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/delx/delx-mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "saravananjaichandar-world-model",
+  "description": "Temporal knowledge graph for codebases with constraint enforcement at edit boundaries.",
+  "source_repo": "saravananjaichandar/world-model-mcp",
+  "source_url": "https://github.com/saravananjaichandar/world-model-mcp",
+  "install": "npx -y world-model-mcp"
+}

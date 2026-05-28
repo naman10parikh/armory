@@ -1,0 +1,7 @@
+{
+  "name": "raye-deng-open-code-review",
+  "description": "AI code quality gate detecting hallucinated packages, phantom dependencies, stale APIs, and AI-specific code defects. MCP Server + CLI + CI/CD integration.",
+  "source_repo": "raye-deng/open-code-review",
+  "source_url": "https://github.com/raye-deng/open-code-review",
+  "install": "# git clone --depth 1 https://github.com/raye-deng/open-code-review\n# See source for mcpServers config block"
+}

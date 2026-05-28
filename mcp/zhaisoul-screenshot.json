@@ -1,0 +1,7 @@
+{
+  "name": "zhaisoul-screenshot",
+  "description": "Captures Windows screenshots using Windows Graphics Capture, exposing screen and window capture tools over HTTP or stdio.",
+  "source_repo": "zhaisoul/screenshot-mcp",
+  "source_url": "https://github.com/zhaisoul/screenshot-mcp",
+  "install": "npx -y screenshot-mcp"
+}

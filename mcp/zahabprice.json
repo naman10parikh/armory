@@ -1,0 +1,7 @@
+{
+  "name": "zahabprice",
+  "description": "Live gold and silver prices for 37 countries with installment calculators for Saudi Arabia.",
+  "source_repo": "",
+  "source_url": "https://www.zahabprice.com/mcp",
+  "install": "# git clone --depth 1 https://www.zahabprice.com/mcp\n# See source for mcpServers config block"
+}

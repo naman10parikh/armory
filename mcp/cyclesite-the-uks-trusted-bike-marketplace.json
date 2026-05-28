@@ -1,0 +1,7 @@
+{
+  "name": "cyclesite-the-uks-trusted-bike-marketplace",
+  "description": "MCP server for Cyclesite — UK's used-bike marketplace. Live UK inventory search, sold-price valuation from real completed sales, aggregated stolen-bike check, brand/model catalogue, plus full write-side over OAuth: publish, mark sold, message sellers, save alerts, reserve listings.",
+  "source_repo": "",
+  "source_url": "https://www.cyclesite.co.uk",
+  "install": "# git clone --depth 1 https://www.cyclesite.co.uk\n# See source for mcpServers config block"
+}

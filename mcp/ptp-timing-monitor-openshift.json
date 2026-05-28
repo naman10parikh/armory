@@ -1,0 +1,7 @@
+{
+  "name": "ptp-timing-monitor-openshift",
+  "description": "Monitors PTP timing infrastructure in OpenShift clusters through Kubernetes API integration, providing configuration retrieval, log analysis, grandmaster status monitoring, clock hierarchy examination, and ITU-T G.8275.1 compliance validation for network engineers and DevOps teams managing telecom timing protocols.",
+  "source_repo": "aneeshkp/ptp-mcp-server",
+  "source_url": "https://github.com/aneeshkp/ptp-mcp-server",
+  "install": "npx -y ptp-mcp-server"
+}

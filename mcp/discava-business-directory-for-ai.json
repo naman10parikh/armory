@@ -1,0 +1,7 @@
+{
+  "name": "discava-business-directory-for-ai",
+  "description": "Search for local businesses worldwide. Structured data optimized for AI agents. • Search Millions of businesses over 49 countries (Europe, Northamerica, Southamerica, Asia, Oceania) • Quality & demand scoring for every business • Ranking based on real user click-through data • No API key needed, fre",
+  "source_repo": "",
+  "source_url": "https://discava.ai",
+  "install": "# git clone --depth 1 https://discava.ai\n# See source for mcpServers config block"
+}

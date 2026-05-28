@@ -1,0 +1,7 @@
+{
+  "name": "cellosaurus-mcp-server",
+  "description": "Enables searching and retrieving detailed information about cell lines from the Cellosaurus knowledge resource, including disease associations, tissue origins, and genetic profiles.",
+  "source_repo": "biocontext-ai/unofficial-cellosaurus-mcp",
+  "source_url": "https://github.com/biocontext-ai/unofficial-cellosaurus-mcp",
+  "install": "npx -y unofficial-cellosaurus-mcp"
+}

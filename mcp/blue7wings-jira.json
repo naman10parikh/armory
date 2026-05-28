@@ -1,0 +1,7 @@
+{
+  "name": "blue7wings-jira",
+  "description": "Integrates with JIRA to retrieve issue descriptions and custom field data for use with language models",
+  "source_repo": "blue7wings/jira-mcp-server",
+  "source_url": "https://github.com/blue7wings/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

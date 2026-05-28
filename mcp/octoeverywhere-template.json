@@ -1,0 +1,7 @@
+{
+  "name": "octoeverywhere-template",
+  "description": "Minimal project template providing Apache License 2.0 licensing framework for open-source MCP implementations without functional code or server capabilities.",
+  "source_repo": "octoeverywhere/mcp",
+  "source_url": "https://github.com/octoeverywhere/mcp",
+  "install": "# git clone --depth 1 https://github.com/octoeverywhere/mcp\n# See source for mcpServers config block"
+}

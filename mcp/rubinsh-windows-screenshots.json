@@ -1,0 +1,7 @@
+{
+  "name": "rubinsh-windows-screenshots",
+  "description": "Provides access to Windows screenshots from WSL2 environments by automatically detecting screenshot directories and offering tools to list recent screenshots with metadata, retrieve specific files as paths or base64 content, and display configured directories.",
+  "source_repo": "rubinsh/mcp-windows-screenshots",
+  "source_url": "https://github.com/rubinsh/mcp-windows-screenshots",
+  "install": "# git clone --depth 1 https://github.com/rubinsh/mcp-windows-screenshots\n# See source for mcpServers config block"
+}

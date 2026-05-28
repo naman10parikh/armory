@@ -1,0 +1,7 @@
+{
+  "name": "secureprivacy",
+  "description": "Integrate GDPR-compliant cookie consent banners into websites",
+  "source_repo": "secureprivacy/secure-privacy-mcp",
+  "source_url": "https://github.com/secureprivacy/secure-privacy-mcp",
+  "install": "npx -y secure-privacy-mcp"
+}

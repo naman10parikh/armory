@@ -1,0 +1,7 @@
+{
+  "name": "transcript-manager-mcp",
+  "description": "Transcript Manager Mcp MCP server listed on mcp.so.",
+  "source_repo": "lmarte17/transcript-manager-mcp",
+  "source_url": "https://mcp.so/server/transcript-manager-mcp/lmarte17",
+  "install": "npx -y transcript-manager-mcp"
+}

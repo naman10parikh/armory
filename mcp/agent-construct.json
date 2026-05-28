@@ -1,0 +1,7 @@
+{
+  "name": "agent-construct",
+  "description": "Agent_construct MCP server listed on mcp.so.",
+  "source_repo": "batteryshark/agent_construct",
+  "source_url": "https://mcp.so/server/agent_construct/batteryshark",
+  "install": "# git clone --depth 1 https://mcp.so/server/agent_construct/batteryshark\n# See source for mcpServers config block"
+}

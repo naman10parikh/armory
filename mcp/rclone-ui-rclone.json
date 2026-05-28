@@ -1,0 +1,7 @@
+{
+  "name": "rclone-ui-rclone",
+  "description": "Manages cloud storage through the Rclone RC API with selectable toolsets for file operations, syncing, mounting, and more.",
+  "source_repo": "rclone-ui/rclone-mcp",
+  "source_url": "https://github.com/rclone-ui/rclone-mcp",
+  "install": "npx -y rclone-mcp"
+}

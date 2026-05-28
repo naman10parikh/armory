@@ -1,0 +1,7 @@
+{
+  "name": "engageable-tech-analytics",
+  "description": "Unified analytics engine connecting GA4, Mixpanel, and PostHog with natural language query support.",
+  "source_repo": "engageable-tech/engageable-oss",
+  "source_url": "https://github.com/engageable-tech/engageable-oss",
+  "install": "# git clone --depth 1 https://github.com/engageable-tech/engageable-oss\n# See source for mcpServers config block"
+}

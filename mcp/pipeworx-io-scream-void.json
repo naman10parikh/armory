@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-scream-void",
+  "description": "Scream into the void — it listens, and returns a number unaffected by your scream.",
+  "source_repo": "pipeworx-io/mcp-scream-void",
+  "source_url": "https://github.com/pipeworx-io/mcp-scream-void",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-scream-void\n# See source for mcpServers config block"
+}

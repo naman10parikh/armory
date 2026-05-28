@@ -1,0 +1,7 @@
+{
+  "name": "formulahendry-registry",
+  "description": "Discover and search for available MCP servers in the official registry",
+  "source_repo": "formulahendry/mcp-server-mcp-registry",
+  "source_url": "https://github.com/formulahendry/mcp-server-mcp-registry",
+  "install": "# git clone --depth 1 https://github.com/formulahendry/mcp-server-mcp-registry\n# See source for mcpServers config block"
+}

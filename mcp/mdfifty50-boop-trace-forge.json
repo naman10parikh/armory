@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-trace-forge",
+  "description": "Structured execution trace and span logging for AI agent workflows.",
+  "source_repo": "mdfifty50-boop/trace-forge-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/trace-forge-mcp",
+  "install": "npx -y trace-forge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erodenn-fetch-guard",
+  "description": "URL fetcher and HTML-to-markdown converter with three-layer prompt injection defense: pre-extraction sanitization of hidden/off-screen elements and non-printing Unicode, 15-pattern risk scanning (HIGH/MEDIUM/OK), and per-request session-salt content boundary wrapping.",
+  "source_repo": "Erodenn/fetch-guard",
+  "source_url": "https://github.com/Erodenn/fetch-guard",
+  "install": "# git clone --depth 1 https://github.com/Erodenn/fetch-guard\n# See source for mcpServers config block"
+}

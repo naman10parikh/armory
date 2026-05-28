@@ -1,0 +1,7 @@
+{
+  "name": "localizable-xcstrings",
+  "description": "Manages iOS/macOS localization workflows with Xcode String Catalog files, providing automated translation using OpenAI with intelligent chunking, batch processing, and placeholder preservation for multi-language app development.",
+  "source_repo": "iamnotagentleman/localizable-xcstrings-mcp",
+  "source_url": "https://github.com/iamnotagentleman/localizable-xcstrings-mcp",
+  "install": "npx -y localizable-xcstrings-mcp"
+}

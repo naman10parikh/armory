@@ -1,0 +1,7 @@
+{
+  "name": "phodal-remodern-java",
+  "description": "Provides Java legacy modernization tools including AST-based code generation, template-driven generation, source code parsing, JSP analysis, bytecode analysis, and OpenRewrite integration for automated refactoring and migration workflows.",
+  "source_repo": "archlift/remodern-java",
+  "source_url": "https://github.com/archlift/remodern-java/tree/HEAD/remodern-java",
+  "install": "# git clone --depth 1 https://github.com/archlift/remodern-java/tree/HEAD/remodern-java\n# See source for mcpServers config block"
+}

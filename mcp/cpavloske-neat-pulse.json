@@ -1,0 +1,7 @@
+{
+  "name": "cpavloske-neat-pulse",
+  "description": "Manages Neat video conferencing devices, sensor data, rooms, and organization settings through the Neat Pulse REST API.",
+  "source_repo": "cpavloske/neat-pulse-mcp-server",
+  "source_url": "https://github.com/cpavloske/neat-pulse-mcp-server",
+  "install": "npx -y neat-pulse-mcp-server"
+}

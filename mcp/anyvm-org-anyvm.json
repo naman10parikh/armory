@@ -1,0 +1,7 @@
+{
+  "name": "anyvm-org-anyvm",
+  "description": "Controls BSD and Illumos VMs using natural language commands.",
+  "source_repo": "anyvm-org/mcp",
+  "source_url": "https://github.com/anyvm-org/mcp",
+  "install": "# git clone --depth 1 https://github.com/anyvm-org/mcp\n# See source for mcpServers config block"
+}

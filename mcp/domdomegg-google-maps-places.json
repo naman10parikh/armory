@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-google-maps-places",
+  "description": "Search for places and retrieve business information and photos via Google Maps Places API",
+  "source_repo": "domdomegg/google-maps-places-mcp",
+  "source_url": "https://github.com/domdomegg/google-maps-places-mcp",
+  "install": "npx -y google-maps-places-mcp"
+}

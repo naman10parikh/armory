@@ -1,0 +1,7 @@
+{
+  "name": "hampsterx-claude-code-bridge",
+  "description": "Wraps the Claude Code CLI as an MCP server for query, review, search, and structured output tools.",
+  "source_repo": "hampsterx/claude-mcp-bridge",
+  "source_url": "https://github.com/hampsterx/claude-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/hampsterx/claude-mcp-bridge\n# See source for mcpServers config block"
+}

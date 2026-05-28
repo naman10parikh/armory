@@ -1,0 +1,7 @@
+{
+  "name": "cryptorugmunch-rug-munch",
+  "description": "Crypto token risk analysis with rug pull detection, honeypot scoring, deployer tracking, and social OSINT across 19 specialized tools.",
+  "source_repo": "marcus-rug-intel/rug-munch-mcp",
+  "source_url": "https://github.com/marcus-rug-intel/rug-munch-mcp",
+  "install": "npx -y rug-munch-mcp"
+}

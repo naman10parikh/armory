@@ -1,0 +1,7 @@
+{
+  "name": "super-shell",
+  "description": "Enables secure execution of shell commands across Windows, macOS, and Linux with a three-tier whitelist security model for controlled system access.",
+  "source_repo": "cfdude/super-shell-mcp",
+  "source_url": "https://github.com/cfdude/super-shell-mcp",
+  "install": "npx -y super-shell-mcp"
+}

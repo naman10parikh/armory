@@ -1,0 +1,7 @@
+{
+  "name": "findme-photo",
+  "description": "Create wedding galleries, upload photos, and pull analytics on FindMe Photo from any AI assistant.",
+  "source_repo": "findmephoto/findme-mcp",
+  "source_url": "https://github.com/findmephoto/findme-mcp",
+  "install": "npx -y findme-mcp"
+}

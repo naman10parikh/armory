@@ -1,0 +1,7 @@
+{
+  "name": "tonytranrp-cheat-engine",
+  "description": "Native Cheat Engine plugin bridge with 210 tools for process attachment, memory access, pointer chains, scans, Lua scripting, and cheat table management.",
+  "source_repo": "tonytranrp/cheat-engine-mcp",
+  "source_url": "https://github.com/tonytranrp/cheat-engine-mcp",
+  "install": "npx -y cheat-engine-mcp"
+}

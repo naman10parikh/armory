@@ -1,0 +1,7 @@
+{
+  "name": "piekstra-slack",
+  "description": "Integrates with Slack Web API to provide complete workspace management including channel operations, messaging, file uploads, reactions, user management, and rich Block Kit message formatting with secure credential storage.",
+  "source_repo": "piekstra/slack-mcp-server",
+  "source_url": "https://github.com/piekstra/slack-mcp-server",
+  "install": "npx -y slack-mcp-server"
+}

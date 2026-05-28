@@ -1,0 +1,7 @@
+{
+  "name": "sse-mcp-server",
+  "description": "Sse Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "champierre/sse-mcp-server",
+  "source_url": "https://mcp.so/server/sse-mcp-server/champierre",
+  "install": "npx -y sse-mcp-server"
+}

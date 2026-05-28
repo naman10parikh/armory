@@ -1,0 +1,7 @@
+{
+  "name": "kaleidoscope",
+  "description": "MCP server for responsive web app preview and inspection. It allows previewing URLs on multiple device profiles, capturing screenshots, recording walkthroughs, and inspecting local pages with MCP clients.",
+  "source_repo": "Nathanael-R/kaleidoscope",
+  "source_url": "https://github.com/Nathanael-R/kaleidoscope",
+  "install": "# git clone --depth 1 https://github.com/Nathanael-R/kaleidoscope\n# See source for mcpServers config block"
+}

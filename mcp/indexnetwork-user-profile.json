@@ -1,0 +1,7 @@
+{
+  "name": "indexnetwork-user-profile",
+  "description": "Stores user preferences, display names, pronouns, and notes in volatile memory with explicit consent validation, enabling personalized interactions without persistent data retention.",
+  "source_repo": "indexnetwork/mcp",
+  "source_url": "https://github.com/indexnetwork/mcp",
+  "install": "# git clone --depth 1 https://github.com/indexnetwork/mcp\n# See source for mcpServers config block"
+}

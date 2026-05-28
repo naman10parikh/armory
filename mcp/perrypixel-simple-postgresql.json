@@ -1,0 +1,7 @@
+{
+  "name": "perrypixel-simple-postgresql",
+  "description": "Provides direct SQL query execution against PostgreSQL databases with configurable read-only and write operation modes, connection pooling, and built-in query validation for database analysis and administrative tasks.",
+  "source_repo": "perrypixel/easy-postgres-mcp",
+  "source_url": "https://github.com/perrypixel/easy-postgres-mcp",
+  "install": "npx -y easy-postgres-mcp"
+}

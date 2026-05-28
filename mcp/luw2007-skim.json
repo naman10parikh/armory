@@ -1,0 +1,7 @@
+{
+  "name": "luw2007-skim",
+  "description": "Code compression tool that reduces code size 60-95% for LLM context optimization",
+  "source_repo": "luw2007/skim-mcp",
+  "source_url": "https://github.com/luw2007/skim-mcp",
+  "install": "npx -y skim-mcp"
+}

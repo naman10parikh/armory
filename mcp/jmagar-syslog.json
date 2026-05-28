@@ -1,0 +1,7 @@
+{
+  "name": "jmagar-syslog",
+  "description": "Self-hosted syslog receiver and MCP server for homelab log intelligence and analysis.",
+  "source_repo": "jmagar/syslog-mcp",
+  "source_url": "https://github.com/jmagar/syslog-mcp",
+  "install": "npx -y syslog-mcp"
+}

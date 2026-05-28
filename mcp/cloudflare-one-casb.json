@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-one-casb",
+  "description": "CASB provides comprehensive visibility and control over your SaaS applications, so you can easily eliminate the risk of compromise, prevent data loss, and avoid compliance violations.",
+  "source_repo": "cloudflare/mcp-server-cloudflare",
+  "source_url": "https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/cloudflare-one-casb",
+  "install": "# git clone --depth 1 https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/cloudflare-one-casb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pzfreo-build123d",
+  "description": "AI-driven 3D CAD via build123d — execute, render, measure, and export geometry interactively.",
+  "source_repo": "pzfreo/build123d-mcp",
+  "source_url": "https://github.com/pzfreo/build123d-mcp",
+  "install": "npx -y build123d-mcp"
+}

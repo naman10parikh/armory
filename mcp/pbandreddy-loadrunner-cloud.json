@@ -1,0 +1,7 @@
+{
+  "name": "pbandreddy-loadrunner-cloud",
+  "description": "Integrates with LoadRunner Cloud's performance testing platform to manage load tests, analyze performance data, and monitor test executions with OAuth authentication and comprehensive error handling for DevOps teams running automated testing pipelines.",
+  "source_repo": "pbandreddy/loadrunner-cloud-mcp-server",
+  "source_url": "https://github.com/pbandreddy/loadrunner-cloud-mcp-server",
+  "install": "npx -y loadrunner-cloud-mcp-server"
+}

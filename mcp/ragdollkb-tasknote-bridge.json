@@ -1,0 +1,7 @@
+{
+  "name": "ragdollkb-tasknote-bridge",
+  "description": "Integrates with Things 3 and Apple Notes through native macOS APIs and URL schemes to enable task creation, project management, note operations, and productivity workflow automation.",
+  "source_repo": "ragdollkb/tasknote-bridge-mcp",
+  "source_url": "https://github.com/ragdollkb/tasknote-bridge-mcp",
+  "install": "npx -y tasknote-bridge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "victoriametrics-vmanomaly",
+  "description": "VictoriaMetrics anomaly detection for time series data",
+  "source_repo": "victoriametrics/mcp-vmanomaly",
+  "source_url": "https://github.com/victoriametrics/mcp-vmanomaly",
+  "install": "# git clone --depth 1 https://github.com/victoriametrics/mcp-vmanomaly\n# See source for mcpServers config block"
+}

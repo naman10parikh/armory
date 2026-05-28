@@ -1,0 +1,7 @@
+{
+  "name": "udhaykumarbala-gemini-image-studio",
+  "description": "Generates and edits images using Google Gemini with structured JSON editing for precise control.",
+  "source_repo": "udhaykumarbala/gemini-image-studio-mcp",
+  "source_url": "https://github.com/udhaykumarbala/gemini-image-studio-mcp",
+  "install": "npx -y gemini-image-studio-mcp"
+}

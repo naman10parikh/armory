@@ -1,0 +1,7 @@
+{
+  "name": "shahraj91-log-analysis",
+  "description": "Analyzes log files with level aggregation, error clustering, and graph generation using deterministic signal extraction.",
+  "source_repo": "shahraj91/log-mcp-agentic-analysis",
+  "source_url": "https://github.com/shahraj91/log-mcp-agentic-analysis",
+  "install": "# git clone --depth 1 https://github.com/shahraj91/log-mcp-agentic-analysis\n# See source for mcpServers config block"
+}

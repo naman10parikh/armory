@@ -1,0 +1,7 @@
+{
+  "name": "mcp-trends-hub",
+  "description": "Mcp Trends Hub MCP server listed on mcp.so.",
+  "source_repo": "baranwang/mcp-trends-hub",
+  "source_url": "https://mcp.so/server/mcp-trends-hub/baranwang",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-trends-hub/baranwang\n# See source for mcpServers config block"
+}

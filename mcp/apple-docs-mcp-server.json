@@ -1,0 +1,7 @@
+{
+  "name": "apple-docs-mcp-server",
+  "description": "Search and retrieve information from Apple's complete developer documentation, including API references, code examples, and Human Interface Guidelines, across all Apple platforms and versions.",
+  "source_repo": "bbssppllvv/apple-docs-mcp-server",
+  "source_url": "https://github.com/bbssppllvv/apple-docs-mcp-server",
+  "install": "npx -y apple-docs-mcp-server"
+}

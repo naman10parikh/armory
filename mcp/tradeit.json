@@ -1,0 +1,7 @@
+{
+  "name": "tradeit",
+  "description": "Execute stock, crypto, and options trades through natural language commands",
+  "source_repo": "trade-it-inc/trade-it-mcp",
+  "source_url": "https://github.com/trade-it-inc/trade-it-mcp",
+  "install": "npx -y trade-it-mcp"
+}

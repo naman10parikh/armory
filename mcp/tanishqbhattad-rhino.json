@@ -1,0 +1,7 @@
+{
+  "name": "tanishqbhattad-rhino",
+  "description": "Controls Rhino 8 3D modeling software through AI assistants using 32 tools for geometry creation, scene management, and scripting.",
+  "source_repo": "tanishqbhattad/rhino-mcp",
+  "source_url": "https://github.com/tanishqbhattad/rhino-mcp",
+  "install": "npx -y rhino-mcp"
+}

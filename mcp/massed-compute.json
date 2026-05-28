@@ -1,0 +1,7 @@
+{
+  "name": "massed-compute",
+  "description": "Browse GPU inventory, launch VMs, manage SSH keys, and audit billing on Massed Compute.",
+  "source_repo": "massed-compute/massed-compute-mcp",
+  "source_url": "https://github.com/massed-compute/massed-compute-mcp",
+  "install": "npx -y massed-compute-mcp"
+}

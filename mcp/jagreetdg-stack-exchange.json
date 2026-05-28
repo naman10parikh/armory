@@ -1,0 +1,7 @@
+{
+  "name": "jagreetdg-stack-exchange",
+  "description": "Provides a bridge to Stack Exchange sites for searching and retrieving questions, answers, and tags with efficient caching and rate limiting for seamless technical information access.",
+  "source_repo": "jagreetdg/re-stack-mcp",
+  "source_url": "https://github.com/jagreetdg/re-stack-mcp",
+  "install": "npx -y re-stack-mcp"
+}

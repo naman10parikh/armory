@@ -1,0 +1,7 @@
+{
+  "name": "aliengiraffe-spotdb",
+  "description": "Provides direct access to an ephemeral DuckDB instance for CSV file uploads, SQL query execution, and database snapshots through a lightweight Go-based server with WebSocket support and S3 integration for temporary data analysis workflows.",
+  "source_repo": "aliengiraffe/spotdb",
+  "source_url": "https://github.com/aliengiraffe/spotdb",
+  "install": "# git clone --depth 1 https://github.com/aliengiraffe/spotdb\n# See source for mcpServers config block"
+}

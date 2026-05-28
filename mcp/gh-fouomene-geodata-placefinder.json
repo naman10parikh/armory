@@ -1,0 +1,7 @@
+{
+  "name": "gh-fouomene-geodata-placefinder",
+  "description": "Search places, reverse geocode, and find nearby locations via MCP.",
+  "source_repo": "fouomene/geodataplacefinder",
+  "source_url": "https://github.com/fouomene/geodataplacefinder/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/fouomene/geodataplacefinder/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

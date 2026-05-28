@@ -1,0 +1,7 @@
+{
+  "name": "configcat",
+  "description": "Feature flag and configuration management with CRUD operations, rollouts, A/B tests, and SDK documentation",
+  "source_repo": "configcat/mcp-server",
+  "source_url": "https://github.com/configcat/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/configcat/mcp-server\n# See source for mcpServers config block"
+}

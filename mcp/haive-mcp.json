@@ -1,0 +1,7 @@
+{
+  "name": "haive-mcp",
+  "description": "Enforces team knowledge and workflow policies for AI coding agents by providing context, decisions, and gates before code changes are made.",
+  "source_repo": "Doucs91/hAIve",
+  "source_url": "https://github.com/Doucs91/hAIve",
+  "install": "# git clone --depth 1 https://github.com/Doucs91/hAIve\n# See source for mcpServers config block"
+}

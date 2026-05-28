@@ -1,0 +1,7 @@
+{
+  "name": "downatthebottomofthemolehole-infracost",
+  "description": "Integrates with the Infracost CLI to estimate, compare, and publish cloud infrastructure cost changes from Terraform and Infrastructure as Code projects.",
+  "source_repo": "downatthebottomofthemolehole/infracost-mcp",
+  "source_url": "https://github.com/downatthebottomofthemolehole/infracost-mcp",
+  "install": "npx -y infracost-mcp"
+}

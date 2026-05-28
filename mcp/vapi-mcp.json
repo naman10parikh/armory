@@ -1,0 +1,7 @@
+{
+  "name": "vapi-mcp",
+  "description": "Vapi Mcp MCP server listed on mcp.so.",
+  "source_repo": "matthewdcage/vapi-mcp",
+  "source_url": "https://mcp.so/server/vapi-mcp/matthewdcage",
+  "install": "npx -y vapi-mcp"
+}

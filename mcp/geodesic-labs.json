@@ -1,0 +1,7 @@
+{
+  "name": "geodesic-labs",
+  "description": "Deterministic AI governance: validates outputs, discovers patterns, and solves math problems.",
+  "source_repo": "",
+  "source_url": "https://app.geodesiclabs.ai/mcp",
+  "install": "# git clone --depth 1 https://app.geodesiclabs.ai/mcp\n# See source for mcpServers config block"
+}

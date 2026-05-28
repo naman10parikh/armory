@@ -1,0 +1,7 @@
+{
+  "name": "run402",
+  "description": "Provision and manage AI-native Postgres databases with REST API, auth, storage, and static site hosting via x402 micropayments.",
+  "source_repo": "kychee-com/run402",
+  "source_url": "https://github.com/kychee-com/run402",
+  "install": "# git clone --depth 1 https://github.com/kychee-com/run402\n# See source for mcpServers config block"
+}

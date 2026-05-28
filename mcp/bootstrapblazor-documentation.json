@@ -1,0 +1,7 @@
+{
+  "name": "bootstrapblazor-documentation",
+  "description": "Provides access to BootstrapBlazor component documentation and source code through automated Git repository management, enabling developers to retrieve component listings, file structures, and implementation details for Blazor application development.",
+  "source_repo": "bootstrapblazor/bootstrapblazor.mcpserver",
+  "source_url": "https://github.com/bootstrapblazor/bootstrapblazor.mcpserver",
+  "install": "# git clone --depth 1 https://github.com/bootstrapblazor/bootstrapblazor.mcpserver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inspector-apm",
+  "description": "Integrates with Inspector APM to provide direct access to production errors, transaction performance data, and detailed execution timelines for debugging and performance analysis.",
+  "source_repo": "inspector-apm/mcp-server",
+  "source_url": "https://github.com/inspector-apm/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/inspector-apm/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canvrno-proxmox",
+  "description": "Integrates with Proxmox virtualization environments to enable monitoring and management of virtual machines, containers, storage pools, and cluster resources through token-based authentication and structured API commands.",
+  "source_repo": "canvrno/proxmoxmcp",
+  "source_url": "https://github.com/canvrno/proxmoxmcp",
+  "install": "# git clone --depth 1 https://github.com/canvrno/proxmoxmcp\n# See source for mcpServers config block"
+}

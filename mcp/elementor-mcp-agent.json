@@ -1,0 +1,7 @@
+{
+  "name": "elementor-mcp-agent",
+  "description": "Agency-grade MCP server for WordPress Elementor — multi-site management for 120+ WordPress sites with safe edits (backup + auto-rollback + post-write verification), template export/import, global widget detection, CSS flush, WP-CLI escape hatch, and headless Chrome screenshots. 34 tools across pages",
+  "source_repo": "Mogacode-ma/elementor-mcp-agent",
+  "source_url": "https://github.com/Mogacode-ma/elementor-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/Mogacode-ma/elementor-mcp-agent\n# See source for mcpServers config block"
+}

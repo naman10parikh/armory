@@ -1,0 +1,7 @@
+{
+  "name": "freminder-esg-data",
+  "description": "Extracts and analyzes ESG data with tools for ESRS-aligned metrics, PDF processing, vector search, and EU regulation analysis.",
+  "source_repo": "freminder/esg-mcp-servers",
+  "source_url": "https://github.com/freminder/esg-mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/freminder/esg-mcp-servers\n# See source for mcpServers config block"
+}

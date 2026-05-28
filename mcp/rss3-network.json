@@ -1,0 +1,7 @@
+{
+  "name": "rss3-network",
+  "description": "Integrates with RSS3 API to enable querying data across decentralized chains, social media platforms, and the RSS3 network for real-time open web data access within conversations.",
+  "source_repo": "rss3-network/mcp-server-rss3",
+  "source_url": "https://github.com/rss3-network/mcp-server-rss3",
+  "install": "# git clone --depth 1 https://github.com/rss3-network/mcp-server-rss3\n# See source for mcpServers config block"
+}

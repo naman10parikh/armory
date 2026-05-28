@@ -1,0 +1,7 @@
+{
+  "name": "hug0x0-reunion",
+  "description": "Accesses La Réunion regional open data through 99 tools across 22 topic modules.",
+  "source_repo": "hug0x0/mcp-reunion",
+  "source_url": "https://github.com/hug0x0/mcp-reunion",
+  "install": "# git clone --depth 1 https://github.com/hug0x0/mcp-reunion\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "luigiajah-yfinance-trader",
+  "description": "Provides real-time stock market data and trading capabilities using yfinance, offering tools for quotes, company information, historical prices, symbol search, analyst recommendations, and insider transactions.",
+  "source_repo": "luigiajah/mcp-stocks",
+  "source_url": "https://github.com/luigiajah/mcp-stocks",
+  "install": "# git clone --depth 1 https://github.com/luigiajah/mcp-stocks\n# See source for mcpServers config block"
+}

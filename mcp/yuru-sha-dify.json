@@ -1,0 +1,7 @@
+{
+  "name": "yuru-sha-dify",
+  "description": "Integrates with Dify AI's chat completion API to enable natural language interactions, offering tools for restaurant recommendations and supporting conversation context and streaming responses.",
+  "source_repo": "yuru-sha/mcp-server-dify",
+  "source_url": "https://github.com/yuru-sha/mcp-server-dify",
+  "install": "# git clone --depth 1 https://github.com/yuru-sha/mcp-server-dify\n# See source for mcpServers config block"
+}

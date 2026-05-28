@@ -1,0 +1,7 @@
+{
+  "name": "rcortezti-jira-service-management",
+  "description": "Integrates with Atlassian JIRA through REST API to provide issue creation, customer request management, comment addition, and administrative functions with Docker containerization and web dashboard monitoring.",
+  "source_repo": "rcortezti/mcp-jsm",
+  "source_url": "https://github.com/rcortezti/mcp-jsm",
+  "install": "# git clone --depth 1 https://github.com/rcortezti/mcp-jsm\n# See source for mcpServers config block"
+}

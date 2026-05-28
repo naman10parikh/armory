@@ -1,0 +1,7 @@
+{
+  "name": "morristai-iceberg",
+  "description": "Provides AI access to Apache Iceberg catalogs with tools for exploring namespaces, tables, schemas, properties, and partitions in data lakes without complex catalog code.",
+  "source_repo": "morristai/iceberg-mcp",
+  "source_url": "https://github.com/morristai/iceberg-mcp",
+  "install": "npx -y iceberg-mcp"
+}

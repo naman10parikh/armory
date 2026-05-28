@@ -1,0 +1,7 @@
+{
+  "name": "forgemeshlabs-affiliate-router",
+  "description": "Vendor-neutral payment and affiliate routing for agent-callable tools via x402 and adapter-based splits.",
+  "source_repo": "forgemeshlabs/affiliate-router-mcp",
+  "source_url": "https://github.com/forgemeshlabs/affiliate-router-mcp",
+  "install": "npx -y affiliate-router-mcp"
+}

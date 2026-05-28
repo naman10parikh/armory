@@ -1,0 +1,7 @@
+{
+  "name": "bonsai-japan-road-traffic-law",
+  "description": "Provides real-time access to Japan's Road Traffic Law via the e-Gov API with tools for article lookup and citation verification.",
+  "source_repo": "bonsai/road-traffic-law-mcp",
+  "source_url": "https://github.com/bonsai/road-traffic-law-mcp",
+  "install": "npx -y road-traffic-law-mcp"
+}

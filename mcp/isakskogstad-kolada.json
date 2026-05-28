@@ -1,0 +1,7 @@
+{
+  "name": "isakskogstad-kolada",
+  "description": "Access Swedish municipality statistics and KPIs for all 290 municipalities and 21 regions",
+  "source_repo": "isakskogstad/kolada-mcp",
+  "source_url": "https://github.com/isakskogstad/kolada-mcp",
+  "install": "npx -y kolada-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-blockchair",
+  "description": "Queries multi-chain blockchain data for Bitcoin, Ethereum, and 12 other chains.",
+  "source_repo": "pipeworx-io/mcp-blockchair",
+  "source_url": "https://github.com/pipeworx-io/mcp-blockchair",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-blockchair\n# See source for mcpServers config block"
+}

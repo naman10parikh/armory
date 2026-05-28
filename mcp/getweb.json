@@ -1,0 +1,7 @@
+{
+  "name": "getweb",
+  "description": "Integrates DuckDuckGo, Google Search, Felo AI, and Jina Reader APIs to provide web search, content extraction, and HTML-to-Markdown conversion with caching, user agent rotation, and configurable text filtering for reliable web research and information retrieval.",
+  "source_repo": "ivan-mezentsev/mcp-getweb",
+  "source_url": "https://github.com/ivan-mezentsev/mcp-getweb",
+  "install": "# git clone --depth 1 https://github.com/ivan-mezentsev/mcp-getweb\n# See source for mcpServers config block"
+}

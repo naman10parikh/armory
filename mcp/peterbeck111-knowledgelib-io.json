@@ -1,0 +1,7 @@
+{
+  "name": "peterbeck111-knowledgelib-io",
+  "description": "Search 1,500+ pre-verified, cited knowledge units across 16 domains. 6 tools: query, batch query, get unit, list domains, suggest topics, report issues. Confidence scores, source provenance, and freshness tracking. Free, no API key required.",
+  "source_repo": "peterbeck111/knowledgelib-io",
+  "source_url": "https://github.com/peterbeck111/knowledgelib-io",
+  "install": "# git clone --depth 1 https://github.com/peterbeck111/knowledgelib-io\n# See source for mcpServers config block"
+}

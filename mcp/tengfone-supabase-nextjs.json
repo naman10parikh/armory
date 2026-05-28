@@ -1,0 +1,7 @@
+{
+  "name": "tengfone-supabase-nextjs",
+  "description": "Integrates with Supabase to provide a notes system with creation, listing, and summarization capabilities for applications requiring structured note-taking functionality.",
+  "source_repo": "tengfone/supabase-nextjs-mcp-server",
+  "source_url": "https://github.com/tengfone/supabase-nextjs-mcp-server",
+  "install": "npx -y supabase-nextjs-mcp-server"
+}

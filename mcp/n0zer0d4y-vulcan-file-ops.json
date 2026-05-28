@@ -1,0 +1,7 @@
+{
+  "name": "n0zer0d4y-vulcan-file-ops",
+  "description": "Security-centric filesystem operations with enterprise-grade access controls and CVE protection",
+  "source_repo": "n0zer0d4y/vulcan-file-ops",
+  "source_url": "https://github.com/n0zer0d4y/vulcan-file-ops",
+  "install": "# git clone --depth 1 https://github.com/n0zer0d4y/vulcan-file-ops\n# See source for mcpServers config block"
+}

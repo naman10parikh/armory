@@ -1,0 +1,7 @@
+{
+  "name": "chu2bard-termlink",
+  "description": "Secure terminal and filesystem access with configurable command filtering, file operations, and system monitoring.",
+  "source_repo": "chu2bard/termlink",
+  "source_url": "https://github.com/chu2bard/termlink",
+  "install": "# git clone --depth 1 https://github.com/chu2bard/termlink\n# See source for mcpServers config block"
+}

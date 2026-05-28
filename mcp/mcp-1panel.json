@@ -1,0 +1,7 @@
+{
+  "name": "mcp-1panel",
+  "description": "Mcp 1panel MCP server listed on mcp.so.",
+  "source_repo": "1Panel-dev/mcp-1panel",
+  "source_url": "https://mcp.so/server/mcp-1panel/1Panel-dev",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-1panel/1Panel-dev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "opencv-mcp-server",
+  "description": "Provides OpenCV computer vision capabilities for AI assistants, enabling image processing, object detection, face detection, and video analysis through natural language.",
+  "source_repo": "GongRzhe/opencv-mcp-server",
+  "source_url": "https://github.com/GongRzhe/opencv-mcp-server",
+  "install": "npx -y opencv-mcp-server"
+}

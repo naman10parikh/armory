@@ -1,0 +1,7 @@
+{
+  "name": "ynab-mcp-server-2",
+  "description": "Exposes YNAB API endpoints as MCP tools, allowing AI assistants to manage budgets, accounts, transactions, and more through natural language.",
+  "source_repo": "rgarcia/ynab-mcp-server",
+  "source_url": "https://github.com/rgarcia/ynab-mcp-server",
+  "install": "npx -y ynab-mcp-server"
+}

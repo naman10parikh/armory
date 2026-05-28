@@ -1,0 +1,7 @@
+{
+  "name": "freshsk-onenote-graph",
+  "description": "Integrates with Microsoft OneNote through the Graph API to read and create notebooks, sections, and pages with automatic Azure AD authentication and token caching.",
+  "source_repo": "freshsk/mcp_onenote",
+  "source_url": "https://github.com/freshsk/mcp_onenote",
+  "install": "# git clone --depth 1 https://github.com/freshsk/mcp_onenote\n# See source for mcpServers config block"
+}

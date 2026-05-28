@@ -1,0 +1,7 @@
+{
+  "name": "memory-vault",
+  "description": "Self-hosted AI memory layer with hybrid semantic and keyword search, backed by Postgres and pgvector.",
+  "source_repo": "mihaibuilds/memory-vault",
+  "source_url": "https://github.com/mihaibuilds/memory-vault",
+  "install": "# git clone --depth 1 https://github.com/mihaibuilds/memory-vault\n# See source for mcpServers config block"
+}

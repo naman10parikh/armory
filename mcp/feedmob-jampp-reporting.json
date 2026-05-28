@@ -1,0 +1,7 @@
+{
+  "name": "feedmob-jampp-reporting",
+  "description": "Integrates with Jampp Reporting API to retrieve advertising campaign performance metrics including spend, impressions, clicks, and installs across specified date ranges with automated authentication handling.",
+  "source_repo": "feed-mob/fm-mcp-servers",
+  "source_url": "https://github.com/feed-mob/fm-mcp-servers/tree/HEAD/src/jampp-reporting",
+  "install": "# git clone --depth 1 https://github.com/feed-mob/fm-mcp-servers/tree/HEAD/src/jampp-reporting\n# See source for mcpServers config block"
+}

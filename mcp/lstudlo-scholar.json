@@ -1,0 +1,7 @@
+{
+  "name": "lstudlo-scholar",
+  "description": "Academic research server integrating Google Scholar, OpenAlex, Crossref, and Semantic Scholar for federated paper search, PDF ingestion, citation management, and manuscript validation.",
+  "source_repo": "lstudlo/scholarmcp",
+  "source_url": "https://github.com/lstudlo/scholarmcp",
+  "install": "# git clone --depth 1 https://github.com/lstudlo/scholarmcp\n# See source for mcpServers config block"
+}

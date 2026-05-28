@@ -1,0 +1,7 @@
+{
+  "name": "agenticdecks-deckrun-mcp",
+  "description": "Generate presentation PDFs, narrated videos, and MP3 audio from Markdown. Free tier requires no API key or local install — add a URL to your IDE config and start generating. Paid tier adds video, audio, async jobs, and account tools.",
+  "source_repo": "agenticdecks/deckrun-mcp",
+  "source_url": "https://github.com/agenticdecks/deckrun-mcp",
+  "install": "npx -y deckrun-mcp"
+}

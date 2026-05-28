@@ -1,0 +1,7 @@
+{
+  "name": "thegridwork-license",
+  "description": "Scan project dependencies for license compliance: copyleft conflicts, unknown licenses, and risk.",
+  "source_repo": "thegridwork/license",
+  "source_url": "https://github.com/thegridwork/license",
+  "install": "# git clone --depth 1 https://github.com/thegridwork/license\n# See source for mcpServers config block"
+}

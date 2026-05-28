@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-mts-exolve",
+  "description": "Integrates with MTS Exolve for SMS sending, status checks, and voice calls.",
+  "source_repo": "theyahia/mts-exolve-mcp",
+  "source_url": "https://github.com/theyahia/mts-exolve-mcp",
+  "install": "npx -y mts-exolve-mcp"
+}

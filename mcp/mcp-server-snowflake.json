@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-snowflake",
+  "description": "Mcp Server Snowflake MCP server listed on mcp.so.",
+  "source_repo": "dynamike/mcp-server-snowflake",
+  "source_url": "https://mcp.so/server/mcp-server-snowflake/dynamike",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-snowflake/dynamike\n# See source for mcpServers config block"
+}

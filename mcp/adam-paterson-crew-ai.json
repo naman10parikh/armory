@@ -1,0 +1,7 @@
+{
+  "name": "adam-paterson-crew-ai",
+  "description": "Lightweight Python server for dynamically loading CrewAI multi-agent workflows from YAML configurations, enabling flexible task orchestration with minimal custom code and seamless tool integration.",
+  "source_repo": "adam-paterson/mcp-crew-ai",
+  "source_url": "https://github.com/adam-paterson/mcp-crew-ai",
+  "install": "# git clone --depth 1 https://github.com/adam-paterson/mcp-crew-ai\n# See source for mcpServers config block"
+}

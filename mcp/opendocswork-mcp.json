@@ -1,0 +1,7 @@
+{
+  "name": "opendocswork-mcp",
+  "description": "Rust-native MCP server for Office document processing (Excel, Word, PowerPoint) enabling sub-millisecond, local-first document manipulation and export to PDF.",
+  "source_repo": "Aimino-Tech/opendocswork-mcp",
+  "source_url": "https://github.com/Aimino-Tech/opendocswork-mcp",
+  "install": "npx -y opendocswork-mcp"
+}

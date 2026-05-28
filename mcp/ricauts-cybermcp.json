@@ -1,0 +1,7 @@
+{
+  "name": "ricauts-cybermcp",
+  "description": "Provides API security testing tools for authentication testing, SQL injection detection, data leakage analysis, and vulnerability scanning with detailed severity ratings and remediation recommendations.",
+  "source_repo": "ricauts/cybermcp",
+  "source_url": "https://github.com/ricauts/cybermcp",
+  "install": "# git clone --depth 1 https://github.com/ricauts/cybermcp\n# See source for mcpServers config block"
+}

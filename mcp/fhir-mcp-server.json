@@ -1,0 +1,7 @@
+{
+  "name": "fhir-mcp-server",
+  "description": "A comprehensive MCP server that bridges AI applications with FHIR healthcare data systems, enabling patient data access, clinical data retrieval, and data quality assessment.",
+  "source_repo": "jcafazzo/fhir-mcp",
+  "source_url": "https://github.com/jcafazzo/fhir-mcp",
+  "install": "npx -y fhir-mcp"
+}

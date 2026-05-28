@@ -1,0 +1,7 @@
+{
+  "name": "arvo-mcp-server",
+  "description": "Connects AI assistants to Arvo fitness coach for tracking workouts, PRs, body progress, and training splits through natural conversation.",
+  "source_repo": "khaoss85/arvo-mcp",
+  "source_url": "https://github.com/khaoss85/arvo-mcp",
+  "install": "npx -y arvo-mcp"
+}

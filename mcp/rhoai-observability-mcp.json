@@ -1,0 +1,7 @@
+{
+  "name": "rhoai-observability-mcp",
+  "description": "Provides AI assistants with direct access to Red Hat OpenShift AI observability data, enabling querying of Prometheus metrics, Alertmanager alerts, Loki logs, Grafana dashboards, and Kubernetes cluster state to troubleshoot vLLM inference workloads.",
+  "source_repo": "opendatahub-io/rhoai-observability-mcp",
+  "source_url": "https://github.com/opendatahub-io/rhoai-observability-mcp",
+  "install": "npx -y rhoai-observability-mcp"
+}

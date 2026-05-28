@@ -1,0 +1,7 @@
+{
+  "name": "mcp-generate-images",
+  "description": "Mcp_generate_images MCP server listed on mcp.so.",
+  "source_repo": "chenyeju295/mcp_generate_images",
+  "source_url": "https://mcp.so/server/mcp_generate_images/chenyeju295",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_generate_images/chenyeju295\n# See source for mcpServers config block"
+}

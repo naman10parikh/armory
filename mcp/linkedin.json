@@ -1,0 +1,7 @@
+{
+  "name": "linkedin",
+  "description": "Integrates with LinkedIn to enable automated profile browsing, searching, and post interactions using Playwright for browser automation and secure session management.",
+  "source_repo": "alinaqi/mcp-linkedin-server",
+  "source_url": "https://github.com/alinaqi/mcp-linkedin-server",
+  "install": "# git clone --depth 1 https://github.com/alinaqi/mcp-linkedin-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kioyong-mysql",
+  "description": "Integrates with MySQL databases, enabling SELECT queries, table listings, and schema retrieval for data analysis and dynamic database interactions.",
+  "source_repo": "kioyong/mysql-mcp-server-java",
+  "source_url": "https://github.com/kioyong/mysql-mcp-server-java",
+  "install": "# git clone --depth 1 https://github.com/kioyong/mysql-mcp-server-java\n# See source for mcpServers config block"
+}

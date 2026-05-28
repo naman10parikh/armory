@@ -1,0 +1,7 @@
+{
+  "name": "hackthebox",
+  "description": "Bridges to the HackTheBox API for managing cybersecurity challenges and machines, starting instances, submitting flags, and tracking learning progress with filtering by difficulty and category.",
+  "source_repo": "noaslr/htb-mcp-server",
+  "source_url": "https://github.com/noaslr/htb-mcp-server",
+  "install": "npx -y htb-mcp-server"
+}

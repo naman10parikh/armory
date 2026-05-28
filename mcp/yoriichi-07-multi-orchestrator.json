@@ -1,0 +1,7 @@
+{
+  "name": "yoriichi-07-multi-orchestrator",
+  "description": "Multi-agent orchestrator that provides autonomous software development through specialized agents for system design, quality testing, prompt optimization, and cloud deployment with self-healing code generation, enterprise authentication, and comprehensive tooling across 16 development automation capabilities.",
+  "source_repo": "yoriichi-07/multi_orchestrator_mcp",
+  "source_url": "https://github.com/yoriichi-07/multi_orchestrator_mcp",
+  "install": "npx -y multi_orchestrator_mcp"
+}

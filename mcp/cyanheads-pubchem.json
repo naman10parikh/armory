@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-pubchem",
+  "description": "PubChem chemical database access for compound search, properties, safety data, bioactivity, and cross-references.",
+  "source_repo": "cyanheads/pubchem-mcp-server",
+  "source_url": "https://github.com/cyanheads/pubchem-mcp-server",
+  "install": "npx -y pubchem-mcp-server"
+}

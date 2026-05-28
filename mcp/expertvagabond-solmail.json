@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-solmail",
+  "description": "Send physical mail worldwide using Solana cryptocurrency payments through AI agents.",
+  "source_repo": "expertvagabond/solmail-mcp",
+  "source_url": "https://github.com/expertvagabond/solmail-mcp",
+  "install": "npx -y solmail-mcp"
+}

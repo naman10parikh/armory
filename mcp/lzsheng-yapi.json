@@ -1,0 +1,7 @@
+{
+  "name": "lzsheng-yapi",
+  "description": "Integrates with YApi for API management, enabling seamless access to API documentation for tasks like code generation, testing, and integration planning.",
+  "source_repo": "lzsheng/yapi-mcp",
+  "source_url": "https://github.com/lzsheng/yapi-mcp",
+  "install": "npx -y yapi-mcp"
+}

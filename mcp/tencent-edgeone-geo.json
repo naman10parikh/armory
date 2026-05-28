@@ -1,0 +1,7 @@
+{
+  "name": "tencent-edgeone-geo",
+  "description": "Provides lightweight geolocation retrieval by exposing an HTTP endpoint that fetches precise user location data for contextual awareness with minimal configuration overhead.",
+  "source_repo": "tencentedgeone/mcp-geo",
+  "source_url": "https://github.com/tencentedgeone/mcp-geo",
+  "install": "# git clone --depth 1 https://github.com/tencentedgeone/mcp-geo\n# See source for mcpServers config block"
+}

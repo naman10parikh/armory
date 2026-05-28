@@ -1,0 +1,7 @@
+{
+  "name": "isdaniel-pgtuner",
+  "description": "Analyzes and optimizes PostgreSQL database performance through AI-driven tuning recommendations.",
+  "source_repo": "isdaniel/pgtuner",
+  "source_url": "https://github.com/isdaniel/pgtuner",
+  "install": "# git clone --depth 1 https://github.com/isdaniel/pgtuner\n# See source for mcpServers config block"
+}

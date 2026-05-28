@@ -1,0 +1,7 @@
+{
+  "name": "luxter77-kbdb",
+  "description": "PostgreSQL-backed RAG server that provides semantic search across document embeddings using pgvector, supporting multiple search modalities including question-answer pairs, similarity matching, style clustering, and code search with optimized distance metrics for knowledge base applications and content discovery workflows.",
+  "source_repo": "luxter77/mcp-kbdb",
+  "source_url": "https://github.com/luxter77/mcp-kbdb",
+  "install": "# git clone --depth 1 https://github.com/luxter77/mcp-kbdb\n# See source for mcpServers config block"
+}

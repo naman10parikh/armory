@@ -1,0 +1,7 @@
+{
+  "name": "eclipse-cj-paper-distill",
+  "description": "Automated academic paper discovery and curation across nine research databases with AI-powered filtering, Zotero and Obsidian integration, and multi-platform notifications.",
+  "source_repo": "eclipse-cj/paper-distill-mcp",
+  "source_url": "https://github.com/eclipse-cj/paper-distill-mcp",
+  "install": "npx -y paper-distill-mcp"
+}

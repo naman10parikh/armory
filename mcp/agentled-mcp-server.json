@@ -1,0 +1,7 @@
+{
+  "name": "agentled-mcp-server",
+  "description": "AI-native workflow orchestration with long-term memory, 100+ integrations, and unified credits. 32 MCP tools for building and running intelligent business workflows — lead enrichment, content publishing, company research, media production, and more. Knowledge Graph that learns across executions.",
+  "source_repo": "Agentled/mcp-server",
+  "source_url": "https://github.com/Agentled/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Agentled/mcp-server\n# See source for mcpServers config block"
+}

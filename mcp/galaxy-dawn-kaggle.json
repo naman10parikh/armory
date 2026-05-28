@@ -1,0 +1,7 @@
+{
+  "name": "galaxy-dawn-kaggle",
+  "description": "Integrates with Kaggle platform for searching competitions, downloading datasets, submitting predictions, managing notebooks, and engaging with the data science community.",
+  "source_repo": "galaxy-dawn/kaggle-mcp",
+  "source_url": "https://github.com/galaxy-dawn/kaggle-mcp",
+  "install": "npx -y kaggle-mcp"
+}

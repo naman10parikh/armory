@@ -1,0 +1,7 @@
+{
+  "name": "qianniuspace-sentry",
+  "description": "Integrates with Sentry.io for retrieving and analyzing error reports, stacktraces, and debugging information, enabling developers and support teams to streamline issue tracking and debugging workflows.",
+  "source_repo": "mcp-100/mcp-sentry",
+  "source_url": "https://github.com/mcp-100/mcp-sentry",
+  "install": "# git clone --depth 1 https://github.com/mcp-100/mcp-sentry\n# See source for mcpServers config block"
+}

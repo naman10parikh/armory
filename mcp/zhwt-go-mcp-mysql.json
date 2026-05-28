@@ -1,0 +1,7 @@
+{
+  "name": "zhwt-go-mcp-mysql",
+  "description": "Easy to use, zero dependency MySQL MCP server built with Golang with configurable readonly mode and schema inspection.",
+  "source_repo": "Zhwt/go-mcp-mysql",
+  "source_url": "https://github.com/Zhwt/go-mcp-mysql",
+  "install": "# git clone --depth 1 https://github.com/Zhwt/go-mcp-mysql\n# See source for mcpServers config block"
+}

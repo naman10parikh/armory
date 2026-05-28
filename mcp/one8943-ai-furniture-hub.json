@@ -1,0 +1,7 @@
+{
+  "name": "one8943-ai-furniture-hub",
+  "description": "MCP server for furniture and home product search with millimeter-precision dimension matching and replacement intelligence.",
+  "source_repo": "one8943/ai-furniture-hub",
+  "source_url": "https://github.com/one8943/ai-furniture-hub",
+  "install": "# git clone --depth 1 https://github.com/one8943/ai-furniture-hub\n# See source for mcpServers config block"
+}

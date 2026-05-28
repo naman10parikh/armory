@@ -1,0 +1,7 @@
+{
+  "name": "tedlikeskix-ip-geolocator",
+  "description": "Integrates with IP-API.com to provide IP geolocation services, enabling location-based insights without API keys or complex integrations.",
+  "source_repo": "tedlikeskix/mcp-ip-geolocator",
+  "source_url": "https://github.com/tedlikeskix/mcp-ip-geolocator",
+  "install": "# git clone --depth 1 https://github.com/tedlikeskix/mcp-ip-geolocator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ctx4-ai",
+  "description": "MCP server for portable context management across AI assistants, providing tools to store and retrieve persistent context, instructions, and execute sandboxed bash commands with automatic git commits, using OAuth 2.1 and magic link authentication.",
+  "source_repo": "dubzdubz/ctx4-ai",
+  "source_url": "https://github.com/dubzdubz/ctx4-ai",
+  "install": "# git clone --depth 1 https://github.com/dubzdubz/ctx4-ai\n# See source for mcpServers config block"
+}

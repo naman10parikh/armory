@@ -1,0 +1,7 @@
+{
+  "name": "dashform",
+  "description": "Build and manage AI-powered forms, funnels, quizzes, and lead qualification workflows.",
+  "source_repo": "makloai/mcp-server-dashform",
+  "source_url": "https://github.com/makloai/mcp-server-dashform",
+  "install": "# git clone --depth 1 https://github.com/makloai/mcp-server-dashform\n# See source for mcpServers config block"
+}

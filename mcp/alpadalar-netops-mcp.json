@@ -1,0 +1,7 @@
+{
+  "name": "alpadalar-netops-mcp",
+  "description": "Comprehensive DevOps and networking MCP server providing standardized access to essential infrastructure tools. Features network monitoring, system diagnostics, automation workflows, and infrastructure management with AI-powered operational insights.",
+  "source_repo": "alpadalar/netops-mcp",
+  "source_url": "https://github.com/alpadalar/netops-mcp",
+  "install": "npx -y netops-mcp"
+}

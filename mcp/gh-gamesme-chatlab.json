@@ -1,0 +1,7 @@
+{
+  "name": "gh-gamesme-chatlab",
+  "description": "Query and analyze ChatLab chat history with session listing, message filtering, and statistical aggregation.",
+  "source_repo": "gamesme/chatlab-mcp-server",
+  "source_url": "https://github.com/gamesme/chatlab-mcp-server",
+  "install": "npx -y chatlab-mcp-server"
+}

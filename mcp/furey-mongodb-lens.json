@@ -1,0 +1,7 @@
+{
+  "name": "furey-mongodb-lens",
+  "description": "Integrates with MongoDB databases to enable browsing collections, executing queries, running aggregation pipelines, analyzing schemas, and optimizing performance through specialized database exploration tools.",
+  "source_repo": "furey/mongodb-lens",
+  "source_url": "https://github.com/furey/mongodb-lens",
+  "install": "# git clone --depth 1 https://github.com/furey/mongodb-lens\n# See source for mcpServers config block"
+}

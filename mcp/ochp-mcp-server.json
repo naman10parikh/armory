@@ -1,0 +1,7 @@
+{
+  "name": "ochp-mcp-server",
+  "description": "Enables AI assistants to interact with EV charging infrastructure through OCHP (Open Clearing House Protocol) services.",
+  "source_repo": "andreibesleaga/ochp-mcp",
+  "source_url": "https://github.com/andreibesleaga/ochp-mcp",
+  "install": "npx -y ochp-mcp"
+}

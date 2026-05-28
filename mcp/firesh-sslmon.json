@@ -1,0 +1,7 @@
+{
+  "name": "firesh-sslmon",
+  "description": "Monitors SSL certificates and domain registrations with real-time certificate validation and WHOIS lookups to track expiration dates, registrar information, and certificate chain status for proactive renewal management and security auditing.",
+  "source_repo": "firesh/sslmon-mcp",
+  "source_url": "https://github.com/firesh/sslmon-mcp",
+  "install": "npx -y sslmon-mcp"
+}

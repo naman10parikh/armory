@@ -1,0 +1,7 @@
+{
+  "name": "arathald-file-editor",
+  "description": "Provides file operations for reading, writing, and editing on host systems.",
+  "source_repo": "arathald/mcp-editor",
+  "source_url": "https://github.com/arathald/mcp-editor",
+  "install": "# git clone --depth 1 https://github.com/arathald/mcp-editor\n# See source for mcpServers config block"
+}

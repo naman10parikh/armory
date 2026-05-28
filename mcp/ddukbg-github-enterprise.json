@@ -1,0 +1,7 @@
+{
+  "name": "ddukbg-github-enterprise",
+  "description": "Bridges GitHub Enterprise with natural language interaction, enabling repository management, issue tracking, and code access for streamlined development workflows without leaving your assistant interface.",
+  "source_repo": "ddukbg/github-enterprise-mcp",
+  "source_url": "https://github.com/ddukbg/github-enterprise-mcp",
+  "install": "npx -y github-enterprise-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "drolosoft-go-docs",
+  "description": "Reads and processes PDF, TXT, Markdown, DOCX, CSV, and image files through 12 tools delivered as a single dependency-free Go binary.",
+  "source_repo": "drolosoft/go-docs-mcp",
+  "source_url": "https://github.com/drolosoft/go-docs-mcp",
+  "install": "npx -y go-docs-mcp"
+}

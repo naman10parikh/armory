@@ -1,0 +1,7 @@
+{
+  "name": "mavae-image-toolbox",
+  "description": "Mavae Image Toolbox MCP server listed on mcp.so.",
+  "source_repo": "Mavae/mavae-image-toolbox",
+  "source_url": "https://mcp.so/server/mavae-image-toolbox/Mavae",
+  "install": "# git clone --depth 1 https://mcp.so/server/mavae-image-toolbox/Mavae\n# See source for mcpServers config block"
+}

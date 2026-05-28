@@ -1,0 +1,7 @@
+{
+  "name": "wildebeest-pdf-forms",
+  "description": "Provides tools for finding PDF files, extracting form field information, and visualizing form fields in PDF documents using PyMuPDF.",
+  "source_repo": "wildebeest/mcp_pdf_forms",
+  "source_url": "https://github.com/wildebeest/mcp_pdf_forms",
+  "install": "# git clone --depth 1 https://github.com/wildebeest/mcp_pdf_forms\n# See source for mcpServers config block"
+}

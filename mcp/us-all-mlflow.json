@@ -1,0 +1,7 @@
+{
+  "name": "us-all-mlflow",
+  "description": "Community MCP integration for MLflow, enabling AI agents to access experiments, runs, registered models, and ML traces.",
+  "source_repo": "us-all/mlflow-mcp-server",
+  "source_url": "https://github.com/us-all/mlflow-mcp-server",
+  "install": "npx -y mlflow-mcp-server"
+}

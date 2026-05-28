@@ -1,0 +1,7 @@
+{
+  "name": "stakpak-infrastructure-code-generator",
+  "description": "Integrates with Stakpak API to generate infrastructure code for projects, enabling developers to quickly create configurations through a dedicated tool that works with various IDEs.",
+  "source_repo": "stakpak/mcp",
+  "source_url": "https://github.com/stakpak/mcp",
+  "install": "# git clone --depth 1 https://github.com/stakpak/mcp\n# See source for mcpServers config block"
+}

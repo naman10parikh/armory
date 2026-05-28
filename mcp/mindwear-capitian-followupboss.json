@@ -1,0 +1,7 @@
+{
+  "name": "mindwear-capitian-followupboss",
+  "description": "Integrates with Follow Up Boss CRM providing 157 tools covering all official API endpoints for contacts, deals, tasks, communication, and pipeline management.",
+  "source_repo": "mindwear-capitian/followupboss-mcp-server",
+  "source_url": "https://github.com/mindwear-capitian/followupboss-mcp-server",
+  "install": "npx -y followupboss-mcp-server"
+}

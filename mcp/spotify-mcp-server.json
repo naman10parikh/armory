@@ -1,0 +1,7 @@
+{
+  "name": "spotify-mcp-server",
+  "description": "Spotify Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "marcelmarais/spotify-mcp-server",
+  "source_url": "https://mcp.so/server/spotify-mcp-server/marcelmarais",
+  "install": "npx -y spotify-mcp-server"
+}

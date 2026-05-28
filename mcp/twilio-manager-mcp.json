@@ -1,0 +1,7 @@
+{
+  "name": "twilio-manager-mcp",
+  "description": "Twilio_manager_mcp MCP server listed on mcp.so.",
+  "source_repo": "errajibadr/twilio_manager_mcp",
+  "source_url": "https://mcp.so/server/twilio_manager_mcp/errajibadr",
+  "install": "npx -y twilio_manager_mcp"
+}

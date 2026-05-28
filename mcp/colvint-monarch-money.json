@@ -1,0 +1,7 @@
+{
+  "name": "colvint-monarch-money",
+  "description": "Integrates with Monarch Money's personal finance platform to retrieve account balances, transaction history, and budget data for automated expense tracking and financial analysis.",
+  "source_repo": "colvint/monarch-money-mcp",
+  "source_url": "https://github.com/colvint/monarch-money-mcp",
+  "install": "npx -y monarch-money-mcp"
+}

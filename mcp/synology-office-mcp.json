@@ -1,0 +1,7 @@
+{
+  "name": "synology-office-mcp",
+  "description": "Self-hosted MCP server that exposes Synology Drive, Spreadsheet, MailPlus, and Calendar as structured tools for AI agents, enabling file, spreadsheet, email, and calendar management via natural language.",
+  "source_repo": "vocweb/synology-mcp-server",
+  "source_url": "https://github.com/vocweb/synology-mcp-server",
+  "install": "npx -y synology-mcp-server"
+}

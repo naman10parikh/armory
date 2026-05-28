@@ -1,0 +1,7 @@
+{
+  "name": "labforgedev-copilot-memory",
+  "description": "Persistent semantic memory for AI coding assistants using local ChromaDB vector search with no cloud dependencies.",
+  "source_repo": "labforgedev/copilot-memory-mcp",
+  "source_url": "https://github.com/labforgedev/copilot-memory-mcp",
+  "install": "npx -y copilot-memory-mcp"
+}

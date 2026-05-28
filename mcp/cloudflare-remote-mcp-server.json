@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-remote-mcp-server",
+  "description": "Enables running a remote MCP server on Cloudflare Workers with OAuth login, allowing AI clients like Claude to interact with tools via SSE.",
+  "source_repo": "kentcdodds/cloudflare-remote-mcp-server",
+  "source_url": "https://github.com/kentcdodds/cloudflare-remote-mcp-server",
+  "install": "npx -y cloudflare-remote-mcp-server"
+}

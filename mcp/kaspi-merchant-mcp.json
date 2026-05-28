@@ -1,0 +1,7 @@
+{
+  "name": "kaspi-merchant-mcp",
+  "description": "Enables managing Kaspi Marketplace orders through AI assistants, including listing, accepting, completing, and canceling orders, with real-time operations directly on production data (no sandbox).",
+  "source_repo": "theYahia/kaspi-merchant-mcp",
+  "source_url": "https://github.com/theYahia/kaspi-merchant-mcp",
+  "install": "npx -y kaspi-merchant-mcp"
+}

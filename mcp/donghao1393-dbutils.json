@@ -1,0 +1,7 @@
+{
+  "name": "donghao1393-dbutils",
+  "description": "DButils is an all-in-one MCP service that enables your AI to do data analysis by accessing versatile types of database (sqlite, mysql, postgres, and more) within a unified connection configuration in a safe way.",
+  "source_repo": "donghao1393/mcp-dbutils",
+  "source_url": "https://github.com/donghao1393/mcp-dbutils",
+  "install": "# git clone --depth 1 https://github.com/donghao1393/mcp-dbutils\n# See source for mcpServers config block"
+}

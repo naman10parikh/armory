@@ -1,0 +1,7 @@
+{
+  "name": "dart-search-mcp",
+  "description": "Enables searching corporate disclosures from Korea's DART system, including company info, financial statements, and disclosure search.",
+  "source_repo": "memorise8/dart-mcp",
+  "source_url": "https://github.com/memorise8/dart-mcp",
+  "install": "npx -y dart-mcp"
+}

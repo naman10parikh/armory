@@ -1,0 +1,7 @@
+{
+  "name": "philogicae-sequential-thinking",
+  "description": "Provides a lightweight meta-cognition tool that enables structured, step-by-step problem-solving through thought logging, progress tracking, and next-action recommendations for transparent reasoning workflows.",
+  "source_repo": "philogicae/sequential-thinking-mcp",
+  "source_url": "https://github.com/philogicae/sequential-thinking-mcp",
+  "install": "npx -y sequential-thinking-mcp"
+}

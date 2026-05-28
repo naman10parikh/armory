@@ -1,0 +1,7 @@
+{
+  "name": "shemshallah-qtcl",
+  "description": "Agent-native post-quantum blockchain with 11 tools for send, balance, and quantum oracle metrics.",
+  "source_repo": "shemshallah/qtcl-mcp-server",
+  "source_url": "https://github.com/shemshallah/qtcl-mcp-server",
+  "install": "npx -y qtcl-mcp-server"
+}

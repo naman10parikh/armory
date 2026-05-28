@@ -1,0 +1,7 @@
+{
+  "name": "academic-mcp",
+  "description": "Unified academic search MCP server that searches open literature (arXiv, bioRxiv, medRxiv, PMC), CNKI, and Web of Science, with browser-backed authentication, local paper library, and export to multiple formats.",
+  "source_repo": "dopawei/academic-mcp",
+  "source_url": "https://github.com/dopawei/academic-mcp",
+  "install": "npx -y academic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brandon-ghidra",
+  "description": "Integrates with Ghidra's binary analysis capabilities to enable decompiled code retrieval, function analysis, and security assessment of binaries through natural language queries",
+  "source_repo": "13bm/ghidramcp",
+  "source_url": "https://github.com/13bm/ghidramcp",
+  "install": "# git clone --depth 1 https://github.com/13bm/ghidramcp\n# See source for mcpServers config block"
+}

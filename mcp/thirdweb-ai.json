@@ -1,0 +1,7 @@
+{
+  "name": "thirdweb-ai",
+  "description": "Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution, powered by Thirdweb.",
+  "source_repo": "thirdweb-dev/ai",
+  "source_url": "https://github.com/thirdweb-dev/ai/tree/HEAD/python/thirdweb-mcp",
+  "install": "# git clone --depth 1 https://github.com/thirdweb-dev/ai/tree/HEAD/python/thirdweb-mcp\n# See source for mcpServers config block"
+}

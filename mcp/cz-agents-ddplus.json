@@ -1,0 +1,7 @@
+{
+  "name": "cz-agents-ddplus",
+  "description": "Premium MCP server for advanced Czech due diligence with ownership pattern recognition and monitoring.",
+  "source_repo": "",
+  "source_url": "https://ddplus.cz-agents.dev/mcp",
+  "install": "# git clone --depth 1 https://ddplus.cz-agents.dev/mcp\n# See source for mcpServers config block"
+}

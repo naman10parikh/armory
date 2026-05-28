@@ -1,0 +1,7 @@
+{
+  "name": "mnhlt-websearch",
+  "description": "Provides real-time web search capabilities via a dedicated crawler service with configurable result limits, language filtering, and domain rules",
+  "source_repo": "mnhlt/websearch-mcp",
+  "source_url": "https://github.com/mnhlt/websearch-mcp",
+  "install": "npx -y websearch-mcp"
+}

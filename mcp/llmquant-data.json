@@ -1,0 +1,7 @@
+{
+  "name": "llmquant-data",
+  "description": "Access financial data including wiki articles, research papers, crypto and equity prices, macro indicators, and SEC filings via the LLMQuant platform.",
+  "source_repo": "llmquant/data-mcp",
+  "source_url": "https://github.com/llmquant/data-mcp",
+  "install": "npx -y data-mcp"
+}

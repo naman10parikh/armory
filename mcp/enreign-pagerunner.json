@@ -1,0 +1,7 @@
+{
+  "name": "enreign-pagerunner",
+  "description": "Chrome browser automation using existing user profiles with cookies, saved passwords, and history via CDP.",
+  "source_repo": "enreign/pagerunner",
+  "source_url": "https://github.com/enreign/pagerunner",
+  "install": "# git clone --depth 1 https://github.com/enreign/pagerunner\n# See source for mcpServers config block"
+}

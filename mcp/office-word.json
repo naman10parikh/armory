@@ -1,0 +1,7 @@
+{
+  "name": "office-word",
+  "description": "Provides a bridge to Microsoft Word for creating and modifying documents with features like text formatting, table manipulation, image scaling, and style management",
+  "source_repo": "gongrzhe/office-word-mcp-server",
+  "source_url": "https://github.com/gongrzhe/office-word-mcp-server",
+  "install": "npx -y office-word-mcp-server"
+}

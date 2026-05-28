@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-airtable-mcp-server",
+  "description": "Provides read and write access to Airtable databases.",
+  "source_repo": "domdomegg/airtable-mcp-server",
+  "source_url": "https://github.com/domdomegg/airtable-mcp-server",
+  "install": "npx -y airtable-mcp-server"
+}

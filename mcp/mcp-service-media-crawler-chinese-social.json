@@ -1,0 +1,7 @@
+{
+  "name": "mcp-service-media-crawler-chinese-social",
+  "description": "Integrates multiple Chinese social media platforms including Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba, and Zhihu for systematic content extraction and social media data collection.",
+  "source_repo": "mcp-service/media-crawler-mcp-service",
+  "source_url": "https://github.com/mcp-service/media-crawler-mcp-service",
+  "install": "# git clone --depth 1 https://github.com/mcp-service/media-crawler-mcp-service\n# See source for mcpServers config block"
+}

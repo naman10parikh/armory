@@ -1,0 +1,7 @@
+{
+  "name": "sinco-lab-youtube-transcript",
+  "description": "Extracts and formats YouTube video transcripts with language selection, paragraph formatting, and metadata enrichment for content analysis and research workflows.",
+  "source_repo": "sinco-lab/mcp-youtube-transcript",
+  "source_url": "https://github.com/sinco-lab/mcp-youtube-transcript",
+  "install": "# git clone --depth 1 https://github.com/sinco-lab/mcp-youtube-transcript\n# See source for mcpServers config block"
+}

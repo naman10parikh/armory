@@ -1,0 +1,7 @@
+{
+  "name": "arbuthnot-paypal",
+  "description": "Integrates with PayPal's payment processing APIs to enable secure payment creation, subscription management, invoicing, and payouts without leaving the conversation interface.",
+  "source_repo": "arbuthnot-eth/paypal-mcp-defunct",
+  "source_url": "https://github.com/arbuthnot-eth/paypal-mcp-defunct",
+  "install": "# git clone --depth 1 https://github.com/arbuthnot-eth/paypal-mcp-defunct\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hovsteder-powersun-tron",
+  "description": "Tron blockchain tools for wallet management, TRX transfers, and smart contract interaction.",
+  "source_repo": "hovsteder/powersun-tron-mcp",
+  "source_url": "https://github.com/hovsteder/powersun-tron-mcp",
+  "install": "npx -y powersun-tron-mcp"
+}

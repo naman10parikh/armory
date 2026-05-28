@@ -1,0 +1,7 @@
+{
+  "name": "alpha-arcade-mcp",
+  "description": "MCP server for Alpha Arcade prediction markets on Algorand. Enables AI agents to browse markets, fetch orderbooks, place orders, manage positions, and trade on-chain prediction markets.",
+  "source_repo": "phara23/alpha-mcp",
+  "source_url": "https://github.com/phara23/alpha-mcp",
+  "install": "npx -y alpha-mcp"
+}

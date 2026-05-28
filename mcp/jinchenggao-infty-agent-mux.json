@@ -1,0 +1,7 @@
+{
+  "name": "jinchenggao-infty-agent-mux",
+  "description": "Orchestrates multiple interactive CLI agents within tmux-backed project workspaces, enabling spawning, input management, output capture, and lifecycle control.",
+  "source_repo": "jinchenggao-infty/agent-mux",
+  "source_url": "https://github.com/jinchenggao-infty/agent-mux",
+  "install": "# git clone --depth 1 https://github.com/jinchenggao-infty/agent-mux\n# See source for mcpServers config block"
+}

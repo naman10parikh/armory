@@ -1,0 +1,7 @@
+{
+  "name": "mendlem-pipepost",
+  "description": "Publish from your terminal. Drafts SEO-scored articles, cross-publishes to Dev.to, Ghost, Hashnode, WordPress, and Medium with auto-wired canonical URLs, generates social posts for Twitter/LinkedIn/Reddit/Bluesky/HN, fetches Unsplash cover images, and submits URLs to IndexNow — all as local stdio, no cloud relay.",
+  "source_repo": "MendleM/Pipepost",
+  "source_url": "https://github.com/MendleM/Pipepost",
+  "install": "# git clone --depth 1 https://github.com/MendleM/Pipepost\n# See source for mcpServers config block"
+}

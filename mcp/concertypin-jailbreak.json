@@ -1,0 +1,7 @@
+{
+  "name": "concertypin-jailbreak",
+  "description": "Educational demonstration of a mock compliance verification tool.",
+  "source_repo": "concertypin/jailbreak-mcp",
+  "source_url": "https://github.com/concertypin/jailbreak-mcp",
+  "install": "npx -y jailbreak-mcp"
+}

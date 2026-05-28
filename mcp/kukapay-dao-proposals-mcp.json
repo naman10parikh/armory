@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-dao-proposals-mcp",
+  "description": "An MCP server that aggregates live governance proposals from major DAOs.",
+  "source_repo": "kukapay/dao-proposals-mcp",
+  "source_url": "https://github.com/kukapay/dao-proposals-mcp",
+  "install": "npx -y dao-proposals-mcp"
+}

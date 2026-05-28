@@ -1,0 +1,7 @@
+{
+  "name": "designcomputer-mysql-mcp-server",
+  "description": "Explore schemas and execute read-only SQL queries on MySQL databases.",
+  "source_repo": "designcomputer/mysql_mcp_server",
+  "source_url": "https://github.com/designcomputer/mysql_mcp_server",
+  "install": "npx -y mysql_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mustafacagri-ai-quality-gate",
+  "description": "Automates code quality checks for AI-generated code through ESLint, Prettier, and optional SonarQube analysis.",
+  "source_repo": "mustafacagri/ai-quality-gate",
+  "source_url": "https://github.com/mustafacagri/ai-quality-gate",
+  "install": "# git clone --depth 1 https://github.com/mustafacagri/ai-quality-gate\n# See source for mcpServers config block"
+}

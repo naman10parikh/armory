@@ -1,0 +1,7 @@
+{
+  "name": "alexandertsai-telegram",
+  "description": "Enables Claude to monitor and respond to Telegram messages by accessing chat lists, reading conversations, and sending replies that match the user's texting style through Telethon API integration.",
+  "source_repo": "alexandertsai/mcp-telegram",
+  "source_url": "https://github.com/alexandertsai/mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/alexandertsai/mcp-telegram\n# See source for mcpServers config block"
+}

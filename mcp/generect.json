@@ -1,0 +1,7 @@
+{
+  "name": "generect",
+  "description": "B2B lead generation platform with real-time contact discovery and validation",
+  "source_repo": "generect/generect_mcp",
+  "source_url": "https://github.com/generect/generect_mcp",
+  "install": "npx -y generect_mcp"
+}

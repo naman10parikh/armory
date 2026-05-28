@@ -1,0 +1,7 @@
+{
+  "name": "robin-deruyck-ordali-memory",
+  "description": "SQLite-backed project memory and governance trace store for MCP-enabled AI workflows.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/robin-deruyck-ordali-memory",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/robin-deruyck-ordali-memory\n# See source for mcpServers config block"
+}

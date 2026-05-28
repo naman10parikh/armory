@@ -1,0 +1,7 @@
+{
+  "name": "gtorreal-buda",
+  "description": "Live cryptocurrency exchange data from Buda.com for Chile, Colombia, and Peru.",
+  "source_repo": "gtorreal/buda-mcp",
+  "source_url": "https://github.com/gtorreal/buda-mcp",
+  "install": "npx -y buda-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "appvisionos-apple-search-ads",
+  "description": "Manage Apple Search Ads campaigns programmatically with 74 typed tools covering the full Campaign Management API v5, including campaigns, ad groups, keywords, and reporting.",
+  "source_repo": "appvisionos/apple-search-ads-mcp",
+  "source_url": "https://github.com/appvisionos/apple-search-ads-mcp",
+  "install": "npx -y apple-search-ads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lumiclip",
+  "description": "Transforms YouTube videos into short vertical clips with subtitles, finding best moments and providing download-ready outputs.",
+  "source_repo": "lumiclip/lumiclip-mcp-server",
+  "source_url": "https://github.com/lumiclip/lumiclip-mcp-server",
+  "install": "npx -y lumiclip-mcp-server"
+}

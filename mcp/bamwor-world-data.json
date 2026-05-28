@@ -1,0 +1,7 @@
+{
+  "name": "bamwor-world-data",
+  "description": "Structured access to 261 countries and 13.4 million cities with population, coordinates, and statistics.",
+  "source_repo": "bamwor-dev/bamwor-mcp-server",
+  "source_url": "https://github.com/bamwor-dev/bamwor-mcp-server",
+  "install": "npx -y bamwor-mcp-server"
+}

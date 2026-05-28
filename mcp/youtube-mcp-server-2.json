@@ -1,0 +1,7 @@
+{
+  "name": "youtube-mcp-server-2",
+  "description": "YouTube MCP Server MCP server listed on mcp.so.",
+  "source_repo": "rakeshjayanna/YouTube-MCP-Server",
+  "source_url": "https://mcp.so/server/YouTube-MCP-Server/rakeshjayanna",
+  "install": "npx -y YouTube-MCP-Server"
+}

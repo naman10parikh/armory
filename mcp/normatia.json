@@ -1,0 +1,7 @@
+{
+  "name": "normatia",
+  "description": "Access Spanish construction regulatory and technical standards via AI-ready MCP.",
+  "source_repo": "",
+  "source_url": "https://mcp.normatia.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.normatia.com/mcp\n# See source for mcpServers config block"
+}

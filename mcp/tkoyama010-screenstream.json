@@ -1,0 +1,7 @@
+{
+  "name": "tkoyama010-screenstream",
+  "description": "Captures screenshots from ScreenStream Android screen mirroring app via MJPEG feed for visual analysis.",
+  "source_repo": "tkoyama010/screenstream-mcp",
+  "source_url": "https://github.com/tkoyama010/screenstream-mcp",
+  "install": "npx -y screenstream-mcp"
+}

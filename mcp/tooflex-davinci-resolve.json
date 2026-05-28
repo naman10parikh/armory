@@ -1,0 +1,7 @@
+{
+  "name": "tooflex-davinci-resolve",
+  "description": "Integrates with DaVinci Resolve video editing software to enable direct access to projects, timelines, media pools, and color grading tools without switching between applications.",
+  "source_repo": "tooflex/davinci-resolve-mcp",
+  "source_url": "https://github.com/tooflex/davinci-resolve-mcp",
+  "install": "npx -y davinci-resolve-mcp"
+}

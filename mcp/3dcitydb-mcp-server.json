@@ -1,0 +1,7 @@
+{
+  "name": "3dcitydb-mcp-server",
+  "description": "Enables AI assistants to interact with 3DCityDB v5 through natural language, dynamically resolving object classes, properties, and codelists to answer spatial questions and execute SQL queries on CityGML data.",
+  "source_repo": "tum-gis/3dcitydb-mcp-server",
+  "source_url": "https://github.com/tum-gis/3dcitydb-mcp-server",
+  "install": "npx -y 3dcitydb-mcp-server"
+}

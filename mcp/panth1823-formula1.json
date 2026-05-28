@@ -1,0 +1,7 @@
+{
+  "name": "panth1823-formula1",
+  "description": "Integrates with Formula 1 APIs to provide real-time racing data, historical results, driver information, team radio messages, weather conditions, and telemetry for building F1 statistics applications.",
+  "source_repo": "panth1823/formula1-mcp",
+  "source_url": "https://github.com/panth1823/formula1-mcp",
+  "install": "npx -y formula1-mcp"
+}

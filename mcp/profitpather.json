@@ -1,0 +1,7 @@
+{
+  "name": "profitpather",
+  "description": "First-party Shopify analytics MCP server providing unsampled session, attribution, funnel, and leak data via 26 tools.",
+  "source_repo": "profitpather/mcp",
+  "source_url": "https://github.com/profitpather/mcp",
+  "install": "# git clone --depth 1 https://github.com/profitpather/mcp\n# See source for mcpServers config block"
+}

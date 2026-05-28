@@ -1,0 +1,7 @@
+{
+  "name": "volta-notes",
+  "description": "Burn-after-read encrypted notes with E2E encryption on the Internet Computer.",
+  "source_repo": "iamredmh/volta-mcp-server",
+  "source_url": "https://github.com/iamredmh/volta-mcp-server",
+  "install": "npx -y volta-mcp-server"
+}

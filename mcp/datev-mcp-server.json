@@ -1,0 +1,7 @@
+{
+  "name": "datev-mcp-server",
+  "description": "A local MCP server for analyzing DATEV bookkeeping data in natural language. It reads EXTF export files locally and provides tools for balances, open items, and booking search.",
+  "source_repo": "ppronobis/datev-mcp-server",
+  "source_url": "https://github.com/ppronobis/datev-mcp-server",
+  "install": "npx -y datev-mcp-server"
+}

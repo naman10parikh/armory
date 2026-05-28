@@ -1,0 +1,7 @@
+{
+  "name": "calademos-creditsync",
+  "description": "MCP server for CreditSync credit card benefit tracking with 34 tools for managing accounts, transactions, and rewards.",
+  "source_repo": "calademos/creditsync-mcp",
+  "source_url": "https://github.com/calademos/creditsync-mcp",
+  "install": "npx -y creditsync-mcp"
+}

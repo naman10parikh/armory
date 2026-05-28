@@ -1,0 +1,7 @@
+{
+  "name": "badhansen-notion-todo-list",
+  "description": "Integrates with Notion's API to manage personal todo lists, enabling task creation, retrieval, and automation within specified Notion pages.",
+  "source_repo": "badhansen/notion-mcp",
+  "source_url": "https://github.com/badhansen/notion-mcp",
+  "install": "npx -y notion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aydinfer-spline-3d-design",
+  "description": "Connects to Spline 3D design tool API for creating, manipulating, and exporting 3D scenes with support for animations, model imports, and event-based interactions.",
+  "source_repo": "aydinfer/spline-mcp-server",
+  "source_url": "https://github.com/aydinfer/spline-mcp-server",
+  "install": "npx -y spline-mcp-server"
+}

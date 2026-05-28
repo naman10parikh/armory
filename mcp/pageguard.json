@@ -1,0 +1,7 @@
+{
+  "name": "pageguard",
+  "description": "Scans websites for privacy compliance issues, detecting tracking technologies, cookie problems, and data gaps that could create regulatory risk.",
+  "source_repo": "pageguard/pageguard-mcp",
+  "source_url": "https://github.com/pageguard/pageguard-mcp",
+  "install": "npx -y pageguard-mcp"
+}

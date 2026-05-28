@@ -1,0 +1,7 @@
+{
+  "name": "vivory-verification",
+  "description": "53 MCP tools for verifiable AI work covering DOI lookup, archive verification, provenance, identity, domain, and blockchain checks.",
+  "source_repo": "jayjodev/vivory-mcp",
+  "source_url": "https://github.com/jayjodev/vivory-mcp/tree/HEAD/packages/mcp-server-verification",
+  "install": "npx -y vivory-mcp"
+}

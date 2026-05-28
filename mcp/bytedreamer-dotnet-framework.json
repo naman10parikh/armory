@@ -1,0 +1,7 @@
+{
+  "name": "bytedreamer-dotnet-framework",
+  "description": "Provides .NET Framework development capabilities through TCP communication, enabling project building with MSBuild, test execution across MSTest/NUnit/xUnit frameworks, and solution analysis with automatic Visual Studio detection and cross-platform WSL support.",
+  "source_repo": "bytedreamer/dotnetframeworkmcp",
+  "source_url": "https://github.com/bytedreamer/dotnetframeworkmcp",
+  "install": "# git clone --depth 1 https://github.com/bytedreamer/dotnetframeworkmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bulk-url-checker",
+  "description": "Validates up to 75,000 URLs per job checking status codes, redirects, and response times.",
+  "source_repo": "carlosofscience/url-checker-engine",
+  "source_url": "https://github.com/carlosofscience/url-checker-engine",
+  "install": "# git clone --depth 1 https://github.com/carlosofscience/url-checker-engine\n# See source for mcpServers config block"
+}

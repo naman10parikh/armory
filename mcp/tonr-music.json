@@ -1,0 +1,7 @@
+{
+  "name": "tonr-music",
+  "description": "Copyright-safe AI music library for video creators and developers.",
+  "source_repo": "",
+  "source_url": "https://tonr.app",
+  "install": "# git clone --depth 1 https://tonr.app\n# See source for mcpServers config block"
+}

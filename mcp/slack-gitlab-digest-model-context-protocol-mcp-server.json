@@ -1,0 +1,7 @@
+{
+  "name": "slack-gitlab-digest-model-context-protocol-mcp-server",
+  "description": "Summarizes Slack activity and GitLab merge requests with OpenAI to help generate daily standups, weekly reports, or quarterly check-ins.",
+  "source_repo": "chaodonghu/Slack-Gitlab-Test-Model-Context-Protocol-Server",
+  "source_url": "https://github.com/chaodonghu/Slack-Gitlab-Test-Model-Context-Protocol-Server",
+  "install": "# git clone --depth 1 https://github.com/chaodonghu/Slack-Gitlab-Test-Model-Context-Protocol-Server\n# See source for mcpServers config block"
+}

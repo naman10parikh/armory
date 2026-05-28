@@ -1,0 +1,7 @@
+{
+  "name": "m2ai-dyson-sphere-program",
+  "description": "Provides real-time factory optimization for Dyson Sphere Program through live production metrics collection and analysis, detecting bottlenecks, monitoring power grids, and tracking belt saturation to optimize complex production chains.",
+  "source_repo": "m2ai-mcp-servers/mcp-dsp-game",
+  "source_url": "https://github.com/m2ai-mcp-servers/mcp-dsp-game",
+  "install": "# git clone --depth 1 https://github.com/m2ai-mcp-servers/mcp-dsp-game\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-ready",
+  "description": "Scans websites for AI agent readability against 59 checks covering Vercel Agent Readability Spec, llmstxt.org, and agent-protocol manifests.",
+  "source_repo": "mlava/agent-ready-mcp",
+  "source_url": "https://github.com/mlava/agent-ready-mcp",
+  "install": "npx -y agent-ready-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "verbart-tradernet",
+  "description": "Portfolio management, orders, and quotes via the Tradernet/Freedom24 trading API.",
+  "source_repo": "verbart/tradernet-mcp",
+  "source_url": "https://github.com/verbart/tradernet-mcp",
+  "install": "npx -y tradernet-mcp"
+}

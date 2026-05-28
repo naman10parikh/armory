@@ -1,0 +1,7 @@
+{
+  "name": "byaxe-keynote-mcp",
+  "description": "MCP server for full control of Apple Keynote through AppleScript automation. Create, edit, and export presentations via natural language with 30+ tools covering slides, content, layout, and Unsplash image integration. Ships with a Claude Skill for design patterns and font workarounds.",
+  "source_repo": "ByAxe/keynote-mcp",
+  "source_url": "https://github.com/ByAxe/keynote-mcp",
+  "install": "npx -y keynote-mcp"
+}

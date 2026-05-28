@@ -1,0 +1,7 @@
+{
+  "name": "opsconduit-jobber",
+  "description": "Read-only MCP server for Jobber field-service operations reports via the GraphQL API.",
+  "source_repo": "opsconduit/jobber-mcp",
+  "source_url": "https://github.com/opsconduit/jobber-mcp",
+  "install": "npx -y jobber-mcp"
+}

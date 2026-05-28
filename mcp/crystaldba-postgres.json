@@ -1,0 +1,7 @@
+{
+  "name": "crystaldba-postgres",
+  "description": "Helps you and your AI agents throughout the entire development process—from writing SQL to tuning performance safely.",
+  "source_repo": "crystaldba/postgres-mcp",
+  "source_url": "https://github.com/crystaldba/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

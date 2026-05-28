@@ -1,0 +1,7 @@
+{
+  "name": "dhenenjay-axion-earth-engine",
+  "description": "Integrates with Google Earth Engine to provide geospatial analysis and satellite imagery processing with NDVI/NDWI calculations, crop classification, wildfire risk assessment, and interactive map generation for environmental monitoring and agricultural analysis.",
+  "source_repo": "dhenenjay/axion-mcp",
+  "source_url": "https://github.com/dhenenjay/axion-mcp",
+  "install": "npx -y axion-mcp"
+}

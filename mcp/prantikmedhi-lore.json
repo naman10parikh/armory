@@ -1,0 +1,7 @@
+{
+  "name": "prantikmedhi-lore",
+  "description": "Automates NotebookLM workflows to transform raw sources into cited reports, PPTX decks, and study packs via MCP tools.",
+  "source_repo": "prantikmedhi/lore",
+  "source_url": "https://github.com/prantikmedhi/lore",
+  "install": "# git clone --depth 1 https://github.com/prantikmedhi/lore\n# See source for mcpServers config block"
+}

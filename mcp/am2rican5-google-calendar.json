@@ -1,0 +1,7 @@
+{
+  "name": "am2rican5-google-calendar",
+  "description": "Integrates with Google Calendar API for managing calendars and events with persistent OAuth token storage, enabling seamless scheduling, retrieval, and modification operations without repeated authentication.",
+  "source_repo": "am2rican5/mcp-google-calendar",
+  "source_url": "https://github.com/am2rican5/mcp-google-calendar",
+  "install": "# git clone --depth 1 https://github.com/am2rican5/mcp-google-calendar\n# See source for mcpServers config block"
+}

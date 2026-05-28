@@ -1,0 +1,7 @@
+{
+  "name": "alvesribeirof-architecture-analysis",
+  "description": "Analyzes source code for SOLID principle violations and design pattern opportunities, providing structured refactoring recommendations powered by AI models.",
+  "source_repo": "alvesribeirof/architecture-analysis-mcp",
+  "source_url": "https://github.com/alvesribeirof/architecture-analysis-mcp",
+  "install": "npx -y architecture-analysis-mcp"
+}

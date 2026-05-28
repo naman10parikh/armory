@@ -1,0 +1,7 @@
+{
+  "name": "vaquill",
+  "description": "Legal research over 8M+ US court opinions, 31M+ Indian judgments, and US statutes via Vaquill's API.",
+  "source_repo": "vaquill-ai/vaquill-mcp",
+  "source_url": "https://github.com/vaquill-ai/vaquill-mcp",
+  "install": "npx -y vaquill-mcp"
+}

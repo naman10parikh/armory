@@ -1,0 +1,7 @@
+{
+  "name": "tejascm007-local-expense-tracker",
+  "description": "Provides local SQLite-based expense tracking with predefined categorization across 19 expense categories, enabling expense recording with date/amount/category/subcategory/note fields, date-range filtering, and category-based summary generation for personal finance management and budget analysis.",
+  "source_repo": "tejascm007/local_expense_trakcer",
+  "source_url": "https://github.com/tejascm007/local_expense_trakcer",
+  "install": "# git clone --depth 1 https://github.com/tejascm007/local_expense_trakcer\n# See source for mcpServers config block"
+}

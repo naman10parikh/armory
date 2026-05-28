@@ -1,0 +1,7 @@
+{
+  "name": "aviman1109-garmin",
+  "description": "Multi-account Garmin Connect integration providing access to fitness data, activities, and health metrics.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/aviman1109-garmin",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/aviman1109-garmin\n# See source for mcpServers config block"
+}

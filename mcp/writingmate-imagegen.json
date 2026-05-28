@@ -1,0 +1,7 @@
+{
+  "name": "writingmate-imagegen",
+  "description": "Provides image generation across multiple AI providers (OpenAI DALL-E, Google Gemini, Replicate Flux) with unified parameter handling, automatic file saving, and provider-specific features like transparent backgrounds and seed control for flexible visual content creation.",
+  "source_repo": "writingmate/imagegen-mcp",
+  "source_url": "https://github.com/writingmate/imagegen-mcp",
+  "install": "npx -y imagegen-mcp"
+}

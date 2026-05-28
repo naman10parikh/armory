@@ -1,0 +1,7 @@
+{
+  "name": "ryan-shaw-poeditor",
+  "description": "Integrates with POEditor's translation management platform to streamline localization workflows by enabling bulk translation operations, term management, and project coordination across multiple languages.",
+  "source_repo": "ryan-shaw/poeditor-mcp",
+  "source_url": "https://github.com/ryan-shaw/poeditor-mcp",
+  "install": "npx -y poeditor-mcp"
+}

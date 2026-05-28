@@ -1,0 +1,7 @@
+{
+  "name": "futureunreal-pdf2md",
+  "description": "Converts PDF documents to Markdown format while preserving document structure, enabling content migration and making PDF content more accessible and editable.",
+  "source_repo": "futureunreal/mcp-pdf2md",
+  "source_url": "https://github.com/futureunreal/mcp-pdf2md",
+  "install": "# git clone --depth 1 https://github.com/futureunreal/mcp-pdf2md\n# See source for mcpServers config block"
+}

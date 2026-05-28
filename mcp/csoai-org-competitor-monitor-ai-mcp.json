@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-competitor-monitor-ai-mcp",
+  "description": "Tools for monitoring competitor activity and market intelligence.",
+  "source_repo": "csoai-org/competitor-monitor-ai-mcp",
+  "source_url": "https://github.com/csoai-org/competitor-monitor-ai-mcp",
+  "install": "npx -y competitor-monitor-ai-mcp"
+}

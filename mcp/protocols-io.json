@@ -1,0 +1,7 @@
+{
+  "name": "protocols-io",
+  "description": "Integrates with protocols.io platform to enable searching, retrieving, and managing scientific laboratory protocols with full CRUD operations for protocol collections, metadata, and step-by-step procedures.",
+  "source_repo": "hqn21/protocols-io-mcp-server",
+  "source_url": "https://github.com/hqn21/protocols-io-mcp-server",
+  "install": "npx -y protocols-io-mcp-server"
+}

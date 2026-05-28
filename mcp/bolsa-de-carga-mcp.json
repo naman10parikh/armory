@@ -1,0 +1,7 @@
+{
+  "name": "bolsa-de-carga-mcp",
+  "description": "Freight marketplace MCP server for European road logistics. Search and manage freight loads, post truck capacity, create auctions, manage deliveries and drivers through the Cargoffer Bolsa de Carga API. Connect your AI agent to the freight marketplace.",
+  "source_repo": "cargoffer/bolsa_de_carga-mcp",
+  "source_url": "https://github.com/cargoffer/bolsa_de_carga-mcp",
+  "install": "npx -y bolsa_de_carga-mcp"
+}

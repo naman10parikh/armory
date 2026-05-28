@@ -1,0 +1,7 @@
+{
+  "name": "kevinrabun-judges",
+  "description": "Evaluates AI-generated code for security, cost, and quality with AST analysis.",
+  "source_repo": "kevinrabun/judges",
+  "source_url": "https://github.com/kevinrabun/judges",
+  "install": "# git clone --depth 1 https://github.com/kevinrabun/judges\n# See source for mcpServers config block"
+}

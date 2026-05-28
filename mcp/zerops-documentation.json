@@ -1,0 +1,7 @@
+{
+  "name": "zerops-documentation",
+  "description": "Indexes and serves Zerops documentation content for direct access within development environments, enabling developers to search and retrieve relevant information without context switching.",
+  "source_repo": "nermalcat69/zerops-mcp",
+  "source_url": "https://github.com/nermalcat69/zerops-mcp",
+  "install": "npx -y zerops-mcp"
+}

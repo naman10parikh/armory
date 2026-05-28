@@ -1,0 +1,7 @@
+{
+  "name": "boam79-depreciation",
+  "description": "Fixed asset depreciation calculations based on South Korean corporate tax law standards.",
+  "source_repo": "boam79/depreciation-mcp",
+  "source_url": "https://github.com/boam79/depreciation-mcp",
+  "install": "npx -y depreciation-mcp"
+}

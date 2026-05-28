@@ -1,0 +1,7 @@
+{
+  "name": "package-version-check-mcp",
+  "description": "Returns the latest stable versions of packages and tools across Python, NPM, Go, Docker, Helm, and other ecosystems.",
+  "source_repo": "mshekow/package-version-check-mcp",
+  "source_url": "https://github.com/mshekow/package-version-check-mcp",
+  "install": "npx -y package-version-check-mcp"
+}

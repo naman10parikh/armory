@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-logistics-ai-mcp",
+  "description": "Python MCP server for logistics planning and supply chain management.",
+  "source_repo": "csoai-org/logistics-ai-mcp",
+  "source_url": "https://github.com/csoai-org/logistics-ai-mcp",
+  "install": "npx -y logistics-ai-mcp"
+}

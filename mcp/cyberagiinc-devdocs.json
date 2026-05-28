@@ -1,0 +1,7 @@
+{
+  "name": "cyberagiinc-devdocs",
+  "description": "Free, private, UI-based software documentation context management server. Designed with software developers in mind.",
+  "source_repo": "cyberagiinc/devdocs",
+  "source_url": "https://github.com/cyberagiinc/devdocs",
+  "install": "# git clone --depth 1 https://github.com/cyberagiinc/devdocs\n# See source for mcpServers config block"
+}

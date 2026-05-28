@@ -1,0 +1,7 @@
+{
+  "name": "cancerdao-oncology-db",
+  "description": "Queries precision oncology databases including CIViC, OpenFDA, and ClinicalTrials.gov for clinical evidence and drug data.",
+  "source_repo": "cancerdao/oncology-db-mcp",
+  "source_url": "https://github.com/cancerdao/oncology-db-mcp",
+  "install": "npx -y oncology-db-mcp"
+}

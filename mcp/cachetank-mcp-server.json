@@ -1,0 +1,7 @@
+{
+  "name": "cachetank-mcp-server",
+  "description": "Provides persistent personal context (identity, projects, decisions, knowledge) to MCP-compatible AI tools, eliminating the need to re-explain yourself across sessions.",
+  "source_repo": "July-Blue-Sky-LLC/cachetank-mcp",
+  "source_url": "https://github.com/July-Blue-Sky-LLC/cachetank-mcp",
+  "install": "npx -y cachetank-mcp"
+}

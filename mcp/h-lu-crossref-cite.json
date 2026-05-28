@@ -1,0 +1,7 @@
+{
+  "name": "h-lu-crossref-cite",
+  "description": "Resolves academic paper citations via the Crossref API.",
+  "source_repo": "h-lu/crossref-cite-mcp",
+  "source_url": "https://github.com/h-lu/crossref-cite-mcp",
+  "install": "npx -y crossref-cite-mcp"
+}

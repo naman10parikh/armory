@@ -1,0 +1,7 @@
+{
+  "name": "sim-xia-blind-auditor",
+  "description": "A zero-cost MCP server that forces AI to self-correct generation messages using prompt injection, independent self-audition and context isolation.",
+  "source_repo": "Sim-xia/Blind-Auditor",
+  "source_url": "https://github.com/Sim-xia/Blind-Auditor",
+  "install": "# git clone --depth 1 https://github.com/Sim-xia/Blind-Auditor\n# See source for mcpServers config block"
+}

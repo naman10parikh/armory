@@ -1,0 +1,7 @@
+{
+  "name": "seah-boon-keong-chat-with-bnm-api-datasets-4",
+  "description": "MCP for public datasets on BNM Open Data API (Developed by Seah Boon Keong) Allows users to access a wide range of financial and economic data published by Bank Negara Malaysia. Users can retrieve data on various economic indicators such as current exchange rates, OPR, interbank activity, government",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/seahbk1006/seahboonkeong-chat-bnmapi",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/seahbk1006/seahboonkeong-chat-bnmapi\n# See source for mcpServers config block"
+}

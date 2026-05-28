@@ -1,0 +1,7 @@
+{
+  "name": "ddaltn-raindrop",
+  "description": "Integrates with Raindrop.io to enable natural language management of bookmarking collections and tags for streamlined organization workflows.",
+  "source_repo": "ddltn/raindrop-mcp-python",
+  "source_url": "https://github.com/ddltn/raindrop-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/ddltn/raindrop-mcp-python\n# See source for mcpServers config block"
+}

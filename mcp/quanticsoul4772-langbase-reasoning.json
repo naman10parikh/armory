@@ -1,0 +1,7 @@
+{
+  "name": "quanticsoul4772-langbase-reasoning",
+  "description": "Structured reasoning with Langbase Pipes integration supporting nine modes including linear, tree-based, divergent thinking, and Graph-of-Thoughts",
+  "source_repo": "quanticsoul4772/mcp-langbase-reasoning",
+  "source_url": "https://github.com/quanticsoul4772/mcp-langbase-reasoning",
+  "install": "# git clone --depth 1 https://github.com/quanticsoul4772/mcp-langbase-reasoning\n# See source for mcpServers config block"
+}

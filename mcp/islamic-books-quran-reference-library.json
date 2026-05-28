@@ -1,0 +1,7 @@
+{
+  "name": "islamic-books-quran-reference-library",
+  "description": "Search a curated library of 1,900+ Islamic books including English translations of the Holy Quran with detailed verse-by-verse commentary, foundational texts on Islamic philosophy, theology, and history, biographies of the Prophet Muhammad (peace be upon him), books on prayer, fasting, Hajj, compara",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/hashirsiddiqui15/ami-bookstore-mcp-h",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/hashirsiddiqui15/ami-bookstore-mcp-h\n# See source for mcpServers config block"
+}

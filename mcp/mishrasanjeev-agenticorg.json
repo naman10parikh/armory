@@ -1,0 +1,7 @@
+{
+  "name": "mishrasanjeev-agenticorg",
+  "description": "Multi-agent platform with integrations for finance, HR, marketing, and operations workflows.",
+  "source_repo": "mishrasanjeev/agentic-org",
+  "source_url": "https://github.com/mishrasanjeev/agentic-org",
+  "install": "# git clone --depth 1 https://github.com/mishrasanjeev/agentic-org\n# See source for mcpServers config block"
+}

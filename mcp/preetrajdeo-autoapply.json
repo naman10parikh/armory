@@ -1,0 +1,7 @@
+{
+  "name": "preetrajdeo-autoapply",
+  "description": "Automates job applications using a real browser to fill forms on Greenhouse, Lever, Workday, and LinkedIn.",
+  "source_repo": "preetrajdeo/autoapply-mcp",
+  "source_url": "https://github.com/preetrajdeo/autoapply-mcp",
+  "install": "npx -y autoapply-mcp"
+}

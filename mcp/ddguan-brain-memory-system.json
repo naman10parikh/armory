@@ -1,0 +1,7 @@
+{
+  "name": "ddguan-brain-memory-system",
+  "description": "Provides persistent memory and structured reasoning capabilities through dual-layer memory systems (FIFO cache and graph-based storage) with cognitive mode switching, thought chain management, and association-based retrieval for complex problem-solving workflows.",
+  "source_repo": "ddguan2010/brain-mcp",
+  "source_url": "https://github.com/ddguan2010/brain-mcp",
+  "install": "npx -y brain-mcp"
+}

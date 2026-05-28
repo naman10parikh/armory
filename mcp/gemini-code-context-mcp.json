@@ -1,0 +1,7 @@
+{
+  "name": "gemini-code-context-mcp",
+  "description": "Persistent Gemini 2M context cache for Claude Code — repeat queries up to 8× faster and 4× cheaper.",
+  "source_repo": "qmediat/gemini-code-context-mcp",
+  "source_url": "https://github.com/qmediat/gemini-code-context-mcp",
+  "install": "npx -y gemini-code-context-mcp"
+}

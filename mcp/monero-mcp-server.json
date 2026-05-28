@@ -1,0 +1,7 @@
+{
+  "name": "monero-mcp-server",
+  "description": "MCP server that gives AI agents a private Monero wallet, enabling balance checks, payment receiving, and XMR transfers through a tool interface.",
+  "source_repo": "Baltsar/monero-mcp",
+  "source_url": "https://github.com/Baltsar/monero-mcp",
+  "install": "npx -y monero-mcp"
+}

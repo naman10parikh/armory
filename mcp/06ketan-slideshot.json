@@ -1,0 +1,7 @@
+{
+  "name": "06ketan-slideshot",
+  "description": "Convert HTML to PDF, PNG, WebP, and PPTX slide carousels with 11 presentation themes.",
+  "source_repo": "06ketan/slideshot",
+  "source_url": "https://github.com/06ketan/slideshot",
+  "install": "# git clone --depth 1 https://github.com/06ketan/slideshot\n# See source for mcpServers config block"
+}

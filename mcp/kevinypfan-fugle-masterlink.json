@@ -1,0 +1,7 @@
+{
+  "name": "kevinypfan-fugle-masterlink",
+  "description": "Provides a bridge between AI systems and the Masterlink SDK for Taiwan stock market trading, enabling account management, market data retrieval, and trade execution for financial analysis and automated trading strategies.",
+  "source_repo": "fugle-dev/fugle-mcp-server",
+  "source_url": "https://github.com/fugle-dev/fugle-mcp-server",
+  "install": "npx -y fugle-mcp-server"
+}

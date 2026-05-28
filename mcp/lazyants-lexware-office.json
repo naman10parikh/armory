@@ -1,0 +1,7 @@
+{
+  "name": "lazyants-lexware-office",
+  "description": "Integrates with the Lexware Office API for managing invoices, contacts, articles, vouchers, and German accounting workflows.",
+  "source_repo": "lazyants/lexware-mcp-server",
+  "source_url": "https://github.com/lazyants/lexware-mcp-server",
+  "install": "npx -y lexware-mcp-server"
+}

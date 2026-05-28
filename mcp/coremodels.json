@@ -1,0 +1,7 @@
+{
+  "name": "coremodels",
+  "description": "Schema library MCP server providing AI agents with access to 1,560+ community-curated industry data models and schema governance tools.",
+  "source_repo": "",
+  "source_url": "https://coremodels.io",
+  "install": "# git clone --depth 1 https://coremodels.io\n# See source for mcpServers config block"
+}

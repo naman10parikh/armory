@@ -1,0 +1,7 @@
+{
+  "name": "node-man-dechonet-mcp",
+  "description": "Security reconnaissance toolkit with 13 tools covering DNS, SSL, HTTP, email, port scanning, and ASN lookups.",
+  "source_repo": "node-man/dechonet-mcp",
+  "source_url": "https://github.com/node-man/dechonet-mcp",
+  "install": "npx -y dechonet-mcp"
+}

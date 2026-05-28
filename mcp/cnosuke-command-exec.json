@@ -1,0 +1,7 @@
+{
+  "name": "cnosuke-command-exec",
+  "description": "Enables secure remote command execution with robust security controls like command allowlisting, direct command invocation without shell access, and strict environment management for controlled system interactions.",
+  "source_repo": "cnosuke/mcp-command-exec",
+  "source_url": "https://github.com/cnosuke/mcp-command-exec",
+  "install": "# git clone --depth 1 https://github.com/cnosuke/mcp-command-exec\n# See source for mcpServers config block"
+}

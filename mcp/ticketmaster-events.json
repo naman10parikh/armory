@@ -1,0 +1,7 @@
+{
+  "name": "ticketmaster-events",
+  "description": "Connects to Ticketmaster's Discover API to find upcoming events by artist, venue, location, or genre with ticket availability information, enabling users to discover local entertainment options and track favorite artists' tour schedules.",
+  "source_repo": "akshay23/local-events-mcp-server",
+  "source_url": "https://github.com/akshay23/local-events-mcp-server",
+  "install": "npx -y local-events-mcp-server"
+}

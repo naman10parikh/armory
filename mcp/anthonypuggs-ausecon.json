@@ -1,0 +1,7 @@
+{
+  "name": "anthonypuggs-ausecon",
+  "description": "MCP server for Australian macroeconomic data from the Reserve Bank of Australia (RBA) and Australian Bureau of Statistics (ABS).",
+  "source_repo": "anthonypuggs/ausecon-mcp-server",
+  "source_url": "https://github.com/anthonypuggs/ausecon-mcp-server",
+  "install": "npx -y ausecon-mcp-server"
+}

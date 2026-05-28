@@ -1,0 +1,7 @@
+{
+  "name": "well-being-check",
+  "description": "Mental health assessment tool that delivers standardized psychological tests and well-being surveys.",
+  "source_repo": "keen-mcp/mental-tests",
+  "source_url": "https://github.com/keen-mcp/mental-tests",
+  "install": "# git clone --depth 1 https://github.com/keen-mcp/mental-tests\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "timmx7-acheron-mcp-server",
+  "description": "Cross-surface persistent memory for Claude. Bridges context between Claude Chat, Code, and Cowork via local SQLite with full-text search. Save decisions, preferences, and insights in one surface, retrieve them in any other.",
+  "source_repo": "timmx7/acheron-mcp-server",
+  "source_url": "https://github.com/timmx7/acheron-mcp-server",
+  "install": "npx -y acheron-mcp-server"
+}

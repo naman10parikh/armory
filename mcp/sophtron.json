@@ -1,0 +1,7 @@
+{
+  "name": "sophtron",
+  "description": "Connect to financial, utility, and billing accounts to retrieve balance, transaction, payment, and identity data",
+  "source_repo": "sophtron/sophtron-integration",
+  "source_url": "https://github.com/sophtron/sophtron-integration/tree/HEAD/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://github.com/sophtron/sophtron-integration/tree/HEAD/modelcontextprotocol\n# See source for mcpServers config block"
+}

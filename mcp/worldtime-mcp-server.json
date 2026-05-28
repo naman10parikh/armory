@@ -1,0 +1,7 @@
+{
+  "name": "worldtime-mcp-server",
+  "description": "Worldtime Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "usrrname/worldtime-mcp-server",
+  "source_url": "https://mcp.so/server/worldtime-mcp-server/usrrname",
+  "install": "npx -y worldtime-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-pvgis",
+  "description": "Solar energy yield modeling and PV system simulation via the EU JRC PVGIS API through Pipeworx's managed gateway.",
+  "source_repo": "pipeworx-io/mcp-pvgis",
+  "source_url": "https://github.com/pipeworx-io/mcp-pvgis",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-pvgis\n# See source for mcpServers config block"
+}

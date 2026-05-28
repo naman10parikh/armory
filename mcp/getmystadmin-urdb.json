@@ -1,0 +1,7 @@
+{
+  "name": "getmystadmin-urdb",
+  "description": "Search the URDB product integrity database for enshittification events, integrity scores, and change tracking.",
+  "source_repo": "getmystadmin/urdb-mcp",
+  "source_url": "https://github.com/getmystadmin/urdb-mcp",
+  "install": "npx -y urdb-mcp"
+}

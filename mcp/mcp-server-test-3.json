@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-test-3",
+  "description": "Mcp Server Test MCP server listed on mcp.so.",
+  "source_repo": "Erkkul/mcp-server-test",
+  "source_url": "https://mcp.so/server/mcp-server-test/Erkkul",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-test/Erkkul\n# See source for mcpServers config block"
+}

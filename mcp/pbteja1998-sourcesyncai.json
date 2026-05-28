@@ -1,0 +1,7 @@
+{
+  "name": "pbteja1998-sourcesyncai",
+  "description": "Integrates with SourceSync.ai's knowledge management platform to enable namespace management, content ingestion, document retrieval, and semantic search capabilities for efficient information discovery and knowledge base interactions.",
+  "source_repo": "sitegpt/sourcesyncai-mcp",
+  "source_url": "https://github.com/sitegpt/sourcesyncai-mcp",
+  "install": "npx -y sourcesyncai-mcp"
+}

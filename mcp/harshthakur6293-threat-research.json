@@ -1,0 +1,7 @@
+{
+  "name": "harshthakur6293-threat-research",
+  "description": "Extract IOCs, map MITRE ATT&CK techniques, enrich with threat intelligence, and generate Sigma/KQL/SPL detection rules from threat reports.",
+  "source_repo": "harshthakur6293/threat-research-mcp",
+  "source_url": "https://github.com/harshthakur6293/threat-research-mcp",
+  "install": "npx -y threat-research-mcp"
+}

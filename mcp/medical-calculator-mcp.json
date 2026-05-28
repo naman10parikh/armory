@@ -1,0 +1,7 @@
+{
+  "name": "medical-calculator-mcp",
+  "description": "Medical_calculator_MCP MCP server listed on mcp.so.",
+  "source_repo": "johnyquest7/Medical_calculator_MCP",
+  "source_url": "https://mcp.so/server/Medical_calculator_MCP/johnyquest7",
+  "install": "npx -y Medical_calculator_MCP"
+}

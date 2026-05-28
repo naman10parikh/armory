@@ -1,0 +1,7 @@
+{
+  "name": "times1234-hypermesh",
+  "description": "Controls Altair HyperMesh meshing operations via AI-generated Tcl scripts for drag hex, spin hex, and tetrahedral meshing.",
+  "source_repo": "times1234/hypermesh-mcp",
+  "source_url": "https://github.com/times1234/hypermesh-mcp",
+  "install": "npx -y hypermesh-mcp"
+}

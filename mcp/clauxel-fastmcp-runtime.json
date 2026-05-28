@@ -1,0 +1,7 @@
+{
+  "name": "clauxel-fastmcp-runtime",
+  "description": "Hosted MCP runtime with health checks, tool schema listing, proxied tool calls, and usage receipts.",
+  "source_repo": "clauxel/fastmcp-runtime-mcp",
+  "source_url": "https://github.com/clauxel/fastmcp-runtime-mcp",
+  "install": "npx -y fastmcp-runtime-mcp"
+}

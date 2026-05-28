@@ -1,0 +1,7 @@
+{
+  "name": "eu-regulations",
+  "description": "Query 61 EU regulations (GDPR, NIS2, DORA, AI Act +57) via Ansvar Gateway. 50 free queries/day.",
+  "source_repo": "ansvar-systems/eu_compliance_mcp",
+  "source_url": "https://github.com/ansvar-systems/eu_compliance_mcp",
+  "install": "npx -y eu_compliance_mcp"
+}

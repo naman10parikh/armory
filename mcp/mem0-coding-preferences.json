@@ -1,0 +1,7 @@
+{
+  "name": "mem0-coding-preferences",
+  "description": "Integrates with mem0.ai to store, retrieve, and semantically search coding preferences, snippets, and programming knowledge through a persistent FastMCP server using SSE connections.",
+  "source_repo": "mem0ai/mem0-mcp",
+  "source_url": "https://github.com/mem0ai/mem0-mcp",
+  "install": "npx -y mem0-mcp"
+}

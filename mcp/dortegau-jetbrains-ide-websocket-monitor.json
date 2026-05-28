@@ -1,0 +1,7 @@
+{
+  "name": "dortegau-jetbrains-ide-websocket-monitor",
+  "description": "JetBrains MCP Server fork that broadcasts real-time WebSocket monitoring of all tool calls between clients and IDEs for debugging and extending integration functionality.",
+  "source_repo": "dortegau/mcp-proxy-sidecar",
+  "source_url": "https://github.com/dortegau/mcp-proxy-sidecar",
+  "install": "# git clone --depth 1 https://github.com/dortegau/mcp-proxy-sidecar\n# See source for mcpServers config block"
+}

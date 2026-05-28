@@ -1,0 +1,7 @@
+{
+  "name": "composer-trade-mcp",
+  "description": "Enables MCP-enabled LLMs to create, backtest, and trade automated investing strategies (symphonies) on Composer, with tools for monitoring performance and adjusting portfolio exposure.",
+  "source_repo": "tanwithme/composer-trade-mcp",
+  "source_url": "https://github.com/tanwithme/composer-trade-mcp",
+  "install": "npx -y composer-trade-mcp"
+}

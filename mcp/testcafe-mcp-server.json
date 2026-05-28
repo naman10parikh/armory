@@ -1,0 +1,7 @@
+{
+  "name": "testcafe-mcp-server",
+  "description": "Bridges AI assistants with TestCafe testing capabilities, enabling AI-driven browser automation and test creation.",
+  "source_repo": "rkdfx/testcafe-mcp",
+  "source_url": "https://github.com/rkdfx/testcafe-mcp",
+  "install": "npx -y testcafe-mcp"
+}

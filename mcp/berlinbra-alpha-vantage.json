@@ -1,0 +1,7 @@
+{
+  "name": "berlinbra-alpha-vantage",
+  "description": "Integrates with Alpha Vantage API to provide real-time financial market data for stock quotes, company information, cryptocurrency rates, and historical prices.",
+  "source_repo": "berlinbra/alpha-vantage-mcp",
+  "source_url": "https://github.com/berlinbra/alpha-vantage-mcp",
+  "install": "npx -y alpha-vantage-mcp"
+}

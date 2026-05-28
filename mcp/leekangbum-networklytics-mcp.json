@@ -1,0 +1,7 @@
+{
+  "name": "leekangbum-networklytics-mcp",
+  "description": "YouTube comment social network analysis (SNA): influencer centrality ranking, community detection (Louvain), sentiment analysis, and public JSON API for AI agents",
+  "source_repo": "Leekangbum/networklytics-mcp",
+  "source_url": "https://github.com/Leekangbum/networklytics-mcp",
+  "install": "npx -y networklytics-mcp"
+}

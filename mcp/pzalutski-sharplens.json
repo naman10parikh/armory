@@ -1,0 +1,7 @@
+{
+  "name": "pzalutski-sharplens",
+  "description": "62 semantic C# and .NET analysis tools via Roslyn for navigation, refactoring, and code generation.",
+  "source_repo": "pzalutski-pixel/sharplens-mcp",
+  "source_url": "https://github.com/pzalutski-pixel/sharplens-mcp",
+  "install": "npx -y sharplens-mcp"
+}

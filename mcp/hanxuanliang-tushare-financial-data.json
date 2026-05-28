@@ -1,0 +1,7 @@
+{
+  "name": "hanxuanliang-tushare-financial-data",
+  "description": "Integrates with TuShare financial API to provide structured access to Chinese market data including stock listings, concept themes, money flow statistics, and minute-level price data.",
+  "source_repo": "hanxuanliang/tsrs-mcp-server",
+  "source_url": "https://github.com/hanxuanliang/tsrs-mcp-server",
+  "install": "npx -y tsrs-mcp-server"
+}

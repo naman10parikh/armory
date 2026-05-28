@@ -1,0 +1,7 @@
+{
+  "name": "deepsuthar496-figma",
+  "description": "Integrates with Figma's API to enable direct interaction with design files, components, comments, and team resources within conversations through authenticated access token communication.",
+  "source_repo": "deepsuthar496/figma-mcp-server",
+  "source_url": "https://github.com/deepsuthar496/figma-mcp-server",
+  "install": "npx -y figma-mcp-server"
+}

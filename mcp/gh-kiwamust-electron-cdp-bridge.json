@@ -1,0 +1,7 @@
+{
+  "name": "gh-kiwamust-electron-cdp-bridge",
+  "description": "Bridge Chrome DevTools Protocol to MCP for controlling Electron applications.",
+  "source_repo": "kiwamust/electron-mcp-forge",
+  "source_url": "https://github.com/kiwamust/electron-mcp-forge",
+  "install": "# git clone --depth 1 https://github.com/kiwamust/electron-mcp-forge\n# See source for mcpServers config block"
+}

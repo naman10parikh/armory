@@ -1,0 +1,7 @@
+{
+  "name": "shreyaskarnik-huggingface",
+  "description": "Provides direct access to thousands of Hugging Face models and resources with optional authentication, enabling natural language processing and image generation capabilities within conversation interfaces.",
+  "source_repo": "shreyaskarnik/huggingface-mcp-server",
+  "source_url": "https://github.com/shreyaskarnik/huggingface-mcp-server",
+  "install": "npx -y huggingface-mcp-server"
+}

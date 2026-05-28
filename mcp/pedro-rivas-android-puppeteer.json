@@ -1,0 +1,7 @@
+{
+  "name": "pedro-rivas-android-puppeteer",
+  "description": "Visual-first Android automation with UI element detection and device control",
+  "source_repo": "pedro-rivas/android-puppeteer-mcp",
+  "source_url": "https://github.com/pedro-rivas/android-puppeteer-mcp",
+  "install": "npx -y android-puppeteer-mcp"
+}

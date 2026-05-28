@@ -1,0 +1,7 @@
+{
+  "name": "siddhant-k-code-devto",
+  "description": "Integrates with Dev.to's API, enabling article publishing, content retrieval, and user interactions on the platform.",
+  "source_repo": "siddhant-k-code/mcp-devto-server",
+  "source_url": "https://github.com/siddhant-k-code/mcp-devto-server",
+  "install": "# git clone --depth 1 https://github.com/siddhant-k-code/mcp-devto-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rados10-youtube-watch-later",
+  "description": "Integrates with YouTube API to manage Watch Later playlists, enabling content curation, video recommendations, and automated playlist management.",
+  "source_repo": "rados10/youtube-watchlater-mcp",
+  "source_url": "https://github.com/rados10/youtube-watchlater-mcp",
+  "install": "npx -y youtube-watchlater-mcp"
+}

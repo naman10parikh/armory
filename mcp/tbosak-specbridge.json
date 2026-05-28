@@ -1,0 +1,7 @@
+{
+  "name": "tbosak-specbridge",
+  "description": "Automatically converts OpenAPI specifications into executable tools by scanning folders for spec files and generating corresponding endpoints with parameter validation, authentication support, and HTTP request handling.",
+  "source_repo": "tbosak/specbridge",
+  "source_url": "https://github.com/tbosak/specbridge",
+  "install": "# git clone --depth 1 https://github.com/tbosak/specbridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blocklens",
+  "description": "Bitcoin on-chain analytics with 127 metrics covering valuation, profitability, coin days, ETF flows, and cycle performance.",
+  "source_repo": "blocklens/blocklens-mcp-server",
+  "source_url": "https://github.com/blocklens/blocklens-mcp-server",
+  "install": "npx -y blocklens-mcp-server"
+}

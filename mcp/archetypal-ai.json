@@ -1,0 +1,7 @@
+{
+  "name": "archetypal-ai",
+  "description": "Persistent memory for AI agents with recall, remember, and checkpoint tools that preserve context across Claude Code sessions.",
+  "source_repo": "archetypal-ai/archetypal-ai",
+  "source_url": "https://github.com/archetypal-ai/archetypal-ai",
+  "install": "# git clone --depth 1 https://github.com/archetypal-ai/archetypal-ai\n# See source for mcpServers config block"
+}

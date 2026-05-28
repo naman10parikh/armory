@@ -1,0 +1,7 @@
+{
+  "name": "valuein",
+  "description": "SEC EDGAR financial data including company filings, fundamentals, ratios, and DCF inputs via a production MCP endpoint.",
+  "source_repo": "valuein/valuein",
+  "source_url": "https://github.com/valuein/valuein",
+  "install": "# git clone --depth 1 https://github.com/valuein/valuein\n# See source for mcpServers config block"
+}

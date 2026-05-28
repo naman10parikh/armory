@@ -1,0 +1,7 @@
+{
+  "name": "hanzo-mcp",
+  "description": "Enables access to Hanzo APIs and Platform capabilities via MCP, along with development tools for managing and improving projects.",
+  "source_repo": "Dream-AI-4444/mcp",
+  "source_url": "https://github.com/Dream-AI-4444/mcp",
+  "install": "# git clone --depth 1 https://github.com/Dream-AI-4444/mcp\n# See source for mcpServers config block"
+}

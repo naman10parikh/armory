@@ -1,0 +1,7 @@
+{
+  "name": "gossiper-shopify-admin",
+  "description": "Integrates with Shopify Admin API for store management including products, orders, customers, and inventory through natural language commands.",
+  "source_repo": "",
+  "source_url": "https://gossiper.ai",
+  "install": "# git clone --depth 1 https://gossiper.ai\n# See source for mcpServers config block"
+}

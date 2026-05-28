@@ -1,0 +1,7 @@
+{
+  "name": "auxen",
+  "description": "Private dedicated GPU instances running open-source AI models with pay-per-minute billing.",
+  "source_repo": "auxen-ai/auxen-mcp",
+  "source_url": "https://github.com/auxen-ai/auxen-mcp",
+  "install": "npx -y auxen-mcp"
+}

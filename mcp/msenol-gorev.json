@@ -1,0 +1,7 @@
+{
+  "name": "msenol-gorev",
+  "description": "Task management system with bilingual support for Turkish and English",
+  "source_repo": "msenol/gorev",
+  "source_url": "https://github.com/msenol/gorev",
+  "install": "# git clone --depth 1 https://github.com/msenol/gorev\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "things-cloud-mcp",
+  "description": "MCP server that gives AI agents read/write access to your Things3 tasks via the Things API.",
+  "source_repo": "nkootstra/things",
+  "source_url": "https://github.com/nkootstra/things",
+  "install": "# git clone --depth 1 https://github.com/nkootstra/things\n# See source for mcpServers config block"
+}

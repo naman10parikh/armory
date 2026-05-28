@@ -1,0 +1,7 @@
+{
+  "name": "excel-mcp-server",
+  "description": "Excel Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "zhiwei5576/excel-mcp-server",
+  "source_url": "https://mcp.so/server/excel-mcp-server/zhiwei5576",
+  "install": "npx -y excel-mcp-server"
+}

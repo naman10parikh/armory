@@ -1,0 +1,7 @@
+{
+  "name": "michaelpryor-trello",
+  "description": "Manages Trello boards, lists, cards, labels, checklists, and custom fields via hosted OAuth endpoint.",
+  "source_repo": "michaelpryor/mcpfortrello",
+  "source_url": "https://github.com/michaelpryor/mcpfortrello",
+  "install": "# git clone --depth 1 https://github.com/michaelpryor/mcpfortrello\n# See source for mcpServers config block"
+}

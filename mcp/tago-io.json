@@ -1,0 +1,7 @@
+{
+  "name": "tago-io",
+  "description": "IoT platform integration for device operations and data analysis",
+  "source_repo": "tago-io/mcp-server",
+  "source_url": "https://github.com/tago-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/tago-io/mcp-server\n# See source for mcpServers config block"
+}

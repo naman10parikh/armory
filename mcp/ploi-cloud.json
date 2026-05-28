@@ -1,0 +1,7 @@
+{
+  "name": "ploi-cloud",
+  "description": "European cloud hosting: deploy and manage servers, apps, domains, and databases for AI agents.",
+  "source_repo": "",
+  "source_url": "https://ploi.cloud",
+  "install": "# git clone --depth 1 https://ploi.cloud\n# See source for mcpServers config block"
+}

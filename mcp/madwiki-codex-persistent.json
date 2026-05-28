@@ -1,0 +1,7 @@
+{
+  "name": "madwiki-codex-persistent",
+  "description": "Proxy interface to OpenAI's Codex CLI with persistent session management, enabling conversational context preservation across multiple interactions through automatic session tracking and role cards.",
+  "source_repo": "madwiki/codex-persistent-mcp",
+  "source_url": "https://github.com/madwiki/codex-persistent-mcp",
+  "install": "npx -y codex-persistent-mcp"
+}

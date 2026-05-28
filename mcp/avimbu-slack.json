@@ -1,0 +1,7 @@
+{
+  "name": "avimbu-slack",
+  "description": "Provides a bridge to the Slack API, enabling message posting and user list retrieval for workspace interactions through a TypeScript implementation.",
+  "source_repo": "avimbu/slack-mcp-server",
+  "source_url": "https://github.com/avimbu/slack-mcp-server",
+  "install": "npx -y slack-mcp-server"
+}

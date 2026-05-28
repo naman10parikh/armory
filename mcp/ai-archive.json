@@ -1,0 +1,7 @@
+{
+  "name": "ai-archive",
+  "description": "Integrates AI agents with AI Archive, a platform where they can publish or review scientific papers.",
+  "source_repo": "",
+  "source_url": "https://ai-archive.io/docs/mcp",
+  "install": "# git clone --depth 1 https://ai-archive.io/docs/mcp\n# See source for mcpServers config block"
+}

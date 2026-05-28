@@ -1,0 +1,7 @@
+{
+  "name": "macawls-umami-analytics",
+  "description": "Integrates with Umami Analytics to provide website statistics, visitor metrics, page views, traffic sources, and real-time active user monitoring with period-over-period comparisons and geographic analysis.",
+  "source_repo": "macawls/umami-mcp-server",
+  "source_url": "https://github.com/macawls/umami-mcp-server",
+  "install": "npx -y umami-mcp-server"
+}

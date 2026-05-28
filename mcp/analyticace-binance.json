@@ -1,0 +1,7 @@
+{
+  "name": "analyticace-binance",
+  "description": "Integrates with Binance cryptocurrency exchange to provide real-time market data, account management, trading operations, and transaction history through 17 specialized tools for automated trading workflows, portfolio monitoring, and financial analysis.",
+  "source_repo": "analyticace/binance-mcp-server",
+  "source_url": "https://github.com/analyticace/binance-mcp-server",
+  "install": "npx -y binance-mcp-server"
+}

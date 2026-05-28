@@ -1,0 +1,7 @@
+{
+  "name": "personal-context-technology-mcp-server",
+  "description": "Enables AI assistants to access and update personalized context data, creating persistent memory between sessions.",
+  "source_repo": "mikhashev/pct-mcp-server",
+  "source_url": "https://github.com/mikhashev/pct-mcp-server",
+  "install": "npx -y pct-mcp-server"
+}

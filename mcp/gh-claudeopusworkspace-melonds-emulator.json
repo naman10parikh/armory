@@ -1,0 +1,7 @@
+{
+  "name": "gh-claudeopusworkspace-melonds-emulator",
+  "description": "Control and interact with a Nintendo DS emulator through MCP.",
+  "source_repo": "claudeopusworkspace/melonmcp",
+  "source_url": "https://github.com/claudeopusworkspace/melonmcp",
+  "install": "# git clone --depth 1 https://github.com/claudeopusworkspace/melonmcp\n# See source for mcpServers config block"
+}

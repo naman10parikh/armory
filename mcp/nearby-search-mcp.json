@@ -1,0 +1,7 @@
+{
+  "name": "nearby-search-mcp",
+  "description": "Nearby Search Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/nearby-search-mcp",
+  "source_url": "https://mcp.so/server/nearby-search-mcp/kukapay",
+  "install": "npx -y nearby-search-mcp"
+}

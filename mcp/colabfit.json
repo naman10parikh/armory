@@ -1,0 +1,7 @@
+{
+  "name": "colabfit",
+  "description": "Query and download datasets from the ColabFit materials science database",
+  "source_repo": "colabfit/colabfit-mcp",
+  "source_url": "https://github.com/colabfit/colabfit-mcp",
+  "install": "npx -y colabfit-mcp"
+}

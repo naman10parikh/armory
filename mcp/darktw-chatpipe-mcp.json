@@ -1,0 +1,7 @@
+{
+  "name": "darktw-chatpipe-mcp",
+  "description": "Publish HTML as live, shareable web pages from your AI coding agent. Instant URLs with access control (public, password-protected, email-restricted).",
+  "source_repo": "darktw/chatpipe-mcp",
+  "source_url": "https://github.com/darktw/chatpipe-mcp",
+  "install": "npx -y chatpipe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "astravue",
+  "description": "Manage projects, tasks, time tracking, and team collaboration through natural language.",
+  "source_repo": "astravueorg/astravue-mcp-server",
+  "source_url": "https://github.com/astravueorg/astravue-mcp-server",
+  "install": "npx -y astravue-mcp-server"
+}

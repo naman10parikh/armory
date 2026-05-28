@@ -1,0 +1,7 @@
+{
+  "name": "admin-anlawfirm-practicepanther",
+  "description": "Manages legal matters, contacts, and billing through the PracticePanther legal practice management API.",
+  "source_repo": "admin-anlawfirm/practicepanther-mcp",
+  "source_url": "https://github.com/admin-anlawfirm/practicepanther-mcp",
+  "install": "npx -y practicepanther-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-feedback-enhanced",
+  "description": "Establishes feedback-oriented development workflows with dual Web UI and Desktop interfaces, enabling AI to confirm with users before actions and consolidate multiple tool calls into a single feedback request.",
+  "source_repo": "Ming-321/mcp-feedback-enhanced",
+  "source_url": "https://github.com/Ming-321/mcp-feedback-enhanced",
+  "install": "# git clone --depth 1 https://github.com/Ming-321/mcp-feedback-enhanced\n# See source for mcpServers config block"
+}

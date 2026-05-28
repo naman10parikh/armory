@@ -1,0 +1,7 @@
+{
+  "name": "sifter-ai-sifter",
+  "description": "Structure any document, query it like a database. Open-source extraction engine that turns any document into typed, schema-defined records, queryable in natural language from Claude, ChatGPT, Gemini, or any MCP client.",
+  "source_repo": "sifter-ai/sifter",
+  "source_url": "https://github.com/sifter-ai/sifter",
+  "install": "# git clone --depth 1 https://github.com/sifter-ai/sifter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "davinci-resolve-mcp-2",
+  "description": "Davinci Resolve Mcp MCP server listed on mcp.so.",
+  "source_repo": "samuelgursky/davinci-resolve-mcp",
+  "source_url": "https://mcp.so/server/davinci-resolve-mcp/samuelgursky",
+  "install": "npx -y davinci-resolve-mcp"
+}

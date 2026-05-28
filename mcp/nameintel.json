@@ -1,0 +1,7 @@
+{
+  "name": "nameintel",
+  "description": "Brand-name intelligence scoring domain availability, trademark risk, social handles, SEO, and AI findability.",
+  "source_repo": "toddamerrill/nameintel-mcp",
+  "source_url": "https://github.com/toddamerrill/nameintel-mcp",
+  "install": "npx -y nameintel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kimwwk-repocrunch",
+  "description": "MCP server that gives AI agents structured, ground-truth GitHub repository intelligence. Analyze tech stack, dependencies, architecture, health metrics, and security indicators with deterministic JSON output.",
+  "source_repo": "kimwwk/repocrunch",
+  "source_url": "https://github.com/kimwwk/repocrunch",
+  "install": "# git clone --depth 1 https://github.com/kimwwk/repocrunch\n# See source for mcpServers config block"
+}

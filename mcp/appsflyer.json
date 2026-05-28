@@ -1,0 +1,7 @@
+{
+  "name": "appsflyer",
+  "description": "Marketing attribution and campaign analytics platform",
+  "source_repo": "",
+  "source_url": "https://www.appsflyer.com/products/mcp/",
+  "install": "# git clone --depth 1 https://www.appsflyer.com/products/mcp/\n# See source for mcpServers config block"
+}

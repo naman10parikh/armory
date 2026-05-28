@@ -1,0 +1,7 @@
+{
+  "name": "hithereiamaliff-nextcloud",
+  "description": "Integrates with Nextcloud instances to provide file management, calendar scheduling, contact management, and unified search across Notes, Tables, and WebDAV operations with intelligent content indexing and caching.",
+  "source_repo": "hithereiamaliff/mcp-nextcloud",
+  "source_url": "https://github.com/hithereiamaliff/mcp-nextcloud",
+  "install": "# git clone --depth 1 https://github.com/hithereiamaliff/mcp-nextcloud\n# See source for mcpServers config block"
+}

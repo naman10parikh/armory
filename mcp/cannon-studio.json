@@ -1,0 +1,7 @@
+{
+  "name": "cannon-studio",
+  "description": "Public product, pricing, workflow, and API reference for the Cannon Studio AI video production platform.",
+  "source_repo": "",
+  "source_url": "https://www.cannonstudio.app",
+  "install": "# git clone --depth 1 https://www.cannonstudio.app\n# See source for mcpServers config block"
+}

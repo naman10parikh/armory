@@ -1,0 +1,7 @@
+{
+  "name": "universalbench",
+  "description": "Cloud workbench for executing Python and bash code, performing web searches, and integrating with Supabase, WordPress, GitHub, and LLMs through a single unified tool.",
+  "source_repo": "nikhilgogulwar/universalbench-worker",
+  "source_url": "https://github.com/nikhilgogulwar/universalbench-worker",
+  "install": "# git clone --depth 1 https://github.com/nikhilgogulwar/universalbench-worker\n# See source for mcpServers config block"
+}

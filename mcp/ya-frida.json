@@ -1,0 +1,7 @@
+{
+  "name": "ya-frida",
+  "description": "Comprehensive Frida dynamic instrumentation toolkit with 59 tools for device management, process control, script injection, memory operations, and ADB integration.",
+  "source_repo": "1shin-7/ya-frida-mcp",
+  "source_url": "https://github.com/1shin-7/ya-frida-mcp",
+  "install": "npx -y ya-frida-mcp"
+}

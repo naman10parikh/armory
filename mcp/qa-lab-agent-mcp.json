@@ -1,0 +1,7 @@
+{
+  "name": "qa-lab-agent-mcp",
+  "description": "Autonomous QA platform that generates, executes, analyzes, and self-corrects tests across 11+ frameworks.",
+  "source_repo": "wesley-gomes93/qa-lab-agent-mcp",
+  "source_url": "https://github.com/wesley-gomes93/qa-lab-agent-mcp",
+  "install": "npx -y qa-lab-agent-mcp"
+}

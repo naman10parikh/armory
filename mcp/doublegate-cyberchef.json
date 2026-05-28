@@ -1,0 +1,7 @@
+{
+  "name": "doublegate-cyberchef",
+  "description": "Converts CyberChef's 300+ cryptographic, encoding, compression, and data analysis operations into individual tools for cybersecurity analysis, data transformation workflows, and forensic investigations.",
+  "source_repo": "doublegate/cyberchef-mcp",
+  "source_url": "https://github.com/doublegate/cyberchef-mcp",
+  "install": "npx -y cyberchef-mcp"
+}

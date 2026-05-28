@@ -1,0 +1,7 @@
+{
+  "name": "grafbase-nexus",
+  "description": "AI gateway that aggregates multiple MCP servers and LLM providers through a unified HTTP interface with JWT authentication, rate limiting, and tool discovery for centralized AI resource management.",
+  "source_repo": "nexus-router/nexus",
+  "source_url": "https://github.com/nexus-router/nexus",
+  "install": "# git clone --depth 1 https://github.com/nexus-router/nexus\n# See source for mcpServers config block"
+}

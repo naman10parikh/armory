@@ -1,0 +1,7 @@
+{
+  "name": "jweather-mcp-server",
+  "description": "Jweather Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "juhemcp/jweather-mcp-server",
+  "source_url": "https://mcp.so/server/jweather-mcp-server/juhemcp",
+  "install": "npx -y jweather-mcp-server"
+}

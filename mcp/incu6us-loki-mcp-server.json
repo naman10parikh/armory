@@ -1,0 +1,7 @@
+{
+  "name": "incu6us-loki-mcp-server",
+  "description": "An MCP server for querying Grafana Loki directly with a discovery-first workflow — labels, values, series, and LogQL queries without requiring Grafana.",
+  "source_repo": "incu6us/loki-mcp-server",
+  "source_url": "https://github.com/incu6us/loki-mcp-server",
+  "install": "npx -y loki-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "benedat-k8stools",
+  "description": "Provides strongly-typed tools for monitoring and diagnosing Kubernetes clusters through read-only operations like listing pods, nodes, services, and deployments, retrieving container logs and statuses, and viewing pod events without requiring kubectl knowledge.",
+  "source_repo": "benedatllc/k8stools",
+  "source_url": "https://github.com/benedatllc/k8stools",
+  "install": "# git clone --depth 1 https://github.com/benedatllc/k8stools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "albumentations-mcp",
+  "description": "Enables natural language image augmentation via the MCP protocol, using Albumentations to apply transforms like blur and rotation from plain English descriptions.",
+  "source_repo": "Ramsi-K/albumentations-mcp",
+  "source_url": "https://github.com/Ramsi-K/albumentations-mcp",
+  "install": "npx -y albumentations-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jwill824-nudge",
+  "description": "Analyzes AI session token usage and efficiency to encourage better prompting and context management.",
+  "source_repo": "jwill824/nudge-mcp",
+  "source_url": "https://github.com/jwill824/nudge-mcp",
+  "install": "npx -y nudge-mcp"
+}

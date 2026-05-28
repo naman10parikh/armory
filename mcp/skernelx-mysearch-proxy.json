@@ -1,0 +1,7 @@
+{
+  "name": "skernelx-mysearch-proxy",
+  "description": "Unified search proxy aggregating Tavily, Firecrawl, and Exa with team-shared backend and token management.",
+  "source_repo": "skernelx/mysearch-proxy",
+  "source_url": "https://github.com/skernelx/mysearch-proxy",
+  "install": "# git clone --depth 1 https://github.com/skernelx/mysearch-proxy\n# See source for mcpServers config block"
+}

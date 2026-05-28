@@ -1,0 +1,7 @@
+{
+  "name": "elibarnett-kie",
+  "description": "Unified interface for 45+ image models, 70+ video models, and 20+ audio generation tools via the kie.ai API.",
+  "source_repo": "elibarnett/kie-mcp",
+  "source_url": "https://github.com/elibarnett/kie-mcp",
+  "install": "npx -y kie-mcp"
+}

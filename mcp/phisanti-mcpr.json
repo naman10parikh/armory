@@ -1,0 +1,7 @@
+{
+  "name": "phisanti-mcpr",
+  "description": "Model Context Protocol for R: enables AI agents to participate in interactive live R sessions.",
+  "source_repo": "phisanti/MCPR",
+  "source_url": "https://github.com/phisanti/MCPR",
+  "install": "# git clone --depth 1 https://github.com/phisanti/MCPR\n# See source for mcpServers config block"
+}

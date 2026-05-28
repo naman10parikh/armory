@@ -1,0 +1,7 @@
+{
+  "name": "lodordev-mcp-tautulli",
+  "description": "Tautulli (Plex media server monitoring) with 11 read-only tools for activity, history, library stats, user stats, transcode analysis, and resolution breakdowns.",
+  "source_repo": "lodordev/mcp-tautulli",
+  "source_url": "https://github.com/lodordev/mcp-tautulli",
+  "install": "# git clone --depth 1 https://github.com/lodordev/mcp-tautulli\n# See source for mcpServers config block"
+}

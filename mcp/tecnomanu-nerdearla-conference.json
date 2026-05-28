@@ -1,0 +1,7 @@
+{
+  "name": "tecnomanu-nerdearla-conference",
+  "description": "Scrapes the Nerdearla conference website to provide real-time access to event schedules, speaker information, and session details for conference attendees.",
+  "source_repo": "tecnomanu/nerdearla-agenda-mcp",
+  "source_url": "https://github.com/tecnomanu/nerdearla-agenda-mcp",
+  "install": "npx -y nerdearla-agenda-mcp"
+}

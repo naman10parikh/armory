@@ -1,0 +1,7 @@
+{
+  "name": "companies-in-the-uk",
+  "description": "Access UK company data & financial analysis",
+  "source_repo": "",
+  "source_url": "https://mcp.companiesintheuk.co.uk",
+  "install": "# git clone --depth 1 https://mcp.companiesintheuk.co.uk\n# See source for mcpServers config block"
+}

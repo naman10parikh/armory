@@ -1,0 +1,7 @@
+{
+  "name": "raven-mcp",
+  "description": "Design intelligence for AI-generated UI — principles, patterns, brand voice, design tokens, and accessibility guidelines.",
+  "source_repo": "rhinocap/raven-mcp",
+  "source_url": "https://github.com/rhinocap/raven-mcp",
+  "install": "npx -y raven-mcp"
+}

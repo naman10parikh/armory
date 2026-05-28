@@ -1,0 +1,7 @@
+{
+  "name": "sinmb79-commerce",
+  "description": "Local-first AI commerce server with tools for products, orders, inventory, and customer service.",
+  "source_repo": "sinmb79/commerc-mcp",
+  "source_url": "https://github.com/sinmb79/commerc-mcp",
+  "install": "npx -y commerc-mcp"
+}

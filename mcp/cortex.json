@@ -1,0 +1,7 @@
+{
+  "name": "cortex",
+  "description": "Integrates with Cortex's engineering intelligence platform to query service catalogs, team structures, scorecards, and organizational metadata for streamlined access to service ownership and incident response information.",
+  "source_repo": "cortexapps/cortex-mcp",
+  "source_url": "https://github.com/cortexapps/cortex-mcp",
+  "install": "npx -y cortex-mcp"
+}

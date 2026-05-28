@@ -1,0 +1,7 @@
+{
+  "name": "contextmanager",
+  "description": "Contextmanager MCP server listed on mcp.so.",
+  "source_repo": "tejpalvirk/contextmanager",
+  "source_url": "https://mcp.so/server/contextmanager/tejpalvirk",
+  "install": "# git clone --depth 1 https://mcp.so/server/contextmanager/tejpalvirk\n# See source for mcpServers config block"
+}

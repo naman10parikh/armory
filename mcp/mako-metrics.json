@@ -1,0 +1,7 @@
+{
+  "name": "mako-metrics",
+  "description": "MCP server for Mako Metrics competitor Meta ads intelligence, enabling plan recommendations and Stripe checkout.",
+  "source_repo": "loganriebel/mako-metrics-mcp",
+  "source_url": "https://github.com/loganriebel/mako-metrics-mcp",
+  "install": "npx -y mako-metrics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-rag",
+  "description": "A semantic code search MCP server that enables natural language queries against your codebase, supporting features like related file discovery and context expansion, all running locally.",
+  "source_repo": "kkuppula/code-rag-mcp",
+  "source_url": "https://github.com/kkuppula/code-rag-mcp",
+  "install": "npx -y code-rag-mcp"
+}

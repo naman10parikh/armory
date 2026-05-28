@@ -1,0 +1,7 @@
+{
+  "name": "squish",
+  "description": "MCP server — Local-first persistent memory runtime for AI agents — MCP server for Claude Code, Cursor, OpenCode, Codex, Cline. Auto-captures context across sessions. 1-20ms recall, 283KB, no second LLM needed. Runs locally with SQLite. Supports cloud sync via Stripe checkout ($9-$99/mo). GitHub:…",
+  "source_repo": "affaan-m/ecc",
+  "source_url": "https://github.com/affaan-m/ecc/blob/main/mcp-configs/mcp-servers.json",
+  "install": "# git clone --depth 1 https://github.com/affaan-m/ecc/blob/main/mcp-configs/mcp-servers.json\n# See source for mcpServers config block"
+}

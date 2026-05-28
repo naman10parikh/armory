@@ -1,0 +1,7 @@
+{
+  "name": "mcp-rquest",
+  "description": "Mcp Rquest MCP server listed on mcp.so.",
+  "source_repo": "xxxbrian/mcp-rquest",
+  "source_url": "https://mcp.so/server/mcp-rquest/xxxbrian",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-rquest/xxxbrian\n# See source for mcpServers config block"
+}

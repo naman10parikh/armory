@@ -1,0 +1,7 @@
+{
+  "name": "rassi0429-resonitelink",
+  "description": "Integrates with Resonite VR platform through WebSocket protocol to enable real-time 3D object manipulation, scene creation, component management, and automated world building.",
+  "source_repo": "rassi0429/resolink-mcp",
+  "source_url": "https://github.com/rassi0429/resolink-mcp",
+  "install": "npx -y resolink-mcp"
+}

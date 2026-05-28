@@ -1,0 +1,7 @@
+{
+  "name": "govrider",
+  "description": "Matches tech products and consulting services to live government tenders, RFPs, grants, and frameworks from 25+ official sources.",
+  "source_repo": "carlosahumada89/govrider-mcp-server",
+  "source_url": "https://github.com/carlosahumada89/govrider-mcp-server",
+  "install": "npx -y govrider-mcp-server"
+}

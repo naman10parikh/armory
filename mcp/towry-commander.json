@@ -1,0 +1,7 @@
+{
+  "name": "towry-commander",
+  "description": "Provides background process management capabilities through PMDaemon integration, enabling execution, monitoring, and control of long-running processes with persistent logging, automatic failure detection, and detailed status information including CPU usage, memory consumption, and uptime across Linux, macOS, and Windows platforms.",
+  "source_repo": "towry/commander-mcp",
+  "source_url": "https://github.com/towry/commander-mcp",
+  "install": "npx -y commander-mcp"
+}

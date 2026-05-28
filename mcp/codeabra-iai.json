@@ -1,0 +1,7 @@
+{
+  "name": "codeabra-iai",
+  "description": "Local long-term memory MCP server for AI coding assistants with three-tier episodic, semantic, and procedural memory storage.",
+  "source_repo": "codeabra/iai-mcp",
+  "source_url": "https://github.com/codeabra/iai-mcp",
+  "install": "npx -y iai-mcp"
+}

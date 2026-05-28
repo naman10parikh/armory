@@ -1,0 +1,7 @@
+{
+  "name": "alx99-db-query",
+  "description": "Connects AI models to multiple database systems for executing queries and retrieving results across PostgreSQL, MySQL, and SQLite.",
+  "source_repo": "alx99/db-mcp",
+  "source_url": "https://github.com/alx99/db-mcp",
+  "install": "npx -y db-mcp"
+}

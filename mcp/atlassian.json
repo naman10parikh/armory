@@ -1,0 +1,7 @@
+{
+  "name": "atlassian",
+  "description": "Summarize work, create issues or pages, and perform multi-step actions, all while keeping data secure and within permissioned boundaries using Atlassian's product suite.",
+  "source_repo": "",
+  "source_url": "https://www.atlassian.com/blog/announcements/remote-mcp-server",
+  "install": "# git clone --depth 1 https://www.atlassian.com/blog/announcements/remote-mcp-server\n# See source for mcpServers config block"
+}

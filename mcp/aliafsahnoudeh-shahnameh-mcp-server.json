@@ -1,0 +1,7 @@
+{
+  "name": "aliafsahnoudeh-shahnameh-mcp-server",
+  "description": "MCP server for accessing the Shahnameh (Book of Kings) Persian epic poem by Ferdowsi, including sections, verses and explanations.",
+  "source_repo": "aliafsahnoudeh/shahnameh-mcp-server",
+  "source_url": "https://github.com/aliafsahnoudeh/shahnameh-mcp-server",
+  "install": "npx -y shahnameh-mcp-server"
+}

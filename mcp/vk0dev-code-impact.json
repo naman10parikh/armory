@@ -1,0 +1,7 @@
+{
+  "name": "vk0dev-code-impact",
+  "description": "Analyze TypeScript/JavaScript code dependencies and blast radius for proposed changes.",
+  "source_repo": "vk0dev/code-impact-mcp",
+  "source_url": "https://github.com/vk0dev/code-impact-mcp",
+  "install": "npx -y code-impact-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agenticmail",
+  "description": "Email and SMS infrastructure for AI agents — send mail, receive verification codes, and manage real inboxes.",
+  "source_repo": "agenticmail/agenticmail",
+  "source_url": "https://github.com/agenticmail/agenticmail/tree/HEAD/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/agenticmail/agenticmail/tree/HEAD/packages/mcp\n# See source for mcpServers config block"
+}

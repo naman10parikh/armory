@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-vscode",
+  "description": "VSCode tools and resources as a Model Context Protocol (MCP) server in a VSCode extension",
+  "source_repo": "microsoft/semanticworkbench",
+  "source_url": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-vscode",
+  "install": "# git clone --depth 1 https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-vscode\n# See source for mcpServers config block"
+}

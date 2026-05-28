@@ -1,0 +1,7 @@
+{
+  "name": "gh-scottchronicity-ephemeris",
+  "description": "Precision astronomical ephemeris and planetary positions via the Swiss Ephemeris.",
+  "source_repo": "scottchronicity/ephemeris-mcp",
+  "source_url": "https://github.com/scottchronicity/ephemeris-mcp",
+  "install": "npx -y ephemeris-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "server-memory",
+  "description": "Use to give an agent a persistent knowledge graph across sessions — store entities, relations, and observations that must survive context compaction and be queried later.",
+  "source_repo": "modelcontextprotocol/servers",
+  "source_url": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers/tree/main/src/memory\n# See source for mcpServers config block"
+}

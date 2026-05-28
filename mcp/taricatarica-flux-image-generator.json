@@ -1,0 +1,7 @@
+{
+  "name": "taricatarica-flux-image-generator",
+  "description": "Generates images from text prompts using the FLUX.1-schnell model via HuggingFace, with support for multiple aspect ratios and local file saving.",
+  "source_repo": "taricatarica/flux-image-generator-mcp",
+  "source_url": "https://github.com/taricatarica/flux-image-generator-mcp",
+  "install": "npx -y flux-image-generator-mcp"
+}

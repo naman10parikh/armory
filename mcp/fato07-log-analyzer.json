@@ -1,0 +1,7 @@
+{
+  "name": "fato07-log-analyzer",
+  "description": "Analyzes log files across multiple formats including syslog, Apache/Nginx, JSON Lines, Python, Java, Docker, and Kubernetes with automatic format detection, pattern searching, error extraction and grouping, statistical analysis, and event correlation.",
+  "source_repo": "fato07/log-analyzer-mcp",
+  "source_url": "https://github.com/fato07/log-analyzer-mcp",
+  "install": "npx -y log-analyzer-mcp"
+}

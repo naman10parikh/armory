@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-expense-tracker-ai-mcp",
+  "description": "Tools for tracking, categorizing, and analyzing expenses and financial transactions.",
+  "source_repo": "csoai-org/expense-tracker-ai-mcp",
+  "source_url": "https://github.com/csoai-org/expense-tracker-ai-mcp",
+  "install": "npx -y expense-tracker-ai-mcp"
+}

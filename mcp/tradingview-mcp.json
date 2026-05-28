@@ -1,0 +1,7 @@
+{
+  "name": "tradingview-mcp",
+  "description": "AI-powered trading toolkit with backtesting, live sentiment, Yahoo Finance data, and 30+ technical analysis tools, integrated as an MCP server for Claude and other AI clients.",
+  "source_repo": "atilaahmettaner/tradingview-mcp",
+  "source_url": "https://github.com/atilaahmettaner/tradingview-mcp",
+  "install": "npx -y tradingview-mcp"
+}

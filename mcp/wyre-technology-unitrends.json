@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-unitrends",
+  "description": "Manage Unitrends Backup appliances, jobs, recovery points, and restores via MCP.",
+  "source_repo": "wyre-technology/unitrends-mcp",
+  "source_url": "https://github.com/wyre-technology/unitrends-mcp",
+  "install": "npx -y unitrends-mcp"
+}

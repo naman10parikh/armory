@@ -1,0 +1,7 @@
+{
+  "name": "nicavcrm-memory-bank",
+  "description": "Implements a structured development workflow system with five operational modes (VAN, PLAN, CREATIVE, IMPLEMENT, REFLECT+ARCHIVE) that maintains persistent project state and context across development phases using file-based storage.",
+  "source_repo": "nicavcrm/memory-bank-mcp",
+  "source_url": "https://github.com/nicavcrm/memory-bank-mcp",
+  "install": "npx -y memory-bank-mcp"
+}

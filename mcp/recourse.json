@@ -1,0 +1,7 @@
+{
+  "name": "recourse",
+  "description": "Consequence evaluation for AI agents to check action recoverability before executing destructive operations.",
+  "source_repo": "recourseos/recourse",
+  "source_url": "https://github.com/recourseos/recourse",
+  "install": "# git clone --depth 1 https://github.com/recourseos/recourse\n# See source for mcpServers config block"
+}

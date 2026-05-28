@@ -1,0 +1,7 @@
+{
+  "name": "gustavofrb-sharepoint-file-manager",
+  "description": "Manages files on SharePoint through Microsoft Graph API with create, read, edit, delete, and list operations.",
+  "source_repo": "gustavofrb/mcp-agentext",
+  "source_url": "https://github.com/gustavofrb/mcp-agentext",
+  "install": "# git clone --depth 1 https://github.com/gustavofrb/mcp-agentext\n# See source for mcpServers config block"
+}

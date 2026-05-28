@@ -1,0 +1,7 @@
+{
+  "name": "krngd2-monkey",
+  "description": "Bridges AI coding agents to Chrome browser tabs via WebSocket, enabling custom JavaScript execution in authenticated sessions for scraping, testing, and automation.",
+  "source_repo": "krngd2/mcp-monkey",
+  "source_url": "https://github.com/krngd2/mcp-monkey",
+  "install": "# git clone --depth 1 https://github.com/krngd2/mcp-monkey\n# See source for mcpServers config block"
+}

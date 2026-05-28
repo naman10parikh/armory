@@ -1,0 +1,7 @@
+{
+  "name": "varun29ankus-shodh-memory",
+  "description": "Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary, runs offline on edge devices.",
+  "source_repo": "varun29ankuS/shodh-memory",
+  "source_url": "https://github.com/varun29ankuS/shodh-memory",
+  "install": "# git clone --depth 1 https://github.com/varun29ankuS/shodh-memory\n# See source for mcpServers config block"
+}

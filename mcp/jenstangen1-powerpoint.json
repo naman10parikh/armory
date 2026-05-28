@@ -1,0 +1,7 @@
+{
+  "name": "jenstangen1-powerpoint",
+  "description": "Enables creation and manipulation of Microsoft PowerPoint presentations through natural language, offering tools for managing slides, shapes, charts, and tables with styling and visualization capabilities.",
+  "source_repo": "jenstangen1/pptx-xlsx-mcp",
+  "source_url": "https://github.com/jenstangen1/pptx-xlsx-mcp",
+  "install": "npx -y pptx-xlsx-mcp"
+}

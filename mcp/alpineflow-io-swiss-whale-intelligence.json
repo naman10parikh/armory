@@ -1,0 +1,7 @@
+{
+  "name": "alpineflow-io-swiss-whale-intelligence",
+  "description": "Provides BTC and ETH whale forensics with methodology-transparent analysis across 30 tools.",
+  "source_repo": "",
+  "source_url": "https://btcwhalealerts.com/mcp/",
+  "install": "# git clone --depth 1 https://btcwhalealerts.com/mcp/\n# See source for mcpServers config block"
+}

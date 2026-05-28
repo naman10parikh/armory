@@ -1,0 +1,7 @@
+{
+  "name": "justinstimatze-gemot",
+  "description": "Structured deliberation primitive for multi-agent systems with crux detection and consensus.",
+  "source_repo": "justinstimatze/gemot",
+  "source_url": "https://github.com/justinstimatze/gemot",
+  "install": "# git clone --depth 1 https://github.com/justinstimatze/gemot\n# See source for mcpServers config block"
+}

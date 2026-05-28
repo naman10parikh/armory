@@ -1,0 +1,7 @@
+{
+  "name": "openpaper",
+  "description": "Generate academic papers with AI agents and verified citations.",
+  "source_repo": "federicodeponte/openpaper-mcp",
+  "source_url": "https://github.com/federicodeponte/openpaper-mcp",
+  "install": "npx -y openpaper-mcp"
+}

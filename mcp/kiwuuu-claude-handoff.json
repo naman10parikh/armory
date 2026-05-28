@@ -1,0 +1,7 @@
+{
+  "name": "kiwuuu-claude-handoff",
+  "description": "Fetch, inspect, and deploy Claude Design handoff bundles directly from development tools.",
+  "source_repo": "kiwuuu/claude-handoff-mcp",
+  "source_url": "https://github.com/kiwuuu/claude-handoff-mcp",
+  "install": "npx -y claude-handoff-mcp"
+}

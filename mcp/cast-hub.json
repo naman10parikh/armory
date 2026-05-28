@@ -1,0 +1,7 @@
+{
+  "name": "cast-hub",
+  "description": "Controls CastHub digital signage — manage TVs, presentations, schedules, and emergency alerts via AI.",
+  "source_repo": "cast-hub/mcp-server",
+  "source_url": "https://github.com/cast-hub/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/cast-hub/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-ladyiceberg-memory-quality-auditor",
+  "description": "Audit and manage Claude Code memory files with quality scoring and conflict detection.",
+  "source_repo": "ladyiceberg/memory-quality-mcp",
+  "source_url": "https://github.com/ladyiceberg/memory-quality-mcp",
+  "install": "npx -y memory-quality-mcp"
+}

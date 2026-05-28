@@ -1,0 +1,7 @@
+{
+  "name": "aws-calculator-mcp",
+  "description": "Enables creating AWS cost estimates through natural language, generating shareable calculator.aws links, and retrieving actual calculated costs via headless Chrome, without requiring AWS credentials.",
+  "source_repo": "Musheer360/aws-calculator-mcp",
+  "source_url": "https://github.com/Musheer360/aws-calculator-mcp",
+  "install": "npx -y aws-calculator-mcp"
+}

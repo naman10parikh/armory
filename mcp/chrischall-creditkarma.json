@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-creditkarma",
+  "description": "Reads Credit Karma transaction data for spending analysis by category, merchant, and account.",
+  "source_repo": "chrischall/creditkarma-mcp",
+  "source_url": "https://github.com/chrischall/creditkarma-mcp",
+  "install": "npx -y creditkarma-mcp"
+}

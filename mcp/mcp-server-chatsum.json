@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-chatsum",
+  "description": "Mcp Server Chatsum MCP server listed on mcp.so.",
+  "source_repo": "chatmcp/mcp-server-chatsum",
+  "source_url": "https://mcp.so/server/mcp-server-chatsum/chatmcp",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-chatsum/chatmcp\n# See source for mcpServers config block"
+}

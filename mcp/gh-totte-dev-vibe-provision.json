@@ -1,0 +1,7 @@
+{
+  "name": "gh-totte-dev-vibe-provision",
+  "description": "SaaS service provisioning tool that automates setup of Clerk, Stripe, Resend, and infrastructure from YAML configuration.",
+  "source_repo": "totte-dev/vibe-provision",
+  "source_url": "https://github.com/totte-dev/vibe-provision",
+  "install": "# git clone --depth 1 https://github.com/totte-dev/vibe-provision\n# See source for mcpServers config block"
+}

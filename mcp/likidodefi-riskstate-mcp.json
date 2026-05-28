@@ -1,0 +1,7 @@
+{
+  "name": "likidodefi-riskstate-mcp",
+  "description": "Deterministic risk governance for crypto trading agents. 5-level policy engine with position sizing, leverage limits, and trade blocking. BTC + ETH.",
+  "source_repo": "likidodefi/riskstate-mcp",
+  "source_url": "https://github.com/likidodefi/riskstate-mcp",
+  "install": "npx -y riskstate-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "watercrawl",
+  "description": "Web crawling and scraping with search capabilities",
+  "source_repo": "watercrawl/watercrawl-mcp",
+  "source_url": "https://github.com/watercrawl/watercrawl-mcp",
+  "install": "npx -y watercrawl-mcp"
+}

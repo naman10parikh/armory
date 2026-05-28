@@ -1,0 +1,7 @@
+{
+  "name": "idealo",
+  "description": "Search and compare product prices across 6 European markets with access to price history, shop offers, and 30-day price trends.",
+  "source_repo": "idealo/mcp-server-guide",
+  "source_url": "https://github.com/idealo/mcp-server-guide",
+  "install": "# git clone --depth 1 https://github.com/idealo/mcp-server-guide\n# See source for mcpServers config block"
+}

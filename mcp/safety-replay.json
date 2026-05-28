@@ -1,0 +1,7 @@
+{
+  "name": "safety-replay",
+  "description": "Safety replays, policy gates, evaluation receipts, and release evidence for AI agent deployments.",
+  "source_repo": "clauxel/safety-replay-gate-mcp",
+  "source_url": "https://github.com/clauxel/safety-replay-gate-mcp",
+  "install": "npx -y safety-replay-gate-mcp"
+}

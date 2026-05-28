@@ -1,0 +1,7 @@
+{
+  "name": "williamnning316-binance",
+  "description": "Provides cryptocurrency market data from Binance including real-time prices, 24-hour statistics, candlestick data, technical indicators, and order book depth",
+  "source_repo": "williamning316/crypto-mcp-server",
+  "source_url": "https://github.com/williamning316/crypto-mcp-server",
+  "install": "npx -y crypto-mcp-server"
+}

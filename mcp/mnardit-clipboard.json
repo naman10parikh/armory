@@ -1,0 +1,7 @@
+{
+  "name": "mnardit-clipboard",
+  "description": "Provides cross-platform system clipboard read, write, and watch access using native OS APIs.",
+  "source_repo": "mnardit/clipboard-mcp",
+  "source_url": "https://github.com/mnardit/clipboard-mcp",
+  "install": "npx -y clipboard-mcp"
+}

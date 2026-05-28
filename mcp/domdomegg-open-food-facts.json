@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-open-food-facts",
+  "description": "Searches and contributes to the Open Food Facts open food database.",
+  "source_repo": "domdomegg/openfoodfacts-mcp",
+  "source_url": "https://github.com/domdomegg/openfoodfacts-mcp",
+  "install": "npx -y openfoodfacts-mcp"
+}

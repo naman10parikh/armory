@@ -1,0 +1,7 @@
+{
+  "name": "jaokuohsuan-draw-things",
+  "description": "Integrates with the Draw Things API to convert text prompts or JSON inputs into JSON-RPC requests, enabling AI image generation capabilities with automatic saving and error handling.",
+  "source_repo": "jaokuohsuan/draw-things-mcp-cursor",
+  "source_url": "https://github.com/jaokuohsuan/draw-things-mcp-cursor",
+  "install": "# git clone --depth 1 https://github.com/jaokuohsuan/draw-things-mcp-cursor\n# See source for mcpServers config block"
+}

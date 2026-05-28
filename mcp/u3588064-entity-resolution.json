@@ -1,0 +1,7 @@
+{
+  "name": "u3588064-entity-resolution",
+  "description": "Compares entities using syntactic and semantic methods to determine if differently formatted records refer to the same real-world entity, ideal for data deduplication and customer record matching.",
+  "source_repo": "u3588064/entity-resolution",
+  "source_url": "https://github.com/u3588064/entity-resolution",
+  "install": "# git clone --depth 1 https://github.com/u3588064/entity-resolution\n# See source for mcpServers config block"
+}

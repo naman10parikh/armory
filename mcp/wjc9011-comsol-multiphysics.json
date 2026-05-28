@@ -1,0 +1,7 @@
+{
+  "name": "wjc9011-comsol-multiphysics",
+  "description": "COMSOL Multiphysics simulation control through the MPh Python library.",
+  "source_repo": "wjc9011/comsol_multiphysics_mcp",
+  "source_url": "https://github.com/wjc9011/comsol_multiphysics_mcp",
+  "install": "npx -y comsol_multiphysics_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "docpull",
+  "description": "PDF to Markdown API for AI agents. Pay $0.001 USDC per page via x402. No accounts needed.",
+  "source_repo": "",
+  "source_url": "https://docpull.ai",
+  "install": "# git clone --depth 1 https://docpull.ai\n# See source for mcpServers config block"
+}

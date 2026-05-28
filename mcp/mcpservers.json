@@ -1,0 +1,7 @@
+{
+  "name": "mcpservers",
+  "description": "MCPServers MCP server listed on mcp.so.",
+  "source_repo": "spprichard/MCPServers",
+  "source_url": "https://mcp.so/server/MCPServers/spprichard",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCPServers/spprichard\n# See source for mcpServers config block"
+}

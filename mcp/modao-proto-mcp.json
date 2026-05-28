@@ -1,0 +1,7 @@
+{
+  "name": "modao-proto-mcp",
+  "description": "Enables HTML code generation from design descriptions, detailed design specification creation, and importing generated HTML into personal workspace via the Model Context Protocol.",
+  "source_repo": "modao-dev/modao-proto-mcp",
+  "source_url": "https://github.com/modao-dev/modao-proto-mcp",
+  "install": "npx -y modao-proto-mcp"
+}

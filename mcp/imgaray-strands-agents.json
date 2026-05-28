@@ -1,0 +1,7 @@
+{
+  "name": "imgaray-strands-agents",
+  "description": "Server that enables execution of Strands agents through a plugin architecture, automatically discovering and registering plugins for seamless integration with existing workflows.",
+  "source_repo": "imgaray/strands-agents-mcp",
+  "source_url": "https://github.com/imgaray/strands-agents-mcp",
+  "install": "npx -y strands-agents-mcp"
+}

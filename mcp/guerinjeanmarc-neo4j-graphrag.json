@@ -1,0 +1,7 @@
+{
+  "name": "guerinjeanmarc-neo4j-graphrag",
+  "description": "Combines vector similarity search, fulltext search, and search-augmented Cypher queries with automatic data sanitization and token-aware response truncation for knowledge graph applications.",
+  "source_repo": "neo4j-field/mcp-neo4j-graphrag",
+  "source_url": "https://github.com/neo4j-field/mcp-neo4j-graphrag",
+  "install": "# git clone --depth 1 https://github.com/neo4j-field/mcp-neo4j-graphrag\n# See source for mcpServers config block"
+}

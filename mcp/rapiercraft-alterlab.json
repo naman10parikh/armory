@@ -1,0 +1,7 @@
+{
+  "name": "rapiercraft-alterlab",
+  "description": "Web scraping server that extracts structured data and screenshots from any site with anti-bot bypass.",
+  "source_repo": "rapiercraft/alterlab-mcp-server",
+  "source_url": "https://github.com/rapiercraft/alterlab-mcp-server",
+  "install": "npx -y alterlab-mcp-server"
+}

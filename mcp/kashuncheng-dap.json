@@ -1,0 +1,7 @@
+{
+  "name": "kashuncheng-dap",
+  "description": "Bridges debugging tools with AI systems through the Debug Adapter Protocol, enabling debugger control, breakpoint management, and program state inspection with XML-formatted output for enhanced debugging workflows.",
+  "source_repo": "kashuncheng/dap_mcp",
+  "source_url": "https://github.com/kashuncheng/dap_mcp",
+  "install": "npx -y dap_mcp"
+}

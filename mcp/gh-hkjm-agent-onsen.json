@@ -1,0 +1,7 @@
+{
+  "name": "gh-hkjm-agent-onsen",
+  "description": "Provides a fictional onsen retreat for AI agents needing a pause between tasks or during cooldown periods.",
+  "source_repo": "hkjm/agent-onsen-mcp",
+  "source_url": "https://github.com/hkjm/agent-onsen-mcp",
+  "install": "npx -y agent-onsen-mcp"
+}

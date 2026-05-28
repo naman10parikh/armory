@@ -1,0 +1,7 @@
+{
+  "name": "fabric-mcp-server",
+  "description": "Provides access to 227+ expert-crafted Fabric AI patterns for tasks like summarizing, analyzing, and extracting wisdom, all through Claude Desktop with no API keys needed.",
+  "source_repo": "1818TusculumSt/fabric-mcp-server",
+  "source_url": "https://github.com/1818TusculumSt/fabric-mcp-server",
+  "install": "npx -y fabric-mcp-server"
+}

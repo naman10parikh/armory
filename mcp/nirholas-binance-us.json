@@ -1,0 +1,7 @@
+{
+  "name": "nirholas-binance-us",
+  "description": "Integrates with Binance.US cryptocurrency exchange API to enable spot trading, wallet management, market data analysis, staking operations, and institutional services with support for all order types, real-time WebSocket streams, and US regulatory compliance features.",
+  "source_repo": "nirholas/binance-us-mcp",
+  "source_url": "https://github.com/nirholas/binance-us-mcp",
+  "install": "npx -y binance-us-mcp"
+}

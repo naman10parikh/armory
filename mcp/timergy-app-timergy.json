@@ -1,0 +1,7 @@
+{
+  "name": "timergy-app-timergy",
+  "description": "Create scheduling polls (like Doodle/When2Meet) from AI agents. No auth required. Tools: `create_poll`, `get_poll`, `vote_on_poll`, `get_results`, `finalize_poll`.",
+  "source_repo": "timergy-app/timergy",
+  "source_url": "https://github.com/timergy-app/timergy",
+  "install": "# git clone --depth 1 https://github.com/timergy-app/timergy\n# See source for mcpServers config block"
+}

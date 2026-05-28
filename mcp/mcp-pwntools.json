@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pwntools",
+  "description": "MCP server exposing pwntools 4.15.0 functionality for binary exploitation tasks.",
+  "source_repo": "daedalus/mcp-pwntools",
+  "source_url": "https://github.com/daedalus/mcp-pwntools",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-pwntools\n# See source for mcpServers config block"
+}

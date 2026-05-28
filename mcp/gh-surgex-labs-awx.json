@@ -1,0 +1,7 @@
+{
+  "name": "gh-surgex-labs-awx",
+  "description": "Control AWX and Ansible Tower through natural language with 49 automation tools.",
+  "source_repo": "surgex-labs/awx-mcp-server",
+  "source_url": "https://github.com/surgex-labs/awx-mcp-server",
+  "install": "npx -y awx-mcp-server"
+}

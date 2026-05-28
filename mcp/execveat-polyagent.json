@@ -1,0 +1,7 @@
+{
+  "name": "execveat-polyagent",
+  "description": "Bridges Claude Code agent definitions to any MCP client, automatically discovering YAML-based agent files and exposing them as MCP resources and prompts with hybrid parsing that handles both valid and malformed YAML for cross-platform agent sharing.",
+  "source_repo": "execveat/polyagent-mcp",
+  "source_url": "https://github.com/execveat/polyagent-mcp",
+  "install": "npx -y polyagent-mcp"
+}

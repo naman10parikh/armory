@@ -1,0 +1,7 @@
+{
+  "name": "kogollones-discord",
+  "description": "Comprehensive Discord server with role, channel, message, and moderation features.",
+  "source_repo": "kogollones/mcp-discord",
+  "source_url": "https://github.com/kogollones/mcp-discord",
+  "install": "# git clone --depth 1 https://github.com/kogollones/mcp-discord\n# See source for mcpServers config block"
+}

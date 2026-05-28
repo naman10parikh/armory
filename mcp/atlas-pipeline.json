@@ -1,0 +1,7 @@
+{
+  "name": "atlas-pipeline",
+  "description": "AI development pipeline providing code analysis, refactoring, security scanning, and optimization tools.",
+  "source_repo": "iamnishant51/atlas-mcp-server",
+  "source_url": "https://github.com/iamnishant51/atlas-mcp-server",
+  "install": "npx -y atlas-mcp-server"
+}

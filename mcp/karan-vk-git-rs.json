@@ -1,0 +1,7 @@
+{
+  "name": "karan-vk-git-rs",
+  "description": "Fast Rust MCP server providing 52 git operation tools over stdio, with modular optional feature groups for extended git functionality.",
+  "source_repo": "karan-vk/mcp-server-git-rs",
+  "source_url": "https://github.com/karan-vk/mcp-server-git-rs",
+  "install": "# git clone --depth 1 https://github.com/karan-vk/mcp-server-git-rs\n# See source for mcpServers config block"
+}

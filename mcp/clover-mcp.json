@@ -1,0 +1,7 @@
+{
+  "name": "clover-mcp",
+  "description": "Clover Mcp MCP server listed on mcp.so.",
+  "source_repo": "ibraheem4/clover-mcp",
+  "source_url": "https://mcp.so/server/clover-mcp/ibraheem4",
+  "install": "npx -y clover-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cameronrye-openzim",
+  "description": "Provides offline access to ZIM format knowledge bases with search capabilities, content retrieval, and smart fallback mechanisms for accessing Wikipedia dumps and educational archives without internet connectivity.",
+  "source_repo": "cameronrye/openzim-mcp",
+  "source_url": "https://github.com/cameronrye/openzim-mcp",
+  "install": "npx -y openzim-mcp"
+}

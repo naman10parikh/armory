@@ -1,0 +1,7 @@
+{
+  "name": "okooo5km-zipic",
+  "description": "Integrates with the Zipic app for macOS to provide image compression and optimization capabilities through quickCompress and advancedCompress tools, enabling efficient image processing with customizable settings.",
+  "source_repo": "okooo5km/zipic-mcp-server",
+  "source_url": "https://github.com/okooo5km/zipic-mcp-server",
+  "install": "npx -y zipic-mcp-server"
+}

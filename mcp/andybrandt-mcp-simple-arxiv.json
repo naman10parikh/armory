@@ -1,0 +1,7 @@
+{
+  "name": "andybrandt-mcp-simple-arxiv",
+  "description": "Search and analyze scientific papers from arXiv.",
+  "source_repo": "andybrandt/mcp-simple-arxiv",
+  "source_url": "https://github.com/andybrandt/mcp-simple-arxiv",
+  "install": "# git clone --depth 1 https://github.com/andybrandt/mcp-simple-arxiv\n# See source for mcpServers config block"
+}

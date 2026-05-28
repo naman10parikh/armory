@@ -1,0 +1,7 @@
+{
+  "name": "wrxck-namecheap",
+  "description": "Manages Namecheap domains and DNS records with tools for listing domains, retrieving domain information, managing DNS host records, and configuring nameservers.",
+  "source_repo": "wrxck/namecheap-mcp",
+  "source_url": "https://github.com/wrxck/namecheap-mcp",
+  "install": "npx -y namecheap-mcp"
+}

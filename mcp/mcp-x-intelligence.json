@@ -1,0 +1,7 @@
+{
+  "name": "mcp-x-intelligence",
+  "description": "Read-only X/Twitter research MCP server allowing AI assistants to search viral content, analyze accounts, track trends, and discover niche leaders without requiring the official X API.",
+  "source_repo": "fluyeporlaweb/mcp-x-intelligence",
+  "source_url": "https://github.com/fluyeporlaweb/mcp-x-intelligence",
+  "install": "# git clone --depth 1 https://github.com/fluyeporlaweb/mcp-x-intelligence\n# See source for mcpServers config block"
+}

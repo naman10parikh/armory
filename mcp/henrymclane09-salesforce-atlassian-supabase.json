@@ -1,0 +1,7 @@
+{
+  "name": "henrymclane09-salesforce-atlassian-supabase",
+  "description": "Integrates Salesforce CRM, Atlassian Jira/Confluence, and Supabase to enable unified CRUD operations across customer data, issue tracking, knowledge base management, and document storage with analytics logging.",
+  "source_repo": "henrymclane09/mcptest",
+  "source_url": "https://github.com/henrymclane09/mcptest",
+  "install": "# git clone --depth 1 https://github.com/henrymclane09/mcptest\n# See source for mcpServers config block"
+}

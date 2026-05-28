@@ -1,0 +1,7 @@
+{
+  "name": "kindly-software-kdb",
+  "description": "AI-powered time-travel debugger with bidirectional execution replay, audit-compliant hash-chain logging, and SIMD-accelerated stack unwinding. Free Hobby tier available.",
+  "source_repo": "kindly-software/kdb",
+  "source_url": "https://github.com/kindly-software/kdb",
+  "install": "# git clone --depth 1 https://github.com/kindly-software/kdb\n# See source for mcpServers config block"
+}

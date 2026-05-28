@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-calculator",
+  "description": "Evaluate, simplify, and differentiate math expressions with configurable precision and variable scoping.",
+  "source_repo": "cyanheads/calculator-mcp-server",
+  "source_url": "https://github.com/cyanheads/calculator-mcp-server",
+  "install": "npx -y calculator-mcp-server"
+}

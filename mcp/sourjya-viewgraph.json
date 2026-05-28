@@ -1,0 +1,7 @@
+{
+  "name": "sourjya-viewgraph",
+  "description": "Exposes structured DOM snapshots from web pages as MCP tools for AI coding agents.",
+  "source_repo": "sourjya/viewgraph",
+  "source_url": "https://github.com/sourjya/viewgraph",
+  "install": "# git clone --depth 1 https://github.com/sourjya/viewgraph\n# See source for mcpServers config block"
+}

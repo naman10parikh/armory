@@ -1,0 +1,7 @@
+{
+  "name": "vincentf305-ollama",
+  "description": "Bridges to Ollama, enabling local language model capabilities for writing assistance, code generation, and data analysis.",
+  "source_repo": "vincentf305/mcp-server-ollama",
+  "source_url": "https://github.com/vincentf305/mcp-server-ollama",
+  "install": "# git clone --depth 1 https://github.com/vincentf305/mcp-server-ollama\n# See source for mcpServers config block"
+}

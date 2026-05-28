@@ -1,0 +1,7 @@
+{
+  "name": "kpanuragh-xdebug",
+  "description": "PHP debugging with breakpoints, stepping, and variable inspection",
+  "source_repo": "kpanuragh/xdebug-mcp",
+  "source_url": "https://github.com/kpanuragh/xdebug-mcp",
+  "install": "npx -y xdebug-mcp"
+}

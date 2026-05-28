@@ -1,0 +1,7 @@
+{
+  "name": "thegridwork-siteaudit",
+  "description": "Analyzes websites for technical SEO issues, accessibility problems, and performance bottlenecks.",
+  "source_repo": "thegridwork/siteaudit",
+  "source_url": "https://github.com/thegridwork/siteaudit",
+  "install": "# git clone --depth 1 https://github.com/thegridwork/siteaudit\n# See source for mcpServers config block"
+}

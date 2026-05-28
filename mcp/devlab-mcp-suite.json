@@ -1,0 +1,7 @@
+{
+  "name": "devlab-mcp-suite",
+  "description": "Modular testing and automation MCP servers for Android devices, desktop browsers, canvas games, and visual regression.",
+  "source_repo": "Tanguito86/devlab-mcp",
+  "source_url": "https://github.com/Tanguito86/devlab-mcp",
+  "install": "npx -y devlab-mcp"
+}

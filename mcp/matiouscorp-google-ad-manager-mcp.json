@@ -1,0 +1,7 @@
+{
+  "name": "matiouscorp-google-ad-manager-mcp",
+  "description": "Google Ad Manager API integration for managing campaigns, orders, line items, creatives, and advertisers with bulk upload support.",
+  "source_repo": "MatiousCorp/google-ad-manager-mcp",
+  "source_url": "https://github.com/MatiousCorp/google-ad-manager-mcp",
+  "install": "npx -y google-ad-manager-mcp"
+}

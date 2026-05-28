@@ -1,0 +1,7 @@
+{
+  "name": "syntheticuser-lab",
+  "description": "Synthetic user testing and UX validation for AI agent workflows.",
+  "source_repo": "",
+  "source_url": "https://syntheticuserlab.space",
+  "install": "# git clone --depth 1 https://syntheticuserlab.space\n# See source for mcpServers config block"
+}

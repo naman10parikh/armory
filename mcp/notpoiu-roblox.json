@@ -1,0 +1,7 @@
+{
+  "name": "notpoiu-roblox",
+  "description": "Bridges live Roblox game sessions with external systems through WebSocket or HTTP, enabling real-time Lua code execution, instance manipulation, console monitoring, and game state analysis.",
+  "source_repo": "notpoiu/roblox-executor-mcp",
+  "source_url": "https://github.com/notpoiu/roblox-executor-mcp",
+  "install": "npx -y roblox-executor-mcp"
+}

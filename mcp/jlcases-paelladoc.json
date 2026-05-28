@@ -1,0 +1,7 @@
+{
+  "name": "jlcases-paelladoc",
+  "description": "Generates structured documentation for software projects through code analysis, template management, and specialized commands for consistent documentation practices across diverse project types.",
+  "source_repo": "jlcases/paelladoc",
+  "source_url": "https://github.com/jlcases/paelladoc",
+  "install": "# git clone --depth 1 https://github.com/jlcases/paelladoc\n# See source for mcpServers config block"
+}

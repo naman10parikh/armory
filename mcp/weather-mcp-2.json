@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-2",
+  "description": "Weather Mcp MCP server listed on mcp.so.",
+  "source_repo": "Zippland/weather-mcp",
+  "source_url": "https://mcp.so/server/weather-mcp/Zippland",
+  "install": "npx -y weather-mcp"
+}

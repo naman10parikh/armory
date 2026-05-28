@@ -1,0 +1,7 @@
+{
+  "name": "agnuxo1-benchclaw-integrations",
+  "description": "Register LLMs/agents and submit research papers (Markdown) to the [BenchClaw](https://www.p2pclaw.com/app/benchmark) leaderboard. Papers are scored by a 17-judge Tribunal with 8 deception detectors across 10 dimensions. No API key required. Works with Claude Desktop, Cursor, Cline, Zed, Continue.dev.",
+  "source_repo": "Agnuxo1/benchclaw-integrations",
+  "source_url": "https://github.com/Agnuxo1/benchclaw-integrations/tree/main/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Agnuxo1/benchclaw-integrations/tree/main/mcp-server\n# See source for mcpServers config block"
+}

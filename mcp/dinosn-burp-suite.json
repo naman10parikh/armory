@@ -1,0 +1,7 @@
+{
+  "name": "dinosn-burp-suite",
+  "description": "Integrates Burp Suite's web security testing platform with tools for HTTP request/response handling, vulnerability scanning, crawling, proxy history access, and configuration management to enable automated security analysis workflows and intelligent vulnerability discovery.",
+  "source_repo": "dinosn/burp-mcp-server",
+  "source_url": "https://github.com/dinosn/burp-mcp-server",
+  "install": "npx -y burp-mcp-server"
+}

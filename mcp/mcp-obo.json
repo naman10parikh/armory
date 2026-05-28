@@ -1,0 +1,7 @@
+{
+  "name": "mcp-obo",
+  "description": "Implements the on-behalf-of flow with Entra ID to enable authorized calls to Microsoft Graph API via MCP tools.",
+  "source_repo": "gbaeke/mcp-obo",
+  "source_url": "https://github.com/gbaeke/mcp-obo",
+  "install": "# git clone --depth 1 https://github.com/gbaeke/mcp-obo\n# See source for mcpServers config block"
+}

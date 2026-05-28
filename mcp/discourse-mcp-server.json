@@ -1,0 +1,7 @@
+{
+  "name": "discourse-mcp-server",
+  "description": "Discourse Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "AshDevFr/discourse-mcp-server",
+  "source_url": "https://mcp.so/server/discourse-mcp-server/AshDevFr",
+  "install": "npx -y discourse-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "montevive-penpot",
+  "description": "Integrates with Penpot's API to enable project browsing, file retrieval, object searching, and visual component export with automatic screenshot generation for converting UI designs into functional code.",
+  "source_repo": "montevive/penpot-mcp",
+  "source_url": "https://github.com/montevive/penpot-mcp",
+  "install": "npx -y penpot-mcp"
+}

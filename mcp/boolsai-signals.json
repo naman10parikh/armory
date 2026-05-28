@@ -1,0 +1,7 @@
+{
+  "name": "boolsai-signals",
+  "description": "Tradeable signals from public-company website stack changes for quant research: 7 tools, no auth required.",
+  "source_repo": "boolsai-ai/mcp",
+  "source_url": "https://github.com/boolsai-ai/mcp",
+  "install": "# git clone --depth 1 https://github.com/boolsai-ai/mcp\n# See source for mcpServers config block"
+}

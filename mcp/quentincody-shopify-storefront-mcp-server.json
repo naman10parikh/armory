@@ -1,0 +1,7 @@
+{
+  "name": "quentincody-shopify-storefront-mcp-server",
+  "description": "Unofficial MCP server that allows AI agents to discover Shopify storefronts and interact with them to fetch products, collections, and other store data through the Storefront API.",
+  "source_repo": "QuentinCody/shopify-storefront-mcp-server",
+  "source_url": "https://github.com/QuentinCody/shopify-storefront-mcp-server",
+  "install": "npx -y shopify-storefront-mcp-server"
+}

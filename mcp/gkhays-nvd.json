@@ -1,0 +1,7 @@
+{
+  "name": "gkhays-nvd",
+  "description": "Provides direct access to the National Vulnerability Database (NVD) for retrieving detailed CVE information including descriptions, severity ratings, publication dates, and references by ID.",
+  "source_repo": "gkhays/mcp-nvd-server",
+  "source_url": "https://github.com/gkhays/mcp-nvd-server",
+  "install": "# git clone --depth 1 https://github.com/gkhays/mcp-nvd-server\n# See source for mcpServers config block"
+}

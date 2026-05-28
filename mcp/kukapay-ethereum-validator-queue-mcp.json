@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-ethereum-validator-queue-mcp",
+  "description": "An MCP server that tracks Ethereum’s validator activation and exit queues in real time.",
+  "source_repo": "kukapay/ethereum-validator-queue-mcp",
+  "source_url": "https://github.com/kukapay/ethereum-validator-queue-mcp",
+  "install": "npx -y ethereum-validator-queue-mcp"
+}

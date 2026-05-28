@@ -1,0 +1,7 @@
+{
+  "name": "serpapi-universal-mcp-server",
+  "description": "Provides a standardized interface to interact with Serpapi's search engine results API, enabling users to perform web searches and retrieve structured data.",
+  "source_repo": "universal-mcp/serpapi",
+  "source_url": "https://github.com/universal-mcp/serpapi",
+  "install": "# git clone --depth 1 https://github.com/universal-mcp/serpapi\n# See source for mcpServers config block"
+}

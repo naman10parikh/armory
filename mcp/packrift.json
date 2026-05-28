@@ -1,0 +1,7 @@
+{
+  "name": "packrift",
+  "description": "Enables AI agents to search packaging inventory, check pricing, recommend boxes, estimate shipping, and generate checkout links for Packrift.",
+  "source_repo": "packrift/packrift-mcp",
+  "source_url": "https://github.com/packrift/packrift-mcp",
+  "install": "npx -y packrift-mcp"
+}

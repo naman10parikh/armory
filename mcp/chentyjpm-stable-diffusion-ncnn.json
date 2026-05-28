@@ -1,0 +1,7 @@
+{
+  "name": "chentyjpm-stable-diffusion-ncnn",
+  "description": "CPU-based Stable Diffusion image generation using the ncnn framework for offline text-to-image workflows",
+  "source_repo": "chentyjpm/ncnn_llm-mcp-sdimggen",
+  "source_url": "https://github.com/chentyjpm/ncnn_llm-mcp-sdimggen",
+  "install": "# git clone --depth 1 https://github.com/chentyjpm/ncnn_llm-mcp-sdimggen\n# See source for mcpServers config block"
+}

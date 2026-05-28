@@ -1,0 +1,7 @@
+{
+  "name": "tanmayrawal-rag-document-qa",
+  "description": "RAG-powered document question-answering using FAISS vector search, Sentence Transformers, and Groq LLM for grounded answers from private documents.",
+  "source_repo": "tanmayrawal/rag-mcp-server",
+  "source_url": "https://github.com/tanmayrawal/rag-mcp-server",
+  "install": "npx -y rag-mcp-server"
+}

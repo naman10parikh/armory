@@ -1,0 +1,7 @@
+{
+  "name": "xingbofeng-skill-deck",
+  "description": "Converts local SKILL.md files into MCP-compatible tools and shareable HTML artifacts for AI agents.",
+  "source_repo": "xingbofeng/skill-deck",
+  "source_url": "https://github.com/xingbofeng/skill-deck",
+  "install": "# git clone --depth 1 https://github.com/xingbofeng/skill-deck\n# See source for mcpServers config block"
+}

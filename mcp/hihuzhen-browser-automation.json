@@ -1,0 +1,7 @@
+{
+  "name": "hihuzhen-browser-automation",
+  "description": "Provides browser automation through a Chrome extension and WebSocket server, enabling navigation, element interaction, form filling, screenshot capture, content extraction, and console monitoring without headless browser setups.",
+  "source_repo": "hihuzhen/browser-mcp",
+  "source_url": "https://github.com/hihuzhen/browser-mcp",
+  "install": "npx -y browser-mcp"
+}

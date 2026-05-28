@@ -1,0 +1,7 @@
+{
+  "name": "data-everything-mcp-server-templates",
+  "description": "One server. All tools. A unified MCP platform that connects many apps, tools, and services behind one powerful interface—ideal for local devs or production agents.",
+  "source_repo": "Data-Everything/mcp-server-templates",
+  "source_url": "https://github.com/Data-Everything/mcp-server-templates",
+  "install": "# git clone --depth 1 https://github.com/Data-Everything/mcp-server-templates\n# See source for mcpServers config block"
+}

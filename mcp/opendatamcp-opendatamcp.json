@@ -1,0 +1,7 @@
+{
+  "name": "opendatamcp-opendatamcp",
+  "description": "Connect to open data from millions of open government, NGO, and company datasets.",
+  "source_repo": "opendatamcp/opendatamcp",
+  "source_url": "https://github.com/opendatamcp/opendatamcp",
+  "install": "# git clone --depth 1 https://github.com/opendatamcp/opendatamcp\n# See source for mcpServers config block"
+}

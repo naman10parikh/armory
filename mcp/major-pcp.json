@@ -1,0 +1,7 @@
+{
+  "name": "major-pcp",
+  "description": "Collects, archives, and analyzes system performance metrics through Performance Co-Pilot (PCP).",
+  "source_repo": "major/pcp-mcp",
+  "source_url": "https://github.com/major/pcp-mcp",
+  "install": "npx -y pcp-mcp"
+}

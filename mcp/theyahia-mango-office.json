@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-mango-office",
+  "description": "Integrates with Mango Office telephony API for call history and user management.",
+  "source_repo": "theyahia/mango-office-mcp",
+  "source_url": "https://github.com/theyahia/mango-office-mcp",
+  "install": "npx -y mango-office-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kevindarstnbb-board-and-stable",
+  "description": "Search horse boarding facilities and trainers across 44 US states.",
+  "source_repo": "kevindarstnbb/board-and-stable-mcp",
+  "source_url": "https://github.com/kevindarstnbb/board-and-stable-mcp",
+  "install": "npx -y board-and-stable-mcp"
+}

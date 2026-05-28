@@ -1,0 +1,7 @@
+{
+  "name": "devicebase-mcp-server",
+  "description": "Enables remote control of mobile devices via the Devicebase API, including touch gestures, app management, and UI inspection.",
+  "source_repo": "devicebase/devicebase-mcp",
+  "source_url": "https://github.com/devicebase/devicebase-mcp",
+  "install": "npx -y devicebase-mcp"
+}

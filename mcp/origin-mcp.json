@@ -1,0 +1,7 @@
+{
+  "name": "origin-mcp",
+  "description": "Enables AI assistants to control Origin/OriginPro on Windows, including data import, worksheet editing, graphing, analysis, and figure export.",
+  "source_repo": "Ge-Shun/origin-mcp",
+  "source_url": "https://github.com/Ge-Shun/origin-mcp",
+  "install": "npx -y origin-mcp"
+}

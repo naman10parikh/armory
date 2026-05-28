@@ -1,0 +1,7 @@
+{
+  "name": "wrediam-better-qdrant",
+  "description": "Connects AI systems to Qdrant vector database for semantic search capabilities through multiple embedding services, enabling efficient document management and similarity searches without leaving the conversation interface.",
+  "source_repo": "wrediam/better-qdrant-mcp-server",
+  "source_url": "https://github.com/wrediam/better-qdrant-mcp-server",
+  "install": "npx -y better-qdrant-mcp-server"
+}

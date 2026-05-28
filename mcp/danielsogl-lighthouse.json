@@ -1,0 +1,7 @@
+{
+  "name": "danielsogl-lighthouse",
+  "description": "Integrates Google Lighthouse web performance auditing capabilities to provide automated website performance, accessibility, SEO, and best practices analysis with detailed metrics and optimization recommendations.",
+  "source_repo": "danielsogl/lighthouse-mcp-server",
+  "source_url": "https://github.com/danielsogl/lighthouse-mcp-server",
+  "install": "npx -y lighthouse-mcp-server"
+}

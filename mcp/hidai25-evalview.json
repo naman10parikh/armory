@@ -1,0 +1,7 @@
+{
+  "name": "hidai25-evalview",
+  "description": "Regression testing for AI agents with golden baselines, CI/CD integration, and multi-framework support.",
+  "source_repo": "hidai25/eval-view",
+  "source_url": "https://github.com/hidai25/eval-view",
+  "install": "# git clone --depth 1 https://github.com/hidai25/eval-view\n# See source for mcpServers config block"
+}

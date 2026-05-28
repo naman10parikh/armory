@@ -1,0 +1,7 @@
+{
+  "name": "zw-awa-ssh-session",
+  "description": "Persistent SSH PTY session manager for shared human-AI terminal collaboration.",
+  "source_repo": "zw-awa/ssh-session-mcp",
+  "source_url": "https://github.com/zw-awa/ssh-session-mcp",
+  "install": "npx -y ssh-session-mcp"
+}

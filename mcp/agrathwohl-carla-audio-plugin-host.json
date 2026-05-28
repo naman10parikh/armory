@@ -1,0 +1,7 @@
+{
+  "name": "agrathwohl-carla-audio-plugin-host",
+  "description": "Integrates with Carla audio plugin host to provide complete session management, plugin loading/control, audio routing, parameter automation, real-time analysis, and JACK port management across multiple plugin formats with Wine support for Windows plugins.",
+  "source_repo": "agrathwohl/carla-mcp-server",
+  "source_url": "https://github.com/agrathwohl/carla-mcp-server",
+  "install": "npx -y carla-mcp-server"
+}

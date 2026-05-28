@@ -1,0 +1,7 @@
+{
+  "name": "formio-uag",
+  "description": "Universal Agent Gateway enabling agentic automation with Form.io forms and workflows.",
+  "source_repo": "formio/uag",
+  "source_url": "https://github.com/formio/uag",
+  "install": "# git clone --depth 1 https://github.com/formio/uag\n# See source for mcpServers config block"
+}

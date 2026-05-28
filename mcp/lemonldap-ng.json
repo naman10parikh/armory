@@ -1,0 +1,7 @@
+{
+  "name": "lemonldap-ng",
+  "description": "Manage LemonLDAP::NG SSO instances: configuration, sessions, OIDC, SAML, and 2FA.",
+  "source_repo": "linagora/llng-mcp",
+  "source_url": "https://github.com/linagora/llng-mcp",
+  "install": "npx -y llng-mcp"
+}

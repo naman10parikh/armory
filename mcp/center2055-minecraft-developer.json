@@ -1,0 +1,7 @@
+{
+  "name": "center2055-minecraft-developer",
+  "description": "Spigot/Bukkit plugin that exposes Minecraft server administration capabilities through HTTP and SSE APIs, enabling remote command execution, file system operations, plugin management, and log monitoring with token-based authentication.",
+  "source_repo": "center2055/minecraftdevelopermcp",
+  "source_url": "https://github.com/center2055/minecraftdevelopermcp",
+  "install": "# git clone --depth 1 https://github.com/center2055/minecraftdevelopermcp\n# See source for mcpServers config block"
+}

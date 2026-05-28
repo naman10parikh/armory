@@ -1,0 +1,7 @@
+{
+  "name": "illegal-instruction-co-processhacker",
+  "description": "Windows runtime process analysis and memory inspection with plugin-based architecture for process enumeration, memory operations, and thread control.",
+  "source_repo": "illegal-instruction-co/processhacker-mcp",
+  "source_url": "https://github.com/illegal-instruction-co/processhacker-mcp",
+  "install": "npx -y processhacker-mcp"
+}

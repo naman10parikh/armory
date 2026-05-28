@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-salesbuildr",
+  "description": "Community MCP integration for SalesBuildr, enabling AI agents to manage MSP quoting and sales workflows.",
+  "source_repo": "wyre-technology/salesbuildr-mcp",
+  "source_url": "https://github.com/wyre-technology/salesbuildr-mcp",
+  "install": "npx -y salesbuildr-mcp"
+}

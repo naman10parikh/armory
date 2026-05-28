@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-jupiter",
+  "description": "Hosted integration with Jupiter DEX aggregator on Solana for swap operations via Junct platform.",
+  "source_repo": "junct-bot/jupiter-mcp",
+  "source_url": "https://github.com/junct-bot/jupiter-mcp",
+  "install": "npx -y jupiter-mcp"
+}

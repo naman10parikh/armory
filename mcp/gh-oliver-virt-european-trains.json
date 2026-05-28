@@ -1,0 +1,7 @@
+{
+  "name": "gh-oliver-virt-european-trains",
+  "description": "Search train schedules, find stations, and check disruptions across European rail networks.",
+  "source_repo": "oliver-virt/european-trains-mcp",
+  "source_url": "https://github.com/oliver-virt/european-trains-mcp",
+  "install": "npx -y european-trains-mcp"
+}

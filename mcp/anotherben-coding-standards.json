@@ -1,0 +1,7 @@
+{
+  "name": "anotherben-coding-standards",
+  "description": "Makes coding standards queryable as a live data store, returning only task-relevant rules in token-efficient responses instead of loading full documentation.",
+  "source_repo": "anotherben/standards-mcp",
+  "source_url": "https://github.com/anotherben/standards-mcp",
+  "install": "npx -y standards-mcp"
+}

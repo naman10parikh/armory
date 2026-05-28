@@ -1,0 +1,7 @@
+{
+  "name": "tumf-grafana-loki-mcp",
+  "description": "An MCP server that allows querying Loki logs through the Grafana API.",
+  "source_repo": "tumf/grafana-loki-mcp",
+  "source_url": "https://github.com/tumf/grafana-loki-mcp",
+  "install": "npx -y grafana-loki-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "henkdz-postgresql",
+  "description": "Integrates with PostgreSQL databases to enable schema management, data migration, performance monitoring, and security configuration through direct database operations without requiring separate management tools.",
+  "source_repo": "henkdz/postgresql-mcp-server",
+  "source_url": "https://github.com/henkdz/postgresql-mcp-server",
+  "install": "npx -y postgresql-mcp-server"
+}

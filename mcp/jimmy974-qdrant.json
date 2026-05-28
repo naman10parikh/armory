@@ -1,0 +1,7 @@
+{
+  "name": "jimmy974-qdrant",
+  "description": "Integrates with Qdrant vector database to provide semantic search capabilities for storing and retrieving information using multiple embedding providers, deployable via Docker or locally.",
+  "source_repo": "jimmy974/mcp-server-qdrant",
+  "source_url": "https://github.com/jimmy974/mcp-server-qdrant",
+  "install": "# git clone --depth 1 https://github.com/jimmy974/mcp-server-qdrant\n# See source for mcpServers config block"
+}

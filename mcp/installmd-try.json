@@ -1,0 +1,7 @@
+{
+  "name": "installmd-try",
+  "description": "Create guides as MCP servers to instruct coding agents to use your software",
+  "source_repo": "",
+  "source_url": "https://install.md",
+  "install": "# git clone --depth 1 https://install.md\n# See source for mcpServers config block"
+}

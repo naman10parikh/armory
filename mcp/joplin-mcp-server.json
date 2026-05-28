@@ -1,0 +1,7 @@
+{
+  "name": "joplin-mcp-server",
+  "description": "MCP server that provides standardized tools for querying and retrieving notes from Joplin personal knowledge manager through its API, enabling AI assistants to access and reference personal notes contextually.",
+  "source_repo": "Darkflib/mcp-joplin",
+  "source_url": "https://github.com/Darkflib/mcp-joplin",
+  "install": "# git clone --depth 1 https://github.com/Darkflib/mcp-joplin\n# See source for mcpServers config block"
+}

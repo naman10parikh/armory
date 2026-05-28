@@ -1,0 +1,7 @@
+{
+  "name": "tokenizin-fetch",
+  "description": "Provides web content retrieval capabilities through specialized tools for fetching HTML, JSON, text, and Markdown formats, enabling web scraping and data extraction directly within conversation interfaces.",
+  "source_repo": "tokenizin/mcp-npx-fetch",
+  "source_url": "https://github.com/tokenizin/mcp-npx-fetch",
+  "install": "# git clone --depth 1 https://github.com/tokenizin/mcp-npx-fetch\n# See source for mcpServers config block"
+}

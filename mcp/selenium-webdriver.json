@@ -1,0 +1,7 @@
+{
+  "name": "selenium-webdriver",
+  "description": "Enables automated web interactions through Selenium WebDriver operations for navigation, element manipulation, screenshot capture, and local storage management in Chrome and Firefox browsers.",
+  "source_repo": "jyothishkumarav/selenium-mcp-server-python",
+  "source_url": "https://github.com/jyothishkumarav/selenium-mcp-server-python",
+  "install": "# git clone --depth 1 https://github.com/jyothishkumarav/selenium-mcp-server-python\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "junhan2-gemini-nanobanana",
+  "description": "Integrates with Google's Gemini 2.5 Flash Image API to provide text-to-image generation, single image editing with prompts, multi-image composition, and style transfer capabilities with automatic file saving and collision handling.",
+  "source_repo": "junhan2/gemini-nanobanana-mcp",
+  "source_url": "https://github.com/junhan2/gemini-nanobanana-mcp",
+  "install": "npx -y gemini-nanobanana-mcp"
+}

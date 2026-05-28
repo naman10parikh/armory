@@ -1,0 +1,7 @@
+{
+  "name": "baiyanlong-mqtt",
+  "description": "MCP server bridging AI agents to IoT devices via MQTT protocol, with device discovery, sensor data access, and command execution over SSE and stdio.",
+  "source_repo": "baiyanlong/mqtt-mcp-server",
+  "source_url": "https://github.com/baiyanlong/mqtt-mcp-server",
+  "install": "npx -y mqtt-mcp-server"
+}

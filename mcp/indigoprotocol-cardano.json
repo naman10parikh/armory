@@ -1,0 +1,7 @@
+{
+  "name": "indigoprotocol-cardano",
+  "description": "Provides Cardano blockchain wallet operations including transaction submission, address management, UTxO retrieval, token balances, ADAHandle resolution, and stake delegation.",
+  "source_repo": "indigoprotocol/cardano-mcp",
+  "source_url": "https://github.com/indigoprotocol/cardano-mcp",
+  "install": "npx -y cardano-mcp"
+}

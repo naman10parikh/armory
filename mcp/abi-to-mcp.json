@@ -1,0 +1,7 @@
+{
+  "name": "abi-to-mcp",
+  "description": "Generates MCP servers from smart contract ABIs, enabling Claude to interact with any Ethereum contract via natural language commands.",
+  "source_repo": "nirholas/UCAI",
+  "source_url": "https://github.com/nirholas/UCAI",
+  "install": "# git clone --depth 1 https://github.com/nirholas/UCAI\n# See source for mcpServers config block"
+}

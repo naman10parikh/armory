@@ -1,0 +1,7 @@
+{
+  "name": "nickbaumann98-everart-forge",
+  "description": "Integrates with EverArt's AI models to provide advanced vector and raster image generation capabilities, supporting various formats and offering flexible storage options.",
+  "source_repo": "nickbaumann98/everart-forge-mcp",
+  "source_url": "https://github.com/nickbaumann98/everart-forge-mcp",
+  "install": "npx -y everart-forge-mcp"
+}

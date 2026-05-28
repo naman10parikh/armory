@@ -1,0 +1,7 @@
+{
+  "name": "w31r4-codex-cli",
+  "description": "Wraps the Codex CLI tool to enable secure, sandboxed code generation, debugging, and automation with three security levels and session persistence for iterative development workflows.",
+  "source_repo": "w31r4/codex-mcp-go",
+  "source_url": "https://github.com/w31r4/codex-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/w31r4/codex-mcp-go\n# See source for mcpServers config block"
+}

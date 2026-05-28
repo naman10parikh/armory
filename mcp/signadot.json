@@ -1,0 +1,7 @@
+{
+  "name": "signadot",
+  "description": "Manage Signadot sandboxes, route groups, and ephemeral environments through natural language prompts.",
+  "source_repo": "signadot/cli",
+  "source_url": "https://github.com/signadot/cli",
+  "install": "# git clone --depth 1 https://github.com/signadot/cli\n# See source for mcpServers config block"
+}

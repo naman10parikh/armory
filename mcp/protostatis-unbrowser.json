@@ -1,0 +1,7 @@
+{
+  "name": "protostatis-unbrowser",
+  "description": "Lightweight browser MCP server for LLM agents. Runs JavaScript, follows links, fills forms, manages cookies, and returns low-token BlockMaps from a single native binary without Chrome.",
+  "source_repo": "protostatis/unbrowser",
+  "source_url": "https://github.com/protostatis/unbrowser",
+  "install": "# git clone --depth 1 https://github.com/protostatis/unbrowser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "plyght-studentvue",
+  "description": "Integrates with StudentVue information systems to provide access to grades, attendance, schedules, messages, and documents through SOAP protocol endpoints for building educational dashboards and automated grade monitoring systems.",
+  "source_repo": "plyght/studentvue",
+  "source_url": "https://github.com/plyght/studentvue",
+  "install": "# git clone --depth 1 https://github.com/plyght/studentvue\n# See source for mcpServers config block"
+}

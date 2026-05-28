@@ -1,0 +1,7 @@
+{
+  "name": "hajime-y-deep-research",
+  "description": "Provides web search and advanced research capabilities with specialized tools for browsing, document analysis, media processing, and archive searching to gather information from diverse sources.",
+  "source_repo": "hajime-y/deep-research-mcp",
+  "source_url": "https://github.com/hajime-y/deep-research-mcp",
+  "install": "npx -y deep-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stepbot-stockfish",
+  "description": "Play chess against the Stockfish engine",
+  "source_repo": "stepbot/stockfishmcp",
+  "source_url": "https://github.com/stepbot/stockfishmcp",
+  "install": "# git clone --depth 1 https://github.com/stepbot/stockfishmcp\n# See source for mcpServers config block"
+}

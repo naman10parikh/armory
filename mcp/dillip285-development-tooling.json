@@ -1,0 +1,7 @@
+{
+  "name": "dillip285-development-tooling",
+  "description": "Integrates with Docker, Git, and development tools to enable software project management, code analysis, and automated workflows across languages and frameworks.",
+  "source_repo": "dillip285/mcp-dev-server",
+  "source_url": "https://github.com/dillip285/mcp-dev-server",
+  "install": "# git clone --depth 1 https://github.com/dillip285/mcp-dev-server\n# See source for mcpServers config block"
+}

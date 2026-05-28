@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-cost-tracker-mcp",
+  "description": "Token-cost telemetry for AI agents across providers: per-agent attribution, anomaly detection, and routing optimization.",
+  "source_repo": "temurkhan13/openclaw-cost-tracker-mcp",
+  "source_url": "https://github.com/temurkhan13/openclaw-cost-tracker-mcp",
+  "install": "npx -y openclaw-cost-tracker-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-docs-2",
+  "description": "Search Cloudflare documentation across Workers, Pages, R2, Zero Trust, and more. Generate best-practice Workers code and accelerate troubleshooting with relevant guidance. Follow clear steps to migrate Pages projects to Workers with fewer pitfalls.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/chuhuoyuan/cloudflare",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/chuhuoyuan/cloudflare\n# See source for mcpServers config block"
+}

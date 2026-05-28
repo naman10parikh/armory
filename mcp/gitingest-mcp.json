@@ -1,0 +1,7 @@
+{
+  "name": "gitingest-mcp",
+  "description": "Gitingest MCP MCP server listed on mcp.so.",
+  "source_repo": "puravparab/Gitingest-MCP",
+  "source_url": "https://mcp.so/server/Gitingest-MCP/puravparab",
+  "install": "npx -y Gitingest-MCP"
+}

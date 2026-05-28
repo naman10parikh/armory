@@ -1,0 +1,7 @@
+{
+  "name": "mcp2everything-tavily",
+  "description": "Integrates the Tavily search API to enable web searches and information retrieval for fact-checking and research tasks.",
+  "source_repo": "mcp2everything/mcp2tavily",
+  "source_url": "https://github.com/mcp2everything/mcp2tavily",
+  "install": "# git clone --depth 1 https://github.com/mcp2everything/mcp2tavily\n# See source for mcpServers config block"
+}

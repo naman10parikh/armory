@@ -1,0 +1,7 @@
+{
+  "name": "postgres",
+  "description": "Postgres MCP server listed on mcp.so.",
+  "source_repo": "modelcontextprotocol/postgres",
+  "source_url": "https://mcp.so/server/postgres/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://mcp.so/server/postgres/modelcontextprotocol\n# See source for mcpServers config block"
+}

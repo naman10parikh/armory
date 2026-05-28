@@ -1,0 +1,7 @@
+{
+  "name": "yugabyte-yugabytedb",
+  "description": "Enables read-only database exploration and analysis through secure query execution and schema summarization for YugabyteDB instances",
+  "source_repo": "yugabyte/yugabytedb-mcp-server",
+  "source_url": "https://github.com/yugabyte/yugabytedb-mcp-server",
+  "install": "npx -y yugabytedb-mcp-server"
+}

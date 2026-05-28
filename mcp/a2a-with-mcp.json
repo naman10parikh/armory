@@ -1,0 +1,7 @@
+{
+  "name": "a2a-with-mcp",
+  "description": "Integration of A2A with MCP",
+  "source_repo": "anshulLuhsna/a2a_with_mcp",
+  "source_url": "https://github.com/anshulLuhsna/a2a_with_mcp",
+  "install": "npx -y a2a_with_mcp"
+}

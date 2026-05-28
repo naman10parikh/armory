@@ -1,0 +1,7 @@
+{
+  "name": "lixvyang-mixin-safe",
+  "description": "Wraps Mixin Safe APIs for cryptocurrency transfers, asset management, messaging, and conversation handling on the Mixin Network.",
+  "source_repo": "lixvyang/mixin-mcp-go",
+  "source_url": "https://github.com/lixvyang/mixin-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/lixvyang/mixin-mcp-go\n# See source for mcpServers config block"
+}

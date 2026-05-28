@@ -1,0 +1,7 @@
+{
+  "name": "gh-ravikant1918-sharepoint",
+  "description": "Microsoft SharePoint folder, document, and metadata management.",
+  "source_repo": "ravikant1918/sharepoint-mcp",
+  "source_url": "https://github.com/ravikant1918/sharepoint-mcp",
+  "install": "npx -y sharepoint-mcp"
+}

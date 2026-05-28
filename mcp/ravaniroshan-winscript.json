@@ -1,0 +1,7 @@
+{
+  "name": "ravaniroshan-winscript",
+  "description": "Windows desktop automation with 59 tools for UI control, Office integration, and workflow recording.",
+  "source_repo": "ravaniroshan/winscript-mcp",
+  "source_url": "https://github.com/ravaniroshan/winscript-mcp",
+  "install": "npx -y winscript-mcp"
+}

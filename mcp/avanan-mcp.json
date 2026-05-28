@@ -1,0 +1,7 @@
+{
+  "name": "avanan-mcp",
+  "description": "MCP server for Checkpoint Harmony Email & Collaboration (Avanan). Enables AI assistants to manage email security, anti-phishing, anti-malware, and threat detection via the Avanan API.",
+  "source_repo": "wyre-technology/avanan-mcp",
+  "source_url": "https://github.com/wyre-technology/avanan-mcp",
+  "install": "npx -y avanan-mcp"
+}

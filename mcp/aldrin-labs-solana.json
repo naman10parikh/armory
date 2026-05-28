@@ -1,0 +1,7 @@
+{
+  "name": "aldrin-labs-solana",
+  "description": "Integrates with Solana blockchain to enable natural language querying of account data, transactions, and network status.",
+  "source_repo": "aldrin-labs/solana-mcp-server",
+  "source_url": "https://github.com/aldrin-labs/solana-mcp-server",
+  "install": "npx -y solana-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tschoonj-repology",
+  "description": "Access package versions and metadata across 120+ package repositories",
+  "source_repo": "tschoonj/repology-mcp-server",
+  "source_url": "https://github.com/tschoonj/repology-mcp-server",
+  "install": "npx -y repology-mcp-server"
+}

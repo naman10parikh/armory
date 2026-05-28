@@ -1,0 +1,7 @@
+{
+  "name": "lazymac2x-smart-data-extractor",
+  "description": "Data extraction server on Cloudflare Workers with REST and MCP JSON-RPC interfaces, free tier available.",
+  "source_repo": "lazymac2x/smart-data-extractor-worker",
+  "source_url": "https://github.com/lazymac2x/smart-data-extractor-worker",
+  "install": "# git clone --depth 1 https://github.com/lazymac2x/smart-data-extractor-worker\n# See source for mcpServers config block"
+}

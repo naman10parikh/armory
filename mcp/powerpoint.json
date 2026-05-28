@@ -1,0 +1,7 @@
+{
+  "name": "powerpoint",
+  "description": "Enables creation and editing of PowerPoint presentations with tools for slides, content, tables, charts and AI-generated images via Stable Diffusion",
+  "source_repo": "ichigo3766/powerpoint-mcp",
+  "source_url": "https://github.com/ichigo3766/powerpoint-mcp",
+  "install": "npx -y powerpoint-mcp"
+}

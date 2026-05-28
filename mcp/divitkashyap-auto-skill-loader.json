@@ -1,0 +1,7 @@
+{
+  "name": "divitkashyap-auto-skill-loader",
+  "description": "Persistent skill library with automatic loading at AI agent session start.",
+  "source_repo": "divitkashyap/auto-skill-loader",
+  "source_url": "https://github.com/divitkashyap/auto-skill-loader",
+  "install": "# git clone --depth 1 https://github.com/divitkashyap/auto-skill-loader\n# See source for mcpServers config block"
+}

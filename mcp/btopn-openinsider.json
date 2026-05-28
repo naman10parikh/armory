@@ -1,0 +1,7 @@
+{
+  "name": "btopn-openinsider",
+  "description": "Investment research MCP server with 16 tools for insider trades, SEC filings, FINRA short interest, and live stock quotes.",
+  "source_repo": "btopn/openinsider-mcp",
+  "source_url": "https://github.com/btopn/openinsider-mcp",
+  "install": "npx -y openinsider-mcp"
+}

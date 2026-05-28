@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-compliance-audit-tool",
+  "description": "An automated security audit tool for Google Workspace environments that assesses compliance with multiple regulatory frameworks using AI-powered analysis and interactive Q\\&A workflows.",
+  "source_repo": "sean-m-sweeney/GoogleWorkspaceAudit",
+  "source_url": "https://github.com/sean-m-sweeney/GoogleWorkspaceAudit",
+  "install": "# git clone --depth 1 https://github.com/sean-m-sweeney/GoogleWorkspaceAudit\n# See source for mcpServers config block"
+}

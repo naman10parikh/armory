@@ -1,0 +1,7 @@
+{
+  "name": "knowsync",
+  "description": "Transform your scattered documentation into AI-ready knowledge that works seamlessly with Claude, Cursor, VS Code, and other AI tools.",
+  "source_repo": "",
+  "source_url": "https://www.knowsync.ai/docs/mcp-integration",
+  "install": "# git clone --depth 1 https://www.knowsync.ai/docs/mcp-integration\n# See source for mcpServers config block"
+}

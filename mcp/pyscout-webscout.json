@@ -1,0 +1,7 @@
+{
+  "name": "pyscout-webscout",
+  "description": "Automates reverse engineering of chat interfaces through browser automation and network traffic analysis, capturing streaming API endpoints and providing browser control for analyzing chat APIs without official documentation.",
+  "source_repo": "pyscout/webscout-mcp",
+  "source_url": "https://github.com/pyscout/webscout-mcp",
+  "install": "npx -y webscout-mcp"
+}

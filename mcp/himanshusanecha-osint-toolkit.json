@@ -1,0 +1,7 @@
+{
+  "name": "himanshusanecha-osint-toolkit",
+  "description": "Provides a unified interface for network reconnaissance with parallel execution of OSINT tools including WHOIS, Nmap, DNS lookups, and typosquatting detection for security researchers and network administrators.",
+  "source_repo": "himanshusanecha/mcp-osint-server",
+  "source_url": "https://github.com/himanshusanecha/mcp-osint-server",
+  "install": "# git clone --depth 1 https://github.com/himanshusanecha/mcp-osint-server\n# See source for mcpServers config block"
+}

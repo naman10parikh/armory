@@ -1,0 +1,7 @@
+{
+  "name": "syscad",
+  "description": "Official MCP wrapper for SysCAD, a geometric CAD prototyping environment from Suzhou Tongyuan.",
+  "source_repo": "suzhou-tongyuan/syscad-mcp-server",
+  "source_url": "https://github.com/suzhou-tongyuan/syscad-mcp-server",
+  "install": "npx -y syscad-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-seeker",
+  "description": "Search hotels by city, state, country, or geolocation and explore detailed property info. Check live availability, compare rates and room types, and review boards and promotions. Create ready-to-book links with preselected rooms, rates, supplements, and optional guest details.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/agonzalez/prueba-mcp-seeker",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/agonzalez/prueba-mcp-seeker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qiniu-cloud-storage",
+  "description": "Integrates with Qiniu Cloud to provide object storage management, CDN operations, and image processing capabilities for applications that need to handle cloud-stored assets or perform on-the-fly image transformations",
+  "source_repo": "qiniu/qiniu-mcp-server",
+  "source_url": "https://github.com/qiniu/qiniu-mcp-server",
+  "install": "npx -y qiniu-mcp-server"
+}

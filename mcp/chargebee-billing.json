@@ -1,0 +1,7 @@
+{
+  "name": "chargebee-billing",
+  "description": "Provides a billing and subscription management server for developers, enabling seamless integration of Chargebee workflows into development environments through specialized documentation search and code generation tools.",
+  "source_repo": "chargebee/agentkit",
+  "source_url": "https://github.com/chargebee/agentkit",
+  "install": "# git clone --depth 1 https://github.com/chargebee/agentkit\n# See source for mcpServers config block"
+}

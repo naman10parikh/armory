@@ -1,0 +1,7 @@
+{
+  "name": "stannersec-protonmail-bridge",
+  "description": "Integrates with ProtonMail through Proton Bridge to enable encrypted email operations.",
+  "source_repo": "stannersec/proton-email-mcp-server",
+  "source_url": "https://github.com/stannersec/proton-email-mcp-server",
+  "install": "npx -y proton-email-mcp-server"
+}

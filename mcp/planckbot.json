@@ -1,0 +1,7 @@
+{
+  "name": "planckbot",
+  "description": "An adaptive tiny-model layer that sits between an LLM and its MCP tools, compressing verbose tool outputs to reduce token usage by up to two orders of magnitude.",
+  "source_repo": "opcastil11/planckbot",
+  "source_url": "https://github.com/opcastil11/planckbot",
+  "install": "# git clone --depth 1 https://github.com/opcastil11/planckbot\n# See source for mcpServers config block"
+}

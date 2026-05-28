@@ -1,0 +1,7 @@
+{
+  "name": "cockroachdb",
+  "description": "Provides natural language access to CockroachDB clusters through cluster monitoring for health checks and performance analysis, database operations for connection management and lifecycle tasks, table management for schema operations and bulk data import, and query execution with transaction support and performance optimization.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/cockroachdb",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/cockroachdb\n# See source for mcpServers config block"
+}

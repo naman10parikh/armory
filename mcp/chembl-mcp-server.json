@@ -1,0 +1,7 @@
+{
+  "name": "chembl-mcp-server",
+  "description": "A FastMCP wrapper server that provides API access to the ChEMBL database, enabling users to query drug discovery data such as activities, assays, targets, and molecules.",
+  "source_repo": "JackKuo666/ChEMBL-MCP-Server",
+  "source_url": "https://github.com/JackKuo666/ChEMBL-MCP-Server",
+  "install": "npx -y ChEMBL-MCP-Server"
+}

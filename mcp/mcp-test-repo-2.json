@@ -1,0 +1,7 @@
+{
+  "name": "mcp-test-repo-2",
+  "description": "Mcp Test Repo MCP server listed on mcp.so.",
+  "source_repo": "sshimomu2k2/mcp-test-repo",
+  "source_url": "https://mcp.so/server/mcp-test-repo/sshimomu2k2",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-test-repo/sshimomu2k2\n# See source for mcpServers config block"
+}

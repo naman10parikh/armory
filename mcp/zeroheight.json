@@ -1,0 +1,7 @@
+{
+  "name": "zeroheight",
+  "description": "Access zeroheight styleguides, design tokens, and design system documentation.",
+  "source_repo": "",
+  "source_url": "https://help.zeroheight.com/hc/en-us/articles/43780251357979-Using-the-remote-zeroheight-MCP-server",
+  "install": "# git clone --depth 1 https://help.zeroheight.com/hc/en-us/articles/43780251357979-Using-the-remote-zeroheight-MCP-server\n# See source for mcpServers config block"
+}

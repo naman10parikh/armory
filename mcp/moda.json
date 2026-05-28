@@ -1,0 +1,7 @@
+{
+  "name": "moda",
+  "description": "Connects to Moda's AI design platform to create visual assets, convert designs to code, extract design tokens, and manage brand kits.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/moda",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/moda\n# See source for mcpServers config block"
+}

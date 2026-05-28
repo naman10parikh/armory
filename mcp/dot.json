@@ -1,0 +1,7 @@
+{
+  "name": "dot",
+  "description": "Get insights and visualizations from data in your databases, data warehouses or semantic layers.",
+  "source_repo": "",
+  "source_url": "https://docs.getdot.ai/dot/integrations/mcp",
+  "install": "# git clone --depth 1 https://docs.getdot.ai/dot/integrations/mcp\n# See source for mcpServers config block"
+}

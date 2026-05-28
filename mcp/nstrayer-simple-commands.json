@@ -1,0 +1,7 @@
+{
+  "name": "nstrayer-simple-commands",
+  "description": "Enables execution of predefined developer commands and management of long-running processes through JSON configuration with automatic daemon control tools and cross-platform process monitoring.",
+  "source_repo": "nstrayer/simple-commands-mcp",
+  "source_url": "https://github.com/nstrayer/simple-commands-mcp",
+  "install": "npx -y simple-commands-mcp"
+}

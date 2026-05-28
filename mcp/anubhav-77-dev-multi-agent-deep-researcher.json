@@ -1,0 +1,7 @@
+{
+  "name": "anubhav-77-dev-multi-agent-deep-researcher",
+  "description": "Orchestrates three specialized agents (web searcher, research analyst, and technical writer) using CrewAI to automate comprehensive information gathering and synthesis workflows that combine web data retrieval, analysis, and structured report generation.",
+  "source_repo": "anubhav-77-dev/mcp-multi-agent-deep-researcher",
+  "source_url": "https://github.com/anubhav-77-dev/mcp-multi-agent-deep-researcher",
+  "install": "# git clone --depth 1 https://github.com/anubhav-77-dev/mcp-multi-agent-deep-researcher\n# See source for mcpServers config block"
+}

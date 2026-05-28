@@ -1,0 +1,7 @@
+{
+  "name": "smithy-mcp-server",
+  "description": "Smithy Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "DennisTraub/smithy-mcp-server",
+  "source_url": "https://mcp.so/server/smithy-mcp-server/DennisTraub",
+  "install": "npx -y smithy-mcp-server"
+}

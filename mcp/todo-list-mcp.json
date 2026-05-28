@@ -1,0 +1,7 @@
+{
+  "name": "todo-list-mcp",
+  "description": "Todo List Mcp MCP server listed on mcp.so.",
+  "source_repo": "RegiByte/todo-list-mcp",
+  "source_url": "https://mcp.so/server/todo-list-mcp/RegiByte",
+  "install": "npx -y todo-list-mcp"
+}

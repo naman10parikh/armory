@@ -1,0 +1,7 @@
+{
+  "name": "snipefactory-lumen-jfr-forensics",
+  "description": "JVM Flight Recorder forensic analysis engine providing exception tracing, slow SQL detection, network I/O profiling, CPU hotspot identification, and memory analysis for AI agents.",
+  "source_repo": "snipefactory/lumen-mcp",
+  "source_url": "https://github.com/snipefactory/lumen-mcp",
+  "install": "npx -y lumen-mcp"
+}

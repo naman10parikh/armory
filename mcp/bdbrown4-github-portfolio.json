@@ -1,0 +1,7 @@
+{
+  "name": "bdbrown4-github-portfolio",
+  "description": "Exposes GitHub user profile, repository listings, language statistics, and README content through a dual-mode MCP server for portfolio analysis.",
+  "source_repo": "bdbrown4/github-portfolio-mcp-server",
+  "source_url": "https://github.com/bdbrown4/github-portfolio-mcp-server",
+  "install": "npx -y github-portfolio-mcp-server"
+}

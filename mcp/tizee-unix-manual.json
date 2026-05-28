@@ -1,0 +1,7 @@
+{
+  "name": "tizee-unix-manual",
+  "description": "Provides Unix command documentation, including help pages, man pages, and usage information, enabling retrieval and exploration of system commands within conversations.",
+  "source_repo": "tizee/mcp-unix-manual",
+  "source_url": "https://github.com/tizee/mcp-unix-manual",
+  "install": "# git clone --depth 1 https://github.com/tizee/mcp-unix-manual\n# See source for mcpServers config block"
+}

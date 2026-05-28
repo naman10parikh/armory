@@ -1,0 +1,7 @@
+{
+  "name": "vmware-aria-logs",
+  "description": "MCP server for querying and analyzing logs from VMware Aria Operations for Logs, enabling log search, incident detection, and vROps correlation.",
+  "source_repo": "apollion69/vmware-aria-logs",
+  "source_url": "https://github.com/apollion69/vmware-aria-logs",
+  "install": "# git clone --depth 1 https://github.com/apollion69/vmware-aria-logs\n# See source for mcpServers config block"
+}

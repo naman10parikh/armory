@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-mcp-mdns",
+  "description": "mDNS service discovery for local network services via AI assistants.",
+  "source_repo": "daedalus/mcp-mdns",
+  "source_url": "https://github.com/daedalus/mcp-mdns",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-mdns\n# See source for mcpServers config block"
+}

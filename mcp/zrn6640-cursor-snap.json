@@ -1,0 +1,7 @@
+{
+  "name": "zrn6640-cursor-snap",
+  "description": "Interactive feedback server for Cursor IDE with one-click agent interrupt, screenshot capture, system tray integration, and hook-based workflow control.",
+  "source_repo": "zrn6640/cursor-snap-mcp",
+  "source_url": "https://github.com/zrn6640/cursor-snap-mcp",
+  "install": "npx -y cursor-snap-mcp"
+}

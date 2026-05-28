@@ -1,0 +1,7 @@
+{
+  "name": "kmonbeibi31-verifactu",
+  "description": "Integrates with Spain's VeriFactu e-invoicing system for tax authority-compliant invoice operations.",
+  "source_repo": "kmonbeibi31/verifactu-mcp",
+  "source_url": "https://github.com/kmonbeibi31/verifactu-mcp",
+  "install": "npx -y verifactu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-readmigo-shipkit",
+  "description": "Unified app publishing for Google Play, App Store, and 10+ Chinese stores.",
+  "source_repo": "readmigo/shipkit",
+  "source_url": "https://github.com/readmigo/shipkit",
+  "install": "# git clone --depth 1 https://github.com/readmigo/shipkit\n# See source for mcpServers config block"
+}

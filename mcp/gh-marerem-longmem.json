@@ -1,0 +1,7 @@
+{
+  "name": "gh-marerem-longmem",
+  "description": "Persistent memory for AI coding assistants that stores and retrieves previously solved problems across projects.",
+  "source_repo": "marerem/longmem",
+  "source_url": "https://github.com/marerem/longmem",
+  "install": "# git clone --depth 1 https://github.com/marerem/longmem\n# See source for mcpServers config block"
+}

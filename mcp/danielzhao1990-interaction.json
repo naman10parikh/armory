@@ -1,0 +1,7 @@
+{
+  "name": "danielzhao1990-interaction",
+  "description": "Enables high-frequency communication between users and AI tools through multiple interface options, providing option selection and information requests to improve interaction efficiency by confirming approaches before execution.",
+  "source_repo": "danielzhao1990/interaction-mcp",
+  "source_url": "https://github.com/danielzhao1990/interaction-mcp",
+  "install": "npx -y interaction-mcp"
+}

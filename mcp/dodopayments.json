@@ -1,0 +1,7 @@
+{
+  "name": "dodopayments",
+  "description": "Provides a bridge to the Dodo Payments API for processing payments, managing subscriptions, and handling licensing through over 40 specialized tools for customer and product management.",
+  "source_repo": "dodopayments/dodopayments-typescript",
+  "source_url": "https://github.com/dodopayments/dodopayments-typescript",
+  "install": "# git clone --depth 1 https://github.com/dodopayments/dodopayments-typescript\n# See source for mcpServers config block"
+}

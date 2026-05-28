@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-language-detector",
+  "description": "Identifies the written language of input text using trigram frequency analysis, covering over 30 languages with script detection.",
+  "source_repo": "br0ski777/language-detector-x402",
+  "source_url": "https://github.com/br0ski777/language-detector-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/language-detector-x402\n# See source for mcpServers config block"
+}

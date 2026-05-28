@@ -1,0 +1,7 @@
+{
+  "name": "osseni94-oyemi",
+  "description": "Semantic word encoding and valence analysis using deterministic lexicon mappings",
+  "source_repo": "osseni94/oyemi-mcp",
+  "source_url": "https://github.com/osseni94/oyemi-mcp",
+  "install": "npx -y oyemi-mcp"
+}

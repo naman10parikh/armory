@@ -1,0 +1,7 @@
+{
+  "name": "openproject-mcp",
+  "description": "Exposes the OpenProject REST API as MCP tools for project management, including creating and managing projects, work packages, relations, attachments, users, notifications, watchers, boards, and reference data.",
+  "source_repo": "OliverRhyme/openproject-mcp",
+  "source_url": "https://github.com/OliverRhyme/openproject-mcp",
+  "install": "npx -y openproject-mcp"
+}

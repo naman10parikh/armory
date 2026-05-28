@@ -1,0 +1,7 @@
+{
+  "name": "onecontext",
+  "description": "Ship enterprise-grade RAG pipelines to millions of users.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/onecontext",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/onecontext\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mkummer225-google-sheets",
+  "description": "Integrates with Google Sheets API to enable direct creation, reading, and editing of spreadsheets for data analysis and collaborative document management",
+  "source_repo": "mkummer225/google-sheets-mcp",
+  "source_url": "https://github.com/mkummer225/google-sheets-mcp",
+  "install": "npx -y google-sheets-mcp"
+}

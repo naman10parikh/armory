@@ -1,0 +1,7 @@
+{
+  "name": "jezweb-australian-postcodes",
+  "description": "Provides fast postcode and suburb lookup services for Australia with fuzzy matching, phonetic search, and geographic radius queries using SQLite database of 17,000 locations.",
+  "source_repo": "jezweb/australian-postcodes-mcp",
+  "source_url": "https://github.com/jezweb/australian-postcodes-mcp",
+  "install": "npx -y australian-postcodes-mcp"
+}

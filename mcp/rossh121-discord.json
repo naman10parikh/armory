@@ -1,0 +1,7 @@
+{
+  "name": "rossh121-discord",
+  "description": "Enables AI assistants to interact with Discord servers by providing tools for sending messages, reading history, listing channels, retrieving user information, and adding reactions using Discord.js and TypeScript.",
+  "source_repo": "rossh121/discord-mcp",
+  "source_url": "https://github.com/rossh121/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

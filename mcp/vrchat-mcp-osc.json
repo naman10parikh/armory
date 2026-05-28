@@ -1,0 +1,7 @@
+{
+  "name": "vrchat-mcp-osc",
+  "description": "Vrchat Mcp Osc MCP server listed on mcp.so.",
+  "source_repo": "Krekun/vrchat-mcp-osc",
+  "source_url": "https://mcp.so/server/vrchat-mcp-osc/Krekun",
+  "install": "# git clone --depth 1 https://mcp.so/server/vrchat-mcp-osc/Krekun\n# See source for mcpServers config block"
+}

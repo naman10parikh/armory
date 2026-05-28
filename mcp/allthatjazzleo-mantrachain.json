@@ -1,0 +1,7 @@
+{
+  "name": "allthatjazzleo-mantrachain",
+  "description": "Integration with the Mantra Chain blockchain.",
+  "source_repo": "allthatjazzleo/mantrachain-mcp",
+  "source_url": "https://github.com/allthatjazzleo/mantrachain-mcp",
+  "install": "npx -y mantrachain-mcp"
+}

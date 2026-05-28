@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-office-word",
+  "description": "Integrates with Microsoft Word documents to create, read, manipulate content including headings, paragraphs, tables, images, apply rich formatting, manage document protection with password encryption, extract comments, and convert to PDF format.",
+  "source_repo": "ihatesea69/office-word-mcp",
+  "source_url": "https://github.com/ihatesea69/office-word-mcp",
+  "install": "npx -y office-word-mcp"
+}

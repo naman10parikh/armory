@@ -1,0 +1,7 @@
+{
+  "name": "solvohq-openunfurl",
+  "description": "Anonymous link unfurling API that returns clean JSON metadata for any public URL.",
+  "source_repo": "solvohq/openunfurl",
+  "source_url": "https://github.com/solvohq/openunfurl",
+  "install": "# git clone --depth 1 https://github.com/solvohq/openunfurl\n# See source for mcpServers config block"
+}

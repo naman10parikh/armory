@@ -1,0 +1,7 @@
+{
+  "name": "exactpdf",
+  "description": "Agent-facing PDF API for merging, splitting, compressing, and converting documents to Markdown.",
+  "source_repo": "",
+  "source_url": "https://exactpdf.com",
+  "install": "# git clone --depth 1 https://exactpdf.com\n# See source for mcpServers config block"
+}

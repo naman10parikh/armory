@@ -1,0 +1,7 @@
+{
+  "name": "ipfind-ipfind-mcp-server",
+  "description": "IP Address location service using the [IP Find](https://ipfind.com) API",
+  "source_repo": "ipfind/ipfind-mcp-server",
+  "source_url": "https://github.com/ipfind/ipfind-mcp-server",
+  "install": "npx -y ipfind-mcp-server"
+}

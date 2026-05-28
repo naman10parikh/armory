@@ -1,0 +1,7 @@
+{
+  "name": "sachitrafa-yourmemory",
+  "description": "Ebbinghaus-based persistent memory with decay and recall strengthening, backed by PostgreSQL and pgvector.",
+  "source_repo": "sachitrafa/yourmemory",
+  "source_url": "https://github.com/sachitrafa/yourmemory",
+  "install": "# git clone --depth 1 https://github.com/sachitrafa/yourmemory\n# See source for mcpServers config block"
+}

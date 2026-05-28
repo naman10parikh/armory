@@ -1,0 +1,7 @@
+{
+  "name": "activedirectorymcp",
+  "description": "A comprehensive MCP server for managing Active Directory environments through LDAP, enabling user, group, computer, and OU management, as well as security auditing and policy compliance checks.",
+  "source_repo": "alpadalar/ActiveDirectoryMCP",
+  "source_url": "https://github.com/alpadalar/ActiveDirectoryMCP",
+  "install": "# git clone --depth 1 https://github.com/alpadalar/ActiveDirectoryMCP\n# See source for mcpServers config block"
+}

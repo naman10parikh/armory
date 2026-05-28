@@ -1,0 +1,7 @@
+{
+  "name": "ihiteshgupta-whatsapp-bridge",
+  "description": "Go-based WhatsApp bridge with comprehensive messaging, media handling, group management, and persistent chat history via whatsmeow.",
+  "source_repo": "ihiteshgupta/whatsapp-mcp",
+  "source_url": "https://github.com/ihiteshgupta/whatsapp-mcp/tree/HEAD/whatsapp-bridge-v2",
+  "install": "npx -y whatsapp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-aguantar-vibescan",
+  "description": "Security scanner for leaked secrets, dangerous code patterns, and git hygiene issues.",
+  "source_repo": "aguantar/vibescan-mcp-server",
+  "source_url": "https://github.com/aguantar/vibescan-mcp-server",
+  "install": "npx -y vibescan-mcp-server"
+}

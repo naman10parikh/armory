@@ -1,0 +1,7 @@
+{
+  "name": "headcrab-clickhouse",
+  "description": "Connects Claude to ClickHouse databases for direct query execution and data retrieval from time-series data, analytics datasets, or large-scale data warehouses without leaving the conversation interface.",
+  "source_repo": "headcrab/clickhouse-mcp",
+  "source_url": "https://github.com/headcrab/clickhouse-mcp",
+  "install": "npx -y clickhouse-mcp"
+}

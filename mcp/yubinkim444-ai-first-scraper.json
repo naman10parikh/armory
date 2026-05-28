@@ -1,0 +1,7 @@
+{
+  "name": "yubinkim444-ai-first-scraper",
+  "description": "Web scraping MCP server with fetch, batch fetch, and web search tools that return clean ad-free Markdown for AI agents.",
+  "source_repo": "yubinkim444/ai-first-scraper-mcp",
+  "source_url": "https://github.com/yubinkim444/ai-first-scraper-mcp",
+  "install": "npx -y ai-first-scraper-mcp"
+}

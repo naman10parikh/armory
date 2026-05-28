@@ -1,0 +1,7 @@
+{
+  "name": "grok-build-mcp",
+  "description": "MCP server that wraps the Grok CLI to enable code review, adversarial testing, and chat with xAI's Grok model, integrating into any MCP host as a peer reviewer, adversary, and consultant.",
+  "source_repo": "howardpen9/grok-mcp",
+  "source_url": "https://github.com/howardpen9/grok-mcp",
+  "install": "npx -y grok-mcp"
+}

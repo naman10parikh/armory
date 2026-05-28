@@ -1,0 +1,7 @@
+{
+  "name": "phungxuananh-selenium-mcp-server",
+  "description": "A Model Context Protocol server providing web automation capabilities through Selenium WebDriver",
+  "source_repo": "PhungXuanAnh/selenium-mcp-server",
+  "source_url": "https://github.com/PhungXuanAnh/selenium-mcp-server",
+  "install": "npx -y selenium-mcp-server"
+}

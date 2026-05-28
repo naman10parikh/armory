@@ -1,0 +1,7 @@
+{
+  "name": "mkidawa-frisco",
+  "description": "MCP server for frisco.pl Polish online grocery store with product search, cart management, and nutritional information.",
+  "source_repo": "mkidawa/frisco-mcp",
+  "source_url": "https://github.com/mkidawa/frisco-mcp",
+  "install": "npx -y frisco-mcp"
+}

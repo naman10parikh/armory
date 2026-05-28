@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-yandex-speechkit",
+  "description": "Integrates with Yandex SpeechKit API for speech recognition and text-to-speech synthesis.",
+  "source_repo": "theyahia/yandex-speechkit-mcp",
+  "source_url": "https://github.com/theyahia/yandex-speechkit-mcp",
+  "install": "npx -y yandex-speechkit-mcp"
+}

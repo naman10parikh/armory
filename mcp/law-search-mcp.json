@@ -1,0 +1,7 @@
+{
+  "name": "law-search-mcp",
+  "description": "Enables searching and retrieving Korean Supreme Court precedents from the law.go.kr Open API, with support for keyword search and detailed judgment text.",
+  "source_repo": "memorise8/law-search-mcp",
+  "source_url": "https://github.com/memorise8/law-search-mcp",
+  "install": "npx -y law-search-mcp"
+}

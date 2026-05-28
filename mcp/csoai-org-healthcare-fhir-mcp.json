@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-healthcare-fhir-mcp",
+  "description": "FHIR-based healthcare data integration and interoperability tools.",
+  "source_repo": "csoai-org/healthcare-fhir-mcp",
+  "source_url": "https://github.com/csoai-org/healthcare-fhir-mcp",
+  "install": "npx -y healthcare-fhir-mcp"
+}

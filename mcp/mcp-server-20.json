@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-20",
+  "description": "MCP Server MCP server listed on mcp.so.",
+  "source_repo": "Pradeepp15012/MCP-server",
+  "source_url": "https://mcp.so/server/MCP-server/Pradeepp15012",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-server/Pradeepp15012\n# See source for mcpServers config block"
+}

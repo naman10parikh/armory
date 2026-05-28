@@ -1,0 +1,7 @@
+{
+  "name": "remote-command-mcp",
+  "description": "Remote Command MCP MCP server listed on mcp.so.",
+  "source_repo": "deepsuthar496/Remote-Command-MCP",
+  "source_url": "https://mcp.so/server/Remote-Command-MCP/deepsuthar496",
+  "install": "npx -y Remote-Command-MCP"
+}

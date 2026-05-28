@@ -1,0 +1,7 @@
+{
+  "name": "sayba-skill-market",
+  "description": "Discover, invoke, publish, and rate AI agent skills on the Sayba platform skill marketplace.",
+  "source_repo": "saybanet/sayba-skill-mcp-server",
+  "source_url": "https://github.com/saybanet/sayba-skill-mcp-server",
+  "install": "npx -y sayba-skill-mcp-server"
+}

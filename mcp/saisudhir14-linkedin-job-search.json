@@ -1,0 +1,7 @@
+{
+  "name": "saisudhir14-linkedin-job-search",
+  "description": "Scrapes LinkedIn job listings to provide job search, filtering by location and experience level, company research, and detailed job information retrieval without authentication requirements.",
+  "source_repo": "saisudhir14/linkedin-mcp-search",
+  "source_url": "https://github.com/saisudhir14/linkedin-mcp-search",
+  "install": "# git clone --depth 1 https://github.com/saisudhir14/linkedin-mcp-search\n# See source for mcpServers config block"
+}

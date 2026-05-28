@@ -1,0 +1,7 @@
+{
+  "name": "corvi-careers",
+  "description": "Searches remote and onsite jobs through the Corvi Careers public job board MCP endpoint.",
+  "source_repo": "jobswithgpt/mcp",
+  "source_url": "https://github.com/jobswithgpt/mcp/tree/HEAD/plugins/corvi-careers",
+  "install": "# git clone --depth 1 https://github.com/jobswithgpt/mcp/tree/HEAD/plugins/corvi-careers\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "userb1ank-interactive-process",
+  "description": "MCP server for managing long-running interactive processes like SSH sessions, REPLs, and installers with PTY support.",
+  "source_repo": "userb1ank/interactive-process-mcp",
+  "source_url": "https://github.com/userb1ank/interactive-process-mcp",
+  "install": "npx -y interactive-process-mcp"
+}

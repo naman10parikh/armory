@@ -1,0 +1,7 @@
+{
+  "name": "newbienl-enhanced-google-maps",
+  "description": "Integrates with Google Maps API to provide geocoding, place search, and routing capabilities for location-based applications and services.",
+  "source_repo": "newbienl/enhanced-google-maps-mcp",
+  "source_url": "https://github.com/newbienl/enhanced-google-maps-mcp",
+  "install": "npx -y enhanced-google-maps-mcp"
+}

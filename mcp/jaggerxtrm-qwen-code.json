@@ -1,0 +1,7 @@
+{
+  "name": "jaggerxtrm-qwen-code",
+  "description": "Bridges Qwen's code analysis capabilities through CLI integration, providing file-referenced queries with @filename syntax, automatic model fallback, and configurable execution modes for code review, codebase exploration, and automated refactoring workflows.",
+  "source_repo": "jaggerxtrm/qwen-mcp-tool",
+  "source_url": "https://github.com/jaggerxtrm/qwen-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/jaggerxtrm/qwen-mcp-tool\n# See source for mcpServers config block"
+}

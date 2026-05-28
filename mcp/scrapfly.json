@@ -1,0 +1,7 @@
+{
+  "name": "scrapfly",
+  "description": "Enterprise web scraping with built-in anti-bot handling and proxy rotation",
+  "source_repo": "scrapfly/scrapfly-mcp",
+  "source_url": "https://github.com/scrapfly/scrapfly-mcp",
+  "install": "npx -y scrapfly-mcp"
+}

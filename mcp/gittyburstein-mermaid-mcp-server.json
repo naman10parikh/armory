@@ -1,0 +1,7 @@
+{
+  "name": "gittyburstein-mermaid-mcp-server",
+  "description": "MCP server that turns local projects or GitHub repositories into Mermaid diagrams and renders them via Kroki.",
+  "source_repo": "GittyBurstein/mermaid-mcp-server",
+  "source_url": "https://github.com/GittyBurstein/mermaid-mcp-server",
+  "install": "npx -y mermaid-mcp-server"
+}

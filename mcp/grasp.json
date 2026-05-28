@@ -1,0 +1,7 @@
+{
+  "name": "grasp",
+  "description": "Self-hosted agentic browser with built-in MCP, A2A support",
+  "source_repo": "aircodelabs/grasp",
+  "source_url": "https://github.com/aircodelabs/grasp",
+  "install": "# git clone --depth 1 https://github.com/aircodelabs/grasp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mqan-routine",
+  "description": "Creates and manages reusable workflows by capturing sequences of tool calls and converting them into parameterized routines that can be invoked by name for automating repetitive multi-step tasks.",
+  "source_repo": "mquan/mcp-routine",
+  "source_url": "https://github.com/mquan/mcp-routine",
+  "install": "# git clone --depth 1 https://github.com/mquan/mcp-routine\n# See source for mcpServers config block"
+}

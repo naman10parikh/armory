@@ -1,0 +1,7 @@
+{
+  "name": "lexiconalex-better-auth",
+  "description": "Provides tools for setting up, migrating to, and maintaining Better-Auth authentication systems in web applications, with capabilities for project analysis, security testing, and real-time monitoring of authentication processes.",
+  "source_repo": "lexiconalex/better-auth-mcp-server",
+  "source_url": "https://github.com/lexiconalex/better-auth-mcp-server",
+  "install": "npx -y better-auth-mcp-server"
+}

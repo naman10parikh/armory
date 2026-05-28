@@ -1,0 +1,7 @@
+{
+  "name": "addness",
+  "description": "Official MCP server for managing goals, assignments, notifications, and activity tracking in the Addness platform.",
+  "source_repo": "addnesstech/addness-mcp",
+  "source_url": "https://github.com/addnesstech/addness-mcp",
+  "install": "npx -y addness-mcp"
+}

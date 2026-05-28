@@ -1,0 +1,7 @@
+{
+  "name": "drop-beacon-2",
+  "description": "MCP server for Drop Beacon (edc4me.com) — search and explore 80,000+ EDC products across 1,000+ brands. Track new drops, compare prices across retailers, check real-time stock availability, and analyze market trends for knives, flashlights, fidget toys, wallets, pens, and more.",
+  "source_repo": "",
+  "source_url": "https://edc4me.com",
+  "install": "# git clone --depth 1 https://edc4me.com\n# See source for mcpServers config block"
+}

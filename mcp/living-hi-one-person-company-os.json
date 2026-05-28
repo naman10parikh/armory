@@ -1,0 +1,7 @@
+{
+  "name": "living-hi-one-person-company-os",
+  "description": "Visual operating cockpit for AI-native solo founders to build and update their company operating system.",
+  "source_repo": "living-hi/one-person-company-os",
+  "source_url": "https://github.com/living-hi/one-person-company-os",
+  "install": "# git clone --depth 1 https://github.com/living-hi/one-person-company-os\n# See source for mcpServers config block"
+}

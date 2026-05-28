@@ -1,0 +1,7 @@
+{
+  "name": "mprokopov-ledger",
+  "description": "Access and managing ledger files.",
+  "source_repo": "mprokopov/ledger-mcp-server",
+  "source_url": "https://github.com/mprokopov/ledger-mcp-server",
+  "install": "npx -y ledger-mcp-server"
+}

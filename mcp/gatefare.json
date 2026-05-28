@@ -1,0 +1,7 @@
+{
+  "name": "gatefare",
+  "description": "Integrates AI agents with the Gatefare API marketplace for discovering, purchasing, and calling paid APIs using USDC stablecoin payments.",
+  "source_repo": "gatefareio/mcp-server",
+  "source_url": "https://github.com/gatefareio/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/gatefareio/mcp-server\n# See source for mcpServers config block"
+}

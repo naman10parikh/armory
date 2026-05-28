@@ -1,0 +1,7 @@
+{
+  "name": "quickvm-defined-networking",
+  "description": "Manage Defined Networking hosts, roles, firewall rules, tags, networks, and routes via the defined.net API.",
+  "source_repo": "quickvm/defined-mcp",
+  "source_url": "https://github.com/quickvm/defined-mcp",
+  "install": "npx -y defined-mcp"
+}

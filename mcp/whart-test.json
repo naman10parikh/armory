@@ -1,0 +1,7 @@
+{
+  "name": "whart-test",
+  "description": "Provides automated testing tools and Microsoft API integration capabilities for test automation workflows, QA engineers automating test suites, and teams building testing pipelines that require both API connectivity and test execution.",
+  "source_repo": "mgdaaslab/wharttest",
+  "source_url": "https://github.com/mgdaaslab/wharttest/tree/HEAD/WHartTest_MCP",
+  "install": "# git clone --depth 1 https://github.com/mgdaaslab/wharttest/tree/HEAD/WHartTest_MCP\n# See source for mcpServers config block"
+}

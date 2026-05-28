@@ -1,0 +1,7 @@
+{
+  "name": "madebygps-obsidian-diary",
+  "description": "Provides intelligent diary management for Obsidian vaults with template generation, reflection prompts based on recent entries, and automatic backlink creation between related entries using theme extraction to connect similar topics and encourage deeper self-awareness through personalized questions.",
+  "source_repo": "madebygps/obsidian-diary-mcp",
+  "source_url": "https://github.com/madebygps/obsidian-diary-mcp",
+  "install": "npx -y obsidian-diary-mcp"
+}

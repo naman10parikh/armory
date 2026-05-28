@@ -1,0 +1,7 @@
+{
+  "name": "haroldfinchift-vuln-nist-mcp-server",
+  "description": "️ 🍎 🪟 🐧 - A Model Context Protocol (MCP) server for querying NIST National Vulnerability Database (NVD) API endpoints.",
+  "source_repo": "HaroldFinchIFT/vuln-nist-mcp-server",
+  "source_url": "https://github.com/HaroldFinchIFT/vuln-nist-mcp-server",
+  "install": "npx -y vuln-nist-mcp-server"
+}

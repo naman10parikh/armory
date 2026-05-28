@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-fred",
+  "description": "Queries Federal Reserve Bank of St. Louis economic time series, releases, and category data via the FRED API.",
+  "source_repo": "cyanheads/federal-reserve-mcp-server",
+  "source_url": "https://github.com/cyanheads/federal-reserve-mcp-server",
+  "install": "npx -y federal-reserve-mcp-server"
+}

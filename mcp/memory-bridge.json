@@ -1,0 +1,7 @@
+{
+  "name": "memory-bridge",
+  "description": "Cross-project memory sharing for Claude Code and Cowork. Stop teaching Claude the same thing twice.",
+  "source_repo": "LewenW/claude-memory-bridge",
+  "source_url": "https://github.com/LewenW/claude-memory-bridge",
+  "install": "# git clone --depth 1 https://github.com/LewenW/claude-memory-bridge\n# See source for mcpServers config block"
+}

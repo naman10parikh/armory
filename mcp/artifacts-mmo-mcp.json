@@ -1,0 +1,7 @@
+{
+  "name": "artifacts-mmo-mcp",
+  "description": "Artifacts Mmo Mcp MCP server listed on mcp.so.",
+  "source_repo": "djcopley/artifacts-mmo-mcp",
+  "source_url": "https://mcp.so/server/artifacts-mmo-mcp/djcopley",
+  "install": "npx -y artifacts-mmo-mcp"
+}

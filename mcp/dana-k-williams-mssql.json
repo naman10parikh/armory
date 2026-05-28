@@ -1,0 +1,7 @@
+{
+  "name": "dana-k-williams-mssql",
+  "description": "Securely integrates with Microsoft SQL Server databases for data analysis, reporting, and management.",
+  "source_repo": "richardhan/mssql_mcp_server",
+  "source_url": "https://github.com/richardhan/mssql_mcp_server",
+  "install": "npx -y mssql_mcp_server"
+}

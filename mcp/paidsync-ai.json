@@ -1,0 +1,7 @@
+{
+  "name": "paidsync-ai",
+  "description": "AI-powered advertising management platform with 370+ tools for managing Google Ads, Meta, TikTok, and LinkedIn campaigns through conversational AI.",
+  "source_repo": "",
+  "source_url": "https://paidsync.ai",
+  "install": "# git clone --depth 1 https://paidsync.ai\n# See source for mcpServers config block"
+}

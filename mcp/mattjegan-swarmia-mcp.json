@@ -1,0 +1,7 @@
+{
+  "name": "mattjegan-swarmia-mcp",
+  "description": "Read-only MCP server to help gather metrics from [Swarmia](swarmia.com) for quick reporting.",
+  "source_repo": "mattjegan/swarmia-mcp",
+  "source_url": "https://github.com/mattjegan/swarmia-mcp",
+  "install": "npx -y swarmia-mcp"
+}

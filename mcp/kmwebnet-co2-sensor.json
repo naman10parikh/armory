@@ -1,0 +1,7 @@
+{
+  "name": "kmwebnet-co2-sensor",
+  "description": "Simulates or interfaces with a CO2 sensor device, providing JSON-RPC endpoints for device information, sensor data, and network management with MQTT publishing capabilities for IoT applications.",
+  "source_repo": "kmwebnet/mcp-server-for-sensor-device",
+  "source_url": "https://github.com/kmwebnet/mcp-server-for-sensor-device",
+  "install": "# git clone --depth 1 https://github.com/kmwebnet/mcp-server-for-sensor-device\n# See source for mcpServers config block"
+}

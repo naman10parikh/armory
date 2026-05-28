@@ -1,0 +1,7 @@
+{
+  "name": "prosperkartik-hostaway-mcp",
+  "description": "MCP server for the Hostaway property management system (vacation rentals & short-term rentals). 10 read-only tools across listings, reservations, calendar availability, guest conversations, and owner financials.",
+  "source_repo": "prosperkartik/hostaway-mcp",
+  "source_url": "https://github.com/prosperkartik/hostaway-mcp",
+  "install": "npx -y hostaway-mcp"
+}

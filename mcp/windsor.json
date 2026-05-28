@@ -1,0 +1,7 @@
+{
+  "name": "windsor",
+  "description": "Interpret, explore, and extract insights from the data you’ve already integrated with Windsor.ai.",
+  "source_repo": "windsor-ai/windsor_mcp",
+  "source_url": "https://github.com/windsor-ai/windsor_mcp",
+  "install": "npx -y windsor_mcp"
+}

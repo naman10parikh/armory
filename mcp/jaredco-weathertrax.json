@@ -1,0 +1,7 @@
+{
+  "name": "jaredco-weathertrax",
+  "description": "Current weather conditions and multi-day forecasts for any location worldwide via World Weather Online.",
+  "source_repo": "jaredco/weather-mcp-server",
+  "source_url": "https://github.com/jaredco/weather-mcp-server",
+  "install": "npx -y weather-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oxygenbubbles-freeagent",
+  "description": "FreeAgent accounting integration for bank reconciliation, expense tracking, mileage claims, and receipts.",
+  "source_repo": "oxygenbubbles/freeagent-mcp-server",
+  "source_url": "https://github.com/oxygenbubbles/freeagent-mcp-server",
+  "install": "npx -y freeagent-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spccn-arxiv",
+  "description": "Provides 3 tools for searching and downloading arXiv papers in PDF or LaTeX formats.",
+  "source_repo": "spccn/arxiv_mcp",
+  "source_url": "https://github.com/spccn/arxiv_mcp",
+  "install": "npx -y arxiv_mcp"
+}

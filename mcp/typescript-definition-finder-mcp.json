@@ -1,0 +1,7 @@
+{
+  "name": "typescript-definition-finder-mcp",
+  "description": "Typescript Definition Finder Mcp MCP server listed on mcp.so.",
+  "source_repo": "runninghare/typescript-definition-finder-mcp",
+  "source_url": "https://mcp.so/server/typescript-definition-finder-mcp/runninghare",
+  "install": "npx -y typescript-definition-finder-mcp"
+}

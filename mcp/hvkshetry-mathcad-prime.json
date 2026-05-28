@@ -1,0 +1,7 @@
+{
+  "name": "hvkshetry-mathcad-prime",
+  "description": "Integrates with PTC MathCAD Prime through the MathcadPy library, enabling worksheet management, input/output manipulation, and calculation control for engineering and scientific workflows.",
+  "source_repo": "puran-water/mathcad-mcp",
+  "source_url": "https://github.com/puran-water/mathcad-mcp",
+  "install": "npx -y mathcad-mcp"
+}

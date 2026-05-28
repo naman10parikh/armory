@@ -1,0 +1,7 @@
+{
+  "name": "flowlink-ai-governance",
+  "description": "AI Governance and SecOps platform for remote servers",
+  "source_repo": "braincreator/flowlink",
+  "source_url": "https://github.com/braincreator/flowlink",
+  "install": "# git clone --depth 1 https://github.com/braincreator/flowlink\n# See source for mcpServers config block"
+}

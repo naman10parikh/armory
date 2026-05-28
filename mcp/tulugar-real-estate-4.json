@@ -1,0 +1,7 @@
+{
+  "name": "tulugar-real-estate-4",
+  "description": "Search real estate listings, development projects, agents, and market data in Paraguay. Get pricing, Airbnb/STR stats, and neighborhood-level insights across South America.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/jan-krat-kj4q/tulugar-real-estate",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/jan-krat-kj4q/tulugar-real-estate\n# See source for mcpServers config block"
+}

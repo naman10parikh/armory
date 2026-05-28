@@ -1,0 +1,7 @@
+{
+  "name": "automation-mcp",
+  "description": "Enables AI assistants to automate macOS desktop tasks including mouse control, keyboard input, screenshots, window management, and UI interaction.",
+  "source_repo": "ashwwwin/automation-mcp",
+  "source_url": "https://github.com/ashwwwin/automation-mcp",
+  "install": "npx -y automation-mcp"
+}

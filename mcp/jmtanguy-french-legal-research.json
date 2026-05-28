@@ -1,0 +1,7 @@
+{
+  "name": "jmtanguy-french-legal-research",
+  "description": "Integrates with Légifrance and Judilibre APIs to provide unified access to French legal documents, case law, and jurisprudence for legal research and compliance analysis.",
+  "source_repo": "jmtanguy/droit-francais-mcp",
+  "source_url": "https://github.com/jmtanguy/droit-francais-mcp",
+  "install": "npx -y droit-francais-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cosmosdb-mcp",
+  "description": "MCP server for Azure Cosmos DB enabling listing accounts, databases, containers, running SQL queries, and reading/writing/deleting documents.",
+  "source_repo": "BrianDeacon/cosmosdb-mcp",
+  "source_url": "https://github.com/BrianDeacon/cosmosdb-mcp",
+  "install": "npx -y cosmosdb-mcp"
+}

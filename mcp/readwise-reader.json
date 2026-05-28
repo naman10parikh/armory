@@ -1,0 +1,7 @@
+{
+  "name": "readwise-reader",
+  "description": "Integrates with Readwise Reader API for saving URLs and HTML content, organizing documents across locations, performing topic-based searches, and managing tags with automatic content conversion to LLM-friendly text.",
+  "source_repo": "edricgsh/readwise-reader-mcp",
+  "source_url": "https://github.com/edricgsh/readwise-reader-mcp",
+  "install": "npx -y readwise-reader-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "transcriptmax",
+  "description": "YouTube transcription with summaries, chapters, and semantic search across your transcript corpus.",
+  "source_repo": "",
+  "source_url": "https://api.transcriptmax.com/mcp",
+  "install": "# git clone --depth 1 https://api.transcriptmax.com/mcp\n# See source for mcpServers config block"
+}

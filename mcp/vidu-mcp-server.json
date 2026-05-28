@@ -1,0 +1,7 @@
+{
+  "name": "vidu-mcp-server",
+  "description": "Vidu Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "el-el-san/vidu-mcp-server",
+  "source_url": "https://mcp.so/server/vidu-mcp-server/el-el-san",
+  "install": "npx -y vidu-mcp-server"
+}

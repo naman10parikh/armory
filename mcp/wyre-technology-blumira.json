@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-blumira",
+  "description": "Blumira SIEM integration for querying findings, evidence, and detection data.",
+  "source_repo": "wyre-technology/blumira-mcp",
+  "source_url": "https://github.com/wyre-technology/blumira-mcp",
+  "install": "npx -y blumira-mcp"
+}

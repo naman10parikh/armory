@@ -1,0 +1,7 @@
+{
+  "name": "ricocf-wolframalpha",
+  "description": "Connects language models to Wolfram Alpha for performing mathematical calculations, scientific queries, and data analysis with structured results in text or image formats",
+  "source_repo": "akalaric/mcp-wolframalpha",
+  "source_url": "https://github.com/akalaric/mcp-wolframalpha",
+  "install": "# git clone --depth 1 https://github.com/akalaric/mcp-wolframalpha\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cc-meta-prompt-evaluator",
+  "description": "Evaluates prompt quality and effectiveness using OpenAI or Anthropic models, providing numerical scores, strengths analysis, improvement suggestions, and rewrite recommendations with customizable evaluation criteria.",
+  "source_repo": "areznik23/cc-meta",
+  "source_url": "https://github.com/areznik23/cc-meta",
+  "install": "# git clone --depth 1 https://github.com/areznik23/cc-meta\n# See source for mcpServers config block"
+}

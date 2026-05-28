@@ -1,0 +1,7 @@
+{
+  "name": "xmpuspus-ph-civic-data",
+  "description": "Real-time Philippine government data from PHIVOLCS, PAGASA, PhilGEPS, PSA, and AQICN as 12 MCP tools.",
+  "source_repo": "xmpuspus/ph-civic-data-mcp",
+  "source_url": "https://github.com/xmpuspus/ph-civic-data-mcp",
+  "install": "npx -y ph-civic-data-mcp"
+}

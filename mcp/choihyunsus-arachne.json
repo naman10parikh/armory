@@ -1,0 +1,7 @@
+{
+  "name": "choihyunsus-arachne",
+  "description": "Assembles optimized codebase context for AI coding by selecting only relevant files through hybrid search and dependency graph analysis.",
+  "source_repo": "choihyunsus/n2-arachne",
+  "source_url": "https://github.com/choihyunsus/n2-arachne",
+  "install": "# git clone --depth 1 https://github.com/choihyunsus/n2-arachne\n# See source for mcpServers config block"
+}

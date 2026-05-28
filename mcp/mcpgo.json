@@ -1,0 +1,7 @@
+{
+  "name": "mcpgo",
+  "description": "Mcpgo MCP server listed on mcp.so.",
+  "source_repo": "Southclaws/mcpgo",
+  "source_url": "https://mcp.so/server/mcpgo/Southclaws",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcpgo/Southclaws\n# See source for mcpServers config block"
+}

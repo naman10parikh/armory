@@ -1,0 +1,7 @@
+{
+  "name": "twitter-read",
+  "description": "An MCP server for reading Twitter/X engagement data and metrics, enabling AI agents to measure tweet performance, track mentions, analyze replies, and search tweets with engagement metrics.",
+  "source_repo": "Polsia-Inc/twitter-read-mcp",
+  "source_url": "https://github.com/Polsia-Inc/twitter-read-mcp",
+  "install": "npx -y twitter-read-mcp"
+}

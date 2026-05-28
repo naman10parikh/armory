@@ -1,0 +1,7 @@
+{
+  "name": "flyanima-open-search",
+  "description": "Aggregates multiple search engines, academic databases, and content sources with intelligent load balancing and failover mechanisms to provide web search, research capabilities, and PDF processing with OCR support as a free alternative to paid search APIs.",
+  "source_repo": "flyanima/open-search-mcp",
+  "source_url": "https://github.com/flyanima/open-search-mcp",
+  "install": "npx -y open-search-mcp"
+}

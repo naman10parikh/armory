@@ -1,0 +1,7 @@
+{
+  "name": "agentsbase",
+  "description": "Email infrastructure for AI agents — create mailboxes, send and receive email, and extract verification codes.",
+  "source_repo": "",
+  "source_url": "https://agentsbase.net",
+  "install": "# git clone --depth 1 https://agentsbase.net\n# See source for mcpServers config block"
+}

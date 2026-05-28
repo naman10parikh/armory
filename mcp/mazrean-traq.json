@@ -1,0 +1,7 @@
+{
+  "name": "mazrean-traq",
+  "description": "Provides a bridge to the traQ chat platform, enabling flexible querying and interaction with channels, messages, users, stamps, and pins using Deno and a type-safe API implementation.",
+  "source_repo": "trap-jp/mcp-traq",
+  "source_url": "https://github.com/trap-jp/mcp-traq",
+  "install": "# git clone --depth 1 https://github.com/trap-jp/mcp-traq\n# See source for mcpServers config block"
+}

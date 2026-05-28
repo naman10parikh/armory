@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-portfolio-mcp",
+  "description": "An MCP server for tracking and managing cryptocurrency portfolio allocations.",
+  "source_repo": "kukapay/crypto-portfolio-mcp",
+  "source_url": "https://github.com/kukapay/crypto-portfolio-mcp",
+  "install": "npx -y crypto-portfolio-mcp"
+}

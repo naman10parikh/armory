@@ -1,0 +1,7 @@
+{
+  "name": "privy-mcp-server",
+  "description": "Enables AI agents to create wallets, sign transactions, and manage blockchain operations across multiple chains like Ethereum, Solana, and more via Privy.",
+  "source_repo": "privy-io/privy-mcp-server",
+  "source_url": "https://github.com/privy-io/privy-mcp-server",
+  "install": "npx -y privy-mcp-server"
+}
