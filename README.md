@@ -16,6 +16,29 @@
 
 ---
 
+## Repo map — four zones
+
+```
+brain/              📚 The catalog  — metadata + detail pages for all 24,658 components
+  components/mcps/  └─ MCP details → brain/components/mcps/<slug>.md  (~21,253 files)
+catalog.json        └─ generated index (never hand-edited)
+
+gear/               🧰 The gear     — actual installable files (~2,546)
+  skills/ agents/ commands/ hooks/ rules/
+
+armory-mcp/         🔧 Armory's own harness — install Armory itself
+armory-skill/ cli/
+.claude-plugin/ .codex-plugin/ .hermes-plugin/
+opencode.json .gemini/ install.sh
+
+ingest/ incoming/   ⚙️ The machinery — crawlers, promote, validate, AutoLab
+```
+
+> **Where are the MCP details?** → `brain/components/mcps/<slug>.md`
+> Full map: [STRUCTURE.md](./STRUCTURE.md)
+
+---
+
 ## The most of everything, in one place
 
 Armory mirrors and de-duplicates the biggest open-source catalogs into a single connected brain — so it holds **more harness components than any individual registry**:
@@ -72,9 +95,9 @@ The plugin wires in the **Armory MCP server** (`armory-mcp` — live search/inst
 
 The catalog isn't only metadata. The **real component files** are vendored in:
 
-- `components/{skills,agents,commands,hooks,rules}/` — 2,546 actual files (content verbatim + provenance header).
+- `gear/{skills,agents,commands,hooks,rules}/` — 2,546 actual files (content verbatim + provenance header).
 - Harness-native drops: `.claude/{skills,agents,commands,hooks}`, `.cursor/rules/` — ready to use as-is.
-- `brain/` stays the metadata knowledge-graph (source of truth). MCP servers are cataloged as install-specs in `catalog.json` (the servers themselves run externally).
+- `brain/` stays the metadata knowledge-graph (source of truth). MCP details live in `brain/components/mcps/<slug>.md`. MCP servers are cataloged as install-specs in `catalog.json` (the servers themselves run externally).
 
 ## Open it as a brain
 

@@ -7,7 +7,7 @@
   },
   "context": {
     "paths": [
-      "./components/skills/",
+      "./gear/skills/",
       "./armory-skill/"
     ]
   }

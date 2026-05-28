@@ -5,13 +5,13 @@
       "args": ["-y", "armory-mcp"]
     }
   },
-  "components": "./components/",
+  "components": "./gear/",
   "skills": [
-    "./components/skills/",
+    "./gear/skills/",
     "./armory-skill/"
   ],
   "commands": [
-    "./components/commands/"
+    "./gear/commands/"
   ],
-  "notes": "Armory v0.2.0 — aggregator-of-aggregators. 24,000+ cataloged components via armory-mcp + 2,546 vendored in components/. See PLUGIN.md for install instructions."
+  "notes": "Armory v0.2.0 — aggregator-of-aggregators. 24,000+ cataloged components via armory-mcp + 2,546 vendored in gear/. See PLUGIN.md for install instructions."
 }

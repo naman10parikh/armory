@@ -15,9 +15,9 @@ hermes plugin install /path/to/armory
 ## What you get
 
 - **Armory MCP** (`armory-mcp` via npx) — `search_components`, `get_component`, `submit_component`
-- **900 skills** from `components/skills/`
-- **804 agents** from `components/agents/`
-- **500 commands** from `components/commands/`
+- **900 skills** from `gear/skills/`
+- **804 agents** from `gear/agents/`
+- **500 commands** from `gear/commands/`
 
 ## MCP Server
 

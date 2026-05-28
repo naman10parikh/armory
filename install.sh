@@ -11,7 +11,7 @@
 # What this script does:
 #   1. Detects which harness is present (or uses --cli flag)
 #   2. Wires armory-mcp into that harness's MCP config
-#   3. Copies/links components/ gear into that harness's native slot
+#   3. Copies/links gear/ files into that harness's native slot
 #   4. Prints exact next-steps
 
 set -euo pipefail
@@ -248,9 +248,9 @@ main() {
 
   header "Armory install complete"
   printf "  • MCP server : npx -y armory-mcp (starts on-demand)\n"
-  printf "  • Skills     : %s/components/skills/\n" "$SCRIPT_DIR"
-  printf "  • Agents     : %s/components/agents/\n" "$SCRIPT_DIR"
-  printf "  • Commands   : %s/components/commands/\n" "$SCRIPT_DIR"
+  printf "  • Skills     : %s/gear/skills/\n" "$SCRIPT_DIR"
+  printf "  • Agents     : %s/gear/agents/\n" "$SCRIPT_DIR"
+  printf "  • Commands   : %s/gear/commands/\n" "$SCRIPT_DIR"
   printf "  • Docs       : https://armory-murex.vercel.app\n\n"
 }
 

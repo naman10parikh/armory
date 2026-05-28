@@ -1,14 +1,14 @@
 #!/usr/bin/env node
 // Armory vendor.mjs — copies ACTUAL component files from upstream repos into
-// components/<type>/ and harness-native dot-folders.
+// gear/<type>/ and harness-native dot-folders.
 //
 // Owned surfaces (touched, reset on --apply):
-//   components/{skills,agents,commands,hooks,rules}/
+//   gear/{skills,agents,commands,hooks,rules}/
 //   .claude/{skills,agents,commands,hooks}/
 //   .cursor/rules/
 //   .claude/rules/           (mirror of cursor rules)
 //   .codex/README.md  .opencode/README.md  .gemini/README.md
-//   components/README.md
+//   gear/README.md
 //
 // NEVER touched: brain/, catalog.json, armory-mcp/, cli/, armory-skill/,
 //                armory-plugin/, README.md, package.json, ingest/* (other files)
@@ -27,7 +27,7 @@ import { execSync } from "node:child_process";
 
 const DRY_RUN = !process.argv.includes("--apply");
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const COMP = join(ROOT, "components");
+const COMP = join(ROOT, "gear");
 const TMP = "/tmp/armory-vendor";
 
 // ─── helpers ────────────────────────────────────────────────────────────────
@@ -318,7 +318,7 @@ function processDisler(cloneDir, destHooks, seenH) {
 // ─── HARNESS FOLDER WRITER ───────────────────────────────────────────────────
 
 const HARNESS_POINTER_MSG = (harness) =>
-  `# Armory components for ${harness}\n\nSee \`../components/\` for actual vendored files.\nInstall a component: \`armory install <name> --cli ${harness}\`\n`;
+  `# Armory components for ${harness}\n\nSee \`../gear/\` for actual vendored files.\nInstall a component: \`armory install <name> --cli ${harness}\`\n`;
 
 function buildHarnessFolders(destSkills, destAgents, destCommands, destHooks, destRules) {
   // .claude/ harness
@@ -395,18 +395,18 @@ function buildHarnessFolders(destSkills, destAgents, destCommands, destHooks, de
 
 // ─── COMPONENTS README ───────────────────────────────────────────────────────
 
-const COMP_README = `# Armory — Vendored Components
+const COMP_README = `# Armory — Vendored Gear
 
 This directory contains the **actual component files** vendored from upstream repos.
 
 \`brain/\` holds metadata graph stubs (one per component, YAML frontmatter + description).
-\`components/\` holds the **real pieces** — copy them straight into your project or run
+\`gear/\` holds the **real pieces** — copy them straight into your project or run
 \`armory install <slug>\` to let the CLI wire them for you.
 
 ## Layout
 
 \`\`\`
-components/
+gear/
   skills/      <slug>/SKILL.md (+ optional supporting files)
   agents/      <slug>.md       (Claude sub-agent definitions)
   commands/    <slug>.md       (slash-command definitions)
@@ -420,9 +420,9 @@ components/
 |----------------|------------------|------------------------------------|
 | Claude Code    | \`.claude/\`      | skills/ agents/ commands/ hooks/ rules/ |
 | Cursor         | \`.cursor/rules/\`| rules only                         |
-| Codex          | \`.codex/\`       | pointer README → ../components/    |
-| OpenCode       | \`.opencode/\`    | pointer README → ../components/    |
-| Gemini         | \`.gemini/\`      | pointer README → ../components/    |
+| Codex          | \`.codex/\`       | pointer README → ../gear/          |
+| OpenCode       | \`.opencode/\`    | pointer README → ../gear/          |
+| Gemini         | \`.gemini/\`      | pointer README → ../gear/          |
 
 Sources are vendored verbatim (license-compliant). Each file has a 1-line provenance header.
 `;
@@ -437,7 +437,7 @@ async function main() {
     ensureDir(TMP);
   }
 
-  // Destination dirs inside components/
+  // Destination dirs inside gear/
   const destSkills   = join(COMP, "skills");
   const destAgents   = join(COMP, "agents");
   const destCommands = join(COMP, "commands");

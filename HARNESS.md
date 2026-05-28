@@ -21,12 +21,12 @@ There is exactly **one** Armory MCP server (`armory-mcp/`). It is **not** one of
 |---|---|---|
 | **The brain** | `brain/` | Obsidian metadata graph (frontmatter + `[[wikilinks]]`) — source of truth |
 | **The index** | `catalog.json` | generated, never hand-typed |
-| **The actual gear** | `components/<type>/` | the **real files**: skills, agents, commands, hooks, rules, mcp-servers |
+| **The actual gear** | `gear/<type>/` | the **real files**: skills, agents, commands, hooks, rules |
 | **Harness drops** | `.claude/ .cursor/ .codex/ .opencode/ .gemini/` | the catalog laid out in each harness's native format |
 
 ## The one rule that prevents confusion
 
-- `armory-mcp/` (our **one** server) ≠ `components/mcp-servers/` (the **thousands** we catalog).
-- `armory-skill/` (our **one** skill) ≠ `components/skills/` (the **~1,100** we catalog).
+- `armory-mcp/` (our **one** server) ≠ `brain/components/mcps/` (the **~21,000** we catalog).
+- `armory-skill/` (our **one** skill) ≠ `gear/skills/` (the **~1,100** we catalog).
 
-Our gear is prefixed `armory-*`. Everything under `components/`, `brain/`, and the harness-native dot-folders is *catalog data Armory aggregates from many sources* — no single source is special.
+Our gear is prefixed `armory-*`. Everything under `gear/`, `brain/`, and the harness-native dot-folders is *catalog data Armory aggregates from many sources* — no single source is special.
