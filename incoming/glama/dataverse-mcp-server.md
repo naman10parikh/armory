@@ -2,9 +2,9 @@
 name: dataverse-mcp-server
 type: mcps
 description: >
-  A Model Context Protocol server that enables CRUD operations and querying on Microsoft Dataverse through natural language.
-source_repo: Ajscheuer/dataverse-mcp
-source_url: https://github.com/Ajscheuer/dataverse-mcp
+  MCP server for Microsoft Dataverse API with safe-by-default configuration. Works with any Dataverse / Dynamics 365 environment.
+source_repo: rededis/dataverse-mcp-server
+source_url: https://github.com/rededis/dataverse-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-A Model Context Protocol server that enables CRUD operations and querying on Microsoft Dataverse through natural language.
+MCP server for Microsoft Dataverse API with safe-by-default configuration. Works with any Dataverse / Dynamics 365 environment.
 
 ## When to use it
-A Model Context Protocol server that enables CRUD operations and querying on Microsoft Dataverse through natural language.
+MCP server for Microsoft Dataverse API with safe-by-default configuration. Works with any Dataverse / Dynamics 365 environment.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/az9tka12uq) for the install config.
+See [Glama](https://glama.ai/mcp/servers/g6ygv8qxx3) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

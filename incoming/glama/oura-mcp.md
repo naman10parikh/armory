@@ -2,9 +2,9 @@
 name: oura-mcp
 type: mcps
 description: >
-  MCP server for the Oura Ring API v2, providing access to sleep, activity, readiness, heart rate, and workout data via OAuth.
-source_repo: YasuakiOmokawa/oura-mcp
-source_url: https://github.com/YasuakiOmokawa/oura-mcp
+  Exposes the complete Oura Ring v2 API to LLM agents, including detailed sleep data, time-series biometrics, hypnogram rendering, and analytical tools, unlike other MCPs that only provide daily scores.
+source_repo: jhamblin/oura-ring-mcp
+source_url: https://github.com/jhamblin/oura-ring-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-MCP server for the Oura Ring API v2, providing access to sleep, activity, readiness, heart rate, and workout data via OAuth.
+Exposes the complete Oura Ring v2 API to LLM agents, including detailed sleep data, time-series biometrics, hypnogram rendering, and analytical tools, unlike other MCPs that only provide daily scores.
 
 ## When to use it
-MCP server for the Oura Ring API v2, providing access to sleep, activity, readiness, heart rate, and workout data via OAuth.
+Exposes the complete Oura Ring v2 API to LLM agents, including detailed sleep data, time-series biometrics, hypnogram rendering, and analytical tools, unlike other MCPs that only provide daily scores.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/ogy67k1m29) for the install config.
+See [Glama](https://glama.ai/mcp/servers/l9cbm1hc9g) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

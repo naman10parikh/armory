@@ -5,7 +5,7 @@ description: >
   mcp-broker is a local Model Context Protocol process broker for MCP clients. Think PgBouncer for MCP: one stable local endpoint in front of many upstream MCP servers. The broker owns upstream startup, reuse, cleanup, profile exposure, status, and safe tool routing. The core idea is simple: do not ma
 source_repo: NavinAgrawal/mcp-broker
 source_url: https://github.com/NavinAgrawal/mcp-broker
-license: MIT License
+license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null

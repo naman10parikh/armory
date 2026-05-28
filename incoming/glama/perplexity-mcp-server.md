@@ -2,10 +2,10 @@
 name: perplexity-mcp-server
 type: mcps
 description: >
-  An MCP server that enables AI agents to perform search-augmented queries and deep multi-source research using the Perplexity API.
-source_repo: cyanheads/perplexity-mcp-server
-source_url: https://github.com/cyanheads/perplexity-mcp-server
-license: Apache 2.0
+  Enables interaction with Perplexity AI through MCP tools for chatting, searching, and retrieving documentation.
+source_repo: bizopsyello/perplexity-mcp-server
+source_url: https://github.com/bizopsyello/perplexity-mcp-server
+license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-An MCP server that enables AI agents to perform search-augmented queries and deep multi-source research using the Perplexity API.
+Enables interaction with Perplexity AI through MCP tools for chatting, searching, and retrieving documentation.
 
 ## When to use it
-An MCP server that enables AI agents to perform search-augmented queries and deep multi-source research using the Perplexity API.
+Enables interaction with Perplexity AI through MCP tools for chatting, searching, and retrieving documentation.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/i6al5ph2ra) for the install config.
+See [Glama](https://glama.ai/mcp/servers/hns6blbhu0) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.
