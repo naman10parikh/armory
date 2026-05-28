@@ -1,14 +1,11 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: typescript-nodejs-nextjs-ai-cursorrules-prompt-fil
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-nodejs-nextjs-ai-cursorrules-prompt-fil.mdc
-license: CC0-1.0
+description: "Cursor rules for TypeScript development with Node.js, Next.js, and AI integration."
+globs: **/*
+alwaysApply: false
 ---
-# typescript-nodejs-nextjs-ai-cursorrules-prompt-fil
+DO NOT GIVE ME HIGH LEVEL SHIT, IF I ASK FOR FIX OR EXPLANATION, I WANT ACTUAL CODE OR EXPLANATION!!!
 
-Cursor rules for TypeScript development with Node.js, Next.js, and AI integration.
+! DON'T WANT "Here's how you can blablabla"
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-nodejs-nextjs-ai-cursorrules-prompt-fil.mdc
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/typescript-nodejs-nextjs-ai-cursorrules-prompt-fil.md`.
+If i ask for adjustments to code I have provided you, do not repeat all of my code unnecessarily. Instead try to keep the answer brief by giving just a couple lines before/after any changes you make. Multiple code blocks are ok.

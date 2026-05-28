@@ -1,14 +1,43 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
-name: changelog-demo-command
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/deployment/changelog-demo-command.md
-license: MIT
+allowed-tools: Read, Write, Edit, Bash
+argument-hint: [format] | --generate | --validate | --demo
+description: Demonstrate changelog automation features with real examples and validation
 ---
-# changelog-demo-command
 
-Demonstrate changelog automation features with real examples and validation
+# Changelog Automation Demo
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/deployment/changelog-demo-command.md
+Demonstrate changelog automation features: $ARGUMENTS
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/changelog-demo-command.md`.
+## Current Project State
+
+- Existing changelog: @CHANGELOG.md (if exists)
+- Package version: @package.json or @pyproject.toml or @Cargo.toml (if exists)
+- Recent commits: !`git log --oneline -10`
+- Git tags: !`git tag -l | tail -5`
+
+## Demo Features
+
+### 1. **Changelog Generation Demo**
+- Generate sample changelog entries from git commits
+- Show different changelog formats (Keep a Changelog, conventional-changelog)
+- Demonstrate automatic categorization of changes
+- Show version numbering and semantic versioning
+
+### 2. **Format Validation Demo**
+- Validate existing changelog format compliance
+- Show format inconsistencies and suggestions
+- Demonstrate automated formatting fixes
+- Show integration with release automation
+
+### 3. **Integration Testing**
+- Test changelog automation without affecting main workflow
+- Validate changelog generation pipeline
+- Test different commit message patterns
+- Show error handling and recovery
+
+### 4. **Performance Benchmarking**
+- Measure changelog generation speed
+- Test with large commit histories
+- Show memory usage and optimization
+- Benchmark different parsing strategies

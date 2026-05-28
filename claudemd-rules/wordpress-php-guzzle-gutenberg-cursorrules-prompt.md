@@ -1,14 +1,17 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: wordpress-php-guzzle-gutenberg-cursorrules-prompt
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt-.mdc
-license: CC0-1.0
+description: "Cursor rules for WordPress development with PHP, Guzzle, and Gutenberg integration."
+globs: **/*
+alwaysApply: false
 ---
-# wordpress-php-guzzle-gutenberg-cursorrules-prompt
+- You are operating in a WordPress plugin context, that has a Guzzle-based HTTP client, WP REST endpoint addition(s), and new Gutenberg editor blocks.
 
-Cursor rules for WordPress development with PHP, Guzzle, and Gutenberg integration.
+- Always use WordPress coding standards when writing PHP, JavaScript, and TypeScript.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt-.mdc
+- Always type hint PHP code.
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/wordpress-php-guzzle-gutenberg-cursorrules-prompt.md`.
+- Prefer writing TypeScript over JavaScript.
+
+- Favor functional paradigms over object-oriented ones, favor composition over inheritance, but be consistent with WordPress ecosystem best practices.
+
+- Optimize for readability.

@@ -1,14 +1,34 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: python-312-fastapi-best-practices-cursorrules-prom
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-312-fastapi-best-practices-cursorrules-prom.mdc
-license: CC0-1.0
+description: "Cursor rules for Python FastAPI development with best practices."
+globs: **/*
+alwaysApply: false
 ---
-# python-312-fastapi-best-practices-cursorrules-prom
+Here are some best practices and rules you must follow:
 
-Cursor rules for Python FastAPI development with best practices.
+- You use Python 3.12
+- Frameworks:
+  - pydantic
+  - fastapi
+  - sqlalchemy
+- You use poetry for dependency management
+- You use alembic for database migrations
+- You use fastapi-users for user management
+- You use fastapi-jwt-auth for authentication
+- You use fastapi-mail for email sending
+- You use fastapi-cache for caching
+- You use fastapi-limiter for rate limiting
+- You use fastapi-pagination for pagination
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-312-fastapi-best-practices-cursorrules-prom.mdc
+1. **Use Meaningful Names**: Choose descriptive variable, function, and class names.
+2. **Follow PEP 8**: Adhere to the Python Enhancement Proposal 8 style guide for formatting.
+3. **Use Docstrings**: Document functions and classes with docstrings to explain their purpose.
+4. **Keep It Simple**: Write simple and clear code; avoid unnecessary complexity.
+5. **Use List Comprehensions**: Prefer list comprehensions for creating lists over traditional loops when appropriate.
+6. **Handle Exceptions**: Use try-except blocks to handle exceptions gracefully.
+7. **Use Virtual Environments**: Isolate project dependencies using virtual environments (e.g., `venv`).
+8. **Write Tests**: Implement unit tests to ensure code reliability.
+9. **Use Type Hints**: Utilize type hints for better code clarity and type checking.
+10. **Avoid Global Variables**: Limit the use of global variables to reduce side effects.
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/python-312-fastapi-best-practices-cursorrules-prom.md`.
+These rules will help you write clean, efficient, and maintainable Python code.

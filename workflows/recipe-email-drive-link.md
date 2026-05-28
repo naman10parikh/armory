@@ -1,14 +1,59 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
-name: recipe-email-drive-link
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/google-workspace/recipes/recipe-email-drive-link.md
-license: MIT
+allowed-tools: Bash, Read, Write, Edit
+argument-hint: [task-parameters]
+description: Share a Google Drive file and email the link with a message to recipients.
 ---
-# recipe-email-drive-link
+
+# Email Drive Link
+
+Execute Google Workspace workflow: $ARGUMENTS
+
+# Email a Google Drive File Link
+
+> **PREREQUISITE:** Load the following skills to execute this recipe: `gws-drive`, `gws-gmail`
 
 Share a Google Drive file and email the link with a message to recipients.
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/google-workspace/recipes/recipe-email-drive-link.md
+## Steps
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/recipe-email-drive-link.md`.
+1. Find the file: `gws drive files list --params '{"q": "name = '\''Quarterly Report'\''"}'`
+2. Share the file: `gws drive permissions create --params '{"fileId": "FILE_ID"}' --json '{"role": "reader", "type": "user", "emailAddress": "client@example.com"}'`
+3. Email the link: `gws gmail +send --to client@example.com --subject 'Quarterly Report' --body 'Hi, please find the report here: https://docs.google.com/document/d/FILE_ID'`
+
+## Task
+
+Execute this workflow with the following parameters: $ARGUMENTS
+
+1. **Prerequisites Check**
+   - Verify `gws` CLI is installed: `gws --version`
+   - Confirm authentication: `gws auth status`
+   - Load required GWS skills (check PREREQUISITE section above)
+
+2. **Parameter Preparation**
+   - Parse task parameters from $ARGUMENTS
+   - Validate required inputs
+   - Prepare JSON payloads and flags
+
+3. **Execute Workflow Steps**
+   - Follow the steps outlined above
+   - Replace placeholder IDs with actual values
+   - Handle errors and retries
+   - Log progress and results
+
+4. **Verify Results**
+   - Confirm each step completed successfully
+   - Verify changes in Google Workspace
+   - Report final status and any issues
+
+## Tips
+
+- Use `--dry-run` flag when available to preview changes
+- Always inspect API schemas before calling: `gws schema <service>.<resource>.<method>`
+- Check command help for all flags: `gws <service> <resource> <method> --help`
+
+---
+
+**License**: Apache License 2.0
+**Source**: [Google Workspace CLI](https://github.com/googleworkspace/cli)
+**Original Skill**: `recipe-email-drive-link`

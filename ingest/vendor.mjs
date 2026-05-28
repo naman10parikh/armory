@@ -3,7 +3,7 @@
 // root type folders and harness-native dot-folders.
 //
 // Owned surfaces (touched, reset on --apply):
-//   {skills,agents,commands,hooks,rules}/
+//   {skills,subagents,workflows,hooks,claudemd-rules}/
 //   .claude/{skills,agents,commands,hooks}/
 //   .cursor/rules/
 //   .claude/rules/           (mirror of cursor rules)
@@ -145,7 +145,7 @@ function vendorSkillDir(skillDir, destDir, slug, owner, repo, license, seen) {
 
 // ─── results tracker ─────────────────────────────────────────────────────────
 
-const counts = { skills: 0, agents: 0, commands: 0, hooks: 0, rules: 0 };
+const counts = { skills: 0, subagents: 0, workflows: 0, hooks: 0, "claudemd-rules": 0 };
 const cloneResults = {}; // repo → "ok" | "skip"
 
 // ─── SOURCE PROCESSORS ───────────────────────────────────────────────────────
@@ -177,30 +177,30 @@ function processWshobsonAgents(cloneDir, destAgents, destCommands, seenA, seenC)
     for (const f of agentFiles) {
       const slug = slugify(basename(f, ".md"));
       vendorFile(f, destAgents, slug, ".md", "wshobson", "agents", "MIT", seenA);
-      counts.agents++;
+      counts.subagents++;
     }
     const commandFiles = walkFiles(join(pluginPath, "commands"), (n) => n.endsWith(".md"));
     for (const f of commandFiles) {
       const slug = slugify(basename(f, ".md"));
       vendorFile(f, destCommands, slug, ".md", "wshobson", "agents", "MIT", seenC);
-      counts.commands++;
+      counts.workflows++;
     }
   }
 }
 
-// 3. wshobson/commands: tools/*.md + workflows/*.md → commands
+// 3. wshobson/commands: tools/*.md + workflows/*.md → workflows
 function processWshobsonCommands(cloneDir, destCommands, seen) {
   for (const sub of ["tools", "workflows"]) {
     const files = walkFiles(join(cloneDir, sub), (n) => n.endsWith(".md") && n !== "README.md");
     for (const f of files) {
       const slug = slugify(basename(f, ".md"));
       vendorFile(f, destCommands, slug, ".md", "wshobson", "commands", "MIT", seen);
-      counts.commands++;
+      counts.workflows++;
     }
   }
 }
 
-// 4. VoltAgent/awesome-claude-code-subagents: categories/**/*.md → agents
+// 4. VoltAgent/awesome-claude-code-subagents: categories/**/*.md → subagents
 function processVoltAgent(cloneDir, destAgents, seen) {
   const catDir = join(cloneDir, "categories");
   const files = walkFiles(catDir,
@@ -209,11 +209,11 @@ function processVoltAgent(cloneDir, destAgents, seen) {
   for (const f of files) {
     const slug = slugify(basename(f, ".md"));
     vendorFile(f, destAgents, slug, ".md", "VoltAgent", "awesome-claude-code-subagents", "MIT", seen);
-    counts.agents++;
+    counts.subagents++;
   }
 }
 
-// 5. dl-ezo/claude-code-sub-agents: *.md at root → agents
+// 5. dl-ezo/claude-code-sub-agents: *.md at root → subagents
 function processDlEzo(cloneDir, destAgents, seen) {
   for (const entry of readdirSync(cloneDir, { withFileTypes: true })) {
     if (!entry.isFile()) continue;
@@ -221,7 +221,7 @@ function processDlEzo(cloneDir, destAgents, seen) {
     const f = join(cloneDir, entry.name);
     const slug = slugify(basename(f, ".md"));
     vendorFile(f, destAgents, slug, ".md", "dl-ezo", "claude-code-sub-agents", "MIT", seen);
-    counts.agents++;
+    counts.subagents++;
   }
 }
 
@@ -254,11 +254,11 @@ function processDavila7(cloneDir, destSkills, destAgents, destCommands, destHook
     for (const f of agentFiles) {
       const slug = slugify(basename(f, ".md"));
       vendorFile(f, destAgents, slug, ".md", "davila7", "claude-code-templates", "MIT", seenA);
-      counts.agents++;
+      counts.subagents++;
     }
   }
 
-  // commands
+  // commands → workflows
   const commandsBase = join(base, "commands");
   if (existsSync(commandsBase)) {
     const commandFiles = walkFiles(commandsBase,
@@ -267,7 +267,7 @@ function processDavila7(cloneDir, destSkills, destAgents, destCommands, destHook
     for (const f of commandFiles) {
       const slug = slugify(basename(f, ".md"));
       vendorFile(f, destCommands, slug, ".md", "davila7", "claude-code-templates", "MIT", seenC);
-      counts.commands++;
+      counts.workflows++;
     }
   }
 
@@ -286,7 +286,7 @@ function processDavila7(cloneDir, destSkills, destAgents, destCommands, destHook
   }
 }
 
-// 7. PatrickJS/awesome-cursorrules: rules/*.mdc → rules (as .md)
+// 7. PatrickJS/awesome-cursorrules: rules/*.mdc → claudemd-rules (as .md)
 function processPatrickJS(cloneDir, destRules, seenR) {
   const rulesDir = join(cloneDir, "rules");
   if (!existsSync(rulesDir)) return;
@@ -296,7 +296,7 @@ function processPatrickJS(cloneDir, destRules, seenR) {
     const f = join(rulesDir, entry.name);
     const slug = slugify(basename(entry.name, extname(entry.name)));
     vendorFile(f, destRules, slug, ".md", "PatrickJS", "awesome-cursorrules", "MIT", seenR);
-    counts.rules++;
+    counts["claudemd-rules"]++;
   }
 }
 
@@ -317,7 +317,7 @@ function processDisler(cloneDir, destHooks, seenH) {
 // ─── HARNESS FOLDER WRITER ───────────────────────────────────────────────────
 
 const HARNESS_POINTER_MSG = (harness) =>
-  `# Armory components for ${harness}\n\nReal files live at the repo root: skills/ agents/ commands/ hooks/ rules/\nInstall a component: \`armory install <name> --cli ${harness}\`\n`;
+  `# Armory components for ${harness}\n\nReal files live at the repo root: skills/ subagents/ workflows/ hooks/ claudemd-rules/\nInstall a component: \`armory install <name> --cli ${harness}\`\n`;
 
 function buildHarnessFolders(destSkills, destAgents, destCommands, destHooks, destRules) {
   // .claude/ harness
@@ -408,12 +408,12 @@ async function main() {
     ensureDir(TMP);
   }
 
-  // Destination dirs at repo root
+  // Destination dirs at repo root (canonical 12-category names)
   const destSkills   = join(COMP, "skills");
-  const destAgents   = join(COMP, "agents");
-  const destCommands = join(COMP, "commands");
+  const destAgents   = join(COMP, "subagents");
+  const destCommands = join(COMP, "workflows");
   const destHooks    = join(COMP, "hooks");
-  const destRules    = join(COMP, "rules");
+  const destRules    = join(COMP, "claudemd-rules");
 
   if (!DRY_RUN) {
     for (const d of [destSkills, destAgents, destCommands, destHooks, destRules]) resetDir(d);
@@ -534,15 +534,15 @@ async function main() {
   const mirroredFiles = buildHarnessFolders(destSkills, destAgents, destCommands, destHooks, destRules);
 
   // ── report ───────────────────────────────────────────────────────────────────
-  const total = counts.skills + counts.agents + counts.commands + counts.hooks + counts.rules;
+  const total = counts.skills + counts.subagents + counts.workflows + counts.hooks + counts["claudemd-rules"];
   console.log("\n═══════════════════════════════════════════════════");
   console.log(`  Armory vendor.mjs — ${DRY_RUN ? "DRY RUN" : "APPLIED"}`);
   console.log("═══════════════════════════════════════════════════");
-  console.log(`  skills:   ${counts.skills}`);
-  console.log(`  agents:   ${counts.agents}`);
-  console.log(`  commands: ${counts.commands}`);
-  console.log(`  hooks:    ${counts.hooks}`);
-  console.log(`  rules:    ${counts.rules}`);
+  console.log(`  skills:        ${counts.skills}`);
+  console.log(`  subagents:     ${counts.subagents}`);
+  console.log(`  workflows:     ${counts.workflows}`);
+  console.log(`  hooks:         ${counts.hooks}`);
+  console.log(`  claudemd-rules: ${counts["claudemd-rules"]}`);
   console.log(`  ─────────────────────────`);
   console.log(`  TOTAL:    ${total}`);
   if (!DRY_RUN) console.log(`  harness mirror files: ${mirroredFiles}`);

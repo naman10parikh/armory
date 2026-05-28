@@ -1,14 +1,24 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: unity-cursor-ai-c-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/unity-cursor-ai-c-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Unity development with C# integration."
+globs: **/*
+alwaysApply: false
 ---
-# unity-cursor-ai-c-cursorrules-prompt-file
+// Unity Tower Defense Game using Nintendo Ringcon
+// This project involves creating a tower defense style game controlled by a Nintendo Ringcon.
 
-Cursor rules for Unity development with C# integration.
+// Project Context
+// Players place turrets and use exercise to charge them up.
+// The project is currently undergoing refactoring for better extensibility and maintainability.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/unity-cursor-ai-c-cursorrules-prompt-file.mdc
+// Development Environment
+// Language: C#
+// Unity Version: 2021.3.18f1
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/unity-cursor-ai-c-cursorrules-prompt-file.md`.
+// Instructions
+// Ensure the game mechanics are intuitive and responsive.
+// Focus on optimizing performance for real-time gameplay.
+// Implement modular code structure for easy updates and feature additions.
+
+// Additional Notes
+// Feel free to ask questions if you need more information about the project intentions.

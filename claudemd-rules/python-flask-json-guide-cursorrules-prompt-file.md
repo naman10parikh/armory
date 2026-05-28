@@ -1,14 +1,25 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: python-flask-json-guide-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-flask-json-guide-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Python Flask development with JSON guide."
+globs: **/*
+alwaysApply: false
 ---
-# python-flask-json-guide-cursorrules-prompt-file
+This project is heavily reliant on our custom Drawscape Factorio python module.
 
-Cursor rules for Python Flask development with JSON guide.
+Here is code examples of how to use the module:
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-flask-json-guide-cursorrules-prompt-file.mdc
+```python
+from drawscape_factorio import create as createFactorio
+from drawscape_factorio import importFUE5
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/python-flask-json-guide-cursorrules-prompt-file.md`.
+with open('/path/to/exported-entities.json', 'r') as file:
+    json_data = json.load(file)
+    data = importFUE5(json_data)
+    result = createFactorio(data, {
+        'theme_name': 'default',
+        'color_scheme': 'main',
+        'show_layers': ['assets', 'belts', 'walls', 'rails', 'electrical', 'spaceship']
+    })
+
+with open(output_file_name, 'w') as f:
+    f.write(result['svg_string'])

@@ -1,14 +1,53 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: nextjs
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nextjs.mdc
-license: CC0-1.0
+description: "Next.js with TypeScript and Tailwind UI best practices"
+globs: **/*.tsx, **/*.ts, src/**/*.ts, src/**/*.tsx
+alwaysApply: false
 ---
-# nextjs
+# Next.js Best Practices
 
-Next.js with TypeScript and Tailwind UI best practices
+## Project Structure
+- Use the App Router directory structure
+- Place components in `app` directory for route-specific components
+- Place shared components in `components` directory
+- Place utilities and helpers in `lib` directory
+- Use lowercase with dashes for directories (e.g., `components/auth-wizard`)
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nextjs.mdc
+## Components
+- Use Server Components by default
+- Mark client components explicitly with 'use client'
+- Wrap client components in Suspense with fallback
+- Use dynamic loading for non-critical components
+- Implement proper error boundaries
+- Place static content and interfaces at file end
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/nextjs.md`.
+## Performance
+- Optimize images: Use WebP format, size data, lazy loading
+- Minimize use of 'useEffect' and 'setState'
+- Favor Server Components (RSC) where possible
+- Use dynamic loading for non-critical components
+- Implement proper caching strategies
+
+## Data Fetching
+- Use Server Components for data fetching when possible
+- Implement proper error handling for data fetching
+- Use appropriate caching strategies
+- Handle loading and error states appropriately
+
+## Routing
+- Use the App Router conventions
+- Implement proper loading and error states for routes
+- Use dynamic routes appropriately
+- Handle parallel routes when needed
+
+## Forms and Validation
+- Use Zod for form validation
+- Implement proper server-side validation
+- Handle form errors appropriately
+- Show loading states during form submission
+
+## State Management
+- Minimize client-side state
+- Use React Context sparingly
+- Prefer server state when possible
+- Implement proper loading states

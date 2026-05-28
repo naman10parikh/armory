@@ -35,6 +35,6 @@
     "./armory-skill/"
   ],
   "commands": [
-    "./commands/"
+    "./workflows/"
   ]
 }

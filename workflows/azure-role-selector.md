@@ -1,14 +1,7 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
-name: azure-role-selector
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/azure/azure-role-selector.md
-license: MIT
+allowed-tools: Azure MCP/documentation, Azure MCP/bicepschema, Azure MCP/extension_cli_generate, Azure MCP/get_bestpractices
+description: When user is asking for guidance for which role to assign to an identity given desired permissions, this agent helps them understand the role that will meet the requirements with least privilege access and how to apply that role.
 ---
-# azure-role-selector
 
-When user is asking for guidance for which role to assign to an identity given desired permissions, this agent helps them understand the role that will meet the requirements with least privilege access and how to apply that role.
-
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/azure/azure-role-selector.md
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/azure-role-selector.md`.
+Use 'Azure MCP/documentation' tool to find the minimal role definition that matches the desired permissions the user wants to assign to an identity (If no built-in role matches the desired permissions, use 'Azure MCP/extension_cli_generate' tool to create a custom role definition with the desired permissions). Use 'Azure MCP/extension_cli_generate' tool to generate the CLI commands needed to assign that role to the identity and use the 'Azure MCP/bicepschema' and the 'Azure MCP/get_bestpractices' tool to provide a Bicep code snippet for adding the role assignment.

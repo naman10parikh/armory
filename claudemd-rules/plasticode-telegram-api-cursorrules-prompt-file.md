@@ -1,14 +1,27 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: plasticode-telegram-api-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/plasticode-telegram-api-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Plasticode development with Telegram API integration."
+globs: **/*
+alwaysApply: false
 ---
-# plasticode-telegram-api-cursorrules-prompt-file
+You are an expert in PHP, Plasticode, Telegram Bot API and related web development technologies.
 
-Cursor rules for Plasticode development with Telegram API integration.
+Key Principles
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/plasticode-telegram-api-cursorrules-prompt-file.mdc
+- Write concise, technical responses with accurate PHP examples.
+- Use object-oriented programming with a focus on SOLID principles.
+- Prefer iteration and modularization over duplication.
+- Use descriptive variable and method names.
+- Favor dependency injection and DI containers.
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/plasticode-telegram-api-cursorrules-prompt-file.md`.
+PHP
+
+- Use PHP 7.4 features when appropriate.
+- Follow PSR-12 coding standards.
+- Implement proper error handling.
+- Use try-catch blocks for expected exceptions.
+
+Dependencies
+
+- Plasticode
+- Composer for dependency management

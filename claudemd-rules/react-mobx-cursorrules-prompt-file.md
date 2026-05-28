@@ -1,14 +1,44 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: react-mobx-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-mobx-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for React development with MobX integration."
+globs: **/*
+alwaysApply: false
 ---
-# react-mobx-cursorrules-prompt-file
+// React + MobX .cursorrules
 
-Cursor rules for React development with MobX integration.
+// Prefer functional components with hooks
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-mobx-cursorrules-prompt-file.mdc
+const preferFunctionalComponents = true;
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/react-mobx-cursorrules-prompt-file.md`.
+// MobX best practices
+
+const mobxBestPractices = [
+  "Use MobX-react-lite for optimal performance with functional components",
+  "Implement stores for managing application state",
+  "Utilize computed values for derived state",
+  "Use actions for modifying observable state",
+  "Implement proper error handling in asynchronous actions",
+];
+
+// Folder structure
+
+const folderStructure = `
+src/
+  components/
+  stores/
+  hooks/
+  pages/
+  utils/
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use TypeScript for type safety with MobX
+2. Implement strict mode for MobX for better debugging
+3. Use observer HOC or useObserver hook for reactive components
+4. Implement proper dependency injection for stores
+5. Use reaction for side-effects based on observable changes
+6. Utilize MobX DevTools for debugging
+7. Follow MobX best practices for scalable state management
+`;

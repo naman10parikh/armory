@@ -1,14 +1,32 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: es-module-nodejs-guidelines-cursorrules-prompt-fil
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/es-module-nodejs-guidelines-cursorrules-prompt-fil.mdc
-license: CC0-1.0
+description: "Cursor rules for ES Module development with Node.js guidelines."
+globs: **/*
+alwaysApply: false
 ---
-# es-module-nodejs-guidelines-cursorrules-prompt-fil
+## General
 
-Cursor rules for ES Module development with Node.js guidelines.
+- Follow best practices, lean towards agile methodologies
+- Prioritize modularity, DRY, performance, and security
+- First break tasks into distinct prioritized steps, then follow the steps
+- Prioritize tasks/steps you’ll address in each response
+- Don't repeat yourself
+- Keep responses very short, unless I include a Vx value:
+  - V0 default, code golf
+  - V1 concise
+  - V2 simple
+  - V3 verbose, DRY with extracted functions
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/es-module-nodejs-guidelines-cursorrules-prompt-fil.mdc
+## Code
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/es-module-nodejs-guidelines-cursorrules-prompt-fil.md`.
+- Use ES module syntax
+- Where appropriate suggest refactorings and code improvements
+- Favor using the latest ES and nodejs features
+- Don’t apologize for errors: fix them
+  * If you can’t finish code, add TODO: comments
+
+## Comments
+
+- Comments should be created where the operation isn't clear from the code, or where uncommon libraries are used
+- Code must start with path/filename as a one-line comment
+- Comments should describe purpose, not effect

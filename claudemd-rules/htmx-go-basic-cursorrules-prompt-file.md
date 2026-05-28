@@ -1,14 +1,46 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: htmx-go-basic-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/htmx-go-basic-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Go development with basic setup."
+globs: **/*
+alwaysApply: false
 ---
-# htmx-go-basic-cursorrules-prompt-file
+// HTMX with Go (Basic Setup) .cursorrules
 
-Cursor rules for Go development with basic setup.
+// HTMX and Go best practices
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/htmx-go-basic-cursorrules-prompt-file.mdc
+const htmxGoBestPractices = [
+  "Use html/template for server-side rendering",
+  "Implement http.HandlerFunc for handling HTMX requests",
+  "Utilize gorilla/mux for routing if needed",
+  "Use encoding/json for JSON responses",
+  "Implement proper error handling and logging",
+  "Utilize context for request cancellation and timeouts",
+];
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/htmx-go-basic-cursorrules-prompt-file.md`.
+// Folder structure
+
+const folderStructure = `
+cmd/
+  main.go
+internal/
+  handlers/
+  models/
+  templates/
+static/
+  css/
+  js/
+go.mod
+go.sum
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use semantic HTML5 elements with HTMX attributes
+2. Implement proper CSRF protection
+3. Utilize HTMX extensions when needed
+4. Use hx-boost for full page navigation
+5. Follow Go's idiomatic error handling
+6. Implement graceful shutdown for the server
+7. Use Go modules for dependency management
+`;

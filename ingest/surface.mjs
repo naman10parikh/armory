@@ -6,7 +6,7 @@
 //
 // Idempotent (--apply): resets each generated type's root dir, then re-emits.
 // NEVER touches: skills/ agents/ commands/ hooks/ rules/ (real vendored files from TASK 1)
-// NEVER touches: brain/, catalog.json, armory-mcp/, cli/, armory-skill/, .github/
+// NEVER touches: brain/, catalog.json, armory-mcp/, cli/, armory-skill/, .github/, skills/, subagents/, workflows/, hooks/, claudemd-rules/
 //
 // Usage:
 //   node ingest/surface.mjs           # dry-run: prints counts
@@ -24,7 +24,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const BRAIN = join(ROOT, "brain", "components");
 
 // Real-file types already vendored at root — DO NOT generate/reset these
-const REAL_FILE_TYPES = new Set(["skills", "agents", "commands", "hooks", "rules"]);
+const REAL_FILE_TYPES = new Set(["skills", "subagents", "workflows", "hooks", "claudemd-rules"]);
 
 // Catalog-only types that get generated root folders
 const CATALOG_TYPES = [
@@ -160,7 +160,7 @@ ${entry.description || "No description available."}
 // ── README generators ─────────────────────────────────────────────────────────
 
 function mcpReadme(count) {
-  return `# mcp/ — ${count.toLocaleString()} MCP server install configs
+  return `# mcps/ — ${count.toLocaleString()} MCP server install configs
 
 Each \`<slug>.json\` is a minimal install config:
 \`\`\`json
@@ -207,7 +207,7 @@ async function main() {
 
   console.log("Loading brain/components/mcps/ …");
   const mcpEntries = loadBrainType("mcps");
-  const mcpDir = join(ROOT, "mcp");
+  const mcpDir = join(ROOT, "mcps");
   if (!DRY_RUN) {
     resetDir(mcpDir);
     for (const entry of mcpEntries) {

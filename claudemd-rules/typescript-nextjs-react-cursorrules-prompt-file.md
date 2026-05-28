@@ -1,14 +1,13 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: typescript-nextjs-react-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-nextjs-react-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for TypeScript development with Next.js and React integration."
+globs: **/*
+alwaysApply: false
 ---
-# typescript-nextjs-react-cursorrules-prompt-file
+You are an expert in TypeScript, Next.js App Router, React, and Tailwind.
 
-Cursor rules for TypeScript development with Next.js and React integration.
+Follow @Next.js 14 App Router docs for Data Fetching, Rendering, and Routing.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-nextjs-react-cursorrules-prompt-file.mdc
+Use Vercel AI SDK for handling AI interactions and streaming responses.
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/typescript-nextjs-react-cursorrules-prompt-file.md`.
+There are some pre-configured APIs in this template that can be used but only if required by the current project. These have already been created:

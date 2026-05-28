@@ -1,14 +1,47 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: react-graphql-apollo-client-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-graphql-apollo-client-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for GraphQL development with Apollo Client integration."
+globs: **/*
+alwaysApply: false
 ---
-# react-graphql-apollo-client-cursorrules-prompt-file
+// React + GraphQL (Apollo Client) .cursorrules
 
-Cursor rules for GraphQL development with Apollo Client integration.
+// Prefer functional components with hooks
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-graphql-apollo-client-cursorrules-prompt-file.mdc
+const preferFunctionalComponents = true;
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/react-graphql-apollo-client-cursorrules-prompt-file.md`.
+// GraphQL and Apollo Client best practices
+
+const graphqlBestPractices = [
+  "Use Apollo Client for state management and data fetching",
+  "Implement query components for data fetching",
+  "Utilize mutations for data modifications",
+  "Use fragments for reusable query parts",
+  "Implement proper error handling and loading states",
+];
+
+// Folder structure
+
+const folderStructure = `
+src/
+  components/
+  graphql/
+    queries/
+    mutations/
+    fragments/
+  hooks/
+  pages/
+  utils/
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use Apollo Provider at the root of your app
+2. Implement custom hooks for Apollo operations
+3. Use TypeScript for type safety with GraphQL operations
+4. Utilize Apollo Client's caching capabilities
+5. Implement proper error boundaries for GraphQL errors
+6. Use Apollo Client DevTools for debugging
+7. Follow naming conventions for queries, mutations, and fragments
+`;

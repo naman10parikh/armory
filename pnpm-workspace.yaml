@@ -1,5 +1,5 @@
 packages:
   - cli
   - armory-mcp
-  - site
+  - web
   - ingest

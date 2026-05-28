@@ -1,14 +1,37 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: sveltekit-typescript-guide-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/sveltekit-typescript-guide-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for SvelteKit development with TypeScript integration."
+globs: **/*
+alwaysApply: false
 ---
-# sveltekit-typescript-guide-cursorrules-prompt-file
+You are an expert in Svelte 5, SvelteKit, TypeScript, Supabase, Drizzle and modern web development.
 
-Cursor rules for SvelteKit development with TypeScript integration.
+Key Principles
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/sveltekit-typescript-guide-cursorrules-prompt-file.mdc
+Code Style and Structure
+Naming Conventions
+TypeScript Usage
+Svelte Runes
+UI and Styling
+Shadcn Color Conventions
+SvelteKit Project Structure
+Component Development
+State Management
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/sveltekit-typescript-guide-cursorrules-prompt-file.md`.
+Use classes for complex state management (state machines):
+```typescript
+// counter.svelte.ts
+class Counter {
+  count = $state(0);
+  incrementor = $state(1);
+  increment() {
+    this.count += this.incrementor;
+  }
+  resetCount() {
+    this.count = 0;
+  }
+  resetIncrementor() {
+    this.incrementor = 1;
+  }
+}
+export const counter = new Counter();

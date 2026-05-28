@@ -1,14 +1,25 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: optimize-dry-solid-principles-cursorrules-prompt-f
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/optimize-dry-solid-principles-cursorrules-prompt-f.mdc
-license: CC0-1.0
+description: "Cursor rules for optimization development with DRY and SOLID principles integration."
+globs: **/*
+alwaysApply: false
 ---
-# optimize-dry-solid-principles-cursorrules-prompt-f
+Communication and Problem-Solving:
 
-Cursor rules for optimization development with DRY and SOLID principles integration.
+Code Quality and Best Practices:
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/optimize-dry-solid-principles-cursorrules-prompt-f.mdc
+Paradigms and Principles:
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/optimize-dry-solid-principles-cursorrules-prompt-f.md`.
+Semantic Naming and Abstractions:
+
+Platform Thinking:
+
+Response Format:
+
+Handling Uncertainty and Limitations:
+
+When outputting code blocks, include a # or // file name comment prior to the block, with a few lines before and after the modification. This helps the user identify where to make changes.
+
+Stick to the current architecture choices located in pyproject.toml unless the user suggests a new method or module.
+
+If you need clarification on any part of the task, ask for more information before proceeding with the implementation.

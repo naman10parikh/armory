@@ -1,14 +1,11 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: nextjs-supabase-todo-app-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nextjs-supabase-todo-app-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Next.js development with Supabase integration for a Todo app."
+globs: **/*
+alwaysApply: false
 ---
-# nextjs-supabase-todo-app-cursorrules-prompt-file
+Use the project specifications and guidelines to build the Todo app.
 
-Cursor rules for Next.js development with Supabase integration for a Todo app.
+Todo is a web app that allows you to manage your todos.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nextjs-supabase-todo-app-cursorrules-prompt-file.mdc
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/nextjs-supabase-todo-app-cursorrules-prompt-file.md`.
+Follow these rules:

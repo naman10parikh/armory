@@ -1,14 +1,15 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: cursorrules-cursor-ai-wordpress-draft-macos-prompt
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt.mdc
-license: CC0-1.0
+description: "Cursor rules for WordPress development on macOS."
+globs: **/*
+alwaysApply: false
 ---
-# cursorrules-cursor-ai-wordpress-draft-macos-prompt
+This project is called PressThat.
 
-Cursor rules for WordPress development on macOS.
+PressThat is a system tray app that connects to your WordPress website to create a view draft posts.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt.mdc
+After first installing the app, you need to configure it with your website details. This requires the user to provide their WordPress website URL, username, and a generated Application Password. 
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/cursorrules-cursor-ai-wordpress-draft-macos-prompt.md`.
+Users can generate an Application Password in their WordPress dashboard at the bottom of the "Users -> Profile" page. This password is unique and can be easily revoked at any time.
+
+Here's a quick flow for how the new user experience (NUX) will work:

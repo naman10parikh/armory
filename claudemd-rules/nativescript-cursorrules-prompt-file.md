@@ -1,14 +1,37 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: nativescript-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nativescript-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for NativeScript development."
+globs: **/*
+alwaysApply: false
 ---
-# nativescript-cursorrules-prompt-file
+// NativeScript .cursorrules
 
-Cursor rules for NativeScript development.
+// NativeScript best practices
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nativescript-cursorrules-prompt-file.mdc
+const nativeScriptBestPractices = [
+  "Utilize @nativescript/core features and APIs where applicable",
+  "Utilize common web APIs where applicable",
+  "Implement proper navigation using NativeScript Navigation",
+  "Use NativeScript's assets folder for images, sounds or videos and use the fonts folder for custom fonts",
+  "Implement proper error handling where possible"
+];
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/nativescript-cursorrules-prompt-file.md`.
+// Folder structure
+
+const folderStructure = `
+src/
+  assets/
+  components/
+  services/
+  utils/
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use TypeScript for type safety
+2. Use @nativescript/secure-storage for sensitive data
+3. Use @nativescript/biometrics for anything related to biometrics
+4. Always use nativescript-fonticon for font icons
+5. Follow NativeScript best practices for performance
+`;

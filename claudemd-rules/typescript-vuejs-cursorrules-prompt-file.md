@@ -1,14 +1,22 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: typescript-vuejs-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-vuejs-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for TypeScript development with Vue.js integration."
+globs: **/*
+alwaysApply: false
 ---
-# typescript-vuejs-cursorrules-prompt-file
+Code Style and Structure:
 
-Cursor rules for TypeScript development with Vue.js integration.
+Naming Conventions:
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-vuejs-cursorrules-prompt-file.mdc
+TypeScript Usage:
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/typescript-vuejs-cursorrules-prompt-file.md`.
+Syntax and Formatting:
+
+Error Handling and Validation:
+
+UI and Styling:
+
+Performance Optimization:
+
+Key Conventions:
+Follow Vue.js docs for where makes sense

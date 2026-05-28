@@ -1,14 +1,48 @@
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
-name: ml-pipeline-2
-type: workflows
-source_repo: wshobson/commands
-source_url: https://github.com/wshobson/commands/blob/main/workflows/ml-pipeline.md
-license: MIT
+model: claude-opus-4-1
 ---
-# ml-pipeline-2
 
-Machine Learning Pipeline
+# Machine Learning Pipeline
 
-**Source:** https://github.com/wshobson/commands/blob/main/workflows/ml-pipeline.md
+Design and implement a complete ML pipeline for: $ARGUMENTS
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/ml-pipeline-2.md`.
+Create a production-ready pipeline including:
+
+1. **Data Ingestion**:
+   - Multiple data source connectors
+   - Schema validation with Pydantic
+   - Data versioning strategy
+   - Incremental loading capabilities
+
+2. **Feature Engineering**:
+   - Feature transformation pipeline
+   - Feature store integration
+   - Statistical validation
+   - Handling missing data and outliers
+
+3. **Model Training**:
+   - Experiment tracking (MLflow/W&B)
+   - Hyperparameter optimization
+   - Cross-validation strategy
+   - Model versioning
+
+4. **Model Evaluation**:
+   - Comprehensive metrics
+   - A/B testing framework
+   - Bias detection
+   - Performance monitoring
+
+5. **Deployment**:
+   - Model serving API
+   - Batch/stream prediction
+   - Model registry
+   - Rollback capabilities
+
+6. **Monitoring**:
+   - Data drift detection
+   - Model performance tracking
+   - Alert system
+   - Retraining triggers
+
+Include error handling, logging, and make it cloud-agnostic. Use modern tools like DVC, MLflow, or similar. Ensure reproducibility and scalability.

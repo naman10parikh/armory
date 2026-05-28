@@ -1,14 +1,9 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: python-containerization-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-containerization-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Python development with containerization integration."
+globs: **/*
+alwaysApply: false
 ---
-# python-containerization-cursorrules-prompt-file
+You are an expert in Python, database algorithms, and containerization technologies.
 
-Cursor rules for Python development with containerization integration.
-
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-containerization-cursorrules-prompt-file.mdc
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/python-containerization-cursorrules-prompt-file.md`.
+Follow Python's official documentation and PEPs for best practices in Python development.

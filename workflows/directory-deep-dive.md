@@ -1,14 +1,35 @@
----
-name: directory-deep-dive
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/utilities/directory-deep-dive.md
-license: MIT
----
-# directory-deep-dive
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
+# Directory Deep Dive
 
 Analyze directory structure and purpose
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/utilities/directory-deep-dive.md
+## Instructions
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/directory-deep-dive.md`.
+1. **Target Directory**
+   - Focus on the specified directory `$ARGUMENTS` or the current working directory
+
+2. **Investigate Architecture**
+   - Analyze the implementation principles and architecture of the code in this directory and its subdirectories
+   - Look for:
+     - Design patterns being used
+     - Dependencies and their purposes
+     - Key abstractions and interfaces
+     - Naming conventions and code organization
+
+3. **Create or Update Documentation**
+   - Create a CLAUDE.md file capturing this knowledge
+   - If one already exists, update it with newly discovered information
+   - Include:
+     - Purpose and responsibility of this module
+     - Key architectural decisions
+     - Important implementation details
+     - Common patterns used throughout the code
+     - Any gotchas or non-obvious behaviors
+
+4. **Ensure Proper Placement**
+   - Place the CLAUDE.md file in the directory being analyzed
+   - This ensures the context is loaded when working in that specific area
+
+## Credit
+
+This command is based on the work of Thomas Landgraf: https://thomaslandgraf.substack.com/p/claude-codes-memory-working-with

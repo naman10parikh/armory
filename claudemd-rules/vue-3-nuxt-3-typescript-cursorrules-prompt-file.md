@@ -1,14 +1,14 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: vue-3-nuxt-3-typescript-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/vue-3-nuxt-3-typescript-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Vue 3 development with TypeScript integration."
+globs: **/*
+alwaysApply: false
 ---
-# vue-3-nuxt-3-typescript-cursorrules-prompt-file
+Vue 3 Nuxt 3 TypeScript Guidelines
 
-Cursor rules for Vue 3 development with TypeScript integration.
-
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/vue-3-nuxt-3-typescript-cursorrules-prompt-file.mdc
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/vue-3-nuxt-3-typescript-cursorrules-prompt-file.md`.
+- Use Vue 3 Composition API patterns with `<script setup>` and clear component boundaries.
+- Prefer TypeScript interfaces for object shapes and keep shared types close to the feature that owns them.
+- Use Nuxt conventions for routing, layouts, composables, plugins, server routes, and runtime config.
+- Keep Tailwind CSS usage responsive, accessible, and consistent with the project design system.
+- Use VueUse utilities where they simplify reactivity without hiding important state transitions.
+- Optimize Vite/Nuxt builds with lazy loading, dynamic imports, image optimization, and bundle review.

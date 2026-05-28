@@ -1,14 +1,16 @@
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
-name: certify
-type: workflows
-source_repo: wshobson/agents
-source_url: https://github.com/wshobson/agents/blob/main/plugins/plugin-eval/commands/certify.md
-license: MIT
+description: Full quality certification with badge
+argument-hint: <path>
 ---
-# certify
 
-Full quality certification with badge
+Run the complete PluginEval certification pipeline (all three layers + Elo ranking) and assign a quality badge.
 
-**Source:** https://github.com/wshobson/agents/blob/main/plugins/plugin-eval/commands/certify.md
+This takes 15-20 minutes and uses your Max plan for all LLM calls.
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/certify.md`.
+## Running
+
+```bash
+cd plugins/plugin-eval
+uv run plugin-eval certify {argument} --output markdown
+```

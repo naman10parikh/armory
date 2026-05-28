@@ -1,14 +1,14 @@
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
-name: compare
-type: workflows
-source_repo: wshobson/agents
-source_url: https://github.com/wshobson/agents/blob/main/plugins/plugin-eval/commands/compare.md
-license: MIT
+description: Compare two skills head-to-head
+argument-hint: <skill-a> <skill-b>
 ---
-# compare
 
-Compare two skills head-to-head
+Run a pairwise comparison between two skills and report which is better on each quality dimension.
 
-**Source:** https://github.com/wshobson/agents/blob/main/plugins/plugin-eval/commands/compare.md
+## Running
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/compare.md`.
+```bash
+cd plugins/plugin-eval
+uv run plugin-eval compare {argument}
+```

@@ -1,14 +1,59 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
-name: recipe-bulk-download-folder
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/google-workspace/recipes/recipe-bulk-download-folder.md
-license: MIT
+allowed-tools: Bash, Read, Write, Edit
+argument-hint: [task-parameters]
+description: List and download all files from a Google Drive folder.
 ---
-# recipe-bulk-download-folder
+
+# Bulk Download Folder
+
+Execute Google Workspace workflow: $ARGUMENTS
+
+# Bulk Download Drive Folder
+
+> **PREREQUISITE:** Load the following skills to execute this recipe: `gws-drive`
 
 List and download all files from a Google Drive folder.
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/google-workspace/recipes/recipe-bulk-download-folder.md
+## Steps
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/recipe-bulk-download-folder.md`.
+1. List files in folder: `gws drive files list --params '{"q": "'\''FOLDER_ID'\'' in parents"}' --format json`
+2. Download each file: `gws drive files get --params '{"fileId": "FILE_ID", "alt": "media"}' -o filename.ext`
+3. Export Google Docs as PDF: `gws drive files export --params '{"fileId": "FILE_ID", "mimeType": "application/pdf"}' -o document.pdf`
+
+## Task
+
+Execute this workflow with the following parameters: $ARGUMENTS
+
+1. **Prerequisites Check**
+   - Verify `gws` CLI is installed: `gws --version`
+   - Confirm authentication: `gws auth status`
+   - Load required GWS skills (check PREREQUISITE section above)
+
+2. **Parameter Preparation**
+   - Parse task parameters from $ARGUMENTS
+   - Validate required inputs
+   - Prepare JSON payloads and flags
+
+3. **Execute Workflow Steps**
+   - Follow the steps outlined above
+   - Replace placeholder IDs with actual values
+   - Handle errors and retries
+   - Log progress and results
+
+4. **Verify Results**
+   - Confirm each step completed successfully
+   - Verify changes in Google Workspace
+   - Report final status and any issues
+
+## Tips
+
+- Use `--dry-run` flag when available to preview changes
+- Always inspect API schemas before calling: `gws schema <service>.<resource>.<method>`
+- Check command help for all flags: `gws <service> <resource> <method> --help`
+
+---
+
+**License**: Apache License 2.0
+**Source**: [Google Workspace CLI](https://github.com/googleworkspace/cli)
+**Original Skill**: `recipe-bulk-download-folder`

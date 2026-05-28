@@ -1,14 +1,14 @@
----
-name: fix-github-issue
-type: workflows
-source_repo: jeremymailen/kotlinter-gradle
-source_url: https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md
-license: Apache-2.0
----
-# fix-github-issue
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
+Please analyze and fix the GitHub issue: $ARGUMENTS.
 
-Analyzes and fixes GitHub issues using a structured approach with GitHub CLI for issue details, implementing necessary code changes, running tests, and creating proper commit messages.
+Follow these steps:
 
-**Source:** https://github.com/jeremymailen/kotlinter-gradle/blob/master/.claude/commands/fix-github-issue.md
+1. Use `gh issue view` to get the issue details
+2. Understand the problem described in the issue
+3. Search the codebase for relevant files
+4. Implement the necessary changes to fix the issue
+5. Write and run tests to verify the fix
+6. Ensure code passes linting and type checking
+7. Create a descriptive commit message
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/fix-github-issue.md`.
+Remember to use the GitHub CLI (`gh`) for all GitHub-related tasks.

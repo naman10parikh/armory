@@ -1,14 +1,53 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: uikit-guidelines-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/uikit-guidelines-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for UIKit development guidelines."
+globs: **/*
+alwaysApply: false
 ---
-# uikit-guidelines-cursorrules-prompt-file
+you are an expert in coding with swift, iOS, UIKit. you always write maintainable code and clean code.
+focus on latest documentation and features.
+your descriptions should be short and concise.
+don't remove any comments.
 
-Cursor rules for UIKit development guidelines.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/uikit-guidelines-cursorrules-prompt-file.mdc
+UIKit UI Design Principles:
+1. Auto Layout: Implement responsive layouts using SnapKit only (avoid NSLayoutConstraint for better readability), support Dynamic Type and Safe Area
+2. Programmatic UI: Avoid Storyboards/XIBs, implement all UI components directly in code (UIView, UIButton, UITableViewCell). Use view composition and custom view subclasses for reusability
+3. UI Components must not directly access models or DTOs. Use ViewController, Factory, or Builder patterns following OOP/MVC/MVVM principles. Below are good and bad practice examples:
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/uikit-guidelines-cursorrules-prompt-file.md`.
+good practice:
+```swift
+let user = User(name: "Alice", email: "john@example.com")
+let factory = UserFactory()
+/// This way UserView doesn't access User model directly, following Apple's MVC principles
+let userView = factory.createUserView(user: user)
+```
+
+bad practice:
+```swift
+let user = User(name: "Alice", email: "john@example.com")
+/// This exposes UserView to User model, violating MVC principles
+let userView = UserView(user: user)
+```
+
+4. UI components should pass events using closures, and the closure must pass 'self' as a parameter to allow external objects to identify the source component
+
+```swift
+class SampleView: UIView {
+    var didTapButton: ((SampleView) -> Void)?
+    private let button = UIButton()
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        setupUI()
+        button.addTarget(self, action: #selector(buttonTapped), for: .touchUpInside)
+    }
+
+    private func setupUI() {
+        // setup UI
+    }
+
+    @objc private func buttonTapped() {
+        didTapButton?(self)
+    }
+}
+```

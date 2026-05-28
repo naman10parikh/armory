@@ -58,7 +58,7 @@ ${BOLD}Supported harnesses:${NC}
 
 ${BOLD}What you get after install:${NC}
   • armory-mcp running as an MCP server (search + install across 24,000+ components)
-  • 2,546 vendored components (skills, agents, commands, hooks) ready to use
+  • 2,546 vendored components (skills, subagents, workflows, hooks, claudemd-rules) ready to use
   • The 'armory' skill that teaches your agent when to reach into the registry
 
 ${BOLD}Examples:${NC}
@@ -249,8 +249,9 @@ main() {
   header "Armory install complete"
   printf "  • MCP server : npx -y armory-mcp (starts on-demand)\n"
   printf "  • Skills     : %s/skills/\n" "$SCRIPT_DIR"
-  printf "  • Agents     : %s/agents/\n" "$SCRIPT_DIR"
-  printf "  • Commands   : %s/commands/\n" "$SCRIPT_DIR"
+  printf "  • Subagents  : %s/subagents/\n" "$SCRIPT_DIR"
+  printf "  • Workflows  : %s/workflows/\n" "$SCRIPT_DIR"
+  printf "  • Rules      : %s/claudemd-rules/\n" "$SCRIPT_DIR"
   printf "  • Docs       : https://armory-murex.vercel.app\n\n"
 }
 

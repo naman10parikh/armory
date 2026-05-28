@@ -32,12 +32,12 @@ catalog.json                  ← generated index (never hand-edited); run `pnpm
 ## 2. The gear — actual installable files (~2,546)
 
 ```
-skills/   <slug>/SKILL.md    ← real component files vendored from upstream repos
-agents/   <slug>.md
-commands/ <slug>.md
-hooks/    <slug>.py|json
-rules/    <slug>.md
-mcp/      <slug>.json        ← install configs for all ~21,000 MCPs (generated)
+skills/         <slug>/SKILL.md    ← real component files vendored from upstream repos
+subagents/      <slug>.md
+workflows/      <slug>.md
+hooks/          <slug>.py|json
+claudemd-rules/ <slug>.md
+mcps/           <slug>.json        ← install configs for all ~21,000 MCPs (generated)
 ```
 
 Harness-native mirrors (same files, laid out for each CLI):
@@ -91,8 +91,8 @@ AUTOLAB-LOG.md                ← AutoLab run history
 |-------------------|-------------------------------------------------|
 | `armory-*`        | Armory's own gear (the tool that runs the show) |
 | `brain/`          | catalog metadata + detail pages                 |
-| `skills/ agents/ commands/ hooks/ rules/` | actual vendored installable files (repo root) |
-| `mcp/`            | generated MCP install configs (~21,000)         |
+| `skills/ subagents/ workflows/ hooks/ claudemd-rules/` | actual vendored installable files (repo root) |
+| `mcps/`           | generated MCP install configs (~21,000)         |
 | `ingest/` + `incoming/` | the machinery that grows the registry     |
 
 No duplicate "components" names. `brain/components/` = catalog pages. Real files live at repo root.

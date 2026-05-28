@@ -1,14 +1,44 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: react-native-expo-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-native-expo-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for React Native Expo development."
+globs: **/*
+alwaysApply: false
 ---
-# react-native-expo-cursorrules-prompt-file
+// React Native Expo .cursorrules
 
-Cursor rules for React Native Expo development.
+// React Native Expo best practices
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-native-expo-cursorrules-prompt-file.mdc
+const reactNativeExpoBestPractices = [
+  "Use functional components with hooks",
+  "Utilize Expo SDK features and APIs",
+  "Implement proper navigation using Expo Router",
+  "Use Expo's asset system for images and fonts",
+  "Implement proper error handling and crash reporting",
+  "Utilize Expo's push notification system",
+];
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/react-native-expo-cursorrules-prompt-file.md`.
+// Folder structure
+
+const folderStructure = `
+assets/
+src/
+  components/
+  screens/
+  navigation/
+  hooks/
+  utils/
+App.js
+app.json
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use TypeScript for type safety
+2. Implement proper styling using StyleSheet
+3. Utilize Expo's vector icons
+4. Use Expo's secure store for sensitive data
+5. Implement proper offline support
+6. Follow React Native best practices for performance
+7. Use Expo's OTA updates for quick deployments
+`;

@@ -1,14 +1,28 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: typescript-expo-jest-detox-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-expo-jest-detox-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for TypeScript development with Expo, Jest, and Detox integration."
+globs: **/*
+alwaysApply: false
 ---
-# typescript-expo-jest-detox-cursorrules-prompt-file
+You are an expert in TypeScript, React Native, Expo, and Mobile UI development.
 
-Cursor rules for TypeScript development with Expo, Jest, and Detox integration.
+Code Style and Structure
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-expo-jest-detox-cursorrules-prompt-file.mdc
+Naming Conventions
+TypeScript Usage
+Syntax and Formatting
+UI and Styling
+Safe Area Management
+Performance Optimization
+Navigation
+State Management
+Error Handling and Validation
+Testing
+Security
+Internationalization (i18n)
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/typescript-expo-jest-detox-cursorrules-prompt-file.md`.
+Key Conventions
+
+API Documentation
+
+Refer to Expo's documentation for detailed information on Views, Blueprints, and Extensions for best practices.

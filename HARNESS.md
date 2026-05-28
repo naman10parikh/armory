@@ -21,7 +21,7 @@ There is exactly **one** Armory MCP server (`armory-mcp/`). It is **not** one of
 |---|---|---|
 | **The brain** | `brain/` | Obsidian metadata graph (frontmatter + `[[wikilinks]]`) — source of truth |
 | **The index** | `catalog.json` | generated, never hand-typed |
-| **The actual gear** | `skills/ agents/ commands/ hooks/ rules/` | the **real files** at repo root |
+| **The actual gear** | `skills/ subagents/ workflows/ hooks/ claudemd-rules/` | the **real files** at repo root |
 | **Harness drops** | `.claude/ .cursor/ .codex/ .opencode/ .gemini/` | the catalog laid out in each harness's native format |
 
 ## The one rule that prevents confusion
@@ -29,4 +29,4 @@ There is exactly **one** Armory MCP server (`armory-mcp/`). It is **not** one of
 - `armory-mcp/` (our **one** server) ≠ `brain/components/mcps/` (the **~21,000** we catalog).
 - `armory-skill/` (our **one** skill) ≠ `skills/` (the **~1,100** we catalog at repo root).
 
-Our gear is prefixed `armory-*`. Everything under `skills/ agents/ commands/ hooks/ rules/`, `brain/`, and the harness-native dot-folders is *catalog data Armory aggregates from many sources* — no single source is special.
+Our gear is prefixed `armory-*`. Everything under `skills/ subagents/ workflows/ hooks/ claudemd-rules/`, `brain/`, and the harness-native dot-folders is *catalog data Armory aggregates from many sources* — no single source is special.

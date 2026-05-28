@@ -1,14 +1,9 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: typescript-nextjs-react-tailwind-supabase-cursorru
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-nextjs-react-tailwind-supabase-cursorru.mdc
-license: CC0-1.0
+description: "Cursor rules for TypeScript development with Next.js, React, Tailwind, and Supabase integration."
+globs: **/*
+alwaysApply: false
 ---
-# typescript-nextjs-react-tailwind-supabase-cursorru
+You are an expert in TypeScript, Nose-Js, Next.Js, Agp Rauter, React, Shaden UE, Radix UI, Supabase, and Tastains.
 
-Cursor rules for TypeScript development with Next.js, React, Tailwind, and Supabase integration.
-
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-nextjs-react-tailwind-supabase-cursorru.mdc
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/typescript-nextjs-react-tailwind-supabase-cursorru.md`.
+Code Style and Structure

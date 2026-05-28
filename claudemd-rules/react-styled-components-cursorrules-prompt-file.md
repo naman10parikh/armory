@@ -1,14 +1,46 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: react-styled-components-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-styled-components-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for React development with Styled Components integration."
+globs: **/*
+alwaysApply: false
 ---
-# react-styled-components-cursorrules-prompt-file
+// React + Styled Components .cursorrules
 
-Cursor rules for React development with Styled Components integration.
+// Prefer functional components with hooks
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/react-styled-components-cursorrules-prompt-file.mdc
+const preferFunctionalComponents = true;
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/react-styled-components-cursorrules-prompt-file.md`.
+// Styled Components best practices
+
+const styledComponentsBestPractices = [
+  "Use the styled-components/macro for better debugging",
+  "Implement a global theme using ThemeProvider",
+  "Create reusable styled components",
+  "Use props for dynamic styling",
+  "Utilize CSS helper functions like css`` when needed",
+];
+
+// Folder structure
+
+const folderStructure = `
+src/
+  components/
+    styled/
+  styles/
+    theme.js
+    globalStyles.js
+  pages/
+  utils/
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use proper naming conventions for styled components (e.g., StyledButton)
+2. Implement a consistent theming system
+3. Use CSS-in-JS for all styling needs
+4. Utilize styled-components' attrs method for frequently used props
+5. Implement proper TypeScript support for styled-components
+6. Use the css prop for conditional styling when appropriate
+7. Follow the styled-components documentation for best practices
+`;

@@ -1,14 +1,47 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: typescript-react-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-react-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for TypeScript development with React integration."
+globs: **/*
+alwaysApply: false
 ---
-# typescript-react-cursorrules-prompt-file
+// TypeScript React .cursorrules
 
-Cursor rules for TypeScript development with React integration.
+// Prefer functional components
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/typescript-react-cursorrules-prompt-file.mdc
+const preferFunctionalComponents = true;
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/typescript-react-cursorrules-prompt-file.md`.
+// TypeScript React best practices
+
+const typescriptReactBestPractices = [
+  "Use React.FC for functional components with props",
+  "Utilize useState and useEffect hooks for state and side effects",
+  "Implement proper TypeScript interfaces for props and state",
+  "Use React.memo for performance optimization when needed",
+  "Implement custom hooks for reusable logic",
+  "Utilize TypeScript's strict mode",
+];
+
+// Folder structure
+
+const folderStructure = `
+src/
+  components/
+  hooks/
+  pages/
+  types/
+  utils/
+  App.tsx
+  index.tsx
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use .tsx extension for files with JSX
+2. Implement strict TypeScript checks
+3. Utilize React.lazy and Suspense for code-splitting
+4. Use type inference where possible
+5. Implement error boundaries for robust error handling
+6. Follow React and TypeScript best practices and naming conventions
+7. Use ESLint with TypeScript and React plugins for code quality
+`;

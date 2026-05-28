@@ -1,14 +1,87 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: fastapi
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/fastapi.mdc
-license: CC0-1.0
+description: "FastAPI best practices and patterns for building modern Python web APIs"
+globs: **/*.py, app/**/*.py, api/**/*.py
+alwaysApply: false
 ---
-# fastapi
+# FastAPI Best Practices
 
-FastAPI best practices and patterns for building modern Python web APIs
+## Project Structure
+- Use proper directory structure
+- Implement proper module organization
+- Use proper dependency injection
+- Keep routes organized by domain
+- Implement proper middleware
+- Use proper configuration management
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/fastapi.mdc
+## API Design
+- Use proper HTTP methods
+- Implement proper status codes
+- Use proper request/response models
+- Implement proper validation
+- Use proper error handling
+- Document APIs with OpenAPI
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/fastapi.md`.
+## Models
+- Use Pydantic models
+- Implement proper validation
+- Use proper type hints
+- Keep models organized
+- Use proper inheritance
+- Implement proper serialization
+
+## Database
+- Use proper ORM (SQLAlchemy)
+- Implement proper migrations
+- Use proper connection pooling
+- Implement proper transactions
+- Use proper query optimization
+- Handle database errors properly
+
+## Authentication
+- Implement proper JWT authentication
+- Use proper password hashing
+- Implement proper role-based access
+- Use proper session management
+- Implement proper OAuth2
+- Handle authentication errors properly
+
+## Security
+- Implement proper CORS
+- Use proper rate limiting
+- Implement proper input validation
+- Use proper security headers
+- Handle security errors properly
+- Implement proper logging
+
+## Performance
+- Use proper caching
+- Implement proper async operations
+- Use proper background tasks
+- Implement proper connection pooling
+- Use proper query optimization
+- Monitor performance metrics
+
+## Testing
+- Write proper unit tests
+- Implement proper integration tests
+- Use proper test fixtures
+- Implement proper mocking
+- Test error scenarios
+- Use proper test coverage
+
+## Deployment
+- Use proper Docker configuration
+- Implement proper CI/CD
+- Use proper environment variables
+- Implement proper logging
+- Use proper monitoring
+- Handle deployment errors properly
+
+## Documentation
+- Use proper docstrings
+- Implement proper API documentation
+- Use proper type hints
+- Keep documentation updated
+- Document error scenarios
+- Use proper versioning

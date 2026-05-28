@@ -1,14 +1,9 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: nextjs-typescript-app-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nextjs-typescript-app-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Next.js development with TypeScript integration."
+globs: **/*
+alwaysApply: false
 ---
-# nextjs-typescript-app-cursorrules-prompt-file
+This project, named Astral, the Block Explorer of Autonomys network, is built using Next.js and TypeScript.
 
-Cursor rules for Next.js development with TypeScript integration.
-
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nextjs-typescript-app-cursorrules-prompt-file.mdc
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/nextjs-typescript-app-cursorrules-prompt-file.md`.
+It integrates various libraries for state management, UI components, and data fetching.

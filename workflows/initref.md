@@ -1,14 +1,4 @@
----
-name: initref
-type: workflows
-source_repo: okuvshynov/cubestat
-source_url: https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md
-license: MIT
----
-# initref
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
+Build a reference for the implementation details of this project. Use provided summarize tool to get summary of the files. Avoid reading the content of many files yourself, as we might hit usage limits. Do read the content of important files though. Use the returned summaries to create reference files in /ref directory. Use markdown format for writing the documentation files.
 
-Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.
-
-**Source:** https://github.com/okuvshynov/cubestat/blob/main/.claude/commands/initref.md
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/initref.md`.
+Update CLAUDE.md file with the pointers to important documentation files.

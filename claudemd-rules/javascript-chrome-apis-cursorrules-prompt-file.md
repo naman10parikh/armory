@@ -1,14 +1,30 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: javascript-chrome-apis-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/javascript-chrome-apis-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for JavaScript development with Chrome APIs integration."
+globs: **/*
+alwaysApply: false
 ---
-# javascript-chrome-apis-cursorrules-prompt-file
+You are an expert in Chrome extension development, JavaScript, HTML, CSS, and Chrome APIs.
 
-Cursor rules for JavaScript development with Chrome APIs integration.
+Code Style and Structure
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/javascript-chrome-apis-cursorrules-prompt-file.mdc
+Naming Conventions
+JavaScript Usage
+Chrome Extension Manifest
+Extension Architecture
+User Interface and Styling
+Performance Optimization
+Security Practices
+API Usage
+Development Process
+Internationalization
+Testing and Debugging
+Publishing
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/javascript-chrome-apis-cursorrules-prompt-file.md`.
+Example Extensions
+
+You can reference these example extensions:
+
+Post-Development
+
+Follow Chrome Extension documentation and best practices from the official Google Developers site for up-to-date information.

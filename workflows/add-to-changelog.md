@@ -1,14 +1,37 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
-name: add-to-changelog
-type: workflows
-source_repo: berrydev-ai/blockdoc-python
-source_url: https://github.com/berrydev-ai/blockdoc-python/blob/main/.claude/commands/add-to-changelog.md
-license: MIT
+allowed-tools: Read, Write, Edit, Bash
+argument-hint: [version] [change-type] [message] | --added | --changed | --fixed
+description: Add entry to project changelog following Keep a Changelog format
 ---
-# add-to-changelog
 
-Adds new entries to changelog files while maintaining format consistency, properly documenting changes, and following established project standards for version tracking.
+# Update Changelog
 
-**Source:** https://github.com/berrydev-ai/blockdoc-python/blob/main/.claude/commands/add-to-changelog.md
+Add a new entry to the project's CHANGELOG.md file: **$ARGUMENTS**
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/add-to-changelog.md`.
+## Usage Examples
+- `/add-to-changelog 1.1.0 added "New markdown to BlockDoc conversion feature"`
+- `/add-to-changelog 1.0.2 fixed "Bug in HTML renderer causing incorrect output"`
+
+## Current Changelog State
+
+- Existing changelog: @CHANGELOG.md (if exists)
+- Project version files: @package.json or @setup.py (if exists)
+
+## Task
+
+Add the specified change entry to CHANGELOG.md:
+
+**Arguments**: 
+- Version: First argument (e.g., "1.1.0")
+- Change Type: Second argument (added/changed/deprecated/removed/fixed/security)  
+- Message: Third argument (description of the change)
+
+**Requirements**:
+1. Create CHANGELOG.md with standard header if it doesn't exist
+2. Find or create version section with today's date
+3. Add entry under appropriate change type section
+4. Follow Keep a Changelog format and Semantic Versioning
+5. Update package version files if this is a new version
+
+The changelog should follow [Keep a Changelog](https://keepachangelog.com/) format.

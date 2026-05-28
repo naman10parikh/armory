@@ -1,14 +1,44 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: vue3-composition-api-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/vue3-composition-api-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Vue 3 development with Composition API integration."
+globs: **/*
+alwaysApply: false
 ---
-# vue3-composition-api-cursorrules-prompt-file
+// Vue 3 Composition API .cursorrules
 
-Cursor rules for Vue 3 development with Composition API integration.
+// Vue 3 Composition API best practices
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/vue3-composition-api-cursorrules-prompt-file.mdc
+const vue3CompositionApiBestPractices = [
+  "Use setup() function for component logic",
+  "Utilize ref and reactive for reactive state",
+  "Implement computed properties with computed()",
+  "Use watch and watchEffect for side effects",
+  "Implement lifecycle hooks with onMounted, onUpdated, etc.",
+  "Utilize provide/inject for dependency injection",
+];
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/vue3-composition-api-cursorrules-prompt-file.md`.
+// Folder structure
+
+const folderStructure = `
+src/
+  components/
+  composables/
+  views/
+  router/
+  store/
+  assets/
+  App.vue
+  main.js
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use TypeScript for type safety
+2. Implement proper props and emits definitions
+3. Utilize Vue 3's Teleport component when needed
+4. Use Suspense for async components
+5. Implement proper error handling
+6. Follow Vue 3 style guide and naming conventions
+7. Use Vite for fast development and building
+`;

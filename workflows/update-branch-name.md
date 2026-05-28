@@ -1,14 +1,10 @@
----
-name: update-branch-name
-type: workflows
-source_repo: giselles-ai/giselle
-source_url: https://github.com/giselles-ai/giselle/blob/main/.claude/commands/update-branch-name.md
-license: Apache-2.0
----
-# update-branch-name
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
+# Update Branch Name
 
-Updates branch names with proper prefixes and formats, enforcing naming conventions, supporting semantic prefixes, and managing remote branch updates.
+Follow these steps to update the current branch name:
 
-**Source:** https://github.com/giselles-ai/giselle/blob/main/.claude/commands/update-branch-name.md
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/update-branch-name.md`.
+1. Check differences between current branch and main branch HEAD using `git diff main...HEAD`
+2. Analyze the changed files to understand what work is being done
+3. Determine an appropriate descriptive branch name based on the changes
+4. Update the current branch name using `git branch -m [new-branch-name]`
+5. Verify the branch name was updated with `git branch`

@@ -1,14 +1,45 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: htmx-flask-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/htmx-flask-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for HTMX development with Flask integration."
+globs: **/*
+alwaysApply: false
 ---
-# htmx-flask-cursorrules-prompt-file
+// HTMX with Flask .cursorrules
 
-Cursor rules for HTMX development with Flask integration.
+// HTMX and Flask best practices
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/htmx-flask-cursorrules-prompt-file.mdc
+const htmxFlaskBestPractices = [
+  "Use Flask's render_template for server-side rendering",
+  "Implement Flask-WTF for form handling",
+  "Utilize Flask's url_for for generating URLs",
+  "Use Flask's jsonify for JSON responses",
+  "Implement Flask-SQLAlchemy for database operations",
+  "Utilize Flask's Blueprint for modular applications",
+];
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/htmx-flask-cursorrules-prompt-file.md`.
+// Folder structure
+
+const folderStructure = `
+app/
+  templates/
+  static/
+    css/
+    js/
+  models/
+  routes/
+  __init__.py
+config.py
+run.py
+`;
+
+// Additional instructions
+
+const additionalInstructions = `
+1. Use Jinja2 templating with HTMX attributes
+2. Implement proper CSRF protection with Flask-WTF
+3. Utilize Flask's request object for handling HTMX requests
+4. Use Flask-Migrate for database migrations
+5. Implement proper error handling and logging
+6. Follow Flask's application factory pattern
+7. Use environment variables for configuration
+`;

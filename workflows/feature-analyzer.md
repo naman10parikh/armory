@@ -1,14 +1,26 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
-name: feature-analyzer
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/orchestration/feature-analyzer.md
-license: MIT
+description: "Turn ideas into fully formed designs and specs through natural collaborative dialogue. Use before implementing new features or making significant changes."
+argument-hint: Optional feature description
+allowed-tools: Read, Write, Grep, Glob, Bash, TodoWrite, AskUserQuestion, Skill, Task
 ---
-# feature-analyzer
 
-Turn ideas into fully formed designs and specs through natural collaborative dialogue. Use before implementing new features or making significant changes.
+## Phase 1: Discovery
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/orchestration/feature-analyzer.md
+**Goal**: Understand what needs to be built
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/feature-analyzer.md`.
+Initial request: $ARGUMENTS
+
+**Actions**:
+1. Create todo list with all phases
+2. If feature unclear, ask user for:
+   - What problem are they solving?
+   - What should the feature do?
+   - Any constraints or requirements?
+3. Summarize understanding and confirm with user
+
+---
+
+## Phase 2: Run with Feature Analyzer Skill
+
+Use the Skill tool to invoke the "feature-design-assistant" skill and follow its complete process.

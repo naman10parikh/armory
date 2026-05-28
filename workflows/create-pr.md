@@ -1,14 +1,20 @@
----
-name: create-pr
-type: workflows
-source_repo: toyamarinyon/giselle
-source_url: https://github.com/toyamarinyon/giselle/blob/main/.claude/commands/create-pr.md
-license: Apache-2.0
----
-# create-pr
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
+# Create Pull Request Command
 
-Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.
+Create a new branch, commit changes, and submit a pull request.
 
-**Source:** https://github.com/toyamarinyon/giselle/blob/main/.claude/commands/create-pr.md
+## Behavior
+- Creates a new branch based on current changes
+- Formats modified files using Biome
+- Analyzes changes and automatically splits into logical commits when appropriate
+- Each commit focuses on a single logical change or feature
+- Creates descriptive commit messages for each logical unit
+- Pushes branch to remote
+- Creates pull request with proper summary and test plan
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/create-pr.md`.
+## Guidelines for Automatic Commit Splitting
+- Split commits by feature, component, or concern
+- Keep related file changes together in the same commit
+- Separate refactoring from feature additions
+- Ensure each commit can be understood independently
+- Multiple unrelated changes should be split into separate commits

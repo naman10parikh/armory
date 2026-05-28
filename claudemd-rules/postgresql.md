@@ -1,14 +1,45 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: postgresql
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/postgresql.mdc
-license: CC0-1.0
+description: "PostgreSQL production rules. Safe migrations, parameterized queries, TIMESTAMPTZ, proper indexing strategy."
+globs: **/*.sql, **/migrations/**/*.sql, **/schema.sql, **/seed.sql
+alwaysApply: false
 ---
-# postgresql
+# PostgreSQL Rules
 
-PostgreSQL production rules. Safe migrations, parameterized queries, TIMESTAMPTZ, proper indexing strategy.
+Expert PostgreSQL developer. Safe migrations, parameterized queries, proper indexing.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/postgresql.mdc
+## Schema
+- TIMESTAMPTZ for all timestamps (not TIMESTAMP without timezone)
+- UUID for public IDs, BIGSERIAL for internal keys
+- NOT NULL by default — nullable only when intentional
+- FK with explicit ON DELETE behavior
+- Check constraints for domain invariants
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/postgresql.md`.
+## Queries
+- Parameterized always — never string interpolation
+- SELECT explicit columns, never SELECT *
+- LIMIT on all potentially large result sets
+- EXPLAIN ANALYZE before shipping complex queries
+
+## Indexes
+- Index every FK column
+- CREATE INDEX CONCURRENTLY for live tables (non-blocking)
+- Partial indexes for frequently filtered subsets
+- Remove unused indexes
+
+## Migrations
+- Versioned files: V001__create_table.sql
+- Large column additions: multi-step with backfill
+- Test rollback before deploying
+
+## Transactions
+- Explicit BEGIN/COMMIT for multi-statement changes
+- statement_timeout to prevent runaway queries
+- SELECT ... FOR UPDATE for row locking
+
+## Forbidden
+- No SELECT *
+- No string-interpolated SQL
+- No schema changes during peak traffic
+- No plaintext passwords in DB
+- No TRUNCATE in app code

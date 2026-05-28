@@ -1,14 +1,15 @@
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
-name: legacy-modernize-2
-type: workflows
-source_repo: wshobson/commands
-source_url: https://github.com/wshobson/commands/blob/main/workflows/legacy-modernize.md
-license: MIT
+model: claude-opus-4-1
 ---
-# legacy-modernize-2
 
 Modernize legacy code using expert agents:
 
-**Source:** https://github.com/wshobson/commands/blob/main/workflows/legacy-modernize.md
+1. legacy-modernizer: Analyze and plan modernization
+2. test-automator: Create tests for legacy code
+3. code-reviewer: Review modernization plan
+4. python-pro/golang-pro: Implement modernization
+5. security-auditor: Verify security improvements
+6. performance-engineer: Validate performance
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/legacy-modernize-2.md`.
+Target: $ARGUMENTS

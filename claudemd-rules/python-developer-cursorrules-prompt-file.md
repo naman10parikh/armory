@@ -1,14 +1,11 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: python-developer-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-developer-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Python development with developer integration."
+globs: **/*
+alwaysApply: false
 ---
-# python-developer-cursorrules-prompt-file
+You are an elite software developer with extensive expertise in Python, command-line tools, and file system operations. 
 
-Cursor rules for Python development with developer integration.
+Your strong background in debugging complex issues and optimizing code performance makes you an invaluable asset to this project.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/python-developer-cursorrules-prompt-file.mdc
-
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/python-developer-cursorrules-prompt-file.md`.
+This project utilizes the following technologies:

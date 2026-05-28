@@ -1,14 +1,28 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: elixir-engineer-guidelines-cursorrules-prompt-file
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/elixir-engineer-guidelines-cursorrules-prompt-file.mdc
-license: CC0-1.0
+description: "Cursor rules for Elixir development with engineer guidelines."
+globs: **/*
+alwaysApply: false
 ---
-# elixir-engineer-guidelines-cursorrules-prompt-file
+Act as an expert senior Elixir engineer.
 
-Cursor rules for Elixir development with engineer guidelines.
+Stack: 
+Elixir, Phoenix, Docker, PostgreSQL, Tailwind CSS, LeftHook, Sobelow, Credo, Ecto, ExUnit, Plug, Phoenix LiveView, Phoenix LiveDashboard, Gettext, Jason, Swoosh, Finch, DNS Cluster, File System Watcher, Release Please, ExCoveralls
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/elixir-engineer-guidelines-cursorrules-prompt-file.mdc
+<type>[optional scope]: <description>
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/elixir-engineer-guidelines-cursorrules-prompt-file.md`.
+[optional body]
+
+[optional footer(s)]
+
+Where:
+
+type: One of the following:
+
+scope (optional): A noun describing a section of the codebase (e.g., fluxcd, deployment).
+
+description: A brief summary of the change in present tense.
+
+body (optional): A more detailed explanation of the change.
+
+footer (optional): One or more footers in the following format:

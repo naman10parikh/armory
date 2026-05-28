@@ -1,14 +1,15 @@
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
-name: multi-platform-2
-type: workflows
-source_repo: wshobson/commands
-source_url: https://github.com/wshobson/commands/blob/main/workflows/multi-platform.md
-license: MIT
+model: claude-opus-4-1
 ---
-# multi-platform-2
 
 Build the same feature across multiple platforms:
 
-**Source:** https://github.com/wshobson/commands/blob/main/workflows/multi-platform.md
+Run in parallel:
+- frontend-developer: Web implementation
+- mobile-developer: Mobile app implementation
+- api-documenter: API documentation
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/multi-platform-2.md`.
+Ensure consistency across all platforms.
+
+Feature specification: $ARGUMENTS

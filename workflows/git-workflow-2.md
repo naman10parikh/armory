@@ -1,14 +1,14 @@
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
-name: git-workflow-2
-type: workflows
-source_repo: wshobson/commands
-source_url: https://github.com/wshobson/commands/blob/main/workflows/git-workflow.md
-license: MIT
+model: claude-opus-4-1
 ---
-# git-workflow-2
 
 Complete Git workflow using specialized agents:
 
-**Source:** https://github.com/wshobson/commands/blob/main/workflows/git-workflow.md
+1. code-reviewer: Review uncommitted changes
+2. test-automator: Ensure tests pass
+3. deployment-engineer: Verify deployment readiness
+4. Create commit message following conventions
+5. Push and create PR with proper description
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/git-workflow-2.md`.
+Target branch: $ARGUMENTS

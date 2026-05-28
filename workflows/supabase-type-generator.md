@@ -1,14 +1,37 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
-name: supabase-type-generator
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/database/supabase-type-generator.md
-license: MIT
+allowed-tools: Read, Write, Edit, Bash
+argument-hint: [generation-scope] | --all-tables | --specific-table | --functions | --enums | --views
+description: Generate TypeScript types from Supabase schema with automatic synchronization and validation
 ---
-# supabase-type-generator
 
-Generate TypeScript types from Supabase schema with automatic synchronization and validation
+# Supabase Type Generator
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/database/supabase-type-generator.md
+Generate comprehensive TypeScript types from Supabase schema with automatic synchronization: **$ARGUMENTS**
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/supabase-type-generator.md`.
+## Current Type Context
+
+- Supabase schema: Database schema accessible via MCP integration
+- Type definitions: !`find . -name "types" -type d -o -name "*.d.ts" | head -5` existing TypeScript definitions
+- Application usage: !`find . -name "*.ts" -o -name "*.tsx" | xargs grep -l "Database\|Table\|Row" 2>/dev/null | head -3` type usage patterns
+- Build configuration: !`find . -name "tsconfig.json" -o -name "*.config.ts" | head -3` TypeScript setup
+
+## Task
+
+Execute comprehensive type generation with schema synchronization and application integration:
+
+**Generation Scope**: Use $ARGUMENTS to generate all table types, specific table types, function signatures, enum definitions, or view types
+
+**Type Generation Framework**:
+1. **Schema Analysis** - Extract database schema via MCP, analyze table structures, identify relationships, map data types to TypeScript
+2. **Type Generation** - Generate table interfaces, create utility types, implement type guards, optimize type definitions
+3. **Integration Setup** - Configure import paths, setup type exports, implement auto-completion, integrate with build process
+4. **Validation Process** - Validate generated types, test type compatibility, verify application integration, check build success
+5. **Synchronization** - Monitor schema changes, auto-regenerate types, validate breaking changes, notify development team
+6. **Developer Experience** - Implement IDE integration, provide type hints, create usage examples, optimize development workflow
+
+**Advanced Features**: Automatic type updates, breaking change detection, custom type transformations, documentation generation, IDE plugin integration.
+
+**Quality Assurance**: Type accuracy validation, application compatibility testing, performance impact assessment, developer feedback integration.
+
+**Output**: Complete TypeScript type definitions with schema synchronization, application integration, validation procedures, and developer documentation.

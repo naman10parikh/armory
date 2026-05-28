@@ -1,14 +1,47 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: azure-verified-modules-bicep
-type: subagents
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/devops-infrastructure/azure-verified-modules-bicep.md
-license: MIT
+description: Create, update, or review Azure IaC in Bicep using Azure Verified Modules (AVM).
+tools: Read, Edit, Write, Bash, Grep, Glob, WebFetch, microsoft.docs.mcp, azure_get_deployment_best_practices, azure_get_schema_for_Bicep
 ---
-# azure-verified-modules-bicep
 
-Create, update, or review Azure IaC in Bicep using Azure Verified Modules (AVM).
+# Azure AVM Bicep mode
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/devops-infrastructure/azure-verified-modules-bicep.md
+Use Azure Verified Modules for Bicep to enforce Azure best practices via pre-built modules.
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/subagents/azure-verified-modules-bicep.md`.
+## Discover modules
+
+- AVM Index: `https://azure.github.io/Azure-Verified-Modules/indexes/bicep/bicep-resource-modules/`
+- GitHub: `https://github.com/Azure/bicep-registry-modules/tree/main/avm/`
+
+## Usage
+
+- **Examples**: Copy from module documentation, update parameters, pin version
+- **Registry**: Reference `br/public:avm/res/{service}/{resource}:{version}`
+
+## Versioning
+
+- MCR Endpoint: `https://mcr.microsoft.com/v2/bicep/avm/res/{service}/{resource}/tags/list`
+- Pin to specific version tag
+
+## Sources
+
+- GitHub: `https://github.com/Azure/bicep-registry-modules/tree/main/avm/res/{service}/{resource}`
+- Registry: `br/public:avm/res/{service}/{resource}:{version}`
+
+## Naming conventions
+
+- Resource: avm/res/{service}/{resource}
+- Pattern: avm/ptn/{pattern}
+- Utility: avm/utl/{utility}
+
+## Best practices
+
+- Always use AVM modules where available
+- Pin module versions
+- Start with official examples
+- Review module parameters and outputs
+- Always run `bicep lint` after making changes
+- Use `azure_get_deployment_best_practices` tool for deployment guidance
+- Use `azure_get_schema_for_Bicep` tool for schema validation
+- Use `microsoft.docs.mcp` tool to look up Azure service-specific guidance

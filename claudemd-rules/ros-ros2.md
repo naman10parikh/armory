@@ -1,14 +1,45 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: ros-ros2
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/ros-ros2.mdc
-license: CC0-1.0
+description: ROS and ROS2 rules for packages, nodes, launch files, messages, services, actions, simulation, and testing
+globs: ["**/*.py", "**/*.cpp", "**/*.hpp", "**/*.h", "package.xml", "CMakeLists.txt", "**/*.launch.py", "**/*.msg", "**/*.srv", "**/*.action", "**/*.urdf", "**/*.xacro"]
+alwaysApply: false
 ---
-# ros-ros2
 
-ROS and ROS2 rules for packages, nodes, launch files, messages, services, actions, simulation, and testing
+# ROS and ROS2 Rules
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/ros-ros2.mdc
+## Package Structure
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/ros-ros2.md`.
+- Keep packages focused on one robot capability or integration boundary.
+- Use `package.xml` and `CMakeLists.txt` or `setup.py` consistently with the package type.
+- Keep launch files under `launch/`, configs under `config/`, messages under `msg/`, services under `srv/`, and actions under `action/`.
+- Use namespaces and remapping instead of hardcoded topic names when nodes may be reused.
+
+## Nodes and Interfaces
+
+- Keep nodes small and composable.
+- Use parameters for tunable behavior; declare ROS2 parameters explicitly.
+- Prefer messages for state streams, services for quick request/response operations, and actions for long-running goals with feedback.
+- Use standard message types before creating custom interfaces.
+- Document topic, service, action, frame, and parameter contracts.
+
+## Timing and Frames
+
+- Use ROS time when simulation or bag replay matters.
+- Use `tf2` for frame transforms and document frame names.
+- Avoid blocking callbacks; move long work to timers, worker threads, or actions.
+- Set QoS profiles intentionally for sensor data, latched-like config, and reliable command paths.
+
+## Build and Test
+
+- Use `colcon build` and keep package dependencies explicit.
+- Run linters and formatters used by the workspace.
+- Add launch tests or integration tests for multi-node behavior.
+- Use simulation, bags, or recorded fixtures for repeatable sensor scenarios.
+- Test failure cases such as missing transforms, stale sensor data, and unavailable services.
+
+## Common Mistakes
+
+- Do not hardcode absolute paths; use package share directories.
+- Do not publish commands without validating frame, units, and timestamp assumptions.
+- Do not create custom messages when a standard message fits.
+- Do not ignore QoS mismatches between publishers and subscribers.

@@ -1,14 +1,37 @@
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
-name: setup-formatting
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/setup/setup-formatting.md
-license: MIT
+allowed-tools: Read, Write, Edit, Bash
+argument-hint: [language] | --javascript | --typescript | --python | --multi-language
+description: Configure comprehensive code formatting tools with consistent style enforcement
 ---
-# setup-formatting
 
-Configure comprehensive code formatting tools with consistent style enforcement
+# Setup Code Formatting
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/setup/setup-formatting.md
+Configure comprehensive code formatting with consistent style enforcement: **$ARGUMENTS**
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/setup-formatting.md`.
+## Current Project State
+
+- Languages detected: !`find . -name "*.js" -o -name "*.ts" -o -name "*.py" -o -name "*.rs" | head -5`
+- Existing formatters: @.prettierrc or @pyproject.toml or @rustfmt.toml
+- Package manager: @package.json or @requirements.txt or @Cargo.toml
+- IDE config: @.vscode/settings.json or @.editorconfig
+
+## Task
+
+Setup comprehensive code formatting system with automated enforcement and team consistency:
+
+**Language Focus**: Use $ARGUMENTS to configure JavaScript/TypeScript, Python, Rust, or multi-language formatting
+
+**Formatting Setup**:
+1. **Tool Installation** - Prettier, Black, rustfmt, language-specific formatters and plugins
+2. **Configuration** - Style rules, line length, indentation, quotes, trailing commas, language-specific options
+3. **IDE Integration** - Editor extensions, format-on-save, keyboard shortcuts, workspace settings
+4. **Automation** - Pre-commit hooks, CI/CD formatting checks, automated formatting scripts
+5. **Team Sync** - Shared configurations, style guides, enforcement policies, onboarding documentation
+6. **Validation** - Formatting verification, CI integration, team compliance monitoring
+
+**Advanced Features**: Custom rules, framework-specific formatting, performance optimization, incremental formatting.
+
+**Consistency**: Cross-platform compatibility, team standardization, legacy code migration strategies.
+
+**Output**: Complete formatting system with automated enforcement, team configurations, and style compliance monitoring.

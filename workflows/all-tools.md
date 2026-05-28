@@ -1,14 +1,32 @@
----
-name: all-tools
-type: workflows
-source_repo: davila7/claude-code-templates
-source_url: https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/utilities/all-tools.md
-license: MIT
----
-# all-tools
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
+# Display All Available Development Tools
 
 Display all available development tools
 
-**Source:** https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/commands/utilities/all-tools.md
+*Command originally created by IndyDevDan (YouTube: https://www.youtube.com/@indydevdan) / DislerH (GitHub: https://github.com/disler)*
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/workflows/all-tools.md`.
+## Instructions
+
+Display all available tools from your system prompt in the following format:
+
+1. **List each tool** with its TypeScript function signature
+2. **Include the purpose** of each tool as a suffix
+3. **Use double line breaks** between tools for readability
+4. **Format as bullet points** for clear organization
+
+The output should help developers understand:
+- What tools are available in the current Claude Code session
+- The exact function signatures for reference
+- The primary purpose of each tool
+
+Example format:
+```typescript
+• functionName(parameters: Type): ReturnType - Purpose of the tool
+
+• anotherFunction(params: ParamType): ResultType - What this tool does
+```
+
+This command is useful for:
+- Quick reference of available capabilities
+- Understanding tool signatures
+- Planning which tools to use for specific tasks

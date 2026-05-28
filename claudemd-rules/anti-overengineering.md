@@ -1,14 +1,13 @@
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
-name: anti-overengineering
-type: claudemd-rules
-source_repo: PatrickJS/awesome-cursorrules
-source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/anti-overengineering.mdc
-license: CC0-1.0
+description: "Prevent AI over-engineering by keeping changes scoped, simple, and directly tied to the user's request"
+globs: ["**/*"]
+alwaysApply: false
 ---
-# anti-overengineering
+# Anti-Over-Engineering
 
-Prevent AI over-engineering by keeping changes scoped, simple, and directly tied to the user's request
+Only change what was asked. Simplest solution first. When unsure, ask.
 
-**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/anti-overengineering.mdc
+Do not modify unrequested code, add abstractions without a concrete need, import unnecessary dependencies, rewrite entire files for small changes, or add error handling for impossible scenarios.
 
-> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/anti-overengineering.md`.
+Before delivery: verify you only changed requested code, check for simpler approaches, confirm no unrequested files were touched.
