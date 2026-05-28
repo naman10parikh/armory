@@ -62,7 +62,7 @@ Curated lists get starred and forgotten in a browser tab. Armory is built to be 
 - 🤖 **Agents read it** — your coding agent pulls the right component straight into its harness.
 - 🔎 **Agents query it** — the Armory MCP server, the `armory` CLI, and the search site all read one generated `catalog.json`.
 - 🛠️ **Agents install from it** — `armory install <name>` *fetches the real thing* (via `gh`/git) and drops it into whatever harness you're in.
-- ♻️ **Agents improve it** — it self-evolves: crawl new sources, re-verify, score, prune. The armory restocks itself.
+- ♻️ **Agents improve it** — it self-evolves nightly ([`autolab.yml`](./.github/workflows/autolab.yml), a remote cron — no laptop needed). `claude -p` discovers new sources (Darwin [DSIP](./dsip.json) Performance-Novelty selection); every candidate passes the [Hamel test-gate](./ingest/test-gate.mjs) — functional + behavioral — *before* it enters, so skills can't drift or go stale. Then dedup → validate → commit. The armory restocks itself.
 
 ## Gear up — the CLI is a package manager for harnesses
 
