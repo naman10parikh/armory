@@ -8,7 +8,7 @@ source_url: https://docfork.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2782
+stars: 2745
 eval_score: null
 verified_at: 2026-05-27
 related: []

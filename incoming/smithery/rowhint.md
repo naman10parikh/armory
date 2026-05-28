@@ -8,7 +8,7 @@ source_url: https://rowhint.com/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1028
+stars: 1034
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/janmacher02-xl8y/czech-vat-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 950
+stars: 542
 eval_score: null
 verified_at: 2026-05-27
 related: []

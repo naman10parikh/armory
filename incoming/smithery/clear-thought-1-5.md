@@ -8,7 +8,7 @@ source_url: https://waldzellai.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3728
+stars: 3289
 eval_score: null
 verified_at: 2026-05-27
 related: []

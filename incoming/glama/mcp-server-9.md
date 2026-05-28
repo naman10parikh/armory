@@ -2,10 +2,10 @@
 name: mcp-server-9
 type: mcps
 description: >
-  A secure Model Context Protocol server providing HTTP endpoints for AI agent tool execution, including file system operations, shell commands, and LLM-based code generation.
-source_repo: sdirishguy/mcp_server_project
-source_url: https://github.com/sdirishguy/mcp_server_project
-license: unknown
+  A robust server implementing the Model Context Protocol with SSE and STDIO transport, enabling real-time communication and extensible tooling for AI models.
+source_repo: kattatzu-resources/mcp-server
+source_url: https://github.com/kattatzu-resources/mcp-server
+license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-A secure Model Context Protocol server providing HTTP endpoints for AI agent tool execution, including file system operations, shell commands, and LLM-based code generation.
+A robust server implementing the Model Context Protocol with SSE and STDIO transport, enabling real-time communication and extensible tooling for AI models.
 
 ## When to use it
-A secure Model Context Protocol server providing HTTP endpoints for AI agent tool execution, including file system operations, shell commands, and LLM-based code generation.
+A robust server implementing the Model Context Protocol with SSE and STDIO transport, enabling real-time communication and extensible tooling for AI models.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/zj5x30yzn8) for the install config.
+See [Glama](https://glama.ai/mcp/servers/t65oqll9js) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -8,7 +8,7 @@ source_url: https://woogoro.com/roofing-quote-analyzer.html
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 737
+stars: 739
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://metricsign.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1646
+stars: 1643
 eval_score: null
 verified_at: 2026-05-27
 related: []

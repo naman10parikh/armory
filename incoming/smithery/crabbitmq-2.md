@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/crabbitmq/crabbit-mq
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 415
+stars: 418
 eval_score: null
 verified_at: 2026-05-27
 related: []

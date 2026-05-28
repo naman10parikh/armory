@@ -2,10 +2,10 @@
 name: mcp-server-7
 type: mcps
 description: >
-  A robust server implementing the Model Context Protocol with SSE and STDIO transport, enabling real-time communication and extensible tooling for AI models.
-source_repo: kattatzu-resources/mcp-server
-source_url: https://github.com/kattatzu-resources/mcp-server
-license: MIT License
+  Enables querying Crunchbase company data through Claude Desktop using natural language, with Bright Data for data retrieval.
+source_repo: ThomasJanssen-tech/MCP_Server
+source_url: https://github.com/ThomasJanssen-tech/MCP_Server
+license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-A robust server implementing the Model Context Protocol with SSE and STDIO transport, enabling real-time communication and extensible tooling for AI models.
+Enables querying Crunchbase company data through Claude Desktop using natural language, with Bright Data for data retrieval.
 
 ## When to use it
-A robust server implementing the Model Context Protocol with SSE and STDIO transport, enabling real-time communication and extensible tooling for AI models.
+Enables querying Crunchbase company data through Claude Desktop using natural language, with Bright Data for data retrieval.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/t65oqll9js) for the install config.
+See [Glama](https://glama.ai/mcp/servers/g7bp3a3b04) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

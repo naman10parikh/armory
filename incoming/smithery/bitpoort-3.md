@@ -8,7 +8,7 @@ source_url: https://bitpoort.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 864
+stars: 862
 eval_score: null
 verified_at: 2026-05-27
 related: []

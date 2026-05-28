@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/OEvortex/ddg_search
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2929
+stars: 2667
 eval_score: null
 verified_at: 2026-05-27
 related: []

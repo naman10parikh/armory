@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/ahmed2real/thinkzone
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1145
+stars: 1067
 eval_score: null
 verified_at: 2026-05-27
 related: []

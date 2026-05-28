@@ -8,7 +8,7 @@ source_url: https://jobsbase.io
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4257
+stars: 4225
 eval_score: null
 verified_at: 2026-05-27
 related: []

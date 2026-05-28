@@ -2,9 +2,9 @@
 name: bitbucket-server-mcp
 type: mcps
 description: >
-  Connects AI assistants to Bitbucket Server/Data Center for reviewing pull requests, managing repositories, searching users, and more.
-source_repo: evrimalacan/mcp-bitbucket-server
-source_url: https://github.com/evrimalacan/mcp-bitbucket-server
+  An MCP server for Atlassian Bitbucket Server / Data Center, providing 66 tools for managing projects, repositories, branches, files, commits, pull requests, and code search with opt-in deletion operations.
+source_repo: ManpreetShuann/bitbucket-server-mcp
+source_url: https://github.com/ManpreetShuann/bitbucket-server-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Connects AI assistants to Bitbucket Server/Data Center for reviewing pull requests, managing repositories, searching users, and more.
+An MCP server for Atlassian Bitbucket Server / Data Center, providing 66 tools for managing projects, repositories, branches, files, commits, pull requests, and code search with opt-in deletion operations.
 
 ## When to use it
-Connects AI assistants to Bitbucket Server/Data Center for reviewing pull requests, managing repositories, searching users, and more.
+An MCP server for Atlassian Bitbucket Server / Data Center, providing 66 tools for managing projects, repositories, branches, files, commits, pull requests, and code search with opt-in deletion operations.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/mx3fokxqwv) for the install config.
+See [Glama](https://glama.ai/mcp/servers/s51f1m1scx) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

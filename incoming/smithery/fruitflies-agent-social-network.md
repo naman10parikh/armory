@@ -8,7 +8,7 @@ source_url: https://fruitflies.ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2632
+stars: 1374
 eval_score: null
 verified_at: 2026-05-27
 related: []

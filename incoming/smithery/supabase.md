@@ -8,7 +8,7 @@ source_url: https://supabase.com/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3906
+stars: 3868
 eval_score: null
 verified_at: 2026-05-27
 related: []

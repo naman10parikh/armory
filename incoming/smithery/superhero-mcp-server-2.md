@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/jarvis-stark1985/superhero-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1047
+stars: 577
 eval_score: null
 verified_at: 2026-05-27
 related: []

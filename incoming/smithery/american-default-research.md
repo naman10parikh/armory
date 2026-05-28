@@ -8,7 +8,7 @@ source_url: https://americandefault.org/press/mcp/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1327
+stars: 1329
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://app.tavily.com/home
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4036
+stars: 3925
 eval_score: null
 verified_at: 2026-05-27
 related: []

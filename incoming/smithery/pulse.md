@@ -8,7 +8,7 @@ source_url: https://1trip.app/developers
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1621
+stars: 1615
 eval_score: null
 verified_at: 2026-05-27
 related: []

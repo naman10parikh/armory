@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/koreafintech/korean-crypto-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 474
+stars: 444
 eval_score: null
 verified_at: 2026-05-27
 related: []

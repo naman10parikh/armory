@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/aws/docs
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 437
+stars: 380
 eval_score: null
 verified_at: 2026-05-27
 related: []

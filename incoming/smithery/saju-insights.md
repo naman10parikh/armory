@@ -8,7 +8,7 @@ source_url: https://github.com/hjsh200219/fortuneteller
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5715
+stars: 5271
 eval_score: null
 verified_at: 2026-05-27
 related: []

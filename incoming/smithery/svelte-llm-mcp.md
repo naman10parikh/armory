@@ -8,7 +8,7 @@ source_url: https://svelte-llm.stanislav.garden
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 421
+stars: 273
 eval_score: null
 verified_at: 2026-05-27
 related: []

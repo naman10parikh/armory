@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/intake-triage/steadyfetch
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 966
+stars: 975
 eval_score: null
 verified_at: 2026-05-27
 related: []

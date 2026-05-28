@@ -8,7 +8,7 @@ source_url: https://supericons.dev
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1916
+stars: 1931
 eval_score: null
 verified_at: 2026-05-27
 related: []

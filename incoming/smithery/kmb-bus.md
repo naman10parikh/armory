@@ -8,7 +8,7 @@ source_url: https://data.etabus.gov.hk/documentation/overview
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5200
+stars: 5224
 eval_score: null
 verified_at: 2026-05-27
 related: []

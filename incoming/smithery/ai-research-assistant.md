@@ -8,7 +8,7 @@ source_url: http://lit-review-assistant.streamlit.app
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24605
+stars: 24344
 eval_score: null
 verified_at: 2026-05-27
 related: []

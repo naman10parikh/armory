@@ -2,10 +2,10 @@
 name: meshy-mcp-server
 type: mcps
 description: >
-  Enables AI agents to create, manage, and download 3D models, textures, images, rigged characters, and animations through natural conversation.
-source_repo: meshy-dev/meshy-mcp-server
-source_url: https://github.com/meshy-dev/meshy-mcp-server
-license: unknown
+  Enables AI assistants to generate 3D models, textures, and images via the Meshy API using natural language, supporting text-to-3D, image-to-3D, remeshing, retexturing, rigging, and animation workflows.
+source_repo: gwizards/meshy-mcp-server
+source_url: https://github.com/gwizards/meshy-mcp-server
+license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Enables AI agents to create, manage, and download 3D models, textures, images, rigged characters, and animations through natural conversation.
+Enables AI assistants to generate 3D models, textures, and images via the Meshy API using natural language, supporting text-to-3D, image-to-3D, remeshing, retexturing, rigging, and animation workflows.
 
 ## When to use it
-Enables AI agents to create, manage, and download 3D models, textures, images, rigged characters, and animations through natural conversation.
+Enables AI assistants to generate 3D models, textures, and images via the Meshy API using natural language, supporting text-to-3D, image-to-3D, remeshing, retexturing, rigging, and animation workflows.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/cdcmxna1g8) for the install config.
+See [Glama](https://glama.ai/mcp/servers/uky0nri0gn) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

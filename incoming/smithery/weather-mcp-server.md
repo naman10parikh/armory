@@ -8,7 +8,7 @@ source_url: https://github.com/isdaniel/mcp_weather_server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5745
+stars: 5284
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -2,10 +2,10 @@
 name: jira-mcp-server
 type: mcps
 description: >
-  An MCP server for integrating with Jira Server instances, enabling natural language interactions to create, update, search, and manage issues and comments.
-source_repo: AlexVulaj/jira-mcp-server
-source_url: https://github.com/AlexVulaj/jira-mcp-server
-license: MIT License
+  Enables AI agents to manage Jira projects and issues using natural language, including creating, updating, searching issues, managing sprints, and more via the Jira API.
+source_repo: BillNobill/jira-mcp-server
+source_url: https://github.com/BillNobill/jira-mcp-server
+license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-An MCP server for integrating with Jira Server instances, enabling natural language interactions to create, update, search, and manage issues and comments.
+Enables AI agents to manage Jira projects and issues using natural language, including creating, updating, searching issues, managing sprints, and more via the Jira API.
 
 ## When to use it
-An MCP server for integrating with Jira Server instances, enabling natural language interactions to create, update, search, and manage issues and comments.
+Enables AI agents to manage Jira projects and issues using natural language, including creating, updating, searching issues, managing sprints, and more via the Jira API.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/z9690p95ei) for the install config.
+See [Glama](https://glama.ai/mcp/servers/brj0cyxf4f) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

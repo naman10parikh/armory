@@ -8,7 +8,7 @@ source_url: https://brave.com/search/api/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12774
+stars: 12531
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://github.com/node2flow-th/binance-mcp-community
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4106
+stars: 4034
 eval_score: null
 verified_at: 2026-05-27
 related: []

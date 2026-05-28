@@ -8,7 +8,7 @@ source_url: https://github.com/re-rank/UIUX-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3389
+stars: 2482
 eval_score: null
 verified_at: 2026-05-27
 related: []

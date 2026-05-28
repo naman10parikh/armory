@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/outlook
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4839
+stars: 4907
 eval_score: null
 verified_at: 2026-05-27
 related: []

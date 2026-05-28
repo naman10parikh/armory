@@ -2,10 +2,10 @@
 name: mcp-server-3
 type: mcps
 description: >
-  Sets up a Model Context Protocol (MCP) server with FastMCP, allowing LLMs to use prompts, tools, and resources.
-source_repo: mfalcirolli1/mcp-server
-source_url: https://github.com/mfalcirolli1/mcp-server
-license: unknown
+  An MCP server that provides weather and time tools, enabling users to get current time, weather alerts, and forecasts through natural language with Claude Desktop.
+source_repo: czabriskie/mcp-server
+source_url: https://github.com/czabriskie/mcp-server
+license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Sets up a Model Context Protocol (MCP) server with FastMCP, allowing LLMs to use prompts, tools, and resources.
+An MCP server that provides weather and time tools, enabling users to get current time, weather alerts, and forecasts through natural language with Claude Desktop.
 
 ## When to use it
-Sets up a Model Context Protocol (MCP) server with FastMCP, allowing LLMs to use prompts, tools, and resources.
+An MCP server that provides weather and time tools, enabling users to get current time, weather alerts, and forecasts through natural language with Claude Desktop.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/id0y4ynrp2) for the install config.
+See [Glama](https://glama.ai/mcp/servers/z5mp6317vw) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

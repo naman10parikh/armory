@@ -8,7 +8,7 @@ source_url: https://usejobly.xyz
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 484
+stars: 241
 eval_score: null
 verified_at: 2026-05-27
 related: []

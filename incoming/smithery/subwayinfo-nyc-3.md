@@ -8,7 +8,7 @@ source_url: https://subwayinfo.nyc
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1721
+stars: 1720
 eval_score: null
 verified_at: 2026-05-27
 related: []

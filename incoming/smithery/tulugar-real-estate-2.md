@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/jan-krat-kj4q/tulugar-real-estate
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3168
+stars: 2345
 eval_score: null
 verified_at: 2026-05-27
 related: []

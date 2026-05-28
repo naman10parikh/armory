@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/agonzalez/prueba-mcp-seeker
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1364
+stars: 665
 eval_score: null
 verified_at: 2026-05-27
 related: []

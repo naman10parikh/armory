@@ -8,7 +8,7 @@ source_url: https://hugeicons.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22563
+stars: 22501
 eval_score: null
 verified_at: 2026-05-27
 related: []

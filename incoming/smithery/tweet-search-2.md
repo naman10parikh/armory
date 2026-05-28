@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/janwilmake/x-search-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 489
+stars: 482
 eval_score: null
 verified_at: 2026-05-27
 related: []

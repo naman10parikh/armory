@@ -8,7 +8,7 @@ source_url: https://www.greetwell.com/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3538
+stars: 3054
 eval_score: null
 verified_at: 2026-05-27
 related: []

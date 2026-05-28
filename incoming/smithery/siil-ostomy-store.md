@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/hola-ps65/siil-ostomy-store
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1428
+stars: 419
 eval_score: null
 verified_at: 2026-05-27
 related: []

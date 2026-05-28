@@ -8,7 +8,7 @@ source_url: https://sim.aleatoric.systems/#pricing
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1482
+stars: 1467
 eval_score: null
 verified_at: 2026-05-27
 related: []

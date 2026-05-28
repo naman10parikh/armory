@@ -2,9 +2,9 @@
 name: zillow-mcp-server
 type: mcps
 description: >
-  Provides real-time access to Zillow real estate data, enabling property search, details, Zestimates, market trends, and mortgage calculations via natural language.
-source_repo: sap156/zillow-mcp-server
-source_url: https://github.com/sap156/zillow-mcp-server
+  Integrates Zillow real estate data with AI assistants, enabling property search, neighborhood insights, and affordability calculations through natural language.
+source_repo: EmilyThaHuman/zillow-mcp-server
+source_url: https://github.com/EmilyThaHuman/zillow-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Provides real-time access to Zillow real estate data, enabling property search, details, Zestimates, market trends, and mortgage calculations via natural language.
+Integrates Zillow real estate data with AI assistants, enabling property search, neighborhood insights, and affordability calculations through natural language.
 
 ## When to use it
-Provides real-time access to Zillow real estate data, enabling property search, details, Zestimates, market trends, and mortgage calculations via natural language.
+Integrates Zillow real estate data with AI assistants, enabling property search, neighborhood insights, and affordability calculations through natural language.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/s75ffj75vt) for the install config.
+See [Glama](https://glama.ai/mcp/servers/qrnjsq4ben) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

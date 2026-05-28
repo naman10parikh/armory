@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/apteka-health/apteka-cis
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1533
+stars: 1555
 eval_score: null
 verified_at: 2026-05-27
 related: []

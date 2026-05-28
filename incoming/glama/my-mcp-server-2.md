@@ -2,9 +2,9 @@
 name: my-mcp-server-2
 type: mcps
 description: >
-  Demonstrates an MCP server with a vulnerable add tool protected by SonnyLabs prompt injection detection.
-source_repo: SonnyLabs/mcp_server_example
-source_url: https://github.com/SonnyLabs/mcp_server_example
+  A basic MCP server for testing with echo, datetime, and calculator tools.
+source_repo: fran2018-ctrl/npx-mcp
+source_url: https://github.com/fran2018-ctrl/npx-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Demonstrates an MCP server with a vulnerable add tool protected by SonnyLabs prompt injection detection.
+A basic MCP server for testing with echo, datetime, and calculator tools.
 
 ## When to use it
-Demonstrates an MCP server with a vulnerable add tool protected by SonnyLabs prompt injection detection.
+A basic MCP server for testing with echo, datetime, and calculator tools.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/gaziaxbifa) for the install config.
+See [Glama](https://glama.ai/mcp/servers/t0j9e5elzg) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

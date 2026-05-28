@@ -8,7 +8,7 @@ source_url: https://github.com/Nekzus/npm-sentinel-mcp#readme
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3391
+stars: 3380
 eval_score: null
 verified_at: 2026-05-27
 related: []

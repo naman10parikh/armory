@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/aparajithn/agent-utils
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1610
+stars: 1182
 eval_score: null
 verified_at: 2026-05-27
 related: []

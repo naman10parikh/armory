@@ -8,7 +8,7 @@ source_url: https://agentdm.ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 968
+stars: 1164
 eval_score: null
 verified_at: 2026-05-27
 related: []

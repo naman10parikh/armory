@@ -2,9 +2,9 @@
 name: postgresql-mcp-server
 type: mcps
 description: >
-  Exposes PostgreSQL database operations as tools for AI assistants, allowing SQL queries and schema inspection.
-source_repo: Future-Proof-DS/postgres-mcp-server
-source_url: https://github.com/Future-Proof-DS/postgres-mcp-server
+  Enables interaction with PostgreSQL databases through resources, tools, and prompts for data analysis, including listing tables, executing read-only queries, and generating analysis workflows.
+source_repo: CyprianFusi/MCP-server-postgres
+source_url: https://github.com/CyprianFusi/MCP-server-postgres
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Exposes PostgreSQL database operations as tools for AI assistants, allowing SQL queries and schema inspection.
+Enables interaction with PostgreSQL databases through resources, tools, and prompts for data analysis, including listing tables, executing read-only queries, and generating analysis workflows.
 
 ## When to use it
-Exposes PostgreSQL database operations as tools for AI assistants, allowing SQL queries and schema inspection.
+Enables interaction with PostgreSQL databases through resources, tools, and prompts for data analysis, including listing tables, executing read-only queries, and generating analysis workflows.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/kzpxc5nj5e) for the install config.
+See [Glama](https://glama.ai/mcp/servers/kvad8cyzfo) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

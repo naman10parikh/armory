@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/agentidx/zarq-risk
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1370
+stars: 700
 eval_score: null
 verified_at: 2026-05-27
 related: []

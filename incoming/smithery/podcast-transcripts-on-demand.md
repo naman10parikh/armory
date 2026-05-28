@@ -8,7 +8,7 @@ source_url: https://podcasts.petabloom.com/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5338
+stars: 5292
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: http://www.Talnexis.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1419
+stars: 1421
 eval_score: null
 verified_at: 2026-05-27
 related: []

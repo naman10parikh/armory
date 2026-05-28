@@ -8,7 +8,7 @@ source_url: https://bouch.dev/products/govuk-mcp/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2838
+stars: 2833
 eval_score: null
 verified_at: 2026-05-27
 related: []

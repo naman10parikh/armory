@@ -8,7 +8,7 @@ source_url: https://www.huettentouren.org
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1288
+stars: 1283
 eval_score: null
 verified_at: 2026-05-27
 related: []

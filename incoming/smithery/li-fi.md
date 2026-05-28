@@ -8,7 +8,7 @@ source_url: https://docs.li.fi/mcp-server/overview
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 901
+stars: 894
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://seasons.kooexperience.com/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1319
+stars: 1313
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/aparajithn/agent-utils-mcp-new
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1169
+stars: 761
 eval_score: null
 verified_at: 2026-05-27
 related: []

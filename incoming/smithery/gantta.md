@@ -8,7 +8,7 @@ source_url: https://www.gantta.co
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1129
+stars: 254
 eval_score: null
 verified_at: 2026-05-27
 related: []

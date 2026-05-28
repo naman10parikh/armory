@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/ateam-ai/ateam
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 375
+stars: 229
 eval_score: null
 verified_at: 2026-05-27
 related: []

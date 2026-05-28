@@ -2,9 +2,9 @@
 name: mcp-server
 type: mcps
 description: >
-  An MCP server that provides weather and time tools, enabling users to get current time, weather alerts, and forecasts through natural language with Claude Desktop.
-source_repo: czabriskie/mcp-server
-source_url: https://github.com/czabriskie/mcp-server
+  A demonstration MCP server for educational purposes, showcasing how to build and integrate MCP servers with LLM clients like Claude Desktop.
+source_repo: reynaldovieira/mcp-server
+source_url: https://github.com/reynaldovieira/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-An MCP server that provides weather and time tools, enabling users to get current time, weather alerts, and forecasts through natural language with Claude Desktop.
+A demonstration MCP server for educational purposes, showcasing how to build and integrate MCP servers with LLM clients like Claude Desktop.
 
 ## When to use it
-An MCP server that provides weather and time tools, enabling users to get current time, weather alerts, and forecasts through natural language with Claude Desktop.
+A demonstration MCP server for educational purposes, showcasing how to build and integrate MCP servers with LLM clients like Claude Desktop.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/z5mp6317vw) for the install config.
+See [Glama](https://glama.ai/mcp/servers/is6hlvjszi) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

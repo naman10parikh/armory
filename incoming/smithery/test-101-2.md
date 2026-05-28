@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/rahular101/test-101
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 578
+stars: 383
 eval_score: null
 verified_at: 2026-05-27
 related: []

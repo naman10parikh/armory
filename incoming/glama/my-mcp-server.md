@@ -2,10 +2,10 @@
 name: my-mcp-server
 type: mcps
 description: >
-  A minimal starter template for building Model Context Protocol (MCP) servers using TypeScript and FastMCP, including an example weather tool for demonstration.
-source_repo: MarvelNwachukwu/my-mcp-server
-source_url: https://github.com/MarvelNwachukwu/my-mcp-server
-license: ISC License
+  A TypeScript MCP server boilerplate providing example tools and resources for rapid development of custom Model Context Protocol servers.
+source_repo: Gwyn-Ahchoo/my-mcp-server
+source_url: https://github.com/Gwyn-Ahchoo/my-mcp-server
+license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-A minimal starter template for building Model Context Protocol (MCP) servers using TypeScript and FastMCP, including an example weather tool for demonstration.
+A TypeScript MCP server boilerplate providing example tools and resources for rapid development of custom Model Context Protocol servers.
 
 ## When to use it
-A minimal starter template for building Model Context Protocol (MCP) servers using TypeScript and FastMCP, including an example weather tool for demonstration.
+A TypeScript MCP server boilerplate providing example tools and resources for rapid development of custom Model Context Protocol servers.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/d5gdl982yf) for the install config.
+See [Glama](https://glama.ai/mcp/servers/iv9p5a2iqa) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

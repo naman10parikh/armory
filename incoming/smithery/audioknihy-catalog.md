@@ -8,7 +8,7 @@ source_url: https://audioknihy.cz
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1640
+stars: 1623
 eval_score: null
 verified_at: 2026-05-27
 related: []

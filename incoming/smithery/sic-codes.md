@@ -8,7 +8,7 @@ source_url: https://siccodes.co.uk
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2149
+stars: 2171
 eval_score: null
 verified_at: 2026-05-27
 related: []

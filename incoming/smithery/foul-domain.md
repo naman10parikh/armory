@@ -8,7 +8,7 @@ source_url: https://fouldomain.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1260
+stars: 1277
 eval_score: null
 verified_at: 2026-05-27
 related: []

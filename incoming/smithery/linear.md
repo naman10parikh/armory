@@ -8,7 +8,7 @@ source_url: https://linear.app/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2509
+stars: 2429
 eval_score: null
 verified_at: 2026-05-27
 related: []

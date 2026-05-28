@@ -2,10 +2,10 @@
 name: jobspy-mcp-server
 type: mcps
 description: >
-  Enables AI assistants to search for jobs across multiple platforms (Indeed, LinkedIn, Glassdoor, etc.) using the JobSpy tool, with filtering and structured output.
-source_repo: borgius/jobspy-mcp-server
-source_url: https://github.com/borgius/jobspy-mcp-server
-license: unknown
+  Enables job search and scraping across multiple job boards (LinkedIn, Indeed, Glassdoor, etc.) with advanced filtering, directly from Claude Desktop or other MCP clients.
+source_repo: chinpeerapat/jobspy-mcp-server
+source_url: https://github.com/chinpeerapat/jobspy-mcp-server
+license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Enables AI assistants to search for jobs across multiple platforms (Indeed, LinkedIn, Glassdoor, etc.) using the JobSpy tool, with filtering and structured output.
+Enables job search and scraping across multiple job boards (LinkedIn, Indeed, Glassdoor, etc.) with advanced filtering, directly from Claude Desktop or other MCP clients.
 
 ## When to use it
-Enables AI assistants to search for jobs across multiple platforms (Indeed, LinkedIn, Glassdoor, etc.) using the JobSpy tool, with filtering and structured output.
+Enables job search and scraping across multiple job boards (LinkedIn, Indeed, Glassdoor, etc.) with advanced filtering, directly from Claude Desktop or other MCP clients.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/g0nbsr84sb) for the install config.
+See [Glama](https://glama.ai/mcp/servers/mbhzbgn5m5) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -8,7 +8,7 @@ source_url: https://bjj-belt-progress.web.app/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1591
+stars: 1164
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://ecomgraph.com?utm_source=smithery
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1535
+stars: 1553
 eval_score: null
 verified_at: 2026-05-27
 related: []

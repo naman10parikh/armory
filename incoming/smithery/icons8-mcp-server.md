@@ -8,7 +8,7 @@ source_url: https://icons8.com/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2816
+stars: 2773
 eval_score: null
 verified_at: 2026-05-27
 related: []

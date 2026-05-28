@@ -8,7 +8,7 @@ source_url: https://arena.lowlatency.uk/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2229
+stars: 2227
 eval_score: null
 verified_at: 2026-05-27
 related: []

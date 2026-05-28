@@ -8,7 +8,7 @@ source_url: https://theaiagentindex.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2648
+stars: 2211
 eval_score: null
 verified_at: 2026-05-27
 related: []

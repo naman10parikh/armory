@@ -8,7 +8,7 @@ source_url: https://api.contrastcyber.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3664
+stars: 3468
 eval_score: null
 verified_at: 2026-05-27
 related: []

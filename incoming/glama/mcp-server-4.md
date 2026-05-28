@@ -2,9 +2,9 @@
 name: mcp-server-4
 type: mcps
 description: >
-  A simple MCP server that exposes a createUser tool to add users to a local JSON file via stdio transport.
-source_repo: GiftBanda/mcp-server
-source_url: https://github.com/GiftBanda/mcp-server
+  Extends Claude with real-time weather data and product catalog management tools, including forecasts, alerts, CRUD operations for products.
+source_repo: navgour1989/mcp-server
+source_url: https://github.com/navgour1989/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-A simple MCP server that exposes a createUser tool to add users to a local JSON file via stdio transport.
+Extends Claude with real-time weather data and product catalog management tools, including forecasts, alerts, CRUD operations for products.
 
 ## When to use it
-A simple MCP server that exposes a createUser tool to add users to a local JSON file via stdio transport.
+Extends Claude with real-time weather data and product catalog management tools, including forecasts, alerts, CRUD operations for products.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/qyzpywa5v7) for the install config.
+See [Glama](https://glama.ai/mcp/servers/n4hrlxznik) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

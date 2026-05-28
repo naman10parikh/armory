@@ -8,7 +8,7 @@ source_url: https://github.com/zwldarren/akshare-one-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14370
+stars: 14236
 eval_score: null
 verified_at: 2026-05-27
 related: []

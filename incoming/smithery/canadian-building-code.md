@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/davidcho/ca-building-code-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3370
+stars: 2235
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -2,9 +2,9 @@
 name: dynamic-mcp-server
 type: mcps
 description: >
-  A flexible, extensible framework for building MCP servers with API key authentication, user management, and dynamic tool sharing.
-source_repo: scitara-cto/dynamic-mcp-server
-source_url: https://github.com/scitara-cto/dynamic-mcp-server
+  Enables crash dump analysis and kernel debugging by integrating the real crash utility with automatic dump discovery, kernel matching, and session management.
+source_repo: 42Research/dynamic_mcp
+source_url: https://github.com/42Research/dynamic_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-A flexible, extensible framework for building MCP servers with API key authentication, user management, and dynamic tool sharing.
+Enables crash dump analysis and kernel debugging by integrating the real crash utility with automatic dump discovery, kernel matching, and session management.
 
 ## When to use it
-A flexible, extensible framework for building MCP servers with API key authentication, user management, and dynamic tool sharing.
+Enables crash dump analysis and kernel debugging by integrating the real crash utility with automatic dump discovery, kernel matching, and session management.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/jihx7pq25k) for the install config.
+See [Glama](https://glama.ai/mcp/servers/idwfy9i5ye) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -8,7 +8,7 @@ source_url: https://iaeternum.ai/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3631
+stars: 3070
 eval_score: null
 verified_at: 2026-05-27
 related: []

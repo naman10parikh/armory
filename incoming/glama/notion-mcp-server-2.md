@@ -2,10 +2,10 @@
 name: notion-mcp-server-2
 type: mcps
 description: >
-  Enables Claude Desktop to read and create Notion pages with markdown formatting support.
-source_repo: turtleYJ/mcp-server
-source_url: https://github.com/turtleYJ/mcp-server
-license: MIT License
+  Enables interaction with Notion databases and pages via the Notion API. Allows searching, reading, and writing to Notion through natural language.
+source_repo: joonhuang/notion-mcp
+source_url: https://github.com/joonhuang/notion-mcp
+license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Enables Claude Desktop to read and create Notion pages with markdown formatting support.
+Enables interaction with Notion databases and pages via the Notion API. Allows searching, reading, and writing to Notion through natural language.
 
 ## When to use it
-Enables Claude Desktop to read and create Notion pages with markdown formatting support.
+Enables interaction with Notion databases and pages via the Notion API. Allows searching, reading, and writing to Notion through natural language.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/mls1qzecce) for the install config.
+See [Glama](https://glama.ai/mcp/servers/s47xk039p9) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -2,9 +2,9 @@
 name: hyperliquid-mcp
 type: mcps
 description: >
-  Enables AI assistants to securely trade on Hyperliquid perpetual exchange, including order placement, position management, market data retrieval, and vault operations via natural language.
-source_repo: edkdev/hyperliquid-mcp
-source_url: https://github.com/edkdev/hyperliquid-mcp
+  A Model Context Protocol (MCP) server for the Hyperliquid decentralized exchange, enabling AI assistants to perform trading operations, manage accounts, and retrieve market data.
+source_repo: midodimori/hyperliquid-mcp
+source_url: https://github.com/midodimori/hyperliquid-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Enables AI assistants to securely trade on Hyperliquid perpetual exchange, including order placement, position management, market data retrieval, and vault operations via natural language.
+A Model Context Protocol (MCP) server for the Hyperliquid decentralized exchange, enabling AI assistants to perform trading operations, manage accounts, and retrieve market data.
 
 ## When to use it
-Enables AI assistants to securely trade on Hyperliquid perpetual exchange, including order placement, position management, market data retrieval, and vault operations via natural language.
+A Model Context Protocol (MCP) server for the Hyperliquid decentralized exchange, enabling AI assistants to perform trading operations, manage accounts, and retrieve market data.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/ut5tu978zj) for the install config.
+See [Glama](https://glama.ai/mcp/servers/kum7bdash8) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

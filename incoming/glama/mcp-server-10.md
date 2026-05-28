@@ -2,9 +2,9 @@
 name: mcp-server-10
 type: mcps
 description: >
-  A testing environment for Model Context Protocol that enables exploration of MCP capabilities and integration of AI models with external data sources and tools.
-source_repo: vincentdchn/mcp-server
-source_url: https://github.com/vincentdchn/mcp-server
+  A lightweight bridge connecting LLMs to real-world APIs like finance, weather, news, and GitHub through Anthropic's Model Context Protocol, enabling unified access and intelligent query routing.
+source_repo: Rushhaabhhh/MCP-Server
+source_url: https://github.com/Rushhaabhhh/MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-A testing environment for Model Context Protocol that enables exploration of MCP capabilities and integration of AI models with external data sources and tools.
+A lightweight bridge connecting LLMs to real-world APIs like finance, weather, news, and GitHub through Anthropic's Model Context Protocol, enabling unified access and intelligent query routing.
 
 ## When to use it
-A testing environment for Model Context Protocol that enables exploration of MCP capabilities and integration of AI models with external data sources and tools.
+A lightweight bridge connecting LLMs to real-world APIs like finance, weather, news, and GitHub through Anthropic's Model Context Protocol, enabling unified access and intelligent query routing.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/u8aplfb47a) for the install config.
+See [Glama](https://glama.ai/mcp/servers/hytojto33k) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

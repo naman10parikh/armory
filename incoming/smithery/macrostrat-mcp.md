@@ -8,7 +8,7 @@ source_url: https://github.com/blake365/macrostrat-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8663
+stars: 7869
 eval_score: null
 verified_at: 2026-05-27
 related: []

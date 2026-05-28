@@ -8,7 +8,7 @@ source_url: https://docs.metamask.io/embedded-wallets/build-with-ai/
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2067
+stars: 2123
 eval_score: null
 verified_at: 2026-05-27
 related: []

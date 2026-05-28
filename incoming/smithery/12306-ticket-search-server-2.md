@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/DeniseLewis200081/rail
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4323
+stars: 3398
 eval_score: null
 verified_at: 2026-05-27
 related: []

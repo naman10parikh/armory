@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/do-droid/seoul-essentials
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3013
+stars: 2507
 eval_score: null
 verified_at: 2026-05-27
 related: []

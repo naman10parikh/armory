@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/monsterxx03/gospy
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 614
+stars: 493
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/AITutor3/calculator-mcp-test
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1727
+stars: 1401
 eval_score: null
 verified_at: 2026-05-27
 related: []

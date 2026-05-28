@@ -8,7 +8,7 @@ source_url: https://techmavie.digital/mcp-ltadatamallsg
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2718
+stars: 2705
 eval_score: null
 verified_at: 2026-05-27
 related: []

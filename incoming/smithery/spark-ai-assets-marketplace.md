@@ -8,7 +8,7 @@ source_url: https://spark.entire.vc
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1650
+stars: 1250
 eval_score: null
 verified_at: 2026-05-27
 related: []

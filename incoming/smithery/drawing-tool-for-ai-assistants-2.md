@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/flrngel/mcp-painter
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1095
+stars: 1091
 eval_score: null
 verified_at: 2026-05-27
 related: []

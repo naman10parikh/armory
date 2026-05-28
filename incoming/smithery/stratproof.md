@@ -8,7 +8,7 @@ source_url: htts://stratproof.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 985
+stars: 994
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://github.com/linxule/lotus-wisdom-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3181
+stars: 2754
 eval_score: null
 verified_at: 2026-05-27
 related: []

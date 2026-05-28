@@ -2,9 +2,9 @@
 name: mcp-server-12
 type: mcps
 description: >
-  A simple, extensible MCP server implementation for local use with tools like Copilot Chat, enabling context management and protocol-compliant communication.
-source_repo: ynnekF/mcp-server
-source_url: https://github.com/ynnekF/mcp-server
+  A testing environment for Model Context Protocol that enables exploration of MCP capabilities and integration of AI models with external data sources and tools.
+source_repo: vincentdchn/mcp-server
+source_url: https://github.com/vincentdchn/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-A simple, extensible MCP server implementation for local use with tools like Copilot Chat, enabling context management and protocol-compliant communication.
+A testing environment for Model Context Protocol that enables exploration of MCP capabilities and integration of AI models with external data sources and tools.
 
 ## When to use it
-A simple, extensible MCP server implementation for local use with tools like Copilot Chat, enabling context management and protocol-compliant communication.
+A testing environment for Model Context Protocol that enables exploration of MCP capabilities and integration of AI models with external data sources and tools.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/sqakw62ta1) for the install config.
+See [Glama](https://glama.ai/mcp/servers/u8aplfb47a) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

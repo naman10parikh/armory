@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/composio/context7
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 859
+stars: 815
 eval_score: null
 verified_at: 2026-05-27
 related: []

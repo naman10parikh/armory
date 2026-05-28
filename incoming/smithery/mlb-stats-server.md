@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/etweisberg/mlb-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12004
+stars: 11115
 eval_score: null
 verified_at: 2026-05-27
 related: []

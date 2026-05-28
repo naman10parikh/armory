@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/sidharth-5u15/cupshup-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1572
+stars: 1571
 eval_score: null
 verified_at: 2026-05-27
 related: []

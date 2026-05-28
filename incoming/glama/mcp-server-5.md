@@ -2,9 +2,9 @@
 name: mcp-server-5
 type: mcps
 description: >
-  Enables querying Crunchbase company data through Claude Desktop using natural language, with Bright Data for data retrieval.
-source_repo: ThomasJanssen-tech/MCP_Server
-source_url: https://github.com/ThomasJanssen-tech/MCP_Server
+  Sets up a Model Context Protocol (MCP) server with FastMCP, allowing LLMs to use prompts, tools, and resources.
+source_repo: mfalcirolli1/mcp-server
+source_url: https://github.com/mfalcirolli1/mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Enables querying Crunchbase company data through Claude Desktop using natural language, with Bright Data for data retrieval.
+Sets up a Model Context Protocol (MCP) server with FastMCP, allowing LLMs to use prompts, tools, and resources.
 
 ## When to use it
-Enables querying Crunchbase company data through Claude Desktop using natural language, with Bright Data for data retrieval.
+Sets up a Model Context Protocol (MCP) server with FastMCP, allowing LLMs to use prompts, tools, and resources.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/g7bp3a3b04) for the install config.
+See [Glama](https://glama.ai/mcp/servers/id0y4ynrp2) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

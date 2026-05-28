@@ -8,7 +8,7 @@ source_url: https://aidatanorge.no
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2152
+stars: 2163
 eval_score: null
 verified_at: 2026-05-27
 related: []

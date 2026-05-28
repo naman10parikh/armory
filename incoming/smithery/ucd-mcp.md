@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/underground-district/ucd-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3205
+stars: 2683
 eval_score: null
 verified_at: 2026-05-27
 related: []

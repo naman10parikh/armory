@@ -2,10 +2,10 @@
 name: google-search-console-mcp-server
 type: mcps
 description: >
-  Integrates with Google Search Console to enable querying search analytics, comparing performance periods, generating visual reports, and identifying SEO optimization opportunities through natural language.
-source_repo: seotesting-com/gsc-mcp-server
-source_url: https://github.com/seotesting-com/gsc-mcp-server
-license: unknown
+  Enables Claude AI to query Google Search Console data and manage properties via OAuth 2.0 authentication, eliminating the need for API keys.
+source_repo: InovArcAi/google-search-console-mcp-v2
+source_url: https://github.com/InovArcAi/google-search-console-mcp-v2
+license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Integrates with Google Search Console to enable querying search analytics, comparing performance periods, generating visual reports, and identifying SEO optimization opportunities through natural language.
+Enables Claude AI to query Google Search Console data and manage properties via OAuth 2.0 authentication, eliminating the need for API keys.
 
 ## When to use it
-Integrates with Google Search Console to enable querying search analytics, comparing performance periods, generating visual reports, and identifying SEO optimization opportunities through natural language.
+Enables Claude AI to query Google Search Console data and manage properties via OAuth 2.0 authentication, eliminating the need for API keys.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/z3patqy6yk) for the install config.
+See [Glama](https://glama.ai/mcp/servers/g7w89mvog4) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

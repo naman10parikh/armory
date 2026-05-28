@@ -2,9 +2,9 @@
 name: kali-linux-mcp-server
 type: mcps
 description: >
-  Provides Claude Desktop with access to Kali Linux penetration testing tools via a privileged Docker container, enabling network scanning (nmap), web vulnerability scanning (nikto), and custom command execution.
-source_repo: marklechner/kali-mcp-server
-source_url: https://github.com/marklechner/kali-mcp-server
+  Provides secure access to Kali Linux security tools through containerized execution, enabling network scanning, web application testing, and security assessments.
+source_repo: AlessandroAnnini/kali-mcp-server
+source_url: https://github.com/AlessandroAnnini/kali-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Provides Claude Desktop with access to Kali Linux penetration testing tools via a privileged Docker container, enabling network scanning (nmap), web vulnerability scanning (nikto), and custom command execution.
+Provides secure access to Kali Linux security tools through containerized execution, enabling network scanning, web application testing, and security assessments.
 
 ## When to use it
-Provides Claude Desktop with access to Kali Linux penetration testing tools via a privileged Docker container, enabling network scanning (nmap), web vulnerability scanning (nikto), and custom command execution.
+Provides secure access to Kali Linux security tools through containerized execution, enabling network scanning, web application testing, and security assessments.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/i0xx7xfijf) for the install config.
+See [Glama](https://glama.ai/mcp/servers/wcdsh2jwxe) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.

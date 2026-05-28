@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/docfork/docfork
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2307
+stars: 2268
 eval_score: null
 verified_at: 2026-05-27
 related: []

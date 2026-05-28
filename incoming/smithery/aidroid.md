@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/ren89752/aidroid
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 844
+stars: 798
 eval_score: null
 verified_at: 2026-05-27
 related: []

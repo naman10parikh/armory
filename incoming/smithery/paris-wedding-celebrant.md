@@ -8,7 +8,7 @@ source_url: https://pariscelebrant.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 700
+stars: 695
 eval_score: null
 verified_at: 2026-05-27
 related: []

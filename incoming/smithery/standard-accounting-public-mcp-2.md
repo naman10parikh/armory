@@ -8,7 +8,7 @@ source_url: https://www.standardaccounting.co.uk
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3684
+stars: 2577
 eval_score: null
 verified_at: 2026-05-27
 related: []

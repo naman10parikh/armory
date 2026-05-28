@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/seahbk1006/seahboonkeong-chat-opendosm
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4385
+stars: 3430
 eval_score: null
 verified_at: 2026-05-27
 related: []

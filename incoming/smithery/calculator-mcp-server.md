@@ -8,7 +8,7 @@ source_url: https://github.com/cyanheads/calculator-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 406
+stars: 417
 eval_score: null
 verified_at: 2026-05-27
 related: []

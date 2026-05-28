@@ -8,7 +8,7 @@ source_url: ttps://transita.app/mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1842
+stars: 1833
 eval_score: null
 verified_at: 2026-05-27
 related: []

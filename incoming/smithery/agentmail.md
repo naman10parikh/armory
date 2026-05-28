@@ -8,7 +8,7 @@ source_url: https://agentmail.to
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10936
+stars: 10250
 eval_score: null
 verified_at: 2026-05-27
 related: []

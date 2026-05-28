@@ -8,7 +8,7 @@ source_url: https://voidly.ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1655
+stars: 448
 eval_score: null
 verified_at: 2026-05-27
 related: []

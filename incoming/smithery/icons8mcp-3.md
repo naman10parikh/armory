@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/icons8community/icons8mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1362
+stars: 1192
 eval_score: null
 verified_at: 2026-05-27
 related: []

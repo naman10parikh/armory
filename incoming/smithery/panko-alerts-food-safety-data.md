@@ -8,7 +8,7 @@ source_url: https://smithery.ai/servers/alex-kenny-lee-vfjv/panko-food-safety
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4364
+stars: 3676
 eval_score: null
 verified_at: 2026-05-27
 related: []

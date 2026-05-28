@@ -5,7 +5,7 @@ description: >
   Perp-first funding rate & RWA spread data for AI agents. 30+ CEX/DEX venues, 6 tools (4 x402-paywalled, 2 free), bring-your-own-wallet via Base mainnet.
 source_repo: namixai/usenami-mcp
 source_url: https://github.com/namixai/usenami-mcp
-license: unknown
+license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null

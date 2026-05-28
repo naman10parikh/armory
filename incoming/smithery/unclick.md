@@ -8,7 +8,7 @@ source_url: https://unclick.world
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 861
+stars: 1258
 eval_score: null
 verified_at: 2026-05-27
 related: []

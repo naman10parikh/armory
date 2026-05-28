@@ -8,7 +8,7 @@ source_url: https://xkcdforthat.com
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 499
+stars: 506
 eval_score: null
 verified_at: 2026-05-27
 related: []

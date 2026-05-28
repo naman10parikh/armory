@@ -2,10 +2,10 @@
 name: google-search-console-mcp-server-2
 type: mcps
 description: >
-  Provides programmatic access to Google Search Console API data through Claude Code and Cursor, enabling search analytics, sitemap info, URL inspection, and indexing submission.
-source_repo: Shin-sibainu/google-search-console-mcp-server
-source_url: https://github.com/Shin-sibainu/google-search-console-mcp-server
-license: MIT License
+  Integrates with Google Search Console to enable querying search analytics, comparing performance periods, generating visual reports, and identifying SEO optimization opportunities through natural language.
+source_repo: seotesting-com/gsc-mcp-server
+source_url: https://github.com/seotesting-com/gsc-mcp-server
+license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
@@ -15,13 +15,13 @@ related: []
 tags: [glama, mcp]
 ---
 ## What it is
-Provides programmatic access to Google Search Console API data through Claude Code and Cursor, enabling search analytics, sitemap info, URL inspection, and indexing submission.
+Integrates with Google Search Console to enable querying search analytics, comparing performance periods, generating visual reports, and identifying SEO optimization opportunities through natural language.
 
 ## When to use it
-Provides programmatic access to Google Search Console API data through Claude Code and Cursor, enabling search analytics, sitemap info, URL inspection, and indexing submission.
+Integrates with Google Search Console to enable querying search analytics, comparing performance periods, generating visual reports, and identifying SEO optimization opportunities through natural language.
 
 ## How to install / invoke
-See [Glama](https://glama.ai/mcp/servers/qtgjvv1esq) for the install config.
+See [Glama](https://glama.ai/mcp/servers/z3patqy6yk) for the install config.
 
 ## Notes
 Discovered via the Glama MCP registry (live API). Pending verify -> promote.
