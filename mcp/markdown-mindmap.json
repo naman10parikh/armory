@@ -1,0 +1,7 @@
+{
+  "name": "markdown-mindmap",
+  "description": "Transforms Markdown content into interactive HTML-based mind maps using markmap-cli, enabling visual organization of structured information and knowledge representation.",
+  "source_repo": "yuchenssr/mindmap-mcp-server",
+  "source_url": "https://github.com/yuchenssr/mindmap-mcp-server",
+  "install": "npx -y mindmap-mcp-server"
+}

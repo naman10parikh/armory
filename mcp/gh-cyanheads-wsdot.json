@@ -1,0 +1,7 @@
+{
+  "name": "gh-cyanheads-wsdot",
+  "description": "Query Washington State DOT highway conditions, ferries, tolls, and border waits via MCP.",
+  "source_repo": "cyanheads/wsdot-mcp-server",
+  "source_url": "https://github.com/cyanheads/wsdot-mcp-server",
+  "install": "npx -y wsdot-mcp-server"
+}

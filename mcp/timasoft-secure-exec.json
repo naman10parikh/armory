@@ -1,0 +1,7 @@
+{
+  "name": "timasoft-secure-exec",
+  "description": "MCP server for safe, template-based shell command execution with input validation, binary blacklisting, and rate limiting.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/timasoft-secure-exec",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/timasoft-secure-exec\n# See source for mcpServers config block"
+}

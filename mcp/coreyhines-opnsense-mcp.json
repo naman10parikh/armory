@@ -1,0 +1,7 @@
+{
+  "name": "coreyhines-opnsense-mcp",
+  "description": "OPNsense firewall operations via API. Query ARP, DHCP, firewall rules, logs, interfaces, system status, and packet capture via STDIO or SSE.",
+  "source_repo": "coreyhines/opnsense-mcp",
+  "source_url": "https://github.com/coreyhines/opnsense-mcp",
+  "install": "npx -y opnsense-mcp"
+}

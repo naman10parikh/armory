@@ -1,0 +1,7 @@
+{
+  "name": "ryanmazzolini-godot-gdscript-diagnostics",
+  "description": "Connects directly to Godot's Language Server Protocol to provide real-time GDScript syntax validation and error detection without requiring a full Godot installation.",
+  "source_repo": "ryanmazzolini/minimal-godot-mcp",
+  "source_url": "https://github.com/ryanmazzolini/minimal-godot-mcp",
+  "install": "npx -y minimal-godot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-a2a-governance-bridge-mcp",
+  "description": "Compliance verification and governance tools for agent-to-agent transactions.",
+  "source_repo": "csoai-org/a2a-governance-bridge-mcp",
+  "source_url": "https://github.com/csoai-org/a2a-governance-bridge-mcp",
+  "install": "npx -y a2a-governance-bridge-mcp"
+}

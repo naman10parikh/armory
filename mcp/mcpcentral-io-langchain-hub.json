@@ -1,0 +1,7 @@
+{
+  "name": "mcpcentral-io-langchain-hub",
+  "description": "Provides access to LangChain Hub's prompt repository for fetching, searching, and managing community-contributed prompts without manual browsing.",
+  "source_repo": "mcpcentral-io/langchain-prompts-mcp-server",
+  "source_url": "https://github.com/mcpcentral-io/langchain-prompts-mcp-server",
+  "install": "npx -y langchain-prompts-mcp-server"
+}

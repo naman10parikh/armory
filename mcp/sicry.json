@@ -1,0 +1,7 @@
+{
+  "name": "sicry",
+  "description": "Enables AI agents to access Tor hidden services and the dark web through tools for search, fetch, and analysis over Tor.",
+  "source_repo": "JacobJandon/Sicry",
+  "source_url": "https://github.com/JacobJandon/Sicry",
+  "install": "# git clone --depth 1 https://github.com/JacobJandon/Sicry\n# See source for mcpServers config block"
+}

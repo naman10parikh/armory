@@ -1,0 +1,7 @@
+{
+  "name": "gh-berkayderin-nextscan",
+  "description": "Scans Next.js projects and returns a compact summary of routes, API endpoints, schema, and security issues.",
+  "source_repo": "berkayderin/nextscan",
+  "source_url": "https://github.com/berkayderin/nextscan",
+  "install": "# git clone --depth 1 https://github.com/berkayderin/nextscan\n# See source for mcpServers config block"
+}

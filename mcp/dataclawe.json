@@ -1,0 +1,7 @@
+{
+  "name": "dataclawe",
+  "description": "AI-native database utility that translates natural language into SQL for MySQL and PostgreSQL.",
+  "source_repo": "dataclawe/dcl-spec",
+  "source_url": "https://github.com/dataclawe/dcl-spec",
+  "install": "# git clone --depth 1 https://github.com/dataclawe/dcl-spec\n# See source for mcpServers config block"
+}

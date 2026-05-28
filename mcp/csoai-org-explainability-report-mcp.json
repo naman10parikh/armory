@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-explainability-report-mcp",
+  "description": "Tools for generating AI model explainability reports and feature attribution analysis.",
+  "source_repo": "csoai-org/explainability-report-mcp",
+  "source_url": "https://github.com/csoai-org/explainability-report-mcp",
+  "install": "npx -y explainability-report-mcp"
+}

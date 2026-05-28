@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-base64-codec",
+  "description": "Encode and decode base64 and URL-safe base64.",
+  "source_repo": "br0ski777/base64-codec-x402",
+  "source_url": "https://github.com/br0ski777/base64-codec-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/base64-codec-x402\n# See source for mcpServers config block"
+}

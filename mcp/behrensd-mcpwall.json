@@ -1,0 +1,7 @@
+{
+  "name": "behrensd-mcpwall",
+  "description": "Transparent stdio proxy that blocks dangerous tool calls, scans for secret leakage, and logs all JSON-RPC messages using YAML-defined policies.",
+  "source_repo": "behrensd/mcpwall",
+  "source_url": "https://github.com/behrensd/mcpwall",
+  "install": "# git clone --depth 1 https://github.com/behrensd/mcpwall\n# See source for mcpServers config block"
+}

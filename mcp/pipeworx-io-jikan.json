@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-jikan",
+  "description": "Search and retrieve anime and manga data from MyAnimeList via the Jikan API.",
+  "source_repo": "pipeworx-io/mcp-jikan",
+  "source_url": "https://github.com/pipeworx-io/mcp-jikan",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-jikan\n# See source for mcpServers config block"
+}

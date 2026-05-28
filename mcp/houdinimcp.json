@@ -1,0 +1,7 @@
+{
+  "name": "houdinimcp",
+  "description": "Connects Claude AI to Houdini via the Model Context Protocol, enabling prompt-assisted 3D modeling, scene manipulation, and rendering within Houdini.",
+  "source_repo": "eetumartola/houdini-mcp",
+  "source_url": "https://github.com/eetumartola/houdini-mcp",
+  "install": "npx -y houdini-mcp"
+}

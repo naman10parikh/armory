@@ -1,0 +1,7 @@
+{
+  "name": "j5ik2o-shared-knowledge-rag",
+  "description": "Enables AI systems to access and retrieve information from multiple vector store backends including HNSWLib and Weaviate, providing a unified interface for knowledge retrieval to support RAG workflows without complex integration work.",
+  "source_repo": "j5ik2o/shared-knowledge-mcp",
+  "source_url": "https://github.com/j5ik2o/shared-knowledge-mcp",
+  "install": "npx -y shared-knowledge-mcp"
+}

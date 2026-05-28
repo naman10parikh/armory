@@ -1,0 +1,7 @@
+{
+  "name": "github-twin",
+  "description": "Personal RAG over your GitHub history — indexes commits, code, and review comments for retrieval in Claude Code.",
+  "source_repo": "christopherdavenport/github-twin",
+  "source_url": "https://github.com/christopherdavenport/github-twin",
+  "install": "# git clone --depth 1 https://github.com/christopherdavenport/github-twin\n# See source for mcpServers config block"
+}

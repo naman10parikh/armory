@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-soc2-compliance-ai-mcp",
+  "description": "Python MCP server for SOC2 compliance automation and auditing.",
+  "source_repo": "csoai-org/soc2-compliance-ai-mcp",
+  "source_url": "https://github.com/csoai-org/soc2-compliance-ai-mcp",
+  "install": "npx -y soc2-compliance-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mp-tool-komodo",
+  "description": "Manage Komodo container deployments, Docker stacks, servers, and infrastructure via AI.",
+  "source_repo": "mp-tool/komodo-mcp-server",
+  "source_url": "https://github.com/mp-tool/komodo-mcp-server",
+  "install": "npx -y komodo-mcp-server"
+}

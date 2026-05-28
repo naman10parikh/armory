@@ -1,0 +1,7 @@
+{
+  "name": "tm42-mnemograph",
+  "description": "Event-sourced knowledge graph memory with semantic search, tiered context retrieval, and git-based versioning.",
+  "source_repo": "tm42/mnemograph",
+  "source_url": "https://github.com/tm42/mnemograph",
+  "install": "# git clone --depth 1 https://github.com/tm42/mnemograph\n# See source for mcpServers config block"
+}

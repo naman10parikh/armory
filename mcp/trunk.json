@@ -1,0 +1,7 @@
+{
+  "name": "trunk",
+  "description": "CI Autopilot tools for fixing failing tests",
+  "source_repo": "trunk-io/mcp-server",
+  "source_url": "https://github.com/trunk-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/trunk-io/mcp-server\n# See source for mcpServers config block"
+}

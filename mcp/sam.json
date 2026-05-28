@@ -1,0 +1,7 @@
+{
+  "name": "sam",
+  "description": "Intelligent AI memory management system with ML auto-triggers that automatically saves and retrieves information across AI platforms without manual intervention.",
+  "source_repo": "PiGrieco/mcp-memory-server",
+  "source_url": "https://github.com/PiGrieco/mcp-memory-server",
+  "install": "# git clone --depth 1 https://github.com/PiGrieco/mcp-memory-server\n# See source for mcpServers config block"
+}

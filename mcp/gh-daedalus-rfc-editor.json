@@ -1,0 +1,7 @@
+{
+  "name": "gh-daedalus-rfc-editor",
+  "description": "Provides tools for loading, creating, editing, and saving IETF RFC TXT documents with session-based document persistence.",
+  "source_repo": "daedalus/mcp-rfc-editor",
+  "source_url": "https://github.com/daedalus/mcp-rfc-editor",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-rfc-editor\n# See source for mcpServers config block"
+}

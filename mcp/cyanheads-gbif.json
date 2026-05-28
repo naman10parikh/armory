@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-gbif",
+  "description": "Search GBIF species taxonomy, biodiversity occurrence records, datasets, and publishers.",
+  "source_repo": "cyanheads/gbif-biodiversity-mcp-server",
+  "source_url": "https://github.com/cyanheads/gbif-biodiversity-mcp-server",
+  "install": "npx -y gbif-biodiversity-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alyiox-clickhouse",
+  "description": "Read-only ClickHouse integration for metadata exploration, parameterized queries, and plan analysis.",
+  "source_repo": "alyiox/mcp-clickhousex",
+  "source_url": "https://github.com/alyiox/mcp-clickhousex",
+  "install": "# git clone --depth 1 https://github.com/alyiox/mcp-clickhousex\n# See source for mcpServers config block"
+}

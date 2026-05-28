@@ -1,0 +1,7 @@
+{
+  "name": "xen-orchestra-mcp-server",
+  "description": "Enables management of Xen Orchestra (XOA) via its REST API, including listing VMs, backup jobs, logs, and repositories.",
+  "source_repo": "Videothek/xo-mcp-server",
+  "source_url": "https://github.com/Videothek/xo-mcp-server",
+  "install": "npx -y xo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tanaikech-google-workspace-automation",
+  "description": "Integrates with Google Workspace services through Google Apps Script Web Apps to automate Gmail, Calendar, Drive, Docs, Sheets, Slides, and Forms operations including email management, event scheduling, file handling, document creation, and form building with weather data retrieval and presentation generation capabilities.",
+  "source_repo": "tanaikech/toolsformcpserver",
+  "source_url": "https://github.com/tanaikech/toolsformcpserver",
+  "install": "# git clone --depth 1 https://github.com/tanaikech/toolsformcpserver\n# See source for mcpServers config block"
+}

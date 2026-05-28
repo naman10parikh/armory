@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-uuid-generator",
+  "description": "Generate UUIDs v4, v7, ULID, and nanoid with batch support.",
+  "source_repo": "br0ski777/uuid-generator-x402",
+  "source_url": "https://github.com/br0ski777/uuid-generator-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/uuid-generator-x402\n# See source for mcpServers config block"
+}

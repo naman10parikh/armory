@@ -1,0 +1,7 @@
+{
+  "name": "deliberate-thinking",
+  "description": "Provides structured problem-solving capabilities through sequential, revisable thoughts that can branch and evolve, enabling complex analysis tasks and multi-step planning with dynamic course correction as understanding deepens.",
+  "source_repo": "kljensen/deliberate-thinking",
+  "source_url": "https://github.com/kljensen/deliberate-thinking",
+  "install": "# git clone --depth 1 https://github.com/kljensen/deliberate-thinking\n# See source for mcpServers config block"
+}

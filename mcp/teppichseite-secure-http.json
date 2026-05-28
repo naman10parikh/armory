@@ -1,0 +1,7 @@
+{
+  "name": "teppichseite-secure-http",
+  "description": "Secure HTTP request executor that enforces whitelist-based access control through configurable JavaScript middleware files, enabling safe delegation of API operations with granular validation, authentication, and authorization policies.",
+  "source_repo": "teppichseite/secure-http-mcp",
+  "source_url": "https://github.com/teppichseite/secure-http-mcp",
+  "install": "npx -y secure-http-mcp"
+}

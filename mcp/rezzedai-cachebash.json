@@ -1,0 +1,7 @@
+{
+  "name": "rezzedai-cachebash",
+  "description": "Coordination layer for AI coding agents with task queues, relay messaging, session monitoring, and mobile alerts.",
+  "source_repo": "rezzedai/cachebash",
+  "source_url": "https://github.com/rezzedai/cachebash",
+  "install": "# git clone --depth 1 https://github.com/rezzedai/cachebash\n# See source for mcpServers config block"
+}

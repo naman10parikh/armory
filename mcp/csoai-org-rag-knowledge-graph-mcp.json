@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-rag-knowledge-graph-mcp",
+  "description": "Python MCP server for RAG-based knowledge graph construction and querying.",
+  "source_repo": "csoai-org/rag-knowledge-graph-mcp",
+  "source_url": "https://github.com/csoai-org/rag-knowledge-graph-mcp",
+  "install": "npx -y rag-knowledge-graph-mcp"
+}

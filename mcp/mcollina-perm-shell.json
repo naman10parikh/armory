@@ -1,0 +1,7 @@
+{
+  "name": "mcollina-perm-shell",
+  "description": "Enables secure execution of shell commands through desktop notifications that require explicit user approval for each operation, maintaining strong security boundaries for local system access.",
+  "source_repo": "mcollina/perm-shell-mcp",
+  "source_url": "https://github.com/mcollina/perm-shell-mcp",
+  "install": "npx -y perm-shell-mcp"
+}

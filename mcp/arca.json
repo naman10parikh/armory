@@ -1,0 +1,7 @@
+{
+  "name": "arca",
+  "description": "Private data vault storing structured data, semantic memory, and skills for AI assistants",
+  "source_repo": "",
+  "source_url": "https://arca.build",
+  "install": "# git clone --depth 1 https://arca.build\n# See source for mcpServers config block"
+}

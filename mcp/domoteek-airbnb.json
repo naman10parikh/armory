@@ -1,0 +1,7 @@
+{
+  "name": "domoteek-airbnb",
+  "description": "Integrates with Airbnb's search and listing details functionality to enable vacation rental discovery and analysis with filters for location, dates, guests, amenities, and pricing",
+  "source_repo": "domoteek/mcp-server-airbnb",
+  "source_url": "https://github.com/domoteek/mcp-server-airbnb",
+  "install": "# git clone --depth 1 https://github.com/domoteek/mcp-server-airbnb\n# See source for mcpServers config block"
+}

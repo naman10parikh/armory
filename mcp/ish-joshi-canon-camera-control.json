@@ -1,0 +1,7 @@
+{
+  "name": "ish-joshi-canon-camera-control",
+  "description": "Provides direct control over Canon cameras through the Canon Camera Control API, enabling remote adjustment of shooting settings like aperture, shutter speed, and ISO while retrieving live view images for real-time feedback on setting changes.",
+  "source_repo": "ish-joshi/canon-camera-mcp",
+  "source_url": "https://github.com/ish-joshi/canon-camera-mcp",
+  "install": "npx -y canon-camera-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "entanglr-zettelkasten-mcp",
+  "description": "A Model Context Protocol (MCP) server that implements the Zettelkasten knowledge management methodology, allowing you to create, link, and search atomic notes through Claude and other MCP-compatible clients.",
+  "source_repo": "entanglr/zettelkasten-mcp",
+  "source_url": "https://github.com/entanglr/zettelkasten-mcp",
+  "install": "npx -y zettelkasten-mcp"
+}

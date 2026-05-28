@@ -1,0 +1,7 @@
+{
+  "name": "shrike-mcp",
+  "description": "AI agent security scanner with prompt injection detection.",
+  "source_repo": "shrike-security/shrike-mcp",
+  "source_url": "https://github.com/shrike-security/shrike-mcp",
+  "install": "npx -y shrike-mcp"
+}

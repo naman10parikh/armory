@@ -1,0 +1,7 @@
+{
+  "name": "apollographql-graphql",
+  "description": "Enables AI agents to interact with GraphQL APIs by exposing operations as tools, supporting both local schema files and Apollo GraphOS integration with features for introspection and custom scalar mapping.",
+  "source_repo": "apollographql/apollo-mcp-server",
+  "source_url": "https://github.com/apollographql/apollo-mcp-server",
+  "install": "npx -y apollo-mcp-server"
+}

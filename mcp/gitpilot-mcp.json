@@ -1,0 +1,7 @@
+{
+  "name": "gitpilot-mcp",
+  "description": "An autonomous agent that automates GitHub contributions end-to-end, from issue analysis and code changes to pull requests, conflict resolution, and review updates.",
+  "source_repo": "Divyanshu-hash/GitPilot-MCP",
+  "source_url": "https://github.com/Divyanshu-hash/GitPilot-MCP",
+  "install": "npx -y GitPilot-MCP"
+}

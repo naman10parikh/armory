@@ -1,0 +1,7 @@
+{
+  "name": "gh-disane87-weishaupt-wem-portal",
+  "description": "Control and monitor Weishaupt heating systems via the WEM Portal.",
+  "source_repo": "disane87/weishaupt-wem-mcp-server",
+  "source_url": "https://github.com/disane87/weishaupt-wem-mcp-server",
+  "install": "npx -y weishaupt-wem-mcp-server"
+}

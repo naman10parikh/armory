@@ -1,0 +1,7 @@
+{
+  "name": "vinayak-mehta-browser-use",
+  "description": "Enables web browsing capabilities for any MCP client through a simple command that leverages your existing LLM configuration without additional API costs.",
+  "source_repo": "vinayak-mehta/mcp-browser-use",
+  "source_url": "https://github.com/vinayak-mehta/mcp-browser-use",
+  "install": "# git clone --depth 1 https://github.com/vinayak-mehta/mcp-browser-use\n# See source for mcpServers config block"
+}

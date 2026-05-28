@@ -1,0 +1,7 @@
+{
+  "name": "docat0209-openapi-to-mcp",
+  "description": "Converts any OpenAPI or Swagger specification into callable tools with zero configuration.",
+  "source_repo": "docat0209/mcp-openapi",
+  "source_url": "https://github.com/docat0209/mcp-openapi",
+  "install": "# git clone --depth 1 https://github.com/docat0209/mcp-openapi\n# See source for mcpServers config block"
+}

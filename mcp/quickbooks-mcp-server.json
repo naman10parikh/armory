@@ -1,0 +1,7 @@
+{
+  "name": "quickbooks-mcp-server",
+  "description": "Connect Claude Desktop and Claude Code to QuickBooks Online for natural-language accounting. Ask questions about invoices, expenses, reports, and more using plain English.",
+  "source_repo": "NyxToolsDev/quickbooks-mcp-server",
+  "source_url": "https://github.com/NyxToolsDev/quickbooks-mcp-server",
+  "install": "npx -y quickbooks-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-markusvankempen-wxo-agent",
+  "description": "Invoke a single IBM Watson Orchestrate agent remotely via lightweight MCP integration.",
+  "source_repo": "markusvankempen/wxo-agent-mcp",
+  "source_url": "https://github.com/markusvankempen/wxo-agent-mcp",
+  "install": "npx -y wxo-agent-mcp"
+}

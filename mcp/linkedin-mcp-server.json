@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-mcp-server",
+  "description": "Linkedin Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "fredericbarthelet/linkedin-mcp-server",
+  "source_url": "https://mcp.so/server/linkedin-mcp-server/fredericbarthelet",
+  "install": "npx -y linkedin-mcp-server"
+}

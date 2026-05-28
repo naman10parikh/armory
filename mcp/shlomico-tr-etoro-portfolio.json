@@ -1,0 +1,7 @@
+{
+  "name": "shlomico-tr-etoro-portfolio",
+  "description": "Integrates with eToro's API to fetch financial portfolios, instrument details, and search capabilities for investment analysis and portfolio tracking without CORS restrictions.",
+  "source_repo": "shlomico-tr/etoroportfoliomcp",
+  "source_url": "https://github.com/shlomico-tr/etoroportfoliomcp",
+  "install": "# git clone --depth 1 https://github.com/shlomico-tr/etoroportfoliomcp\n# See source for mcpServers config block"
+}

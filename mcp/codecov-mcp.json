@@ -1,0 +1,7 @@
+{
+  "name": "codecov-mcp",
+  "description": "Codecov Mcp MCP server listed on mcp.so.",
+  "source_repo": "stedwick/codecov-mcp",
+  "source_url": "https://mcp.so/server/codecov-mcp/stedwick",
+  "install": "npx -y codecov-mcp"
+}

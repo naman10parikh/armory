@@ -1,0 +1,7 @@
+{
+  "name": "ayrtonfelipe-groqcloud",
+  "description": "Integrates with Groq's high-speed inference API for text completion, audio transcription, and vision analysis with automatic model selection based on task complexity and intelligent rate limiting for optimal performance.",
+  "source_repo": "ayrtonfelipe/groqcloud-mcp_server",
+  "source_url": "https://github.com/ayrtonfelipe/groqcloud-mcp_server",
+  "install": "npx -y groqcloud-mcp_server"
+}

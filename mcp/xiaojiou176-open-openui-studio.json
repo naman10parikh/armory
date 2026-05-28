@@ -1,0 +1,7 @@
+{
+  "name": "xiaojiou176-open-openui-studio",
+  "description": "Transforms natural-language UI briefs into React and shadcn component files with review and acceptance gates.",
+  "source_repo": "xiaojiou176-open/openui-mcp-studio",
+  "source_url": "https://github.com/xiaojiou176-open/openui-mcp-studio",
+  "install": "# git clone --depth 1 https://github.com/xiaojiou176-open/openui-mcp-studio\n# See source for mcpServers config block"
+}

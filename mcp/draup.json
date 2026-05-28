@@ -1,0 +1,7 @@
+{
+  "name": "draup",
+  "description": "Global labor and market data for skills, workforce planning, stakeholder intelligence, jobs, news and professional profiles",
+  "source_repo": "",
+  "source_url": "https://draup.com/talent/data/model-context-protocol",
+  "install": "# git clone --depth 1 https://draup.com/talent/data/model-context-protocol\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "timecamp-org-timecamp",
+  "description": "Integrates with TimeCamp's time tracking API to create, retrieve, update, and delete time entries with project and task assignments for automated timesheet management and productivity reporting.",
+  "source_repo": "timecamp-org/timecamp-mcp-server",
+  "source_url": "https://github.com/timecamp-org/timecamp-mcp-server",
+  "install": "npx -y timecamp-mcp-server"
+}

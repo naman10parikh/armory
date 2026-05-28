@@ -1,0 +1,7 @@
+{
+  "name": "hydrata",
+  "description": "Run ANUGA flood simulations, track progress, and retrieve results on Hydrata Cloud.",
+  "source_repo": "hydrata/hydrata-mcp-server",
+  "source_url": "https://github.com/hydrata/hydrata-mcp-server",
+  "install": "npx -y hydrata-mcp-server"
+}

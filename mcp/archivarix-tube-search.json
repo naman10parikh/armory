@@ -1,0 +1,7 @@
+{
+  "name": "archivarix-tube-search",
+  "description": "YouTube archive search MCP providing access to 1.5B+ indexed videos including deleted content and transcripts.",
+  "source_repo": "archivarix-com/tube-search-mcp",
+  "source_url": "https://github.com/archivarix-com/tube-search-mcp",
+  "install": "npx -y tube-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sn-patterns-mcp",
+  "description": "Pattern-intelligence MCP server for ServiceNow Discovery that enables AI agents to read, search, validate, author, surgically edit, and reason about Discovery patterns, including NDL grammar, SNMP OIDs, data sources, and emulator blueprints.",
+  "source_repo": "hans6883/sn-patterns-mcp",
+  "source_url": "https://github.com/hans6883/sn-patterns-mcp",
+  "install": "npx -y sn-patterns-mcp"
+}

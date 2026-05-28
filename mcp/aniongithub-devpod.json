@@ -1,0 +1,7 @@
+{
+  "name": "aniongithub-devpod",
+  "description": "Manages development containers via DevPod, Docker, and GitHub Codespaces with 45 MCP tools for AI agents.",
+  "source_repo": "aniongithub/devcontainer-mcp",
+  "source_url": "https://github.com/aniongithub/devcontainer-mcp",
+  "install": "npx -y devcontainer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "perigon",
+  "description": "Integrates with Perigon's news API to search articles, stories, journalists, companies, people, sources, topics, and Wikipedia content with advanced filtering capabilities including geographic, temporal, and categorical constraints for news monitoring, research workflows, and content discovery.",
+  "source_repo": "goperigon/perigon-mcp-server",
+  "source_url": "https://github.com/goperigon/perigon-mcp-server",
+  "install": "npx -y perigon-mcp-server"
+}

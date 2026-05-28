@@ -1,0 +1,7 @@
+{
+  "name": "stackoverflow",
+  "description": "Access Stack Overflow's trusted and verified technical questions and answers.",
+  "source_repo": "",
+  "source_url": "https://api.stackexchange.com/docs/mcp-server",
+  "install": "# git clone --depth 1 https://api.stackexchange.com/docs/mcp-server\n# See source for mcpServers config block"
+}

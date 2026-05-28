@@ -1,0 +1,7 @@
+{
+  "name": "lulzasaur9192-marketplace-search-mcp",
+  "description": "Search marketplaces (TCGPlayer, Reverb, Thumbtack), verify professional licenses (contractor, nurse across US states), and look up PSA card grading population data.",
+  "source_repo": "lulzasaur9192/marketplace-search-mcp",
+  "source_url": "https://github.com/lulzasaur9192/marketplace-search-mcp",
+  "install": "npx -y marketplace-search-mcp"
+}

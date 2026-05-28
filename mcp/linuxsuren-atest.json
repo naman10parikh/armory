@@ -1,0 +1,7 @@
+{
+  "name": "linuxsuren-atest",
+  "description": "API testing framework with Mock Server capabilities",
+  "source_repo": "linuxsuren/atest-mcp-server",
+  "source_url": "https://github.com/linuxsuren/atest-mcp-server",
+  "install": "npx -y atest-mcp-server"
+}

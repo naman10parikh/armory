@@ -1,0 +1,7 @@
+{
+  "name": "gluestack-ui-mcp-server",
+  "description": "Provides AI assistants with comprehensive access to Gluestack UI components, source code, and examples for React Native development.",
+  "source_repo": "gauravsaini/gluestack-ui-mcp-server",
+  "source_url": "https://github.com/gauravsaini/gluestack-ui-mcp-server",
+  "install": "npx -y gluestack-ui-mcp-server"
+}

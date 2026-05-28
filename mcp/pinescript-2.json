@@ -1,0 +1,7 @@
+{
+  "name": "pinescript-2",
+  "description": "MCP server providing Pine Script v6 documentation for AI assistants. Enables AI to: Look up Pine Script functions and validate syntax Access official documentation for indicators, strategies, and visuals Understand Pine Script concepts (execution model, repainting, etc.) Generate correct v6 code wit",
+  "source_repo": "",
+  "source_url": "https://bouch.dev/products/pinescript-mcp/",
+  "install": "# git clone --depth 1 https://bouch.dev/products/pinescript-mcp/\n# See source for mcpServers config block"
+}

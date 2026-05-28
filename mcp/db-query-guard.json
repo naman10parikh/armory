@@ -1,0 +1,7 @@
+{
+  "name": "db-query-guard",
+  "description": "Governed database query review with SQL simulation, approval workflows, and audit trails.",
+  "source_repo": "",
+  "source_url": "https://dbqueryguard.clauxel.com/mcp",
+  "install": "# git clone --depth 1 https://dbqueryguard.clauxel.com/mcp\n# See source for mcpServers config block"
+}

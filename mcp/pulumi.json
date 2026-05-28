@@ -1,0 +1,7 @@
+{
+  "name": "pulumi",
+  "description": "Manage infrastructure as code through Pulumi Cloud with AI-powered task delegation to Pulumi Neo",
+  "source_repo": "",
+  "source_url": "https://www.pulumi.com/docs/iac/guides/ai-integration/mcp-server/",
+  "install": "# git clone --depth 1 https://www.pulumi.com/docs/iac/guides/ai-integration/mcp-server/\n# See source for mcpServers config block"
+}

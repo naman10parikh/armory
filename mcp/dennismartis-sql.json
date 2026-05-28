@@ -1,0 +1,7 @@
+{
+  "name": "dennismartis-sql",
+  "description": "Provides a bridge to Microsoft SQL Server databases for executing queries, exploring schemas, and managing data through natural language interaction with Windows authentication security",
+  "source_repo": "dennismartis/sql_mcp_server",
+  "source_url": "https://github.com/dennismartis/sql_mcp_server",
+  "install": "npx -y sql_mcp_server"
+}

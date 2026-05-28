@@ -1,0 +1,7 @@
+{
+  "name": "pkolawa-krs-poland",
+  "description": "Access Polish National Court Register data",
+  "source_repo": "pkolawa/mcp-krs-poland",
+  "source_url": "https://github.com/pkolawa/mcp-krs-poland",
+  "install": "# git clone --depth 1 https://github.com/pkolawa/mcp-krs-poland\n# See source for mcpServers config block"
+}

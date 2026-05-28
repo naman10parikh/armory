@@ -1,0 +1,7 @@
+{
+  "name": "lrstanley-context7-http",
+  "description": "HTTP streaming access to Context7's documentation platform for searching and retrieving software library documentation",
+  "source_repo": "lrstanley/context7-http",
+  "source_url": "https://github.com/lrstanley/context7-http",
+  "install": "# git clone --depth 1 https://github.com/lrstanley/context7-http\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "standardbeagle-dart-query",
+  "description": "Context-efficient Dart AI task management with batch operations, DartQL selectors, and CSV import.",
+  "source_repo": "standardbeagle/dart-query",
+  "source_url": "https://github.com/standardbeagle/dart-query",
+  "install": "# git clone --depth 1 https://github.com/standardbeagle/dart-query\n# See source for mcpServers config block"
+}

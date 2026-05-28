@@ -1,0 +1,7 @@
+{
+  "name": "typescript-mcp-server-boilerplate",
+  "description": "A boilerplate for building and deploying MCP servers on Vercel, featuring example tools like greeting, calculator, weather, and Hugging Face image generation.",
+  "source_repo": "lhseokool/my-mcp-server",
+  "source_url": "https://github.com/lhseokool/my-mcp-server",
+  "install": "npx -y my-mcp-server"
+}

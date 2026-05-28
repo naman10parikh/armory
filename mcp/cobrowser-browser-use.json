@@ -1,0 +1,7 @@
+{
+  "name": "cobrowser-browser-use",
+  "description": "Provides an async browser automation server using OpenAI's GPT-4o model, enabling remote web navigation, content extraction, and task execution with configurable browser contexts.",
+  "source_repo": "kontext-security/browser-use-mcp-server",
+  "source_url": "https://github.com/kontext-security/browser-use-mcp-server",
+  "install": "npx -y browser-use-mcp-server"
+}

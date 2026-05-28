@@ -1,0 +1,7 @@
+{
+  "name": "flothjl-edgar-sec",
+  "description": "Enables AI systems to access and analyze SEC EDGAR filings data, providing tools for retrieving proxy statements with executive compensation information and Form 4 filings for insider trading details.",
+  "source_repo": "flothjl/edgar-sec-mcp",
+  "source_url": "https://github.com/flothjl/edgar-sec-mcp",
+  "install": "npx -y edgar-sec-mcp"
+}

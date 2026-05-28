@@ -1,0 +1,7 @@
+{
+  "name": "mathd-govee",
+  "description": "Integrates with Govee smart lighting devices to enable natural language control of brightness, color, and power settings for home automation and ambient lighting scenarios.",
+  "source_repo": "mathd/govee_mcp_server",
+  "source_url": "https://github.com/mathd/govee_mcp_server",
+  "install": "npx -y govee_mcp_server"
+}

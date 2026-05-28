@@ -1,0 +1,7 @@
+{
+  "name": "alexkissijr-unreal-engine",
+  "description": "Enables AI interaction with Unreal Engine through a TCP server that exposes scene manipulation, material creation, and blueprint generation capabilities via a modular command system.",
+  "source_repo": "alexkissijr/unrealmcp",
+  "source_url": "https://github.com/alexkissijr/unrealmcp",
+  "install": "# git clone --depth 1 https://github.com/alexkissijr/unrealmcp\n# See source for mcpServers config block"
+}

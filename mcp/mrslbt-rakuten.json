@@ -1,0 +1,7 @@
+{
+  "name": "mrslbt-rakuten",
+  "description": "Access Rakuten APIs for product search, books, hotel listings, and rankings.",
+  "source_repo": "mrslbt/rakuten-mcp",
+  "source_url": "https://github.com/mrslbt/rakuten-mcp",
+  "install": "npx -y rakuten-mcp"
+}

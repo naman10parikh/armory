@@ -1,0 +1,7 @@
+{
+  "name": "bilibili-subtitle-fetch",
+  "description": "A Bilibili subtitle fetching MCP server that supports various input formats (BV number, video URL, short link) and offers configurable language preferences, output formats, and ASR fallback.",
+  "source_repo": "Initsnow/bilibili-subtitle-fetch",
+  "source_url": "https://github.com/Initsnow/bilibili-subtitle-fetch",
+  "install": "# git clone --depth 1 https://github.com/Initsnow/bilibili-subtitle-fetch\n# See source for mcpServers config block"
+}

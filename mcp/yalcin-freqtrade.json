@@ -1,0 +1,7 @@
+{
+  "name": "yalcin-freqtrade",
+  "description": "Read-only codebase introspection server for Freqtrade that exposes method signatures, docstrings, type hints, enums, and configuration schemas to help write better trading strategy code.",
+  "source_repo": "yalcin/freqtrade-mcp",
+  "source_url": "https://github.com/yalcin/freqtrade-mcp",
+  "install": "npx -y freqtrade-mcp"
+}

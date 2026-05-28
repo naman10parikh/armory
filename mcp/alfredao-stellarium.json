@@ -1,0 +1,7 @@
+{
+  "name": "alfredao-stellarium",
+  "description": "Control Stellarium planetarium software via its Remote Control HTTP API.",
+  "source_repo": "alfredao/stellarium-mcp",
+  "source_url": "https://github.com/alfredao/stellarium-mcp",
+  "install": "npx -y stellarium-mcp"
+}

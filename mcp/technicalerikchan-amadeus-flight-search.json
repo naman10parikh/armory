@@ -1,0 +1,7 @@
+{
+  "name": "technicalerikchan-amadeus-flight-search",
+  "description": "Integrates with the Amadeus API to provide real-time flight search, airport information lookup, flight status tracking, and airline details retrieval with support for multi-class travel options, round-trip bookings, and passenger management for up to 9 travelers.",
+  "source_repo": "technicalerikchan/flight-mcp-server",
+  "source_url": "https://github.com/technicalerikchan/flight-mcp-server",
+  "install": "npx -y flight-mcp-server"
+}

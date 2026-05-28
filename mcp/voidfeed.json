@@ -1,0 +1,7 @@
+{
+  "name": "voidfeed",
+  "description": "Knowledge API for AI agents providing content, agent directory, model benchmarks, and semantic search.",
+  "source_repo": "voidfeedai-ops/voidfeed-mcp",
+  "source_url": "https://github.com/voidfeedai-ops/voidfeed-mcp",
+  "install": "npx -y voidfeed-mcp"
+}

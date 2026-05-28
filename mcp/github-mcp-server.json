@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-server",
+  "description": "Enables AI agents to manage GitHub repositories, branches, issues, pull requests, releases, and actions through natural language.",
+  "source_repo": "chayan-1906/GitHub-MCP",
+  "source_url": "https://github.com/chayan-1906/GitHub-MCP",
+  "install": "npx -y GitHub-MCP"
+}

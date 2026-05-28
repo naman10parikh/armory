@@ -1,0 +1,7 @@
+{
+  "name": "shinydapps-l402-kit",
+  "description": "Full-stack L402 SDK: server middleware (Express/FastAPI/axum/net/http) + agent client with auto-pay. 4 languages (TypeScript, Python, Go, Rust). MCP server, LangChain integration, budget control. `npx l402-kit-mcp`",
+  "source_repo": "ShinyDapps/l402-kit",
+  "source_url": "https://github.com/ShinyDapps/l402-kit",
+  "install": "# git clone --depth 1 https://github.com/ShinyDapps/l402-kit\n# See source for mcpServers config block"
+}

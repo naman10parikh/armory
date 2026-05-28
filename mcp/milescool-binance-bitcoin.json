@@ -1,0 +1,7 @@
+{
+  "name": "milescool-binance-bitcoin",
+  "description": "Provides real-time and historical Bitcoin market data from Binance including ticker data, order books, trades, price charts, and live price streams for financial analysis and market research.",
+  "source_repo": "milescool/binance-mcp",
+  "source_url": "https://github.com/milescool/binance-mcp",
+  "install": "npx -y binance-mcp"
+}

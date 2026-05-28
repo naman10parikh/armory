@@ -1,0 +1,7 @@
+{
+  "name": "j0hanz-code-lens",
+  "description": "Gemini-powered code review, analysis, and documentation generation.",
+  "source_repo": "j0hanz/code-assistant",
+  "source_url": "https://github.com/j0hanz/code-assistant",
+  "install": "# git clone --depth 1 https://github.com/j0hanz/code-assistant\n# See source for mcpServers config block"
+}

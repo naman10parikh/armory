@@ -1,0 +1,7 @@
+{
+  "name": "ayigityol-aseprite",
+  "description": "Provides 43 tools for pixel art creation, animation, and sprite sheet export through Aseprite's headless CLI with pixel-perfect drawing algorithms.",
+  "source_repo": "ayigityol/aseprite-mcp",
+  "source_url": "https://github.com/ayigityol/aseprite-mcp",
+  "install": "npx -y aseprite-mcp"
+}

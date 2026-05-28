@@ -1,0 +1,7 @@
+{
+  "name": "nighttrek-ollama",
+  "description": "Bridges Ollama's local large language model runner, enabling low-latency access to the LLM while maintaining data privacy and control.",
+  "source_repo": "nighttrek/ollama-mcp",
+  "source_url": "https://github.com/nighttrek/ollama-mcp",
+  "install": "npx -y ollama-mcp"
+}

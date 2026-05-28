@@ -1,0 +1,7 @@
+{
+  "name": "ofodevelopment-cerebrochain-mcp-server",
+  "description": "Supply chain & logistics intelligence — rate shopping across 85+ carriers, inventory management, order tracking, fleet logistics, and AI-powered demand forecasting. 20 tools and 3 resources for warehouse and supply chain operations.",
+  "source_repo": "OFODevelopment/cerebrochain-mcp-server",
+  "source_url": "https://github.com/OFODevelopment/cerebrochain-mcp-server",
+  "install": "npx -y cerebrochain-mcp-server"
+}

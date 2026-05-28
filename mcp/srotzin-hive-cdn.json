@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-cdn",
+  "description": "Edge cache layer for agent-to-agent communication with two-tier LRU and SQLite storage, ETag support, and USDC metering.",
+  "source_repo": "srotzin/hive-mcp-cdn",
+  "source_url": "https://github.com/srotzin/hive-mcp-cdn",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-cdn\n# See source for mcpServers config block"
+}

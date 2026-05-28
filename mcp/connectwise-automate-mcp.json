@@ -1,0 +1,7 @@
+{
+  "name": "connectwise-automate-mcp",
+  "description": "A Model Context Protocol server for ConnectWise Automate with decision tree architecture, enabling Claude to manage scripts, computers, groups, and automation workflows.",
+  "source_repo": "wyre-technology/connectwise-automate-mcp",
+  "source_url": "https://github.com/wyre-technology/connectwise-automate-mcp",
+  "install": "npx -y connectwise-automate-mcp"
+}

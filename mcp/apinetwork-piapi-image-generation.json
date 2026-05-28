@@ -1,0 +1,7 @@
+{
+  "name": "apinetwork-piapi-image-generation",
+  "description": "Integrates with PiAPI to enable AI-driven image generation from text prompts for content creation and visual design tasks.",
+  "source_repo": "apinetwork/piapi-mcp-server",
+  "source_url": "https://github.com/apinetwork/piapi-mcp-server",
+  "install": "npx -y piapi-mcp-server"
+}

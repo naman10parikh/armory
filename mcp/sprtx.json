@@ -1,0 +1,7 @@
+{
+  "name": "sprtx",
+  "description": "Agent-native sports token network with 1,435 tokens across 98 sports and 9 global regions via Streamable HTTP.",
+  "source_repo": "sprtxbabe/sprtx-mcp",
+  "source_url": "https://github.com/sprtxbabe/sprtx-mcp",
+  "install": "npx -y sprtx-mcp"
+}

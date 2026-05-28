@@ -1,0 +1,7 @@
+{
+  "name": "leandrogavidia-solx402",
+  "description": "Integrates Solana blockchain operations with x402 micropayment protocol for wallet management, USDC balance tracking, and service discovery",
+  "source_repo": "leandrogavidia/solx402-mcp-server",
+  "source_url": "https://github.com/leandrogavidia/solx402-mcp-server",
+  "install": "npx -y solx402-mcp-server"
+}

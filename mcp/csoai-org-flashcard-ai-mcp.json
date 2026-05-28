@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-flashcard-ai-mcp",
+  "description": "Tools for generating study flashcards and spaced repetition learning materials.",
+  "source_repo": "csoai-org/flashcard-ai-mcp",
+  "source_url": "https://github.com/csoai-org/flashcard-ai-mcp",
+  "install": "npx -y flashcard-ai-mcp"
+}

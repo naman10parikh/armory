@@ -1,0 +1,7 @@
+{
+  "name": "yaver",
+  "description": "P2P dev-machine MCP connecting phone-driven coding agents to local builds, hot reload, and deployments.",
+  "source_repo": "kivanccakmak/yaver.io",
+  "source_url": "https://github.com/kivanccakmak/yaver.io",
+  "install": "# git clone --depth 1 https://github.com/kivanccakmak/yaver.io\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "okandemirel-strada-unity",
+  "description": "Framework-aware Unity development server with 76 tools, RAG search, and real-time Editor bridge.",
+  "source_repo": "okandemirel/strada.mcp",
+  "source_url": "https://github.com/okandemirel/strada.mcp",
+  "install": "# git clone --depth 1 https://github.com/okandemirel/strada.mcp\n# See source for mcpServers config block"
+}

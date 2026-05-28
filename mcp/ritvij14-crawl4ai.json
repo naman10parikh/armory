@@ -1,0 +1,7 @@
+{
+  "name": "ritvij14-crawl4ai",
+  "description": "Integrates web scraping and crawling capabilities with tools for single-page content extraction, metadata retrieval, and Google search functionality, enabling workflows that require web content analysis, data collection, or online research tasks.",
+  "source_repo": "ritvij14/crawl4ai-mcp",
+  "source_url": "https://github.com/ritvij14/crawl4ai-mcp",
+  "install": "npx -y crawl4ai-mcp"
+}

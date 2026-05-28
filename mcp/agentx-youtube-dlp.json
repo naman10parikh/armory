@@ -1,0 +1,7 @@
+{
+  "name": "agentx-youtube-dlp",
+  "description": "Extracts YouTube video metadata, subtitles in multiple languages, and top comments using yt-dlp with proxy support for content analysis and accessibility workflows.",
+  "source_repo": "agentx-ai/agentx-mcp-servers",
+  "source_url": "https://github.com/agentx-ai/agentx-mcp-servers/tree/HEAD/youtube_dlp_server",
+  "install": "# git clone --depth 1 https://github.com/agentx-ai/agentx-mcp-servers/tree/HEAD/youtube_dlp_server\n# See source for mcpServers config block"
+}

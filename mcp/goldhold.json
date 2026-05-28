@@ -1,0 +1,7 @@
+{
+  "name": "goldhold",
+  "description": "Persistent cross-session memory for AI agents with semantic search, task management, and inter-agent messaging.",
+  "source_repo": "jerrysrodz/goldhold-mcp-server",
+  "source_url": "https://github.com/jerrysrodz/goldhold-mcp-server",
+  "install": "npx -y goldhold-mcp-server"
+}

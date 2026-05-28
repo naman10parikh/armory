@@ -1,0 +1,7 @@
+{
+  "name": "google-search-console-mcp-intel-engine",
+  "description": "Transforms raw Google Search Console signals into actionable marketing insights, such as detecting cannibalization, segmenting search intent, and identifying citation opportunities, for any MCP-compliant AI agent.",
+  "source_repo": "surendranb/google-search-console-mcp",
+  "source_url": "https://github.com/surendranb/google-search-console-mcp",
+  "install": "npx -y google-search-console-mcp"
+}

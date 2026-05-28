@@ -1,0 +1,7 @@
+{
+  "name": "fortimanager-code-mode-mcp",
+  "description": "Enables AI agents to interact with Fortinet FortiManager through a minimal MCP interface using sandboxed JavaScript for querying the API spec and executing JSON-RPC calls.",
+  "source_repo": "jmpijll/fortimanager-code-mode-mcp",
+  "source_url": "https://github.com/jmpijll/fortimanager-code-mode-mcp",
+  "install": "npx -y fortimanager-code-mode-mcp"
+}

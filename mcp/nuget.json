@@ -1,0 +1,7 @@
+{
+  "name": "nuget",
+  "description": "Real-time NuGet package management with vulnerability detection and intelligent version updates",
+  "source_repo": "nuget/home",
+  "source_url": "https://github.com/nuget/home",
+  "install": "# git clone --depth 1 https://github.com/nuget/home\n# See source for mcpServers config block"
+}

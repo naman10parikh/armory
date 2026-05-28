@@ -1,0 +1,7 @@
+{
+  "name": "zhensherlock-sp500",
+  "description": "Provides AI assistants with S&P 500 company data including fuzzy search by symbol, name, or sector with detailed company information retrieval.",
+  "source_repo": "zhensherlock/sp500-mcp-server",
+  "source_url": "https://github.com/zhensherlock/sp500-mcp-server",
+  "install": "npx -y sp500-mcp-server"
+}

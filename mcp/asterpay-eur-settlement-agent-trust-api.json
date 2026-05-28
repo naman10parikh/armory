@@ -1,0 +1,7 @@
+{
+  "name": "asterpay-eur-settlement-agent-trust-api",
+  "description": "EUR settlement layer for AI agents. Convert USDC/EURC to EUR via SEPA Instant. **Free tools (no payment required):** - `check_agent_trust` — KYA trust score 0-100 for any Ethereum wallet - `get_trust_tier` — Trust tier classification (open/verified/trusted/enterprise) - `get_settlement_estimate` — C",
+  "source_repo": "",
+  "source_url": "https://asterpay.io",
+  "install": "# git clone --depth 1 https://asterpay.io\n# See source for mcpServers config block"
+}

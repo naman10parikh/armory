@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-scrappey",
+  "description": "Mcp Server Scrappey MCP server listed on mcp.so.",
+  "source_repo": "pim97/mcp-server-scrappey",
+  "source_url": "https://mcp.so/server/mcp-server-scrappey/pim97",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-scrappey/pim97\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wuke3-godot-mcp-pro",
+  "description": "TypeScript MCP server for Godot 4 that bridges AI assistants to the Godot editor via WebSocket for project, scene, node, script, and runtime management.",
+  "source_repo": "wuke3/godot-mcp-pro-server",
+  "source_url": "https://github.com/wuke3/godot-mcp-pro-server",
+  "install": "# git clone --depth 1 https://github.com/wuke3/godot-mcp-pro-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kinshukk-book-fetch",
+  "description": "Retrieves and processes published books from Library Genesis, delivering text content in manageable chunks with proper metadata for in-depth analysis and research.",
+  "source_repo": "kinshukk/book-fetch-mcp",
+  "source_url": "https://github.com/kinshukk/book-fetch-mcp",
+  "install": "npx -y book-fetch-mcp"
+}

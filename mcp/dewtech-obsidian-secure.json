@@ -1,0 +1,7 @@
+{
+  "name": "dewtech-obsidian-secure",
+  "description": "Security-hardened Obsidian integration with OWASP Top 10 controls and full audit logging.",
+  "source_repo": "dewtech-technologies/obsidian-mcp-secure",
+  "source_url": "https://github.com/dewtech-technologies/obsidian-mcp-secure",
+  "install": "# git clone --depth 1 https://github.com/dewtech-technologies/obsidian-mcp-secure\n# See source for mcpServers config block"
+}

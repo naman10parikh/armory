@@ -1,0 +1,7 @@
+{
+  "name": "kazuph-taskmanager",
+  "description": "Implements a structured task management system resulting in step-by-step workflows requiring explicit user approval.",
+  "source_repo": "kazuph/mcp-taskmanager",
+  "source_url": "https://github.com/kazuph/mcp-taskmanager",
+  "install": "# git clone --depth 1 https://github.com/kazuph/mcp-taskmanager\n# See source for mcpServers config block"
+}

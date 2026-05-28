@@ -1,0 +1,7 @@
+{
+  "name": "chromium-sync-mcp",
+  "description": "Enables access to browser data (tabs, history, bookmarks) from Chromium-based browsers including Chrome, Brave, and Chromium, directly from local profile files without authentication.",
+  "source_repo": "jaidhyani/chromium-sync-mcp",
+  "source_url": "https://github.com/jaidhyani/chromium-sync-mcp",
+  "install": "npx -y chromium-sync-mcp"
+}

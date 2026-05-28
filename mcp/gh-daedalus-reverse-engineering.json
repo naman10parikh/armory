@@ -1,0 +1,7 @@
+{
+  "name": "gh-daedalus-reverse-engineering",
+  "description": "Sandboxed reverse engineering tools with multiple framework integrations.",
+  "source_repo": "daedalus/mcp_reverse_engineering",
+  "source_url": "https://github.com/daedalus/mcp_reverse_engineering",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp_reverse_engineering\n# See source for mcpServers config block"
+}

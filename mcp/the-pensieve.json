@@ -1,0 +1,7 @@
+{
+  "name": "the-pensieve",
+  "description": "The Pensieve MCP server listed on mcp.so.",
+  "source_repo": "seanivore/the-pensieve",
+  "source_url": "https://mcp.so/server/the-pensieve/seanivore",
+  "install": "# git clone --depth 1 https://mcp.so/server/the-pensieve/seanivore\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "luebken-playlist",
+  "description": "Fetches and indexes YouTube playlist transcripts for quick search through vector embeddings, enabling efficient content discovery without watching hours of video.",
+  "source_repo": "luebken/playlist-mcp",
+  "source_url": "https://github.com/luebken/playlist-mcp",
+  "install": "npx -y playlist-mcp"
+}

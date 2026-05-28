@@ -1,0 +1,7 @@
+{
+  "name": "dicom-mcp",
+  "description": "Dicom Mcp MCP server listed on mcp.so.",
+  "source_repo": "ChristianHinge/dicom-mcp",
+  "source_url": "https://mcp.so/server/dicom-mcp/ChristianHinge",
+  "install": "npx -y dicom-mcp"
+}

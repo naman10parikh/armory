@@ -1,0 +1,7 @@
+{
+  "name": "dragosroua-addtaskmanager",
+  "description": "Integrates with the addTaskManager iOS/macOS app through CloudKit to provide structured task and project management following the ADD (Assess-Decide-Do) framework with realm-based workflow restrictions and Apple ID authentication.",
+  "source_repo": "dragosroua/addtaskmanager-mcp-server",
+  "source_url": "https://github.com/dragosroua/addtaskmanager-mcp-server",
+  "install": "npx -y addtaskmanager-mcp-server"
+}

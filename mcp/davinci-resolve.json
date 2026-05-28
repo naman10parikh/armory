@@ -1,0 +1,7 @@
+{
+  "name": "davinci-resolve",
+  "description": "Enables Claude to directly interact with and control DaVinci Resolve through its Python API, providing tools for project management, timeline manipulation, media organization, and Fusion integration.",
+  "source_repo": "apvlv/davinci-resolve-mcp",
+  "source_url": "https://github.com/apvlv/davinci-resolve-mcp",
+  "install": "npx -y davinci-resolve-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neka-nat-freecad",
+  "description": "Enables AI-driven CAD modeling by providing a remote procedure call (RPC) server that allows programmatic control of FreeCAD, supporting operations like creating documents, inserting parts, editing objects, and executing Python code for generative design workflows.",
+  "source_repo": "neka-nat/freecad-mcp",
+  "source_url": "https://github.com/neka-nat/freecad-mcp",
+  "install": "npx -y freecad-mcp"
+}

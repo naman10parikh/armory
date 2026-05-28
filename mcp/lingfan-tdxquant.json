@@ -1,0 +1,7 @@
+{
+  "name": "lingfan-tdxquant",
+  "description": "MCP wrapper for TdxQuant providing Chinese stock market data and trading via the 通达信 platform.",
+  "source_repo": "lingfan/tdxquant-mcp",
+  "source_url": "https://github.com/lingfan/tdxquant-mcp",
+  "install": "npx -y tdxquant-mcp"
+}

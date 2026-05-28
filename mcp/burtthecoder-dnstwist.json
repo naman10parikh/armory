@@ -1,0 +1,7 @@
+{
+  "name": "burtthecoder-dnstwist",
+  "description": "Integrates with dnstwist to automate DNS fuzzing for detecting typosquatting, phishing, and corporate espionage threats.",
+  "source_repo": "burtthecoder/mcp-dnstwist",
+  "source_url": "https://github.com/burtthecoder/mcp-dnstwist",
+  "install": "# git clone --depth 1 https://github.com/burtthecoder/mcp-dnstwist\n# See source for mcpServers config block"
+}

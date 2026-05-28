@@ -1,0 +1,7 @@
+{
+  "name": "remote-mcp-server-test-again",
+  "description": "Remote Mcp Server Test Again MCP server listed on mcp.so.",
+  "source_repo": "irvinebroque/remote-mcp-server-test-again",
+  "source_url": "https://mcp.so/server/remote-mcp-server-test-again/irvinebroque",
+  "install": "# git clone --depth 1 https://mcp.so/server/remote-mcp-server-test-again/irvinebroque\n# See source for mcpServers config block"
+}

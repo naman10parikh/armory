@@ -1,0 +1,7 @@
+{
+  "name": "justin-echternach-js",
+  "description": "Provides a WebAssembly-based server component with ready-to-use tools like echo, knowledge graph querying, and HTTP requests, while offering a developer-friendly SDK for creating custom tools in WebAssembly-compatible environments.",
+  "source_repo": "justin-echternach/js-mcp-server",
+  "source_url": "https://github.com/justin-echternach/js-mcp-server",
+  "install": "npx -y js-mcp-server"
+}

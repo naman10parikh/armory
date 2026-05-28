@@ -1,0 +1,7 @@
+{
+  "name": "jianzhichun-abaqus",
+  "description": "Enables AI to control Abaqus/CAE finite element analysis software through GUI automation, executing Python scripts and retrieving message logs without modifying the core application.",
+  "source_repo": "jianzhichun/abaqus-mcp-server",
+  "source_url": "https://github.com/jianzhichun/abaqus-mcp-server",
+  "install": "npx -y abaqus-mcp-server"
+}

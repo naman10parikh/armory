@@ -1,0 +1,7 @@
+{
+  "name": "pulik-io-memory",
+  "description": "Provides persistent memory storage across different AI sessions using semantic search and RAG capabilities, maintaining user context, preferences, and conversational history with a web interface for memory management.",
+  "source_repo": "puliczek/mcp-memory",
+  "source_url": "https://github.com/puliczek/mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/puliczek/mcp-memory\n# See source for mcpServers config block"
+}

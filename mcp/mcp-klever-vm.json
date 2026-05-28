@@ -1,0 +1,7 @@
+{
+  "name": "mcp-klever-vm",
+  "description": "Klever blockchain smart contract development.",
+  "source_repo": "klever-io/mcp-klever-vm",
+  "source_url": "https://github.com/klever-io/mcp-klever-vm",
+  "install": "# git clone --depth 1 https://github.com/klever-io/mcp-klever-vm\n# See source for mcpServers config block"
+}

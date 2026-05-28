@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-python",
+  "description": "Mcp Server Python MCP server listed on mcp.so.",
+  "source_repo": "inkeep/mcp-server-python",
+  "source_url": "https://mcp.so/server/mcp-server-python/inkeep",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-python/inkeep\n# See source for mcpServers config block"
+}

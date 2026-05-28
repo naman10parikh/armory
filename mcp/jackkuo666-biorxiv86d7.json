@@ -1,0 +1,7 @@
+{
+  "name": "jackkuo666-biorxiv86d7",
+  "description": "Enables searching and retrieving scientific articles from bioRxiv through keyword-based queries, advanced parameter filtering, and DOI metadata access for efficient biological research workflows.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/jackkuo666-biorxiv86d7",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/jackkuo666-biorxiv86d7\n# See source for mcpServers config block"
+}

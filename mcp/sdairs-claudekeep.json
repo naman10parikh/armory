@@ -1,0 +1,7 @@
+{
+  "name": "sdairs-claudekeep",
+  "description": "Integrates a personal knowledge management system for storing, retrieving, and organizing conversation notes locally.",
+  "source_repo": "sdairs/claudekeep",
+  "source_url": "https://github.com/sdairs/claudekeep",
+  "install": "# git clone --depth 1 https://github.com/sdairs/claudekeep\n# See source for mcpServers config block"
+}

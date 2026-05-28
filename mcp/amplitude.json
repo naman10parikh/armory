@@ -1,0 +1,7 @@
+{
+  "name": "amplitude",
+  "description": "Integrates with Amplitude analytics platform to provide direct access to product data, experiments, user behavior metrics, dashboards, and feature flags through natural language queries while maintaining existing user permissions and access controls.",
+  "source_repo": "",
+  "source_url": "https://amplitude.com/docs/analytics/amplitude-mcp",
+  "install": "# git clone --depth 1 https://amplitude.com/docs/analytics/amplitude-mcp\n# See source for mcpServers config block"
+}

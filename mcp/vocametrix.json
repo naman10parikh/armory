@@ -1,0 +1,7 @@
+{
+  "name": "vocametrix",
+  "description": "Official MCP server integrating Vocametrix's voice analysis API for clinical speech assessment and pronunciation evaluation.",
+  "source_repo": "pmarmaroli/vocametrix-mcp",
+  "source_url": "https://github.com/pmarmaroli/vocametrix-mcp",
+  "install": "npx -y vocametrix-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dkruyt-hetzner",
+  "description": "Integrates with Hetzner Cloud API to enable management of cloud infrastructure resources including servers, volumes, firewalls, and SSH keys for automated provisioning and infrastructure-as-code scenarios.",
+  "source_repo": "dkruyt/mcp-hetzner",
+  "source_url": "https://github.com/dkruyt/mcp-hetzner",
+  "install": "# git clone --depth 1 https://github.com/dkruyt/mcp-hetzner\n# See source for mcpServers config block"
+}

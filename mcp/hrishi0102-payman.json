@@ -1,0 +1,7 @@
+{
+  "name": "hrishi0102-payman",
+  "description": "Bridges to Payman AI's payment processing API, enabling creation of payees, search functionality, payment sending, and balance checking through natural language commands.",
+  "source_repo": "hrishi0102/payman_mcp",
+  "source_url": "https://github.com/hrishi0102/payman_mcp",
+  "install": "npx -y payman_mcp"
+}

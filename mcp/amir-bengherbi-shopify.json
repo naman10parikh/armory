@@ -1,0 +1,7 @@
+{
+  "name": "amir-bengherbi-shopify",
+  "description": "Integrates with Shopify's GraphQL API to enable comprehensive store management, including product, customer, order, and discount operations.",
+  "source_repo": "amir-bengherbi/shopify-mcp-server",
+  "source_url": "https://github.com/amir-bengherbi/shopify-mcp-server",
+  "install": "npx -y shopify-mcp-server"
+}

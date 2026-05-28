@@ -1,0 +1,7 @@
+{
+  "name": "kenneives-design-token-bridge",
+  "description": "Translates design tokens between Tailwind, Figma, CSS, Material 3, and SwiftUI.",
+  "source_repo": "kenneives/design-token-bridge-mcp",
+  "source_url": "https://github.com/kenneives/design-token-bridge-mcp",
+  "install": "npx -y design-token-bridge-mcp"
+}

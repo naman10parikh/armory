@@ -1,0 +1,7 @@
+{
+  "name": "lowtoxgear-scanner",
+  "description": "Australian ingredient scanner MCP with 21,000+ products and 237 chemical rules for 17 chronic health conditions.",
+  "source_repo": "lowtoxgear/lowtoxgear-mcp",
+  "source_url": "https://github.com/lowtoxgear/lowtoxgear-mcp/tree/HEAD/lowtoxgear-scanner",
+  "install": "npx -y lowtoxgear-mcp"
+}

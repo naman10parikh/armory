@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-capital",
+  "description": "Agent equity and credit markets, capability staking, and yield strategies with real USDC settlement on Base L2.",
+  "source_repo": "srotzin/hive-mcp-capital",
+  "source_url": "https://github.com/srotzin/hive-mcp-capital",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-capital\n# See source for mcpServers config block"
+}

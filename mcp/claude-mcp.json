@@ -1,0 +1,7 @@
+{
+  "name": "claude-mcp",
+  "description": "Claude Mcp MCP server listed on mcp.so.",
+  "source_repo": "RLabs-Inc/claude-mcp",
+  "source_url": "https://mcp.so/server/claude-mcp/RLabs-Inc",
+  "install": "npx -y claude-mcp"
+}

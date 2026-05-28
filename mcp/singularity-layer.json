@@ -1,0 +1,7 @@
+{
+  "name": "singularity-layer",
+  "description": "Connect AI assistants to the Singularity Layer marketplace for discovering listings, managing assets, and processing x402 payments.",
+  "source_repo": "",
+  "source_url": "https://studio.x402layer.cc",
+  "install": "# git clone --depth 1 https://studio.x402layer.cc\n# See source for mcpServers config block"
+}

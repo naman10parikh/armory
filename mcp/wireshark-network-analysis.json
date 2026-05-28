@@ -1,0 +1,7 @@
+{
+  "name": "wireshark-network-analysis",
+  "description": "Integrates with Wireshark's tshark tool to capture and analyze network packets with configurable filters, SSL decryption support, and multiple output formats for network troubleshooting and security analysis.",
+  "source_repo": "tuliperis/sharkmcp",
+  "source_url": "https://github.com/tuliperis/sharkmcp",
+  "install": "# git clone --depth 1 https://github.com/tuliperis/sharkmcp\n# See source for mcpServers config block"
+}

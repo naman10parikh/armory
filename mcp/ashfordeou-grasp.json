@@ -1,0 +1,7 @@
+{
+  "name": "ashfordeou-grasp",
+  "description": "Codebase dependency analysis, architecture mapping, and security scanning for AI agents.",
+  "source_repo": "ashfordeou/grasp",
+  "source_url": "https://github.com/ashfordeou/grasp",
+  "install": "# git clone --depth 1 https://github.com/ashfordeou/grasp\n# See source for mcpServers config block"
+}

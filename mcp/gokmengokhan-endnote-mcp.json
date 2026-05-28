@@ -1,0 +1,7 @@
+{
+  "name": "gokmengokhan-endnote-mcp",
+  "description": "Search, cite, and read PDFs from your EndNote library.",
+  "source_repo": "gokmengokhan/endnote-mcp",
+  "source_url": "https://github.com/gokmengokhan/endnote-mcp",
+  "install": "npx -y endnote-mcp"
+}

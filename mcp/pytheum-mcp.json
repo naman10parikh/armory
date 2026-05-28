@@ -1,0 +1,7 @@
+{
+  "name": "pytheum-mcp",
+  "description": "Wraps the four public endpoints on api.pytheum.com as MCP tools so AI agents can ask which markets a news article moves without writing their own retrieval layer.",
+  "source_repo": "pytheum/pytheum-mcp",
+  "source_url": "https://github.com/pytheum/pytheum-mcp",
+  "install": "npx -y pytheum-mcp"
+}

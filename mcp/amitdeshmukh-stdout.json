@@ -1,0 +1,7 @@
+{
+  "name": "amitdeshmukh-stdout",
+  "description": "Lightweight server that captures and manages stdout logs from multiple processes through a named pipe system, maintaining a 100-entry log history and providing robust querying and filtering capabilities for debugging and real-time monitoring.",
+  "source_repo": "amitdeshmukh/stdout-mcp-server",
+  "source_url": "https://github.com/amitdeshmukh/stdout-mcp-server",
+  "install": "npx -y stdout-mcp-server"
+}

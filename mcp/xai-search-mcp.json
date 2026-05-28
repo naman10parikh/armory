@@ -1,0 +1,7 @@
+{
+  "name": "xai-search-mcp",
+  "description": "An MCP server that provides real-time web search and X (Twitter) search capabilities via the xAI API.",
+  "source_repo": "kicito/x_search_mcp",
+  "source_url": "https://github.com/kicito/x_search_mcp",
+  "install": "npx -y x_search_mcp"
+}

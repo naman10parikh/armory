@@ -1,0 +1,7 @@
+{
+  "name": "kyan9400-file-finder",
+  "description": "Provides file search functionality within filesystems, returning detailed metadata for discovered files based on path fragments.",
+  "source_repo": "kyan9400/file-finder-mcp",
+  "source_url": "https://github.com/kyan9400/file-finder-mcp",
+  "install": "npx -y file-finder-mcp"
+}

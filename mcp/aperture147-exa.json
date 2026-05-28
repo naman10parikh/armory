@@ -1,0 +1,7 @@
+{
+  "name": "aperture147-exa",
+  "description": "Integrates with Exa.ai to enable web searches with customizable parameters like result count and live crawling, returning structured JSON results for retrieving up-to-date information without leaving the conversation context.",
+  "source_repo": "aperture147/exa-mcp-worker",
+  "source_url": "https://github.com/aperture147/exa-mcp-worker",
+  "install": "# git clone --depth 1 https://github.com/aperture147/exa-mcp-worker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-server-4",
+  "description": "Github Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "cyanheads/github-mcp-server",
+  "source_url": "https://mcp.so/server/github-mcp-server/cyanheads",
+  "install": "npx -y github-mcp-server"
+}

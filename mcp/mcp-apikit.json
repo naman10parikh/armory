@@ -1,0 +1,7 @@
+{
+  "name": "mcp-apikit",
+  "description": "Mcp Apikit MCP server listed on mcp.so.",
+  "source_repo": "scarqin/mcp-apikit",
+  "source_url": "https://mcp.so/server/mcp-apikit/scarqin",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-apikit/scarqin\n# See source for mcpServers config block"
+}

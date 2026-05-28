@@ -1,0 +1,7 @@
+{
+  "name": "yolstudio-saroday",
+  "description": "Korean Saju (Four Pillars of Destiny) calculations and fortune-telling glossary lookups powered by the Saroday API.",
+  "source_repo": "yolstudio26-oss/saroday-mcp-server",
+  "source_url": "https://github.com/yolstudio26-oss/saroday-mcp-server",
+  "install": "npx -y saroday-mcp-server"
+}

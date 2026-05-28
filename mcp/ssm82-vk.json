@@ -1,0 +1,7 @@
+{
+  "name": "ssm82-vk",
+  "description": "VK social network API integration with 180+ tools — users, wall, groups, friends, photos, and messages via MCP.",
+  "source_repo": "ssm82/full-vk-mcp",
+  "source_url": "https://github.com/ssm82/full-vk-mcp",
+  "install": "npx -y full-vk-mcp"
+}

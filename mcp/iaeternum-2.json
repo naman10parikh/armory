@@ -1,0 +1,7 @@
+{
+  "name": "iaeternum-2",
+  "description": "Intelligence Aeternum — AI training dataset marketplace with 100,000+ museum artwork images with 4K token .json metadata. Search, preview, and purchase curated art datasets with provenance tracking. Powered by x402 USDC micropayments.",
+  "source_repo": "",
+  "source_url": "https://iaeternum.ai/",
+  "install": "# git clone --depth 1 https://iaeternum.ai/\n# See source for mcpServers config block"
+}

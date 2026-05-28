@@ -1,0 +1,7 @@
+{
+  "name": "siddmax-namera",
+  "description": "Validates startup names by checking domain, trademark, and social media availability across registries.",
+  "source_repo": "siddmax/namera",
+  "source_url": "https://github.com/siddmax/namera",
+  "install": "# git clone --depth 1 https://github.com/siddmax/namera\n# See source for mcpServers config block"
+}

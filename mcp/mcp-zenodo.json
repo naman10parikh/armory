@@ -1,0 +1,7 @@
+{
+  "name": "mcp-zenodo",
+  "description": "A comprehensive MCP server for interacting with Zenodo records, enabling search, retrieval, citation generation, and file downloads.",
+  "source_repo": "MSKazemi/mcp-zenodo",
+  "source_url": "https://github.com/MSKazemi/mcp-zenodo",
+  "install": "# git clone --depth 1 https://github.com/MSKazemi/mcp-zenodo\n# See source for mcpServers config block"
+}

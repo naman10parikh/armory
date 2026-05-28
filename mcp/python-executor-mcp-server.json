@@ -1,0 +1,7 @@
+{
+  "name": "python-executor-mcp-server",
+  "description": "Executes Python code snippets safely without shell interpretation, supports parallel batch execution and helper utilities for task decomposition.",
+  "source_repo": "neco001/py_executor",
+  "source_url": "https://github.com/neco001/py_executor",
+  "install": "# git clone --depth 1 https://github.com/neco001/py_executor\n# See source for mcpServers config block"
+}

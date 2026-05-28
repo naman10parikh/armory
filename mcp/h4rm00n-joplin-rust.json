@@ -1,0 +1,7 @@
+{
+  "name": "h4rm00n-joplin-rust",
+  "description": "Manages Joplin notes, notebooks, tags, and resources through a Rust-based implementation with stdio and HTTP transport.",
+  "source_repo": "h4rm00n/joplin-mcp-rust",
+  "source_url": "https://github.com/h4rm00n/joplin-mcp-rust",
+  "install": "# git clone --depth 1 https://github.com/h4rm00n/joplin-mcp-rust\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skysqlinc-mariadb-cloud",
+  "description": "Launch free official MariaDB Serverless DB, execute SQL, and use DB level AI Agents through SkySQL's cloud database platform.",
+  "source_repo": "skysqlinc/skysql-mcp",
+  "source_url": "https://github.com/skysqlinc/skysql-mcp",
+  "install": "npx -y skysql-mcp"
+}

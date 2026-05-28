@@ -1,0 +1,7 @@
+{
+  "name": "ykshah1309-stealth-agent-browser",
+  "description": "Stealth Chromium browser automation with hybrid AOM and Set-of-Mark vision for AI agents.",
+  "source_repo": "ykshah1309/stealth-agent-browser-mcp",
+  "source_url": "https://github.com/ykshah1309/stealth-agent-browser-mcp",
+  "install": "npx -y stealth-agent-browser-mcp"
+}

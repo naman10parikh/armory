@@ -1,0 +1,7 @@
+{
+  "name": "ejb503-interview-roleplay",
+  "description": "Provides an AI-powered interview roleplay system for dynamic simulation of customizable interview scenarios, enabling practice and skill improvement for job seekers.",
+  "source_repo": "ejb503/systemprompt-mcp-interview",
+  "source_url": "https://github.com/ejb503/systemprompt-mcp-interview",
+  "install": "# git clone --depth 1 https://github.com/ejb503/systemprompt-mcp-interview\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ui5-web-components-react",
+  "description": "Developer documentation and API assistance for SAP UI5 Web Components for React.",
+  "source_repo": "ui5/webcomponents-react",
+  "source_url": "https://github.com/ui5/webcomponents-react/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ui5/webcomponents-react/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

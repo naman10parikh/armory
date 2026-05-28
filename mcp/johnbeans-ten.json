@@ -1,0 +1,7 @@
+{
+  "name": "johnbeans-ten",
+  "description": "Formal algebraic language for machine-to-machine communication with encode, decode, compose, and verify operations.",
+  "source_repo": "johnbeans/ten",
+  "source_url": "https://github.com/johnbeans/ten/tree/HEAD/ten_mcp_server",
+  "install": "# git clone --depth 1 https://github.com/johnbeans/ten/tree/HEAD/ten_mcp_server\n# See source for mcpServers config block"
+}

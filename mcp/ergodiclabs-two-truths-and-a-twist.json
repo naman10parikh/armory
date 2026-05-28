@@ -1,0 +1,7 @@
+{
+  "name": "ergodiclabs-two-truths-and-a-twist",
+  "description": "Hosts an interactive 'Two Truths and a Twist' trivia game that manages rounds, tracks player scores, and provides tools for creating trivia content, submitting guesses, and revealing answers with explanations.",
+  "source_repo": "ergodiclabs/twotruthsandatwist",
+  "source_url": "https://github.com/ergodiclabs/twotruthsandatwist",
+  "install": "# git clone --depth 1 https://github.com/ergodiclabs/twotruthsandatwist\n# See source for mcpServers config block"
+}

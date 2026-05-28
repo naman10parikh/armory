@@ -1,0 +1,7 @@
+{
+  "name": "mathworks-matlab",
+  "description": "Run MATLAB using AI applications with the official MCP server from MathWorks, enabling code execution, evaluation, and static analysis",
+  "source_repo": "matlab/matlab-mcp-core-server",
+  "source_url": "https://github.com/matlab/matlab-mcp-core-server",
+  "install": "# git clone --depth 1 https://github.com/matlab/matlab-mcp-core-server\n# See source for mcpServers config block"
+}

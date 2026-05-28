@@ -1,0 +1,7 @@
+{
+  "name": "mcp-template",
+  "description": "Mcp Template MCP server listed on mcp.so.",
+  "source_repo": "adamwulf/mcp-template",
+  "source_url": "https://mcp.so/server/mcp-template/adamwulf",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-template/adamwulf\n# See source for mcpServers config block"
+}

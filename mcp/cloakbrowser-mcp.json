@@ -1,0 +1,7 @@
+{
+  "name": "cloakbrowser-mcp",
+  "description": "CloakBrowser MCP server for AI agents: Playwright-powered browsing, clean tool forwarding, Docker support, and multi-session HTTP transport.",
+  "source_repo": "swimmwatch/cloakbrowser-mcp",
+  "source_url": "https://github.com/swimmwatch/cloakbrowser-mcp",
+  "install": "npx -y cloakbrowser-mcp"
+}

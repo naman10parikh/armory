@@ -1,0 +1,7 @@
+{
+  "name": "icerhymers-spark-connect",
+  "description": "Query Apache Spark and Databricks clusters using DataFrame and SQL tools with read-only safety defaults.",
+  "source_repo": "icerhymers/spark-connect-mcp",
+  "source_url": "https://github.com/icerhymers/spark-connect-mcp",
+  "install": "npx -y spark-connect-mcp"
+}

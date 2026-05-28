@@ -1,0 +1,7 @@
+{
+  "name": "photographi-mcp",
+  "description": "Local computer vision engine for photo library analysis.",
+  "source_repo": "prasadabhishek/photographi-mcp",
+  "source_url": "https://github.com/prasadabhishek/photographi-mcp",
+  "install": "npx -y photographi-mcp"
+}

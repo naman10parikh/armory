@@ -1,0 +1,7 @@
+{
+  "name": "kushagra-dutta-fhir-healthcare-data",
+  "description": "Provides unified access to multiple FHIR healthcare data servers with intelligent server switching, clinical keyword extraction, and patient similarity search for building clinical decision support tools and analyzing patient cohorts across different healthcare systems.",
+  "source_repo": "kushagra-dutta/fhir-mcp",
+  "source_url": "https://github.com/kushagra-dutta/fhir-mcp",
+  "install": "npx -y fhir-mcp"
+}

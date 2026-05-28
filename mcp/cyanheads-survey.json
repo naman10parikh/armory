@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-survey",
+  "description": "Conduct dynamic conversational surveys with conditional logic and structured data collection",
+  "source_repo": "cyanheads/survey-mcp-server",
+  "source_url": "https://github.com/cyanheads/survey-mcp-server",
+  "install": "npx -y survey-mcp-server"
+}

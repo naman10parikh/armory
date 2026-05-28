@@ -1,0 +1,7 @@
+{
+  "name": "bornpresident-volatility",
+  "description": "Integrates the Volatility 3 memory forensics framework with Claude and other MCP-compatible LLMs.",
+  "source_repo": "bornpresident/volatility-mcp-server",
+  "source_url": "https://github.com/bornpresident/volatility-mcp-server",
+  "install": "npx -y volatility-mcp-server"
+}

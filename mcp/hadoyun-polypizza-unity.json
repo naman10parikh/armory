@@ -1,0 +1,7 @@
+{
+  "name": "hadoyun-polypizza-unity",
+  "description": "Integrates with Poly.Pizza's library of 10,500+ low-poly 3D models to automatically download, import, and configure assets directly into Unity projects.",
+  "source_repo": "had0yun/poly-pizza-mcp",
+  "source_url": "https://github.com/had0yun/poly-pizza-mcp",
+  "install": "npx -y poly-pizza-mcp"
+}

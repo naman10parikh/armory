@@ -1,0 +1,7 @@
+{
+  "name": "openroad",
+  "description": "Interactive electronic design automation sessions for the OpenROAD RTL-to-GDS toolchain.",
+  "source_repo": "luarss/openroad-mcp",
+  "source_url": "https://github.com/luarss/openroad-mcp",
+  "install": "npx -y openroad-mcp"
+}

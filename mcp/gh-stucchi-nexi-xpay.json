@@ -1,0 +1,7 @@
+{
+  "name": "gh-stucchi-nexi-xpay",
+  "description": "Nexi XPay Back Office API integration for orders, transactions, and warnings.",
+  "source_repo": "stucchi/nexi-xpay-mcp-server",
+  "source_url": "https://github.com/stucchi/nexi-xpay-mcp-server",
+  "install": "npx -y nexi-xpay-mcp-server"
+}

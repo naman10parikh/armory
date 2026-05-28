@@ -1,0 +1,7 @@
+{
+  "name": "rishiai-mcp-server",
+  "description": "A Vedic astrology MCP server providing tools for natal charts, transits, compatibility, muhurtha, and career analysis using the DashaFlow engine.",
+  "source_repo": "adarshj322/rishi-ai-mcp",
+  "source_url": "https://github.com/adarshj322/rishi-ai-mcp",
+  "install": "npx -y rishi-ai-mcp"
+}

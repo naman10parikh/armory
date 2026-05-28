@@ -1,0 +1,7 @@
+{
+  "name": "johnfire-notesnook",
+  "description": "Bidirectional note sync with the Notesnook note-taking app via filesystem-based export and import.",
+  "source_repo": "johnfire/openclaw-notesnook-mcp",
+  "source_url": "https://github.com/johnfire/openclaw-notesnook-mcp",
+  "install": "npx -y openclaw-notesnook-mcp"
+}

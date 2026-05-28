@@ -1,0 +1,7 @@
+{
+  "name": "gh-vdappdev2-verus-timestamp-write",
+  "description": "Create document timestamp proofs on the Verus blockchain via a local or remote daemon.",
+  "source_repo": "vdappdev2/vtimestamp-mcp-write",
+  "source_url": "https://github.com/vdappdev2/vtimestamp-mcp-write",
+  "install": "# git clone --depth 1 https://github.com/vdappdev2/vtimestamp-mcp-write\n# See source for mcpServers config block"
+}

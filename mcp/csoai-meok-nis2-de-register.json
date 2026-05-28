@@ -1,0 +1,7 @@
+{
+  "name": "csoai-meok-nis2-de-register",
+  "description": "Automate Germany NIS2 (NIS2-UmsuCG) compliance with BSI registration packet generation, scope validation, and HMAC-signed proofs.",
+  "source_repo": "csoai-org/meok-nis2-de-register-mcp",
+  "source_url": "https://github.com/csoai-org/meok-nis2-de-register-mcp",
+  "install": "npx -y meok-nis2-de-register-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grafana-fastmcp-server",
+  "description": "Enables MCP-compatible agents to interact with Grafana instances for searching, creating, and updating dashboards, exploring logs via Loki, querying datasources, managing alerts, incidents, and on-call shifts, and accessing observability data.",
+  "source_repo": "sandersouza/grafanaFastMCP",
+  "source_url": "https://github.com/sandersouza/grafanaFastMCP",
+  "install": "# git clone --depth 1 https://github.com/sandersouza/grafanaFastMCP\n# See source for mcpServers config block"
+}

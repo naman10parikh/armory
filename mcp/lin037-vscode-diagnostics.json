@@ -1,0 +1,7 @@
+{
+  "name": "lin037-vscode-diagnostics",
+  "description": "Connects to VS Code diagnostics via Debug Adapter Protocol to retrieve error messages, warnings, and diagnostic information from active workspaces for debugging workflows and automated error resolution.",
+  "source_repo": "lin037/mcp-diagnostics-trae",
+  "source_url": "https://github.com/lin037/mcp-diagnostics-trae",
+  "install": "# git clone --depth 1 https://github.com/lin037/mcp-diagnostics-trae\n# See source for mcpServers config block"
+}

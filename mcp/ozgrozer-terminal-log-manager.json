@@ -1,0 +1,7 @@
+{
+  "name": "ozgrozer-terminal-log-manager",
+  "description": "Retrieves and manages terminal logs from a specified directory, offering functionality to read recent entries and clear log contents for efficient monitoring and debugging.",
+  "source_repo": "ozgrozer/mcp-get-terminal-logs",
+  "source_url": "https://github.com/ozgrozer/mcp-get-terminal-logs",
+  "install": "# git clone --depth 1 https://github.com/ozgrozer/mcp-get-terminal-logs\n# See source for mcpServers config block"
+}

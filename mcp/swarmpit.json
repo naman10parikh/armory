@@ -1,0 +1,7 @@
+{
+  "name": "swarmpit",
+  "description": "Official Swarmpit MCP server for Docker Swarm management covering services, stacks, networks, and volumes.",
+  "source_repo": "swarmpit/mcp",
+  "source_url": "https://github.com/swarmpit/mcp",
+  "install": "# git clone --depth 1 https://github.com/swarmpit/mcp\n# See source for mcpServers config block"
+}

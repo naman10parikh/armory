@@ -1,0 +1,7 @@
+{
+  "name": "kitsune-kawaii-mcp-server",
+  "description": "Kitsune Kawaii Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "noppefoxwolf/kitsune-kawaii-mcp-server",
+  "source_url": "https://mcp.so/server/kitsune-kawaii-mcp-server/noppefoxwolf",
+  "install": "npx -y kitsune-kawaii-mcp-server"
+}

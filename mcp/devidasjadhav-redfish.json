@@ -1,0 +1,7 @@
+{
+  "name": "devidasjadhav-redfish",
+  "description": "Integrates with Redfish server management APIs to enable natural language control of BMCs and server hardware through endpoint discovery, resource querying, configuration updates, and action execution for data center infrastructure management.",
+  "source_repo": "devidasjadhav/mcp-redfish-python",
+  "source_url": "https://github.com/devidasjadhav/mcp-redfish-python",
+  "install": "# git clone --depth 1 https://github.com/devidasjadhav/mcp-redfish-python\n# See source for mcpServers config block"
+}

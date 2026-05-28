@@ -1,0 +1,7 @@
+{
+  "name": "pkobielak-social-superpowers",
+  "description": "Hosted gateway giving AI agents live read access to X/Twitter and Reddit through twelve social media tools with no API keys required.",
+  "source_repo": "pkobielak/social-superpowers-mcp",
+  "source_url": "https://github.com/pkobielak/social-superpowers-mcp",
+  "install": "npx -y social-superpowers-mcp"
+}

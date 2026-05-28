@@ -1,0 +1,7 @@
+{
+  "name": "utilsforagents-mcp",
+  "description": "Pay-per-call AI agent utilities via x402 micropayments on Base (USDC) — 7 tools at $0.003 per call.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/utilsforagents-mcp",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/utilsforagents-mcp\n# See source for mcpServers config block"
+}

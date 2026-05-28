@@ -1,0 +1,7 @@
+{
+  "name": "ondata-ckan",
+  "description": "Connects to any CKAN open data portal for searching datasets, exploring organizations, querying tabular data, and reading metadata.",
+  "source_repo": "ondata/ckan-mcp-server",
+  "source_url": "https://github.com/ondata/ckan-mcp-server",
+  "install": "npx -y ckan-mcp-server"
+}

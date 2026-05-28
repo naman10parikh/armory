@@ -1,0 +1,7 @@
+{
+  "name": "laurievoss-llamaindex-documentation",
+  "description": "Provides an interface to LlamaCloud, a managed platform for data parsing, ingestion, retrieval, structured data extraction, and more",
+  "source_repo": "run-llama/llamacloud-mcp",
+  "source_url": "https://github.com/run-llama/llamacloud-mcp",
+  "install": "npx -y llamacloud-mcp"
+}

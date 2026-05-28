@@ -1,0 +1,7 @@
+{
+  "name": "canlgz-markitdown",
+  "description": "Converts various file formats including PDF, PowerPoint, Word, Excel, images, audio, HTML, and text-based formats to Markdown through a simple '/md' command.",
+  "source_repo": "canlgz/markitdown_mcp_server",
+  "source_url": "https://github.com/canlgz/markitdown_mcp_server",
+  "install": "npx -y markitdown_mcp_server"
+}

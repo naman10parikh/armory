@@ -1,0 +1,7 @@
+{
+  "name": "whiteknightonhorse-apibase",
+  "description": "Unified API hub for AI agents with 56+ tools across travel (Amadeus, Sabre), prediction markets (Polymarket), crypto, and weather. Pay-per-call via x402 micropayments in USDC.",
+  "source_repo": "whiteknightonhorse/APIbase",
+  "source_url": "https://github.com/whiteknightonhorse/APIbase",
+  "install": "# git clone --depth 1 https://github.com/whiteknightonhorse/APIbase\n# See source for mcpServers config block"
+}

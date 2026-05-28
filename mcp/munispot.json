@@ -1,0 +1,7 @@
+{
+  "name": "munispot",
+  "description": "Municipal financial data covering credit scores, budgets, and economic indicators for thousands of U.S. governments.",
+  "source_repo": "",
+  "source_url": "https://munispot.com",
+  "install": "# git clone --depth 1 https://munispot.com\n# See source for mcpServers config block"
+}

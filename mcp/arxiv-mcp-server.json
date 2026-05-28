@@ -1,0 +1,7 @@
+{
+  "name": "arxiv-mcp-server",
+  "description": "Search arXiv, fetch paper metadata, and read full-text content via MCP.",
+  "source_repo": "",
+  "source_url": "https://arxiv.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://arxiv.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imgmcp",
+  "description": "Unified multimedia AI server providing access to image, audio, and video generation models from OpenAI, Stability AI, and Replicate with pay-as-you-use credits, curated style prompts, and workflow automation features like background removal.",
+  "source_repo": "imgmcp/imgmcp",
+  "source_url": "https://github.com/imgmcp/imgmcp",
+  "install": "# git clone --depth 1 https://github.com/imgmcp/imgmcp\n# See source for mcpServers config block"
+}

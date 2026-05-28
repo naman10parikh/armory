@@ -1,0 +1,7 @@
+{
+  "name": "aminforou-gsc",
+  "description": "Integrates with Google Search Console API to provide website search performance analytics, indexing status monitoring, and sitemap management for SEO professionals",
+  "source_repo": "aminforou/mcp-gsc",
+  "source_url": "https://github.com/aminforou/mcp-gsc",
+  "install": "# git clone --depth 1 https://github.com/aminforou/mcp-gsc\n# See source for mcpServers config block"
+}

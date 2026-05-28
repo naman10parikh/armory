@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-commit-message-ai-mcp",
+  "description": "AI-powered commit message generation and formatting tools.",
+  "source_repo": "csoai-org/commit-message-ai-mcp",
+  "source_url": "https://github.com/csoai-org/commit-message-ai-mcp",
+  "install": "npx -y commit-message-ai-mcp"
+}

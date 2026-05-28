@@ -1,0 +1,7 @@
+{
+  "name": "litestar-mcp",
+  "description": "A Litestar plugin that automatically exposes marked routes as MCP tools and resources over Streamable HTTP.",
+  "source_repo": "cofin/litestar-mcp",
+  "source_url": "https://github.com/cofin/litestar-mcp",
+  "install": "npx -y litestar-mcp"
+}

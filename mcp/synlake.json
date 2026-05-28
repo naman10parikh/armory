@@ -1,0 +1,7 @@
+{
+  "name": "synlake",
+  "description": "Compare, estimate, and deploy cloud infrastructure across AWS, GCP, and Azure for AI agents.",
+  "source_repo": "synlake-ai/synlake",
+  "source_url": "https://github.com/synlake-ai/synlake",
+  "install": "# git clone --depth 1 https://github.com/synlake-ai/synlake\n# See source for mcpServers config block"
+}

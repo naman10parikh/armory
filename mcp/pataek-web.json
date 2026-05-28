@@ -1,0 +1,7 @@
+{
+  "name": "pataek-web",
+  "description": "Provides web search via SearXNG and web page fetching via a local Streamable HTTP MCP server with SSRF protection.",
+  "source_repo": "pataek/mcp-web",
+  "source_url": "https://github.com/pataek/mcp-web",
+  "install": "# git clone --depth 1 https://github.com/pataek/mcp-web\n# See source for mcpServers config block"
+}

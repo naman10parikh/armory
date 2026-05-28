@@ -1,0 +1,7 @@
+{
+  "name": "soukouki-local-wikipedia",
+  "description": "Provides offline Wikipedia access through local dataset downloads from HuggingFace's finewiki collection with multi-language support and configurable fallbacks for scenarios requiring encyclopedic knowledge without internet connectivity or reduced query latency.",
+  "source_repo": "soukouki/local-wikipedia",
+  "source_url": "https://github.com/soukouki/local-wikipedia",
+  "install": "# git clone --depth 1 https://github.com/soukouki/local-wikipedia\n# See source for mcpServers config block"
+}

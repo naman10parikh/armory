@@ -1,0 +1,7 @@
+{
+  "name": "sauravroy34-research-paper",
+  "description": "Searches academic databases including Semantic Scholar and OpenAlex, resolves paper identifiers, and discovers related research via a FastMCP server hosted on Hugging Face.",
+  "source_repo": "sauravroy34/researchpapermcp",
+  "source_url": "https://github.com/sauravroy34/researchpapermcp",
+  "install": "# git clone --depth 1 https://github.com/sauravroy34/researchpapermcp\n# See source for mcpServers config block"
+}

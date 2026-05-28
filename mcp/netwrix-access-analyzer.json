@@ -1,0 +1,7 @@
+{
+  "name": "netwrix-access-analyzer",
+  "description": "Enables security administrators to analyze file system permissions, identify excessive access rights, and detect shadow access paths in enterprise environments through SQL Server database queries.",
+  "source_repo": "netwrix/mcp-server-naa",
+  "source_url": "https://github.com/netwrix/mcp-server-naa",
+  "install": "# git clone --depth 1 https://github.com/netwrix/mcp-server-naa\n# See source for mcpServers config block"
+}

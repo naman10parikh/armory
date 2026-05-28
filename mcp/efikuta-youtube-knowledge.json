@@ -1,0 +1,7 @@
+{
+  "name": "efikuta-youtube-knowledge",
+  "description": "Transforms YouTube into a queryable knowledge source with video search, content analysis, trending discovery, channel research, and transcript extraction using intelligent quota management and multi-tier caching to optimize API usage.",
+  "source_repo": "efikuta/youtube-knowledge-mcp",
+  "source_url": "https://github.com/efikuta/youtube-knowledge-mcp",
+  "install": "npx -y youtube-knowledge-mcp"
+}

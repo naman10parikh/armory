@@ -1,0 +1,7 @@
+{
+  "name": "javaprogrammerlb-unsplash",
+  "description": "Integrates with Unsplash's photo library to enable image search and retrieval with customizable parameters including search terms, pagination, ordering, color filtering, and orientation preferences.",
+  "source_repo": "javaprogrammerlb/unsplash-mcp-server",
+  "source_url": "https://github.com/javaprogrammerlb/unsplash-mcp-server",
+  "install": "npx -y unsplash-mcp-server"
+}

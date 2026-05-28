@@ -1,0 +1,7 @@
+{
+  "name": "acedatacloud-mcpshorturl",
+  "description": "Free URL shortening with batch support (up to 10 URLs), permanent `surl.id` short links, zero credit consumption.",
+  "source_repo": "AceDataCloud/MCPShortURL",
+  "source_url": "https://github.com/AceDataCloud/MCPShortURL",
+  "install": "# git clone --depth 1 https://github.com/AceDataCloud/MCPShortURL\n# See source for mcpServers config block"
+}

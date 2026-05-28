@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dump",
+  "description": "MCP Dump MCP server listed on mcp.so.",
+  "source_repo": "Jayanth-MKV/MCP-dump",
+  "source_url": "https://mcp.so/server/MCP-dump/Jayanth-MKV",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-dump/Jayanth-MKV\n# See source for mcpServers config block"
+}

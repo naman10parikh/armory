@@ -1,0 +1,7 @@
+{
+  "name": "sallvainian-ngss",
+  "description": "Provides access to Next Generation Science Standards for middle school education with 3D framework filtering, full-text search, and configurable response detail levels for standards-aligned lesson planning and curriculum development.",
+  "source_repo": "sallvainian/ngss-mcp",
+  "source_url": "https://github.com/sallvainian/ngss-mcp",
+  "install": "npx -y ngss-mcp"
+}

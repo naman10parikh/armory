@@ -1,0 +1,7 @@
+{
+  "name": "dinanathdash-envault",
+  "description": "Secure secrets management with Human-In-The-Loop interception for agent mutations via the Envault platform.",
+  "source_repo": "dinanathdash/envault",
+  "source_url": "https://github.com/dinanathdash/envault",
+  "install": "# git clone --depth 1 https://github.com/dinanathdash/envault\n# See source for mcpServers config block"
+}

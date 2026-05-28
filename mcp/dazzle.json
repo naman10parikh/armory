@@ -1,0 +1,7 @@
+{
+  "name": "dazzle",
+  "description": "Cloud stages for live streaming and AI agents with browser rendering, content sync, and broadcast management.",
+  "source_repo": "dazzle-labs/cli",
+  "source_url": "https://github.com/dazzle-labs/cli",
+  "install": "# git clone --depth 1 https://github.com/dazzle-labs/cli\n# See source for mcpServers config block"
+}

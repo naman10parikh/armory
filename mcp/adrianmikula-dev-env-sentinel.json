@@ -1,0 +1,7 @@
+{
+  "name": "adrianmikula-dev-env-sentinel",
+  "description": "Monitors development environment health across Java, JavaScript, Python, C#, and Docker ecosystems by comparing source timestamps against build artifacts, checking dependency states, and providing automated reconciliation suggestions.",
+  "source_repo": "adrianmikula/devenvmcp",
+  "source_url": "https://github.com/adrianmikula/devenvmcp",
+  "install": "# git clone --depth 1 https://github.com/adrianmikula/devenvmcp\n# See source for mcpServers config block"
+}

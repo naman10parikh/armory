@@ -1,0 +1,7 @@
+{
+  "name": "woopsocial",
+  "description": "Generates, schedules, and publishes social content across Facebook, Instagram, LinkedIn, TikTok, and more via API key-authenticated MCP.",
+  "source_repo": "",
+  "source_url": "https://api.woopsocial.com/mcp",
+  "install": "# git clone --depth 1 https://api.woopsocial.com/mcp\n# See source for mcpServers config block"
+}

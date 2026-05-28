@@ -1,0 +1,7 @@
+{
+  "name": "swarm-corporation-medical-agents-aop",
+  "description": "Orchestrates specialized medical AI agents for blood data analysis, CBC interpretation, and clinical decision support",
+  "source_repo": "the-swarm-corporation/medical-agents-aop-server",
+  "source_url": "https://github.com/the-swarm-corporation/medical-agents-aop-server",
+  "install": "# git clone --depth 1 https://github.com/the-swarm-corporation/medical-agents-aop-server\n# See source for mcpServers config block"
+}

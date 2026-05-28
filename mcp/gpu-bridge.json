@@ -1,0 +1,7 @@
+{
+  "name": "gpu-bridge",
+  "description": "Unified GPU inference API exposing 30 AI services including LLMs, image generation, audio, video, and embeddings with x402 payment support.",
+  "source_repo": "gpu-bridge/mcp-server",
+  "source_url": "https://github.com/gpu-bridge/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/gpu-bridge/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gemini-image-generation-mcp",
+  "description": "Gemini Image Generation Mcp MCP server listed on mcp.so.",
+  "source_repo": "jezweb/gemini-image-generation-mcp",
+  "source_url": "https://mcp.so/server/gemini-image-generation-mcp/jezweb",
+  "install": "npx -y gemini-image-generation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "onamfc-github-integration",
+  "description": "Integrates with GitHub's REST API through 129 tools covering repository management, issue tracking, pull requests, GitHub Actions, webhooks, collaborators, and search capabilities for complete development workflow automation.",
+  "source_repo": "onamfc/mcp-github-integration",
+  "source_url": "https://github.com/onamfc/mcp-github-integration",
+  "install": "# git clone --depth 1 https://github.com/onamfc/mcp-github-integration\n# See source for mcpServers config block"
+}

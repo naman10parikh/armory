@@ -1,0 +1,7 @@
+{
+  "name": "redbook-search-comment-mcp2-0",
+  "description": "Enables automated searching and commenting on Xiaohongshu with AI-generated comments via MCP clients like Claude, supporting login persistence, note analysis, and four comment types.",
+  "source_repo": "iflow-mcp/Redbook-Search-Comment-MCP2.0",
+  "source_url": "https://github.com/iflow-mcp/Redbook-Search-Comment-MCP2.0",
+  "install": "# git clone --depth 1 https://github.com/iflow-mcp/Redbook-Search-Comment-MCP2.0\n# See source for mcpServers config block"
+}

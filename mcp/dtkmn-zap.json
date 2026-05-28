@@ -1,0 +1,7 @@
+{
+  "name": "dtkmn-zap",
+  "description": "Exposes OWASP ZAP web security scanning capabilities to AI agents via MCP for guided security assessments.",
+  "source_repo": "dtkmn/mcp-zap-server",
+  "source_url": "https://github.com/dtkmn/mcp-zap-server",
+  "install": "# git clone --depth 1 https://github.com/dtkmn/mcp-zap-server\n# See source for mcpServers config block"
+}

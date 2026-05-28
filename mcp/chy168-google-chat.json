@@ -1,0 +1,7 @@
+{
+  "name": "chy168-google-chat",
+  "description": "Lightweight Google Chat integration server enabling OAuth2-authenticated access to chat spaces and messages with flexible date-based filtering for developers.",
+  "source_repo": "chy168/google-chat-mcp-server",
+  "source_url": "https://github.com/chy168/google-chat-mcp-server",
+  "install": "npx -y google-chat-mcp-server"
+}

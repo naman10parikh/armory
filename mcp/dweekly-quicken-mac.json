@@ -1,0 +1,7 @@
+{
+  "name": "dweekly-quicken-mac",
+  "description": "Read-only access to Quicken for Mac financial data including transactions, spending, and portfolios.",
+  "source_repo": "dweekly/quicken-mac-mcp",
+  "source_url": "https://github.com/dweekly/quicken-mac-mcp",
+  "install": "npx -y quicken-mac-mcp"
+}

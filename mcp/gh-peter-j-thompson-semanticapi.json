@@ -1,0 +1,7 @@
+{
+  "name": "gh-peter-j-thompson-semanticapi",
+  "description": "Natural language API discovery across 163+ providers with auto-discovery.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/gh-peter-j-thompson-semanticapi",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/gh-peter-j-thompson-semanticapi\n# See source for mcpServers config block"
+}

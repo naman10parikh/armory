@@ -1,0 +1,7 @@
+{
+  "name": "taxuspt-garmin-connect",
+  "description": "Integrates with Garmin Connect to expose fitness and health data, enabling access to activities, detailed workout information, and health metrics like heart rate through natural language interactions.",
+  "source_repo": "taxuspt/garmin_mcp",
+  "source_url": "https://github.com/taxuspt/garmin_mcp",
+  "install": "npx -y garmin_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "amarisaster-discord-cloud",
+  "description": "Discord bot automation server deployed on Cloudflare Workers that provides complete Discord API access through 20+ tools for server management, messaging, reactions, channels, forums, threads, and webhooks with advanced features like custom avatar messaging and bulk operations.",
+  "source_repo": "amarisaster/discord-cloud-mcp",
+  "source_url": "https://github.com/amarisaster/discord-cloud-mcp",
+  "install": "npx -y discord-cloud-mcp"
+}

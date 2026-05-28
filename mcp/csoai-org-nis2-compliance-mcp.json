@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-nis2-compliance-mcp",
+  "description": "Python MCP server for NIS2 cybersecurity directive compliance guidance.",
+  "source_repo": "csoai-org/nis2-compliance-mcp",
+  "source_url": "https://github.com/csoai-org/nis2-compliance-mcp",
+  "install": "npx -y nis2-compliance-mcp"
+}

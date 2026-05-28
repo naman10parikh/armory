@@ -1,0 +1,7 @@
+{
+  "name": "hannes221-kali-linux",
+  "description": "Docker-based Kali Linux environment with security tools for authorized penetration testing.",
+  "source_repo": "hannes221/kali-mcp",
+  "source_url": "https://github.com/hannes221/kali-mcp",
+  "install": "npx -y kali-mcp"
+}

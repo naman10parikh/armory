@@ -1,0 +1,7 @@
+{
+  "name": "landicefu-divide-and-conquer",
+  "description": "Enables breaking down complex tasks into manageable pieces with structured JSON storage for tracking progress, maintaining checklists, and preserving context across multiple conversations.",
+  "source_repo": "landicefu/divide-and-conquer-mcp-server",
+  "source_url": "https://github.com/landicefu/divide-and-conquer-mcp-server",
+  "install": "npx -y divide-and-conquer-mcp-server"
+}

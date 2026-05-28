@@ -1,0 +1,7 @@
+{
+  "name": "chaixueyuan-weapp-agent",
+  "description": "Automate and test WeChat Mini Programs via DevTools with navigation, screenshots, element interaction, and DOM inspection.",
+  "source_repo": "chaixueyuan/weapp-agent-mcp",
+  "source_url": "https://github.com/chaixueyuan/weapp-agent-mcp",
+  "install": "npx -y weapp-agent-mcp"
+}

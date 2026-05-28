@@ -1,0 +1,7 @@
+{
+  "name": "hashnet",
+  "description": "Universal AI agent discovery - search agents across MCP, NANDA, A2A, and OpenRouter protocols",
+  "source_repo": "hashgraph-online/hashnet-mcp-js",
+  "source_url": "https://github.com/hashgraph-online/hashnet-mcp-js",
+  "install": "# git clone --depth 1 https://github.com/hashgraph-online/hashnet-mcp-js\n# See source for mcpServers config block"
+}

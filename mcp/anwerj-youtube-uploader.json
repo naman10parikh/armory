@@ -1,0 +1,7 @@
+{
+  "name": "anwerj-youtube-uploader",
+  "description": "Provides OAuth2-authenticated YouTube video uploading with automatic token management, channel retrieval, and comprehensive metadata configuration for content creators and automation workflows.",
+  "source_repo": "anwerj/youtube-uploader-mcp",
+  "source_url": "https://github.com/anwerj/youtube-uploader-mcp",
+  "install": "npx -y youtube-uploader-mcp"
+}

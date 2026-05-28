@@ -1,0 +1,7 @@
+{
+  "name": "solana-foundation-solana-dev",
+  "description": "Integrates with Solana blockchain to provide direct access to account data, transaction details, and network parameters through TypeScript-based RPC methods for developers building on the Solana ecosystem.",
+  "source_repo": "solana-foundation/solana-dev-mcp",
+  "source_url": "https://github.com/solana-foundation/solana-dev-mcp",
+  "install": "npx -y solana-dev-mcp"
+}

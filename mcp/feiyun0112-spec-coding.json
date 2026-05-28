@@ -1,0 +1,7 @@
+{
+  "name": "feiyun0112-spec-coding",
+  "description": "Enforces a structured five-stage software development workflow from feature definition through task execution, generating standardized requirements documents, design specifications, and actionable task lists to ensure disciplined development practices with proper documentation.",
+  "source_repo": "feiyun0112/spec-coding-mcp",
+  "source_url": "https://github.com/feiyun0112/spec-coding-mcp",
+  "install": "npx -y spec-coding-mcp"
+}

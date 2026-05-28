@@ -1,0 +1,7 @@
+{
+  "name": "leni",
+  "description": "AI-native task management for Claude and ChatGPT with automatic sync across platforms",
+  "source_repo": "",
+  "source_url": "https://www.heyleni.ai",
+  "install": "# git clone --depth 1 https://www.heyleni.ai\n# See source for mcpServers config block"
+}

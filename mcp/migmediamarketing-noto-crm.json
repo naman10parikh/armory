@@ -1,0 +1,7 @@
+{
+  "name": "migmediamarketing-noto-crm",
+  "description": "Minimalist CRM for freelancers with AI-powered contact and project management.",
+  "source_repo": "migmediamarketing-ai/noto-crm-mcp-server",
+  "source_url": "https://github.com/migmediamarketing-ai/noto-crm-mcp-server",
+  "install": "npx -y noto-crm-mcp-server"
+}

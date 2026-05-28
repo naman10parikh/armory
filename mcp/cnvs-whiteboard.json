@@ -1,0 +1,7 @@
+{
+  "name": "cnvs-whiteboard",
+  "description": "Zero-auth real-time collaborative whiteboard with AI agent support for live board editing and annotation.",
+  "source_repo": "lksrz/cnvs-whiteboard-skills",
+  "source_url": "https://github.com/lksrz/cnvs-whiteboard-skills",
+  "install": "# git clone --depth 1 https://github.com/lksrz/cnvs-whiteboard-skills\n# See source for mcpServers config block"
+}

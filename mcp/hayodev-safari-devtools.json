@@ -1,0 +1,7 @@
+{
+  "name": "hayodev-safari-devtools",
+  "description": "Control and debug live Safari browsers on macOS from AI coding agents.",
+  "source_repo": "hayodev/safari-devtools-mcp",
+  "source_url": "https://github.com/hayodev/safari-devtools-mcp",
+  "install": "npx -y safari-devtools-mcp"
+}

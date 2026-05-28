@@ -1,0 +1,7 @@
+{
+  "name": "supersend",
+  "description": "Cold email sequencing platform for managing contacts, campaigns, senders, and deliverability.",
+  "source_repo": "",
+  "source_url": "https://docs.supersend.io/docs/mcp-server",
+  "install": "# git clone --depth 1 https://docs.supersend.io/docs/mcp-server\n# See source for mcpServers config block"
+}

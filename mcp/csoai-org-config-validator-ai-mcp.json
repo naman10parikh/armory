@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-config-validator-ai-mcp",
+  "description": "AI-powered configuration file validation and error detection tools.",
+  "source_repo": "csoai-org/config-validator-ai-mcp",
+  "source_url": "https://github.com/csoai-org/config-validator-ai-mcp",
+  "install": "npx -y config-validator-ai-mcp"
+}

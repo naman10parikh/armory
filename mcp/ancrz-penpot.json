@@ -1,0 +1,7 @@
+{
+  "name": "ancrz-penpot",
+  "description": "Provides full programmatic access to self-hosted Penpot design instances with 68 tools covering projects, shapes, text, exports, comments, and component management.",
+  "source_repo": "ancrz/penpot-mcp-server",
+  "source_url": "https://github.com/ancrz/penpot-mcp-server",
+  "install": "npx -y penpot-mcp-server"
+}

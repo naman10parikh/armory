@@ -1,0 +1,7 @@
+{
+  "name": "power-bi-report-mcp-server",
+  "description": "Build Power BI reports with natural language through an MCP server that connects AI assistants to Power BI's PBIR file format for creating pages, visuals, themes, and filters locally.",
+  "source_repo": "jonathan-pap/powerbi-report-mcp",
+  "source_url": "https://github.com/jonathan-pap/powerbi-report-mcp",
+  "install": "npx -y powerbi-report-mcp"
+}

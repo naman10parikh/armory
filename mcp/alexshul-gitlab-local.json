@@ -1,0 +1,7 @@
+{
+  "name": "alexshul-gitlab-local",
+  "description": "Manage GitLab merge requests with auto-detection of current branch context, including creation, review, comments, and merging.",
+  "source_repo": "alexshul/gitlab-local-mcp",
+  "source_url": "https://github.com/alexshul/gitlab-local-mcp",
+  "install": "npx -y gitlab-local-mcp"
+}

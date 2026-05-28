@@ -1,0 +1,7 @@
+{
+  "name": "quickchat-ai",
+  "description": "Provides a bridge between AI assistants and Quickchat's conversation platform, enabling seamless interaction with Quickchat scenarios through API key authentication and conversation state management.",
+  "source_repo": "quickchatai/quickchat-ai-mcp",
+  "source_url": "https://github.com/quickchatai/quickchat-ai-mcp",
+  "install": "npx -y quickchat-ai-mcp"
+}

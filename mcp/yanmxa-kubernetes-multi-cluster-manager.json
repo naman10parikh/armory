@@ -1,0 +1,7 @@
+{
+  "name": "yanmxa-kubernetes-multi-cluster-manager",
+  "description": "Provides a bridge to Kubernetes multi-cluster environments for managing distributed resources through kubectl commands, service account connections, and seamless cross-cluster operations without switching contexts.",
+  "source_repo": "yanmxa/multicluster-mcp-server",
+  "source_url": "https://github.com/yanmxa/multicluster-mcp-server",
+  "install": "npx -y multicluster-mcp-server"
+}

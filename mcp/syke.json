@@ -1,0 +1,7 @@
+{
+  "name": "syke",
+  "description": "AI code impact analysis with dependency graphs, cascade detection, and build gates for safe AI-assisted development.",
+  "source_repo": "khalomsky/syke",
+  "source_url": "https://github.com/khalomsky/syke",
+  "install": "# git clone --depth 1 https://github.com/khalomsky/syke\n# See source for mcpServers config block"
+}

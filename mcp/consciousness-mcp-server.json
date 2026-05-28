@@ -1,0 +1,7 @@
+{
+  "name": "consciousness-mcp-server",
+  "description": "A pluggable vector memory server for semantic search and long-term memory, with session-scoped and universal memory tools.",
+  "source_repo": "one710/consciousness",
+  "source_url": "https://github.com/one710/consciousness",
+  "install": "# git clone --depth 1 https://github.com/one710/consciousness\n# See source for mcpServers config block"
+}

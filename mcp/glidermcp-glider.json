@@ -1,0 +1,7 @@
+{
+  "name": "glidermcp-glider",
+  "description": "Provides Roslyn-powered C# code analysis capabilities including solution management, diagnostics, symbol search, refactoring, and dependency analysis.",
+  "source_repo": "glidermcp/glidermcp.com",
+  "source_url": "https://github.com/glidermcp/glidermcp.com",
+  "install": "# git clone --depth 1 https://github.com/glidermcp/glidermcp.com\n# See source for mcpServers config block"
+}

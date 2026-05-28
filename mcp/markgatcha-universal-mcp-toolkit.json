@@ -1,0 +1,7 @@
+{
+  "name": "markgatcha-universal-mcp-toolkit",
+  "description": "A universal MCP aggregator toolkit that connects AI agents to multiple MCP servers through a single unified configuration. Features ready-made templates, cross-repo prompt workflows, and an npm package for zero-config installation.universal MCP aggregator toolkit that connects AI agents to multiple MCP servers through a single unified configuration. Features ready-made templates, cross-repo prompt workflows, and an npm package for zero-config installation.",
+  "source_repo": "Markgatcha/universal-mcp-toolkit",
+  "source_url": "https://github.com/Markgatcha/universal-mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/Markgatcha/universal-mcp-toolkit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "merterbak-grok",
+  "description": "Integrates with xAI's Grok API to provide text generation, image creation, vision analysis, web search with citations, and persistent conversation management with 30-day storage across all Grok model variants including reasoning models.",
+  "source_repo": "merterbak/grok-mcp",
+  "source_url": "https://github.com/merterbak/grok-mcp",
+  "install": "npx -y grok-mcp"
+}

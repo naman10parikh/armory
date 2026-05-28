@@ -1,0 +1,7 @@
+{
+  "name": "kablewy-fred-economic-data",
+  "description": "Integrates with FRED API to provide economic data retrieval, search, and metadata access for economic analysis and forecasting applications.",
+  "source_repo": "kablewy/fred-mcp-server",
+  "source_url": "https://github.com/kablewy/fred-mcp-server",
+  "install": "npx -y fred-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nassie256-ambient-context",
+  "description": "Local Windows ambient context — presence status, foreground app, battery level, and system load as privacy-gated MCP tools.",
+  "source_repo": "nassie256/ambient-context-mcp",
+  "source_url": "https://github.com/nassie256/ambient-context-mcp",
+  "install": "npx -y ambient-context-mcp"
+}

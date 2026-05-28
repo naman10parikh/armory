@@ -1,0 +1,7 @@
+{
+  "name": "talknerdytome-labs-facebook-ads-library",
+  "description": "Integrates with Meta's Facebook Ad Library through ScrapeCreators API to search brands and retrieve their running advertisements with image and video analysis for competitive research and marketing insights.",
+  "source_repo": "proxy-intell/facebook-ads-library-mcp",
+  "source_url": "https://github.com/proxy-intell/facebook-ads-library-mcp",
+  "install": "npx -y facebook-ads-library-mcp"
+}

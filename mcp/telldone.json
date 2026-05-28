@@ -1,0 +1,7 @@
+{
+  "name": "telldone",
+  "description": "Voice-first planning app with notes, tasks, events, and AI reports for iOS and Apple Watch.",
+  "source_repo": "exp78/telldone-mcp",
+  "source_url": "https://github.com/exp78/telldone-mcp",
+  "install": "npx -y telldone-mcp"
+}

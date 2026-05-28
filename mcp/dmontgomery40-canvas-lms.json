@@ -1,0 +1,7 @@
+{
+  "name": "dmontgomery40-canvas-lms",
+  "description": "Manage courses and assignments in Canvas learning system.",
+  "source_repo": "dmontgomery40/mcp-canvas-lms",
+  "source_url": "https://github.com/dmontgomery40/mcp-canvas-lms",
+  "install": "# git clone --depth 1 https://github.com/dmontgomery40/mcp-canvas-lms\n# See source for mcpServers config block"
+}

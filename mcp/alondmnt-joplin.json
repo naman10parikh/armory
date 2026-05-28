@@ -1,0 +1,7 @@
+{
+  "name": "alondmnt-joplin",
+  "description": "Integrates with Joplin note-taking application via the joppy Python API",
+  "source_repo": "alondmnt/joplin-mcp",
+  "source_url": "https://github.com/alondmnt/joplin-mcp",
+  "install": "npx -y joplin-mcp"
+}

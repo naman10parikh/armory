@@ -1,0 +1,7 @@
+{
+  "name": "mertatesmen-tavily",
+  "description": "Integrates with Tavily API to provide web search, content extraction, website crawling, and URL mapping capabilities with customizable parameters for depth, filtering, and domain control.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/mertatesmen-tavily",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/mertatesmen-tavily\n# See source for mcpServers config block"
+}

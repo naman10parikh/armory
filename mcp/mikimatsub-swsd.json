@@ -1,0 +1,7 @@
+{
+  "name": "mikimatsub-swsd",
+  "description": "SolarWinds Service Desk integration — manage tickets, knowledge base, and service catalog via MCP.",
+  "source_repo": "mikimatsub/swsd-mcp",
+  "source_url": "https://github.com/mikimatsub/swsd-mcp",
+  "install": "npx -y swsd-mcp"
+}

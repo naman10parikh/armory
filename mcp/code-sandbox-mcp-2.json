@@ -1,0 +1,7 @@
+{
+  "name": "code-sandbox-mcp-2",
+  "description": "Code Sandbox Mcp MCP server listed on mcp.so.",
+  "source_repo": "insecurepla/code-sandbox-mcp",
+  "source_url": "https://mcp.so/server/code-sandbox-mcp/insecurepla",
+  "install": "npx -y code-sandbox-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wherobots",
+  "description": "Generate and run high-performance spatial SQL queries on open and private geospatial data at cloud scale.",
+  "source_repo": "",
+  "source_url": "https://api.cloud.wherobots.com/mcp/",
+  "install": "# git clone --depth 1 https://api.cloud.wherobots.com/mcp/\n# See source for mcpServers config block"
+}

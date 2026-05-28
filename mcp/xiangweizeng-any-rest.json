@@ -1,0 +1,7 @@
+{
+  "name": "xiangweizeng-any-rest",
+  "description": "Dynamic REST API gateway using ZML configuration language for type-safe endpoint definitions with hot-reloading and flexible authentication",
+  "source_repo": "xiangweizeng/mcp-any-rest",
+  "source_url": "https://github.com/xiangweizeng/mcp-any-rest",
+  "install": "# git clone --depth 1 https://github.com/xiangweizeng/mcp-any-rest\n# See source for mcpServers config block"
+}

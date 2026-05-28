@@ -1,0 +1,7 @@
+{
+  "name": "glenngillen-mcpmcp-server",
+  "description": "A list of MCP servers so you can ask your client which servers you can use to improve your daily workflow.",
+  "source_repo": "glenngillen/mcpmcp-server",
+  "source_url": "https://github.com/glenngillen/mcpmcp-server",
+  "install": "npx -y mcpmcp-server"
+}

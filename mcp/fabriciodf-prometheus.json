@@ -1,0 +1,7 @@
+{
+  "name": "fabriciodf-prometheus",
+  "description": "Integrates with Prometheus monitoring systems to execute PromQL queries, discover metrics, retrieve metadata, and analyze scrape targets for observability workflows and infrastructure troubleshooting.",
+  "source_repo": "fabriciodf/otel_prom_mcp_server",
+  "source_url": "https://github.com/fabriciodf/otel_prom_mcp_server/tree/HEAD/prometheus-mcp-server",
+  "install": "npx -y otel_prom_mcp_server"
+}

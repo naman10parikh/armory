@@ -1,0 +1,7 @@
+{
+  "name": "personal-kg-mcp",
+  "description": "Auto-captures decision context from multi-agent workflows to preserve the 'why' behind every choice. Enables task traceability, reasoning retrieval, and continuous improvement across planning and implementation sessions.",
+  "source_repo": "tomschell/personal-kg-mcp",
+  "source_url": "https://github.com/tomschell/personal-kg-mcp",
+  "install": "npx -y personal-kg-mcp"
+}

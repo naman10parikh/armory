@@ -1,0 +1,7 @@
+{
+  "name": "sequential-thinking-ultra",
+  "description": "Enhances reasoning capabilities through Sequential Thinking Ultra system with quality metrics, bias detection, and multi-mode analysis patterns including serial, parallel, and hybrid thinking for complex analytical problem-solving workflows.",
+  "source_repo": "hyokunkwak/sequential-thinking-ultra-mcp",
+  "source_url": "https://github.com/hyokunkwak/sequential-thinking-ultra-mcp",
+  "install": "npx -y sequential-thinking-ultra-mcp"
+}

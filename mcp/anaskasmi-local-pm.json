@@ -1,0 +1,7 @@
+{
+  "name": "anaskasmi-local-pm",
+  "description": "Self-hosted project management system with Linear-like Kanban boards that exposes tools for creating projects, managing tickets, assigning teams, and tracking dependencies.",
+  "source_repo": "anaskasmi/local-pm",
+  "source_url": "https://github.com/anaskasmi/local-pm",
+  "install": "# git clone --depth 1 https://github.com/anaskasmi/local-pm\n# See source for mcpServers config block"
+}

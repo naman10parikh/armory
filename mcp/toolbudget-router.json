@@ -1,0 +1,7 @@
+{
+  "name": "toolbudget-router",
+  "description": "Context-budget routing with schema cost estimates, usage auditing, and readiness checks.",
+  "source_repo": "",
+  "source_url": "https://toolbudgetrouter.clauxel.com/mcp",
+  "install": "# git clone --depth 1 https://toolbudgetrouter.clauxel.com/mcp\n# See source for mcpServers config block"
+}

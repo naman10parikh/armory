@@ -1,0 +1,7 @@
+{
+  "name": "honeylabs",
+  "description": "Query honeypot probe data for IP reputation, scanner activity, CVE targeting, and TLS/SSH fingerprints.",
+  "source_repo": "honeylabshq/honeylabs-mcp",
+  "source_url": "https://github.com/honeylabshq/honeylabs-mcp",
+  "install": "npx -y honeylabs-mcp"
+}

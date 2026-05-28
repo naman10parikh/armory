@@ -1,0 +1,7 @@
+{
+  "name": "solana-dev-mcp",
+  "description": "Solana Dev Mcp MCP server listed on mcp.so.",
+  "source_repo": "solana-foundation/solana-dev-mcp",
+  "source_url": "https://mcp.so/server/solana-dev-mcp/solana-foundation",
+  "install": "npx -y solana-dev-mcp"
+}

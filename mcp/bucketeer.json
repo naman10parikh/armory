@@ -1,0 +1,7 @@
+{
+  "name": "bucketeer",
+  "description": "Integrates with Bucketeer's open-source feature flag platform to provide complete CRUD operations for managing feature flags, including listing with filtering, creating with targeting rules, updating with audit trails, and archiving flags across multiple environments.",
+  "source_repo": "bucketeer-io/bucketeer-mcp",
+  "source_url": "https://github.com/bucketeer-io/bucketeer-mcp",
+  "install": "npx -y bucketeer-mcp"
+}

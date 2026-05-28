@@ -1,0 +1,7 @@
+{
+  "name": "armanzeroeight-octopus-deploy",
+  "description": "Integrates with Octopus Deploy to manage projects, releases, and deployments through natural language interactions, enabling DevOps teams to query project details, create releases, initiate deployments, and monitor deployment status across multiple spaces without navigating the web interface.",
+  "source_repo": "armanzeroeight/octopus-deploy-mcp-server",
+  "source_url": "https://github.com/armanzeroeight/octopus-deploy-mcp-server",
+  "install": "npx -y octopus-deploy-mcp-server"
+}

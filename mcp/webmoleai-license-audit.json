@@ -1,0 +1,7 @@
+{
+  "name": "webmoleai-license-audit",
+  "description": "Audits npm project dependencies for license compatibility, flagging GPL/AGPL conflicts and generating compliance reports.",
+  "source_repo": "webmoleai/mcp-license-audit",
+  "source_url": "https://github.com/webmoleai/mcp-license-audit",
+  "install": "# git clone --depth 1 https://github.com/webmoleai/mcp-license-audit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kalki-kgp-whatsapp-macos",
+  "description": "Read WhatsApp messages from the local macOS database and send replies via WhatsApp Web.",
+  "source_repo": "kalki-kgp/whatsapp-mcp",
+  "source_url": "https://github.com/kalki-kgp/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

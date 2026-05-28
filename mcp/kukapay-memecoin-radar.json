@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-memecoin-radar",
+  "description": "Integrates with Dune Analytics API to provide real-time Solana memecoin market intelligence including trending tokens, Pump.fun graduates, KOL trading activity, and high-volume exchange data across Raydium and PumpSwap.",
+  "source_repo": "kukapay/memecoin-radar-mcp",
+  "source_url": "https://github.com/kukapay/memecoin-radar-mcp",
+  "install": "npx -y memecoin-radar-mcp"
+}

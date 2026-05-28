@@ -1,0 +1,7 @@
+{
+  "name": "clawdio777-aeonos",
+  "description": "AI search visibility optimizer — audit, schema generation, and GEO tactics to get cited by ChatGPT, Perplexity, Claude, and Google AI Overviews.",
+  "source_repo": "clawdio777/aeonos",
+  "source_url": "https://github.com/clawdio777/aeonos",
+  "install": "# git clone --depth 1 https://github.com/clawdio777/aeonos\n# See source for mcpServers config block"
+}

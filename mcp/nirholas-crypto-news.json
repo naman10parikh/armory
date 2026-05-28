@@ -1,0 +1,7 @@
+{
+  "name": "nirholas-crypto-news",
+  "description": "Aggregates real-time cryptocurrency news from 130+ sources across 18 languages with search, sentiment analysis, and trending topics.",
+  "source_repo": "nirholas/cryptocurrency.cv",
+  "source_url": "https://github.com/nirholas/cryptocurrency.cv",
+  "install": "# git clone --depth 1 https://github.com/nirholas/cryptocurrency.cv\n# See source for mcpServers config block"
+}

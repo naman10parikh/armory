@@ -1,0 +1,7 @@
+{
+  "name": "rootly-mcp",
+  "description": "MCP server for the Rootly incident management platform — alerts, incidents, on-call schedules",
+  "source_repo": "wyre-technology/rootly-mcp",
+  "source_url": "https://github.com/wyre-technology/rootly-mcp",
+  "install": "npx -y rootly-mcp"
+}

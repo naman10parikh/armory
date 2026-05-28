@@ -1,0 +1,7 @@
+{
+  "name": "igorfelipeduca-reacticx",
+  "description": "Provides documentation access for the Reacticx React Native component library with 90+ animated components and installation helpers.",
+  "source_repo": "igorfelipeduca/reacticx-mcp",
+  "source_url": "https://github.com/igorfelipeduca/reacticx-mcp",
+  "install": "npx -y reacticx-mcp"
+}

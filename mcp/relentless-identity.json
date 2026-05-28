@@ -1,0 +1,7 @@
+{
+  "name": "relentless-identity",
+  "description": "Identity and access management MCP server by Relentless Identity, requiring authentication.",
+  "source_repo": "",
+  "source_url": "https://relentlessidentity.com",
+  "install": "# git clone --depth 1 https://relentlessidentity.com\n# See source for mcpServers config block"
+}

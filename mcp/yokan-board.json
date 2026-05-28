@@ -1,0 +1,7 @@
+{
+  "name": "yokan-board",
+  "description": "Kanban board management with columns, tasks, and full lifecycle operations via Yokan Board API",
+  "source_repo": "yokan-board/yokan-board-mcp",
+  "source_url": "https://github.com/yokan-board/yokan-board-mcp",
+  "install": "npx -y yokan-board-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "guilhermelirio-homeassistant",
+  "description": "Bridges Home Assistant with smart home devices, enabling status checks, entity control, and service calls through natural language interactions.",
+  "source_repo": "guilhermelirio/homeassistant-mpc",
+  "source_url": "https://github.com/guilhermelirio/homeassistant-mpc",
+  "install": "# git clone --depth 1 https://github.com/guilhermelirio/homeassistant-mpc\n# See source for mcpServers config block"
+}

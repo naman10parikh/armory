@@ -1,0 +1,7 @@
+{
+  "name": "jacksteamdev-sqlite-business-intelligence",
+  "description": "Integrates with SQLite to provide database querying and BI capabilities.",
+  "source_repo": "jacksteamdev/mcp-sqlite-bun-server",
+  "source_url": "https://github.com/jacksteamdev/mcp-sqlite-bun-server",
+  "install": "# git clone --depth 1 https://github.com/jacksteamdev/mcp-sqlite-bun-server\n# See source for mcpServers config block"
+}

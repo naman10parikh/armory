@@ -1,0 +1,7 @@
+{
+  "name": "snipmcp-thinchain",
+  "description": "Sanitizes broker data and compresses options chains by up to 95% for AI trading agents.",
+  "source_repo": "snipmcp/thinchain",
+  "source_url": "https://github.com/snipmcp/thinchain",
+  "install": "# git clone --depth 1 https://github.com/snipmcp/thinchain\n# See source for mcpServers config block"
+}

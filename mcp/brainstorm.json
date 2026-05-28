@@ -1,0 +1,7 @@
+{
+  "name": "brainstorm",
+  "description": "Enables AI agents to communicate, coordinate, and collaborate on complex tasks through a local MCP server.",
+  "source_repo": "TheodorStorm/brainstorm-mcp",
+  "source_url": "https://github.com/TheodorStorm/brainstorm-mcp",
+  "install": "npx -y brainstorm-mcp"
+}

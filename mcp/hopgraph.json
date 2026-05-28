@@ -1,0 +1,7 @@
+{
+  "name": "hopgraph",
+  "description": "Verify ANZ businesses against government registers with cross-jurisdictional findings.",
+  "source_repo": "j-sulliman/hopgraph-mcp",
+  "source_url": "https://github.com/j-sulliman/hopgraph-mcp",
+  "install": "npx -y hopgraph-mcp"
+}

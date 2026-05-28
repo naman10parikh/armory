@@ -1,0 +1,7 @@
+{
+  "name": "iceener-spotify-streamable",
+  "description": "Integrates with Spotify's Web API through OAuth 2.1 authentication to provide music control and discovery capabilities including searching catalogs, managing playback, controlling playlists, and accessing saved music libraries.",
+  "source_repo": "iceener/spotify-streamable-mcp-server",
+  "source_url": "https://github.com/iceener/spotify-streamable-mcp-server",
+  "install": "npx -y spotify-streamable-mcp-server"
+}

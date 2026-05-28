@@ -1,0 +1,7 @@
+{
+  "name": "pushover-mcp",
+  "description": "Pushover Mcp MCP server listed on mcp.so.",
+  "source_repo": "AshikNesin/pushover-mcp",
+  "source_url": "https://mcp.so/server/pushover-mcp/AshikNesin",
+  "install": "npx -y pushover-mcp"
+}

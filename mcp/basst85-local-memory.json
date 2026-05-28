@@ -1,0 +1,7 @@
+{
+  "name": "basst85-local-memory",
+  "description": "Local memory storage and retrieval using Ollama vector embeddings for persistent AI agent memory.",
+  "source_repo": "basst85/local-memory-mcp",
+  "source_url": "https://github.com/basst85/local-memory-mcp",
+  "install": "npx -y local-memory-mcp"
+}

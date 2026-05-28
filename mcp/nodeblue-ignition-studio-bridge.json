@@ -1,0 +1,7 @@
+{
+  "name": "nodeblue-ignition-studio-bridge",
+  "description": "Correlates Ignition SCADA OPC tags with Studio 5000 PLC ladder logic to trace signals end-to-end across industrial automation systems.",
+  "source_repo": "nodeblue-ai/bridge-mcp-server",
+  "source_url": "https://github.com/nodeblue-ai/bridge-mcp-server",
+  "install": "npx -y bridge-mcp-server"
+}

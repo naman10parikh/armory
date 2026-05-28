@@ -1,0 +1,7 @@
+{
+  "name": "rsalim0-app-store-connect",
+  "description": "Comprehensive MCP server for Apple App Store Connect API with 191 tools covering apps, builds, TestFlight, subscriptions, certificates, and reports.",
+  "source_repo": "rsalim0/asc-mcp",
+  "source_url": "https://github.com/rsalim0/asc-mcp",
+  "install": "npx -y asc-mcp"
+}

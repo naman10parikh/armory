@@ -1,0 +1,7 @@
+{
+  "name": "cvex-mcp-server",
+  "description": "Cvex Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "siomochkin/cvex-mcp-server",
+  "source_url": "https://mcp.so/server/cvex-mcp-server/siomochkin",
+  "install": "npx -y cvex-mcp-server"
+}

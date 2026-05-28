@@ -1,0 +1,7 @@
+{
+  "name": "wayy-research-aichat",
+  "description": "Enables inter-agent communication and coordination for multi-agent Claude Code workflows through shared message boards and agent registries.",
+  "source_repo": "wayy-research/aichat-mcp",
+  "source_url": "https://github.com/wayy-research/aichat-mcp",
+  "install": "npx -y aichat-mcp"
+}

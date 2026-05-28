@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-uipath",
+  "description": "Integrates with UiPath's robotic process automation platform for enterprise RPA operations.",
+  "source_repo": "asklokesh/uipath-mcp-server",
+  "source_url": "https://github.com/asklokesh/uipath-mcp-server",
+  "install": "npx -y uipath-mcp-server"
+}

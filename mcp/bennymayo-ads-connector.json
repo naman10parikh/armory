@@ -1,0 +1,7 @@
+{
+  "name": "bennymayo-ads-connector",
+  "description": "MCP server connecting to Meta Ads and Google Ads APIs to retrieve campaign performance metrics and audience insights.",
+  "source_repo": "benheis/ads-mcp-connector",
+  "source_url": "https://github.com/benheis/ads-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/benheis/ads-mcp-connector\n# See source for mcpServers config block"
+}

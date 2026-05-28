@@ -1,0 +1,7 @@
+{
+  "name": "waystation-airtable",
+  "description": "Access and manage Airtable bases and records.",
+  "source_repo": "",
+  "source_url": "https://waystation.ai/connect/mcp-server/airtable",
+  "install": "# git clone --depth 1 https://waystation.ai/connect/mcp-server/airtable\n# See source for mcpServers config block"
+}

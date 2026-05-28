@@ -1,0 +1,7 @@
+{
+  "name": "mektigboy-hyperliquid",
+  "description": "Integrates with the Hyperliquid SDK to provide real-time cryptocurrency market data, including mid prices, historical candlesticks, and L2 order book information for traders and analysts.",
+  "source_repo": "mektigboy/server-hyperliquid",
+  "source_url": "https://github.com/mektigboy/server-hyperliquid",
+  "install": "# git clone --depth 1 https://github.com/mektigboy/server-hyperliquid\n# See source for mcpServers config block"
+}

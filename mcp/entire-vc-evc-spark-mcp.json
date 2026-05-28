@@ -1,0 +1,7 @@
+{
+  "name": "entire-vc-evc-spark-mcp",
+  "description": "Search and discover AI agents, skills, prompts, bundles and MCP connectors from a curated catalog of 4500+ assets.",
+  "source_repo": "entire-vc/evc-spark-mcp",
+  "source_url": "https://github.com/entire-vc/evc-spark-mcp",
+  "install": "npx -y evc-spark-mcp"
+}

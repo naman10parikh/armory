@@ -1,0 +1,7 @@
+{
+  "name": "clauxel-agent-memory-mesh",
+  "description": "Persistent agent memory with semantic search, observation saving, session summaries, and graph queries.",
+  "source_repo": "clauxel/agentmemory-mesh-mcp",
+  "source_url": "https://github.com/clauxel/agentmemory-mesh-mcp",
+  "install": "npx -y agentmemory-mesh-mcp"
+}

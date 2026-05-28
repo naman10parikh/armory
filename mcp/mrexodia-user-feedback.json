@@ -1,0 +1,7 @@
+{
+  "name": "mrexodia-user-feedback",
+  "description": "Enable a human-in-the-loop workflow in tools like Cline and Cursor.",
+  "source_repo": "mrexodia/user-feedback-mcp",
+  "source_url": "https://github.com/mrexodia/user-feedback-mcp",
+  "install": "npx -y user-feedback-mcp"
+}

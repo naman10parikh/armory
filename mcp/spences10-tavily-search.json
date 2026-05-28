@@ -1,0 +1,7 @@
+{
+  "name": "spences10-tavily-search",
+  "description": "Integrates with Tavily's semantic search API to enable web searches and retrieval of relevant results for fact-checking and research tasks.",
+  "source_repo": "spences10/mcp-tavily-search",
+  "source_url": "https://github.com/spences10/mcp-tavily-search",
+  "install": "# git clone --depth 1 https://github.com/spences10/mcp-tavily-search\n# See source for mcpServers config block"
+}

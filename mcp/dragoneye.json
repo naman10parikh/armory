@@ -1,0 +1,7 @@
+{
+  "name": "dragoneye",
+  "description": "Zero-shot computer vision platform for building object detection and classification models without training data.",
+  "source_repo": "",
+  "source_url": "https://www.dragoneye.ai",
+  "install": "# git clone --depth 1 https://www.dragoneye.ai\n# See source for mcpServers config block"
+}

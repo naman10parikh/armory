@@ -1,0 +1,7 @@
+{
+  "name": "omgflux-mcp-server",
+  "description": "Omgflux Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "XXpE3/omgflux-mcp-server",
+  "source_url": "https://mcp.so/server/omgflux-mcp-server/XXpE3",
+  "install": "npx -y omgflux-mcp-server"
+}

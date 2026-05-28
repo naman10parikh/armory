@@ -1,0 +1,7 @@
+{
+  "name": "sechan9999-us-government-data",
+  "description": "Access US government public data APIs including Census Bureau, SEC EDGAR, FDA, Bureau of Labor Statistics, and EPA air quality.",
+  "source_repo": "sechan9999/mcpservers",
+  "source_url": "https://github.com/sechan9999/mcpservers",
+  "install": "# git clone --depth 1 https://github.com/sechan9999/mcpservers\n# See source for mcpServers config block"
+}

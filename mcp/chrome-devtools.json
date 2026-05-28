@@ -1,0 +1,7 @@
+{
+  "name": "chrome-devtools",
+  "description": "Provides direct Chrome browser control through DevTools for web automation, debugging, and performance analysis using accessibility tree snapshots for reliable element targeting, automatic page event handling, and integrated performance tracing with actionable insights.",
+  "source_repo": "chromedevtools/chrome-devtools-mcp",
+  "source_url": "https://github.com/chromedevtools/chrome-devtools-mcp",
+  "install": "npx -y chrome-devtools-mcp"
+}

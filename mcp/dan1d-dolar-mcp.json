@@ -1,0 +1,7 @@
+{
+  "name": "dan1d-dolar-mcp",
+  "description": "Argentine exchange rates for AI agents via DolarAPI. Dollar blue, oficial, MEP, CCL, crypto, tarjeta — plus currency conversion and spread calculator.",
+  "source_repo": "dan1d/dolar-mcp",
+  "source_url": "https://github.com/dan1d/dolar-mcp",
+  "install": "npx -y dolar-mcp"
+}

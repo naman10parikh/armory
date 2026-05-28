@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-ctxlint",
+  "description": "Lints AI agent context files (CLAUDE.md, AGENTS.md, etc.) against your actual codebase to catch broken paths, outdated commands, and contradictions.",
+  "source_repo": "yawlabs/ctxlint",
+  "source_url": "https://github.com/yawlabs/ctxlint",
+  "install": "# git clone --depth 1 https://github.com/yawlabs/ctxlint\n# See source for mcpServers config block"
+}

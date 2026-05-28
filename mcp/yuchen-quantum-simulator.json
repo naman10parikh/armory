@@ -1,0 +1,7 @@
+{
+  "name": "yuchen-quantum-simulator",
+  "description": "Provides a Docker-based quantum circuit simulator using Qiskit to run, visualize, and analyze quantum computations with various noise models without requiring specialized quantum computing knowledge.",
+  "source_repo": "yuchenssr/quantum-simulator-mcp",
+  "source_url": "https://github.com/yuchenssr/quantum-simulator-mcp",
+  "install": "npx -y quantum-simulator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "musaddiq-dev-postgresql",
+  "description": "Inspects and queries PostgreSQL databases with schema discovery, read-only query execution, query plan analysis, and optional write operations.",
+  "source_repo": "musaddiq-dev/postgresql-mcp-server",
+  "source_url": "https://github.com/musaddiq-dev/postgresql-mcp-server",
+  "install": "npx -y postgresql-mcp-server"
+}

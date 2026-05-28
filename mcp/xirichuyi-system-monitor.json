@@ -1,0 +1,7 @@
+{
+  "name": "xirichuyi-system-monitor",
+  "description": "Provides real-time system metrics and performance data through Go-based tools that monitor CPU usage, memory statistics, disk information, network statistics, and process details with configurable intervals and caching for system administrators and developers analyzing resource usage.",
+  "source_repo": "xirichuyi/system-mcp",
+  "source_url": "https://github.com/xirichuyi/system-mcp",
+  "install": "npx -y system-mcp"
+}

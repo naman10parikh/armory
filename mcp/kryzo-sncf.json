@@ -1,0 +1,7 @@
+{
+  "name": "kryzo-sncf",
+  "description": "Connects to the French National Railway (SNCF) API for planning train journeys, retrieving station information, checking schedules, and monitoring service disruptions across France with intelligent station-finding and fallback mechanisms.",
+  "source_repo": "kryzo/mcp-sncf",
+  "source_url": "https://github.com/kryzo/mcp-sncf",
+  "install": "# git clone --depth 1 https://github.com/kryzo/mcp-sncf\n# See source for mcpServers config block"
+}

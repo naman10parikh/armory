@@ -1,0 +1,7 @@
+{
+  "name": "tcpipuk-web-and-python",
+  "description": "Provides web content access and Python code execution in a sandboxed environment, enabling information verification and working code demonstrations through containerized tools with appropriate security constraints.",
+  "source_repo": "tcpipuk/mcp-server",
+  "source_url": "https://github.com/tcpipuk/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/tcpipuk/mcp-server\n# See source for mcpServers config block"
+}

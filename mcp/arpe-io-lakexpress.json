@@ -1,0 +1,7 @@
+{
+  "name": "arpe-io-lakexpress",
+  "description": "Automated database-to-cloud data pipeline exporting to Parquet with sync management and data lake publishing.",
+  "source_repo": "arpe-io/lakexpress-mcp",
+  "source_url": "https://github.com/arpe-io/lakexpress-mcp",
+  "install": "npx -y lakexpress-mcp"
+}

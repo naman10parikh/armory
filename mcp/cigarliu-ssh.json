@@ -1,0 +1,7 @@
+{
+  "name": "cigarliu-ssh",
+  "description": "Provides secure SSH connectivity and remote server management with command execution, SFTP file transfers, interactive shell sessions, and multiple concurrent connections.",
+  "source_repo": "cigarliu/ssh-mcp-server",
+  "source_url": "https://github.com/cigarliu/ssh-mcp-server",
+  "install": "npx -y ssh-mcp-server"
+}

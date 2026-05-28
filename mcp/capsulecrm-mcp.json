@@ -1,0 +1,7 @@
+{
+  "name": "capsulecrm-mcp",
+  "description": "Enables natural language customer and sales management by connecting AI assistants directly to CapsuleCRM, allowing users to search, create, and update CRM data via plain English commands.",
+  "source_repo": "MonadsAG/capsulecrm-mcp",
+  "source_url": "https://github.com/MonadsAG/capsulecrm-mcp",
+  "install": "npx -y capsulecrm-mcp"
+}

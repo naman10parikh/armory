@@ -1,0 +1,7 @@
+{
+  "name": "quink-black-tmux-mcp-agent",
+  "description": "Controls tmux sessions with parallel command execution, connection safety, and comprehensive session management.",
+  "source_repo": "quink-black/tmux-mcp-agent",
+  "source_url": "https://github.com/quink-black/tmux-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/quink-black/tmux-mcp-agent\n# See source for mcpServers config block"
+}

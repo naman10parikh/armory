@@ -1,0 +1,7 @@
+{
+  "name": "rog0x-web-tools",
+  "description": "Web content extraction, DuckDuckGo search, site monitoring, and HTML-to-markdown conversion with no API keys required.",
+  "source_repo": "rog0x/mcp-web-tools",
+  "source_url": "https://github.com/rog0x/mcp-web-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-web-tools\n# See source for mcpServers config block"
+}

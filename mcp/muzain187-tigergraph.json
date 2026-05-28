@@ -1,0 +1,7 @@
+{
+  "name": "muzain187-tigergraph",
+  "description": "Integrates with TigerGraph graph databases to enable direct interaction with graph data through specialized tools for vertex manipulation, schema retrieval, and query execution.",
+  "source_repo": "muzain187/tg_mcp",
+  "source_url": "https://github.com/muzain187/tg_mcp",
+  "install": "npx -y tg_mcp"
+}

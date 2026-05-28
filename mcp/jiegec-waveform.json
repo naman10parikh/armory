@@ -1,0 +1,7 @@
+{
+  "name": "jiegec-waveform",
+  "description": "Analyzes VCD and FST waveform files from digital circuit simulations for hardware verification",
+  "source_repo": "jiegec/waveform-mcp",
+  "source_url": "https://github.com/jiegec/waveform-mcp",
+  "install": "npx -y waveform-mcp"
+}

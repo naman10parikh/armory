@@ -1,0 +1,7 @@
+{
+  "name": "hass-mcp",
+  "description": "Hass Mcp MCP server listed on mcp.so.",
+  "source_repo": "voska/hass-mcp",
+  "source_url": "https://mcp.so/server/hass-mcp/voska",
+  "install": "npx -y hass-mcp"
+}

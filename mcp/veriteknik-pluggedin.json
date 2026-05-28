@@ -1,0 +1,7 @@
+{
+  "name": "veriteknik-pluggedin",
+  "description": "A unified interface for managing all your MCP servers.",
+  "source_repo": "veriteknik/pluggedin-mcp",
+  "source_url": "https://github.com/veriteknik/pluggedin-mcp",
+  "install": "npx -y pluggedin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-npm-plus",
+  "description": "Search npm packages, check bundle sizes, scan vulnerabilities, and compare download trends.",
+  "source_repo": "ofershap/mcp-server-npm-plus",
+  "source_url": "https://github.com/ofershap/mcp-server-npm-plus",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-npm-plus\n# See source for mcpServers config block"
+}

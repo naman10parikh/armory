@@ -1,0 +1,7 @@
+{
+  "name": "axhlzy-il2cpp-frida-bridge",
+  "description": "Bridges Unity IL2CPP applications with Frida dynamic instrumentation for real-time reverse engineering analysis including class inspection, method hooking, memory analysis, and JavaScript code execution within target processes.",
+  "source_repo": "axhlzy/il2cpp-frida-mcp",
+  "source_url": "https://github.com/axhlzy/il2cpp-frida-mcp",
+  "install": "npx -y il2cpp-frida-mcp"
+}

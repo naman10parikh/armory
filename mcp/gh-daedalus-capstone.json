@@ -1,0 +1,7 @@
+{
+  "name": "gh-daedalus-capstone",
+  "description": "MCP interface to the Capstone 5.0.7 binary disassembly framework.",
+  "source_repo": "daedalus/mcp-capstone",
+  "source_url": "https://github.com/daedalus/mcp-capstone",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-capstone\n# See source for mcpServers config block"
+}

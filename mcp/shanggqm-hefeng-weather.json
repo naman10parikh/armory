@@ -1,0 +1,7 @@
+{
+  "name": "shanggqm-hefeng-weather",
+  "description": "Integrates with the HeFeng Weather API to provide real-time weather information and forecasts for locations in China, supporting queries by coordinates and offering hourly and daily data.",
+  "source_repo": "shanggqm/hefeng-mcp-weather",
+  "source_url": "https://github.com/shanggqm/hefeng-mcp-weather",
+  "install": "# git clone --depth 1 https://github.com/shanggqm/hefeng-mcp-weather\n# See source for mcpServers config block"
+}

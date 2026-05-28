@@ -1,0 +1,7 @@
+{
+  "name": "rdwj-mcp-test",
+  "description": "Testing tool for validating MCP server implementations",
+  "source_repo": "rdwj/mcp-test-mcp",
+  "source_url": "https://github.com/rdwj/mcp-test-mcp",
+  "install": "npx -y mcp-test-mcp"
+}

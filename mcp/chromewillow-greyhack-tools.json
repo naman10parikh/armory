@@ -1,0 +1,7 @@
+{
+  "name": "chromewillow-greyhack-tools",
+  "description": "Provides specialized tools for Grey Hack game players to search GitHub for code examples, validate scripts against official API documentation, generate common script templates, and transpile between GreyScript and JavaScript.",
+  "source_repo": "chromewillow/greyhack-mcp-server",
+  "source_url": "https://github.com/chromewillow/greyhack-mcp-server",
+  "install": "npx -y greyhack-mcp-server"
+}

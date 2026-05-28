@@ -1,0 +1,7 @@
+{
+  "name": "gh-cocaxcode-ai-context-inspector",
+  "description": "Comprehensive scanner for AI ecosystem configuration across 19 tools.",
+  "source_repo": "cocaxcode/ai-context-inspector",
+  "source_url": "https://github.com/cocaxcode/ai-context-inspector",
+  "install": "# git clone --depth 1 https://github.com/cocaxcode/ai-context-inspector\n# See source for mcpServers config block"
+}

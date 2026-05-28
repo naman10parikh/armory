@@ -1,0 +1,7 @@
+{
+  "name": "alefnt-agentpay",
+  "description": "BTC-native payment protocol for AI agents with zero-gas micropayments, hold invoice escrow, and Lightning Network interoperability.",
+  "source_repo": "alefnt/agentpay",
+  "source_url": "https://github.com/alefnt/agentpay/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/alefnt/agentpay/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

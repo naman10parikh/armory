@@ -1,0 +1,7 @@
+{
+  "name": "iot-device-management-mcp-server",
+  "description": "Enables registration, monitoring, and control of IoT devices via AI agents, with local storage and no cloud API key required.",
+  "source_repo": "AiAgentKarl/iot-device-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/iot-device-mcp-server",
+  "install": "npx -y iot-device-mcp-server"
+}

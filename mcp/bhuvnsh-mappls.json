@@ -1,0 +1,7 @@
+{
+  "name": "bhuvnsh-mappls",
+  "description": "Location services and geospatial data for India - geocoding, routing, place search, and directions powered by the Mappls API.",
+  "source_repo": "bhuvnsh/mcp-mapmyindia",
+  "source_url": "https://github.com/bhuvnsh/mcp-mapmyindia",
+  "install": "# git clone --depth 1 https://github.com/bhuvnsh/mcp-mapmyindia\n# See source for mcpServers config block"
+}

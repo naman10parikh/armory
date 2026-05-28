@@ -1,0 +1,7 @@
+{
+  "name": "ryaker-day-planner",
+  "description": "Interactive day-planning dashboard rendered inside Claude conversations with calendar, inbox, and docs integration.",
+  "source_repo": "ryaker/day-planner-mcp",
+  "source_url": "https://github.com/ryaker/day-planner-mcp",
+  "install": "npx -y day-planner-mcp"
+}

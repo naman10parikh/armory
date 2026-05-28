@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-15",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "KalyanbrataMaity/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/KalyanbrataMaity",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/KalyanbrataMaity\n# See source for mcpServers config block"
+}

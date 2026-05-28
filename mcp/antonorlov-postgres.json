@@ -1,0 +1,7 @@
+{
+  "name": "antonorlov-postgres",
+  "description": "Provides a bridge to PostgreSQL databases for executing SQL queries, managing tables, and inspecting schemas with support for prepared statements and multiple parameter styles",
+  "source_repo": "antonorlov/mcp-postgres-server",
+  "source_url": "https://github.com/antonorlov/mcp-postgres-server",
+  "install": "# git clone --depth 1 https://github.com/antonorlov/mcp-postgres-server\n# See source for mcpServers config block"
+}

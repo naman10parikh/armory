@@ -1,0 +1,7 @@
+{
+  "name": "qidi-studio-mcp-server",
+  "description": "Manages QIDI Studio 3D printing profiles locally, enabling AI assistants to read and write filament, process, and machine presets via the Model Context Protocol.",
+  "source_repo": "VladYankovenko/qidi-studio-mcp",
+  "source_url": "https://github.com/VladYankovenko/qidi-studio-mcp",
+  "install": "npx -y qidi-studio-mcp"
+}

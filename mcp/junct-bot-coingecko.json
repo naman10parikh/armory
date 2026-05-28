@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-coingecko",
+  "description": "Hosted proxy for CoinGecko cryptocurrency data APIs with 1 auto-generated tool for market data.",
+  "source_repo": "junct-bot/coingecko-mcp",
+  "source_url": "https://github.com/junct-bot/coingecko-mcp",
+  "install": "npx -y coingecko-mcp"
+}

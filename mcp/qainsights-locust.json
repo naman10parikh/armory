@@ -1,0 +1,7 @@
+{
+  "name": "qainsights-locust",
+  "description": "Enables natural language control of Locust load testing operations, allowing configuration and execution of performance tests with customizable parameters for users, spawn rate, and test duration.",
+  "source_repo": "qainsights/locust-mcp-server",
+  "source_url": "https://github.com/qainsights/locust-mcp-server",
+  "install": "npx -y locust-mcp-server"
+}

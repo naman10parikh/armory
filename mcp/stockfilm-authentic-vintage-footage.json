@@ -1,0 +1,7 @@
+{
+  "name": "stockfilm-authentic-vintage-footage",
+  "description": "Search and license 217,000+ authentic vintage 8mm home movie clips from the 1930s-1980s. Remote MCP server with 6 tools over Streamable HTTP. Text search, visual similarity, rough-cut timeline builder, rights verification, and instant licensing via x402 USDC payments on Solana and Base. Every frame",
+  "source_repo": "",
+  "source_url": "https://stockfilm.com",
+  "install": "# git clone --depth 1 https://stockfilm.com\n# See source for mcpServers config block"
+}

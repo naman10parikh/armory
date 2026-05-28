@@ -1,0 +1,7 @@
+{
+  "name": "rodcar-bcrp-peru-central-bank",
+  "description": "Integrates with Peru's Central Reserve Bank (BCRP) API to retrieve macroeconomic indicators, financial statistics, and historical economic data series for financial analysis and economic research.",
+  "source_repo": "rodcar/bcrp-mcp",
+  "source_url": "https://github.com/rodcar/bcrp-mcp",
+  "install": "npx -y bcrp-mcp"
+}

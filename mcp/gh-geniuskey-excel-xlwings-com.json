@@ -1,0 +1,7 @@
+{
+  "name": "gh-geniuskey-excel-xlwings-com",
+  "description": "Excel automation via xlwings COM with support for DRM-protected files, live sessions, and VBA macros.",
+  "source_repo": "geniuskey/mcp-server-xlwings",
+  "source_url": "https://github.com/geniuskey/mcp-server-xlwings",
+  "install": "# git clone --depth 1 https://github.com/geniuskey/mcp-server-xlwings\n# See source for mcpServers config block"
+}

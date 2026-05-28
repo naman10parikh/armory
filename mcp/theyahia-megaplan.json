@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-megaplan",
+  "description": "Integrates with Megaplan for task, deal, and project management.",
+  "source_repo": "theyahia/megaplan-mcp",
+  "source_url": "https://github.com/theyahia/megaplan-mcp",
+  "install": "npx -y megaplan-mcp"
+}

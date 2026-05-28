@@ -1,0 +1,7 @@
+{
+  "name": "beibei030-hermes-remote-device",
+  "description": "MCP server enabling one agent to control multiple remote devices simultaneously via Tailscale networking.",
+  "source_repo": "beibei030/hermes-remote-device-mcp",
+  "source_url": "https://github.com/beibei030/hermes-remote-device-mcp",
+  "install": "npx -y hermes-remote-device-mcp"
+}

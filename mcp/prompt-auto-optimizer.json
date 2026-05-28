@@ -1,0 +1,7 @@
+{
+  "name": "prompt-auto-optimizer",
+  "description": "Optimizes prompts through genetic algorithms that automatically evolve and improve prompt performance across multiple generations using multi-objective optimization, trajectory recording, and reflection-based failure diagnosis for production environments requiring high-quality prompt outputs.",
+  "source_repo": "sloth-wq/prompt-auto-optimizer-mcp",
+  "source_url": "https://github.com/sloth-wq/prompt-auto-optimizer-mcp",
+  "install": "npx -y prompt-auto-optimizer-mcp"
+}

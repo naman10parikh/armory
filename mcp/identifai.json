@@ -1,0 +1,7 @@
+{
+  "name": "identifai",
+  "description": "Detects AI-generated images, videos, and audio including deepfakes using the identifAI analysis platform.",
+  "source_repo": "",
+  "source_url": "https://mcp.identifai.net",
+  "install": "# git clone --depth 1 https://mcp.identifai.net\n# See source for mcpServers config block"
+}

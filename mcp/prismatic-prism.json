@@ -1,0 +1,7 @@
+{
+  "name": "prismatic-prism",
+  "description": "Local MCP server that wraps Prismatic's Prism CLI tool for code-native integration and custom component development.",
+  "source_repo": "prismatic-io/prism-mcp",
+  "source_url": "https://github.com/prismatic-io/prism-mcp",
+  "install": "npx -y prism-mcp"
+}

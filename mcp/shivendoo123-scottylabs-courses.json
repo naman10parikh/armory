@@ -1,0 +1,7 @@
+{
+  "name": "shivendoo123-scottylabs-courses",
+  "description": "Query Carnegie Mellon University course data via the ScottyLabs CMU Courses API, including course discovery, instructor lookups, prerequisites, and schedules.",
+  "source_repo": "shivendoo123/scottylabs_mcp",
+  "source_url": "https://github.com/shivendoo123/scottylabs_mcp",
+  "install": "npx -y scottylabs_mcp"
+}

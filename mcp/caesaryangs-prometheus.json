@@ -1,0 +1,7 @@
+{
+  "name": "caesaryangs-prometheus",
+  "description": "Integrates with Prometheus to query and analyze time-series metrics data for real-time system monitoring and performance insights.",
+  "source_repo": "caesaryangs/prometheus_mcp_server",
+  "source_url": "https://github.com/caesaryangs/prometheus_mcp_server",
+  "install": "npx -y prometheus_mcp_server"
+}

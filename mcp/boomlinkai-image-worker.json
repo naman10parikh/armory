@@ -1,0 +1,7 @@
+{
+  "name": "boomlinkai-image-worker",
+  "description": "Provides image processing and cloud storage capabilities through Sharp.js for resizing, transforming, and applying effects to images with seamless uploading to AWS S3, Cloudflare R2, or Google Cloud Storage.",
+  "source_repo": "boomlinkai/image-worker-mcp",
+  "source_url": "https://github.com/boomlinkai/image-worker-mcp",
+  "install": "npx -y image-worker-mcp"
+}

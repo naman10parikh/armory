@@ -1,0 +1,7 @@
+{
+  "name": "linkagogo",
+  "description": "Manages online bookmarks with AI-powered organization, search, and folder management.",
+  "source_repo": "",
+  "source_url": "https://linkagogo.com",
+  "install": "# git clone --depth 1 https://linkagogo.com\n# See source for mcpServers config block"
+}

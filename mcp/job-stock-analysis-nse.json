@@ -1,0 +1,7 @@
+{
+  "name": "job-stock-analysis-nse",
+  "description": "Combines job search capabilities with NSE stock market analysis using web scraping and multi-agent workflows to provide job finding tools and Indian stock trading recommendations with price predictions.",
+  "source_repo": "somnath-chattaraj/mcp-server",
+  "source_url": "https://github.com/somnath-chattaraj/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/somnath-chattaraj/mcp-server\n# See source for mcpServers config block"
+}

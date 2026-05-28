@@ -1,0 +1,7 @@
+{
+  "name": "infrahub",
+  "description": "Connect to Infrahub infrastructure data management platform",
+  "source_repo": "opsmill/infrahub-mcp",
+  "source_url": "https://github.com/opsmill/infrahub-mcp",
+  "install": "npx -y infrahub-mcp"
+}

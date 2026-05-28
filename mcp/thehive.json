@@ -1,0 +1,7 @@
+{
+  "name": "thehive",
+  "description": "Integrates with TheHive incident response platform to retrieve alerts and cases, promote alerts to cases, and create new cases for automated security workflows and case management operations.",
+  "source_repo": "gbrigandi/mcp-server-thehive",
+  "source_url": "https://github.com/gbrigandi/mcp-server-thehive",
+  "install": "# git clone --depth 1 https://github.com/gbrigandi/mcp-server-thehive\n# See source for mcpServers config block"
+}

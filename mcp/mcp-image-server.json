@@ -1,0 +1,7 @@
+{
+  "name": "mcp-image-server",
+  "description": "A TypeScript-based MCP server for generating custom images and icons using AI (GPT Image 1), supporting .png, .svg, and .ico formats, and designed for seamless integration with Vibe Coding.",
+  "source_repo": "ricardopera/mcp-image-server",
+  "source_url": "https://github.com/ricardopera/mcp-image-server",
+  "install": "# git clone --depth 1 https://github.com/ricardopera/mcp-image-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "y7ut-tavily-search",
+  "description": "Integrates with Tavily to provide fine-grained news search capabilities for up-to-date information retrieval and analysis.",
+  "source_repo": "y7ut/mcp-tavily-search",
+  "source_url": "https://github.com/y7ut/mcp-tavily-search",
+  "install": "# git clone --depth 1 https://github.com/y7ut/mcp-tavily-search\n# See source for mcpServers config block"
+}

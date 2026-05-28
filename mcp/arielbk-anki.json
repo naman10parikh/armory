@@ -1,0 +1,7 @@
+{
+  "name": "arielbk-anki",
+  "description": "Integrates with Anki flashcard collections through AnkiConnect to enable complete deck management, note creation, card scheduling, study statistics tracking, and media file operations for language learners and students.",
+  "source_repo": "arielbk/anki-mcp",
+  "source_url": "https://github.com/arielbk/anki-mcp",
+  "install": "npx -y anki-mcp"
+}

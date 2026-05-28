@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-real-browser",
+  "description": "Connects to the user's actual Chrome browser via extension for real-session automation, inspection, and verification.",
+  "source_repo": "ofershap/real-browser-mcp",
+  "source_url": "https://github.com/ofershap/real-browser-mcp",
+  "install": "npx -y real-browser-mcp"
+}

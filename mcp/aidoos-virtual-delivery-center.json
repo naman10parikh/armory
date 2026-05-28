@@ -1,0 +1,7 @@
+{
+  "name": "aidoos-virtual-delivery-center",
+  "description": "Virtual Delivery Center planning for any initiative: pods, roles, AI agents, and Delivery Units.",
+  "source_repo": "",
+  "source_url": "https://aidoos.com/mcp",
+  "install": "# git clone --depth 1 https://aidoos.com/mcp\n# See source for mcpServers config block"
+}

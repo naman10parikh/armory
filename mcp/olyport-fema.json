@@ -1,0 +1,7 @@
+{
+  "name": "olyport-fema",
+  "description": "Federal disaster declarations, emergencies, and assistance data from FEMA.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/fema/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/fema/mcp\n# See source for mcpServers config block"
+}

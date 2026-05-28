@@ -1,0 +1,7 @@
+{
+  "name": "webull-mcp-server",
+  "description": "Connects to Webull's trading platform with tools for market data, order management, and account operations across stocks, futures, crypto, and options.",
+  "source_repo": "webull-inc/webull-mcp-server",
+  "source_url": "https://github.com/webull-inc/webull-mcp-server",
+  "install": "npx -y webull-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "i3t4an-kali-linux",
+  "description": "Provides remote access to Kali Linux penetration testing tools through a Flask REST API, enabling network scanning, vulnerability assessment, password cracking, and exploitation framework operations from non-Kali systems.",
+  "source_repo": "i3t4an/kali_linux_mcp",
+  "source_url": "https://github.com/i3t4an/kali_linux_mcp",
+  "install": "npx -y kali_linux_mcp"
+}

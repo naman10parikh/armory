@@ -1,0 +1,7 @@
+{
+  "name": "clarencyu-boop-sentinel-bot",
+  "description": "Integrates with Sentinel Bot for crypto trading backtesting, bot deployment, exchange management, and payment operations.",
+  "source_repo": "clarencyu-boop/mcp-server-sentinel",
+  "source_url": "https://github.com/clarencyu-boop/mcp-server-sentinel",
+  "install": "# git clone --depth 1 https://github.com/clarencyu-boop/mcp-server-sentinel\n# See source for mcpServers config block"
+}

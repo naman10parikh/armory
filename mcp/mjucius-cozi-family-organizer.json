@@ -1,0 +1,7 @@
+{
+  "name": "mjucius-cozi-family-organizer",
+  "description": "Integrates with Cozi Family Organizer to manage shopping lists, todo items, calendar appointments, and family member coordination through natural conversation interfaces.",
+  "source_repo": "mjucius/cozi_mcp",
+  "source_url": "https://github.com/mjucius/cozi_mcp",
+  "install": "npx -y cozi_mcp"
+}

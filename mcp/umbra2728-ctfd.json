@@ -1,0 +1,7 @@
+{
+  "name": "umbra2728-ctfd",
+  "description": "Integrates with CTFd platforms for cybersecurity competitions, enabling challenge browsing, flag submission, file retrieval, and dynamic container management.",
+  "source_repo": "umbra2728/ctfd-mcp",
+  "source_url": "https://github.com/umbra2728/ctfd-mcp",
+  "install": "npx -y ctfd-mcp"
+}

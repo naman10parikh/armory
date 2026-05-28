@@ -1,0 +1,7 @@
+{
+  "name": "sh6drack-zen-browser",
+  "description": "Browser automation for Zen Browser using WebDriver BiDi over WebSocket.",
+  "source_repo": "sh6drack/zen-mcp",
+  "source_url": "https://github.com/sh6drack/zen-mcp",
+  "install": "npx -y zen-mcp"
+}

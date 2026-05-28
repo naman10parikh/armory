@@ -1,0 +1,7 @@
+{
+  "name": "mcp-graphdb",
+  "description": "Mcp Graphdb MCP server listed on mcp.so.",
+  "source_repo": "keonchennl/mcp-graphdb",
+  "source_url": "https://mcp.so/server/mcp-graphdb/keonchennl",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-graphdb/keonchennl\n# See source for mcpServers config block"
+}

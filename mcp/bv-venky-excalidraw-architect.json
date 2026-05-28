@@ -1,0 +1,7 @@
+{
+  "name": "bv-venky-excalidraw-architect",
+  "description": "Generates Excalidraw architecture diagrams with automatic hierarchical layout, technology-aware styling for 50+ components, and stateful editing through natural language.",
+  "source_repo": "bv-venky/excalidraw-architect-mcp",
+  "source_url": "https://github.com/bv-venky/excalidraw-architect-mcp",
+  "install": "npx -y excalidraw-architect-mcp"
+}

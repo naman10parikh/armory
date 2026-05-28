@@ -1,0 +1,7 @@
+{
+  "name": "iqai-iqwiki",
+  "description": "Provides structured access to IQ.wiki's blockchain encyclopedia data through GraphQL queries for retrieving specific wikis, user contributions, and detailed content change histories",
+  "source_repo": "iqaicom/mcp-iqwiki",
+  "source_url": "https://github.com/iqaicom/mcp-iqwiki",
+  "install": "# git clone --depth 1 https://github.com/iqaicom/mcp-iqwiki\n# See source for mcpServers config block"
+}

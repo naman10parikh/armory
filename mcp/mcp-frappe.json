@@ -1,0 +1,7 @@
+{
+  "name": "mcp-frappe",
+  "description": "Mcp Frappe MCP server listed on mcp.so.",
+  "source_repo": "tuanle96/mcp-frappe",
+  "source_url": "https://mcp.so/server/mcp-frappe/tuanle96",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-frappe/tuanle96\n# See source for mcpServers config block"
+}

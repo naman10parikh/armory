@@ -1,0 +1,7 @@
+{
+  "name": "emicklei-melrose-mcp",
+  "description": "Plays [Melrōse](https://melrōse.org) music expressions as MIDI",
+  "source_repo": "emicklei/melrose-mcp",
+  "source_url": "https://github.com/emicklei/melrose-mcp",
+  "install": "npx -y melrose-mcp"
+}

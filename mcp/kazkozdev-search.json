@@ -1,0 +1,7 @@
+{
+  "name": "kazkozdev-search",
+  "description": "Web search, content extraction, PDF parsing, datetime and geolocation tools without API keys",
+  "source_repo": "kazkozdev/mcp-search-server",
+  "source_url": "https://github.com/kazkozdev/mcp-search-server",
+  "install": "# git clone --depth 1 https://github.com/kazkozdev/mcp-search-server\n# See source for mcpServers config block"
+}

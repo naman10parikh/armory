@@ -1,0 +1,7 @@
+{
+  "name": "sespinosa-jira-cloud",
+  "description": "Integrates with Jira Cloud instances to enable secure issue management, project operations, sprint handling, board configuration, user management, and file attachments with enterprise-grade security features including rate limiting, audit logging, and permission checking.",
+  "source_repo": "sespinosa/jira-mcp-server",
+  "source_url": "https://github.com/sespinosa/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

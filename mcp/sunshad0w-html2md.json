@@ -1,0 +1,7 @@
+{
+  "name": "sunshad0w-html2md",
+  "description": "Converts HTML webpages to clean Markdown format, reducing size by 90-95% while preserving tables and images",
+  "source_repo": "sunshad0w/html2md-mcp",
+  "source_url": "https://github.com/sunshad0w/html2md-mcp",
+  "install": "npx -y html2md-mcp"
+}

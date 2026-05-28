@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-newsletter-tools",
+  "description": "Provides text processing, subject line generation, and content analysis tools for newsletter workflows.",
+  "source_repo": "josephtandle/beehiiv-mcp-mcp",
+  "source_url": "https://github.com/josephtandle/beehiiv-mcp-mcp",
+  "install": "npx -y beehiiv-mcp-mcp"
+}

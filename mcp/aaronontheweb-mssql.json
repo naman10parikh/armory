@@ -1,0 +1,7 @@
+{
+  "name": "aaronontheweb-mssql",
+  "description": "Provides robust SQL Server database access with T-SQL validation, connection management, and cross-platform Docker support for executing queries, discovering schemas, and exploring table structures.",
+  "source_repo": "aaronontheweb/mssql-mcp",
+  "source_url": "https://github.com/aaronontheweb/mssql-mcp",
+  "install": "npx -y mssql-mcp"
+}

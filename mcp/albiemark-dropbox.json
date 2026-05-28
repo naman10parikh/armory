@@ -1,0 +1,7 @@
+{
+  "name": "albiemark-dropbox",
+  "description": "Integrates with Dropbox's API to enable secure file operations including uploading, downloading, listing, searching, and deleting with recycle bin support through OAuth 2.0 authentication and specialized prompt handlers for document management workflows.",
+  "source_repo": "albiemark/dbx-mcp-server",
+  "source_url": "https://github.com/albiemark/dbx-mcp-server",
+  "install": "npx -y dbx-mcp-server"
+}

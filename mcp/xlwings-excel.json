@@ -1,0 +1,7 @@
+{
+  "name": "xlwings-excel",
+  "description": "Enables Excel file manipulation without Microsoft Excel installation through xlwings library, providing 30+ tools for workbook creation, data operations, formatting, formulas, charts, pivot tables, and worksheet management across Windows and cross-platform environments.",
+  "source_repo": "hyunjae-labs/xlwings-mcp-server",
+  "source_url": "https://github.com/hyunjae-labs/xlwings-mcp-server",
+  "install": "npx -y xlwings-mcp-server"
+}

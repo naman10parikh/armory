@@ -1,0 +1,7 @@
+{
+  "name": "ultra-multi-ai-provider",
+  "description": "Unified server providing access to OpenAI O3, Google Gemini 2.5 Pro, and Azure OpenAI models with automatic usage tracking, cost estimation, and nine specialized development tools for code analysis, debugging, and documentation generation.",
+  "source_repo": "realmikechong/ultra-mcp",
+  "source_url": "https://github.com/realmikechong/ultra-mcp",
+  "install": "npx -y ultra-mcp"
+}

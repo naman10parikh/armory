@@ -1,0 +1,7 @@
+{
+  "name": "wearehoust-front",
+  "description": "Community MCP server for Front, providing access to conversations, contacts, messages, tags, and inbox workflows.",
+  "source_repo": "wearehoust/front-mcp",
+  "source_url": "https://github.com/wearehoust/front-mcp",
+  "install": "npx -y front-mcp"
+}

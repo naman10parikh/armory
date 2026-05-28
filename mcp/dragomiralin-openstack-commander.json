@@ -1,0 +1,7 @@
+{
+  "name": "dragomiralin-openstack-commander",
+  "description": "Enables secure management of OpenStack infrastructure through natural language commands for server, project, flavor, and image operations via authenticated CLI interactions.",
+  "source_repo": "dragomiralin/openstack-mcp-server",
+  "source_url": "https://github.com/dragomiralin/openstack-mcp-server",
+  "install": "npx -y openstack-mcp-server"
+}

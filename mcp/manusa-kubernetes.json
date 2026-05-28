@@ -1,0 +1,7 @@
+{
+  "name": "manusa-kubernetes",
+  "description": "Manage Kubernetes, with additional support for OpenShift.",
+  "source_repo": "containers/kubernetes-mcp-server",
+  "source_url": "https://github.com/containers/kubernetes-mcp-server",
+  "install": "npx -y kubernetes-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dragonejt-iceberg",
+  "description": "Read, query, and manipulate data within Apache Iceberg catalogs.",
+  "source_repo": "dragonejt/iceberg-mcp-server",
+  "source_url": "https://github.com/dragonejt/iceberg-mcp-server",
+  "install": "npx -y iceberg-mcp-server"
+}

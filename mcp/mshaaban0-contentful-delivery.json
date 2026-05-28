@@ -1,0 +1,7 @@
+{
+  "name": "mshaaban0-contentful-delivery",
+  "description": "Integrates with Contentful's Delivery API to enable querying and retrieving structured content using keywords or sentences, facilitating content-driven applications and dynamic websites.",
+  "source_repo": "mshaaban0/contentful-delivery-mcp",
+  "source_url": "https://github.com/mshaaban0/contentful-delivery-mcp",
+  "install": "npx -y contentful-delivery-mcp"
+}

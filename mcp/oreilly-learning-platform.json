@@ -1,0 +1,7 @@
+{
+  "name": "oreilly-learning-platform",
+  "description": "Integrates with O'Reilly's learning platform API to search and retrieve technical content from their extensive library, returning structured metadata including titles, authors, ratings, and URLs.",
+  "source_repo": "odewahn/orm-discovery-mcp",
+  "source_url": "https://github.com/odewahn/orm-discovery-mcp",
+  "install": "npx -y orm-discovery-mcp"
+}

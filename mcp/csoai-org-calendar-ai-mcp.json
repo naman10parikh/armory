@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-calendar-ai-mcp",
+  "description": "AI-powered calendar management and scheduling optimization tools.",
+  "source_repo": "csoai-org/calendar-ai-mcp",
+  "source_url": "https://github.com/csoai-org/calendar-ai-mcp",
+  "install": "npx -y calendar-ai-mcp"
+}

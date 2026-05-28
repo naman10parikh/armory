@@ -1,0 +1,7 @@
+{
+  "name": "prayanks-sqlite-explorer",
+  "description": "Provides a bridge to SQLite databases for querying and analyzing data through SQL execution, enabling data exploration and insights generation without direct database access.",
+  "source_repo": "prayanks/mcp-sqlite-server",
+  "source_url": "https://github.com/prayanks/mcp-sqlite-server",
+  "install": "# git clone --depth 1 https://github.com/prayanks/mcp-sqlite-server\n# See source for mcpServers config block"
+}

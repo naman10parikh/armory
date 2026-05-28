@@ -1,0 +1,7 @@
+{
+  "name": "securitahguy-rapid7",
+  "description": "Queries vulnerability and threat data across Rapid7 InsightVM, InsightIDR, and Metasploit Pro using natural language.",
+  "source_repo": "securitahguy/rapid7-mcp",
+  "source_url": "https://github.com/securitahguy/rapid7-mcp",
+  "install": "npx -y rapid7-mcp"
+}

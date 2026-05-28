@@ -1,0 +1,7 @@
+{
+  "name": "emretheus-claude-remind",
+  "description": "Searches and retrieves past Claude Code conversation history using BM25 full-text indexing.",
+  "source_repo": "emretheus/claude-remind-mcp",
+  "source_url": "https://github.com/emretheus/claude-remind-mcp",
+  "install": "npx -y claude-remind-mcp"
+}

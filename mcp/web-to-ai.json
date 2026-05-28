@@ -1,0 +1,7 @@
+{
+  "name": "web-to-ai",
+  "description": "Chrome extension that captures website UI components and sends them to AI coding assistants via MCP.",
+  "source_repo": "",
+  "source_url": "https://web-to-ai.com",
+  "install": "# git clone --depth 1 https://web-to-ai.com\n# See source for mcpServers config block"
+}

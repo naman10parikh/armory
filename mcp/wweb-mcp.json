@@ -1,0 +1,7 @@
+{
+  "name": "wweb-mcp",
+  "description": "Wweb Mcp MCP server listed on mcp.so.",
+  "source_repo": "pnizer/wweb-mcp",
+  "source_url": "https://mcp.so/server/wweb-mcp/pnizer",
+  "install": "npx -y wweb-mcp"
+}

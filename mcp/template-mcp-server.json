@@ -1,0 +1,7 @@
+{
+  "name": "template-mcp-server",
+  "description": "Template Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mcpdotdirect/template-mcp-server",
+  "source_url": "https://mcp.so/server/template-mcp-server/mcpdotdirect",
+  "install": "npx -y template-mcp-server"
+}

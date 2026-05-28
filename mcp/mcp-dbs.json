@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dbs",
+  "description": "Mcp Dbs MCP server listed on mcp.so.",
+  "source_repo": "cuongtl1992/mcp-dbs",
+  "source_url": "https://mcp.so/server/mcp-dbs/cuongtl1992",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-dbs/cuongtl1992\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hardheadhackerhead-discord",
+  "description": "Comprehensive Discord administration with 134 tools across roles, channels, members, moderation, forums, events, and webhooks.",
+  "source_repo": "hardheadhackerhead/discord-mcp",
+  "source_url": "https://github.com/hardheadhackerhead/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "basebandit-kai-kubernetes",
+  "description": "Enables natural language interaction with Kubernetes clusters for managing pods, retrieving logs, and manipulating container environments without complex kubectl commands.",
+  "source_repo": "basebandit/kai",
+  "source_url": "https://github.com/basebandit/kai",
+  "install": "# git clone --depth 1 https://github.com/basebandit/kai\n# See source for mcpServers config block"
+}

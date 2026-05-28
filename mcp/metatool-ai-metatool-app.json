@@ -1,0 +1,7 @@
+{
+  "name": "metatool-ai-metatool-app",
+  "description": "MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.",
+  "source_repo": "metatool-ai/metatool-app",
+  "source_url": "https://github.com/metatool-ai/metatool-app",
+  "install": "# git clone --depth 1 https://github.com/metatool-ai/metatool-app\n# See source for mcpServers config block"
+}

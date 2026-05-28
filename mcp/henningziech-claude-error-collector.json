@@ -1,0 +1,7 @@
+{
+  "name": "henningziech-claude-error-collector",
+  "description": "Captures user corrections during coding sessions and writes learned rules to CLAUDE.md files for persistent error avoidance.",
+  "source_repo": "henningziech/claude-error-collector-mcp",
+  "source_url": "https://github.com/henningziech/claude-error-collector-mcp",
+  "install": "npx -y claude-error-collector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tesults",
+  "description": "AI agent access to Tesults test results, flaky test detection, and failure analysis.",
+  "source_repo": "tesults/tesults-mcp",
+  "source_url": "https://github.com/tesults/tesults-mcp",
+  "install": "npx -y tesults-mcp"
+}

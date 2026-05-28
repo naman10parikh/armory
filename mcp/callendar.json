@@ -1,0 +1,7 @@
+{
+  "name": "callendar",
+  "description": "WhatsApp reminders and rescheduling for Calendly bookings via a public read-only endpoint.",
+  "source_repo": "",
+  "source_url": "https://app.callendar.de/mcp",
+  "install": "# git clone --depth 1 https://app.callendar.de/mcp\n# See source for mcpServers config block"
+}

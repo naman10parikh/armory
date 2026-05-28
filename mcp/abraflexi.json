@@ -1,0 +1,7 @@
+{
+  "name": "abraflexi",
+  "description": "Integration with AbraFlexi ERP for managing invoices, contacts, products, and bank transactions.",
+  "source_repo": "vitexsoftware/abraflexi-mcp-server",
+  "source_url": "https://github.com/vitexsoftware/abraflexi-mcp-server",
+  "install": "npx -y abraflexi-mcp-server"
+}

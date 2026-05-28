@@ -1,0 +1,7 @@
+{
+  "name": "alfarom256-obsidianmap",
+  "description": "Converts an Obsidian vault into a navigable knowledge graph with tree navigation, wikilink traversal, semantic gap detection, and write operations.",
+  "source_repo": "alfarom256/obsidianmap",
+  "source_url": "https://github.com/alfarom256/obsidianmap",
+  "install": "# git clone --depth 1 https://github.com/alfarom256/obsidianmap\n# See source for mcpServers config block"
+}

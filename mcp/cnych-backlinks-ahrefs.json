@@ -1,0 +1,7 @@
+{
+  "name": "cnych-backlinks-ahrefs",
+  "description": "Retrieves detailed backlink data from Ahrefs including anchor text, domain rating, and URL information for SEO analysis and link building strategies.",
+  "source_repo": "cnych/seo-mcp",
+  "source_url": "https://github.com/cnych/seo-mcp",
+  "install": "npx -y seo-mcp"
+}

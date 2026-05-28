@@ -1,0 +1,7 @@
+{
+  "name": "synaptikal-chronos",
+  "description": "Provides persistent local memory and project tracking with SQLite storage, TF-IDF search, and a hyperbolic-space knowledge graph for mapping complex project dependencies.",
+  "source_repo": "synaptikal/chronosmcp",
+  "source_url": "https://github.com/synaptikal/chronosmcp",
+  "install": "# git clone --depth 1 https://github.com/synaptikal/chronosmcp\n# See source for mcpServers config block"
+}

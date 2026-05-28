@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-care-membrane-mcp",
+  "description": "Healthcare data filtering and privacy protection tools for medical AI workflows.",
+  "source_repo": "csoai-org/care-membrane-mcp",
+  "source_url": "https://github.com/csoai-org/care-membrane-mcp",
+  "install": "npx -y care-membrane-mcp"
+}

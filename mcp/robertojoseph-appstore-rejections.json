@@ -1,0 +1,7 @@
+{
+  "name": "robertojoseph-appstore-rejections",
+  "description": "Curated App Store rejection database with reasons, solutions, and case studies.",
+  "source_repo": "robertojoseph/appstore-rejections-mcp",
+  "source_url": "https://github.com/robertojoseph/appstore-rejections-mcp",
+  "install": "npx -y appstore-rejections-mcp"
+}

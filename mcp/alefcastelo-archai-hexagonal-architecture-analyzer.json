@@ -1,0 +1,7 @@
+{
+  "name": "alefcastelo-archai-hexagonal-architecture-analyzer",
+  "description": "Enforces hexagonal architecture principles in Java applications through static code analysis that validates architectural rules including dependency limitations, domain isolation, naming conventions, and proper email handling.",
+  "source_repo": "alefcastelo/archai-static-analyzer-mcp",
+  "source_url": "https://github.com/alefcastelo/archai-static-analyzer-mcp",
+  "install": "npx -y archai-static-analyzer-mcp"
+}

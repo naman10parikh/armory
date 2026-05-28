@@ -1,0 +1,7 @@
+{
+  "name": "abap-accelerator-mcp-server",
+  "description": "Enterprise-grade MCP server for SAP ABAP development, enabling AI-powered coding assistance through Amazon Q Developer and Kiro with 15 SAP development tools.",
+  "source_repo": "aws-solutions-library-samples/guidance-for-deploying-sap-abap-accelerator-for-amazon-q-developer",
+  "source_url": "https://github.com/aws-solutions-library-samples/guidance-for-deploying-sap-abap-accelerator-for-amazon-q-developer",
+  "install": "# git clone --depth 1 https://github.com/aws-solutions-library-samples/guidance-for-deploying-sap-abap-accelerator-for-amazon-q-developer\n# See source for mcpServers config block"
+}

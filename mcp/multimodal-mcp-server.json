@@ -1,0 +1,7 @@
+{
+  "name": "multimodal-mcp-server",
+  "description": "Enables MCP-compatible clients to leverage OpenAI's multimodal capabilities (vision, image generation, speech-to-text, text-to-speech) through file-oriented tools with a security-first architecture.",
+  "source_repo": "soyrochus/m3cp",
+  "source_url": "https://github.com/soyrochus/m3cp",
+  "install": "# git clone --depth 1 https://github.com/soyrochus/m3cp\n# See source for mcpServers config block"
+}

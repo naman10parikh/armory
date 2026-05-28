@@ -1,0 +1,7 @@
+{
+  "name": "qrcoding-skill-mcp",
+  "description": "Enables integration with QR Agent Studio via MCP Streamable HTTP and Agent Skills, forwarding authenticated requests to manage QR records.",
+  "source_repo": "contentscoin/qrcoding-skill-mcp",
+  "source_url": "https://github.com/contentscoin/qrcoding-skill-mcp",
+  "install": "npx -y qrcoding-skill-mcp"
+}

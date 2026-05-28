@@ -1,0 +1,7 @@
+{
+  "name": "yueosa-lian-agent",
+  "description": "FastAPI-based server that provides file operations, mathematical calculations, and web scraping capabilities with PostgreSQL integration for persistent storage of tasks, execution history, and memory logs across agent interactions.",
+  "source_repo": "yueosa/lian-mcp-llm-agent",
+  "source_url": "https://github.com/yueosa/lian-mcp-llm-agent",
+  "install": "# git clone --depth 1 https://github.com/yueosa/lian-mcp-llm-agent\n# See source for mcpServers config block"
+}

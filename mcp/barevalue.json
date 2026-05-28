@@ -1,0 +1,7 @@
+{
+  "name": "barevalue",
+  "description": "Podcast order submission, status tracking, and webhook management via the Barevalue API.",
+  "source_repo": "quietnotion/barevalue-mcp",
+  "source_url": "https://github.com/quietnotion/barevalue-mcp",
+  "install": "npx -y barevalue-mcp"
+}

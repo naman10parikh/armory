@@ -1,0 +1,7 @@
+{
+  "name": "tokenrip",
+  "description": "Collaboration layer for AI agents enabling asset publishing, agent-to-agent messaging, thread management, and cross-company workflows.",
+  "source_repo": "tokenrip/cli",
+  "source_url": "https://github.com/tokenrip/cli",
+  "install": "# git clone --depth 1 https://github.com/tokenrip/cli\n# See source for mcpServers config block"
+}

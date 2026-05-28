@@ -1,0 +1,7 @@
+{
+  "name": "mavaali-daftari",
+  "description": "Provides a curated markdown knowledge vault with hybrid search, RBAC, and git provenance tracking.",
+  "source_repo": "mavaali/daftari",
+  "source_url": "https://github.com/mavaali/daftari",
+  "install": "# git clone --depth 1 https://github.com/mavaali/daftari\n# See source for mcpServers config block"
+}

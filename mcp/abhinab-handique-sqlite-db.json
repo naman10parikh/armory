@@ -1,0 +1,7 @@
+{
+  "name": "abhinab-handique-sqlite-db",
+  "description": "Provides secure SQLite database interaction with schema inspection and query execution capabilities for data analysis, content management, and application development workflows.",
+  "source_repo": "abhinab-handique/db_talk",
+  "source_url": "https://github.com/abhinab-handique/db_talk",
+  "install": "# git clone --depth 1 https://github.com/abhinab-handique/db_talk\n# See source for mcpServers config block"
+}

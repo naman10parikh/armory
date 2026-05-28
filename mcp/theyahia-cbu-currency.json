@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-cbu-currency",
+  "description": "Retrieves exchange rates and performs currency conversions using the Central Bank of Uzbekistan API.",
+  "source_repo": "theyahia/cbu-mcp",
+  "source_url": "https://github.com/theyahia/cbu-mcp",
+  "install": "npx -y cbu-mcp"
+}

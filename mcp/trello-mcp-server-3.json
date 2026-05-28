@@ -1,0 +1,7 @@
+{
+  "name": "trello-mcp-server-3",
+  "description": "Integrates Trello with Claude Code for advanced project planning and task management, featuring intelligent task analysis, automatic board setup, and natural language due dates.",
+  "source_repo": "MagnusNilsson/trello-mcp-server",
+  "source_url": "https://github.com/MagnusNilsson/trello-mcp-server",
+  "install": "npx -y trello-mcp-server"
+}

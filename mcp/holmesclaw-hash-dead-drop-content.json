@@ -1,0 +1,7 @@
+{
+  "name": "holmesclaw-hash-dead-drop-content",
+  "description": "Generates publish-ready SEO-optimized articles with images on demand via local Ollama.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/holmesclaw-hash-dead-drop-content",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/holmesclaw-hash-dead-drop-content\n# See source for mcpServers config block"
+}

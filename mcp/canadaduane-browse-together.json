@@ -1,0 +1,7 @@
+{
+  "name": "canadaduane-browse-together",
+  "description": "A co-browser controlled by both you and your AI assistant",
+  "source_repo": "canadaduane/browse-together-mcp",
+  "source_url": "https://github.com/canadaduane/browse-together-mcp",
+  "install": "npx -y browse-together-mcp"
+}

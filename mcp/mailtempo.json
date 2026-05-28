@@ -1,0 +1,7 @@
+{
+  "name": "mailtempo",
+  "description": "Access public temporary email inboxes on MailTempo for testing and disposable email use cases.",
+  "source_repo": "",
+  "source_url": "https://mailtempo.com/api/mcp",
+  "install": "# git clone --depth 1 https://mailtempo.com/api/mcp\n# See source for mcpServers config block"
+}

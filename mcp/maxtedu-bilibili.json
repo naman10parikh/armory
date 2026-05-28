@@ -1,0 +1,7 @@
+{
+  "name": "maxtedu-bilibili",
+  "description": "Interact with Bilibili to send danmaku, comments, likes, coins, and favorites on videos.",
+  "source_repo": "maxtedu/bilibili_mcp",
+  "source_url": "https://github.com/maxtedu/bilibili_mcp",
+  "install": "npx -y bilibili_mcp"
+}

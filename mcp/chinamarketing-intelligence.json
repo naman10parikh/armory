@@ -1,0 +1,7 @@
+{
+  "name": "chinamarketing-intelligence",
+  "description": "China brand visibility, destination demand, and KOL discovery intelligence for AI workflows.",
+  "source_repo": "",
+  "source_url": "https://chinamarketing.ai",
+  "install": "# git clone --depth 1 https://chinamarketing.ai\n# See source for mcpServers config block"
+}

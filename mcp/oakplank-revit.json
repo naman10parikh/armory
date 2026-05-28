@@ -1,0 +1,7 @@
+{
+  "name": "oakplank-revit",
+  "description": "Enables AI to interact directly with Revit models, allowing natural language querying, element creation, and complex model manipulation for architects and engineers.",
+  "source_repo": "oakplank/revitmcp",
+  "source_url": "https://github.com/oakplank/revitmcp",
+  "install": "# git clone --depth 1 https://github.com/oakplank/revitmcp\n# See source for mcpServers config block"
+}

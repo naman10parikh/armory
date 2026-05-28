@@ -1,0 +1,7 @@
+{
+  "name": "eip-mcp",
+  "description": "Real-time CVE, exploit, and vulnerability intelligence with 350K+ CVEs and 115K+ proof-of-concept exploits.",
+  "source_repo": "",
+  "source_url": "https://mcp.exploit-intel.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.exploit-intel.com/mcp\n# See source for mcpServers config block"
+}

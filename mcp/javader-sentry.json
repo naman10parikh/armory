@@ -1,0 +1,7 @@
+{
+  "name": "javader-sentry",
+  "description": "Connects to Sentry.io for error monitoring and debugging, enabling retrieval and analysis of specific issues or entire project lists with detailed stack traces, error frequencies, and timestamps.",
+  "source_repo": "javader/mcp-sentry-custom",
+  "source_url": "https://github.com/javader/mcp-sentry-custom",
+  "install": "# git clone --depth 1 https://github.com/javader/mcp-sentry-custom\n# See source for mcpServers config block"
+}

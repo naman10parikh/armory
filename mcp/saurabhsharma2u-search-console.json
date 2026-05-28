@@ -1,0 +1,7 @@
+{
+  "name": "saurabhsharma2u-search-console",
+  "description": "Integrates with Google Search Console to provide search analytics, SEO opportunity detection, keyword cannibalization analysis, URL inspection, and sitemap management.",
+  "source_repo": "saurabhsharma2u/search-console-mcp",
+  "source_url": "https://github.com/saurabhsharma2u/search-console-mcp",
+  "install": "npx -y search-console-mcp"
+}

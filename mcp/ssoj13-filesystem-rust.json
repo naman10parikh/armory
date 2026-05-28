@@ -1,0 +1,7 @@
+{
+  "name": "ssoj13-filesystem-rust",
+  "description": "Rust-based filesystem server that provides fast, secure file operations including read/write, directory management, glob pattern searching, regex content search, and surgical line editing with robust path validation and symlink protection.",
+  "source_repo": "ssoj13/filesystem-mcp-rs",
+  "source_url": "https://github.com/ssoj13/filesystem-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/ssoj13/filesystem-mcp-rs\n# See source for mcpServers config block"
+}

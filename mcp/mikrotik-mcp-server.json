@@ -1,0 +1,7 @@
+{
+  "name": "mikrotik-mcp-server",
+  "description": "Enables management of MikroTik routers running RouterOS 6 and 7 via SSH, Telnet, or API with automatic command adaptation. Provides over 46 MCP tools for device management, firewall, DHCP, VPN, configuration profiles, and more.",
+  "source_repo": "stormbliss/Mikrotik-MCP-Server",
+  "source_url": "https://github.com/stormbliss/Mikrotik-MCP-Server",
+  "install": "npx -y Mikrotik-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neondatabase-mcp-server-neon",
+  "description": "Manage Neon's serverless Postgres databases.",
+  "source_repo": "neondatabase/mcp-server-neon",
+  "source_url": "https://github.com/neondatabase/mcp-server-neon",
+  "install": "# git clone --depth 1 https://github.com/neondatabase/mcp-server-neon\n# See source for mcpServers config block"
+}

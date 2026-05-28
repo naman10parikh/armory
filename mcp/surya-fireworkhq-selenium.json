@@ -1,0 +1,7 @@
+{
+  "name": "surya-fireworkhq-selenium",
+  "description": "Provides browser automation capabilities including navigation, element interaction, form filling, file uploads, and screenshot capture using Selenium WebDriver.",
+  "source_repo": "surya-fireworkhq/selenium-mcp",
+  "source_url": "https://github.com/surya-fireworkhq/selenium-mcp",
+  "install": "npx -y selenium-mcp"
+}

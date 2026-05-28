@@ -1,0 +1,7 @@
+{
+  "name": "fusionpact-vectordb",
+  "description": "Hybrid vector and reasoning retrieval engine with agent memory, multi-agent orchestration, and RAG pipeline.",
+  "source_repo": "fusionpacttech/fusionpact-vectordb",
+  "source_url": "https://github.com/fusionpacttech/fusionpact-vectordb",
+  "install": "# git clone --depth 1 https://github.com/fusionpacttech/fusionpact-vectordb\n# See source for mcpServers config block"
+}

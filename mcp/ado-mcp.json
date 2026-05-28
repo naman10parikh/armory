@@ -1,0 +1,7 @@
+{
+  "name": "ado-mcp",
+  "description": "An MCP server that provides Azure DevOps integration for AI assistants, enabling them to list projects, run pipelines, analyze failures, view logs, and troubleshoot builds directly from chat interfaces.",
+  "source_repo": "raboley/ado-mcp",
+  "source_url": "https://github.com/raboley/ado-mcp",
+  "install": "npx -y ado-mcp"
+}

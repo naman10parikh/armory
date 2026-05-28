@@ -1,0 +1,7 @@
+{
+  "name": "macrat-ayd",
+  "description": "Integrates with Ayd to enable service monitoring, status checks, and log retrieval for enhanced operational visibility and incident response.",
+  "source_repo": "macrat/mcp-ayd-server",
+  "source_url": "https://github.com/macrat/mcp-ayd-server",
+  "install": "# git clone --depth 1 https://github.com/macrat/mcp-ayd-server\n# See source for mcpServers config block"
+}

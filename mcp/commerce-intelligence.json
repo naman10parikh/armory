@@ -1,0 +1,7 @@
+{
+  "name": "commerce-intelligence",
+  "description": "Commerce analytics platform for diagnosing conversion drop-offs, fixing checkout flows, and optimizing pricing strategies.",
+  "source_repo": "",
+  "source_url": "https://mcp.phoslabs.io/",
+  "install": "# git clone --depth 1 https://mcp.phoslabs.io/\n# See source for mcpServers config block"
+}

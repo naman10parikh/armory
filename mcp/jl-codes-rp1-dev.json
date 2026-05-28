@@ -1,0 +1,7 @@
+{
+  "name": "jl-codes-rp1-dev",
+  "description": "Manages RP1 spatial fabric environments, including fabric creation, universal fabric attachment, Network Service Object deployment, and project scaffolding.",
+  "source_repo": "jl-codes/rp1-dev-mcp",
+  "source_url": "https://github.com/jl-codes/rp1-dev-mcp",
+  "install": "npx -y rp1-dev-mcp"
+}

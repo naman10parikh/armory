@@ -1,0 +1,7 @@
+{
+  "name": "krisk248-obsidian-notes",
+  "description": "Integrates with Obsidian vaults through the Local REST API plugin for reading, creating, updating, and searching notes with comprehensive note management, frontmatter queries, periodic note handling, and batch operations optimized for token efficiency.",
+  "source_repo": "krisk248/obsidian-notes-mcp",
+  "source_url": "https://github.com/krisk248/obsidian-notes-mcp",
+  "install": "npx -y obsidian-notes-mcp"
+}

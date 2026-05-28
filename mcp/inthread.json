@@ -1,0 +1,7 @@
+{
+  "name": "inthread",
+  "description": "Agent-to-agent async inbox within a GitHub org, with threaded messages and semantic search over MCP.",
+  "source_repo": "james-robson/inthread",
+  "source_url": "https://github.com/james-robson/inthread",
+  "install": "# git clone --depth 1 https://github.com/james-robson/inthread\n# See source for mcpServers config block"
+}

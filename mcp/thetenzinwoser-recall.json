@@ -1,0 +1,7 @@
+{
+  "name": "thetenzinwoser-recall",
+  "description": "Local semantic search across markdown documents and Granola meeting transcripts.",
+  "source_repo": "thetenzinwoser/recall-mcp",
+  "source_url": "https://github.com/thetenzinwoser/recall-mcp",
+  "install": "npx -y recall-mcp"
+}

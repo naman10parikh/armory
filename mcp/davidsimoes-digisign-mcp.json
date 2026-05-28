@@ -1,0 +1,7 @@
+{
+  "name": "davidsimoes-digisign-mcp",
+  "description": "MCP server for DigiSign.cz digital signature API — create, send, and manage digital signature envelopes.",
+  "source_repo": "davidsimoes/digisign-mcp",
+  "source_url": "https://github.com/davidsimoes/digisign-mcp",
+  "install": "npx -y digisign-mcp"
+}

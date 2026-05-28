@@ -1,0 +1,7 @@
+{
+  "name": "vk-api-mcp-server-fastmcp",
+  "description": "Enables AI agents to interact with VKontakte through a unified FastMCP interface, supporting messaging, wall posts, user/group management, and real-time event handling.",
+  "source_repo": "Nikolay1221/vk_mcp_server",
+  "source_url": "https://github.com/Nikolay1221/vk_mcp_server",
+  "install": "npx -y vk_mcp_server"
+}

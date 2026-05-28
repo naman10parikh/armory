@@ -1,0 +1,7 @@
+{
+  "name": "martymarkenson-postgres-connector",
+  "description": "Connects to PostgreSQL databases for SQL query execution, table schema inspection, and database connection management through environment-based configuration",
+  "source_repo": "martymarkenson/postgres-connector-mcp",
+  "source_url": "https://github.com/martymarkenson/postgres-connector-mcp",
+  "install": "npx -y postgres-connector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intenttext",
+  "description": "Parse, validate, query, and render IntentText (.it) documents for structured AI communication.",
+  "source_repo": "intenttext/intenttext-mcp",
+  "source_url": "https://github.com/intenttext/intenttext-mcp",
+  "install": "npx -y intenttext-mcp"
+}

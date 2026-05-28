@@ -1,0 +1,7 @@
+{
+  "name": "madbonez-caldav-mcp",
+  "description": "Universal MCP server for CalDAV protocol integration. Works with any CalDAV-compatible calendar server including Yandex Calendar, Google Calendar (via CalDAV), Nextcloud, ownCloud, Apple iCloud, and others. Supports creating events with recurrence, categories, priority, attendees, reminders, searching events, and retrieving events by UID.",
+  "source_repo": "madbonez/caldav-mcp",
+  "source_url": "https://github.com/madbonez/caldav-mcp",
+  "install": "npx -y caldav-mcp"
+}

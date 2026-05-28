@@ -1,0 +1,7 @@
+{
+  "name": "sulg-ik-kmp-api-lookup",
+  "description": "Indexes Kotlin/Native iOS klib APIs into SQLite for fast symbol lookup in KMP projects.",
+  "source_repo": "sulg-ik/kmp-api-lookup-mcp",
+  "source_url": "https://github.com/sulg-ik/kmp-api-lookup-mcp",
+  "install": "npx -y kmp-api-lookup-mcp"
+}

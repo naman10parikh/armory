@@ -1,0 +1,7 @@
+{
+  "name": "littledivy-deno-kv",
+  "description": "Provides persistent key-value storage operations through Deno KV, enabling simple data persistence between sessions without complex database setup.",
+  "source_repo": "littledivy/mcp-deno-kv",
+  "source_url": "https://github.com/littledivy/mcp-deno-kv",
+  "install": "# git clone --depth 1 https://github.com/littledivy/mcp-deno-kv\n# See source for mcpServers config block"
+}

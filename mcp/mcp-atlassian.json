@@ -1,0 +1,7 @@
+{
+  "name": "mcp-atlassian",
+  "description": "Enables interaction with Atlassian Confluence and Jira through natural language, allowing users to search, create, update, and transition issues and pages.",
+  "source_repo": "voarsh2/mcp-atlassian",
+  "source_url": "https://github.com/voarsh2/mcp-atlassian",
+  "install": "# git clone --depth 1 https://github.com/voarsh2/mcp-atlassian\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-defuddle-fetch",
+  "description": "Fetch web content with enhanced extraction using Defuddle",
+  "source_repo": "domdomegg/defuddle-fetch-mcp-server",
+  "source_url": "https://github.com/domdomegg/defuddle-fetch-mcp-server",
+  "install": "npx -y defuddle-fetch-mcp-server"
+}

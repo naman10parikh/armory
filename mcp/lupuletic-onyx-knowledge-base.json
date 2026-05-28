@@ -1,0 +1,7 @@
+{
+  "name": "lupuletic-onyx-knowledge-base",
+  "description": "Bridges Onyx knowledge bases with semantic search and chat capabilities, enabling teams to access organizational knowledge through RAG-powered document retrieval with configurable context windows.",
+  "source_repo": "lupuletic/onyx-mcp-server",
+  "source_url": "https://github.com/lupuletic/onyx-mcp-server",
+  "install": "npx -y onyx-mcp-server"
+}

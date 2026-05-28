@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pptx-server",
+  "description": "Mcp Pptx Server MCP server listed on mcp.so.",
+  "source_repo": "h4ck4life/mcp-pptx-server",
+  "source_url": "https://mcp.so/server/mcp-pptx-server/h4ck4life",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-pptx-server/h4ck4life\n# See source for mcpServers config block"
+}

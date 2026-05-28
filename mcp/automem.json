@@ -1,0 +1,7 @@
+{
+  "name": "automem",
+  "description": "Graph-vector memory service for AI assistants using FalkorDB and Qdrant.",
+  "source_repo": "verygoodplugins/mcp-automem",
+  "source_url": "https://github.com/verygoodplugins/mcp-automem",
+  "install": "# git clone --depth 1 https://github.com/verygoodplugins/mcp-automem\n# See source for mcpServers config block"
+}

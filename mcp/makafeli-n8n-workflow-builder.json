@@ -1,0 +1,7 @@
+{
+  "name": "makafeli-n8n-workflow-builder",
+  "description": "Enables creation and management of n8n workflows for simplified automation and integration tasks.",
+  "source_repo": "makafeli/n8n-workflow-builder",
+  "source_url": "https://github.com/makafeli/n8n-workflow-builder",
+  "install": "# git clone --depth 1 https://github.com/makafeli/n8n-workflow-builder\n# See source for mcpServers config block"
+}

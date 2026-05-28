@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-bybit-announcements",
+  "description": "Integrates with Bybit's public announcements API to retrieve cryptocurrency exchange announcements with filtering by locale, type, and tag, supporting pagination and markdown formatting for monitoring new listings, trading updates, and platform changes.",
+  "source_repo": "kukapay/bybit-announcements-mcp",
+  "source_url": "https://github.com/kukapay/bybit-announcements-mcp",
+  "install": "npx -y bybit-announcements-mcp"
+}

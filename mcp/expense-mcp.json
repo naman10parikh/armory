@@ -1,0 +1,7 @@
+{
+  "name": "expense-mcp",
+  "description": "Personal expense tracker MCP server that enables tracking expenses, income, budgets, and savings goals through natural language.",
+  "source_repo": "justfsl50/expense-mcp",
+  "source_url": "https://github.com/justfsl50/expense-mcp",
+  "install": "npx -y expense-mcp"
+}

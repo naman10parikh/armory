@@ -1,0 +1,7 @@
+{
+  "name": "alcylu-nightlife-mcp",
+  "description": "MCP server for Tokyo nightlife event discovery, venue search, performer info, AI recommendations, and VIP table booking.",
+  "source_repo": "alcylu/nightlife-mcp",
+  "source_url": "https://github.com/alcylu/nightlife-mcp",
+  "install": "npx -y nightlife-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nagarh-amber-md-agent",
+  "description": "Provides autonomous molecular dynamics simulation workflows with access to six scientific databases.",
+  "source_repo": "nagarh/amber-md-agent",
+  "source_url": "https://github.com/nagarh/amber-md-agent",
+  "install": "# git clone --depth 1 https://github.com/nagarh/amber-md-agent\n# See source for mcpServers config block"
+}

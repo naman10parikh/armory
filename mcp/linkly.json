@@ -1,0 +1,7 @@
+{
+  "name": "linkly",
+  "description": "URL shortening and link management platform with click tracking and analytics",
+  "source_repo": "linkly-hq/linkly-mcp-server",
+  "source_url": "https://github.com/linkly-hq/linkly-mcp-server",
+  "install": "npx -y linkly-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-slack",
+  "description": "Channel-based messaging system that enables Slack-like communication infrastructure across projects and agent hierarchies with SQLite persistence, YAML configuration, and automatic agent discovery for coordinating multi-agent workflows and cross-project collaboration.",
+  "source_repo": "theo-nash/claude-slack",
+  "source_url": "https://github.com/theo-nash/claude-slack",
+  "install": "# git clone --depth 1 https://github.com/theo-nash/claude-slack\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grandmastr-chronos-stellar-blockchain",
+  "description": "Enables direct interaction with the Stellar blockchain network for wallet connections, token management, balance checking, and fund transfers without requiring manual blockchain operations.",
+  "source_repo": "grandmastr/chronos-mcp",
+  "source_url": "https://github.com/grandmastr/chronos-mcp",
+  "install": "npx -y chronos-mcp"
+}

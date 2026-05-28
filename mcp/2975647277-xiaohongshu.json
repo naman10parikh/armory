@@ -1,0 +1,7 @@
+{
+  "name": "2975647277-xiaohongshu",
+  "description": "Automates content creation and publishing on Xiaohongshu (Little Red Book) including AI-generated posts and cover images.",
+  "source_repo": "2975647277/xiaohongshu-mcp",
+  "source_url": "https://github.com/2975647277/xiaohongshu-mcp",
+  "install": "npx -y xiaohongshu-mcp"
+}

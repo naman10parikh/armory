@@ -1,0 +1,7 @@
+{
+  "name": "mcp-browser-automation",
+  "description": "Mcp Browser Automation MCP server listed on mcp.so.",
+  "source_repo": "weir1/mcp-browser-automation",
+  "source_url": "https://mcp.so/server/mcp-browser-automation/weir1",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-browser-automation/weir1\n# See source for mcpServers config block"
+}

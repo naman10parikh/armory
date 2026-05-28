@@ -1,0 +1,7 @@
+{
+  "name": "cyberragz-magicmirror",
+  "description": "Controls MagicMirror smart displays and integrates with Home Assistant for smart home automation.",
+  "source_repo": "cyberragz/magicmirror-mcp",
+  "source_url": "https://github.com/cyberragz/magicmirror-mcp",
+  "install": "npx -y magicmirror-mcp"
+}

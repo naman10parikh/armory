@@ -1,0 +1,7 @@
+{
+  "name": "mpeirone-zabbix-mcp-server",
+  "description": "Zabbix integration for hosts, items, triggers, templates, problems, data and more.",
+  "source_repo": "mpeirone/zabbix-mcp-server",
+  "source_url": "https://github.com/mpeirone/zabbix-mcp-server",
+  "install": "npx -y zabbix-mcp-server"
+}

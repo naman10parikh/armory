@@ -1,0 +1,7 @@
+{
+  "name": "slashvibe",
+  "description": "Social layer for AI coding - DMs, presence, discovery, and games between developers in their editors.",
+  "source_repo": "vibecodinginc/vibe-mcp",
+  "source_url": "https://github.com/vibecodinginc/vibe-mcp",
+  "install": "npx -y vibe-mcp"
+}

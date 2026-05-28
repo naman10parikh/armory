@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-coinpaprika",
+  "description": "Access cryptocurrency market data from Coinpaprika including prices, historical data, coin details, and exchange information.",
+  "source_repo": "pipeworx-io/mcp-coinpaprika",
+  "source_url": "https://github.com/pipeworx-io/mcp-coinpaprika",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-coinpaprika\n# See source for mcpServers config block"
+}

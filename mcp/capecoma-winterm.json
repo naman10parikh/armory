@@ -1,0 +1,7 @@
+{
+  "name": "capecoma-winterm",
+  "description": "Enables interaction with the Windows command line interface, allowing for writing commands, reading terminal output, and sending control characters for automation tasks and integrations.",
+  "source_repo": "capecoma/winterm-mcp",
+  "source_url": "https://github.com/capecoma/winterm-mcp",
+  "install": "npx -y winterm-mcp"
+}

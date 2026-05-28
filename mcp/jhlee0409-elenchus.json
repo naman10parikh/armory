@@ -1,0 +1,7 @@
+{
+  "name": "jhlee0409-elenchus",
+  "description": "Orchestrates multi-round code review sessions between verifier and critic roles to systematically identify security, correctness, reliability, maintainability, and performance issues through automated verification loops with differential analysis and confidence scoring.",
+  "source_repo": "jhlee0409/elenchus-mcp",
+  "source_url": "https://github.com/jhlee0409/elenchus-mcp",
+  "install": "npx -y elenchus-mcp"
+}

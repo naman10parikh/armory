@@ -1,0 +1,7 @@
+{
+  "name": "wrale-tree-sitter",
+  "description": "Provides code analysis capabilities through tree-sitter parsing, enabling structured understanding and manipulation of source code across multiple programming languages for tasks like code review, refactoring, and documentation generation.",
+  "source_repo": "wrale/mcp-server-tree-sitter",
+  "source_url": "https://github.com/wrale/mcp-server-tree-sitter",
+  "install": "# git clone --depth 1 https://github.com/wrale/mcp-server-tree-sitter\n# See source for mcpServers config block"
+}

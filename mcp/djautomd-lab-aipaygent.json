@@ -1,0 +1,7 @@
+{
+  "name": "djautomd-lab-aipaygent",
+  "description": "Provides research, writing, coding, analysis, translation, and other AI-powered productivity tools.",
+  "source_repo": "",
+  "source_url": "https://mcp.aipaygent.xyz/mcp",
+  "install": "# git clone --depth 1 https://mcp.aipaygent.xyz/mcp\n# See source for mcpServers config block"
+}

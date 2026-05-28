@@ -1,0 +1,7 @@
+{
+  "name": "buildsyncinc-gibs-mcp",
+  "description": "Regulatory compliance (AI Act, GDPR, DORA) with article-level citations",
+  "source_repo": "buildsyncinc/gibs-mcp",
+  "source_url": "https://github.com/buildsyncinc/gibs-mcp",
+  "install": "npx -y gibs-mcp"
+}

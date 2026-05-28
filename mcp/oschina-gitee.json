@@ -1,0 +1,7 @@
+{
+  "name": "oschina-gitee",
+  "description": "Bridges Claude with Gitee's API for repository management, issue tracking, pull request workflows, and user notifications on the Gitee platform.",
+  "source_repo": "oschina/mcp-gitee",
+  "source_url": "https://github.com/oschina/mcp-gitee",
+  "install": "# git clone --depth 1 https://github.com/oschina/mcp-gitee\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "volsier-memforge",
+  "description": "Team engineering memory for AI coding assistants with 47 MCP tools and pgvector semantic search.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/volsier-memforge",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/volsier-memforge\n# See source for mcpServers config block"
+}

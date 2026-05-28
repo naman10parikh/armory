@@ -1,0 +1,7 @@
+{
+  "name": "ansvar-ot-security",
+  "description": "OT security standards reference covering IEC 62443, NIST 800-82/53, and MITRE ATT&CK for ICS.",
+  "source_repo": "ansvar-systems/ot-security-mcp",
+  "source_url": "https://github.com/ansvar-systems/ot-security-mcp",
+  "install": "npx -y ot-security-mcp"
+}

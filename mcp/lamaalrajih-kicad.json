@@ -1,0 +1,7 @@
+{
+  "name": "lamaalrajih-kicad",
+  "description": "Enables Claude to analyze and validate KiCad electronic design projects through PCB visualization, design rule checking, and schematic analysis for improved troubleshooting and manufacturing preparation.",
+  "source_repo": "lamaalrajih/kicad-mcp",
+  "source_url": "https://github.com/lamaalrajih/kicad-mcp",
+  "install": "npx -y kicad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crawde-xmorf",
+  "description": "Integrates the xmorf AI image editing and generation API for AI-powered image manipulation through MCP tools.",
+  "source_repo": "crawde/mcp-xmorf",
+  "source_url": "https://github.com/crawde/mcp-xmorf",
+  "install": "# git clone --depth 1 https://github.com/crawde/mcp-xmorf\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "calmseo",
+  "description": "SEO platform exposing Search Console data, live SERPs, keyword metrics, and on-page audits to AI agents via MCP.",
+  "source_repo": "noahflk/seo-mcp",
+  "source_url": "https://github.com/noahflk/seo-mcp",
+  "install": "npx -y seo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "synthetic-health-data",
+  "description": "Privacy-preserving synthetic health data generation. FHIR R4/R5 compliant.",
+  "source_repo": "k01labs/k01-mcp-server",
+  "source_url": "https://github.com/k01labs/k01-mcp-server",
+  "install": "npx -y k01-mcp-server"
+}

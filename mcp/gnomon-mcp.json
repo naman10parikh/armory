@@ -1,0 +1,7 @@
+{
+  "name": "gnomon-mcp",
+  "description": "A small MCP server for the boring-but-essential utilities every model needs: dates, calendars, arithmetic, unit conversion. Use it so your assistant stops \"next-token guessing\" math and date math.",
+  "source_repo": "lihtness/gnomon-mcp",
+  "source_url": "https://github.com/lihtness/gnomon-mcp",
+  "install": "npx -y gnomon-mcp"
+}

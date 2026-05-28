@@ -1,0 +1,7 @@
+{
+  "name": "andytango-puppeteer",
+  "description": "Provides browser automation capabilities through Puppeteer, enabling web page interaction, content extraction, screenshot capture, PDF generation, and JavaScript evaluation for web scraping, automated testing, and form filling workflows.",
+  "source_repo": "andytango/puppeteer-mcp",
+  "source_url": "https://github.com/andytango/puppeteer-mcp",
+  "install": "npx -y puppeteer-mcp"
+}

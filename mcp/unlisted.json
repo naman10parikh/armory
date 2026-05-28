@@ -1,0 +1,7 @@
+{
+  "name": "unlisted",
+  "description": "Search off-market residential properties not yet listed for sale.",
+  "source_repo": "",
+  "source_url": "https://unlistedhomes.com",
+  "install": "# git clone --depth 1 https://unlistedhomes.com\n# See source for mcpServers config block"
+}

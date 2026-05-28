@@ -1,0 +1,7 @@
+{
+  "name": "openreview-mcp",
+  "description": "MCP server for searching and retrieving submissions, reviews, meta-reviews, rebuttals, and decisions from OpenReview venues like NeurIPS and ICLR, enabling peer review analysis.",
+  "source_repo": "OpenCodice-Research/openreview-mcp",
+  "source_url": "https://github.com/OpenCodice-Research/openreview-mcp",
+  "install": "npx -y openreview-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eliasuran-google-calendar",
+  "description": "Integrates the Google Calendar API to enable querying, creation, and modification of calendar entries and events.",
+  "source_repo": "eliasuran/mcp_server_google_calendar",
+  "source_url": "https://github.com/eliasuran/mcp_server_google_calendar",
+  "install": "# git clone --depth 1 https://github.com/eliasuran/mcp_server_google_calendar\n# See source for mcpServers config block"
+}

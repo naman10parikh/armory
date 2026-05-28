@@ -1,0 +1,7 @@
+{
+  "name": "openwebsearch-2",
+  "description": "Web search using free multi-engine search (NO API KEYS REQUIRED) — Supports Bing, Baidu, DuckDuckGo, Brave, Exa, Github, Juejin, and CSDN.",
+  "source_repo": "Aas-ee/open-webSearch",
+  "source_url": "https://github.com/Aas-ee/open-webSearch",
+  "install": "# git clone --depth 1 https://github.com/Aas-ee/open-webSearch\n# See source for mcpServers config block"
+}

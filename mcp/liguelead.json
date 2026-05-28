@@ -1,0 +1,7 @@
+{
+  "name": "liguelead",
+  "description": "SMS, SMS Flash, and voice campaign management for the LigueLead Brazilian communications platform.",
+  "source_repo": "liguelead/mcp",
+  "source_url": "https://github.com/liguelead/mcp",
+  "install": "# git clone --depth 1 https://github.com/liguelead/mcp\n# See source for mcpServers config block"
+}

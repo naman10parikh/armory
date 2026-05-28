@@ -1,0 +1,7 @@
+{
+  "name": "gh-cocaxcode-api-testing",
+  "description": "Comprehensive API testing, validation, and load testing capabilities.",
+  "source_repo": "cocaxcode/api-testing-mcp",
+  "source_url": "https://github.com/cocaxcode/api-testing-mcp",
+  "install": "npx -y api-testing-mcp"
+}

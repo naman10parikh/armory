@@ -1,0 +1,7 @@
+{
+  "name": "jsdelivr-globalping",
+  "description": "Provides global network diagnostics through Cloudflare Workers, enabling engineers to run tests like ping, traceroute, and HTTP requests from worldwide locations for troubleshooting connectivity issues and analyzing network performance.",
+  "source_repo": "jsdelivr/globalping-mcp-server",
+  "source_url": "https://github.com/jsdelivr/globalping-mcp-server",
+  "install": "npx -y globalping-mcp-server"
+}

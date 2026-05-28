@@ -1,0 +1,7 @@
+{
+  "name": "xfish-webshop",
+  "description": "Hungarian fishing tackle webshop with 90,000+ products searchable by category, brand, and price.",
+  "source_repo": "",
+  "source_url": "https://www.xfish.hu",
+  "install": "# git clone --depth 1 https://www.xfish.hu\n# See source for mcpServers config block"
+}

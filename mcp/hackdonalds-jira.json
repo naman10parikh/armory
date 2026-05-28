@@ -1,0 +1,7 @@
+{
+  "name": "hackdonalds-jira",
+  "description": "Integrates with JIRA through REST API v2 to provide complete issue management including retrieval, JQL searching, creation, updates, status transitions, and commenting for development teams and project managers.",
+  "source_repo": "hackdonalds/jira-mcp",
+  "source_url": "https://github.com/hackdonalds/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "louistrue-ifcx",
+  "description": "MCP server for creating and editing IFC5/IFCX building information models through natural language.",
+  "source_repo": "louistrue/ifcx-mcp",
+  "source_url": "https://github.com/louistrue/ifcx-mcp",
+  "install": "npx -y ifcx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "im43ii-tokenlens",
+  "description": "Token intelligence layer that analyzes conversations, estimates API costs, detects wasteful patterns, and generates optimized prompts.",
+  "source_repo": "im43ii/tokenlens-mcp",
+  "source_url": "https://github.com/im43ii/tokenlens-mcp",
+  "install": "npx -y tokenlens-mcp"
+}

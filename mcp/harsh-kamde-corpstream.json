@@ -1,0 +1,7 @@
+{
+  "name": "harsh-kamde-corpstream",
+  "description": "Query freshly registered company data from Companies House, SEC EDGAR, MCA India, and OpenCorporates through five natural-language tools.",
+  "source_repo": "harsh-kamde/corpstream",
+  "source_url": "https://github.com/harsh-kamde/corpstream",
+  "install": "# git clone --depth 1 https://github.com/harsh-kamde/corpstream\n# See source for mcpServers config block"
+}

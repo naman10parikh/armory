@@ -1,0 +1,7 @@
+{
+  "name": "entia-entity-verification",
+  "description": "Verified business intelligence for AI agents, covering 5.5M+ entities across 34 countries.",
+  "source_repo": "entia-ia/entia-mcp-server",
+  "source_url": "https://github.com/entia-ia/entia-mcp-server",
+  "install": "npx -y entia-mcp-server"
+}

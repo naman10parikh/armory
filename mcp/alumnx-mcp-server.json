@@ -1,0 +1,7 @@
+{
+  "name": "alumnx-mcp-server",
+  "description": "Provides agricultural intelligence tools for pest/disease lookup, government scheme discovery, and SME knowledge retrieval via semantic search.",
+  "source_repo": "alumnx-ai-labs/agrigpt-backend-mcp",
+  "source_url": "https://github.com/alumnx-ai-labs/agrigpt-backend-mcp",
+  "install": "npx -y agrigpt-backend-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mazemax-mindvalley",
+  "description": "Access Mindvalley's educational catalog of products, masterclasses, programs, and certifications",
+  "source_repo": "mazemax/mindvalley-products-mcp",
+  "source_url": "https://github.com/mazemax/mindvalley-products-mcp",
+  "install": "npx -y mindvalley-products-mcp"
+}

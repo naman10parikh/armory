@@ -1,0 +1,7 @@
+{
+  "name": "chemrxiv-mcp-server",
+  "description": "ChemRxiv MCP Server MCP server listed on mcp.so.",
+  "source_repo": "JackKuo666/ChemRxiv-MCP-Server",
+  "source_url": "https://mcp.so/server/ChemRxiv-MCP-Server/JackKuo666",
+  "install": "npx -y ChemRxiv-MCP-Server"
+}

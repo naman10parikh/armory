@@ -1,0 +1,7 @@
+{
+  "name": "dimitrovakulenko-dwg",
+  "description": "MCP server for inspecting AutoCAD DWG files, providing read-only access to drawing contents as queryable objects.",
+  "source_repo": "dimitrovakulenko/dwg-mcp-server",
+  "source_url": "https://github.com/dimitrovakulenko/dwg-mcp-server",
+  "install": "npx -y dwg-mcp-server"
+}

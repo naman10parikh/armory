@@ -1,0 +1,7 @@
+{
+  "name": "jgador-websharp",
+  "description": "Web search and article extraction using SearXNG",
+  "source_repo": "jgador/websharp",
+  "source_url": "https://github.com/jgador/websharp",
+  "install": "# git clone --depth 1 https://github.com/jgador/websharp\n# See source for mcpServers config block"
+}

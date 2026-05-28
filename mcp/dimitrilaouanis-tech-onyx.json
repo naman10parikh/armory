@@ -1,0 +1,7 @@
+{
+  "name": "dimitrilaouanis-tech-onyx",
+  "description": "Framework for building paid MCP servers with USDC payments on Base blockchain.",
+  "source_repo": "dimitrilaouanis-tech/onyx-mcp",
+  "source_url": "https://github.com/dimitrilaouanis-tech/onyx-mcp",
+  "install": "npx -y onyx-mcp"
+}

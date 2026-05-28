@@ -1,0 +1,7 @@
+{
+  "name": "project-opener-mcp",
+  "description": "Project Opener Mcp MCP server listed on mcp.so.",
+  "source_repo": "jlmelis/project-opener-mcp",
+  "source_url": "https://mcp.so/server/project-opener-mcp/jlmelis",
+  "install": "npx -y project-opener-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "luskb-geoschlor",
+  "description": "Search geoscience literature across CNKI, SPE, EAGE, AAPG, SPWLA, and other academic databases with unified metadata enrichment.",
+  "source_repo": "luskb/geoschlor-mcp",
+  "source_url": "https://github.com/luskb/geoschlor-mcp",
+  "install": "npx -y geoschlor-mcp"
+}

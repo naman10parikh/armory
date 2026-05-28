@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-stargate",
+  "description": "Hosted integration with Stargate cross-chain bridge protocol for analytics and bridge operations via Junct platform.",
+  "source_repo": "junct-bot/stargate-mcp",
+  "source_url": "https://github.com/junct-bot/stargate-mcp",
+  "install": "npx -y stargate-mcp"
+}

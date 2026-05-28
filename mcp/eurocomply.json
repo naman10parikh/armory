@@ -1,0 +1,7 @@
+{
+  "name": "eurocomply",
+  "description": "EU regulations, deadlines, and DPA enforcement data covering GDPR, AI Act, NIS2, DORA, DSA, DMA, MiCA, and CSRD.",
+  "source_repo": "",
+  "source_url": "https://eurocomply.app",
+  "install": "# git clone --depth 1 https://eurocomply.app\n# See source for mcpServers config block"
+}

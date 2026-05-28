@@ -1,0 +1,7 @@
+{
+  "name": "laurynas-biveinis-org-mcp",
+  "description": "Emacs package providing MCP server for structured Org-mode file access with read/write operations",
+  "source_repo": "laurynas-biveinis/org-mcp",
+  "source_url": "https://github.com/laurynas-biveinis/org-mcp",
+  "install": "npx -y org-mcp"
+}

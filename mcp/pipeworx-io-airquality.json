@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-airquality",
+  "description": "Real-time air quality data via the Open-Meteo Air Quality API, including pollutant concentrations and AQI for any location.",
+  "source_repo": "pipeworx-io/mcp-airquality",
+  "source_url": "https://github.com/pipeworx-io/mcp-airquality",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-airquality\n# See source for mcpServers config block"
+}

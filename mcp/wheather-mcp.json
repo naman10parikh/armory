@@ -1,0 +1,7 @@
+{
+  "name": "wheather-mcp",
+  "description": "Wheather Mcp MCP server listed on mcp.so.",
+  "source_repo": "sarankrishna/wheather-mcp",
+  "source_url": "https://mcp.so/server/wheather-mcp/sarankrishna",
+  "install": "npx -y wheather-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erikirby-web-network-tools",
+  "description": "DNS lookup, WHOIS, SSL certificate checking, and HTTP status tools using public APIs.",
+  "source_repo": "erikirby/toolcompare-fyi",
+  "source_url": "https://github.com/erikirby/toolcompare-fyi",
+  "install": "# git clone --depth 1 https://github.com/erikirby/toolcompare-fyi\n# See source for mcpServers config block"
+}

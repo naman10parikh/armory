@@ -1,0 +1,7 @@
+{
+  "name": "agenticempire-axint",
+  "description": "Compile TypeScript or Python definitions to native Swift — App Intents, SwiftUI, WidgetKit, and full apps.",
+  "source_repo": "agenticempire/axint",
+  "source_url": "https://github.com/agenticempire/axint",
+  "install": "# git clone --depth 1 https://github.com/agenticempire/axint\n# See source for mcpServers config block"
+}

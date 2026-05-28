@@ -1,0 +1,7 @@
+{
+  "name": "sirgreed808-zoho-mail-mcp",
+  "description": "MCP server for Zoho Mail. Read, search, and send email from Claude.",
+  "source_repo": "SirGreed808/zoho-mail-mcp",
+  "source_url": "https://github.com/SirGreed808/zoho-mail-mcp",
+  "install": "npx -y zoho-mail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "waynecui-wireshark",
+  "description": "Wireshark dissector plugin for analyzing network traffic.",
+  "source_repo": "waynecui/wireshark_mcp",
+  "source_url": "https://github.com/waynecui/wireshark_mcp",
+  "install": "npx -y wireshark_mcp"
+}

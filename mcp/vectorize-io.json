@@ -1,0 +1,7 @@
+{
+  "name": "vectorize-io",
+  "description": "Bridges Claude with Vectorize.io's vector database services for advanced document retrieval, text extraction, and research capabilities through TypeScript-based tools that handle authentication via organization IDs and API tokens.",
+  "source_repo": "vectorize-io/vectorize-mcp-server",
+  "source_url": "https://github.com/vectorize-io/vectorize-mcp-server",
+  "install": "npx -y vectorize-mcp-server"
+}

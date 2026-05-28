@@ -1,0 +1,7 @@
+{
+  "name": "hal-wecom-bot",
+  "description": "Integrates WeCom (WeChat Work) bot functionality for enterprise messaging, notifications, and interactive chatbots.",
+  "source_repo": "loonghao/wecom-bot-mcp-server",
+  "source_url": "https://github.com/loonghao/wecom-bot-mcp-server",
+  "install": "npx -y wecom-bot-mcp-server"
+}

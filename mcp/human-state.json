@@ -1,0 +1,7 @@
+{
+  "name": "human-state",
+  "description": "human-state",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/nefesh-ai/human-state",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/nefesh-ai/human-state\n# See source for mcpServers config block"
+}

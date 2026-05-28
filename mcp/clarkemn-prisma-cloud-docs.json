@@ -1,0 +1,7 @@
+{
+  "name": "clarkemn-prisma-cloud-docs",
+  "description": "Provides search access to Prisma Cloud documentation by crawling and indexing pages from both main docs and API documentation, implementing caching with TTL expiration and relevance scoring to return structured results with snippets and URLs for quick documentation access.",
+  "source_repo": "clarkemn/prisma-cloud-docs-mcp-server",
+  "source_url": "https://github.com/clarkemn/prisma-cloud-docs-mcp-server",
+  "install": "npx -y prisma-cloud-docs-mcp-server"
+}

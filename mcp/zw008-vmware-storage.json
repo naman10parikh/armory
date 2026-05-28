@@ -1,0 +1,7 @@
+{
+  "name": "zw008-vmware-storage",
+  "description": "VMware vSphere storage management covering datastores, iSCSI configuration, and vSAN health monitoring.",
+  "source_repo": "zw008/vmware-storage",
+  "source_url": "https://github.com/zw008/vmware-storage",
+  "install": "# git clone --depth 1 https://github.com/zw008/vmware-storage\n# See source for mcpServers config block"
+}

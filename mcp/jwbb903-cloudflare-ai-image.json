@@ -1,0 +1,7 @@
+{
+  "name": "jwbb903-cloudflare-ai-image",
+  "description": "Generate images using Cloudflare Workers AI models deployed on edge infrastructure.",
+  "source_repo": "jwbb903/cloudflare-ai-image-mcp",
+  "source_url": "https://github.com/jwbb903/cloudflare-ai-image-mcp",
+  "install": "npx -y cloudflare-ai-image-mcp"
+}

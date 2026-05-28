@@ -1,0 +1,7 @@
+{
+  "name": "luisenvilla-furniture-designer",
+  "description": "Professional furniture design tool with structural validation, cut optimization, BOM generation, and interactive 3D reports.",
+  "source_repo": "luisenvilla/furniture-designer-mcp",
+  "source_url": "https://github.com/luisenvilla/furniture-designer-mcp",
+  "install": "npx -y furniture-designer-mcp"
+}

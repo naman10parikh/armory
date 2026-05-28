@@ -1,0 +1,7 @@
+{
+  "name": "cruxible-core",
+  "description": "Deterministic decision engine with DAG-based receipts and auditable entity graphs.",
+  "source_repo": "cruxible-ai/cruxible-core",
+  "source_url": "https://github.com/cruxible-ai/cruxible-core",
+  "install": "# git clone --depth 1 https://github.com/cruxible-ai/cruxible-core\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "limps",
+  "description": "Local document and planning layer that provides plan management, full-text search, and task lifecycle tracking across any folder.",
+  "source_repo": "paulbreuler/limps",
+  "source_url": "https://github.com/paulbreuler/limps",
+  "install": "# git clone --depth 1 https://github.com/paulbreuler/limps\n# See source for mcpServers config block"
+}

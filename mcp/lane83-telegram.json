@@ -1,0 +1,7 @@
+{
+  "name": "lane83-telegram",
+  "description": "Integrates with Telegram chats via the Bot API to enable secure, whitelisted messaging and AI-powered interactions for automated workflows and communication channels.",
+  "source_repo": "lane83/mcp-telegram",
+  "source_url": "https://github.com/lane83/mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/lane83/mcp-telegram\n# See source for mcpServers config block"
+}

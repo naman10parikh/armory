@@ -1,0 +1,7 @@
+{
+  "name": "guilhermelirio-brasil-api",
+  "description": "Integrates with Brasil API to provide access to Brazilian data services including postal codes, company information, banking data, geographic information, and domain registration checks.",
+  "source_repo": "guilhermelirio/brasil-api-mcp",
+  "source_url": "https://github.com/guilhermelirio/brasil-api-mcp",
+  "install": "npx -y brasil-api-mcp"
+}

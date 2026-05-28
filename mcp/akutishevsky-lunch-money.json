@@ -1,0 +1,7 @@
+{
+  "name": "akutishevsky-lunch-money",
+  "description": "Integrates with Lunch Money personal finance API to retrieve account balances, transaction history, budget information, and spending categories for natural language financial data analysis and budget insights.",
+  "source_repo": "akutishevsky/lunchmoney-mcp",
+  "source_url": "https://github.com/akutishevsky/lunchmoney-mcp",
+  "install": "npx -y lunchmoney-mcp"
+}

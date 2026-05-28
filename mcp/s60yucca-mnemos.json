@@ -1,0 +1,7 @@
+{
+  "name": "s60yucca-mnemos",
+  "description": "Persistent memory engine for AI coding agents. Stores architecture decisions, bug root causes, and project conventions across sessions. Single Go binary with embedded SQLite, FTS5 search, context assembly within token budgets, and autopilot setup for Claude Code, Kiro, and Cursor.",
+  "source_repo": "s60yucca/mnemos",
+  "source_url": "https://github.com/s60yucca/mnemos",
+  "install": "# git clone --depth 1 https://github.com/s60yucca/mnemos\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "music21-mcp-server",
+  "description": "A multi-interface music analysis server providing MCP, HTTP, CLI, and Python interfaces for music21-based analysis.",
+  "source_repo": "brightlikethelight/music21-mcp-server",
+  "source_url": "https://github.com/brightlikethelight/music21-mcp-server",
+  "install": "npx -y music21-mcp-server"
+}

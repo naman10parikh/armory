@@ -1,0 +1,7 @@
+{
+  "name": "einiba-canyougrab-api",
+  "description": "Confidence-scored domain availability checking with real-time DNS + WHOIS lookups. Bulk check up to 100 domains per request. Each result includes availability, confidence level, data source, and registration details.",
+  "source_repo": "einiba/canyougrab-api",
+  "source_url": "https://github.com/einiba/canyougrab-api/tree/main/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/einiba/canyougrab-api/tree/main/mcp-server\n# See source for mcpServers config block"
+}

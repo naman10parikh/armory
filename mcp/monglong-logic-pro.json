@@ -1,0 +1,7 @@
+{
+  "name": "monglong-logic-pro",
+  "description": "MCP server for controlling Logic Pro via 7 macOS communication channels including MIDI, CoreMIDI, AppleScript, and Accessibility APIs.",
+  "source_repo": "monglong0214/logic-pro-mcp",
+  "source_url": "https://github.com/monglong0214/logic-pro-mcp",
+  "install": "npx -y logic-pro-mcp"
+}

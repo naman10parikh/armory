@@ -1,0 +1,7 @@
+{
+  "name": "model-id-cheatsheet",
+  "description": "Accurate API model IDs, pricing, and specs across multiple AI providers.",
+  "source_repo": "aezizhu/model-id-cheatsheet",
+  "source_url": "https://github.com/aezizhu/model-id-cheatsheet",
+  "install": "# git clone --depth 1 https://github.com/aezizhu/model-id-cheatsheet\n# See source for mcpServers config block"
+}

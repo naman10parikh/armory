@@ -1,0 +1,7 @@
+{
+  "name": "jo-lion-software-planning",
+  "description": "Enables systematic software project planning by breaking down complex tasks into manageable components, defining project structures, and creating implementation roadmaps through a Python-based FastMCP framework deployable via Docker or locally.",
+  "source_repo": "wang-guanye/software-planning-mcp",
+  "source_url": "https://github.com/wang-guanye/software-planning-mcp",
+  "install": "npx -y software-planning-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sonarqube-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides AI assistants with access to SonarQube code quality, security, and project analytics data.",
+  "source_repo": "akhilthomas236/sonarqube-mcp-npm",
+  "source_url": "https://github.com/akhilthomas236/sonarqube-mcp-npm",
+  "install": "# git clone --depth 1 https://github.com/akhilthomas236/sonarqube-mcp-npm\n# See source for mcpServers config block"
+}

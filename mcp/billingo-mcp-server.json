@@ -1,0 +1,7 @@
+{
+  "name": "billingo-mcp-server",
+  "description": "An MCP server for the Billingo invoicing API (v3) that enables AI assistants like Claude to manage invoices, partners, products, expenses, and more through natural language.",
+  "source_repo": "Szotasz/billingo-mcp",
+  "source_url": "https://github.com/Szotasz/billingo-mcp",
+  "install": "npx -y billingo-mcp"
+}

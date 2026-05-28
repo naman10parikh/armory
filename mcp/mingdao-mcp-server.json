@@ -1,0 +1,7 @@
+{
+  "name": "mingdao-mcp-server",
+  "description": "MCP server for Mingdao Worksheet API. Enables listing worksheets, querying records, and performing CRUD operations on Mingdao (明道云) works through natural language.",
+  "source_repo": "iceleaf916/mingdao-mcp-server",
+  "source_url": "https://github.com/iceleaf916/mingdao-mcp-server",
+  "install": "npx -y mingdao-mcp-server"
+}

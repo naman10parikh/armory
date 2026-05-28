@@ -1,0 +1,7 @@
+{
+  "name": "mcpassure-anvisa-bulario",
+  "description": "Queries the ANVISA electronic medication database for drug registrations, package inserts, prescription schedules, and pharmaceutical presentations.",
+  "source_repo": "mcpassure/mcp-anvisa-bulario",
+  "source_url": "https://github.com/mcpassure/mcp-anvisa-bulario",
+  "install": "# git clone --depth 1 https://github.com/mcpassure/mcp-anvisa-bulario\n# See source for mcpServers config block"
+}

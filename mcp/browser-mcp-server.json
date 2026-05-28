@@ -1,0 +1,7 @@
+{
+  "name": "browser-mcp-server",
+  "description": "A universal browser automation MCP server using Playwright, enabling programmatic control of Chrome with 63 tools for navigation, interaction, media control, and CDP-based diagnostics.",
+  "source_repo": "ricardodeazambuja/browser-mcp-server",
+  "source_url": "https://github.com/ricardodeazambuja/browser-mcp-server",
+  "install": "npx -y browser-mcp-server"
+}

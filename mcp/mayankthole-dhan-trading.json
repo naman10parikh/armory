@@ -1,0 +1,7 @@
+{
+  "name": "mayankthole-dhan-trading",
+  "description": "Control your Dhan trading account through Claude using simple conversation. Check your account balance, view current holdings and positions, get live market prices, and place various orders (market, limit, stop-loss, bracket) - all by simply asking your LLM",
+  "source_repo": "mayankthole/dhan-mcp-trades",
+  "source_url": "https://github.com/mayankthole/dhan-mcp-trades",
+  "install": "# git clone --depth 1 https://github.com/mayankthole/dhan-mcp-trades\n# See source for mcpServers config block"
+}

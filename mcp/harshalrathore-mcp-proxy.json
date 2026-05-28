@@ -1,0 +1,7 @@
+{
+  "name": "harshalrathore-mcp-proxy",
+  "description": "TypeScript MCP gateway consolidating multiple upstream servers with schema deferral and response shielding.",
+  "source_repo": "harshalrathore/harshal-mcp-proxy",
+  "source_url": "https://github.com/harshalrathore/harshal-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/harshalrathore/harshal-mcp-proxy\n# See source for mcpServers config block"
+}

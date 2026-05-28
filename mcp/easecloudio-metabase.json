@@ -1,0 +1,7 @@
+{
+  "name": "easecloudio-metabase",
+  "description": "Integrates with Metabase business intelligence platform to provide dashboard management, query execution, database connectivity with SQL capabilities, user management, and permission controls for automating analytics workflows and administrative tasks.",
+  "source_repo": "easecloudio/mcp-metabase-server",
+  "source_url": "https://github.com/easecloudio/mcp-metabase-server",
+  "install": "# git clone --depth 1 https://github.com/easecloudio/mcp-metabase-server\n# See source for mcpServers config block"
+}

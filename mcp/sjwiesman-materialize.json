@@ -1,0 +1,7 @@
+{
+  "name": "sjwiesman-materialize",
+  "description": "Automatically exposes Materialize database indexes as parameterized URI endpoints for natural language querying of materialized views",
+  "source_repo": "sjwiesman/mcp-materialize",
+  "source_url": "https://github.com/sjwiesman/mcp-materialize",
+  "install": "# git clone --depth 1 https://github.com/sjwiesman/mcp-materialize\n# See source for mcpServers config block"
+}

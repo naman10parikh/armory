@@ -1,0 +1,7 @@
+{
+  "name": "fund-z-fundzwatch-mcp",
+  "description": "Real-time business event intelligence for AI agents. Funding rounds, acquisitions, executive hires, AI-scored leads, and market intelligence.",
+  "source_repo": "Fund-z/fundzwatch-mcp",
+  "source_url": "https://github.com/Fund-z/fundzwatch-mcp",
+  "install": "npx -y fundzwatch-mcp"
+}

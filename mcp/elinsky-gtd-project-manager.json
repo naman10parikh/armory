@@ -1,0 +1,7 @@
+{
+  "name": "elinsky-gtd-project-manager",
+  "description": "Automates GTD project management by creating structured project files with YAML frontmatter and markdown templates, validating metadata against configured areas, preventing duplicates across project folders, and managing project lifecycle transitions with proper date tracking.",
+  "source_repo": "elinsky/execution-system-mcp",
+  "source_url": "https://github.com/elinsky/execution-system-mcp",
+  "install": "npx -y execution-system-mcp"
+}

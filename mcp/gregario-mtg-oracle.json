@@ -1,0 +1,7 @@
+{
+  "name": "gregario-mtg-oracle",
+  "description": "Magic: The Gathering card search, rules lookup, deck analysis, combo discovery, and Commander intelligence.",
+  "source_repo": "gregario/mtg-oracle",
+  "source_url": "https://github.com/gregario/mtg-oracle",
+  "install": "# git clone --depth 1 https://github.com/gregario/mtg-oracle\n# See source for mcpServers config block"
+}

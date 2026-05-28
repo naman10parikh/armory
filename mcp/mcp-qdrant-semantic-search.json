@@ -1,0 +1,7 @@
+{
+  "name": "mcp-qdrant-semantic-search",
+  "description": "Enables Claude to store and retrieve information with semantic search using Qdrant vector database, providing persistent memory for conversations, code, and documentation.",
+  "source_repo": "muhammedehab35/MCP-qdrant-semantic-search",
+  "source_url": "https://github.com/muhammedehab35/MCP-qdrant-semantic-search",
+  "install": "# git clone --depth 1 https://github.com/muhammedehab35/MCP-qdrant-semantic-search\n# See source for mcpServers config block"
+}

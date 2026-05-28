@@ -1,0 +1,7 @@
+{
+  "name": "w3-mcp-falkordb-server",
+  "description": "Enables graph database operations on FalkorDB via MCP, allowing Cypher queries, node retrieval, and graph listing.",
+  "source_repo": "famtong8-dev/w3-mcp-server-falkordb",
+  "source_url": "https://github.com/famtong8-dev/w3-mcp-server-falkordb",
+  "install": "# git clone --depth 1 https://github.com/famtong8-dev/w3-mcp-server-falkordb\n# See source for mcpServers config block"
+}

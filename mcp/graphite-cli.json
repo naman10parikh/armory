@@ -1,0 +1,7 @@
+{
+  "name": "graphite-cli",
+  "description": "Tool for managing code reviews in the age of AI: enable developers (and agents) to work with multiple dependent changes efficiently.",
+  "source_repo": "",
+  "source_url": "https://graphite.dev/docs/gt-mcp",
+  "install": "# git clone --depth 1 https://graphite.dev/docs/gt-mcp\n# See source for mcpServers config block"
+}

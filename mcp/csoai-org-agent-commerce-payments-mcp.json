@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-agent-commerce-payments-mcp",
+  "description": "Tools for enabling commerce transactions and payment processing in agentic workflows.",
+  "source_repo": "csoai-org/agent-commerce-payments-mcp",
+  "source_url": "https://github.com/csoai-org/agent-commerce-payments-mcp",
+  "install": "npx -y agent-commerce-payments-mcp"
+}

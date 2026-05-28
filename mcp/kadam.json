@@ -1,0 +1,7 @@
+{
+  "name": "kadam",
+  "description": "Manage Kadam advertising campaigns, creatives, audiences, and analytics via AI assistants.",
+  "source_repo": "kadam-official/mcp-server",
+  "source_url": "https://github.com/kadam-official/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/kadam-official/mcp-server\n# See source for mcpServers config block"
+}

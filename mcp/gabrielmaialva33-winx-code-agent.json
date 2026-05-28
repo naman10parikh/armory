@@ -1,0 +1,7 @@
+{
+  "name": "gabrielmaialva33-winx-code-agent",
+  "description": "A high-performance Rust reimplementation of WCGW for code agents, providing shell execution and advanced file management capabilities for LLMs via MCP.",
+  "source_repo": "gabrielmaialva33/winx-code-agent",
+  "source_url": "https://github.com/gabrielmaialva33/winx-code-agent",
+  "install": "# git clone --depth 1 https://github.com/gabrielmaialva33/winx-code-agent\n# See source for mcpServers config block"
+}

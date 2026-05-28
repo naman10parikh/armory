@@ -1,0 +1,7 @@
+{
+  "name": "wricardo-grpc-reflection",
+  "description": "Integrates with gRPC services using grpcurl, enabling method invocation, service listing, and description with custom header support for versatile API interactions.",
+  "source_repo": "wricardo/grpcurl-mcp",
+  "source_url": "https://github.com/wricardo/grpcurl-mcp",
+  "install": "npx -y grpcurl-mcp"
+}

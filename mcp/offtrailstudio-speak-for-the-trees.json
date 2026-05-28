@@ -1,0 +1,7 @@
+{
+  "name": "offtrailstudio-speak-for-the-trees",
+  "description": "Investigates ecosystem health using public environmental data from USGS, EPA, NOAA, iNaturalist, and GBIF.",
+  "source_repo": "offtrailstudio/speak-for-the-trees-mcp",
+  "source_url": "https://github.com/offtrailstudio/speak-for-the-trees-mcp",
+  "install": "npx -y speak-for-the-trees-mcp"
+}

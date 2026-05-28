@@ -1,0 +1,7 @@
+{
+  "name": "myco",
+  "description": "Filesystem-based cognitive substrate for AI agents with 18 knowledge management verbs and self-validating graphs.",
+  "source_repo": "battam1111/myco",
+  "source_url": "https://github.com/battam1111/myco",
+  "install": "# git clone --depth 1 https://github.com/battam1111/myco\n# See source for mcpServers config block"
+}

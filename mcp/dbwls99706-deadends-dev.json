@@ -1,0 +1,7 @@
+{
+  "name": "dbwls99706-deadends-dev",
+  "description": "Structured failure knowledge for AI agents.",
+  "source_repo": "dbwls99706/deadends.dev",
+  "source_url": "https://github.com/dbwls99706/deadends.dev",
+  "install": "# git clone --depth 1 https://github.com/dbwls99706/deadends.dev\n# See source for mcpServers config block"
+}

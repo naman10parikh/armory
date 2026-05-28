@@ -1,0 +1,7 @@
+{
+  "name": "groundapi",
+  "description": "Real-time data API platform for AI agents providing stock quotes, weather, forex, logistics tracking, web search, web scraping, news, and IP geolocation.",
+  "source_repo": "",
+  "source_url": "https://groundapi.net",
+  "install": "# git clone --depth 1 https://groundapi.net\n# See source for mcpServers config block"
+}

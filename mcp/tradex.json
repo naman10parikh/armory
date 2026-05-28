@@ -1,0 +1,7 @@
+{
+  "name": "tradex",
+  "description": "Enables trading Pokemon card perpetual futures on Solana with market analysis, price tracking, and USDC-denominated positions.",
+  "source_repo": "tradexcards/mcp",
+  "source_url": "https://github.com/tradexcards/mcp",
+  "install": "# git clone --depth 1 https://github.com/tradexcards/mcp\n# See source for mcpServers config block"
+}

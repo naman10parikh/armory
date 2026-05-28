@@ -1,0 +1,7 @@
+{
+  "name": "betancur-keynote",
+  "description": "Provides direct control over Apple Keynote presentations through AppleScript automation on macOS, enabling slide management, content creation, layout selection, navigation, and export functionality for automated presentation workflows.",
+  "source_repo": "betancur/keynote-mcp",
+  "source_url": "https://github.com/betancur/keynote-mcp",
+  "install": "npx -y keynote-mcp"
+}

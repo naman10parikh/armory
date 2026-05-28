@@ -1,0 +1,7 @@
+{
+  "name": "nutrition-mcp-server",
+  "description": "Enables natural language access to USDA's FoodData Central database with 1M+ foods, supporting search, nutrition facts, food comparison, and daily value calculations.",
+  "source_repo": "AiAgentKarl/nutrition-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/nutrition-mcp-server",
+  "install": "npx -y nutrition-mcp-server"
+}

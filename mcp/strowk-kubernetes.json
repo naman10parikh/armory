@@ -1,0 +1,7 @@
+{
+  "name": "strowk-kubernetes",
+  "description": "Control and monitor K8s clusters for management and debugging.",
+  "source_repo": "strowk/mcp-k8s-go",
+  "source_url": "https://github.com/strowk/mcp-k8s-go",
+  "install": "# git clone --depth 1 https://github.com/strowk/mcp-k8s-go\n# See source for mcpServers config block"
+}

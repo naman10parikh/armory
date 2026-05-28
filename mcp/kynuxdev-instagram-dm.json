@@ -1,0 +1,7 @@
+{
+  "name": "kynuxdev-instagram-dm",
+  "description": "Read, send, search, and manage Instagram direct messages through AI assistants using cookie-based auth.",
+  "source_repo": "kynuxdev/mcp-instagram-dm",
+  "source_url": "https://github.com/kynuxdev/mcp-instagram-dm",
+  "install": "# git clone --depth 1 https://github.com/kynuxdev/mcp-instagram-dm\n# See source for mcpServers config block"
+}

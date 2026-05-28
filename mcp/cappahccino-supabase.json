@@ -1,0 +1,7 @@
+{
+  "name": "cappahccino-supabase",
+  "description": "Enables Claude and other LLMs to interact with Supabase databases and Edge Functions through a secure API for performing CRUD operations and invoking custom payloads without requiring integration code.",
+  "source_repo": "cappahccino/sb-mcp",
+  "source_url": "https://github.com/cappahccino/sb-mcp",
+  "install": "npx -y sb-mcp"
+}

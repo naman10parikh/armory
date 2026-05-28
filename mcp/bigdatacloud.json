@@ -1,0 +1,7 @@
+{
+  "name": "bigdatacloud",
+  "description": "Provides IP geolocation, reverse geocoding, network intelligence, timezone, and phone/email validation via BigDataCloud APIs.",
+  "source_repo": "bigdatacloudapi/bigdatacloud-mcp-server",
+  "source_url": "https://github.com/bigdatacloudapi/bigdatacloud-mcp-server",
+  "install": "npx -y bigdatacloud-mcp-server"
+}

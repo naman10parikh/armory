@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-hpo",
+  "description": "Look up clinical phenotype terms and gene-disease annotations via the Human Phenotype Ontology.",
+  "source_repo": "pipeworx-io/mcp-hpo-api",
+  "source_url": "https://github.com/pipeworx-io/mcp-hpo-api",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-hpo-api\n# See source for mcpServers config block"
+}

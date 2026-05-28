@@ -1,0 +1,7 @@
+{
+  "name": "skyloevil-open-meteo-weather",
+  "description": "Provides weather data access through the free Open-Meteo API for current conditions, daily forecasts up to 16 days, hourly forecasts up to 7 days, and location search with coordinate lookup.",
+  "source_repo": "skyloevil/weather-mcp",
+  "source_url": "https://github.com/skyloevil/weather-mcp",
+  "install": "npx -y weather-mcp"
+}

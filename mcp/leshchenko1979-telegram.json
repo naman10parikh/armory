@@ -1,0 +1,7 @@
+{
+  "name": "leshchenko1979-telegram",
+  "description": "Production-ready Telegram integration with search, messaging, and HTTP-MTProto bridge",
+  "source_repo": "leshchenko1979/fast-mcp-telegram",
+  "source_url": "https://github.com/leshchenko1979/fast-mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/leshchenko1979/fast-mcp-telegram\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slashr",
+  "description": "Validator incident data for AI agents across Solana, Ethereum, Sui, and Cosmos.",
+  "source_repo": "",
+  "source_url": "https://slashr.dev",
+  "install": "# git clone --depth 1 https://slashr.dev\n# See source for mcpServers config block"
+}

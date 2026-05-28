@@ -1,0 +1,7 @@
+{
+  "name": "eliovp-vllm-benchmark",
+  "description": "Benchmarks vLLM deployments by measuring throughput, latency, and token generation speed through natural language test configuration",
+  "source_repo": "eliovp-bv/mcp-vllm-benchmark",
+  "source_url": "https://github.com/eliovp-bv/mcp-vllm-benchmark",
+  "install": "# git clone --depth 1 https://github.com/eliovp-bv/mcp-vllm-benchmark\n# See source for mcpServers config block"
+}

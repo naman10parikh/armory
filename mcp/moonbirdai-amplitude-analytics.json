@@ -1,0 +1,7 @@
+{
+  "name": "moonbirdai-amplitude-analytics",
+  "description": "Track analytics events in Amplitude, supporting custom events, page views, user properties, and revenue tracking.",
+  "source_repo": "moonbirdai/amplitude-mcp-server",
+  "source_url": "https://github.com/moonbirdai/amplitude-mcp-server",
+  "install": "npx -y amplitude-mcp-server"
+}

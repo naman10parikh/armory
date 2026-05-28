@@ -1,0 +1,7 @@
+{
+  "name": "readwise-mcp",
+  "description": "Readwise Mcp MCP server listed on mcp.so.",
+  "source_repo": "IAmAlexander/readwise-mcp",
+  "source_url": "https://mcp.so/server/readwise-mcp/IAmAlexander",
+  "install": "npx -y readwise-mcp"
+}

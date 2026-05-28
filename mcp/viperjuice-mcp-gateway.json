@@ -1,0 +1,7 @@
+{
+  "name": "viperjuice-mcp-gateway",
+  "description": "A meta-server for minimal Claude Code tool bloat with progressive disclosure and dynamic server provisioning. Exposes 9 stable meta-tools, auto-starts Playwright and Context7, and can dynamically provision 25+ MCP servers on-demand from a curated manifest.",
+  "source_repo": "ViperJuice/mcp-gateway",
+  "source_url": "https://github.com/ViperJuice/mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/ViperJuice/mcp-gateway\n# See source for mcpServers config block"
+}

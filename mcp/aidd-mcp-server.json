@@ -1,0 +1,7 @@
+{
+  "name": "aidd-mcp-server",
+  "description": "Provides AI-driven development tools including file system operations, multi-language code analysis with tree-sitter, Git operations, code execution, and system information retrieval.",
+  "source_repo": "monotykamary/mcp-server-aidd",
+  "source_url": "https://github.com/monotykamary/mcp-server-aidd",
+  "install": "# git clone --depth 1 https://github.com/monotykamary/mcp-server-aidd\n# See source for mcpServers config block"
+}

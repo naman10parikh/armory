@@ -1,0 +1,7 @@
+{
+  "name": "ronalddegsa-everything",
+  "description": "Provides system-level operations for file handling, information retrieval, HTTP requests, and command execution, enabling versatile system management and task automation.",
+  "source_repo": "ronalddegsa/server-everything",
+  "source_url": "https://github.com/ronalddegsa/server-everything",
+  "install": "# git clone --depth 1 https://github.com/ronalddegsa/server-everything\n# See source for mcpServers config block"
+}

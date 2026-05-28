@@ -1,0 +1,7 @@
+{
+  "name": "mdymcp",
+  "description": "Unified MCP server for Mingdao platform, providing 98 tools for collaboration APIs (v1) and HAP gateway. Enables AI IDEs to interact with Mingdao's features like schedules, workflows, knowledge bases, etc.",
+  "source_repo": "andyleimc-source/mdymcp",
+  "source_url": "https://github.com/andyleimc-source/mdymcp",
+  "install": "# git clone --depth 1 https://github.com/andyleimc-source/mdymcp\n# See source for mcpServers config block"
+}

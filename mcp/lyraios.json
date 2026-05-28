@@ -1,0 +1,7 @@
+{
+  "name": "lyraios",
+  "description": "Lyraios MCP server listed on mcp.so.",
+  "source_repo": "GalaxyLLMCI/lyraios",
+  "source_url": "https://mcp.so/server/lyraios/GalaxyLLMCI",
+  "install": "# git clone --depth 1 https://mcp.so/server/lyraios/GalaxyLLMCI\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "datagovin-mcp-server",
+  "description": "Exposes India's open government data (data.gov.in) APIs via the Model Context Protocol, enabling agentic AI data exploration.",
+  "source_repo": "the-data-gateway-initiative/datagovin-mcp-server",
+  "source_url": "https://github.com/the-data-gateway-initiative/datagovin-mcp-server",
+  "install": "npx -y datagovin-mcp-server"
+}

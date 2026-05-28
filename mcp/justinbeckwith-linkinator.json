@@ -1,0 +1,7 @@
+{
+  "name": "justinbeckwith-linkinator",
+  "description": "Comprehensive link checking and validation across websites and local files",
+  "source_repo": "justinbeckwith/linkinator-mcp",
+  "source_url": "https://github.com/justinbeckwith/linkinator-mcp",
+  "install": "npx -y linkinator-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "littlesis",
+  "description": "Integrates with the LittleSis API to provide access to corporate power networks and accountability relationships, enabling entity search, relationship mapping between people and organizations, and connection discovery for investigating business-government influence structures.",
+  "source_repo": "code-rabi/littlesis-mcp",
+  "source_url": "https://github.com/code-rabi/littlesis-mcp",
+  "install": "npx -y littlesis-mcp"
+}

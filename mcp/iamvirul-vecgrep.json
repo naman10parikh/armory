@@ -1,0 +1,7 @@
+{
+  "name": "iamvirul-vecgrep",
+  "description": "Semantic code search plugin for Claude Code using tree-sitter parsing and vector embeddings with local or cloud providers.",
+  "source_repo": "vecgrep/vecgrep",
+  "source_url": "https://github.com/vecgrep/vecgrep",
+  "install": "# git clone --depth 1 https://github.com/vecgrep/vecgrep\n# See source for mcpServers config block"
+}

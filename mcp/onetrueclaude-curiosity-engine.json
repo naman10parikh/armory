@@ -1,0 +1,7 @@
+{
+  "name": "onetrueclaude-curiosity-engine",
+  "description": "Surface forgotten notes in markdown vaults using DMN-inspired replay cycles and cross-domain connection discovery.",
+  "source_repo": "onetrueclaude-creator/mcp-curiosity-engine",
+  "source_url": "https://github.com/onetrueclaude-creator/mcp-curiosity-engine",
+  "install": "# git clone --depth 1 https://github.com/onetrueclaude-creator/mcp-curiosity-engine\n# See source for mcpServers config block"
+}

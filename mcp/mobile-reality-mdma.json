@@ -1,0 +1,7 @@
+{
+  "name": "mobile-reality-mdma",
+  "description": "Extends Markdown with interactive components — forms, approval gates, tables, and webhooks — enabling AI assistants to produce structured, actionable documents instead of plain text.",
+  "source_repo": "mobilereality/mdma",
+  "source_url": "https://github.com/mobilereality/mdma",
+  "install": "# git clone --depth 1 https://github.com/mobilereality/mdma\n# See source for mcpServers config block"
+}

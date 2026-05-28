@@ -1,0 +1,7 @@
+{
+  "name": "andrewcorpdesing-coder-hiveclaude",
+  "description": "Multi-agent MCP broker for coordinating multiple Claude Code instances with shared state, task management, and file locking.",
+  "source_repo": "andrewcorpdesing-coder/hiveclaude",
+  "source_url": "https://github.com/andrewcorpdesing-coder/hiveclaude",
+  "install": "# git clone --depth 1 https://github.com/andrewcorpdesing-coder/hiveclaude\n# See source for mcpServers config block"
+}

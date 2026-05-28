@@ -1,0 +1,7 @@
+{
+  "name": "ngandugilbert-cellpilot",
+  "description": "Provides comprehensive Excel file manipulation using NPOI library for creating workbooks, reading and writing cells, managing sheets, and performing operations like row insertion, column deletion, and cell merging without requiring Microsoft Office installation.",
+  "source_repo": "ngandugilbert/cellpilot-mcp",
+  "source_url": "https://github.com/ngandugilbert/cellpilot-mcp",
+  "install": "npx -y cellpilot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "flights-mcp",
+  "description": "An MCP server that provides flight search capabilities using the Aviasales API, allowing users to search, filter, and get details on flights and generate booking links.",
+  "source_repo": "fastmcp-me/flights-mcp",
+  "source_url": "https://github.com/fastmcp-me/flights-mcp",
+  "install": "npx -y flights-mcp"
+}

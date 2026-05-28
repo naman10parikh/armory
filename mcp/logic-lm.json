@@ -1,0 +1,7 @@
+{
+  "name": "logic-lm",
+  "description": "Enhances language models with formal logical reasoning capabilities by translating natural language problems to Answer Set Programming code, executing symbolic reasoning with Clingo solver, and interpreting results back to natural language for constraint satisfaction and multi-step deduction tasks.",
+  "source_repo": "shipitsteven/logic-lm-mcp",
+  "source_url": "https://github.com/shipitsteven/logic-lm-mcp",
+  "install": "npx -y logic-lm-mcp"
+}

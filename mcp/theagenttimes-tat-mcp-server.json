@@ -1,0 +1,7 @@
+{
+  "name": "theagenttimes-tat-mcp-server",
+  "description": "Query articles, verified statistics, wire feed, and social tools from [The Agent Times](https://theagenttimes.com), the AI-native newspaper covering the agent economy. 13 tools including search, comments, citations, and agent leaderboards. No API key required.",
+  "source_repo": "theagenttimes/tat-mcp-server",
+  "source_url": "https://github.com/theagenttimes/tat-mcp-server",
+  "install": "npx -y tat-mcp-server"
+}

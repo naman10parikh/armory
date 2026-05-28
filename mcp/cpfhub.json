@@ -1,0 +1,7 @@
+{
+  "name": "cpfhub",
+  "description": "Enables AI agents to query Brazilian CPF data including full names, gender, and date of birth, plus account quota checking.",
+  "source_repo": "cpfhub/cpfhub-mcp",
+  "source_url": "https://github.com/cpfhub/cpfhub-mcp",
+  "install": "npx -y cpfhub-mcp"
+}

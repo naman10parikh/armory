@@ -1,0 +1,7 @@
+{
+  "name": "sychev-lab",
+  "description": "Exposes Sychev Lab's e-commerce platform including products, articles, tutorials, and checkout tools.",
+  "source_repo": "sychev-lab/sychev-lab-mcp-server",
+  "source_url": "https://github.com/sychev-lab/sychev-lab-mcp-server",
+  "install": "npx -y sychev-lab-mcp-server"
+}

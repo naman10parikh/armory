@@ -1,0 +1,7 @@
+{
+  "name": "aftership-tracking",
+  "description": "Provides shipment tracking and returns management through the official AfterShip MCP server.",
+  "source_repo": "aftership/tracking-and-returns-mcp",
+  "source_url": "https://github.com/aftership/tracking-and-returns-mcp",
+  "install": "npx -y tracking-and-returns-mcp"
+}

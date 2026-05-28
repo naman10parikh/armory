@@ -1,0 +1,7 @@
+{
+  "name": "huoshuiai42-fetch",
+  "description": "Web content fetching, conversion, and extraction toolkit",
+  "source_repo": "huoshuiai42/huoshui-fetch",
+  "source_url": "https://github.com/huoshuiai42/huoshui-fetch",
+  "install": "# git clone --depth 1 https://github.com/huoshuiai42/huoshui-fetch\n# See source for mcpServers config block"
+}

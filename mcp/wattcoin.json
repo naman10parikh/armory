@@ -1,0 +1,7 @@
+{
+  "name": "wattcoin",
+  "description": "Earn WATT tokens on Solana by completing tasks in an AI agent marketplace with skills, bounties, and AI inference.",
+  "source_repo": "wattcoin-org/wattcoin",
+  "source_url": "https://github.com/wattcoin-org/wattcoin",
+  "install": "# git clone --depth 1 https://github.com/wattcoin-org/wattcoin\n# See source for mcpServers config block"
+}

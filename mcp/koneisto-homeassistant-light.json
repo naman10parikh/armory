@@ -1,0 +1,7 @@
+{
+  "name": "koneisto-homeassistant-light",
+  "description": "Control Home Assistant lights and scenes with safety-focused design",
+  "source_repo": "koneisto/homeassistant-light-mcp",
+  "source_url": "https://github.com/koneisto/homeassistant-light-mcp",
+  "install": "npx -y homeassistant-light-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wjl1224734792-visual-primitives",
+  "description": "MCP server for multimodal vision understanding using a two-stage describe-then-locate workflow with DeepSeek Visual Primitives.",
+  "source_repo": "wjl1224734792/visual-primitives-mcp",
+  "source_url": "https://github.com/wjl1224734792/visual-primitives-mcp",
+  "install": "npx -y visual-primitives-mcp"
+}

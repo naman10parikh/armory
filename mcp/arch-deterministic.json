@@ -1,0 +1,7 @@
+{
+  "name": "arch-deterministic",
+  "description": "Validates system architecture specifications, performs linting, and generates FastAPI or Express applications with OpenAPI specs and Docker configs.",
+  "source_repo": "archradhq/arch-deterministic",
+  "source_url": "https://github.com/archradhq/arch-deterministic",
+  "install": "# git clone --depth 1 https://github.com/archradhq/arch-deterministic\n# See source for mcpServers config block"
+}

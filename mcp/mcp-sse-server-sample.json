@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sse-server-sample",
+  "description": "MCP SSE Server Sample MCP server listed on mcp.so.",
+  "source_repo": "edom18/MCP-SSE-Server-Sample",
+  "source_url": "https://mcp.so/server/MCP-SSE-Server-Sample/edom18",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-SSE-Server-Sample/edom18\n# See source for mcpServers config block"
+}

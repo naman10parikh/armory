@@ -1,0 +1,7 @@
+{
+  "name": "dpflucas-mysql-database-explorer",
+  "description": "Provides secure, read-only access to MySQL databases for exploring schemas and executing SELECT queries with built-in safeguards against SQL injection, query timeouts, and row limits.",
+  "source_repo": "dpflucas/mysql-mcp-server",
+  "source_url": "https://github.com/dpflucas/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "msaad00-agent-bom",
+  "description": "AI infrastructure security scanner for CVEs, SBOMs, compliance checks, and dependency auditing.",
+  "source_repo": "msaad00/agent-bom",
+  "source_url": "https://github.com/msaad00/agent-bom",
+  "install": "# git clone --depth 1 https://github.com/msaad00/agent-bom\n# See source for mcpServers config block"
+}

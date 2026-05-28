@@ -1,0 +1,7 @@
+{
+  "name": "glaucia86-todo-list",
+  "description": "Provides in-memory task management with CRUD operations, priority-based organization, tagging, search functionality, and status filtering for persistent todo list workflows without external database dependencies.",
+  "source_repo": "glaucia86/todo-list-mcp-server",
+  "source_url": "https://github.com/glaucia86/todo-list-mcp-server",
+  "install": "npx -y todo-list-mcp-server"
+}

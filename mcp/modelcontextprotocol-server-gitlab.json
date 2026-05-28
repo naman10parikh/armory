@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-server-gitlab",
+  "description": "GitLab platform integration for project management and CI/CD operations",
+  "source_repo": "modelcontextprotocol/servers-archived",
+  "source_url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab\n# See source for mcpServers config block"
+}

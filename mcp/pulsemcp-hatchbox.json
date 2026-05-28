@@ -1,0 +1,7 @@
+{
+  "name": "pulsemcp-hatchbox",
+  "description": "Integrates with Hatchbox's hosting platform to manage Rails application environment variables, trigger deployments via webhooks, and read deployed configurations through SSH access.",
+  "source_repo": "pulsemcp/mcp-servers",
+  "source_url": "https://github.com/pulsemcp/mcp-servers/tree/HEAD/experimental/hatchbox",
+  "install": "# git clone --depth 1 https://github.com/pulsemcp/mcp-servers/tree/HEAD/experimental/hatchbox\n# See source for mcpServers config block"
+}

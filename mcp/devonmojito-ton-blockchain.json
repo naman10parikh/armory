@@ -1,0 +1,7 @@
+{
+  "name": "devonmojito-ton-blockchain",
+  "description": "Integrates with the TON blockchain to analyze wallet addresses, track transactions, detect trading patterns, and identify market trends for cryptocurrency traders and analysts.",
+  "source_repo": "devonmojito/ton-blockchain-mcp",
+  "source_url": "https://github.com/devonmojito/ton-blockchain-mcp",
+  "install": "npx -y ton-blockchain-mcp"
+}

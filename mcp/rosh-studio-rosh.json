@@ -1,0 +1,7 @@
+{
+  "name": "rosh-studio-rosh",
+  "description": "Create and publish interactive web apps, games, and 3D scenes using the Rosh plain-English programming language.",
+  "source_repo": "rosh-studio/rosh-mcp",
+  "source_url": "https://github.com/rosh-studio/rosh-mcp",
+  "install": "npx -y rosh-mcp"
+}

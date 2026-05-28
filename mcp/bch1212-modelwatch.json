@@ -1,0 +1,7 @@
+{
+  "name": "bch1212-modelwatch",
+  "description": "MCP server for continuous behavioral drift monitoring of LLM applications, enabling spec creation, drift checking, and report retrieval.",
+  "source_repo": "bch1212/modelwatch",
+  "source_url": "https://github.com/bch1212/modelwatch",
+  "install": "# git clone --depth 1 https://github.com/bch1212/modelwatch\n# See source for mcpServers config block"
+}

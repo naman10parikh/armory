@@ -1,0 +1,7 @@
+{
+  "name": "nutrition-mcp",
+  "description": "Personal nutrition tracking with meal logging and macro analysis.",
+  "source_repo": "akutishevsky/nutrition-mcp",
+  "source_url": "https://github.com/akutishevsky/nutrition-mcp",
+  "install": "npx -y nutrition-mcp"
+}

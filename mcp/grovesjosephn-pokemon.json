@@ -1,0 +1,7 @@
+{
+  "name": "grovesjosephn-pokemon",
+  "description": "Provides Pokemon data access through a local SQLite database with tools for information retrieval, comparison, searching by type/generation/stats, and type effectiveness analysis without requiring external API calls.",
+  "source_repo": "grovesjosephn/pokemcp",
+  "source_url": "https://github.com/grovesjosephn/pokemcp",
+  "install": "# git clone --depth 1 https://github.com/grovesjosephn/pokemcp\n# See source for mcpServers config block"
+}

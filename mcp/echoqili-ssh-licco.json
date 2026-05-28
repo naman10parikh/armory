@@ -1,0 +1,7 @@
+{
+  "name": "echoqili-ssh-licco",
+  "description": "Enables remote server management through SSH with connection pooling, batch execution, SFTP file transfers, Docker operations, and audit logging.",
+  "source_repo": "echoqili/ssh-licco",
+  "source_url": "https://github.com/echoqili/ssh-licco",
+  "install": "# git clone --depth 1 https://github.com/echoqili/ssh-licco\n# See source for mcpServers config block"
+}

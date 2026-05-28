@@ -1,0 +1,7 @@
+{
+  "name": "jonradoff-lightcms",
+  "description": "AI-native CMS with 41 tools for managing websites through natural language.",
+  "source_repo": "jonradoff/lightcms",
+  "source_url": "https://github.com/jonradoff/lightcms",
+  "install": "# git clone --depth 1 https://github.com/jonradoff/lightcms\n# See source for mcpServers config block"
+}

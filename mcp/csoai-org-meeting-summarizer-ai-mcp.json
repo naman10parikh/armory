@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-meeting-summarizer-ai-mcp",
+  "description": "Python MCP server for meeting transcript summarization and action items.",
+  "source_repo": "csoai-org/meeting-summarizer-ai-mcp",
+  "source_url": "https://github.com/csoai-org/meeting-summarizer-ai-mcp",
+  "install": "npx -y meeting-summarizer-ai-mcp"
+}

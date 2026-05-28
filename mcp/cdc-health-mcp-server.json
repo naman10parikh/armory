@@ -1,0 +1,7 @@
+{
+  "name": "cdc-health-mcp-server",
+  "description": "Discover and query CDC public health datasets via the Socrata SODA API. Provides tools for dataset discovery, schema inspection, and SoQL queries, plus resources and a guided prompt for health trend analysis.",
+  "source_repo": "cyanheads/cdc-health-mcp-server",
+  "source_url": "https://github.com/cyanheads/cdc-health-mcp-server",
+  "install": "npx -y cdc-health-mcp-server"
+}

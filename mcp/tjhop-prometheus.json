@@ -1,0 +1,7 @@
+{
+  "name": "tjhop-prometheus",
+  "description": "Enables interaction with Prometheus monitoring systems through PromQL queries, metric discovery, and system management",
+  "source_repo": "tjhop/prometheus-mcp-server",
+  "source_url": "https://github.com/tjhop/prometheus-mcp-server",
+  "install": "npx -y prometheus-mcp-server"
+}

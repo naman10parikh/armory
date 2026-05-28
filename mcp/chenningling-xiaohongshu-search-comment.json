@@ -1,0 +1,7 @@
+{
+  "name": "chenningling-xiaohongshu-search-comment",
+  "description": "Enables AI to search and analyze content from Xiaohongshu (Little Red Book) social media platform through web scraping, providing access to comments and search results for market research and trend analysis in the Chinese consumer market.",
+  "source_repo": "chenningling/redbook-search-comment-mcp",
+  "source_url": "https://github.com/chenningling/redbook-search-comment-mcp",
+  "install": "npx -y redbook-search-comment-mcp"
+}

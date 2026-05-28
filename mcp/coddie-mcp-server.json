@@ -1,0 +1,7 @@
+{
+  "name": "coddie-mcp-server",
+  "description": "Secure read-only access to Coddie project planning data, enabling AI assistants to manage and query projects, phases, and steps.",
+  "source_repo": "coddieapp/mcp-server",
+  "source_url": "https://github.com/coddieapp/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/coddieapp/mcp-server\n# See source for mcpServers config block"
+}

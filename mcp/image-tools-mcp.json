@@ -1,0 +1,7 @@
+{
+  "name": "image-tools-mcp",
+  "description": "Image Tools Mcp MCP server listed on mcp.so.",
+  "source_repo": "kshern/ image-tools-mcp",
+  "source_url": "https://mcp.so/server/ image-tools-mcp/kshern",
+  "install": "# git clone --depth 1 https://mcp.so/server/ image-tools-mcp/kshern\n# See source for mcpServers config block"
+}

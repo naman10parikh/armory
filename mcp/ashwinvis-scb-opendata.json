@@ -1,0 +1,7 @@
+{
+  "name": "ashwinvis-scb-opendata",
+  "description": "Provides access to Statistics Sweden's PxWebApi v2 for browsing, searching, and retrieving Swedish statistical data.",
+  "source_repo": "ashwinvis/scb-opendata-mcp",
+  "source_url": "https://github.com/ashwinvis/scb-opendata-mcp",
+  "install": "npx -y scb-opendata-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "container-inc",
+  "description": "Enables seamless deployment of containerized applications directly from code editors through a three-step workflow of GitHub authentication, repository setup, and automated Docker image publishing.",
+  "source_repo": "f-inc/containerinc-mcp",
+  "source_url": "https://github.com/f-inc/containerinc-mcp",
+  "install": "npx -y containerinc-mcp"
+}

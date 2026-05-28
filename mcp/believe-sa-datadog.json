@@ -1,0 +1,7 @@
+{
+  "name": "believe-sa-datadog",
+  "description": "Integrates with Datadog's monitoring platform to provide access to metrics, logs, and observability data through API authentication for DevOps teams managing incident response and infrastructure monitoring workflows.",
+  "source_repo": "believe-sa/datadog-mcp",
+  "source_url": "https://github.com/believe-sa/datadog-mcp",
+  "install": "npx -y datadog-mcp"
+}

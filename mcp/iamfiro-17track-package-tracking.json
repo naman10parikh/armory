@@ -1,0 +1,7 @@
+{
+  "name": "iamfiro-17track-package-tracking",
+  "description": "Integrates with 17TRACK API to provide global package tracking across multiple carriers with fuzzy search for carrier identification and delivery status monitoring for e-commerce and customer service workflows.",
+  "source_repo": "iamfiro/parcel-tracking-mcp",
+  "source_url": "https://github.com/iamfiro/parcel-tracking-mcp",
+  "install": "npx -y parcel-tracking-mcp"
+}

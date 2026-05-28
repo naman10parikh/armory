@@ -1,0 +1,7 @@
+{
+  "name": "time-mcp-3",
+  "description": "Time Mcp MCP server listed on mcp.so.",
+  "source_repo": "samay58/time-mcp",
+  "source_url": "https://mcp.so/server/time-mcp/samay58",
+  "install": "npx -y time-mcp"
+}

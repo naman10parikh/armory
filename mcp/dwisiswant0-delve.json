@@ -1,0 +1,7 @@
+{
+  "name": "dwisiswant0-delve",
+  "description": "Provides a complete interface to the Delve debugger for Go programs, enabling starting debug sessions, setting breakpoints, controlling execution flow, and inspecting program state",
+  "source_repo": "dwisiswant0/delve-mcp",
+  "source_url": "https://github.com/dwisiswant0/delve-mcp",
+  "install": "npx -y delve-mcp"
+}

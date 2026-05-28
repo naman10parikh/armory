@@ -1,0 +1,7 @@
+{
+  "name": "budgetfitter-2",
+  "description": "BudgetFitter is a free UK deal discovery platform with a public MCP server. Search verified discount codes, look up brand intelligence, and navigate deals — no auth required.",
+  "source_repo": "",
+  "source_url": "https://budgetfitter.uk/",
+  "install": "# git clone --depth 1 https://budgetfitter.uk/\n# See source for mcpServers config block"
+}

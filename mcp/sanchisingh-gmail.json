@@ -1,0 +1,7 @@
+{
+  "name": "sanchisingh-gmail",
+  "description": "Integrates with Gmail to enable reading, sending, trashing, and opening emails through OAuth 2.0 authentication for seamless email management workflows.",
+  "source_repo": "sanchisingh01/mcp-server---gmail-plugin-for-claude-desktop",
+  "source_url": "https://github.com/sanchisingh01/mcp-server---gmail-plugin-for-claude-desktop",
+  "install": "# git clone --depth 1 https://github.com/sanchisingh01/mcp-server---gmail-plugin-for-claude-desktop\n# See source for mcpServers config block"
+}

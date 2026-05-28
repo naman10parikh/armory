@@ -1,0 +1,7 @@
+{
+  "name": "livoras-better-playwright",
+  "description": "Enhanced browser automation with stealth mode, persistent profiles, and intelligent HTML snapshot extraction that enables reliable web scraping, form filling, and multi-page management with semantic parsing and token optimization for production workflows.",
+  "source_repo": "livoras/better-playwright-mcp",
+  "source_url": "https://github.com/livoras/better-playwright-mcp",
+  "install": "npx -y better-playwright-mcp"
+}

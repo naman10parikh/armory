@@ -1,0 +1,7 @@
+{
+  "name": "claude-code-starter-kit-mcp",
+  "description": "Enables AI-powered automated testing, security scanning, code review, and maintenance tasks directly within Claude Code or desktop.",
+  "source_repo": "dachivadachkoria/claude-code-starter-kit",
+  "source_url": "https://github.com/dachivadachkoria/claude-code-starter-kit",
+  "install": "# git clone --depth 1 https://github.com/dachivadachkoria/claude-code-starter-kit\n# See source for mcpServers config block"
+}

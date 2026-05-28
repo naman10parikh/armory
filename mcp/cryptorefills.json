@@ -1,0 +1,7 @@
+{
+  "name": "cryptorefills",
+  "description": "Purchase gift cards and mobile top-ups using cryptocurrency",
+  "source_repo": "",
+  "source_url": "https://www.cryptorefills.com",
+  "install": "# git clone --depth 1 https://www.cryptorefills.com\n# See source for mcpServers config block"
+}

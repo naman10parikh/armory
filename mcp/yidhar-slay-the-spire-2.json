@@ -1,0 +1,7 @@
+{
+  "name": "yidhar-slay-the-spire-2",
+  "description": "Controls Slay the Spire 2 gameplay through a native C# bridge mod with precise game state extraction and legal action execution.",
+  "source_repo": "yidhar/sts2-mcp",
+  "source_url": "https://github.com/yidhar/sts2-mcp",
+  "install": "npx -y sts2-mcp"
+}

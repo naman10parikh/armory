@@ -1,0 +1,7 @@
+{
+  "name": "stockquotes-mcp",
+  "description": "Provides real-time stock quotes, historical data, and stock search via Yahoo Finance, enabling AI assistants to access and analyze financial market data.",
+  "source_repo": "lionelschiepers/StockQuotes.MCP",
+  "source_url": "https://github.com/lionelschiepers/StockQuotes.MCP",
+  "install": "# git clone --depth 1 https://github.com/lionelschiepers/StockQuotes.MCP\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jimfilippou-things-mcp",
+  "description": "A Model Context Protocol (MCP) server that provides seamless integration with the [Things](https://culturedcode.com/things/) productivity app. This server enables AI assistants to create, update, and manage your todos and projects in Things using its comprehensive URL scheme.",
+  "source_repo": "jimfilippou/things-mcp",
+  "source_url": "https://github.com/jimfilippou/things-mcp",
+  "install": "npx -y things-mcp"
+}

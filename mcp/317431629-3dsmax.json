@@ -1,0 +1,7 @@
+{
+  "name": "317431629-3dsmax",
+  "description": "Enables AI-controlled Autodesk 3ds Max with 25 tools for scene management, object creation, materials, lighting, and animation.",
+  "source_repo": "317431629/3dsmaxmcp",
+  "source_url": "https://github.com/317431629/3dsmaxmcp",
+  "install": "# git clone --depth 1 https://github.com/317431629/3dsmaxmcp\n# See source for mcpServers config block"
+}

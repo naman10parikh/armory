@@ -1,0 +1,7 @@
+{
+  "name": "tenzro-lifi",
+  "description": "MCP server for Li.Fi cross-chain bridging via Tenzro Network: quotes, routes, status, and token enumeration.",
+  "source_repo": "tenzro/tenzro-network",
+  "source_url": "https://github.com/tenzro/tenzro-network",
+  "install": "# git clone --depth 1 https://github.com/tenzro/tenzro-network\n# See source for mcpServers config block"
+}

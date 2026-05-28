@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-47",
+  "description": "Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "sampad1990/mcp-server",
+  "source_url": "https://mcp.so/server/mcp-server/sampad1990",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server/sampad1990\n# See source for mcpServers config block"
+}

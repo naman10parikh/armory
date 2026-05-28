@@ -1,0 +1,7 @@
+{
+  "name": "tuananh-hyper",
+  "description": "Enhance this server with plugins written in any WebAssembly-compatible programming language.",
+  "source_repo": "hyper-mcp-rs/hyper-mcp",
+  "source_url": "https://github.com/hyper-mcp-rs/hyper-mcp",
+  "install": "npx -y hyper-mcp"
+}

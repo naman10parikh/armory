@@ -1,0 +1,7 @@
+{
+  "name": "frappe-mcp",
+  "description": "Allows Frappe Framework apps to function as MCP servers, exposing Python-defined tools for LLM interaction.",
+  "source_repo": "frappe/mcp",
+  "source_url": "https://github.com/frappe/mcp",
+  "install": "# git clone --depth 1 https://github.com/frappe/mcp\n# See source for mcpServers config block"
+}

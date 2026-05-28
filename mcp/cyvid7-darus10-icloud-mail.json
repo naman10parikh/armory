@@ -1,0 +1,7 @@
+{
+  "name": "cyvid7-darus10-icloud-mail",
+  "description": "Sends and reads iCloud Mail messages using Apple's iCloud email service.",
+  "source_repo": "cyvid7-darus10/icloud-mail-mcp",
+  "source_url": "https://github.com/cyvid7-darus10/icloud-mail-mcp",
+  "install": "npx -y icloud-mail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-elgorro-aiquila",
+  "description": "Nextcloud integration for file management, search, calendar, contacts, and system status.",
+  "source_repo": "elgorro/aiquila",
+  "source_url": "https://github.com/elgorro/aiquila/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/elgorro/aiquila/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

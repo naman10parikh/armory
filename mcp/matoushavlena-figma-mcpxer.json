@@ -1,0 +1,7 @@
+{
+  "name": "matoushavlena-figma-mcpxer",
+  "description": "Remote Figma API integration with HTTP/SSE transport, webhooks, Redis caching, and Docker support.",
+  "source_repo": "matoushavlena/figma-mcpxer",
+  "source_url": "https://github.com/matoushavlena/figma-mcpxer",
+  "install": "# git clone --depth 1 https://github.com/matoushavlena/figma-mcpxer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "n-lia-montewalk",
+  "description": "Integrates with financial markets through yfinance, Alpaca paper trading, and CoinGecko APIs to provide market data analysis, portfolio optimization, backtesting, and risk management tools for quantitative trading research and algorithmic strategy development",
+  "source_repo": "n-lia/montewalk",
+  "source_url": "https://github.com/n-lia/montewalk",
+  "install": "# git clone --depth 1 https://github.com/n-lia/montewalk\n# See source for mcpServers config block"
+}

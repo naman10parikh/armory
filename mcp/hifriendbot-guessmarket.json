@@ -1,0 +1,7 @@
+{
+  "name": "hifriendbot-guessmarket",
+  "description": "Connects to GuessMarket prediction markets for browsing, trading shares, managing liquidity, and building on-chain transactions across five EVM chains.",
+  "source_repo": "hifriendbot/guessmarket-mcp",
+  "source_url": "https://github.com/hifriendbot/guessmarket-mcp",
+  "install": "npx -y guessmarket-mcp"
+}

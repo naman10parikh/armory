@@ -1,0 +1,7 @@
+{
+  "name": "ai-yliu-filesystem",
+  "description": "Provides secure filesystem operations for reading, writing, and manipulating files and directories within specified access boundaries.",
+  "source_repo": "ai-yliu/filesystem-mcp-server",
+  "source_url": "https://github.com/ai-yliu/filesystem-mcp-server",
+  "install": "npx -y filesystem-mcp-server"
+}

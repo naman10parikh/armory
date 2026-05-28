@@ -1,0 +1,7 @@
+{
+  "name": "svhov-1c-metacode-lite",
+  "description": "MCP server for querying and analyzing 1C:Enterprise configuration metadata with 57 tools via SSE transport.",
+  "source_repo": "svhov/1c-litecode-mcp",
+  "source_url": "https://github.com/svhov/1c-litecode-mcp",
+  "install": "npx -y 1c-litecode-mcp"
+}

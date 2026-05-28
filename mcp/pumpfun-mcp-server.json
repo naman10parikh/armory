@@ -1,0 +1,7 @@
+{
+  "name": "pumpfun-mcp-server",
+  "description": "Pumpfun Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "noahgsolomon/pumpfun-mcp-server",
+  "source_url": "https://mcp.so/server/pumpfun-mcp-server/noahgsolomon",
+  "install": "npx -y pumpfun-mcp-server"
+}

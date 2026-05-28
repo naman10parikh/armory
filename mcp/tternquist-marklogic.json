@@ -1,0 +1,7 @@
+{
+  "name": "tternquist-marklogic",
+  "description": "Integrates with MarkLogic 12 databases for full-text search, Optic row queries, SPARQL, bulk import/export, and schema management.",
+  "source_repo": "tternquist/marklogic-mcp",
+  "source_url": "https://github.com/tternquist/marklogic-mcp",
+  "install": "npx -y marklogic-mcp"
+}

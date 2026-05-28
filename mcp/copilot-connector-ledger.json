@@ -1,0 +1,7 @@
+{
+  "name": "copilot-connector-ledger",
+  "description": "Copilot Studio connector permission audits, owner signoff routing, and tamper-evident audit receipts.",
+  "source_repo": "clauxel/copilot-connector-ledger-mcp",
+  "source_url": "https://github.com/clauxel/copilot-connector-ledger-mcp",
+  "install": "npx -y copilot-connector-ledger-mcp"
+}

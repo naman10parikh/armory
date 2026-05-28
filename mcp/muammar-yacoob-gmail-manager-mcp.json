@@ -1,0 +1,7 @@
+{
+  "name": "muammar-yacoob-gmail-manager-mcp",
+  "description": "Connects Claude Desktop to your Gmail so you can start managing your inbox using natural language. Bulk delete promos & newsletters, organize labels and get useful insights.",
+  "source_repo": "muammar-yacoob/GMail-Manager-MCP",
+  "source_url": "https://github.com/muammar-yacoob/GMail-Manager-MCP#readme",
+  "install": "npx -y GMail-Manager-MCP"
+}

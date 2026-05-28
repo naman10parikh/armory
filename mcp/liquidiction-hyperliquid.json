@@ -1,0 +1,7 @@
+{
+  "name": "liquidiction-hyperliquid",
+  "description": "MCP server for Hyperliquid HIP-4 prediction market data with 10 tools requiring no API keys.",
+  "source_repo": "liquidiction/liquidiction-mcp",
+  "source_url": "https://github.com/liquidiction/liquidiction-mcp",
+  "install": "npx -y liquidiction-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "peacprotocol-peac",
+  "description": "Privacy-enhanced authentication and credential management protocol.",
+  "source_repo": "peacprotocol/peac",
+  "source_url": "https://github.com/peacprotocol/peac",
+  "install": "# git clone --depth 1 https://github.com/peacprotocol/peac\n# See source for mcpServers config block"
+}

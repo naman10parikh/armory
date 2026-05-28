@@ -1,0 +1,7 @@
+{
+  "name": "stefans71-openrouter-bridge",
+  "description": "Bridges Claude Code to OpenRouter API for accessing multiple AI models (GPT, Gemini, DeepSeek, Llama) with tools for querying different models, managing favorites, and comparing approaches across model strengths.",
+  "source_repo": "stefans71/claude_gpt_mcp",
+  "source_url": "https://github.com/stefans71/claude_gpt_mcp",
+  "install": "npx -y claude_gpt_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "redash-mcp-2",
+  "description": "Model Context Protocol (MCP) server for Redash - manage queries, dashboards, and visualizations through AI assistants like Claude.",
+  "source_repo": "wise-toddler/redash-mcp",
+  "source_url": "https://github.com/wise-toddler/redash-mcp",
+  "install": "npx -y redash-mcp"
+}

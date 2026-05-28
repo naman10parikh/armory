@@ -1,0 +1,7 @@
+{
+  "name": "todoist-mcp-helper",
+  "description": "Connect AI agents to your Todoist tasks via the Model Context Protocol (MCP).",
+  "source_repo": "LittlePeter52012/todoist-mcp-helper",
+  "source_url": "https://github.com/LittlePeter52012/todoist-mcp-helper",
+  "install": "# git clone --depth 1 https://github.com/LittlePeter52012/todoist-mcp-helper\n# See source for mcpServers config block"
+}

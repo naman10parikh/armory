@@ -1,0 +1,7 @@
+{
+  "name": "ratnaditya-j-csvglow",
+  "description": "Generate beautiful self-contained HTML dashboards from CSV/Excel files with interactive ECharts visualizations, dark gradient theme, and sortable data tables.",
+  "source_repo": "Ratnaditya-J/csvglow",
+  "source_url": "https://github.com/Ratnaditya-J/csvglow",
+  "install": "# git clone --depth 1 https://github.com/Ratnaditya-J/csvglow\n# See source for mcpServers config block"
+}

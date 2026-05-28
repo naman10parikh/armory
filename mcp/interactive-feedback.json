@@ -1,0 +1,7 @@
+{
+  "name": "interactive-feedback",
+  "description": "Enables human-in-the-loop workflows by launching a browser interface where users can provide interactive feedback during task execution, returning structured responses to AI assistants through real-time WebSocket connections.",
+  "source_repo": "zivhdinfo/interactive-feedback-mcp-nodejs",
+  "source_url": "https://github.com/zivhdinfo/interactive-feedback-mcp-nodejs",
+  "install": "# git clone --depth 1 https://github.com/zivhdinfo/interactive-feedback-mcp-nodejs\n# See source for mcpServers config block"
+}

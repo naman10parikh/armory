@@ -1,0 +1,7 @@
+{
+  "name": "sbroenne-excel",
+  "description": "Automates Microsoft Excel through Windows COM with comprehensive operations for Power Query, DAX, PivotTables, and VBA",
+  "source_repo": "sbroenne/mcp-server-excel",
+  "source_url": "https://github.com/sbroenne/mcp-server-excel",
+  "install": "# git clone --depth 1 https://github.com/sbroenne/mcp-server-excel\n# See source for mcpServers config block"
+}

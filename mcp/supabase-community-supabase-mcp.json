@@ -1,0 +1,7 @@
+{
+  "name": "supabase-community-supabase-mcp",
+  "description": "Official Supabase MCP server to connect AI assistants directly with your Supabase project and allows them to perform tasks like managing tables, fetching config, and querying data.",
+  "source_repo": "supabase-community/supabase-mcp",
+  "source_url": "https://github.com/supabase-community/supabase-mcp",
+  "install": "npx -y supabase-mcp"
+}

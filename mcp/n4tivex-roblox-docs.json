@@ -1,0 +1,7 @@
+{
+  "name": "n4tivex-roblox-docs",
+  "description": "Provides access to Roblox's development ecosystem including API documentation, FastFlags, Open Cloud REST API, Luau language docs, and DevForum discussions with automatic syncing from official sources and multi-language support.",
+  "source_repo": "n4tivex/mcp-roblox-docs",
+  "source_url": "https://github.com/n4tivex/mcp-roblox-docs",
+  "install": "# git clone --depth 1 https://github.com/n4tivex/mcp-roblox-docs\n# See source for mcpServers config block"
+}

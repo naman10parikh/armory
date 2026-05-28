@@ -1,0 +1,7 @@
+{
+  "name": "codeledger",
+  "description": "AI coding agent verification layer for complete, production-ready code generation.",
+  "source_repo": "codeledgerecf/codeledger",
+  "source_url": "https://github.com/codeledgerecf/codeledger",
+  "install": "# git clone --depth 1 https://github.com/codeledgerecf/codeledger\n# See source for mcpServers config block"
+}

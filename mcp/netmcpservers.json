@@ -1,0 +1,7 @@
+{
+  "name": "netmcpservers",
+  "description": "NetMcpServers MCP server listed on mcp.so.",
+  "source_repo": "Redth/NetMcpServers",
+  "source_url": "https://mcp.so/server/NetMcpServers/Redth",
+  "install": "# git clone --depth 1 https://mcp.so/server/NetMcpServers/Redth\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chrstnwhlrt-mongodb-readonly",
+  "description": "Provides secure read-only access to MongoDB databases with support for Kubernetes deployments and direct connections.",
+  "source_repo": "chrstnwhlrt/ro-mongodb-mcp-rs",
+  "source_url": "https://github.com/chrstnwhlrt/ro-mongodb-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/chrstnwhlrt/ro-mongodb-mcp-rs\n# See source for mcpServers config block"
+}

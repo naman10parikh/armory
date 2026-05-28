@@ -1,0 +1,7 @@
+{
+  "name": "stevenstavrakis-obsidian",
+  "description": "Integrates with Obsidian to enable natural language-based note creation, editing, and management within vaults.",
+  "source_repo": "stevenstavrakis/obsidian-mcp",
+  "source_url": "https://github.com/stevenstavrakis/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "media-mcp",
+  "description": "An MCP server for AI-powered media generation using Google Gemini, enabling creation of images, videos, music, and speech directly from AI agents.",
+  "source_repo": "lukaskellerstein/media-mcp",
+  "source_url": "https://github.com/lukaskellerstein/media-mcp",
+  "install": "npx -y media-mcp"
+}

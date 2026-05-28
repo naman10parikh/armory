@@ -1,0 +1,7 @@
+{
+  "name": "marcusquinn-amazon-order-history",
+  "description": "Extracts Amazon order history data across 16 regional sites using browser automation to export orders, item details, shipment tracking, and payment transactions to CSV format for expense tracking, tax preparation, and financial reconciliation.",
+  "source_repo": "marcusquinn/amazon-order-history-csv-download-mcp",
+  "source_url": "https://github.com/marcusquinn/amazon-order-history-csv-download-mcp",
+  "install": "npx -y amazon-order-history-csv-download-mcp"
+}

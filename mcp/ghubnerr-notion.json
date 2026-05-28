@@ -1,0 +1,7 @@
+{
+  "name": "ghubnerr-notion",
+  "description": "Provides a flexible API for querying, searching, creating, updating, and deleting Notion workspaces, enabling developers and knowledge workers to interact with their data through natural language or automated workflows.",
+  "source_repo": "ghubnerr/notion-mcp",
+  "source_url": "https://github.com/ghubnerr/notion-mcp",
+  "install": "npx -y notion-mcp"
+}

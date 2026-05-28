@@ -1,0 +1,7 @@
+{
+  "name": "joshuarichard-statsplus",
+  "description": "Reads and analyzes OOTP Baseball StatsPlus league data from HTML export files for player statistics, standings, and league information.",
+  "source_repo": "joshuarichard/statsplus-mcp",
+  "source_url": "https://github.com/joshuarichard/statsplus-mcp",
+  "install": "npx -y statsplus-mcp"
+}

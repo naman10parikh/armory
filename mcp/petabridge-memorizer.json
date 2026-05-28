@@ -1,0 +1,7 @@
+{
+  "name": "petabridge-memorizer",
+  "description": "Provides persistent memory storage with semantic search capabilities through PostgreSQL and pgvector, enabling long-term context retention across sessions with vector-based storage, relationship tracking, and asynchronous metadata processing.",
+  "source_repo": "petabridge/memorizer",
+  "source_url": "https://github.com/petabridge/memorizer",
+  "install": "# git clone --depth 1 https://github.com/petabridge/memorizer\n# See source for mcpServers config block"
+}

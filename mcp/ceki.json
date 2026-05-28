@@ -1,0 +1,7 @@
+{
+  "name": "ceki",
+  "description": "Hire specialists by the hour — search, schedule, and pay via MCP for IT freelancers, lawyers, and professionals.",
+  "source_repo": "ceki-me/mcp-server",
+  "source_url": "https://github.com/ceki-me/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ceki-me/mcp-server\n# See source for mcpServers config block"
+}

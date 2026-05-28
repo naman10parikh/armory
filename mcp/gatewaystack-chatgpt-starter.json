@@ -1,0 +1,7 @@
+{
+  "name": "gatewaystack-chatgpt-starter",
+  "description": "OAuth-protected gateway that provides secure tool execution with JWT-based authentication and authorization, integrating with providers like Auth0, Clerk, Google, and Okta to verify bearer tokens and enforce scope-based permissions before proxying tool calls to backend services.",
+  "source_repo": "davidcrowe/gatewaystack-chatgpt-starter",
+  "source_url": "https://github.com/davidcrowe/gatewaystack-chatgpt-starter",
+  "install": "# git clone --depth 1 https://github.com/davidcrowe/gatewaystack-chatgpt-starter\n# See source for mcpServers config block"
+}

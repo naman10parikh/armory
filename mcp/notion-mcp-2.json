@@ -1,0 +1,7 @@
+{
+  "name": "notion-mcp-2",
+  "description": "Notion Mcp MCP server listed on mcp.so.",
+  "source_repo": "tkc/notion-mcp",
+  "source_url": "https://mcp.so/server/notion-mcp/tkc",
+  "install": "npx -y notion-mcp"
+}

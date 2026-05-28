@@ -1,0 +1,7 @@
+{
+  "name": "gh-zas-musicbrainz",
+  "description": "Query the MusicBrainz music database for artists, albums, recordings, labels, and cover art.",
+  "source_repo": "zas/mcp-musicbrainz",
+  "source_url": "https://github.com/zas/mcp-musicbrainz",
+  "install": "# git clone --depth 1 https://github.com/zas/mcp-musicbrainz\n# See source for mcpServers config block"
+}

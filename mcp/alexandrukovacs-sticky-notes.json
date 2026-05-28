@@ -1,0 +1,7 @@
+{
+  "name": "alexandrukovacs-sticky-notes",
+  "description": "File-based sticky notes server that provides tools for adding, clearing, and reading notes with resource access to the most recent note and prompt generation for note summaries.",
+  "source_repo": "alexandrukovacs/mcp-server",
+  "source_url": "https://github.com/alexandrukovacs/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/alexandrukovacs/mcp-server\n# See source for mcpServers config block"
+}

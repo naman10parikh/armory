@@ -1,0 +1,7 @@
+{
+  "name": "noahgsolomon-pumpfun",
+  "description": "Enables direct interaction with the Pump.fun platform on Solana blockchain for creating, buying, and selling tokens with customizable parameters and secure wallet management.",
+  "source_repo": "noahgsolomon/pumpfun-mcp-server",
+  "source_url": "https://github.com/noahgsolomon/pumpfun-mcp-server",
+  "install": "npx -y pumpfun-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "striderlabs-mcp-ihg",
+  "description": "Enables hotel search, booking, reservation management, and rewards tracking for IHG hotels via browser automation.",
+  "source_repo": "markswendsen-code/mcp-ihg",
+  "source_url": "https://github.com/markswendsen-code/mcp-ihg",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-ihg\n# See source for mcpServers config block"
+}

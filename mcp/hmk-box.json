@@ -1,0 +1,7 @@
+{
+  "name": "hmk-box",
+  "description": "Integrates with Box cloud storage to enable searching, reading, and processing of PDF and Word documents for applications like automated document analysis and content extraction.",
+  "source_repo": "hmk/box-mcp-server",
+  "source_url": "https://github.com/hmk/box-mcp-server",
+  "install": "npx -y box-mcp-server"
+}

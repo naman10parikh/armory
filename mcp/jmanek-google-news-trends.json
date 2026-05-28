@@ -1,0 +1,7 @@
+{
+  "name": "jmanek-google-news-trends",
+  "description": "Integrates with Google News RSS feeds and Google Trends to provide news article search, trending topic retrieval, and optional content summarization for news monitoring and trend analysis workflows.",
+  "source_repo": "jmanek/google-news-trends-mcp",
+  "source_url": "https://github.com/jmanek/google-news-trends-mcp",
+  "install": "npx -y google-news-trends-mcp"
+}

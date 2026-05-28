@@ -1,0 +1,7 @@
+{
+  "name": "arnstarn-mcp-server-spotinst",
+  "description": "MCP server for Spot.io (Spotinst) API with 23 tools for managing Ocean clusters, VNGs, Elastigroups, costs, right-sizing, and logs across AWS and Azure with multi-account support.",
+  "source_repo": "arnstarn/mcp-server-spotinst",
+  "source_url": "https://github.com/arnstarn/mcp-server-spotinst",
+  "install": "# git clone --depth 1 https://github.com/arnstarn/mcp-server-spotinst\n# See source for mcpServers config block"
+}

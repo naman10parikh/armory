@@ -1,0 +1,7 @@
+{
+  "name": "hieuchaydi-decisiongraph",
+  "description": "Engineering decision memory system capturing decisions from GitHub, Slack, Jira, and Git with pre-change guardrails.",
+  "source_repo": "hieuchaydi/decisiongraph",
+  "source_url": "https://github.com/hieuchaydi/decisiongraph",
+  "install": "# git clone --depth 1 https://github.com/hieuchaydi/decisiongraph\n# See source for mcpServers config block"
+}

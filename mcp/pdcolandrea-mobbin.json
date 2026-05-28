@@ -1,0 +1,7 @@
+{
+  "name": "pdcolandrea-mobbin",
+  "description": "Search Mobbin's library of 600,000 app UI screens, user flows, and design patterns for inspiration and reference.",
+  "source_repo": "pdcolandrea/mobbin-mcp",
+  "source_url": "https://github.com/pdcolandrea/mobbin-mcp",
+  "install": "npx -y mobbin-mcp"
+}

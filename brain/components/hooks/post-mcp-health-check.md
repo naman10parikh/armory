@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [memory-persistence-bundle, post-bash-dispatcher]
-tags: [ecc, hook, PostToolUseFailure]
+tags: [hook, PostToolUseFailure]
 ---
 ## What it is
 PostToolUseFailure hook: Track failed MCP tool calls, mark unhealthy servers, and attempt reconnect (matcher: *).

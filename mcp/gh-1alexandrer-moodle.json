@@ -1,0 +1,7 @@
+{
+  "name": "gh-1alexandrer-moodle",
+  "description": "Integrates Moodle LMS with AI assistants, providing 13 tools for accessing courses, assignments, grades, quizzes, forum discussions, and calendar events.",
+  "source_repo": "1alexandrer/moodle-mcp",
+  "source_url": "https://github.com/1alexandrer/moodle-mcp",
+  "install": "npx -y moodle-mcp"
+}

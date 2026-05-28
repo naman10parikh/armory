@@ -1,0 +1,7 @@
+{
+  "name": "cloudscope",
+  "description": "Azure cloud cost management with spending analysis, forecasts, anomalies, and budgets.",
+  "source_repo": "alexpota/cloudscope-mcp",
+  "source_url": "https://github.com/alexpota/cloudscope-mcp",
+  "install": "npx -y cloudscope-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gitopia-gitopia-mcp-server",
+  "description": "Decentralized Git with on-chain governance, bounties, and DAOs. Tools for repos, issues, PRs, labels, releases, bounties, and DAO proposals. Auto-wallet on first use, trust tiers, and approval mode for human-in-the-loop. Go binary or Docker.",
+  "source_repo": "gitopia/gitopia-mcp-server",
+  "source_url": "https://github.com/gitopia/gitopia-mcp-server",
+  "install": "npx -y gitopia-mcp-server"
+}

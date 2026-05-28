@@ -1,0 +1,7 @@
+{
+  "name": "jkawamoto-florence2",
+  "description": "Integrates with Florence-2 to enable advanced image analysis and manipulation tasks like visual question answering, image captioning, and content-based image retrieval.",
+  "source_repo": "jkawamoto/mcp-florence2",
+  "source_url": "https://github.com/jkawamoto/mcp-florence2",
+  "install": "# git clone --depth 1 https://github.com/jkawamoto/mcp-florence2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inspirit941-kakao-talk",
+  "description": "Enables sending rich, interactive message templates to Kakao Talk users with OAuth2 authentication for notification workflows, content sharing, and social engagement.",
+  "source_repo": "inspirit941/kakao-bot-mcp-server",
+  "source_url": "https://github.com/inspirit941/kakao-bot-mcp-server",
+  "install": "npx -y kakao-bot-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "infosec-us-team-immunefi",
+  "description": "Integrates with Immunefi bug bounty platform through cached API to search programs, retrieve assets, bounty amounts, rewards structures, and filter by language, ecosystem, or bounty ranges.",
+  "source_repo": "infosec-us-team/immunefi-mcp-server-unofficial",
+  "source_url": "https://github.com/infosec-us-team/immunefi-mcp-server-unofficial",
+  "install": "# git clone --depth 1 https://github.com/infosec-us-team/immunefi-mcp-server-unofficial\n# See source for mcpServers config block"
+}

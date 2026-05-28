@@ -1,0 +1,7 @@
+{
+  "name": "adamshannag-api-tools",
+  "description": "Converts JSON configuration files into callable tools for dynamic API integration, enabling rapid exposure of REST APIs through declarative schemas with parameter substitution, environment variable templating, and authentication middleware.",
+  "source_repo": "adamshannag/api-mcp-server",
+  "source_url": "https://github.com/adamshannag/api-mcp-server",
+  "install": "npx -y api-mcp-server"
+}

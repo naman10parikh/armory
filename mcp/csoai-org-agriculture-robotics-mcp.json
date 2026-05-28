@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-agriculture-robotics-mcp",
+  "description": "Robotics coordination and monitoring tools for agricultural automation workflows.",
+  "source_repo": "csoai-org/agriculture-robotics-mcp",
+  "source_url": "https://github.com/csoai-org/agriculture-robotics-mcp",
+  "install": "npx -y agriculture-robotics-mcp"
+}

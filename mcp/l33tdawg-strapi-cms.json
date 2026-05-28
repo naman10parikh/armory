@@ -1,0 +1,7 @@
+{
+  "name": "l33tdawg-strapi-cms",
+  "description": "Integrates with Strapi CMS to enable creating, reading, updating, and deleting content entries with support for filtering, pagination, sorting, and media uploads through URI-based resource patterns.",
+  "source_repo": "l33tdawg/strapi-mcp",
+  "source_url": "https://github.com/l33tdawg/strapi-mcp",
+  "install": "npx -y strapi-mcp"
+}

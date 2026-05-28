@@ -1,0 +1,7 @@
+{
+  "name": "vibie-mcp",
+  "description": "Deploy HTML folders to vibie.page from Claude or Cursor with OAuth authentication and automatic updates.",
+  "source_repo": "shdomi8599/vibie-mcp",
+  "source_url": "https://github.com/shdomi8599/vibie-mcp",
+  "install": "npx -y vibie-mcp"
+}

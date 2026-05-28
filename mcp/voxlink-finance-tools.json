@@ -1,0 +1,7 @@
+{
+  "name": "voxlink-finance-tools",
+  "description": "Integrates with financial data sources like yfinance, CNN Fear & Greed Index, FRED, and ta-lib to provide real-time market data, technical indicators, and economic insights for investment research and portfolio analysis.",
+  "source_repo": "voxlink-org/finance-tools-mcp",
+  "source_url": "https://github.com/voxlink-org/finance-tools-mcp",
+  "install": "npx -y finance-tools-mcp"
+}

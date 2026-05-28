@@ -1,0 +1,7 @@
+{
+  "name": "mcp-graphql-tools",
+  "description": "Enables AI assistants to execute GraphQL queries and retrieve schema information from any GraphQL endpoint.",
+  "source_repo": "saewoohan/mcp-graphql-tools",
+  "source_url": "https://github.com/saewoohan/mcp-graphql-tools",
+  "install": "# git clone --depth 1 https://github.com/saewoohan/mcp-graphql-tools\n# See source for mcpServers config block"
+}

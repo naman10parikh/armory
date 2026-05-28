@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs-mcp",
+  "description": "Elevenlabs Mcp MCP server listed on mcp.so.",
+  "source_repo": "Garblesnarff/elevenlabs-mcp",
+  "source_url": "https://mcp.so/server/elevenlabs-mcp/Garblesnarff",
+  "install": "npx -y elevenlabs-mcp"
+}

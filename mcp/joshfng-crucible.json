@@ -1,0 +1,7 @@
+{
+  "name": "joshfng-crucible",
+  "description": "Browser automation server using Ferrum and headless Chrome for navigation, screenshots, form interaction, JavaScript evaluation, cookies, file downloads, and multi-session management with stealth mode capabilities.",
+  "source_repo": "joshfng/crucible",
+  "source_url": "https://github.com/joshfng/crucible",
+  "install": "# git clone --depth 1 https://github.com/joshfng/crucible\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "contextual-ai",
+  "description": "Bridges AI interfaces with Contextual AI's specialized agents to provide RAG capabilities, enabling query processing, intelligent retrieval, and context-aware responses with citations for domain-specific knowledge bases.",
+  "source_repo": "",
+  "source_url": "https://docs.contextual.ai/user-guides/mcp-server",
+  "install": "# git clone --depth 1 https://docs.contextual.ai/user-guides/mcp-server\n# See source for mcpServers config block"
+}

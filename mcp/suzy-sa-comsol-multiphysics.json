@@ -1,0 +1,7 @@
+{
+  "name": "suzy-sa-comsol-multiphysics",
+  "description": "Automates COMSOL Multiphysics simulations with RAG-assisted documentation retrieval and guided workflow templates.",
+  "source_repo": "suzy-sa/comsol-multiphysics-mcp",
+  "source_url": "https://github.com/suzy-sa/comsol-multiphysics-mcp",
+  "install": "npx -y comsol-multiphysics-mcp"
+}

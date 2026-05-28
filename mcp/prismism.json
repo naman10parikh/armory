@@ -1,0 +1,7 @@
+{
+  "name": "prismism",
+  "description": "Upload files and get tracked, shareable links with analytics, email capture, and access control.",
+  "source_repo": "prismism-dev/mcp-server",
+  "source_url": "https://github.com/prismism-dev/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/prismism-dev/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quegenx-supabase-postgresql",
+  "description": "Provides a bridge to Supabase PostgreSQL databases for managing tables, storage, users, and realtime features through natural language interaction without manual SQL queries.",
+  "source_repo": "quegenx/supabase-mcp-server",
+  "source_url": "https://github.com/quegenx/supabase-mcp-server",
+  "install": "npx -y supabase-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "srmorete-adb",
+  "description": "Bridges AI with Android devices through ADB, enabling device management, shell commands, app installation, file transfers, and UI inspection without requiring direct ADB knowledge.",
+  "source_repo": "srmorete/adb-mcp",
+  "source_url": "https://github.com/srmorete/adb-mcp",
+  "install": "npx -y adb-mcp"
+}

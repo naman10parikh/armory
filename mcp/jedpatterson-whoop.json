@@ -1,0 +1,7 @@
+{
+  "name": "jedpatterson-whoop",
+  "description": "Integrates with Whoop fitness trackers to provide access to biometric data including daily metrics, sleep analysis, recovery tracking with HRV trends, strain monitoring with heart rate zones, and healthspan calculations for fitness analysis and wellness applications.",
+  "source_repo": "jedpattersonn/whoop-mcp",
+  "source_url": "https://github.com/jedpattersonn/whoop-mcp",
+  "install": "npx -y whoop-mcp"
+}

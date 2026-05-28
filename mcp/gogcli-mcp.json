@@ -1,0 +1,7 @@
+{
+  "name": "gogcli-mcp",
+  "description": "MCP server that gives Claude natural-language access to Google Workspace (Sheets, Docs, Gmail, Calendar, Drive, Tasks, Contacts) via gogcli.",
+  "source_repo": "chrischall/gogcli-mcp",
+  "source_url": "https://github.com/chrischall/gogcli-mcp",
+  "install": "npx -y gogcli-mcp"
+}

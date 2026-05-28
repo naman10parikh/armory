@@ -1,0 +1,7 @@
+{
+  "name": "yoraudev-minecraft-world-data",
+  "description": "Fabric mod for Minecraft 1.21.11 exposing real-time game world data including player status, inventory, nearby blocks and entities, biome info, and weather conditions.",
+  "source_repo": "yoraudev/minecraft-mcp",
+  "source_url": "https://github.com/yoraudev/minecraft-mcp",
+  "install": "npx -y minecraft-mcp"
+}

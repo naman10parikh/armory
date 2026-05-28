@@ -1,0 +1,7 @@
+{
+  "name": "claimhit",
+  "description": "Scans for patent infringement using the ClaimHit AI-powered patent analysis platform.",
+  "source_repo": "",
+  "source_url": "https://claimhit.com/api/mcp",
+  "install": "# git clone --depth 1 https://claimhit.com/api/mcp\n# See source for mcpServers config block"
+}

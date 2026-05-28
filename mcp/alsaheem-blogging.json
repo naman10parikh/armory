@@ -1,0 +1,7 @@
+{
+  "name": "alsaheem-blogging",
+  "description": "Publish and manage articles on dev.to and Hashnode from a single interface.",
+  "source_repo": "alsaheem/blogging-mcp",
+  "source_url": "https://github.com/alsaheem/blogging-mcp",
+  "install": "npx -y blogging-mcp"
+}

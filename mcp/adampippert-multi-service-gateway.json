@@ -1,0 +1,7 @@
+{
+  "name": "adampippert-multi-service-gateway",
+  "description": "Provides a unified gateway for LLMs to access GitHub, GitLab, Google Maps, Memory storage, and Puppeteer web automation tools through a Flask-based server deployable on Red Hat environments.",
+  "source_repo": "adampippert/multi-service-mcp-server",
+  "source_url": "https://github.com/adampippert/multi-service-mcp-server",
+  "install": "npx -y multi-service-mcp-server"
+}

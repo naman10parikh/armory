@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-clevelandart",
+  "description": "Search and retrieve artwork records from the Cleveland Museum of Art's Open Access collection of approximately 63,000 works, many available under Creative Commons licenses.",
+  "source_repo": "pipeworx-io/mcp-clevelandart",
+  "source_url": "https://github.com/pipeworx-io/mcp-clevelandart",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-clevelandart\n# See source for mcpServers config block"
+}

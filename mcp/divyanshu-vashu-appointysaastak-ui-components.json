@@ -1,0 +1,7 @@
+{
+  "name": "divyanshu-vashu-appointysaastak-ui-components",
+  "description": "Provides a resource-based interface for accessing and utilizing UI components from the AppointySaastak library, serving login interface templates with associated HTML, CSS, and JavaScript files for streamlined development workflows.",
+  "source_repo": "divyanshu-vashu/mcp_server",
+  "source_url": "https://github.com/divyanshu-vashu/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/divyanshu-vashu/mcp_server\n# See source for mcpServers config block"
+}

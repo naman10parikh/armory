@@ -1,0 +1,7 @@
+{
+  "name": "christian-bonzelet-promptz",
+  "description": "Provides a bridge to the promptz.dev platform, enabling direct access and seamless integration of prompts into developer workflows without manual copy-pasting.",
+  "source_repo": "cremich/promptz-mcp",
+  "source_url": "https://github.com/cremich/promptz-mcp",
+  "install": "npx -y promptz-mcp"
+}

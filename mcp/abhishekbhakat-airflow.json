@@ -1,0 +1,7 @@
+{
+  "name": "abhishekbhakat-airflow",
+  "description": "Bridges Claude with Apache Airflow, enabling direct interaction with workflow orchestration through read-only or full-access modes for listing, checking, triggering, and managing Airflow resources via natural language.",
+  "source_repo": "abhishekbhakat/airflow-mcp-server",
+  "source_url": "https://github.com/abhishekbhakat/airflow-mcp-server",
+  "install": "npx -y airflow-mcp-server"
+}

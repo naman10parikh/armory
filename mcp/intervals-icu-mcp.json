@@ -1,0 +1,7 @@
+{
+  "name": "intervals-icu-mcp",
+  "description": "A Model Context Protocol (MCP) server for Intervals.icu integration. Access your training data, wellness metrics, and performance analysis through Claude and other LLMs.",
+  "source_repo": "eddmann/intervals-icu-mcp",
+  "source_url": "https://github.com/eddmann/intervals-icu-mcp",
+  "install": "npx -y intervals-icu-mcp"
+}

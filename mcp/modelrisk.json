@@ -1,0 +1,7 @@
+{
+  "name": "modelrisk",
+  "description": "Read, build, fit, and run Monte Carlo risk models in Excel through Vose Software's ModelRisk add-in.",
+  "source_repo": "vosesoftware/modelrisk-mcp",
+  "source_url": "https://github.com/vosesoftware/modelrisk-mcp",
+  "install": "npx -y modelrisk-mcp"
+}

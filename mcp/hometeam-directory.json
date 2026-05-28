@@ -1,0 +1,7 @@
+{
+  "name": "hometeam-directory",
+  "description": "Search Black-owned businesses in South Florida by category, neighborhood, or need.",
+  "source_repo": "jajuanx/hometeam-mcp-server",
+  "source_url": "https://github.com/jajuanx/hometeam-mcp-server",
+  "install": "npx -y hometeam-mcp-server"
+}

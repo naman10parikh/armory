@@ -1,0 +1,7 @@
+{
+  "name": "co-browser-attestable-mcp-server",
+  "description": "An MCP server running inside a trusted execution environment (TEE) via Gramine, showcasing remote attestation using [RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html). This allows an MCP client to verify the server before conencting.",
+  "source_repo": "co-browser/attestable-mcp-server",
+  "source_url": "https://github.com/co-browser/attestable-mcp-server",
+  "install": "npx -y attestable-mcp-server"
+}

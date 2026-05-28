@@ -1,0 +1,7 @@
+{
+  "name": "egnyte",
+  "description": "Enterprise content cloud platform for secure file management and collaboration",
+  "source_repo": "",
+  "source_url": "https://www.egnyte.com",
+  "install": "# git clone --depth 1 https://www.egnyte.com\n# See source for mcpServers config block"
+}

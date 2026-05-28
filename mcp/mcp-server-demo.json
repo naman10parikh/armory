@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-demo",
+  "description": "Mcp Server Demo MCP server listed on mcp.so.",
+  "source_repo": "schwannden/mcp-server-demo",
+  "source_url": "https://mcp.so/server/mcp-server-demo/schwannden",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-demo/schwannden\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "insurtech-mcp-server",
+  "description": "Enables insurance policy analysis, risk assessment, and policy comparison with support for multiple editions (Lite free, Solo and Pro paid).",
+  "source_repo": "David-IABB/insurtech-mcp",
+  "source_url": "https://github.com/David-IABB/insurtech-mcp",
+  "install": "npx -y insurtech-mcp"
+}

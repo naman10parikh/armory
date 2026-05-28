@@ -1,0 +1,7 @@
+{
+  "name": "apertura-ai-arquestra",
+  "description": "AI orchestration platform for computational chemistry and HPC scientific workflows.",
+  "source_repo": "apertura-ai/arquestra-claude-plugin",
+  "source_url": "https://github.com/apertura-ai/arquestra-claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/apertura-ai/arquestra-claude-plugin\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "slimweb-mcp",
+  "description": "Enables AI clients to manage SlimWeb/Webless e-commerce backend operations such as products, orders, categories, promotions, and settings through a secure Remote MCP server.",
+  "source_repo": "ericchen1972/SlimWeb-MCP",
+  "source_url": "https://github.com/ericchen1972/SlimWeb-MCP",
+  "install": "npx -y SlimWeb-MCP"
+}

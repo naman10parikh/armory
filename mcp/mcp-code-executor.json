@@ -1,0 +1,7 @@
+{
+  "name": "mcp-code-executor",
+  "description": "Mcp_code_executor MCP server listed on mcp.so.",
+  "source_repo": "bazinga012/mcp_code_executor",
+  "source_url": "https://mcp.so/server/mcp_code_executor/bazinga012",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_code_executor/bazinga012\n# See source for mcpServers config block"
+}

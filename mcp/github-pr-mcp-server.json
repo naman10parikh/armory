@@ -1,0 +1,7 @@
+{
+  "name": "github-pr-mcp-server",
+  "description": "Github PR MCP Server MCP server listed on mcp.so.",
+  "source_repo": "gourav221b/Github-PR-MCP-server",
+  "source_url": "https://mcp.so/server/Github-PR-MCP-server/gourav221b",
+  "install": "npx -y Github-PR-MCP-server"
+}

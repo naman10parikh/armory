@@ -1,0 +1,7 @@
+{
+  "name": "kosiakmd-artillery",
+  "description": "Enhanced MCP server for Artillery 2.x load testing with full CLI flag surface, Fargate support, raw-text output parsing, and 18 tools.",
+  "source_repo": "kosiakmd/artillery-mcp",
+  "source_url": "https://github.com/kosiakmd/artillery-mcp",
+  "install": "npx -y artillery-mcp"
+}

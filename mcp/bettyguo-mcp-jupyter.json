@@ -1,0 +1,7 @@
+{
+  "name": "bettyguo-mcp-jupyter",
+  "description": "Exposes live Jupyter kernel state — variables, dataframe summaries, plots, and tracebacks — to AI coding agents through MCP tools.",
+  "source_repo": "bettyguo/mcp-jupyter",
+  "source_url": "https://github.com/bettyguo/mcp-jupyter",
+  "install": "# git clone --depth 1 https://github.com/bettyguo/mcp-jupyter\n# See source for mcpServers config block"
+}

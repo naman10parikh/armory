@@ -1,0 +1,7 @@
+{
+  "name": "jsondb-cloud",
+  "description": "Manages documents, collections, schemas, and webhooks on the jsondb.cloud database platform.",
+  "source_repo": "jsondbcloud/mcp",
+  "source_url": "https://github.com/jsondbcloud/mcp",
+  "install": "# git clone --depth 1 https://github.com/jsondbcloud/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-memory",
+  "description": "A lightweight MCP server that gives Claude Code Channels on Telegram persistent memory by storing facts, conversation logs, and session summaries in Supabase.",
+  "source_repo": "jordanl61/claude-memory",
+  "source_url": "https://github.com/jordanl61/claude-memory",
+  "install": "# git clone --depth 1 https://github.com/jordanl61/claude-memory\n# See source for mcpServers config block"
+}

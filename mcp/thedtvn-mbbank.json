@@ -1,0 +1,7 @@
+{
+  "name": "thedtvn-mbbank",
+  "description": "Provides read-only access to MBBank accounts for retrieving balances, transaction histories, savings account details, and current date information to support financial monitoring and expense tracking workflows.",
+  "source_repo": "thedtvn/mbbank-mcp",
+  "source_url": "https://github.com/thedtvn/mbbank-mcp",
+  "install": "npx -y mbbank-mcp"
+}

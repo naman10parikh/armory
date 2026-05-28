@@ -1,0 +1,7 @@
+{
+  "name": "tjnull-ludus",
+  "description": "Manage Ludus cyber range environments through natural language commands.",
+  "source_repo": "tjnull/ludus-fastmcp",
+  "source_url": "https://github.com/tjnull/ludus-fastmcp",
+  "install": "# git clone --depth 1 https://github.com/tjnull/ludus-fastmcp\n# See source for mcpServers config block"
+}

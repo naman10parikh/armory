@@ -1,0 +1,7 @@
+{
+  "name": "suqidan-volcengine-knowledge-base",
+  "description": "Connects to Volcengine's knowledge base API for searching and retrieving organizational information with customizable search parameters and authentication via Volcengine credentials.",
+  "source_repo": "suqidan/volcengine_knowledgebase_mcp",
+  "source_url": "https://github.com/suqidan/volcengine_knowledgebase_mcp",
+  "install": "npx -y volcengine_knowledgebase_mcp"
+}

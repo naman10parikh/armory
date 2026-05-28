@@ -1,0 +1,7 @@
+{
+  "name": "vezlo-src-to-kb",
+  "description": "Convert source code repositories into searchable knowledge bases with AI-powered search using GPT-5, intelligent chunking, and OpenAI embeddings for semantic code understanding.",
+  "source_repo": "vezlo/src-to-kb",
+  "source_url": "https://github.com/vezlo/src-to-kb",
+  "install": "# git clone --depth 1 https://github.com/vezlo/src-to-kb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atarkowska-pdftools",
+  "description": "PDF reader and text extraction",
+  "source_repo": "atarkowska/fastmcp-pdftools",
+  "source_url": "https://github.com/atarkowska/fastmcp-pdftools",
+  "install": "# git clone --depth 1 https://github.com/atarkowska/fastmcp-pdftools\n# See source for mcpServers config block"
+}

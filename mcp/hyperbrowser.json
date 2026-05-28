@@ -1,0 +1,7 @@
+{
+  "name": "hyperbrowser",
+  "description": "Hyperbrowser MCP server listed on mcp.so.",
+  "source_repo": "hyperbrowserai/hyperbrowser",
+  "source_url": "https://mcp.so/server/hyperbrowser/hyperbrowserai",
+  "install": "# git clone --depth 1 https://mcp.so/server/hyperbrowser/hyperbrowserai\n# See source for mcpServers config block"
+}

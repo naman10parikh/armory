@@ -1,0 +1,7 @@
+{
+  "name": "engmanager-mcp",
+  "description": "Provides LLMs with structured workflow guidance and next-step instructions for development procedures, ensuring consistent practices across projects.",
+  "source_repo": "scarr7981/engmanager-mcp",
+  "source_url": "https://github.com/scarr7981/engmanager-mcp",
+  "install": "npx -y engmanager-mcp"
+}

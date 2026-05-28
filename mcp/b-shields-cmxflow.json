@@ -1,0 +1,7 @@
+{
+  "name": "b-shields-cmxflow",
+  "description": "Composable cheminformatics pipelines for ligand preparation, clustering, virtual screening, and Bayesian optimization.",
+  "source_repo": "b-shields/cmxflow",
+  "source_url": "https://github.com/b-shields/cmxflow",
+  "install": "# git clone --depth 1 https://github.com/b-shields/cmxflow\n# See source for mcpServers config block"
+}

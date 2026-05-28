@@ -1,0 +1,7 @@
+{
+  "name": "yabbi-ynab",
+  "description": "Integrates with YNAB's budgeting API to read account balances, transaction history, and category allocations while creating new transactions and scheduled payments with intelligent payee matching and fuzzy name resolution.",
+  "source_repo": "yabbi/ynab_mcp",
+  "source_url": "https://github.com/yabbi/ynab_mcp",
+  "install": "npx -y ynab_mcp"
+}

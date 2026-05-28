@@ -1,0 +1,7 @@
+{
+  "name": "mindmap-mcp-server",
+  "description": "Mindmap Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "YuChenSSR/mindmap-mcp-server",
+  "source_url": "https://mcp.so/server/mindmap-mcp-server/YuChenSSR",
+  "install": "npx -y mindmap-mcp-server"
+}

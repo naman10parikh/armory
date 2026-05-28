@@ -1,0 +1,7 @@
+{
+  "name": "mimersql",
+  "description": "Database connectivity and management for Mimer SQL databases.",
+  "source_repo": "mimersql/mimer-mcp",
+  "source_url": "https://github.com/mimersql/mimer-mcp",
+  "install": "npx -y mimer-mcp"
+}

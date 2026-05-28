@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-httpcat",
+  "description": "Retrieve cat images corresponding to HTTP status codes from the HTTP.cat API.",
+  "source_repo": "pipeworx-io/mcp-httpcat",
+  "source_url": "https://github.com/pipeworx-io/mcp-httpcat",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-httpcat\n# See source for mcpServers config block"
+}

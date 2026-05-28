@@ -1,0 +1,7 @@
+{
+  "name": "marcoeg-nvd",
+  "description": "Provides access to the NIST National Vulnerability Database through get_cve and search_cve tools for retrieving and searching CVE records with customizable result options.",
+  "source_repo": "marcoeg/mcp-nvd",
+  "source_url": "https://github.com/marcoeg/mcp-nvd",
+  "install": "# git clone --depth 1 https://github.com/marcoeg/mcp-nvd\n# See source for mcpServers config block"
+}

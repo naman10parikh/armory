@@ -1,0 +1,7 @@
+{
+  "name": "missive-mcp-server",
+  "description": "An MCP server that interfaces with the Missive API, enabling Claude to manage email conversations, contacts, and team collaboration.",
+  "source_repo": "grncdr/missive-mcp",
+  "source_url": "https://github.com/grncdr/missive-mcp",
+  "install": "npx -y missive-mcp"
+}

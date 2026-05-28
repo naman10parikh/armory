@@ -1,0 +1,7 @@
+{
+  "name": "anuragraidev-database-updater",
+  "description": "Streamlines database updates from CSV and Excel files, supporting multiple database types for efficient data migration and synchronization tasks.",
+  "source_repo": "anuragrai017/database-updater-mcp-server",
+  "source_url": "https://github.com/anuragrai017/database-updater-mcp-server",
+  "install": "npx -y database-updater-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kennystrawnmusic-mcpenum",
+  "description": "Command-line tool that enumerates all prompts, resources, and tools exposed by any MCP server for security testing and API discovery.",
+  "source_repo": "kennystrawnmusic/mcpenum",
+  "source_url": "https://github.com/kennystrawnmusic/mcpenum",
+  "install": "# git clone --depth 1 https://github.com/kennystrawnmusic/mcpenum\n# See source for mcpServers config block"
+}

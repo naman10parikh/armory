@@ -1,0 +1,7 @@
+{
+  "name": "stackone-connectors",
+  "description": "Monorepo containing MCP connectors for various third-party services like GitHub, Slack, Linear, Notion, and AWS with an automated testing framework that uses Claude Code to discover and test all available tools, generating realistic test data and producing detailed JSON reports with success/failure status and improvement suggestions.",
+  "source_repo": "stackonehq/mcp-connectors",
+  "source_url": "https://github.com/stackonehq/mcp-connectors",
+  "install": "# git clone --depth 1 https://github.com/stackonehq/mcp-connectors\n# See source for mcpServers config block"
+}

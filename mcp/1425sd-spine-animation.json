@@ -1,0 +1,7 @@
+{
+  "name": "1425sd-spine-animation",
+  "description": "Automate Spine skeletal animation workflows via the official Spine CLI, with tools for export, JSON animation generation, skeleton analysis, and animation presets.",
+  "source_repo": "1425sd/spine-mcp",
+  "source_url": "https://github.com/1425sd/spine-mcp",
+  "install": "npx -y spine-mcp"
+}

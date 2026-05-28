@@ -1,0 +1,7 @@
+{
+  "name": "danchev-spherepay",
+  "description": "Manages SpherePay customers, bank accounts, wallets, and transfers for fiat and stablecoin payments.",
+  "source_repo": "danchev/spherepay-mcp",
+  "source_url": "https://github.com/danchev/spherepay-mcp",
+  "install": "npx -y spherepay-mcp"
+}

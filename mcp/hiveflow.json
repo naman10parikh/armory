@@ -1,0 +1,7 @@
+{
+  "name": "hiveflow",
+  "description": "Integrates with HiveFlow's workflow automation platform to enable triggering automated workflows, managing business processes, and executing workflow operations directly through conversational interactions.",
+  "source_repo": "hiveflowai/hiveflow-mcp-server",
+  "source_url": "https://github.com/hiveflowai/hiveflow-mcp-server",
+  "install": "npx -y hiveflow-mcp-server"
+}

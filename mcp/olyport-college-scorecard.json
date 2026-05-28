@@ -1,0 +1,7 @@
+{
+  "name": "olyport-college-scorecard",
+  "description": "U.S. higher education data: tuition, graduation rates, and post-graduation earnings.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/college-scorecard/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/college-scorecard/mcp\n# See source for mcpServers config block"
+}

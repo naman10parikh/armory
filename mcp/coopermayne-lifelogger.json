@@ -1,0 +1,7 @@
+{
+  "name": "coopermayne-lifelogger",
+  "description": "Personal knowledge system that captures information entries, automatically generates flashcards, and schedules spaced repetition reviews using the SM-2 algorithm for optimal long-term retention.",
+  "source_repo": "coopermayne/mcp-personal",
+  "source_url": "https://github.com/coopermayne/mcp-personal",
+  "install": "# git clone --depth 1 https://github.com/coopermayne/mcp-personal\n# See source for mcpServers config block"
+}

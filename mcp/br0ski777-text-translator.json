@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-text-translator",
+  "description": "Translate text between 50+ languages with automatic language detection via x402 micropayment.",
+  "source_repo": "br0ski777/text-translator-x402",
+  "source_url": "https://github.com/br0ski777/text-translator-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/text-translator-x402\n# See source for mcpServers config block"
+}

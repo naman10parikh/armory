@@ -1,0 +1,7 @@
+{
+  "name": "pocketlantern",
+  "description": "Blocker-aware decision layer for coding agents, grounded in source-linked, time-sensitive facts.",
+  "source_repo": "pocketlantern/pocketlantern",
+  "source_url": "https://github.com/pocketlantern/pocketlantern",
+  "install": "# git clone --depth 1 https://github.com/pocketlantern/pocketlantern\n# See source for mcpServers config block"
+}

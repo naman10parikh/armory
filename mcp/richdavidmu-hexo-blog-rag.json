@@ -1,0 +1,7 @@
+{
+  "name": "richdavidmu-hexo-blog-rag",
+  "description": "Indexes Hexo blog content using vector embeddings for semantic search, content discovery, and AI-powered writing assistance.",
+  "source_repo": "richdavidmu/hexo-blog-rag-mcp",
+  "source_url": "https://github.com/richdavidmu/hexo-blog-rag-mcp",
+  "install": "npx -y hexo-blog-rag-mcp"
+}

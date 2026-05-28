@@ -1,0 +1,7 @@
+{
+  "name": "gh-crispvibe-document-studio",
+  "description": "Reads documents in multiple formats (PDF, DOCX, XLSX, EPUB, and more) and generates Word and PowerPoint files.",
+  "source_repo": "crispvibe/mcp-document-studio",
+  "source_url": "https://github.com/crispvibe/mcp-document-studio",
+  "install": "# git clone --depth 1 https://github.com/crispvibe/mcp-document-studio\n# See source for mcpServers config block"
+}

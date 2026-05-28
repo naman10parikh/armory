@@ -1,0 +1,7 @@
+{
+  "name": "honeybluesky-apple-remembers",
+  "description": "Enables AI assistants to access and save memories from Apple Notes on remote macOS systems via SSH connections, providing memory recall for notes, calendar events, messages, and files, plus memory persistence with timestamped entries for maintaining context across conversations.",
+  "source_repo": "honeybluesky/my-apple-remembers",
+  "source_url": "https://github.com/honeybluesky/my-apple-remembers",
+  "install": "# git clone --depth 1 https://github.com/honeybluesky/my-apple-remembers\n# See source for mcpServers config block"
+}

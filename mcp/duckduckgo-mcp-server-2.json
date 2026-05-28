@@ -1,0 +1,7 @@
+{
+  "name": "duckduckgo-mcp-server-2",
+  "description": "Duckduckgo Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "AshDevFr/duckduckgo-mcp-server",
+  "source_url": "https://mcp.so/server/duckduckgo-mcp-server/AshDevFr",
+  "install": "npx -y duckduckgo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aiyogg-tinypng",
+  "description": "Integrates with TinyPNG API to compress and resize both local and remote images with detailed optimization statistics for efficient image processing workflows.",
+  "source_repo": "aiyogg/tinypng-mcp-server",
+  "source_url": "https://github.com/aiyogg/tinypng-mcp-server",
+  "install": "npx -y tinypng-mcp-server"
+}

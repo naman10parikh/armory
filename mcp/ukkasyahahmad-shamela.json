@@ -1,0 +1,7 @@
+{
+  "name": "ukkasyahahmad-shamela",
+  "description": "Enables access to the Shamela Islamic library for searching and retrieving classical texts.",
+  "source_repo": "ukkasyahahmad/shamela-mcp-universal",
+  "source_url": "https://github.com/ukkasyahahmad/shamela-mcp-universal",
+  "install": "# git clone --depth 1 https://github.com/ukkasyahahmad/shamela-mcp-universal\n# See source for mcpServers config block"
+}

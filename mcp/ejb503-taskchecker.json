@@ -1,0 +1,7 @@
+{
+  "name": "ejb503-taskchecker",
+  "description": "Provides enterprise-grade task orchestration with intelligent evaluation scoring, session-based workflow tracking, and automatic cleanup for structured productivity workflows and project management automation.",
+  "source_repo": "ejb503/systemprompt-mcp-taskchecker",
+  "source_url": "https://github.com/ejb503/systemprompt-mcp-taskchecker",
+  "install": "# git clone --depth 1 https://github.com/ejb503/systemprompt-mcp-taskchecker\n# See source for mcpServers config block"
+}

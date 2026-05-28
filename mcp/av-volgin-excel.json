@@ -1,0 +1,7 @@
+{
+  "name": "av-volgin-excel",
+  "description": "Reads, writes, and analyzes Excel files with formula-aware capabilities and structured batch operations.",
+  "source_repo": "av-volgin/excel-mcp",
+  "source_url": "https://github.com/av-volgin/excel-mcp",
+  "install": "npx -y excel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spider-chat",
+  "description": "Integrates with Spider Chat's nonlinear conversation platform to retrieve flows, search memories with importance filtering, and access user facts",
+  "source_repo": "spider-chat/spiderchat-mcp-server",
+  "source_url": "https://github.com/spider-chat/spiderchat-mcp-server",
+  "install": "npx -y spiderchat-mcp-server"
+}

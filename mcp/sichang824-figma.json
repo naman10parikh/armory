@@ -1,0 +1,7 @@
+{
+  "name": "sichang824-figma",
+  "description": "Bridges AI systems with Figma's design platform, enabling file operations, node manipulation, comment management, and real-time canvas interactions through both REST API and WebSocket communication.",
+  "source_repo": "sichang824/mcp-figma",
+  "source_url": "https://github.com/sichang824/mcp-figma",
+  "install": "# git clone --depth 1 https://github.com/sichang824/mcp-figma\n# See source for mcpServers config block"
+}

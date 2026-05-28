@@ -1,0 +1,7 @@
+{
+  "name": "llamaindex-documentation-mcp-server",
+  "description": "Enables searching and fetching LlamaIndex documentation for integration with VS Code Copilot and other MCP clients.",
+  "source_repo": "LiteObject/llamaindex-mcp-server",
+  "source_url": "https://github.com/LiteObject/llamaindex-mcp-server",
+  "install": "npx -y llamaindex-mcp-server"
+}

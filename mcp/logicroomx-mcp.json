@@ -1,0 +1,7 @@
+{
+  "name": "logicroomx-mcp",
+  "description": "Real-time crypto spread, funding rates, and cash & carry yields across Binance and OKX for AI assistants.",
+  "source_repo": "LogicRoomX/logicroomx-mcp",
+  "source_url": "https://github.com/LogicRoomX/logicroomx-mcp",
+  "install": "npx -y logicroomx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mikimatsub-solarwinds-service-desk",
+  "description": "Interact with SolarWinds Service Desk (SWSD) to manage incidents, knowledge base articles, service catalog requests, and more via 35 tools across 10 categories.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/mikimatsub-solarwinds-service-desk",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/mikimatsub-solarwinds-service-desk\n# See source for mcpServers config block"
+}

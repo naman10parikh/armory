@@ -1,0 +1,7 @@
+{
+  "name": "revelata-deepkpi",
+  "description": "Deep fundamental data and SEC filings from public companies — operating KPIs not available in Bloomberg.",
+  "source_repo": "",
+  "source_url": "https://www.revelata.com",
+  "install": "# git clone --depth 1 https://www.revelata.com\n# See source for mcpServers config block"
+}

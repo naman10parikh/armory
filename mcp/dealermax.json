@@ -1,0 +1,7 @@
+{
+  "name": "dealermax",
+  "description": "Automotive dealership operating system with AI-ready inventory, content, and lead management via MCP.",
+  "source_repo": "",
+  "source_url": "https://mcp.dealermax.app/mcp/",
+  "install": "# git clone --depth 1 https://mcp.dealermax.app/mcp/\n# See source for mcpServers config block"
+}

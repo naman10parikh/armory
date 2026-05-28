@@ -1,0 +1,7 @@
+{
+  "name": "roadahead1-goweb3",
+  "description": "Provides access to Web3 events and news from GoWeb3.fyi through a proxy bridge that enables searching events by region and month for discovering Web3 happenings and analyzing regional ecosystems.",
+  "source_repo": "roadahead1/goweb3_mcp_server",
+  "source_url": "https://github.com/roadahead1/goweb3_mcp_server",
+  "install": "npx -y goweb3_mcp_server"
+}

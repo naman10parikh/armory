@@ -1,0 +1,7 @@
+{
+  "name": "lightpanda-io-gomcp",
+  "description": "🏎 🏠/☁️ 🐧/🍎 - An MCP server in Go for Lightpanda, the ultra fast headless browser designed for web automation",
+  "source_repo": "lightpanda-io/gomcp",
+  "source_url": "https://github.com/lightpanda-io/gomcp",
+  "install": "# git clone --depth 1 https://github.com/lightpanda-io/gomcp\n# See source for mcpServers config block"
+}

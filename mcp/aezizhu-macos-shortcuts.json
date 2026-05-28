@@ -1,0 +1,7 @@
+{
+  "name": "aezizhu-macos-shortcuts",
+  "description": "Integrates with macOS Shortcuts to execute existing automation workflows and create custom text-based prompt shortcuts for streamlined task automation and AI interaction patterns.",
+  "source_repo": "aezizhu/shortcut-mcp",
+  "source_url": "https://github.com/aezizhu/shortcut-mcp",
+  "install": "npx -y shortcut-mcp"
+}

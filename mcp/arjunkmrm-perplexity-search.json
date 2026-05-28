@@ -1,0 +1,7 @@
+{
+  "name": "arjunkmrm-perplexity-search",
+  "description": "Enables web searches using Perplexity's API with sonar or sonar-pro models, returning detailed results with citations and optional recency filtering.",
+  "source_repo": "arjunkmrm/perplexity-search",
+  "source_url": "https://github.com/arjunkmrm/perplexity-search",
+  "install": "# git clone --depth 1 https://github.com/arjunkmrm/perplexity-search\n# See source for mcpServers config block"
+}

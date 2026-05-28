@@ -1,0 +1,7 @@
+{
+  "name": "jgravelle-jdocmunch",
+  "description": "Section-level documentation search supporting Markdown, RST, AsciiDoc, Jupyter, HTML, YAML, JSON, and OpenAPI specs.",
+  "source_repo": "jgravelle/jdocmunch-mcp",
+  "source_url": "https://github.com/jgravelle/jdocmunch-mcp",
+  "install": "npx -y jdocmunch-mcp"
+}

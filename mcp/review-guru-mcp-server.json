@@ -1,0 +1,7 @@
+{
+  "name": "review-guru-mcp-server",
+  "description": "Enables searching and retrieving Sri Lankan business reviews and doctor profiles from Review Guru, with tools for listings, reviews, search, and categories.",
+  "source_repo": "kapruka/reviewguru-mcp",
+  "source_url": "https://github.com/kapruka/reviewguru-mcp",
+  "install": "npx -y reviewguru-mcp"
+}

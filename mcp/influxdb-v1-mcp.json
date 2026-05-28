@@ -1,0 +1,7 @@
+{
+  "name": "influxdb-v1-mcp",
+  "description": "InfluxDB-v1-MCP is a powerful Model Context Protocol (MCP) interface specifically designed for InfluxDB v1.x, enabling AI assistants to intelligently manage and query time-series databases.",
+  "source_repo": "GreenScreen410/influxdb-v1-mcp",
+  "source_url": "https://github.com/GreenScreen410/influxdb-v1-mcp",
+  "install": "npx -y influxdb-v1-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mastanley13-gohighlevel",
+  "description": "Integrates with GoHighLevel CRM to manage contacts, conversations, blog posts, calendars, workflows, and media through comprehensive API access for marketing automation and client communication workflows.",
+  "source_repo": "mastanley13/gohighlevel-mcp",
+  "source_url": "https://github.com/mastanley13/gohighlevel-mcp",
+  "install": "npx -y gohighlevel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dnotitia-akb",
+  "description": "Organizational knowledge base for AI agents. Vault-scoped Markdown docs, structured PostgreSQL tables, and files unified by a URI graph. Hybrid semantic + BM25 search, Git-backed version history, multi-tenant ACL with public-share links. Works with Claude Code, Cursor, Windsurf via `npx akb-mcp`.",
+  "source_repo": "dnotitia/akb",
+  "source_url": "https://github.com/dnotitia/akb",
+  "install": "# git clone --depth 1 https://github.com/dnotitia/akb\n# See source for mcpServers config block"
+}

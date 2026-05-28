@@ -1,0 +1,7 @@
+{
+  "name": "climactic-umami",
+  "description": "MCP server providing 48 tools for read/write access to Umami Analytics data including statistics, sessions, events, and funnels.",
+  "source_repo": "climactic/umami-mcp",
+  "source_url": "https://github.com/climactic/umami-mcp",
+  "install": "npx -y umami-mcp"
+}

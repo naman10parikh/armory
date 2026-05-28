@@ -1,0 +1,7 @@
+{
+  "name": "dev-smurf-excalidraw",
+  "description": "Draw shapes and elements on an Excalidraw canvas in real-time via the native collaboration protocol.",
+  "source_repo": "dev-smurf/excaliclaude",
+  "source_url": "https://github.com/dev-smurf/excaliclaude",
+  "install": "# git clone --depth 1 https://github.com/dev-smurf/excaliclaude\n# See source for mcpServers config block"
+}

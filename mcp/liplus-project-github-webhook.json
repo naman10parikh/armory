@@ -1,0 +1,7 @@
+{
+  "name": "liplus-project-github-webhook",
+  "description": "Bridges GitHub webhooks via Cloudflare Worker for real-time event streaming.",
+  "source_repo": "liplus-project/github-webhook-mcp",
+  "source_url": "https://github.com/liplus-project/github-webhook-mcp",
+  "install": "npx -y github-webhook-mcp"
+}

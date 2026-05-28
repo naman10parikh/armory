@@ -1,0 +1,7 @@
+{
+  "name": "cnghockey-sats4ai-mcp-server",
+  "description": "Permissionless communication supercharger for AI agents — phone calls, SMS, fax, translation (119 languages), text-to-speech, audiobook generation, plus image/video/music/text generation and document extraction. Pay per request via Lightning (L402) — no signup or API keys.",
+  "source_repo": "cnghockey/sats4ai-mcp-server",
+  "source_url": "https://github.com/cnghockey/sats4ai-mcp-server",
+  "install": "npx -y sats4ai-mcp-server"
+}

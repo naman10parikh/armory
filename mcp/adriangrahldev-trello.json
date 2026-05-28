@@ -1,0 +1,7 @@
+{
+  "name": "adriangrahldev-trello",
+  "description": "Integrates with Trello's REST API to manage boards, lists, cards, labels, and actions with batch operations, comment management, and comprehensive project tracking capabilities.",
+  "source_repo": "adriangrahldev/advanced-trello-mcp-server",
+  "source_url": "https://github.com/adriangrahldev/advanced-trello-mcp-server",
+  "install": "npx -y advanced-trello-mcp-server"
+}

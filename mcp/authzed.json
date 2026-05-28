@@ -1,0 +1,7 @@
+{
+  "name": "authzed",
+  "description": "Brings comprehensive documentation and learning resources about SpiceDB and AuthZed products directly into your AI tools.",
+  "source_repo": "authzed/mcp-authzed",
+  "source_url": "https://github.com/authzed/mcp-authzed",
+  "install": "# git clone --depth 1 https://github.com/authzed/mcp-authzed\n# See source for mcpServers config block"
+}

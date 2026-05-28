@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clipstream",
+  "description": "Captures copyable text from Claude Code terminal output before it's mangled by ANSI codes or line breaks, providing a clean clipboard buffer through a TUI.",
+  "source_repo": "shamis6ali/mcp-clipstream",
+  "source_url": "https://github.com/shamis6ali/mcp-clipstream",
+  "install": "# git clone --depth 1 https://github.com/shamis6ali/mcp-clipstream\n# See source for mcpServers config block"
+}

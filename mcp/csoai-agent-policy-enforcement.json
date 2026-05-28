@@ -1,0 +1,7 @@
+{
+  "name": "csoai-agent-policy-enforcement",
+  "description": "Per-agent-pair IAM for multi-agent systems with policy rules controlling which agents can call which tools.",
+  "source_repo": "csoai-org/agent-policy-enforcement-mcp",
+  "source_url": "https://github.com/csoai-org/agent-policy-enforcement-mcp",
+  "install": "npx -y agent-policy-enforcement-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nwtools-mcp",
+  "description": "Provides accurate IPv4 subnet and address tools for LLMs using Python's ipaddress library. Includes CIDR parsing, overlap detection, IP classification, and more.",
+  "source_repo": "crims0n/nwtools-mcp",
+  "source_url": "https://github.com/crims0n/nwtools-mcp",
+  "install": "npx -y nwtools-mcp"
+}

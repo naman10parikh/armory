@@ -1,0 +1,7 @@
+{
+  "name": "alptekin-evolutiondb",
+  "description": "Persistent long-term memory for Claude Desktop and Claude Code backed by EvolutionDB.",
+  "source_repo": "alptekin/evolutiondb",
+  "source_url": "https://github.com/alptekin/evolutiondb/tree/HEAD/client/mcp-server-evosql",
+  "install": "# git clone --depth 1 https://github.com/alptekin/evolutiondb/tree/HEAD/client/mcp-server-evosql\n# See source for mcpServers config block"
+}

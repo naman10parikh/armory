@@ -1,0 +1,7 @@
+{
+  "name": "lauriewired-ghidra",
+  "description": "Decompile and analyze binaries in Ghidra.",
+  "source_repo": "lauriewired/ghidramcp",
+  "source_url": "https://github.com/lauriewired/ghidramcp",
+  "install": "# git clone --depth 1 https://github.com/lauriewired/ghidramcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mingolladaniele-todoist-taskmaster",
+  "description": "Integrates with Todoist task management to retrieve, filter, and display tasks using flexible query options without switching contexts.",
+  "source_repo": "mingolladaniele/taskmaster-todoist-mcp",
+  "source_url": "https://github.com/mingolladaniele/taskmaster-todoist-mcp",
+  "install": "npx -y taskmaster-todoist-mcp"
+}

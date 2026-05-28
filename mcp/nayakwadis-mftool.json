@@ -1,0 +1,7 @@
+{
+  "name": "nayakwadis-mftool",
+  "description": "Publicly available Indian mutual funds data via the mftool Python library.",
+  "source_repo": "nayakwadis/mftool-mcp",
+  "source_url": "https://github.com/nayakwadis/mftool-mcp",
+  "install": "npx -y mftool-mcp"
+}

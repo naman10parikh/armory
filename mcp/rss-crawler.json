@@ -1,0 +1,7 @@
+{
+  "name": "rss-crawler",
+  "description": "Fetches, parses, and stores RSS feeds in a SQLite database, enabling seamless news and article retrieval for language models through filtering, searching, and Firecrawl-powered article access.",
+  "source_repo": "mshk/mcp-rss-crawler",
+  "source_url": "https://github.com/mshk/mcp-rss-crawler",
+  "install": "# git clone --depth 1 https://github.com/mshk/mcp-rss-crawler\n# See source for mcpServers config block"
+}

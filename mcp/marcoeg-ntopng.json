@@ -1,0 +1,7 @@
+{
+  "name": "marcoeg-ntopng",
+  "description": "Integrates with ntopng systems to provide direct access to network monitoring data through ClickHouse database queries and REST API endpoints for retrieving traffic statistics, analyzing flows, and identifying network anomalies.",
+  "source_repo": "marcoeg/mcp-server-ntopng",
+  "source_url": "https://github.com/marcoeg/mcp-server-ntopng",
+  "install": "# git clone --depth 1 https://github.com/marcoeg/mcp-server-ntopng\n# See source for mcpServers config block"
+}

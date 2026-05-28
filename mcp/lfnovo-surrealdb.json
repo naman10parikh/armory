@@ -1,0 +1,7 @@
+{
+  "name": "lfnovo-surrealdb",
+  "description": "Connects to SurrealDB's multi-model database enabling graph, document, and relational operations through ten core tools including query execution, CRUD operations, graph traversal, and bulk data management.",
+  "source_repo": "lfnovo/surreal-mcp",
+  "source_url": "https://github.com/lfnovo/surreal-mcp",
+  "install": "npx -y surreal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dm-drogerie-markt",
+  "description": "Official MCP server for dm-drogerie-markt — search the online product catalogue of Germany's largest drugstore chain.",
+  "source_repo": "",
+  "source_url": "https://dm.de",
+  "install": "# git clone --depth 1 https://dm.de\n# See source for mcpServers config block"
+}

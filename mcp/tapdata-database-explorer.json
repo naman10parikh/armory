@@ -1,0 +1,7 @@
+{
+  "name": "tapdata-database-explorer",
+  "description": "Bridges AI assistants with TapData database connections, enabling natural language exploration of schemas and execution of CRUD operations across various database systems.",
+  "source_repo": "tapdata/mcp-tap-server",
+  "source_url": "https://github.com/tapdata/mcp-tap-server",
+  "install": "# git clone --depth 1 https://github.com/tapdata/mcp-tap-server\n# See source for mcpServers config block"
+}

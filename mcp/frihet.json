@@ -1,0 +1,7 @@
+{
+  "name": "frihet",
+  "description": "Manage invoices, expenses, clients, products, and quotes through Frihet ERP.",
+  "source_repo": "frihet-io/frihet-mcp",
+  "source_url": "https://github.com/frihet-io/frihet-mcp",
+  "install": "npx -y frihet-mcp"
+}

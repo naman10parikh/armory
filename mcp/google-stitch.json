@@ -1,0 +1,7 @@
+{
+  "name": "google-stitch",
+  "description": "Google Cloud Stitch MCP server for AI-assisted data integration and analytics pipeline management.",
+  "source_repo": "",
+  "source_url": "https://stitch.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://stitch.googleapis.com/mcp\n# See source for mcpServers config block"
+}

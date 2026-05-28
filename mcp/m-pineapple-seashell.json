@@ -1,0 +1,7 @@
+{
+  "name": "m-pineapple-seashell",
+  "description": "Swift MCP server bridging Claude Desktop, Wave Terminal, and Claude Code with cross-session continuity, project-based session resumption, and autonomous daemon support.",
+  "source_repo": "m-pineapple/seashell",
+  "source_url": "https://github.com/m-pineapple/seashell",
+  "install": "# git clone --depth 1 https://github.com/m-pineapple/seashell\n# See source for mcpServers config block"
+}

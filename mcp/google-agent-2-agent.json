@@ -1,0 +1,7 @@
+{
+  "name": "google-agent-2-agent",
+  "description": "Google Agent-to-Agent protocol implementation",
+  "source_repo": "amilaperera97/google-agent-2-agent",
+  "source_url": "https://github.com/amilaperera97/google-agent-2-agent",
+  "install": "# git clone --depth 1 https://github.com/amilaperera97/google-agent-2-agent\n# See source for mcpServers config block"
+}

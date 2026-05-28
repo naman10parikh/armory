@@ -1,0 +1,7 @@
+{
+  "name": "x402-agent-payment-infrastructure",
+  "description": "x402 payment layer for AI agent calls with crypto quotes, progress streams, and receipts.",
+  "source_repo": "",
+  "source_url": "https://payments.wiselyenterprisesllc.com",
+  "install": "# git clone --depth 1 https://payments.wiselyenterprisesllc.com\n# See source for mcpServers config block"
+}

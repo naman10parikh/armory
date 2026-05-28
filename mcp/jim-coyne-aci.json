@@ -1,0 +1,7 @@
+{
+  "name": "jim-coyne-aci",
+  "description": "Integrates with Cisco ACI fabrics through APIC REST API to automate network infrastructure management including tenant configuration, policy creation, endpoint group management, and health monitoring with support for both username/password and certificate authentication.",
+  "source_repo": "jim-coyne/aci_mcp",
+  "source_url": "https://github.com/jim-coyne/aci_mcp",
+  "install": "npx -y aci_mcp"
+}

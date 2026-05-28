@@ -1,0 +1,7 @@
+{
+  "name": "mkxultra-ai-cli",
+  "description": "Run Claude, Codex, and Gemini CLI tools as background processes with parallel execution and session management.",
+  "source_repo": "mkxultra/ai-cli-mcp",
+  "source_url": "https://github.com/mkxultra/ai-cli-mcp",
+  "install": "npx -y ai-cli-mcp"
+}

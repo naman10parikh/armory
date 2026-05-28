@@ -1,0 +1,7 @@
+{
+  "name": "vanderheijden86-moneybird",
+  "description": "Bridges Moneybird accounting software with natural language interaction, enabling users to manage contacts, invoices, financial accounts, products, projects, and time entries through conversational prompts.",
+  "source_repo": "vanderheijden86/moneybird-mcp-server",
+  "source_url": "https://github.com/vanderheijden86/moneybird-mcp-server",
+  "install": "npx -y moneybird-mcp-server"
+}

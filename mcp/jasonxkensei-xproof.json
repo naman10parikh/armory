@@ -1,0 +1,7 @@
+{
+  "name": "jasonxkensei-xproof",
+  "description": "Proof-of-humanity verification with Ethereum attestation for AI agents.",
+  "source_repo": "jasonxkensei/xproof",
+  "source_url": "https://github.com/jasonxkensei/xproof",
+  "install": "# git clone --depth 1 https://github.com/jasonxkensei/xproof\n# See source for mcpServers config block"
+}

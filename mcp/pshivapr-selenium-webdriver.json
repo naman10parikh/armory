@@ -1,0 +1,7 @@
+{
+  "name": "pshivapr-selenium-webdriver",
+  "description": "Enables browser automation through Selenium WebDriver with support for Chrome, Firefox, and Edge browsers, providing navigation, element interaction, form handling, screenshot capture, JavaScript execution, and advanced actions for automated testing and web scraping tasks.",
+  "source_repo": "pshivapr/selenium-mcp",
+  "source_url": "https://github.com/pshivapr/selenium-mcp",
+  "install": "npx -y selenium-mcp"
+}

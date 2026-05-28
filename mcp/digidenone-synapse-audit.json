@@ -1,0 +1,7 @@
+{
+  "name": "digidenone-synapse-audit",
+  "description": "Detects security vulnerabilities in code and syncs findings with SynapseAudit platform.",
+  "source_repo": "digidenone/synapseaudit",
+  "source_url": "https://github.com/digidenone/synapseaudit/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/digidenone/synapseaudit/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lexsocket-tenders",
+  "description": "Access European public procurement tenders from TED and 18 national platforms with hybrid search, filtering by CPV codes, NUTS regions, buyer, and value range.",
+  "source_repo": "lexsocket/mcp-tenders",
+  "source_url": "https://github.com/lexsocket/mcp-tenders",
+  "install": "# git clone --depth 1 https://github.com/lexsocket/mcp-tenders\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "connectimtiazh-temporal-knowledge-graph",
+  "description": "Bi-temporal knowledge graph with automatic fact invalidation and webhook automation tool generation.",
+  "source_repo": "connectimtiazh/temporal-knowledge-graph-mcp-server",
+  "source_url": "https://github.com/connectimtiazh/temporal-knowledge-graph-mcp-server",
+  "install": "npx -y temporal-knowledge-graph-mcp-server"
+}

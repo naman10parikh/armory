@@ -1,0 +1,7 @@
+{
+  "name": "chartone",
+  "description": "Hosted chart rendering for AI agents — generate themed chart URLs with zero setup.",
+  "source_repo": "zhugejun/chartone-mcp",
+  "source_url": "https://github.com/zhugejun/chartone-mcp",
+  "install": "npx -y chartone-mcp"
+}

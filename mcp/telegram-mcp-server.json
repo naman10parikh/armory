@@ -1,0 +1,7 @@
+{
+  "name": "telegram-mcp-server",
+  "description": "Telegram Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "kfastov/telegram-mcp-server",
+  "source_url": "https://mcp.so/server/telegram-mcp-server/kfastov",
+  "install": "npx -y telegram-mcp-server"
+}

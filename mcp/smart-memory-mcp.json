@@ -1,0 +1,7 @@
+{
+  "name": "smart-memory-mcp",
+  "description": "Smart Memory Mcp MCP server listed on mcp.so.",
+  "source_repo": "shipdocs/smart-memory-mcp",
+  "source_url": "https://mcp.so/server/smart-memory-mcp/shipdocs",
+  "install": "npx -y smart-memory-mcp"
+}

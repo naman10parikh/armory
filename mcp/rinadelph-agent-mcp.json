@@ -1,0 +1,7 @@
+{
+  "name": "rinadelph-agent-mcp",
+  "description": "A framework for creating multi-agent systems using MCP for coordinated AI collaboration, featuring task management, shared context, and RAG capabilities.",
+  "source_repo": "rinadelph/Agent-MCP",
+  "source_url": "https://github.com/rinadelph/Agent-MCP",
+  "install": "npx -y Agent-MCP"
+}

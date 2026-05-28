@@ -1,0 +1,7 @@
+{
+  "name": "operative-sh-web-eval-agent",
+  "description": "An MCP Server that autonomously debugs web applications with browser-use browser agents",
+  "source_repo": "Operative-Sh/web-eval-agent",
+  "source_url": "https://github.com/Operative-Sh/web-eval-agent",
+  "install": "# git clone --depth 1 https://github.com/Operative-Sh/web-eval-agent\n# See source for mcpServers config block"
+}

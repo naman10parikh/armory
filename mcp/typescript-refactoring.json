@@ -1,0 +1,7 @@
+{
+  "name": "typescript-refactoring",
+  "description": "Provides TypeScript/JavaScript code analysis and refactoring capabilities using ts-morph, enabling intelligent code transformations with symbol renaming, file moving with import path corrections, cross-file reference updates, type signature analysis, and module dependency exploration across entire codebases.",
+  "source_repo": "mizchi/lsmcp",
+  "source_url": "https://github.com/mizchi/lsmcp",
+  "install": "# git clone --depth 1 https://github.com/mizchi/lsmcp\n# See source for mcpServers config block"
+}

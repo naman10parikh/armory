@@ -1,0 +1,7 @@
+{
+  "name": "terraform-2",
+  "description": "The Terraform MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with Terraform Registry APIs, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/terraform.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/terraform.json\n# See source for mcpServers config block"
+}

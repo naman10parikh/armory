@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-advanced-search",
+  "description": "Enables LLMs to perform advanced GitHub code searches with intelligent filtering and content retrieval using Playwright automation, optimized for DeepSeek integration.",
+  "source_repo": "louiscklaw/mcp-github-advanced-search",
+  "source_url": "https://github.com/louiscklaw/mcp-github-advanced-search",
+  "install": "# git clone --depth 1 https://github.com/louiscklaw/mcp-github-advanced-search\n# See source for mcpServers config block"
+}

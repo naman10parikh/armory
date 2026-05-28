@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-downdetector",
+  "description": "Check service status and outage information",
+  "source_repo": "domdomegg/downdetector-mcp",
+  "source_url": "https://github.com/domdomegg/downdetector-mcp",
+  "install": "npx -y downdetector-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "inday-holiday-api",
+  "description": "Public holiday data for 30+ countries — check holidays, working days, and calendars via AI assistants.",
+  "source_repo": "",
+  "source_url": "https://inday.co/api/mcp",
+  "install": "# git clone --depth 1 https://inday.co/api/mcp\n# See source for mcpServers config block"
+}

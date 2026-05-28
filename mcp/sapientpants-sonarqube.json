@@ -1,0 +1,7 @@
+{
+  "name": "sapientpants-sonarqube",
+  "description": "Integrates with SonarQube to provide code quality metrics, issue tracking, and quality gate status information for software development projects",
+  "source_repo": "sapientpants/sonarqube-mcp-server",
+  "source_url": "https://github.com/sapientpants/sonarqube-mcp-server",
+  "install": "npx -y sonarqube-mcp-server"
+}

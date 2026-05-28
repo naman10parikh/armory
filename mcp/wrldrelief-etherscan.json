@@ -1,0 +1,7 @@
+{
+  "name": "wrldrelief-etherscan",
+  "description": "Integrates with Etherscan's API V2 to provide blockchain data access across 50+ chains, enabling account balance queries, transaction analysis, contract inspection, and gas price monitoring for DeFi analysis and portfolio tracking applications.",
+  "source_repo": "wrldrelief/etherscan-mcp-server",
+  "source_url": "https://github.com/wrldrelief/etherscan-mcp-server",
+  "install": "npx -y etherscan-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dave-wind-mysql-explorer",
+  "description": "Provides read-only access to MySQL databases, enabling schema inspection and SELECT query execution with strict security measures to protect underlying data while allowing meaningful analysis.",
+  "source_repo": "dave-wind/mysql-mcp-server",
+  "source_url": "https://github.com/dave-wind/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

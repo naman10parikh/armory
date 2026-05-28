@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp-server",
+  "description": "A Model Context Protocol server for Salesforce that enables managing contacts, leads, opportunities, accounts, and cases, along with SOQL queries and direct links.",
+  "source_repo": "obot-platform/salesforce-mcp",
+  "source_url": "https://github.com/obot-platform/salesforce-mcp",
+  "install": "npx -y salesforce-mcp"
+}

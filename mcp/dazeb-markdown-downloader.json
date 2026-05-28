@@ -1,0 +1,7 @@
+{
+  "name": "dazeb-markdown-downloader",
+  "description": "Downloads and processes Markdown content from URLs, enabling tasks like content aggregation, documentation management, and text analysis.",
+  "source_repo": "dazeb/markdown-downloader",
+  "source_url": "https://github.com/dazeb/markdown-downloader",
+  "install": "# git clone --depth 1 https://github.com/dazeb/markdown-downloader\n# See source for mcpServers config block"
+}

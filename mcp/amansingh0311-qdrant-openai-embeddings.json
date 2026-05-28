@@ -1,0 +1,7 @@
+{
+  "name": "amansingh0311-qdrant-openai-embeddings",
+  "description": "Connects AI systems to Qdrant vector databases for semantic search using OpenAI embeddings, enabling contextual document retrieval and knowledge base querying.",
+  "source_repo": "amansingh0311/mcp-qdrant-openai",
+  "source_url": "https://github.com/amansingh0311/mcp-qdrant-openai",
+  "install": "# git clone --depth 1 https://github.com/amansingh0311/mcp-qdrant-openai\n# See source for mcpServers config block"
+}

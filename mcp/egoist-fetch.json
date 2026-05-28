@@ -1,0 +1,7 @@
+{
+  "name": "egoist-fetch",
+  "description": "Fetches web content and YouTube video transcripts, converting HTML to Markdown and extracting timestamps for reference in conversations.",
+  "source_repo": "egoist/fetch-mcp",
+  "source_url": "https://github.com/egoist/fetch-mcp",
+  "install": "npx -y fetch-mcp"
+}

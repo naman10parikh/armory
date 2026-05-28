@@ -1,0 +1,7 @@
+{
+  "name": "lumile-promptopia",
+  "description": "Manage, organize, and reuse prompt templates with variable substitution and multi-message conversation structures.",
+  "source_repo": "lumile/promptopia-mcp",
+  "source_url": "https://github.com/lumile/promptopia-mcp",
+  "install": "npx -y promptopia-mcp"
+}

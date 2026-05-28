@@ -1,0 +1,7 @@
+{
+  "name": "osojdjd-deeplook",
+  "description": "Free company research agent — 10 data sources, structured reports with bull/bear verdict in ~10 seconds. Stocks, crypto, and private companies.",
+  "source_repo": "OSOJDJD/deeplook",
+  "source_url": "https://github.com/OSOJDJD/deeplook",
+  "install": "# git clone --depth 1 https://github.com/OSOJDJD/deeplook\n# See source for mcpServers config block"
+}

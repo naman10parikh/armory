@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-onebusaway",
+  "description": "Provides real-time transit data via OneBusAway APIs — stop and route discovery, GPS-tracked arrival predictions, vehicle positions, and full-day timetables.",
+  "source_repo": "cyanheads/onebusaway-mcp-server",
+  "source_url": "https://github.com/cyanheads/onebusaway-mcp-server",
+  "install": "npx -y onebusaway-mcp-server"
+}

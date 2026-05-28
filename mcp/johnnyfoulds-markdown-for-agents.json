@@ -1,0 +1,7 @@
+{
+  "name": "johnnyfoulds-markdown-for-agents",
+  "description": "Fetches URLs with full JavaScript rendering and converts pages to token-efficient markdown for AI agents.",
+  "source_repo": "johnnyfoulds/markdown-for-agents-mcp",
+  "source_url": "https://github.com/johnnyfoulds/markdown-for-agents-mcp",
+  "install": "npx -y markdown-for-agents-mcp"
+}

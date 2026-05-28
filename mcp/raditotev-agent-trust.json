@@ -1,0 +1,7 @@
+{
+  "name": "raditotev-agent-trust",
+  "description": "Agent reputation and trust scoring with Ed25519 cryptographic attestations.",
+  "source_repo": "raditotev/agent-trust",
+  "source_url": "https://github.com/raditotev/agent-trust",
+  "install": "# git clone --depth 1 https://github.com/raditotev/agent-trust\n# See source for mcpServers config block"
+}

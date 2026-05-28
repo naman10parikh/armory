@@ -1,0 +1,7 @@
+{
+  "name": "saminkhan1-context-compression",
+  "description": "Lossless structured-context compression for JSON, CSV, and other formats achieving ~13% token savings via a stdio MCP adapter.",
+  "source_repo": "saminkhan1/context-compression",
+  "source_url": "https://github.com/saminkhan1/context-compression",
+  "install": "# git clone --depth 1 https://github.com/saminkhan1/context-compression\n# See source for mcpServers config block"
+}

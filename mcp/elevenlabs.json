@@ -1,0 +1,7 @@
+{
+  "name": "elevenlabs",
+  "description": "Integrates with ElevenLabs to provide high-quality text-to-speech, voice cloning, and conversational capabilities with customizable voice profiles and audio processing features.",
+  "source_repo": "elevenlabs/elevenlabs-mcp",
+  "source_url": "https://github.com/elevenlabs/elevenlabs-mcp",
+  "install": "npx -y elevenlabs-mcp"
+}

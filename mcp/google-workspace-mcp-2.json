@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-mcp-2",
+  "description": "Enables interaction with Google Workspace services (Gmail, Calendar, Drive, Docs, Sheets, Chat, Slides, People) through natural language using Claude Desktop, Claude Code CLI, and other MCP clients.",
+  "source_repo": "jrenaldi79/google-workspace-mcp",
+  "source_url": "https://github.com/jrenaldi79/google-workspace-mcp",
+  "install": "npx -y google-workspace-mcp"
+}

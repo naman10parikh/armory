@@ -1,0 +1,7 @@
+{
+  "name": "nazar256-memheaven",
+  "description": "Self-hosted MCP memory server on Cloudflare Workers with semantic search and MemPalace organization.",
+  "source_repo": "nazar256/memheaven",
+  "source_url": "https://github.com/nazar256/memheaven",
+  "install": "# git clone --depth 1 https://github.com/nazar256/memheaven\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tscircuit-registry",
+  "description": "Integrates with the tscircuit electronics component registry to enable search, analysis, and code retrieval for electronic components and circuit packages with category filtering, detailed specifications, and electrical parameter extraction.",
+  "source_repo": "charlielockyer-rice/tscircuit-mcp",
+  "source_url": "https://github.com/charlielockyer-rice/tscircuit-mcp",
+  "install": "npx -y tscircuit-mcp"
+}

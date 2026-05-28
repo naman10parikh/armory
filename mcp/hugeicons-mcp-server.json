@@ -1,0 +1,7 @@
+{
+  "name": "hugeicons-mcp-server",
+  "description": "Integrate Hugeicons seamlessly into your applications. Discover icons, access platform-specific usage instructions, and enhance your projects with comprehensive documentation and examples.",
+  "source_repo": "",
+  "source_url": "https://hugeicons.com",
+  "install": "# git clone --depth 1 https://hugeicons.com\n# See source for mcpServers config block"
+}

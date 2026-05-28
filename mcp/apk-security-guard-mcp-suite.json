@@ -1,0 +1,7 @@
+{
+  "name": "apk-security-guard-mcp-suite",
+  "description": "Integrates multiple Android APK security analysis tools into MCP standard APIs for automated static and dynamic analysis and vulnerability detection.",
+  "source_repo": "zmbcen/APK-Security-Guard-MCP-Suite",
+  "source_url": "https://github.com/zmbcen/APK-Security-Guard-MCP-Suite",
+  "install": "# git clone --depth 1 https://github.com/zmbcen/APK-Security-Guard-MCP-Suite\n# See source for mcpServers config block"
+}

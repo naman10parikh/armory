@@ -1,0 +1,7 @@
+{
+  "name": "nayshins-ccxt-cryptocurrency-exchange",
+  "description": "Integrates with major cryptocurrency exchanges via CCXT to provide real-time and historical market data for analysis, trading, and portfolio tracking.",
+  "source_repo": "nayshins/mcp-server-ccxt",
+  "source_url": "https://github.com/nayshins/mcp-server-ccxt",
+  "install": "# git clone --depth 1 https://github.com/nayshins/mcp-server-ccxt\n# See source for mcpServers config block"
+}

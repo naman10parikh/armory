@@ -1,0 +1,7 @@
+{
+  "name": "open-agreements-open-agreements",
+  "description": "Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.",
+  "source_repo": "open-agreements/open-agreements",
+  "source_url": "https://github.com/open-agreements/open-agreements",
+  "install": "# git clone --depth 1 https://github.com/open-agreements/open-agreements\n# See source for mcpServers config block"
+}

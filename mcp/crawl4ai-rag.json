@@ -1,0 +1,7 @@
+{
+  "name": "crawl4ai-rag",
+  "description": "Combines web crawling with vector search to enable content extraction, semantic indexing, and retrieval-augmented generation over web-based documentation and code repositories.",
+  "source_repo": "tokidoo/crawl4ai-rag-mcp",
+  "source_url": "https://github.com/tokidoo/crawl4ai-rag-mcp",
+  "install": "npx -y crawl4ai-rag-mcp"
+}

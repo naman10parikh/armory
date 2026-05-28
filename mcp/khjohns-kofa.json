@@ -1,0 +1,7 @@
+{
+  "name": "khjohns-kofa",
+  "description": "Norwegian public procurement decisions from KOFA with full-text search, semantic search, and case filtering.",
+  "source_repo": "khjohns/kofa",
+  "source_url": "https://github.com/khjohns/kofa",
+  "install": "# git clone --depth 1 https://github.com/khjohns/kofa\n# See source for mcpServers config block"
+}

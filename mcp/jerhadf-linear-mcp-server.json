@@ -1,0 +1,7 @@
+{
+  "name": "jerhadf-linear-mcp-server",
+  "description": "Track and manage issues via Linear's project management API.",
+  "source_repo": "jerhadf/linear-mcp-server",
+  "source_url": "https://github.com/jerhadf/linear-mcp-server",
+  "install": "npx -y linear-mcp-server"
+}

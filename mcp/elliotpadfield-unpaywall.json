@@ -1,0 +1,7 @@
+{
+  "name": "elliotpadfield-unpaywall",
+  "description": "Integrates with Unpaywall's database to find open access versions of academic papers and retrieve publication metadata including DOIs, author details, and venue information for research and educational purposes.",
+  "source_repo": "elliotpadfield/unpaywall-mcp",
+  "source_url": "https://github.com/elliotpadfield/unpaywall-mcp",
+  "install": "npx -y unpaywall-mcp"
+}

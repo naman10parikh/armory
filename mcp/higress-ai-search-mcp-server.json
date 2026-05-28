@@ -1,0 +1,7 @@
+{
+  "name": "higress-ai-search-mcp-server",
+  "description": "Higress Ai Search Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "cr7258/higress-ai-search-mcp-server",
+  "source_url": "https://mcp.so/server/higress-ai-search-mcp-server/cr7258",
+  "install": "npx -y higress-ai-search-mcp-server"
+}

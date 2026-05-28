@@ -1,0 +1,7 @@
+{
+  "name": "polydev",
+  "description": "Query multiple LLMs simultaneously through one MCP server.",
+  "source_repo": "polydev-ai/polydev",
+  "source_url": "https://github.com/polydev-ai/polydev",
+  "install": "# git clone --depth 1 https://github.com/polydev-ai/polydev\n# See source for mcpServers config block"
+}

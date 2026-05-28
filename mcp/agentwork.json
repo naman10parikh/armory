@@ -1,0 +1,7 @@
+{
+  "name": "agentwork",
+  "description": "Delegates tasks to AI agents with human-in-the-loop approval for plans and solutions.",
+  "source_repo": "",
+  "source_url": "https://agentwork.so",
+  "install": "# git clone --depth 1 https://agentwork.so\n# See source for mcpServers config block"
+}

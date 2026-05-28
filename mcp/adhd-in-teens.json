@@ -1,0 +1,7 @@
+{
+  "name": "adhd-in-teens",
+  "description": "Provides searchable access to clinician-reviewed articles on ADHD in adolescents.",
+  "source_repo": "",
+  "source_url": "https://teenadhd.ai",
+  "install": "# git clone --depth 1 https://teenadhd.ai\n# See source for mcpServers config block"
+}

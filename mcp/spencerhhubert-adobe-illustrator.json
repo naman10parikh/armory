@@ -1,0 +1,7 @@
+{
+  "name": "spencerhhubert-adobe-illustrator",
+  "description": "Integrates with Adobe Illustrator on MacOS using JavaScript and AppleScript to enable creation and manipulation of vector graphics for automated design tasks.",
+  "source_repo": "spencerhhubert/illustrator-mcp-server",
+  "source_url": "https://github.com/spencerhhubert/illustrator-mcp-server",
+  "install": "npx -y illustrator-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gocertius",
+  "description": "Provides AI agents with certified evidence management, dossier creation, certified notifications, and certified chat through EAD Trust.",
+  "source_repo": "g-digital-by-garrigues/gocertius_mcp",
+  "source_url": "https://github.com/g-digital-by-garrigues/gocertius_mcp",
+  "install": "npx -y gocertius_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gbrigandi-cortex-threat-intelligence",
+  "description": "Integrates with Cortex threat intelligence services to analyze IP addresses, domains, URLs, and email addresses using security tools like AbuseIPDB, AbuseFinder, and VirusTotal for automated security assessments and investigations.",
+  "source_repo": "gbrigandi/mcp-server-cortex",
+  "source_url": "https://github.com/gbrigandi/mcp-server-cortex",
+  "install": "# git clone --depth 1 https://github.com/gbrigandi/mcp-server-cortex\n# See source for mcpServers config block"
+}

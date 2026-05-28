@@ -1,0 +1,7 @@
+{
+  "name": "found-cake-kali",
+  "description": "MCP server exposing Kali Linux security and penetration testing tools for use in authorized security research workflows.",
+  "source_repo": "found-cake/kali-mcp-go",
+  "source_url": "https://github.com/found-cake/kali-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/found-cake/kali-mcp-go\n# See source for mcpServers config block"
+}

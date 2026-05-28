@@ -1,0 +1,7 @@
+{
+  "name": "omniwaifu-arr-assistant",
+  "description": "Integrates with Radarr and Sonarr media management systems to search movies and TV shows, add content with automatic root folder detection, and monitor server connectivity for streamlined home media automation.",
+  "source_repo": "omniwaifu/arr-assistant-mcp",
+  "source_url": "https://github.com/omniwaifu/arr-assistant-mcp",
+  "install": "npx -y arr-assistant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "n0safe-directus",
+  "description": "Integrates with Directus CMS to enable CRUD operations on collections through the REST API, allowing seamless interaction with structured data in a headless content management system.",
+  "source_repo": "n0safe/directus-mcp",
+  "source_url": "https://github.com/n0safe/directus-mcp",
+  "install": "npx -y directus-mcp"
+}

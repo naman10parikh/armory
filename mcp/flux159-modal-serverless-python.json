@@ -1,0 +1,7 @@
+{
+  "name": "flux159-modal-serverless-python",
+  "description": "Integrates with Modal's serverless platform to deploy and execute Python scripts in the cloud, enabling efficient distributed computing and data processing.",
+  "source_repo": "flux159/mcp-server-modal",
+  "source_url": "https://github.com/flux159/mcp-server-modal",
+  "install": "# git clone --depth 1 https://github.com/flux159/mcp-server-modal\n# See source for mcpServers config block"
+}

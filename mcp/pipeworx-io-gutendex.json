@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-gutendex",
+  "description": "Search and retrieve public domain books from Project Gutenberg via the Gutendex API.",
+  "source_repo": "pipeworx-io/mcp-gutendex",
+  "source_url": "https://github.com/pipeworx-io/mcp-gutendex",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gutendex\n# See source for mcpServers config block"
+}

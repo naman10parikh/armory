@@ -1,0 +1,7 @@
+{
+  "name": "mshegolev-harbor-registry",
+  "description": "List Harbor projects, repositories, and artifacts; generate storage reports; and clean up untagged images with dry-run support.",
+  "source_repo": "mshegolev/harbor-registry-mcp",
+  "source_url": "https://github.com/mshegolev/harbor-registry-mcp",
+  "install": "npx -y harbor-registry-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "manolaz-amoca-solana",
+  "description": "Integrates with the Solana blockchain to enable wallet management, token trading, portfolio analysis, and NFT operations through Helius API and Jupiter swap integration.",
+  "source_repo": "manolaz/amoca-solana-mcp-server",
+  "source_url": "https://github.com/manolaz/amoca-solana-mcp-server",
+  "install": "npx -y amoca-solana-mcp-server"
+}

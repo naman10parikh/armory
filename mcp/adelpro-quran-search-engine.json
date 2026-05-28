@@ -1,0 +1,7 @@
+{
+  "name": "adelpro-quran-search-engine",
+  "description": "Provides Quran search with Arabic normalization, root-based matching, and highlighted results for AI tools to deliver accurate, hallucination-free Quranic text.",
+  "source_repo": "adelpro/quran-search-engine-mcp",
+  "source_url": "https://github.com/adelpro/quran-search-engine-mcp",
+  "install": "npx -y quran-search-engine-mcp"
+}

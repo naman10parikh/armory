@@ -1,0 +1,7 @@
+{
+  "name": "bvbrc-mcp-server",
+  "description": "MCP server for querying BV-BRC biological data, submitting analysis jobs (assembly, annotation, BLAST, etc.), and managing workspace files via natural language.",
+  "source_repo": "cucinellclark/bvbrc-mcp-server",
+  "source_url": "https://github.com/cucinellclark/bvbrc-mcp-server",
+  "install": "npx -y bvbrc-mcp-server"
+}

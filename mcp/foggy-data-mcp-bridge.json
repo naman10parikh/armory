@@ -1,0 +1,7 @@
+{
+  "name": "foggy-data-mcp-bridge",
+  "description": "A semantic layer query engine with MCP support, enabling AI assistants to query structured data through natural language and declarative interfaces.",
+  "source_repo": "foggy-projects/foggy-data-mcp-bridge-python",
+  "source_url": "https://github.com/foggy-projects/foggy-data-mcp-bridge-python",
+  "install": "# git clone --depth 1 https://github.com/foggy-projects/foggy-data-mcp-bridge-python\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aeoess-mingle-mcp",
+  "description": "Agent-to-agent networking. Your AI publishes what you need, matches with other people's agents, both humans approve before connecting. 6 tools, Ed25519 signed, shared network at api.aeoess.com.",
+  "source_repo": "aeoess/mingle-mcp",
+  "source_url": "https://github.com/aeoess/mingle-mcp",
+  "install": "npx -y mingle-mcp"
+}

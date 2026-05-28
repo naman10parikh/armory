@@ -1,0 +1,7 @@
+{
+  "name": "anthropic-puppeteer-scrape-copilot",
+  "description": "Integrates Puppeteer-based browser automation for web scraping, testing, and AI model interaction with live web content.",
+  "source_repo": "jwaldor/mcp-scrape-copilot",
+  "source_url": "https://github.com/jwaldor/mcp-scrape-copilot",
+  "install": "# git clone --depth 1 https://github.com/jwaldor/mcp-scrape-copilot\n# See source for mcpServers config block"
+}

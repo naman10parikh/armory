@@ -1,0 +1,7 @@
+{
+  "name": "gh-samoradc-tetrad",
+  "description": "Multi-model code validation using quadruple consensus from Codex, Gemini, and Qwen.",
+  "source_repo": "samoradc/tetrad",
+  "source_url": "https://github.com/samoradc/tetrad",
+  "install": "# git clone --depth 1 https://github.com/samoradc/tetrad\n# See source for mcpServers config block"
+}

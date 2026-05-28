@@ -1,0 +1,7 @@
+{
+  "name": "nyaypalak-core",
+  "description": "Nyaypalak Core MCP server listed on mcp.so.",
+  "source_repo": "rajiverpai/nyaypalak-core",
+  "source_url": "https://mcp.so/server/nyaypalak-core/rajiverpai",
+  "install": "# git clone --depth 1 https://mcp.so/server/nyaypalak-core/rajiverpai\n# See source for mcpServers config block"
+}

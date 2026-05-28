@@ -1,0 +1,7 @@
+{
+  "name": "pizza-mcp-server",
+  "description": "Enables AI agents to browse pizza menus, place orders, and track order status via the Model Context Protocol.",
+  "source_repo": "Azure-Samples/pizza-mcp-agents",
+  "source_url": "https://github.com/Azure-Samples/pizza-mcp-agents",
+  "install": "# git clone --depth 1 https://github.com/Azure-Samples/pizza-mcp-agents\n# See source for mcpServers config block"
+}

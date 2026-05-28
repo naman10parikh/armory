@@ -1,0 +1,7 @@
+{
+  "name": "mattydsmith-things-cloud",
+  "description": "Full read/write access to Things 3 task manager via reverse-engineered cloud SDK.",
+  "source_repo": "mattydsmith/things-cloud-mcp",
+  "source_url": "https://github.com/mattydsmith/things-cloud-mcp",
+  "install": "npx -y things-cloud-mcp"
+}

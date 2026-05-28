@@ -1,0 +1,7 @@
+{
+  "name": "skillrepo",
+  "description": "Governed AI agent skill registry — discover, fetch, and share SKILL.md files via remote MCP.",
+  "source_repo": "skill-repo/skill-repo",
+  "source_url": "https://github.com/skill-repo/skill-repo",
+  "install": "# git clone --depth 1 https://github.com/skill-repo/skill-repo\n# See source for mcpServers config block"
+}

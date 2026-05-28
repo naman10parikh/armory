@@ -1,0 +1,7 @@
+{
+  "name": "mcp-desktop",
+  "description": "macOS desktop automation enabling AI agents to screenshot, switch apps and tabs, click, type, and scroll. Offers two trust levels: read-only screenshot and full UI control.",
+  "source_repo": "mocha06/mcp-desktop",
+  "source_url": "https://github.com/mocha06/mcp-desktop",
+  "install": "# git clone --depth 1 https://github.com/mocha06/mcp-desktop\n# See source for mcpServers config block"
+}

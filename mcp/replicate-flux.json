@@ -1,0 +1,7 @@
+{
+  "name": "replicate-flux",
+  "description": "Replicate Flux MCP server listed on mcp.so.",
+  "source_repo": "andylee20014/replicate-flux",
+  "source_url": "https://mcp.so/server/replicate-flux/andylee20014",
+  "install": "# git clone --depth 1 https://mcp.so/server/replicate-flux/andylee20014\n# See source for mcpServers config block"
+}

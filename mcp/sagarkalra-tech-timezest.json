@@ -1,0 +1,7 @@
+{
+  "name": "sagarkalra-tech-timezest",
+  "description": "Manage TimeZest appointments, pending requests, and ticket schedules for MSP workflows.",
+  "source_repo": "sagarkalra-tech/timezest-mcp",
+  "source_url": "https://github.com/sagarkalra-tech/timezest-mcp",
+  "install": "npx -y timezest-mcp"
+}

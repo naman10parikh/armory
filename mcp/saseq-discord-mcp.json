@@ -1,0 +1,7 @@
+{
+  "name": "saseq-discord-mcp",
+  "description": "A MCP server for the Discord integration. Enable your AI assistants to seamlessly interact with Discord. Enhance your Discord experience with powerful automation capabilities.",
+  "source_repo": "SaseQ/discord-mcp",
+  "source_url": "https://github.com/SaseQ/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

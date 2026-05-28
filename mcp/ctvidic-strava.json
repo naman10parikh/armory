@@ -1,0 +1,7 @@
+{
+  "name": "ctvidic-strava",
+  "description": "Integrates with the Strava API to enable access to fitness tracking data and activity information for analyzing workout patterns and athletic performance.",
+  "source_repo": "ctvidic/strava-mcp-server",
+  "source_url": "https://github.com/ctvidic/strava-mcp-server",
+  "install": "npx -y strava-mcp-server"
+}

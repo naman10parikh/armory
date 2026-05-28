@@ -1,0 +1,7 @@
+{
+  "name": "block-vscode",
+  "description": "Enables direct interaction with VS Code through bidirectional communication, providing tools for file diffing, project navigation, shell command execution, and editor information retrieval for seamless coding assistance.",
+  "source_repo": "block/vscode-mcp",
+  "source_url": "https://github.com/block/vscode-mcp",
+  "install": "npx -y vscode-mcp"
+}

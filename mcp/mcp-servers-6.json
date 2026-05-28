@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-6",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "mudit14224/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/mudit14224",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/mudit14224\n# See source for mcpServers config block"
+}

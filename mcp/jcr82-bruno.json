@@ -1,0 +1,7 @@
+{
+  "name": "jcr82-bruno",
+  "description": "Integrates with Bruno CLI to provide API testing capabilities including request execution, collection management, environment handling, and automated test report generation for development workflows and CI/CD pipelines.",
+  "source_repo": "jcr82/bruno-mcp-server",
+  "source_url": "https://github.com/jcr82/bruno-mcp-server",
+  "install": "npx -y bruno-mcp-server"
+}

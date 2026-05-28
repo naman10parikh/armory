@@ -1,0 +1,7 @@
+{
+  "name": "frontapp-mcp",
+  "description": "Frontapp MCP MCP server listed on mcp.so.",
+  "source_repo": "zqushair/Frontapp-MCP",
+  "source_url": "https://mcp.so/server/Frontapp-MCP/zqushair",
+  "install": "npx -y Frontapp-MCP"
+}

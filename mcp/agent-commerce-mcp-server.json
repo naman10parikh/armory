@@ -1,0 +1,7 @@
+{
+  "name": "agent-commerce-mcp-server",
+  "description": "Enables AI agents to create, compare, and track purchases with structured buying workflows, offer comparison, and merchant verification.",
+  "source_repo": "AiAgentKarl/agent-commerce-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-commerce-mcp-server",
+  "install": "npx -y agent-commerce-mcp-server"
+}

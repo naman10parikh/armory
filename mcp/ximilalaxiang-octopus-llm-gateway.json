@@ -1,0 +1,7 @@
+{
+  "name": "ximilalaxiang-octopus-llm-gateway",
+  "description": "Manages a self-hosted Octopus LLM API gateway with tools for channels, API keys, model groups, pricing, and usage statistics.",
+  "source_repo": "ximilalaxiang/octopus-mcp",
+  "source_url": "https://github.com/ximilalaxiang/octopus-mcp",
+  "install": "npx -y octopus-mcp"
+}

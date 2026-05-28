@@ -1,0 +1,7 @@
+{
+  "name": "adas",
+  "description": "Design, validate, and deploy complex automated skills and cross-skill solutions with confidence. Accelerate development using built-in templates, examples, and a rigorous five-stage validation pipeline. Monitor and update deployed services incrementally to maintain high-quality system performance.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/ateam-ai/ateam",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/ateam-ai/ateam\n# See source for mcpServers config block"
+}

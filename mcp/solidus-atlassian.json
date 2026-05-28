@@ -1,0 +1,7 @@
+{
+  "name": "solidus-atlassian",
+  "description": "Integrates with Atlassian's collaboration ecosystem, enabling developers to search, create, update, and manage Jira, Confluence, and Bitbucket issues through a flexible TypeScript-based implementation.",
+  "source_repo": "solidus-/atlassian-cursor-mcp",
+  "source_url": "https://github.com/solidus-/atlassian-cursor-mcp",
+  "install": "npx -y atlassian-cursor-mcp"
+}

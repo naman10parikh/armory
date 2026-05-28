@@ -1,0 +1,7 @@
+{
+  "name": "duyhuynh-dev-finance-simulator",
+  "description": "Paper-trading simulation system with ledger-based trading, policy enforcement, and risk management tools.",
+  "source_repo": "duyhuynh-dev/mcp-finance",
+  "source_url": "https://github.com/duyhuynh-dev/mcp-finance",
+  "install": "# git clone --depth 1 https://github.com/duyhuynh-dev/mcp-finance\n# See source for mcpServers config block"
+}

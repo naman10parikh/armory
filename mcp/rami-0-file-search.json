@@ -1,0 +1,7 @@
+{
+  "name": "rami-0-file-search",
+  "description": "Provides a robust file search service, enabling efficient querying of local directories with detailed results including file metadata and content matching.",
+  "source_repo": "rami-0/python_mcp",
+  "source_url": "https://github.com/rami-0/python_mcp",
+  "install": "npx -y python_mcp"
+}

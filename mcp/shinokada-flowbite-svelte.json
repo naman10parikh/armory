@@ -1,0 +1,7 @@
+{
+  "name": "shinokada-flowbite-svelte",
+  "description": "Provides direct access to Flowbite-Svelte component documentation through specialized tools for finding components, retrieving detailed docs, browsing available components, and performing full-text searches across the complete documentation library.",
+  "source_repo": "shinokada/flowbite-svelte-mcp",
+  "source_url": "https://github.com/shinokada/flowbite-svelte-mcp",
+  "install": "npx -y flowbite-svelte-mcp"
+}

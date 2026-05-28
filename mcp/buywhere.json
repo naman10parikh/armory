@@ -1,0 +1,7 @@
+{
+  "name": "buywhere",
+  "description": "Search millions of products across global platforms with AI-powered price comparison and deal discovery.",
+  "source_repo": "buywhere/buywhere-mcp",
+  "source_url": "https://github.com/buywhere/buywhere-mcp",
+  "install": "npx -y buywhere-mcp"
+}

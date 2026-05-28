@@ -1,0 +1,7 @@
+{
+  "name": "stuzero-pg",
+  "description": "Enables AI to discover, connect to, and query PostgreSQL databases with multi-database support, rich schema information, and secure read-only transactions without exposing sensitive connection details.",
+  "source_repo": "stuzero/pg-mcp",
+  "source_url": "https://github.com/stuzero/pg-mcp",
+  "install": "npx -y pg-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "us-all-google-drive",
+  "description": "Community MCP integration for Google Drive and Workspace, enabling AI agents to access Docs, Sheets, Slides, and Shared Drives.",
+  "source_repo": "us-all/google-drive-mcp-server",
+  "source_url": "https://github.com/us-all/google-drive-mcp-server",
+  "install": "npx -y google-drive-mcp-server"
+}

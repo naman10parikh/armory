@@ -1,0 +1,7 @@
+{
+  "name": "onshape-mcp-server",
+  "description": "Enables programmatic CAD modeling with Onshape's REST API, offering 45 tools for parametric sketches, feature management, assemblies, analysis, variables, and exports.",
+  "source_repo": "hedless/onshape-mcp",
+  "source_url": "https://github.com/hedless/onshape-mcp",
+  "install": "npx -y onshape-mcp"
+}

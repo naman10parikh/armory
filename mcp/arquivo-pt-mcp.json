@@ -1,0 +1,7 @@
+{
+  "name": "arquivo-pt-mcp",
+  "description": "An MCP server that enables Claude and other LLMs to search and access archived Portuguese web content from Arquivo.pt, including full-text search, image search, version listing, and snapshot retrieval.",
+  "source_repo": "thaenor/arquivo-pt-mcp",
+  "source_url": "https://github.com/thaenor/arquivo-pt-mcp",
+  "install": "npx -y arquivo-pt-mcp"
+}

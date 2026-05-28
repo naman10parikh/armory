@@ -1,0 +1,7 @@
+{
+  "name": "ilask-redmine",
+  "description": "Integrates with Redmine to enable project management tasks like accessing project details and creating issues through a custom API built on the node-redmine library.",
+  "source_repo": "papunoko/redmine-mcp",
+  "source_url": "https://github.com/papunoko/redmine-mcp",
+  "install": "npx -y redmine-mcp"
+}

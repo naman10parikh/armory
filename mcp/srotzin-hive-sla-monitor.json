@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-sla-monitor",
+  "description": "Observes uptime and latency for registered A2A network endpoints on a 60-second probe schedule with USDC metering.",
+  "source_repo": "srotzin/hive-mcp-sla-monitor",
+  "source_url": "https://github.com/srotzin/hive-mcp-sla-monitor",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-sla-monitor\n# See source for mcpServers config block"
+}

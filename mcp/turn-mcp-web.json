@@ -1,0 +1,7 @@
+{
+  "name": "turn-mcp-web",
+  "description": "Enables human-in-the-loop checkpoints for AI agents, allowing them to pause and wait for human input via a web UI, then seamlessly resume execution.",
+  "source_repo": "shiahonb777/turn-mcp",
+  "source_url": "https://github.com/shiahonb777/turn-mcp",
+  "install": "npx -y turn-mcp"
+}

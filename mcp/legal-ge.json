@@ -1,0 +1,7 @@
+{
+  "name": "legal-ge",
+  "description": "Find verified legal specialists in Georgia from natural-language queries in Georgian, English, and Russian.",
+  "source_repo": "infolegalge/legal.ge-mcp",
+  "source_url": "https://github.com/infolegalge/legal.ge-mcp",
+  "install": "npx -y legal.ge-mcp"
+}

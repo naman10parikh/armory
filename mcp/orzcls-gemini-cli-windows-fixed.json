@@ -1,0 +1,7 @@
+{
+  "name": "orzcls-gemini-cli-windows-fixed",
+  "description": "Windows-compatible Gemini CLI integration that addresses character encoding and parameter handling issues, providing PowerShell integration with automatic executable detection, multiple model support, sandbox mode for safe code execution, and specialized tools for brainstorming and structured editing.",
+  "source_repo": "orzcls/gemini-mcp-tool-windows-fixed",
+  "source_url": "https://github.com/orzcls/gemini-mcp-tool-windows-fixed",
+  "install": "# git clone --depth 1 https://github.com/orzcls/gemini-mcp-tool-windows-fixed\n# See source for mcpServers config block"
+}

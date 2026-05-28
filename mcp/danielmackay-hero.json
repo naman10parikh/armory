@@ -1,0 +1,7 @@
+{
+  "name": "danielmackay-hero",
+  "description": "Provides a .NET-based superhero team management API for creating and managing heroes with various superpowers, forming teams, and executing missions with tracking capabilities.",
+  "source_repo": "danielmackay/dotnet-mcp-hero",
+  "source_url": "https://github.com/danielmackay/dotnet-mcp-hero",
+  "install": "# git clone --depth 1 https://github.com/danielmackay/dotnet-mcp-hero\n# See source for mcpServers config block"
+}

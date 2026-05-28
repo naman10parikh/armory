@@ -1,0 +1,7 @@
+{
+  "name": "bingowon-apple-rag",
+  "description": "Provides semantic search and retrieval for Apple Developer Documentation using vector similarity search, keyword matching, and reranking to deliver relevant technical documentation and API references",
+  "source_repo": "bingowon/apple-rag-mcp",
+  "source_url": "https://github.com/bingowon/apple-rag-mcp",
+  "install": "npx -y apple-rag-mcp"
+}

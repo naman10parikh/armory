@@ -1,0 +1,7 @@
+{
+  "name": "sparfenyuk-youtube-transcript-downloader",
+  "description": "Bridges YouTube API to download closed captions, enabling video transcript analysis and content processing.",
+  "source_repo": "sparfenyuk/mcp-youtube",
+  "source_url": "https://github.com/sparfenyuk/mcp-youtube",
+  "install": "# git clone --depth 1 https://github.com/sparfenyuk/mcp-youtube\n# See source for mcpServers config block"
+}

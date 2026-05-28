@@ -1,0 +1,7 @@
+{
+  "name": "hylouis233-bibverify",
+  "description": "Verifies and updates BibTeX references through multiple academic databases with DOI-first lookup.",
+  "source_repo": "hylouis233/bibverify",
+  "source_url": "https://github.com/hylouis233/bibverify",
+  "install": "# git clone --depth 1 https://github.com/hylouis233/bibverify\n# See source for mcpServers config block"
+}

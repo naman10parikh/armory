@@ -1,0 +1,7 @@
+{
+  "name": "vibecom-growth",
+  "description": "Access VibeCom's AI startup validation platform for idea validation, competitor analysis, market sizing, PRD generation, and GTM strategy via an authenticated MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://www.vibecom.app/api/mcp/growth",
+  "install": "# git clone --depth 1 https://www.vibecom.app/api/mcp/growth\n# See source for mcpServers config block"
+}

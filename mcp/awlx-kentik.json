@@ -1,0 +1,7 @@
+{
+  "name": "awlx-kentik",
+  "description": "Integrates with the Kentik network observability platform to query flow data, manage devices and interfaces, monitor synthetic tests, and analyze traffic patterns.",
+  "source_repo": "awlx/kentik-mcp",
+  "source_url": "https://github.com/awlx/kentik-mcp",
+  "install": "npx -y kentik-mcp"
+}

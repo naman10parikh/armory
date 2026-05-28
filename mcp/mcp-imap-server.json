@@ -1,0 +1,7 @@
+{
+  "name": "mcp-imap-server",
+  "description": "Enables LLMs to read, search, and manage emails via IMAP with secure, read-only access to email accounts.",
+  "source_repo": "mattias242/mcp-imap-server",
+  "source_url": "https://github.com/mattias242/mcp-imap-server",
+  "install": "# git clone --depth 1 https://github.com/mattias242/mcp-imap-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "celestine-2",
+  "description": "MCP server for astrological calculations — birth charts, transits, progressions, and calendar generation",
+  "source_repo": "",
+  "source_url": "https://bouch.dev/products/celestine-mcp/",
+  "install": "# git clone --depth 1 https://bouch.dev/products/celestine-mcp/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jasonsum-gmail",
+  "description": "Integrates with Gmail API to enable email operations like sending, managing labels, and searching messages.",
+  "source_repo": "jasonsum/gmail-mcp-server",
+  "source_url": "https://github.com/jasonsum/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

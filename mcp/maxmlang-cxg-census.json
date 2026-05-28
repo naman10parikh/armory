@@ -1,0 +1,7 @@
+{
+  "name": "maxmlang-cxg-census",
+  "description": "Query the Chan Zuckerberg CELLxGENE Discover Census single-cell atlas with ontology-aware filters.",
+  "source_repo": "maxmlang/cxg-census-mcp",
+  "source_url": "https://github.com/maxmlang/cxg-census-mcp",
+  "install": "npx -y cxg-census-mcp"
+}

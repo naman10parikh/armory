@@ -1,0 +1,7 @@
+{
+  "name": "dzplus-mysql-database-query",
+  "description": "Enables AI systems to execute and retrieve data from MySQL databases through a Spring Boot server that translates natural language requests into SQL queries.",
+  "source_repo": "dzplus/ai-mcp-server",
+  "source_url": "https://github.com/dzplus/ai-mcp-server",
+  "install": "npx -y ai-mcp-server"
+}

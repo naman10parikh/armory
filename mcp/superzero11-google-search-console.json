@@ -1,0 +1,7 @@
+{
+  "name": "superzero11-google-search-console",
+  "description": "Integrates with Google Search Console using OAuth2 or service account authentication to provide search analytics queries, SEO opportunity analysis, sitemap management, URL inspection, and automated performance reporting.",
+  "source_repo": "appsyogi-com/gsc-mcp-server",
+  "source_url": "https://github.com/appsyogi-com/gsc-mcp-server",
+  "install": "npx -y gsc-mcp-server"
+}

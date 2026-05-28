@@ -1,0 +1,7 @@
+{
+  "name": "rewind-mcp",
+  "description": "Enables developers to recover their working context after interruptions by analyzing git state, file activity, editor state, and shell history.",
+  "source_repo": "vinitshahdeo/rewind-mcp",
+  "source_url": "https://github.com/vinitshahdeo/rewind-mcp",
+  "install": "npx -y rewind-mcp"
+}

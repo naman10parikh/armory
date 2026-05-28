@@ -1,0 +1,7 @@
+{
+  "name": "tanush-yadav-shopify",
+  "description": "Integrates with Shopify's GraphQL API to enable e-commerce management tasks like inventory tracking, customer segmentation, order processing, and promotional campaign creation without switching interfaces.",
+  "source_repo": "tanush-yadav/shopify-mcp",
+  "source_url": "https://github.com/tanush-yadav/shopify-mcp",
+  "install": "npx -y shopify-mcp"
+}

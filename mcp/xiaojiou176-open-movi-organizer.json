@@ -1,0 +1,7 @@
+{
+  "name": "xiaojiou176-open-movi-organizer",
+  "description": "Review-first local file organizer for photos, screenshots, documents, and audio with AI-assisted drafting.",
+  "source_repo": "xiaojiou176-open/movi-organizer",
+  "source_url": "https://github.com/xiaojiou176-open/movi-organizer",
+  "install": "# git clone --depth 1 https://github.com/xiaojiou176-open/movi-organizer\n# See source for mcpServers config block"
+}

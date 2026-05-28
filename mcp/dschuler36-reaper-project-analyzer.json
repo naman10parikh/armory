@@ -1,0 +1,7 @@
+{
+  "name": "dschuler36-reaper-project-analyzer",
+  "description": "Integrates with Reaper digital audio workstation to extract structured data from project files, enabling analysis and interaction with audio production elements.",
+  "source_repo": "dschuler36/reaper-mcp-server",
+  "source_url": "https://github.com/dschuler36/reaper-mcp-server",
+  "install": "npx -y reaper-mcp-server"
+}

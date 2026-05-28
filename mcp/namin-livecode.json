@@ -1,0 +1,7 @@
+{
+  "name": "namin-livecode",
+  "description": "Executes code snippets from GitHub repositories on io.livecode.ch's backend, enabling live code execution across various languages and frameworks without local setup.",
+  "source_repo": "namin/livecode-mcp",
+  "source_url": "https://github.com/namin/livecode-mcp",
+  "install": "npx -y livecode-mcp"
+}

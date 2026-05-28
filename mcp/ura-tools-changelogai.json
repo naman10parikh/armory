@@ -1,0 +1,7 @@
+{
+  "name": "ura-tools-changelogai",
+  "description": "AI-powered changelog generator that creates professional release notes from git history.",
+  "source_repo": "ura-tools/changelogai",
+  "source_url": "https://github.com/ura-tools/changelogai",
+  "install": "# git clone --depth 1 https://github.com/ura-tools/changelogai\n# See source for mcpServers config block"
+}

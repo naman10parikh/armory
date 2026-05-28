@@ -1,0 +1,7 @@
+{
+  "name": "dialer",
+  "description": "Make outbound phone calls using your phone number.",
+  "source_repo": "",
+  "source_url": "https://getdialer.app",
+  "install": "# git clone --depth 1 https://getdialer.app\n# See source for mcpServers config block"
+}

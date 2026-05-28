@@ -1,0 +1,7 @@
+{
+  "name": "govuk-2",
+  "description": "MCP server for GOV.UK — search, content drill-down, organisations, and postcode lookup.",
+  "source_repo": "",
+  "source_url": "https://bouch.dev/products/govuk-mcp/",
+  "install": "# git clone --depth 1 https://bouch.dev/products/govuk-mcp/\n# See source for mcpServers config block"
+}

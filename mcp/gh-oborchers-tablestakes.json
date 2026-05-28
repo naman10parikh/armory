@@ -1,0 +1,7 @@
+{
+  "name": "gh-oborchers-tablestakes",
+  "description": "Read and edit HTML and Markdown tables in GitBook-synced documents with token-efficient pipe format conversion.",
+  "source_repo": "oborchers/tablestakes",
+  "source_url": "https://github.com/oborchers/tablestakes",
+  "install": "# git clone --depth 1 https://github.com/oborchers/tablestakes\n# See source for mcpServers config block"
+}

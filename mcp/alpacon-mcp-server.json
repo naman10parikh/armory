@@ -1,0 +1,7 @@
+{
+  "name": "alpacon-mcp-server",
+  "description": "Enables AI assistants to securely access and manage servers via Alpacon's zero-trust platform, allowing natural language command execution, file transfer, and monitoring without SSH keys or VPNs.",
+  "source_repo": "alpacax/alpacon-mcp",
+  "source_url": "https://github.com/alpacax/alpacon-mcp",
+  "install": "npx -y alpacon-mcp"
+}

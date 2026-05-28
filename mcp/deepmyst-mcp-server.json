@@ -1,0 +1,7 @@
+{
+  "name": "deepmyst-mcp-server",
+  "description": "Enables intelligent LLM optimization and routing for Claude Desktop and HTTP clients, reducing token usage and automatically selecting the best model for each query.",
+  "source_repo": "DeepMyst/DeepMyst-MCP",
+  "source_url": "https://github.com/DeepMyst/DeepMyst-MCP",
+  "install": "npx -y DeepMyst-MCP"
+}

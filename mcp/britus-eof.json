@@ -1,0 +1,7 @@
+{
+  "name": "britus-eof",
+  "description": "Qt-based source code management providing file operations and metadata extraction for local development workflows",
+  "source_repo": "britus/eofmcp",
+  "source_url": "https://github.com/britus/eofmcp",
+  "install": "# git clone --depth 1 https://github.com/britus/eofmcp\n# See source for mcpServers config block"
+}

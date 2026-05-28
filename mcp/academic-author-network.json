@@ -1,0 +1,7 @@
+{
+  "name": "academic-author-network",
+  "description": "Aggregates academic data from Semantic Scholar, OpenAlex, Crossref, and Google Scholar to discover research collaborators with collaboration frequency counts and extract research keywords from scholar profiles for academic network analysis and collaboration mapping.",
+  "source_repo": "alperenkocyigit/authorprofilemcp",
+  "source_url": "https://github.com/alperenkocyigit/authorprofilemcp",
+  "install": "# git clone --depth 1 https://github.com/alperenkocyigit/authorprofilemcp\n# See source for mcpServers config block"
+}

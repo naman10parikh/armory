@@ -1,0 +1,7 @@
+{
+  "name": "ctaylor86-rendi",
+  "description": "Cloud-based FFmpeg video and audio processing through Rendi API for transcoding, format conversion, and media analysis",
+  "source_repo": "ctaylor86/rendi-mcp-server",
+  "source_url": "https://github.com/ctaylor86/rendi-mcp-server",
+  "install": "npx -y rendi-mcp-server"
+}

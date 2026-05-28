@@ -1,0 +1,7 @@
+{
+  "name": "network-sketcher",
+  "description": "AI-native MCP server for designing and managing Cisco network diagrams — L1/L2/L3, PPT and SVG output.",
+  "source_repo": "cisco-open/network-sketcher",
+  "source_url": "https://github.com/cisco-open/network-sketcher",
+  "install": "# git clone --depth 1 https://github.com/cisco-open/network-sketcher\n# See source for mcpServers config block"
+}

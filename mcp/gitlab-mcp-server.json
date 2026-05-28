@@ -1,0 +1,7 @@
+{
+  "name": "gitlab-mcp-server",
+  "description": "Enables GitLab integration through MCP, supporting code review and project management via natural language.",
+  "source_repo": "radostkali/gitlab-mcp-server",
+  "source_url": "https://github.com/radostkali/gitlab-mcp-server",
+  "install": "npx -y gitlab-mcp-server"
+}

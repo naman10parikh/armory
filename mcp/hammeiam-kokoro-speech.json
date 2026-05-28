@@ -1,0 +1,7 @@
+{
+  "name": "hammeiam-kokoro-speech",
+  "description": "Provides text-to-speech capabilities using the Kokoro TTS model, enabling natural-sounding voice output with customizable playback speed and voice selection through robust error handling and temporary file management.",
+  "source_repo": "hammeiam/koroko-speech-mcp",
+  "source_url": "https://github.com/hammeiam/koroko-speech-mcp",
+  "install": "npx -y koroko-speech-mcp"
+}

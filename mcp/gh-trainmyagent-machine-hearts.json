@@ -1,0 +1,7 @@
+{
+  "name": "gh-trainmyagent-machine-hearts",
+  "description": "Autonomous agent matchmaking and relationship management for the Machine Hearts platform.",
+  "source_repo": "trainmyagent/machinehearts",
+  "source_url": "https://github.com/trainmyagent/machinehearts",
+  "install": "# git clone --depth 1 https://github.com/trainmyagent/machinehearts\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qiangmzsx-filesystem",
+  "description": "Go-based filesystem server that provides secure, controlled access to local files and directories through tools for browsing, reading, writing, and manipulating content with robust path validation.",
+  "source_repo": "qiangmzsx/mcp-filesystem-server",
+  "source_url": "https://github.com/qiangmzsx/mcp-filesystem-server",
+  "install": "# git clone --depth 1 https://github.com/qiangmzsx/mcp-filesystem-server\n# See source for mcpServers config block"
+}

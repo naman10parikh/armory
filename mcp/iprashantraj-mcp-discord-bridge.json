@@ -1,0 +1,7 @@
+{
+  "name": "iprashantraj-mcp-discord-bridge",
+  "description": "Discord MCP server with 46 tools for channels, messages, forums, webhooks, members, roles, threads, and moderation. Zero-install via `npx -y mcp-discord-bridge`. Also runs as a standalone bot with slash commands.",
+  "source_repo": "iprashantraj/mcp-discord-bridge",
+  "source_url": "https://github.com/iprashantraj/mcp-discord-bridge",
+  "install": "# git clone --depth 1 https://github.com/iprashantraj/mcp-discord-bridge\n# See source for mcpServers config block"
+}

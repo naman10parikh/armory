@@ -1,0 +1,7 @@
+{
+  "name": "moshe-ship-wasl",
+  "description": "Arabic-language Islamic tools, linguistic utilities, and financial calculators for AI assistants.",
+  "source_repo": "moshe-ship/wasl",
+  "source_url": "https://github.com/moshe-ship/wasl",
+  "install": "# git clone --depth 1 https://github.com/moshe-ship/wasl\n# See source for mcpServers config block"
+}

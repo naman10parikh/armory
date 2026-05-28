@@ -1,0 +1,7 @@
+{
+  "name": "wikipedia-mcp-image-crawler",
+  "description": "Enables searching and retrieving images from Wikipedia Commons with detailed metadata including licenses and authors.",
+  "source_repo": "dazeb/wikipedia-mcp-image-crawler",
+  "source_url": "https://github.com/dazeb/wikipedia-mcp-image-crawler",
+  "install": "# git clone --depth 1 https://github.com/dazeb/wikipedia-mcp-image-crawler\n# See source for mcpServers config block"
+}

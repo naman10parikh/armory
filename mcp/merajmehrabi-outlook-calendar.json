@@ -1,0 +1,7 @@
+{
+  "name": "merajmehrabi-outlook-calendar",
+  "description": "Integrates with Microsoft Outlook Calendar to enable event management, scheduling, and attendee status updates for enhanced productivity workflows.",
+  "source_repo": "merajmehrabi/outlook_calendar_mcp",
+  "source_url": "https://github.com/merajmehrabi/outlook_calendar_mcp",
+  "install": "npx -y outlook_calendar_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erniebrodeur-grep",
+  "description": "Exposes the system grep binary's functionality for searching files with regular expressions, supporting common options like case-insensitive matching, context lines, and recursive directory searching.",
+  "source_repo": "erniebrodeur/mcp-grep",
+  "source_url": "https://github.com/erniebrodeur/mcp-grep",
+  "install": "# git clone --depth 1 https://github.com/erniebrodeur/mcp-grep\n# See source for mcpServers config block"
+}

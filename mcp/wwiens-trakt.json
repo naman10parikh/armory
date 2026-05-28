@@ -1,0 +1,7 @@
+{
+  "name": "wwiens-trakt",
+  "description": "Bridge to the Trakt.tv API, allowing LLMs to access real-time entertainment data and personal Trakt viewing history.",
+  "source_repo": "wwiens/trakt_mcpserver",
+  "source_url": "https://github.com/wwiens/trakt_mcpserver",
+  "install": "# git clone --depth 1 https://github.com/wwiens/trakt_mcpserver\n# See source for mcpServers config block"
+}

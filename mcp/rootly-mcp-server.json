@@ -1,0 +1,7 @@
+{
+  "name": "rootly-mcp-server",
+  "description": "Rootly MCP Server MCP server listed on mcp.so.",
+  "source_repo": "Rootly-AI-Labs/Rootly-MCP-server",
+  "source_url": "https://mcp.so/server/Rootly-MCP-server/Rootly-AI-Labs",
+  "install": "npx -y Rootly-MCP-server"
+}

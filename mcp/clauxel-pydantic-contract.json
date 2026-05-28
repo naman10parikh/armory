@@ -1,0 +1,7 @@
+{
+  "name": "clauxel-pydantic-contract",
+  "description": "Validates Pydantic AI structured output with verdicts, receipts, usage logs, and audit-ready records.",
+  "source_repo": "clauxel/pydantic-contract-mcp",
+  "source_url": "https://github.com/clauxel/pydantic-contract-mcp",
+  "install": "npx -y pydantic-contract-mcp"
+}

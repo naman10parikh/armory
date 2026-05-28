@@ -1,0 +1,7 @@
+{
+  "name": "webboy-jira",
+  "description": "Integrates with Jira Cloud API to provide comprehensive issue management including creation, searching, workflow transitions, comments, attachments, and worklog tracking across multiple projects for streamlined development and project management workflows.",
+  "source_repo": "webboy/mcp-jira",
+  "source_url": "https://github.com/webboy/mcp-jira",
+  "install": "# git clone --depth 1 https://github.com/webboy/mcp-jira\n# See source for mcpServers config block"
+}

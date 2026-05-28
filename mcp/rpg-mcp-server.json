@@ -1,0 +1,7 @@
+{
+  "name": "rpg-mcp-server",
+  "description": "An immersive Role-Playing Game server built on the Model Context Protocol for interactive storytelling with AI assistants like Claude.",
+  "source_repo": "fritzprix/role-playing-mcp-server",
+  "source_url": "https://github.com/fritzprix/role-playing-mcp-server",
+  "install": "npx -y role-playing-mcp-server"
+}

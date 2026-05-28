@@ -1,0 +1,7 @@
+{
+  "name": "gucceed-norric",
+  "description": "Swedish B2B intelligence covering insolvency risk, BRF health, and procurement signals from government registries.",
+  "source_repo": "gucceed/norric-mcp",
+  "source_url": "https://github.com/gucceed/norric-mcp",
+  "install": "npx -y norric-mcp"
+}

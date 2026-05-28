@@ -1,0 +1,7 @@
+{
+  "name": "tuhalang-ruby-console",
+  "description": "Persistent Ruby console interaction with session state preservation, supporting Rails console, IRB, and Racksh environments for querying models, inspecting data, and executing Ruby code while maintaining variables and application context across commands.",
+  "source_repo": "tuhalang/ruby-console-mcp",
+  "source_url": "https://github.com/tuhalang/ruby-console-mcp",
+  "install": "npx -y ruby-console-mcp"
+}

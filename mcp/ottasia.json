@@ -1,0 +1,7 @@
+{
+  "name": "ottasia",
+  "description": "Find where to watch any movie or TV show across 30 Asian and Middle Eastern streaming markets. Works with Netflix, Disney+ Hotstar, Shahid, Wavve, JioCinema, and 20+ more regional services.",
+  "source_repo": "AIweather-Anurag/ottasia-mcp-server",
+  "source_url": "https://github.com/AIweather-Anurag/ottasia-mcp-server",
+  "install": "npx -y ottasia-mcp-server"
+}

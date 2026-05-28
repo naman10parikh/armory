@@ -1,0 +1,7 @@
+{
+  "name": "gh-es617-debug-probe",
+  "description": "On-chip debug probe interaction with J-Link, OpenOCD, and pyOCD for microcontroller development.",
+  "source_repo": "es617/dbgprobe-mcp-server",
+  "source_url": "https://github.com/es617/dbgprobe-mcp-server",
+  "install": "npx -y dbgprobe-mcp-server"
+}

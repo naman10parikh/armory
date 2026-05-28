@@ -1,0 +1,7 @@
+{
+  "name": "odgrim-datetime",
+  "description": "Provides datetime tools for retrieving current time in various timezones, listing available timezones, and accessing datetime resources through URIs, enabling accurate and flexible time-related functionalities across different geographical regions.",
+  "source_repo": "odgrim/mcp-datetime",
+  "source_url": "https://github.com/odgrim/mcp-datetime",
+  "install": "# git clone --depth 1 https://github.com/odgrim/mcp-datetime\n# See source for mcpServers config block"
+}

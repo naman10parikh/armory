@@ -1,0 +1,7 @@
+{
+  "name": "rradhakr-icd10-cm",
+  "description": "MCP server for ICD-10-CM medical code search, validation, and hierarchy navigation with multi-release support.",
+  "source_repo": "rradhakr-git/icd10-mcp-server",
+  "source_url": "https://github.com/rradhakr-git/icd10-mcp-server",
+  "install": "npx -y icd10-mcp-server"
+}

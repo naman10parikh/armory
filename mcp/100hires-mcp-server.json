@@ -1,0 +1,7 @@
+{
+  "name": "100hires-mcp-server",
+  "description": "Official Model Context Protocol server for 100Hires — the applicant tracking system for recruiting teams. Exposes the full 100Hires API v2 as 130 MCP tools, enabling AI assistants to manage candidates, jobs, applications, interviews, messages, and more.",
+  "source_repo": "100Hires/mcp-server",
+  "source_url": "https://github.com/100Hires/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/100Hires/mcp-server\n# See source for mcpServers config block"
+}

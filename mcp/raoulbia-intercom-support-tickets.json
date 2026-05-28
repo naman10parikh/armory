@@ -1,0 +1,7 @@
+{
+  "name": "raoulbia-intercom-support-tickets",
+  "description": "Integrates with Intercom's API to retrieve, filter, and analyze customer support tickets by date range, keywords, and status for efficient support monitoring and conversation history review.",
+  "source_repo": "raoulbia-ai/mcp-server-for-intercom",
+  "source_url": "https://github.com/raoulbia-ai/mcp-server-for-intercom",
+  "install": "# git clone --depth 1 https://github.com/raoulbia-ai/mcp-server-for-intercom\n# See source for mcpServers config block"
+}

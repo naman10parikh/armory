@@ -1,0 +1,7 @@
+{
+  "name": "jp-liu-tower",
+  "description": "AI task orchestration platform with Kanban board and 24 workspace management tools.",
+  "source_repo": "jp-liu/tower",
+  "source_url": "https://github.com/jp-liu/tower",
+  "install": "# git clone --depth 1 https://github.com/jp-liu/tower\n# See source for mcpServers config block"
+}

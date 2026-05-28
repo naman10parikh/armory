@@ -1,0 +1,7 @@
+{
+  "name": "inboxapi",
+  "description": "Gives AI agents a personal email address to send, receive, search, and reply to emails.",
+  "source_repo": "inboxapi/cli",
+  "source_url": "https://github.com/inboxapi/cli",
+  "install": "# git clone --depth 1 https://github.com/inboxapi/cli\n# See source for mcpServers config block"
+}

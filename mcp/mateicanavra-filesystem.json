@@ -1,0 +1,7 @@
+{
+  "name": "mateicanavra-filesystem",
+  "description": "Provides secure, permission-controlled access to local filesystems with granular controls for reading, writing, moving, and searching files while enforcing path validation and directory restrictions.",
+  "source_repo": "rawr-ai/mcp-filesystem",
+  "source_url": "https://github.com/rawr-ai/mcp-filesystem",
+  "install": "# git clone --depth 1 https://github.com/rawr-ai/mcp-filesystem\n# See source for mcpServers config block"
+}

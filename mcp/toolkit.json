@@ -1,0 +1,7 @@
+{
+  "name": "toolkit",
+  "description": "Stop your AI agents from writing sloppy TypeScript. A toolkit that teaches coding agents like Claude Code, Codex, Cursor, Amp, and more to ship production-ready code in half the time, at half the cost. Same task. Half the cost. Less than half the time. Measured on Claude Opus 4.7. | Metric | convent",
+  "source_repo": "",
+  "source_url": "https://convention.sh",
+  "install": "# git clone --depth 1 https://convention.sh\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "coupang-mcp",
+  "description": "Enables searching Coupang products and checking real-time lowest prices via Claude Desktop, with rocket delivery distinction and price formatting.",
+  "source_repo": "uju777/coupang-mcp",
+  "source_url": "https://github.com/uju777/coupang-mcp",
+  "install": "npx -y coupang-mcp"
+}

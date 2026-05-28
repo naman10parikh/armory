@@ -1,0 +1,7 @@
+{
+  "name": "rishab87-clawdpay",
+  "description": "Enables secure autonomous purchasing by creating single-use Privacy.com virtual cards with spending limits and automatically filling payment forms across websites using intelligent browser automation.",
+  "source_repo": "rishab87/clawdpay-mcp",
+  "source_url": "https://github.com/rishab87/clawdpay-mcp",
+  "install": "npx -y clawdpay-mcp"
+}

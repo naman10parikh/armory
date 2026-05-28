@@ -1,0 +1,7 @@
+{
+  "name": "q1-reviewer-mcp",
+  "description": "An MCP server that simulates a ruthless Q1 journal reviewer to analyze academic manuscripts for red flags and generate a formatted .docx decision letter.",
+  "source_repo": "muslus/q1-reviewer-mcp",
+  "source_url": "https://github.com/muslus/q1-reviewer-mcp",
+  "install": "npx -y q1-reviewer-mcp"
+}

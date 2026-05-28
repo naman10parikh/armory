@@ -1,0 +1,7 @@
+{
+  "name": "upxill-math-operations",
+  "description": "Provides basic arithmetic operations including addition, subtraction, multiplication, and division for mathematical calculations.",
+  "source_repo": "upxill/langchain-mcp-server",
+  "source_url": "https://github.com/upxill/langchain-mcp-server",
+  "install": "npx -y langchain-mcp-server"
+}

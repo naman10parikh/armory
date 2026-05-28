@@ -1,0 +1,7 @@
+{
+  "name": "farzad528-azure-ai-search",
+  "description": "Integrates with Azure AI Search to enable keyword, vector, and hybrid search capabilities for retrieving information from search indexes in readable markdown format.",
+  "source_repo": "farzad528/mcp-server-azure-ai-agents",
+  "source_url": "https://github.com/farzad528/mcp-server-azure-ai-agents",
+  "install": "# git clone --depth 1 https://github.com/farzad528/mcp-server-azure-ai-agents\n# See source for mcpServers config block"
+}

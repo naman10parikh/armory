@@ -1,0 +1,7 @@
+{
+  "name": "kstonekuan-discord-notification",
+  "description": "Sends messages directly to Discord channels through webhook integration for automated notifications, alerts, and updates.",
+  "source_repo": "kstonekuan/discord-notification-mcp",
+  "source_url": "https://github.com/kstonekuan/discord-notification-mcp",
+  "install": "npx -y discord-notification-mcp"
+}

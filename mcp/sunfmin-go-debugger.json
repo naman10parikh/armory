@@ -1,0 +1,7 @@
+{
+  "name": "sunfmin-go-debugger",
+  "description": "Provides a bridge to the Delve debugger for Go applications, enabling runtime debugging capabilities including breakpoints, stepping through code, variable inspection, and stack trace examination.",
+  "source_repo": "sunfmin/mcp-go-debugger",
+  "source_url": "https://github.com/sunfmin/mcp-go-debugger",
+  "install": "# git clone --depth 1 https://github.com/sunfmin/mcp-go-debugger\n# See source for mcpServers config block"
+}

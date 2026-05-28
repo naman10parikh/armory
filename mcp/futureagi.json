@@ -1,0 +1,7 @@
+{
+  "name": "futureagi",
+  "description": "Build, test, monitor, and improve AI applications with evaluation, observability, and synthetic data generation.",
+  "source_repo": "",
+  "source_url": "https://futureagi.com",
+  "install": "# git clone --depth 1 https://futureagi.com\n# See source for mcpServers config block"
+}

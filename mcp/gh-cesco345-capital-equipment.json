@@ -1,0 +1,7 @@
+{
+  "name": "gh-cesco345-capital-equipment",
+  "description": "Search, book, and manage scientific research equipment across STEM core facilities.",
+  "source_repo": "cesco345/capital-equipment-mcp",
+  "source_url": "https://github.com/cesco345/capital-equipment-mcp",
+  "install": "npx -y capital-equipment-mcp"
+}

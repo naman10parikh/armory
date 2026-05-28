@@ -1,0 +1,7 @@
+{
+  "name": "world-weather-online",
+  "description": "Real-time weather, forecasts, historical data, marine, ski, and astronomy from World Weather Online.",
+  "source_repo": "worldweatheronline/wwo-mcp",
+  "source_url": "https://github.com/worldweatheronline/wwo-mcp",
+  "install": "npx -y wwo-mcp"
+}

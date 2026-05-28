@@ -1,0 +1,7 @@
+{
+  "name": "topvisor-notifications",
+  "description": "Sends desktop notifications from AI agents via stdio transport.",
+  "source_repo": "artemeey/mcp-notifications",
+  "source_url": "https://github.com/artemeey/mcp-notifications",
+  "install": "# git clone --depth 1 https://github.com/artemeey/mcp-notifications\n# See source for mcpServers config block"
+}

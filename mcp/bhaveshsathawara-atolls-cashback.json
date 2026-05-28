@@ -1,0 +1,7 @@
+{
+  "name": "bhaveshsathawara-atolls-cashback",
+  "description": "Search cashback offers from Atolls' network of merchants across fashion, electronics, travel, and retail categories.",
+  "source_repo": "bhaveshsathawara/atolls-mcp-server",
+  "source_url": "https://github.com/bhaveshsathawara/atolls-mcp-server",
+  "install": "npx -y atolls-mcp-server"
+}

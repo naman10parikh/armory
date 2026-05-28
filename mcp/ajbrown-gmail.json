@@ -1,0 +1,7 @@
+{
+  "name": "ajbrown-gmail",
+  "description": "Integrates Gmail functionality to enable secure access, search, and analysis of email contents using OAuth2 authentication and the Gmail API.",
+  "source_repo": "ajbr0wn/gmail-mcp-server",
+  "source_url": "https://github.com/ajbr0wn/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

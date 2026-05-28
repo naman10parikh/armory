@@ -1,0 +1,7 @@
+{
+  "name": "victorgulchenko-mimiq",
+  "description": "Synthetic user testing for web pages, copy, flows, and UI components with simulated audience feedback.",
+  "source_repo": "victorgulchenko/mimiq-mcp",
+  "source_url": "https://github.com/victorgulchenko/mimiq-mcp",
+  "install": "npx -y mimiq-mcp"
+}

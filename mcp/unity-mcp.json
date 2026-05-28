@@ -1,0 +1,7 @@
+{
+  "name": "unity-mcp",
+  "description": "The first Model Context Protocol server for Unity projects. It gives AI assistants real understanding of Unity scenes, prefabs, and C# scripts through a queryable knowledge graph.",
+  "source_repo": "verysleepylemon/unity-mcp",
+  "source_url": "https://github.com/verysleepylemon/unity-mcp",
+  "install": "npx -y unity-mcp"
+}

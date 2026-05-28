@@ -1,0 +1,7 @@
+{
+  "name": "legacy-web-mcp",
+  "description": "Automatically crawl and analyze legacy web applications to generate documentation and modernization plans.",
+  "source_repo": "hieutrtr/web-discovery-mcp",
+  "source_url": "https://github.com/hieutrtr/web-discovery-mcp",
+  "install": "npx -y web-discovery-mcp"
+}

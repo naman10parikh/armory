@@ -1,0 +1,7 @@
+{
+  "name": "rjandino-zopaf",
+  "description": "Negotiation math engine exposing MILP-based Pareto frontier and counteroffer generation as tools for AI agents.",
+  "source_repo": "rjandino/zopaf",
+  "source_url": "https://github.com/rjandino/zopaf",
+  "install": "# git clone --depth 1 https://github.com/rjandino/zopaf\n# See source for mcpServers config block"
+}

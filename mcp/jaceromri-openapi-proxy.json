@@ -1,0 +1,7 @@
+{
+  "name": "jaceromri-openapi-proxy",
+  "description": "Transforms OpenAPI specifications into MCP tools, enabling AI assistants to interact with existing REST APIs without custom implementations for each service",
+  "source_repo": "jaceromri/openapi-mcp-proxy",
+  "source_url": "https://github.com/jaceromri/openapi-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/jaceromri/openapi-mcp-proxy\n# See source for mcpServers config block"
+}

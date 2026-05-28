@@ -1,0 +1,7 @@
+{
+  "name": "mcp-upload",
+  "description": "File storage for AI agents with CDN, IPFS, and Arweave options, accessible via MCP, REST, or CLI.",
+  "source_repo": "0xlighthouse/objekt-mcp-upload",
+  "source_url": "https://github.com/0xlighthouse/objekt-mcp-upload",
+  "install": "# git clone --depth 1 https://github.com/0xlighthouse/objekt-mcp-upload\n# See source for mcpServers config block"
+}

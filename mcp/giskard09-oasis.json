@@ -1,0 +1,7 @@
+{
+  "name": "giskard09-oasis",
+  "description": "Contextual guidance for AI agents in fog states, backed by Lightning micropayments.",
+  "source_repo": "giskard09/giskard-oasis",
+  "source_url": "https://github.com/giskard09/giskard-oasis",
+  "install": "# git clone --depth 1 https://github.com/giskard09/giskard-oasis\n# See source for mcpServers config block"
+}

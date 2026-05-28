@@ -1,0 +1,7 @@
+{
+  "name": "gh-stucchi-trello",
+  "description": "Manage Trello boards, lists, cards, labels, checklists, and comments via the Trello REST API.",
+  "source_repo": "stucchi/trello-mcp",
+  "source_url": "https://github.com/stucchi/trello-mcp",
+  "install": "npx -y trello-mcp"
+}

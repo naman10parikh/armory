@@ -1,0 +1,7 @@
+{
+  "name": "parceled",
+  "description": "US real estate data for AI agents: parcel boundaries, owner records, sale history, permits, and hail data.",
+  "source_repo": "",
+  "source_url": "https://parceled.ai/api/mcp",
+  "install": "# git clone --depth 1 https://parceled.ai/api/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arxiv",
+  "description": "Provides direct access to arXiv's scientific paper repository with tools for searching, retrieving metadata, downloading PDFs, and loading full article content into conversation context.",
+  "source_repo": "prashalruchiranga/arxiv-mcp-server",
+  "source_url": "https://github.com/prashalruchiranga/arxiv-mcp-server",
+  "install": "npx -y arxiv-mcp-server"
+}

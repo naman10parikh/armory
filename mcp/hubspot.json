@@ -1,0 +1,7 @@
+{
+  "name": "hubspot",
+  "description": "Integrates with HubSpot CRM to enable secure access to contact information, company records, deal data, and task management with customizable data access through Private App scopes.",
+  "source_repo": "hubspot/mcp-server",
+  "source_url": "https://github.com/hubspot/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/hubspot/mcp-server\n# See source for mcpServers config block"
+}

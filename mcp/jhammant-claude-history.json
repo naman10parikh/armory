@@ -1,0 +1,7 @@
+{
+  "name": "jhammant-claude-history",
+  "description": "Indexes and searches Claude Code conversation history using hybrid BM25 + TF-IDF search with automatic knowledge extraction and proactive context injection.",
+  "source_repo": "jhammant/claudehistorymcp",
+  "source_url": "https://github.com/jhammant/claudehistorymcp",
+  "install": "# git clone --depth 1 https://github.com/jhammant/claudehistorymcp\n# See source for mcpServers config block"
+}

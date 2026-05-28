@@ -1,0 +1,7 @@
+{
+  "name": "prometheus",
+  "description": "Integrates with Prometheus monitoring systems to provide direct access to time-series metrics through specialized tools for discovering available metrics and labels, retrieving metadata and target information, and executing PromQL queries for real-time performance analysis and operational intelligence.",
+  "source_repo": "idanfishman/prometheus-mcp",
+  "source_url": "https://github.com/idanfishman/prometheus-mcp",
+  "install": "npx -y prometheus-mcp"
+}

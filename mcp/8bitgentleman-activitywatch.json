@@ -1,0 +1,7 @@
+{
+  "name": "8bitgentleman-activitywatch",
+  "description": "Integrates with ActivityWatch to enable LLMs to interact with time tracking data, providing tools for listing buckets, executing AQL queries, and retrieving raw events for enhanced productivity analysis and time management.",
+  "source_repo": "8bitgentleman/activitywatch-mcp-server",
+  "source_url": "https://github.com/8bitgentleman/activitywatch-mcp-server",
+  "install": "npx -y activitywatch-mcp-server"
+}

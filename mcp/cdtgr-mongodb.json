@@ -1,0 +1,7 @@
+{
+  "name": "cdtgr-mongodb",
+  "description": "Provides MongoDB database operations including CRUD, aggregation, and collection management with configurable read-only mode and per-query database selection.",
+  "source_repo": "cdtgr/mongodb_go_mcp",
+  "source_url": "https://github.com/cdtgr/mongodb_go_mcp",
+  "install": "npx -y mongodb_go_mcp"
+}

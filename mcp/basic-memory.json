@@ -1,0 +1,7 @@
+{
+  "name": "basic-memory",
+  "description": "Basic Memory MCP server listed on mcp.so.",
+  "source_repo": "basicmachines-co/basic-memory",
+  "source_url": "https://mcp.so/server/basic-memory/basicmachines-co",
+  "install": "# git clone --depth 1 https://mcp.so/server/basic-memory/basicmachines-co\n# See source for mcpServers config block"
+}

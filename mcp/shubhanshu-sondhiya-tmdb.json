@@ -1,0 +1,7 @@
+{
+  "name": "shubhanshu-sondhiya-tmdb",
+  "description": "Provides a bridge to The Movie Database (TMDB) API, enabling retrieval of movie information, trending films, details, and reviews through type-safe TypeScript resources and tools.",
+  "source_repo": "shubhanshusondhiya/mcp-tmdb",
+  "source_url": "https://github.com/shubhanshusondhiya/mcp-tmdb",
+  "install": "# git clone --depth 1 https://github.com/shubhanshusondhiya/mcp-tmdb\n# See source for mcpServers config block"
+}

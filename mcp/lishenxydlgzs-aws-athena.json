@@ -1,0 +1,7 @@
+{
+  "name": "lishenxydlgzs-aws-athena",
+  "description": "Integrates with AWS SDK to execute SQL queries against Athena databases, enabling large-scale data analysis and business intelligence for AWS data lakes.",
+  "source_repo": "lishenxydlgzs/aws-athena-mcp",
+  "source_url": "https://github.com/lishenxydlgzs/aws-athena-mcp",
+  "install": "npx -y aws-athena-mcp"
+}

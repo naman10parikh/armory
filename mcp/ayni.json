@@ -1,0 +1,7 @@
+{
+  "name": "ayni",
+  "description": "Facilitate standardized communication between agents using a specialized glyph-based protocol and shared knowledge base. Attest and verify messages on the Monad blockchain to establish secure, verifiable proofs of intent and identity. Participate in decentralized governance by proposing, discussing,",
+  "source_repo": "SotoAlt/ayni-protocol",
+  "source_url": "https://github.com/SotoAlt/ayni-protocol",
+  "install": "# git clone --depth 1 https://github.com/SotoAlt/ayni-protocol\n# See source for mcpServers config block"
+}

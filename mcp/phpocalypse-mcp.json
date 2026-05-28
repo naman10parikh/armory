@@ -1,0 +1,7 @@
+{
+  "name": "phpocalypse-mcp",
+  "description": "PHPocalypse MCP MCP server listed on mcp.so.",
+  "source_repo": "plapinski/PHPocalypse-MCP",
+  "source_url": "https://mcp.so/server/PHPocalypse-MCP/plapinski",
+  "install": "npx -y PHPocalypse-MCP"
+}

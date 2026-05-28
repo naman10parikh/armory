@@ -1,0 +1,7 @@
+{
+  "name": "vulh1209-context-bank",
+  "description": "Provides a bridge to the AtherOS knowledge base, enabling semantic document searches through a document-search endpoint with configurable retrieval options.",
+  "source_repo": "vulh1209/context-bank-mcp",
+  "source_url": "https://github.com/vulh1209/context-bank-mcp",
+  "install": "npx -y context-bank-mcp"
+}

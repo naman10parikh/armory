@@ -1,0 +1,7 @@
+{
+  "name": "samethoughts-hippodid",
+  "description": "Persistent cloud memory for AI agents with semantic search, file sync, document import, and BYOK AI configuration.",
+  "source_repo": "samethoughts/hippodid-mcp-server",
+  "source_url": "https://github.com/samethoughts/hippodid-mcp-server",
+  "install": "npx -y hippodid-mcp-server"
+}

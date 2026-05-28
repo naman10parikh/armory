@@ -1,0 +1,7 @@
+{
+  "name": "agentsphere-cloud-sandboxes",
+  "description": "Connect to isolated cloud sandboxes - purpose-built to execute AI-generated code and handle files securely.",
+  "source_repo": "",
+  "source_url": "https://www.agentsphere.run/docs/mcp-server",
+  "install": "# git clone --depth 1 https://www.agentsphere.run/docs/mcp-server\n# See source for mcpServers config block"
+}

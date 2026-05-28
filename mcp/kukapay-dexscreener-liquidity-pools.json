@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-dexscreener-liquidity-pools",
+  "description": "Integrates with DexScreener API to track and analyze DEX liquidity pools across blockchain networks, providing real-time pool data including prices, volumes, liquidity amounts, and market capitalizations for DeFi trading strategies and automated trading bots.",
+  "source_repo": "kukapay/liquidity-pools-mcp",
+  "source_url": "https://github.com/kukapay/liquidity-pools-mcp",
+  "install": "npx -y liquidity-pools-mcp"
+}

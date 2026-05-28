@@ -1,0 +1,7 @@
+{
+  "name": "halflifezyf2680-mpm-coding",
+  "description": "Reliable long-running coding workflows with checkpoint and recovery support.",
+  "source_repo": "halflifezyf2680/mpm-coding",
+  "source_url": "https://github.com/halflifezyf2680/mpm-coding",
+  "install": "# git clone --depth 1 https://github.com/halflifezyf2680/mpm-coding\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kismet-travel",
+  "description": "Access hotel data - including real-time rates and availability - and surface booking links to users",
+  "source_repo": "",
+  "source_url": "https://kismet.travel/mcp",
+  "install": "# git clone --depth 1 https://kismet.travel/mcp\n# See source for mcpServers config block"
+}

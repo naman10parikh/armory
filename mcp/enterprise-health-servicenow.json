@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-health-servicenow",
+  "description": "Integrates system health monitoring and ServiceNow ITSM platform to provide CPU usage, memory statistics, system uptime tracking, incident management, change request handling, and ticket operations for IT operations workflows and infrastructure automation.",
+  "source_repo": "maybeswapnil/enterprise-mcp",
+  "source_url": "https://github.com/maybeswapnil/enterprise-mcp",
+  "install": "npx -y enterprise-mcp"
+}

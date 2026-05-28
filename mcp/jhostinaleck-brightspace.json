@@ -1,0 +1,7 @@
+{
+  "name": "jhostinaleck-brightspace",
+  "description": "Exposes D2L Brightspace LMS data including courses, grades, assignments, and calendar through 15 tools with multi-strategy authentication.",
+  "source_repo": "jhostinaleck/brightspace-mcp",
+  "source_url": "https://github.com/jhostinaleck/brightspace-mcp",
+  "install": "npx -y brightspace-mcp"
+}

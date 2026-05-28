@@ -1,0 +1,7 @@
+{
+  "name": "aganium-agenium",
+  "description": "Bridge MCP servers to the AGENIUM agent:// network.",
+  "source_repo": "aganium/agenium",
+  "source_url": "https://github.com/aganium/agenium/tree/HEAD/packages/mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/aganium/agenium/tree/HEAD/packages/mcp-bridge\n# See source for mcpServers config block"
+}

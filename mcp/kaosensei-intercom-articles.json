@@ -1,0 +1,7 @@
+{
+  "name": "kaosensei-intercom-articles",
+  "description": "Provides read-only access to Intercom Help Center articles, enabling retrieval and reference of customer support documentation for automation and knowledge base integration workflows.",
+  "source_repo": "kaosensei/intercom-mcp",
+  "source_url": "https://github.com/kaosensei/intercom-mcp",
+  "install": "npx -y intercom-mcp"
+}

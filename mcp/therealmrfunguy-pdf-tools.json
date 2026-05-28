@@ -1,0 +1,7 @@
+{
+  "name": "therealmrfunguy-pdf-tools",
+  "description": "Extract text and tables from PDFs, merge documents, and retrieve file metadata.",
+  "source_repo": "",
+  "source_url": "https://pdf.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://pdf.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

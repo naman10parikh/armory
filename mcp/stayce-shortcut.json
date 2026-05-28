@@ -1,0 +1,7 @@
+{
+  "name": "stayce-shortcut",
+  "description": "Shortcut project management. Create, update, search stories and manage workflows.",
+  "source_repo": "stayce/streamshortcut-cloudflare",
+  "source_url": "https://github.com/stayce/streamshortcut-cloudflare",
+  "install": "# git clone --depth 1 https://github.com/stayce/streamshortcut-cloudflare\n# See source for mcpServers config block"
+}

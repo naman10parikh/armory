@@ -1,0 +1,7 @@
+{
+  "name": "thinkchain-uk-constituencies",
+  "description": "Search UK parliamentary constituencies by name, retrieve boundaries and ONS codes via public data APIs.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/thinkchain-uk-constituencies",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/thinkchain-uk-constituencies\n# See source for mcpServers config block"
+}

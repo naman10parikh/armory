@@ -1,0 +1,7 @@
+{
+  "name": "chia-health",
+  "description": "Enables AI-assisted telehealth workflows for browsing medications, completing intake, signing consent, placing orders, and managing treatment via streamable HTTP.",
+  "source_repo": "chia-health/chia-mcp",
+  "source_url": "https://github.com/chia-health/chia-mcp",
+  "install": "npx -y chia-mcp"
+}

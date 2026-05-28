@@ -1,0 +1,7 @@
+{
+  "name": "isaacwasserman-langchain-ts",
+  "description": "Enable LangChain workflows for your MCP client.",
+  "source_repo": "isaacwasserman/mcp-langchain-ts-client",
+  "source_url": "https://github.com/isaacwasserman/mcp-langchain-ts-client",
+  "install": "# git clone --depth 1 https://github.com/isaacwasserman/mcp-langchain-ts-client\n# See source for mcpServers config block"
+}

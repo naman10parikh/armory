@@ -1,0 +1,7 @@
+{
+  "name": "ilyazub-serpapi-google-search",
+  "description": "Integrates with the SerpApi Google Search API to enable access to structured search results data for SEO tools, market research, or data aggregation services.",
+  "source_repo": "serpapi/serpapi-mcp",
+  "source_url": "https://github.com/serpapi/serpapi-mcp",
+  "install": "npx -y serpapi-mcp"
+}

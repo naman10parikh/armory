@@ -1,0 +1,7 @@
+{
+  "name": "proxylink",
+  "description": "OAuth-enabled MCP proxy server",
+  "source_repo": "",
+  "source_url": "https://proxylink-mcp.com",
+  "install": "# git clone --depth 1 https://proxylink-mcp.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-shlok-lgtm-basis",
+  "description": "Provides risk scores for stablecoins, wallet risk profiles, and transaction risk assessment through the Stablecoin Integrity Index.",
+  "source_repo": "basis-protocol/basis-mcp",
+  "source_url": "https://github.com/basis-protocol/basis-mcp",
+  "install": "npx -y basis-mcp"
+}

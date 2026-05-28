@@ -1,0 +1,7 @@
+{
+  "name": "dnd-mcp",
+  "description": "Dnd Mcp MCP server listed on mcp.so.",
+  "source_repo": "procload/dnd-mcp",
+  "source_url": "https://mcp.so/server/dnd-mcp/procload",
+  "install": "npx -y dnd-mcp"
+}

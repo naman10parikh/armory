@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-trending-mcp",
+  "description": "Tracking the latest trending tokens on CoinGecko.",
+  "source_repo": "kukapay/crypto-trending-mcp",
+  "source_url": "https://github.com/kukapay/crypto-trending-mcp",
+  "install": "npx -y crypto-trending-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gralio",
+  "description": "Access 3+ million SaaS reviews, detailed pricing data, alternatives, ratings, funding information, growth metrics, user sentiment analysis, and functional feature data for over 30,000 software products.",
+  "source_repo": "tymonte/gralio-mcp",
+  "source_url": "https://github.com/tymonte/gralio-mcp",
+  "install": "npx -y gralio-mcp"
+}

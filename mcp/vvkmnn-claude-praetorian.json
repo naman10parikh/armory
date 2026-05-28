@@ -1,0 +1,7 @@
+{
+  "name": "vvkmnn-claude-praetorian",
+  "description": "Aggressive context compaction for long-running development sessions, enabling 90%+ token savings through structured snapshots with intelligent merging and full-text search.",
+  "source_repo": "vvkmnn/claude-praetorian-mcp",
+  "source_url": "https://github.com/vvkmnn/claude-praetorian-mcp",
+  "install": "npx -y claude-praetorian-mcp"
+}

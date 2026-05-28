@@ -1,0 +1,7 @@
+{
+  "name": "gh-enuno-unifi",
+  "description": "Manage UniFi network devices, clients, and settings through the official UniFi API.",
+  "source_repo": "enuno/unifi-mcp-server",
+  "source_url": "https://github.com/enuno/unifi-mcp-server",
+  "install": "npx -y unifi-mcp-server"
+}

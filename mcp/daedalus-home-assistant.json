@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-home-assistant",
+  "description": "Exposes Home Assistant REST API with 19 tools for device control, automation management, event handling, and system monitoring.",
+  "source_repo": "daedalus/mcp-homeassistant",
+  "source_url": "https://github.com/daedalus/mcp-homeassistant",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-homeassistant\n# See source for mcpServers config block"
+}

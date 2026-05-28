@@ -1,0 +1,7 @@
+{
+  "name": "gamladz-surfa-analytics",
+  "description": "Queries Surfa Analytics traffic data using natural language for session metrics, event filtering, latency analysis, and performance insights.",
+  "source_repo": "gamladz/surfa-mcp",
+  "source_url": "https://github.com/gamladz/surfa-mcp",
+  "install": "npx -y surfa-mcp"
+}

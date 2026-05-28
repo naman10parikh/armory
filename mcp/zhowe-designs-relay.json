@@ -1,0 +1,7 @@
+{
+  "name": "zhowe-designs-relay",
+  "description": "Self-hosted session relay for sharing threads across Claude Code, Cowork, and Claude.ai.",
+  "source_repo": "zhowe-designs/relay-mcp",
+  "source_url": "https://github.com/zhowe-designs/relay-mcp",
+  "install": "npx -y relay-mcp"
+}

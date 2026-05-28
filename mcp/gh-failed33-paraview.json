@@ -1,0 +1,7 @@
+{
+  "name": "gh-failed33-paraview",
+  "description": "Connect ParaView to AI assistants for visualization control through arbitrary Python code execution.",
+  "source_repo": "failed33/paraview-mcp",
+  "source_url": "https://github.com/failed33/paraview-mcp",
+  "install": "npx -y paraview-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "basti-fantasti-delphi-build",
+  "description": "Enables compilation of Delphi projects by parsing .dproj files and managing library paths through TOML configuration with intelligent compiler output filtering.",
+  "source_repo": "basti-fantasti/delphi-build-mcp-server",
+  "source_url": "https://github.com/basti-fantasti/delphi-build-mcp-server",
+  "install": "npx -y delphi-build-mcp-server"
+}

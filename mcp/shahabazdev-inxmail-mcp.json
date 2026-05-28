@@ -1,0 +1,7 @@
+{
+  "name": "shahabazdev-inxmail-mcp",
+  "description": "Manage Inxmail Commerce transactional emails — events, sendings, bounces, blocklist, blacklist, reactions, and delivery tracking.",
+  "source_repo": "shahabazdev/inxmail-mcp",
+  "source_url": "https://github.com/shahabazdev/inxmail-mcp",
+  "install": "npx -y inxmail-mcp"
+}

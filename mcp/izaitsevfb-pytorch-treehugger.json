@@ -1,0 +1,7 @@
+{
+  "name": "izaitsevfb-pytorch-treehugger",
+  "description": "Provides a PyTorch CI/CD analytics API for investigating build failures, analyzing test flakiness, and monitoring performance trends across the PyTorch infrastructure.",
+  "source_repo": "izaitsevfb/claude-pytorch-treehugger",
+  "source_url": "https://github.com/izaitsevfb/claude-pytorch-treehugger",
+  "install": "# git clone --depth 1 https://github.com/izaitsevfb/claude-pytorch-treehugger\n# See source for mcpServers config block"
+}

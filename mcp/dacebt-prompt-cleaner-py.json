@@ -1,0 +1,7 @@
+{
+  "name": "dacebt-prompt-cleaner-py",
+  "description": "Transforms raw, unpolished prompts into clear and effective versions using large language models with quality assessment, retry strategies, and support for both general and code-specific enhancement modes.",
+  "source_repo": "dacebt/mcp-py-prompt-cleaner",
+  "source_url": "https://github.com/dacebt/mcp-py-prompt-cleaner",
+  "install": "# git clone --depth 1 https://github.com/dacebt/mcp-py-prompt-cleaner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "garethcott-enhanced-postgres",
+  "description": "Enables full PostgreSQL database management with read/write operations, transaction handling, and schema modifications through parameterized queries that prevent SQL injection.",
+  "source_repo": "garethcott/enhanced-postgres-mcp-server",
+  "source_url": "https://github.com/garethcott/enhanced-postgres-mcp-server",
+  "install": "npx -y enhanced-postgres-mcp-server"
+}

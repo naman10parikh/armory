@@ -1,0 +1,7 @@
+{
+  "name": "evm-mcp-server",
+  "description": "Evm Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "chulanpro5/evm-mcp-server",
+  "source_url": "https://mcp.so/server/evm-mcp-server/chulanpro5",
+  "install": "npx -y evm-mcp-server"
+}

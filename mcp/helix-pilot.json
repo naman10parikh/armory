@@ -1,0 +1,7 @@
+{
+  "name": "helix-pilot",
+  "description": "GUI automation MCP server that enables AI agents to see and control the Windows desktop using a local Vision LLM (Ollama), supporting screenshot analysis, mouse/keyboard actions, and autonomous task execution.",
+  "source_repo": "tsunamayo7/helix-pilot",
+  "source_url": "https://github.com/tsunamayo7/helix-pilot",
+  "install": "# git clone --depth 1 https://github.com/tsunamayo7/helix-pilot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shaft",
+  "description": "Selenium-based web automation and testing framework",
+  "source_repo": "shafthq/shaft_mcp",
+  "source_url": "https://github.com/shafthq/shaft_mcp",
+  "install": "npx -y shaft_mcp"
+}

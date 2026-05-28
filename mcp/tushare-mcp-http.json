@@ -1,0 +1,7 @@
+{
+  "name": "tushare-mcp-http",
+  "description": "A MCP server that provides HTTP-based access to Tushare financial data, enabling AI assistants to query stocks, indices, funds, and more.",
+  "source_repo": "duhanjun/tushare-mcp",
+  "source_url": "https://github.com/duhanjun/tushare-mcp",
+  "install": "npx -y tushare-mcp"
+}

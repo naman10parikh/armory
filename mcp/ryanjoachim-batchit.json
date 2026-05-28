@@ -1,0 +1,7 @@
+{
+  "name": "ryanjoachim-batchit",
+  "description": "Combine tool calls into a single batch_execute call.",
+  "source_repo": "ryanjoachim/mcp-batchit",
+  "source_url": "https://github.com/ryanjoachim/mcp-batchit",
+  "install": "# git clone --depth 1 https://github.com/ryanjoachim/mcp-batchit\n# See source for mcpServers config block"
+}

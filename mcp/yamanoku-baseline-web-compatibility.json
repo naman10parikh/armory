@@ -1,0 +1,7 @@
+{
+  "name": "yamanoku-baseline-web-compatibility",
+  "description": "Provides real-time browser compatibility status for Web Platform APIs by connecting to the WebStatus API, helping web developers make informed decisions about feature usage",
+  "source_repo": "yamanoku/baseline-mcp-server",
+  "source_url": "https://github.com/yamanoku/baseline-mcp-server",
+  "install": "npx -y baseline-mcp-server"
+}

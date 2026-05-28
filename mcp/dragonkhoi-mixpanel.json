@@ -1,0 +1,7 @@
+{
+  "name": "dragonkhoi-mixpanel",
+  "description": "Integrates with Mixpanel's API to enable querying of events data, retention, and funnels for on-demand analytics and custom report generation.",
+  "source_repo": "dragonkhoi/mixpanel-mcp",
+  "source_url": "https://github.com/dragonkhoi/mixpanel-mcp",
+  "install": "npx -y mixpanel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-master",
+  "description": "This repository provides a template for creating MCP servers with Python, including installation instructions and tools for testing with the MCP Inspector.",
+  "source_repo": "Leandroglez39/mcp-server-master",
+  "source_url": "https://github.com/Leandroglez39/mcp-server-master",
+  "install": "# git clone --depth 1 https://github.com/Leandroglez39/mcp-server-master\n# See source for mcpServers config block"
+}

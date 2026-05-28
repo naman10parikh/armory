@@ -1,0 +1,7 @@
+{
+  "name": "jenkins-mcp",
+  "description": "Jenkins Mcp MCP server listed on mcp.so.",
+  "source_repo": "kjozsa/jenkins-mcp",
+  "source_url": "https://mcp.so/server/jenkins-mcp/kjozsa",
+  "install": "npx -y jenkins-mcp"
+}

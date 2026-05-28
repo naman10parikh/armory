@@ -1,0 +1,7 @@
+{
+  "name": "gh-sashok74-mcphub",
+  "description": "Windows desktop application hosting multiple protocol servers for database introspection, project memory, and SQL query management within a single process.",
+  "source_repo": "sashok74/mcphub",
+  "source_url": "https://github.com/sashok74/mcphub",
+  "install": "# git clone --depth 1 https://github.com/sashok74/mcphub\n# See source for mcpServers config block"
+}

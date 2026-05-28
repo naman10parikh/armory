@@ -1,0 +1,7 @@
+{
+  "name": "xixianliang-harmonyos-mcp-server",
+  "description": "Control HarmonyOS-next devices with AI through MCP. Support device control and UI automation.",
+  "source_repo": "XixianLiang/HarmonyOS-mcp-server",
+  "source_url": "https://github.com/XixianLiang/HarmonyOS-mcp-server",
+  "install": "npx -y HarmonyOS-mcp-server"
+}

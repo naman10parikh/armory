@@ -1,0 +1,7 @@
+{
+  "name": "ckz-flux-schnell",
+  "description": "Integrates with the Flux Schnell model on Replicate to generate images from text prompts, enabling visual content creation and creative workflows.",
+  "source_repo": "ckz/flux-img-mcp",
+  "source_url": "https://github.com/ckz/flux-img-mcp",
+  "install": "npx -y flux-img-mcp"
+}

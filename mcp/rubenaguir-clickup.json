@@ -1,0 +1,7 @@
+{
+  "name": "rubenaguir-clickup",
+  "description": "Integrates with ClickUp's task management platform to retrieve, create, update, and track tasks with support for due dates, assignees, and status changes.",
+  "source_repo": "rubenaguir/clickup-mcp-server",
+  "source_url": "https://github.com/rubenaguir/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

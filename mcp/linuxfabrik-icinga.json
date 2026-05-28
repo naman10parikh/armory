@@ -1,0 +1,7 @@
+{
+  "name": "linuxfabrik-icinga",
+  "description": "Bridge AI assistants to Icinga monitoring infrastructure for live host checks, acknowledgements, and downtimes.",
+  "source_repo": "linuxfabrik/mcp-server-icinga",
+  "source_url": "https://github.com/linuxfabrik/mcp-server-icinga",
+  "install": "# git clone --depth 1 https://github.com/linuxfabrik/mcp-server-icinga\n# See source for mcpServers config block"
+}

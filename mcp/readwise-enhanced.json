@@ -1,0 +1,7 @@
+{
+  "name": "readwise-enhanced",
+  "description": "Integrates with Readwise Reader and Highlights APIs to provide unified access to saved articles, books, highlights, and annotations with intelligent text extraction and cross-referencing capabilities for knowledge workers and researchers.",
+  "source_repo": "arnaldo-delisio/readwise-mcp-enhanced",
+  "source_url": "https://github.com/arnaldo-delisio/readwise-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/arnaldo-delisio/readwise-mcp-enhanced\n# See source for mcpServers config block"
+}

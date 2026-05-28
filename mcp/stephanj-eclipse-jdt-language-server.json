@@ -1,0 +1,7 @@
+{
+  "name": "stephanj-eclipse-jdt-language-server",
+  "description": "Wraps Eclipse JDT Language Server to provide Java code navigation, symbol search, reference finding, and project structure analysis.",
+  "source_repo": "stephanj/lsp4j-mcp",
+  "source_url": "https://github.com/stephanj/lsp4j-mcp",
+  "install": "npx -y lsp4j-mcp"
+}

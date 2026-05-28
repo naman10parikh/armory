@@ -1,0 +1,7 @@
+{
+  "name": "proxmoxmcp-plus",
+  "description": "Enables comprehensive management of Proxmox virtualization environments, including VM and container lifecycle, snapshots, backups, monitoring, and OpenAPI integration.",
+  "source_repo": "rodaddy/ProxmoxMCP-Plus",
+  "source_url": "https://github.com/rodaddy/ProxmoxMCP-Plus",
+  "install": "# git clone --depth 1 https://github.com/rodaddy/ProxmoxMCP-Plus\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "async-bash-mcp",
+  "description": "An MCP server for spawning and managing bash commands asynchronously. Run multiple shell commands in parallel and check their progress independently.",
+  "source_repo": "xhuw/async-bash-mcp",
+  "source_url": "https://github.com/xhuw/async-bash-mcp",
+  "install": "npx -y async-bash-mcp"
+}

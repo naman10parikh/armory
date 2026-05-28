@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-pumpswap-mcp",
+  "description": "Enabling AI agents to interact with PumpSwap for real-time token swaps and automated on-chain trading.",
+  "source_repo": "kukapay/pumpswap-mcp",
+  "source_url": "https://github.com/kukapay/pumpswap-mcp",
+  "install": "npx -y pumpswap-mcp"
+}

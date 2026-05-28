@@ -1,0 +1,7 @@
+{
+  "name": "epwforge-mcp",
+  "description": "Weather files (EPW/DDY) for building energy simulation, on-demand. Four tools: search the 17,000-station catalog, analyze any EPW (design conditions, HDD/CDD, DesignDay IDF emit), render 5 chart types (diurnal, wind rose, temp carpet, monthly box plot, comparison), and generate TMY/AMY/CMIP6-morphed",
+  "source_repo": "guzz-labs/epwforge-mcp",
+  "source_url": "https://github.com/guzz-labs/epwforge-mcp",
+  "install": "npx -y epwforge-mcp"
+}

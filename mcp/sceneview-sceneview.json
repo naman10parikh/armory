@@ -1,0 +1,7 @@
+{
+  "name": "sceneview-sceneview",
+  "description": "3D and AR scene management framework with tools for controlling cameras, nodes, lighting, and augmented reality experiences.",
+  "source_repo": "sceneview/sceneview",
+  "source_url": "https://github.com/sceneview/sceneview/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/sceneview/sceneview/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

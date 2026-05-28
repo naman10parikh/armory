@@ -1,0 +1,7 @@
+{
+  "name": "cmdaltctr-gemini-cli",
+  "description": "Integrates with Google's Gemini models through API and CLI to provide intelligent code analysis, security auditing, and large-scale codebase assessment with automatic model routing and token-efficient processing.",
+  "source_repo": "cmdaltctr/claude-gemini-mcp-slim",
+  "source_url": "https://github.com/cmdaltctr/claude-gemini-mcp-slim",
+  "install": "# git clone --depth 1 https://github.com/cmdaltctr/claude-gemini-mcp-slim\n# See source for mcpServers config block"
+}

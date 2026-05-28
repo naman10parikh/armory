@@ -1,0 +1,7 @@
+{
+  "name": "den-indance-network-diagram",
+  "description": "AI-driven network topology editor with 44 tools: nmap/CSV import, SSH access, and multi-sheet support.",
+  "source_repo": "den-indance/network-diagram-mcp",
+  "source_url": "https://github.com/den-indance/network-diagram-mcp",
+  "install": "npx -y network-diagram-mcp"
+}

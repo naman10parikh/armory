@@ -1,0 +1,7 @@
+{
+  "name": "markelaugust74-google-calendar",
+  "description": "Integrates with the Google Calendar API to create and manage events using natural language interactions, enabling automated scheduling and event creation.",
+  "source_repo": "markelaugust74/mcp-google-calendar",
+  "source_url": "https://github.com/markelaugust74/mcp-google-calendar",
+  "install": "# git clone --depth 1 https://github.com/markelaugust74/mcp-google-calendar\n# See source for mcpServers config block"
+}

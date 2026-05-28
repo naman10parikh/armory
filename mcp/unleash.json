@@ -1,0 +1,7 @@
+{
+  "name": "unleash",
+  "description": "Manage feature flags and rollout strategies through the Unleash platform",
+  "source_repo": "unleash/unleash-mcp",
+  "source_url": "https://github.com/unleash/unleash-mcp",
+  "install": "npx -y unleash-mcp"
+}

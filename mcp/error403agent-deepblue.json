@@ -1,0 +1,7 @@
+{
+  "name": "error403agent-deepblue",
+  "description": "Live crypto trading signals for BTC, ETH, SOL, and XRP with Polymarket odds and market sentiment via x402.",
+  "source_repo": "error403agent/deepblue-mcp",
+  "source_url": "https://github.com/error403agent/deepblue-mcp",
+  "install": "npx -y deepblue-mcp"
+}

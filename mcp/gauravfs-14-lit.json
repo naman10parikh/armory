@@ -1,0 +1,7 @@
+{
+  "name": "gauravfs-14-lit",
+  "description": "Academic literature search across arXiv and DBLP databases",
+  "source_repo": "gauravfs-14/lit-mcp",
+  "source_url": "https://github.com/gauravfs-14/lit-mcp",
+  "install": "npx -y lit-mcp"
+}

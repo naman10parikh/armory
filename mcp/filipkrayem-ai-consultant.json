@@ -1,0 +1,7 @@
+{
+  "name": "filipkrayem-ai-consultant",
+  "description": "Integrates with OpenRouter's API to provide AI consultation capabilities across multiple models with intelligent model selection, conversation history management, and enterprise-grade reliability features.",
+  "source_repo": "goldenpath-ai/ai-consultant-mcp",
+  "source_url": "https://github.com/goldenpath-ai/ai-consultant-mcp",
+  "install": "npx -y ai-consultant-mcp"
+}

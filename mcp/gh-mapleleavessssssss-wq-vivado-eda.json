@@ -1,0 +1,7 @@
+{
+  "name": "gh-mapleleavessssssss-wq-vivado-eda",
+  "description": "Controls Xilinx Vivado for FPGA development with synthesis, implementation, bitstream generation, and automated diagnostic tools.",
+  "source_repo": "mapleleavessssssss-wq/vivado-mcp",
+  "source_url": "https://github.com/mapleleavessssssss-wq/vivado-mcp",
+  "install": "npx -y vivado-mcp"
+}

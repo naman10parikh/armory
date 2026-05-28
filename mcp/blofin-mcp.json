@@ -1,0 +1,7 @@
+{
+  "name": "blofin-mcp",
+  "description": "Provides 40 tools for BloFin cryptocurrency exchange, enabling market data, account management, and trading operations via MCP.",
+  "source_repo": "blofin/blofin-mcp",
+  "source_url": "https://github.com/blofin/blofin-mcp",
+  "install": "npx -y blofin-mcp"
+}

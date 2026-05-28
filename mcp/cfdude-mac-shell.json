@@ -1,0 +1,7 @@
+{
+  "name": "cfdude-mac-shell",
+  "description": "Enables secure execution of macOS terminal commands through a ZSH shell with a whitelist system that categorizes operations as safe, requiring approval, or forbidden.",
+  "source_repo": "cfdude/mac-shell-mcp",
+  "source_url": "https://github.com/cfdude/mac-shell-mcp",
+  "install": "npx -y mac-shell-mcp"
+}

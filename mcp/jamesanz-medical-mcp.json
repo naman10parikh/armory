@@ -1,0 +1,7 @@
+{
+  "name": "jamesanz-medical-mcp",
+  "description": "An MCP server that provides access to medical information, drug databases, and healthcare resources. Enables AI assistants to query medical data, drug interactions, and clinical guidelines.",
+  "source_repo": "JamesANZ/medical-mcp",
+  "source_url": "https://github.com/JamesANZ/medical-mcp",
+  "install": "npx -y medical-mcp"
+}

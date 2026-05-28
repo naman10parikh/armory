@@ -1,0 +1,7 @@
+{
+  "name": "jshmllr-sketch-context",
+  "description": "Bridges Sketch design files with development workflows through dual-component architecture, enabling file parsing, component extraction, layer management, and real-time design element creation directly from natural language commands.",
+  "source_repo": "jshmllr/sketch-context-mcp",
+  "source_url": "https://github.com/jshmllr/sketch-context-mcp",
+  "install": "npx -y sketch-context-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wsobo-genesis-bio",
+  "description": "Structured access to 23 biomedical databases for drug discovery and protein research.",
+  "source_repo": "wsobo/genesis_bio_mcp",
+  "source_url": "https://github.com/wsobo/genesis_bio_mcp",
+  "install": "npx -y genesis_bio_mcp"
+}

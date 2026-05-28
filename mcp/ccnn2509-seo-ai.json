@@ -1,0 +1,7 @@
+{
+  "name": "ccnn2509-seo-ai",
+  "description": "Integrates with Google Ads Keyword Planner API to enable SEO research, SERP analysis, and competitor analysis through a Node.js Express server deployable via Docker or Smithery.",
+  "source_repo": "ccnn2509/app-seo-ai",
+  "source_url": "https://github.com/ccnn2509/app-seo-ai",
+  "install": "# git clone --depth 1 https://github.com/ccnn2509/app-seo-ai\n# See source for mcpServers config block"
+}

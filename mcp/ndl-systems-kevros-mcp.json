@@ -1,0 +1,7 @@
+{
+  "name": "ndl-systems-kevros-mcp",
+  "description": "Governance primitives for autonomous agents — verify actions against policy, record signed provenance, and bind intents cryptographically. Free tier: 100 calls/month.",
+  "source_repo": "ndl-systems/kevros-mcp",
+  "source_url": "https://github.com/ndl-systems/kevros-mcp",
+  "install": "npx -y kevros-mcp"
+}

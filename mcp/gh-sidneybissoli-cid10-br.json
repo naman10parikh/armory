@@ -1,0 +1,7 @@
+{
+  "name": "gh-sidneybissoli-cid10-br",
+  "description": "Brazilian ICD-10 classification from DATASUS — disease codes, categories, and chapters.",
+  "source_repo": "sidneybissoli/cid10-br-mcp",
+  "source_url": "https://github.com/sidneybissoli/cid10-br-mcp",
+  "install": "npx -y cid10-br-mcp"
+}

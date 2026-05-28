@@ -1,0 +1,7 @@
+{
+  "name": "abhinavg6-sui",
+  "description": "Queries the Sui blockchain via 29 tools spanning gRPC fullnode, GraphQL RPC, and archival endpoints with LLM-friendly responses.",
+  "source_repo": "abhinavg6/sui-mcp-server",
+  "source_url": "https://github.com/abhinavg6/sui-mcp-server",
+  "install": "npx -y sui-mcp-server"
+}

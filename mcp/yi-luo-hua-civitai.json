@@ -1,0 +1,7 @@
+{
+  "name": "yi-luo-hua-civitai",
+  "description": "Integrates with Civitai's model marketplace for searching, browsing, and downloading AI models with prompt retrieval and ComfyUI directory support.",
+  "source_repo": "yi-luo-hua/civitai-mcp-server",
+  "source_url": "https://github.com/yi-luo-hua/civitai-mcp-server",
+  "install": "npx -y civitai-mcp-server"
+}

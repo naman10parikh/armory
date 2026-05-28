@@ -1,0 +1,7 @@
+{
+  "name": "usevyre",
+  "description": "Provides Claude Desktop and Cursor with real-time useVyre component context — valid props, variants, anti-patterns, and design tokens.",
+  "source_repo": "gapra/usevyre",
+  "source_url": "https://github.com/gapra/usevyre",
+  "install": "# git clone --depth 1 https://github.com/gapra/usevyre\n# See source for mcpServers config block"
+}

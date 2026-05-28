@@ -1,0 +1,7 @@
+{
+  "name": "pugzui-axom",
+  "description": "Persistent AI memory with four memory types, file operations, shell commands, code analysis, and chain-reaction workflows.",
+  "source_repo": "pugzui/axom-mcp",
+  "source_url": "https://github.com/pugzui/axom-mcp",
+  "install": "npx -y axom-mcp"
+}

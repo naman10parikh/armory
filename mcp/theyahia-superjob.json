@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-superjob",
+  "description": "Search vacancies and retrieve employer data from the SuperJob.ru job board API.",
+  "source_repo": "theyahia/superjob-mcp",
+  "source_url": "https://github.com/theyahia/superjob-mcp",
+  "install": "npx -y superjob-mcp"
+}

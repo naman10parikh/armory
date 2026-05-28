@@ -1,0 +1,7 @@
+{
+  "name": "waterticket-rhymix-cms",
+  "description": "Integrates with the Rhymix CMS platform to expose CMS functionality and custom business logic through streamable HTTP transport with automatic tool discovery and caching support.",
+  "source_repo": "waterticket/rx-module-mcpserver",
+  "source_url": "https://github.com/waterticket/rx-module-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/waterticket/rx-module-mcpserver\n# See source for mcpServers config block"
+}

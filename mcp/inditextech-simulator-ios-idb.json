@@ -1,0 +1,7 @@
+{
+  "name": "inditextech-simulator-ios-idb",
+  "description": "Enables iOS simulator automation via Facebook's IDB tool, allowing control of simulators, app launching, screenshot capture, and UI interactions through natural language commands",
+  "source_repo": "inditextech/mcp-server-simulator-ios-idb",
+  "source_url": "https://github.com/inditextech/mcp-server-simulator-ios-idb",
+  "install": "# git clone --depth 1 https://github.com/inditextech/mcp-server-simulator-ios-idb\n# See source for mcpServers config block"
+}

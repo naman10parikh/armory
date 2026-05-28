@@ -1,0 +1,7 @@
+{
+  "name": "mycase-mcp",
+  "description": "Enables Claude to access and manage your law firm's MyCase account, including cases, clients, tasks, invoices, and more.",
+  "source_repo": "RosenAdvertising/mycase-mcp",
+  "source_url": "https://github.com/RosenAdvertising/mycase-mcp",
+  "install": "npx -y mycase-mcp"
+}

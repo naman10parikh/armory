@@ -1,0 +1,7 @@
+{
+  "name": "tolgee",
+  "description": "Manage your Tolgee localization project from AI coding assistants — search translation keys, create and update translations, and trigger machine translation.",
+  "source_repo": "tolgee/tolgee-platform",
+  "source_url": "https://github.com/tolgee/tolgee-platform/tree/HEAD/backend/app/src/main/kotlin/io/tolgee/mcp",
+  "install": "# git clone --depth 1 https://github.com/tolgee/tolgee-platform/tree/HEAD/backend/app/src/main/kotlin/io/tolgee/mcp\n# See source for mcpServers config block"
+}

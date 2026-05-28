@@ -1,0 +1,7 @@
+{
+  "name": "sidneybissoli-senado-br-mcp",
+  "description": "Access Brazilian Federal Senate open data including legislators, bills, and votes.",
+  "source_repo": "sidneybissoli/senado-br-mcp",
+  "source_url": "https://github.com/sidneybissoli/senado-br-mcp",
+  "install": "npx -y senado-br-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quarkus-agent-mcp",
+  "description": "Creates, manages, and debugs Quarkus applications with lifecycle control, extension skills, and semantic documentation search.",
+  "source_repo": "quarkusio/quarkus-agent-mcp",
+  "source_url": "https://github.com/quarkusio/quarkus-agent-mcp",
+  "install": "npx -y quarkus-agent-mcp"
+}

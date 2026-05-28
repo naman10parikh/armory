@@ -1,0 +1,7 @@
+{
+  "name": "softvoyagers-ogforge-api",
+  "description": "Free Open Graph image generator API with themes, Lucide icons, and custom layouts. No API key required.",
+  "source_repo": "softvoyagers/ogforge-api",
+  "source_url": "https://github.com/softvoyagers/ogforge-api",
+  "install": "# git clone --depth 1 https://github.com/softvoyagers/ogforge-api\n# See source for mcpServers config block"
+}

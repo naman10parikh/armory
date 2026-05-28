@@ -1,0 +1,7 @@
+{
+  "name": "repalash-kite3d-websocket-bridge",
+  "description": "Bridges Kite 3D game engine editor with WebSocket connectivity for real-time scene manipulation and automated game development workflows.",
+  "source_repo": "repalash/mcp-ws-bridge",
+  "source_url": "https://github.com/repalash/mcp-ws-bridge",
+  "install": "# git clone --depth 1 https://github.com/repalash/mcp-ws-bridge\n# See source for mcpServers config block"
+}

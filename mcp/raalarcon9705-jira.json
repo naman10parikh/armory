@@ -1,0 +1,7 @@
+{
+  "name": "raalarcon9705-jira",
+  "description": "Community Jira and Confluence integration with full CRUD, sprint management, workflow transitions, and Markdown-to-ADF conversion.",
+  "source_repo": "raalarcon9705/jira-mcp",
+  "source_url": "https://github.com/raalarcon9705/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

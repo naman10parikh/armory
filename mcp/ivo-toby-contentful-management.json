@@ -1,0 +1,7 @@
+{
+  "name": "ivo-toby-contentful-management",
+  "description": "Integrate with Contentful's Content Management API for CMS management.",
+  "source_repo": "ivo-toby/contentful-mcp",
+  "source_url": "https://github.com/ivo-toby/contentful-mcp",
+  "install": "npx -y contentful-mcp"
+}

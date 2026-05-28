@@ -1,0 +1,7 @@
+{
+  "name": "mayanktalwar0-startup-finance-metrics",
+  "description": "Analyze startup financial health and generate metrics reports from local financial data.",
+  "source_repo": "mayanktalwar0/startup-finance-metrics",
+  "source_url": "https://github.com/mayanktalwar0/startup-finance-metrics",
+  "install": "# git clone --depth 1 https://github.com/mayanktalwar0/startup-finance-metrics\n# See source for mcpServers config block"
+}

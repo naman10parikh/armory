@@ -1,0 +1,7 @@
+{
+  "name": "nmeierpolys-structured-memory",
+  "description": "Maintains structured markdown documents as living memory for focused projects, enabling systematic organization, search, and updates of accumulated context across multiple conversations.",
+  "source_repo": "nmeierpolys/mcp-structured-memory",
+  "source_url": "https://github.com/nmeierpolys/mcp-structured-memory",
+  "install": "# git clone --depth 1 https://github.com/nmeierpolys/mcp-structured-memory\n# See source for mcpServers config block"
+}

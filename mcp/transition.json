@@ -1,0 +1,7 @@
+{
+  "name": "transition",
+  "description": "AI-powered multisport coaching with personalized workouts, adaptive training plans, and performance analytics for triathletes, runners, and cyclists.",
+  "source_repo": "nftechie/transition-mcp",
+  "source_url": "https://github.com/nftechie/transition-mcp/tree/HEAD/mcp",
+  "install": "npx -y transition-mcp"
+}

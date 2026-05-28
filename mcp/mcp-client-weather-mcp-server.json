@@ -1,0 +1,7 @@
+{
+  "name": "mcp-client-weather-mcp-server",
+  "description": "MCP Client Weather MCP Server MCP server listed on mcp.so.",
+  "source_repo": "trymeuj/MCP-client-weather-MCP-server",
+  "source_url": "https://mcp.so/server/MCP-client-weather-MCP-server/trymeuj",
+  "install": "npx -y MCP-client-weather-MCP-server"
+}

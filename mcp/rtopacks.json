@@ -1,0 +1,7 @@
+{
+  "name": "rtopacks",
+  "description": "Access Australia's VET National Register for qualifications, units, skill sets, and AQF pathways.",
+  "source_repo": "",
+  "source_url": "https://rtopacks.com.au",
+  "install": "# git clone --depth 1 https://rtopacks.com.au\n# See source for mcpServers config block"
+}

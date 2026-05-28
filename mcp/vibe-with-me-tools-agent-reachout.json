@@ -1,0 +1,7 @@
+{
+  "name": "vibe-with-me-tools-agent-reachout",
+  "description": "Enables Telegram notifications and mobile responses for long-running tasks by redirecting terminal prompts with conversation state management and timeout handling.",
+  "source_repo": "vibe-with-me-tools/agent-reachout",
+  "source_url": "https://github.com/vibe-with-me-tools/agent-reachout",
+  "install": "# git clone --depth 1 https://github.com/vibe-with-me-tools/agent-reachout\n# See source for mcpServers config block"
+}

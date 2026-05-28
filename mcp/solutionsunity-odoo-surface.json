@@ -1,0 +1,7 @@
+{
+  "name": "solutionsunity-odoo-surface",
+  "description": "Provides AI agents with user-equivalent access to Odoo 17+ ERP instances using a five-layer tool architecture scoped to authenticated permissions.",
+  "source_repo": "solutionsunity/odoo-surface-mcp",
+  "source_url": "https://github.com/solutionsunity/odoo-surface-mcp",
+  "install": "npx -y odoo-surface-mcp"
+}

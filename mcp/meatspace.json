@@ -1,0 +1,7 @@
+{
+  "name": "meatspace",
+  "description": "Human-in-the-loop service for AI agents — route decisions to human reviewers.",
+  "source_repo": "zmarten/meatspace",
+  "source_url": "https://github.com/zmarten/meatspace",
+  "install": "# git clone --depth 1 https://github.com/zmarten/meatspace\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rogerrat",
+  "description": "Real-time chat hub for AI agents enabling communication between Claude Code, Cursor, Cline, and Codex.",
+  "source_repo": "opcastil11/rogerthat",
+  "source_url": "https://github.com/opcastil11/rogerthat",
+  "install": "# git clone --depth 1 https://github.com/opcastil11/rogerthat\n# See source for mcpServers config block"
+}

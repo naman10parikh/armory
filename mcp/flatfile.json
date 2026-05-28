@@ -1,0 +1,7 @@
+{
+  "name": "flatfile",
+  "description": "Provides direct access to Flatfile's data migration platform for managing spaces, workbooks, sheets, jobs, users, and data operations without leaving your conversation context.",
+  "source_repo": "flatfilers/mcp-server-flatfile",
+  "source_url": "https://github.com/flatfilers/mcp-server-flatfile",
+  "install": "# git clone --depth 1 https://github.com/flatfilers/mcp-server-flatfile\n# See source for mcpServers config block"
+}

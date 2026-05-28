@@ -1,0 +1,7 @@
+{
+  "name": "gh-hadoyun-gopeak",
+  "description": "Comprehensive Godot Engine integration with 95+ tools, LSP, DAP, and screenshots.",
+  "source_repo": "had0yun/doyunha-gopeak",
+  "source_url": "https://github.com/had0yun/doyunha-gopeak",
+  "install": "# git clone --depth 1 https://github.com/had0yun/doyunha-gopeak\n# See source for mcpServers config block"
+}

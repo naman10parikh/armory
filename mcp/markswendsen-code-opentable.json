@@ -1,0 +1,7 @@
+{
+  "name": "markswendsen-code-opentable",
+  "description": "Automates OpenTable interactions through browser automation for restaurant search and reservation management.",
+  "source_repo": "markswendsen-code/mcp-opentable",
+  "source_url": "https://github.com/markswendsen-code/mcp-opentable",
+  "install": "# git clone --depth 1 https://github.com/markswendsen-code/mcp-opentable\n# See source for mcpServers config block"
+}

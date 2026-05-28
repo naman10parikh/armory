@@ -1,0 +1,7 @@
+{
+  "name": "donghch-remote-exec-gateway",
+  "description": "Provides a secure remote execution gateway for running commands on remote systems via MCP.",
+  "source_repo": "donghch/remote-mcp-exec-gateway",
+  "source_url": "https://github.com/donghch/remote-mcp-exec-gateway",
+  "install": "# git clone --depth 1 https://github.com/donghch/remote-mcp-exec-gateway\n# See source for mcpServers config block"
+}

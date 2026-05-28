@@ -1,0 +1,7 @@
+{
+  "name": "domain-insights",
+  "description": "Analyze domain infrastructure by performing comprehensive DNS, WHOIS, and security audits. Identify technology stacks, track SSL validity, and verify email security configurations to ensure optimal web presence. Monitor global DNS propagation and discover subdomains to gain a complete picture of any",
+  "source_repo": "",
+  "source_url": "https://mcpdns.onrender.com/about",
+  "install": "# git clone --depth 1 https://mcpdns.onrender.com/about\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "akshayaggarwal99-amp",
+  "description": "Provides local-first persistent memory with episodic and semantic storage, enabling context retention across sessions and knowledge graph building from conversations.",
+  "source_repo": "akshayaggarwal99/amp",
+  "source_url": "https://github.com/akshayaggarwal99/amp",
+  "install": "# git clone --depth 1 https://github.com/akshayaggarwal99/amp\n# See source for mcpServers config block"
+}

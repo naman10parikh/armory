@@ -1,0 +1,7 @@
+{
+  "name": "potato-castle-mono-memory",
+  "description": "Lightweight self-hosted team memory server with SQLite storage for saving, searching, and retrieving contextual information across AI coding sessions.",
+  "source_repo": "potato-castle/mono-memory-mcp",
+  "source_url": "https://github.com/potato-castle/mono-memory-mcp",
+  "install": "npx -y mono-memory-mcp"
+}

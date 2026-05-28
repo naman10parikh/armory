@@ -1,0 +1,7 @@
+{
+  "name": "mcp-omnisearch",
+  "description": "Mcp Omnisearch MCP server listed on mcp.so.",
+  "source_repo": "spences10/mcp-omnisearch",
+  "source_url": "https://mcp.so/server/mcp-omnisearch/spences10",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-omnisearch/spences10\n# See source for mcpServers config block"
+}

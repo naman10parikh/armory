@@ -1,0 +1,7 @@
+{
+  "name": "party-time-mcp",
+  "description": "Party Time Mcp MCP server listed on mcp.so.",
+  "source_repo": "idyll/party-time-mcp",
+  "source_url": "https://mcp.so/server/party-time-mcp/idyll",
+  "install": "npx -y party-time-mcp"
+}

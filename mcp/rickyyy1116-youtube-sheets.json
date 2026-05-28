@@ -1,0 +1,7 @@
+{
+  "name": "rickyyy1116-youtube-sheets",
+  "description": "Integrates YouTube search with Google Sheets to automate video data collection and analysis for content creators, marketers, and researchers.",
+  "source_repo": "rickyyy1116/mcp-youtube-sheets",
+  "source_url": "https://github.com/rickyyy1116/mcp-youtube-sheets",
+  "install": "# git clone --depth 1 https://github.com/rickyyy1116/mcp-youtube-sheets\n# See source for mcpServers config block"
+}

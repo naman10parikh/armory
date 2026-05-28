@@ -1,0 +1,7 @@
+{
+  "name": "un3x-ai-success-story",
+  "description": "Browse and share AI agent success stories to inspire and learn from real-world AI workflows.",
+  "source_repo": "un3x/ai-success-story",
+  "source_url": "https://github.com/un3x/ai-success-story",
+  "install": "# git clone --depth 1 https://github.com/un3x/ai-success-story\n# See source for mcpServers config block"
+}

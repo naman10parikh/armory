@@ -1,0 +1,7 @@
+{
+  "name": "laf-rge-quickbooks",
+  "description": "Integrates with QuickBooks Online API to query customers, invoices, accounts, transactions, and generate financial reports through natural language.",
+  "source_repo": "laf-rge/quickbooks-mcp",
+  "source_url": "https://github.com/laf-rge/quickbooks-mcp",
+  "install": "npx -y quickbooks-mcp"
+}

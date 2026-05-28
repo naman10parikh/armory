@@ -1,0 +1,7 @@
+{
+  "name": "unity-mcp-template",
+  "description": "Unity Mcp Template MCP server listed on mcp.so.",
+  "source_repo": "dunward/unity-mcp-template",
+  "source_url": "https://mcp.so/server/unity-mcp-template/dunward",
+  "install": "# git clone --depth 1 https://mcp.so/server/unity-mcp-template/dunward\n# See source for mcpServers config block"
+}

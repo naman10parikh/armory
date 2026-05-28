@@ -1,0 +1,7 @@
+{
+  "name": "yuanooo-oceanbase",
+  "description": "Provides a secure bridge to OceanBase databases for listing tables, reading data, and executing SQL queries with configurable permission levels for data analysis and administration tasks.",
+  "source_repo": "yuanooo/oceanbase_mcp_server",
+  "source_url": "https://github.com/yuanooo/oceanbase_mcp_server",
+  "install": "npx -y oceanbase_mcp_server"
+}

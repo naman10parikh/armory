@@ -1,0 +1,7 @@
+{
+  "name": "prd-mcp-server",
+  "description": "PRD MCP Server MCP server listed on mcp.so.",
+  "source_repo": "Saml1211/PRD-MCP-Server",
+  "source_url": "https://mcp.so/server/PRD-MCP-Server/Saml1211",
+  "install": "npx -y PRD-MCP-Server"
+}

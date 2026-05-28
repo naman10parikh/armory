@@ -1,0 +1,7 @@
+{
+  "name": "manticoresoftware-manticore-search",
+  "description": "Query and manage Manticore Search databases with SQL execution, schema inspection, and built-in documentation access.",
+  "source_repo": "manticoresoftware/mcp-manticore",
+  "source_url": "https://github.com/manticoresoftware/mcp-manticore",
+  "install": "# git clone --depth 1 https://github.com/manticoresoftware/mcp-manticore\n# See source for mcpServers config block"
+}

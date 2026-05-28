@@ -1,0 +1,7 @@
+{
+  "name": "ybouhjira-openai-tts",
+  "description": "Converts text to speech using OpenAI's TTS API with configurable voices and cross-platform audio playback.",
+  "source_repo": "ybouhjira/claude-code-tts",
+  "source_url": "https://github.com/ybouhjira/claude-code-tts",
+  "install": "# git clone --depth 1 https://github.com/ybouhjira/claude-code-tts\n# See source for mcpServers config block"
+}

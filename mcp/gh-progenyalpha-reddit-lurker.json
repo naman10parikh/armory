@@ -1,0 +1,7 @@
+{
+  "name": "gh-progenyalpha-reddit-lurker",
+  "description": "Reddit reader delivering full comment trees with 94% fewer tokens than JSON.",
+  "source_repo": "progenyalpha/reddit-lurker",
+  "source_url": "https://github.com/progenyalpha/reddit-lurker",
+  "install": "# git clone --depth 1 https://github.com/progenyalpha/reddit-lurker\n# See source for mcpServers config block"
+}

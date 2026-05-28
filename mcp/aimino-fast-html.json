@@ -1,0 +1,7 @@
+{
+  "name": "aimino-fast-html",
+  "description": "Generate HTML from AI agents with 15 tools, 22 components, and 25 templates for rapid web output.",
+  "source_repo": "aimino-tech/fast-html-mcp-server",
+  "source_url": "https://github.com/aimino-tech/fast-html-mcp-server",
+  "install": "npx -y fast-html-mcp-server"
+}

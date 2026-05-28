@@ -1,0 +1,7 @@
+{
+  "name": "cloudwerx-diffugen",
+  "description": "CloudWerx's DiffuGen provides a flexible image generation server that supports multiple stable diffusion models with advanced configuration options for prompt engineering and generation parameters.",
+  "source_repo": "cloudwerx-dev/diffugen",
+  "source_url": "https://github.com/cloudwerx-dev/diffugen",
+  "install": "# git clone --depth 1 https://github.com/cloudwerx-dev/diffugen\n# See source for mcpServers config block"
+}

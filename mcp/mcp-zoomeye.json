@@ -1,0 +1,7 @@
+{
+  "name": "mcp-zoomeye",
+  "description": "Mcp_zoomeye MCP server listed on mcp.so.",
+  "source_repo": "zoomeye-ai/mcp_zoomeye",
+  "source_url": "https://mcp.so/server/mcp_zoomeye/zoomeye-ai",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_zoomeye/zoomeye-ai\n# See source for mcpServers config block"
+}

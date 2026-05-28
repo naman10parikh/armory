@@ -1,0 +1,7 @@
+{
+  "name": "base-mcp",
+  "description": "Base Mcp MCP server listed on mcp.so.",
+  "source_repo": "base/base-mcp",
+  "source_url": "https://mcp.so/server/base-mcp/base",
+  "install": "npx -y base-mcp"
+}

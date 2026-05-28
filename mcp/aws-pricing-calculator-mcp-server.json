@@ -1,0 +1,7 @@
+{
+  "name": "aws-pricing-calculator-mcp-server",
+  "description": "MCP server that provides tools for automating AWS Pricing Calculator estimate generation.",
+  "source_repo": "elchanio-76/aws-pricing-calculator-mcp",
+  "source_url": "https://github.com/elchanio-76/aws-pricing-calculator-mcp",
+  "install": "npx -y aws-pricing-calculator-mcp"
+}

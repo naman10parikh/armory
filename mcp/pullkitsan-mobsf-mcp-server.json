@@ -1,0 +1,7 @@
+{
+  "name": "pullkitsan-mobsf-mcp-server",
+  "description": "A MCP server for MobSF which can be used for static and dynamic analysis of Android and iOS application.",
+  "source_repo": "pullkitsan/mobsf-mcp-server",
+  "source_url": "https://github.com/pullkitsan/mobsf-mcp-server",
+  "install": "npx -y mobsf-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "omnifocus-mcp",
+  "description": "Enables AI assistants to read and write to OmniFocus database, allowing natural language task management, project creation, and GTD workflows.",
+  "source_repo": "kip-d/omnifocus-mcp",
+  "source_url": "https://github.com/kip-d/omnifocus-mcp",
+  "install": "npx -y omnifocus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anthropic-glean",
+  "description": "Integrates Glean's search and chat APIs to enable natural language interactions with organizational knowledge bases and chatbots.",
+  "source_repo": "longyi1207/glean-mcp-server",
+  "source_url": "https://github.com/longyi1207/glean-mcp-server",
+  "install": "npx -y glean-mcp-server"
+}

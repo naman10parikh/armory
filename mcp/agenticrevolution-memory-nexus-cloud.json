@@ -1,0 +1,7 @@
+{
+  "name": "agenticrevolution-memory-nexus-cloud",
+  "description": "Cloud-hosted persistent semantic memory for AI agents. Semantic search, knowledge graphs, specialist expertise hats, and multi-tenant isolation. Free 7-day trial.",
+  "source_repo": "AgenticRevolution/memory-nexus-cloud",
+  "source_url": "https://github.com/AgenticRevolution/memory-nexus-cloud",
+  "install": "# git clone --depth 1 https://github.com/AgenticRevolution/memory-nexus-cloud\n# See source for mcpServers config block"
+}

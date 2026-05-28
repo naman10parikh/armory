@@ -1,0 +1,7 @@
+{
+  "name": "nityeshaga-hetzner-cloud",
+  "description": "Integrates with Hetzner Cloud API for managing servers, SSH keys, and infrastructure resources with power operations and datacenter queries.",
+  "source_repo": "nityeshaga/hetzner-mcp-server",
+  "source_url": "https://github.com/nityeshaga/hetzner-mcp-server",
+  "install": "npx -y hetzner-mcp-server"
+}

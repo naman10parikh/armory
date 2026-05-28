@@ -1,0 +1,7 @@
+{
+  "name": "godavaii-health",
+  "description": "Indian medicine database for checking drug interactions, pregnancy safety, and dosage information.",
+  "source_repo": "godavai01/godavaii-mcp-server",
+  "source_url": "https://github.com/godavai01/godavaii-mcp-server",
+  "install": "npx -y godavaii-mcp-server"
+}

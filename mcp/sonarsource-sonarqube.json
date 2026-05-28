@@ -1,0 +1,7 @@
+{
+  "name": "sonarsource-sonarqube",
+  "description": "Integrates with SonarQube and SonarCloud platforms for code quality analysis, issue management, metrics retrieval, quality gate monitoring, and system administration across both server and cloud environments.",
+  "source_repo": "sonarsource/sonarqube-mcp-server",
+  "source_url": "https://github.com/sonarsource/sonarqube-mcp-server",
+  "install": "npx -y sonarqube-mcp-server"
+}

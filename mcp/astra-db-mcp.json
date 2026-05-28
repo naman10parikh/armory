@@ -1,0 +1,7 @@
+{
+  "name": "astra-db-mcp",
+  "description": "Astra Db Mcp MCP server listed on mcp.so.",
+  "source_repo": "datastax/astra-db-mcp",
+  "source_url": "https://mcp.so/server/astra-db-mcp/datastax",
+  "install": "npx -y astra-db-mcp"
+}

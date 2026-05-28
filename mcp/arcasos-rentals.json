@@ -1,0 +1,7 @@
+{
+  "name": "arcasos-rentals",
+  "description": "Korean premium short-term rental search using natural language or structured filters via the proprietary SHV engine.",
+  "source_repo": "",
+  "source_url": "https://arcasos.com",
+  "install": "# git clone --depth 1 https://arcasos.com\n# See source for mcpServers config block"
+}

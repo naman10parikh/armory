@@ -1,0 +1,7 @@
+{
+  "name": "rafaelsztutman-dtc-ecommerce",
+  "description": "Context-optimized analytics for DTC e-commerce brands, connecting Klaviyo and Shopify data with pre-aggregated campaign, sales, and subscriber insights.",
+  "source_repo": "rafaelsztutman/dtc-mcp",
+  "source_url": "https://github.com/rafaelsztutman/dtc-mcp",
+  "install": "npx -y dtc-mcp"
+}

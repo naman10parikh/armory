@@ -1,0 +1,7 @@
+{
+  "name": "ethbak-icon-composer",
+  "description": "Creates Apple .icon bundles with Liquid Glass effects for iOS 26+.",
+  "source_repo": "ethbak/icon-composer-mcp",
+  "source_url": "https://github.com/ethbak/icon-composer-mcp",
+  "install": "npx -y icon-composer-mcp"
+}

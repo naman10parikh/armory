@@ -1,0 +1,7 @@
+{
+  "name": "blakerouse-ssh-mcp",
+  "description": "MCP server exposing SSH control for Linux and Windows servers. Allows long running commands and the ability to perform commands on multiple hosts at the same time.",
+  "source_repo": "blakerouse/ssh-mcp",
+  "source_url": "https://github.com/blakerouse/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

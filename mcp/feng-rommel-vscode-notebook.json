@@ -1,0 +1,7 @@
+{
+  "name": "feng-rommel-vscode-notebook",
+  "description": "Enables AI agents to operate Jupyter notebooks in VS Code through a bridge server architecture supporting cell management, code execution, and kernel control.",
+  "source_repo": "feng-rommel/vscodenotebookmcp",
+  "source_url": "https://github.com/feng-rommel/vscodenotebookmcp",
+  "install": "# git clone --depth 1 https://github.com/feng-rommel/vscodenotebookmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "a2adependencyinspector-mcp",
+  "description": "Audit-ready A2A dependency analysis with verdicts, receipts, and usage logs for agent and CI workflows.",
+  "source_repo": "clauxel/a2a-dependency-inspector-mcp",
+  "source_url": "https://github.com/clauxel/a2a-dependency-inspector-mcp",
+  "install": "npx -y a2a-dependency-inspector-mcp"
+}

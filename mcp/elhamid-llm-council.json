@@ -1,0 +1,7 @@
+{
+  "name": "elhamid-llm-council",
+  "description": "Multi-LLM deliberation with anonymized peer review. Runs a 3-stage council: parallel responses → anonymous ranking → synthesis. Based on Andrej Karpathy's LLM Council concept.",
+  "source_repo": "elhamid/llm-council",
+  "source_url": "https://github.com/elhamid/llm-council",
+  "install": "# git clone --depth 1 https://github.com/elhamid/llm-council\n# See source for mcpServers config block"
+}

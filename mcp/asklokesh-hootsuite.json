@@ -1,0 +1,7 @@
+{
+  "name": "asklokesh-hootsuite",
+  "description": "Integrates with Hootsuite for social media management.",
+  "source_repo": "asklokesh/hootsuite-mcp-server",
+  "source_url": "https://github.com/asklokesh/hootsuite-mcp-server",
+  "install": "npx -y hootsuite-mcp-server"
+}

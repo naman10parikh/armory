@@ -1,0 +1,7 @@
+{
+  "name": "lunfengchen-gateway",
+  "description": "Aggregates multiple MCP servers into unified tool interfaces to reduce LLM context occupation",
+  "source_repo": "lunfengchen/gateway-mcp",
+  "source_url": "https://github.com/lunfengchen/gateway-mcp",
+  "install": "npx -y gateway-mcp"
+}

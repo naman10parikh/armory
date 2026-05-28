@@ -1,0 +1,7 @@
+{
+  "name": "antbotlab-mac-use",
+  "description": "Zero-dependency macOS desktop automation providing screenshots, clicks, keystrokes, window management, accessibility inspection, and clipboard control for AI agents.",
+  "source_repo": "antbotlab/mac-use-mcp",
+  "source_url": "https://github.com/antbotlab/mac-use-mcp",
+  "install": "npx -y mac-use-mcp"
+}

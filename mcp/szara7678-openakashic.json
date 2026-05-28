@@ -1,0 +1,7 @@
+{
+  "name": "szara7678-openakashic",
+  "description": "Shared long-term memory vault for AI agents combining private markdown notes with a public verified-claims API for cross-session knowledge sharing.",
+  "source_repo": "szara7678/openakashic",
+  "source_url": "https://github.com/szara7678/openakashic",
+  "install": "# git clone --depth 1 https://github.com/szara7678/openakashic\n# See source for mcpServers config block"
+}

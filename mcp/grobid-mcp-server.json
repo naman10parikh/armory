@@ -1,0 +1,7 @@
+{
+  "name": "grobid-mcp-server",
+  "description": "Grobid MCP Server MCP server listed on mcp.so.",
+  "source_repo": "JackKuo666/grobid-MCP-Server",
+  "source_url": "https://mcp.so/server/grobid-MCP-Server/JackKuo666",
+  "install": "npx -y grobid-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vivek1612-mongodb",
+  "description": "Enables direct interaction with MongoDB databases for querying, modifying, and managing collections, documents, and indexes using MongoDB's native query syntax.",
+  "source_repo": "vivek1612/mongodb-mcp",
+  "source_url": "https://github.com/vivek1612/mongodb-mcp",
+  "install": "npx -y mongodb-mcp"
+}

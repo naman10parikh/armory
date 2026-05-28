@@ -1,0 +1,7 @@
+{
+  "name": "ibanforge",
+  "description": "IBAN validation and BIC/SWIFT lookup with x402 micropayments and MCP integration.",
+  "source_repo": "cammac-creator/ibanforge",
+  "source_url": "https://github.com/cammac-creator/ibanforge",
+  "install": "# git clone --depth 1 https://github.com/cammac-creator/ibanforge\n# See source for mcpServers config block"
+}

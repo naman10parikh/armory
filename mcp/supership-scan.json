@@ -1,0 +1,7 @@
+{
+  "name": "supership-scan",
+  "description": "Pre-deploy AI code security scanner with 80+ vulnerability patterns, built for AI editors.",
+  "source_repo": "andysalvo/supership-scan",
+  "source_url": "https://github.com/andysalvo/supership-scan",
+  "install": "# git clone --depth 1 https://github.com/andysalvo/supership-scan\n# See source for mcpServers config block"
+}

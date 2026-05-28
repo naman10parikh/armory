@@ -1,0 +1,7 @@
+{
+  "name": "andrew-beniash-command-security-layer",
+  "description": "Implements a robust security layer for command processing, utilizing multi-step verification and auditing to enable high-security use cases like critical infrastructure management.",
+  "source_repo": "andrew-beniash/mcp-command-server",
+  "source_url": "https://github.com/andrew-beniash/mcp-command-server",
+  "install": "# git clone --depth 1 https://github.com/andrew-beniash/mcp-command-server\n# See source for mcpServers config block"
+}

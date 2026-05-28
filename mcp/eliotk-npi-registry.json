@@ -1,0 +1,7 @@
+{
+  "name": "eliotk-npi-registry",
+  "description": "Integrates with the National Provider Identifier (NPI) registry to search for healthcare providers and organizations by name, location, specialty, or NPI number with detailed contact information, credentials, and practice locations.",
+  "source_repo": "eliotk/npi-registry-mcp-server",
+  "source_url": "https://github.com/eliotk/npi-registry-mcp-server",
+  "install": "npx -y npi-registry-mcp-server"
+}

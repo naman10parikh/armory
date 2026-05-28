@@ -1,0 +1,7 @@
+{
+  "name": "niyogi-render",
+  "description": "Deployment-related tooling for Render.com.",
+  "source_repo": "niyogi/render-mcp",
+  "source_url": "https://github.com/niyogi/render-mcp",
+  "install": "npx -y render-mcp"
+}

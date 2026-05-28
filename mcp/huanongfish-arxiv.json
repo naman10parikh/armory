@@ -1,0 +1,7 @@
+{
+  "name": "huanongfish-arxiv",
+  "description": "Integrates with arXiv to enable flexible paper search, PDF downloading, and text extraction for literature review, research trend analysis, and automated summarization in scientific domains.",
+  "source_repo": "huanongfish/arxiv-mcp",
+  "source_url": "https://github.com/huanongfish/arxiv-mcp",
+  "install": "npx -y arxiv-mcp"
+}

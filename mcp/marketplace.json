@@ -1,0 +1,7 @@
+{
+  "name": "marketplace",
+  "description": "Search products and stores in nearby physical stores near you.",
+  "source_repo": "rubenayla/partle-mcp",
+  "source_url": "https://github.com/rubenayla/partle-mcp",
+  "install": "npx -y partle-mcp"
+}

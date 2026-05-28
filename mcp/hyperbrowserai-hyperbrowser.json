@@ -1,0 +1,7 @@
+{
+  "name": "hyperbrowserai-hyperbrowser",
+  "description": "Enables web browsing capabilities through tools for content extraction, link following, and browser automation with customizable parameters for scraping, data collection, and web crawling tasks.",
+  "source_repo": "hyperbrowserai/mcp",
+  "source_url": "https://github.com/hyperbrowserai/mcp",
+  "install": "# git clone --depth 1 https://github.com/hyperbrowserai/mcp\n# See source for mcpServers config block"
+}

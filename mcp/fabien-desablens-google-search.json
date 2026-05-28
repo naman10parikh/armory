@@ -1,0 +1,7 @@
+{
+  "name": "fabien-desablens-google-search",
+  "description": "Integrates with Google's Custom Search API using automatic key rotation and quota management to provide high-volume web search capabilities with advanced filtering options including language targeting, geolocation, date restrictions, and site-specific queries.",
+  "source_repo": "fabien-desablens/google-search-mcp",
+  "source_url": "https://github.com/fabien-desablens/google-search-mcp",
+  "install": "npx -y google-search-mcp"
+}

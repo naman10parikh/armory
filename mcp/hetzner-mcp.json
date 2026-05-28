@@ -1,0 +1,7 @@
+{
+  "name": "hetzner-mcp",
+  "description": "Model Context Protocol server for full Hetzner Cloud + Storage API automation. Exposes all official Hetzner operations as MCP tools so AI agents can manage servers, networking, load balancers, firewalls, volumes, DNS zones, and storage boxes from one server.",
+  "source_repo": "devinoldenburg/hetzner-mcp",
+  "source_url": "https://github.com/devinoldenburg/hetzner-mcp",
+  "install": "npx -y hetzner-mcp"
+}

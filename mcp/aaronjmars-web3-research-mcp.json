@@ -1,0 +1,7 @@
+{
+  "name": "aaronjmars-web3-research-mcp",
+  "description": "Deep Research for crypto - free & fully local",
+  "source_repo": "aaronjmars/web3-research-mcp",
+  "source_url": "https://github.com/aaronjmars/web3-research-mcp",
+  "install": "npx -y web3-research-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "markcoleman-members1st",
+  "description": "Provides financial account data and transaction history access with support for both mock data and live Members 1st credit union API integration",
+  "source_repo": "markcoleman/m1-mcp",
+  "source_url": "https://github.com/markcoleman/m1-mcp",
+  "install": "npx -y m1-mcp"
+}

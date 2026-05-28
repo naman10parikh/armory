@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-dns-lookup",
+  "description": "Look up DNS records — A, AAAA, MX, TXT, CNAME, NS — via Cloudflare.",
+  "source_repo": "br0ski777/dns-lookup-x402",
+  "source_url": "https://github.com/br0ski777/dns-lookup-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/dns-lookup-x402\n# See source for mcpServers config block"
+}

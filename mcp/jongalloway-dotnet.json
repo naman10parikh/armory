@@ -1,0 +1,7 @@
+{
+  "name": "jongalloway-dotnet",
+  "description": "Access to .NET SDK for projects, packages, building, testing, and development tools",
+  "source_repo": "jongalloway/dotnet-mcp",
+  "source_url": "https://github.com/jongalloway/dotnet-mcp",
+  "install": "npx -y dotnet-mcp"
+}

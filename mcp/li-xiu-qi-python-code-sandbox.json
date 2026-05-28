@@ -1,0 +1,7 @@
+{
+  "name": "li-xiu-qi-python-code-sandbox",
+  "description": "Provides secure Python code execution in isolated Docker containers with automatic dependency installation, session persistence, and file retrieval for data analysis and visualization tasks.",
+  "source_repo": "li-xiu-qi/python-code-sandbox-mcp",
+  "source_url": "https://github.com/li-xiu-qi/python-code-sandbox-mcp",
+  "install": "npx -y python-code-sandbox-mcp"
+}

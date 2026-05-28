@@ -1,0 +1,7 @@
+{
+  "name": "kaewz-manga-n8n-monitoring",
+  "description": "Monitors n8n workflow automation health by analyzing execution history, tracking KPIs like success rates and timing data, and providing detailed error diagnostics for failed workflows.",
+  "source_repo": "kaewz-manga/n8n-monitoring-mcp",
+  "source_url": "https://github.com/kaewz-manga/n8n-monitoring-mcp",
+  "install": "npx -y n8n-monitoring-mcp"
+}

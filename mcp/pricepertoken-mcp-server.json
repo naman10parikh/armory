@@ -1,0 +1,7 @@
+{
+  "name": "pricepertoken-mcp-server",
+  "description": "LLM API pricing comparison and benchmarks across 100+ models from 30+ providers including OpenAI, Anthropic, Google, and Meta. No API key required.",
+  "source_repo": "",
+  "source_url": "https://pricepertoken.com/mcp",
+  "install": "# git clone --depth 1 https://pricepertoken.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "epistates-turbomcp",
+  "description": "TurboMCP SDK: Enterprise MCP SDK in Rust",
+  "source_repo": "Epistates/turbomcp",
+  "source_url": "https://github.com/Epistates/turbomcp",
+  "install": "# git clone --depth 1 https://github.com/Epistates/turbomcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "electron-dev-bridge",
+  "description": "Maps Electron app IPC handlers to MCP tools and provides 33 built-in CDP tools for DOM automation, screenshots, interaction, and debugging, enabling Claude Code to directly control your Electron app.",
+  "source_repo": "delta-and-beta/electron-dev-bridge",
+  "source_url": "https://github.com/delta-and-beta/electron-dev-bridge",
+  "install": "# git clone --depth 1 https://github.com/delta-and-beta/electron-dev-bridge\n# See source for mcpServers config block"
+}

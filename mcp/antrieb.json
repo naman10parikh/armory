@@ -1,0 +1,7 @@
+{
+  "name": "antrieb",
+  "description": "Validates AI-generated infrastructure code by executing it on real VMs with self-correction.",
+  "source_repo": "jade-pico/antrieb-mcp-server",
+  "source_url": "https://github.com/jade-pico/antrieb-mcp-server",
+  "install": "npx -y antrieb-mcp-server"
+}

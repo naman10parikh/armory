@@ -1,0 +1,7 @@
+{
+  "name": "gh-bruno-portfolio-agrobr",
+  "description": "Brazilian agricultural data — commodity prices, crop statistics, climate data, and deforestation tracking.",
+  "source_repo": "bruno-portfolio/agrobr-mcp",
+  "source_url": "https://github.com/bruno-portfolio/agrobr-mcp",
+  "install": "npx -y agrobr-mcp"
+}

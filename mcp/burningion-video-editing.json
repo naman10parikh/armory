@@ -1,0 +1,7 @@
+{
+  "name": "burningion-video-editing",
+  "description": "Integrates with Video Jungle API to enable AI-powered video editing and content searching through natural language queries and automated clip generation.",
+  "source_repo": "burningion/video-editing-mcp",
+  "source_url": "https://github.com/burningion/video-editing-mcp",
+  "install": "npx -y video-editing-mcp"
+}

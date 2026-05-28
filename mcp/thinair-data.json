@@ -1,0 +1,7 @@
+{
+  "name": "thinair-data",
+  "description": "Provides data access and analytics through ThinAir's authenticated MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://data.thinair.co/mcp",
+  "install": "# git clone --depth 1 https://data.thinair.co/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mtane0412-ghost-admin-api",
+  "description": "Integrates with Ghost CMS's Admin API to enable automated content management and custom publishing workflows for Ghost blogs.",
+  "source_repo": "mtane0412/ghost-mcp-server",
+  "source_url": "https://github.com/mtane0412/ghost-mcp-server",
+  "install": "npx -y ghost-mcp-server"
+}

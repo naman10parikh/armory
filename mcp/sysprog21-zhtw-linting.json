@@ -1,0 +1,7 @@
+{
+  "name": "sysprog21-zhtw-linting",
+  "description": "Enforces Taiwan Ministry of Education standards for Traditional Chinese text, catching Mainland Chinese regional drift in vocabulary, punctuation, and character shapes.",
+  "source_repo": "sysprog21/zhtw-mcp",
+  "source_url": "https://github.com/sysprog21/zhtw-mcp",
+  "install": "npx -y zhtw-mcp"
+}

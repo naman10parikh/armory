@@ -1,0 +1,7 @@
+{
+  "name": "openl-mcp-server",
+  "description": "Enables AI assistants to interact with OpenL Studio's business rules management system, allowing repository, project, rule, and deployment management via natural language.",
+  "source_repo": "openl-tablets/openl-mcp",
+  "source_url": "https://github.com/openl-tablets/openl-mcp",
+  "install": "npx -y openl-mcp"
+}

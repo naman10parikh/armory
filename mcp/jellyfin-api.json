@@ -1,0 +1,7 @@
+{
+  "name": "jellyfin-api",
+  "description": "Provides interaction with Jellyfin media server via the Jellyfin REST API, enabling content management and server configuration through natural language.",
+  "source_repo": "ag2-mcp-servers/jellyfin-api",
+  "source_url": "https://github.com/ag2-mcp-servers/jellyfin-api",
+  "install": "# git clone --depth 1 https://github.com/ag2-mcp-servers/jellyfin-api\n# See source for mcpServers config block"
+}

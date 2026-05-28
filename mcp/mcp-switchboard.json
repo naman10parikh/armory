@@ -1,0 +1,7 @@
+{
+  "name": "mcp-switchboard",
+  "description": "MCP SwitchBoard MCP server listed on mcp.so.",
+  "source_repo": "grapheneaffiliate/MCP-SwitchBoard",
+  "source_url": "https://mcp.so/server/MCP-SwitchBoard/grapheneaffiliate",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-SwitchBoard/grapheneaffiliate\n# See source for mcpServers config block"
+}

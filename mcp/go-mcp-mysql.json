@@ -1,0 +1,7 @@
+{
+  "name": "go-mcp-mysql",
+  "description": "Go Mcp Mysql MCP server listed on mcp.so.",
+  "source_repo": "Zhwt/go-mcp-mysql",
+  "source_url": "https://mcp.so/server/go-mcp-mysql/Zhwt",
+  "install": "# git clone --depth 1 https://mcp.so/server/go-mcp-mysql/Zhwt\n# See source for mcpServers config block"
+}

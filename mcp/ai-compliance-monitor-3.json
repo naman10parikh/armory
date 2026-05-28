@@ -1,0 +1,7 @@
+{
+  "name": "ai-compliance-monitor-3",
+  "description": "ai-compliance-monitor",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/vdineshk/ai-compliance-monitor",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/vdineshk/ai-compliance-monitor\n# See source for mcpServers config block"
+}

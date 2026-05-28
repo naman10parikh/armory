@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-analyzer",
+  "description": "An MCP server that performs comprehensive Python code analysis using Ruff, ty, and Vulture for linting, type checking, and dead code detection.",
+  "source_repo": "Anselmoo/mcp-server-analyzer",
+  "source_url": "https://github.com/Anselmoo/mcp-server-analyzer",
+  "install": "# git clone --depth 1 https://github.com/Anselmoo/mcp-server-analyzer\n# See source for mcpServers config block"
+}

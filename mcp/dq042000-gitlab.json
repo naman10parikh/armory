@@ -1,0 +1,7 @@
+{
+  "name": "dq042000-gitlab",
+  "description": "Integrates with GitLab API for repository management, issue tracking, merge requests, and code search with configurable scan depth.",
+  "source_repo": "dq042000/gitlab-mcp-server",
+  "source_url": "https://github.com/dq042000/gitlab-mcp-server",
+  "install": "npx -y gitlab-mcp-server"
+}

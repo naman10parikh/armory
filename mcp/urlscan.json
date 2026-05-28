@@ -1,0 +1,7 @@
+{
+  "name": "urlscan",
+  "description": "Provides a bridge to urlscan.io for analyzing website security and content information through a single tool that accepts URL parameters and returns scan results.",
+  "source_repo": "onurucard4/scan-url-mcp-server",
+  "source_url": "https://github.com/onurucard4/scan-url-mcp-server",
+  "install": "npx -y scan-url-mcp-server"
+}

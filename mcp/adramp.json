@@ -1,0 +1,7 @@
+{
+  "name": "adramp",
+  "description": "Read-only Google Ads MCP server with OAuth authentication for campaign performance analysis, keyword insights, and budget tracking.",
+  "source_repo": "",
+  "source_url": "https://adramp.ai",
+  "install": "# git clone --depth 1 https://adramp.ai\n# See source for mcpServers config block"
+}

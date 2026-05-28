@@ -1,0 +1,7 @@
+{
+  "name": "karwalski-toke",
+  "description": "Execute and analyze Toke programming language code with syntax checking and debugging.",
+  "source_repo": "karwalski/toke-mcp",
+  "source_url": "https://github.com/karwalski/toke-mcp",
+  "install": "npx -y toke-mcp"
+}

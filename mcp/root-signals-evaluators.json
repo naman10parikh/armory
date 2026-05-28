@@ -1,0 +1,7 @@
+{
+  "name": "root-signals-evaluators",
+  "description": "Exposes Root Signals evaluators as tools for AI assistants & agents, allowing them to evaluate responses against various quality criteria.",
+  "source_repo": "root-signals/scorable-mcp",
+  "source_url": "https://github.com/root-signals/scorable-mcp",
+  "install": "npx -y scorable-mcp"
+}

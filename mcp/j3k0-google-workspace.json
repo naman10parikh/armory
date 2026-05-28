@@ -1,0 +1,7 @@
+{
+  "name": "j3k0-google-workspace",
+  "description": "Integrates Google Workspace APIs to enable tasks like sending emails, scheduling meetings, and managing documents in Gmail, Calendar, and Drive.",
+  "source_repo": "j3k0/mcp-google-workspace",
+  "source_url": "https://github.com/j3k0/mcp-google-workspace",
+  "install": "# git clone --depth 1 https://github.com/j3k0/mcp-google-workspace\n# See source for mcpServers config block"
+}

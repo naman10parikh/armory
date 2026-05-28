@@ -1,0 +1,7 @@
+{
+  "name": "gimjin-message-notifications",
+  "description": "Provides multi-channel notification capabilities through desktop notifications, email via SMTP, and HTTP API endpoints with a single tool that simultaneously delivers alerts across all configured channels.",
+  "source_repo": "gimjin/message-mcp",
+  "source_url": "https://github.com/gimjin/message-mcp",
+  "install": "npx -y message-mcp"
+}

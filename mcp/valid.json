@@ -1,0 +1,7 @@
+{
+  "name": "valid",
+  "description": "Advertising performance data, creative analysis, and campaign insights for AI-enabled marketing teams.",
+  "source_repo": "",
+  "source_url": "https://valid.co",
+  "install": "# git clone --depth 1 https://valid.co\n# See source for mcpServers config block"
+}

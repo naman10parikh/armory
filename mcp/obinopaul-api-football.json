@@ -1,0 +1,7 @@
+{
+  "name": "obinopaul-api-football",
+  "description": "Provides a bridge to API-Football for accessing soccer data including league standings, team fixtures, player statistics, and live match information through specialized tools that retrieve both historical and real-time data.",
+  "source_repo": "obinopaul/soccer-mcp-server",
+  "source_url": "https://github.com/obinopaul/soccer-mcp-server",
+  "install": "npx -y soccer-mcp-server"
+}

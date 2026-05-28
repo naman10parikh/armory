@@ -1,0 +1,7 @@
+{
+  "name": "stockmarketscan",
+  "description": "18 tools for US stock screeners, chart patterns, options flow signals, and equities research.",
+  "source_repo": "stockmarketscan/mcp-server",
+  "source_url": "https://github.com/stockmarketscan/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/stockmarketscan/mcp-server\n# See source for mcpServers config block"
+}

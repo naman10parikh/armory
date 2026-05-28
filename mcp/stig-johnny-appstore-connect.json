@@ -1,0 +1,7 @@
+{
+  "name": "stig-johnny-appstore-connect",
+  "description": "Retrieves Xcode Cloud build information from Apple's App Store Connect API.",
+  "source_repo": "stig-johnny/appstoreconnect-mcp",
+  "source_url": "https://github.com/stig-johnny/appstoreconnect-mcp",
+  "install": "npx -y appstoreconnect-mcp"
+}

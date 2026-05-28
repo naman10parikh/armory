@@ -1,0 +1,7 @@
+{
+  "name": "anarcher-raindrop-io",
+  "description": "Integrates with the Raindrop.io API to enable bookmark creation, searching, tagging, and collection management for automated bookmark organization and retrieval.",
+  "source_repo": "anarcher/raindrop-io-mcp-server",
+  "source_url": "https://github.com/anarcher/raindrop-io-mcp-server",
+  "install": "npx -y raindrop-io-mcp-server"
+}

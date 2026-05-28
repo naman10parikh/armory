@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mistral-ocr",
+  "description": "Mcp Mistral Ocr MCP server listed on mcp.so.",
+  "source_repo": "everaldo/mcp-mistral-ocr",
+  "source_url": "https://mcp.so/server/mcp-mistral-ocr/everaldo",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-mistral-ocr/everaldo\n# See source for mcpServers config block"
+}

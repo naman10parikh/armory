@@ -1,0 +1,7 @@
+{
+  "name": "curie-vision-commerce",
+  "description": "AI-powered 3D product search and purchase across 5.6M+ Shopify stores. Free global endpoint; authenticated store-specific endpoints available.",
+  "source_repo": "curievision/curie-shopify-app",
+  "source_url": "https://github.com/curievision/curie-shopify-app",
+  "install": "# git clone --depth 1 https://github.com/curievision/curie-shopify-app\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dkships-substack-publisher",
+  "description": "Queries Substack post analytics, subscriber counts, and publication data through the official Publisher API.",
+  "source_repo": "dkships/substack-publisher-mcp",
+  "source_url": "https://github.com/dkships/substack-publisher-mcp",
+  "install": "npx -y substack-publisher-mcp"
+}

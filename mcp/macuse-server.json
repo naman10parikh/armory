@@ -1,0 +1,7 @@
+{
+  "name": "macuse-server",
+  "description": "Native macOS integrations including Calendar, Notes, Messages, Contacts, and UI automation",
+  "source_repo": "",
+  "source_url": "https://macuse.app",
+  "install": "# git clone --depth 1 https://macuse.app\n# See source for mcpServers config block"
+}

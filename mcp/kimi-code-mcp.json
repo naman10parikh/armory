@@ -1,0 +1,7 @@
+{
+  "name": "kimi-code-mcp",
+  "description": "Connects Kimi Code with Claude Code, enabling Claude to delegate bulk codebase reading to Kimi (256K context) for cost savings, while Claude focuses on reasoning and code edits.",
+  "source_repo": "howardpen9/kimi-code-mcp",
+  "source_url": "https://github.com/howardpen9/kimi-code-mcp",
+  "install": "npx -y kimi-code-mcp"
+}

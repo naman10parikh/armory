@@ -1,0 +1,7 @@
+{
+  "name": "zcube-penpot",
+  "description": "Integrates with Penpot's design platform API to create, read, update, and manipulate design files, pages, and objects including shapes, text, images, and visual properties for automated design workflows and batch operations.",
+  "source_repo": "zcube/penpot-mcp-server",
+  "source_url": "https://github.com/zcube/penpot-mcp-server",
+  "install": "npx -y penpot-mcp-server"
+}

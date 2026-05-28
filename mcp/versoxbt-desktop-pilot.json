@@ -1,0 +1,7 @@
+{
+  "name": "versoxbt-desktop-pilot",
+  "description": "macOS desktop automation MCP server enabling AI assistants to control applications, windows, and system interactions via Swift.",
+  "source_repo": "versoxbt/desktop-pilot-mcp",
+  "source_url": "https://github.com/versoxbt/desktop-pilot-mcp",
+  "install": "npx -y desktop-pilot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-twitter-client-mcp",
+  "description": "Agent Twitter Client Mcp MCP server listed on mcp.so.",
+  "source_repo": "ryanmac/agent-twitter-client-mcp",
+  "source_url": "https://mcp.so/server/agent-twitter-client-mcp/ryanmac",
+  "install": "npx -y agent-twitter-client-mcp"
+}

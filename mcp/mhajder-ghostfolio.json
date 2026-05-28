@@ -1,0 +1,7 @@
+{
+  "name": "mhajder-ghostfolio",
+  "description": "Python integration for Ghostfolio portfolio management, supporting account queries, transaction imports, and market data access.",
+  "source_repo": "mhajder/ghostfolio-mcp",
+  "source_url": "https://github.com/mhajder/ghostfolio-mcp",
+  "install": "npx -y ghostfolio-mcp"
+}

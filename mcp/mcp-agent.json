@@ -1,0 +1,7 @@
+{
+  "name": "mcp-agent",
+  "description": "Mcp Agent MCP server listed on mcp.so.",
+  "source_repo": "lastmile-ai/mcp-agent",
+  "source_url": "https://mcp.so/server/mcp-agent/lastmile-ai",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-agent/lastmile-ai\n# See source for mcpServers config block"
+}

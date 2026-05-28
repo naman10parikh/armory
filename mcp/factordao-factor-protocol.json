@@ -1,0 +1,7 @@
+{
+  "name": "factordao-factor-protocol",
+  "description": "Enables interaction with Factor Protocol's DeFi vault infrastructure across Arbitrum, Base, and Ethereum networks through specialized tools for vault creation, asset management, strategy execution, and automated yield farming operations.",
+  "source_repo": "factordao/factor-mcp",
+  "source_url": "https://github.com/factordao/factor-mcp",
+  "install": "npx -y factor-mcp"
+}

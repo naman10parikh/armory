@@ -1,0 +1,7 @@
+{
+  "name": "quotar-opencode-ssh",
+  "description": "Manages SSH remote servers for AI agents by parsing SSH config files and maintaining persistent connections.",
+  "source_repo": "quotar/opencode-ssh-mcp",
+  "source_url": "https://github.com/quotar/opencode-ssh-mcp",
+  "install": "npx -y opencode-ssh-mcp"
+}

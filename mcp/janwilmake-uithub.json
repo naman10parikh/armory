@@ -1,0 +1,7 @@
+{
+  "name": "janwilmake-uithub",
+  "description": "Enables Claude to fetch and analyze GitHub repositories with flexible filtering options for code exploration and development assistance tasks.",
+  "source_repo": "janwilmake/uithub-mcp",
+  "source_url": "https://github.com/janwilmake/uithub-mcp",
+  "install": "npx -y uithub-mcp"
+}

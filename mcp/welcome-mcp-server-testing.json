@@ -1,0 +1,7 @@
+{
+  "name": "welcome-mcp-server-testing",
+  "description": "Welcome MCP Server Testing MCP server listed on mcp.so.",
+  "source_repo": "Munirg2003/Welcome-MCP-Server-Testing",
+  "source_url": "https://mcp.so/server/Welcome-MCP-Server-Testing/Munirg2003",
+  "install": "# git clone --depth 1 https://mcp.so/server/Welcome-MCP-Server-Testing/Munirg2003\n# See source for mcpServers config block"
+}

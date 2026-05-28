@@ -1,0 +1,7 @@
+{
+  "name": "peter120525-cmd-lawmadi-os",
+  "description": "Korean Legal AI — 60 agents, real-time statute verification via law.go.kr. Free 2/day.",
+  "source_repo": "",
+  "source_url": "https://lawmadi.com/mcp",
+  "install": "# git clone --depth 1 https://lawmadi.com/mcp\n# See source for mcpServers config block"
+}

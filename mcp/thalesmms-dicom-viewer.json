@@ -1,0 +1,7 @@
+{
+  "name": "thalesmms-dicom-viewer",
+  "description": "Converts DICOM medical imaging files into PNG format and serves them through an interactive web-based viewer with navigation controls, zoom/pan functionality, and metadata display.",
+  "source_repo": "thalesmms/dicom-viewer-mcp-app",
+  "source_url": "https://github.com/thalesmms/dicom-viewer-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/thalesmms/dicom-viewer-mcp-app\n# See source for mcpServers config block"
+}

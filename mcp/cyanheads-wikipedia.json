@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-wikipedia",
+  "description": "Search Wikipedia, read summaries and full text, target sections, find nearby pages, list languages.",
+  "source_repo": "cyanheads/wikipedia-mcp-server",
+  "source_url": "https://github.com/cyanheads/wikipedia-mcp-server",
+  "install": "npx -y wikipedia-mcp-server"
+}

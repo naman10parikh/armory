@@ -1,0 +1,7 @@
+{
+  "name": "delega-dev-delega",
+  "description": "Task infrastructure for AI agents with delegation chains, agent identity, and webhook-driven lifecycle tracking.",
+  "source_repo": "delega-dev/delega",
+  "source_url": "https://github.com/delega-dev/delega",
+  "install": "# git clone --depth 1 https://github.com/delega-dev/delega\n# See source for mcpServers config block"
+}

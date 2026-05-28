@@ -1,0 +1,7 @@
+{
+  "name": "gorakudo-yomitan-dictionary",
+  "description": "Access Japanese dictionary databases from the Yomitan browser extension offline.",
+  "source_repo": "gorakudo/yomitan-mcp",
+  "source_url": "https://github.com/gorakudo/yomitan-mcp",
+  "install": "npx -y yomitan-mcp"
+}

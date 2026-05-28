@@ -1,0 +1,7 @@
+{
+  "name": "gh-johnbreault-xlights",
+  "description": "Generate music-driven light show sequences for xLights with audio analysis.",
+  "source_repo": "johnbreault/xlights-mcp-server",
+  "source_url": "https://github.com/johnbreault/xlights-mcp-server",
+  "install": "npx -y xlights-mcp-server"
+}

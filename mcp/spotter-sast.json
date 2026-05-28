@@ -1,0 +1,7 @@
+{
+  "name": "spotter-sast",
+  "description": "Enterprise-grade MCP server for static application security testing with multi-tool integration, compliance verification, AI-powered remediation, and multi-tenant management.",
+  "source_repo": "george-mellow/spotter-sast",
+  "source_url": "https://github.com/george-mellow/spotter-sast",
+  "install": "# git clone --depth 1 https://github.com/george-mellow/spotter-sast\n# See source for mcpServers config block"
+}

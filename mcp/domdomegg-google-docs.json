@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-google-docs",
+  "description": "Read, create, and edit Google Docs through OAuth-authenticated integration",
+  "source_repo": "domdomegg/google-documents-mcp",
+  "source_url": "https://github.com/domdomegg/google-documents-mcp",
+  "install": "npx -y google-documents-mcp"
+}

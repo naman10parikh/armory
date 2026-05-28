@@ -1,0 +1,7 @@
+{
+  "name": "marcindudekdev-data-collector",
+  "description": "Search Hacker News stories, Bluesky posts, and Substack newsletters with x402 micropayment support.",
+  "source_repo": "marcindudekdev/the-data-collector",
+  "source_url": "https://github.com/marcindudekdev/the-data-collector",
+  "install": "# git clone --depth 1 https://github.com/marcindudekdev/the-data-collector\n# See source for mcpServers config block"
+}

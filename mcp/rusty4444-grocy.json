@@ -1,0 +1,7 @@
+{
+  "name": "rusty4444-grocy",
+  "description": "Manages Grocy household ERP inventory, products, and shopping lists via MCP.",
+  "source_repo": "rusty4444/grocy-mcp",
+  "source_url": "https://github.com/rusty4444/grocy-mcp",
+  "install": "npx -y grocy-mcp"
+}

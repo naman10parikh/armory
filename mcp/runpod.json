@@ -1,0 +1,7 @@
+{
+  "name": "runpod",
+  "description": "Enables programmatic control of RunPod cloud GPU resources and serverless deployments through a TypeScript interface to the RunPod REST API.",
+  "source_repo": "runpod/runpod-mcp",
+  "source_url": "https://github.com/runpod/runpod-mcp",
+  "install": "npx -y runpod-mcp"
+}

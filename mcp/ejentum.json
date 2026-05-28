@@ -1,0 +1,7 @@
+{
+  "name": "ejentum",
+  "description": "Augmented AI reasoning with 4 harnesses, 679 runtime abilities, and dynamic capability injection.",
+  "source_repo": "ejentum/ejentum-mcp",
+  "source_url": "https://github.com/ejentum/ejentum-mcp",
+  "install": "npx -y ejentum-mcp"
+}

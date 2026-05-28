@@ -1,0 +1,7 @@
+{
+  "name": "linen920611-pyrunner",
+  "description": "Executes Python code with a persistent Jupyter kernel, maintaining variables and state across multiple runs for data analysis and scripting workflows.",
+  "source_repo": "linen920611/pyrunner_mcp",
+  "source_url": "https://github.com/linen920611/pyrunner_mcp",
+  "install": "npx -y pyrunner_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prateekg7-context-bridge",
+  "description": "Context portability server for compressing and formatting AI conversation handoffs across Claude, ChatGPT, Gemini, and other platforms.",
+  "source_repo": "prateekg7/context-bridge",
+  "source_url": "https://github.com/prateekg7/context-bridge",
+  "install": "# git clone --depth 1 https://github.com/prateekg7/context-bridge\n# See source for mcpServers config block"
+}

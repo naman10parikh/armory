@@ -1,0 +1,7 @@
+{
+  "name": "agentic-terminal",
+  "description": "Verified merchant directory for agentic payments over Lightning, L402, BOLT12, and USDT — search, verify, and pay.",
+  "source_repo": "observer-protocol/at-directory",
+  "source_url": "https://github.com/observer-protocol/at-directory",
+  "install": "# git clone --depth 1 https://github.com/observer-protocol/at-directory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yourlifewithai-arcology-knowledge-node",
+  "description": "Engineering knowledge base for a speculative mile-high city housing ten million people.",
+  "source_repo": "yourlifewithai/lifewithai",
+  "source_url": "https://github.com/yourlifewithai/lifewithai/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/yourlifewithai/lifewithai/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

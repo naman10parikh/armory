@@ -1,0 +1,7 @@
+{
+  "name": "kirbah-youtube",
+  "description": "Integrates with YouTube Data API v3 to provide video search, channel statistics, trending content analysis, transcript extraction, and niche analysis for discovering high-performance channels within specific topics and timeframes.",
+  "source_repo": "kirbah/mcp-youtube",
+  "source_url": "https://github.com/kirbah/mcp-youtube",
+  "install": "# git clone --depth 1 https://github.com/kirbah/mcp-youtube\n# See source for mcpServers config block"
+}

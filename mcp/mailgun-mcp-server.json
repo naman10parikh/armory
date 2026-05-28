@@ -1,0 +1,7 @@
+{
+  "name": "mailgun-mcp-server",
+  "description": "Mailgun Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mailgun/mailgun-mcp-server",
+  "source_url": "https://mcp.so/server/mailgun-mcp-server/mailgun",
+  "install": "npx -y mailgun-mcp-server"
+}

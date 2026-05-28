@@ -1,0 +1,7 @@
+{
+  "name": "libraryai",
+  "description": "LibraryAI MCP server listed on mcp.so.",
+  "source_repo": "YELANDAOKONG/LibraryAI",
+  "source_url": "https://mcp.so/server/LibraryAI/YELANDAOKONG",
+  "install": "# git clone --depth 1 https://mcp.so/server/LibraryAI/YELANDAOKONG\n# See source for mcpServers config block"
+}

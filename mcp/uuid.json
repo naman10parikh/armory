@@ -1,0 +1,7 @@
+{
+  "name": "uuid",
+  "description": "Generates random UUID v4 strings on demand through a lightweight FastMCP server implementation.",
+  "source_repo": "conao3/python-mcp-uuid",
+  "source_url": "https://github.com/conao3/python-mcp-uuid",
+  "install": "# git clone --depth 1 https://github.com/conao3/python-mcp-uuid\n# See source for mcpServers config block"
+}

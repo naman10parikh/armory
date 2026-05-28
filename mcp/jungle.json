@@ -1,0 +1,7 @@
+{
+  "name": "jungle",
+  "description": "Self-hosted MCP tool registry and proxy server that enables centralized discovery, management, and secure access to multiple MCP servers through a unified gateway with authentication, access control, and audit trails.",
+  "source_repo": "mcpjungle/mcpjungle",
+  "source_url": "https://github.com/mcpjungle/mcpjungle",
+  "install": "# git clone --depth 1 https://github.com/mcpjungle/mcpjungle\n# See source for mcpServers config block"
+}

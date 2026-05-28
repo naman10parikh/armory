@@ -1,0 +1,7 @@
+{
+  "name": "aashari-mcp-server-aws-sso",
+  "description": "AWS Single Sign-On (SSO) integration enabling AI systems to securely interact with AWS resources by initiating SSO login, listing accounts/roles, and executing AWS CLI commands using temporary credentials.",
+  "source_repo": "aashari/mcp-server-aws-sso",
+  "source_url": "https://github.com/aashari/mcp-server-aws-sso",
+  "install": "# git clone --depth 1 https://github.com/aashari/mcp-server-aws-sso\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adspower-browser-manager",
+  "description": "Enables AI-driven browser profile management through AdsPower's local API, providing tools for creating, updating, opening, and deleting browsers with customizable fingerprints and proxy configurations.",
+  "source_repo": "adspower/adspower-browser",
+  "source_url": "https://github.com/adspower/adspower-browser",
+  "install": "# git clone --depth 1 https://github.com/adspower/adspower-browser\n# See source for mcpServers config block"
+}

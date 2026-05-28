@@ -1,0 +1,7 @@
+{
+  "name": "flrngel-local-shell",
+  "description": "Executes shell commands and uploads files within a specified local directory.",
+  "source_repo": "flrngel/local-mcp-server",
+  "source_url": "https://github.com/flrngel/local-mcp-server",
+  "install": "npx -y local-mcp-server"
+}

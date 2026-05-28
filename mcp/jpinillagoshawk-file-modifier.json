@@ -1,0 +1,7 @@
+{
+  "name": "jpinillagoshawk-file-modifier",
+  "description": "Enables targeted text file modifications through operations like adding, replacing, and deleting content at specific locations.",
+  "source_repo": "jpinillagoshawk/mcp-server-file-modifier",
+  "source_url": "https://github.com/jpinillagoshawk/mcp-server-file-modifier",
+  "install": "# git clone --depth 1 https://github.com/jpinillagoshawk/mcp-server-file-modifier\n# See source for mcpServers config block"
+}

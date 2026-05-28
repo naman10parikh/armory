@@ -1,0 +1,7 @@
+{
+  "name": "gh-datakurre-brick-mcp",
+  "description": "Create, inspect, and edit LEGO models in BrickLink Studio and LDraw formats.",
+  "source_repo": "datakurre/brick-mcp",
+  "source_url": "https://github.com/datakurre/brick-mcp",
+  "install": "npx -y brick-mcp"
+}

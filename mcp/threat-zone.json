@@ -1,0 +1,7 @@
+{
+  "name": "threat-zone",
+  "description": "Integrates with the Threat.Zone API to provide malware analysis capabilities including static analysis, dynamic sandbox execution across multiple environments, URL scanning, and CDR processing with detailed result retrieval and artifact management.",
+  "source_repo": "threat-zone/threatzonemcp",
+  "source_url": "https://github.com/threat-zone/threatzonemcp",
+  "install": "# git clone --depth 1 https://github.com/threat-zone/threatzonemcp\n# See source for mcpServers config block"
+}

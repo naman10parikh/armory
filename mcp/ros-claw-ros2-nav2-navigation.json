@@ -1,0 +1,7 @@
+{
+  "name": "ros-claw-ros2-nav2-navigation",
+  "description": "Enables LLMs to control autonomous robot navigation via ROS 2 Nav2 with MuJoCo safety validation, semantic waypoints, and multi-robot support.",
+  "source_repo": "ros-claw/rosclaw-nav2-mcp",
+  "source_url": "https://github.com/ros-claw/rosclaw-nav2-mcp",
+  "install": "npx -y rosclaw-nav2-mcp"
+}

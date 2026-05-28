@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ectors",
+  "description": "Mcp Ectors MCP server listed on mcp.so.",
+  "source_repo": "mcp-ectors/mcp-ectors",
+  "source_url": "https://mcp.so/server/mcp-ectors/mcp-ectors",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-ectors/mcp-ectors\n# See source for mcpServers config block"
+}

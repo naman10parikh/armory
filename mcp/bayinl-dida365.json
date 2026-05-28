@@ -1,0 +1,7 @@
+{
+  "name": "bayinl-dida365",
+  "description": "Integrates with Dida365 (TickTick China) task management platform to create, read, update, and delete tasks and projects with OAuth 2.0 authentication.",
+  "source_repo": "bayinl/dida-mcp",
+  "source_url": "https://github.com/bayinl/dida-mcp",
+  "install": "npx -y dida-mcp"
+}

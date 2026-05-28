@@ -1,0 +1,7 @@
+{
+  "name": "zaeyasa-gwas-bioinformatics",
+  "description": "Access bioinformatics data from GWAS Catalog, UniProt, ClinVar, Ensembl, AlphaFold, and other major biological databases for genomics research.",
+  "source_repo": "muslus/gwas-mcp",
+  "source_url": "https://github.com/muslus/gwas-mcp",
+  "install": "npx -y gwas-mcp"
+}

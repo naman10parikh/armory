@@ -1,0 +1,7 @@
+{
+  "name": "dindicoelho-inoreader",
+  "description": "Integrates with Inoreader RSS feed reader to provide subscription management, article retrieval with filtering, content search, read status updates, and automated sentiment analysis and keyword extraction for RSS workflow automation.",
+  "source_repo": "dindicoelho/inoreader-mcp",
+  "source_url": "https://github.com/dindicoelho/inoreader-mcp",
+  "install": "npx -y inoreader-mcp"
+}

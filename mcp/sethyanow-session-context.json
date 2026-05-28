@@ -1,0 +1,7 @@
+{
+  "name": "sethyanow-session-context",
+  "description": "Session continuity plugin for Claude Code that tracks work progress through rolling checkpoints and generates continuation prompts when sessions are restored.",
+  "source_repo": "sethyanow/session-context",
+  "source_url": "https://github.com/sethyanow/session-context",
+  "install": "# git clone --depth 1 https://github.com/sethyanow/session-context\n# See source for mcpServers config block"
+}

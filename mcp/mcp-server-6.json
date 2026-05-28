@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-6",
+  "description": "An MCP server that integrates with LangChain and ChromaDB to provide documentation search for AI libraries and vector database management.",
+  "source_repo": "seonokkim/mcp-server",
+  "source_url": "https://github.com/seonokkim/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/seonokkim/mcp-server\n# See source for mcpServers config block"
+}

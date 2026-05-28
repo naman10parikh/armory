@@ -1,0 +1,7 @@
+{
+  "name": "finfeed-sec-api",
+  "description": "Instantly access over 30 years of SEC filings, no scraping or delays",
+  "source_repo": "",
+  "source_url": "https://mcp.sec.finfeedapi.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.sec.finfeedapi.com/mcp\n# See source for mcpServers config block"
+}

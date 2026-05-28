@@ -1,0 +1,7 @@
+{
+  "name": "theandersmadsen-codex-plusplus-computer-use",
+  "description": "Exposes OpenAI Codex Desktop's bundled computer use capabilities as an MCP server for macOS desktop automation.",
+  "source_repo": "theandersmadsen/codex-plusplus-computer-use",
+  "source_url": "https://github.com/theandersmadsen/codex-plusplus-computer-use",
+  "install": "# git clone --depth 1 https://github.com/theandersmadsen/codex-plusplus-computer-use\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arunsanna-aws-sage",
+  "description": "Integrates with AWS services through natural language commands, enabling resource querying and management across multiple profiles and regions via boto3 and FastMCP framework.",
+  "source_repo": "arunsanna/aws-sage-mcp",
+  "source_url": "https://github.com/arunsanna/aws-sage-mcp",
+  "install": "npx -y aws-sage-mcp"
+}

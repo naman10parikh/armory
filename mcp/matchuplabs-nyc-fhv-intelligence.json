@@ -1,0 +1,7 @@
+{
+  "name": "matchuplabs-nyc-fhv-intelligence",
+  "description": "Real-time NYC TLC for-hire vehicle license verification and renewal-window lead lookups via MCP.",
+  "source_repo": "matchup-labs/nycfhv",
+  "source_url": "https://github.com/matchup-labs/nycfhv",
+  "install": "# git clone --depth 1 https://github.com/matchup-labs/nycfhv\n# See source for mcpServers config block"
+}

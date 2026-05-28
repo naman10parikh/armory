@@ -1,0 +1,7 @@
+{
+  "name": "antv-visualization",
+  "description": "Integrates with AntV's visualization ecosystem to provide intelligent documentation retrieval, code examples, and best practices for g2, g6, l7, x6, f2, and s2 libraries through query preprocessing and context-aware assistance.",
+  "source_repo": "antvis/mcp-server-antv",
+  "source_url": "https://github.com/antvis/mcp-server-antv",
+  "install": "# git clone --depth 1 https://github.com/antvis/mcp-server-antv\n# See source for mcpServers config block"
+}

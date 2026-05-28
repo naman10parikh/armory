@@ -1,0 +1,7 @@
+{
+  "name": "ihor-sokoliuk-searxng",
+  "description": "Integrates SearXNG API to enable web searches with pagination control for up-to-date information retrieval and content analysis.",
+  "source_repo": "ihor-sokoliuk/mcp-searxng",
+  "source_url": "https://github.com/ihor-sokoliuk/mcp-searxng",
+  "install": "# git clone --depth 1 https://github.com/ihor-sokoliuk/mcp-searxng\n# See source for mcpServers config block"
+}

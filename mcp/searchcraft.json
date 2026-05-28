@@ -1,0 +1,7 @@
+{
+  "name": "searchcraft",
+  "description": "Integrates with Searchcraft's search API to provide advanced document retrieval with fuzzy and exact matching, facet filtering, and date range queries across indexed content repositories and knowledge bases.",
+  "source_repo": "searchcraft-inc/searchcraft-mcp-server",
+  "source_url": "https://github.com/searchcraft-inc/searchcraft-mcp-server",
+  "install": "npx -y searchcraft-mcp-server"
+}

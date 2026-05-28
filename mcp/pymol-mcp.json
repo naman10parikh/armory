@@ -1,0 +1,7 @@
+{
+  "name": "pymol-mcp",
+  "description": "Pymol Mcp MCP server listed on mcp.so.",
+  "source_repo": "vrtejus/pymol-mcp",
+  "source_url": "https://mcp.so/server/pymol-mcp/vrtejus",
+  "install": "npx -y pymol-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-blocknative-mcp",
+  "description": "Providing real-time gas price predictions across multiple blockchains, powered by Blocknative.",
+  "source_repo": "kukapay/blocknative-mcp",
+  "source_url": "https://github.com/kukapay/blocknative-mcp",
+  "install": "npx -y blocknative-mcp"
+}

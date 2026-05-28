@@ -1,0 +1,7 @@
+{
+  "name": "human-in-the-loop-discord",
+  "description": "Enables human-in-the-loop interactions by creating Discord threads where assistants can request information from users when they need data that isn't publicly available or documented.",
+  "source_repo": "koba789/human-in-the-loop",
+  "source_url": "https://github.com/koba789/human-in-the-loop",
+  "install": "# git clone --depth 1 https://github.com/koba789/human-in-the-loop\n# See source for mcpServers config block"
+}

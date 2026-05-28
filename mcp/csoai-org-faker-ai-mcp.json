@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-faker-ai-mcp",
+  "description": "AI tools for generating synthetic test data, fake names, addresses, and mock content.",
+  "source_repo": "csoai-org/faker-ai-mcp",
+  "source_url": "https://github.com/csoai-org/faker-ai-mcp",
+  "install": "npx -y faker-ai-mcp"
+}

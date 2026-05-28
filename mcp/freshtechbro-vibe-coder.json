@@ -1,0 +1,7 @@
+{
+  "name": "freshtechbro-vibe-coder",
+  "description": "Provides AI-assisted development tools for semantic routing, code generation, refactoring, and project management with intelligent request handling and specialized Git integration capabilities.",
+  "source_repo": "freshtechbro/vibe-coder-mcp",
+  "source_url": "https://github.com/freshtechbro/vibe-coder-mcp",
+  "install": "npx -y vibe-coder-mcp"
+}

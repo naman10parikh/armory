@@ -1,0 +1,7 @@
+{
+  "name": "tuskr-mcp-server",
+  "description": "Enables interaction with the Tuskr test management API through MCP, supporting account ID and access token authentication for managing test cases, runs, and projects.",
+  "source_repo": "BoomBidiBuyBuy/tuskr-mcp-server",
+  "source_url": "https://github.com/BoomBidiBuyBuy/tuskr-mcp-server",
+  "install": "npx -y tuskr-mcp-server"
+}

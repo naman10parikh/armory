@@ -1,0 +1,7 @@
+{
+  "name": "webhook-ai-mcp",
+  "description": "Webhook management and debugging. Validate signatures, log events, replay, and analyze webhook traffic.",
+  "source_repo": "CSOAI-ORG/webhook-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/webhook-ai-mcp",
+  "install": "npx -y webhook-ai-mcp"
+}

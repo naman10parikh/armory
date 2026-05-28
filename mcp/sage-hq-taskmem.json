@@ -1,0 +1,7 @@
+{
+  "name": "sage-hq-taskmem",
+  "description": "Provides AI assistants with persistent memory and task management capabilities through semantic search, project organization, and task tracking with priorities and statuses.",
+  "source_repo": "sage-hq/agentcortex-mcp",
+  "source_url": "https://github.com/sage-hq/agentcortex-mcp",
+  "install": "npx -y agentcortex-mcp"
+}

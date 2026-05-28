@@ -1,0 +1,7 @@
+{
+  "name": "phuc-nt-atlassian",
+  "description": "Integrates with Atlassian's Jira and Confluence to enable natural language interaction with project management tools, allowing users to read resources and perform actions like creating issues, transitioning workflows, and generating documentation without context-switching.",
+  "source_repo": "phuc-nt/mcp-atlassian-server",
+  "source_url": "https://github.com/phuc-nt/mcp-atlassian-server",
+  "install": "# git clone --depth 1 https://github.com/phuc-nt/mcp-atlassian-server\n# See source for mcpServers config block"
+}

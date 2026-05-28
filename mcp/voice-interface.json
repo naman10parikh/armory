@@ -1,0 +1,7 @@
+{
+  "name": "voice-interface",
+  "description": "Provides browser-based voice input/output capabilities for conversations, featuring real-time speech-to-text recognition, text-to-speech synthesis, and voice message queuing through a web interface for hands-free interactions and accessibility applications.",
+  "source_repo": "shantur/jarvis-mcp",
+  "source_url": "https://github.com/shantur/jarvis-mcp",
+  "install": "npx -y jarvis-mcp"
+}

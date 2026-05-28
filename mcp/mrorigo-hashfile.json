@@ -1,0 +1,7 @@
+{
+  "name": "mrorigo-hashfile",
+  "description": "Hash-anchored file editing with content verification and access control.",
+  "source_repo": "mrorigo/hashfile-mcp",
+  "source_url": "https://github.com/mrorigo/hashfile-mcp",
+  "install": "npx -y hashfile-mcp"
+}

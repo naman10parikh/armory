@@ -1,0 +1,7 @@
+{
+  "name": "razee4315-netlogo",
+  "description": "Integrates with the NetLogo agent-based modeling platform for creating, executing, and analyzing simulation models with customizable parameters and result export.",
+  "source_repo": "razee4315/netlogo-mcp",
+  "source_url": "https://github.com/razee4315/netlogo-mcp",
+  "install": "npx -y netlogo-mcp"
+}

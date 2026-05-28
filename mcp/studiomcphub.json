@@ -1,0 +1,7 @@
+{
+  "name": "studiomcphub",
+  "description": "Creative AI tools for image generation, upscaling, background removal, vectorization, and art datasets.",
+  "source_repo": "codex-curator/studiomcphub",
+  "source_url": "https://github.com/codex-curator/studiomcphub",
+  "install": "# git clone --depth 1 https://github.com/codex-curator/studiomcphub\n# See source for mcpServers config block"
+}

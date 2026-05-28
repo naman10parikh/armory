@@ -1,0 +1,7 @@
+{
+  "name": "janreges-ai-distiller-mcp",
+  "description": "Extracts essential code structure from large codebases into AI-digestible format, helping AI agents write code that correctly uses existing APIs on the first attempt.",
+  "source_repo": "janreges/ai-distiller",
+  "source_url": "https://github.com/janreges/ai-distiller",
+  "install": "# git clone --depth 1 https://github.com/janreges/ai-distiller\n# See source for mcpServers config block"
+}

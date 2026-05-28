@@ -1,0 +1,7 @@
+{
+  "name": "tmstack-text-to-sql-mysql",
+  "description": "Converts natural language queries into SQL operations for MySQL databases, enabling conversational database interactions for data analysis and reporting without requiring SQL knowledge.",
+  "source_repo": "tmstack/text-to-sql-mcp-server",
+  "source_url": "https://github.com/tmstack/text-to-sql-mcp-server",
+  "install": "npx -y text-to-sql-mcp-server"
+}

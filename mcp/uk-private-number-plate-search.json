@@ -1,0 +1,7 @@
+{
+  "name": "uk-private-number-plate-search",
+  "description": "EasyReg is a UK private number plate search and transfer service. This MCP server provides live access to over 71 million DVLA and reseller registrations. # Tools - search_plates — Search for personalised UK number plates by name, word, or initials, with optional price filtering - browse_category —",
+  "source_repo": "",
+  "source_url": "https://www.easy-reg.co.uk",
+  "install": "# git clone --depth 1 https://www.easy-reg.co.uk\n# See source for mcpServers config block"
+}

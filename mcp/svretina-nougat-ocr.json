@@ -1,0 +1,7 @@
+{
+  "name": "svretina-nougat-ocr",
+  "description": "Extracts text from scientific PDFs using Meta's Nougat model, preserving mathematical equations, tables, and complex document structures.",
+  "source_repo": "svretina/nougat-mcp",
+  "source_url": "https://github.com/svretina/nougat-mcp",
+  "install": "npx -y nougat-mcp"
+}

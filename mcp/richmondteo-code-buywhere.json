@@ -1,0 +1,7 @@
+{
+  "name": "richmondteo-code-buywhere",
+  "description": "Searches and compares products from Southeast Asian retailers via the BuyWhere product catalog API.",
+  "source_repo": "richmondteo-code/buywhere-mcp",
+  "source_url": "https://github.com/richmondteo-code/buywhere-mcp",
+  "install": "npx -y buywhere-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ryan7t-wanyi-watermark",
+  "description": "Removes watermarks from Chinese social media videos on Douyin and Xiaohongshu platforms using async processing and video manipulation to extract clean URLs and download original content.",
+  "source_repo": "ryan7t/wanyi-watermark",
+  "source_url": "https://github.com/ryan7t/wanyi-watermark",
+  "install": "# git clone --depth 1 https://github.com/ryan7t/wanyi-watermark\n# See source for mcpServers config block"
+}

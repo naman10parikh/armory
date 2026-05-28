@@ -1,0 +1,7 @@
+{
+  "name": "excoriate-terragrunt-docs",
+  "description": "Provides direct access to Terragrunt documentation and GitHub issues through a Deno/TypeScript server that fetches content from the official repository with fuzzy matching and normalized responses.",
+  "source_repo": "excoriate/mcp-terragrunt-docs",
+  "source_url": "https://github.com/excoriate/mcp-terragrunt-docs",
+  "install": "# git clone --depth 1 https://github.com/excoriate/mcp-terragrunt-docs\n# See source for mcpServers config block"
+}

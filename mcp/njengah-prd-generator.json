@@ -1,0 +1,7 @@
+{
+  "name": "njengah-prd-generator",
+  "description": "Transforms README files into structured Product Requirements Documents using a template-based approach for quickly bootstrapping PRD documentation from existing project files.",
+  "source_repo": "njengah/prd-dxt",
+  "source_url": "https://github.com/njengah/prd-dxt",
+  "install": "# git clone --depth 1 https://github.com/njengah/prd-dxt\n# See source for mcpServers config block"
+}

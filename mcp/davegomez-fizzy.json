@@ -1,0 +1,7 @@
+{
+  "name": "davegomez-fizzy",
+  "description": "Manage Fizzy kanban boards, cards, comments, and checklists.",
+  "source_repo": "davegomez/fizzy-mcp",
+  "source_url": "https://github.com/davegomez/fizzy-mcp",
+  "install": "npx -y fizzy-mcp"
+}

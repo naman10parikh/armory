@@ -1,0 +1,7 @@
+{
+  "name": "expressvpn",
+  "description": "Control VPN connections, switch server regions, manage protocols, and configure security settings through natural language commands.",
+  "source_repo": "",
+  "source_url": "https://www.expressvpn.com/support/mcp-server/",
+  "install": "# git clone --depth 1 https://www.expressvpn.com/support/mcp-server/\n# See source for mcpServers config block"
+}

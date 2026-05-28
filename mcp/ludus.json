@@ -1,0 +1,7 @@
+{
+  "name": "ludus",
+  "description": "Manages Ludus cyber range infrastructure from AI coding assistants.",
+  "source_repo": "badsectorlabs/ludus-mcp",
+  "source_url": "https://github.com/badsectorlabs/ludus-mcp",
+  "install": "npx -y ludus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-langbase",
+  "description": "Mcp Server Langbase MCP server listed on mcp.so.",
+  "source_repo": "arre-ankit/mcp-server-langbase",
+  "source_url": "https://mcp.so/server/mcp-server-langbase/arre-ankit",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-langbase/arre-ankit\n# See source for mcpServers config block"
+}

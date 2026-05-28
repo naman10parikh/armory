@@ -1,0 +1,7 @@
+{
+  "name": "smart-mcp-server",
+  "description": "Enables AI assistants to securely interact with FHIR R4 servers for clinical decision support workflows, including PlanDefinition execution, FHIR resource management, terminology services, and Questionnaire/StructureMap transformation via Matchbox.",
+  "source_repo": "DigitalSQR/smart-mcp-server",
+  "source_url": "https://github.com/DigitalSQR/smart-mcp-server",
+  "install": "npx -y smart-mcp-server"
+}

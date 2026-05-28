@@ -1,0 +1,7 @@
+{
+  "name": "meloncafe-chromadb-remote",
+  "description": "Self-hosted remote access to ChromaDB vector database via streamable HTTP",
+  "source_repo": "meloncafe/chromadb-remote-mcp",
+  "source_url": "https://github.com/meloncafe/chromadb-remote-mcp",
+  "install": "npx -y chromadb-remote-mcp"
+}

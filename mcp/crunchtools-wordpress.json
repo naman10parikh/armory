@@ -1,0 +1,7 @@
+{
+  "name": "crunchtools-wordpress",
+  "description": "Manages WordPress posts, pages, media, and comments via the WordPress REST API.",
+  "source_repo": "crunchtools/mcp-wordpress",
+  "source_url": "https://github.com/crunchtools/mcp-wordpress",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-wordpress\n# See source for mcpServers config block"
+}

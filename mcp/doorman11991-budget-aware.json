@@ -1,0 +1,7 @@
+{
+  "name": "doorman11991-budget-aware",
+  "description": "Token-budget-aware code indexing MCP server that retrieves relevant code by walking dependency graphs within specified token limits for 155 programming languages.",
+  "source_repo": "doorman11991/budget-aware-mcp",
+  "source_url": "https://github.com/doorman11991/budget-aware-mcp",
+  "install": "npx -y budget-aware-mcp"
+}

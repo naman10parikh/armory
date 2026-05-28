@@ -1,0 +1,7 @@
+{
+  "name": "biocontext-ai-knowledgebase",
+  "description": "Provides unified access to over 20 biomedical databases and research tools including protein databases (UniProt, AlphaFold), genomics resources (Ensembl, KEGG), literature search (Europe PMC, Google Scholar), clinical data (ClinicalTrials.gov, OpenFDA), and ontologies (Gene Ontology, EFO, ChEBI) for researchers and bioinformatics teams.",
+  "source_repo": "biocontext-ai/knowledgebase-mcp",
+  "source_url": "https://github.com/biocontext-ai/knowledgebase-mcp",
+  "install": "npx -y knowledgebase-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-civilization",
+  "description": "Agent-native financial infrastructure with W3C DID identity, multi-rail USDC settlements, and smart contract access.",
+  "source_repo": "srotzin/hive-mcp-connector",
+  "source_url": "https://github.com/srotzin/hive-mcp-connector",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-connector\n# See source for mcpServers config block"
+}

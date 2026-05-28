@@ -1,0 +1,7 @@
+{
+  "name": "ddg-mcp-server",
+  "description": "A web-based search interface using DuckDuckGo's search API, built with Python and Gradio, providing real-time search results and optional AI-powered summarization.",
+  "source_repo": "shgsousa/ddg_mcp_server",
+  "source_url": "https://github.com/shgsousa/ddg_mcp_server",
+  "install": "npx -y ddg_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "darkhorseone-uk-parliament-interests",
+  "description": "Accesses UK Parliament Register of Interests API for member interest declarations and categories.",
+  "source_repo": "darkhorseone/mcp-servers",
+  "source_url": "https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-interests",
+  "install": "# git clone --depth 1 https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-interests\n# See source for mcpServers config block"
+}

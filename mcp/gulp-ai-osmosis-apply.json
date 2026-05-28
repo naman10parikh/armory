@@ -1,0 +1,7 @@
+{
+  "name": "gulp-ai-osmosis-apply",
+  "description": "Provides intelligent code merging capabilities through the Osmosis-Apply-1.7B model via Ollama, enabling targeted edits to existing code while preserving exact formatting and structure using '// ... existing code ...' markers with optional direct file modification.",
+  "source_repo": "osmosis-ai/osmosis-apply-1.7b-mcp",
+  "source_url": "https://github.com/osmosis-ai/osmosis-apply-1.7b-mcp",
+  "install": "npx -y osmosis-apply-1.7b-mcp"
+}

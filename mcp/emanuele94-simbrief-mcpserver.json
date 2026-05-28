@@ -1,0 +1,7 @@
+{
+  "name": "emanuele94-simbrief-mcpserver",
+  "description": "Access your SimBrief flight plans. 14 tools covering flight summary, weather (METAR/TAF/ATIS), fuel plan, weights, times, ATC flight plan, navlog, NOTAMs, alternate airport, crew and performance sensitivity analysis.",
+  "source_repo": "Emanuele94/SimBrief-MCPServer",
+  "source_url": "https://github.com/Emanuele94/SimBrief-MCPServer",
+  "install": "# git clone --depth 1 https://github.com/Emanuele94/SimBrief-MCPServer\n# See source for mcpServers config block"
+}

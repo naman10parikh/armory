@@ -1,0 +1,7 @@
+{
+  "name": "jackie-shi-looking-glass",
+  "description": "Provides network probing capabilities through distributed Looking Glass vantage points worldwide, enabling ping, traceroute, and BGP queries from specific network locations for connectivity analysis and troubleshooting.",
+  "source_repo": "jackie-shi/looking-glass-mcp",
+  "source_url": "https://github.com/jackie-shi/looking-glass-mcp",
+  "install": "npx -y looking-glass-mcp"
+}

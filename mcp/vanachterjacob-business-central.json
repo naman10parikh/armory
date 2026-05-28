@@ -1,0 +1,7 @@
+{
+  "name": "vanachterjacob-business-central",
+  "description": "Provides standardized development rules and real-time guidance for Business Central projects, offering rule validation, architectural suggestions, and component structure optimization for consistent coding standards and best practices.",
+  "source_repo": "vanachterjacob/bc-mcp",
+  "source_url": "https://github.com/vanachterjacob/bc-mcp",
+  "install": "npx -y bc-mcp"
+}

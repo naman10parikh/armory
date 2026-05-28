@@ -1,0 +1,7 @@
+{
+  "name": "connector-githubtestrepo",
+  "description": "Connector GitHubTestRepo MCP server listed on mcp.so.",
+  "source_repo": "biswapm/connector-GitHubTestRepo",
+  "source_url": "https://mcp.so/server/connector-GitHubTestRepo/biswapm",
+  "install": "# git clone --depth 1 https://mcp.so/server/connector-GitHubTestRepo/biswapm\n# See source for mcpServers config block"
+}

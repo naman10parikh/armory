@@ -1,0 +1,7 @@
+{
+  "name": "waifuai-traits-matcher",
+  "description": "Enables HR professionals to create, track, and match personality traits for individuals by providing tools to analyze interpersonal dynamics through data-driven personality dimensions like friendliness and dominance.",
+  "source_repo": "waifuai/mcp-traits-matcher",
+  "source_url": "https://github.com/waifuai/mcp-traits-matcher",
+  "install": "# git clone --depth 1 https://github.com/waifuai/mcp-traits-matcher\n# See source for mcpServers config block"
+}

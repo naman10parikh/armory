@@ -1,0 +1,7 @@
+{
+  "name": "github-pr-mcp",
+  "description": "Github Pr Mcp MCP server listed on mcp.so.",
+  "source_repo": "shaileshahuja/github-pr-mcp",
+  "source_url": "https://mcp.so/server/github-pr-mcp/shaileshahuja",
+  "install": "npx -y github-pr-mcp"
+}

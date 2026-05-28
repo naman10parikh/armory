@@ -1,0 +1,7 @@
+{
+  "name": "showfive-playwright-browser-automation",
+  "description": "Integrates Playwright browser automation with AI models to enable intelligent web interactions, testing, and data extraction.",
+  "source_repo": "showfive/playwright-mcp-server",
+  "source_url": "https://github.com/showfive/playwright-mcp-server",
+  "install": "npx -y playwright-mcp-server"
+}

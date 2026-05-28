@@ -1,0 +1,7 @@
+{
+  "name": "chimera-protocol-csl-core",
+  "description": "Deterministic AI safety policy engine with Z3 formal verification. Write, verify, and enforce machine-verifiable constraints for AI agents via MCP.",
+  "source_repo": "Chimera-Protocol/csl-core",
+  "source_url": "https://github.com/Chimera-Protocol/csl-core",
+  "install": "# git clone --depth 1 https://github.com/Chimera-Protocol/csl-core\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alex-shirazi1-ai-switch",
+  "description": "Enables session continuity across AI coding assistants when switching between credit-limited tools.",
+  "source_repo": "alex-shirazi1/aiswitchmcpserver",
+  "source_url": "https://github.com/alex-shirazi1/aiswitchmcpserver",
+  "install": "# git clone --depth 1 https://github.com/alex-shirazi1/aiswitchmcpserver\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-monitor-relay",
+  "description": "AI agent run monitoring with incident replay, SLA receipts, and client status exports.",
+  "source_repo": "clauxel/agent-monitor-relay-mcp",
+  "source_url": "https://github.com/clauxel/agent-monitor-relay-mcp",
+  "install": "npx -y agent-monitor-relay-mcp"
+}

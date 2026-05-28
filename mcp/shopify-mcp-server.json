@@ -1,0 +1,7 @@
+{
+  "name": "shopify-mcp-server",
+  "description": "Shopify Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "sarayd/shopify-mcp-server",
+  "source_url": "https://mcp.so/server/shopify-mcp-server/sarayd",
+  "install": "npx -y shopify-mcp-server"
+}

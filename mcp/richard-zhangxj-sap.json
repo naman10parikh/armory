@@ -1,0 +1,7 @@
+{
+  "name": "richard-zhangxj-sap",
+  "description": "Integrates with SAP systems through RESTful API calls to execute business functions like financial reporting, user management, and custom SQL queries with flexible parameter handling and configurable authentication.",
+  "source_repo": "richard-zhangxj/sap_mcp",
+  "source_url": "https://github.com/richard-zhangxj/sap_mcp",
+  "install": "npx -y sap_mcp"
+}

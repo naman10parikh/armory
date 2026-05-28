@@ -1,0 +1,7 @@
+{
+  "name": "bethmaloney-rdl",
+  "description": "Edit SQL Server Reporting Services (SSRS) report files",
+  "source_repo": "bethmaloney/rdl-mcp",
+  "source_url": "https://github.com/bethmaloney/rdl-mcp",
+  "install": "npx -y rdl-mcp"
+}

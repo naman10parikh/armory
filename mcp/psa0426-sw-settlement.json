@@ -1,0 +1,7 @@
+{
+  "name": "psa0426-sw-settlement",
+  "description": "MCP server for validating Korean social welfare facility settlement documents from the Hopeum system.",
+  "source_repo": "psa0426/sw-settlement-mcp",
+  "source_url": "https://github.com/psa0426/sw-settlement-mcp",
+  "install": "npx -y sw-settlement-mcp"
+}

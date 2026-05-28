@@ -1,0 +1,7 @@
+{
+  "name": "hecher",
+  "description": "CRM for Chabad shluchim — manage donors, donations, activities, and reports via AI assistant.",
+  "source_repo": "growgeltsolutions/hecher-mcp",
+  "source_url": "https://github.com/growgeltsolutions/hecher-mcp",
+  "install": "npx -y hecher-mcp"
+}

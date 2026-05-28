@@ -1,0 +1,7 @@
+{
+  "name": "martinqi826-dida-mcp",
+  "description": "[Dida365](https://dida365.com/) (TickTick China) MCP server for AI-powered task management. 13 tools for projects, tasks, tags, and habits with OAuth 2.0 authentication. Compatible with OpenClaw, Claude Desktop, and any MCP client.",
+  "source_repo": "Martinqi826/dida-mcp",
+  "source_url": "https://github.com/Martinqi826/dida-mcp",
+  "install": "npx -y dida-mcp"
+}

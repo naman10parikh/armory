@@ -1,0 +1,7 @@
+{
+  "name": "zeplin-mcp-server",
+  "description": "Connects AI agents to Zeplin to access component and screen specs, documentation, and design tokens for generating UI code that matches designs.",
+  "source_repo": "zeplin/mcp-server",
+  "source_url": "https://github.com/zeplin/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/zeplin/mcp-server\n# See source for mcpServers config block"
+}

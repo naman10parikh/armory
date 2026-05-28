@@ -1,0 +1,7 @@
+{
+  "name": "verygoodplugins-evernote",
+  "description": "Evernote note management with OAuth authentication and ENML format conversion.",
+  "source_repo": "verygoodplugins/mcp-evernote",
+  "source_url": "https://github.com/verygoodplugins/mcp-evernote",
+  "install": "# git clone --depth 1 https://github.com/verygoodplugins/mcp-evernote\n# See source for mcpServers config block"
+}

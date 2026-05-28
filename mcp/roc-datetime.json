@@ -1,0 +1,7 @@
+{
+  "name": "roc-datetime",
+  "description": "Provides current datetime functionality in ISO 8601 format through a proof-of-concept implementation built in the Roc programming language.",
+  "source_repo": "imclerran/roc-mcp-testbed",
+  "source_url": "https://github.com/imclerran/roc-mcp-testbed",
+  "install": "# git clone --depth 1 https://github.com/imclerran/roc-mcp-testbed\n# See source for mcpServers config block"
+}

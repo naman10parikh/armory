@@ -1,0 +1,7 @@
+{
+  "name": "bivex-zentao",
+  "description": "Integrates with ZenTao project management system to provide access to projects, products, stories, bugs, tasks, test management, releases, builds, and AI features through structured URI patterns and management tools.",
+  "source_repo": "bivex/zentaomcp",
+  "source_url": "https://github.com/bivex/zentaomcp",
+  "install": "# git clone --depth 1 https://github.com/bivex/zentaomcp\n# See source for mcpServers config block"
+}

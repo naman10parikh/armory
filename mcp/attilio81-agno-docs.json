@@ -1,0 +1,7 @@
+{
+  "name": "attilio81-agno-docs",
+  "description": "Provides real-time access to the AGNO framework documentation with section browsing and keyword search.",
+  "source_repo": "attilio81/mcp_agno",
+  "source_url": "https://github.com/attilio81/mcp_agno",
+  "install": "# git clone --depth 1 https://github.com/attilio81/mcp_agno\n# See source for mcpServers config block"
+}

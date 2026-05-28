@@ -1,0 +1,7 @@
+{
+  "name": "bernierllc-brain-trust",
+  "description": "Provides contextual Q&A and plan review capabilities through OpenAI integration, offering question-answering with optional context and structured plan analysis with four review levels that deliver scores, strengths, weaknesses, and improvement suggestions.",
+  "source_repo": "bernierllc/brain-trust-mcp",
+  "source_url": "https://github.com/bernierllc/brain-trust-mcp",
+  "install": "npx -y brain-trust-mcp"
+}

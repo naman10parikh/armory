@@ -1,0 +1,7 @@
+{
+  "name": "mlb-stats-server",
+  "description": "Provide structured access to Major League Baseball statistics through an MCP server. Query and retrieve detailed baseball data including statcast, fangraphs, and baseball reference stats. Generate visualizations and integrate seamlessly with MCP-compatible clients for enhanced baseball analytics.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/etweisberg/mlb-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/etweisberg/mlb-mcp\n# See source for mcpServers config block"
+}

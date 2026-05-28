@@ -1,0 +1,7 @@
+{
+  "name": "flow2",
+  "description": "Mobile-first presentation platform for creating interactive scrollable flows via AI.",
+  "source_repo": "flowboard/flow2-mcp",
+  "source_url": "https://github.com/flowboard/flow2-mcp",
+  "install": "npx -y flow2-mcp"
+}

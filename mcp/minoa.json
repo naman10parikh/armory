@@ -1,0 +1,7 @@
+{
+  "name": "minoa",
+  "description": "Automate business cases, articulate customer outcomes, and analyze value-selling motions.",
+  "source_repo": "",
+  "source_url": "https://us-central1-minoa-roi-firebase.cloudfunctions.net/endpoints-mcp",
+  "install": "# git clone --depth 1 https://us-central1-minoa-roi-firebase.cloudfunctions.net/endpoints-mcp\n# See source for mcpServers config block"
+}

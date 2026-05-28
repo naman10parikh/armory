@@ -1,0 +1,7 @@
+{
+  "name": "cortex-cloud-docs",
+  "description": "Provides conversational access to Palo Alto Networks Cortex Cloud platform documentation through web scraping and intelligent indexing with automatic caching, relevance scoring, and separate tools for general documentation versus API-specific content.",
+  "source_repo": "clarkemn/cortex-cloud-docs-mcp-server",
+  "source_url": "https://github.com/clarkemn/cortex-cloud-docs-mcp-server",
+  "install": "npx -y cortex-cloud-docs-mcp-server"
+}

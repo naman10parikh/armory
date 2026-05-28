@@ -1,0 +1,7 @@
+{
+  "name": "zcaceres-markdownify",
+  "description": "Converts diverse file types and web content to Markdown format using specialized tools for PDFs, images, audio, web pages, and more.",
+  "source_repo": "zcaceres/markdownify-mcp",
+  "source_url": "https://github.com/zcaceres/markdownify-mcp",
+  "install": "npx -y markdownify-mcp"
+}

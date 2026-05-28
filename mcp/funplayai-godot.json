@@ -1,0 +1,7 @@
+{
+  "name": "funplayai-godot",
+  "description": "MCP server for Godot Engine: 120+ tools for AI agents to control scenes, scripts, and game assets in a running Godot project.",
+  "source_repo": "funplayai/funplay-godot-mcp",
+  "source_url": "https://github.com/funplayai/funplay-godot-mcp",
+  "install": "npx -y funplay-godot-mcp"
+}

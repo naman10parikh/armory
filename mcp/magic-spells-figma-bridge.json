@@ -1,0 +1,7 @@
+{
+  "name": "magic-spells-figma-bridge",
+  "description": "Bridges Figma documents with external tools through a WebSocket-based dual-architecture system providing node creation, styling, layout management, component handling, and design system automation with token-efficient search capabilities.",
+  "source_repo": "magic-spells/figma-mcp-bridge",
+  "source_url": "https://github.com/magic-spells/figma-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/magic-spells/figma-mcp-bridge\n# See source for mcpServers config block"
+}

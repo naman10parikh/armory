@@ -1,0 +1,7 @@
+{
+  "name": "tencentcloudbase-cloudbase-ai-toolkit",
+  "description": "One-stop backend services for WeChat Mini-Programs and full-stack apps. Provides specialized MCP tools for serverless cloud functions, databases, and one-click deployment to production with China market access through WeChat ecosystem.",
+  "source_repo": "TencentCloudBase/CloudBase-AI-ToolKit",
+  "source_url": "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit",
+  "install": "# git clone --depth 1 https://github.com/TencentCloudBase/CloudBase-AI-ToolKit\n# See source for mcpServers config block"
+}

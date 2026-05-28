@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-music-production-ai-mcp",
+  "description": "Python MCP server for music production assistance and audio tools.",
+  "source_repo": "csoai-org/music-production-ai-mcp",
+  "source_url": "https://github.com/csoai-org/music-production-ai-mcp",
+  "install": "npx -y music-production-ai-mcp"
+}

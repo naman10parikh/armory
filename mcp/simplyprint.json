@@ -1,0 +1,7 @@
+{
+  "name": "simplyprint",
+  "description": "Manage 3D printer farms directly from Claude, controlling printers, queues, and jobs.",
+  "source_repo": "simplyprint/simplyprint-claude-plugin",
+  "source_url": "https://github.com/simplyprint/simplyprint-claude-plugin",
+  "install": "# git clone --depth 1 https://github.com/simplyprint/simplyprint-claude-plugin\n# See source for mcpServers config block"
+}

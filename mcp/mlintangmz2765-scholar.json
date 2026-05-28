@@ -1,0 +1,7 @@
+{
+  "name": "mlintangmz2765-scholar",
+  "description": "Provides structured access to Scopus, OpenAlex, and Unpaywall for AI-driven academic paper discovery, citation tracking, author analytics, and PDF extraction.",
+  "source_repo": "mlintangmz2765/scholar-mcp",
+  "source_url": "https://github.com/mlintangmz2765/scholar-mcp",
+  "install": "npx -y scholar-mcp"
+}

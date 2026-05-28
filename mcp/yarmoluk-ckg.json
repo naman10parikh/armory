@@ -1,0 +1,7 @@
+{
+  "name": "yarmoluk-ckg",
+  "description": "Query pre-structured knowledge graphs for math, science, and other domains without text retrieval.",
+  "source_repo": "yarmoluk/ckg-mcp",
+  "source_url": "https://github.com/yarmoluk/ckg-mcp",
+  "install": "npx -y ckg-mcp"
+}

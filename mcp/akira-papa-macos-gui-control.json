@@ -1,0 +1,7 @@
+{
+  "name": "akira-papa-macos-gui-control",
+  "description": "Provides complete macOS system automation through mouse operations, keyboard input, screen capture, window management, and AppleScript execution with safety-focused command filtering.",
+  "source_repo": "akira-papa/macos-gui-control-mcp",
+  "source_url": "https://github.com/akira-papa/macos-gui-control-mcp",
+  "install": "npx -y macos-gui-control-mcp"
+}

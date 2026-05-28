@@ -1,0 +1,7 @@
+{
+  "name": "marp-agent-mcp",
+  "description": "MCP server for generating slides from natural language, with interactive preview and export to PDF, PPTX, and Markdown.",
+  "source_repo": "iwamot/marp-agent-mcp",
+  "source_url": "https://github.com/iwamot/marp-agent-mcp",
+  "install": "npx -y marp-agent-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "roomi-fields-notebooklm",
+  "description": "Integrates with Google NotebookLM through browser automation to enable document analysis, question answering, and notebook library management with persistent authentication.",
+  "source_repo": "roomi-fields/notebooklm-mcp",
+  "source_url": "https://github.com/roomi-fields/notebooklm-mcp",
+  "install": "npx -y notebooklm-mcp"
+}

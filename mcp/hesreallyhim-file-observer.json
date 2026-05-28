@@ -1,0 +1,7 @@
+{
+  "name": "hesreallyhim-file-observer",
+  "description": "Monitors file system changes and sends real-time notifications when watched files or directories are modified, enabling live document editing and configuration monitoring workflows.",
+  "source_repo": "hesreallyhim/mcp-observer-server",
+  "source_url": "https://github.com/hesreallyhim/mcp-observer-server",
+  "install": "# git clone --depth 1 https://github.com/hesreallyhim/mcp-observer-server\n# See source for mcpServers config block"
+}

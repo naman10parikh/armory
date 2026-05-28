@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-barcode-generator",
+  "description": "Generate EAN-13, UPC-A, Code128, and Code39 barcodes as SVG.",
+  "source_repo": "br0ski777/barcode-generator-x402",
+  "source_url": "https://github.com/br0ski777/barcode-generator-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/barcode-generator-x402\n# See source for mcpServers config block"
+}

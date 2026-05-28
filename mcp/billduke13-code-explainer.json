@@ -1,0 +1,7 @@
+{
+  "name": "billduke13-code-explainer",
+  "description": "Integrates with Cloudflare Workers to provide code explanation services, including architecture diagram generation, core functionality identification, and component breakdown across multiple programming languages.",
+  "source_repo": "billduke13/code-explainer-mcp",
+  "source_url": "https://github.com/billduke13/code-explainer-mcp",
+  "install": "npx -y code-explainer-mcp"
+}

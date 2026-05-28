@@ -1,0 +1,7 @@
+{
+  "name": "gh-toolwright-adk-linear-bootstrap",
+  "description": "Bootstrap Linear projects from natural language with milestones, epics, issues, and dependency graphs.",
+  "source_repo": "toolwright-adk/toolwright-monorepo",
+  "source_url": "https://github.com/toolwright-adk/toolwright-monorepo",
+  "install": "# git clone --depth 1 https://github.com/toolwright-adk/toolwright-monorepo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sei-mcp-server",
+  "description": "Bridges AI agents to the Brazilian SEI system, enabling listing processes, reading documents, searching, and downloading files via session cookies.",
+  "source_repo": "franklinbaldo/sei-mcp",
+  "source_url": "https://github.com/franklinbaldo/sei-mcp",
+  "install": "npx -y sei-mcp"
+}

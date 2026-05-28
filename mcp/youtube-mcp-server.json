@@ -1,0 +1,7 @@
+{
+  "name": "youtube-mcp-server",
+  "description": "Youtube Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Nocodeboy/youtube-mcp-server",
+  "source_url": "https://mcp.so/server/youtube-mcp-server/Nocodeboy",
+  "install": "npx -y youtube-mcp-server"
+}

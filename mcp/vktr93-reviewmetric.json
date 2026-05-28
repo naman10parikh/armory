@@ -1,0 +1,7 @@
+{
+  "name": "vktr93-reviewmetric",
+  "description": "Connects AI agents to a 15-agent scientific peer review pipeline for research paper analysis.",
+  "source_repo": "vktr93/reviewmetric-mcp",
+  "source_url": "https://github.com/vktr93/reviewmetric-mcp",
+  "install": "npx -y reviewmetric-mcp"
+}

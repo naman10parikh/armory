@@ -1,0 +1,7 @@
+{
+  "name": "negative-results-mcp",
+  "description": "Negative results intelligence for drug discovery: inactive compounds, failed selectivity panels, terminated clinical trials, failed CRISPR screens, antibody developability failures, and more — each result carrying full provenance (source database, DOI/PMID, license)",
+  "source_repo": "nullary-ai/nullary-mcp",
+  "source_url": "https://github.com/nullary-ai/nullary-mcp",
+  "install": "npx -y nullary-mcp"
+}

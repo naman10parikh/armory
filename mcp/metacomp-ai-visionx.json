@@ -1,0 +1,7 @@
+{
+  "name": "metacomp-ai-visionx",
+  "description": "Analyzes Web3 wallet and transaction security using MetaComp's VisionX platform for risk assessment.",
+  "source_repo": "metacomp-ai/local-mcp",
+  "source_url": "https://github.com/metacomp-ai/local-mcp",
+  "install": "npx -y local-mcp"
+}

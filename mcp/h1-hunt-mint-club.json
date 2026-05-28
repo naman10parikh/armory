@@ -1,0 +1,7 @@
+{
+  "name": "h1-hunt-mint-club",
+  "description": "Trade bonding curve tokens on Base via Mint Club V2 with buy, sell, swap, and create tools.",
+  "source_repo": "steemhunt/mint.club-v2-ai",
+  "source_url": "https://github.com/steemhunt/mint.club-v2-ai",
+  "install": "# git clone --depth 1 https://github.com/steemhunt/mint.club-v2-ai\n# See source for mcpServers config block"
+}

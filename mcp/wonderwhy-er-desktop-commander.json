@@ -1,0 +1,7 @@
+{
+  "name": "wonderwhy-er-desktop-commander",
+  "description": "Enables Claude to execute terminal commands and edit files on your local machine through a secure, diff-based approach with command blacklisting and path validation.",
+  "source_repo": "strawhatai/claude-dev-tools",
+  "source_url": "https://github.com/strawhatai/claude-dev-tools",
+  "install": "# git clone --depth 1 https://github.com/strawhatai/claude-dev-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zym-together-ai-image",
+  "description": "Integrates with Together AI's API to enable text-to-image generation, offering tools for creating visual content based on text prompts.",
+  "source_repo": "zym9863/together-ai-image-server",
+  "source_url": "https://github.com/zym9863/together-ai-image-server",
+  "install": "# git clone --depth 1 https://github.com/zym9863/together-ai-image-server\n# See source for mcpServers config block"
+}

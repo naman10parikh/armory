@@ -1,0 +1,7 @@
+{
+  "name": "vikas9793-androjack",
+  "description": "Provides live, verified Android development knowledge by grounding AI coding assistants with official Google documentation and API validation.",
+  "source_repo": "vikas9793/androjack-mcp",
+  "source_url": "https://github.com/vikas9793/androjack-mcp",
+  "install": "npx -y androjack-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "golovatskygroup-lens",
+  "description": "Proxy server that reduces tool overload by wrapping upstream MCP servers with meta-tools for discovery, description, and execution",
+  "source_repo": "golovatskygroup/mcp-lens",
+  "source_url": "https://github.com/golovatskygroup/mcp-lens",
+  "install": "# git clone --depth 1 https://github.com/golovatskygroup/mcp-lens\n# See source for mcpServers config block"
+}

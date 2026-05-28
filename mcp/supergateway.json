@@ -1,0 +1,7 @@
+{
+  "name": "supergateway",
+  "description": "Supergateway MCP server listed on mcp.so.",
+  "source_repo": "coding-alt/supergateway",
+  "source_url": "https://mcp.so/server/supergateway/coding-alt",
+  "install": "# git clone --depth 1 https://mcp.so/server/supergateway/coding-alt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rootsbymenda-pharma-regulatory",
+  "description": "Free drug safety server covering 7 databases: DrugBank, drug interactions, FAERS adverse events, WHO alerts, and TGA regulatory data.",
+  "source_repo": "rootsbymenda/pharma-mcp-server",
+  "source_url": "https://github.com/rootsbymenda/pharma-mcp-server",
+  "install": "npx -y pharma-mcp-server"
+}

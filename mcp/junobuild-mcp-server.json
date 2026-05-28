@@ -1,0 +1,7 @@
+{
+  "name": "junobuild-mcp-server",
+  "description": "Manage satellites, hosting, serverless functions, changes and more through any MCP-compatible client. Includes a built-in documentation tool to access Juno's official guides and references.",
+  "source_repo": "nami2111/junobuild-mcp",
+  "source_url": "https://github.com/nami2111/junobuild-mcp",
+  "install": "npx -y junobuild-mcp"
+}

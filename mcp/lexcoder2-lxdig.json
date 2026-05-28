@@ -1,0 +1,7 @@
+{
+  "name": "lexcoder2-lxdig",
+  "description": "Code graph intelligence server with persistent agent memory, hybrid Graph+Vector+BM25 retrieval, multi-agent coordination, and impact-scoped test selection for AI coding assistants.",
+  "source_repo": "lexcoder2/lxdig-mcp",
+  "source_url": "https://github.com/lexcoder2/lxdig-mcp",
+  "install": "npx -y lxdig-mcp"
+}

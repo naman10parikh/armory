@@ -1,0 +1,7 @@
+{
+  "name": "a2a-min",
+  "description": "Minimal A2A implementation",
+  "source_repo": "pcingola/a2a_min",
+  "source_url": "https://github.com/pcingola/a2a_min",
+  "install": "# git clone --depth 1 https://github.com/pcingola/a2a_min\n# See source for mcpServers config block"
+}

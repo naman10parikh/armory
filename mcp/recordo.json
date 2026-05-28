@@ -1,0 +1,7 @@
+{
+  "name": "recordo",
+  "description": "Brain dump, routines, task planning, focus, and instant thought retrieval.",
+  "source_repo": "",
+  "source_url": "https://recordo.app/mcp/recordo",
+  "install": "# git clone --depth 1 https://recordo.app/mcp/recordo\n# See source for mcpServers config block"
+}

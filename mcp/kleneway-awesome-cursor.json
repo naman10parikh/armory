@@ -1,0 +1,7 @@
+{
+  "name": "kleneway-awesome-cursor",
+  "description": "Built for Cursor, integrates screenshot capture, web page structure analysis, and code review capabilities for automated UI testing, web scraping, and code quality checks.",
+  "source_repo": "kleneway/awesome-cursor-mpc-server",
+  "source_url": "https://github.com/kleneway/awesome-cursor-mpc-server",
+  "install": "# git clone --depth 1 https://github.com/kleneway/awesome-cursor-mpc-server\n# See source for mcpServers config block"
+}

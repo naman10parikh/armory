@@ -1,0 +1,7 @@
+{
+  "name": "lorecraft-io-refero-design",
+  "description": "Searches the Refero Styles design catalog in plain English and generates DESIGN.md files with colors, typography, and spacing for any project.",
+  "source_repo": "fidgetcoding/refero-design-mcp",
+  "source_url": "https://github.com/fidgetcoding/refero-design-mcp",
+  "install": "npx -y refero-design-mcp"
+}

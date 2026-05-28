@@ -1,0 +1,7 @@
+{
+  "name": "growthbook-feature-flags",
+  "description": "Enables AI to manage feature flags, experiments, environments, and SDK connections in GrowthBook, providing tools for searching documentation, creating targeting rules, and generating implementation code for various programming languages.",
+  "source_repo": "growthbook/growthbook-mcp",
+  "source_url": "https://github.com/growthbook/growthbook-mcp",
+  "install": "npx -y growthbook-mcp"
+}

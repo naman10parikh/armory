@@ -1,0 +1,7 @@
+{
+  "name": "geminiwen-wechat-moments",
+  "description": "Enables publishing content to WeChat Moments on macOS through AppleScript automation and mouse event emulation, providing a server interface for social media management workflows.",
+  "source_repo": "geminiwen/mcp-wechat-moments",
+  "source_url": "https://github.com/geminiwen/mcp-wechat-moments",
+  "install": "# git clone --depth 1 https://github.com/geminiwen/mcp-wechat-moments\n# See source for mcpServers config block"
+}

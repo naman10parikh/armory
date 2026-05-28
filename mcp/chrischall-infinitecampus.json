@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-infinitecampus",
+  "description": "Access Infinite Campus parent portal for grades, attendance, assignments, and messages.",
+  "source_repo": "chrischall/infinitecampus-mcp",
+  "source_url": "https://github.com/chrischall/infinitecampus-mcp",
+  "install": "npx -y infinitecampus-mcp"
+}

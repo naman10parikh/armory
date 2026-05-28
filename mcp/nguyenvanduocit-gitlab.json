@@ -1,0 +1,7 @@
+{
+  "name": "nguyenvanduocit-gitlab",
+  "description": "Provides a bridge to the GitLab API, enabling developers to interact with repositories through standardized tools for project listing, merge request management, file retrieval, pipeline analysis, and user event exploration.",
+  "source_repo": "nguyenvanduocit/gitlab-mcp",
+  "source_url": "https://github.com/nguyenvanduocit/gitlab-mcp",
+  "install": "npx -y gitlab-mcp"
+}

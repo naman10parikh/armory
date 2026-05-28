@@ -1,0 +1,7 @@
+{
+  "name": "rtc-mcp-server",
+  "description": "Rtc Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "gnuhpc/rtc-mcp-server",
+  "source_url": "https://mcp.so/server/rtc-mcp-server/gnuhpc",
+  "install": "npx -y rtc-mcp-server"
+}

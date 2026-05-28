@@ -1,0 +1,7 @@
+{
+  "name": "gemsuite-mcp",
+  "description": "Gemsuite Mcp MCP server listed on mcp.so.",
+  "source_repo": "PV-Bhat/gemsuite-mcp",
+  "source_url": "https://mcp.so/server/gemsuite-mcp/PV-Bhat",
+  "install": "npx -y gemsuite-mcp"
+}

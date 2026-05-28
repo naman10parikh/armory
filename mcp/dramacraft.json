@@ -1,0 +1,7 @@
+{
+  "name": "dramacraft",
+  "description": "Integrates with Jianying (CapCut) and Chinese LLMs to automate short drama video editing, including commentary generation, remix creation, and draft import.",
+  "source_repo": "jackyxia918918/dramacraft",
+  "source_url": "https://github.com/jackyxia918918/dramacraft",
+  "install": "# git clone --depth 1 https://github.com/jackyxia918918/dramacraft\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zotero",
+  "description": "Enables direct interaction with Zotero reference management libraries for searching literature, retrieving metadata and full-text content, managing collections, and organizing research materials.",
+  "source_repo": "54yyyu/zotero-mcp",
+  "source_url": "https://github.com/54yyyu/zotero-mcp",
+  "install": "npx -y zotero-mcp"
+}

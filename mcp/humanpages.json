@@ -1,0 +1,7 @@
+{
+  "name": "humanpages",
+  "description": "Search for and hire humans for real-world tasks via humanpages.ai.",
+  "source_repo": "human-pages-ai/humanpages",
+  "source_url": "https://github.com/human-pages-ai/humanpages",
+  "install": "# git clone --depth 1 https://github.com/human-pages-ai/humanpages\n# See source for mcpServers config block"
+}

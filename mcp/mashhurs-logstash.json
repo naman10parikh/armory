@@ -1,0 +1,7 @@
+{
+  "name": "mashhurs-logstash",
+  "description": "Integrates with Logstash instances to provide real-time monitoring, performance analysis, and debugging capabilities including JVM memory tracking, pipeline statistics, hot threads analysis, and queue backpressure detection for ELK stack deployments.",
+  "source_repo": "mashhurs/logstash-mcp-server",
+  "source_url": "https://github.com/mashhurs/logstash-mcp-server",
+  "install": "npx -y logstash-mcp-server"
+}

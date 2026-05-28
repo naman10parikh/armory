@@ -1,0 +1,7 @@
+{
+  "name": "michaelruelas-kan",
+  "description": "Exposes Kan.bn project management capabilities via 40 MCP tools across workspaces, boards, lists, cards, and checklists.",
+  "source_repo": "michaelruelas/kan-mcp",
+  "source_url": "https://github.com/michaelruelas/kan-mcp",
+  "install": "npx -y kan-mcp"
+}

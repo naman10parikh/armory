@@ -1,0 +1,7 @@
+{
+  "name": "arborist-claudehopper",
+  "description": "Integrates with Claude Desktop to analyze construction documents, enabling semantic search across architectural drawings and specifications through LanceDB vector storage and Ollama local processing.",
+  "source_repo": "arborist-ai/claudehopper",
+  "source_url": "https://github.com/arborist-ai/claudehopper",
+  "install": "# git clone --depth 1 https://github.com/arborist-ai/claudehopper\n# See source for mcpServers config block"
+}

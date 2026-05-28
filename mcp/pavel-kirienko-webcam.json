@@ -1,0 +1,7 @@
+{
+  "name": "pavel-kirienko-webcam",
+  "description": "Provides direct webcam access for photo capture and video frame recording using OpenCV for cross-platform camera support with configurable quality settings and resolution management.",
+  "source_repo": "pavel-kirienko/webcam_mcp",
+  "source_url": "https://github.com/pavel-kirienko/webcam_mcp",
+  "install": "npx -y webcam_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enigma",
+  "description": "Access trusted data about business identity and activity",
+  "source_repo": "",
+  "source_url": "https://enigma.com",
+  "install": "# git clone --depth 1 https://enigma.com\n# See source for mcpServers config block"
+}

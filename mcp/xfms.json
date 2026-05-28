@@ -1,0 +1,7 @@
+{
+  "name": "xfms",
+  "description": "LLM model selector that ranks models for any task using 8 independent evaluators.",
+  "source_repo": "visionairyse/xfms",
+  "source_url": "https://github.com/visionairyse/xfms",
+  "install": "# git clone --depth 1 https://github.com/visionairyse/xfms\n# See source for mcpServers config block"
+}

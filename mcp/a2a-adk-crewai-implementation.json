@@ -1,0 +1,7 @@
+{
+  "name": "a2a-adk-crewai-implementation",
+  "description": "Implementation combining ADK and CrewAI with A2A",
+  "source_repo": "teeppp/a2a_adk_crewai_impl",
+  "source_url": "https://github.com/teeppp/a2a_adk_crewai_impl",
+  "install": "# git clone --depth 1 https://github.com/teeppp/a2a_adk_crewai_impl\n# See source for mcpServers config block"
+}

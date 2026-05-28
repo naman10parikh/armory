@@ -1,0 +1,7 @@
+{
+  "name": "aws-finops-mcp-server",
+  "description": "Enables natural language analysis of AWS costs, automated FinOps waste audits, and budget monitoring across multiple profiles and regions while keeping credentials secure locally.",
+  "source_repo": "ravikiranvm/aws-finops-mcp-server",
+  "source_url": "https://github.com/ravikiranvm/aws-finops-mcp-server",
+  "install": "npx -y aws-finops-mcp-server"
+}

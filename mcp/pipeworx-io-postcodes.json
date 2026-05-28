@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-postcodes",
+  "description": "Looks up UK postal codes for geolocation and administrative data.",
+  "source_repo": "pipeworx-io/mcp-postcodes",
+  "source_url": "https://github.com/pipeworx-io/mcp-postcodes",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-postcodes\n# See source for mcpServers config block"
+}

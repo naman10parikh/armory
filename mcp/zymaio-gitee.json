@@ -1,0 +1,7 @@
+{
+  "name": "zymaio-gitee",
+  "description": "Integrates with Gitee's API to provide repository management, issue tracking, pull request workflows, and user management with robust error handling.",
+  "source_repo": "zymaio/gitee-rs",
+  "source_url": "https://github.com/zymaio/gitee-rs",
+  "install": "# git clone --depth 1 https://github.com/zymaio/gitee-rs\n# See source for mcpServers config block"
+}

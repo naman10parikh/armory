@@ -1,0 +1,7 @@
+{
+  "name": "wolfram",
+  "description": "Wolfram Language and Wolfram|Alpha integration for accessing curated data and computational algorithms.",
+  "source_repo": "",
+  "source_url": "https://agenttools.wolfram.com/mcp",
+  "install": "# git clone --depth 1 https://agenttools.wolfram.com/mcp\n# See source for mcpServers config block"
+}

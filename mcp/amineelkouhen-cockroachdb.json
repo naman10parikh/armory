@@ -1,0 +1,7 @@
+{
+  "name": "amineelkouhen-cockroachdb",
+  "description": "Integrates with CockroachDB to provide cluster monitoring, database operations, table management, and SQL query execution with transaction support and performance analysis.",
+  "source_repo": "amineelkouhen/mcp-cockroachdb",
+  "source_url": "https://github.com/amineelkouhen/mcp-cockroachdb",
+  "install": "# git clone --depth 1 https://github.com/amineelkouhen/mcp-cockroachdb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mfnogueira-sankhya-erp-docs",
+  "description": "Semantic search over Sankhya ERP documentation using local RAG with embedded vector index.",
+  "source_repo": "mfnogueira/sankhya-mcp",
+  "source_url": "https://github.com/mfnogueira/sankhya-mcp",
+  "install": "npx -y sankhya-mcp"
+}

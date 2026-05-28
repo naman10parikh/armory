@@ -1,0 +1,7 @@
+{
+  "name": "feroxbuster-mcp",
+  "description": "Enables AI assistants to perform web content discovery scans using feroxbuster on a remote system via SSH, with support for recursive scanning, filtering, and background execution.",
+  "source_repo": "schwarztim/sec-feroxbuster-mcp",
+  "source_url": "https://github.com/schwarztim/sec-feroxbuster-mcp",
+  "install": "npx -y sec-feroxbuster-mcp"
+}

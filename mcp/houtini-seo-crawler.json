@@ -1,0 +1,7 @@
+{
+  "name": "houtini-seo-crawler",
+  "description": "Crawl and analyze websites for SEO errors with SQLite-backed storage and configurable depth.",
+  "source_repo": "houtini-ai/seo-crawler-mcp",
+  "source_url": "https://github.com/houtini-ai/seo-crawler-mcp",
+  "install": "npx -y seo-crawler-mcp"
+}

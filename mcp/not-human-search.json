@@ -1,0 +1,7 @@
+{
+  "name": "not-human-search",
+  "description": "Search engine for AI agents that finds and ranks agentic-ready tools, APIs, and services.",
+  "source_repo": "",
+  "source_url": "https://nothumansearch.ai",
+  "install": "# git clone --depth 1 https://nothumansearch.ai\n# See source for mcpServers config block"
+}

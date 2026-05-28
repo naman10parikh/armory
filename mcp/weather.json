@@ -1,0 +1,7 @@
+{
+  "name": "weather",
+  "description": "Integrates with the National Weather Service API to retrieve weather alerts by state and forecasts by coordinates for basic weather information access.",
+  "source_repo": "crazyrabbitltc/mcp-snapshot-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-snapshot-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-snapshot-server\n# See source for mcpServers config block"
+}

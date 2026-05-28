@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-lido",
+  "description": "Hosted integration with Lido liquid staking protocol for vault queries and staking analytics via Junct platform.",
+  "source_repo": "junct-bot/lido-mcp",
+  "source_url": "https://github.com/junct-bot/lido-mcp",
+  "install": "npx -y lido-mcp"
+}

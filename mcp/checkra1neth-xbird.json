@@ -1,0 +1,7 @@
+{
+  "name": "checkra1neth-xbird",
+  "description": "Twitter/X MCP server with 34 tools — post tweets, search, read timelines, manage engagement, upload media. No API keys needed, uses browser cookies. Pay per call from $0.001 via x402 micropayments.",
+  "source_repo": "checkra1neth/xbird-skill",
+  "source_url": "https://github.com/checkra1neth/xbird-skill",
+  "install": "# git clone --depth 1 https://github.com/checkra1neth/xbird-skill\n# See source for mcpServers config block"
+}

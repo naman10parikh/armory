@@ -1,0 +1,7 @@
+{
+  "name": "kokushin-exia-voiceroid",
+  "description": "Bridges AI models with Voiceroid text-to-speech system to generate structured explanation scenarios for automated narration content.",
+  "source_repo": "kokushin/exia-mcp",
+  "source_url": "https://github.com/kokushin/exia-mcp",
+  "install": "npx -y exia-mcp"
+}

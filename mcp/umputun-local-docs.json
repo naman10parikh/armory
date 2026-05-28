@@ -1,0 +1,7 @@
+{
+  "name": "umputun-local-docs",
+  "description": "Provides seamless access to local markdown documentation from multiple sources with smart fuzzy search, file caching, and real-time updates for development workflows requiring quick access to project docs, command references, and knowledge bases.",
+  "source_repo": "umputun/local-docs-mcp",
+  "source_url": "https://github.com/umputun/local-docs-mcp",
+  "install": "npx -y local-docs-mcp"
+}

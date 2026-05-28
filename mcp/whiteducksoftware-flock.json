@@ -1,0 +1,7 @@
+{
+  "name": "whiteducksoftware-flock",
+  "description": "Provides modular MCP servers and tools for the Flock AI agent framework, covering web scraping, search, Azure, LLM, and code operations.",
+  "source_repo": "whiteducksoftware/flock-mcp",
+  "source_url": "https://github.com/whiteducksoftware/flock-mcp",
+  "install": "npx -y flock-mcp"
+}

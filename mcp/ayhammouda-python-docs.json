@@ -1,0 +1,7 @@
+{
+  "name": "ayhammouda-python-docs",
+  "description": "Local, read-only MCP retrieval over official Python standard library documentation across versions 3.10–3.14.",
+  "source_repo": "ayhammouda/python-docs-mcp-server",
+  "source_url": "https://github.com/ayhammouda/python-docs-mcp-server",
+  "install": "npx -y python-docs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dlt",
+  "description": "Enables large language models to retrieve up-to-date and correct information about dlt pipelines, datasets, and schemas, improving AI-assisted development.",
+  "source_repo": "dlt-hub/dlt-mcp",
+  "source_url": "https://github.com/dlt-hub/dlt-mcp",
+  "install": "npx -y dlt-mcp"
+}

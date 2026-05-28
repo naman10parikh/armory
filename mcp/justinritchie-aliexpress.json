@@ -1,0 +1,7 @@
+{
+  "name": "justinritchie-aliexpress",
+  "description": "Search AliExpress products, get shipping info, and manage cart operations.",
+  "source_repo": "justinritchie/aliexpress-mcp-server",
+  "source_url": "https://github.com/justinritchie/aliexpress-mcp-server",
+  "install": "npx -y aliexpress-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mckaywrigley-linear",
+  "description": "Provides a bridge to the Linear project management platform, enabling task creation, tracking, and workflow management through robust API interactions and comprehensive error handling.",
+  "source_repo": "mckaywrigley/takeoff-linear-mcp-server",
+  "source_url": "https://github.com/mckaywrigley/takeoff-linear-mcp-server",
+  "install": "npx -y takeoff-linear-mcp-server"
+}

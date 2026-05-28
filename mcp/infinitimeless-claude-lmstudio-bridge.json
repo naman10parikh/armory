@@ -1,0 +1,7 @@
+{
+  "name": "infinitimeless-claude-lmstudio-bridge",
+  "description": "Bridges Claude with local LLMs running in LM Studio, enabling direct access to local model capabilities for text generation and chat completions while reducing cloud dependency.",
+  "source_repo": "infinitimeless/claude-lmstudio-bridge",
+  "source_url": "https://github.com/infinitimeless/claude-lmstudio-bridge",
+  "install": "# git clone --depth 1 https://github.com/infinitimeless/claude-lmstudio-bridge\n# See source for mcpServers config block"
+}

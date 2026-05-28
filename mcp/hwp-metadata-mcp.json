@@ -1,0 +1,7 @@
+{
+  "name": "hwp-metadata-mcp",
+  "description": "Enables extraction of metadata from HWP and HWPX files (Korean word processor formats) without requiring HWP installation. Supports document info, statistics, security, and font details.",
+  "source_repo": "heonseung4-del/hwp-metadata-mcp",
+  "source_url": "https://github.com/heonseung4-del/hwp-metadata-mcp",
+  "install": "npx -y hwp-metadata-mcp"
+}

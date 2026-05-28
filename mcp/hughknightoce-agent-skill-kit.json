@@ -1,0 +1,7 @@
+{
+  "name": "hughknightoce-agent-skill-kit",
+  "description": "Exposes Python-based automation skills as discoverable tools, featuring built-in capabilities like CSV conversion and PDF generation plus an Architect skill that creates new automation workflows from natural language descriptions.",
+  "source_repo": "hughknightoce/agent-skill-kit-ask-",
+  "source_url": "https://github.com/hughknightoce/agent-skill-kit-ask-",
+  "install": "# git clone --depth 1 https://github.com/hughknightoce/agent-skill-kit-ask-\n# See source for mcpServers config block"
+}

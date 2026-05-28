@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-token-minter",
+  "description": "Enables AI assistants to deploy and manage ERC-20 tokens across multiple blockchain networks, providing tools for token creation, balance checking, and transfers using ethers.js and smart contracts.",
+  "source_repo": "kukapay/token-minter-mcp",
+  "source_url": "https://github.com/kukapay/token-minter-mcp",
+  "install": "npx -y token-minter-mcp"
+}

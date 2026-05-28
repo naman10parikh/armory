@@ -1,0 +1,7 @@
+{
+  "name": "jamesanz-bitcoin-mcp",
+  "description": "An MCP server that enables AI models to query the Bitcoin blockchain.",
+  "source_repo": "JamesANZ/bitcoin-mcp",
+  "source_url": "https://github.com/JamesANZ/bitcoin-mcp",
+  "install": "npx -y bitcoin-mcp"
+}

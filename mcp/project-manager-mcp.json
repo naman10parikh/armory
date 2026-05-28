@@ -1,0 +1,7 @@
+{
+  "name": "project-manager-mcp",
+  "description": "Enables AI agents to manage projects, epics, and tasks with atomic locking, real-time dashboard, and multi-agent coordination.",
+  "source_repo": "dtannen/pm",
+  "source_url": "https://github.com/dtannen/pm",
+  "install": "# git clone --depth 1 https://github.com/dtannen/pm\n# See source for mcpServers config block"
+}

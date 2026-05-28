@@ -1,0 +1,7 @@
+{
+  "name": "esa-mcp-server-claude",
+  "description": "Esa Mcp Server Claude MCP server listed on mcp.so.",
+  "source_repo": "sou-lab/esa-mcp-server-claude",
+  "source_url": "https://mcp.so/server/esa-mcp-server-claude/sou-lab",
+  "install": "# git clone --depth 1 https://mcp.so/server/esa-mcp-server-claude/sou-lab\n# See source for mcpServers config block"
+}

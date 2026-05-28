@@ -1,0 +1,7 @@
+{
+  "name": "gourraguis-glasses",
+  "description": "Captures website screenshots using headless Chrome automation with configurable device emulation, output formats, and full-page or viewport-only options for web development workflows and content auditing.",
+  "source_repo": "gourraguis/glasses-mcp",
+  "source_url": "https://github.com/gourraguis/glasses-mcp",
+  "install": "npx -y glasses-mcp"
+}

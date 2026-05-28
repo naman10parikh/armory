@@ -1,0 +1,7 @@
+{
+  "name": "okta-okta-mcp-server",
+  "description": "Identity and access management automation for Okta systems",
+  "source_repo": "okta/okta-mcp-server",
+  "source_url": "https://github.com/okta/okta-mcp-server",
+  "install": "npx -y okta-mcp-server"
+}

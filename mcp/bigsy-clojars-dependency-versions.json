@@ -1,0 +1,7 @@
+{
+  "name": "bigsy-clojars-dependency-versions",
+  "description": "Retrieves information related to Clojure dependency management.",
+  "source_repo": "bigsy/clojars-mcp-server",
+  "source_url": "https://github.com/bigsy/clojars-mcp-server",
+  "install": "npx -y clojars-mcp-server"
+}

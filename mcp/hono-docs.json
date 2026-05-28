@@ -1,0 +1,7 @@
+{
+  "name": "hono-docs",
+  "description": "Search and retrieve Hono framework documentation via Algolia search and markdown content fetching.",
+  "source_repo": "yusukebe/hono-docs-mcp",
+  "source_url": "https://github.com/yusukebe/hono-docs-mcp",
+  "install": "npx -y hono-docs-mcp"
+}

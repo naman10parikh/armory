@@ -1,0 +1,7 @@
+{
+  "name": "windie-chai-confluence-wiki",
+  "description": "Bridges VSCode/Cursor with Confluence Wiki, enabling direct access and automatic conversion of wiki content to markdown format within AI conversations.",
+  "source_repo": "windiechai/confluence-wiki-mcp-server-extension",
+  "source_url": "https://github.com/windiechai/confluence-wiki-mcp-server-extension",
+  "install": "# git clone --depth 1 https://github.com/windiechai/confluence-wiki-mcp-server-extension\n# See source for mcpServers config block"
+}

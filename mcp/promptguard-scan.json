@@ -1,0 +1,7 @@
+{
+  "name": "promptguard-scan",
+  "description": "LLM security scanning for prompt injection, jailbreak attempts, and policy violations.",
+  "source_repo": "",
+  "source_url": "https://promptguardscan.space",
+  "install": "# git clone --depth 1 https://promptguardscan.space\n# See source for mcpServers config block"
+}

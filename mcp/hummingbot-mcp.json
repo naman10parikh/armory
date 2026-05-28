@@ -1,0 +1,7 @@
+{
+  "name": "hummingbot-mcp",
+  "description": "An MCP server that enables Claude and Gemini CLI to interact with Hummingbot for automated cryptocurrency trading across multiple exchanges.",
+  "source_repo": "hummingbot/mcp",
+  "source_url": "https://github.com/hummingbot/mcp",
+  "install": "# git clone --depth 1 https://github.com/hummingbot/mcp\n# See source for mcpServers config block"
+}

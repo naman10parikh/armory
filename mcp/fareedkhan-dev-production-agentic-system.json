@@ -1,0 +1,7 @@
+{
+  "name": "fareedkhan-dev-production-agentic-system",
+  "description": "Production-grade MCP server reference architecture with multi-tenancy, OAuth 2.1, OpenTelemetry, and a four-agent support copilot.",
+  "source_repo": "fareedkhan-dev/production-grade-mcp-agentic-system",
+  "source_url": "https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system",
+  "install": "# git clone --depth 1 https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system\n# See source for mcpServers config block"
+}

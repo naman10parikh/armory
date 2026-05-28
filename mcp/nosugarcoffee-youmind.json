@@ -1,0 +1,7 @@
+{
+  "name": "nosugarcoffee-youmind",
+  "description": "Retrieves plain text content from YouMind crafts using unique IDs and browser session authentication.",
+  "source_repo": "nosugarcoffee/youmind-mcp",
+  "source_url": "https://github.com/nosugarcoffee/youmind-mcp",
+  "install": "npx -y youmind-mcp"
+}

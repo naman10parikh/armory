@@ -1,0 +1,7 @@
+{
+  "name": "kazuph-github-pera1",
+  "description": "Connects to GitHub repositories, enabling natural language queries about code structure, dependencies, and development history.",
+  "source_repo": "kazuph/mcp-github-pera1",
+  "source_url": "https://github.com/kazuph/mcp-github-pera1",
+  "install": "# git clone --depth 1 https://github.com/kazuph/mcp-github-pera1\n# See source for mcpServers config block"
+}

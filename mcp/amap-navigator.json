@@ -1,0 +1,7 @@
+{
+  "name": "amap-navigator",
+  "description": "Integrates with Amap API to provide location-based services including geocoding, weather information, driving routes, and location suggestions for applications requiring real-time geographic data in the Chinese market.",
+  "source_repo": "rickeylaiii/xiaoai_mapmcp",
+  "source_url": "https://github.com/rickeylaiii/xiaoai_mapmcp",
+  "install": "# git clone --depth 1 https://github.com/rickeylaiii/xiaoai_mapmcp\n# See source for mcpServers config block"
+}

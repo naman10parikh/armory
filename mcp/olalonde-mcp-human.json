@@ -1,0 +1,7 @@
+{
+  "name": "olalonde-mcp-human",
+  "description": "When your LLM needs human assistance (through AWS Mechanical Turk)",
+  "source_repo": "olalonde/mcp-human",
+  "source_url": "https://github.com/olalonde/mcp-human",
+  "install": "# git clone --depth 1 https://github.com/olalonde/mcp-human\n# See source for mcpServers config block"
+}

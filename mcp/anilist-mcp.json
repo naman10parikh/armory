@@ -1,0 +1,7 @@
+{
+  "name": "anilist-mcp",
+  "description": "Anilist Mcp MCP server listed on mcp.so.",
+  "source_repo": "yuna0x0/anilist-mcp",
+  "source_url": "https://mcp.so/server/anilist-mcp/yuna0x0",
+  "install": "npx -y anilist-mcp"
+}

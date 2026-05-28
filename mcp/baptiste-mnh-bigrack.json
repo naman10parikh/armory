@@ -1,0 +1,7 @@
+{
+  "name": "baptiste-mnh-bigrack",
+  "description": "Local-first project management server with task decomposition, dependency tracking, and vector-based context storage using SQLite and embeddings",
+  "source_repo": "baptiste-mnh/bigrack.dev",
+  "source_url": "https://github.com/baptiste-mnh/bigrack.dev/tree/HEAD/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/baptiste-mnh/bigrack.dev/tree/HEAD/packages/mcp\n# See source for mcpServers config block"
+}

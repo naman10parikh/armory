@@ -1,0 +1,7 @@
+{
+  "name": "openapi-mcp-generator",
+  "description": "Openapi Mcp Generator MCP server listed on mcp.so.",
+  "source_repo": "harsha-iiiv/openapi-mcp-generator",
+  "source_url": "https://mcp.so/server/openapi-mcp-generator/harsha-iiiv",
+  "install": "# git clone --depth 1 https://mcp.so/server/openapi-mcp-generator/harsha-iiiv\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "automata-labs-code-sandbox",
+  "description": "Provides a sandboxed code execution environment for secure, multi-language code running with resource limits and network restrictions.",
+  "source_repo": "automata-labs-team/code-sandbox-mcp",
+  "source_url": "https://github.com/automata-labs-team/code-sandbox-mcp",
+  "install": "npx -y code-sandbox-mcp"
+}

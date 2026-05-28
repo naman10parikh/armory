@@ -1,0 +1,7 @@
+{
+  "name": "mattiasw-browserloop",
+  "description": "Captures web page screenshots using Playwright with support for full-page, element-specific, and viewport screenshots in PNG, JPEG, and WebP formats, featuring cookie authentication, domain filtering, and configurable quality settings for web testing and visual verification workflows.",
+  "source_repo": "mattiasw/browserloop",
+  "source_url": "https://github.com/mattiasw/browserloop",
+  "install": "# git clone --depth 1 https://github.com/mattiasw/browserloop\n# See source for mcpServers config block"
+}

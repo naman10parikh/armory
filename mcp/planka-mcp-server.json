@@ -1,0 +1,7 @@
+{
+  "name": "planka-mcp-server",
+  "description": "Enables AI assistants to interact with Planka, a real-time Kanban board application, for managing projects, boards, lists, cards, and more.",
+  "source_repo": "chmald/planka-mcp",
+  "source_url": "https://github.com/chmald/planka-mcp",
+  "install": "npx -y planka-mcp"
+}

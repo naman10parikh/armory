@@ -1,0 +1,7 @@
+{
+  "name": "cz-agents-realestate-pro",
+  "description": "Premium MCP server for Czech distressed real estate search with full property details and owner data.",
+  "source_repo": "",
+  "source_url": "https://realestate-pro.cz-agents.dev/mcp",
+  "install": "# git clone --depth 1 https://realestate-pro.cz-agents.dev/mcp\n# See source for mcpServers config block"
+}

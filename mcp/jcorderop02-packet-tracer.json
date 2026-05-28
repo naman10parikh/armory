@@ -1,0 +1,7 @@
+{
+  "name": "jcorderop02-packet-tracer",
+  "description": "Configure Cisco Packet Tracer 9 simulations with live IOS, OSPF, BGP, NAT, VLAN, and wireless commands.",
+  "source_repo": "jcorderop02/packet-tracer-mcp",
+  "source_url": "https://github.com/jcorderop02/packet-tracer-mcp",
+  "install": "npx -y packet-tracer-mcp"
+}

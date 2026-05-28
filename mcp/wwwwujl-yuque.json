@@ -1,0 +1,7 @@
+{
+  "name": "wwwwujl-yuque",
+  "description": "Read and write access to Yuque groups, repositories, docs, and table of contents.",
+  "source_repo": "wwwwujl/yuque-mcp",
+  "source_url": "https://github.com/wwwwujl/yuque-mcp",
+  "install": "npx -y yuque-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "arpe-io",
+  "description": "Unified interface for Arpe.io data tools including parallel database export, cross-platform migration, and cloud data pipelines.",
+  "source_repo": "arpe-io/arpeio-mcp",
+  "source_url": "https://github.com/arpe-io/arpeio-mcp",
+  "install": "npx -y arpeio-mcp"
+}

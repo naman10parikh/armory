@@ -1,0 +1,7 @@
+{
+  "name": "kylestratis-spotify-playlist",
+  "description": "Integrates with Spotify's API to create and manage playlists using natural language with eight similarity algorithms that analyze audio features like energy, danceability, and tempo to find matching tracks across catalogs, playlists, and libraries for building mood-based collections or workout playlists.",
+  "source_repo": "kylestratis/spotify-mcp",
+  "source_url": "https://github.com/kylestratis/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

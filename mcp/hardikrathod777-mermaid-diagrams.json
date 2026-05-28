@@ -1,0 +1,7 @@
+{
+  "name": "hardikrathod777-mermaid-diagrams",
+  "description": "MCP server for generating, validating, and rendering Mermaid diagrams from natural language descriptions using AI-powered conversion.",
+  "source_repo": "hardikrathod777/mermaid-flowchart-mcp",
+  "source_url": "https://github.com/hardikrathod777/mermaid-flowchart-mcp",
+  "install": "npx -y mermaid-flowchart-mcp"
+}

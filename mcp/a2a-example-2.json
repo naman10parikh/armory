@@ -1,0 +1,7 @@
+{
+  "name": "a2a-example-2",
+  "description": "Example implementation of A2A",
+  "source_repo": "azukiazusa1/a2a-example",
+  "source_url": "https://github.com/azukiazusa1/a2a-example",
+  "install": "# git clone --depth 1 https://github.com/azukiazusa1/a2a-example\n# See source for mcpServers config block"
+}

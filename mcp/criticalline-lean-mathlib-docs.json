@@ -1,0 +1,7 @@
+{
+  "name": "criticalline-lean-mathlib-docs",
+  "description": "Provides search capabilities for Lean Mathlib 4 documentation by downloading and parsing declaration data to find theorems, definitions, and mathematical constructs with regex-based search functionality.",
+  "source_repo": "criticalline/lean-mathlib-docs-mcp",
+  "source_url": "https://github.com/criticalline/lean-mathlib-docs-mcp",
+  "install": "npx -y lean-mathlib-docs-mcp"
+}

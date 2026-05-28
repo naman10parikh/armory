@@ -1,0 +1,7 @@
+{
+  "name": "hive-intel-hive-crypto-mcp",
+  "description": "Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics",
+  "source_repo": "hive-intel/hive-crypto-mcp",
+  "source_url": "https://github.com/hive-intel/hive-crypto-mcp",
+  "install": "npx -y hive-crypto-mcp"
+}

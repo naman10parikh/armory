@@ -1,0 +1,7 @@
+{
+  "name": "mcp-authentication-demo",
+  "description": "A template for building MCP servers with optional per-tool authentication using WorkOS AuthKit and Vercel MCP adapter.",
+  "source_repo": "workos/vercel-mcp-example",
+  "source_url": "https://github.com/workos/vercel-mcp-example",
+  "install": "# git clone --depth 1 https://github.com/workos/vercel-mcp-example\n# See source for mcpServers config block"
+}

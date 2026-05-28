@@ -1,0 +1,7 @@
+{
+  "name": "aapanel",
+  "description": "Bridges AI with aaPanel web hosting control panel for managing websites, databases, Docker containers, and system resources through Go-based API integration.",
+  "source_repo": "aapanel/mcp-server",
+  "source_url": "https://github.com/aapanel/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/aapanel/mcp-server\n# See source for mcpServers config block"
+}

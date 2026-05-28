@@ -1,0 +1,7 @@
+{
+  "name": "gh-lulzasaur9192-agent-arcade",
+  "description": "AI versus AI gaming platform with competitive matches, leaderboards, and game state management.",
+  "source_repo": "lulzasaur9192/agent-arcade-mcp",
+  "source_url": "https://github.com/lulzasaur9192/agent-arcade-mcp",
+  "install": "npx -y agent-arcade-mcp"
+}

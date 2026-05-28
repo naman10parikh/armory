@@ -1,0 +1,7 @@
+{
+  "name": "bschonbrun-pipedream-gateway",
+  "description": "Consolidates Pipedream's 10,000+ app integrations into 16 curated tools for workflow management and app action execution.",
+  "source_repo": "bschonbrun/pd-gateway-mcp",
+  "source_url": "https://github.com/bschonbrun/pd-gateway-mcp",
+  "install": "npx -y pd-gateway-mcp"
+}

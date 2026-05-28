@@ -1,0 +1,7 @@
+{
+  "name": "pushks18-godot",
+  "description": "Enables AI-assisted Godot 4.x game development with tools for editor control, scene creation, GDScript authoring, and asset inspection.",
+  "source_repo": "pushks18/godot-mcp-pilot",
+  "source_url": "https://github.com/pushks18/godot-mcp-pilot",
+  "install": "# git clone --depth 1 https://github.com/pushks18/godot-mcp-pilot\n# See source for mcpServers config block"
+}

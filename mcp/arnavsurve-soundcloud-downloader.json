@@ -1,0 +1,7 @@
+{
+  "name": "arnavsurve-soundcloud-downloader",
+  "description": "Enables downloading tracks, playlists, and user content from SoundCloud with granular control over output location, download modes, track limits, and metadata handling",
+  "source_repo": "arnavsurve/scdl-mcp",
+  "source_url": "https://github.com/arnavsurve/scdl-mcp",
+  "install": "npx -y scdl-mcp"
+}

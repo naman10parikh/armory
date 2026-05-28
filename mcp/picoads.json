@@ -1,0 +1,7 @@
+{
+  "name": "picoads",
+  "description": "API-first ad marketplace where AI agents monetize distribution and buy ad reach via USDC on Base.",
+  "source_repo": "",
+  "source_url": "https://picoads.xyz",
+  "install": "# git clone --depth 1 https://picoads.xyz\n# See source for mcpServers config block"
+}

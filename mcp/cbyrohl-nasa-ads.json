@@ -1,0 +1,7 @@
+{
+  "name": "cbyrohl-nasa-ads",
+  "description": "Provides access to NASA's Astrophysics Data System for searching papers, traversing citation graphs, exporting bibliographies, computing metrics, and managing reading lists.",
+  "source_repo": "cbyrohl/mcp-server-ads",
+  "source_url": "https://github.com/cbyrohl/mcp-server-ads",
+  "install": "# git clone --depth 1 https://github.com/cbyrohl/mcp-server-ads\n# See source for mcpServers config block"
+}

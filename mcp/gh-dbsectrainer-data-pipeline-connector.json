@@ -1,0 +1,7 @@
+{
+  "name": "gh-dbsectrainer-data-pipeline-connector",
+  "description": "Unified query interface across CSV files, PostgreSQL databases, and REST APIs with cross-source SQL joins powered by embedded DuckDB.",
+  "source_repo": "dbsectrainer/mcp-data-pipeline-connector",
+  "source_url": "https://github.com/dbsectrainer/mcp-data-pipeline-connector",
+  "install": "# git clone --depth 1 https://github.com/dbsectrainer/mcp-data-pipeline-connector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pleaseprompto-notebooklm",
+  "description": "Automates Google NotebookLM interactions through browser automation, enabling document querying and notebook library management with stealth capabilities to avoid detection.",
+  "source_repo": "pleaseprompto/notebooklm-mcp",
+  "source_url": "https://github.com/pleaseprompto/notebooklm-mcp",
+  "install": "npx -y notebooklm-mcp"
+}

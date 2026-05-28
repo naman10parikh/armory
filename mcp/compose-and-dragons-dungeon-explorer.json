@@ -1,0 +1,7 @@
+{
+  "name": "compose-and-dragons-dungeon-explorer",
+  "description": "Text-based RPG system that loads dungeon layouts from YAML files and maintains player state for exploring procedurally-defined dungeons, fighting monsters, collecting treasures, and creating interactive storytelling experiences.",
+  "source_repo": "compose-and-dragons/dungeon-mcp-server",
+  "source_url": "https://github.com/compose-and-dragons/dungeon-mcp-server",
+  "install": "npx -y dungeon-mcp-server"
+}

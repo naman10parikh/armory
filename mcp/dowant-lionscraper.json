@@ -1,0 +1,7 @@
+{
+  "name": "dowant-lionscraper",
+  "description": "Bridge connecting AI agents to the LionScraper browser extension for web scraping via MCP, CLI, and HTTP API.",
+  "source_repo": "dowant/lionscraper-mcp",
+  "source_url": "https://github.com/dowant/lionscraper-mcp/tree/HEAD/packages/python",
+  "install": "npx -y lionscraper-mcp"
+}

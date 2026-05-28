@@ -1,0 +1,7 @@
+{
+  "name": "templated",
+  "description": "Integrates with Templated.io's API for generating images, videos, and PDFs from templates with customizable parameters, template management, and render operations supporting multiple output formats.",
+  "source_repo": "templated-io/mcp-server-templated",
+  "source_url": "https://github.com/templated-io/mcp-server-templated",
+  "install": "# git clone --depth 1 https://github.com/templated-io/mcp-server-templated\n# See source for mcpServers config block"
+}

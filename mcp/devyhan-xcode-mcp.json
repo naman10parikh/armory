@@ -1,0 +1,7 @@
+{
+  "name": "devyhan-xcode-mcp",
+  "description": "Provides Xcode-related command-line tools to enables project inspection, building, testing, archiving, code signing, and Xcode simulator management through natural language commands.",
+  "source_repo": "devyhan/xcode-mcp",
+  "source_url": "https://github.com/devyhan/xcode-mcp",
+  "install": "npx -y xcode-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ujuc-whooing",
+  "description": "MCP server for integrating with the Whooing personal finance management platform.",
+  "source_repo": "ujuc/owl-cash-mcp",
+  "source_url": "https://github.com/ujuc/owl-cash-mcp",
+  "install": "npx -y owl-cash-mcp"
+}

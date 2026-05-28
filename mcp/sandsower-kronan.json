@@ -1,0 +1,7 @@
+{
+  "name": "sandsower-kronan",
+  "description": "MCP server for the Krónan grocery store API in Iceland with 25 tools across 6 categories.",
+  "source_repo": "sandsower/kronan-mcp",
+  "source_url": "https://github.com/sandsower/kronan-mcp",
+  "install": "npx -y kronan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-skip-hire-ai",
+  "description": "Covers UK waste carrier registration, Environment Agency waste codes, and hazardous waste consignment note requirements for skip hire operators.",
+  "source_repo": "csoai-org/skip-hire-ai-mcp",
+  "source_url": "https://github.com/csoai-org/skip-hire-ai-mcp",
+  "install": "npx -y skip-hire-ai-mcp"
+}

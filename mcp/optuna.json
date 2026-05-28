@@ -1,0 +1,7 @@
+{
+  "name": "optuna",
+  "description": "Provides automated hyperparameter optimization and analysis using Optuna framework with support for multiple samplers, multi-objective optimization, parameter importance analysis, and interactive visualizations including optimization history and Pareto fronts.",
+  "source_repo": "optuna/optuna-mcp",
+  "source_url": "https://github.com/optuna/optuna-mcp",
+  "install": "npx -y optuna-mcp"
+}

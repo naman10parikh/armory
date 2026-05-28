@@ -1,0 +1,7 @@
+{
+  "name": "mcp-bash",
+  "description": "Enables execution of bash commands via MCP, allowing clients to run shell commands and set a working directory.",
+  "source_repo": "patrickomatik/mcp-bash",
+  "source_url": "https://github.com/patrickomatik/mcp-bash",
+  "install": "# git clone --depth 1 https://github.com/patrickomatik/mcp-bash\n# See source for mcpServers config block"
+}

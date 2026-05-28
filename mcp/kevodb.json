@@ -1,0 +1,7 @@
+{
+  "name": "kevodb",
+  "description": "Provides a standardized key-value database interface for persistent storage with transaction support, enabling read, write, and query operations on structured data",
+  "source_repo": "kevodb/kevo-mcp",
+  "source_url": "https://github.com/kevodb/kevo-mcp",
+  "install": "npx -y kevo-mcp"
+}

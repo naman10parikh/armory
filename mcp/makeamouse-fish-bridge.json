@@ -1,0 +1,7 @@
+{
+  "name": "makeamouse-fish-bridge",
+  "description": "Compresses AI chat sessions into a typed knowledge graph for persistent context management.",
+  "source_repo": "makeamouse/fish-bridge-mcp",
+  "source_url": "https://github.com/makeamouse/fish-bridge-mcp",
+  "install": "npx -y fish-bridge-mcp"
+}

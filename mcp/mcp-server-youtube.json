@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-youtube",
+  "description": "Enables AI assistants to search videos, read channels, browse playlists, fetch comments, and get transcripts from YouTube using the YouTube Data API v3 and InnerTube API for captions.",
+  "source_repo": "vaporif/mcp-server-youtube",
+  "source_url": "https://github.com/vaporif/mcp-server-youtube",
+  "install": "# git clone --depth 1 https://github.com/vaporif/mcp-server-youtube\n# See source for mcpServers config block"
+}

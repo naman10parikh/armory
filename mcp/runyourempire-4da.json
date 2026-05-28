@@ -1,0 +1,7 @@
+{
+  "name": "runyourempire-4da",
+  "description": "Dependency intelligence for AI coding agents. Live CVE scanning, dependency health, upgrade planning, ecosystem news, and decision memory. 14 tools, zero config, privacy-first.",
+  "source_repo": "runyourempire/4DA",
+  "source_url": "https://github.com/runyourempire/4DA/tree/main/mcp-4da-server",
+  "install": "# git clone --depth 1 https://github.com/runyourempire/4DA/tree/main/mcp-4da-server\n# See source for mcpServers config block"
+}

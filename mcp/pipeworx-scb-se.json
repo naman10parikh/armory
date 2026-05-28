@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-scb-se",
+  "description": "Queries Statistics Sweden's PxWeb JSON-stat statistical database via MCP.",
+  "source_repo": "pipeworx-io/mcp-scb-se",
+  "source_url": "https://github.com/pipeworx-io/mcp-scb-se",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-scb-se\n# See source for mcpServers config block"
+}

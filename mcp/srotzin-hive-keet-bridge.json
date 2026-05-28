@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-keet-bridge",
+  "description": "MCP bridge connecting Keet identity keys to the Hive agentic identity network.",
+  "source_repo": "srotzin/hive-mcp-keet-bridge",
+  "source_url": "https://github.com/srotzin/hive-mcp-keet-bridge",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-keet-bridge\n# See source for mcpServers config block"
+}

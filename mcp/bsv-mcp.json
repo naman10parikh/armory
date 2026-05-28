@@ -1,0 +1,7 @@
+{
+  "name": "bsv-mcp",
+  "description": "An MCP Server for Bitcoin SV",
+  "source_repo": "b-open-io/bsv-mcp",
+  "source_url": "https://github.com/b-open-io/bsv-mcp",
+  "install": "npx -y bsv-mcp"
+}

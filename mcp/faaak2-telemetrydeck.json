@@ -1,0 +1,7 @@
+{
+  "name": "faaak2-telemetrydeck",
+  "description": "TelemetryDeck analytics API integration for querying app telemetry data with TQL.",
+  "source_repo": "faaak2/mcp-telemetry",
+  "source_url": "https://github.com/faaak2/mcp-telemetry",
+  "install": "# git clone --depth 1 https://github.com/faaak2/mcp-telemetry\n# See source for mcpServers config block"
+}

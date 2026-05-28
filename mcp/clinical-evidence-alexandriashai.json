@@ -1,0 +1,7 @@
+{
+  "name": "clinical-evidence-alexandriashai",
+  "description": "Aggregates clinical evidence from PubMed, ClinicalTrials.gov, and OpenFDA for biomedical literature search, trial queries, and drug information.",
+  "source_repo": "alexandriashai/mcp-clinical-evidence",
+  "source_url": "https://github.com/alexandriashai/mcp-clinical-evidence",
+  "install": "# git clone --depth 1 https://github.com/alexandriashai/mcp-clinical-evidence\n# See source for mcpServers config block"
+}

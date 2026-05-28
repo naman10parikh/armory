@@ -1,0 +1,7 @@
+{
+  "name": "lucasoeth-mitmproxy",
+  "description": "Integrates mitmproxy for network traffic analysis, debugging, and API testing.",
+  "source_repo": "lucasoeth/mitmproxy-mcp",
+  "source_url": "https://github.com/lucasoeth/mitmproxy-mcp",
+  "install": "npx -y mitmproxy-mcp"
+}

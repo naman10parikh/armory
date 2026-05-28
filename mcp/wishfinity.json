@@ -1,0 +1,7 @@
+{
+  "name": "wishfinity",
+  "description": "Save any product URL to your Wishfinity wishlist",
+  "source_repo": "wishfinity/wishfinity-mcp-plusw",
+  "source_url": "https://github.com/wishfinity/wishfinity-mcp-plusw",
+  "install": "# git clone --depth 1 https://github.com/wishfinity/wishfinity-mcp-plusw\n# See source for mcpServers config block"
+}

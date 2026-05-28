@@ -1,0 +1,7 @@
+{
+  "name": "agentdeskai-browser-tools123",
+  "description": "Provides a bridge between web browsers and assistants through a Chrome extension, enabling real-time access to console logs, network requests, screenshots, DOM elements, and Lighthouse audits for debugging and improving web applications.",
+  "source_repo": "weotzi/browser-tools-mcp",
+  "source_url": "https://github.com/weotzi/browser-tools-mcp",
+  "install": "npx -y browser-tools-mcp"
+}

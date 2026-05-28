@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-lottiefiles",
+  "description": "Mcp Server Lottiefiles MCP server listed on mcp.so.",
+  "source_repo": "junmer/mcp-server-lottiefiles",
+  "source_url": "https://mcp.so/server/mcp-server-lottiefiles/junmer",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-lottiefiles/junmer\n# See source for mcpServers config block"
+}

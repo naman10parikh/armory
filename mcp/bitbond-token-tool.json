@@ -1,0 +1,7 @@
+{
+  "name": "bitbond-token-tool",
+  "description": "Deploy and manage compliant ERC-20 tokens across multiple blockchain networks.",
+  "source_repo": "bitbond/token-tool-mcp",
+  "source_url": "https://github.com/bitbond/token-tool-mcp",
+  "install": "npx -y token-tool-mcp"
+}

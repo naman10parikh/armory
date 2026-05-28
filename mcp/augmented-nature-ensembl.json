@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-ensembl",
+  "description": "Integrates with Ensembl's genomic database through 20+ specialized tools for gene lookup, sequence retrieval, comparative genomics, variant analysis, and regulatory features across all supported organisms.",
+  "source_repo": "augmented-nature/ensembl-mcp-server",
+  "source_url": "https://github.com/augmented-nature/ensembl-mcp-server",
+  "install": "npx -y ensembl-mcp-server"
+}

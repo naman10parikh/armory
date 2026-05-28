@@ -1,0 +1,7 @@
+{
+  "name": "polyglot-k-prometheus",
+  "description": "Query Prometheus metrics and alerts using natural language without PromQL expertise",
+  "source_repo": "polyglot-k/prometheus-mcp-server",
+  "source_url": "https://github.com/polyglot-k/prometheus-mcp-server",
+  "install": "npx -y prometheus-mcp-server"
+}

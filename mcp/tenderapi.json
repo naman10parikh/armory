@@ -1,0 +1,7 @@
+{
+  "name": "tenderapi",
+  "description": "Access French (BOAMP) and EU (TED) public procurement tender data via TenderAPI.",
+  "source_repo": "idnsidns/tenderapi-mcp",
+  "source_url": "https://github.com/idnsidns/tenderapi-mcp",
+  "install": "npx -y tenderapi-mcp"
+}

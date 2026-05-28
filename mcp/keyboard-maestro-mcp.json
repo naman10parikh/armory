@@ -1,0 +1,7 @@
+{
+  "name": "keyboard-maestro-mcp",
+  "description": "Enables managing Keyboard Maestro macros with natural language commands, including creation, editing, execution, and debugging.",
+  "source_repo": "saihgupr/keyboard-maestro-mcp",
+  "source_url": "https://github.com/saihgupr/keyboard-maestro-mcp",
+  "install": "npx -y keyboard-maestro-mcp"
+}

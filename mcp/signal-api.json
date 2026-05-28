@@ -1,0 +1,7 @@
+{
+  "name": "signal-api",
+  "description": "Bitcoin 15-min prediction signals with on-chain commitment proofs. L402-gated.",
+  "source_repo": "",
+  "source_url": "https://mcp.bitcoinintel.live/mcp/sse",
+  "install": "# git clone --depth 1 https://mcp.bitcoinintel.live/mcp/sse\n# See source for mcpServers config block"
+}

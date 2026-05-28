@@ -1,0 +1,7 @@
+{
+  "name": "walnai",
+  "description": "Exposes Walnai AI consulting services, pricing, calculators, and FAQs via a remote endpoint.",
+  "source_repo": "krypto-it/walnaiwebsite",
+  "source_url": "https://github.com/krypto-it/walnaiwebsite",
+  "install": "# git clone --depth 1 https://github.com/krypto-it/walnaiwebsite\n# See source for mcpServers config block"
+}

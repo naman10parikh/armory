@@ -1,0 +1,7 @@
+{
+  "name": "rostro",
+  "description": "Turn any LLM into a multimodal powerhouse that can generate images, music, videos, 3D models and more on the fly.",
+  "source_repo": "",
+  "source_url": "https://rostro.dev/guides/mcp",
+  "install": "# git clone --depth 1 https://rostro.dev/guides/mcp\n# See source for mcpServers config block"
+}

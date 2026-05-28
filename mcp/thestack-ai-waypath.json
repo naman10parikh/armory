@@ -1,0 +1,7 @@
+{
+  "name": "thestack-ai-waypath",
+  "description": "Local-first external brain CLI for coding agents. SQLite-backed context, graph-aware recall via FTS5 and RRF, and governed memory with explicit promote and review gates. Ships Codex and Claude Code host shims and a native MCP server.",
+  "source_repo": "TheStack-ai/waypath",
+  "source_url": "https://github.com/TheStack-ai/waypath",
+  "install": "# git clone --depth 1 https://github.com/TheStack-ai/waypath\n# See source for mcpServers config block"
+}

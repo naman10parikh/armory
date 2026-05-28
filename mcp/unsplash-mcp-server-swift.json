@@ -1,0 +1,7 @@
+{
+  "name": "unsplash-mcp-server-swift",
+  "description": "Unsplash Mcp Server Swift MCP server listed on mcp.so.",
+  "source_repo": "okooo5km/unsplash-mcp-server-swift",
+  "source_url": "https://mcp.so/server/unsplash-mcp-server-swift/okooo5km",
+  "install": "# git clone --depth 1 https://mcp.so/server/unsplash-mcp-server-swift/okooo5km\n# See source for mcpServers config block"
+}

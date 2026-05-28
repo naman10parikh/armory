@@ -1,0 +1,7 @@
+{
+  "name": "txn2-kubefwd",
+  "description": "Bulk-forward Kubernetes cluster services for local development with AI assistant integration.",
+  "source_repo": "txn2/kubefwd",
+  "source_url": "https://github.com/txn2/kubefwd",
+  "install": "# git clone --depth 1 https://github.com/txn2/kubefwd\n# See source for mcpServers config block"
+}

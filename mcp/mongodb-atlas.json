@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-atlas",
+  "description": "Integrates with MongoDB Atlas to enable creating and managing database resources including clusters, network access, users, and connection strings using TypeScript and the MongoDB Atlas API.",
+  "source_repo": "mongodb-developer/mcp-mongodb-atlas",
+  "source_url": "https://github.com/mongodb-developer/mcp-mongodb-atlas",
+  "install": "# git clone --depth 1 https://github.com/mongodb-developer/mcp-mongodb-atlas\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "trisys",
+  "description": "AI-powered recruitment CRM for searching candidates, companies, vacancies, and placements.",
+  "source_repo": "",
+  "source_url": "https://mcp.trisys.co.uk/mcp",
+  "install": "# git clone --depth 1 https://mcp.trisys.co.uk/mcp\n# See source for mcpServers config block"
+}

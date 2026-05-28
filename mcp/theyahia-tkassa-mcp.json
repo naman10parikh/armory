@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-tkassa-mcp",
+  "description": "MCP server for T-Kassa (T-Bank/Tinkoff) payment API. Provides 16 tools for payments, refunds, recurring charges, customer management, saved cards, SBP, receipts, and T-Invest portfolio.",
+  "source_repo": "theYahia/tkassa-mcp",
+  "source_url": "https://github.com/theYahia/tkassa-mcp",
+  "install": "npx -y tkassa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rebrandly",
+  "description": "Integrates with Rebrandly's URL shortening service to create branded short links with custom slashtags, titles, and workspace organization for marketing campaigns and content distribution tracking.",
+  "source_repo": "rebrandly/rebrandly-mcp",
+  "source_url": "https://github.com/rebrandly/rebrandly-mcp",
+  "install": "npx -y rebrandly-mcp"
+}

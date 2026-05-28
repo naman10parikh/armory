@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-slack-enterprise-mcp",
+  "description": "Python MCP server for Slack enterprise messaging integration.",
+  "source_repo": "csoai-org/slack-enterprise-mcp",
+  "source_url": "https://github.com/csoai-org/slack-enterprise-mcp",
+  "install": "npx -y slack-enterprise-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "charlotte",
+  "description": "A token-efficient MCP server that gives AI agents structured access to the web, returning compact page summaries and targeted queries instead of full accessibility dumps.",
+  "source_repo": "TickTockBent/charlotte",
+  "source_url": "https://github.com/TickTockBent/charlotte",
+  "install": "# git clone --depth 1 https://github.com/TickTockBent/charlotte\n# See source for mcpServers config block"
+}

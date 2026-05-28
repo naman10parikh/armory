@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-meta-ads",
+  "description": "Manages Facebook and Instagram advertising campaigns, audiences, creatives, insights, and catalogs via Meta Marketing API v25.0.",
+  "source_repo": "mikusnuz/meta-ads-mcp",
+  "source_url": "https://github.com/mikusnuz/meta-ads-mcp",
+  "install": "npx -y meta-ads-mcp"
+}

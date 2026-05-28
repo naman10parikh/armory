@@ -1,0 +1,7 @@
+{
+  "name": "garu-mcp",
+  "description": "An MCP server for the Garu payment platform. Create charges, manage customers, and discover products directly from any MCP client.",
+  "source_repo": "Garu-Pagamentos/garu-mcp",
+  "source_url": "https://github.com/Garu-Pagamentos/garu-mcp",
+  "install": "npx -y garu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stunt-double",
+  "description": "Deploy AI user personas to validate user journeys at scale and find UX friction before real users do.",
+  "source_repo": "stunt-double/stuntdouble-mcp",
+  "source_url": "https://github.com/stunt-double/stuntdouble-mcp",
+  "install": "npx -y stuntdouble-mcp"
+}

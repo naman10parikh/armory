@@ -1,0 +1,7 @@
+{
+  "name": "swairshah-zotero",
+  "description": "Integrates with Zotero to enable searching papers, managing notes, and interacting with local libraries for enhanced research workflows and library management tasks.",
+  "source_repo": "swairshah/zotero-mcp-server",
+  "source_url": "https://github.com/swairshah/zotero-mcp-server",
+  "install": "npx -y zotero-mcp-server"
+}

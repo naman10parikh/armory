@@ -1,0 +1,7 @@
+{
+  "name": "mareurs-codescout",
+  "description": "IDE-grade code intelligence with LSP integration, semantic search, and persistent project memory.",
+  "source_repo": "mareurs/codescout",
+  "source_url": "https://github.com/mareurs/codescout",
+  "install": "# git clone --depth 1 https://github.com/mareurs/codescout\n# See source for mcpServers config block"
+}

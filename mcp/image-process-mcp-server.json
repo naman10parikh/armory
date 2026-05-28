@@ -1,0 +1,7 @@
+{
+  "name": "image-process-mcp-server",
+  "description": "Enables image processing operations such as resizing, format conversion, cropping, rotating, and retrieving image metadata through the Sharp library.",
+  "source_repo": "x007xyz/image-process-mcp-server",
+  "source_url": "https://github.com/x007xyz/image-process-mcp-server",
+  "install": "npx -y image-process-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cyber-sentinel",
+  "description": "Aggregates threat intelligence from VirusTotal, AbuseIPDB, URLhaus, Shodan, ThreatFox, and MalwareBazaar to analyze security indicators, scan code and infrastructure for vulnerabilities, and generate visual security reports with intelligent caching and rate limiting.",
+  "source_repo": "jx888-max/cyber-sentinel-mcp",
+  "source_url": "https://github.com/jx888-max/cyber-sentinel-mcp",
+  "install": "npx -y cyber-sentinel-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rmathew1973-ios-sim",
+  "description": "Drives the iOS Simulator via semantic accessibility-tree snapshots with sub-200ms response times.",
+  "source_repo": "rmathew1973/ios-sim-mcp",
+  "source_url": "https://github.com/rmathew1973/ios-sim-mcp",
+  "install": "npx -y ios-sim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pay-skill",
+  "description": "USDC payment tools for AI agents including direct payments, tabs, and x402 paywalls on Base.",
+  "source_repo": "pay-skill/pay-mcp",
+  "source_url": "https://github.com/pay-skill/pay-mcp",
+  "install": "npx -y pay-mcp"
+}

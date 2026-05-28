@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-web-scraper",
+  "description": "Extract clean markdown, links, and metadata from any URL using Mozilla Readability.",
+  "source_repo": "ofershap/mcp-server-scraper",
+  "source_url": "https://github.com/ofershap/mcp-server-scraper",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-scraper\n# See source for mcpServers config block"
+}

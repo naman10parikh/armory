@@ -1,0 +1,7 @@
+{
+  "name": "mkp-mcp-server",
+  "description": "Enables AI systems like Claude to activate advanced reasoning patterns, domain expertise, and contextual analysis capabilities through Meta-Knowledge Processing.",
+  "source_repo": "PublikPrinciple/mkp-mcp-server",
+  "source_url": "https://github.com/PublikPrinciple/mkp-mcp-server",
+  "install": "npx -y mkp-mcp-server"
+}

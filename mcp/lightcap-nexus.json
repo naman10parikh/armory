@@ -1,0 +1,7 @@
+{
+  "name": "lightcap-nexus",
+  "description": "DevOps server management with 163 tools for terminal, files, git, databases, and deployment via hosted gateway.",
+  "source_repo": "farukalpay/mcp-nexus",
+  "source_url": "https://github.com/farukalpay/mcp-nexus",
+  "install": "# git clone --depth 1 https://github.com/farukalpay/mcp-nexus\n# See source for mcpServers config block"
+}

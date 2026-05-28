@@ -1,0 +1,7 @@
+{
+  "name": "freema-mcp-design-system-extractor",
+  "description": "Extracts component information from Storybook design systems. Provides HTML, styles, props, dependencies, theme tokens and component metadata for AI-powered design system analysis.",
+  "source_repo": "freema/mcp-design-system-extractor",
+  "source_url": "https://github.com/freema/mcp-design-system-extractor",
+  "install": "# git clone --depth 1 https://github.com/freema/mcp-design-system-extractor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mearman-wayback-machine",
+  "description": "MCP server for archiving URLs, retrieving historical snapshots, comparing page versions, and searching the Internet Archive Wayback Machine.",
+  "source_repo": "mearman/mcp-wayback-machine",
+  "source_url": "https://github.com/mearman/mcp-wayback-machine",
+  "install": "# git clone --depth 1 https://github.com/mearman/mcp-wayback-machine\n# See source for mcpServers config block"
+}

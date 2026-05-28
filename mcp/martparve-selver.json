@@ -1,0 +1,7 @@
+{
+  "name": "martparve-selver",
+  "description": "MCP server enabling Claude to shop at the Estonian grocery retailer Selver.ee with product search, smart cart building, and browser integration.",
+  "source_repo": "martparve/selver-mcp",
+  "source_url": "https://github.com/martparve/selver-mcp",
+  "install": "npx -y selver-mcp"
+}

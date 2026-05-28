@@ -1,0 +1,7 @@
+{
+  "name": "olyport-nws-alerts",
+  "description": "Real-time weather alerts and warnings from the National Weather Service.",
+  "source_repo": "olyport/nws-mcp-server",
+  "source_url": "https://github.com/olyport/nws-mcp-server",
+  "install": "npx -y nws-mcp-server"
+}

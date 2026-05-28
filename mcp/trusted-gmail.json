@@ -1,0 +1,7 @@
+{
+  "name": "trusted-gmail",
+  "description": "Securely accesses Gmail through AWS Nitro enclaves, enabling email search, retrieval, and sending while protecting sensitive credentials",
+  "source_repo": "0xfreysa/trusted-mcp-server",
+  "source_url": "https://github.com/0xfreysa/trusted-mcp-server",
+  "install": "npx -y trusted-mcp-server"
+}

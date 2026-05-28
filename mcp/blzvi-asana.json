@@ -1,0 +1,7 @@
+{
+  "name": "blzvi-asana",
+  "description": "Full-featured Asana integration with 80 tools covering tasks, projects, portfolios, goals, custom fields, and team management.",
+  "source_repo": "blzvi/asana-mcp-server",
+  "source_url": "https://github.com/blzvi/asana-mcp-server",
+  "install": "npx -y asana-mcp-server"
+}

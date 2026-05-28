@@ -1,0 +1,7 @@
+{
+  "name": "lakphy-deep-reasoning",
+  "description": "Integrates with OpenRouter's AI SDK to enable deep reasoning capabilities for complex analysis and inference tasks.",
+  "source_repo": "lakphy/deep-reasoning-mcp",
+  "source_url": "https://github.com/lakphy/deep-reasoning-mcp",
+  "install": "npx -y deep-reasoning-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-prysm-web-scraper",
+  "description": "Provides web scraping capabilities with three specialized tools (scrapeFocused, scrapeBalanced, scrapeDeep) for efficient content extraction, image processing, and pagination handling with customizable parameters.",
+  "source_repo": "pinkpixel-dev/prysm-mcp-server",
+  "source_url": "https://github.com/pinkpixel-dev/prysm-mcp-server",
+  "install": "npx -y prysm-mcp-server"
+}

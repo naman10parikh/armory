@@ -1,0 +1,7 @@
+{
+  "name": "liuwanglei-nasa-astronomy-picture-of-the-day",
+  "description": "Integrates with NASA's Astronomy Picture of the Day API to retrieve daily space images and descriptions directly within the Cursor IDE development environment.",
+  "source_repo": "liuwanglei-tal/nasa-mcp",
+  "source_url": "https://github.com/liuwanglei-tal/nasa-mcp",
+  "install": "npx -y nasa-mcp"
+}

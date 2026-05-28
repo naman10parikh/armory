@@ -1,0 +1,7 @@
+{
+  "name": "ageborn-dev-vapi",
+  "description": "Integrates with Vapi voice AI platform to manage assistants, calls, phone numbers, workflows, and analytics while enabling voice infrastructure control and conversation data analysis.",
+  "source_repo": "ageborn-dev/vapi-mcp-server",
+  "source_url": "https://github.com/ageborn-dev/vapi-mcp-server",
+  "install": "npx -y vapi-mcp-server"
+}

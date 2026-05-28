@@ -1,0 +1,7 @@
+{
+  "name": "mcp-financial-tools",
+  "description": "Provides actionable financial intelligence tools for AI agents including insider buying signals, earnings IV plays, market pulse, stock analysis, and options strategies via free public data sources.",
+  "source_repo": "huntbuilds/mcp-financial-tools",
+  "source_url": "https://github.com/huntbuilds/mcp-financial-tools",
+  "install": "# git clone --depth 1 https://github.com/huntbuilds/mcp-financial-tools\n# See source for mcpServers config block"
+}

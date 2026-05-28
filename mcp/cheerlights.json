@@ -1,0 +1,7 @@
+{
+  "name": "cheerlights",
+  "description": "Connects Claude to the CheerLights IoT ecosystem, enabling retrieval of current colors and history from the global light synchronization project through the ThingSpeak API.",
+  "source_repo": "cheerlights/cheerlights-mcp",
+  "source_url": "https://github.com/cheerlights/cheerlights-mcp",
+  "install": "npx -y cheerlights-mcp"
+}

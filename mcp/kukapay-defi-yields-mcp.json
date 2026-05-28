@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-defi-yields-mcp",
+  "description": "An MCP server for AI agents to explore DeFi yield opportunities.",
+  "source_repo": "kukapay/defi-yields-mcp",
+  "source_url": "https://github.com/kukapay/defi-yields-mcp",
+  "install": "npx -y defi-yields-mcp"
+}

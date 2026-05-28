@@ -1,0 +1,7 @@
+{
+  "name": "rohanrav-screeny",
+  "description": "Privacy-focused macOS MCP server for secure, user-approved window screenshots",
+  "source_repo": "rohanrav/screeny",
+  "source_url": "https://github.com/rohanrav/screeny",
+  "install": "# git clone --depth 1 https://github.com/rohanrav/screeny\n# See source for mcpServers config block"
+}

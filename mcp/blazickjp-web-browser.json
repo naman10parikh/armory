@@ -1,0 +1,7 @@
+{
+  "name": "blazickjp-web-browser",
+  "description": "Integrates web browsing capabilities for realtime data retrieval, content extraction, and task automation using popular Python libraries.",
+  "source_repo": "blazickjp/web-browser-mcp-server",
+  "source_url": "https://github.com/blazickjp/web-browser-mcp-server",
+  "install": "npx -y web-browser-mcp-server"
+}

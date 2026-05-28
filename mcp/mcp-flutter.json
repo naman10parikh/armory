@@ -1,0 +1,7 @@
+{
+  "name": "mcp-flutter",
+  "description": "Mcp_flutter MCP server listed on mcp.so.",
+  "source_repo": "Arenukvern/mcp_flutter",
+  "source_url": "https://mcp.so/server/mcp_flutter/Arenukvern",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_flutter/Arenukvern\n# See source for mcpServers config block"
+}

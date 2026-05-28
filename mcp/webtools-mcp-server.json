@@ -1,0 +1,7 @@
+{
+  "name": "webtools-mcp-server",
+  "description": "Provides comprehensive web analysis and auditing tools including HTML extraction, markdown conversion, screenshots, debugging, and Lighthouse-based performance, accessibility, and SEO audits, with token optimization for reduced usage.",
+  "source_repo": "misterboe/webtools-mcp-server",
+  "source_url": "https://github.com/misterboe/webtools-mcp-server",
+  "install": "npx -y webtools-mcp-server"
+}

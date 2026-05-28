@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-demo-everything",
+  "description": "Test protocol features and tools for client compatibility.",
+  "source_repo": "modelcontextprotocol/servers",
+  "source_url": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/everything",
+  "install": "# git clone --depth 1 https://github.com/modelcontextprotocol/servers/tree/HEAD/src/everything\n# See source for mcpServers config block"
+}

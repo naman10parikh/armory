@@ -1,0 +1,7 @@
+{
+  "name": "think-tool",
+  "description": "Provides Claude with a dedicated workspace for structured reasoning through four specialized tools that enable recording, retrieving, clearing, and analyzing thoughts during complex problem-solving tasks.",
+  "source_repo": "cgize/claude-mcp-think-tool",
+  "source_url": "https://github.com/cgize/claude-mcp-think-tool",
+  "install": "# git clone --depth 1 https://github.com/cgize/claude-mcp-think-tool\n# See source for mcpServers config block"
+}

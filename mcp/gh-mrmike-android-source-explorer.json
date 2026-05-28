@@ -1,0 +1,7 @@
+{
+  "name": "gh-mrmike-android-source-explorer",
+  "description": "Explore AOSP framework internals and Jetpack library source code with on-demand access to actual Android source files.",
+  "source_repo": "mrmike/android-source-explorer-mcp",
+  "source_url": "https://github.com/mrmike/android-source-explorer-mcp",
+  "install": "npx -y android-source-explorer-mcp"
+}

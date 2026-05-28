@@ -1,0 +1,7 @@
+{
+  "name": "runik-ai",
+  "description": "Chat-first business management with templates, widgets, and a live MCP endpoint for AI agents.",
+  "source_repo": "",
+  "source_url": "https://runikapp.com/mcp",
+  "install": "# git clone --depth 1 https://runikapp.com/mcp\n# See source for mcpServers config block"
+}

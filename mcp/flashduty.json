@@ -1,0 +1,7 @@
+{
+  "name": "flashduty",
+  "description": "Integrates with Flashduty's incident management platform to create, acknowledge, resolve, and manage incidents with severity assignment, timeline retrieval, responder management, and custom field updates for automated incident response workflows.",
+  "source_repo": "flashcatcloud/flashduty-mcp-server",
+  "source_url": "https://github.com/flashcatcloud/flashduty-mcp-server",
+  "install": "npx -y flashduty-mcp-server"
+}

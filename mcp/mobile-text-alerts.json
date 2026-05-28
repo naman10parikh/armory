@@ -1,0 +1,7 @@
+{
+  "name": "mobile-text-alerts",
+  "description": "Provides the ability to send SMS messages, manage subscribers and enable an AI agent to use Mobile Text Alerts directly.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/mobile-text-alerts",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/mobile-text-alerts\n# See source for mcpServers config block"
+}

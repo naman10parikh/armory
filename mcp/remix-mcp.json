@@ -1,0 +1,7 @@
+{
+  "name": "remix-mcp",
+  "description": "A Rust MCP server that enables AI assistants to control Ableton Live via OSC, offering 266 tools for transport, tracks, clips, scenes, devices, and more.",
+  "source_repo": "christopherwxyz/remix-mcp",
+  "source_url": "https://github.com/christopherwxyz/remix-mcp",
+  "install": "npx -y remix-mcp"
+}

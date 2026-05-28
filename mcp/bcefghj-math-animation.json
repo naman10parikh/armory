@@ -1,0 +1,7 @@
+{
+  "name": "bcefghj-math-animation",
+  "description": "Generates Manim-based educational math animations from text descriptions, LaTeX formulas, PDFs, or images.",
+  "source_repo": "bcefghj/math-animation-mcp",
+  "source_url": "https://github.com/bcefghj/math-animation-mcp",
+  "install": "npx -y math-animation-mcp"
+}

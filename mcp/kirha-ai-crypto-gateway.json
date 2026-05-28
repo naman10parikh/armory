@@ -1,0 +1,7 @@
+{
+  "name": "kirha-ai-crypto-gateway",
+  "description": "Gateway server that routes cryptocurrency queries to Kirha AI's specialized analysis system with automated summarization and configurable authentication for accurate crypto knowledge retrieval.",
+  "source_repo": "kirha-ai/kirha-crypto-smithery-gateway",
+  "source_url": "https://github.com/kirha-ai/kirha-crypto-smithery-gateway",
+  "install": "# git clone --depth 1 https://github.com/kirha-ai/kirha-crypto-smithery-gateway\n# See source for mcpServers config block"
+}

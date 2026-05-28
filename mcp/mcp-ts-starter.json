@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ts-starter",
+  "description": "Mcp Ts Starter MCP server listed on mcp.so.",
+  "source_repo": "madhukarkumar/mcp-ts-starter",
+  "source_url": "https://mcp.so/server/mcp-ts-starter/madhukarkumar",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-ts-starter/madhukarkumar\n# See source for mcpServers config block"
+}

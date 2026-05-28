@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-eia",
+  "description": "Retrieves U.S. Energy Information Administration statistics on electricity, natural gas, petroleum, coal, and renewable energy.",
+  "source_repo": "cyanheads/eia-energy-mcp-server",
+  "source_url": "https://github.com/cyanheads/eia-energy-mcp-server",
+  "install": "npx -y eia-energy-mcp-server"
+}

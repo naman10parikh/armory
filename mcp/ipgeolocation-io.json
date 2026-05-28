@@ -1,0 +1,7 @@
+{
+  "name": "ipgeolocation-io",
+  "description": "IP geolocation, security intelligence, ASN lookups, timezone conversions, astronomy data, and user-agent parsing.",
+  "source_repo": "ipgeolocation/ipgeolocation-io-mcp",
+  "source_url": "https://github.com/ipgeolocation/ipgeolocation-io-mcp",
+  "install": "npx -y ipgeolocation-io-mcp"
+}

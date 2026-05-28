@@ -1,0 +1,7 @@
+{
+  "name": "myleshorton-wick",
+  "description": "Browser-grade web access that fetches webpages with authentic browser requests and returns clean markdown.",
+  "source_repo": "myleshorton/wick",
+  "source_url": "https://github.com/myleshorton/wick",
+  "install": "# git clone --depth 1 https://github.com/myleshorton/wick\n# See source for mcpServers config block"
+}

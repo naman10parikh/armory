@@ -1,0 +1,7 @@
+{
+  "name": "code-growers-flutter-maestro",
+  "description": "Bridges Flutter mobile app development with Maestro UI testing by providing tools for inspecting UI hierarchies, simulating user interactions, taking screenshots, and managing app state through hot reload/restart via VM Service connections.",
+  "source_repo": "code-growers/flutter_maestro_mcp",
+  "source_url": "https://github.com/code-growers/flutter_maestro_mcp",
+  "install": "npx -y flutter_maestro_mcp"
+}

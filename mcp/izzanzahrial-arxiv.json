@@ -1,0 +1,7 @@
+{
+  "name": "izzanzahrial-arxiv",
+  "description": "Integrates with arXiv to enable searching and retrieving academic papers with structured data about scientific publications",
+  "source_repo": "izzanzahrial/mcp",
+  "source_url": "https://github.com/izzanzahrial/mcp",
+  "install": "# git clone --depth 1 https://github.com/izzanzahrial/mcp\n# See source for mcpServers config block"
+}

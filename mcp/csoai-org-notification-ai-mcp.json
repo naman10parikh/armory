@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-notification-ai-mcp",
+  "description": "Python MCP server for notification management and delivery tools.",
+  "source_repo": "csoai-org/notification-ai-mcp",
+  "source_url": "https://github.com/csoai-org/notification-ai-mcp",
+  "install": "npx -y notification-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zefarie-pterodactyl-mcp",
+  "description": "Manage Pterodactyl and Pelican game server panels through AI. 73 tools for server management, power control, file operations, backups, schedules, databases, users, nodes, and eggs.",
+  "source_repo": "zefarie/pterodactyl-mcp",
+  "source_url": "https://github.com/zefarie/pterodactyl-mcp",
+  "install": "npx -y pterodactyl-mcp"
+}

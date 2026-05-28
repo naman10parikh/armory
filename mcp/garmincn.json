@@ -1,0 +1,7 @@
+{
+  "name": "garmincn",
+  "description": "Connects to Garmin Connect platform for Chinese users, enabling secure access to fitness tracking, health metrics, and activity data from Garmin devices",
+  "source_repo": "guaidaoyiyoudao/garmincn-mcp",
+  "source_url": "https://github.com/guaidaoyiyoudao/garmincn-mcp",
+  "install": "npx -y garmincn-mcp"
+}

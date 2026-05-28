@@ -1,0 +1,7 @@
+{
+  "name": "tarive-government-grants",
+  "description": "Integrates with the Simpler Grants API to enable keyword-based searching and retrieval of government grant opportunities.",
+  "source_repo": "tar-ive/grants-mcp",
+  "source_url": "https://github.com/tar-ive/grants-mcp",
+  "install": "npx -y grants-mcp"
+}

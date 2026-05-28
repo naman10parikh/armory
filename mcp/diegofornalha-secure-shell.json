@@ -1,0 +1,7 @@
+{
+  "name": "diegofornalha-secure-shell",
+  "description": "Provides a secure way to execute shell commands with robust validation, whitelisting, and timeout handling through an asyncio-powered Python implementation.",
+  "source_repo": "diegofornalha/mcp-shell-server",
+  "source_url": "https://github.com/diegofornalha/mcp-shell-server",
+  "install": "# git clone --depth 1 https://github.com/diegofornalha/mcp-shell-server\n# See source for mcpServers config block"
+}

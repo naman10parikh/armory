@@ -1,0 +1,7 @@
+{
+  "name": "gh-visus-mcp-visus",
+  "description": "Secure web access with prompt injection detection, PII redaction, and token-efficient content extraction.",
+  "source_repo": "visus-mcp/visus-mcp",
+  "source_url": "https://github.com/visus-mcp/visus-mcp",
+  "install": "npx -y visus-mcp"
+}

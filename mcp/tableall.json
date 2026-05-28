@@ -1,0 +1,7 @@
+{
+  "name": "tableall",
+  "description": "Access Japan's finest Michelin-starred restaurants",
+  "source_repo": "",
+  "source_url": "https://www.tableall.com",
+  "install": "# git clone --depth 1 https://www.tableall.com\n# See source for mcpServers config block"
+}

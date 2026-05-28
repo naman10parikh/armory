@@ -1,0 +1,7 @@
+{
+  "name": "brandu-mos-konquest-meta-ads",
+  "description": "Supervised Meta advertising campaign management with safety tiers, bulk analytics, and creative workflows for Facebook and Instagram ads.",
+  "source_repo": "brandu-mos/konquest-meta-ads-mcp",
+  "source_url": "https://github.com/brandu-mos/konquest-meta-ads-mcp",
+  "install": "npx -y konquest-meta-ads-mcp"
+}

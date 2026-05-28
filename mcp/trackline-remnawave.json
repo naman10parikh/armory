@@ -1,0 +1,7 @@
+{
+  "name": "trackline-remnawave",
+  "description": "Integrates with Remnawave VPN proxy management panel for user accounts, node configuration, traffic analytics, and subscription handling.",
+  "source_repo": "trackline/mcp-remnawave",
+  "source_url": "https://github.com/trackline/mcp-remnawave",
+  "install": "# git clone --depth 1 https://github.com/trackline/mcp-remnawave\n# See source for mcpServers config block"
+}

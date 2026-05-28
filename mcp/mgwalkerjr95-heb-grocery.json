@@ -1,0 +1,7 @@
+{
+  "name": "mgwalkerjr95-heb-grocery",
+  "description": "Search HEB grocery products, manage carts, clip coupons, and access store information.",
+  "source_repo": "mgwalkerjr95/texas-grocery-mcp",
+  "source_url": "https://github.com/mgwalkerjr95/texas-grocery-mcp",
+  "install": "npx -y texas-grocery-mcp"
+}

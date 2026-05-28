@@ -1,0 +1,7 @@
+{
+  "name": "neoforge-mcp-server",
+  "description": "Neoforge Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "neoforge-dev/neoforge-mcp-server",
+  "source_url": "https://mcp.so/server/neoforge-mcp-server/neoforge-dev",
+  "install": "npx -y neoforge-mcp-server"
+}

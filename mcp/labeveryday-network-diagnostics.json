@@ -1,0 +1,7 @@
+{
+  "name": "labeveryday-network-diagnostics",
+  "description": "Network diagnostic and analysis tools for connectivity testing and troubleshooting.",
+  "source_repo": "labeveryday/network-mcp",
+  "source_url": "https://github.com/labeveryday/network-mcp",
+  "install": "npx -y network-mcp"
+}

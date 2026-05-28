@@ -1,0 +1,7 @@
+{
+  "name": "mindkeg-mcp",
+  "description": "Helps AI coding agents remember what they learn across sessions by storing and retrieving atomic learnings, enabling persistent memory for AI tools.",
+  "source_repo": "sfio9190/mindkeg-mcp",
+  "source_url": "https://github.com/sfio9190/mindkeg-mcp",
+  "install": "npx -y mindkeg-mcp"
+}

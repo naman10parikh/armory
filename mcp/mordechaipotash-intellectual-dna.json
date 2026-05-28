@@ -1,0 +1,7 @@
+{
+  "name": "mordechaipotash-intellectual-dna",
+  "description": "Provides access to personal conversation history, behavioral patterns, and intellectual insights extracted from years of AI interactions, enabling contextually aware responses based on historical thinking patterns.",
+  "source_repo": "mordechaipotash/brain-mcp",
+  "source_url": "https://github.com/mordechaipotash/brain-mcp/tree/HEAD/mordelab/02-monotropic-prosthetic",
+  "install": "npx -y brain-mcp"
+}

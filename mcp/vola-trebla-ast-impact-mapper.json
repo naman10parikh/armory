@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-ast-impact-mapper",
+  "description": "Uses the TypeScript AST to find which tests are affected by a code change.",
+  "source_repo": "vola-trebla/ast-impact-mapper-mcp",
+  "source_url": "https://github.com/vola-trebla/ast-impact-mapper-mcp",
+  "install": "npx -y ast-impact-mapper-mcp"
+}

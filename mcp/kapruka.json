@@ -1,0 +1,7 @@
+{
+  "name": "kapruka",
+  "description": "Connect AI agents to Kapruka's live product catalog — Sri Lanka's largest e-commerce platform.",
+  "source_repo": "kapruka/mcp",
+  "source_url": "https://github.com/kapruka/mcp",
+  "install": "# git clone --depth 1 https://github.com/kapruka/mcp\n# See source for mcpServers config block"
+}

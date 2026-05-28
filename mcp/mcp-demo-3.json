@@ -1,0 +1,7 @@
+{
+  "name": "mcp-demo-3",
+  "description": "Mcp Demo MCP server listed on mcp.so.",
+  "source_repo": "yinglj/mcp-demo",
+  "source_url": "https://mcp.so/server/mcp-demo/yinglj",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-demo/yinglj\n# See source for mcpServers config block"
+}

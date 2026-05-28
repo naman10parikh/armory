@@ -1,0 +1,7 @@
+{
+  "name": "piers-fawkes-fodda",
+  "description": "Expert-curated knowledge graphs for retail, beauty, and sports.",
+  "source_repo": "piers-fawkes/fodda-mcp",
+  "source_url": "https://github.com/piers-fawkes/fodda-mcp",
+  "install": "npx -y fodda-mcp"
+}

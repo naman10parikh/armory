@@ -1,0 +1,7 @@
+{
+  "name": "moonolgerd-game-discovery",
+  "description": "Discovers and manages installed games on Windows from Steam, Epic, GOG, Xbox, and other platforms",
+  "source_repo": "moonolgerd/game-mcp",
+  "source_url": "https://github.com/moonolgerd/game-mcp",
+  "install": "npx -y game-mcp"
+}

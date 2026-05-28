@@ -1,0 +1,7 @@
+{
+  "name": "felipevdc1-vault",
+  "description": "Intelligent Claude Code skill resolver that automatically identifies the right skill for each task using multi-signal scoring and recipe workflows.",
+  "source_repo": "felipevdc1/vault-mcp",
+  "source_url": "https://github.com/felipevdc1/vault-mcp",
+  "install": "npx -y vault-mcp"
+}

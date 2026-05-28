@@ -1,0 +1,7 @@
+{
+  "name": "flux-image-generator",
+  "description": "Provides a bridge to Black Forest Lab's FLUX model for generating images with customizable parameters like dimensions and safety settings through natural language requests",
+  "source_repo": "frankdeno/flux-image-generator-mcp",
+  "source_url": "https://github.com/frankdeno/flux-image-generator-mcp",
+  "install": "npx -y flux-image-generator-mcp"
+}

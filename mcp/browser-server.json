@@ -1,0 +1,7 @@
+{
+  "name": "browser-server",
+  "description": "An MCP server that enables AI agents to control web browsers using browser-use.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/browser_automation/browser-use-mcp-server.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/browser_automation/browser-use-mcp-server.json\n# See source for mcpServers config block"
+}

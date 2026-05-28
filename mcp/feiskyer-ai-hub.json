@@ -1,0 +1,7 @@
+{
+  "name": "feiskyer-ai-hub",
+  "description": "Provides unified access to 100+ AI providers through LiteLLM integration, enabling seamless switching between OpenAI, Anthropic, Google, Azure, AWS Bedrock, and other services through YAML-based configuration with tools for chatting, listing models, and retrieving model information.",
+  "source_repo": "feiskyer/mcp-ai-hub",
+  "source_url": "https://github.com/feiskyer/mcp-ai-hub",
+  "install": "# git clone --depth 1 https://github.com/feiskyer/mcp-ai-hub\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chrispulman-reactive-memory",
+  "description": "Persistent, queryable memory system for AI assistants backed by vector search, temporal knowledge graphs, and vault-structured storage.",
+  "source_repo": "chrispulman/reactivememory.mcp.server",
+  "source_url": "https://github.com/chrispulman/reactivememory.mcp.server",
+  "install": "# git clone --depth 1 https://github.com/chrispulman/reactivememory.mcp.server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "invoicetronic",
+  "description": "Integrates with the Invoicetronic API for Italian electronic invoicing through the SDI system.",
+  "source_repo": "fgasparetto/invoicetronic-mcp",
+  "source_url": "https://github.com/fgasparetto/invoicetronic-mcp",
+  "install": "npx -y invoicetronic-mcp"
+}

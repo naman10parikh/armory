@@ -1,0 +1,7 @@
+{
+  "name": "instagram-mcp-server",
+  "description": "A backend server that interacts with the Instagram Graph API to fetch post engagement metrics and insights for Business/Creator accounts, enabling analysis and strategy suggestions.",
+  "source_repo": "arq0017/instagram-mcp-server",
+  "source_url": "https://github.com/arq0017/instagram-mcp-server",
+  "install": "npx -y instagram-mcp-server"
+}

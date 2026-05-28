@@ -1,0 +1,7 @@
+{
+  "name": "mistral-ocr-mcp-server-2",
+  "description": "Extracts text content from PDFs and images using Mistral's OCR API, enabling OCR capabilities in MCP-compatible clients like Cursor and Claude Desktop.",
+  "source_repo": "lemopian/mistral-ocr-mcp",
+  "source_url": "https://github.com/lemopian/mistral-ocr-mcp",
+  "install": "npx -y mistral-ocr-mcp"
+}

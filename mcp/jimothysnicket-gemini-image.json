@@ -1,0 +1,7 @@
+{
+  "name": "jimothysnicket-gemini-image",
+  "description": "Generate and edit images using the Google Gemini API.",
+  "source_repo": "jimothysnicket/gemini-image-mcp",
+  "source_url": "https://github.com/jimothysnicket/gemini-image-mcp",
+  "install": "npx -y gemini-image-mcp"
+}

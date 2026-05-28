@@ -1,0 +1,7 @@
+{
+  "name": "xdarkzx-reaper",
+  "description": "AI control interface for REAPER DAW with 153 tools for composition, mixing, and MIDI editing.",
+  "source_repo": "xdarkzx/reaper-mcp",
+  "source_url": "https://github.com/xdarkzx/reaper-mcp",
+  "install": "npx -y reaper-mcp"
+}

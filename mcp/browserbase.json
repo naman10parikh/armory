@@ -1,0 +1,7 @@
+{
+  "name": "browserbase",
+  "description": "This server provides cloud browser automation capabilities using Browserbase and Stagehand. It enables LLMs to interact with web pages, take screenshots, extract information, and perform automated actions with atomic precision.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/browser_automation/mcp-server-browserbase.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/browser_automation/mcp-server-browserbase.json\n# See source for mcpServers config block"
+}

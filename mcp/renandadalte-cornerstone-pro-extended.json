@@ -1,0 +1,7 @@
+{
+  "name": "renandadalte-cornerstone-pro-extended",
+  "description": "WordPress plugin that provides direct access to Cornerstone page builder layouts, elements, schemas, and site configuration for reading, creating, and managing layouts programmatically.",
+  "source_repo": "renandadalte/wpdev-pro-extended",
+  "source_url": "https://github.com/renandadalte/wpdev-pro-extended",
+  "install": "# git clone --depth 1 https://github.com/renandadalte/wpdev-pro-extended\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "entia",
+  "description": "Verified business identity data for 5.5 million entities across 34 countries.",
+  "source_repo": "",
+  "source_url": "https://entia.systems/mcp/",
+  "install": "# git clone --depth 1 https://entia.systems/mcp/\n# See source for mcpServers config block"
+}

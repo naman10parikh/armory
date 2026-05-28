@@ -1,0 +1,7 @@
+{
+  "name": "couplehub-mcp-server",
+  "description": "Enables couples to manage recipes, meal plans, calendar events, and grocery lists together.",
+  "source_repo": "uczesieweba/couplehub-mcp",
+  "source_url": "https://github.com/uczesieweba/couplehub-mcp",
+  "install": "npx -y couplehub-mcp"
+}

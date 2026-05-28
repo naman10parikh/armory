@@ -1,0 +1,7 @@
+{
+  "name": "teolex2020-aurasdk",
+  "description": "Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.",
+  "source_repo": "teolex2020/AuraSDK",
+  "source_url": "https://github.com/teolex2020/AuraSDK",
+  "install": "# git clone --depth 1 https://github.com/teolex2020/AuraSDK\n# See source for mcpServers config block"
+}

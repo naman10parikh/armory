@@ -1,0 +1,7 @@
+{
+  "name": "fluent-mcp-server",
+  "description": "Provides smart URL navigation to ANSYS Fluent documentation, enabling AI assistants to quickly find relevant help pages and manual sections.",
+  "source_repo": "jiweiqi/fluent-mcp-server",
+  "source_url": "https://github.com/jiweiqi/fluent-mcp-server",
+  "install": "npx -y fluent-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "maxkuminov-obsidian-mcp",
+  "description": "Self-hosted MCP server for Obsidian with semantic + full-text search over PostgreSQL/pgvector, wikilink graph traversal, atomic note CRUD, OAuth 2.0, and a self-describing vault guide.",
+  "source_repo": "maxkuminov/obsidian-mcp",
+  "source_url": "https://github.com/maxkuminov/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

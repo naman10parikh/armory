@@ -1,0 +1,7 @@
+{
+  "name": "invok-it",
+  "description": "API marketplace for AI agents with tool discovery, invocation, and quality scoring.",
+  "source_repo": "invok-it/invokit-mcp",
+  "source_url": "https://github.com/invok-it/invokit-mcp",
+  "install": "npx -y invokit-mcp"
+}

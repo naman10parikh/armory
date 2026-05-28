@@ -1,0 +1,7 @@
+{
+  "name": "apache-echarts",
+  "description": "Generates data visualization charts by accepting minimal parameters like chart type, data, title, and series name, then renders them server-side and returns cloud-hosted image URLs for eight chart types including bar, line, pie, scatter, funnel, tree, treemap, and sunburst.",
+  "source_repo": "apache/echarts-mcp",
+  "source_url": "https://github.com/apache/echarts-mcp",
+  "install": "npx -y echarts-mcp"
+}

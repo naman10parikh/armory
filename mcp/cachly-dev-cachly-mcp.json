@@ -1,0 +1,7 @@
+{
+  "name": "cachly-dev-cachly-mcp",
+  "description": "Persistent AI memory brain for Claude Code, Cursor, Copilot, Windsurf, Cline & Zed. `session_start()` briefs your AI on last session, lessons, and open tasks in one call. 84 tools — Team Brain, semantic BM25+ search, Team Telepathy, Ambient Git Learning, Memory Crystals, Analytics, and managed Valkey/Redis. `npx @cachly-dev/init` — free tier, no credit card. [Website](https://cachly.dev)",
+  "source_repo": "cachly-dev/cachly-mcp",
+  "source_url": "https://github.com/cachly-dev/cachly-mcp",
+  "install": "npx -y cachly-mcp"
+}

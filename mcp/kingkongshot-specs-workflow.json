@@ -1,0 +1,7 @@
+{
+  "name": "kingkongshot-specs-workflow",
+  "description": "Guides users through structured software project documentation phases with automated document generation, progress tracking, and workflow state management using OpenAPI specifications as templates.",
+  "source_repo": "kingkongshot/specs-workflow-mcp",
+  "source_url": "https://github.com/kingkongshot/specs-workflow-mcp",
+  "install": "npx -y specs-workflow-mcp"
+}

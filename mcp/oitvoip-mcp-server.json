@@ -1,0 +1,7 @@
+{
+  "name": "oitvoip-mcp-server",
+  "description": "A Model Context Protocol (MCP) server that provides AI agents with seamless access to the NetSapiens VoIP platform for user management, call analytics, and system administration.",
+  "source_repo": "OITApps/oitvoip-mcp-server",
+  "source_url": "https://github.com/OITApps/oitvoip-mcp-server",
+  "install": "npx -y oitvoip-mcp-server"
+}

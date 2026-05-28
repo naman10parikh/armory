@@ -1,0 +1,7 @@
+{
+  "name": "sumitroajiprabowo-llm-wiki",
+  "description": "Persistent knowledge base using the LLM Wiki pattern with structured markdown files.",
+  "source_repo": "sumitroajiprabowo/llm-wiki-mcp",
+  "source_url": "https://github.com/sumitroajiprabowo/llm-wiki-mcp",
+  "install": "npx -y llm-wiki-mcp"
+}

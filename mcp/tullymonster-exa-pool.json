@@ -1,0 +1,7 @@
+{
+  "name": "tullymonster-exa-pool",
+  "description": "Wraps the Exa Pool API for semantic web search through AI assistants",
+  "source_repo": "tullymonster/exa-pool-mcp",
+  "source_url": "https://github.com/tullymonster/exa-pool-mcp",
+  "install": "npx -y exa-pool-mcp"
+}

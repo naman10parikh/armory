@@ -1,0 +1,7 @@
+{
+  "name": "emi-dm-arxiv",
+  "description": "Integrates with arXiv academic repository to provide paper search by keywords, authors, or categories, content retrieval, and text analysis with similarity matching for research workflows and literature reviews.",
+  "source_repo": "emi-dm/arxiv-mcp",
+  "source_url": "https://github.com/emi-dm/arxiv-mcp",
+  "install": "npx -y arxiv-mcp"
+}

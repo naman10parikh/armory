@@ -1,0 +1,7 @@
+{
+  "name": "limit-lmt-inoproshop",
+  "description": "Enables AI agents to control Inovance InoProShop PLC IDE with 24 tools for project creation, code editing, and hardware configuration.",
+  "source_repo": "limit-lmt/inoproshop_limit_mcp",
+  "source_url": "https://github.com/limit-lmt/inoproshop_limit_mcp",
+  "install": "npx -y inoproshop_limit_mcp"
+}

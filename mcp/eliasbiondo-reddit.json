@@ -1,0 +1,7 @@
+{
+  "name": "eliasbiondo-reddit",
+  "description": "Browse, search, and read Reddit content without API keys or authentication using the redd scraping library.",
+  "source_repo": "eliasbiondo/reddit-mcp-server",
+  "source_url": "https://github.com/eliasbiondo/reddit-mcp-server",
+  "install": "npx -y reddit-mcp-server"
+}

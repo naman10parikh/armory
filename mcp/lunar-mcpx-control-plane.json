@@ -1,0 +1,7 @@
+{
+  "name": "lunar-mcpx-control-plane",
+  "description": "Control plane and proxy server that aggregates multiple MCP servers through centralized management, providing tool access controls, session management, metrics collection, and Docker-based orchestration via a web-based dashboard.",
+  "source_repo": "thelunarcompany/lunar",
+  "source_url": "https://github.com/thelunarcompany/lunar/tree/HEAD/mcpx",
+  "install": "# git clone --depth 1 https://github.com/thelunarcompany/lunar/tree/HEAD/mcpx\n# See source for mcpServers config block"
+}

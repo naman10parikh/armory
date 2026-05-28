@@ -1,0 +1,7 @@
+{
+  "name": "postbolt",
+  "description": "Publish and schedule posts to 13+ social media platforms via the PostBolt API.",
+  "source_repo": "whitemarmot/postbolt-mcp",
+  "source_url": "https://github.com/whitemarmot/postbolt-mcp",
+  "install": "npx -y postbolt-mcp"
+}

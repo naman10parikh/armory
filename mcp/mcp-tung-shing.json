@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tung-shing",
+  "description": "Mcp Tung Shing MCP server listed on mcp.so.",
+  "source_repo": "baranwang/mcp-tung-shing",
+  "source_url": "https://mcp.so/server/mcp-tung-shing/baranwang",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-tung-shing/baranwang\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "waf-mcp-server",
+  "description": "Enables AI assistants to monitor, analyze, and configure OWASP ModSecurity CRS via Docker, with tools for overview, drill-down, and rule/IP management.",
+  "source_repo": "KratosUAE/waf_mcp",
+  "source_url": "https://github.com/KratosUAE/waf_mcp",
+  "install": "npx -y waf_mcp"
+}

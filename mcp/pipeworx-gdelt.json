@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-gdelt",
+  "description": "Access the GDELT Project's global event and news data for geopolitical analysis and research.",
+  "source_repo": "pipeworx-io/mcp-gdelt",
+  "source_url": "https://github.com/pipeworx-io/mcp-gdelt",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gdelt\n# See source for mcpServers config block"
+}

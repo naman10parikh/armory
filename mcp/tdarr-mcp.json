@@ -1,0 +1,7 @@
+{
+  "name": "tdarr-mcp",
+  "description": "MCP server for interacting with Tdarr, a distributed transcoding system. Provides 21 tools for monitoring workers, managing flows, and controlling transcoding libraries.",
+  "source_repo": "maximeallanic/tdarr-mcp",
+  "source_url": "https://github.com/maximeallanic/tdarr-mcp",
+  "install": "npx -y tdarr-mcp"
+}

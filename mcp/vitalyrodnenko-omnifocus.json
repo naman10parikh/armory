@@ -1,0 +1,7 @@
+{
+  "name": "vitalyrodnenko-omnifocus",
+  "description": "Gives AI assistants full control over OmniFocus on macOS with 45 tools covering tasks, projects, tags, folders, perspectives, forecast, notifications, and review workflows.",
+  "source_repo": "vitalyrodnenko/omnifocusmcp",
+  "source_url": "https://github.com/vitalyrodnenko/omnifocusmcp",
+  "install": "# git clone --depth 1 https://github.com/vitalyrodnenko/omnifocusmcp\n# See source for mcpServers config block"
+}

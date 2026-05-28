@@ -1,0 +1,7 @@
+{
+  "name": "zhengwanbo-oracle-database",
+  "description": "Connects to Oracle databases with intelligent caching and lazy loading to provide schema exploration, query execution with explain plans, and cross-schema operations for efficient database management without loading entire schemas upfront.",
+  "source_repo": "zhengwanbo/oracle-mcp-server",
+  "source_url": "https://github.com/zhengwanbo/oracle-mcp-server",
+  "install": "npx -y oracle-mcp-server"
+}

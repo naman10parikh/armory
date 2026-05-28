@@ -1,0 +1,7 @@
+{
+  "name": "financemcp-alpha",
+  "description": "Calculates WorldQuant 101 Alpha factors using real-time Chinese stock market data from Tushare.",
+  "source_repo": "guangxiangdebizi/FinanceMCP-Alpha",
+  "source_url": "https://github.com/guangxiangdebizi/FinanceMCP-Alpha",
+  "install": "# git clone --depth 1 https://github.com/guangxiangdebizi/FinanceMCP-Alpha\n# See source for mcpServers config block"
+}

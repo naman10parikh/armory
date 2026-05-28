@@ -1,0 +1,7 @@
+{
+  "name": "crypto-feargreed-mcp",
+  "description": "Crypto Feargreed Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/crypto-feargreed-mcp",
+  "source_url": "https://mcp.so/server/crypto-feargreed-mcp/kukapay",
+  "install": "npx -y crypto-feargreed-mcp"
+}

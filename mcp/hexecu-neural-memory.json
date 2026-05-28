@@ -1,0 +1,7 @@
+{
+  "name": "hexecu-neural-memory",
+  "description": "Transforms developer interactions into a Neo4j knowledge graph using Gemini to extract goals, constraints, and preferences, enabling persistent project memory and context-aware retrieval across coding sessions.",
+  "source_repo": "hexecu/mcp-neuralmemory",
+  "source_url": "https://github.com/hexecu/mcp-neuralmemory",
+  "install": "# git clone --depth 1 https://github.com/hexecu/mcp-neuralmemory\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dcs5star-aws-rds-mysql",
+  "description": "Provides direct SQL execution access to AWS RDS MySQL databases with safety measures that block dangerous operations while supporting standard queries, data modifications, and database administration tasks.",
+  "source_repo": "dcs5star/aws-rds-mysql-mcp-server-amazonq-cli",
+  "source_url": "https://github.com/dcs5star/aws-rds-mysql-mcp-server-amazonq-cli",
+  "install": "# git clone --depth 1 https://github.com/dcs5star/aws-rds-mysql-mcp-server-amazonq-cli\n# See source for mcpServers config block"
+}

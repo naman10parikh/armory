@@ -1,0 +1,7 @@
+{
+  "name": "smythmyke-markitup",
+  "description": "AI image annotation and marketing visual generator with variations, outpainting, and background removal tools.",
+  "source_repo": "smythmyke/markitup-mcp-server",
+  "source_url": "https://github.com/smythmyke/markitup-mcp-server",
+  "install": "npx -y markitup-mcp-server"
+}

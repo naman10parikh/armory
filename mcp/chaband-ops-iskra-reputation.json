@@ -1,0 +1,7 @@
+{
+  "name": "chaband-ops-iskra-reputation",
+  "description": "Solana wallet and token reputation lookup with risk scoring, TVL data, and rug-pull checks.",
+  "source_repo": "",
+  "source_url": "https://api.iskra-bot.xyz/mcp",
+  "install": "# git clone --depth 1 https://api.iskra-bot.xyz/mcp\n# See source for mcpServers config block"
+}

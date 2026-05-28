@@ -1,0 +1,7 @@
+{
+  "name": "flin-google-search-console-mcp",
+  "description": "Read-only MCP server for Google Search Console, with browser-based OAuth flow and local token storage, enabling querying search analytics, site lists, and URL inspection.",
+  "source_repo": "flin-agency/flin-google-search-console-mcp",
+  "source_url": "https://github.com/flin-agency/flin-google-search-console-mcp",
+  "install": "npx -y flin-google-search-console-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mikeadolan-claude-brain",
+  "description": "Persistent SQLite memory for Claude Code with cross-project search and email digests.",
+  "source_repo": "mikeadolan/claude-brain",
+  "source_url": "https://github.com/mikeadolan/claude-brain",
+  "install": "# git clone --depth 1 https://github.com/mikeadolan/claude-brain\n# See source for mcpServers config block"
+}

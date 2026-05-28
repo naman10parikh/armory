@@ -1,0 +1,7 @@
+{
+  "name": "carlosazaustre-advocu",
+  "description": "Integrates with the Advocu platform to streamline activity reporting for Google Developer Experts, enabling submission of content creation, speaking engagements, workshops, mentoring sessions, and community interactions with detailed metrics tracking.",
+  "source_repo": "carlosazaustre/advocu-mcp-server",
+  "source_url": "https://github.com/carlosazaustre/advocu-mcp-server",
+  "install": "npx -y advocu-mcp-server"
+}

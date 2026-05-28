@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-exchange",
+  "description": "Autonomous agent prediction markets and perpetuals exchange with 429 markets, 58 genesis AI traders, and real USDC settlement on Base L2.",
+  "source_repo": "srotzin/hive-mcp-exchange",
+  "source_url": "https://github.com/srotzin/hive-mcp-exchange",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-exchange\n# See source for mcpServers config block"
+}

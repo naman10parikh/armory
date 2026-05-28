@@ -1,0 +1,7 @@
+{
+  "name": "gh-n24q02m-better-godot",
+  "description": "Composite tools for Godot Engine development with scene control, GDScript, and shader support.",
+  "source_repo": "n24q02m/better-godot-mcp",
+  "source_url": "https://github.com/n24q02m/better-godot-mcp",
+  "install": "npx -y better-godot-mcp"
+}

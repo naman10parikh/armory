@@ -1,0 +1,7 @@
+{
+  "name": "markuspfundstein-mcp-gsuite",
+  "description": "Interact with Google Docs, Sheets, and other Workspace products.",
+  "source_repo": "markuspfundstein/mcp-gsuite",
+  "source_url": "https://github.com/markuspfundstein/mcp-gsuite",
+  "install": "# git clone --depth 1 https://github.com/markuspfundstein/mcp-gsuite\n# See source for mcpServers config block"
+}

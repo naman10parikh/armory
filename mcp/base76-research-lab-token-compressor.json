@@ -1,0 +1,7 @@
+{
+  "name": "base76-research-lab-token-compressor",
+  "description": "Semantic prompt compression using local LLM rewriting with embedding validation to reduce token usage by 40-60%.",
+  "source_repo": "base76-research-lab/token-compressor",
+  "source_url": "https://github.com/base76-research-lab/token-compressor",
+  "install": "# git clone --depth 1 https://github.com/base76-research-lab/token-compressor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ruvnet-flow-nexus",
+  "description": "Cloud-powered agentic platform with multi-agent swarms, sandboxes, and workflow automation",
+  "source_repo": "ruvnet/flow-nexus",
+  "source_url": "https://github.com/ruvnet/flow-nexus",
+  "install": "# git clone --depth 1 https://github.com/ruvnet/flow-nexus\n# See source for mcpServers config block"
+}

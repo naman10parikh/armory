@@ -1,0 +1,7 @@
+{
+  "name": "garc33-bitbucket-server-pull-request-manager",
+  "description": "Integrates with Bitbucket's API to streamline pull request workflows, enabling efficient code reviews and automated PR management.",
+  "source_repo": "garc33/bitbucket-server-mcp-server",
+  "source_url": "https://github.com/garc33/bitbucket-server-mcp-server",
+  "install": "npx -y bitbucket-server-mcp-server"
+}

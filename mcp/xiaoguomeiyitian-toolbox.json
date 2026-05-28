@@ -1,0 +1,7 @@
+{
+  "name": "xiaoguomeiyitian-toolbox",
+  "description": "An AI-powered automation tool development platform.",
+  "source_repo": "xiaoguomeiyitian/toolbox",
+  "source_url": "https://github.com/xiaoguomeiyitian/toolbox",
+  "install": "# git clone --depth 1 https://github.com/xiaoguomeiyitian/toolbox\n# See source for mcpServers config block"
+}

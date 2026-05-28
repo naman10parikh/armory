@@ -1,0 +1,7 @@
+{
+  "name": "w3-mcp-lsp-server",
+  "description": "Provides JavaScript/TypeScript code intelligence via LSP, enabling goto definition, hover info, and find references through MCP tools.",
+  "source_repo": "famtong8-dev/w3-mcp-server-lsp",
+  "source_url": "https://github.com/famtong8-dev/w3-mcp-server-lsp",
+  "install": "# git clone --depth 1 https://github.com/famtong8-dev/w3-mcp-server-lsp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zjbthomas-steam-review-summary",
+  "description": "Analyze and summarize Steam game reviews with sentiment analysis, recommendation scoring, and Chinese language prioritization.",
+  "source_repo": "zjbthomas/steam-review-summary-mcp",
+  "source_url": "https://github.com/zjbthomas/steam-review-summary-mcp",
+  "install": "npx -y steam-review-summary-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "goatsolana-mcp",
+  "description": "GOATsolana Mcp MCP server listed on mcp.so.",
+  "source_repo": "FarseenSh/GOATsolana-mcp",
+  "source_url": "https://mcp.so/server/GOATsolana-mcp/FarseenSh",
+  "install": "npx -y GOATsolana-mcp"
+}

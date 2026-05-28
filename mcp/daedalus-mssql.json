@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-mssql",
+  "description": "Query and manage Microsoft SQL Server databases using mssql-python.",
+  "source_repo": "daedalus/mcp-server-mssql",
+  "source_url": "https://github.com/daedalus/mcp-server-mssql",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-server-mssql\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "istefox-devonthink",
+  "description": "MCP server for DEVONthink 4 enabling AI assistants to search, retrieve, file, and batch-process documents with vector-based RAG search.",
+  "source_repo": "istefox/istefox-dt-mcp",
+  "source_url": "https://github.com/istefox/istefox-dt-mcp",
+  "install": "npx -y istefox-dt-mcp"
+}

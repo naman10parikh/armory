@@ -1,0 +1,7 @@
+{
+  "name": "galaxyxieyu-api-test",
+  "description": "YAML-declarative API testing framework optimized for AI coding assistants",
+  "source_repo": "galaxyxieyu/api-test-mcp",
+  "source_url": "https://github.com/galaxyxieyu/api-test-mcp",
+  "install": "npx -y api-test-mcp"
+}

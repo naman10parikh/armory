@@ -1,0 +1,7 @@
+{
+  "name": "wesleysalzer-gamecodex",
+  "description": "Provides 950+ curated game development docs across 29 engines to AI coding assistants via stdio.",
+  "source_repo": "wesleysalzer/gamecodex",
+  "source_url": "https://github.com/wesleysalzer/gamecodex",
+  "install": "# git clone --depth 1 https://github.com/wesleysalzer/gamecodex\n# See source for mcpServers config block"
+}

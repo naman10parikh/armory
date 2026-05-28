@@ -1,0 +1,7 @@
+{
+  "name": "ares-mcp",
+  "description": "Czech & Slovak business registry MCP server. Look up companies by IČO, search by name, check insolvency status, and query the Slovak ORSR — all in one tool. Data from ARES (Czech Ministry of Finance), ISIR insolvency register, and ORSR Slovakia.",
+  "source_repo": "janmacher02-sketch/ares-mcp",
+  "source_url": "https://github.com/janmacher02-sketch/ares-mcp",
+  "install": "npx -y ares-mcp"
+}

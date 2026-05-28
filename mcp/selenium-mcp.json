@@ -1,0 +1,7 @@
+{
+  "name": "selenium-mcp",
+  "description": "MCP server built on Selenium WebDriver — exposes click, type, navigate, find-element, and screenshot tools via the MCP protocol for browser automation in environments where Playwright is unavailable.",
+  "source_repo": "angiejones/mcp-selenium",
+  "source_url": "https://github.com/angiejones/mcp-selenium",
+  "install": "# git clone --depth 1 https://github.com/angiejones/mcp-selenium\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "socket-security",
+  "description": "Integrates with Socket's dependency security API to analyze npm and PyPI packages, returning detailed security and quality metrics for vulnerability assessment and dependency management.",
+  "source_repo": "socketdev/socket-mcp",
+  "source_url": "https://github.com/socketdev/socket-mcp",
+  "install": "npx -y socket-mcp"
+}

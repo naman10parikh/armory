@@ -1,0 +1,7 @@
+{
+  "name": "sitbon-magg",
+  "description": "Meta-MCP server that aggregates and manages multiple MCP servers through intelligent discovery from sources like Glama.ai and GitHub, enabling dynamic server installation, configuration, and unified tool access with automatic conflict resolution.",
+  "source_repo": "sitbon/magg",
+  "source_url": "https://github.com/sitbon/magg",
+  "install": "# git clone --depth 1 https://github.com/sitbon/magg\n# See source for mcpServers config block"
+}

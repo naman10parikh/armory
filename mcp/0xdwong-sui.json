@@ -1,0 +1,7 @@
+{
+  "name": "0xdwong-sui",
+  "description": "Integrates with the Sui blockchain network to enable test token requests, wallet management, and smart contract interactions using the official Sui SDK",
+  "source_repo": "deanpluse/sui-mcp",
+  "source_url": "https://github.com/deanpluse/sui-mcp",
+  "install": "npx -y sui-mcp"
+}

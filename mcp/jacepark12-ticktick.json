@@ -1,0 +1,7 @@
+{
+  "name": "jacepark12-ticktick",
+  "description": "Integrates with TickTick task management API for creating, reading, updating, and deleting tasks and projects with OAuth2 authentication and secure credential storage.",
+  "source_repo": "jacepark12/ticktick-mcp",
+  "source_url": "https://github.com/jacepark12/ticktick-mcp",
+  "install": "npx -y ticktick-mcp"
+}

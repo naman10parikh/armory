@@ -1,0 +1,7 @@
+{
+  "name": "tkykenmt-opensearch-docs",
+  "description": "Integrates with OpenSearch's official documentation, blog posts, and community forum to enable search across technical content with pagination support and performance optimization.",
+  "source_repo": "tkykenmt/opensearch-docs-search",
+  "source_url": "https://github.com/tkykenmt/opensearch-docs-search",
+  "install": "# git clone --depth 1 https://github.com/tkykenmt/opensearch-docs-search\n# See source for mcpServers config block"
+}

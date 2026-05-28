@@ -1,0 +1,7 @@
+{
+  "name": "clauxel-risk-ledger",
+  "description": "MCP server intake risk reports with tool review, approval workflows, and readiness checks.",
+  "source_repo": "",
+  "source_url": "https://mcpriskledger.clauxel.com/mcp",
+  "install": "# git clone --depth 1 https://mcpriskledger.clauxel.com/mcp\n# See source for mcpServers config block"
+}

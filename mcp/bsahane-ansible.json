@@ -1,0 +1,7 @@
+{
+  "name": "bsahane-ansible",
+  "description": "Provides infrastructure automation through Ansible with project-based configuration management, playbook execution with idempotence testing, inventory management with diff capabilities, Vault operations for secrets handling, Galaxy dependency management with lock files, and role scaffolding utilities.",
+  "source_repo": "bsahane/mcp-ansible",
+  "source_url": "https://github.com/bsahane/mcp-ansible",
+  "install": "# git clone --depth 1 https://github.com/bsahane/mcp-ansible\n# See source for mcpServers config block"
+}

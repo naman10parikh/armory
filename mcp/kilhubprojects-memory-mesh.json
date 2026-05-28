@@ -1,0 +1,7 @@
+{
+  "name": "kilhubprojects-memory-mesh",
+  "description": "Local AI memory hub combining SQLite and ChromaDB hybrid search with 47 data connectors, real-time file monitoring, and 15 MCP tools for persistent cross-session memory.",
+  "source_repo": "kilhubprojects/memory-mesh",
+  "source_url": "https://github.com/kilhubprojects/memory-mesh",
+  "install": "# git clone --depth 1 https://github.com/kilhubprojects/memory-mesh\n# See source for mcpServers config block"
+}

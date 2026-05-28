@@ -1,0 +1,7 @@
+{
+  "name": "kaiser-data-kitsune",
+  "description": "Dynamic MCP hub that loads and unloads servers at runtime without restarts, accessing 130,000+ servers across 7 registries.",
+  "source_repo": "kaiser-data/kitsune-mcp",
+  "source_url": "https://github.com/kaiser-data/kitsune-mcp",
+  "install": "npx -y kitsune-mcp"
+}

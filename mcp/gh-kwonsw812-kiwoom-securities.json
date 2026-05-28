@@ -1,0 +1,7 @@
+{
+  "name": "gh-kwonsw812-kiwoom-securities",
+  "description": "Trade Korean stocks on Kiwoom Securities with natural language commands for portfolio management, price lookups, and order execution.",
+  "source_repo": "kwonsw812/kiwoom-mcp",
+  "source_url": "https://github.com/kwonsw812/kiwoom-mcp",
+  "install": "npx -y kiwoom-mcp"
+}

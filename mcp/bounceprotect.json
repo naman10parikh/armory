@@ -1,0 +1,7 @@
+{
+  "name": "bounceprotect",
+  "description": "Email validation and SMTP verification for Claude Desktop, Cursor, and Claude Code.",
+  "source_repo": "bounceprotect/bounceprotect-mcp",
+  "source_url": "https://github.com/bounceprotect/bounceprotect-mcp",
+  "install": "npx -y bounceprotect-mcp"
+}

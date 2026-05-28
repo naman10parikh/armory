@@ -1,0 +1,7 @@
+{
+  "name": "surfer77-vibecoins",
+  "description": "Enables token creation on Ethereum through the Vibecoins platform with automated wallet management, Uniswap v4 liquidity integration, and perpetual trading fee collection.",
+  "source_repo": "surfer77/vibecoins-mcp",
+  "source_url": "https://github.com/surfer77/vibecoins-mcp",
+  "install": "npx -y vibecoins-mcp"
+}

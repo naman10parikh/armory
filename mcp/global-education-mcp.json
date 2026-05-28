@@ -1,0 +1,7 @@
+{
+  "name": "global-education-mcp",
+  "description": "Provides AI assistants access to international education data from UNESCO UIS (4,000+ indicators) and OECD Education at a Glance via SDMX, with no API keys required.",
+  "source_repo": "malkreide/global-education-mcp",
+  "source_url": "https://github.com/malkreide/global-education-mcp",
+  "install": "npx -y global-education-mcp"
+}

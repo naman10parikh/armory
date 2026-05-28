@@ -1,0 +1,7 @@
+{
+  "name": "epiphany-0312-anki-flashcards",
+  "description": "Integrates with Anki flashcard system to create and export spaced repetition decks with support for basic front/back cards, cloze deletion cards, and image attachments for educational content generation.",
+  "source_repo": "epiphany-0312/genanki-mcp",
+  "source_url": "https://github.com/epiphany-0312/genanki-mcp",
+  "install": "npx -y genanki-mcp"
+}

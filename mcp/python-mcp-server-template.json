@@ -1,0 +1,7 @@
+{
+  "name": "python-mcp-server-template",
+  "description": "Python Mcp Server Template MCP server listed on mcp.so.",
+  "source_repo": "FidelusAleksander/python-mcp-server-template",
+  "source_url": "https://mcp.so/server/python-mcp-server-template/FidelusAleksander",
+  "install": "# git clone --depth 1 https://mcp.so/server/python-mcp-server-template/FidelusAleksander\n# See source for mcpServers config block"
+}

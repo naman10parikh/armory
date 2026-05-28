@@ -1,0 +1,7 @@
+{
+  "name": "stepsecurity",
+  "description": "Official StepSecurity MCP server for CI/CD security, supply chain threat response, and anomaly detection.",
+  "source_repo": "step-security/stepsecurity-mcp",
+  "source_url": "https://github.com/step-security/stepsecurity-mcp",
+  "install": "npx -y stepsecurity-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xiaojiou176-open-agent-exporter",
+  "description": "Local archive and governance workbench for AI agent transcripts with semantic search and evidence tracking.",
+  "source_repo": "xiaojiou176-open/agent-exporter",
+  "source_url": "https://github.com/xiaojiou176-open/agent-exporter",
+  "install": "# git clone --depth 1 https://github.com/xiaojiou176-open/agent-exporter\n# See source for mcpServers config block"
+}

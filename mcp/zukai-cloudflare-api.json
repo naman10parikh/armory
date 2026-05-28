@@ -1,0 +1,7 @@
+{
+  "name": "zukai-cloudflare-api",
+  "description": "Integrates with Cloudflare's REST API to enable management of DNS records, cache purging, KV namespaces, R2 buckets, Workers domains, Hyperdrive databases, and Workflow instances through natural language interactions.",
+  "source_repo": "smileycointools/coinspace",
+  "source_url": "https://github.com/smileycointools/coinspace",
+  "install": "# git clone --depth 1 https://github.com/smileycointools/coinspace\n# See source for mcpServers config block"
+}

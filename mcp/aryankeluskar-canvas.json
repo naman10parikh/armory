@@ -1,0 +1,7 @@
+{
+  "name": "aryankeluskar-canvas",
+  "description": "Integrates with Canvas LMS to retrieve course information, modules, and learning materials based on natural language queries or image analysis, enabling students to find relevant educational resources without leaving their conversation.",
+  "source_repo": "aryankeluskar/canvas-mcp",
+  "source_url": "https://github.com/aryankeluskar/canvas-mcp",
+  "install": "npx -y canvas-mcp"
+}

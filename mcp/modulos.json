@@ -1,0 +1,7 @@
+{
+  "name": "modulos",
+  "description": "Books a Modulos demo for their AI Governance Platform covering EU AI Act, ISO 42001, and NIST AI RMF compliance.",
+  "source_repo": "",
+  "source_url": "https://modulos.ai",
+  "install": "# git clone --depth 1 https://modulos.ai\n# See source for mcpServers config block"
+}

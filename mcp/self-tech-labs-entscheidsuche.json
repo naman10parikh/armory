@@ -1,0 +1,7 @@
+{
+  "name": "self-tech-labs-entscheidsuche",
+  "description": "Integrates with entscheidsuche.ch to provide access to Swiss court decisions through tools for searching legal documents, retrieving content, and listing courts by canton for legal research and analysis.",
+  "source_repo": "self-tech-labs/entscheidsuche-mcp-server",
+  "source_url": "https://github.com/self-tech-labs/entscheidsuche-mcp-server",
+  "install": "npx -y entscheidsuche-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "subfeed",
+  "description": "Cloud platform for AI agents to register, build, and deploy other agents autonomously.",
+  "source_repo": "subfeedapp/subfeed-mcp",
+  "source_url": "https://github.com/subfeedapp/subfeed-mcp",
+  "install": "npx -y subfeed-mcp"
+}

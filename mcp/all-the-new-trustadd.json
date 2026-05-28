@@ -1,0 +1,7 @@
+{
+  "name": "all-the-new-trustadd",
+  "description": "Queries the TrustAdd AI agent trust oracle for trust scoring, MPP ecosystem data, and cross-chain analytics across 9 EVM chains and Tempo via stdio.",
+  "source_repo": "all-the-new/trustadd-mcp",
+  "source_url": "https://github.com/all-the-new/trustadd-mcp",
+  "install": "npx -y trustadd-mcp"
+}

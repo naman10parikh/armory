@@ -1,0 +1,7 @@
+{
+  "name": "ericlott-kroger",
+  "description": "Integrates with Kroger's grocery API to search products, find store locations, retrieve pricing and availability information, and manage shopping carts through OAuth2 authentication.",
+  "source_repo": "ericlott/kroger-mcp",
+  "source_url": "https://github.com/ericlott/kroger-mcp",
+  "install": "npx -y kroger-mcp"
+}

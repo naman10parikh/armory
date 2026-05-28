@@ -1,0 +1,7 @@
+{
+  "name": "floatdreamwithsong-mysql-qwen-manager",
+  "description": "Provides MySQL database management through natural language interfaces, enabling users to query, manipulate schemas, and analyze data using conversational commands instead of direct SQL.",
+  "source_repo": "floatdreamwithsong/mysql-mcp-server-qwen-manager",
+  "source_url": "https://github.com/floatdreamwithsong/mysql-mcp-server-qwen-manager",
+  "install": "# git clone --depth 1 https://github.com/floatdreamwithsong/mysql-mcp-server-qwen-manager\n# See source for mcpServers config block"
+}

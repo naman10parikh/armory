@@ -1,0 +1,7 @@
+{
+  "name": "gwhthompson-grist",
+  "description": "Integrates with Grist spreadsheet-database for document management, data queries, and schema operations.",
+  "source_repo": "gwhthompson/grist-mcp-server",
+  "source_url": "https://github.com/gwhthompson/grist-mcp-server",
+  "install": "npx -y grist-mcp-server"
+}

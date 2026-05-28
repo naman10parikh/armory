@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-31",
+  "description": "Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "amitsh06/mcp-server",
+  "source_url": "https://mcp.so/server/mcp-server/amitsh06",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server/amitsh06\n# See source for mcpServers config block"
+}

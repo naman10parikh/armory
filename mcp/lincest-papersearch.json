@@ -1,0 +1,7 @@
+{
+  "name": "lincest-papersearch",
+  "description": "Integrates with arXiv to enable keyword searches, paper retrieval, and tracking of recent submissions across scientific categories.",
+  "source_repo": "lincest/mcp-papersearch",
+  "source_url": "https://github.com/lincest/mcp-papersearch",
+  "install": "# git clone --depth 1 https://github.com/lincest/mcp-papersearch\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "allplan-mcp-bridge",
+  "description": "Enables Claude to create, query, and modify BIM elements in Allplan via natural language, with full undo history support.",
+  "source_repo": "andrej-reeg/allplan-mcp-bridge",
+  "source_url": "https://github.com/andrej-reeg/allplan-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/andrej-reeg/allplan-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "radup-sigmund-postgresql-banking",
+  "description": "Integrates with PostgreSQL databases to provide banking transaction analysis, account balance monitoring, spending insights, and cashflow reporting with smart formatting and multi-provider financial data aggregation for personal finance management and business intelligence applications.",
+  "source_repo": "radup/mcp-sigmund",
+  "source_url": "https://github.com/radup/mcp-sigmund",
+  "install": "# git clone --depth 1 https://github.com/radup/mcp-sigmund\n# See source for mcpServers config block"
+}

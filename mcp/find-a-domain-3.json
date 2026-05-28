@@ -1,0 +1,7 @@
+{
+  "name": "find-a-domain-3",
+  "description": "test",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/dmasdfg8/test",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/dmasdfg8/test\n# See source for mcpServers config block"
+}

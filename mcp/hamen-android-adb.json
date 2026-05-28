@@ -1,0 +1,7 @@
+{
+  "name": "hamen-android-adb",
+  "description": "Provides Android device automation through ADB integration, enabling screenshots, UI hierarchy dumps, key events, coordinate tapping, text input, activity launching, and element interaction by text or content description for mobile app testing and remote device control.",
+  "source_repo": "hamen/android-mcp",
+  "source_url": "https://github.com/hamen/android-mcp",
+  "install": "npx -y android-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eyupcanakman-gsc-rs",
+  "description": "Fast single-binary Google Search Console integration with 21 tools for analytics, inspection, sitemaps, and indexing.",
+  "source_repo": "eyupcanakman/gsc-mcp-rs",
+  "source_url": "https://github.com/eyupcanakman/gsc-mcp-rs",
+  "install": "# git clone --depth 1 https://github.com/eyupcanakman/gsc-mcp-rs\n# See source for mcpServers config block"
+}

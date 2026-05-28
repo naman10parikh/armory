@@ -1,0 +1,7 @@
+{
+  "name": "silicann-spektralwerk-docs",
+  "description": "Access interactive API documentation for Silicann's Spektralwerk NIR spectrometer including SCPI API reference, glossary, and error code explanations via 7 tools.",
+  "source_repo": "",
+  "source_url": "https://en.silicann.com/spectrometers/spektralwerk-documentation/mcp",
+  "install": "# git clone --depth 1 https://en.silicann.com/spectrometers/spektralwerk-documentation/mcp\n# See source for mcpServers config block"
+}

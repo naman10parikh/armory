@@ -1,0 +1,7 @@
+{
+  "name": "barosandu-blender-3d-modeling",
+  "description": "Integrates with Blender's 3D modeling and rendering engine to enable file management, object creation and manipulation, transformations, distance calculations, and export to glTF/GLB formats with point cloud processing capabilities.",
+  "source_repo": "barosandu/blender-mcp-yong",
+  "source_url": "https://github.com/barosandu/blender-mcp-yong/tree/HEAD/blender-mit-mcp",
+  "install": "# git clone --depth 1 https://github.com/barosandu/blender-mcp-yong/tree/HEAD/blender-mit-mcp\n# See source for mcpServers config block"
+}

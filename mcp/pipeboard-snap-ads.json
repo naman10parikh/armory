@@ -1,0 +1,7 @@
+{
+  "name": "pipeboard-snap-ads",
+  "description": "Manages Snapchat Ads campaigns, ad squads, targeting, and bulk operations through AI assistants.",
+  "source_repo": "",
+  "source_url": "https://pipeboard.co/guides/snap-ads-mcp",
+  "install": "# git clone --depth 1 https://pipeboard.co/guides/snap-ads-mcp\n# See source for mcpServers config block"
+}

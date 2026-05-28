@@ -1,0 +1,7 @@
+{
+  "name": "maksimsarychau-zebrunner",
+  "description": "Connects Zebrunner Test Case Management with AI assistants for managing test cases, suites, and execution data through natural language",
+  "source_repo": "maksimsarychau/mcp-zebrunner",
+  "source_url": "https://github.com/maksimsarychau/mcp-zebrunner",
+  "install": "# git clone --depth 1 https://github.com/maksimsarychau/mcp-zebrunner\n# See source for mcpServers config block"
+}

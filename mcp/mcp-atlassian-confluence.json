@@ -1,0 +1,7 @@
+{
+  "name": "mcp-atlassian-confluence",
+  "description": "Mcp Atlassian Confluence MCP server listed on mcp.so.",
+  "source_repo": "aashari/mcp-atlassian-confluence",
+  "source_url": "https://mcp.so/server/mcp-atlassian-confluence/aashari",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-atlassian-confluence/aashari\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-whattimeisit",
+  "description": "Provides location-based current time in ISO 8601 format using the World Time API through a lightweight Python FastMCP server.",
+  "source_repo": "kukapay/whattimeisit-mcp",
+  "source_url": "https://github.com/kukapay/whattimeisit-mcp",
+  "install": "npx -y whattimeisit-mcp"
+}

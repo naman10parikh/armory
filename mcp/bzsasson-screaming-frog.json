@@ -1,0 +1,7 @@
+{
+  "name": "bzsasson-screaming-frog",
+  "description": "Crawl websites, export SEO data, and manage crawls via Screaming Frog SEO Spider.",
+  "source_repo": "bzsasson/screaming-frog-mcp",
+  "source_url": "https://github.com/bzsasson/screaming-frog-mcp",
+  "install": "npx -y screaming-frog-mcp"
+}

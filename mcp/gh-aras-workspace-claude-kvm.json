@@ -1,0 +1,7 @@
+{
+  "name": "gh-aras-workspace-claude-kvm",
+  "description": "Control remote desktops via VNC with a native Swift daemon and Apple Vision OCR.",
+  "source_repo": "aras-workspace/claude-kvm",
+  "source_url": "https://github.com/aras-workspace/claude-kvm",
+  "install": "# git clone --depth 1 https://github.com/aras-workspace/claude-kvm\n# See source for mcpServers config block"
+}

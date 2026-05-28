@@ -1,0 +1,7 @@
+{
+  "name": "cervonwong-ilspy",
+  "description": "Wraps ILSpy for .NET binary decompilation and static analysis from AI assistants.",
+  "source_repo": "cervonwong/ilspy-mcp",
+  "source_url": "https://github.com/cervonwong/ilspy-mcp",
+  "install": "npx -y ilspy-mcp"
+}

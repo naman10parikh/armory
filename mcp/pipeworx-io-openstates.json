@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-openstates",
+  "description": "OpenStates US state legislative data for bills, legislators, votes, and committee activity across all 50 states via Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-openstates",
+  "source_url": "https://github.com/pipeworx-io/mcp-openstates",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-openstates\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-playwright-network-chaos",
+  "description": "Gives AI agents dynamic network chaos control over Playwright browser sessions.",
+  "source_repo": "vola-trebla/playwright-network-chaos-mcp",
+  "source_url": "https://github.com/vola-trebla/playwright-network-chaos-mcp",
+  "install": "npx -y playwright-network-chaos-mcp"
+}

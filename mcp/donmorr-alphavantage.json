@@ -1,0 +1,7 @@
+{
+  "name": "donmorr-alphavantage",
+  "description": "Integrates with Alphavantage API to provide real-time and historical financial data for stock market analysis and trading strategies.",
+  "source_repo": "donmorr/alphavantagemcpserver",
+  "source_url": "https://github.com/donmorr/alphavantagemcpserver",
+  "install": "# git clone --depth 1 https://github.com/donmorr/alphavantagemcpserver\n# See source for mcpServers config block"
+}

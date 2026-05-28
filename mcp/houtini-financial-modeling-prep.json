@@ -1,0 +1,7 @@
+{
+  "name": "houtini-financial-modeling-prep",
+  "description": "Access financial data and market information through the Financial Modeling Prep API.",
+  "source_repo": "houtini-ai/fmp-mcp",
+  "source_url": "https://github.com/houtini-ai/fmp-mcp",
+  "install": "npx -y fmp-mcp"
+}

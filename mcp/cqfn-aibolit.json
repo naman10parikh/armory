@@ -1,0 +1,7 @@
+{
+  "name": "cqfn-aibolit",
+  "description": "Integrates with the Aibolit Java code analyzer to identify critical design issues in Java code, focusing on maintainability, readability, and architectural concerns rather than cosmetic problems.",
+  "source_repo": "cqfn/aibolit-mcp-server",
+  "source_url": "https://github.com/cqfn/aibolit-mcp-server",
+  "install": "npx -y aibolit-mcp-server"
+}

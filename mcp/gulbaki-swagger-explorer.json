@@ -1,0 +1,7 @@
+{
+  "name": "gulbaki-swagger-explorer",
+  "description": "Loads and explores Swagger/OpenAPI specifications from URLs or files, providing endpoint discovery, documentation access, and natural language summaries for API integration workflows.",
+  "source_repo": "gulbaki/swagger-mcp-server",
+  "source_url": "https://github.com/gulbaki/swagger-mcp-server",
+  "install": "npx -y swagger-mcp-server"
+}

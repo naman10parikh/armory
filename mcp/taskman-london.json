@@ -1,0 +1,7 @@
+{
+  "name": "taskman-london",
+  "description": "Book London furniture assembly, wall mounting, handyman, electrical, and smart home jobs.",
+  "source_repo": "",
+  "source_url": "https://taskman.london",
+  "install": "# git clone --depth 1 https://taskman.london\n# See source for mcpServers config block"
+}

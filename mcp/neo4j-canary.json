@@ -1,0 +1,7 @@
+{
+  "name": "neo4j-canary",
+  "description": "Experimental Neo4j graph database MCP integration with Cypher query support, providing early access to features ahead of the official release.",
+  "source_repo": "neo4j-labs/neo4j-mcp-canary",
+  "source_url": "https://github.com/neo4j-labs/neo4j-mcp-canary",
+  "install": "# git clone --depth 1 https://github.com/neo4j-labs/neo4j-mcp-canary\n# See source for mcpServers config block"
+}

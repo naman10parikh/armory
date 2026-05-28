@@ -1,0 +1,7 @@
+{
+  "name": "cxxxr-common-lisp-repl",
+  "description": "Provides a REPL evaluation tool that executes Common Lisp code safely with read-time evaluation disabled, enabling mathematical calculations, data processing, and symbolic computation tasks using Lisp's expressive power while maintaining security through disabled reader macros.",
+  "source_repo": "cl-ai-project/cl-mcp",
+  "source_url": "https://github.com/cl-ai-project/cl-mcp",
+  "install": "npx -y cl-mcp"
+}

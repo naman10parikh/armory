@@ -1,0 +1,7 @@
+{
+  "name": "sap-datasphere-mcp-server",
+  "description": "Production-ready MCP server that enables AI assistants to seamlessly interact with SAP Datasphere environments for real tenant data discovery, metadata exploration, analytics operations, ETL data extraction, database user management, data lineage analysis, and column-level data profiling.",
+  "source_repo": "MarioDeFelipe/sap-datasphere-mcp",
+  "source_url": "https://github.com/MarioDeFelipe/sap-datasphere-mcp",
+  "install": "npx -y sap-datasphere-mcp"
+}

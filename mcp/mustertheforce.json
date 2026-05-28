@@ -1,0 +1,7 @@
+{
+  "name": "mustertheforce",
+  "description": "Salesforce execution platform that automates complex business processes using AI agents.",
+  "source_repo": "mustertheforce/mustertheforce",
+  "source_url": "https://github.com/mustertheforce/mustertheforce",
+  "install": "# git clone --depth 1 https://github.com/mustertheforce/mustertheforce\n# See source for mcpServers config block"
+}

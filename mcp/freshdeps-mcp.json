@@ -1,0 +1,7 @@
+{
+  "name": "freshdeps-mcp",
+  "description": "Live npm and PyPI dependency health verdicts to help AI coding agents avoid recommending stale or vulnerable packages.",
+  "source_repo": "solvohq/freshdeps-mcp",
+  "source_url": "https://github.com/solvohq/freshdeps-mcp",
+  "install": "npx -y freshdeps-mcp"
+}

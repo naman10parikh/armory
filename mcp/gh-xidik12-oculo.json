@@ -1,0 +1,7 @@
+{
+  "name": "gh-xidik12-oculo",
+  "description": "AI-powered native browser built on Chromium that enables agents to see and interact with websites using 12 tools.",
+  "source_repo": "xidik12/oculo",
+  "source_url": "https://github.com/xidik12/oculo",
+  "install": "# git clone --depth 1 https://github.com/xidik12/oculo\n# See source for mcpServers config block"
+}

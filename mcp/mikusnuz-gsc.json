@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-gsc",
+  "description": "Query search analytics, inspect URLs, manage sitemaps, and submit pages for indexing via Google Search Console and Indexing APIs.",
+  "source_repo": "mikusnuz/gsc-mcp",
+  "source_url": "https://github.com/mikusnuz/gsc-mcp",
+  "install": "npx -y gsc-mcp"
+}

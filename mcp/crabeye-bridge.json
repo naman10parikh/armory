@@ -1,0 +1,7 @@
+{
+  "name": "crabeye-bridge",
+  "description": "Bridges multiple upstream MCP servers behind a unified tool discovery and execution interface.",
+  "source_repo": "crabeye-ai/crabeye-mcp-bridge",
+  "source_url": "https://github.com/crabeye-ai/crabeye-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/crabeye-ai/crabeye-mcp-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "canardia-cpp-latency-benchmarking",
+  "description": "Benchmarks C++ code latency using Google Benchmark with automated compilation and statistical analysis.",
+  "source_repo": "canardia/mcp-latency-benchmark",
+  "source_url": "https://github.com/canardia/mcp-latency-benchmark",
+  "install": "# git clone --depth 1 https://github.com/canardia/mcp-latency-benchmark\n# See source for mcpServers config block"
+}

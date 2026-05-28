@@ -1,0 +1,7 @@
+{
+  "name": "wheretohit",
+  "description": "wheretohit",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/jbb1988/wheretohit",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/jbb1988/wheretohit\n# See source for mcpServers config block"
+}

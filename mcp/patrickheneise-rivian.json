@@ -1,0 +1,7 @@
+{
+  "name": "patrickheneise-rivian",
+  "description": "Integrates with Rivian's electric vehicle platform to monitor battery levels, track location, and control remote operations like door locks and climate systems.",
+  "source_repo": "patrickheneise/rivian-mcp",
+  "source_url": "https://github.com/patrickheneise/rivian-mcp",
+  "install": "npx -y rivian-mcp"
+}

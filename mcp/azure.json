@@ -1,0 +1,7 @@
+{
+  "name": "azure",
+  "description": "Provides tools for managing Azure cloud resources and services through natural language interactions.",
+  "source_repo": "azure/azure-mcp",
+  "source_url": "https://github.com/azure/azure-mcp/tree/HEAD/servers/Azure.Mcp.Server",
+  "install": "npx -y azure-mcp"
+}

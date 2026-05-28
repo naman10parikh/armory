@@ -1,0 +1,7 @@
+{
+  "name": "ruashots-coolify",
+  "description": "Integrates with Coolify's self-hosted PaaS platform to manage applications, databases, services, servers, and deployments through Git repositories, Docker images, environment variables, and real-time logs.",
+  "source_repo": "ruashots/coolify-mcp",
+  "source_url": "https://github.com/ruashots/coolify-mcp",
+  "install": "npx -y coolify-mcp"
+}

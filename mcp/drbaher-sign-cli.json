@@ -1,0 +1,7 @@
+{
+  "name": "drbaher-sign-cli",
+  "description": "Offline PAdES digital signing and hash-chained audit for AI agent document workflows.",
+  "source_repo": "drbaher/sign-cli",
+  "source_url": "https://github.com/drbaher/sign-cli",
+  "install": "# git clone --depth 1 https://github.com/drbaher/sign-cli\n# See source for mcpServers config block"
+}

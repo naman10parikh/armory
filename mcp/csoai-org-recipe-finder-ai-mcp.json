@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-recipe-finder-ai-mcp",
+  "description": "Python MCP server for recipe search and culinary guidance tools.",
+  "source_repo": "csoai-org/recipe-finder-ai-mcp",
+  "source_url": "https://github.com/csoai-org/recipe-finder-ai-mcp",
+  "install": "npx -y recipe-finder-ai-mcp"
+}

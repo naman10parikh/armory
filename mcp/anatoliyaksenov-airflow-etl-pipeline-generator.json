@@ -1,0 +1,7 @@
+{
+  "name": "anatoliyaksenov-airflow-etl-pipeline-generator",
+  "description": "Integrates with Apache Airflow, GitLab, Kafka, PostgreSQL, S3, and SMB file systems to enable conversational ETL pipeline creation, data source connectivity testing, schema extraction, and automatic generation of production-ready Airflow DAGs with pre-built Spark application templates for database-to-datalake, file-to-datalake, and API-to-datalake workflows.",
+  "source_repo": "anatoliyaksenov/chat-app-mcp",
+  "source_url": "https://github.com/anatoliyaksenov/chat-app-mcp",
+  "install": "npx -y chat-app-mcp"
+}

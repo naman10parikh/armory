@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-developer-tool",
+  "description": "Mcp Server Developer Tool MCP server listed on mcp.so.",
+  "source_repo": "da-snap/mcp-server-developer-tool",
+  "source_url": "https://mcp.so/server/mcp-server-developer-tool/da-snap",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-developer-tool/da-snap\n# See source for mcpServers config block"
+}

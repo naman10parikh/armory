@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-github",
+  "description": "Integrates with GitHub's API to enable repository management, code manipulation, issue tracking, and pull request handling for streamlined development workflows.",
+  "source_repo": "cyanheads/github-mcp-server",
+  "source_url": "https://github.com/cyanheads/github-mcp-server",
+  "install": "npx -y github-mcp-server"
+}

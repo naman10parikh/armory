@@ -1,0 +1,7 @@
+{
+  "name": "ssb-mcp",
+  "description": "Ssb Mcp MCP server listed on mcp.so.",
+  "source_repo": "haakonjacobsen/ssb-mcp",
+  "source_url": "https://mcp.so/server/ssb-mcp/haakonjacobsen",
+  "install": "npx -y ssb-mcp"
+}

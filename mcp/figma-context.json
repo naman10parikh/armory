@@ -1,0 +1,7 @@
+{
+  "name": "figma-context",
+  "description": "Bridges AI systems with Figma design platform, transforming complex API responses into structured design information for easier understanding of layout properties, styling, and text content.",
+  "source_repo": "1yhy/figma-context-mcp",
+  "source_url": "https://github.com/1yhy/figma-context-mcp",
+  "install": "npx -y figma-context-mcp"
+}

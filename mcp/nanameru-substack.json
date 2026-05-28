@@ -1,0 +1,7 @@
+{
+  "name": "nanameru-substack",
+  "description": "Manages Substack publications programmatically, enabling post creation, editing, image uploads, scheduling, and publishing via Substack's internal API.",
+  "source_repo": "nanameru/substack-mcp",
+  "source_url": "https://github.com/nanameru/substack-mcp",
+  "install": "npx -y substack-mcp"
+}

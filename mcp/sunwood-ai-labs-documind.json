@@ -1,0 +1,7 @@
+{
+  "name": "sunwood-ai-labs-documind",
+  "description": "Parses through README documentation/project files on your local filesystem to guide development workflows.",
+  "source_repo": "sunwood-ai-labs/documind-mcp-server",
+  "source_url": "https://github.com/sunwood-ai-labs/documind-mcp-server",
+  "install": "npx -y documind-mcp-server"
+}

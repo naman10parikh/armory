@@ -1,0 +1,7 @@
+{
+  "name": "mcp-office-parser",
+  "description": "Enables reading, writing, editing, and converting Office documents (ODT, DOCX, ODS, XLSX, PDF, etc.) using MCP tools, with no external dependencies.",
+  "source_repo": "as7722314/mcp-office-parser",
+  "source_url": "https://github.com/as7722314/mcp-office-parser",
+  "install": "# git clone --depth 1 https://github.com/as7722314/mcp-office-parser\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "feedmob-kayzen-analytics",
+  "description": "Integrates with Kayzen Analytics API to access and analyze marketing campaign data, providing tools for report listing, data fetching with date filtering, and performance optimization insights.",
+  "source_repo": "springwq/kayzen-mcp",
+  "source_url": "https://github.com/springwq/kayzen-mcp",
+  "install": "npx -y kayzen-mcp"
+}

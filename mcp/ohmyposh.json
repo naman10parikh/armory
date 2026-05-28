@@ -1,0 +1,7 @@
+{
+  "name": "ohmyposh",
+  "description": "Validate Oh My Posh theme configurations against the official schema",
+  "source_repo": "jandedobbeleer/oh-my-posh",
+  "source_url": "https://github.com/jandedobbeleer/oh-my-posh/tree/HEAD/website/api/mcp",
+  "install": "# git clone --depth 1 https://github.com/jandedobbeleer/oh-my-posh/tree/HEAD/website/api/mcp\n# See source for mcpServers config block"
+}

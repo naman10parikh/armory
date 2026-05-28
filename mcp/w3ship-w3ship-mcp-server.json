@@ -1,0 +1,7 @@
+{
+  "name": "w3ship-w3ship-mcp-server",
+  "description": "AI-powered commerce MCP server with 22 tools: shopping cart (TMF663), orders (TMF622), shipment tracking (TMF621), session booking, Uniswap swaps, P2P marketplace, promo pickup, and cryptographic identity (SLH-DSA/ECDSA). No passwords — your wallet IS your account.",
+  "source_repo": "baskcart/w3ship-mcp-server",
+  "source_url": "https://github.com/baskcart/w3ship-mcp-server",
+  "install": "npx -y w3ship-mcp-server"
+}

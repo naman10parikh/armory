@@ -1,0 +1,7 @@
+{
+  "name": "sociallayer-sola",
+  "description": "Integrates with the Social Layer (Sola) platform API to retrieve event details, search events by date ranges and keywords, fetch group information, user profiles, and venue data for event discovery and community management.",
+  "source_repo": "sociallayer-im/sola-mcp",
+  "source_url": "https://github.com/sociallayer-im/sola-mcp",
+  "install": "npx -y sola-mcp"
+}

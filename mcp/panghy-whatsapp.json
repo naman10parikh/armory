@@ -1,0 +1,7 @@
+{
+  "name": "panghy-whatsapp",
+  "description": "Connects AI assistants to WhatsApp via a local Electron app with multi-account support and SQLite message storage.",
+  "source_repo": "panghy/whatsapp-mcp-server",
+  "source_url": "https://github.com/panghy/whatsapp-mcp-server",
+  "install": "npx -y whatsapp-mcp-server"
+}

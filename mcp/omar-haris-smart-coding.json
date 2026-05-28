@@ -1,0 +1,7 @@
+{
+  "name": "omar-haris-smart-coding",
+  "description": "Semantic code search using local AI embeddings for intelligent code discovery.",
+  "source_repo": "omar-haris/smart-coding-mcp",
+  "source_url": "https://github.com/omar-haris/smart-coding-mcp",
+  "install": "npx -y smart-coding-mcp"
+}

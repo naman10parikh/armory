@@ -1,0 +1,7 @@
+{
+  "name": "likarika-budget",
+  "description": "Shared household finance management for couples with expense tracking, budgets, and settlements.",
+  "source_repo": "",
+  "source_url": "https://likarika.se",
+  "install": "# git clone --depth 1 https://likarika.se\n# See source for mcpServers config block"
+}

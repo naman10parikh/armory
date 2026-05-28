@@ -1,0 +1,7 @@
+{
+  "name": "lucid-mcp-server",
+  "description": "MCP server for Lucid App integration that enables AI-powered analysis and management of Lucid diagrams.",
+  "source_repo": "smartzan63/lucid-mcp-server",
+  "source_url": "https://github.com/smartzan63/lucid-mcp-server",
+  "install": "npx -y lucid-mcp-server"
+}

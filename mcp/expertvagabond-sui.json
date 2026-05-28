@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-sui",
+  "description": "Comprehensive Sui blockchain integration with wallet management, transactions, DeFi operations, staking, validator queries, and network utilities.",
+  "source_repo": "expertvagabond/sui-mcp-server",
+  "source_url": "https://github.com/expertvagabond/sui-mcp-server",
+  "install": "npx -y sui-mcp-server"
+}

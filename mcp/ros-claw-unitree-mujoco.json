@@ -1,0 +1,7 @@
+{
+  "name": "ros-claw-unitree-mujoco",
+  "description": "Simulates and controls Unitree robots through MuJoCo physics for LLM-driven robot development.",
+  "source_repo": "ros-claw/unitree-mujoco-mcp",
+  "source_url": "https://github.com/ros-claw/unitree-mujoco-mcp",
+  "install": "npx -y unitree-mujoco-mcp"
+}

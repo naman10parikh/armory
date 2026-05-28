@@ -1,0 +1,7 @@
+{
+  "name": "cosmix-jira",
+  "description": "Integrates with Jira's API to enable issue searching, data cleaning, and project management automation using natural language commands.",
+  "source_repo": "cosmix/jira-mcp",
+  "source_url": "https://github.com/cosmix/jira-mcp",
+  "install": "npx -y jira-mcp"
+}

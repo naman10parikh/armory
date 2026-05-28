@@ -1,0 +1,7 @@
+{
+  "name": "spawnpay",
+  "description": "Crypto wallets, payments, and referral earnings for AI agents on Base L2.",
+  "source_repo": "robocular/spawnpay",
+  "source_url": "https://github.com/robocular/spawnpay",
+  "install": "# git clone --depth 1 https://github.com/robocular/spawnpay\n# See source for mcpServers config block"
+}

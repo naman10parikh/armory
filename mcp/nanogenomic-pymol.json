@@ -1,0 +1,7 @@
+{
+  "name": "nanogenomic-pymol",
+  "description": "Enables bidirectional communication with PyMOL for visualizing and manipulating molecular structures, supporting structural biology workflows through direct execution of commands, retrieval of structural information, and management of molecular visualizations.",
+  "source_repo": "nanogenomic/molai",
+  "source_url": "https://github.com/nanogenomic/molai/tree/HEAD/FINAL",
+  "install": "# git clone --depth 1 https://github.com/nanogenomic/molai/tree/HEAD/FINAL\n# See source for mcpServers config block"
+}

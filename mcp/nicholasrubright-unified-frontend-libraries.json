@@ -1,0 +1,7 @@
+{
+  "name": "nicholasrubright-unified-frontend-libraries",
+  "description": "Plugin-based integration for React Flow and Motion frontend libraries with Docker support.",
+  "source_repo": "nicholasrubright/unified-mcp",
+  "source_url": "https://github.com/nicholasrubright/unified-mcp",
+  "install": "npx -y unified-mcp"
+}

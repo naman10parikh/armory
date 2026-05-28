@@ -1,0 +1,7 @@
+{
+  "name": "taimoorgit-vin-lookup",
+  "description": "Decodes VINs and retrieves vehicle specifications via the NHTSA vPIC REST API.",
+  "source_repo": "taimoorgit/vin-lookup-mcp",
+  "source_url": "https://github.com/taimoorgit/vin-lookup-mcp",
+  "install": "npx -y vin-lookup-mcp"
+}

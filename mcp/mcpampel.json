@@ -1,0 +1,7 @@
+{
+  "name": "mcpampel",
+  "description": "MCP server that scans other MCP servers for security vulnerabilities using 16 scanning engines, returning aggregated trust scores.",
+  "source_repo": "mcpampel/mcpampel",
+  "source_url": "https://github.com/mcpampel/mcpampel",
+  "install": "# git clone --depth 1 https://github.com/mcpampel/mcpampel\n# See source for mcpServers config block"
+}

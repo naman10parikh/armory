@@ -1,0 +1,7 @@
+{
+  "name": "agentmode",
+  "description": "All-in-one server that connects your coding AI to dozens of databases, data warehouses, data pipelines, cloud services, and more.",
+  "source_repo": "agentmode/server",
+  "source_url": "https://github.com/agentmode/server",
+  "install": "# git clone --depth 1 https://github.com/agentmode/server\n# See source for mcpServers config block"
+}

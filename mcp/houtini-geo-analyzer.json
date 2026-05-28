@@ -1,0 +1,7 @@
+{
+  "name": "houtini-geo-analyzer",
+  "description": "AI search optimization analysis with actionable findings and gap analysis.",
+  "source_repo": "houtini-ai/geo-analyzer",
+  "source_url": "https://github.com/houtini-ai/geo-analyzer",
+  "install": "# git clone --depth 1 https://github.com/houtini-ai/geo-analyzer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "no-ob-brat",
+  "description": "Dart-based server providing web search, HTTP request, and web content extraction capabilities.",
+  "source_repo": "no-ob/brat_mcp",
+  "source_url": "https://github.com/no-ob/brat_mcp",
+  "install": "npx -y brat_mcp"
+}

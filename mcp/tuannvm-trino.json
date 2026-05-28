@@ -1,0 +1,7 @@
+{
+  "name": "tuannvm-trino",
+  "description": "Enables SQL query execution against Trino databases with tools for data exploration, schema retrieval, and analysis without writing complex queries manually.",
+  "source_repo": "tuannvm/mcp-trino",
+  "source_url": "https://github.com/tuannvm/mcp-trino",
+  "install": "# git clone --depth 1 https://github.com/tuannvm/mcp-trino\n# See source for mcpServers config block"
+}

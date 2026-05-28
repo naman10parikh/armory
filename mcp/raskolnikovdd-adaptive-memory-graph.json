@@ -1,0 +1,7 @@
+{
+  "name": "raskolnikovdd-adaptive-memory-graph",
+  "description": "Persistent memory plugin for Claude using weighted, interconnected knowledge nodes with time-based decay.",
+  "source_repo": "raskolnikovdd/adaptive-memory-graph",
+  "source_url": "https://github.com/raskolnikovdd/adaptive-memory-graph",
+  "install": "# git clone --depth 1 https://github.com/raskolnikovdd/adaptive-memory-graph\n# See source for mcpServers config block"
+}

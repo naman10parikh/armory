@@ -1,0 +1,7 @@
+{
+  "name": "kali-mcp",
+  "description": "Enables AI assistants to run Kali Linux security tools in an isolated Docker container for tasks like network scanning, port checking, and service enumeration.",
+  "source_repo": "Unaacceptable297/kali-mcp",
+  "source_url": "https://github.com/Unaacceptable297/kali-mcp",
+  "install": "npx -y kali-mcp"
+}

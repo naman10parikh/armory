@@ -1,0 +1,7 @@
+{
+  "name": "dezignworks",
+  "description": "Query DezignWorks reverse engineering software — features, file format compatibility, pricing, and technical capabilities for CAD sketch reconstruction.",
+  "source_repo": "",
+  "source_url": "https://dezignworks.com",
+  "install": "# git clone --depth 1 https://dezignworks.com\n# See source for mcpServers config block"
+}

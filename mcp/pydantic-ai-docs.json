@@ -1,0 +1,7 @@
+{
+  "name": "pydantic-ai-docs",
+  "description": "Provides direct access to Pydantic-AI documentation with tools for retrieving specific documents, listing topics, and accessing changelog information without leaving your development environment.",
+  "source_repo": "omniwaifu/pydantic-ai-docs-server",
+  "source_url": "https://github.com/omniwaifu/pydantic-ai-docs-server",
+  "install": "# git clone --depth 1 https://github.com/omniwaifu/pydantic-ai-docs-server\n# See source for mcpServers config block"
+}

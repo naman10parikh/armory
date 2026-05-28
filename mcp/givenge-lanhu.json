@@ -1,0 +1,7 @@
+{
+  "name": "givenge-lanhu",
+  "description": "MCP server for accessing Lanhu design projects, mockups, and Axure prototypes via a Chrome extension bridge.",
+  "source_repo": "givenge/lanhu-mcp",
+  "source_url": "https://github.com/givenge/lanhu-mcp",
+  "install": "npx -y lanhu-mcp"
+}

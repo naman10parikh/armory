@@ -1,0 +1,7 @@
+{
+  "name": "xiaojiou176-apple-notes-snapshot",
+  "description": "Local-first scheduled backup and health monitoring system for Apple Notes on macOS with a read-only MCP surface.",
+  "source_repo": "xiaojiou176-open/apple-notes-snapshot",
+  "source_url": "https://github.com/xiaojiou176-open/apple-notes-snapshot",
+  "install": "# git clone --depth 1 https://github.com/xiaojiou176-open/apple-notes-snapshot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hpohlmann-home-assistant",
+  "description": "Enables direct control of smart home devices through Home Assistant API, allowing natural language searching of entities and management of device states, light colors, and brightness levels.",
+  "source_repo": "hpohlmann/home-assistant-mcp",
+  "source_url": "https://github.com/hpohlmann/home-assistant-mcp",
+  "install": "npx -y home-assistant-mcp"
+}

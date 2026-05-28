@@ -1,0 +1,7 @@
+{
+  "name": "cicoub13-scribe",
+  "description": "Route bulk file operations and documentation generation from Claude to cheaper OpenAI-compatible LLMs, reducing token costs by 60–90% on routine tasks.",
+  "source_repo": "cicoub13/scribe-mcp",
+  "source_url": "https://github.com/cicoub13/scribe-mcp",
+  "install": "npx -y scribe-mcp"
+}

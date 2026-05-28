@@ -1,0 +1,7 @@
+{
+  "name": "csoai-meok-cra-classifier",
+  "description": "Classify products under EU Cyber Resilience Act (CRA) categories, audit against security requirements, generate Annex VIII documentation, and produce signed compliance certificates.",
+  "source_repo": "csoai-org/meok-cra-annex-iv-classifier-mcp",
+  "source_url": "https://github.com/csoai-org/meok-cra-annex-iv-classifier-mcp",
+  "install": "npx -y meok-cra-annex-iv-classifier-mcp"
+}

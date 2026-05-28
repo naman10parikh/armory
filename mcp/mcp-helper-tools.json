@@ -1,0 +1,7 @@
+{
+  "name": "mcp-helper-tools",
+  "description": "Mcp Helper Tools MCP server listed on mcp.so.",
+  "source_repo": "MissionSquad/mcp-helper-tools",
+  "source_url": "https://mcp.so/server/mcp-helper-tools/MissionSquad",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-helper-tools/MissionSquad\n# See source for mcpServers config block"
+}

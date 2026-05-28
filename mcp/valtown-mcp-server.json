@@ -1,0 +1,7 @@
+{
+  "name": "valtown-mcp-server",
+  "description": "Valtown Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "PrashamTrivedi/valtown-mcp-server",
+  "source_url": "https://mcp.so/server/valtown-mcp-server/PrashamTrivedi",
+  "install": "npx -y valtown-mcp-server"
+}

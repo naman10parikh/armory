@@ -1,0 +1,7 @@
+{
+  "name": "cynco-tech-accounting",
+  "description": "AI-native accounting tool providing 52 tools across 14 domains for financial data management.",
+  "source_repo": "cynco-labs/cynco-mcp",
+  "source_url": "https://github.com/cynco-labs/cynco-mcp",
+  "install": "npx -y cynco-mcp"
+}

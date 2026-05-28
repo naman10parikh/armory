@@ -1,0 +1,7 @@
+{
+  "name": "gh-jejass-163-mail",
+  "description": "Automates NetEase 163 Mail email sending including large attachments up to 500MB through browser automation.",
+  "source_repo": "jejass/163mail-mcp",
+  "source_url": "https://github.com/jejass/163mail-mcp",
+  "install": "npx -y 163mail-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "edutechenterprises2023-ops-kali-tools",
+  "description": "Provides containerized access to Kali Linux penetration testing tools including nmap, sqlmap, metasploit-framework, gobuster, nikto, and hydra for security assessments.",
+  "source_repo": "edutechenterprises2023-ops/kali-mcp",
+  "source_url": "https://github.com/edutechenterprises2023-ops/kali-mcp",
+  "install": "npx -y kali-mcp"
+}

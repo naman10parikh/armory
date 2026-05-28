@@ -1,0 +1,7 @@
+{
+  "name": "mksglu-context-mode",
+  "description": "Reduces context consumption by 98% through sandboxed code execution and SQLite-based session continuity with FTS5 search.",
+  "source_repo": "mksglu/context-mode",
+  "source_url": "https://github.com/mksglu/context-mode",
+  "install": "# git clone --depth 1 https://github.com/mksglu/context-mode\n# See source for mcpServers config block"
+}

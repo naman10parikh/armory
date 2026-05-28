@@ -1,0 +1,7 @@
+{
+  "name": "avr-9-forge-os",
+  "description": "Converts web pages into MCP tools using LLM analysis, optimizes server performance via Bayesian tuning, and auto-generates composite tools from usage patterns.",
+  "source_repo": "avr-9/mcphackathon",
+  "source_url": "https://github.com/avr-9/mcphackathon",
+  "install": "# git clone --depth 1 https://github.com/avr-9/mcphackathon\n# See source for mcpServers config block"
+}

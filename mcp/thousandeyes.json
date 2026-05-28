@@ -1,0 +1,7 @@
+{
+  "name": "thousandeyes",
+  "description": "Official ThousandEyes (Cisco) MCP server providing network intelligence including outage detection, anomaly analysis, alerts, and test management.",
+  "source_repo": "",
+  "source_url": "https://docs.thousandeyes.com/product-documentation/integration-guides/thousandeyes-mcp-server",
+  "install": "# git clone --depth 1 https://docs.thousandeyes.com/product-documentation/integration-guides/thousandeyes-mcp-server\n# See source for mcpServers config block"
+}

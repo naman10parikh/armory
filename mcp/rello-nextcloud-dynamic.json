@@ -1,0 +1,7 @@
+{
+  "name": "rello-nextcloud-dynamic",
+  "description": "Dynamically generates MCP tools from a Nextcloud instance's installed apps at startup via its OpenAPI specifications.",
+  "source_repo": "rello/nextcloud-dynamic-mcp-server",
+  "source_url": "https://github.com/rello/nextcloud-dynamic-mcp-server",
+  "install": "npx -y nextcloud-dynamic-mcp-server"
+}

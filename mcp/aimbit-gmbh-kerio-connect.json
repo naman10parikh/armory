@@ -1,0 +1,7 @@
+{
+  "name": "aimbit-gmbh-kerio-connect",
+  "description": "Integrates with Kerio Connect groupware to manage emails, calendar events, contacts, tasks, and notes through natural language operations including search, batch processing, and folder organization.",
+  "source_repo": "aimbitgmbh/kerio-connect-mcp",
+  "source_url": "https://github.com/aimbitgmbh/kerio-connect-mcp",
+  "install": "npx -y kerio-connect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "demost",
+  "description": "Reserves subdomains on demo.st and deploys static sites from zip uploads for sharing vibe-coded prototypes under clean URLs.",
+  "source_repo": "",
+  "source_url": "https://demo.st",
+  "install": "# git clone --depth 1 https://demo.st\n# See source for mcpServers config block"
+}

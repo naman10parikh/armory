@@ -1,0 +1,7 @@
+{
+  "name": "github30-note-com",
+  "description": "Integrates with note.com Japanese blogging platform for creating, editing, and retrieving posts",
+  "source_repo": "github30/note-mcp-server",
+  "source_url": "https://github.com/github30/note-mcp-server",
+  "install": "npx -y note-mcp-server"
+}

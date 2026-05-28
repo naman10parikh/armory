@@ -1,0 +1,7 @@
+{
+  "name": "cloudinary-analysis",
+  "description": "AI-powered content analysis for automatic tagging, moderation, safety checks, object detection, and recognition.",
+  "source_repo": "",
+  "source_url": "https://cloudinary.com",
+  "install": "# git clone --depth 1 https://cloudinary.com\n# See source for mcpServers config block"
+}

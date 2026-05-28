@@ -1,0 +1,7 @@
+{
+  "name": "webpage-screenshot",
+  "description": "Captures visual screenshots of web pages using Puppeteer with support for authenticated workflows, manual login sessions with cookie persistence, and browser session management for monitoring protected applications and automated testing.",
+  "source_repo": "ananddtyagi/webpage-screenshot-mcp",
+  "source_url": "https://github.com/ananddtyagi/webpage-screenshot-mcp",
+  "install": "npx -y webpage-screenshot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ryuxik-gametheory",
+  "description": "Provides game theory mathematical primitives for negotiation, auctions, and mechanism design in AI agent workflows.",
+  "source_repo": "ryuxik/gametheory-mcp",
+  "source_url": "https://github.com/ryuxik/gametheory-mcp",
+  "install": "npx -y gametheory-mcp"
+}

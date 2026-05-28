@@ -1,0 +1,7 @@
+{
+  "name": "aruxojuyu665-manus",
+  "description": "MCP server integrating with the Manus.im AI automation platform for task management and browser operations.",
+  "source_repo": "aruxojuyu665/manus-mcp",
+  "source_url": "https://github.com/aruxojuyu665/manus-mcp",
+  "install": "npx -y manus-mcp"
+}

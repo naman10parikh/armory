@@ -1,0 +1,7 @@
+{
+  "name": "databricks",
+  "description": "Integrates with Databricks services to enable interaction with clusters, jobs, notebooks, DBFS, and SQL workspaces via tools that wrap the Databricks REST API.",
+  "source_repo": "justtryai/databricks-mcp-server",
+  "source_url": "https://github.com/justtryai/databricks-mcp-server",
+  "install": "npx -y databricks-mcp-server"
+}

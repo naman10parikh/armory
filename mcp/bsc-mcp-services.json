@@ -1,0 +1,7 @@
+{
+  "name": "bsc-mcp-services",
+  "description": "BSC_MCP_SERVICES MCP server listed on mcp.so.",
+  "source_repo": "ArcReactor9/BSC_MCP_SERVICES",
+  "source_url": "https://mcp.so/server/BSC_MCP_SERVICES/ArcReactor9",
+  "install": "# git clone --depth 1 https://mcp.so/server/BSC_MCP_SERVICES/ArcReactor9\n# See source for mcpServers config block"
+}

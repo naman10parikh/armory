@@ -1,0 +1,7 @@
+{
+  "name": "deepsuthar496-alpha-vantage",
+  "description": "Provides real-time financial data retrieval from Alpha Vantage, enabling developers and analysts to access comprehensive stock prices, market indicators, forex rates, and cryptocurrency information with instant, structured results.",
+  "source_repo": "deepsuthar496/alpha-ventage-mcp",
+  "source_url": "https://github.com/deepsuthar496/alpha-ventage-mcp",
+  "install": "npx -y alpha-ventage-mcp"
+}

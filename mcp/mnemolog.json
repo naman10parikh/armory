@@ -1,0 +1,7 @@
+{
+  "name": "mnemolog",
+  "description": "Hosted memory and agent control plane for durable conversations, jobs, and operations.",
+  "source_repo": "",
+  "source_url": "https://mnemolog.com/api/mcp",
+  "install": "# git clone --depth 1 https://mnemolog.com/api/mcp\n# See source for mcpServers config block"
+}

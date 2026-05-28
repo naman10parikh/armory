@@ -1,0 +1,7 @@
+{
+  "name": "1panel-mcp",
+  "description": "1panel Mcp MCP server listed on mcp.so.",
+  "source_repo": "ruibaby/1panel-mcp",
+  "source_url": "https://mcp.so/server/1panel-mcp/ruibaby",
+  "install": "npx -y 1panel-mcp"
+}

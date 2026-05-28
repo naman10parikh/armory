@@ -1,0 +1,7 @@
+{
+  "name": "mcp-virtual-fs",
+  "description": "An MCP server that provides AI agents with a persistent, PostgreSQL-backed virtual filesystem, supporting session-isolated file operations, cross-session shared stores, and glob/grep search.",
+  "source_repo": "lu-zhengda/mcp-virtual-fs",
+  "source_url": "https://github.com/lu-zhengda/mcp-virtual-fs",
+  "install": "# git clone --depth 1 https://github.com/lu-zhengda/mcp-virtual-fs\n# See source for mcpServers config block"
+}

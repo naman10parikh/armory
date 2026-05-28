@@ -1,0 +1,7 @@
+{
+  "name": "carterlasalle-system-information",
+  "description": "Gathers detailed development environment data to enhance context-aware assistance in code editors, enabling tailored coding suggestions and environment-specific troubleshooting.",
+  "source_repo": "carterlasalle/system_information_mcp",
+  "source_url": "https://github.com/carterlasalle/system_information_mcp",
+  "install": "npx -y system_information_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kvm-control",
+  "description": "Provides JSON-RPC control over KVM virtual machines through libvirt, enabling VM lifecycle management, VNC display access, and Fedora CoreOS deployment with Ignition configuration for automated infrastructure management.",
+  "source_repo": "steveydevey/kvm-mcp",
+  "source_url": "https://github.com/steveydevey/kvm-mcp",
+  "install": "npx -y kvm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-perplexity-api",
+  "description": "Mcp Perplexity Api MCP server listed on mcp.so.",
+  "source_repo": "sibbl/mcp-perplexity-api",
+  "source_url": "https://mcp.so/server/mcp-perplexity-api/sibbl",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-perplexity-api/sibbl\n# See source for mcpServers config block"
+}

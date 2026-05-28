@@ -1,0 +1,7 @@
+{
+  "name": "pathintegral-institute-science",
+  "description": "Unified command-line launcher for discovering and running scientific research MCP servers from the Path Integral Institute's collection, using uvx to dynamically install and execute servers from local directories or remote Git branches with automatic dependency handling.",
+  "source_repo": "pathintegral-institute/mcp.science",
+  "source_url": "https://github.com/pathintegral-institute/mcp.science",
+  "install": "# git clone --depth 1 https://github.com/pathintegral-institute/mcp.science\n# See source for mcpServers config block"
+}

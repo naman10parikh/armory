@@ -1,0 +1,7 @@
+{
+  "name": "nolas-shadow-agent1st-ads-mcp",
+  "description": "Meta (Facebook/Instagram) and TikTok ad campaign management for AI agents. One tool call creates a complete campaign — targeting, creative, budget, and ad. Requires license from [agent1st.io/ads](https://agent1st.io/ads/).",
+  "source_repo": "Nolas-Shadow/agent1st-ads-mcp",
+  "source_url": "https://github.com/Nolas-Shadow/agent1st-ads-mcp",
+  "install": "npx -y agent1st-ads-mcp"
+}

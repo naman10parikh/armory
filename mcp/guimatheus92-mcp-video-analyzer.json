@@ -1,0 +1,7 @@
+{
+  "name": "guimatheus92-mcp-video-analyzer",
+  "description": "MCP server for video analysis — extracts transcripts, key frames, OCR text, and annotated timelines from video URLs. Supports Loom and direct video files (.mp4, .webm). Zero auth required.",
+  "source_repo": "guimatheus92/mcp-video-analyzer",
+  "source_url": "https://github.com/guimatheus92/mcp-video-analyzer",
+  "install": "# git clone --depth 1 https://github.com/guimatheus92/mcp-video-analyzer\n# See source for mcpServers config block"
+}

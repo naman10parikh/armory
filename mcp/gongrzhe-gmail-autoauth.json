@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-gmail-autoauth",
+  "description": "Integrates with Gmail to enable email management tasks like sending, reading, searching, and labeling through natural language commands.",
+  "source_repo": "gongrzhe/gmail-mcp-server",
+  "source_url": "https://github.com/gongrzhe/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

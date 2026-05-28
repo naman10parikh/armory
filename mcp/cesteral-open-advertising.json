@@ -1,0 +1,7 @@
+{
+  "name": "cesteral-open-advertising",
+  "description": "Manage 13 advertising platforms (Google Ads, Meta, TikTok, LinkedIn, The Trade Desk, and more) from AI agents.",
+  "source_repo": "cesteral/mcp-open-advertising",
+  "source_url": "https://github.com/cesteral/mcp-open-advertising",
+  "install": "# git clone --depth 1 https://github.com/cesteral/mcp-open-advertising\n# See source for mcpServers config block"
+}

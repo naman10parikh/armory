@@ -1,0 +1,7 @@
+{
+  "name": "gh-sidneybissoli-ibge-br",
+  "description": "Brazilian IBGE statistical data — locations, census, demographics, and geographic boundaries.",
+  "source_repo": "sidneybissoli/ibge-br-mcp",
+  "source_url": "https://github.com/sidneybissoli/ibge-br-mcp",
+  "install": "npx -y ibge-br-mcp"
+}

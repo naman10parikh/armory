@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-ipify",
+  "description": "ipify public IP address lookup: returns the caller's IPv4 or IPv6 address via the pipeworx.io gateway.",
+  "source_repo": "pipeworx-io/mcp-ipify",
+  "source_url": "https://github.com/pipeworx-io/mcp-ipify",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ipify\n# See source for mcpServers config block"
+}

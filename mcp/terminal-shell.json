@@ -1,0 +1,7 @@
+{
+  "name": "terminal-shell",
+  "description": "Enables AI to execute shell commands in containerized environments through a lightweight server with configurable authentication and SSE transport for seamless terminal interaction.",
+  "source_repo": "mark-oori/mcpserve",
+  "source_url": "https://github.com/mark-oori/mcpserve",
+  "install": "# git clone --depth 1 https://github.com/mark-oori/mcpserve\n# See source for mcpServers config block"
+}

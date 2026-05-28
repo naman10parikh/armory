@@ -1,0 +1,7 @@
+{
+  "name": "lileeei-git-tools",
+  "description": "Integrates with Git to enable version control operations, repository management, and change tracking for collaborative development environments.",
+  "source_repo": "lileeei/mcp-git-tools",
+  "source_url": "https://github.com/lileeei/mcp-git-tools",
+  "install": "# git clone --depth 1 https://github.com/lileeei/mcp-git-tools\n# See source for mcpServers config block"
+}

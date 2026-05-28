@@ -1,0 +1,7 @@
+{
+  "name": "kynlos-obsidian",
+  "description": "Integrates with Obsidian vaults to save coding conversations, code snippets, and knowledge notes with automatic cross-referencing, full-text search, and intelligent organization by tags and programming languages for building persistent development knowledge bases.",
+  "source_repo": "kynlos/obsidian-mcp",
+  "source_url": "https://github.com/kynlos/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

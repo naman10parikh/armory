@@ -1,0 +1,7 @@
+{
+  "name": "olyport-cochrane",
+  "description": "Systematic medical reviews and evidence-based healthcare research from Cochrane.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/cochrane/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/cochrane/mcp\n# See source for mcpServers config block"
+}

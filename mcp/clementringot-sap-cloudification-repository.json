@@ -1,0 +1,7 @@
+{
+  "name": "clementringot-sap-cloudification-repository",
+  "description": "Searches SAP released objects, APIs, and migration successors with Clean Core Level filtering for ABAP Cloud migration planning.",
+  "source_repo": "clementringot/sap-released-objects-server",
+  "source_url": "https://github.com/clementringot/sap-released-objects-server",
+  "install": "# git clone --depth 1 https://github.com/clementringot/sap-released-objects-server\n# See source for mcpServers config block"
+}

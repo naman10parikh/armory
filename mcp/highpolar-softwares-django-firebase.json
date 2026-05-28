@@ -1,0 +1,7 @@
+{
+  "name": "highpolar-softwares-django-firebase",
+  "description": "Integrates Django applications with Firebase services, providing tools for user authentication, Firestore database operations, and Cloud Storage file management through Firebase Admin SDK capabilities.",
+  "source_repo": "highpolar-softwares/django-firebase-mcp",
+  "source_url": "https://github.com/highpolar-softwares/django-firebase-mcp",
+  "install": "npx -y django-firebase-mcp"
+}

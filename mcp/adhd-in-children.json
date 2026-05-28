@@ -1,0 +1,7 @@
+{
+  "name": "adhd-in-children",
+  "description": "Provides searchable access to clinician-reviewed articles on ADHD in children.",
+  "source_repo": "",
+  "source_url": "https://childadhd.ai",
+  "install": "# git clone --depth 1 https://childadhd.ai\n# See source for mcpServers config block"
+}

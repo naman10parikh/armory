@@ -1,0 +1,7 @@
+{
+  "name": "sirusb-samtools",
+  "description": "Provides a standardized interface for working with SAM/BAM/CRAM files.",
+  "source_repo": "sirusb/samtools_mcp",
+  "source_url": "https://github.com/sirusb/samtools_mcp",
+  "install": "npx -y samtools_mcp"
+}

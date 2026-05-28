@@ -1,0 +1,7 @@
+{
+  "name": "gh-neptun2000-heor-agent",
+  "description": "Automates health economics and outcomes research including cost-effectiveness modeling and HTA dossier preparation.",
+  "source_repo": "neptun2000/heor-agent-mcp",
+  "source_url": "https://github.com/neptun2000/heor-agent-mcp",
+  "install": "npx -y heor-agent-mcp"
+}

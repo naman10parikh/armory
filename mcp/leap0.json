@@ -1,0 +1,7 @@
+{
+  "name": "leap0",
+  "description": "Manage Leap0 sandboxes with tools for lifecycle, filesystem access, and process execution.",
+  "source_repo": "leap0-dev/leap0-mcp",
+  "source_url": "https://github.com/leap0-dev/leap0-mcp",
+  "install": "npx -y leap0-mcp"
+}

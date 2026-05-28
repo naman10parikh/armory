@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-langflow-document-qa",
+  "description": "Connects Claude Desktop to a Langflow-powered document question-answering system through a query_docs tool that processes document-based questions using a Mistral model.",
+  "source_repo": "gongrzhe/langflow-doc-qa-server",
+  "source_url": "https://github.com/gongrzhe/langflow-doc-qa-server",
+  "install": "# git clone --depth 1 https://github.com/gongrzhe/langflow-doc-qa-server\n# See source for mcpServers config block"
+}

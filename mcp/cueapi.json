@@ -1,0 +1,7 @@
+{
+  "name": "cueapi",
+  "description": "Scheduling and accountability API for AI agents with task delivery and outcome verification.",
+  "source_repo": "cueapi/cueapi-mcp",
+  "source_url": "https://github.com/cueapi/cueapi-mcp",
+  "install": "npx -y cueapi-mcp"
+}

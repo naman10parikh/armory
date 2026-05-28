@@ -1,0 +1,7 @@
+{
+  "name": "remote-command",
+  "description": "Enables direct execution of shell commands on the host machine with cross-platform compatibility, automatically handling OS-specific differences for system administration, development, and automation tasks.",
+  "source_repo": "deepsuthar496/remote-command-mcp",
+  "source_url": "https://github.com/deepsuthar496/remote-command-mcp",
+  "install": "npx -y remote-command-mcp"
+}

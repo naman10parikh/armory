@@ -1,0 +1,7 @@
+{
+  "name": "knowing",
+  "description": "Content-addressed code graph for AI agents with tools for impact analysis, dependency tracing, and context generation.",
+  "source_repo": "blackwell-systems/knowing",
+  "source_url": "https://github.com/blackwell-systems/knowing",
+  "install": "# git clone --depth 1 https://github.com/blackwell-systems/knowing\n# See source for mcpServers config block"
+}

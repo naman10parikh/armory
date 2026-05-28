@@ -1,0 +1,7 @@
+{
+  "name": "matthewdailey-rime-tts",
+  "description": "Text-to-speech server that converts text into spoken audio through Rime's API, streaming with optimized buffering for minimal latency between generation and playback.",
+  "source_repo": "matthewdailey/rime-mcp",
+  "source_url": "https://github.com/matthewdailey/rime-mcp",
+  "install": "npx -y rime-mcp"
+}

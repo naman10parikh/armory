@@ -1,0 +1,7 @@
+{
+  "name": "gt732-nautobot",
+  "description": "Integrates with Nautobot network infrastructure management platform, enabling querying and interaction with network data through tools for retrieving information about devices, interfaces, circuits, IP addresses, and locations.",
+  "source_repo": "gt732/nautobot-app-mcp",
+  "source_url": "https://github.com/gt732/nautobot-app-mcp",
+  "install": "npx -y nautobot-app-mcp"
+}

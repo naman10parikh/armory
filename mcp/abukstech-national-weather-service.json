@@ -1,0 +1,7 @@
+{
+  "name": "abukstech-national-weather-service",
+  "description": "Integrates with the National Weather Service API to provide real-time weather alerts by state and detailed forecasts by geographic coordinates for US locations.",
+  "source_repo": "abukstech/mcp-server-weather",
+  "source_url": "https://github.com/abukstech/mcp-server-weather",
+  "install": "# git clone --depth 1 https://github.com/abukstech/mcp-server-weather\n# See source for mcpServers config block"
+}

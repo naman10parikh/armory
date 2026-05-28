@@ -1,0 +1,7 @@
+{
+  "name": "tvwizard",
+  "description": "Controls Android TV devices through tools for key presses, app management, playback, and volume.",
+  "source_repo": "fizzious1/tvwizard-mcp",
+  "source_url": "https://github.com/fizzious1/tvwizard-mcp",
+  "install": "npx -y tvwizard-mcp"
+}

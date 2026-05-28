@@ -1,0 +1,7 @@
+{
+  "name": "googlarz-signal-mcp",
+  "description": "Full Signal messenger MCP server and CLI. Send/receive messages, manage groups and contacts, search history, handle attachments and reactions. Runs locally via signal-cli — no third-party servers.",
+  "source_repo": "googlarz/signal-mcp",
+  "source_url": "https://github.com/googlarz/signal-mcp",
+  "install": "npx -y signal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "filevine-mcp",
+  "description": "MCP server for Filevine that enables natural language interaction with legal case management, including projects, contacts, tasks, documents, billing, and more via Claude Desktop.",
+  "source_repo": "RosenAdvertising/filevine-mcp",
+  "source_url": "https://github.com/RosenAdvertising/filevine-mcp",
+  "install": "npx -y filevine-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "0compactmem",
+  "description": "Zero context compaction for Claude Code & LLM agents. Persistent memory powered by OS primitives (demand paging, kswapd eviction, mlock pinning). Single SQLite file, MCP-native, multi-agent shared.",
+  "source_repo": "soolaugust/0CompactMem",
+  "source_url": "https://github.com/soolaugust/0CompactMem",
+  "install": "# git clone --depth 1 https://github.com/soolaugust/0CompactMem\n# See source for mcpServers config block"
+}

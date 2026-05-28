@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-base-price-oracle",
+  "description": "Retrieves real-time token prices on Base from on-chain DEX pools using pure blockchain reads.",
+  "source_repo": "lordbasilaiassistant-sudo/base-price-oracle-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-price-oracle-mcp",
+  "install": "npx -y base-price-oracle-mcp"
+}

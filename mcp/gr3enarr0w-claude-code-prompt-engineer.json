@@ -1,0 +1,7 @@
+{
+  "name": "gr3enarr0w-claude-code-prompt-engineer",
+  "description": "Automatically detects programming languages and task types from natural language requests, then generates optimized, structured prompts with interactive refinement capabilities for enhanced code development workflows.",
+  "source_repo": "gr3enarr0w/cc_peng_mcp",
+  "source_url": "https://github.com/gr3enarr0w/cc_peng_mcp",
+  "install": "npx -y cc_peng_mcp"
+}

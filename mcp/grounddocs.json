@@ -1,0 +1,7 @@
+{
+  "name": "grounddocs",
+  "description": "Provides source-verified documentation lookup for Python libraries and Kubernetes resources, retrieving accurate, version-specific information from authoritative sources rather than potentially hallucinated content.",
+  "source_repo": "grounddocs/grounddocs",
+  "source_url": "https://github.com/grounddocs/grounddocs",
+  "install": "# git clone --depth 1 https://github.com/grounddocs/grounddocs\n# See source for mcpServers config block"
+}

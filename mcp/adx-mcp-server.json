@@ -1,0 +1,7 @@
+{
+  "name": "adx-mcp-server",
+  "description": "Adx Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "pab1it0/adx-mcp-server",
+  "source_url": "https://mcp.so/server/adx-mcp-server/pab1it0",
+  "install": "npx -y adx-mcp-server"
+}

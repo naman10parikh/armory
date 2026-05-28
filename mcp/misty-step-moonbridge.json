@@ -1,0 +1,7 @@
+{
+  "name": "misty-step-moonbridge",
+  "description": "Spawns Kimi K2.5 agents for parallel execution of up to 10 AI approaches simultaneously, enabling cost-effective exploration of multiple solution strategies with structured responses and timing data.",
+  "source_repo": "misty-step/moonbridge",
+  "source_url": "https://github.com/misty-step/moonbridge",
+  "install": "# git clone --depth 1 https://github.com/misty-step/moonbridge\n# See source for mcpServers config block"
+}

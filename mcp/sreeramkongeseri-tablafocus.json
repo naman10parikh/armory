@@ -1,0 +1,7 @@
+{
+  "name": "sreeramkongeseri-tablafocus",
+  "description": "Tabla learning tools covering glossary, taals, composition, practice coaching, and certification prep.",
+  "source_repo": "sreeramkongeseri/tablafocusmcp",
+  "source_url": "https://github.com/sreeramkongeseri/tablafocusmcp",
+  "install": "# git clone --depth 1 https://github.com/sreeramkongeseri/tablafocusmcp\n# See source for mcpServers config block"
+}

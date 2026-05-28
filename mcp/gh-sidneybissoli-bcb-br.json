@@ -1,0 +1,7 @@
+{
+  "name": "gh-sidneybissoli-bcb-br",
+  "description": "Brazilian Central Bank time series data — economic indicators, exchange rates, and financial data.",
+  "source_repo": "sidneybissoli/bcb-br-mcp",
+  "source_url": "https://github.com/sidneybissoli/bcb-br-mcp",
+  "install": "npx -y bcb-br-mcp"
+}

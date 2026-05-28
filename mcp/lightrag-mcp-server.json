@@ -1,0 +1,7 @@
+{
+  "name": "lightrag-mcp-server",
+  "description": "Enables AI assistants to manage documents, query knowledge graphs, and perform retrieval-augmented generation using LightRAG with 30 tools and multiple query modes.",
+  "source_repo": "lalitsuryan/lightragmcp",
+  "source_url": "https://github.com/lalitsuryan/lightragmcp",
+  "install": "# git clone --depth 1 https://github.com/lalitsuryan/lightragmcp\n# See source for mcpServers config block"
+}

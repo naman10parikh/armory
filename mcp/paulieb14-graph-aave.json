@@ -1,0 +1,7 @@
+{
+  "name": "paulieb14-graph-aave",
+  "description": "Query AAVE V2/V3 lending and governance data across 7 chains via The Graph subgraphs.",
+  "source_repo": "paulieb14/graph-aave-mcp",
+  "source_url": "https://github.com/paulieb14/graph-aave-mcp",
+  "install": "npx -y graph-aave-mcp"
+}

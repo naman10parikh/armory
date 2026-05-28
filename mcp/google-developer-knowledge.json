@@ -1,0 +1,7 @@
+{
+  "name": "google-developer-knowledge",
+  "description": "Google Developer Knowledge MCP server providing AI agents access to Google's developer documentation and technical knowledge base.",
+  "source_repo": "",
+  "source_url": "https://developerknowledge.googleapis.com/mcp",
+  "install": "# git clone --depth 1 https://developerknowledge.googleapis.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thinking-tool",
+  "description": "Provides a dedicated 'think' tool for externalizing complex reasoning processes without performing any actual operations, creating a working memory space for step-by-step problem solving.",
+  "source_repo": "piotrpalek/mcp-thinking-tool",
+  "source_url": "https://github.com/piotrpalek/mcp-thinking-tool",
+  "install": "# git clone --depth 1 https://github.com/piotrpalek/mcp-thinking-tool\n# See source for mcpServers config block"
+}

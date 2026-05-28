@@ -1,0 +1,7 @@
+{
+  "name": "sourjya-tracepulse",
+  "description": "Monitors dev server runtime output and parses errors into structured events for AI coding agents.",
+  "source_repo": "sourjya/tracepulse",
+  "source_url": "https://github.com/sourjya/tracepulse",
+  "install": "# git clone --depth 1 https://github.com/sourjya/tracepulse\n# See source for mcpServers config block"
+}

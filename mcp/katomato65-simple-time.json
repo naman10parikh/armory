@@ -1,0 +1,7 @@
+{
+  "name": "katomato65-simple-time",
+  "description": "Provides current date and time information in configurable formats.",
+  "source_repo": "katomato65/timeservice-mcp",
+  "source_url": "https://github.com/katomato65/timeservice-mcp",
+  "install": "npx -y timeservice-mcp"
+}

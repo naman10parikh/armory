@@ -1,0 +1,7 @@
+{
+  "name": "a21071-postgres",
+  "description": "Provides type-safe PostgreSQL database integration for user data management through robust CRUD operations with TypeScript and Prisma, enabling efficient and validated database interactions.",
+  "source_repo": "a21071/mcp-postgres",
+  "source_url": "https://github.com/a21071/mcp-postgres",
+  "install": "# git clone --depth 1 https://github.com/a21071/mcp-postgres\n# See source for mcpServers config block"
+}

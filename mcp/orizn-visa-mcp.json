@@ -1,0 +1,7 @@
+{
+  "name": "orizn-visa-mcp",
+  "description": "Check visa requirements for 39,585 passport-destination pairs in 15 languages. Returns visa type, required documents, application process, and travel tips from 136 official government sources. Free quick checks without API key.",
+  "source_repo": "MattJeff/orizn-mcp-server",
+  "source_url": "https://github.com/MattJeff/orizn-mcp-server",
+  "install": "npx -y orizn-mcp-server"
+}

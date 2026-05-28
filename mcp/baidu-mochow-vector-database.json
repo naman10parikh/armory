@@ -1,0 +1,7 @@
+{
+  "name": "baidu-mochow-vector-database",
+  "description": "Provides direct access to Mochow vector database capabilities for managing databases, tables, and performing vector similarity and full-text searches with filtering options.",
+  "source_repo": "baidu/mochow-mcp-server-python",
+  "source_url": "https://github.com/baidu/mochow-mcp-server-python",
+  "install": "# git clone --depth 1 https://github.com/baidu/mochow-mcp-server-python\n# See source for mcpServers config block"
+}

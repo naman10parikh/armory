@@ -1,0 +1,7 @@
+{
+  "name": "tixuz-openemis-pro",
+  "description": "Query and modify OpenEMIS v5 education management data via natural language with read and write tools.",
+  "source_repo": "tixuz/openemis-mcp-pro",
+  "source_url": "https://github.com/tixuz/openemis-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/tixuz/openemis-mcp-pro\n# See source for mcpServers config block"
+}

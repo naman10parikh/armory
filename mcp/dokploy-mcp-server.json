@@ -1,0 +1,7 @@
+{
+  "name": "dokploy-mcp-server",
+  "description": "An MCP server that enables AI assistants to manage Dokploy infrastructure (Docker, projects, applications, databases, etc.) through natural language, acting as a universal translator between AI and cloud systems.",
+  "source_repo": "firebaseStudio/dokploy-mcp",
+  "source_url": "https://github.com/firebaseStudio/dokploy-mcp",
+  "install": "npx -y dokploy-mcp"
+}

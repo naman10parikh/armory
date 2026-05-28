@@ -1,0 +1,7 @@
+{
+  "name": "pibblokto-cert-manager-mcp-server",
+  "description": "/🐧 ☁️ - mcp server for [cert-manager](https://github.com/cert-manager/cert-manager) management and troubleshooting",
+  "source_repo": "pibblokto/cert-manager-mcp-server",
+  "source_url": "https://github.com/pibblokto/cert-manager-mcp-server",
+  "install": "npx -y cert-manager-mcp-server"
+}

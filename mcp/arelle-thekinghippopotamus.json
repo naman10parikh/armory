@@ -1,0 +1,7 @@
+{
+  "name": "arelle-thekinghippopotamus",
+  "description": "Processes and analyzes XBRL financial filings via the Arelle XBRL processor with SEC EDGAR integration.",
+  "source_repo": "thekinghippopotamus/arelle-mcp",
+  "source_url": "https://github.com/thekinghippopotamus/arelle-mcp",
+  "install": "npx -y arelle-mcp"
+}

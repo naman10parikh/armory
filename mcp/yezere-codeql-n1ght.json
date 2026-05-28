@@ -1,0 +1,7 @@
+{
+  "name": "yezere-codeql-n1ght",
+  "description": "Integrates with CodeQL N1ght tool to provide automated Java application security analysis through environment setup, database creation from JAR/WAR/ZIP files, vulnerability scanning with customizable query packs, and direct command execution with parallel processing support.",
+  "source_repo": "yezere/codeql_n1ght_mcp_server",
+  "source_url": "https://github.com/yezere/codeql_n1ght_mcp_server",
+  "install": "npx -y codeql_n1ght_mcp_server"
+}

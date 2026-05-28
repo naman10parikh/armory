@@ -1,0 +1,7 @@
+{
+  "name": "littlesis-api-server",
+  "description": "Provide access to the LittleSis API to track corporate power and accountability. Enable querying and exploring relationships and entities related to corporate influence. Facilitate integration of corporate data into LLM applications for enhanced context and insights.",
+  "source_repo": "code-rabi/littlesis-mcp",
+  "source_url": "https://github.com/code-rabi/littlesis-mcp",
+  "install": "npx -y littlesis-mcp"
+}

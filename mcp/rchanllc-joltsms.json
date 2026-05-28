@@ -1,0 +1,7 @@
+{
+  "name": "rchanllc-joltsms",
+  "description": "SMS messaging tools for sending, receiving, and managing text messages via JoltSMS API.",
+  "source_repo": "rchanllc/joltsms-mcp-server",
+  "source_url": "https://github.com/rchanllc/joltsms-mcp-server",
+  "install": "npx -y joltsms-mcp-server"
+}

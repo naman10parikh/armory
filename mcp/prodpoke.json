@@ -1,0 +1,7 @@
+{
+  "name": "prodpoke",
+  "description": "AI QA tester that scans websites for bugs, SEO issues, performance, and accessibility via chat.",
+  "source_repo": "prodpoke/prodpoke-mcp",
+  "source_url": "https://github.com/prodpoke/prodpoke-mcp",
+  "install": "npx -y prodpoke-mcp"
+}

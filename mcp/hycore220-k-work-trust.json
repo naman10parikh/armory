@@ -1,0 +1,7 @@
+{
+  "name": "hycore220-k-work-trust",
+  "description": "Korean business record validation and workflow safety gates for AI agents handling vendor onboarding, payment release, and CRM updates.",
+  "source_repo": "hycore220/k-work-trust-public-demo",
+  "source_url": "https://github.com/hycore220/k-work-trust-public-demo",
+  "install": "# git clone --depth 1 https://github.com/hycore220/k-work-trust-public-demo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "compeller",
+  "description": "Generate brand intelligence reports and competitive analysis using Compeller's AI research platform.",
+  "source_repo": "yakoob/compeller.ai",
+  "source_url": "https://github.com/yakoob/compeller.ai",
+  "install": "# git clone --depth 1 https://github.com/yakoob/compeller.ai\n# See source for mcpServers config block"
+}

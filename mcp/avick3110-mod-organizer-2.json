@@ -1,0 +1,7 @@
+{
+  "name": "avick3110-mod-organizer-2",
+  "description": "Connects AI assistants to Mod Organizer 2 for managing Skyrim SE mods with 29 specialized tools.",
+  "source_repo": "avick3110/claude_mo2",
+  "source_url": "https://github.com/avick3110/claude_mo2",
+  "install": "# git clone --depth 1 https://github.com/avick3110/claude_mo2\n# See source for mcpServers config block"
+}

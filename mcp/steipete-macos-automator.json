@@ -1,0 +1,7 @@
+{
+  "name": "steipete-macos-automator",
+  "description": "Automates macOS tasks through AppleScript and JavaScript for Automation with a rich library of pre-defined scripts for application control, file operations, and system interactions.",
+  "source_repo": "steipete/macos-automator-mcp",
+  "source_url": "https://github.com/steipete/macos-automator-mcp",
+  "install": "npx -y macos-automator-mcp"
+}

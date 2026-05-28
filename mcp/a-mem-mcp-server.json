@@ -1,0 +1,7 @@
+{
+  "name": "a-mem-mcp-server",
+  "description": "A Mem Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Titan-co/a-mem-mcp-server",
+  "source_url": "https://mcp.so/server/a-mem-mcp-server/Titan-co",
+  "install": "npx -y a-mem-mcp-server"
+}

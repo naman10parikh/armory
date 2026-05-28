@@ -1,0 +1,7 @@
+{
+  "name": "midhun-edv-magento-coding-standards",
+  "description": "Validates Magento 2 code against 83+ coding standard rules, 150+ discouraged functions, and theme-specific conventions for Hyva, Luma, Breeze, and Porto.",
+  "source_repo": "midhun-edv/magento-coding-standard-mcp",
+  "source_url": "https://github.com/midhun-edv/magento-coding-standard-mcp",
+  "install": "npx -y magento-coding-standard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sjs-neos-mcp",
+  "description": "Core MCP server implementation for Neos CMS 9.x, enabling interaction with Neos sites through tools and resources.",
+  "source_repo": "sjsone/SJS.Neos.MCP",
+  "source_url": "https://github.com/sjsone/SJS.Neos.MCP",
+  "install": "# git clone --depth 1 https://github.com/sjsone/SJS.Neos.MCP\n# See source for mcpServers config block"
+}

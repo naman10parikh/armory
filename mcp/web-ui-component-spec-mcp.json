@@ -1,0 +1,7 @@
+{
+  "name": "web-ui-component-spec-mcp",
+  "description": "Provides AI coding assistants with on-demand access to component specs, test scenarios, accessibility requirements, and build guides from the Web UI Component Specification.",
+  "source_repo": "gcsebas99/web-ui-component-spec-mcp",
+  "source_url": "https://github.com/gcsebas99/web-ui-component-spec-mcp",
+  "install": "npx -y web-ui-component-spec-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "loglux-whatsapp-mcp-stream",
+  "description": "WhatsApp MCP server over Streamable HTTP with web admin UI (QR/status/settings), bidirectional media upload/download, and SQLite persistence.",
+  "source_repo": "loglux/whatsapp-mcp-stream",
+  "source_url": "https://github.com/loglux/whatsapp-mcp-stream",
+  "install": "# git clone --depth 1 https://github.com/loglux/whatsapp-mcp-stream\n# See source for mcpServers config block"
+}

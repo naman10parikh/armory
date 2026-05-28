@@ -1,0 +1,7 @@
+{
+  "name": "npm-package-search",
+  "description": "Provides a specialized tool for fetching detailed npm package information, offering package search and popular packages resources to support dependency analysis and software research.",
+  "source_repo": "mateusribeirocampos/npm-mcp-server",
+  "source_url": "https://github.com/mateusribeirocampos/npm-mcp-server",
+  "install": "npx -y npm-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "playwright-screenshot",
+  "description": "Enables webpage screenshot capture using Playwright and CDP to connect with remote Chrome instances for visual testing and content analysis",
+  "source_repo": "veryint/mcp-playwright-screenshot",
+  "source_url": "https://github.com/veryint/mcp-playwright-screenshot",
+  "install": "# git clone --depth 1 https://github.com/veryint/mcp-playwright-screenshot\n# See source for mcpServers config block"
+}

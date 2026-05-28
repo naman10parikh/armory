@@ -1,0 +1,7 @@
+{
+  "name": "pandiaaman-avid-mediacentral-ctms",
+  "description": "Integrates with Avid MediaCentral CTMS to provide direct access to content and traffic management systems, enabling asset browsing, project management, and media cataloging across PAM and MAM workflows with OAuth authentication and service discovery.",
+  "source_repo": "pandiaaman/clouduxmcp",
+  "source_url": "https://github.com/pandiaaman/clouduxmcp",
+  "install": "# git clone --depth 1 https://github.com/pandiaaman/clouduxmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-whm3-uat-runner",
+  "description": "Human-in-the-loop user acceptance testing tool for agent-developed code.",
+  "source_repo": "whm3/uat_mcp",
+  "source_url": "https://github.com/whm3/uat_mcp",
+  "install": "npx -y uat_mcp"
+}

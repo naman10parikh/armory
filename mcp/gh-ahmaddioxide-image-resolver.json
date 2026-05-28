@@ -1,0 +1,7 @@
+{
+  "name": "gh-ahmaddioxide-image-resolver",
+  "description": "Context-aware royalty-free image search from Pexels and Unsplash stock photo libraries.",
+  "source_repo": "ahmaddioxide/image-resolver-mcp",
+  "source_url": "https://github.com/ahmaddioxide/image-resolver-mcp",
+  "install": "npx -y image-resolver-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sentry",
+  "description": "Integrates with Sentry's error tracking platform to enable detailed issue analysis, project management, and user session replay for enhanced debugging and monitoring in software development environments.",
+  "source_repo": "codyde/mcp-sentry-ts",
+  "source_url": "https://github.com/codyde/mcp-sentry-ts",
+  "install": "# git clone --depth 1 https://github.com/codyde/mcp-sentry-ts\n# See source for mcpServers config block"
+}

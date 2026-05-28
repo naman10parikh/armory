@@ -1,0 +1,7 @@
+{
+  "name": "minecraft-bot-control",
+  "description": "Provides complete control over Minecraft bots through the Mineflayer library, enabling autonomous gameplay with 40+ skills including mining, crafting, building, combat, farming, and social interactions.",
+  "source_repo": "leo4life2/minecraft-mcp-http",
+  "source_url": "https://github.com/leo4life2/minecraft-mcp-http",
+  "install": "# git clone --depth 1 https://github.com/leo4life2/minecraft-mcp-http\n# See source for mcpServers config block"
+}

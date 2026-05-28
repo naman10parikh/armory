@@ -1,0 +1,7 @@
+{
+  "name": "gh-bighippoman-memoir",
+  "description": "Structured session journals for AI agents with persistent memory across sessions.",
+  "source_repo": "bighippoman/memoir-mcp",
+  "source_url": "https://github.com/bighippoman/memoir-mcp",
+  "install": "npx -y memoir-mcp"
+}

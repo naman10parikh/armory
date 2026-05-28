@@ -1,0 +1,7 @@
+{
+  "name": "nickytonline-pimp-my-ride",
+  "description": "Provides car customization and racing build management with vehicle configuration options, driver persona selection, and performance scoring for interactive automotive experiences.",
+  "source_repo": "nickytonline/pimp-my-ride-mcp",
+  "source_url": "https://github.com/nickytonline/pimp-my-ride-mcp",
+  "install": "npx -y pimp-my-ride-mcp"
+}

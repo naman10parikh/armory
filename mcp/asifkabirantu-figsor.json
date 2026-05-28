@@ -1,0 +1,7 @@
+{
+  "name": "asifkabirantu-figsor",
+  "description": "Bridges Cursor to Figma for chat-driven design creation and editing on the canvas via a WebSocket-connected plugin.",
+  "source_repo": "asifkabirantu/figsor",
+  "source_url": "https://github.com/asifkabirantu/figsor",
+  "install": "# git clone --depth 1 https://github.com/asifkabirantu/figsor\n# See source for mcpServers config block"
+}

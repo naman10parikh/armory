@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mtender-server",
+  "description": "Mcp Mtender Server MCP server listed on mcp.so.",
+  "source_repo": "yoda-digital/mcp-mtender-server",
+  "source_url": "https://mcp.so/server/mcp-mtender-server/yoda-digital",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-mtender-server/yoda-digital\n# See source for mcpServers config block"
+}

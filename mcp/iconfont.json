@@ -1,0 +1,7 @@
+{
+  "name": "iconfont",
+  "description": "Integrates with Iconfont.cn to search and retrieve icon data from China's largest icon library by name and type for design workflows and UI development.",
+  "source_repo": "zys8119/iconfont-mcp",
+  "source_url": "https://github.com/zys8119/iconfont-mcp",
+  "install": "npx -y iconfont-mcp"
+}

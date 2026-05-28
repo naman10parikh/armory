@@ -1,0 +1,7 @@
+{
+  "name": "brightdata-web-scraping",
+  "description": "Integrates with Bright Data's web scraping infrastructure to provide real-time access to public web data through specialized tools for search engine scraping, webpage extraction, and structured data retrieval from popular websites.",
+  "source_repo": "brightdata/brightdata-mcp",
+  "source_url": "https://github.com/brightdata/brightdata-mcp",
+  "install": "npx -y brightdata-mcp"
+}

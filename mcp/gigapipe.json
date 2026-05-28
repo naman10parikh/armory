@@ -1,0 +1,7 @@
+{
+  "name": "gigapipe",
+  "description": "Integrates with Gigapipe's observability platform to query Prometheus metrics with PromQL, search Loki logs with LogQL, and retrieve Tempo traces by ID through unified HTTP/HTTPS access with optional authentication.",
+  "source_repo": "gigapipehq/gigapipe-mcp",
+  "source_url": "https://github.com/gigapipehq/gigapipe-mcp",
+  "install": "npx -y gigapipe-mcp"
+}

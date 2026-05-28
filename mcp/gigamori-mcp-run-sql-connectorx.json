@@ -1,0 +1,7 @@
+{
+  "name": "gigamori-mcp-run-sql-connectorx",
+  "description": "An MCP server that executes SQL via ConnectorX and streams the result to a CSV or Parquet file. Supports PostgreSQL, MariaDB, BigQuery, RedShift, MS SQL Server, etc.",
+  "source_repo": "gigamori/mcp-run-sql-connectorx",
+  "source_url": "https://github.com/gigamori/mcp-run-sql-connectorx",
+  "install": "# git clone --depth 1 https://github.com/gigamori/mcp-run-sql-connectorx\n# See source for mcpServers config block"
+}

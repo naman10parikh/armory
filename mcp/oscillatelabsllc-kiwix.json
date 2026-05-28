@@ -1,0 +1,7 @@
+{
+  "name": "oscillatelabsllc-kiwix",
+  "description": "Provides access to offline Wikipedia and other ZIM-format educational content from Kiwix HTTP servers with full-text search and article retrieval.",
+  "source_repo": "oscillatelabsllc/kiwix-mcp",
+  "source_url": "https://github.com/oscillatelabsllc/kiwix-mcp",
+  "install": "npx -y kiwix-mcp"
+}

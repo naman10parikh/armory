@@ -1,0 +1,7 @@
+{
+  "name": "harjjotsinghh-postgres-multi-schema",
+  "description": "Provides read-only access to PostgreSQL databases with enhanced multi-schema support, enabling schema inspection, query execution, and isolation across multiple namespaces.",
+  "source_repo": "harjjotsinghh/mcp-server-postgres-multi-schema",
+  "source_url": "https://github.com/harjjotsinghh/mcp-server-postgres-multi-schema",
+  "install": "# git clone --depth 1 https://github.com/harjjotsinghh/mcp-server-postgres-multi-schema\n# See source for mcpServers config block"
+}

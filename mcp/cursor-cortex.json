@@ -1,0 +1,7 @@
+{
+  "name": "cursor-cortex",
+  "description": "Provides structured external memory for AI assistants, enabling persistent context, branch notes, tacit knowledge, and checklists to overcome AI memory loss and context confusion.",
+  "source_repo": "flores-ac/cursor-cortex",
+  "source_url": "https://github.com/flores-ac/cursor-cortex",
+  "install": "# git clone --depth 1 https://github.com/flores-ac/cursor-cortex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "forgeailab-forge",
+  "description": "Local-first workflow engine for coding agents with isolated git worktrees, CI gates, and review processes, exposing an MCP JSON-RPC endpoint.",
+  "source_repo": "forgeailab/forge",
+  "source_url": "https://github.com/forgeailab/forge",
+  "install": "# git clone --depth 1 https://github.com/forgeailab/forge\n# See source for mcpServers config block"
+}

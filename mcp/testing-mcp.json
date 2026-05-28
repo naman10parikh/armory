@@ -1,0 +1,7 @@
+{
+  "name": "testing-mcp",
+  "description": "Enables AI assistants to write and debug integration tests by providing live access to DOM structure and executing code directly in test environments.",
+  "source_repo": "mcpland/testing-mcp",
+  "source_url": "https://github.com/mcpland/testing-mcp",
+  "install": "npx -y testing-mcp"
+}

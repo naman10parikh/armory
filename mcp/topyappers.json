@@ -1,0 +1,7 @@
+{
+  "name": "topyappers",
+  "description": "Discovers viral content, trending songs, and influencers across TikTok, Instagram, and YouTube through the TopYappers API.",
+  "source_repo": "topyappers/topyappers-mcp",
+  "source_url": "https://github.com/topyappers/topyappers-mcp",
+  "install": "npx -y topyappers-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "danialadzhar-whatsapp",
+  "description": "Provides read-only access to local WhatsApp chats and messages via the unofficial Baileys library with account suspension risk.",
+  "source_repo": "danialadzhar/mcp-whatsapp-claude-desktop",
+  "source_url": "https://github.com/danialadzhar/mcp-whatsapp-claude-desktop",
+  "install": "# git clone --depth 1 https://github.com/danialadzhar/mcp-whatsapp-claude-desktop\n# See source for mcpServers config block"
+}

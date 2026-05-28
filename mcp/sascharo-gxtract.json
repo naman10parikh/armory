@@ -1,0 +1,7 @@
+{
+  "name": "sascharo-gxtract",
+  "description": "GXtract is a MCP server designed to integrate with VS Code and other compatible editors. It provides a suite of tools for interacting with the GroundX platform, enabling you to leverage its powerful document understanding capabilities directly within your development environment.",
+  "source_repo": "sascharo/gxtract",
+  "source_url": "https://github.com/sascharo/gxtract",
+  "install": "# git clone --depth 1 https://github.com/sascharo/gxtract\n# See source for mcpServers config block"
+}

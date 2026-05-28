@@ -1,0 +1,7 @@
+{
+  "name": "vipergpt-visual-qa",
+  "description": "Provides visual question-answering capabilities through a mixture-of-experts approach that combines multiple vision models to handle visual grounding, compositional image analysis, and knowledge-dependent visual reasoning tasks by generating and executing Python code.",
+  "source_repo": "ryansherby/vipermcp",
+  "source_url": "https://github.com/ryansherby/vipermcp",
+  "install": "# git clone --depth 1 https://github.com/ryansherby/vipermcp\n# See source for mcpServers config block"
+}

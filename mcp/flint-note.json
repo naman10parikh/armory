@@ -1,0 +1,7 @@
+{
+  "name": "flint-note",
+  "description": "Agent-first note-taking application that provides complete access to a structured note management system with wikilink support, hybrid search capabilities, and vault organization for building knowledge bases and research workflows.",
+  "source_repo": "disnet/flint-note-mcp",
+  "source_url": "https://github.com/disnet/flint-note-mcp",
+  "install": "npx -y flint-note-mcp"
+}

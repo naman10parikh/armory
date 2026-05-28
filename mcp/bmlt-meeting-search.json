@@ -1,0 +1,7 @@
+{
+  "name": "bmlt-meeting-search",
+  "description": "Search Narcotics Anonymous meetings worldwide via the BMLT directory.",
+  "source_repo": "bmlt-enabled/bmlt-server-mcp",
+  "source_url": "https://github.com/bmlt-enabled/bmlt-server-mcp",
+  "install": "npx -y bmlt-server-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "skillfm-llm-cost-optimizer",
+  "description": "LLM cost optimization for OpenAI and Anthropic with token usage tracking, BYOK, and SkillFM Beacon audits.",
+  "source_repo": "ericm1018/skillfm-llm-cost-optimizer-mcp",
+  "source_url": "https://github.com/ericm1018/skillfm-llm-cost-optimizer-mcp",
+  "install": "npx -y skillfm-llm-cost-optimizer-mcp"
+}

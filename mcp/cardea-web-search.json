@@ -1,0 +1,7 @@
+{
+  "name": "cardea-web-search",
+  "description": "Provides web search capabilities through the Tavily API, returning structured results with titles, URLs, content snippets, and relevance scores for reliable information retrieval.",
+  "source_repo": "cardea-mcp/web-search",
+  "source_url": "https://github.com/cardea-mcp/web-search",
+  "install": "# git clone --depth 1 https://github.com/cardea-mcp/web-search\n# See source for mcpServers config block"
+}

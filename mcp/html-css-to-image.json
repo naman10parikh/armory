@@ -1,0 +1,7 @@
+{
+  "name": "html-css-to-image",
+  "description": "Generates images from HTML and CSS or captures screenshots of URLs.",
+  "source_repo": "",
+  "source_url": "https://htmlcsstoimage.com/",
+  "install": "# git clone --depth 1 https://htmlcsstoimage.com/\n# See source for mcpServers config block"
+}

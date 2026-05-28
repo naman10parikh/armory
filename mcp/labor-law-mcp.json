@@ -1,0 +1,7 @@
+{
+  "name": "labor-law-mcp",
+  "description": "Enables access to Japanese labor and social insurance law data via e-Gov API and official notices from MHLW and JAISH, running as a local MCP server on Windows.",
+  "source_repo": "BpointN/labor-law-mcp",
+  "source_url": "https://github.com/BpointN/labor-law-mcp",
+  "install": "npx -y labor-law-mcp"
+}

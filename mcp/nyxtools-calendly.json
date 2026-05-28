@@ -1,0 +1,7 @@
+{
+  "name": "nyxtools-calendly",
+  "description": "Natural-language scheduling management connecting Calendly with tools for viewing, searching, and managing events.",
+  "source_repo": "nyxtoolsdev/calendly-mcp-server",
+  "source_url": "https://github.com/nyxtoolsdev/calendly-mcp-server",
+  "install": "npx -y calendly-mcp-server"
+}

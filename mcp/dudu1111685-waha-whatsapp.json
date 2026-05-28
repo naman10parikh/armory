@@ -1,0 +1,7 @@
+{
+  "name": "dudu1111685-waha-whatsapp",
+  "description": "Integrates with WhatsApp through WAHA platform to enable complete messaging automation including sending and receiving media files, managing contacts and groups, handling QR code authentication, and controlling chat operations like archiving and reactions.",
+  "source_repo": "dudu1111685/waha-mcp",
+  "source_url": "https://github.com/dudu1111685/waha-mcp",
+  "install": "npx -y waha-mcp"
+}

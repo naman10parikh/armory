@@ -1,0 +1,7 @@
+{
+  "name": "brainfaq-mcp",
+  "description": "Interprets and debugs BrainFuck programs with step-by-step execution, memory inspection, and input handling.",
+  "source_repo": "labarilem/brainfaq-mcp",
+  "source_url": "https://github.com/labarilem/brainfaq-mcp",
+  "install": "npx -y brainfaq-mcp"
+}

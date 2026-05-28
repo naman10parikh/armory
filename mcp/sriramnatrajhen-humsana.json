@@ -1,0 +1,7 @@
+{
+  "name": "sriramnatrajhen-humsana",
+  "description": "Detects developer stress, focus, and fatigue from typing patterns to block dangerous commands when tired.",
+  "source_repo": "sriramnatrajhen/humsana-mcp",
+  "source_url": "https://github.com/sriramnatrajhen/humsana-mcp",
+  "install": "npx -y humsana-mcp"
+}

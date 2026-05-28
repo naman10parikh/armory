@@ -1,0 +1,7 @@
+{
+  "name": "capetlevrai-clipboard-vision",
+  "description": "Clipboard image analysis and OCR for text-only AI models using Groq Llama-4 Scout vision.",
+  "source_repo": "capetlevrai/clipboard-vision-mcp",
+  "source_url": "https://github.com/capetlevrai/clipboard-vision-mcp",
+  "install": "npx -y clipboard-vision-mcp"
+}

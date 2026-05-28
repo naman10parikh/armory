@@ -1,0 +1,7 @@
+{
+  "name": "gdrive5fe4",
+  "description": "Provides a bridge to Google Drive for searching files and retrieving document content without manual browsing, enabling document analysis and reference material access.",
+  "source_repo": "hxie-pallas/gdrive-mcp-server",
+  "source_url": "https://github.com/hxie-pallas/gdrive-mcp-server",
+  "install": "npx -y gdrive-mcp-server"
+}

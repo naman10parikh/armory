@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ollama-python",
+  "description": "A Python MCP server that exposes local Ollama models as tools for AI assistants, enabling chat, generation, embeddings, and model management without cloud APIs.",
+  "source_repo": "pblagoje/mcp-ollama-python",
+  "source_url": "https://github.com/pblagoje/mcp-ollama-python",
+  "install": "# git clone --depth 1 https://github.com/pblagoje/mcp-ollama-python\n# See source for mcpServers config block"
+}

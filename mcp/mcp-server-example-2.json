@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-example-2",
+  "description": "Mcp Server Example MCP server listed on mcp.so.",
+  "source_repo": "alejandro-ao/mcp-server-example",
+  "source_url": "https://mcp.so/server/mcp-server-example/alejandro-ao",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-example/alejandro-ao\n# See source for mcpServers config block"
+}

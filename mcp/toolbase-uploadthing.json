@@ -1,0 +1,7 @@
+{
+  "name": "toolbase-uploadthing",
+  "description": "Enables AI assistants to upload files to UploadThing's cloud storage from local paths or URLs via a Node.js bridge requiring token authentication.",
+  "source_repo": "toolbase-ai/uploadthing-mcp",
+  "source_url": "https://github.com/toolbase-ai/uploadthing-mcp",
+  "install": "npx -y uploadthing-mcp"
+}

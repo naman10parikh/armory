@@ -1,0 +1,7 @@
+{
+  "name": "sofia-open-source-lcov-coverage-analysis",
+  "description": "Analyzes LCOV code coverage reports to identify untested code and generate targeted test suggestions.",
+  "source_repo": "sofia-open-source/analyze-coverage-mcp",
+  "source_url": "https://github.com/sofia-open-source/analyze-coverage-mcp",
+  "install": "npx -y analyze-coverage-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tqiqbal-confluence-data-center",
+  "description": "Integrates with Confluence Data Center to enable direct access to content through operations like searching, retrieving, creating, updating, and deleting pages without switching contexts.",
+  "source_repo": "masna-ai/mcp-confluence-server",
+  "source_url": "https://github.com/masna-ai/mcp-confluence-server",
+  "install": "# git clone --depth 1 https://github.com/masna-ai/mcp-confluence-server\n# See source for mcpServers config block"
+}

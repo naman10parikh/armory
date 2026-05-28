@@ -1,0 +1,7 @@
+{
+  "name": "migratorywhale-stackchan",
+  "description": "Controls Stack-chan robots via AI with text-to-speech, camera, and servo management through M5Stack CoreS3.",
+  "source_repo": "migratorywhale/stackchan-mcp",
+  "source_url": "https://github.com/migratorywhale/stackchan-mcp",
+  "install": "npx -y stackchan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "warp",
+  "description": "Quote and book LTL, FTL, van, and box truck freight shipments directly through AI agents via Warp's carrier network.",
+  "source_repo": "troy-lgtm/warp-agent-mcp",
+  "source_url": "https://github.com/troy-lgtm/warp-agent-mcp",
+  "install": "npx -y warp-agent-mcp"
+}

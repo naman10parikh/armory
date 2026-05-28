@@ -1,0 +1,7 @@
+{
+  "name": "ejcho623-agent-breadcrumbs",
+  "description": "Unified agent work logging and observability across ChatGPT, Claude, Cursor, Codex, and OpenClaw with config-first schemas and pluggable sinks.",
+  "source_repo": "ejcho623/agent-breadcrumbs",
+  "source_url": "https://github.com/ejcho623/agent-breadcrumbs",
+  "install": "# git clone --depth 1 https://github.com/ejcho623/agent-breadcrumbs\n# See source for mcpServers config block"
+}

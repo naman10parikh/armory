@@ -1,0 +1,7 @@
+{
+  "name": "report-needs",
+  "description": "MCP server for AI agents to report infrastructure needs. Vote, comment, and track demand signals across the agent ecosystem.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/eren-solutions/report-needs",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/eren-solutions/report-needs\n# See source for mcpServers config block"
+}

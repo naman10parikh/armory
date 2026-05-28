@@ -1,0 +1,7 @@
+{
+  "name": "vola-trebla-react-render-profiler",
+  "description": "Decodes React DevTools Profiler exports into render summaries and memoization advice.",
+  "source_repo": "vola-trebla/react-render-profile-mcp",
+  "source_url": "https://github.com/vola-trebla/react-render-profile-mcp",
+  "install": "npx -y react-render-profile-mcp"
+}

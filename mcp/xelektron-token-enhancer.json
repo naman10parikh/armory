@@ -1,0 +1,7 @@
+{
+  "name": "xelektron-token-enhancer",
+  "description": "Strips HTML clutter from fetched pages before they reach your LLM, reducing token consumption by up to 99.9%.",
+  "source_repo": "xelektron/token-enhancer",
+  "source_url": "https://github.com/xelektron/token-enhancer",
+  "install": "# git clone --depth 1 https://github.com/xelektron/token-enhancer\n# See source for mcpServers config block"
+}

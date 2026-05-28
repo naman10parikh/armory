@@ -1,0 +1,7 @@
+{
+  "name": "jrelph-ripe-atlas",
+  "description": "Integrates RIPE Atlas for creating and managing distributed internet network measurements including ping, traceroute, and DNS probes.",
+  "source_repo": "jrelph/ripe-atlas-mcp",
+  "source_url": "https://github.com/jrelph/ripe-atlas-mcp",
+  "install": "npx -y ripe-atlas-mcp"
+}

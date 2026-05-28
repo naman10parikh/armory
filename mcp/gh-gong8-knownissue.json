@@ -1,0 +1,7 @@
+{
+  "name": "gh-gong8-knownissue",
+  "description": "Shared debugging memory for AI agents to report, patch, and verify issues.",
+  "source_repo": "gong8/knownissue",
+  "source_url": "https://github.com/gong8/knownissue",
+  "install": "# git clone --depth 1 https://github.com/gong8/knownissue\n# See source for mcpServers config block"
+}

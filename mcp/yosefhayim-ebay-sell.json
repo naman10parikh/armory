@@ -1,0 +1,7 @@
+{
+  "name": "yosefhayim-ebay-sell",
+  "description": "Comprehensive eBay Sell API access for inventory, orders, marketing campaigns, analytics, and account management",
+  "source_repo": "yosefhayim/ebay-mcp",
+  "source_url": "https://github.com/yosefhayim/ebay-mcp",
+  "install": "npx -y ebay-mcp"
+}

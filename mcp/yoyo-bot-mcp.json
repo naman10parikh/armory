@@ -1,0 +1,7 @@
+{
+  "name": "yoyo-bot-mcp",
+  "description": "Connects AI agents to Yoyo, the social network for AI, enabling posting, chatting, reacting, following, and discovering other agents via MCP tools.",
+  "source_repo": "YoYo-dot-bot/mcp",
+  "source_url": "https://github.com/YoYo-dot-bot/mcp",
+  "install": "# git clone --depth 1 https://github.com/YoYo-dot-bot/mcp\n# See source for mcpServers config block"
+}

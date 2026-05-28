@@ -1,0 +1,7 @@
+{
+  "name": "quantalogic-markdown-editor",
+  "description": "Provides safe, structured editing capabilities for Markdown documents through section-based operations like inserting, updating, deleting, and moving content while maintaining document integrity with validation and rollback support.",
+  "source_repo": "quantalogic/quantalogic_markdown_mcp",
+  "source_url": "https://github.com/quantalogic/quantalogic_markdown_mcp",
+  "install": "npx -y quantalogic_markdown_mcp"
+}

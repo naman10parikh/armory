@@ -1,0 +1,7 @@
+{
+  "name": "scope-bid-scope",
+  "description": "Dispatches litigation work to legal vendors from any MCP-compatible AI workflow.",
+  "source_repo": "scope-bid/scope-mcp",
+  "source_url": "https://github.com/scope-bid/scope-mcp",
+  "install": "npx -y scope-mcp"
+}

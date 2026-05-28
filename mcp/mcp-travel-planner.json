@@ -1,0 +1,7 @@
+{
+  "name": "mcp-travel-planner",
+  "description": "A unified MCP server providing a single entry point to comprehensive travel planning services, including flights, hotels, weather, geocoding, events, and finance, for seamless integration with MCP clients like Claude Desktop.",
+  "source_repo": "leonavevor/mcp_travelassistant",
+  "source_url": "https://github.com/leonavevor/mcp_travelassistant",
+  "install": "# git clone --depth 1 https://github.com/leonavevor/mcp_travelassistant\n# See source for mcpServers config block"
+}

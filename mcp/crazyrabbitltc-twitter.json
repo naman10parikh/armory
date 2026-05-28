@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-twitter",
+  "description": "Integrates with the X API v2 to enable post, search, and reply to tweets.",
+  "source_repo": "crazyrabbitltc/mcp-twitter-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-twitter-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-twitter-server\n# See source for mcpServers config block"
+}

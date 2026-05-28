@@ -1,0 +1,7 @@
+{
+  "name": "treevu-cli-market",
+  "description": "Search, compare prices, and purchase products across 3,760 retailers in 67 countries.",
+  "source_repo": "treevu-ai/cli-market-world",
+  "source_url": "https://github.com/treevu-ai/cli-market-world",
+  "install": "# git clone --depth 1 https://github.com/treevu-ai/cli-market-world\n# See source for mcpServers config block"
+}

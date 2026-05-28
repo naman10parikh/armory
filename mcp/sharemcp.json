@@ -1,0 +1,7 @@
+{
+  "name": "sharemcp",
+  "description": "ShareMCP MCP server listed on mcp.so.",
+  "source_repo": "AmeSora2022/ShareMCP",
+  "source_url": "https://mcp.so/server/ShareMCP/AmeSora2022",
+  "install": "# git clone --depth 1 https://mcp.so/server/ShareMCP/AmeSora2022\n# See source for mcpServers config block"
+}

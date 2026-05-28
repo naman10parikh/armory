@@ -1,0 +1,7 @@
+{
+  "name": "genesis-mcp",
+  "description": "Genesis Mcp MCP server listed on mcp.so.",
+  "source_repo": "dustland/genesis-mcp",
+  "source_url": "https://mcp.so/server/genesis-mcp/dustland",
+  "install": "npx -y genesis-mcp"
+}

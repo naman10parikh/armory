@@ -1,0 +1,7 @@
+{
+  "name": "hypersequent-qasphere",
+  "description": "Integration with QA Sphere test management system, enabling LLMs to discover, summarize, and interact with test cases directly from AI-powered IDEs.",
+  "source_repo": "hypersequent/qasphere-mcp",
+  "source_url": "https://github.com/hypersequent/qasphere-mcp",
+  "install": "npx -y qasphere-mcp"
+}

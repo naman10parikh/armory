@@ -1,0 +1,7 @@
+{
+  "name": "trello-task-manager-mcp",
+  "description": "Integrates with Trello to manage tasks and cards with features like creating, updating, and marking tasks as in-progress or completed, as well as managing checklists and providing an interactive feedback UI.",
+  "source_repo": "namuan/trello-task-manager-mcp",
+  "source_url": "https://github.com/namuan/trello-task-manager-mcp",
+  "install": "npx -y trello-task-manager-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kristiangronberg-wymcp",
+  "description": "Elixir framework for building MCP servers with SSE transport, Bearer token auth, and schema validation.",
+  "source_repo": "kristiangronberg/wymcp",
+  "source_url": "https://github.com/kristiangronberg/wymcp",
+  "install": "# git clone --depth 1 https://github.com/kristiangronberg/wymcp\n# See source for mcpServers config block"
+}

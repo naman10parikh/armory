@@ -1,0 +1,7 @@
+{
+  "name": "jdubois-azure-cli-mcp",
+  "description": "A wrapper around the Azure CLI command line that allows you to talk directly to Azure",
+  "source_repo": "jdubois/azure-cli-mcp",
+  "source_url": "https://github.com/jdubois/azure-cli-mcp",
+  "install": "npx -y azure-cli-mcp"
+}

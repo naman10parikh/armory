@@ -1,0 +1,7 @@
+{
+  "name": "wricardo-go",
+  "description": "Exposes Go documentation and package listing capabilities through 'go doc' and 'go list' commands, enabling efficient querying of official Go documentation and codebase understanding.",
+  "source_repo": "wricardo/go-mcp",
+  "source_url": "https://github.com/wricardo/go-mcp",
+  "install": "npx -y go-mcp"
+}

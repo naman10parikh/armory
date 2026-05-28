@@ -1,0 +1,7 @@
+{
+  "name": "chili-piper",
+  "description": "AI-driven scheduling, meetings, and lead routing for Chili Piper teams.",
+  "source_repo": "",
+  "source_url": "https://chilipiper.com",
+  "install": "# git clone --depth 1 https://chilipiper.com\n# See source for mcpServers config block"
+}

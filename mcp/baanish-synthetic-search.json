@@ -1,0 +1,7 @@
+{
+  "name": "baanish-synthetic-search",
+  "description": "Web search via Synthetic API with page text extraction and truncation.",
+  "source_repo": "baanish/synthetic-search-mcp",
+  "source_url": "https://github.com/baanish/synthetic-search-mcp",
+  "install": "npx -y synthetic-search-mcp"
+}

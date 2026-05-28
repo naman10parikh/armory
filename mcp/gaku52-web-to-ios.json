@@ -1,0 +1,7 @@
+{
+  "name": "gaku52-web-to-ios",
+  "description": "Automates web application conversion to iOS apps using Capacitor by analyzing project frameworks, detecting build configurations, and generating tailored setup guides with optimizations for Vite, Next.js, and Create React App projects.",
+  "source_repo": "gaku52/web-to-ios-mcp",
+  "source_url": "https://github.com/gaku52/web-to-ios-mcp",
+  "install": "npx -y web-to-ios-mcp"
+}

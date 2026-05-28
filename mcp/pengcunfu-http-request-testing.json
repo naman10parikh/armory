@@ -1,0 +1,7 @@
+{
+  "name": "pengcunfu-http-request-testing",
+  "description": "Provides HTTP request testing capabilities with comprehensive method support and specialized raw request tools that preserve payloads for security vulnerability testing while automatically logging all requests and responses.",
+  "source_repo": "pengcunfu/go-mcp-request",
+  "source_url": "https://github.com/pengcunfu/go-mcp-request",
+  "install": "# git clone --depth 1 https://github.com/pengcunfu/go-mcp-request\n# See source for mcpServers config block"
+}

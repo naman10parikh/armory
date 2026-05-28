@@ -1,0 +1,7 @@
+{
+  "name": "tomholford-mcp-tic-tac-toe",
+  "description": "Play Tic Tac Toe against an AI opponent using this MCP server.",
+  "source_repo": "tomholford/mcp-tic-tac-toe",
+  "source_url": "https://github.com/tomholford/mcp-tic-tac-toe",
+  "install": "# git clone --depth 1 https://github.com/tomholford/mcp-tic-tac-toe\n# See source for mcpServers config block"
+}

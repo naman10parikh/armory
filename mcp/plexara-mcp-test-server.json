@@ -1,0 +1,7 @@
+{
+  "name": "plexara-mcp-test-server",
+  "description": "Go-based MCP test fixture for gateway testing with 12 tools, HTTP streamable transport, Postgres audit logging, and an embedded React web portal.",
+  "source_repo": "plexara/mcp-test",
+  "source_url": "https://github.com/plexara/mcp-test",
+  "install": "# git clone --depth 1 https://github.com/plexara/mcp-test\n# See source for mcpServers config block"
+}

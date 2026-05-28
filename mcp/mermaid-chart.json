@@ -1,0 +1,7 @@
+{
+  "name": "mermaid-chart",
+  "description": "Validates and renders Mermaid diagrams through hosted endpoints",
+  "source_repo": "mermaid-chart/mermaid-mcp",
+  "source_url": "https://github.com/mermaid-chart/mermaid-mcp",
+  "install": "npx -y mermaid-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openapi-directory-mcp-server",
+  "description": "Provides access to the APIs.guru directory of 3,000+ OpenAPI specs and supports custom spec import, enabling API discovery, analysis, and integration via natural language.",
+  "source_repo": "rawveg/openapi-directory-mcp",
+  "source_url": "https://github.com/rawveg/openapi-directory-mcp",
+  "install": "npx -y openapi-directory-mcp"
+}

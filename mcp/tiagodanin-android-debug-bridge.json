@@ -1,0 +1,7 @@
+{
+  "name": "tiagodanin-android-debug-bridge",
+  "description": "Integrates with Android devices through ADB commands to enable app management, UI interaction, screenshot capture, and automated testing workflows.",
+  "source_repo": "tiagodanin/android-debug-bridge-mcp",
+  "source_url": "https://github.com/tiagodanin/android-debug-bridge-mcp",
+  "install": "npx -y android-debug-bridge-mcp"
+}

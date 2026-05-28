@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-mlb-stats",
+  "description": "Query Major League Baseball statistics including game results, player performance metrics, standings, schedules, and roster information via the MLB Stats API.",
+  "source_repo": "pipeworx-io/mcp-mlb-stats",
+  "source_url": "https://github.com/pipeworx-io/mcp-mlb-stats",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-mlb-stats\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-self-healing-infrastructure-mcp",
+  "description": "Python MCP server for self-healing infrastructure automation.",
+  "source_repo": "csoai-org/self-healing-infrastructure-mcp",
+  "source_url": "https://github.com/csoai-org/self-healing-infrastructure-mcp",
+  "install": "npx -y self-healing-infrastructure-mcp"
+}

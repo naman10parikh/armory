@@ -1,0 +1,7 @@
+{
+  "name": "romanshablio-file-finder",
+  "description": "Indexes and searches file systems to provide detailed information about files including name, path, size, and creation date, enabling efficient document retrieval and content management without direct filesystem access.",
+  "source_repo": "romanshablio/mcp_server",
+  "source_url": "https://github.com/romanshablio/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/romanshablio/mcp_server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "x-mcp-server",
+  "description": "X Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "siddheshutd/x-mcp-server",
+  "source_url": "https://mcp.so/server/x-mcp-server/siddheshutd",
+  "install": "npx -y x-mcp-server"
+}

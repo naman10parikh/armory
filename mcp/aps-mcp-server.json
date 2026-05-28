@@ -1,0 +1,7 @@
+{
+  "name": "aps-mcp-server",
+  "description": "Enables interaction with Autodesk ACC (Autodesk Construction Cloud) through the APS toolkit, allowing users to query hubs, projects, files, and versions via natural language through Claude Desktop.",
+  "source_repo": "kpphillips/aps-mcp-server",
+  "source_url": "https://github.com/kpphillips/aps-mcp-server",
+  "install": "npx -y aps-mcp-server"
+}

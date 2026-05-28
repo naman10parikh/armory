@@ -1,0 +1,7 @@
+{
+  "name": "agent-lilith-gmail",
+  "description": "Privacy-aware Gmail integration that syncs to PostgreSQL with PII sanitization, semantic search, and configurable redaction levels.",
+  "source_repo": "agent-lilith/lilith-emails",
+  "source_url": "https://github.com/agent-lilith/lilith-emails",
+  "install": "# git clone --depth 1 https://github.com/agent-lilith/lilith-emails\n# See source for mcpServers config block"
+}

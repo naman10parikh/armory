@@ -1,0 +1,7 @@
+{
+  "name": "amazon-bedrock-nova-canvas",
+  "description": "Integrates with Amazon Bedrock's Nova Canvas model to generate images from text descriptions with customizable parameters like dimensions and seed control.",
+  "source_repo": "zxkane/mcp-server-amazon-bedrock",
+  "source_url": "https://github.com/zxkane/mcp-server-amazon-bedrock",
+  "install": "# git clone --depth 1 https://github.com/zxkane/mcp-server-amazon-bedrock\n# See source for mcpServers config block"
+}

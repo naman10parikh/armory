@@ -1,0 +1,7 @@
+{
+  "name": "remembra",
+  "description": "Persistent memory layer with entity resolution, temporal decay, and graph-aware recall.",
+  "source_repo": "remembra-ai/remembra",
+  "source_url": "https://github.com/remembra-ai/remembra",
+  "install": "# git clone --depth 1 https://github.com/remembra-ai/remembra\n# See source for mcpServers config block"
+}

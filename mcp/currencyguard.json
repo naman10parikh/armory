@@ -1,0 +1,7 @@
+{
+  "name": "currencyguard",
+  "description": "FX protection for SMEs — price guards, live spot and forward rates, and settlement date calculation.",
+  "source_repo": "",
+  "source_url": "https://www.currencyguard.com",
+  "install": "# git clone --depth 1 https://www.currencyguard.com\n# See source for mcpServers config block"
+}

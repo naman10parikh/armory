@@ -1,0 +1,7 @@
+{
+  "name": "adelelo13-mac-control",
+  "description": "Native Swift MCP server for macOS automation — screenshots, mouse/keyboard control, UI automation, Safari/Chrome, and window management across 63 tools.",
+  "source_repo": "adelelo13/mac-control-mcp",
+  "source_url": "https://github.com/adelelo13/mac-control-mcp",
+  "install": "npx -y mac-control-mcp"
+}

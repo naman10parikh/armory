@@ -1,0 +1,7 @@
+{
+  "name": "kdesch5000-observium",
+  "description": "Provides read-only access to Observium CE network monitoring data for querying device status, port traffic, sensor readings, alerts, and historical trends through natural language queries about network infrastructure health and performance metrics.",
+  "source_repo": "kdesch5000/observium-mcp",
+  "source_url": "https://github.com/kdesch5000/observium-mcp",
+  "install": "npx -y observium-mcp"
+}

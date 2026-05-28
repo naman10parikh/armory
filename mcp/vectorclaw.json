@@ -1,0 +1,7 @@
+{
+  "name": "vectorclaw",
+  "description": "Enables AI assistants to control Anki Vector robots locally via natural language, providing tools for speech, motion, perception, and interaction without cloud dependency.",
+  "source_repo": "danmartinez78/VectorClaw",
+  "source_url": "https://github.com/danmartinez78/VectorClaw",
+  "install": "# git clone --depth 1 https://github.com/danmartinez78/VectorClaw\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aptro-zerodha",
+  "description": "Integrates with Zerodha trading platform to enable authentication, portfolio management, order placement, market data retrieval, and SIP setup for automated trading workflows.",
+  "source_repo": "aptro/zerodha-mcp",
+  "source_url": "https://github.com/aptro/zerodha-mcp",
+  "install": "npx -y zerodha-mcp"
+}

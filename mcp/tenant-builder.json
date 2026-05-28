@@ -1,0 +1,7 @@
+{
+  "name": "tenant-builder",
+  "description": "Provision new tenants with admin setup and initial document templates. Add document templates to existing tenants to expand your workspace. Authenticate and connect to external APIs to perform secure operations.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/santiago.blanco.vilchez/aaa",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/santiago.blanco.vilchez/aaa\n# See source for mcpServers config block"
+}

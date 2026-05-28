@@ -1,0 +1,7 @@
+{
+  "name": "peakmojo-applescript",
+  "description": "Enables AI to execute AppleScript code on macOS systems, providing access to applications and system features like Notes, Calendar, Contacts, Messages, and Finder through a lightweight server implementation.",
+  "source_repo": "peakmojo/applescript-mcp",
+  "source_url": "https://github.com/peakmojo/applescript-mcp",
+  "install": "npx -y applescript-mcp"
+}

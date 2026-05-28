@@ -1,0 +1,7 @@
+{
+  "name": "datris",
+  "description": "AI agent-native data platform for ingesting, validating, transforming, querying, and searching data across PostgreSQL, MongoDB, and vector databases.",
+  "source_repo": "datris/datris-platform-oss",
+  "source_url": "https://github.com/datris/datris-platform-oss/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/datris/datris-platform-oss/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

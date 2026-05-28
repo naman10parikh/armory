@@ -1,0 +1,7 @@
+{
+  "name": "vmandic-search-console",
+  "description": "Read-only access to Google Search Console analytics and URL inspection tools.",
+  "source_repo": "vmandic/searchconsole-mcp",
+  "source_url": "https://github.com/vmandic/searchconsole-mcp",
+  "install": "npx -y searchconsole-mcp"
+}

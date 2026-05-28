@@ -1,0 +1,7 @@
+{
+  "name": "luuu-h-netease-music",
+  "description": "MCP server for controlling local NetEase Cloud Music playback with search, playlist management, and synchronized lyrics.",
+  "source_repo": "luuu-h/netease-music-mcp",
+  "source_url": "https://github.com/luuu-h/netease-music-mcp",
+  "install": "npx -y netease-music-mcp"
+}

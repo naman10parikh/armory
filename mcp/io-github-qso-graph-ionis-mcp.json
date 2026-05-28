@@ -1,0 +1,7 @@
+{
+  "name": "io-github-qso-graph-ionis-mcp",
+  "description": "An MCP server for HF radio propagation analytics using the IONIS dataset collection, enabling natural language queries about band conditions, propagation paths, and solar correlations.",
+  "source_repo": "qso-graph/ionis-mcp",
+  "source_url": "https://github.com/qso-graph/ionis-mcp",
+  "install": "npx -y ionis-mcp"
+}

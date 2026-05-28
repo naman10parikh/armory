@@ -1,0 +1,7 @@
+{
+  "name": "vertexstudio-developer",
+  "description": "Comprehensive developer tools for file editing, shell command execution, and screen capture capabilities",
+  "source_repo": "VertexStudio/developer",
+  "source_url": "https://github.com/VertexStudio/developer",
+  "install": "# git clone --depth 1 https://github.com/VertexStudio/developer\n# See source for mcpServers config block"
+}

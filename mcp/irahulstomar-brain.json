@@ -1,0 +1,7 @@
+{
+  "name": "irahulstomar-brain",
+  "description": "Manages a local Markdown notes knowledge base with hybrid search using Ollama and Chroma.",
+  "source_repo": "irahulstomar/brain-mcp",
+  "source_url": "https://github.com/irahulstomar/brain-mcp",
+  "install": "npx -y brain-mcp"
+}

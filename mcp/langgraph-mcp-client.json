@@ -1,0 +1,7 @@
+{
+  "name": "langgraph-mcp-client",
+  "description": "LangGraph MCP Client MCP server listed on mcp.so.",
+  "source_repo": "BrianCusack/LangGraph-MCP-Client",
+  "source_url": "https://mcp.so/server/LangGraph-MCP-Client/BrianCusack",
+  "install": "# git clone --depth 1 https://mcp.so/server/LangGraph-MCP-Client/BrianCusack\n# See source for mcpServers config block"
+}

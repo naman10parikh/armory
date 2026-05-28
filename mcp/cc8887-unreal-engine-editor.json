@@ -1,0 +1,7 @@
+{
+  "name": "cc8887-unreal-engine-editor",
+  "description": "Transforms Unreal Engine Editor into an MCP-compatible server using Python's asyncio framework, enabling direct control of editor functionality for automated workflows and content creation.",
+  "source_repo": "cc8887/ue-editor-mcpserver",
+  "source_url": "https://github.com/cc8887/ue-editor-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/cc8887/ue-editor-mcpserver\n# See source for mcpServers config block"
+}

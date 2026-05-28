@@ -1,0 +1,7 @@
+{
+  "name": "needhuman",
+  "description": "Human-as-a-Service API for AI agents to delegate tasks requiring real humans.",
+  "source_repo": "mariusaure/needhuman-mcp",
+  "source_url": "https://github.com/mariusaure/needhuman-mcp",
+  "install": "npx -y needhuman-mcp"
+}

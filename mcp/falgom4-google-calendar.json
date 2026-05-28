@@ -1,0 +1,7 @@
+{
+  "name": "falgom4-google-calendar",
+  "description": "Enables natural language management of Google Calendar events with OAuth2 authentication, supporting creation, updates, deletion, and search capabilities with automatic browser launch for authentication.",
+  "source_repo": "falgom4/calendar-mcp",
+  "source_url": "https://github.com/falgom4/calendar-mcp",
+  "install": "npx -y calendar-mcp"
+}

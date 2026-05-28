@@ -1,0 +1,7 @@
+{
+  "name": "jordandalton-restcsv-mcp-server",
+  "description": "An MCP server for CSV files.",
+  "source_repo": "JordanDalton/RestCsvMcpServer",
+  "source_url": "https://github.com/JordanDalton/RestCsvMcpServer",
+  "install": "# git clone --depth 1 https://github.com/JordanDalton/RestCsvMcpServer\n# See source for mcpServers config block"
+}

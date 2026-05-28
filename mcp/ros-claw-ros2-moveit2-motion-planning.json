@@ -1,0 +1,7 @@
+{
+  "name": "ros-claw-ros2-moveit2-motion-planning",
+  "description": "Enables LLMs to control robotic arm motion planning via ROS 2 MoveIt2 with Digital Twin Firewall safety validation and support for UR5, Franka, and Kinova.",
+  "source_repo": "ros-claw/rosclaw-moveit2-mcp",
+  "source_url": "https://github.com/ros-claw/rosclaw-moveit2-mcp",
+  "install": "npx -y rosclaw-moveit2-mcp"
+}

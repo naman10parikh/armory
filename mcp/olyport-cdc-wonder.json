@@ -1,0 +1,7 @@
+{
+  "name": "olyport-cdc-wonder",
+  "description": "CDC WONDER public health statistics and epidemiological datasets.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/cdc-wonder/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/cdc-wonder/mcp\n# See source for mcpServers config block"
+}

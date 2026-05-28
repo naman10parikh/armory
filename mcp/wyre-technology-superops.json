@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-superops",
+  "description": "Community MCP integration for SuperOps unified PSA+RMM, enabling AI agents to access clients, tickets, and assets.",
+  "source_repo": "wyre-technology/superops-mcp",
+  "source_url": "https://github.com/wyre-technology/superops-mcp",
+  "install": "npx -y superops-mcp"
+}

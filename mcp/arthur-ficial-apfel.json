@@ -1,0 +1,7 @@
+{
+  "name": "arthur-ficial-apfel",
+  "description": "Token-budget-optimized MCP servers for Apple FoundationModels: URL fetching, DuckDuckGo search, and combined search-and-fetch.",
+  "source_repo": "arthur-ficial/apfel-mcp",
+  "source_url": "https://github.com/arthur-ficial/apfel-mcp",
+  "install": "npx -y apfel-mcp"
+}

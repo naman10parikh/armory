@@ -1,0 +1,7 @@
+{
+  "name": "mhajder-librenms",
+  "description": "Query devices, ports, alerts, and manage LibreNMS network monitoring infrastructure with read and write operations.",
+  "source_repo": "mhajder/librenms-mcp",
+  "source_url": "https://github.com/mhajder/librenms-mcp",
+  "install": "npx -y librenms-mcp"
+}

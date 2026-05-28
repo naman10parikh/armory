@@ -1,0 +1,7 @@
+{
+  "name": "chatdata-mcp-server",
+  "description": "Chatdata Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "xiaozhch5/chatdata-mcp-server",
+  "source_url": "https://mcp.so/server/chatdata-mcp-server/xiaozhch5",
+  "install": "npx -y chatdata-mcp-server"
+}

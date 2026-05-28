@@ -1,0 +1,7 @@
+{
+  "name": "aourpallynikhil-photoroom",
+  "description": "Provides a bridge to the Photoroom API for removing image backgrounds with configurable output formats and scaling options",
+  "source_repo": "aourpallynikhil/photoroom-mcp",
+  "source_url": "https://github.com/aourpallynikhil/photoroom-mcp",
+  "install": "npx -y photoroom-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qgis-mcp",
+  "description": "Qgis_mcp MCP server listed on mcp.so.",
+  "source_repo": "jjsantos01/qgis_mcp",
+  "source_url": "https://mcp.so/server/qgis_mcp/jjsantos01",
+  "install": "npx -y qgis_mcp"
+}

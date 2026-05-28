@@ -1,0 +1,7 @@
+{
+  "name": "joshuarileydev-app-store-connect",
+  "description": "Manage iOS app distribution and testing workflows.",
+  "source_repo": "joshuarileydev/app-store-connect-mcp-server",
+  "source_url": "https://github.com/joshuarileydev/app-store-connect-mcp-server",
+  "install": "npx -y app-store-connect-mcp-server"
+}

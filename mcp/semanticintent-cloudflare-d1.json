@@ -1,0 +1,7 @@
+{
+  "name": "semanticintent-cloudflare-d1",
+  "description": "Integrates with Cloudflare D1 databases to provide schema analysis, relationship extraction, validation, and optimization suggestions through four core tools that examine database structure and performance improvements.",
+  "source_repo": "semanticintent/semantic-d1-mcp",
+  "source_url": "https://github.com/semanticintent/semantic-d1-mcp",
+  "install": "npx -y semantic-d1-mcp"
+}

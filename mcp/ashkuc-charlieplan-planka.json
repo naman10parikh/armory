@@ -1,0 +1,7 @@
+{
+  "name": "ashkuc-charlieplan-planka",
+  "description": "Integrates with Planka kanban boards for project management with board operations, card manipulation, custom fields, labels, and OAuth authentication.",
+  "source_repo": "ashkuc/charlieplan-mcp",
+  "source_url": "https://github.com/ashkuc/charlieplan-mcp",
+  "install": "npx -y charlieplan-mcp"
+}

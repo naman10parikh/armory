@@ -1,0 +1,7 @@
+{
+  "name": "whenlabs-when",
+  "description": "Developer toolkit bundling six tools for documentation drift detection, environment validation, port conflict resolution, and performance monitoring.",
+  "source_repo": "whenlabs-org/when",
+  "source_url": "https://github.com/whenlabs-org/when",
+  "install": "# git clone --depth 1 https://github.com/whenlabs-org/when\n# See source for mcpServers config block"
+}

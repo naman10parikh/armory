@@ -1,0 +1,7 @@
+{
+  "name": "fossick",
+  "description": "Search GitHub, PyPI, and npm from your AI agent.",
+  "source_repo": "lipdog/fossick-mcp",
+  "source_url": "https://github.com/lipdog/fossick-mcp",
+  "install": "npx -y fossick-mcp"
+}

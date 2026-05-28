@@ -1,0 +1,7 @@
+{
+  "name": "finstudio-png-financial-models",
+  "description": "Provides financial modeling and analysis tools for AI-assisted workflows.",
+  "source_repo": "finstudio-png/finstudio-mcp",
+  "source_url": "https://github.com/finstudio-png/finstudio-mcp",
+  "install": "npx -y finstudio-mcp"
+}

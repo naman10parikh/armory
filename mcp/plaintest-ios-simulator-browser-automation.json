@@ -1,0 +1,7 @@
+{
+  "name": "plaintest-ios-simulator-browser-automation",
+  "description": "Unifies iOS Simulator control and browser automation through xcrun simctl, Facebook's fb-idb, and Puppeteer to provide mobile gesture automation, screenshot capture, UI inspection, and web browser control with intelligent tool filtering based on available capabilities.",
+  "source_repo": "plaintest/mcp-connect",
+  "source_url": "https://github.com/plaintest/mcp-connect",
+  "install": "# git clone --depth 1 https://github.com/plaintest/mcp-connect\n# See source for mcpServers config block"
+}

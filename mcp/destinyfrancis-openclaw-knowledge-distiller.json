@@ -1,0 +1,7 @@
+{
+  "name": "destinyfrancis-openclaw-knowledge-distiller",
+  "description": "Extracts knowledge from YouTube, Bilibili, and Facebook videos through local transcription and AI-powered summarization.",
+  "source_repo": "destinyfrancis/openclaw-knowledge-distiller",
+  "source_url": "https://github.com/destinyfrancis/openclaw-knowledge-distiller",
+  "install": "# git clone --depth 1 https://github.com/destinyfrancis/openclaw-knowledge-distiller\n# See source for mcpServers config block"
+}

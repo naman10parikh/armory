@@ -1,0 +1,7 @@
+{
+  "name": "choreoatlas-over-reach-detector",
+  "description": "Detects when AI coding agents modify files beyond their declared task scope by auditing file changes against declared scope patterns.",
+  "source_repo": "choreoatlas/over_reach_detector",
+  "source_url": "https://github.com/choreoatlas/over_reach_detector",
+  "install": "# git clone --depth 1 https://github.com/choreoatlas/over_reach_detector\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-cmendezs-facture-electronique-fr",
+  "description": "Implements AFNOR XP Z12-013 standard for French electronic invoicing with flow and directory service tools.",
+  "source_repo": "cmendezs/mcp-facture-electronique-fr",
+  "source_url": "https://github.com/cmendezs/mcp-facture-electronique-fr",
+  "install": "# git clone --depth 1 https://github.com/cmendezs/mcp-facture-electronique-fr\n# See source for mcpServers config block"
+}

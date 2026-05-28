@@ -1,0 +1,7 @@
+{
+  "name": "msfixer101-idea-basin",
+  "description": "Connects to an Idea Basin knowledge graph for semantic search, node browsing, and resource saving with vector embeddings.",
+  "source_repo": "msfixer101/idea-basin-mcp",
+  "source_url": "https://github.com/msfixer101/idea-basin-mcp",
+  "install": "npx -y idea-basin-mcp"
+}

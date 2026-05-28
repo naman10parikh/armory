@@ -1,0 +1,7 @@
+{
+  "name": "competlab-competlab-mcp-server",
+  "description": "Competitive intelligence platform with 24 tools. Monitor competitor pricing, content, positioning, tech stacks, and AI visibility — track how ChatGPT, Claude, and Gemini rank your brand.",
+  "source_repo": "competlab/competlab-mcp-server",
+  "source_url": "https://github.com/competlab/competlab-mcp-server",
+  "install": "npx -y competlab-mcp-server"
+}

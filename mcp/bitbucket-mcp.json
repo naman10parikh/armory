@@ -1,0 +1,7 @@
+{
+  "name": "bitbucket-mcp",
+  "description": "Enables AI assistants to programmatically manage Bitbucket Cloud resources, including pull requests, repositories, and branches, automating code review workflows.",
+  "source_repo": "yunusemregul/bitbucket-mcp",
+  "source_url": "https://github.com/yunusemregul/bitbucket-mcp",
+  "install": "npx -y bitbucket-mcp"
+}

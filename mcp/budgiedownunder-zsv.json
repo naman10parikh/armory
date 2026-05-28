@@ -1,0 +1,7 @@
+{
+  "name": "budgiedownunder-zsv",
+  "description": "Exposes the zsv command-line CSV toolkit for data analysis and SQL-style querying of tabular data.",
+  "source_repo": "budgiedownunder/zsv-mcp",
+  "source_url": "https://github.com/budgiedownunder/zsv-mcp",
+  "install": "npx -y zsv-mcp"
+}

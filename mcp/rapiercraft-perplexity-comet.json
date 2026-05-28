@@ -1,0 +1,7 @@
+{
+  "name": "rapiercraft-perplexity-comet",
+  "description": "Bridges Claude Code with Perplexity's Comet browser for autonomous web browsing and research tasks, enabling delegation of web browsing, data extraction, and research workflows while maintaining focus on coding activities.",
+  "source_repo": "rapiercraft/perplexity-comet-mcp",
+  "source_url": "https://github.com/rapiercraft/perplexity-comet-mcp",
+  "install": "npx -y perplexity-comet-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-nationalparks",
+  "description": "Mcp Server Nationalparks MCP server listed on mcp.so.",
+  "source_repo": "KyrieTangSheng/mcp-server-nationalparks",
+  "source_url": "https://mcp.so/server/mcp-server-nationalparks/KyrieTangSheng",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-nationalparks/KyrieTangSheng\n# See source for mcpServers config block"
+}

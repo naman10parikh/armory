@@ -1,0 +1,7 @@
+{
+  "name": "up2itnow0822-clawpay",
+  "description": "Non-custodial x402 cryptocurrency payments for AI agents on Base network.",
+  "source_repo": "up2itnow0822/agentpay-mcp",
+  "source_url": "https://github.com/up2itnow0822/agentpay-mcp",
+  "install": "npx -y agentpay-mcp"
+}

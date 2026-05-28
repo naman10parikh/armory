@@ -1,0 +1,7 @@
+{
+  "name": "ovhcloud",
+  "description": "Manage OVHcloud infrastructures, services and accounts",
+  "source_repo": "",
+  "source_url": "https://labs.ovhcloud.com/en/mcp-server/",
+  "install": "# git clone --depth 1 https://labs.ovhcloud.com/en/mcp-server/\n# See source for mcpServers config block"
+}

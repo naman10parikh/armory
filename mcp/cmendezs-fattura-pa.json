@@ -1,0 +1,7 @@
+{
+  "name": "cmendezs-fattura-pa",
+  "description": "Generate, validate, and analyze Italian FatturaPA XML electronic invoices using 21 MCP tools.",
+  "source_repo": "cmendezs/mcp-fattura-elettronica-it",
+  "source_url": "https://github.com/cmendezs/mcp-fattura-elettronica-it",
+  "install": "# git clone --depth 1 https://github.com/cmendezs/mcp-fattura-elettronica-it\n# See source for mcpServers config block"
+}

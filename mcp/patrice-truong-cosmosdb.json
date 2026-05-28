@@ -1,0 +1,7 @@
+{
+  "name": "patrice-truong-cosmosdb",
+  "description": "Bridges Azure Cosmos DB with language models, enabling database operations like product search, order retrieval, and weather data access through vector search capabilities for e-commerce applications.",
+  "source_repo": "patrice-truong/cosmosdb-mcp",
+  "source_url": "https://github.com/patrice-truong/cosmosdb-mcp",
+  "install": "npx -y cosmosdb-mcp"
+}

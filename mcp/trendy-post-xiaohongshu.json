@@ -1,0 +1,7 @@
+{
+  "name": "trendy-post-xiaohongshu",
+  "description": "Transforms screenshot images into trending Xiaohongshu social media posts by extracting text content through OCR and generating culturally appropriate Chinese titles, content, and hashtags using the Zhipu API.",
+  "source_repo": "yums-gao/trendy_post_mcp",
+  "source_url": "https://github.com/yums-gao/trendy_post_mcp",
+  "install": "npx -y trendy_post_mcp"
+}

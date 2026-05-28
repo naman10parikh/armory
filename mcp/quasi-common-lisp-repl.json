@@ -1,0 +1,7 @@
+{
+  "name": "quasi-common-lisp-repl",
+  "description": "Provides persistent Common Lisp REPL environment with comprehensive error handling, session state management, and Quicklisp system loading.",
+  "source_repo": "quasi/cl-mcp-server",
+  "source_url": "https://github.com/quasi/cl-mcp-server",
+  "install": "npx -y cl-mcp-server"
+}

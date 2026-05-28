@@ -1,0 +1,7 @@
+{
+  "name": "kicad-mcp",
+  "description": "Enables natural language interaction with KiCad projects, schematics, and PCBs, supporting project management, design rule checking, netlist extraction, and datasheet RAG search.",
+  "source_repo": "fsbondtec/kicad-mcp",
+  "source_url": "https://github.com/fsbondtec/kicad-mcp",
+  "install": "npx -y kicad-mcp"
+}

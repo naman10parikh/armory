@@ -1,0 +1,7 @@
+{
+  "name": "0x-professor-ctftime",
+  "description": "Integrates with CTFtime.org to retrieve cybersecurity competition data including upcoming events, team rankings, historical results, and event search capabilities for tracking competitive cybersecurity performance and planning competition schedules.",
+  "source_repo": "0x-professor/ctf-time-mcp",
+  "source_url": "https://github.com/0x-professor/ctf-time-mcp",
+  "install": "npx -y ctf-time-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chuanmingliu-webresearch",
+  "description": "Enables web browsing capabilities through Google searches and webpage content extraction using Playwright for browser automation and Turndown for HTML-to-Markdown conversion.",
+  "source_repo": "chuanmingliu/mcp-webresearch",
+  "source_url": "https://github.com/chuanmingliu/mcp-webresearch",
+  "install": "# git clone --depth 1 https://github.com/chuanmingliu/mcp-webresearch\n# See source for mcpServers config block"
+}

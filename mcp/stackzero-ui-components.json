@@ -1,0 +1,7 @@
+{
+  "name": "stackzero-ui-components",
+  "description": "Integrates with Stackzero Labs' commerce UI component library to browse, retrieve, and install React components optimized for e-commerce applications including ratings, image viewers, product controls, and banner blocks with installation instructions and usage examples.",
+  "source_repo": "stackzero-labs/mcp",
+  "source_url": "https://github.com/stackzero-labs/mcp",
+  "install": "# git clone --depth 1 https://github.com/stackzero-labs/mcp\n# See source for mcpServers config block"
+}

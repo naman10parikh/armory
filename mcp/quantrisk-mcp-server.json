@@ -1,0 +1,7 @@
+{
+  "name": "quantrisk-mcp-server",
+  "description": "Portfolio risk analytics MCP server — VaR, Monte Carlo simulation, stress testing, portfolio optimization, options Greeks, and correlation analysis. Real market data via Yahoo Finance. Free tier available, Pro at $29/mo.",
+  "source_repo": "78degrees/mcp-server",
+  "source_url": "https://github.com/78degrees/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/78degrees/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-skill-vetter-mcp",
+  "description": "Security-vet third-party AI agent extensions using 41 detection rules before deployment.",
+  "source_repo": "temurkhan13/openclaw-skill-vetter-mcp",
+  "source_url": "https://github.com/temurkhan13/openclaw-skill-vetter-mcp",
+  "install": "npx -y openclaw-skill-vetter-mcp"
+}

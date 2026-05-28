@@ -1,0 +1,7 @@
+{
+  "name": "jbdamask-cursor-db-explorer",
+  "description": "Provides access to Cursor IDE's SQLite databases for exploring project data, chat history, and composer information through an API that automatically detects installations and exposes structured resources and tools for analysis.",
+  "source_repo": "jbdamask/cursor-db-mcp",
+  "source_url": "https://github.com/jbdamask/cursor-db-mcp",
+  "install": "npx -y cursor-db-mcp"
+}

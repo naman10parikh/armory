@@ -1,0 +1,7 @@
+{
+  "name": "fantasywind-taiwan-real-estate",
+  "description": "Queries Taiwan's official real estate transaction data, including sales, pre-sales, and rentals.",
+  "source_repo": "fantasywind/tw-real-estate-mcp",
+  "source_url": "https://github.com/fantasywind/tw-real-estate-mcp",
+  "install": "npx -y tw-real-estate-mcp"
+}

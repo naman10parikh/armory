@@ -1,0 +1,7 @@
+{
+  "name": "fabianschurig-bitbucket",
+  "description": "Bitbucket Cloud API for MCP: complete auto-generated spec coverage with customizable prompts.",
+  "source_repo": "fabianschurig/bitbucket-cli",
+  "source_url": "https://github.com/fabianschurig/bitbucket-cli",
+  "install": "# git clone --depth 1 https://github.com/fabianschurig/bitbucket-cli\n# See source for mcpServers config block"
+}

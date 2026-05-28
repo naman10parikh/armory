@@ -1,0 +1,7 @@
+{
+  "name": "fireberry-crm-mcp-server",
+  "description": "Enables AI assistants to securely interact with Fireberry CRM, allowing metadata exploration, schema management, and record operations through natural language.",
+  "source_repo": "fireberry-crm/mcp-server",
+  "source_url": "https://github.com/fireberry-crm/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/fireberry-crm/mcp-server\n# See source for mcpServers config block"
+}

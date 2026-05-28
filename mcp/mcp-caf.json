@@ -1,0 +1,7 @@
+{
+  "name": "mcp-caf",
+  "description": "Simulates technical discussions with various agent profiles to help solve engineering problems through coffee breaks, walks, or showers.",
+  "source_repo": "fungiboletus/mcp_cafe",
+  "source_url": "https://github.com/fungiboletus/mcp_cafe",
+  "install": "# git clone --depth 1 https://github.com/fungiboletus/mcp_cafe\n# See source for mcpServers config block"
+}

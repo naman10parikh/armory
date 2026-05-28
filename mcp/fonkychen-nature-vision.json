@@ -1,0 +1,7 @@
+{
+  "name": "fonkychen-nature-vision",
+  "description": "Identifies biological species from images, returning Latin names with confidence scores.",
+  "source_repo": "fonkychen/nature-vision-mcp",
+  "source_url": "https://github.com/fonkychen/nature-vision-mcp",
+  "install": "npx -y nature-vision-mcp"
+}

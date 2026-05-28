@@ -1,0 +1,7 @@
+{
+  "name": "pontusab-typegen",
+  "description": "Generates typed TypeScript client code from MCP server definitions to reduce tool-calling token consumption.",
+  "source_repo": "pontusab/mcp-typegen",
+  "source_url": "https://github.com/pontusab/mcp-typegen",
+  "install": "# git clone --depth 1 https://github.com/pontusab/mcp-typegen\n# See source for mcpServers config block"
+}

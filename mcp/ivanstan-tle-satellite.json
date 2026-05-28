@@ -1,0 +1,7 @@
+{
+  "name": "ivanstan-tle-satellite",
+  "description": "Access TLE orbital data for thousands of satellites including ISS, Starlink, and Hubble.",
+  "source_repo": "ivanstan/tle-api",
+  "source_url": "https://github.com/ivanstan/tle-api",
+  "install": "# git clone --depth 1 https://github.com/ivanstan/tle-api\n# See source for mcpServers config block"
+}

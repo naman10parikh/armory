@@ -1,0 +1,7 @@
+{
+  "name": "meshy",
+  "description": "Generates and edits 3D models from text and image prompts using the Meshy AI platform.",
+  "source_repo": "meshy-dev/meshy-mcp-server",
+  "source_url": "https://github.com/meshy-dev/meshy-mcp-server",
+  "install": "npx -y meshy-mcp-server"
+}

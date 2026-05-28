@@ -1,0 +1,7 @@
+{
+  "name": "nn-repository1",
+  "description": "NN Repository1 MCP server listed on mcp.so.",
+  "source_repo": "biswapm/NN-Repository1",
+  "source_url": "https://mcp.so/server/NN-Repository1/biswapm",
+  "install": "# git clone --depth 1 https://mcp.so/server/NN-Repository1/biswapm\n# See source for mcpServers config block"
+}

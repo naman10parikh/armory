@@ -1,0 +1,7 @@
+{
+  "name": "unifapi",
+  "description": "Hosted MCP server providing live public-data APIs and skills for AI agents.",
+  "source_repo": "unifapi-agent/unifapi-mcp-server",
+  "source_url": "https://github.com/unifapi-agent/unifapi-mcp-server",
+  "install": "npx -y unifapi-mcp-server"
+}

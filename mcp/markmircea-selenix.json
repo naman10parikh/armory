@@ -1,0 +1,7 @@
+{
+  "name": "markmircea-selenix",
+  "description": "Bridges Claude Desktop to Selenix for browser automation test creation, execution, debugging, and management.",
+  "source_repo": "markmircea/selenix-mcp-server",
+  "source_url": "https://github.com/markmircea/selenix-mcp-server",
+  "install": "npx -y selenix-mcp-server"
+}

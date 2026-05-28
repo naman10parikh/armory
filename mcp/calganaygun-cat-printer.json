@@ -1,0 +1,7 @@
+{
+  "name": "calganaygun-cat-printer",
+  "description": "Control BLE thermal cat printers from AI agents with tools for printing images, text, and formatted ticket templates.",
+  "source_repo": "calganaygun/catprinter-mcp",
+  "source_url": "https://github.com/calganaygun/catprinter-mcp",
+  "install": "npx -y catprinter-mcp"
+}

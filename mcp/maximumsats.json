@@ -1,0 +1,7 @@
+{
+  "name": "maximumsats",
+  "description": "Bitcoin AI tools and Nostr Web of Trust scoring with pay-per-use Lightning payments.",
+  "source_repo": "joelklabo/maximumsats-mcp",
+  "source_url": "https://github.com/joelklabo/maximumsats-mcp",
+  "install": "npx -y maximumsats-mcp"
+}

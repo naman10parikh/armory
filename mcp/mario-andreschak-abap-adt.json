@@ -1,0 +1,7 @@
+{
+  "name": "mario-andreschak-abap-adt",
+  "description": "Integrates with SAP ABAP systems via ADT, enabling AI models to perform ABAP development tasks like code generation and system analysis.",
+  "source_repo": "mario-andreschak/mcp-abap-adt",
+  "source_url": "https://github.com/mario-andreschak/mcp-abap-adt",
+  "install": "# git clone --depth 1 https://github.com/mario-andreschak/mcp-abap-adt\n# See source for mcpServers config block"
+}

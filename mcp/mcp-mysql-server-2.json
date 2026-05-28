@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mysql-server-2",
+  "description": "Enables read-only MySQL database connectivity, allowing execution of SELECT queries, listing tables, and describing table structures via natural language.",
+  "source_repo": "jianglisuda/mcp",
+  "source_url": "https://github.com/jianglisuda/mcp",
+  "install": "# git clone --depth 1 https://github.com/jianglisuda/mcp\n# See source for mcpServers config block"
+}

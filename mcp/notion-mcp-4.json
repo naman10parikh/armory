@@ -1,0 +1,7 @@
+{
+  "name": "notion-mcp-4",
+  "description": "Notion Mcp MCP server listed on mcp.so.",
+  "source_repo": "Badhansen/notion-mcp",
+  "source_url": "https://mcp.so/server/notion-mcp/Badhansen",
+  "install": "npx -y notion-mcp"
+}

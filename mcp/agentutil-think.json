@@ -1,0 +1,7 @@
+{
+  "name": "agentutil-think",
+  "description": "Intent security pre-flight checks, instruction expansion, and post-action review for autonomous AI agents.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/agentutil-think",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/agentutil-think\n# See source for mcpServers config block"
+}

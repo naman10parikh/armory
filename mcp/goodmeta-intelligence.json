@@ -1,0 +1,7 @@
+{
+  "name": "goodmeta-intelligence",
+  "description": "Agent payments ecosystem intelligence. Scans GitHub/HN/npm across AP2, ACP, x402, MPP, UCP.",
+  "source_repo": "goodmeta/intelligence-mcp",
+  "source_url": "https://github.com/goodmeta/intelligence-mcp",
+  "install": "npx -y intelligence-mcp"
+}

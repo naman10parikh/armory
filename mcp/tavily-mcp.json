@@ -1,0 +1,7 @@
+{
+  "name": "tavily-mcp",
+  "description": "Enables AI assistants to perform real-time web searches, extract data from web pages, map website structures, and crawl websites using the Tavily API.",
+  "source_repo": "Seey215/tavily-mcp",
+  "source_url": "https://github.com/Seey215/tavily-mcp",
+  "install": "npx -y tavily-mcp"
+}

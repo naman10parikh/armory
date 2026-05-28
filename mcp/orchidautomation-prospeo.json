@@ -1,0 +1,7 @@
+{
+  "name": "orchidautomation-prospeo",
+  "description": "Searches and enriches contacts and companies from Prospeo's 200M+ contact database.",
+  "source_repo": "orchidautomation/prospeo-mcp",
+  "source_url": "https://github.com/orchidautomation/prospeo-mcp",
+  "install": "npx -y prospeo-mcp"
+}

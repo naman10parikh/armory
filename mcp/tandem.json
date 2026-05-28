@@ -1,0 +1,7 @@
+{
+  "name": "tandem",
+  "description": "Integrates with Tendem's AI + Human Agent platform to create, monitor, and manage tasks through their complete lifecycle, enabling delegation of work requiring human expertise.",
+  "source_repo": "toloka/tendem-mcp",
+  "source_url": "https://github.com/toloka/tendem-mcp",
+  "install": "npx -y tendem-mcp"
+}

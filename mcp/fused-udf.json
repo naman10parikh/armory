@@ -1,0 +1,7 @@
+{
+  "name": "fused-udf",
+  "description": "Python-based framework for connecting Claude and other LLMs to executable Python code through User Defined Functions, enabling data scientists to extend their models with custom Python capabilities.",
+  "source_repo": "fusedio/fused-mcp",
+  "source_url": "https://github.com/fusedio/fused-mcp",
+  "install": "npx -y fused-mcp"
+}

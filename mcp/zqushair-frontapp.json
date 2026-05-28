@@ -1,0 +1,7 @@
+{
+  "name": "zqushair-frontapp",
+  "description": "Integrates Claude with Front customer communication platform, enabling AI to manage conversations, contacts, and accounts directly through the Front API with webhook support for real-time event handling.",
+  "source_repo": "zqushair/frontapp-mcp",
+  "source_url": "https://github.com/zqushair/frontapp-mcp",
+  "install": "npx -y frontapp-mcp"
+}

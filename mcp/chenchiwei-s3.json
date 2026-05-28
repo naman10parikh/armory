@@ -1,0 +1,7 @@
+{
+  "name": "chenchiwei-s3",
+  "description": "Provides AWS S3 and S3-compatible object storage operations with configurable read-only or read-write modes, CDN URL generation, and bulk operations.",
+  "source_repo": "chenchiwei/s3-mcp-server",
+  "source_url": "https://github.com/chenchiwei/s3-mcp-server",
+  "install": "npx -y s3-mcp-server"
+}

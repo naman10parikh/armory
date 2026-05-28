@@ -1,0 +1,7 @@
+{
+  "name": "zhangzhongnan928-evm-signer",
+  "description": "Integrates with Ethereum blockchain to enable wallet management, transaction execution, and smart contract interactions via Infura, providing secure local access for blockchain operations.",
+  "source_repo": "zhangzhongnan928/mcp-evm-signer",
+  "source_url": "https://github.com/zhangzhongnan928/mcp-evm-signer",
+  "install": "# git clone --depth 1 https://github.com/zhangzhongnan928/mcp-evm-signer\n# See source for mcpServers config block"
+}

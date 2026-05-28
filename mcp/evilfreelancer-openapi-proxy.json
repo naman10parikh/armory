@@ -1,0 +1,7 @@
+{
+  "name": "evilfreelancer-openapi-proxy",
+  "description": "Converts OpenAPI and Swagger specifications into callable tools by generating Zod-validated schemas and proxying HTTP requests to backend APIs.",
+  "source_repo": "evilfreelancer/openapi-to-mcp",
+  "source_url": "https://github.com/evilfreelancer/openapi-to-mcp",
+  "install": "npx -y openapi-to-mcp"
+}

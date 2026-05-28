@@ -1,0 +1,7 @@
+{
+  "name": "pars-doe-autodocument",
+  "description": "Automatically generates documentation, test plans, and code reviews for software repositories through a bottom-up analysis approach that respects .gitignore rules and handles existing file updates.",
+  "source_repo": "pars-doe/autodocument",
+  "source_url": "https://github.com/pars-doe/autodocument",
+  "install": "# git clone --depth 1 https://github.com/pars-doe/autodocument\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xiyan-mcp-server",
+  "description": "Xiyan_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "XGenerationLab/xiyan_mcp_server",
+  "source_url": "https://mcp.so/server/xiyan_mcp_server/XGenerationLab",
+  "install": "npx -y xiyan_mcp_server"
+}

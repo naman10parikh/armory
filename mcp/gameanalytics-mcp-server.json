@@ -1,0 +1,7 @@
+{
+  "name": "gameanalytics-mcp-server",
+  "description": "Gameanalytics Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "RoryRedbox/gameanalytics-mcp-server",
+  "source_url": "https://mcp.so/server/gameanalytics-mcp-server/RoryRedbox",
+  "install": "npx -y gameanalytics-mcp-server"
+}

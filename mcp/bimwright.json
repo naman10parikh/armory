@@ -1,0 +1,7 @@
+{
+  "name": "bimwright",
+  "description": "AI-native Revit MCP server with 28 transaction-safe tools — control Revit 2022–2027 from Claude Code or any MCP client via a pure C# implementation.",
+  "source_repo": "bimwright/rvt-mcp",
+  "source_url": "https://github.com/bimwright/rvt-mcp",
+  "install": "npx -y rvt-mcp"
+}

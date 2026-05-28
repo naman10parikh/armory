@@ -1,0 +1,7 @@
+{
+  "name": "lawyer-search",
+  "description": "Free lawyer search and matching from a verified database of US attorney profiles.",
+  "source_repo": "risk-ai/lawai-mcp-server",
+  "source_url": "https://github.com/risk-ai/lawai-mcp-server",
+  "install": "npx -y lawai-mcp-server"
+}

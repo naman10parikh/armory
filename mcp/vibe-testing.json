@@ -1,0 +1,7 @@
+{
+  "name": "vibe-testing",
+  "description": "Code-aware browser testing agent — reads your codebase, understands functionality, tests every element, reports with screenshots. Works as MCP server for Cursor/Claude Code or standalone CLI.",
+  "source_repo": "AishwaryShrivastav/vibe-testing",
+  "source_url": "https://github.com/AishwaryShrivastav/vibe-testing",
+  "install": "# git clone --depth 1 https://github.com/AishwaryShrivastav/vibe-testing\n# See source for mcpServers config block"
+}

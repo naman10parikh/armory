@@ -1,0 +1,7 @@
+{
+  "name": "gblack686-n8n-workflow-summarizer",
+  "description": "Transforms complex n8n workflow JSON files into clear markdown summaries, extracting nodes, connections, and functionality while generating conceptual Python code that replicates the workflow's logic.",
+  "source_repo": "gblack686/n8n-workflow-summarizer-mcp",
+  "source_url": "https://github.com/gblack686/n8n-workflow-summarizer-mcp",
+  "install": "npx -y n8n-workflow-summarizer-mcp"
+}

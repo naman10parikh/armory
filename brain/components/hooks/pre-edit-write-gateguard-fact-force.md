@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [pre-bash-dispatcher, pre-config-protection]
-tags: [ecc, hook, PreToolUse]
+tags: [hook, PreToolUse]
 ---
 ## What it is
 PreToolUse hook: Fact-forcing gate: block first Edit/Write/MultiEdit per file and demand investigation (importers, data schemas, user instruction) before allowing (matcher: Edit|Write|MultiEdit).

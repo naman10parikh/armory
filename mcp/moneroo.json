@@ -1,0 +1,7 @@
+{
+  "name": "moneroo",
+  "description": "MCP server for Moneroo's African mobile payment infrastructure with tools for payments, links, and payouts.",
+  "source_repo": "aboudou-cto-bloko/moneroo-tools",
+  "source_url": "https://github.com/aboudou-cto-bloko/moneroo-tools",
+  "install": "# git clone --depth 1 https://github.com/aboudou-cto-bloko/moneroo-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wahyurudiyan-docker",
+  "description": "Integrates with Docker's API to manage containers, images, and deployments by accepting Docker Compose configurations and handling the complete workflow from image pulling to service startup.",
+  "source_repo": "wahyurudiyan/go-mcp-docker",
+  "source_url": "https://github.com/wahyurudiyan/go-mcp-docker",
+  "install": "# git clone --depth 1 https://github.com/wahyurudiyan/go-mcp-docker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dataforb2b",
+  "description": "B2B data API for AI agents with search and enrichment of 800M+ people and company profiles.",
+  "source_repo": "",
+  "source_url": "https://dataforb2b.ai",
+  "install": "# git clone --depth 1 https://dataforb2b.ai\n# See source for mcpServers config block"
+}

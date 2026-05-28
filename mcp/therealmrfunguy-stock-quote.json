@@ -1,0 +1,7 @@
+{
+  "name": "therealmrfunguy-stock-quote",
+  "description": "Real-time and historical stock quotes, market data, and financial information.",
+  "source_repo": "",
+  "source_url": "https://stock.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://stock.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

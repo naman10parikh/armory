@@ -1,0 +1,7 @@
+{
+  "name": "algolia",
+  "description": "Integrates with Algolia's search platform using the Go SDK to provide complete access to search operations, A/B testing, analytics, collections management, query suggestions, recommendations, monitoring, and usage metrics for building search experiences and managing search infrastructure.",
+  "source_repo": "algolia/mcp",
+  "source_url": "https://github.com/algolia/mcp",
+  "install": "# git clone --depth 1 https://github.com/algolia/mcp\n# See source for mcpServers config block"
+}

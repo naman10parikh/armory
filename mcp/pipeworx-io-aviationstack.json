@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-aviationstack",
+  "description": "Query real-time and historical global flight data including schedules, live flight status, airport info, and airline details via the Aviationstack API.",
+  "source_repo": "pipeworx-io/mcp-aviationstack",
+  "source_url": "https://github.com/pipeworx-io/mcp-aviationstack",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-aviationstack\n# See source for mcpServers config block"
+}

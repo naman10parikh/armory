@@ -1,0 +1,7 @@
+{
+  "name": "alexsherin-zoho-creator",
+  "description": "Integrates with the Zoho Creator API to provide forms and reports capabilities.",
+  "source_repo": "mastercode-io/scaflog-zoho-mcp-server",
+  "source_url": "https://github.com/mastercode-io/scaflog-zoho-mcp-server",
+  "install": "npx -y scaflog-zoho-mcp-server"
+}

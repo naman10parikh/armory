@@ -1,0 +1,7 @@
+{
+  "name": "relevanceai",
+  "description": "Bridges Claude with RelevanceAI's API, enabling direct access to RelevanceAI tools within conversations through environment variable authentication and stdio transport.",
+  "source_repo": "rleek/poc-mcp-proxy",
+  "source_url": "https://github.com/rleek/poc-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/rleek/poc-mcp-proxy\n# See source for mcpServers config block"
+}

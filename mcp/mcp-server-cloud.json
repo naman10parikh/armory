@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-cloud",
+  "description": "Mcp Server Cloud MCP server listed on mcp.so.",
+  "source_repo": "Daniel1989/mcp-server-cloud",
+  "source_url": "https://mcp.so/server/mcp-server-cloud/Daniel1989",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-cloud/Daniel1989\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-hydration-reminder-ai-mcp",
+  "description": "Python MCP server providing hydration tracking and reminder tools.",
+  "source_repo": "csoai-org/hydration-reminder-ai-mcp",
+  "source_url": "https://github.com/csoai-org/hydration-reminder-ai-mcp",
+  "install": "npx -y hydration-reminder-ai-mcp"
+}

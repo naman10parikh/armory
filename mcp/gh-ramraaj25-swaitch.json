@@ -1,0 +1,7 @@
+{
+  "name": "gh-ramraaj25-swaitch",
+  "description": "Bridges AI conversations across coding assistants, preserving context when switching IDEs.",
+  "source_repo": "ramraaj25/swaitch",
+  "source_url": "https://github.com/ramraaj25/swaitch",
+  "install": "# git clone --depth 1 https://github.com/ramraaj25/swaitch\n# See source for mcpServers config block"
+}

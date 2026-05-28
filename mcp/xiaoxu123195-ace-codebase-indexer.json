@@ -1,0 +1,7 @@
+{
+  "name": "xiaoxu123195-ace-codebase-indexer",
+  "description": "High-performance codebase indexing server that automatically processes project files with concurrent chunking and SHA-256 deduplication to enable intelligent semantic search and code retrieval through natural language queries.",
+  "source_repo": "xiaoxu123195/ace-mcp-go",
+  "source_url": "https://github.com/xiaoxu123195/ace-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/xiaoxu123195/ace-mcp-go\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hiveconsult",
+  "description": "Reasoning-as-a-service platform offering structured analysis, decision support, and code review via MCP tools.",
+  "source_repo": "srotzin/hiveconsult",
+  "source_url": "https://github.com/srotzin/hiveconsult",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hiveconsult\n# See source for mcpServers config block"
+}

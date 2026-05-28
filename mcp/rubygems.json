@@ -1,0 +1,7 @@
+{
+  "name": "rubygems",
+  "description": "Provides a TypeScript-based server for fetching and querying RubyGems metadata, enabling comprehensive exploration of gem information, version details, ownership, and dependency relationships through the RubyGems.org API.",
+  "source_repo": "6/mcp-server-rubygems",
+  "source_url": "https://github.com/6/mcp-server-rubygems",
+  "install": "# git clone --depth 1 https://github.com/6/mcp-server-rubygems\n# See source for mcpServers config block"
+}

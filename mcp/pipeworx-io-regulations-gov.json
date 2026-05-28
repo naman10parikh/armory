@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-regulations-gov",
+  "description": "Regulations.gov federal regulatory dockets, public comments, and agency documents via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-regulations-gov",
+  "source_url": "https://github.com/pipeworx-io/mcp-regulations-gov",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-regulations-gov\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-cli-mcp-server",
+  "description": "Enables AI assistants to interact with Salesforce organizations through project-based CLI integration, allowing execution of Apex, SOQL queries, object descriptions, and org management using local Salesforce DX project configurations.",
+  "source_repo": "perrynet/salesforce-cli-mcp-server",
+  "source_url": "https://github.com/perrynet/salesforce-cli-mcp-server",
+  "install": "npx -y salesforce-cli-mcp-server"
+}

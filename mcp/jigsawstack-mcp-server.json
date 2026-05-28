@@ -1,0 +1,7 @@
+{
+  "name": "jigsawstack-mcp-server",
+  "description": "Jigsawstack Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "JigsawStack/jigsawstack-mcp-server",
+  "source_url": "https://mcp.so/server/jigsawstack-mcp-server/JigsawStack",
+  "install": "npx -y jigsawstack-mcp-server"
+}

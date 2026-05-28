@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-yandex-metrika",
+  "description": "Integrates with Yandex.Metrika analytics API for counters, reports, visitor stats, and traffic source analysis.",
+  "source_repo": "theyahia/yandex-metrika-mcp",
+  "source_url": "https://github.com/theyahia/yandex-metrika-mcp",
+  "install": "npx -y yandex-metrika-mcp"
+}

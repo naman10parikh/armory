@@ -1,0 +1,7 @@
+{
+  "name": "deploya-labs-supabase",
+  "description": "Integrates with Supabase databases to enable SQL query execution, database management, and user authentication operations with configurable read-only or read-write access modes.",
+  "source_repo": "deploya-labs/mcp-supabase",
+  "source_url": "https://github.com/deploya-labs/mcp-supabase",
+  "install": "# git clone --depth 1 https://github.com/deploya-labs/mcp-supabase\n# See source for mcpServers config block"
+}

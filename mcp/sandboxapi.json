@@ -1,0 +1,7 @@
+{
+  "name": "sandboxapi",
+  "description": "Executes code securely in gVisor-sandboxed containers across eight programming languages.",
+  "source_repo": "sandboxapi/sandboxapi-mcp",
+  "source_url": "https://github.com/sandboxapi/sandboxapi-mcp",
+  "install": "npx -y sandboxapi-mcp"
+}

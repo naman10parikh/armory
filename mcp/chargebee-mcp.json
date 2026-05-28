@@ -1,0 +1,7 @@
+{
+  "name": "chargebee-mcp",
+  "description": "MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com/).",
+  "source_repo": "chargebee/agentkit",
+  "source_url": "https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol\n# See source for mcpServers config block"
+}

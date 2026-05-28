@@ -1,0 +1,7 @@
+{
+  "name": "nekzus-utility",
+  "description": "Advanced NPM analysis: Recursive security scanning, ecosystem awareness, and deep insights",
+  "source_repo": "nekzus/npm-sentinel-mcp",
+  "source_url": "https://github.com/nekzus/npm-sentinel-mcp",
+  "install": "npx -y npm-sentinel-mcp"
+}

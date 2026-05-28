@@ -1,0 +1,7 @@
+{
+  "name": "gh-mreider-better-bear",
+  "description": "Read, search, create, edit, tag, and manage Bear notes via CloudKit using 34 MCP tools.",
+  "source_repo": "kuvopllc/better-bear",
+  "source_url": "https://github.com/kuvopllc/better-bear",
+  "install": "# git clone --depth 1 https://github.com/kuvopllc/better-bear\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shubhamprajapati7748-zerodha-trade",
+  "description": "Integrates with Zerodha's trading platform to enable real-time stock trading operations including profile viewing, portfolio monitoring, and order execution directly through conversation",
+  "source_repo": "shubhamprajapati7748/zerodha-trade-mcp",
+  "source_url": "https://github.com/shubhamprajapati7748/zerodha-trade-mcp",
+  "install": "npx -y zerodha-trade-mcp"
+}

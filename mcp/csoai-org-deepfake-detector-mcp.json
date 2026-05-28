@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-deepfake-detector-mcp",
+  "description": "Tools for detecting AI-generated synthetic media and deepfake content.",
+  "source_repo": "csoai-org/deepfake-detector-mcp",
+  "source_url": "https://github.com/csoai-org/deepfake-detector-mcp",
+  "install": "npx -y deepfake-detector-mcp"
+}

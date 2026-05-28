@@ -1,0 +1,7 @@
+{
+  "name": "qainsights-jmeter",
+  "description": "Enables natural language execution of JMeter performance tests in both GUI and non-GUI modes, returning detailed results for automated load testing workflows.",
+  "source_repo": "qainsights/jmeter-mcp-server",
+  "source_url": "https://github.com/qainsights/jmeter-mcp-server",
+  "install": "npx -y jmeter-mcp-server"
+}

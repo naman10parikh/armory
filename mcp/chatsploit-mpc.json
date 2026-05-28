@@ -1,0 +1,7 @@
+{
+  "name": "chatsploit-mpc",
+  "description": "Chatsploit Mpc MCP server listed on mcp.so.",
+  "source_repo": "xcape-inc/chatsploit-mpc",
+  "source_url": "https://mcp.so/server/chatsploit-mpc/xcape-inc",
+  "install": "# git clone --depth 1 https://mcp.so/server/chatsploit-mpc/xcape-inc\n# See source for mcpServers config block"
+}

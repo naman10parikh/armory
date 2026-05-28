@@ -1,0 +1,7 @@
+{
+  "name": "expedia-travel-recommendations-mcp",
+  "description": "MCP server for Expedia travel recommendations. Enables LLMs to search hotels, flights, activities, and car rentals using natural language.",
+  "source_repo": "ExpediaGroup/expedia-travel-recommendations-mcp",
+  "source_url": "https://github.com/ExpediaGroup/expedia-travel-recommendations-mcp",
+  "install": "npx -y expedia-travel-recommendations-mcp"
+}

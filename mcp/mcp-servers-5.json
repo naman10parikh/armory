@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-5",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "castbox/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/castbox",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/castbox\n# See source for mcpServers config block"
+}

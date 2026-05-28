@@ -1,0 +1,7 @@
+{
+  "name": "microsoft-giphy",
+  "description": "Submit recent chat history ('context') and a search term to retrieve a list of candidate results from GIPHY and load their image data.",
+  "source_repo": "microsoft/semanticworkbench",
+  "source_url": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-giphy",
+  "install": "# git clone --depth 1 https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-giphy\n# See source for mcpServers config block"
+}

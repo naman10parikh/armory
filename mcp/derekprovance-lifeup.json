@@ -1,0 +1,7 @@
+{
+  "name": "derekprovance-lifeup",
+  "description": "Connects to LifeUp gamification app on Android devices over local network to manage tasks, achievements, shop items, and track user progress for productivity workflows.",
+  "source_repo": "derekprovance/lifeup-mcp",
+  "source_url": "https://github.com/derekprovance/lifeup-mcp",
+  "install": "npx -y lifeup-mcp"
+}

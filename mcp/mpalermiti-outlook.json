@@ -1,0 +1,7 @@
+{
+  "name": "mpalermiti-outlook",
+  "description": "Microsoft Outlook personal account access — 51 tools for mail, calendar, contacts, tasks, and drafts via Microsoft Graph.",
+  "source_repo": "mpalermiti/outlook-mcp",
+  "source_url": "https://github.com/mpalermiti/outlook-mcp",
+  "install": "npx -y outlook-mcp"
+}

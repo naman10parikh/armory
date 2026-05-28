@@ -1,0 +1,7 @@
+{
+  "name": "sovereignty-scan",
+  "description": "EU AI Act compliance tool that scans vendor data processing locations, legal jurisdictions, and US CLOUD Act exposure.",
+  "source_repo": "kajaril/sovereignty-scan-mcp",
+  "source_url": "https://github.com/kajaril/sovereignty-scan-mcp",
+  "install": "npx -y sovereignty-scan-mcp"
+}

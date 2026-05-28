@@ -1,0 +1,7 @@
+{
+  "name": "semilattice",
+  "description": "Audience prediction and A/B testing with simulated user data for content testing and UX personalization",
+  "source_repo": "",
+  "source_url": "https://docs.semilattice.ai/mcp/connect",
+  "install": "# git clone --depth 1 https://docs.semilattice.ai/mcp/connect\n# See source for mcpServers config block"
+}

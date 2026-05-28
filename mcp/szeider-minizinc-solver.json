@@ -1,0 +1,7 @@
+{
+  "name": "szeider-minizinc-solver",
+  "description": "Solve complex logic/optimization problems using MiniZinc syntax.",
+  "source_repo": "szeider/mcp-solver",
+  "source_url": "https://github.com/szeider/mcp-solver",
+  "install": "# git clone --depth 1 https://github.com/szeider/mcp-solver\n# See source for mcpServers config block"
+}

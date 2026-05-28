@@ -1,0 +1,7 @@
+{
+  "name": "jacob-tate-vikunja",
+  "description": "Integrates with Vikunja task management covering tasks, comments, labels, projects, teams, and views with OAuth 2.0 authentication and streamable HTTP transport.",
+  "source_repo": "jacob-tate/vikunja-mcp",
+  "source_url": "https://github.com/jacob-tate/vikunja-mcp",
+  "install": "npx -y vikunja-mcp"
+}

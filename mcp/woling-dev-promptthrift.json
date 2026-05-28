@@ -1,0 +1,7 @@
+{
+  "name": "woling-dev-promptthrift",
+  "description": "Reduces LLM API costs by 70-90% through intelligent conversation history compression and model optimization.",
+  "source_repo": "woling-dev/promptthrift-mcp",
+  "source_url": "https://github.com/woling-dev/promptthrift-mcp",
+  "install": "npx -y promptthrift-mcp"
+}

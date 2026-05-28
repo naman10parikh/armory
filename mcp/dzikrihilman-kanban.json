@@ -1,0 +1,7 @@
+{
+  "name": "dzikrihilman-kanban",
+  "description": "Full-stack kanban project management with drag-and-drop board, dashboard analytics, sub-tasks, labels, comments, and 13 MCP tools for AI agent integration.",
+  "source_repo": "dzikrihilman/kanban-mcp",
+  "source_url": "https://github.com/dzikrihilman/kanban-mcp",
+  "install": "npx -y kanban-mcp"
+}

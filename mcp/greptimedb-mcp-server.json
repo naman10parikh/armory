@@ -1,0 +1,7 @@
+{
+  "name": "greptimedb-mcp-server",
+  "description": "Greptimedb Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "GreptimeTeam/greptimedb-mcp-server",
+  "source_url": "https://mcp.so/server/greptimedb-mcp-server/GreptimeTeam",
+  "install": "npx -y greptimedb-mcp-server"
+}

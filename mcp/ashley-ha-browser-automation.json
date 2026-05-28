@@ -1,0 +1,7 @@
+{
+  "name": "ashley-ha-browser-automation",
+  "description": "Enables Claude to automate browser interactions by detecting elements and executing planned actions for website navigation, form filling, and content interaction directly from conversations.",
+  "source_repo": "ashley-ha/mcp-manus",
+  "source_url": "https://github.com/ashley-ha/mcp-manus",
+  "install": "# git clone --depth 1 https://github.com/ashley-ha/mcp-manus\n# See source for mcpServers config block"
+}

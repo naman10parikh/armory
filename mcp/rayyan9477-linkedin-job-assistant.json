@@ -1,0 +1,7 @@
+{
+  "name": "rayyan9477-linkedin-job-assistant",
+  "description": "Integrates with LinkedIn to automate job searching, profile viewing, resume generation, and job applications with tailored resume and cover letter creation features.",
+  "source_repo": "rayyan9477/linkedin_mcp",
+  "source_url": "https://github.com/rayyan9477/linkedin_mcp",
+  "install": "npx -y linkedin_mcp"
+}

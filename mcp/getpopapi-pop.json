@@ -1,0 +1,7 @@
+{
+  "name": "getpopapi-pop",
+  "description": "Italian e-invoicing (FatturaPA/SdI), Peppol, and PDF invoice generation via the POP API.",
+  "source_repo": "getpopapi/pop-mcp",
+  "source_url": "https://github.com/getpopapi/pop-mcp",
+  "install": "npx -y pop-mcp"
+}

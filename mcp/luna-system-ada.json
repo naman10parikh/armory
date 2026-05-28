@@ -1,0 +1,7 @@
+{
+  "name": "luna-system-ada",
+  "description": "Self-hosted personal AI assistant with RAG memory, specialist plugins, and multi-modal capabilities for privacy-first conversational AI.",
+  "source_repo": "luna-system/ada",
+  "source_url": "https://github.com/luna-system/ada/tree/HEAD/ada-mcp",
+  "install": "# git clone --depth 1 https://github.com/luna-system/ada/tree/HEAD/ada-mcp\n# See source for mcpServers config block"
+}

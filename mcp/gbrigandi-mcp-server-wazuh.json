@@ -1,0 +1,7 @@
+{
+  "name": "gbrigandi-mcp-server-wazuh",
+  "description": "🚨 🍎 🪟 🐧 - A Rust-based MCP server bridging Wazuh SIEM with AI assistants, providing real-time security alerts and event data for enhanced contextual understanding.",
+  "source_repo": "gbrigandi/mcp-server-wazuh",
+  "source_url": "https://github.com/gbrigandi/mcp-server-wazuh",
+  "install": "# git clone --depth 1 https://github.com/gbrigandi/mcp-server-wazuh\n# See source for mcpServers config block"
+}

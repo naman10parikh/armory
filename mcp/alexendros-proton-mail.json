@@ -1,0 +1,7 @@
+{
+  "name": "alexendros-proton-mail",
+  "description": "Connect to Proton Mail via Bridge for IMAP and SMTP access with 13 email management tools.",
+  "source_repo": "iniciativas-alexendros/protonmail-mcp",
+  "source_url": "https://github.com/iniciativas-alexendros/protonmail-mcp",
+  "install": "npx -y protonmail-mcp"
+}

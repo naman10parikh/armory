@@ -1,0 +1,7 @@
+{
+  "name": "joehaddad2000-claude-todo-emulator",
+  "description": "Emulates Claude Code's task management system with persistent todo functionality, providing workspace-local storage and validation rules that ensure unique IDs and allow only one in-progress task at a time.",
+  "source_repo": "joehaddad2000/claude-todo-emulator",
+  "source_url": "https://github.com/joehaddad2000/claude-todo-emulator",
+  "install": "# git clone --depth 1 https://github.com/joehaddad2000/claude-todo-emulator\n# See source for mcpServers config block"
+}

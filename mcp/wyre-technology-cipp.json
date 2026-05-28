@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-cipp",
+  "description": "AI interface to CIPP for M365 multi-tenant management — users, tenants, policies, compliance, licensing, and alerts across 37 tools.",
+  "source_repo": "wyre-technology/cipp-mcp",
+  "source_url": "https://github.com/wyre-technology/cipp-mcp",
+  "install": "npx -y cipp-mcp"
+}

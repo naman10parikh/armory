@@ -1,0 +1,7 @@
+{
+  "name": "scite",
+  "description": "Search and evaluate scientific literature with Smart Citations across 280M+ full-text articles.",
+  "source_repo": "",
+  "source_url": "https://scite.ai/mcp",
+  "install": "# git clone --depth 1 https://scite.ai/mcp\n# See source for mcpServers config block"
+}

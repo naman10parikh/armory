@@ -1,0 +1,7 @@
+{
+  "name": "ongjin-security-scanner",
+  "description": "Detects security vulnerabilities in code including OWASP Top 10 threats and hardcoded secrets",
+  "source_repo": "ongjin/security-scanner-mcp",
+  "source_url": "https://github.com/ongjin/security-scanner-mcp",
+  "install": "npx -y security-scanner-mcp"
+}

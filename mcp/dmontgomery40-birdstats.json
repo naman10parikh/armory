@@ -1,0 +1,7 @@
+{
+  "name": "dmontgomery40-birdstats",
+  "description": "Integrates BirdNET-Pi and eBird APIs to enable cross-referencing bird detection data with observation records for ecological research and bird watching insights.",
+  "source_repo": "dmontgomery40/mcp-server-birdstats",
+  "source_url": "https://github.com/dmontgomery40/mcp-server-birdstats",
+  "install": "# git clone --depth 1 https://github.com/dmontgomery40/mcp-server-birdstats\n# See source for mcpServers config block"
+}

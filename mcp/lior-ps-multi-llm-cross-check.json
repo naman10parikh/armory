@@ -1,0 +1,7 @@
+{
+  "name": "lior-ps-multi-llm-cross-check",
+  "description": "Provides a unified interface for querying multiple LLM providers simultaneously, enabling side-by-side response comparison for fact-checking, gathering diverse perspectives, or evaluating different models' capabilities.",
+  "source_repo": "lior-ps/multi-llm-cross-check-mcp-server",
+  "source_url": "https://github.com/lior-ps/multi-llm-cross-check-mcp-server",
+  "install": "npx -y multi-llm-cross-check-mcp-server"
+}

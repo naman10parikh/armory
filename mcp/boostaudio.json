@@ -1,0 +1,7 @@
+{
+  "name": "boostaudio",
+  "description": "AI audio tools for music producers — stem splitting, vocal removal, BPM & key detection, audio-to-MIDI, format conversion, trimming, video-to-audio extraction and AI song generation.",
+  "source_repo": "",
+  "source_url": "https://boost.audio/mcp",
+  "install": "# git clone --depth 1 https://boost.audio/mcp\n# See source for mcpServers config block"
+}

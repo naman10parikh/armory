@@ -1,0 +1,7 @@
+{
+  "name": "truaxki-pdf-to-png",
+  "description": "Integrates with pdf2image to convert PDF documents to PNG images.",
+  "source_repo": "truaxki/mcp-pdf2png",
+  "source_url": "https://github.com/truaxki/mcp-pdf2png",
+  "install": "# git clone --depth 1 https://github.com/truaxki/mcp-pdf2png\n# See source for mcpServers config block"
+}

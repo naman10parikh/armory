@@ -1,0 +1,7 @@
+{
+  "name": "lniosy-coolapk",
+  "description": "Enables AI tools to search and browse the Coolapk Android community with tools for posts, users, topics, applications, and interactive features.",
+  "source_repo": "lniosy/coolapk-mcp",
+  "source_url": "https://github.com/lniosy/coolapk-mcp",
+  "install": "npx -y coolapk-mcp"
+}

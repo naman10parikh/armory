@@ -1,0 +1,7 @@
+{
+  "name": "mrexodio-ida-pro",
+  "description": "Automated reverse engineering with IDA Pro.",
+  "source_repo": "mrexodia/ida-pro-mcp",
+  "source_url": "https://github.com/mrexodia/ida-pro-mcp",
+  "install": "npx -y ida-pro-mcp"
+}

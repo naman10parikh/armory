@@ -1,0 +1,7 @@
+{
+  "name": "nikita-voronoy-arbor",
+  "description": "Token-efficient codebase navigation via tree-sitter with 9 tools for symbol search, dependency analysis, and architecture overviews across 15+ languages.",
+  "source_repo": "nikita-voronoy/arbor",
+  "source_url": "https://github.com/nikita-voronoy/arbor",
+  "install": "# git clone --depth 1 https://github.com/nikita-voronoy/arbor\n# See source for mcpServers config block"
+}

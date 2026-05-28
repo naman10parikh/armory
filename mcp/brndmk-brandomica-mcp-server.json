@@ -1,0 +1,7 @@
+{
+  "name": "brndmk-brandomica-mcp-server",
+  "description": "Brand name verification across domains (with pricing), social handles, trademarks (USPTO), web presence, app stores, and SaaS channels. Safety scoring, linguistic/phonetic screening, and filing readiness.",
+  "source_repo": "BRNDMK/brandomica-mcp-server",
+  "source_url": "https://github.com/BRNDMK/brandomica-mcp-server",
+  "install": "npx -y brandomica-mcp-server"
+}

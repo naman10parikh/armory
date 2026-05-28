@@ -1,0 +1,7 @@
+{
+  "name": "jackpot-keywords",
+  "description": "MCP server for JackpotKeywords — AI keyword research and AI-visibility (AEO) scanning. Three tools: recommend (keywords ranked by composite Jackpot Score using real Google Ads volume/CPC + AI relevance); aeo_scan (10 buyer-intent queries via Gemini grounded search, reports whether your URL is cited/",
+  "source_repo": "smythmyke/jackpotkeywords-mcp-server",
+  "source_url": "https://github.com/smythmyke/jackpotkeywords-mcp-server",
+  "install": "npx -y jackpotkeywords-mcp-server"
+}

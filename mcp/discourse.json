@@ -1,0 +1,7 @@
+{
+  "name": "discourse",
+  "description": "Integrates with Discourse forums through API tools and remote tool discovery, enabling search, content management, user lookup, and automated community operations with configurable security controls and authentication support.",
+  "source_repo": "discourse/discourse-mcp",
+  "source_url": "https://github.com/discourse/discourse-mcp",
+  "install": "npx -y discourse-mcp"
+}

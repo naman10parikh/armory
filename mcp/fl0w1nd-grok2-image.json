@@ -1,0 +1,7 @@
+{
+  "name": "fl0w1nd-grok2-image",
+  "description": "Enables AI assistants to generate images through the Grok2 model using stdio transport for seamless integration into existing workflows.",
+  "source_repo": "fl0w1nd/grok-image-mcp",
+  "source_url": "https://github.com/fl0w1nd/grok-image-mcp",
+  "install": "npx -y grok-image-mcp"
+}

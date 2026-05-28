@@ -1,0 +1,7 @@
+{
+  "name": "cargoshipper-mcp",
+  "description": "A comprehensive MCP server that provides Claude with direct access to Docker, DigitalOcean, and CloudFlare APIs for infrastructure management and automation.",
+  "source_repo": "scarr7981/cargoshipper-mcp",
+  "source_url": "https://github.com/scarr7981/cargoshipper-mcp",
+  "install": "npx -y cargoshipper-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "windymelt-json-rpc",
+  "description": "Type-safe JSON-RPC 2.0 server implementation in Scala 3 that enables structured communication between assistants and backend services with comprehensive error handling.",
+  "source_repo": "windymelt/mcp-scala",
+  "source_url": "https://github.com/windymelt/mcp-scala",
+  "install": "# git clone --depth 1 https://github.com/windymelt/mcp-scala\n# See source for mcpServers config block"
+}

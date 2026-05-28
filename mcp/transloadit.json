@@ -1,0 +1,7 @@
+{
+  "name": "transloadit",
+  "description": "Cloud media processing with 86+ robots for video, audio, images, and documents.",
+  "source_repo": "transloadit/node-sdk",
+  "source_url": "https://github.com/transloadit/node-sdk",
+  "install": "# git clone --depth 1 https://github.com/transloadit/node-sdk\n# See source for mcpServers config block"
+}

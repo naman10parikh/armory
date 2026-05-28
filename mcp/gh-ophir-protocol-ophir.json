@@ -1,0 +1,7 @@
+{
+  "name": "gh-ophir-protocol-ophir",
+  "description": "Open protocol for AI agent discovery, negotiation, and settlement on Solana.",
+  "source_repo": "ophir-protocol/ophir",
+  "source_url": "https://github.com/ophir-protocol/ophir",
+  "install": "# git clone --depth 1 https://github.com/ophir-protocol/ophir\n# See source for mcpServers config block"
+}

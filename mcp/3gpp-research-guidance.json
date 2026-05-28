@@ -1,0 +1,7 @@
+{
+  "name": "3gpp-research-guidance",
+  "description": "Provides intelligent guidance for telecommunications standards research through structured metadata about 3GPP specifications, offering tools for specification discovery, requirements mapping, and research strategy generation with adaptive responses based on user expertise level.",
+  "source_repo": "edhijlu/3gpp-mcp-server",
+  "source_url": "https://github.com/edhijlu/3gpp-mcp-server",
+  "install": "npx -y 3gpp-mcp-server"
+}

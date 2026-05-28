@@ -1,0 +1,7 @@
+{
+  "name": "sanxfxteam-gemini-image-generator",
+  "description": "Provides image generation capabilities through Google's Gemini 2 API, enabling text-to-image creation with configurable parameters like aspect ratio and output format",
+  "source_repo": "sanxfxteam/gemini-mcp-server",
+  "source_url": "https://github.com/sanxfxteam/gemini-mcp-server",
+  "install": "npx -y gemini-mcp-server"
+}

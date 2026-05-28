@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-db-ts",
+  "description": "Mcp Server Db Ts MCP server listed on mcp.so.",
+  "source_repo": "cherl/mcp-server-db-ts",
+  "source_url": "https://mcp.so/server/mcp-server-db-ts/cherl",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-db-ts/cherl\n# See source for mcpServers config block"
+}

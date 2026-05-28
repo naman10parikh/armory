@@ -1,0 +1,7 @@
+{
+  "name": "geoffwhittington-devici",
+  "description": "Integrates with the Devici threat modeling platform to manage security workflows including user and team management, threat model creation, component analysis, threat identification, mitigation planning, and dashboard reporting across the complete threat modeling lifecycle.",
+  "source_repo": "sdelements/devici-mcp",
+  "source_url": "https://github.com/sdelements/devici-mcp",
+  "install": "npx -y devici-mcp"
+}

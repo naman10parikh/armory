@@ -1,0 +1,7 @@
+{
+  "name": "whataboutyou-ai-eunomia",
+  "description": "Integrates with the Eunomia framework for a simple way to orchestrate data governance policies like PII detection or user access control",
+  "source_repo": "whataboutyou-ai/eunomia-mcp-server",
+  "source_url": "https://github.com/whataboutyou-ai/eunomia-mcp-server",
+  "install": "npx -y eunomia-mcp-server"
+}

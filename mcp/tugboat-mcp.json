@@ -1,0 +1,7 @@
+{
+  "name": "tugboat-mcp",
+  "description": "Tugboat Mcp MCP server listed on mcp.so.",
+  "source_repo": "Lullabot/tugboat-mcp",
+  "source_url": "https://mcp.so/server/tugboat-mcp/Lullabot",
+  "install": "npx -y tugboat-mcp"
+}

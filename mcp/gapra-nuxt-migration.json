@@ -1,0 +1,7 @@
+{
+  "name": "gapra-nuxt-migration",
+  "description": "Automates Nuxt 2/3 to Nuxt 3/4 migration with pattern detection, code analysis, and automated generation of Pinia stores, composables, and TypeScript types.",
+  "source_repo": "gapra/gp-nuxt-migration-mcp",
+  "source_url": "https://github.com/gapra/gp-nuxt-migration-mcp",
+  "install": "npx -y gp-nuxt-migration-mcp"
+}

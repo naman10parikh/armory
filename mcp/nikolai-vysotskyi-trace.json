@@ -1,0 +1,7 @@
+{
+  "name": "nikolai-vysotskyi-trace",
+  "description": "Framework-aware code intelligence MCP server with 44+ tools for code tracing, analysis, and debugging.",
+  "source_repo": "nikolai-vysotskyi/trace-mcp",
+  "source_url": "https://github.com/nikolai-vysotskyi/trace-mcp",
+  "install": "npx -y trace-mcp"
+}

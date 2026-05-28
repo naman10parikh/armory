@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-wikiviews",
+  "description": "Wikipedia page view statistics via the Wikimedia Pageviews API — query article traffic data by date range and project.",
+  "source_repo": "pipeworx-io/mcp-wikiviews",
+  "source_url": "https://github.com/pipeworx-io/mcp-wikiviews",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-wikiviews\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "justfsl50-expense-tracker",
+  "description": "Personal expense tracking with budgets, income, and savings goals.",
+  "source_repo": "justfsl50/expense-mcp",
+  "source_url": "https://github.com/justfsl50/expense-mcp",
+  "install": "npx -y expense-mcp"
+}

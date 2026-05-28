@@ -1,0 +1,7 @@
+{
+  "name": "asuswrt-mcp-server",
+  "description": "Enables AI assistants to monitor and securely manage AsusWRT and AsusWRT-Merlin routers via SSH with allowlisted commands, supporting read-only monitoring and controlled mutations.",
+  "source_repo": "teefloo/asuswrt-mcp",
+  "source_url": "https://github.com/teefloo/asuswrt-mcp",
+  "install": "npx -y asuswrt-mcp"
+}

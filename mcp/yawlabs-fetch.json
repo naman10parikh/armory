@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-fetch",
+  "description": "HTTP fetch server with SSRF protection, HTML-to-markdown conversion, reader mode, and metadata extraction.",
+  "source_repo": "yawlabs/fetch-mcp",
+  "source_url": "https://github.com/yawlabs/fetch-mcp",
+  "install": "npx -y fetch-mcp"
+}

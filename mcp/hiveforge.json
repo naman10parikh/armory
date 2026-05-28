@@ -1,0 +1,7 @@
+{
+  "name": "hiveforge",
+  "description": "Agent spawning, lifecycle management, and population control for AI economies.",
+  "source_repo": "srotzin/hiveforge",
+  "source_url": "https://github.com/srotzin/hiveforge",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hiveforge\n# See source for mcpServers config block"
+}

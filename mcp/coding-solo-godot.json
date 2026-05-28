@@ -1,0 +1,7 @@
+{
+  "name": "coding-solo-godot",
+  "description": "Interface with the Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.",
+  "source_repo": "coding-solo/godot-mcp",
+  "source_url": "https://github.com/coding-solo/godot-mcp",
+  "install": "npx -y godot-mcp"
+}

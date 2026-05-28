@@ -1,0 +1,7 @@
+{
+  "name": "joelio-stocky",
+  "description": "An MCP server for searching and downloading royalty-free stock photography from Pexels and Unsplash. Features multi-provider search, rich metadata, pagination support, and async performance for AI assistants to find and access high-quality images.",
+  "source_repo": "joelio/stocky",
+  "source_url": "https://github.com/joelio/stocky",
+  "install": "# git clone --depth 1 https://github.com/joelio/stocky\n# See source for mcpServers config block"
+}

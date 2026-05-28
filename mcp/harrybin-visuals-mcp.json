@@ -1,0 +1,7 @@
+{
+  "name": "harrybin-visuals-mcp",
+  "description": "Interactive visualizations including tables, images, trees, and lists.",
+  "source_repo": "harrybin/visuals-mcp",
+  "source_url": "https://github.com/harrybin/visuals-mcp",
+  "install": "npx -y visuals-mcp"
+}

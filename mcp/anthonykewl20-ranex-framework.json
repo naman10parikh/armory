@@ -1,0 +1,7 @@
+{
+  "name": "anthonykewl20-ranex-framework",
+  "description": "Hybrid governance framework combining Rust-based security scanning with Python application development through contract decorators, enabling automated security auditing and architectural constraint enforcement.",
+  "source_repo": "anthonykewl20/ranex-framework",
+  "source_url": "https://github.com/anthonykewl20/ranex-framework",
+  "install": "# git clone --depth 1 https://github.com/anthonykewl20/ranex-framework\n# See source for mcpServers config block"
+}

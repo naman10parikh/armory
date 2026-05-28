@@ -1,0 +1,7 @@
+{
+  "name": "emergent-wisdom-understanding-graph",
+  "description": "Persistent reasoning memory for AI agents via typed cognitive nodes and supersedes edges.",
+  "source_repo": "emergent-wisdom/understanding-graph",
+  "source_url": "https://github.com/emergent-wisdom/understanding-graph",
+  "install": "# git clone --depth 1 https://github.com/emergent-wisdom/understanding-graph\n# See source for mcpServers config block"
+}

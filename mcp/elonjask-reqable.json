@@ -1,0 +1,7 @@
+{
+  "name": "elonjask-reqable",
+  "description": "Captures and analyzes HTTP and WebSocket traffic from Reqable proxy with local SQLite storage, domain statistics, API shape inference, and code generation.",
+  "source_repo": "elonjask/reqable-mcp",
+  "source_url": "https://github.com/elonjask/reqable-mcp",
+  "install": "npx -y reqable-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "themesberg-flowbite",
+  "description": "Access to 60+ Tailwind CSS UI components and AI-powered theme generation",
+  "source_repo": "themesberg/flowbite-mcp",
+  "source_url": "https://github.com/themesberg/flowbite-mcp",
+  "install": "npx -y flowbite-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "algonacci-tavily-extract",
+  "description": "Integrates with the Tavily API to extract web page content, enabling efficient web scraping capabilities for projects requiring content extraction.",
+  "source_repo": "algonacci/mcp-tavily-extract",
+  "source_url": "https://github.com/algonacci/mcp-tavily-extract",
+  "install": "# git clone --depth 1 https://github.com/algonacci/mcp-tavily-extract\n# See source for mcpServers config block"
+}

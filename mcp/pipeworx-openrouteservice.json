@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-openrouteservice",
+  "description": "Routing, isochrones, matrix calculations, snapping, elevation, and geocoding via Openrouteservice through the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-openrouteservice",
+  "source_url": "https://github.com/pipeworx-io/mcp-openrouteservice",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-openrouteservice\n# See source for mcpServers config block"
+}

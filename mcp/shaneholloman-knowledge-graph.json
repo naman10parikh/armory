@@ -1,0 +1,7 @@
+{
+  "name": "shaneholloman-knowledge-graph",
+  "description": "Enables persistent memory and structured knowledge management for enhanced personalization and context retention in natural language interactions through a local graph database.",
+  "source_repo": "shaneholloman/mcp-knowledge-graph",
+  "source_url": "https://github.com/shaneholloman/mcp-knowledge-graph",
+  "install": "# git clone --depth 1 https://github.com/shaneholloman/mcp-knowledge-graph\n# See source for mcpServers config block"
+}

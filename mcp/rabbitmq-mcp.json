@@ -1,0 +1,7 @@
+{
+  "name": "rabbitmq-mcp",
+  "description": "An MCP server for RabbitMQ that exposes the RabbitMQ HTTP API as tools, enabling natural language interaction with RabbitMQ management.",
+  "source_repo": "kmitchell/rabbitmq-mcp",
+  "source_url": "https://github.com/kmitchell/rabbitmq-mcp",
+  "install": "npx -y rabbitmq-mcp"
+}

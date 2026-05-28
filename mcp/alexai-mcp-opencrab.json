@@ -1,0 +1,7 @@
+{
+  "name": "alexai-mcp-opencrab",
+  "description": "MetaOntology OS integration for ontology-structured agent environments.",
+  "source_repo": "alexai-mcp/opencrab",
+  "source_url": "https://github.com/alexai-mcp/opencrab",
+  "install": "# git clone --depth 1 https://github.com/alexai-mcp/opencrab\n# See source for mcpServers config block"
+}

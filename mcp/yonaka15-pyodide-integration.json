@@ -1,0 +1,7 @@
+{
+  "name": "yonaka15-pyodide-integration",
+  "description": "Integrates Pyodide to enable Python execution in JavaScript environments.",
+  "source_repo": "yonaka15/mcp-pyodide",
+  "source_url": "https://github.com/yonaka15/mcp-pyodide",
+  "install": "# git clone --depth 1 https://github.com/yonaka15/mcp-pyodide\n# See source for mcpServers config block"
+}

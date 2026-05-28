@@ -1,0 +1,7 @@
+{
+  "name": "conan-io-conan-mcp",
+  "description": "Official MCP server for Conan C/C++ package manager. Create projects, manage dependencies, check licenses, and scan for security vulnerabilities.",
+  "source_repo": "conan-io/conan-mcp",
+  "source_url": "https://github.com/conan-io/conan-mcp",
+  "install": "npx -y conan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sunsetcoder-flightradar24",
+  "description": "Integrates Flightradar24 data to provide real-time flight tracking capabilities.",
+  "source_repo": "sunsetcoder/flightradar24-mcp-server",
+  "source_url": "https://github.com/sunsetcoder/flightradar24-mcp-server",
+  "install": "npx -y flightradar24-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yonaka15-redmine",
+  "description": "Integrates with Redmine to enable natural language queries and updates for issue tracking, time logging, and project planning.",
+  "source_repo": "yonaka15/mcp-server-redmine",
+  "source_url": "https://github.com/yonaka15/mcp-server-redmine",
+  "install": "# git clone --depth 1 https://github.com/yonaka15/mcp-server-redmine\n# See source for mcpServers config block"
+}

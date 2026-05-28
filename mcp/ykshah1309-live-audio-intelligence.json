@@ -1,0 +1,7 @@
+{
+  "name": "ykshah1309-live-audio-intelligence",
+  "description": "Provides real-time transcription and vocal stress analysis of live financial webcasts and earnings calls, detecting speaker hesitation and pitch jitter.",
+  "source_repo": "ykshah1309/live-audio-intelligence-mcp",
+  "source_url": "https://github.com/ykshah1309/live-audio-intelligence-mcp",
+  "install": "npx -y live-audio-intelligence-mcp"
+}

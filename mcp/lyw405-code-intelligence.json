@@ -1,0 +1,7 @@
+{
+  "name": "lyw405-code-intelligence",
+  "description": "Analyzes private codebases and libraries to recommend relevant UI components and utility functions based on user requirements, while redesigning prompts for better development assistance.",
+  "source_repo": "lyw405/code-intelligence-mcp",
+  "source_url": "https://github.com/lyw405/code-intelligence-mcp",
+  "install": "npx -y code-intelligence-mcp"
+}

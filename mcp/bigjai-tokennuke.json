@@ -1,0 +1,7 @@
+{
+  "name": "bigjai-tokennuke",
+  "description": "Code indexing with tree-sitter AST extraction, hybrid search, call graphs, and O(1) symbol retrieval.",
+  "source_repo": "bigjai/tokennuke",
+  "source_url": "https://github.com/bigjai/tokennuke",
+  "install": "# git clone --depth 1 https://github.com/bigjai/tokennuke\n# See source for mcpServers config block"
+}

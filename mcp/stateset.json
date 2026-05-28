@@ -1,0 +1,7 @@
+{
+  "name": "stateset",
+  "description": "Integrates with StateSet's issue operations system, enabling management of returns, orders, warranties, shipments, and manufacturing processes through a robust set of tools for creating and updating business records.",
+  "source_repo": "stateset/stateset-mcp-server",
+  "source_url": "https://github.com/stateset/stateset-mcp-server",
+  "install": "npx -y stateset-mcp-server"
+}

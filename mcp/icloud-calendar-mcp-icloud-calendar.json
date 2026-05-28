@@ -1,0 +1,7 @@
+{
+  "name": "icloud-calendar-mcp-icloud-calendar",
+  "description": "Secure iCloud Calendar access via CalDAV with OWASP-aligned security controls.",
+  "source_repo": "icloud-calendar-mcp/icloud-calendar-mcp",
+  "source_url": "https://github.com/icloud-calendar-mcp/icloud-calendar-mcp",
+  "install": "npx -y icloud-calendar-mcp"
+}

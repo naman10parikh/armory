@@ -1,0 +1,7 @@
+{
+  "name": "tambo-docs",
+  "description": "Provides access to Tambo documentation through web scraping and search capabilities, enabling quick reference lookups and contextual help during development workflows.",
+  "source_repo": "kylegrahammatzen/tambo-mcp-server",
+  "source_url": "https://github.com/kylegrahammatzen/tambo-mcp-server",
+  "install": "npx -y tambo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "preetash88-ecommerce-product-inventory",
+  "description": "CRUD operations for product inventory through MySQL with repository pattern and Zod validation",
+  "source_repo": "preetash88/custom-ecommerce-mcp",
+  "source_url": "https://github.com/preetash88/custom-ecommerce-mcp",
+  "install": "npx -y custom-ecommerce-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alfanous",
+  "description": "Search and explore the Holy Qur'an with Arabic text, transliteration, and advanced search support.",
+  "source_repo": "alfanous-team/alfanous",
+  "source_url": "https://github.com/alfanous-team/alfanous",
+  "install": "# git clone --depth 1 https://github.com/alfanous-team/alfanous\n# See source for mcpServers config block"
+}

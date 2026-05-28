@@ -1,0 +1,7 @@
+{
+  "name": "viliandyleonardo-hanzi",
+  "description": "Displays animated Chinese character stroke order diagrams using the Hanzi Writer library in Claude Desktop.",
+  "source_repo": "viliandyleonardo/hanzi-mcp",
+  "source_url": "https://github.com/viliandyleonardo/hanzi-mcp",
+  "install": "npx -y hanzi-mcp"
+}

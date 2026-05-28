@@ -1,0 +1,7 @@
+{
+  "name": "royshil-obs",
+  "description": "Enables control of OBS Studio through WebSocket protocol, allowing scene management, source control, streaming operations, and transitions for automated broadcasting workflows.",
+  "source_repo": "royshil/obs-mcp",
+  "source_url": "https://github.com/royshil/obs-mcp",
+  "install": "npx -y obs-mcp"
+}

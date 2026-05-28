@@ -1,0 +1,7 @@
+{
+  "name": "mountainmystic-hedera",
+  "description": "Hedera ecosystem intelligence for AI agents with 29 tools and HBAR pay-per-call billing.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/mountainmystic-hedera",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/mountainmystic-hedera\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "georgeck-hn-companion",
+  "description": "Analyzes and processes Hacker News discussions, extracting key insights from comment hierarchies based on engagement metrics for efficient thread summarization.",
+  "source_repo": "georgeck/hn-companion-mcp",
+  "source_url": "https://github.com/georgeck/hn-companion-mcp",
+  "install": "npx -y hn-companion-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "us-all-dbt",
+  "description": "dbt integration for parsing manifests, run results, sources, and catalog data.",
+  "source_repo": "us-all/dbt-mcp-server",
+  "source_url": "https://github.com/us-all/dbt-mcp-server",
+  "install": "npx -y dbt-mcp-server"
+}

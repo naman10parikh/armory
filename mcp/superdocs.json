@@ -1,0 +1,7 @@
+{
+  "name": "superdocs",
+  "description": "Edits, drafts, searches, and exports styled documents through the Superdocs platform.",
+  "source_repo": "superdocsapp/superdocs-plugin",
+  "source_url": "https://github.com/superdocsapp/superdocs-plugin",
+  "install": "# git clone --depth 1 https://github.com/superdocsapp/superdocs-plugin\n# See source for mcpServers config block"
+}

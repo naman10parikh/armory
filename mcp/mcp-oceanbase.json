@@ -1,0 +1,7 @@
+{
+  "name": "mcp-oceanbase",
+  "description": "Mcp Oceanbase MCP server listed on mcp.so.",
+  "source_repo": "oceanbase/mcp-oceanbase",
+  "source_url": "https://mcp.so/server/mcp-oceanbase/oceanbase",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-oceanbase/oceanbase\n# See source for mcpServers config block"
+}

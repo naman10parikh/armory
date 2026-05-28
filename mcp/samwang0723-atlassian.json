@@ -1,0 +1,7 @@
+{
+  "name": "samwang0723-atlassian",
+  "description": "Integrates with Atlassian's Confluence and JIRA APIs to enable content creation, issue tracking, and project management within Atlassian ecosystems.",
+  "source_repo": "samwang0723/mcp-atlassian",
+  "source_url": "https://github.com/samwang0723/mcp-atlassian",
+  "install": "# git clone --depth 1 https://github.com/samwang0723/mcp-atlassian\n# See source for mcpServers config block"
+}

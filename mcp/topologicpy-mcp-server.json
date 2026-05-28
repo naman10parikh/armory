@@ -1,0 +1,7 @@
+{
+  "name": "topologicpy-mcp-server",
+  "description": "Enables LLMs to perform architectural spatial modeling through natural language, including creating, manipulating, and analyzing 3D building models using TopologicPy.",
+  "source_repo": "Adventurous-Systems/topologicpy_MCP",
+  "source_url": "https://github.com/Adventurous-Systems/topologicpy_MCP",
+  "install": "npx -y topologicpy_MCP"
+}

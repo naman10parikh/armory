@@ -1,0 +1,7 @@
+{
+  "name": "paidsync",
+  "description": "Manage Google Ads, Meta Ads, and LinkedIn Ads through AI with 200+ tools and full read/write access.",
+  "source_repo": "paidsync/paidsync-mcp-server",
+  "source_url": "https://github.com/paidsync/paidsync-mcp-server",
+  "install": "npx -y paidsync-mcp-server"
+}

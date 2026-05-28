@@ -1,0 +1,7 @@
+{
+  "name": "awesome-mcp-servers",
+  "description": "Awesome Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "theriseunion/awesome-mcp-servers",
+  "source_url": "https://mcp.so/server/awesome-mcp-servers/theriseunion",
+  "install": "# git clone --depth 1 https://mcp.so/server/awesome-mcp-servers/theriseunion\n# See source for mcpServers config block"
+}

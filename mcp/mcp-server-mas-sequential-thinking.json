@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-mas-sequential-thinking",
+  "description": "A modular, scalable server designed to enhance sequential thinking processes with performance monitoring and multi-language support.",
+  "source_repo": "iniarfia/mcp-server-mas-sequential-thinking",
+  "source_url": "https://github.com/iniarfia/mcp-server-mas-sequential-thinking",
+  "install": "# git clone --depth 1 https://github.com/iniarfia/mcp-server-mas-sequential-thinking\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grasshopper-mcp",
+  "description": "Grasshopper Mcp MCP server listed on mcp.so.",
+  "source_repo": "alfredatnycu/grasshopper-mcp",
+  "source_url": "https://mcp.so/server/grasshopper-mcp/alfredatnycu",
+  "install": "npx -y grasshopper-mcp"
+}

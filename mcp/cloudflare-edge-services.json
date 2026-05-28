@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-edge-services",
+  "description": "Provides image generation, URL content extraction, and web search capabilities through Cloudflare Workers deployed globally on edge networks for high performance and scalability.",
+  "source_repo": "turinhub/cf-mcp-server",
+  "source_url": "https://github.com/turinhub/cf-mcp-server",
+  "install": "npx -y cf-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nguyenvanduocit-confluence",
+  "description": "Provides a robust bridge to the Atlassian Confluence API, enabling search, retrieval, creation, and update of Confluence pages with full-text search and version control capabilities.",
+  "source_repo": "nguyenvanduocit/confluence-mcp",
+  "source_url": "https://github.com/nguyenvanduocit/confluence-mcp",
+  "install": "npx -y confluence-mcp"
+}

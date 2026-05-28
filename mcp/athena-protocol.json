@@ -1,0 +1,7 @@
+{
+  "name": "athena-protocol",
+  "description": "AI tech lead for coding agents with validation and impact analysis",
+  "source_repo": "n0zer0d4y/athena-protocol",
+  "source_url": "https://github.com/n0zer0d4y/athena-protocol",
+  "install": "# git clone --depth 1 https://github.com/n0zer0d4y/athena-protocol\n# See source for mcpServers config block"
+}

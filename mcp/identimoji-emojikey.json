@@ -1,0 +1,7 @@
+{
+  "name": "identimoji-emojikey",
+  "description": "Integrates with Supabase to persist and retrieve LLM interaction styles using emojikeys, enabling consistent personalized experiences across conversations.",
+  "source_repo": "identimoji/mcp-server-emojikey",
+  "source_url": "https://github.com/identimoji/mcp-server-emojikey",
+  "install": "# git clone --depth 1 https://github.com/identimoji/mcp-server-emojikey\n# See source for mcpServers config block"
+}

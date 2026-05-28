@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-klaviyo",
+  "description": "Klaviyo email and SMS marketing integration for campaigns, profiles, and customer segment data.",
+  "source_repo": "pipeworx-io/mcp-klaviyo",
+  "source_url": "https://github.com/pipeworx-io/mcp-klaviyo",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-klaviyo\n# See source for mcpServers config block"
+}

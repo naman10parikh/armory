@@ -1,0 +1,7 @@
+{
+  "name": "darkhorseone-uk-parliament-oral-questions-motions",
+  "description": "Accesses UK Parliament Oral Questions and Motions API for early day motions, oral questions, and answering schedules.",
+  "source_repo": "darkhorseone/mcp-servers",
+  "source_url": "https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-oralquestionsandmotions",
+  "install": "# git clone --depth 1 https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-oralquestionsandmotions\n# See source for mcpServers config block"
+}

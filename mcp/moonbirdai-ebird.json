@@ -1,0 +1,7 @@
+{
+  "name": "moonbirdai-ebird",
+  "description": "Integrates with the eBird API to provide real-time bird observation data, including recent sightings, notable observations, hotspots, and taxonomy information by region or geographic coordinates.",
+  "source_repo": "moonbirdai/ebird-mcp-server",
+  "source_url": "https://github.com/moonbirdai/ebird-mcp-server",
+  "install": "npx -y ebird-mcp-server"
+}

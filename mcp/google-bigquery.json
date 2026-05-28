@@ -1,0 +1,7 @@
+{
+  "name": "google-bigquery",
+  "description": "Official Google Cloud BigQuery remote server that runs on managed infrastructure with HTTPS endpoints, IAM authorization, and audit logging to enable understanding user intent, examining BigQuery resources, generating and executing SQL queries, and interpreting results for conversational data analysis workflows.",
+  "source_repo": "",
+  "source_url": "https://docs.cloud.google.com/bigquery/docs/use-bigquery-mcp",
+  "install": "# git clone --depth 1 https://docs.cloud.google.com/bigquery/docs/use-bigquery-mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "masondelan-selvedge",
+  "description": "Change tracking for AI-era codebases. AI agents call it to log structured change events (entity + diff + reasoning) before the session ends, then query history with diff, blame, history, changeset, and search. Captures the intent that would otherwise evaporate.",
+  "source_repo": "masondelan/selvedge",
+  "source_url": "https://github.com/masondelan/selvedge",
+  "install": "# git clone --depth 1 https://github.com/masondelan/selvedge\n# See source for mcpServers config block"
+}

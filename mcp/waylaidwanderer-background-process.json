@@ -1,0 +1,7 @@
+{
+  "name": "waylaidwanderer-background-process",
+  "description": "Provides background process management capabilities, enabling LLMs to start, stop, and monitor long-running command-line processes.",
+  "source_repo": "waylaidwanderer/background-process-mcp",
+  "source_url": "https://github.com/waylaidwanderer/background-process-mcp",
+  "install": "npx -y background-process-mcp"
+}

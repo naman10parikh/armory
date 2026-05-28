@@ -1,0 +1,7 @@
+{
+  "name": "mrkhachaturov-yandex-metrika",
+  "description": "Integrates with Yandex Metrika analytics API to provide 31 tools for traffic, content, demographic, geographic, and conversion data analysis.",
+  "source_repo": "mrkhachaturov/ya-metrics-mcp",
+  "source_url": "https://github.com/mrkhachaturov/ya-metrics-mcp",
+  "install": "npx -y ya-metrics-mcp"
+}

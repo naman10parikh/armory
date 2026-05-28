@@ -1,0 +1,7 @@
+{
+  "name": "snyk-api-web-mcp-server",
+  "description": "Connects AI coding assistants to Snyk API & Web for onboarding scan targets, configuring authentication, running DAST scans, and triaging findings through natural language.",
+  "source_repo": "snyk/saw-mcp",
+  "source_url": "https://github.com/snyk/saw-mcp",
+  "install": "npx -y saw-mcp"
+}

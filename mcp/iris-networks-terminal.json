@@ -1,0 +1,7 @@
+{
+  "name": "iris-networks-terminal",
+  "description": "Provides secure terminal command execution through both isolated commands and persistent shell sessions that maintain state across interactions, supporting cross-platform automation workflows with configurable timeouts and session management.",
+  "source_repo": "iris-networks/terminal_mcp",
+  "source_url": "https://github.com/iris-networks/terminal_mcp",
+  "install": "npx -y terminal_mcp"
+}

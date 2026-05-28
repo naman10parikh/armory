@@ -1,0 +1,7 @@
+{
+  "name": "thewebscrapingclub-ai-cursor-scraping-assistant",
+  "description": "Streamlines web scraper development for e-commerce sites by analyzing website structure, detecting anti-bot protections, and generating Scrapy or Camoufox scrapers through a structured workflow.",
+  "source_repo": "thewebscrapingclub/ai-cursor-scraping-assistant",
+  "source_url": "https://github.com/thewebscrapingclub/ai-cursor-scraping-assistant",
+  "install": "# git clone --depth 1 https://github.com/thewebscrapingclub/ai-cursor-scraping-assistant\n# See source for mcpServers config block"
+}

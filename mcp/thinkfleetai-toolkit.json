@@ -1,0 +1,7 @@
+{
+  "name": "thinkfleetai-toolkit",
+  "description": "Framework for building MCP tool providers with abstract base classes, automatic retries, and service registration.",
+  "source_repo": "thinkfleetai/mcp-toolkit",
+  "source_url": "https://github.com/thinkfleetai/mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/thinkfleetai/mcp-toolkit\n# See source for mcpServers config block"
+}

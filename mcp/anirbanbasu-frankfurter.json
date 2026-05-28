@@ -1,0 +1,7 @@
+{
+  "name": "anirbanbasu-frankfurter",
+  "description": "Integrates with the Frankfurter API to provide real-time currency exchange rates, historical rate data, and currency conversion capabilities for financial applications and currency analysis workflows.",
+  "source_repo": "anirbanbasu/frankfurtermcp",
+  "source_url": "https://github.com/anirbanbasu/frankfurtermcp",
+  "install": "# git clone --depth 1 https://github.com/anirbanbasu/frankfurtermcp\n# See source for mcpServers config block"
+}

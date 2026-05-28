@@ -1,0 +1,7 @@
+{
+  "name": "aybelatchane-terminal",
+  "description": "Playwright-like automation for terminal applications",
+  "source_repo": "aybelatchane/mcp-server-terminal",
+  "source_url": "https://github.com/aybelatchane/mcp-server-terminal",
+  "install": "# git clone --depth 1 https://github.com/aybelatchane/mcp-server-terminal\n# See source for mcpServers config block"
+}

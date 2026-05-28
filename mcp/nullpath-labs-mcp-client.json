@@ -1,0 +1,7 @@
+{
+  "name": "nullpath-labs-mcp-client",
+  "description": "AI agent marketplace with x402 micropayments. Discover, execute, and pay agents per-request via MCP with USDC on Base.",
+  "source_repo": "nullpath-labs/mcp-client",
+  "source_url": "https://github.com/nullpath-labs/mcp-client",
+  "install": "# git clone --depth 1 https://github.com/nullpath-labs/mcp-client\n# See source for mcpServers config block"
+}

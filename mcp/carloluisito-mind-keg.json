@@ -1,0 +1,7 @@
+{
+  "name": "carloluisito-mind-keg",
+  "description": "Persistent memory for AI coding agents that stores and retrieves atomic learnings across sessions using semantic search and SQLite.",
+  "source_repo": "carloluisito/mindkeg-mcp",
+  "source_url": "https://github.com/carloluisito/mindkeg-mcp",
+  "install": "npx -y mindkeg-mcp"
+}

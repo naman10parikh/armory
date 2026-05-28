@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-fdic",
+  "description": "FDIC BankFind Suite API data on insured financial institutions, free with no authentication required.",
+  "source_repo": "pipeworx-io/mcp-fdic",
+  "source_url": "https://github.com/pipeworx-io/mcp-fdic",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-fdic\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "axenodev-minemcp",
+  "description": "Minecraft Paper plugin enabling AI agents to control servers through world manipulation, command execution, file operations, and player monitoring via HTTP/SSE API.",
+  "source_repo": "axenodev/minemcp",
+  "source_url": "https://github.com/axenodev/minemcp",
+  "install": "# git clone --depth 1 https://github.com/axenodev/minemcp\n# See source for mcpServers config block"
+}

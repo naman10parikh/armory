@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-foursquare",
+  "description": "Foursquare v3 Places API for point-of-interest searches, venue details, and nearby place discovery via Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-foursquare",
+  "source_url": "https://github.com/pipeworx-io/mcp-foursquare",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-foursquare\n# See source for mcpServers config block"
+}

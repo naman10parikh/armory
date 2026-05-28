@@ -1,0 +1,7 @@
+{
+  "name": "sunwood-ai-labs-iris",
+  "description": "Integrates with Git to provide version control, project management, and code analysis capabilities for TypeScript projects.",
+  "source_repo": "sunwood-ai-labs/release-notes-generator-iris-mcp-server",
+  "source_url": "https://github.com/sunwood-ai-labs/release-notes-generator-iris-mcp-server",
+  "install": "npx -y release-notes-generator-iris-mcp-server"
+}

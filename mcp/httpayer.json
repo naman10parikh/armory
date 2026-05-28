@@ -1,0 +1,7 @@
+{
+  "name": "httpayer",
+  "description": "Transparent x402 payment handling for AI agents with credit-based billing, cost simulation, and automatic settlement.",
+  "source_repo": "httpayer/mcp",
+  "source_url": "https://github.com/httpayer/mcp",
+  "install": "# git clone --depth 1 https://github.com/httpayer/mcp\n# See source for mcpServers config block"
+}

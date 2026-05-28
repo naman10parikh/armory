@@ -1,0 +1,7 @@
+{
+  "name": "thezenmonster-agentscore",
+  "description": "Scan software packages for security vulnerabilities with AI agent support.",
+  "source_repo": "thezenmonster/agentscore-mcp-server",
+  "source_url": "https://github.com/thezenmonster/agentscore-mcp-server",
+  "install": "npx -y agentscore-mcp-server"
+}

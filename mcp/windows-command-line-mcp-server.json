@@ -1,0 +1,7 @@
+{
+  "name": "windows-command-line-mcp-server",
+  "description": "Windows Command Line MCP Server MCP server listed on mcp.so.",
+  "source_repo": "alxspiker/Windows-Command-Line-MCP-Server",
+  "source_url": "https://mcp.so/server/Windows-Command-Line-MCP-Server/alxspiker",
+  "install": "npx -y Windows-Command-Line-MCP-Server"
+}

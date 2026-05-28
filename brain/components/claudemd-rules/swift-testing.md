@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [swift-coding-style, swift-hooks]
-tags: [ecc, rules, swift]
+tags: [rules, swift]
 ---
 ## What it is
 swift rule: apply when working on swift and you need Swift Testing.

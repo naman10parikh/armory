@@ -1,0 +1,7 @@
+{
+  "name": "arben-adm-brave-search",
+  "description": "Integrates with Brave Search API to enable web searches and local business lookups via natural language queries.",
+  "source_repo": "arben-adm/brave-mcp-search",
+  "source_url": "https://github.com/arben-adm/brave-mcp-search",
+  "install": "# git clone --depth 1 https://github.com/arben-adm/brave-mcp-search\n# See source for mcpServers config block"
+}

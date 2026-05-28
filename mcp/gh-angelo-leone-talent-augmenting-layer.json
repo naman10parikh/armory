@@ -1,0 +1,7 @@
+{
+  "name": "gh-angelo-leone-talent-augmenting-layer",
+  "description": "Personalised AI augmentation system that makes you better at your work.",
+  "source_repo": "angelo-leone/talent-augmenting-layer",
+  "source_url": "https://github.com/angelo-leone/talent-augmenting-layer",
+  "install": "# git clone --depth 1 https://github.com/angelo-leone/talent-augmenting-layer\n# See source for mcpServers config block"
+}

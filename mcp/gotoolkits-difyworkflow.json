@@ -1,0 +1,7 @@
+{
+  "name": "gotoolkits-difyworkflow",
+  "description": "Integrates with the Dify API to enable AI-driven workflow execution and management for automated task processing and decision making across domains.",
+  "source_repo": "gotoolkits/mcp-difyworkflow-server",
+  "source_url": "https://github.com/gotoolkits/mcp-difyworkflow-server",
+  "install": "# git clone --depth 1 https://github.com/gotoolkits/mcp-difyworkflow-server\n# See source for mcpServers config block"
+}

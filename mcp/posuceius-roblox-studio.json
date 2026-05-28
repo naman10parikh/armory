@@ -1,0 +1,7 @@
+{
+  "name": "posuceius-roblox-studio",
+  "description": "Bridges AI assistants with Roblox Studio for game structure exploration, script editing, UI generation, and bulk changes.",
+  "source_repo": "posuceius/robloxstudio-mcp-posu",
+  "source_url": "https://github.com/posuceius/robloxstudio-mcp-posu",
+  "install": "# git clone --depth 1 https://github.com/posuceius/robloxstudio-mcp-posu\n# See source for mcpServers config block"
+}

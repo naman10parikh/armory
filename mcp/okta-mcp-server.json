@@ -1,0 +1,7 @@
+{
+  "name": "okta-mcp-server",
+  "description": "Okta Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "YiyangLi/okta-mcp-server",
+  "source_url": "https://mcp.so/server/okta-mcp-server/YiyangLi",
+  "install": "npx -y okta-mcp-server"
+}

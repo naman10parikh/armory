@@ -1,0 +1,7 @@
+{
+  "name": "mssql-mcp",
+  "description": "Mssql Mcp MCP server listed on mcp.so.",
+  "source_repo": "daobataotie/mssql-mcp",
+  "source_url": "https://mcp.so/server/mssql-mcp/daobataotie",
+  "install": "npx -y mssql-mcp"
+}

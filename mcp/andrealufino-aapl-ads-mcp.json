@@ -1,0 +1,7 @@
+{
+  "name": "andrealufino-aapl-ads-mcp",
+  "description": "Reach for andrealufino/aapl-ads-mcp when you need the MCP server it provides.",
+  "source_repo": "andrealufino/aapl-ads-mcp",
+  "source_url": "https://github.com/andrealufino/aapl-ads-mcp",
+  "install": "npx -y aapl-ads-mcp"
+}

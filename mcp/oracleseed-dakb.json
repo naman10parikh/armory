@@ -1,0 +1,7 @@
+{
+  "name": "oracleseed-dakb",
+  "description": "Enables multi-agent collaboration and knowledge sharing across machines with semantic search, cross-agent messaging, session handoffs, and institutional memory.",
+  "source_repo": "oracleseed/dakb",
+  "source_url": "https://github.com/oracleseed/dakb",
+  "install": "# git clone --depth 1 https://github.com/oracleseed/dakb\n# See source for mcpServers config block"
+}

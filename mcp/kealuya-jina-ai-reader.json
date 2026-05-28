@@ -1,0 +1,7 @@
+{
+  "name": "kealuya-jina-ai-reader",
+  "description": "Provides a bridge to Jina.ai's reader service for fetching and parsing web content from URLs into markdown format suitable for analysis and summarization.",
+  "source_repo": "kealuya/mcp-jina-ai",
+  "source_url": "https://github.com/kealuya/mcp-jina-ai",
+  "install": "# git clone --depth 1 https://github.com/kealuya/mcp-jina-ai\n# See source for mcpServers config block"
+}

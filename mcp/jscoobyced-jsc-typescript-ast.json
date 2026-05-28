@@ -1,0 +1,7 @@
+{
+  "name": "jscoobyced-jsc-typescript-ast",
+  "description": "Parses TypeScript source files into AST and generates JSON representations of React components.",
+  "source_repo": "jscoobyced/jsc-typescript-ast-mcp",
+  "source_url": "https://github.com/jscoobyced/jsc-typescript-ast-mcp/tree/HEAD/code",
+  "install": "npx -y jsc-typescript-ast-mcp"
+}

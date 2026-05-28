@@ -1,0 +1,7 @@
+{
+  "name": "github30-zenn",
+  "description": "Automates article publishing from GitHub to Zenn",
+  "source_repo": "github30/zenn-mcp-server",
+  "source_url": "https://github.com/github30/zenn-mcp-server",
+  "install": "npx -y zenn-mcp-server"
+}

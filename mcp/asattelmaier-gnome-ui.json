@@ -1,0 +1,7 @@
+{
+  "name": "asattelmaier-gnome-ui",
+  "description": "GNOME Wayland desktop automation via AT-SPI element discovery and Mutter remote desktop input.",
+  "source_repo": "asattelmaier/gnome-ui-mcp",
+  "source_url": "https://github.com/asattelmaier/gnome-ui-mcp",
+  "install": "npx -y gnome-ui-mcp"
+}

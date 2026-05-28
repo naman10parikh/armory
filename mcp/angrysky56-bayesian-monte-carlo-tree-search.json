@@ -1,0 +1,7 @@
+{
+  "name": "angrysky56-bayesian-monte-carlo-tree-search",
+  "description": "Provides a Bayesian Monte Carlo Tree Search engine for systematic exploration of different angles and interpretations, balancing exploration versus exploitation through probabilistic approaches that evolve through multiple iterations.",
+  "source_repo": "angrysky56/mcts-mcp-server",
+  "source_url": "https://github.com/angrysky56/mcts-mcp-server",
+  "install": "npx -y mcts-mcp-server"
+}

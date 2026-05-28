@@ -1,0 +1,7 @@
+{
+  "name": "bolor-brain",
+  "description": "Modular cognitive architecture with memory systems, advanced reasoning, and self-evolving skills",
+  "source_repo": "photoxpedia/bolor-brain-mcp",
+  "source_url": "https://github.com/photoxpedia/bolor-brain-mcp",
+  "install": "npx -y bolor-brain-mcp"
+}

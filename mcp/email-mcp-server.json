@@ -1,0 +1,7 @@
+{
+  "name": "email-mcp-server",
+  "description": "Enables email integration via IMAP and SMTP, allowing model assistants to read, send, search emails, and list folders.",
+  "source_repo": "gabigabogabu/email-mcp-server",
+  "source_url": "https://github.com/gabigabogabu/email-mcp-server",
+  "install": "npx -y email-mcp-server"
+}

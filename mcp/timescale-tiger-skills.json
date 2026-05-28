@@ -1,0 +1,7 @@
+{
+  "name": "timescale-tiger-skills",
+  "description": "Provider-agnostic skills framework for extending LLM capabilities",
+  "source_repo": "timescale/tiger-skills-mcp-server",
+  "source_url": "https://github.com/timescale/tiger-skills-mcp-server",
+  "install": "npx -y tiger-skills-mcp-server"
+}

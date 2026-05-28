@@ -1,0 +1,7 @@
+{
+  "name": "evidai-xstocks",
+  "description": "Buy tokenized US stocks on Solana via Jupiter DEX in USDC with daily cap and dry-run mode.",
+  "source_repo": "evidai/agent-payment-mcp",
+  "source_url": "https://github.com/evidai/agent-payment-mcp",
+  "install": "npx -y agent-payment-mcp"
+}

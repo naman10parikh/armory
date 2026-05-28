@@ -1,0 +1,7 @@
+{
+  "name": "gh-asterixix-polish-academic",
+  "description": "Provides access to Polish academic databases, research repositories, government data, and weather services.",
+  "source_repo": "asterixix/polish-academic-mcp",
+  "source_url": "https://github.com/asterixix/polish-academic-mcp",
+  "install": "npx -y polish-academic-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dokploy-mcp",
+  "description": "Wraps the Dokploy REST API to expose Dokploy operations as MCP tools for managing projects, applications, compose stacks, deployments, domains, and environment variables.",
+  "source_repo": "wyattjoh/dokploy-mcp",
+  "source_url": "https://github.com/wyattjoh/dokploy-mcp",
+  "install": "npx -y dokploy-mcp"
+}

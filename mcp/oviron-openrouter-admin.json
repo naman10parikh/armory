@@ -1,0 +1,7 @@
+{
+  "name": "oviron-openrouter-admin",
+  "description": "Manages OpenRouter accounts with 26 tools for keys, credits, activity analysis, and guardrails.",
+  "source_repo": "oviron/openrouter-admin-mcp",
+  "source_url": "https://github.com/oviron/openrouter-admin-mcp",
+  "install": "npx -y openrouter-admin-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "egoughnour-massive-context",
+  "description": "Handles massive token contexts with intelligent chunking, sub-queries, and local Ollama inference.",
+  "source_repo": "egoughnour/massive-context-mcp",
+  "source_url": "https://github.com/egoughnour/massive-context-mcp",
+  "install": "npx -y massive-context-mcp"
+}

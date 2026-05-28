@@ -1,0 +1,7 @@
+{
+  "name": "rmasters-openapi",
+  "description": "Dynamically generates tools from OpenAPI specifications, enabling seamless interaction with a wide range of RESTful APIs for flexible service integration and rapid prototyping.",
+  "source_repo": "rmasters/mcp-openapi",
+  "source_url": "https://github.com/rmasters/mcp-openapi",
+  "install": "# git clone --depth 1 https://github.com/rmasters/mcp-openapi\n# See source for mcpServers config block"
+}

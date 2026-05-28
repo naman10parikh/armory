@@ -1,0 +1,7 @@
+{
+  "name": "whensport-sailing",
+  "description": "Access sailing and yachting event calendars including America's Cup, SailGP, and Vendée Globe with competitor info and venue data via 5 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/sailing",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/sailing\n# See source for mcpServers config block"
+}

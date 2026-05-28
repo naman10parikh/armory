@@ -1,0 +1,7 @@
+{
+  "name": "kuzu",
+  "description": "Bridge to Kuzu graph databases. Enables LLMs to inspect database schemas and execute queries.",
+  "source_repo": "kuzudb/kuzu-mcp-server",
+  "source_url": "https://github.com/kuzudb/kuzu-mcp-server",
+  "install": "npx -y kuzu-mcp-server"
+}

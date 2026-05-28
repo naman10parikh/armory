@@ -1,0 +1,7 @@
+{
+  "name": "sourabh-khot65-typesense-candidate-search",
+  "description": "Integrates with Typesense search to enable natural language queries for candidate profiles and resumes with powerful filtering, sorting, and grouping capabilities for recruitment workflows.",
+  "source_repo": "sourabh-khot65/typesense-mcp-server",
+  "source_url": "https://github.com/sourabh-khot65/typesense-mcp-server",
+  "install": "npx -y typesense-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cangjie-mcp",
+  "description": "MCP server for the Cangjie programming language, providing documentation search and LSP-based code intelligence.",
+  "source_repo": "Zxilly/cangjie-mcp",
+  "source_url": "https://github.com/Zxilly/cangjie-mcp",
+  "install": "npx -y cangjie-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "icloud-caldav-mcp-connector",
+  "description": "An HTTP Model Context Protocol (MCP) server exposing iCloud Calendar (CalDAV) tools so MCP-aware clients can list calendars, read events, and create/update/delete events using an iCloud app-specific password.",
+  "source_repo": "localhost433/icloud-mcp",
+  "source_url": "https://github.com/localhost433/icloud-mcp",
+  "install": "npx -y icloud-mcp"
+}

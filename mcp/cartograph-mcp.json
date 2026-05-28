@@ -1,0 +1,7 @@
+{
+  "name": "cartograph-mcp",
+  "description": "Exposes a focused widget workflow for agents, enabling search, inspect, install, create, validate, checkin, and configuration of Cartograph widgets without mirroring the full CLI.",
+  "source_repo": "benteigland11/cartograph-mcp",
+  "source_url": "https://github.com/benteigland11/cartograph-mcp",
+  "install": "npx -y cartograph-mcp"
+}

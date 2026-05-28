@@ -1,0 +1,7 @@
+{
+  "name": "heyzgj-coinmarketcap-fear-greed-index",
+  "description": "Integrates with CoinMarketCap API to provide real-time cryptocurrency data, market metrics, and Fear & Greed Index through TypeScript tools with smart caching and detailed error handling.",
+  "source_repo": "heyzgj/mcp-feargreedindex",
+  "source_url": "https://github.com/heyzgj/mcp-feargreedindex",
+  "install": "# git clone --depth 1 https://github.com/heyzgj/mcp-feargreedindex\n# See source for mcpServers config block"
+}

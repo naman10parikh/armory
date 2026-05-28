@@ -1,0 +1,7 @@
+{
+  "name": "summit53",
+  "description": "Revenue intelligence platform with tools for pipeline management, forecasting, and outreach.",
+  "source_repo": "summit53/mcp-server",
+  "source_url": "https://github.com/summit53/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/summit53/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sarveshsea-memoire",
+  "description": "Design consistency CI for Tailwind apps with shadcn/ui registry export and component management tools.",
+  "source_repo": "sarveshsea/memi",
+  "source_url": "https://github.com/sarveshsea/memi",
+  "install": "# git clone --depth 1 https://github.com/sarveshsea/memi\n# See source for mcpServers config block"
+}

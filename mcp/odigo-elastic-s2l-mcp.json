@@ -1,0 +1,7 @@
+{
+  "name": "odigo-elastic-s2l-mcp",
+  "description": "Connects LLMs to Elasticsearch with a Semantic-to-Lexical layer that translates technical field names into business knowledge, enabling autonomous querying without hardcoded domain logic.",
+  "source_repo": "rbeg1/odigo-elastic-s2l-mcp",
+  "source_url": "https://github.com/rbeg1/odigo-elastic-s2l-mcp",
+  "install": "npx -y odigo-elastic-s2l-mcp"
+}

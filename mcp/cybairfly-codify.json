@@ -1,0 +1,7 @@
+{
+  "name": "cybairfly-codify",
+  "description": "Create reusable automation tools from casual browser actions using Apify Agent.",
+  "source_repo": "cybairfly/codify-mcp",
+  "source_url": "https://github.com/cybairfly/codify-mcp",
+  "install": "npx -y codify-mcp"
+}

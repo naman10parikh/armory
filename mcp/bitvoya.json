@@ -1,0 +1,7 @@
+{
+  "name": "bitvoya",
+  "description": "Luxury hotel search, rate comparison, booking quotes, and secure checkout handoff.",
+  "source_repo": "seanbabalala/bitvoya-mcp",
+  "source_url": "https://github.com/seanbabalala/bitvoya-mcp",
+  "install": "npx -y bitvoya-mcp"
+}

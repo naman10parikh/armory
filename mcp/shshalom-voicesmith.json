@@ -1,0 +1,7 @@
+{
+  "name": "shshalom-voicesmith",
+  "description": "Adds speech-to-text and text-to-speech capabilities with automatic voice assignment, VAD-controlled recording, wake word activation, and tmux integration for terminal sessions.",
+  "source_repo": "shshalom/voicesmith-mcp",
+  "source_url": "https://github.com/shshalom/voicesmith-mcp",
+  "install": "npx -y voicesmith-mcp"
+}

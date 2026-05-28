@@ -1,0 +1,7 @@
+{
+  "name": "lite-iterm",
+  "description": "Provides AI models with direct access to iTerm terminal sessions for reading output, writing commands, and sending control characters, enabling efficient troubleshooting and task delegation in interactive terminal environments.",
+  "source_repo": "lite/iterm-mcp",
+  "source_url": "https://github.com/lite/iterm-mcp",
+  "install": "npx -y iterm-mcp"
+}

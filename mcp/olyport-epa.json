@@ -1,0 +1,7 @@
+{
+  "name": "olyport-epa",
+  "description": "Toxics Release Inventory, Superfund sites, air quality data, and AQI from the EPA.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/epa/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/epa/mcp\n# See source for mcpServers config block"
+}

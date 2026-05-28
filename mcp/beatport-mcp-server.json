@@ -1,0 +1,7 @@
+{
+  "name": "beatport-mcp-server",
+  "description": "An MCP server that provides access to the Beatport API for music discovery and data retrieval, enabling users to search for tracks, artists, labels, releases, and charts through natural language.",
+  "source_repo": "ivo-toby/beatport-mcp-server",
+  "source_url": "https://github.com/ivo-toby/beatport-mcp-server",
+  "install": "npx -y beatport-mcp-server"
+}

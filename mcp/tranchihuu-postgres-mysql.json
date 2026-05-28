@@ -1,0 +1,7 @@
+{
+  "name": "tranchihuu-postgres-mysql",
+  "description": "Unified database connectivity for PostgreSQL and MySQL with connection pooling, parameterized queries, and schema introspection.",
+  "source_repo": "tranchihuu/postgres-mysql-mcp-server",
+  "source_url": "https://github.com/tranchihuu/postgres-mysql-mcp-server",
+  "install": "npx -y postgres-mysql-mcp-server"
+}

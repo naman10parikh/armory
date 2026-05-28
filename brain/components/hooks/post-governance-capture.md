@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [post-bash-dispatcher, post-ecc-context-monitor]
-tags: [ecc, hook, PostToolUse]
+tags: [hook, PostToolUse]
 ---
 ## What it is
 PostToolUse hook: Capture governance events from tool outputs. Enable with ECC_GOVERNANCE_CAPTURE=1 (matcher: Bash|Write|Edit|MultiEdit).

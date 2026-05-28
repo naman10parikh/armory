@@ -1,0 +1,7 @@
+{
+  "name": "gh-es617-obsidian-sync",
+  "description": "Access Obsidian vaults via filesystem or CouchDB with Self-hosted LiveSync support.",
+  "source_repo": "es617/obsidian-sync-mcp",
+  "source_url": "https://github.com/es617/obsidian-sync-mcp",
+  "install": "npx -y obsidian-sync-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codecraftersllc-local-voice",
+  "description": "Run local text-to-speech models with Chatterbox and Kokoro engines",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/codecraftersllc-local-voice",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/codecraftersllc-local-voice\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kornbed-jira",
+  "description": "Provides a TypeScript-based integration with Jira, enabling direct interaction with tickets through standardized tools for developers and project managers to streamline their workflow.",
+  "source_repo": "kornbed/jira-mcp-server",
+  "source_url": "https://github.com/kornbed/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

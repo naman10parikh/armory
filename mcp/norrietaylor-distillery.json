@@ -1,0 +1,7 @@
+{
+  "name": "norrietaylor-distillery",
+  "description": "Team knowledge base that captures, organizes, and retrieves collaborative knowledge from working sessions, meetings, bookmarks, and conversations.",
+  "source_repo": "norrietaylor/distillery",
+  "source_url": "https://github.com/norrietaylor/distillery",
+  "install": "# git clone --depth 1 https://github.com/norrietaylor/distillery\n# See source for mcpServers config block"
+}

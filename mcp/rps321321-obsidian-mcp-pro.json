@@ -1,0 +1,7 @@
+{
+  "name": "rps321321-obsidian-mcp-pro",
+  "description": "Feature-complete Obsidian vault MCP server with 23 tools and 3 resources. Full-text search, note CRUD, frontmatter queries, tag management, backlinks, graph traversal (BFS up to 5 hops), orphan/broken link detection, and canvas support. Auto-detects vault, path traversal protection, MIT licensed.",
+  "source_repo": "rps321321/obsidian-mcp-pro",
+  "source_url": "https://github.com/rps321321/obsidian-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/rps321321/obsidian-mcp-pro\n# See source for mcpServers config block"
+}

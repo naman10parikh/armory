@@ -1,0 +1,7 @@
+{
+  "name": "starling-bank-mcp",
+  "description": "MCP server for Starling Bank API integration, enabling AI agents to manage accounts, view transactions, and send payments via natural language.",
+  "source_repo": "domdomegg/starling-bank-mcp",
+  "source_url": "https://github.com/domdomegg/starling-bank-mcp",
+  "install": "npx -y starling-bank-mcp"
+}

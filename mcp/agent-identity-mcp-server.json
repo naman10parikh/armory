@@ -1,0 +1,7 @@
+{
+  "name": "agent-identity-mcp-server",
+  "description": "MCP Server for AI agent identity and authorization. Create, verify, and manage agent identities with trust scores and scoped authorization tokens.",
+  "source_repo": "AiAgentKarl/agent-identity-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/agent-identity-mcp-server",
+  "install": "npx -y agent-identity-mcp-server"
+}

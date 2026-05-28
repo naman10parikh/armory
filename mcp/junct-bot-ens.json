@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-ens",
+  "description": "Hosted proxy for Ethereum Name Service APIs with 23 auto-generated tools for ENS resolution and lookups.",
+  "source_repo": "junct-bot/ens-mcp",
+  "source_url": "https://github.com/junct-bot/ens-mcp",
+  "install": "npx -y ens-mcp"
+}

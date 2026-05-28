@@ -1,0 +1,7 @@
+{
+  "name": "v0v1kkk-dotnetmetadatamcpserver",
+  "description": "Provides AI agents with detailed type information from .NET projects including assembly exploration, namespace discovery, type reflection, and NuGet integration",
+  "source_repo": "V0v1kkk/DotNetMetadataMcpServer",
+  "source_url": "https://github.com/V0v1kkk/DotNetMetadataMcpServer",
+  "install": "# git clone --depth 1 https://github.com/V0v1kkk/DotNetMetadataMcpServer\n# See source for mcpServers config block"
+}

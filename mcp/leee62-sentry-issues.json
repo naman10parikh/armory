@@ -1,0 +1,7 @@
+{
+  "name": "leee62-sentry-issues",
+  "description": "Integrates with Sentry error tracking to retrieve detailed event and issue data for analyzing application exceptions and errors in development workflows.",
+  "source_repo": "leee62/sentry-issues-mcp",
+  "source_url": "https://github.com/leee62/sentry-issues-mcp",
+  "install": "npx -y sentry-issues-mcp"
+}

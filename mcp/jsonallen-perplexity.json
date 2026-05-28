@@ -1,0 +1,7 @@
+{
+  "name": "jsonallen-perplexity",
+  "description": "Integrates with Perplexity AI API to enable web search capabilities for retrieving up-to-date information across domains.",
+  "source_repo": "jsonallen/perplexity-mcp",
+  "source_url": "https://github.com/jsonallen/perplexity-mcp",
+  "install": "npx -y perplexity-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "r0gue-io-pop-cli",
+  "description": "All-in-one tool for Polkadot development enabling ink! smart contract creation, parachain development, pallet building, and cross-chain operations",
+  "source_repo": "r0gue-io/pop-mcp",
+  "source_url": "https://github.com/r0gue-io/pop-mcp",
+  "install": "npx -y pop-mcp"
+}

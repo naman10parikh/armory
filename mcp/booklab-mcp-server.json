@@ -1,0 +1,7 @@
+{
+  "name": "booklab-mcp-server",
+  "description": "Provides curated nonfiction book recommendations and profiles using TF-IDF scoring with concept expansion, enabling users to get ranked book suggestions by describing a situation, topic, or question.",
+  "source_repo": "poorbjorn-creator/booklab-mcp",
+  "source_url": "https://github.com/poorbjorn-creator/booklab-mcp",
+  "install": "npx -y booklab-mcp"
+}

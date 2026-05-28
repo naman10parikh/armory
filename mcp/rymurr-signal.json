@@ -1,0 +1,7 @@
+{
+  "name": "rymurr-signal",
+  "description": "Enables secure communication with Signal messaging through direct messaging, group chats, and message reception capabilities, leveraging Signal's established encryption protocol.",
+  "source_repo": "rymurr/signal-mcp",
+  "source_url": "https://github.com/rymurr/signal-mcp",
+  "install": "npx -y signal-mcp"
+}

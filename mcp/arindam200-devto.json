@@ -1,0 +1,7 @@
+{
+  "name": "arindam200-devto",
+  "description": "Provides a bridge between Dev.to content and conversational interfaces, enabling article discovery, search, and publishing capabilities with performance-optimized caching.",
+  "source_repo": "arindam200/devto-mcp",
+  "source_url": "https://github.com/arindam200/devto-mcp",
+  "install": "npx -y devto-mcp"
+}

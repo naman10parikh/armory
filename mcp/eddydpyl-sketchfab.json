@@ -1,0 +1,7 @@
+{
+  "name": "eddydpyl-sketchfab",
+  "description": "Provides a streamlined interface to the Sketchfab API for searching and downloading 3D models with filtering options for animated or rigged content.",
+  "source_repo": "eddydpyl/sketchfab_mcp",
+  "source_url": "https://github.com/eddydpyl/sketchfab_mcp",
+  "install": "npx -y sketchfab_mcp"
+}

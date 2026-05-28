@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-cryptocompare",
+  "description": "Retrieve cryptocurrency prices, OHLC history, social stats, and exchange data via CryptoCompare.",
+  "source_repo": "pipeworx-io/mcp-cryptocompare",
+  "source_url": "https://github.com/pipeworx-io/mcp-cryptocompare",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-cryptocompare\n# See source for mcpServers config block"
+}

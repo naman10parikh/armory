@@ -1,0 +1,7 @@
+{
+  "name": "whisper-graph",
+  "description": "Query internet infrastructure and threat intelligence — DNS, BGP, GeoIP, WHOIS, and 39 threat feeds — via Cypher queries against WhisperGraph.",
+  "source_repo": "whisper-sec/whisper-graph-mcp",
+  "source_url": "https://github.com/whisper-sec/whisper-graph-mcp",
+  "install": "npx -y whisper-graph-mcp"
+}

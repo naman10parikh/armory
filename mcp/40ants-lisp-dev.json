@@ -1,0 +1,7 @@
+{
+  "name": "40ants-lisp-dev",
+  "description": "Provides direct access to a running Common Lisp image for evaluating arbitrary Lisp expressions, returning multiple values, output streams, and detailed error backtraces.",
+  "source_repo": "40ants/lisp-dev-mcp",
+  "source_url": "https://github.com/40ants/lisp-dev-mcp",
+  "install": "npx -y lisp-dev-mcp"
+}

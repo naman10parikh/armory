@@ -1,0 +1,7 @@
+{
+  "name": "pg-mnemosyne-mcp",
+  "description": "🧠 A high-performance PostgreSQL-backed MCP server acting as a super memory, task tracker, and dynamic database manager for AI agents. Features built-in connection pooling, a professional tasks schema, and a unique shared multi-agent coordination hub to prevent coding conflicts in real-time.",
+  "source_repo": "Janadasroor/pg-mnemosyne-mcp",
+  "source_url": "https://github.com/Janadasroor/pg-mnemosyne-mcp",
+  "install": "npx -y pg-mnemosyne-mcp"
+}

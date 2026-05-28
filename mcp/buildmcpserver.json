@@ -1,0 +1,7 @@
+{
+  "name": "buildmcpserver",
+  "description": "BuildMCPServer MCP server listed on mcp.so.",
+  "source_repo": "nicknochnack/BuildMCPServer",
+  "source_url": "https://mcp.so/server/BuildMCPServer/nicknochnack",
+  "install": "# git clone --depth 1 https://mcp.so/server/BuildMCPServer/nicknochnack\n# See source for mcpServers config block"
+}

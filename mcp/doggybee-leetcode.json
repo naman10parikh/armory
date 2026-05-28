@@ -1,0 +1,7 @@
+{
+  "name": "doggybee-leetcode",
+  "description": "Provides structured access to LeetCode's problem database, user profiles, and contest information through GraphQL queries for exploring challenges, tracking progress, and analyzing performance.",
+  "source_repo": "doggybee/mcp-server-leetcode",
+  "source_url": "https://github.com/doggybee/mcp-server-leetcode",
+  "install": "# git clone --depth 1 https://github.com/doggybee/mcp-server-leetcode\n# See source for mcpServers config block"
+}

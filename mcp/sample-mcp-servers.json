@@ -1,0 +1,7 @@
+{
+  "name": "sample-mcp-servers",
+  "description": "Sample Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "xiehust/sample-mcp-servers",
+  "source_url": "https://mcp.so/server/sample-mcp-servers/xiehust",
+  "install": "# git clone --depth 1 https://mcp.so/server/sample-mcp-servers/xiehust\n# See source for mcpServers config block"
+}

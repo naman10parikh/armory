@@ -1,0 +1,7 @@
+{
+  "name": "alvin0412-structured",
+  "description": "MCP server and CLI tool for the Structured task management app, enabling AI-driven task creation and management via browser store integration.",
+  "source_repo": "alvin0412/structured-cli",
+  "source_url": "https://github.com/alvin0412/structured-cli",
+  "install": "# git clone --depth 1 https://github.com/alvin0412/structured-cli\n# See source for mcpServers config block"
+}

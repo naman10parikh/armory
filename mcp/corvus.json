@@ -1,0 +1,7 @@
+{
+  "name": "corvus",
+  "description": "Solana DeFi Intelligence MCP server enabling natural language queries for wallet analytics, DeFi positions, protocol metrics, and token prices.",
+  "source_repo": "Allen-Saji/corvus",
+  "source_url": "https://github.com/Allen-Saji/corvus",
+  "install": "# git clone --depth 1 https://github.com/Allen-Saji/corvus\n# See source for mcpServers config block"
+}

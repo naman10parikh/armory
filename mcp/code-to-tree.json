@@ -1,0 +1,7 @@
+{
+  "name": "code-to-tree",
+  "description": "Converts source code into Abstract Syntax Tree representations using tree-sitter parsers for multiple programming languages including C, C++, Rust, Go, Ruby, Python, and Java, enabling precise code structure analysis and semantic understanding.",
+  "source_repo": "micl2e2/code-to-tree",
+  "source_url": "https://github.com/micl2e2/code-to-tree",
+  "install": "# git clone --depth 1 https://github.com/micl2e2/code-to-tree\n# See source for mcpServers config block"
+}

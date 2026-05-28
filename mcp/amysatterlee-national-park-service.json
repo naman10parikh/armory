@@ -1,0 +1,7 @@
+{
+  "name": "amysatterlee-national-park-service",
+  "description": "Integrates with the National Park Service API to provide structured park information for trip planning, exploration, and research applications.",
+  "source_repo": "amysatterlee/nps_mcp",
+  "source_url": "https://github.com/amysatterlee/nps_mcp",
+  "install": "npx -y nps_mcp"
+}

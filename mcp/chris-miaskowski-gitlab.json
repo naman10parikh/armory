@@ -1,0 +1,7 @@
+{
+  "name": "chris-miaskowski-gitlab",
+  "description": "Integrates with GitLab repositories to enable searching, file management, issue creation, merge requests, forking, and branch creation through Node.js with robust Zod schema validation.",
+  "source_repo": "chris-miaskowski/custom-gitlab-mcp-server",
+  "source_url": "https://github.com/chris-miaskowski/custom-gitlab-mcp-server",
+  "install": "npx -y custom-gitlab-mcp-server"
+}

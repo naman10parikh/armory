@@ -1,0 +1,7 @@
+{
+  "name": "x51xxx-codex-cli-bridge",
+  "description": "Bridges Claude and Cursor to OpenAI Codex CLI for file analysis, multi-turn sessions, and sandboxed code execution.",
+  "source_repo": "x51xxx/codex-mcp-tool",
+  "source_url": "https://github.com/x51xxx/codex-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/x51xxx/codex-mcp-tool\n# See source for mcpServers config block"
+}

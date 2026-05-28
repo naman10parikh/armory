@@ -1,0 +1,7 @@
+{
+  "name": "shubhamekapure-social-search",
+  "description": "Search across social media platforms using SearXNG, Serper, or Google Custom Search with domain-specific filtering.",
+  "source_repo": "shubhamekapure/social-search-mcp",
+  "source_url": "https://github.com/shubhamekapure/social-search-mcp",
+  "install": "npx -y social-search-mcp"
+}

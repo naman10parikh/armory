@@ -1,0 +1,7 @@
+{
+  "name": "fluid-postgres-mcp",
+  "description": "A PostgreSQL MCP server for AI agents that streams large result sets to CSV, enforces per-query timeouts, auto-reconnects with backoff, and supports long-running tunnel scripts with credential rotation.",
+  "source_repo": "povesma/fluid-postgres-mcp",
+  "source_url": "https://github.com/povesma/fluid-postgres-mcp",
+  "install": "npx -y fluid-postgres-mcp"
+}

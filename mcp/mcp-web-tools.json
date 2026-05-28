@@ -1,0 +1,7 @@
+{
+  "name": "mcp-web-tools",
+  "description": "Provides web access capabilities for LLMs including search, fetching, content extraction, PDF reading, image viewing, and screenshots.",
+  "source_repo": "pietz/mcp-web-tools",
+  "source_url": "https://github.com/pietz/mcp-web-tools",
+  "install": "# git clone --depth 1 https://github.com/pietz/mcp-web-tools\n# See source for mcpServers config block"
+}

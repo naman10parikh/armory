@@ -1,0 +1,7 @@
+{
+  "name": "risky-business-ai",
+  "description": "Integrates with GitHub, NIST NVD, and CISA's Known Exploited Vulnerabilities catalog to automate CVE exploitability assessment by searching for proof-of-concept exploits, retrieving official vulnerability details with CVSS scores, and cross-referencing against actively exploited vulnerabilities for threat intelligence and security prioritization.",
+  "source_repo": "khizar-anjum/risky-business-mcp",
+  "source_url": "https://github.com/khizar-anjum/risky-business-mcp",
+  "install": "npx -y risky-business-mcp"
+}

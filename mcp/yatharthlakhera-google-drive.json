@@ -1,0 +1,7 @@
+{
+  "name": "yatharthlakhera-google-drive",
+  "description": "Drive-focused Google Drive MCP server with mime-aware binary encoding and Claude.ai-compatible tool naming.",
+  "source_repo": "yatharthlakhera/claude-gdrive-mcp",
+  "source_url": "https://github.com/yatharthlakhera/claude-gdrive-mcp",
+  "install": "npx -y claude-gdrive-mcp"
+}

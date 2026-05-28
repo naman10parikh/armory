@@ -1,0 +1,7 @@
+{
+  "name": "nexus-legal-mcp",
+  "description": "Multi-jurisdictional legal AI MCP server for Spanish, Latin American, and European law. 11 tools: analyze, audit, draft, jurisprudencia search (CENDOJ ~141k + Colombian courts ~106k), cross-border comparison, Monte Carlo litigation simulation, doctrina, redteam, and more. ISO 31000 certainty locks.",
+  "source_repo": "djtellado/nexus-legal-mcp",
+  "source_url": "https://github.com/djtellado/nexus-legal-mcp",
+  "install": "npx -y nexus-legal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cmcgrabby-hue-syndicate-links",
+  "description": "Commission infrastructure for AI commerce — affiliate program discovery, attribution, and settlement.",
+  "source_repo": "cmcgrabby-hue/syndicate-links",
+  "source_url": "https://github.com/cmcgrabby-hue/syndicate-links",
+  "install": "# git clone --depth 1 https://github.com/cmcgrabby-hue/syndicate-links\n# See source for mcpServers config block"
+}

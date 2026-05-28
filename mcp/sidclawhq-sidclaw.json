@@ -1,0 +1,7 @@
+{
+  "name": "sidclawhq-sidclaw",
+  "description": "Provides access to the SidClaw platform APIs for AI-driven workflows.",
+  "source_repo": "sidclawhq/platform",
+  "source_url": "https://github.com/sidclawhq/platform",
+  "install": "# git clone --depth 1 https://github.com/sidclawhq/platform\n# See source for mcpServers config block"
+}

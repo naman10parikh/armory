@@ -1,0 +1,7 @@
+{
+  "name": "justadityaraj-amazon-in",
+  "description": "Search Amazon India for cheapest in-stock products, best-value picks, and Keepa price-history links.",
+  "source_repo": "justadityaraj/amazon-in-mcp",
+  "source_url": "https://github.com/justadityaraj/amazon-in-mcp",
+  "install": "npx -y amazon-in-mcp"
+}

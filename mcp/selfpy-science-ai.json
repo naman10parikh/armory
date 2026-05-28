@@ -1,0 +1,7 @@
+{
+  "name": "selfpy-science-ai",
+  "description": "Academic peer-review, research gap analysis, journal recommendations, and article writing tools.",
+  "source_repo": "selfpy/science-ai-mcp-server",
+  "source_url": "https://github.com/selfpy/science-ai-mcp-server",
+  "install": "npx -y science-ai-mcp-server"
+}

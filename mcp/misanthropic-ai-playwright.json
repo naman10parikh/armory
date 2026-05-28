@@ -1,0 +1,7 @@
+{
+  "name": "misanthropic-ai-playwright",
+  "description": "Enables LLM-powered browser automation for web tasks including navigation, interaction, and content extraction through Playwright's comprehensive browser control capabilities.",
+  "source_repo": "misanthropic-ai/playwrite-mcp",
+  "source_url": "https://github.com/misanthropic-ai/playwrite-mcp",
+  "install": "npx -y playwrite-mcp"
+}

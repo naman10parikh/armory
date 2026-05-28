@@ -1,0 +1,7 @@
+{
+  "name": "computer-agent-windows-desktop-control",
+  "description": "Enables AI to control Windows desktop applications through UIAutomation and PyAutoGUI, providing capabilities for launching programs, executing commands, and performing mouse/keyboard actions with tree-based UI element identification.",
+  "source_repo": "cursortouch/windows-mcp",
+  "source_url": "https://github.com/cursortouch/windows-mcp",
+  "install": "npx -y windows-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ryaneggz-terminal-shell",
+  "description": "Provides a containerized shell command execution environment with Docker support, enabling secure terminal operations through a FastMCP server implementation.",
+  "source_repo": "mifunedev/mcp-sse",
+  "source_url": "https://github.com/mifunedev/mcp-sse",
+  "install": "# git clone --depth 1 https://github.com/mifunedev/mcp-sse\n# See source for mcpServers config block"
+}

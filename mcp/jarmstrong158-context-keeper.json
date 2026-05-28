@@ -1,0 +1,7 @@
+{
+  "name": "jarmstrong158-context-keeper",
+  "description": "Persistent project memory for AI assistants, storing decisions, workflows, and constraints across sessions.",
+  "source_repo": "jarmstrong158/context-keeper",
+  "source_url": "https://github.com/jarmstrong158/context-keeper",
+  "install": "# git clone --depth 1 https://github.com/jarmstrong158/context-keeper\n# See source for mcpServers config block"
+}

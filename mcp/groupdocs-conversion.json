@@ -1,0 +1,7 @@
+{
+  "name": "groupdocs-conversion",
+  "description": "MCP server for converting documents between 70+ formats including PDF, Word, Excel, PowerPoint, HTML, and images via the GroupDocs API.",
+  "source_repo": "groupdocs-conversion/groupdocs-conversion-mcp",
+  "source_url": "https://github.com/groupdocs-conversion/groupdocs-conversion-mcp",
+  "install": "npx -y groupdocs-conversion-mcp"
+}

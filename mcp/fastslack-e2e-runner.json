@@ -1,0 +1,7 @@
+{
+  "name": "fastslack-e2e-runner",
+  "description": "JSON-driven end-to-end test runner with parallel execution against a shared Chrome pool.",
+  "source_repo": "fastslack/mtw-e2e-runner",
+  "source_url": "https://github.com/fastslack/mtw-e2e-runner",
+  "install": "# git clone --depth 1 https://github.com/fastslack/mtw-e2e-runner\n# See source for mcpServers config block"
+}

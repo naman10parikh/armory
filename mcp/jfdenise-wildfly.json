@@ -1,0 +1,7 @@
+{
+  "name": "jfdenise-wildfly",
+  "description": "Integrates with WildFly application servers to enable monitoring, configuration, and management of server resources and performance.",
+  "source_repo": "wildfly-extras/wildfly-mcp",
+  "source_url": "https://github.com/wildfly-extras/wildfly-mcp",
+  "install": "npx -y wildfly-mcp"
+}

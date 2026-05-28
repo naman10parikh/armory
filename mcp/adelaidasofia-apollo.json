@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-apollo",
+  "description": "Integrates Apollo.io sales intelligence for contact search, email sequences, and CRM operations.",
+  "source_repo": "adelaidasofia/apollo-mcp",
+  "source_url": "https://github.com/adelaidasofia/apollo-mcp",
+  "install": "npx -y apollo-mcp"
+}

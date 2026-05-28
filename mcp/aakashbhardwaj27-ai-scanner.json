@@ -1,0 +1,7 @@
+{
+  "name": "aakashbhardwaj27-ai-scanner",
+  "description": "Scan codebases for LLM and AI SDK usage, exposed API tokens, and hardcoded secrets.",
+  "source_repo": "sky-in-code/ai-scanner-mcp",
+  "source_url": "https://github.com/sky-in-code/ai-scanner-mcp",
+  "install": "npx -y ai-scanner-mcp"
+}

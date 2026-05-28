@@ -1,0 +1,7 @@
+{
+  "name": "code-alchemist01-cloud-services",
+  "description": "Provides unified access to AWS, Azure, and GCP resources through cloud-agnostic adapters for managing instances, storage, databases, and functions with cost analysis, monitoring, security scanning, and compliance checking capabilities.",
+  "source_repo": "code-alchemist01/cloud-mcp_server",
+  "source_url": "https://github.com/code-alchemist01/cloud-mcp_server",
+  "install": "npx -y cloud-mcp_server"
+}

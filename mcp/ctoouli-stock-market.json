@@ -1,0 +1,7 @@
+{
+  "name": "ctoouli-stock-market",
+  "description": "Provides real-time stock market data through the Alpha Vantage API, delivering daily prices, volume, and metrics for any stock symbol with proper currency formatting and rate-limit awareness.",
+  "source_repo": "ctoouli/mcp-stock-market",
+  "source_url": "https://github.com/ctoouli/mcp-stock-market",
+  "install": "# git clone --depth 1 https://github.com/ctoouli/mcp-stock-market\n# See source for mcpServers config block"
+}

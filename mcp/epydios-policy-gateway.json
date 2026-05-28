@@ -1,0 +1,7 @@
+{
+  "name": "epydios-policy-gateway",
+  "description": "Boundary-enforced policy gateway for tool execution with allow/deny rules, step-up approval workflows, and audit logging.",
+  "source_repo": "epydios/epydios-mcp-policy-gateway",
+  "source_url": "https://github.com/epydios/epydios-mcp-policy-gateway",
+  "install": "# git clone --depth 1 https://github.com/epydios/epydios-mcp-policy-gateway\n# See source for mcpServers config block"
+}

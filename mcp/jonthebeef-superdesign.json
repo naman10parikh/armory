@@ -1,0 +1,7 @@
+{
+  "name": "jonthebeef-superdesign",
+  "description": "Integrates Superdesign's design orchestrator with Claude Code to generate UI designs, wireframes, components, logos, and SVG icons through structured specifications that leverage the IDE's existing LLM connection, featuring automatic file organization and an interactive HTML gallery for viewing all created designs.",
+  "source_repo": "jonthebeef/superdesign-mcp-claude-code",
+  "source_url": "https://github.com/jonthebeef/superdesign-mcp-claude-code",
+  "install": "# git clone --depth 1 https://github.com/jonthebeef/superdesign-mcp-claude-code\n# See source for mcpServers config block"
+}

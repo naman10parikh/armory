@@ -1,0 +1,7 @@
+{
+  "name": "vedantparmar12-azure-omni-tool",
+  "description": "Bridges natural language requests to Azure CLI execution with plan-and-review workflows and safety validation for managing Azure resources.",
+  "source_repo": "vedantparmar12/azure-_mcp",
+  "source_url": "https://github.com/vedantparmar12/azure-_mcp",
+  "install": "npx -y azure-_mcp"
+}

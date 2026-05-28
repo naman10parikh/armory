@@ -1,0 +1,7 @@
+{
+  "name": "ezumba-exergynet",
+  "description": "Thermodynamic compute settlement for autonomous agents enabling energy-based transaction coordination.",
+  "source_repo": "ezumba/exergynet-mcp-server",
+  "source_url": "https://github.com/ezumba/exergynet-mcp-server",
+  "install": "npx -y exergynet-mcp-server"
+}

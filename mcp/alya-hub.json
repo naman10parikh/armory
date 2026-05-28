@@ -1,0 +1,7 @@
+{
+  "name": "alya-hub",
+  "description": "Bridges AI coding tools to Alya's autonomous agent platform for web search, image generation, and market data.",
+  "source_repo": "rupert1987/alya-mcp",
+  "source_url": "https://github.com/rupert1987/alya-mcp",
+  "install": "npx -y alya-mcp"
+}

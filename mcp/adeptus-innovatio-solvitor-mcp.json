@@ -1,0 +1,7 @@
+{
+  "name": "adeptus-innovatio-solvitor-mcp",
+  "description": "Solvitor MCP server provides tools to access reverse engineering tools that help developers extract IDL files from closed-source Solana smart contracts and decompile them.",
+  "source_repo": "Adeptus-Innovatio/solvitor-mcp",
+  "source_url": "https://github.com/Adeptus-Innovatio/solvitor-mcp",
+  "install": "npx -y solvitor-mcp"
+}

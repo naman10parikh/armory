@@ -1,0 +1,7 @@
+{
+  "name": "garoth-sleep",
+  "description": "Provides a simple sleep/wait tool for introducing timed delays between operations, enabling scenarios like API call spacing and time-dependent process simulation.",
+  "source_repo": "garoth/sleep-mcp",
+  "source_url": "https://github.com/garoth/sleep-mcp",
+  "install": "npx -y sleep-mcp"
+}

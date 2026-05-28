@@ -1,0 +1,7 @@
+{
+  "name": "occam",
+  "description": "Symbolic regression as a service using SINDy and PySR to discover the simplest equations consistent with your data.",
+  "source_repo": "",
+  "source_url": "https://occam.fit",
+  "install": "# git clone --depth 1 https://occam.fit\n# See source for mcpServers config block"
+}

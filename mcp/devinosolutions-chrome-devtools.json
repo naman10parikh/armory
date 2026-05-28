@@ -1,0 +1,7 @@
+{
+  "name": "devinosolutions-chrome-devtools",
+  "description": "Controls Chrome via DevTools with a master/copy profile strategy for session isolation and deterministic browser automation.",
+  "source_repo": "devinosolutions/stealth-chrome-devtools-mcp",
+  "source_url": "https://github.com/devinosolutions/stealth-chrome-devtools-mcp",
+  "install": "npx -y stealth-chrome-devtools-mcp"
+}

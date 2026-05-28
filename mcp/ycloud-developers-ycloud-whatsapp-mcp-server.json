@@ -1,0 +1,7 @@
+{
+  "name": "ycloud-developers-ycloud-whatsapp-mcp-server",
+  "description": "MCP server for WhatsApp Business Platform by YCloud.",
+  "source_repo": "YCloud-Developers/ycloud-whatsapp-mcp-server",
+  "source_url": "https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server",
+  "install": "npx -y ycloud-whatsapp-mcp-server"
+}

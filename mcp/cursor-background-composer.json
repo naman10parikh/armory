@@ -1,0 +1,7 @@
+{
+  "name": "cursor-background-composer",
+  "description": "Integrates with Cursor's Background Composer functionality to create, manage, and monitor automated coding tasks with support for task descriptions, repository URLs, status tracking, and detailed change information including diffs.",
+  "source_repo": "mjdierkes/cursor-background-agent-api",
+  "source_url": "https://github.com/mjdierkes/cursor-background-agent-api",
+  "install": "# git clone --depth 1 https://github.com/mjdierkes/cursor-background-agent-api\n# See source for mcpServers config block"
+}

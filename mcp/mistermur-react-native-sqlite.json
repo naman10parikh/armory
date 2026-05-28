@@ -1,0 +1,7 @@
+{
+  "name": "mistermur-react-native-sqlite",
+  "description": "SQLite bridge for React Native mobile emulators that auto-discovers and queries databases inside iOS Simulator and Android Emulator sandboxes.",
+  "source_repo": "mistermur/react-native-sqlite-mcp",
+  "source_url": "https://github.com/mistermur/react-native-sqlite-mcp",
+  "install": "npx -y react-native-sqlite-mcp"
+}

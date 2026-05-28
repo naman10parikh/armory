@@ -1,0 +1,7 @@
+{
+  "name": "vnmoorthy-mcp-observatory",
+  "description": "Drop-in MCP debugging proxy that intercepts stdio, SSE, and HTTP transports to log, replay, and diff all JSON-RPC messages between AI clients and servers.",
+  "source_repo": "vnmoorthy/mcpobservatory",
+  "source_url": "https://github.com/vnmoorthy/mcpobservatory",
+  "install": "# git clone --depth 1 https://github.com/vnmoorthy/mcpobservatory\n# See source for mcpServers config block"
+}

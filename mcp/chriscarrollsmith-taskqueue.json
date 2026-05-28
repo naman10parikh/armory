@@ -1,0 +1,7 @@
+{
+  "name": "chriscarrollsmith-taskqueue",
+  "description": "Structured task management system that breaks down complex projects into manageable tasks with progress tracking, user approval checkpoints, and support for multiple LLM providers.",
+  "source_repo": "chriscarrollsmith/taskqueue-mcp",
+  "source_url": "https://github.com/chriscarrollsmith/taskqueue-mcp",
+  "install": "npx -y taskqueue-mcp"
+}

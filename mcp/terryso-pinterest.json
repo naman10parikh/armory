@@ -1,0 +1,7 @@
+{
+  "name": "terryso-pinterest",
+  "description": "Pinterest image search and information retrieval",
+  "source_repo": "terryso/mcp-pinterest",
+  "source_url": "https://github.com/terryso/mcp-pinterest",
+  "install": "# git clone --depth 1 https://github.com/terryso/mcp-pinterest\n# See source for mcpServers config block"
+}

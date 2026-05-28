@@ -1,0 +1,7 @@
+{
+  "name": "msaelices-whatsapp-greenapi",
+  "description": "Provides a bridge to the WhatsApp Business API through GreenAPI, enabling message sending, chat retrieval, and group management directly from conversations.",
+  "source_repo": "msaelices/whatsapp-mcp-server",
+  "source_url": "https://github.com/msaelices/whatsapp-mcp-server",
+  "install": "npx -y whatsapp-mcp-server"
+}

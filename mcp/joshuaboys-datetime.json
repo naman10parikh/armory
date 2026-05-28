@@ -1,0 +1,7 @@
+{
+  "name": "joshuaboys-datetime",
+  "description": "Provides date and time utilities with timezone support, date parsing, and monotonic time tracking for reliable timestamp generation across different timezones.",
+  "source_repo": "joshuaboys/datetime-mcp",
+  "source_url": "https://github.com/joshuaboys/datetime-mcp",
+  "install": "npx -y datetime-mcp"
+}

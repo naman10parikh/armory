@@ -1,0 +1,7 @@
+{
+  "name": "geli2001-tft",
+  "description": "Integration for Team Fight Tactics (TFT) that provides access to TFT game data through various tools.",
+  "source_repo": "geli2001/tft-mcp-server",
+  "source_url": "https://github.com/geli2001/tft-mcp-server",
+  "install": "npx -y tft-mcp-server"
+}

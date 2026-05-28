@@ -1,0 +1,7 @@
+{
+  "name": "get-convex-convex-backend",
+  "description": "Convex database integration to introspect tables, functions, and run oneoff queries ([Source](https://github.com/get-convex/convex-backend/blob/main/npm-packages/convex/src/cli/mcp.ts))",
+  "source_repo": "",
+  "source_url": "https://stack.convex.dev/convex-mcp-server",
+  "install": "# git clone --depth 1 https://stack.convex.dev/convex-mcp-server\n# See source for mcpServers config block"
+}

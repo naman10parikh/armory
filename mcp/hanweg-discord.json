@@ -1,0 +1,7 @@
+{
+  "name": "hanweg-discord",
+  "description": "Integrates Discord to enable automated server management, moderation, and bot development.",
+  "source_repo": "hanweg/mcp-discord",
+  "source_url": "https://github.com/hanweg/mcp-discord",
+  "install": "# git clone --depth 1 https://github.com/hanweg/mcp-discord\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enkryptai",
+  "description": "Integrates with EnkryptAI platform to provide robust guardrails, policy management, model configuration, and deployment orchestration with customizable safety controls for preventing harmful outputs.",
+  "source_repo": "enkryptai/enkryptai-mcp-server",
+  "source_url": "https://github.com/enkryptai/enkryptai-mcp-server",
+  "install": "npx -y enkryptai-mcp-server"
+}

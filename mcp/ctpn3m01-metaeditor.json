@@ -1,0 +1,7 @@
+{
+  "name": "ctpn3m01-metaeditor",
+  "description": "Connects AI assistants to MetaTrader 5 MetaEditor on Linux via Wine for MQL5 workflows.",
+  "source_repo": "ctpn3m01/mcp-metaeditor",
+  "source_url": "https://github.com/ctpn3m01/mcp-metaeditor",
+  "install": "# git clone --depth 1 https://github.com/ctpn3m01/mcp-metaeditor\n# See source for mcpServers config block"
+}

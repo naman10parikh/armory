@@ -1,0 +1,7 @@
+{
+  "name": "rainyheart-crawl4ai",
+  "description": "Provides a bridge to the Crawl4ai web crawling service, enabling extraction of website content with configurable parameters like depth and strategy for research, data collection, or content analysis.",
+  "source_repo": "rainyheart/jcrawl4ai-mcp-server",
+  "source_url": "https://github.com/rainyheart/jcrawl4ai-mcp-server",
+  "install": "npx -y jcrawl4ai-mcp-server"
+}

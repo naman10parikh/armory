@@ -1,0 +1,7 @@
+{
+  "name": "mcp-codepipeline-server",
+  "description": "Mcp Codepipeline Server MCP server listed on mcp.so.",
+  "source_repo": "cuongdev/mcp-codepipeline-server",
+  "source_url": "https://mcp.so/server/mcp-codepipeline-server/cuongdev",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-codepipeline-server/cuongdev\n# See source for mcpServers config block"
+}

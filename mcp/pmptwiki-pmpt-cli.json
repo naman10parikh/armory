@@ -1,0 +1,7 @@
+{
+  "name": "pmptwiki-pmpt-cli",
+  "description": "Record and share your AI-driven development journey. Auto-saves project milestones with summaries, generates structured AI prompts via 5-question planning, and publishes to [pmptwiki.com](https://pmptwiki.com) community platform.",
+  "source_repo": "pmptwiki/pmpt-cli",
+  "source_url": "https://github.com/pmptwiki/pmpt-cli",
+  "install": "# git clone --depth 1 https://github.com/pmptwiki/pmpt-cli\n# See source for mcpServers config block"
+}

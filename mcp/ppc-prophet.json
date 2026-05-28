@@ -1,0 +1,7 @@
+{
+  "name": "ppc-prophet",
+  "description": "Integrates with Amazon Advertising accounts to provide campaign analytics, wasted spend analysis, performance diagnostics, and automation through PPC Prophet's platform.",
+  "source_repo": "",
+  "source_url": "https://ppcgpt.getppcprophet.com",
+  "install": "# git clone --depth 1 https://ppcgpt.getppcprophet.com\n# See source for mcpServers config block"
+}

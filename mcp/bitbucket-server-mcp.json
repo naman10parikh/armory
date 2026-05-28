@@ -1,0 +1,7 @@
+{
+  "name": "bitbucket-server-mcp",
+  "description": "Connects AI assistants to Bitbucket Server/Data Center for reviewing pull requests, managing repositories, searching users, and more.",
+  "source_repo": "evrimalacan/mcp-bitbucket-server",
+  "source_url": "https://github.com/evrimalacan/mcp-bitbucket-server",
+  "install": "# git clone --depth 1 https://github.com/evrimalacan/mcp-bitbucket-server\n# See source for mcpServers config block"
+}

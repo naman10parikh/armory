@@ -1,0 +1,7 @@
+{
+  "name": "tradememory-protocol",
+  "description": "AI trading memory layer for MT5/forex. 3-tier architecture (L1 raw trades → L2 pattern discovery → L3 strategy adjustment). 15 MCP tools: store/recall trades, performance analytics, reflections, evolution engine, and Outcome-Weighted Memory (OWM).",
+  "source_repo": "mnemox-ai/tradememory-protocol",
+  "source_url": "https://github.com/mnemox-ai/tradememory-protocol",
+  "install": "# git clone --depth 1 https://github.com/mnemox-ai/tradememory-protocol\n# See source for mcpServers config block"
+}

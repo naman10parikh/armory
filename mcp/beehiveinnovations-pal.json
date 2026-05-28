@@ -1,0 +1,7 @@
+{
+  "name": "beehiveinnovations-pal",
+  "description": "Unifies access to multiple AI model providers including Google Gemini, OpenAI, Azure OpenAI, X.AI Grok, OpenRouter, and custom endpoints through 15+ specialized tools for code analysis, debugging, planning, consensus building, and workflow automation with intelligent model selection and multi-step workflows.",
+  "source_repo": "yiwenlu66/mu-mcp",
+  "source_url": "https://github.com/yiwenlu66/mu-mcp",
+  "install": "npx -y mu-mcp"
+}

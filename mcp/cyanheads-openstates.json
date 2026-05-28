@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-openstates",
+  "description": "Searches and retrieves U.S. state legislature bills, votes, legislators, and committee information via the OpenStates API.",
+  "source_repo": "cyanheads/openstates-mcp-server",
+  "source_url": "https://github.com/cyanheads/openstates-mcp-server",
+  "install": "npx -y openstates-mcp-server"
+}

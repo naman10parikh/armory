@@ -1,0 +1,7 @@
+{
+  "name": "convertapi",
+  "description": "Integrates with ConvertAPI's cloud service to transform files between formats like PDF, DOCX, and images with automatic parameter validation against live OpenAPI specifications.",
+  "source_repo": "convertapi/convertapi-mcp",
+  "source_url": "https://github.com/convertapi/convertapi-mcp",
+  "install": "npx -y convertapi-mcp"
+}

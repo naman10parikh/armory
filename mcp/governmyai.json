@@ -1,0 +1,7 @@
+{
+  "name": "governmyai",
+  "description": "Queries AI governance obligations across EU AI Act, ISO 42001, NIST AI RMF, and other regulatory frameworks.",
+  "source_repo": "governmyai/mcp-server",
+  "source_url": "https://github.com/governmyai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/governmyai/mcp-server\n# See source for mcpServers config block"
+}

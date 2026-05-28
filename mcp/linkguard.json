@@ -1,0 +1,7 @@
+{
+  "name": "linkguard",
+  "description": "Backlink health tools for AI assistants with redirect checking, Google index verification, and backlink monitoring.",
+  "source_repo": "",
+  "source_url": "https://linkguard.ai",
+  "install": "# git clone --depth 1 https://linkguard.ai\n# See source for mcpServers config block"
+}

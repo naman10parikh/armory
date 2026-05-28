@@ -1,0 +1,7 @@
+{
+  "name": "mklmto-eodhd",
+  "description": "Connects to the EODHD financial data API for stock prices, fundamentals, technical indicators, news, macroeconomic data, and screening.",
+  "source_repo": "mklmto/eodhd-mcp",
+  "source_url": "https://github.com/mklmto/eodhd-mcp",
+  "install": "npx -y eodhd-mcp"
+}

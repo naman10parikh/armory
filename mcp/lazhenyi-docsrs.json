@@ -1,0 +1,7 @@
+{
+  "name": "lazhenyi-docsrs",
+  "description": "Provides access to Rust crate documentation from docs.rs through web scraping, enabling crate search, documentation retrieval, module browsing, and README access.",
+  "source_repo": "lazhenyi/rs-docsrs-mcp",
+  "source_url": "https://github.com/lazhenyi/rs-docsrs-mcp",
+  "install": "npx -y rs-docsrs-mcp"
+}

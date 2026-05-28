@@ -1,0 +1,7 @@
+{
+  "name": "jucieovo-ez-computer-ctrl",
+  "description": "Vision-first MCP server for Windows desktop GUI automation using semantic object recognition instead of screen coordinates.",
+  "source_repo": "jucieovo/ezcomputerctrl-mcp",
+  "source_url": "https://github.com/jucieovo/ezcomputerctrl-mcp",
+  "install": "npx -y ezcomputerctrl-mcp"
+}

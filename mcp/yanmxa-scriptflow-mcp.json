@@ -1,0 +1,7 @@
+{
+  "name": "yanmxa-scriptflow-mcp",
+  "description": "A script workflow management system that transforms complex, repetitive AI interactions into persistent, executable scripts. Supports multi-language execution (Bash, Python, Node.js, TypeScript) with guaranteed consistency and reduced hallucination risks.",
+  "source_repo": "yanmxa/scriptflow-mcp",
+  "source_url": "https://github.com/yanmxa/scriptflow-mcp",
+  "install": "npx -y scriptflow-mcp"
+}

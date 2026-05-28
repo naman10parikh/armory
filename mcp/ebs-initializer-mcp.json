@@ -1,0 +1,7 @@
+{
+  "name": "ebs-initializer-mcp",
+  "description": "Automates AWS EBS volume initialization via AWS Systems Manager, supporting multi-instance parallel execution and real-time progress tracking.",
+  "source_repo": "jsk6387/ebs_init_mcp",
+  "source_url": "https://github.com/jsk6387/ebs_init_mcp",
+  "install": "npx -y ebs_init_mcp"
+}

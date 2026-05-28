@@ -1,0 +1,7 @@
+{
+  "name": "antarikshc-perfetto-trace-analyzer",
+  "description": "Turn natural language into powerful Perfetto trace analysis",
+  "source_repo": "antarikshc/perfetto-mcp",
+  "source_url": "https://github.com/antarikshc/perfetto-mcp",
+  "install": "npx -y perfetto-mcp"
+}

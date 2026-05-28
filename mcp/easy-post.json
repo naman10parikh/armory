@@ -1,0 +1,7 @@
+{
+  "name": "easy-post",
+  "description": "Schedules and publishes social media posts across multiple platforms.",
+  "source_repo": "",
+  "source_url": "https://easy-post.app",
+  "install": "# git clone --depth 1 https://easy-post.app\n# See source for mcpServers config block"
+}

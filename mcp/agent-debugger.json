@@ -1,0 +1,7 @@
+{
+  "name": "agent-debugger",
+  "description": "Enables AI agents to investigate backend incidents by executing runbooks that gather evidence from observability and storage systems.",
+  "source_repo": "UnCooe/debug-runbook",
+  "source_url": "https://github.com/UnCooe/debug-runbook",
+  "install": "# git clone --depth 1 https://github.com/UnCooe/debug-runbook\n# See source for mcpServers config block"
+}

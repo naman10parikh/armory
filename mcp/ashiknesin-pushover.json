@@ -1,0 +1,7 @@
+{
+  "name": "ashiknesin-pushover",
+  "description": "Integrates with Pushover.net to enable sending push notifications to various devices for real-time alerts and updates",
+  "source_repo": "ashiknesin/pushover-mcp",
+  "source_url": "https://github.com/ashiknesin/pushover-mcp",
+  "install": "npx -y pushover-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "twitterapi-io-mcp-server",
+  "description": "Official MCP server for twitterapi.io — Twitter/X data access (search tweets, users, followers, replies, trends) via Claude Desktop, Cursor, VS Code Copilot, or any MCP-compatible client. 12 read-only tools, stdio transport.",
+  "source_repo": "kaitoInfra/twitterapi-io-mcp-server",
+  "source_url": "https://github.com/kaitoInfra/twitterapi-io-mcp-server",
+  "install": "npx -y twitterapi-io-mcp-server"
+}

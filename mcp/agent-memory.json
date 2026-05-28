@@ -1,0 +1,7 @@
+{
+  "name": "agent-memory",
+  "description": "A persistent, trust-scored project memory for AI coding agents, backed by PostgreSQL + pgvector, providing durable memory of architecture decisions, bug patterns, and coding conventions.",
+  "source_repo": "event4u-app/agent-memory",
+  "source_url": "https://github.com/event4u-app/agent-memory",
+  "install": "# git clone --depth 1 https://github.com/event4u-app/agent-memory\n# See source for mcpServers config block"
+}

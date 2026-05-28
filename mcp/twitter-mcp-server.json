@@ -1,0 +1,7 @@
+{
+  "name": "twitter-mcp-server",
+  "description": "Twitter Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "SouravKumarBarman/twitter-mcp-server",
+  "source_url": "https://mcp.so/server/twitter-mcp-server/SouravKumarBarman",
+  "install": "npx -y twitter-mcp-server"
+}

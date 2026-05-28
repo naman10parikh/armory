@@ -1,0 +1,7 @@
+{
+  "name": "kishornaik-todo-manager",
+  "description": "Provides a secure, structured microservice for managing todo items with features like AES encryption, PostgreSQL persistence, and Redis caching for applications requiring robust task management.",
+  "source_repo": "kishornaik/sol_mcp_server_typescript",
+  "source_url": "https://github.com/kishornaik/sol_mcp_server_typescript/tree/HEAD/MCP_Server",
+  "install": "# git clone --depth 1 https://github.com/kishornaik/sol_mcp_server_typescript/tree/HEAD/MCP_Server\n# See source for mcpServers config block"
+}

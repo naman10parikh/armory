@@ -1,0 +1,7 @@
+{
+  "name": "alberthild-shieldapi-mcp",
+  "description": "Security intelligence for AI agents: password breach checks (900M+ HIBP hashes), email/domain/IP/URL reputation, prompt injection detection (200+ patterns), and skill supply chain scanning. Pay-per-request via x402 USDC micropayments or free demo mode, no API key needed.",
+  "source_repo": "alberthild/shieldapi-mcp",
+  "source_url": "https://github.com/alberthild/shieldapi-mcp",
+  "install": "npx -y shieldapi-mcp"
+}

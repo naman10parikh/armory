@@ -1,0 +1,7 @@
+{
+  "name": "ktanaka101-duckdb",
+  "description": "Execute SQL queries and analyze data in DuckDB databases.",
+  "source_repo": "ktanaka101/mcp-server-duckdb",
+  "source_url": "https://github.com/ktanaka101/mcp-server-duckdb",
+  "install": "# git clone --depth 1 https://github.com/ktanaka101/mcp-server-duckdb\n# See source for mcpServers config block"
+}

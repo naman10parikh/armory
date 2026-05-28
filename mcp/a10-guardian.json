@@ -1,0 +1,7 @@
+{
+  "name": "a10-guardian",
+  "description": "MCP server that enables AI agents to manage A10 Networks DDoS mitigation devices, including zone management, incident monitoring, and template deployment.",
+  "source_repo": "opastorello/a10-guardian",
+  "source_url": "https://github.com/opastorello/a10-guardian",
+  "install": "# git clone --depth 1 https://github.com/opastorello/a10-guardian\n# See source for mcpServers config block"
+}

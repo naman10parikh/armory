@@ -1,0 +1,7 @@
+{
+  "name": "jaho5-json-schema-manager",
+  "description": "Manages JSON schemas and generates instances with custom properties, enabling applications to maintain consistent data structures and create template-based JSON documents",
+  "source_repo": "jaho5/json-schema-mcp",
+  "source_url": "https://github.com/jaho5/json-schema-mcp",
+  "install": "npx -y json-schema-mcp"
+}

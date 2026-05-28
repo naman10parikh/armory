@@ -1,0 +1,7 @@
+{
+  "name": "mcp-graphql",
+  "description": "Mcp Graphql MCP server listed on mcp.so.",
+  "source_repo": "blurrah/mcp-graphql",
+  "source_url": "https://mcp.so/server/mcp-graphql/blurrah",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-graphql/blurrah\n# See source for mcpServers config block"
+}

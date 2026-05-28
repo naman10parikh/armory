@@ -1,0 +1,7 @@
+{
+  "name": "imagegen-go",
+  "description": "Imagegen Go MCP server listed on mcp.so.",
+  "source_repo": "shawnzxx/imagegen-go",
+  "source_url": "https://mcp.so/server/imagegen-go/shawnzxx",
+  "install": "# git clone --depth 1 https://mcp.so/server/imagegen-go/shawnzxx\n# See source for mcpServers config block"
+}

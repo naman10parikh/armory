@@ -1,0 +1,7 @@
+{
+  "name": "groww",
+  "description": "Integrates with the Groww trading platform API to execute stock market operations including order placement, portfolio management, and live market data retrieval with automated authentication handling.",
+  "source_repo": "karthik1729/groww-mcp",
+  "source_url": "https://github.com/karthik1729/groww-mcp",
+  "install": "npx -y groww-mcp"
+}

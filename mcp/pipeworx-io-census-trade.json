@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-census-trade",
+  "description": "US Census Bureau international trade statistics via the Census Bureau trade data API.",
+  "source_repo": "pipeworx-io/mcp-census-trade",
+  "source_url": "https://github.com/pipeworx-io/mcp-census-trade",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-census-trade\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-for-llm",
+  "description": "MCP Server For LLM MCP server listed on mcp.so.",
+  "source_repo": "Glareone/MCP-Server-For-LLM",
+  "source_url": "https://mcp.so/server/MCP-Server-For-LLM/Glareone",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Server-For-LLM/Glareone\n# See source for mcpServers config block"
+}

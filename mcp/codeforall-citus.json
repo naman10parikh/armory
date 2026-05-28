@@ -1,0 +1,7 @@
+{
+  "name": "codeforall-citus",
+  "description": "Provides monitoring, analysis, and management capabilities for Citus distributed PostgreSQL clusters.",
+  "source_repo": "codeforall/citus-mcp",
+  "source_url": "https://github.com/codeforall/citus-mcp",
+  "install": "npx -y citus-mcp"
+}

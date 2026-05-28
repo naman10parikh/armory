@@ -1,0 +1,7 @@
+{
+  "name": "sb-mcp",
+  "description": "SB MCP MCP server listed on mcp.so.",
+  "source_repo": "Cappahccino/SB-MCP",
+  "source_url": "https://mcp.so/server/SB-MCP/Cappahccino",
+  "install": "npx -y SB-MCP"
+}

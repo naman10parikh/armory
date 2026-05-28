@@ -1,0 +1,7 @@
+{
+  "name": "kubernetes-ro",
+  "description": "Provides read-only access to Kubernetes clusters for resource inspection, log retrieval, and metrics monitoring with tools for listing resources, examining pods, retrieving logs with filtering, and collecting node metrics without modification risks.",
+  "source_repo": "patrickdappollonio/mcp-kubernetes-ro",
+  "source_url": "https://github.com/patrickdappollonio/mcp-kubernetes-ro",
+  "install": "# git clone --depth 1 https://github.com/patrickdappollonio/mcp-kubernetes-ro\n# See source for mcpServers config block"
+}

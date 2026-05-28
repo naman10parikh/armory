@@ -1,0 +1,7 @@
+{
+  "name": "shopana-novaposhta",
+  "description": "Integrates with Ukrainian shipping carrier Nova Poshta for package tracking, waybill management, and address operations",
+  "source_repo": "shopanaio/carrier-api",
+  "source_url": "https://github.com/shopanaio/carrier-api",
+  "install": "# git clone --depth 1 https://github.com/shopanaio/carrier-api\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xuanxue-bazi-matching",
+  "description": "Deterministic BaZi matching and daily fortune APIs with sub-200ms latency and pay-per-call billing.",
+  "source_repo": "jasonwagao/m2m",
+  "source_url": "https://github.com/jasonwagao/m2m",
+  "install": "# git clone --depth 1 https://github.com/jasonwagao/m2m\n# See source for mcpServers config block"
+}

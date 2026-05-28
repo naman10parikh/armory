@@ -1,0 +1,7 @@
+{
+  "name": "idoazacalls-cron-explainer",
+  "description": "Cron expression parser that explains schedules and returns the next N fire times with timezone support.",
+  "source_repo": "idoazacalls/cron-explainer",
+  "source_url": "https://github.com/idoazacalls/cron-explainer",
+  "install": "# git clone --depth 1 https://github.com/idoazacalls/cron-explainer\n# See source for mcpServers config block"
+}

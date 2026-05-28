@@ -1,0 +1,7 @@
+{
+  "name": "hypertext",
+  "description": "Agent-native HTML publishing service that returns a shareable public link for any HTML content submitted via MCP.",
+  "source_repo": "",
+  "source_url": "https://hypertext.live",
+  "install": "# git clone --depth 1 https://hypertext.live\n# See source for mcpServers config block"
+}

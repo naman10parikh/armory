@@ -1,0 +1,7 @@
+{
+  "name": "keycloak-mcp",
+  "description": "An MCP server for Keycloak Admin REST API, enabling user, group, event, and security management through service account authentication.",
+  "source_repo": "shigechika/keycloak-mcp",
+  "source_url": "https://github.com/shigechika/keycloak-mcp",
+  "install": "npx -y keycloak-mcp"
+}

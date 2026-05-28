@@ -1,0 +1,7 @@
+{
+  "name": "nirholas-sperax-defi",
+  "description": "Provides AI agents with access to the Sperax DeFi ecosystem on Arbitrum, including USDs stablecoin operations, SPA governance, veSPA staking, and Demeter yield farming protocols.",
+  "source_repo": "sperax/sperax-crypto-mcp",
+  "source_url": "https://github.com/sperax/sperax-crypto-mcp",
+  "install": "npx -y sperax-crypto-mcp"
+}

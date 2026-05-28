@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-pegmon-mcp",
+  "description": "Tracking stablecoin peg integrity across multiple blockchains.",
+  "source_repo": "kukapay/crypto-pegmon-mcp",
+  "source_url": "https://github.com/kukapay/crypto-pegmon-mcp",
+  "install": "npx -y crypto-pegmon-mcp"
+}

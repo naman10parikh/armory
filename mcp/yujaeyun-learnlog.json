@@ -1,0 +1,7 @@
+{
+  "name": "yujaeyun-learnlog",
+  "description": "Logs learning prompts to help users develop metacognitive awareness of their knowledge gaps and learning patterns",
+  "source_repo": "yujaeyun/learnlog-mcp",
+  "source_url": "https://github.com/yujaeyun/learnlog-mcp",
+  "install": "npx -y learnlog-mcp"
+}

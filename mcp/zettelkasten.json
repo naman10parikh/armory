@@ -1,0 +1,7 @@
+{
+  "name": "zettelkasten",
+  "description": "Implements Niklas Luhmann's Zettelkasten methodology with atomic note-taking, semantic linking types, and bidirectional connections for building emergent insights through interconnected knowledge networks rather than hierarchical organization.",
+  "source_repo": "liam-deacon/zettelkasten-mcp",
+  "source_url": "https://github.com/liam-deacon/zettelkasten-mcp",
+  "install": "npx -y zettelkasten-mcp"
+}

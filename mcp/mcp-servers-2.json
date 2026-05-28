@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-2",
+  "description": "MCP_Servers MCP server listed on mcp.so.",
+  "source_repo": "Baptoshi/MCP_Servers",
+  "source_url": "https://mcp.so/server/MCP_Servers/Baptoshi",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP_Servers/Baptoshi\n# See source for mcpServers config block"
+}

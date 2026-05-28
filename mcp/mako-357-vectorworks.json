@@ -1,0 +1,7 @@
+{
+  "name": "mako-357-vectorworks",
+  "description": "Control Vectorworks CAD software through Claude via Unix socket communication to a C++ plugin.",
+  "source_repo": "mako-357/vectorworks-mcp",
+  "source_url": "https://github.com/mako-357/vectorworks-mcp",
+  "install": "npx -y vectorworks-mcp"
+}

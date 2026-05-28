@@ -1,0 +1,7 @@
+{
+  "name": "the-momentum-apple-health",
+  "description": "Query Apple Health data with natural language using ElasticSearch under the hood.",
+  "source_repo": "the-momentum/apple-health-mcp-server",
+  "source_url": "https://github.com/the-momentum/apple-health-mcp-server",
+  "install": "npx -y apple-health-mcp-server"
+}

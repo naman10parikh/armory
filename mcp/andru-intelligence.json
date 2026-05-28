@@ -1,0 +1,7 @@
+{
+  "name": "andru-intelligence",
+  "description": "Revenue intelligence for SaaS founders: ICP scoring, persona profiling, competitive positioning.",
+  "source_repo": "geter-andru/mcp-server-andru-intelligence",
+  "source_url": "https://github.com/geter-andru/mcp-server-andru-intelligence",
+  "install": "# git clone --depth 1 https://github.com/geter-andru/mcp-server-andru-intelligence\n# See source for mcpServers config block"
+}

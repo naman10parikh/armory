@@ -1,0 +1,7 @@
+{
+  "name": "jacksenechal-scan",
+  "description": "Integrates with SANE-compatible scanners to provide document capture with ADF support, duplex scanning, batch processing, and automatic multi-page TIFF assembly for digitizing physical documents and building document management workflows.",
+  "source_repo": "jacksenechal/scan-mcp",
+  "source_url": "https://github.com/jacksenechal/scan-mcp",
+  "install": "npx -y scan-mcp"
+}

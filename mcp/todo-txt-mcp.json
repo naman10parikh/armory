@@ -1,0 +1,7 @@
+{
+  "name": "todo-txt-mcp",
+  "description": "Connects AI assistants to todo.txt files, enabling task management through natural language while preserving plain text simplicity.",
+  "source_repo": "danielmeint/todo-txt-mcp",
+  "source_url": "https://github.com/danielmeint/todo-txt-mcp",
+  "install": "npx -y todo-txt-mcp"
+}

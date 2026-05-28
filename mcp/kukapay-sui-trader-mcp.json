@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-sui-trader-mcp",
+  "description": "An MCP server designed for AI agents to perform optimal token swaps on the Sui blockchain.",
+  "source_repo": "kukapay/sui-trader-mcp",
+  "source_url": "https://github.com/kukapay/sui-trader-mcp",
+  "install": "npx -y sui-trader-mcp"
+}

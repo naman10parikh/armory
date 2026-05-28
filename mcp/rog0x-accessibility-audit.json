@@ -1,0 +1,7 @@
+{
+  "name": "rog0x-accessibility-audit",
+  "description": "Web accessibility analysis tools for alt text, heading hierarchy, WCAG color contrast, ARIA validation, and form accessibility.",
+  "source_repo": "rog0x/mcp-a11y-tools",
+  "source_url": "https://github.com/rog0x/mcp-a11y-tools",
+  "install": "# git clone --depth 1 https://github.com/rog0x/mcp-a11y-tools\n# See source for mcpServers config block"
+}

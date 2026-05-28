@@ -1,0 +1,7 @@
+{
+  "name": "paulofroes-memberkit",
+  "description": "Wraps the Memberkit API as semantic tools for managing users, courses, classrooms, memberships, comments, webhooks, rankings, and quizzes on the Brazilian membership platform.",
+  "source_repo": "paulofroes/mcp-memberkit",
+  "source_url": "https://github.com/paulofroes/mcp-memberkit",
+  "install": "# git clone --depth 1 https://github.com/paulofroes/mcp-memberkit\n# See source for mcpServers config block"
+}

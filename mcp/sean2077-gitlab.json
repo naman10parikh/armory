@@ -1,0 +1,7 @@
+{
+  "name": "sean2077-gitlab",
+  "description": "Manage self-hosted GitLab via REST API v4 with 87 tools across projects, issues, merge requests, pipelines, and wikis.",
+  "source_repo": "sean2077/gitlab-mcp-server",
+  "source_url": "https://github.com/sean2077/gitlab-mcp-server",
+  "install": "npx -y gitlab-mcp-server"
+}

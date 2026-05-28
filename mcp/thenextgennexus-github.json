@@ -1,0 +1,7 @@
+{
+  "name": "thenextgennexus-github",
+  "description": "Analyze GitHub repositories with star counts, trending, code search, and contributor maps.",
+  "source_repo": "",
+  "source_url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/github-mcp-server/mcp",
+  "install": "# git clone --depth 1 https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/github-mcp-server/mcp\n# See source for mcpServers config block"
+}

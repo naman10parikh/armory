@@ -1,0 +1,7 @@
+{
+  "name": "ashtonvaughan-agentbrowser",
+  "description": "Semantic browser automation runtime that translates web pages into structured models with dynamic tool registries, site memory, and self-healing execution.",
+  "source_repo": "ashtonvaughan/agentbrowser",
+  "source_url": "https://github.com/ashtonvaughan/agentbrowser",
+  "install": "# git clone --depth 1 https://github.com/ashtonvaughan/agentbrowser\n# See source for mcpServers config block"
+}

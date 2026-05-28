@@ -1,0 +1,7 @@
+{
+  "name": "mozicim-node-code-sandbox",
+  "description": "Executes Node.js code in isolated Docker containers with automatic dependency management, file system persistence, and resource monitoring for safe code experimentation and testing.",
+  "source_repo": "mozicim/node-code-sandbox-mcp",
+  "source_url": "https://github.com/mozicim/node-code-sandbox-mcp",
+  "install": "npx -y node-code-sandbox-mcp"
+}

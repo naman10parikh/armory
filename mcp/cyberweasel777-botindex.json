@@ -1,0 +1,7 @@
+{
+  "name": "cyberweasel777-botindex",
+  "description": "DeFi intelligence and sports analytics API with crypto signals, sports odds, and x402 micropayments.",
+  "source_repo": "cyberweasel777/botindex-mcp-server",
+  "source_url": "https://github.com/cyberweasel777/botindex-mcp-server",
+  "install": "npx -y botindex-mcp-server"
+}

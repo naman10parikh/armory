@@ -1,0 +1,7 @@
+{
+  "name": "kenforthewin-docker-container-execution",
+  "description": "Provides Docker container execution with intelligent process management, background task tracking, and comprehensive file operations for isolated development environments and automated testing workflows.",
+  "source_repo": "kenforthewin/docker-mcp-server",
+  "source_url": "https://github.com/kenforthewin/docker-mcp-server",
+  "install": "npx -y docker-mcp-server"
+}

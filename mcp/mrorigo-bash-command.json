@@ -1,0 +1,7 @@
+{
+  "name": "mrorigo-bash-command",
+  "description": "Shell command execution with process management and OpenTelemetry observability.",
+  "source_repo": "mrorigo/bash-command-mcp",
+  "source_url": "https://github.com/mrorigo/bash-command-mcp",
+  "install": "npx -y bash-command-mcp"
+}

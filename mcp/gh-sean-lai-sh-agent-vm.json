@@ -1,0 +1,7 @@
+{
+  "name": "gh-sean-lai-sh-agent-vm",
+  "description": "Container-based runtime with an embedded MCP resolver providing sandboxed filesystem and shell access for AI agents.",
+  "source_repo": "sean-lai-sh/agent-vm",
+  "source_url": "https://github.com/sean-lai-sh/agent-vm",
+  "install": "# git clone --depth 1 https://github.com/sean-lai-sh/agent-vm\n# See source for mcpServers config block"
+}

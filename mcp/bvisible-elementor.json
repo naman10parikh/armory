@@ -1,0 +1,7 @@
+{
+  "name": "bvisible-elementor",
+  "description": "Manages Elementor pages, elements, templates, and global settings in WordPress through REST API and MCP abilities.",
+  "source_repo": "bvisible/elementor-mcp-api",
+  "source_url": "https://github.com/bvisible/elementor-mcp-api",
+  "install": "# git clone --depth 1 https://github.com/bvisible/elementor-mcp-api\n# See source for mcpServers config block"
+}

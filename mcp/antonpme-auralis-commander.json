@@ -1,0 +1,7 @@
+{
+  "name": "antonpme-auralis-commander",
+  "description": "Windows-native system operations server providing shell command execution, file management, process control, and system monitoring through PowerShell and native Windows APIs.",
+  "source_repo": "antonpme/auralis-commander",
+  "source_url": "https://github.com/antonpme/auralis-commander",
+  "install": "# git clone --depth 1 https://github.com/antonpme/auralis-commander\n# See source for mcpServers config block"
+}

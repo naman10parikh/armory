@@ -1,0 +1,7 @@
+{
+  "name": "gradusnikov-google-search",
+  "description": "Integrates with Google Custom Search API to perform web searches and retrieve formatted results with titles, links, and snippets for research tasks and fact-checking.",
+  "source_repo": "gradusnikov/google-search-mcp-server",
+  "source_url": "https://github.com/gradusnikov/google-search-mcp-server",
+  "install": "npx -y google-search-mcp-server"
+}

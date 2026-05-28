@@ -1,0 +1,7 @@
+{
+  "name": "andresochoa1-meta-ads",
+  "description": "Security-focused Meta Ads API access with 18 tools including zero-trust architecture and SSRF protection.",
+  "source_repo": "andresochoa1/meta-ads-mcp",
+  "source_url": "https://github.com/andresochoa1/meta-ads-mcp",
+  "install": "npx -y meta-ads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brunopolaski-bureau-credit",
+  "description": "Orchestrates credit bureau integrations and standardizes credit data responses via MCP and HTTP boundaries.",
+  "source_repo": "brunopolaski/mcp-servers",
+  "source_url": "https://github.com/brunopolaski/mcp-servers",
+  "install": "# git clone --depth 1 https://github.com/brunopolaski/mcp-servers\n# See source for mcpServers config block"
+}

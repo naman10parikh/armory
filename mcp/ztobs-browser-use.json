@@ -1,0 +1,7 @@
+{
+  "name": "ztobs-browser-use",
+  "description": "Provides browser automation capabilities for capturing screenshots, retrieving HTML, executing JavaScript, and accessing console logs from web pages.",
+  "source_repo": "ztobs/cline-browser-use-mcp",
+  "source_url": "https://github.com/ztobs/cline-browser-use-mcp",
+  "install": "npx -y cline-browser-use-mcp"
+}

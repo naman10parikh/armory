@@ -1,0 +1,7 @@
+{
+  "name": "pvev-mattermost",
+  "description": "Integrates with Mattermost workspaces to enable channel listing, message history retrieval, posting, thread management, reactions, user information access, and topic monitoring for team communication platforms.",
+  "source_repo": "pvev/mattermost-mcp",
+  "source_url": "https://github.com/pvev/mattermost-mcp",
+  "install": "npx -y mattermost-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "prefect",
+  "description": "Monitor and debug workflows, deployments, and automations in Prefect",
+  "source_repo": "prefecthq/prefect-mcp-server",
+  "source_url": "https://github.com/prefecthq/prefect-mcp-server",
+  "install": "npx -y prefect-mcp-server"
+}

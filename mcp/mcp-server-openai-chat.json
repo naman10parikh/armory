@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-openai-chat",
+  "description": "Mcp Server_OpenAI Chat MCP server listed on mcp.so.",
+  "source_repo": "mertadali/Mcp-Server_OpenAI-Chat",
+  "source_url": "https://mcp.so/server/Mcp-Server_OpenAI-Chat/mertadali",
+  "install": "# git clone --depth 1 https://mcp.so/server/Mcp-Server_OpenAI-Chat/mertadali\n# See source for mcpServers config block"
+}

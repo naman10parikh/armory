@@ -1,0 +1,7 @@
+{
+  "name": "lottiefiles",
+  "description": "Integrates with the LottieFiles API to enable search and retrieval of animations by keywords, popular collections, and detailed information without leaving the conversation interface.",
+  "source_repo": "junmer/mcp-server-lottiefiles",
+  "source_url": "https://github.com/junmer/mcp-server-lottiefiles",
+  "install": "# git clone --depth 1 https://github.com/junmer/mcp-server-lottiefiles\n# See source for mcpServers config block"
+}

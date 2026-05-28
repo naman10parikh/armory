@@ -1,0 +1,7 @@
+{
+  "name": "realyoungk-opendart",
+  "description": "Retrieves corporate financial disclosures, periodic statements, shareholding reports, and securities registration documents from South Korea's DART electronic filing system.",
+  "source_repo": "realyoungk/opendart-mcp",
+  "source_url": "https://github.com/realyoungk/opendart-mcp",
+  "install": "npx -y opendart-mcp"
+}

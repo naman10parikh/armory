@@ -1,0 +1,7 @@
+{
+  "name": "zxfgds-toolkit",
+  "description": "Provides AI assistants with access to local and network resources through specialized tools for file system operations, database connections, GitHub API access, web content extraction, and command execution with configurable security constraints.",
+  "source_repo": "zxfgds/mcp-toolkit",
+  "source_url": "https://github.com/zxfgds/mcp-toolkit",
+  "install": "# git clone --depth 1 https://github.com/zxfgds/mcp-toolkit\n# See source for mcpServers config block"
+}

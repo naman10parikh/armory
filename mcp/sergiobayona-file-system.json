@@ -1,0 +1,7 @@
+{
+  "name": "sergiobayona-file-system",
+  "description": "Enables secure filesystem operations within explicitly allowed directories for reading, writing, editing, and managing local files without switching contexts.",
+  "source_repo": "sergiobayona/file_system_mcp",
+  "source_url": "https://github.com/sergiobayona/file_system_mcp",
+  "install": "npx -y file_system_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jprofiler",
+  "description": "Integrates JProfiler's Java profiling with AI coding agents to analyze CPU hotspots, memory allocations, JDBC queries, and HTTP calls.",
+  "source_repo": "ej-technologies/jprofiler-mcp",
+  "source_url": "https://github.com/ej-technologies/jprofiler-mcp",
+  "install": "npx -y jprofiler-mcp"
+}

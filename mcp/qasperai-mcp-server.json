@@ -1,0 +1,7 @@
+{
+  "name": "qasperai-mcp-server",
+  "description": "Enables AI assistants to discover and book local service businesses like barbers, plumbers, and mechanics directly through MCP-compatible tools.",
+  "source_repo": "QasperAI/mcp-server",
+  "source_url": "https://github.com/QasperAI/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/QasperAI/mcp-server\n# See source for mcpServers config block"
+}

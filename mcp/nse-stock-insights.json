@@ -1,0 +1,7 @@
+{
+  "name": "nse-stock-insights",
+  "description": "Indian Nifty 500 stock analysis for AI agents — price action, demand zones, technicals, and screener.",
+  "source_repo": "alokbarnwal/nse-public-mcp",
+  "source_url": "https://github.com/alokbarnwal/nse-public-mcp",
+  "install": "npx -y nse-public-mcp"
+}

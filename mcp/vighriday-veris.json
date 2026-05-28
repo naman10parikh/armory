@@ -1,0 +1,7 @@
+{
+  "name": "vighriday-veris",
+  "description": "Behavioral verification infrastructure for AI coding agents with 17 MCP tools.",
+  "source_repo": "vighriday/veris",
+  "source_url": "https://github.com/vighriday/veris",
+  "install": "# git clone --depth 1 https://github.com/vighriday/veris\n# See source for mcpServers config block"
+}

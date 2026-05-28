@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-accessibility-ai-mcp",
+  "description": "AI-powered accessibility analysis and WCAG compliance checking tools.",
+  "source_repo": "csoai-org/accessibility-ai-mcp",
+  "source_url": "https://github.com/csoai-org/accessibility-ai-mcp",
+  "install": "npx -y accessibility-ai-mcp"
+}

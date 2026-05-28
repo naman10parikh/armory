@@ -1,0 +1,7 @@
+{
+  "name": "tokisaki-galaxy-zig-docs",
+  "description": "Zig programming language documentation server for stdlib and builtin function lookup.",
+  "source_repo": "tokisaki-galaxy/zig-docs-mcp",
+  "source_url": "https://github.com/tokisaki-galaxy/zig-docs-mcp",
+  "install": "npx -y zig-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "drhalto-agentmako",
+  "description": "Local-first codebase intelligence MCP server for AI coding agents with structured project context discovery.",
+  "source_repo": "drhalto/agentmako",
+  "source_url": "https://github.com/drhalto/agentmako",
+  "install": "# git clone --depth 1 https://github.com/drhalto/agentmako\n# See source for mcpServers config block"
+}

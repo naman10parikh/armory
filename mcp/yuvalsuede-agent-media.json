@@ -1,0 +1,7 @@
+{
+  "name": "yuvalsuede-agent-media",
+  "description": "CLI and MCP server for AI video and image generation with unified access to 7 models (Kling, Veo, Sora, Seedance, Flux, Grok Imagine). Provides 9 tools for generating, managing, and browsing media.",
+  "source_repo": "yuvalsuede/agent-media",
+  "source_url": "https://github.com/yuvalsuede/agent-media",
+  "install": "# git clone --depth 1 https://github.com/yuvalsuede/agent-media\n# See source for mcpServers config block"
+}

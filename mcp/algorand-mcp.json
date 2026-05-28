@@ -1,0 +1,7 @@
+{
+  "name": "algorand-mcp",
+  "description": "Algorand Mcp MCP server listed on mcp.so.",
+  "source_repo": "GoPlausible/algorand-mcp",
+  "source_url": "https://mcp.so/server/algorand-mcp/GoPlausible",
+  "install": "npx -y algorand-mcp"
+}

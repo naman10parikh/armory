@@ -1,0 +1,7 @@
+{
+  "name": "gitlab-code-review",
+  "description": "Integrates with GitLab to enable code review of merge requests, allowing detailed analysis of diffs, commenting, and approval directly within the developer workflow.",
+  "source_repo": "mehmetakinn/gitlab-mcp-code-review",
+  "source_url": "https://github.com/mehmetakinn/gitlab-mcp-code-review",
+  "install": "# git clone --depth 1 https://github.com/mehmetakinn/gitlab-mcp-code-review\n# See source for mcpServers config block"
+}

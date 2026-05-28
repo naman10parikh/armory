@@ -1,0 +1,7 @@
+{
+  "name": "one-search-mcp",
+  "description": "One Search Mcp MCP server listed on mcp.so.",
+  "source_repo": "yokingma/one-search-mcp",
+  "source_url": "https://mcp.so/server/one-search-mcp/yokingma",
+  "install": "npx -y one-search-mcp"
+}

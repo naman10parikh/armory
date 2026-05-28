@@ -1,0 +1,7 @@
+{
+  "name": "sumitsimplex-irish-mcp",
+  "description": "Collection of hosted MCP servers providing live access to Irish public data including transport, weather, and government APIs.",
+  "source_repo": "sumitsimplex/irish-mcps",
+  "source_url": "https://github.com/sumitsimplex/irish-mcps",
+  "install": "# git clone --depth 1 https://github.com/sumitsimplex/irish-mcps\n# See source for mcpServers config block"
+}

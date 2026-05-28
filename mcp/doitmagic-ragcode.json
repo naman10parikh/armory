@@ -1,0 +1,7 @@
+{
+  "name": "doitmagic-ragcode",
+  "description": "Privacy-first semantic code search using local Ollama and Qdrant vector storage for multi-language repository understanding",
+  "source_repo": "doitmagic/rag-code-mcp",
+  "source_url": "https://github.com/doitmagic/rag-code-mcp",
+  "install": "npx -y rag-code-mcp"
+}

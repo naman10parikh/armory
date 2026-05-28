@@ -1,0 +1,7 @@
+{
+  "name": "jyurkiw-document-dev",
+  "description": "Generates and manages technical documentation for software projects.",
+  "source_repo": "jyurkiw/doc-dev-mcp",
+  "source_url": "https://github.com/jyurkiw/doc-dev-mcp",
+  "install": "npx -y doc-dev-mcp"
+}

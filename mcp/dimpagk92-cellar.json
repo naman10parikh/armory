@@ -1,0 +1,7 @@
+{
+  "name": "dimpagk92-cellar",
+  "description": "Hybrid computer-use runtime. Fuses accessibility tree + Chrome DevTools Protocol + vision into structured context with per-element confidence. 4 MCP tools (see/act/think/perceive). Continuous awareness engine (Cortex) with freshness + side-effect detection. Works offline with Ollama + local models.",
+  "source_repo": "dimpagk92/cellar",
+  "source_url": "https://github.com/dimpagk92/cellar",
+  "install": "# git clone --depth 1 https://github.com/dimpagk92/cellar\n# See source for mcpServers config block"
+}

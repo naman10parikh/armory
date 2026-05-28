@@ -1,0 +1,7 @@
+{
+  "name": "mepsopti-sprout",
+  "description": "Model-tiered content pipeline where cheap models seed drafts and expensive models verify quality.",
+  "source_repo": "mepsopti/sprout-mcp",
+  "source_url": "https://github.com/mepsopti/sprout-mcp",
+  "install": "npx -y sprout-mcp"
+}

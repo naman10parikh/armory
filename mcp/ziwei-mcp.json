@@ -1,0 +1,7 @@
+{
+  "name": "ziwei-mcp",
+  "description": "A professional Ziwei Doushu (Purple Star Astrology) MCP server that generates and interprets astrological charts, analyzes fortune and compatibility, and provides visualizations.",
+  "source_repo": "SiwuXue/ziwei-mcp",
+  "source_url": "https://github.com/SiwuXue/ziwei-mcp",
+  "install": "npx -y ziwei-mcp"
+}

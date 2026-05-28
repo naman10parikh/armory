@@ -1,0 +1,7 @@
+{
+  "name": "tovadry954-aliyun-sls",
+  "description": "Queries Alibaba Cloud Simple Log Service logs using natural language.",
+  "source_repo": "tovadry954/aliyun-sls-mcp",
+  "source_url": "https://github.com/tovadry954/aliyun-sls-mcp",
+  "install": "npx -y aliyun-sls-mcp"
+}

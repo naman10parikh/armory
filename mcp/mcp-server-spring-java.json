@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-spring-java",
+  "description": "Mcp Server Spring Java MCP server listed on mcp.so.",
+  "source_repo": "mtwn105/mcp-server-spring-java",
+  "source_url": "https://mcp.so/server/mcp-server-spring-java/mtwn105",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-spring-java/mtwn105\n# See source for mcpServers config block"
+}

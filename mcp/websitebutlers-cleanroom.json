@@ -1,0 +1,7 @@
+{
+  "name": "websitebutlers-cleanroom",
+  "description": "Enforces architectural separation for clean-room software reimplementation with role-gated tool access and audit logging.",
+  "source_repo": "websitebutlers/cleanroom-mcp",
+  "source_url": "https://github.com/websitebutlers/cleanroom-mcp",
+  "install": "npx -y cleanroom-mcp"
+}

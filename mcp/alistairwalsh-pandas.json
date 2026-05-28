@@ -1,0 +1,7 @@
+{
+  "name": "alistairwalsh-pandas",
+  "description": "Leverages pandas, numpy, and matplotlib to enable powerful data manipulation, statistical analysis, and visualization for data-driven projects.",
+  "source_repo": "alistairwalsh/mcp_pandas",
+  "source_url": "https://github.com/alistairwalsh/mcp_pandas",
+  "install": "# git clone --depth 1 https://github.com/alistairwalsh/mcp_pandas\n# See source for mcpServers config block"
+}

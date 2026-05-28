@@ -1,0 +1,7 @@
+{
+  "name": "paulieb89-uk-due-diligence",
+  "description": "UK due diligence covering Companies House, Charity Commission, Land Registry, Gazette, and HMRC VAT.",
+  "source_repo": "paulieb89/uk-due-diligence-mcp",
+  "source_url": "https://github.com/paulieb89/uk-due-diligence-mcp",
+  "install": "npx -y uk-due-diligence-mcp"
+}

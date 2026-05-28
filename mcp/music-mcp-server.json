@@ -1,0 +1,7 @@
+{
+  "name": "music-mcp-server",
+  "description": "A music MCP server that enables searching and playing songs with controls like play, pause, stop, and resume.",
+  "source_repo": "JXiuFen/music-mcp-server",
+  "source_url": "https://github.com/JXiuFen/music-mcp-server",
+  "install": "npx -y music-mcp-server"
+}

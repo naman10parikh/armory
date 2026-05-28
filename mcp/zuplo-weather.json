@@ -1,0 +1,7 @@
+{
+  "name": "zuplo-weather",
+  "description": "Access U.S. National Weather Service alerts, forecasts, radar, observations, and text products. Query aviation data including TAFs and SIGMET/AIRMETs, plus zone, station, and point metadata to power location-aware features. Build timely notifications and dashboards with reliable nationwide coverage.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/mrodasensio/aicol",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/mrodasensio/aicol\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "blender-mcp",
+  "description": "Enables AI-powered control of Blender through natural language, allowing users to create, manipulate, and automate 3D scenes, objects, materials, animations, and more via Claude or other MCP clients.",
+  "source_repo": "sandraschi/blender-mcp",
+  "source_url": "https://github.com/sandraschi/blender-mcp",
+  "install": "npx -y blender-mcp"
+}

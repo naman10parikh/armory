@@ -1,0 +1,7 @@
+{
+  "name": "baruchiro-paperless-ngx",
+  "description": "Enables AI to interact with Paperless-NGX document management systems for organizing, searching, and managing document collections through natural language commands.",
+  "source_repo": "baruchiro/paperless-mcp",
+  "source_url": "https://github.com/baruchiro/paperless-mcp",
+  "install": "npx -y paperless-mcp"
+}

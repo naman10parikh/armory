@@ -1,0 +1,7 @@
+{
+  "name": "joshuarileydev-ios-simulator",
+  "description": "Control iOS simulators for automated testing and app deployment.",
+  "source_repo": "joshuarileydev/simulator-mcp-server",
+  "source_url": "https://github.com/joshuarileydev/simulator-mcp-server",
+  "install": "npx -y simulator-mcp-server"
+}

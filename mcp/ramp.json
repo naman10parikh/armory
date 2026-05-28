@@ -1,0 +1,7 @@
+{
+  "name": "ramp",
+  "description": "Provides a bridge to Ramp's Developer API, enabling financial data analysis through an ephemeral SQLite database that loads corporate transactions, vendors, users, and spend programs for SQL-based business intelligence tasks.",
+  "source_repo": "ramp-public/ramp_mcp",
+  "source_url": "https://github.com/ramp-public/ramp_mcp",
+  "install": "npx -y ramp_mcp"
+}

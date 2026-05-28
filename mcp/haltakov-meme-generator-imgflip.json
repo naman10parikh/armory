@@ -1,0 +1,7 @@
+{
+  "name": "haltakov-meme-generator-imgflip",
+  "description": "Enables meme generation through the ImgFlip API with a single tool that accepts template ID and text placeholder parameters for creating custom memes directly within conversations.",
+  "source_repo": "haltakov/meme-mcp",
+  "source_url": "https://github.com/haltakov/meme-mcp",
+  "install": "npx -y meme-mcp"
+}

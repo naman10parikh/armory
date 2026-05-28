@@ -1,0 +1,7 @@
+{
+  "name": "solapi-mcp-server",
+  "description": "Enables searching SOLAPI documentation and examples, and sending/managing SMS, LMS, MMS, RCS, and Kakao messages with safety guards.",
+  "source_repo": "solapi/solapi-mcp-server",
+  "source_url": "https://github.com/solapi/solapi-mcp-server",
+  "install": "npx -y solapi-mcp-server"
+}

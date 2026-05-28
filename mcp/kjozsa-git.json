@@ -1,0 +1,7 @@
+{
+  "name": "kjozsa-git",
+  "description": "Provides Git operations for local repositories, enabling repository management, tag handling, and repository refreshing without direct shell access.",
+  "source_repo": "kjozsa/git-mcp",
+  "source_url": "https://github.com/kjozsa/git-mcp",
+  "install": "npx -y git-mcp"
+}

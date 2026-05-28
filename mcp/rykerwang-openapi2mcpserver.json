@@ -1,0 +1,7 @@
+{
+  "name": "rykerwang-openapi2mcpserver",
+  "description": "Automatically converts OpenAPI specifications into callable tools with authentication handling, input validation, and HTTP request proxying for seamless REST API integration.",
+  "source_repo": "rykerwang/openapi2mcpserver",
+  "source_url": "https://github.com/rykerwang/openapi2mcpserver",
+  "install": "# git clone --depth 1 https://github.com/rykerwang/openapi2mcpserver\n# See source for mcpServers config block"
+}

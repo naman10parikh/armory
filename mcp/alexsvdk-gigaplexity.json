@@ -1,0 +1,7 @@
+{
+  "name": "alexsvdk-gigaplexity",
+  "description": "Integrates GigaChat with web search capabilities, providing ask, research, and reason tools with file attachment support.",
+  "source_repo": "alexsvdk/gigaplexity-mcp",
+  "source_url": "https://github.com/alexsvdk/gigaplexity-mcp",
+  "install": "npx -y gigaplexity-mcp"
+}

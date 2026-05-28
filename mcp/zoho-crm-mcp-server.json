@@ -1,0 +1,7 @@
+{
+  "name": "zoho-crm-mcp-server",
+  "description": "Exposes Zoho CRM v6 REST API as structured tools for LLM agents via MCP, enabling CRUD operations, search, COQL queries, and more.",
+  "source_repo": "LokiMCPUniverse/zoho-crm-mcp-server",
+  "source_url": "https://github.com/LokiMCPUniverse/zoho-crm-mcp-server",
+  "install": "npx -y zoho-crm-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rsmdt-multimodal",
+  "description": "Multi-provider media generation for images, video, audio, and transcription via a unified interface.",
+  "source_repo": "rsmdt/multimodal-mcp",
+  "source_url": "https://github.com/rsmdt/multimodal-mcp",
+  "install": "npx -y multimodal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "markly-mcp-server",
+  "description": "Enables AI agents to add text or logo watermarks to images via URL, batch watermark up to 20 images, and check usage, with a free tier available.",
+  "source_repo": "Whitemarmot/markly-mcp-server",
+  "source_url": "https://github.com/Whitemarmot/markly-mcp-server",
+  "install": "npx -y markly-mcp-server"
+}

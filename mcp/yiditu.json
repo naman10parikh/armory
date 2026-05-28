@@ -1,0 +1,7 @@
+{
+  "name": "yiditu",
+  "description": "I Ching hexagram analysis and geographic feng shui for Taiwan locations.",
+  "source_repo": "kingbbs/yiditu-mcp",
+  "source_url": "https://github.com/kingbbs/yiditu-mcp",
+  "install": "npx -y yiditu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "victoriametrics-victoriatraces",
+  "description": "Integration with VictoriaMetrics distributed tracing database for querying and analyzing trace data",
+  "source_repo": "victoriametrics/mcp-victoriatraces",
+  "source_url": "https://github.com/victoriametrics/mcp-victoriatraces",
+  "install": "# git clone --depth 1 https://github.com/victoriametrics/mcp-victoriatraces\n# See source for mcpServers config block"
+}

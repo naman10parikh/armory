@@ -1,0 +1,7 @@
+{
+  "name": "autumn-mcp-server",
+  "description": "Autumn Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "SirTenzin/autumn-mcp-server",
+  "source_url": "https://mcp.so/server/autumn-mcp-server/SirTenzin",
+  "install": "npx -y autumn-mcp-server"
+}

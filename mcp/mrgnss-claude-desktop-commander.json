@@ -1,0 +1,7 @@
+{
+  "name": "mrgnss-claude-desktop-commander",
+  "description": "Enables Claude Desktop to execute terminal commands and manage files on the user's computer with security measures like command blacklisting and path validation for cross-platform development workflows.",
+  "source_repo": "mrgnss/claudedesktopcommander",
+  "source_url": "https://github.com/mrgnss/claudedesktopcommander",
+  "install": "# git clone --depth 1 https://github.com/mrgnss/claudedesktopcommander\n# See source for mcpServers config block"
+}

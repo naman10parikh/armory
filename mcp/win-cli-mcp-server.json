@@ -1,0 +1,7 @@
+{
+  "name": "win-cli-mcp-server",
+  "description": "Hardened MCP server providing controlled access to PowerShell, CMD, Git Bash, and SSH from MCP clients like Claude Desktop.",
+  "source_repo": "mhprol/win-cli-mcp-server",
+  "source_url": "https://github.com/mhprol/win-cli-mcp-server",
+  "install": "npx -y win-cli-mcp-server"
+}

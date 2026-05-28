@@ -1,0 +1,7 @@
+{
+  "name": "swiss-academic-libraries-mcp",
+  "description": "Enables AI models to search and retrieve bibliographic and digitized records from Swiss academic libraries (swisscovery, e-rara, e-periodica, e-manuscripta) via open protocols without requiring API keys.",
+  "source_repo": "malkreide/swiss-academic-libraries-mcp",
+  "source_url": "https://github.com/malkreide/swiss-academic-libraries-mcp",
+  "install": "npx -y swiss-academic-libraries-mcp"
+}

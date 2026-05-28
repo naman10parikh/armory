@@ -1,0 +1,7 @@
+{
+  "name": "freema-google-sheets",
+  "description": "Reads and writes Google Sheets data via the Google Sheets API.",
+  "source_repo": "freema/mcp-gsheets",
+  "source_url": "https://github.com/freema/mcp-gsheets",
+  "install": "# git clone --depth 1 https://github.com/freema/mcp-gsheets\n# See source for mcpServers config block"
+}

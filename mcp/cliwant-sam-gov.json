@@ -1,0 +1,7 @@
+{
+  "name": "cliwant-sam-gov",
+  "description": "Provides AI agents access to U.S. federal contracting and spending data from SAM.gov, USAspending, Federal Register, eCFR, and Grants.gov.",
+  "source_repo": "cliwant/mcp-sam-gov",
+  "source_url": "https://github.com/cliwant/mcp-sam-gov",
+  "install": "# git clone --depth 1 https://github.com/cliwant/mcp-sam-gov\n# See source for mcpServers config block"
+}

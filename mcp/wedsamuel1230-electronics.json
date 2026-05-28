@@ -1,0 +1,7 @@
+{
+  "name": "wedsamuel1230-electronics",
+  "description": "Provides resistor color code decoding, capacitor impedance calculations, and GPIO pin reference for ESP32, Arduino, and STM32 microcontrollers.",
+  "source_repo": "wedsamuel1230/electronic-mcp-server",
+  "source_url": "https://github.com/wedsamuel1230/electronic-mcp-server",
+  "install": "npx -y electronic-mcp-server"
+}

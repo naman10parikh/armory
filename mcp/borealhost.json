@@ -1,0 +1,7 @@
+{
+  "name": "borealhost",
+  "description": "Quebec-based agent-native web hosting for deploying sites, managing DNS, registering domains, and scaling infrastructure.",
+  "source_repo": "alainsvrd/borealhost-mcp",
+  "source_url": "https://github.com/alainsvrd/borealhost-mcp",
+  "install": "npx -y borealhost-mcp"
+}

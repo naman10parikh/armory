@@ -1,0 +1,7 @@
+{
+  "name": "zereight-gitlab",
+  "description": "Integrates with GitLab's API to enable repository management, issue tracking, merge request handling, and file operations for automated development workflows.",
+  "source_repo": "zereight/gitlab-mcp",
+  "source_url": "https://github.com/zereight/gitlab-mcp",
+  "install": "npx -y gitlab-mcp"
+}

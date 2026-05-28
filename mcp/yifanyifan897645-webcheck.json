@@ -1,0 +1,7 @@
+{
+  "name": "yifanyifan897645-webcheck",
+  "description": "Analyzes website health across SEO, accessibility, performance, and security dimensions with broken link detection and page comparison.",
+  "source_repo": "yifanyifan897645/webcheck-mcp",
+  "source_url": "https://github.com/yifanyifan897645/webcheck-mcp",
+  "install": "npx -y webcheck-mcp"
+}

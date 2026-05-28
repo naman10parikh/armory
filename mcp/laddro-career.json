@@ -1,0 +1,7 @@
+{
+  "name": "laddro-career",
+  "description": "Career platform MCP for tailoring resumes, generating cover letters, and accessing 22 customizable templates.",
+  "source_repo": "laddro-app/laddro-career-mcp",
+  "source_url": "https://github.com/laddro-app/laddro-career-mcp",
+  "install": "npx -y laddro-career-mcp"
+}

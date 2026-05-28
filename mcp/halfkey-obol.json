@@ -1,0 +1,7 @@
+{
+  "name": "halfkey-obol",
+  "description": "Solana agent gateway with wallet, token, DeFi, and swap tools via x402 pay-per-request.",
+  "source_repo": "halfkey/obol",
+  "source_url": "https://github.com/halfkey/obol",
+  "install": "# git clone --depth 1 https://github.com/halfkey/obol\n# See source for mcpServers config block"
+}

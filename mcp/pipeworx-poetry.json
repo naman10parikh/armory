@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-poetry",
+  "description": "Retrieves poems by author, title, or line content via PoetryDB.",
+  "source_repo": "pipeworx-io/mcp-poetry",
+  "source_url": "https://github.com/pipeworx-io/mcp-poetry",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-poetry\n# See source for mcpServers config block"
+}

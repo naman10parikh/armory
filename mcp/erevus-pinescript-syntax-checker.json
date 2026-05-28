@@ -1,0 +1,7 @@
+{
+  "name": "erevus-pinescript-syntax-checker",
+  "description": "Validates TradingView PineScript code syntax by interfacing with TradingView's official pine-facade API, providing real-time compilation error detection for automated trading script development workflows.",
+  "source_repo": "erevus-cn/pinescript_syntax_checker",
+  "source_url": "https://github.com/erevus-cn/pinescript_syntax_checker",
+  "install": "# git clone --depth 1 https://github.com/erevus-cn/pinescript_syntax_checker\n# See source for mcpServers config block"
+}

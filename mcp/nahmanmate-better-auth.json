@@ -1,0 +1,7 @@
+{
+  "name": "nahmanmate-better-auth",
+  "description": "Integrates with Better-Auth to simplify authentication processes.",
+  "source_repo": "nahmanmate/better-auth-mcp-server",
+  "source_url": "https://github.com/nahmanmate/better-auth-mcp-server",
+  "install": "npx -y better-auth-mcp-server"
+}

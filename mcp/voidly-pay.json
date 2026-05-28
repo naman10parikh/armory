@@ -1,0 +1,7 @@
+{
+  "name": "voidly-pay",
+  "description": "Off-chain credit ledger and hire marketplace for AI agents, with 20 tools for payments, delegation, and atomic ledger settlement.",
+  "source_repo": "voidly-ai/voidly-pay",
+  "source_url": "https://github.com/voidly-ai/voidly-pay",
+  "install": "# git clone --depth 1 https://github.com/voidly-ai/voidly-pay\n# See source for mcpServers config block"
+}

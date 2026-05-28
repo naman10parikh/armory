@@ -1,0 +1,7 @@
+{
+  "name": "gloria-ai",
+  "description": "Real-time curated crypto news with sentiment analysis, recaps, and search.",
+  "source_repo": "cryptobriefing/gloria-mcp",
+  "source_url": "https://github.com/cryptobriefing/gloria-mcp",
+  "install": "npx -y gloria-mcp"
+}

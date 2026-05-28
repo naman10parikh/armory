@@ -1,0 +1,7 @@
+{
+  "name": "learn-mcp-by-building",
+  "description": "Learn Mcp By Building MCP server listed on mcp.so.",
+  "source_repo": "AshikNesin/learn-mcp-by-building",
+  "source_url": "https://mcp.so/server/learn-mcp-by-building/AshikNesin",
+  "install": "# git clone --depth 1 https://mcp.so/server/learn-mcp-by-building/AshikNesin\n# See source for mcpServers config block"
+}

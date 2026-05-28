@@ -1,0 +1,7 @@
+{
+  "name": "lotus-wisdom",
+  "description": "Lotus Wisdom is a contemplative reasoning tool inspired by the Lotus Sutra. It guides AI through structured wisdom journeys for complex problems where logic alone isn't enough. Flow through wisdom domains (skillful means, non-dual recognition, meta-cognitive), take meditative pauses, and track your",
+  "source_repo": "linxule/lotus-wisdom-mcp",
+  "source_url": "https://github.com/linxule/lotus-wisdom-mcp",
+  "install": "npx -y lotus-wisdom-mcp"
+}

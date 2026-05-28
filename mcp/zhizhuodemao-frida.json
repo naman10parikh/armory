@@ -1,0 +1,7 @@
+{
+  "name": "zhizhuodemao-frida",
+  "description": "Integrates with Frida's dynamic instrumentation framework to enable runtime manipulation of Android applications through device management, process control, and application spawning for mobile security research and reverse engineering workflows.",
+  "source_repo": "zhizhuodemao/frida-mcp",
+  "source_url": "https://github.com/zhizhuodemao/frida-mcp",
+  "install": "npx -y frida-mcp"
+}

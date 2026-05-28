@@ -1,0 +1,7 @@
+{
+  "name": "hello-admin",
+  "description": "Create and manage Hellō authentication applications",
+  "source_repo": "hellocoop/admin-mcp",
+  "source_url": "https://github.com/hellocoop/admin-mcp",
+  "install": "npx -y admin-mcp"
+}

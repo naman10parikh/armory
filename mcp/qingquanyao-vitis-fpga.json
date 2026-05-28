@@ -1,0 +1,7 @@
+{
+  "name": "qingquanyao-vitis-fpga",
+  "description": "Controls AMD Vitis Unified IDE for FPGA and embedded software development through 28 tools covering platform creation, hardware debugging, and application deployment.",
+  "source_repo": "qingquanyao/vitis_mcp",
+  "source_url": "https://github.com/qingquanyao/vitis_mcp",
+  "install": "npx -y vitis_mcp"
+}

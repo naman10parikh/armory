@@ -1,0 +1,7 @@
+{
+  "name": "cvrt-jh-clickup",
+  "description": "Integrates with ClickUp project management for task, space, and workspace operations.",
+  "source_repo": "cvrt-jh/clickup-mcp",
+  "source_url": "https://github.com/cvrt-jh/clickup-mcp",
+  "install": "npx -y clickup-mcp"
+}

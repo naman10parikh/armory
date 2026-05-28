@@ -1,0 +1,7 @@
+{
+  "name": "terryso-tv-recommender",
+  "description": "Integrates with The Movie Database (TMDb) API to provide TV show discovery, recommendations, and streaming information based on genres, trends, and viewer preferences.",
+  "source_repo": "terryso/tv-recommender-mcp-server",
+  "source_url": "https://github.com/terryso/tv-recommender-mcp-server",
+  "install": "npx -y tv-recommender-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sammyl720-dall-e-image-generator",
+  "description": "Integrates DALL-E 3 for on-demand generation of custom images from text prompts.",
+  "source_repo": "sammyl720/image-generator-mcp-server",
+  "source_url": "https://github.com/sammyl720/image-generator-mcp-server",
+  "install": "npx -y image-generator-mcp-server"
+}

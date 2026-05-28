@@ -1,0 +1,7 @@
+{
+  "name": "bugbounty",
+  "description": "Integrates 90+ security tools including Nuclei, Subfinder, Nmap, SQLMap, and OSINT platforms like Shodan and VirusTotal to provide comprehensive bug bounty hunting and penetration testing capabilities with built-in safety mechanisms, rate limiting, and automated vulnerability reporting.",
+  "source_repo": "gokulapap/bugbounty-mcp-server",
+  "source_url": "https://github.com/gokulapap/bugbounty-mcp-server",
+  "install": "npx -y bugbounty-mcp-server"
+}

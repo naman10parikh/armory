@@ -1,0 +1,7 @@
+{
+  "name": "csoai-agent-prompt-injection-firewall",
+  "description": "Pattern-based and heuristic firewall that scans prompts, RAG documents, and tool arguments for prompt injection attacks.",
+  "source_repo": "csoai-org/agent-prompt-injection-firewall-mcp",
+  "source_url": "https://github.com/csoai-org/agent-prompt-injection-firewall-mcp",
+  "install": "npx -y agent-prompt-injection-firewall-mcp"
+}

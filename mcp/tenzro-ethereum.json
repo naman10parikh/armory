@@ -1,0 +1,7 @@
+{
+  "name": "tenzro-ethereum",
+  "description": "MCP server for Ethereum operations on Tenzro Network: Chainlink feeds, gas estimation, ERC-20, ENS, ABI inspection, contract calls, ERC-8004, and EAS.",
+  "source_repo": "",
+  "source_url": "https://tenzro.network/mcp/tenzro-ethereum",
+  "install": "# git clone --depth 1 https://tenzro.network/mcp/tenzro-ethereum\n# See source for mcpServers config block"
+}

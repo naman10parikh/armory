@@ -1,0 +1,7 @@
+{
+  "name": "wordware",
+  "description": "Enables local development of Wordware AI flows by creating a bridge between Claude Desktop and Wordware's capabilities, supporting interactive setup and configuration through command line or environment variables.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/wordware",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/wordware\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swagger-mcp",
+  "description": "Swagger Mcp MCP server listed on mcp.so.",
+  "source_repo": "dcolley/swagger-mcp",
+  "source_url": "https://mcp.so/server/swagger-mcp/dcolley",
+  "install": "npx -y swagger-mcp"
+}

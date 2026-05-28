@@ -1,0 +1,7 @@
+{
+  "name": "tomekkorbak-oura",
+  "description": "Integrates with the Oura API to retrieve and analyze personal sleep, readiness, and resilience data for health and wellness tracking.",
+  "source_repo": "tomekkorbak/oura-mcp-server",
+  "source_url": "https://github.com/tomekkorbak/oura-mcp-server",
+  "install": "npx -y oura-mcp-server"
+}

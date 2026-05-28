@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-mcp-kicad",
+  "description": "KiCad PCB editor access via MCP for AI-assisted circuit board design.",
+  "source_repo": "daedalus/mcp-kicad",
+  "source_url": "https://github.com/daedalus/mcp-kicad",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-kicad\n# See source for mcpServers config block"
+}

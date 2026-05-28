@@ -1,0 +1,7 @@
+{
+  "name": "monarch-money",
+  "description": "Integrates with Monarch Money for accounts, transactions, budgets, cashflow, investments, and credit history.",
+  "source_repo": "vargahis/monarch-mcp",
+  "source_url": "https://github.com/vargahis/monarch-mcp",
+  "install": "npx -y monarch-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-calendar",
+  "description": "Schedule events, check availability, and manage calendars. Create meetings, set reminders, and coordinate across time zones.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/googlecalendar",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/googlecalendar\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "qbt-labs-openmm",
+  "description": "AI-native crypto trading server providing market data, orders, grid strategies, and DeFi integration across multiple exchanges.",
+  "source_repo": "qbt-labs/openmm-mcp",
+  "source_url": "https://github.com/qbt-labs/openmm-mcp",
+  "install": "npx -y openmm-mcp"
+}

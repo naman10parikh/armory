@@ -1,0 +1,7 @@
+{
+  "name": "ai-memory-mcp",
+  "description": "Provides persistent session memory for AI assistants, enabling them to store, search, and retrieve conversation summaries across sessions via the Model Context Protocol.",
+  "source_repo": "zhanpu89/ai-memory-mcp",
+  "source_url": "https://github.com/zhanpu89/ai-memory-mcp",
+  "install": "npx -y ai-memory-mcp"
+}

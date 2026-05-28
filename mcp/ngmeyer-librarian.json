@@ -1,0 +1,7 @@
+{
+  "name": "ngmeyer-librarian",
+  "description": "Connect AI assistants to Obsidian vaults or any markdown folder for search, backlinks, graph traversal, and knowledge management.",
+  "source_repo": "ngmeyer/librarian-mcp",
+  "source_url": "https://github.com/ngmeyer/librarian-mcp",
+  "install": "npx -y librarian-mcp"
+}

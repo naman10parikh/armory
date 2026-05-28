@@ -1,0 +1,7 @@
+{
+  "name": "lecigarevolant-arxiv",
+  "description": "Integrates with arXiv's academic paper database to search publications by title, author, or keywords, retrieve metadata and PDF URLs, download papers locally, and extract full text content with page range selection for research workflows.",
+  "source_repo": "lecigarevolant/arxiv-mcp-server-gpt",
+  "source_url": "https://github.com/lecigarevolant/arxiv-mcp-server-gpt",
+  "install": "# git clone --depth 1 https://github.com/lecigarevolant/arxiv-mcp-server-gpt\n# See source for mcpServers config block"
+}

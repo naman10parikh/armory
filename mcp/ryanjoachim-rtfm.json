@@ -1,0 +1,7 @@
+{
+  "name": "ryanjoachim-rtfm",
+  "description": "Transforms unstructured documentation into an intelligent, searchable knowledge base.",
+  "source_repo": "ryanjoachim/mcp-rtfm",
+  "source_url": "https://github.com/ryanjoachim/mcp-rtfm",
+  "install": "# git clone --depth 1 https://github.com/ryanjoachim/mcp-rtfm\n# See source for mcpServers config block"
+}

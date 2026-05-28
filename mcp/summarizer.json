@@ -1,0 +1,7 @@
+{
+  "name": "summarizer",
+  "description": "Provides intelligent summarization capabilities for various types of content.",
+  "source_repo": "0xshellming/mcp-summarizer",
+  "source_url": "https://github.com/0xshellming/mcp-summarizer",
+  "install": "# git clone --depth 1 https://github.com/0xshellming/mcp-summarizer\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bettyguo-obsidian",
+  "description": "Provides direct filesystem access to Obsidian vaults with 22 MCP tools for reading, writing, searching, and linking notes without requiring the Local REST API plugin.",
+  "source_repo": "bettyguo/obsidian_mcp",
+  "source_url": "https://github.com/bettyguo/obsidian_mcp",
+  "install": "npx -y obsidian_mcp"
+}

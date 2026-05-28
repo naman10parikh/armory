@@ -1,0 +1,7 @@
+{
+  "name": "dach3r-airbrake",
+  "description": "Integrates with Airbrake's error tracking platform to monitor application errors, manage error states, track deployments, analyze trends, and facilitate team collaboration through comments and issue linking.",
+  "source_repo": "dach3r/airbrake-mcp-server",
+  "source_url": "https://github.com/dach3r/airbrake-mcp-server",
+  "install": "npx -y airbrake-mcp-server"
+}

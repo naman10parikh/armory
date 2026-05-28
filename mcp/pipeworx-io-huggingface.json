@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-huggingface",
+  "description": "Search and explore Hugging Face Hub for machine learning models, datasets, and Spaces by task type, framework, tags, and popularity.",
+  "source_repo": "pipeworx-io/mcp-huggingface",
+  "source_url": "https://github.com/pipeworx-io/mcp-huggingface",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-huggingface\n# See source for mcpServers config block"
+}

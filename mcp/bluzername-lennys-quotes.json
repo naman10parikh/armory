@@ -1,0 +1,7 @@
+{
+  "name": "bluzername-lennys-quotes",
+  "description": "Query 269 episodes of Lenny's Podcast for product management wisdom. Search 51,000+ transcript segments with YouTube timestamps. Perfect for PRDs, strategy, and PM career advice.",
+  "source_repo": "bluzername/lennys-quotes",
+  "source_url": "https://github.com/bluzername/lennys-quotes",
+  "install": "# git clone --depth 1 https://github.com/bluzername/lennys-quotes\n# See source for mcpServers config block"
+}

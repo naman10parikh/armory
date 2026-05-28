@@ -1,0 +1,7 @@
+{
+  "name": "jprealini-cypress-test-generator",
+  "description": "Automates Cypress test generation by analyzing web pages with Puppeteer to extract DOM elements and generate structured page object models with appropriate selectors and test patterns for end-to-end test automation.",
+  "source_repo": "jprealini/cypress-mcp",
+  "source_url": "https://github.com/jprealini/cypress-mcp",
+  "install": "npx -y cypress-mcp"
+}

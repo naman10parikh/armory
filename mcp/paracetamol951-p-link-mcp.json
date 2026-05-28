@@ -1,0 +1,7 @@
+{
+  "name": "paracetamol951-p-link-mcp",
+  "description": "Implementation of HTTP 402 (payment required http code) relying on Solana",
+  "source_repo": "paracetamol951/P-Link-MCP",
+  "source_url": "https://github.com/paracetamol951/P-Link-MCP",
+  "install": "npx -y P-Link-MCP"
+}

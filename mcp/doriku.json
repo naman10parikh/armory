@@ -1,0 +1,7 @@
+{
+  "name": "doriku",
+  "description": "Synchronizes AI coding tasks across Claude Code, Cursor, and other MCP servers with team visibility through a centralized dashboard.",
+  "source_repo": "doriku-io/doriku-io",
+  "source_url": "https://github.com/doriku-io/doriku-io",
+  "install": "# git clone --depth 1 https://github.com/doriku-io/doriku-io\n# See source for mcpServers config block"
+}

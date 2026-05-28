@@ -1,0 +1,7 @@
+{
+  "name": "gh-nicholasglazer-gnosis",
+  "description": "Zero-config searchable documentation with SQLite or PostgreSQL storage.",
+  "source_repo": "nicholasglazer/gnosis-mcp",
+  "source_url": "https://github.com/nicholasglazer/gnosis-mcp",
+  "install": "npx -y gnosis-mcp"
+}

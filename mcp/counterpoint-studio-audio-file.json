@@ -1,0 +1,7 @@
+{
+  "name": "counterpoint-studio-audio-file",
+  "description": "Inspect local audio files with playback controls, metadata extraction, loudness analysis, and spectrograms.",
+  "source_repo": "counterpoint-studio/audio-file-mcp-app",
+  "source_url": "https://github.com/counterpoint-studio/audio-file-mcp-app",
+  "install": "# git clone --depth 1 https://github.com/counterpoint-studio/audio-file-mcp-app\n# See source for mcpServers config block"
+}

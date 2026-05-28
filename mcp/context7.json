@@ -1,0 +1,7 @@
+{
+  "name": "context7",
+  "description": "Fetch up-to-date, version-specific documentation and code examples directly into your prompts. Enhance your coding experience by eliminating outdated information and hallucinated APIs. Simply add `use context7` to your questions for accurate and relevant answers.",
+  "source_repo": "upstash/context7",
+  "source_url": "https://github.com/upstash/context7#readme",
+  "install": "# git clone --depth 1 https://github.com/upstash/context7#readme\n# See source for mcpServers config block"
+}

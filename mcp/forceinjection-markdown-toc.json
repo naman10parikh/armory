@@ -1,0 +1,7 @@
+{
+  "name": "forceinjection-markdown-toc",
+  "description": "Parses markdown documents to extract heading structures and generate formatted table of contents with support for various markdown heading formats.",
+  "source_repo": "forceinjection/markdown-mcp",
+  "source_url": "https://github.com/forceinjection/markdown-mcp",
+  "install": "npx -y markdown-mcp"
+}

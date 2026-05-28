@@ -1,0 +1,7 @@
+{
+  "name": "bshada-nse-bse",
+  "description": "Integrates with NSE and BSE India stock market APIs to provide real-time quotes, historical data analysis, options chains, corporate actions, IPO information, and document processing for financial analysis and investment research focused on Indian equity markets.",
+  "source_repo": "bshada/nse-bse-mcp",
+  "source_url": "https://github.com/bshada/nse-bse-mcp",
+  "install": "npx -y nse-bse-mcp"
+}

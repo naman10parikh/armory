@@ -1,0 +1,7 @@
+{
+  "name": "aiyuekuang-recode",
+  "description": "Integrates with the ReCode VS Code extension to provide access to code history and change tracking data, enabling analysis of coding patterns, debugging assistance based on historical changes, and contextual code recommendations by leveraging temporal development data.",
+  "source_repo": "aiyuekuang/recode-mcp",
+  "source_url": "https://github.com/aiyuekuang/recode-mcp",
+  "install": "npx -y recode-mcp"
+}

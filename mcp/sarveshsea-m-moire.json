@@ -1,0 +1,7 @@
+{
+  "name": "sarveshsea-m-moire",
+  "description": "Design system MCP server. 20 tools: extract design tokens from any URL, pull from Figma (REST or WebSocket) and Penpot, generate React + shadcn/ui components from specs, run WCAG audits, sync tokens bidirectionally.",
+  "source_repo": "sarveshsea/m-moire",
+  "source_url": "https://github.com/sarveshsea/m-moire",
+  "install": "# git clone --depth 1 https://github.com/sarveshsea/m-moire\n# See source for mcpServers config block"
+}

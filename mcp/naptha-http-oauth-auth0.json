@@ -1,0 +1,7 @@
+{
+  "name": "naptha-http-oauth-auth0",
+  "description": "Provides secure OAuth 2.0 authentication for MCP implementations with flexible token storage and horizontal scalability through Auth0 integration.",
+  "source_repo": "napthaai/http-oauth-mcp-server",
+  "source_url": "https://github.com/napthaai/http-oauth-mcp-server",
+  "install": "npx -y http-oauth-mcp-server"
+}

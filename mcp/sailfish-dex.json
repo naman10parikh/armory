@@ -1,0 +1,7 @@
+{
+  "name": "sailfish-dex",
+  "description": "Provides a bridge to the SailFish decentralized exchange on the EDU blockchain, enabling token swaps, liquidity pool queries, and market data analysis through a GraphQL subgraph with optimal routing capabilities.",
+  "source_repo": "sailfish-finance/educhain-ai-agent-kit",
+  "source_url": "https://github.com/sailfish-finance/educhain-ai-agent-kit",
+  "install": "# git clone --depth 1 https://github.com/sailfish-finance/educhain-ai-agent-kit\n# See source for mcpServers config block"
+}

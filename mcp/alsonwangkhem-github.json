@@ -1,0 +1,7 @@
+{
+  "name": "alsonwangkhem-github",
+  "description": "Integrates with GitHub's API to enable natural language-driven repository management, issue tracking, and code exploration for streamlined development workflows.",
+  "source_repo": "alsonwangkhem/github-mcp-2",
+  "source_url": "https://github.com/alsonwangkhem/github-mcp-2",
+  "install": "# git clone --depth 1 https://github.com/alsonwangkhem/github-mcp-2\n# See source for mcpServers config block"
+}

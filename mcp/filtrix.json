@@ -1,0 +1,7 @@
+{
+  "name": "filtrix",
+  "description": "Generates images and videos through multiple AI models with task tracking, unified credits, and production-ready retry handling.",
+  "source_repo": "",
+  "source_url": "https://filtrix.ai",
+  "install": "# git clone --depth 1 https://filtrix.ai\n# See source for mcpServers config block"
+}

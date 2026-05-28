@@ -1,0 +1,7 @@
+{
+  "name": "zhangmingjun-huarui-codesys",
+  "description": "Automates CODESYS PLC programming IDE through AI-driven project management, code authoring, and runtime monitoring.",
+  "source_repo": "zhangmingjun-huarui/codesys-mcp",
+  "source_url": "https://github.com/zhangmingjun-huarui/codesys-mcp",
+  "install": "npx -y codesys-mcp"
+}

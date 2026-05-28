@@ -1,0 +1,7 @@
+{
+  "name": "dakera",
+  "description": "Decay-weighted vector memory for AI agents — 83 MCP tools for storing, recalling, searching, and building knowledge graphs with self-hosted Rust backend.",
+  "source_repo": "dakera-ai/dakera-mcp",
+  "source_url": "https://github.com/dakera-ai/dakera-mcp",
+  "install": "npx -y dakera-mcp"
+}

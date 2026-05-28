@@ -31,10 +31,10 @@
     }
   },
   "skills": [
-    "./gear/skills/",
+    "./skills/",
     "./armory-skill/"
   ],
   "commands": [
-    "./gear/commands/"
+    "./commands/"
   ]
 }

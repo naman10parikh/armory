@@ -1,0 +1,7 @@
+{
+  "name": "nuki-mcp",
+  "description": "MCP server for controlling Nuki Smart Locks via Home Assistant, enabling lock/unlock, intercom buzzing, and battery checks.",
+  "source_repo": "sandraschi/nuki-mcp",
+  "source_url": "https://github.com/sandraschi/nuki-mcp",
+  "install": "npx -y nuki-mcp"
+}

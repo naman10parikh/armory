@@ -1,0 +1,7 @@
+{
+  "name": "plusai-presentations",
+  "description": "Generate professional PowerPoint and Google Slides presentations through AI with charts, images, and custom templates",
+  "source_repo": "",
+  "source_url": "https://plusai.com/features/mcp",
+  "install": "# git clone --depth 1 https://plusai.com/features/mcp\n# See source for mcpServers config block"
+}

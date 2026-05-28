@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-flipt",
+  "description": "Mcp Server Flipt MCP server listed on mcp.so.",
+  "source_repo": "flipt-io/mcp-server-flipt",
+  "source_url": "https://mcp.so/server/mcp-server-flipt/flipt-io",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-flipt/flipt-io\n# See source for mcpServers config block"
+}

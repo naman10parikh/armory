@@ -1,0 +1,7 @@
+{
+  "name": "ovlabs-mcp-server-originalvoices",
+  "description": "Instantly understand what real users think and why by querying our network of 1:1 Digital Twins - each representing a real person. Give your AI agents authentic human context to ground outputs, improve creative, and make smarter decisions.",
+  "source_repo": "ovlabs/mcp-server-originalvoices",
+  "source_url": "https://github.com/ovlabs/mcp-server-originalvoices",
+  "install": "# git clone --depth 1 https://github.com/ovlabs/mcp-server-originalvoices\n# See source for mcpServers config block"
+}

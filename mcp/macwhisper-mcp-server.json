@@ -1,0 +1,7 @@
+{
+  "name": "macwhisper-mcp-server",
+  "description": "Enables transcription, summarization, and action item extraction from audio files on your Mac using MacWhisper and Claude Desktop, all locally without any cloud APIs.",
+  "source_repo": "docdyhr/macwhisper-mcp-server",
+  "source_url": "https://github.com/docdyhr/macwhisper-mcp-server",
+  "install": "npx -y macwhisper-mcp-server"
+}

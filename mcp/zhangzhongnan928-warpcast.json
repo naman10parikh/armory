@@ -1,0 +1,7 @@
+{
+  "name": "zhangzhongnan928-warpcast",
+  "description": "Integrates with Warpcast to enable posting, reading, searching, and managing interactions on the Farcaster social network for automated content curation and trend analysis.",
+  "source_repo": "zhangzhongnan928/mcp-warpcast-server",
+  "source_url": "https://github.com/zhangzhongnan928/mcp-warpcast-server",
+  "install": "# git clone --depth 1 https://github.com/zhangzhongnan928/mcp-warpcast-server\n# See source for mcpServers config block"
+}

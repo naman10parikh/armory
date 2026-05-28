@@ -1,0 +1,7 @@
+{
+  "name": "deusdata-codebase-memory",
+  "description": "Persistent codebase knowledge graph that survives session restarts and context compaction.",
+  "source_repo": "deusdata/codebase-memory-mcp",
+  "source_url": "https://github.com/deusdata/codebase-memory-mcp",
+  "install": "npx -y codebase-memory-mcp"
+}

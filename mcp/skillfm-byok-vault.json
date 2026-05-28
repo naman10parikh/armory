@@ -1,0 +1,7 @@
+{
+  "name": "skillfm-byok-vault",
+  "description": "BYOK vault management, provider API key guidance, usage visibility, and SkillFM Beacon health checks.",
+  "source_repo": "ericm1018/skillfm-byok-vault-mcp",
+  "source_url": "https://github.com/ericm1018/skillfm-byok-vault-mcp",
+  "install": "npx -y skillfm-byok-vault-mcp"
+}

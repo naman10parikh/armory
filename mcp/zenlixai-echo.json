@@ -1,0 +1,7 @@
+{
+  "name": "zenlixai-echo",
+  "description": "Structured message relay MCP server with schema validation for emitting typed payloads from AI agents.",
+  "source_repo": "zenlixai/echo-mcp",
+  "source_url": "https://github.com/zenlixai/echo-mcp",
+  "install": "npx -y echo-mcp"
+}

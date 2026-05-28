@@ -1,0 +1,7 @@
+{
+  "name": "nlobby",
+  "description": "Integrates with N Lobby school portal through browser-based authentication to provide secure access to academic data including news, announcements, course progress, and calendar events for students, staff, and parents.",
+  "source_repo": "minagishl/nlobby-cli",
+  "source_url": "https://github.com/minagishl/nlobby-cli",
+  "install": "# git clone --depth 1 https://github.com/minagishl/nlobby-cli\n# See source for mcpServers config block"
+}

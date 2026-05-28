@@ -1,0 +1,7 @@
+{
+  "name": "etherlink-mcp-server",
+  "description": "Enables interaction with the Etherlink blockchain, including balance checks, transactions, smart contract interactions, and token operations.",
+  "source_repo": "efekucuk/etherlink-mcp-server",
+  "source_url": "https://github.com/efekucuk/etherlink-mcp-server",
+  "install": "npx -y etherlink-mcp-server"
+}

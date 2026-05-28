@@ -1,0 +1,7 @@
+{
+  "name": "raohwork-forgejo",
+  "description": "Integrates with Gitea and Forgejo servers to manage repositories, issues, pull requests, releases, wikis, labels, milestones, and repository actions through conversational commands.",
+  "source_repo": "raohwork/forgejo-mcp",
+  "source_url": "https://github.com/raohwork/forgejo-mcp",
+  "install": "npx -y forgejo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kashiwabyte-vikingdb-mcp-server",
+  "description": "Store and search data using VikingDB vector database.",
+  "source_repo": "kashiwabyte/vikingdb-mcp-server",
+  "source_url": "https://github.com/kashiwabyte/vikingdb-mcp-server",
+  "install": "npx -y vikingdb-mcp-server"
+}

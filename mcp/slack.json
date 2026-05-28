@@ -1,0 +1,7 @@
+{
+  "name": "slack",
+  "description": "Slack is a channel-based messaging platform. With Slack, people can work together more effectively, connect all their software tools and services, and find the information they need to do their best work — all within a secure, enterprise-grade environment.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/slack",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/slack\n# See source for mcpServers config block"
+}

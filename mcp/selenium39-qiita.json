@@ -1,0 +1,7 @@
+{
+  "name": "selenium39-qiita",
+  "description": "Integrates with Qiita's API to enable full CRUD operations for articles, user management, tag following, stock/bookmark functionality, and comment management within Japan's largest technical knowledge sharing platform.",
+  "source_repo": "selenium39/mcp-server-qiita",
+  "source_url": "https://github.com/selenium39/mcp-server-qiita",
+  "install": "# git clone --depth 1 https://github.com/selenium39/mcp-server-qiita\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "twig-rag-agents",
+  "description": "Production grade RAG agents for enterprise knowledge management and document retrieval.",
+  "source_repo": "",
+  "source_url": "https://mcp.twig.so/mcp",
+  "install": "# git clone --depth 1 https://mcp.twig.so/mcp\n# See source for mcpServers config block"
+}

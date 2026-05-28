@@ -1,0 +1,7 @@
+{
+  "name": "dasheck0-face-generator",
+  "description": "Generates customizable human face images using thispersondoesnotexist.com, offering options for shape, dimensions, and batch processing for UI prototyping and dataset creation.",
+  "source_repo": "dasheck0/face-generator",
+  "source_url": "https://github.com/dasheck0/face-generator",
+  "install": "# git clone --depth 1 https://github.com/dasheck0/face-generator\n# See source for mcpServers config block"
+}

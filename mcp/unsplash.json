@@ -1,0 +1,7 @@
+{
+  "name": "unsplash",
+  "description": "Unsplash photo library access for search and retrieval via a Pipeworx-hosted MCP endpoint.",
+  "source_repo": "pipeworx-io/mcp-unsplash",
+  "source_url": "https://github.com/pipeworx-io/mcp-unsplash",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-unsplash\n# See source for mcpServers config block"
+}

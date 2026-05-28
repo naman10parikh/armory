@@ -1,0 +1,7 @@
+{
+  "name": "jeandelest-screen-capture",
+  "description": "Linux screen capture with monitor detection, timeline recording, and chunked session-based transfers for reliable large image delivery.",
+  "source_repo": "jeandelest/screen-mcp",
+  "source_url": "https://github.com/jeandelest/screen-mcp",
+  "install": "npx -y screen-mcp"
+}

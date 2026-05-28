@@ -1,0 +1,7 @@
+{
+  "name": "revogrid",
+  "description": "High-performance virtual grid component library with AI assistant integration.",
+  "source_repo": "revolist/revogrid",
+  "source_url": "https://github.com/revolist/revogrid",
+  "install": "# git clone --depth 1 https://github.com/revolist/revogrid\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "superhero-mcp-server-2",
+  "description": "An MCP server providing superhero data and intelligence. Query heroes by name, power, publisher, and more. Access detailed stats, biographies, and abilities for 700+ superheroes and villains.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/jarvis-stark1985/superhero-mcp-server",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/jarvis-stark1985/superhero-mcp-server\n# See source for mcpServers config block"
+}

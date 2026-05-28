@@ -1,0 +1,7 @@
+{
+  "name": "swissregister",
+  "description": "The most comprehensive signal intelligence on Swiss businesses — 800K+ companies with people, FINMA/SRO regulatory data, building permits, procurement tenders, and AI-enriched profiles from the official commercial register.",
+  "source_repo": "GreatBlu/swissregister-mcp",
+  "source_url": "https://github.com/GreatBlu/swissregister-mcp",
+  "install": "npx -y swissregister-mcp"
+}

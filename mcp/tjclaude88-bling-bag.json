@@ -1,0 +1,7 @@
+{
+  "name": "tjclaude88-bling-bag",
+  "description": "Configure and display AI agent identity, personality traits, and platform-specific visual theming.",
+  "source_repo": "tjclaude88/mcp-bling",
+  "source_url": "https://github.com/tjclaude88/mcp-bling",
+  "install": "# git clone --depth 1 https://github.com/tjclaude88/mcp-bling\n# See source for mcpServers config block"
+}

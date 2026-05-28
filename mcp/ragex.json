@@ -1,0 +1,7 @@
+{
+  "name": "ragex",
+  "description": "Gives Claude semantic search superpowers to find and reuse existing patterns in your codebase.",
+  "source_repo": "jbenshetler/mcp-ragex",
+  "source_url": "https://github.com/jbenshetler/mcp-ragex",
+  "install": "# git clone --depth 1 https://github.com/jbenshetler/mcp-ragex\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "atomic-css",
+  "description": "Utility-first CSS framework with class lookup, validation, and conversion tools for streamlined styling workflows.",
+  "source_repo": "",
+  "source_url": "https://atomiccss.dev",
+  "install": "# git clone --depth 1 https://atomiccss.dev\n# See source for mcpServers config block"
+}

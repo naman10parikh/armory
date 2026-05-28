@@ -1,0 +1,7 @@
+{
+  "name": "derberg-opencrane",
+  "description": "Extensible RAG library for building AI-powered documentation search with semantic search, keyword matching, and hybrid retrieval.",
+  "source_repo": "derberg/opencrane",
+  "source_url": "https://github.com/derberg/opencrane",
+  "install": "# git clone --depth 1 https://github.com/derberg/opencrane\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hekmon8-jenkins",
+  "description": "Integrates with Jenkins CI/CD pipelines to enable automated job management, build monitoring, and artifact handling for streamlined software delivery workflows.",
+  "source_repo": "hekmon8/jenkins-server-mcp",
+  "source_url": "https://github.com/hekmon8/jenkins-server-mcp",
+  "install": "npx -y jenkins-server-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "soumyacodes007-minecraft",
+  "description": "Controls Minecraft bots via 30+ MCP tools for movement, building, inventory, crafting, and schematic-based construction.",
+  "source_repo": "soumyacodes007/minecraft-mcp",
+  "source_url": "https://github.com/soumyacodes007/minecraft-mcp",
+  "install": "npx -y minecraft-mcp"
+}

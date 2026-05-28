@@ -1,0 +1,7 @@
+{
+  "name": "houtini-gemini",
+  "description": "Professional integration with Google's Gemini AI models featuring Google Search grounding and deep research capabilities",
+  "source_repo": "houtini-ai/gemini-mcp",
+  "source_url": "https://github.com/houtini-ai/gemini-mcp",
+  "install": "npx -y gemini-mcp"
+}

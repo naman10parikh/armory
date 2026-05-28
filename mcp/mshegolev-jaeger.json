@@ -1,0 +1,7 @@
+{
+  "name": "mshegolev-jaeger",
+  "description": "Search Jaeger distributed traces, inspect spans, and map service dependencies with read-only access.",
+  "source_repo": "mshegolev/jaeger-mcp",
+  "source_url": "https://github.com/mshegolev/jaeger-mcp",
+  "install": "npx -y jaeger-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-tomorrow-you-voice-bridge",
+  "description": "Multi-engine text-to-speech for coding assistants with five TTS engines and free-by-default option.",
+  "source_repo": "tomorrow-you/voice-bridge",
+  "source_url": "https://github.com/tomorrow-you/voice-bridge",
+  "install": "# git clone --depth 1 https://github.com/tomorrow-you/voice-bridge\n# See source for mcpServers config block"
+}

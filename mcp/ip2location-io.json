@@ -1,0 +1,7 @@
+{
+  "name": "ip2location-io",
+  "description": "Integrates with IP2Location.io API to retrieve geographic location, network details, security insights, and metadata for IPv4 and IPv6 addresses with support for both free and authenticated usage tiers.",
+  "source_repo": "ip2location/mcp-ip2location-io",
+  "source_url": "https://github.com/ip2location/mcp-ip2location-io",
+  "install": "# git clone --depth 1 https://github.com/ip2location/mcp-ip2location-io\n# See source for mcpServers config block"
+}

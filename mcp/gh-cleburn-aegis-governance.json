@@ -1,0 +1,7 @@
+{
+  "name": "gh-cleburn-aegis-governance",
+  "description": "Runtime enforcement of agent governance policies through path permissions, role-based boundaries, and content pattern scanning.",
+  "source_repo": "cleburn/aegis-mcp",
+  "source_url": "https://github.com/cleburn/aegis-mcp",
+  "install": "npx -y aegis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "postgres-mcp-server",
+  "description": "Enables AI assistants to manage, monitor, and optimize PostgreSQL databases with over 200 specialized tools for operations, security, performance tuning, and diagnostics.",
+  "source_repo": "mukul975/postgres-mcp-server",
+  "source_url": "https://github.com/mukul975/postgres-mcp-server",
+  "install": "npx -y postgres-mcp-server"
+}

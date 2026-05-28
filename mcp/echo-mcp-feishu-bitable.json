@@ -1,0 +1,7 @@
+{
+  "name": "echo-mcp-feishu-bitable",
+  "description": "Read and write Feishu Bitable (Lark Base) spreadsheet data.",
+  "source_repo": "echo-mcp/feishu-mcp",
+  "source_url": "https://github.com/echo-mcp/feishu-mcp",
+  "install": "npx -y feishu-mcp"
+}

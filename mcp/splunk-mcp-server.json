@@ -1,0 +1,7 @@
+{
+  "name": "splunk-mcp-server",
+  "description": "A lightweight, extensible MCP server for Splunk Enterprise that enables secure, async, chat-based interaction with Splunk data via Claude Desktop or any MCP-compatible agent.",
+  "source_repo": "balajifunny/splunk-mcp-server",
+  "source_url": "https://github.com/balajifunny/splunk-mcp-server",
+  "install": "npx -y splunk-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jay4242-goose-extensions",
+  "description": "Extends Goose AI assistant with five specialized servers for Plex Media Server interaction, Rotten Tomatoes scraping, eBay sales data retrieval, SearxNG web searches, and Taskwarrior task management.",
+  "source_repo": "jay4242/goose_mcp",
+  "source_url": "https://github.com/jay4242/goose_mcp",
+  "install": "npx -y goose_mcp"
+}

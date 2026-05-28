@@ -1,0 +1,7 @@
+{
+  "name": "localsummer-task-manager",
+  "description": "Provides task management with hierarchical structures, dependency tracking, and status updates through JSON configuration files for project workflow automation.",
+  "source_repo": "localsummer/task-manager-mcp",
+  "source_url": "https://github.com/localsummer/task-manager-mcp",
+  "install": "npx -y task-manager-mcp"
+}

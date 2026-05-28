@@ -1,0 +1,7 @@
+{
+  "name": "virtualflybrain",
+  "description": "Provides access to Drosophila melanogaster neuroscience data including neuroanatomy, neural connectivity, and gene expression from the VirtualFlyBrain knowledge base.",
+  "source_repo": "robbie1977/vfb3-mcp",
+  "source_url": "https://github.com/robbie1977/vfb3-mcp",
+  "install": "npx -y vfb3-mcp"
+}

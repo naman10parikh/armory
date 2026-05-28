@@ -1,0 +1,7 @@
+{
+  "name": "arslan8122-clickup",
+  "description": "Manages ClickUp tasks, time tracking, and standup posts via natural language through AI assistants.",
+  "source_repo": "arslan8122/clickup-mcp",
+  "source_url": "https://github.com/arslan8122/clickup-mcp",
+  "install": "npx -y clickup-mcp"
+}

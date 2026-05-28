@@ -1,0 +1,7 @@
+{
+  "name": "uncletim-gz-oprocess",
+  "description": "Process classification engine using APQC, ITIL, and SCOR reference frameworks with KPI mapping.",
+  "source_repo": "uncletim-gz/o-process",
+  "source_url": "https://github.com/uncletim-gz/o-process",
+  "install": "# git clone --depth 1 https://github.com/uncletim-gz/o-process\n# See source for mcpServers config block"
+}

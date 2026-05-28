@@ -1,0 +1,7 @@
+{
+  "name": "kaitoi-studio",
+  "description": "Build and run visual creative-production workflows from AI agents via the Kaitoi Studio workflow engine.",
+  "source_repo": "kaitoilabs/kaitoi-mcp",
+  "source_url": "https://github.com/kaitoilabs/kaitoi-mcp",
+  "install": "npx -y kaitoi-mcp"
+}

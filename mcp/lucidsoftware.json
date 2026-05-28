@@ -1,0 +1,7 @@
+{
+  "name": "lucidsoftware",
+  "description": "Creates diagrams, searches documents, shares content, and retrieves docs from Lucidchart and Lucidspark.",
+  "source_repo": "",
+  "source_url": "https://lucid.co",
+  "install": "# git clone --depth 1 https://lucid.co\n# See source for mcpServers config block"
+}

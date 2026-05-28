@@ -1,0 +1,7 @@
+{
+  "name": "exposureguard-mcp",
+  "description": "Domain security scanning for AI agents with A-F grades, 8 checks, and fix snippets.",
+  "source_repo": "exposureguard/exposureguard-mcp",
+  "source_url": "https://github.com/exposureguard/exposureguard-mcp",
+  "install": "npx -y exposureguard-mcp"
+}

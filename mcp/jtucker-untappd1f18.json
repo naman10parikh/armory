@@ -1,0 +1,7 @@
+{
+  "name": "jtucker-untappd1f18",
+  "description": "Integrates with the Untappd beer database API to retrieve detailed information about specific beers, enabling beer lookup, brewing analysis, and beverage recommendations.",
+  "source_repo": "jtucker/mcp-untappd-server-dotnet",
+  "source_url": "https://github.com/jtucker/mcp-untappd-server-dotnet",
+  "install": "# git clone --depth 1 https://github.com/jtucker/mcp-untappd-server-dotnet\n# See source for mcpServers config block"
+}

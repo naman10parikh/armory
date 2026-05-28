@@ -1,0 +1,7 @@
+{
+  "name": "yuchen-memory-plus",
+  "description": "Lightweight, local RAG memory store for MCP agents. Easily record, retrieve, update, delete, and visualize persistent \"memories\" across sessions.",
+  "source_repo": "yuchen20/memory-plus",
+  "source_url": "https://github.com/yuchen20/memory-plus",
+  "install": "# git clone --depth 1 https://github.com/yuchen20/memory-plus\n# See source for mcpServers config block"
+}

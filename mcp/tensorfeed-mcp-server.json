@@ -1,0 +1,7 @@
+{
+  "name": "tensorfeed-mcp-server",
+  "description": "Provides AI agents with real-time AI ecosystem data (news, status, pricing, latency) and premium tools paid via USDC on Base, compatible with any MCP client.",
+  "source_repo": "RipperMercs/tensorfeed-mcp",
+  "source_url": "https://github.com/RipperMercs/tensorfeed-mcp",
+  "install": "npx -y tensorfeed-mcp"
+}

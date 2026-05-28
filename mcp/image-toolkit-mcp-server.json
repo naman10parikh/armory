@@ -1,0 +1,7 @@
+{
+  "name": "image-toolkit-mcp-server",
+  "description": "Image Toolkit MCP Server MCP server listed on mcp.so.",
+  "source_repo": "Kira-Pgr/Image-Toolkit-MCP-Server",
+  "source_url": "https://mcp.so/server/Image-Toolkit-MCP-Server/Kira-Pgr",
+  "install": "npx -y Image-Toolkit-MCP-Server"
+}

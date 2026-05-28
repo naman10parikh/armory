@@ -1,0 +1,7 @@
+{
+  "name": "markusl-alko",
+  "description": "Integrates with Finland's Alko alcohol monopoly catalog to provide product search, store availability, opening hours, and wine ratings for wine recommendations, inventory checking, and food pairing suggestions.",
+  "source_repo": "markusl/alko-mcp",
+  "source_url": "https://github.com/markusl/alko-mcp",
+  "install": "npx -y alko-mcp"
+}

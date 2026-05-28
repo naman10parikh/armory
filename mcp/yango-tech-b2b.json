@@ -1,0 +1,7 @@
+{
+  "name": "yango-tech-b2b",
+  "description": "Integrates with Yango Tech's B2B API for retail operations, enabling access to order details, product information, and stock data for automated inventory management and order tracking.",
+  "source_repo": "zamb124/yangotech_mcp",
+  "source_url": "https://github.com/zamb124/yangotech_mcp",
+  "install": "npx -y yangotech_mcp"
+}

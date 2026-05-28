@@ -1,0 +1,7 @@
+{
+  "name": "niondigital-moco",
+  "description": "Integrates with MOCO's time tracking and project management platform to provide conversational access to activities, projects, holidays, presences, and sick days data with vacation planning assistance, productivity insights, and work-life balance analysis.",
+  "source_repo": "niondigital/moco-mcp",
+  "source_url": "https://github.com/niondigital/moco-mcp",
+  "install": "npx -y moco-mcp"
+}

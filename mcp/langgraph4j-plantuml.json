@@ -1,0 +1,7 @@
+{
+  "name": "langgraph4j-plantuml",
+  "description": "Converts diagram images into PlantUML code through vision model analysis, structured validation, and automatic syntax generation with error correction and iterative refinement.",
+  "source_repo": "langgraph4j/langraph4j-plantuml-mcp",
+  "source_url": "https://github.com/langgraph4j/langraph4j-plantuml-mcp",
+  "install": "npx -y langraph4j-plantuml-mcp"
+}

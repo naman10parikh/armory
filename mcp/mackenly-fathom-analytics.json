@@ -1,0 +1,7 @@
+{
+  "name": "mackenly-fathom-analytics",
+  "description": "Integrates with Fathom Analytics to retrieve account information, manage sites, track events, generate reports, and monitor real-time visitor data using the @mackenly/fathom-api SDK",
+  "source_repo": "mackenly/mcp-fathom-analytics",
+  "source_url": "https://github.com/mackenly/mcp-fathom-analytics",
+  "install": "# git clone --depth 1 https://github.com/mackenly/mcp-fathom-analytics\n# See source for mcpServers config block"
+}

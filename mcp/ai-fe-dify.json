@@ -1,0 +1,7 @@
+{
+  "name": "ai-fe-dify",
+  "description": "Integrates Dify capabilities, enabling text generation and other AI services.",
+  "source_repo": "ai-fe/dify-mcp-server",
+  "source_url": "https://github.com/ai-fe/dify-mcp-server",
+  "install": "npx -y dify-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aliyun-supabase",
+  "description": "Integrates Supabase project management and Alibaba Cloud GPDB with tools for database operations, Edge Functions deployment, storage management, and cloud infrastructure automation.",
+  "source_repo": "aliyun/alibabacloud-supabase-mcp-server",
+  "source_url": "https://github.com/aliyun/alibabacloud-supabase-mcp-server",
+  "install": "npx -y alibabacloud-supabase-mcp-server"
+}

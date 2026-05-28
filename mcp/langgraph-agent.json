@@ -1,0 +1,7 @@
+{
+  "name": "langgraph-agent",
+  "description": "Currency conversion agent built with LangGraph (demonstrates financial tools)",
+  "source_repo": "google/A2A",
+  "source_url": "https://github.com/google/A2A/tree/main/samples/python/agents/langgraph",
+  "install": "# git clone --depth 1 https://github.com/google/A2A/tree/main/samples/python/agents/langgraph\n# See source for mcpServers config block"
+}

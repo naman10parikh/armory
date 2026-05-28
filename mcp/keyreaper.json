@@ -1,0 +1,7 @@
+{
+  "name": "keyreaper",
+  "description": "Secures and manages API credentials through a proxy layer with rotation, rollback, and audit trail operations.",
+  "source_repo": "",
+  "source_url": "https://keyreaper.cloud",
+  "install": "# git clone --depth 1 https://keyreaper.cloud\n# See source for mcpServers config block"
+}

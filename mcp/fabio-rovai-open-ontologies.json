@@ -1,0 +1,7 @@
+{
+  "name": "fabio-rovai-open-ontologies",
+  "description": "AI-native ontology engineering with 39 tools and 5 prompts for OWL/RDF/SPARQL. Validate, query, diff, lint, version, and govern knowledge graphs via Oxigraph triple store.",
+  "source_repo": "fabio-rovai/open-ontologies",
+  "source_url": "https://github.com/fabio-rovai/open-ontologies",
+  "install": "# git clone --depth 1 https://github.com/fabio-rovai/open-ontologies\n# See source for mcpServers config block"
+}

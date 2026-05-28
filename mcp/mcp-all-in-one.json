@@ -1,0 +1,7 @@
+{
+  "name": "mcp-all-in-one",
+  "description": "Aggregates multiple MCP services into a single unified interface with self-configuration capabilities, enabling dynamic addition and removal of tools via conversation.",
+  "source_repo": "vtxf/mcp-all-in-one",
+  "source_url": "https://github.com/vtxf/mcp-all-in-one",
+  "install": "# git clone --depth 1 https://github.com/vtxf/mcp-all-in-one\n# See source for mcpServers config block"
+}

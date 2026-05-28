@@ -1,0 +1,7 @@
+{
+  "name": "agentience-tribal",
+  "description": "Stores and retrieves programming error knowledge through vector similarity search, enabling development teams to build a shared database of errors and solutions.",
+  "source_repo": "agentience/tribal_mcp_server",
+  "source_url": "https://github.com/agentience/tribal_mcp_server",
+  "install": "npx -y tribal_mcp_server"
+}

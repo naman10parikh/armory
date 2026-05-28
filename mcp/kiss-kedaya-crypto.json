@@ -1,0 +1,7 @@
+{
+  "name": "kiss-kedaya-crypto",
+  "description": "Provides cryptographic operations including encryption, decryption, hashing, and digital signatures using the PyCryptodome library for secure data handling in applications.",
+  "source_repo": "kiss-kedaya/crypto_mcp",
+  "source_url": "https://github.com/kiss-kedaya/crypto_mcp",
+  "install": "npx -y crypto_mcp"
+}

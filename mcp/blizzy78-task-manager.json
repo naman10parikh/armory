@@ -1,0 +1,7 @@
+{
+  "name": "blizzy78-task-manager",
+  "description": "Provides structured task management with dependency tracking, complexity assessment, and automatic subtask decomposition for complex multi-step projects requiring systematic workflow orchestration.",
+  "source_repo": "blizzy78/mcp-task-manager",
+  "source_url": "https://github.com/blizzy78/mcp-task-manager",
+  "install": "# git clone --depth 1 https://github.com/blizzy78/mcp-task-manager\n# See source for mcpServers config block"
+}

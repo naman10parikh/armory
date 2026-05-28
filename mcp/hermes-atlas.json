@@ -1,0 +1,7 @@
+{
+  "name": "hermes-atlas",
+  "description": "Search and fetch tools, skills, plugins, and integrations from the Hermes Atlas catalog.",
+  "source_repo": "ksimback/hermes-atlas-mcp",
+  "source_url": "https://github.com/ksimback/hermes-atlas-mcp",
+  "install": "npx -y hermes-atlas-mcp"
+}

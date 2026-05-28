@@ -1,0 +1,7 @@
+{
+  "name": "nslookup-io",
+  "description": "DNS lookups, SSL certificate checks, security scanning, and domain intelligence via nslookup.io.",
+  "source_repo": "nslookup-io/nslookup-mcp",
+  "source_url": "https://github.com/nslookup-io/nslookup-mcp",
+  "install": "npx -y nslookup-mcp"
+}

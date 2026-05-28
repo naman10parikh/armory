@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-random-user",
+  "description": "Generates random user profiles for testing and mock data.",
+  "source_repo": "pipeworx-io/mcp-randomuser",
+  "source_url": "https://github.com/pipeworx-io/mcp-randomuser",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-randomuser\n# See source for mcpServers config block"
+}

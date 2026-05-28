@@ -1,0 +1,7 @@
+{
+  "name": "chroma-core-package-search",
+  "description": "Provides access to versioned source code from major open-source projects including Go, Python, Rust, and LLVM through GitHub releases integration with automatic tracking and indexing of tagged releases for canonical code examples and language evolution analysis.",
+  "source_repo": "chroma-core/package-search",
+  "source_url": "https://github.com/chroma-core/package-search",
+  "install": "# git clone --depth 1 https://github.com/chroma-core/package-search\n# See source for mcpServers config block"
+}

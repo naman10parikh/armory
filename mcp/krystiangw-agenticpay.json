@@ -1,0 +1,7 @@
+{
+  "name": "krystiangw-agenticpay",
+  "description": "x402 USDC paywall bridge enabling pay-per-tool-call micropayments on the Solana blockchain.",
+  "source_repo": "krystiangw/agenticpay",
+  "source_url": "https://github.com/krystiangw/agenticpay",
+  "install": "# git clone --depth 1 https://github.com/krystiangw/agenticpay\n# See source for mcpServers config block"
+}

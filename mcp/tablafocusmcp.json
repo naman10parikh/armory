@@ -1,0 +1,7 @@
+{
+  "name": "tablafocusmcp",
+  "description": "Unifies glossary lookup, composition design and validation, certification preparation, practice planning, and taal explanation for tabla learning into a single MCP interface.",
+  "source_repo": "sreeramkongeseri/TablaFocusMCP",
+  "source_url": "https://github.com/sreeramkongeseri/TablaFocusMCP",
+  "install": "# git clone --depth 1 https://github.com/sreeramkongeseri/TablaFocusMCP\n# See source for mcpServers config block"
+}

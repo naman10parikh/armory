@@ -1,0 +1,7 @@
+{
+  "name": "brightdata",
+  "description": "Bright Data MCP server providing 60+ tools for web search, scraping, structured data extraction, and browser automation across major platforms",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/web-data/brightdata.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/web-data/brightdata.json\n# See source for mcpServers config block"
+}

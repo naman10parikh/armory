@@ -1,0 +1,7 @@
+{
+  "name": "h-lu-paper-find",
+  "description": "Integrates with 9+ scholarly databases to search academic papers, download PDFs, extract full-text content as markdown, and retrieve metadata for literature reviews and research workflows.",
+  "source_repo": "h-lu/paper-find-mcp",
+  "source_url": "https://github.com/h-lu/paper-find-mcp",
+  "install": "npx -y paper-find-mcp"
+}

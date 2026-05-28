@@ -1,0 +1,7 @@
+{
+  "name": "slideforge",
+  "description": "Generate consulting-quality PowerPoint slides and decks from natural language using 38 professional templates.",
+  "source_repo": "smartdatabrokers/slideforge-mcp",
+  "source_url": "https://github.com/smartdatabrokers/slideforge-mcp",
+  "install": "npx -y slideforge-mcp"
+}

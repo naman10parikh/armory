@@ -1,0 +1,7 @@
+{
+  "name": "gh-op7418-generative-ui",
+  "description": "Teaches AI models to generate interactive visualizations, charts, diagrams, and mockups.",
+  "source_repo": "op7418/generative-ui-mcp",
+  "source_url": "https://github.com/op7418/generative-ui-mcp",
+  "install": "npx -y generative-ui-mcp"
+}

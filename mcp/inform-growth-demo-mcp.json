@@ -1,0 +1,7 @@
+{
+  "name": "inform-growth-demo-mcp",
+  "description": "Demonstrates Inform Growth's Camber Core platform using a fictional B2B SaaS company, enabling AI clients to explore CRM, marketing, billing, support, and operations data through MCP tools.",
+  "source_repo": "Inform-Growth/inform-demo-mcp",
+  "source_url": "https://github.com/Inform-Growth/inform-demo-mcp",
+  "install": "npx -y inform-demo-mcp"
+}

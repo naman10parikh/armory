@@ -1,0 +1,7 @@
+{
+  "name": "mcp-tunnel",
+  "description": "Mcp Tunnel MCP server listed on mcp.so.",
+  "source_repo": "leomercier/mcp-tunnel",
+  "source_url": "https://mcp.so/server/mcp-tunnel/leomercier",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-tunnel/leomercier\n# See source for mcpServers config block"
+}

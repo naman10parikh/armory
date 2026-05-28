@@ -1,0 +1,7 @@
+{
+  "name": "rival",
+  "description": "Query AI model benchmarks, pricing, and comparisons from rival.tips.",
+  "source_repo": "nuance-dev/rival-mcp",
+  "source_url": "https://github.com/nuance-dev/rival-mcp",
+  "install": "npx -y rival-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mourad-ghafiri-youtube-transcription",
+  "description": "Downloads YouTube audio and transcribes speech to text using OpenAI Whisper with voice activity detection, parallel processing, and intelligent caching.",
+  "source_repo": "mourad-ghafiri/youtube-mcp-server",
+  "source_url": "https://github.com/mourad-ghafiri/youtube-mcp-server",
+  "install": "npx -y youtube-mcp-server"
+}

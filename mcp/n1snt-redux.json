@@ -1,0 +1,7 @@
+{
+  "name": "n1snt-redux",
+  "description": "Bridge AI tools to Redux state management for reading state, observing actions, and dispatching to stores via WebSocket.",
+  "source_repo": "n1snt/redux-mcp",
+  "source_url": "https://github.com/n1snt/redux-mcp",
+  "install": "npx -y redux-mcp"
+}

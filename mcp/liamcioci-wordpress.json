@@ -1,0 +1,7 @@
+{
+  "name": "liamcioci-wordpress",
+  "description": "Enables AI interaction with WordPress sites through secure authentication and REST API endpoint discovery, allowing content management and data retrieval without manual API configuration.",
+  "source_repo": "liamcioci/server-wp-mcp",
+  "source_url": "https://github.com/liamcioci/server-wp-mcp",
+  "install": "npx -y server-wp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toreva",
+  "description": "Non-custodial execution primitives for Solana. Best-execution routing across Jupiter Perps, Pacifica, Drift, and Flash Trade. 1 bps to open. Everything else is free. Your agent decides. Toreva executes. Every action receipted. Execution only — not financial advice.",
+  "source_repo": "",
+  "source_url": "https://toreva.com/docs",
+  "install": "# git clone --depth 1 https://toreva.com/docs\n# See source for mcpServers config block"
+}

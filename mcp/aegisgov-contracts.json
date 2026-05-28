@@ -1,0 +1,7 @@
+{
+  "name": "aegisgov-contracts",
+  "description": "US government contract MCP providing SAM.gov opportunity search, details, and AI bid analysis.",
+  "source_repo": "aegisgovdao/aegisgov-contracts-mcp",
+  "source_url": "https://github.com/aegisgovdao/aegisgov-contracts-mcp",
+  "install": "npx -y aegisgov-contracts-mcp"
+}

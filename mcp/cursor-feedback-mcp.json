@@ -1,0 +1,7 @@
+{
+  "name": "cursor-feedback-mcp",
+  "description": "Enables interactive feedback with image support in Cursor, allowing users to paste images for visual context and feedback.",
+  "source_repo": "phidn/cursor-feedback",
+  "source_url": "https://github.com/phidn/cursor-feedback",
+  "install": "# git clone --depth 1 https://github.com/phidn/cursor-feedback\n# See source for mcpServers config block"
+}

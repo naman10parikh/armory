@@ -1,0 +1,7 @@
+{
+  "name": "7majesty-m-terminal-guardian",
+  "description": "Provides secure sandboxed terminal access with risk analysis and deny-by-default security controls.",
+  "source_repo": "7majesty-m/terminal-guardian-mcp",
+  "source_url": "https://github.com/7majesty-m/terminal-guardian-mcp",
+  "install": "npx -y terminal-guardian-mcp"
+}

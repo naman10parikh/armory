@@ -1,0 +1,7 @@
+{
+  "name": "biocontext-ai-skill-to-mcp",
+  "description": "Converts AI Skills (following Claude Skills format) into discoverable resources, enabling automatic skill discovery from configurable directories with metadata parsing and file access tools for building domain-specific knowledge repositories and structured workflow collections.",
+  "source_repo": "biocontext-ai/skill-to-mcp",
+  "source_url": "https://github.com/biocontext-ai/skill-to-mcp",
+  "install": "npx -y skill-to-mcp"
+}

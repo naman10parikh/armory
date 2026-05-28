@@ -1,0 +1,7 @@
+{
+  "name": "takuya0206-obsidian",
+  "description": "Enables Claude to read, search, and modify Obsidian vault notes through a Node.js application that connects to the Local REST API plugin for seamless knowledge management workflows.",
+  "source_repo": "takuya0206/obsidian-mcp",
+  "source_url": "https://github.com/takuya0206/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "giginet-xcodeproj",
+  "description": "Provides manipulation of Xcode project files through 21 specialized tools for creating projects, managing targets and build configurations, adding/removing files and dependencies, modifying build settings, and automating common Xcode project tasks.",
+  "source_repo": "giginet/xcodeproj-mcp-server",
+  "source_url": "https://github.com/giginet/xcodeproj-mcp-server",
+  "install": "npx -y xcodeproj-mcp-server"
+}

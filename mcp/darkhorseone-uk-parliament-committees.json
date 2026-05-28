@@ -1,0 +1,7 @@
+{
+  "name": "darkhorseone-uk-parliament-committees",
+  "description": "Accesses UK Parliament Committees API for committee data, inquiries, and publications.",
+  "source_repo": "darkhorseone/mcp-servers",
+  "source_url": "https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-committees",
+  "install": "# git clone --depth 1 https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-committees\n# See source for mcpServers config block"
+}

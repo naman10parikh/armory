@@ -1,0 +1,7 @@
+{
+  "name": "uv-docs-mcp",
+  "description": "Uv Docs Mcp MCP server listed on mcp.so.",
+  "source_repo": "StevenBtw/uv-docs-mcp",
+  "source_url": "https://mcp.so/server/uv-docs-mcp/StevenBtw",
+  "install": "npx -y uv-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hermai",
+  "description": "Schema lookup, request intake, and workflow classification for website APIs via MCP.",
+  "source_repo": "hermai-ai/hermai-mcp",
+  "source_url": "https://github.com/hermai-ai/hermai-mcp",
+  "install": "npx -y hermai-mcp"
+}

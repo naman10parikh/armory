@@ -1,0 +1,7 @@
+{
+  "name": "stuchapin909-open-eagle-eye",
+  "description": "Live snapshots from approximately 29,000 public cameras across 11 countries for traffic, weather, and scenic monitoring.",
+  "source_repo": "stuchapin909/open-eagle-eye",
+  "source_url": "https://github.com/stuchapin909/open-eagle-eye",
+  "install": "# git clone --depth 1 https://github.com/stuchapin909/open-eagle-eye\n# See source for mcpServers config block"
+}

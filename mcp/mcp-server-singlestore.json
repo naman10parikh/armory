@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-singlestore",
+  "description": "Mcp Server Singlestore MCP server listed on mcp.so.",
+  "source_repo": "singlestore-labs/mcp-server-singlestore",
+  "source_url": "https://mcp.so/server/mcp-server-singlestore/singlestore-labs",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-singlestore/singlestore-labs\n# See source for mcpServers config block"
+}

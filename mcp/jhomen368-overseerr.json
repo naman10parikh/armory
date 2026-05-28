@@ -1,0 +1,7 @@
+{
+  "name": "jhomen368-overseerr",
+  "description": "Integrates with Overseerr media management instances to enable automated media search, request submission with quality profiles, and request approval workflows for Plex and Jellyfin environments.",
+  "source_repo": "jhomen368/overseerr-mcp",
+  "source_url": "https://github.com/jhomen368/overseerr-mcp",
+  "install": "npx -y overseerr-mcp"
+}

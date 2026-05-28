@@ -1,0 +1,7 @@
+{
+  "name": "pluggyai-pluggy",
+  "description": "Integrates with Pluggy's open banking platform to access financial account data and list available connectors across multiple banking institutions for financial applications and personal finance management.",
+  "source_repo": "pluggyai/pluggy-mcp",
+  "source_url": "https://github.com/pluggyai/pluggy-mcp",
+  "install": "npx -y pluggy-mcp"
+}

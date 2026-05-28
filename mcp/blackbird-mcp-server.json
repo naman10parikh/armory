@@ -1,0 +1,7 @@
+{
+  "name": "blackbird-mcp-server",
+  "description": "Enables LLMs to access Blackbird AI's services through the Model Context Protocol, using Blackbird API credentials for authentication.",
+  "source_repo": "blackbirdai-team/blackbird-mcp-server",
+  "source_url": "https://github.com/blackbirdai-team/blackbird-mcp-server",
+  "install": "npx -y blackbird-mcp-server"
+}

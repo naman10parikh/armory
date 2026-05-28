@@ -1,0 +1,7 @@
+{
+  "name": "bitbucket-server-mcp-2",
+  "description": "A professional MCP server for Bitbucket Server that enables automation of pull request management, code review, and repository operations.",
+  "source_repo": "ManiKsi/bitbucket-server-mcp",
+  "source_url": "https://github.com/ManiKsi/bitbucket-server-mcp",
+  "install": "npx -y bitbucket-server-mcp"
+}

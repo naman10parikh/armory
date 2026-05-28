@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-gmail",
+  "description": "Integrates with Gmail API to enable comprehensive email management including reading, sending, archiving messages, managing drafts and labels, creating filters, handling attachments, and configuring vacation auto-replies",
+  "source_repo": "domdomegg/gmail-mcp",
+  "source_url": "https://github.com/domdomegg/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

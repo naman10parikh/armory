@@ -1,0 +1,7 @@
+{
+  "name": "mrwyndham-pocketbase",
+  "description": "Provides a bridge between AI systems and PocketBase databases, enabling direct interaction with collections, records, and user authentication for applications that need to manipulate database data within conversations.",
+  "source_repo": "mrwyndham/pocketbase-mcp",
+  "source_url": "https://github.com/mrwyndham/pocketbase-mcp",
+  "install": "npx -y pocketbase-mcp"
+}

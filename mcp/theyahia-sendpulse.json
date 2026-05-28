@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-sendpulse",
+  "description": "Integrates with SendPulse email marketing API for managing mailing lists, sending emails, and viewing campaign statistics.",
+  "source_repo": "theyahia/sendpulse-mcp",
+  "source_url": "https://github.com/theyahia/sendpulse-mcp",
+  "install": "npx -y sendpulse-mcp"
+}

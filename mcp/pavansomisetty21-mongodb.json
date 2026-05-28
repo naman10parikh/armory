@@ -1,0 +1,7 @@
+{
+  "name": "pavansomisetty21-mongodb",
+  "description": "Provides schema-enforced MongoDB database operations with collection management, document CRUD operations, and dynamic validation using Pydantic models for safe database interactions while maintaining data integrity.",
+  "source_repo": "pavansomisetty21/mongodb-mcp-agent",
+  "source_url": "https://github.com/pavansomisetty21/mongodb-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/pavansomisetty21/mongodb-mcp-agent\n# See source for mcpServers config block"
+}

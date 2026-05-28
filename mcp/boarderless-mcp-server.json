@@ -1,0 +1,7 @@
+{
+  "name": "boarderless-mcp-server",
+  "description": "Enables AI agents to inspect and edit the live browser-resident canvas of the Boarderless app via a structured spatial ledger.",
+  "source_repo": "CrackenReleased/boarderless.app_MCP",
+  "source_url": "https://github.com/CrackenReleased/boarderless.app_MCP",
+  "install": "npx -y boarderless.app_MCP"
+}

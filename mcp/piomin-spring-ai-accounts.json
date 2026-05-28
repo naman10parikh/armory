@@ -1,0 +1,7 @@
+{
+  "name": "piomin-spring-ai-accounts",
+  "description": "Provides a Spring-based server for managing person and account data through lightweight H2 database querying with flexible retrieval capabilities by ID, nationality, and associated accounts.",
+  "source_repo": "piomin/spring-ai-apps",
+  "source_url": "https://github.com/piomin/spring-ai-apps/tree/HEAD/spring-ai-mcp",
+  "install": "# git clone --depth 1 https://github.com/piomin/spring-ai-apps/tree/HEAD/spring-ai-mcp\n# See source for mcpServers config block"
+}

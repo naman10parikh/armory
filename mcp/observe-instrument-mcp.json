@@ -1,0 +1,7 @@
+{
+  "name": "observe-instrument-mcp",
+  "description": "An MCP server that automatically instruments Python AI agents with the ioa-observe-sdk, adding OpenTelemetry-based tracing, metrics, and logs with zero manual effort.",
+  "source_repo": "alanzha2/observe-instrument-mcp",
+  "source_url": "https://github.com/alanzha2/observe-instrument-mcp",
+  "install": "npx -y observe-instrument-mcp"
+}

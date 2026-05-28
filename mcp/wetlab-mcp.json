@@ -1,0 +1,7 @@
+{
+  "name": "wetlab-mcp",
+  "description": "Enables AI-assisted molecular biology experiment design with tools for qPCR primer design, cloning strategy optimization, TaqMan probe design, and multiplex compatibility analysis.",
+  "source_repo": "muslus/wetlab-mcp",
+  "source_url": "https://github.com/muslus/wetlab-mcp",
+  "install": "npx -y wetlab-mcp"
+}

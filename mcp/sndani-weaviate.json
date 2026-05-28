@@ -1,0 +1,7 @@
+{
+  "name": "sndani-weaviate",
+  "description": "Provides a flexible vector database system for storing, searching, and retrieving persistent memories and structured knowledge across conversation contexts using Weaviate's advanced search capabilities.",
+  "source_repo": "sndani/mcp-localhost-server-weaviate",
+  "source_url": "https://github.com/sndani/mcp-localhost-server-weaviate",
+  "install": "# git clone --depth 1 https://github.com/sndani/mcp-localhost-server-weaviate\n# See source for mcpServers config block"
+}

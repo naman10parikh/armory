@@ -1,0 +1,7 @@
+{
+  "name": "panbanda-omen",
+  "description": "Code analysis tool that helps identify complexity, technical debt, and defect risks",
+  "source_repo": "panbanda/omen",
+  "source_url": "https://github.com/panbanda/omen",
+  "install": "# git clone --depth 1 https://github.com/panbanda/omen\n# See source for mcpServers config block"
+}

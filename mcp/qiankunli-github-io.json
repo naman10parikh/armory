@@ -1,0 +1,7 @@
+{
+  "name": "qiankunli-github-io",
+  "description": "Personal blog",
+  "source_repo": "qiankunli/qiankunli.github.io",
+  "source_url": "https://github.com/qiankunli/qiankunli.github.io",
+  "install": "# git clone --depth 1 https://github.com/qiankunli/qiankunli.github.io\n# See source for mcpServers config block"
+}

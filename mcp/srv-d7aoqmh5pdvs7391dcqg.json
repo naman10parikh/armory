@@ -1,0 +1,7 @@
+{
+  "name": "srv-d7aoqmh5pdvs7391dcqg",
+  "description": "# NWO Robotics MCP Server Control real robots, IoT devices, and autonomous agent swarms through natural language — powered by the [NWO Robotics API](https://nwo.capital). --- ## What This Server Does This MCP server exposes the full NWO Robotics API as 64 ready-to-use tools. Any MCP-compatible AI ag",
+  "source_repo": "",
+  "source_url": "https://nworobotics.cloud",
+  "install": "# git clone --depth 1 https://nworobotics.cloud\n# See source for mcpServers config block"
+}

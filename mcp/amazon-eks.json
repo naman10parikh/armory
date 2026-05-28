@@ -1,0 +1,7 @@
+{
+  "name": "amazon-eks",
+  "description": "AI-powered Amazon EKS cluster management and troubleshooting through natural language.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/amazon-eks",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/amazon-eks\n# See source for mcpServers config block"
+}

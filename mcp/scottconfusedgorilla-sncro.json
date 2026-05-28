@@ -1,0 +1,7 @@
+{
+  "name": "scottconfusedgorilla-sncro",
+  "description": "Live browser inspection for AI coding assistants — DOM, console logs, and network activity via MCP.",
+  "source_repo": "scottconfusedgorilla/sncro-relay",
+  "source_url": "https://github.com/scottconfusedgorilla/sncro-relay",
+  "install": "# git clone --depth 1 https://github.com/scottconfusedgorilla/sncro-relay\n# See source for mcpServers config block"
+}

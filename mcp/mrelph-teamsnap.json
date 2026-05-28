@@ -1,0 +1,7 @@
+{
+  "name": "mrelph-teamsnap",
+  "description": "Integrates with TeamSnap's sports team management platform for read-only access to team rosters, schedules, events, and player availability data.",
+  "source_repo": "mrelph/teamsnapmcp",
+  "source_url": "https://github.com/mrelph/teamsnapmcp",
+  "install": "# git clone --depth 1 https://github.com/mrelph/teamsnapmcp\n# See source for mcpServers config block"
+}

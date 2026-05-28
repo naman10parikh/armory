@@ -1,0 +1,7 @@
+{
+  "name": "mrsimpson-agent-skills",
+  "description": "Transforms Agent Skills standard skill packages into tools accessible by any compatible agent through declarative package.json-based configuration.",
+  "source_repo": "mrsimpson/agentskills-mcp",
+  "source_url": "https://github.com/mrsimpson/agentskills-mcp/tree/HEAD/packages/mcp-server",
+  "install": "npx -y agentskills-mcp"
+}

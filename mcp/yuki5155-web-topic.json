@@ -1,0 +1,7 @@
+{
+  "name": "yuki5155-web-topic",
+  "description": "Fetches and aggregates trending tech articles from Qiita, dev.to, and Medium by topic keywords.",
+  "source_repo": "yuki5155/web-topic-mcp",
+  "source_url": "https://github.com/yuki5155/web-topic-mcp",
+  "install": "npx -y web-topic-mcp"
+}

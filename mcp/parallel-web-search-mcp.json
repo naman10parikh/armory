@@ -1,0 +1,7 @@
+{
+  "name": "parallel-web-search-mcp",
+  "description": "🔎 - Highest Accuracy Web Search for AI",
+  "source_repo": "parallel-web/search-mcp",
+  "source_url": "https://github.com/parallel-web/search-mcp",
+  "install": "npx -y search-mcp"
+}

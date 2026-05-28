@@ -1,0 +1,7 @@
+{
+  "name": "jetbrains-ide-plugin",
+  "description": "Integrates Large Language Models with JetBrains IDEs, enabling custom AI-powered tools for code generation, refactoring, and development tasks.",
+  "source_repo": "jetbrains/mcp-server-plugin",
+  "source_url": "https://github.com/jetbrains/mcp-server-plugin",
+  "install": "# git clone --depth 1 https://github.com/jetbrains/mcp-server-plugin\n# See source for mcpServers config block"
+}

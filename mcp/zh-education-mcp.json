@@ -1,0 +1,7 @@
+{
+  "name": "zh-education-mcp",
+  "description": "MCP server for education statistics of the Canton and City of Zurich (BISTA), providing tools to query pupil numbers, school district trends, secondary school profiles, nationality breakdowns, and gymnasium graduation rates.",
+  "source_repo": "malkreide/zh-education-mcp",
+  "source_url": "https://github.com/malkreide/zh-education-mcp",
+  "install": "npx -y zh-education-mcp"
+}

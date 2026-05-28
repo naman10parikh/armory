@@ -1,0 +1,7 @@
+{
+  "name": "blip-email",
+  "description": "Disposable email inboxes for testing, automation, and AI workflows — create addresses, receive emails, and extract OTP codes.",
+  "source_repo": "blipemail/blip",
+  "source_url": "https://github.com/blipemail/blip/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/blipemail/blip/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

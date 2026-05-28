@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-dex-kline",
+  "description": "Streams real-time OHLCV candlestick data from decentralized exchanges via GeckoTerminal API, automatically selecting highest liquidity pools across Ethereum, BSC, and Solana networks for accurate DeFi market analysis and trading insights.",
+  "source_repo": "kukapay/dex-kline-mcp",
+  "source_url": "https://github.com/kukapay/dex-kline-mcp",
+  "install": "npx -y dex-kline-mcp"
+}

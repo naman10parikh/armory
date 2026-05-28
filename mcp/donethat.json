@@ -1,0 +1,7 @@
+{
+  "name": "donethat",
+  "description": "Privacy-first work tracking with summaries, reports, coaching, and AI-ready long-term memory.",
+  "source_repo": "",
+  "source_url": "https://donethat.ai",
+  "install": "# git clone --depth 1 https://donethat.ai\n# See source for mcpServers config block"
+}

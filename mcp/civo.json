@@ -1,0 +1,7 @@
+{
+  "name": "civo",
+  "description": "Integrates with Civo cloud platform API for managing cloud infrastructure including instance lifecycle operations, network management, Kubernetes cluster orchestration, and resource discovery with built-in rate limiting.",
+  "source_repo": "tao12345666333/civo-mcp",
+  "source_url": "https://github.com/tao12345666333/civo-mcp",
+  "install": "npx -y civo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-fishkeeper-ai-mcp",
+  "description": "Tools for managing aquarium fish care, water parameters, and feeding schedules.",
+  "source_repo": "csoai-org/fishkeeper-ai-mcp",
+  "source_url": "https://github.com/csoai-org/fishkeeper-ai-mcp",
+  "install": "npx -y fishkeeper-ai-mcp"
+}

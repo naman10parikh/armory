@@ -1,0 +1,7 @@
+{
+  "name": "tomba-io-tomba-mcp-server",
+  "description": "Email discovery, verification, and enrichment tools. Find email addresses, verify deliverability, enrich contact data, discover authors and LinkedIn profiles, validate phone numbers, and analyze technology stacks.",
+  "source_repo": "tomba-io/tomba-mcp-server",
+  "source_url": "https://github.com/tomba-io/tomba-mcp-server",
+  "install": "npx -y tomba-mcp-server"
+}

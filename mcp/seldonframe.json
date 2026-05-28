@@ -1,0 +1,7 @@
+{
+  "name": "seldonframe",
+  "description": "Open-source agency CRM platform with MCP-native client management, booking, intake forms, and AI chatbots.",
+  "source_repo": "seldonframe/seldonframe",
+  "source_url": "https://github.com/seldonframe/seldonframe",
+  "install": "# git clone --depth 1 https://github.com/seldonframe/seldonframe\n# See source for mcpServers config block"
+}

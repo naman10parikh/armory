@@ -1,0 +1,7 @@
+{
+  "name": "pitchghost",
+  "description": "AI-powered social media lead discovery and engagement across Twitter, LinkedIn, Reddit, and Facebook.",
+  "source_repo": "pitchghost/mcp",
+  "source_url": "https://github.com/pitchghost/mcp",
+  "install": "# git clone --depth 1 https://github.com/pitchghost/mcp\n# See source for mcpServers config block"
+}

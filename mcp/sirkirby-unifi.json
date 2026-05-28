@@ -1,0 +1,7 @@
+{
+  "name": "sirkirby-unifi",
+  "description": "AI-powered management for UniFi Network, Protect, and Access controllers.",
+  "source_repo": "sirkirby/unifi-mcp",
+  "source_url": "https://github.com/sirkirby/unifi-mcp",
+  "install": "npx -y unifi-mcp"
+}

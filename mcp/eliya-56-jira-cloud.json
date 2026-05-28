@@ -1,0 +1,7 @@
+{
+  "name": "eliya-56-jira-cloud",
+  "description": "Jira Cloud integration with 10 tools for issue management, search, transitions, comments, and file attachments via the REST API v3.",
+  "source_repo": "eliya-56/mcp-jira",
+  "source_url": "https://github.com/eliya-56/mcp-jira",
+  "install": "# git clone --depth 1 https://github.com/eliya-56/mcp-jira\n# See source for mcpServers config block"
+}

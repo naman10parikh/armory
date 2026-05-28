@@ -1,0 +1,7 @@
+{
+  "name": "kastell",
+  "description": "Provision, secure, audit, and manage self-hosted servers across Hetzner, DigitalOcean, Vultr, and Linode from a single CLI.",
+  "source_repo": "kastelldev/kastell",
+  "source_url": "https://github.com/kastelldev/kastell",
+  "install": "# git clone --depth 1 https://github.com/kastelldev/kastell\n# See source for mcpServers config block"
+}

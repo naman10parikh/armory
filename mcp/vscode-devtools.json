@@ -1,0 +1,7 @@
+{
+  "name": "vscode-devtools",
+  "description": "VSCode Devtools MCP server listed on mcp.so.",
+  "source_repo": "biegehydra/VSCode Devtools",
+  "source_url": "https://mcp.so/server/VSCode Devtools/biegehydra",
+  "install": "# git clone --depth 1 https://mcp.so/server/VSCode Devtools/biegehydra\n# See source for mcpServers config block"
+}

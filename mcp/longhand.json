@@ -1,0 +1,7 @@
+{
+  "name": "longhand",
+  "description": "MCP server — Lossless Claude Code session history — indexes raw tool calls, file edits, and thinking blocks from ~/.claude/projects/*.jsonl into local SQLite + ChromaDB before Claude Code rotates them. Complements memory/omega-memory (synthesized) with verbatim recall. Install: pip install longha…",
+  "source_repo": "affaan-m/ecc",
+  "source_url": "https://github.com/affaan-m/ecc/blob/main/mcp-configs/mcp-servers.json",
+  "install": "# git clone --depth 1 https://github.com/affaan-m/ecc/blob/main/mcp-configs/mcp-servers.json\n# See source for mcpServers config block"
+}

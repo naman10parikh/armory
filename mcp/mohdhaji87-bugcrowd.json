@@ -1,0 +1,7 @@
+{
+  "name": "mohdhaji87-bugcrowd",
+  "description": "Integrates with Bugcrowd's bug bounty platform API to provide complete access invitation management, asset operations, program administration, vulnerability reporting, submission tracking, and authentication logging with full CRUD capabilities across all endpoints.",
+  "source_repo": "mohdhaji87/bugcrowd-mcp",
+  "source_url": "https://github.com/mohdhaji87/bugcrowd-mcp",
+  "install": "npx -y bugcrowd-mcp"
+}

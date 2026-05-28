@@ -1,0 +1,7 @@
+{
+  "name": "techmatic-indiamart",
+  "description": "Fetch, search, sync, and manage IndiaMART buyer leads and pipeline using natural language.",
+  "source_repo": "techmatic-sys/indiamart-mcp-server",
+  "source_url": "https://github.com/techmatic-sys/indiamart-mcp-server",
+  "install": "npx -y indiamart-mcp-server"
+}

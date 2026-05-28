@@ -1,0 +1,7 @@
+{
+  "name": "z-os-ftp-mcp-server",
+  "description": "Enables interaction with z/OS mainframe systems via FTP, including dataset listing/download/upload, JCL job submission and monitoring, with advanced text processing and pagination support.",
+  "source_repo": "arunkumars-mf/zos-ftp-mcp",
+  "source_url": "https://github.com/arunkumars-mf/zos-ftp-mcp",
+  "install": "npx -y zos-ftp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "achetronic-browse",
+  "description": "Provides web search, page fetching, and file downloading with JWT authentication, OAuth 2.0 integration, and CEL-based policy controls for supervised internet access.",
+  "source_repo": "achetronic/browse-mcp",
+  "source_url": "https://github.com/achetronic/browse-mcp",
+  "install": "npx -y browse-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chelaile-mcp",
+  "description": "MCP server for Chelaile realtime public transit data in China, including bus and metro arrivals, vehicle positions, nearby stops, timetables, and route planning. It runs locally over stdio with no login or account configuration required.",
+  "source_repo": "PeanutSplash/chelaile-mcp",
+  "source_url": "https://github.com/PeanutSplash/chelaile-mcp",
+  "install": "npx -y chelaile-mcp"
+}

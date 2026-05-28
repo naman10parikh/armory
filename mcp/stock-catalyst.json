@@ -1,0 +1,7 @@
+{
+  "name": "stock-catalyst",
+  "description": "Analyze significant price movements in US stocks to provide clear explanations behind market shifts. Identify key drivers such as earnings reports, news events, and analyst ratings for major companies across the S&P 500 and NASDAQ. Stay informed on broader sector trends by pinpointing the specific c",
+  "source_repo": "",
+  "source_url": "https://justhappened.wtf",
+  "install": "# git clone --depth 1 https://justhappened.wtf\n# See source for mcpServers config block"
+}

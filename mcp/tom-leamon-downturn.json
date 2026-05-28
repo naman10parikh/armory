@@ -1,0 +1,7 @@
+{
+  "name": "tom-leamon-downturn",
+  "description": "Web page to clean Markdown converter with zero runtime dependencies, deployable as an MCP server, HTTP API, or standalone browser app.",
+  "source_repo": "nuvotion-visuals/downturn",
+  "source_url": "https://github.com/nuvotion-visuals/downturn",
+  "install": "# git clone --depth 1 https://github.com/nuvotion-visuals/downturn\n# See source for mcpServers config block"
+}

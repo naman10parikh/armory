@@ -1,0 +1,7 @@
+{
+  "name": "m2ai-christensen",
+  "description": "Clayton Christensen persona agent for strategic advisory using disruption theory.",
+  "source_repo": "m2ai-mcp-servers/mcp-christensen",
+  "source_url": "https://github.com/m2ai-mcp-servers/mcp-christensen",
+  "install": "# git clone --depth 1 https://github.com/m2ai-mcp-servers/mcp-christensen\n# See source for mcpServers config block"
+}

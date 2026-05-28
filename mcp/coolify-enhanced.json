@@ -1,0 +1,7 @@
+{
+  "name": "coolify-enhanced",
+  "description": "Integrates with Coolify deployment platform to provide server management, application deployment, database operations, and infrastructure orchestration capabilities for DevOps teams managing self-hosted container environments.",
+  "source_repo": "dazeb/coolify-mcp-enhanced",
+  "source_url": "https://github.com/dazeb/coolify-mcp-enhanced",
+  "install": "# git clone --depth 1 https://github.com/dazeb/coolify-mcp-enhanced\n# See source for mcpServers config block"
+}

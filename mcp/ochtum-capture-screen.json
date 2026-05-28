@@ -1,0 +1,7 @@
+{
+  "name": "ochtum-capture-screen",
+  "description": "Windows screen capture providing full desktop, display, region, and active window screenshots as PNG files.",
+  "source_repo": "ochtum/capturescreenmcp",
+  "source_url": "https://github.com/ochtum/capturescreenmcp",
+  "install": "# git clone --depth 1 https://github.com/ochtum/capturescreenmcp\n# See source for mcpServers config block"
+}

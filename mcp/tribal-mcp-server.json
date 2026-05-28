@@ -1,0 +1,7 @@
+{
+  "name": "tribal-mcp-server",
+  "description": "Tribal_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "agentience/tribal_mcp_server",
+  "source_url": "https://mcp.so/server/tribal_mcp_server/agentience",
+  "install": "npx -y tribal_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "seongwon030-velog",
+  "description": "Manages posts, series, comments, and likes on the Velog Korean tech blogging platform with 20+ tools.",
+  "source_repo": "seongwon030/velog_mcp",
+  "source_url": "https://github.com/seongwon030/velog_mcp",
+  "install": "npx -y velog_mcp"
+}

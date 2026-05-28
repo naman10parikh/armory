@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-token-lens",
+  "description": "Analyzes and optimizes context window token usage — audits tools, compresses prompts.",
+  "source_repo": "mdfifty50-boop/token-lens-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/token-lens-mcp",
+  "install": "npx -y token-lens-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lpigeon-ros-mcp-server",
+  "description": "The ROS MCP Server supports robot control by converting user-issued natural language commands into ROS or ROS2 control commands.",
+  "source_repo": "lpigeon/ros-mcp-server",
+  "source_url": "https://github.com/lpigeon/ros-mcp-server",
+  "install": "npx -y ros-mcp-server"
+}

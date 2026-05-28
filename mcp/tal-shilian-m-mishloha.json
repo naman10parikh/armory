@@ -1,0 +1,7 @@
+{
+  "name": "tal-shilian-m-mishloha",
+  "description": "Remote MCP connecting Claude Teams to GitLab, Jira, and Figma for development workflows.",
+  "source_repo": "tal-shilian-m/mishloha-mcp-server",
+  "source_url": "https://github.com/tal-shilian-m/mishloha-mcp-server",
+  "install": "npx -y mishloha-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "j0hanz-memory",
+  "description": "Persistent memory storage for AI agents with key-value and semantic search capabilities.",
+  "source_repo": "j0hanz/memory-mcp",
+  "source_url": "https://github.com/j0hanz/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

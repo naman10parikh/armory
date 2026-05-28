@@ -1,0 +1,7 @@
+{
+  "name": "jtsylve-ida-pro",
+  "description": "Headless IDA Pro 9.3 MCP server exposing comprehensive binary analysis, decompilation, and reverse engineering tools.",
+  "source_repo": "jtsylve/re-mcp",
+  "source_url": "https://github.com/jtsylve/re-mcp",
+  "install": "npx -y re-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "noteit",
+  "description": "Manage AI agent profiles and structured notes",
+  "source_repo": "bahfahh/noteit-mcp",
+  "source_url": "https://github.com/bahfahh/noteit-mcp",
+  "install": "npx -y noteit-mcp"
+}

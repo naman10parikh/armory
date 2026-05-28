@@ -1,0 +1,7 @@
+{
+  "name": "kazuph-fetch",
+  "description": "Integrates web scraping and image processing capabilities to fetch, extract, and optimize web content.",
+  "source_repo": "kazuph/mcp-fetch",
+  "source_url": "https://github.com/kazuph/mcp-fetch",
+  "install": "# git clone --depth 1 https://github.com/kazuph/mcp-fetch\n# See source for mcpServers config block"
+}

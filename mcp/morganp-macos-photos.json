@@ -1,0 +1,7 @@
+{
+  "name": "morganp-macos-photos",
+  "description": "Provides access to macOS Photos.app libraries through Apple's PhotoKit framework for photo search, album management, asset export, and organization.",
+  "source_repo": "morganp/photos-mcp",
+  "source_url": "https://github.com/morganp/photos-mcp",
+  "install": "npx -y photos-mcp"
+}

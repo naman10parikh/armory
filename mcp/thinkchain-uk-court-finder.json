@@ -1,0 +1,7 @@
+{
+  "name": "thinkchain-uk-court-finder",
+  "description": "Find UK courts and tribunals by location, name, or area of law with addresses and contact details.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/thinkchain-uk-court-finder",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/thinkchain-uk-court-finder\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-cprice70-amazon-ads",
+  "description": "Manage Amazon Advertising campaigns, keywords, bids, and performance reports.",
+  "source_repo": "cprice70/amazonads-mcp",
+  "source_url": "https://github.com/cprice70/amazonads-mcp",
+  "install": "npx -y amazonads-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "io-github-kevinrabun-gdprshiftleftmcp",
+  "description": "Brings GDPR compliance knowledge directly into your IDE, enabling developers to identify and address data protection requirements early in the development lifecycle.",
+  "source_repo": "KevinRabun/GDPRShiftLeftMCP",
+  "source_url": "https://github.com/KevinRabun/GDPRShiftLeftMCP",
+  "install": "# git clone --depth 1 https://github.com/KevinRabun/GDPRShiftLeftMCP\n# See source for mcpServers config block"
+}

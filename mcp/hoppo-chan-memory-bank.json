@@ -1,0 +1,7 @@
+{
+  "name": "hoppo-chan-memory-bank",
+  "description": "Maintains persistent project context through a structured Memory Bank system of five markdown files that track goals, status, progress, decisions, and patterns with automatic timestamp tracking and workflow guidance for consistent documentation across development sessions.",
+  "source_repo": "hoppo-chan/memory-bank-mcp",
+  "source_url": "https://github.com/hoppo-chan/memory-bank-mcp",
+  "install": "npx -y memory-bank-mcp"
+}

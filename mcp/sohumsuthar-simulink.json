@@ -1,0 +1,7 @@
+{
+  "name": "sohumsuthar-simulink",
+  "description": "Integrates with MATLAB Simulink for programmatic model creation, block manipulation, parameter configuration, and simulation execution.",
+  "source_repo": "sohumsuthar/simulink-mcp",
+  "source_url": "https://github.com/sohumsuthar/simulink-mcp",
+  "install": "npx -y simulink-mcp"
+}

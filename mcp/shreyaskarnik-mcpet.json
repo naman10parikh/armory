@@ -1,0 +1,7 @@
+{
+  "name": "shreyaskarnik-mcpet",
+  "description": "Virtual pet simulator that lets users adopt, nurture, and play with digital pets that evolve through life stages and maintain persistent stats between sessions.",
+  "source_repo": "shreyaskarnik/mcpet",
+  "source_url": "https://github.com/shreyaskarnik/mcpet",
+  "install": "# git clone --depth 1 https://github.com/shreyaskarnik/mcpet\n# See source for mcpServers config block"
+}

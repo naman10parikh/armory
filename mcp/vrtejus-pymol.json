@@ -1,0 +1,7 @@
+{
+  "name": "vrtejus-pymol",
+  "description": "Enables direct interaction with PyMOL molecular visualization software for executing commands, manipulating structures, and analyzing molecular data through a socket connection that translates natural language to PyMOL-compatible Python code.",
+  "source_repo": "vrtejus/pymol-mcp",
+  "source_url": "https://github.com/vrtejus/pymol-mcp",
+  "install": "npx -y pymol-mcp"
+}

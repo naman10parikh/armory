@@ -1,0 +1,7 @@
+{
+  "name": "stacksfinder",
+  "description": "Access StacksFinder's tech stack analysis and recommendation tools.",
+  "source_repo": "hoklims/stacksfinder-mcp",
+  "source_url": "https://github.com/hoklims/stacksfinder-mcp",
+  "install": "npx -y stacksfinder-mcp"
+}

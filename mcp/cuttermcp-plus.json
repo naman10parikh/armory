@@ -1,0 +1,7 @@
+{
+  "name": "cuttermcp-plus",
+  "description": "Enables LLMs to automate reverse engineering tasks using Cutter, including function analysis, decompilation, disassembly, and more.",
+  "source_repo": "restkhz/CutterMCP-plus",
+  "source_url": "https://github.com/restkhz/CutterMCP-plus",
+  "install": "# git clone --depth 1 https://github.com/restkhz/CutterMCP-plus\n# See source for mcpServers config block"
+}

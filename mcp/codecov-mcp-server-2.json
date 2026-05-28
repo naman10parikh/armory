@@ -1,0 +1,7 @@
+{
+  "name": "codecov-mcp-server-2",
+  "description": "Enables querying Codecov coverage data including file, commit, repository, and pull request coverage.",
+  "source_repo": "egulatee/mcp-server-codecov",
+  "source_url": "https://github.com/egulatee/mcp-server-codecov",
+  "install": "# git clone --depth 1 https://github.com/egulatee/mcp-server-codecov\n# See source for mcpServers config block"
+}

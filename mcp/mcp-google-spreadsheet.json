@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-spreadsheet",
+  "description": "Mcp Google Spreadsheet MCP server listed on mcp.so.",
+  "source_repo": "kazz187/mcp-google-spreadsheet",
+  "source_url": "https://mcp.so/server/mcp-google-spreadsheet/kazz187",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-google-spreadsheet/kazz187\n# See source for mcpServers config block"
+}

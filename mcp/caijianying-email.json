@@ -1,0 +1,7 @@
+{
+  "name": "caijianying-email",
+  "description": "Provides email sending capabilities through SMTP and AWS SES integration with unified interface for notifications, reports, and automated communications.",
+  "source_repo": "caijianying/email-mcp",
+  "source_url": "https://github.com/caijianying/email-mcp",
+  "install": "npx -y email-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gsalami-swiss-ai-labor-market",
+  "description": "Tracks AI's impact on the Swiss labor market through automated data collection from BFS statistics, news sources, and research publications, providing semantic search and trend analysis for employment patterns, industry disruption, and AI adoption across Switzerland's economic sectors.",
+  "source_repo": "gsalami/swiss-ai-labor-market",
+  "source_url": "https://github.com/gsalami/swiss-ai-labor-market",
+  "install": "# git clone --depth 1 https://github.com/gsalami/swiss-ai-labor-market\n# See source for mcpServers config block"
+}

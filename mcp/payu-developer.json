@@ -1,0 +1,7 @@
+{
+  "name": "payu-developer",
+  "description": "Search PayU documentation, browse the payment integration catalog, and fetch production-ready code samples.",
+  "source_repo": "payu-intrepos/payu-developer-mcp",
+  "source_url": "https://github.com/payu-intrepos/payu-developer-mcp",
+  "install": "npx -y payu-developer-mcp"
+}

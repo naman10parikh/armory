@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-canada-aida-ai-mcp",
+  "description": "Compliance tools for Canada's Artificial Intelligence and Data Act requirements.",
+  "source_repo": "csoai-org/canada-aida-ai-mcp",
+  "source_url": "https://github.com/csoai-org/canada-aida-ai-mcp",
+  "install": "npx -y canada-aida-ai-mcp"
+}

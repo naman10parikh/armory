@@ -1,0 +1,7 @@
+{
+  "name": "madaburns-blackveil-dns",
+  "description": "Comprehensive DNS and email security scanner with 80+ checks across SPF, DMARC, DKIM, DNSSEC, and remediation tools.",
+  "source_repo": "madaburns/bv-mcp",
+  "source_url": "https://github.com/madaburns/bv-mcp",
+  "install": "npx -y bv-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "noosbai-prusaslicer",
+  "description": "Provides intelligent assistance for PrusaSlicer with mesh analysis, profile recommendations, printability checks, and automated slicing workflows.",
+  "source_repo": "noosbai/prusamcp",
+  "source_url": "https://github.com/noosbai/prusamcp",
+  "install": "# git clone --depth 1 https://github.com/noosbai/prusamcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pitchlense",
+  "description": "Analyzes startup risk across 9 categories (market, product, team, financial, customer, operational, competitive, legal, exit) by processing unstructured data like pitch decks and financial reports to return structured JSON assessments with numerical scores, risk levels, and actionable recommendations.",
+  "source_repo": "connectaman/pitchlense-mcp",
+  "source_url": "https://github.com/connectaman/pitchlense-mcp",
+  "install": "npx -y pitchlense-mcp"
+}

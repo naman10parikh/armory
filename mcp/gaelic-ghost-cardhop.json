@@ -1,0 +1,7 @@
+{
+  "name": "gaelic-ghost-cardhop",
+  "description": "Integrates with Cardhop contacts app on macOS using AppleScript and URL schemes to parse natural language contact information, add new contacts, and update existing entries.",
+  "source_repo": "gaelic-ghost/cardhop-mcp",
+  "source_url": "https://github.com/gaelic-ghost/cardhop-mcp",
+  "install": "npx -y cardhop-mcp"
+}

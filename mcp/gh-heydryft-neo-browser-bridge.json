@@ -1,0 +1,7 @@
+{
+  "name": "gh-heydryft-neo-browser-bridge",
+  "description": "Accesses authenticated browser sessions for LinkedIn, Twitter/X, and WhatsApp through a companion Chrome extension.",
+  "source_repo": "heydryft/neo-mcp",
+  "source_url": "https://github.com/heydryft/neo-mcp",
+  "install": "npx -y neo-mcp"
+}

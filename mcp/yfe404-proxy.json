@@ -1,0 +1,7 @@
+{
+  "name": "yfe404-proxy",
+  "description": "HTTP/HTTPS MITM proxy with SSL cert management, request/response modification, TLS fingerprinting, upstream proxy chaining, and multi-platform interceptors.",
+  "source_repo": "yfe404/proxy-mcp",
+  "source_url": "https://github.com/yfe404/proxy-mcp",
+  "install": "npx -y proxy-mcp"
+}

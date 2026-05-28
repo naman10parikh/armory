@@ -1,0 +1,7 @@
+{
+  "name": "supertone-mcp",
+  "description": "MCP server for the Supertone TTS API. Generate natural speech, browse and preview the voice catalog, predict synthesis cost, and create cloned voices — directly from Claude Desktop, Cursor, or any MCP-compatible client. Supports Korean, English, Japanese, and 20+ other languages, with speed, pitch,",
+  "source_repo": "supertone-inc/supertone-mcp",
+  "source_url": "https://github.com/supertone-inc/supertone-mcp",
+  "install": "npx -y supertone-mcp"
+}

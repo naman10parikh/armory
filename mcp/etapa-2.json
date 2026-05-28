@@ -1,0 +1,7 @@
+{
+  "name": "etapa-2",
+  "description": "Etapa is an AI cycling coach for beginners and returning riders. Most cycling apps assume you already speak the language (FTP, TSS, zone 2). Etapa doesn't. The MCP exposes two tools: `generate_training_plan` — produces a personalised 2-4 week plan tailored to the rider's fitness, goal, and available",
+  "source_repo": "",
+  "source_url": "https://getetapa.com",
+  "install": "# git clone --depth 1 https://getetapa.com\n# See source for mcpServers config block"
+}

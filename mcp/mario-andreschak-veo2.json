@@ -1,0 +1,7 @@
+{
+  "name": "mario-andreschak-veo2",
+  "description": "Enables video generation from text prompts or images with configurable options like aspect ratio and duration, storing results locally for easy access through MCP resources.",
+  "source_repo": "mario-andreschak/mcp-veo2",
+  "source_url": "https://github.com/mario-andreschak/mcp-veo2",
+  "install": "# git clone --depth 1 https://github.com/mario-andreschak/mcp-veo2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jakenuts-cli-exec",
+  "description": "Provides powerful CLI command execution capabilities, enabling structured output for shell commands with features like timeout handling, ANSI code stripping, and error management for system administration and DevOps workflows.",
+  "source_repo": "jakenuts/mcp-cli-exec",
+  "source_url": "https://github.com/jakenuts/mcp-cli-exec",
+  "install": "# git clone --depth 1 https://github.com/jakenuts/mcp-cli-exec\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "consulting-agents-mcp",
+  "description": "Consulting Agents Mcp MCP server listed on mcp.so.",
+  "source_repo": "MatthewPDingle/consulting-agents-mcp",
+  "source_url": "https://mcp.so/server/consulting-agents-mcp/MatthewPDingle",
+  "install": "npx -y consulting-agents-mcp"
+}

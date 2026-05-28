@@ -1,0 +1,7 @@
+{
+  "name": "virtualization-mcp",
+  "description": "Enables AI assistants to manage virtual machines, sandboxes, and dev environments through VirtualBox, Hyper-V, and Windows Sandbox, supporting VM lifecycle, ISO downloads, networking, and unattended installs.",
+  "source_repo": "sandraschi/virtualization-mcp",
+  "source_url": "https://github.com/sandraschi/virtualization-mcp",
+  "install": "npx -y virtualization-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yyues-antdv",
+  "description": "Provides structured access to Ant Design Vue component documentation with full-text search, component listing, API specification retrieval, and prop lookup powered by a SQLite database.",
+  "source_repo": "yyues/antdv-mcp",
+  "source_url": "https://github.com/yyues/antdv-mcp",
+  "install": "npx -y antdv-mcp"
+}

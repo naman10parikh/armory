@@ -1,0 +1,7 @@
+{
+  "name": "beycom-onetool-mcp",
+  "description": "One MCP server with 100+ developer tools including Brave, Gemini, Excel, files, database, and DevTools.",
+  "source_repo": "beycom/onetool-mcp",
+  "source_url": "https://github.com/beycom/onetool-mcp",
+  "install": "npx -y onetool-mcp"
+}

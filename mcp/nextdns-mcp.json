@@ -1,0 +1,7 @@
+{
+  "name": "nextdns-mcp",
+  "description": "Enables AI assistants to manage NextDNS profiles, settings, logs, analytics, and security configurations through 70+ operations via the Model Context Protocol.",
+  "source_repo": "dmeiser/nextdns-mcp",
+  "source_url": "https://github.com/dmeiser/nextdns-mcp",
+  "install": "npx -y nextdns-mcp"
+}

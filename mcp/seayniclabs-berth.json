@@ -1,0 +1,7 @@
+{
+  "name": "seayniclabs-berth",
+  "description": "Database management MCP server for querying, inspecting schemas, running migrations, and backing up PostgreSQL, MySQL, and SQLite.",
+  "source_repo": "seayniclabs/berth",
+  "source_url": "https://github.com/seayniclabs/berth",
+  "install": "# git clone --depth 1 https://github.com/seayniclabs/berth\n# See source for mcpServers config block"
+}

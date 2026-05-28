@@ -1,0 +1,7 @@
+{
+  "name": "shannonlal-postman-collection-runner",
+  "description": "Executes Postman collections to run API tests, validate responses, and generate reports for automated testing and documentation workflows.",
+  "source_repo": "shannonlal/mcp-postman",
+  "source_url": "https://github.com/shannonlal/mcp-postman",
+  "install": "# git clone --depth 1 https://github.com/shannonlal/mcp-postman\n# See source for mcpServers config block"
+}

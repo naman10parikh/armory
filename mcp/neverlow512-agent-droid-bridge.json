@@ -1,0 +1,7 @@
+{
+  "name": "neverlow512-agent-droid-bridge",
+  "description": "Programmatic control of Android devices and emulators via ADB, exposing screen capture, touch input, app management, and UI inspection as structured tools.",
+  "source_repo": "neverlow512/agent-droid-bridge",
+  "source_url": "https://github.com/neverlow512/agent-droid-bridge",
+  "install": "# git clone --depth 1 https://github.com/neverlow512/agent-droid-bridge\n# See source for mcpServers config block"
+}

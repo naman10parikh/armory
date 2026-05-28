@@ -1,0 +1,7 @@
+{
+  "name": "bighippoman-intercept",
+  "description": "Fetches URLs as clean markdown with multi-tier fallback.",
+  "source_repo": "bighippoman/intercept-mcp",
+  "source_url": "https://github.com/bighippoman/intercept-mcp",
+  "install": "npx -y intercept-mcp"
+}

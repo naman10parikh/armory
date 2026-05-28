@@ -1,0 +1,7 @@
+{
+  "name": "polymarket-predictions-mcp",
+  "description": "Enables real-time access to Polymarket prediction market odds, allowing AI agents to retrieve events, markets, and search for predictions with formatted outputs.",
+  "source_repo": "kukapay/polymarket-predictions-mcp",
+  "source_url": "https://github.com/kukapay/polymarket-predictions-mcp",
+  "install": "npx -y polymarket-predictions-mcp"
+}

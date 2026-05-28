@@ -1,0 +1,7 @@
+{
+  "name": "tripo-mcp",
+  "description": "Tripo Mcp MCP server listed on mcp.so.",
+  "source_repo": "VAST-AI-Research/tripo-mcp",
+  "source_url": "https://mcp.so/server/tripo-mcp/VAST-AI-Research",
+  "install": "npx -y tripo-mcp"
+}

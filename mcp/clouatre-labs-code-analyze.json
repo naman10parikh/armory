@@ -1,0 +1,7 @@
+{
+  "name": "clouatre-labs-code-analyze",
+  "description": "Code structure analysis using tree-sitter with directory mapping and call graph tracing.",
+  "source_repo": "clouatre-labs/aptu-coder",
+  "source_url": "https://github.com/clouatre-labs/aptu-coder",
+  "install": "# git clone --depth 1 https://github.com/clouatre-labs/aptu-coder\n# See source for mcpServers config block"
+}

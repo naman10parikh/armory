@@ -1,0 +1,7 @@
+{
+  "name": "aci-labs-ms-fabric",
+  "description": "Integrates with Microsoft Fabric APIs to explore and document data assets including workspaces, lakehouses, warehouses, tables, and semantic models with Azure authentication and markdown formatting.",
+  "source_repo": "datumnova/ms-fabric-mcp",
+  "source_url": "https://github.com/datumnova/ms-fabric-mcp",
+  "install": "npx -y ms-fabric-mcp"
+}

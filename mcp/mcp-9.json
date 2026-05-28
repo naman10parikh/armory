@@ -1,0 +1,7 @@
+{
+  "name": "mcp-9",
+  "description": "Mcp MCP server listed on mcp.so.",
+  "source_repo": "6digit-studio/mcp",
+  "source_url": "https://mcp.so/server/mcp/6digit-studio",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp/6digit-studio\n# See source for mcpServers config block"
+}

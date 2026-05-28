@@ -1,0 +1,7 @@
+{
+  "name": "syncline",
+  "description": "Calendar scheduling infrastructure for AI agents",
+  "source_repo": "",
+  "source_url": "https://syncline.run",
+  "install": "# git clone --depth 1 https://syncline.run\n# See source for mcpServers config block"
+}

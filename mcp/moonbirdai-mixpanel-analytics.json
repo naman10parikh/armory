@@ -1,0 +1,7 @@
+{
+  "name": "moonbirdai-mixpanel-analytics",
+  "description": "Track analytics events in Mixpanel, supporting custom events, page views, user profiles, and signups.",
+  "source_repo": "moonbirdai/mixpanel-mcp-server",
+  "source_url": "https://github.com/moonbirdai/mixpanel-mcp-server",
+  "install": "npx -y mixpanel-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boska-vox",
+  "description": "Native macOS voice I/O for AI assistants using SFSpeechRecognizer and optional ElevenLabs TTS.",
+  "source_repo": "boska/vox",
+  "source_url": "https://github.com/boska/vox",
+  "install": "# git clone --depth 1 https://github.com/boska/vox\n# See source for mcpServers config block"
+}

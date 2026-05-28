@@ -1,0 +1,7 @@
+{
+  "name": "savethepolarbears-jules",
+  "description": "Integrates with Google Jules API for code generation and modification with autonomous scheduling capabilities, featuring cron-based recurring tasks for maintenance workflows like dependency updates and security audits that run automatically with repository allowlists and approval gates for production environments.",
+  "source_repo": "savethepolarbears/jules-mcp-server",
+  "source_url": "https://github.com/savethepolarbears/jules-mcp-server",
+  "install": "npx -y jules-mcp-server"
+}

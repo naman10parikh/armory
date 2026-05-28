@@ -1,0 +1,7 @@
+{
+  "name": "winterjung-korean-spell",
+  "description": "Integrates with Naver's spelling service to automatically correct grammatical errors, typos, and linguistic issues in Korean text.",
+  "source_repo": "winterjung/mcp-korean-spell",
+  "source_url": "https://github.com/winterjung/mcp-korean-spell",
+  "install": "# git clone --depth 1 https://github.com/winterjung/mcp-korean-spell\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-pollinations-multimodal",
+  "description": "Enables multimodal content generation through Pollinations APIs, providing image, text, and audio creation capabilities without requiring authentication.",
+  "source_repo": "pinkpixel-dev/mcpollinations",
+  "source_url": "https://github.com/pinkpixel-dev/mcpollinations",
+  "install": "# git clone --depth 1 https://github.com/pinkpixel-dev/mcpollinations\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shippost",
+  "description": "Twitter/X engagement tools for AI agents with free basic posting and premium AI-powered features.",
+  "source_repo": "ryankramer/shippost-mcp",
+  "source_url": "https://github.com/ryankramer/shippost-mcp",
+  "install": "npx -y shippost-mcp"
+}

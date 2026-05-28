@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-vnpay",
+  "description": "Integrates with VNPay, Vietnam's payment gateway, for payment URL generation, transaction queries, refunds, tokenized payments, and IPN verification.",
+  "source_repo": "theyahia/vnpay-mcp",
+  "source_url": "https://github.com/theyahia/vnpay-mcp",
+  "install": "npx -y vnpay-mcp"
+}

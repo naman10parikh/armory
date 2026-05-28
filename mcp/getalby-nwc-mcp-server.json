@@ -1,0 +1,7 @@
+{
+  "name": "getalby-nwc-mcp-server",
+  "description": "Bitcoin Lightning wallet integration powered by Nostr Wallet Connect",
+  "source_repo": "getalby/nwc-mcp-server",
+  "source_url": "https://github.com/getalby/nwc-mcp-server",
+  "install": "npx -y nwc-mcp-server"
+}

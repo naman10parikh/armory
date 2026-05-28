@@ -1,0 +1,7 @@
+{
+  "name": "ismailkerimov-math-logic",
+  "description": "Provides verified symbolic math and formal logic solvers including arithmetic evaluation, equation solving, calculus, and SAT/tautology checking with machine-checked proofs.",
+  "source_repo": "ismailkerimov/math-logic-mcp",
+  "source_url": "https://github.com/ismailkerimov/math-logic-mcp",
+  "install": "npx -y math-logic-mcp"
+}

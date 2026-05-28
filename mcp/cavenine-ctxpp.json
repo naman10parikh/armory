@@ -1,0 +1,7 @@
+{
+  "name": "cavenine-ctxpp",
+  "description": "Semantic code search and indexing using tree-sitter AST analysis across 13+ languages with call graph traversal and hybrid vector-keyword ranking.",
+  "source_repo": "cavenine/ctxpp",
+  "source_url": "https://github.com/cavenine/ctxpp",
+  "install": "# git clone --depth 1 https://github.com/cavenine/ctxpp\n# See source for mcpServers config block"
+}

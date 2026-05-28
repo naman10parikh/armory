@@ -1,0 +1,7 @@
+{
+  "name": "darktw-usecortex-mcp",
+  "description": "Persistent knowledge memory for AI agents. Two-way flow: read context into projects and write discoveries back. Structured by topic with AES-256 encryption.",
+  "source_repo": "darktw/usecortex-mcp",
+  "source_url": "https://github.com/darktw/usecortex-mcp",
+  "install": "npx -y usecortex-mcp"
+}

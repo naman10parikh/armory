@@ -1,0 +1,7 @@
+{
+  "name": "usensedata-chinese-company",
+  "description": "Integrates with Usense's Chinese company data services to provide comprehensive business information including corporate details, financial data, and business relationships for market research, due diligence, and competitive analysis in the Chinese market.",
+  "source_repo": "usensedata/usensedata-mcp-server-query-china-company",
+  "source_url": "https://github.com/usensedata/usensedata-mcp-server-query-china-company",
+  "install": "# git clone --depth 1 https://github.com/usensedata/usensedata-mcp-server-query-china-company\n# See source for mcpServers config block"
+}

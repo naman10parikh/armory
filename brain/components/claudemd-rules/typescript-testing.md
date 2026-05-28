@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [typescript-hooks, typescript-patterns]
-tags: [ecc, rules, typescript]
+tags: [rules, typescript]
 ---
 ## What it is
 typescript rule: apply when working on typescript and you need TypeScript/JavaScript Testing.

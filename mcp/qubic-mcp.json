@@ -1,0 +1,7 @@
+{
+  "name": "qubic-mcp",
+  "description": "Qubic blockchain tools for balances, prices, transfers, and wallets.",
+  "source_repo": "fyllepo/qubic-mcp",
+  "source_url": "https://github.com/fyllepo/qubic-mcp",
+  "install": "npx -y qubic-mcp"
+}

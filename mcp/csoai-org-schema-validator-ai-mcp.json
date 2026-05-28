@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-schema-validator-ai-mcp",
+  "description": "Python MCP server for schema validation and data integrity checks.",
+  "source_repo": "csoai-org/schema-validator-ai-mcp",
+  "source_url": "https://github.com/csoai-org/schema-validator-ai-mcp",
+  "install": "npx -y schema-validator-ai-mcp"
+}

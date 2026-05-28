@@ -1,0 +1,7 @@
+{
+  "name": "frigolog-haccp",
+  "description": "French HACCP food safety compliance server with 16 tools for live RappelConso recalls and Alim'confiance inspections.",
+  "source_repo": "naimterrache-a11y/frigolog-mcp",
+  "source_url": "https://github.com/naimterrache-a11y/frigolog-mcp",
+  "install": "npx -y frigolog-mcp"
+}

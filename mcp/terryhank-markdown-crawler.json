@@ -1,0 +1,7 @@
+{
+  "name": "terryhank-markdown-crawler",
+  "description": "Detects and recursively downloads markdown files from Docsify documentation sites.",
+  "source_repo": "terryhank/md_crawl_mcp",
+  "source_url": "https://github.com/terryhank/md_crawl_mcp",
+  "install": "npx -y md_crawl_mcp"
+}

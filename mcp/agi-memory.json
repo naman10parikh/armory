@@ -1,0 +1,7 @@
+{
+  "name": "agi-memory",
+  "description": "Provides persistent memory capabilities across conversations through PostgreSQL database integration with four memory types (episodic, semantic, procedural, strategic), vector similarity search, memory clustering, identity persistence, and graph-based relationships for maintaining context and building genuine understanding over time.",
+  "source_repo": "quixiai/agi-mcp-server",
+  "source_url": "https://github.com/quixiai/agi-mcp-server",
+  "install": "npx -y agi-mcp-server"
+}

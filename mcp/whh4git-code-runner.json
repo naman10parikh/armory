@@ -1,0 +1,7 @@
+{
+  "name": "whh4git-code-runner",
+  "description": "Executes Python and bash code in isolated Docker containers with configurable timeouts, environment variables, and pre-installed security tools for secure sandboxed code execution.",
+  "source_repo": "whh4git/mcp-code-runner",
+  "source_url": "https://github.com/whh4git/mcp-code-runner",
+  "install": "# git clone --depth 1 https://github.com/whh4git/mcp-code-runner\n# See source for mcpServers config block"
+}

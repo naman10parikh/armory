@@ -1,0 +1,7 @@
+{
+  "name": "musaddiq-dev-mysql",
+  "description": "Inspects and queries MySQL databases with schema discovery, read-only SELECT execution, write operation support, and table summarization.",
+  "source_repo": "musaddiq-dev/mysql-mcp-server",
+  "source_url": "https://github.com/musaddiq-dev/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

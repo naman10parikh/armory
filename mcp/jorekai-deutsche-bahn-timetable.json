@@ -1,0 +1,7 @@
+{
+  "name": "jorekai-deutsche-bahn-timetable",
+  "description": "Connects to Deutsche Bahn timetable API for retrieving real-time railway information, planned schedules, recent changes, and station searches across Germany's rail network.",
+  "source_repo": "jorekai/db-timetable-mcp",
+  "source_url": "https://github.com/jorekai/db-timetable-mcp",
+  "install": "npx -y db-timetable-mcp"
+}

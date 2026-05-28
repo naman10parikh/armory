@@ -1,0 +1,7 @@
+{
+  "name": "gentoro",
+  "description": "Connect agentic systems to enterprise systems with Gentoro.",
+  "source_repo": "gentoro-gt/mcp-nodejs-server",
+  "source_url": "https://github.com/gentoro-gt/mcp-nodejs-server",
+  "install": "# git clone --depth 1 https://github.com/gentoro-gt/mcp-nodejs-server\n# See source for mcpServers config block"
+}

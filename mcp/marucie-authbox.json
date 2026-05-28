@@ -1,0 +1,7 @@
+{
+  "name": "marucie-authbox",
+  "description": "Zero-knowledge password manager with MCP credential gateway. BIP-39 seed phrase recovery, deterministic passwords, policy-gated AI agent access (scope, rate limits, time windows, step-up approval), 70+ API key providers, and hash-chain audit trail. Go + Next.js + TypeScript.",
+  "source_repo": "MARUCIE/authbox",
+  "source_url": "https://github.com/MARUCIE/authbox",
+  "install": "# git clone --depth 1 https://github.com/MARUCIE/authbox\n# See source for mcpServers config block"
+}

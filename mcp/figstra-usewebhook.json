@@ -1,0 +1,7 @@
+{
+  "name": "figstra-usewebhook",
+  "description": "Generates unique webhook endpoints on usewebhook.com for capturing and inspecting HTTP requests without requiring account setup or configuration.",
+  "source_repo": "figstra/usewebhook-mcp",
+  "source_url": "https://github.com/figstra/usewebhook-mcp",
+  "install": "npx -y usewebhook-mcp"
+}

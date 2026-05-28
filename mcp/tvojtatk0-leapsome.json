@@ -1,0 +1,7 @@
+{
+  "name": "tvojtatk0-leapsome",
+  "description": "Unofficial Leapsome HR platform integration for reading performance reviews, goals, and meeting notes.",
+  "source_repo": "tvojtatk0/ghetto-leapsome-mcp",
+  "source_url": "https://github.com/tvojtatk0/ghetto-leapsome-mcp",
+  "install": "npx -y ghetto-leapsome-mcp"
+}

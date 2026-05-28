@@ -1,0 +1,7 @@
+{
+  "name": "refgrow",
+  "description": "Manages affiliate programs, referrals, conversions, and coupon codes through the Refgrow API for tracking and automating referral marketing workflows.",
+  "source_repo": "refgrow/refgrow-mcp",
+  "source_url": "https://github.com/refgrow/refgrow-mcp",
+  "install": "npx -y refgrow-mcp"
+}

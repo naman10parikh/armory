@@ -1,0 +1,7 @@
+{
+  "name": "topazlabs-topaz-mcp",
+  "description": "AI image enhancement (upscaling, denoising, sharpening) via Topaz Labs API. Supports 8 models including Standard V2, Wonder 2, Bloom, and Recover 3.",
+  "source_repo": "TopazLabs/topaz-mcp",
+  "source_url": "https://github.com/TopazLabs/topaz-mcp",
+  "install": "npx -y topaz-mcp"
+}

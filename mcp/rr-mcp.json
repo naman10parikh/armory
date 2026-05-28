@@ -1,0 +1,7 @@
+{
+  "name": "rr-mcp",
+  "description": "MCP server for orchestrating multi-process rr debugging sessions with reverse execution, breakpoints, and dynamic session state.",
+  "source_repo": "jnjaeschke/rr-mcp",
+  "source_url": "https://github.com/jnjaeschke/rr-mcp",
+  "install": "npx -y rr-mcp"
+}

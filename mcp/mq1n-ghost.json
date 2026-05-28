@@ -1,0 +1,7 @@
+{
+  "name": "mq1n-ghost",
+  "description": "Windows reverse engineering tool enabling conversational AI-driven memory inspection and binary analysis",
+  "source_repo": "mq1n/ghostmcp",
+  "source_url": "https://github.com/mq1n/ghostmcp",
+  "install": "# git clone --depth 1 https://github.com/mq1n/ghostmcp\n# See source for mcpServers config block"
+}

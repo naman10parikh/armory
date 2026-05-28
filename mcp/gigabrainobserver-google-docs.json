@@ -1,0 +1,7 @@
+{
+  "name": "gigabrainobserver-google-docs",
+  "description": "Full Google Docs integration with tab support, service account delegation, document CRUD, batch formatting, and Drive search.",
+  "source_repo": "gigabrainobserver/google-docs-mcp-server",
+  "source_url": "https://github.com/gigabrainobserver/google-docs-mcp-server",
+  "install": "npx -y google-docs-mcp-server"
+}

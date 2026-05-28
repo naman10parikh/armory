@@ -1,0 +1,7 @@
+{
+  "name": "claude-agents-power",
+  "description": "Provides over 150 pre-built professional agent personas across business, technology, and operations roles in multiple languages, enabling users to instantly access domain-specific expertise for tasks like code reviews, financial analysis, and project management without crafting detailed prompts.",
+  "source_repo": "hongsw/claude-agents-power-mcp-server",
+  "source_url": "https://github.com/hongsw/claude-agents-power-mcp-server",
+  "install": "npx -y claude-agents-power-mcp-server"
+}

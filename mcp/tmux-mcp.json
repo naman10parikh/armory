@@ -1,0 +1,7 @@
+{
+  "name": "tmux-mcp",
+  "description": "Tmux Mcp MCP server listed on mcp.so.",
+  "source_repo": "nickgnd/tmux-mcp",
+  "source_url": "https://mcp.so/server/tmux-mcp/nickgnd",
+  "install": "npx -y tmux-mcp"
+}

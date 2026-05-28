@@ -1,0 +1,7 @@
+{
+  "name": "paladini-devutils-mcp-server",
+  "description": "36 zero-auth developer utilities: MD5/SHA/bcrypt hashing, Base64/hex/URL encoding, UUID/password/passphrase generation, JWT decoding, JSON/YAML/XML formatting, timestamp conversion, CIDR calculator, and text tools.",
+  "source_repo": "paladini/devutils-mcp-server",
+  "source_url": "https://github.com/paladini/devutils-mcp-server",
+  "install": "npx -y devutils-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shopify-dev-mcp",
+  "description": "Model Context Protocol (MCP) server that interacts with Shopify Dev.",
+  "source_repo": "Shopify/dev-mcp",
+  "source_url": "https://github.com/Shopify/dev-mcp",
+  "install": "npx -y dev-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "karbassi-slack-web-api",
+  "description": "Comprehensive Slack Web API integration covering messaging, channels, files, canvases, lists, reminders, and undocumented endpoints.",
+  "source_repo": "karbassi/slack-mcp",
+  "source_url": "https://github.com/karbassi/slack-mcp",
+  "install": "npx -y slack-mcp"
+}

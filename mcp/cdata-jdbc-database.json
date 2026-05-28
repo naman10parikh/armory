@@ -1,0 +1,7 @@
+{
+  "name": "cdata-jdbc-database",
+  "description": "Connects to any JDBC-compliant database for table discovery, metadata retrieval, and SQL query execution with automatic dialect detection and CSV-formatted output.",
+  "source_repo": "cdatasoftware/bing-ads-mcp-server-by-cdata",
+  "source_url": "https://github.com/cdatasoftware/bing-ads-mcp-server-by-cdata",
+  "install": "# git clone --depth 1 https://github.com/cdatasoftware/bing-ads-mcp-server-by-cdata\n# See source for mcpServers config block"
+}

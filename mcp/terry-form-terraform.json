@@ -1,0 +1,7 @@
+{
+  "name": "terry-form-terraform",
+  "description": "Provides secure Terraform operations through Docker-containerized environments that isolate infrastructure planning and validation tasks, supporting init, validate, fmt, and plan operations with variable injection while restricting dangerous actions like apply or destroy for safe infrastructure code review and automated planning workflows.",
+  "source_repo": "aj-geddes/terry-form-mcp",
+  "source_url": "https://github.com/aj-geddes/terry-form-mcp",
+  "install": "npx -y terry-form-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github-mcp-server-5",
+  "description": "Github Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "goyle0/github-mcp-server",
+  "source_url": "https://mcp.so/server/github-mcp-server/goyle0",
+  "install": "npx -y github-mcp-server"
+}

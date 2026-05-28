@@ -1,0 +1,7 @@
+{
+  "name": "prover",
+  "description": "Lean 4 theorem prover that compiles proofs and formalizes mathematics with Mathlib integration.",
+  "source_repo": "axiomatic-ai/ax-prover-base-mcp",
+  "source_url": "https://github.com/axiomatic-ai/ax-prover-base-mcp",
+  "install": "npx -y ax-prover-base-mcp"
+}

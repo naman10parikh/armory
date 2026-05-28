@@ -1,0 +1,7 @@
+{
+  "name": "immybot-mcp",
+  "description": "An MCP server for ImmyBot IT automation platform, enabling management of computers, deployments, software, and maintenance sessions through ImmyBot's API.",
+  "source_repo": "wyre-technology/immybot-mcp",
+  "source_url": "https://github.com/wyre-technology/immybot-mcp",
+  "install": "npx -y immybot-mcp"
+}

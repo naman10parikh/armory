@@ -1,0 +1,7 @@
+{
+  "name": "veyrax-mcp",
+  "description": "Veyrax Mcp MCP server listed on mcp.so.",
+  "source_repo": "VeyraX/veyrax-mcp",
+  "source_url": "https://mcp.so/server/veyrax-mcp/VeyraX",
+  "install": "npx -y veyrax-mcp"
+}

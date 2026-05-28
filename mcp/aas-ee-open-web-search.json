@@ -1,0 +1,7 @@
+{
+  "name": "aas-ee-open-web-search",
+  "description": "Provides web search capabilities across multiple search engines including Bing, Baidu, Brave, DuckDuckGo, and Exa, plus specialized content extraction from Chinese platforms like CSDN, Zhihu, and LinuxDo for research workflows and technical content retrieval.",
+  "source_repo": "aas-ee/open-websearch",
+  "source_url": "https://github.com/aas-ee/open-websearch",
+  "install": "# git clone --depth 1 https://github.com/aas-ee/open-websearch\n# See source for mcpServers config block"
+}

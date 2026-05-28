@@ -1,0 +1,7 @@
+{
+  "name": "pschina-deepseek-as-subagent",
+  "description": "Run DeepSeek as a real sub-agent inside Claude Code / Codex CLI. DeepSeek gets its own 7-tool agent loop (Read/Write/Edit/Bash/Glob/Grep/NotebookEdit) in a sandboxed workspace, not just a single LLM call. Includes token-based command sandbox, pre-flight web-search pattern, and cross-platform installer.",
+  "source_repo": "PsChina/deepseek-as-subagent",
+  "source_url": "https://github.com/PsChina/deepseek-as-subagent",
+  "install": "# git clone --depth 1 https://github.com/PsChina/deepseek-as-subagent\n# See source for mcpServers config block"
+}

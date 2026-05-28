@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare",
+  "description": "Integrates with the entire Cloudflare API, covering 2,500+ endpoints across DNS, Workers, R2, Zero Trust, and all other Cloudflare products.",
+  "source_repo": "cloudflare/mcp",
+  "source_url": "https://github.com/cloudflare/mcp",
+  "install": "# git clone --depth 1 https://github.com/cloudflare/mcp\n# See source for mcpServers config block"
+}

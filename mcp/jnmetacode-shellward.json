@@ -1,0 +1,7 @@
+{
+  "name": "jnmetacode-shellward",
+  "description": "AI Agent Security Middleware & MCP Server with 8-layer defense including prompt injection detection, DLP data flow tracking, command blocking, and PII detection. 7 MCP tools, zero dependencies.",
+  "source_repo": "jnMetaCode/shellward",
+  "source_url": "https://github.com/jnMetaCode/shellward",
+  "install": "# git clone --depth 1 https://github.com/jnMetaCode/shellward\n# See source for mcpServers config block"
+}

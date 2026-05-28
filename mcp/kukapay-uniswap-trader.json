@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-uniswap-trader",
+  "description": "Enables AI-driven cryptocurrency trading on Uniswap across multiple blockchains, providing tools for price quotes, optimal routing, and transaction management for automated trading strategies.",
+  "source_repo": "kukapay/uniswap-trader-mcp",
+  "source_url": "https://github.com/kukapay/uniswap-trader-mcp",
+  "install": "npx -y uniswap-trader-mcp"
+}

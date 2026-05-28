@@ -1,0 +1,7 @@
+{
+  "name": "marianstefi20-decision-os",
+  "description": "Decision tracking and learning system that captures novel pressure events and compresses them into reusable foundations with hierarchical storage and intelligent forgetting.",
+  "source_repo": "marianstefi20/decision-os-mcp",
+  "source_url": "https://github.com/marianstefi20/decision-os-mcp",
+  "install": "npx -y decision-os-mcp"
+}

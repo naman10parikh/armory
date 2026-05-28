@@ -1,0 +1,7 @@
+{
+  "name": "caiovicentino-hyperliquid",
+  "description": "Hyperliquid DEX integration with 27 tools for perpetual futures trading, account management, and real-time market data",
+  "source_repo": "caiovicentino/hyperliquid-mcp-server",
+  "source_url": "https://github.com/caiovicentino/hyperliquid-mcp-server",
+  "install": "npx -y hyperliquid-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yang1bai-claw-tsaver",
+  "description": "__ 🐍 🏠 🍎 🪟 🐧 - Token-saving MCP proxy that intercepts oversized tool returns and replaces them with a preview + on-demand handle. Real benchmark: 11,507 tokens → 104 tokens (99.1% saved) on a Wikipedia fetch. Works with OpenClaw + Claude.",
+  "source_repo": "Yang1Bai/claw-tsaver",
+  "source_url": "https://github.com/Yang1Bai/claw-tsaver",
+  "install": "# git clone --depth 1 https://github.com/Yang1Bai/claw-tsaver\n# See source for mcpServers config block"
+}

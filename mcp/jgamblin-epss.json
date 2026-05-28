@@ -1,0 +1,7 @@
+{
+  "name": "jgamblin-epss",
+  "description": "Integrates with vulnerability intelligence systems to provide CVE information with EPSS scores that indicate exploitation likelihood, enabling security professionals to prioritize remediation efforts based on real-world risk.",
+  "source_repo": "jgamblin/epss-mcp",
+  "source_url": "https://github.com/jgamblin/epss-mcp",
+  "install": "npx -y epss-mcp"
+}

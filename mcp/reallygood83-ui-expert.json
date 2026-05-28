@@ -1,0 +1,7 @@
+{
+  "name": "reallygood83-ui-expert",
+  "description": "Provides professional UI/UX design assistance through interface analysis, design system generation with multiple style variants, component improvement with accessibility optimizations, and React/Vue.js component creation with modern best practices.",
+  "source_repo": "reallygood83/ui-expert-mcp",
+  "source_url": "https://github.com/reallygood83/ui-expert-mcp",
+  "install": "npx -y ui-expert-mcp"
+}

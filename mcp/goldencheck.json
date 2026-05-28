@@ -1,0 +1,7 @@
+{
+  "name": "goldencheck",
+  "description": "Check CSV files for data quality issues � finds bad emails, phone format problems, missing values, type mismatches, outliers, and encoding errors. Zero config: just point it at a file. 19 tools: scan for issues, get health score (A-F grade), profile columns, auto-fix problems, detect drift from base",
+  "source_repo": "benzsevern/goldencheck",
+  "source_url": "https://github.com/benzsevern/goldencheck",
+  "install": "# git clone --depth 1 https://github.com/benzsevern/goldencheck\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dsphper-lanhu",
+  "description": "Extracts design specifications and requirements from Lanhu design collaboration platform",
+  "source_repo": "dsphper/lanhu-mcp",
+  "source_url": "https://github.com/dsphper/lanhu-mcp",
+  "install": "npx -y lanhu-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tanevanwifferen-usescraper",
+  "description": "Integrates with UseScraper API to extract web content in various formats with advanced proxy options and custom data extraction capabilities.",
+  "source_repo": "tanevanwifferen/usescraper-mcp-server",
+  "source_url": "https://github.com/tanevanwifferen/usescraper-mcp-server",
+  "install": "npx -y usescraper-mcp-server"
+}

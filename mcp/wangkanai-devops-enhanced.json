@@ -1,0 +1,7 @@
+{
+  "name": "wangkanai-devops-enhanced",
+  "description": "Integrates with Azure DevOps to provide work item management, repository access, build pipeline operations, and pull request handling with automatic project context switching based on working directory and per-repository authentication configuration.",
+  "source_repo": "wangkanai/devops-mcp",
+  "source_url": "https://github.com/wangkanai/devops-mcp",
+  "install": "npx -y devops-mcp"
+}

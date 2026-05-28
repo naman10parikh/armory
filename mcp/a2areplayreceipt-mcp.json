@@ -1,0 +1,7 @@
+{
+  "name": "a2areplayreceipt-mcp",
+  "description": "Structured A2A failure replay receipts with audit logs and reviewer-ready evidence for agent compliance workflows.",
+  "source_repo": "clauxel/a2a-replay-receipt-mcp",
+  "source_url": "https://github.com/clauxel/a2a-replay-receipt-mcp",
+  "install": "npx -y a2a-replay-receipt-mcp"
+}

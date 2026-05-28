@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-boxberry",
+  "description": "Integrates with Boxberry for delivery cost calculation, pickup points, and tracking.",
+  "source_repo": "theyahia/boxberry-mcp",
+  "source_url": "https://github.com/theyahia/boxberry-mcp",
+  "install": "npx -y boxberry-mcp"
+}

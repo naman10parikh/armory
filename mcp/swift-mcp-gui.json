@@ -1,0 +1,7 @@
+{
+  "name": "swift-mcp-gui",
+  "description": "Swift Mcp Gui MCP server listed on mcp.so.",
+  "source_repo": "NakaokaRei/swift-mcp-gui",
+  "source_url": "https://mcp.so/server/swift-mcp-gui/NakaokaRei",
+  "install": "# git clone --depth 1 https://mcp.so/server/swift-mcp-gui/NakaokaRei\n# See source for mcpServers config block"
+}

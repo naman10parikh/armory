@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-notification-chimes",
+  "description": "Provides audio notification system that plays platform-specific chimes when tasks complete, supporting five built-in sounds and custom audio files for non-intrusive progress alerts.",
+  "source_repo": "pinkpixel-dev/notification-mcp",
+  "source_url": "https://github.com/pinkpixel-dev/notification-mcp",
+  "install": "npx -y notification-mcp"
+}

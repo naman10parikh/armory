@@ -1,0 +1,7 @@
+{
+  "name": "samvallad33-vestige",
+  "description": "Biologically-inspired memory system that implements spaced repetition, dual-strength modeling, and forgetting curves to provide local-first memory storage with semantic search, automatic connection discovery, and git-aware context capture for persistent memory that naturally decays and strengthens like human cognition.",
+  "source_repo": "samvallad33/vestige",
+  "source_url": "https://github.com/samvallad33/vestige",
+  "install": "# git clone --depth 1 https://github.com/samvallad33/vestige\n# See source for mcpServers config block"
+}

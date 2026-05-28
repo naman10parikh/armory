@@ -1,0 +1,7 @@
+{
+  "name": "whyy9527-ariadne",
+  "description": "Cross-service API dependency graph for microservice codebases. Give it a business term or endpoint name; get back a ranked chain of GraphQL operations, REST endpoints, Kafka topics, and frontend queries across all services. Offline, local SQLite + TF-IDF + optional embeddings.",
+  "source_repo": "whyy9527/ariadne",
+  "source_url": "https://github.com/whyy9527/ariadne",
+  "install": "# git clone --depth 1 https://github.com/whyy9527/ariadne\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "storylenses",
+  "description": "AI cover letter generation with job analysis, profile matching, and narrative writing.",
+  "source_repo": "benediktgirz/storylenses-mcp-server",
+  "source_url": "https://github.com/benediktgirz/storylenses-mcp-server",
+  "install": "npx -y storylenses-mcp-server"
+}

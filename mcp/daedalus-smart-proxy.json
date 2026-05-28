@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-smart-proxy",
+  "description": "Token-efficient MCP gateway that uses semantic vector search to route tool calls across multiple upstream servers, reducing prompt token consumption.",
+  "source_repo": "daedalus/mcp-smart-proxy",
+  "source_url": "https://github.com/daedalus/mcp-smart-proxy",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-smart-proxy\n# See source for mcpServers config block"
+}

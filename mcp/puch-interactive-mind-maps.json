@@ -1,0 +1,7 @@
+{
+  "name": "puch-interactive-mind-maps",
+  "description": "Generates interactive mind maps through conversational refinement using Google Gemini and DSPy, asking clarifying questions to gather context before creating hierarchical visual representations with Graphviz rendering and persistent conversation state management.",
+  "source_repo": "youaregoingto/puch-mindmap-mcp",
+  "source_url": "https://github.com/youaregoingto/puch-mindmap-mcp",
+  "install": "npx -y puch-mindmap-mcp"
+}

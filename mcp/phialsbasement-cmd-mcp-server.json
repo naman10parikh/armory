@@ -1,0 +1,7 @@
+{
+  "name": "phialsbasement-cmd-mcp-server",
+  "description": "Cross-platform MCP server for executing command-line operations and SSH connections on Windows and Linux systems through a standardized interface.",
+  "source_repo": "phialsbasement/cmd-mcp-server",
+  "source_url": "https://github.com/phialsbasement/cmd-mcp-server",
+  "install": "npx -y cmd-mcp-server"
+}

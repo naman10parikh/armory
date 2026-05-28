@@ -1,0 +1,7 @@
+{
+  "name": "raintear94-inframcp",
+  "description": "Provides isolated AI agent access to MySQL, Redis, and Linux environments with project-based credential isolation and SSH safety controls.",
+  "source_repo": "raintear94/inframcp",
+  "source_url": "https://github.com/raintear94/inframcp",
+  "install": "# git clone --depth 1 https://github.com/raintear94/inframcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "krishnapramodparupudi-kaggle",
+  "description": "Integrates with Kaggle's API to provide access to competition lists, leaderboards, dataset searches, model browsing, and configuration options for data science workflows.",
+  "source_repo": "krishnapramodparupudi/kaggle-mcp-server",
+  "source_url": "https://github.com/krishnapramodparupudi/kaggle-mcp-server",
+  "install": "npx -y kaggle-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "billnobill-trello",
+  "description": "Manage Trello boards, lists, and cards through 20+ MCP tools.",
+  "source_repo": "billnobill/trello-mcp-server",
+  "source_url": "https://github.com/billnobill/trello-mcp-server",
+  "install": "npx -y trello-mcp-server"
+}

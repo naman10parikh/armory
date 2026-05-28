@@ -1,0 +1,7 @@
+{
+  "name": "linkingooo-renderdoc",
+  "description": "GPU frame capture analysis using RenderDoc's Python API for graphics debugging, performance profiling, and rendering issue diagnosis.",
+  "source_repo": "linkingooo/renderdoc-mcp",
+  "source_url": "https://github.com/linkingooo/renderdoc-mcp",
+  "install": "npx -y renderdoc-mcp"
+}

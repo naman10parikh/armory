@@ -1,0 +1,7 @@
+{
+  "name": "flrngel-painter",
+  "description": "Provides a drawing interface for creating and manipulating canvas elements with basic shape rendering and PNG export capabilities",
+  "source_repo": "flrngel/mcp-painter",
+  "source_url": "https://github.com/flrngel/mcp-painter",
+  "install": "# git clone --depth 1 https://github.com/flrngel/mcp-painter\n# See source for mcpServers config block"
+}

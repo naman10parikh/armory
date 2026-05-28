@@ -1,0 +1,7 @@
+{
+  "name": "io-aerospace",
+  "description": "Orbital mechanics tools: Orbital parameters converters, ephemeris, constraints finder, and more",
+  "source_repo": "",
+  "source_url": "https://www.io-aerospace.org/ai",
+  "install": "# git clone --depth 1 https://www.io-aerospace.org/ai\n# See source for mcpServers config block"
+}

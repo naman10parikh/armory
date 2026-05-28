@@ -1,0 +1,7 @@
+{
+  "name": "dpineer-pads-logic-schematic-editor",
+  "description": "Parses, modifies, and saves PADS Logic V3.0 schematic files with component management, position adjustment, and network connection editing.",
+  "source_repo": "dpineer/asc_mcp_server",
+  "source_url": "https://github.com/dpineer/asc_mcp_server",
+  "install": "npx -y asc_mcp_server"
+}

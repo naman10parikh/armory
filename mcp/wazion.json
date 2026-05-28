@@ -1,0 +1,7 @@
+{
+  "name": "wazion",
+  "description": "Connects AI assistants to the Wazion WhatsApp Business platform for messaging, automation, marketing, and CRM operations.",
+  "source_repo": "wazionapps/mcp-server",
+  "source_url": "https://github.com/wazionapps/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/wazionapps/mcp-server\n# See source for mcpServers config block"
+}

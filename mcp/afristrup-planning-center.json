@@ -1,0 +1,7 @@
+{
+  "name": "afristrup-planning-center",
+  "description": "Integrates with Planning Center Online's API to provide read-only access to church management data including people, services, check-ins, giving, groups, calendar, and registrations with OAuth authentication, rate limiting, and webhook support for automating church workflows and building custom integrations.",
+  "source_repo": "afristrup/planningcenter-python",
+  "source_url": "https://github.com/afristrup/planningcenter-python",
+  "install": "# git clone --depth 1 https://github.com/afristrup/planningcenter-python\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "whoami-mcp",
+  "description": "Whoami Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/whoami-mcp",
+  "source_url": "https://mcp.so/server/whoami-mcp/kukapay",
+  "install": "npx -y whoami-mcp"
+}

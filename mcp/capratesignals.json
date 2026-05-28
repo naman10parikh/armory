@@ -1,0 +1,7 @@
+{
+  "name": "capratesignals",
+  "description": "MCP server that identifies US real estate markets before repricing by tracking corporate investment patterns across 40+ metros.",
+  "source_repo": "",
+  "source_url": "https://cap-rate-signals-mcp-production.up.railway.app/mcp",
+  "install": "# git clone --depth 1 https://cap-rate-signals-mcp-production.up.railway.app/mcp\n# See source for mcpServers config block"
+}

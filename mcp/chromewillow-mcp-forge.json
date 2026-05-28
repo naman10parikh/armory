@@ -1,0 +1,7 @@
+{
+  "name": "chromewillow-mcp-forge",
+  "description": "Generates powerful server templates with multiple configuration options for quickly bootstrapping and deploying standardized server implementations with utility functions and best practices.",
+  "source_repo": "chromewillow/mcp-forge",
+  "source_url": "https://github.com/chromewillow/mcp-forge",
+  "install": "# git clone --depth 1 https://github.com/chromewillow/mcp-forge\n# See source for mcpServers config block"
+}

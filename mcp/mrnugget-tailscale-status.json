@@ -1,0 +1,7 @@
+{
+  "name": "mrnugget-tailscale-status",
+  "description": "Enables querying Tailscale status by parsing CLI output on macOS, providing structured data about connected devices and network information.",
+  "source_repo": "mrnugget/tailscale-mcp",
+  "source_url": "https://github.com/mrnugget/tailscale-mcp",
+  "install": "npx -y tailscale-mcp"
+}

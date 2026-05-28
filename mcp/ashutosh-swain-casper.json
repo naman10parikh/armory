@@ -1,0 +1,7 @@
+{
+  "name": "ashutosh-swain-casper",
+  "description": "Query and manage Terraform infrastructure with tools for resource discovery, change simulation, AWS drift detection, and YAML-based policy enforcement.",
+  "source_repo": "ashutosh-swain-git/casper-mcp",
+  "source_url": "https://github.com/ashutosh-swain-git/casper-mcp",
+  "install": "npx -y casper-mcp"
+}

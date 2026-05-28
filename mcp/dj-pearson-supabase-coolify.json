@@ -1,0 +1,7 @@
+{
+  "name": "dj-pearson-supabase-coolify",
+  "description": "Manages self-hosted Supabase instances running on Coolify infrastructure",
+  "source_repo": "dj-pearson/supabase-coolify-mcp-server",
+  "source_url": "https://github.com/dj-pearson/supabase-coolify-mcp-server",
+  "install": "npx -y supabase-coolify-mcp-server"
+}

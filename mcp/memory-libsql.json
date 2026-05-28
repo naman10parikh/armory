@@ -1,0 +1,7 @@
+{
+  "name": "memory-libsql",
+  "description": "High-performance persistent memory system for Model Context Protocol (MCP) powered by libSQL",
+  "source_repo": "joleyline/mcp-memory-libsql",
+  "source_url": "https://github.com/joleyline/mcp-memory-libsql",
+  "install": "# git clone --depth 1 https://github.com/joleyline/mcp-memory-libsql\n# See source for mcpServers config block"
+}

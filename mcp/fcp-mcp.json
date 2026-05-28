@@ -1,0 +1,7 @@
+{
+  "name": "fcp-mcp",
+  "description": "The most capable MCP server for Final Cut Pro — 88 tools covering FCPXML editing, live FCP control, parametric puppets, and media analysis.",
+  "source_repo": "dreliq9/fcp-mcp",
+  "source_url": "https://github.com/dreliq9/fcp-mcp",
+  "install": "npx -y fcp-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "simmer",
+  "description": "Trade prediction markets with AI agents — skill discovery, automated research, and order execution on Simmer.markets.",
+  "source_repo": "spartanlabsxyz/simmer-sdk",
+  "source_url": "https://github.com/spartanlabsxyz/simmer-sdk",
+  "install": "# git clone --depth 1 https://github.com/spartanlabsxyz/simmer-sdk\n# See source for mcpServers config block"
+}

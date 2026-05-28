@@ -1,0 +1,7 @@
+{
+  "name": "bountylens",
+  "description": "Connect Claude Code to the BountyLens bug bounty attack surface intelligence platform to log findings, leads, and reports directly from your AI assistant.",
+  "source_repo": "bountylens/mcp",
+  "source_url": "https://github.com/bountylens/mcp",
+  "install": "# git clone --depth 1 https://github.com/bountylens/mcp\n# See source for mcpServers config block"
+}

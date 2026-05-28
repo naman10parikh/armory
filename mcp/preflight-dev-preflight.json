@@ -1,0 +1,7 @@
+{
+  "name": "preflight-dev-preflight",
+  "description": "24-tool MCP server for Claude Code that catches vague prompts before they waste tokens. Includes 12-category prompt scorecards, session history search with LanceDB vectors, cross-service contract awareness, correction pattern learning, and cost estimation.",
+  "source_repo": "preflight-dev/preflight",
+  "source_url": "https://github.com/preflight-dev/preflight",
+  "install": "# git clone --depth 1 https://github.com/preflight-dev/preflight\n# See source for mcpServers config block"
+}

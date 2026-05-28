@@ -1,0 +1,7 @@
+{
+  "name": "beautyfree-appstore-connect",
+  "description": "Integrates with Apple's App Store Connect API for managing iOS/macOS apps, TestFlight beta testing, reviews, subscriptions, and distribution workflows.",
+  "source_repo": "beautyfree/appstore-connect-mcp",
+  "source_url": "https://github.com/beautyfree/appstore-connect-mcp",
+  "install": "npx -y appstore-connect-mcp"
+}

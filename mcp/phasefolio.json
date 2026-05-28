@@ -1,0 +1,7 @@
+{
+  "name": "phasefolio",
+  "description": "Drug economics platform for biotech rNPV, probability-of-success benchmarking, and pharmaceutical pipeline modeling.",
+  "source_repo": "",
+  "source_url": "https://app.phasefolio.com",
+  "install": "# git clone --depth 1 https://app.phasefolio.com\n# See source for mcpServers config block"
+}

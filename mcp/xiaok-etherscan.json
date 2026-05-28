@@ -1,0 +1,7 @@
+{
+  "name": "xiaok-etherscan",
+  "description": "Provides a bridge to the Etherscan API for querying Ethereum blockchain data including account balances, transactions, contracts, tokens, gas metrics, and network statistics.",
+  "source_repo": "xiaok/etherscan-mcp",
+  "source_url": "https://github.com/xiaok/etherscan-mcp",
+  "install": "npx -y etherscan-mcp"
+}

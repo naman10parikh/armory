@@ -1,0 +1,7 @@
+{
+  "name": "unified-to",
+  "description": "Connect to 300+ SaaS sources",
+  "source_repo": "",
+  "source_url": "https://unified.to/mcp",
+  "install": "# git clone --depth 1 https://unified.to/mcp\n# See source for mcpServers config block"
+}

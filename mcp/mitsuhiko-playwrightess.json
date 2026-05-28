@@ -1,0 +1,7 @@
+{
+  "name": "mitsuhiko-playwrightess",
+  "description": "Provides a persistent Playwright evaluation environment through a single JavaScript execution tool that maintains browser, context, and page state between code evaluations for complex multi-step web automation workflows.",
+  "source_repo": "mitsuhiko/playwrightess-mcp",
+  "source_url": "https://github.com/mitsuhiko/playwrightess-mcp",
+  "install": "npx -y playwrightess-mcp"
+}

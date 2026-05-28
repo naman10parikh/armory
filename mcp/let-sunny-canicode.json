@@ -1,0 +1,7 @@
+{
+  "name": "let-sunny-canicode",
+  "description": "Analyze Figma designs for development and AI readiness with 39 rules, scoring, and HTML reports.",
+  "source_repo": "let-sunny/canicode",
+  "source_url": "https://github.com/let-sunny/canicode",
+  "install": "# git clone --depth 1 https://github.com/let-sunny/canicode\n# See source for mcpServers config block"
+}

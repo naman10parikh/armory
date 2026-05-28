@@ -1,0 +1,7 @@
+{
+  "name": "gh-igorganapolsky-memory-gateway",
+  "description": "Local-first context engineering layer for AI agents with feedback capture and failure pattern blocking.",
+  "source_repo": "IgorGanapolsky/rlhf-feedback-loop",
+  "source_url": "https://github.com/IgorGanapolsky/rlhf-feedback-loop",
+  "install": "# git clone --depth 1 https://github.com/IgorGanapolsky/rlhf-feedback-loop\n# See source for mcpServers config block"
+}

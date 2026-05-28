@@ -1,0 +1,7 @@
+{
+  "name": "privacyplaybook-sops",
+  "description": "Create and manage SOPS-encrypted secret files using age encryption from Claude.",
+  "source_repo": "privacyplaybook/sops-mcp",
+  "source_url": "https://github.com/privacyplaybook/sops-mcp",
+  "install": "npx -y sops-mcp"
+}

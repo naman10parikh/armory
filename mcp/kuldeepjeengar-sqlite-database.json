@@ -1,0 +1,7 @@
+{
+  "name": "kuldeepjeengar-sqlite-database",
+  "description": "FastMCP server providing 9 tools for SQLite database operations including queries, CRUD, and schema inspection.",
+  "source_repo": "kuldeepjeengar/database_mcp",
+  "source_url": "https://github.com/kuldeepjeengar/database_mcp",
+  "install": "npx -y database_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shiori-mcp",
+  "description": "Enables interaction with Shiori, a self-hosted bookmark and read-it-later manager, for managing bookmarks and tags.",
+  "source_repo": "rusty4444/shiori-mcp",
+  "source_url": "https://github.com/rusty4444/shiori-mcp",
+  "install": "npx -y shiori-mcp"
+}

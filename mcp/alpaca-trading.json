@@ -1,0 +1,7 @@
+{
+  "name": "alpaca-trading",
+  "description": "Trading platform MCP server enabling stock, ETF, crypto, and options trading via Alpaca's API. Supports market data, portfolio management, and order execution.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/integration/alpaca-trading.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/integration/alpaca-trading.json\n# See source for mcpServers config block"
+}

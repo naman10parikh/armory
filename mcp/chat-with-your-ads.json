@@ -1,0 +1,7 @@
+{
+  "name": "chat-with-your-ads",
+  "description": "Conversational access to advertising performance data, creative analysis, and campaign insights",
+  "source_repo": "",
+  "source_url": "https://mcp.valid.co/api/mcp/",
+  "install": "# git clone --depth 1 https://mcp.valid.co/api/mcp/\n# See source for mcpServers config block"
+}

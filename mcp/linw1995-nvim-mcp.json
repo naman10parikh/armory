@@ -1,0 +1,7 @@
+{
+  "name": "linw1995-nvim-mcp",
+  "description": "A MCP server to interact with Neovim",
+  "source_repo": "linw1995/nvim-mcp",
+  "source_url": "https://github.com/linw1995/nvim-mcp",
+  "install": "npx -y nvim-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "php-hostinger-mcp-server",
+  "description": "Php Hostinger Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Lucasdoreac/php-hostinger-mcp-server",
+  "source_url": "https://mcp.so/server/php-hostinger-mcp-server/Lucasdoreac",
+  "install": "npx -y php-hostinger-mcp-server"
+}

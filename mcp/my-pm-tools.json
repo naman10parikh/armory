@@ -1,0 +1,7 @@
+{
+  "name": "my-pm-tools",
+  "description": "Enables natural language management of GitHub Projects V2, including issue creation, status changes, sprint reports, and project setup via MCP tools and shell scripts.",
+  "source_repo": "fideguch/my_pm_tools",
+  "source_url": "https://github.com/fideguch/my_pm_tools",
+  "install": "# git clone --depth 1 https://github.com/fideguch/my_pm_tools\n# See source for mcpServers config block"
+}

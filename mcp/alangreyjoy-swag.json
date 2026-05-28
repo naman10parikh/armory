@@ -1,0 +1,7 @@
+{
+  "name": "alangreyjoy-swag",
+  "description": "Simplifies API access by transforming complex OpenAPI/Swagger specifications into just four strategic tools for endpoint discovery, information retrieval, search, and authenticated request execution",
+  "source_repo": "alangreyjoy/swag-mcp",
+  "source_url": "https://github.com/alangreyjoy/swag-mcp",
+  "install": "npx -y swag-mcp"
+}

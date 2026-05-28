@@ -1,0 +1,7 @@
+{
+  "name": "domdomegg-google-drive",
+  "description": "Integrates with Google Drive API to manage files, folders, comments, and permissions with support for uploads, downloads, exports, and collaborative workflows.",
+  "source_repo": "domdomegg/google-drive-mcp",
+  "source_url": "https://github.com/domdomegg/google-drive-mcp",
+  "install": "npx -y google-drive-mcp"
+}

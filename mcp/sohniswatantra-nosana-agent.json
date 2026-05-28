@@ -1,0 +1,7 @@
+{
+  "name": "sohniswatantra-nosana-agent",
+  "description": "AI agent combining ElizaOS, MCP tools, and Qwen3.5 on Nosana decentralized GPU infrastructure.",
+  "source_repo": "sohniswatantra/nosana-mcp-agent",
+  "source_url": "https://github.com/sohniswatantra/nosana-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/sohniswatantra/nosana-mcp-agent\n# See source for mcpServers config block"
+}

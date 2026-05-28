@@ -1,0 +1,7 @@
+{
+  "name": "my-mcp-servers",
+  "description": "My Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "yuki-koma2/my-mcp-servers",
+  "source_url": "https://mcp.so/server/my-mcp-servers/yuki-koma2",
+  "install": "# git clone --depth 1 https://mcp.so/server/my-mcp-servers/yuki-koma2\n# See source for mcpServers config block"
+}

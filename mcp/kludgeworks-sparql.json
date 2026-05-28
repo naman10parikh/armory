@@ -1,0 +1,7 @@
+{
+  "name": "kludgeworks-sparql",
+  "description": "Integrates with SPARQL servers to enable querying and manipulation of RDF data sources, facilitating semantic web integration for knowledge graph exploration and linked data analysis.",
+  "source_repo": "kludgeworks/mcp-server-rdf",
+  "source_url": "https://github.com/kludgeworks/mcp-server-rdf",
+  "install": "# git clone --depth 1 https://github.com/kludgeworks/mcp-server-rdf\n# See source for mcpServers config block"
+}

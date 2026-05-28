@@ -1,0 +1,7 @@
+{
+  "name": "comzee-youtube-ultimate-toolkit",
+  "description": "Extracts YouTube video transcripts with timestamps, metadata, comments, screenshots, and audio clips using yt-dlp integration with advanced filtering for time ranges, keyword search, and key segment extraction.",
+  "source_repo": "comzee/youtube-ultimate-toolkit-mcp",
+  "source_url": "https://github.com/comzee/youtube-ultimate-toolkit-mcp",
+  "install": "npx -y youtube-ultimate-toolkit-mcp"
+}

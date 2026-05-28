@@ -1,0 +1,7 @@
+{
+  "name": "djannot-puppeteer-vision",
+  "description": "Automates web scraping by intelligently handling cookie banners, CAPTCHAs, and paywalls to extract clean markdown content from websites",
+  "source_repo": "djannot/puppeteer-vision-mcp",
+  "source_url": "https://github.com/djannot/puppeteer-vision-mcp",
+  "install": "npx -y puppeteer-vision-mcp"
+}

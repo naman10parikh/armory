@@ -1,0 +1,7 @@
+{
+  "name": "sensei-mcp",
+  "description": "Sensei Mcp MCP server listed on mcp.so.",
+  "source_repo": "dojoengine/sensei-mcp",
+  "source_url": "https://mcp.so/server/sensei-mcp/dojoengine",
+  "install": "npx -y sensei-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ckg-mcp",
+  "description": "A Compact Knowledge Graph MCP server providing pre-structured domain knowledge as a routing layer for agent stacks, enabling efficient structural queries (e.g., prerequisites, dependency chains) without hallucinations.",
+  "source_repo": "Yarmoluk/ckg-mcp",
+  "source_url": "https://github.com/Yarmoluk/ckg-mcp",
+  "install": "npx -y ckg-mcp"
+}

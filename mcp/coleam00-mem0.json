@@ -1,0 +1,7 @@
+{
+  "name": "coleam00-mem0",
+  "description": "Provides persistent long-term memory capabilities through semantic indexing, retrieval, and search functions with support for multiple LLM providers and PostgreSQL vector storage.",
+  "source_repo": "coleam00/mcp-mem0",
+  "source_url": "https://github.com/coleam00/mcp-mem0",
+  "install": "# git clone --depth 1 https://github.com/coleam00/mcp-mem0\n# See source for mcpServers config block"
+}

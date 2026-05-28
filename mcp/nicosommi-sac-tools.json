@@ -1,0 +1,7 @@
+{
+  "name": "nicosommi-sac-tools",
+  "description": "Manages SAP Analytics Cloud resources including stories, data imports, users, and audit logs.",
+  "source_repo": "nicosommi/sac-tools-mcp",
+  "source_url": "https://github.com/nicosommi/sac-tools-mcp",
+  "install": "npx -y sac-tools-mcp"
+}

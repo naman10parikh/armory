@@ -1,0 +1,7 @@
+{
+  "name": "xinkuang-china-stock",
+  "description": "Integrates with Chinese stock markets through akshare library to provide real-time quotes, historical prices, financial statements, and market indicators for financial analysis and trading research.",
+  "source_repo": "xinkuang/china-stock-mcp",
+  "source_url": "https://github.com/xinkuang/china-stock-mcp",
+  "install": "npx -y china-stock-mcp"
+}

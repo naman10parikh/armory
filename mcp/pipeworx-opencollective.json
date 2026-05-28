@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-opencollective",
+  "description": "Open Collective public funding data — collectives, transactions, and contributors via Pipeworx's managed gateway.",
+  "source_repo": "pipeworx-io/mcp-opencollective",
+  "source_url": "https://github.com/pipeworx-io/mcp-opencollective",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-opencollective\n# See source for mcpServers config block"
+}

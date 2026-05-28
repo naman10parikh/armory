@@ -1,0 +1,7 @@
+{
+  "name": "bigsunny-007-trendradar",
+  "description": "Aggregates trending topics from Chinese social platforms with intelligent filtering and multi-channel notifications",
+  "source_repo": "bigsunny-007/trendradar",
+  "source_url": "https://github.com/bigsunny-007/trendradar",
+  "install": "# git clone --depth 1 https://github.com/bigsunny-007/trendradar\n# See source for mcpServers config block"
+}

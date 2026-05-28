@@ -1,0 +1,7 @@
+{
+  "name": "jonnybottles-azure-updates",
+  "description": "Search, filter, and summarize Azure service updates through natural language queries.",
+  "source_repo": "jonnybottles/azure-updates-mcp",
+  "source_url": "https://github.com/jonnybottles/azure-updates-mcp",
+  "install": "npx -y azure-updates-mcp"
+}

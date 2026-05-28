@@ -1,0 +1,7 @@
+{
+  "name": "abbyseo",
+  "description": "SEO scanning MCP exposing tools for URL audits and structured findings across technical and on-page signals.",
+  "source_repo": "",
+  "source_url": "https://www.abbyseo.com",
+  "install": "# git clone --depth 1 https://www.abbyseo.com\n# See source for mcpServers config block"
+}

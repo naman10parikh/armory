@@ -1,0 +1,7 @@
+{
+  "name": "hhopke-intervals-icu",
+  "description": "Access Intervals.icu training, wellness, and performance data from AI assistants.",
+  "source_repo": "hhopke/intervals-icu-mcp",
+  "source_url": "https://github.com/hhopke/intervals-icu-mcp",
+  "install": "npx -y intervals-icu-mcp"
+}

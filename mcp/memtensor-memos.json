@@ -1,0 +1,7 @@
+{
+  "name": "memtensor-memos",
+  "description": "Memory management system for AI applications with conversation storage and semantic memory search",
+  "source_repo": "memtensor/memos-api-mcp",
+  "source_url": "https://github.com/memtensor/memos-api-mcp",
+  "install": "npx -y memos-api-mcp"
+}

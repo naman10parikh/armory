@@ -1,0 +1,7 @@
+{
+  "name": "gh-isgudtek-mycrab",
+  "description": "Instant public HTTPS URLs via Cloudflare Tunnels for AI agents with optional permanent subdomains.",
+  "source_repo": "isgudtek/mycrab-mcp",
+  "source_url": "https://github.com/isgudtek/mycrab-mcp",
+  "install": "npx -y mycrab-mcp"
+}

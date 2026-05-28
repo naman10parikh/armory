@@ -1,0 +1,7 @@
+{
+  "name": "brandkity",
+  "description": "Manage brand kits, assets, workspaces, and content through the BrandKity platform.",
+  "source_repo": "brandkity/mcp-server",
+  "source_url": "https://github.com/brandkity/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/brandkity/mcp-server\n# See source for mcpServers config block"
+}

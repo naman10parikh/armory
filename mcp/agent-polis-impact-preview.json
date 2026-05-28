@@ -1,0 +1,7 @@
+{
+  "name": "agent-polis-impact-preview",
+  "description": "Simulate and preview the impact of proposed policy changes on affected populations.",
+  "source_repo": "agent-polis/impact-preview",
+  "source_url": "https://github.com/agent-polis/impact-preview",
+  "install": "# git clone --depth 1 https://github.com/agent-polis/impact-preview\n# See source for mcpServers config block"
+}

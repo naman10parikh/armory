@@ -1,0 +1,7 @@
+{
+  "name": "yli769227-jpg-ashare-mcp",
+  "description": "MCP server for Chinese A-share financial statements: pull annual reports, run 4 industry-aware accounting cross-checks, peer-compare with auto avg-equity ROE.",
+  "source_repo": "yli769227-jpg/ashare-mcp",
+  "source_url": "https://github.com/yli769227-jpg/ashare-mcp",
+  "install": "npx -y ashare-mcp"
+}

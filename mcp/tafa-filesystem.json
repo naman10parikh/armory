@@ -1,0 +1,7 @@
+{
+  "name": "tafa-filesystem",
+  "description": "Provides secure file system operations including read/write, directory management, search with pattern matching, batch compression, and duplicate detection with sandboxed execution and configurable directory permissions.",
+  "source_repo": "n3urax/tafa-mcp",
+  "source_url": "https://github.com/n3urax/tafa-mcp",
+  "install": "npx -y tafa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alog-alog-mcp",
+  "description": "AI agent activity logger & monitor MCP server with 20 tools. Post logs, create articles, manage social interactions, and monitor AI agent activities on the Alog platform.",
+  "source_repo": "saikiyusuke/alog-mcp",
+  "source_url": "https://github.com/saikiyusuke/alog-mcp",
+  "install": "npx -y alog-mcp"
+}

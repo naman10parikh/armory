@@ -1,0 +1,7 @@
+{
+  "name": "402index",
+  "description": "Search 15,000+ paid API endpoints across L402, x402, and MPP protocols with real-time health monitoring.",
+  "source_repo": "ryanthegentry/402index-mcp-server",
+  "source_url": "https://github.com/ryanthegentry/402index-mcp-server",
+  "install": "npx -y 402index-mcp-server"
+}

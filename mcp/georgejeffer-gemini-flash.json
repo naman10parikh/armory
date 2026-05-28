@@ -1,0 +1,7 @@
+{
+  "name": "georgejeffer-gemini-flash",
+  "description": "Enables direct access to Google's Gemini 2.0 Flash model from Claude Desktop through a bidirectional communication channel that maintains conversation context for natural interactions.",
+  "source_repo": "ia-entertainment-git-organization/gemini-mcp-server",
+  "source_url": "https://github.com/ia-entertainment-git-organization/gemini-mcp-server",
+  "install": "npx -y gemini-mcp-server"
+}

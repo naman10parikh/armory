@@ -1,0 +1,7 @@
+{
+  "name": "jamsusmaximus-trainingpeaks",
+  "description": "Integrates with TrainingPeaks through cookie-based authentication to access workout data, personal records, and fitness metrics for endurance sports training analysis.",
+  "source_repo": "jamsusmaximus/trainingpeaks-mcp",
+  "source_url": "https://github.com/jamsusmaximus/trainingpeaks-mcp",
+  "install": "npx -y trainingpeaks-mcp"
+}

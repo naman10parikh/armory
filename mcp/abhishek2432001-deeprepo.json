@@ -1,0 +1,7 @@
+{
+  "name": "abhishek2432001-deeprepo",
+  "description": "RAG engine for local codebases with multi-provider AI support and semantic search.",
+  "source_repo": "abhishek2432001/deeprepo",
+  "source_url": "https://github.com/abhishek2432001/deeprepo",
+  "install": "# git clone --depth 1 https://github.com/abhishek2432001/deeprepo\n# See source for mcpServers config block"
+}

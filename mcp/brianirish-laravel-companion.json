@@ -1,0 +1,7 @@
+{
+  "name": "brianirish-laravel-companion",
+  "description": "Integrates with Laravel documentation and package ecosystem to provide intelligent search across multiple framework versions, external service docs, and curated package recommendations based on use case descriptions.",
+  "source_repo": "brianirish/laravel-mcp-companion",
+  "source_url": "https://github.com/brianirish/laravel-mcp-companion",
+  "install": "# git clone --depth 1 https://github.com/brianirish/laravel-mcp-companion\n# See source for mcpServers config block"
+}

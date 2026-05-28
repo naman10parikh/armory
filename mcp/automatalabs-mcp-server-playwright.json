@@ -1,0 +1,7 @@
+{
+  "name": "automatalabs-mcp-server-playwright",
+  "description": "An MCP server for browser automation using Playwright",
+  "source_repo": "Automata-Labs-team/MCP-Server-Playwright",
+  "source_url": "https://github.com/Automata-Labs-team/MCP-Server-Playwright",
+  "install": "# git clone --depth 1 https://github.com/Automata-Labs-team/MCP-Server-Playwright\n# See source for mcpServers config block"
+}

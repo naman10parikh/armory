@@ -1,0 +1,7 @@
+{
+  "name": "simonb97-windows-cli-mcp-server",
+  "description": "Control Windows command-line interfaces securely.",
+  "source_repo": "simon-ami/win-cli-mcp-server",
+  "source_url": "https://github.com/simon-ami/win-cli-mcp-server",
+  "install": "npx -y win-cli-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "magic-api-mcp-server",
+  "description": "Enables AI assistants to interact with Magic-API development environment, supporting script syntax query, API management, debugging, and knowledge search for efficient development.",
+  "source_repo": "fastmcp-me/magic-api-mcp-server",
+  "source_url": "https://github.com/fastmcp-me/magic-api-mcp-server",
+  "install": "npx -y magic-api-mcp-server"
+}

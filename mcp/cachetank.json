@@ -1,0 +1,7 @@
+{
+  "name": "cachetank",
+  "description": "Persistent personal context layer that loads your identity, projects, and decisions into any MCP-compatible AI tool automatically.",
+  "source_repo": "july-blue-sky-llc/cachetank-mcp",
+  "source_url": "https://github.com/july-blue-sky-llc/cachetank-mcp",
+  "install": "npx -y cachetank-mcp"
+}

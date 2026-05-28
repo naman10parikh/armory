@@ -1,0 +1,7 @@
+{
+  "name": "todoist-mcp-server",
+  "description": "A proof-of-concept MCP server that interacts with Todoist using OAuth-based authorization and is deployed on Cloudflare Workers.",
+  "source_repo": "deepakjois/todoist-mcp-server-cf",
+  "source_url": "https://github.com/deepakjois/todoist-mcp-server-cf",
+  "install": "# git clone --depth 1 https://github.com/deepakjois/todoist-mcp-server-cf\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hpe-greenlake",
+  "description": "Collection of MCP servers for the HPE GreenLake platform covering infrastructure, security, users, workspaces, subscriptions, and reporting.",
+  "source_repo": "hewlettpackard/gl-mcp",
+  "source_url": "https://github.com/hewlettpackard/gl-mcp",
+  "install": "npx -y gl-mcp"
+}

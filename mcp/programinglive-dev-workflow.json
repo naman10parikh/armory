@@ -1,0 +1,7 @@
+{
+  "name": "programinglive-dev-workflow",
+  "description": "Enforces development workflow discipline through structured stages",
+  "source_repo": "programinglive/dev-workflow-mcp-server",
+  "source_url": "https://github.com/programinglive/dev-workflow-mcp-server",
+  "install": "npx -y dev-workflow-mcp-server"
+}

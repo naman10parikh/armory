@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-57",
+  "description": "Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "wandb/mcp-server",
+  "source_url": "https://mcp.so/server/mcp-server/wandb",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server/wandb\n# See source for mcpServers config block"
+}

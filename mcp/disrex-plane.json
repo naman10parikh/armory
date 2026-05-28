@@ -1,0 +1,7 @@
+{
+  "name": "disrex-plane",
+  "description": "Integrates with Plane's project management platform through 76 specialized tools for complete issue, project, module, cycle, label, state, comment, attachment, time tracking, custom property, sub-issue, and transfer operations with cursor-based pagination for efficient data handling.",
+  "source_repo": "disrex-group/plane-mcp-server",
+  "source_url": "https://github.com/disrex-group/plane-mcp-server",
+  "install": "npx -y plane-mcp-server"
+}

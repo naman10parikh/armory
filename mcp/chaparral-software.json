@@ -1,0 +1,7 @@
+{
+  "name": "chaparral-software",
+  "description": "Independent AI consulting firm's resource hub providing case notes, dispatches, and 40 years of production systems expertise.",
+  "source_repo": "",
+  "source_url": "https://chapsoft.com",
+  "install": "# git clone --depth 1 https://chapsoft.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sowiedu-edict",
+  "description": "Programming language for AI agents with JSON AST input and WASM output.",
+  "source_repo": "sowiedu/edict",
+  "source_url": "https://github.com/sowiedu/edict",
+  "install": "# git clone --depth 1 https://github.com/sowiedu/edict\n# See source for mcpServers config block"
+}

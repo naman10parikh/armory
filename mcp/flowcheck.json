@@ -1,0 +1,7 @@
+{
+  "name": "flowcheck",
+  "description": "Connects Stripe payouts, Shopify orders, and bank transactions for automated reconciliation and cash flow analysis.",
+  "source_repo": "eliaskress/flowcheck-mcp-server",
+  "source_url": "https://github.com/eliaskress/flowcheck-mcp-server",
+  "install": "npx -y flowcheck-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "phpcodearcheology-phpcodearcheology",
+  "description": "PHP static analysis MCP server for architecture and maintainability. 11 tools exposing 60+ code quality metrics, problem detection, refactoring priorities, dependency graphs, git hotspots, test coverage, and impact analysis. Installable via Composer.",
+  "source_repo": "PhpCodeArcheology/PhpCodeArcheology",
+  "source_url": "https://github.com/PhpCodeArcheology/PhpCodeArcheology",
+  "install": "# git clone --depth 1 https://github.com/PhpCodeArcheology/PhpCodeArcheology\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "joenorton-comfyui",
+  "description": "Integrates ComfyUI with WebSocket communication for on-demand image generation, enabling customizable requests with parameters like prompt, width, and height.",
+  "source_repo": "joenorton/comfyui-mcp-server",
+  "source_url": "https://github.com/joenorton/comfyui-mcp-server",
+  "install": "npx -y comfyui-mcp-server"
+}

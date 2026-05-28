@@ -1,0 +1,7 @@
+{
+  "name": "disruption-intelligence-mcp",
+  "description": "Disruption Intelligence MCP gives AI agents access to commercial disruption signals through a public MCP server backed by the hosted Forgemesh API. It supports WARN/layoff intelligence, company context, geospatial territory disruption, x402 payment challenge inspection, and economic signal workflows",
+  "source_repo": "forgemeshlabs/disruption-intelligence-mcp",
+  "source_url": "https://github.com/forgemeshlabs/disruption-intelligence-mcp",
+  "install": "npx -y disruption-intelligence-mcp"
+}

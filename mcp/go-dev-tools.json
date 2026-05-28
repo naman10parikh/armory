@@ -1,0 +1,7 @@
+{
+  "name": "go-dev-tools",
+  "description": "Automates Go development workflows with six core tools for building, testing, running, dependency management, formatting, and static analysis across single projects and multi-module workspaces.",
+  "source_repo": "mrfixit96/go-dev-mcp",
+  "source_url": "https://github.com/mrfixit96/go-dev-mcp",
+  "install": "npx -y go-dev-mcp"
+}

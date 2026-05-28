@@ -1,0 +1,7 @@
+{
+  "name": "samson-art-transcriptor-mcp",
+  "description": "Transcriptor MCP is your choice when you need transcripts and metadata for AI, summarization, or content analysis",
+  "source_repo": "samson-art/transcriptor-mcp",
+  "source_url": "https://github.com/samson-art/transcriptor-mcp",
+  "install": "npx -y transcriptor-mcp"
+}

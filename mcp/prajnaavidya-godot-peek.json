@@ -1,0 +1,7 @@
+{
+  "name": "prajnaavidya-godot-peek",
+  "description": "Bridges Godot game engine with real-time debugging capabilities including scene execution, log monitoring, stack trace analysis, and game control through WebSocket communication.",
+  "source_repo": "prajnaavidya/godot-peek-mcp",
+  "source_url": "https://github.com/prajnaavidya/godot-peek-mcp",
+  "install": "npx -y godot-peek-mcp"
+}

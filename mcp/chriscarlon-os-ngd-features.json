@@ -1,0 +1,7 @@
+{
+  "name": "chriscarlon-os-ngd-features",
+  "description": "Provides a bridge to the Ordnance Survey National Geographic Database, enabling queries of UK geographic data for applications like urban planning, transportation analysis, and location-based services.",
+  "source_repo": "chriscarlon/os-mcp",
+  "source_url": "https://github.com/chriscarlon/os-mcp",
+  "install": "npx -y os-mcp"
+}

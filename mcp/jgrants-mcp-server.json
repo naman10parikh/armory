@@ -1,0 +1,7 @@
+{
+  "name": "jgrants-mcp-server",
+  "description": "MCP server for Japan's Jグランツ grant application system, enabling LLMs to search and retrieve subsidy information via natural language.",
+  "source_repo": "digital-go-jp/jgrants-mcp-server",
+  "source_url": "https://github.com/digital-go-jp/jgrants-mcp-server",
+  "install": "npx -y jgrants-mcp-server"
+}

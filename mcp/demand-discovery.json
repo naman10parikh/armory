@@ -1,0 +1,7 @@
+{
+  "name": "demand-discovery",
+  "description": "Startup idea validation via behavioral signals: demand scoring and market validation for AI sales agents.",
+  "source_repo": "",
+  "source_url": "https://demanddiscovery.ai",
+  "install": "# git clone --depth 1 https://demanddiscovery.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cuprice",
+  "description": "Embed dynamic pricing widgets and product comparisons into AI-assisted conversations.",
+  "source_repo": "nicholasgriffintn/cuprice-mcp",
+  "source_url": "https://github.com/nicholasgriffintn/cuprice-mcp",
+  "install": "npx -y cuprice-mcp"
+}

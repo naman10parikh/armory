@@ -1,0 +1,7 @@
+{
+  "name": "gh-hkchao-findtime",
+  "description": "Proxies the findtime.io Time API for timezone lookups, time conversion, DST schedules, and meeting time optimization.",
+  "source_repo": "hkchao/findtime-mcp-server",
+  "source_url": "https://github.com/hkchao/findtime-mcp-server",
+  "install": "npx -y findtime-mcp-server"
+}

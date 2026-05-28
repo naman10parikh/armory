@@ -1,0 +1,7 @@
+{
+  "name": "tachyonshuggy-audacity",
+  "description": "Controls Audacity via mod-script-pipe for audio editing, normalization, effects application, and export through natural language.",
+  "source_repo": "tachyonshuggy/audacity-mcp",
+  "source_url": "https://github.com/tachyonshuggy/audacity-mcp",
+  "install": "npx -y audacity-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gwiz",
+  "description": "Gmail integration with AI agents for email management and automation",
+  "source_repo": "",
+  "source_url": "https://gwiz.ai",
+  "install": "# git clone --depth 1 https://gwiz.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lyellr88-buddy",
+  "description": "Claude Code creature collection game. Hatch buddies, pet them to boost roll luck, complete the BuddyDex.",
+  "source_repo": "lyellr88/buddy-mcp",
+  "source_url": "https://github.com/lyellr88/buddy-mcp",
+  "install": "npx -y buddy-mcp"
+}

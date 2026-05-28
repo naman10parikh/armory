@@ -1,0 +1,7 @@
+{
+  "name": "benwmerritt-shopify",
+  "description": "Integrates with Shopify's GraphQL Admin API for complete e-commerce store management including product operations, order processing, customer management, inventory tracking, and bulk operations.",
+  "source_repo": "benwmerritt/shopify-mcp",
+  "source_url": "https://github.com/benwmerritt/shopify-mcp",
+  "install": "npx -y shopify-mcp"
+}

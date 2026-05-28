@@ -1,0 +1,7 @@
+{
+  "name": "chykalophia-clickup",
+  "description": "Integrates with ClickUp's project management platform through 170+ tools covering tasks, documents, spaces, time tracking, goals, webhooks, custom fields, and team collaboration with intelligent workflow recommendations and comprehensive API coverage including dependency management, file attachments, and real-time webhook processing.",
+  "source_repo": "chykalophia/clickup-mcp-server---enhanced",
+  "source_url": "https://github.com/chykalophia/clickup-mcp-server---enhanced",
+  "install": "# git clone --depth 1 https://github.com/chykalophia/clickup-mcp-server---enhanced\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wix",
+  "description": "Enables website creation and management with Wix business solutions including eCommerce, booking systems, payment processing, and CRM functionality through natural language commands",
+  "source_repo": "wix/wix-mcp",
+  "source_url": "https://github.com/wix/wix-mcp",
+  "install": "npx -y wix-mcp"
+}

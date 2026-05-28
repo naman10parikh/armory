@@ -1,0 +1,7 @@
+{
+  "name": "p-meier-northdata",
+  "description": "German company, owner, and financial data via the NorthData API, with a built-in credit guard to prevent overspending.",
+  "source_repo": "p-meier/northdata-connectors",
+  "source_url": "https://github.com/p-meier/northdata-connectors",
+  "install": "# git clone --depth 1 https://github.com/p-meier/northdata-connectors\n# See source for mcpServers config block"
+}

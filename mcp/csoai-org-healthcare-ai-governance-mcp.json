@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-healthcare-ai-governance-mcp",
+  "description": "AI governance and compliance tools specific to healthcare regulatory environments.",
+  "source_repo": "csoai-org/healthcare-ai-governance-mcp",
+  "source_url": "https://github.com/csoai-org/healthcare-ai-governance-mcp",
+  "install": "npx -y healthcare-ai-governance-mcp"
+}

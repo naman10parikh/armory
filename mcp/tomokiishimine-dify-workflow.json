@@ -1,0 +1,7 @@
+{
+  "name": "tomokiishimine-dify-workflow",
+  "description": "Connects Claude with Dify Workflow to expose workflow capabilities as tools, enabling structured automation through dynamic parameter retrieval and multi-workflow support.",
+  "source_repo": "tomokiishimine/dify-mcp-server",
+  "source_url": "https://github.com/tomokiishimine/dify-mcp-server",
+  "install": "npx -y dify-mcp-server"
+}

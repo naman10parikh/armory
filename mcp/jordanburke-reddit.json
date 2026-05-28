@@ -1,0 +1,7 @@
+{
+  "name": "jordanburke-reddit",
+  "description": "Integrates with Reddit's API to provide read and write access for fetching posts, comments, user profiles, subreddit information, searching content, creating posts and replies, with OAuth authentication, rate limiting, and engagement analytics.",
+  "source_repo": "jordanburke/reddit-mcp-server",
+  "source_url": "https://github.com/jordanburke/reddit-mcp-server",
+  "install": "npx -y reddit-mcp-server"
+}

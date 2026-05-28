@@ -1,0 +1,7 @@
+{
+  "name": "thehesiod-aadvantage",
+  "description": "Read-only access to American Airlines AAdvantage frequent flyer account data.",
+  "source_repo": "thehesiod/aa-mcp",
+  "source_url": "https://github.com/thehesiod/aa-mcp",
+  "install": "npx -y aa-mcp"
+}

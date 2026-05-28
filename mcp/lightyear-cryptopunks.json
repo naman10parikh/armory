@@ -1,0 +1,7 @@
+{
+  "name": "lightyear-cryptopunks",
+  "description": "Browse traits, filter 10,000 punks, view listings and bids, generate Merkle proofs, and access bid pricing for CryptoPunks NFTs.",
+  "source_repo": "",
+  "source_url": "https://punks.lightyear.build",
+  "install": "# git clone --depth 1 https://punks.lightyear.build\n# See source for mcpServers config block"
+}

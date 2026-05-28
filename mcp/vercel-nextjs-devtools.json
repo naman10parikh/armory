@@ -1,0 +1,7 @@
+{
+  "name": "vercel-nextjs-devtools",
+  "description": "Development tools and runtime diagnostics for Next.js projects",
+  "source_repo": "vercel/next-devtools-mcp",
+  "source_url": "https://github.com/vercel/next-devtools-mcp",
+  "install": "npx -y next-devtools-mcp"
+}

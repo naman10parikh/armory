@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [pre-config-protection, pre-edit-write-gateguard-fact-force]
-tags: [ecc, hook, PreToolUse]
+tags: [hook, PreToolUse]
 ---
 ## What it is
 PreToolUse hook: Consolidated Bash preflight dispatcher for quality, tmux, push, and GateGuard checks (matcher: Bash).

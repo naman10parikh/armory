@@ -1,0 +1,7 @@
+{
+  "name": "mpesa-mcp-server",
+  "description": "Mpesa_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "jameskanyiri/mpesa_mcp_server",
+  "source_url": "https://mcp.so/server/mpesa_mcp_server/jameskanyiri",
+  "install": "npx -y mpesa_mcp_server"
+}

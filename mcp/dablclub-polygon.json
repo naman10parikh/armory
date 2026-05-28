@@ -1,0 +1,7 @@
+{
+  "name": "dablclub-polygon",
+  "description": "Integrates with the Polygon blockchain to enable cryptocurrency management, smart contract interaction, and transaction signing through a secure wallet connection using the user's seed phrase.",
+  "source_repo": "dablclub/polygon-mcp",
+  "source_url": "https://github.com/dablclub/polygon-mcp",
+  "install": "npx -y polygon-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cayirtepeomer-gerrit-code-review",
+  "description": "Integrates with Gerrit code review systems to enable detailed analysis of code changes, diffs, file modifications, and reviewer details across review iterations.",
+  "source_repo": "cayirtepeomer/gerrit-code-review-mcp",
+  "source_url": "https://github.com/cayirtepeomer/gerrit-code-review-mcp",
+  "install": "npx -y gerrit-code-review-mcp"
+}

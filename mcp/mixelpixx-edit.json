@@ -1,0 +1,7 @@
+{
+  "name": "mixelpixx-edit",
+  "description": "Provides file editing capabilities through Microsoft Edit integration, combining direct file system operations for simple tasks with Edit process management for complex editing scenarios, enabling reading, writing, listing files, finding text patterns, formatting code, and performing find-and-replace operations across multiple files.",
+  "source_repo": "mixelpixx/microsoft-edit-mcp",
+  "source_url": "https://github.com/mixelpixx/microsoft-edit-mcp",
+  "install": "npx -y microsoft-edit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lookhui-ida-pro-mcp",
+  "description": "Extended IDA Pro MCP server and plugin collection with 147 reverse engineering tools accessible via stdio, HTTP, and SSE transports.",
+  "source_repo": "lookhui/ida-mcp-pro",
+  "source_url": "https://github.com/lookhui/ida-mcp-pro",
+  "install": "# git clone --depth 1 https://github.com/lookhui/ida-mcp-pro\n# See source for mcpServers config block"
+}

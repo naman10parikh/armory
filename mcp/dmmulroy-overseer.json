@@ -1,0 +1,7 @@
+{
+  "name": "dmmulroy-overseer",
+  "description": "Task orchestration system that creates hierarchical milestone-task-subtask structures with inherited context and learnings, automatically managing version control bookmarks and commits throughout task lifecycle transitions for clean development history.",
+  "source_repo": "dmmulroy/overseer",
+  "source_url": "https://github.com/dmmulroy/overseer",
+  "install": "# git clone --depth 1 https://github.com/dmmulroy/overseer\n# See source for mcpServers config block"
+}

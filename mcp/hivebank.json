@@ -1,0 +1,7 @@
+{
+  "name": "hivebank",
+  "description": "USDC treasury vaults, streaming payments, and DeFi yield for AI agents.",
+  "source_repo": "srotzin/hivebank",
+  "source_url": "https://github.com/srotzin/hivebank",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hivebank\n# See source for mcpServers config block"
+}

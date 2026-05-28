@@ -1,0 +1,7 @@
+{
+  "name": "hanlulong-stata",
+  "description": "Integrates Stata statistical software with code editors like VS Code and Cursor, enabling direct command execution, real-time output viewing, and contextual coding assistance for data scientists and researchers.",
+  "source_repo": "hanlulong/stata-mcp",
+  "source_url": "https://github.com/hanlulong/stata-mcp",
+  "install": "npx -y stata-mcp"
+}

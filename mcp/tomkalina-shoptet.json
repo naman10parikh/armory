@@ -1,0 +1,7 @@
+{
+  "name": "tomkalina-shoptet",
+  "description": "MCP server for the Shoptet e-commerce platform with 48 tools covering orders, products, customers, and webhooks.",
+  "source_repo": "tomkalina/shoptet-mcp",
+  "source_url": "https://github.com/tomkalina/shoptet-mcp",
+  "install": "npx -y shoptet-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nacal-minecraft-remote",
+  "description": "Enables AI-assisted remote control and manipulation of Minecraft servers through natural language commands, supporting complex navigation, world interaction, and gameplay automation tasks.",
+  "source_repo": "nacal/mcp-minecraft-remote",
+  "source_url": "https://github.com/nacal/mcp-minecraft-remote",
+  "install": "# git clone --depth 1 https://github.com/nacal/mcp-minecraft-remote\n# See source for mcpServers config block"
+}

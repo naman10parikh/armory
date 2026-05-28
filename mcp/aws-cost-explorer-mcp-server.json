@@ -1,0 +1,7 @@
+{
+  "name": "aws-cost-explorer-mcp-server",
+  "description": "Aws Cost Explorer Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aarora79/aws-cost-explorer-mcp-server",
+  "source_url": "https://mcp.so/server/aws-cost-explorer-mcp-server/aarora79",
+  "install": "npx -y aws-cost-explorer-mcp-server"
+}

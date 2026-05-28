@@ -1,0 +1,7 @@
+{
+  "name": "xkiranj-markitdown-npx",
+  "description": "NPX wrapper for Microsoft's MarkItDown that converts PDFs, Word documents, Excel files, images, and other formats into markdown without Docker dependencies or complex configurations.",
+  "source_repo": "xkiranj/markitdown-mcp-npx",
+  "source_url": "https://github.com/xkiranj/markitdown-mcp-npx",
+  "install": "# git clone --depth 1 https://github.com/xkiranj/markitdown-mcp-npx\n# See source for mcpServers config block"
+}

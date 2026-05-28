@@ -1,0 +1,7 @@
+{
+  "name": "wwwyo-mysql",
+  "description": "Integrates with MySQL databases to enable SQL query execution, connection management, and data retrieval for applications requiring relational database interactions.",
+  "source_repo": "wwwyo/mysql-mcp",
+  "source_url": "https://github.com/wwwyo/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-intel-mcp",
+  "description": "MCP server that gives AI agents deep code understanding across multiple git repositories, combining git lifecycle management, Zoekt-based trigram code search, and cross-repo dependency analysis.",
+  "source_repo": "arunveersingh/code-intel-mcp",
+  "source_url": "https://github.com/arunveersingh/code-intel-mcp",
+  "install": "npx -y code-intel-mcp"
+}

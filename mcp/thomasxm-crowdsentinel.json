@@ -1,0 +1,7 @@
+{
+  "name": "thomasxm-crowdsentinel",
+  "description": "AI-powered threat hunting and incident response framework for Elasticsearch and OpenSearch with detection rules, EVTX analysis, and PCAP inspection.",
+  "source_repo": "thomasxm/crowdsentinels-ai-mcp",
+  "source_url": "https://github.com/thomasxm/crowdsentinels-ai-mcp",
+  "install": "npx -y crowdsentinels-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jaipandya-producthunt-mcp-server",
+  "description": "MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.",
+  "source_repo": "jaipandya/producthunt-mcp-server",
+  "source_url": "https://github.com/jaipandya/producthunt-mcp-server",
+  "install": "npx -y producthunt-mcp-server"
+}

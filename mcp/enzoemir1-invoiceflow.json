@@ -1,0 +1,7 @@
+{
+  "name": "enzoemir1-invoiceflow",
+  "description": "AI-powered invoice automation for creating invoices, tracking payments, and managing cash flow.",
+  "source_repo": "enzoemir1/invoiceflow-mcp",
+  "source_url": "https://github.com/enzoemir1/invoiceflow-mcp",
+  "install": "npx -y invoiceflow-mcp"
+}

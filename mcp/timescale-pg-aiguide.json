@@ -1,0 +1,7 @@
+{
+  "name": "timescale-pg-aiguide",
+  "description": "Version-aware PostgreSQL documentation and best practices for AI coding assistants",
+  "source_repo": "timescale/pg-aiguide",
+  "source_url": "https://github.com/timescale/pg-aiguide",
+  "install": "# git clone --depth 1 https://github.com/timescale/pg-aiguide\n# See source for mcpServers config block"
+}

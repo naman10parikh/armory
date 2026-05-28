@@ -1,0 +1,7 @@
+{
+  "name": "bundler-gem-explorer",
+  "description": "Provides detailed information about Ruby gem dependencies in a project's Gemfile, including versions, descriptions, installation paths, documentation locations, and source code files.",
+  "source_repo": "subelsky/bundler_mcp",
+  "source_url": "https://github.com/subelsky/bundler_mcp",
+  "install": "npx -y bundler_mcp"
+}

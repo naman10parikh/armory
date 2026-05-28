@@ -1,0 +1,7 @@
+{
+  "name": "igorganapolsky-thumbgate",
+  "description": "MCP server that blocks AI coding agents from repeating mistakes — turns thumbs-up/down feedback into enforced pre-action gates via PreToolUse hooks. Install: `npx thumbgate`.",
+  "source_repo": "IgorGanapolsky/ThumbGate",
+  "source_url": "https://github.com/IgorGanapolsky/ThumbGate",
+  "install": "# git clone --depth 1 https://github.com/IgorGanapolsky/ThumbGate\n# See source for mcpServers config block"
+}

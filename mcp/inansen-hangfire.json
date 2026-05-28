@@ -1,0 +1,7 @@
+{
+  "name": "inansen-hangfire",
+  "description": "Monitor Hangfire background job queues, retry failed jobs, manage recurring tasks, and view real-time statistics.",
+  "source_repo": "inansen/hangfire-mcp",
+  "source_url": "https://github.com/inansen/hangfire-mcp",
+  "install": "npx -y hangfire-mcp"
+}

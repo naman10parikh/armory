@@ -1,0 +1,7 @@
+{
+  "name": "lveillard-factorio-ai-companion",
+  "description": "Enables AI companion control for Factorio through RCON integration, supporting bidirectional chat communication for in-game AI interactions.",
+  "source_repo": "lveillard/factorio-ai-companion",
+  "source_url": "https://github.com/lveillard/factorio-ai-companion",
+  "install": "# git clone --depth 1 https://github.com/lveillard/factorio-ai-companion\n# See source for mcpServers config block"
+}

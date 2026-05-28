@@ -1,0 +1,7 @@
+{
+  "name": "anki-mcp-server-3",
+  "description": "Anki MCP Server MCP server listed on mcp.so.",
+  "source_repo": "ethangillani/Anki-MCP-Server",
+  "source_url": "https://mcp.so/server/Anki-MCP-Server/ethangillani",
+  "install": "npx -y Anki-MCP-Server"
+}

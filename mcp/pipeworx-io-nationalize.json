@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-nationalize",
+  "description": "Predict the nationality of a person based on their first name.",
+  "source_repo": "pipeworx-io/mcp-nationalize",
+  "source_url": "https://github.com/pipeworx-io/mcp-nationalize",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-nationalize\n# See source for mcpServers config block"
+}

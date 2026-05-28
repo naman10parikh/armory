@@ -1,0 +1,7 @@
+{
+  "name": "naveenthangaraj03-kubernetes",
+  "description": "Provides direct API access to Kubernetes clusters for managing pods, deployments, services, namespaces, storage, and RBAC components with CRUD operations, log retrieval, and label-based filtering.",
+  "source_repo": "naveenthangaraj03/k8s-mcp-server",
+  "source_url": "https://github.com/naveenthangaraj03/k8s-mcp-server",
+  "install": "npx -y k8s-mcp-server"
+}

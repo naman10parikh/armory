@@ -1,0 +1,7 @@
+{
+  "name": "splunk",
+  "description": "Official MCP server for Splunk Enterprise and Cloud that enables AI assistants to securely execute SPL queries, generate searches from natural language, retrieve index metadata, and discover knowledge objects through the Splunk management port with RBAC enforcement.",
+  "source_repo": "ciscodevnet/splunk-mcp-server-official",
+  "source_url": "https://github.com/ciscodevnet/splunk-mcp-server-official",
+  "install": "# git clone --depth 1 https://github.com/ciscodevnet/splunk-mcp-server-official\n# See source for mcpServers config block"
+}

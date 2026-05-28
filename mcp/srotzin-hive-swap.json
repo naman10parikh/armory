@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-swap",
+  "description": "Agent-native DEX for swapping USDC, USDCx, USAD, and ALEO tokens with real on-chain settlement on Base L2.",
+  "source_repo": "srotzin/hive-mcp-swap",
+  "source_url": "https://github.com/srotzin/hive-mcp-swap",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-swap\n# See source for mcpServers config block"
+}

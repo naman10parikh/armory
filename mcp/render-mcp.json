@@ -1,0 +1,7 @@
+{
+  "name": "render-mcp",
+  "description": "Render Mcp MCP server listed on mcp.so.",
+  "source_repo": "niyogi/render-mcp",
+  "source_url": "https://mcp.so/server/render-mcp/niyogi",
+  "install": "npx -y render-mcp"
+}

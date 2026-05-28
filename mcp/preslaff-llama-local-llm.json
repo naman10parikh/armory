@@ -1,0 +1,7 @@
+{
+  "name": "preslaff-llama-local-llm",
+  "description": "Bridges MCP clients with local LLM models via llama-server or Ollama for GPU-accelerated text and code generation.",
+  "source_repo": "preslaff/llama-mcp",
+  "source_url": "https://github.com/preslaff/llama-mcp",
+  "install": "npx -y llama-mcp"
+}

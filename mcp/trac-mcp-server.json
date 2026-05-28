@@ -1,0 +1,7 @@
+{
+  "name": "trac-mcp-server",
+  "description": "Enables AI agents to manage Trac projects with full CRUD operations on tickets, wiki pages, and milestones via the Model Context Protocol.",
+  "source_repo": "nerpatech/trac-mcp-server",
+  "source_url": "https://github.com/nerpatech/trac-mcp-server",
+  "install": "npx -y trac-mcp-server"
+}

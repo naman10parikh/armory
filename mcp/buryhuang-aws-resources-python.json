@@ -1,0 +1,7 @@
+{
+  "name": "buryhuang-aws-resources-python",
+  "description": "Provides a Python-based interface for executing AWS queries across services like S3 and CodePipeline, enabling DevOps tasks and cloud resource management.",
+  "source_repo": "baryhuang/mcp-server-aws-resources-python",
+  "source_url": "https://github.com/baryhuang/mcp-server-aws-resources-python",
+  "install": "# git clone --depth 1 https://github.com/baryhuang/mcp-server-aws-resources-python\n# See source for mcpServers config block"
+}

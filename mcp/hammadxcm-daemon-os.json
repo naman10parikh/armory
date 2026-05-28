@@ -1,0 +1,7 @@
+{
+  "name": "hammadxcm-daemon-os",
+  "description": "Gives AI agents full computer-use control on macOS through the native accessibility tree, with a recipe system for repeatable workflows.",
+  "source_repo": "hammadxcm/daemon-os",
+  "source_url": "https://github.com/hammadxcm/daemon-os",
+  "install": "# git clone --depth 1 https://github.com/hammadxcm/daemon-os\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "roam-research",
+  "description": "Integrates with Roam Research to enable searching, creating, and manipulating graph content for automated note-taking and intelligent information retrieval.",
+  "source_repo": "2b3pro/roam-research-mcp",
+  "source_url": "https://github.com/2b3pro/roam-research-mcp",
+  "install": "npx -y roam-research-mcp"
+}

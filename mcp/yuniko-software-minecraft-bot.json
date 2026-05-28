@@ -1,0 +1,7 @@
+{
+  "name": "yuniko-software-minecraft-bot",
+  "description": "Enables AI control of Minecraft bots through Mineflayer-based tools for movement, block manipulation, inventory management, and environment interaction without requiring direct player input.",
+  "source_repo": "yuniko-software/minecraft-mcp-server",
+  "source_url": "https://github.com/yuniko-software/minecraft-mcp-server",
+  "install": "npx -y minecraft-mcp-server"
+}

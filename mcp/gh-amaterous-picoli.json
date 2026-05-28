@@ -1,0 +1,7 @@
+{
+  "name": "gh-amaterous-picoli",
+  "description": "URL shortening and click analytics for AI agents via picoli.site.",
+  "source_repo": "amaterous/picoli-mcp",
+  "source_url": "https://github.com/amaterous/picoli-mcp",
+  "install": "npx -y picoli-mcp"
+}

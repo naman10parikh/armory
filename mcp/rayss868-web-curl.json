@@ -1,0 +1,7 @@
+{
+  "name": "rayss868-web-curl",
+  "description": "Enables web content retrieval and API interaction with customizable resource blocking, authentication options, and automatic URL/search query detection for information retrieval and web automation tasks",
+  "source_repo": "rayss868/mcp-web-curl",
+  "source_url": "https://github.com/rayss868/mcp-web-curl",
+  "install": "# git clone --depth 1 https://github.com/rayss868/mcp-web-curl\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "adbutler",
+  "description": "Manage the full AdButler ad platform including advertisers, campaigns, zones, creatives, reporting, and programmatic ads via 600+ tools through the official hosted MCP server.",
+  "source_repo": "adbutler/mcp-server",
+  "source_url": "https://github.com/adbutler/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/adbutler/mcp-server\n# See source for mcpServers config block"
+}

@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, command, workflow]
+tags: [command, workflow]
 ---
 ## What it is
 Extract reusable patterns from the session, self-evaluate quality before saving, and determine the right save location (Global vs Project).

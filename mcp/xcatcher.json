@@ -1,0 +1,7 @@
+{
+  "name": "xcatcher",
+  "description": "High-throughput Twitter/X crawling with authenticated XLSX export",
+  "source_repo": "lvpiggyqq/xcatcher-mcp-manifest",
+  "source_url": "https://github.com/lvpiggyqq/xcatcher-mcp-manifest",
+  "install": "# git clone --depth 1 https://github.com/lvpiggyqq/xcatcher-mcp-manifest\n# See source for mcpServers config block"
+}

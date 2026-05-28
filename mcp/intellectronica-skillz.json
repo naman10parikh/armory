@@ -1,0 +1,7 @@
+{
+  "name": "intellectronica-skillz",
+  "description": "Executes local Anthropic-style skills through directory-based discovery where each skill contains YAML metadata and Markdown instructions, enabling reusable AI workflows and automation scripts with sandboxed execution environments.",
+  "source_repo": "intellectronica/skillz",
+  "source_url": "https://github.com/intellectronica/skillz",
+  "install": "# git clone --depth 1 https://github.com/intellectronica/skillz\n# See source for mcpServers config block"
+}

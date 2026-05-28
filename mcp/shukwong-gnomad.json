@@ -1,0 +1,7 @@
+{
+  "name": "shukwong-gnomad",
+  "description": "Integrates with gnomAD (Genome Aggregation Database) through ten specialized tools for querying genomic variant data, population frequencies, gene constraints, transcript analysis, and structural variants across multiple datasets and reference genomes for clinical genetics and population genomics research.",
+  "source_repo": "shukwong/gnomad-mcp-server",
+  "source_url": "https://github.com/shukwong/gnomad-mcp-server",
+  "install": "npx -y gnomad-mcp-server"
+}

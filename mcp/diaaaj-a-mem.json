@@ -1,0 +1,7 @@
+{
+  "name": "diaaaj-a-mem",
+  "description": "Self-evolving memory system with dynamic knowledge graph for AI agents.",
+  "source_repo": "diaaaj/a-mem-mcp",
+  "source_url": "https://github.com/diaaaj/a-mem-mcp",
+  "install": "npx -y a-mem-mcp"
+}

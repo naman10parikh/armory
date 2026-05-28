@@ -1,0 +1,7 @@
+{
+  "name": "akirose-image-recognition",
+  "description": "Provides image recognition and description capabilities for both local files and remote URLs with configurable security controls including path validation, domain restrictions, and file type filtering.",
+  "source_repo": "akirose/image-recognition-mcp",
+  "source_url": "https://github.com/akirose/image-recognition-mcp",
+  "install": "npx -y image-recognition-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-note-taking-ai-mcp",
+  "description": "Python MCP server for note creation, organization, and retrieval.",
+  "source_repo": "csoai-org/note-taking-ai-mcp",
+  "source_url": "https://github.com/csoai-org/note-taking-ai-mcp",
+  "install": "npx -y note-taking-ai-mcp"
+}

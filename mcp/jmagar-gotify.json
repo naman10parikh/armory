@@ -1,0 +1,7 @@
+{
+  "name": "jmagar-gotify",
+  "description": "Send push notifications and manage applications through self-hosted Gotify servers.",
+  "source_repo": "jmagar/gotify-mcp",
+  "source_url": "https://github.com/jmagar/gotify-mcp",
+  "install": "npx -y gotify-mcp"
+}

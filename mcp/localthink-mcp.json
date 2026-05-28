@@ -1,0 +1,7 @@
+{
+  "name": "localthink-mcp",
+  "description": "Enables context compression for Claude Code by offloading large file queries and document processing to Ollama, saving context window tokens.",
+  "source_repo": "H3xabah/Localthink-MCP",
+  "source_url": "https://github.com/H3xabah/Localthink-MCP",
+  "install": "npx -y Localthink-MCP"
+}

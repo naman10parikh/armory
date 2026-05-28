@@ -1,0 +1,7 @@
+{
+  "name": "freepik-mcp",
+  "description": "Freepik Mcp MCP server listed on mcp.so.",
+  "source_repo": "MCERQUA/freepik-mcp",
+  "source_url": "https://mcp.so/server/freepik-mcp/MCERQUA",
+  "install": "npx -y freepik-mcp"
+}

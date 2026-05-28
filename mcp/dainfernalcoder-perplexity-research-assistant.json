@@ -1,0 +1,7 @@
+{
+  "name": "dainfernalcoder-perplexity-research-assistant",
+  "description": "Integrates with Perplexity Sonar Pro API to provide real-time research assistance for developers, enabling efficient documentation retrieval, API discovery, and code analysis",
+  "source_repo": "dainfernalcoder/perplexity-mcp",
+  "source_url": "https://github.com/dainfernalcoder/perplexity-mcp",
+  "install": "npx -y perplexity-mcp"
+}

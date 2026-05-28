@@ -1,0 +1,7 @@
+{
+  "name": "kimi-ai",
+  "description": "Integrates with KIMI AI services through OpenAI-compatible API endpoints, providing text generation using Qwen2.5-72B-Instruct and vision capabilities using Qwen2.5-VL-72B-Instruct for multilingual content creation and image analysis workflows.",
+  "source_repo": "adamleen/mcp-kimi",
+  "source_url": "https://github.com/adamleen/mcp-kimi",
+  "install": "# git clone --depth 1 https://github.com/adamleen/mcp-kimi\n# See source for mcpServers config block"
+}

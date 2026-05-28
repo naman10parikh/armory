@@ -1,0 +1,7 @@
+{
+  "name": "gacha-daily-mcp",
+  "description": "Automates mobile game dailies on BlueStacks via ADB using a dual-LLM architecture with vision and action models, configurable through a web dashboard.",
+  "source_repo": "friedice5467/gacha-daily-mcp",
+  "source_url": "https://github.com/friedice5467/gacha-daily-mcp",
+  "install": "npx -y gacha-daily-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bigph00t-greenlight",
+  "description": "Visual status indicator that displays colored terminal backgrounds to signal AI work progress states",
+  "source_repo": "bigph00t/greenlight",
+  "source_url": "https://github.com/bigph00t/greenlight",
+  "install": "# git clone --depth 1 https://github.com/bigph00t/greenlight\n# See source for mcpServers config block"
+}

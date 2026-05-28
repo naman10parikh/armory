@@ -1,0 +1,7 @@
+{
+  "name": "dice",
+  "description": "Search for tech jobs on Dice.com, a leading technology career platform.",
+  "source_repo": "",
+  "source_url": "https://www.dice.com",
+  "install": "# git clone --depth 1 https://www.dice.com\n# See source for mcpServers config block"
+}

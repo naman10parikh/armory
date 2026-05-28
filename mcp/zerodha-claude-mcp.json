@@ -1,0 +1,7 @@
+{
+  "name": "zerodha-claude-mcp",
+  "description": "Enables AI models to interact with the Zerodha trading platform for portfolio management, trading, and account operations through natural language.",
+  "source_repo": "gamandeepsingh/zerodha-claude-mcp",
+  "source_url": "https://github.com/gamandeepsingh/zerodha-claude-mcp",
+  "install": "npx -y zerodha-claude-mcp"
+}

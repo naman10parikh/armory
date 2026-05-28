@@ -1,0 +1,7 @@
+{
+  "name": "wrg-mcp-server",
+  "description": "An MCP server that exposes a 60+ tool security and threat-intel stack to AI agents, enabling secret scanning, Sigma rule generation, ransomware lookup, OSINT, and deep research.",
+  "source_repo": "WRG-11/wrg-mcp-server",
+  "source_url": "https://github.com/WRG-11/wrg-mcp-server",
+  "install": "npx -y wrg-mcp-server"
+}

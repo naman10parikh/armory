@@ -1,0 +1,7 @@
+{
+  "name": "funwarioisii-cosense",
+  "description": "Integrates Cosense to enable access and interaction with project data for enhanced project management and collaboration workflows.",
+  "source_repo": "funwarioisii/cosense-mcp-server",
+  "source_url": "https://github.com/funwarioisii/cosense-mcp-server",
+  "install": "npx -y cosense-mcp-server"
+}

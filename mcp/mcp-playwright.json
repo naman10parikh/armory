@@ -1,0 +1,7 @@
+{
+  "name": "mcp-playwright",
+  "description": "Provides browser automation capabilities for LLM applications, enabling web page interaction and data extraction via Playwright.",
+  "source_repo": "ma-pony/mcp-playwright",
+  "source_url": "https://github.com/ma-pony/mcp-playwright",
+  "install": "# git clone --depth 1 https://github.com/ma-pony/mcp-playwright\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-devops-ai-mcp",
+  "description": "AI-powered DevOps workflow automation and infrastructure management tools.",
+  "source_repo": "csoai-org/devops-ai-mcp",
+  "source_url": "https://github.com/csoai-org/devops-ai-mcp",
+  "install": "npx -y devops-ai-mcp"
+}

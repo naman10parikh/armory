@@ -1,0 +1,7 @@
+{
+  "name": "h4ck4life-powerpoint",
+  "description": "Enables creation and manipulation of PowerPoint presentations with customizable layouts, themes, and formatting options, saving files to an accessible user directory without requiring manual PowerPoint interaction.",
+  "source_repo": "h4ck4life/mcp-pptx-server",
+  "source_url": "https://github.com/h4ck4life/mcp-pptx-server",
+  "install": "# git clone --depth 1 https://github.com/h4ck4life/mcp-pptx-server\n# See source for mcpServers config block"
+}

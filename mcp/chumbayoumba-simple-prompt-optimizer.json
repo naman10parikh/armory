@@ -1,0 +1,7 @@
+{
+  "name": "chumbayoumba-simple-prompt-optimizer",
+  "description": "Transforms user prompts into optimized versions using the CO-STAR framework with instant improvement and deep critique-and-refine modes.",
+  "source_repo": "chumbayoumba/simple-prompt-optimizer",
+  "source_url": "https://github.com/chumbayoumba/simple-prompt-optimizer",
+  "install": "# git clone --depth 1 https://github.com/chumbayoumba/simple-prompt-optimizer\n# See source for mcpServers config block"
+}

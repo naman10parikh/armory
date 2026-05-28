@@ -1,0 +1,7 @@
+{
+  "name": "marea-alcalina",
+  "description": "AI-powered content and communication platform integration for workflows.",
+  "source_repo": "irvmar/marea-alcalina-mcp-server",
+  "source_url": "https://github.com/irvmar/marea-alcalina-mcp-server",
+  "install": "npx -y marea-alcalina-mcp-server"
+}

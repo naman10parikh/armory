@@ -1,0 +1,7 @@
+{
+  "name": "gh-albertcmiller1-yertle",
+  "description": "Manage diagrams and nodes in the Yertle diagramming application.",
+  "source_repo": "model-context/yertle-mcp",
+  "source_url": "https://github.com/model-context/yertle-mcp",
+  "install": "npx -y yertle-mcp"
+}

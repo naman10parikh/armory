@@ -1,0 +1,7 @@
+{
+  "name": "devinder1-tridentchain-security",
+  "description": "Provides blockchain security analysis and smart contract auditing capabilities.",
+  "source_repo": "devinder1/tridentchain-security",
+  "source_url": "https://github.com/devinder1/tridentchain-security",
+  "install": "# git clone --depth 1 https://github.com/devinder1/tridentchain-security\n# See source for mcpServers config block"
+}

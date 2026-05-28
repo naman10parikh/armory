@@ -1,0 +1,7 @@
+{
+  "name": "n8n-mcp-server",
+  "description": "Allows AI clients to list, inspect, and manage n8n workflows.",
+  "source_repo": "sAndreotti/n8n-MCP",
+  "source_url": "https://github.com/sAndreotti/n8n-MCP",
+  "install": "npx -y n8n-MCP"
+}

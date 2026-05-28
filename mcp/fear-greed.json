@@ -1,0 +1,7 @@
+{
+  "name": "fear-greed",
+  "description": "Provides real-time access to CNN's Fear & Greed Index for US stock market sentiment analysis, retrieving current composite scores and seven individual market indicators including S&P 500 momentum, options ratios, and volatility measures with historical comparisons.",
+  "source_repo": "ycjcl868/mcp-server-fear-greed",
+  "source_url": "https://github.com/ycjcl868/mcp-server-fear-greed",
+  "install": "# git clone --depth 1 https://github.com/ycjcl868/mcp-server-fear-greed\n# See source for mcpServers config block"
+}

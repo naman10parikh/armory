@@ -1,0 +1,7 @@
+{
+  "name": "halans-mcp-server",
+  "description": "Enables querying halans.com content via search, section retrieval, full content, and summaries.",
+  "source_repo": "halans/halans-mcp-server",
+  "source_url": "https://github.com/halans/halans-mcp-server",
+  "install": "npx -y halans-mcp-server"
+}

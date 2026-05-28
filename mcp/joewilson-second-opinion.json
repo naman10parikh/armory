@@ -1,0 +1,7 @@
+{
+  "name": "joewilson-second-opinion",
+  "description": "Synthesizes insights from multiple AI sources to provide enhanced coding assistance with automatic language detection and git-aware context gathering.",
+  "source_repo": "joewilsonai/second-opinion-mcp-server",
+  "source_url": "https://github.com/joewilsonai/second-opinion-mcp-server",
+  "install": "npx -y second-opinion-mcp-server"
+}

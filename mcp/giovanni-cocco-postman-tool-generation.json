@@ -1,0 +1,7 @@
+{
+  "name": "giovanni-cocco-postman-tool-generation",
+  "description": "Integrates with Postman Tool Generation API to convert API collections into type-safe code for AI frameworks, enabling rapid development of AI-powered tools from existing API documentation.",
+  "source_repo": "giovannicocco/mcp-server-postman-tool-generation",
+  "source_url": "https://github.com/giovannicocco/mcp-server-postman-tool-generation",
+  "install": "# git clone --depth 1 https://github.com/giovannicocco/mcp-server-postman-tool-generation\n# See source for mcpServers config block"
+}

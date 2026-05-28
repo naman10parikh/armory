@@ -1,0 +1,7 @@
+{
+  "name": "rightnow-forge",
+  "description": "Turn PyTorch into fast CUDA/Triton kernels on real datacenter GPUs with up to 14x speedup.",
+  "source_repo": "rightnow-ai/forge-mcp-server",
+  "source_url": "https://github.com/rightnow-ai/forge-mcp-server",
+  "install": "npx -y forge-mcp-server"
+}

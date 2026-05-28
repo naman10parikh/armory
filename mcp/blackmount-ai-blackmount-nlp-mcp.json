@@ -1,0 +1,7 @@
+{
+  "name": "blackmount-ai-blackmount-nlp-mcp",
+  "description": "Deterministic local text analysis: sentiment, readability scoring, keyword extraction, text similarity, summarization, and language detection across 18 languages. Pure Python, zero heavy dependencies, 42 KB wheel. Install: `pip install blackmount-nlp-mcp`.",
+  "source_repo": "BlackMount-ai/blackmount-nlp-mcp",
+  "source_url": "https://github.com/BlackMount-ai/blackmount-nlp-mcp",
+  "install": "npx -y blackmount-nlp-mcp"
+}

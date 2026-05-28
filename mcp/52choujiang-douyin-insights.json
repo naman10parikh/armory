@@ -1,0 +1,7 @@
+{
+  "name": "52choujiang-douyin-insights",
+  "description": "Douyin work details, comments, creator profiles, creator work lists, and keyword search via a hosted MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/52choujiang-douyin-insights",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/52choujiang-douyin-insights\n# See source for mcpServers config block"
+}

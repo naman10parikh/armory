@@ -1,0 +1,7 @@
+{
+  "name": "deslicer-splunk",
+  "description": "Integrates with Splunk Enterprise through the Splunk SDK to provide search execution, health monitoring, user management, and alert analysis with automated troubleshooting workflows and OpenAI-powered analysis for DevOps teams and security analysts.",
+  "source_repo": "deslicer/mcp-for-splunk",
+  "source_url": "https://github.com/deslicer/mcp-for-splunk",
+  "install": "# git clone --depth 1 https://github.com/deslicer/mcp-for-splunk\n# See source for mcpServers config block"
+}

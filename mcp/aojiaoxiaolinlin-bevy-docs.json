@@ -1,0 +1,7 @@
+{
+  "name": "aojiaoxiaolinlin-bevy-docs",
+  "description": "Semantic search for Bevy game engine documentation using vector embeddings and Milvus database.",
+  "source_repo": "aojiaoxiaolinlin/docs_mcp",
+  "source_url": "https://github.com/aojiaoxiaolinlin/docs_mcp",
+  "install": "npx -y docs_mcp"
+}

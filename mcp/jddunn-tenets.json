@@ -1,0 +1,7 @@
+{
+  "name": "jddunn-tenets",
+  "description": "Local-first code context aggregation using BM25, TF-IDF, and embeddings with automatic injection of project principles",
+  "source_repo": "jddunn/tenets",
+  "source_url": "https://github.com/jddunn/tenets",
+  "install": "# git clone --depth 1 https://github.com/jddunn/tenets\n# See source for mcpServers config block"
+}

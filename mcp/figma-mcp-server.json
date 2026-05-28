@@ -1,0 +1,7 @@
+{
+  "name": "figma-mcp-server",
+  "description": "Enables Cursor to access Figma design data via MCP, allowing it to fetch simplified layout and styling information to accurately implement designs from Figma files.",
+  "source_repo": "Knightwxch/GLips_Figma-Context-MCP",
+  "source_url": "https://github.com/Knightwxch/GLips_Figma-Context-MCP",
+  "install": "npx -y GLips_Figma-Context-MCP"
+}

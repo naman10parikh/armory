@@ -1,0 +1,7 @@
+{
+  "name": "mharnett-ga4",
+  "description": "Provides MCP access to GA4 for reports, realtime data, custom dimensions, and data streams.",
+  "source_repo": "mharnett/mcp-ga4",
+  "source_url": "https://github.com/mharnett/mcp-ga4",
+  "install": "# git clone --depth 1 https://github.com/mharnett/mcp-ga4\n# See source for mcpServers config block"
+}

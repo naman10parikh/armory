@@ -1,0 +1,7 @@
+{
+  "name": "orbitlabs-team-glowpost",
+  "description": "AI content generation for Blog, Twitter, LinkedIn, Newsletter, and Instagram via the GlowPost platform API.",
+  "source_repo": "orbitlabs-team/glowpost-mcp",
+  "source_url": "https://github.com/orbitlabs-team/glowpost-mcp",
+  "install": "npx -y glowpost-mcp"
+}

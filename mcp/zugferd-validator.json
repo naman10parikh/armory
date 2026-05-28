@@ -1,0 +1,7 @@
+{
+  "name": "zugferd-validator",
+  "description": "Validates ZUGFeRD, Factur-X, and XRechnung e-invoices against EN 16931 with correction suggestions.",
+  "source_repo": "tzatti1/zugferd-validator",
+  "source_url": "https://github.com/tzatti1/zugferd-validator",
+  "install": "# git clone --depth 1 https://github.com/tzatti1/zugferd-validator\n# See source for mcpServers config block"
+}

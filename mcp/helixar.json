@@ -1,0 +1,7 @@
+{
+  "name": "helixar",
+  "description": "AI-powered security tools for scanning MCP servers, validating agentic delegation chains, and auditing release artifacts for secrets and license issues.",
+  "source_repo": "helixar-ai/helixar-mcp",
+  "source_url": "https://github.com/helixar-ai/helixar-mcp",
+  "install": "npx -y helixar-mcp"
+}

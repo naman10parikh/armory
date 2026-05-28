@@ -1,0 +1,7 @@
+{
+  "name": "402-bot-discovery-oracle",
+  "description": "Discovers and ranks live x402 API endpoints by price, trust, and latency, enabling agents to buy routes, inspect providers, and execute paid data fetches on Base mainnet.",
+  "source_repo": "",
+  "source_url": "https://402.bot",
+  "install": "# git clone --depth 1 https://402.bot\n# See source for mcpServers config block"
+}

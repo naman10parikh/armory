@@ -1,0 +1,7 @@
+{
+  "name": "mordavid-bloodhound",
+  "description": "Integrates with BloodHound security tool to analyze Active Directory and Azure environments for attack paths, privilege escalation opportunities, and security misconfigurations through specialized tools for threat hunting and penetration testing.",
+  "source_repo": "mordavid/bloodhound-mcp-ai",
+  "source_url": "https://github.com/mordavid/bloodhound-mcp-ai",
+  "install": "# git clone --depth 1 https://github.com/mordavid/bloodhound-mcp-ai\n# See source for mcpServers config block"
+}

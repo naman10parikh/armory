@@ -1,0 +1,7 @@
+{
+  "name": "influxdata-influxdb3-mcp-server",
+  "description": "Official MCP server for InfluxDB 3 Core/Enterprise/Cloud Dedicated",
+  "source_repo": "influxdata/influxdb3_mcp_server",
+  "source_url": "https://github.com/influxdata/influxdb3_mcp_server",
+  "install": "npx -y influxdb3_mcp_server"
+}

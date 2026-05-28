@@ -1,0 +1,7 @@
+{
+  "name": "riksdag-regering",
+  "description": "Access Swedish Parliament and Government open data - 27 tools for political analysis",
+  "source_repo": "isakskogstad/riksdag-regering-mcp",
+  "source_url": "https://github.com/isakskogstad/riksdag-regering-mcp",
+  "install": "npx -y riksdag-regering-mcp"
+}

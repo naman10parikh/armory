@@ -1,0 +1,7 @@
+{
+  "name": "kirandawadi-volatility3",
+  "description": "Automate memory forensics with Volatility3.",
+  "source_repo": "kirandawadi/volatility3-mcp",
+  "source_url": "https://github.com/kirandawadi/volatility3-mcp",
+  "install": "npx -y volatility3-mcp"
+}

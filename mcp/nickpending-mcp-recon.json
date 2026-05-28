@@ -1,0 +1,7 @@
+{
+  "name": "nickpending-mcp-recon",
+  "description": "Conversational recon interface and MCP server powered by httpx and asnmap. Supports various reconnaissance levels for domain analysis, security header inspection, certificate analysis, and ASN lookup.",
+  "source_repo": "nickpending/mcp-recon",
+  "source_url": "https://github.com/nickpending/mcp-recon",
+  "install": "# git clone --depth 1 https://github.com/nickpending/mcp-recon\n# See source for mcpServers config block"
+}

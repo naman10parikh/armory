@@ -1,0 +1,7 @@
+{
+  "name": "lark-feishu",
+  "description": "Integrates with Feishu/Lark's collaboration suite, enabling AI assistants to interact with productivity tools through the official Node.js SDK.",
+  "source_repo": "larksuite/lark-openapi-mcp",
+  "source_url": "https://github.com/larksuite/lark-openapi-mcp",
+  "install": "npx -y lark-openapi-mcp"
+}

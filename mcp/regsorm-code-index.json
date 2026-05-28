@@ -1,0 +1,7 @@
+{
+  "name": "regsorm-code-index",
+  "description": "Fast code search for AI models: indexes 62K files in 43 seconds with sub-millisecond symbol lookup using Rust and tree-sitter.",
+  "source_repo": "regsorm/code-index-mcp",
+  "source_url": "https://github.com/regsorm/code-index-mcp",
+  "install": "npx -y code-index-mcp"
+}

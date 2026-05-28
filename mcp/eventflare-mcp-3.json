@@ -1,0 +1,7 @@
+{
+  "name": "eventflare-mcp-3",
+  "description": "Search 8,000+ corporate event venues across 40+ cities. Tools for venue search by capacity/category, pricing guides, expert advice articles, and inquiry handoff. Read-only, PII-redacted, UTM-attributed.",
+  "source_repo": "",
+  "source_url": "https://eventflare.io",
+  "install": "# git clone --depth 1 https://eventflare.io\n# See source for mcpServers config block"
+}

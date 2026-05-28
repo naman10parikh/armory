@@ -1,0 +1,7 @@
+{
+  "name": "tsoa-mcp",
+  "description": "TSOA-based Model Context Protocol implementation",
+  "source_repo": "BitHighlander/tsoa-mcp",
+  "source_url": "https://github.com/BitHighlander/tsoa-mcp",
+  "install": "npx -y tsoa-mcp"
+}

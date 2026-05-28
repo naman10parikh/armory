@@ -1,0 +1,7 @@
+{
+  "name": "handshake58-drain-marketplace",
+  "description": "Open marketplace for AI services — LLMs, image/video generation, web scraping, model hosting, data extraction, and more. Agents pay per use with USDC micropayments on Polygon. No API keys, no subscriptions.",
+  "source_repo": "Handshake58/DRAIN-marketplace",
+  "source_url": "https://github.com/Handshake58/DRAIN-marketplace",
+  "install": "# git clone --depth 1 https://github.com/Handshake58/DRAIN-marketplace\n# See source for mcpServers config block"
+}

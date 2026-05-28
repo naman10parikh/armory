@@ -1,0 +1,7 @@
+{
+  "name": "securfi-rapidapi",
+  "description": "Accesse thousands of APIs on the RapidAPI Hub.",
+  "source_repo": "securfi/rapidapi_mcp",
+  "source_url": "https://github.com/securfi/rapidapi_mcp",
+  "install": "npx -y rapidapi_mcp"
+}

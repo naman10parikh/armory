@@ -1,0 +1,7 @@
+{
+  "name": "chaos-mesh-mcp-server",
+  "description": "Enables chaos engineering on Kubernetes clusters by providing tools to inject faults like network delays, pod kills, and HTTP delays, along with cluster inspection and chaos lifecycle management.",
+  "source_repo": "Ausium/chaosmesh-mcp",
+  "source_url": "https://github.com/Ausium/chaosmesh-mcp",
+  "install": "npx -y chaosmesh-mcp"
+}

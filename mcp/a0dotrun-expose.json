@@ -1,0 +1,7 @@
+{
+  "name": "a0dotrun-expose",
+  "description": "Proxy server that enables communication between clients and MCP-compatible services through JSON-RPC, forwarding requests to configured backend URLs while maintaining proper error handling and response formatting.",
+  "source_repo": "deadcodedump/expose",
+  "source_url": "https://github.com/deadcodedump/expose",
+  "install": "# git clone --depth 1 https://github.com/deadcodedump/expose\n# See source for mcpServers config block"
+}

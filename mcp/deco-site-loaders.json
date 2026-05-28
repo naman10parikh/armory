@@ -1,0 +1,7 @@
+{
+  "name": "deco-site-loaders",
+  "description": "Transforms Deco site loaders into dynamic tools by extracting schemas from metadata, enabling seamless discovery and invocation of website capabilities through Server-Sent Events",
+  "source_repo": "deco-sites/mcp",
+  "source_url": "https://github.com/deco-sites/mcp",
+  "install": "# git clone --depth 1 https://github.com/deco-sites/mcp\n# See source for mcpServers config block"
+}

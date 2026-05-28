@@ -1,0 +1,7 @@
+{
+  "name": "agentshield",
+  "description": "Smart contract security for AI agents with verify, monitor, freeze, and x402 payment tools.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/agentshield",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/agentshield\n# See source for mcpServers config block"
+}

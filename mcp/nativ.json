@@ -1,0 +1,7 @@
+{
+  "name": "nativ",
+  "description": "AI-powered localization with translation memory and style guide management.",
+  "source_repo": "nativ-technologies/nativ-mcp",
+  "source_url": "https://github.com/nativ-technologies/nativ-mcp",
+  "install": "npx -y nativ-mcp"
+}

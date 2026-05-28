@@ -1,0 +1,7 @@
+{
+  "name": "starwind-ui",
+  "description": "Bridges AI assistants with the Starwind UI component library, enabling package detection, project initialization, component installation, and documentation retrieval for web development projects.",
+  "source_repo": "starwind-ui/starwind-ui-mcp",
+  "source_url": "https://github.com/starwind-ui/starwind-ui-mcp",
+  "install": "npx -y starwind-ui-mcp"
+}

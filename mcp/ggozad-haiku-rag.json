@@ -1,0 +1,7 @@
+{
+  "name": "ggozad-haiku-rag",
+  "description": "Agentic RAG system powered by LanceDB, Pydantic AI, and Docling",
+  "source_repo": "ggozad/haiku.rag",
+  "source_url": "https://github.com/ggozad/haiku.rag",
+  "install": "# git clone --depth 1 https://github.com/ggozad/haiku.rag\n# See source for mcpServers config block"
+}

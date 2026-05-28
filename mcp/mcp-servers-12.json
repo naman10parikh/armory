@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-12",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "GrandMasterK414/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/GrandMasterK414",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/GrandMasterK414\n# See source for mcpServers config block"
+}

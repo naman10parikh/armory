@@ -1,0 +1,7 @@
+{
+  "name": "adobe-vip-marketplace-docs-mcp-server",
+  "description": "Enables querying and interacting with Adobe VIP Marketplace Partner API documentation through structured tools and prompts, allowing users to search endpoints, validate requests, generate code, and get operational tips.",
+  "source_repo": "softwareone-platform/swo-adobe-vipm-docs-mcp",
+  "source_url": "https://github.com/softwareone-platform/swo-adobe-vipm-docs-mcp",
+  "install": "npx -y swo-adobe-vipm-docs-mcp"
+}

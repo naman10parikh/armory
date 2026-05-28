@@ -1,0 +1,7 @@
+{
+  "name": "gh-dreamingms-kael",
+  "description": "AI-native toolkit with web scraping, image generation, search, and utility tools via hosted endpoint.",
+  "source_repo": "dreamingms/kael-mcp-server",
+  "source_url": "https://github.com/dreamingms/kael-mcp-server",
+  "install": "npx -y kael-mcp-server"
+}

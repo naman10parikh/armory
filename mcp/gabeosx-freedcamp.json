@@ -1,0 +1,7 @@
+{
+  "name": "gabeosx-freedcamp",
+  "description": "Integrates with Freedcamp's task management platform to create, update, list, and delete tasks with bulk operations and secure HMAC-SHA1 authentication.",
+  "source_repo": "gabeosx/freedmcpcamp",
+  "source_url": "https://github.com/gabeosx/freedmcpcamp",
+  "install": "# git clone --depth 1 https://github.com/gabeosx/freedmcpcamp\n# See source for mcpServers config block"
+}

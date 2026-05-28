@@ -1,0 +1,7 @@
+{
+  "name": "srmtech-aquarium-cameras",
+  "description": "MCP server for live aquarium webcam interaction, providing tools to capture snapshots, switch cameras, observe aquatic life, and log observations from Georgia Aquarium feeds.",
+  "source_repo": "srmtech-git/mcp-camera-feeds",
+  "source_url": "https://github.com/srmtech-git/mcp-camera-feeds",
+  "install": "# git clone --depth 1 https://github.com/srmtech-git/mcp-camera-feeds\n# See source for mcpServers config block"
+}

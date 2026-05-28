@@ -1,0 +1,7 @@
+{
+  "name": "praydog-re-engine",
+  "description": "Provides live access to RE Engine game data for inspection, modification, and scripting of game objects and memory in real time.",
+  "source_repo": "praydog/re-engine-mcp",
+  "source_url": "https://github.com/praydog/re-engine-mcp",
+  "install": "npx -y re-engine-mcp"
+}

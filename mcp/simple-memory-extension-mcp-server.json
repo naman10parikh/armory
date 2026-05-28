@@ -1,0 +1,7 @@
+{
+  "name": "simple-memory-extension-mcp-server",
+  "description": "Simple Memory Extension MCP Server MCP server listed on mcp.so.",
+  "source_repo": "gmacev/Simple-Memory-Extension-MCP-Server",
+  "source_url": "https://mcp.so/server/Simple-Memory-Extension-MCP-Server/gmacev",
+  "install": "npx -y Simple-Memory-Extension-MCP-Server"
+}

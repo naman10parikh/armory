@@ -1,0 +1,7 @@
+{
+  "name": "cseguinlz-doubletick-cli",
+  "description": "Email read tracking via Gmail. Send tracked emails, check if they were opened with open count, device, and timing.",
+  "source_repo": "cseguinlz/doubletick-cli",
+  "source_url": "https://github.com/cseguinlz/doubletick-cli",
+  "install": "# git clone --depth 1 https://github.com/cseguinlz/doubletick-cli\n# See source for mcpServers config block"
+}

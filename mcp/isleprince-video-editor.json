@@ -1,0 +1,7 @@
+{
+  "name": "isleprince-video-editor",
+  "description": "MCP server for video editing operations using a Go/FFmpeg backend with a Node.js MCP adapter.",
+  "source_repo": "isleprince/video-editor-mcp",
+  "source_url": "https://github.com/isleprince/video-editor-mcp",
+  "install": "npx -y video-editor-mcp"
+}

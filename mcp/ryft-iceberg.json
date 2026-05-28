@@ -1,0 +1,7 @@
+{
+  "name": "ryft-iceberg",
+  "description": "Provides direct access to Apache Iceberg tables stored in AWS, enabling exploration of catalogs, schemas, properties, and partition information without complex queries or code.",
+  "source_repo": "ryft-io/iceberg-mcp",
+  "source_url": "https://github.com/ryft-io/iceberg-mcp",
+  "install": "npx -y iceberg-mcp"
+}

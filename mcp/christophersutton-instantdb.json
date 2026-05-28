@@ -1,0 +1,7 @@
+{
+  "name": "christophersutton-instantdb",
+  "description": "Provides a robust InstantDB server for executing database queries, retrieving results, and serving code examples across admin, CLI, and data modeling contexts.",
+  "source_repo": "christophersutton/instantdb-mcp",
+  "source_url": "https://github.com/christophersutton/instantdb-mcp",
+  "install": "npx -y instantdb-mcp"
+}

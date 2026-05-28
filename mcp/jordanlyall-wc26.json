@@ -1,0 +1,7 @@
+{
+  "name": "jordanlyall-wc26",
+  "description": "FIFA World Cup 2026 data and information.",
+  "source_repo": "jordanlyall/wc26-mcp",
+  "source_url": "https://github.com/jordanlyall/wc26-mcp",
+  "install": "npx -y wc26-mcp"
+}

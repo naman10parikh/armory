@@ -1,0 +1,7 @@
+{
+  "name": "securechaindev-secure-chain",
+  "description": "Integrates with vulnerability databases and dependency graphs to provide software supply chain security assessment through package status checking, vulnerability lookup, exploit information retrieval, and CWE analysis across multiple package managers.",
+  "source_repo": "securechaindev/securechain-mcp-server",
+  "source_url": "https://github.com/securechaindev/securechain-mcp-server",
+  "install": "npx -y securechain-mcp-server"
+}

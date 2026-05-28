@@ -1,0 +1,7 @@
+{
+  "name": "jxoesneon-gemini-audio",
+  "description": "Audio, music, and voice generation via Google Gemini 2.5 and Lyria 3 models.",
+  "source_repo": "jxoesneon/gemini-audio-mcp",
+  "source_url": "https://github.com/jxoesneon/gemini-audio-mcp",
+  "install": "npx -y gemini-audio-mcp"
+}

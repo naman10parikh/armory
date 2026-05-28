@@ -1,0 +1,7 @@
+{
+  "name": "database-mcp-server",
+  "description": "Database_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "georgi-terziyski/database_mcp_server",
+  "source_url": "https://mcp.so/server/database_mcp_server/georgi-terziyski",
+  "install": "npx -y database_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "overpod-mcp-telegram",
+  "description": "Telegram MCP server via MTProto/GramJS — 20 tools for reading chats, searching messages, downloading media, managing contacts. QR code login, npx zero-install. Hosted version at mcp-telegram.com.",
+  "source_repo": "overpod/mcp-telegram",
+  "source_url": "https://github.com/overpod/mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/overpod/mcp-telegram\n# See source for mcpServers config block"
+}

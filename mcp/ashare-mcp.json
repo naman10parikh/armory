@@ -1,0 +1,7 @@
+{
+  "name": "ashare-mcp",
+  "description": "An MCP server that exposes all 23 baostock data endpoints as tools, including K-line, quarterly financials, performance reports, dividends, industry classification, index constituents, and macro series.",
+  "source_repo": "maimai-hqw/ashare-mcp",
+  "source_url": "https://github.com/maimai-hqw/ashare-mcp",
+  "install": "npx -y ashare-mcp"
+}

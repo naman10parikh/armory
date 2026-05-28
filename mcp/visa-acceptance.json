@@ -1,0 +1,7 @@
+{
+  "name": "visa-acceptance",
+  "description": "Integrates with Visa Acceptance payment APIs to enable invoice management, payment link creation, and Cybersource-backed payment processing for automated billing workflows.",
+  "source_repo": "visaacceptance/agent-toolkit",
+  "source_url": "https://github.com/visaacceptance/agent-toolkit",
+  "install": "# git clone --depth 1 https://github.com/visaacceptance/agent-toolkit\n# See source for mcpServers config block"
+}

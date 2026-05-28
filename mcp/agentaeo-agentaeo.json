@@ -1,0 +1,7 @@
+{
+  "name": "agentaeo-agentaeo",
+  "description": "Answer Engine Optimization audit measuring brand visibility across ChatGPT, Perplexity, Claude, and Google AI.",
+  "source_repo": "agentaeo/agentaeo-mcp-server",
+  "source_url": "https://github.com/agentaeo/agentaeo-mcp-server",
+  "install": "npx -y agentaeo-mcp-server"
+}

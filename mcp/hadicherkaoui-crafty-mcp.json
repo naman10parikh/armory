@@ -1,0 +1,7 @@
+{
+  "name": "hadicherkaoui-crafty-mcp",
+  "description": "MCP server for managing Minecraft servers through [Crafty Controller 4](https://craftycontrol.com). Start, stop, backup, send commands, manage files, schedules, webhooks, and users via the Crafty API.",
+  "source_repo": "HadiCherkaoui/crafty-mcp",
+  "source_url": "https://github.com/HadiCherkaoui/crafty-mcp",
+  "install": "npx -y crafty-mcp"
+}

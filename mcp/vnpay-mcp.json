@@ -1,0 +1,7 @@
+{
+  "name": "vnpay-mcp",
+  "description": "MCP server for VNPay payment gateway (Vietnam). Supports payment URL generation, transaction queries, refunds, tokenized payments, and IPN verification with HMAC-SHA512 signing.",
+  "source_repo": "theYahia/vnpay-mcp",
+  "source_url": "https://github.com/theYahia/vnpay-mcp",
+  "install": "npx -y vnpay-mcp"
+}

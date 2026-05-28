@@ -1,0 +1,7 @@
+{
+  "name": "css-mcp-server",
+  "description": "Enables CSS analysis with 150+ metrics, MDN documentation retrieval, and browser compatibility checks for CSS properties.",
+  "source_repo": "lesleslie/css-mcp",
+  "source_url": "https://github.com/lesleslie/css-mcp",
+  "install": "npx -y css-mcp"
+}

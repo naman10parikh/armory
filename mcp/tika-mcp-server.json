@@ -1,0 +1,7 @@
+{
+  "name": "tika-mcp-server",
+  "description": "Extracts text and metadata from various file formats (PDF, DOCX, images with OCR) using Apache Tika, enabling AI assistants to understand file contents.",
+  "source_repo": "daveyproctor/tika-mcp",
+  "source_url": "https://github.com/daveyproctor/tika-mcp",
+  "install": "npx -y tika-mcp"
+}

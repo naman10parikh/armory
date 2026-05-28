@@ -1,0 +1,7 @@
+{
+  "name": "setkyar-youtube-subtitles",
+  "description": "Integrates with YouTube to enable subtitle retrieval and analysis for content summarization, translation, or accessibility enhancement.",
+  "source_repo": "setkyar/youtube-subtitles-mcp",
+  "source_url": "https://github.com/setkyar/youtube-subtitles-mcp",
+  "install": "npx -y youtube-subtitles-mcp"
+}

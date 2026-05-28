@@ -1,0 +1,7 @@
+{
+  "name": "vicon-datastream-mcp-server",
+  "description": "Enables AI agents and LLMs to interact with Vicon motion capture systems for real-time streaming of kinematic data, markers, force plates, eye trackers, and camera calibration.",
+  "source_repo": "ros-claw/vicon-datastream-mcp",
+  "source_url": "https://github.com/ros-claw/vicon-datastream-mcp",
+  "install": "npx -y vicon-datastream-mcp"
+}

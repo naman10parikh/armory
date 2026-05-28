@@ -1,0 +1,7 @@
+{
+  "name": "victoryintech-token-oracle",
+  "description": "LLM cost estimation, model comparison, and budget-aware routing for AI agent workflows.",
+  "source_repo": "victoryintech/tokenoracle-mcp",
+  "source_url": "https://github.com/victoryintech/tokenoracle-mcp",
+  "install": "npx -y tokenoracle-mcp"
+}

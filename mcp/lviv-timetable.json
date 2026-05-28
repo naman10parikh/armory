@@ -1,0 +1,7 @@
+{
+  "name": "lviv-timetable",
+  "description": "Real-time Lviv public transport stops, routes, vehicle positions, and terminus timetables.",
+  "source_repo": "vbhjckfd/timetable-api-node",
+  "source_url": "https://github.com/vbhjckfd/timetable-api-node",
+  "install": "# git clone --depth 1 https://github.com/vbhjckfd/timetable-api-node\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rdm9x-devboard",
+  "description": "AI dev team orchestration platform with a kanban board powered by the pride-tasks MCP server for task state management across agents.",
+  "source_repo": "rdm9x/devboard",
+  "source_url": "https://github.com/rdm9x/devboard",
+  "install": "# git clone --depth 1 https://github.com/rdm9x/devboard\n# See source for mcpServers config block"
+}

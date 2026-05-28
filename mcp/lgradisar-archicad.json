@@ -1,0 +1,7 @@
+{
+  "name": "lgradisar-archicad",
+  "description": "Integrates with ArchiCAD's Tapir command system to enable architectural modeling operations, element manipulation, and project management tasks within CAD workflows.",
+  "source_repo": "lgradisar/archicad-mcp",
+  "source_url": "https://github.com/lgradisar/archicad-mcp",
+  "install": "npx -y archicad-mcp"
+}

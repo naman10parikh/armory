@@ -1,0 +1,7 @@
+{
+  "name": "suno-mcp",
+  "description": "Enables AI music generation via Suno AI, allowing users to generate tracks with prompts and styles, and download them as MP3.",
+  "source_repo": "Gabrielbief/suno-mcp",
+  "source_url": "https://github.com/Gabrielbief/suno-mcp",
+  "install": "npx -y suno-mcp"
+}

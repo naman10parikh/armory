@@ -1,0 +1,7 @@
+{
+  "name": "rockyale-zerion",
+  "description": "Access Zerion crypto portfolio data including wallets, transactions, NFTs, and swaps across EVM, Solana, and Bitcoin.",
+  "source_repo": "rockyale/zerion-mcp",
+  "source_url": "https://github.com/rockyale/zerion-mcp",
+  "install": "npx -y zerion-mcp"
+}

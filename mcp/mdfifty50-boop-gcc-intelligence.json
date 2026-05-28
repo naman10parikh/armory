@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-gcc-intelligence",
+  "description": "GCC regulatory intelligence for ZATCA e-invoicing compliance and Arabic NLP.",
+  "source_repo": "mdfifty50-boop/gcc-intelligence-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/gcc-intelligence-mcp",
+  "install": "npx -y gcc-intelligence-mcp"
+}

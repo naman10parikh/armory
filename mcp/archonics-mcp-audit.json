@@ -1,0 +1,7 @@
+{
+  "name": "archonics-mcp-audit",
+  "description": "Context-engineering audits for AI agents, surfacing the top 3 issues per scan.",
+  "source_repo": "archonics/mcp-audit",
+  "source_url": "https://github.com/archonics/mcp-audit",
+  "install": "# git clone --depth 1 https://github.com/archonics/mcp-audit\n# See source for mcpServers config block"
+}

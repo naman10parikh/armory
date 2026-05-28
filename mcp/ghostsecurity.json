@@ -1,0 +1,7 @@
+{
+  "name": "ghostsecurity",
+  "description": "Provides programmatic access to Ghost Security's application security platform",
+  "source_repo": "ghostsecurity/ghost-mcp-server",
+  "source_url": "https://github.com/ghostsecurity/ghost-mcp-server",
+  "install": "npx -y ghost-mcp-server"
+}

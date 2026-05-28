@@ -1,0 +1,7 @@
+{
+  "name": "msty-admin-mcp",
+  "description": "Comprehensive MCP server for administering Msty Studio Desktop with 36 tools across 6 phases, Bloom behavioral evaluation, and support for four service backends.",
+  "source_repo": "M-Pineapple/msty-admin-mcp",
+  "source_url": "https://github.com/M-Pineapple/msty-admin-mcp",
+  "install": "npx -y msty-admin-mcp"
+}

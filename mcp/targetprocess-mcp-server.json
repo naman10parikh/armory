@@ -1,0 +1,7 @@
+{
+  "name": "targetprocess-mcp-server",
+  "description": "Enables AI assistants to interact with Targetprocess for search, create, update, and query of entities like User Stories and Bugs, with support for complex filters and data model discovery.",
+  "source_repo": "rawnly/apptio-target-process-mcp",
+  "source_url": "https://github.com/rawnly/apptio-target-process-mcp",
+  "install": "npx -y apptio-target-process-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "espadaw-agent47",
+  "description": "Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).",
+  "source_repo": "espadaw/Agent47",
+  "source_url": "https://github.com/espadaw/Agent47",
+  "install": "# git clone --depth 1 https://github.com/espadaw/Agent47\n# See source for mcpServers config block"
+}

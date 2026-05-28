@@ -1,0 +1,7 @@
+{
+  "name": "pocketbase-mcp-server",
+  "description": "Enables AI assistants and MCP clients to interact with PocketBase databases for authentication, data management, and administrative operations.",
+  "source_repo": "ssakone/pb_mcp_server",
+  "source_url": "https://github.com/ssakone/pb_mcp_server",
+  "install": "npx -y pb_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "emilianorojas-sql-server-reviewer",
+  "description": "Read-only MCP server for SQL Server database analysis with 9 tools for schema inspection, stored procedure review, dependency mapping, and index analysis.",
+  "source_repo": "emilianorojas/peekdb-mcp",
+  "source_url": "https://github.com/emilianorojas/peekdb-mcp",
+  "install": "npx -y peekdb-mcp"
+}

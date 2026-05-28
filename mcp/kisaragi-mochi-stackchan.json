@@ -1,0 +1,7 @@
+{
+  "name": "kisaragi-mochi-stackchan",
+  "description": "Control StackChan ESP32 robot via MCP with 12 tools for head movement, photos, touch sensors, and avatar expressions.",
+  "source_repo": "kisaragi-mochi/stackchan-mcp",
+  "source_url": "https://github.com/kisaragi-mochi/stackchan-mcp",
+  "install": "npx -y stackchan-mcp"
+}

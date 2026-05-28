@@ -1,0 +1,7 @@
+{
+  "name": "algonacci-tavily-search58d0",
+  "description": "Integrates with the Tavily API to provide web search capabilities, enabling internet searches and fact-checking for up-to-date information retrieval.",
+  "source_repo": "algonacci/mcp-tavily-search",
+  "source_url": "https://github.com/algonacci/mcp-tavily-search",
+  "install": "# git clone --depth 1 https://github.com/algonacci/mcp-tavily-search\n# See source for mcpServers config block"
+}

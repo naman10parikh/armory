@@ -1,0 +1,7 @@
+{
+  "name": "thinking-bzf-mongo",
+  "description": "Enables natural language interaction with MongoDB databases for collection management, document operations, and index manipulation without writing complex queries.",
+  "source_repo": "thinking-bzf/mongo-mcp-go",
+  "source_url": "https://github.com/thinking-bzf/mongo-mcp-go",
+  "install": "# git clone --depth 1 https://github.com/thinking-bzf/mongo-mcp-go\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dnsdumpster",
+  "description": "Mcp Dnsdumpster MCP server listed on mcp.so.",
+  "source_repo": "MaxWeeden/mcp-dnsdumpster",
+  "source_url": "https://mcp.so/server/mcp-dnsdumpster/MaxWeeden",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-dnsdumpster/MaxWeeden\n# See source for mcpServers config block"
+}

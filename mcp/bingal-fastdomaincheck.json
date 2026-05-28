@@ -1,0 +1,7 @@
+{
+  "name": "bingal-fastdomaincheck",
+  "description": "Provides bulk domain registration status checking through WHOIS and DNS queries, supporting up to 50 domains simultaneously with dual verification methods for reliable availability assessment.",
+  "source_repo": "bingal/fastdomaincheck-mcp-server",
+  "source_url": "https://github.com/bingal/fastdomaincheck-mcp-server",
+  "install": "npx -y fastdomaincheck-mcp-server"
+}

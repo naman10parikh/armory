@@ -1,0 +1,7 @@
+{
+  "name": "oil-gas-rag",
+  "description": "Provides oil and gas industry data access through MySQL storage with drilling events, production data, purchase orders, timeseries analytics, work orders, and HSSE incidents, plus document search via hybrid vector/full-text retrieval and anomaly detection using z-score analysis.",
+  "source_repo": "kukuhtw/mcp_rag_go",
+  "source_url": "https://github.com/kukuhtw/mcp_rag_go",
+  "install": "# git clone --depth 1 https://github.com/kukuhtw/mcp_rag_go\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-timmx7-styx",
+  "description": "Self-hosted AI gateway that routes requests across OpenAI, Anthropic, Google, and Mistral through one universal endpoint.",
+  "source_repo": "timmx7/styx",
+  "source_url": "https://github.com/timmx7/styx/tree/HEAD/styx-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/timmx7/styx/tree/HEAD/styx-mcp-server\n# See source for mcpServers config block"
+}

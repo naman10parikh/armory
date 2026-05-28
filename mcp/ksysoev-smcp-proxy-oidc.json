@@ -1,0 +1,7 @@
+{
+  "name": "ksysoev-smcp-proxy-oidc",
+  "description": "Secure reverse proxy for MCP servers that adds OIDC authentication and authorization, supporting multiple backend configurations with path-based routing and metrics collection.",
+  "source_repo": "ksysoev/smcp-proxy",
+  "source_url": "https://github.com/ksysoev/smcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/ksysoev/smcp-proxy\n# See source for mcpServers config block"
+}

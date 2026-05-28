@@ -1,0 +1,7 @@
+{
+  "name": "bringyour",
+  "description": "Migrate AI agent configurations between 13 tools or bootstrap a new harness from GitHub.",
+  "source_repo": "",
+  "source_url": "https://bringyour.ai/mcp",
+  "install": "# git clone --depth 1 https://bringyour.ai/mcp\n# See source for mcpServers config block"
+}

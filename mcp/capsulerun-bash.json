@@ -1,0 +1,7 @@
+{
+  "name": "capsulerun-bash",
+  "description": "Sandboxed bash for agents. Run untrusted commands in WebAssembly sandboxes with no setup required.",
+  "source_repo": "capsulerun/bash",
+  "source_url": "https://github.com/capsulerun/bash/tree/main/packages/bash-mcp",
+  "install": "# git clone --depth 1 https://github.com/capsulerun/bash/tree/main/packages/bash-mcp\n# See source for mcpServers config block"
+}

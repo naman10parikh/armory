@@ -1,0 +1,7 @@
+{
+  "name": "aarons22-paprika-recipes",
+  "description": "MCP server for accessing Paprika recipe manager, enabling AI assistants to search, read, and manage recipes and meal plans.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/aarons22-paprika-recipes",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/aarons22-paprika-recipes\n# See source for mcpServers config block"
+}

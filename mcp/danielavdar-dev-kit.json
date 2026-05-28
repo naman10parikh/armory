@@ -1,0 +1,7 @@
+{
+  "name": "danielavdar-dev-kit",
+  "description": "Transforms any codebase into a secure development environment with scoped file operations, Git repository management, Makefile execution, and code exploration tools while enforcing strict path validation to prevent unauthorized access outside the project directory.",
+  "source_repo": "danielavdar/dev-kit-mcp-server",
+  "source_url": "https://github.com/danielavdar/dev-kit-mcp-server",
+  "install": "npx -y dev-kit-mcp-server"
+}

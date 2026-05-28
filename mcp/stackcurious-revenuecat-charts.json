@@ -1,0 +1,7 @@
+{
+  "name": "stackcurious-revenuecat-charts",
+  "description": "MCP server for querying RevenueCat subscription analytics including MRR, churn, trial conversion rates, and 21 chart types.",
+  "source_repo": "stackcurious/revenuecat-charts-mcp",
+  "source_url": "https://github.com/stackcurious/revenuecat-charts-mcp",
+  "install": "npx -y revenuecat-charts-mcp"
+}

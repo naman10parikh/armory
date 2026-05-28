@@ -1,0 +1,7 @@
+{
+  "name": "bruchris-canvas-lms",
+  "description": "TypeScript MCP server for Canvas LMS with 115 tools across courses, assignments, gradebook, and more.",
+  "source_repo": "bruchris/canvas-lms-mcp",
+  "source_url": "https://github.com/bruchris/canvas-lms-mcp",
+  "install": "npx -y canvas-lms-mcp"
+}

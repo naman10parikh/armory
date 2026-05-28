@@ -1,0 +1,7 @@
+{
+  "name": "sgunk13-kuriflow",
+  "description": "Community MCP for Kuriflow, enabling AI agents to save tasks as repeatable automated workflows triggered by email, schedule, or file upload.",
+  "source_repo": "sgunk13/kuriflow-mcp",
+  "source_url": "https://github.com/sgunk13/kuriflow-mcp",
+  "install": "npx -y kuriflow-mcp"
+}

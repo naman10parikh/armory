@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-knowbe4",
+  "description": "Community MCP integration for KnowBe4, enabling AI agents to manage security awareness training and phishing campaigns.",
+  "source_repo": "wyre-technology/knowbe4-mcp",
+  "source_url": "https://github.com/wyre-technology/knowbe4-mcp",
+  "install": "npx -y knowbe4-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "r3-yamauchi-cdata-connect-cloud",
+  "description": "Integrates with CData Connect Cloud to enable SQL query execution across diverse data sources, facilitating seamless data integration for analytics and workflows.",
+  "source_repo": "r3-yamauchi/cdata-connect-cloud-mcp-server",
+  "source_url": "https://github.com/r3-yamauchi/cdata-connect-cloud-mcp-server",
+  "install": "npx -y cdata-connect-cloud-mcp-server"
+}

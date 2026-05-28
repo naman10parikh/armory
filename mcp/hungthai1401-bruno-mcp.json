@@ -1,0 +1,7 @@
+{
+  "name": "hungthai1401-bruno-mcp",
+  "description": "A MCP server for interacting with [Bruno API Client](https://www.usebruno.com/).",
+  "source_repo": "hungthai1401/bruno-mcp",
+  "source_url": "https://github.com/hungthai1401/bruno-mcp",
+  "install": "npx -y bruno-mcp"
+}

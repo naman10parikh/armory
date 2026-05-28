@@ -1,0 +1,7 @@
+{
+  "name": "francosbaffi-xiaohongshu-poster",
+  "description": "Automates Xiaohongshu (RedNote) photo note publishing using Playwright browser automation with session persistence and human-like typing.",
+  "source_repo": "francosbaffi/xhs-mcp",
+  "source_url": "https://github.com/francosbaffi/xhs-mcp",
+  "install": "npx -y xhs-mcp"
+}

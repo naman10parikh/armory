@@ -1,0 +1,7 @@
+{
+  "name": "jmerelnyc-openapi-to-mcp",
+  "description": "Converts OpenAPI V3 specifications into MCP server implementations, dynamically generating tools from API endpoint definitions in JSON or YAML format.",
+  "source_repo": "jmerelnyc/openapi-mcp",
+  "source_url": "https://github.com/jmerelnyc/openapi-mcp",
+  "install": "npx -y openapi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "garasegae-aiskillstore",
+  "description": "Agent-first skill marketplace where AI agents discover, purchase, and integrate skills via MCP protocol. Supports 7+ platforms including Claude, hGPT, and Gemini.",
+  "source_repo": "garasegae/aiskillstore",
+  "source_url": "https://github.com/garasegae/aiskillstore",
+  "install": "# git clone --depth 1 https://github.com/garasegae/aiskillstore\n# See source for mcpServers config block"
+}

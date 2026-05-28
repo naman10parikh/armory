@@ -1,0 +1,7 @@
+{
+  "name": "vtlk-tradingview-pinescript-backtest",
+  "description": "Runs TradingView PineScript strategy backtests and returns performance metrics.",
+  "source_repo": "vtlk/tv-pinescript-backtest-engine-mcp",
+  "source_url": "https://github.com/vtlk/tv-pinescript-backtest-engine-mcp",
+  "install": "npx -y tv-pinescript-backtest-engine-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mongodb-mcp-server-2",
+  "description": "A Model Context Protocol (MCP) server for MongoDB operations, enabling AI assistants to interact with MongoDB databases through a standardized interface.",
+  "source_repo": "az-coder-123/mongodb-mcp",
+  "source_url": "https://github.com/az-coder-123/mongodb-mcp",
+  "install": "npx -y mongodb-mcp"
+}

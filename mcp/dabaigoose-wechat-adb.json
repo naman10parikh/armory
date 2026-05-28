@@ -1,0 +1,7 @@
+{
+  "name": "dabaigoose-wechat-adb",
+  "description": "Automates WeChat messaging and screenshot capture through ADB connectivity to Android devices and emulators, enabling bulk messaging workflows and customer service automation via direct mobile interface control.",
+  "source_repo": "dabaigoose/mcp-wechat-adb-server",
+  "source_url": "https://github.com/dabaigoose/mcp-wechat-adb-server",
+  "install": "# git clone --depth 1 https://github.com/dabaigoose/mcp-wechat-adb-server\n# See source for mcpServers config block"
+}

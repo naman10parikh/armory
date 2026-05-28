@@ -1,0 +1,7 @@
+{
+  "name": "maitreyam-technical-documentation-search",
+  "description": "Provides AI assistants with access to technical documentation from LangChain, LlamaIndex, and OpenAI libraries through a specialized search tool that leverages the Brave Search API to find, fetch, and extract relevant content.",
+  "source_repo": "maitreyam/documentation-fetching-mcp-server",
+  "source_url": "https://github.com/maitreyam/documentation-fetching-mcp-server",
+  "install": "npx -y documentation-fetching-mcp-server"
+}

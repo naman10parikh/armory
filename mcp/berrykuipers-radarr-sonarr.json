@@ -1,0 +1,7 @@
+{
+  "name": "berrykuipers-radarr-sonarr",
+  "description": "Integrates with Radarr and Sonarr to enable natural language querying and filtering of movie and TV show collections by various criteria like year, watched status, and actors.",
+  "source_repo": "berrykuipers/mcp_services_radarr_sonarr",
+  "source_url": "https://github.com/berrykuipers/mcp_services_radarr_sonarr",
+  "install": "# git clone --depth 1 https://github.com/berrykuipers/mcp_services_radarr_sonarr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eax3010-postgres",
+  "description": "Provides secure PostgreSQL database operations with comprehensive safety guards, audit logging, and multi-database connection management.",
+  "source_repo": "eax3010/postgres-mcp",
+  "source_url": "https://github.com/eax3010/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

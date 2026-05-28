@@ -1,0 +1,7 @@
+{
+  "name": "humansean-bocha",
+  "description": "Enables AI to perform web searches with customizable parameters including freshness filters, domain controls, and result summarization for retrieving up-to-date information from the internet.",
+  "source_repo": "intounknown/mcp-bocha",
+  "source_url": "https://github.com/intounknown/mcp-bocha",
+  "install": "# git clone --depth 1 https://github.com/intounknown/mcp-bocha\n# See source for mcpServers config block"
+}

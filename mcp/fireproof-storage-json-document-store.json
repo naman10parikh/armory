@@ -1,0 +1,7 @@
+{
+  "name": "fireproof-storage-json-document-store",
+  "description": "Fireproof database integration for a flexible JSON document store with CRUD operations.",
+  "source_repo": "fireproof-storage/mcp-database-server",
+  "source_url": "https://github.com/fireproof-storage/mcp-database-server",
+  "install": "# git clone --depth 1 https://github.com/fireproof-storage/mcp-database-server\n# See source for mcpServers config block"
+}

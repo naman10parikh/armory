@@ -1,0 +1,7 @@
+{
+  "name": "mb-dev-macos-ui-automation",
+  "description": "Enables desktop automation on macOS through native accessibility APIs for clicking UI elements, typing text, taking screenshots, and navigating application interfaces via natural language commands.",
+  "source_repo": "mb-dev/macos-ui-automation-mcp",
+  "source_url": "https://github.com/mb-dev/macos-ui-automation-mcp",
+  "install": "npx -y macos-ui-automation-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "factorio-ai-companion",
+  "description": "Bidirectional chat bridge between Factorio and Claude Code via MCP protocol, enabling players to send /companion commands and receive AI responses.",
+  "source_repo": "lveillard/factorio-ai-companion",
+  "source_url": "https://github.com/lveillard/factorio-ai-companion",
+  "install": "# git clone --depth 1 https://github.com/lveillard/factorio-ai-companion\n# See source for mcpServers config block"
+}

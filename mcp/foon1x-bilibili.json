@@ -1,0 +1,7 @@
+{
+  "name": "foon1x-bilibili",
+  "description": "Integrates with Bilibili's search API to find videos, users, and content on China's popular video platform by keyword with structured results.",
+  "source_repo": "foon1x/mymcp",
+  "source_url": "https://github.com/foon1x/mymcp",
+  "install": "# git clone --depth 1 https://github.com/foon1x/mymcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lvcoi-solidjskills",
+  "description": "Provides document browsing tools for a curated repository of SolidJS development guides, skills, and templates covering component building, refactoring, code review, and scaffolding.",
+  "source_repo": "lvcoi/solidjskills",
+  "source_url": "https://github.com/lvcoi/solidjskills",
+  "install": "# git clone --depth 1 https://github.com/lvcoi/solidjskills\n# See source for mcpServers config block"
+}

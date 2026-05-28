@@ -1,0 +1,7 @@
+{
+  "name": "hoshinonyaruko-gensokyo",
+  "description": "Bridges chat bot platforms with cross-platform support for message processing, WebSocket connectivity, and media handling across Linux, macOS, Windows, and Android environments.",
+  "source_repo": "hoshinonyaruko/gensokyo-mcp",
+  "source_url": "https://github.com/hoshinonyaruko/gensokyo-mcp",
+  "install": "npx -y gensokyo-mcp"
+}

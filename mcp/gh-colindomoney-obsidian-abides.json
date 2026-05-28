@@ -1,0 +1,7 @@
+{
+  "name": "gh-colindomoney-obsidian-abides",
+  "description": "Browse, read, write, and tag notes in Obsidian vaults via Local REST API.",
+  "source_repo": "colindomoney/abides-obsidian-mcp",
+  "source_url": "https://github.com/colindomoney/abides-obsidian-mcp",
+  "install": "npx -y abides-obsidian-mcp"
+}

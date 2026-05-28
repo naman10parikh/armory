@@ -1,0 +1,7 @@
+{
+  "name": "circle-mcp-server-2",
+  "description": "Operate and audit your Circle.so community from Claude with tools for spaces, posts, members, comments, health snapshots, and controlled content actions.",
+  "source_repo": "iamnortey/circle-mcp-server",
+  "source_url": "https://github.com/iamnortey/circle-mcp-server",
+  "install": "npx -y circle-mcp-server"
+}

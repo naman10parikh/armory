@@ -1,0 +1,7 @@
+{
+  "name": "paulieb14-subgraph-registry",
+  "description": "Pre-computed index of 15,500+ subgraphs on The Graph Network with domain classification, protocol type detection, schema fingerprinting, and reliability scoring.",
+  "source_repo": "paulieb14/subgraph-registry",
+  "source_url": "https://github.com/paulieb14/subgraph-registry",
+  "install": "# git clone --depth 1 https://github.com/paulieb14/subgraph-registry\n# See source for mcpServers config block"
+}

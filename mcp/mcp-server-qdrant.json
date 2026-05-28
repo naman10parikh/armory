@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-qdrant",
+  "description": "Mcp Server Qdrant MCP server listed on mcp.so.",
+  "source_repo": "Jimmy974/mcp-server-qdrant",
+  "source_url": "https://mcp.so/server/mcp-server-qdrant/Jimmy974",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-qdrant/Jimmy974\n# See source for mcpServers config block"
+}

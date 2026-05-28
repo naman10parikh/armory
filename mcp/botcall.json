@@ -1,0 +1,7 @@
+{
+  "name": "botcall",
+  "description": "Provision real phone numbers, receive SMS messages, and extract verification codes for automated workflows.",
+  "source_repo": "danecodes/botcall-mcp",
+  "source_url": "https://github.com/danecodes/botcall-mcp",
+  "install": "npx -y botcall-mcp"
+}

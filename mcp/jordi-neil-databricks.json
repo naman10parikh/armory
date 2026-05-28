@@ -1,0 +1,7 @@
+{
+  "name": "jordi-neil-databricks",
+  "description": "Bridges Claude with Databricks environments, enabling natural language interaction with SQL warehouses and job management systems through FastAPI-based tools for running queries, listing jobs, and retrieving detailed information.",
+  "source_repo": "jordineil/mcp-databricks-server",
+  "source_url": "https://github.com/jordineil/mcp-databricks-server",
+  "install": "# git clone --depth 1 https://github.com/jordineil/mcp-databricks-server\n# See source for mcpServers config block"
+}

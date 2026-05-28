@@ -1,0 +1,7 @@
+{
+  "name": "gh-njoerd114-kubecon-eu-2026",
+  "description": "Agentic schedule planner and conference guide for KubeCon + CloudNativeCon Europe 2026 with live session data, party optimizer, and travel logistics.",
+  "source_repo": "njoerd114/kubecon-eu-mcp",
+  "source_url": "https://github.com/njoerd114/kubecon-eu-mcp",
+  "install": "npx -y kubecon-eu-mcp"
+}

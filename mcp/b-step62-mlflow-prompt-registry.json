@@ -1,0 +1,7 @@
+{
+  "name": "b-step62-mlflow-prompt-registry",
+  "description": "Bridges MLflow's Prompt Registry with Claude Desktop, enabling direct discovery and use of managed prompt templates with variable substitution capabilities.",
+  "source_repo": "b-step62/mcp-server-mlflow",
+  "source_url": "https://github.com/b-step62/mcp-server-mlflow",
+  "install": "# git clone --depth 1 https://github.com/b-step62/mcp-server-mlflow\n# See source for mcpServers config block"
+}

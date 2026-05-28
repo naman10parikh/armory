@@ -1,0 +1,7 @@
+{
+  "name": "tacit-code-zenoti",
+  "description": "Connects AI agents to the Zenoti spa and wellness management API.",
+  "source_repo": "tacit-code/zenoti-mcp-server",
+  "source_url": "https://github.com/tacit-code/zenoti-mcp-server",
+  "install": "npx -y zenoti-mcp-server"
+}

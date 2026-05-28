@@ -1,0 +1,7 @@
+{
+  "name": "jiten-github78-razorpay-refund",
+  "description": "MCP server enabling AI agents to execute Razorpay refunds safely with idempotency, rollback, and audit trail support.",
+  "source_repo": "jiten-github78/mcp-refund-v0",
+  "source_url": "https://github.com/jiten-github78/mcp-refund-v0",
+  "install": "# git clone --depth 1 https://github.com/jiten-github78/mcp-refund-v0\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mediar-ai-screenpipe",
+  "description": "Enable searching and retrieving screen recordings and associated data for productivity tracking, user behavior analysis, and workflow documentation.",
+  "source_repo": "screenpipe/screenpipe",
+  "source_url": "https://github.com/screenpipe/screenpipe/tree/HEAD/screenpipe-integrations/screenpipe-mcp",
+  "install": "# git clone --depth 1 https://github.com/screenpipe/screenpipe/tree/HEAD/screenpipe-integrations/screenpipe-mcp\n# See source for mcpServers config block"
+}

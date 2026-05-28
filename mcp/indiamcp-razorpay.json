@@ -1,0 +1,7 @@
+{
+  "name": "indiamcp-razorpay",
+  "description": "Read-only MCP server for Razorpay payment data: payments, subscriptions, refunds, and analytics.",
+  "source_repo": "indiamcp/razorpay-mcp",
+  "source_url": "https://github.com/indiamcp/razorpay-mcp",
+  "install": "npx -y razorpay-mcp"
+}

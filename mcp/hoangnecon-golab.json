@@ -1,0 +1,7 @@
+{
+  "name": "hoangnecon-golab",
+  "description": "Native Go MCP server for controlling and interacting with Google Colab notebooks from AI coding tools.",
+  "source_repo": "hoangnecon/golab",
+  "source_url": "https://github.com/hoangnecon/golab",
+  "install": "# git clone --depth 1 https://github.com/hoangnecon/golab\n# See source for mcpServers config block"
+}

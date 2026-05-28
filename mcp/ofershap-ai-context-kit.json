@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-ai-context-kit",
+  "description": "Lint, measure, and sync AI context files across Cursor, Claude Code, and Copilot.",
+  "source_repo": "ofershap/ai-context-kit",
+  "source_url": "https://github.com/ofershap/ai-context-kit",
+  "install": "# git clone --depth 1 https://github.com/ofershap/ai-context-kit\n# See source for mcpServers config block"
+}

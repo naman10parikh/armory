@@ -1,0 +1,7 @@
+{
+  "name": "cheezcake-aidderall",
+  "description": "Provides hierarchical task management with living document approach where completed tasks remain visible, enabling non-linear workflow navigation, flexible priority switching, and persistent completion history for complex project management and research workflows.",
+  "source_repo": "cheezcake/aidderall_mcp",
+  "source_url": "https://github.com/cheezcake/aidderall_mcp",
+  "install": "npx -y aidderall_mcp"
+}

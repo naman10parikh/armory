@@ -1,0 +1,7 @@
+{
+  "name": "gapgapweiqi-deepplan",
+  "description": "Analyze and plan software architecture with intelligent design assistance tools.",
+  "source_repo": "gapgapweiqi/deepplan-mcp",
+  "source_url": "https://github.com/gapgapweiqi/deepplan-mcp",
+  "install": "npx -y deepplan-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dreliq9-fcp",
+  "description": "88 tools for Final Cut Pro — FCPXML engine, live FCP control, media analysis, and AI puppets.",
+  "source_repo": "dreliq9/fcp-mcp",
+  "source_url": "https://github.com/dreliq9/fcp-mcp",
+  "install": "npx -y fcp-mcp"
+}

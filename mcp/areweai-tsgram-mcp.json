@@ -1,0 +1,7 @@
+{
+  "name": "areweai-tsgram-mcp",
+  "description": "TSgram: Telegram + Claude with local workspace access on your phone in typescript. Read, write, and vibe code on the go!",
+  "source_repo": "areweai/tsgram-mcp",
+  "source_url": "https://github.com/areweai/tsgram-mcp",
+  "install": "npx -y tsgram-mcp"
+}

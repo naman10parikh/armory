@@ -1,0 +1,7 @@
+{
+  "name": "wpwriter",
+  "description": "AI-powered WordPress content manager with 121 tools for writing, image generation, SEO, and automation.",
+  "source_repo": "",
+  "source_url": "https://www.wpwriter.com",
+  "install": "# git clone --depth 1 https://www.wpwriter.com\n# See source for mcpServers config block"
+}

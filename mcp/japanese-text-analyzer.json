@@ -1,0 +1,7 @@
+{
+  "name": "japanese-text-analyzer",
+  "description": "Enables detailed Japanese text analysis through morphological parsing with Kuromoji, breaking down sentences into component parts with grammatical functions, readings, and base forms for language learning and translation applications.",
+  "source_repo": "mistizz/mcp-japanesetextanalyzer",
+  "source_url": "https://github.com/mistizz/mcp-japanesetextanalyzer",
+  "install": "# git clone --depth 1 https://github.com/mistizz/mcp-japanesetextanalyzer\n# See source for mcpServers config block"
+}

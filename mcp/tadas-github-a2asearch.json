@@ -1,0 +1,7 @@
+{
+  "name": "tadas-github-a2asearch",
+  "description": "Search and discover AI agents, MCP servers, CLI tools, and agent skills from the A2ASearch directory.",
+  "source_repo": "tadas-github/a2asearch-mcp",
+  "source_url": "https://github.com/tadas-github/a2asearch-mcp",
+  "install": "npx -y a2asearch-mcp"
+}

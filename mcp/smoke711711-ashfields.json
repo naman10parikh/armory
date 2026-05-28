@@ -1,0 +1,7 @@
+{
+  "name": "smoke711711-ashfields",
+  "description": "Burn $ASH tokens to mint fully on-chain animated SVG NFTs on Ethereum.",
+  "source_repo": "smoke711711/ashfields-mcp-server",
+  "source_url": "https://github.com/smoke711711/ashfields-mcp-server",
+  "install": "npx -y ashfields-mcp-server"
+}

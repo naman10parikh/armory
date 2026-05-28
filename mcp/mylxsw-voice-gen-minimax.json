@@ -1,0 +1,7 @@
+{
+  "name": "mylxsw-voice-gen-minimax",
+  "description": "Converts text to high-quality speech audio using Minimax AI API with automatic S3 storage, organized directory structures, and configurable audio settings for persistent cloud-based voice content generation.",
+  "source_repo": "mylxsw/voice-gen-mcp",
+  "source_url": "https://github.com/mylxsw/voice-gen-mcp",
+  "install": "npx -y voice-gen-mcp"
+}

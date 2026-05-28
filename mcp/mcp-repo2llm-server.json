@@ -1,0 +1,7 @@
+{
+  "name": "mcp-repo2llm-server",
+  "description": "Mcp Repo2llm Server MCP server listed on mcp.so.",
+  "source_repo": "crisschan/mcp-repo2llm-server",
+  "source_url": "https://mcp.so/server/mcp-repo2llm-server/crisschan",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-repo2llm-server/crisschan\n# See source for mcpServers config block"
+}

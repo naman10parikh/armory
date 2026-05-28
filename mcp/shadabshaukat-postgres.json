@@ -1,0 +1,7 @@
+{
+  "name": "shadabshaukat-postgres",
+  "description": "Enterprise PostgreSQL server with restricted/unrestricted access modes and Docker support.",
+  "source_repo": "shadabshaukat/postgres-mcp-server",
+  "source_url": "https://github.com/shadabshaukat/postgres-mcp-server",
+  "install": "npx -y postgres-mcp-server"
+}

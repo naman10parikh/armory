@@ -1,0 +1,7 @@
+{
+  "name": "dlwjdtn535-chrome-integration",
+  "description": "Enables AI-driven web automation through Chrome browser integration for tasks like navigation, interaction, form filling, and content extraction via WebSocket protocol.",
+  "source_repo": "dlwjdtn535/mcp-chrome-integration",
+  "source_url": "https://github.com/dlwjdtn535/mcp-chrome-integration",
+  "install": "# git clone --depth 1 https://github.com/dlwjdtn535/mcp-chrome-integration\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "p-poss-dj-claude",
+  "description": "Live music coding for AI agents with oscillators, effects, and real-time audio synthesis.",
+  "source_repo": "p-poss/dj-claude",
+  "source_url": "https://github.com/p-poss/dj-claude",
+  "install": "# git clone --depth 1 https://github.com/p-poss/dj-claude\n# See source for mcpServers config block"
+}

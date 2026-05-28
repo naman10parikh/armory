@@ -1,0 +1,7 @@
+{
+  "name": "neuralnexusnote-n3memorycore-lite",
+  "description": "Ephemeral hybrid vector and BM25 working memory with multilingual support backed by Redis Stack.",
+  "source_repo": "neuralnexusnote/n3mcmcp-lite",
+  "source_url": "https://github.com/neuralnexusnote/n3mcmcp-lite",
+  "install": "# git clone --depth 1 https://github.com/neuralnexusnote/n3mcmcp-lite\n# See source for mcpServers config block"
+}

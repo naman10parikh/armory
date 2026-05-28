@@ -1,0 +1,7 @@
+{
+  "name": "leadbrain-korean-data-mcp",
+  "description": "Real-time Korean web data — Naver place reviews, Melon music chart, Daangn/Bunjang marketplace listings, Naver news, Musinsa fashion rankings. 7 tools powered by Apify actors. Requires APIFY_TOKEN.",
+  "source_repo": "leadbrain/korean-data-mcp",
+  "source_url": "https://github.com/leadbrain/korean-data-mcp",
+  "install": "npx -y korean-data-mcp"
+}

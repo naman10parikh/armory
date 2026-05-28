@@ -1,0 +1,7 @@
+{
+  "name": "image-generate-mcp-remote",
+  "description": "A remote MCP image generation server that unifies OpenAI Images and Gemini generateContent APIs with preset-based configuration for multi-provider support.",
+  "source_repo": "zztdandan/image-generate-mcp-remote",
+  "source_url": "https://github.com/zztdandan/image-generate-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/zztdandan/image-generate-mcp-remote\n# See source for mcpServers config block"
+}

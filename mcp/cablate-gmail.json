@@ -1,0 +1,7 @@
+{
+  "name": "cablate-gmail",
+  "description": "Integrates with Gmail's API to enable email operations including sending, receiving, and managing emails for automation and workflow integration",
+  "source_repo": "cablate/mcp-google-gmail",
+  "source_url": "https://github.com/cablate/mcp-google-gmail",
+  "install": "# git clone --depth 1 https://github.com/cablate/mcp-google-gmail\n# See source for mcpServers config block"
+}

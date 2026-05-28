@@ -1,0 +1,7 @@
+{
+  "name": "whitenightshadow-camoufox-reverse",
+  "description": "JavaScript reverse engineering via Camoufox anti-fingerprinting browser with 57 tools for debugging, function hooking, and network analysis.",
+  "source_repo": "whitenightshadow/camoufox-reverse-mcp",
+  "source_url": "https://github.com/whitenightshadow/camoufox-reverse-mcp",
+  "install": "npx -y camoufox-reverse-mcp"
+}

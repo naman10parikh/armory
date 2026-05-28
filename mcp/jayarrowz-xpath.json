@@ -1,0 +1,7 @@
+{
+  "name": "jayarrowz-xpath",
+  "description": "Enables Claude to execute XPath queries on XML and HTML content, supporting both direct parsing and web scraping through Puppeteer for structured data extraction from documents and websites.",
+  "source_repo": "thirdstrandstudio/mcp-xpath",
+  "source_url": "https://github.com/thirdstrandstudio/mcp-xpath",
+  "install": "# git clone --depth 1 https://github.com/thirdstrandstudio/mcp-xpath\n# See source for mcpServers config block"
+}

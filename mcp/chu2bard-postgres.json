@@ -1,0 +1,7 @@
+{
+  "name": "chu2bard-postgres",
+  "description": "PostgreSQL database integration with SQL query execution, schema exploration, query plan analysis, and DDL migration.",
+  "source_repo": "chu2bard/pgmcp",
+  "source_url": "https://github.com/chu2bard/pgmcp",
+  "install": "# git clone --depth 1 https://github.com/chu2bard/pgmcp\n# See source for mcpServers config block"
+}

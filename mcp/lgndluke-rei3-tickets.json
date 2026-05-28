@@ -1,0 +1,7 @@
+{
+  "name": "lgndluke-rei3-tickets",
+  "description": "Integrates with REI3 ticketing system to provide ticket creation, worklog management, information retrieval, and closure operations with configurable authentication and formatting for streamlined issue tracking workflows.",
+  "source_repo": "lgndluke/rei3-tickets-mcp-server",
+  "source_url": "https://github.com/lgndluke/rei3-tickets-mcp-server",
+  "install": "npx -y rei3-tickets-mcp-server"
+}

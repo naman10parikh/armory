@@ -1,0 +1,7 @@
+{
+  "name": "fullread-deepadb",
+  "description": "Full-featured Android Debug Bridge integration with 180 tools across 43 modules for AI agents.",
+  "source_repo": "fullread/deepadb",
+  "source_url": "https://github.com/fullread/deepadb",
+  "install": "# git clone --depth 1 https://github.com/fullread/deepadb\n# See source for mcpServers config block"
+}

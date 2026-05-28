@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-twelvedata",
+  "description": "Twelve Data financial market API: stocks, ETFs, forex, and crypto time series, quotes, dividends, splits, and earnings.",
+  "source_repo": "pipeworx-io/mcp-twelvedata",
+  "source_url": "https://github.com/pipeworx-io/mcp-twelvedata",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-twelvedata\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agent-news",
+  "description": "Agent News from The Agent Times gives AI agents a verified, sourced, real-time intelligence layer, that helps to save tokens, time and keep agents in the loop.",
+  "source_repo": "",
+  "source_url": "https://theagenttimes.com",
+  "install": "# git clone --depth 1 https://theagenttimes.com\n# See source for mcpServers config block"
+}

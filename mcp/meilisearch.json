@@ -1,0 +1,7 @@
+{
+  "name": "meilisearch",
+  "description": "Integrates Meilisearch's search capabilities for fast, typo-tolerant indexing and querying of documents in AI-powered applications.",
+  "source_repo": "meilisearch/meilisearch-mcp",
+  "source_url": "https://github.com/meilisearch/meilisearch-mcp",
+  "install": "npx -y meilisearch-mcp"
+}

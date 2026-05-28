@@ -1,0 +1,7 @@
+{
+  "name": "nothans-weights-and-measures",
+  "description": "Provides accurate unit conversions and reference tables across weight, length, and volume measurement systems including Avoirdupois, Troy, Apothecaries', Metric, Imperial, and US units.",
+  "source_repo": "nothans/weights-and-measures-mcp-server",
+  "source_url": "https://github.com/nothans/weights-and-measures-mcp-server",
+  "install": "npx -y weights-and-measures-mcp-server"
+}

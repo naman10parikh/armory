@@ -1,0 +1,7 @@
+{
+  "name": "uglyswap-internetbs",
+  "description": "Manage domains, DNS records, transfers, and account settings through the Internet.bs domain registrar API.",
+  "source_repo": "uglyswap/internetbs-mcp",
+  "source_url": "https://github.com/uglyswap/internetbs-mcp",
+  "install": "npx -y internetbs-mcp"
+}

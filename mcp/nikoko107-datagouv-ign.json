@@ -1,0 +1,7 @@
+{
+  "name": "nikoko107-datagouv-ign",
+  "description": "Integrates with France's national open data portal and IGN geographic services to provide access to government datasets, administrative data, and official geographic references for location-aware applications and urban planning research.",
+  "source_repo": "nikoko107/mcp-datagouv-ign",
+  "source_url": "https://github.com/nikoko107/mcp-datagouv-ign",
+  "install": "# git clone --depth 1 https://github.com/nikoko107/mcp-datagouv-ign\n# See source for mcpServers config block"
+}

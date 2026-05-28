@@ -1,0 +1,7 @@
+{
+  "name": "mariosss-local-logs",
+  "description": "Provides real-time log file monitoring and analysis with automated directory detection, cross-platform streaming, error tracking, and text search capabilities for debugging applications and monitoring server health across development and production environments.",
+  "source_repo": "mariosss/local-logs-mcp-server",
+  "source_url": "https://github.com/mariosss/local-logs-mcp-server",
+  "install": "npx -y local-logs-mcp-server"
+}

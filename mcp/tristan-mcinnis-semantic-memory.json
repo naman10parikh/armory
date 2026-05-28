@@ -1,0 +1,7 @@
+{
+  "name": "tristan-mcinnis-semantic-memory",
+  "description": "Provides persistent semantic memory capabilities through PostgreSQL with pgvector embeddings, enabling project-based memory namespacing, semantic search, and relationship management for building connected knowledge graphs across conversations.",
+  "source_repo": "tristan-mcinnis/claude-code-agentic-semantic-memory-system-mcp",
+  "source_url": "https://github.com/tristan-mcinnis/claude-code-agentic-semantic-memory-system-mcp",
+  "install": "npx -y claude-code-agentic-semantic-memory-system-mcp"
+}

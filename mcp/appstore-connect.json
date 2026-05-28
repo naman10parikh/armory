@@ -1,0 +1,7 @@
+{
+  "name": "appstore-connect",
+  "description": "Integrates with Apple's App Store Connect API to provide direct access to iOS app sales reports, user analytics, app health metrics, beta testing data, and subscription information with JWT authentication and automatic pagination handling.",
+  "source_repo": "trialanderrorai/appstore-connect-mcp",
+  "source_url": "https://github.com/trialanderrorai/appstore-connect-mcp",
+  "install": "npx -y appstore-connect-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "doorvault-ideal-scoring-3",
+  "description": "Real estate investment tools powered by DoorVault IDEAL Scoring v2.0. Analyze any rental property deal and get a structured verdict (IDEAL/PASS/NEAR-MISS/FAIL), capital velocity rating, priority score breakdown, dual rent scenarios comparing market rent vs Section 8 FMR, and a detailed investment re",
+  "source_repo": "",
+  "source_url": "https://doorvault.app",
+  "install": "# git clone --depth 1 https://doorvault.app\n# See source for mcpServers config block"
+}

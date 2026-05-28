@@ -1,0 +1,7 @@
+{
+  "name": "mcptime",
+  "description": "Mcptime MCP server listed on mcp.so.",
+  "source_repo": "troyharris/mcptime",
+  "source_url": "https://mcp.so/server/mcptime/troyharris",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcptime/troyharris\n# See source for mcpServers config block"
+}

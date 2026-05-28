@@ -1,0 +1,7 @@
+{
+  "name": "pangea",
+  "description": "Integrates with Pangea's cybersecurity APIs to provide threat intelligence, data protection, and security analysis capabilities including reputation checking, embargo screening, sensitive data redaction, audit logging, and cryptographic key management with built-in AI Guard protection against malicious inputs and outputs.",
+  "source_repo": "pangeacyber/pangea-mcp-server",
+  "source_url": "https://github.com/pangeacyber/pangea-mcp-server",
+  "install": "npx -y pangea-mcp-server"
+}

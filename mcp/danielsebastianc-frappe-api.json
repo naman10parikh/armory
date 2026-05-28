@@ -1,0 +1,7 @@
+{
+  "name": "danielsebastianc-frappe-api",
+  "description": "Provides a single tool for making HTTP requests to Frappe/ERPNext REST API endpoints with token-based authentication.",
+  "source_repo": "danielsebastianc/frappe-api-mcp",
+  "source_url": "https://github.com/danielsebastianc/frappe-api-mcp",
+  "install": "npx -y frappe-api-mcp"
+}

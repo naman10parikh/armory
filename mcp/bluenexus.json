@@ -1,0 +1,7 @@
+{
+  "name": "bluenexus",
+  "description": "Universal MCP connecting AI to 200+ data sources with managed OAuth, token encryption, and compliance controls.",
+  "source_repo": "",
+  "source_url": "https://bluenexus.ai",
+  "install": "# git clone --depth 1 https://bluenexus.ai\n# See source for mcpServers config block"
+}

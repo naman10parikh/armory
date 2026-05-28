@@ -1,0 +1,7 @@
+{
+  "name": "slither-mcp-server",
+  "description": "Enables static analysis of Solidity smart contracts using Slither, including contract metadata, function details, inheritance, and security detectors through MCP tools.",
+  "source_repo": "trailofbits/slither-mcp",
+  "source_url": "https://github.com/trailofbits/slither-mcp",
+  "install": "npx -y slither-mcp"
+}

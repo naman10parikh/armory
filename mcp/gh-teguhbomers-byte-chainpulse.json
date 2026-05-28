@@ -1,0 +1,7 @@
+{
+  "name": "gh-teguhbomers-byte-chainpulse",
+  "description": "Cryptocurrency analysis and portfolio tracking with on-chain data, token security checks, and DeFi insights.",
+  "source_repo": "teguhbomers-byte/chainpulse-mcp",
+  "source_url": "https://github.com/teguhbomers-byte/chainpulse-mcp",
+  "install": "npx -y chainpulse-mcp"
+}

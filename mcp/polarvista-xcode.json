@@ -1,0 +1,7 @@
+{
+  "name": "polarvista-xcode",
+  "description": "Integrates with Xcode to automate iOS development workflows including building projects, running tests, and analyzing results.",
+  "source_repo": "polarvista/xcode-mcp-server",
+  "source_url": "https://github.com/polarvista/xcode-mcp-server",
+  "install": "npx -y xcode-mcp-server"
+}

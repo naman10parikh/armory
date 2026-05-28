@@ -1,0 +1,7 @@
+{
+  "name": "kwp-lab-fetch",
+  "description": "Fetches and converts web pages to markdown format with automatic image extraction and proxy support for accessing content through corporate networks or restricted environments.",
+  "source_repo": "kwp-lab/mcp-fetch",
+  "source_url": "https://github.com/kwp-lab/mcp-fetch",
+  "install": "# git clone --depth 1 https://github.com/kwp-lab/mcp-fetch\n# See source for mcpServers config block"
+}

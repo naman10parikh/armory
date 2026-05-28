@@ -1,0 +1,7 @@
+{
+  "name": "s3brr-agent-tasker",
+  "description": "Minimal stdio MCP server for parallel task execution by AI agents across Python, HTTP, shell, and file operations.",
+  "source_repo": "s3brr/agent-tasker-mcp",
+  "source_url": "https://github.com/s3brr/agent-tasker-mcp",
+  "install": "npx -y agent-tasker-mcp"
+}

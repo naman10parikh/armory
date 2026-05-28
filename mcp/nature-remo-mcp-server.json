@@ -1,0 +1,7 @@
+{
+  "name": "nature-remo-mcp-server",
+  "description": "Nature Remo Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "noboru-i/nature-remo-mcp-server",
+  "source_url": "https://mcp.so/server/nature-remo-mcp-server/noboru-i",
+  "install": "npx -y nature-remo-mcp-server"
+}

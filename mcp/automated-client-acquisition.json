@@ -1,0 +1,7 @@
+{
+  "name": "automated-client-acquisition",
+  "description": "Generate on-brand content, manage leads, and run automated outreach across six channels from your AI agent.",
+  "source_repo": "",
+  "source_url": "https://www.automatedclientacquisition.com",
+  "install": "# git clone --depth 1 https://www.automatedclientacquisition.com\n# See source for mcpServers config block"
+}

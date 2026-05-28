@@ -1,0 +1,7 @@
+{
+  "name": "maku-cpu-fonlar",
+  "description": "Query Turkish TEFAS investment fund prices, performance history, and portfolio allocations through natural language.",
+  "source_repo": "maku-cpu/fonlar-mcp",
+  "source_url": "https://github.com/maku-cpu/fonlar-mcp",
+  "install": "npx -y fonlar-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lordofthejars-openapi-diff",
+  "description": "Compares OpenAPI specifications to identify breaking changes, compatibility issues, and structural differences between API versions.",
+  "source_repo": "lordofthejars/openapi-diff-mcp-server",
+  "source_url": "https://github.com/lordofthejars/openapi-diff-mcp-server",
+  "install": "npx -y openapi-diff-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wlixi008-byte-local-memory",
+  "description": "Persistent memory with fuzzy search using local JSON storage",
+  "source_repo": "wlixi008-byte/local-memory-mcp-server",
+  "source_url": "https://github.com/wlixi008-byte/local-memory-mcp-server",
+  "install": "npx -y local-memory-mcp-server"
+}

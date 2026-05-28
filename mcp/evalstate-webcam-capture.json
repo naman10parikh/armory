@@ -1,0 +1,7 @@
+{
+  "name": "evalstate-webcam-capture",
+  "description": "Enables capturing and analyzing live webcam images and screenshots for real-time visual context in AI applications.",
+  "source_repo": "evalstate/mcp-webcam",
+  "source_url": "https://github.com/evalstate/mcp-webcam",
+  "install": "# git clone --depth 1 https://github.com/evalstate/mcp-webcam\n# See source for mcpServers config block"
+}

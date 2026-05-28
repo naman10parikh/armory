@@ -1,0 +1,7 @@
+{
+  "name": "benmyles-glyph",
+  "description": "Extracts code symbols from multiple programming languages using tree-sitter parsing to generate structured outlines with functions, classes, variables, and hierarchical relationships at configurable detail levels.",
+  "source_repo": "benmyles/glyph",
+  "source_url": "https://github.com/benmyles/glyph",
+  "install": "# git clone --depth 1 https://github.com/benmyles/glyph\n# See source for mcpServers config block"
+}

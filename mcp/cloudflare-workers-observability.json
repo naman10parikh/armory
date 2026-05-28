@@ -1,0 +1,7 @@
+{
+  "name": "cloudflare-workers-observability",
+  "description": "Understand how your Worker projects are performing via logs, traces, and other data sources.",
+  "source_repo": "cloudflare/mcp-server-cloudflare",
+  "source_url": "https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/workers-observability",
+  "install": "# git clone --depth 1 https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/workers-observability\n# See source for mcpServers config block"
+}

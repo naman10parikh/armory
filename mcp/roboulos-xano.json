@@ -1,0 +1,7 @@
+{
+  "name": "roboulos-xano",
+  "description": "Connects Claude AI to Xano databases through Smithery, enabling direct querying, CRUD operations, and data management for building intelligent applications with structured data access.",
+  "source_repo": "roboulos/xano-mcp",
+  "source_url": "https://github.com/roboulos/xano-mcp",
+  "install": "npx -y xano-mcp"
+}

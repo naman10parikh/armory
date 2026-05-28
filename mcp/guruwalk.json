@@ -1,0 +1,7 @@
+{
+  "name": "guruwalk",
+  "description": "Browse free walking tours and activities in 200+ cities worldwide, check availability, and access detailed tour information.",
+  "source_repo": "",
+  "source_url": "https://www.guruwalk.com",
+  "install": "# git clone --depth 1 https://www.guruwalk.com\n# See source for mcpServers config block"
+}

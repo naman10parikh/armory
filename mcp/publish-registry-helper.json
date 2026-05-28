@@ -1,0 +1,7 @@
+{
+  "name": "publish-registry-helper",
+  "description": "Provides automated guidance for publishing MCP servers to the registry through specialized prompts that evaluate optimal publishing approaches, validate schemas, and generate complete GitHub Actions workflows with OIDC authentication for streamlined PyPI and registry deployment.",
+  "source_repo": "marlenezw/publish-mcp-server",
+  "source_url": "https://github.com/marlenezw/publish-mcp-server",
+  "install": "npx -y publish-mcp-server"
+}

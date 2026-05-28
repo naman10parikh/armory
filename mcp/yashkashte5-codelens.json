@@ -1,0 +1,7 @@
+{
+  "name": "yashkashte5-codelens",
+  "description": "Integrates with GitHub API and Libraries.io to provide intelligent code search, dependency health checking across multiple package managers, and package alternative discovery.",
+  "source_repo": "yashkashte5/codelens-mcp",
+  "source_url": "https://github.com/yashkashte5/codelens-mcp",
+  "install": "npx -y codelens-mcp"
+}

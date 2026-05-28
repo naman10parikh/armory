@@ -1,0 +1,7 @@
+{
+  "name": "sciweave",
+  "description": "AI research grounded in 300M scientific works — every citation a verifiable DOI.",
+  "source_repo": "desci-labs/sciweave-mcp",
+  "source_url": "https://github.com/desci-labs/sciweave-mcp",
+  "install": "npx -y sciweave-mcp"
+}

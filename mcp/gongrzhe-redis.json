@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-redis",
+  "description": "Integrates with Redis databases to enable fast, in-memory key-value operations for caching, session management, and real-time data processing.",
+  "source_repo": "gongrzhe/redis-mcp-server",
+  "source_url": "https://github.com/gongrzhe/redis-mcp-server",
+  "install": "npx -y redis-mcp-server"
+}

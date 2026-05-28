@@ -1,0 +1,7 @@
+{
+  "name": "searchcode",
+  "description": "Code intelligence for analyzing, searching, and retrieving code from any public git repository.",
+  "source_repo": "",
+  "source_url": "https://api.searchcode.com/v1/mcp",
+  "install": "# git clone --depth 1 https://api.searchcode.com/v1/mcp\n# See source for mcpServers config block"
+}

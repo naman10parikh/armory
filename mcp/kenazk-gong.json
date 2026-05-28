@@ -1,0 +1,7 @@
+{
+  "name": "kenazk-gong",
+  "description": "Integrates with Gong's API to access call recordings and transcripts, enabling analysis of sales conversations and customer interactions with date filtering and speaker identification capabilities.",
+  "source_repo": "kenazk/gong-mcp",
+  "source_url": "https://github.com/kenazk/gong-mcp",
+  "install": "npx -y gong-mcp"
+}

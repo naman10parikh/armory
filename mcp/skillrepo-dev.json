@@ -1,0 +1,7 @@
+{
+  "name": "skillrepo-dev",
+  "description": "Provides governed AI agent skills from a centralized library, distributed to developers and exposed to remote agents over MCP.",
+  "source_repo": "",
+  "source_url": "https://skillrepo.dev",
+  "install": "# git clone --depth 1 https://skillrepo.dev\n# See source for mcpServers config block"
+}

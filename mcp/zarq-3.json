@@ -1,0 +1,7 @@
+{
+  "name": "zarq-3",
+  "description": "Evaluate crypto token safety with real-time trust scores and structural risk signals. Identify potential market distress and impending collapses to safeguard your digital investments. Compare assets head-to-head using multi-dimensional security and compliance metrics.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/agentidx/zarq-risk",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/agentidx/zarq-risk\n# See source for mcpServers config block"
+}

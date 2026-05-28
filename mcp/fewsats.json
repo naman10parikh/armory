@@ -1,0 +1,7 @@
+{
+  "name": "fewsats",
+  "description": "Integrates with the Fewsats payment platform to enable secure financial transactions through L402 protocol, allowing wallet balance checks, payment method retrieval, and autonomous purchasing capabilities.",
+  "source_repo": "fewsats/fewsats-mcp",
+  "source_url": "https://github.com/fewsats/fewsats-mcp",
+  "install": "npx -y fewsats-mcp"
+}

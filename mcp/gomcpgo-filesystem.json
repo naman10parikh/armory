@@ -1,0 +1,7 @@
+{
+  "name": "gomcpgo-filesystem",
+  "description": "Provides a filesystem interface to perform file operations like creation, deletion, and manipulation without direct system access.",
+  "source_repo": "gomcpgo/filesys",
+  "source_url": "https://github.com/gomcpgo/filesys",
+  "install": "# git clone --depth 1 https://github.com/gomcpgo/filesys\n# See source for mcpServers config block"
+}

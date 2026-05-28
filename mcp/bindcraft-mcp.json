@@ -1,0 +1,7 @@
+{
+  "name": "bindcraft-mcp",
+  "description": "Model Context Protocol server for protein binder design using BindCraft via Docker, enabling structure prediction, sequence optimization, and scoring.",
+  "source_repo": "MacromNex/bindcraft_mcp",
+  "source_url": "https://github.com/MacromNex/bindcraft_mcp",
+  "install": "npx -y bindcraft_mcp"
+}

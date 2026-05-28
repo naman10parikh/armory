@@ -1,0 +1,7 @@
+{
+  "name": "claude-meet-mcp",
+  "description": "AI-powered scheduling assistant that checks calendars, finds mutual availability, and books meetings via natural language commands.",
+  "source_repo": "ShaunakInamdar/claude-meet-mcp",
+  "source_url": "https://github.com/ShaunakInamdar/claude-meet-mcp",
+  "install": "npx -y claude-meet-mcp"
+}

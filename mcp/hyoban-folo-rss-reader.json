@@ -1,0 +1,7 @@
+{
+  "name": "hyoban-folo-rss-reader",
+  "description": "Integrates with Folo RSS reader to enable querying and managing feed subscriptions, retrieving filtered entries, checking unread counts, and marking entries as read for streamlined content discovery and organization.",
+  "source_repo": "hyoban/folo-mcp",
+  "source_url": "https://github.com/hyoban/folo-mcp",
+  "install": "npx -y folo-mcp"
+}

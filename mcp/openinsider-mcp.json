@@ -1,0 +1,7 @@
+{
+  "name": "openinsider-mcp",
+  "description": "An MCP server that exposes 16 free investment-research signals (insider trades, SEC filings, short data, and live quotes) to any MCP-compatible LLM.",
+  "source_repo": "btopn/OpenInsider-MCP",
+  "source_url": "https://github.com/btopn/OpenInsider-MCP",
+  "install": "npx -y OpenInsider-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "favicon-mcp-server",
+  "description": "Favicon Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "elliotxx/favicon-mcp-server",
+  "source_url": "https://mcp.so/server/favicon-mcp-server/elliotxx",
+  "install": "npx -y favicon-mcp-server"
+}

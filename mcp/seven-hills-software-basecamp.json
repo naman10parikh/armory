@@ -1,0 +1,7 @@
+{
+  "name": "seven-hills-software-basecamp",
+  "description": "Integrates AI assistants with Basecamp 4 via ~60 tools covering projects, tasks, messages, schedules, kanban boards, documents, and webhooks.",
+  "source_repo": "seven-hills-software/basecamp-mcp",
+  "source_url": "https://github.com/seven-hills-software/basecamp-mcp",
+  "install": "npx -y basecamp-mcp"
+}

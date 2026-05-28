@@ -1,0 +1,7 @@
+{
+  "name": "mistral-ocr-mcp-server",
+  "description": "Extracts text and images from PDFs and image files using the Mistral OCR API, with a security sandbox for file writes.",
+  "source_repo": "ORDIS-Co-Ltd/mistral-ocr-mcp",
+  "source_url": "https://github.com/ORDIS-Co-Ltd/mistral-ocr-mcp",
+  "install": "npx -y mistral-ocr-mcp"
+}

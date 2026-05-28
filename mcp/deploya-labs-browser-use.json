@@ -1,0 +1,7 @@
+{
+  "name": "deploya-labs-browser-use",
+  "description": "Enables AI assistants to interact with web browsers through a FastAPI server for web browsing, content extraction, and automation tasks with configurable LLM providers and browser modes.",
+  "source_repo": "deploya-labs/mcp-browser-use",
+  "source_url": "https://github.com/deploya-labs/mcp-browser-use",
+  "install": "# git clone --depth 1 https://github.com/deploya-labs/mcp-browser-use\n# See source for mcpServers config block"
+}

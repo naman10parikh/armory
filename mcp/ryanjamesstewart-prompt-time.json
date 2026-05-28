@@ -1,0 +1,7 @@
+{
+  "name": "ryanjamesstewart-prompt-time",
+  "description": "Windows reminder system for Claude Desktop — survives MSIX boundary and persists across restarts.",
+  "source_repo": "ryanjamesstewart/prompt-time",
+  "source_url": "https://github.com/ryanjamesstewart/prompt-time",
+  "install": "# git clone --depth 1 https://github.com/ryanjamesstewart/prompt-time\n# See source for mcpServers config block"
+}

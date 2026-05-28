@@ -1,0 +1,7 @@
+{
+  "name": "protocol-lattice-memory-bank",
+  "description": "Vector-native AI agent memory with multi-backend storage, shared spaces with ACL controls, and semantic search",
+  "source_repo": "protocol-lattice/memory-bank-mcp",
+  "source_url": "https://github.com/protocol-lattice/memory-bank-mcp",
+  "install": "npx -y memory-bank-mcp"
+}

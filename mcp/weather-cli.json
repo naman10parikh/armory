@@ -1,0 +1,7 @@
+{
+  "name": "weather-cli",
+  "description": "Weather Cli MCP server listed on mcp.so.",
+  "source_repo": "liye71023326/weather-cli",
+  "source_url": "https://mcp.so/server/weather-cli/liye71023326",
+  "install": "# git clone --depth 1 https://mcp.so/server/weather-cli/liye71023326\n# See source for mcpServers config block"
+}

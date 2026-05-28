@@ -1,0 +1,7 @@
+{
+  "name": "karataevdmitry-git",
+  "description": "C# .NET git operations toolkit with ten tools for status, diff, log, branch management, commits, and push/pull workflows.",
+  "source_repo": "ai-guiders/git-mcp",
+  "source_url": "https://github.com/ai-guiders/git-mcp",
+  "install": "npx -y git-mcp"
+}

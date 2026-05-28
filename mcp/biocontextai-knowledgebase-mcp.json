@@ -1,0 +1,7 @@
+{
+  "name": "biocontextai-knowledgebase-mcp",
+  "description": "A unified MCP server for biomedical research that connects AI systems to resources like Ensembl, EuropePMC, STRING, and more, enabling retrieval of verified domain-specific information.",
+  "source_repo": "fastmcp-me/knowledgebase-mcp",
+  "source_url": "https://github.com/fastmcp-me/knowledgebase-mcp",
+  "install": "npx -y knowledgebase-mcp"
+}

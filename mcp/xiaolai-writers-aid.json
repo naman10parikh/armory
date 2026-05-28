@@ -1,0 +1,7 @@
+{
+  "name": "xiaolai-writers-aid",
+  "description": "Manuscript analysis with semantic search, readability metrics, structure validation, terminology consistency checking, and duplicate content detection for nonfiction writing projects",
+  "source_repo": "xiaolai/claude-writers-aid-mcp",
+  "source_url": "https://github.com/xiaolai/claude-writers-aid-mcp",
+  "install": "npx -y claude-writers-aid-mcp"
+}

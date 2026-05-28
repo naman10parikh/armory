@@ -1,0 +1,7 @@
+{
+  "name": "agentdesk-browser-tools",
+  "description": "Provides browser debugging and analysis capabilities through Chrome extension integration and headless automation, capturing console logs, network requests, and DOM elements while generating Lighthouse-powered performance, accessibility, and SEO audit reports.",
+  "source_repo": "driverseliteanlk/browser-tools-mcp",
+  "source_url": "https://github.com/driverseliteanlk/browser-tools-mcp",
+  "install": "npx -y browser-tools-mcp"
+}

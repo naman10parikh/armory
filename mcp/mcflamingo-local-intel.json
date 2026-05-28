@@ -1,0 +1,7 @@
+{
+  "name": "mcflamingo-local-intel",
+  "description": "Hyperlocal business intelligence for AI agents covering Florida and Sunbelt markets.",
+  "source_repo": "mcflamingo/gsb-swarm",
+  "source_url": "https://github.com/mcflamingo/gsb-swarm",
+  "install": "# git clone --depth 1 https://github.com/mcflamingo/gsb-swarm\n# See source for mcpServers config block"
+}

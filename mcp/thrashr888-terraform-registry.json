@@ -1,0 +1,7 @@
+{
+  "name": "thrashr888-terraform-registry",
+  "description": "Integrates with the Terraform Registry API to enable provider lookup, resource usage examples, module recommendations, and schema details retrieval for infrastructure-as-code development.",
+  "source_repo": "thrashr888/terraform-mcp-server",
+  "source_url": "https://github.com/thrashr888/terraform-mcp-server",
+  "install": "npx -y terraform-mcp-server"
+}

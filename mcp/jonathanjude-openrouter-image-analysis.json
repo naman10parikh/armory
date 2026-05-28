@@ -1,0 +1,7 @@
+{
+  "name": "jonathanjude-openrouter-image-analysis",
+  "description": "Provides image analysis capabilities through OpenRouter's vision models, supporting base64, file paths, and URLs with specialized tools for general analysis, webpage screenshot evaluation, and mobile app design assessment against platform guidelines.",
+  "source_repo": "jonathanjude/openrouter-image-mcp",
+  "source_url": "https://github.com/jonathanjude/openrouter-image-mcp",
+  "install": "npx -y openrouter-image-mcp"
+}

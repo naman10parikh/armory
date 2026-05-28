@@ -1,0 +1,7 @@
+{
+  "name": "scottmreed-chemcp",
+  "description": "Renders 2D molecular structures from SMILES using RDKit.js.",
+  "source_repo": "scottmreed/chemcp",
+  "source_url": "https://github.com/scottmreed/chemcp",
+  "install": "# git clone --depth 1 https://github.com/scottmreed/chemcp\n# See source for mcpServers config block"
+}

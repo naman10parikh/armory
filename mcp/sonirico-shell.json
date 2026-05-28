@@ -1,0 +1,7 @@
+{
+  "name": "sonirico-shell",
+  "description": "Provides a secure interface for executing controlled shell commands with comprehensive security features including allowlists, pattern-based blocking, timeouts, and output limits defined in YAML configuration.",
+  "source_repo": "sonirico/mcp-shell",
+  "source_url": "https://github.com/sonirico/mcp-shell",
+  "install": "# git clone --depth 1 https://github.com/sonirico/mcp-shell\n# See source for mcpServers config block"
+}

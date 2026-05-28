@@ -1,0 +1,7 @@
+{
+  "name": "payloadcmsmcp",
+  "description": "Payloadcmsmcp MCP server listed on mcp.so.",
+  "source_repo": "Matmax-Worldwide/payloadcmsmcp",
+  "source_url": "https://mcp.so/server/payloadcmsmcp/Matmax-Worldwide",
+  "install": "# git clone --depth 1 https://mcp.so/server/payloadcmsmcp/Matmax-Worldwide\n# See source for mcpServers config block"
+}

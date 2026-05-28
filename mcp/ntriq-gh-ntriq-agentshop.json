@@ -1,0 +1,7 @@
+{
+  "name": "ntriq-gh-ntriq-agentshop",
+  "description": "Document intelligence, invoice extraction, PII detection, and sentiment analysis via x402 micropayments. Pay-per-use with USDC on Base — no API keys. 6 endpoints from $0.01.",
+  "source_repo": "ntriq-gh/ntriq-agentshop",
+  "source_url": "https://github.com/ntriq-gh/ntriq-agentshop",
+  "install": "# git clone --depth 1 https://github.com/ntriq-gh/ntriq-agentshop\n# See source for mcpServers config block"
+}

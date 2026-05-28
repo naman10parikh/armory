@@ -1,0 +1,7 @@
+{
+  "name": "thinairtelematics-thinair-geo",
+  "description": "Location & routing intelligence for AI agents — geocoding, truck routing with hazmat/dimension constraints, traffic, weather, isochrones, place search. Full planet coverage. Hosted MCP server with OAuth 2.0 + Bearer auth.",
+  "source_repo": "ThinAirTelematics/thinair-geo",
+  "source_url": "https://github.com/ThinAirTelematics/thinair-geo",
+  "install": "# git clone --depth 1 https://github.com/ThinAirTelematics/thinair-geo\n# See source for mcpServers config block"
+}

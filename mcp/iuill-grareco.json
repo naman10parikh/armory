@@ -1,0 +1,7 @@
+{
+  "name": "iuill-grareco",
+  "description": "Provides real-time grammar correction and recommendations through specialized prompts and Server-Sent Events, enabling seamless text improvement without context switching.",
+  "source_repo": "iuill/mcp_grareco",
+  "source_url": "https://github.com/iuill/mcp_grareco",
+  "install": "# git clone --depth 1 https://github.com/iuill/mcp_grareco\n# See source for mcpServers config block"
+}

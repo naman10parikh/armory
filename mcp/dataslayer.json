@@ -1,0 +1,7 @@
+{
+  "name": "dataslayer",
+  "description": "Reporting tool for your online PPC/SEM marketing metrics in Google Sheets and Google Data Studio from Adwords, Analytics, Facebook and Microsoft Advertising",
+  "source_repo": "",
+  "source_url": "https://www.dataslayer.ai/mcp",
+  "install": "# git clone --depth 1 https://www.dataslayer.ai/mcp\n# See source for mcpServers config block"
+}

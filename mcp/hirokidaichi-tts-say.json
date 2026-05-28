@@ -1,0 +1,7 @@
+{
+  "name": "hirokidaichi-tts-say",
+  "description": "Integrates with OpenAI's API and local sound playback to convert text into audible speech, enabling voice output for various applications.",
+  "source_repo": "hirokidaichi/mcp-tts-say",
+  "source_url": "https://github.com/hirokidaichi/mcp-tts-say",
+  "install": "# git clone --depth 1 https://github.com/hirokidaichi/mcp-tts-say\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "path402",
+  "description": "AI agent toolkit for discovering and acquiring tokenised web content via the $402 protocol.",
+  "source_repo": "b0ase/path402",
+  "source_url": "https://github.com/b0ase/path402",
+  "install": "# git clone --depth 1 https://github.com/b0ase/path402\n# See source for mcpServers config block"
+}

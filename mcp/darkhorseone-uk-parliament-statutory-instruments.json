@@ -1,0 +1,7 @@
+{
+  "name": "darkhorseone-uk-parliament-statutory-instruments",
+  "description": "Accesses UK Parliament Statutory Instruments API for instrument data, procedures, and laying bodies.",
+  "source_repo": "darkhorseone/mcp-servers",
+  "source_url": "https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-statutoryinstruments",
+  "install": "# git clone --depth 1 https://github.com/darkhorseone/mcp-servers/tree/HEAD/servers/uk-parliament-statutoryinstruments\n# See source for mcpServers config block"
+}

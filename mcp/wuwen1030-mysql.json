@@ -1,0 +1,7 @@
+{
+  "name": "wuwen1030-mysql",
+  "description": "Enables AI models to interact with MySQL databases by providing tools for listing tables, retrieving schemas, and executing read-only SQL queries with safe transaction handling.",
+  "source_repo": "wuwen1030/mysql-mcp-server",
+  "source_url": "https://github.com/wuwen1030/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

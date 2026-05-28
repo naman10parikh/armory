@@ -1,0 +1,7 @@
+{
+  "name": "brainrot",
+  "description": "Provides persistent context management for coding sessions through FastAPI backend with SQLite storage, vector search capabilities, and semantic similarity matching to maintain architectural decisions, TODOs, and project knowledge across different development environments.",
+  "source_repo": "knowhow-software-inc/brainrot-mcp",
+  "source_url": "https://github.com/knowhow-software-inc/brainrot-mcp",
+  "install": "npx -y brainrot-mcp"
+}

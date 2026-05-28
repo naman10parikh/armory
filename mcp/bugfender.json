@@ -1,0 +1,7 @@
+{
+  "name": "bugfender",
+  "description": "Provides user-scoped read access to Bugfender mobile app logs, crash reports, devices, and issue aggregation via the Bugfender dashboard API.",
+  "source_repo": "bugfender/bugfender-mcp",
+  "source_url": "https://github.com/bugfender/bugfender-mcp",
+  "install": "npx -y bugfender-mcp"
+}

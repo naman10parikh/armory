@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-raycast",
+  "description": "Raycast workflow automation with window management, clipboard, and system controls.",
+  "source_repo": "expertvagabond/raycast-mcp-server",
+  "source_url": "https://github.com/expertvagabond/raycast-mcp-server",
+  "install": "npx -y raycast-mcp-server"
+}

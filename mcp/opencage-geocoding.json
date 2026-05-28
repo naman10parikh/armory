@@ -1,0 +1,7 @@
+{
+  "name": "opencage-geocoding",
+  "description": "Forward and reverse geocoding with worldwide coverage based on open data",
+  "source_repo": "opencagedata/opencage-geocoding-mcp",
+  "source_url": "https://github.com/opencagedata/opencage-geocoding-mcp",
+  "install": "npx -y opencage-geocoding-mcp"
+}

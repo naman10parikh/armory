@@ -1,0 +1,7 @@
+{
+  "name": "return0",
+  "description": "Debug production Node.js and Next.js applications in real-time by extracting live variable values",
+  "source_repo": "getreturn0/mcp",
+  "source_url": "https://github.com/getreturn0/mcp",
+  "install": "# git clone --depth 1 https://github.com/getreturn0/mcp\n# See source for mcpServers config block"
+}

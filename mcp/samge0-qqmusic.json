@@ -1,0 +1,7 @@
+{
+  "name": "samge0-qqmusic",
+  "description": "Provides a bridge to QQ Music API for searching, playing, and managing music playlists through natural language interactions without dealing with underlying API complexities.",
+  "source_repo": "samge0/mcp-qqmusic-test-server",
+  "source_url": "https://github.com/samge0/mcp-qqmusic-test-server",
+  "install": "# git clone --depth 1 https://github.com/samge0/mcp-qqmusic-test-server\n# See source for mcpServers config block"
+}

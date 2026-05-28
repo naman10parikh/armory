@@ -1,0 +1,7 @@
+{
+  "name": "rashidazarang-airtable",
+  "description": "Integrates with Airtable to enable database operations like listing bases, browsing tables, and performing CRUD operations on records directly within code editors.",
+  "source_repo": "rashidazarang/airtable-mcp",
+  "source_url": "https://github.com/rashidazarang/airtable-mcp",
+  "install": "npx -y airtable-mcp"
+}

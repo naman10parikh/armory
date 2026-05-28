@@ -1,0 +1,7 @@
+{
+  "name": "sandip124-wisegit",
+  "description": "Extracts decision intent from git history and protects intentional code from AI modification.",
+  "source_repo": "sandip124/wisegit",
+  "source_url": "https://github.com/sandip124/wisegit",
+  "install": "# git clone --depth 1 https://github.com/sandip124/wisegit\n# See source for mcpServers config block"
+}

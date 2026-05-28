@@ -1,0 +1,7 @@
+{
+  "name": "jahzlariosa-wordpress",
+  "description": "WordPress content management with Yoast SEO support",
+  "source_repo": "jahzlariosa/wordpress-mcp",
+  "source_url": "https://github.com/jahzlariosa/wordpress-mcp",
+  "install": "npx -y wordpress-mcp"
+}

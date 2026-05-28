@@ -1,0 +1,7 @@
+{
+  "name": "gh-matiasbattocchia-meitre",
+  "description": "Restaurant reservation management via the Meitre platform.",
+  "source_repo": "matiasbattocchia/meitre-mcp",
+  "source_url": "https://github.com/matiasbattocchia/meitre-mcp",
+  "install": "npx -y meitre-mcp"
+}

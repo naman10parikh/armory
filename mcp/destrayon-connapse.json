@@ -1,0 +1,7 @@
+{
+  "name": "destrayon-connapse",
+  "description": "Self-hosted knowledge backend for AI agents with persistent memory, hybrid search, and document management.",
+  "source_repo": "destrayon/connapse",
+  "source_url": "https://github.com/destrayon/connapse",
+  "install": "# git clone --depth 1 https://github.com/destrayon/connapse\n# See source for mcpServers config block"
+}

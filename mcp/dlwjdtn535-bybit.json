@@ -1,0 +1,7 @@
+{
+  "name": "dlwjdtn535-bybit",
+  "description": "Provides a bridge to the Bybit cryptocurrency exchange API for market data retrieval, account management, and order execution across spot and futures markets",
+  "source_repo": "dlwjdtn535/mcp-bybit-server",
+  "source_url": "https://github.com/dlwjdtn535/mcp-bybit-server",
+  "install": "# git clone --depth 1 https://github.com/dlwjdtn535/mcp-bybit-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jameskanyiri-tavily",
+  "description": "Integrates with Tavily's web intelligence platform to provide real-time web search, URL content extraction, structured website crawling, and site architecture mapping with configurable filtering and depth controls.",
+  "source_repo": "jameskanyiri/tavily_mcp_server",
+  "source_url": "https://github.com/jameskanyiri/tavily_mcp_server",
+  "install": "npx -y tavily_mcp_server"
+}

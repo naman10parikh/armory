@@ -1,0 +1,7 @@
+{
+  "name": "dnakov-radare2",
+  "description": "Provides direct access to radare2's binary analysis framework for reverse engineering, malware analysis, and debugging through a simple stdin/stdout communication model.",
+  "source_repo": "radareorg/radare2-mcp",
+  "source_url": "https://github.com/radareorg/radare2-mcp",
+  "install": "npx -y radare2-mcp"
+}

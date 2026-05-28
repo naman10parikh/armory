@@ -1,0 +1,7 @@
+{
+  "name": "xspadex-bilibili-mcp",
+  "description": "A FastMCP-based tool that fetches Bilibili's trending videos and exposes them via a standard MCP interface.",
+  "source_repo": "xspadex/bilibili-mcp",
+  "source_url": "https://github.com/xspadex/bilibili-mcp.git",
+  "install": "npx -y bilibili-mcp"
+}

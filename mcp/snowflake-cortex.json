@@ -1,0 +1,7 @@
+{
+  "name": "snowflake-cortex",
+  "description": "Integrates with Snowflake's Cortex AI services to convert natural language queries into SQL using semantic models, search PDF documents stored in Snowflake stages, and execute queries against data warehouses for conversational data exploration.",
+  "source_repo": "thisisbhanuj/snowflake-cortex-mcp-server",
+  "source_url": "https://github.com/thisisbhanuj/snowflake-cortex-mcp-server",
+  "install": "npx -y snowflake-cortex-mcp-server"
+}

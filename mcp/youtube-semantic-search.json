@@ -1,0 +1,7 @@
+{
+  "name": "youtube-semantic-search",
+  "description": "Leverages LanceDB for vector storage to enable semantic search and multilingual transcript retrieval from YouTube videos using Google's generative AI embeddings.",
+  "source_repo": "ia-programming/youtube-mcp",
+  "source_url": "https://github.com/ia-programming/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

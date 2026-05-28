@@ -1,0 +1,7 @@
+{
+  "name": "perforce-p4",
+  "description": "Integrates with Perforce P4 version control system",
+  "source_repo": "perforce/p4mcp-server",
+  "source_url": "https://github.com/perforce/p4mcp-server",
+  "install": "npx -y p4mcp-server"
+}

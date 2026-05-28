@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [zh-code-review, zh-coding-style]
-tags: [ecc, rules, zh]
+tags: [rules, zh]
 ---
 ## What it is
 zh rule: apply when working on zh and you need 代理编排.

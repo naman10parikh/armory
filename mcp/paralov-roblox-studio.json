@@ -1,0 +1,7 @@
+{
+  "name": "paralov-roblox-studio",
+  "description": "Bridges Roblox Studio with external tools through HTTP polling architecture, enabling automated workspace manipulation, instance creation, script editing, and property management for game development workflows.",
+  "source_repo": "paralov/roblox-studio-opencode-mcp",
+  "source_url": "https://github.com/paralov/roblox-studio-opencode-mcp",
+  "install": "npx -y roblox-studio-opencode-mcp"
+}

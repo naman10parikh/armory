@@ -1,0 +1,7 @@
+{
+  "name": "elyin-codex-bridge",
+  "description": "Bridges Claude with OpenAI's Codex through the official CLI, enabling direct consultation, stdin-piped execution for CI/CD workflows, and batch processing for automated code analysis and reviews.",
+  "source_repo": "elyin/codex-bridge",
+  "source_url": "https://github.com/elyin/codex-bridge",
+  "install": "# git clone --depth 1 https://github.com/elyin/codex-bridge\n# See source for mcpServers config block"
+}

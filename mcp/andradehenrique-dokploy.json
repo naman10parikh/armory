@@ -1,0 +1,7 @@
+{
+  "name": "andradehenrique-dokploy",
+  "description": "Integrates with Dokploy platform API for creating, updating, duplicating, and removing deployment projects, enabling teams to automate deployment workflows through AI interactions.",
+  "source_repo": "andradehenrique/dokploy-mcp",
+  "source_url": "https://github.com/andradehenrique/dokploy-mcp",
+  "install": "npx -y dokploy-mcp"
+}

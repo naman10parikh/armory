@@ -1,0 +1,7 @@
+{
+  "name": "ghostqa",
+  "description": "AI persona-based behavioral testing that uses vision models to navigate web apps like real users.",
+  "source_repo": "synctek-llc/specterqa",
+  "source_url": "https://github.com/synctek-llc/specterqa",
+  "install": "# git clone --depth 1 https://github.com/synctek-llc/specterqa\n# See source for mcpServers config block"
+}

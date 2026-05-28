@@ -1,0 +1,7 @@
+{
+  "name": "cosmwasm-blockchain",
+  "description": "Bridges with CosmWasm-based blockchains using cw-orchestrator, enabling querying contract state, executing transactions, checking balances, and retrieving blockchain information without direct access to underlying infrastructure.",
+  "source_repo": "adairrr/cosmwasm-mcp",
+  "source_url": "https://github.com/adairrr/cosmwasm-mcp",
+  "install": "npx -y cosmwasm-mcp"
+}

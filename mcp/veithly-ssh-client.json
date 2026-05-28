@@ -1,0 +1,7 @@
+{
+  "name": "veithly-ssh-client",
+  "description": "Secure remote server management through SSH connections with SFTP file operations",
+  "source_repo": "veithly/ssh-client-mcp",
+  "source_url": "https://github.com/veithly/ssh-client-mcp",
+  "install": "npx -y ssh-client-mcp"
+}

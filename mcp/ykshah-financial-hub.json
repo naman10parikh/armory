@@ -1,0 +1,7 @@
+{
+  "name": "ykshah-financial-hub",
+  "description": "SEC EDGAR filings, XBRL financials, FRED economic data, and real-time market quotes.",
+  "source_repo": "ykshah1309/financial-hub-mcp",
+  "source_url": "https://github.com/ykshah1309/financial-hub-mcp",
+  "install": "npx -y financial-hub-mcp"
+}

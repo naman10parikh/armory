@@ -1,0 +1,7 @@
+{
+  "name": "valyu-knowledge-retrieval",
+  "description": "Integrates with Valyu's knowledge retrieval and feedback APIs, enabling information search across proprietary and web sources and submission of user feedback for enhanced information retrieval and interaction scenarios.",
+  "source_repo": "valyuai/valyu-mcp-js",
+  "source_url": "https://github.com/valyuai/valyu-mcp-js",
+  "install": "# git clone --depth 1 https://github.com/valyuai/valyu-mcp-js\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sharemcp-2",
+  "description": "ShareMCP MCP server listed on mcp.so.",
+  "source_repo": "Ameprism/ShareMCP",
+  "source_url": "https://mcp.so/server/ShareMCP/Ameprism",
+  "install": "# git clone --depth 1 https://mcp.so/server/ShareMCP/Ameprism\n# See source for mcpServers config block"
+}

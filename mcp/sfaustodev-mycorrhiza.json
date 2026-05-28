@@ -1,0 +1,7 @@
+{
+  "name": "sfaustodev-mycorrhiza",
+  "description": "Persistent memory server using a SQLite hash chain where each memory is cryptographically linked to the previous one, enabling tamper-evident recall across sessions.",
+  "source_repo": "sfaustodev/mycorrhiza-mcp",
+  "source_url": "https://github.com/sfaustodev/mycorrhiza-mcp",
+  "install": "npx -y mycorrhiza-mcp"
+}

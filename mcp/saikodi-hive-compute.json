@@ -1,0 +1,7 @@
+{
+  "name": "saikodi-hive-compute",
+  "description": "Distributed LAN compute cluster pooling idle machines for AI agent workloads.",
+  "source_repo": "saikodi/hive-compute-mcp",
+  "source_url": "https://github.com/saikodi/hive-compute-mcp",
+  "install": "npx -y hive-compute-mcp"
+}

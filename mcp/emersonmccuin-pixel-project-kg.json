@@ -1,0 +1,7 @@
+{
+  "name": "emersonmccuin-pixel-project-kg",
+  "description": "Knowledge graph for AI-assisted knowledge work with semantic search, graph traversal, and work context connectors.",
+  "source_repo": "emersonmccuin-pixel/project-kg",
+  "source_url": "https://github.com/emersonmccuin-pixel/project-kg",
+  "install": "# git clone --depth 1 https://github.com/emersonmccuin-pixel/project-kg\n# See source for mcpServers config block"
+}

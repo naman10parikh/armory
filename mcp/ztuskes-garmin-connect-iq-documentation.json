@@ -1,0 +1,7 @@
+{
+  "name": "ztuskes-garmin-connect-iq-documentation",
+  "description": "Integration with Garmin Connect IQ API documentation - complete offline access via the Garmin SDK",
+  "source_repo": "ztuskes/garmin-documentation-mcp-server",
+  "source_url": "https://github.com/ztuskes/garmin-documentation-mcp-server",
+  "install": "npx -y garmin-documentation-mcp-server"
+}

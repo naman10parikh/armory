@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-linear",
+  "description": "Multi-workspace Linear project management integration with PAT authentication, 57 tools, and prompt support.",
+  "source_repo": "adelaidasofia/linear-mcp",
+  "source_url": "https://github.com/adelaidasofia/linear-mcp",
+  "install": "npx -y linear-mcp"
+}

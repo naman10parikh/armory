@@ -1,0 +1,7 @@
+{
+  "name": "databricks-mcp-server-2",
+  "description": "Databricks Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "JustTryAI/databricks-mcp-server",
+  "source_url": "https://mcp.so/server/databricks-mcp-server/JustTryAI",
+  "install": "npx -y databricks-mcp-server"
+}

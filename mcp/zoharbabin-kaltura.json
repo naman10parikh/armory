@@ -1,0 +1,7 @@
+{
+  "name": "zoharbabin-kaltura",
+  "description": "Enables Large Language Models to interact with the Kaltura Media Management Platform, providing comprehensive media operations like listing, retrieving, uploading, and managing media entries, categories, and users through multiple transport mechanisms.",
+  "source_repo": "zoharbabin/kaltura-mcp",
+  "source_url": "https://github.com/zoharbabin/kaltura-mcp",
+  "install": "npx -y kaltura-mcp"
+}

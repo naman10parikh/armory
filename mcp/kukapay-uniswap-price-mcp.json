@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-uniswap-price-mcp",
+  "description": "An MCP server that tracks newly created liquidity pools on Uniswap across multiple blockchains.",
+  "source_repo": "kukapay/uniswap-price-mcp",
+  "source_url": "https://github.com/kukapay/uniswap-price-mcp",
+  "install": "npx -y uniswap-price-mcp"
+}

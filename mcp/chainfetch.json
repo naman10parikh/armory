@@ -1,0 +1,7 @@
+{
+  "name": "chainfetch",
+  "description": "Provides semantic search and natural language querying of Ethereum blockchain data including addresses, transactions, blocks, tokens, and smart contracts with vector similarity matching and LLM-guided filtering across 150+ searchable parameters.",
+  "source_repo": "chainfetch/chainfetch-mcp-server",
+  "source_url": "https://github.com/chainfetch/chainfetch-mcp-server",
+  "install": "npx -y chainfetch-mcp-server"
+}

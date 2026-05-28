@@ -1,0 +1,7 @@
+{
+  "name": "one-ea-monolith-blog",
+  "description": "Manage Monolith blog platform content with 30 tools covering posts, comments, media, analytics, and backups.",
+  "source_repo": "one-ea/monolith-mcp",
+  "source_url": "https://github.com/one-ea/monolith-mcp",
+  "install": "npx -y monolith-mcp"
+}

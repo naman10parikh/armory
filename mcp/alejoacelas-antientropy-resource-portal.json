@@ -1,0 +1,7 @@
+{
+  "name": "alejoacelas-antientropy-resource-portal",
+  "description": "Search and read 140+ articles on nonprofit governance, compliance, HR policies, and fiscal sponsorship from the AntiEntropy Resource Portal.",
+  "source_repo": "alejoacelas/antientropy-mcp",
+  "source_url": "https://github.com/alejoacelas/antientropy-mcp",
+  "install": "npx -y antientropy-mcp"
+}

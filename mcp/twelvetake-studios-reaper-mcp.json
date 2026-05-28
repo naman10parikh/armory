@@ -1,0 +1,7 @@
+{
+  "name": "twelvetake-studios-reaper-mcp",
+  "description": "MCP server enabling AI assistants to control REAPER DAW for mixing, mastering, MIDI composition, and full music production with 129 tools",
+  "source_repo": "TwelveTake-Studios/reaper-mcp",
+  "source_url": "https://github.com/TwelveTake-Studios/reaper-mcp",
+  "install": "npx -y reaper-mcp"
+}

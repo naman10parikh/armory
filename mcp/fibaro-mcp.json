@@ -1,0 +1,7 @@
+{
+  "name": "fibaro-mcp",
+  "description": "Enables control of Fibaro Home Center devices, scenes, variables, and system administration through natural language.",
+  "source_repo": "ikari-software/fibaro-mcp",
+  "source_url": "https://github.com/ikari-software/fibaro-mcp",
+  "install": "npx -y fibaro-mcp"
+}

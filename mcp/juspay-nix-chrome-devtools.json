@@ -1,0 +1,7 @@
+{
+  "name": "juspay-nix-chrome-devtools",
+  "description": "Nix-based launcher that auto-wires the Chrome DevTools MCP server into Claude Code, Codex, and other AI coding environments.",
+  "source_repo": "juspay/nix-chrome-devtools-mcp",
+  "source_url": "https://github.com/juspay/nix-chrome-devtools-mcp",
+  "install": "npx -y nix-chrome-devtools-mcp"
+}

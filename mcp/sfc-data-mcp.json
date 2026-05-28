@@ -1,0 +1,7 @@
+{
+  "name": "sfc-data-mcp",
+  "description": "MCP server that wraps SFC financial data API into 32 tools for comprehensive A-share market data, including real-time quotes, rankings, limit-up statistics, news, themes, financials, charts, research reports, and watchlists.",
+  "source_repo": "yangxinagfeng123/sfc-data-mcp",
+  "source_url": "https://github.com/yangxinagfeng123/sfc-data-mcp",
+  "install": "npx -y sfc-data-mcp"
+}

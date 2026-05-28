@@ -1,0 +1,7 @@
+{
+  "name": "mattheworiordan-remi",
+  "description": "CLI and MCP server for Apple Reminders with section support, iCloud sync, and full reminder management.",
+  "source_repo": "mattheworiordan/remi",
+  "source_url": "https://github.com/mattheworiordan/remi",
+  "install": "# git clone --depth 1 https://github.com/mattheworiordan/remi\n# See source for mcpServers config block"
+}

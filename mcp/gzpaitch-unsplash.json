@@ -1,0 +1,7 @@
+{
+  "name": "gzpaitch-unsplash",
+  "description": "Integrates with Unsplash's API to provide keyword-based photo search, curated collections, and random image generation with detailed metadata including photographer information, engagement metrics, and multiple resolution download links.",
+  "source_repo": "gzpaitch/unsplash-mcp",
+  "source_url": "https://github.com/gzpaitch/unsplash-mcp",
+  "install": "npx -y unsplash-mcp"
+}

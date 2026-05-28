@@ -1,0 +1,7 @@
+{
+  "name": "append-log-bobbyhouse",
+  "description": "Append-only log server for persisting and querying timestamped JSON entries from agents.",
+  "source_repo": "bobbyhouse/append-log-mcp",
+  "source_url": "https://github.com/bobbyhouse/append-log-mcp",
+  "install": "npx -y append-log-mcp"
+}

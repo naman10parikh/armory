@@ -1,0 +1,7 @@
+{
+  "name": "audio-mcp-server",
+  "description": "Audio MCP Server MCP server listed on mcp.so.",
+  "source_repo": "GongRzhe/Audio-MCP-Server",
+  "source_url": "https://mcp.so/server/Audio-MCP-Server/GongRzhe",
+  "install": "npx -y Audio-MCP-Server"
+}

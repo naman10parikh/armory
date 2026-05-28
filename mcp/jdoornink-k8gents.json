@@ -1,0 +1,7 @@
+{
+  "name": "jdoornink-k8gents",
+  "description": "Autonomously monitors Kubernetes clusters for warning events and performs AI-powered root cause analysis.",
+  "source_repo": "jdoornink/k8gents",
+  "source_url": "https://github.com/jdoornink/k8gents",
+  "install": "# git clone --depth 1 https://github.com/jdoornink/k8gents\n# See source for mcpServers config block"
+}

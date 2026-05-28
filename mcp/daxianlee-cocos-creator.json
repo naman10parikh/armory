@@ -1,0 +1,7 @@
+{
+  "name": "daxianlee-cocos-creator",
+  "description": "Integrates with Cocos Creator 3.8 game development workflows through TypeScript-based tools for scene manipulation, node management, component operations, asset handling, prefab creation, and project debugging with both Editor API and runtime script execution capabilities.",
+  "source_repo": "daxianlee/cocos-mcp-server",
+  "source_url": "https://github.com/daxianlee/cocos-mcp-server",
+  "install": "npx -y cocos-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-sharp",
+  "description": "Converts single 2D images into interactive 3D Gaussian Splats using Apple's SHARP monocular view synthesis model.",
+  "source_repo": "neosun100/sharp",
+  "source_url": "https://github.com/neosun100/sharp",
+  "install": "# git clone --depth 1 https://github.com/neosun100/sharp\n# See source for mcpServers config block"
+}

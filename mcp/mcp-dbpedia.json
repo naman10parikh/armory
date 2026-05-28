@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dbpedia",
+  "description": "Enables querying DBpedia's structured knowledge graph using SPARQL and lookup tools, allowing AI agents to access Wikipedia-derived data.",
+  "source_repo": "pipeworx-io/mcp-dbpedia",
+  "source_url": "https://github.com/pipeworx-io/mcp-dbpedia",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-dbpedia\n# See source for mcpServers config block"
+}

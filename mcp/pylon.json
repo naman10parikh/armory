@@ -1,0 +1,7 @@
+{
+  "name": "pylon",
+  "description": "Integrates with Pylon's B2B customer support platform to query issues, conversations, accounts, and contacts, and update issues and accounts.",
+  "source_repo": "",
+  "source_url": "https://support.usepylon.com/articles/2407390554-connecting-to-the-pylon-mcp-server",
+  "install": "# git clone --depth 1 https://support.usepylon.com/articles/2407390554-connecting-to-the-pylon-mcp-server\n# See source for mcpServers config block"
+}

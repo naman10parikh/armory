@@ -1,0 +1,7 @@
+{
+  "name": "pkaldone-substrate",
+  "description": "Persistent cognitive infrastructure for AI entities with causal memory, emotional state modeling, identity continuity, and a 94-layer cognitive framework.",
+  "source_repo": "pkaldone/substrate-mcp",
+  "source_url": "https://github.com/pkaldone/substrate-mcp",
+  "install": "npx -y substrate-mcp"
+}

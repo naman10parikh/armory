@@ -1,0 +1,7 @@
+{
+  "name": "lacausecrypto-sophon",
+  "description": "Deterministic context compression layer for agents that reduces prompt, history, code, and shell tokens without LLMs, GPUs, or API keys.",
+  "source_repo": "lacausecrypto/mcp-sophon",
+  "source_url": "https://github.com/lacausecrypto/mcp-sophon",
+  "install": "# git clone --depth 1 https://github.com/lacausecrypto/mcp-sophon\n# See source for mcpServers config block"
+}

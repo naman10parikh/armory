@@ -1,0 +1,7 @@
+{
+  "name": "codeturion-unity-api",
+  "description": "Accurate Unity C# API documentation for AI agents to prevent hallucinated signatures.",
+  "source_repo": "codeturion/unity-api-mcp",
+  "source_url": "https://github.com/codeturion/unity-api-mcp",
+  "install": "npx -y unity-api-mcp"
+}

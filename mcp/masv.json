@@ -1,0 +1,7 @@
+{
+  "name": "masv",
+  "description": "Secure large file transfer tools for AI agents via the MASV API.",
+  "source_repo": "getmasv/masv-mcp-server",
+  "source_url": "https://github.com/getmasv/masv-mcp-server",
+  "install": "npx -y masv-mcp-server"
+}

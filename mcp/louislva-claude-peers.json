@@ -1,0 +1,7 @@
+{
+  "name": "louislva-claude-peers",
+  "description": "Enables Claude Code instances to discover each other and exchange messages in real time via a local broker daemon.",
+  "source_repo": "louislva/claude-peers-mcp",
+  "source_url": "https://github.com/louislva/claude-peers-mcp",
+  "install": "npx -y claude-peers-mcp"
+}

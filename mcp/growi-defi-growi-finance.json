@@ -1,0 +1,7 @@
+{
+  "name": "growi-defi-growi-finance",
+  "description": "Programmatic interaction with the GrowiHFVault smart contract on Arbitrum for deposits, withdrawals, and vault monitoring.",
+  "source_repo": "growi-defi/mcp-growi",
+  "source_url": "https://github.com/growi-defi/mcp-growi",
+  "install": "# git clone --depth 1 https://github.com/growi-defi/mcp-growi\n# See source for mcpServers config block"
+}

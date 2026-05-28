@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-mindbox",
+  "description": "Integrates with Mindbox customer data platform for managing customer profiles, creating orders, and accessing audience segments.",
+  "source_repo": "theyahia/mindbox-mcp",
+  "source_url": "https://github.com/theyahia/mindbox-mcp",
+  "install": "npx -y mindbox-mcp"
+}

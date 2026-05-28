@@ -1,0 +1,7 @@
+{
+  "name": "shadow-cljs-build-monitor",
+  "description": "Monitors ClojureScript builds in real-time, providing detailed status information including compilation status, warnings, errors, and file-specific details for verifying build success after code changes.",
+  "source_repo": "bigsy/shadow-cljs-mcp",
+  "source_url": "https://github.com/bigsy/shadow-cljs-mcp",
+  "install": "npx -y shadow-cljs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "peek-travel-mcp-intro",
+  "description": "Remote MCP Server for discovering and planning experiences, at home and on vacation",
+  "source_repo": "peek-travel/mcp-intro",
+  "source_url": "https://github.com/peek-travel/mcp-intro",
+  "install": "# git clone --depth 1 https://github.com/peek-travel/mcp-intro\n# See source for mcpServers config block"
+}

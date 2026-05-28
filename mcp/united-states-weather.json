@@ -1,0 +1,7 @@
+{
+  "name": "united-states-weather",
+  "description": "Provide real-time and forecast weather information for locations in the United States using natural language queries. Access current conditions, multi-day and hourly forecasts, weather alerts, and nearby weather stations without requiring an API key. Enable users to get official, government-sourced",
+  "source_repo": "",
+  "source_url": "https://www.weather.gov",
+  "install": "# git clone --depth 1 https://www.weather.gov\n# See source for mcpServers config block"
+}

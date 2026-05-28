@@ -1,0 +1,7 @@
+{
+  "name": "onewalker-openapi",
+  "description": "Automatically generates callable tools from OpenAPI specifications, parsing Swagger documents to create HTTP request handlers with proper parameter mapping and request body handling for seamless REST API integration.",
+  "source_repo": "onewalker/openapi-mcp-server",
+  "source_url": "https://github.com/onewalker/openapi-mcp-server",
+  "install": "npx -y openapi-mcp-server"
+}

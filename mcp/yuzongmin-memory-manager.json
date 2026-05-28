@@ -1,0 +1,7 @@
+{
+  "name": "yuzongmin-memory-manager",
+  "description": "Manages and switches between memory paths for clients, enabling organized context management across multiple AI projects.",
+  "source_repo": "zongmin-yu/memory-mcp-manager",
+  "source_url": "https://github.com/zongmin-yu/memory-mcp-manager",
+  "install": "# git clone --depth 1 https://github.com/zongmin-yu/memory-mcp-manager\n# See source for mcpServers config block"
+}

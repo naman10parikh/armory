@@ -1,0 +1,7 @@
+{
+  "name": "glittercowboy-discord",
+  "description": "Provides full administrative control over Discord communities through message, moderation, channel, role, and event management operations with on-demand discovery pattern for automating Discord administration.",
+  "source_repo": "glittercowboy/discord-mcp",
+  "source_url": "https://github.com/glittercowboy/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "evanslr-spotify",
+  "description": "Integrates with Spotify's Web API using OAuth 2.0 authentication to enable playback control, playlist management, music discovery, and listening history retrieval for building music-focused applications and automating playlist curation.",
+  "source_repo": "evanslr/spotify-mcp",
+  "source_url": "https://github.com/evanslr/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

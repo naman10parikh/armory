@@ -1,0 +1,7 @@
+{
+  "name": "mirecekd-amazon-nova-reel",
+  "description": "Integrates with Amazon Nova Reel 1.1 through AWS Bedrock to generate videos from text prompts with configurable duration, frame rate, and dimensions, including job tracking, S3 storage, and detailed prompting guidelines for camera control and narrative structure.",
+  "source_repo": "mirecekd/novareel-mcp",
+  "source_url": "https://github.com/mirecekd/novareel-mcp",
+  "install": "npx -y novareel-mcp"
+}

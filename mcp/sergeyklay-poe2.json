@@ -1,0 +1,7 @@
+{
+  "name": "sergeyklay-poe2",
+  "description": "Provides real-time access to Path of Exile 2 game data including currency exchange rates, item prices, wiki content, datamined information, and ladder meta-build statistics.",
+  "source_repo": "sergeyklay/poe2-mcp-server",
+  "source_url": "https://github.com/sergeyklay/poe2-mcp-server",
+  "install": "npx -y poe2-mcp-server"
+}

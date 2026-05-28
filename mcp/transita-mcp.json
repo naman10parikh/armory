@@ -1,0 +1,7 @@
+{
+  "name": "transita-mcp",
+  "description": "Visa eligibility matcher and immigration intelligence for MCP-compatible AI assistants. Scores ~45 visa pathways across 8 countries with country comparisons, document checklist previews, and curated nationality guides. Every match linked back to the official government source.",
+  "source_repo": "",
+  "source_url": "ttps://transita.app/mcp",
+  "install": "# git clone --depth 1 ttps://transita.app/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "roboflow",
+  "description": "Manages Roboflow computer vision projects including datasets, model training, inference, and workflow pipelines.",
+  "source_repo": "",
+  "source_url": "https://mcp.roboflow.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.roboflow.com/mcp\n# See source for mcpServers config block"
+}

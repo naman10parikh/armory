@@ -1,0 +1,7 @@
+{
+  "name": "aktsmm-skill-ninja",
+  "description": "Enables discovery, installation, and management of reusable agent skills from GitHub repositories with a curated skill index and workspace analysis for personalized recommendations.",
+  "source_repo": "aktsmm/skill-ninja-mcp-server",
+  "source_url": "https://github.com/aktsmm/skill-ninja-mcp-server",
+  "install": "npx -y skill-ninja-mcp-server"
+}

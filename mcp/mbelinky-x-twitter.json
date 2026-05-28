@@ -1,0 +1,7 @@
+{
+  "name": "mbelinky-x-twitter",
+  "description": "Integrates with Twitter/X API using dual OAuth authentication (1.0a and 2.0) to enable tweet posting with media attachments, tweet searching, and tweet deletion with intelligent rate limiting designed for free-tier API usage.",
+  "source_repo": "mbelinky/x-mcp-server",
+  "source_url": "https://github.com/mbelinky/x-mcp-server",
+  "install": "npx -y x-mcp-server"
+}

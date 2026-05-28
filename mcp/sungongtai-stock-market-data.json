@@ -1,0 +1,7 @@
+{
+  "name": "sungongtai-stock-market-data",
+  "description": "Provides real-time stock market data and company information for financial analysis, investment research, and market monitoring applications",
+  "source_repo": "sungongtai/stock-mcp",
+  "source_url": "https://github.com/sungongtai/stock-mcp",
+  "install": "npx -y stock-mcp"
+}

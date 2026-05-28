@@ -1,0 +1,7 @@
+{
+  "name": "cognethics",
+  "description": "Enterprise workflow management MCP server with OAuth-secured multi-tenant access.",
+  "source_repo": "",
+  "source_url": "https://cognethics.com",
+  "install": "# git clone --depth 1 https://cognethics.com\n# See source for mcpServers config block"
+}

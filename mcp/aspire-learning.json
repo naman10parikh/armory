@@ -1,0 +1,7 @@
+{
+  "name": "aspire-learning",
+  "description": "Browse courses, chapters, lessons, and import LaTeX quizzes via remote MCP.",
+  "source_repo": "",
+  "source_url": "https://aspirelearning.app",
+  "install": "# git clone --depth 1 https://aspirelearning.app\n# See source for mcpServers config block"
+}

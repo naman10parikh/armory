@@ -1,0 +1,7 @@
+{
+  "name": "goodfire-evee",
+  "description": "Connects to Goodfire's EVEE API for interpretable genomic variant effect predictions using the Evo 2 foundation model.",
+  "source_repo": "goodfire-ai/evee-mcp",
+  "source_url": "https://github.com/goodfire-ai/evee-mcp",
+  "install": "npx -y evee-mcp"
+}

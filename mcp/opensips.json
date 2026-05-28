@@ -1,0 +1,7 @@
+{
+  "name": "opensips",
+  "description": "AI-powered control plane for OpenSIPS SIP servers with 236 tools, 25 scenario templates, and 22 prompts for management and configuration.",
+  "source_repo": "opensips/opensips-mcp-server",
+  "source_url": "https://github.com/opensips/opensips-mcp-server",
+  "install": "npx -y opensips-mcp-server"
+}

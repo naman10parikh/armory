@@ -1,0 +1,7 @@
+{
+  "name": "sean-sunagaku-promptlint",
+  "description": "Static linter for AI prompts detecting contradictions, redundancy, ambiguity, and filler text.",
+  "source_repo": "sean-sunagaku/promptlint-mcp",
+  "source_url": "https://github.com/sean-sunagaku/promptlint-mcp",
+  "install": "npx -y promptlint-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ymadd-shadcn-ui",
+  "description": "Provides a dynamic server for accessing shadcn/ui component documentation by scraping and caching information from the official documentation site and GitHub repository, enabling developers to list, retrieve, and search through React UI component details.",
+  "source_repo": "ymadd/shadcn-ui-mcp-server",
+  "source_url": "https://github.com/ymadd/shadcn-ui-mcp-server",
+  "install": "npx -y shadcn-ui-mcp-server"
+}

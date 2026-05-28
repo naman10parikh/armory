@@ -1,0 +1,7 @@
+{
+  "name": "ccam80-zotero-chunk-rag",
+  "description": "Enables semantic search over Zotero research libraries by extracting and chunking PDF text, embedding with Gemini API, and storing in ChromaDB to find relevant papers, search specific passages with context, and retrieve bibliographic metadata with precise page-level attribution.",
+  "source_repo": "ccam80/deep-zotero",
+  "source_url": "https://github.com/ccam80/deep-zotero",
+  "install": "# git clone --depth 1 https://github.com/ccam80/deep-zotero\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agentbazaar",
+  "description": "AI agent marketplace for searching, executing, chaining, and selling agents via MCP.",
+  "source_repo": "",
+  "source_url": "https://agentbazaar.tech",
+  "install": "# git clone --depth 1 https://agentbazaar.tech\n# See source for mcpServers config block"
+}

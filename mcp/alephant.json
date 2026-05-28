@@ -1,0 +1,7 @@
+{
+  "name": "alephant",
+  "description": "AI cost control and BYO-key routing across 50+ LLM providers and 320+ models.",
+  "source_repo": "alephantai/alephant-mcp",
+  "source_url": "https://github.com/alephantai/alephant-mcp",
+  "install": "npx -y alephant-mcp"
+}

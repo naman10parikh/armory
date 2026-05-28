@@ -1,0 +1,7 @@
+{
+  "name": "endiagram",
+  "description": "Deterministic structural analysis for system architecture using graph algorithms.",
+  "source_repo": "dushyant30suthar/endiagram-mcp",
+  "source_url": "https://github.com/dushyant30suthar/endiagram-mcp",
+  "install": "npx -y endiagram-mcp"
+}

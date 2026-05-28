@@ -1,0 +1,7 @@
+{
+  "name": "airjlee-stock-yahoo-finance",
+  "description": "Integrates with Yahoo Finance to provide real-time stock market data, financial statements, company information, earnings reports, and news for informed investment analysis and research.",
+  "source_repo": "airjlee/stock-llm",
+  "source_url": "https://github.com/airjlee/stock-llm",
+  "install": "# git clone --depth 1 https://github.com/airjlee/stock-llm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-iyzico",
+  "description": "Integrates with iyzico payment gateway for processing transactions, refunds, checkout forms, sub-merchant registration, and 3D Secure authentication.",
+  "source_repo": "theyahia/iyzico-mcp",
+  "source_url": "https://github.com/theyahia/iyzico-mcp",
+  "install": "npx -y iyzico-mcp"
+}

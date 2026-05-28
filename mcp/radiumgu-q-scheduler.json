@@ -1,0 +1,7 @@
+{
+  "name": "radiumgu-q-scheduler",
+  "description": "Provides robust task scheduling and automation capabilities with cron-based scheduling, supporting shell commands, API calls, content generation, and desktop notifications with sound across Windows, macOS, and Linux.",
+  "source_repo": "radiumgu/q-scheduler-mcp",
+  "source_url": "https://github.com/radiumgu/q-scheduler-mcp",
+  "install": "npx -y q-scheduler-mcp"
+}

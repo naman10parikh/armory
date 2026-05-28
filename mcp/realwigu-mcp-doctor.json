@@ -1,0 +1,7 @@
+{
+  "name": "realwigu-mcp-doctor",
+  "description": "Zero-config diagnostics for MCP servers. Auto-discovers configs across Claude Code, Cursor, VS Code, Windsurf, and Claude Desktop, then tests connections via JSON-RPC handshake, audits security issues, and benchmarks latency. Also runs as an MCP server itself.",
+  "source_repo": "realwigu/mcp-doctor",
+  "source_url": "https://github.com/realwigu/mcp-doctor",
+  "install": "# git clone --depth 1 https://github.com/realwigu/mcp-doctor\n# See source for mcpServers config block"
+}

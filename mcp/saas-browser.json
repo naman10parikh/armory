@@ -1,0 +1,7 @@
+{
+  "name": "saas-browser",
+  "description": "Search and filter a database of over 400,000 SaaS products by category, technology, country, pricing, and growth metrics.",
+  "source_repo": "",
+  "source_url": "https://saasbrowser.com/mcp",
+  "install": "# git clone --depth 1 https://saasbrowser.com/mcp\n# See source for mcpServers config block"
+}

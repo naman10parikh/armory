@@ -1,0 +1,7 @@
+{
+  "name": "orcarouter-mcp",
+  "description": "OrcaRouter MCP — browse 160+ LLM models with live pricing (no API key needed for catalog) and route chat completions through the OrcaRouter gateway with automatic fallback.",
+  "source_repo": "Continuum-AI-Corp/orcarouter-mcp-server",
+  "source_url": "https://github.com/Continuum-AI-Corp/orcarouter-mcp-server",
+  "install": "npx -y orcarouter-mcp-server"
+}

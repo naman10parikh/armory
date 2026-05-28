@@ -1,0 +1,7 @@
+{
+  "name": "tip4serv",
+  "description": "Monetize and manage your Tip4Serv gaming donation store.",
+  "source_repo": "",
+  "source_url": "https://tip4serv.com",
+  "install": "# git clone --depth 1 https://tip4serv.com\n# See source for mcpServers config block"
+}

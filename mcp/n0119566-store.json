@@ -1,0 +1,7 @@
+{
+  "name": "n0119566-store",
+  "description": "Provides a bridge to e-commerce data for retrieving customer information, looking up orders by customer ID, and searching customers by name through a TypeScript-based REST API",
+  "source_repo": "n0119566/mcp-store",
+  "source_url": "https://github.com/n0119566/mcp-store",
+  "install": "# git clone --depth 1 https://github.com/n0119566/mcp-store\n# See source for mcpServers config block"
+}

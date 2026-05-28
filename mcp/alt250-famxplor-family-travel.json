@@ -1,0 +1,7 @@
+{
+  "name": "alt250-famxplor-family-travel",
+  "description": "Integrates with Famxplor's curated database to provide location-based search for family-tested activities worldwide using latitude, longitude, and distance parameters.",
+  "source_repo": "alt250/famxplor-family-travel-mcp-server",
+  "source_url": "https://github.com/alt250/famxplor-family-travel-mcp-server",
+  "install": "npx -y famxplor-family-travel-mcp-server"
+}

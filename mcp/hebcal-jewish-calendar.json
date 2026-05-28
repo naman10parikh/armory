@@ -1,0 +1,7 @@
+{
+  "name": "hebcal-jewish-calendar",
+  "description": "Integrates with Hebrew calendar libraries to provide date conversions, yahrzeit calculations, and Torah portion information for Jewish religious observances.",
+  "source_repo": "hebcal/hebcal-mcp",
+  "source_url": "https://github.com/hebcal/hebcal-mcp",
+  "install": "npx -y hebcal-mcp"
+}

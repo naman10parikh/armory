@@ -1,0 +1,7 @@
+{
+  "name": "jxbrowser",
+  "description": "Assists with JxBrowser Java library integration and project setup.",
+  "source_repo": "",
+  "source_url": "https://teamdev.com/jxbrowser/docs/guides/introduction/mcp/",
+  "install": "# git clone --depth 1 https://teamdev.com/jxbrowser/docs/guides/introduction/mcp/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "conorbronsdon-substack-mcp",
+  "description": "MCP server for Substack — read posts, manage drafts, publish Notes, get comments, and upload images. Safe by design: cannot publish or delete posts.",
+  "source_repo": "conorbronsdon/substack-mcp",
+  "source_url": "https://github.com/conorbronsdon/substack-mcp",
+  "install": "npx -y substack-mcp"
+}

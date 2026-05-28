@@ -1,0 +1,7 @@
+{
+  "name": "appsai",
+  "description": "Official MCP server for AppsAI, enabling full-stack Next.js app development and deployment with tools for React, AWS, and MongoDB.",
+  "source_repo": "appsai-inc/mcp-server",
+  "source_url": "https://github.com/appsai-inc/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/appsai-inc/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "suthio-redash",
+  "description": "Integrates with Redash data visualization platform to enable natural language querying, dashboard creation, and data source management for analyzing and visualizing data through conversational interfaces.",
+  "source_repo": "suthio/redash-mcp",
+  "source_url": "https://github.com/suthio/redash-mcp",
+  "install": "npx -y redash-mcp"
+}

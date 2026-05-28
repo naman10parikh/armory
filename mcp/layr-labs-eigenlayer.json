@@ -1,0 +1,7 @@
+{
+  "name": "layr-labs-eigenlayer",
+  "description": "Provides structured access to EigenLayer documentation resources including blog articles, overview documentation, middleware, contracts, and developer guides through a Next.js server with Redis-powered connections.",
+  "source_repo": "layr-labs/eigenlayer-mcp-server",
+  "source_url": "https://github.com/layr-labs/eigenlayer-mcp-server",
+  "install": "npx -y eigenlayer-mcp-server"
+}

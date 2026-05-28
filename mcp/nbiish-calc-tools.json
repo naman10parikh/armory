@@ -1,0 +1,7 @@
+{
+  "name": "nbiish-calc-tools",
+  "description": "Integrates with NumPy, SciPy, and SymPy to provide advanced calculus tools for complex mathematical calculations and analysis within applications.",
+  "source_repo": "nbiish/mcp-calc-tools",
+  "source_url": "https://github.com/nbiish/mcp-calc-tools",
+  "install": "# git clone --depth 1 https://github.com/nbiish/mcp-calc-tools\n# See source for mcpServers config block"
+}

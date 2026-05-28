@@ -1,0 +1,7 @@
+{
+  "name": "feldivia-cmf-tools",
+  "description": "MCP server for Chilean financial regulation data including UF, dollar, euro, UTM rates, CMF fraud alerts, and economic indicators.",
+  "source_repo": "feldivia/mcp-cmf-tools",
+  "source_url": "https://github.com/feldivia/mcp-cmf-tools",
+  "install": "# git clone --depth 1 https://github.com/feldivia/mcp-cmf-tools\n# See source for mcpServers config block"
+}

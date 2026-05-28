@@ -1,0 +1,7 @@
+{
+  "name": "jovanhsu-neo4j-knowledge-graph",
+  "description": "Provides a Neo4j-powered knowledge graph storage solution for maintaining complex relationships between data points with persistent memory across conversations and efficient fuzzy search capabilities.",
+  "source_repo": "jovanhsu/mcp-neo4j-memory-server",
+  "source_url": "https://github.com/jovanhsu/mcp-neo4j-memory-server",
+  "install": "# git clone --depth 1 https://github.com/jovanhsu/mcp-neo4j-memory-server\n# See source for mcpServers config block"
+}

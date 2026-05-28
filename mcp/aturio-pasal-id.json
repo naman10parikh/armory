@@ -1,0 +1,7 @@
+{
+  "name": "aturio-pasal-id",
+  "description": "MCP server for querying 40,000+ Indonesian legal regulations from authoritative government sources with article-level search.",
+  "source_repo": "aturio/pasal-id-mcp",
+  "source_url": "https://github.com/aturio/pasal-id-mcp",
+  "install": "npx -y pasal-id-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alysko-zabbix",
+  "description": "Integrates with Zabbix 7.4 monitoring infrastructure with 86 tools, read-only mode, and 96% test coverage.",
+  "source_repo": "alysko/zabbix-mcp",
+  "source_url": "https://github.com/alysko/zabbix-mcp",
+  "install": "npx -y zabbix-mcp"
+}

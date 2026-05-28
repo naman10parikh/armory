@@ -1,0 +1,7 @@
+{
+  "name": "gh-markusvankempen-watson-orchestrate-builder",
+  "description": "Manage IBM Watson Orchestrate tools, agents, and connections.",
+  "source_repo": "markusvankempen/wxo-builder-mcp-server",
+  "source_url": "https://github.com/markusvankempen/wxo-builder-mcp-server",
+  "install": "npx -y wxo-builder-mcp-server"
+}

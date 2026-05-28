@@ -1,0 +1,7 @@
+{
+  "name": "lazy-toggl-mcp-server",
+  "description": "Provides tools to start/stop time tracking, list workspaces, and view current entry in Toggl.",
+  "source_repo": "movstox/lazy-toggl-mcp",
+  "source_url": "https://github.com/movstox/lazy-toggl-mcp",
+  "install": "npx -y lazy-toggl-mcp"
+}

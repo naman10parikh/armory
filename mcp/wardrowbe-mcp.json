@@ -1,0 +1,7 @@
+{
+  "name": "wardrowbe-mcp",
+  "description": "Exposes the Wardrowbe wardrobe API as MCP tools, enabling outfit suggestions, item management, wear/wash logging, and analytics via natural language.",
+  "source_repo": "saya6k/mcp-wardrowbe",
+  "source_url": "https://github.com/saya6k/mcp-wardrowbe",
+  "install": "# git clone --depth 1 https://github.com/saya6k/mcp-wardrowbe\n# See source for mcpServers config block"
+}

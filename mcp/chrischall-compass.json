@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-compass",
+  "description": "Search Compass real estate listings, view property details, photos, price history, and comparisons via your browser session.",
+  "source_repo": "chrischall/compass-mcp",
+  "source_url": "https://github.com/chrischall/compass-mcp",
+  "install": "npx -y compass-mcp"
+}

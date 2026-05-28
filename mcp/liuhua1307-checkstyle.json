@@ -1,0 +1,7 @@
+{
+  "name": "liuhua1307-checkstyle",
+  "description": "Code linting and auto-fixing for Go, Java, and Lua projects.",
+  "source_repo": "liuhua1307/checkstyle_mcp",
+  "source_url": "https://github.com/liuhua1307/checkstyle_mcp",
+  "install": "npx -y checkstyle_mcp"
+}

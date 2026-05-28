@@ -1,0 +1,7 @@
+{
+  "name": "huettentouren-4",
+  "description": "Plan multi-day hut-to-hut hiking tours in the European Alps, powered by live availability data from the Alpine Club booking systems (DAV, ÖAV, AVS). ## What it does - Recommends curated multi-day routes filtered by difficulty, duration, number of hikers, and travel window - Returns bookable start da",
+  "source_repo": "",
+  "source_url": "https://www.huettentouren.org",
+  "install": "# git clone --depth 1 https://www.huettentouren.org\n# See source for mcpServers config block"
+}

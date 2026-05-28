@@ -1,0 +1,7 @@
+{
+  "name": "libresprite",
+  "description": "Enables control of the LibreSprite pixel art editor through JavaScript scripting via a Flask proxy server that bridges communication between external commands and LibreSprite's internal scripting environment for automated sprite creation, batch image processing, and animation workflows.",
+  "source_repo": "snehil-shah/libresprite-mcp",
+  "source_url": "https://github.com/snehil-shah/libresprite-mcp",
+  "install": "npx -y libresprite-mcp"
+}

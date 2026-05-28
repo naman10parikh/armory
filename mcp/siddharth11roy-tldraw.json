@@ -1,0 +1,7 @@
+{
+  "name": "siddharth11roy-tldraw",
+  "description": "Draw shapes on a live tldraw canvas in real-time with four tools for creating, updating, and deleting elements.",
+  "source_repo": "siddharth11roy/tldraw-claude-mcp",
+  "source_url": "https://github.com/siddharth11roy/tldraw-claude-mcp",
+  "install": "npx -y tldraw-claude-mcp"
+}

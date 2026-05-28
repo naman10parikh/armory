@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-whatsapp",
+  "description": "WhatsApp MCP with SQLCipher-encrypted storage, scrubber CI, draft-and-confirm sends, and voice transcription.",
+  "source_repo": "adelaidasofia/whatsapp-mcp",
+  "source_url": "https://github.com/adelaidasofia/whatsapp-mcp",
+  "install": "npx -y whatsapp-mcp"
+}

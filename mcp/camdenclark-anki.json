@@ -1,0 +1,7 @@
+{
+  "name": "camdenclark-anki",
+  "description": "Integrates with Anki flashcard decks via AnkiConnect to enable automated creation, retrieval, and management of study materials.",
+  "source_repo": "camdenclark/anki-mcp-server",
+  "source_url": "https://github.com/camdenclark/anki-mcp-server",
+  "install": "npx -y anki-mcp-server"
+}

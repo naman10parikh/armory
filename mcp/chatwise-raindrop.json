@@ -1,0 +1,7 @@
+{
+  "name": "chatwise-raindrop",
+  "description": "Integrates with Raindrop.io bookmarking service to enable searching, creating, and retrieving bookmarks and collections through authenticated API access.",
+  "source_repo": "egoist/raindrop-mcp",
+  "source_url": "https://github.com/egoist/raindrop-mcp",
+  "install": "npx -y raindrop-mcp"
+}

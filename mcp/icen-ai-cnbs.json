@@ -1,0 +1,7 @@
+{
+  "name": "icen-ai-cnbs",
+  "description": "Queries China National Bureau of Statistics data with search, time series, batch comparison, and regional breakdowns.",
+  "source_repo": "icen-ai/mcp-cnbs",
+  "source_url": "https://github.com/icen-ai/mcp-cnbs",
+  "install": "# git clone --depth 1 https://github.com/icen-ai/mcp-cnbs\n# See source for mcpServers config block"
+}

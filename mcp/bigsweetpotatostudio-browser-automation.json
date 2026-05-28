@@ -1,0 +1,7 @@
+{
+  "name": "bigsweetpotatostudio-browser-automation",
+  "description": "Enables web browsing capabilities through Puppeteer and Chrome, allowing navigation, content extraction, and interaction with websites for scraping, analysis, and automated testing workflows.",
+  "source_repo": "bigsweetpotatostudio/hyper-mcp-browser",
+  "source_url": "https://github.com/bigsweetpotatostudio/hyper-mcp-browser",
+  "install": "# git clone --depth 1 https://github.com/bigsweetpotatostudio/hyper-mcp-browser\n# See source for mcpServers config block"
+}

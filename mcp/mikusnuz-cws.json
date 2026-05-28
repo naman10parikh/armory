@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-cws",
+  "description": "Manage Chrome extensions through Chrome Web Store operations including upload, publish, and staged rollouts.",
+  "source_repo": "mikusnuz/cws-mcp",
+  "source_url": "https://github.com/mikusnuz/cws-mcp",
+  "install": "npx -y cws-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cryptoapis-blockchain-fees",
+  "description": "Fee recommendations and gas estimation for EVM, UTXO, and XRP blockchains via Crypto APIs.",
+  "source_repo": "cryptoapis-io/cryptoapis-mcp-blockchain-fees",
+  "source_url": "https://github.com/cryptoapis-io/cryptoapis-mcp-blockchain-fees",
+  "install": "# git clone --depth 1 https://github.com/cryptoapis-io/cryptoapis-mcp-blockchain-fees\n# See source for mcpServers config block"
+}

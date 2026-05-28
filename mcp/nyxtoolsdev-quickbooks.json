@@ -1,0 +1,7 @@
+{
+  "name": "nyxtoolsdev-quickbooks",
+  "description": "Connect Claude to QuickBooks Online — query finances, create invoices, and run reports.",
+  "source_repo": "nyxtoolsdev/quickbooks-mcp-server",
+  "source_url": "https://github.com/nyxtoolsdev/quickbooks-mcp-server",
+  "install": "npx -y quickbooks-mcp-server"
+}

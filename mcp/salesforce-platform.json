@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-platform",
+  "description": "Provides secure access to Salesforce CRM data, invocable actions, analytics, and industry cloud features through 11 hosted remote server types with OAuth authentication.",
+  "source_repo": "forcedotcom/mcp-hosted",
+  "source_url": "https://github.com/forcedotcom/mcp-hosted",
+  "install": "# git clone --depth 1 https://github.com/forcedotcom/mcp-hosted\n# See source for mcpServers config block"
+}

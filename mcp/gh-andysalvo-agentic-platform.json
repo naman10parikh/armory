@@ -1,0 +1,7 @@
+{
+  "name": "gh-andysalvo-agentic-platform",
+  "description": "MCP validator, governance scoring, and cost estimation tools for AI agents.",
+  "source_repo": "andysalvo/agentic-platform",
+  "source_url": "https://github.com/andysalvo/agentic-platform",
+  "install": "# git clone --depth 1 https://github.com/andysalvo/agentic-platform\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "khengyun-notebooklm",
+  "description": "Automates Google NotebookLM interactions through browser automation using Selenium, enabling chat message sending, AI response retrieval, notebook navigation, and authentication management for automated document analysis and batch processing workflows.",
+  "source_repo": "khengyun/notebooklm-mcp",
+  "source_url": "https://github.com/khengyun/notebooklm-mcp",
+  "install": "npx -y notebooklm-mcp"
+}

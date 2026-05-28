@@ -1,0 +1,7 @@
+{
+  "name": "parassolanki-jira",
+  "description": "Integrates with Jira API to enable issue tracking, sprint planning, and project management tasks directly within conversation interfaces using personal access tokens for authentication.",
+  "source_repo": "parassolanki/jira-mcp-server",
+  "source_url": "https://github.com/parassolanki/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

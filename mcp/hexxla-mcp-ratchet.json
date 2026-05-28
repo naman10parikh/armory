@@ -1,0 +1,7 @@
+{
+  "name": "hexxla-mcp-ratchet",
+  "description": "Enforces tool call ordering in MCP servers using a token-based dependency system with multi-level chains, expiry, and one-time use.",
+  "source_repo": "hexxla/mcp-ratchet",
+  "source_url": "https://github.com/hexxla/mcp-ratchet",
+  "install": "# git clone --depth 1 https://github.com/hexxla/mcp-ratchet\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "themissinglinkhub",
+  "description": "Just news, nothing else.",
+  "source_repo": "",
+  "source_url": "https://news.themissinglinkhub.com/",
+  "install": "# git clone --depth 1 https://news.themissinglinkhub.com/\n# See source for mcpServers config block"
+}

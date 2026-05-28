@@ -1,0 +1,7 @@
+{
+  "name": "coal",
+  "description": "Payment rails for AI agents — pay merchants in USDC on Base via x402 and OKX APP protocols.",
+  "source_repo": "emmanuel39hanks/coal",
+  "source_url": "https://github.com/emmanuel39hanks/coal",
+  "install": "# git clone --depth 1 https://github.com/emmanuel39hanks/coal\n# See source for mcpServers config block"
+}

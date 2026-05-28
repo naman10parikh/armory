@@ -1,0 +1,7 @@
+{
+  "name": "junct-etherscan-api",
+  "description": "Auto-generated MCP server with 71 tools for Etherscan blockchain analytics, hosted by Junct.",
+  "source_repo": "junct-bot/etherscan-api-mcp",
+  "source_url": "https://github.com/junct-bot/etherscan-api-mcp",
+  "install": "npx -y etherscan-api-mcp"
+}

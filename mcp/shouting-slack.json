@@ -1,0 +1,7 @@
+{
+  "name": "shouting-slack",
+  "description": "Integrates with Slack workspaces to enable channel management, messaging, thread interactions, reaction handling, and user information retrieval for team communication platforms.",
+  "source_repo": "z9905080/mcp-slack",
+  "source_url": "https://github.com/z9905080/mcp-slack",
+  "install": "# git clone --depth 1 https://github.com/z9905080/mcp-slack\n# See source for mcpServers config block"
+}

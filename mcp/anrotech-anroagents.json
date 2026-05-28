@@ -1,0 +1,7 @@
+{
+  "name": "anrotech-anroagents",
+  "description": "Manages and orchestrates AI agents built on the AnroAgents platform.",
+  "source_repo": "anrotech/anroagents-mcp",
+  "source_url": "https://github.com/anrotech/anroagents-mcp",
+  "install": "npx -y anroagents-mcp"
+}

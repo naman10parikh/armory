@@ -1,0 +1,7 @@
+{
+  "name": "spyrae-concilium",
+  "description": "Multi-agent consultation framework that enables parallel queries to OpenAI, Gemini, Qwen, and DeepSeek with fallback chains and error detection.",
+  "source_repo": "spyrae/claude-concilium",
+  "source_url": "https://github.com/spyrae/claude-concilium",
+  "install": "# git clone --depth 1 https://github.com/spyrae/claude-concilium\n# See source for mcpServers config block"
+}

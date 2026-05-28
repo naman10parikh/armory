@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-dex-metrics",
+  "description": "Integrates with Dune Analytics APIs to retrieve and format trading volume data across DEX platforms, blockchain networks, aggregators, frontends, and Telegram bots with support for daily, weekly, monthly, and year-over-year analysis.",
+  "source_repo": "kukapay/dex-metrics-mcp",
+  "source_url": "https://github.com/kukapay/dex-metrics-mcp",
+  "install": "npx -y dex-metrics-mcp"
+}

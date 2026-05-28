@@ -1,0 +1,7 @@
+{
+  "name": "wilddatax-suppr",
+  "description": "AI-powered document translation and academic literature search with support for PDF, DOCX, and PPTX across 11 languages",
+  "source_repo": "wilddatax/suppr-mcp",
+  "source_url": "https://github.com/wilddatax/suppr-mcp",
+  "install": "npx -y suppr-mcp"
+}

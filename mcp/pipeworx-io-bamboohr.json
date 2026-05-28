@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-bamboohr",
+  "description": "BambooHR HR platform integration for employee directory, time-off requests, and file access via API v1.",
+  "source_repo": "pipeworx-io/mcp-bamboohr",
+  "source_url": "https://github.com/pipeworx-io/mcp-bamboohr",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bamboohr\n# See source for mcpServers config block"
+}

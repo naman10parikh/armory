@@ -1,0 +1,7 @@
+{
+  "name": "auteng-docs",
+  "description": "Publish markdown documents as public share links with mermaid diagram support.",
+  "source_repo": "",
+  "source_url": "https://auteng.ai",
+  "install": "# git clone --depth 1 https://auteng.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-launches",
+  "description": "Retrieve rocket launch schedules, astronaut data, and space agency information.",
+  "source_repo": "pipeworx-io/mcp-launches",
+  "source_url": "https://github.com/pipeworx-io/mcp-launches",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-launches\n# See source for mcpServers config block"
+}

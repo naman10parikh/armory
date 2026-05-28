@@ -1,0 +1,7 @@
+{
+  "name": "wutian122-linux-ssh",
+  "description": "Provides secure SSH connectivity to Linux systems with connection pooling, intelligent caching, and token-optimized output for remote command execution, file transfers, and interactive shell sessions.",
+  "source_repo": "wutian122/linuxssh_mcp",
+  "source_url": "https://github.com/wutian122/linuxssh_mcp",
+  "install": "npx -y linuxssh_mcp"
+}

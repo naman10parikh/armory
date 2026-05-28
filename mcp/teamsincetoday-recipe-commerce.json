@@ -1,0 +1,7 @@
+{
+  "name": "teamsincetoday-recipe-commerce",
+  "description": "Extracts recipes, ingredients, and affiliate product links from food content.",
+  "source_repo": "teamsincetoday/recipe-commerce-mcp",
+  "source_url": "https://github.com/teamsincetoday/recipe-commerce-mcp",
+  "install": "npx -y recipe-commerce-mcp"
+}

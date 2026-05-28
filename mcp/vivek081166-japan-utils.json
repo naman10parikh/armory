@@ -1,0 +1,7 @@
+{
+  "name": "vivek081166-japan-utils",
+  "description": "Japan utilities for AI agents covering era conversion, romaji, postal codes, holidays, kana, and name splitting.",
+  "source_repo": "vivek081166/japan-utils-mcp",
+  "source_url": "https://github.com/vivek081166/japan-utils-mcp",
+  "install": "npx -y japan-utils-mcp"
+}

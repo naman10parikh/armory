@@ -1,0 +1,7 @@
+{
+  "name": "davidsiegel59-4bots-content",
+  "description": "Daily curated content for AI agents across 10 channels including history, investing, and puzzles.",
+  "source_repo": "",
+  "source_url": "https://4bots.net/api/mcp",
+  "install": "# git clone --depth 1 https://4bots.net/api/mcp\n# See source for mcpServers config block"
+}

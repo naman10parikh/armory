@@ -1,0 +1,7 @@
+{
+  "name": "mrsknetwork-youtube",
+  "description": "Search YouTube, extract video transcripts, and retrieve metadata, comments, and captions via YouTube Data API v3.",
+  "source_repo": "mrsknetwork/ytmcp",
+  "source_url": "https://github.com/mrsknetwork/ytmcp",
+  "install": "# git clone --depth 1 https://github.com/mrsknetwork/ytmcp\n# See source for mcpServers config block"
+}

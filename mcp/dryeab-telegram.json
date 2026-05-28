@@ -1,0 +1,7 @@
+{
+  "name": "dryeab-telegram",
+  "description": "Enables AI interaction with Telegram messaging platform through Python-based tools for sending/editing messages, downloading media, searching conversations, and managing drafts without context switching.",
+  "source_repo": "dryeab/mcp-telegram",
+  "source_url": "https://github.com/dryeab/mcp-telegram",
+  "install": "# git clone --depth 1 https://github.com/dryeab/mcp-telegram\n# See source for mcpServers config block"
+}

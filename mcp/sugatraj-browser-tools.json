@@ -1,0 +1,7 @@
+{
+  "name": "sugatraj-browser-tools",
+  "description": "Integrates with Chrome DevTools to provide browser debugging capabilities including console logs, network requests, screenshots, DOM inspection, and Lighthouse audits for web development without leaving the assistant interface.",
+  "source_repo": "sugatraj/cursor-browser-tools-mcp",
+  "source_url": "https://github.com/sugatraj/cursor-browser-tools-mcp",
+  "install": "npx -y cursor-browser-tools-mcp"
+}

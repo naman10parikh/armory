@@ -1,0 +1,7 @@
+{
+  "name": "spraay-x402-gateway",
+  "description": "DeFi infrastructure providing AI models, batch payments, swaps, oracle data, payroll, invoicing, escrow, and analytics via pay-per-use USDC micropayments on Base.",
+  "source_repo": "plagtech/spraay-x402-mcp",
+  "source_url": "https://github.com/plagtech/spraay-x402-mcp",
+  "install": "npx -y spraay-x402-mcp"
+}

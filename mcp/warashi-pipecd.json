@@ -1,0 +1,7 @@
+{
+  "name": "warashi-pipecd",
+  "description": "Connects Claude to PipeCD's continuous delivery platform, enabling monitoring of Kubernetes application deployments, configurations, and status without leaving the conversation context.",
+  "source_repo": "warashi/mcp-server-pipecd",
+  "source_url": "https://github.com/warashi/mcp-server-pipecd",
+  "install": "# git clone --depth 1 https://github.com/warashi/mcp-server-pipecd\n# See source for mcpServers config block"
+}

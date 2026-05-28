@@ -1,0 +1,7 @@
+{
+  "name": "excalidraw-mcp",
+  "description": "Excalidraw Mcp MCP server listed on mcp.so.",
+  "source_repo": "i-tozer/excalidraw-mcp",
+  "source_url": "https://mcp.so/server/excalidraw-mcp/i-tozer",
+  "install": "npx -y excalidraw-mcp"
+}

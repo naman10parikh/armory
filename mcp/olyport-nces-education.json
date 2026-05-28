@@ -1,0 +1,7 @@
+{
+  "name": "olyport-nces-education",
+  "description": "School enrollment, graduation rates, demographics, finance, and Title I data from NCES.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/nces-education/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/nces-education/mcp\n# See source for mcpServers config block"
+}

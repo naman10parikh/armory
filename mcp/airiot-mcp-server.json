@@ -1,0 +1,7 @@
+{
+  "name": "airiot-mcp-server",
+  "description": "MCP server for the AIRIOT IoT platform, enabling AI assistants to manage data tables, records, devices, alarms, files, and more through natural language.",
+  "source_repo": "sshwsfc/mcp-server",
+  "source_url": "https://github.com/sshwsfc/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/sshwsfc/mcp-server\n# See source for mcpServers config block"
+}

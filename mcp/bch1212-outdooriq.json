@@ -1,0 +1,7 @@
+{
+  "name": "bch1212-outdooriq",
+  "description": "MCP server providing AI agents access to data on 72,000 US lakes, fish-stocking events, weather, and fishing-favorability scores.",
+  "source_repo": "bch1212/outdooriq-mcp",
+  "source_url": "https://github.com/bch1212/outdooriq-mcp",
+  "install": "npx -y outdooriq-mcp"
+}

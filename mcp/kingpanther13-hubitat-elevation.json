@@ -1,0 +1,7 @@
+{
+  "name": "kingpanther13-hubitat-elevation",
+  "description": "Native Hubitat Elevation smart home hub integration that provides device control, automation management, and comprehensive hub administration.",
+  "source_repo": "kingpanther13/hubitat-local-mcp-server",
+  "source_url": "https://github.com/kingpanther13/hubitat-local-mcp-server",
+  "install": "npx -y hubitat-local-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cdugo-docs-fetcher",
+  "description": "Fetches and delivers up-to-date programming library documentation from various language ecosystems without requiring API keys, enabling direct access to reference materials within conversations.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/cdugo-docs-fetcher",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/cdugo-docs-fetcher\n# See source for mcpServers config block"
+}

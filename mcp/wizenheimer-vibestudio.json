@@ -1,0 +1,7 @@
+{
+  "name": "wizenheimer-vibestudio",
+  "description": "Provides video and audio editing capabilities through FFmpeg integration with 14 tools for media information extraction, format conversion, trimming, merging, subtitle addition, resizing, filtering, frame extraction, thumbnail generation, and audio normalization.",
+  "source_repo": "wizenheimer/vibestudio",
+  "source_url": "https://github.com/wizenheimer/vibestudio",
+  "install": "# git clone --depth 1 https://github.com/wizenheimer/vibestudio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vetroscope-mcp",
+  "description": "A read-only Model Context Protocol server for Vetroscope that provides LLMs with detailed time-tracking data, including reports, app/project breakdowns, goals progress, and activity status, all from a local SQLite database.",
+  "source_repo": "rankin-works/Vetroscope-MCP",
+  "source_url": "https://github.com/rankin-works/Vetroscope-MCP",
+  "install": "npx -y Vetroscope-MCP"
+}

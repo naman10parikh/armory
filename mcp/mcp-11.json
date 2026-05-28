@@ -1,0 +1,7 @@
+{
+  "name": "mcp-11",
+  "description": "Build and deploy mobile apps through natural language.",
+  "source_repo": "buildingapplications/mcp",
+  "source_url": "https://github.com/buildingapplications/mcp",
+  "install": "# git clone --depth 1 https://github.com/buildingapplications/mcp\n# See source for mcpServers config block"
+}

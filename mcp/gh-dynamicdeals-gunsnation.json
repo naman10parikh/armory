@@ -1,0 +1,7 @@
+{
+  "name": "gh-dynamicdeals-gunsnation",
+  "description": "Search and retrieve detailed firearm information from the Gunsnation catalog including specifications, images, and pricing.",
+  "source_repo": "dynamicdeals/mcp-server-gunsnation",
+  "source_url": "https://github.com/dynamicdeals/mcp-server-gunsnation",
+  "install": "# git clone --depth 1 https://github.com/dynamicdeals/mcp-server-gunsnation\n# See source for mcpServers config block"
+}

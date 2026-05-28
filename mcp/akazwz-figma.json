@@ -1,0 +1,7 @@
+{
+  "name": "akazwz-figma",
+  "description": "Integrates with the Figma API to enable interaction with design files and projects, facilitating automated design tasks and AI-assisted workflows within the Figma ecosystem.",
+  "source_repo": "akazwz/mcp-figma",
+  "source_url": "https://github.com/akazwz/mcp-figma",
+  "install": "# git clone --depth 1 https://github.com/akazwz/mcp-figma\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vedantparmar12-mysql-cloudflare",
+  "description": "Provides secure MySQL database access through role-based permissions tied to GitHub usernames, enabling standard database operations with SQL injection protection, query validation, and comprehensive audit logging.",
+  "source_repo": "vedantparmar12/mcp-procuction_mysql",
+  "source_url": "https://github.com/vedantparmar12/mcp-procuction_mysql",
+  "install": "# git clone --depth 1 https://github.com/vedantparmar12/mcp-procuction_mysql\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-imdb",
+  "description": "Mcp Imdb MCP server listed on mcp.so.",
+  "source_repo": "clsung/mcp-imdb",
+  "source_url": "https://mcp.so/server/mcp-imdb/clsung",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-imdb/clsung\n# See source for mcpServers config block"
+}

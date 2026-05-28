@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-pipecd",
+  "description": "Mcp Server Pipecd MCP server listed on mcp.so.",
+  "source_repo": "Warashi/mcp-server-pipecd",
+  "source_url": "https://mcp.so/server/mcp-server-pipecd/Warashi",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-pipecd/Warashi\n# See source for mcpServers config block"
+}

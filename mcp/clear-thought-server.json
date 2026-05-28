@@ -1,0 +1,7 @@
+{
+  "name": "clear-thought-server",
+  "description": "Provide enhanced problem-solving capabilities by leveraging systematic thinking, mental models, and debugging approaches. Enable structured reasoning and decision-making support for complex challenges. Facilitate integration with MCP-compatible clients for advanced cognitive workflows.",
+  "source_repo": "chirag127/clear-thought-mcp-server",
+  "source_url": "https://github.com/chirag127/clear-thought-mcp-server",
+  "install": "npx -y clear-thought-mcp-server"
+}

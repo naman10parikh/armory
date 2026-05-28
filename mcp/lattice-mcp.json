@@ -1,0 +1,7 @@
+{
+  "name": "lattice-mcp",
+  "description": "MCP server for the Lattice container orchestration platform, enabling Claude Code to manage workers, stacks, containers, and deployments through natural language.",
+  "source_repo": "aidenappl/lattice-mcp",
+  "source_url": "https://github.com/aidenappl/lattice-mcp",
+  "install": "npx -y lattice-mcp"
+}

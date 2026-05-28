@@ -1,0 +1,7 @@
+{
+  "name": "wycats-mcpify",
+  "description": "Transforms OpenAPI/Swagger specifications into dynamic MCP tools on the fly, enabling interaction with any REST API without custom implementation for each service.",
+  "source_repo": "wycats/quick-mcp",
+  "source_url": "https://github.com/wycats/quick-mcp",
+  "install": "npx -y quick-mcp"
+}

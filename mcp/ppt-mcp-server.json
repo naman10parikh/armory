@@ -1,0 +1,7 @@
+{
+  "name": "ppt-mcp-server",
+  "description": "PPT_MCP_Server MCP server listed on mcp.so.",
+  "source_repo": "socamalo/PPT_MCP_Server",
+  "source_url": "https://mcp.so/server/PPT_MCP_Server/socamalo",
+  "install": "npx -y PPT_MCP_Server"
+}

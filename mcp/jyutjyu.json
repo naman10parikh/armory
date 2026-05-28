@@ -1,0 +1,7 @@
+{
+  "name": "jyutjyu",
+  "description": "Queries Jyutjyu's Cantonese dictionary aggregation platform across 11 dictionaries with 260,000 entries.",
+  "source_repo": "jyutjyucom/jyutjyu-mcp",
+  "source_url": "https://github.com/jyutjyucom/jyutjyu-mcp",
+  "install": "npx -y jyutjyu-mcp"
+}

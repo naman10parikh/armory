@@ -1,0 +1,7 @@
+{
+  "name": "henilcalagiya-apple-notes",
+  "description": "Full CRUD operations for Apple Notes using AppleScript automation",
+  "source_repo": "henilcalagiya/mcp-apple-notes",
+  "source_url": "https://github.com/henilcalagiya/mcp-apple-notes",
+  "install": "# git clone --depth 1 https://github.com/henilcalagiya/mcp-apple-notes\n# See source for mcpServers config block"
+}

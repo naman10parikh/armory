@@ -1,0 +1,7 @@
+{
+  "name": "constellation-finance",
+  "description": "Financial data MCP providing hosted streamable HTTP access with OAuth authentication.",
+  "source_repo": "",
+  "source_url": "https://constellationfinance.ai",
+  "install": "# git clone --depth 1 https://constellationfinance.ai\n# See source for mcpServers config block"
+}

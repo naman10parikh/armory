@@ -1,0 +1,7 @@
+{
+  "name": "solana-tracker-mcp-server",
+  "description": "SOLANA_TRACKER_MCP_SERVER MCP server listed on mcp.so.",
+  "source_repo": "8bitsats/SOLANA_TRACKER_MCP_SERVER",
+  "source_url": "https://mcp.so/server/SOLANA_TRACKER_MCP_SERVER/8bitsats",
+  "install": "npx -y SOLANA_TRACKER_MCP_SERVER"
+}

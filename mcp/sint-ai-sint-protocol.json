@@ -1,0 +1,7 @@
+{
+  "name": "sint-ai-sint-protocol",
+  "description": "Security-first MCP governance proxy (`sint-mcp`) with capability tokens, T0-T3 approval tiers, fail-closed execution, and tamper-evident audit receipts. Includes a separate `sint-scan` CLI for preflight MCP tool-risk audits.",
+  "source_repo": "sint-ai/sint-protocol",
+  "source_url": "https://github.com/sint-ai/sint-protocol",
+  "install": "# git clone --depth 1 https://github.com/sint-ai/sint-protocol\n# See source for mcpServers config block"
+}

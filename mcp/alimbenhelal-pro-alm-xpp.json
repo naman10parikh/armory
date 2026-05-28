@@ -1,0 +1,7 @@
+{
+  "name": "alimbenhelal-pro-alm-xpp",
+  "description": "Dynamics 365 Finance and Operations X++ knowledge base with Azure DevOps integration.",
+  "source_repo": "alimbenhelal-pro/alm-xpp-mcp",
+  "source_url": "https://github.com/alimbenhelal-pro/alm-xpp-mcp",
+  "install": "npx -y alm-xpp-mcp"
+}

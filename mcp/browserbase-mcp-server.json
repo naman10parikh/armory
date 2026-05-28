@@ -1,0 +1,7 @@
+{
+  "name": "browserbase-mcp-server",
+  "description": "Automate web browsers remotely on a cloud environment.",
+  "source_repo": "browserbase/mcp-server-browserbase",
+  "source_url": "https://github.com/browserbase/mcp-server-browserbase",
+  "install": "# git clone --depth 1 https://github.com/browserbase/mcp-server-browserbase\n# See source for mcpServers config block"
+}

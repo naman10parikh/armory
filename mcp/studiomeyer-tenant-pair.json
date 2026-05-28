@@ -1,0 +1,7 @@
+{
+  "name": "studiomeyer-tenant-pair",
+  "description": "Multi-user tenancy library for MCP servers with pairs, groups, bi-temporal shared state, and DSGVO erasure.",
+  "source_repo": "studiomeyer-io/mcp-tenant-pair",
+  "source_url": "https://github.com/studiomeyer-io/mcp-tenant-pair",
+  "install": "# git clone --depth 1 https://github.com/studiomeyer-io/mcp-tenant-pair\n# See source for mcpServers config block"
+}

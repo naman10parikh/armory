@@ -1,0 +1,7 @@
+{
+  "name": "pocketbase-mcp",
+  "description": "Pocketbase Mcp MCP server listed on mcp.so.",
+  "source_repo": "mrwyndham/pocketbase-mcp",
+  "source_url": "https://mcp.so/server/pocketbase-mcp/mrwyndham",
+  "install": "npx -y pocketbase-mcp"
+}

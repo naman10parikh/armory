@@ -1,0 +1,7 @@
+{
+  "name": "cyclechain-skillnet",
+  "description": "Searches, downloads, and manages AI agent skills from the SkillNet community library.",
+  "source_repo": "cyclechain/skillnet-mcp",
+  "source_url": "https://github.com/cyclechain/skillnet-mcp",
+  "install": "npx -y skillnet-mcp"
+}

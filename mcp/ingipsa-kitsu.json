@@ -1,0 +1,7 @@
+{
+  "name": "ingipsa-kitsu",
+  "description": "Manages animation and VFX production pipelines through the Kitsu production tracking platform.",
+  "source_repo": "ingipsa/kitsu-mcp-server",
+  "source_url": "https://github.com/ingipsa/kitsu-mcp-server",
+  "install": "npx -y kitsu-mcp-server"
+}

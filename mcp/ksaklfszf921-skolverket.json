@@ -1,0 +1,7 @@
+{
+  "name": "ksaklfszf921-skolverket",
+  "description": "Integrates Swedish education data including curricula, school units, and adult education programs",
+  "source_repo": "isakskogstad/skolverket-mcp",
+  "source_url": "https://github.com/isakskogstad/skolverket-mcp",
+  "install": "npx -y skolverket-mcp"
+}

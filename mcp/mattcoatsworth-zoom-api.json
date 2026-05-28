@@ -1,0 +1,7 @@
+{
+  "name": "mattcoatsworth-zoom-api",
+  "description": "Integrates with Zoom's API to enable scheduling meetings, managing participants, retrieving recordings, and automating administrative tasks through OAuth 2.0 authentication and structured tools.",
+  "source_repo": "mattcoatsworth/zoom-mcp-server",
+  "source_url": "https://github.com/mattcoatsworth/zoom-mcp-server",
+  "install": "npx -y zoom-mcp-server"
+}

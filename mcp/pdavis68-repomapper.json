@@ -1,0 +1,7 @@
+{
+  "name": "pdavis68-repomapper",
+  "description": "An MCP server (and command-line tool) to provide a dynamic map of chat-related files from the repository with their function prototypes and related files in order of relevance. Based on the \"Repo Map\" functionality in Aider.chat",
+  "source_repo": "",
+  "source_url": "https://github.com.mcas.ms/pdavis68/RepoMapper",
+  "install": "# git clone --depth 1 https://github.com.mcas.ms/pdavis68/RepoMapper\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "whensport-rugby",
+  "description": "Access rugby tournament schedules and match data for Six Nations, Rugby Championship, World Cup, Top 14, Premiership, and URC via 5 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/rugby",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/rugby\n# See source for mcpServers config block"
+}

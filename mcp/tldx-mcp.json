@@ -1,0 +1,7 @@
+{
+  "name": "tldx-mcp",
+  "description": "An MCP server for tldx that allows AI agents to brainstorm brand names and instantly verify domain availability using lightning-fast, concurrent RDAP lookups.",
+  "source_repo": "brandonyoungdev/tldx",
+  "source_url": "https://github.com/brandonyoungdev/tldx",
+  "install": "# git clone --depth 1 https://github.com/brandonyoungdev/tldx\n# See source for mcpServers config block"
+}

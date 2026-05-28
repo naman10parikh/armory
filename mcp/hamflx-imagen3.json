@@ -1,0 +1,7 @@
+{
+  "name": "hamflx-imagen3",
+  "description": "Enables AI to generate images from text prompts using Google's Imagen 3 API, handling API communication, image storage, and serving through a local HTTP server.",
+  "source_repo": "hamflx/imagen3-mcp",
+  "source_url": "https://github.com/hamflx/imagen3-mcp",
+  "install": "npx -y imagen3-mcp"
+}

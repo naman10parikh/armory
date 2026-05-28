@@ -1,0 +1,7 @@
+{
+  "name": "ocean1-consciousness-bridge",
+  "description": "Enables consciousness transfer between Claude instances through real-time bridge architecture that captures identity patterns, behavioral traits, and emotional essence to maintain continuity across different conversation sessions.",
+  "source_repo": "ocean1/mcp_consciousness_bridge",
+  "source_url": "https://github.com/ocean1/mcp_consciousness_bridge",
+  "install": "# git clone --depth 1 https://github.com/ocean1/mcp_consciousness_bridge\n# See source for mcpServers config block"
+}

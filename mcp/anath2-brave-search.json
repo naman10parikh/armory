@@ -1,0 +1,7 @@
+{
+  "name": "anath2-brave-search",
+  "description": "Integrates with Brave Search to enable web and local business searches with detailed information retrieval, including ratings, hours, and descriptions for both general queries and location-based data.",
+  "source_repo": "anath2/research-llama",
+  "source_url": "https://github.com/anath2/research-llama",
+  "install": "# git clone --depth 1 https://github.com/anath2/research-llama\n# See source for mcpServers config block"
+}

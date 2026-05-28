@@ -1,0 +1,7 @@
+{
+  "name": "askjohngeorge-doc-scraper",
+  "description": "Converts web documentation to clean markdown using Jina.ai's API, enabling easy transformation of online docs for content migration or offline use.",
+  "source_repo": "askjohngeorge/mcp-doc-scraper",
+  "source_url": "https://github.com/askjohngeorge/mcp-doc-scraper",
+  "install": "# git clone --depth 1 https://github.com/askjohngeorge/mcp-doc-scraper\n# See source for mcpServers config block"
+}

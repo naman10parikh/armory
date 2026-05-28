@@ -1,0 +1,7 @@
+{
+  "name": "jwaxman19-qlik-mcp",
+  "description": "MCP Server for Qlik Cloud API that enables querying applications, sheets, and extracting data from visualizations with comprehensive authentication and rate limiting support.",
+  "source_repo": "jwaxman19/qlik-mcp",
+  "source_url": "https://github.com/jwaxman19/qlik-mcp",
+  "install": "npx -y qlik-mcp"
+}

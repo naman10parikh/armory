@@ -1,0 +1,7 @@
+{
+  "name": "buildepicshit-wick",
+  "description": "Capture Roslyn-enriched C# exception telemetry from Godot Engine games and deliver full diagnostic context to AI assistants in one call.",
+  "source_repo": "buildepicshit/wick",
+  "source_url": "https://github.com/buildepicshit/wick",
+  "install": "# git clone --depth 1 https://github.com/buildepicshit/wick\n# See source for mcpServers config block"
+}

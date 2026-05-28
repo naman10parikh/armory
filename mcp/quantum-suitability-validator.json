@@ -1,0 +1,7 @@
+{
+  "name": "quantum-suitability-validator",
+  "description": "AI triage for quantum computing proposals: screen projects for technical suitability before budget allocation.",
+  "source_repo": "ojaskord/quantum-suitability-validator-mcp-server",
+  "source_url": "https://github.com/ojaskord/quantum-suitability-validator-mcp-server",
+  "install": "npx -y quantum-suitability-validator-mcp-server"
+}

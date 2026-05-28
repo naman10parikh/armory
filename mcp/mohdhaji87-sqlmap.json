@@ -1,0 +1,7 @@
+{
+  "name": "mohdhaji87-sqlmap",
+  "description": "Exposes SQLMap's SQL injection testing capabilities through 12 tools for vulnerability scanning, database enumeration, data extraction, and system reconnaissance with support for proxy configuration, Tor integration, and multi-threading.",
+  "source_repo": "mohdhaji87/sqlmap-mcp",
+  "source_url": "https://github.com/mohdhaji87/sqlmap-mcp",
+  "install": "npx -y sqlmap-mcp"
+}

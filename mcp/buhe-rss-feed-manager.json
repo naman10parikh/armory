@@ -1,0 +1,7 @@
+{
+  "name": "buhe-rss-feed-manager",
+  "description": "Enables AI to access and manage RSS feed content by parsing OPML files, fetching articles, and filtering content from subscribed sources",
+  "source_repo": "buhe/mcp_rss",
+  "source_url": "https://github.com/buhe/mcp_rss",
+  "install": "# git clone --depth 1 https://github.com/buhe/mcp_rss\n# See source for mcpServers config block"
+}

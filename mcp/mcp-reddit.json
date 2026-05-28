@@ -1,0 +1,7 @@
+{
+  "name": "mcp-reddit",
+  "description": "Mcp Reddit MCP server listed on mcp.so.",
+  "source_repo": "wllcnm/mcp-reddit",
+  "source_url": "https://mcp.so/server/mcp-reddit/wllcnm",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-reddit/wllcnm\n# See source for mcpServers config block"
+}

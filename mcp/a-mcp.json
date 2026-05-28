@@ -1,0 +1,7 @@
+{
+  "name": "a-mcp",
+  "description": "基于Model Context Protocol (MCP) 的A股实时行情查询服务器，支持查询A股实时价格、历史K线数据、财务信息及市场概况。",
+  "source_repo": "Llldmiao/a-stock-mcp-server",
+  "source_url": "https://github.com/Llldmiao/a-stock-mcp-server",
+  "install": "npx -y a-stock-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "forge-space-ui",
+  "description": "AI-driven UI and backend code generation across React, Vue, Angular, Svelte, and HTML with brand-aware design system integration.",
+  "source_repo": "forge-space/ui-mcp",
+  "source_url": "https://github.com/forge-space/ui-mcp",
+  "install": "npx -y ui-mcp"
+}

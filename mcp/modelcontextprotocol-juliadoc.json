@@ -1,0 +1,7 @@
+{
+  "name": "modelcontextprotocol-juliadoc",
+  "description": "Integrates Julia documentation and source code retrieval for quick reference and exploration within AI workflows.",
+  "source_repo": "jonathanfischer97/juliadoc-mcp",
+  "source_url": "https://github.com/jonathanfischer97/juliadoc-mcp",
+  "install": "npx -y juliadoc-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "designparser",
+  "description": "MCP server providing 55+ evidence-backed design rules across 9 categories as AI tools for color, typography, spacing, UX laws, and interaction design.",
+  "source_repo": "designparser/designparser-mcp",
+  "source_url": "https://github.com/designparser/designparser-mcp",
+  "install": "npx -y designparser-mcp"
+}

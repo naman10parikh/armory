@@ -1,0 +1,7 @@
+{
+  "name": "rootsbymenda-cannabis-regulatory",
+  "description": "Free cannabis compliance server covering US state testing standards, INCB narcotics data, Health Canada regulations, and EU precursor controls.",
+  "source_repo": "rootsbymenda/cannabis-mcp-server",
+  "source_url": "https://github.com/rootsbymenda/cannabis-mcp-server",
+  "install": "npx -y cannabis-mcp-server"
+}

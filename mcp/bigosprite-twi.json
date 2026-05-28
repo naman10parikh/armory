@@ -1,0 +1,7 @@
+{
+  "name": "bigosprite-twi",
+  "description": "Integrates with machine learning models through the transformers library to generate images from text prompts with robust data validation and processing capabilities.",
+  "source_repo": "bigosprite/mcp-python-twi",
+  "source_url": "https://github.com/bigosprite/mcp-python-twi",
+  "install": "# git clone --depth 1 https://github.com/bigosprite/mcp-python-twi\n# See source for mcpServers config block"
+}

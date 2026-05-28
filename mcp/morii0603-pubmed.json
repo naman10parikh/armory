@@ -1,0 +1,7 @@
+{
+  "name": "morii0603-pubmed",
+  "description": "Provides direct access to PubMed's medical literature database for searching articles, fetching detailed abstracts with metadata, and generating concise summaries for systematic literature reviews and medical research.",
+  "source_repo": "morii0603/pubmed-mcp",
+  "source_url": "https://github.com/morii0603/pubmed-mcp",
+  "install": "npx -y pubmed-mcp"
+}

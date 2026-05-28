@@ -1,0 +1,7 @@
+{
+  "name": "gh-philo-kim-openharness",
+  "description": "Discovery layer that enables AI coding agents to find and reference each other's recent sessions.",
+  "source_repo": "philo-kim/openharness",
+  "source_url": "https://github.com/philo-kim/openharness",
+  "install": "# git clone --depth 1 https://github.com/philo-kim/openharness\n# See source for mcpServers config block"
+}

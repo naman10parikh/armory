@@ -1,0 +1,7 @@
+{
+  "name": "sitevitals",
+  "description": "Monitor website health, uptime, SEO, security, and performance through conversational queries.",
+  "source_repo": "tom18a/sitevitals-mcp",
+  "source_url": "https://github.com/tom18a/sitevitals-mcp",
+  "install": "npx -y sitevitals-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "onecodeaps-retsinformation",
+  "description": "Provides access to Danish laws, bills, parliamentary cases, actors, and legislative history through the Retsinformation API.",
+  "source_repo": "onecodeaps/retsinformation-api-mcp",
+  "source_url": "https://github.com/onecodeaps/retsinformation-api-mcp",
+  "install": "npx -y retsinformation-api-mcp"
+}

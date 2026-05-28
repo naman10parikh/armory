@@ -1,0 +1,7 @@
+{
+  "name": "warzuponus-jira",
+  "description": "Enables interaction with JIRA tasks and workflows for automated project management and intelligent task tracking.",
+  "source_repo": "warzuponus/mcp-jira",
+  "source_url": "https://github.com/warzuponus/mcp-jira",
+  "install": "# git clone --depth 1 https://github.com/warzuponus/mcp-jira\n# See source for mcpServers config block"
+}

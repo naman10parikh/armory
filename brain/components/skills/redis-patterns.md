@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Redis data structure patterns, caching strategies, distributed locks, rate limiting, pub/sub, and connection management for production applications.

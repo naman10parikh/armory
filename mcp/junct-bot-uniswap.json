@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-uniswap",
+  "description": "Auto-generated MCP server for Uniswap swap quotes, liquidity pools, and trading data.",
+  "source_repo": "junct-bot/uniswap-mcp",
+  "source_url": "https://github.com/junct-bot/uniswap-mcp",
+  "install": "npx -y uniswap-mcp"
+}

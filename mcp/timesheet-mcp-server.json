@@ -1,0 +1,7 @@
+{
+  "name": "timesheet-mcp-server",
+  "description": "Enables natural language control of the Timesheet API for timer management, task tracking, and project management through MCP tools.",
+  "source_repo": "timesheetIO/timesheet-mcp",
+  "source_url": "https://github.com/timesheetIO/timesheet-mcp",
+  "install": "npx -y timesheet-mcp"
+}

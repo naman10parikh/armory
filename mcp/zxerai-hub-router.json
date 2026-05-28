@@ -1,0 +1,7 @@
+{
+  "name": "zxerai-hub-router",
+  "description": "Centralized hub for managing and routing multiple MCP servers through a web-based dashboard with smart routing capabilities that uses vector embeddings to automatically select the most appropriate server for tool calls.",
+  "source_repo": "zxerai/mcp-server",
+  "source_url": "https://github.com/zxerai/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/zxerai/mcp-server\n# See source for mcpServers config block"
+}

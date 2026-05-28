@@ -1,0 +1,7 @@
+{
+  "name": "yannyhl-linkedsword",
+  "description": "MCP server for Roblox Studio combining bulk operations, diff-based script review, and playtest automation with 73 tools.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/yannyhl-linkedsword",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/yannyhl-linkedsword\n# See source for mcpServers config block"
+}

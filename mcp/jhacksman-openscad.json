@@ -1,0 +1,7 @@
+{
+  "name": "jhacksman-openscad",
+  "description": "Transforms natural language descriptions into parametric 3D models through a pipeline of image generation, object segmentation, 3D modeling, and OpenSCAD code conversion for customizable 3D printing.",
+  "source_repo": "jhacksman/openscad-mcp-server",
+  "source_url": "https://github.com/jhacksman/openscad-mcp-server",
+  "install": "npx -y openscad-mcp-server"
+}

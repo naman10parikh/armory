@@ -1,0 +1,7 @@
+{
+  "name": "gotohuman-mcp-server",
+  "description": "Gotohuman Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "gotohuman/gotohuman-mcp-server",
+  "source_url": "https://mcp.so/server/gotohuman-mcp-server/gotohuman",
+  "install": "npx -y gotohuman-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mlobo2012-claude-desktop-api",
+  "description": "Integrates Claude API features, enabling direct API access, extended context windows, and advanced conversation management. Helpful to bypass standard daily limits of Claude.ai.",
+  "source_repo": "mlobo2012/claude_desktop_api_use_via_mcp",
+  "source_url": "https://github.com/mlobo2012/claude_desktop_api_use_via_mcp",
+  "install": "npx -y claude_desktop_api_use_via_mcp"
+}

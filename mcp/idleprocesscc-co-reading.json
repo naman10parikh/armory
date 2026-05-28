@@ -1,0 +1,7 @@
+{
+  "name": "idleprocesscc-co-reading",
+  "description": "Enables collaborative reading between humans and Claude by importing EPUB or text files, supporting chapter navigation, full-text search, margin annotations, and synchronized progress.",
+  "source_repo": "idleprocesscc/co-reading-mcp",
+  "source_url": "https://github.com/idleprocesscc/co-reading-mcp",
+  "install": "npx -y co-reading-mcp"
+}

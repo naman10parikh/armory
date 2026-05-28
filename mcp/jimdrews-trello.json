@@ -1,0 +1,7 @@
+{
+  "name": "jimdrews-trello",
+  "description": "Manage Trello boards, lists, and cards from any MCP-compatible AI assistant.",
+  "source_repo": "jimdrews/fastmcp-trello",
+  "source_url": "https://github.com/jimdrews/fastmcp-trello",
+  "install": "# git clone --depth 1 https://github.com/jimdrews/fastmcp-trello\n# See source for mcpServers config block"
+}

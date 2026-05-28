@@ -1,0 +1,7 @@
+{
+  "name": "sample-mcp-server-tos",
+  "description": "Sample Mcp Server Tos MCP server listed on mcp.so.",
+  "source_repo": "dinghuazhou/sample-mcp-server-tos",
+  "source_url": "https://mcp.so/server/sample-mcp-server-tos/dinghuazhou",
+  "install": "# git clone --depth 1 https://mcp.so/server/sample-mcp-server-tos/dinghuazhou\n# See source for mcpServers config block"
+}

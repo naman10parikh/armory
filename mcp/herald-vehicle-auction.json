@@ -1,0 +1,7 @@
+{
+  "name": "herald-vehicle-auction",
+  "description": "Peru vehicle auction catalog and AVT market valuations for VMC Subastas.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/herald-vehicle-auction",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/herald-vehicle-auction\n# See source for mcpServers config block"
+}

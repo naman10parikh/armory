@@ -1,0 +1,7 @@
+{
+  "name": "flagify-nmap",
+  "description": "Integrates with nmap network scanning tools through HTTP endpoints to perform network discovery, port scanning, and host enumeration with asynchronous task management and configurable timeouts.",
+  "source_repo": "flagify-com/nmap-mcp-http",
+  "source_url": "https://github.com/flagify-com/nmap-mcp-http",
+  "install": "# git clone --depth 1 https://github.com/flagify-com/nmap-mcp-http\n# See source for mcpServers config block"
+}

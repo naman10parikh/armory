@@ -1,0 +1,7 @@
+{
+  "name": "rrgu26-bankregpulse",
+  "description": "Banking regulation tracking and compliance intelligence for financial institutions.",
+  "source_repo": "rrgu26/bankregpulse-mcp-server",
+  "source_url": "https://github.com/rrgu26/bankregpulse-mcp-server",
+  "install": "npx -y bankregpulse-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hao-phone-control",
+  "description": "Enables remote control of Android phones through ADB commands for making calls, sending texts, taking screenshots, managing contacts, launching apps, and retrieving system information.",
+  "source_repo": "hao-cyber/phone-mcp",
+  "source_url": "https://github.com/hao-cyber/phone-mcp",
+  "install": "npx -y phone-mcp"
+}

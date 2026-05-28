@@ -1,0 +1,7 @@
+{
+  "name": "maindex-expert",
+  "description": "Full-control memory API for AI agents with memories, collections, links, search, and bulk operations.",
+  "source_repo": "maindexapp/maindex",
+  "source_url": "https://github.com/maindexapp/maindex/tree/HEAD/apps/expert_api",
+  "install": "# git clone --depth 1 https://github.com/maindexapp/maindex/tree/HEAD/apps/expert_api\n# See source for mcpServers config block"
+}

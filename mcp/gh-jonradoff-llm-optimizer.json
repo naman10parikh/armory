@@ -1,0 +1,7 @@
+{
+  "name": "gh-jonradoff-llm-optimizer",
+  "description": "AI brand visibility analytics with visibility scores, optimization strategies, and search rankings.",
+  "source_repo": "jonradoff/llmopt",
+  "source_url": "https://github.com/jonradoff/llmopt",
+  "install": "# git clone --depth 1 https://github.com/jonradoff/llmopt\n# See source for mcpServers config block"
+}

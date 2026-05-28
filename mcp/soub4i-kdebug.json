@@ -1,0 +1,7 @@
+{
+  "name": "soub4i-kdebug",
+  "description": "Enables natural language interaction with Kubernetes resources, allowing developers to manage clusters through conversational interfaces instead of complex kubectl commands.",
+  "source_repo": "soub4i/kdebug-mcp",
+  "source_url": "https://github.com/soub4i/kdebug-mcp",
+  "install": "npx -y kdebug-mcp"
+}

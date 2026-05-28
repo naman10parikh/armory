@@ -1,0 +1,7 @@
+{
+  "name": "jmdurant-app-store-connect",
+  "description": "Manages apps, builds, TestFlight, devices, and provisioning profiles through the App Store Connect API.",
+  "source_repo": "jmdurant/asc-mcp-server",
+  "source_url": "https://github.com/jmdurant/asc-mcp-server",
+  "install": "npx -y asc-mcp-server"
+}

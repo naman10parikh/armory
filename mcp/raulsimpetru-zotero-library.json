@@ -1,0 +1,7 @@
+{
+  "name": "raulsimpetru-zotero-library",
+  "description": "Add papers and books to Zotero by DOI, arXiv ID, or ISBN and manage collections and tags.",
+  "source_repo": "raulsimpetru/zotero-library-mcp",
+  "source_url": "https://github.com/raulsimpetru/zotero-library-mcp",
+  "install": "npx -y zotero-library-mcp"
+}

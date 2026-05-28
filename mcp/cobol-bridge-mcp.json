@@ -1,0 +1,7 @@
+{
+  "name": "cobol-bridge-mcp",
+  "description": "AI-assisted COBOL to modern stack bridge that parses COBOL programs, maps to Python/Java/Go, generates test harnesses, and plans migration for legacy mainframe modernization.",
+  "source_repo": "CSOAI-ORG/cobol-bridge-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/cobol-bridge-mcp",
+  "install": "npx -y cobol-bridge-mcp"
+}

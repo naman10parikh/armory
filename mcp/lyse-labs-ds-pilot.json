@@ -1,0 +1,7 @@
+{
+  "name": "lyse-labs-ds-pilot",
+  "description": "Expose design system components and tokens to AI agents for search, prop inspection, and token lookup.",
+  "source_repo": "lyse-labs/ds-pilot",
+  "source_url": "https://github.com/lyse-labs/ds-pilot",
+  "install": "# git clone --depth 1 https://github.com/lyse-labs/ds-pilot\n# See source for mcpServers config block"
+}

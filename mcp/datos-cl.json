@@ -1,0 +1,7 @@
+{
+  "name": "datos-cl",
+  "description": "Chilean government open data portal (datos.gob.cl) access via a Pipeworx-hosted MCP endpoint.",
+  "source_repo": "pipeworx-io/mcp-datos-cl",
+  "source_url": "https://github.com/pipeworx-io/mcp-datos-cl",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-datos-cl\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jkingsman-qanon",
+  "description": "Enables access to QAnon drops for sociological research.",
+  "source_repo": "jkingsman/qanon-mcp-server",
+  "source_url": "https://github.com/jkingsman/qanon-mcp-server",
+  "install": "npx -y qanon-mcp-server"
+}

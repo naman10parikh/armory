@@ -1,0 +1,7 @@
+{
+  "name": "simplescraper",
+  "description": "Integrates with the Simplescraper API to enable automated data extraction from websites without managing direct API integration complexities.",
+  "source_repo": "",
+  "source_url": "https://simplescraper.io/",
+  "install": "# git clone --depth 1 https://simplescraper.io/\n# See source for mcpServers config block"
+}

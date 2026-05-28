@@ -1,0 +1,7 @@
+{
+  "name": "fileai",
+  "description": "Offers tools to work with the fileAI file processing pipeline. It allows for uploading files, performing Optical Character Recognition (OCR), classifying documents, and extracting structured data.",
+  "source_repo": "fileai/file-ai-mcp",
+  "source_url": "https://github.com/fileai/file-ai-mcp",
+  "install": "npx -y file-ai-mcp"
+}

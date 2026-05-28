@@ -1,0 +1,7 @@
+{
+  "name": "codelogic",
+  "description": "Analyze software dependencies and assess impact of code changes",
+  "source_repo": "CodeLogicIncEngineering/codelogic-mcp-server",
+  "source_url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
+  "install": "npx -y codelogic-mcp-server"
+}

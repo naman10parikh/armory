@@ -1,0 +1,7 @@
+{
+  "name": "mcp-interactive",
+  "description": "A MCP server that collects interactive user feedback during AI-assisted development, reducing unnecessary tool calls and costs by enabling AI to confirm with users.",
+  "source_repo": "RealAlexandreAI/mcp-interactive",
+  "source_url": "https://github.com/RealAlexandreAI/mcp-interactive",
+  "install": "# git clone --depth 1 https://github.com/RealAlexandreAI/mcp-interactive\n# See source for mcpServers config block"
+}

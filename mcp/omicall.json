@@ -1,0 +1,7 @@
+{
+  "name": "omicall",
+  "description": "Call center and multi-channel platform providing 80+ tools for telephony, ticketing, Zalo, Facebook, Telegram, and LiveTalk.",
+  "source_repo": "vihatteam/omicall-mcp",
+  "source_url": "https://github.com/vihatteam/omicall-mcp",
+  "install": "npx -y omicall-mcp"
+}

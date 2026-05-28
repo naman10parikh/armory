@@ -1,0 +1,7 @@
+{
+  "name": "crewone",
+  "description": "Taiwan film production platform: equipment rates, studios, photographer and director references for AI pre-production.",
+  "source_repo": "tzipway-dotcom/crewone-mcp-server",
+  "source_url": "https://github.com/tzipway-dotcom/crewone-mcp-server",
+  "install": "npx -y crewone-mcp-server"
+}

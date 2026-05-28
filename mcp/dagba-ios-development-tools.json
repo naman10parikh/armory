@@ -1,0 +1,7 @@
+{
+  "name": "dagba-ios-development-tools",
+  "description": "Automates iOS development workflows through command-line tools like simctl, xcodebuild, and idb for building apps, managing simulators, controlling UI interactions, capturing screenshots, and debugging Swift concurrency.",
+  "source_repo": "dagba/ios-mcp",
+  "source_url": "https://github.com/dagba/ios-mcp",
+  "install": "npx -y ios-mcp"
+}

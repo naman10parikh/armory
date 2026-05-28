@@ -1,0 +1,7 @@
+{
+  "name": "kentaroajisaka-japanese-labor-law",
+  "description": "Retrieves Japanese labor and social insurance laws, MHLW administrative notices, and JAISH safety regulations from government databases.",
+  "source_repo": "kentaroajisaka/labor-law-mcp",
+  "source_url": "https://github.com/kentaroajisaka/labor-law-mcp",
+  "install": "npx -y labor-law-mcp"
+}

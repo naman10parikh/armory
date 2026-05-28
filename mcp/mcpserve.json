@@ -1,0 +1,7 @@
+{
+  "name": "mcpserve",
+  "description": "Mcpserve MCP server listed on mcp.so.",
+  "source_repo": "ryaneggz/mcpserve",
+  "source_url": "https://mcp.so/server/mcpserve/ryaneggz",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcpserve/ryaneggz\n# See source for mcpServers config block"
+}

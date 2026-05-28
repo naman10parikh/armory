@@ -1,0 +1,7 @@
+{
+  "name": "where",
+  "description": "CRUD operations for the Where location data service.",
+  "source_repo": "where-org/where-mcp",
+  "source_url": "https://github.com/where-org/where-mcp",
+  "install": "npx -y where-mcp"
+}

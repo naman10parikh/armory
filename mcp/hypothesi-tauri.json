@@ -1,0 +1,7 @@
+{
+  "name": "hypothesi-tauri",
+  "description": "Integrates with Tauri v2 applications during development",
+  "source_repo": "hypothesi/mcp-server-tauri",
+  "source_url": "https://github.com/hypothesi/mcp-server-tauri",
+  "install": "# git clone --depth 1 https://github.com/hypothesi/mcp-server-tauri\n# See source for mcpServers config block"
+}

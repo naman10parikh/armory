@@ -1,0 +1,7 @@
+{
+  "name": "branch-thinking",
+  "description": "Enables simultaneous management of multiple reasoning paths through a branch-based navigation system that supports creation, cross-referencing, insight generation, and priority tracking for complex problem-solving tasks.",
+  "source_repo": "ssdeanx/branch-thinking-mcp",
+  "source_url": "https://github.com/ssdeanx/branch-thinking-mcp",
+  "install": "npx -y branch-thinking-mcp"
+}

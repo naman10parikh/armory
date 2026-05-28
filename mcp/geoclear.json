@@ -1,0 +1,7 @@
+{
+  "name": "geoclear",
+  "description": "US address intelligence — verify, autocomplete, reverse geocode, and assess climate/drone risk across 198M+ addresses.",
+  "source_repo": "",
+  "source_url": "https://geoclear.io",
+  "install": "# git clone --depth 1 https://geoclear.io\n# See source for mcpServers config block"
+}

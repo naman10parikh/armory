@@ -1,0 +1,7 @@
+{
+  "name": "gabry848-mytaskly",
+  "description": "Task management with voice commands and AI categorization.",
+  "source_repo": "mytaskly/mcp",
+  "source_url": "https://github.com/mytaskly/mcp",
+  "install": "# git clone --depth 1 https://github.com/mytaskly/mcp\n# See source for mcpServers config block"
+}

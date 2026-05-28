@@ -1,0 +1,7 @@
+{
+  "name": "taciturnaxolotl-traverse",
+  "description": "Interactive code walkthrough diagrams using Mermaid syntax with clickable nodes and explanations.",
+  "source_repo": "taciturnaxolotl/traverse",
+  "source_url": "https://github.com/taciturnaxolotl/traverse",
+  "install": "# git clone --depth 1 https://github.com/taciturnaxolotl/traverse\n# See source for mcpServers config block"
+}

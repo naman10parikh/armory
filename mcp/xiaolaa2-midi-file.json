@@ -1,0 +1,7 @@
+{
+  "name": "xiaolaa2-midi-file",
+  "description": "Parse and manipulate MIDI files based on Tone.js",
+  "source_repo": "xiaolaa2/midi-file-mcp",
+  "source_url": "https://github.com/xiaolaa2/midi-file-mcp",
+  "install": "npx -y midi-file-mcp"
+}

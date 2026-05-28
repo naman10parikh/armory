@@ -1,0 +1,7 @@
+{
+  "name": "cmd0s-esp32-ai-loop",
+  "description": "Closes the ESP32 firmware development loop — compile, flash, and monitor device output autonomously via 11 tools for serial port management and ESP-IDF operations.",
+  "source_repo": "cmd0s/esp32-ai-loop-mcp-server",
+  "source_url": "https://github.com/cmd0s/esp32-ai-loop-mcp-server",
+  "install": "npx -y esp32-ai-loop-mcp-server"
+}

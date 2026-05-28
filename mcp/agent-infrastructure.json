@@ -1,0 +1,7 @@
+{
+  "name": "agent-infrastructure",
+  "description": "Agent infrastructure that runs itself. Six tools for autonomous agents: free LLM model recommendations across 17 models, real-time provider availability monitoring, LLM routing proxy with 3% margin, and stateless memory compression with 5 free sessions. All paid services via x402 on Solana USDC. No",
+  "source_repo": "",
+  "source_url": "https://getkin.io",
+  "install": "# git clone --depth 1 https://getkin.io\n# See source for mcpServers config block"
+}

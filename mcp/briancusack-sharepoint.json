@@ -1,0 +1,7 @@
+{
+  "name": "briancusack-sharepoint",
+  "description": "Integrates with SharePoint through Microsoft Graph API to enable direct access, search, and analysis of organizational documents, folders, and sites without leaving your assistant interface.",
+  "source_repo": "briancusack/mcpsharepoint",
+  "source_url": "https://github.com/briancusack/mcpsharepoint",
+  "install": "# git clone --depth 1 https://github.com/briancusack/mcpsharepoint\n# See source for mcpServers config block"
+}

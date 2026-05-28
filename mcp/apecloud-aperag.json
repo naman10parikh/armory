@@ -1,0 +1,7 @@
+{
+  "name": "apecloud-aperag",
+  "description": "Production-ready RAG platform combining Graph RAG, vector search, and full-text search. Best choice for building your own Knowledge Graph and for Context Engineering",
+  "source_repo": "apecloud/ApeRAG",
+  "source_url": "https://github.com/apecloud/ApeRAG",
+  "install": "# git clone --depth 1 https://github.com/apecloud/ApeRAG\n# See source for mcpServers config block"
+}

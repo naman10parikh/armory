@@ -1,0 +1,7 @@
+{
+  "name": "jbchouinard-document-reader",
+  "description": "Enables interaction with PDF and EPUB documents for reading, analyzing content, and extracting information from document files.",
+  "source_repo": "jbchouinard/mcp-document-reader",
+  "source_url": "https://github.com/jbchouinard/mcp-document-reader",
+  "install": "# git clone --depth 1 https://github.com/jbchouinard/mcp-document-reader\n# See source for mcpServers config block"
+}

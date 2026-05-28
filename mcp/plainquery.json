@@ -1,0 +1,7 @@
+{
+  "name": "plainquery",
+  "description": "Query PostgreSQL databases in plain English without writing SQL.",
+  "source_repo": "jarvis-27/mcp-db-agent",
+  "source_url": "https://github.com/jarvis-27/mcp-db-agent",
+  "install": "# git clone --depth 1 https://github.com/jarvis-27/mcp-db-agent\n# See source for mcpServers config block"
+}

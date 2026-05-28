@@ -1,0 +1,7 @@
+{
+  "name": "mikkoparkkola-trvl",
+  "description": "AI travel agent MCP server for searching flights, hotels, and ground transport across Europe and beyond.",
+  "source_repo": "mikkoparkkola/trvl",
+  "source_url": "https://github.com/mikkoparkkola/trvl",
+  "install": "# git clone --depth 1 https://github.com/mikkoparkkola/trvl\n# See source for mcpServers config block"
+}

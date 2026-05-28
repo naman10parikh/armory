@@ -1,0 +1,7 @@
+{
+  "name": "etairl-parallel-browser",
+  "description": "Parallel browser automation across Browserbase, Anchor Browser, and Cloudflare providers.",
+  "source_repo": "etairl/parallel-browser-mcp",
+  "source_url": "https://github.com/etairl/parallel-browser-mcp",
+  "install": "npx -y parallel-browser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "assistant-ui",
+  "description": "The MCP server tools have been designed to allow an agent to query the specific information it needs to complete an assistant-ui related task - for example: implementing chat components, integrating with different runtimes, understanding component architecture, and troubleshooting issues.",
+  "source_repo": "assistant-ui/assistant-ui",
+  "source_url": "https://github.com/assistant-ui/assistant-ui",
+  "install": "# git clone --depth 1 https://github.com/assistant-ui/assistant-ui\n# See source for mcpServers config block"
+}

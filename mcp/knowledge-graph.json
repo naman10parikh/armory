@@ -1,0 +1,7 @@
+{
+  "name": "knowledge-graph",
+  "description": "Long-term memory system for AI agents that accumulates domain expertise through mentorship, automatically recalls relevant knowledge, and supports memory decay and growth with anti-fabrication.",
+  "source_repo": "ChenLiangChong/knowledgeGraph",
+  "source_url": "https://github.com/ChenLiangChong/knowledgeGraph",
+  "install": "# git clone --depth 1 https://github.com/ChenLiangChong/knowledgeGraph\n# See source for mcpServers config block"
+}

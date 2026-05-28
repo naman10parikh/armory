@@ -1,0 +1,7 @@
+{
+  "name": "kinothe-kafkaesque-ssh-commander",
+  "description": "Enables secure remote server management by executing SSH commands using stored credentials in a SQLite database, providing tools for command execution and credential management without leaving the conversation interface.",
+  "source_repo": "kinothe-kafkaesque/ssh-mcp-server",
+  "source_url": "https://github.com/kinothe-kafkaesque/ssh-mcp-server",
+  "install": "npx -y ssh-mcp-server"
+}

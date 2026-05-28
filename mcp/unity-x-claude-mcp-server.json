@@ -1,0 +1,7 @@
+{
+  "name": "unity-x-claude-mcp-server",
+  "description": "An MCP server that provides 20 tools to control the Unity Editor with natural language, including scene management, component manipulation, script generation, asset handling, project settings, builds, and live C# execution.",
+  "source_repo": "matthewagi/unityxclaude",
+  "source_url": "https://github.com/matthewagi/unityxclaude",
+  "install": "# git clone --depth 1 https://github.com/matthewagi/unityxclaude\n# See source for mcpServers config block"
+}

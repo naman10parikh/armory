@@ -1,0 +1,7 @@
+{
+  "name": "adsb-mcp-server",
+  "description": "Exposes real-time ADS-B aircraft data from a feeder, enabling natural language queries for aircraft positions, receiver statistics, and flight searches.",
+  "source_repo": "dirkhh/adsb-mcp-server",
+  "source_url": "https://github.com/dirkhh/adsb-mcp-server",
+  "install": "npx -y adsb-mcp-server"
+}

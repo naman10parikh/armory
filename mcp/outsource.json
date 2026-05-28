@@ -1,0 +1,7 @@
+{
+  "name": "outsource",
+  "description": "Delegates text generation and image creation tasks to external AI models including OpenAI, Anthropic, Google, Groq, and DeepSeek, enabling access to alternative perspectives, specialized capabilities, and visual content generation.",
+  "source_repo": "gwbischof/outsource-mcp",
+  "source_url": "https://github.com/gwbischof/outsource-mcp",
+  "install": "npx -y outsource-mcp"
+}

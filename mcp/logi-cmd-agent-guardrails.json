@@ -1,0 +1,7 @@
+{
+  "name": "logi-cmd-agent-guardrails",
+  "description": "Production guardrails for AI coding agents that validate changes before they reach production.",
+  "source_repo": "logi-cmd/agent-guardrails",
+  "source_url": "https://github.com/logi-cmd/agent-guardrails",
+  "install": "# git clone --depth 1 https://github.com/logi-cmd/agent-guardrails\n# See source for mcpServers config block"
+}

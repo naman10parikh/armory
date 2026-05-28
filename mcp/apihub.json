@@ -1,0 +1,7 @@
+{
+  "name": "apihub",
+  "description": "Discover and invoke APIs using USDC credits with AI agent support.",
+  "source_repo": "apihubio/mcp-server",
+  "source_url": "https://github.com/apihubio/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/apihubio/mcp-server\n# See source for mcpServers config block"
+}

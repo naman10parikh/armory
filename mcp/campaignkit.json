@@ -1,0 +1,7 @@
+{
+  "name": "campaignkit",
+  "description": "Validates email addresses with comprehensive checks for format, deliverability, disposable domains, and catch-all addresses",
+  "source_repo": "",
+  "source_url": "https://campaignkit.cc/docs/mcp-server",
+  "install": "# git clone --depth 1 https://campaignkit.cc/docs/mcp-server\n# See source for mcpServers config block"
+}

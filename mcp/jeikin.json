@@ -1,0 +1,7 @@
+{
+  "name": "jeikin",
+  "description": "Accessibility compliance MCP server for tracking and verifying WCAG and ADA fixes in code.",
+  "source_repo": "ssmancha/jeikin",
+  "source_url": "https://github.com/ssmancha/jeikin",
+  "install": "# git clone --depth 1 https://github.com/ssmancha/jeikin\n# See source for mcpServers config block"
+}

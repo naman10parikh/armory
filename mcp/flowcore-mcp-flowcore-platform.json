@@ -1,0 +1,7 @@
+{
+  "name": "flowcore-mcp-flowcore-platform",
+  "description": "Interact with Flowcore to perform actions, ingest data, and analyse, cross reference and utilise any data in your data cores, or in public data cores; all with human language.",
+  "source_repo": "flowcore-io/mcp-flowcore-platform",
+  "source_url": "https://github.com/flowcore-io/mcp-flowcore-platform",
+  "install": "# git clone --depth 1 https://github.com/flowcore-io/mcp-flowcore-platform\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thehesiod-costco",
+  "description": "Accesses Costco warehouse receipts and online orders via Costco's GraphQL API for purchase history analysis and expense tracking.",
+  "source_repo": "thehesiod/costco-mcp",
+  "source_url": "https://github.com/thehesiod/costco-mcp",
+  "install": "npx -y costco-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zach-snell-bitbucket",
+  "description": "Go-based Bitbucket Cloud integration with dual CLI and server modes for managing repositories, pull requests, pipelines, and source code.",
+  "source_repo": "zach-snell/bbkt",
+  "source_url": "https://github.com/zach-snell/bbkt",
+  "install": "# git clone --depth 1 https://github.com/zach-snell/bbkt\n# See source for mcpServers config block"
+}

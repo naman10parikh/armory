@@ -1,0 +1,7 @@
+{
+  "name": "zyntx-lab-periphery",
+  "description": "Swift code analysis tool that detects unused code and improves code quality in iOS and macOS projects",
+  "source_repo": "zyntx-lab/periphery-mcp-server",
+  "source_url": "https://github.com/zyntx-lab/periphery-mcp-server",
+  "install": "npx -y periphery-mcp-server"
+}

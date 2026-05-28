@@ -1,0 +1,7 @@
+{
+  "name": "hansdoebel-lancedb",
+  "description": "Zed editor extension integrating LanceDB vector database for document ingestion with auto-embeddings, vector search, full-text search, and hybrid queries.",
+  "source_repo": "hansdoebel/zed-mcp-lancedb",
+  "source_url": "https://github.com/hansdoebel/zed-mcp-lancedb",
+  "install": "# git clone --depth 1 https://github.com/hansdoebel/zed-mcp-lancedb\n# See source for mcpServers config block"
+}

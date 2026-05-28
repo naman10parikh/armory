@@ -1,0 +1,7 @@
+{
+  "name": "veoery-grasshopper-3d",
+  "description": "Integrates with Rhino/Grasshopper 3D modeling software to enable parametric design and geometric analysis through natural language commands for architects, designers, and engineers.",
+  "source_repo": "veoery/gh_mcp_server",
+  "source_url": "https://github.com/veoery/gh_mcp_server",
+  "install": "npx -y gh_mcp_server"
+}

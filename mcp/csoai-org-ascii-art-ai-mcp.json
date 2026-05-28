@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-ascii-art-ai-mcp",
+  "description": "ASCII art generation tools using AI for text-based visual output.",
+  "source_repo": "csoai-org/ascii-art-ai-mcp",
+  "source_url": "https://github.com/csoai-org/ascii-art-ai-mcp",
+  "install": "npx -y ascii-art-ai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jjsantos-qgis",
+  "description": "Enables AI systems to perform complex GIS operations in QGIS through a socket-based architecture that exposes geospatial capabilities like adding layers, executing processing algorithms, and rendering maps.",
+  "source_repo": "jjsantos01/qgis_mcp",
+  "source_url": "https://github.com/jjsantos01/qgis_mcp",
+  "install": "npx -y qgis_mcp"
+}

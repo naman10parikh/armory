@@ -1,0 +1,7 @@
+{
+  "name": "bertron-mcp",
+  "description": "MCP server providing access to the BERtron API for aggregating genomic and environmental data from multiple BER data sources, enabling geospatial search and health checks.",
+  "source_repo": "ber-data/bertron-mcp",
+  "source_url": "https://github.com/ber-data/bertron-mcp",
+  "install": "npx -y bertron-mcp"
+}

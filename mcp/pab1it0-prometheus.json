@@ -1,0 +1,7 @@
+{
+  "name": "pab1it0-prometheus",
+  "description": "Connects AI systems to Prometheus monitoring infrastructure for executing PromQL queries, discovering metrics, and retrieving target metadata to enable real-time operational analytics and performance monitoring.",
+  "source_repo": "pab1it0/prometheus-mcp-server",
+  "source_url": "https://github.com/pab1it0/prometheus-mcp-server",
+  "install": "npx -y prometheus-mcp-server"
+}

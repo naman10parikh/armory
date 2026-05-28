@@ -1,0 +1,7 @@
+{
+  "name": "coderider-mcp",
+  "description": "Coderider Mcp MCP server listed on mcp.so.",
+  "source_repo": "victorzxj/coderider-mcp",
+  "source_url": "https://mcp.so/server/coderider-mcp/victorzxj",
+  "install": "npx -y coderider-mcp"
+}

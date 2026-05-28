@@ -1,0 +1,7 @@
+{
+  "name": "ethereum-rpc-mpc",
+  "description": "Ethereum Rpc Mpc MCP server listed on mcp.so.",
+  "source_repo": "Phillip-Kemper/ethereum-rpc-mpc",
+  "source_url": "https://mcp.so/server/ethereum-rpc-mpc/Phillip-Kemper",
+  "install": "# git clone --depth 1 https://mcp.so/server/ethereum-rpc-mpc/Phillip-Kemper\n# See source for mcpServers config block"
+}

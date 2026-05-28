@@ -1,0 +1,7 @@
+{
+  "name": "nick-trombley-barnsworthburning-search",
+  "description": "Integrates with barnsworthburning.net's API to enable direct querying of website content for design, typography, and user experience information",
+  "source_repo": "aias/barnsworthburning-mcp",
+  "source_url": "https://github.com/aias/barnsworthburning-mcp",
+  "install": "npx -y barnsworthburning-mcp"
+}

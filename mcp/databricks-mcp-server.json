@@ -1,0 +1,7 @@
+{
+  "name": "databricks-mcp-server",
+  "description": "Exposes Databricks REST API as MCP tools for managing clusters, jobs, notebooks, SQL queries, Unity Catalog, and more. Enables AI agents to interact with Databricks workspaces through natural language.",
+  "source_repo": "markov-kernel/databricks-mcp",
+  "source_url": "https://github.com/markov-kernel/databricks-mcp",
+  "install": "npx -y databricks-mcp"
+}

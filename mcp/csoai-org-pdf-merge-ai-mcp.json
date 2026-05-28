@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-pdf-merge-ai-mcp",
+  "description": "Python MCP server for PDF merging and document combination tools.",
+  "source_repo": "csoai-org/pdf-merge-ai-mcp",
+  "source_url": "https://github.com/csoai-org/pdf-merge-ai-mcp",
+  "install": "npx -y pdf-merge-ai-mcp"
+}

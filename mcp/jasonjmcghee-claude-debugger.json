@@ -1,0 +1,7 @@
+{
+  "name": "jasonjmcghee-claude-debugger",
+  "description": "Integrates with VS Code's debugging capabilities to enable interactive code debugging and expression evaluation.",
+  "source_repo": "jasonjmcghee/claude-debugs-for-you",
+  "source_url": "https://github.com/jasonjmcghee/claude-debugs-for-you",
+  "install": "# git clone --depth 1 https://github.com/jasonjmcghee/claude-debugs-for-you\n# See source for mcpServers config block"
+}

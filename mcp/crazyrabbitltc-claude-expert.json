@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-claude-expert",
+  "description": "Provides documentation assistance capabilities for developers looking to incorporate up-to-date docs in their workflows.",
+  "source_repo": "crazyrabbitltc/mcp-expert-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-expert-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-expert-server\n# See source for mcpServers config block"
+}

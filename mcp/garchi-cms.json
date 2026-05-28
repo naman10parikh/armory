@@ -1,0 +1,7 @@
+{
+  "name": "garchi-cms",
+  "description": "Manage structured website content in Garchi CMS through MCP with OAuth authentication.",
+  "source_repo": "",
+  "source_url": "https://garchi.co.uk",
+  "install": "# git clone --depth 1 https://garchi.co.uk\n# See source for mcpServers config block"
+}

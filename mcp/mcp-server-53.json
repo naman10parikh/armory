@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-53",
+  "description": "Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "d-zero-dev/mcp-server",
+  "source_url": "https://mcp.so/server/mcp-server/d-zero-dev",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server/d-zero-dev\n# See source for mcpServers config block"
+}

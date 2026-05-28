@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-tradingagents-chinese-stocks",
+  "description": "Integrates multiple Chinese stock market data sources with multi-agent trading analysis for automated investment reports, backtesting strategies, and market insights.",
+  "source_repo": "neosun100/tradingagents-allinone",
+  "source_url": "https://github.com/neosun100/tradingagents-allinone",
+  "install": "# git clone --depth 1 https://github.com/neosun100/tradingagents-allinone\n# See source for mcpServers config block"
+}

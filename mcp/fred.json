@@ -1,0 +1,7 @@
+{
+  "name": "fred",
+  "description": "Provides access to Federal Reserve Economic Data for searching, retrieving, and analyzing economic indicators with specialized tools for comparing metrics, calculating statistics, and detecting trends in time series data.",
+  "source_repo": "milind-kulshrestha/fred_mcp_server",
+  "source_url": "https://github.com/milind-kulshrestha/fred_mcp_server",
+  "install": "npx -y fred_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nirholas-three-ws",
+  "description": "3D AI agent platform for browsers with avatar management, LLM integration, on-chain identity, and OAuth 2.1 MCP access.",
+  "source_repo": "nirholas/three.ws",
+  "source_url": "https://github.com/nirholas/three.ws",
+  "install": "# git clone --depth 1 https://github.com/nirholas/three.ws\n# See source for mcpServers config block"
+}

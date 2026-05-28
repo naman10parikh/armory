@@ -1,0 +1,7 @@
+{
+  "name": "hoverfly",
+  "description": "Integrates with Hoverfly service virtualization tool to enable HTTP/HTTPS mock creation, simulation management, and server lifecycle control for development and testing workflows.",
+  "source_repo": "kapishmalik/hoverfly-mcp-server",
+  "source_url": "https://github.com/kapishmalik/hoverfly-mcp-server",
+  "install": "npx -y hoverfly-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-ashby",
+  "description": "Ashby applicant tracking system integration for recruitment data via the Ashby ATS API.",
+  "source_repo": "pipeworx-io/mcp-ashby",
+  "source_url": "https://github.com/pipeworx-io/mcp-ashby",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ashby\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "devscontext",
+  "description": "DevsContext is an MCP server that provides AI coding agents with synthesized engineering context—requirements, decisions, architecture, and standards—from tools like Jira and Slack. It fetches and synthesizes relevant information on demand to help agents work on tasks correctly.",
+  "source_repo": "Pro0f/devscontext",
+  "source_url": "https://github.com/Pro0f/devscontext",
+  "install": "# git clone --depth 1 https://github.com/Pro0f/devscontext\n# See source for mcpServers config block"
+}

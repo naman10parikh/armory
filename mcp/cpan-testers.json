@@ -1,0 +1,7 @@
+{
+  "name": "cpan-testers",
+  "description": "MCP server providing access to CPAN Testers data, enabling AI assistants to query Perl module test results and compatibility reports.",
+  "source_repo": "cpan-testers/mcp",
+  "source_url": "https://github.com/cpan-testers/mcp",
+  "install": "# git clone --depth 1 https://github.com/cpan-testers/mcp\n# See source for mcpServers config block"
+}

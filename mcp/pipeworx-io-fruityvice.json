@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-fruityvice",
+  "description": "Retrieve nutritional information and taxonomy data for fruits from the Fruityvice API.",
+  "source_repo": "pipeworx-io/mcp-fruityvice",
+  "source_url": "https://github.com/pipeworx-io/mcp-fruityvice",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-fruityvice\n# See source for mcpServers config block"
+}

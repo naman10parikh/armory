@@ -1,0 +1,7 @@
+{
+  "name": "brandcode-studio",
+  "description": "Extracts brand identity from websites and Figma files into structured design tokens, brand policies, and AI-consumable guidelines.",
+  "source_repo": "brandcode-studio/brandsystem-mcp",
+  "source_url": "https://github.com/brandcode-studio/brandsystem-mcp",
+  "install": "npx -y brandsystem-mcp"
+}

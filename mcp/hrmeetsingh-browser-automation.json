@@ -1,0 +1,7 @@
+{
+  "name": "hrmeetsingh-browser-automation",
+  "description": "Integrates Playwright with MCP to enable automated web interactions, scraping, and testing across browsers.",
+  "source_repo": "hrmeetsingh/mcp-browser-automation",
+  "source_url": "https://github.com/hrmeetsingh/mcp-browser-automation",
+  "install": "# git clone --depth 1 https://github.com/hrmeetsingh/mcp-browser-automation\n# See source for mcpServers config block"
+}

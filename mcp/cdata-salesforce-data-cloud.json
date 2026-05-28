@@ -1,0 +1,7 @@
+{
+  "name": "cdata-salesforce-data-cloud",
+  "description": "Connects to Salesforce Data Cloud through JDBC to enable SQL-based querying, table discovery, and metadata retrieval with results returned in CSV format for data analysis and reporting workflows.",
+  "source_repo": "cdatasoftware/salesforce-data-cloud-mcp-server-by-cdata",
+  "source_url": "https://github.com/cdatasoftware/salesforce-data-cloud-mcp-server-by-cdata",
+  "install": "# git clone --depth 1 https://github.com/cdatasoftware/salesforce-data-cloud-mcp-server-by-cdata\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "patsa2561-art-mneme",
+  "description": "Memory layer for AI coding assistants that indexes git history and code via MCP.",
+  "source_repo": "patsa2561-art/mneme-ai",
+  "source_url": "https://github.com/patsa2561-art/mneme-ai",
+  "install": "# git clone --depth 1 https://github.com/patsa2561-art/mneme-ai\n# See source for mcpServers config block"
+}

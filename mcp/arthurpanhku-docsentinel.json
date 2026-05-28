@@ -1,0 +1,7 @@
+{
+  "name": "arthurpanhku-docsentinel",
+  "description": "MCP server for AI agent for cybersecurity: automate assessment of documents, questionnaires & reports. Multi-format parsing, RAG knowledge base,Risks, compliance gaps, remediations.",
+  "source_repo": "arthurpanhku/DocSentinel",
+  "source_url": "https://github.com/arthurpanhku/DocSentinel",
+  "install": "# git clone --depth 1 https://github.com/arthurpanhku/DocSentinel\n# See source for mcpServers config block"
+}

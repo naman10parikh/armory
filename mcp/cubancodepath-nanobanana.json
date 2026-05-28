@@ -1,0 +1,7 @@
+{
+  "name": "cubancodepath-nanobanana",
+  "description": "AI image generation and editing powered by Google Gemini with local and remote deployment.",
+  "source_repo": "cubancodepath/nanobanana-mcp",
+  "source_url": "https://github.com/cubancodepath/nanobanana-mcp",
+  "install": "npx -y nanobanana-mcp"
+}

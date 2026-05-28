@@ -1,0 +1,7 @@
+{
+  "name": "sirmews-apple-notes-mcp",
+  "description": "Access and search local Apple Notes databases.",
+  "source_repo": "sirmews/apple-notes-mcp",
+  "source_url": "https://github.com/sirmews/apple-notes-mcp",
+  "install": "npx -y apple-notes-mcp"
+}

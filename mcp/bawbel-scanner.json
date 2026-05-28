@@ -1,0 +1,7 @@
+{
+  "name": "bawbel-scanner",
+  "description": "Security scanner for MCP servers and skill files that detects AVE vulnerabilities before production.",
+  "source_repo": "bawbel/scanner",
+  "source_url": "https://github.com/bawbel/scanner",
+  "install": "# git clone --depth 1 https://github.com/bawbel/scanner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "winninghealth-medical-calculator",
+  "description": "Provides access to over 50 clinical calculation tools including cardiovascular risk assessment, kidney function evaluation, critical care scoring, and metabolic calculations with proper validation and error handling for healthcare applications requiring reliable medical decision support.",
+  "source_repo": "winninghealth/medcalcmcp",
+  "source_url": "https://github.com/winninghealth/medcalcmcp",
+  "install": "# git clone --depth 1 https://github.com/winninghealth/medcalcmcp\n# See source for mcpServers config block"
+}

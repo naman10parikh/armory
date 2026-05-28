@@ -1,0 +1,7 @@
+{
+  "name": "stonega-element-selector",
+  "description": "Chrome extension that enables developers to interactively select, capture, and store web page DOM elements with their HTML structure, computed styles, and screenshots for design analysis and debugging.",
+  "source_repo": "stonega/element-mcp",
+  "source_url": "https://github.com/stonega/element-mcp",
+  "install": "npx -y element-mcp"
+}

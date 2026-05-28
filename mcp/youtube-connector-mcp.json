@@ -1,0 +1,7 @@
+{
+  "name": "youtube-connector-mcp",
+  "description": "Enables AI assistants to search videos, channels, and playlists, retrieve video metadata, transcripts, and comments via the YouTube Data API v3.",
+  "source_repo": "ShellyDeng08/youtube-connector-mcp",
+  "source_url": "https://github.com/ShellyDeng08/youtube-connector-mcp",
+  "install": "npx -y youtube-connector-mcp"
+}

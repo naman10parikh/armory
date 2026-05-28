@@ -1,0 +1,7 @@
+{
+  "name": "filingfirehose",
+  "description": "Access parsed SEC EDGAR filings including 8-Ks, Schedule 13D/G activist filings, and ATM offerings directly from AI clients.",
+  "source_repo": "jaablon/filingfirehose-python",
+  "source_url": "https://github.com/jaablon/filingfirehose-python",
+  "install": "# git clone --depth 1 https://github.com/jaablon/filingfirehose-python\n# See source for mcpServers config block"
+}

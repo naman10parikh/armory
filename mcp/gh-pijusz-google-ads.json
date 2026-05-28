@@ -1,0 +1,7 @@
+{
+  "name": "gh-pijusz-google-ads",
+  "description": "Query Google Ads campaigns, keywords, assets, and performance metrics with 39 tools including GAQL queries and write operations.",
+  "source_repo": "pijusz/mcp-gads",
+  "source_url": "https://github.com/pijusz/mcp-gads",
+  "install": "# git clone --depth 1 https://github.com/pijusz/mcp-gads\n# See source for mcpServers config block"
+}

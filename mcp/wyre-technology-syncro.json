@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-syncro",
+  "description": "Community MCP integration for Syncro MSP, enabling AI agents to manage customers, tickets, assets, and invoices.",
+  "source_repo": "wyre-technology/syncro-mcp",
+  "source_url": "https://github.com/wyre-technology/syncro-mcp",
+  "install": "npx -y syncro-mcp"
+}

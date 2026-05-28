@@ -1,0 +1,7 @@
+{
+  "name": "vercel",
+  "description": "Official Vercel integration that provides secure access to deployments, project configuration, and team resources through OAuth authentication for conversational management of Vercel platform operations.",
+  "source_repo": "",
+  "source_url": "https://vercel.com/docs/mcp/vercel-mcp",
+  "install": "# git clone --depth 1 https://vercel.com/docs/mcp/vercel-mcp\n# See source for mcpServers config block"
+}

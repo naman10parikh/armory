@@ -1,0 +1,7 @@
+{
+  "name": "eirikb-any-cli-mcp-server",
+  "description": "Universal MCP server that transforms any CLI tool into an MCP server. Works with any CLI that has `--help` output, supports caching for performance.",
+  "source_repo": "eirikb/any-cli-mcp-server",
+  "source_url": "https://github.com/eirikb/any-cli-mcp-server",
+  "install": "npx -y any-cli-mcp-server"
+}

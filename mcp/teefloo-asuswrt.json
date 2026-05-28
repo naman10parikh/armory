@@ -1,0 +1,7 @@
+{
+  "name": "teefloo-asuswrt",
+  "description": "Manage AsusWRT routers via SSH from AI assistants with 42 read-only monitoring functions and mutation capabilities for DHCP, port forwarding, and VPN management.",
+  "source_repo": "teefloo/asuswrt-mcp",
+  "source_url": "https://github.com/teefloo/asuswrt-mcp",
+  "install": "npx -y asuswrt-mcp"
+}

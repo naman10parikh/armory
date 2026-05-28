@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-blockscout",
+  "description": "Hosted proxy for Blockscout blockchain explorer APIs with 56 auto-generated tools for on-chain data.",
+  "source_repo": "junct-bot/blockscout-mcp",
+  "source_url": "https://github.com/junct-bot/blockscout-mcp",
+  "install": "npx -y blockscout-mcp"
+}

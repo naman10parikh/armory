@@ -1,0 +1,7 @@
+{
+  "name": "squirrelogic-feature-discussion",
+  "description": "Integrates AI-powered lead developer interface with project context to guide teams through feature discussions, architectural decisions, and best practices.",
+  "source_repo": "squirrelogic/mcp-feature-discussion",
+  "source_url": "https://github.com/squirrelogic/mcp-feature-discussion",
+  "install": "# git clone --depth 1 https://github.com/squirrelogic/mcp-feature-discussion\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brandons-cs-altium-schdoc",
+  "description": "Parses Altium Designer binary .SchDoc schematic files without requiring Altium software, extracting components, nets, and pins.",
+  "source_repo": "brandons-cs/altium-schdoc-mcp",
+  "source_url": "https://github.com/brandons-cs/altium-schdoc-mcp",
+  "install": "npx -y altium-schdoc-mcp"
+}

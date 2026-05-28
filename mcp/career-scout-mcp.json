@@ -1,0 +1,7 @@
+{
+  "name": "career-scout-mcp",
+  "description": "A production-grade MCP server demonstrating the wrapping pattern for AI-augmented data pipelines, specifically a job-search scoring pipeline.",
+  "source_repo": "stestojadinovic/career-scout-mcp",
+  "source_url": "https://github.com/stestojadinovic/career-scout-mcp",
+  "install": "npx -y career-scout-mcp"
+}

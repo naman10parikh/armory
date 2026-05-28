@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-coinmarketcap",
+  "description": "Query cryptocurrency prices, market capitalizations, rankings, and exchange data from the CoinMarketCap API.",
+  "source_repo": "pipeworx-io/mcp-coinmarketcap",
+  "source_url": "https://github.com/pipeworx-io/mcp-coinmarketcap",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-coinmarketcap\n# See source for mcpServers config block"
+}

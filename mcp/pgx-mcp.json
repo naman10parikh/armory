@@ -1,0 +1,7 @@
+{
+  "name": "pgx-mcp",
+  "description": "Enables real-time pharmacogenomics analysis, including variant clinical significance, drug-gene interactions, and dosing guidelines, by connecting to ClinVar, PharmGKB, gnomAD, and other databases.",
+  "source_repo": "Julius-Schmidt/mcp-pharmacogenomics",
+  "source_url": "https://github.com/Julius-Schmidt/mcp-pharmacogenomics",
+  "install": "# git clone --depth 1 https://github.com/Julius-Schmidt/mcp-pharmacogenomics\n# See source for mcpServers config block"
+}

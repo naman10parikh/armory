@@ -1,0 +1,7 @@
+{
+  "name": "reelrifter",
+  "description": "Gives AI assistants access to your ReelRifter streaming watchlist, viewing history, and analytics.",
+  "source_repo": "",
+  "source_url": "https://reelrifter.com/api/mcp",
+  "install": "# git clone --depth 1 https://reelrifter.com/api/mcp\n# See source for mcpServers config block"
+}

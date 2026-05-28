@@ -1,0 +1,7 @@
+{
+  "name": "runninghare-typescript-definition-finder",
+  "description": "Provides TypeScript symbol definition lookup by leveraging the TypeScript Language Service to locate original definitions of imported symbols, classes, interfaces, and functions with precise file locations and code snippets.",
+  "source_repo": "runninghare/ts-def-mcp",
+  "source_url": "https://github.com/runninghare/ts-def-mcp",
+  "install": "npx -y ts-def-mcp"
+}

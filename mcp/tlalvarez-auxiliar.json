@@ -1,0 +1,7 @@
+{
+  "name": "tlalvarez-auxiliar",
+  "description": "Vetted cloud service directory providing pricing, risks, compatibility rules, and setup guidance for 74 services across 16 categories.",
+  "source_repo": "tlalvarez/auxiliar-ai",
+  "source_url": "https://github.com/tlalvarez/auxiliar-ai/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/tlalvarez/auxiliar-ai/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

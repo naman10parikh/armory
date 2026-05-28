@@ -1,0 +1,7 @@
+{
+  "name": "ikoskela-precision-desktop",
+  "description": "Fixes DPI coordinate scaling for Windows desktop automation by calibrating and converting between physical and logical coordinate systems.",
+  "source_repo": "ikoskela/precision-desktop",
+  "source_url": "https://github.com/ikoskela/precision-desktop",
+  "install": "# git clone --depth 1 https://github.com/ikoskela/precision-desktop\n# See source for mcpServers config block"
+}

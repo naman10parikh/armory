@@ -1,0 +1,7 @@
+{
+  "name": "mingovvv-twolinecloud-portal",
+  "description": "Stdio MCP server for the TwolineCloud corporate portal with 20+ tools for authentication, leave management, and timesheet tracking.",
+  "source_repo": "mingovvv/tlc-portal-mcp",
+  "source_url": "https://github.com/mingovvv/tlc-portal-mcp",
+  "install": "npx -y tlc-portal-mcp"
+}

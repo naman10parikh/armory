@@ -1,0 +1,7 @@
+{
+  "name": "cosmostima-muster-moodle-must",
+  "description": "Automates access to Moodle learning management systems and MUST university class schedules through web scraping, enabling retrieval of course listings, assignments, calendar events, and resource downloads with session persistence and headless operation.",
+  "source_repo": "cosmostima/muster_mcp",
+  "source_url": "https://github.com/cosmostima/muster_mcp",
+  "install": "npx -y muster_mcp"
+}

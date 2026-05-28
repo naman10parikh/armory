@@ -1,0 +1,7 @@
+{
+  "name": "weirdbrains-onesignal",
+  "description": "Integrates with OneSignal to manage push notifications, emails, and SMS across multiple applications with support for device management, segmentation, and template operations.",
+  "source_repo": "weirdbrains/onesignal-mcp",
+  "source_url": "https://github.com/weirdbrains/onesignal-mcp",
+  "install": "npx -y onesignal-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pluginslab-wp-block-markup",
+  "description": "WordPress Gutenberg block schema indexing and validation for 121 core blocks.",
+  "source_repo": "pluginslab/wp-blockmarkup-mcp",
+  "source_url": "https://github.com/pluginslab/wp-blockmarkup-mcp",
+  "install": "npx -y wp-blockmarkup-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "abutbul-gatherings",
+  "description": "Manages shared expenses in social events by tracking costs, calculating reimbursements, and settling balances between friends through a TypeScript wrapper around a Python backend with SQLAlchemy persistence.",
+  "source_repo": "abutbul/gatherings-mcp",
+  "source_url": "https://github.com/abutbul/gatherings-mcp",
+  "install": "npx -y gatherings-mcp"
+}

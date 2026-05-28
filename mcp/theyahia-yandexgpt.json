@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-yandexgpt",
+  "description": "Integrates with Yandex GPT API for text generation, asynchronous completion, and tokenization.",
+  "source_repo": "theyahia/yandexgpt-mcp",
+  "source_url": "https://github.com/theyahia/yandexgpt-mcp",
+  "install": "npx -y yandexgpt-mcp"
+}

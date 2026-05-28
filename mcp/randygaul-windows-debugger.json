@@ -1,0 +1,7 @@
+{
+  "name": "randygaul-windows-debugger",
+  "description": "MCP server for Windows application debugging with breakpoints, memory inspection, and process control.",
+  "source_repo": "randygaul/mcp-win-debugger",
+  "source_url": "https://github.com/randygaul/mcp-win-debugger",
+  "install": "# git clone --depth 1 https://github.com/randygaul/mcp-win-debugger\n# See source for mcpServers config block"
+}

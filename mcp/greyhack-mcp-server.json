@@ -1,0 +1,7 @@
+{
+  "name": "greyhack-mcp-server",
+  "description": "Greyhack Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "chromewillow/greyhack-mcp-server",
+  "source_url": "https://mcp.so/server/greyhack-mcp-server/chromewillow",
+  "install": "npx -y greyhack-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-shengdynasty-studentvue-gradebook",
+  "description": "Query grades, GPA, attendance, and assignments from StudentVue school gradebooks.",
+  "source_repo": "shengdynasty/school-mcp",
+  "source_url": "https://github.com/shengdynasty/school-mcp",
+  "install": "npx -y school-mcp"
+}

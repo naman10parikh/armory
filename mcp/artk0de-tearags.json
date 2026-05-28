@@ -1,0 +1,7 @@
+{
+  "name": "artk0de-tearags",
+  "description": "Provides semantic code search across large codebases using vector embeddings and AST-aware chunking with git metadata integration for intelligent code discovery and analysis.",
+  "source_repo": "artk0de/tearags-mcp",
+  "source_url": "https://github.com/artk0de/tearags-mcp",
+  "install": "npx -y tearags-mcp"
+}

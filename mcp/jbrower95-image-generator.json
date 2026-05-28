@@ -1,0 +1,7 @@
+{
+  "name": "jbrower95-image-generator",
+  "description": "Enables image generation from text prompts via OpenAI's API, returning the created image saved to a specified file path",
+  "source_repo": "jbrower95/mcp-asset-gen",
+  "source_url": "https://github.com/jbrower95/mcp-asset-gen",
+  "install": "# git clone --depth 1 https://github.com/jbrower95/mcp-asset-gen\n# See source for mcpServers config block"
+}

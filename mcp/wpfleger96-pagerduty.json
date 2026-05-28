@@ -1,0 +1,7 @@
+{
+  "name": "wpfleger96-pagerduty",
+  "description": "Exposes PagerDuty API functionality to LLMs.",
+  "source_repo": "wpfleger96/pagerduty-mcp-server",
+  "source_url": "https://github.com/wpfleger96/pagerduty-mcp-server",
+  "install": "npx -y pagerduty-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "calx-sa-selis-pmo",
+  "description": "Manages PMO entities in the Selis transformation management platform via natural language.",
+  "source_repo": "calx-sa/selis-mcp",
+  "source_url": "https://github.com/calx-sa/selis-mcp",
+  "install": "npx -y selis-mcp"
+}

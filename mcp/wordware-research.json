@@ -1,0 +1,7 @@
+{
+  "name": "wordware-research",
+  "description": "Integrates with Wordware's research and productivity tools to enable deep research on individuals, companies, and topics with direct saving to Notion and other specialized functions.",
+  "source_repo": "aleksandrkrivolap/wordware-mcp",
+  "source_url": "https://github.com/aleksandrkrivolap/wordware-mcp",
+  "install": "npx -y wordware-mcp"
+}

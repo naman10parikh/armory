@@ -1,0 +1,7 @@
+{
+  "name": "prospeo",
+  "description": "B2B lead search and enrichment with person and company lookups from Prospeo's 280M+ contact database.",
+  "source_repo": "prospeo-v2/prospeo-mcp-server",
+  "source_url": "https://github.com/prospeo-v2/prospeo-mcp-server",
+  "install": "npx -y prospeo-mcp-server"
+}

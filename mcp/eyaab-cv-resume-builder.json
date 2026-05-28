@@ -1,0 +1,7 @@
+{
+  "name": "eyaab-cv-resume-builder",
+  "description": "Automatically generates professional CVs and resumes by aggregating data from git commits, Jira tickets, Credly badges, and LinkedIn profiles to extract quantifiable metrics and format them into LaTeX-compatible documents.",
+  "source_repo": "eyaab/cv-resume-builder-mcp",
+  "source_url": "https://github.com/eyaab/cv-resume-builder-mcp",
+  "install": "npx -y cv-resume-builder-mcp"
+}

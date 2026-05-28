@@ -1,0 +1,7 @@
+{
+  "name": "angiejones-selenium",
+  "description": "Automates web browser actions with Selenium WebDriver.",
+  "source_repo": "angiejones/mcp-selenium",
+  "source_url": "https://github.com/angiejones/mcp-selenium",
+  "install": "# git clone --depth 1 https://github.com/angiejones/mcp-selenium\n# See source for mcpServers config block"
+}

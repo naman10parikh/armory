@@ -1,0 +1,7 @@
+{
+  "name": "gh-samlev-2004-power-bi-admin",
+  "description": "Full Power BI administration with 43 tools covering workspaces, reports, datasets, DAX queries, and governance.",
+  "source_repo": "samlev-2004/powerbimcp",
+  "source_url": "https://github.com/samlev-2004/powerbimcp",
+  "install": "# git clone --depth 1 https://github.com/samlev-2004/powerbimcp\n# See source for mcpServers config block"
+}

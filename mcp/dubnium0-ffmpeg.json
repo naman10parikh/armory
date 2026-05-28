@@ -1,0 +1,7 @@
+{
+  "name": "dubnium0-ffmpeg",
+  "description": "Video and audio processing through FFmpeg with tools for conversion, editing, effects, streaming, and advanced media operations.",
+  "source_repo": "dubnium0/ffmpeg-mcp",
+  "source_url": "https://github.com/dubnium0/ffmpeg-mcp",
+  "install": "npx -y ffmpeg-mcp"
+}

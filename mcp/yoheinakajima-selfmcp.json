@@ -1,0 +1,7 @@
+{
+  "name": "yoheinakajima-selfmcp",
+  "description": "Self-extending MCP server with a skill registry, search, and execution runtime.",
+  "source_repo": "yoheinakajima/selfmcp",
+  "source_url": "https://github.com/yoheinakajima/selfmcp",
+  "install": "# git clone --depth 1 https://github.com/yoheinakajima/selfmcp\n# See source for mcpServers config block"
+}

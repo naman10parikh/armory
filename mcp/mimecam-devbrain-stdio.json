@@ -1,0 +1,7 @@
+{
+  "name": "mimecam-devbrain-stdio",
+  "description": "Integrates with DevBrain's curated developer knowledge base to search coding articles, tutorials, and technical content with tag-based filtering and full article retrieval for contextual programming guidance and research workflows.",
+  "source_repo": "mimecam/mcp-devbrain-stdio",
+  "source_url": "https://github.com/mimecam/mcp-devbrain-stdio",
+  "install": "# git clone --depth 1 https://github.com/mimecam/mcp-devbrain-stdio\n# See source for mcpServers config block"
+}

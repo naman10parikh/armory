@@ -1,0 +1,7 @@
+{
+  "name": "korigamik-markitdown",
+  "description": "Converts diverse file formats to Markdown using MarkItDown utility, enabling unified text-based workflows for content migration, documentation, and analysis.",
+  "source_repo": "korigamik/markitdown_mcp_server",
+  "source_url": "https://github.com/korigamik/markitdown_mcp_server",
+  "install": "npx -y markitdown_mcp_server"
+}

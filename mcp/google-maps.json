@@ -1,0 +1,7 @@
+{
+  "name": "google-maps",
+  "description": "Integrates Google Maps Platform APIs with 3D visualization to provide place searching, route computation, elevation data retrieval, and weather lookup for trip planning and geographic data exploration.",
+  "source_repo": "googlemaps-samples/grounding-lite-mcp-sample-app",
+  "source_url": "https://github.com/googlemaps-samples/grounding-lite-mcp-sample-app",
+  "install": "# git clone --depth 1 https://github.com/googlemaps-samples/grounding-lite-mcp-sample-app\n# See source for mcpServers config block"
+}

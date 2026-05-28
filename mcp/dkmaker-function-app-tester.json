@@ -1,0 +1,7 @@
+{
+  "name": "dkmaker-function-app-tester",
+  "description": "Enables testing of Azure Function Apps through a command-line interface supporting various HTTP methods, custom headers, and multiple authentication options.",
+  "source_repo": "dkmaker/mcp-function-app-tester",
+  "source_url": "https://github.com/dkmaker/mcp-function-app-tester",
+  "install": "# git clone --depth 1 https://github.com/dkmaker/mcp-function-app-tester\n# See source for mcpServers config block"
+}

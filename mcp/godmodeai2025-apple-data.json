@@ -1,0 +1,7 @@
+{
+  "name": "godmodeai2025-apple-data",
+  "description": "Native macOS MCP server for read-only access to Apple platform data including mail, calendar, contacts, and notes.",
+  "source_repo": "godmodeai2025/applemcp",
+  "source_url": "https://github.com/godmodeai2025/applemcp",
+  "install": "# git clone --depth 1 https://github.com/godmodeai2025/applemcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-ptobey-local-memory",
+  "description": "Provides local-first personal RAG memory with versioned text chunks stored in ChromaDB.",
+  "source_repo": "ptobey/local-memory-mcp",
+  "source_url": "https://github.com/ptobey/local-memory-mcp",
+  "install": "npx -y local-memory-mcp"
+}

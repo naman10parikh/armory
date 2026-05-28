@@ -1,0 +1,7 @@
+{
+  "name": "langfuse-prompt-management",
+  "description": "Manages prompts in Langfuse with version control, label management, and support for both text and chat prompt formats.",
+  "source_repo": "langfuse/mcp-server-langfuse",
+  "source_url": "https://github.com/langfuse/mcp-server-langfuse",
+  "install": "# git clone --depth 1 https://github.com/langfuse/mcp-server-langfuse\n# See source for mcpServers config block"
+}

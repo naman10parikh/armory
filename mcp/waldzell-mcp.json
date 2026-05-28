@@ -1,0 +1,7 @@
+{
+  "name": "waldzell-mcp",
+  "description": "Waldzell Mcp MCP server listed on mcp.so.",
+  "source_repo": "waldzellai/waldzell-mcp",
+  "source_url": "https://mcp.so/server/waldzell-mcp/waldzellai",
+  "install": "npx -y waldzell-mcp"
+}

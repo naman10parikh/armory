@@ -1,0 +1,7 @@
+{
+  "name": "tejascm007-remote-expense-tracker",
+  "description": "Provides structured expense categorization through a JSON-based system covering 20 major expense types with detailed subcategories for building expense management applications and budgeting tools.",
+  "source_repo": "tejascm007/remote_expense_tracker",
+  "source_url": "https://github.com/tejascm007/remote_expense_tracker",
+  "install": "# git clone --depth 1 https://github.com/tejascm007/remote_expense_tracker\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vitalinguist",
+  "description": "Ukrainian grammar, surzhyk detection, and English-to-Ukrainian authentic rendering from a curated 29,500-entry linguistic database.",
+  "source_repo": "vitalinguist/ukr-vitalinguist-mcp",
+  "source_url": "https://github.com/vitalinguist/ukr-vitalinguist-mcp",
+  "install": "npx -y ukr-vitalinguist-mcp"
+}

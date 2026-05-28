@@ -1,0 +1,7 @@
+{
+  "name": "copilot-cloud-agent-mcp",
+  "description": "Enables Claude or any MCP client to drive the GitHub Copilot cloud agent via its REST API, allowing it to research, edit, and open pull requests on repositories without manual intervention.",
+  "source_repo": "fvegiard/copilot-cloud-agent-mcp",
+  "source_url": "https://github.com/fvegiard/copilot-cloud-agent-mcp",
+  "install": "npx -y copilot-cloud-agent-mcp"
+}

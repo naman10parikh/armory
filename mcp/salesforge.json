@@ -1,0 +1,7 @@
+{
+  "name": "salesforge",
+  "description": "Manages Salesforge, Primeforge, Leadsforge, Infraforge, Warmforge, and Mailforge accounts.",
+  "source_repo": "salesforgeai/forge-mcp",
+  "source_url": "https://github.com/salesforgeai/forge-mcp",
+  "install": "npx -y forge-mcp"
+}

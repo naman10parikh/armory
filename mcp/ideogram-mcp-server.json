@@ -1,0 +1,7 @@
+{
+  "name": "ideogram-mcp-server",
+  "description": "Enables image generation, editing, and description using Ideogram AI's models through natural language.",
+  "source_repo": "flowluap/ideogram-mcp-server",
+  "source_url": "https://github.com/flowluap/ideogram-mcp-server",
+  "install": "npx -y ideogram-mcp-server"
+}

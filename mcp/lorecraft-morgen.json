@@ -1,0 +1,7 @@
+{
+  "name": "lorecraft-morgen",
+  "description": "Manage Morgen Calendar events and tasks through natural language.",
+  "source_repo": "fidgetcoding/morgen-mcp",
+  "source_url": "https://github.com/fidgetcoding/morgen-mcp",
+  "install": "npx -y morgen-mcp"
+}

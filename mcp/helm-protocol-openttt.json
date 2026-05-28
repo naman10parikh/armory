@@ -1,0 +1,7 @@
+{
+  "name": "helm-protocol-openttt",
+  "description": "Proof-of-Time transaction ordering verification for blockchain DeFi operations.",
+  "source_repo": "helm-protocol/openttt",
+  "source_url": "https://github.com/helm-protocol/openttt",
+  "install": "# git clone --depth 1 https://github.com/helm-protocol/openttt\n# See source for mcpServers config block"
+}

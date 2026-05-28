@@ -1,0 +1,7 @@
+{
+  "name": "noquarter6-contractor-license",
+  "description": "Verify contractor licenses across all US states and DC, including status, expiration, and disciplinary history.",
+  "source_repo": "noquarter6/contractor-license-mcp-server",
+  "source_url": "https://github.com/noquarter6/contractor-license-mcp-server",
+  "install": "npx -y contractor-license-mcp-server"
+}

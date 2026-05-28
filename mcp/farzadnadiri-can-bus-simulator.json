@@ -1,0 +1,7 @@
+{
+  "name": "farzadnadiri-can-bus-simulator",
+  "description": "Bridges CAN bus networks with virtual ECU simulation and DBC file decoding for automotive diagnostics, signal monitoring, and vehicle data analysis without physical hardware.",
+  "source_repo": "farzadnadiri/mcp-can",
+  "source_url": "https://github.com/farzadnadiri/mcp-can",
+  "install": "# git clone --depth 1 https://github.com/farzadnadiri/mcp-can\n# See source for mcpServers config block"
+}

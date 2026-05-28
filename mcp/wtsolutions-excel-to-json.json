@@ -1,0 +1,7 @@
+{
+  "name": "wtsolutions-excel-to-json",
+  "description": "Converts Excel files and CSV data to JSON format with automatic data type detection, multi-sheet support, and serverless processing for data analysis and web development workflows.",
+  "source_repo": "he-yang/excel-to-json-mcp",
+  "source_url": "https://github.com/he-yang/excel-to-json-mcp",
+  "install": "npx -y excel-to-json-mcp"
+}

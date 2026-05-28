@@ -1,0 +1,7 @@
+{
+  "name": "langsmith",
+  "description": "Access LangSmith observability data including traces, prompts, datasets, experiments, and billing usage.",
+  "source_repo": "langchain-ai/langsmith-mcp-server",
+  "source_url": "https://github.com/langchain-ai/langsmith-mcp-server",
+  "install": "npx -y langsmith-mcp-server"
+}

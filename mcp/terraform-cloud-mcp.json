@@ -1,0 +1,7 @@
+{
+  "name": "terraform-cloud-mcp",
+  "description": "Terraform Cloud Mcp MCP server listed on mcp.so.",
+  "source_repo": "severity1/terraform-cloud-mcp",
+  "source_url": "https://mcp.so/server/terraform-cloud-mcp/severity1",
+  "install": "npx -y terraform-cloud-mcp"
+}

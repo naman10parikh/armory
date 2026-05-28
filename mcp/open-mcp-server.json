@@ -1,0 +1,7 @@
+{
+  "name": "open-mcp-server",
+  "description": "Open Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "changsong/open-mcp-server",
+  "source_url": "https://mcp.so/server/open-mcp-server/changsong",
+  "install": "npx -y open-mcp-server"
+}

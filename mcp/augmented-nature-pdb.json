@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-pdb",
+  "description": "Integrates with the Protein Data Bank (PDB) to provide search, retrieval, and analysis capabilities for protein structures, coordinates, quality metrics, and validation data for structural biology research.",
+  "source_repo": "augmented-nature/pdb-mcp-server",
+  "source_url": "https://github.com/augmented-nature/pdb-mcp-server",
+  "install": "npx -y pdb-mcp-server"
+}

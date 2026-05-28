@@ -1,0 +1,7 @@
+{
+  "name": "orchestraprime",
+  "description": "Regulatory intelligence for FDA, ICH, and EMA guidelines and sanctions screening against OFAC, EU, and UK watchlists.",
+  "source_repo": "orchestraprime/mcp-server",
+  "source_url": "https://github.com/orchestraprime/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/orchestraprime/mcp-server\n# See source for mcpServers config block"
+}

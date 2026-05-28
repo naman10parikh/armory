@@ -1,0 +1,7 @@
+{
+  "name": "convention-sh",
+  "description": "TypeScript coding conventions and AI patterns for shipping production-ready code faster.",
+  "source_repo": "",
+  "source_url": "https://mcp.convention.sh/mcp",
+  "install": "# git clone --depth 1 https://mcp.convention.sh/mcp\n# See source for mcpServers config block"
+}

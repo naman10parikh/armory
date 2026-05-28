@@ -1,0 +1,7 @@
+{
+  "name": "subscription-tracker-ai",
+  "description": "Track SaaS subscriptions, renewal dates, spending, and find duplicate services.",
+  "source_repo": "CSOAI-ORG/subscription-tracker-ai-mcp",
+  "source_url": "https://github.com/CSOAI-ORG/subscription-tracker-ai-mcp",
+  "install": "npx -y subscription-tracker-ai-mcp"
+}

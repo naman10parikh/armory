@@ -1,0 +1,7 @@
+{
+  "name": "mysql-database-service",
+  "description": "MySQL database service that enables database operations and resource management through a structured Express.js server with MySQL2 connectivity.",
+  "source_repo": "log6262635/mcp-mysql",
+  "source_url": "https://github.com/log6262635/mcp-mysql",
+  "install": "# git clone --depth 1 https://github.com/log6262635/mcp-mysql\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "git-spice-documentation-search",
+  "description": "Provides instant access to git-spice documentation within your IDE, enabling real-time searching and automatic assistance for developers working with git-spice commands and usage examples.",
+  "source_repo": "sach999/git-spice-help-mcp",
+  "source_url": "https://github.com/sach999/git-spice-help-mcp",
+  "install": "npx -y git-spice-help-mcp"
+}

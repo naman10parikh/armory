@@ -1,0 +1,7 @@
+{
+  "name": "morningman-doris",
+  "description": "Integrates with Apache Doris analytical database system through MySQL protocol, enabling data querying and interaction for business intelligence and data analysis workflows.",
+  "source_repo": "morningman/mcp-doris",
+  "source_url": "https://github.com/morningman/mcp-doris",
+  "install": "# git clone --depth 1 https://github.com/morningman/mcp-doris\n# See source for mcpServers config block"
+}

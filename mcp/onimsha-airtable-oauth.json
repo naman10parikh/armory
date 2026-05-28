@@ -1,0 +1,7 @@
+{
+  "name": "onimsha-airtable-oauth",
+  "description": "Integrates with Airtable through OAuth 2.0 authentication to provide secure access for managing bases, tables, records, and schema operations without requiring direct API keys.",
+  "source_repo": "onimsha/airtable-mcp-server-oauth",
+  "source_url": "https://github.com/onimsha/airtable-mcp-server-oauth",
+  "install": "# git clone --depth 1 https://github.com/onimsha/airtable-mcp-server-oauth\n# See source for mcpServers config block"
+}

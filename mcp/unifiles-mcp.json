@@ -1,0 +1,7 @@
+{
+  "name": "unifiles-mcp",
+  "description": "Provides AI assistants with unified file operations via MCP, supporting Excel, PDF, Word, and SQLite file reading, writing, and querying.",
+  "source_repo": "Asheng008/unifiles-mcp",
+  "source_url": "https://github.com/Asheng008/unifiles-mcp",
+  "install": "npx -y unifiles-mcp"
+}

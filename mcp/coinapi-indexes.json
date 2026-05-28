@@ -1,0 +1,7 @@
+{
+  "name": "coinapi-indexes",
+  "description": "Provides access to comprehensive cryptocurrency market data including real-time prices, historical data, and exchange information.",
+  "source_repo": "",
+  "source_url": "https://mcp.indexes.coinapi.io/",
+  "install": "# git clone --depth 1 https://mcp.indexes.coinapi.io/\n# See source for mcpServers config block"
+}

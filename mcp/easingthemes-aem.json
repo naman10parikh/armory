@@ -1,0 +1,7 @@
+{
+  "name": "easingthemes-aem",
+  "description": "Interact with Adobe Experience Manager for content, component, and asset operations.",
+  "source_repo": "easingthemes/aem-mcp-server",
+  "source_url": "https://github.com/easingthemes/aem-mcp-server",
+  "install": "npx -y aem-mcp-server"
+}

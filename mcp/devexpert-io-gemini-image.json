@@ -1,0 +1,7 @@
+{
+  "name": "devexpert-io-gemini-image",
+  "description": "Integrates with Google's Gemini 2.5 Flash Image Preview model to generate images from text descriptions and edit existing images with configurable aspect ratios, automatic watermarking, and intelligent filename generation for content creation workflows.",
+  "source_repo": "antoniolg/gemini-image-mcp-server",
+  "source_url": "https://github.com/antoniolg/gemini-image-mcp-server",
+  "install": "npx -y gemini-image-mcp-server"
+}

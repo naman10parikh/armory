@@ -1,0 +1,7 @@
+{
+  "name": "marin1321-devtools",
+  "description": "Production-grade MCP server providing AI-native developer tools across filesystem, database, process, and OpenAPI categories.",
+  "source_repo": "marin1321/mcp-devtools",
+  "source_url": "https://github.com/marin1321/mcp-devtools",
+  "install": "# git clone --depth 1 https://github.com/marin1321/mcp-devtools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alexanimal-tradovate",
+  "description": "Integrates with the Tradovate trading platform API to enable futures contract management, position monitoring, and order execution with real-time market data and offline capabilities.",
+  "source_repo": "alexanimal/tradovate-mcp-server",
+  "source_url": "https://github.com/alexanimal/tradovate-mcp-server",
+  "install": "npx -y tradovate-mcp-server"
+}

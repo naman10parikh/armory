@@ -1,0 +1,7 @@
+{
+  "name": "ente0-mcpstrike",
+  "description": "Autonomous penetration testing framework combining LLM analysis with 14 security tools for vulnerability discovery, exploitation, and reporting.",
+  "source_repo": "ente0/mcpstrike",
+  "source_url": "https://github.com/ente0/mcpstrike",
+  "install": "# git clone --depth 1 https://github.com/ente0/mcpstrike\n# See source for mcpServers config block"
+}

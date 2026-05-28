@@ -1,0 +1,7 @@
+{
+  "name": "bitbonsai-mcp-obsidian",
+  "description": "Universal AI bridge for Obsidian vaults using MCP. Provides safe read/write access to notes with 11 comprehensive methods for vault operations including search, batch operations, tag management, and frontmatter handling. Works with Claude, ChatGPT, and any MCP-compatible AI assistant.",
+  "source_repo": "bitbonsai/mcp-obsidian",
+  "source_url": "https://github.com/bitbonsai/mcp-obsidian",
+  "install": "# git clone --depth 1 https://github.com/bitbonsai/mcp-obsidian\n# See source for mcpServers config block"
+}

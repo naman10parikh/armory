@@ -1,0 +1,7 @@
+{
+  "name": "agntor-mcp",
+  "description": "MCP audit server for agent discovery and certification. Provides trust and payment rail for AI agents including identity verification, escrow, settlement, and reputation management.",
+  "source_repo": "agntor/mcp",
+  "source_url": "https://github.com/agntor/mcp",
+  "install": "# git clone --depth 1 https://github.com/agntor/mcp\n# See source for mcpServers config block"
+}

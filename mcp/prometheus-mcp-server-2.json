@@ -1,0 +1,7 @@
+{
+  "name": "prometheus-mcp-server-2",
+  "description": "Prometheus Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "weetime/prometheus-mcp-server",
+  "source_url": "https://mcp.so/server/prometheus-mcp-server/weetime",
+  "install": "npx -y prometheus-mcp-server"
+}

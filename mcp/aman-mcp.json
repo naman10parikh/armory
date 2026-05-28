@@ -1,0 +1,7 @@
+{
+  "name": "aman-mcp",
+  "description": "Exposes identity, tools, workflows, guardrails, and evaluation as MCP tools — so any AI agent can read and write your ecosystem programmatically.",
+  "source_repo": "amanasmuei/aman-mcp",
+  "source_url": "https://github.com/amanasmuei/aman-mcp",
+  "install": "npx -y aman-mcp"
+}

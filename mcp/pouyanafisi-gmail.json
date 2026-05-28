@@ -1,0 +1,7 @@
+{
+  "name": "pouyanafisi-gmail",
+  "description": "Integrates with Gmail through OAuth2 authentication",
+  "source_repo": "pouyanafisi/gmail-mcp",
+  "source_url": "https://github.com/pouyanafisi/gmail-mcp",
+  "install": "npx -y gmail-mcp"
+}

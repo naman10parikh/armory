@@ -1,0 +1,7 @@
+{
+  "name": "pluggo",
+  "description": "Real-time social media data extraction with LinkedIn email discovery, Twitter, and Reddit intelligence",
+  "source_repo": "",
+  "source_url": "https://www.pluggo.ai/mcp-integration",
+  "install": "# git clone --depth 1 https://www.pluggo.ai/mcp-integration\n# See source for mcpServers config block"
+}

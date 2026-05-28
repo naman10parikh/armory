@@ -1,0 +1,7 @@
+{
+  "name": "freepik-prometheus",
+  "description": "Integrates with Prometheus monitoring systems to provide instant PromQL queries, range queries with time windows, and metric discovery with enterprise authentication support including JWT validation and OAuth 2.0 flows.",
+  "source_repo": "freepik-company/prometheus-mcp",
+  "source_url": "https://github.com/freepik-company/prometheus-mcp",
+  "install": "npx -y prometheus-mcp"
+}

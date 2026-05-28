@@ -1,0 +1,7 @@
+{
+  "name": "datto-saas-protection-mcp",
+  "description": "An MCP server for Datto SaaS Protection, providing tools to manage cloud backup and recovery for Microsoft 365 and Google Workspace data through Datto's API.",
+  "source_repo": "wyre-technology/datto-saas-protection-mcp",
+  "source_url": "https://github.com/wyre-technology/datto-saas-protection-mcp",
+  "install": "npx -y datto-saas-protection-mcp"
+}

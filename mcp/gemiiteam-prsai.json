@@ -1,0 +1,7 @@
+{
+  "name": "gemiiteam-prsai",
+  "description": "PowerPoint translation server that translates presentations while preserving formatting, layout, and embedded content.",
+  "source_repo": "prsaiteam/prsai_mcp",
+  "source_url": "https://github.com/prsaiteam/prsai_mcp",
+  "install": "npx -y prsai_mcp"
+}

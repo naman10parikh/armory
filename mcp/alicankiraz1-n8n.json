@@ -1,0 +1,7 @@
+{
+  "name": "alicankiraz1-n8n",
+  "description": "Integrates with n8n workflow automation platform to enable complete workflow lifecycle management including creation, modification, activation, execution monitoring, and webhook triggering with built-in documentation for common node types.",
+  "source_repo": "alicankiraz1/cursor-n8n-builder",
+  "source_url": "https://github.com/alicankiraz1/cursor-n8n-builder",
+  "install": "# git clone --depth 1 https://github.com/alicankiraz1/cursor-n8n-builder\n# See source for mcpServers config block"
+}

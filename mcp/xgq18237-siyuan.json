@@ -1,0 +1,7 @@
+{
+  "name": "xgq18237-siyuan",
+  "description": "Integrates with SiYuan note-taking application to enable complete knowledge management operations including note creation, editing, searching, and organization through TypeScript-based API connectivity.",
+  "source_repo": "xgq18237/siyuan_mcp_server",
+  "source_url": "https://github.com/xgq18237/siyuan_mcp_server",
+  "install": "npx -y siyuan_mcp_server"
+}

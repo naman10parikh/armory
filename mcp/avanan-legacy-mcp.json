@@ -1,0 +1,7 @@
+{
+  "name": "avanan-legacy-mcp",
+  "description": "A legacy MCP server for Avanan cloud email security, providing tools to manage threat detection, email policies, and security incidents through Avanan's API.",
+  "source_repo": "wyre-technology/avanan-legacy-mcp",
+  "source_url": "https://github.com/wyre-technology/avanan-legacy-mcp",
+  "install": "npx -y avanan-legacy-mcp"
+}

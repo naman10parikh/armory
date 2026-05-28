@@ -1,0 +1,7 @@
+{
+  "name": "ambari-mcp-server",
+  "description": "Enables AI assistants to manage Apache Ambari clusters, including services, hosts, alerts, and configurations via the MCP protocol.",
+  "source_repo": "nikita15p/ambari-mcp-server",
+  "source_url": "https://github.com/nikita15p/ambari-mcp-server",
+  "install": "npx -y ambari-mcp-server"
+}

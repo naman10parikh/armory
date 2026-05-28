@@ -1,0 +1,7 @@
+{
+  "name": "skullzarmy-vibealive",
+  "description": "Full-featured utility to test Next.js projects for unused files and APIs, with an MCP server that exposes project analysis tools to AI assistants.",
+  "source_repo": "skullzarmy/vibealive",
+  "source_url": "https://github.com/skullzarmy/vibealive",
+  "install": "# git clone --depth 1 https://github.com/skullzarmy/vibealive\n# See source for mcpServers config block"
+}

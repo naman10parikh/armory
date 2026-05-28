@@ -1,0 +1,7 @@
+{
+  "name": "nocodeboy-youtube",
+  "description": "Integrates with YouTube API to enable video search, channel discovery, and trending content retrieval for content research and analysis workflows.",
+  "source_repo": "nocodeboy/youtube-mcp-server",
+  "source_url": "https://github.com/nocodeboy/youtube-mcp-server",
+  "install": "npx -y youtube-mcp-server"
+}

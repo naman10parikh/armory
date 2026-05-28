@@ -1,0 +1,7 @@
+{
+  "name": "speedyfoxai-nuntius",
+  "description": "Delegate agentic tasks to local or cloud Ollama models by proxying Claude's configured MCP tools.",
+  "source_repo": "speedyfoxai/nuntius-mcp",
+  "source_url": "https://github.com/speedyfoxai/nuntius-mcp",
+  "install": "npx -y nuntius-mcp"
+}

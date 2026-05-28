@@ -1,0 +1,7 @@
+{
+  "name": "socialdatax-douyin-mcp",
+  "description": "Read-only Douyin / 抖音 MCP by SocialDataX for hot search, work search/details, comments and replies, creator profiles, creator works, and creator series.",
+  "source_repo": "DevinChen2014/douyin-mcp",
+  "source_url": "https://github.com/DevinChen2014/douyin-mcp",
+  "install": "npx -y douyin-mcp"
+}

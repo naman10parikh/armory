@@ -1,0 +1,7 @@
+{
+  "name": "atharvagupta2003-stripe",
+  "description": "Integrates with Stripe's payment processing API to enable transaction processing, customer management, and subscription handling for financial applications.",
+  "source_repo": "atharvagupta2003/mcp-stripe",
+  "source_url": "https://github.com/atharvagupta2003/mcp-stripe",
+  "install": "# git clone --depth 1 https://github.com/atharvagupta2003/mcp-stripe\n# See source for mcpServers config block"
+}

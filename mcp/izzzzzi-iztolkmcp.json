@@ -1,0 +1,7 @@
+{
+  "name": "izzzzzi-iztolkmcp",
+  "description": "MCP server for the Tolk smart contract compiler on TON blockchain. Compile, syntax-check, and generate deployment deeplinks for TON contracts directly from AI assistants.",
+  "source_repo": "izzzzzi/izTolkMcp",
+  "source_url": "https://github.com/izzzzzi/izTolkMcp",
+  "install": "# git clone --depth 1 https://github.com/izzzzzi/izTolkMcp\n# See source for mcpServers config block"
+}

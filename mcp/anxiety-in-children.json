@@ -1,0 +1,7 @@
+{
+  "name": "anxiety-in-children",
+  "description": "Provides searchable access to clinician-reviewed articles on anxiety disorders in children.",
+  "source_repo": "",
+  "source_url": "https://childanxiety.ai",
+  "install": "# git clone --depth 1 https://childanxiety.ai\n# See source for mcpServers config block"
+}

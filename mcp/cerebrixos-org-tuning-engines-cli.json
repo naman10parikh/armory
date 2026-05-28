@@ -1,0 +1,7 @@
+{
+  "name": "cerebrixos-org-tuning-engines-cli",
+  "description": "Domain-specific fine-tuning of open-source LLMs and SLMs with zero infrastructure. Specialized tuning agents deliver sovereign models trained on your data. Supports Qwen, Llama, DeepSeek, Mistral, Gemma 1B-72B. LoRA, QLoRA, full fine-tuning. Cost estimation, model management, S3 export.",
+  "source_repo": "cerebrixos-org/tuning-engines-cli",
+  "source_url": "https://github.com/cerebrixos-org/tuning-engines-cli",
+  "install": "# git clone --depth 1 https://github.com/cerebrixos-org/tuning-engines-cli\n# See source for mcpServers config block"
+}

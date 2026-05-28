@@ -1,0 +1,7 @@
+{
+  "name": "mpc-legifrance",
+  "description": "MCP server covering French law via the PISTE platform: 62 tools wrapping the full Légifrance API (legislation, codes, Journal Officiel, jurisprudence…)",
+  "source_repo": "Ktulu-Analog/mcp-legifrance",
+  "source_url": "https://github.com/Ktulu-Analog/mcp-legifrance",
+  "install": "# git clone --depth 1 https://github.com/Ktulu-Analog/mcp-legifrance\n# See source for mcpServers config block"
+}

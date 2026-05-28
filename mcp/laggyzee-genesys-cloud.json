@@ -1,0 +1,7 @@
+{
+  "name": "laggyzee-genesys-cloud",
+  "description": "Read-only access to Genesys Cloud contact center data with tools for queue metrics, agent analytics, conversation records, speech analysis, and workforce management.",
+  "source_repo": "laggyzee/genesys-mcp",
+  "source_url": "https://github.com/laggyzee/genesys-mcp",
+  "install": "npx -y genesys-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "window-layout",
+  "description": "Enables AI to arrange and organize windows on Windows operating systems through natural language commands for efficient desktop workspace management",
+  "source_repo": "manonloki/window_layout_mcp",
+  "source_url": "https://github.com/manonloki/window_layout_mcp",
+  "install": "npx -y window_layout_mcp"
+}

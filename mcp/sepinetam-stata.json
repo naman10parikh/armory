@@ -1,0 +1,7 @@
+{
+  "name": "sepinetam-stata",
+  "description": "Perform regression anlayses with Stata.",
+  "source_repo": "sepinetam/mcp-for-stata",
+  "source_url": "https://github.com/sepinetam/mcp-for-stata",
+  "install": "# git clone --depth 1 https://github.com/sepinetam/mcp-for-stata\n# See source for mcpServers config block"
+}

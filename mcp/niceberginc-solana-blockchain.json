@@ -1,0 +1,7 @@
+{
+  "name": "niceberginc-solana-blockchain",
+  "description": "Enables interaction with the Solana blockchain for performing operations like querying account data, sending transactions, and interacting with smart contracts through the AgentiPy framework.",
+  "source_repo": "niceberginc/agentipy-mcp",
+  "source_url": "https://github.com/niceberginc/agentipy-mcp",
+  "install": "npx -y agentipy-mcp"
+}

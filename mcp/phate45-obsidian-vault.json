@@ -1,0 +1,7 @@
+{
+  "name": "phate45-obsidian-vault",
+  "description": "Integrates with Obsidian vaults through filesystem access and Local REST API plugin to enable file moving/renaming while preserving backlinks, extract markdown heading structures for navigation, and generate unambiguous heading references for knowledge base organization and content restructuring workflows.",
+  "source_repo": "phate45/mcp-vault",
+  "source_url": "https://github.com/phate45/mcp-vault",
+  "install": "# git clone --depth 1 https://github.com/phate45/mcp-vault\n# See source for mcpServers config block"
+}

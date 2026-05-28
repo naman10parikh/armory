@@ -1,0 +1,7 @@
+{
+  "name": "mem0-for-pm",
+  "description": "Bridge to the mem0 cloud service, providing memory capabilities.",
+  "source_repo": "kunihiros/mem0-mcp-for-pm",
+  "source_url": "https://github.com/kunihiros/mem0-mcp-for-pm",
+  "install": "# git clone --depth 1 https://github.com/kunihiros/mem0-mcp-for-pm\n# See source for mcpServers config block"
+}

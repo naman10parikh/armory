@@ -1,0 +1,7 @@
+{
+  "name": "acedatacloud-nanobanana",
+  "description": "NanoBanana AI image generation and editing through the AceDataCloud API platform.",
+  "source_repo": "acedatacloud/nanobananamcp",
+  "source_url": "https://github.com/acedatacloud/nanobananamcp",
+  "install": "# git clone --depth 1 https://github.com/acedatacloud/nanobananamcp\n# See source for mcpServers config block"
+}

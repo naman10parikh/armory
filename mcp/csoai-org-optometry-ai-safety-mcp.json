@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-optometry-ai-safety-mcp",
+  "description": "Python MCP server for optometry and AI safety tools.",
+  "source_repo": "csoai-org/optometry-ai-safety-mcp",
+  "source_url": "https://github.com/csoai-org/optometry-ai-safety-mcp",
+  "install": "npx -y optometry-ai-safety-mcp"
+}

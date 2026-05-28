@@ -1,0 +1,7 @@
+{
+  "name": "pv-bhat-gemsuite",
+  "description": "Integrates with Google's Gemini API through specialized tools for search, reasoning, processing, and file analysis, automatically selecting optimal models based on content type.",
+  "source_repo": "pv-bhat/gemsuite-mcp",
+  "source_url": "https://github.com/pv-bhat/gemsuite-mcp",
+  "install": "npx -y gemsuite-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rishipradeep-think41-drive",
+  "description": "Integrates with Google Drive and Google Sheets to enable document searching, content reading, and spreadsheet manipulation through OAuth authentication and resource-based access.",
+  "source_repo": "rishipradeep-think41/drive-mcp",
+  "source_url": "https://github.com/rishipradeep-think41/drive-mcp",
+  "install": "npx -y drive-mcp"
+}

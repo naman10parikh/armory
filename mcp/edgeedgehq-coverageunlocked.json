@@ -1,0 +1,7 @@
+{
+  "name": "edgeedgehq-coverageunlocked",
+  "description": "AI-powered insurance denial appeals with win probability scoring and payer intelligence.",
+  "source_repo": "edgeedgehq/coverageunlocked-mcp",
+  "source_url": "https://github.com/edgeedgehq/coverageunlocked-mcp",
+  "install": "npx -y coverageunlocked-mcp"
+}

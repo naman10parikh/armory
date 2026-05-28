@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-beefy",
+  "description": "Hosted proxy for Beefy Finance vault protocol APIs with 10 auto-generated tools for yield optimization.",
+  "source_repo": "junct-bot/beefy-mcp",
+  "source_url": "https://github.com/junct-bot/beefy-mcp",
+  "install": "npx -y beefy-mcp"
+}

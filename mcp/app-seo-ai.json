@@ -1,0 +1,7 @@
+{
+  "name": "app-seo-ai",
+  "description": "Connects AI systems to Google Ads Keyword Planner API for SEO automation through keyword research, SERP analysis, and competitor insights without leaving conversations.",
+  "source_repo": "ayushsinghvi92/app-seo-ai",
+  "source_url": "https://github.com/ayushsinghvi92/app-seo-ai",
+  "install": "# git clone --depth 1 https://github.com/ayushsinghvi92/app-seo-ai\n# See source for mcpServers config block"
+}

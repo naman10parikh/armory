@@ -1,0 +1,7 @@
+{
+  "name": "miro",
+  "description": "Connect AI coding tools to Miro boards for diagram generation, code creation, and visual collaboration through OAuth-secured access.",
+  "source_repo": "miroapp/miro-ai",
+  "source_url": "https://github.com/miroapp/miro-ai",
+  "install": "# git clone --depth 1 https://github.com/miroapp/miro-ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tommytang2414-n8n",
+  "description": "Integrates with n8n workflow automation platform for secure workflow management, execution control, and health monitoring with enterprise security features.",
+  "source_repo": "tommytang2414/n8n-mcp-server",
+  "source_url": "https://github.com/tommytang2414/n8n-mcp-server",
+  "install": "npx -y n8n-mcp-server"
+}

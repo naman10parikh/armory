@@ -1,0 +1,7 @@
+{
+  "name": "roxorlt-cc2wx",
+  "description": "Bridge between Claude Code and WeChat via iLink Bot API with permission relay.",
+  "source_repo": "roxorlt/cc2wx",
+  "source_url": "https://github.com/roxorlt/cc2wx",
+  "install": "# git clone --depth 1 https://github.com/roxorlt/cc2wx\n# See source for mcpServers config block"
+}

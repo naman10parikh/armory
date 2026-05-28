@@ -1,0 +1,7 @@
+{
+  "name": "trello-mcp-server",
+  "description": "Enables AI assistants to interact with Trello boards, cards, lists, and more through a standardized interface.",
+  "source_repo": "SemblanceLabs/trello-mcp-server",
+  "source_url": "https://github.com/SemblanceLabs/trello-mcp-server",
+  "install": "npx -y trello-mcp-server"
+}

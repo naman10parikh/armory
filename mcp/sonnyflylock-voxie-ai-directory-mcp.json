@@ -1,0 +1,7 @@
+{
+  "name": "sonnyflylock-voxie-ai-directory-mcp",
+  "description": "AI Phone Number Directory providing access to AI services via webchat. Query Voxie AI personas and third-party services like ChatGPT, with instant webchat URLs for free interactions.",
+  "source_repo": "sonnyflylock/voxie-ai-directory-mcp",
+  "source_url": "https://github.com/sonnyflylock/voxie-ai-directory-mcp",
+  "install": "npx -y voxie-ai-directory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tuna1999-dnspy",
+  "description": "Exposes dnSpy .NET decompilation and analysis capabilities to AI agents via 28 MCP tools.",
+  "source_repo": "tuna1999/dnspy-mcp",
+  "source_url": "https://github.com/tuna1999/dnspy-mcp",
+  "install": "npx -y dnspy-mcp"
+}

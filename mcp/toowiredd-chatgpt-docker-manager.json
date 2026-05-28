@@ -1,0 +1,7 @@
+{
+  "name": "toowiredd-chatgpt-docker-manager",
+  "description": "Enables natural language-driven Docker container management, including operations, log monitoring, and command execution.",
+  "source_repo": "toowiredd/chatgpt-mcp-server",
+  "source_url": "https://github.com/toowiredd/chatgpt-mcp-server",
+  "install": "npx -y chatgpt-mcp-server"
+}

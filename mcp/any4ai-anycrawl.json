@@ -1,0 +1,7 @@
+{
+  "name": "any4ai-anycrawl",
+  "description": "Integrates with the AnyCrawl API to provide web scraping and crawling capabilities with configurable depth limits, multiple scraping engines, and structured data extraction in various formats including markdown and JSON.",
+  "source_repo": "any4ai/anycrawl-mcp-server",
+  "source_url": "https://github.com/any4ai/anycrawl-mcp-server",
+  "install": "npx -y anycrawl-mcp-server"
+}

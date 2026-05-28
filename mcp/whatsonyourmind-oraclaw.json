@@ -1,0 +1,7 @@
+{
+  "name": "whatsonyourmind-oraclaw",
+  "description": "Decision intelligence platform providing 19 ML algorithms and 12 optimization tools with sub-25ms deterministic execution.",
+  "source_repo": "whatsonyourmind/oraclaw",
+  "source_url": "https://github.com/whatsonyourmind/oraclaw/tree/HEAD/mission-control/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/whatsonyourmind/oraclaw/tree/HEAD/mission-control/packages/mcp-server\n# See source for mcpServers config block"
+}

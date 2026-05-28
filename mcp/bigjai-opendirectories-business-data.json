@@ -1,0 +1,7 @@
+{
+  "name": "bigjai-opendirectories-business-data",
+  "description": "Search 12M+ verified businesses across 10 countries via government registers with competitor analysis and market density tools.",
+  "source_repo": "bigjai/opendirectories-mcp",
+  "source_url": "https://github.com/bigjai/opendirectories-mcp",
+  "install": "npx -y opendirectories-mcp"
+}

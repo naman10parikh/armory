@@ -1,0 +1,7 @@
+{
+  "name": "pengc0066-star-slurm",
+  "description": "Connects AI assistants to Slurm HPC clusters via SSH for job listing, submission, status checks, and error diagnostics.",
+  "source_repo": "pengc0066-star/slurm_mcp",
+  "source_url": "https://github.com/pengc0066-star/slurm_mcp",
+  "install": "npx -y slurm_mcp"
+}

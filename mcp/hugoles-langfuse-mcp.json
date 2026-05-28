@@ -1,0 +1,7 @@
+{
+  "name": "hugoles-langfuse-mcp",
+  "description": "TypeScript MCP server for the Langfuse Public API. 27 read tools covering traces, observations, sessions, scores, score-configs, prompts (with version/label), datasets, dataset items, dataset runs, metrics, models, projects, comments, media, and health. Distributed as `npx -y langfuse-mcp` with provenance-signed releases.",
+  "source_repo": "hugoles/langfuse-mcp",
+  "source_url": "https://github.com/hugoles/langfuse-mcp",
+  "install": "npx -y langfuse-mcp"
+}

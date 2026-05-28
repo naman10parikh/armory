@@ -1,0 +1,7 @@
+{
+  "name": "nvoip",
+  "description": "Access Nvoip VoIP platform analytics — call reports, service quality metrics, and business insights via AI.",
+  "source_repo": "nvoip/nvoip-mcp",
+  "source_url": "https://github.com/nvoip/nvoip-mcp",
+  "install": "npx -y nvoip-mcp"
+}

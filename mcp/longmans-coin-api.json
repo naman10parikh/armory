@@ -1,0 +1,7 @@
+{
+  "name": "longmans-coin-api",
+  "description": "Integrates with CoinMarketCap's API to fetch and analyze cryptocurrency market data, supporting customizable queries for real-time information.",
+  "source_repo": "longmans/coin_api_mcp",
+  "source_url": "https://github.com/longmans/coin_api_mcp",
+  "install": "npx -y coin_api_mcp"
+}

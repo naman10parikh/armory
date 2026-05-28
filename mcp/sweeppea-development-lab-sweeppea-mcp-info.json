@@ -1,0 +1,7 @@
+{
+  "name": "sweeppea-development-lab-sweeppea-mcp-info",
+  "description": "Sweepstakes management platform with 70 MCP tools for legally compliant promotions in the US and Canada. Manage participants, official rules, winner drawings, entry pages, billing, and more. Requires a [Sweeppea](https://www.sweeppea.com/) subscription.",
+  "source_repo": "Sweeppea-Development-Lab/sweeppea-mcp-info",
+  "source_url": "https://github.com/Sweeppea-Development-Lab/sweeppea-mcp-info",
+  "install": "# git clone --depth 1 https://github.com/Sweeppea-Development-Lab/sweeppea-mcp-info\n# See source for mcpServers config block"
+}

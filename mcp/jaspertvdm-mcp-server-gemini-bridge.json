@@ -1,0 +1,7 @@
+{
+  "name": "jaspertvdm-mcp-server-gemini-bridge",
+  "description": "Bridge to Google Gemini API. Access Gemini Pro and Flash models through MCP.",
+  "source_repo": "jaspertvdm/mcp-server-gemini-bridge",
+  "source_url": "https://github.com/jaspertvdm/mcp-server-gemini-bridge",
+  "install": "# git clone --depth 1 https://github.com/jaspertvdm/mcp-server-gemini-bridge\n# See source for mcpServers config block"
+}

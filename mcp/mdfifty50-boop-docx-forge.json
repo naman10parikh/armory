@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-docx-forge",
+  "description": "Generate professional DOCX documents from structured data in AI agent workflows.",
+  "source_repo": "mdfifty50-boop/docx-forge-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/docx-forge-mcp",
+  "install": "npx -y docx-forge-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neurotrade",
+  "description": "AI-powered cryptocurrency trading signals via the NeuroTrade platform by A3EE Ecosystem.",
+  "source_repo": "",
+  "source_url": "https://neurotrade.a3eecosystem.com",
+  "install": "# git clone --depth 1 https://neurotrade.a3eecosystem.com\n# See source for mcpServers config block"
+}

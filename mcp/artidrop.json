@@ -1,0 +1,7 @@
+{
+  "name": "artidrop",
+  "description": "Publish HTML and Markdown as shareable URLs instantly from AI agents.",
+  "source_repo": "",
+  "source_url": "https://artidrop.ai/mcp",
+  "install": "# git clone --depth 1 https://artidrop.ai/mcp\n# See source for mcpServers config block"
+}

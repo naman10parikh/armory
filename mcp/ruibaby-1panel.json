@@ -1,0 +1,7 @@
+{
+  "name": "ruibaby-1panel",
+  "description": "Automates website deployment to 1Panel servers by creating static sites, uploading build files, and providing deployment statistics through a Node.js Express interface.",
+  "source_repo": "ruibaby/1panel-mcp",
+  "source_url": "https://github.com/ruibaby/1panel-mcp",
+  "install": "npx -y 1panel-mcp"
+}

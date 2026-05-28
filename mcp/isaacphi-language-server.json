@@ -1,0 +1,7 @@
+{
+  "name": "isaacphi-language-server",
+  "description": "Provides intelligent code analysis and manipulation across multiple programming languages through language server protocols, enabling developers to explore, understand, and refactor complex codebases.",
+  "source_repo": "isaacphi/mcp-language-server",
+  "source_url": "https://github.com/isaacphi/mcp-language-server",
+  "install": "# git clone --depth 1 https://github.com/isaacphi/mcp-language-server\n# See source for mcpServers config block"
+}

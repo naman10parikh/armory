@@ -1,0 +1,7 @@
+{
+  "name": "concordium",
+  "description": "Integrates with Concordium blockchain networks to query accounts, blocks, tokens, validators, and smart contracts through natural language interactions across mainnet and testnet environments.",
+  "source_repo": "developerayo/concordium-mcp-server",
+  "source_url": "https://github.com/developerayo/concordium-mcp-server",
+  "install": "npx -y concordium-mcp-server"
+}

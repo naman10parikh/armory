@@ -1,0 +1,7 @@
+{
+  "name": "speedofme",
+  "description": "Runs accurate internet speed tests with download, upload, and latency measurements via 129 global edge servers.",
+  "source_repo": "",
+  "source_url": "https://speedof.me/api.html",
+  "install": "# git clone --depth 1 https://speedof.me/api.html\n# See source for mcpServers config block"
+}

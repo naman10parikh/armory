@@ -1,0 +1,7 @@
+{
+  "name": "genlayer-mcp-server",
+  "description": "A comprehensive MCP server for generating sophisticated GenLayer Intelligent Contracts with AI-native blockchain capabilities.",
+  "source_repo": "albert-mr/genlayer-mcp-server",
+  "source_url": "https://github.com/albert-mr/genlayer-mcp-server",
+  "install": "npx -y genlayer-mcp-server"
+}

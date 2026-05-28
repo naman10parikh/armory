@@ -1,0 +1,7 @@
+{
+  "name": "gogabrielordonez-mcp-ragchat",
+  "description": "Add RAG-powered AI chat to any website with one command. Local vector store, multi-provider LLM (OpenAI/Anthropic/Gemini), self-contained chat server and embeddable widget.",
+  "source_repo": "gogabrielordonez/mcp-ragchat",
+  "source_url": "https://github.com/gogabrielordonez/mcp-ragchat",
+  "install": "# git clone --depth 1 https://github.com/gogabrielordonez/mcp-ragchat\n# See source for mcpServers config block"
+}

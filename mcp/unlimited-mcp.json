@@ -1,0 +1,7 @@
+{
+  "name": "unlimited-mcp",
+  "description": "An MCP server that delegates coding and sysops work to cheaper agents via durable background queues, with git worktree isolation, safety policies, and clarification rounds to avoid hitting limits of frontier models.",
+  "source_repo": "triumsebas/unlimited-mcp",
+  "source_url": "https://github.com/triumsebas/unlimited-mcp",
+  "install": "npx -y unlimited-mcp"
+}

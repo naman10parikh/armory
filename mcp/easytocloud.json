@@ -1,0 +1,7 @@
+{
+  "name": "easytocloud",
+  "description": "Professional letterhead PDF generator for macOS with Markdown support and smart margin detection",
+  "source_repo": "easytocloud/mac-letterhead",
+  "source_url": "https://github.com/easytocloud/mac-letterhead",
+  "install": "# git clone --depth 1 https://github.com/easytocloud/mac-letterhead\n# See source for mcpServers config block"
+}

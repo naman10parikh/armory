@@ -1,0 +1,7 @@
+{
+  "name": "eigencharlie-pdf-toolkit",
+  "description": "Unofficial PDF toolkit for merging, splitting, compressing, OCR, converting, watermarking, and protecting documents via iLoveAPI.",
+  "source_repo": "eigencharlie/pdf-toolkit-mcp",
+  "source_url": "https://github.com/eigencharlie/pdf-toolkit-mcp",
+  "install": "npx -y pdf-toolkit-mcp"
+}

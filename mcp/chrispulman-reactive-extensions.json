@@ -1,0 +1,7 @@
+{
+  "name": "chrispulman-reactive-extensions",
+  "description": "Provides 10 tools and 3 prompts for designing, debugging, reviewing, and modernizing Rx.NET reactive extensions applications.",
+  "source_repo": "chrispulman/reactivemcp.server",
+  "source_url": "https://github.com/chrispulman/reactivemcp.server",
+  "install": "# git clone --depth 1 https://github.com/chrispulman/reactivemcp.server\n# See source for mcpServers config block"
+}

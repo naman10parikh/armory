@@ -1,0 +1,7 @@
+{
+  "name": "pokkerolli-reminder",
+  "description": "Schedules and delivers time-based reminders with support for delays, exact times, and pre-event notifications.",
+  "source_repo": "pokkerolli/reminder-mcp-server",
+  "source_url": "https://github.com/pokkerolli/reminder-mcp-server",
+  "install": "npx -y reminder-mcp-server"
+}

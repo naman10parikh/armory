@@ -1,0 +1,7 @@
+{
+  "name": "suulola-figma-local-bridge",
+  "description": "Connects to Figma documents through a local plugin bridge, bypassing API rate limits to provide real-time access to design data, node properties, selections, and image exports for development workflows.",
+  "source_repo": "suulola/figma-local-mcp-server",
+  "source_url": "https://github.com/suulola/figma-local-mcp-server",
+  "install": "npx -y figma-local-mcp-server"
+}

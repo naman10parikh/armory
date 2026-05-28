@@ -1,0 +1,7 @@
+{
+  "name": "lucasgerads-lecroy-oscilloscope",
+  "description": "Controls LeCroy oscilloscopes via SCPI commands for channel configuration, measurements, waveform capture, and FFT operations.",
+  "source_repo": "lucasgerads/lecroy-mcp",
+  "source_url": "https://github.com/lucasgerads/lecroy-mcp",
+  "install": "npx -y lecroy-mcp"
+}

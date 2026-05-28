@@ -1,0 +1,7 @@
+{
+  "name": "raccoonai-lam",
+  "description": "Enables web browsing, data extraction, and task automation through Raccoon's LAM API, allowing users to search websites, fill forms, navigate UI elements, and extract structured data based on defined schemas.",
+  "source_repo": "raccoonaihq/raccoonai-mcp-server",
+  "source_url": "https://github.com/raccoonaihq/raccoonai-mcp-server",
+  "install": "npx -y raccoonai-mcp-server"
+}

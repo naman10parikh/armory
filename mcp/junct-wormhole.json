@@ -1,0 +1,7 @@
+{
+  "name": "junct-wormhole",
+  "description": "Auto-generated MCP server for Wormhole cross-chain transfers and bridge data.",
+  "source_repo": "junct-bot/wormhole-mcp",
+  "source_url": "https://github.com/junct-bot/wormhole-mcp",
+  "install": "npx -y wormhole-mcp"
+}

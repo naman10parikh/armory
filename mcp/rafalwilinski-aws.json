@@ -1,0 +1,7 @@
+{
+  "name": "rafalwilinski-aws",
+  "description": "Bridges AWS services with the AWS SDK v2, enabling secure access and management of AWS resources for cloud infrastructure and data processing tasks.",
+  "source_repo": "rafalwilinski/aws-mcp",
+  "source_url": "https://github.com/rafalwilinski/aws-mcp",
+  "install": "npx -y aws-mcp"
+}

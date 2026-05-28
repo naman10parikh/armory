@@ -1,0 +1,7 @@
+{
+  "name": "carsxe",
+  "description": "Vehicle data including VIN decoding, specs, history, images, recalls, and OBD codes.",
+  "source_repo": "carsxe/carsxe-mcp-server",
+  "source_url": "https://github.com/carsxe/carsxe-mcp-server",
+  "install": "npx -y carsxe-mcp-server"
+}

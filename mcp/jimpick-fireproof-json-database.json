@@ -1,0 +1,7 @@
+{
+  "name": "jimpick-fireproof-json-database",
+  "description": "Integrates Fireproof JSON document databases with the Model Context Protocol, enabling CRUD operations and querying across multiple decentralized databases for scalable data management.",
+  "source_repo": "jimpick/mcp-json-db-collection-server",
+  "source_url": "https://github.com/jimpick/mcp-json-db-collection-server",
+  "install": "# git clone --depth 1 https://github.com/jimpick/mcp-json-db-collection-server\n# See source for mcpServers config block"
+}

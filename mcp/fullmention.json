@@ -1,0 +1,7 @@
+{
+  "name": "fullmention",
+  "description": "A secure, high-performance MCP server that gives AI models and agents (like Cursor and Claude Desktop) direct access to the FullMention Public API to monitor AI search visibility, manage keywords, and calculate brand Share of Voice.",
+  "source_repo": "riisager/fullmention-mcp",
+  "source_url": "https://github.com/riisager/fullmention-mcp",
+  "install": "npx -y fullmention-mcp"
+}

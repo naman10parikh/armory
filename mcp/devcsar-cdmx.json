@@ -1,0 +1,7 @@
+{
+  "name": "devcsar-cdmx",
+  "description": "Mexico City open data covering crime statistics, 911 calls, air quality, bike-sharing, and business locations.",
+  "source_repo": "devcsar/cdmx-mcp",
+  "source_url": "https://github.com/devcsar/cdmx-mcp",
+  "install": "npx -y cdmx-mcp"
+}

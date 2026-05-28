@@ -1,0 +1,7 @@
+{
+  "name": "writing-tools-mcp-server",
+  "description": "MCP server offering text analysis tools for writing improvement, including spellcheck, readability, keyword analysis, passive voice detection, and AI-generated content detection.",
+  "source_repo": "wdm0006/writing-tools-mcp",
+  "source_url": "https://github.com/wdm0006/writing-tools-mcp",
+  "install": "npx -y writing-tools-mcp"
+}

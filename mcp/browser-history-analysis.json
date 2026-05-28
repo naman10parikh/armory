@@ -1,0 +1,7 @@
+{
+  "name": "browser-history-analysis",
+  "description": "Analyzes local Firefox and Chrome browser history to provide productivity insights, browsing pattern analysis, and session categorization across 12+ domains with focus scoring and research session detection.",
+  "source_repo": "mixophrygian/browser_history_mcp",
+  "source_url": "https://github.com/mixophrygian/browser_history_mcp",
+  "install": "npx -y browser_history_mcp"
+}

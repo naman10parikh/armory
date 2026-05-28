@@ -1,0 +1,7 @@
+{
+  "name": "mcp-origin",
+  "description": "Mcp Origin MCP server listed on mcp.so.",
+  "source_repo": "dstotijn/mcp-origin",
+  "source_url": "https://mcp.so/server/mcp-origin/dstotijn",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-origin/dstotijn\n# See source for mcpServers config block"
+}

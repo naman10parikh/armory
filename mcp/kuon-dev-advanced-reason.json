@@ -1,0 +1,7 @@
+{
+  "name": "kuon-dev-advanced-reason",
+  "description": "Leverages the deepseek-r1 model to provide structured reasoning capabilities through specialized tools for analytical thinking, reflection with quality scoring, and sequential problem-solving with branching thoughts.",
+  "source_repo": "kuon-dev/advanced-reason-mcp",
+  "source_url": "https://github.com/kuon-dev/advanced-reason-mcp",
+  "install": "npx -y advanced-reason-mcp"
+}

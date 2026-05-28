@@ -1,0 +1,7 @@
+{
+  "name": "neuzhou-stratevo",
+  "description": "Quantitative trading framework using genetic algorithms to evolve strategies from 484 factors across crypto and equities.",
+  "source_repo": "neuzhou/stratevo",
+  "source_url": "https://github.com/neuzhou/stratevo",
+  "install": "# git clone --depth 1 https://github.com/neuzhou/stratevo\n# See source for mcpServers config block"
+}

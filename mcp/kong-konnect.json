@@ -1,0 +1,7 @@
+{
+  "name": "kong-konnect",
+  "description": "Integrates with Kong API Gateway to enable management and analysis of API configurations, traffic patterns, and control plane settings through Kong's cloud APIs for DevOps teams maintaining API infrastructure.",
+  "source_repo": "kong/mcp-konnect",
+  "source_url": "https://github.com/kong/mcp-konnect",
+  "install": "# git clone --depth 1 https://github.com/kong/mcp-konnect\n# See source for mcpServers config block"
+}

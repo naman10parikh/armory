@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-met-no",
+  "description": "Access weather forecasts, observations, and climate data from MET Norway (Meteorologisk institutt), Norway's national meteorological service.",
+  "source_repo": "pipeworx-io/mcp-met-no",
+  "source_url": "https://github.com/pipeworx-io/mcp-met-no",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-met-no\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wesnermichel-nexus-vscode",
+  "description": "Integrates Claude Desktop with VSCode, enabling file access and manipulation within specified workspace directories for seamless AI-assisted development workflows.",
+  "source_repo": "wesnermichel/nexus-mcp-claude-desktop-server",
+  "source_url": "https://github.com/wesnermichel/nexus-mcp-claude-desktop-server",
+  "install": "# git clone --depth 1 https://github.com/wesnermichel/nexus-mcp-claude-desktop-server\n# See source for mcpServers config block"
+}

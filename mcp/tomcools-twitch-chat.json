@@ -1,0 +1,7 @@
+{
+  "name": "tomcools-twitch-chat",
+  "description": "Integrates with Twitch chat using Apache Camel and Quarkus to enable real-time interaction, moderation, and analysis of live stream conversations.",
+  "source_repo": "tomcools/twitch-mcp",
+  "source_url": "https://github.com/tomcools/twitch-mcp",
+  "install": "npx -y twitch-mcp"
+}

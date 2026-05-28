@@ -1,0 +1,7 @@
+{
+  "name": "ppiova-travel",
+  "description": "Provides flight and hotel search capabilities using static JSON data with IATA airport codes and city-based accommodation lookup",
+  "source_repo": "ppiova/travelmcp",
+  "source_url": "https://github.com/ppiova/travelmcp",
+  "install": "# git clone --depth 1 https://github.com/ppiova/travelmcp\n# See source for mcpServers config block"
+}

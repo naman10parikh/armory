@@ -1,0 +1,7 @@
+{
+  "name": "cyphrex",
+  "description": "Blockchain-based identity, behavior enforcement, and immutable audit trails for AI agents.",
+  "source_repo": "getcyphrex/cyphrex-mcp",
+  "source_url": "https://github.com/getcyphrex/cyphrex-mcp",
+  "install": "npx -y cyphrex-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "myriade",
+  "description": "AI data analyst connecting to data warehouses including Snowflake and BigQuery.",
+  "source_repo": "",
+  "source_url": "https://www.myriade.ai",
+  "install": "# git clone --depth 1 https://www.myriade.ai\n# See source for mcpServers config block"
+}

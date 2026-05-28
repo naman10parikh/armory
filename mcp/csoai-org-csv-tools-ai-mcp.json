@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-csv-tools-ai-mcp",
+  "description": "AI-powered CSV file manipulation, transformation, and analysis tools.",
+  "source_repo": "csoai-org/csv-tools-ai-mcp",
+  "source_url": "https://github.com/csoai-org/csv-tools-ai-mcp",
+  "install": "npx -y csv-tools-ai-mcp"
+}

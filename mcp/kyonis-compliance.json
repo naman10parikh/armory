@@ -1,0 +1,7 @@
+{
+  "name": "kyonis-compliance",
+  "description": "Perform KYC verification, AML sanctions screening, and due diligence checks via the Kyonis API.",
+  "source_repo": "contactkyonis-droid/kyonis-mcp",
+  "source_url": "https://github.com/contactkyonis-droid/kyonis-mcp",
+  "install": "npx -y kyonis-mcp"
+}

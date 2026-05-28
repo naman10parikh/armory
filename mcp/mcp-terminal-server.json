@@ -1,0 +1,7 @@
+{
+  "name": "mcp-terminal-server",
+  "description": "MCP Terminal Server MCP server listed on mcp.so.",
+  "source_repo": "kunjanshah0811/MCP-Terminal-Server",
+  "source_url": "https://mcp.so/server/MCP-Terminal-Server/kunjanshah0811",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Terminal-Server/kunjanshah0811\n# See source for mcpServers config block"
+}

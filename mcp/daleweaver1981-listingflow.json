@@ -1,0 +1,7 @@
+{
+  "name": "daleweaver1981-listingflow",
+  "description": "50 AI prompts for real estate listing agents covering CMA, MLS, and buyer presentations.",
+  "source_repo": "daleweaver1981/listingflow-mcp",
+  "source_url": "https://github.com/daleweaver1981/listingflow-mcp",
+  "install": "npx -y listingflow-mcp"
+}

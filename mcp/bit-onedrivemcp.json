@@ -1,0 +1,7 @@
+{
+  "name": "bit-onedrivemcp",
+  "description": "Manages OneDrive files via Microsoft Graph API with 9 tools for CRUD, search, and sharing.",
+  "source_repo": "emilychimbobit/bit-onedrivemcp",
+  "source_url": "https://github.com/emilychimbobit/bit-onedrivemcp",
+  "install": "# git clone --depth 1 https://github.com/emilychimbobit/bit-onedrivemcp\n# See source for mcpServers config block"
+}

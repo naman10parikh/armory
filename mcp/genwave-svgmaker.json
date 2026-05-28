@@ -1,0 +1,7 @@
+{
+  "name": "genwave-svgmaker",
+  "description": "Integrates with SVGMaker's API to generate SVGs from text descriptions, edit existing images, and convert bitmap images to vector format with customizable quality settings and real-time progress tracking.",
+  "source_repo": "genwavellc/svgmaker-mcp",
+  "source_url": "https://github.com/genwavellc/svgmaker-mcp",
+  "install": "npx -y svgmaker-mcp"
+}

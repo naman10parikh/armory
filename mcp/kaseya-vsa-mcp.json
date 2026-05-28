@@ -1,0 +1,7 @@
+{
+  "name": "kaseya-vsa-mcp",
+  "description": "MCP server for Kaseya VSA — endpoints, patches, procedures, alarms, and tickets. Enables AI assistants to manage and monitor devices via the Kaseya VSA RMM platform.",
+  "source_repo": "wyre-technology/kaseya-vsa-mcp",
+  "source_url": "https://github.com/wyre-technology/kaseya-vsa-mcp",
+  "install": "npx -y kaseya-vsa-mcp"
+}

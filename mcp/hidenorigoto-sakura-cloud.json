@@ -1,0 +1,7 @@
+{
+  "name": "hidenorigoto-sakura-cloud",
+  "description": "Enables management of Sakura Cloud infrastructure resources including servers, disks, networks, and containerized applications through natural language commands.",
+  "source_repo": "hidenorigoto/sacloud-mcp",
+  "source_url": "https://github.com/hidenorigoto/sacloud-mcp",
+  "install": "npx -y sacloud-mcp"
+}

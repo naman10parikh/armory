@@ -1,0 +1,7 @@
+{
+  "name": "seah-boon-keong-chat-with-opendosm-datasets-2",
+  "description": "MCP for public datasets OpenDOSM (Developed by Seah Boon Keong) What it delivers: - 163 curated datasets (Department of Statistics Malaysia + sources) - Programmatic tools: discover, query, get latest, correlation, ARIMA forecasts (with fallback) Benefits: Accessibility - Economists, analysts, and p",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/seahbk1006/seahboonkeong-chat-opendosm",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/seahbk1006/seahboonkeong-chat-opendosm\n# See source for mcpServers config block"
+}

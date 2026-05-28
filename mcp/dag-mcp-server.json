@@ -1,0 +1,7 @@
+{
+  "name": "dag-mcp-server",
+  "description": "Provides intelligent, version-aware access to npm library documentation. Supports semantic search, API validation, and version comparison to assist developers in using libraries correctly.",
+  "source_repo": "VAMFI/dag-mcp-server",
+  "source_url": "https://github.com/VAMFI/dag-mcp-server",
+  "install": "npx -y dag-mcp-server"
+}

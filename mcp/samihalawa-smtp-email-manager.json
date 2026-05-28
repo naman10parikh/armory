@@ -1,0 +1,7 @@
+{
+  "name": "samihalawa-smtp-email-manager",
+  "description": "Provides SMTP email functionality with tools for sending individual and bulk emails, managing configurations, and creating customizable templates with variable substitution for automated, personalized email campaigns.",
+  "source_repo": "samihalawa/mcp-server-smtp",
+  "source_url": "https://github.com/samihalawa/mcp-server-smtp",
+  "install": "# git clone --depth 1 https://github.com/samihalawa/mcp-server-smtp\n# See source for mcpServers config block"
+}

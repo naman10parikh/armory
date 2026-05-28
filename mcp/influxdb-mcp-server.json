@@ -1,0 +1,7 @@
+{
+  "name": "influxdb-mcp-server",
+  "description": "Influxdb Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "idoru/influxdb-mcp-server",
+  "source_url": "https://mcp.so/server/influxdb-mcp-server/idoru",
+  "install": "npx -y influxdb-mcp-server"
+}

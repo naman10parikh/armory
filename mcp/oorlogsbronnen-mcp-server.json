@@ -1,0 +1,7 @@
+{
+  "name": "oorlogsbronnen-mcp-server",
+  "description": "Enables natural language search and exploration of the Dutch WWII Oorlogsbronnen archives, allowing users to query historical documents, photographs, and personal accounts through AI assistants.",
+  "source_repo": "r-huijts/oorlogsbronnen-mcp",
+  "source_url": "https://github.com/r-huijts/oorlogsbronnen-mcp",
+  "install": "npx -y oorlogsbronnen-mcp"
+}

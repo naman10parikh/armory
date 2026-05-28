@@ -1,0 +1,7 @@
+{
+  "name": "swiss-democracy-mcp",
+  "description": "An MCP server providing access to Swiss direct democracy data, covering all federal popular votes since 1848 and elections since 1900.",
+  "source_repo": "malkreide/swiss-democracy-mcp",
+  "source_url": "https://github.com/malkreide/swiss-democracy-mcp",
+  "install": "npx -y swiss-democracy-mcp"
+}

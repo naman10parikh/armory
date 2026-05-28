@@ -1,0 +1,7 @@
+{
+  "name": "nebulagraph-mcp-server",
+  "description": "Nebulagraph Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "PsiACE/nebulagraph-mcp-server",
+  "source_url": "https://mcp.so/server/nebulagraph-mcp-server/PsiACE",
+  "install": "npx -y nebulagraph-mcp-server"
+}

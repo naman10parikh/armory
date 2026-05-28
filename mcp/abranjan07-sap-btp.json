@@ -1,0 +1,7 @@
+{
+  "name": "abranjan07-sap-btp",
+  "description": "Queries SAP Business Technology Platform service catalog, instances, destinations, and plan recommendations.",
+  "source_repo": "abranjan07/btp-mcp-server",
+  "source_url": "https://github.com/abranjan07/btp-mcp-server",
+  "install": "npx -y btp-mcp-server"
+}

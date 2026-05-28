@@ -1,0 +1,7 @@
+{
+  "name": "zhangzhongnan928-personal-assistant",
+  "description": "Integrates with external services like Google APIs, Home Assistant, and DuckDuckGo to provide a modular framework for calendar management, task tracking, email handling, knowledge retrieval, and smart home control.",
+  "source_repo": "zhangzhongnan928/mcp-pa-ai-agent",
+  "source_url": "https://github.com/zhangzhongnan928/mcp-pa-ai-agent",
+  "install": "# git clone --depth 1 https://github.com/zhangzhongnan928/mcp-pa-ai-agent\n# See source for mcpServers config block"
+}

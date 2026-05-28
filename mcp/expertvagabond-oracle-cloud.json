@@ -1,0 +1,7 @@
+{
+  "name": "expertvagabond-oracle-cloud",
+  "description": "Manage OCI compute instances, object storage, networking, and IAM resources.",
+  "source_repo": "expertvagabond/oracle-cloud-mcp",
+  "source_url": "https://github.com/expertvagabond/oracle-cloud-mcp",
+  "install": "npx -y oracle-cloud-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ginkida-portainer",
+  "description": "Manages Docker containers and stacks through the Portainer API.",
+  "source_repo": "ginkida/portainer-mcp",
+  "source_url": "https://github.com/ginkida/portainer-mcp",
+  "install": "npx -y portainer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "knigochit",
+  "description": "Russian books search, detail lookup, and recommendation discovery.",
+  "source_repo": "",
+  "source_url": "https://knigochit.ru",
+  "install": "# git clone --depth 1 https://knigochit.ru\n# See source for mcpServers config block"
+}

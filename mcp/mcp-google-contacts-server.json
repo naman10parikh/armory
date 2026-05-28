@@ -1,0 +1,7 @@
+{
+  "name": "mcp-google-contacts-server",
+  "description": "Mcp Google Contacts Server MCP server listed on mcp.so.",
+  "source_repo": "RayanZaki/mcp-google-contacts-server",
+  "source_url": "https://mcp.so/server/mcp-google-contacts-server/RayanZaki",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-google-contacts-server/RayanZaki\n# See source for mcpServers config block"
+}

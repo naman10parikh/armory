@@ -1,0 +1,7 @@
+{
+  "name": "semrush",
+  "description": "Provides AI agents with secure access to Semrush's public APIs (SEO data, traffic and market data)",
+  "source_repo": "",
+  "source_url": "https://developer.semrush.com/api/basics/semrush-mcp/",
+  "install": "# git clone --depth 1 https://developer.semrush.com/api/basics/semrush-mcp/\n# See source for mcpServers config block"
+}

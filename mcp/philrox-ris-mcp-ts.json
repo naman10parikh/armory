@@ -1,0 +1,7 @@
+{
+  "name": "philrox-ris-mcp-ts",
+  "description": "Access Austrian federal laws, state laws, court decisions, and legal documents via the RIS (Rechtsinformationssystem) API with 12 specialized tools.",
+  "source_repo": "philrox/ris-mcp-ts",
+  "source_url": "https://github.com/philrox/ris-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/philrox/ris-mcp-ts\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aaaa-nexus",
+  "description": "aaaa-nexus",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/atomadictech-ud4n/aaaa-nexus",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/atomadictech-ud4n/aaaa-nexus\n# See source for mcpServers config block"
+}

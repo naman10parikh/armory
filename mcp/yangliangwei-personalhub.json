@@ -1,0 +1,7 @@
+{
+  "name": "yangliangwei-personalhub",
+  "description": "Centralizes personal data from Steam, YouTube, and Bilibili platforms through modular integrations that provide gaming statistics, video content, and user activity data with plans for Spotify, Twitter, and GitHub expansion.",
+  "source_repo": "yangliangwei/personalizationmcp",
+  "source_url": "https://github.com/yangliangwei/personalizationmcp",
+  "install": "# git clone --depth 1 https://github.com/yangliangwei/personalizationmcp\n# See source for mcpServers config block"
+}

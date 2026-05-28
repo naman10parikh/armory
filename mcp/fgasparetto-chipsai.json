@@ -1,0 +1,7 @@
+{
+  "name": "fgasparetto-chipsai",
+  "description": "Manages chatbots, conversations, documents, and AI models on the ChipsBuilder AI platform.",
+  "source_repo": "fgasparetto/chipsai-mcp",
+  "source_url": "https://github.com/fgasparetto/chipsai-mcp",
+  "install": "npx -y chipsai-mcp"
+}

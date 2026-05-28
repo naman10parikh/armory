@@ -1,0 +1,7 @@
+{
+  "name": "carvox",
+  "description": "Portuguese used car catalogue searchable by make, model, price, mileage, fuel, and district.",
+  "source_repo": "",
+  "source_url": "https://www.carvox.pt",
+  "install": "# git clone --depth 1 https://www.carvox.pt\n# See source for mcpServers config block"
+}

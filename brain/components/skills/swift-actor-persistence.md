@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, skill]
+tags: [skill]
 ---
 ## What it is
 Thread-safe data persistence in Swift using actors — in-memory cache with file-backed storage, eliminating data races by design.

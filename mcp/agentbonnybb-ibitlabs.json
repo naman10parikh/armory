@@ -1,0 +1,7 @@
+{
+  "name": "agentbonnybb-ibitlabs",
+  "description": "Live trading receipts from a public AI-driven trading experiment tracking real account activity.",
+  "source_repo": "agentbonnybb/ibitlabs",
+  "source_url": "https://github.com/agentbonnybb/ibitlabs/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/agentbonnybb/ibitlabs/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

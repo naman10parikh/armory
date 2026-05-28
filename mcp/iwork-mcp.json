@@ -1,0 +1,7 @@
+{
+  "name": "iwork-mcp",
+  "description": "An MCP server that provides 113 tools for automating Apple iWork apps (Numbers, Pages, Keynote) via JavaScript for Automation, enabling AI assistants to create, edit, and export documents, spreadsheets, and presentations.",
+  "source_repo": "reichenbach/iwork_mcp",
+  "source_url": "https://github.com/reichenbach/iwork_mcp",
+  "install": "npx -y iwork_mcp"
+}

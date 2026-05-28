@@ -1,0 +1,7 @@
+{
+  "name": "arindam200-reddit",
+  "description": "Integrates with Reddit to provide user analysis with engagement patterns, subreddit statistics with health metrics, post creation with timing recommendations, and comment replies with strategic optimization for social media management and community engagement workflows.",
+  "source_repo": "arindam200/reddit-mcp",
+  "source_url": "https://github.com/arindam200/reddit-mcp",
+  "install": "npx -y reddit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meet-bot",
+  "description": "AI-native scheduling and booking with availability checking, meeting booking, and link sharing.",
+  "source_repo": "",
+  "source_url": "https://mcp.meet.bot",
+  "install": "# git clone --depth 1 https://mcp.meet.bot\n# See source for mcpServers config block"
+}

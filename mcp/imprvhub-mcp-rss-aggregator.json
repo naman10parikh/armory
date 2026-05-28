@@ -1,0 +1,7 @@
+{
+  "name": "imprvhub-mcp-rss-aggregator",
+  "description": "Model Context Protocol Server for aggregating RSS feeds in Claude Desktop.",
+  "source_repo": "imprvhub/mcp-rss-aggregator",
+  "source_url": "https://github.com/imprvhub/mcp-rss-aggregator",
+  "install": "# git clone --depth 1 https://github.com/imprvhub/mcp-rss-aggregator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shanrichard-binance",
+  "description": "Integrates with Binance cryptocurrency exchange API for trading operations, order management, and market data retrieval with comprehensive configuration management and error handling.",
+  "source_repo": "shanrichard/binance-mcp",
+  "source_url": "https://github.com/shanrichard/binance-mcp",
+  "install": "npx -y binance-mcp"
+}

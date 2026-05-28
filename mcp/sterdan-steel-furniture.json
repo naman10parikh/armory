@@ -1,0 +1,7 @@
+{
+  "name": "sterdan-steel-furniture",
+  "description": "斯特丹STERDAN天猫旗舰店产品咨询MCP Server — 洛阳高端钢制办公家具，1374个SKU，涵盖保密柜、更衣柜、公寓床、货架、快递柜等产品线。 #e-commerce #product-catalog #steel-furniture #china",
+  "source_repo": "",
+  "source_url": "https://sterdan.cn",
+  "install": "# git clone --depth 1 https://sterdan.cn\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paimonchan-paimon-fetch",
+  "description": "Fetches web pages and converts them to clean readable markdown using readability algorithms, with SSRF protection, caching, and rate limiting.",
+  "source_repo": "paimonchan/paimon-mcp-fetch",
+  "source_url": "https://github.com/paimonchan/paimon-mcp-fetch",
+  "install": "# git clone --depth 1 https://github.com/paimonchan/paimon-mcp-fetch\n# See source for mcpServers config block"
+}

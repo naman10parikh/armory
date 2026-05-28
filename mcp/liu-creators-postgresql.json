@@ -1,0 +1,7 @@
+{
+  "name": "liu-creators-postgresql",
+  "description": "Enables natural language interactions with PostgreSQL databases for query execution, schema exploration, and data manipulation without requiring raw SQL knowledge.",
+  "source_repo": "liu-creators/postgresql-mcp",
+  "source_url": "https://github.com/liu-creators/postgresql-mcp",
+  "install": "npx -y postgresql-mcp"
+}

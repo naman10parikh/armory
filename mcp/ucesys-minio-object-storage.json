@@ -1,0 +1,7 @@
+{
+  "name": "ucesys-minio-object-storage",
+  "description": "Enables direct access to MinIO object storage for listing buckets, browsing objects, retrieving content, and uploading files with automatic bucket creation when needed.",
+  "source_repo": "ucesys/minio-python-mcp",
+  "source_url": "https://github.com/ucesys/minio-python-mcp",
+  "install": "npx -y minio-python-mcp"
+}

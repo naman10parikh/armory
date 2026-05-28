@@ -1,0 +1,7 @@
+{
+  "name": "ag-ui-chatbot-mcp-server",
+  "description": "Enables dynamic UI template generation through natural language using Model Context Protocol, supporting multiple AI model providers like Bedrock, OpenAI, and Google.",
+  "source_repo": "pratikjadhav2726/AG-UI-chatbot",
+  "source_url": "https://github.com/pratikjadhav2726/AG-UI-chatbot",
+  "install": "# git clone --depth 1 https://github.com/pratikjadhav2726/AG-UI-chatbot\n# See source for mcpServers config block"
+}

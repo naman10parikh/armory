@@ -1,0 +1,7 @@
+{
+  "name": "telemetryflow",
+  "description": "Provides observability and telemetry data access through session management and conversation handling, integrating with storage backends like PostgreSQL, ClickHouse, and Redis for development operations and debugging workflows.",
+  "source_repo": "telemetryflow/telemetryflow-python-mcp",
+  "source_url": "https://github.com/telemetryflow/telemetryflow-python-mcp",
+  "install": "npx -y telemetryflow-python-mcp"
+}

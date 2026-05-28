@@ -1,0 +1,7 @@
+{
+  "name": "prismicio-mcp-server",
+  "description": "Deprecated MCP server for Prismic; users are advised to use the new Prismic CLI-based approach or Prismic's server-side MCP server instead.",
+  "source_repo": "prismicio/prismic-mcp-server",
+  "source_url": "https://github.com/prismicio/prismic-mcp-server",
+  "install": "npx -y prismic-mcp-server"
+}

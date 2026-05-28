@@ -1,0 +1,7 @@
+{
+  "name": "fernikolic-clawdentials",
+  "description": "Trust layer for AI agent commerce — escrow-protected payments, verifiable reputation scores, and Nostr identity (NIP-05) for agents. Supports USDC, USDT, and BTC (Cashu).",
+  "source_repo": "fernikolic/clawdentials",
+  "source_url": "https://github.com/fernikolic/clawdentials",
+  "install": "# git clone --depth 1 https://github.com/fernikolic/clawdentials\n# See source for mcpServers config block"
+}

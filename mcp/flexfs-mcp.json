@@ -1,0 +1,7 @@
+{
+  "name": "flexfs-mcp",
+  "description": "Provides secure file system, web fetching, and Google Cloud Storage access for AI IDEs.",
+  "source_repo": "Linn-Latt/flexfs-mcp",
+  "source_url": "https://github.com/Linn-Latt/flexfs-mcp",
+  "install": "npx -y flexfs-mcp"
+}

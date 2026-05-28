@@ -1,0 +1,7 @@
+{
+  "name": "brooksian-ssb",
+  "description": "Integrates with SQL Stream Builder and Cloudera Data Platform to enable real-time stream processing management, SQL query execution, job lifecycle control, table and connector management, and comprehensive monitoring for streaming data pipelines.",
+  "source_repo": "brooksian/ssb-mcp-server",
+  "source_url": "https://github.com/brooksian/ssb-mcp-server",
+  "install": "npx -y ssb-mcp-server"
+}

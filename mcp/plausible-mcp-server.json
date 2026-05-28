@@ -1,0 +1,7 @@
+{
+  "name": "plausible-mcp-server",
+  "description": "Plausible Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "AVIMBU/plausible-mcp-server",
+  "source_url": "https://mcp.so/server/plausible-mcp-server/AVIMBU",
+  "install": "npx -y plausible-mcp-server"
+}

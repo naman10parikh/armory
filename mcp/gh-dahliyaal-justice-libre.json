@@ -1,0 +1,7 @@
+{
+  "name": "gh-dahliyaal-justice-libre",
+  "description": "Provides access to open legal data and justice-related information through a hosted MCP endpoint.",
+  "source_repo": "dahliyaal/justicelibre",
+  "source_url": "https://github.com/dahliyaal/justicelibre",
+  "install": "# git clone --depth 1 https://github.com/dahliyaal/justicelibre\n# See source for mcpServers config block"
+}

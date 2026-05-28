@@ -1,0 +1,7 @@
+{
+  "name": "cranot-agentskb",
+  "description": "Expert-level knowledge base with researched answers from official sources",
+  "source_repo": "cranot/agentskb-mcp",
+  "source_url": "https://github.com/cranot/agentskb-mcp",
+  "install": "npx -y agentskb-mcp"
+}

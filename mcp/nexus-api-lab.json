@@ -1,0 +1,7 @@
+{
+  "name": "nexus-api-lab",
+  "description": "Japanese LLM security — prompt injection detection and PII masking for Japanese text.",
+  "source_repo": "nexus-api-lab/nexus-mcp",
+  "source_url": "https://github.com/nexus-api-lab/nexus-mcp",
+  "install": "npx -y nexus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jacquesbh-memex",
+  "description": "Manages a local knowledge base of technical guides and AI contexts using vector embeddings for semantic search, enabling storage, retrieval, and querying of markdown-based documentation and prompts through a structured file system.",
+  "source_repo": "jacquesbh/memex-mcp",
+  "source_url": "https://github.com/jacquesbh/memex-mcp",
+  "install": "npx -y memex-mcp"
+}

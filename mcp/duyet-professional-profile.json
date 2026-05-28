@@ -1,0 +1,7 @@
+{
+  "name": "duyet-professional-profile",
+  "description": "Provides access to Duyet's professional information including CV, GitHub activity, and blog posts, with contact capabilities for collaboration and consulting inquiries.",
+  "source_repo": "duyet/duyet-mcp-server",
+  "source_url": "https://github.com/duyet/duyet-mcp-server",
+  "install": "npx -y duyet-mcp-server"
+}

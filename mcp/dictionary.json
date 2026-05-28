@@ -1,0 +1,7 @@
+{
+  "name": "dictionary",
+  "description": "Retrieves word definitions, phonetics, synonyms, and examples from the Free Dictionary API.",
+  "source_repo": "pipeworx-io/mcp-dictionary",
+  "source_url": "https://github.com/pipeworx-io/mcp-dictionary",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-dictionary\n# See source for mcpServers config block"
+}

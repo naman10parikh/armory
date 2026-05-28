@@ -1,0 +1,7 @@
+{
+  "name": "grafana",
+  "description": "Integrates with Grafana to enable searching dashboards, fetching datasource information, querying Prometheus metrics, and managing incidents through both stdio and SSE transport modes.",
+  "source_repo": "grafana/mcp-grafana",
+  "source_url": "https://github.com/grafana/mcp-grafana",
+  "install": "# git clone --depth 1 https://github.com/grafana/mcp-grafana\n# See source for mcpServers config block"
+}

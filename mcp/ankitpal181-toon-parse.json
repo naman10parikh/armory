@@ -1,0 +1,7 @@
+{
+  "name": "ankitpal181-toon-parse",
+  "description": "Reduces LLM context by removing code comments and converting data formats to compact TOON notation.",
+  "source_repo": "ankitpal181/toon-parse-mcp",
+  "source_url": "https://github.com/ankitpal181/toon-parse-mcp",
+  "install": "npx -y toon-parse-mcp"
+}

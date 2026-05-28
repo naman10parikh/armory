@@ -1,0 +1,7 @@
+{
+  "name": "ra1nyxin-allcanuse",
+  "description": "Control local machines on Windows and Linux with 90+ tools for file operations, process management, network diagnostics, and desktop observation.",
+  "source_repo": "ra1nyxin/allcanuse-mcp",
+  "source_url": "https://github.com/ra1nyxin/allcanuse-mcp",
+  "install": "npx -y allcanuse-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jackchuka-slack-cli",
+  "description": "CLI tool and server for full CRUD operations on Slack channels, messages, users, files, and reactions with JSON-first output optimized for LLM agents.",
+  "source_repo": "jackchuka/slackcli",
+  "source_url": "https://github.com/jackchuka/slackcli",
+  "install": "# git clone --depth 1 https://github.com/jackchuka/slackcli\n# See source for mcpServers config block"
+}

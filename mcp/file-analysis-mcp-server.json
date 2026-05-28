@@ -1,0 +1,7 @@
+{
+  "name": "file-analysis-mcp-server",
+  "description": "File Analysis Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "huangyz0918/file-analysis-mcp-server",
+  "source_url": "https://mcp.so/server/file-analysis-mcp-server/huangyz0918",
+  "install": "npx -y file-analysis-mcp-server"
+}

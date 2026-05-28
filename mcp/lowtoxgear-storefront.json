@@ -1,0 +1,7 @@
+{
+  "name": "lowtoxgear-storefront",
+  "description": "Read-only catalogue MCP for Lowtoxgear, an Australian low-tox lifestyle brand with certified activewear and supplements.",
+  "source_repo": "lowtoxgear/lowtoxgear-mcp",
+  "source_url": "https://github.com/lowtoxgear/lowtoxgear-mcp/tree/HEAD/lowtoxgear-storefront",
+  "install": "npx -y lowtoxgear-mcp"
+}

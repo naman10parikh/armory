@@ -1,0 +1,7 @@
+{
+  "name": "alexandreroman-location",
+  "description": "Integrates with geolocation APIs to provide location-based functionality, enabling personalized recommendations and localized content delivery based on user IP addresses.",
+  "source_repo": "alexandreroman/mcp-location",
+  "source_url": "https://github.com/alexandreroman/mcp-location",
+  "install": "# git clone --depth 1 https://github.com/alexandreroman/mcp-location\n# See source for mcpServers config block"
+}

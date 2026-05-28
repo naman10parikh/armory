@@ -1,0 +1,7 @@
+{
+  "name": "skynet-mcp",
+  "description": "Skynet Mcp MCP server listed on mcp.so.",
+  "source_repo": "ivo-toby/skynet-mcp",
+  "source_url": "https://mcp.so/server/skynet-mcp/ivo-toby",
+  "install": "npx -y skynet-mcp"
+}

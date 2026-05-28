@@ -1,0 +1,7 @@
+{
+  "name": "enkhbold470-bci",
+  "description": "Enables AI systems to receive and process neural signals from multiple EEG devices through real-time signal processing, providing brain activity data for more intuitive human-AI interactions.",
+  "source_repo": "enkhbold470/bci-mcp",
+  "source_url": "https://github.com/enkhbold470/bci-mcp",
+  "install": "npx -y bci-mcp"
+}

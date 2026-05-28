@@ -1,0 +1,7 @@
+{
+  "name": "opjhabuilds-designpin",
+  "description": "MCP server for pushing HTML prototypes to DesignPin for team review and reading back reviewer feedback.",
+  "source_repo": "opjhabuilds/designpin-mcp-server",
+  "source_url": "https://github.com/opjhabuilds/designpin-mcp-server",
+  "install": "npx -y designpin-mcp-server"
+}

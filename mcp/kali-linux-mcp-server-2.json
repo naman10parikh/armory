@@ -1,0 +1,7 @@
+{
+  "name": "kali-linux-mcp-server-2",
+  "description": "Provides Claude Desktop with access to Kali Linux penetration testing tools via a privileged Docker container, enabling network scanning (nmap), web vulnerability scanning (nikto), and custom command execution.",
+  "source_repo": "marklechner/kali-mcp-server",
+  "source_url": "https://github.com/marklechner/kali-mcp-server",
+  "install": "npx -y kali-mcp-server"
+}

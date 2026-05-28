@@ -1,0 +1,7 @@
+{
+  "name": "fstubner-npm-run",
+  "description": "Exposes package.json scripts as callable tools for AI agents.",
+  "source_repo": "fstubner/npm-run-mcp-server",
+  "source_url": "https://github.com/fstubner/npm-run-mcp-server",
+  "install": "npx -y npm-run-mcp-server"
+}

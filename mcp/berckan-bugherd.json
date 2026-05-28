@@ -1,0 +1,7 @@
+{
+  "name": "berckan-bugherd",
+  "description": "Integrates with BugHerd bug tracking to list projects, tasks, and comments with filtering.",
+  "source_repo": "berckan/bugherd-mcp",
+  "source_url": "https://github.com/berckan/bugherd-mcp",
+  "install": "npx -y bugherd-mcp"
+}

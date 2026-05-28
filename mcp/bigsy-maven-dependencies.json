@@ -1,0 +1,7 @@
+{
+  "name": "bigsy-maven-dependencies",
+  "description": "Integrates with Maven Central Repository to verify and retrieve dependency versions for automated project management and updates.",
+  "source_repo": "bigsy/maven-mcp-server",
+  "source_url": "https://github.com/bigsy/maven-mcp-server",
+  "install": "npx -y maven-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ink",
+  "description": "Deploy and manage applications, databases, domains, and git repos",
+  "source_repo": "mldotink/mcp",
+  "source_url": "https://github.com/mldotink/mcp",
+  "install": "# git clone --depth 1 https://github.com/mldotink/mcp\n# See source for mcpServers config block"
+}

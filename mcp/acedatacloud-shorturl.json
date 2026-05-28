@@ -1,0 +1,7 @@
+{
+  "name": "acedatacloud-shorturl",
+  "description": "URL shortening and management through the AceDataCloud API platform.",
+  "source_repo": "acedatacloud/shorturlmcp",
+  "source_url": "https://github.com/acedatacloud/shorturlmcp",
+  "install": "# git clone --depth 1 https://github.com/acedatacloud/shorturlmcp\n# See source for mcpServers config block"
+}

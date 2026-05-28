@@ -1,0 +1,7 @@
+{
+  "name": "zpl-engine",
+  "description": "Zero Point Logic Engine MCP server with 67 tools for bias detection, stability scoring, and neutrality analysis across finance, gaming, AI/ML, security, and crypto domains.",
+  "source_repo": "cicicalex/zpl-engine-mcp",
+  "source_url": "https://github.com/cicicalex/zpl-engine-mcp",
+  "install": "npx -y zpl-engine-mcp"
+}

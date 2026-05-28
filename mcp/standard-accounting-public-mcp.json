@@ -1,0 +1,7 @@
+{
+  "name": "standard-accounting-public-mcp",
+  "description": "Public MCP server for UK company filing guidance, products, deadlines, and knowledge-centre content",
+  "source_repo": "",
+  "source_url": "https://www.standardaccounting.co.uk",
+  "install": "# git clone --depth 1 https://www.standardaccounting.co.uk\n# See source for mcpServers config block"
+}

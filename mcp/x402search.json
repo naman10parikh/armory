@@ -1,0 +1,7 @@
+{
+  "name": "x402search",
+  "description": "Search and discover x402-enabled HTTP APIs by capability, network, and price with USDC micropayments on Base.",
+  "source_repo": "x402-index/x402search-mcp",
+  "source_url": "https://github.com/x402-index/x402search-mcp",
+  "install": "npx -y x402search-mcp"
+}

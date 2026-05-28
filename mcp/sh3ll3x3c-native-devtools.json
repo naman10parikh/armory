@@ -1,0 +1,7 @@
+{
+  "name": "sh3ll3x3c-native-devtools",
+  "description": "Native app testing with screenshot, OCR, and interaction tools.",
+  "source_repo": "sh3ll3x3c/native-devtools-mcp",
+  "source_url": "https://github.com/sh3ll3x3c/native-devtools-mcp",
+  "install": "npx -y native-devtools-mcp"
+}

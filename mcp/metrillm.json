@@ -1,0 +1,7 @@
+{
+  "name": "metrillm",
+  "description": "Benchmark local LLM models for speed, quality, and hardware fitness with a shareable score and public leaderboard.",
+  "source_repo": "metrillm/metrillm",
+  "source_url": "https://github.com/metrillm/metrillm/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/metrillm/metrillm/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

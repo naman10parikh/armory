@@ -1,0 +1,7 @@
+{
+  "name": "fengin-search-engines-proxy",
+  "description": "Provides a unified API for accessing multiple search engines including Brave Search, Metaso, and Bocha, handling authentication, rate limiting, and response formatting for each provider.",
+  "source_repo": "fengin/search-server",
+  "source_url": "https://github.com/fengin/search-server",
+  "install": "# git clone --depth 1 https://github.com/fengin/search-server\n# See source for mcpServers config block"
+}

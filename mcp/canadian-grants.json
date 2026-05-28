@@ -1,0 +1,7 @@
+{
+  "name": "canadian-grants",
+  "description": "Searches 1,600+ Canadian grants, accelerators, and pitch competitions for AI agents.",
+  "source_repo": "",
+  "source_url": "https://mcp.netgrant.ca/mcp",
+  "install": "# git clone --depth 1 https://mcp.netgrant.ca/mcp\n# See source for mcpServers config block"
+}

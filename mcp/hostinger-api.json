@@ -1,0 +1,7 @@
+{
+  "name": "hostinger-api",
+  "description": "Integrates with Hostinger's hosting platform to enable domain registration and DNS management, VPS creation and configuration, firewall setup, backup operations, and billing subscription handling through over 100 specialized tools organized by service category.",
+  "source_repo": "hostinger/api-mcp-server",
+  "source_url": "https://github.com/hostinger/api-mcp-server",
+  "install": "npx -y api-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "owayo-source-relation",
+  "description": "Integrates source relation functionality to simplify connecting and organizing diverse data inputs, enabling efficient retrieval and processing.",
+  "source_repo": "owayo/mcp-source-relation",
+  "source_url": "https://github.com/owayo/mcp-source-relation",
+  "install": "# git clone --depth 1 https://github.com/owayo/mcp-source-relation\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dodopayments-contextmcp",
+  "description": "Self-hosted MCP server that indexes documentation from various sources and serves it to AI Agents with semantic search.",
+  "source_repo": "dodopayments/context-mcp",
+  "source_url": "https://github.com/dodopayments/context-mcp",
+  "install": "npx -y context-mcp"
+}

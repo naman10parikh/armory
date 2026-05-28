@@ -1,0 +1,7 @@
+{
+  "name": "mirno-ehf-ue5-blueprint",
+  "description": "Enables AI-assisted Unreal Engine 5 Blueprint development through tools for node management, connection handling, variable operations, and flow control within Blueprint visual scripting graphs.",
+  "source_repo": "mirno-ehf/ue5-mcp",
+  "source_url": "https://github.com/mirno-ehf/ue5-mcp",
+  "install": "npx -y ue5-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-jflamb-fdic-bankfind",
+  "description": "Queries the FDIC BankFind Suite API for banking institution data, failures, and financial analysis.",
+  "source_repo": "jflamb/fdic-mcp-server",
+  "source_url": "https://github.com/jflamb/fdic-mcp-server",
+  "install": "npx -y fdic-mcp-server"
+}

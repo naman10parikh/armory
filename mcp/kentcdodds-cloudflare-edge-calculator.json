@@ -1,0 +1,7 @@
+{
+  "name": "kentcdodds-cloudflare-edge-calculator",
+  "description": "Demonstrates edge deployment of MCP servers using Cloudflare Workers and Durable Objects for global low-latency tool execution with calculator functionality and embeddable React widgets.",
+  "source_repo": "kentcdodds/cloudflare-remix-vite-mcp",
+  "source_url": "https://github.com/kentcdodds/cloudflare-remix-vite-mcp",
+  "install": "npx -y cloudflare-remix-vite-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpware-claude-code-organizer",
+  "description": "Visual dashboard for managing Claude Code memories, skills, MCP servers, and hooks across scope hierarchies with drag-and-drop.",
+  "source_repo": "mcpware/cross-code-organizer",
+  "source_url": "https://github.com/mcpware/cross-code-organizer",
+  "install": "# git clone --depth 1 https://github.com/mcpware/cross-code-organizer\n# See source for mcpServers config block"
+}

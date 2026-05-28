@@ -1,0 +1,7 @@
+{
+  "name": "indie-founder-revenue-mcp",
+  "description": "Aggregates revenue across Lemon Squeezy + Gumroad + Polar + Stripe into a single Claude-queryable view. Six tools: summary_mrr, top_customers, refund_signal, recent_orders, export_csv_for_tax (Ukrainian FOP format), health. Lemon Squeezy adapter live-validated against production.",
+  "source_repo": "charlie-morrison/indie-founder-mcp",
+  "source_url": "https://github.com/charlie-morrison/indie-founder-mcp",
+  "install": "npx -y indie-founder-mcp"
+}

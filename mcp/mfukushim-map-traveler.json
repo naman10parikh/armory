@@ -1,0 +1,7 @@
+{
+  "name": "mfukushim-map-traveler",
+  "description": "Integrates with Google Maps to create virtual travel experiences where users can navigate real-world routes with customizable avatars, discover nearby facilities, and share journeys on Bluesky.",
+  "source_repo": "mfukushim/map-traveler-mcp",
+  "source_url": "https://github.com/mfukushim/map-traveler-mcp",
+  "install": "npx -y map-traveler-mcp"
+}

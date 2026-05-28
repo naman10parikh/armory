@@ -1,0 +1,7 @@
+{
+  "name": "huoshuiai42-pdf-converter",
+  "description": "Bidirectional PDF and Markdown converter with full Unicode support",
+  "source_repo": "huoshuiai42/huoshui-pdf-converter",
+  "source_url": "https://github.com/huoshuiai42/huoshui-pdf-converter",
+  "install": "# git clone --depth 1 https://github.com/huoshuiai42/huoshui-pdf-converter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cuongdev-codepipeline",
+  "description": "Enables AI assistants to manage and monitor AWS CodePipeline services through natural language commands, providing tools for pipeline execution, action approval, and metrics retrieval.",
+  "source_repo": "cuongdev/mcp-codepipeline-server",
+  "source_url": "https://github.com/cuongdev/mcp-codepipeline-server",
+  "install": "# git clone --depth 1 https://github.com/cuongdev/mcp-codepipeline-server\n# See source for mcpServers config block"
+}

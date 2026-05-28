@@ -1,0 +1,7 @@
+{
+  "name": "ortto",
+  "description": "Connect to Ortto marketing automation platform for campaigns, contacts, audiences, and analytics",
+  "source_repo": "",
+  "source_url": "https://help.ortto.com/a-910-ortto-mcp",
+  "install": "# git clone --depth 1 https://help.ortto.com/a-910-ortto-mcp\n# See source for mcpServers config block"
+}

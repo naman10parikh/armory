@@ -1,0 +1,7 @@
+{
+  "name": "mjyoo2-hwp-korean-word-processor",
+  "description": "Integrates with HWP Korean word processing documents through PowerShell COM API bridge, enabling automated document lifecycle management, text manipulation, table operations, formatting, field management, cursor control, and export capabilities for Korean document workflows and template processing.",
+  "source_repo": "mjyoo2/hwp-mcp",
+  "source_url": "https://github.com/mjyoo2/hwp-mcp",
+  "install": "npx -y hwp-mcp"
+}

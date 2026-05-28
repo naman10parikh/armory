@@ -1,0 +1,7 @@
+{
+  "name": "parnexcodes-synthetic-web-search",
+  "description": "Integrates with the Synthetic API to perform real-time web searches and retrieve structured results containing URLs, titles, text snippets, and publication dates.",
+  "source_repo": "parnexcodes/synthetic-web-search-mcp",
+  "source_url": "https://github.com/parnexcodes/synthetic-web-search-mcp",
+  "install": "npx -y synthetic-web-search-mcp"
+}

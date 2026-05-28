@@ -1,0 +1,7 @@
+{
+  "name": "heurist-mesh-mcp-server",
+  "description": "Heurist Mesh Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "heurist-network/heurist-mesh-mcp-server",
+  "source_url": "https://mcp.so/server/heurist-mesh-mcp-server/heurist-network",
+  "install": "npx -y heurist-mesh-mcp-server"
+}

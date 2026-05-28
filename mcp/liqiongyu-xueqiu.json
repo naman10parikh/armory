@@ -1,0 +1,7 @@
+{
+  "name": "liqiongyu-xueqiu",
+  "description": "Integrates with Xueqiu (雪球) financial platform to provide real-time Chinese stock market data, company financials, and investor sentiment analysis for comprehensive equity research and market trend tracking.",
+  "source_repo": "liqiongyu/xueqiu_mcp",
+  "source_url": "https://github.com/liqiongyu/xueqiu_mcp",
+  "install": "npx -y xueqiu_mcp"
+}

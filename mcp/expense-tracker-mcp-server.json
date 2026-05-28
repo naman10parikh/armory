@@ -1,0 +1,7 @@
+{
+  "name": "expense-tracker-mcp-server",
+  "description": "Tracks expenses and income with budgeting rules and financial summaries via SQLite persistence.",
+  "source_repo": "shantanu-lrnr/expense-tracker-mcp-server",
+  "source_url": "https://github.com/shantanu-lrnr/expense-tracker-mcp-server",
+  "install": "npx -y expense-tracker-mcp-server"
+}

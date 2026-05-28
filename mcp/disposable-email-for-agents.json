@@ -1,0 +1,7 @@
+{
+  "name": "disposable-email-for-agents",
+  "description": "Create and manage temporary email addresses that expire automatically after 24 hours. Protect your primary inbox from spam by using disposable addresses for sign-ups and testing. Access incoming messages, read contents, and download attachments securely without exposing your real identity.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/myagentinbox/get-disposable-email",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/myagentinbox/get-disposable-email\n# See source for mcpServers config block"
+}

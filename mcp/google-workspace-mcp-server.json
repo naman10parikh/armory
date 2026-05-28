@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-mcp-server",
+  "description": "Enables AI assistants to control Google Workspace services (Slides, Sheets, Drive) through natural language.",
+  "source_repo": "takiguchi-yu/google-workspace-mcp-server",
+  "source_url": "https://github.com/takiguchi-yu/google-workspace-mcp-server",
+  "install": "npx -y google-workspace-mcp-server"
+}

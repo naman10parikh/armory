@@ -1,0 +1,7 @@
+{
+  "name": "blowback",
+  "description": "Blowback MCP server listed on mcp.so.",
+  "source_repo": "ESnark/blowback",
+  "source_url": "https://mcp.so/server/blowback/ESnark",
+  "install": "# git clone --depth 1 https://mcp.so/server/blowback/ESnark\n# See source for mcpServers config block"
+}

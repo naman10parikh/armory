@@ -1,0 +1,7 @@
+{
+  "name": "yourbright-jp-jpyc-manager",
+  "description": "Manages JPYC stablecoin wallets and transfers on Polygon.",
+  "source_repo": "yourbright-jp/jpyc-agent-mcp",
+  "source_url": "https://github.com/yourbright-jp/jpyc-agent-mcp",
+  "install": "npx -y jpyc-agent-mcp"
+}

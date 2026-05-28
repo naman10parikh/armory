@@ -1,0 +1,7 @@
+{
+  "name": "gh-nikitacometa-mnemon",
+  "description": "Persistent layered memory for AI agents with local-first SQLite storage.",
+  "source_repo": "nikitacometa/mnemon-mcp",
+  "source_url": "https://github.com/nikitacometa/mnemon-mcp",
+  "install": "npx -y mnemon-mcp"
+}

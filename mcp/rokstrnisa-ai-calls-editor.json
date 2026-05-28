@@ -1,0 +1,7 @@
+{
+  "name": "rokstrnisa-ai-calls-editor",
+  "description": "VS Code extension that exposes an HTTP server enabling intelligent symbol renaming across multiple files using the editor's built-in LSP-backed rename provider with automatic workspace edit handling and saving.",
+  "source_repo": "rokstrnisa/ai-calls-editor",
+  "source_url": "https://github.com/rokstrnisa/ai-calls-editor",
+  "install": "# git clone --depth 1 https://github.com/rokstrnisa/ai-calls-editor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "enterprise-mcp-server",
+  "description": "Enterprise Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "crewAIInc/enterprise-mcp-server",
+  "source_url": "https://mcp.so/server/enterprise-mcp-server/crewAIInc",
+  "install": "npx -y enterprise-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olyport-water",
+  "description": "Real-time water levels and streamflow rates from USGS stream gauges.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/water/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/water/mcp\n# See source for mcpServers config block"
+}

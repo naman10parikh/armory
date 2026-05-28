@@ -1,0 +1,7 @@
+{
+  "name": "angheljf-nytimes",
+  "description": "Access and analyze recent news articles from the NYT API.",
+  "source_repo": "angheljf/nyt",
+  "source_url": "https://github.com/angheljf/nyt",
+  "install": "# git clone --depth 1 https://github.com/angheljf/nyt\n# See source for mcpServers config block"
+}

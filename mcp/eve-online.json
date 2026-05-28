@@ -1,0 +1,7 @@
+{
+  "name": "eve-online",
+  "description": "Integrates with EVE Online's API to provide real-time market data, item prices, and game information for analyzing market trends and making informed trading decisions.",
+  "source_repo": "kongyo2/eve-online-mcp",
+  "source_url": "https://github.com/kongyo2/eve-online-mcp",
+  "install": "npx -y eve-online-mcp"
+}

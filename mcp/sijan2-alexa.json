@@ -1,0 +1,7 @@
+{
+  "name": "sijan2-alexa",
+  "description": "Integrates with Amazon Alexa smart home devices and Echo functionality through reverse-engineered web APIs, enabling voice announcements, smart light control, volume management, sensor data retrieval, and device discovery.",
+  "source_repo": "sijan2/alexa-mcp-server",
+  "source_url": "https://github.com/sijan2/alexa-mcp-server",
+  "install": "npx -y alexa-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vazylin1124-mongodb",
+  "description": "Provides a bridge to MongoDB databases for executing document queries and establishing database connections with configurable collection targeting and result limits",
+  "source_repo": "vazylin1124/mongo-mcp",
+  "source_url": "https://github.com/vazylin1124/mongo-mcp",
+  "install": "npx -y mongo-mcp"
+}

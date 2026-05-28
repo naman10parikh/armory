@@ -1,0 +1,7 @@
+{
+  "name": "xiawpohr-metamask",
+  "description": "Integrates with MetaMask wallet to enable secure blockchain operations including transaction sending, smart contract deployment and interaction, ENS resolution, and chain switching across Ethereum networks while keeping private keys protected within the user's wallet.",
+  "source_repo": "xiawpohr/metamask-mcp",
+  "source_url": "https://github.com/xiawpohr/metamask-mcp",
+  "install": "npx -y metamask-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "quredec",
+  "description": "Evidence-backed decision briefs with citations, confidence scores, risk analysis, and source attribution.",
+  "source_repo": "advanced-binary-operations/quredec_mcp",
+  "source_url": "https://github.com/advanced-binary-operations/quredec_mcp",
+  "install": "npx -y quredec_mcp"
+}

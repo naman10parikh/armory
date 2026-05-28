@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-meta-ads",
+  "description": "Production-grade Meta Ads Manager integration with 20+ tools for campaign, ad set, audience, and analytics management.",
+  "source_repo": "josephtandle/meta-ads-complete",
+  "source_url": "https://github.com/josephtandle/meta-ads-complete",
+  "install": "# git clone --depth 1 https://github.com/josephtandle/meta-ads-complete\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "puppeteer-real-browser-mcp-server",
+  "description": "Provides AI assistants with powerful, detection-resistant browser automation capabilities, allowing them to control a real web browser to navigate, extract content, and perform tasks while avoiding bot detection.",
+  "source_repo": "eikaramba/puppeteer-real-browser-mcp-server",
+  "source_url": "https://github.com/eikaramba/puppeteer-real-browser-mcp-server",
+  "install": "npx -y puppeteer-real-browser-mcp-server"
+}

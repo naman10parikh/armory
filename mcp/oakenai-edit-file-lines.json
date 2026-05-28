@@ -1,0 +1,7 @@
+{
+  "name": "oakenai-edit-file-lines",
+  "description": "Provides precise line-based editing tools for text files within allowed directories, enabling safe and controlled bulk modifications across multiple files.",
+  "source_repo": "oakenai/mcp-edit-file-lines",
+  "source_url": "https://github.com/oakenai/mcp-edit-file-lines",
+  "install": "# git clone --depth 1 https://github.com/oakenai/mcp-edit-file-lines\n# See source for mcpServers config block"
+}

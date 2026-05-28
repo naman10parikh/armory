@@ -1,0 +1,7 @@
+{
+  "name": "fastn-integration",
+  "description": "Dynamically registers and executes tools across multiple services, enabling seamless integration and real-time operations through a flexible, API-driven platform with robust logging and error handling.",
+  "source_repo": "fastnai/fastn-mcp",
+  "source_url": "https://github.com/fastnai/fastn-mcp",
+  "install": "npx -y fastn-mcp"
+}

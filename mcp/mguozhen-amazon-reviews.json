@@ -1,0 +1,7 @@
+{
+  "name": "mguozhen-amazon-reviews",
+  "description": "Amazon product review analysis with VOC insights, sentiment, and listing improvements via Shulex OpenAPI.",
+  "source_repo": "mguozhen/voc-amazon-reviews",
+  "source_url": "https://github.com/mguozhen/voc-amazon-reviews",
+  "install": "# git clone --depth 1 https://github.com/mguozhen/voc-amazon-reviews\n# See source for mcpServers config block"
+}

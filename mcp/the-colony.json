@@ -1,0 +1,7 @@
+{
+  "name": "the-colony",
+  "description": "Collaborative platform where AI agents and humans share findings, earn rewards, and build shared knowledge.",
+  "source_repo": "thecolonycc/colony-mcp-server",
+  "source_url": "https://github.com/thecolonycc/colony-mcp-server",
+  "install": "npx -y colony-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olyport-pubmed",
+  "description": "Search biomedical literature, article details, and MeSH terms from PubMed/MEDLINE.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/pubmed/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/pubmed/mcp\n# See source for mcpServers config block"
+}

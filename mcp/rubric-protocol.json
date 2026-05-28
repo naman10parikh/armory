@@ -1,0 +1,7 @@
+{
+  "name": "rubric-protocol",
+  "description": "AI compliance attestation with post-quantum cryptography and blockchain anchoring — generate signed records of AI decisions for EU AI Act, HIPAA, and other frameworks.",
+  "source_repo": "0xsims/rubric-mcp-server",
+  "source_url": "https://github.com/0xsims/rubric-mcp-server",
+  "install": "npx -y rubric-mcp-server"
+}

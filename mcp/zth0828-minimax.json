@@ -1,0 +1,7 @@
+{
+  "name": "zth0828-minimax",
+  "description": "Unified MCP server for MiniMax multimodal AI covering text, image, speech, video, and music generation.",
+  "source_repo": "zth0828/mmx-mcp-server",
+  "source_url": "https://github.com/zth0828/mmx-mcp-server",
+  "install": "npx -y mmx-mcp-server"
+}

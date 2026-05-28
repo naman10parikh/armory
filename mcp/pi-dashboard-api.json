@@ -1,0 +1,7 @@
+{
+  "name": "pi-dashboard-api",
+  "description": "Integrates with PI Dashboard API to enable interaction with categories, charts, and dashboard elements for data analysis, comparison, and optimization workflows.",
+  "source_repo": "mingzilla/pi-api-mcp-server",
+  "source_url": "https://github.com/mingzilla/pi-api-mcp-server",
+  "install": "npx -y pi-api-mcp-server"
+}

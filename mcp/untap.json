@@ -1,0 +1,7 @@
+{
+  "name": "untap",
+  "description": "Claim UK refunds for train delays, flight compensation, TfL overcharges, and parking appeals.",
+  "source_repo": "aneduaim/untap-mcp",
+  "source_url": "https://github.com/aneduaim/untap-mcp",
+  "install": "npx -y untap-mcp"
+}

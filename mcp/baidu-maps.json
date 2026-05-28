@@ -1,0 +1,7 @@
+{
+  "name": "baidu-maps",
+  "description": "Integrates with Baidu Maps API for location-based operations including geocoding, route planning, and location search within the Baidu Maps ecosystem.",
+  "source_repo": "baidu-maps/mcp",
+  "source_url": "https://github.com/baidu-maps/mcp",
+  "install": "# git clone --depth 1 https://github.com/baidu-maps/mcp\n# See source for mcpServers config block"
+}

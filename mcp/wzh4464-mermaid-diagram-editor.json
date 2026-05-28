@@ -1,0 +1,7 @@
+{
+  "name": "wzh4464-mermaid-diagram-editor",
+  "description": "Interactive visual Mermaid diagram editing with browser-based drag-and-drop canvas, live preview, and multi-round iteration.",
+  "source_repo": "wzh4464/software-design-mermaid-mcp",
+  "source_url": "https://github.com/wzh4464/software-design-mermaid-mcp",
+  "install": "npx -y software-design-mermaid-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "negai-ai-agentclaw",
+  "description": "Declarative agent workflow framework that publishes workflows as MCP servers and connects to MCP servers as tools.",
+  "source_repo": "negai-ai/agentclaw",
+  "source_url": "https://github.com/negai-ai/agentclaw",
+  "install": "# git clone --depth 1 https://github.com/negai-ai/agentclaw\n# See source for mcpServers config block"
+}

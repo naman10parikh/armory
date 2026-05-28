@@ -1,0 +1,7 @@
+{
+  "name": "resume-forge-mcp",
+  "description": "An MCP server for intelligent LaTeX resume generation with multiple templates, quality scoring, and job description tailoring.",
+  "source_repo": "jitendrasinghsankhwar/resume-forge-mcp",
+  "source_url": "https://github.com/jitendrasinghsankhwar/resume-forge-mcp",
+  "install": "npx -y resume-forge-mcp"
+}

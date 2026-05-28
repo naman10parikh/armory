@@ -1,0 +1,7 @@
+{
+  "name": "argocd-mcp",
+  "description": "Argocd Mcp MCP server listed on mcp.so.",
+  "source_repo": "severity1/argocd-mcp",
+  "source_url": "https://mcp.so/server/argocd-mcp/severity1",
+  "install": "npx -y argocd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thejusdutt-deep-search",
+  "description": "Performs web searches by combining Google search results with full page content extraction using Mozilla's Readability algorithm, supporting web, news, and image search types with domain filtering capabilities.",
+  "source_repo": "thejusdutt/deep-search-mcp",
+  "source_url": "https://github.com/thejusdutt/deep-search-mcp",
+  "install": "npx -y deep-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "plainly-videos",
+  "description": "Integrates with Plainly Videos API to browse video templates, customize parameters with type validation, and render videos using After Effects templates for automated video generation workflows.",
+  "source_repo": "plainly-videos/mcp-server",
+  "source_url": "https://github.com/plainly-videos/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/plainly-videos/mcp-server\n# See source for mcpServers config block"
+}

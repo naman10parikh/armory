@@ -1,0 +1,7 @@
+{
+  "name": "aderix-vantagate",
+  "description": "Human-in-the-loop approval system for AI agents with OpenAPI integration.",
+  "source_repo": "aderix/vantagate-mcp-server",
+  "source_url": "https://github.com/aderix/vantagate-mcp-server",
+  "install": "npx -y vantagate-mcp-server"
+}

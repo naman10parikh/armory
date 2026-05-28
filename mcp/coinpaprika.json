@@ -1,0 +1,7 @@
+{
+  "name": "coinpaprika",
+  "description": "Provides real-time cryptocurrency market data, tickers, exchange information, OHLCV candles, and price conversions for 8,000+ coins.",
+  "source_repo": "coinpaprika/coinpaprika-mcp",
+  "source_url": "https://github.com/coinpaprika/coinpaprika-mcp",
+  "install": "npx -y coinpaprika-mcp"
+}

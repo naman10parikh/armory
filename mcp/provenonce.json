@@ -1,0 +1,7 @@
+{
+  "name": "provenonce",
+  "description": "Cryptographic identity, naming, and heartbeat monitoring for AI agents.",
+  "source_repo": "provenonceai/provenonce-mcp",
+  "source_url": "https://github.com/provenonceai/provenonce-mcp",
+  "install": "npx -y provenonce-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "juzisuan965-apifox",
+  "description": "Integrates with Apifox platform to provide HTTP request testing and API endpoint validation with configurable methods, headers, and request bodies for comprehensive API testing workflows.",
+  "source_repo": "juzisuan965/apifox-mcp",
+  "source_url": "https://github.com/juzisuan965/apifox-mcp",
+  "install": "npx -y apifox-mcp"
+}

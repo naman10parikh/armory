@@ -1,0 +1,7 @@
+{
+  "name": "kunihiros-kv-extractor",
+  "description": "Extracts structured key-value pairs from unstructured text using a multi-step pipeline that performs language detection, entity recognition, and type validation for applications requiring information extraction from messy sources like emails or receipts.",
+  "source_repo": "kunihiros/kv-extractor-mcp-server",
+  "source_url": "https://github.com/kunihiros/kv-extractor-mcp-server",
+  "install": "npx -y kv-extractor-mcp-server"
+}

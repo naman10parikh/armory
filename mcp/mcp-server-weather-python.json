@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-weather-python",
+  "description": "Mcp Server Weather Python MCP server listed on mcp.so.",
+  "source_repo": "yestarz/mcp-server-weather-python",
+  "source_url": "https://mcp.so/server/mcp-server-weather-python/yestarz",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-weather-python/yestarz\n# See source for mcpServers config block"
+}

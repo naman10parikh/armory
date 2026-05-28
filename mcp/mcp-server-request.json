@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-request",
+  "description": "Mcp Server Request MCP server listed on mcp.so.",
+  "source_repo": "yaxingson/mcp-server-request",
+  "source_url": "https://mcp.so/server/mcp-server-request/yaxingson",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-request/yaxingson\n# See source for mcpServers config block"
+}

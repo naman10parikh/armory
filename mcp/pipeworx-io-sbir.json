@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-sbir",
+  "description": "Small Business Innovation Research (SBIR) program data via the SBIR.gov public API, free with no authentication.",
+  "source_repo": "pipeworx-io/mcp-sbir",
+  "source_url": "https://github.com/pipeworx-io/mcp-sbir",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-sbir\n# See source for mcpServers config block"
+}

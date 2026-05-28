@@ -1,0 +1,7 @@
+{
+  "name": "coah80-youtube-video-analyzer",
+  "description": "Analyzes YouTube videos by combining visual frame extraction with transcripts, offering six tools for scene overviews, frame retrieval, and token-efficient video descriptions.",
+  "source_repo": "coah80/youtube-mcp",
+  "source_url": "https://github.com/coah80/youtube-mcp",
+  "install": "npx -y youtube-mcp"
+}

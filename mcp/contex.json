@@ -1,0 +1,7 @@
+{
+  "name": "contex",
+  "description": "Converts any OpenAPI 3.x specification into a fully functional MCP server with OAuth 2.1 support and a purely functional architecture.",
+  "source_repo": "alfonsogober/contex",
+  "source_url": "https://github.com/alfonsogober/contex",
+  "install": "# git clone --depth 1 https://github.com/alfonsogober/contex\n# See source for mcpServers config block"
+}

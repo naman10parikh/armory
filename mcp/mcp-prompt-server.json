@@ -1,0 +1,7 @@
+{
+  "name": "mcp-prompt-server",
+  "description": "Mcp Prompt Server MCP server listed on mcp.so.",
+  "source_repo": "gdli6177/mcp-prompt-server",
+  "source_url": "https://mcp.so/server/mcp-prompt-server/gdli6177",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-prompt-server/gdli6177\n# See source for mcpServers config block"
+}

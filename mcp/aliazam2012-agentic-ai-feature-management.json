@@ -1,0 +1,7 @@
+{
+  "name": "aliazam2012-agentic-ai-feature-management",
+  "description": "Automates feature management by processing Jira webhook tickets to extract structured requests from natural language descriptions and execute feature toggles across customer accounts.",
+  "source_repo": "aliazam2012/agentic-ai-mcp-feature-management",
+  "source_url": "https://github.com/aliazam2012/agentic-ai-mcp-feature-management",
+  "install": "# git clone --depth 1 https://github.com/aliazam2012/agentic-ai-mcp-feature-management\n# See source for mcpServers config block"
+}

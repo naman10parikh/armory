@@ -1,0 +1,7 @@
+{
+  "name": "brevdev-brev",
+  "description": "Bridges Nvidia Brev, enabling natural language control of workspaces, deployments, and cloud resources.",
+  "source_repo": "brevdev/brev-mcp",
+  "source_url": "https://github.com/brevdev/brev-mcp",
+  "install": "npx -y brev-mcp"
+}

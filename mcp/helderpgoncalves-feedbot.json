@@ -1,0 +1,7 @@
+{
+  "name": "helderpgoncalves-feedbot",
+  "description": "MCP server for Feedbot, a Telegram-based community feedback tool that organizes bug reports and feature requests into a product backlog.",
+  "source_repo": "helderpgoncalves/feedbot",
+  "source_url": "https://github.com/helderpgoncalves/feedbot",
+  "install": "# git clone --depth 1 https://github.com/helderpgoncalves/feedbot\n# See source for mcpServers config block"
+}

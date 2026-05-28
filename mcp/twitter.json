@@ -1,0 +1,7 @@
+{
+  "name": "twitter",
+  "description": "Integrates with Twitter/X to enable direct actions like posting, replying, following users, and retrieving profile data through a Node.js server with dual authentication options.",
+  "source_repo": "0xhijo/mcp_twitter",
+  "source_url": "https://github.com/0xhijo/mcp_twitter",
+  "install": "# git clone --depth 1 https://github.com/0xhijo/mcp_twitter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openstaad",
+  "description": "MCP server for Bentley STAAD.Pro structural analysis software via the OpenSTAAD API.",
+  "source_repo": "bentleysystems/openstaad-mcp",
+  "source_url": "https://github.com/bentleysystems/openstaad-mcp",
+  "install": "npx -y openstaad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "morinokami-hackernews",
+  "description": "Provides access to Hacker News data through the Firebase API, enabling retrieval of top stories and detailed story information with structured JSON responses.",
+  "source_repo": "morinokami/mcp-server-hackernews",
+  "source_url": "https://github.com/morinokami/mcp-server-hackernews",
+  "install": "# git clone --depth 1 https://github.com/morinokami/mcp-server-hackernews\n# See source for mcpServers config block"
+}

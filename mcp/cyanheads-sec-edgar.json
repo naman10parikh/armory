@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-sec-edgar",
+  "description": "Query SEC EDGAR filings, XBRL financials, and company data with tools for company search, full-text filing search, financial data retrieval, and cross-company metric comparison.",
+  "source_repo": "cyanheads/secedgar-mcp-server",
+  "source_url": "https://github.com/cyanheads/secedgar-mcp-server",
+  "install": "npx -y secedgar-mcp-server"
+}

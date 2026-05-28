@@ -1,0 +1,7 @@
+{
+  "name": "artgas1-robokassa",
+  "description": "Community integration for the Robokassa payment gateway covering checkout, refunds, and fiscal receipts.",
+  "source_repo": "artgas1/robokassa-mcp",
+  "source_url": "https://github.com/artgas1/robokassa-mcp",
+  "install": "npx -y robokassa-mcp"
+}

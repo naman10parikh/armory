@@ -1,0 +1,7 @@
+{
+  "name": "lochgeo-kubernetes",
+  "description": "Integrates with Kubernetes clusters to enable direct pod, deployment, and service management operations through specialized FastMCP tools, eliminating the need to switch between AI conversations and command-line interfaces for DevOps workflows.",
+  "source_repo": "lochgeo/kube-mcp",
+  "source_url": "https://github.com/lochgeo/kube-mcp",
+  "install": "npx -y kube-mcp"
+}

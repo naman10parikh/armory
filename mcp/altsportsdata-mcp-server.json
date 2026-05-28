@@ -1,0 +1,7 @@
+{
+  "name": "altsportsdata-mcp-server",
+  "description": "MCP-compatible server that gives AI agents access to alternative sports data across 30+ leagues — odds, events, probabilities, settlement, and futures for prediction markets, DFS platforms, and sportsbooks.",
+  "source_repo": "asd-git-master/altsportsdata-mcp",
+  "source_url": "https://github.com/asd-git-master/altsportsdata-mcp",
+  "install": "npx -y altsportsdata-mcp"
+}

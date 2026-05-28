@@ -1,0 +1,7 @@
+{
+  "name": "fulcradynamics-fulcra-context",
+  "description": "Integrates with Fulcra Context personal data through OAuth2 authentication to retrieve health metrics, workout data, sleep cycles, location information, and user profile details from Apple Health and other connected sources for personal health analysis and fitness tracking.",
+  "source_repo": "fulcradynamics/fulcra-context-mcp",
+  "source_url": "https://github.com/fulcradynamics/fulcra-context-mcp",
+  "install": "npx -y fulcra-context-mcp"
+}

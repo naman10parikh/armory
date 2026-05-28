@@ -1,0 +1,7 @@
+{
+  "name": "intrepidservicesllc-lemonsqueezy",
+  "description": "Integrates with Lemon Squeezy payment platform to manage stores, customers, products, orders, subscriptions, discounts, license keys, and webhooks with optional Salesforce CRM sync for automated customer data workflows.",
+  "source_repo": "intrepidservicesllc/lemonsqueezy-mcp-server",
+  "source_url": "https://github.com/intrepidservicesllc/lemonsqueezy-mcp-server",
+  "install": "npx -y lemonsqueezy-mcp-server"
+}

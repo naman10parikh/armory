@@ -1,0 +1,7 @@
+{
+  "name": "leaf76-lazy-mobile",
+  "description": "Local Android and iOS mobile automation with performance telemetry via ADB, simctl, devicectl, and WebDriverAgent.",
+  "source_repo": "leaf76/lazy_mobile_mcp",
+  "source_url": "https://github.com/leaf76/lazy_mobile_mcp",
+  "install": "npx -y lazy_mobile_mcp"
+}

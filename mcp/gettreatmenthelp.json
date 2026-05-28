@@ -1,0 +1,7 @@
+{
+  "name": "gettreatmenthelp",
+  "description": "Search SAMHSA-verified addiction and mental health treatment facilities across the U.S. by location, insurance, and treatment type.",
+  "source_repo": "",
+  "source_url": "https://gettreatmenthelp.com",
+  "install": "# git clone --depth 1 https://gettreatmenthelp.com\n# See source for mcpServers config block"
+}

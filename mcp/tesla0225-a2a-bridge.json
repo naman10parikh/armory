@@ -1,0 +1,7 @@
+{
+  "name": "tesla0225-a2a-bridge",
+  "description": "Bridges LLMs with Agent-to-Agent protocol-compatible agents, enabling delegation of complex tasks to specialized external agents without requiring direct protocol implementation",
+  "source_repo": "tesla0225/mcp-a2a",
+  "source_url": "https://github.com/tesla0225/mcp-a2a",
+  "install": "# git clone --depth 1 https://github.com/tesla0225/mcp-a2a\n# See source for mcpServers config block"
+}

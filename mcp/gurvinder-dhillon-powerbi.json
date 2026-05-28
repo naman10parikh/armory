@@ -1,0 +1,7 @@
+{
+  "name": "gurvinder-dhillon-powerbi",
+  "description": "Integrates with Power BI REST APIs to query workspaces, datasets, and execute DAX queries.",
+  "source_repo": "gurvinder-dhillon/powerbi-mcp",
+  "source_url": "https://github.com/gurvinder-dhillon/powerbi-mcp",
+  "install": "npx -y powerbi-mcp"
+}

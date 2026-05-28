@@ -1,0 +1,7 @@
+{
+  "name": "bitatlas",
+  "description": "Zero-knowledge encrypted cloud storage for AI agents with client-side AES-256-GCM encryption.",
+  "source_repo": "bitatlas-group/bitatlas",
+  "source_url": "https://github.com/bitatlas-group/bitatlas",
+  "install": "# git clone --depth 1 https://github.com/bitatlas-group/bitatlas\n# See source for mcpServers config block"
+}

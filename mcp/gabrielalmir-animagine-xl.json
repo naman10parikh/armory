@@ -1,0 +1,7 @@
+{
+  "name": "gabrielalmir-animagine-xl",
+  "description": "Provides prompt validation, optimization, and image generation tools for the Animagine XL 4.0 anime/manga model with checkpoint and LoRA management.",
+  "source_repo": "gabrielalmir/mcp-animaginexl",
+  "source_url": "https://github.com/gabrielalmir/mcp-animaginexl",
+  "install": "# git clone --depth 1 https://github.com/gabrielalmir/mcp-animaginexl\n# See source for mcpServers config block"
+}

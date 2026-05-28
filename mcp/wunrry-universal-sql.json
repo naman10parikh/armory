@@ -1,0 +1,7 @@
+{
+  "name": "wunrry-universal-sql",
+  "description": "Provides secure access to multiple SQL database engines (MySQL, PostgreSQL, SQLite, SQL Server) through a unified interface with controlled read/write operations, schema inspection, and built-in security restrictions that block dangerous operations.",
+  "source_repo": "wunrry/universal-sql-mcp-server",
+  "source_url": "https://github.com/wunrry/universal-sql-mcp-server",
+  "install": "npx -y universal-sql-mcp-server"
+}

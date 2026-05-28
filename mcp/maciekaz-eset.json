@@ -1,0 +1,7 @@
+{
+  "name": "maciekaz-eset",
+  "description": "Provides AI access to ESET Connect management APIs with 102 auto-generated tools for device management, threat detection, vulnerability tracking, and policy administration.",
+  "source_repo": "maciekaz/eset-mcp",
+  "source_url": "https://github.com/maciekaz/eset-mcp",
+  "install": "npx -y eset-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dlhellme-telegram",
+  "description": "Integrates with Telegram channels and groups through web scraping and official API to extract posts, channel information, and perform searches with date filtering, authentication management, and automatic content formatting.",
+  "source_repo": "dlhellme/telegram-mcp-server",
+  "source_url": "https://github.com/dlhellme/telegram-mcp-server",
+  "install": "npx -y telegram-mcp-server"
+}

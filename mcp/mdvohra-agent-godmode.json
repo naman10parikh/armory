@@ -1,0 +1,7 @@
+{
+  "name": "mdvohra-agent-godmode",
+  "description": "Workspace-scoped file system and command execution tools for building agentic applications, keeping API keys in user-controlled environments.",
+  "source_repo": "mdvohra/agent-godmode",
+  "source_url": "https://github.com/mdvohra/agent-godmode",
+  "install": "# git clone --depth 1 https://github.com/mdvohra/agent-godmode\n# See source for mcpServers config block"
+}

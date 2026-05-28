@@ -1,0 +1,7 @@
+{
+  "name": "javaperf",
+  "description": "MCP server for profiling Java applications via JDK utilities (jcmd, jfr, jps). Enables AI assistants to diagnose performance, analyze threads, and inspect JFR recordings without manual CLI usage.",
+  "source_repo": "theSharque/mcp-jperf",
+  "source_url": "https://github.com/theSharque/mcp-jperf",
+  "install": "# git clone --depth 1 https://github.com/theSharque/mcp-jperf\n# See source for mcpServers config block"
+}

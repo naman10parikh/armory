@@ -1,0 +1,7 @@
+{
+  "name": "kryptobaseddev-cleo",
+  "description": "Task management protocol for solo developers and AI coding agents with CQRS pattern.",
+  "source_repo": "kryptobaseddev/cleo",
+  "source_url": "https://github.com/kryptobaseddev/cleo",
+  "install": "# git clone --depth 1 https://github.com/kryptobaseddev/cleo\n# See source for mcpServers config block"
+}

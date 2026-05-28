@@ -1,0 +1,7 @@
+{
+  "name": "gyzhang-loan-credit-management",
+  "description": "Provides loan and credit management system access through Spring Boot application with H2 database, enabling financial institutions to perform credit assessments, loan processing, customer relationship management, and automated lending decisions.",
+  "source_repo": "gyzhang/mcp4ail",
+  "source_url": "https://github.com/gyzhang/mcp4ail",
+  "install": "# git clone --depth 1 https://github.com/gyzhang/mcp4ail\n# See source for mcpServers config block"
+}

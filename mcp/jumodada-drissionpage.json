@@ -1,0 +1,7 @@
+{
+  "name": "jumodada-drissionpage",
+  "description": "Provides browser automation capabilities through DrissionPage library for web scraping, form filling, UI testing, and automated browsing with navigation, element manipulation, screenshot capture, and wait operations.",
+  "source_repo": "jumodada/drissionpage-mcp-server",
+  "source_url": "https://github.com/jumodada/drissionpage-mcp-server",
+  "install": "npx -y drissionpage-mcp-server"
+}

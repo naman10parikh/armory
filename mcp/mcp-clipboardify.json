@@ -1,0 +1,7 @@
+{
+  "name": "mcp-clipboardify",
+  "description": "Provides clipboard access tools (get and set) for AI assistants via the Model Context Protocol, enabling seamless clipboard operations across platforms.",
+  "source_repo": "fluffypony/mcp-clipboardify",
+  "source_url": "https://github.com/fluffypony/mcp-clipboardify",
+  "install": "# git clone --depth 1 https://github.com/fluffypony/mcp-clipboardify\n# See source for mcpServers config block"
+}

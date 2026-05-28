@@ -1,0 +1,7 @@
+{
+  "name": "kiro0x-five",
+  "description": "LLM character consistency engine — enforce JSON personality and style constraints across interactions.",
+  "source_repo": "kiro0x/five-mcp",
+  "source_url": "https://github.com/kiro0x/five-mcp",
+  "install": "npx -y five-mcp"
+}

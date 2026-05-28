@@ -1,0 +1,7 @@
+{
+  "name": "blog-publisher-mcp-server",
+  "description": "Blog_publisher_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "Carrie-L/blog_publisher_mcp_server",
+  "source_url": "https://mcp.so/server/blog_publisher_mcp_server/Carrie-L",
+  "install": "npx -y blog_publisher_mcp_server"
+}

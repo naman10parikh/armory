@@ -1,0 +1,7 @@
+{
+  "name": "startr-github-todo-scanner",
+  "description": "Scans GitHub repositories for TODO comments in code files, presenting findings through both a web interface and RESTful API for tracking outstanding tasks and conducting code quality reviews.",
+  "source_repo": "startr/todoscope",
+  "source_url": "https://github.com/startr/todoscope",
+  "install": "# git clone --depth 1 https://github.com/startr/todoscope\n# See source for mcpServers config block"
+}

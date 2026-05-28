@@ -1,0 +1,7 @@
+{
+  "name": "rnwy-trust-intelligence",
+  "description": "Trust scoring and Sybil detection for AI agents, with signed attestations across 150,000+ agents on 12 blockchains.",
+  "source_repo": "rnwy/mcp",
+  "source_url": "https://github.com/rnwy/mcp",
+  "install": "# git clone --depth 1 https://github.com/rnwy/mcp\n# See source for mcpServers config block"
+}

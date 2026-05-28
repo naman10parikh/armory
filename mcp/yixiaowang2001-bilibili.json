@@ -1,0 +1,7 @@
+{
+  "name": "yixiaowang2001-bilibili",
+  "description": "Integrates with Bilibili video platform using async HTTP operations and browser automation to provide video content analysis, user data access, and platform interaction tools for content creators and developers.",
+  "source_repo": "yixiaowang2001/bilibili-mcp-server",
+  "source_url": "https://github.com/yixiaowang2001/bilibili-mcp-server",
+  "install": "npx -y bilibili-mcp-server"
+}

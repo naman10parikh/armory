@@ -1,0 +1,7 @@
+{
+  "name": "rbowen-apache-httpd-docs",
+  "description": "MCP server for querying Apache HTTP Server 2.4 documentation with tools for modules, directives, and full-text search.",
+  "source_repo": "rbowen/apache-httpd-docs-mcp",
+  "source_url": "https://github.com/rbowen/apache-httpd-docs-mcp",
+  "install": "npx -y apache-httpd-docs-mcp"
+}

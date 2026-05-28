@@ -1,0 +1,7 @@
+{
+  "name": "ravinahp-surf",
+  "description": "For people who surf waves and the web. Unlocks wave analysis, forecasting, and custom surf applications.",
+  "source_repo": "ravinahp/surf-mcp",
+  "source_url": "https://github.com/ravinahp/surf-mcp",
+  "install": "npx -y surf-mcp"
+}

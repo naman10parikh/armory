@@ -1,0 +1,7 @@
+{
+  "name": "signoz",
+  "description": "Access metrics, traces, logs, alerts, and dashboards from SigNoz observability platform",
+  "source_repo": "signoz/signoz-mcp-server",
+  "source_url": "https://github.com/signoz/signoz-mcp-server",
+  "install": "npx -y signoz-mcp-server"
+}

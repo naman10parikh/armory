@@ -1,0 +1,7 @@
+{
+  "name": "pigmej-homey-pro",
+  "description": "Integrates with Athom HomeyPro home automation systems to provide complete device control, zone management, flow automation, and system monitoring through paginated API access with intelligent caching and unified flow detection.",
+  "source_repo": "pigmej/python-homey-mcp",
+  "source_url": "https://github.com/pigmej/python-homey-mcp",
+  "install": "npx -y python-homey-mcp"
+}

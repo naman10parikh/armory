@@ -1,0 +1,7 @@
+{
+  "name": "wolfe-jam-rust-faf",
+  "description": "Rust-native server for the FAF (Foundational AI-context Format), providing structured project context in IANA-registered YAML format.",
+  "source_repo": "wolfe-jam/rust-faf-mcp",
+  "source_url": "https://github.com/wolfe-jam/rust-faf-mcp",
+  "install": "npx -y rust-faf-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gen3-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for interacting with Gen3 data commons, with GraphQL query validation to reduce hallucinations.",
+  "source_repo": "delocalizer/gen3-mcp",
+  "source_url": "https://github.com/delocalizer/gen3-mcp",
+  "install": "npx -y gen3-mcp"
+}

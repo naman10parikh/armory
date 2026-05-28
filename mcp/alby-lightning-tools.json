@@ -1,0 +1,7 @@
+{
+  "name": "alby-lightning-tools",
+  "description": "Integrates with the Bitcoin Lightning Network to enable cryptocurrency payment capabilities and lightning address interactions for conversational workflows.",
+  "source_repo": "getalby/lightning-tools-mcp-server",
+  "source_url": "https://github.com/getalby/lightning-tools-mcp-server",
+  "install": "npx -y lightning-tools-mcp-server"
+}

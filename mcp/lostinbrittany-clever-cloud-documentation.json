@@ -1,0 +1,7 @@
+{
+  "name": "lostinbrittany-clever-cloud-documentation",
+  "description": "Exposes Clever Cloud's documentation for querying and accessing content, enabling automated lookup and integration with development workflows.",
+  "source_repo": "lostinbrittany/clever-doc-mcp-server",
+  "source_url": "https://github.com/lostinbrittany/clever-doc-mcp-server",
+  "install": "npx -y clever-doc-mcp-server"
+}

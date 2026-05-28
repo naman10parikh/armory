@@ -1,0 +1,7 @@
+{
+  "name": "tonyc23-systemonomic",
+  "description": "Model work domains, score tasks for AI suitability, and design organisations using Systemonomic's API.",
+  "source_repo": "tonyc23/systemonomic-mcp",
+  "source_url": "https://github.com/tonyc23/systemonomic-mcp",
+  "install": "npx -y systemonomic-mcp"
+}

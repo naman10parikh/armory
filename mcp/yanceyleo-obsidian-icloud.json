@@ -1,0 +1,7 @@
+{
+  "name": "yanceyleo-obsidian-icloud",
+  "description": "Connects Obsidian vaults stored in iCloud Drive to enable direct interaction with markdown notes and files through comprehensive search, reading, writing, and editing capabilities across multiple vaults.",
+  "source_repo": "yanceyofficial/obsidian-mcp",
+  "source_url": "https://github.com/yanceyofficial/obsidian-mcp",
+  "install": "npx -y obsidian-mcp"
+}

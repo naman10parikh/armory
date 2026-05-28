@@ -1,0 +1,7 @@
+{
+  "name": "danmas0n-langgraph-coding-team",
+  "description": "Create coding agents to generate implementation options.",
+  "source_repo": "danmas0n/multi-agent-with-mcp",
+  "source_url": "https://github.com/danmas0n/multi-agent-with-mcp",
+  "install": "npx -y multi-agent-with-mcp"
+}

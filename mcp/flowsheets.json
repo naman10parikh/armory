@@ -1,0 +1,7 @@
+{
+  "name": "flowsheets",
+  "description": "Trigger workflows, manage worksheets, and collaborate on record discussions. Create, update, and delete records in bulk, generate share links, and get instant pivot summaries for insights. Administer roles, departments, and optionsets to control access and standardize data across your apps.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/garfield-bb/hap_paas2025",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/garfield-bb/hap_paas2025\n# See source for mcpServers config block"
+}

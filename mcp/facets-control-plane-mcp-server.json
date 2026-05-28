@@ -1,0 +1,7 @@
+{
+  "name": "facets-control-plane-mcp-server",
+  "description": "Enables management of Facets Control Plane projects, resources, environments, and deployments through Claude, offering secure infrastructure automation workflows.",
+  "source_repo": "Facets-cloud/control-plane-mcp-server",
+  "source_url": "https://github.com/Facets-cloud/control-plane-mcp-server",
+  "install": "npx -y control-plane-mcp-server"
+}

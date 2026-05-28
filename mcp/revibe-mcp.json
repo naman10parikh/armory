@@ -1,0 +1,7 @@
+{
+  "name": "revibe-mcp",
+  "description": "Enables analysis of any GitHub repository to get architecture, file roles, execution flows, system design Q\\&A, and structured agent context. Works with MCP-compatible clients like Claude Desktop, Cursor, and Windsurf.",
+  "source_repo": "selvatuple/revibe-mcp",
+  "source_url": "https://github.com/selvatuple/revibe-mcp",
+  "install": "npx -y revibe-mcp"
+}

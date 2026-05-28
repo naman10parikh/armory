@@ -1,0 +1,7 @@
+{
+  "name": "azure-devops-mcp-server-2",
+  "description": "A read-only MCP server connecting AI assistants to Azure DevOps Server (on-premises) for browsing projects, repos, builds, work items, releases, pipelines, and test results.",
+  "source_repo": "elad-nofy/azure-devops-mcp",
+  "source_url": "https://github.com/elad-nofy/azure-devops-mcp",
+  "install": "npx -y azure-devops-mcp"
+}

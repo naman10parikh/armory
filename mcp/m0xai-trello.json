@@ -1,0 +1,7 @@
+{
+  "name": "m0xai-trello",
+  "description": "Integrates with Trello API to enable natural language management of boards, lists, and cards for streamlined project organization and task tracking without context switching.",
+  "source_repo": "m0xai/trello-mcp-server",
+  "source_url": "https://github.com/m0xai/trello-mcp-server",
+  "install": "npx -y trello-mcp-server"
+}

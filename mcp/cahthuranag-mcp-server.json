@@ -1,0 +1,7 @@
+{
+  "name": "cahthuranag-mcp-server",
+  "description": "AllRatesToday currency exchange rates: real-time mid-market rates for 160+ currencies (Reuters/Refinitiv), historical data (1d/7d/30d/1y), currency list, and multi-target lookups. Free tier, no key needed for the simple-rate endpoint. Install: `npx @allratestoday/mcp-server`.",
+  "source_repo": "cahthuranag/mcp-server",
+  "source_url": "https://github.com/cahthuranag/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/cahthuranag/mcp-server\n# See source for mcpServers config block"
+}

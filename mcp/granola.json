@@ -1,0 +1,7 @@
+{
+  "name": "granola",
+  "description": "Granola integration that provides access to meeting notes and transcripts from the Granola notepad platform, enabling workflows like creating tickets from discussed bugs, updating project boards from standups, and drafting CRM notes from sales calls.",
+  "source_repo": "",
+  "source_url": "https://granola.ai/blog/granola-mcp",
+  "install": "# git clone --depth 1 https://granola.ai/blog/granola-mcp\n# See source for mcpServers config block"
+}

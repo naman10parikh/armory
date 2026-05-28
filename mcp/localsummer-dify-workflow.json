@@ -1,0 +1,7 @@
+{
+  "name": "localsummer-dify-workflow",
+  "description": "Integrates with Dify to enable text generation, data analysis, and conversational flow management through Dify's API, streamlining AI-powered application development.",
+  "source_repo": "localsummer/dify-workflow-mcp",
+  "source_url": "https://github.com/localsummer/dify-workflow-mcp",
+  "install": "npx -y dify-workflow-mcp"
+}

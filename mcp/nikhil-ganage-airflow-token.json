@@ -1,0 +1,7 @@
+{
+  "name": "nikhil-ganage-airflow-token",
+  "description": "Integrates with Apache Airflow through Bearer token authentication to provide DAG operations, task instance management, connection handling, variable management, dataset operations, and monitoring functions with optional read-only mode and automatic UI link generation.",
+  "source_repo": "nikhil-ganage/mcp-server-airflow-token",
+  "source_url": "https://github.com/nikhil-ganage/mcp-server-airflow-token",
+  "install": "# git clone --depth 1 https://github.com/nikhil-ganage/mcp-server-airflow-token\n# See source for mcpServers config block"
+}

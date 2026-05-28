@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-kaseya-vsa",
+  "description": "Manage Kaseya VSA RMM agents, patches, procedures, alarms, and tickets via MCP.",
+  "source_repo": "wyre-technology/kaseya-vsa-mcp",
+  "source_url": "https://github.com/wyre-technology/kaseya-vsa-mcp",
+  "install": "npx -y kaseya-vsa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alimo7amed93-webhook-tester-mcp",
+  "description": "A FastMCP-based server for interacting with webhook-test.com. Enables users to create, retrieve, and delete webhooks locally using Claude.",
+  "source_repo": "alimo7amed93/webhook-tester-mcp",
+  "source_url": "https://github.com/alimo7amed93/webhook-tester-mcp",
+  "install": "npx -y webhook-tester-mcp"
+}

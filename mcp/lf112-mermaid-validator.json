@@ -1,0 +1,7 @@
+{
+  "name": "lf112-mermaid-validator",
+  "description": "Validates Mermaid diagram syntax and renders diagrams as SVG images with detailed error reporting.",
+  "source_repo": "lf112/mermaid-validator-mcp",
+  "source_url": "https://github.com/lf112/mermaid-validator-mcp",
+  "install": "npx -y mermaid-validator-mcp"
+}

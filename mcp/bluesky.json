@@ -1,0 +1,7 @@
+{
+  "name": "bluesky",
+  "description": "Bluesky social network profiles and posts via the AT Protocol API.",
+  "source_repo": "pipeworx-io/mcp-bluesky",
+  "source_url": "https://github.com/pipeworx-io/mcp-bluesky",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bluesky\n# See source for mcpServers config block"
+}

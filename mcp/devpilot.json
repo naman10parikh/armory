@@ -1,0 +1,7 @@
+{
+  "name": "devpilot",
+  "description": "Automates VPS initialization and deployment workflows through SSH connections, providing tools for system setup, service installation, Nginx configuration with SSL, and GitHub CI/CD pipeline creation.",
+  "source_repo": "oxy-op/devpilot",
+  "source_url": "https://github.com/oxy-op/devpilot",
+  "install": "# git clone --depth 1 https://github.com/oxy-op/devpilot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "whensport-tour-de-france-2026",
+  "description": "Access Tour de France 2026 stage data including schedules, stage details, date-range queries, and current race phase tracking across all 21 stages.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/tdf",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/tdf\n# See source for mcpServers config block"
+}

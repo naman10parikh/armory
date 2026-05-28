@@ -1,0 +1,7 @@
+{
+  "name": "sessemi-mcp",
+  "description": "Enables AI agents to scrape websites protected by Cloudflare, DataDome, and Akamai, bypassing anti-bot measures to retrieve page content.",
+  "source_repo": "sessemi/sessemi-mcp",
+  "source_url": "https://github.com/sessemi/sessemi-mcp",
+  "install": "npx -y sessemi-mcp"
+}

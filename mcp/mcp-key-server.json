@@ -1,0 +1,7 @@
+{
+  "name": "mcp-key-server",
+  "description": "Mcp Key Server MCP server listed on mcp.so.",
+  "source_repo": "suchetaslalom-sf/mcp-key-server",
+  "source_url": "https://mcp.so/server/mcp-key-server/suchetaslalom-sf",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-key-server/suchetaslalom-sf\n# See source for mcpServers config block"
+}

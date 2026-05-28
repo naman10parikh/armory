@@ -1,0 +1,7 @@
+{
+  "name": "dilane-kamga-edgar",
+  "description": "SEC EDGAR filing system MCP server with company resolution, XBRL financials, and insider transaction tracking.",
+  "source_repo": "dilane-kamga/edgar-mcp",
+  "source_url": "https://github.com/dilane-kamga/edgar-mcp",
+  "install": "npx -y edgar-mcp"
+}

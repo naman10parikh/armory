@@ -1,0 +1,7 @@
+{
+  "name": "bowwowxx-gemini-image-generation",
+  "description": "Integrates with Google's Gemini 2.0 Flash experimental model to generate images from text prompts with configurable aspect ratios and output formats, returning base64-encoded images directly.",
+  "source_repo": "bowwowxx/geminimcpserver",
+  "source_url": "https://github.com/bowwowxx/geminimcpserver",
+  "install": "# git clone --depth 1 https://github.com/bowwowxx/geminimcpserver\n# See source for mcpServers config block"
+}

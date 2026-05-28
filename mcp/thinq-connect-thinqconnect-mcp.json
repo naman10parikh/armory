@@ -1,0 +1,7 @@
+{
+  "name": "thinq-connect-thinqconnect-mcp",
+  "description": "Interact with LG ThinQ smart home devices and appliances through the ThinQ Connect MCP server.",
+  "source_repo": "thinq-connect/thinqconnect-mcp",
+  "source_url": "https://github.com/thinq-connect/thinqconnect-mcp",
+  "install": "npx -y thinqconnect-mcp"
+}

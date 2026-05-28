@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-hipaa-compliance-mcp",
+  "description": "Tools for HIPAA compliance assessment, documentation, and audit preparation.",
+  "source_repo": "csoai-org/hipaa-compliance-mcp",
+  "source_url": "https://github.com/csoai-org/hipaa-compliance-mcp",
+  "install": "npx -y hipaa-compliance-mcp"
+}

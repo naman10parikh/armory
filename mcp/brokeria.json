@@ -1,0 +1,7 @@
+{
+  "name": "brokeria",
+  "description": "Brazilian real estate platform MCP server for property search, mortgage simulation, CRM lead registration, and visit scheduling.",
+  "source_repo": "raklapimenta/brokeria-mcp-server",
+  "source_url": "https://github.com/raklapimenta/brokeria-mcp-server",
+  "install": "npx -y brokeria-mcp-server"
+}

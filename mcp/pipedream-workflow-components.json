@@ -1,0 +1,7 @@
+{
+  "name": "pipedream-workflow-components",
+  "description": "Enables AI to configure and execute Pipedream workflow components across hundreds of apps and services without writing code, handling authentication flows and user credentials securely.",
+  "source_repo": "wallaceobsidian01/pipedream",
+  "source_url": "https://github.com/wallaceobsidian01/pipedream/tree/HEAD/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://github.com/wallaceobsidian01/pipedream/tree/HEAD/modelcontextprotocol\n# See source for mcpServers config block"
+}

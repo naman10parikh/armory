@@ -1,0 +1,7 @@
+{
+  "name": "rafegal-vitra-ai-multi-agent",
+  "description": "Multi-agent customer service system for health and wellness retail that coordinates specialized agents for general customer service, sales transactions, and body care advice through hierarchical architecture with integrated search functionality.",
+  "source_repo": "rafegal/multi-agent-lab",
+  "source_url": "https://github.com/rafegal/multi-agent-lab",
+  "install": "# git clone --depth 1 https://github.com/rafegal/multi-agent-lab\n# See source for mcpServers config block"
+}

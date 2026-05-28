@@ -1,0 +1,7 @@
+{
+  "name": "ankitvirdi4-helmet",
+  "description": "Production middleware toolkit for building MCP servers, adding authentication, health checks, rate limiting, and graceful shutdown to MCP applications.",
+  "source_repo": "ankitvirdi4/mcp-helmet",
+  "source_url": "https://github.com/ankitvirdi4/mcp-helmet",
+  "install": "# git clone --depth 1 https://github.com/ankitvirdi4/mcp-helmet\n# See source for mcpServers config block"
+}

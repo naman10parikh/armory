@@ -1,0 +1,7 @@
+{
+  "name": "pipedrive-mcp",
+  "description": "MCP server for Pipedrive CRM providing 88 tools for full CRUD on deals, persons, organizations, activities, and more, with custom field resolution and safety guards.",
+  "source_repo": "comma-compliance/pipedrive-mcp",
+  "source_url": "https://github.com/comma-compliance/pipedrive-mcp",
+  "install": "npx -y pipedrive-mcp"
+}

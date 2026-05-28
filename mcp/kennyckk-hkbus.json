@@ -1,0 +1,7 @@
+{
+  "name": "kennyckk-hkbus",
+  "description": "Provides real-time Hong Kong bus information through KMB API integration, enabling users to find routes, locate stops, and check arrival times through conversational queries.",
+  "source_repo": "kennyckk/mcp_hkbus",
+  "source_url": "https://github.com/kennyckk/mcp_hkbus",
+  "install": "# git clone --depth 1 https://github.com/kennyckk/mcp_hkbus\n# See source for mcpServers config block"
+}

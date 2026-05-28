@@ -1,0 +1,7 @@
+{
+  "name": "tanigami-perplexityc0fb",
+  "description": "Integrates with Perplexity API to enable internet research with source citations directly within conversations, optimized for smaller models to avoid timeout issues.",
+  "source_repo": "xiyuefox/mcp-server-perplexity",
+  "source_url": "https://github.com/xiyuefox/mcp-server-perplexity",
+  "install": "# git clone --depth 1 https://github.com/xiyuefox/mcp-server-perplexity\n# See source for mcpServers config block"
+}

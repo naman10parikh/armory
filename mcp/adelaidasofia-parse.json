@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-parse",
+  "description": "Multi-parser routing MCP that switches between Markitdown, Docling, and LlamaParse backends.",
+  "source_repo": "adelaidasofia/parse-mcp",
+  "source_url": "https://github.com/adelaidasofia/parse-mcp",
+  "install": "npx -y parse-mcp"
+}

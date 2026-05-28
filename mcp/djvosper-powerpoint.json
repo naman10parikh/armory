@@ -1,0 +1,7 @@
+{
+  "name": "djvosper-powerpoint",
+  "description": "Creates and manipulates PowerPoint presentations directly within conversations, enabling users to generate professional slides with customizable layouts, formatting themes, and preview capabilities.",
+  "source_repo": "djvosper/mcp-pptx",
+  "source_url": "https://github.com/djvosper/mcp-pptx",
+  "install": "# git clone --depth 1 https://github.com/djvosper/mcp-pptx\n# See source for mcpServers config block"
+}

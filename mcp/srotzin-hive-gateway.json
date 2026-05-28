@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-hive-gateway",
+  "description": "Discovery and routing gateway for the Hive Civilization MCP ecosystem, hosting a registry of 22 Hive servers and legacy in-process mounts.",
+  "source_repo": "srotzin/hive-mcp-gateway",
+  "source_url": "https://github.com/srotzin/hive-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-gateway\n# See source for mcpServers config block"
+}

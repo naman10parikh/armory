@@ -1,0 +1,7 @@
+{
+  "name": "flyte-mcp",
+  "description": "Exposes Flyte V2 knowledge, patterns, plugins, and runtime to AI coding assistants via the Model Context Protocol.",
+  "source_repo": "atoolz/flyte-mcp",
+  "source_url": "https://github.com/atoolz/flyte-mcp",
+  "install": "npx -y flyte-mcp"
+}

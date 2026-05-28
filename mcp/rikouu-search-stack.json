@@ -1,0 +1,7 @@
+{
+  "name": "rikouu-search-stack",
+  "description": "Combines multiple search providers with headless browser rendering, cookie management, and proxy routing for web content extraction.",
+  "source_repo": "rikouu/search-stack",
+  "source_url": "https://github.com/rikouu/search-stack",
+  "install": "# git clone --depth 1 https://github.com/rikouu/search-stack\n# See source for mcpServers config block"
+}

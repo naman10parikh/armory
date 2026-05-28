@@ -1,0 +1,7 @@
+{
+  "name": "jj-cheng25-weixin-articles",
+  "description": "Reads WeChat Official Account articles and returns content with embedded images and video keyframes as native MCP content blocks.",
+  "source_repo": "jj-cheng25/weixin-articles-mcp",
+  "source_url": "https://github.com/jj-cheng25/weixin-articles-mcp",
+  "install": "npx -y weixin-articles-mcp"
+}

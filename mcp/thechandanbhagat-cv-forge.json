@@ -1,0 +1,7 @@
+{
+  "name": "thechandanbhagat-cv-forge",
+  "description": "Analyzes job postings to extract requirements and generates tailored CVs, cover letters, and email templates with ATS optimization, keyword matching, and professional PDF formatting for automated job application creation.",
+  "source_repo": "thechandanbhagat/cv-forge",
+  "source_url": "https://github.com/thechandanbhagat/cv-forge",
+  "install": "# git clone --depth 1 https://github.com/thechandanbhagat/cv-forge\n# See source for mcpServers config block"
+}

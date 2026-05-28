@@ -1,0 +1,7 @@
+{
+  "name": "kapilduraphe-okta-user-management",
+  "description": "Integrates with Okta's user management system to retrieve detailed user information including profile data, account status, employment details, and contact information through a Node.js implementation.",
+  "source_repo": "kapilduraphe/okta-mcp-server",
+  "source_url": "https://github.com/kapilduraphe/okta-mcp-server",
+  "install": "npx -y okta-mcp-server"
+}

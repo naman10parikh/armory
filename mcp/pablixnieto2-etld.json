@@ -1,0 +1,7 @@
+{
+  "name": "pablixnieto2-etld",
+  "description": "Deterministic B2B data middleware for parsing CSV, EDI, bank statements, and financial documents.",
+  "source_repo": "pablixnieto2/etld-mcp-server",
+  "source_url": "https://github.com/pablixnieto2/etld-mcp-server",
+  "install": "npx -y etld-mcp-server"
+}

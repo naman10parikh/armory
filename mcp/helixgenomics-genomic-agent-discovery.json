@@ -1,0 +1,7 @@
+{
+  "name": "helixgenomics-genomic-agent-discovery",
+  "description": "Multi-agent MCP server for genomic analysis — specialized AI agents analyze raw DNA files across 16 databases (ClinVar, GWAS, gnomAD, CPIC, AlphaMissense, and more) and coordinate findings through shared MCP tools. Privacy-first, runs locally.",
+  "source_repo": "HelixGenomics/Genomic-Agent-Discovery",
+  "source_url": "https://github.com/HelixGenomics/Genomic-Agent-Discovery",
+  "install": "# git clone --depth 1 https://github.com/HelixGenomics/Genomic-Agent-Discovery\n# See source for mcpServers config block"
+}

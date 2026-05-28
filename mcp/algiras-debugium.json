@@ -1,0 +1,7 @@
+{
+  "name": "algiras-debugium",
+  "description": "Live debugger with bridge support for Python, JavaScript, TypeScript, Rust, Java, and C/C++.",
+  "source_repo": "algiras/debugium",
+  "source_url": "https://github.com/algiras/debugium",
+  "install": "# git clone --depth 1 https://github.com/algiras/debugium\n# See source for mcpServers config block"
+}

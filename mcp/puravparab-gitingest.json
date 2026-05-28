@@ -1,0 +1,7 @@
+{
+  "name": "puravparab-gitingest",
+  "description": "Extracts and provides GitHub repository information including summaries, directory structures, and file contents for seamless code analysis and reference during conversations.",
+  "source_repo": "puravparab/gitingest-mcp",
+  "source_url": "https://github.com/puravparab/gitingest-mcp",
+  "install": "npx -y gitingest-mcp"
+}

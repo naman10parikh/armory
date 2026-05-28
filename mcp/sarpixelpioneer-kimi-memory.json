@@ -1,0 +1,7 @@
+{
+  "name": "sarpixelpioneer-kimi-memory",
+  "description": "Persistent memory system using ChromaDB vector storage and Ollama local embeddings.",
+  "source_repo": "sarpixelpioneer/kimi-memory-mcp",
+  "source_url": "https://github.com/sarpixelpioneer/kimi-memory-mcp",
+  "install": "npx -y kimi-memory-mcp"
+}

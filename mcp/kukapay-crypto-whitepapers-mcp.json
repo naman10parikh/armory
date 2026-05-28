@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-whitepapers-mcp",
+  "description": "Serving as a structured knowledge base of crypto whitepapers.",
+  "source_repo": "kukapay/crypto-whitepapers-mcp",
+  "source_url": "https://github.com/kukapay/crypto-whitepapers-mcp",
+  "install": "npx -y crypto-whitepapers-mcp"
+}

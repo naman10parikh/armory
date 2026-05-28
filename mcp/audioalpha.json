@@ -1,0 +1,7 @@
+{
+  "name": "audioalpha",
+  "description": "Financial podcast intelligence — sentiment, narrative, and asset signals from 100+ podcasts.",
+  "source_repo": "",
+  "source_url": "https://www.audioalpha.io",
+  "install": "# git clone --depth 1 https://www.audioalpha.io\n# See source for mcpServers config block"
+}

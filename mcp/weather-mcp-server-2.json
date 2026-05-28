@@ -1,0 +1,7 @@
+{
+  "name": "weather-mcp-server-2",
+  "description": "Enables AI assistants to retrieve current weather, forecasts, and summaries for any global location using the Open-Meteo API, with no API key required.",
+  "source_repo": "JeremyMorgan/Weather-MCP-Server",
+  "source_url": "https://github.com/JeremyMorgan/Weather-MCP-Server",
+  "install": "npx -y Weather-MCP-Server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "citizen4our-ssh-liaison",
+  "description": "Provides secure remote server access and command execution through SSH connections with persistent shell sessions.",
+  "source_repo": "citizen4our/ssh-liaison-mcp",
+  "source_url": "https://github.com/citizen4our/ssh-liaison-mcp",
+  "install": "npx -y ssh-liaison-mcp"
+}

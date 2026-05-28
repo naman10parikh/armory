@@ -1,0 +1,7 @@
+{
+  "name": "code2flow-mcp-server",
+  "description": "Code2flow Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "kursk-ye/code2flow-mcp-server",
+  "source_url": "https://mcp.so/server/code2flow-mcp-server/kursk-ye",
+  "install": "npx -y code2flow-mcp-server"
+}

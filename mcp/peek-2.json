@@ -1,0 +1,7 @@
+{
+  "name": "peek-2",
+  "description": "Activity and experience booking platform. Search tours, check availability, and discover things to do worldwide.",
+  "source_repo": "",
+  "source_url": "https://peek.com",
+  "install": "# git clone --depth 1 https://peek.com\n# See source for mcpServers config block"
+}

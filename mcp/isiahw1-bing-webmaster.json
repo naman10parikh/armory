@@ -1,0 +1,7 @@
+{
+  "name": "isiahw1-bing-webmaster",
+  "description": "Integrates with Bing Webmaster Tools API to provide website management and SEO analytics through over 40 specialized tools for site management, traffic analysis, crawling diagnostics, URL submission, sitemap management, keyword research, and link analysis.",
+  "source_repo": "isiahw1/mcp-server-bing-webmaster",
+  "source_url": "https://github.com/isiahw1/mcp-server-bing-webmaster",
+  "install": "# git clone --depth 1 https://github.com/isiahw1/mcp-server-bing-webmaster\n# See source for mcpServers config block"
+}

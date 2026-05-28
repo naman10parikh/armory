@@ -1,0 +1,7 @@
+{
+  "name": "tabby-mcp",
+  "description": "A lightweight MCP server that enables control of the Tabby terminal via Chrome DevTools Protocol, allowing execution of JavaScript, DOM queries, and screenshots.",
+  "source_repo": "halilc4/tabby-mcp",
+  "source_url": "https://github.com/halilc4/tabby-mcp",
+  "install": "npx -y tabby-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hshintelligence-agent-scrape",
+  "description": "Pay-per-call web scraping for AI agents via x402 micropayments on Base. Six tools: scrape, extract structured data, screenshot, metadata, browser session, workflow. No signup, no API keys — just USDC. HTTP + MCP transports.",
+  "source_repo": "hshintelligence/agent-scrape",
+  "source_url": "https://github.com/hshintelligence/agent-scrape",
+  "install": "# git clone --depth 1 https://github.com/hshintelligence/agent-scrape\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "btwiuse-npm-search",
+  "description": "Enables npm package searches via CLI, facilitating JavaScript library discovery and dependency management",
+  "source_repo": "btwiuse/npm-search-mcp-server",
+  "source_url": "https://github.com/btwiuse/npm-search-mcp-server",
+  "install": "npx -y npm-search-mcp-server"
+}

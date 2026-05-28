@@ -1,0 +1,7 @@
+{
+  "name": "nphenix-unitylangpx",
+  "description": "Multi-platform translation system that provides document and text translation through CLI, HTTP server, and Obsidian plugin interfaces with advanced terminology management, vector-based similarity search, batch processing capabilities, and intelligent caching for multilingual content creation and document localization workflows.",
+  "source_repo": "nphenix/unitylangpx",
+  "source_url": "https://github.com/nphenix/unitylangpx",
+  "install": "# git clone --depth 1 https://github.com/nphenix/unitylangpx\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "scvcoder-korean-privacy-law",
+  "description": "MCP server for South Korean Personal Information Protection Act (PIPA) research with 37 tools and hallucination detection for legal citations.",
+  "source_repo": "scvcoder/korean-privacy-law-mcp",
+  "source_url": "https://github.com/scvcoder/korean-privacy-law-mcp",
+  "install": "npx -y korean-privacy-law-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kyrylopr-lenspr",
+  "description": "Code intelligence providing dependency graphs, impact analysis, and structural context for AI coding agents.",
+  "source_repo": "kyrylopr/lenspr",
+  "source_url": "https://github.com/kyrylopr/lenspr",
+  "install": "# git clone --depth 1 https://github.com/kyrylopr/lenspr\n# See source for mcpServers config block"
+}

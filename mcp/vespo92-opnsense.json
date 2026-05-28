@@ -1,0 +1,7 @@
+{
+  "name": "vespo92-opnsense",
+  "description": "Provides Infrastructure as Code capabilities for OPNsense firewalls with declarative management of VLANs, firewall rules, DHCP configurations, DNS blocking, HAProxy load balancing, and network topology discovery through plan/apply workflows, automatic backups, and rollback capabilities.",
+  "source_repo": "vespo92/opnsensemcp",
+  "source_url": "https://github.com/vespo92/opnsensemcp",
+  "install": "# git clone --depth 1 https://github.com/vespo92/opnsensemcp\n# See source for mcpServers config block"
+}

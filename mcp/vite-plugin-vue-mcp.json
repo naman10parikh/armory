@@ -1,0 +1,7 @@
+{
+  "name": "vite-plugin-vue-mcp",
+  "description": "Vite Plugin Vue Mcp MCP server listed on mcp.so.",
+  "source_repo": "webfansplz/vite-plugin-vue-mcp",
+  "source_url": "https://mcp.so/server/vite-plugin-vue-mcp/webfansplz",
+  "install": "npx -y vite-plugin-vue-mcp"
+}

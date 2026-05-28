@@ -1,0 +1,7 @@
+{
+  "name": "mcpassure-tuss",
+  "description": "Brazilian ANS health insurance procedure codes (TUSS): query procedures, medications, daily rates, and fees via local SQLite.",
+  "source_repo": "mcpassure/mcp-tuss",
+  "source_url": "https://github.com/mcpassure/mcp-tuss",
+  "install": "# git clone --depth 1 https://github.com/mcpassure/mcp-tuss\n# See source for mcpServers config block"
+}

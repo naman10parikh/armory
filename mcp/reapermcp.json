@@ -1,0 +1,7 @@
+{
+  "name": "reapermcp",
+  "description": "Connects AI assistants to REAPER for music production, enabling full control over tracks, MIDI, mixing, mastering, and audio analysis through 153 tools across 24 modules.",
+  "source_repo": "xDarkzx/Reaper-MCP",
+  "source_url": "https://github.com/xDarkzx/Reaper-MCP",
+  "install": "npx -y Reaper-MCP"
+}

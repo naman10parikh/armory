@@ -1,0 +1,7 @@
+{
+  "name": "majid9287-pdfgenstudio",
+  "description": "Integrates with PDF Gen Studio API to generate PDFs and images from templates, JSON documents, HTML/CSS content, and webpage screenshots.",
+  "source_repo": "majid9287/pdfgenstudio-mcp",
+  "source_url": "https://github.com/majid9287/pdfgenstudio-mcp",
+  "install": "npx -y pdfgenstudio-mcp"
+}

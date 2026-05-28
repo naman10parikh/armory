@@ -1,0 +1,7 @@
+{
+  "name": "gh-janghyuckyun-youtube-intelligence",
+  "description": "Extracts YouTube video metadata, transcripts, and comments via yt-dlp with server-side LLM summarization, entity extraction, topic segmentation, and channel monitoring for content research workflows.",
+  "source_repo": "janghyuckyun/mcp-youtube-intelligence",
+  "source_url": "https://github.com/janghyuckyun/mcp-youtube-intelligence",
+  "install": "# git clone --depth 1 https://github.com/janghyuckyun/mcp-youtube-intelligence\n# See source for mcpServers config block"
+}

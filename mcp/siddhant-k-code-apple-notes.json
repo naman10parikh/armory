@@ -1,0 +1,7 @@
+{
+  "name": "siddhant-k-code-apple-notes",
+  "description": "Bridges AI systems with macOS Notes application through AppleScript automation, enabling note creation, search, and content retrieval without switching context.",
+  "source_repo": "siddhant-k-code/mcp-apple-notes",
+  "source_url": "https://github.com/siddhant-k-code/mcp-apple-notes",
+  "install": "# git clone --depth 1 https://github.com/siddhant-k-code/mcp-apple-notes\n# See source for mcpServers config block"
+}

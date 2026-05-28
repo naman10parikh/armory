@@ -1,0 +1,7 @@
+{
+  "name": "pipeboard-google-ads",
+  "description": "Manages Google Ads campaigns with 35+ tools for keyword management, bid optimization, and GAQL queries.",
+  "source_repo": "",
+  "source_url": "https://pipeboard.co/guides/google-ads-mcp",
+  "install": "# git clone --depth 1 https://pipeboard.co/guides/google-ads-mcp\n# See source for mcpServers config block"
+}

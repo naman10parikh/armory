@@ -1,0 +1,7 @@
+{
+  "name": "mimecast-mcp",
+  "description": "MCP server for Mimecast Email Security — message tracking, threat intelligence, and email queue management. Enables AI assistants to investigate and manage email security events.",
+  "source_repo": "wyre-technology/mimecast-mcp",
+  "source_url": "https://github.com/wyre-technology/mimecast-mcp",
+  "install": "npx -y mimecast-mcp"
+}

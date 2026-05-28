@@ -1,0 +1,7 @@
+{
+  "name": "alexgarabt-bizangafest-penetration-testing",
+  "description": "Autonomous penetration testing server that performs network reconnaissance with nmap scanning and vulnerability discovery through searchsploit, automatically generating security assessment reports for automated security auditing workflows.",
+  "source_repo": "alexgarabt/bizangafest-mcp",
+  "source_url": "https://github.com/alexgarabt/bizangafest-mcp",
+  "install": "npx -y bizangafest-mcp"
+}

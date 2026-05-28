@@ -1,0 +1,7 @@
+{
+  "name": "arielbs-rosetta-mcp",
+  "description": "Protein structure modeling via Rosetta/PyRosetta and Biotite for computational biology workflows.",
+  "source_repo": "arielbs/rosetta-mcp-server",
+  "source_url": "https://github.com/arielbs/rosetta-mcp-server",
+  "install": "npx -y rosetta-mcp-server"
+}

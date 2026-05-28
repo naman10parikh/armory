@@ -1,0 +1,7 @@
+{
+  "name": "yeetit",
+  "description": "Instant web publishing for AI agents — POST HTML, get a live URL with no account needed.",
+  "source_repo": "snappyio/yeetit",
+  "source_url": "https://github.com/snappyio/yeetit",
+  "install": "# git clone --depth 1 https://github.com/snappyio/yeetit\n# See source for mcpServers config block"
+}

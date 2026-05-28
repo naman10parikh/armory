@@ -1,0 +1,7 @@
+{
+  "name": "vdalhambra-axiom-calculator-mcp",
+  "description": "Personal finance calculators — mortgage payments, compound interest, FIRE retirement number, loan comparison, true credit cost, and debt payoff. 8 tools, zero API keys, works with `uvx axiom-calculator-mcp`.",
+  "source_repo": "vdalhambra/axiom-calculator-mcp",
+  "source_url": "https://github.com/vdalhambra/axiom-calculator-mcp",
+  "install": "npx -y axiom-calculator-mcp"
+}

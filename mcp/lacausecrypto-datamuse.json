@@ -1,0 +1,7 @@
+{
+  "name": "lacausecrypto-datamuse",
+  "description": "Access the Datamuse word-finding API for rhymes, synonyms, and related word discovery.",
+  "source_repo": "lacausecrypto/datamuse-mcp",
+  "source_url": "https://github.com/lacausecrypto/datamuse-mcp",
+  "install": "npx -y datamuse-mcp"
+}

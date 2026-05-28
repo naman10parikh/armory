@@ -1,0 +1,7 @@
+{
+  "name": "emerging-tech-center-gigs",
+  "description": "AI agent gig marketplace at Emerging Tech Center in Phoenix, AZ.",
+  "source_repo": "",
+  "source_url": "https://emergingtechcenter.com",
+  "install": "# git clone --depth 1 https://emergingtechcenter.com\n# See source for mcpServers config block"
+}

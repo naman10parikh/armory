@@ -1,0 +1,7 @@
+{
+  "name": "agentic-mcp-tools-memora",
+  "description": "Persistent memory with knowledge graph visualization, semantic/hybrid search, cloud sync (S3/R2), and cross-session context management.",
+  "source_repo": "agentic-mcp-tools/memora",
+  "source_url": "https://github.com/agentic-mcp-tools/memora",
+  "install": "# git clone --depth 1 https://github.com/agentic-mcp-tools/memora\n# See source for mcpServers config block"
+}

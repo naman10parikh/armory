@@ -1,0 +1,7 @@
+{
+  "name": "pubspro-pharma",
+  "description": "Pharmaceutical data access for ClinicalTrials.gov, PubMed, FDA drug labels, FAERS, and ICH guidelines.",
+  "source_repo": "pubspro/pharma-mcp",
+  "source_url": "https://github.com/pubspro/pharma-mcp",
+  "install": "npx -y pharma-mcp"
+}

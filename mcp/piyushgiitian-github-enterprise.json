@@ -1,0 +1,7 @@
+{
+  "name": "piyushgiitian-github-enterprise",
+  "description": "Integrates with GitHub's API to enable natural language-driven repository management, code manipulation, and issue tracking for streamlined development workflows.",
+  "source_repo": "lessinthought/github-enterprice-mcp",
+  "source_url": "https://github.com/lessinthought/github-enterprice-mcp",
+  "install": "npx -y github-enterprice-mcp"
+}

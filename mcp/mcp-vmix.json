@@ -1,0 +1,7 @@
+{
+  "name": "mcp-vmix",
+  "description": "Mcp Vmix MCP server listed on mcp.so.",
+  "source_repo": "FlowingSPDG/mcp-vmix",
+  "source_url": "https://mcp.so/server/mcp-vmix/FlowingSPDG",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-vmix/FlowingSPDG\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mikejj-creation-stocksense",
+  "description": "Provides AI agents with financial data including SEC filings, price history, and insider trades.",
+  "source_repo": "mikejj-creation/stocksense",
+  "source_url": "https://github.com/mikejj-creation/stocksense",
+  "install": "# git clone --depth 1 https://github.com/mikejj-creation/stocksense\n# See source for mcpServers config block"
+}

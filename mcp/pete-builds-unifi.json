@@ -1,0 +1,7 @@
+{
+  "name": "pete-builds-unifi",
+  "description": "MCP server for managing self-hosted UniFi gateways with 41 tools covering VLANs, firewalls, and DHCP.",
+  "source_repo": "pete-builds/mcp-unifi",
+  "source_url": "https://github.com/pete-builds/mcp-unifi",
+  "install": "# git clone --depth 1 https://github.com/pete-builds/mcp-unifi\n# See source for mcpServers config block"
+}

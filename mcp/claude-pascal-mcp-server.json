@@ -1,0 +1,7 @@
+{
+  "name": "claude-pascal-mcp-server",
+  "description": "Enables Claude to compile, run, and interact with Pascal/Delphi desktop applications, including GUI automation, IDE observation, and Android device interaction via ADB.",
+  "source_repo": "tina4stack/claude-pascal-mcp",
+  "source_url": "https://github.com/tina4stack/claude-pascal-mcp",
+  "install": "npx -y claude-pascal-mcp"
+}

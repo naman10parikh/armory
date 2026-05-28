@@ -1,0 +1,7 @@
+{
+  "name": "ida-mcp-server",
+  "description": "Ida Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "MxIris-Reverse-Engineering/ida-mcp-server",
+  "source_url": "https://mcp.so/server/ida-mcp-server/MxIris-Reverse-Engineering",
+  "install": "npx -y ida-mcp-server"
+}

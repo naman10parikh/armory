@@ -1,0 +1,7 @@
+{
+  "name": "jayluxferro-ollama",
+  "description": "Exposes local Ollama API as tools for direct interaction with locally-hosted language models, providing comprehensive model management including listing, pulling, copying, and deleting models, plus core inference capabilities through chat and generate endpoints with streaming support.",
+  "source_repo": "jayluxferro/ollama-mcp",
+  "source_url": "https://github.com/jayluxferro/ollama-mcp",
+  "install": "npx -y ollama-mcp"
+}

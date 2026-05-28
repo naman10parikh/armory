@@ -1,0 +1,7 @@
+{
+  "name": "sarahan774-obsidian-dictionary",
+  "description": "Manages technical glossaries in Obsidian vaults with tools for creating, reading, updating, and searching markdown-formatted definitions.",
+  "source_repo": "sarahan774/obsidian-dictionary-mcp",
+  "source_url": "https://github.com/sarahan774/obsidian-dictionary-mcp",
+  "install": "npx -y obsidian-dictionary-mcp"
+}

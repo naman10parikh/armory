@@ -1,0 +1,7 @@
+{
+  "name": "geiserx-atlassian-browser-mcp",
+  "description": "Browser-backed MCP wrapper for mcp-atlassian with Playwright SSO auth. Enables AI tools to access Atlassian Server/Data Center instances behind corporate SSO (Okta, SAML, ADFS) where API tokens are not available.",
+  "source_repo": "GeiserX/atlassian-browser-mcp",
+  "source_url": "https://github.com/GeiserX/atlassian-browser-mcp",
+  "install": "npx -y atlassian-browser-mcp"
+}

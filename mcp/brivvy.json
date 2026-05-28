@@ -1,0 +1,7 @@
+{
+  "name": "brivvy",
+  "description": "On-brand AI content with voice rules, templates, and glossary.",
+  "source_repo": "brivvyhq/ai",
+  "source_url": "https://github.com/brivvyhq/ai",
+  "install": "# git clone --depth 1 https://github.com/brivvyhq/ai\n# See source for mcpServers config block"
+}

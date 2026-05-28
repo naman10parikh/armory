@@ -1,0 +1,7 @@
+{
+  "name": "huynhkhanh1402-dejared",
+  "description": "Explore, analyze, and decompile Java JAR files using MCP tools.",
+  "source_repo": "hqkh4nh/dejared-mcp",
+  "source_url": "https://github.com/hqkh4nh/dejared-mcp",
+  "install": "npx -y dejared-mcp"
+}

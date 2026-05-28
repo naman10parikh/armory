@@ -1,0 +1,7 @@
+{
+  "name": "lwtlong-ai-dev-analytics",
+  "description": "An open-source observability layer for AI coding. Silently tracks dev tokens/time and auto-codifies AI deviations into persistent project rules.",
+  "source_repo": "LWTlong/ai-dev-analytics",
+  "source_url": "https://github.com/LWTlong/ai-dev-analytics",
+  "install": "# git clone --depth 1 https://github.com/LWTlong/ai-dev-analytics\n# See source for mcpServers config block"
+}

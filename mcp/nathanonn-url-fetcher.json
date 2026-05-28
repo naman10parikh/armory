@@ -1,0 +1,7 @@
+{
+  "name": "nathanonn-url-fetcher",
+  "description": "Enables fetching and processing content from URLs in various formats including HTML, JSON, Markdown, and plain text, with specialized tools for each format type and automatic content type detection for web research and data retrieval tasks.",
+  "source_repo": "nathanonn/mcp-url-fetcher",
+  "source_url": "https://github.com/nathanonn/mcp-url-fetcher",
+  "install": "# git clone --depth 1 https://github.com/nathanonn/mcp-url-fetcher\n# See source for mcpServers config block"
+}

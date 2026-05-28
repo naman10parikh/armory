@@ -1,0 +1,7 @@
+{
+  "name": "mcp-webdav-server",
+  "description": "Mcp Webdav Server MCP server listed on mcp.so.",
+  "source_repo": "LaubPlusCo/mcp-webdav-server",
+  "source_url": "https://mcp.so/server/mcp-webdav-server/LaubPlusCo",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-webdav-server/LaubPlusCo\n# See source for mcpServers config block"
+}

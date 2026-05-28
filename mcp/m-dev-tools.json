@@ -1,0 +1,7 @@
+{
+  "name": "m-dev-tools",
+  "description": "Development tool discovery and verification catalog exposing route intent, describe, and verify tools for the m-dev-tools ecosystem.",
+  "source_repo": "m-dev-tools/m-dev-tools-mcp",
+  "source_url": "https://github.com/m-dev-tools/m-dev-tools-mcp",
+  "install": "npx -y m-dev-tools-mcp"
+}

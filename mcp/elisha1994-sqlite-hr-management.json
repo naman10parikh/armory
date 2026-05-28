@@ -1,0 +1,7 @@
+{
+  "name": "elisha1994-sqlite-hr-management",
+  "description": "SQLite-based HR management system that handles employee lifecycle management, organizational structure, leave tracking, salary administration, and performance monitoring with automated workflows for onboarding, leave calculations, and audit logging.",
+  "source_repo": "elisha1994/mcp-llama-sqlite-bridge",
+  "source_url": "https://github.com/elisha1994/mcp-llama-sqlite-bridge",
+  "install": "# git clone --depth 1 https://github.com/elisha1994/mcp-llama-sqlite-bridge\n# See source for mcpServers config block"
+}

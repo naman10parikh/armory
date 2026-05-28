@@ -1,0 +1,7 @@
+{
+  "name": "barhamagha1-bridge-windows-pc-control",
+  "description": "Provides universal Windows PC control through a cloud relay architecture that connects to a local agent for desktop automation, browser control, and remote assistance with safety approval systems for potentially dangerous operations.",
+  "source_repo": "barhamagha1/bridge-mcp",
+  "source_url": "https://github.com/barhamagha1/bridge-mcp",
+  "install": "npx -y bridge-mcp"
+}

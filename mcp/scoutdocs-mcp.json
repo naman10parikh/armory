@@ -1,0 +1,7 @@
+{
+  "name": "scoutdocs-mcp",
+  "description": "MCP server that fetches and searches the latest stable documentation for any package from PyPI, npm, and crates.io.",
+  "source_repo": "eshaanmathakari/scoutdocs-mcp",
+  "source_url": "https://github.com/eshaanmathakari/scoutdocs-mcp",
+  "install": "npx -y scoutdocs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ideabob",
+  "description": "AI-powered startup idea scoring, validation, and pressure-testing for developers.",
+  "source_repo": "foodyogi/ideaflow-scorer",
+  "source_url": "https://github.com/foodyogi/ideaflow-scorer",
+  "install": "# git clone --depth 1 https://github.com/foodyogi/ideaflow-scorer\n# See source for mcpServers config block"
+}

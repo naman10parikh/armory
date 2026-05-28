@@ -1,0 +1,7 @@
+{
+  "name": "er77-code-graph-rag",
+  "description": "Provides advanced code graph analysis through specialized agents for parsing, indexing, querying, and semantic search across codebases with Tree-sitter parsing for multiple languages, SQLite vector storage, and hybrid search combining structural graph traversal with semantic similarity for code review workflows, refactoring analysis, and natural language codebase understanding.",
+  "source_repo": "er77/code-graph-rag-mcp",
+  "source_url": "https://github.com/er77/code-graph-rag-mcp",
+  "install": "npx -y code-graph-rag-mcp"
+}

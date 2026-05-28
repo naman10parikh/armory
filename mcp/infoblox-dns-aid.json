@@ -1,0 +1,7 @@
+{
+  "name": "infoblox-dns-aid",
+  "description": "Discover and publish AI agents via DNS using SVCB records per RFC 9460.",
+  "source_repo": "infobloxopen/dns-aid-core",
+  "source_url": "https://github.com/infobloxopen/dns-aid-core",
+  "install": "# git clone --depth 1 https://github.com/infobloxopen/dns-aid-core\n# See source for mcpServers config block"
+}

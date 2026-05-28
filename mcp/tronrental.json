@@ -1,0 +1,7 @@
+{
+  "name": "tronrental",
+  "description": "Buy TRON energy to reduce USDT transfer fees by up to 80%.",
+  "source_repo": "tronrentalcom/tronrental-com-mcp",
+  "source_url": "https://github.com/tronrentalcom/tronrental-com-mcp",
+  "install": "npx -y tronrental-com-mcp"
+}

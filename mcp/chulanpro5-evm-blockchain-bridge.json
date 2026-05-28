@@ -1,0 +1,7 @@
+{
+  "name": "chulanpro5-evm-blockchain-bridge",
+  "description": "Provides a bridge to Ethereum Virtual Machine (EVM) compatible blockchains, enabling wallet management, blockchain data queries, and DeFi operations like token transfers and swaps through PancakeSwap integration.",
+  "source_repo": "chulanpro5/evm-mcp-server",
+  "source_url": "https://github.com/chulanpro5/evm-mcp-server",
+  "install": "npx -y evm-mcp-server"
+}

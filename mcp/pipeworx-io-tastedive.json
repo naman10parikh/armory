@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-tastedive",
+  "description": "TasteDive cross-media recommendation engine for finding similar movies, TV shows, music, books, and games via Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-tastedive",
+  "source_url": "https://github.com/pipeworx-io/mcp-tastedive",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-tastedive\n# See source for mcpServers config block"
+}

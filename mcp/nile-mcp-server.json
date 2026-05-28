@@ -1,0 +1,7 @@
+{
+  "name": "nile-mcp-server",
+  "description": "Nile Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "niledatabase/nile-mcp-server",
+  "source_url": "https://mcp.so/server/nile-mcp-server/niledatabase",
+  "install": "npx -y nile-mcp-server"
+}

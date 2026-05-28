@@ -1,0 +1,7 @@
+{
+  "name": "dune-analytics-mcp",
+  "description": "Dune Analytics Mcp MCP server listed on mcp.so.",
+  "source_repo": "kukapay/dune-analytics-mcp",
+  "source_url": "https://mcp.so/server/dune-analytics-mcp/kukapay",
+  "install": "npx -y dune-analytics-mcp"
+}

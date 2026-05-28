@@ -1,0 +1,7 @@
+{
+  "name": "figma-mcp-server-by-bao-to",
+  "description": "Enables AI agents to extract design systems, analyze components, and maintain design-code consistency from Figma files, providing intelligent component analysis and accessibility compliance.",
+  "source_repo": "tothienbao6a0/Figma-Context-MCP",
+  "source_url": "https://github.com/tothienbao6a0/Figma-Context-MCP",
+  "install": "npx -y Figma-Context-MCP"
+}

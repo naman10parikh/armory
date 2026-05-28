@@ -1,0 +1,7 @@
+{
+  "name": "liuchongchong1995-deepseek",
+  "description": "Provides a bridge between AI assistants and DeepSeek's language models, enabling chat completion with automatic model fallback and context preservation through the DeepSeek API.",
+  "source_repo": "liuchongchong1995/deepseek-mcp-server",
+  "source_url": "https://github.com/liuchongchong1995/deepseek-mcp-server",
+  "install": "npx -y deepseek-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mac2win-zip-mcp-server",
+  "description": "Creates Windows-compatible ZIP files from macOS by normalizing Unicode filenames and removing forbidden characters, ensuring seamless file sharing.",
+  "source_repo": "Wordbe/mac2win-zip-mcp",
+  "source_url": "https://github.com/Wordbe/mac2win-zip-mcp",
+  "install": "npx -y mac2win-zip-mcp"
+}

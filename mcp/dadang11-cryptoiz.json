@@ -1,0 +1,7 @@
+{
+  "name": "dadang11-cryptoiz",
+  "description": "Provides Solana DEX smart money signals including whale accumulation, divergence, and alpha scanning.",
+  "source_repo": "dadang11/cryptoiz-mcp",
+  "source_url": "https://github.com/dadang11/cryptoiz-mcp",
+  "install": "npx -y cryptoiz-mcp"
+}

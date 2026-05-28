@@ -1,0 +1,7 @@
+{
+  "name": "usamaaa824-pakistan-real-estate",
+  "description": "Searches Pakistani real estate listings across Lahore, Karachi, Islamabad, and Rawalpindi with 5 tools for property search, budget filtering, and market statistics.",
+  "source_repo": "usamaaa824/real-estate-mcp",
+  "source_url": "https://github.com/usamaaa824/real-estate-mcp",
+  "install": "npx -y real-estate-mcp"
+}

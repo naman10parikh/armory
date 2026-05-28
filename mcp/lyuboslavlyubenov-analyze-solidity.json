@@ -1,0 +1,7 @@
+{
+  "name": "lyuboslavlyubenov-analyze-solidity",
+  "description": "Analyzes Solidity smart contracts through AST parsing to trace function execution flows, variable interactions, state changes, and external contract calls for debugging and security auditing.",
+  "source_repo": "lyuboslavlyubenov/analyze-solidity-mcp",
+  "source_url": "https://github.com/lyuboslavlyubenov/analyze-solidity-mcp",
+  "install": "npx -y analyze-solidity-mcp"
+}

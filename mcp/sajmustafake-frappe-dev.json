@@ -1,0 +1,7 @@
+{
+  "name": "sajmustafake-frappe-dev",
+  "description": "Development toolkit for Frappe/ERPNext with DocType generation, bench commands, and app management",
+  "source_repo": "sajmustafake/frappe-dev-mcp-server",
+  "source_url": "https://github.com/sajmustafake/frappe-dev-mcp-server",
+  "install": "npx -y frappe-dev-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "merill-lokka",
+  "description": "Provides a bridge between Microsoft Graph API and natural language interaction, enabling conversational management of Microsoft 365 tenants without complex API calls.",
+  "source_repo": "merill/lokka",
+  "source_url": "https://github.com/merill/lokka/tree/HEAD/src/mcp",
+  "install": "# git clone --depth 1 https://github.com/merill/lokka/tree/HEAD/src/mcp\n# See source for mcpServers config block"
+}

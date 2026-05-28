@@ -1,0 +1,7 @@
+{
+  "name": "abdelstark-nostr",
+  "description": "Integrates with Nostr to enable posting notes and interacting with relays, simplifying decentralized social network engagement and content publishing.",
+  "source_repo": "abdelstark/nostr-mcp",
+  "source_url": "https://github.com/abdelstark/nostr-mcp",
+  "install": "npx -y nostr-mcp"
+}

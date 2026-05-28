@@ -1,0 +1,7 @@
+{
+  "name": "rm-rf-prod-groundtruth",
+  "description": "Live documentation fetcher and code auditor covering 363+ libraries with 100+ security and best-practice audit patterns.",
+  "source_repo": "rm-rf-prod/groundtruth-mcp",
+  "source_url": "https://github.com/rm-rf-prod/groundtruth-mcp",
+  "install": "npx -y groundtruth-mcp"
+}

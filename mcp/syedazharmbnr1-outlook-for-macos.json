@@ -1,0 +1,7 @@
+{
+  "name": "syedazharmbnr1-outlook-for-macos",
+  "description": "Integrates with Microsoft Outlook for macOS using AppleScript to enable email, calendar, and contact management operations for automated workflows and scheduling assistance.",
+  "source_repo": "syedazharmbnr1/claude-outlook-mcp",
+  "source_url": "https://github.com/syedazharmbnr1/claude-outlook-mcp",
+  "install": "npx -y claude-outlook-mcp"
+}

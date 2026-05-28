@@ -1,0 +1,7 @@
+{
+  "name": "seonglae-notion-markdown",
+  "description": "Integrates with Notion to provide markdown-based content retrieval, searching, and processing capabilities.",
+  "source_repo": "seonglae/mcp-notion",
+  "source_url": "https://github.com/seonglae/mcp-notion",
+  "install": "# git clone --depth 1 https://github.com/seonglae/mcp-notion\n# See source for mcpServers config block"
+}

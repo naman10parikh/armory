@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-imessage",
+  "description": "Reads macOS iMessage history from the local chat.db for conversation search and analysis.",
+  "source_repo": "adelaidasofia/imessage-mcp",
+  "source_url": "https://github.com/adelaidasofia/imessage-mcp",
+  "install": "npx -y imessage-mcp"
+}

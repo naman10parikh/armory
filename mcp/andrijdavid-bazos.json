@@ -1,0 +1,7 @@
+{
+  "name": "andrijdavid-bazos",
+  "description": "Searches listings, retrieves ad details, and fetches seller ratings across Czech and Slovak classified ad platforms Bazos.cz and Bazos.sk.",
+  "source_repo": "andrijdavid/bazos-mcp",
+  "source_url": "https://github.com/andrijdavid/bazos-mcp",
+  "install": "npx -y bazos-mcp"
+}

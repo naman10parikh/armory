@@ -1,0 +1,7 @@
+{
+  "name": "linear-issue-tracker",
+  "description": "Integrates with Linear's issue tracking system to enable searching, creating, and updating issues, managing comments, and retrieving team information directly through conversation interfaces.",
+  "source_repo": "zalab-inc/mcp-linear-app",
+  "source_url": "https://github.com/zalab-inc/mcp-linear-app",
+  "install": "# git clone --depth 1 https://github.com/zalab-inc/mcp-linear-app\n# See source for mcpServers config block"
+}

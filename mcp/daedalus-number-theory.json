@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-number-theory",
+  "description": "Exposes number theory functions and factorization algorithms including GCD computation and Fermat's method.",
+  "source_repo": "daedalus/mcp-number-theory",
+  "source_url": "https://github.com/daedalus/mcp-number-theory",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-number-theory\n# See source for mcpServers config block"
+}

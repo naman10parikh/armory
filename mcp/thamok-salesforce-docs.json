@@ -1,0 +1,7 @@
+{
+  "name": "thamok-salesforce-docs",
+  "description": "MCP server for semantic search over Salesforce documentation.",
+  "source_repo": "thamok/sf-docs-mcp",
+  "source_url": "https://github.com/thamok/sf-docs-mcp",
+  "install": "npx -y sf-docs-mcp"
+}

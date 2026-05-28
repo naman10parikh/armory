@@ -1,0 +1,7 @@
+{
+  "name": "tentra",
+  "description": "AI-native architecture platform MCP server for generating diagrams, detecting code drift, and scaffolding multi-framework projects.",
+  "source_repo": "rdanieli/tentra-mcp",
+  "source_url": "https://github.com/rdanieli/tentra-mcp",
+  "install": "npx -y tentra-mcp"
+}

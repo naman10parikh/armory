@@ -1,0 +1,7 @@
+{
+  "name": "kimtth-mcp-remote-call-ping-pong",
+  "description": "An experimental and educational app for Ping-pong server demonstrating remote MCP (Model Context Protocol) calls",
+  "source_repo": "kimtth/mcp-remote-call-ping-pong",
+  "source_url": "https://github.com/kimtth/mcp-remote-call-ping-pong",
+  "install": "# git clone --depth 1 https://github.com/kimtth/mcp-remote-call-ping-pong\n# See source for mcpServers config block"
+}

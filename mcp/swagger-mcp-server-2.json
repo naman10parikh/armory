@@ -1,0 +1,7 @@
+{
+  "name": "swagger-mcp-server-2",
+  "description": "Swagger Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "marcin-sucharski/swagger-mcp-server",
+  "source_url": "https://mcp.so/server/swagger-mcp-server/marcin-sucharski",
+  "install": "npx -y swagger-mcp-server"
+}

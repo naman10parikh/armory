@@ -1,0 +1,7 @@
+{
+  "name": "yanxingliu-dify",
+  "description": "Integrates with the Dify API to enable workflow execution and management for automated task processing and decision making across domains.",
+  "source_repo": "yanxingliu/dify-mcp-server",
+  "source_url": "https://github.com/yanxingliu/dify-mcp-server",
+  "install": "npx -y dify-mcp-server"
+}

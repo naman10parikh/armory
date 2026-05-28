@@ -1,0 +1,7 @@
+{
+  "name": "yincongcyincong-victoriametrics-mcp-server",
+  "description": "An MCP server for interacting with VictoriaMetrics database.",
+  "source_repo": "yincongcyincong/VictoriaMetrics-mcp-server",
+  "source_url": "https://github.com/yincongcyincong/VictoriaMetrics-mcp-server",
+  "install": "npx -y VictoriaMetrics-mcp-server"
+}

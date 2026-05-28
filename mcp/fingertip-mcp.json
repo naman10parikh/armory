@@ -1,0 +1,7 @@
+{
+  "name": "fingertip-mcp",
+  "description": "Fingertip Mcp MCP server listed on mcp.so.",
+  "source_repo": "fingertip-com/fingertip-mcp",
+  "source_url": "https://mcp.so/server/fingertip-mcp/fingertip-com",
+  "install": "npx -y fingertip-mcp"
+}

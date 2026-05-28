@@ -1,0 +1,7 @@
+{
+  "name": "uniprot-mcp",
+  "description": "Provides seamless access to UniProtKB protein data, enabling querying of protein entries, sequences, Gene Ontology annotations, and ID mappings through a typed, resilient interface.",
+  "source_repo": "fastmcp-me/uniprot-mcp",
+  "source_url": "https://github.com/fastmcp-me/uniprot-mcp",
+  "install": "npx -y uniprot-mcp"
+}

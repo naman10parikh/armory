@@ -1,0 +1,7 @@
+{
+  "name": "muse-code-space-test-genie",
+  "description": "AI-powered app test automation for iOS, Android, Flutter, React Native, and Web applications.",
+  "source_repo": "muse-code-space/test-genie-mcp",
+  "source_url": "https://github.com/muse-code-space/test-genie-mcp",
+  "install": "npx -y test-genie-mcp"
+}

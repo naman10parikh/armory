@@ -1,0 +1,7 @@
+{
+  "name": "clado-ai-linkedin",
+  "description": "Integrates with LinkedIn through Clado AI platform to provide professional data enrichment, contact discovery, profile scraping, and engagement analytics using a credit-based pricing model for sales prospecting and recruitment workflows.",
+  "source_repo": "freesolo-co/search-mcp",
+  "source_url": "https://github.com/freesolo-co/search-mcp",
+  "install": "npx -y search-mcp"
+}

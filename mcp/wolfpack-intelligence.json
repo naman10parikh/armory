@@ -1,0 +1,7 @@
+{
+  "name": "wolfpack-intelligence",
+  "description": "On-chain security and intelligence MCP server for Base chain trading agents. 4 tools: token risk analysis (GoPlus + DexScreener + Dune), fast security check, narrative momentum scoring, and agent trust ratings. All tools return structured JSON with 0-100 scores.",
+  "source_repo": "",
+  "source_url": "https://wolfpack-production.up.railway.app",
+  "install": "# git clone --depth 1 https://wolfpack-production.up.railway.app\n# See source for mcpServers config block"
+}

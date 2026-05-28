@@ -1,0 +1,7 @@
+{
+  "name": "unitrends-mcp",
+  "description": "MCP server for Unitrends Backup — appliances, jobs, recovery points, replication, alerts",
+  "source_repo": "wyre-technology/unitrends-mcp",
+  "source_url": "https://github.com/wyre-technology/unitrends-mcp",
+  "install": "npx -y unitrends-mcp"
+}

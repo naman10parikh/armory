@@ -1,0 +1,7 @@
+{
+  "name": "langfuse-mcp-server",
+  "description": "Model Context Protocol server for Langfuse observability. Query traces, analyze accuracy, detect failures, track costs, debug latency, manage prompts and datasets.",
+  "source_repo": "DrishtantKaushal/LangfuseMCP",
+  "source_url": "https://github.com/DrishtantKaushal/LangfuseMCP",
+  "install": "# git clone --depth 1 https://github.com/DrishtantKaushal/LangfuseMCP\n# See source for mcpServers config block"
+}

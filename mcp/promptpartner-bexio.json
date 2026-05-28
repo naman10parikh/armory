@@ -1,0 +1,7 @@
+{
+  "name": "promptpartner-bexio",
+  "description": "Manage Bexio business software resources including contacts, projects, invoices, and time tracking.",
+  "source_repo": "promptpartner/bexio-mcp-server",
+  "source_url": "https://github.com/promptpartner/bexio-mcp-server",
+  "install": "npx -y bexio-mcp-server"
+}

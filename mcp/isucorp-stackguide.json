@@ -1,0 +1,7 @@
+{
+  "name": "isucorp-stackguide",
+  "description": "Dynamic context loading for AI assistants with TDD workflow and AST analysis.",
+  "source_repo": "isucorp-taimiralain/stackguide-mcp",
+  "source_url": "https://github.com/isucorp-taimiralain/stackguide-mcp",
+  "install": "npx -y stackguide-mcp"
+}

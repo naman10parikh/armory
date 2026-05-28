@@ -1,0 +1,7 @@
+{
+  "name": "allglenn-name-origin-predictor",
+  "description": "Predicts the national origin of names using the Nationalize.io API, offering both individual and batch processing with probability scores for demographic analysis and cultural research.",
+  "source_repo": "allglenn/mcp-name-origin-server",
+  "source_url": "https://github.com/allglenn/mcp-name-origin-server",
+  "install": "# git clone --depth 1 https://github.com/allglenn/mcp-name-origin-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bhmortim-hazelcast",
+  "description": "Provides full access to Hazelcast distributed data structures including maps, queues, lists, sets, topics, atomic counters, ringbuffers, vector collections, and SQL queries.",
+  "source_repo": "bhmortim/hazelcast-mcp",
+  "source_url": "https://github.com/bhmortim/hazelcast-mcp",
+  "install": "npx -y hazelcast-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apex-500-deploy",
+  "description": "Deploy websites and apps to Vercel and Netlify from AI agents.",
+  "source_repo": "apex-500/deploy-mcp-server",
+  "source_url": "https://github.com/apex-500/deploy-mcp-server",
+  "install": "npx -y deploy-mcp-server"
+}

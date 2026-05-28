@@ -1,0 +1,7 @@
+{
+  "name": "bengineer19-digikey",
+  "description": "Integrates with DigiKey's Product Search API to enable electronic component discovery, detailed specifications retrieval, pricing information, product substitution finding, and datasheet access for electronics engineers and procurement teams.",
+  "source_repo": "bengineer19/digikey_mcp",
+  "source_url": "https://github.com/bengineer19/digikey_mcp",
+  "install": "npx -y digikey_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "avisangle-calculator-server",
+  "description": "A comprehensive Go-based MCP server for mathematical computations, implementing 13 mathematical tools across basic arithmetic, advanced functions, statistical analysis, unit conversions, and financial calculations.",
+  "source_repo": "avisangle/calculator-server",
+  "source_url": "https://github.com/avisangle/calculator-server",
+  "install": "# git clone --depth 1 https://github.com/avisangle/calculator-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "personal-finance-mcp",
+  "description": "Integrates Korean personal finance data (MyData) with AI models via the Codef API.",
+  "source_repo": "gunyu1019/personal_finance_mcp",
+  "source_url": "https://github.com/gunyu1019/personal_finance_mcp",
+  "install": "npx -y personal_finance_mcp"
+}

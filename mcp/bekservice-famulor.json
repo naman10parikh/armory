@@ -1,0 +1,7 @@
+{
+  "name": "bekservice-famulor",
+  "description": "Voice agent platform for phone calling, assistant configuration, campaign management, SMS messaging, and mid-call tool execution for automated voice interactions.",
+  "source_repo": "bekservice/famulor-mcp",
+  "source_url": "https://github.com/bekservice/famulor-mcp",
+  "install": "npx -y famulor-mcp"
+}

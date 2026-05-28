@@ -1,0 +1,7 @@
+{
+  "name": "letzai",
+  "description": "Integrates with LetzAI to enable image generation and upscaling through natural language commands with customizable parameters like dimensions, quality, and creativity.",
+  "source_repo": "letz-ai/letzai-mcp",
+  "source_url": "https://github.com/letz-ai/letzai-mcp",
+  "install": "npx -y letzai-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crindo2-gph",
+  "description": "Finds and matches healthcare service vendors for medical practices from a database of 100,000+ verified providers.",
+  "source_repo": "crindo2/gph-mcp-server",
+  "source_url": "https://github.com/crindo2/gph-mcp-server",
+  "install": "npx -y gph-mcp-server"
+}

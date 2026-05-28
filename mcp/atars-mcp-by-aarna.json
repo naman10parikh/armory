@@ -1,0 +1,7 @@
+{
+  "name": "atars-mcp-by-aarna",
+  "description": "aTars MCP by aarna provides AI agents with structured access to crypto market signals, technical indicators, and sentiment analysis. The server exposes 18 tools across technical and sentiment categories, enabling agents to query market intelligence directly through MCP-compatible workflows. Capabili",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/atars-MCP/aarnaai",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/atars-MCP/aarnaai\n# See source for mcpServers config block"
+}

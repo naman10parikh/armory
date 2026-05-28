@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-axiom",
+  "description": "Mcp Server Axiom MCP server listed on mcp.so.",
+  "source_repo": "zed-extensions/mcp-server-axiom",
+  "source_url": "https://mcp.so/server/mcp-server-axiom/zed-extensions",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-axiom/zed-extensions\n# See source for mcpServers config block"
+}

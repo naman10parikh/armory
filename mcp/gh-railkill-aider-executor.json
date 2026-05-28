@@ -1,0 +1,7 @@
+{
+  "name": "gh-railkill-aider-executor",
+  "description": "Enables LLM agents to launch and monitor Aider code editing sessions as background processes with configurable file access permissions.",
+  "source_repo": "railkill/mcp-aider-executor",
+  "source_url": "https://github.com/railkill/mcp-aider-executor",
+  "install": "# git clone --depth 1 https://github.com/railkill/mcp-aider-executor\n# See source for mcpServers config block"
+}

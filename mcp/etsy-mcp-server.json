@@ -1,0 +1,7 @@
+{
+  "name": "etsy-mcp-server",
+  "description": "An MCP server for interacting with the Etsy API, enabling listing management, shop information, shipping profiles, and image uploads.",
+  "source_repo": "georgejeffers/etsy-mcp-server",
+  "source_url": "https://github.com/georgejeffers/etsy-mcp-server",
+  "install": "npx -y etsy-mcp-server"
+}

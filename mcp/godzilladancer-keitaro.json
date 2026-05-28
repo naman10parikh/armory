@@ -1,0 +1,7 @@
+{
+  "name": "godzilladancer-keitaro",
+  "description": "Integration with Keitaro TDS API, providing tools to work with campaigns, streams, offers, and other Keitaro entities.",
+  "source_repo": "godzilladancer/keitaro-mcp",
+  "source_url": "https://github.com/godzilladancer/keitaro-mcp",
+  "install": "npx -y keitaro-mcp"
+}

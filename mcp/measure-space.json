@@ -1,0 +1,7 @@
+{
+  "name": "measure-space",
+  "description": "Weather, climate, air quality, agriculture, pollen, and geocoding forecast services.",
+  "source_repo": "measurespace/measure-space-mcp-server",
+  "source_url": "https://github.com/measurespace/measure-space-mcp-server",
+  "install": "npx -y measure-space-mcp-server"
+}

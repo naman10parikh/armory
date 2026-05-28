@@ -1,0 +1,7 @@
+{
+  "name": "elixir-mcp-server",
+  "description": "Elixir_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "epinault/elixir_mcp_server",
+  "source_url": "https://mcp.so/server/elixir_mcp_server/epinault",
+  "install": "npx -y elixir_mcp_server"
+}

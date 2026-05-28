@@ -1,0 +1,7 @@
+{
+  "name": "platfone",
+  "description": "Virtual phone numbers for AI agents — rent numbers in 200+ countries and receive SMS programmatically.",
+  "source_repo": "platfone-com/mcp",
+  "source_url": "https://github.com/platfone-com/mcp",
+  "install": "# git clone --depth 1 https://github.com/platfone-com/mcp\n# See source for mcpServers config block"
+}

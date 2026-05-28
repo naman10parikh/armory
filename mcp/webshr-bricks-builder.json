@@ -1,0 +1,7 @@
+{
+  "name": "webshr-bricks-builder",
+  "description": "Programmatically manage WordPress Bricks Builder pages, templates, and elements through natural language commands.",
+  "source_repo": "webshr/bricks-builder-mcp",
+  "source_url": "https://github.com/webshr/bricks-builder-mcp",
+  "install": "npx -y bricks-builder-mcp"
+}

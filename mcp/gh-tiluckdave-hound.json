@@ -1,0 +1,7 @@
+{
+  "name": "gh-tiluckdave-hound",
+  "description": "Scans packages for vulnerabilities, checks licenses, inspects dependency trees, and detects typosquatting using free public APIs with zero configuration.",
+  "source_repo": "tiluckdave/hound-mcp",
+  "source_url": "https://github.com/tiluckdave/hound-mcp",
+  "install": "npx -y hound-mcp"
+}

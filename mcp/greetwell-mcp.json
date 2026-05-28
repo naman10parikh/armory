@@ -1,0 +1,7 @@
+{
+  "name": "greetwell-mcp",
+  "description": "Digital greeting card creation and delivery platform with templates and customization.",
+  "source_repo": "",
+  "source_url": "https://mcp.greetwell.com/mcp",
+  "install": "# git clone --depth 1 https://mcp.greetwell.com/mcp\n# See source for mcpServers config block"
+}

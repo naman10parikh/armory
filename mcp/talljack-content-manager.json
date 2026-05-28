@@ -1,0 +1,7 @@
+{
+  "name": "talljack-content-manager",
+  "description": "Provides content management capabilities for markdown files with fuzzy and exact search through Fuse.js, frontmatter parsing, HTML rendering, and ten core tools including note searching, tag filtering, date range queries, table of contents generation, and directory statistics for building documentation systems and knowledge base applications.",
+  "source_repo": "talljack/content-manager-mcp",
+  "source_url": "https://github.com/talljack/content-manager-mcp",
+  "install": "npx -y content-manager-mcp"
+}

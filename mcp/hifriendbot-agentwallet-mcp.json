@@ -1,0 +1,7 @@
+{
+  "name": "hifriendbot-agentwallet-mcp",
+  "description": "Permissionless wallet infrastructure for AI agents. 29 tools for wallet creation, transaction signing, token transfers, and x402 payments across all EVM chains and Solana. No KYC, no API keys — agents pay with USDC.",
+  "source_repo": "hifriendbot/agentwallet-mcp",
+  "source_url": "https://github.com/hifriendbot/agentwallet-mcp",
+  "install": "npx -y agentwallet-mcp"
+}

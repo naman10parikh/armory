@@ -1,0 +1,7 @@
+{
+  "name": "aegis-gov-contracts-mcp",
+  "description": "Search and analyze U.S. federal government contracts and opportunities from SAM.gov. Tools for keyword search, contract details, competitive analysis, and capability statement drafting — built for AI agents via x402 USDC micropayments.",
+  "source_repo": "AEGISGOVDAO/aegisgov-contracts-mcp",
+  "source_url": "https://github.com/AEGISGOVDAO/aegisgov-contracts-mcp",
+  "install": "npx -y aegisgov-contracts-mcp"
+}

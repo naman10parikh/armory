@@ -1,0 +1,7 @@
+{
+  "name": "listenetic",
+  "description": "Provides a unified API for uploading and managing diverse content types including text, audio, images, and markup formats to the Listenetic platform with Bearer token authentication and specialized handling for SSML and markdown content.",
+  "source_repo": "",
+  "source_url": "https://app.listenetic.com/mcp",
+  "install": "# git clone --depth 1 https://app.listenetic.com/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "roo-logger",
+  "description": "Roo Logger MCP server listed on mcp.so.",
+  "source_repo": "annenpolka/roo-logger",
+  "source_url": "https://mcp.so/server/roo-logger/annenpolka",
+  "install": "# git clone --depth 1 https://mcp.so/server/roo-logger/annenpolka\n# See source for mcpServers config block"
+}

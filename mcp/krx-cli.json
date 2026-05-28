@@ -1,0 +1,7 @@
+{
+  "name": "krx-cli",
+  "description": "Enables AI agents to query real-time and historical Korean stock market data from KRX (Korea Exchange) including indices, stocks, ETFs, bonds, derivatives, and commodities via MCP tools and resources.",
+  "source_repo": "kyo504/krx-cli",
+  "source_url": "https://github.com/kyo504/krx-cli",
+  "install": "# git clone --depth 1 https://github.com/kyo504/krx-cli\n# See source for mcpServers config block"
+}

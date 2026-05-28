@@ -1,0 +1,7 @@
+{
+  "name": "ryaker-appstore-connect",
+  "description": "Manage iOS and macOS apps, TestFlight, and app metadata through Apple Store Connect API",
+  "source_repo": "ryaker/appstore-connect-mcp",
+  "source_url": "https://github.com/ryaker/appstore-connect-mcp",
+  "install": "npx -y appstore-connect-mcp"
+}

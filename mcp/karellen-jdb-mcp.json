@@ -1,0 +1,7 @@
+{
+  "name": "karellen-jdb-mcp",
+  "description": "Enables LLMs to debug Java applications using JDB, supporting breakpoints, stepping, expression evaluation, thread analysis, and more.",
+  "source_repo": "karellen/karellen-jdb-mcp",
+  "source_url": "https://github.com/karellen/karellen-jdb-mcp",
+  "install": "npx -y karellen-jdb-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "netdisk-mcp-server",
+  "description": "MCP server for cloud storage operations enabling browsing, file transfer, offline download, and multi-platform resource search for Quark and 115 drives.",
+  "source_repo": "ptbsare/netdisk-mcp-server",
+  "source_url": "https://github.com/ptbsare/netdisk-mcp-server",
+  "install": "npx -y netdisk-mcp-server"
+}

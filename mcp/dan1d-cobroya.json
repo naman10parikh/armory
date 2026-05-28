@@ -1,0 +1,7 @@
+{
+  "name": "dan1d-cobroya",
+  "description": "Mercado Pago payments for AI agents — create payment links, search payments, and issue refunds. Built for LATAM merchants.",
+  "source_repo": "dan1d/mercadopago-tool",
+  "source_url": "https://github.com/dan1d/mercadopago-tool",
+  "install": "# git clone --depth 1 https://github.com/dan1d/mercadopago-tool\n# See source for mcpServers config block"
+}

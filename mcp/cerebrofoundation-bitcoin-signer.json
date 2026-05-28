@@ -1,0 +1,7 @@
+{
+  "name": "cerebrofoundation-bitcoin-signer",
+  "description": "Enables Bitcoin address generation and transaction signing using private keys in WIF format and partially signed Bitcoin transactions (PSBTs) through secure cryptographic operations.",
+  "source_repo": "cerebrofoundation/mcp-intent",
+  "source_url": "https://github.com/cerebrofoundation/mcp-intent",
+  "install": "# git clone --depth 1 https://github.com/cerebrofoundation/mcp-intent\n# See source for mcpServers config block"
+}

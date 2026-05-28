@@ -1,0 +1,7 @@
+{
+  "name": "index01d-youtube-transcript",
+  "description": "Integrates with YouTube's transcript functionality to fetch and analyze video content, enabling applications like summarization, keyword extraction, and sentiment analysis.",
+  "source_repo": "index01d/ytrnscrpt-mcp-server",
+  "source_url": "https://github.com/index01d/ytrnscrpt-mcp-server",
+  "install": "npx -y ytrnscrpt-mcp-server"
+}

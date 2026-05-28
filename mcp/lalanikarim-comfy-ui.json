@@ -1,0 +1,7 @@
+{
+  "name": "lalanikarim-comfy-ui",
+  "description": "Integrates with ComfyUI to enable natural language-driven image generation using customizable Stable Diffusion workflows",
+  "source_repo": "lalanikarim/comfy-mcp-pipeline",
+  "source_url": "https://github.com/lalanikarim/comfy-mcp-pipeline",
+  "install": "# git clone --depth 1 https://github.com/lalanikarim/comfy-mcp-pipeline\n# See source for mcpServers config block"
+}

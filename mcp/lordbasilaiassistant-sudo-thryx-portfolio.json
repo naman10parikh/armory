@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-thryx-portfolio",
+  "description": "Read-only access to the THRYX onchain portfolio — 14 smart contracts deployed on Base mainnet.",
+  "source_repo": "lordbasilaiassistant-sudo/thryx-portfolio-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/thryx-portfolio-mcp",
+  "install": "npx -y thryx-portfolio-mcp"
+}

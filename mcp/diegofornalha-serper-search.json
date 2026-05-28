@@ -1,0 +1,7 @@
+{
+  "name": "diegofornalha-serper-search",
+  "description": "Integrates with the Serper API to provide web search capabilities including web, news, images, shopping, and YouTube searches for real-time information retrieval and content research.",
+  "source_repo": "diegofornalha/mcp-server-serper",
+  "source_url": "https://github.com/diegofornalha/mcp-server-serper",
+  "install": "# git clone --depth 1 https://github.com/diegofornalha/mcp-server-serper\n# See source for mcpServers config block"
+}

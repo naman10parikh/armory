@@ -1,0 +1,7 @@
+{
+  "name": "dynamic-mcp-server",
+  "description": "A flexible, extensible framework for building MCP servers with API key authentication, user management, and dynamic tool sharing.",
+  "source_repo": "scitara-cto/dynamic-mcp-server",
+  "source_url": "https://github.com/scitara-cto/dynamic-mcp-server",
+  "install": "npx -y dynamic-mcp-server"
+}

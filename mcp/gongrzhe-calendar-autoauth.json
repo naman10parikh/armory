@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-calendar-autoauth",
+  "description": "Integrates with Google Calendar to enable natural language management of events, appointments, and schedules.",
+  "source_repo": "gongrzhe/calendar-autoauth-mcp-server",
+  "source_url": "https://github.com/gongrzhe/calendar-autoauth-mcp-server",
+  "install": "npx -y calendar-autoauth-mcp-server"
+}

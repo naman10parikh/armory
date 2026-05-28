@@ -1,0 +1,7 @@
+{
+  "name": "myrouteonline",
+  "description": "Multi-stop route optimization, navigation links, and email delivery for logistics workflows.",
+  "source_repo": "",
+  "source_url": "https://planner.myrouteonline.com/ws_api_ai/mcp",
+  "install": "# git clone --depth 1 https://planner.myrouteonline.com/ws_api_ai/mcp\n# See source for mcpServers config block"
+}

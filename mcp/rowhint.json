@@ -1,0 +1,7 @@
+{
+  "name": "rowhint",
+  "description": "# RowHint MCP Server Airline seat quality intelligence via MCP. Per-seat quality scores (1-10) with plain-English notes for **66+ aircraft configurations** across 10 US airlines. Every score is hand-verified against live airline seat maps. ## Setup Add to your Claude Desktop config: ```json { \"mcpSe",
+  "source_repo": "",
+  "source_url": "https://rowhint.com/",
+  "install": "# git clone --depth 1 https://rowhint.com/\n# See source for mcpServers config block"
+}

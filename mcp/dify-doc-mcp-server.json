@@ -1,0 +1,7 @@
+{
+  "name": "dify-doc-mcp-server",
+  "description": "An MCP server that integrates Dify knowledge bases, enabling AI assistants to retrieve and search content from Dify via tools like list datasets, get dataset details, and knowledge retrieval.",
+  "source_repo": "shellus/difydocmcpserver",
+  "source_url": "https://github.com/shellus/difydocmcpserver",
+  "install": "# git clone --depth 1 https://github.com/shellus/difydocmcpserver\n# See source for mcpServers config block"
+}

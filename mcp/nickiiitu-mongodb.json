@@ -1,0 +1,7 @@
+{
+  "name": "nickiiitu-mongodb",
+  "description": "Integrates with MongoDB databases to enable querying, inserting, and updating documents for data analysis, content management, or automated database operations.",
+  "source_repo": "nickiiitu/mongodb-model-context-protocol-mcp-",
+  "source_url": "https://github.com/nickiiitu/mongodb-model-context-protocol-mcp-",
+  "install": "# git clone --depth 1 https://github.com/nickiiitu/mongodb-model-context-protocol-mcp-\n# See source for mcpServers config block"
+}

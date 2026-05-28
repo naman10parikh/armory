@@ -1,0 +1,7 @@
+{
+  "name": "firegex-mcp",
+  "description": "MCP server that exposes Firegex — a CTF regex/proxy firewall — to LLM tooling like Claude Desktop or Claude Code.",
+  "source_repo": "umbra2728/firegex-mcp",
+  "source_url": "https://github.com/umbra2728/firegex-mcp",
+  "install": "npx -y firegex-mcp"
+}

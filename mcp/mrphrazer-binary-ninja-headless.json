@@ -1,0 +1,7 @@
+{
+  "name": "mrphrazer-binary-ninja-headless",
+  "description": "Exposes Binary Ninja's disassembly, decompilation, and analysis capabilities through 181 tools for headless reverse engineering workflows.",
+  "source_repo": "mrphrazer/binary-ninja-headless-mcp",
+  "source_url": "https://github.com/mrphrazer/binary-ninja-headless-mcp",
+  "install": "npx -y binary-ninja-headless-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "curlymolelabs-supericons",
+  "description": "Semantic SVG icon search and recommendations for AI coding agents.",
+  "source_repo": "curlymolelabs/supericons",
+  "source_url": "https://github.com/curlymolelabs/supericons",
+  "install": "# git clone --depth 1 https://github.com/curlymolelabs/supericons\n# See source for mcpServers config block"
+}

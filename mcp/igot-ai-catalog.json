@@ -1,0 +1,7 @@
+{
+  "name": "igot-ai-catalog",
+  "description": "Integrates with Catalog's data management platform at studio.igot.ai for natural language operations across data catalog discovery, master data management, and automated transformation workflows.",
+  "source_repo": "igot-ai/datalog-studio",
+  "source_url": "https://github.com/igot-ai/datalog-studio",
+  "install": "# git clone --depth 1 https://github.com/igot-ai/datalog-studio\n# See source for mcpServers config block"
+}

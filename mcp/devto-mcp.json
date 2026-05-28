@@ -1,0 +1,7 @@
+{
+  "name": "devto-mcp",
+  "description": "A work management MCP server for Claude Code that integrates with Jira Cloud to handle sprints, tickets, and project tracking via natural language.",
+  "source_repo": "DevTo-AI/devto-mcp",
+  "source_url": "https://github.com/DevTo-AI/devto-mcp",
+  "install": "npx -y devto-mcp"
+}

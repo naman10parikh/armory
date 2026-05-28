@@ -1,0 +1,7 @@
+{
+  "name": "meigen-ai-design-mcp",
+  "description": "A local MCP server for AI image generation using ComfyUI, Claude Code, and OpenClaw, with a built-in library of over 1,300 prompts for private, fast image creation.",
+  "source_repo": "HUANGcvs/MeiGen-AI-Design-MCP",
+  "source_url": "https://github.com/HUANGcvs/MeiGen-AI-Design-MCP",
+  "install": "npx -y MeiGen-AI-Design-MCP"
+}

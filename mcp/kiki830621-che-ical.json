@@ -1,0 +1,7 @@
+{
+  "name": "kiki830621-che-ical",
+  "description": "Manages macOS Calendar events and Reminders using native Swift EventKit, supporting iCloud, Google, Exchange, and CalDAV accounts.",
+  "source_repo": "psychquant/che-ical-mcp",
+  "source_url": "https://github.com/psychquant/che-ical-mcp",
+  "install": "npx -y che-ical-mcp"
+}

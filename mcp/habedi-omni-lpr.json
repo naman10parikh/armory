@@ -1,0 +1,7 @@
+{
+  "name": "habedi-omni-lpr",
+  "description": "Self-hostable automatic license plate recognition",
+  "source_repo": "habedi/omni-lpr",
+  "source_url": "https://github.com/habedi/omni-lpr",
+  "install": "# git clone --depth 1 https://github.com/habedi/omni-lpr\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hiromitsusasaki-raindrop-io-bookmarks",
+  "description": "Integrates with Raindrop.io API to enable creating, searching, and managing bookmarks with features like tag filtering.",
+  "source_repo": "hiromitsusasaki/raindrop-io-mcp-server",
+  "source_url": "https://github.com/hiromitsusasaki/raindrop-io-mcp-server",
+  "install": "npx -y raindrop-io-mcp-server"
+}

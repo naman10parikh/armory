@@ -1,0 +1,7 @@
+{
+  "name": "isaacwars-search-citation",
+  "description": "Academic paper search and citation management with 9 tools spanning OpenAlex, Semantic Scholar, Crossref, arXiv, and Unpaywall.",
+  "source_repo": "isaacwars/search-citation-mcp",
+  "source_url": "https://github.com/isaacwars/search-citation-mcp",
+  "install": "npx -y search-citation-mcp"
+}

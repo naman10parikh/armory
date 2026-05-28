@@ -1,0 +1,7 @@
+{
+  "name": "gh-cogitatortech-omni-nli",
+  "description": "Natural language inference engine for textual entailment, contradiction, and neutral relationship detection.",
+  "source_repo": "cogitatortech/omni-nli",
+  "source_url": "https://github.com/cogitatortech/omni-nli",
+  "install": "# git clone --depth 1 https://github.com/cogitatortech/omni-nli\n# See source for mcpServers config block"
+}

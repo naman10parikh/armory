@@ -1,0 +1,7 @@
+{
+  "name": "houtini-lm",
+  "description": "Provides expert prompt engineering capabilities through LM Studio integration, featuring 35+ specialized functions for code analysis, generation, security audits, documentation creation, and creative tasks with intelligent context window management and caching optimization.",
+  "source_repo": "houtini-ai/houtini-lm",
+  "source_url": "https://github.com/houtini-ai/houtini-lm",
+  "install": "# git clone --depth 1 https://github.com/houtini-ai/houtini-lm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "epublys",
+  "description": "EPUB and PDF toolkit for merging, splitting, compressing, converting, editing metadata, and validating ebook files.",
+  "source_repo": "",
+  "source_url": "https://epublys.com",
+  "install": "# git clone --depth 1 https://epublys.com\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "geli2001-datadog",
+  "description": "Integrates with Datadog monitoring platform to provide access to metrics, logs, dashboards, monitors, and incidents for DevOps and SRE workflows",
+  "source_repo": "geli2001/datadog-mcp-server",
+  "source_url": "https://github.com/geli2001/datadog-mcp-server",
+  "install": "npx -y datadog-mcp-server"
+}

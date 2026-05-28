@@ -1,0 +1,7 @@
+{
+  "name": "lan99mu-confluence-markdown-sync",
+  "description": "Bidirectional sync between Confluence pages and local Markdown files with 3 tools and a resource endpoint.",
+  "source_repo": "lan99mu/confluence-markdown-mcp",
+  "source_url": "https://github.com/lan99mu/confluence-markdown-mcp",
+  "install": "npx -y confluence-markdown-mcp"
+}

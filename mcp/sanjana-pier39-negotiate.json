@@ -1,0 +1,7 @@
+{
+  "name": "sanjana-pier39-negotiate",
+  "description": "Enables AI agents to negotiate prices at any negotiate.v1 store.",
+  "source_repo": "sanjana-pier39/negotiate-mcp",
+  "source_url": "https://github.com/sanjana-pier39/negotiate-mcp",
+  "install": "npx -y negotiate-mcp"
+}

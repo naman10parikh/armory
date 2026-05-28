@@ -1,0 +1,7 @@
+{
+  "name": "gh-tejzpr-smriti",
+  "description": "Graph-based AI memory system using EcphoryRAG retrieval and Leiden clustering for persistent, human-like memory recall.",
+  "source_repo": "tejzpr/smriti-mcp",
+  "source_url": "https://github.com/tejzpr/smriti-mcp",
+  "install": "npx -y smriti-mcp"
+}

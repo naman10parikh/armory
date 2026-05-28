@@ -1,0 +1,7 @@
+{
+  "name": "citare",
+  "description": "AI search intelligence + Ahrefs-class SEO suite as 59 MCP tools. Track your brand across ChatGPT, Google AI Overview, Gemini, Claude, and Perplexity with persona-anchored Brand Radar dispatches.",
+  "source_repo": "ravirdp/citare-mcp",
+  "source_url": "https://github.com/ravirdp/citare-mcp",
+  "install": "npx -y citare-mcp"
+}

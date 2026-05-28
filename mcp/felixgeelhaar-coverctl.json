@@ -1,0 +1,7 @@
+{
+  "name": "felixgeelhaar-coverctl",
+  "description": "Provides domain-aware test coverage enforcement for Go projects.",
+  "source_repo": "felixgeelhaar/coverctl",
+  "source_url": "https://github.com/felixgeelhaar/coverctl",
+  "install": "# git clone --depth 1 https://github.com/felixgeelhaar/coverctl\n# See source for mcpServers config block"
+}

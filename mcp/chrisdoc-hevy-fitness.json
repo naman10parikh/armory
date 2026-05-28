@@ -1,0 +1,7 @@
+{
+  "name": "chrisdoc-hevy-fitness",
+  "description": "Integrates with the Hevy Fitness API to enable workout tracking, routine management, exercise template searching, and webhook notifications for comprehensive fitness data access and modification.",
+  "source_repo": "chrisdoc/hevy-mcp",
+  "source_url": "https://github.com/chrisdoc/hevy-mcp",
+  "install": "npx -y hevy-mcp"
+}

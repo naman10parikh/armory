@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-rss2json",
+  "description": "rss2json RSS and Atom feed converter: fetch any public feed as structured JSON data.",
+  "source_repo": "pipeworx-io/mcp-rss2json",
+  "source_url": "https://github.com/pipeworx-io/mcp-rss2json",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-rss2json\n# See source for mcpServers config block"
+}

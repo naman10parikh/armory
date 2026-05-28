@@ -1,0 +1,7 @@
+{
+  "name": "wrlu-jadx-daemon",
+  "description": "Provides Android APK and DEX file decompilation through jadx library, enabling extraction of AndroidManifest.xml content, decompiled Java code, smali bytecode, class hierarchies, method signatures, and caller relationships for malware analysis, reverse engineering, and security research workflows.",
+  "source_repo": "wrlu/jadx-daemon-mcp",
+  "source_url": "https://github.com/wrlu/jadx-daemon-mcp",
+  "install": "npx -y jadx-daemon-mcp"
+}

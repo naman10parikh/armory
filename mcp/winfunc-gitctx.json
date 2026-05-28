@@ -1,0 +1,7 @@
+{
+  "name": "winfunc-gitctx",
+  "description": "Provides GitHub repository context and code navigation tools including file tree exploration, code search, blame information, diff viewing, and commit history browsing.",
+  "source_repo": "winfunc/gitctx",
+  "source_url": "https://github.com/winfunc/gitctx",
+  "install": "# git clone --depth 1 https://github.com/winfunc/gitctx\n# See source for mcpServers config block"
+}

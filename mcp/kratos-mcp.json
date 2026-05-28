@@ -1,0 +1,7 @@
+{
+  "name": "kratos-mcp",
+  "description": "Ultra-lean memory system for AI coding tools that stores project knowledge locally with SQLite and enables AI to remember your project across sessions.",
+  "source_repo": "ceorkm/kratos-mcp",
+  "source_url": "https://github.com/ceorkm/kratos-mcp",
+  "install": "npx -y kratos-mcp"
+}

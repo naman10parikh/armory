@@ -1,0 +1,7 @@
+{
+  "name": "hubblevision-solana",
+  "description": "Provides a bridge to Solana blockchain data through natural language queries, enabling analytics searches, chart generation, and image downloads for visualizing transaction patterns, price movements, and token distributions.",
+  "source_repo": "hubblevision/hubble-ai-mcp",
+  "source_url": "https://github.com/hubblevision/hubble-ai-mcp",
+  "install": "npx -y hubble-ai-mcp"
+}

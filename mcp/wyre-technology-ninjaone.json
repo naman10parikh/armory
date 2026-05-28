@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-ninjaone",
+  "description": "Connects AI assistants to NinjaOne device management with tools for managing devices, organizations, alerts, and service tickets.",
+  "source_repo": "wyre-technology/ninjaone-mcp",
+  "source_url": "https://github.com/wyre-technology/ninjaone-mcp",
+  "install": "npx -y ninjaone-mcp"
+}

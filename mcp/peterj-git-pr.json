@@ -1,0 +1,7 @@
+{
+  "name": "peterj-git-pr",
+  "description": "Provides Git repository management and GitHub pull request automation through dual workflows for analyzing existing repositories and creating complete PR workflows with temporary repository management, branch creation, file operations, and automated cleanup.",
+  "source_repo": "peterj/git-pr-mcp",
+  "source_url": "https://github.com/peterj/git-pr-mcp",
+  "install": "npx -y git-pr-mcp"
+}

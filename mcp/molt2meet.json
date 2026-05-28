@@ -1,0 +1,7 @@
+{
+  "name": "molt2meet",
+  "description": "Dispatches real-world physical tasks from AI agents to a verified human operator network with proof and escrow.",
+  "source_repo": "molt2meet-org/examples",
+  "source_url": "https://github.com/molt2meet-org/examples",
+  "install": "# git clone --depth 1 https://github.com/molt2meet-org/examples\n# See source for mcpServers config block"
+}

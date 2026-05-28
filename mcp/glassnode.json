@@ -1,0 +1,7 @@
+{
+  "name": "glassnode",
+  "description": "Access institutional-grade on-chain cryptocurrency metrics and market data for Bitcoin, Ethereum, and DeFi. Compare multiple assets efficiently through bulk data fetching and comprehensive market analysis. Stay informed with professional research articles and detailed market intelligence directly fr",
+  "source_repo": "",
+  "source_url": "https://docs.glassnode.com/guides-and-tutorials/glassnode-mcp-server",
+  "install": "# git clone --depth 1 https://docs.glassnode.com/guides-and-tutorials/glassnode-mcp-server\n# See source for mcpServers config block"
+}

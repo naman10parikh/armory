@@ -1,0 +1,7 @@
+{
+  "name": "lucianotonet-laravel-telescope",
+  "description": "Extends Laravel Telescope by exposing application telemetry data for natural language querying of logs, slow queries, HTTP requests, exceptions, and jobs directly within your coding environment.",
+  "source_repo": "lucianotonet/laravel-telescope-mcp",
+  "source_url": "https://github.com/lucianotonet/laravel-telescope-mcp",
+  "install": "npx -y laravel-telescope-mcp"
+}

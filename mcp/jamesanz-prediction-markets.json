@@ -1,0 +1,7 @@
+{
+  "name": "jamesanz-prediction-markets",
+  "description": "Integrates with Polymarket, PredictIt, and Kalshi to provide real-time prediction market data with calculated odds, contract pricing, and event filtering for market analysis and trading research applications.",
+  "source_repo": "jamesanz/prediction-market-mcp",
+  "source_url": "https://github.com/jamesanz/prediction-market-mcp",
+  "install": "npx -y prediction-market-mcp"
+}

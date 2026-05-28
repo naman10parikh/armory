@@ -1,0 +1,7 @@
+{
+  "name": "subdownload",
+  "description": "MCP server for YouTube transcript fetching, video search, channel browsing, and persistent knowledge base storage.",
+  "source_repo": "subdownload/subdownload-mcp",
+  "source_url": "https://github.com/subdownload/subdownload-mcp",
+  "install": "npx -y subdownload-mcp"
+}

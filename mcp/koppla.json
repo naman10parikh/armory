@@ -1,0 +1,7 @@
+{
+  "name": "koppla",
+  "description": "Enables managing Active Directory users, groups, and computers using natural language, with support for queries and updates.",
+  "source_repo": "ruudmens/Koppla",
+  "source_url": "https://github.com/ruudmens/Koppla",
+  "install": "# git clone --depth 1 https://github.com/ruudmens/Koppla\n# See source for mcpServers config block"
+}

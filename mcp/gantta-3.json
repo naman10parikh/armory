@@ -1,0 +1,7 @@
+{
+  "name": "gantta-3",
+  "description": "Gantta is an AI-powered project management tool that turns conversations into actionable project plans, timelines, and task breakdowns. Tools Create Project — Generate a structured project plan from a natural language brief List Projects — View all your existing projects and their status Create Acti",
+  "source_repo": "",
+  "source_url": "https://www.gantta.co",
+  "install": "# git clone --depth 1 https://www.gantta.co\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hong-kong-commerce-mcp-server",
+  "description": "Provides access to hotel room occupancy rate data in Hong Kong through a FastMCP interface.",
+  "source_repo": "hkopenai/hk-commerce-mcp-server",
+  "source_url": "https://github.com/hkopenai/hk-commerce-mcp-server",
+  "install": "npx -y hk-commerce-mcp-server"
+}

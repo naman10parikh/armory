@@ -1,0 +1,7 @@
+{
+  "name": "jing7ao-aihot",
+  "description": "Aggregates trending AI news and hot topics from the AIHot platform.",
+  "source_repo": "jing7ao/aihot-mcp",
+  "source_url": "https://github.com/jing7ao/aihot-mcp",
+  "install": "npx -y aihot-mcp"
+}

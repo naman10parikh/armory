@@ -1,0 +1,7 @@
+{
+  "name": "anand-kamble-instagram",
+  "description": "Integrates with Instagram to enable profile viewing, content discovery, timeline browsing, story access, post interactions, commenting, and user following through authentication and engagement tools",
+  "source_repo": "anand-kamble/mcp-instagram",
+  "source_url": "https://github.com/anand-kamble/mcp-instagram",
+  "install": "# git clone --depth 1 https://github.com/anand-kamble/mcp-instagram\n# See source for mcpServers config block"
+}

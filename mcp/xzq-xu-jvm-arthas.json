@@ -1,0 +1,7 @@
+{
+  "name": "xzq-xu-jvm-arthas",
+  "description": "Enables direct interaction with running Java applications through Arthas diagnostic tools via SSH connections, allowing for remote command execution, performance monitoring, and debugging of JVM processes.",
+  "source_repo": "xzq-xu/jvm-mcp-server",
+  "source_url": "https://github.com/xzq-xu/jvm-mcp-server",
+  "install": "npx -y jvm-mcp-server"
+}

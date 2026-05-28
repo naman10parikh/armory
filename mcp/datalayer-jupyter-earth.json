@@ -1,0 +1,7 @@
+{
+  "name": "datalayer-jupyter-earth",
+  "description": "Bridges Jupyter notebooks with Earth science data analysis by enabling direct NASA Earth Data granule downloads with temporal and geographic filtering capabilities.",
+  "source_repo": "datalayer/jupyter-earth-mcp-server",
+  "source_url": "https://github.com/datalayer/jupyter-earth-mcp-server",
+  "install": "npx -y jupyter-earth-mcp-server"
+}

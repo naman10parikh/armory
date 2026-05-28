@@ -1,0 +1,7 @@
+{
+  "name": "bigstationw-web-tools",
+  "description": "Provides local LLMs with web search, page screenshots, and readable text extraction through a local MCP server running on localhost.",
+  "source_repo": "bigstationw/local-mcp-server",
+  "source_url": "https://github.com/bigstationw/local-mcp-server",
+  "install": "npx -y local-mcp-server"
+}

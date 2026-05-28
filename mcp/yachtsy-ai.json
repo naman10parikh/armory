@@ -1,0 +1,7 @@
+{
+  "name": "yachtsy-ai",
+  "description": "Provides AI-powered yacht and boat marketplace intelligence by integrating with the Yachtsy Agent API",
+  "source_repo": "yachtsyai/yachtsy-mcp-server",
+  "source_url": "https://github.com/yachtsyai/yachtsy-mcp-server",
+  "install": "npx -y yachtsy-mcp-server"
+}

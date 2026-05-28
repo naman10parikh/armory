@@ -1,0 +1,7 @@
+{
+  "name": "connorbritain-mssql",
+  "description": "Enterprise Microsoft SQL Server integration with schema discovery, data profiling, and safe mutations",
+  "source_repo": "connorbritain/mssql-mcp-server",
+  "source_url": "https://github.com/connorbritain/mssql-mcp-server",
+  "install": "npx -y mssql-mcp-server"
+}

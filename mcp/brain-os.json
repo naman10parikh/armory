@@ -1,0 +1,7 @@
+{
+  "name": "brain-os",
+  "description": "Persistent operational state for AI agents. Decisions, plans, priorities, and patterns that survive across sessions. Not conversation logs; structured project state with enforcement.",
+  "source_repo": "brainOS-HQ/brain-os",
+  "source_url": "https://github.com/brainOS-HQ/brain-os",
+  "install": "# git clone --depth 1 https://github.com/brainOS-HQ/brain-os\n# See source for mcpServers config block"
+}

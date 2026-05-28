@@ -1,0 +1,7 @@
+{
+  "name": "ahmad-act-employee-leave-manager",
+  "description": "Provides containerized employee leave management with tools for checking balances, applying for leave with specific dates, and retrieving leave history from an in-memory database.",
+  "source_repo": "ahmad-act/local-ai-with-ollama-open-webui-mcp-on-windows",
+  "source_url": "https://github.com/ahmad-act/local-ai-with-ollama-open-webui-mcp-on-windows",
+  "install": "# git clone --depth 1 https://github.com/ahmad-act/local-ai-with-ollama-open-webui-mcp-on-windows\n# See source for mcpServers config block"
+}

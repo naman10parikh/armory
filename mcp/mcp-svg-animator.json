@@ -1,0 +1,7 @@
+{
+  "name": "mcp-svg-animator",
+  "description": "Enables creating and iterating on animated SVG diagrams from text input, photos of sketches, and YAML specifications, with support for shapes, connections, SMIL animations, and file output.",
+  "source_repo": "romilly/mcp-svg-animator",
+  "source_url": "https://github.com/romilly/mcp-svg-animator",
+  "install": "# git clone --depth 1 https://github.com/romilly/mcp-svg-animator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yikaj-futu",
+  "description": "Integrates with Futu API for financial market data and trading capabilities, enabling algorithmic trading strategies and market analysis through tools for retrieving market snapshots, historical data, and managing trading operations.",
+  "source_repo": "yikaj/futu",
+  "source_url": "https://github.com/yikaj/futu",
+  "install": "# git clone --depth 1 https://github.com/yikaj/futu\n# See source for mcpServers config block"
+}

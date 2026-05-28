@@ -1,0 +1,7 @@
+{
+  "name": "2slides",
+  "description": "Integrates with 2slides.com's presentation generation API to create professional slides from text descriptions with customizable themes and languages",
+  "source_repo": "2slides/mcp-2slides",
+  "source_url": "https://github.com/2slides/mcp-2slides",
+  "install": "# git clone --depth 1 https://github.com/2slides/mcp-2slides\n# See source for mcpServers config block"
+}

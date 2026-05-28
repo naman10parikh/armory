@@ -1,0 +1,7 @@
+{
+  "name": "hoogle-mcp-server",
+  "description": "Enables searching Hoogle, the Haskell documentation search engine, for packages, functions, and types.",
+  "source_repo": "hnbc6667777/gooh",
+  "source_url": "https://github.com/hnbc6667777/gooh",
+  "install": "# git clone --depth 1 https://github.com/hnbc6667777/gooh\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fantomaskarus1-telegram-bot-mcp",
+  "description": "Full-featured Telegram Bot API MCP server with 174 tools covering the entire Bot API.",
+  "source_repo": "FantomaSkaRus1/telegram-bot-mcp",
+  "source_url": "https://github.com/FantomaSkaRus1/telegram-bot-mcp",
+  "install": "npx -y telegram-bot-mcp"
+}

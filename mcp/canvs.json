@@ -1,0 +1,7 @@
+{
+  "name": "canvs",
+  "description": "Create AI-powered diagrams, mind maps, and flowcharts on a free unlimited collaborative whiteboard.",
+  "source_repo": "",
+  "source_url": "https://canvs.io",
+  "install": "# git clone --depth 1 https://canvs.io\n# See source for mcpServers config block"
+}

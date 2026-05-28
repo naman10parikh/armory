@@ -1,0 +1,7 @@
+{
+  "name": "aws-mcp",
+  "description": "Managed MCP server for AI agents to access AWS.",
+  "source_repo": "",
+  "source_url": "https://docs.aws.amazon.com/aws-mcp",
+  "install": "# git clone --depth 1 https://docs.aws.amazon.com/aws-mcp\n# See source for mcpServers config block"
+}

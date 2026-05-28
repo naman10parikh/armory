@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-synthetix",
+  "description": "Hosted integration with Synthetix derivatives protocol for synthetic asset analytics via Junct platform.",
+  "source_repo": "junct-bot/synthetix-mcp",
+  "source_url": "https://github.com/junct-bot/synthetix-mcp",
+  "install": "npx -y synthetix-mcp"
+}

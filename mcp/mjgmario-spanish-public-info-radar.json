@@ -1,0 +1,7 @@
+{
+  "name": "mjgmario-spanish-public-info-radar",
+  "description": "Provides real-time access to Spanish government open data through 26 specialized tools covering grants, legislation, company registry, statistics, and national datasets for legal research, business intelligence, and policy analysis.",
+  "source_repo": "mjgmario/spanish-public-info-radar-mcp",
+  "source_url": "https://github.com/mjgmario/spanish-public-info-radar-mcp",
+  "install": "npx -y spanish-public-info-radar-mcp"
+}

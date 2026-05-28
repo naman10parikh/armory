@@ -1,0 +1,7 @@
+{
+  "name": "scorecard",
+  "description": "Evaluate and optimize LLM systems with comprehensive testing and metrics",
+  "source_repo": "scorecard-ai/scorecard-node",
+  "source_url": "https://github.com/scorecard-ai/scorecard-node",
+  "install": "# git clone --depth 1 https://github.com/scorecard-ai/scorecard-node\n# See source for mcpServers config block"
+}

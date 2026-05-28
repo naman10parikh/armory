@@ -1,0 +1,7 @@
+{
+  "name": "jupiterbroadcasting-nextcloud",
+  "description": "Comprehensive Nextcloud integration with file management, calendar, contacts, notes, tasks, bookmarks, Deck boards, and Talk messaging through the Nextcloud API.",
+  "source_repo": "jupiterbroadcasting/nextcloud-mcp",
+  "source_url": "https://github.com/jupiterbroadcasting/nextcloud-mcp",
+  "install": "npx -y nextcloud-mcp"
+}

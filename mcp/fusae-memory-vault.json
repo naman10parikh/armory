@@ -1,0 +1,7 @@
+{
+  "name": "fusae-memory-vault",
+  "description": "Local-first MCP memory server with semantic search, AES-256-GCM encryption, and optional Supabase cloud sync.",
+  "source_repo": "fusae/memory-vault",
+  "source_url": "https://github.com/fusae/memory-vault",
+  "install": "# git clone --depth 1 https://github.com/fusae/memory-vault\n# See source for mcpServers config block"
+}

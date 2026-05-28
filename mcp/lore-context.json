@@ -1,0 +1,7 @@
+{
+  "name": "lore-context",
+  "description": "Open-core control plane for AI agent memory that composes context across multiple sources and enables portable memory migration.",
+  "source_repo": "lore-context/lore-context",
+  "source_url": "https://github.com/lore-context/lore-context",
+  "install": "# git clone --depth 1 https://github.com/lore-context/lore-context\n# See source for mcpServers config block"
+}

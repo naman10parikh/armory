@@ -1,0 +1,7 @@
+{
+  "name": "benborla-mysql-explorer",
+  "description": "Provides read-only access to MySQL databases for schema inspection and safe query execution, enabling database exploration and data analysis without modifying contents.",
+  "source_repo": "hkk101/mcp-server-mysql",
+  "source_url": "https://github.com/hkk101/mcp-server-mysql",
+  "install": "# git clone --depth 1 https://github.com/hkk101/mcp-server-mysql\n# See source for mcpServers config block"
+}

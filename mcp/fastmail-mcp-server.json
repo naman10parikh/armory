@@ -1,0 +1,7 @@
+{
+  "name": "fastmail-mcp-server",
+  "description": "Enables reading and searching Fastmail inbox emails, including listing inbox emails, querying by keyword, and retrieving email content via JMAP.",
+  "source_repo": "jeffjjohnston/fastmail-mcp-server",
+  "source_url": "https://github.com/jeffjjohnston/fastmail-mcp-server",
+  "install": "npx -y fastmail-mcp-server"
+}

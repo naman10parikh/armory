@@ -1,0 +1,7 @@
+{
+  "name": "fgasparetto-chipsnews",
+  "description": "Manages news configuration, sources, articles, and fetch triggers for ChipsBuilder's news platform.",
+  "source_repo": "fgasparetto/chipsnews-mcp",
+  "source_url": "https://github.com/fgasparetto/chipsnews-mcp",
+  "install": "npx -y chipsnews-mcp"
+}

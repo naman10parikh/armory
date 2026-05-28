@@ -1,0 +1,7 @@
+{
+  "name": "buryhuang-unipile",
+  "description": "Integrates with Unipile to provide unified access to messages across LinkedIn, WhatsApp, Instagram, Messenger, and Telegram, enabling efficient multi-platform communication management.",
+  "source_repo": "honeybluesky/mcp-unipile",
+  "source_url": "https://github.com/honeybluesky/mcp-unipile",
+  "install": "# git clone --depth 1 https://github.com/honeybluesky/mcp-unipile\n# See source for mcpServers config block"
+}

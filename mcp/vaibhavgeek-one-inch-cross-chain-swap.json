@@ -1,0 +1,7 @@
+{
+  "name": "vaibhavgeek-one-inch-cross-chain-swap",
+  "description": "Execute cross-chain token swaps using 1inch Fusion+",
+  "source_repo": "vaibhavgeek/one_inch_mcp",
+  "source_url": "https://github.com/vaibhavgeek/one_inch_mcp",
+  "install": "npx -y one_inch_mcp"
+}

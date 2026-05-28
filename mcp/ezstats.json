@@ -1,0 +1,7 @@
+{
+  "name": "ezstats",
+  "description": "Privacy-first website analytics platform with tools for traffic analytics, SEO insights, goal tracking, and agent-deployable dashboards.",
+  "source_repo": "",
+  "source_url": "https://go.ezstats.io/mcp/sse",
+  "install": "# git clone --depth 1 https://go.ezstats.io/mcp/sse\n# See source for mcpServers config block"
+}

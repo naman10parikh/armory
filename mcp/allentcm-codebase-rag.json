@@ -1,0 +1,7 @@
+{
+  "name": "allentcm-codebase-rag",
+  "description": "Provides semantic codebase search and file retrieval using CocoIndex embeddings and PostgreSQL with pgvector for similarity search, enabling natural language queries to find relevant code snippets with similarity scores and line numbers.",
+  "source_repo": "allentcm/mcp-codebase-rag",
+  "source_url": "https://github.com/allentcm/mcp-codebase-rag",
+  "install": "# git clone --depth 1 https://github.com/allentcm/mcp-codebase-rag\n# See source for mcpServers config block"
+}

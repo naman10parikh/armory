@@ -1,0 +1,7 @@
+{
+  "name": "quentincody-github-graphql-mcp-server",
+  "description": "Unofficial GitHub MCP server that provides access to GitHub's GraphQL API, enabling more powerful and flexible queries for repository data, issues, pull requests, and other GitHub resources.",
+  "source_repo": "QuentinCody/github-graphql-mcp-server",
+  "source_url": "https://github.com/QuentinCody/github-graphql-mcp-server",
+  "install": "npx -y github-graphql-mcp-server"
+}

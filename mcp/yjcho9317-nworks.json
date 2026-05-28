@@ -1,0 +1,7 @@
+{
+  "name": "yjcho9317-nworks",
+  "description": "NAVER WORKS CLI + MCP server. 26 tools for messages, calendar, drive, mail, tasks, and boards. AI agents can manage NAVER WORKS directly.",
+  "source_repo": "yjcho9317/nworks",
+  "source_url": "https://github.com/yjcho9317/nworks",
+  "install": "# git clone --depth 1 https://github.com/yjcho9317/nworks\n# See source for mcpServers config block"
+}

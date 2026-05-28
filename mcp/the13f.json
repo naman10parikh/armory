@@ -1,0 +1,7 @@
+{
+  "name": "the13f",
+  "description": "Institutional 13F filing intelligence with data on 8,600+ fund managers and their holdings.",
+  "source_repo": "pickelfintech/the13f-mcp",
+  "source_url": "https://github.com/pickelfintech/the13f-mcp",
+  "install": "npx -y the13f-mcp"
+}

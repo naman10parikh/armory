@@ -1,0 +1,7 @@
+{
+  "name": "sofia",
+  "description": "S.O.F.I.A. - Search-Optimized Flow-based Intelligence Agent",
+  "source_repo": "DevRickLin/Sofia",
+  "source_url": "https://github.com/DevRickLin/Sofia",
+  "install": "# git clone --depth 1 https://github.com/DevRickLin/Sofia\n# See source for mcpServers config block"
+}

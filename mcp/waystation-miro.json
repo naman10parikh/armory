@@ -1,0 +1,7 @@
+{
+  "name": "waystation-miro",
+  "description": "Integrates with Miro visual boards through WayStation's no-code integration hub for collaborative whiteboarding and diagramming workflows.",
+  "source_repo": "",
+  "source_url": "https://waystation.ai/connect/mcp-server/miro",
+  "install": "# git clone --depth 1 https://waystation.ai/connect/mcp-server/miro\n# See source for mcpServers config block"
+}

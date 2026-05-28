@@ -1,0 +1,7 @@
+{
+  "name": "mertcankaraoglu-ssh",
+  "description": "Enables secure remote command execution through SSH connections with persistent sessions, real-time output streaming, and clean connection management for server administration, deployment automation, and system monitoring workflows.",
+  "source_repo": "mertcankaraoglu/ssh-mcp",
+  "source_url": "https://github.com/mertcankaraoglu/ssh-mcp",
+  "install": "npx -y ssh-mcp"
+}

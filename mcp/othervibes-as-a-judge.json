@@ -1,0 +1,7 @@
+{
+  "name": "othervibes-as-a-judge",
+  "description": "Behavioral MCP that strengthens AI coding assistants via explicit LLM evaluations",
+  "source_repo": "othervibes/mcp-as-a-judge",
+  "source_url": "https://github.com/othervibes/mcp-as-a-judge",
+  "install": "# git clone --depth 1 https://github.com/othervibes/mcp-as-a-judge\n# See source for mcpServers config block"
+}

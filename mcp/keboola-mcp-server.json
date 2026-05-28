@@ -1,0 +1,7 @@
+{
+  "name": "keboola-mcp-server",
+  "description": "Connects AI agents and MCP clients to Keboola, enabling storage queries, SQL transformations, job triggers, and more through natural language.",
+  "source_repo": "fastmcp-me/mcp-server-keboola",
+  "source_url": "https://github.com/fastmcp-me/mcp-server-keboola",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-server-keboola\n# See source for mcpServers config block"
+}

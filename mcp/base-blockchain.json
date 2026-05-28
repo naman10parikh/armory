@@ -1,0 +1,7 @@
+{
+  "name": "base-blockchain",
+  "description": "Enables Claude to interact with the Base blockchain and Coinbase API for cryptocurrency operations including wallet management, fund transfers, and smart contract deployments.",
+  "source_repo": "base/base-mcp-legacy",
+  "source_url": "https://github.com/base/base-mcp-legacy",
+  "install": "# git clone --depth 1 https://github.com/base/base-mcp-legacy\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "transformseo",
+  "description": "SEO analysis with tools for keyword research, competitor analysis, backlink monitoring, and more.",
+  "source_repo": "",
+  "source_url": "https://gettransformseo.com/mcp",
+  "install": "# git clone --depth 1 https://gettransformseo.com/mcp\n# See source for mcpServers config block"
+}

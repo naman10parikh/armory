@@ -1,0 +1,7 @@
+{
+  "name": "ecomgraph",
+  "description": "**Independent Shopify app discovery for AI agents.** Search, compare, and pull metadata for 8,000+ ecommerce apps from the EcomGraph catalog. ## Tools - `search_apps` — full-text search with optional category filter - `get_app` — full app record (pricing, ratings, reviews, FAQ) - `list_categories` —",
+  "source_repo": "",
+  "source_url": "https://ecomgraph.com?utm_source=smithery",
+  "install": "# git clone --depth 1 https://ecomgraph.com?utm_source=smithery\n# See source for mcpServers config block"
+}

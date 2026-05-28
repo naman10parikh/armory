@@ -1,0 +1,7 @@
+{
+  "name": "daedalus-telegram-bot",
+  "description": "Integrates with Telegram's Bot API to send messages, retrieve bot information, and access recent updates.",
+  "source_repo": "daedalus/mcp-telegram-bot",
+  "source_url": "https://github.com/daedalus/mcp-telegram-bot",
+  "install": "# git clone --depth 1 https://github.com/daedalus/mcp-telegram-bot\n# See source for mcpServers config block"
+}

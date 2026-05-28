@@ -1,0 +1,7 @@
+{
+  "name": "mcp-8",
+  "description": "MCP MCP server listed on mcp.so.",
+  "source_repo": "chadnpc/MCP",
+  "source_url": "https://mcp.so/server/MCP/chadnpc",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP/chadnpc\n# See source for mcpServers config block"
+}

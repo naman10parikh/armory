@@ -1,0 +1,7 @@
+{
+  "name": "freedanfan-multi-llm-api-gateway",
+  "description": "Provides a unified FastAPI server for interacting with multiple language model APIs, enabling seamless switching between OpenAI and Anthropic models without changing integration code.",
+  "source_repo": "freedanfan/mcp_server",
+  "source_url": "https://github.com/freedanfan/mcp_server",
+  "install": "# git clone --depth 1 https://github.com/freedanfan/mcp_server\n# See source for mcpServers config block"
+}

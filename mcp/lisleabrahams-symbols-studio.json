@@ -1,0 +1,7 @@
+{
+  "name": "lisleabrahams-symbols-studio",
+  "description": "AI-powered creative social media content studio for generating themed visual content.",
+  "source_repo": "lisleabrahams/symbols-of-wealth-studio-mcp",
+  "source_url": "https://github.com/lisleabrahams/symbols-of-wealth-studio-mcp",
+  "install": "npx -y symbols-of-wealth-studio-mcp"
+}

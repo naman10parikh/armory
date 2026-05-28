@@ -1,0 +1,7 @@
+{
+  "name": "homebox-mcp-server",
+  "description": "MCP server for managing Homebox inventory via AI assistants, enabling item management, location organization, and label categorization.",
+  "source_repo": "oangelo/homebox-mcp",
+  "source_url": "https://github.com/oangelo/homebox-mcp",
+  "install": "npx -y homebox-mcp"
+}

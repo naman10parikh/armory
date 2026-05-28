@@ -1,0 +1,7 @@
+{
+  "name": "jagoff-memo",
+  "description": "Persistent local semantic memory for AI agents using MLX on Apple Silicon, with Obsidian-compatible markdown storage.",
+  "source_repo": "jagoff/memo",
+  "source_url": "https://github.com/jagoff/memo",
+  "install": "# git clone --depth 1 https://github.com/jagoff/memo\n# See source for mcpServers config block"
+}

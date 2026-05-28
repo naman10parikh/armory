@@ -1,0 +1,7 @@
+{
+  "name": "chongzixuan-ai-website-screenshot-fast",
+  "description": "Captures full web pages and automatically tiles them into 1072x1072 pixel chunks optimized for vision model processing with intelligent browser management and memory optimization.",
+  "source_repo": "chongzixuan-ai/mcp-server-website",
+  "source_url": "https://github.com/chongzixuan-ai/mcp-server-website",
+  "install": "# git clone --depth 1 https://github.com/chongzixuan-ai/mcp-server-website\n# See source for mcpServers config block"
+}

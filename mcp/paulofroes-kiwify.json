@@ -1,0 +1,7 @@
+{
+  "name": "paulofroes-kiwify",
+  "description": "Wraps the Kiwify public API for managing digital product sales, affiliate programs, financial operations, and event tracking on the Brazilian e-commerce platform.",
+  "source_repo": "paulofroes/mcp-kiwify",
+  "source_url": "https://github.com/paulofroes/mcp-kiwify",
+  "install": "# git clone --depth 1 https://github.com/paulofroes/mcp-kiwify\n# See source for mcpServers config block"
+}

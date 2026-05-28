@@ -1,0 +1,7 @@
+{
+  "name": "majinbuu0x9-marrow",
+  "description": "AI memory and decision intelligence system with auto-logging, performance tracking, and workflow templates.",
+  "source_repo": "getmarrow/marrow-mcp",
+  "source_url": "https://github.com/getmarrow/marrow-mcp",
+  "install": "npx -y marrow-mcp"
+}

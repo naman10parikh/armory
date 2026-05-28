@@ -1,0 +1,7 @@
+{
+  "name": "rti-connext",
+  "description": "RTI Connext product-aware AI assistance for agentic workflows via Connext AI integration.",
+  "source_repo": "",
+  "source_url": "https://chatbot.rti.com/mcp",
+  "install": "# git clone --depth 1 https://chatbot.rti.com/mcp\n# See source for mcpServers config block"
+}

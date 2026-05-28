@@ -1,0 +1,7 @@
+{
+  "name": "martinlippert-spring-io-api",
+  "description": "Integrates with Spring's API to provide release information and support timelines for Spring projects, enabling dependency management and upgrade planning.",
+  "source_repo": "martinlippert/spring-io-api-mcp",
+  "source_url": "https://github.com/martinlippert/spring-io-api-mcp",
+  "install": "npx -y spring-io-api-mcp"
+}

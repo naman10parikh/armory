@@ -1,0 +1,7 @@
+{
+  "name": "gitbridge-mcp",
+  "description": "A production-ready MCP bridge server connecting Claude Chat to any GitHub repository for file operations, issue management, and code search via OAuth 2.0 authenticated Streamable HTTP transport.",
+  "source_repo": "ioTus/gitbridge-mcp",
+  "source_url": "https://github.com/ioTus/gitbridge-mcp",
+  "install": "npx -y gitbridge-mcp"
+}

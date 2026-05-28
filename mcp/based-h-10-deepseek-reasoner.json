@@ -1,0 +1,7 @@
+{
+  "name": "based-h-10-deepseek-reasoner",
+  "description": "Integrates DeepSeek's R1 reasoning engine to enhance problem-solving, research assistance, and decision support capabilities.",
+  "source_repo": "harshj23/deepseek-claude-mcp-server",
+  "source_url": "https://github.com/harshj23/deepseek-claude-mcp-server",
+  "install": "npx -y deepseek-claude-mcp-server"
+}

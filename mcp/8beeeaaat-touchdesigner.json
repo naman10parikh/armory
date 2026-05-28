@@ -1,0 +1,7 @@
+{
+  "name": "8beeeaaat-touchdesigner",
+  "description": "Provides a bridge between TouchDesigner visual programming environment and natural language commands, enabling real-time control of nodes, properties, and Python script execution for interactive digital art and installations.",
+  "source_repo": "8beeeaaat/touchdesigner-mcp",
+  "source_url": "https://github.com/8beeeaaat/touchdesigner-mcp",
+  "install": "npx -y touchdesigner-mcp"
+}

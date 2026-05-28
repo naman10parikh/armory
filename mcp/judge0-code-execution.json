@@ -1,0 +1,7 @@
+{
+  "name": "judge0-code-execution",
+  "description": "Enables remote code execution in multiple programming languages through Judge0's API, allowing for testing, validation, and demonstration without local development environments.",
+  "source_repo": "zefanhu/mcp-rapidapi-judge0-server",
+  "source_url": "https://github.com/zefanhu/mcp-rapidapi-judge0-server",
+  "install": "# git clone --depth 1 https://github.com/zefanhu/mcp-rapidapi-judge0-server\n# See source for mcpServers config block"
+}

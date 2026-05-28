@@ -1,0 +1,7 @@
+{
+  "name": "textweb",
+  "description": "Renders web pages as structured text grids for AI agents to browse and interact with, preserving spatial layout without screenshots.",
+  "source_repo": "chrisrobison/textweb",
+  "source_url": "https://github.com/chrisrobison/textweb",
+  "install": "# git clone --depth 1 https://github.com/chrisrobison/textweb\n# See source for mcpServers config block"
+}

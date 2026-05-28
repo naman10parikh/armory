@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-brave-search",
+  "description": "Perform web searches using the Brave Search API with privacy-focused results.",
+  "source_repo": "pipeworx-io/mcp-brave-search",
+  "source_url": "https://github.com/pipeworx-io/mcp-brave-search",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-brave-search\n# See source for mcpServers config block"
+}

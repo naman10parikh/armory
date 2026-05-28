@@ -1,0 +1,7 @@
+{
+  "name": "lpc-mcp-server",
+  "description": "Enables AI assistants to understand and query LPC codebases through natural language, using a language server for hover info, definitions, references, and diagnostics.",
+  "source_repo": "gesslar/lpc-mcp",
+  "source_url": "https://github.com/gesslar/lpc-mcp",
+  "install": "npx -y lpc-mcp"
+}

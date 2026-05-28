@@ -1,0 +1,7 @@
+{
+  "name": "vibe-composer-midi",
+  "description": "Enables real-time music composition and playback through natural language commands using the JZZ MIDI library, supporting 128 General MIDI instruments, drum kits, multi-channel arrangements, and both software and hardware synthesizers with configurable timing and BPM control.",
+  "source_repo": "mikeborozdin/vibe-composer-midi-mcp",
+  "source_url": "https://github.com/mikeborozdin/vibe-composer-midi-mcp",
+  "install": "npx -y vibe-composer-midi-mcp"
+}

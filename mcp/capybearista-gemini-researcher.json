@@ -1,0 +1,7 @@
+{
+  "name": "capybearista-gemini-researcher",
+  "description": "Stateless MCP server that proxies research queries to Gemini CLI, reducing agent context and model usage",
+  "source_repo": "capybearista/gemini-researcher-mcp",
+  "source_url": "https://github.com/capybearista/gemini-researcher-mcp",
+  "install": "npx -y gemini-researcher-mcp"
+}

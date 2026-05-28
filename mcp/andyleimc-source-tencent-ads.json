@@ -1,0 +1,7 @@
+{
+  "name": "andyleimc-source-tencent-ads",
+  "description": "MCP server exposing 358 tools for the Tencent Ads Marketing API v3.0 with OAuth token auto-refresh.",
+  "source_repo": "andyleimc-source/tencent-ad-mcp",
+  "source_url": "https://github.com/andyleimc-source/tencent-ad-mcp",
+  "install": "npx -y tencent-ad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lawrencecirillo-quickbase",
+  "description": "Integrates with QuickBase API for complete database operations including application, table, field, and record management with support for all field types, bulk operations, text search, report execution, and automated relationship creation.",
+  "source_repo": "lawrencecirillo/quickbase-mcp-server",
+  "source_url": "https://github.com/lawrencecirillo/quickbase-mcp-server",
+  "install": "npx -y quickbase-mcp-server"
+}

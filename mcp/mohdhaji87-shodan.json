@@ -1,0 +1,7 @@
+{
+  "name": "mohdhaji87-shodan",
+  "description": "A fully async implementation that exposes the complete Shodan API (REST, Streaming, and Trends) as MCP tools. Use Shodan's internet intelligence tools in your automation, research, and security workflows.",
+  "source_repo": "mohdhaji87/shodan-mcp",
+  "source_url": "https://github.com/mohdhaji87/shodan-mcp",
+  "install": "npx -y shodan-mcp"
+}

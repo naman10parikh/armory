@@ -1,0 +1,7 @@
+{
+  "name": "mcp-learning",
+  "description": "Mcp_learning MCP server listed on mcp.so.",
+  "source_repo": "JuanLadeira/mcp_learning",
+  "source_url": "https://mcp.so/server/mcp_learning/JuanLadeira",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_learning/JuanLadeira\n# See source for mcpServers config block"
+}

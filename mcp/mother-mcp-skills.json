@@ -1,0 +1,7 @@
+{
+  "name": "mother-mcp-skills",
+  "description": "Automatically discovers and installs AI skills for your project's tech stack, supporting Claude, Copilot, Codex, and other MCP-compatible agents.",
+  "source_repo": "dmgrok/mcp_mother_skills",
+  "source_url": "https://github.com/dmgrok/mcp_mother_skills",
+  "install": "# git clone --depth 1 https://github.com/dmgrok/mcp_mother_skills\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xpaysh-xpay",
+  "description": "Aggregates 980+ AI tools from 30+ providers into a unified pay-per-call MCP endpoint using USDC micropayments via the x402 protocol.",
+  "source_repo": "xpaysh/mcp-server",
+  "source_url": "https://github.com/xpaysh/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/xpaysh/mcp-server\n# See source for mcpServers config block"
+}

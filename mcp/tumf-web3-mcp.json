@@ -1,0 +1,7 @@
+{
+  "name": "tumf-web3-mcp",
+  "description": "An MCP server implementation wrapping Ankr Advanced API. Access to NFT, token, and blockchain data across multiple chains including Ethereum, BSC, Polygon, Avalanche, and more.",
+  "source_repo": "tumf/web3-mcp",
+  "source_url": "https://github.com/tumf/web3-mcp",
+  "install": "npx -y web3-mcp"
+}

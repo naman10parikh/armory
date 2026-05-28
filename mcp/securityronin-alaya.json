@@ -1,0 +1,7 @@
+{
+  "name": "securityronin-alaya",
+  "description": "Neuroscience-inspired memory engine for AI agents. Stores episodes, consolidates knowledge through a Bjork-strength lifecycle (strengthening, transformation, forgetting), and builds a personal knowledge graph with emergent categories, preferences, and semantic recall. Local SQLite, zero config, 10 MCP tools. Install via `npx alaya-mcp`.",
+  "source_repo": "SecurityRonin/alaya",
+  "source_url": "https://github.com/SecurityRonin/alaya",
+  "install": "# git clone --depth 1 https://github.com/SecurityRonin/alaya\n# See source for mcpServers config block"
+}

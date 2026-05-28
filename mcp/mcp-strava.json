@@ -1,0 +1,7 @@
+{
+  "name": "mcp-strava",
+  "description": "Minimalist Strava integration for Claude with 7 focused tools for querying athlete stats, activities, zones, and segment analysis.",
+  "source_repo": "adrienlupo/mcp-strava",
+  "source_url": "https://github.com/adrienlupo/mcp-strava",
+  "install": "# git clone --depth 1 https://github.com/adrienlupo/mcp-strava\n# See source for mcpServers config block"
+}

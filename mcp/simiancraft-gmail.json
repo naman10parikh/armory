@@ -1,0 +1,7 @@
+{
+  "name": "simiancraft-gmail",
+  "description": "Gmail integration server supporting email search, reading, composing, label management, and OAuth2 authentication.",
+  "source_repo": "simiancraft/gmail-mcp-server",
+  "source_url": "https://github.com/simiancraft/gmail-mcp-server",
+  "install": "npx -y gmail-mcp-server"
+}

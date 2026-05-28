@@ -1,0 +1,7 @@
+{
+  "name": "gemini-image-mcp",
+  "description": "MCP server for Google Gemini image generation, editing, and processing, with two tools and no bloat.",
+  "source_repo": "JimothySnicket/gemini-image-mcp",
+  "source_url": "https://github.com/JimothySnicket/gemini-image-mcp",
+  "install": "npx -y gemini-image-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "planetscale",
+  "description": "PlanetScale integration that provides access to database organizations, schemas, branches, and performance insights with intelligent query execution, automatic replica routing, and human confirmation for schema changes.",
+  "source_repo": "",
+  "source_url": "https://planetscale.com/blog/introducing-planetscale-mcp-server",
+  "install": "# git clone --depth 1 https://planetscale.com/blog/introducing-planetscale-mcp-server\n# See source for mcpServers config block"
+}

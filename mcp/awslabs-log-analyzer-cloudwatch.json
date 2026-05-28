@@ -1,0 +1,7 @@
+{
+  "name": "awslabs-log-analyzer-cloudwatch",
+  "description": "Provides structured access to CloudWatch Logs data for searching, analyzing, and correlating logs across AWS services to help with troubleshooting and pattern identification.",
+  "source_repo": "awslabs/log-analyzer-with-mcp",
+  "source_url": "https://github.com/awslabs/log-analyzer-with-mcp",
+  "install": "npx -y log-analyzer-with-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "azure-service-bus-mcp-server",
+  "description": "MCP server for Azure Service Bus that enables sending messages, inspecting queues and subscriptions, and purging test data. Complements the built-in Azure MCP server by adding write operations.",
+  "source_repo": "BrianDeacon/servicebus-mcp",
+  "source_url": "https://github.com/BrianDeacon/servicebus-mcp",
+  "install": "npx -y servicebus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imiborbas-pocketbase",
+  "description": "Provides a TypeScript-based server for interacting with PocketBase, enabling flexible database management and configuration through natural language interfaces.",
+  "source_repo": "imiborbas/pocketbase-mcp-server",
+  "source_url": "https://github.com/imiborbas/pocketbase-mcp-server",
+  "install": "npx -y pocketbase-mcp-server"
+}

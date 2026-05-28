@@ -1,0 +1,7 @@
+{
+  "name": "prowl",
+  "description": "AI-powered competitive intelligence platform with tools for SEO, ads, funnels, reviews, and pricing analysis.",
+  "source_repo": "",
+  "source_url": "https://prowl.chat",
+  "install": "# git clone --depth 1 https://prowl.chat\n# See source for mcpServers config block"
+}

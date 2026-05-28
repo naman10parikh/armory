@@ -1,0 +1,7 @@
+{
+  "name": "youtube-research-mcp",
+  "description": "Enables AI assistants to research YouTube videos by collecting captions, comments, and channel information for analysis and comparison.",
+  "source_repo": "lee-s-dev/youtube-research-mcp",
+  "source_url": "https://github.com/lee-s-dev/youtube-research-mcp",
+  "install": "npx -y youtube-research-mcp"
+}

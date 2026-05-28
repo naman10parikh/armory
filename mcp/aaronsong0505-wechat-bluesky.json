@@ -1,0 +1,7 @@
+{
+  "name": "aaronsong0505-wechat-bluesky",
+  "description": "Dual MCP services for curated WeChat article digest delivery and Bluesky social publishing.",
+  "source_repo": "aaronsong0505/self-mcp",
+  "source_url": "https://github.com/aaronsong0505/self-mcp",
+  "install": "npx -y self-mcp"
+}

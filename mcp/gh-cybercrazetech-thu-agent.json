@@ -1,0 +1,7 @@
+{
+  "name": "gh-cybercrazetech-thu-agent",
+  "description": "Terminal coding agent powered by Tsinghua University lab proxy API with interactive command execution and document retrieval.",
+  "source_repo": "cybercrazetech/thu-deepseek-glm-api-mcp-server",
+  "source_url": "https://github.com/cybercrazetech/thu-deepseek-glm-api-mcp-server",
+  "install": "npx -y thu-deepseek-glm-api-mcp-server"
+}

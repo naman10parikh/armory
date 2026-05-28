@@ -1,0 +1,7 @@
+{
+  "name": "mohdhaji87-newrelic",
+  "description": "Integrates with New Relic monitoring platform through GraphQL and REST APIs to provide access to logs, metrics, alerts, dashboards, and application data for DevOps teams and site reliability engineers performing incident investigation and automated troubleshooting workflows.",
+  "source_repo": "mohdhaji87/newrelicmcp",
+  "source_url": "https://github.com/mohdhaji87/newrelicmcp",
+  "install": "# git clone --depth 1 https://github.com/mohdhaji87/newrelicmcp\n# See source for mcpServers config block"
+}

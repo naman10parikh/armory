@@ -1,0 +1,7 @@
+{
+  "name": "legal-mcp",
+  "description": "Enables AI assistants to search and analyze German legal texts using vector embeddings and semantic search.",
+  "source_repo": "ayunis-core/ayunis-legal-mcp",
+  "source_url": "https://github.com/ayunis-core/ayunis-legal-mcp",
+  "install": "npx -y ayunis-legal-mcp"
+}

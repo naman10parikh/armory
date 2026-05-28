@@ -1,0 +1,7 @@
+{
+  "name": "edgar-tools-sec-intelligence",
+  "description": "SEC filing intelligence covering financials, insider activity, institutional filings, and material event disclosures.",
+  "source_repo": "",
+  "source_url": "https://app.edgar.tools/ai-plugin",
+  "install": "# git clone --depth 1 https://app.edgar.tools/ai-plugin\n# See source for mcpServers config block"
+}

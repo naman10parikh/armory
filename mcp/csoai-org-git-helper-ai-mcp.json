@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-git-helper-ai-mcp",
+  "description": "AI tools for Git workflow assistance, branch management, and repository operations.",
+  "source_repo": "csoai-org/git-helper-ai-mcp",
+  "source_url": "https://github.com/csoai-org/git-helper-ai-mcp",
+  "install": "npx -y git-helper-ai-mcp"
+}

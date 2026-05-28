@@ -1,0 +1,7 @@
+{
+  "name": "lizhipay-local-desktop",
+  "description": "A cross-platform Tauri desktop application that runs a local MCP Streamable HTTP service at 127.0.0.1:8765 for coding tools to invoke Claude-compatible APIs with file and command execution.",
+  "source_repo": "lizhipay/claude-mcp-server",
+  "source_url": "https://github.com/lizhipay/claude-mcp-server",
+  "install": "npx -y claude-mcp-server"
+}

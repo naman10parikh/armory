@@ -1,0 +1,7 @@
+{
+  "name": "twilio-api",
+  "description": "Integrates with Twilio's API ecosystem to enable messaging, voice, conversations, and serverless functions through authenticated access with automatic AccountSid population and context filtering capabilities.",
+  "source_repo": "twilio-labs/mcp",
+  "source_url": "https://github.com/twilio-labs/mcp",
+  "install": "# git clone --depth 1 https://github.com/twilio-labs/mcp\n# See source for mcpServers config block"
+}

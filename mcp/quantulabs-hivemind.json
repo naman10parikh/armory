@@ -1,0 +1,7 @@
+{
+  "name": "quantulabs-hivemind",
+  "description": "Query multiple AI models (OpenAI, Anthropic, Google) for consensus responses.",
+  "source_repo": "quantulabs/hivemind",
+  "source_url": "https://github.com/quantulabs/hivemind",
+  "install": "# git clone --depth 1 https://github.com/quantulabs/hivemind\n# See source for mcpServers config block"
+}

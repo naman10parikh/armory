@@ -1,0 +1,7 @@
+{
+  "name": "guanxinyuan-neo4j",
+  "description": "Provides natural language interfaces to Neo4j graph databases for executing Cypher queries, storing knowledge graph data, and building persistent memory structures through conversational interactions.",
+  "source_repo": "guanxinyuan/neo4j",
+  "source_url": "https://github.com/guanxinyuan/neo4j",
+  "install": "# git clone --depth 1 https://github.com/guanxinyuan/neo4j\n# See source for mcpServers config block"
+}

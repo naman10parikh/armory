@@ -1,0 +1,7 @@
+{
+  "name": "macrocosmos-mcp",
+  "description": "Enables real-time queries and large-scale data collection from X (Twitter) and Reddit via the Model Context Protocol, powered by Bittensor's Data Universe.",
+  "source_repo": "macrocosm-os/macrocosmos-mcp",
+  "source_url": "https://github.com/macrocosm-os/macrocosmos-mcp",
+  "install": "npx -y macrocosmos-mcp"
+}

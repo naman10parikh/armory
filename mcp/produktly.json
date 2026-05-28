@@ -1,0 +1,7 @@
+{
+  "name": "produktly",
+  "description": "Connect AI assistants to Produktly for changelogs, feedback, and roadmap items.",
+  "source_repo": "",
+  "source_url": "https://api.produktly.com/api/mcp",
+  "install": "# git clone --depth 1 https://api.produktly.com/api/mcp\n# See source for mcpServers config block"
+}

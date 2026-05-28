@@ -1,0 +1,7 @@
+{
+  "name": "optimly-scout",
+  "description": "Query the AI Brand Directory to audit brand visibility in ChatGPT, Claude, and Gemini.",
+  "source_repo": "",
+  "source_url": "https://scout.optimly.ai/mcp",
+  "install": "# git clone --depth 1 https://scout.optimly.ai/mcp\n# See source for mcpServers config block"
+}

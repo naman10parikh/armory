@@ -1,0 +1,7 @@
+{
+  "name": "marian-kamenistak-elc-conference-tickets",
+  "description": "Browse and purchase ELC Conference 2026 engineering leadership tickets in Prague via AI.",
+  "source_repo": "marian-kamenistak/elc-conference-mcp-tickets",
+  "source_url": "https://github.com/marian-kamenistak/elc-conference-mcp-tickets",
+  "install": "# git clone --depth 1 https://github.com/marian-kamenistak/elc-conference-mcp-tickets\n# See source for mcpServers config block"
+}

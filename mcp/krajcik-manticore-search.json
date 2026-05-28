@@ -1,0 +1,7 @@
+{
+  "name": "krajcik-manticore-search",
+  "description": "Integrates with Manticore Search to provide full-text search capabilities, document management, table operations, and cluster administration with advanced query features like boolean search, highlighting, and fuzzy matching.",
+  "source_repo": "krajcik/manticore-mcp-server",
+  "source_url": "https://github.com/krajcik/manticore-mcp-server",
+  "install": "npx -y manticore-mcp-server"
+}

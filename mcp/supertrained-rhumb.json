@@ -1,0 +1,7 @@
+{
+  "name": "supertrained-rhumb",
+  "description": "Agent-native tool intelligence with scoring, discovery, and cost-aware execution across 600+ services.",
+  "source_repo": "supertrained/rhumb",
+  "source_url": "https://github.com/supertrained/rhumb/tree/HEAD/packages/mcp",
+  "install": "# git clone --depth 1 https://github.com/supertrained/rhumb/tree/HEAD/packages/mcp\n# See source for mcpServers config block"
+}

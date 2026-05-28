@@ -1,0 +1,7 @@
+{
+  "name": "hyeongjun-dev-metabase",
+  "description": "Connects to Metabase analytics platforms to enable conversational access to business intelligence data through tools for listing dashboards, executing saved questions, and running custom SQL queries.",
+  "source_repo": "hyeongjun-dev/metabase-mcp-server",
+  "source_url": "https://github.com/hyeongjun-dev/metabase-mcp-server",
+  "install": "npx -y metabase-mcp-server"
+}

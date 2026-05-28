@@ -1,0 +1,7 @@
+{
+  "name": "databricks-permissions-mcp-server",
+  "description": "Databricks Permissions Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "JustTryAI/databricks-permissions-mcp-server",
+  "source_url": "https://mcp.so/server/databricks-permissions-mcp-server/JustTryAI",
+  "install": "npx -y databricks-permissions-mcp-server"
+}

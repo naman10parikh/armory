@@ -1,0 +1,7 @@
+{
+  "name": "mypracticaltools-reddit-apify",
+  "description": "Search Reddit and find leads by delegating scraping to Apify cloud actors.",
+  "source_repo": "mypracticaltools/reddit-mcp-server",
+  "source_url": "https://github.com/mypracticaltools/reddit-mcp-server",
+  "install": "npx -y reddit-mcp-server"
+}

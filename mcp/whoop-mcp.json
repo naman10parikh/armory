@@ -1,0 +1,7 @@
+{
+  "name": "whoop-mcp",
+  "description": "A local MCP server providing read-only access to WHOOP fitness data via direct OAuth, with a local SQLite cache for offline queries.",
+  "source_repo": "AshwanthramKL/whoop-mcp",
+  "source_url": "https://github.com/AshwanthramKL/whoop-mcp",
+  "install": "npx -y whoop-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mshegolev-kibana",
+  "description": "Search logs, run aggregations, discover indices, and browse dashboards in Kibana and Elasticsearch via MCP.",
+  "source_repo": "mshegolev/kibana-mcp",
+  "source_url": "https://github.com/mshegolev/kibana-mcp",
+  "install": "npx -y kibana-mcp"
+}

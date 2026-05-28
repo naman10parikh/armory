@@ -1,0 +1,7 @@
+{
+  "name": "mcp-fetch-node",
+  "description": "A Node.js port of the official Fetch MCP server that enables LLMs to fetch and extract web page content as markdown, with support for pagination, robots.txt, and custom user-agent.",
+  "source_repo": "tgambet/mcp-fetch-node",
+  "source_url": "https://github.com/tgambet/mcp-fetch-node",
+  "install": "# git clone --depth 1 https://github.com/tgambet/mcp-fetch-node\n# See source for mcpServers config block"
+}

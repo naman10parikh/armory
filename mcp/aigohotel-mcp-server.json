@@ -1,0 +1,7 @@
+{
+  "name": "aigohotel-mcp-server",
+  "description": "Enables AI assistants to search for hotels globally via the MCP protocol, supporting filters like city, landmark, star rating, and distance.",
+  "source_repo": "longcreat/aigohotel-mcp",
+  "source_url": "https://github.com/longcreat/aigohotel-mcp",
+  "install": "npx -y aigohotel-mcp"
+}

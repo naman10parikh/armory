@@ -1,0 +1,7 @@
+{
+  "name": "sshtunnelvision-fal-ai-image-generation",
+  "description": "Integrates with FAL AI to generate images from text prompts using models like 'fal-ai/recraft-v3', enabling real-time visual content creation for design and content generation tasks.",
+  "source_repo": "arekhalpern/mcp-logo-gen",
+  "source_url": "https://github.com/arekhalpern/mcp-logo-gen",
+  "install": "# git clone --depth 1 https://github.com/arekhalpern/mcp-logo-gen\n# See source for mcpServers config block"
+}

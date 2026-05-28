@@ -1,0 +1,7 @@
+{
+  "name": "jasoncbraatz-domain-monitor",
+  "description": "Queries domain expiration data from domain-monitor.io.",
+  "source_repo": "jasoncbraatz/domain-monitor-mcp",
+  "source_url": "https://github.com/jasoncbraatz/domain-monitor-mcp",
+  "install": "npx -y domain-monitor-mcp"
+}

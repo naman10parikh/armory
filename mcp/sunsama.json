@@ -1,0 +1,7 @@
+{
+  "name": "sunsama",
+  "description": "Official daily planner integration for task creation, management, and scheduling via Sunsama API.",
+  "source_repo": "",
+  "source_url": "https://sunsama.com",
+  "install": "# git clone --depth 1 https://sunsama.com\n# See source for mcpServers config block"
+}

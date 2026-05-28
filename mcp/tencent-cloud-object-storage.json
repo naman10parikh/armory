@@ -1,0 +1,7 @@
+{
+  "name": "tencent-cloud-object-storage",
+  "description": "Bridges AI assistants with Tencent Cloud Object Storage services, enabling file management, metadata retrieval, and storage analytics operations",
+  "source_repo": "tencent/cos-mcp",
+  "source_url": "https://github.com/tencent/cos-mcp",
+  "install": "npx -y cos-mcp"
+}

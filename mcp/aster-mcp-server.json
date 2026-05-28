@@ -1,0 +1,7 @@
+{
+  "name": "aster-mcp-server",
+  "description": "An MCP server for Aster Futures and Spot APIs, enabling AI agents to query market data, place orders, and check positions and accounts securely.",
+  "source_repo": "asterdex/aster-mcp",
+  "source_url": "https://github.com/asterdex/aster-mcp",
+  "install": "npx -y aster-mcp"
+}

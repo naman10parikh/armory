@@ -1,0 +1,7 @@
+{
+  "name": "ahrentlov-apple-deep-docs",
+  "description": "Integrates with Apple's complete development documentation ecosystem including Xcode's local documentation with Liquid Glass design patterns, official developer docs via JSON APIs, Swift Evolution proposals, and Apple/SwiftLang GitHub repositories with intelligent caching and relevance-based search scoring.",
+  "source_repo": "ahrentlov/appledeepdoc-mcp",
+  "source_url": "https://github.com/ahrentlov/appledeepdoc-mcp",
+  "install": "npx -y appledeepdoc-mcp"
+}

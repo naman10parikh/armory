@@ -1,0 +1,7 @@
+{
+  "name": "b2bware",
+  "description": "Access products, orders, and customers from the B2Bware B2B commerce platform.",
+  "source_repo": "",
+  "source_url": "https://b2bware.com",
+  "install": "# git clone --depth 1 https://b2bware.com\n# See source for mcpServers config block"
+}

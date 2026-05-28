@@ -1,0 +1,7 @@
+{
+  "name": "apiverket-mcp-server",
+  "description": "Query Swedish public data from AI tools. Includes company data, SCB statistics, weather, transport, public agencies, and more through the Apiverket API.",
+  "source_repo": "vinvuk/apiverket-mcp",
+  "source_url": "https://github.com/vinvuk/apiverket-mcp",
+  "install": "npx -y apiverket-mcp"
+}

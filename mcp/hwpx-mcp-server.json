@@ -1,0 +1,7 @@
+{
+  "name": "hwpx-mcp-server",
+  "description": "MCP server for AI-driven editing of HWPX (Korean word processor) documents, providing 132 tools for text, tables, images, and more.",
+  "source_repo": "flamingo8006/hwpx-mcp",
+  "source_url": "https://github.com/flamingo8006/hwpx-mcp",
+  "install": "npx -y hwpx-mcp"
+}

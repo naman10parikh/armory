@@ -1,0 +1,7 @@
+{
+  "name": "rper2001-rigshare",
+  "description": "Construction equipment and robotics hardware rental marketplace with tools for searching listings, viewing bookings, and creating reservations.",
+  "source_repo": "rper2001/rigshare-mcp",
+  "source_url": "https://github.com/rper2001/rigshare-mcp",
+  "install": "npx -y rigshare-mcp"
+}

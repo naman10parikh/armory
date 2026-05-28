@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-reactome",
+  "description": "Searches curated human biological pathways in the Reactome database.",
+  "source_repo": "pipeworx-io/mcp-reactome",
+  "source_url": "https://github.com/pipeworx-io/mcp-reactome",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-reactome\n# See source for mcpServers config block"
+}

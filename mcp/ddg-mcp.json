@@ -1,0 +1,7 @@
+{
+  "name": "ddg-mcp",
+  "description": "Ddg Mcp MCP server listed on mcp.so.",
+  "source_repo": "misanthropic-ai/ddg-mcp",
+  "source_url": "https://mcp.so/server/ddg-mcp/misanthropic-ai",
+  "install": "npx -y ddg-mcp"
+}

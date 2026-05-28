@@ -1,0 +1,7 @@
+{
+  "name": "helpdental",
+  "description": "Search 10,000+ UK dental practices, compare treatment prices, and find emergency dentists.",
+  "source_repo": "tris686/helpdental",
+  "source_url": "https://github.com/tris686/helpdental/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/tris686/helpdental/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

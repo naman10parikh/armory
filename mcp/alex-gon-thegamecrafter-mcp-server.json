@@ -1,0 +1,7 @@
+{
+  "name": "alex-gon-thegamecrafter-mcp-server",
+  "description": "Design, manage, and price tabletop games on The Game Crafter. Browse catalogs, create projects, upload artwork, get pricing.",
+  "source_repo": "alex-gon/thegamecrafter-mcp-server",
+  "source_url": "https://github.com/alex-gon/thegamecrafter-mcp-server",
+  "install": "npx -y thegamecrafter-mcp-server"
+}

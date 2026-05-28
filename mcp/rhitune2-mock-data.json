@@ -1,0 +1,7 @@
+{
+  "name": "rhitune2-mock-data",
+  "description": "Provides tools for generating realistic mock data including personal information, company details, and custom fields using TypeScript and Faker.js for testing and development purposes.",
+  "source_repo": "rhitune2/mock-data-mcp",
+  "source_url": "https://github.com/rhitune2/mock-data-mcp",
+  "install": "npx -y mock-data-mcp"
+}

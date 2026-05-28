@@ -1,0 +1,7 @@
+{
+  "name": "rakshitha2207-spotify",
+  "description": "Provides a bridge to the Spotify Web API, enabling music playback control, track searching, and playlist management through conversational interactions.",
+  "source_repo": "rakshitha2207/spotify-mcp",
+  "source_url": "https://github.com/rakshitha2207/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

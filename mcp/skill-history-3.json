@@ -1,0 +1,7 @@
+{
+  "name": "skill-history-3",
+  "description": "Track download history for 70,000+ agent skills across ClawHub and skills.sh. Like star-history.com, but for agent skills. **Tools:** - `get_skill_downloads(handle, slug)` — Get full download history with daily snapshots - `search_skills(query, limit)` — Search skills by name, author, or keyword Fre",
+  "source_repo": "",
+  "source_url": "https://skill-history.com/",
+  "install": "# git clone --depth 1 https://skill-history.com/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "salome-mcp",
+  "description": "MCP server for SALOME that enables agents to create and manipulate CAD geometries and meshes, including primitive creation, boolean operations, and mesh generation with Netgen.",
+  "source_repo": "gnshb/salome-mcp",
+  "source_url": "https://github.com/gnshb/salome-mcp",
+  "install": "npx -y salome-mcp"
+}

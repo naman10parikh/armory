@@ -1,0 +1,7 @@
+{
+  "name": "dexopt-ahme",
+  "description": "Background daemon that compresses chat conversations into structured JSON summaries using local Ollama models for persistent cross-session memory.",
+  "source_repo": "dexopt/ahme-mcp",
+  "source_url": "https://github.com/dexopt/ahme-mcp",
+  "install": "npx -y ahme-mcp"
+}

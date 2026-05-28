@@ -1,0 +1,7 @@
+{
+  "name": "mukundakatta-agentvet",
+  "description": "Validates LLM-generated tool arguments before execution to prevent malformed calls.",
+  "source_repo": "mukundakatta/agentvet-mcp",
+  "source_url": "https://github.com/mukundakatta/agentvet-mcp",
+  "install": "npx -y agentvet-mcp"
+}

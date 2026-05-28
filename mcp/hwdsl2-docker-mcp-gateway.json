@@ -1,0 +1,7 @@
+{
+  "name": "hwdsl2-docker-mcp-gateway",
+  "description": "Self-hosted MCP gateway that aggregates multiple backend MCP servers behind a single authenticated HTTP endpoint using MCPHub and Caddy.",
+  "source_repo": "hwdsl2/docker-mcp-gateway",
+  "source_url": "https://github.com/hwdsl2/docker-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/hwdsl2/docker-mcp-gateway\n# See source for mcpServers config block"
+}

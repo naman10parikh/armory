@@ -1,0 +1,7 @@
+{
+  "name": "dogkeeper886-wpa-mcp",
+  "description": "Controls WiFi networks on Linux via wpa_supplicant, enabling AI agents to scan, connect, disconnect, and automate wireless network configurations.",
+  "source_repo": "dogkeeper886/wpa-mcp",
+  "source_url": "https://github.com/dogkeeper886/wpa-mcp",
+  "install": "npx -y wpa-mcp"
+}

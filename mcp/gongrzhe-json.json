@@ -1,0 +1,7 @@
+{
+  "name": "gongrzhe-json",
+  "description": "Provides a JSON manipulation interface using JSONPath syntax for querying, transforming, and analyzing structured data across diverse datasets.",
+  "source_repo": "gongrzhe/json-mcp-server",
+  "source_url": "https://github.com/gongrzhe/json-mcp-server",
+  "install": "npx -y json-mcp-server"
+}

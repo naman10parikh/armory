@@ -1,0 +1,7 @@
+{
+  "name": "human-security-mcp-server",
+  "description": "Enables AI applications to access HUMAN Security's cybersecurity intelligence for threat detection, attack analysis, and security monitoring.",
+  "source_repo": "HumanSecurity/human-mcp-server",
+  "source_url": "https://github.com/HumanSecurity/human-mcp-server",
+  "install": "npx -y human-mcp-server"
+}

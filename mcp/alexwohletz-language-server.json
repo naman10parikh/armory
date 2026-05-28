@@ -1,0 +1,7 @@
+{
+  "name": "alexwohletz-language-server",
+  "description": "Integrates language server capabilities to provide code analysis, completion, and diagnostics for developing in various languages.",
+  "source_repo": "alexwohletz/language-server-mcp",
+  "source_url": "https://github.com/alexwohletz/language-server-mcp",
+  "install": "npx -y language-server-mcp"
+}

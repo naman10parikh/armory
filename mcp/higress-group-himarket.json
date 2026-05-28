@@ -1,0 +1,7 @@
+{
+  "name": "higress-group-himarket",
+  "description": "Enterprise marketplace platform for packaging, publishing, and managing AI assets like Model APIs and MCP Servers with developer onboarding, subscription management, and automated approval workflows.",
+  "source_repo": "higress-group/himarket",
+  "source_url": "https://github.com/higress-group/himarket",
+  "install": "# git clone --depth 1 https://github.com/higress-group/himarket\n# See source for mcpServers config block"
+}

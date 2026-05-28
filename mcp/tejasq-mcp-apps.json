@@ -1,0 +1,7 @@
+{
+  "name": "tejasq-mcp-apps",
+  "description": "Proof-of-concept demonstrating MCP Apps protocol extension where tools return rendered HTML widgets inside AI chat interfaces.",
+  "source_repo": "tejasq/basically-mcp-apps",
+  "source_url": "https://github.com/tejasq/basically-mcp-apps",
+  "install": "# git clone --depth 1 https://github.com/tejasq/basically-mcp-apps\n# See source for mcpServers config block"
+}

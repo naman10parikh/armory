@@ -1,0 +1,7 @@
+{
+  "name": "flaim",
+  "description": "Connect ESPN, Yahoo, and Sleeper fantasy sports leagues for read-only analysis of rosters, matchups, standings, and free agents.",
+  "source_repo": "jdguggs10/flaim",
+  "source_url": "https://github.com/jdguggs10/flaim",
+  "install": "# git clone --depth 1 https://github.com/jdguggs10/flaim\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "markdown-to-html",
+  "description": "Converts Markdown content to HTML with syntax highlighting, ensuring proper formatting and security through sanitization",
+  "source_repo": "fashionzzz/markdown-to-html",
+  "source_url": "https://github.com/fashionzzz/markdown-to-html",
+  "install": "# git clone --depth 1 https://github.com/fashionzzz/markdown-to-html\n# See source for mcpServers config block"
+}

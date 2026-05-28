@@ -1,0 +1,7 @@
+{
+  "name": "gchallen-withings",
+  "description": "Integrates with Withings smart scales through OAuth2 authentication to retrieve weight measurements, body composition data (fat mass, muscle mass, bone mass, hydration), and user settings with automatic token refresh and support for both metric and imperial units.",
+  "source_repo": "gchallen/withings-mcp",
+  "source_url": "https://github.com/gchallen/withings-mcp",
+  "install": "npx -y withings-mcp"
+}

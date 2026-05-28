@@ -1,0 +1,7 @@
+{
+  "name": "apideck",
+  "description": "Unified API MCP — 229 tools across 200+ SaaS connectors for accounting, HRIS, CRM, and file storage.",
+  "source_repo": "apideck-libraries/mcp",
+  "source_url": "https://github.com/apideck-libraries/mcp",
+  "install": "# git clone --depth 1 https://github.com/apideck-libraries/mcp\n# See source for mcpServers config block"
+}

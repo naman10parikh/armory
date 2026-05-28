@@ -1,0 +1,7 @@
+{
+  "name": "undici77-websearch",
+  "description": "Parallel web search across multiple search engines, social media platforms, and web archives with concurrent execution and caching",
+  "source_repo": "undici77/mcpwebsearch",
+  "source_url": "https://github.com/undici77/mcpwebsearch",
+  "install": "# git clone --depth 1 https://github.com/undici77/mcpwebsearch\n# See source for mcpServers config block"
+}

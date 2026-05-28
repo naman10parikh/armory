@@ -1,0 +1,7 @@
+{
+  "name": "devcycle",
+  "description": "Integrates with DevCycle's feature flag platform to create, manage, and analyze feature flags, variables, and deployment configurations across projects and environments with OAuth authentication and comprehensive usage analytics.",
+  "source_repo": "",
+  "source_url": "https://docs.devcycle.com/cli-mcp/mcp-getting-started/",
+  "install": "# git clone --depth 1 https://docs.devcycle.com/cli-mcp/mcp-getting-started/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "shackle-memory",
+  "description": "Persistent memory system for AI coding tools with knowledge graph storage and retrieval.",
+  "source_repo": "shackleai/memory-mcp",
+  "source_url": "https://github.com/shackleai/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

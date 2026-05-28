@@ -1,0 +1,7 @@
+{
+  "name": "smart-ai-memory-empathy-framework",
+  "description": "Five-level AI collaboration system with persistent memory and anticipatory capabilities. MCP-native integration for Claude and other LLMs with local-first architecture via MemDocs.",
+  "source_repo": "Smart-AI-Memory/empathy-framework",
+  "source_url": "https://github.com/Smart-AI-Memory/empathy-framework",
+  "install": "# git clone --depth 1 https://github.com/Smart-AI-Memory/empathy-framework\n# See source for mcpServers config block"
+}

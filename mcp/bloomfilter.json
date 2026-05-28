@@ -1,0 +1,7 @@
+{
+  "name": "bloomfilter",
+  "description": "Search, register, and manage domain names with DNS configuration through the Bloomfilter API using x402 crypto payments.",
+  "source_repo": "bloomfilter-labs/mcp-server-bloomfilter",
+  "source_url": "https://github.com/bloomfilter-labs/mcp-server-bloomfilter",
+  "install": "# git clone --depth 1 https://github.com/bloomfilter-labs/mcp-server-bloomfilter\n# See source for mcpServers config block"
+}

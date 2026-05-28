@@ -1,0 +1,7 @@
+{
+  "name": "geeknees-minesweeper-rails",
+  "description": "Provides access to a Minesweeper Rails API for game management including starting games, checking state, opening/flagging/chording cells, and ending games.",
+  "source_repo": "geeknees/minesweeper-mcp",
+  "source_url": "https://github.com/geeknees/minesweeper-mcp",
+  "install": "npx -y minesweeper-mcp"
+}

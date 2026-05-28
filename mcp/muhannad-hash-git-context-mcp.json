@@ -1,0 +1,7 @@
+{
+  "name": "muhannad-hash-git-context-mcp",
+  "description": "Answers \"why does this code exist?\" by tracing any line back through the commit, GitHub PR description, and linked issues. Five tools: blame context, commit story, file history, commit search, and file contributors. `npx git-context-mcp`",
+  "source_repo": "muhannad-hash/git-context-mcp",
+  "source_url": "https://github.com/muhannad-hash/git-context-mcp",
+  "install": "npx -y git-context-mcp"
+}

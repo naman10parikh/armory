@@ -1,0 +1,7 @@
+{
+  "name": "larsenweigle-langextract",
+  "description": "Extracts structured information from unstructured text and URLs using Google's LangExtract library and Gemini models, maintaining precise source grounding that maps every extraction to its exact location in the original text for healthcare documents, legal contracts, research papers, and business intelligence workflows.",
+  "source_repo": "larsenweigle/langextract-mcp",
+  "source_url": "https://github.com/larsenweigle/langextract-mcp",
+  "install": "npx -y langextract-mcp"
+}

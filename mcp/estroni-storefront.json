@@ -1,0 +1,7 @@
+{
+  "name": "estroni-storefront",
+  "description": "Read-only access to the Estroni activewear product catalog including product search, details, collections, and store policies via Shopify's storefront endpoints.",
+  "source_repo": "estroni/storefront-mcp",
+  "source_url": "https://github.com/estroni/storefront-mcp",
+  "install": "npx -y storefront-mcp"
+}

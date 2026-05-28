@@ -1,0 +1,7 @@
+{
+  "name": "chetparker-uk-data-api",
+  "description": "Provides AI assistants with access to 24 UK data endpoints for property, weather, companies, vehicles, and finance information via x402 micropayments.",
+  "source_repo": "chetparker/uk-property-api",
+  "source_url": "https://github.com/chetparker/uk-property-api",
+  "install": "# git clone --depth 1 https://github.com/chetparker/uk-property-api\n# See source for mcpServers config block"
+}

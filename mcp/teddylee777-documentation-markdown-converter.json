@@ -1,0 +1,7 @@
+{
+  "name": "teddylee777-documentation-markdown-converter",
+  "description": "Provides AI assistants with access to documentation through a configurable server that converts HTML to Markdown and enables auditing of tool calls and returned context.",
+  "source_repo": "teddylee777/mcpdoc",
+  "source_url": "https://github.com/teddylee777/mcpdoc",
+  "install": "# git clone --depth 1 https://github.com/teddylee777/mcpdoc\n# See source for mcpServers config block"
+}

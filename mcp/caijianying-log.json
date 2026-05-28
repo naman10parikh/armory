@@ -1,0 +1,7 @@
+{
+  "name": "caijianying-log",
+  "description": "Queries remote server logs via SSH with tools for listing, reading, searching, and tailing log files.",
+  "source_repo": "caijianying/log-mcp",
+  "source_url": "https://github.com/caijianying/log-mcp",
+  "install": "npx -y log-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "genm-switchbot",
+  "description": "Integrates with SwitchBot devices to enable smart home automation, device control, and status monitoring using the SwitchBot API.",
+  "source_repo": "genm/switchbot-mcp",
+  "source_url": "https://github.com/genm/switchbot-mcp",
+  "install": "npx -y switchbot-mcp"
+}

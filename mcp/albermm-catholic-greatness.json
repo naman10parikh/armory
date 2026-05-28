@@ -1,0 +1,7 @@
+{
+  "name": "albermm-catholic-greatness",
+  "description": "Catholic formation tools including spiritual direction, saints database, scripture, and semantic search.",
+  "source_repo": "",
+  "source_url": "https://cg.phos.nz/mcp/",
+  "install": "# git clone --depth 1 https://cg.phos.nz/mcp/\n# See source for mcpServers config block"
+}

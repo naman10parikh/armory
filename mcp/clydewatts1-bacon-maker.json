@@ -1,0 +1,7 @@
+{
+  "name": "clydewatts1-bacon-maker",
+  "description": "Metadata-first MCP orchestration layer for database systems.",
+  "source_repo": "clydewatts1/td_mcp_bacon_maker",
+  "source_url": "https://github.com/clydewatts1/td_mcp_bacon_maker",
+  "install": "# git clone --depth 1 https://github.com/clydewatts1/td_mcp_bacon_maker\n# See source for mcpServers config block"
+}

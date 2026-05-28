@@ -1,0 +1,7 @@
+{
+  "name": "nextlevelbuilder-goclaw",
+  "description": "Manages GoClaw AI gateway infrastructure with 66 tools covering agents, sessions, and configuration.",
+  "source_repo": "nextlevelbuilder/goclaw-mcp",
+  "source_url": "https://github.com/nextlevelbuilder/goclaw-mcp",
+  "install": "npx -y goclaw-mcp"
+}

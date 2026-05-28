@@ -1,0 +1,7 @@
+{
+  "name": "noveum-api-market",
+  "description": "Converts OpenAPI specifications from API.market into tools for accessing over 200 services including image generation, geocoding, and content detection through a unified authentication system",
+  "source_repo": "noveum/api-market-mcp-server",
+  "source_url": "https://github.com/noveum/api-market-mcp-server",
+  "install": "npx -y api-market-mcp-server"
+}

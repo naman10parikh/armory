@@ -1,0 +1,7 @@
+{
+  "name": "yshalsager-4get",
+  "description": "Integrates with the 4get meta search engine to provide privacy-focused web, image, and news searches through a search aggregator that maintains user privacy while accessing results from multiple sources with built-in rate limiting resilience and caching optimization.",
+  "source_repo": "yshalsager/mcp-4get",
+  "source_url": "https://github.com/yshalsager/mcp-4get",
+  "install": "# git clone --depth 1 https://github.com/yshalsager/mcp-4get\n# See source for mcpServers config block"
+}

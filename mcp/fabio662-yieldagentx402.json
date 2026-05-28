@@ -1,0 +1,7 @@
+{
+  "name": "fabio662-yieldagentx402",
+  "description": "Executes x402 payment-gated tasks with signed receipts and Filecoin proofs via MCP.",
+  "source_repo": "fabio662/yieldagentx402-sdks",
+  "source_url": "https://github.com/fabio662/yieldagentx402-sdks",
+  "install": "# git clone --depth 1 https://github.com/fabio662/yieldagentx402-sdks\n# See source for mcpServers config block"
+}

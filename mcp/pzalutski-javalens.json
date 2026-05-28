@@ -1,0 +1,7 @@
+{
+  "name": "pzalutski-javalens",
+  "description": "63 semantic Java analysis tools via Eclipse JDT for navigation, refactoring, and code intelligence.",
+  "source_repo": "pzalutski-pixel/javalens-mcp",
+  "source_url": "https://github.com/pzalutski-pixel/javalens-mcp",
+  "install": "npx -y javalens-mcp"
+}

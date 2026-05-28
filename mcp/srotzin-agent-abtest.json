@@ -1,0 +1,7 @@
+{
+  "name": "srotzin-agent-abtest",
+  "description": "A/B testing framework for autonomous agents with sticky variant assignment, conversion tracking, and statistical significance testing.",
+  "source_repo": "srotzin/hive-mcp-abtest",
+  "source_url": "https://github.com/srotzin/hive-mcp-abtest",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hive-mcp-abtest\n# See source for mcpServers config block"
+}

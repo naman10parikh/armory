@@ -1,0 +1,7 @@
+{
+  "name": "testdino",
+  "description": "Playwright test reporting and analytics platform with natural language test querying",
+  "source_repo": "testdino-hq/testdino-mcp",
+  "source_url": "https://github.com/testdino-hq/testdino-mcp",
+  "install": "npx -y testdino-mcp"
+}

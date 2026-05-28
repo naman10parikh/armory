@@ -1,0 +1,7 @@
+{
+  "name": "smn2gnt-salesforce",
+  "description": "Integrates with Salesforce to enable natural language interactions for executing queries, managing records, and automating CRM workflows.",
+  "source_repo": "smn2gnt/mcp-salesforce",
+  "source_url": "https://github.com/smn2gnt/mcp-salesforce",
+  "install": "# git clone --depth 1 https://github.com/smn2gnt/mcp-salesforce\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jasondsmith72-connectwise-manage-api",
+  "description": "Bridges Claude with the ConnectWise Manage API through a SQLite database built from API definitions, enabling natural language search, categorized navigation, and fast memory for efficient IT service ticket management and company information retrieval.",
+  "source_repo": "jasondsmith72/cwm-api-gateway-mcp",
+  "source_url": "https://github.com/jasondsmith72/cwm-api-gateway-mcp",
+  "install": "npx -y cwm-api-gateway-mcp"
+}

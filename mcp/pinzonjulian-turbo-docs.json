@@ -1,0 +1,7 @@
+{
+  "name": "pinzonjulian-turbo-docs",
+  "description": "Provides AI access to Hotwire Turbo documentation, exposing individual files as tools for targeted retrieval of specific features like Drive, Frames, Streams, and page refreshes.",
+  "source_repo": "pinzonjulian/turbo-docs-mcp-server",
+  "source_url": "https://github.com/pinzonjulian/turbo-docs-mcp-server",
+  "install": "npx -y turbo-docs-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "azure-mcp-server",
+  "description": "Azure_mcp_server MCP server listed on mcp.so.",
+  "source_repo": "mashriram/azure_mcp_server",
+  "source_url": "https://mcp.so/server/azure_mcp_server/mashriram",
+  "install": "npx -y azure_mcp_server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mercury-spec-ops",
+  "description": "Modular prompt engineering for software development analysis",
+  "source_repo": "n0zer0d4y/mercury-spec-ops",
+  "source_url": "https://github.com/n0zer0d4y/mercury-spec-ops",
+  "install": "# git clone --depth 1 https://github.com/n0zer0d4y/mercury-spec-ops\n# See source for mcpServers config block"
+}

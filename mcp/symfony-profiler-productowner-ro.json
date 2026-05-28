@@ -1,0 +1,7 @@
+{
+  "name": "symfony-profiler-productowner-ro",
+  "description": "Exposes Symfony profiler data to AI-powered IDEs using a two-tier model that returns compact summaries first, with full collector details available on demand via resource URIs.",
+  "source_repo": "productowner-ro/symfony-profiler-mcp",
+  "source_url": "https://github.com/productowner-ro/symfony-profiler-mcp",
+  "install": "npx -y symfony-profiler-mcp"
+}

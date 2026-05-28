@@ -1,0 +1,7 @@
+{
+  "name": "arjuncodess-storyblok",
+  "description": "Integrates with Storyblok CMS for complete content management including story operations, publishing workflows, version control, asset handling, component schemas, and datasource management with proper authentication and validation.",
+  "source_repo": "arjuncodess/storyblok-mcp",
+  "source_url": "https://github.com/arjuncodess/storyblok-mcp",
+  "install": "npx -y storyblok-mcp"
+}

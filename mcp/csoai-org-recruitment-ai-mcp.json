@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-recruitment-ai-mcp",
+  "description": "Python MCP server for recruitment management and talent acquisition tools.",
+  "source_repo": "csoai-org/recruitment-ai-mcp",
+  "source_url": "https://github.com/csoai-org/recruitment-ai-mcp",
+  "install": "npx -y recruitment-ai-mcp"
+}

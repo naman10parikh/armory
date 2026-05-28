@@ -1,0 +1,7 @@
+{
+  "name": "briankscheong-kubernetes",
+  "description": "Provides a bridge between Kubernetes clusters and AI systems for monitoring, troubleshooting, and managing resources like pods, deployments, and services without requiring direct kubectl access.",
+  "source_repo": "briankscheong/k8s-mcp-server",
+  "source_url": "https://github.com/briankscheong/k8s-mcp-server",
+  "install": "npx -y k8s-mcp-server"
+}

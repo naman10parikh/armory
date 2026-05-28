@@ -1,0 +1,7 @@
+{
+  "name": "bortlesboat-bitcoin",
+  "description": "Comprehensive Bitcoin network toolkit with fee intelligence, mempool analysis, block exploration, mining stats, and price data. Works instantly with zero configuration via hosted API, or connects to a local Bitcoin Core node.",
+  "source_repo": "bortlesboat/bitcoin-mcp",
+  "source_url": "https://github.com/bortlesboat/bitcoin-mcp",
+  "install": "npx -y bitcoin-mcp"
+}

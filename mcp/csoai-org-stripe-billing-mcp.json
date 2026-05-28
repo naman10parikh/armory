@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-stripe-billing-mcp",
+  "description": "Python MCP server for Stripe billing and payment management.",
+  "source_repo": "csoai-org/stripe-billing-mcp",
+  "source_url": "https://github.com/csoai-org/stripe-billing-mcp",
+  "install": "npx -y stripe-billing-mcp"
+}

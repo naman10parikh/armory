@@ -1,0 +1,7 @@
+{
+  "name": "damian-pramparo-semantic-context",
+  "description": "Provides semantic code search across large codebases using ChromaDB vector storage and configurable embeddings, enabling indexing of local project directories with 50+ file type support and retrieval of code snippets with metadata tracking for development teams building knowledge bases and code navigation systems.",
+  "source_repo": "damian-pramparo/semantic-context-mcp",
+  "source_url": "https://github.com/damian-pramparo/semantic-context-mcp",
+  "install": "npx -y semantic-context-mcp"
+}

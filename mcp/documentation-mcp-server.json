@@ -1,0 +1,7 @@
+{
+  "name": "documentation-mcp-server",
+  "description": "Documentation Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "SubaashNair/documentation-mcp-server",
+  "source_url": "https://mcp.so/server/documentation-mcp-server/SubaashNair",
+  "install": "npx -y documentation-mcp-server"
+}

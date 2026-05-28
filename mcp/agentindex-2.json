@@ -1,0 +1,7 @@
+{
+  "name": "agentindex-2",
+  "description": "Discovery platform for AI agents. Find any AI agent by capability — search 20,000+ indexed agents across GitHub, npm, MCP, and HuggingFace.",
+  "source_repo": "agentidx/agentindex",
+  "source_url": "https://github.com/agentidx/agentindex",
+  "install": "# git clone --depth 1 https://github.com/agentidx/agentindex\n# See source for mcpServers config block"
+}

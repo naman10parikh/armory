@@ -1,0 +1,7 @@
+{
+  "name": "codeweaver",
+  "description": "Manages complex multi-file code changes through structured edit plans with dependency tracking.",
+  "source_repo": "knitli/code-weaver",
+  "source_url": "https://github.com/knitli/code-weaver",
+  "install": "# git clone --depth 1 https://github.com/knitli/code-weaver\n# See source for mcpServers config block"
+}

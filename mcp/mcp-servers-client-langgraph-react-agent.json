@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-client-langgraph-react-agent",
+  "description": "Mcp Servers Client Langgraph React Agent MCP server listed on mcp.so.",
+  "source_repo": "ahmedmusawir/mcp-servers-client-langgraph-react-agent",
+  "source_url": "https://mcp.so/server/mcp-servers-client-langgraph-react-agent/ahmedmusawir",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers-client-langgraph-react-agent/ahmedmusawir\n# See source for mcpServers config block"
+}

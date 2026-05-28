@@ -1,0 +1,7 @@
+{
+  "name": "misanthropic-ai-ddg",
+  "description": "Integrates with DuckDuckGo to provide web, image, news, and video search capabilities with configurable parameters for region, safesearch, and time limits.",
+  "source_repo": "misanthropic-ai/ddg-mcp",
+  "source_url": "https://github.com/misanthropic-ai/ddg-mcp",
+  "install": "npx -y ddg-mcp"
+}

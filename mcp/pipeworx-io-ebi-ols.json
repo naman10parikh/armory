@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-ebi-ols",
+  "description": "Searches 250+ biomedical ontologies via the EBI Ontology Lookup Service.",
+  "source_repo": "pipeworx-io/mcp-ebi-ols",
+  "source_url": "https://github.com/pipeworx-io/mcp-ebi-ols",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ebi-ols\n# See source for mcpServers config block"
+}

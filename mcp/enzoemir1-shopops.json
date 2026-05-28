@@ -1,0 +1,7 @@
+{
+  "name": "enzoemir1-shopops",
+  "description": "AI e-commerce operations for inventory management, pricing, segmentation, and analytics.",
+  "source_repo": "enzoemir1/shopops-mcp",
+  "source_url": "https://github.com/enzoemir1/shopops-mcp",
+  "install": "npx -y shopops-mcp"
+}

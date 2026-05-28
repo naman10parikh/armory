@@ -1,0 +1,7 @@
+{
+  "name": "feedoracle-macro",
+  "description": "Real-time macroeconomic signals for AI trading agents with 86 FRED series and deterministic regime classification.",
+  "source_repo": "feedoracle/feedoracle-macro-mcp",
+  "source_url": "https://github.com/feedoracle/feedoracle-macro-mcp",
+  "install": "npx -y feedoracle-macro-mcp"
+}

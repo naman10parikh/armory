@@ -1,0 +1,7 @@
+{
+  "name": "astandrik-codex-pets",
+  "description": "Community pet pack registry for the Codex CLI: search, preview, and install pet extensions.",
+  "source_repo": "",
+  "source_url": "https://pets.ydb-qdrant.tech",
+  "install": "# git clone --depth 1 https://pets.ydb-qdrant.tech\n# See source for mcpServers config block"
+}

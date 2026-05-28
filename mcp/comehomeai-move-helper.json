@@ -1,0 +1,7 @@
+{
+  "name": "comehomeai-move-helper",
+  "description": "Estimates move size, inventory, and quotes for house or office relocations.",
+  "source_repo": "",
+  "source_url": "https://mcp.prd.comehome.ai/mcp",
+  "install": "# git clone --depth 1 https://mcp.prd.comehome.ai/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "bulkrender-mcp",
+  "description": "MCP server for BulkRender — generate bulk DOCX and PDF documents from Claude, Cursor, Windsurf, and any MCP-compatible AI assistant",
+  "source_repo": "ayo-nci/bulkrender-mcp",
+  "source_url": "https://github.com/ayo-nci/bulkrender-mcp",
+  "install": "npx -y bulkrender-mcp"
+}

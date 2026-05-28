@@ -1,0 +1,7 @@
+{
+  "name": "geminiupgradeqa-mcp",
+  "description": "Gemini model upgrade evaluation with prompt regression testing, output diffs, and eval receipts.",
+  "source_repo": "clauxel/gemini-upgrade-qa-mcp",
+  "source_url": "https://github.com/clauxel/gemini-upgrade-qa-mcp",
+  "install": "npx -y gemini-upgrade-qa-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grupo-avispa-dsr",
+  "description": "Provides tools for interacting with Deep State Representation graphs used in robotics",
+  "source_repo": "grupo-avispa/dsr_mcp_server",
+  "source_url": "https://github.com/grupo-avispa/dsr_mcp_server",
+  "install": "npx -y dsr_mcp_server"
+}

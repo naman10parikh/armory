@@ -1,0 +1,7 @@
+{
+  "name": "stabgan-openrouter-multimodal",
+  "description": "Provides seamless access to OpenRouter's diverse AI models, enabling multimodal interactions across vision and language models with intelligent model selection, caching, and robust error handling.",
+  "source_repo": "stabgan/openrouter-mcp-multimodal",
+  "source_url": "https://github.com/stabgan/openrouter-mcp-multimodal",
+  "install": "# git clone --depth 1 https://github.com/stabgan/openrouter-mcp-multimodal\n# See source for mcpServers config block"
+}

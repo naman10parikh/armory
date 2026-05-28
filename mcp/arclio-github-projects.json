@@ -1,0 +1,7 @@
+{
+  "name": "arclio-github-projects",
+  "description": "Integrates with GitHub Projects V2 to enable direct management of project boards, issues, and field values through natural language commands without switching contexts.",
+  "source_repo": "arclio/github-projects-mcp",
+  "source_url": "https://github.com/arclio/github-projects-mcp",
+  "install": "npx -y github-projects-mcp"
+}

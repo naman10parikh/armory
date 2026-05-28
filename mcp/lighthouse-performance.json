@@ -1,0 +1,7 @@
+{
+  "name": "lighthouse-performance",
+  "description": "Automates Google Lighthouse performance auditing with configurable device types and audit categories, providing Core Web Vitals analysis, critical request chain examination, unused code detection, and batch processing capabilities that generate prioritized optimization recommendations with impact assessments for web performance monitoring and CI/CD integration.",
+  "source_repo": "mizchi/lighthouse-mcp",
+  "source_url": "https://github.com/mizchi/lighthouse-mcp",
+  "install": "npx -y lighthouse-mcp"
+}

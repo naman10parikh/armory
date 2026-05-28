@@ -1,0 +1,7 @@
+{
+  "name": "yukukotani-gemini-google-search",
+  "description": "Provides Google Search functionality through Gemini's native grounding capabilities, delivering search results with automatic source citations and grounding metadata for reliable information retrieval.",
+  "source_repo": "yukukotani/mcp-gemini-google-search",
+  "source_url": "https://github.com/yukukotani/mcp-gemini-google-search",
+  "install": "# git clone --depth 1 https://github.com/yukukotani/mcp-gemini-google-search\n# See source for mcpServers config block"
+}

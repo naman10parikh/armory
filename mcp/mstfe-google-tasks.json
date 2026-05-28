@@ -1,0 +1,7 @@
+{
+  "name": "mstfe-google-tasks",
+  "description": "Integrates with the Google Tasks API to provide structured task management capabilities for creating, listing, updating, and toggling tasks in default lists.",
+  "source_repo": "mstfe/mcp-google-tasks",
+  "source_url": "https://github.com/mstfe/mcp-google-tasks",
+  "install": "# git clone --depth 1 https://github.com/mstfe/mcp-google-tasks\n# See source for mcpServers config block"
+}

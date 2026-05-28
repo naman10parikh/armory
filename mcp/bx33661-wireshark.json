@@ -1,0 +1,7 @@
+{
+  "name": "bx33661-wireshark",
+  "description": "TShark network packet analysis with capture, protocol stats, field extraction, and security analysis.",
+  "source_repo": "bx33661/wireshark-mcp",
+  "source_url": "https://github.com/bx33661/wireshark-mcp",
+  "install": "npx -y wireshark-mcp"
+}

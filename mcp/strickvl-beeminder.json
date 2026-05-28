@@ -1,0 +1,7 @@
+{
+  "name": "strickvl-beeminder",
+  "description": "Integrates with the Beeminder API to enable retrieval and analysis of personal productivity goals and progress data.",
+  "source_repo": "strickvl/mcp-beeminder",
+  "source_url": "https://github.com/strickvl/mcp-beeminder",
+  "install": "# git clone --depth 1 https://github.com/strickvl/mcp-beeminder\n# See source for mcpServers config block"
+}

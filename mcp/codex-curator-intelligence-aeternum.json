@@ -1,0 +1,7 @@
+{
+  "name": "codex-curator-intelligence-aeternum",
+  "description": "Persistent knowledge graph memory for AI agents with entity extraction and relationship mapping.",
+  "source_repo": "codex-curator/intelligence-aeternum-mcp",
+  "source_url": "https://github.com/codex-curator/intelligence-aeternum-mcp",
+  "install": "npx -y intelligence-aeternum-mcp"
+}

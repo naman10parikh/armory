@@ -1,0 +1,7 @@
+{
+  "name": "rootz-cars",
+  "description": "AI-native used car marketplace with 170,000+ vehicles across 4,300+ dealers.",
+  "source_repo": "",
+  "source_url": "https://cars.rootz.global",
+  "install": "# git clone --depth 1 https://cars.rootz.global\n# See source for mcpServers config block"
+}

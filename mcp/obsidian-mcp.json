@@ -1,0 +1,7 @@
+{
+  "name": "obsidian-mcp",
+  "description": "Obsidian Mcp MCP server listed on mcp.so.",
+  "source_repo": "newtype-01/obsidian-mcp",
+  "source_url": "https://mcp.so/server/obsidian-mcp/newtype-01",
+  "install": "npx -y obsidian-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kujenga-zotero",
+  "description": "Integrates with Zotero to enable searching libraries, retrieving metadata, and accessing full-text content for scholarly research workflows.",
+  "source_repo": "kujenga/zotero-mcp",
+  "source_url": "https://github.com/kujenga/zotero-mcp",
+  "install": "npx -y zotero-mcp"
+}

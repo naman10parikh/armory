@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-datacite",
+  "description": "DataCite DOI search and metadata for research datasets, software, and other non-paper scholarly outputs via Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-datacite",
+  "source_url": "https://github.com/pipeworx-io/mcp-datacite",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-datacite\n# See source for mcpServers config block"
+}

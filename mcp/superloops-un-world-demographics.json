@@ -1,0 +1,7 @@
+{
+  "name": "superloops-un-world-demographics",
+  "description": "Access 70+ years of UN population data across 298 countries and regions",
+  "source_repo": "",
+  "source_url": "https://usewire.io/explore/un-demographics/",
+  "install": "# git clone --depth 1 https://usewire.io/explore/un-demographics/\n# See source for mcpServers config block"
+}

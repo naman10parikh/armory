@@ -1,0 +1,7 @@
+{
+  "name": "x51xxx-osp-marketing-tools",
+  "description": "Provides TypeScript tools for technical marketing content creation including value mapping, meta information generation, content editing, and SEO optimization through both stdio and HTTP/SSE transport methods.",
+  "source_repo": "x51xxx/osp-marketing-tools-mcp",
+  "source_url": "https://github.com/x51xxx/osp-marketing-tools-mcp",
+  "install": "npx -y osp-marketing-tools-mcp"
+}

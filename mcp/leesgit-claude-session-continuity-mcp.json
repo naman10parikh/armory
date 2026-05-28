@@ -1,0 +1,7 @@
+{
+  "name": "leesgit-claude-session-continuity-mcp",
+  "description": "Zero-config session continuity for Claude Code. Auto-captures context via Claude Hooks, provides 25 tools for memory, tasks, solutions, and knowledge graph. Multilingual semantic search (94+ languages) with cross-language retrieval.",
+  "source_repo": "leesgit/claude-session-continuity-mcp",
+  "source_url": "https://github.com/leesgit/claude-session-continuity-mcp",
+  "install": "npx -y claude-session-continuity-mcp"
+}

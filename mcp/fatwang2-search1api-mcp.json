@@ -1,0 +1,7 @@
+{
+  "name": "fatwang2-search1api-mcp",
+  "description": "Execute web searches, news queries, and content extraction.",
+  "source_repo": "fatwang2/search1api-mcp",
+  "source_url": "https://github.com/fatwang2/search1api-mcp",
+  "install": "npx -y search1api-mcp"
+}

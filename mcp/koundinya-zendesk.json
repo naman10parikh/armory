@@ -1,0 +1,7 @@
+{
+  "name": "koundinya-zendesk",
+  "description": "Integrates with Zendesk to enable ticket retrieval, creation, updating, and searching directly from conversation interfaces for streamlined customer support workflows.",
+  "source_repo": "koundinya/zd-mcp-server",
+  "source_url": "https://github.com/koundinya/zd-mcp-server",
+  "install": "npx -y zd-mcp-server"
+}

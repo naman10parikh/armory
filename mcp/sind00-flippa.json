@@ -1,0 +1,7 @@
+{
+  "name": "sind00-flippa",
+  "description": "Search, analyze, and evaluate online businesses for sale on the Flippa.com marketplace.",
+  "source_repo": "sind00/flippa-mcp",
+  "source_url": "https://github.com/sind00/flippa-mcp",
+  "install": "npx -y flippa-mcp"
+}

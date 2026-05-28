@@ -1,0 +1,7 @@
+{
+  "name": "that1guy15-tox-testing",
+  "description": "Executes tox commands to run tests within a project using the project's tox.ini",
+  "source_repo": "that1guy15/tox-testing",
+  "source_url": "https://github.com/that1guy15/tox-testing",
+  "install": "# git clone --depth 1 https://github.com/that1guy15/tox-testing\n# See source for mcpServers config block"
+}

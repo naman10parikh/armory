@@ -1,0 +1,7 @@
+{
+  "name": "wiswa-mcp",
+  "description": "FastMCP server exposing Wiswa settings discovery to AI assistants such as Claude Code, Cursor, and GitHub Copilot.",
+  "source_repo": "Tatsh/wiswa-mcp",
+  "source_url": "https://github.com/Tatsh/wiswa-mcp",
+  "install": "npx -y wiswa-mcp"
+}

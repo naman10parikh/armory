@@ -1,0 +1,7 @@
+{
+  "name": "zhuzhe1983-playwright-browser-automation",
+  "description": "Provides browser automation capabilities through headless Chromium instances with comprehensive session management, supporting standard web operations, Electron application testing, and test recording that captures user interactions to generate Playwright, Jest, or Mocha test scripts.",
+  "source_repo": "zhuzhe1983/playwright-mcp",
+  "source_url": "https://github.com/zhuzhe1983/playwright-mcp",
+  "install": "npx -y playwright-mcp"
+}

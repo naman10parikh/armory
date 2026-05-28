@@ -1,0 +1,7 @@
+{
+  "name": "platform-eng-copilot",
+  "description": "Enables platform engineering workflows via GitHub Copilot, including creating repositories from templates and provisioning Azure deployment environments.",
+  "source_repo": "danielmeppiel/agentic-platform-engineering",
+  "source_url": "https://github.com/danielmeppiel/agentic-platform-engineering",
+  "install": "# git clone --depth 1 https://github.com/danielmeppiel/agentic-platform-engineering\n# See source for mcpServers config block"
+}

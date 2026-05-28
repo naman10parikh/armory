@@ -1,0 +1,7 @@
+{
+  "name": "lark-mcp-server",
+  "description": "Enables AI models to send messages to Lark users and manage calendar events (list, create, add attendees) through the Model Context Protocol.",
+  "source_repo": "junyuan-qi/lark-mcp-server",
+  "source_url": "https://github.com/junyuan-qi/lark-mcp-server",
+  "install": "npx -y lark-mcp-server"
+}

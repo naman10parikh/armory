@@ -1,0 +1,7 @@
+{
+  "name": "pepabo-muumuu-domain-mcp",
+  "description": "Official remote MCP server for Muumuu Domain (GMO Pepabo). Search and register domains, manage owned domains and contracts, and configure DNS records via natural language.",
+  "source_repo": "pepabo/muumuu-domain-mcp",
+  "source_url": "https://github.com/pepabo/muumuu-domain-mcp",
+  "install": "npx -y muumuu-domain-mcp"
+}

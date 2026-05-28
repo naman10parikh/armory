@@ -1,0 +1,7 @@
+{
+  "name": "exa-omgflux",
+  "description": "Provides a bridge to OhMyGPT Flux image generation API, enabling high-quality image creation from text prompts with customizable parameters and cached results directly within conversations.",
+  "source_repo": "xxpe3/omgflux-mcp-server",
+  "source_url": "https://github.com/xxpe3/omgflux-mcp-server",
+  "install": "npx -y omgflux-mcp-server"
+}

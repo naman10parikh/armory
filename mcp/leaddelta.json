@@ -1,0 +1,7 @@
+{
+  "name": "leaddelta",
+  "description": "Manage LinkedIn connections and CRM data with search, filtering, and contact retrieval.",
+  "source_repo": "leaddelta/ld-mcp-server",
+  "source_url": "https://github.com/leaddelta/ld-mcp-server",
+  "install": "npx -y ld-mcp-server"
+}

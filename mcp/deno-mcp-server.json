@@ -1,0 +1,7 @@
+{
+  "name": "deno-mcp-server",
+  "description": "Deno Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mazrean/deno-mcp-server",
+  "source_url": "https://mcp.so/server/deno-mcp-server/mazrean",
+  "install": "npx -y deno-mcp-server"
+}

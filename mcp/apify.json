@@ -1,0 +1,7 @@
+{
+  "name": "apify",
+  "description": "Extract data from any website with thousands of scrapers, crawlers, and automations on Apify Store. Use ready-made tools to access all popular social media, e-commerce, search engines, maps, and travel sites.",
+  "source_repo": "apify/apify-mcp-server",
+  "source_url": "https://github.com/apify/apify-mcp-server",
+  "install": "npx -y apify-mcp-server"
+}

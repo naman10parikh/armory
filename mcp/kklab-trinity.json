@@ -1,0 +1,7 @@
+{
+  "name": "kklab-trinity",
+  "description": "Bridges AI systems with Trinity's formula-based tools through a Go-based server that enables access to Trinity API capabilities via JSON-RPC interface",
+  "source_repo": "kklab-com/trinity-mcp",
+  "source_url": "https://github.com/kklab-com/trinity-mcp",
+  "install": "npx -y trinity-mcp"
+}

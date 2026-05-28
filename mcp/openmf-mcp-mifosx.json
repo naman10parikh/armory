@@ -1,0 +1,7 @@
+{
+  "name": "openmf-mcp-mifosx",
+  "description": "A core banking integration for managing clients, loans, savings, shares, financial transactions and generating financial reports.",
+  "source_repo": "openMF/mcp-mifosx",
+  "source_url": "https://github.com/openMF/mcp-mifosx",
+  "install": "# git clone --depth 1 https://github.com/openMF/mcp-mifosx\n# See source for mcpServers config block"
+}

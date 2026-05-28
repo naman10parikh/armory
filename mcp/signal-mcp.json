@@ -1,0 +1,7 @@
+{
+  "name": "signal-mcp",
+  "description": "MCP server for Signal via signal-cli that enables sending and receiving messages, managing contacts and groups, and reacting over stdio.",
+  "source_repo": "daanrongen/signal-mcp",
+  "source_url": "https://github.com/daanrongen/signal-mcp",
+  "install": "npx -y signal-mcp"
+}

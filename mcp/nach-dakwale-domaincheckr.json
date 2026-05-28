@@ -1,0 +1,7 @@
+{
+  "name": "nach-dakwale-domaincheckr",
+  "description": "Checks domain name availability via RDAP protocol with bulk checking and smart suggestions.",
+  "source_repo": "nach-dakwale/domaincheckr-mcp",
+  "source_url": "https://github.com/nach-dakwale/domaincheckr-mcp",
+  "install": "npx -y domaincheckr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "saketh12e-cortex",
+  "description": "Local-first persistent memory system for AI agents using hybrid semantic and keyword search over a shared SQLite database.",
+  "source_repo": "saketh12e/cortex-mcp",
+  "source_url": "https://github.com/saketh12e/cortex-mcp",
+  "install": "npx -y cortex-mcp"
+}

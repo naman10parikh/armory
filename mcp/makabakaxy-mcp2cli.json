@@ -1,0 +1,7 @@
+{
+  "name": "makabakaxy-mcp2cli",
+  "description": "Converts MCP servers into CLI tools and AI agent skills with 97% token reduction.",
+  "source_repo": "makabakaxy/mcp2cli",
+  "source_url": "https://github.com/makabakaxy/mcp2cli",
+  "install": "# git clone --depth 1 https://github.com/makabakaxy/mcp2cli\n# See source for mcpServers config block"
+}

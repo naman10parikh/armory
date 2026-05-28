@@ -1,0 +1,7 @@
+{
+  "name": "jameswlepage-wordpress-trac",
+  "description": "Provides access to WordPress.org Trac development data through public CSV and RSS endpoints, enabling searches across 60,000+ tickets, detailed ticket retrieval with metadata and comments, changeset information with diff content, and recent development activity monitoring for WordPress core contributors and plugin developers.",
+  "source_repo": "jameswlepage/trac-mcp",
+  "source_url": "https://github.com/jameswlepage/trac-mcp",
+  "install": "npx -y trac-mcp"
+}

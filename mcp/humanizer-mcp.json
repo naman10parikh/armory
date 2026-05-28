@@ -1,0 +1,7 @@
+{
+  "name": "humanizer-mcp",
+  "description": "Measures AI-detection risk in text and provides a line-by-line rewrite plan to lower the score.",
+  "source_repo": "aousabdo/humanizer-mcp",
+  "source_url": "https://github.com/aousabdo/humanizer-mcp",
+  "install": "npx -y humanizer-mcp"
+}

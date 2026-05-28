@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [java-hooks, java-patterns]
-tags: [ecc, rules, java]
+tags: [rules, java]
 ---
 ## What it is
 java rule: apply when working on java and you need Java Coding Style.

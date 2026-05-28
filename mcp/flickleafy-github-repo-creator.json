@@ -1,0 +1,7 @@
+{
+  "name": "flickleafy-github-repo-creator",
+  "description": "Automates GitHub repository creation by analyzing local codebases to intelligently generate repository names, descriptions, topics, and licenses based on detected programming languages, frameworks, and project types.",
+  "source_repo": "flickleafy/mcp-github-repo-creator",
+  "source_url": "https://github.com/flickleafy/mcp-github-repo-creator",
+  "install": "# git clone --depth 1 https://github.com/flickleafy/mcp-github-repo-creator\n# See source for mcpServers config block"
+}

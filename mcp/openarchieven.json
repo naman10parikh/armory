@@ -1,0 +1,7 @@
+{
+  "name": "openarchieven",
+  "description": "Searches Dutch and Belgian genealogical archives for historical person records.",
+  "source_repo": "coret/openarchieven-mcp-server",
+  "source_url": "https://github.com/coret/openarchieven-mcp-server",
+  "install": "npx -y openarchieven-mcp-server"
+}

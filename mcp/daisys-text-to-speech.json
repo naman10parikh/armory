@@ -1,0 +1,7 @@
+{
+  "name": "daisys-text-to-speech",
+  "description": "Provides a bridge to the Daisys AI text-to-speech API, enabling high-quality voice audio generation with control over characteristics like gender, pace, pitch, and expression.",
+  "source_repo": "daisys-ai/daisys-mcp",
+  "source_url": "https://github.com/daisys-ai/daisys-mcp",
+  "install": "npx -y daisys-mcp"
+}

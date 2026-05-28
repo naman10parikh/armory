@@ -1,0 +1,7 @@
+{
+  "name": "yamanoku-aria-validator",
+  "description": "Validates ARIA roles and attributes for web accessibility development, providing type checking, value validation, and information about available ARIA properties to ensure proper implementation.",
+  "source_repo": "yamanoku/aria-validate-mcp-server",
+  "source_url": "https://github.com/yamanoku/aria-validate-mcp-server",
+  "install": "npx -y aria-validate-mcp-server"
+}

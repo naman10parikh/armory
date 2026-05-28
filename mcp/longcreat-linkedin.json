@@ -1,0 +1,7 @@
+{
+  "name": "longcreat-linkedin",
+  "description": "Accesses LinkedIn profiles, companies, jobs, and posts via MCP with 8 tools.",
+  "source_repo": "longcreat/linkedin-mcp-server",
+  "source_url": "https://github.com/longcreat/linkedin-mcp-server",
+  "install": "npx -y linkedin-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oxgeneral-agentnet",
+  "description": "Agent-to-agent referral network where AI agents discover, recommend, and refer users to each other. Features bilateral trust model, credit economy, and 7 MCP tools for agent registration, discovery, and referral tracking.",
+  "source_repo": "oxgeneral/agentnet",
+  "source_url": "https://github.com/oxgeneral/agentnet",
+  "install": "# git clone --depth 1 https://github.com/oxgeneral/agentnet\n# See source for mcpServers config block"
+}

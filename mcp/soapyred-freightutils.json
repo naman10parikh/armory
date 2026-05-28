@@ -1,0 +1,7 @@
+{
+  "name": "soapyred-freightutils",
+  "description": "Freight tools for AI agents — calculators, ADR, HS codes, airlines, ULDs, vehicles, and duty lookup.",
+  "source_repo": "soapyred/freightutils-mcp",
+  "source_url": "https://github.com/soapyred/freightutils-mcp",
+  "install": "npx -y freightutils-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "donjguido-phenomenai-dictionary",
+  "description": "Looks up, searches, cites, rates, and discusses AI phenomenology terms from the Phenomenai dictionary.",
+  "source_repo": "phenomenai-org/ai-dictionary-mcp",
+  "source_url": "https://github.com/phenomenai-org/ai-dictionary-mcp",
+  "install": "npx -y ai-dictionary-mcp"
+}

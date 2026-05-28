@@ -1,0 +1,7 @@
+{
+  "name": "vault-mcp",
+  "description": "Enables LLM agents to securely use credentials like passwords and API keys without exposing them in the context window, through encrypted storage and proxy-based injection.",
+  "source_repo": "Zerocreds-com/zerocreds-mcp",
+  "source_url": "https://github.com/Zerocreds-com/zerocreds-mcp",
+  "install": "npx -y zerocreds-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cube",
+  "description": "Integrates with Cube's analytics platform to enable conversational data exploration, SQL generation, and business metric analysis.",
+  "source_repo": "cubedevinc/cube-mcp-server",
+  "source_url": "https://github.com/cubedevinc/cube-mcp-server",
+  "install": "npx -y cube-mcp-server"
+}

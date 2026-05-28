@@ -1,0 +1,7 @@
+{
+  "name": "adityamparikh-solr",
+  "description": "Integrates with Apache Solr to provide search, indexing, and collection management capabilities including advanced filtering, faceting, pagination, schema-less document indexing, health monitoring, and performance metrics collection.",
+  "source_repo": "adityamparikh/solr-mcp-server",
+  "source_url": "https://github.com/adityamparikh/solr-mcp-server",
+  "install": "npx -y solr-mcp-server"
+}

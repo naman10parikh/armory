@@ -1,0 +1,7 @@
+{
+  "name": "lucker631-templateio",
+  "description": "Provides a template for building custom servers using TypeScript and the mcp-framework package, setting up project structure and configuration for developers to create tailored API or service integrations.",
+  "source_repo": "lucker631/mcp-templateio",
+  "source_url": "https://github.com/lucker631/mcp-templateio",
+  "install": "# git clone --depth 1 https://github.com/lucker631/mcp-templateio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "libra850-obsidian-vault-manager",
+  "description": "Integrates with Obsidian vaults to provide template-based note creation with variable substitution, wiki-style link management, and automated knowledge base organization with Japanese locale support.",
+  "source_repo": "libra850/obsidian-mcp-server",
+  "source_url": "https://github.com/libra850/obsidian-mcp-server",
+  "install": "npx -y obsidian-mcp-server"
+}

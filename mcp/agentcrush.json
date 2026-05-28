@@ -1,0 +1,7 @@
+{
+  "name": "agentcrush",
+  "description": "Market intelligence for the AI agent economy with rankings, search, comparison, and methodology data.",
+  "source_repo": "kristof-sudo/agentcrush-app",
+  "source_url": "https://github.com/kristof-sudo/agentcrush-app",
+  "install": "# git clone --depth 1 https://github.com/kristof-sudo/agentcrush-app\n# See source for mcpServers config block"
+}

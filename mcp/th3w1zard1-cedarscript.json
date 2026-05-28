@@ -1,0 +1,7 @@
+{
+  "name": "th3w1zard1-cedarscript",
+  "description": "Provides CEDARScript (a SQL-like language) capabilities for executing pattern matching and transformations on source code to enable automated refactoring, code generation, and static analysis tasks.",
+  "source_repo": "th3w1zard1/cedarscript-mcp",
+  "source_url": "https://github.com/th3w1zard1/cedarscript-mcp",
+  "install": "npx -y cedarscript-mcp"
+}

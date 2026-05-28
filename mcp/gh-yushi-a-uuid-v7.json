@@ -1,0 +1,7 @@
+{
+  "name": "gh-yushi-a-uuid-v7",
+  "description": "Generate, validate, and parse UUID v7 identifiers.",
+  "source_repo": "yushi-a/uuid-mcp",
+  "source_url": "https://github.com/yushi-a/uuid-mcp",
+  "install": "npx -y uuid-mcp"
+}

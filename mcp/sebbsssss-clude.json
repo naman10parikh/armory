@@ -1,0 +1,7 @@
+{
+  "name": "sebbsssss-clude",
+  "description": "Cognitive memory system with typed memory categories, differential decay rates, and autonomous dream cycles for persistent AI agent memory.",
+  "source_repo": "sebbsssss/clude",
+  "source_url": "https://github.com/sebbsssss/clude",
+  "install": "# git clone --depth 1 https://github.com/sebbsssss/clude\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "infatoshi-x",
+  "description": "Full X API access for posting, searching, reading, engagement, media upload, and analytics.",
+  "source_repo": "infatoshi/x-mcp",
+  "source_url": "https://github.com/infatoshi/x-mcp",
+  "install": "npx -y x-mcp"
+}

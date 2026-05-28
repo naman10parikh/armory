@@ -1,0 +1,7 @@
+{
+  "name": "edgedelta-edgedelta-mcp-server",
+  "description": "Interact with Edge Delta anomalies, query logs / patterns / events, and pinpoint root causes and optimize your pipelines.",
+  "source_repo": "edgedelta/edgedelta-mcp-server",
+  "source_url": "https://github.com/edgedelta/edgedelta-mcp-server",
+  "install": "npx -y edgedelta-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "crbatista-github-integration-hub",
+  "description": "Provides GitHub OAuth authentication and API access through REST endpoints, CLI tools, and MCP server capabilities with SQLite-based token storage.",
+  "source_repo": "crbatista/mcp-cli-github-integration",
+  "source_url": "https://github.com/crbatista/mcp-cli-github-integration",
+  "install": "# git clone --depth 1 https://github.com/crbatista/mcp-cli-github-integration\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oxplot-clipboard",
+  "description": "Enables access to macOS clipboard images for quick visual analysis without manual file uploads",
+  "source_repo": "oxplot/clipboard-mcp",
+  "source_url": "https://github.com/oxplot/clipboard-mcp",
+  "install": "npx -y clipboard-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hoodtronik-ltx-trainer",
+  "description": "Orchestrates LoRA, IC-LoRA, and full fine-tuning of the Lightricks LTX-2.3 video generation model from any MCP-compatible AI agent.",
+  "source_repo": "hoodtronik/ltx-trainer-mcp",
+  "source_url": "https://github.com/hoodtronik/ltx-trainer-mcp",
+  "install": "npx -y ltx-trainer-mcp"
+}

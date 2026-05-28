@@ -1,0 +1,7 @@
+{
+  "name": "sailro-http-proxy",
+  "description": "HTTP/HTTPS MITM proxy that captures all traffic to SQLite and exposes 13 tools for inspecting, filtering, and analyzing network requests through natural language.",
+  "source_repo": "sailro/httpproxymcp",
+  "source_url": "https://github.com/sailro/httpproxymcp",
+  "install": "# git clone --depth 1 https://github.com/sailro/httpproxymcp\n# See source for mcpServers config block"
+}

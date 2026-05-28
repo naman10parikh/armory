@@ -1,0 +1,7 @@
+{
+  "name": "gh-with-geun-alive-analysis",
+  "description": "Provides structured analysis workflows for AI coding agents with persistent context and systematic problem-solving tools.",
+  "source_repo": "with-geun/alive-analysis",
+  "source_url": "https://github.com/with-geun/alive-analysis/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/with-geun/alive-analysis/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

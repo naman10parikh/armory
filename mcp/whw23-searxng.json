@@ -1,0 +1,7 @@
+{
+  "name": "whw23-searxng",
+  "description": "Wraps SearXNG with HTTP and stdio transports, offering web search across 200+ engines with autocomplete and engine discovery tools.",
+  "source_repo": "whw23/searxng_http_mcp",
+  "source_url": "https://github.com/whw23/searxng_http_mcp",
+  "install": "npx -y searxng_http_mcp"
+}

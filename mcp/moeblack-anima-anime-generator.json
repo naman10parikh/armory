@@ -1,0 +1,7 @@
+{
+  "name": "moeblack-anima-anime-generator",
+  "description": "Integrates with the Anima anime/illustration generation model to create high-quality anime and illustrations using structured prompts with quality/artist/character/tags/environment fields and 14 aspect ratio presets.",
+  "source_repo": "moeblack/comfyui-animatool",
+  "source_url": "https://github.com/moeblack/comfyui-animatool",
+  "install": "# git clone --depth 1 https://github.com/moeblack/comfyui-animatool\n# See source for mcpServers config block"
+}

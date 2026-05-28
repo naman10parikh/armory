@@ -1,0 +1,7 @@
+{
+  "name": "igordias2-unity-editor",
+  "description": "Integrates with Unity Editor to provide real-time access to scene hierarchies, project structures, and GameObject manipulation for AI-assisted game development workflows.",
+  "source_repo": "igordias2/unitymcp",
+  "source_url": "https://github.com/igordias2/unitymcp",
+  "install": "# git clone --depth 1 https://github.com/igordias2/unitymcp\n# See source for mcpServers config block"
+}

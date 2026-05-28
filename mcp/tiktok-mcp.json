@@ -1,0 +1,7 @@
+{
+  "name": "tiktok-mcp",
+  "description": "Tiktok Mcp MCP server listed on mcp.so.",
+  "source_repo": "Seym0n/tiktok-mcp",
+  "source_url": "https://mcp.so/server/tiktok-mcp/Seym0n",
+  "install": "npx -y tiktok-mcp"
+}

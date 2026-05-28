@@ -1,0 +1,7 @@
+{
+  "name": "phialsbasement-zonos-tts",
+  "description": "Integrates with Zonos TTS API to generate expressive, multi-language speech output for AI applications using PulseAudio playback",
+  "source_repo": "phialsbasement/zonos-tts-mcp",
+  "source_url": "https://github.com/phialsbasement/zonos-tts-mcp",
+  "install": "npx -y zonos-tts-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "anthropic-compiler-explorer",
+  "description": "Connects to Compiler Explorer API for listing programming languages, retrieving available compilers, and compiling source code with customizable options, enabling developers to compare compiler behaviors and explore language features without context switching.",
+  "source_repo": "torshepherd/compiler-explorer-mcp",
+  "source_url": "https://github.com/torshepherd/compiler-explorer-mcp",
+  "install": "npx -y compiler-explorer-mcp"
+}

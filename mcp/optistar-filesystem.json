@@ -1,0 +1,7 @@
+{
+  "name": "optistar-filesystem",
+  "description": "Provides secure filesystem access with strict path validation, enabling safe file operations like reading, writing, editing, and directory management through gitignore-style exclusion patterns and detailed JSON metadata.",
+  "source_repo": "optistar/mcp-server-filesystem",
+  "source_url": "https://github.com/optistar/mcp-server-filesystem",
+  "install": "# git clone --depth 1 https://github.com/optistar/mcp-server-filesystem\n# See source for mcpServers config block"
+}

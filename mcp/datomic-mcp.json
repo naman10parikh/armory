@@ -1,0 +1,7 @@
+{
+  "name": "datomic-mcp",
+  "description": "Datomic Mcp MCP server listed on mcp.so.",
+  "source_repo": "theronic/datomic-mcp",
+  "source_url": "https://mcp.so/server/datomic-mcp/theronic",
+  "install": "npx -y datomic-mcp"
+}

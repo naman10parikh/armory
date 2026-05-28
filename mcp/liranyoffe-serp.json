@@ -1,0 +1,7 @@
+{
+  "name": "liranyoffe-serp",
+  "description": "Scrapes Google search results with automatic browser fingerprint rotation using Camoufox, offering lite mode for organic results or full mode for comprehensive data extraction.",
+  "source_repo": "liranyoffe/serp-mcp",
+  "source_url": "https://github.com/liranyoffe/serp-mcp",
+  "install": "npx -y serp-mcp"
+}

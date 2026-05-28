@@ -1,0 +1,7 @@
+{
+  "name": "ray0907-arxiv",
+  "description": "Enables search and retrieval of academic papers from arXiv, providing access to cleaned titles, abstracts, and full content for research workflows and literature reviews.",
+  "source_repo": "ray0907/mcp-arxiv",
+  "source_url": "https://github.com/ray0907/mcp-arxiv",
+  "install": "# git clone --depth 1 https://github.com/ray0907/mcp-arxiv\n# See source for mcpServers config block"
+}

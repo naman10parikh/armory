@@ -1,0 +1,7 @@
+{
+  "name": "pavelanni-minio-object-storage",
+  "description": "Bridges MinIO object storage servers to enable bucket/object management, file operations, and server monitoring for cloud-native applications.",
+  "source_repo": "pavelanni/mcp-server-minio-go",
+  "source_url": "https://github.com/pavelanni/mcp-server-minio-go",
+  "install": "# git clone --depth 1 https://github.com/pavelanni/mcp-server-minio-go\n# See source for mcpServers config block"
+}

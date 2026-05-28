@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-zarinpal",
+  "description": "Integrates with the Zarinpal Iranian payment gateway for payment creation, verification, refunds, and transaction management.",
+  "source_repo": "theyahia/zarinpal-mcp",
+  "source_url": "https://github.com/theyahia/zarinpal-mcp",
+  "install": "npx -y zarinpal-mcp"
+}

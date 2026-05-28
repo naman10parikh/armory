@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-csrd-compliance-mcp",
+  "description": "Tools for Corporate Sustainability Reporting Directive compliance and documentation.",
+  "source_repo": "csoai-org/csrd-compliance-mcp",
+  "source_url": "https://github.com/csoai-org/csrd-compliance-mcp",
+  "install": "npx -y csrd-compliance-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "davidmosiah-apple-health",
+  "description": "Unofficial local-first MCP server for reading Apple Health export data.",
+  "source_repo": "davidmosiah/apple-health-mcp",
+  "source_url": "https://github.com/davidmosiah/apple-health-mcp",
+  "install": "npx -y apple-health-mcp"
+}

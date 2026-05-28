@@ -1,0 +1,7 @@
+{
+  "name": "gh-yusong652-itasca-pfc",
+  "description": "Browse documentation, run simulations, and capture plots in ITASCA PFC discrete element software.",
+  "source_repo": "yusong652/pfc-mcp",
+  "source_url": "https://github.com/yusong652/pfc-mcp",
+  "install": "npx -y pfc-mcp"
+}

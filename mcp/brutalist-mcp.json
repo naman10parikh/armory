@@ -1,0 +1,7 @@
+{
+  "name": "brutalist-mcp",
+  "description": "Multi-perspective code analysis using Claude Code, Codex, and Antigravity CLI agents to provide direct, honest technical feedback on code, architecture, and ideas.",
+  "source_repo": "ejmockler/brutalist-mcp",
+  "source_url": "https://github.com/ejmockler/brutalist-mcp",
+  "install": "npx -y brutalist-mcp"
+}

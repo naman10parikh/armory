@@ -1,0 +1,7 @@
+{
+  "name": "nahmanmate-code-research",
+  "description": "Integrates with programming resources like Stack Overflow, MDN, GitHub, npm, and PyPI to enable efficient code lookup, documentation retrieval, and package selection.",
+  "source_repo": "nahmanmate/code-research-mcp-server",
+  "source_url": "https://github.com/nahmanmate/code-research-mcp-server",
+  "install": "npx -y code-research-mcp-server"
+}

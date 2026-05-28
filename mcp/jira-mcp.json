@@ -1,0 +1,7 @@
+{
+  "name": "jira-mcp",
+  "description": "Jira Mcp MCP server listed on mcp.so.",
+  "source_repo": "MankowskiNick/jira-mcp",
+  "source_url": "https://mcp.so/server/jira-mcp/MankowskiNick",
+  "install": "npx -y jira-mcp"
+}

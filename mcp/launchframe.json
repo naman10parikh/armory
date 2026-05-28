@@ -1,0 +1,7 @@
+{
+  "name": "launchframe",
+  "description": "Provides AI agents with architectural knowledge about LaunchFrame SaaS projects, including auth patterns, entity conventions, queue usage, cron jobs, and webhooks.",
+  "source_repo": "launchframe-dev/mcp",
+  "source_url": "https://github.com/launchframe-dev/mcp",
+  "install": "# git clone --depth 1 https://github.com/launchframe-dev/mcp\n# See source for mcpServers config block"
+}

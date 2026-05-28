@@ -1,0 +1,7 @@
+{
+  "name": "gh-giacomomaria81-france-life",
+  "description": "Comprehensive server with 18 tools for daily life in France, covering weather, healthcare, transport, housing, and government services.",
+  "source_repo": "giacomomaria81/france-life-mcp",
+  "source_url": "https://github.com/giacomomaria81/france-life-mcp",
+  "install": "npx -y france-life-mcp"
+}

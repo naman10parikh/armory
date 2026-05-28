@@ -1,0 +1,7 @@
+{
+  "name": "higangssh-homebutler",
+  "description": "All-in-one homelab management MCP server. Monitor system resources, manage Docker containers, Wake-on-LAN, scan networks, check open ports, and run alerts — across multiple servers via SSH. Single 10MB binary, zero dependencies.",
+  "source_repo": "Higangssh/homebutler",
+  "source_url": "https://github.com/Higangssh/homebutler",
+  "install": "# git clone --depth 1 https://github.com/Higangssh/homebutler\n# See source for mcpServers config block"
+}

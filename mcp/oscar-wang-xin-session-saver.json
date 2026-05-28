@@ -1,0 +1,7 @@
+{
+  "name": "oscar-wang-xin-session-saver",
+  "description": "Saves session records to markdown files organized by IDE, date, and description for capturing and persisting conversations from development environments with automatic file organization and configurable metadata.",
+  "source_repo": "oscar-wang-xin/mcp-session-saver",
+  "source_url": "https://github.com/oscar-wang-xin/mcp-session-saver",
+  "install": "# git clone --depth 1 https://github.com/oscar-wang-xin/mcp-session-saver\n# See source for mcpServers config block"
+}

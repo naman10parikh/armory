@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-seo-checker-ai-mcp",
+  "description": "Python MCP server for SEO analysis and optimization recommendations.",
+  "source_repo": "csoai-org/seo-checker-ai-mcp",
+  "source_url": "https://github.com/csoai-org/seo-checker-ai-mcp",
+  "install": "npx -y seo-checker-ai-mcp"
+}

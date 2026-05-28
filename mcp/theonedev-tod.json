@@ -1,0 +1,7 @@
+{
+  "name": "theonedev-tod",
+  "description": "A MCP server for OneDev for CI/CD pipeline editing, issue workflow automation, and pull request review",
+  "source_repo": "theonedev/tod",
+  "source_url": "https://github.com/theonedev/tod/blob/main/mcp.md",
+  "install": "# git clone --depth 1 https://github.com/theonedev/tod/blob/main/mcp.md\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "minimax-mcp-tools",
+  "description": "Minimax Mcp Tools MCP server listed on mcp.so.",
+  "source_repo": "PsychArch/minimax-mcp-tools",
+  "source_url": "https://mcp.so/server/minimax-mcp-tools/PsychArch",
+  "install": "# git clone --depth 1 https://mcp.so/server/minimax-mcp-tools/PsychArch\n# See source for mcpServers config block"
+}

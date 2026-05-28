@@ -1,0 +1,7 @@
+{
+  "name": "tanker327-prompts",
+  "description": "Manages prompt templates as markdown files with YAML frontmatter, providing structured organization, real-time file watching, and CRUD operations for systematic prompt library management and team collaboration.",
+  "source_repo": "tanker327/prompts-mcp-server",
+  "source_url": "https://github.com/tanker327/prompts-mcp-server",
+  "install": "npx -y prompts-mcp-server"
+}

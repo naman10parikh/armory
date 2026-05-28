@@ -1,0 +1,7 @@
+{
+  "name": "francisoliverlee-rocketmq",
+  "description": "Manage RocketMQ message queues.",
+  "source_repo": "francisoliverlee/rocketmq-mcp",
+  "source_url": "https://github.com/francisoliverlee/rocketmq-mcp",
+  "install": "npx -y rocketmq-mcp"
+}

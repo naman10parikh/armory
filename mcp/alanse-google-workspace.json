@@ -1,0 +1,7 @@
+{
+  "name": "alanse-google-workspace",
+  "description": "Integrates with Google Workspace APIs for Drive, Sheets, Docs, Gmail, and Calendar operations with OAuth 2.0 authentication.",
+  "source_repo": "alanse-inc/mcp-server-google-workspace",
+  "source_url": "https://github.com/alanse-inc/mcp-server-google-workspace",
+  "install": "# git clone --depth 1 https://github.com/alanse-inc/mcp-server-google-workspace\n# See source for mcpServers config block"
+}

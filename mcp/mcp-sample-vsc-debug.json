@@ -1,0 +1,7 @@
+{
+  "name": "mcp-sample-vsc-debug",
+  "description": "Mcp Sample Vsc Debug MCP server listed on mcp.so.",
+  "source_repo": "swatDong/mcp-sample-vsc-debug",
+  "source_url": "https://mcp.so/server/mcp-sample-vsc-debug/swatDong",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-sample-vsc-debug/swatDong\n# See source for mcpServers config block"
+}

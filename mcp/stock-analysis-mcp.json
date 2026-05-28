@@ -1,0 +1,7 @@
+{
+  "name": "stock-analysis-mcp",
+  "description": "Stock Analysis Mcp MCP server listed on mcp.so.",
+  "source_repo": "qubaomingg/stock-analysis-mcp",
+  "source_url": "https://mcp.so/server/stock-analysis-mcp/qubaomingg",
+  "install": "npx -y stock-analysis-mcp"
+}

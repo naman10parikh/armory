@@ -1,0 +1,7 @@
+{
+  "name": "openconstruct-llama-cpp-bridge",
+  "description": "Bridges local llama-server instances with MCP clients, providing chat interface, health monitoring, and configurable generation parameters for integrating llama.cpp models with desktop applications",
+  "source_repo": "openconstruct/llama-mcp-server",
+  "source_url": "https://github.com/openconstruct/llama-mcp-server",
+  "install": "npx -y llama-mcp-server"
+}

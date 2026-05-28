@@ -1,0 +1,7 @@
+{
+  "name": "msaltnet-excel-search",
+  "description": "Searches and reads Excel files from local directories with tools for discovering spreadsheet files, converting worksheets to JSON format, and finding specific text within workbooks.",
+  "source_repo": "msaltnet/excel-search-mcp",
+  "source_url": "https://github.com/msaltnet/excel-search-mcp",
+  "install": "npx -y excel-search-mcp"
+}

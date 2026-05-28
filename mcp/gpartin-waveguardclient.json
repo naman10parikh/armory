@@ -1,0 +1,7 @@
+{
+  "name": "gpartin-waveguardclient",
+  "description": "Physics-based anomaly detection via MCP. Uses Klein-Gordon wave equations on GPU to detect anomalies with high precision (avg 0.90). 9 tools: scan, fingerprint, compare, token risk, wallet profiling, volume check, price manipulation detection.",
+  "source_repo": "gpartin/WaveGuardClient",
+  "source_url": "https://github.com/gpartin/WaveGuardClient",
+  "install": "# git clone --depth 1 https://github.com/gpartin/WaveGuardClient\n# See source for mcpServers config block"
+}

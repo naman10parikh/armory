@@ -1,0 +1,7 @@
+{
+  "name": "boilerplate-mcp-server",
+  "description": "Boilerplate Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "aashari/boilerplate-mcp-server",
+  "source_url": "https://mcp.so/server/boilerplate-mcp-server/aashari",
+  "install": "npx -y boilerplate-mcp-server"
+}

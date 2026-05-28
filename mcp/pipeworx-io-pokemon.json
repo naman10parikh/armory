@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-pokemon",
+  "description": "Retrieves Pokémon game data including species, moves, and abilities.",
+  "source_repo": "pipeworx-io/mcp-pokemon",
+  "source_url": "https://github.com/pipeworx-io/mcp-pokemon",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-pokemon\n# See source for mcpServers config block"
+}

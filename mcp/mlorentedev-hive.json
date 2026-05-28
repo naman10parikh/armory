@@ -1,0 +1,7 @@
+{
+  "name": "mlorentedev-hive",
+  "description": "On-demand Obsidian vault access via MCP. Adaptive context loading (67-82% token savings), full-text and ranked search, health checks, auto git commit, and worker delegation to cheaper models. 10 tools, works with any MCP client.",
+  "source_repo": "mlorentedev/hive",
+  "source_url": "https://github.com/mlorentedev/hive",
+  "install": "# git clone --depth 1 https://github.com/mlorentedev/hive\n# See source for mcpServers config block"
+}

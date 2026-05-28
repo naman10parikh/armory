@@ -1,0 +1,7 @@
+{
+  "name": "astandrik-local-ydb-toolkit",
+  "description": "Local YDB MCP is a TypeScript stdio MCP server for operating Docker-based local-ydb deployments via local or SSH-backed profiles. Supports bootstrap, diagnostics, auth hardening, storage workflows, dump/restore, upgrades, and plan-first mutating operations.",
+  "source_repo": "astandrik/local-ydb-toolkit",
+  "source_url": "https://github.com/astandrik/local-ydb-toolkit",
+  "install": "# git clone --depth 1 https://github.com/astandrik/local-ydb-toolkit\n# See source for mcpServers config block"
+}

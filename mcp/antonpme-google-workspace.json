@@ -1,0 +1,7 @@
+{
+  "name": "antonpme-google-workspace",
+  "description": "Provides OAuth2-authenticated access to Google Workspace services including Gmail, Calendar, Drive, Docs, and Sheets with multi-account support.",
+  "source_repo": "antonpme/auralis-google",
+  "source_url": "https://github.com/antonpme/auralis-google",
+  "install": "# git clone --depth 1 https://github.com/antonpme/auralis-google\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stephenlb-pubnub",
+  "description": "Enables AI assistants to interact with PubNub's realtime communication platform for retrieving documentation, accessing SDK information, and utilizing messaging APIs without leaving their conversation context.",
+  "source_repo": "pubnub/pubnub-mcp-server",
+  "source_url": "https://github.com/pubnub/pubnub-mcp-server",
+  "install": "npx -y pubnub-mcp-server"
+}

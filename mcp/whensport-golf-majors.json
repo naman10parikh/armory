@@ -1,0 +1,7 @@
+{
+  "name": "whensport-golf-majors",
+  "description": "Access schedule and venue data for golf's four major championships (Masters, PGA Championship, US Open, The Open) with player rosters via 5 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/golf",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/golf\n# See source for mcpServers config block"
+}

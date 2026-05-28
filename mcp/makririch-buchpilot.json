@@ -1,0 +1,7 @@
+{
+  "name": "makririch-buchpilot",
+  "description": "DACH accounting automation — connect sevDesk and Lexoffice to create invoices, contacts, and vouchers via AI.",
+  "source_repo": "makririch/buchpilot-mcp",
+  "source_url": "https://github.com/makririch/buchpilot-mcp",
+  "install": "npx -y buchpilot-mcp"
+}

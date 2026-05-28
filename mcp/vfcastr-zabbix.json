@@ -1,0 +1,7 @@
+{
+  "name": "vfcastr-zabbix",
+  "description": "Zabbix 7.0 LTS monitoring integration with CRUD operations across all major entities.",
+  "source_repo": "vfcastr/zabbix-mcp",
+  "source_url": "https://github.com/vfcastr/zabbix-mcp",
+  "install": "npx -y zabbix-mcp"
+}

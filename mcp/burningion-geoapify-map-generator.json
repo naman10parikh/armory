@@ -1,0 +1,7 @@
+{
+  "name": "burningion-geoapify-map-generator",
+  "description": "Generates map images from geographic coordinates using Python libraries for geocoding and visualization tasks.",
+  "source_repo": "burningion/geoapify-mcp",
+  "source_url": "https://github.com/burningion/geoapify-mcp",
+  "install": "npx -y geoapify-mcp"
+}

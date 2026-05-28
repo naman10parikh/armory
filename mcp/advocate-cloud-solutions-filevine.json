@@ -1,0 +1,7 @@
+{
+  "name": "advocate-cloud-solutions-filevine",
+  "description": "MCP server enabling AI assistants to query and manage Filevine matters, sections, collections, and Lead Docket intake leads through natural language.",
+  "source_repo": "advocate-cloud-solutions/filevine-mcp",
+  "source_url": "https://github.com/advocate-cloud-solutions/filevine-mcp",
+  "install": "npx -y filevine-mcp"
+}

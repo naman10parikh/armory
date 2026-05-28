@@ -1,0 +1,7 @@
+{
+  "name": "davidorex-git-file-forensics",
+  "description": "Provides deep git file-level forensics capabilities for tracking versions, analyzing diffs, examining commit contexts, and evaluating semantic changes in individual files.",
+  "source_repo": "davidorex/git-file-forensics",
+  "source_url": "https://github.com/davidorex/git-file-forensics",
+  "install": "# git clone --depth 1 https://github.com/davidorex/git-file-forensics\n# See source for mcpServers config block"
+}

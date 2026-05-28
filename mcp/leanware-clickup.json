@@ -1,0 +1,7 @@
+{
+  "name": "leanware-clickup",
+  "description": "Integrates with ClickUp API to enable task management within workspaces, providing tools for authentication, task retrieval, and creation with customizable properties like priorities, due dates, and tags.",
+  "source_repo": "leanware-io/clickup-mcp-server",
+  "source_url": "https://github.com/leanware-io/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

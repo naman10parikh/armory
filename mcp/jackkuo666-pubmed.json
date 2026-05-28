@@ -1,0 +1,7 @@
+{
+  "name": "jackkuo666-pubmed",
+  "description": "Provides a bridge to PubMed for searching, filtering, retrieving, and analyzing medical research articles with tools for keyword searches, metadata access, PDF downloads, and structured paper analysis.",
+  "source_repo": "jackkuo666/pubmed-mcp-server",
+  "source_url": "https://github.com/jackkuo666/pubmed-mcp-server",
+  "install": "npx -y pubmed-mcp-server"
+}

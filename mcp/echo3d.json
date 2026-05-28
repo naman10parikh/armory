@@ -1,0 +1,7 @@
+{
+  "name": "echo3d",
+  "description": "Enables 3D digital asset management through the echo3D API, featuring tools for 3D file viewing, file sharing, conversion to various 3D formats, 3D file compression, version control, and more",
+  "source_repo": "",
+  "source_url": "https://docs.echo3d.com/",
+  "install": "# git clone --depth 1 https://docs.echo3d.com/\n# See source for mcpServers config block"
+}

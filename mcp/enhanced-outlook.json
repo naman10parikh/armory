@@ -1,0 +1,7 @@
+{
+  "name": "enhanced-outlook",
+  "description": "Bridges Microsoft Graph API to enable seamless email, calendar, and messaging interactions through natural language commands and comprehensive management tools.",
+  "source_repo": "jibberish69/enhanced-outlook-mcp",
+  "source_url": "https://github.com/jibberish69/enhanced-outlook-mcp",
+  "install": "npx -y enhanced-outlook-mcp"
+}

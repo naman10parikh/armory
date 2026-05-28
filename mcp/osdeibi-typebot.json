@@ -1,0 +1,7 @@
+{
+  "name": "osdeibi-typebot",
+  "description": "Integrates with Typebot's chatbot platform using workspace tokens for authentication to enable management of chatbot workflows and bot instances.",
+  "source_repo": "osdeibi/mcp-typebot",
+  "source_url": "https://github.com/osdeibi/mcp-typebot",
+  "install": "# git clone --depth 1 https://github.com/osdeibi/mcp-typebot\n# See source for mcpServers config block"
+}

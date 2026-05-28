@@ -1,0 +1,7 @@
+{
+  "name": "chroma",
+  "description": "Integrates with Chroma vector database to enable collection management, document operations, and vector search capabilities for knowledge bases and context-aware conversations.",
+  "source_repo": "chroma-core/chroma-mcp",
+  "source_url": "https://github.com/chroma-core/chroma-mcp",
+  "install": "npx -y chroma-mcp"
+}

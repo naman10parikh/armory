@@ -1,0 +1,7 @@
+{
+  "name": "jayvee6-apple-mail",
+  "description": "Reads, searches, composes, replies to, flags, and deletes Apple Mail and iCloud messages via AppleScript.",
+  "source_repo": "jayvee6/apple-mail-mcp",
+  "source_url": "https://github.com/jayvee6/apple-mail-mcp",
+  "install": "npx -y apple-mail-mcp"
+}

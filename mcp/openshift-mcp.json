@@ -1,0 +1,7 @@
+{
+  "name": "openshift-mcp",
+  "description": "Openshift Mcp MCP server listed on mcp.so.",
+  "source_repo": "24sama/openshift-mcp",
+  "source_url": "https://mcp.so/server/openshift-mcp/24sama",
+  "install": "npx -y openshift-mcp"
+}

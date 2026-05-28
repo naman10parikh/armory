@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-worldbank",
+  "description": "Wraps the World Bank Data API v2 for querying development indicators, country data, and economic statistics.",
+  "source_repo": "pipeworx-io/mcp-worldbank",
+  "source_url": "https://github.com/pipeworx-io/mcp-worldbank",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-worldbank\n# See source for mcpServers config block"
+}

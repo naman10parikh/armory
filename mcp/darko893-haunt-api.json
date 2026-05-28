@@ -1,0 +1,7 @@
+{
+  "name": "darko893-haunt-api",
+  "description": "Extracts structured JSON data from web pages using natural language prompts instead of CSS selectors.",
+  "source_repo": "darko893/mcp-server",
+  "source_url": "https://github.com/darko893/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/darko893/mcp-server\n# See source for mcpServers config block"
+}

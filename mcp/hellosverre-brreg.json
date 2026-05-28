@@ -1,0 +1,7 @@
+{
+  "name": "hellosverre-brreg",
+  "description": "Norwegian business registry lookup, search, and role queries via the Brønnøysund open API.",
+  "source_repo": "hellosverre/brreg-mcp",
+  "source_url": "https://github.com/hellosverre/brreg-mcp",
+  "install": "npx -y brreg-mcp"
+}

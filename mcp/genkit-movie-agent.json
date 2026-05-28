@@ -1,0 +1,7 @@
+{
+  "name": "genkit-movie-agent",
+  "description": "Movie information agent built with Genkit (demonstrates search/data extraction)",
+  "source_repo": "google/A2A",
+  "source_url": "https://github.com/google/A2A/tree/main/samples/js/src/agents/movie-agent",
+  "install": "# git clone --depth 1 https://github.com/google/A2A/tree/main/samples/js/src/agents/movie-agent\n# See source for mcpServers config block"
+}

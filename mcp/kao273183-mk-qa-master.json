@@ -1,0 +1,7 @@
+{
+  "name": "kao273183-mk-qa-master",
+  "description": "AI 測試大師 — end-to-end QA loop over MCP. Drives pytest / Jest / Cypress / Go / Maestro from one surface; analyzes URLs (Web DOM) or live mobile screens (`maestro hierarchy`) to extract testable modules, generates runnable pytest or Maestro YAML with real selectors (not `# TODO` stubs), runs with auto-retry, then writes a prioritized `optimization-plan.md` ranked by evidence (flaky vs broken vs coverage gap). Mobile-first: iOS Simulator, Android Emulator, real devices, and BlueStacks (`QA_ANDROID_HOST=127.0.0.1:5555`). Install via `uvx mk-qa-master`.",
+  "source_repo": "kao273183/mk-qa-master",
+  "source_url": "https://github.com/kao273183/mk-qa-master",
+  "install": "# git clone --depth 1 https://github.com/kao273183/mk-qa-master\n# See source for mcpServers config block"
+}

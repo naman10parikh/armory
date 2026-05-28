@@ -1,0 +1,7 @@
+{
+  "name": "chrisbusbin-pixel-prop-firm-deal-finder",
+  "description": "Enables AI assistants to query live discount codes and compare funded trading challenges across 19+ prop firms.",
+  "source_repo": "chrisbusbin-pixel/propfirmdealfinder-mcp-server",
+  "source_url": "https://github.com/chrisbusbin-pixel/propfirmdealfinder-mcp-server",
+  "install": "npx -y propfirmdealfinder-mcp-server"
+}

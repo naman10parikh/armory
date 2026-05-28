@@ -1,0 +1,7 @@
+{
+  "name": "tenzro-layerzero",
+  "description": "MCP server for LayerZero V2 cross-chain messaging on Tenzro Network: EndpointV2 quotes, OFT transfers, Stargate V2, Value Transfer API, and DVNs.",
+  "source_repo": "",
+  "source_url": "https://tenzro.network/mcp/tenzro-layerzero",
+  "install": "# git clone --depth 1 https://tenzro.network/mcp/tenzro-layerzero\n# See source for mcpServers config block"
+}

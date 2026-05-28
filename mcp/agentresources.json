@@ -1,0 +1,7 @@
+{
+  "name": "agentresources",
+  "description": "Trust cards, signed telemetry, ERC-8004 identity, and x402 payments for the agent economy.",
+  "source_repo": "sznt2010/agentresources-mcp",
+  "source_url": "https://github.com/sznt2010/agentresources-mcp",
+  "install": "npx -y agentresources-mcp"
+}

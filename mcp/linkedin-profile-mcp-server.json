@@ -1,0 +1,7 @@
+{
+  "name": "linkedin-profile-mcp-server",
+  "description": "An intelligent bridge between Claude and LinkedIn. This MCP server empowers Claude to act as your high-level career consultant, capable of auditing your profile, optimizing your identity, and managing your professional content with real-time API access.",
+  "source_repo": "Thejosem4/linkedin-profile-mcp",
+  "source_url": "https://github.com/Thejosem4/linkedin-profile-mcp",
+  "install": "npx -y linkedin-profile-mcp"
+}

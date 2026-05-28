@@ -1,0 +1,7 @@
+{
+  "name": "overseer66-comfyui",
+  "description": "Provides a bridge between AI systems and ComfyUI's image generation capabilities, enabling text-to-image creation with customizable parameters through WebSocket communication.",
+  "source_repo": "overseer66/comfyui-mcp-server",
+  "source_url": "https://github.com/overseer66/comfyui-mcp-server",
+  "install": "npx -y comfyui-mcp-server"
+}

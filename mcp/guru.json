@@ -1,0 +1,7 @@
+{
+  "name": "guru",
+  "description": "Connect AI tools to your Guru knowledge base",
+  "source_repo": "guruhq/remote-mcp-server",
+  "source_url": "https://github.com/guruhq/remote-mcp-server",
+  "install": "npx -y remote-mcp-server"
+}

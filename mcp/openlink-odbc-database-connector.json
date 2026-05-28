@@ -1,0 +1,7 @@
+{
+  "name": "openlink-odbc-database-connector",
+  "description": "Connects AI systems to relational databases through ODBC, enabling SQL, SPARQL, and hybrid SpaSQLqueries for data exploration, analysis, and knowledge graph operations.",
+  "source_repo": "openlinksoftware/mcp-odbc-server",
+  "source_url": "https://github.com/openlinksoftware/mcp-odbc-server",
+  "install": "# git clone --depth 1 https://github.com/openlinksoftware/mcp-odbc-server\n# See source for mcpServers config block"
+}

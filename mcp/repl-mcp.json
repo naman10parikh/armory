@@ -1,0 +1,7 @@
+{
+  "name": "repl-mcp",
+  "description": "Enables creation and management of persistent REPL sessions for various languages and shells, with web-based monitoring and session recovery capabilities.",
+  "source_repo": "takafu/repl-mcp",
+  "source_url": "https://github.com/takafu/repl-mcp",
+  "install": "npx -y repl-mcp"
+}

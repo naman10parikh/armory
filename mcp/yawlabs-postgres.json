@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-postgres",
+  "description": "Read-only-by-default PostgreSQL MCP server with query execution, schema introspection, execution plan analysis, and health checks.",
+  "source_repo": "yawlabs/postgres-mcp",
+  "source_url": "https://github.com/yawlabs/postgres-mcp",
+  "install": "npx -y postgres-mcp"
+}

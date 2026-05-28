@@ -1,0 +1,7 @@
+{
+  "name": "pouyanafisi-project-mcp",
+  "description": "Manages project documentation, tasks, and development state through structured directory organization with intent-based search and YAML-based task tracking.",
+  "source_repo": "pouyanafisi/project-mcp",
+  "source_url": "https://github.com/pouyanafisi/project-mcp",
+  "install": "npx -y project-mcp"
+}

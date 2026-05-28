@@ -1,0 +1,7 @@
+{
+  "name": "obre10off-spotify",
+  "description": "Enables natural language control of Spotify playback with tools for playing tracks, pausing music, skipping songs, searching the catalog, and retrieving currently playing information through seamless authentication and token management.",
+  "source_repo": "obre10off/spotify-mcp",
+  "source_url": "https://github.com/obre10off/spotify-mcp",
+  "install": "npx -y spotify-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "librarian-mcp",
+  "description": "A Model Context Protocol server providing pre-curated canonical memory, prose/code provenance checking, and benchmark metrics to improve accuracy and reduce costs across AI tools.",
+  "source_repo": "liana-banyan/librarian-mcp",
+  "source_url": "https://github.com/liana-banyan/librarian-mcp",
+  "install": "npx -y librarian-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alexrwilliam-playwright",
+  "description": "Provides browser automation capabilities through Playwright with 33 tools for web navigation, DOM manipulation, form handling, content extraction, and JavaScript execution across Chromium, Firefox, and WebKit browsers with persistent context management and debugging features.",
+  "source_repo": "alexrwilliam/playwright-mcp-server",
+  "source_url": "https://github.com/alexrwilliam/playwright-mcp-server",
+  "install": "npx -y playwright-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "repo-seatbelt",
+  "description": "Runtime safety guardrails for AI coding agents. Checks file access, validates shell commands, and scores your repo's AI safety — all via MCP.",
+  "source_repo": "berkcangumusisik/repo-seatbelt",
+  "source_url": "https://github.com/berkcangumusisik/repo-seatbelt",
+  "install": "# git clone --depth 1 https://github.com/berkcangumusisik/repo-seatbelt\n# See source for mcpServers config block"
+}

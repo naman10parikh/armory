@@ -1,0 +1,7 @@
+{
+  "name": "missionsquad-helper-tools",
+  "description": "Provides utility functions for encoding/decoding, geolocation, cryptography, QR code generation, and timezone conversions with intelligent caching and rate limiting for optimized external API access.",
+  "source_repo": "missionsquad/mcp-helper-tools",
+  "source_url": "https://github.com/missionsquad/mcp-helper-tools",
+  "install": "# git clone --depth 1 https://github.com/missionsquad/mcp-helper-tools\n# See source for mcpServers config block"
+}

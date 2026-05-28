@@ -1,0 +1,7 @@
+{
+  "name": "mcp-foundry",
+  "description": "Mcp Foundry MCP server listed on mcp.so.",
+  "source_repo": "azure-ai-foundry/mcp-foundry",
+  "source_url": "https://mcp.so/server/mcp-foundry/azure-ai-foundry",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-foundry/azure-ai-foundry\n# See source for mcpServers config block"
+}

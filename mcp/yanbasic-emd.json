@@ -1,0 +1,7 @@
+{
+  "name": "yanbasic-emd",
+  "description": "Bridges Claude with the Easy Model Deployer tool to enable listing, deploying, managing, and invoking machine learning models on AWS services through simple conversational commands.",
+  "source_repo": "yanbasic/emd-mcp",
+  "source_url": "https://github.com/yanbasic/emd-mcp",
+  "install": "npx -y emd-mcp"
+}

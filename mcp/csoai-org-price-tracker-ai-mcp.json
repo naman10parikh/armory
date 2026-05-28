@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-price-tracker-ai-mcp",
+  "description": "Python MCP server for price tracking and product price monitoring tools.",
+  "source_repo": "csoai-org/price-tracker-ai-mcp",
+  "source_url": "https://github.com/csoai-org/price-tracker-ai-mcp",
+  "install": "npx -y price-tracker-ai-mcp"
+}

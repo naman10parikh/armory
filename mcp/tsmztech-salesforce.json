@@ -1,0 +1,7 @@
+{
+  "name": "tsmztech-salesforce",
+  "description": "Integrates with Salesforce CRM for natural language-driven data management, querying, and administration tasks.",
+  "source_repo": "tsmztech/mcp-server-salesforce",
+  "source_url": "https://github.com/tsmztech/mcp-server-salesforce",
+  "install": "# git clone --depth 1 https://github.com/tsmztech/mcp-server-salesforce\n# See source for mcpServers config block"
+}

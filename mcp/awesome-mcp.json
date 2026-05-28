@@ -1,0 +1,7 @@
+{
+  "name": "awesome-mcp",
+  "description": "Awesome MCP MCP server listed on mcp.so.",
+  "source_repo": "iAmCorey/Awesome-MCP",
+  "source_url": "https://mcp.so/server/Awesome-MCP/iAmCorey",
+  "install": "npx -y Awesome-MCP"
+}

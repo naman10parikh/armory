@@ -1,0 +1,7 @@
+{
+  "name": "ryu0118-xcstrings-crud",
+  "description": "Manages Apple's xcstrings localization files with complete CRUD operations for key creation, translation updates, coverage statistics, and batch processing across multiple files for iOS/macOS internationalization workflows.",
+  "source_repo": "ryu0118/xcstrings-crud",
+  "source_url": "https://github.com/ryu0118/xcstrings-crud",
+  "install": "# git clone --depth 1 https://github.com/ryu0118/xcstrings-crud\n# See source for mcpServers config block"
+}

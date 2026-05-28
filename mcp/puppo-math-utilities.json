@@ -1,0 +1,7 @@
+{
+  "name": "puppo-math-utilities",
+  "description": "Provides mathematical utility tools for calculating Fibonacci numbers at given indices and summing comma-separated lists of numbers.",
+  "source_repo": "puppo/mcp-server-test",
+  "source_url": "https://github.com/puppo/mcp-server-test",
+  "install": "# git clone --depth 1 https://github.com/puppo/mcp-server-test\n# See source for mcpServers config block"
+}

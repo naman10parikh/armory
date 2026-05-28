@@ -1,0 +1,7 @@
+{
+  "name": "pollamin-opendock-neutron",
+  "description": "Integrates with Opendock Neutron API for warehouse dock scheduling and appointment management with full CRUD operations, availability checking, recurring appointments, and carrier self-scheduling capabilities.",
+  "source_repo": "pollamin/opendock-mcp",
+  "source_url": "https://github.com/pollamin/opendock-mcp",
+  "install": "npx -y opendock-mcp"
+}

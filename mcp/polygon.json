@@ -1,0 +1,7 @@
+{
+  "name": "polygon",
+  "description": "Provides complete access to Polygon.io's financial market data API with 35+ tools covering stocks, options, forex, and crypto including real-time trades, quotes, aggregates, market snapshots, ticker details, news, dividends, splits, and financial fundamentals for trading research and market analysis.",
+  "source_repo": "massive-com/mcp_massive",
+  "source_url": "https://github.com/massive-com/mcp_massive",
+  "install": "# git clone --depth 1 https://github.com/massive-com/mcp_massive\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "iplocate",
+  "description": "Integrates with IPLocate.io API to provide IP address geolocation, network information, privacy detection, and abuse contact data for cybersecurity analysis, fraud prevention, and network administration.",
+  "source_repo": "iplocate/mcp-server-iplocate",
+  "source_url": "https://github.com/iplocate/mcp-server-iplocate",
+  "install": "# git clone --depth 1 https://github.com/iplocate/mcp-server-iplocate\n# See source for mcpServers config block"
+}

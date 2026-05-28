@@ -1,0 +1,7 @@
+{
+  "name": "ledd-mcp-audit",
+  "description": "Proxy for AI agent and MCP security auditing via a hosted backend service.",
+  "source_repo": "joepangallo/mcp-audit-server",
+  "source_url": "https://github.com/joepangallo/mcp-audit-server",
+  "install": "# git clone --depth 1 https://github.com/joepangallo/mcp-audit-server\n# See source for mcpServers config block"
+}

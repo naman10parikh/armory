@@ -1,0 +1,7 @@
+{
+  "name": "g0t4-system-commands",
+  "description": "Execute system commands and scripts on the host machine.",
+  "source_repo": "g0t4/mcp-server-commands",
+  "source_url": "https://github.com/g0t4/mcp-server-commands",
+  "install": "# git clone --depth 1 https://github.com/g0t4/mcp-server-commands\n# See source for mcpServers config block"
+}

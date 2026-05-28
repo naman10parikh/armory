@@ -1,0 +1,7 @@
+{
+  "name": "immich-mcp-server",
+  "description": "Enables MCP-compatible clients to interact with an Immich photo management instance, providing access to users, assets, API keys, and partners through standardized resources and tools.",
+  "source_repo": "zygou-31/immich-mcp",
+  "source_url": "https://github.com/zygou-31/immich-mcp",
+  "install": "npx -y immich-mcp"
+}

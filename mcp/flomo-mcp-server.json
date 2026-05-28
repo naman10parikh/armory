@@ -1,0 +1,7 @@
+{
+  "name": "flomo-mcp-server",
+  "description": "MCP server for flomo that enables AI tools to quickly add notes to your flomo account via the API.",
+  "source_repo": "Jiraiya8/flomo-mcp-server",
+  "source_url": "https://github.com/Jiraiya8/flomo-mcp-server",
+  "install": "npx -y flomo-mcp-server"
+}

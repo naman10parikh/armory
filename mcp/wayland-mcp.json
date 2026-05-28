@@ -1,0 +1,7 @@
+{
+  "name": "wayland-mcp",
+  "description": "Provides screenshot, analysis, mouse and keyboard control tools for modern Linux desktops via Wayland.",
+  "source_repo": "someaka/wayland-mcp",
+  "source_url": "https://github.com/someaka/wayland-mcp",
+  "install": "npx -y wayland-mcp"
+}

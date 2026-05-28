@@ -1,0 +1,7 @@
+{
+  "name": "conechoai-nano-banana",
+  "description": "Integrates with Google's Gemini 2.5 Flash to generate and edit images from text prompts, supporting iterative workflows with reference images and automatic cross-platform file management.",
+  "source_repo": "conechoai/nano-banana-mcp",
+  "source_url": "https://github.com/conechoai/nano-banana-mcp",
+  "install": "npx -y nano-banana-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "github",
+  "description": "Connect your AI agents to GitHub — manage repos, issues, PRs, workflows, and more",
+  "source_repo": "",
+  "source_url": "https://github.com/",
+  "install": "# git clone --depth 1 https://github.com/\n# See source for mcpServers config block"
+}

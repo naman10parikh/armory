@@ -1,0 +1,7 @@
+{
+  "name": "gh-shuotao-navisworks",
+  "description": "AI-driven automation for Autodesk Navisworks via WebSocket-bridged model inspection and visual management.",
+  "source_repo": "shuotao/naviswork_mcp",
+  "source_url": "https://github.com/shuotao/naviswork_mcp",
+  "install": "npx -y naviswork_mcp"
+}

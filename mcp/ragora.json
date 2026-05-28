@@ -1,0 +1,7 @@
+{
+  "name": "ragora",
+  "description": "Search knowledge bases from any AI assistant using hybrid RAG retrieval.",
+  "source_repo": "velarynai/ragora-mcp",
+  "source_url": "https://github.com/velarynai/ragora-mcp",
+  "install": "npx -y ragora-mcp"
+}

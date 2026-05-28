@@ -1,0 +1,7 @@
+{
+  "name": "alfredatnycu-grasshopper-parametric-design",
+  "description": "Connects Grasshopper parametric design software with Claude through a bidirectional TCP server and Python bridge, enabling natural language control of architectural and engineering modeling workflows.",
+  "source_repo": "alfredatnycu/grasshopper-mcp",
+  "source_url": "https://github.com/alfredatnycu/grasshopper-mcp",
+  "install": "npx -y grasshopper-mcp"
+}

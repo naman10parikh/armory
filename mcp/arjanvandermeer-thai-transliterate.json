@@ -1,0 +1,7 @@
+{
+  "name": "arjanvandermeer-thai-transliterate",
+  "description": "Converts Thai text to Roman script with ranked transliteration variants, word-level processing, and fuzzy English matching.",
+  "source_repo": "arjanvandermeer/thai-transliterate-mcp",
+  "source_url": "https://github.com/arjanvandermeer/thai-transliterate-mcp",
+  "install": "npx -y thai-transliterate-mcp"
+}

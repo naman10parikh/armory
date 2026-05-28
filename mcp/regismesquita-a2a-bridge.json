@@ -1,0 +1,7 @@
+{
+  "name": "regismesquita-a2a-bridge",
+  "description": "Bridges Claude Desktop with A2A protocol agents, enabling seamless communication and extending capabilities through agent registration, listing, and calling tools.",
+  "source_repo": "regismesquita/mcp_a2a",
+  "source_url": "https://github.com/regismesquita/mcp_a2a",
+  "install": "# git clone --depth 1 https://github.com/regismesquita/mcp_a2a\n# See source for mcpServers config block"
+}

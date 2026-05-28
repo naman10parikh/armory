@@ -1,0 +1,7 @@
+{
+  "name": "mcp-nexus",
+  "description": "Enables universal access to MCP tools and capabilities from external clients, client-side, and server-side within a Next.js application.",
+  "source_repo": "hirurg-lybitel/MCP-Nexus",
+  "source_url": "https://github.com/hirurg-lybitel/MCP-Nexus",
+  "install": "# git clone --depth 1 https://github.com/hirurg-lybitel/MCP-Nexus\n# See source for mcpServers config block"
+}

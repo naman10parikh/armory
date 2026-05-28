@@ -1,0 +1,7 @@
+{
+  "name": "jimmy974-n8n-workflow-builder",
+  "description": "Enables creation and management of n8n workflows through a TypeScript-based server that provides tools for designing, validating, and exporting complete workflow configurations.",
+  "source_repo": "jimmy974/n8n-workflow-builder",
+  "source_url": "https://github.com/jimmy974/n8n-workflow-builder",
+  "install": "# git clone --depth 1 https://github.com/jimmy974/n8n-workflow-builder\n# See source for mcpServers config block"
+}

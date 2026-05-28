@@ -1,0 +1,7 @@
+{
+  "name": "ryansheppard-intervals-icu",
+  "description": "Exposes athlete training data from Intervals.icu including fitness metrics, activities, and wellness tracking.",
+  "source_repo": "ryansheppard/intervals.mcp",
+  "source_url": "https://github.com/ryansheppard/intervals.mcp",
+  "install": "# git clone --depth 1 https://github.com/ryansheppard/intervals.mcp\n# See source for mcpServers config block"
+}

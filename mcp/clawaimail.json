@@ -1,0 +1,7 @@
+{
+  "name": "clawaimail",
+  "description": "Email infrastructure for AI agents with inbox creation, sending, receiving, and search.",
+  "source_repo": "joansongjr/clawaimail",
+  "source_url": "https://github.com/joansongjr/clawaimail",
+  "install": "# git clone --depth 1 https://github.com/joansongjr/clawaimail\n# See source for mcpServers config block"
+}

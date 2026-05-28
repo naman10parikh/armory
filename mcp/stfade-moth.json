@@ -1,0 +1,7 @@
+{
+  "name": "stfade-moth",
+  "description": "A lightweight MCP server for structured bug-fix analysis and project-local verified fix memory for AI agents.",
+  "source_repo": "stfade/moth",
+  "source_url": "https://github.com/stfade/moth",
+  "install": "# git clone --depth 1 https://github.com/stfade/moth\n# See source for mcpServers config block"
+}

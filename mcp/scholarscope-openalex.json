@@ -1,0 +1,7 @@
+{
+  "name": "scholarscope-openalex",
+  "description": "Integrates with OpenAlex API to search academic papers, discover authors and affiliations, analyze citation networks, and retrieve full-text content for literature reviews and scholarly research.",
+  "source_repo": "eriknguyen20/scholarscope-mcp",
+  "source_url": "https://github.com/eriknguyen20/scholarscope-mcp",
+  "install": "npx -y scholarscope-mcp"
+}

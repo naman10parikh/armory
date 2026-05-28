@@ -1,0 +1,7 @@
+{
+  "name": "hekmon-homeassistant",
+  "description": "Integrates with Home Assistant to enable control and monitoring of smart home devices via API calls for tasks like adjusting lighting, managing climate, and retrieving sensor data.",
+  "source_repo": "hekmon8/homeassistant-server-mcp",
+  "source_url": "https://github.com/hekmon8/homeassistant-server-mcp",
+  "install": "npx -y homeassistant-server-mcp"
+}

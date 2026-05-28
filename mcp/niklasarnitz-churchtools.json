@@ -1,0 +1,7 @@
+{
+  "name": "niklasarnitz-churchtools",
+  "description": "Integrate with ChurchTools to query the API, create calendar appointments, and search bundled documentation through 5 tools.",
+  "source_repo": "niklasarnitz/churchtools-mcp-server",
+  "source_url": "https://github.com/niklasarnitz/churchtools-mcp-server",
+  "install": "npx -y churchtools-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xxczaki-local-history",
+  "description": "Provides direct access to Cursor/VS Code Local History data with tools for listing files with history, retrieving complete file histories, accessing specific entries, restoring files to previous states with backup creation, searching across all history content, and generating statistics for data recovery and enhanced development context.",
+  "source_repo": "xxczaki/local-history-mcp",
+  "source_url": "https://github.com/xxczaki/local-history-mcp",
+  "install": "npx -y local-history-mcp"
+}

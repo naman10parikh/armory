@@ -1,0 +1,7 @@
+{
+  "name": "cahthuranag-allratestoday",
+  "description": "Real-time and historical currency exchange rates with multi-currency support via the AllRatesToday API.",
+  "source_repo": "allrates-today/mcp-server",
+  "source_url": "https://github.com/allrates-today/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/allrates-today/mcp-server\n# See source for mcpServers config block"
+}

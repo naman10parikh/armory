@@ -1,0 +1,7 @@
+{
+  "name": "thinair-geo",
+  "description": "Provides geospatial data and analysis through ThinAir's authenticated MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://geo.thinair.co/mcp",
+  "install": "# git clone --depth 1 https://geo.thinair.co/mcp\n# See source for mcpServers config block"
+}

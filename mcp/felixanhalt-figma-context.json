@@ -1,0 +1,7 @@
+{
+  "name": "felixanhalt-figma-context",
+  "description": "LLM-optimized fork of Figma Context MCP with CSS-aligned properties and 99.5% response size reduction.",
+  "source_repo": "felixanhalt/figma-to-code-mcp",
+  "source_url": "https://github.com/felixanhalt/figma-to-code-mcp",
+  "install": "npx -y figma-to-code-mcp"
+}

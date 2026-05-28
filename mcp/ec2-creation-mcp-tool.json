@@ -1,0 +1,7 @@
+{
+  "name": "ec2-creation-mcp-tool",
+  "description": "Demonstrates how Google's A2A protocol works with Anthropic's MCP protocol for AWS EC2 creation",
+  "source_repo": "anirban1592/google_openai_mcp",
+  "source_url": "https://github.com/anirban1592/google_openai_mcp",
+  "install": "npx -y google_openai_mcp"
+}

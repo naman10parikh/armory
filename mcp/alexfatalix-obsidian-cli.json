@@ -1,0 +1,7 @@
+{
+  "name": "alexfatalix-obsidian-cli",
+  "description": "Bridge MCP clients to a local Obsidian vault using the official Obsidian CLI, with configurable safety modes for write operations.",
+  "source_repo": "alexfatalix/obsidian-cli-mcp",
+  "source_url": "https://github.com/alexfatalix/obsidian-cli-mcp",
+  "install": "npx -y obsidian-cli-mcp"
+}

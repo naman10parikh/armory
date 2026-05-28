@@ -1,0 +1,7 @@
+{
+  "name": "y0zg-elasticsearch",
+  "description": "Connects to Elasticsearch clusters for natural language log querying, error pattern analysis with root cause identification, performance bottleneck detection, cluster health monitoring, and index optimization recommendations.",
+  "source_repo": "y0zg/mcp-elasticsearch",
+  "source_url": "https://github.com/y0zg/mcp-elasticsearch",
+  "install": "# git clone --depth 1 https://github.com/y0zg/mcp-elasticsearch\n# See source for mcpServers config block"
+}

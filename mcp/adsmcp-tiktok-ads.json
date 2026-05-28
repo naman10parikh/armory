@@ -1,0 +1,7 @@
+{
+  "name": "adsmcp-tiktok-ads",
+  "description": "Integrates with TikTok's Business API to provide campaign management, performance analytics, creative asset handling, audience targeting, and automated report generation for advertising workflow automation across multiple advertiser accounts.",
+  "source_repo": "adsmcp/tiktok-ads-mcp-server",
+  "source_url": "https://github.com/adsmcp/tiktok-ads-mcp-server",
+  "install": "npx -y tiktok-ads-mcp-server"
+}

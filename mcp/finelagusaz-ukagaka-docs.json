@@ -1,0 +1,7 @@
+{
+  "name": "finelagusaz-ukagaka-docs",
+  "description": "Searches offline snapshots of Ukagaka desktop mascot documentation including UKADOC, YAYA Wiki, and Satori Wiki.",
+  "source_repo": "finelagusaz/ukagaka-doc-mcp",
+  "source_url": "https://github.com/finelagusaz/ukagaka-doc-mcp",
+  "install": "npx -y ukagaka-doc-mcp"
+}

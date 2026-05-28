@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-citation-finder-ai-mcp",
+  "description": "Tools for finding and formatting academic citations and bibliographic references.",
+  "source_repo": "csoai-org/citation-finder-ai-mcp",
+  "source_url": "https://github.com/csoai-org/citation-finder-ai-mcp",
+  "install": "npx -y citation-finder-ai-mcp"
+}

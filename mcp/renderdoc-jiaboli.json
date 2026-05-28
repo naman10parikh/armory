@@ -1,0 +1,7 @@
+{
+  "name": "renderdoc-jiaboli",
+  "description": "GPU frame capture analysis and graphics pipeline debugging using RenderDoc, supporting D3D11, D3D12, OpenGL, and Vulkan captures on Windows.",
+  "source_repo": "jiaboli-github/renderdoc-mcp",
+  "source_url": "https://github.com/jiaboli-github/renderdoc-mcp",
+  "install": "npx -y renderdoc-mcp"
+}

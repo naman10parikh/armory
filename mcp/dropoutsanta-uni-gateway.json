@@ -1,0 +1,7 @@
+{
+  "name": "dropoutsanta-uni-gateway",
+  "description": "Unified gateway aggregating multiple MCP servers and API plugins behind a single authenticated endpoint.",
+  "source_repo": "dropoutsanta/uni-mcp-gateway",
+  "source_url": "https://github.com/dropoutsanta/uni-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/dropoutsanta/uni-mcp-gateway\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "betmoar-fastapply",
+  "description": "Provides intelligent code editing capabilities through local language models, combining AST-grep pattern matching and ripgrep text search for precise structural modifications with automatic backup creation, validation, and rollback capabilities across multiple files.",
+  "source_repo": "betmoar/fastapply-mcp",
+  "source_url": "https://github.com/betmoar/fastapply-mcp",
+  "install": "npx -y fastapply-mcp"
+}

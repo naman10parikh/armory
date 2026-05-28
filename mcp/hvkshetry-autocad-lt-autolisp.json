@@ -1,0 +1,7 @@
+{
+  "name": "hvkshetry-autocad-lt-autolisp",
+  "description": "Enables natural language control of AutoCAD LT through AutoLISP code generation and execution for creating engineering drawings, process equipment symbols, and complete process diagrams via keyboard simulation.",
+  "source_repo": "puran-water/autocad-mcp",
+  "source_url": "https://github.com/puran-water/autocad-mcp",
+  "install": "npx -y autocad-mcp"
+}

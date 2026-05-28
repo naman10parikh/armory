@@ -1,0 +1,7 @@
+{
+  "name": "brian-mwangi-africastalking-sms",
+  "description": "Enables sending SMS messages through Africa's Talking API with features like dynamic message customization and sender ID configuration for notifications and alerts across African mobile networks.",
+  "source_repo": "brian-mwangi-developer/africastalking-mcp",
+  "source_url": "https://github.com/brian-mwangi-developer/africastalking-mcp",
+  "install": "npx -y africastalking-mcp"
+}

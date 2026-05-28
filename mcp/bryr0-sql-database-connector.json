@@ -1,0 +1,7 @@
+{
+  "name": "bryr0-sql-database-connector",
+  "description": "Provides unified database connectivity across MySQL, Microsoft SQL Server, Oracle, and Sybase through standardized tools for executing queries, describing schemas, and browsing resources.",
+  "source_repo": "bryr0/sql-mcp",
+  "source_url": "https://github.com/bryr0/sql-mcp",
+  "install": "npx -y sql-mcp"
+}

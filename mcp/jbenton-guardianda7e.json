@@ -1,0 +1,7 @@
+{
+  "name": "jbenton-guardianda7e",
+  "description": "Integrates with The Guardian's Open Platform API to search articles, retrieve full content, browse sections, and perform analytical operations like author profiling and topic trend analysis with 17 specialized tools including Long Read discovery and content timeline analysis.",
+  "source_repo": "jbenton/guardian-mcp-server",
+  "source_url": "https://github.com/jbenton/guardian-mcp-server",
+  "install": "npx -y guardian-mcp-server"
+}

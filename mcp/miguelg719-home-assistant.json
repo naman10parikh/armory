@@ -1,0 +1,7 @@
+{
+  "name": "miguelg719-home-assistant",
+  "description": "Integrates Home Assistant devices and automation into workflows, enabling control and monitoring of smart home systems like lighting, climate, and security.",
+  "source_repo": "miguelg719/home-assistant-mcp",
+  "source_url": "https://github.com/miguelg719/home-assistant-mcp",
+  "install": "npx -y home-assistant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-continuity-server",
+  "description": "Mcp Continuity Server MCP server listed on mcp.so.",
+  "source_repo": "Lucasdoreac/mcp-continuity-server",
+  "source_url": "https://mcp.so/server/mcp-continuity-server/Lucasdoreac",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-continuity-server/Lucasdoreac\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "grandbusta-solana-blockchain",
+  "description": "Enables secure interaction with the Solana blockchain for checking wallet balances, retrieving blockchain information, and executing token transfers through RPC endpoints and keypair-based authentication.",
+  "source_repo": "grandbusta/solana-mcp",
+  "source_url": "https://github.com/grandbusta/solana-mcp",
+  "install": "npx -y solana-mcp"
+}

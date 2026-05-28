@@ -1,0 +1,7 @@
+{
+  "name": "generaljerel-chess",
+  "description": "Provides interactive chess gameplay with OAuth authentication, featuring per-user game state management, Stockfish engine analysis, tactical puzzles, and a visual chess board widget for chess instruction and training.",
+  "source_repo": "jerelvelarde/chessmcp",
+  "source_url": "https://github.com/jerelvelarde/chessmcp",
+  "install": "# git clone --depth 1 https://github.com/jerelvelarde/chessmcp\n# See source for mcpServers config block"
+}

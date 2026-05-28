@@ -1,0 +1,7 @@
+{
+  "name": "devin95835-google-workspace",
+  "description": "Integrates with Google Workspace APIs for email management, calendar operations, spreadsheet manipulation, document editing, and file sharing",
+  "source_repo": "scorched-earth-labs/google-workspace-mcp-server",
+  "source_url": "https://github.com/scorched-earth-labs/google-workspace-mcp-server",
+  "install": "npx -y google-workspace-mcp-server"
+}

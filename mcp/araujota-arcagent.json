@@ -1,0 +1,7 @@
+{
+  "name": "araujota-arcagent",
+  "description": "Connects AI agents to the ArcAgent bounty marketplace for discovering, claiming, and completing coding tasks with escrowed rewards and zero-trust verification.",
+  "source_repo": "araujota/arcagent",
+  "source_url": "https://github.com/araujota/arcagent/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/araujota/arcagent/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thenextgennexus-google-maps",
+  "description": "Extract local business leads with email and phone enrichment from Google Maps.",
+  "source_repo": "",
+  "source_url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/google-maps-mcp-server/mcp",
+  "install": "# git clone --depth 1 https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/google-maps-mcp-server/mcp\n# See source for mcpServers config block"
+}

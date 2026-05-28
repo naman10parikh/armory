@@ -1,0 +1,7 @@
+{
+  "name": "zilliz-claude-context",
+  "description": "Provides semantic code search and indexing using vector embeddings and AST-based code splitting, enabling natural language queries across codebases with automatic file filtering and support for multiple embedding providers and vector databases.",
+  "source_repo": "zilliztech/claude-context",
+  "source_url": "https://github.com/zilliztech/claude-context",
+  "install": "# git clone --depth 1 https://github.com/zilliztech/claude-context\n# See source for mcpServers config block"
+}

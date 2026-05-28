@@ -1,0 +1,7 @@
+{
+  "name": "kiwi-flights",
+  "description": "Search and book flights via Kiwi.com",
+  "source_repo": "alpic-ai/kiwi-mcp-server-public",
+  "source_url": "https://github.com/alpic-ai/kiwi-mcp-server-public",
+  "install": "# git clone --depth 1 https://github.com/alpic-ai/kiwi-mcp-server-public\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intigriti-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for interacting with the Intigriti bug bounty platform's Researcher API. It enables AI assistants to manage bug bounty programs, submissions, and research workflow.",
+  "source_repo": "alpernae/intigriti-mcp",
+  "source_url": "https://github.com/alpernae/intigriti-mcp",
+  "install": "npx -y intigriti-mcp"
+}

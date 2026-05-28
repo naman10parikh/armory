@@ -1,0 +1,7 @@
+{
+  "name": "omazapa-root",
+  "description": "Execute Python and C++ code using CERN's ROOT data analysis framework",
+  "source_repo": "omazapa/root_mcp_server",
+  "source_url": "https://github.com/omazapa/root_mcp_server",
+  "install": "npx -y root_mcp_server"
+}

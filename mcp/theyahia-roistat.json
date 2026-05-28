@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-roistat",
+  "description": "Integrates with Roistat marketing analytics API for visit tracking and ROI analysis by channel.",
+  "source_repo": "theyahia/roistat-mcp",
+  "source_url": "https://github.com/theyahia/roistat-mcp",
+  "install": "npx -y roistat-mcp"
+}

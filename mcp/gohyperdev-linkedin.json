@@ -1,0 +1,7 @@
+{
+  "name": "gohyperdev-linkedin",
+  "description": "Publish text posts, link shares, and image/video uploads to LinkedIn directly from AI agents, built in Rust.",
+  "source_repo": "gohyperdev/linkedin-mcp",
+  "source_url": "https://github.com/gohyperdev/linkedin-mcp",
+  "install": "npx -y linkedin-mcp"
+}

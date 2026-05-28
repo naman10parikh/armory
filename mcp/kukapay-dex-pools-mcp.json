@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-dex-pools-mcp",
+  "description": "An MCP server that provides AI agents with real-time access to DEX liquidity pool data.",
+  "source_repo": "kukapay/dex-pools-mcp",
+  "source_url": "https://github.com/kukapay/dex-pools-mcp",
+  "install": "npx -y dex-pools-mcp"
+}

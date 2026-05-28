@@ -1,0 +1,7 @@
+{
+  "name": "lanyard-mcp-server",
+  "description": "Provides Discord user presence information through the Lanyard API, enabling AI assistants to retrieve real-time presence data like online status, Spotify activity, and custom KV data.",
+  "source_repo": "NNTin/lanyard-mcp-server",
+  "source_url": "https://github.com/NNTin/lanyard-mcp-server",
+  "install": "npx -y lanyard-mcp-server"
+}

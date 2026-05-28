@@ -1,0 +1,7 @@
+{
+  "name": "dannymac180-think-tool",
+  "description": "Provides a dedicated space for structured reasoning during complex problem-solving tasks, enabling models to maintain timestamped thought logs that can be reviewed, cleared, and analyzed for improved performance in tasks requiring long chains of reasoning.",
+  "source_repo": "dannymac180/mcp-think-tool",
+  "source_url": "https://github.com/dannymac180/mcp-think-tool",
+  "install": "# git clone --depth 1 https://github.com/dannymac180/mcp-think-tool\n# See source for mcpServers config block"
+}

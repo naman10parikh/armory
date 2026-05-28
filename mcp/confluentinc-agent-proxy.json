@@ -1,0 +1,7 @@
+{
+  "name": "confluentinc-agent-proxy",
+  "description": "Agent proxy for Confluent",
+  "source_repo": "confluentinc/agent_proxy",
+  "source_url": "https://github.com/confluentinc/agent_proxy",
+  "install": "# git clone --depth 1 https://github.com/confluentinc/agent_proxy\n# See source for mcpServers config block"
+}

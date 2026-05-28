@@ -1,0 +1,7 @@
+{
+  "name": "notion-mcp",
+  "description": "Notion MCP MCP server listed on mcp.so.",
+  "source_repo": "phoenine/Notion-MCP",
+  "source_url": "https://mcp.so/server/Notion-MCP/phoenine",
+  "install": "npx -y Notion-MCP"
+}

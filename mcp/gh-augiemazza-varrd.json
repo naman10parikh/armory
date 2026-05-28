@@ -1,0 +1,7 @@
+{
+  "name": "gh-augiemazza-varrd",
+  "description": "AI trading research with event studies, backtesting, and statistical validation across stocks, futures, and crypto.",
+  "source_repo": "augiemazza/varrd",
+  "source_url": "https://github.com/augiemazza/varrd",
+  "install": "# git clone --depth 1 https://github.com/augiemazza/varrd\n# See source for mcpServers config block"
+}

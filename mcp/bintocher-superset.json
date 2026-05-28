@@ -1,0 +1,7 @@
+{
+  "name": "bintocher-superset",
+  "description": "Comprehensive Apache Superset integration with 128+ tools for dashboards, charts, datasets, SQL Lab, security management, and access control automation.",
+  "source_repo": "bintocher/mcp-superset",
+  "source_url": "https://github.com/bintocher/mcp-superset",
+  "install": "# git clone --depth 1 https://github.com/bintocher/mcp-superset\n# See source for mcpServers config block"
+}

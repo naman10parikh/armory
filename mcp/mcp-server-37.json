@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-37",
+  "description": "MCP Server MCP server listed on mcp.so.",
+  "source_repo": "ds231/MCP-server",
+  "source_url": "https://mcp.so/server/MCP-server/ds231",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-server/ds231\n# See source for mcpServers config block"
+}

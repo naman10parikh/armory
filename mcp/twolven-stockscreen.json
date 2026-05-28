@@ -1,0 +1,7 @@
+{
+  "name": "twolven-stockscreen",
+  "description": "Integrates with Yahoo Finance to provide advanced stock screening and analysis capabilities for technical, fundamental, and options-based trading strategies.",
+  "source_repo": "twolven/mcp-stockscreen",
+  "source_url": "https://github.com/twolven/mcp-stockscreen",
+  "install": "# git clone --depth 1 https://github.com/twolven/mcp-stockscreen\n# See source for mcpServers config block"
+}

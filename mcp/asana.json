@@ -1,0 +1,7 @@
+{
+  "name": "asana",
+  "description": "Bridge to the Asana project management system.",
+  "source_repo": "",
+  "source_url": "https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server",
+  "install": "# git clone --depth 1 https://developers.asana.com/docs/using-asanas-model-control-protocol-mcp-server\n# See source for mcpServers config block"
+}

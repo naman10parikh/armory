@@ -1,0 +1,7 @@
+{
+  "name": "opik-mcp",
+  "description": "Opik Mcp MCP server listed on mcp.so.",
+  "source_repo": "comet-ml/opik-mcp",
+  "source_url": "https://mcp.so/server/opik-mcp/comet-ml",
+  "install": "npx -y opik-mcp"
+}

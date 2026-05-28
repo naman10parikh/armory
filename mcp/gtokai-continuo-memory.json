@@ -1,0 +1,7 @@
+{
+  "name": "gtokai-continuo-memory",
+  "description": "Provides hierarchical memory storage with three-tier compression (chunks, micro-summaries, meta-summaries) and semantic search using ChromaDB for long-term context retention and knowledge base management where traditional context windows are insufficient.",
+  "source_repo": "gtokai/continuo-memory-mcp",
+  "source_url": "https://github.com/gtokai/continuo-memory-mcp",
+  "install": "npx -y continuo-memory-mcp"
+}

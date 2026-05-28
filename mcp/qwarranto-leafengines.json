@@ -1,0 +1,7 @@
+{
+  "name": "qwarranto-leafengines",
+  "description": "Agricultural AI for soil analysis, crop recommendations, and weather forecasts.",
+  "source_repo": "qwarranto/leafengines-claude-mcp",
+  "source_url": "https://github.com/qwarranto/leafengines-claude-mcp",
+  "install": "npx -y leafengines-claude-mcp"
+}

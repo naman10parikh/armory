@@ -1,0 +1,7 @@
+{
+  "name": "nailuogg-aliyun-cloud",
+  "description": "Integrates with Alibaba Cloud services to query and filter SLS logs, with future support for ECS instance management and serverless function deployment.",
+  "source_repo": "nailuogg/aliyun-mcp-server",
+  "source_url": "https://github.com/nailuogg/aliyun-mcp-server",
+  "install": "npx -y aliyun-mcp-server"
+}

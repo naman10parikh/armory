@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-project-management-ai-mcp",
+  "description": "Python MCP server for project management and task tracking tools.",
+  "source_repo": "csoai-org/project-management-ai-mcp",
+  "source_url": "https://github.com/csoai-org/project-management-ai-mcp",
+  "install": "npx -y project-management-ai-mcp"
+}

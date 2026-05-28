@@ -1,0 +1,7 @@
+{
+  "name": "balanced-investor-club",
+  "description": "Market analysis and investment thinking tools from The Balanced Investor Club.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/balanced-investor-club",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/balanced-investor-club\n# See source for mcpServers config block"
+}

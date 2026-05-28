@@ -1,0 +1,7 @@
+{
+  "name": "takiaa-twitter-scraper",
+  "description": "Integrates with X using the agent-twitter-client library, enabling tweet retrieval and posting within Docker containers with proxy support for network isolation.",
+  "source_repo": "takiaa/twitter-scraper-mcp",
+  "source_url": "https://github.com/takiaa/twitter-scraper-mcp",
+  "install": "npx -y twitter-scraper-mcp"
+}

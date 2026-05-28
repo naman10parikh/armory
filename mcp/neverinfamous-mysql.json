@@ -1,0 +1,7 @@
+{
+  "name": "neverinfamous-mysql",
+  "description": "Enterprise-grade MySQL server with OAuth 2.0 and Docker deployment",
+  "source_repo": "neverinfamous/mysql-mcp",
+  "source_url": "https://github.com/neverinfamous/mysql-mcp",
+  "install": "npx -y mysql-mcp"
+}

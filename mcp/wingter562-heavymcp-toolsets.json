@@ -1,0 +1,7 @@
+{
+  "name": "wingter562-heavymcp-toolsets",
+  "description": "MCP tools with intentional response delays for testing how MCP clients handle slow or heavy operations.",
+  "source_repo": "wingter562/heavymcp-toolsets",
+  "source_url": "https://github.com/wingter562/heavymcp-toolsets",
+  "install": "# git clone --depth 1 https://github.com/wingter562/heavymcp-toolsets\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-honeybook",
+  "description": "Access HoneyBook client portal contracts and invoices using browser automation with Puppeteer and magic-link authentication.",
+  "source_repo": "chrischall/honeybook-mcp",
+  "source_url": "https://github.com/chrischall/honeybook-mcp",
+  "install": "npx -y honeybook-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hanweg-discord-raw",
+  "description": "Integrates with Discord's API to enable flexible bot development and management through simplified REST and slash command interfaces.",
+  "source_repo": "hanweg/mcp-discord-raw",
+  "source_url": "https://github.com/hanweg/mcp-discord-raw",
+  "install": "# git clone --depth 1 https://github.com/hanweg/mcp-discord-raw\n# See source for mcpServers config block"
+}

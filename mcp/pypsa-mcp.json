@@ -1,0 +1,7 @@
+{
+  "name": "pypsa-mcp",
+  "description": "PyPSA MCP is a Model Context Protocol (MCP) server for creating, analyzing, and optimizing energy system models using PyPSA (Python for Power System Analysis).",
+  "source_repo": "open-energy-transition/pypsa-mcp",
+  "source_url": "https://github.com/open-energy-transition/pypsa-mcp",
+  "install": "npx -y pypsa-mcp"
+}

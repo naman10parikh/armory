@@ -1,0 +1,7 @@
+{
+  "name": "matteturtle09-mongodb",
+  "description": "Bridges MongoDB databases with AI systems, enabling document retrieval and analysis through standardized queries and operations.",
+  "source_repo": "matteturtle09/mongo-mcp-server",
+  "source_url": "https://github.com/matteturtle09/mongo-mcp-server",
+  "install": "npx -y mongo-mcp-server"
+}

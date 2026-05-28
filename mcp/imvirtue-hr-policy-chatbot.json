@@ -1,0 +1,7 @@
+{
+  "name": "imvirtue-hr-policy-chatbot",
+  "description": "Enables HR departments to provide workplace policy information through a RAG-based chatbot that indexes, retrieves, and generates answers from PDF documentation with email sending capabilities.",
+  "source_repo": "imvirtue/ragchatbot_mcpserver",
+  "source_url": "https://github.com/imvirtue/ragchatbot_mcpserver",
+  "install": "# git clone --depth 1 https://github.com/imvirtue/ragchatbot_mcpserver\n# See source for mcpServers config block"
+}

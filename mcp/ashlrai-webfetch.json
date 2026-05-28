@@ -1,0 +1,7 @@
+{
+  "name": "ashlrai-webfetch",
+  "description": "MCP server federating 25 image providers with license-first ranking, providing structured metadata and attribution for safe image sourcing.",
+  "source_repo": "ashlrai/webfetch",
+  "source_url": "https://github.com/ashlrai/webfetch",
+  "install": "# git clone --depth 1 https://github.com/ashlrai/webfetch\n# See source for mcpServers config block"
+}

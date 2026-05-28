@@ -1,0 +1,7 @@
+{
+  "name": "pinecone-vector-database",
+  "description": "Develop with Pinecone, the vector database built for knowledgeable AI.",
+  "source_repo": "pinecone-io/pinecone-mcp",
+  "source_url": "https://github.com/pinecone-io/pinecone-mcp",
+  "install": "npx -y pinecone-mcp"
+}

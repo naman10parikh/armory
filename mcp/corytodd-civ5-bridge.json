@@ -1,0 +1,7 @@
+{
+  "name": "corytodd-civ5-bridge",
+  "description": "Bridges Civilization V gameplay with real-time game state data export through a Lua mod and Python server, enabling strategic analysis of cities, units, technologies, diplomacy, and resources.",
+  "source_repo": "corytodd/civ5-mcp",
+  "source_url": "https://github.com/corytodd/civ5-mcp",
+  "install": "npx -y civ5-mcp"
+}

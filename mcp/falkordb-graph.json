@@ -1,0 +1,7 @@
+{
+  "name": "falkordb-graph",
+  "description": "Enables natural language querying of graph databases by translating requests into FalkorDB queries for analyzing relationships in knowledge graphs, recommendation systems, and network data.",
+  "source_repo": "falkordb/falkordb-mcpserver",
+  "source_url": "https://github.com/falkordb/falkordb-mcpserver",
+  "install": "# git clone --depth 1 https://github.com/falkordb/falkordb-mcpserver\n# See source for mcpServers config block"
+}

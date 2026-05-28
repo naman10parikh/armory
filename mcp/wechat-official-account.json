@@ -1,0 +1,7 @@
+{
+  "name": "wechat-official-account",
+  "description": "Integrates with WeChat Official Account API to enable OAuth authentication, draft article creation, media upload and management, and direct publishing to WeChat official accounts for automated content management workflows.",
+  "source_repo": "xwang152-jack/wechat-official-account-mcp",
+  "source_url": "https://github.com/xwang152-jack/wechat-official-account-mcp",
+  "install": "npx -y wechat-official-account-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "isolator",
+  "description": "Provides secure code execution for Python, Go, and JavaScript through Docker containerization with network isolation, read-only filesystems, and resource limits for safely running user-provided code in sandboxed environments.",
+  "source_repo": "ompragash/isolator-mcp",
+  "source_url": "https://github.com/ompragash/isolator-mcp",
+  "install": "npx -y isolator-mcp"
+}

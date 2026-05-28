@@ -1,0 +1,7 @@
+{
+  "name": "woladi-pseudonym",
+  "description": "Intercepts and pseudonymizes sensitive data before it reaches cloud LLMs.",
+  "source_repo": "woladi/pseudonym-mcp",
+  "source_url": "https://github.com/woladi/pseudonym-mcp",
+  "install": "npx -y pseudonym-mcp"
+}

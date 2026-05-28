@@ -1,0 +1,7 @@
+{
+  "name": "ricky610329-mup",
+  "description": "Convert HTML MUP panels into interactive UI tools for LLMs.",
+  "source_repo": "ricky610329/mup",
+  "source_url": "https://github.com/ricky610329/mup",
+  "install": "# git clone --depth 1 https://github.com/ricky610329/mup\n# See source for mcpServers config block"
+}

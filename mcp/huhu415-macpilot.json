@@ -1,0 +1,7 @@
+{
+  "name": "huhu415-macpilot",
+  "description": "Enables control of macOS systems through native accessibility and screen capture APIs for mouse control, screen capture, text input, shell command execution, and application management.",
+  "source_repo": "huhu415/macpilotcli",
+  "source_url": "https://github.com/huhu415/macpilotcli",
+  "install": "# git clone --depth 1 https://github.com/huhu415/macpilotcli\n# See source for mcpServers config block"
+}

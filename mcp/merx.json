@@ -1,0 +1,7 @@
+{
+  "name": "merx",
+  "description": "TRON blockchain resource exchange platform exposing energy trading and wallet operations for AI agents.",
+  "source_repo": "hovsteder/merx-mcp",
+  "source_url": "https://github.com/hovsteder/merx-mcp",
+  "install": "npx -y merx-mcp"
+}

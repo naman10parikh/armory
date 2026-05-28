@@ -1,0 +1,7 @@
+{
+  "name": "gh-attilio81-public-apis-catalogue",
+  "description": "Query a curated catalogue of 1,400 public APIs by category, authentication type, HTTPS support, and CORS.",
+  "source_repo": "attilio81/mcp_public_apis",
+  "source_url": "https://github.com/attilio81/mcp_public_apis",
+  "install": "# git clone --depth 1 https://github.com/attilio81/mcp_public_apis\n# See source for mcpServers config block"
+}

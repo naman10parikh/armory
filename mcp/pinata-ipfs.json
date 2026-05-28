@@ -1,0 +1,7 @@
+{
+  "name": "pinata-ipfs",
+  "description": "Integrates with Pinata's IPFS storage services for uploading, searching, organizing, and retrieving files on both public and private decentralized networks using secure API authentication.",
+  "source_repo": "pinatacloud/pinata-mcp",
+  "source_url": "https://github.com/pinatacloud/pinata-mcp",
+  "install": "npx -y pinata-mcp"
+}

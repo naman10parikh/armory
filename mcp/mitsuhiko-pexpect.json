@@ -1,0 +1,7 @@
+{
+  "name": "mitsuhiko-pexpect",
+  "description": "Provides remote process control and debugging capabilities through Python's pexpect library, enabling spawning, interaction with, and control of command-line programs, debuggers, and interactive shells with session persistence and timeout handling.",
+  "source_repo": "mitsuhiko/pexpect-mcp",
+  "source_url": "https://github.com/mitsuhiko/pexpect-mcp",
+  "install": "npx -y pexpect-mcp"
+}

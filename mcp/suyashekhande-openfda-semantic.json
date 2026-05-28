@@ -1,0 +1,7 @@
+{
+  "name": "suyashekhande-openfda-semantic",
+  "description": "Intent-driven access to the full openFDA API ecosystem covering drugs, devices, food, and adverse event reports.",
+  "source_repo": "suyashekhande/openfda-semantic-mcp",
+  "source_url": "https://github.com/suyashekhande/openfda-semantic-mcp",
+  "install": "npx -y openfda-semantic-mcp"
+}

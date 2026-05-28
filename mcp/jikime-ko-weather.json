@@ -1,0 +1,7 @@
+{
+  "name": "jikime-ko-weather",
+  "description": "Provides access to Korean weather data through asynchronous HTTP requests with coordinate conversion and API authentication capabilities.",
+  "source_repo": "jikime/py-mcp-ko-weather",
+  "source_url": "https://github.com/jikime/py-mcp-ko-weather",
+  "install": "# git clone --depth 1 https://github.com/jikime/py-mcp-ko-weather\n# See source for mcpServers config block"
+}

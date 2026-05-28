@@ -1,0 +1,7 @@
+{
+  "name": "luizedupp-rememb",
+  "description": "Persistent project memory for AI agents stored in local JSON — no servers, API keys, or configuration required.",
+  "source_repo": "luizedupp/rememb",
+  "source_url": "https://github.com/luizedupp/rememb",
+  "install": "# git clone --depth 1 https://github.com/luizedupp/rememb\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "picahq-mcp",
+  "description": "One MCP for all your integrations — powered by [Pica](https://www.picaos.com), the infrastructure for intelligent, collaborative agents.",
+  "source_repo": "picahq/mcp",
+  "source_url": "https://github.com/picahq/mcp",
+  "install": "# git clone --depth 1 https://github.com/picahq/mcp\n# See source for mcpServers config block"
+}

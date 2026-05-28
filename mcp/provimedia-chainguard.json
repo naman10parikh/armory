@@ -1,0 +1,7 @@
+{
+  "name": "provimedia-chainguard",
+  "description": "Provides task tracking, syntax validation, and long-term memory with ChromaDB semantic search for development teams managing complex codebases.",
+  "source_repo": "provimedia/provimedia-mcp",
+  "source_url": "https://github.com/provimedia/provimedia-mcp",
+  "install": "npx -y provimedia-mcp"
+}

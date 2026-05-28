@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-tally-dao-governance",
+  "description": "Integrates with the Tally API to query and analyze DAO governance data, enabling insights into decentralized decision-making processes.",
+  "source_repo": "crazyrabbitltc/mpc-tally-api-server",
+  "source_url": "https://github.com/crazyrabbitltc/mpc-tally-api-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mpc-tally-api-server\n# See source for mcpServers config block"
+}

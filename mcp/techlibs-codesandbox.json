@@ -1,0 +1,7 @@
+{
+  "name": "techlibs-codesandbox",
+  "description": "Provides stateless access to CodeSandbox SDK operations for creating, managing, and interacting with cloud-based development sandboxes through 13 tools covering VM lifecycle management, file system operations, and session handling with configurable tiers and hibernation settings.",
+  "source_repo": "techlibs/codesandbox-mcp",
+  "source_url": "https://github.com/techlibs/codesandbox-mcp",
+  "install": "npx -y codesandbox-mcp"
+}

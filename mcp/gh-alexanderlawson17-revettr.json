@@ -1,0 +1,7 @@
+{
+  "name": "gh-alexanderlawson17-revettr",
+  "description": "Counterparty risk scoring for agentic commerce via x402 micropayments.",
+  "source_repo": "alexanderlawson17/revettr-python",
+  "source_url": "https://github.com/alexanderlawson17/revettr-python",
+  "install": "# git clone --depth 1 https://github.com/alexanderlawson17/revettr-python\n# See source for mcpServers config block"
+}

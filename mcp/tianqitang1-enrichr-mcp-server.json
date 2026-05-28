@@ -1,0 +1,7 @@
+{
+  "name": "tianqitang1-enrichr-mcp-server",
+  "description": "A MCP server that provides gene set enrichment analysis using the Enrichr API",
+  "source_repo": "tianqitang1/enrichr-mcp-server",
+  "source_url": "https://github.com/tianqitang1/enrichr-mcp-server",
+  "install": "npx -y enrichr-mcp-server"
+}

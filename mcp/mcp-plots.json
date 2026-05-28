@@ -1,0 +1,7 @@
+{
+  "name": "mcp-plots",
+  "description": "Create data visualizations as Mermaid charts, PNG images, or text",
+  "source_repo": "mr901/mcp-plots",
+  "source_url": "https://github.com/mr901/mcp-plots",
+  "install": "# git clone --depth 1 https://github.com/mr901/mcp-plots\n# See source for mcpServers config block"
+}

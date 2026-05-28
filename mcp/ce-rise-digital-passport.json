@@ -1,0 +1,7 @@
+{
+  "name": "ce-rise-digital-passport",
+  "description": "AI assistant for planning and reusing CE-RISE Digital Passport components, models, and deployment assets.",
+  "source_repo": "ce-rise-software/dp-engineering-assistant",
+  "source_url": "https://github.com/ce-rise-software/dp-engineering-assistant",
+  "install": "# git clone --depth 1 https://github.com/ce-rise-software/dp-engineering-assistant\n# See source for mcpServers config block"
+}

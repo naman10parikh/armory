@@ -1,0 +1,7 @@
+{
+  "name": "superprat-framer-design",
+  "description": "Designs web pages in Framer projects via the Framer Server API using 35 MCP tools.",
+  "source_repo": "superprat/framer-design-mcp-server",
+  "source_url": "https://github.com/superprat/framer-design-mcp-server",
+  "install": "npx -y framer-design-mcp-server"
+}

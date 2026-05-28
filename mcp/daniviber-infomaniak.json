@@ -1,0 +1,7 @@
+{
+  "name": "daniviber-infomaniak",
+  "description": "Integrates with Infomaniak's Swiss cloud platform to manage domains, DNS records, email hosting, web hosting, kDrive storage, Swiss Backup, VPS instances, and dedicated servers.",
+  "source_repo": "daniviber/infomaniak_mcp",
+  "source_url": "https://github.com/daniviber/infomaniak_mcp",
+  "install": "npx -y infomaniak_mcp"
+}

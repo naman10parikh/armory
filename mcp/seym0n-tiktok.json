@@ -1,0 +1,7 @@
+{
+  "name": "seym0n-tiktok",
+  "description": "Integrates with TikTok through TikNeuron's API to retrieve video subtitles, content details, and engagement metrics for analyzing virality factors and enabling conversational interactions with TikTok videos.",
+  "source_repo": "seym0n/tiktok-mcp",
+  "source_url": "https://github.com/seym0n/tiktok-mcp",
+  "install": "npx -y tiktok-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ligolo-ng-mcp-server",
+  "description": "This MCP server enables AI assistants to control Ligolo-ng operations on a remote Kali Linux machine via SSH, providing tools for managing proxy, agents, tunnels, routes, and listeners for network pivoting during security assessments.",
+  "source_repo": "schwarztim/sec-ligolo-ng-mcp",
+  "source_url": "https://github.com/schwarztim/sec-ligolo-ng-mcp",
+  "install": "npx -y sec-ligolo-ng-mcp"
+}

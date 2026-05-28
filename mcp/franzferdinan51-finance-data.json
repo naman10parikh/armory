@@ -1,0 +1,7 @@
+{
+  "name": "franzferdinan51-finance-data",
+  "description": "Read-only financial market data from Yahoo Finance, Coinbase, and Polymarket for stock quotes, cryptocurrency prices, and prediction markets.",
+  "source_repo": "franzferdinan51/finance-mcp",
+  "source_url": "https://github.com/franzferdinan51/finance-mcp",
+  "install": "npx -y finance-mcp"
+}

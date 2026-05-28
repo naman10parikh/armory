@@ -1,0 +1,7 @@
+{
+  "name": "appwrite",
+  "description": "Backend-as-a-service platform integration for database, user, storage, and function management",
+  "source_repo": "appwrite/mcp-for-api",
+  "source_url": "https://github.com/appwrite/mcp-for-api",
+  "install": "# git clone --depth 1 https://github.com/appwrite/mcp-for-api\n# See source for mcpServers config block"
+}

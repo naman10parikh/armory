@@ -1,0 +1,7 @@
+{
+  "name": "tosheroon",
+  "description": "Real-time Amazon prices, product search, 90-day history, AI forecasts, and price drop alerts.",
+  "source_repo": "",
+  "source_url": "https://tosheroon.com/tools/mcp",
+  "install": "# git clone --depth 1 https://tosheroon.com/tools/mcp\n# See source for mcpServers config block"
+}

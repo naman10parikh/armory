@@ -1,0 +1,7 @@
+{
+  "name": "commune-dev-commune-email",
+  "description": "Provides email and SMS capabilities for agents including inbox management, threaded conversations, domain verification, delivery tracking, and structured data extraction.",
+  "source_repo": "commune-dev/commune-mcp",
+  "source_url": "https://github.com/commune-dev/commune-mcp",
+  "install": "npx -y commune-mcp"
+}

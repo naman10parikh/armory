@@ -1,0 +1,7 @@
+{
+  "name": "dataforseo",
+  "description": "Integrates with DataForSEO's SEO and marketing analytics APIs to provide direct access to search engine results, keyword research, content analysis, and competitive market insights for digital marketers and SEO professionals.",
+  "source_repo": "dataforseo/mcp-server-typescript",
+  "source_url": "https://github.com/dataforseo/mcp-server-typescript",
+  "install": "# git clone --depth 1 https://github.com/dataforseo/mcp-server-typescript\n# See source for mcpServers config block"
+}

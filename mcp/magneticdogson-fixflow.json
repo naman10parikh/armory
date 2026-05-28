@@ -1,0 +1,7 @@
+{
+  "name": "magneticdogson-fixflow",
+  "description": "Collective memory for AI agents that stores and shares bug fixes across sessions and users.",
+  "source_repo": "magneticdogson/fixflow-mcp",
+  "source_url": "https://github.com/magneticdogson/fixflow-mcp",
+  "install": "npx -y fixflow-mcp"
+}

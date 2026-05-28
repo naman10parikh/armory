@@ -1,0 +1,7 @@
+{
+  "name": "doriandarko-claude-search",
+  "description": "Enables real-time web searches with configurable domain filtering and result limits for accessing up-to-date information beyond training data",
+  "source_repo": "doriandarko/claude-search-mcp",
+  "source_url": "https://github.com/doriandarko/claude-search-mcp",
+  "install": "npx -y claude-search-mcp"
+}

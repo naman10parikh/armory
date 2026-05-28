@@ -1,0 +1,7 @@
+{
+  "name": "apolo-mcp-server",
+  "description": "RAG server using Qdrant vector database for knowledge retrieval and semantic search.",
+  "source_repo": "iamfurukawa/apolo-mcp-server",
+  "source_url": "https://github.com/iamfurukawa/apolo-mcp-server",
+  "install": "npx -y apolo-mcp-server"
+}

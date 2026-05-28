@@ -1,0 +1,7 @@
+{
+  "name": "marketinglior-pixel-agentbill",
+  "description": "Billing infrastructure for AI agents: preflight spend checks and post-execution usage billing.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/marketinglior-pixel-agentbill",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/marketinglior-pixel-agentbill\n# See source for mcpServers config block"
+}

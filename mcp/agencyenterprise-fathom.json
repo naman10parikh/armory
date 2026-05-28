@@ -1,0 +1,7 @@
+{
+  "name": "agencyenterprise-fathom",
+  "description": "Provides AI-driven meeting analysis and summarization through the Fathom platform.",
+  "source_repo": "agencyenterprise/fathom-mcp-server",
+  "source_url": "https://github.com/agencyenterprise/fathom-mcp-server",
+  "install": "npx -y fathom-mcp-server"
+}

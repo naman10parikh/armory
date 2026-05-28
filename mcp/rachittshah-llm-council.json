@@ -1,0 +1,7 @@
+{
+  "name": "rachittshah-llm-council",
+  "description": "Multi-LLM deliberation council with voting, debate, synthesis, critique, and verification protocols.",
+  "source_repo": "rachittshah/llmcouncil",
+  "source_url": "https://github.com/rachittshah/llmcouncil",
+  "install": "# git clone --depth 1 https://github.com/rachittshah/llmcouncil\n# See source for mcpServers config block"
+}

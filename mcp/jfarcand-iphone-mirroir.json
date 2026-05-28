@@ -1,0 +1,7 @@
+{
+  "name": "jfarcand-iphone-mirroir",
+  "description": "Controls a real iPhone through macOS iPhone Mirroring with screenshot, tap, swipe, type, and OCR capabilities.",
+  "source_repo": "jfarcand/mirroir-mcp",
+  "source_url": "https://github.com/jfarcand/mirroir-mcp",
+  "install": "npx -y mirroir-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "meltingpixelsai-harvey-intel",
+  "description": "Token safety analysis, trading signals, and social intelligence for crypto markets.",
+  "source_repo": "meltingpixelsai/zero-core-intel",
+  "source_url": "https://github.com/meltingpixelsai/zero-core-intel",
+  "install": "# git clone --depth 1 https://github.com/meltingpixelsai/zero-core-intel\n# See source for mcpServers config block"
+}

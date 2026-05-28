@@ -1,0 +1,7 @@
+{
+  "name": "windalfin-clickup",
+  "description": "Integrates with ClickUp task management to enable task creation, updating, moving, and bulk operations with name-based entity resolution and fuzzy matching for efficient project management workflows.",
+  "source_repo": "windalfin/clickup-mcp-server",
+  "source_url": "https://github.com/windalfin/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

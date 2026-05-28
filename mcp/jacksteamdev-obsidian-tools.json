@@ -1,0 +1,7 @@
+{
+  "name": "jacksteamdev-obsidian-tools",
+  "description": "Integrates AI-powered tools with Obsidian for enhanced note-taking, linking, and knowledge management workflows.",
+  "source_repo": "jacksteamdev/obsidian-mcp-tools",
+  "source_url": "https://github.com/jacksteamdev/obsidian-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/jacksteamdev/obsidian-mcp-tools\n# See source for mcpServers config block"
+}

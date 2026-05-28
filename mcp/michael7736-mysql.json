@@ -1,0 +1,7 @@
+{
+  "name": "michael7736-mysql",
+  "description": "Provides direct access to MySQL databases for executing queries, creating tables, inserting data, and performing other SQL operations without requiring complex database code.",
+  "source_repo": "michael7736/mysql-mcp-server",
+  "source_url": "https://github.com/michael7736/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

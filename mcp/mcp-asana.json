@@ -1,0 +1,7 @@
+{
+  "name": "mcp-asana",
+  "description": "Mcp Asana MCP server listed on mcp.so.",
+  "source_repo": "wwwaldo/mcp-asana",
+  "source_url": "https://mcp.so/server/mcp-asana/wwwaldo",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-asana/wwwaldo\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-vdmeu-registrum",
+  "description": "Search UK companies, get structured financials, directors, and corporate networks via the Registrum API.",
+  "source_repo": "vdmeu/registrum-mcp",
+  "source_url": "https://github.com/vdmeu/registrum-mcp",
+  "install": "npx -y registrum-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-gigachat",
+  "description": "Integrates with Sber GigaChat API for text generation, model listing, and embeddings.",
+  "source_repo": "theyahia/gigachat-mcp",
+  "source_url": "https://github.com/theyahia/gigachat-mcp",
+  "install": "npx -y gigachat-mcp"
+}

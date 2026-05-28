@@ -1,0 +1,7 @@
+{
+  "name": "zhandos717-macos-screenshot",
+  "description": "Capture macOS screen content as fullscreen or region screenshots via native screencapture CLI.",
+  "source_repo": "zhandos717/mcp-screenshot",
+  "source_url": "https://github.com/zhandos717/mcp-screenshot",
+  "install": "# git clone --depth 1 https://github.com/zhandos717/mcp-screenshot\n# See source for mcpServers config block"
+}

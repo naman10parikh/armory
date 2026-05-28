@@ -1,0 +1,7 @@
+{
+  "name": "instruckt-mcp",
+  "description": "MCP server for instruckt visual annotations. Enables AI agents to retrieve pending annotations, view screenshots, and resolve annotations.",
+  "source_repo": "tdwesten/instruckt-mcp",
+  "source_url": "https://github.com/tdwesten/instruckt-mcp",
+  "install": "npx -y instruckt-mcp"
+}

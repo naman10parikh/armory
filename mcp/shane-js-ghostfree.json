@@ -1,0 +1,7 @@
+{
+  "name": "shane-js-ghostfree",
+  "description": "Scans repository dependencies for known security vulnerabilities using CVE data from OSV.dev, NVD, and CISA.",
+  "source_repo": "shane-js/ghostfree",
+  "source_url": "https://github.com/shane-js/ghostfree",
+  "install": "# git clone --depth 1 https://github.com/shane-js/ghostfree\n# See source for mcpServers config block"
+}

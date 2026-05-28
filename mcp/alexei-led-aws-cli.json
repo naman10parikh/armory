@@ -1,0 +1,7 @@
+{
+  "name": "alexei-led-aws-cli",
+  "description": "Provides a lightweight bridge to AWS CLI, enabling command documentation retrieval and execution with Unix pipe support using existing AWS credentials on the host machine.",
+  "source_repo": "alexei-led/aws-mcp-server",
+  "source_url": "https://github.com/alexei-led/aws-mcp-server",
+  "install": "npx -y aws-mcp-server"
+}

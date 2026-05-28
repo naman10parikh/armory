@@ -1,0 +1,7 @@
+{
+  "name": "zw008-vmware-avi",
+  "description": "VMware AVI NSX ALB load balancer and AKO Kubernetes operations via 29 MCP tools.",
+  "source_repo": "zw008/vmware-avi",
+  "source_url": "https://github.com/zw008/vmware-avi",
+  "install": "# git clone --depth 1 https://github.com/zw008/vmware-avi\n# See source for mcpServers config block"
+}

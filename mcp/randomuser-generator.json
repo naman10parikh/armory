@@ -1,0 +1,7 @@
+{
+  "name": "randomuser-generator",
+  "description": "Provides a bridge to the randomuser.me API with enhanced features for generating realistic synthetic user profiles, supporting advanced filtering and customizable output formats for developers needing mock data.",
+  "source_repo": "rycid/randomusermcp",
+  "source_url": "https://github.com/rycid/randomusermcp",
+  "install": "# git clone --depth 1 https://github.com/rycid/randomusermcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yunkee-lee-kakao-local",
+  "description": "Integrates with Kakao's mapping APIs to provide location information within South Korea, enabling address geocoding, place searching, and detailed location data retrieval including reviews and photos.",
+  "source_repo": "yunkee-lee/mcp-kakao-local",
+  "source_url": "https://github.com/yunkee-lee/mcp-kakao-local",
+  "install": "# git clone --depth 1 https://github.com/yunkee-lee/mcp-kakao-local\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rikitonoto-gmocoin-fx",
+  "description": "Access GMO Coin FX trading with tools for account balances, positions, order execution, and candlestick data.",
+  "source_repo": "rikitonoto/gmocoin-fx-mcp",
+  "source_url": "https://github.com/rikitonoto/gmocoin-fx-mcp",
+  "install": "npx -y gmocoin-fx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "agenson-tools-document-parser",
+  "description": "Parses documents in various formats for AI-assisted text extraction.",
+  "source_repo": "agenson-tools/document-parser-mcp",
+  "source_url": "https://github.com/agenson-tools/document-parser-mcp",
+  "install": "npx -y document-parser-mcp"
+}

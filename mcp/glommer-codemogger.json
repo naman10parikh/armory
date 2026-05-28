@@ -1,0 +1,7 @@
+{
+  "name": "glommer-codemogger",
+  "description": "Code indexing library with tree-sitter parsing and semantic search via embedding-based similarity.",
+  "source_repo": "glommer/codemogger",
+  "source_url": "https://github.com/glommer/codemogger",
+  "install": "# git clone --depth 1 https://github.com/glommer/codemogger\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ajtgjmdjp-edinet",
+  "description": "Access Japanese financial disclosures from EDINET with company search and statement retrieval.",
+  "source_repo": "ajtgjmdjp/edinet-mcp",
+  "source_url": "https://github.com/ajtgjmdjp/edinet-mcp",
+  "install": "npx -y edinet-mcp"
+}

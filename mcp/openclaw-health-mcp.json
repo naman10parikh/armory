@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-health-mcp",
+  "description": "Monitor OpenClaw deployment health: gateway, resources, errors, skills, upgrades, and disk utilization.",
+  "source_repo": "temurkhan13/openclaw-health-mcp",
+  "source_url": "https://github.com/temurkhan13/openclaw-health-mcp",
+  "install": "npx -y openclaw-health-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openfort",
+  "description": "Enhances AI assistants by enabling them to create projects, manage configurations, and query data automatically when building applications on Openfort's infrastructure.",
+  "source_repo": "openfort-xyz/-deprecated-mcp",
+  "source_url": "https://github.com/openfort-xyz/-deprecated-mcp",
+  "install": "npx -y -deprecated-mcp"
+}

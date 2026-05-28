@@ -1,0 +1,7 @@
+{
+  "name": "boxlite-computer-use",
+  "description": "Provides computer use capabilities through an isolated Ubuntu desktop sandbox environment, enabling mouse control, keyboard input, screenshot capture, and scrolling within a 1024x768 XFCE desktop for safe interaction with graphical applications and web browsing.",
+  "source_repo": "boxlite-ai/boxlite-mcp",
+  "source_url": "https://github.com/boxlite-ai/boxlite-mcp",
+  "install": "npx -y boxlite-mcp"
+}

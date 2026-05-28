@@ -1,0 +1,7 @@
+{
+  "name": "tumf-mcp-shell-server",
+  "description": "Execute whitelisted shell commands on the host system via asyncio.",
+  "source_repo": "tumf/mcp-shell-server",
+  "source_url": "https://github.com/tumf/mcp-shell-server",
+  "install": "# git clone --depth 1 https://github.com/tumf/mcp-shell-server\n# See source for mcpServers config block"
+}

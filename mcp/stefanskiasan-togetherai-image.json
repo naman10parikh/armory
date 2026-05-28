@@ -1,0 +1,7 @@
+{
+  "name": "stefanskiasan-togetherai-image",
+  "description": "Integrates with Together AI's image generation models to create custom images based on text prompts, dimensions, and output settings.",
+  "source_repo": "stefanskiasan/togetherai-image-mcp-server",
+  "source_url": "https://github.com/stefanskiasan/togetherai-image-mcp-server",
+  "install": "npx -y togetherai-image-mcp-server"
+}

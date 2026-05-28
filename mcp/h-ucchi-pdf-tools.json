@@ -1,0 +1,7 @@
+{
+  "name": "h-ucchi-pdf-tools",
+  "description": "PDF manipulation server for merging, splitting, extracting pages, and text extraction from documents",
+  "source_repo": "h-ucchi/pdf-mcp-server",
+  "source_url": "https://github.com/h-ucchi/pdf-mcp-server",
+  "install": "npx -y pdf-mcp-server"
+}

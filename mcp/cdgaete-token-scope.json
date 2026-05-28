@@ -1,0 +1,7 @@
+{
+  "name": "cdgaete-token-scope",
+  "description": "Scans codebases to intelligently extract and prioritize files for LLMs while respecting token limits and .gitignore patterns",
+  "source_repo": "cdgaete/token-scope-mcp",
+  "source_url": "https://github.com/cdgaete/token-scope-mcp",
+  "install": "npx -y token-scope-mcp"
+}

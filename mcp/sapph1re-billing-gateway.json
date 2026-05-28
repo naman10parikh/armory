@@ -1,0 +1,7 @@
+{
+  "name": "sapph1re-billing-gateway",
+  "description": "Billing proxy that adds Stripe and x402 crypto payments to MCP servers without writing billing code.",
+  "source_repo": "sapph1re/mcp-billing-gateway-sdk",
+  "source_url": "https://github.com/sapph1re/mcp-billing-gateway-sdk",
+  "install": "# git clone --depth 1 https://github.com/sapph1re/mcp-billing-gateway-sdk\n# See source for mcpServers config block"
+}

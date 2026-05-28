@@ -1,0 +1,7 @@
+{
+  "name": "md-pdf-mcp",
+  "description": "Md Pdf Mcp MCP server listed on mcp.so.",
+  "source_repo": "seanivore/md-pdf-mcp",
+  "source_url": "https://mcp.so/server/md-pdf-mcp/seanivore",
+  "install": "npx -y md-pdf-mcp"
+}

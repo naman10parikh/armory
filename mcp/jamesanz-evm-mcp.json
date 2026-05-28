@@ -1,0 +1,7 @@
+{
+  "name": "jamesanz-evm-mcp",
+  "description": "An MCP server that provides complete access to Ethereum Virtual Machine (EVM) JSON-RPC methods. Works with any EVM-compatible node provider including Infura, Alchemy, QuickNode, local nodes, and more.",
+  "source_repo": "JamesANZ/evm-mcp",
+  "source_url": "https://github.com/JamesANZ/evm-mcp",
+  "install": "npx -y evm-mcp"
+}

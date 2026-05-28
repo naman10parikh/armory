@@ -1,0 +1,7 @@
+{
+  "name": "x3r0k-shodan",
+  "description": "Integrates with Shodan's database to enable host information lookup, vulnerability scanning, and DNS resolution for security research and network exposure analysis",
+  "source_repo": "x3r0k/shodan-mcp-server",
+  "source_url": "https://github.com/x3r0k/shodan-mcp-server",
+  "install": "npx -y shodan-mcp-server"
+}

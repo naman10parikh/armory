@@ -1,0 +1,7 @@
+{
+  "name": "idosal-git-mcp",
+  "description": "Transform any GitHub project (repositories or GitHub pages) into a documentation hub. Allows AI tools like Cursor to access up-to-date documentation and code, ending hallucinations.",
+  "source_repo": "idosal/git-mcp",
+  "source_url": "https://github.com/idosal/git-mcp",
+  "install": "npx -y git-mcp"
+}

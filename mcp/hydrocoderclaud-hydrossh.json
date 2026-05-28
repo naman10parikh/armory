@@ -1,0 +1,7 @@
+{
+  "name": "hydrocoderclaud-hydrossh",
+  "description": "SSH remote server management with persistent connections for Claude Code.",
+  "source_repo": "hydrocoderclaud/mcphydrossh",
+  "source_url": "https://github.com/hydrocoderclaud/mcphydrossh",
+  "install": "# git clone --depth 1 https://github.com/hydrocoderclaud/mcphydrossh\n# See source for mcpServers config block"
+}

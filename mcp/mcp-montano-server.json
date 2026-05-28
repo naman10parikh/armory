@@ -1,0 +1,7 @@
+{
+  "name": "mcp-montano-server",
+  "description": "Mcp Montano Server MCP server listed on mcp.so.",
+  "source_repo": "lucasmontano/mcp-montano-server",
+  "source_url": "https://mcp.so/server/mcp-montano-server/lucasmontano",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-montano-server/lucasmontano\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "firebase-genkit-mcp",
+  "description": "Consume MCP resources or expose Genkit tools as server.",
+  "source_repo": "genkit-ai/genkit",
+  "source_url": "https://github.com/genkit-ai/genkit/tree/HEAD/js/plugins/mcp",
+  "install": "# git clone --depth 1 https://github.com/genkit-ai/genkit/tree/HEAD/js/plugins/mcp\n# See source for mcpServers config block"
+}

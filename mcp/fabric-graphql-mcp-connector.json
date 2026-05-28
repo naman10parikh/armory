@@ -1,0 +1,7 @@
+{
+  "name": "fabric-graphql-mcp-connector",
+  "description": "Enables AI agents to query and mutate data in Microsoft Fabric data warehouse via GraphQL using Model Context Protocol.",
+  "source_repo": "LazaUK/AIFoundry-MCPConnector-FabricGraphQL",
+  "source_url": "https://github.com/LazaUK/AIFoundry-MCPConnector-FabricGraphQL",
+  "install": "# git clone --depth 1 https://github.com/LazaUK/AIFoundry-MCPConnector-FabricGraphQL\n# See source for mcpServers config block"
+}

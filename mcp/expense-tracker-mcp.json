@@ -1,0 +1,7 @@
+{
+  "name": "expense-tracker-mcp",
+  "description": "Enables tracking of personal expenses with tools to add, list, update, delete, and summarize expenses by category.",
+  "source_repo": "Rawal1755/expense-tracker-mcp2",
+  "source_url": "https://github.com/Rawal1755/expense-tracker-mcp2",
+  "install": "# git clone --depth 1 https://github.com/Rawal1755/expense-tracker-mcp2\n# See source for mcpServers config block"
+}

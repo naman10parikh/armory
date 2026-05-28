@@ -1,0 +1,7 @@
+{
+  "name": "northrosetech-ghl",
+  "description": "60+ tools for GoHighLevel CRM — contacts, messaging, calendars, and payments for AI agents.",
+  "source_repo": "northrosetech/ghl-mcp-server",
+  "source_url": "https://github.com/northrosetech/ghl-mcp-server",
+  "install": "npx -y ghl-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "x402engine",
+  "description": "Pay-per-call API gateway providing LLM inference, image generation, code execution, crypto data, web scraping, and IPFS storage via x402 micropayments.",
+  "source_repo": "agentc22/x402engine-mcp",
+  "source_url": "https://github.com/agentc22/x402engine-mcp",
+  "install": "npx -y x402engine-mcp"
+}

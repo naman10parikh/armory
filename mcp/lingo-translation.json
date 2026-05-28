@@ -1,0 +1,7 @@
+{
+  "name": "lingo-translation",
+  "description": "Enables multilingual content translation for app localization, website content, and text data through a translate tool accessible via npx command with Lingo.dev API key",
+  "source_repo": "lingodotdev/lingo.dev",
+  "source_url": "https://github.com/lingodotdev/lingo.dev",
+  "install": "# git clone --depth 1 https://github.com/lingodotdev/lingo.dev\n# See source for mcpServers config block"
+}

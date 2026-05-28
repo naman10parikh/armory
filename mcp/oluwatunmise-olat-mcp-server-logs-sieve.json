@@ -1,0 +1,7 @@
+{
+  "name": "oluwatunmise-olat-mcp-server-logs-sieve",
+  "description": "Query, summarize, and trace logs in plain English across GCP Cloud Logging, AWS CloudWatch, Azure Log Analytics, Grafana Loki, and Elasticsearch",
+  "source_repo": "Oluwatunmise-olat/mcp-server-logs-sieve",
+  "source_url": "https://github.com/Oluwatunmise-olat/mcp-server-logs-sieve",
+  "install": "# git clone --depth 1 https://github.com/Oluwatunmise-olat/mcp-server-logs-sieve\n# See source for mcpServers config block"
+}

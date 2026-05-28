@@ -1,0 +1,7 @@
+{
+  "name": "telekash-oracle",
+  "description": "Aggregates prediction market probabilities from Kalshi, Polymarket, and Metaculus across 500+ markets.",
+  "source_repo": "telekashoracle/mcp-server",
+  "source_url": "https://github.com/telekashoracle/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/telekashoracle/mcp-server\n# See source for mcpServers config block"
+}

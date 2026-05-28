@@ -1,0 +1,7 @@
+{
+  "name": "mrslbt-rippr",
+  "description": "Extract YouTube video transcripts in multiple formats for use in AI workflows.",
+  "source_repo": "mrslbt/rippr",
+  "source_url": "https://github.com/mrslbt/rippr",
+  "install": "# git clone --depth 1 https://github.com/mrslbt/rippr\n# See source for mcpServers config block"
+}

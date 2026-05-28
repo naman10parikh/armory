@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-magic",
+  "description": "Mcp Server Magic MCP server listed on mcp.so.",
+  "source_repo": "diopisemou/mcp-server-magic",
+  "source_url": "https://mcp.so/server/mcp-server-magic/diopisemou",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-magic/diopisemou\n# See source for mcpServers config block"
+}

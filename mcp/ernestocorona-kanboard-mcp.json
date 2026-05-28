@@ -1,0 +1,7 @@
+{
+  "name": "ernestocorona-kanboard-mcp",
+  "description": "TypeScript MCP server for [Kanboard](https://kanboard.org) with multi-project routing via `.kanboard.yaml`. 37 tools, 982 unit tests, Docker multi-arch on GHCR, provenance-signed npm releases via OIDC, Diátaxis-structured docs, MIT licensed.",
+  "source_repo": "ErnestoCorona/kanboard-mcp",
+  "source_url": "https://github.com/ErnestoCorona/kanboard-mcp",
+  "install": "npx -y kanboard-mcp"
+}

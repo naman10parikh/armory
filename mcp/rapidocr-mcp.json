@@ -1,0 +1,7 @@
+{
+  "name": "rapidocr-mcp",
+  "description": "Rapidocr Mcp MCP server listed on mcp.so.",
+  "source_repo": "z4none/rapidocr-mcp",
+  "source_url": "https://mcp.so/server/rapidocr-mcp/z4none",
+  "install": "npx -y rapidocr-mcp"
+}

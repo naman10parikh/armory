@@ -1,0 +1,7 @@
+{
+  "name": "smarts-md-5",
+  "description": "Live docs for every verified smart contract. Point your AI at smarts.md: https://mcp.smarts.md",
+  "source_repo": "",
+  "source_url": "https://smarts.md",
+  "install": "# git clone --depth 1 https://smarts.md\n# See source for mcpServers config block"
+}

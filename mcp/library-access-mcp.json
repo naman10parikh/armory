@@ -1,0 +1,7 @@
+{
+  "name": "library-access-mcp",
+  "description": "Enables AI assistants to access authenticated academic databases via browser sessions, eliminating re-login and password exposure.",
+  "source_repo": "yang-kun-long/library-access-mcp",
+  "source_url": "https://github.com/yang-kun-long/library-access-mcp",
+  "install": "npx -y library-access-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sailro-roslyn",
+  "description": "Visual Studio extension that provides semantic C# code analysis through the live Roslyn workspace, enabling diagnostics validation, symbol search, reference finding, and detailed type inspection.",
+  "source_repo": "sailro/roslynmcpextension",
+  "source_url": "https://github.com/sailro/roslynmcpextension",
+  "install": "# git clone --depth 1 https://github.com/sailro/roslynmcpextension\n# See source for mcpServers config block"
+}

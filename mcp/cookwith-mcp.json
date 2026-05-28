@@ -1,0 +1,7 @@
+{
+  "name": "cookwith-mcp",
+  "description": "An MCP server that enables AI-powered recipe generation and transformation using natural language, supporting dietary restrictions, allergies, and nutritional goals.",
+  "source_repo": "valetdotdev/cookwith-mcp",
+  "source_url": "https://github.com/valetdotdev/cookwith-mcp",
+  "install": "npx -y cookwith-mcp"
+}

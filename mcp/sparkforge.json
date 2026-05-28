@@ -1,0 +1,7 @@
+{
+  "name": "sparkforge",
+  "description": "20+ pay-per-use APIs: image gen, crypto data, email verify, SSL check, web scraping, and more.",
+  "source_repo": "henry-ships/sparkforge",
+  "source_url": "https://github.com/henry-ships/sparkforge",
+  "install": "# git clone --depth 1 https://github.com/henry-ships/sparkforge\n# See source for mcpServers config block"
+}

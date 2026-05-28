@@ -1,0 +1,7 @@
+{
+  "name": "invoice-pilot",
+  "description": "PDF invoicing with automated chase reminders, email delivery, and payment tracking.",
+  "source_repo": "",
+  "source_url": "https://invoice.rjctdlabs.xyz/sse",
+  "install": "# git clone --depth 1 https://invoice.rjctdlabs.xyz/sse\n# See source for mcpServers config block"
+}

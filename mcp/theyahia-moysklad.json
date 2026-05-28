@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-moysklad",
+  "description": "Integrates with MoySklad for product search, stock reports, orders, and counterparties.",
+  "source_repo": "theyahia/moysklad-mcp",
+  "source_url": "https://github.com/theyahia/moysklad-mcp",
+  "install": "npx -y moysklad-mcp"
+}

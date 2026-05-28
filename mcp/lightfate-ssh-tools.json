@@ -1,0 +1,7 @@
+{
+  "name": "lightfate-ssh-tools",
+  "description": "Provides a secure SSH interface for connecting to remote servers, executing commands, and maintaining persistent sessions throughout conversations for system administration and server management tasks.",
+  "source_repo": "lightfate/ssh-tools-mcp",
+  "source_url": "https://github.com/lightfate/ssh-tools-mcp",
+  "install": "npx -y ssh-tools-mcp"
+}

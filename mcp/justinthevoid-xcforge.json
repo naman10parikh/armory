@@ -1,0 +1,7 @@
+{
+  "name": "justinthevoid-xcforge",
+  "description": "95 MCP tools for iOS development — build, test, simulate, automate UI, capture screenshots, and diagnose.",
+  "source_repo": "justinthevoid/xcforge",
+  "source_url": "https://github.com/justinthevoid/xcforge",
+  "install": "# git clone --depth 1 https://github.com/justinthevoid/xcforge\n# See source for mcpServers config block"
+}

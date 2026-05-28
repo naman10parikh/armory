@@ -1,0 +1,7 @@
+{
+  "name": "ad0750-regintel",
+  "description": "Provides regulatory intelligence data across 41 jurisdictions and 212 regulations via the RegIntel API.",
+  "source_repo": "ad0750/regintel-mcp",
+  "source_url": "https://github.com/ad0750/regintel-mcp",
+  "install": "npx -y regintel-mcp"
+}

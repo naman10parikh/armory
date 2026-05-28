@@ -1,0 +1,7 @@
+{
+  "name": "structured-world-gitlab",
+  "description": "Connects AI agents to GitLab API with 44 tools across 18 entity types, CQRS architecture, and OAuth 2.1 support",
+  "source_repo": "structured-world/gitlab-mcp",
+  "source_url": "https://github.com/structured-world/gitlab-mcp",
+  "install": "npx -y gitlab-mcp"
+}

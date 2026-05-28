@@ -1,0 +1,7 @@
+{
+  "name": "metricduck",
+  "description": "Financial data platform providing AI-native access to SEC filing metrics, company financials, and DCF analysis tools.",
+  "source_repo": "metric-duck/mcp-server",
+  "source_url": "https://github.com/metric-duck/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/metric-duck/mcp-server\n# See source for mcpServers config block"
+}

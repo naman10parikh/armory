@@ -1,0 +1,7 @@
+{
+  "name": "kovoor-vueuse",
+  "description": "Search, browse, and get suggestions for VueUse composables with full documentation access.",
+  "source_repo": "kovoor/vueuse-mcp",
+  "source_url": "https://github.com/kovoor/vueuse-mcp",
+  "install": "npx -y vueuse-mcp"
+}

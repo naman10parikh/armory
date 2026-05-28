@@ -1,0 +1,7 @@
+{
+  "name": "floodfx-linear",
+  "description": "Integrates with Linear project management tool to search for issues with detailed filtering by team, status, assignee, labels, project, priority, and more.",
+  "source_repo": "floodfx/mcp-server-linear",
+  "source_url": "https://github.com/floodfx/mcp-server-linear",
+  "install": "# git clone --depth 1 https://github.com/floodfx/mcp-server-linear\n# See source for mcpServers config block"
+}

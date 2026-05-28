@@ -1,0 +1,7 @@
+{
+  "name": "eterdis-strategy-skills",
+  "description": "Eleven open strategy frameworks as AI-guided prompts, covering assessment and decision-making disciplines.",
+  "source_repo": "eterdis/strategy-skills",
+  "source_url": "https://github.com/eterdis/strategy-skills/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/eterdis/strategy-skills/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "brutalzinn-simple-mcp-selenium",
+  "description": "An MCP Selenium Server for controlling browsers using natural language in Cursor IDE. Perfect for testing, automation, and multi-user scenarios.",
+  "source_repo": "brutalzinn/simple-mcp-selenium",
+  "source_url": "https://github.com/brutalzinn/simple-mcp-selenium",
+  "install": "# git clone --depth 1 https://github.com/brutalzinn/simple-mcp-selenium\n# See source for mcpServers config block"
+}

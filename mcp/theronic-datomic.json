@@ -1,0 +1,7 @@
+{
+  "name": "theronic-datomic",
+  "description": "Provides a JSON-RPC interface to Datomic databases, enabling schema exploration, Datalog query execution, and raw index access for data analysis without context switching.",
+  "source_repo": "theronic/datomic-mcp",
+  "source_url": "https://github.com/theronic/datomic-mcp",
+  "install": "npx -y datomic-mcp"
+}

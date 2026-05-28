@@ -1,0 +1,7 @@
+{
+  "name": "personality-test-mcp",
+  "description": "Enables AI models to administer personality tests, score responses, and provide personality type assessments, with optional integration with Ollama for personalized AI interactions.",
+  "source_repo": "devshark/personality-test-mcp",
+  "source_url": "https://github.com/devshark/personality-test-mcp",
+  "install": "npx -y personality-test-mcp"
+}

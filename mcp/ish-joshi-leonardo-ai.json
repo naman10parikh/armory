@@ -1,0 +1,7 @@
+{
+  "name": "ish-joshi-leonardo-ai",
+  "description": "Integrates with Leonardo AI's image generation platform for creating custom images with specific models, checking job status, and managing generation history through the Leonardo API.",
+  "source_repo": "ish-joshi/leonardo-mcp-server",
+  "source_url": "https://github.com/ish-joshi/leonardo-mcp-server",
+  "install": "npx -y leonardo-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uisp-api-mcp-server",
+  "description": "Enables interaction with Ubiquiti UISP API for managing network devices, sites, and monitoring through dynamically generated read-only tools.",
+  "source_repo": "sevaepsteyn/uisp_api_mcp",
+  "source_url": "https://github.com/sevaepsteyn/uisp_api_mcp",
+  "install": "npx -y uisp_api_mcp"
+}

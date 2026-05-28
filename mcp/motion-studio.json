@@ -1,0 +1,7 @@
+{
+  "name": "motion-studio",
+  "description": "Integrates CSS spring generation and Motion documentation resources directly into code editors for AI-enhanced animation development workflows.",
+  "source_repo": "",
+  "source_url": "https://motion.dev/docs/studio-install#mcp",
+  "install": "# git clone --depth 1 https://motion.dev/docs/studio-install#mcp\n# See source for mcpServers config block"
+}

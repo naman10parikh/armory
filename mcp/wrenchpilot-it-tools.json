@@ -1,0 +1,7 @@
+{
+  "name": "wrenchpilot-it-tools",
+  "description": "Provides 50+ developer utilities including cryptographic operations, text processing, data format conversion, network calculations, and encoding functions through a containerized TypeScript server with security features and rate limiting.",
+  "source_repo": "wrenchpilot/it-tools-mcp",
+  "source_url": "https://github.com/wrenchpilot/it-tools-mcp",
+  "install": "npx -y it-tools-mcp"
+}

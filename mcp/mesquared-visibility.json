@@ -1,0 +1,7 @@
+{
+  "name": "mesquared-visibility",
+  "description": "Runs AI visibility scans on business websites, returning scores, identified issues, and a link to a full detailed report.",
+  "source_repo": "",
+  "source_url": "https://mesquared-mcp-server.vercel.app/mcp",
+  "install": "# git clone --depth 1 https://mesquared-mcp-server.vercel.app/mcp\n# See source for mcpServers config block"
+}

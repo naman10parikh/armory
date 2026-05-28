@@ -1,0 +1,7 @@
+{
+  "name": "pinescript-mcp-server-2",
+  "description": "Pinescript Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "cklose2000/pinescript-mcp-server",
+  "source_url": "https://mcp.so/server/pinescript-mcp-server/cklose2000",
+  "install": "npx -y pinescript-mcp-server"
+}

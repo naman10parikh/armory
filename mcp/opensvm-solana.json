@@ -1,0 +1,7 @@
+{
+  "name": "opensvm-solana",
+  "description": "Integrates with Solana's blockchain to enable querying account data, managing tokens, and analyzing transactions using a Rust-based abstraction layer over the RPC API.",
+  "source_repo": "opensvm/solana-mcp-server",
+  "source_url": "https://github.com/opensvm/solana-mcp-server",
+  "install": "npx -y solana-mcp-server"
+}

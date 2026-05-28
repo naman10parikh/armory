@@ -1,0 +1,7 @@
+{
+  "name": "zekebuilds-lab-powforge-l402-gate",
+  "description": "Combines Lightning Network L402 payments with Depth-of-Identity reputation scoring to gate MCP tool access, requiring callers to pay and prove identity before accessing protected tools.",
+  "source_repo": "zekebuilds-lab/mcp-l402-gate",
+  "source_url": "https://github.com/zekebuilds-lab/mcp-l402-gate",
+  "install": "# git clone --depth 1 https://github.com/zekebuilds-lab/mcp-l402-gate\n# See source for mcpServers config block"
+}

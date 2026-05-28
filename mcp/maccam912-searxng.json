@@ -1,0 +1,7 @@
+{
+  "name": "maccam912-searxng",
+  "description": "Integrates with SearXNG instances to provide unified search capabilities across multiple engines for tasks like information gathering and fact-checking.",
+  "source_repo": "maccam912/searxng-mcp-server",
+  "source_url": "https://github.com/maccam912/searxng-mcp-server",
+  "install": "npx -y searxng-mcp-server"
+}

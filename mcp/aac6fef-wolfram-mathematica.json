@@ -1,0 +1,7 @@
+{
+  "name": "aac6fef-wolfram-mathematica",
+  "description": "Bridges to Wolfram Mathematica for executing Wolfram Language code in secure, session-based environments with animal-themed identifiers, enabling mathematical computations, symbolic algebra, data analysis, and scientific modeling tasks.",
+  "source_repo": "aac6fef/mathematica_mcp",
+  "source_url": "https://github.com/aac6fef/mathematica_mcp",
+  "install": "npx -y mathematica_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kinsha-confluence-chat",
+  "description": "Lightweight Confluence content expansion server that generates enhanced page content through a JSON-RPC interface, simplifying documentation workflows with minimal configuration.",
+  "source_repo": "kinsha-dev/confluence-chat-mcp-service",
+  "source_url": "https://github.com/kinsha-dev/confluence-chat-mcp-service",
+  "install": "# git clone --depth 1 https://github.com/kinsha-dev/confluence-chat-mcp-service\n# See source for mcpServers config block"
+}

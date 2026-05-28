@@ -1,0 +1,7 @@
+{
+  "name": "zentric-protocol",
+  "description": "Deterministic prompt injection detection and PII anonymization for LLM applications, sub-25ms latency.",
+  "source_repo": "zentricprotocol/zentricprotocol",
+  "source_url": "https://github.com/zentricprotocol/zentricprotocol",
+  "install": "# git clone --depth 1 https://github.com/zentricprotocol/zentricprotocol\n# See source for mcpServers config block"
+}

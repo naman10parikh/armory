@@ -1,0 +1,7 @@
+{
+  "name": "jupiterbroadcasting-auphonic",
+  "description": "Podcast production workflows through Auphonic API with show-specific presets.",
+  "source_repo": "jupiterbroadcasting/auphonic-mcp",
+  "source_url": "https://github.com/jupiterbroadcasting/auphonic-mcp",
+  "install": "npx -y auphonic-mcp"
+}

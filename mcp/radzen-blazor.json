@@ -1,0 +1,7 @@
+{
+  "name": "radzen-blazor",
+  "description": "AI coding assistant for Radzen Blazor components with live access to documentation, APIs, code samples, and templates.",
+  "source_repo": "",
+  "source_url": "https://www.radzen.com/blazor-mcp",
+  "install": "# git clone --depth 1 https://www.radzen.com/blazor-mcp\n# See source for mcpServers config block"
+}

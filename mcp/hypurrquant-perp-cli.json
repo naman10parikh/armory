@@ -1,0 +1,7 @@
+{
+  "name": "hypurrquant-perp-cli",
+  "description": "Multi-DEX perpetual futures trading MCP server for Pacifica (Solana), Hyperliquid (HyperEVM), and Lighter (Ethereum). 18 tools for market data, trade execution with dry-run safety, funding rate arbitrage scanning, portfolio analytics, and cross-exchange comparison.",
+  "source_repo": "hypurrquant/perp-cli",
+  "source_url": "https://github.com/hypurrquant/perp-cli",
+  "install": "# git clone --depth 1 https://github.com/hypurrquant/perp-cli\n# See source for mcpServers config block"
+}

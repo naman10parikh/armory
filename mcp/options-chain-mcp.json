@@ -1,0 +1,7 @@
+{
+  "name": "options-chain-mcp",
+  "description": "Read-only MCP server for options research with server-side filtering to reduce token usage. Supports Tradier and Alpaca data providers.",
+  "source_repo": "blake365/options-chain",
+  "source_url": "https://github.com/blake365/options-chain",
+  "install": "# git clone --depth 1 https://github.com/blake365/options-chain\n# See source for mcpServers config block"
+}

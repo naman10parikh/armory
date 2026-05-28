@@ -1,0 +1,7 @@
+{
+  "name": "gh-smart-mcp-proxy-mcpproxy",
+  "description": "Smart proxy with BM25 tool discovery, quarantine security, and token savings.",
+  "source_repo": "smart-mcp-proxy/mcpproxy-go",
+  "source_url": "https://github.com/smart-mcp-proxy/mcpproxy-go",
+  "install": "# git clone --depth 1 https://github.com/smart-mcp-proxy/mcpproxy-go\n# See source for mcpServers config block"
+}

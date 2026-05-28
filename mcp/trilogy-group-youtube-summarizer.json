@@ -1,0 +1,7 @@
+{
+  "name": "trilogy-group-youtube-summarizer",
+  "description": "Integrates with a YouTube summarization API to enable video analysis, retrieval of summaries, and follow-up conversations about content.",
+  "source_repo": "trilogy-group/youtube-summarizer-mcp",
+  "source_url": "https://github.com/trilogy-group/youtube-summarizer-mcp",
+  "install": "npx -y youtube-summarizer-mcp"
+}

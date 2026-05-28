@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-real-estate-listing-mcp",
+  "description": "Python MCP server for real estate listing management and property search tools.",
+  "source_repo": "csoai-org/real-estate-listing-mcp",
+  "source_url": "https://github.com/csoai-org/real-estate-listing-mcp",
+  "install": "npx -y real-estate-listing-mcp"
+}

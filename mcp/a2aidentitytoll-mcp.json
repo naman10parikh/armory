@@ -1,0 +1,7 @@
+{
+  "name": "a2aidentitytoll-mcp",
+  "description": "Caller identity verification for A2A agents with scope policy enforcement, verdict receipts, and audit history.",
+  "source_repo": "clauxel/a2a-identity-toll-mcp",
+  "source_url": "https://github.com/clauxel/a2a-identity-toll-mcp",
+  "install": "npx -y a2a-identity-toll-mcp"
+}

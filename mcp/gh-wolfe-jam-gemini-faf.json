@@ -1,0 +1,7 @@
+{
+  "name": "gh-wolfe-jam-gemini-faf",
+  "description": "Unified AI project context format bridging CLAUDE.md, GEMINI.md, and AGENTS.md into a single .faf source of truth.",
+  "source_repo": "wolfe-jam/gemini-faf-mcp",
+  "source_url": "https://github.com/wolfe-jam/gemini-faf-mcp",
+  "install": "npx -y gemini-faf-mcp"
+}

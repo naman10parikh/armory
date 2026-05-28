@@ -1,0 +1,7 @@
+{
+  "name": "ab-ovo",
+  "description": "Publishes content to permanent public web pages by sending emails via SMTP.",
+  "source_repo": "seanfenlon/abovo-mcp-server",
+  "source_url": "https://github.com/seanfenlon/abovo-mcp-server",
+  "install": "npx -y abovo-mcp-server"
+}

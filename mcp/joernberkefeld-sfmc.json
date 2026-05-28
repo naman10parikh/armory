@@ -1,0 +1,7 @@
+{
+  "name": "joernberkefeld-sfmc",
+  "description": "AMPscript, SSJS, and GTL language tools with searchable help documentation for Salesforce Marketing Cloud.",
+  "source_repo": "joernberkefeld/mcp-server-sfmc",
+  "source_url": "https://github.com/joernberkefeld/mcp-server-sfmc",
+  "install": "# git clone --depth 1 https://github.com/joernberkefeld/mcp-server-sfmc\n# See source for mcpServers config block"
+}

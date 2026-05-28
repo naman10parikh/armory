@@ -1,0 +1,7 @@
+{
+  "name": "dicklesworthstone-llm-gateway",
+  "description": "Unified gateway for managing multiple LLM providers with automatic model selection, semantic caching, and cost optimization features for reliable production deployments",
+  "source_repo": "dicklesworthstone/ultimate_mcp_server",
+  "source_url": "https://github.com/dicklesworthstone/ultimate_mcp_server",
+  "install": "npx -y ultimate_mcp_server"
+}

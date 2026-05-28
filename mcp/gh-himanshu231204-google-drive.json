@@ -1,0 +1,7 @@
+{
+  "name": "gh-himanshu231204-google-drive",
+  "description": "Manage Google Drive files with OAuth2 multi-user authentication.",
+  "source_repo": "himanshu231204/google-drive-mcp",
+  "source_url": "https://github.com/himanshu231204/google-drive-mcp",
+  "install": "npx -y google-drive-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp2everything-brave",
+  "description": "Integrates with Brave browser to enable web automation tasks like opening tabs, navigating pages, and extracting content.",
+  "source_repo": "mcp2everything/mcp2brave",
+  "source_url": "https://github.com/mcp2everything/mcp2brave",
+  "install": "# git clone --depth 1 https://github.com/mcp2everything/mcp2brave\n# See source for mcpServers config block"
+}

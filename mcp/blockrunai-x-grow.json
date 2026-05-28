@@ -1,0 +1,7 @@
+{
+  "name": "blockrunai-x-grow",
+  "description": "X/Twitter algorithm optimizer with post drafting, review scoring, and AI image generation for maximum engagement.",
+  "source_repo": "BlockRunAI/x-grow",
+  "source_url": "https://github.com/BlockRunAI/x-grow",
+  "install": "# git clone --depth 1 https://github.com/BlockRunAI/x-grow\n# See source for mcpServers config block"
+}

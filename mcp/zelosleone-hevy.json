@@ -1,0 +1,7 @@
+{
+  "name": "zelosleone-hevy",
+  "description": "Integrates with the Hevy fitness API to manage workouts, routines, exercise templates, and exercise history.",
+  "source_repo": "zelosleone/hevy-mcp",
+  "source_url": "https://github.com/zelosleone/hevy-mcp",
+  "install": "npx -y hevy-mcp"
+}

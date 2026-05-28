@@ -1,0 +1,7 @@
+{
+  "name": "fastapi-sse-mcp",
+  "description": "A FastAPI MCP server that uses Server-Sent Events as a transport layer, providing echo functionality through tools, resources, and prompts.",
+  "source_repo": "ragieai/fastapi-sse-mcp",
+  "source_url": "https://github.com/ragieai/fastapi-sse-mcp",
+  "install": "npx -y fastapi-sse-mcp"
+}

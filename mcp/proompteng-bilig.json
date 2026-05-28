@@ -1,0 +1,7 @@
+{
+  "name": "proompteng-bilig",
+  "description": "Headless WorkPaper MCP server for spreadsheet formulas, workbook edits, JSON persistence, and verified readback from TypeScript services.",
+  "source_repo": "proompteng/bilig",
+  "source_url": "https://github.com/proompteng/bilig",
+  "install": "# git clone --depth 1 https://github.com/proompteng/bilig\n# See source for mcpServers config block"
+}

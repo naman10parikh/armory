@@ -1,0 +1,7 @@
+{
+  "name": "llm-conveyors",
+  "description": "Connects to the LLM Conveyors platform for job hunting, B2B sales outreach, resume management, and ATS scoring with pay-per-action pricing.",
+  "source_repo": "ebenezer-isaac/llmconveyors-mcp",
+  "source_url": "https://github.com/ebenezer-isaac/llmconveyors-mcp",
+  "install": "npx -y llmconveyors-mcp"
+}

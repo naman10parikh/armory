@@ -1,0 +1,7 @@
+{
+  "name": "mercadolibre-mercadopago",
+  "description": "Integrates with MercadoPago's developer documentation API to provide searchable access to payment integration guides and API references across Latin American markets with OAuth authentication and multi-language support.",
+  "source_repo": "mercadolibre/demo-mercadopago-mcp-server",
+  "source_url": "https://github.com/mercadolibre/demo-mercadopago-mcp-server",
+  "install": "npx -y demo-mercadopago-mcp-server"
+}

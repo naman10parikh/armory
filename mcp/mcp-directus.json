@@ -1,0 +1,7 @@
+{
+  "name": "mcp-directus",
+  "description": "Mcp Directus MCP server listed on mcp.so.",
+  "source_repo": "learnwithcc/mcp-directus",
+  "source_url": "https://mcp.so/server/mcp-directus/learnwithcc",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-directus/learnwithcc\n# See source for mcpServers config block"
+}

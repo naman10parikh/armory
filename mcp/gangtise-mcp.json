@@ -1,0 +1,7 @@
+{
+  "name": "gangtise-mcp",
+  "description": "This MCP server enables AI assistants to access Gangtise investment research platform data, including market data, financial reports, research opinions, and more via the Gangtise OpenAPI.",
+  "source_repo": "gangtiser/gangtise-mcp",
+  "source_url": "https://github.com/gangtiser/gangtise-mcp",
+  "install": "npx -y gangtise-mcp"
+}

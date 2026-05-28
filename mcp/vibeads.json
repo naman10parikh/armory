@@ -1,0 +1,7 @@
+{
+  "name": "vibeads",
+  "description": "Query and analyze Google Ads campaigns for local service businesses using natural language.",
+  "source_repo": "vibeads/mcp",
+  "source_url": "https://github.com/vibeads/mcp",
+  "install": "# git clone --depth 1 https://github.com/vibeads/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "worldnine-textwell-write-tool",
+  "description": "Integrates with Textwell on macOS to enable writing text in replace, insert, or append modes via a simple, focused interface.",
+  "source_repo": "worldnine/textwell-mcp",
+  "source_url": "https://github.com/worldnine/textwell-mcp",
+  "install": "npx -y textwell-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lnd-mcp-server",
+  "description": "Lnd Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "pblittle/lnd-mcp-server",
+  "source_url": "https://mcp.so/server/lnd-mcp-server/pblittle",
+  "install": "npx -y lnd-mcp-server"
+}

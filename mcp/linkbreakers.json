@@ -1,0 +1,7 @@
+{
+  "name": "linkbreakers",
+  "description": "Create tracked QR codes, manage short links, build campaign workflows, and analyze scan performance.",
+  "source_repo": "linkbreakers-com/api",
+  "source_url": "https://github.com/linkbreakers-com/api",
+  "install": "# git clone --depth 1 https://github.com/linkbreakers-com/api\n# See source for mcpServers config block"
+}

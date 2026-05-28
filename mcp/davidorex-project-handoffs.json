@@ -1,0 +1,7 @@
+{
+  "name": "davidorex-project-handoffs",
+  "description": "Coordinates workflows across multiple sessions or models to maintain context and enable seamless handoffs for complex, multi-stage processes.",
+  "source_repo": "davidorex/project-handoffs",
+  "source_url": "https://github.com/davidorex/project-handoffs",
+  "install": "# git clone --depth 1 https://github.com/davidorex/project-handoffs\n# See source for mcpServers config block"
+}

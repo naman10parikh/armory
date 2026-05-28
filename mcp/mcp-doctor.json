@@ -1,0 +1,7 @@
+{
+  "name": "mcp-doctor",
+  "description": "Audit, clean, and slim down MCP server configurations across AI coding tools.",
+  "source_repo": "inferensys/dr-mcp",
+  "source_url": "https://github.com/inferensys/dr-mcp",
+  "install": "npx -y dr-mcp"
+}

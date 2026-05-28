@@ -1,0 +1,7 @@
+{
+  "name": "model-drive-protocol-mcp-server",
+  "description": "Exposes runtime-local capabilities from browsers, apps, devices, and local processes to AI agents through a unified MCP bridge, enabling path-based discovery and invocation of live context.",
+  "source_repo": "modeldriveprotocol/modeldriveprotocol",
+  "source_url": "https://github.com/modeldriveprotocol/modeldriveprotocol",
+  "install": "# git clone --depth 1 https://github.com/modeldriveprotocol/modeldriveprotocol\n# See source for mcpServers config block"
+}

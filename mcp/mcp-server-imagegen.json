@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-imagegen",
+  "description": "Generates and edits images using the Google Gemini API with batch processing support.",
+  "source_repo": "pim109/mcp-server-imagegen",
+  "source_url": "https://github.com/pim109/mcp-server-imagegen",
+  "install": "# git clone --depth 1 https://github.com/pim109/mcp-server-imagegen\n# See source for mcpServers config block"
+}

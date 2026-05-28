@@ -1,0 +1,7 @@
+{
+  "name": "european-public-transport",
+  "description": "Integrates with European public transport APIs from Switzerland, UK, and Belgium to provide real-time connection searches, station lookups, live departures, and vehicle information for travel planning applications.",
+  "source_repo": "mirodn/mcp-server-public-transport",
+  "source_url": "https://github.com/mirodn/mcp-server-public-transport",
+  "install": "# git clone --depth 1 https://github.com/mirodn/mcp-server-public-transport\n# See source for mcpServers config block"
+}

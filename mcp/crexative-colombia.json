@@ -1,0 +1,7 @@
+{
+  "name": "crexative-colombia",
+  "description": "Colombian geographic and administrative data including departments, municipalities, tourist attractions, and regional information",
+  "source_repo": "crexative/colombia-mcp-server",
+  "source_url": "https://github.com/crexative/colombia-mcp-server",
+  "install": "npx -y colombia-mcp-server"
+}

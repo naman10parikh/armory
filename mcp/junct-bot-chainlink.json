@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-chainlink",
+  "description": "Hosted proxy for Chainlink oracle network APIs with 27 auto-generated tools for price feeds and data.",
+  "source_repo": "junct-bot/chainlink-mcp",
+  "source_url": "https://github.com/junct-bot/chainlink-mcp",
+  "install": "npx -y chainlink-mcp"
+}

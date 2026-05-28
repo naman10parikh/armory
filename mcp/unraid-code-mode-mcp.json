@@ -1,0 +1,7 @@
+{
+  "name": "unraid-code-mode-mcp",
+  "description": "A code-mode MCP server for the Unraid 7.2+ GraphQL API that exposes search and execute tools, allowing LLM agents to introspect and call any GraphQL field via sandboxed JavaScript.",
+  "source_repo": "jmpijll/unraid-code-mode-mcp",
+  "source_url": "https://github.com/jmpijll/unraid-code-mode-mcp",
+  "install": "npx -y unraid-code-mode-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boltwork-mcp",
+  "description": "Give your AI agent PDF summarization, code review, translation, web extraction, document comparison, and persistent memory — all paid autonomously via Bitcoin Lightning.",
+  "source_repo": "Squidboy30/boltwork-mcp",
+  "source_url": "https://github.com/Squidboy30/boltwork-mcp",
+  "install": "npx -y boltwork-mcp"
+}

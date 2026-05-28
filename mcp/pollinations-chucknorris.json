@@ -1,0 +1,7 @@
+{
+  "name": "pollinations-chucknorris",
+  "description": "Enhances language models by fetching specialized prompts from the L1B3RT4S repository, supporting multiple LLMs including ChatGPT, Claude, and Gemini with fallback mechanisms for educational and research purposes.",
+  "source_repo": "pollinations/chucknorris",
+  "source_url": "https://github.com/pollinations/chucknorris",
+  "install": "# git clone --depth 1 https://github.com/pollinations/chucknorris\n# See source for mcpServers config block"
+}

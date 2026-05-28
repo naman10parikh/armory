@@ -1,0 +1,7 @@
+{
+  "name": "nodeblue-ignition-scada",
+  "description": "Connect AI agents to Ignition SCADA projects for live tag read/write, perspective views, alarms, scripts, and historical data.",
+  "source_repo": "nodeblue-ai/ignition-mcp-server",
+  "source_url": "https://github.com/nodeblue-ai/ignition-mcp-server",
+  "install": "npx -y ignition-mcp-server"
+}

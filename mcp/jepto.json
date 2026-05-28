@@ -1,0 +1,7 @@
+{
+  "name": "jepto",
+  "description": "Marketing analytics and client knowledgebase access",
+  "source_repo": "",
+  "source_url": "https://www.jepto.com",
+  "install": "# git clone --depth 1 https://www.jepto.com\n# See source for mcpServers config block"
+}

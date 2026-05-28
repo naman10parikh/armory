@@ -1,0 +1,7 @@
+{
+  "name": "thlg057-mo5",
+  "description": "RAG-based MCP server for Thomson MO5 C development with 6809 toolchain support.",
+  "source_repo": "thlg057/mo5-mcp-server",
+  "source_url": "https://github.com/thlg057/mo5-mcp-server",
+  "install": "npx -y mo5-mcp-server"
+}

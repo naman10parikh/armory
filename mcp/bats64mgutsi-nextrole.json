@@ -1,0 +1,7 @@
+{
+  "name": "bats64mgutsi-nextrole",
+  "description": "MCP proxy bridging AI assistants to NextRole's CV and cover letter tailoring services with multiple professional tiers.",
+  "source_repo": "bats64mgutsi/nextrole-mcp-proxy",
+  "source_url": "https://github.com/bats64mgutsi/nextrole-mcp-proxy",
+  "install": "# git clone --depth 1 https://github.com/bats64mgutsi/nextrole-mcp-proxy\n# See source for mcpServers config block"
+}

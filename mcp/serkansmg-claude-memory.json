@@ -1,0 +1,7 @@
+{
+  "name": "serkansmg-claude-memory",
+  "description": "Provides persistent, project-scoped vector memory for Claude Code using DuckDB and sentence-transformers with semantic search.",
+  "source_repo": "serkansmg/smg-claude-memory-mcp",
+  "source_url": "https://github.com/serkansmg/smg-claude-memory-mcp",
+  "install": "npx -y smg-claude-memory-mcp"
+}

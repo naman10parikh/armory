@@ -1,0 +1,7 @@
+{
+  "name": "devkindhq-swell",
+  "description": "Manage Swell e-commerce products, orders, and customers via AI assistants.",
+  "source_repo": "devkindhq/swell-mcp",
+  "source_url": "https://github.com/devkindhq/swell-mcp",
+  "install": "npx -y swell-mcp"
+}

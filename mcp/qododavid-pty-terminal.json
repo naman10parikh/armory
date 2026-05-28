@@ -1,0 +1,7 @@
+{
+  "name": "qododavid-pty-terminal",
+  "description": "Provides a stateful terminal interface for maintaining session context and executing complex, multi-step operations across multiple interactions.",
+  "source_repo": "qododavid/pty-mcp",
+  "source_url": "https://github.com/qododavid/pty-mcp",
+  "install": "npx -y pty-mcp"
+}

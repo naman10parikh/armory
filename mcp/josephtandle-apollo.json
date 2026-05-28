@@ -1,0 +1,7 @@
+{
+  "name": "josephtandle-apollo",
+  "description": "Sales intelligence tools for prospect search, contact enrichment, and lead scoring.",
+  "source_repo": "josephtandle/apollo-mcp-mcp",
+  "source_url": "https://github.com/josephtandle/apollo-mcp-mcp",
+  "install": "npx -y apollo-mcp-mcp"
+}

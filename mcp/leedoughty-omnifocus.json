@@ -1,0 +1,7 @@
+{
+  "name": "leedoughty-omnifocus",
+  "description": "OmniFocus task management integration through JXA and AppleScript on macOS.",
+  "source_repo": "leedoughty/omnifocus-mcp",
+  "source_url": "https://github.com/leedoughty/omnifocus-mcp",
+  "install": "npx -y omnifocus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "danhussey-transportnsw",
+  "description": "Integrates with Transport NSW API to provide real-time public transportation data, including nearby stops, service alerts, and disruptions across trains, buses, and ferries throughout New South Wales.",
+  "source_repo": "danhussey/transportnsw-mcp",
+  "source_url": "https://github.com/danhussey/transportnsw-mcp",
+  "install": "npx -y transportnsw-mcp"
+}

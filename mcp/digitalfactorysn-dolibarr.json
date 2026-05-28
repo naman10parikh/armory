@@ -1,0 +1,7 @@
+{
+  "name": "digitalfactorysn-dolibarr",
+  "description": "Connects to Dolibarr ERP/CRM with 55+ tools for invoicing, accounting, CRM, project management, inventory, quotes, and financial reporting.",
+  "source_repo": "digitalfactorysn/mcp-dolibarr",
+  "source_url": "https://github.com/digitalfactorysn/mcp-dolibarr",
+  "install": "# git clone --depth 1 https://github.com/digitalfactorysn/mcp-dolibarr\n# See source for mcpServers config block"
+}

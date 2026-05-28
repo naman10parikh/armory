@@ -1,0 +1,7 @@
+{
+  "name": "bburda-ai-memory-protocol",
+  "description": "Versioned, graph-based persistent memory for coding agents using Sphinx-Needs with typed entries, relationship tracking, confidence scoring, and stale detection.",
+  "source_repo": "bburda/ai_memory_protocol",
+  "source_url": "https://github.com/bburda/ai_memory_protocol",
+  "install": "# git clone --depth 1 https://github.com/bburda/ai_memory_protocol\n# See source for mcpServers config block"
+}

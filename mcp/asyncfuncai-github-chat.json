@@ -1,0 +1,7 @@
+{
+  "name": "asyncfuncai-github-chat",
+  "description": "Enables AI to analyze and query GitHub repositories through a FastMCP-based interface for understanding codebases, exploring architecture, and retrieving contextual information with source references.",
+  "source_repo": "asyncfuncai/github-chat-mcp",
+  "source_url": "https://github.com/asyncfuncai/github-chat-mcp",
+  "install": "npx -y github-chat-mcp"
+}

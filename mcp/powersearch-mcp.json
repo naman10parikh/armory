@@ -1,0 +1,7 @@
+{
+  "name": "powersearch-mcp",
+  "description": "Helps AI agents search the public web and fetch content with anti-bot measures, returning clean markdown outputs suitable for citation.",
+  "source_repo": "theobjectivedad/powersearch-mcp",
+  "source_url": "https://github.com/theobjectivedad/powersearch-mcp",
+  "install": "npx -y powersearch-mcp"
+}

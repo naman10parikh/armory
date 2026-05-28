@@ -1,0 +1,7 @@
+{
+  "name": "dan24ou-cpu-agent-signal",
+  "description": "Collective intelligence layer for AI shopping agents pooling decision signals across shopping sessions.",
+  "source_repo": "dan24ou-cpu/agent-signal",
+  "source_url": "https://github.com/dan24ou-cpu/agent-signal",
+  "install": "# git clone --depth 1 https://github.com/dan24ou-cpu/agent-signal\n# See source for mcpServers config block"
+}

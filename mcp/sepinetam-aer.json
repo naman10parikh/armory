@@ -1,0 +1,7 @@
+{
+  "name": "sepinetam-aer",
+  "description": "Enables AI assistants to search and extract information from American Economic Association journals with filtering by title, abstract, author, and JEL classification for economic research and literature reviews.",
+  "source_repo": "sepinetam/aer-mcp",
+  "source_url": "https://github.com/sepinetam/aer-mcp",
+  "install": "npx -y aer-mcp"
+}

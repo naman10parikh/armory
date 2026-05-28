@@ -1,0 +1,7 @@
+{
+  "name": "agent2agent",
+  "description": "Implementation of the Agent-to-Agent protocol",
+  "source_repo": "HarleyCoops/Agent2Agent",
+  "source_url": "https://github.com/HarleyCoops/Agent2Agent",
+  "install": "# git clone --depth 1 https://github.com/HarleyCoops/Agent2Agent\n# See source for mcpServers config block"
+}

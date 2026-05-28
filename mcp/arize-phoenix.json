@@ -1,0 +1,7 @@
+{
+  "name": "arize-phoenix",
+  "description": "Provides a unified interface to Arize Phoenix's capabilities for managing prompts, exploring datasets, and running experiments across different LLM providers",
+  "source_repo": "arize-ai/phoenix",
+  "source_url": "https://github.com/arize-ai/phoenix/tree/HEAD/js/packages/phoenix-mcp",
+  "install": "# git clone --depth 1 https://github.com/arize-ai/phoenix/tree/HEAD/js/packages/phoenix-mcp\n# See source for mcpServers config block"
+}

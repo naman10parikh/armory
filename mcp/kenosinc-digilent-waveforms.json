@@ -1,0 +1,7 @@
+{
+  "name": "kenosinc-digilent-waveforms",
+  "description": "Control Digilent WaveForms instruments including oscilloscope, AWG, and logic analyzer.",
+  "source_repo": "kenosinc/dwf-mcp-server",
+  "source_url": "https://github.com/kenosinc/dwf-mcp-server",
+  "install": "npx -y dwf-mcp-server"
+}

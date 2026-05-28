@@ -1,0 +1,7 @@
+{
+  "name": "soniq",
+  "description": "Integrates with SONIQ phone systems for calls, contacts, call memory search, user management, and number provisioning.",
+  "source_repo": "soniq-labs/soniq-mcp",
+  "source_url": "https://github.com/soniq-labs/soniq-mcp",
+  "install": "npx -y soniq-mcp"
+}

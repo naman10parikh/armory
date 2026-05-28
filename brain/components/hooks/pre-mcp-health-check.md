@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [pre-bash-dispatcher, pre-config-protection]
-tags: [ecc, hook, PreToolUse]
+tags: [hook, PreToolUse]
 ---
 ## What it is
 PreToolUse hook: Check MCP server health before MCP tool execution and block unhealthy MCP calls (matcher: *).

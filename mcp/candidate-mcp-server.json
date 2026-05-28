@@ -1,0 +1,7 @@
+{
+  "name": "candidate-mcp-server",
+  "description": "Enables LLMs to access candidate information including resume, LinkedIn, GitHub, and contact via email.",
+  "source_repo": "jhgaylor/node-candidate-mcp-server",
+  "source_url": "https://github.com/jhgaylor/node-candidate-mcp-server",
+  "install": "npx -y node-candidate-mcp-server"
+}

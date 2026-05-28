@@ -1,0 +1,7 @@
+{
+  "name": "hatri-hana-cloud-ml-bridge",
+  "description": "Bridges SAP HANA Cloud databases with machine learning operations through a three-layer architecture that enables model management, execution contexts, and standardized communication for both inference and training workflows.",
+  "source_repo": "hatrigt/hana-mcp-server",
+  "source_url": "https://github.com/hatrigt/hana-mcp-server",
+  "install": "npx -y hana-mcp-server"
+}

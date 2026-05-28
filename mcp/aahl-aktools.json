@@ -1,0 +1,7 @@
+{
+  "name": "aahl-aktools",
+  "description": "Integrates with Chinese financial markets through akshare library to provide real-time and historical stock and cryptocurrency data with caching mechanisms for financial analysis, market research, and algorithmic trading development.",
+  "source_repo": "aahl/mcp-aktools",
+  "source_url": "https://github.com/aahl/mcp-aktools",
+  "install": "# git clone --depth 1 https://github.com/aahl/mcp-aktools\n# See source for mcpServers config block"
+}

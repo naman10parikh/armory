@@ -1,0 +1,7 @@
+{
+  "name": "ddsky-gamebrain-api-clients",
+  "description": "Search and discover hundreds of thousands of video games on any platform through the [GameBrain API](https://gamebrain.co/api).",
+  "source_repo": "ddsky/gamebrain-api-clients",
+  "source_url": "https://github.com/ddsky/gamebrain-api-clients",
+  "install": "# git clone --depth 1 https://github.com/ddsky/gamebrain-api-clients\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sable-anvil",
+  "description": "CLI and MCP server for the Sable AI voice agent platform with HyperDX observability integration.",
+  "source_repo": "sable-inc/anvil",
+  "source_url": "https://github.com/sable-inc/anvil",
+  "install": "# git clone --depth 1 https://github.com/sable-inc/anvil\n# See source for mcpServers config block"
+}

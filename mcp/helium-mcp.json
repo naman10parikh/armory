@@ -1,0 +1,7 @@
+{
+  "name": "helium-mcp",
+  "description": "Real-time news with bias scoring, live market data, and AI-powered options pricing",
+  "source_repo": "connerlambden/helium-mcp",
+  "source_url": "https://github.com/connerlambden/helium-mcp",
+  "install": "npx -y helium-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ototree-filesystem",
+  "description": "Enables local file and document operations through asynchronous processing, supporting reading, writing, and analyzing various formats for document generation, file management, and data extraction tasks.",
+  "source_repo": "ototree/mcp-server",
+  "source_url": "https://github.com/ototree/mcp-server/tree/HEAD/filesystem",
+  "install": "# git clone --depth 1 https://github.com/ototree/mcp-server/tree/HEAD/filesystem\n# See source for mcpServers config block"
+}

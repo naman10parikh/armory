@@ -1,0 +1,7 @@
+{
+  "name": "maxim-saplin-safe-local-python-executor",
+  "description": "Wraps LocalPythonExecutor from HuggingFace's smolagents framework. The runtime combines the ease of setup (compared to docker, VM, cloud runtimes) while providing safeguards and limiting operations/imports that are allowed inside the runtime.",
+  "source_repo": "maxim-saplin/mcp_safe_local_python_executor",
+  "source_url": "https://github.com/maxim-saplin/mcp_safe_local_python_executor",
+  "install": "# git clone --depth 1 https://github.com/maxim-saplin/mcp_safe_local_python_executor\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "decisionnode-decisionnode",
+  "description": "Record development decisions as structured JSON, embed as vectors via Gemini, and search semantically over MCP. Shared store across Claude Code, Cursor, Windsurf, and any MCP client. CLI + MCP server, local-only, free Gemini embedding tier.",
+  "source_repo": "decisionnode/DecisionNode",
+  "source_url": "https://github.com/decisionnode/DecisionNode",
+  "install": "# git clone --depth 1 https://github.com/decisionnode/DecisionNode\n# See source for mcpServers config block"
+}

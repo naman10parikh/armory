@@ -1,0 +1,7 @@
+{
+  "name": "probelabs-docs-search",
+  "description": "Makes any codebase or documentation searchable through the Probe search engine with support for both local directories and Git repositories, featuring automatic content updates and build-time optimization that removes binary files to focus on searchable text content.",
+  "source_repo": "probelabs/docs-mcp",
+  "source_url": "https://github.com/probelabs/docs-mcp",
+  "install": "npx -y docs-mcp"
+}

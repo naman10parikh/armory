@@ -1,0 +1,7 @@
+{
+  "name": "gitlab",
+  "description": "Official hosted integration providing secure access to GitLab projects, issues, merge requests, and CI/CD pipelines through OAuth 2.0",
+  "source_repo": "",
+  "source_url": "https://docs.gitlab.com/user/gitlab_duo/model_context_protocol/mcp_server/",
+  "install": "# git clone --depth 1 https://docs.gitlab.com/user/gitlab_duo/model_context_protocol/mcp_server/\n# See source for mcpServers config block"
+}

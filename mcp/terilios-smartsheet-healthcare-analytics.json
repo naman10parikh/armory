@@ -1,0 +1,7 @@
+{
+  "name": "terilios-smartsheet-healthcare-analytics",
+  "description": "Integrates Smartsheet for healthcare analytics, enabling efficient data management and analysis in clinical research and hospital operations.",
+  "source_repo": "terilios/smartsheet-server",
+  "source_url": "https://github.com/terilios/smartsheet-server",
+  "install": "# git clone --depth 1 https://github.com/terilios/smartsheet-server\n# See source for mcpServers config block"
+}

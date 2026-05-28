@@ -1,0 +1,7 @@
+{
+  "name": "unrealgenaisupport",
+  "description": "UnrealGenAISupport MCP server listed on mcp.so.",
+  "source_repo": "prajwalshettydev/UnrealGenAISupport",
+  "source_url": "https://mcp.so/server/UnrealGenAISupport/prajwalshettydev",
+  "install": "# git clone --depth 1 https://mcp.so/server/UnrealGenAISupport/prajwalshettydev\n# See source for mcpServers config block"
+}

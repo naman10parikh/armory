@@ -1,0 +1,7 @@
+{
+  "name": "j3r3my97-milestoner",
+  "description": "Automates build-in-public social media updates by analyzing git commit history and generating platform-appropriate milestone posts with optimal timing suggestions.",
+  "source_repo": "j3r3my97/milestoner",
+  "source_url": "https://github.com/j3r3my97/milestoner",
+  "install": "# git clone --depth 1 https://github.com/j3r3my97/milestoner\n# See source for mcpServers config block"
+}

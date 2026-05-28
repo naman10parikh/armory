@@ -1,0 +1,7 @@
+{
+  "name": "codergamester-unity",
+  "description": "Integrate with the Unity Editor game engine.",
+  "source_repo": "codergamester/mcp-unity",
+  "source_url": "https://github.com/codergamester/mcp-unity",
+  "install": "# git clone --depth 1 https://github.com/codergamester/mcp-unity\n# See source for mcpServers config block"
+}

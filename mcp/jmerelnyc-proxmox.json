@@ -1,0 +1,7 @@
+{
+  "name": "jmerelnyc-proxmox",
+  "description": "Manages Proxmox VE virtual machines through MCP, supporting VM listing, power operations, snapshot management, and cloning.",
+  "source_repo": "jmerelnyc/proxmox-mcp",
+  "source_url": "https://github.com/jmerelnyc/proxmox-mcp",
+  "install": "npx -y proxmox-mcp"
+}

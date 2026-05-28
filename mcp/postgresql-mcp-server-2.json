@@ -1,0 +1,7 @@
+{
+  "name": "postgresql-mcp-server-2",
+  "description": "Exposes PostgreSQL database operations as tools for AI assistants, allowing SQL queries and schema inspection.",
+  "source_repo": "Future-Proof-DS/postgres-mcp-server",
+  "source_url": "https://github.com/Future-Proof-DS/postgres-mcp-server",
+  "install": "npx -y postgres-mcp-server"
+}

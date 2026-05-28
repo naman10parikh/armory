@@ -1,0 +1,7 @@
+{
+  "name": "rememberme",
+  "description": "Dual-mode tool providing long-term memory management for Claude Code and MCP clients, with semantic search and user/session isolation via Qdrant.",
+  "source_repo": "JoeXie/remember-me",
+  "source_url": "https://github.com/JoeXie/remember-me",
+  "install": "# git clone --depth 1 https://github.com/JoeXie/remember-me\n# See source for mcpServers config block"
+}

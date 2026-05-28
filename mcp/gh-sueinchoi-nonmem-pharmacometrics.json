@@ -1,0 +1,7 @@
+{
+  "name": "gh-sueinchoi-nonmem-pharmacometrics",
+  "description": "Parses, executes, and simulates NONMEM pharmacometric models.",
+  "source_repo": "sueinchoi/nonmem-mcp-server",
+  "source_url": "https://github.com/sueinchoi/nonmem-mcp-server",
+  "install": "npx -y nonmem-mcp-server"
+}

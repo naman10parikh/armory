@@ -1,0 +1,7 @@
+{
+  "name": "byrness-weather",
+  "description": "Access weather forecasts and alerts from the National Weather Service",
+  "source_repo": "byrness/mcp-weather-server",
+  "source_url": "https://github.com/byrness/mcp-weather-server",
+  "install": "# git clone --depth 1 https://github.com/byrness/mcp-weather-server\n# See source for mcpServers config block"
+}

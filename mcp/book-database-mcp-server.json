@@ -1,0 +1,7 @@
+{
+  "name": "book-database-mcp-server",
+  "description": "Enables querying a curated book database using MCP tools to retrieve basic or detailed book information by ISBN or title, including batch lookups.",
+  "source_repo": "ps-copilot-sandbox/copilot-mcp",
+  "source_url": "https://github.com/ps-copilot-sandbox/copilot-mcp",
+  "install": "npx -y copilot-mcp"
+}

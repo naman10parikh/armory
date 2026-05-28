@@ -1,0 +1,7 @@
+{
+  "name": "jutop-ssh-linux-administration",
+  "description": "Enables secure remote Linux administration through SSH connections with built-in safety mechanisms for destructive commands.",
+  "source_repo": "yutooop/mcp_linux_administration_ssh-openwebui_tool",
+  "source_url": "https://github.com/yutooop/mcp_linux_administration_ssh-openwebui_tool",
+  "install": "# git clone --depth 1 https://github.com/yutooop/mcp_linux_administration_ssh-openwebui_tool\n# See source for mcpServers config block"
+}

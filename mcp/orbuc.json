@@ -1,0 +1,7 @@
+{
+  "name": "orbuc",
+  "description": "On-chain stablecoin market cap and Bitcoin institutional holdings data.",
+  "source_repo": "xorbuc/orbuc-mcp-server",
+  "source_url": "https://github.com/xorbuc/orbuc-mcp-server",
+  "install": "npx -y orbuc-mcp-server"
+}

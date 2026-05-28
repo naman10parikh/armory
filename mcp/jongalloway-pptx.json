@@ -1,0 +1,7 @@
+{
+  "name": "jongalloway-pptx",
+  "description": "Reads, creates, and updates PowerPoint presentations with slide content extraction, text updates, and image insertion.",
+  "source_repo": "jongalloway/pptx-tools",
+  "source_url": "https://github.com/jongalloway/pptx-tools",
+  "install": "# git clone --depth 1 https://github.com/jongalloway/pptx-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sadiuysal-mem0",
+  "description": "Integrates with Mem0's memory storage to provide persistent memory streams with semantic search capabilities, enabling recall of user preferences and conversation history across interactions.",
+  "source_repo": "sadiuysal/mem0-mcp-server-ts",
+  "source_url": "https://github.com/sadiuysal/mem0-mcp-server-ts",
+  "install": "# git clone --depth 1 https://github.com/sadiuysal/mem0-mcp-server-ts\n# See source for mcpServers config block"
+}

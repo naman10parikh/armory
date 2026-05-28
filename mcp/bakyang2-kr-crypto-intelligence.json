@@ -1,0 +1,7 @@
+{
+  "name": "bakyang2-kr-crypto-intelligence",
+  "description": "Korean crypto market data with real-time Kimchi Premium, stablecoin premium, and exchange price analysis.",
+  "source_repo": "bakyang2/kr-crypto-intelligence",
+  "source_url": "https://github.com/bakyang2/kr-crypto-intelligence",
+  "install": "# git clone --depth 1 https://github.com/bakyang2/kr-crypto-intelligence\n# See source for mcpServers config block"
+}

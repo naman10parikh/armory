@@ -1,0 +1,7 @@
+{
+  "name": "walteh-cloudstack",
+  "description": "Enables natural language management of Apache CloudStack infrastructure, translating requests into API calls for VM deployment, resource management, and infrastructure operations without requiring direct API knowledge.",
+  "source_repo": "walteh/cloudstack-mcp",
+  "source_url": "https://github.com/walteh/cloudstack-mcp",
+  "install": "npx -y cloudstack-mcp"
+}

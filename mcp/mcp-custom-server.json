@@ -1,0 +1,7 @@
+{
+  "name": "mcp-custom-server",
+  "description": "Mcp Custom Server MCP server listed on mcp.so.",
+  "source_repo": "WhenMoon-afk/mcp-custom-server",
+  "source_url": "https://mcp.so/server/mcp-custom-server/WhenMoon-afk",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-custom-server/WhenMoon-afk\n# See source for mcpServers config block"
+}

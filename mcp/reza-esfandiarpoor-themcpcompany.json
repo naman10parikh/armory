@@ -1,0 +1,7 @@
+{
+  "name": "reza-esfandiarpoor-themcpcompany",
+  "description": "Research benchmark implementation that transforms REST APIs from enterprise services like GitLab, Plane, RocketChat, ownCloud, and Azure into MCP servers, providing over 18,000 tools for evaluating tool-calling agent performance across complex multi-service workflows.",
+  "source_repo": "reza-esfandiarpoor/the-mcp-company",
+  "source_url": "https://github.com/reza-esfandiarpoor/the-mcp-company",
+  "install": "# git clone --depth 1 https://github.com/reza-esfandiarpoor/the-mcp-company\n# See source for mcpServers config block"
+}

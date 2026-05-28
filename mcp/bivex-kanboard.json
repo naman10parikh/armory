@@ -1,0 +1,7 @@
+{
+  "name": "bivex-kanboard",
+  "description": "Integrates with Kanboard project management systems via JSON-RPC API to provide complete project lifecycle management including task operations, user administration, board organization, and metadata handling with flexible authentication options.",
+  "source_repo": "bivex/kanboard-mcp",
+  "source_url": "https://github.com/bivex/kanboard-mcp",
+  "install": "npx -y kanboard-mcp"
+}

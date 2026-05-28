@@ -1,0 +1,7 @@
+{
+  "name": "layervai-qurl",
+  "description": "Creates and manages qURL secure links for AI agents with generation, resolution, and lifecycle management tools.",
+  "source_repo": "layervai/qurl-mcp",
+  "source_url": "https://github.com/layervai/qurl-mcp",
+  "install": "npx -y qurl-mcp"
+}

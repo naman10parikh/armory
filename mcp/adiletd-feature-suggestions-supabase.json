@@ -1,0 +1,7 @@
+{
+  "name": "adiletd-feature-suggestions-supabase",
+  "description": "Connects AI assistants to a Supabase database for querying feature suggestions, enabling direct access to feature request data within conversations without manual database queries.",
+  "source_repo": "adiletd/feature-request-collection-mcp",
+  "source_url": "https://github.com/adiletd/feature-request-collection-mcp",
+  "install": "npx -y feature-request-collection-mcp"
+}

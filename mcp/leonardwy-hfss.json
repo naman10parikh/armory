@@ -1,0 +1,7 @@
+{
+  "name": "leonardwy-hfss",
+  "description": "MCP server for automating ANSYS HFSS electromagnetic simulations with 26 tools covering 3D modeling, boundary conditions, simulation setup, and post-processing.",
+  "source_repo": "leonardwy/hfss_mcpserver",
+  "source_url": "https://github.com/leonardwy/hfss_mcpserver",
+  "install": "# git clone --depth 1 https://github.com/leonardwy/hfss_mcpserver\n# See source for mcpServers config block"
+}

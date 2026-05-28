@@ -1,0 +1,7 @@
+{
+  "name": "theallenchou-lsp-bridge",
+  "description": "VS Code extension exposing running language server features as MCP tools for definition lookup, references, diagnostics, and completions.",
+  "source_repo": "theallenchou/lsp-mcp",
+  "source_url": "https://github.com/theallenchou/lsp-mcp",
+  "install": "npx -y lsp-mcp"
+}

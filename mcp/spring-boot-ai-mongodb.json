@@ -1,0 +1,7 @@
+{
+  "name": "spring-boot-ai-mongodb",
+  "description": "Enables MongoDB database operations including querying, indexing, and document management through specialized tools for data access and manipulation",
+  "source_repo": "bootcamptoprod/spring-boot-ai-mongo-mcp-server",
+  "source_url": "https://github.com/bootcamptoprod/spring-boot-ai-mongo-mcp-server",
+  "install": "npx -y spring-boot-ai-mongo-mcp-server"
+}

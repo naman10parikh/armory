@@ -1,0 +1,7 @@
+{
+  "name": "yctimlin-excalidraw",
+  "description": "Enables LLMs to create and manipulate Excalidraw diagrams through a Node.js API that provides tools for element creation, modification, querying, and organization for AI-assisted diagramming and visual collaboration.",
+  "source_repo": "yctimlin/mcp_excalidraw",
+  "source_url": "https://github.com/yctimlin/mcp_excalidraw",
+  "install": "# git clone --depth 1 https://github.com/yctimlin/mcp_excalidraw\n# See source for mcpServers config block"
+}

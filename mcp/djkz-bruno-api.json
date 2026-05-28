@@ -1,0 +1,7 @@
+{
+  "name": "djkz-bruno-api",
+  "description": "Bridges AI systems with Bruno API collections, enabling direct execution of HTTP requests defined in .bru format with automatic environment variable parsing and schema generation for API testing and workflow automation.",
+  "source_repo": "djkz/bruno-api-mcp",
+  "source_url": "https://github.com/djkz/bruno-api-mcp",
+  "install": "npx -y bruno-api-mcp"
+}

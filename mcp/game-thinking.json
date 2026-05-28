@@ -1,0 +1,7 @@
+{
+  "name": "game-thinking",
+  "description": "Provides a structured tool for dynamic game design problem-solving, enabling developers to explore and iterate game mechanics through a sequential thinking process with Three.js game engine integration.",
+  "source_repo": "mahecode/gamethinking-mcp-server",
+  "source_url": "https://github.com/mahecode/gamethinking-mcp-server",
+  "install": "npx -y gamethinking-mcp-server"
+}

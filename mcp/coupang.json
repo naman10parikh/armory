@@ -1,0 +1,7 @@
+{
+  "name": "coupang",
+  "description": "Search and browse products on Coupang to find competitive prices and daily discounts. Discover top-rated items across diverse categories like electronics, fashion, and food. Access exclusive Goldbox deals to identify the best value for your shopping needs.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/coupang-mcp/coupang",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/coupang-mcp/coupang\n# See source for mcpServers config block"
+}

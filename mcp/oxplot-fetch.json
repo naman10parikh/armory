@@ -1,0 +1,7 @@
+{
+  "name": "oxplot-fetch",
+  "description": "Enables web content retrieval through a Go-based server that fetches text and images from URLs with customizable HTTP requests, headers, and timeouts.",
+  "source_repo": "oxplot/fetch-mcp",
+  "source_url": "https://github.com/oxplot/fetch-mcp",
+  "install": "npx -y fetch-mcp"
+}

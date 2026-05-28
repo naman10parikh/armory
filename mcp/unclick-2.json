@@ -1,0 +1,7 @@
+{
+  "name": "unclick-2",
+  "description": "AI agent tool marketplace. 60+ tools for social, e-commerce, accounting, messaging, media, and more. Search and call tools for Slack, Reddit, Discord, Shopify, Xero, Bluesky, TMDB, Steam, and 50+ more services.",
+  "source_repo": "",
+  "source_url": "https://unclick.world",
+  "install": "# git clone --depth 1 https://unclick.world\n# See source for mcpServers config block"
+}

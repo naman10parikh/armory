@@ -1,0 +1,7 @@
+{
+  "name": "ratchanonth60-postgresql-database-explorer",
+  "description": "Enables AI systems to query and explore PostgreSQL databases with tools for schema exploration, data searching, and executing safe SQL queries",
+  "source_repo": "ratchanonth60/querycraftmcp",
+  "source_url": "https://github.com/ratchanonth60/querycraftmcp",
+  "install": "# git clone --depth 1 https://github.com/ratchanonth60/querycraftmcp\n# See source for mcpServers config block"
+}

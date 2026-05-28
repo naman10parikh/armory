@@ -1,0 +1,7 @@
+{
+  "name": "pragmar-webcrawl",
+  "description": "Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.",
+  "source_repo": "pragmar/mcp-server-webcrawl",
+  "source_url": "https://github.com/pragmar/mcp-server-webcrawl",
+  "install": "# git clone --depth 1 https://github.com/pragmar/mcp-server-webcrawl\n# See source for mcpServers config block"
+}

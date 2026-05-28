@@ -1,0 +1,7 @@
+{
+  "name": "kakao-mobility",
+  "description": "Integrates with Kakao Mobility API to provide location-based services including geocoding, place search, routing with multiple transportation options, and travel time predictions.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/kakao-mobility",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/kakao-mobility\n# See source for mcpServers config block"
+}

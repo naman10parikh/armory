@@ -1,0 +1,7 @@
+{
+  "name": "restlessronin-llm-context",
+  "description": "Streamlines code context sharing with LLMs by implementing smart file selection, code outlining, and multi-language support for efficient code reviews and documentation generation.",
+  "source_repo": "cyberchitta/llm-context.py",
+  "source_url": "https://github.com/cyberchitta/llm-context.py",
+  "install": "# git clone --depth 1 https://github.com/cyberchitta/llm-context.py\n# See source for mcpServers config block"
+}

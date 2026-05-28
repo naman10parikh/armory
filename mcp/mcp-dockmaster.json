@@ -1,0 +1,7 @@
+{
+  "name": "mcp-dockmaster",
+  "description": "Mcp Dockmaster MCP server listed on mcp.so.",
+  "source_repo": "dcSpark/mcp-dockmaster",
+  "source_url": "https://mcp.so/server/mcp-dockmaster/dcSpark",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-dockmaster/dcSpark\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-text-editor-server",
+  "description": "A Model Context Protocol (MCP) server that provides line-oriented text file editing capabilities through a standardized API. Optimized for LLM tools with efficient partial file access to minimize token usage.",
+  "source_repo": "fastmcp-me/mcp-text-editor",
+  "source_url": "https://github.com/fastmcp-me/mcp-text-editor",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-text-editor\n# See source for mcpServers config block"
+}

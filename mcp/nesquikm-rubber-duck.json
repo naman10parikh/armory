@@ -1,0 +1,7 @@
+{
+  "name": "nesquikm-rubber-duck",
+  "description": "Bridge to multiple OpenAI-compatible LLMs with consensus voting and multi-provider querying",
+  "source_repo": "nesquikm/mcp-rubber-duck",
+  "source_url": "https://github.com/nesquikm/mcp-rubber-duck",
+  "install": "# git clone --depth 1 https://github.com/nesquikm/mcp-rubber-duck\n# See source for mcpServers config block"
+}

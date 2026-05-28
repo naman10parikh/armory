@@ -1,0 +1,7 @@
+{
+  "name": "rag-anything",
+  "description": "Provides RAG capabilities for processing and querying document directories using LightRAG with multimodal content extraction across PDF, DOCX, PPTX, TXT, and MD formats, supporting batch processing, persistent instances, and multiple query modes for research workflows and knowledge base construction.",
+  "source_repo": "jesse-merhi/rag-anything-mcp",
+  "source_url": "https://github.com/jesse-merhi/rag-anything-mcp",
+  "install": "npx -y rag-anything-mcp"
+}

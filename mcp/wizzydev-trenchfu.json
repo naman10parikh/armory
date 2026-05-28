@@ -1,0 +1,7 @@
+{
+  "name": "wizzydev-trenchfu",
+  "description": "Solana intelligence marketplace with 86 tools and 168+ endpoints for on-chain data and analytics.",
+  "source_repo": "wizzydev/trenchfu-mcp",
+  "source_url": "https://github.com/wizzydev/trenchfu-mcp",
+  "install": "npx -y trenchfu-mcp"
+}

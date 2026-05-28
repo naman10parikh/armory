@@ -1,0 +1,7 @@
+{
+  "name": "gabrimatic-web-search",
+  "description": "Integrates Brave Search API for real-time web information retrieval, dynamically categorizing queries to proactively fetch current events, weather, sports scores, and time-sensitive data with robust error handling.",
+  "source_repo": "gabrimatic/mcp-web-search-tool",
+  "source_url": "https://github.com/gabrimatic/mcp-web-search-tool",
+  "install": "# git clone --depth 1 https://github.com/gabrimatic/mcp-web-search-tool\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "waystation-gmail",
+  "description": "Gmail email management through WayStation integration hub",
+  "source_repo": "",
+  "source_url": "https://waystation.ai/connect/gmail",
+  "install": "# git clone --depth 1 https://waystation.ai/connect/gmail\n# See source for mcpServers config block"
+}

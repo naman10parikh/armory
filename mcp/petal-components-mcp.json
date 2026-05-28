@@ -1,0 +1,7 @@
+{
+  "name": "petal-components-mcp",
+  "description": "Provides Phoenix LiveView component schemas from petal_components to AI coding assistants.",
+  "source_repo": "petalframework/petal-components-mcp",
+  "source_url": "https://github.com/petalframework/petal-components-mcp",
+  "install": "npx -y petal-components-mcp"
+}

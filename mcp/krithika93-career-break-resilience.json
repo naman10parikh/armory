@@ -1,0 +1,7 @@
+{
+  "name": "krithika93-career-break-resilience",
+  "description": "Integrates with N8N workflows to filter and curate resume bullet points based on automated relevance scoring, enabling job seekers to quickly tailor resume content by removing low-scoring bullets or limiting bullets per company using heap-based filtering algorithms.",
+  "source_repo": "krithika93/career-break-resilience-mcp",
+  "source_url": "https://github.com/krithika93/career-break-resilience-mcp",
+  "install": "npx -y career-break-resilience-mcp"
+}

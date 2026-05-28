@@ -1,0 +1,7 @@
+{
+  "name": "shouldnotappearcalm-a-share-stock-market",
+  "description": "Access Chinese A-share market data including real-time quotes, K-lines, and technical indicators.",
+  "source_repo": "shouldnotappearcalm/a-share-mcp",
+  "source_url": "https://github.com/shouldnotappearcalm/a-share-mcp",
+  "install": "npx -y a-share-mcp"
+}

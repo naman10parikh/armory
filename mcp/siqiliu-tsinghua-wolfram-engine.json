@@ -1,0 +1,7 @@
+{
+  "name": "siqiliu-tsinghua-wolfram-engine",
+  "description": "Bridges AI assistants to a local Wolfram Engine for symbolic mathematics, numerical analysis, and data visualization via Wolfram Language evaluation.",
+  "source_repo": "siqiliu-tsinghua/mma-mcp",
+  "source_url": "https://github.com/siqiliu-tsinghua/mma-mcp",
+  "install": "npx -y mma-mcp"
+}

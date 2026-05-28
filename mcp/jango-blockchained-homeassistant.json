@@ -1,0 +1,7 @@
+{
+  "name": "jango-blockchained-homeassistant",
+  "description": "Integrates Home Assistant with language models to enable natural language control and querying of smart home devices.",
+  "source_repo": "jango-blockchained/advanced-homeassistant-mcp",
+  "source_url": "https://github.com/jango-blockchained/advanced-homeassistant-mcp",
+  "install": "npx -y advanced-homeassistant-mcp"
+}

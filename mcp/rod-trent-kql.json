@@ -1,0 +1,7 @@
+{
+  "name": "rod-trent-kql",
+  "description": "Enables querying and analysis using Kusto Query Language (KQL) for Azure Monitor, Sentinel, and other Microsoft data services.",
+  "source_repo": "rod-trent/kql-mcp",
+  "source_url": "https://github.com/rod-trent/kql-mcp",
+  "install": "npx -y kql-mcp"
+}

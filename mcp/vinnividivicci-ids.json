@@ -1,0 +1,7 @@
+{
+  "name": "vinnividivicci-ids",
+  "description": "Creates buildingSMART IDS (Information Delivery Specification) files with complete compliance validation, supporting all IFC versions and facet types with XSD restrictions for BIM quality assurance.",
+  "source_repo": "vinnividivicci/ifc-ids-mcp",
+  "source_url": "https://github.com/vinnividivicci/ifc-ids-mcp",
+  "install": "npx -y ifc-ids-mcp"
+}

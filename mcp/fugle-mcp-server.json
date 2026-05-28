@@ -1,0 +1,7 @@
+{
+  "name": "fugle-mcp-server",
+  "description": "A Fugle MCP server for stock market data and trading, supporting real-time quotes, historical data, and optional order execution.",
+  "source_repo": "fugle-dev/fugle-mcp-server",
+  "source_url": "https://github.com/fugle-dev/fugle-mcp-server",
+  "install": "npx -y fugle-mcp-server"
+}

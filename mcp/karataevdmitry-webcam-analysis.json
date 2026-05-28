@@ -1,0 +1,7 @@
+{
+  "name": "karataevdmitry-webcam-analysis",
+  "description": "Multi-modal media analysis with burst video frames, PDF conversion, OCR, audio analysis, and speech transcription.",
+  "source_repo": "ai-guiders/webcam-analysis-mcp",
+  "source_url": "https://github.com/ai-guiders/webcam-analysis-mcp",
+  "install": "npx -y webcam-analysis-mcp"
+}

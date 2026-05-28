@@ -1,0 +1,7 @@
+{
+  "name": "jboothomas-pure-storage-flashblade",
+  "description": "Integrates with Pure Storage FlashBlade arrays to enable real-time monitoring, troubleshooting, and resource management.",
+  "source_repo": "jboothomas/pure-model-context-protocol",
+  "source_url": "https://github.com/jboothomas/pure-model-context-protocol",
+  "install": "# git clone --depth 1 https://github.com/jboothomas/pure-model-context-protocol\n# See source for mcpServers config block"
+}

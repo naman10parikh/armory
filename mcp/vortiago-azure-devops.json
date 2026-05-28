@@ -1,0 +1,7 @@
+{
+  "name": "vortiago-azure-devops",
+  "description": "Integrates with Azure DevOps services to enable natural language interactions for querying work items, retrieving project information, and managing team resources without navigating the complex interface directly.",
+  "source_repo": "vortiago/mcp-azure-devops",
+  "source_url": "https://github.com/vortiago/mcp-azure-devops",
+  "install": "# git clone --depth 1 https://github.com/vortiago/mcp-azure-devops\n# See source for mcpServers config block"
+}

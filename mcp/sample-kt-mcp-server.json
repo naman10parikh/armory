@@ -1,0 +1,7 @@
+{
+  "name": "sample-kt-mcp-server",
+  "description": "Sample Kt Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "nekorush14/sample-kt-mcp-server",
+  "source_url": "https://mcp.so/server/sample-kt-mcp-server/nekorush14",
+  "install": "npx -y sample-kt-mcp-server"
+}

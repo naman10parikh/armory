@@ -1,0 +1,7 @@
+{
+  "name": "8sleep-mcp",
+  "description": "8sleep Mcp MCP server listed on mcp.so.",
+  "source_repo": "elizabethtrykin/8sleep-mcp",
+  "source_url": "https://mcp.so/server/8sleep-mcp/elizabethtrykin",
+  "install": "npx -y 8sleep-mcp"
+}

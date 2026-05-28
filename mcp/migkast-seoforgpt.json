@@ -1,0 +1,7 @@
+{
+  "name": "migkast-seoforgpt",
+  "description": "MCP server for SEOforGPT brand visibility analysis across AI model responses.",
+  "source_repo": "migkast/seoforgpt-mcp",
+  "source_url": "https://github.com/migkast/seoforgpt-mcp",
+  "install": "npx -y seoforgpt-mcp"
+}

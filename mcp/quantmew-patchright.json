@@ -1,0 +1,7 @@
+{
+  "name": "quantmew-patchright",
+  "description": "Provides browser automation with session inheritance, enabling seamless web automation that maintains user authentication states and preferences from existing Chrome, Edge, or Chromium browser profiles.",
+  "source_repo": "quantmew/patchright-mcp",
+  "source_url": "https://github.com/quantmew/patchright-mcp",
+  "install": "npx -y patchright-mcp"
+}

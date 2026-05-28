@@ -1,0 +1,7 @@
+{
+  "name": "yujiseok-korea-public-official-assets",
+  "description": "Queries Korean public officials' asset disclosure data from government gazette records.",
+  "source_repo": "yujiseok/public-official-mcp",
+  "source_url": "https://github.com/yujiseok/public-official-mcp",
+  "install": "npx -y public-official-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kirill-scherba-db-tool",
+  "description": "Executes SQL queries against SQLite, MySQL, and PostgreSQL databases with sandboxed Perl code filtering for server-side row transformations.",
+  "source_repo": "kirill-scherba/db-tool-mcp",
+  "source_url": "https://github.com/kirill-scherba/db-tool-mcp",
+  "install": "npx -y db-tool-mcp"
+}

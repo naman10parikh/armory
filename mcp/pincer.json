@@ -1,0 +1,7 @@
+{
+  "name": "pincer",
+  "description": "Security-hardened gateway with proxy token architecture that prevents agents from accessing real API credentials.",
+  "source_repo": "vouchlyai/pincer-mcp",
+  "source_url": "https://github.com/vouchlyai/pincer-mcp",
+  "install": "npx -y pincer-mcp"
+}

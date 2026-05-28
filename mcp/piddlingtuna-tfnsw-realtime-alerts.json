@@ -1,0 +1,7 @@
+{
+  "name": "piddlingtuna-tfnsw-realtime-alerts",
+  "description": "Integrates with Transport for NSW's Realtime Alerts API to retrieve, filter, and summarize up-to-date public transport disruptions and alerts across the NSW network.",
+  "source_repo": "piddlingtuna/tfnsw-realtime-alerts-mcp-server",
+  "source_url": "https://github.com/piddlingtuna/tfnsw-realtime-alerts-mcp-server",
+  "install": "npx -y tfnsw-realtime-alerts-mcp-server"
+}

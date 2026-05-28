@@ -1,0 +1,7 @@
+{
+  "name": "chrome-browser-automation",
+  "description": "Enables browser automation through Selenium WebDriver, allowing direct interaction with Chrome for web scraping, testing, and navigation tasks without requiring complex automation code.",
+  "source_repo": "qoxogus/spring-ai-chrome-mcp-server",
+  "source_url": "https://github.com/qoxogus/spring-ai-chrome-mcp-server",
+  "install": "npx -y spring-ai-chrome-mcp-server"
+}

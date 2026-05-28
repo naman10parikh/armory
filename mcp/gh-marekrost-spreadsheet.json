@@ -1,0 +1,7 @@
+{
+  "name": "gh-marekrost-spreadsheet",
+  "description": "Read and write spreadsheet files with cell-level operations and DuckDB SQL engine.",
+  "source_repo": "marekrost/mcp-server-spreadsheet",
+  "source_url": "https://github.com/marekrost/mcp-server-spreadsheet",
+  "install": "# git clone --depth 1 https://github.com/marekrost/mcp-server-spreadsheet\n# See source for mcpServers config block"
+}

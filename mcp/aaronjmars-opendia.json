@@ -1,0 +1,7 @@
+{
+  "name": "aaronjmars-opendia",
+  "description": "Provides OpenDia diagram creation capabilities through a lightweight web server with WebSocket support and HTTP API endpoints for real-time collaborative diagram generation and editing.",
+  "source_repo": "aaronjmars/opendia",
+  "source_url": "https://github.com/aaronjmars/opendia",
+  "install": "# git clone --depth 1 https://github.com/aaronjmars/opendia\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tyler-forge",
+  "description": "Provides access to Tyler Technologies' design system documentation, component APIs, design tokens, and framework integration guides with intelligent search, icon discovery, and templated documentation generation for building applications with Tyler Forge components.",
+  "source_repo": "tyler-technologies-oss/forge-mcp",
+  "source_url": "https://github.com/tyler-technologies-oss/forge-mcp",
+  "install": "npx -y forge-mcp"
+}

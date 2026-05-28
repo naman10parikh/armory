@@ -1,0 +1,7 @@
+{
+  "name": "pagerduty-mcp-server",
+  "description": "Pagerduty Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "wpfleger96/pagerduty-mcp-server",
+  "source_url": "https://mcp.so/server/pagerduty-mcp-server/wpfleger96",
+  "install": "npx -y pagerduty-mcp-server"
+}

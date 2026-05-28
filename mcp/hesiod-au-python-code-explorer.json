@@ -1,0 +1,7 @@
+{
+  "name": "hesiod-au-python-code-explorer",
+  "description": "Builds a graph of Python code relationships to intelligently navigate codebases, prioritize relevant sections, and include README files while staying within token limits.",
+  "source_repo": "hesiod-au/python-mcp",
+  "source_url": "https://github.com/hesiod-au/python-mcp",
+  "install": "npx -y python-mcp"
+}

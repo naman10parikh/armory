@@ -1,0 +1,7 @@
+{
+  "name": "olyport-wildfire",
+  "description": "Active wildfire incidents from the National Interagency Fire Center.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/wildfire/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/wildfire/mcp\n# See source for mcpServers config block"
+}

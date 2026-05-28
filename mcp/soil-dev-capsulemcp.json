@@ -1,0 +1,7 @@
+{
+  "name": "soil-dev-capsulemcp",
+  "description": "MCP server for [Capsule CRM](https://capsulecrm.com). 81 tools (49 in read-only mode) covering contacts, opportunities, projects, tasks, timeline activity, structured + saved filters, workflow tracks, and file attachments. Two transports — stdio (`npx capsulemcp`) and HTTP+OAuth for hosted Custom Connectors. Read-only-mode env flag for safer defaults. Apache 2.0.",
+  "source_repo": "soil-dev/capsulemcp",
+  "source_url": "https://github.com/soil-dev/capsulemcp",
+  "install": "# git clone --depth 1 https://github.com/soil-dev/capsulemcp\n# See source for mcpServers config block"
+}

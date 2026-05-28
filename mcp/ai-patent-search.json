@@ -1,0 +1,7 @@
+{
+  "name": "ai-patent-search",
+  "description": "MCP server for the AI Patent Search Generator — 11 tools for patent intelligence: dossier (claims, citations, family, classifications, examiner stats), prosecution (USPTO file wrappers), oa_analyze (AI Office Action analysis), search/query (Google Patents multi-strategy), similar, citations, family,",
+  "source_repo": "smythmyke/patent-search-mcp-server",
+  "source_url": "https://github.com/smythmyke/patent-search-mcp-server",
+  "install": "npx -y patent-search-mcp-server"
+}

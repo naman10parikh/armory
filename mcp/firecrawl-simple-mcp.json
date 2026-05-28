@@ -1,0 +1,7 @@
+{
+  "name": "firecrawl-simple-mcp",
+  "description": "Empowers LLMs to scrape web pages and generate sitemaps through the Firecrawl Simple API, with support for JavaScript rendering and configurable options.",
+  "source_repo": "Sacode/firecrawl-simple-mcp",
+  "source_url": "https://github.com/Sacode/firecrawl-simple-mcp",
+  "install": "npx -y firecrawl-simple-mcp"
+}

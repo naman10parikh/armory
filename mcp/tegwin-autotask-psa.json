@@ -1,0 +1,7 @@
+{
+  "name": "tegwin-autotask-psa",
+  "description": "Integrates with Autotask PSA platform for ticket management, company and contact operations, time tracking, and resource management with automatic name-to-ID lookups.",
+  "source_repo": "tegwin/autotaskmcp",
+  "source_url": "https://github.com/tegwin/autotaskmcp",
+  "install": "# git clone --depth 1 https://github.com/tegwin/autotaskmcp\n# See source for mcpServers config block"
+}

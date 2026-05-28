@@ -1,0 +1,7 @@
+{
+  "name": "sondang91-postman",
+  "description": "Automatically synchronizes .NET API controllers with Postman collections by parsing C# code, XML documentation, and attributes to generate properly structured requests.",
+  "source_repo": "sondang91/postman-mcp-server",
+  "source_url": "https://github.com/sondang91/postman-mcp-server",
+  "install": "npx -y postman-mcp-server"
+}

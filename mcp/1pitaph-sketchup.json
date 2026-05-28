@@ -1,0 +1,7 @@
+{
+  "name": "1pitaph-sketchup",
+  "description": "Ruby plugin for SketchUp 3D modeling with geometry creation, entity transformation, material assignment, and model introspection via TCP bridge.",
+  "source_repo": "1pitaph/su_mcp",
+  "source_url": "https://github.com/1pitaph/su_mcp",
+  "install": "npx -y su_mcp"
+}

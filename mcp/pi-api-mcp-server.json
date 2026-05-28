@@ -1,0 +1,7 @@
+{
+  "name": "pi-api-mcp-server",
+  "description": "Pi Api Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "mingzilla/pi-api-mcp-server",
+  "source_url": "https://mcp.so/server/pi-api-mcp-server/mingzilla",
+  "install": "npx -y pi-api-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "antipaster-premiere-pro",
+  "description": "Controls Adobe Premiere Pro through ExtendScript and CEP panel communication, providing 170+ tools for project management, timeline editing, effects, markers, audio, and export operations.",
+  "source_repo": "antipaster/adobe-premiere-pro-mcp",
+  "source_url": "https://github.com/antipaster/adobe-premiere-pro-mcp",
+  "install": "npx -y adobe-premiere-pro-mcp"
+}

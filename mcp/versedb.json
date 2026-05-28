@@ -1,0 +1,7 @@
+{
+  "name": "versedb",
+  "description": "Comic book database for searching comics, creators, characters, and managing collections.",
+  "source_repo": "",
+  "source_url": "https://versedb.com",
+  "install": "# git clone --depth 1 https://versedb.com\n# See source for mcpServers config block"
+}

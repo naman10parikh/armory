@@ -1,0 +1,7 @@
+{
+  "name": "ivory-river",
+  "description": "Gaming PC and components shopping via AI agents with in-browser checkout handoff.",
+  "source_repo": "",
+  "source_url": "https://ivoryriver.store",
+  "install": "# git clone --depth 1 https://ivoryriver.store\n# See source for mcpServers config block"
+}

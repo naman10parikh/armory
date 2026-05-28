@@ -1,0 +1,7 @@
+{
+  "name": "hanzephyr-ai-data-access-gateway",
+  "description": "Secure MCP gateway server providing AI agents governed read-only database access with SQL safety and field masking.",
+  "source_repo": "hanzephyr/ai-data-access-gateway",
+  "source_url": "https://github.com/hanzephyr/ai-data-access-gateway",
+  "install": "# git clone --depth 1 https://github.com/hanzephyr/ai-data-access-gateway\n# See source for mcpServers config block"
+}

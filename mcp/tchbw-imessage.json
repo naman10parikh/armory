@@ -1,0 +1,7 @@
+{
+  "name": "tchbw-imessage",
+  "description": "Enables iMessage interaction on macOS for read/send capabilities.",
+  "source_repo": "tchbw/mcp-imessage",
+  "source_url": "https://github.com/tchbw/mcp-imessage",
+  "install": "# git clone --depth 1 https://github.com/tchbw/mcp-imessage\n# See source for mcpServers config block"
+}

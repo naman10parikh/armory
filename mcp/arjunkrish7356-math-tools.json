@@ -1,0 +1,7 @@
+{
+  "name": "arjunkrish7356-math-tools",
+  "description": "Provides six fundamental mathematical operations including addition, subtraction, multiplication, division, exponentiation, and logarithm calculation with customizable base support and proper error handling for division by zero and invalid inputs.",
+  "source_repo": "arjunkrish7356/mathagent",
+  "source_url": "https://github.com/arjunkrish7356/mathagent",
+  "install": "# git clone --depth 1 https://github.com/arjunkrish7356/mathagent\n# See source for mcpServers config block"
+}

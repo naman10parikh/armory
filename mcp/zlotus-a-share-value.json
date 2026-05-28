@@ -1,0 +1,7 @@
+{
+  "name": "zlotus-a-share-value",
+  "description": "Chinese A-share stock market analysis with BaoStock and AKShare APIs for long-term investing and low-frequency trading strategies.",
+  "source_repo": "zlotus/ash-mcp",
+  "source_url": "https://github.com/zlotus/ash-mcp",
+  "install": "npx -y ash-mcp"
+}

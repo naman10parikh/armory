@@ -1,0 +1,7 @@
+{
+  "name": "onpe-mcp",
+  "description": "MCP server for querying Peruvian electoral data (ONPE) including mesa results, candidate votes, and regional statistics. Enables natural language queries about the 2026 presidential election with local SQLite cache and live API fallback.",
+  "source_repo": "oscarzamora/onpe-mcp",
+  "source_url": "https://github.com/oscarzamora/onpe-mcp",
+  "install": "npx -y onpe-mcp"
+}

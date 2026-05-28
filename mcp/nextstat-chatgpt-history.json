@@ -1,0 +1,7 @@
+{
+  "name": "nextstat-chatgpt-history",
+  "description": "Converts ChatGPT conversation exports into searchable Markdown files with Tantivy-powered full-text search and three MCP tools for browsing, searching, and reading chat history.",
+  "source_repo": "nextstat/chatgpt2md",
+  "source_url": "https://github.com/nextstat/chatgpt2md",
+  "install": "# git clone --depth 1 https://github.com/nextstat/chatgpt2md\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "africa-api",
+  "description": "Structured data on all 54 African countries including indicators, elections, markets, and trade.",
+  "source_repo": "africa-api/africa-api-mcp",
+  "source_url": "https://github.com/africa-api/africa-api-mcp",
+  "install": "npx -y africa-api-mcp"
+}

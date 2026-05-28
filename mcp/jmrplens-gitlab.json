@@ -1,0 +1,7 @@
+{
+  "name": "jmrplens-gitlab",
+  "description": "Exposes the entire GitLab REST API as 1006 MCP tools across 162 domain sub-packages for AI-driven GitLab management.",
+  "source_repo": "jmrplens/gitlab-mcp-server",
+  "source_url": "https://github.com/jmrplens/gitlab-mcp-server",
+  "install": "npx -y gitlab-mcp-server"
+}

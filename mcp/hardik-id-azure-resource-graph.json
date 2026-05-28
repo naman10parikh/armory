@@ -1,0 +1,7 @@
+{
+  "name": "hardik-id-azure-resource-graph",
+  "description": "Enables querying and retrieving detailed information about Azure resources across subscriptions through Azure Resource Graph API for cloud infrastructure analysis and troubleshooting",
+  "source_repo": "hardik-id/azure-resource-graph-mcp-server",
+  "source_url": "https://github.com/hardik-id/azure-resource-graph-mcp-server",
+  "install": "npx -y azure-resource-graph-mcp-server"
+}

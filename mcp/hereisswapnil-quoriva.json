@@ -1,0 +1,7 @@
+{
+  "name": "hereisswapnil-quoriva",
+  "description": "Searches academic literature across Semantic Scholar, PubMed, and arXiv with citation graph traversal and author lookup.",
+  "source_repo": "hereisswapnil/quoriva-mcp",
+  "source_url": "https://github.com/hereisswapnil/quoriva-mcp",
+  "install": "npx -y quoriva-mcp"
+}

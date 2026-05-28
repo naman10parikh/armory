@@ -1,0 +1,7 @@
+{
+  "name": "philidor-defi-vaults",
+  "description": "Search 700+ DeFi vaults, compare risk scores, and analyze protocols across Morpho, Aave, Yearn, Beefy, and Spark.",
+  "source_repo": "philidor-labs/philidor-mcp",
+  "source_url": "https://github.com/philidor-labs/philidor-mcp",
+  "install": "npx -y philidor-mcp"
+}

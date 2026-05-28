@@ -1,0 +1,7 @@
+{
+  "name": "zhaokang555-guozaoke",
+  "description": "Integrates with GuoZaoKe (果早客) Chinese technology news platform using web scraping to provide access to news feeds, topic discussions, and community content for staying informed about Chinese tech industry trends and market analysis.",
+  "source_repo": "zhaokang555/guozaoke-mcp-server",
+  "source_url": "https://github.com/zhaokang555/guozaoke-mcp-server",
+  "install": "npx -y guozaoke-mcp-server"
+}

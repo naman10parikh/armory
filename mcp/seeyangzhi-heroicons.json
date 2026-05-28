@@ -1,0 +1,7 @@
+{
+  "name": "seeyangzhi-heroicons",
+  "description": "Exposes the Heroicons library for searching, listing, and generating usage examples of icons in React applications",
+  "source_repo": "seeyangzhi/heroicons-mcp",
+  "source_url": "https://github.com/seeyangzhi/heroicons-mcp",
+  "install": "npx -y heroicons-mcp"
+}

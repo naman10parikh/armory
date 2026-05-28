@@ -1,0 +1,7 @@
+{
+  "name": "albermm-phos-analytics",
+  "description": "Sales analytics with ML forecasting, customer segmentation, and trend analysis.",
+  "source_repo": "",
+  "source_url": "https://ae.phos.nz/mcp/",
+  "install": "# git clone --depth 1 https://ae.phos.nz/mcp/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pantheon-mcp",
+  "description": "Enables AI agents to access a collection of specialized agent instructions on demand, covering categories like tech, business, growth, and product.",
+  "source_repo": "valado/pantheon-mcp",
+  "source_url": "https://github.com/valado/pantheon-mcp",
+  "install": "npx -y pantheon-mcp"
+}

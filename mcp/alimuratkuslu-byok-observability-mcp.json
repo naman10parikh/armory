@@ -1,0 +1,7 @@
+{
+  "name": "alimuratkuslu-byok-observability-mcp",
+  "description": "Comprehensive MCP server for Grafana, Prometheus, Kafka UI, and Datadog with a secure \"Bring Your Own Key\" or BYOK model.",
+  "source_repo": "alimuratkuslu/byok-observability-mcp",
+  "source_url": "https://github.com/alimuratkuslu/byok-observability-mcp",
+  "install": "npx -y byok-observability-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kurdin-github-repos-manager",
+  "description": "Integrates with GitHub's REST API to provide repository management, issue tracking, pull request handling, file operations, security management, and analytics with intelligent caching for performance optimization.",
+  "source_repo": "kurdin/github-repos-manager-mcp",
+  "source_url": "https://github.com/kurdin/github-repos-manager-mcp",
+  "install": "npx -y github-repos-manager-mcp"
+}

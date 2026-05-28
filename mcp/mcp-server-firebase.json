@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-firebase",
+  "description": "Mcp Server Firebase MCP server listed on mcp.so.",
+  "source_repo": "sheep52031/mcp-server-firebase",
+  "source_url": "https://mcp.so/server/mcp-server-firebase/sheep52031",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-firebase/sheep52031\n# See source for mcpServers config block"
+}

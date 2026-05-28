@@ -1,0 +1,7 @@
+{
+  "name": "ios-simulator-mcp",
+  "description": "Ios Simulator Mcp MCP server listed on mcp.so.",
+  "source_repo": "joshuayoes/ios-simulator-mcp",
+  "source_url": "https://mcp.so/server/ios-simulator-mcp/joshuayoes",
+  "install": "npx -y ios-simulator-mcp"
+}

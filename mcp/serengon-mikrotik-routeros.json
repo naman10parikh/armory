@@ -1,0 +1,7 @@
+{
+  "name": "serengon-mikrotik-routeros",
+  "description": "Manages MikroTik routers through the RouterOS v7 REST API with multi-router support and API endpoint discovery.",
+  "source_repo": "serengon/mikrotik-mcp-server",
+  "source_url": "https://github.com/serengon/mikrotik-mcp-server",
+  "install": "npx -y mikrotik-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paywithextend-ai-toolkit",
+  "description": "Enabling agentic spend and expense management workflows using Extend's AIs",
+  "source_repo": "paywithextend/extend-ai-toolkit",
+  "source_url": "https://github.com/paywithextend/extend-ai-toolkit",
+  "install": "# git clone --depth 1 https://github.com/paywithextend/extend-ai-toolkit\n# See source for mcpServers config block"
+}

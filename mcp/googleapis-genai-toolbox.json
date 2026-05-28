@@ -1,0 +1,7 @@
+{
+  "name": "googleapis-genai-toolbox",
+  "description": "Open source MCP server specializing in easy, fast, and secure tools for Databases.",
+  "source_repo": "googleapis/genai-toolbox",
+  "source_url": "https://github.com/googleapis/genai-toolbox",
+  "install": "# git clone --depth 1 https://github.com/googleapis/genai-toolbox\n# See source for mcpServers config block"
+}

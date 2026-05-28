@@ -1,0 +1,7 @@
+{
+  "name": "longbridge",
+  "description": "Official Longbridge brokerage MCP for US and HK market data, trading, and portfolio analytics.",
+  "source_repo": "longbridge/longbridge-mcp",
+  "source_url": "https://github.com/longbridge/longbridge-mcp",
+  "install": "npx -y longbridge-mcp"
+}

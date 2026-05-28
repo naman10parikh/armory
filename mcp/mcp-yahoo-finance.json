@@ -1,0 +1,7 @@
+{
+  "name": "mcp-yahoo-finance",
+  "description": "Mcp Yahoo Finance MCP server listed on mcp.so.",
+  "source_repo": "smartheye/mcp-yahoo-finance",
+  "source_url": "https://mcp.so/server/mcp-yahoo-finance/smartheye",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-yahoo-finance/smartheye\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stephenschoettler-hermes-docs",
+  "description": "Offline documentation search for NousResearch Hermes Agent using SQLite FTS5 full-text search.",
+  "source_repo": "stephenschoettler/hermes-docs-mcp",
+  "source_url": "https://github.com/stephenschoettler/hermes-docs-mcp",
+  "install": "npx -y hermes-docs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "socialperks",
+  "description": "Agent-native marketing platform for creating campaigns, submitting proofs, and reviewing creator content.",
+  "source_repo": "benzatkulak-collab/socialperks",
+  "source_url": "https://github.com/benzatkulak-collab/socialperks",
+  "install": "# git clone --depth 1 https://github.com/benzatkulak-collab/socialperks\n# See source for mcpServers config block"
+}

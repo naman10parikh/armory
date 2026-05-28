@@ -1,0 +1,7 @@
+{
+  "name": "roshan-rowik",
+  "description": "Integrates with a personal MediaWiki instance to enable searching, retrieving, and manipulating wiki content for enhanced knowledge management and research workflows.",
+  "source_repo": "roshan/rowik-mcp",
+  "source_url": "https://github.com/roshan/rowik-mcp",
+  "install": "npx -y rowik-mcp"
+}

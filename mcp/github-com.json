@@ -1,0 +1,7 @@
+{
+  "name": "github-com",
+  "description": "Github.Com MCP server listed on mcp.so.",
+  "source_repo": "",
+  "source_url": "https://mcp.so/server/github.com",
+  "install": "# git clone --depth 1 https://mcp.so/server/github.com\n# See source for mcpServers config block"
+}

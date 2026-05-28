@@ -1,0 +1,7 @@
+{
+  "name": "minhalvp-android",
+  "description": "Integrates with Android Debug Bridge (ADB) to enable remote control, testing, and analysis of Android devices, offering capabilities like package management, UI inspection, and screenshot capture.",
+  "source_repo": "minhalvp/android-mcp-server",
+  "source_url": "https://github.com/minhalvp/android-mcp-server",
+  "install": "npx -y android-mcp-server"
+}

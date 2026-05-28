@@ -1,0 +1,7 @@
+{
+  "name": "garume-manifold",
+  "description": "Define operations once and expose them through both CLI and MCP surfaces via source generation.",
+  "source_repo": "garume/manifold",
+  "source_url": "https://github.com/garume/manifold",
+  "install": "# git clone --depth 1 https://github.com/garume/manifold\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcportfolio",
+  "description": "Enables LLM-driven portfolio optimization using natural language, providing tools for mean-variance, HRP, Black-Litterman, and other optimization methods.",
+  "source_repo": "ebrandler/mcportfolio",
+  "source_url": "https://github.com/ebrandler/mcportfolio",
+  "install": "# git clone --depth 1 https://github.com/ebrandler/mcportfolio\n# See source for mcpServers config block"
+}

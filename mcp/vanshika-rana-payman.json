@@ -1,0 +1,7 @@
+{
+  "name": "vanshika-rana-payman",
+  "description": "Provides a documentation retrieval and problem-solving system for developers integrating the Payman payment platform, enabling technical guidance and code examples across Node.js and Python SDKs through a flexible, cache-enabled lookup system",
+  "source_repo": "vanshika-rana/payman-mcp-server",
+  "source_url": "https://github.com/vanshika-rana/payman-mcp-server",
+  "install": "npx -y payman-mcp-server"
+}

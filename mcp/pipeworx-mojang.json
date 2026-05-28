@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-mojang",
+  "description": "Minecraft profile lookups including UUID resolution, skin profiles, name history, and blocked server checks via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-mojang",
+  "source_url": "https://github.com/pipeworx-io/mcp-mojang",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-mojang\n# See source for mcpServers config block"
+}

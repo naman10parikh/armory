@@ -1,0 +1,7 @@
+{
+  "name": "ladislavsopko-mcp-ai-server-visual-studio",
+  "description": "MCP AI Server for Visual Studio. 20 Roslyn-powered tools giving AI assistants semantic code navigation, symbol search, inheritance trees, call graphs, safe rename, build/test execution. Works with Claude, Codex, Gemini, Cursor, Copilot, Windsurf, Cline.",
+  "source_repo": "LadislavSopko/mcp-ai-server-visual-studio",
+  "source_url": "https://github.com/LadislavSopko/mcp-ai-server-visual-studio",
+  "install": "# git clone --depth 1 https://github.com/LadislavSopko/mcp-ai-server-visual-studio\n# See source for mcpServers config block"
+}

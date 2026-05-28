@@ -1,0 +1,7 @@
+{
+  "name": "miratcan-simsar",
+  "description": "Provides real-time cryptocurrency market data, technical indicators, sentiment metrics, futures data, and economic calendar events for trading analysis.",
+  "source_repo": "miratcan/simsar-mcp",
+  "source_url": "https://github.com/miratcan/simsar-mcp",
+  "install": "npx -y simsar-mcp"
+}

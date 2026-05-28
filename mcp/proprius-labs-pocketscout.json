@@ -1,0 +1,7 @@
+{
+  "name": "proprius-labs-pocketscout",
+  "description": "Aggregates structural, chemical, and literature data to evaluate druggable protein binding pockets for drug discovery.",
+  "source_repo": "proprius-labs/pocketscout-mcp",
+  "source_url": "https://github.com/proprius-labs/pocketscout-mcp",
+  "install": "npx -y pocketscout-mcp"
+}

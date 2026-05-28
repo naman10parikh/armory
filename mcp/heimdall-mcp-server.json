@@ -1,0 +1,7 @@
+{
+  "name": "heimdall-mcp-server",
+  "description": "Provides AI coding assistants with persistent, context-rich memory of a codebase, including documentation and git history, enabling recall across sessions.",
+  "source_repo": "lcbcFoo/heimdall-mcp-server",
+  "source_url": "https://github.com/lcbcFoo/heimdall-mcp-server",
+  "install": "npx -y heimdall-mcp-server"
+}

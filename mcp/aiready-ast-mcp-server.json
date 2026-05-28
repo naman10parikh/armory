@@ -1,0 +1,7 @@
+{
+  "name": "aiready-ast-mcp-server",
+  "description": "AST-aware TypeScript/JavaScript codebase exploration for AI agents, providing high-precision symbol resolution, reference finding, and structural analysis via MCP tools.",
+  "source_repo": "getaiready/aiready-ast-mcp-server",
+  "source_url": "https://github.com/getaiready/aiready-ast-mcp-server",
+  "install": "npx -y aiready-ast-mcp-server"
+}

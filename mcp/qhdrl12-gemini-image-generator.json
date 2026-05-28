@@ -1,0 +1,7 @@
+{
+  "name": "qhdrl12-gemini-image-generator",
+  "description": "Enables AI image generation using Google's Gemini 2.0 Flash model with intelligent prompt engineering, automatic filename creation, and configurable local storage.",
+  "source_repo": "qhdrl12/mcp-server-gemini-image-generator",
+  "source_url": "https://github.com/qhdrl12/mcp-server-gemini-image-generator",
+  "install": "# git clone --depth 1 https://github.com/qhdrl12/mcp-server-gemini-image-generator\n# See source for mcpServers config block"
+}

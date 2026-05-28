@@ -1,0 +1,7 @@
+{
+  "name": "gh-sicxz-axcess",
+  "description": "Evaluates UI designs for WCAG accessibility issues that automated scanners miss.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/gh-sicxz-axcess",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/gh-sicxz-axcess\n# See source for mcpServers config block"
+}

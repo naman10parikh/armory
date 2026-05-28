@@ -1,0 +1,7 @@
+{
+  "name": "ankitmalik84-notion-mcp-server",
+  "description": "A comprehensive Model Context Protocol (MCP) server for Notion integration with enhanced functionality, robust error handling, production-ready feature.",
+  "source_repo": "ankitmalik84/Agentic_Longterm_Memory",
+  "source_url": "https://github.com/ankitmalik84/Agentic_Longterm_Memory/tree/main/src/notion_mcp_server",
+  "install": "# git clone --depth 1 https://github.com/ankitmalik84/Agentic_Longterm_Memory/tree/main/src/notion_mcp_server\n# See source for mcpServers config block"
+}

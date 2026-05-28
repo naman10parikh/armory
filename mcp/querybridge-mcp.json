@@ -1,0 +1,7 @@
+{
+  "name": "querybridge-mcp",
+  "description": "A Model Context Protocol (MCP) server that connects Claude Code to MySQL databases. Supports SSH tunnels, SSL/TLS, and multiple simultaneous connections.",
+  "source_repo": "MahmoudHassanMustafa/querybridge-mcp",
+  "source_url": "https://github.com/MahmoudHassanMustafa/querybridge-mcp",
+  "install": "npx -y querybridge-mcp"
+}

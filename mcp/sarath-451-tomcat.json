@@ -1,0 +1,7 @@
+{
+  "name": "sarath-451-tomcat",
+  "description": "AI-assisted Apache Tomcat management and diagnostics for local instances.",
+  "source_repo": "sarath-451/tomcat-mcp",
+  "source_url": "https://github.com/sarath-451/tomcat-mcp",
+  "install": "npx -y tomcat-mcp"
+}

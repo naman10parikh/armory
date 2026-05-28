@@ -1,0 +1,7 @@
+{
+  "name": "shuji-bonji-xcomet-mcp-server",
+  "description": "Translation quality evaluation using xCOMET models. Provides quality scoring (0-1), error detection with severity levels (minor/major/critical), and optimized batch processing with 25x speedup.",
+  "source_repo": "shuji-bonji/xcomet-mcp-server",
+  "source_url": "https://github.com/shuji-bonji/xcomet-mcp-server",
+  "install": "npx -y xcomet-mcp-server"
+}

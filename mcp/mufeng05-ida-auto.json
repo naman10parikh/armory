@@ -1,0 +1,7 @@
+{
+  "name": "mufeng05-ida-auto",
+  "description": "Headless IDA Pro automation enabling AI agents to autonomously open, analyze, and query multiple binary files without manual GUI interaction.",
+  "source_repo": "mufeng05/ida-auto-mcp",
+  "source_url": "https://github.com/mufeng05/ida-auto-mcp",
+  "install": "npx -y ida-auto-mcp"
+}

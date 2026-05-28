@@ -1,0 +1,7 @@
+{
+  "name": "phononx-cv-mcp-server",
+  "description": "MCP Server that connects AI Agents to [Carbon Voice](https://getcarbon.app). Create, manage, and interact with voice messages, conversations, direct messages, folders, voice memos, AI actions and more in [Carbon Voice](https://getcarbon.app).",
+  "source_repo": "PhononX/cv-mcp-server",
+  "source_url": "https://github.com/PhononX/cv-mcp-server",
+  "install": "npx -y cv-mcp-server"
+}

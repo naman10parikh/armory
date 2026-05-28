@@ -1,0 +1,7 @@
+{
+  "name": "namesilo",
+  "description": "Integrates with NameSilo's domain management API to provide 80+ methods for domain registration, DNS management, email forwarding, portfolio management, and SSL certificate operations across sandbox and live environments.",
+  "source_repo": "",
+  "source_url": "https://mcp.namesilo.com/",
+  "install": "# git clone --depth 1 https://mcp.namesilo.com/\n# See source for mcpServers config block"
+}

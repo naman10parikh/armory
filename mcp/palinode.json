@@ -1,0 +1,7 @@
+{
+  "name": "palinode",
+  "description": "Git-versioned markdown memory for AI agents with search, save, compact, lint, and audit tools.",
+  "source_repo": "phasespace-labs/palinode",
+  "source_url": "https://github.com/phasespace-labs/palinode",
+  "install": "# git clone --depth 1 https://github.com/phasespace-labs/palinode\n# See source for mcpServers config block"
+}

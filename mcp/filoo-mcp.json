@@ -1,0 +1,7 @@
+{
+  "name": "filoo-mcp",
+  "description": "Create short links, track click analytics, and generate QR codes via the Filoo URL shortener API.",
+  "source_repo": "jrlprost/filoo-mcp",
+  "source_url": "https://github.com/jrlprost/filoo-mcp",
+  "install": "npx -y filoo-mcp"
+}

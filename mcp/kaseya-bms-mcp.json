@@ -1,0 +1,7 @@
+{
+  "name": "kaseya-bms-mcp",
+  "description": "MCP server for Kaseya BMS PSA — tickets, accounts, time entries, and contracts. Enables AI assistants to manage service desk operations via the Kaseya BMS API.",
+  "source_repo": "wyre-technology/kaseya-bms-mcp",
+  "source_url": "https://github.com/wyre-technology/kaseya-bms-mcp",
+  "install": "npx -y kaseya-bms-mcp"
+}

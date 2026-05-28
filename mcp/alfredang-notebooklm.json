@@ -1,0 +1,7 @@
+{
+  "name": "alfredang-notebooklm",
+  "description": "Automates Google NotebookLM workflows for creating notebooks, adding content sources, and generating podcasts, videos, slide decks, mind maps, quizzes, and reports.",
+  "source_repo": "alfredang/notebooklm-mcp",
+  "source_url": "https://github.com/alfredang/notebooklm-mcp",
+  "install": "npx -y notebooklm-mcp"
+}

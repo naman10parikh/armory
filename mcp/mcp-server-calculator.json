@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-calculator",
+  "description": "Mcp Server Calculator MCP server listed on mcp.so.",
+  "source_repo": "githejie/mcp-server-calculator",
+  "source_url": "https://mcp.so/server/mcp-server-calculator/githejie",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-calculator/githejie\n# See source for mcpServers config block"
+}

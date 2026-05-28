@@ -1,0 +1,7 @@
+{
+  "name": "clootrack",
+  "description": "AI-powered customer feedback analytics platform that surfaces themes, sentiment, and business risks from reviews, surveys, and calls.",
+  "source_repo": "",
+  "source_url": "https://www.clootrack.com",
+  "install": "# git clone --depth 1 https://www.clootrack.com\n# See source for mcpServers config block"
+}

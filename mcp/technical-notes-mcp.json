@@ -1,0 +1,7 @@
+{
+  "name": "technical-notes-mcp",
+  "description": "MCP server that allows searching a local notes directory and retrieving live CPU and memory usage.",
+  "source_repo": "poplores/technical-notes-mcp",
+  "source_url": "https://github.com/poplores/technical-notes-mcp",
+  "install": "npx -y technical-notes-mcp"
+}

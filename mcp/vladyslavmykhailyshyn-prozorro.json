@@ -1,0 +1,7 @@
+{
+  "name": "vladyslavmykhailyshyn-prozorro",
+  "description": "Integrates with Ukraine's Prozorro government procurement system to search and analyze public tender data by entity codes, legal names, and date ranges for transparency and procurement monitoring.",
+  "source_repo": "vladyslavmykhailyshyn/prozorro-mcp-server",
+  "source_url": "https://github.com/vladyslavmykhailyshyn/prozorro-mcp-server",
+  "install": "npx -y prozorro-mcp-server"
+}

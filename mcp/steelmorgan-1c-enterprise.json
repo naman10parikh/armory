@@ -1,0 +1,7 @@
+{
+  "name": "steelmorgan-1c-enterprise",
+  "description": "Bridges 1C enterprise systems with reactive REST API endpoints and server-sent events for real-time business application integration and data synchronization.",
+  "source_repo": "steelmorgan/spring-mcp-1c-copilot",
+  "source_url": "https://github.com/steelmorgan/spring-mcp-1c-copilot",
+  "install": "# git clone --depth 1 https://github.com/steelmorgan/spring-mcp-1c-copilot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-rss3",
+  "description": "Mcp Server Rss3 MCP server listed on mcp.so.",
+  "source_repo": "RSS3-Network/mcp-server-rss3",
+  "source_url": "https://mcp.so/server/mcp-server-rss3/RSS3-Network",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-rss3/RSS3-Network\n# See source for mcpServers config block"
+}

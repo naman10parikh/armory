@@ -1,0 +1,7 @@
+{
+  "name": "pooly-canada-coin-daemon",
+  "description": "Integrates with cryptocurrency daemon RPC interfaces to enable secure querying and management of blockchain networks, with initial support for Zcash.",
+  "source_repo": "raw391/coin_daemon_mcp",
+  "source_url": "https://github.com/raw391/coin_daemon_mcp",
+  "install": "npx -y coin_daemon_mcp"
+}

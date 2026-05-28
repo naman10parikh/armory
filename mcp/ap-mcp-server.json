@@ -1,0 +1,7 @@
+{
+  "name": "ap-mcp-server",
+  "description": "Enables conversational AI to access, analyze, and interact with Associated Press news content through natural language, with 26 tools for search, trends, and content monitoring.",
+  "source_repo": "rbonestell/ap-mcp-server",
+  "source_url": "https://github.com/rbonestell/ap-mcp-server",
+  "install": "npx -y ap-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "icraft2170-youtube-data",
+  "description": "Integrates with YouTube Data API to retrieve and analyze video content, transcripts, channel statistics, and engagement metrics across different regions and categories without leaving the conversation interface.",
+  "source_repo": "icraft2170/youtube-data-mcp-server",
+  "source_url": "https://github.com/icraft2170/youtube-data-mcp-server",
+  "install": "npx -y youtube-data-mcp-server"
+}

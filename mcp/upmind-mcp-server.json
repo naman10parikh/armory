@@ -1,0 +1,7 @@
+{
+  "name": "upmind-mcp-server",
+  "description": "Enables management of Upmind platform products, categories, pricing, and bundles through natural language via the Upmind API.",
+  "source_repo": "stardeltapower/upmind-mcp",
+  "source_url": "https://github.com/stardeltapower/upmind-mcp",
+  "install": "npx -y upmind-mcp"
+}

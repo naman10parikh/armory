@@ -1,0 +1,7 @@
+{
+  "name": "sgsxingchen-novelai",
+  "description": "Integrates with NovelAI's image generation API to create anime-style artwork with advanced parameter control including multi-character positioning, sampling methods, and specialized modes for img2img and inpainting operations.",
+  "source_repo": "sgsxingchen/novelai_mcp",
+  "source_url": "https://github.com/sgsxingchen/novelai_mcp",
+  "install": "npx -y novelai_mcp"
+}

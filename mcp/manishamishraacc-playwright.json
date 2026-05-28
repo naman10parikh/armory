@@ -1,0 +1,7 @@
+{
+  "name": "manishamishraacc-playwright",
+  "description": "Provides browser automation capabilities through Playwright for web interaction, testing, and content extraction across Chromium, Firefox, and WebKit browsers with features like navigation, screenshot capture, PDF generation, and test generation.",
+  "source_repo": "manishamishraacc/mcp",
+  "source_url": "https://github.com/manishamishraacc/mcp",
+  "install": "# git clone --depth 1 https://github.com/manishamishraacc/mcp\n# See source for mcpServers config block"
+}

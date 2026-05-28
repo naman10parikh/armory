@@ -1,0 +1,7 @@
+{
+  "name": "wordware-mcp-server",
+  "description": "Integrates Wordware deployed flows as tools usable within Claude conversations via the Model Context Protocol.",
+  "source_repo": "hugobiais/wordware-mcp-hugo",
+  "source_url": "https://github.com/hugobiais/wordware-mcp-hugo",
+  "install": "# git clone --depth 1 https://github.com/hugobiais/wordware-mcp-hugo\n# See source for mcpServers config block"
+}

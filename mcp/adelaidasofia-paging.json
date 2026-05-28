@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-paging",
+  "description": "On-call paging via 100+ notification channels using Apprise — WhatsApp, ntfy, Pushover, and more.",
+  "source_repo": "adelaidasofia/paging-mcp",
+  "source_url": "https://github.com/adelaidasofia/paging-mcp",
+  "install": "npx -y paging-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tooyipjee-yahoofinance-mcp",
+  "description": "TS version of yahoo finance mcp.",
+  "source_repo": "tooyipjee/yahoofinance-mcp",
+  "source_url": "https://github.com/tooyipjee/yahoofinance-mcp.git",
+  "install": "npx -y yahoofinance-mcp"
+}

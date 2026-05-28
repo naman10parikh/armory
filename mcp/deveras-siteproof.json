@@ -1,0 +1,7 @@
+{
+  "name": "deveras-siteproof",
+  "description": "Scans websites for WCAG accessibility issues, AI engine optimization, and AI agent security compliance via Deveras.",
+  "source_repo": "deashidle-stack/siteproof-mcp",
+  "source_url": "https://github.com/deashidle-stack/siteproof-mcp",
+  "install": "npx -y siteproof-mcp"
+}

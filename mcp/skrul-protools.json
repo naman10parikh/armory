@@ -1,0 +1,7 @@
+{
+  "name": "skrul-protools",
+  "description": "Connects to Avid Pro Tools through the PTSL API to enable session management, transport control, track operations, timeline editing, and marker management with spatial search capabilities for audio clips and their positions.",
+  "source_repo": "skrul/protools-mcp-server",
+  "source_url": "https://github.com/skrul/protools-mcp-server",
+  "install": "npx -y protools-mcp-server"
+}

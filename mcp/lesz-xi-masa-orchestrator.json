@@ -1,0 +1,7 @@
+{
+  "name": "lesz-xi-masa-orchestrator",
+  "description": "Enforces guardrails and manages delegation for the MASA specification framework.",
+  "source_repo": "lesz-xi/masa-orchestrator-mcp",
+  "source_url": "https://github.com/lesz-xi/masa-orchestrator-mcp",
+  "install": "npx -y masa-orchestrator-mcp"
+}

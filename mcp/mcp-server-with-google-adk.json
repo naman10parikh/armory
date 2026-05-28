@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-with-google-adk",
+  "description": "An MCP server using Google's Agent Development Kit with multiple specialized agents (search, data analysis, code generation) coordinated by an LLM-based router for intelligent request handling.",
+  "source_repo": "zayedrais/AI_Agent_with_MCP",
+  "source_url": "https://github.com/zayedrais/AI_Agent_with_MCP",
+  "install": "npx -y AI_Agent_with_MCP"
+}

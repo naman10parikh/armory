@@ -1,0 +1,7 @@
+{
+  "name": "directus",
+  "description": "Integrates with Directus CMS instances to manage content, schema, files, workflows, and user permissions through CRUD operations, automation triggers, and dynamic prompt management.",
+  "source_repo": "joshthederf/directus-extension-mcp",
+  "source_url": "https://github.com/joshthederf/directus-extension-mcp",
+  "install": "npx -y directus-extension-mcp"
+}

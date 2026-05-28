@@ -1,0 +1,7 @@
+{
+  "name": "propline",
+  "description": "Real-time sports betting player props odds from 16 books with cross-book value and prop resolution.",
+  "source_repo": "proplineapi/propline-mcp",
+  "source_url": "https://github.com/proplineapi/propline-mcp",
+  "install": "npx -y propline-mcp"
+}

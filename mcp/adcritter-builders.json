@@ -1,0 +1,7 @@
+{
+  "name": "adcritter-builders",
+  "description": "AdCritter ads platform: docs, API reference, app scaffolding, and white-label integration.",
+  "source_repo": "",
+  "source_url": "https://mcp.adcritter.com/mcp/dev",
+  "install": "# git clone --depth 1 https://mcp.adcritter.com/mcp/dev\n# See source for mcpServers config block"
+}

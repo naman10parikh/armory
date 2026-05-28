@@ -1,0 +1,7 @@
+{
+  "name": "mcp-servers-20",
+  "description": "Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "Dienvm/mcp-servers",
+  "source_url": "https://mcp.so/server/mcp-servers/Dienvm",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-servers/Dienvm\n# See source for mcpServers config block"
+}

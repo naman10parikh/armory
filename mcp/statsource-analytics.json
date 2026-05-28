@@ -1,0 +1,7 @@
+{
+  "name": "statsource-analytics",
+  "description": "Integrates with statistical and machine learning tools to perform data analysis, calculations, and time-series forecasting on user data from various sources including CSV files and databases.",
+  "source_repo": "jamie7893/statsource-mcp",
+  "source_url": "https://github.com/jamie7893/statsource-mcp",
+  "install": "npx -y statsource-mcp"
+}

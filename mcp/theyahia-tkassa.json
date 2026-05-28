@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-tkassa",
+  "description": "T-Bank/Tinkoff payment processing via the T-Kassa API — manage payments, refunds, customers, SBP fast payments, and fiscal receipts.",
+  "source_repo": "theyahia/tkassa-mcp",
+  "source_url": "https://github.com/theyahia/tkassa-mcp",
+  "install": "npx -y tkassa-mcp"
+}

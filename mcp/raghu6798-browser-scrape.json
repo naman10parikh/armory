@@ -1,0 +1,7 @@
+{
+  "name": "raghu6798-browser-scrape",
+  "description": "Enables web scraping, internet searching, and local file interactions through Playwright, Firecrawl, and Tavily integrations for comprehensive content retrieval and manipulation.",
+  "source_repo": "raghu6798/browser_scrape_mcp",
+  "source_url": "https://github.com/raghu6798/browser_scrape_mcp",
+  "install": "npx -y browser_scrape_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cdata-sap-hana-xs-advanced",
+  "description": "Connects to SAP HANA databases through JDBC to enable querying tables, retrieving metadata, and executing SQL statements with CSV-formatted output for enterprise data analysis and business intelligence workflows.",
+  "source_repo": "cdatasoftware/sap-hana-xs-advanced-mcp-server-by-cdata",
+  "source_url": "https://github.com/cdatasoftware/sap-hana-xs-advanced-mcp-server-by-cdata",
+  "install": "# git clone --depth 1 https://github.com/cdatasoftware/sap-hana-xs-advanced-mcp-server-by-cdata\n# See source for mcpServers config block"
+}

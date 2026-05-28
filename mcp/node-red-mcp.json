@@ -1,0 +1,7 @@
+{
+  "name": "node-red-mcp",
+  "description": "A Model Context Protocol server for Node-RED integration, enabling AI agents to manage flows, install modules, and monitor Node-RED instances via natural language.",
+  "source_repo": "ziv-daniel/node-red-mcp",
+  "source_url": "https://github.com/ziv-daniel/node-red-mcp",
+  "install": "npx -y node-red-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vsevolod-oparin-duckduckgo-search",
+  "description": "Performs web searches, fetches page content, and extracts clean text from HTML with modular pipeline architecture, configurable filtering, and caching.",
+  "source_repo": "vsevolod-oparin/duckduckgo-search-mcp",
+  "source_url": "https://github.com/vsevolod-oparin/duckduckgo-search-mcp",
+  "install": "npx -y duckduckgo-search-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "codabench-mcp",
+  "description": "MCP server for Codabench REST API that enables AI agents to drive a full participant ML-benchmark workflow: discover competitions, download data, submit, poll, and read leaderboards.",
+  "source_repo": "harshitAgr/codabench-mcp",
+  "source_url": "https://github.com/harshitAgr/codabench-mcp",
+  "install": "npx -y codabench-mcp"
+}

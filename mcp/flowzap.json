@@ -1,0 +1,7 @@
+{
+  "name": "flowzap",
+  "description": "Generates workflow and sequence diagrams via FlowZap Code.",
+  "source_repo": "flowzap-xyz/flowzap-mcp",
+  "source_url": "https://github.com/flowzap-xyz/flowzap-mcp",
+  "install": "npx -y flowzap-mcp"
+}

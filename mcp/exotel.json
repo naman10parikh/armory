@@ -1,0 +1,7 @@
+{
+  "name": "exotel",
+  "description": "Exotel’s MCP Server empowers Agentic AI to make calls, send messages, and automate customer outreach without telephony complexity.",
+  "source_repo": "exotel/exotelmcp",
+  "source_url": "https://github.com/exotel/exotelmcp",
+  "install": "# git clone --depth 1 https://github.com/exotel/exotelmcp\n# See source for mcpServers config block"
+}

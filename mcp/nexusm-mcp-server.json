@@ -1,0 +1,7 @@
+{
+  "name": "nexusm-mcp-server",
+  "description": "Generic MCP server exposing Nexusm core capabilities (memory, conversation, knowledge, feedback, context) to MCP clients via stdio and Streamable HTTP transports.",
+  "source_repo": "10CG/nexusm-mcp-server",
+  "source_url": "https://github.com/10CG/nexusm-mcp-server",
+  "install": "npx -y nexusm-mcp-server"
+}

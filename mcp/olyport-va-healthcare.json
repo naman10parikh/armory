@@ -1,0 +1,7 @@
+{
+  "name": "olyport-va-healthcare",
+  "description": "VA facility locations, services, wait times, and satisfaction scores.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/va-healthcare/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/va-healthcare/mcp\n# See source for mcpServers config block"
+}

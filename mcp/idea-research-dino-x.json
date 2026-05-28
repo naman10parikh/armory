@@ -1,0 +1,7 @@
+{
+  "name": "idea-research-dino-x",
+  "description": "Empower LLMs with fine-grained visual understanding — detect, localize, and describe anything in images with natural language prompts.",
+  "source_repo": "idea-research/dino-x-mcp",
+  "source_url": "https://github.com/idea-research/dino-x-mcp",
+  "install": "npx -y dino-x-mcp"
+}

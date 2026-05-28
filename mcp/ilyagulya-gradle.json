@@ -1,0 +1,7 @@
+{
+  "name": "ilyagulya-gradle",
+  "description": "Enables interaction with Gradle projects for retrieving metadata and executing tasks remotely via the Gradle Tooling API with stdio and SSE transport support",
+  "source_repo": "ilyagulya/gradle-mcp-server",
+  "source_url": "https://github.com/ilyagulya/gradle-mcp-server",
+  "install": "npx -y gradle-mcp-server"
+}

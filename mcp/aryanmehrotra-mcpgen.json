@@ -1,0 +1,7 @@
+{
+  "name": "aryanmehrotra-mcpgen",
+  "description": "Converts OpenAPI/Swagger specs into MCP servers at runtime without code generation.",
+  "source_repo": "aryanmehrotra/mcpgen",
+  "source_url": "https://github.com/aryanmehrotra/mcpgen",
+  "install": "# git clone --depth 1 https://github.com/aryanmehrotra/mcpgen\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gabriel-paulos-twilio",
+  "description": "Integrates with Twilio to enable sending SMS messages and retrieving message logs through a FastMCP framework with phone validation and authentication.",
+  "source_repo": "gabriel-paulos/twilio-mcp-python",
+  "source_url": "https://github.com/gabriel-paulos/twilio-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/gabriel-paulos/twilio-mcp-python\n# See source for mcpServers config block"
+}

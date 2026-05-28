@@ -1,0 +1,7 @@
+{
+  "name": "cognitive-stack-search-stock-news",
+  "description": "Provides a specialized tool for retrieving stock-related news using the Tavily API, enabling financial searches by stock symbol and company name with configurable parameters for Vietnamese financial sources like CafeF and Nguoi Quan Sat.",
+  "source_repo": "cognitive-stack/search-stock-news-mcp",
+  "source_url": "https://github.com/cognitive-stack/search-stock-news-mcp",
+  "install": "npx -y search-stock-news-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "davidan90-time-node-mcp",
+  "description": "Timezone-aware date and time operations with support for IANA timezones, timezone conversion, and Daylight Saving Time handling.",
+  "source_repo": "davidan90/time-node-mcp",
+  "source_url": "https://github.com/davidan90/time-node-mcp",
+  "install": "npx -y time-node-mcp"
+}

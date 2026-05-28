@@ -1,0 +1,7 @@
+{
+  "name": "zhangyh0426-pulse-agent",
+  "description": "Interrupt-aware MCP sidecar server that notifies coding agents of task, guidance, or constraint changes mid-execution.",
+  "source_repo": "zhangyh0426/pulseagent",
+  "source_url": "https://github.com/zhangyh0426/pulseagent",
+  "install": "# git clone --depth 1 https://github.com/zhangyh0426/pulseagent\n# See source for mcpServers config block"
+}

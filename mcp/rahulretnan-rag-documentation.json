@@ -1,0 +1,7 @@
+{
+  "name": "rahulretnan-rag-documentation",
+  "description": "Integrates Qdrant vector search with documentation retrieval to enable context-aware responses and semantic querying for enhanced knowledge access.",
+  "source_repo": "rahulretnan/mcp-ragdocs",
+  "source_url": "https://github.com/rahulretnan/mcp-ragdocs",
+  "install": "# git clone --depth 1 https://github.com/rahulretnan/mcp-ragdocs\n# See source for mcpServers config block"
+}

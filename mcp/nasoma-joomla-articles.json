@@ -1,0 +1,7 @@
+{
+  "name": "nasoma-joomla-articles",
+  "description": "Enables AI to create, update, and manage Joomla website articles through specialized tools for retrieving content, converting markdown to HTML, and controlling publication states via the Joomla Web Services API.",
+  "source_repo": "nasoma/joomla-mcp-server",
+  "source_url": "https://github.com/nasoma/joomla-mcp-server",
+  "install": "npx -y joomla-mcp-server"
+}

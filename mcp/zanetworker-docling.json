@@ -1,0 +1,7 @@
+{
+  "name": "zanetworker-docling",
+  "description": "Integrates with the Docling library to provide document processing capabilities, including conversion to markdown, table extraction, and image handling with OCR support, enabling efficient analysis of structured and unstructured data from various document formats.",
+  "source_repo": "zanetworker/mcp-docling",
+  "source_url": "https://github.com/zanetworker/mcp-docling",
+  "install": "# git clone --depth 1 https://github.com/zanetworker/mcp-docling\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lucidity-mcp",
+  "description": "Lucidity Mcp MCP server listed on mcp.so.",
+  "source_repo": "hyperb1iss/lucidity-mcp",
+  "source_url": "https://mcp.so/server/lucidity-mcp/hyperb1iss",
+  "install": "npx -y lucidity-mcp"
+}

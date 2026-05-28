@@ -1,0 +1,7 @@
+{
+  "name": "priyankark-lighthouse",
+  "description": "Use Google's lighthouse tool to measure perf metrics for your webpage. You can then run an agentic loop and get the assistants to optimize those metrics.",
+  "source_repo": "priyankark/lighthouse-mcp",
+  "source_url": "https://github.com/priyankark/lighthouse-mcp",
+  "install": "npx -y lighthouse-mcp"
+}

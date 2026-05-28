@@ -1,0 +1,7 @@
+{
+  "name": "lipdog-excel-master",
+  "description": "Integrates with Excel using XLwings to enable automated data manipulation, analysis, and reporting for business workflows.",
+  "source_repo": "lipdog/excel-master-mcp",
+  "source_url": "https://github.com/lipdog/excel-master-mcp",
+  "install": "npx -y excel-master-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-travelpayouts",
+  "description": "Integrates with Travelpayouts API for flight search, popular routes, and price calendar data.",
+  "source_repo": "theyahia/travelpayouts-mcp",
+  "source_url": "https://github.com/theyahia/travelpayouts-mcp",
+  "install": "npx -y travelpayouts-mcp"
+}

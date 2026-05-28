@@ -1,0 +1,7 @@
+{
+  "name": "refinist-lanhu-context",
+  "description": "Converts Lanhu design files into HTML/CSS with Tailwind classes and design token specifications.",
+  "source_repo": "refinist/lanhu-context-mcp",
+  "source_url": "https://github.com/refinist/lanhu-context-mcp",
+  "install": "npx -y lanhu-context-mcp"
+}

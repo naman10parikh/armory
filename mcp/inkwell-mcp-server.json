@@ -1,0 +1,7 @@
+{
+  "name": "inkwell-mcp-server",
+  "description": "Enables AI agents to publish and manage content on Inkwell sites via 12 tools, including inbox publishing, content management, and site configuration.",
+  "source_repo": "Mumega-com/inkwell",
+  "source_url": "https://github.com/Mumega-com/inkwell",
+  "install": "# git clone --depth 1 https://github.com/Mumega-com/inkwell\n# See source for mcpServers config block"
+}

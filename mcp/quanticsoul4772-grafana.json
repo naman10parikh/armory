@@ -1,0 +1,7 @@
+{
+  "name": "quanticsoul4772-grafana",
+  "description": "Integrates with Grafana instances to provide dashboard management, data source operations, Prometheus/Loki querying, alerting configuration, and administrative tasks through 70+ organized tools for DevOps teams and SRE engineers.",
+  "source_repo": "quanticsoul4772/grafana-mcp",
+  "source_url": "https://github.com/quanticsoul4772/grafana-mcp",
+  "install": "npx -y grafana-mcp"
+}

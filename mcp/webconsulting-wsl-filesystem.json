@@ -1,0 +1,7 @@
+{
+  "name": "webconsulting-wsl-filesystem",
+  "description": "Provides a bridge between Windows and Linux environments by enabling access to WSL filesystem operations, allowing seamless reading, writing, editing, and management of files within WSL distributions directly from Windows.",
+  "source_repo": "webconsulting/mcp-server-wsl-filesystem",
+  "source_url": "https://github.com/webconsulting/mcp-server-wsl-filesystem",
+  "install": "# git clone --depth 1 https://github.com/webconsulting/mcp-server-wsl-filesystem\n# See source for mcpServers config block"
+}

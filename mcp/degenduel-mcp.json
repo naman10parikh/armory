@@ -1,0 +1,7 @@
+{
+  "name": "degenduel-mcp",
+  "description": "Degenduel Mcp MCP server listed on mcp.so.",
+  "source_repo": "BranchManager69/degenduel-mcp",
+  "source_url": "https://mcp.so/server/degenduel-mcp/BranchManager69",
+  "install": "npx -y degenduel-mcp"
+}

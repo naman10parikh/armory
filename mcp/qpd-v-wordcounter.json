@@ -1,0 +1,7 @@
+{
+  "name": "qpd-v-wordcounter",
+  "description": "Analyze text documents, including counting words and characters, through Node.js.",
+  "source_repo": "qpd-v/mcp-wordcounter",
+  "source_url": "https://github.com/qpd-v/mcp-wordcounter",
+  "install": "# git clone --depth 1 https://github.com/qpd-v/mcp-wordcounter\n# See source for mcpServers config block"
+}

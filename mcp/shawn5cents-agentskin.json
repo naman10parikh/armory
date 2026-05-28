@@ -1,0 +1,7 @@
+{
+  "name": "shawn5cents-agentskin",
+  "description": "Prunes noisy API and web data into token-efficient semantic shorthand for AI agent consumption.",
+  "source_repo": "shawn5cents/agentskin",
+  "source_url": "https://github.com/shawn5cents/agentskin",
+  "install": "# git clone --depth 1 https://github.com/shawn5cents/agentskin\n# See source for mcpServers config block"
+}

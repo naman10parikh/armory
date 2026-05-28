@@ -1,0 +1,7 @@
+{
+  "name": "1ly-store",
+  "description": "API marketplace for AI agents to discover, buy, sell, and monetize APIs with automatic USDC crypto payments.",
+  "source_repo": "1lystore/1ly-mcp-server",
+  "source_url": "https://github.com/1lystore/1ly-mcp-server",
+  "install": "npx -y 1ly-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aptro-superset",
+  "description": "Integrates with Apache Superset to enable data visualization, SQL query execution, dashboard management, and analytics workflows through authenticated API calls without leaving your conversational interface.",
+  "source_repo": "aptro/superset-mcp",
+  "source_url": "https://github.com/aptro/superset-mcp",
+  "install": "npx -y superset-mcp"
+}

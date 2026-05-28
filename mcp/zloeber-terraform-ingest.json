@@ -1,0 +1,7 @@
+{
+  "name": "zloeber-terraform-ingest",
+  "description": "Ingest and analyze Terraform modules from multiple repositories for AI RAG systems",
+  "source_repo": "zloeber/terraform-ingest",
+  "source_url": "https://github.com/zloeber/terraform-ingest",
+  "install": "# git clone --depth 1 https://github.com/zloeber/terraform-ingest\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aplaceforallmystuff-arr-media-suite",
+  "description": "Unified control over Sonarr, Radarr, Lidarr, Readarr, and Prowlarr through automatic service detection with tools for library management, content searching, download monitoring, and calendar viewing",
+  "source_repo": "aplaceforallmystuff/mcp-arr",
+  "source_url": "https://github.com/aplaceforallmystuff/mcp-arr",
+  "install": "# git clone --depth 1 https://github.com/aplaceforallmystuff/mcp-arr\n# See source for mcpServers config block"
+}

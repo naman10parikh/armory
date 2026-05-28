@@ -1,0 +1,7 @@
+{
+  "name": "nikhil-patil-ri-github-oauth",
+  "description": "Integrates with GitHub's OAuth system to enable secure access and management of repositories, issues, and code for automated development workflows and analysis.",
+  "source_repo": "nikhil-patil-ri/mcp-github-oauth",
+  "source_url": "https://github.com/nikhil-patil-ri/mcp-github-oauth",
+  "install": "# git clone --depth 1 https://github.com/nikhil-patil-ri/mcp-github-oauth\n# See source for mcpServers config block"
+}

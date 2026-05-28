@@ -1,0 +1,7 @@
+{
+  "name": "tponscr-debug-oracle-h-mcp",
+  "description": "Mandatory human approval gate for autonomous AI agents. Intercepts critical, irreversible, or financially significant actions and routes them to a human via Telegram for real-time approve/reject. Raises workflow success probability from 81.5% to 99.6%.",
+  "source_repo": "tponscr-debug/oracle-h-mcp",
+  "source_url": "https://github.com/tponscr-debug/oracle-h-mcp",
+  "install": "npx -y oracle-h-mcp"
+}

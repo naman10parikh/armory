@@ -1,0 +1,7 @@
+{
+  "name": "codeglance-mcp",
+  "description": "Analyzes GitHub repositories using Gemini AI and generates comprehensive documentation including overviews, architecture guides, and file insights. Works with any MCP-compatible client.",
+  "source_repo": "lucidopus/codeglance-mcp",
+  "source_url": "https://github.com/lucidopus/codeglance-mcp",
+  "install": "npx -y codeglance-mcp"
+}

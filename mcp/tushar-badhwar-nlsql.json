@@ -1,0 +1,7 @@
+{
+  "name": "tushar-badhwar-nlsql",
+  "description": "Node.js wrapper that converts natural language queries into SQL operations for SQLite, PostgreSQL, and MySQL databases using OpenAI and CrewAI multi-agent systems with schema analysis, query validation, and safe execution limits.",
+  "source_repo": "tushar-badhwar/nlsql-mcp-server-npm",
+  "source_url": "https://github.com/tushar-badhwar/nlsql-mcp-server-npm",
+  "install": "# git clone --depth 1 https://github.com/tushar-badhwar/nlsql-mcp-server-npm\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dameng-mcp-server",
+  "description": "MCP server for DaMeng database, enabling AI assistants to execute SQL queries, list tables, describe table structures, and retrieve schema information.",
+  "source_repo": "zqeast/dameng-mcp-server",
+  "source_url": "https://github.com/zqeast/dameng-mcp-server",
+  "install": "npx -y dameng-mcp-server"
+}

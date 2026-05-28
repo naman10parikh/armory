@@ -1,0 +1,7 @@
+{
+  "name": "carlospalacin-spartan-ng",
+  "description": "Access Spartan Angular UI component APIs, documentation, and installation commands for 56 components and 17 page-level blocks.",
+  "source_repo": "carlospalacin/spartan-ng-mcp",
+  "source_url": "https://github.com/carlospalacin/spartan-ng-mcp",
+  "install": "npx -y spartan-ng-mcp"
+}

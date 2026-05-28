@@ -1,0 +1,7 @@
+{
+  "name": "devhub-cms",
+  "description": "Manage and utilize content within DevHub CMS (blog posts, hours of operation and other content).",
+  "source_repo": "devhub/devhub-cms-mcp",
+  "source_url": "https://github.com/devhub/devhub-cms-mcp",
+  "install": "npx -y devhub-cms-mcp"
+}

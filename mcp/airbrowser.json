@@ -1,0 +1,7 @@
+{
+  "name": "airbrowser",
+  "description": "Open-source browser automation API with anti-detection for AI agents, web scraping, and automation, providing undetectable Chrome via MCP and REST API with Cloudflare bypass.",
+  "source_repo": "ifokeev/airbrowser-mcp",
+  "source_url": "https://github.com/ifokeev/airbrowser-mcp",
+  "install": "npx -y airbrowser-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fastapi-mcp-sse",
+  "description": "Fastapi_mcp_sse MCP server listed on mcp.so.",
+  "source_repo": "panz2018/fastapi_mcp_sse",
+  "source_url": "https://mcp.so/server/fastapi_mcp_sse/panz2018",
+  "install": "# git clone --depth 1 https://mcp.so/server/fastapi_mcp_sse/panz2018\n# See source for mcpServers config block"
+}

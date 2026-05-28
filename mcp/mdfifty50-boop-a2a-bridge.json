@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-a2a-bridge",
+  "description": "Enables direct communication between AI agents in multi-agent systems over MCP.",
+  "source_repo": "mdfifty50-boop/a2a-bridge-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/a2a-bridge-mcp",
+  "install": "npx -y a2a-bridge-mcp"
+}

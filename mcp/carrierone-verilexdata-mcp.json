@@ -1,0 +1,7 @@
+{
+  "name": "carrierone-verilexdata-mcp",
+  "description": "20 structured datasets (NPI healthcare, SEC filings, OFAC sanctions, crypto whales, Polymarket signals, patents, economic indicators) via x402 pay-per-query with USDC. Free stats/sample endpoints, MCP + HTTP transport.",
+  "source_repo": "carrierone/verilexdata-mcp",
+  "source_url": "https://github.com/carrierone/verilexdata-mcp",
+  "install": "npx -y verilexdata-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neuralrays-codexray",
+  "description": "Semantic knowledge graph that indexes codebases into a local SQLite graph database for dead code detection, impact analysis, hotspot identification, and complexity reporting.",
+  "source_repo": "neuralrays/codexray",
+  "source_url": "https://github.com/neuralrays/codexray",
+  "install": "# git clone --depth 1 https://github.com/neuralrays/codexray\n# See source for mcpServers config block"
+}

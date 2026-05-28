@@ -1,0 +1,7 @@
+{
+  "name": "gsepcore-gsep",
+  "description": "AI agent security server with firewall, immune system, and action guard layers.",
+  "source_repo": "gsepcore/gsep-mcp",
+  "source_url": "https://github.com/gsepcore/gsep-mcp",
+  "install": "npx -y gsep-mcp"
+}

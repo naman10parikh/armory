@@ -1,0 +1,7 @@
+{
+  "name": "leadlord-local-trades",
+  "description": "Australian local trade lead generation with exclusive territory assignments and AI-qualified referrals via per-site MCP endpoints.",
+  "source_repo": "iambenslater/leadlord",
+  "source_url": "https://github.com/iambenslater/leadlord",
+  "install": "# git clone --depth 1 https://github.com/iambenslater/leadlord\n# See source for mcpServers config block"
+}

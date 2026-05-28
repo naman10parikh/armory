@@ -1,0 +1,7 @@
+{
+  "name": "treesoop-ai-news",
+  "description": "AI and technology news aggregation from multiple sources with filtering tools.",
+  "source_repo": "treesoop/ai-news-mcp",
+  "source_url": "https://github.com/treesoop/ai-news-mcp",
+  "install": "npx -y ai-news-mcp"
+}

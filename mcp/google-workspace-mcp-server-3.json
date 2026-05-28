@@ -1,0 +1,7 @@
+{
+  "name": "google-workspace-mcp-server-3",
+  "description": "MCP server for Google Workspace APIs - Docs, Sheets, Drive, Gmail, and Calendar. Enables reading, creating, and editing Google Docs and Sheets, managing comments, reading emails, and viewing calendar events.",
+  "source_repo": "EveryInc/google-workspace-mcp-server",
+  "source_url": "https://github.com/EveryInc/google-workspace-mcp-server",
+  "install": "npx -y google-workspace-mcp-server"
+}

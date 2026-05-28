@@ -1,0 +1,7 @@
+{
+  "name": "whiter001-pueue",
+  "description": "Integrates with the Pueue task queue daemon to manage long-running shell commands through queuing, scheduling, group-based parallel execution, and task dependencies.",
+  "source_repo": "whiter001/pueue-mcp-v",
+  "source_url": "https://github.com/whiter001/pueue-mcp-v",
+  "install": "# git clone --depth 1 https://github.com/whiter001/pueue-mcp-v\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sequenzy",
+  "description": "Manage subscribers, campaigns, sequences, templates, and analytics for email marketing automation.",
+  "source_repo": "sequenzy/mcp",
+  "source_url": "https://github.com/sequenzy/mcp",
+  "install": "# git clone --depth 1 https://github.com/sequenzy/mcp\n# See source for mcpServers config block"
+}

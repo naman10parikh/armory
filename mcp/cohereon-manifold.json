@@ -1,0 +1,7 @@
+{
+  "name": "cohereon-manifold",
+  "description": "Provides access to the Cohereon Doctrine AI safety framework with governance components, tiered access, and agent onboarding.",
+  "source_repo": "imperiumcore/manifold",
+  "source_url": "https://github.com/imperiumcore/manifold",
+  "install": "# git clone --depth 1 https://github.com/imperiumcore/manifold\n# See source for mcpServers config block"
+}

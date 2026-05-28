@@ -1,0 +1,7 @@
+{
+  "name": "birdsmith-gauntlet-incept",
+  "description": "Integrates with QTI services and LLMs to generate personalized educational content tailored to students' knowledge levels and interests, streamlining the creation of adaptive learning materials.",
+  "source_repo": "birdsmith/gauntlet-incept-mcp",
+  "source_url": "https://github.com/birdsmith/gauntlet-incept-mcp",
+  "install": "npx -y gauntlet-incept-mcp"
+}

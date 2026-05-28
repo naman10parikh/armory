@@ -1,0 +1,7 @@
+{
+  "name": "javaprogrammerlb-zoom",
+  "description": "Enables AI to create and manage Zoom meetings with customizable settings through server-to-server OAuth authentication with the Zoom API.",
+  "source_repo": "javaprogrammerlb/zoom-mcp-server",
+  "source_url": "https://github.com/javaprogrammerlb/zoom-mcp-server",
+  "install": "npx -y zoom-mcp-server"
+}

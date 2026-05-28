@@ -1,0 +1,7 @@
+{
+  "name": "montanetech-codeix",
+  "description": "Fast semantic code search for AI agents.",
+  "source_repo": "montanetech/codeix",
+  "source_url": "https://github.com/montanetech/codeix",
+  "install": "# git clone --depth 1 https://github.com/montanetech/codeix\n# See source for mcpServers config block"
+}

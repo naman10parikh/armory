@@ -1,0 +1,7 @@
+{
+  "name": "lionkiii-google-searchconsole-mcp",
+  "description": "Google Search Console MCP server with 13 SEO tools — search analytics, URL inspection, sitemap management, keyword opportunities, brand analysis, and performance comparison.",
+  "source_repo": "lionkiii/google-searchconsole-mcp",
+  "source_url": "https://github.com/lionkiii/google-searchconsole-mcp",
+  "install": "npx -y google-searchconsole-mcp"
+}

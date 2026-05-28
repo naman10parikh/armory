@@ -1,0 +1,7 @@
+{
+  "name": "digilac-simap",
+  "description": "Access Swiss public procurement data from SIMAP.ch for tender search and analysis.",
+  "source_repo": "digilac/simap-mcp",
+  "source_url": "https://github.com/digilac/simap-mcp",
+  "install": "npx -y simap-mcp"
+}

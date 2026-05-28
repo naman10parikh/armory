@@ -1,0 +1,7 @@
+{
+  "name": "gh-xfn-jjw-shared-mcp-gateway",
+  "description": "HTTP gateway that aggregates multiple MCP servers into a single endpoint with circuit breaking and health monitoring.",
+  "source_repo": "xfn-jjw/shared-mcp-gateway",
+  "source_url": "https://github.com/xfn-jjw/shared-mcp-gateway",
+  "install": "# git clone --depth 1 https://github.com/xfn-jjw/shared-mcp-gateway\n# See source for mcpServers config block"
+}

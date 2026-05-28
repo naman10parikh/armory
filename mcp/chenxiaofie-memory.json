@@ -1,0 +1,7 @@
+{
+  "name": "chenxiaofie-memory",
+  "description": "情景+实体记忆 MCP 服务，为 Claude Code 提供持久化记忆能力",
+  "source_repo": "chenxiaofie/memory-mcp",
+  "source_url": "https://github.com/chenxiaofie/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

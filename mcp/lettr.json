@@ -1,0 +1,7 @@
+{
+  "name": "lettr",
+  "description": "Sends transactional emails, manages templates, configures domains, and monitors webhooks via the Lettr API.",
+  "source_repo": "lettr-com/lettr-mcp",
+  "source_url": "https://github.com/lettr-com/lettr-mcp",
+  "install": "npx -y lettr-mcp"
+}

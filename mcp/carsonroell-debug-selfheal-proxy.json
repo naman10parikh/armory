@@ -1,0 +1,7 @@
+{
+  "name": "carsonroell-debug-selfheal-proxy",
+  "description": "Self-healing proxy for MCP servers with automatic retry, circuit breaker protection, and call observability.",
+  "source_repo": "carsonroell-debug/selfheal-mcp",
+  "source_url": "https://github.com/carsonroell-debug/selfheal-mcp",
+  "install": "npx -y selfheal-mcp"
+}

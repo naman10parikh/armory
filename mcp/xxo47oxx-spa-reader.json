@@ -1,0 +1,7 @@
+{
+  "name": "xxo47oxx-spa-reader",
+  "description": "Renders JavaScript single-page application pages via headless Chromium and extracts clean, LLM-ready Markdown content.",
+  "source_repo": "xxo47oxx/spa-reader-mcp",
+  "source_url": "https://github.com/xxo47oxx/spa-reader-mcp",
+  "install": "npx -y spa-reader-mcp"
+}

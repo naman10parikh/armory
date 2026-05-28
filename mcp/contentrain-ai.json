@@ -1,0 +1,7 @@
+{
+  "name": "contentrain-ai",
+  "description": "Local-first MCP server for AI content governance — 13 tools for model/content CRUD, validation, normalization, and i18n across any framework.",
+  "source_repo": "Contentrain/ai",
+  "source_url": "https://github.com/Contentrain/ai",
+  "install": "# git clone --depth 1 https://github.com/Contentrain/ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apple-reminders-mcp-server",
+  "description": "Enables AI assistants to manage Apple Reminders lists and reminders on macOS, including creating, updating, completing, and deleting reminders.",
+  "source_repo": "leawn/apple_reminders_mcp",
+  "source_url": "https://github.com/leawn/apple_reminders_mcp",
+  "install": "npx -y apple_reminders_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hypersniper05-jina-web-search",
+  "description": "Provides web crawling and search capabilities through Jina AI's API with URL content extraction and semantic web search optimized for research workflows and content analysis.",
+  "source_repo": "hypersniper05/jinawebsearchmcp",
+  "source_url": "https://github.com/hypersniper05/jinawebsearchmcp",
+  "install": "# git clone --depth 1 https://github.com/hypersniper05/jinawebsearchmcp\n# See source for mcpServers config block"
+}

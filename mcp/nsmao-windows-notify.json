@@ -1,0 +1,7 @@
+{
+  "name": "nsmao-windows-notify",
+  "description": "Displays Windows toast notifications using the node-notifier library.",
+  "source_repo": "nsmao-com/windows-notify-mcp-tool",
+  "source_url": "https://github.com/nsmao-com/windows-notify-mcp-tool",
+  "install": "# git clone --depth 1 https://github.com/nsmao-com/windows-notify-mcp-tool\n# See source for mcpServers config block"
+}

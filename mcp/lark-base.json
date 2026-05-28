@@ -1,0 +1,7 @@
+{
+  "name": "lark-base",
+  "description": "Integrates with Lark Base (formerly Feishu Bitable) to enable data retrieval, field management, and table manipulation across collaborative spreadsheets and databases using app tokens and personal base tokens for authentication.",
+  "source_repo": "lark-base-team/lark-base-mcp-node-server",
+  "source_url": "https://github.com/lark-base-team/lark-base-mcp-node-server",
+  "install": "# git clone --depth 1 https://github.com/lark-base-team/lark-base-mcp-node-server\n# See source for mcpServers config block"
+}

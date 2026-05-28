@@ -1,0 +1,7 @@
+{
+  "name": "apurwa-google-docs-sheets",
+  "description": "Self-hosted Google Docs and Sheets integration with 28 tools for document creation, editing, styling, and collaboration.",
+  "source_repo": "apurwa/gdocs-mcp",
+  "source_url": "https://github.com/apurwa/gdocs-mcp",
+  "install": "npx -y gdocs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "open-talent-protocol",
+  "description": "Validate, parse, and introspect talent profiles and job postings using OTP and OJP open standards.",
+  "source_repo": "neogene-ai/otp-ojp-mcp-server",
+  "source_url": "https://github.com/neogene-ai/otp-ojp-mcp-server",
+  "install": "npx -y otp-ojp-mcp-server"
+}

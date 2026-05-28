@@ -1,0 +1,7 @@
+{
+  "name": "fiberflow-mcp-gateway",
+  "description": "Fiberflow Mcp Gateway MCP server listed on mcp.so.",
+  "source_repo": "derbenoo/fiberflow-mcp-gateway",
+  "source_url": "https://mcp.so/server/fiberflow-mcp-gateway/derbenoo",
+  "install": "# git clone --depth 1 https://mcp.so/server/fiberflow-mcp-gateway/derbenoo\n# See source for mcpServers config block"
+}

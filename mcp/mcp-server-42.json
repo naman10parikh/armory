@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-42",
+  "description": "Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "qingtianyu/mcp-server",
+  "source_url": "https://mcp.so/server/mcp-server/qingtianyu",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server/qingtianyu\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "globalsearchdata-enrich",
+  "description": "Domain enrichment for AI agents: company name, country, contact emails, phone numbers, and social profiles.",
+  "source_repo": "globalsearchdata/enrich-mcp-plugin",
+  "source_url": "https://github.com/globalsearchdata/enrich-mcp-plugin",
+  "install": "# git clone --depth 1 https://github.com/globalsearchdata/enrich-mcp-plugin\n# See source for mcpServers config block"
+}

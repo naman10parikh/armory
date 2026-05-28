@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: []
-tags: [ecc, mcp, mcp-server]
+tags: [mcp, mcp-server]
 ---
 ## What it is
 MCP server — Confluence Cloud integration — search pages, retrieve content, explore spaces.

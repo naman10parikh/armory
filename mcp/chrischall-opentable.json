@@ -1,0 +1,7 @@
+{
+  "name": "chrischall-opentable",
+  "description": "Find available reservation slots, book, cancel, and manage OpenTable reservations and favorites.",
+  "source_repo": "chrischall/opentable-mcp",
+  "source_url": "https://github.com/chrischall/opentable-mcp",
+  "install": "npx -y opentable-mcp"
+}

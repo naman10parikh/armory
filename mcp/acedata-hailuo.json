@@ -1,0 +1,7 @@
+{
+  "name": "acedata-hailuo",
+  "description": "AI video generation through the Hailuo (MiniMax) model on the AceDataCloud platform.",
+  "source_repo": "acedatacloud/hailuomcp",
+  "source_url": "https://github.com/acedatacloud/hailuomcp",
+  "install": "# git clone --depth 1 https://github.com/acedatacloud/hailuomcp\n# See source for mcpServers config block"
+}

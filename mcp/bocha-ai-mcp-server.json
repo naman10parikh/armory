@@ -1,0 +1,7 @@
+{
+  "name": "bocha-ai-mcp-server",
+  "description": "Bocha Ai Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "yoko19191/bocha-ai-mcp-server",
+  "source_url": "https://mcp.so/server/bocha-ai-mcp-server/yoko19191",
+  "install": "npx -y bocha-ai-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paralelo",
+  "description": "Business workflow automation platform enabling AI agents to manage processes and data operations.",
+  "source_repo": "",
+  "source_url": "https://paralelo.bo",
+  "install": "# git clone --depth 1 https://paralelo.bo\n# See source for mcpServers config block"
+}

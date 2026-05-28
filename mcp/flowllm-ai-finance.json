@@ -1,0 +1,7 @@
+{
+  "name": "flowllm-ai-finance",
+  "description": "Orchestrates multi-step financial research workflows by combining web search, data scraping, and market APIs to automatically extract security codes from natural language queries and generate comprehensive investment analysis reports.",
+  "source_repo": "flowllm-ai/finance-mcp",
+  "source_url": "https://github.com/flowllm-ai/finance-mcp",
+  "install": "npx -y finance-mcp"
+}

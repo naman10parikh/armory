@@ -1,0 +1,7 @@
+{
+  "name": "coatsnmore-hubitat-elevation",
+  "description": "Connects to Hubitat Elevation home automation hubs via Maker API for device inspection, control, event history, and command execution on local networks.",
+  "source_repo": "coatsnmore/hubitat-mcp",
+  "source_url": "https://github.com/coatsnmore/hubitat-mcp",
+  "install": "npx -y hubitat-mcp"
+}

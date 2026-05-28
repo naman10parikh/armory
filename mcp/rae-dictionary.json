@@ -1,0 +1,7 @@
+{
+  "name": "rae-dictionary",
+  "description": "Integrates with the Royal Spanish Academy (RAE) dictionary to provide authoritative Spanish word definitions, daily vocabulary features, and random word discovery with length filtering for language learning and linguistic research.",
+  "source_repo": "rae-api-com/rae-mcp",
+  "source_url": "https://github.com/rae-api-com/rae-mcp",
+  "install": "npx -y rae-mcp"
+}

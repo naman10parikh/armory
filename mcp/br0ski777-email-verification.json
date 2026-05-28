@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-email-verification",
+  "description": "Verify email addresses: syntax, MX records, disposable detection, and a 0–100 quality score.",
+  "source_repo": "br0ski777/email-verification-x402",
+  "source_url": "https://github.com/br0ski777/email-verification-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/email-verification-x402\n# See source for mcpServers config block"
+}

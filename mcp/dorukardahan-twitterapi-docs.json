@@ -1,0 +1,7 @@
+{
+  "name": "dorukardahan-twitterapi-docs",
+  "description": "Offline access to TwitterAPI.io API documentation with fuzzy search across 54 endpoints, guides, and pricing details",
+  "source_repo": "dorukardahan/twitterapi-io-mcp",
+  "source_url": "https://github.com/dorukardahan/twitterapi-io-mcp",
+  "install": "npx -y twitterapi-io-mcp"
+}

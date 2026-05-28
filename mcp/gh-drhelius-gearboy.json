@@ -1,0 +1,7 @@
+{
+  "name": "gh-drhelius-gearboy",
+  "description": "Game Boy and Game Boy Color emulator with embedded MCP server for AI-assisted debugging and development.",
+  "source_repo": "drhelius/gearboy",
+  "source_url": "https://github.com/drhelius/gearboy",
+  "install": "# git clone --depth 1 https://github.com/drhelius/gearboy\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "611711dark-sympy-calculator",
+  "description": "Provides symbolic mathematics capabilities through a Python-based server that leverages SymPy for complex calculations, equation solving, and mathematical manipulation.",
+  "source_repo": "611711dark/mcp_calculate_server",
+  "source_url": "https://github.com/611711dark/mcp_calculate_server",
+  "install": "# git clone --depth 1 https://github.com/611711dark/mcp_calculate_server\n# See source for mcpServers config block"
+}

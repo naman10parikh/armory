@@ -1,0 +1,7 @@
+{
+  "name": "calculator-mcp-server-2",
+  "description": "A calculator MCP server that lets any LLM verify mathematical computations. Evaluate, simplify, and differentiate expressions via a single tool. Powered by math.js v15.",
+  "source_repo": "cyanheads/calculator-mcp-server",
+  "source_url": "https://github.com/cyanheads/calculator-mcp-server",
+  "install": "npx -y calculator-mcp-server"
+}

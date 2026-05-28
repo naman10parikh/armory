@@ -1,0 +1,7 @@
+{
+  "name": "pymupdf4llm-mcp",
+  "description": "MCP server for exporting PDF to markdown, optimized for LLM consumption.",
+  "source_repo": "pymupdf/pymupdf4llm-mcp",
+  "source_url": "https://github.com/pymupdf/pymupdf4llm-mcp",
+  "install": "npx -y pymupdf4llm-mcp"
+}

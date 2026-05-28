@@ -1,0 +1,7 @@
+{
+  "name": "mrseanchow-cowsay",
+  "description": "Generates ASCII art speech and thought bubbles using the cowsay library with 9 character variants including tux, dragon, elephant, and skeleton for adding whimsical text formatting to conversations.",
+  "source_repo": "mrseanchow/cowsay-mcp",
+  "source_url": "https://github.com/mrseanchow/cowsay-mcp",
+  "install": "npx -y cowsay-mcp"
+}

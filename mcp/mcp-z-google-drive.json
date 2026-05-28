@@ -1,0 +1,7 @@
+{
+  "name": "mcp-z-google-drive",
+  "description": "Integrates with Google Drive for file operations, folder navigation, search, and sharing.",
+  "source_repo": "mcp-z/mcp-drive",
+  "source_url": "https://github.com/mcp-z/mcp-drive",
+  "install": "# git clone --depth 1 https://github.com/mcp-z/mcp-drive\n# See source for mcpServers config block"
+}

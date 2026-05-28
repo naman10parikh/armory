@@ -1,0 +1,7 @@
+{
+  "name": "oktopeak-mycase",
+  "description": "Connect to MyCase for case management, document storage, billing, contacts, calendar, and time entry data.",
+  "source_repo": "oktopeak/mycase-mcp",
+  "source_url": "https://github.com/oktopeak/mycase-mcp",
+  "install": "npx -y mycase-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alexanderclapp-clirank",
+  "description": "Connects AI agents to CLIRank's directory of 210+ APIs ranked by CLI relevance for discovery, comparison, and documentation retrieval.",
+  "source_repo": "alexanderclapp/clirank-mcp-server",
+  "source_url": "https://github.com/alexanderclapp/clirank-mcp-server",
+  "install": "npx -y clirank-mcp-server"
+}

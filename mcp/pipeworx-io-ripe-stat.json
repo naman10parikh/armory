@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-ripe-stat",
+  "description": "RIPE Stat IP address, ASN, and BGP routing data for internet infrastructure analysis via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-ripe-stat",
+  "source_url": "https://github.com/pipeworx-io/mcp-ripe-stat",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-ripe-stat\n# See source for mcpServers config block"
+}

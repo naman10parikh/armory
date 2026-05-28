@@ -1,0 +1,7 @@
+{
+  "name": "bbb-build-mascope",
+  "description": "Queries World MiniApp reviews and analytics with verified human ratings via World ID.",
+  "source_repo": "bbb-build/mascope-mcp",
+  "source_url": "https://github.com/bbb-build/mascope-mcp",
+  "install": "npx -y mascope-mcp"
+}

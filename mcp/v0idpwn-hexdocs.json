@@ -1,0 +1,7 @@
+{
+  "name": "v0idpwn-hexdocs",
+  "description": "Enables AI systems to search and retrieve Elixir documentation from HexDocs across multiple packages with formatted results including titles, references, types, and content.",
+  "source_repo": "v0idpwn/hexdocs-mcp",
+  "source_url": "https://github.com/v0idpwn/hexdocs-mcp",
+  "install": "npx -y hexdocs-mcp"
+}

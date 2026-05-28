@@ -1,0 +1,7 @@
+{
+  "name": "doronaviguy-ethereum-address-monitor",
+  "description": "Provides real-time Ethereum address monitoring across multiple blockchain networks using Server-Sent Events, enabling continuous tracking of on-chain activity without polling for DeFi dashboards, wallet applications, and analytics tools.",
+  "source_repo": "doronaviguy/mpc-0x",
+  "source_url": "https://github.com/doronaviguy/mpc-0x",
+  "install": "# git clone --depth 1 https://github.com/doronaviguy/mpc-0x\n# See source for mcpServers config block"
+}

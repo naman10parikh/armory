@@ -1,0 +1,7 @@
+{
+  "name": "sepinetam-latex",
+  "description": "Compile TeX files with LaTeX inside a Docker container.",
+  "source_repo": "sepinetam/latex-mcp",
+  "source_url": "https://github.com/sepinetam/latex-mcp",
+  "install": "npx -y latex-mcp"
+}

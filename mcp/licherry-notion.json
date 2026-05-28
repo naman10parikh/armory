@@ -1,0 +1,7 @@
+{
+  "name": "licherry-notion",
+  "description": "MCP server for the Notion API with 17 tools for CRUD operations on pages, databases, blocks, and comments with token optimization.",
+  "source_repo": "licherry1000-eng/mcp-notion1000-server",
+  "source_url": "https://github.com/licherry1000-eng/mcp-notion1000-server",
+  "install": "# git clone --depth 1 https://github.com/licherry1000-eng/mcp-notion1000-server\n# See source for mcpServers config block"
+}

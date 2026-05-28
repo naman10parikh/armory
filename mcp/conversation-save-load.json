@@ -1,0 +1,7 @@
+{
+  "name": "conversation-save-load",
+  "description": "Provides persistent conversation storage through local file system operations with save and load tools for maintaining dialogue context across sessions.",
+  "source_repo": "nullmastermind/mcp-conversation-save-load",
+  "source_url": "https://github.com/nullmastermind/mcp-conversation-save-load",
+  "install": "# git clone --depth 1 https://github.com/nullmastermind/mcp-conversation-save-load\n# See source for mcpServers config block"
+}

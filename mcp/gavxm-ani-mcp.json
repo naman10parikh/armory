@@ -1,0 +1,7 @@
+{
+  "name": "gavxm-ani-mcp",
+  "description": "MCP server for AniList with taste-aware recommendations, watch analytics, social tools, and full list management.",
+  "source_repo": "gavxm/ani-mcp",
+  "source_url": "https://github.com/gavxm/ani-mcp",
+  "install": "npx -y ani-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cdata-jdbc-database-bridge",
+  "description": "Provides a generic bridge to any JDBC-compatible data source, enabling natural language querying of databases through table discovery, schema inspection, and SQL execution with CSV-formatted results.",
+  "source_repo": "cdatasoftware/linkedin-ads-mcp-server-by-cdata",
+  "source_url": "https://github.com/cdatasoftware/linkedin-ads-mcp-server-by-cdata",
+  "install": "# git clone --depth 1 https://github.com/cdatasoftware/linkedin-ads-mcp-server-by-cdata\n# See source for mcpServers config block"
+}

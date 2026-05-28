@@ -1,0 +1,7 @@
+{
+  "name": "tsmd-wcag",
+  "description": "Provides structured access to Web Content Accessibility Guidelines (WCAG) documentation, enabling accurate reference to specific accessibility requirements and implementation techniques.",
+  "source_repo": "tsmd/wcag-mcp",
+  "source_url": "https://github.com/tsmd/wcag-mcp",
+  "install": "npx -y wcag-mcp"
+}

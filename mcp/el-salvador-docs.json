@@ -1,0 +1,7 @@
+{
+  "name": "el-salvador-docs",
+  "description": "El Salvador government document search with hybrid semantic and keyword querying.",
+  "source_repo": "",
+  "source_url": "https://mcp.sv",
+  "install": "# git clone --depth 1 https://mcp.sv\n# See source for mcpServers config block"
+}

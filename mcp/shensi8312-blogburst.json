@@ -1,0 +1,7 @@
+{
+  "name": "shensi8312-blogburst",
+  "description": "Autonomous AI social media marketing agent for content generation, auto-pilot publishing, and analytics across 9 platforms.",
+  "source_repo": "shensi8312/blogburst-mcp-server",
+  "source_url": "https://github.com/shensi8312/blogburst-mcp-server",
+  "install": "npx -y blogburst-mcp-server"
+}

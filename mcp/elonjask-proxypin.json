@@ -1,0 +1,7 @@
+{
+  "name": "elonjask-proxypin",
+  "description": "Analyzes HTTP traffic captured by ProxyPin proxy application, enabling API reverse engineering, debugging, and client code generation through HAR file parsing with request filtering and multi-language output.",
+  "source_repo": "elonjask/proxypin-mcp",
+  "source_url": "https://github.com/elonjask/proxypin-mcp",
+  "install": "npx -y proxypin-mcp"
+}

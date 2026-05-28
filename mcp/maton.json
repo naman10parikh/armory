@@ -1,0 +1,7 @@
+{
+  "name": "maton",
+  "description": "Integrate with Maton APIs through function calling. This protocol supports various apps and actions to interact with different Maton services.",
+  "source_repo": "maton-ai/agent-toolkit",
+  "source_url": "https://github.com/maton-ai/agent-toolkit/tree/HEAD/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://github.com/maton-ai/agent-toolkit/tree/HEAD/modelcontextprotocol\n# See source for mcpServers config block"
+}

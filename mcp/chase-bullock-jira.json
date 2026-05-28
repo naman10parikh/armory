@@ -1,0 +1,7 @@
+{
+  "name": "chase-bullock-jira",
+  "description": "Integrates with the Jira API, enabling JQL searches and issue detail retrieval for AI-assisted project management and issue tracking workflows.",
+  "source_repo": "chase-bullock/python-jira-mcp",
+  "source_url": "https://github.com/chase-bullock/python-jira-mcp",
+  "install": "npx -y python-jira-mcp"
+}

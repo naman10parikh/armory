@@ -1,0 +1,7 @@
+{
+  "name": "backlog-mcp-server-2",
+  "description": "Backlog Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "jootsuki/backlog-mcp-server",
+  "source_url": "https://mcp.so/server/backlog-mcp-server/jootsuki",
+  "install": "npx -y backlog-mcp-server"
+}

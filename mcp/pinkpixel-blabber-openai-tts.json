@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-blabber-openai-tts",
+  "description": "Converts text into natural-sounding speech with multiple voice options, audio formats, and automatic playback capabilities using OpenAI's TTS API.",
+  "source_repo": "pinkpixel-dev/blabber-mcp",
+  "source_url": "https://github.com/pinkpixel-dev/blabber-mcp",
+  "install": "npx -y blabber-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "neilberkman-clippy",
+  "description": "Provides intelligent clipboard operations and recent file discovery for macOS, enabling text and file copying to clipboard, pasting content to directories, and listing recently downloaded files with smart file type detection and automatic unarchiving.",
+  "source_repo": "neilberkman/clippy",
+  "source_url": "https://github.com/neilberkman/clippy",
+  "install": "# git clone --depth 1 https://github.com/neilberkman/clippy\n# See source for mcpServers config block"
+}

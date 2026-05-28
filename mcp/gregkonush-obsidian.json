@@ -1,0 +1,7 @@
+{
+  "name": "gregkonush-obsidian",
+  "description": "Lightweight server for reading, modifying, searching, and navigating Obsidian notes through the Obsidian Local REST API, enabling granular content manipulation across Markdown files.",
+  "source_repo": "gregkonush/mcp-obsidian",
+  "source_url": "https://github.com/gregkonush/mcp-obsidian",
+  "install": "# git clone --depth 1 https://github.com/gregkonush/mcp-obsidian\n# See source for mcpServers config block"
+}

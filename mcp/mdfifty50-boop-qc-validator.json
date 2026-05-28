@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-qc-validator",
+  "description": "Runtime quality validation for AI agent outputs — hallucination detection and scope compliance.",
+  "source_repo": "mdfifty50-boop/qc-validator-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/qc-validator-mcp",
+  "install": "npx -y qc-validator-mcp"
+}

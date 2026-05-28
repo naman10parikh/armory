@@ -1,0 +1,7 @@
+{
+  "name": "chrleon-statistics-norway",
+  "description": "Provides direct access to Statistics Norway's (SSB) public statistical database for browsing, searching, and querying over 6,000 tables covering population, employment, prices, trade, and more.",
+  "source_repo": "chrleon/damnlies",
+  "source_url": "https://github.com/chrleon/damnlies/tree/HEAD/ssb-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/chrleon/damnlies/tree/HEAD/ssb-mcp-server\n# See source for mcpServers config block"
+}

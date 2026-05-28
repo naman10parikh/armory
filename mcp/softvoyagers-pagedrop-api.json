@@ -1,0 +1,7 @@
+{
+  "name": "softvoyagers-pagedrop-api",
+  "description": "Free instant HTML hosting API with paste, file upload, and ZIP deploy support. No API key required.",
+  "source_repo": "softvoyagers/pagedrop-api",
+  "source_url": "https://github.com/softvoyagers/pagedrop-api",
+  "install": "# git clone --depth 1 https://github.com/softvoyagers/pagedrop-api\n# See source for mcpServers config block"
+}

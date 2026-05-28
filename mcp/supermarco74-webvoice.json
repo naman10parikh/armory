@@ -1,0 +1,7 @@
+{
+  "name": "supermarco74-webvoice",
+  "description": "Multi-modal AI service with chat, TTS, STT, translation, and image generation via MCP.",
+  "source_repo": "supermarco74/webvoice-mcp",
+  "source_url": "https://github.com/supermarco74/webvoice-mcp",
+  "install": "npx -y webvoice-mcp"
+}

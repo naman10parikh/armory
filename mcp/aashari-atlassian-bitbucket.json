@@ -1,0 +1,7 @@
+{
+  "name": "aashari-atlassian-bitbucket",
+  "description": "Integrates with Bitbucket's REST APIs to enable repository management, pull request handling, and workspace operations with TypeScript-based error handling and pagination support",
+  "source_repo": "aashari/mcp-server-atlassian-bitbucket",
+  "source_url": "https://github.com/aashari/mcp-server-atlassian-bitbucket",
+  "install": "# git clone --depth 1 https://github.com/aashari/mcp-server-atlassian-bitbucket\n# See source for mcpServers config block"
+}

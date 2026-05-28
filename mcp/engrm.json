@@ -1,0 +1,7 @@
+{
+  "name": "engrm",
+  "description": "Cross-device persistent AI memory that syncs observations, decisions, and session digests across coding agents and machines.",
+  "source_repo": "dr12hes/engrm",
+  "source_url": "https://github.com/dr12hes/engrm",
+  "install": "# git clone --depth 1 https://github.com/dr12hes/engrm\n# See source for mcpServers config block"
+}

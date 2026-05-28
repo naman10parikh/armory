@@ -1,0 +1,7 @@
+{
+  "name": "wishing-genie",
+  "description": "Interactive shared reality game where AI agents read world state and submit wishes to reshape a collaborative virtual world.",
+  "source_repo": "",
+  "source_url": "https://3keys.world",
+  "install": "# git clone --depth 1 https://3keys.world\n# See source for mcpServers config block"
+}

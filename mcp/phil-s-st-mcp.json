@@ -1,0 +1,7 @@
+{
+  "name": "phil-s-st-mcp",
+  "description": "Hooks AI to Sublime-Text",
+  "source_repo": "dpc00/sublime-mcp",
+  "source_url": "https://github.com/dpc00/sublime-mcp",
+  "install": "npx -y sublime-mcp"
+}

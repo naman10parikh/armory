@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-dockerfile-generator-ai-mcp",
+  "description": "AI-powered Dockerfile and container configuration generation tools.",
+  "source_repo": "csoai-org/dockerfile-generator-ai-mcp",
+  "source_url": "https://github.com/csoai-org/dockerfile-generator-ai-mcp",
+  "install": "npx -y dockerfile-generator-ai-mcp"
+}

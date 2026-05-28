@@ -1,0 +1,7 @@
+{
+  "name": "royforlinux-openocd-mcu",
+  "description": "MCP server for embedded MCU debugging via OpenOCD with CMSIS-SVD register decoding and HardFault diagnosis.",
+  "source_repo": "royforlinux/openocd-mcu-mcp",
+  "source_url": "https://github.com/royforlinux/openocd-mcu-mcp",
+  "install": "npx -y openocd-mcu-mcp"
+}

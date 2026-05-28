@@ -1,0 +1,7 @@
+{
+  "name": "company-gibraltar-company-gibraltar",
+  "description": "Provides Gibraltar corporate tax calculations, compliance deadline tracking, and pre-filled PDF form generation for Companies House filings.",
+  "source_repo": "company-gibraltar/company-gibraltar-mcp",
+  "source_url": "https://github.com/company-gibraltar/company-gibraltar-mcp",
+  "install": "npx -y company-gibraltar-mcp"
+}

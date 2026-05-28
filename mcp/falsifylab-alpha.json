@@ -1,0 +1,7 @@
+{
+  "name": "falsifylab-alpha",
+  "description": "Financial alpha feed for AI agents: DeFi yields, SEC filings, macro data, ETF flows, and Polymarket positions.",
+  "source_repo": "falsifylab/falsifylab-alpha-mcp",
+  "source_url": "https://github.com/falsifylab/falsifylab-alpha-mcp",
+  "install": "npx -y falsifylab-alpha-mcp"
+}

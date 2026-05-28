@@ -1,0 +1,7 @@
+{
+  "name": "huangzihang89-validity-everest",
+  "description": "Queries the Validity Everest API for email deliverability intelligence with domain and subdomain analysis.",
+  "source_repo": "huangzihang89/everest-mcp-server",
+  "source_url": "https://github.com/huangzihang89/everest-mcp-server",
+  "install": "npx -y everest-mcp-server"
+}

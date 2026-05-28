@@ -1,0 +1,7 @@
+{
+  "name": "gh-kambleaa007-weather",
+  "description": "Basic weather information lookup using the National Weather Service API.",
+  "source_repo": "kambleaa007/grappleai",
+  "source_url": "https://github.com/kambleaa007/grappleai/tree/HEAD/Weather_MCP_Server",
+  "install": "# git clone --depth 1 https://github.com/kambleaa007/grappleai/tree/HEAD/Weather_MCP_Server\n# See source for mcpServers config block"
+}

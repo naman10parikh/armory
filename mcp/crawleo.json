@@ -1,0 +1,7 @@
+{
+  "name": "crawleo",
+  "description": "Provides real-time web search and website crawling capabilities with zero data retention.",
+  "source_repo": "crawleo/crawleo-mcp",
+  "source_url": "https://github.com/crawleo/crawleo-mcp",
+  "install": "npx -y crawleo-mcp"
+}

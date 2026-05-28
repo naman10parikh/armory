@@ -1,0 +1,7 @@
+{
+  "name": "gh-r3352-redact",
+  "description": "Automatic PII detection and obfuscation using regex pattern matching and AI-powered Named Entity Recognition for secure data handling during penetration testing workflows.",
+  "source_repo": "r3352/redact-mcp",
+  "source_url": "https://github.com/r3352/redact-mcp",
+  "install": "npx -y redact-mcp"
+}

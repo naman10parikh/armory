@@ -1,0 +1,7 @@
+{
+  "name": "mcp-as-a-judge",
+  "description": "A validation layer for AI coding assistants that enforces explicit LLM evaluations on plans, code diffs, and tests to ensure safer and higher-quality code.",
+  "source_repo": "OtherVibes/mcp-as-a-judge",
+  "source_url": "https://github.com/OtherVibes/mcp-as-a-judge",
+  "install": "# git clone --depth 1 https://github.com/OtherVibes/mcp-as-a-judge\n# See source for mcpServers config block"
+}

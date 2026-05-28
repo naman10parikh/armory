@@ -1,0 +1,7 @@
+{
+  "name": "burtthecoder-virustotal",
+  "description": "This VirusTotal MCP server enables AI assistants to programmatically access VirusTotal's threat intelligence for security analysis and threat detection.",
+  "source_repo": "burtthecoder/mcp-virustotal",
+  "source_url": "https://github.com/burtthecoder/mcp-virustotal",
+  "install": "# git clone --depth 1 https://github.com/burtthecoder/mcp-virustotal\n# See source for mcpServers config block"
+}

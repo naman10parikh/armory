@@ -1,0 +1,7 @@
+{
+  "name": "scamverifyai-scamverify-mcp",
+  "description": "AI-powered scam and threat verification MCP server. Check phone numbers, URLs, text messages, emails, documents, and QR codes against 8M+ threat intelligence records (FTC/FCC complaints, carrier analysis, URLhaus, ThreatFox). Returns risk scores, verdicts, and detailed signals. 10 tools, OAuth 2.1 + API key auth, Streamable HTTP transport.",
+  "source_repo": "scamverifyai/scamverify-mcp",
+  "source_url": "https://github.com/scamverifyai/scamverify-mcp",
+  "install": "npx -y scamverify-mcp"
+}

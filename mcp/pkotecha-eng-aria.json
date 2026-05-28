@@ -1,0 +1,7 @@
+{
+  "name": "pkotecha-eng-aria",
+  "description": "Search 35M+ PubMed papers and 400K+ clinical trials — no API key required.",
+  "source_repo": "pkotecha-eng/aria-mcp-server",
+  "source_url": "https://github.com/pkotecha-eng/aria-mcp-server",
+  "install": "npx -y aria-mcp-server"
+}

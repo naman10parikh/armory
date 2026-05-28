@@ -1,0 +1,7 @@
+{
+  "name": "xiangma9712-mysql",
+  "description": "Integrates with MySQL databases to enable secure, scalable database operations and management through TypeScript and Node.js.",
+  "source_repo": "xiangma9712/mysql-mcp-server",
+  "source_url": "https://github.com/xiangma9712/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

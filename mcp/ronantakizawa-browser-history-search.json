@@ -1,0 +1,7 @@
+{
+  "name": "ronantakizawa-browser-history-search",
+  "description": "Provides secure access to browsing history from major browsers across all platforms with specialized tools for searching by terms, retrieving recent entries, and finding most visited sites for productivity analysis and research assistance.",
+  "source_repo": "ronantakizawa/search-history-mcp",
+  "source_url": "https://github.com/ronantakizawa/search-history-mcp",
+  "install": "npx -y search-history-mcp"
+}

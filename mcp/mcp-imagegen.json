@@ -1,0 +1,7 @@
+{
+  "name": "mcp-imagegen",
+  "description": "Mcp Imagegen MCP server listed on mcp.so.",
+  "source_repo": "GMKR/mcp-imagegen",
+  "source_url": "https://mcp.so/server/mcp-imagegen/GMKR",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-imagegen/GMKR\n# See source for mcpServers config block"
+}

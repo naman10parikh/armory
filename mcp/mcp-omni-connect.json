@@ -1,0 +1,7 @@
+{
+  "name": "mcp-omni-connect",
+  "description": "Mcp_omni_connect MCP server listed on mcp.so.",
+  "source_repo": "Abiorh001/mcp_omni_connect",
+  "source_url": "https://mcp.so/server/mcp_omni_connect/Abiorh001",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp_omni_connect/Abiorh001\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pulse-cn-mcp-server",
+  "description": "Access real-time trending content from the Chinese internet. Connect your AI models to the latest data from popular social media platforms and news sites. Stay updated with what's trending in China effortlessly.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/wangtsiao/pulse-cn-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/wangtsiao/pulse-cn-mcp\n# See source for mcpServers config block"
+}

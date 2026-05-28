@@ -1,0 +1,7 @@
+{
+  "name": "embassy-of-the-free-mind-source-library",
+  "description": "Search rare historical texts with OCR, translations, and DOI citations.",
+  "source_repo": "embassy-of-the-free-mind/sourcelibrary-v2",
+  "source_url": "https://github.com/embassy-of-the-free-mind/sourcelibrary-v2/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/embassy-of-the-free-mind/sourcelibrary-v2/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

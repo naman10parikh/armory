@@ -1,0 +1,7 @@
+{
+  "name": "gh-ebrunet001-teamfight-tactics",
+  "description": "Teamfight Tactics data and AI-powered game analysis via Riot Games API.",
+  "source_repo": "ebrunet001/mcp-server-tft",
+  "source_url": "https://github.com/ebrunet001/mcp-server-tft",
+  "install": "# git clone --depth 1 https://github.com/ebrunet001/mcp-server-tft\n# See source for mcpServers config block"
+}

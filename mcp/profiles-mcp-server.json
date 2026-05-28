@@ -1,0 +1,7 @@
+{
+  "name": "profiles-mcp-server",
+  "description": "Enables building RudderStack Profiles projects using natural language through AI assistants, supporting data discovery, identity resolution, feature engineering, and propensity modeling.",
+  "source_repo": "rudderlabs/profiles-mcp",
+  "source_url": "https://github.com/rudderlabs/profiles-mcp",
+  "install": "npx -y profiles-mcp"
+}

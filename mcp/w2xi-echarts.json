@@ -1,0 +1,7 @@
+{
+  "name": "w2xi-echarts",
+  "description": "Generates ECharts visualizations as PNG images from JavaScript configuration objects, processing chart dimensions and configurations through server-side rendering to output image files for data visualization and report generation.",
+  "source_repo": "w2xi/echarts-mcp",
+  "source_url": "https://github.com/w2xi/echarts-mcp",
+  "install": "npx -y echarts-mcp"
+}

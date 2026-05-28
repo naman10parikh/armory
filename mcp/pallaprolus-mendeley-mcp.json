@@ -1,0 +1,7 @@
+{
+  "name": "pallaprolus-mendeley-mcp",
+  "description": "MCP server for Mendeley reference manager. Search your library, browse folders, get document metadata, search the global catalog, and add papers to your collection.",
+  "source_repo": "pallaprolus/mendeley-mcp",
+  "source_url": "https://github.com/pallaprolus/mendeley-mcp",
+  "install": "npx -y mendeley-mcp"
+}

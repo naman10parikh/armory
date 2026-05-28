@@ -1,0 +1,7 @@
+{
+  "name": "chipsnews-mcp",
+  "description": "MCP server for ChipsNews — manage news configuration, sources, articles, and fetch triggers from any MCP client.",
+  "source_repo": "fgasparetto/chipsnews-mcp",
+  "source_url": "https://github.com/fgasparetto/chipsnews-mcp",
+  "install": "npx -y chipsnews-mcp"
+}

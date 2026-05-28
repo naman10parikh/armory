@@ -1,0 +1,7 @@
+{
+  "name": "srprasanna-skill-hub",
+  "description": "Manages Claude skills from structured directories with hot-reload functionality, validation, and search capabilities across metadata including categories, tags, and complexity levels for organizations managing large skill collections.",
+  "source_repo": "srprasanna/mcp-skill-hub",
+  "source_url": "https://github.com/srprasanna/mcp-skill-hub",
+  "install": "# git clone --depth 1 https://github.com/srprasanna/mcp-skill-hub\n# See source for mcpServers config block"
+}

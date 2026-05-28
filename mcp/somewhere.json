@@ -1,0 +1,7 @@
+{
+  "name": "somewhere",
+  "description": "Backend platform for AI-built apps with database, auth, files, email, payments, and 170+ tools.",
+  "source_repo": "somewhere-tech/somewhere-tech",
+  "source_url": "https://github.com/somewhere-tech/somewhere-tech",
+  "install": "# git clone --depth 1 https://github.com/somewhere-tech/somewhere-tech\n# See source for mcpServers config block"
+}

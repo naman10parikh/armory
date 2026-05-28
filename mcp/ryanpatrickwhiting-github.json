@@ -1,0 +1,7 @@
+{
+  "name": "ryanpatrickwhiting-github",
+  "description": "Integrates with GitHub using Octokit to enable repository management, issue tracking, and code analysis.",
+  "source_repo": "ryanpatrickwhiting/github-mcp-server",
+  "source_url": "https://github.com/ryanpatrickwhiting/github-mcp-server",
+  "install": "npx -y github-mcp-server"
+}

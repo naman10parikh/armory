@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-5",
+  "description": "Enables querying Crunchbase company data through Claude Desktop using natural language, with Bright Data for data retrieval.",
+  "source_repo": "ThomasJanssen-tech/MCP_Server",
+  "source_url": "https://github.com/ThomasJanssen-tech/MCP_Server",
+  "install": "# git clone --depth 1 https://github.com/ThomasJanssen-tech/MCP_Server\n# See source for mcpServers config block"
+}

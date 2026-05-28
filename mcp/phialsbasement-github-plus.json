@@ -1,0 +1,7 @@
+{
+  "name": "phialsbasement-github-plus",
+  "description": "Integrates with GitHub's API to streamline repository management, code operations, and issue tracking for developers and teams.",
+  "source_repo": "phialsbasement/mcp-github-server-plus",
+  "source_url": "https://github.com/phialsbasement/mcp-github-server-plus",
+  "install": "# git clone --depth 1 https://github.com/phialsbasement/mcp-github-server-plus\n# See source for mcpServers config block"
+}

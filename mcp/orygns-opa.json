@@ -1,0 +1,7 @@
+{
+  "name": "orygns-opa",
+  "description": "Integrates Open Policy Agent with AI clients for authoring, validating, evaluating, and deploying Rego policies.",
+  "source_repo": "orygnscode/opa-mcp-server",
+  "source_url": "https://github.com/orygnscode/opa-mcp-server",
+  "install": "npx -y opa-mcp-server"
+}

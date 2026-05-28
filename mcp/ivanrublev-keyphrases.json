@@ -1,0 +1,7 @@
+{
+  "name": "ivanrublev-keyphrases",
+  "description": "Extracts meaningful keyphrases from text documents using BERT-based sentence transformers and spaCy tokenization with customizable stop word filtering and configurable keyphrase counts for content analysis, document summarization, and SEO keyword research.",
+  "source_repo": "ivanrublev/keyphrases-mcp",
+  "source_url": "https://github.com/ivanrublev/keyphrases-mcp",
+  "install": "npx -y keyphrases-mcp"
+}

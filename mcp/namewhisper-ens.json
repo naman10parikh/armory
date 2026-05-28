@@ -1,0 +1,7 @@
+{
+  "name": "namewhisper-ens",
+  "description": "AI-powered ENS name intelligence with search, valuation, and trading tools across 3.6M+ Ethereum Name Service domains.",
+  "source_repo": "",
+  "source_url": "https://namewhisper.ai",
+  "install": "# git clone --depth 1 https://namewhisper.ai\n# See source for mcpServers config block"
+}

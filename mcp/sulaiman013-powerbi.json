@@ -1,0 +1,7 @@
+{
+  "name": "sulaiman013-powerbi",
+  "description": "Integrates with Power BI datasets through XMLA endpoints to enable natural language data analysis by automatically translating questions into executable DAX queries and interpreting results for business intelligence workflows.",
+  "source_repo": "sulaiman013/powerbi-mcp",
+  "source_url": "https://github.com/sulaiman013/powerbi-mcp",
+  "install": "npx -y powerbi-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "awkoy-replicate-flux",
+  "description": "Integrates with Replicate's Flux image generation model, enabling image creation capabilities within conversation interfaces through a simple API token setup and TypeScript implementation available as both an npm module and Docker container.",
+  "source_repo": "awkoy/replicate-flux-mcp",
+  "source_url": "https://github.com/awkoy/replicate-flux-mcp",
+  "install": "npx -y replicate-flux-mcp"
+}

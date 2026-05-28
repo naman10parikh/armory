@@ -1,0 +1,7 @@
+{
+  "name": "open-strategy-partners-marketing-tools",
+  "description": "Content and product marketing tools, including a standardized editing code system, writing guidelines, web metadata generator, and product communication framework.",
+  "source_repo": "open-strategy-partners/osp_marketing_tools",
+  "source_url": "https://github.com/open-strategy-partners/osp_marketing_tools",
+  "install": "# git clone --depth 1 https://github.com/open-strategy-partners/osp_marketing_tools\n# See source for mcpServers config block"
+}

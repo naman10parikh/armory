@@ -1,0 +1,7 @@
+{
+  "name": "alice",
+  "description": "Search, retrieve, and analyze voice recordings and transcripts from the Alice platform.",
+  "source_repo": "aliceappai/mcp-server-alice",
+  "source_url": "https://github.com/aliceappai/mcp-server-alice",
+  "install": "# git clone --depth 1 https://github.com/aliceappai/mcp-server-alice\n# See source for mcpServers config block"
+}

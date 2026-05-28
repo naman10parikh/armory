@@ -1,0 +1,7 @@
+{
+  "name": "dapooleygmailcom-gaiia",
+  "description": "MCP server providing access to GAIIA Expert Proxy for AI-powered code audits, refactoring, architectural analysis, and multi-protocol API interrogation.",
+  "source_repo": "dapooleygmailcom/gaiia-mcp-server",
+  "source_url": "https://github.com/dapooleygmailcom/gaiia-mcp-server",
+  "install": "npx -y gaiia-mcp-server"
+}

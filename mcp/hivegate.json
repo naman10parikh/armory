@@ -1,0 +1,7 @@
+{
+  "name": "hivegate",
+  "description": "Agent admission queue with capacity control and priority tiers for multi-agent systems.",
+  "source_repo": "srotzin/hivegate",
+  "source_url": "https://github.com/srotzin/hivegate",
+  "install": "# git clone --depth 1 https://github.com/srotzin/hivegate\n# See source for mcpServers config block"
+}

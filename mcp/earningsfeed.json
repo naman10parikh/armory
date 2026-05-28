@@ -1,0 +1,7 @@
+{
+  "name": "earningsfeed",
+  "description": "Access SEC filings and insider trades in real-time including 10-K, 10-Q, 8-K, and Form 4 documents.",
+  "source_repo": "",
+  "source_url": "https://earningsfeed.com/mcp",
+  "install": "# git clone --depth 1 https://earningsfeed.com/mcp\n# See source for mcpServers config block"
+}

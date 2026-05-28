@@ -1,0 +1,7 @@
+{
+  "name": "atomicchonk-roadrecon-analyzer",
+  "description": "Exposes Azure AD security data collected by ROADrecon for analyzing tenant security posture, identifying privileged users, evaluating MFA status, detecting stale accounts, and assessing PIM implementation.",
+  "source_repo": "atomicchonk/roadrecon_mcp_server",
+  "source_url": "https://github.com/atomicchonk/roadrecon_mcp_server",
+  "install": "npx -y roadrecon_mcp_server"
+}

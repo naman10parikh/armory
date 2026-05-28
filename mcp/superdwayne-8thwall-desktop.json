@@ -1,0 +1,7 @@
+{
+  "name": "superdwayne-8thwall-desktop",
+  "description": "Enables building WebAR experiences through natural language by providing orchestration tools for A-Frame/Three.js projects and 8th Wall Desktop integration, featuring asset discovery, code generation for custom components, pre-built templates, and complete XR application scaffolding for rapid AR prototyping.",
+  "source_repo": "superdwayne/8thwallmcp",
+  "source_url": "https://github.com/superdwayne/8thwallmcp",
+  "install": "# git clone --depth 1 https://github.com/superdwayne/8thwallmcp\n# See source for mcpServers config block"
+}

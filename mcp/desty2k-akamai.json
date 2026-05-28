@@ -1,0 +1,7 @@
+{
+  "name": "desty2k-akamai",
+  "description": "Read-only access to Akamai CDN properties, EdgeWorkers, DNS, and network lists.",
+  "source_repo": "desty2k/readonly-mcp-akamai",
+  "source_url": "https://github.com/desty2k/readonly-mcp-akamai",
+  "install": "# git clone --depth 1 https://github.com/desty2k/readonly-mcp-akamai\n# See source for mcpServers config block"
+}

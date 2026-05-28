@@ -1,0 +1,7 @@
+{
+  "name": "toflow",
+  "description": "Runs sales outreach automation with 115 tools spanning prospecting, enrichment, sequences, email, LinkedIn, WhatsApp, and CRM management.",
+  "source_repo": "toflow-ai/toflow-mcp",
+  "source_url": "https://github.com/toflow-ai/toflow-mcp",
+  "install": "npx -y toflow-mcp"
+}

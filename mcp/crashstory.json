@@ -1,0 +1,7 @@
+{
+  "name": "crashstory",
+  "description": "Colorado personal injury attorney directory with AI-analyzed review intelligence and crash data.",
+  "source_repo": "",
+  "source_url": "https://crashstory.com/mcp",
+  "install": "# git clone --depth 1 https://crashstory.com/mcp\n# See source for mcpServers config block"
+}

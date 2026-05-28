@@ -1,0 +1,7 @@
+{
+  "name": "oozoofrog-baepsae",
+  "description": "Automates iOS Simulator and macOS app interactions through TypeScript tools and native Swift integration, enabling UI element discovery, gesture execution, screenshot capture, and accessibility-based testing workflows.",
+  "source_repo": "oozoofrog/mcp-baepsae",
+  "source_url": "https://github.com/oozoofrog/mcp-baepsae",
+  "install": "# git clone --depth 1 https://github.com/oozoofrog/mcp-baepsae\n# See source for mcpServers config block"
+}

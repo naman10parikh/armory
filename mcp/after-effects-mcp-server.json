@@ -1,0 +1,7 @@
+{
+  "name": "after-effects-mcp-server",
+  "description": "Enables AI assistants to control Adobe After Effects for composition, layer, effect, preset, marker, and audio automation through a bridge panel.",
+  "source_repo": "TheLlamainator/after-effects-mcp",
+  "source_url": "https://github.com/TheLlamainator/after-effects-mcp",
+  "install": "npx -y after-effects-mcp"
+}

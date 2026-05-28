@@ -1,0 +1,7 @@
+{
+  "name": "austinkelsay-nostr",
+  "description": "Bridges AI with the Nostr decentralized social network, enabling interaction with user profiles, posts, and Lightning Network payments through specialized tools for retrieving and analyzing social data.",
+  "source_repo": "austinkelsay/nostr-mcp-server",
+  "source_url": "https://github.com/austinkelsay/nostr-mcp-server",
+  "install": "npx -y nostr-mcp-server"
+}

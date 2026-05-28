@@ -1,0 +1,7 @@
+{
+  "name": "yuanhuakk-js-reverse",
+  "description": "JavaScript reverse engineering tools for AI agents with anti-detection browser debugging capabilities.",
+  "source_repo": "yuanhuakk/js-reverse-mcp",
+  "source_url": "https://github.com/yuanhuakk/js-reverse-mcp",
+  "install": "npx -y js-reverse-mcp"
+}

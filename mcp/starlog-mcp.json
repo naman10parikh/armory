@@ -1,0 +1,7 @@
+{
+  "name": "starlog-mcp",
+  "description": "STARLOG is a documentation workflow MCP server for Claude Code that manages project rules, debug diaries with GitHub issue integration, and session tracking for context continuity.",
+  "source_repo": "sancovp/starlog-mcp",
+  "source_url": "https://github.com/sancovp/starlog-mcp",
+  "install": "npx -y starlog-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alpaca-mcp-server",
+  "description": "Enables natural language trading operations for stocks, options, crypto, and portfolio management via Alpaca's Trading API through AI assistants.",
+  "source_repo": "mfoster5303-1/alpaca-mcp-server",
+  "source_url": "https://github.com/mfoster5303-1/alpaca-mcp-server",
+  "install": "npx -y alpaca-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mpzarde-fabric",
+  "description": "Integration with Fabric AI framework for running AI patterns and prompts.",
+  "source_repo": "mpzarde/fabric-mcp",
+  "source_url": "https://github.com/mpzarde/fabric-mcp",
+  "install": "npx -y fabric-mcp"
+}

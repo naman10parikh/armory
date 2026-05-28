@@ -1,0 +1,7 @@
+{
+  "name": "kaggle-mcp-server",
+  "description": "Enables AI assistants to interact with Kaggle competitions, including listing competitions, downloading files, submitting predictions, and viewing submission history.",
+  "source_repo": "Dishant27/kaggle-MCP",
+  "source_url": "https://github.com/Dishant27/kaggle-MCP",
+  "install": "npx -y kaggle-MCP"
+}

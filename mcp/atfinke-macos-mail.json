@@ -1,0 +1,7 @@
+{
+  "name": "atfinke-macos-mail",
+  "description": "Exposes Apple Mail on macOS for reading messages, composing drafts, replying, forwarding, and moving messages across accounts and mailboxes.",
+  "source_repo": "atfinke/mail-mcp",
+  "source_url": "https://github.com/atfinke/mail-mcp",
+  "install": "npx -y mail-mcp"
+}

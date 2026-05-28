@@ -1,0 +1,7 @@
+{
+  "name": "mcp-ts-template",
+  "description": "Mcp Ts Template MCP server listed on mcp.so.",
+  "source_repo": "cyanheads/mcp-ts-template",
+  "source_url": "https://mcp.so/server/mcp-ts-template/cyanheads",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-ts-template/cyanheads\n# See source for mcpServers config block"
+}

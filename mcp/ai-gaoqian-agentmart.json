@@ -1,0 +1,7 @@
+{
+  "name": "ai-gaoqian-agentmart",
+  "description": "AI agent e-commerce marketplace with 74+ AI products, MCP protocol integration, and Alipay payments.",
+  "source_repo": "ai-gaoqian/agentmart-mcp-server",
+  "source_url": "https://github.com/ai-gaoqian/agentmart-mcp-server",
+  "install": "npx -y agentmart-mcp-server"
+}

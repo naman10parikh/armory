@@ -1,0 +1,7 @@
+{
+  "name": "kuudoai-amazon-ads",
+  "description": "Integrates with Amazon Advertising API to enable campaign management, performance reporting, profile handling, and DSP operations with pluggable authentication supporting both direct API credentials and OpenBridge OAuth integration.",
+  "source_repo": "kuudoai/amazon_ads_mcp",
+  "source_url": "https://github.com/kuudoai/amazon_ads_mcp",
+  "install": "npx -y amazon_ads_mcp"
+}

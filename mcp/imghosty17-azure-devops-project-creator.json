@@ -1,0 +1,7 @@
+{
+  "name": "imghosty17-azure-devops-project-creator",
+  "description": "Integrates with Azure DevOps to automate project creation and infrastructure setup through FastAPI, eliminating the need for manual portal interaction.",
+  "source_repo": "taslim1743/mcp-server-sandbox",
+  "source_url": "https://github.com/taslim1743/mcp-server-sandbox",
+  "install": "# git clone --depth 1 https://github.com/taslim1743/mcp-server-sandbox\n# See source for mcpServers config block"
+}

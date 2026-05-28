@@ -1,0 +1,7 @@
+{
+  "name": "agentcentral-amazon-seller-central",
+  "description": "Access Amazon Ads, Seller Central, inventory, orders, and finance data through Agent Central's hosted MCP service.",
+  "source_repo": "agentcentral-to/agent-central-mcp",
+  "source_url": "https://github.com/agentcentral-to/agent-central-mcp",
+  "install": "npx -y agent-central-mcp"
+}

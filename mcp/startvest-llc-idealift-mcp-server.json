@@ -1,0 +1,7 @@
+{
+  "name": "startvest-llc-idealift-mcp-server",
+  "description": "Decision intelligence MCP server with signal aggregation, RICE scoring, and decision audit trails. Captures product feedback from Slack, Teams, Discord, and GitHub.",
+  "source_repo": "Startvest-LLC/idealift-mcp-server",
+  "source_url": "https://github.com/Startvest-LLC/idealift-mcp-server",
+  "install": "npx -y idealift-mcp-server"
+}

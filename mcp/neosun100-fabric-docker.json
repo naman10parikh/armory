@@ -1,0 +1,7 @@
+{
+  "name": "neosun100-fabric-docker",
+  "description": "Containerized Fabric deployment with MCP server, REST API, and web UI for executing crowdsourced AI prompt patterns across multiple providers.",
+  "source_repo": "neosun100/fabric-docker",
+  "source_url": "https://github.com/neosun100/fabric-docker",
+  "install": "# git clone --depth 1 https://github.com/neosun100/fabric-docker\n# See source for mcpServers config block"
+}

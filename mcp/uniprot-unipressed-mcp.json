@@ -1,0 +1,7 @@
+{
+  "name": "uniprot-unipressed-mcp",
+  "description": "An MCP server that provides tools for searching and fetching protein data from the UniProt database using the unipressed library.",
+  "source_repo": "pansapiens/uniprot-unipressed-mcp",
+  "source_url": "https://github.com/pansapiens/uniprot-unipressed-mcp",
+  "install": "npx -y uniprot-unipressed-mcp"
+}

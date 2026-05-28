@@ -1,0 +1,7 @@
+{
+  "name": "heroku",
+  "description": "Facilitate seamless interaction between LLMs and the Heroku Platform.",
+  "source_repo": "heroku/heroku-mcp-server",
+  "source_url": "https://github.com/heroku/heroku-mcp-server",
+  "install": "npx -y heroku-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "swagger-api-client-generator",
+  "description": "Generates strongly-typed API clients and TypeScript types from Swagger/OpenAPI specifications, streamlining REST API integration with template-based code generation for different client frameworks.",
+  "source_repo": "tuskermanshu/swagger-mcp-server",
+  "source_url": "https://github.com/tuskermanshu/swagger-mcp-server",
+  "install": "npx -y swagger-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nctr-mcp-server",
+  "description": "Search bounties, check earning rates, explore tier requirements, and discover Impact Engine communities in the NCTR Alliance rewards program.",
+  "source_repo": "hoya25/mcp-server",
+  "source_url": "https://github.com/hoya25/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/hoya25/mcp-server\n# See source for mcpServers config block"
+}

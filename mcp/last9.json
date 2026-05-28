@@ -1,0 +1,7 @@
+{
+  "name": "last9",
+  "description": "Seamlessly bring real-time production context - logs, metrics, and traces - into your local environment to auto-fix code faster.",
+  "source_repo": "",
+  "source_url": "https://last9.io/mcp/",
+  "install": "# git clone --depth 1 https://last9.io/mcp/\n# See source for mcpServers config block"
+}

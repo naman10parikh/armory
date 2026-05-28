@@ -1,0 +1,7 @@
+{
+  "name": "codemem",
+  "description": "Persistent memory MCP server that captures coding session context and automatically injects relevant memories into prompts using hybrid search for OpenCode and Claude Code.",
+  "source_repo": "kunickiaj/codemem",
+  "source_url": "https://github.com/kunickiaj/codemem",
+  "install": "# git clone --depth 1 https://github.com/kunickiaj/codemem\n# See source for mcpServers config block"
+}

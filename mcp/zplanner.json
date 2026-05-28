@@ -1,0 +1,7 @@
+{
+  "name": "zplanner",
+  "description": "Enables creation and management of hierarchical project plans with task tracking, progress calculation, and visual reporting through a file-based storage system.",
+  "source_repo": "jotjunior/mcp-server-zplanner",
+  "source_url": "https://github.com/jotjunior/mcp-server-zplanner",
+  "install": "# git clone --depth 1 https://github.com/jotjunior/mcp-server-zplanner\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zereight-confluence-jira",
+  "description": "Integrates with Confluence and JIRA APIs to enable querying and management of Atlassian project data, documentation, and issues.",
+  "source_repo": "zereight/confluence-mcp",
+  "source_url": "https://github.com/zereight/confluence-mcp",
+  "install": "npx -y confluence-mcp"
+}

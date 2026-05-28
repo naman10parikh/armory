@@ -1,0 +1,7 @@
+{
+  "name": "bch1212-agenttrust",
+  "description": "Trust scores and reputation infrastructure for agent-to-agent transactions — register identities, record transactions, and verify counterparty trust.",
+  "source_repo": "bch1212/agenttrust-mcp",
+  "source_url": "https://github.com/bch1212/agenttrust-mcp",
+  "install": "npx -y agenttrust-mcp"
+}

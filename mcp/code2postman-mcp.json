@@ -1,0 +1,7 @@
+{
+  "name": "code2postman-mcp",
+  "description": "Automatically generates Postman collections from code directories by analyzing API endpoints and parameters, enabling easy testing, documentation, and sharing.",
+  "source_repo": "marioToribi0/code2postman-mcp",
+  "source_url": "https://github.com/marioToribi0/code2postman-mcp",
+  "install": "npx -y code2postman-mcp"
+}

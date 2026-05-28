@@ -1,0 +1,7 @@
+{
+  "name": "run-sql-connectorx",
+  "description": "Executes SQL queries via ConnectorX and streams results to CSV or Parquet files, supporting multiple databases and optional token counting for CSV output.",
+  "source_repo": "gigamori/mcp-run-sql-connectorx",
+  "source_url": "https://github.com/gigamori/mcp-run-sql-connectorx",
+  "install": "# git clone --depth 1 https://github.com/gigamori/mcp-run-sql-connectorx\n# See source for mcpServers config block"
+}

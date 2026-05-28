@@ -1,0 +1,7 @@
+{
+  "name": "medium-accelerator",
+  "description": "Accelerates Medium article research by extracting article links from archive pages, scraping full content for summarization, and maintaining a persistent local database of article summaries with metadata for efficient content discovery and organization.",
+  "source_repo": "crtdaniele/mcp-medium-accelerator",
+  "source_url": "https://github.com/crtdaniele/mcp-medium-accelerator",
+  "install": "# git clone --depth 1 https://github.com/crtdaniele/mcp-medium-accelerator\n# See source for mcpServers config block"
+}

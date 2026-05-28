@@ -1,0 +1,7 @@
+{
+  "name": "settlement-witness",
+  "description": "Deterministic verification gate for agent execution and x402 settlement.",
+  "source_repo": "nutstrut/default-settlement-verifier",
+  "source_url": "https://github.com/nutstrut/default-settlement-verifier",
+  "install": "# git clone --depth 1 https://github.com/nutstrut/default-settlement-verifier\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-somacoffeekyoto-imgx",
+  "description": "AI image generation and editing with Gemini and OpenAI, iterative editing, undo/redo, and session management.",
+  "source_repo": "somacoffeekyoto/imgx-mcp",
+  "source_url": "https://github.com/somacoffeekyoto/imgx-mcp",
+  "install": "npx -y imgx-mcp"
+}

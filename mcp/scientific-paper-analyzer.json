@@ -1,0 +1,7 @@
+{
+  "name": "scientific-paper-analyzer",
+  "description": "Integrates with Google's Gemini API to enable searching, analyzing and exploring academic research papers with tools for citation graphs and detailed paper information retrieval",
+  "source_repo": "priteshshah96/mcp",
+  "source_url": "https://github.com/priteshshah96/mcp",
+  "install": "# git clone --depth 1 https://github.com/priteshshah96/mcp\n# See source for mcpServers config block"
+}

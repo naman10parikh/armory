@@ -1,0 +1,7 @@
+{
+  "name": "noderail",
+  "description": "Provenance and governance layer for AI-readable knowledge, enabling agents to verify what they should trust.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/noderail",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/noderail\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "smilindave26-openziti",
+  "description": "Exposes the OpenZiti zero-trust network management API for administering identities, services, policies, routers, certificates, and sessions.",
+  "source_repo": "smilindave26/mcp-ziti",
+  "source_url": "https://github.com/smilindave26/mcp-ziti",
+  "install": "# git clone --depth 1 https://github.com/smilindave26/mcp-ziti\n# See source for mcpServers config block"
+}

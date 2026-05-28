@@ -1,0 +1,7 @@
+{
+  "name": "nsxdavid-clickup10ed",
+  "description": "Integrates with ClickUp API to provide access and manipulation of workspaces, spaces, folders, lists, tasks, docs, comments, and checklists for project management workflows.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/nsxdavid-clickup10ed",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/nsxdavid-clickup10ed\n# See source for mcpServers config block"
+}

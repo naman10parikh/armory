@@ -1,0 +1,7 @@
+{
+  "name": "gdrive",
+  "description": "Integrates with Google Drive to enable file listing, reading, and searching across various document formats, with OAuth authentication for secure access to user content.",
+  "source_repo": "w-jeon/mcp-gdrive",
+  "source_url": "https://github.com/w-jeon/mcp-gdrive",
+  "install": "# git clone --depth 1 https://github.com/w-jeon/mcp-gdrive\n# See source for mcpServers config block"
+}

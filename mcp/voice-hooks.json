@@ -1,0 +1,7 @@
+{
+  "name": "voice-hooks",
+  "description": "Real-time voice interaction system for Claude Code that enables natural speech-based conversations during development workflows with browser-based speech recognition, text-to-speech responses, and conversation state management.",
+  "source_repo": "johnmatthewtennant/mcp-voice-hooks",
+  "source_url": "https://github.com/johnmatthewtennant/mcp-voice-hooks",
+  "install": "# git clone --depth 1 https://github.com/johnmatthewtennant/mcp-voice-hooks\n# See source for mcpServers config block"
+}

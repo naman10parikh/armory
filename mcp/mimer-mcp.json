@@ -1,0 +1,7 @@
+{
+  "name": "mimer-mcp",
+  "description": "Enables Mimer SQL database connectivity for browsing schemas, executing read-only queries with parameterization, and managing stored procedures.",
+  "source_repo": "mimersql/mimer-mcp",
+  "source_url": "https://github.com/mimersql/mimer-mcp",
+  "install": "npx -y mimer-mcp"
+}

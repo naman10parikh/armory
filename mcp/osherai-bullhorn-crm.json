@@ -1,0 +1,7 @@
+{
+  "name": "osherai-bullhorn-crm",
+  "description": "Connects directly to Bullhorn CRM's REST API using OAuth 2.0 authentication, enabling queries of recruiting data including jobs, candidates, and placements through tools supporting both Lucene and SQL-like query syntax.",
+  "source_repo": "osherai/bullhorn-mcp-python",
+  "source_url": "https://github.com/osherai/bullhorn-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/osherai/bullhorn-mcp-python\n# See source for mcpServers config block"
+}

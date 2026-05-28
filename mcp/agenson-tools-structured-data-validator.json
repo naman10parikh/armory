@@ -1,0 +1,7 @@
+{
+  "name": "agenson-tools-structured-data-validator",
+  "description": "Validates structured data against schemas for AI workflow quality assurance.",
+  "source_repo": "agenson-tools/structured-data-validator-mcp",
+  "source_url": "https://github.com/agenson-tools/structured-data-validator-mcp",
+  "install": "npx -y structured-data-validator-mcp"
+}

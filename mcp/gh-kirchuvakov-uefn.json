@@ -1,0 +1,7 @@
+{
+  "name": "gh-kirchuvakov-uefn",
+  "description": "Controls Unreal Editor for Fortnite from Claude Code with 28 tools for actors, assets, levels, viewport, and Python execution.",
+  "source_repo": "kirchuvakov/uefn-mcp-server",
+  "source_url": "https://github.com/kirchuvakov/uefn-mcp-server",
+  "install": "npx -y uefn-mcp-server"
+}

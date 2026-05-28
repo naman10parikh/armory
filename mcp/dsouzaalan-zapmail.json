@@ -1,0 +1,7 @@
+{
+  "name": "dsouzaalan-zapmail",
+  "description": "Integrates with Zapmail API to enable domain purchasing, bulk mailbox creation, email automation workflows, and platform exports for large-scale cold email operations through natural language commands with advanced workflow orchestration.",
+  "source_repo": "dsouzaalan/zapmail-mcp",
+  "source_url": "https://github.com/dsouzaalan/zapmail-mcp",
+  "install": "npx -y zapmail-mcp"
+}

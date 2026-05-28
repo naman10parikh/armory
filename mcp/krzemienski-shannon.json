@@ -1,0 +1,7 @@
+{
+  "name": "krzemienski-shannon",
+  "description": "Multi-agent collaborative system where 26 specialized agents implement Claude Code CLI integration with automatic binary discovery, real-time session management, Git-like checkpoints, and comprehensive monitoring for advanced development workflows.",
+  "source_repo": "krzemienski/shannon-mcp",
+  "source_url": "https://github.com/krzemienski/shannon-mcp",
+  "install": "npx -y shannon-mcp"
+}

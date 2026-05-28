@@ -1,0 +1,7 @@
+{
+  "name": "witness-protocol",
+  "description": "witness-protocol",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/delx/witness-protocol",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/delx/witness-protocol\n# See source for mcpServers config block"
+}

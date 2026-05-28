@@ -1,0 +1,7 @@
+{
+  "name": "geiserx-genieacs",
+  "description": "Bridge GenieACS TR-069 ACS instances to AI agents for CPE device management.",
+  "source_repo": "geiserx/genieacs-mcp",
+  "source_url": "https://github.com/geiserx/genieacs-mcp",
+  "install": "npx -y genieacs-mcp"
+}

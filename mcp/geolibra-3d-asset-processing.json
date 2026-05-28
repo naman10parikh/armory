@@ -1,0 +1,7 @@
+{
+  "name": "geolibra-3d-asset-processing",
+  "description": "Processes and optimizes 3D glTF/GLB models with analysis, validation, format conversion, compression, and geometry simplification tools for web, mobile, and game engine compatibility.",
+  "source_repo": "geolibra/3d-asset-processing-mcp",
+  "source_url": "https://github.com/geolibra/3d-asset-processing-mcp",
+  "install": "npx -y 3d-asset-processing-mcp"
+}

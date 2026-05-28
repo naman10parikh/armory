@@ -1,0 +1,7 @@
+{
+  "name": "ofershap-mcp-server-github-actions",
+  "description": "GitHub Actions — view workflow runs, read logs, re-run failed jobs, and manage CI/CD.",
+  "source_repo": "ofershap/mcp-server-github-actions",
+  "source_url": "https://github.com/ofershap/mcp-server-github-actions",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-github-actions\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toast-notifications",
+  "description": "Provides cross-platform desktop notifications for important events or task completions using native Windows and macOS APIs.",
+  "source_repo": "naru-sensei/-toast-mcp-server",
+  "source_url": "https://github.com/naru-sensei/-toast-mcp-server",
+  "install": "npx -y -toast-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "erova-vibesharing",
+  "description": "Deploys prototypes and collects structured team feedback directly from AI coding assistants.",
+  "source_repo": "erova/vibesharing-mcp",
+  "source_url": "https://github.com/erova/vibesharing-mcp",
+  "install": "npx -y vibesharing-mcp"
+}

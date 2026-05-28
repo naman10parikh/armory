@@ -1,0 +1,7 @@
+{
+  "name": "tredict",
+  "description": "Analyze training activities, build training plans, and sync workouts to sports watches.",
+  "source_repo": "tredict-com/mcp-server",
+  "source_url": "https://github.com/tredict-com/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/tredict-com/mcp-server\n# See source for mcpServers config block"
+}

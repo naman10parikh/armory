@@ -1,0 +1,7 @@
+{
+  "name": "nautobot",
+  "description": "Integrates with Nautobot's REST API to provide IP address management and network data retrieval with tools for searching addresses, prefixes, and network utilization analysis.",
+  "source_repo": "aiopnet/mcp-nautobot",
+  "source_url": "https://github.com/aiopnet/mcp-nautobot",
+  "install": "# git clone --depth 1 https://github.com/aiopnet/mcp-nautobot\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "szcharlesji-coinmarketcap",
+  "description": "Provides real-time cryptocurrency data from CoinMarketCap's API, enabling market listings, price quotes, ID mappings, metadata, global metrics, and exchange information retrieval for market analysis and research.",
+  "source_repo": "szcharlesji/crypto-mcp",
+  "source_url": "https://github.com/szcharlesji/crypto-mcp",
+  "install": "npx -y crypto-mcp"
+}

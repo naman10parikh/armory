@@ -1,0 +1,7 @@
+{
+  "name": "mandoline",
+  "description": "Integrates with Mandoline's LLM evaluation platform to create custom metrics, run evaluations on prompt-response pairs, and retrieve results with session management and automatic environment context injection.",
+  "source_repo": "mandoline-ai/mandoline-mcp-server",
+  "source_url": "https://github.com/mandoline-ai/mandoline-mcp-server",
+  "install": "npx -y mandoline-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zenable",
+  "description": "Enables your AI coding assistant to automatically check and improve your code against your organization’s requirements.",
+  "source_repo": "",
+  "source_url": "https://docs.zenable.io/integrations/mcp",
+  "install": "# git clone --depth 1 https://docs.zenable.io/integrations/mcp\n# See source for mcpServers config block"
+}

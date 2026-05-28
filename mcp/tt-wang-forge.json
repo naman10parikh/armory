@@ -1,0 +1,7 @@
+{
+  "name": "tt-wang-forge",
+  "description": "Structured planning, parallel execution in git worktrees, and deep validation for Claude Code. Turns a one-line objective into a validated DAG of modules executed by worker agents, each self-checked and cross-module-reviewed before merge-back. 7 MCP tools: `validate`, `validate_plan`, `memory_recall`, `memory_save`, `iteration_state` (per-run scoped, with stagnation/velocity/oscillation detection), `forge_logs`, `session_state`. Stdio-only. Zero telemetry.",
+  "source_repo": "TT-Wang/forge",
+  "source_url": "https://github.com/TT-Wang/forge",
+  "install": "# git clone --depth 1 https://github.com/TT-Wang/forge\n# See source for mcpServers config block"
+}

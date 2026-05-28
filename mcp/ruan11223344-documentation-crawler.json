@@ -1,0 +1,7 @@
+{
+  "name": "ruan11223344-documentation-crawler",
+  "description": "Documentation crawler service that fetches and serves technical documentation from specified sources, enabling access to up-to-date information through a structured API.",
+  "source_repo": "ruan11223344/mcpdocserver",
+  "source_url": "https://github.com/ruan11223344/mcpdocserver",
+  "install": "# git clone --depth 1 https://github.com/ruan11223344/mcpdocserver\n# See source for mcpServers config block"
+}

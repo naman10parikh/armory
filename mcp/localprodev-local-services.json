@@ -1,0 +1,7 @@
+{
+  "name": "localprodev-local-services",
+  "description": "Verified US local service provider data across contractor trades, with ratings, services, and pricing.",
+  "source_repo": "localprodev/mcp-server",
+  "source_url": "https://github.com/localprodev/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/localprodev/mcp-server\n# See source for mcpServers config block"
+}

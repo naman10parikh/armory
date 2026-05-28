@@ -1,0 +1,7 @@
+{
+  "name": "simulatte",
+  "description": "Run synthetic research studies — concept testing, pricing, messaging, and more — directly from AI tools.",
+  "source_repo": "iqbalahmed7/simulatte-mcp-server",
+  "source_url": "https://github.com/iqbalahmed7/simulatte-mcp-server",
+  "install": "npx -y simulatte-mcp-server"
+}

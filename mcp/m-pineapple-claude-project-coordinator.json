@@ -1,0 +1,7 @@
+{
+  "name": "m-pineapple-claude-project-coordinator",
+  "description": "Provides Xcode and Swift project management with lifecycle tracking, task management, technology stack detection, analytics including activity heat maps and health scoring, plus security validation and Swift/SwiftUI knowledge base for iOS/macOS development workflows.",
+  "source_repo": "m-pineapple/claude-project-coordinator",
+  "source_url": "https://github.com/m-pineapple/claude-project-coordinator",
+  "install": "# git clone --depth 1 https://github.com/m-pineapple/claude-project-coordinator\n# See source for mcpServers config block"
+}

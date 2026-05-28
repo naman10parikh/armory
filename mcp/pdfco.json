@@ -1,0 +1,7 @@
+{
+  "name": "pdfco",
+  "description": "Integrates with PDF.co's cloud API to provide 30+ document processing tools including PDF conversion, form handling, OCR, merging, splitting, password protection, and invoice parsing for automated document workflows.",
+  "source_repo": "pdfdotco/pdfco-mcp",
+  "source_url": "https://github.com/pdfdotco/pdfco-mcp",
+  "install": "npx -y pdfco-mcp"
+}

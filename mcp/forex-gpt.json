@@ -1,0 +1,7 @@
+{
+  "name": "forex-gpt",
+  "description": "Forex and crypto trading analysis with real-time data across 127+ instruments",
+  "source_repo": "",
+  "source_url": "https://forex-gpt.ai",
+  "install": "# git clone --depth 1 https://forex-gpt.ai\n# See source for mcpServers config block"
+}

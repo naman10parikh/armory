@@ -1,0 +1,7 @@
+{
+  "name": "vilix",
+  "description": "Persistent AI memory service that stores and retrieves conversation context across Claude, ChatGPT, Cursor, and Perplexity through a hosted MCP endpoint.",
+  "source_repo": "",
+  "source_url": "https://www.getvilix.com",
+  "install": "# git clone --depth 1 https://www.getvilix.com\n# See source for mcpServers config block"
+}

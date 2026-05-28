@@ -1,0 +1,7 @@
+{
+  "name": "linked-api",
+  "description": "Lets AI assistants control LinkedIn accounts and retrieve real-time data.",
+  "source_repo": "linked-api/linkedapi-mcp",
+  "source_url": "https://github.com/linked-api/linkedapi-mcp",
+  "install": "npx -y linkedapi-mcp"
+}

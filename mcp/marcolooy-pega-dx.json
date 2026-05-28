@@ -1,0 +1,7 @@
+{
+  "name": "marcolooy-pega-dx",
+  "description": "Integrates with Pega Infinity's DX APIs to enable conversational case management and workflow automation through OAuth2 authentication, supporting case creation and retrieval, assignment management, file attachments, bulk actions, and data querying with filtering and aggregation across Pega's enterprise platform.",
+  "source_repo": "marco-looy/pega-dx-mcp",
+  "source_url": "https://github.com/marco-looy/pega-dx-mcp",
+  "install": "npx -y pega-dx-mcp"
+}

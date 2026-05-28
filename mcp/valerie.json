@@ -1,0 +1,7 @@
+{
+  "name": "valerie",
+  "description": "French real estate intelligence: DVF property transactions, internet coverage, and market insights via AI.",
+  "source_repo": "arenafriends/valerie-mcp",
+  "source_url": "https://github.com/arenafriends/valerie-mcp",
+  "install": "npx -y valerie-mcp"
+}

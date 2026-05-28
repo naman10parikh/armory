@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-socrata",
+  "description": "Searches and queries government open-data portals powered by Socrata using SoQL, with DuckDB integration for large dataset analysis.",
+  "source_repo": "cyanheads/socrata-mcp-server",
+  "source_url": "https://github.com/cyanheads/socrata-mcp-server",
+  "install": "npx -y socrata-mcp-server"
+}

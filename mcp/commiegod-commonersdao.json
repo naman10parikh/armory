@@ -1,0 +1,7 @@
+{
+  "name": "commiegod-commonersdao",
+  "description": "Interact with Commoner's DAO on Solana for auctions, governance, treasury, and discussion boards.",
+  "source_repo": "commiegod/commoners-web",
+  "source_url": "https://github.com/commiegod/commoners-web/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/commiegod/commoners-web/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

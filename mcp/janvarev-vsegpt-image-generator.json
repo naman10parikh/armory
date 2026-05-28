@@ -1,0 +1,7 @@
+{
+  "name": "janvarev-vsegpt-image-generator",
+  "description": "Integrates with VseGPT API to generate images from English-language prompts and store them locally with timestamp-based filenames.",
+  "source_repo": "janvarev/mcp-vsepgt-server",
+  "source_url": "https://github.com/janvarev/mcp-vsepgt-server",
+  "install": "# git clone --depth 1 https://github.com/janvarev/mcp-vsepgt-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xhs-insights",
+  "description": "Xiaohongshu (Red Note) MCP for note search, post detail reading, and comment analysis in AI workflows.",
+  "source_repo": "",
+  "source_url": "https://mcp.52choujiang.com/xhs/mcp",
+  "install": "# git clone --depth 1 https://mcp.52choujiang.com/xhs/mcp\n# See source for mcpServers config block"
+}

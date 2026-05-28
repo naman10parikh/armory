@@ -1,0 +1,7 @@
+{
+  "name": "aungmyokyaw-betterprompt",
+  "description": "Transforms simple requests into structured, context-rich prompts optimized for language models",
+  "source_repo": "aungmyokyaw/betterprompt-mcp",
+  "source_url": "https://github.com/aungmyokyaw/betterprompt-mcp",
+  "install": "npx -y betterprompt-mcp"
+}

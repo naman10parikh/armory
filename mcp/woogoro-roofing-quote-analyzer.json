@@ -1,0 +1,7 @@
+{
+  "name": "woogoro-roofing-quote-analyzer",
+  "description": "Paste any roofing contractor quote into Claude/Cursor/ChatGPT and Woogoro Roofing MCP audits it: - Detects scope gaps (tear-off, underlayment, ice shield, flashing, ridge vent, decking change-order risk) - Compares prices to state-adjusted per-square benchmarks using Woogoro's flywheel of real quote",
+  "source_repo": "",
+  "source_url": "https://woogoro.com/roofing-quote-analyzer.html",
+  "install": "# git clone --depth 1 https://woogoro.com/roofing-quote-analyzer.html\n# See source for mcpServers config block"
+}

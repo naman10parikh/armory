@@ -1,0 +1,7 @@
+{
+  "name": "props-labs-fireflies",
+  "description": "Integrates with Fireflies.ai API to enable retrieval, search, and summarization of meeting transcripts for natural language processing of meeting content.",
+  "source_repo": "props-labs/fireflies-mcp",
+  "source_url": "https://github.com/props-labs/fireflies-mcp",
+  "install": "npx -y fireflies-mcp"
+}

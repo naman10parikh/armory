@@ -1,0 +1,7 @@
+{
+  "name": "blue-perfumery",
+  "description": "Integrates with Blue Perfumery's product catalog to enable perfume discovery, search, filtering by category, and purchase link generation for conversational commerce applications.",
+  "source_repo": "recepgocmen/blue-perfumery-mcp-server",
+  "source_url": "https://github.com/recepgocmen/blue-perfumery-mcp-server",
+  "install": "npx -y blue-perfumery-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "himalayas",
+  "description": "Access tens of thousands of remote job listings and company information.",
+  "source_repo": "himalayas-app/himalayas-mcp",
+  "source_url": "https://github.com/himalayas-app/himalayas-mcp",
+  "install": "npx -y himalayas-mcp"
+}

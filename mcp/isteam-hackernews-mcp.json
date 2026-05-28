@@ -1,0 +1,7 @@
+{
+  "name": "isteam-hackernews-mcp",
+  "description": "MCP server for Hacker News that enables AI agents to search stories, read comments, and track tech trends via the public Hacker News API and Algolia HN Search.",
+  "source_repo": "isteamhq/hackernews-mcp",
+  "source_url": "https://github.com/isteamhq/hackernews-mcp",
+  "install": "npx -y hackernews-mcp"
+}

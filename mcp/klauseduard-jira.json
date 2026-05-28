@@ -1,0 +1,7 @@
+{
+  "name": "klauseduard-jira",
+  "description": "Integrates with JIRA issue tracking systems to enable retrieving, searching, creating, and updating issues, listing projects, and logging work time directly within conversations.",
+  "source_repo": "klauseduard/vibe-coded-jira-mcp",
+  "source_url": "https://github.com/klauseduard/vibe-coded-jira-mcp",
+  "install": "npx -y vibe-coded-jira-mcp"
+}

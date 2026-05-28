@@ -1,0 +1,7 @@
+{
+  "name": "arcadia-finance",
+  "description": "Manage concentrated liquidity on Uniswap and Aerodrome with rebalancing, compounding, and leverage.",
+  "source_repo": "arcadia-finance/mcp-server",
+  "source_url": "https://github.com/arcadia-finance/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/arcadia-finance/mcp-server\n# See source for mcpServers config block"
+}

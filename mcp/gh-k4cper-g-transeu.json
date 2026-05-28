@@ -1,0 +1,7 @@
+{
+  "name": "gh-k4cper-g-transeu",
+  "description": "Freight exchange integration for Trans.eu platform with offer search, load management, and XMPP messaging.",
+  "source_repo": "k4cper-g/transeu-mcp",
+  "source_url": "https://github.com/k4cper-g/transeu-mcp",
+  "install": "npx -y transeu-mcp"
+}

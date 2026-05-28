@@ -1,0 +1,7 @@
+{
+  "name": "gh-stultusmundi-chainvault",
+  "description": "Secure gateway between AI agents and EVM blockchains with vault-based key management and rule-enforced access control.",
+  "source_repo": "stultusmundi/chainvault-mcp",
+  "source_url": "https://github.com/stultusmundi/chainvault-mcp",
+  "install": "npx -y chainvault-mcp"
+}

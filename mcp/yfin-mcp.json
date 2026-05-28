@@ -1,0 +1,7 @@
+{
+  "name": "yfin-mcp",
+  "description": "An enhanced Yahoo Finance MCP server with pagination, caching, and LLM-optimized responses for stock data, financials, options, and analyst info.",
+  "source_repo": "fritzprix/yahoo-finance-mcp",
+  "source_url": "https://github.com/fritzprix/yahoo-finance-mcp",
+  "install": "npx -y yahoo-finance-mcp"
+}

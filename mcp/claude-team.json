@@ -1,0 +1,7 @@
+{
+  "name": "claude-team",
+  "description": "Orchestrates multiple AI models (Claude, GPT, Gemini) as specialized development team agents with distinct roles, providing conversation management, resumable workflows, and webhook integration for collaborative software development projects.",
+  "source_repo": "7836246/claude-team-mcp",
+  "source_url": "https://github.com/7836246/claude-team-mcp",
+  "install": "npx -y claude-team-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "genm-discord-webhook",
+  "description": "Integrates Discord webhooks to enable sending customized messages and notifications to Discord channels.",
+  "source_repo": "genm/mcp-server-discord-webhook",
+  "source_url": "https://github.com/genm/mcp-server-discord-webhook",
+  "install": "# git clone --depth 1 https://github.com/genm/mcp-server-discord-webhook\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "imnotdev25-browserless",
+  "description": "Browser automation via Browserless.io for PDF generation, screenshots, content extraction, scraping, performance audits, and bot detection bypass.",
+  "source_repo": "imnotdev25/browserless-mcp",
+  "source_url": "https://github.com/imnotdev25/browserless-mcp",
+  "install": "npx -y browserless-mcp"
+}

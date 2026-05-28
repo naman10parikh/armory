@@ -1,0 +1,7 @@
+{
+  "name": "rawveg-ollama",
+  "description": "Integrates Ollama's local LLM models with MCP-compatible applications, enabling on-premise AI processing and custom model deployment while maintaining data control.",
+  "source_repo": "rawveg/ollama-mcp",
+  "source_url": "https://github.com/rawveg/ollama-mcp",
+  "install": "npx -y ollama-mcp"
+}

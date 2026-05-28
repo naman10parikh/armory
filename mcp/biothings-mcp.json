@@ -1,0 +1,7 @@
+{
+  "name": "biothings-mcp",
+  "description": "Provides a Model Context Protocol server for accessing and querying biomedical data from BioThings services, including gene, variant, chemical, and taxon annotations.",
+  "source_repo": "longevity-genie/biothings-mcp",
+  "source_url": "https://github.com/longevity-genie/biothings-mcp",
+  "install": "npx -y biothings-mcp"
+}

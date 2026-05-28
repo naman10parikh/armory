@@ -1,0 +1,7 @@
+{
+  "name": "ethanjyx-openbrand",
+  "description": "Extracts brand assets including logos, colors, backdrop images, and brand names from any website URL.",
+  "source_repo": "tight-studio/openbrand",
+  "source_url": "https://github.com/tight-studio/openbrand/tree/HEAD/mcp",
+  "install": "# git clone --depth 1 https://github.com/tight-studio/openbrand/tree/HEAD/mcp\n# See source for mcpServers config block"
+}

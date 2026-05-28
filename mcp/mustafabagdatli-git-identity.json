@@ -1,0 +1,7 @@
+{
+  "name": "mustafabagdatli-git-identity",
+  "description": "Adds per-request cryptographic user attestation to MCP servers via ed25519 signatures and ASGI middleware.",
+  "source_repo": "mustafabagdatli-git/mcp-identity",
+  "source_url": "https://github.com/mustafabagdatli-git/mcp-identity",
+  "install": "# git clone --depth 1 https://github.com/mustafabagdatli-git/mcp-identity\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pyautogui-mcp",
+  "description": "Exposes PyAutoGUI desktop automation functions as MCP tools, enabling mouse control, keyboard input, and screenshot capture.",
+  "source_repo": "chigwell/pyautogui-mcp",
+  "source_url": "https://github.com/chigwell/pyautogui-mcp",
+  "install": "npx -y pyautogui-mcp"
+}

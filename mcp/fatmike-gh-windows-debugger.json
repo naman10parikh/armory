@@ -1,0 +1,7 @@
+{
+  "name": "fatmike-gh-windows-debugger",
+  "description": "Native Windows debugger with breakpoint management, memory inspection, disassembly analysis, and PE file examination for reverse engineering workflows",
+  "source_repo": "fatmike-gh/mcpdebugger",
+  "source_url": "https://github.com/fatmike-gh/mcpdebugger",
+  "install": "# git clone --depth 1 https://github.com/fatmike-gh/mcpdebugger\n# See source for mcpServers config block"
+}

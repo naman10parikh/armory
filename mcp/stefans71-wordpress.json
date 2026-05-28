@@ -1,0 +1,7 @@
+{
+  "name": "stefans71-wordpress",
+  "description": "Integrates WordPress with AI systems to enable automated content creation, site management, and data analysis for WordPress-based websites.",
+  "source_repo": "stefans71/wordpress-mcp-server",
+  "source_url": "https://github.com/stefans71/wordpress-mcp-server",
+  "install": "npx -y wordpress-mcp-server"
+}

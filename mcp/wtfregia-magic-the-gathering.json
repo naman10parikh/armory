@@ -1,0 +1,7 @@
+{
+  "name": "wtfregia-magic-the-gathering",
+  "description": "Comprehensive Magic: The Gathering card database with rules, combos, and Commander deck generation",
+  "source_repo": "wtfregia/mtg-mcp",
+  "source_url": "https://github.com/wtfregia/mtg-mcp",
+  "install": "npx -y mtg-mcp"
+}

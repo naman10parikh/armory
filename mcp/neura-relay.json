@@ -1,0 +1,7 @@
+{
+  "name": "neura-relay",
+  "description": "Governed action-card execution layer for AI agents with cryptographic Decision Receipts.",
+  "source_repo": "",
+  "source_url": "https://www.neurarelay.com/mcp",
+  "install": "# git clone --depth 1 https://www.neurarelay.com/mcp\n# See source for mcpServers config block"
+}

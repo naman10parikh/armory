@@ -1,0 +1,7 @@
+{
+  "name": "loreto-mcp",
+  "description": "Turn any YouTube video, article, PDF, or image into a reusable Claude Code skill — without leaving your editor.",
+  "source_repo": "kopias/loreto-mcp",
+  "source_url": "https://github.com/kopias/loreto-mcp",
+  "install": "npx -y loreto-mcp"
+}

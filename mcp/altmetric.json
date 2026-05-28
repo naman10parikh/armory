@@ -1,0 +1,7 @@
+{
+  "name": "altmetric",
+  "description": "Track research attention across news, policy documents, social media, and online platforms",
+  "source_repo": "altmetric/altmetric-mcp",
+  "source_url": "https://github.com/altmetric/altmetric-mcp",
+  "install": "npx -y altmetric-mcp"
+}

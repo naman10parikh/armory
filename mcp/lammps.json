@@ -1,0 +1,7 @@
+{
+  "name": "lammps",
+  "description": "Integrates with LAMMPS molecular dynamics simulation engine to enable natural language control over simulation setup, execution, and analysis including structure creation, force field configuration, trajectory monitoring, and thermodynamic property calculations.",
+  "source_repo": "chenghao-wu/mcp_lammps",
+  "source_url": "https://github.com/chenghao-wu/mcp_lammps",
+  "install": "# git clone --depth 1 https://github.com/chenghao-wu/mcp_lammps\n# See source for mcpServers config block"
+}

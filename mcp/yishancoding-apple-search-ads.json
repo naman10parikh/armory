@@ -1,0 +1,7 @@
+{
+  "name": "yishancoding-apple-search-ads",
+  "description": "Manages Apple Search Ads campaigns via API v5, with 54 tools for campaigns, keywords, reporting, geo targeting, and creatives.",
+  "source_repo": "yishancoding/apple-ads-mcp",
+  "source_url": "https://github.com/yishancoding/apple-ads-mcp",
+  "install": "npx -y apple-ads-mcp"
+}

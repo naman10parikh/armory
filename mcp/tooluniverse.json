@@ -1,0 +1,7 @@
+{
+  "name": "tooluniverse",
+  "description": "Provides scientific tools for AI scientists spanning life science, research, literature search, drug discovery, and more.",
+  "source_repo": "mims-harvard/tooluniverse",
+  "source_url": "https://github.com/mims-harvard/tooluniverse",
+  "install": "# git clone --depth 1 https://github.com/mims-harvard/tooluniverse\n# See source for mcpServers config block"
+}

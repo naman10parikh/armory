@@ -1,0 +1,7 @@
+{
+  "name": "vassiliylakhonin-agenda-intelligence",
+  "description": "Generate auditable strategic-risk memos covering sanctions, regulatory, geopolitical, and trade intelligence.",
+  "source_repo": "vassiliylakhonin/agenda-intelligence-md",
+  "source_url": "https://github.com/vassiliylakhonin/agenda-intelligence-md",
+  "install": "# git clone --depth 1 https://github.com/vassiliylakhonin/agenda-intelligence-md\n# See source for mcpServers config block"
+}

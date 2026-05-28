@@ -1,0 +1,7 @@
+{
+  "name": "c-cf-imf-data",
+  "description": "Provides structured access to International Monetary Fund datasets, enabling retrieval of economic indicators and financial statistics for research and analysis workflows.",
+  "source_repo": "c-cf/imf-data-mcp",
+  "source_url": "https://github.com/c-cf/imf-data-mcp",
+  "install": "npx -y imf-data-mcp"
+}

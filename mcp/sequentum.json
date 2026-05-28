@@ -1,0 +1,7 @@
+{
+  "name": "sequentum",
+  "description": "AI-driven interface to the Sequentum enterprise web scraping platform for creating agents, managing runs, and automating data extraction workflows.",
+  "source_repo": "sequentum/sequentum-mcp",
+  "source_url": "https://github.com/sequentum/sequentum-mcp",
+  "install": "npx -y sequentum-mcp"
+}

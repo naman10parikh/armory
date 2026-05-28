@@ -1,0 +1,7 @@
+{
+  "name": "otto-google-ads",
+  "description": "Launch and manage Google Ads straight from your AI client (e.g., Claude) with a hosted, remote MCP server - No Google Cloud setup, no JSON surgery, no terminal.",
+  "source_repo": "",
+  "source_url": "https://google-ads-mcp.notion.site/Otto-Google-Ads-MCP-Server-Remote-24947ca81ba480f5b122f781b406dfd5",
+  "install": "# git clone --depth 1 https://google-ads-mcp.notion.site/Otto-Google-Ads-MCP-Server-Remote-24947ca81ba480f5b122f781b406dfd5\n# See source for mcpServers config block"
+}

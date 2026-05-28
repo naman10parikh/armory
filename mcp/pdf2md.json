@@ -1,0 +1,7 @@
+{
+  "name": "pdf2md",
+  "description": "Pdf2md MCP server listed on mcp.so.",
+  "source_repo": "FutureUnreal/pdf2md",
+  "source_url": "https://mcp.so/server/pdf2md/FutureUnreal",
+  "install": "# git clone --depth 1 https://mcp.so/server/pdf2md/FutureUnreal\n# See source for mcpServers config block"
+}

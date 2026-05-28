@@ -1,0 +1,7 @@
+{
+  "name": "kalepail-stellar-blockchain",
+  "description": "Integrates with Stellar blockchain to enable wallet management, token deployment, and smart contract interactions on the Stellar testnet through dynamically generated tools",
+  "source_repo": "kalepail/stellar-mcp-server",
+  "source_url": "https://github.com/kalepail/stellar-mcp-server",
+  "install": "npx -y stellar-mcp-server"
+}

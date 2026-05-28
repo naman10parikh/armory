@@ -1,0 +1,7 @@
+{
+  "name": "codem",
+  "description": "CodeM MCP server listed on mcp.so.",
+  "source_repo": "k3d3/CodeM",
+  "source_url": "https://mcp.so/server/CodeM/k3d3",
+  "install": "# git clone --depth 1 https://mcp.so/server/CodeM/k3d3\n# See source for mcpServers config block"
+}

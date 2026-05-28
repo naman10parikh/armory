@@ -1,0 +1,7 @@
+{
+  "name": "mctx-example-app",
+  "description": "Reference implementation of an mctx-hosted MCP server demonstrating tools, resources, prompts, and channel events.",
+  "source_repo": "mctx-ai/example-mcp-server",
+  "source_url": "https://github.com/mctx-ai/example-mcp-server",
+  "install": "npx -y example-mcp-server"
+}

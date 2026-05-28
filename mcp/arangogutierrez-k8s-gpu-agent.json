@@ -1,0 +1,7 @@
+{
+  "name": "arangogutierrez-k8s-gpu-agent",
+  "description": "Provides ephemeral diagnostic capabilities for Kubernetes clusters with real-time NVIDIA GPU hardware introspection, health monitoring, and XID error analysis through kubectl debug sessions.",
+  "source_repo": "arangogutierrez/k8s-gpu-mcp-server",
+  "source_url": "https://github.com/arangogutierrez/k8s-gpu-mcp-server",
+  "install": "npx -y k8s-gpu-mcp-server"
+}

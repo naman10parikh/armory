@@ -1,0 +1,7 @@
+{
+  "name": "plex-mcp-server",
+  "description": "Plex Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "vladimir-tutin/plex-mcp-server",
+  "source_url": "https://mcp.so/server/plex-mcp-server/vladimir-tutin",
+  "install": "npx -y plex-mcp-server"
+}

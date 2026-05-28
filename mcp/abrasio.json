@@ -1,0 +1,7 @@
+{
+  "name": "abrasio",
+  "description": "MCP server exposing Abrasio's anti-detection browser automation SDK, with 15 tools for navigation, screenshots, and interaction in local or cloud modes.",
+  "source_repo": "scrape-technology/abrasio-mcp",
+  "source_url": "https://github.com/scrape-technology/abrasio-mcp",
+  "install": "npx -y abrasio-mcp"
+}

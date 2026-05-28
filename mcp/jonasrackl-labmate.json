@@ -1,0 +1,7 @@
+{
+  "name": "jonasrackl-labmate",
+  "description": "Interactive protocol design and experiment planning for laboratory research.",
+  "source_repo": "jonasrackl/labmate-mcp",
+  "source_url": "https://github.com/jonasrackl/labmate-mcp",
+  "install": "npx -y labmate-mcp"
+}

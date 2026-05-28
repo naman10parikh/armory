@@ -1,0 +1,7 @@
+{
+  "name": "soufianetahiri-dnspy",
+  "description": "Enables .NET reverse engineering workflows through the dnSpy and ILSpy ecosystem with type listing, method decompilation, IL inspection, string reference search, and binary patching capabilities.",
+  "source_repo": "soufianetahiri/dnspy-mcp",
+  "source_url": "https://github.com/soufianetahiri/dnspy-mcp",
+  "install": "npx -y dnspy-mcp"
+}

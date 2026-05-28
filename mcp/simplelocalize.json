@@ -1,0 +1,7 @@
+{
+  "name": "simplelocalize",
+  "description": "Integrates with SimpleLocalize translation management platform to enable bulk creation and updating of translation keys and content across multiple languages through natural language interaction",
+  "source_repo": "galvingao/mcp-simplelocalize",
+  "source_url": "https://github.com/galvingao/mcp-simplelocalize",
+  "install": "# git clone --depth 1 https://github.com/galvingao/mcp-simplelocalize\n# See source for mcpServers config block"
+}

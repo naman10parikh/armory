@@ -1,0 +1,7 @@
+{
+  "name": "gamma-app-mcp",
+  "description": "Enables generating presentations, documents, webpages, and social posts via Gamma's API with full parameter surface including templates, folders, headers/footers, and email sharing.",
+  "source_repo": "cphoskins/gamma-app-mcp",
+  "source_url": "https://github.com/cphoskins/gamma-app-mcp",
+  "install": "npx -y gamma-app-mcp"
+}

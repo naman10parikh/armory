@@ -1,0 +1,7 @@
+{
+  "name": "social-superpowers",
+  "description": "Hosted MCP for X/Twitter and Reddit. 12 read-only tools, no API keys, free during beta.",
+  "source_repo": "",
+  "source_url": "https://superpowers.social",
+  "install": "# git clone --depth 1 https://superpowers.social\n# See source for mcpServers config block"
+}

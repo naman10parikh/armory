@@ -1,0 +1,7 @@
+{
+  "name": "mkerchenski-reddit-ads",
+  "description": "Read-only Reddit Ads API integration for listing accounts, campaigns, ad groups, ads, and pulling performance reports.",
+  "source_repo": "mkerchenski/redditadsmcp",
+  "source_url": "https://github.com/mkerchenski/redditadsmcp",
+  "install": "# git clone --depth 1 https://github.com/mkerchenski/redditadsmcp\n# See source for mcpServers config block"
+}

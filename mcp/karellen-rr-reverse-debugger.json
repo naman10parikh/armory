@@ -1,0 +1,7 @@
+{
+  "name": "karellen-rr-reverse-debugger",
+  "description": "Integrates Mozilla's rr record-and-replay debugging tool with GDB for bidirectional debugging with breakpoint management, state inspection, and checkpoint operations.",
+  "source_repo": "karellen/karellen-rr-mcp",
+  "source_url": "https://github.com/karellen/karellen-rr-mcp",
+  "install": "npx -y karellen-rr-mcp"
+}

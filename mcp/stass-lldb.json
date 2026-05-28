@@ -1,0 +1,7 @@
+{
+  "name": "stass-lldb",
+  "description": "Enable disassembly, debugging and analysis of native apps via LLDB on macOS and Linux.",
+  "source_repo": "stass/lldb-mcp",
+  "source_url": "https://github.com/stass/lldb-mcp",
+  "install": "npx -y lldb-mcp"
+}

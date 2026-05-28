@@ -1,0 +1,7 @@
+{
+  "name": "anndata-mcp",
+  "description": "Allows to retrieve information about an AnnData object via MCP using the read_lazy function from anndata.",
+  "source_repo": "biocontext-ai/anndata-mcp",
+  "source_url": "https://github.com/biocontext-ai/anndata-mcp",
+  "install": "npx -y anndata-mcp"
+}

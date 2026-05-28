@@ -1,0 +1,7 @@
+{
+  "name": "formulahendry-spec-driven-development",
+  "description": "Provides three sequential prompts that guide software development from high-level requirements through EARS format documentation and design specifications to final code generation, supporting a structured waterfall development workflow.",
+  "source_repo": "formulahendry/mcp-server-spec-driven-development",
+  "source_url": "https://github.com/formulahendry/mcp-server-spec-driven-development",
+  "install": "# git clone --depth 1 https://github.com/formulahendry/mcp-server-spec-driven-development\n# See source for mcpServers config block"
+}

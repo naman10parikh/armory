@@ -1,0 +1,7 @@
+{
+  "name": "adi2011-core-lightning",
+  "description": "Provides direct access to Core Lightning nodes through gRPC interface, enabling Lightning Network operations including channel management, payment tracking, invoice handling, node monitoring, and financial analysis of routing fees and channel profitability.",
+  "source_repo": "adi2011/cln-mcp",
+  "source_url": "https://github.com/adi2011/cln-mcp",
+  "install": "npx -y cln-mcp"
+}

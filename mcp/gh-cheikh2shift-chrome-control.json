@@ -1,0 +1,7 @@
+{
+  "name": "gh-cheikh2shift-chrome-control",
+  "description": "Controls Chrome browser through a companion extension using Go and WebSocket for tab navigation, content extraction, and interaction.",
+  "source_repo": "cheikh2shift/chrome-mcp",
+  "source_url": "https://github.com/cheikh2shift/chrome-mcp",
+  "install": "npx -y chrome-mcp"
+}

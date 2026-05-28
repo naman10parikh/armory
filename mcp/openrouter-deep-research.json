@@ -1,0 +1,7 @@
+{
+  "name": "openrouter-deep-research",
+  "description": "Orchestrates multi-agent research by breaking complex queries into specialized sub-questions, distributing them across different models, and synthesizing findings into comprehensive reports.",
+  "source_repo": "wheattoast11/openrouter-deep-research-mcp",
+  "source_url": "https://github.com/wheattoast11/openrouter-deep-research-mcp",
+  "install": "npx -y openrouter-deep-research-mcp"
+}

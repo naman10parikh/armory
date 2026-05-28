@@ -1,0 +1,7 @@
+{
+  "name": "mahdin75-gis-operations",
+  "description": "Integrates with geospatial libraries to perform geometric transformations, coordinate system conversions, and spatial analyses using WKT geometry strings for map creation and location-based services.",
+  "source_repo": "mahdin75/gis-mcp",
+  "source_url": "https://github.com/mahdin75/gis-mcp",
+  "install": "npx -y gis-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gztchan-ossinsight",
+  "description": "Queries OSS Insight's public analytics API with 18 tools for GitHub repository trends, contributor statistics, collection analysis, and open-source ecosystem insights.",
+  "source_repo": "gztchan/ossinsight-mcp",
+  "source_url": "https://github.com/gztchan/ossinsight-mcp",
+  "install": "npx -y ossinsight-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "fichepro",
+  "description": "E-commerce product listing generation and SEO optimization for dropshippers.",
+  "source_repo": "sezerpro/fichepro-mcp",
+  "source_url": "https://github.com/sezerpro/fichepro-mcp",
+  "install": "npx -y fichepro-mcp"
+}

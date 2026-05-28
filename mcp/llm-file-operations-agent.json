@@ -1,0 +1,7 @@
+{
+  "name": "llm-file-operations-agent",
+  "description": "Enables natural language file operations and intelligent file analysis via MCP, supporting CRUD actions and multi-step reasoning for directory management.",
+  "source_repo": "AndreaBContarini/File_Operations_Agent",
+  "source_url": "https://github.com/AndreaBContarini/File_Operations_Agent",
+  "install": "# git clone --depth 1 https://github.com/AndreaBContarini/File_Operations_Agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "audienseco-audiense-insights",
+  "description": "Integrates with Audiense's audience insights platform, enabling retrieval of audience data and analytics for targeted marketing and social media strategy development.",
+  "source_repo": "audienseco/mcp-audiense-insights",
+  "source_url": "https://github.com/audienseco/mcp-audiense-insights",
+  "install": "# git clone --depth 1 https://github.com/audienseco/mcp-audiense-insights\n# See source for mcpServers config block"
+}

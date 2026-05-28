@@ -1,0 +1,7 @@
+{
+  "name": "mcp-example-netlify-express",
+  "description": "A basic example of developing and running serverless MCP using Netlify Functions.",
+  "source_repo": "ronkaldes/mcp-example",
+  "source_url": "https://github.com/ronkaldes/mcp-example",
+  "install": "# git clone --depth 1 https://github.com/ronkaldes/mcp-example\n# See source for mcpServers config block"
+}

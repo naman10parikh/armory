@@ -1,0 +1,7 @@
+{
+  "name": "my-minimax-mcp",
+  "description": "Wraps MiniMax AI as an autonomous code executor for Claude Code, offloading coding tasks to save Claude subscription tokens.",
+  "source_repo": "wongo/my-minimax-mcp",
+  "source_url": "https://github.com/wongo/my-minimax-mcp",
+  "install": "npx -y my-minimax-mcp"
+}

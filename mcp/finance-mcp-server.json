@@ -1,0 +1,7 @@
+{
+  "name": "finance-mcp-server",
+  "description": "Enables financial calculations such as compound interest, loan EMI, and savings goal projections through natural language.",
+  "source_repo": "Lord2709/MCPs",
+  "source_url": "https://github.com/Lord2709/MCPs",
+  "install": "# git clone --depth 1 https://github.com/Lord2709/MCPs\n# See source for mcpServers config block"
+}

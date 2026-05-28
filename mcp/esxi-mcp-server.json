@@ -1,0 +1,7 @@
+{
+  "name": "esxi-mcp-server",
+  "description": "Esxi Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "bright8192/esxi-mcp-server",
+  "source_url": "https://mcp.so/server/esxi-mcp-server/bright8192",
+  "install": "npx -y esxi-mcp-server"
+}

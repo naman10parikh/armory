@@ -1,0 +1,7 @@
+{
+  "name": "agentops-ai-agentops",
+  "description": "Provides access to AgentOps observability and tracing data for debugging agent runs, enabling retrieval of project information, trace details, span metrics, and complete execution traces through authenticated API access.",
+  "source_repo": "agentops-ai/agentops-mcp",
+  "source_url": "https://github.com/agentops-ai/agentops-mcp",
+  "install": "npx -y agentops-mcp"
+}

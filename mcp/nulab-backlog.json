@@ -1,0 +1,7 @@
+{
+  "name": "nulab-backlog",
+  "description": "Integrates with Backlog project management platform to enable direct management of projects, issues, wikis, git repositories, pull requests, and notifications without switching contexts.",
+  "source_repo": "nulab/backlog-mcp-server",
+  "source_url": "https://github.com/nulab/backlog-mcp-server",
+  "install": "npx -y backlog-mcp-server"
+}

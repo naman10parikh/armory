@@ -1,0 +1,7 @@
+{
+  "name": "plaid",
+  "description": "Integrates with Plaid's developer tools to provide personalized financial data integration insights, monitor API usage metrics, optimize Link conversion rates, and accelerate support resolution through instant diagnostics.",
+  "source_repo": "",
+  "source_url": "https://plaid.com/blog/plaid-mcp-ai-assistant-claude",
+  "install": "# git clone --depth 1 https://plaid.com/blog/plaid-mcp-ai-assistant-claude\n# See source for mcpServers config block"
+}

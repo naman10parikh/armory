@@ -1,0 +1,7 @@
+{
+  "name": "fredshred7-whatsapp-cloud-api",
+  "description": "WhatsApp messaging via official Meta Cloud API with templates, media, and webhooks.",
+  "source_repo": "fredshred7/whatsapp-mcp-server",
+  "source_url": "https://github.com/fredshred7/whatsapp-mcp-server",
+  "install": "npx -y whatsapp-mcp-server"
+}

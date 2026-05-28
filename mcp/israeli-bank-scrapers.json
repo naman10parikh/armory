@@ -1,0 +1,7 @@
+{
+  "name": "israeli-bank-scrapers",
+  "description": "Connects to Israeli banking data for secure access to transactions from all major Israeli banks and credit card companies, enabling financial analysis and expense tracking across multiple institutions.",
+  "source_repo": "mottibec/israeli-bank-mcp",
+  "source_url": "https://github.com/mottibec/israeli-bank-mcp",
+  "install": "npx -y israeli-bank-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-market-russia-2",
+  "description": "MCP server for Russian construction market data. Access 3,395 construction companies, 13,436 projects across 18 regions of Russia. Search contractors, compare prices, analyze ratings, get market reports — all via MCP protocol. 21 tools including search, analytics, cost estimation, contractor recomme",
+  "source_repo": "",
+  "source_url": "https://mcp-market.ru",
+  "install": "# git clone --depth 1 https://mcp-market.ru\n# See source for mcpServers config block"
+}

@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [stop-check-console-log, stop-cost-tracker]
-tags: [ecc, hook, Stop]
+tags: [hook, Stop]
 ---
 ## What it is
 Stop hook: Send desktop notification (macOS/WSL) with task summary when Claude responds (matcher: *).

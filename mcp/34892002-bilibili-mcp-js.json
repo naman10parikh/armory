@@ -1,0 +1,7 @@
+{
+  "name": "34892002-bilibili-mcp-js",
+  "description": "A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.",
+  "source_repo": "34892002/bilibili-mcp-js",
+  "source_url": "https://github.com/34892002/bilibili-mcp-js",
+  "install": "# git clone --depth 1 https://github.com/34892002/bilibili-mcp-js\n# See source for mcpServers config block"
+}

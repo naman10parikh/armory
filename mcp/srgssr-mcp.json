@@ -1,0 +1,7 @@
+{
+  "name": "srgssr-mcp",
+  "description": "MCP server connecting AI models to SRG SSR public APIs – weather, TV/radio metadata, program guide and Swiss votations/elections since 1900.",
+  "source_repo": "malkreide/srgssr-mcp",
+  "source_url": "https://github.com/malkreide/srgssr-mcp",
+  "install": "npx -y srgssr-mcp"
+}

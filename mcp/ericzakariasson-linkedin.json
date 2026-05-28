@@ -1,0 +1,7 @@
+{
+  "name": "ericzakariasson-linkedin",
+  "description": "Automates LinkedIn posting through browser automation using Playwright, enabling direct content publishing with image attachments by connecting to Chrome in remote debugging mode.",
+  "source_repo": "ericzakariasson/linkedin-mcp-server",
+  "source_url": "https://github.com/ericzakariasson/linkedin-mcp-server",
+  "install": "npx -y linkedin-mcp-server"
+}

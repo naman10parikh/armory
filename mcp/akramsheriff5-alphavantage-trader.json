@@ -1,0 +1,7 @@
+{
+  "name": "akramsheriff5-alphavantage-trader",
+  "description": "Integrates with AlphaVantage API to fetch intraday stock data, calculate technical indicators, and generate trade recommendations based on market analysis.",
+  "source_repo": "akramsheriff5/mcp-server",
+  "source_url": "https://github.com/akramsheriff5/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/akramsheriff5/mcp-server\n# See source for mcpServers config block"
+}

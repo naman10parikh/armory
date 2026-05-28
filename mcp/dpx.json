@@ -1,0 +1,7 @@
+{
+  "name": "dpx",
+  "description": "AI-native stablecoin settlement rail for institutional cross-border transactions with adaptive oracle and autonomous execution.",
+  "source_repo": "untitledfinancial/dpx-mcp",
+  "source_url": "https://github.com/untitledfinancial/dpx-mcp",
+  "install": "npx -y dpx-mcp"
+}

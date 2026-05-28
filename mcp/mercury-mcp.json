@@ -1,0 +1,7 @@
+{
+  "name": "mercury-mcp",
+  "description": "Simple MCP server that interfaces with the Mercury API, allowing you to talk to your Mercury banking data from any MCP client like Cursor or Claude Desktop.",
+  "source_repo": "dragonkhoi/mercury-mcp",
+  "source_url": "https://github.com/dragonkhoi/mercury-mcp",
+  "install": "npx -y mercury-mcp"
+}

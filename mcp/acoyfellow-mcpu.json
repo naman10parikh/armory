@@ -1,0 +1,7 @@
+{
+  "name": "acoyfellow-mcpu",
+  "description": "Self-hosted Cloudflare Workers MCP server for repo management and deployment with 8 tools for code editing and committing.",
+  "source_repo": "acoyfellow/mcpu",
+  "source_url": "https://github.com/acoyfellow/mcpu",
+  "install": "# git clone --depth 1 https://github.com/acoyfellow/mcpu\n# See source for mcpServers config block"
+}

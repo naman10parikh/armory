@@ -1,0 +1,7 @@
+{
+  "name": "firefly-iii-mcp-server",
+  "description": "Enables AI assistants to manage Firefly III personal finance accounts and transactions through the Model Context Protocol.",
+  "source_repo": "etnperlong/firefly-iii-mcp",
+  "source_url": "https://github.com/etnperlong/firefly-iii-mcp",
+  "install": "npx -y firefly-iii-mcp"
+}

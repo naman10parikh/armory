@@ -1,0 +1,7 @@
+{
+  "name": "jskorlol-json-skeleton",
+  "description": "Creates lightweight skeleton representations of large JSON files by truncating strings, deduplicating arrays, and optionally showing only data types to dramatically reduce file size while preserving complete structure for understanding schemas and API responses.",
+  "source_repo": "jskorlol/json-skeleton-mcp",
+  "source_url": "https://github.com/jskorlol/json-skeleton-mcp",
+  "install": "npx -y json-skeleton-mcp"
+}

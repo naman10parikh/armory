@@ -1,0 +1,7 @@
+{
+  "name": "ahrefs",
+  "description": "Integrates with Ahrefs' SEO and marketing APIs to provide rank tracking, keyword research, batch analysis, search volume data, and competitor insights for search marketing intelligence workflows.",
+  "source_repo": "ahrefs/ahrefs-mcp-server",
+  "source_url": "https://github.com/ahrefs/ahrefs-mcp-server",
+  "install": "npx -y ahrefs-mcp-server"
+}

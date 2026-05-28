@@ -1,0 +1,7 @@
+{
+  "name": "coordinalo",
+  "description": "Connects to Coordinalo's scheduling and booking platform for managing appointments, clients, providers, and services.",
+  "source_repo": "danioni/coordinalo-mcp",
+  "source_url": "https://github.com/danioni/coordinalo-mcp",
+  "install": "npx -y coordinalo-mcp"
+}

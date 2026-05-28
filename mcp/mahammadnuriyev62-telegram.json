@@ -1,0 +1,7 @@
+{
+  "name": "mahammadnuriyev62-telegram",
+  "description": "Sends Telegram notifications including messages, photos, and documents via Claude.",
+  "source_repo": "mahammadnuriyev62/telegram-mcp",
+  "source_url": "https://github.com/mahammadnuriyev62/telegram-mcp",
+  "install": "npx -y telegram-mcp"
+}

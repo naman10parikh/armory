@@ -1,0 +1,7 @@
+{
+  "name": "mcp-localintel",
+  "description": "The routing layer between AI agents and local Florida businesses. Live data on permits, sector gaps, and market signals across 2,383 ZIP codes — so when an agent, voice assistant, or real customer needs something done, the right business gets the job. Ask LocalIntel Claim Your Listing",
+  "source_repo": "MCFLAMINGO/gsb-swarm",
+  "source_url": "https://github.com/MCFLAMINGO/gsb-swarm",
+  "install": "# git clone --depth 1 https://github.com/MCFLAMINGO/gsb-swarm\n# See source for mcpServers config block"
+}

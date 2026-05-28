@@ -1,0 +1,7 @@
+{
+  "name": "mikechao-metmuseum-mcp",
+  "description": "Metropolitan Museum of Art Collection API integration to search and display artworks in the collection.",
+  "source_repo": "mikechao/metmuseum-mcp",
+  "source_url": "https://github.com/mikechao/metmuseum-mcp",
+  "install": "npx -y metmuseum-mcp"
+}

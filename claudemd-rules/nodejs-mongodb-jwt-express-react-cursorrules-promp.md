@@ -1,0 +1,14 @@
+---
+name: nodejs-mongodb-jwt-express-react-cursorrules-promp
+type: claudemd-rules
+source_repo: PatrickJS/awesome-cursorrules
+source_url: https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nodejs-mongodb-jwt-express-react-cursorrules-promp.mdc
+license: CC0-1.0
+---
+# nodejs-mongodb-jwt-express-react-cursorrules-promp
+
+Cursor rules for Node.js development with MongoDB, JWT, Express, and React integration.
+
+**Source:** https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules/nodejs-mongodb-jwt-express-react-cursorrules-promp.mdc
+
+> Generated from the Armory catalog. Full metadata lives in `brain/components/claudemd-rules/nodejs-mongodb-jwt-express-react-cursorrules-promp.md`.

@@ -1,0 +1,7 @@
+{
+  "name": "twincat-knowledge-mcp-server",
+  "description": "Enables semantic search over TwinCAT 3 documentation using natural language queries, with intelligent caching for fast results.",
+  "source_repo": "njfsmallet-eng/twincat-knowledge-mcp-server",
+  "source_url": "https://github.com/njfsmallet-eng/twincat-knowledge-mcp-server",
+  "install": "npx -y twincat-knowledge-mcp-server"
+}

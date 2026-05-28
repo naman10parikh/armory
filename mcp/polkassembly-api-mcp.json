@@ -1,0 +1,7 @@
+{
+  "name": "polkassembly-api-mcp",
+  "description": "Polkassembly Api Mcp MCP server listed on mcp.so.",
+  "source_repo": "interweb-it/polkassembly-api-mcp",
+  "source_url": "https://mcp.so/server/polkassembly-api-mcp/interweb-it",
+  "install": "npx -y polkassembly-api-mcp"
+}

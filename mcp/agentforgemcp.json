@@ -1,0 +1,7 @@
+{
+  "name": "agentforgemcp",
+  "description": "AgentForgeMCP MCP server listed on mcp.so.",
+  "source_repo": "DataBassGit/AgentForgeMCP",
+  "source_url": "https://mcp.so/server/AgentForgeMCP/DataBassGit",
+  "install": "# git clone --depth 1 https://mcp.so/server/AgentForgeMCP/DataBassGit\n# See source for mcpServers config block"
+}

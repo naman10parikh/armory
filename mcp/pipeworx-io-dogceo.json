@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-dogceo",
+  "description": "Fetch random dog images and browse breeds using the Dog CEO API.",
+  "source_repo": "pipeworx-io/mcp-dogceo",
+  "source_url": "https://github.com/pipeworx-io/mcp-dogceo",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-dogceo\n# See source for mcpServers config block"
+}

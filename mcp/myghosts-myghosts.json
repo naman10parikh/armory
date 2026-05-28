@@ -1,0 +1,7 @@
+{
+  "name": "myghosts-myghosts",
+  "description": "AI character memory and personality persistence platform for conversational agents.",
+  "source_repo": "",
+  "source_url": "https://myghosts.app/api/mcp",
+  "install": "# git clone --depth 1 https://myghosts.app/api/mcp\n# See source for mcpServers config block"
+}

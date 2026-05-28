@@ -1,0 +1,7 @@
+{
+  "name": "ammawla-encode-toolkit",
+  "description": "Search ENCODE genomics data and cross-reference biomedical databases.",
+  "source_repo": "ammawla/encode-toolkit",
+  "source_url": "https://github.com/ammawla/encode-toolkit",
+  "install": "# git clone --depth 1 https://github.com/ammawla/encode-toolkit\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "poll-the-people-customgpt-mcp",
+  "description": "An MCP server for accessing all of CustomGPT.ai's anti-hallucination RAG-as-a-service API endpoints.",
+  "source_repo": "Poll-The-People/customgpt-mcp",
+  "source_url": "https://github.com/Poll-The-People/customgpt-mcp",
+  "install": "npx -y customgpt-mcp"
+}

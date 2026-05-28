@@ -1,0 +1,7 @@
+{
+  "name": "t0saki-key2oauth",
+  "description": "Cloudflare Worker that wraps API-key MCP servers with OAuth 2.1 compliance for compatibility with Claude.ai and Cursor.",
+  "source_repo": "t0saki/mcp-key2oauth",
+  "source_url": "https://github.com/t0saki/mcp-key2oauth",
+  "install": "# git clone --depth 1 https://github.com/t0saki/mcp-key2oauth\n# See source for mcpServers config block"
+}

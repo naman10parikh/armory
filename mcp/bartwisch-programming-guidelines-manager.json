@@ -1,0 +1,7 @@
+{
+  "name": "bartwisch-programming-guidelines-manager",
+  "description": "Integrates with development tools to enforce consistent coding standards by managing and serving programming guidelines and rules across projects.",
+  "source_repo": "bartwisch/mcprules",
+  "source_url": "https://github.com/bartwisch/mcprules",
+  "install": "# git clone --depth 1 https://github.com/bartwisch/mcprules\n# See source for mcpServers config block"
+}

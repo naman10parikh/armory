@@ -1,0 +1,7 @@
+{
+  "name": "tailscale-blade-mcp",
+  "description": "Enables AI agents to securely interact with Tailscale tailnets for device inventory, ACL review, key hygiene, and more, with token-efficient output and write-gated mutations.",
+  "source_repo": "Groupthink-dev/tailscale-blade-mcp",
+  "source_url": "https://github.com/Groupthink-dev/tailscale-blade-mcp",
+  "install": "npx -y tailscale-blade-mcp"
+}

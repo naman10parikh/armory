@@ -1,0 +1,7 @@
+{
+  "name": "alexandreroman-time",
+  "description": "Integrates with Spring AI to provide time-related services, enabling precise time management and scheduling functionalities in Java applications.",
+  "source_repo": "alexandreroman/mcp-time",
+  "source_url": "https://github.com/alexandreroman/mcp-time",
+  "install": "# git clone --depth 1 https://github.com/alexandreroman/mcp-time\n# See source for mcpServers config block"
+}

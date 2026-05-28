@@ -1,0 +1,7 @@
+{
+  "name": "scout-apm",
+  "description": "Integrates with Scout APM to provide real-time application performance monitoring data including N+1 queries, memory bloat, slow queries, endpoint metrics, and detailed execution traces with line-of-code information for targeted performance debugging and automated issue detection.",
+  "source_repo": "scoutapp/scout-mcp-local",
+  "source_url": "https://github.com/scoutapp/scout-mcp-local",
+  "install": "# git clone --depth 1 https://github.com/scoutapp/scout-mcp-local\n# See source for mcpServers config block"
+}

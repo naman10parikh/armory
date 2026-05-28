@@ -1,0 +1,7 @@
+{
+  "name": "agentphone",
+  "description": "Give AI agents real phone numbers, SMS messaging, and voice calls via MCP.",
+  "source_repo": "agentphone-ai/agentphone-mcp",
+  "source_url": "https://github.com/agentphone-ai/agentphone-mcp",
+  "install": "npx -y agentphone-mcp"
+}

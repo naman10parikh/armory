@@ -1,0 +1,7 @@
+{
+  "name": "foundry-toolkit",
+  "description": "Integrates with Foundry blockchain development toolkit to enable smart contract deployment, testing, bytecode analysis, and transaction inspection across local Anvil instances and remote EVM networks.",
+  "source_repo": "praneshasp/foundry-mcp-server",
+  "source_url": "https://github.com/praneshasp/foundry-mcp-server",
+  "install": "npx -y foundry-mcp-server"
+}

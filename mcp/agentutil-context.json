@@ -1,0 +1,7 @@
+{
+  "name": "agentutil-context",
+  "description": "Situational awareness for AI agents with timezone, holiday, business calendar, and platform status checks for timing-sensitive actions.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/agentutil-context",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/agentutil-context\n# See source for mcpServers config block"
+}

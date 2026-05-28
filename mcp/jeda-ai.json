@@ -1,0 +1,7 @@
+{
+  "name": "jeda-ai",
+  "description": "Visual AI tool for creating SWOT analyses, flowcharts, mindmaps, and Gantt diagrams.",
+  "source_repo": "",
+  "source_url": "https://jeda.ai",
+  "install": "# git clone --depth 1 https://jeda.ai\n# See source for mcpServers config block"
+}

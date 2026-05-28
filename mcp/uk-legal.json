@@ -1,0 +1,7 @@
+{
+  "name": "uk-legal",
+  "description": "A Model Context Protocol server for UK legal research. Connects AI assistants to case law, legislation, parliamentary debates, bills, votes, committees, OSCOLA citation parsing, and HMRC tax data.",
+  "source_repo": "",
+  "source_url": "https://bouch.dev/products/uk-legal-mcp/",
+  "install": "# git clone --depth 1 https://bouch.dev/products/uk-legal-mcp/\n# See source for mcpServers config block"
+}

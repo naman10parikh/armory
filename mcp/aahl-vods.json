@@ -1,0 +1,7 @@
+{
+  "name": "aahl-vods",
+  "description": "Searches Chinese video streaming platforms for TV series and anime playback URLs with Xiaomi TV integration.",
+  "source_repo": "aahl/mcp-vods",
+  "source_url": "https://github.com/aahl/mcp-vods",
+  "install": "# git clone --depth 1 https://github.com/aahl/mcp-vods\n# See source for mcpServers config block"
+}

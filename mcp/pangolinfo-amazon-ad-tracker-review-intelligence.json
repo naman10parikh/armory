@@ -1,0 +1,7 @@
+{
+  "name": "pangolinfo-amazon-ad-tracker-review-intelligence",
+  "description": "Real-time Amazon Sponsored Products (SP) ad placements, keyword tracking, and comprehensive review data for AI Agents. Enables LLMs to autonomously conduct competitor ad audits, consumer sentiment analysis (VOC), and product optimization.",
+  "source_repo": "pangolinfo/pangolinfo-mcp",
+  "source_url": "https://github.com/pangolinfo/pangolinfo-mcp",
+  "install": "npx -y pangolinfo-mcp"
+}

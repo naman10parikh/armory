@@ -1,0 +1,7 @@
+{
+  "name": "amotivv-memory-box",
+  "description": "Integrates with Memory Box to provide persistent, context-aware interactions through semantic memory storage and retrieval using vector embeddings and search capabilities.",
+  "source_repo": "amotivv/memory-box-mcp",
+  "source_url": "https://github.com/amotivv/memory-box-mcp",
+  "install": "npx -y memory-box-mcp"
+}

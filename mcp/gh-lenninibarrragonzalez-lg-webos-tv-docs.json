@@ -1,0 +1,7 @@
+{
+  "name": "gh-lenninibarrragonzalez-lg-webos-tv-docs",
+  "description": "Search and retrieve LG webOS TV developer documentation.",
+  "source_repo": "lenninibarrragonzalez/lg-mcp-docs",
+  "source_url": "https://github.com/lenninibarrragonzalez/lg-mcp-docs",
+  "install": "# git clone --depth 1 https://github.com/lenninibarrragonzalez/lg-mcp-docs\n# See source for mcpServers config block"
+}

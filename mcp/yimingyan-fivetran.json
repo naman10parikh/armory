@@ -1,0 +1,7 @@
+{
+  "name": "yimingyan-fivetran",
+  "description": "Manages Fivetran data pipelines including connections, syncs, schemas, and status monitoring.",
+  "source_repo": "yimingyan/fivetran-mcp",
+  "source_url": "https://github.com/yimingyan/fivetran-mcp",
+  "install": "npx -y fivetran-mcp"
+}

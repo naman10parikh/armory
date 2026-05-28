@@ -1,0 +1,7 @@
+{
+  "name": "adner-dataverse",
+  "description": "Integrates with Microsoft Dataverse to execute FetchXML queries, create bulk contacts with progress tracking, and generate Chart.js reports while using intelligent prompts for large dataset management and markdown table transformation.",
+  "source_repo": "adner/mcp_resourcelinks",
+  "source_url": "https://github.com/adner/mcp_resourcelinks",
+  "install": "# git clone --depth 1 https://github.com/adner/mcp_resourcelinks\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ui-tars-desktop",
+  "description": "UI TARS Desktop MCP server listed on mcp.so.",
+  "source_repo": "bytedance/UI-TARS-desktop",
+  "source_url": "https://mcp.so/server/UI-TARS-desktop/bytedance",
+  "install": "# git clone --depth 1 https://mcp.so/server/UI-TARS-desktop/bytedance\n# See source for mcpServers config block"
+}

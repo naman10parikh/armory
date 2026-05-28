@@ -1,0 +1,7 @@
+{
+  "name": "gimmedg-unreal-engine-5",
+  "description": "Bridges Unreal Engine 5 with AI assistants through a C++ plugin and Python server, enabling real-time manipulation of actors, blueprints, PCG graphs, and Python script execution with RAG-powered documentation assistance.",
+  "source_repo": "gimmedg/unrealengine5-mcp",
+  "source_url": "https://github.com/gimmedg/unrealengine5-mcp",
+  "install": "npx -y unrealengine5-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "horustechltd-horus-flow-mcp",
+  "description": "Institutional-grade crypto and US equity orderflow engine for real-time liquidity analysis and institutional alpha.",
+  "source_repo": "horustechltd/horus-flow-mcp",
+  "source_url": "https://github.com/horustechltd/horus-flow-mcp",
+  "install": "npx -y horus-flow-mcp"
+}

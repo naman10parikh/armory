@@ -1,0 +1,7 @@
+{
+  "name": "21stdev-magic-ui-generator",
+  "description": "Bridges to 21st.dev's Magic API for generating UI components from descriptions, fetching existing components for inspiration, and searching for company logos in various formats.",
+  "source_repo": "oyasimi1209/magic-mcp",
+  "source_url": "https://github.com/oyasimi1209/magic-mcp",
+  "install": "npx -y magic-mcp"
+}

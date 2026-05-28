@@ -1,0 +1,7 @@
+{
+  "name": "the-focus-ai-buttondown",
+  "description": "Integrates with Buttondown newsletter API for managing email campaigns through tools for listing, creating, analyzing, and scheduling newsletters with secure API key handling and ISO 8601 datetime formatting.",
+  "source_repo": "the-focus-ai/buttondown-mcp",
+  "source_url": "https://github.com/the-focus-ai/buttondown-mcp",
+  "install": "npx -y buttondown-mcp"
+}

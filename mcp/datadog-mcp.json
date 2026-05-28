@@ -1,0 +1,7 @@
+{
+  "name": "datadog-mcp",
+  "description": "Enables AI assistants to query and manage Datadog observability data including metrics, logs, traces, and monitors through natural language. Supports read-only operations by default for security.",
+  "source_repo": "Vicks9070/datadog-mcp",
+  "source_url": "https://github.com/Vicks9070/datadog-mcp",
+  "install": "npx -y datadog-mcp"
+}

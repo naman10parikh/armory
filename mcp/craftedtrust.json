@@ -1,0 +1,7 @@
+{
+  "name": "craftedtrust",
+  "description": "Independent trust verification for MCP servers with security scanning, trust scoring, and certification.",
+  "source_repo": "cybercraftsolutionsllc/trust-gated-agent-example",
+  "source_url": "https://github.com/cybercraftsolutionsllc/trust-gated-agent-example",
+  "install": "# git clone --depth 1 https://github.com/cybercraftsolutionsllc/trust-gated-agent-example\n# See source for mcpServers config block"
+}

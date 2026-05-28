@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-1c-rest",
+  "description": "Integrates with 1C:Enterprise REST API for catalogs and documents.",
+  "source_repo": "theyahia/1c-rest-mcp",
+  "source_url": "https://github.com/theyahia/1c-rest-mcp",
+  "install": "npx -y 1c-rest-mcp"
+}

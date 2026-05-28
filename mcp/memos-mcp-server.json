@@ -1,0 +1,7 @@
+{
+  "name": "memos-mcp-server",
+  "description": "Enables AI assistants to create, read, update, delete, and list memos via the MCP protocol.",
+  "source_repo": "mylxsw/memos-mcp-server",
+  "source_url": "https://github.com/mylxsw/memos-mcp-server",
+  "install": "npx -y memos-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "barateza-plesk-dev-docs",
+  "description": "Provides hybrid semantic search across Plesk developer documentation including Admin Guide, REST API, CLI, PHP SDK, and JavaScript SDK.",
+  "source_repo": "barateza/mcp-plesk-dev-docs",
+  "source_url": "https://github.com/barateza/mcp-plesk-dev-docs",
+  "install": "# git clone --depth 1 https://github.com/barateza/mcp-plesk-dev-docs\n# See source for mcpServers config block"
+}

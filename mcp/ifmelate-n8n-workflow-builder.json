@@ -1,0 +1,7 @@
+{
+  "name": "ifmelate-n8n-workflow-builder",
+  "description": "Integrates with n8n workflow automation platform to enable natural language workflow creation, management, and deployment with encrypted credential handling, role-based access control, and automated testing capabilities.",
+  "source_repo": "ifmelate/n8n-workflow-builder-mcp",
+  "source_url": "https://github.com/ifmelate/n8n-workflow-builder-mcp",
+  "install": "npx -y n8n-workflow-builder-mcp"
+}

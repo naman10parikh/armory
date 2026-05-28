@@ -1,0 +1,7 @@
+{
+  "name": "replenishradar",
+  "description": "Multi-channel inventory intelligence for Shopify and Amazon with stockout risk analysis, demand forecasts, and purchase order management.",
+  "source_repo": "replenishradar/mcp",
+  "source_url": "https://github.com/replenishradar/mcp",
+  "install": "# git clone --depth 1 https://github.com/replenishradar/mcp\n# See source for mcpServers config block"
+}

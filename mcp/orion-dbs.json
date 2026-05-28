@@ -1,0 +1,7 @@
+{
+  "name": "orion-dbs",
+  "description": "Explore open research datasets from OpenAlex, Crossref, ORCID, and DataCite on Google BigQuery.",
+  "source_repo": "subugoe/orion-mcp",
+  "source_url": "https://github.com/subugoe/orion-mcp",
+  "install": "npx -y orion-mcp"
+}

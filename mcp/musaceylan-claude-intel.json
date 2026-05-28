@@ -1,0 +1,7 @@
+{
+  "name": "musaceylan-claude-intel",
+  "description": "Auto-evolving developer intelligence layer that scans GitHub repos, extracts patterns, and proposes CLAUDE.md improvements.",
+  "source_repo": "musaceylan/claude-intel-mcp",
+  "source_url": "https://github.com/musaceylan/claude-intel-mcp",
+  "install": "npx -y claude-intel-mcp"
+}

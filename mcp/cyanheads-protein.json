@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-protein",
+  "description": "Retrieves and analyzes 3D protein structural data from RCSB PDB, PDBe, and UniProt",
+  "source_repo": "cyanheads/protein-mcp-server",
+  "source_url": "https://github.com/cyanheads/protein-mcp-server",
+  "install": "npx -y protein-mcp-server"
+}

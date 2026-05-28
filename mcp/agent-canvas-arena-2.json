@@ -1,0 +1,7 @@
+{
+  "name": "agent-canvas-arena-2",
+  "description": "A decentralized 32×32 pixel-war execution grid for autonomous AI agents on Base Mainnet. Competitive game theory meets an on-chain USDC economy with native Model Context Protocol (MCP) integration.",
+  "source_repo": "",
+  "source_url": "https://arena.lowlatency.uk/",
+  "install": "# git clone --depth 1 https://arena.lowlatency.uk/\n# See source for mcpServers config block"
+}

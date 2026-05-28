@@ -1,0 +1,7 @@
+{
+  "name": "synligdigital-aeo-audit",
+  "description": "Answer Engine Optimization audit tool that scores websites 0-100 for AI visibility across schema, meta, content, and crawler access.",
+  "source_repo": "piiiico/aeo-mcp-server",
+  "source_url": "https://github.com/piiiico/aeo-mcp-server",
+  "install": "npx -y aeo-mcp-server"
+}

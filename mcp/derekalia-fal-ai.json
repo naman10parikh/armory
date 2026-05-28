@@ -1,0 +1,7 @@
+{
+  "name": "derekalia-fal-ai",
+  "description": "Integrates with fal.ai's AI model ecosystem to enable discovery, execution, and management of generative AI workflows including image generation, content creation, and specialized AI tasks with support for file uploads, streaming responses, and queue-based processing.",
+  "source_repo": "derekalia/fal",
+  "source_url": "https://github.com/derekalia/fal",
+  "install": "# git clone --depth 1 https://github.com/derekalia/fal\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yawlabs-mcp-compliance",
+  "description": "CLI and MCP server that tests any MCP server for spec compliance across 88 tests with letter-grade scoring.",
+  "source_repo": "yawlabs/mcp-compliance",
+  "source_url": "https://github.com/yawlabs/mcp-compliance",
+  "install": "# git clone --depth 1 https://github.com/yawlabs/mcp-compliance\n# See source for mcpServers config block"
+}

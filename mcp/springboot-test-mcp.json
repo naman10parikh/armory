@@ -1,0 +1,7 @@
+{
+  "name": "springboot-test-mcp",
+  "description": "A Spring Boot REST API testing server that supports functional testing with assertions, database queries, and performance testing with configurable concurrency and stress testing.",
+  "source_repo": "KenLin-7/springboot-test-mcp",
+  "source_url": "https://github.com/KenLin-7/springboot-test-mcp",
+  "install": "npx -y springboot-test-mcp"
+}

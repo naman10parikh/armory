@@ -1,0 +1,7 @@
+{
+  "name": "gh-anthonybono21-cloud-leapfrog",
+  "description": "Multi-session browser automation with 15 parallel isolated browser instances.",
+  "source_repo": "anthonybono21-cloud/leapfrog",
+  "source_url": "https://github.com/anthonybono21-cloud/leapfrog",
+  "install": "# git clone --depth 1 https://github.com/anthonybono21-cloud/leapfrog\n# See source for mcpServers config block"
+}

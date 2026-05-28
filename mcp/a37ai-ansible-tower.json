@@ -1,0 +1,7 @@
+{
+  "name": "a37ai-ansible-tower",
+  "description": "Bridges AI systems with Ansible Tower/AWX instances for infrastructure automation, enabling inventory, host, job template, and credential management through a secure API interface for DevOps workflows.",
+  "source_repo": "a37ai/ansible-tower-mcp",
+  "source_url": "https://github.com/a37ai/ansible-tower-mcp",
+  "install": "npx -y ansible-tower-mcp"
+}

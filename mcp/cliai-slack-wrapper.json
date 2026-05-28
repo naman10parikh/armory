@@ -1,0 +1,7 @@
+{
+  "name": "cliai-slack-wrapper",
+  "description": "Docker-wrapped CLI tool that provides token-efficient access to Slack workspaces through structured JSON output and multiple authentication methods.",
+  "source_repo": "cliai/slack-cli-mcp-wrapper",
+  "source_url": "https://github.com/cliai/slack-cli-mcp-wrapper",
+  "install": "# git clone --depth 1 https://github.com/cliai/slack-cli-mcp-wrapper\n# See source for mcpServers config block"
+}

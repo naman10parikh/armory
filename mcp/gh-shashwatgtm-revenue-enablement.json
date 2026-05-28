@@ -1,0 +1,7 @@
+{
+  "name": "gh-shashwatgtm-revenue-enablement",
+  "description": "Deal strategy and sales enablement with 12 revenue acceleration tools.",
+  "source_repo": "shashwatgtm/revenue-enablement-mcp",
+  "source_url": "https://github.com/shashwatgtm/revenue-enablement-mcp",
+  "install": "npx -y revenue-enablement-mcp"
+}

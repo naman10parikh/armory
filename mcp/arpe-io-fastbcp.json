@@ -1,0 +1,7 @@
+{
+  "name": "arpe-io-fastbcp",
+  "description": "High-performance parallel database export to files and cloud storage with safety-first command preview.",
+  "source_repo": "arpe-io/fastbcp-mcp",
+  "source_url": "https://github.com/arpe-io/fastbcp-mcp",
+  "install": "npx -y fastbcp-mcp"
+}

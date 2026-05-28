@@ -1,0 +1,7 @@
+{
+  "name": "agents",
+  "description": "Persistent AI agents that run 24/7 in Slack, Telegram, SMS, or email.",
+  "source_repo": "",
+  "source_url": "https://stumpy.ai",
+  "install": "# git clone --depth 1 https://stumpy.ai\n# See source for mcpServers config block"
+}

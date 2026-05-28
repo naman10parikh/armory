@@ -1,0 +1,7 @@
+{
+  "name": "nishantmodak-call-a-human",
+  "description": "Enables human oversight in automated workflows by requesting approval or asking questions through Slack, Telegram, or CLI channels.",
+  "source_repo": "nishantmodak/call-a-human-mcp",
+  "source_url": "https://github.com/nishantmodak/call-a-human-mcp",
+  "install": "npx -y call-a-human-mcp"
+}

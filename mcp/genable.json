@@ -1,0 +1,7 @@
+{
+  "name": "genable",
+  "description": "AI-powered Figma plugin and MCP server for generating production-ready UI designs from text prompts with proper Auto Layout and components.",
+  "source_repo": "musepy/genable",
+  "source_url": "https://github.com/musepy/genable",
+  "install": "# git clone --depth 1 https://github.com/musepy/genable\n# See source for mcpServers config block"
+}

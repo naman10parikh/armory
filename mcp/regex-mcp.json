@@ -1,0 +1,7 @@
+{
+  "name": "regex-mcp",
+  "description": "Enables testing, explaining, debugging, and generating regular expressions directly within editors like Claude Code, Cursor, and VS Code Copilot, without leaving the editor.",
+  "source_repo": "MuhammadAliShahzad/regex-mcp",
+  "source_url": "https://github.com/MuhammadAliShahzad/regex-mcp",
+  "install": "npx -y regex-mcp"
+}

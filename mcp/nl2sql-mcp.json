@@ -1,0 +1,7 @@
+{
+  "name": "nl2sql-mcp",
+  "description": "A production-ready MCP server that transforms natural language into safe, executable SQL queries with multi-database support and intelligent schema analysis.",
+  "source_repo": "bradsjm/nl2sql-mcp",
+  "source_url": "https://github.com/bradsjm/nl2sql-mcp",
+  "install": "npx -y nl2sql-mcp"
+}

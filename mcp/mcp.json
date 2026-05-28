@@ -1,0 +1,7 @@
+{
+  "name": "mcp",
+  "description": "Mcp MCP server listed on mcp.so.",
+  "source_repo": "waystation-ai/mcp",
+  "source_url": "https://mcp.so/server/mcp/waystation-ai",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp/waystation-ai\n# See source for mcpServers config block"
+}

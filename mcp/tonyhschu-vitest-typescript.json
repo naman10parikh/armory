@@ -1,0 +1,7 @@
+{
+  "name": "tonyhschu-vitest-typescript",
+  "description": "Integrates Vitest and TypeScript for automated test execution and type checking in development workflows.",
+  "source_repo": "tonyhschu/test-and-typecheck-mcp-server",
+  "source_url": "https://github.com/tonyhschu/test-and-typecheck-mcp-server",
+  "install": "npx -y test-and-typecheck-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "claude-browser",
+  "description": "Browser automation server built with Playwright that provides web interaction capabilities for navigation, content extraction, form filling, screenshot capture, and JavaScript execution with configurable timeouts and viewport settings.",
+  "source_repo": "sac916/claude-browser-mcp",
+  "source_url": "https://github.com/sac916/claude-browser-mcp",
+  "install": "npx -y claude-browser-mcp"
+}

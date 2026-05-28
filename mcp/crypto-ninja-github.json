@@ -1,0 +1,7 @@
+{
+  "name": "crypto-ninja-github",
+  "description": "Comprehensive GitHub API integration with 112 tools and optimized token efficiency",
+  "source_repo": "crypto-ninja/mcp-server-for-github",
+  "source_url": "https://github.com/crypto-ninja/mcp-server-for-github",
+  "install": "# git clone --depth 1 https://github.com/crypto-ninja/mcp-server-for-github\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dontsovcmc-cdek",
+  "description": "Integrates the CDEK delivery API for creating orders, tracking shipments, and finding pickup points.",
+  "source_repo": "dontsovcmc/mcp-server-cdek",
+  "source_url": "https://github.com/dontsovcmc/mcp-server-cdek",
+  "install": "# git clone --depth 1 https://github.com/dontsovcmc/mcp-server-cdek\n# See source for mcpServers config block"
+}

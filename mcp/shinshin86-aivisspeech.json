@@ -1,0 +1,7 @@
+{
+  "name": "shinshin86-aivisspeech",
+  "description": "Integrates with AivisSpeech engine to provide Japanese text-to-speech synthesis with customizable voice parameters including speed, pitch, intonation, and volume for building voice-enabled applications.",
+  "source_repo": "shinshin86/mcp-simple-aivisspeech",
+  "source_url": "https://github.com/shinshin86/mcp-simple-aivisspeech",
+  "install": "# git clone --depth 1 https://github.com/shinshin86/mcp-simple-aivisspeech\n# See source for mcpServers config block"
+}

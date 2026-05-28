@@ -1,0 +1,7 @@
+{
+  "name": "shopify-partner-agent",
+  "description": "Free, open-source MCP server that connects Claude to the Shopify Partner API. 25 tools for revenue analytics, churn analysis, retention cohorts, merchant health scoring, conversion funnels, revenue forecasting, and growth velocity.",
+  "source_repo": "rushikeshmore/shopify-partner-agent",
+  "source_url": "https://github.com/rushikeshmore/shopify-partner-agent",
+  "install": "# git clone --depth 1 https://github.com/rushikeshmore/shopify-partner-agent\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "calendly-mcp-server",
+  "description": "An MCP server that connects Claude Desktop and Claude Code to your Calendly account, enabling natural-language scheduling management.",
+  "source_repo": "NyxToolsDev/calendly-mcp-server",
+  "source_url": "https://github.com/NyxToolsDev/calendly-mcp-server",
+  "install": "npx -y calendly-mcp-server"
+}

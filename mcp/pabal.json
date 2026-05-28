@@ -1,0 +1,7 @@
+{
+  "name": "pabal",
+  "description": "Manages App Store Connect and Google Play Console workflows for app store optimization",
+  "source_repo": "quartz-labs-dev/pabal-store-api-mcp",
+  "source_url": "https://github.com/quartz-labs-dev/pabal-store-api-mcp",
+  "install": "npx -y pabal-store-api-mcp"
+}

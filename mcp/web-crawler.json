@@ -1,0 +1,7 @@
+{
+  "name": "web-crawler",
+  "description": "Enables web crawling capabilities for extracting website content in markdown format, containerized with Docker for easy deployment on Render.com and accessible through a health check endpoint.",
+  "source_repo": "orange-fruit01/mcp-test-run",
+  "source_url": "https://github.com/orange-fruit01/mcp-test-run",
+  "install": "# git clone --depth 1 https://github.com/orange-fruit01/mcp-test-run\n# See source for mcpServers config block"
+}

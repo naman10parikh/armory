@@ -1,0 +1,7 @@
+{
+  "name": "accessibility-mcp-server",
+  "description": "Provides conversational, actionable accessibility testing for AI agents, including auditing, prioritization, and code-level fixes.",
+  "source_repo": "dallask/a11y-mcp-srv",
+  "source_url": "https://github.com/dallask/a11y-mcp-srv",
+  "install": "# git clone --depth 1 https://github.com/dallask/a11y-mcp-srv\n# See source for mcpServers config block"
+}

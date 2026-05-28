@@ -1,0 +1,7 @@
+{
+  "name": "jackmates-plutio",
+  "description": "Connects AI agents to the Plutio business management platform with tools for tasks, projects, proposals, contracts, and client relationships.",
+  "source_repo": "jackmates/plutio-mcp",
+  "source_url": "https://github.com/jackmates/plutio-mcp",
+  "install": "npx -y plutio-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "wowyuarm-file-converter",
+  "description": "Provides file conversion capabilities for transforming documents and images between formats like DOCX, PDF, Excel, CSV, and HTML without external tools",
+  "source_repo": "wowyuarm/file-ops-skill",
+  "source_url": "https://github.com/wowyuarm/file-ops-skill",
+  "install": "# git clone --depth 1 https://github.com/wowyuarm/file-ops-skill\n# See source for mcpServers config block"
+}

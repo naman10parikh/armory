@@ -1,0 +1,7 @@
+{
+  "name": "timetree-mcp-server",
+  "description": "Unofficial MCP server for accessing and managing TimeTree calendar data, including events, memos, and comments, with secure email/password authentication.",
+  "source_repo": "ehs208/TimeTree-MCP",
+  "source_url": "https://github.com/ehs208/TimeTree-MCP",
+  "install": "npx -y TimeTree-MCP"
+}

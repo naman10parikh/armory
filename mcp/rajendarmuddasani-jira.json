@@ -1,0 +1,7 @@
+{
+  "name": "rajendarmuddasani-jira",
+  "description": "Integrates with JIRA's REST API to fetch issue details by key and search issues using JQL queries, returning formatted Markdown output for project management and issue tracking workflows.",
+  "source_repo": "rajendar-muddasani-2/jira-mcp-server",
+  "source_url": "https://github.com/rajendar-muddasani-2/jira-mcp-server",
+  "install": "npx -y jira-mcp-server"
+}

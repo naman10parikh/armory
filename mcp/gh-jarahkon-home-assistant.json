@@ -1,0 +1,7 @@
+{
+  "name": "gh-jarahkon-home-assistant",
+  "description": "Home Assistant smart home control with 66 tools covering devices, automations, scenes, climate, and energy management.",
+  "source_repo": "jarahkon/hass-mcp-server",
+  "source_url": "https://github.com/jarahkon/hass-mcp-server",
+  "install": "npx -y hass-mcp-server"
+}

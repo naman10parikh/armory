@@ -1,0 +1,7 @@
+{
+  "name": "cploujoux-puppeteer",
+  "description": "Provides browser automation capabilities using Puppeteer for web navigation, screenshots, element interaction, and JavaScript execution in both headless and visible browser environments.",
+  "source_repo": "cploujoux/mcp-puppeteer",
+  "source_url": "https://github.com/cploujoux/mcp-puppeteer",
+  "install": "# git clone --depth 1 https://github.com/cploujoux/mcp-puppeteer\n# See source for mcpServers config block"
+}

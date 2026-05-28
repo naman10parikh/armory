@@ -1,0 +1,7 @@
+{
+  "name": "vivado-mcp-agent",
+  "description": "MCP server for deterministic Vivado FPGA automation including project scaffolding, simulation, synthesis, implementation, and gated bitstream generation.",
+  "source_repo": "wangyuxin0707/vivado-mcp-agent",
+  "source_url": "https://github.com/wangyuxin0707/vivado-mcp-agent",
+  "install": "# git clone --depth 1 https://github.com/wangyuxin0707/vivado-mcp-agent\n# See source for mcpServers config block"
+}

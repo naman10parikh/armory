@@ -1,0 +1,7 @@
+{
+  "name": "open-accountants",
+  "description": "AI tax computation skills for financial transaction classification and tax documentation across 134 countries.",
+  "source_repo": "openaccountants/openaccountants",
+  "source_url": "https://github.com/openaccountants/openaccountants",
+  "install": "# git clone --depth 1 https://github.com/openaccountants/openaccountants\n# See source for mcpServers config block"
+}

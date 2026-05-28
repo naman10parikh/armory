@@ -1,0 +1,7 @@
+{
+  "name": "ivanantigravity-lgtm-seedance-polza",
+  "description": "Text-to-video and image-to-video generation using Seedance models via the Polza.ai API.",
+  "source_repo": "ivanantigravity-lgtm/seedance-polza-mcp-server",
+  "source_url": "https://github.com/ivanantigravity-lgtm/seedance-polza-mcp-server",
+  "install": "npx -y seedance-polza-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "datadoe",
+  "description": "Connects to Amazon Seller Central, Vendor Central, and Amazon Ads APIs with managed authentication and rate limiting.",
+  "source_repo": "deltologic/datadoe-mcp",
+  "source_url": "https://github.com/deltologic/datadoe-mcp",
+  "install": "npx -y datadoe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "akshatnerella-arduino",
+  "description": "Arduino CLI integration for board detection, sketch compilation, upload, serial monitoring, and pin references.",
+  "source_repo": "akshatnerella/arduino-mcp-server",
+  "source_url": "https://github.com/akshatnerella/arduino-mcp-server",
+  "install": "npx -y arduino-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "goldbergyoni-test-coverage",
+  "description": "Analyze test coverage from LCOV files for token-efficient coverage monitoring",
+  "source_repo": "goldbergyoni/test-coverage-mcp",
+  "source_url": "https://github.com/goldbergyoni/test-coverage-mcp",
+  "install": "npx -y test-coverage-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "azure-log-analytics-mcp",
+  "description": "Azure Log Analytics Mcp MCP server listed on mcp.so.",
+  "source_repo": "MananShahTR/azure-log-analytics-mcp",
+  "source_url": "https://mcp.so/server/azure-log-analytics-mcp/MananShahTR",
+  "install": "npx -y azure-log-analytics-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "boezzz-ridewithgps",
+  "description": "Integrates with RideWithGPS API to retrieve cycling routes, trips, events, and performance metrics including speed, elevation, heart rate, power, and cadence data for fitness tracking and route planning applications.",
+  "source_repo": "boezzz/ridewithgps-mcp",
+  "source_url": "https://github.com/boezzz/ridewithgps-mcp",
+  "install": "npx -y ridewithgps-mcp"
+}

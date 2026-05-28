@@ -1,0 +1,7 @@
+{
+  "name": "fgclip-mcp",
+  "description": "MCP server for FG-CLIP embedding services enabling multi-modal similarity computation for text and images.",
+  "source_repo": "360CVGroup/FGCLIP-MCP",
+  "source_url": "https://github.com/360CVGroup/FGCLIP-MCP",
+  "install": "npx -y FGCLIP-MCP"
+}

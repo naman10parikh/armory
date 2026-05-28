@@ -1,0 +1,7 @@
+{
+  "name": "kenm47-jensenify",
+  "description": "Injects 2.9M tokens of canonical Western literature into AI interactions to provide humanistic context for engineering decisions.",
+  "source_repo": "kenm47/jensenify-mcp",
+  "source_url": "https://github.com/kenm47/jensenify-mcp",
+  "install": "npx -y jensenify-mcp"
+}

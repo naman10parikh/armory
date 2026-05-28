@@ -1,0 +1,7 @@
+{
+  "name": "mikoto2000-discord",
+  "description": "Go-based Discord bot integration for sending messages, fetching history, listing guilds, and resolving channels with both MCP and CLI modes.",
+  "source_repo": "mikoto2000/discord-mcp",
+  "source_url": "https://github.com/mikoto2000/discord-mcp",
+  "install": "npx -y discord-mcp"
+}

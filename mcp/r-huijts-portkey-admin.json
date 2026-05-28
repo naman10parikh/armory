@@ -1,0 +1,7 @@
+{
+  "name": "r-huijts-portkey-admin",
+  "description": "Provides a comprehensive administrative interface for managing Portkey AI platform users, workspaces, configurations, and cost analytics through a TypeScript-based management API",
+  "source_repo": "r-huijts/portkey-admin-mcp-server",
+  "source_url": "https://github.com/r-huijts/portkey-admin-mcp-server",
+  "install": "npx -y portkey-admin-mcp-server"
+}

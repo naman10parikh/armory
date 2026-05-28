@@ -1,0 +1,7 @@
+{
+  "name": "malove86-mysql",
+  "description": "Provides direct interface to MySQL databases for executing SQL queries and retrieving relational data with configurable connection parameters.",
+  "source_repo": "malove86/mcp-mysql-server",
+  "source_url": "https://github.com/malove86/mcp-mysql-server",
+  "install": "# git clone --depth 1 https://github.com/malove86/mcp-mysql-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "treesoop-hwp-hwpx",
+  "description": "Reads and writes Korean Hangul Word Processor (HWP/HWPX) documents with parsing and generation capabilities.",
+  "source_repo": "treesoop/hwp-mcp",
+  "source_url": "https://github.com/treesoop/hwp-mcp",
+  "install": "npx -y hwp-mcp"
+}

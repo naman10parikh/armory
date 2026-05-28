@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-10",
+  "description": "A testing environment for Model Context Protocol that enables exploration of MCP capabilities and integration of AI models with external data sources and tools.",
+  "source_repo": "vincentdchn/mcp-server",
+  "source_url": "https://github.com/vincentdchn/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/vincentdchn/mcp-server\n# See source for mcpServers config block"
+}

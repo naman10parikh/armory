@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-software",
+  "description": "Mcp Server Software MCP server listed on mcp.so.",
+  "source_repo": "DumoeDss/mcp-server-software",
+  "source_url": "https://mcp.so/server/mcp-server-software/DumoeDss",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-software/DumoeDss\n# See source for mcpServers config block"
+}

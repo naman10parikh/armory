@@ -1,0 +1,7 @@
+{
+  "name": "meetrvyas-pokedex",
+  "description": "MCP server for querying Pokémon data via PokeAPI with multi-provider LLM routing and a Streamlit chatbot frontend.",
+  "source_repo": "meetrvyas/pokedex-mcp-server",
+  "source_url": "https://github.com/meetrvyas/pokedex-mcp-server",
+  "install": "npx -y pokedex-mcp-server"
+}

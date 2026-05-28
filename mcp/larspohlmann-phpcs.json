@@ -1,0 +1,7 @@
+{
+  "name": "larspohlmann-phpcs",
+  "description": "Integrates PHP_CodeSniffer and PHP Code Beautifier tools to analyze coding standard violations and automatically fix code style issues with flexible configuration and robust error handling.",
+  "source_repo": "larspohlmann/mcp-phpcs-server",
+  "source_url": "https://github.com/larspohlmann/mcp-phpcs-server",
+  "install": "# git clone --depth 1 https://github.com/larspohlmann/mcp-phpcs-server\n# See source for mcpServers config block"
+}

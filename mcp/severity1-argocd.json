@@ -1,0 +1,7 @@
+{
+  "name": "severity1-argocd",
+  "description": "Integrates with ArgoCD to enable natural language control of Kubernetes application deployments through a Python-based bridge that supports GitOps workflows.",
+  "source_repo": "severity1/argocd-mcp",
+  "source_url": "https://github.com/severity1/argocd-mcp",
+  "install": "npx -y argocd-mcp"
+}

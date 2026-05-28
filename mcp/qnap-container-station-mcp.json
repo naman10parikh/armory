@@ -1,0 +1,7 @@
+{
+  "name": "qnap-container-station-mcp",
+  "description": "Enables managing Docker containers and Compose apps on a QNAP NAS via the Container Station API, including starting, stopping, restarting, and inspecting containers and applications.",
+  "source_repo": "baekhoej/qnap-containerstation-mcp",
+  "source_url": "https://github.com/baekhoej/qnap-containerstation-mcp",
+  "install": "npx -y qnap-containerstation-mcp"
+}

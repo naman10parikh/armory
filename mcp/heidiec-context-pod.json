@@ -1,0 +1,7 @@
+{
+  "name": "heidiec-context-pod",
+  "description": "Persistent context storage for AI agents using learned vectors with certainty scores.",
+  "source_repo": "nervous-machine/context-pod",
+  "source_url": "https://github.com/nervous-machine/context-pod",
+  "install": "# git clone --depth 1 https://github.com/nervous-machine/context-pod\n# See source for mcpServers config block"
+}

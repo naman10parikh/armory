@@ -1,0 +1,7 @@
+{
+  "name": "nganiet-vercel",
+  "description": "Integrates with Vercel's serverless infrastructure to provide a lightweight endpoint for AI model interactions and tasks like chatbots, content generation, and data analysis.",
+  "source_repo": "nganiet/mcp-vercel",
+  "source_url": "https://github.com/nganiet/mcp-vercel",
+  "install": "# git clone --depth 1 https://github.com/nganiet/mcp-vercel\n# See source for mcpServers config block"
+}

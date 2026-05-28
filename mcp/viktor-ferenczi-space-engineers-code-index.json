@@ -1,0 +1,7 @@
+{
+  "name": "viktor-ferenczi-space-engineers-code-index",
+  "description": "Decompiles Space Engineers game assemblies and indexes C# source code for AI-assisted mod and plugin development",
+  "source_repo": "viktor-ferenczi/se-mcp-for-plugin-dev",
+  "source_url": "https://github.com/viktor-ferenczi/se-mcp-for-plugin-dev",
+  "install": "# git clone --depth 1 https://github.com/viktor-ferenczi/se-mcp-for-plugin-dev\n# See source for mcpServers config block"
+}

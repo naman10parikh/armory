@@ -1,0 +1,7 @@
+{
+  "name": "kikeven-zerikai-memory",
+  "description": "Workspace-isolated persistent memory server combining ChromaDB vector search and tree-sitter code indexing, with cost-optimized routing between local Ollama and DeepSeek cloud synthesis.",
+  "source_repo": "kikeven/zerikai_memory",
+  "source_url": "https://github.com/kikeven/zerikai_memory",
+  "install": "# git clone --depth 1 https://github.com/kikeven/zerikai_memory\n# See source for mcpServers config block"
+}

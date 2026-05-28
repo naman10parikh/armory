@@ -1,0 +1,7 @@
+{
+  "name": "howe829-websearch",
+  "description": "Provides web search capabilities through Bing and WeChat search engines plus URL content extraction, using browser impersonation and markdown conversion for research tasks and content analysis across general web and Chinese social media platforms.",
+  "source_repo": "howe829/websearch-mcp-server",
+  "source_url": "https://github.com/howe829/websearch-mcp-server",
+  "install": "npx -y websearch-mcp-server"
+}

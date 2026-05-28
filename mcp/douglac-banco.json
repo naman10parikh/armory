@@ -1,0 +1,7 @@
+{
+  "name": "douglac-banco",
+  "description": "Brazilian Open Finance integration with 30+ banks including Itaú, Bradesco, and Nubank.",
+  "source_repo": "douglac/banco-mcp",
+  "source_url": "https://github.com/douglac/banco-mcp",
+  "install": "npx -y banco-mcp"
+}

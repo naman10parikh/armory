@@ -1,0 +1,7 @@
+{
+  "name": "runframe",
+  "description": "Slack-native incident management and on-call scheduling with 16 tools for incidents, services, postmortems, and teams.",
+  "source_repo": "runframe/runframe-mcp-server",
+  "source_url": "https://github.com/runframe/runframe-mcp-server",
+  "install": "npx -y runframe-mcp-server"
+}

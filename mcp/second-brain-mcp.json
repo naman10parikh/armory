@@ -1,0 +1,7 @@
+{
+  "name": "second-brain-mcp",
+  "description": "Bridges a personal knowledge vault with AI for bidirectional knowledge retrieval and capture.",
+  "source_repo": "nishi1004/second-brain-mcp",
+  "source_url": "https://github.com/nishi1004/second-brain-mcp",
+  "install": "npx -y second-brain-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rize-mcp-server",
+  "description": "MCP server for Rize -- automatic time tracking for professionals and teams. 27 tools for managing projects, clients, tasks, sessions, time entries, and productivity analytics via the Rize GraphQL API. Works with Claude Desktop, Claude Code, Cursor, and any MCP-compatible client",
+  "source_repo": "rize-io/mcp-server",
+  "source_url": "https://github.com/rize-io/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/rize-io/mcp-server\n# See source for mcpServers config block"
+}

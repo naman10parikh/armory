@@ -1,0 +1,7 @@
+{
+  "name": "gh-michael-denyer-hot-memory",
+  "description": "Two-tier memory system with instant hot cache and semantic search. Self-organizing storage.",
+  "source_repo": "michael-denyer/memory-mcp",
+  "source_url": "https://github.com/michael-denyer/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sage-mcp-server",
+  "description": "A Model Context Protocol (MCP) server for interacting with the Sage Grande Testbed, enabling users to query sensor data, submit jobs, and manage Sage nodes through natural language.",
+  "source_repo": "waggle-sensor/sage-mcp",
+  "source_url": "https://github.com/waggle-sensor/sage-mcp",
+  "install": "npx -y sage-mcp"
+}

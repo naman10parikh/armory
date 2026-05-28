@@ -1,0 +1,7 @@
+{
+  "name": "tagny-web-access",
+  "description": "Provides web access tools for fetching URL text content and extracting page links using BeautifulSoup for HTML parsing, enabling locally served LLMs to browse and process web content.",
+  "source_repo": "tagny/tagny-mcp-server",
+  "source_url": "https://github.com/tagny/tagny-mcp-server",
+  "install": "npx -y tagny-mcp-server"
+}

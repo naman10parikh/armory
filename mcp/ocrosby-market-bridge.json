@@ -1,0 +1,7 @@
+{
+  "name": "ocrosby-market-bridge",
+  "description": "Bridges Tradovate, Bookmap, and Thinkorswim trading platforms to AI agents with tools for price data, volume profiles, order flow, key levels, heatmaps, and market state.",
+  "source_repo": "ocrosby/market-bridge",
+  "source_url": "https://github.com/ocrosby/market-bridge",
+  "install": "# git clone --depth 1 https://github.com/ocrosby/market-bridge\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "getlate-crisp",
+  "description": "Integrates with the Crisp customer messaging platform for managing conversations, accessing visitor information, and handling support workflows.",
+  "source_repo": "zernio-dev/crisp-mcp",
+  "source_url": "https://github.com/zernio-dev/crisp-mcp",
+  "install": "npx -y crisp-mcp"
+}

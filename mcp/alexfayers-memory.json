@@ -1,0 +1,7 @@
+{
+  "name": "alexfayers-memory",
+  "description": "SQLite-backed persistent memory server with FTS5 full-text search, entity relationship tracking, and project scoping for AI agents.",
+  "source_repo": "alexfayers/mcp-memory",
+  "source_url": "https://github.com/alexfayers/mcp-memory",
+  "install": "# git clone --depth 1 https://github.com/alexfayers/mcp-memory\n# See source for mcpServers config block"
+}

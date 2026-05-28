@@ -1,0 +1,7 @@
+{
+  "name": "openfused",
+  "description": "Encrypted mail, shared memory, and persistent context for inter-agent communication.",
+  "source_repo": "openfused/openfused",
+  "source_url": "https://github.com/openfused/openfused",
+  "install": "# git clone --depth 1 https://github.com/openfused/openfused\n# See source for mcpServers config block"
+}

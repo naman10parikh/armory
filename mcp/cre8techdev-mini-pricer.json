@@ -1,0 +1,7 @@
+{
+  "name": "cre8techdev-mini-pricer",
+  "description": "Pricing and quoting MCP server by Cre8Tech Dev, accessible via SSE endpoint.",
+  "source_repo": "",
+  "source_url": "https://mp-mcp.cre8techdev.com/sse",
+  "install": "# git clone --depth 1 https://mp-mcp.cre8techdev.com/sse\n# See source for mcpServers config block"
+}

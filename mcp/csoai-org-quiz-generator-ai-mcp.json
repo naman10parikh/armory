@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-quiz-generator-ai-mcp",
+  "description": "Python MCP server for quiz generation and educational assessment tools.",
+  "source_repo": "csoai-org/quiz-generator-ai-mcp",
+  "source_url": "https://github.com/csoai-org/quiz-generator-ai-mcp",
+  "install": "npx -y quiz-generator-ai-mcp"
+}

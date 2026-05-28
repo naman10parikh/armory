@@ -1,0 +1,7 @@
+{
+  "name": "prompt-library-mcp-server",
+  "description": "Community-driven library of tested prompts for AI agents, enabling search, retrieval, sharing, and rating of prompts.",
+  "source_repo": "AiAgentKarl/prompt-library-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/prompt-library-mcp-server",
+  "install": "npx -y prompt-library-mcp-server"
+}

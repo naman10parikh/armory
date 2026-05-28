@@ -1,0 +1,7 @@
+{
+  "name": "niradler-dependency-checker",
+  "description": "Check package versions across npm, PyPI, Maven, NuGet, RubyGems, Crates.io, and Go modules",
+  "source_repo": "niradler/dependency-mcp",
+  "source_url": "https://github.com/niradler/dependency-mcp",
+  "install": "npx -y dependency-mcp"
+}

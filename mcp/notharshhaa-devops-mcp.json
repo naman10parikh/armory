@@ -1,0 +1,7 @@
+{
+  "name": "notharshhaa-devops-mcp",
+  "description": "Unified MCP for Kubernetes, ArgoCD, Prometheus, and PagerDuty DevOps platform management.",
+  "source_repo": "notharshhaa/devops-mcp",
+  "source_url": "https://github.com/notharshhaa/devops-mcp",
+  "install": "npx -y devops-mcp"
+}

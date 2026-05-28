@@ -1,0 +1,7 @@
+{
+  "name": "bsc-testnet-mcp-servers",
+  "description": "Bsc Testnet Mcp Servers MCP server listed on mcp.so.",
+  "source_repo": "lugondev/bsc-testnet-mcp-servers",
+  "source_url": "https://mcp.so/server/bsc-testnet-mcp-servers/lugondev",
+  "install": "# git clone --depth 1 https://mcp.so/server/bsc-testnet-mcp-servers/lugondev\n# See source for mcpServers config block"
+}

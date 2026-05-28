@@ -1,0 +1,7 @@
+{
+  "name": "pylegifrance-legifrance",
+  "description": "Provides access to French legal documents and legislation from the Legifrance database for legal research, compliance work, and understanding regulatory frameworks.",
+  "source_repo": "pylegifrance/mcp-server-legifrance",
+  "source_url": "https://github.com/pylegifrance/mcp-server-legifrance",
+  "install": "# git clone --depth 1 https://github.com/pylegifrance/mcp-server-legifrance\n# See source for mcpServers config block"
+}

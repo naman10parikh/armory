@@ -1,0 +1,7 @@
+{
+  "name": "krusch-context",
+  "description": "Gives IDE agents semantic codebase search, episodic project memory, and steering nuggets across sessions.",
+  "source_repo": "kruschdev/krusch-context-mcp",
+  "source_url": "https://github.com/kruschdev/krusch-context-mcp",
+  "install": "npx -y krusch-context-mcp"
+}

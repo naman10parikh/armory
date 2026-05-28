@@ -1,0 +1,7 @@
+{
+  "name": "jinja2-mcp-server",
+  "description": "生产就绪的MCP协议Jinja2模板渲染服务器，为AI应用提供安全沙箱执行和复杂JSON参数的模板处理能力。",
+  "source_repo": "WW-AI-Lab/jinja2-mcp-server",
+  "source_url": "https://github.com/WW-AI-Lab/jinja2-mcp-server",
+  "install": "npx -y jinja2-mcp-server"
+}

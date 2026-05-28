@@ -1,0 +1,7 @@
+{
+  "name": "superego-mcp",
+  "description": "Superego MCP is an intelligent tool-call review system for AI agents that provides configurable security rules and automated guardrails.",
+  "source_repo": "toolprint/superego-mcp",
+  "source_url": "https://github.com/toolprint/superego-mcp",
+  "install": "npx -y superego-mcp"
+}

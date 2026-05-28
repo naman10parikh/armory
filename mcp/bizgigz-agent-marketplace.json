@@ -1,0 +1,7 @@
+{
+  "name": "bizgigz-agent-marketplace",
+  "description": "Register AI agents, manage API keys, and discover MCP capabilities through the BizGigz marketplace.",
+  "source_repo": "jolt-systems/bizgigz-mcp-docs",
+  "source_url": "https://github.com/jolt-systems/bizgigz-mcp-docs",
+  "install": "# git clone --depth 1 https://github.com/jolt-systems/bizgigz-mcp-docs\n# See source for mcpServers config block"
+}

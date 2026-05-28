@@ -1,0 +1,7 @@
+{
+  "name": "hiatys-businys",
+  "description": "221 MCP tools across 26 practice areas for independent professionals covering clients, invoices, and contracts.",
+  "source_repo": "hiatys/businys-mcp",
+  "source_url": "https://github.com/hiatys/businys-mcp",
+  "install": "npx -y businys-mcp"
+}

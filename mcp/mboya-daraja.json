@@ -1,0 +1,7 @@
+{
+  "name": "mboya-daraja",
+  "description": "Integrates with Safaricom's Daraja API to initiate M-PESA mobile money transactions, handle STK Push payments, and receive real-time payment notifications through webhooks for e-commerce and payment processing workflows in East Africa.",
+  "source_repo": "mboya/daraja-mcp",
+  "source_url": "https://github.com/mboya/daraja-mcp",
+  "install": "npx -y daraja-mcp"
+}

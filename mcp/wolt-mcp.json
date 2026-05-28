@@ -1,0 +1,7 @@
+{
+  "name": "wolt-mcp",
+  "description": "A thin MCP server that exposes Wolt's public consumer endpoints to AI agents, enabling discovery of nearby venues and fetching their menus with live prices and deal signals.",
+  "source_repo": "fogside/wolt-mcp",
+  "source_url": "https://github.com/fogside/wolt-mcp",
+  "install": "npx -y wolt-mcp"
+}

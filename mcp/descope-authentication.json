@@ -1,0 +1,7 @@
+{
+  "name": "descope-authentication",
+  "description": "Integrates with Descope's authentication platform to enable natural language-driven user management, authentication flows, and access control operations.",
+  "source_repo": "descope-sample-apps/descope-mcp-server-stdio",
+  "source_url": "https://github.com/descope-sample-apps/descope-mcp-server-stdio",
+  "install": "# git clone --depth 1 https://github.com/descope-sample-apps/descope-mcp-server-stdio\n# See source for mcpServers config block"
+}

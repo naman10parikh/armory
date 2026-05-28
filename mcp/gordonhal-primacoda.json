@@ -1,0 +1,7 @@
+{
+  "name": "gordonhal-primacoda",
+  "description": "AI transaction coordinator for real estate and legal workflows, automating contract tracking and deadline management.",
+  "source_repo": "gordonhal/primacoda-mcp",
+  "source_url": "https://github.com/gordonhal/primacoda-mcp",
+  "install": "npx -y primacoda-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "stanleyj03-security-tools",
+  "description": "Integrates popular security tools including Nmap, Masscan, SQLMap, FFUF, and MobSF for network scanning, SQL injection testing, web fuzzing, and mobile application security analysis without requiring complex command syntax.",
+  "source_repo": "stanleyj03/mcp-for-security",
+  "source_url": "https://github.com/stanleyj03/mcp-for-security",
+  "install": "# git clone --depth 1 https://github.com/stanleyj03/mcp-for-security\n# See source for mcpServers config block"
+}

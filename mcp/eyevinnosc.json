@@ -1,0 +1,7 @@
+{
+  "name": "eyevinnosc",
+  "description": "EyevinnOSC's MCP server enables AI assistants to provision and manage vendor-independent cloud infrastructure for databases, storage, and media processing through an open source API.",
+  "source_repo": "eyevinnosc/mcp-server",
+  "source_url": "https://github.com/eyevinnosc/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/eyevinnosc/mcp-server\n# See source for mcpServers config block"
+}

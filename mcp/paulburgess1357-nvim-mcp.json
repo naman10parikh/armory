@@ -1,0 +1,7 @@
+{
+  "name": "paulburgess1357-nvim-mcp",
+  "description": "MCP server providing AI assistants with full control of Neovim instances via msgpack-RPC. Read/edit buffers, run commands, send keys, query LSP diagnostics, and annotate code with highlights. No plugin required.",
+  "source_repo": "paulburgess1357/nvim-mcp",
+  "source_url": "https://github.com/paulburgess1357/nvim-mcp",
+  "install": "npx -y nvim-mcp"
+}

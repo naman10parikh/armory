@@ -1,0 +1,7 @@
+{
+  "name": "habuma-themeparks-wiki",
+  "description": "Exposes data from the ThemeParks.wiki API as tools.",
+  "source_repo": "habuma/tpapi-mcp-server",
+  "source_url": "https://github.com/habuma/tpapi-mcp-server",
+  "install": "npx -y tpapi-mcp-server"
+}

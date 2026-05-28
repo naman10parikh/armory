@@ -1,0 +1,7 @@
+{
+  "name": "aparajithn-agent-scraper-mcp",
+  "description": "Web scraping MCP server for AI agents. 6 tools: clean content extraction, structured scraping with CSS selectors, full-page screenshots via Playwright, link extraction, metadata extraction (OG/Twitter cards), and Google search. Free tier with x402 micropayments.",
+  "source_repo": "aparajithn/agent-scraper-mcp",
+  "source_url": "https://github.com/aparajithn/agent-scraper-mcp",
+  "install": "npx -y agent-scraper-mcp"
+}

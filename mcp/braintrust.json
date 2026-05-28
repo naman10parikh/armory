@@ -1,0 +1,7 @@
+{
+  "name": "braintrust",
+  "description": "Connects to Braintrust's evals platform to search docs, query experiments and production logs with SQL, summarize evaluations, infer dataset schemas, and generate shareable permalinks.",
+  "source_repo": "",
+  "source_url": "https://www.braintrust.dev/docs/integrations/developer-tools/mcp",
+  "install": "# git clone --depth 1 https://www.braintrust.dev/docs/integrations/developer-tools/mcp\n# See source for mcpServers config block"
+}

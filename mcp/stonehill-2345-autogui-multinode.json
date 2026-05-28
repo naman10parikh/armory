@@ -1,0 +1,7 @@
+{
+  "name": "stonehill-2345-autogui-multinode",
+  "description": "Provides remote desktop automation capabilities through PyAutoGUI integration, enabling mouse operations, keyboard input, and screen capture for automated testing and GUI control workflows.",
+  "source_repo": "stonehill-2345/mcp-autogui-multinode",
+  "source_url": "https://github.com/stonehill-2345/mcp-autogui-multinode",
+  "install": "# git clone --depth 1 https://github.com/stonehill-2345/mcp-autogui-multinode\n# See source for mcpServers config block"
+}

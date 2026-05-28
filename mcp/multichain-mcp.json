@@ -1,0 +1,7 @@
+{
+  "name": "multichain-mcp",
+  "description": "Multichain Mcp MCP server listed on mcp.so.",
+  "source_repo": "oraichain/multichain-mcp",
+  "source_url": "https://mcp.so/server/multichain-mcp/oraichain",
+  "install": "npx -y multichain-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tje8x-anvx",
+  "description": "Track and optimize AI API spending across 16 providers with live pricing, alongside crypto holdings and Stripe revenue in a unified view.",
+  "source_repo": "tje8x/anvx",
+  "source_url": "https://github.com/tje8x/anvx",
+  "install": "# git clone --depth 1 https://github.com/tje8x/anvx\n# See source for mcpServers config block"
+}

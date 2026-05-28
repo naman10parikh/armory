@@ -1,0 +1,7 @@
+{
+  "name": "aksh9dyrs-universal-database",
+  "description": "Provides unified connectivity to PostgreSQL, MySQL, and SQLite databases with automatic schema discovery, query recommendations, and a web frontend for interactive database exploration and administration.",
+  "source_repo": "aksh9dyrs/universal-database-mcp-server",
+  "source_url": "https://github.com/aksh9dyrs/universal-database-mcp-server/tree/HEAD/DB MCP",
+  "install": "npx -y universal-database-mcp-server"
+}

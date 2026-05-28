@@ -1,0 +1,7 @@
+{
+  "name": "parth3930-recursive-thinking",
+  "description": "Token-efficient recursive thinking engine that guides iterative refinement through focused prompts and context compression.",
+  "source_repo": "parth3930/recursive-thinking-mcp",
+  "source_url": "https://github.com/parth3930/recursive-thinking-mcp",
+  "install": "npx -y recursive-thinking-mcp"
+}

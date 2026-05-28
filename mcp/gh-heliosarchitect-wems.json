@@ -1,0 +1,7 @@
+{
+  "name": "gh-heliosarchitect-wems",
+  "description": "Real-time natural hazard monitoring: earthquakes, tsunamis, volcanoes, solar weather, and air quality.",
+  "source_repo": "heliosarchitect/wems-mcp-server",
+  "source_url": "https://github.com/heliosarchitect/wems-mcp-server",
+  "install": "npx -y wems-mcp-server"
+}

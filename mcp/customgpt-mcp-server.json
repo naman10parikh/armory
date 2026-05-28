@@ -1,0 +1,7 @@
+{
+  "name": "customgpt-mcp-server",
+  "description": "A full-featured MCP server providing seamless access to CustomGPT.ai APIs, enabling agent and conversation management through MCP-compatible clients.",
+  "source_repo": "Poll-The-People/customgpt-mcp",
+  "source_url": "https://github.com/Poll-The-People/customgpt-mcp",
+  "install": "npx -y customgpt-mcp"
+}

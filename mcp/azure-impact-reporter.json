@@ -1,0 +1,7 @@
+{
+  "name": "azure-impact-reporter",
+  "description": "Enables AI to report Azure infrastructure issues by authenticating with Azure credentials and submitting standardized workload impact reports through the Azure Management API",
+  "source_repo": "chand45/mcp-server-azure-impact-reporting",
+  "source_url": "https://github.com/chand45/mcp-server-azure-impact-reporting",
+  "install": "# git clone --depth 1 https://github.com/chand45/mcp-server-azure-impact-reporting\n# See source for mcpServers config block"
+}

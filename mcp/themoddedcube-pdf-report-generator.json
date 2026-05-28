@@ -1,0 +1,7 @@
+{
+  "name": "themoddedcube-pdf-report-generator",
+  "description": "Generates professional multi-page PDF reports from structured JSON or markdown input.",
+  "source_repo": "themoddedcube/pdf-report-generator",
+  "source_url": "https://github.com/themoddedcube/pdf-report-generator",
+  "install": "# git clone --depth 1 https://github.com/themoddedcube/pdf-report-generator\n# See source for mcpServers config block"
+}

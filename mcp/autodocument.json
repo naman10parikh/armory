@@ -1,0 +1,7 @@
+{
+  "name": "autodocument",
+  "description": "Autodocument MCP server listed on mcp.so.",
+  "source_repo": "PARS-DOE/autodocument",
+  "source_url": "https://mcp.so/server/autodocument/PARS-DOE",
+  "install": "# git clone --depth 1 https://mcp.so/server/autodocument/PARS-DOE\n# See source for mcpServers config block"
+}

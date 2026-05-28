@@ -1,0 +1,7 @@
+{
+  "name": "sleep",
+  "description": "Enables AI systems to introduce timed pauses in execution flow, supporting both stdio and SSE transport methods with configurable timeout limits for time-based coordination and rate limiting.",
+  "source_repo": "agentsworkingtogether/mcp-sleep",
+  "source_url": "https://github.com/agentsworkingtogether/mcp-sleep",
+  "install": "# git clone --depth 1 https://github.com/agentsworkingtogether/mcp-sleep\n# See source for mcpServers config block"
+}

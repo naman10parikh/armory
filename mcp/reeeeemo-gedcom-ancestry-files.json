@@ -1,0 +1,7 @@
+{
+  "name": "reeeeemo-gedcom-ancestry-files",
+  "description": "Analyze family tree data from GEDCOM genealogy files.",
+  "source_repo": "reeeeemo/ancestry-mcp",
+  "source_url": "https://github.com/reeeeemo/ancestry-mcp",
+  "install": "npx -y ancestry-mcp"
+}

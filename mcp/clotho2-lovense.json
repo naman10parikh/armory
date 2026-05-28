@@ -1,0 +1,7 @@
+{
+  "name": "clotho2-lovense",
+  "description": "Integrates with Lovense adult toy devices through their Game Mode API to enable interactive applications, automated responses, and physical feedback mechanisms.",
+  "source_repo": "clotho2/wolfe-lovense",
+  "source_url": "https://github.com/clotho2/wolfe-lovense",
+  "install": "# git clone --depth 1 https://github.com/clotho2/wolfe-lovense\n# See source for mcpServers config block"
+}

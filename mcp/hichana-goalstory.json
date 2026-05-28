@@ -1,0 +1,7 @@
+{
+  "name": "hichana-goalstory",
+  "description": "Integrates with Goal Story to enable personal goal management, step-by-step planning, and motivational narrative visualization based on users' beliefs and motivations.",
+  "source_repo": "hichana/goalstory-mcp",
+  "source_url": "https://github.com/hichana/goalstory-mcp",
+  "install": "npx -y goalstory-mcp"
+}

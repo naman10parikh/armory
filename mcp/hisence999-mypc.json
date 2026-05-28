@@ -1,0 +1,7 @@
+{
+  "name": "hisence999-mypc",
+  "description": "Windows desktop automation server enabling secure remote control with zone-based permissions, screenshot capture, file management, window manipulation, system monitoring, and command execution.",
+  "source_repo": "hisence999/mypc-mcp",
+  "source_url": "https://github.com/hisence999/mypc-mcp",
+  "install": "npx -y mypc-mcp"
+}

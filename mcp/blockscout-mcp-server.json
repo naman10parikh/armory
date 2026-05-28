@@ -1,0 +1,7 @@
+{
+  "name": "blockscout-mcp-server",
+  "description": "Provide AI agents and automation tools with contextual access to blockchain data including balances, tokens, NFTs, and contract metadata. Enable multi-chain support and deliver enhanced user experience with progress notifications for long-running queries. Facilitate seamless integration with AI host",
+  "source_repo": "",
+  "source_url": "https://blockscout.com",
+  "install": "# git clone --depth 1 https://blockscout.com\n# See source for mcpServers config block"
+}

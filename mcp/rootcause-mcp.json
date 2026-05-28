@@ -1,0 +1,7 @@
+{
+  "name": "rootcause-mcp",
+  "description": "Enables AI agents to perform structured root cause analysis from clinical incidents and construct learner-ready lesson plans for medical education.",
+  "source_repo": "u9401066/rootcause-mcp",
+  "source_url": "https://github.com/u9401066/rootcause-mcp",
+  "install": "npx -y rootcause-mcp"
+}

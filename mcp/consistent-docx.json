@@ -1,0 +1,7 @@
+{
+  "name": "consistent-docx",
+  "description": "Converts documents between DOCX and Markdown formats using local mammoth library for extraction and external API for styled document generation with template support.",
+  "source_repo": "nextdoorlaohuang-hf/consistent_docx_mcp",
+  "source_url": "https://github.com/nextdoorlaohuang-hf/consistent_docx_mcp",
+  "install": "npx -y consistent_docx_mcp"
+}

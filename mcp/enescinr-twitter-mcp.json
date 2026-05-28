@@ -1,0 +1,7 @@
+{
+  "name": "enescinr-twitter-mcp",
+  "description": "Interact with X (Twitter) by posting tweets and searching for tweets through the X API.",
+  "source_repo": "enescinr/twitter-mcp",
+  "source_url": "https://github.com/enescinr/twitter-mcp",
+  "install": "npx -y twitter-mcp"
+}

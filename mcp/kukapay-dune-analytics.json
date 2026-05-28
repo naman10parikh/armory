@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-dune-analytics",
+  "description": "Integrates with Dune Analytics API to provide direct access to blockchain data through tools for retrieving existing query results and executing on-demand queries in CSV format.",
+  "source_repo": "kukapay/dune-analytics-mcp",
+  "source_url": "https://github.com/kukapay/dune-analytics-mcp",
+  "install": "npx -y dune-analytics-mcp"
+}

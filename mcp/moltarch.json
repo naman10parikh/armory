@@ -1,0 +1,7 @@
+{
+  "name": "moltarch",
+  "description": "Marketing intelligence API for AI agents with real campaign data and analytics.",
+  "source_repo": "moltarch/moltarch",
+  "source_url": "https://github.com/moltarch/moltarch",
+  "install": "# git clone --depth 1 https://github.com/moltarch/moltarch\n# See source for mcpServers config block"
+}

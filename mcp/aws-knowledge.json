@@ -1,0 +1,7 @@
+{
+  "name": "aws-knowledge",
+  "description": "AWS's official fully managed remote server that provides real-time access to comprehensive AWS documentation, API references, troubleshooting guides, and architectural guidance across multiple knowledge sources including What's New posts, Builder Center content, blog posts, and Well-Architected frameworks for building applications, managing infrastructure, and learning AWS services through natural language queries.",
+  "source_repo": "awslabs/mcp",
+  "source_url": "https://github.com/awslabs/mcp/tree/HEAD/servers/aws-knowledge-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/awslabs/mcp/tree/HEAD/servers/aws-knowledge-mcp-server\n# See source for mcpServers config block"
+}

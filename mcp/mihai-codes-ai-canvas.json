@@ -1,0 +1,7 @@
+{
+  "name": "mihai-codes-ai-canvas",
+  "description": "Remote Cloudflare Workers MCP server providing 17 canvas manipulation tools for AI-driven diagram and visual content creation.",
+  "source_repo": "mihai-codes/cf_ai_canvas",
+  "source_url": "https://github.com/mihai-codes/cf_ai_canvas",
+  "install": "# git clone --depth 1 https://github.com/mihai-codes/cf_ai_canvas\n# See source for mcpServers config block"
+}

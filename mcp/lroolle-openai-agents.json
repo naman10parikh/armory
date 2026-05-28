@@ -1,0 +1,7 @@
+{
+  "name": "lroolle-openai-agents",
+  "description": "Exposes OpenAI's agent capabilities for web search, file search, and computer actions through specialized agents and a multi-agent orchestrator that coordinates between them based on task requirements.",
+  "source_repo": "lroolle/openai-agents-mcp-server",
+  "source_url": "https://github.com/lroolle/openai-agents-mcp-server",
+  "install": "npx -y openai-agents-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sammorrow-remarkable",
+  "description": "Access handwritten notes and documents from reMarkable tablets",
+  "source_repo": "sammorrowdrums/remarkable-mcp",
+  "source_url": "https://github.com/sammorrowdrums/remarkable-mcp",
+  "install": "npx -y remarkable-mcp"
+}

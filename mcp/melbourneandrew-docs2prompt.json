@@ -1,0 +1,7 @@
+{
+  "name": "melbourneandrew-docs2prompt",
+  "description": "Converts documentation from GitHub repositories or websites into LLM-friendly prompts through tools for fetching from repos and URLs with GitHub authentication and response size management.",
+  "source_repo": "melbourneandrew/docs2prompt-mcp",
+  "source_url": "https://github.com/melbourneandrew/docs2prompt-mcp",
+  "install": "npx -y docs2prompt-mcp"
+}

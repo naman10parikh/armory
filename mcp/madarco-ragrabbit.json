@@ -1,0 +1,7 @@
+{
+  "name": "madarco-ragrabbit",
+  "description": "Integrates with RagRabbit to crawl websites, generate vector embeddings, and enable search and question answering from indexed content for domain-specific information retrieval.",
+  "source_repo": "madarco/ragrabbit",
+  "source_url": "https://github.com/madarco/ragrabbit",
+  "install": "# git clone --depth 1 https://github.com/madarco/ragrabbit\n# See source for mcpServers config block"
+}

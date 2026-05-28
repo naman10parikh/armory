@@ -1,0 +1,7 @@
+{
+  "name": "abdelstark-bitcoin",
+  "description": "Integrates with Bitcoin network and blockchain data via Blockstream API to enable transaction monitoring, wallet management, and blockchain analysis",
+  "source_repo": "abdelstark/bitcoin-mcp",
+  "source_url": "https://github.com/abdelstark/bitcoin-mcp",
+  "install": "npx -y bitcoin-mcp"
+}

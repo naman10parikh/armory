@@ -1,0 +1,7 @@
+{
+  "name": "gorosun-unified-diff-mcp",
+  "description": "Generate and visualize unified diff comparisons with beautiful HTML/PNG output, supporting side-by-side and line-by-line views for filesystem dry-run integration",
+  "source_repo": "gorosun/unified-diff-mcp",
+  "source_url": "https://github.com/gorosun/unified-diff-mcp",
+  "install": "npx -y unified-diff-mcp"
+}

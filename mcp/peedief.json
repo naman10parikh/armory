@@ -1,0 +1,7 @@
+{
+  "name": "peedief",
+  "description": "Template-to-PDF service that converts predefined templates with structured data into formatted documents like certificates, invoices, and reports using intelligent templates with conditional logic and loops.",
+  "source_repo": "",
+  "source_url": "https://peedief.com",
+  "install": "# git clone --depth 1 https://peedief.com\n# See source for mcpServers config block"
+}

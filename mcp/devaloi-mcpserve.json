@@ -1,0 +1,7 @@
+{
+  "name": "devaloi-mcpserve",
+  "description": "Filesystem operations and markdown note management with path sandboxing and JSON Schema validation.",
+  "source_repo": "devaloi/mcpserve",
+  "source_url": "https://github.com/devaloi/mcpserve",
+  "install": "# git clone --depth 1 https://github.com/devaloi/mcpserve\n# See source for mcpServers config block"
+}

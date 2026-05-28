@@ -1,0 +1,7 @@
+{
+  "name": "temporal-community-durable-async-mcp",
+  "description": "Demo MCP server showing durable async workflow patterns for invoice processing using Temporal and the MCP Tasks protocol.",
+  "source_repo": "temporal-community/durable-async-mcp",
+  "source_url": "https://github.com/temporal-community/durable-async-mcp",
+  "install": "npx -y durable-async-mcp"
+}

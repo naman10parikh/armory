@@ -1,0 +1,7 @@
+{
+  "name": "manitgupta-nse-india",
+  "description": "Provides live Indian stock market data from NSE with 17 tools for bulk deals, institutional flows, market quotes, corporate events, and short data.",
+  "source_repo": "manitgupta/nse-mcp",
+  "source_url": "https://github.com/manitgupta/nse-mcp",
+  "install": "npx -y nse-mcp"
+}

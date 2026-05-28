@@ -1,0 +1,7 @@
+{
+  "name": "kasarlabs-cairo-coder",
+  "description": "Integrates with the Cairo Coder API to provide expert-level Cairo and Starknet development assistance, enabling smart contract generation, code refactoring, feature implementation, and contextual guidance based on Cairo/Starknet documentation and best practices.",
+  "source_repo": "kasarlabs/cairo-coder-mcp",
+  "source_url": "https://github.com/kasarlabs/cairo-coder-mcp",
+  "install": "npx -y cairo-coder-mcp"
+}

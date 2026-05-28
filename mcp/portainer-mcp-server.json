@@ -1,0 +1,7 @@
+{
+  "name": "portainer-mcp-server",
+  "description": "Enables AI assistants to manage Docker containers, images, networks, and services through the Portainer API.",
+  "source_repo": "BirajMainali/poratiner-ce-mcp-server",
+  "source_url": "https://github.com/BirajMainali/poratiner-ce-mcp-server",
+  "install": "npx -y poratiner-ce-mcp-server"
+}

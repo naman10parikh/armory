@@ -1,0 +1,7 @@
+{
+  "name": "vinvuk-apiverket",
+  "description": "Query Swedish public data including companies, SCB statistics, weather, and transport.",
+  "source_repo": "vinvuk/apiverket-mcp",
+  "source_url": "https://github.com/vinvuk/apiverket-mcp",
+  "install": "npx -y apiverket-mcp"
+}

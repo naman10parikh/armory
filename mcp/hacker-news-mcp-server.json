@@ -1,0 +1,7 @@
+{
+  "name": "hacker-news-mcp-server",
+  "description": "Enables AI assistants to fetch top, new, best, Ask HN, Show HN, and job stories, as well as specific posts, comments, and user information from Hacker News through the Model Context Protocol.",
+  "source_repo": "davidvgilmore/hn-mcp-server",
+  "source_url": "https://github.com/davidvgilmore/hn-mcp-server",
+  "install": "npx -y hn-mcp-server"
+}

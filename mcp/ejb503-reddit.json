@@ -1,0 +1,7 @@
+{
+  "name": "ejb503-reddit",
+  "description": "Enables AI to search, read, and interact with Reddit content through tools for analyzing subreddits, creating posts/comments, managing notifications, and configuring content creation instructions.",
+  "source_repo": "ejb503/systemprompt-mcp-reddit",
+  "source_url": "https://github.com/ejb503/systemprompt-mcp-reddit",
+  "install": "# git clone --depth 1 https://github.com/ejb503/systemprompt-mcp-reddit\n# See source for mcpServers config block"
+}

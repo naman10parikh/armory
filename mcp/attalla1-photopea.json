@@ -1,0 +1,7 @@
+{
+  "name": "attalla1-photopea",
+  "description": "Enables AI-driven image editing through Photopea's browser-based design application with 34 specialized tools.",
+  "source_repo": "attalla1/photopea-mcp-server",
+  "source_url": "https://github.com/attalla1/photopea-mcp-server",
+  "install": "npx -y photopea-mcp-server"
+}

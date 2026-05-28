@@ -1,0 +1,7 @@
+{
+  "name": "diecoscai-hevy",
+  "description": "Manages workouts, routines, exercises, and body measurements through the Hevy fitness app API.",
+  "source_repo": "diecoscai/hevy-mcp",
+  "source_url": "https://github.com/diecoscai/hevy-mcp",
+  "install": "npx -y hevy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "readingdancer-swagger",
+  "description": "Integrates with Swagger API specifications to download, cache, and extract endpoints, HTTP methods, models, and service connections for generating API interfaces from Swagger documentation.",
+  "source_repo": "vizioz/swagger-mcp",
+  "source_url": "https://github.com/vizioz/swagger-mcp",
+  "install": "npx -y swagger-mcp"
+}

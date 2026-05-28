@@ -1,0 +1,7 @@
+{
+  "name": "theletterf-vale",
+  "description": "Integrates with Vale prose linting tool to check installation status, sync style configurations, and analyze documents for style violations with detailed issue reporting including severity levels and suggested fixes.",
+  "source_repo": "theletterf/vale-mcp-server",
+  "source_url": "https://github.com/theletterf/vale-mcp-server",
+  "install": "npx -y vale-mcp-server"
+}

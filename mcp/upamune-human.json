@@ -1,0 +1,7 @@
+{
+  "name": "upamune-human",
+  "description": "Human-in-the-loop server that routes AI assistant requests to a human operator through a Streamlit UI, enabling creative and unpredictable responses while maintaining the illusion of automated interactions.",
+  "source_repo": "upamune/human-mcp",
+  "source_url": "https://github.com/upamune/human-mcp",
+  "install": "npx -y human-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "talos-mcp-server",
+  "description": "MCP server that enables interaction with Talos Linux clusters via gRPC API, supporting cluster management, monitoring, configuration, and resource inspection.",
+  "source_repo": "CBEPX/talos-mcp-server",
+  "source_url": "https://github.com/CBEPX/talos-mcp-server",
+  "install": "npx -y talos-mcp-server"
+}

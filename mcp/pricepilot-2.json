@@ -1,0 +1,7 @@
+{
+  "name": "pricepilot-2",
+  "description": "**Free competitive pricing intelligence for CPG brands.** Check where any product price sits in its Amazon category, track pricing trends, and compare products — *no NielsenIQ or SPINS subscription needed.* **6 tools:** - price positioning (percentile rank), - category trends (rising/stable/falling)",
+  "source_repo": "",
+  "source_url": "https://pricepilot.vantagemeridiangroup.com",
+  "install": "# git clone --depth 1 https://pricepilot.vantagemeridiangroup.com\n# See source for mcpServers config block"
+}

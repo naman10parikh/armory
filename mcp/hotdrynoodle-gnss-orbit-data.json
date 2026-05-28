@@ -1,0 +1,7 @@
+{
+  "name": "hotdrynoodle-gnss-orbit-data",
+  "description": "Retrieves GNSS satellite orbit and clock data for positioning and navigation research.",
+  "source_repo": "hotdrynoodle/orbit-data-mcp",
+  "source_url": "https://github.com/hotdrynoodle/orbit-data-mcp",
+  "install": "npx -y orbit-data-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ts-def-mcp",
+  "description": "Ts Def Mcp MCP server listed on mcp.so.",
+  "source_repo": "runninghare/ts-def-mcp",
+  "source_url": "https://mcp.so/server/ts-def-mcp/runninghare",
+  "install": "npx -y ts-def-mcp"
+}

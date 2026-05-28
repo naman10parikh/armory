@@ -1,0 +1,7 @@
+{
+  "name": "joursbleu-agent-tools",
+  "description": "Discovers and calls x402 paid services by searching a directory of AI-agent-compatible APIs by intent, price, and blockchain.",
+  "source_repo": "joursbleu/agent-tools-mcp",
+  "source_url": "https://github.com/joursbleu/agent-tools-mcp",
+  "install": "npx -y agent-tools-mcp"
+}

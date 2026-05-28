@@ -1,0 +1,7 @@
+{
+  "name": "fakepixels-base-blockchain",
+  "description": "Provides a bridge to the Base blockchain network for wallet management, balance checking, and transaction execution through natural language commands, eliminating the need to manage technical blockchain details.",
+  "source_repo": "fakepixels/base-mcp-server",
+  "source_url": "https://github.com/fakepixels/base-mcp-server",
+  "install": "npx -y base-mcp-server"
+}

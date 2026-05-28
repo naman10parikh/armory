@@ -1,0 +1,7 @@
+{
+  "name": "controlplaneio-flux-gitops",
+  "description": "Provides a bridge between Kubernetes GitOps operations and Flux CD ecosystem, enabling debugging, resource management, and workflow troubleshooting through specialized tools for log retrieval, reconciliation, and cluster context switching.",
+  "source_repo": "controlplaneio-fluxcd/flux-operator",
+  "source_url": "https://github.com/controlplaneio-fluxcd/flux-operator",
+  "install": "# git clone --depth 1 https://github.com/controlplaneio-fluxcd/flux-operator\n# See source for mcpServers config block"
+}

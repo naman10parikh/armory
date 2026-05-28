@@ -1,0 +1,7 @@
+{
+  "name": "medifinder-mcp",
+  "description": "Medifinder Mcp MCP server listed on mcp.so.",
+  "source_repo": "MediFinderBot/medifinder-mcp",
+  "source_url": "https://mcp.so/server/medifinder-mcp/MediFinderBot",
+  "install": "npx -y medifinder-mcp"
+}

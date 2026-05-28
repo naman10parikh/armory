@@ -1,0 +1,7 @@
+{
+  "name": "smartlead-mcp-server",
+  "description": "Enables cold email marketing automation with campaign management, lead tracking, deliverability optimization, and analytics, integrating with 113 tools via zero-config NPX installation.",
+  "source_repo": "win8428/smartlead-mcp-server",
+  "source_url": "https://github.com/win8428/smartlead-mcp-server",
+  "install": "npx -y smartlead-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "buryhuang-twitter-noauth",
+  "description": "Provides Twitter API access without local credential setup through a decoupled architecture where clients handle OAuth flows independently and pass credentials as context for core Twitter operations.",
+  "source_repo": "baryhuang/mcp-twitter-noauth",
+  "source_url": "https://github.com/baryhuang/mcp-twitter-noauth",
+  "install": "# git clone --depth 1 https://github.com/baryhuang/mcp-twitter-noauth\n# See source for mcpServers config block"
+}

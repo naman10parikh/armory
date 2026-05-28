@@ -1,0 +1,7 @@
+{
+  "name": "locus",
+  "description": "Hierarchical markdown-based memory system for AI agents. Enables efficient context management by loading only relevant rooms (directories) instead of full memory.",
+  "source_repo": "Nano-Nimbus/locus",
+  "source_url": "https://github.com/Nano-Nimbus/locus",
+  "install": "# git clone --depth 1 https://github.com/Nano-Nimbus/locus\n# See source for mcpServers config block"
+}

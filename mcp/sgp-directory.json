@@ -1,0 +1,7 @@
+{
+  "name": "sgp-directory",
+  "description": "Search Singapore companies, UEN numbers, and SSIC industry classifications.",
+  "source_repo": "",
+  "source_url": "https://sgpdirectory.com",
+  "install": "# git clone --depth 1 https://sgpdirectory.com\n# See source for mcpServers config block"
+}

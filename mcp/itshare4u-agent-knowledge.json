@@ -1,0 +1,7 @@
+{
+  "name": "itshare4u-agent-knowledge",
+  "description": "Provides knowledge management capabilities through Elasticsearch integration, file system operations, and Git/SVN version control with 31 specialized tools for document indexing, sandboxed file operations, and automated version control workflows.",
+  "source_repo": "itshare4u/agentknowledgemcp",
+  "source_url": "https://github.com/itshare4u/agentknowledgemcp",
+  "install": "# git clone --depth 1 https://github.com/itshare4u/agentknowledgemcp\n# See source for mcpServers config block"
+}

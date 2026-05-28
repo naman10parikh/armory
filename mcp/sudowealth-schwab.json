@@ -1,0 +1,7 @@
+{
+  "name": "sudowealth-schwab",
+  "description": "Access Charles Schwab accounts, trading data, and real-time market information.",
+  "source_repo": "sudowealth/schwab-mcp",
+  "source_url": "https://github.com/sudowealth/schwab-mcp",
+  "install": "npx -y schwab-mcp"
+}

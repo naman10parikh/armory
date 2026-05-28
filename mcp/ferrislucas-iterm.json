@@ -1,0 +1,7 @@
+{
+  "name": "ferrislucas-iterm",
+  "description": "Enables direct execution of shell commands in the active iTerm tab, streamlining terminal-based workflows and automation tasks.",
+  "source_repo": "ferrislucas/iterm-mcp",
+  "source_url": "https://github.com/ferrislucas/iterm-mcp",
+  "install": "npx -y iterm-mcp"
+}

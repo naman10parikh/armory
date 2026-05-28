@@ -1,0 +1,7 @@
+{
+  "name": "andasv-himalaya-email",
+  "description": "Email operations for AI agents via Himalaya CLI with read-only, full, and dangerzone operating modes.",
+  "source_repo": "andasv/himalaya-mcp-server",
+  "source_url": "https://github.com/andasv/himalaya-mcp-server",
+  "install": "npx -y himalaya-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zaycruz-docker-executor",
+  "description": "Provides a secure Docker-based environment for executing code in isolated containers, enabling safe running of commands and scripts in any language with robust error handling and resource management.",
+  "source_repo": "zaycruz/docker_mcp",
+  "source_url": "https://github.com/zaycruz/docker_mcp",
+  "install": "npx -y docker_mcp"
+}

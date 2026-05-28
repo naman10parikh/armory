@@ -1,0 +1,7 @@
+{
+  "name": "zukai-neon-postgresql",
+  "description": "Enables management of Neon PostgreSQL database projects, branches, and schemas through natural language interactions with the Neon REST API",
+  "source_repo": "fefergrgrgrg/insight",
+  "source_url": "https://github.com/fefergrgrgrg/insight",
+  "install": "# git clone --depth 1 https://github.com/fefergrgrgrg/insight\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eyeot-mcp",
+  "description": "An MCP server that bridges AI agents to the eyeot ERP, exposing ~600 business actions (CRM, sales, stock, HR, finance, etc.) as MCP tools over stdio via OAuth 2.1 authentication.",
+  "source_repo": "Termi24/ERP-by-Eyeot-Software",
+  "source_url": "https://github.com/Termi24/ERP-by-Eyeot-Software",
+  "install": "# git clone --depth 1 https://github.com/Termi24/ERP-by-Eyeot-Software\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "thenextgennexus-developer-tools",
+  "description": "Search GitHub, npm, PyPI, StackOverflow, and ArXiv from one MCP tool.",
+  "source_repo": "",
+  "source_url": "https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/developer-tools-mcp-server/mcp",
+  "install": "# git clone --depth 1 https://nexgendata-mcp-proxy.steve-corbeil.workers.dev/developer-tools-mcp-server/mcp\n# See source for mcpServers config block"
+}

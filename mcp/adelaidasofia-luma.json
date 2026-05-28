@@ -1,0 +1,7 @@
+{
+  "name": "adelaidasofia-luma",
+  "description": "Lu.ma events MCP with draft-and-confirm safety, audit logging, and prompt-injection scrubbing.",
+  "source_repo": "adelaidasofia/luma-mcp",
+  "source_url": "https://github.com/adelaidasofia/luma-mcp",
+  "install": "npx -y luma-mcp"
+}

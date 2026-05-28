@@ -1,0 +1,7 @@
+{
+  "name": "netlify-mcp",
+  "description": "Netlify Mcp MCP server listed on mcp.so.",
+  "source_repo": "MCERQUA/netlify-mcp",
+  "source_url": "https://mcp.so/server/netlify-mcp/MCERQUA",
+  "install": "npx -y netlify-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mimo-free-api-mcp",
+  "description": "Provides an OpenAI-compatible gateway to the MiMo (Xiaomi) model series, with native MCP server tools for web search and visual analysis.",
+  "source_repo": "Fu-Jie/mimo-free-api-mcp",
+  "source_url": "https://github.com/Fu-Jie/mimo-free-api-mcp",
+  "install": "npx -y mimo-free-api-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kabuzz-mcp-server",
+  "description": "Enables any MCP-compatible AI agent to browse, negotiate, purchase, message, and transact on the Kabuzz resale marketplace without writing REST integration code.",
+  "source_repo": "douglashardman/kabuzz-mcp-server",
+  "source_url": "https://github.com/douglashardman/kabuzz-mcp-server",
+  "install": "npx -y kabuzz-mcp-server"
+}

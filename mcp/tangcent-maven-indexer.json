@@ -1,0 +1,7 @@
+{
+  "name": "tangcent-maven-indexer",
+  "description": "Indexes local Maven repositories to enable semantic search and discovery of Java classes from external dependencies with method signatures, inheritance relationships, and source code access",
+  "source_repo": "tangcent/maven-indexer-mcp",
+  "source_url": "https://github.com/tangcent/maven-indexer-mcp",
+  "install": "npx -y maven-indexer-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kurtisvg-skillful",
+  "description": "Go MCP middleware aggregating multiple downstream MCP servers into unified Skills for progressive tool disclosure.",
+  "source_repo": "kurtisvg/skillful-mcp",
+  "source_url": "https://github.com/kurtisvg/skillful-mcp",
+  "install": "npx -y skillful-mcp"
+}

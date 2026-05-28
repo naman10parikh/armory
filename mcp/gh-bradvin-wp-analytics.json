@@ -1,0 +1,7 @@
+{
+  "name": "gh-bradvin-wp-analytics",
+  "description": "WordPress plugin exposing Google Search Console and Google Analytics 4 data through a REST endpoint.",
+  "source_repo": "bradvin/wp-analytics-mcp",
+  "source_url": "https://github.com/bradvin/wp-analytics-mcp",
+  "install": "npx -y wp-analytics-mcp"
+}

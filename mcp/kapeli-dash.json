@@ -1,0 +1,7 @@
+{
+  "name": "kapeli-dash",
+  "description": "Integrates with Dash documentation browser on macOS to provide searchable access to locally installed docsets, code snippets, and technical documentation across multiple programming languages and frameworks.",
+  "source_repo": "kapeli/dash-mcp-server",
+  "source_url": "https://github.com/kapeli/dash-mcp-server",
+  "install": "npx -y dash-mcp-server"
+}

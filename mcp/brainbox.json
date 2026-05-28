@@ -1,0 +1,7 @@
+{
+  "name": "brainbox",
+  "description": "Hebbian memory for AI agents that learns file patterns, predicts next tools, and saves tokens.",
+  "source_repo": "thebasedcapital/brainbox",
+  "source_url": "https://github.com/thebasedcapital/brainbox",
+  "install": "# git clone --depth 1 https://github.com/thebasedcapital/brainbox\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "asusevski-opendota",
+  "description": "Integrates with the OpenDota API to provide real-time Dota 2 statistics, match data, and player information for game analysis, performance tracking, and esports research.",
+  "source_repo": "asusevski/opendota-mcp-server",
+  "source_url": "https://github.com/asusevski/opendota-mcp-server",
+  "install": "npx -y opendota-mcp-server"
+}

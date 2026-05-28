@@ -1,0 +1,7 @@
+{
+  "name": "autovault",
+  "description": "AutoVault is an MCP server that provides a local-first vault for AI agent skills, enabling validation, signing, and serving of SKILL.md files to agents through stdio or HTTP.",
+  "source_repo": "autoworks-ai/autovault",
+  "source_url": "https://github.com/autoworks-ai/autovault",
+  "install": "# git clone --depth 1 https://github.com/autoworks-ai/autovault\n# See source for mcpServers config block"
+}

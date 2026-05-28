@@ -1,0 +1,7 @@
+{
+  "name": "chrome-browser-control",
+  "description": "Enables fine-grained control over Chrome browser instances through the Chrome DevTools Protocol, allowing web navigation, element interaction, text input, and content extraction with automatic handling of dynamic content.",
+  "source_repo": "lxe/chrome-mcp",
+  "source_url": "https://github.com/lxe/chrome-mcp",
+  "install": "npx -y chrome-mcp"
+}

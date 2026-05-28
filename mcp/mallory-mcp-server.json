@@ -1,0 +1,7 @@
+{
+  "name": "mallory-mcp-server",
+  "description": "Mallory Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "malloryai/mallory-mcp-server",
+  "source_url": "https://mcp.so/server/mallory-mcp-server/malloryai",
+  "install": "npx -y mallory-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-ai-self-audit-mcp",
+  "description": "Automated audit and compliance checking tools for AI systems.",
+  "source_repo": "csoai-org/ai-self-audit-mcp",
+  "source_url": "https://github.com/csoai-org/ai-self-audit-mcp",
+  "install": "npx -y ai-self-audit-mcp"
+}

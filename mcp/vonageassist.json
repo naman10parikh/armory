@@ -1,0 +1,7 @@
+{
+  "name": "vonageassist",
+  "description": "VonageAssist MCP server listed on mcp.so.",
+  "source_repo": "micahman33/VonageAssist",
+  "source_url": "https://mcp.so/server/VonageAssist/micahman33",
+  "install": "# git clone --depth 1 https://mcp.so/server/VonageAssist/micahman33\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jonrad-tmux",
+  "description": "Provides control over tmux sessions by leveraging libtmux to execute commands through a simple interface, enabling automated terminal session management and complex workflows.",
+  "source_repo": "jonrad/tmux-mcp",
+  "source_url": "https://github.com/jonrad/tmux-mcp",
+  "install": "npx -y tmux-mcp"
+}

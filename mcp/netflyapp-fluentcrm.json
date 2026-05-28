@@ -1,0 +1,7 @@
+{
+  "name": "netflyapp-fluentcrm",
+  "description": "Integrates with FluentCRM WordPress plugin to provide complete email marketing automation including contact management, campaign creation, tag and list operations, automation workflows, and webhook management through over 30 specialized tools.",
+  "source_repo": "netflyapp/fluentcrm-mcp-server",
+  "source_url": "https://github.com/netflyapp/fluentcrm-mcp-server",
+  "install": "npx -y fluentcrm-mcp-server"
+}

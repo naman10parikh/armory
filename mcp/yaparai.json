@@ -1,0 +1,7 @@
+{
+  "name": "yaparai",
+  "description": "Connects to YaparAI's content creation platform with 30 tools for image, video, and music generation, image editing, and enterprise social media and CRM features.",
+  "source_repo": "ilhankilic/yaparai-mcp",
+  "source_url": "https://github.com/ilhankilic/yaparai-mcp",
+  "install": "npx -y yaparai-mcp"
+}

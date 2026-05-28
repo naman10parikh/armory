@@ -1,0 +1,7 @@
+{
+  "name": "gh-blightbow-parkour",
+  "description": "Content exploration toolkit for surfacing high-signal, unsummarized web content.",
+  "source_repo": "blightbow/parkour-mcp",
+  "source_url": "https://github.com/blightbow/parkour-mcp",
+  "install": "npx -y parkour-mcp"
+}

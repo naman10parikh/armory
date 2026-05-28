@@ -1,0 +1,7 @@
+{
+  "name": "jomon003-playmcp-browser-automation",
+  "description": "Provides browser automation capabilities using Playwright, enabling web page navigation, element interaction, content extraction, screenshot capture, and JavaScript execution for web scraping, testing, and automated workflows.",
+  "source_repo": "jomon003/playmcp",
+  "source_url": "https://github.com/jomon003/playmcp",
+  "install": "# git clone --depth 1 https://github.com/jomon003/playmcp\n# See source for mcpServers config block"
+}

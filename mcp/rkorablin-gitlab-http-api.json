@@ -1,0 +1,7 @@
+{
+  "name": "rkorablin-gitlab-http-api",
+  "description": "GitLab integration covering projects, issues, merge requests, and CI/CD pipelines via HTTP API with npm distribution.",
+  "source_repo": "rkorablin/gitlab-http-api-mcp",
+  "source_url": "https://github.com/rkorablin/gitlab-http-api-mcp",
+  "install": "npx -y gitlab-http-api-mcp"
+}

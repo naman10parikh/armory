@@ -1,0 +1,7 @@
+{
+  "name": "contextualai-enterprise-search",
+  "description": "Integrates with Contextual AI's platform to provide enterprise search, multi-agent routing with automatic reranking, and intelligent document navigation that leverages hierarchical structure analysis for conversational access to knowledge bases and complex documents.",
+  "source_repo": "contextualai/contextual-mcp-server",
+  "source_url": "https://github.com/contextualai/contextual-mcp-server",
+  "install": "npx -y contextual-mcp-server"
+}

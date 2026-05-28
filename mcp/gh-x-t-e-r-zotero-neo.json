@@ -1,0 +1,7 @@
+{
+  "name": "gh-x-t-e-r-zotero-neo",
+  "description": "A Zotero plugin that embeds an MCP server, giving AI assistants read/write access to Zotero reference libraries via six unified tools.",
+  "source_repo": "x-t-e-r/zotero-mcp-neo",
+  "source_url": "https://github.com/x-t-e-r/zotero-mcp-neo",
+  "install": "# git clone --depth 1 https://github.com/x-t-e-r/zotero-mcp-neo\n# See source for mcpServers config block"
+}

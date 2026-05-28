@@ -1,0 +1,7 @@
+{
+  "name": "taylormadeapps-taype",
+  "description": "MCP-native digital audio workstation for macOS built for musicians, with modelled console tone, VST3 plugin hosting, and accessibility compliance.",
+  "source_repo": "taylormadeapps/taype-releases",
+  "source_url": "https://github.com/taylormadeapps/taype-releases",
+  "install": "# git clone --depth 1 https://github.com/taylormadeapps/taype-releases\n# See source for mcpServers config block"
+}

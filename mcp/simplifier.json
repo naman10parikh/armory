@@ -1,0 +1,7 @@
+{
+  "name": "simplifier",
+  "description": "Integration with the Simplifier Low Code Platform",
+  "source_repo": "simplifier-ag/simplifier-mcp",
+  "source_url": "https://github.com/simplifier-ag/simplifier-mcp",
+  "install": "npx -y simplifier-mcp"
+}

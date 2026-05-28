@@ -1,0 +1,7 @@
+{
+  "name": "dynatrace-mcp-server",
+  "description": "Manage and interact with the Dynatrace Platform for real-time observability and monitoring.",
+  "source_repo": "davila7/claude-code-templates",
+  "source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/dynatrace.json",
+  "install": "# git clone --depth 1 https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/mcps/devtools/dynatrace.json\n# See source for mcpServers config block"
+}

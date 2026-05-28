@@ -1,0 +1,7 @@
+{
+  "name": "withings-mcp",
+  "description": "Local-first MCP server that connects AI agents to your Withings body, sleep, activity and heart data.",
+  "source_repo": "davidmosiah/withingsmcp",
+  "source_url": "https://github.com/davidmosiah/withingsmcp",
+  "install": "# git clone --depth 1 https://github.com/davidmosiah/withingsmcp\n# See source for mcpServers config block"
+}

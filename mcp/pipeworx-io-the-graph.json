@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-the-graph",
+  "description": "The Graph indexed blockchain data via subgraph GraphQL queries for Ethereum and other EVM-compatible chains via Pipeworx.",
+  "source_repo": "pipeworx-io/mcp-the-graph",
+  "source_url": "https://github.com/pipeworx-io/mcp-the-graph",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-the-graph\n# See source for mcpServers config block"
+}

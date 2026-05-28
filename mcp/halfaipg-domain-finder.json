@@ -1,0 +1,7 @@
+{
+  "name": "halfaipg-domain-finder",
+  "description": "Generates creative, brandable domain names by combining word manipulation techniques with real-time availability checking across 1,441+ TLDs, using intelligent scoring algorithms to evaluate pronounceability and keyword relevance for finding memorable, available domains.",
+  "source_repo": "halfaipg/domain-finder-mcp",
+  "source_url": "https://github.com/halfaipg/domain-finder-mcp",
+  "install": "npx -y domain-finder-mcp"
+}

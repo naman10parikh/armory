@@ -1,0 +1,7 @@
+{
+  "name": "korean-crypto",
+  "description": "Access real-time price data, order books, and candle information from major Korean exchanges like Upbit and Bithumb. Track the Kimchi premium by comparing local market prices against global benchmarks. Identify top market movers and compare trading data across domestic platforms to optimize investme",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/koreafintech/korean-crypto-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/koreafintech/korean-crypto-mcp\n# See source for mcpServers config block"
+}

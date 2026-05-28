@@ -1,0 +1,7 @@
+{
+  "name": "playwright-browser-automation",
+  "description": "Enables AI models to perform web automation tasks by controlling headless browsers through a server-side Playwright implementation.",
+  "source_repo": "torohash/playwright-sse-mcp-server",
+  "source_url": "https://github.com/torohash/playwright-sse-mcp-server",
+  "install": "npx -y playwright-sse-mcp-server"
+}

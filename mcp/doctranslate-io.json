@@ -1,0 +1,7 @@
+{
+  "name": "doctranslate-io",
+  "description": "Integrates with DocTranslate.io's API to provide document translation and conversion capabilities across multiple formats including DOCX, PDF, PPTX, and XLSX with support for 26 languages, customizable tone and domain settings, bilingual output options, and credit usage monitoring for automated multilingual document workflows.",
+  "source_repo": "thinkprompt/doctranslateio-mcp",
+  "source_url": "https://github.com/thinkprompt/doctranslateio-mcp",
+  "install": "npx -y doctranslateio-mcp"
+}

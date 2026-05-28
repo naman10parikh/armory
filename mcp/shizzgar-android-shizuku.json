@@ -1,0 +1,7 @@
+{
+  "name": "shizzgar-android-shizuku",
+  "description": "Controls Android devices from Termux using Shizuku for privileged operations and Termux:API for system access.",
+  "source_repo": "shizzgar/shizuku-mcp",
+  "source_url": "https://github.com/shizzgar/shizuku-mcp",
+  "install": "npx -y shizuku-mcp"
+}

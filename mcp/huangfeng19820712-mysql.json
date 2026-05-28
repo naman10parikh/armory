@@ -1,0 +1,7 @@
+{
+  "name": "huangfeng19820712-mysql",
+  "description": "Provides MySQL database operations including CRUD execution, transaction management, table introspection, and query analysis through JSON-RPC 2.0 interface with separate tools for different operation types and comprehensive error handling.",
+  "source_repo": "huangfeng19820712/mcp-mysql-server",
+  "source_url": "https://github.com/huangfeng19820712/mcp-mysql-server",
+  "install": "# git clone --depth 1 https://github.com/huangfeng19820712/mcp-mysql-server\n# See source for mcpServers config block"
+}

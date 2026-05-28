@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-cloudpayments",
+  "description": "Process charges, authorizations, refunds, and transaction lookups via the CloudPayments API.",
+  "source_repo": "theyahia/cloudpayments-mcp",
+  "source_url": "https://github.com/theyahia/cloudpayments-mcp",
+  "install": "npx -y cloudpayments-mcp"
+}

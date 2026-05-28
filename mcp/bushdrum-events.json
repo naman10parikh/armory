@@ -1,0 +1,7 @@
+{
+  "name": "bushdrum-events",
+  "description": "Bushdrum is a read-only MCP server for city-scoped event discovery. It exposes two tools: list_cities for available Bushdrum cities, and search_events for structured event search within one explicit city using filters like category, vibe, audience, neighborhood, date, price, language, and time.",
+  "source_repo": "",
+  "source_url": "https://bushdrum.com/developers",
+  "install": "# git clone --depth 1 https://bushdrum.com/developers\n# See source for mcpServers config block"
+}

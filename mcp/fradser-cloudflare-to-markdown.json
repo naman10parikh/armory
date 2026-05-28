@@ -1,0 +1,7 @@
+{
+  "name": "fradser-cloudflare-to-markdown",
+  "description": "Bridges Claude with Cloudflare's AI services to convert PDFs, images, HTML, and Office documents into structured markdown descriptions for content analysis and documentation generation.",
+  "source_repo": "fradser/mcp-server-to-markdown",
+  "source_url": "https://github.com/fradser/mcp-server-to-markdown",
+  "install": "# git clone --depth 1 https://github.com/fradser/mcp-server-to-markdown\n# See source for mcpServers config block"
+}

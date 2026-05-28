@@ -1,0 +1,7 @@
+{
+  "name": "adsb-exchange",
+  "description": "Provides real-time aircraft tracking data through the ADS-B Exchange API with tools for geographic aircraft search, individual aircraft lookup, military aircraft filtering, and aircraft type enumeration for aviation monitoring and flight analysis applications.",
+  "source_repo": "sragss/flight-mcp",
+  "source_url": "https://github.com/sragss/flight-mcp",
+  "install": "npx -y flight-mcp"
+}

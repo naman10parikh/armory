@@ -1,0 +1,7 @@
+{
+  "name": "hyperb1iss-droidmind",
+  "description": "Enables control and interaction with Android devices through secure tools for device management, app installation, UI automation, file operations, and system diagnostics.",
+  "source_repo": "hyperb1iss/droidmind",
+  "source_url": "https://github.com/hyperb1iss/droidmind",
+  "install": "# git clone --depth 1 https://github.com/hyperb1iss/droidmind\n# See source for mcpServers config block"
+}

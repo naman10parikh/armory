@@ -1,0 +1,7 @@
+{
+  "name": "allaboutai-yt-openai",
+  "description": "Make calls to OpenAI's chat completions.",
+  "source_repo": "allaboutai-yt/mcp-servers",
+  "source_url": "https://github.com/allaboutai-yt/mcp-servers/tree/HEAD/openai-server",
+  "install": "# git clone --depth 1 https://github.com/allaboutai-yt/mcp-servers/tree/HEAD/openai-server\n# See source for mcpServers config block"
+}

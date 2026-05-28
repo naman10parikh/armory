@@ -1,0 +1,7 @@
+{
+  "name": "piecesmcpnet",
+  "description": "PiecesMCPNet MCP server listed on mcp.so.",
+  "source_repo": "jimbobbennett/PiecesMCPNet",
+  "source_url": "https://mcp.so/server/PiecesMCPNet/jimbobbennett",
+  "install": "# git clone --depth 1 https://mcp.so/server/PiecesMCPNet/jimbobbennett\n# See source for mcpServers config block"
+}

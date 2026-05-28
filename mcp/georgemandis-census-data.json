@@ -1,0 +1,7 @@
+{
+  "name": "georgemandis-census-data",
+  "description": "Natural language access to US Census Bureau API with 1,700+ demographic and economic datasets.",
+  "source_repo": "georgemandis/mcp-census-data",
+  "source_url": "https://github.com/georgemandis/mcp-census-data",
+  "install": "# git clone --depth 1 https://github.com/georgemandis/mcp-census-data\n# See source for mcpServers config block"
+}

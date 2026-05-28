@@ -1,0 +1,7 @@
+{
+  "name": "antegral-kpic",
+  "description": "Integrates with the Korea Pharmaceutical Information Center (KPIC) API to retrieve drug details, interactions, safety information, and regulatory data for healthcare applications and pharmaceutical compliance workflows.",
+  "source_repo": "antegral/kpic-mcp",
+  "source_url": "https://github.com/antegral/kpic-mcp",
+  "install": "npx -y kpic-mcp"
+}

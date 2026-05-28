@@ -1,0 +1,7 @@
+{
+  "name": "thepeppy-supper-ida-tools",
+  "description": "Desktop MCP hub routing reverse engineering analysis across multiple concurrent IDA Pro instances via a single local streamable HTTP endpoint.",
+  "source_repo": "thepeppy/supper-ida-mcp-tools",
+  "source_url": "https://github.com/thepeppy/supper-ida-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/thepeppy/supper-ida-mcp-tools\n# See source for mcpServers config block"
+}

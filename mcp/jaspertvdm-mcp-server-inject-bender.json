@@ -1,0 +1,7 @@
+{
+  "name": "jaspertvdm-mcp-server-inject-bender",
+  "description": "Security through absurdity: transforms SQL injection and XSS attempts into harmless comedy responses using AI-powered humor defense.",
+  "source_repo": "jaspertvdm/mcp-server-inject-bender",
+  "source_url": "https://github.com/jaspertvdm/mcp-server-inject-bender",
+  "install": "# git clone --depth 1 https://github.com/jaspertvdm/mcp-server-inject-bender\n# See source for mcpServers config block"
+}

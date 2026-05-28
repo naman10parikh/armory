@@ -1,0 +1,7 @@
+{
+  "name": "sb-ogc-mcp",
+  "description": "MCP server that gives Claude access to Dutch mobility data via Studio Bereikbaar's OGC API, enabling querying of travel surveys, traffic models, and accessibility maps.",
+  "source_repo": "Studio-Bereikbaar/sb-ogc-mcp",
+  "source_url": "https://github.com/Studio-Bereikbaar/sb-ogc-mcp",
+  "install": "npx -y sb-ogc-mcp"
+}

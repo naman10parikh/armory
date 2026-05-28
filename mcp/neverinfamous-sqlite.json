@@ -1,0 +1,7 @@
+{
+  "name": "neverinfamous-sqlite",
+  "description": "Advanced SQLite database server with support for JSONB, full-text search, geospatial operations, and analytics",
+  "source_repo": "neverinfamous/sqlite-mcp-server",
+  "source_url": "https://github.com/neverinfamous/sqlite-mcp-server",
+  "install": "npx -y sqlite-mcp-server"
+}

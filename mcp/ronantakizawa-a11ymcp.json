@@ -1,0 +1,7 @@
+{
+  "name": "ronantakizawa-a11ymcp",
+  "description": "Web accessibility testing MCP server that analyzes URLs and HTML for WCAG 2.0/2.1/2.2 compliance using axe-core. Tools for color contrast, ARIA validation, and orientation lock detection.",
+  "source_repo": "ronantakizawa/a11ymcp",
+  "source_url": "https://github.com/ronantakizawa/a11ymcp",
+  "install": "# git clone --depth 1 https://github.com/ronantakizawa/a11ymcp\n# See source for mcpServers config block"
+}

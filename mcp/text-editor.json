@@ -1,0 +1,7 @@
+{
+  "name": "text-editor",
+  "description": "Implements Claude's text editor tool as a server, enabling viewing, editing, and creating text files with persistent state across command calls.",
+  "source_repo": "bhouston/mcp-server-text-editor",
+  "source_url": "https://github.com/bhouston/mcp-server-text-editor",
+  "install": "# git clone --depth 1 https://github.com/bhouston/mcp-server-text-editor\n# See source for mcpServers config block"
+}

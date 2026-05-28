@@ -1,0 +1,7 @@
+{
+  "name": "postproxy-mcp-server",
+  "description": "Integrates PostProxy API with Claude Code for publishing posts, checking statuses, and managing social media profiles across multiple platforms.",
+  "source_repo": "postproxy/postproxy-mcp",
+  "source_url": "https://github.com/postproxy/postproxy-mcp",
+  "install": "npx -y postproxy-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-repology",
+  "description": "Compares package versions across 350+ Linux distributions and repositories via Repology.",
+  "source_repo": "pipeworx-io/mcp-repology",
+  "source_url": "https://github.com/pipeworx-io/mcp-repology",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-repology\n# See source for mcpServers config block"
+}

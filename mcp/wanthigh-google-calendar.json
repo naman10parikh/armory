@@ -1,0 +1,7 @@
+{
+  "name": "wanthigh-google-calendar",
+  "description": "Integrates with Google Calendar API to provide comprehensive calendar management including event creation, updating, deletion, listing, searching, and batch operations with OAuth2 authentication, recurring events, attendee management, and timezone handling.",
+  "source_repo": "wanthigh/google-calendar-mcp-server",
+  "source_url": "https://github.com/wanthigh/google-calendar-mcp-server",
+  "install": "npx -y google-calendar-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aim-guard",
+  "description": "Provides security middleware that guards MCP implementations against unauthorized access, data leakage, and malicious interactions through threat detection and protection validation.",
+  "source_repo": "aim-intelligence/aim-mcp",
+  "source_url": "https://github.com/aim-intelligence/aim-mcp",
+  "install": "npx -y aim-mcp"
+}

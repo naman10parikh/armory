@@ -1,0 +1,7 @@
+{
+  "name": "freevision-autoform",
+  "description": "Search Slovak corporate entities by name or company identification number with filtering for active companies and structured business registry data",
+  "source_repo": "freevisionsk/autoform-mcp",
+  "source_url": "https://github.com/freevisionsk/autoform-mcp",
+  "install": "npx -y autoform-mcp"
+}

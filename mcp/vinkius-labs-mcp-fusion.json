@@ -1,0 +1,7 @@
+{
+  "name": "vinkius-labs-mcp-fusion",
+  "description": "A TypeScript framework for building production-ready MCP servers with automatic tool discovery, multi-transport support (stdio/SSE/HTTP), built-in validation, and zero-config setup.",
+  "source_repo": "vinkius-labs/mcp-fusion",
+  "source_url": "https://github.com/vinkius-labs/mcp-fusion",
+  "install": "# git clone --depth 1 https://github.com/vinkius-labs/mcp-fusion\n# See source for mcpServers config block"
+}

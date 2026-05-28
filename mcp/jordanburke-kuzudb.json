@@ -1,0 +1,7 @@
+{
+  "name": "jordanburke-kuzudb",
+  "description": "Provides direct access to Kuzu graph databases through Cypher query execution, schema introspection, and database management with multi-agent coordination, automatic connection recovery, and built-in templates for movies, social networks, and financial data.",
+  "source_repo": "jordanburke/kuzudb-mcp-server",
+  "source_url": "https://github.com/jordanburke/kuzudb-mcp-server",
+  "install": "npx -y kuzudb-mcp-server"
+}

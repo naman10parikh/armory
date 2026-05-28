@@ -1,0 +1,7 @@
+{
+  "name": "wyre-technology-datto-saas-protection",
+  "description": "Manage Datto SaaS Protection backups for Microsoft 365 and Google Workspace.",
+  "source_repo": "wyre-technology/datto-saas-protection-mcp",
+  "source_url": "https://github.com/wyre-technology/datto-saas-protection-mcp",
+  "install": "npx -y datto-saas-protection-mcp"
+}

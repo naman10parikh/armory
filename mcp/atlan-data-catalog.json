@@ -1,0 +1,7 @@
+{
+  "name": "atlan-data-catalog",
+  "description": "Provides a bridge between AI agents and Atlan data catalog services for searching, retrieving, traversing lineage, and updating asset metadata through the pyatlan SDK",
+  "source_repo": "atlanhq/agent-toolkit",
+  "source_url": "https://github.com/atlanhq/agent-toolkit/tree/HEAD/modelcontextprotocol",
+  "install": "# git clone --depth 1 https://github.com/atlanhq/agent-toolkit/tree/HEAD/modelcontextprotocol\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "health-record-mcp",
+  "description": "Connect to an EHR and make clinical data available via MCP",
+  "source_repo": "jmandel/health-record-mcp",
+  "source_url": "https://github.com/jmandel/health-record-mcp",
+  "install": "npx -y health-record-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "varaprasadreddy9676-remotebridge",
+  "description": "Bridges AI coding tools with remote servers via SSH sync, command execution, and log feedback.",
+  "source_repo": "varaprasadreddy9676/remote-bridge",
+  "source_url": "https://github.com/varaprasadreddy9676/remote-bridge",
+  "install": "# git clone --depth 1 https://github.com/varaprasadreddy9676/remote-bridge\n# See source for mcpServers config block"
+}

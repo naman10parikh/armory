@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-hyperliquid-whalealert-mcp",
+  "description": "An MCP server that provides real-time whale alerts on Hyperliquid, flagging positions with a notional value exceeding $1 million.",
+  "source_repo": "kukapay/hyperliquid-whalealert-mcp",
+  "source_url": "https://github.com/kukapay/hyperliquid-whalealert-mcp",
+  "install": "npx -y hyperliquid-whalealert-mcp"
+}

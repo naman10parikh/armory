@@ -1,0 +1,7 @@
+{
+  "name": "adepanges-teamretro",
+  "description": "Provides a bridge to TeamRetro's team management platform for creating and managing teams, users, and members through natural language commands with authentication support.",
+  "source_repo": "adepanges/teamretro-mcp-server",
+  "source_url": "https://github.com/adepanges/teamretro-mcp-server",
+  "install": "npx -y teamretro-mcp-server"
+}

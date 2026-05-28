@@ -1,0 +1,7 @@
+{
+  "name": "search-docs-mcp",
+  "description": "Enables semantic search across multiple AI library documentations to keep coding assistants up-to-date.",
+  "source_repo": "mostafa-ghaith/search_docs_mcp",
+  "source_url": "https://github.com/mostafa-ghaith/search_docs_mcp",
+  "install": "npx -y search_docs_mcp"
+}

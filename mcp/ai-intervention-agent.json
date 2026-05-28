@@ -1,0 +1,7 @@
+{
+  "name": "ai-intervention-agent",
+  "description": "Enables real-time user intervention for MCP agents via a Web UI and interactive_feedback tool, allowing users to review context and send instructions when agents drift from intent.",
+  "source_repo": "fastmcp-me/ai-intervention-agent",
+  "source_url": "https://github.com/fastmcp-me/ai-intervention-agent",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/ai-intervention-agent\n# See source for mcpServers config block"
+}

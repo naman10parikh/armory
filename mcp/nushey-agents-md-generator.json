@@ -1,0 +1,7 @@
+{
+  "name": "nushey-agents-md-generator",
+  "description": "Analyzes codebases with tree-sitter and generates AGENTS.md files for AI coding agents.",
+  "source_repo": "nushey/agents-md-generator",
+  "source_url": "https://github.com/nushey/agents-md-generator",
+  "install": "# git clone --depth 1 https://github.com/nushey/agents-md-generator\n# See source for mcpServers config block"
+}

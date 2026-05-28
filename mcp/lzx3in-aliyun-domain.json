@@ -1,0 +1,7 @@
+{
+  "name": "lzx3in-aliyun-domain",
+  "description": "MCP server for managing Alibaba Cloud domain registration and portfolio operations.",
+  "source_repo": "lzx3in/mcp-aliyun-domain",
+  "source_url": "https://github.com/lzx3in/mcp-aliyun-domain",
+  "install": "# git clone --depth 1 https://github.com/lzx3in/mcp-aliyun-domain\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hanzi-browse",
+  "description": "MCP server providing browser automation for AI agents with context-aware playbooks and skills for complex websites.",
+  "source_repo": "hanzili/hanzi-browse",
+  "source_url": "https://github.com/hanzili/hanzi-browse",
+  "install": "# git clone --depth 1 https://github.com/hanzili/hanzi-browse\n# See source for mcpServers config block"
+}

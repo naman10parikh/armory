@@ -1,0 +1,7 @@
+{
+  "name": "kolmo-construction",
+  "description": "Provides cost estimation tools for home remodeling projects in Seattle, including service listings, project browsing, and blog content from Kolmo Construction.",
+  "source_repo": "kolmo-construction/kolmo-mcp-server",
+  "source_url": "https://github.com/kolmo-construction/kolmo-mcp-server",
+  "install": "npx -y kolmo-mcp-server"
+}

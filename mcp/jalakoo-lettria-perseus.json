@@ -1,0 +1,7 @@
+{
+  "name": "jalakoo-lettria-perseus",
+  "description": "Wraps Lettria's Perseus text-to-graph engine to ingest documents, run ontology-driven extraction, and build knowledge graphs exportable to Neo4j and FalkorDB.",
+  "source_repo": "jalakoo/lettria-perseus-mcp",
+  "source_url": "https://github.com/jalakoo/lettria-perseus-mcp",
+  "install": "npx -y lettria-perseus-mcp"
+}

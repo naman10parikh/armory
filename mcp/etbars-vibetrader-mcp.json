@@ -1,0 +1,7 @@
+{
+  "name": "etbars-vibetrader-mcp",
+  "description": "AI-powered trading bot platform. Create automated trading strategies with natural language via Alpaca brokerage.",
+  "source_repo": "etbars/vibetrader-mcp",
+  "source_url": "https://github.com/etbars/vibetrader-mcp",
+  "install": "npx -y vibetrader-mcp"
+}

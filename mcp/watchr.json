@@ -1,0 +1,7 @@
+{
+  "name": "watchr",
+  "description": "Official MCP server for Watchr competitive intelligence platform, providing read-only access to monitoring groups, brands, insights, and reports.",
+  "source_repo": "getwatchr/watchr-mcp",
+  "source_url": "https://github.com/getwatchr/watchr-mcp",
+  "install": "npx -y watchr-mcp"
+}

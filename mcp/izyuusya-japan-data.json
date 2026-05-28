@@ -1,0 +1,7 @@
+{
+  "name": "izyuusya-japan-data",
+  "description": "Access Japanese public data including e-Stat statistics, corporate numbers, and real estate information.",
+  "source_repo": "izyuusya/japan-data-mcp",
+  "source_url": "https://github.com/izyuusya/japan-data-mcp",
+  "install": "npx -y japan-data-mcp"
+}

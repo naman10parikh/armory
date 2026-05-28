@@ -1,0 +1,7 @@
+{
+  "name": "obaron-aeo",
+  "description": "AI readiness scan scoring any website 0–100 across crawlability, structured data, content quality, and AEO dimensions.",
+  "source_repo": "",
+  "source_url": "https://obaron.ai",
+  "install": "# git clone --depth 1 https://obaron.ai\n# See source for mcpServers config block"
+}

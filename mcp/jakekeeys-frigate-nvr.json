@@ -1,0 +1,7 @@
+{
+  "name": "jakekeeys-frigate-nvr",
+  "description": "Control Frigate NVR instances for event management, camera control, recordings, video exports, and object classification.",
+  "source_repo": "jakekeeys/frigate-mcp",
+  "source_url": "https://github.com/jakekeeys/frigate-mcp",
+  "install": "npx -y frigate-mcp"
+}

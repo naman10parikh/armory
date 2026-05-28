@@ -1,0 +1,7 @@
+{
+  "name": "tickerdb",
+  "description": "Pre-computed market data for AI agents that improves reasoning and reduces token usage.",
+  "source_repo": "tickerdb/tickerdb-mcp",
+  "source_url": "https://github.com/tickerdb/tickerdb-mcp",
+  "install": "npx -y tickerdb-mcp"
+}

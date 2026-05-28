@@ -1,0 +1,7 @@
+{
+  "name": "gofireflyio-firefly-mcp",
+  "description": "Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).",
+  "source_repo": "gofireflyio/firefly-mcp",
+  "source_url": "https://github.com/gofireflyio/firefly-mcp",
+  "install": "npx -y firefly-mcp"
+}

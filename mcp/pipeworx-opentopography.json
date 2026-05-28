@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-opentopography",
+  "description": "OpenTopography global digital elevation model rasters and point queries via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-opentopography",
+  "source_url": "https://github.com/pipeworx-io/mcp-opentopography",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-opentopography\n# See source for mcpServers config block"
+}

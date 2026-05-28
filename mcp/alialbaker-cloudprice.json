@@ -1,0 +1,7 @@
+{
+  "name": "alialbaker-cloudprice",
+  "description": "Compare cloud pricing across AWS, Azure, and GCP for infrastructure decisions.",
+  "source_repo": "albaker-group/cloudprice-mcp",
+  "source_url": "https://github.com/albaker-group/cloudprice-mcp",
+  "install": "npx -y cloudprice-mcp"
+}

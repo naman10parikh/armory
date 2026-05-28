@@ -1,0 +1,7 @@
+{
+  "name": "ratemyprofessors-mcp-server",
+  "description": "An unofficial MCP server for RateMyProfessors.com that enables fetching professor ratings, reviews, and comments. Integrates with MCP clients like Claude Desktop.",
+  "source_repo": "tohmze/ratemyprofessors-mcp",
+  "source_url": "https://github.com/tohmze/ratemyprofessors-mcp",
+  "install": "npx -y ratemyprofessors-mcp"
+}

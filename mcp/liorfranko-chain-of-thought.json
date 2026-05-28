@@ -1,0 +1,7 @@
+{
+  "name": "liorfranko-chain-of-thought",
+  "description": "Task management system that converts natural language into organized development tasks with dependency tracking, implementation guides, and verification criteria through structured reasoning phases.",
+  "source_repo": "liorfranko/mcp-chain-of-thought",
+  "source_url": "https://github.com/liorfranko/mcp-chain-of-thought",
+  "install": "# git clone --depth 1 https://github.com/liorfranko/mcp-chain-of-thought\n# See source for mcpServers config block"
+}

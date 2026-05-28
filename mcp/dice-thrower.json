@@ -1,0 +1,7 @@
+{
+  "name": "dice-thrower",
+  "description": "Simulates dice rolls with configurable number and sides for tabletop gaming and random number generation",
+  "source_repo": "atuinturtle/dice-thrower-mcp-server",
+  "source_url": "https://github.com/atuinturtle/dice-thrower-mcp-server",
+  "install": "npx -y dice-thrower-mcp-server"
+}

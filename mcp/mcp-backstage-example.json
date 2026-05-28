@@ -1,0 +1,7 @@
+{
+  "name": "mcp-backstage-example",
+  "description": "Mcp Backstage Example MCP server listed on mcp.so.",
+  "source_repo": "evanshortiss/mcp-backstage-example",
+  "source_url": "https://mcp.so/server/mcp-backstage-example/evanshortiss",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-backstage-example/evanshortiss\n# See source for mcpServers config block"
+}

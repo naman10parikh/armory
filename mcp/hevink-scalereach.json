@@ -1,0 +1,7 @@
+{
+  "name": "hevink-scalereach",
+  "description": "Provides outreach automation tools for managing email campaigns and lead engagement.",
+  "source_repo": "hevink/scalereach-mcp",
+  "source_url": "https://github.com/hevink/scalereach-mcp",
+  "install": "npx -y scalereach-mcp"
+}

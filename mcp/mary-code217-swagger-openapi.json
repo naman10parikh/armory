@@ -1,0 +1,7 @@
+{
+  "name": "mary-code217-swagger-openapi",
+  "description": "Parses Swagger/OpenAPI specifications to dynamically generate callable tools for REST API integration with support for multiple APIs and authentication methods.",
+  "source_repo": "mary-code217/swagger-mcp",
+  "source_url": "https://github.com/mary-code217/swagger-mcp",
+  "install": "npx -y swagger-mcp"
+}

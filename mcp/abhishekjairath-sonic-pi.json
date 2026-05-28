@@ -1,0 +1,7 @@
+{
+  "name": "abhishekjairath-sonic-pi",
+  "description": "Enables music creation and sound manipulation through Sonic Pi by sending OSC messages for playing notes with customizable synth parameters and executing arbitrary code.",
+  "source_repo": "abhishekjairath/sonic-pi-mcp",
+  "source_url": "https://github.com/abhishekjairath/sonic-pi-mcp",
+  "install": "npx -y sonic-pi-mcp"
+}

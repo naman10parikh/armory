@@ -1,0 +1,7 @@
+{
+  "name": "skills-mcp-skills",
+  "description": "Provides a registry system for organizing and accessing specialized expertise packages as reusable skills with automatic discovery, validation, and caching to enable modular AI assistance across different domains.",
+  "source_repo": "skills-mcp/skills-mcp",
+  "source_url": "https://github.com/skills-mcp/skills-mcp",
+  "install": "npx -y skills-mcp"
+}

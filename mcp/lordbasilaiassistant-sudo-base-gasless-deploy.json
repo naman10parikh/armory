@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-base-gasless-deploy",
+  "description": "Deploys ERC-20 tokens on Base with zero gas fees using CDP Paymaster.",
+  "source_repo": "lordbasilaiassistant-sudo/base-gasless-deploy-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-gasless-deploy-mcp",
+  "install": "npx -y base-gasless-deploy-mcp"
+}

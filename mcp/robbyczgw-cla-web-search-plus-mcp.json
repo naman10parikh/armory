@@ -1,0 +1,7 @@
+{
+  "name": "robbyczgw-cla-web-search-plus-mcp",
+  "description": "Multi-provider web search with intelligent auto-routing (Serper, Tavily, Exa). Available via `uvx web-search-plus-mcp`.",
+  "source_repo": "robbyczgw-cla/web-search-plus-mcp",
+  "source_url": "https://github.com/robbyczgw-cla/web-search-plus-mcp",
+  "install": "npx -y web-search-plus-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "yyue9527-redis",
+  "description": "Enables AI tools to interact with Redis databases through key-value operations, pattern-based key listing, and configurable expiration settings",
+  "source_repo": "yyue9527/redis-mcp-server",
+  "source_url": "https://github.com/yyue9527/redis-mcp-server",
+  "install": "npx -y redis-mcp-server"
+}

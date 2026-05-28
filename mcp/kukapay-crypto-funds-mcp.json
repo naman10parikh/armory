@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-funds-mcp",
+  "description": "Providing AI agents with structured, real-time data on cryptocurrency investment funds.",
+  "source_repo": "kukapay/crypto-funds-mcp",
+  "source_url": "https://github.com/kukapay/crypto-funds-mcp",
+  "install": "npx -y crypto-funds-mcp"
+}

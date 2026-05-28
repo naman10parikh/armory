@@ -1,0 +1,7 @@
+{
+  "name": "vuvuvu-streamersonglist",
+  "description": "Integrates with StreamerSongList APIs to manage streaming music queues, handle song requests, track play history, and retrieve overlay data for streaming platforms like Twitch.",
+  "source_repo": "vuvuvu/streamersonglist-mcp",
+  "source_url": "https://github.com/vuvuvu/streamersonglist-mcp",
+  "install": "npx -y streamersonglist-mcp"
+}

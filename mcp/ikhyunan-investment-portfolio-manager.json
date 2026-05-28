@@ -1,0 +1,7 @@
+{
+  "name": "ikhyunan-investment-portfolio-manager",
+  "description": "Reads in JSON-formatted Investment portfolio and performs web searches and stock price searches to provide meaningful evaluations and recommendations.",
+  "source_repo": "ikhyunan/mcp_investmentportfolio",
+  "source_url": "https://github.com/ikhyunan/mcp_investmentportfolio",
+  "install": "# git clone --depth 1 https://github.com/ikhyunan/mcp_investmentportfolio\n# See source for mcpServers config block"
+}

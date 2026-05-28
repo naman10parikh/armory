@@ -1,0 +1,7 @@
+{
+  "name": "epitome",
+  "description": "Shared persistent personal memory across all AI agents.",
+  "source_repo": "gunning4it/epitome",
+  "source_url": "https://github.com/gunning4it/epitome",
+  "install": "# git clone --depth 1 https://github.com/gunning4it/epitome\n# See source for mcpServers config block"
+}

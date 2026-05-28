@@ -1,0 +1,7 @@
+{
+  "name": "terhechte-rust-analyzer-tools",
+  "description": "Integrates with Rust Analyzer to provide type information, documentation, references, implementations, and Cargo commands for Rust development projects",
+  "source_repo": "terhechte/cursor-rust-tools",
+  "source_url": "https://github.com/terhechte/cursor-rust-tools",
+  "install": "# git clone --depth 1 https://github.com/terhechte/cursor-rust-tools\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "dental-market-intelligence",
+  "description": "NPI lookup, DSO chain data, and dental provider licensing for 41 states and DC via read-only MCP access.",
+  "source_repo": "",
+  "source_url": "https://mcp.providersignal.com",
+  "install": "# git clone --depth 1 https://mcp.providersignal.com\n# See source for mcpServers config block"
+}

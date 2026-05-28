@@ -1,0 +1,7 @@
+{
+  "name": "html-to-design-figma-import",
+  "description": "Generate designs with AI, or import them, and send them to Figma.",
+  "source_repo": "",
+  "source_url": "https://html.to.design",
+  "install": "# git clone --depth 1 https://html.to.design\n# See source for mcpServers config block"
+}

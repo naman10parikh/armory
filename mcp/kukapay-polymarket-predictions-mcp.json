@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-polymarket-predictions-mcp",
+  "description": "An MCP server that delivers real-time market odds from Polymarket.",
+  "source_repo": "kukapay/polymarket-predictions-mcp",
+  "source_url": "https://github.com/kukapay/polymarket-predictions-mcp",
+  "install": "npx -y polymarket-predictions-mcp"
+}

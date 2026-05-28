@@ -1,0 +1,7 @@
+{
+  "name": "artrix-nyantify",
+  "description": "Sends intelligent push notifications via Bark iOS app when AI coding tasks complete or require attention, detecting when developers are away from their IDE across macOS, Windows, and Linux.",
+  "source_repo": "artrixtech/mcp-server-nyantify",
+  "source_url": "https://github.com/artrixtech/mcp-server-nyantify",
+  "install": "# git clone --depth 1 https://github.com/artrixtech/mcp-server-nyantify\n# See source for mcpServers config block"
+}

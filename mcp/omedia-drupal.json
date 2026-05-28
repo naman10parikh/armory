@@ -1,0 +1,7 @@
+{
+  "name": "omedia-drupal",
+  "description": "Integrates with Drupal's API to enable content management, user administration, and site configuration for automated website operations and personalized content delivery.",
+  "source_repo": "omedia/mcp-server-drupal",
+  "source_url": "https://github.com/omedia/mcp-server-drupal",
+  "install": "# git clone --depth 1 https://github.com/omedia/mcp-server-drupal\n# See source for mcpServers config block"
+}

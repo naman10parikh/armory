@@ -1,0 +1,7 @@
+{
+  "name": "hfss-mcp-server",
+  "description": "An MCP server for automating ANSYS HFSS simulations, providing persistent connections and a suite of tools for modeling, simulation, and post-processing.",
+  "source_repo": "leonardwy/HFSS_McpServer",
+  "source_url": "https://github.com/leonardwy/HFSS_McpServer",
+  "install": "# git clone --depth 1 https://github.com/leonardwy/HFSS_McpServer\n# See source for mcpServers config block"
+}

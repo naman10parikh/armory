@@ -1,0 +1,7 @@
+{
+  "name": "neptime-mcp-server",
+  "description": "Integrates with the Neptime.io video platform, providing 39 tools for video management, uploads, channels, playlists, comments, articles, and more via the Model Context Protocol.",
+  "source_repo": "pasie15/neptime-mcp-server",
+  "source_url": "https://github.com/pasie15/neptime-mcp-server",
+  "install": "npx -y neptime-mcp-server"
+}

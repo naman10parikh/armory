@@ -1,0 +1,7 @@
+{
+  "name": "behrensd-mcp-firewall",
+  "description": "Deterministic security proxy (iptables for MCP) that intercepts tool calls, enforces YAML policies, scans for secret leakage, and logs everything. No AI, no cloud.",
+  "source_repo": "behrensd/mcp-firewall",
+  "source_url": "https://github.com/behrensd/mcp-firewall",
+  "install": "# git clone --depth 1 https://github.com/behrensd/mcp-firewall\n# See source for mcpServers config block"
+}

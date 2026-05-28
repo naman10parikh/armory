@@ -1,0 +1,7 @@
+{
+  "name": "youware-labs-figma-pilot",
+  "description": "Bridges Figma designs with natural language commands through a semantic CLI and HTTP polling architecture.",
+  "source_repo": "youware-labs/figma-pilot",
+  "source_url": "https://github.com/youware-labs/figma-pilot",
+  "install": "# git clone --depth 1 https://github.com/youware-labs/figma-pilot\n# See source for mcpServers config block"
+}

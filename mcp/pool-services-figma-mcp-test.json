@@ -1,0 +1,7 @@
+{
+  "name": "pool-services-figma-mcp-test",
+  "description": "Pool_services_figma_mcp_test MCP server listed on mcp.so.",
+  "source_repo": "EmundoT/pool_services_figma_mcp_test",
+  "source_url": "https://mcp.so/server/pool_services_figma_mcp_test/EmundoT",
+  "install": "# git clone --depth 1 https://mcp.so/server/pool_services_figma_mcp_test/EmundoT\n# See source for mcpServers config block"
+}

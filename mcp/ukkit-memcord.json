@@ -1,0 +1,7 @@
+{
+  "name": "ukkit-memcord",
+  "description": "A MCP server that keeps your chat history organized and searchable—with AI-powered summaries, secure memory, and full control.",
+  "source_repo": "ukkit/memcord",
+  "source_url": "https://github.com/ukkit/memcord",
+  "install": "# git clone --depth 1 https://github.com/ukkit/memcord\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nimblebraininc-folk",
+  "description": "Integrates with Folk CRM for contact and company management, note-taking, reminder scheduling, and interaction logging with optimized token usage.",
+  "source_repo": "nimblebraininc/mcp-folk",
+  "source_url": "https://github.com/nimblebraininc/mcp-folk",
+  "install": "# git clone --depth 1 https://github.com/nimblebraininc/mcp-folk\n# See source for mcpServers config block"
+}

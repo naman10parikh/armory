@@ -1,0 +1,7 @@
+{
+  "name": "okooo5km-time",
+  "description": "Provides accurate time-related capabilities for retrieving current time and converting between timezones using IANA identifiers, with detailed output including time differences and daylight saving information.",
+  "source_repo": "okooo5km/time-mcp-server",
+  "source_url": "https://github.com/okooo5km/time-mcp-server",
+  "install": "npx -y time-mcp-server"
+}

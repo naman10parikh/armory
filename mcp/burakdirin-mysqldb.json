@@ -1,0 +1,7 @@
+{
+  "name": "burakdirin-mysqldb",
+  "description": "Enables direct SQL query execution and database connections to MySQL databases through a simple interface that returns results in JSON format.",
+  "source_repo": "burakdirin/mysqldb-mcp-server",
+  "source_url": "https://github.com/burakdirin/mysqldb-mcp-server",
+  "install": "npx -y mysqldb-mcp-server"
+}

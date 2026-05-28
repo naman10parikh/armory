@@ -1,0 +1,7 @@
+{
+  "name": "benjamine-jsondiffpatch",
+  "description": "Compares and patches JSON objects with a compact delta format that captures additions, modifications, deletions, and array moves for efficient data synchronization and change visualization.",
+  "source_repo": "benjamine/jsondiffpatch",
+  "source_url": "https://github.com/benjamine/jsondiffpatch/tree/HEAD/packages/diff-mcp",
+  "install": "# git clone --depth 1 https://github.com/benjamine/jsondiffpatch/tree/HEAD/packages/diff-mcp\n# See source for mcpServers config block"
+}

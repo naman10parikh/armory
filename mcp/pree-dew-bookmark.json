@@ -1,0 +1,7 @@
+{
+  "name": "pree-dew-bookmark",
+  "description": "Bookmark management with AI-powered semantic search",
+  "source_repo": "pree-dew/mcp-bookmark",
+  "source_url": "https://github.com/pree-dew/mcp-bookmark",
+  "install": "# git clone --depth 1 https://github.com/pree-dew/mcp-bookmark\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "waldzellai-clear-thought",
+  "description": "Provides 38 structured reasoning operations across core thinking patterns, collaborative reasoning, and advanced patterns like tree-of-thought and MCTS with session-based state management for systematic problem-solving workflows and educational applications.",
+  "source_repo": "waldzellai/clearthought-onepointfive",
+  "source_url": "https://github.com/waldzellai/clearthought-onepointfive",
+  "install": "# git clone --depth 1 https://github.com/waldzellai/clearthought-onepointfive\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "olaxbt-solana-vault",
+  "description": "Enables secure Solana blockchain operations including balance checking, SOL transfers, transaction history retrieval, and token queries without exposing private keys to client applications",
+  "source_repo": "olaxbt/solana-vault-mcp",
+  "source_url": "https://github.com/olaxbt/solana-vault-mcp",
+  "install": "npx -y solana-vault-mcp"
+}

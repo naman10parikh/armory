@@ -1,0 +1,7 @@
+{
+  "name": "scottcjn-rustchain-bottube",
+  "description": "Interacts with RustChain's Proof-of-Antiquity blockchain and BoTTube video platform for mining, video content, and agent-to-agent communication.",
+  "source_repo": "scottcjn/rustchain-mcp",
+  "source_url": "https://github.com/scottcjn/rustchain-mcp",
+  "install": "npx -y rustchain-mcp"
+}

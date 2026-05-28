@@ -1,0 +1,7 @@
+{
+  "name": "potarix-enricher",
+  "description": "Find contact/websites for any company/person",
+  "source_repo": "Potarix/potarix-mcp",
+  "source_url": "https://github.com/Potarix/potarix-mcp",
+  "install": "npx -y potarix-mcp"
+}

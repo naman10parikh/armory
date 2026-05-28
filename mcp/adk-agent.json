@@ -1,0 +1,7 @@
+{
+  "name": "adk-agent",
+  "description": "Sample agent built with Google's Agent Developer Kit (ADK) that handles expense reports",
+  "source_repo": "google/A2A",
+  "source_url": "https://github.com/google/A2A/tree/main/samples/python/agents/google_adk",
+  "install": "# git clone --depth 1 https://github.com/google/A2A/tree/main/samples/python/agents/google_adk\n# See source for mcpServers config block"
+}

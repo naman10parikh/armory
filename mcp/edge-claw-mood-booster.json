@@ -1,0 +1,7 @@
+{
+  "name": "edge-claw-mood-booster",
+  "description": "Delivers uplifting messages with USDC tipping and on-chain reputation feedback via the ERC-8004 protocol.",
+  "source_repo": "edge-claw/mood-booster-agent",
+  "source_url": "https://github.com/edge-claw/mood-booster-agent",
+  "install": "# git clone --depth 1 https://github.com/edge-claw/mood-booster-agent\n# See source for mcpServers config block"
+}

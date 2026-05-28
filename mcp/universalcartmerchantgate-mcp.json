@@ -1,0 +1,7 @@
+{
+  "name": "universalcartmerchantgate-mcp",
+  "description": "Universal Cart merchant readiness gate with structured receipts, audit logs, and reviewer-ready evidence.",
+  "source_repo": "clauxel/universal-cart-merchant-gate-mcp",
+  "source_url": "https://github.com/clauxel/universal-cart-merchant-gate-mcp",
+  "install": "npx -y universal-cart-merchant-gate-mcp"
+}

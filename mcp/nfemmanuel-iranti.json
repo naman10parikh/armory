@@ -1,0 +1,7 @@
+{
+  "name": "nfemmanuel-iranti",
+  "description": "Persistent, shared memory for AI coding tools using entity-key-value triples stored in PostgreSQL.",
+  "source_repo": "nfemmanuel/iranti",
+  "source_url": "https://github.com/nfemmanuel/iranti",
+  "install": "# git clone --depth 1 https://github.com/nfemmanuel/iranti\n# See source for mcpServers config block"
+}

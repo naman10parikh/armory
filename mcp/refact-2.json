@@ -1,0 +1,7 @@
+{
+  "name": "refact-2",
+  "description": "Refact MCP server listed on mcp.so.",
+  "source_repo": "Refact.ai/refact",
+  "source_url": "https://mcp.so/server/refact/Refact.ai",
+  "install": "# git clone --depth 1 https://mcp.so/server/refact/Refact.ai\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "oerc-s-primordia",
+  "description": "AI agent economic settlement. Verify receipts, emit meters (FREE). Net settlements, credit lines, audit-grade balance sheets (PAID/402).",
+  "source_repo": "oerc-s/primordia",
+  "source_url": "https://github.com/oerc-s/primordia",
+  "install": "# git clone --depth 1 https://github.com/oerc-s/primordia\n# See source for mcpServers config block"
+}

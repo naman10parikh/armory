@@ -1,0 +1,7 @@
+{
+  "name": "tynan-daly-python-repl",
+  "description": "Provides a persistent Python execution environment for interactive code development, data analysis, and rapid prototyping.",
+  "source_repo": "hdresearch/mcp-python",
+  "source_url": "https://github.com/hdresearch/mcp-python",
+  "install": "# git clone --depth 1 https://github.com/hdresearch/mcp-python\n# See source for mcpServers config block"
+}

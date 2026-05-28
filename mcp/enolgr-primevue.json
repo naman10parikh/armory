@@ -1,0 +1,7 @@
+{
+  "name": "enolgr-primevue",
+  "description": "Extracts PrimeVue component API data including props, emits, slots, and design tokens through automated TypeScript parsing and web scraping to provide contextual guidance on Vue.js component usage and theming.",
+  "source_repo": "enolgr/primevue-mcp",
+  "source_url": "https://github.com/enolgr/primevue-mcp",
+  "install": "npx -y primevue-mcp"
+}

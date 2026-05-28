@@ -1,0 +1,7 @@
+{
+  "name": "isakskogstad-oecd",
+  "description": "Access 5,000+ OECD economic and statistical datasets",
+  "source_repo": "isakskogstad/oecd-mcp",
+  "source_url": "https://github.com/isakskogstad/oecd-mcp",
+  "install": "npx -y oecd-mcp"
+}

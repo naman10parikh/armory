@@ -1,0 +1,7 @@
+{
+  "name": "montumodi-mongodb-atlas-mcp-server",
+  "description": "A Model Context Protocol (MCP) that provides access to the MongoDB Atlas API. This server wraps the `mongodb-atlas-api-client` package to expose MongoDB Atlas functionality through MCP tools.",
+  "source_repo": "montumodi/mongodb-atlas-mcp-server",
+  "source_url": "https://github.com/montumodi/mongodb-atlas-mcp-server",
+  "install": "npx -y mongodb-atlas-mcp-server"
+}

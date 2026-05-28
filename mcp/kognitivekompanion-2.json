@@ -1,0 +1,7 @@
+{
+  "name": "kognitivekompanion-2",
+  "description": "KognitiveKompanion MCP server listed on mcp.so.",
+  "source_repo": "SkyBehind/KognitiveKompanion",
+  "source_url": "https://mcp.so/server/KognitiveKompanion/SkyBehind",
+  "install": "# git clone --depth 1 https://mcp.so/server/KognitiveKompanion/SkyBehind\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kimdonghwi94-web-analyzer-mcp",
+  "description": "Extracts clean web content for RAG and provides Q&A about web pages.",
+  "source_repo": "kimdonghwi94/web-analyzer-mcp",
+  "source_url": "https://github.com/kimdonghwi94/web-analyzer-mcp",
+  "install": "npx -y web-analyzer-mcp"
+}

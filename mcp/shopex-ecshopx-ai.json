@@ -1,0 +1,7 @@
+{
+  "name": "shopex-ecshopx-ai",
+  "description": "Connects AI assistants to ECShopX e-commerce backend and H5 capabilities with dual stdio/HTTP transport modes.",
+  "source_repo": "shopex/ecshopx_ai-mcp-cli",
+  "source_url": "https://github.com/shopex/ecshopx_ai-mcp-cli",
+  "install": "# git clone --depth 1 https://github.com/shopex/ecshopx_ai-mcp-cli\n# See source for mcpServers config block"
+}

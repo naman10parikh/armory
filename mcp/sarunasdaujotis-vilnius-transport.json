@@ -1,0 +1,7 @@
+{
+  "name": "sarunasdaujotis-vilnius-transport",
+  "description": "Integrates with Vilnius public transport data sources to provide real-time transit information, enabling accurate responses about local transportation.",
+  "source_repo": "sarunasdaujotis/vilnius-transport-mcp-server",
+  "source_url": "https://github.com/sarunasdaujotis/vilnius-transport-mcp-server",
+  "install": "npx -y vilnius-transport-mcp-server"
+}

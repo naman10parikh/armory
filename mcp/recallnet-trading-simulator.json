@@ -1,0 +1,7 @@
+{
+  "name": "recallnet-trading-simulator",
+  "description": "Enables AI models to interact with a multi-chain trading simulator API for executing trades, checking balances, retrieving token prices, and monitoring portfolio performance across Solana and Ethereum blockchains.",
+  "source_repo": "recallnet/trading-simulator-mcp",
+  "source_url": "https://github.com/recallnet/trading-simulator-mcp",
+  "install": "npx -y trading-simulator-mcp"
+}

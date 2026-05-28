@@ -1,0 +1,7 @@
+{
+  "name": "gbrigandi-conceal",
+  "description": "Proxy server that intercepts communications to automatically detect and replace personally identifiable information with consistent fake data using configurable regex patterns and optional LLM-based detection, maintaining semantic meaning while ensuring privacy compliance.",
+  "source_repo": "gbrigandi/mcp-server-conceal",
+  "source_url": "https://github.com/gbrigandi/mcp-server-conceal",
+  "install": "# git clone --depth 1 https://github.com/gbrigandi/mcp-server-conceal\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "martingeidobler-android-device-control",
+  "description": "Control Android emulators and devices via ADB with screenshot capture and UI automation.",
+  "source_repo": "martingeidobler/android-mcp-server",
+  "source_url": "https://github.com/martingeidobler/android-mcp-server",
+  "install": "npx -y android-mcp-server"
+}

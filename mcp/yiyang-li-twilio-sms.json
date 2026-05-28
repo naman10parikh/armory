@@ -1,0 +1,7 @@
+{
+  "name": "yiyang-li-twilio-sms",
+  "description": "Enables Claude and other assistants to send SMS and MMS messages through Twilio's API with phone number validation and specialized prompts for greetings and haikus.",
+  "source_repo": "yiyangli/sms-mcp-server",
+  "source_url": "https://github.com/yiyangli/sms-mcp-server",
+  "install": "npx -y sms-mcp-server"
+}

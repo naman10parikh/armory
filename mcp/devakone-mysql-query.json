@@ -1,0 +1,7 @@
+{
+  "name": "devakone-mysql-query",
+  "description": "Provides a secure, read-only bridge to MySQL databases, enabling natural language querying across multiple environments with strict validation and comprehensive error handling.",
+  "source_repo": "devakone/mysql-query-mcp-server",
+  "source_url": "https://github.com/devakone/mysql-query-mcp-server",
+  "install": "npx -y mysql-query-mcp-server"
+}

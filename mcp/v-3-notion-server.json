@@ -1,0 +1,7 @@
+{
+  "name": "v-3-notion-server",
+  "description": "Interact with Notion workspaces by searching, reading, creating, and updating pages.",
+  "source_repo": "v-3/notion-server",
+  "source_url": "https://github.com/v-3/notion-server",
+  "install": "# git clone --depth 1 https://github.com/v-3/notion-server\n# See source for mcpServers config block"
+}

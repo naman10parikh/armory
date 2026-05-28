@@ -1,0 +1,7 @@
+{
+  "name": "youtube-transcript",
+  "description": "Extracts and retrieves transcripts from YouTube videos using a simple tool that accepts video URLs or IDs with optional language specification.",
+  "source_repo": "williamvd4/mcp-server-youtube-transcript",
+  "source_url": "https://github.com/williamvd4/mcp-server-youtube-transcript",
+  "install": "# git clone --depth 1 https://github.com/williamvd4/mcp-server-youtube-transcript\n# See source for mcpServers config block"
+}

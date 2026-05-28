@@ -1,0 +1,7 @@
+{
+  "name": "context-hub-generator",
+  "description": "PHP-based tool for generating structured documentation from files, repositories, diffs, and URLs through a modular architecture with powerful configuration options for AI-assisted development workflows",
+  "source_repo": "context-hub/generator",
+  "source_url": "https://github.com/context-hub/generator",
+  "install": "# git clone --depth 1 https://github.com/context-hub/generator\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "google-analytics",
+  "description": "Integrates with Google Analytics to retrieve website traffic metrics, user behavior data, conversion tracking, and performance insights for analytics reporting workflows and data analysis tasks.",
+  "source_repo": "googleanalytics/google-analytics-mcp",
+  "source_url": "https://github.com/googleanalytics/google-analytics-mcp",
+  "install": "npx -y google-analytics-mcp"
+}

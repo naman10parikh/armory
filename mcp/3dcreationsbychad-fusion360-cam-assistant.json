@@ -1,0 +1,7 @@
+{
+  "name": "3dcreationsbychad-fusion360-cam-assistant",
+  "description": "Analyzes Fusion 360 part geometry to suggest optimal machining strategies, toolpath operations, and stock setup with intelligent feature detection, preference learning, and feeds/speeds calculations.",
+  "source_repo": "3dcreationsbychad/fusion360-cam-assistant",
+  "source_url": "https://github.com/3dcreationsbychad/fusion360-cam-assistant",
+  "install": "# git clone --depth 1 https://github.com/3dcreationsbychad/fusion360-cam-assistant\n# See source for mcpServers config block"
+}

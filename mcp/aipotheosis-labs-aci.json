@@ -1,0 +1,7 @@
+{
+  "name": "aipotheosis-labs-aci",
+  "description": "Connects your AI agents to 600+ tool integrations with multi-tenant auth and granular permissions.",
+  "source_repo": "aipotheosis-labs/aci",
+  "source_url": "https://github.com/aipotheosis-labs/aci",
+  "install": "# git clone --depth 1 https://github.com/aipotheosis-labs/aci\n# See source for mcpServers config block"
+}

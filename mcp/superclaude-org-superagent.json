@@ -1,0 +1,7 @@
+{
+  "name": "superclaude-org-superagent",
+  "description": "Orchestrates Codex and Gemini CLI agents with parallel execution across multiple working directories, enabling delegation of complex tasks to 16 specialized programming personas including backend architects, security engineers, and Python experts for simultaneous multi-project development workflows.",
+  "source_repo": "superclaude-org/superagent-mcp",
+  "source_url": "https://github.com/superclaude-org/superagent-mcp",
+  "install": "npx -y superagent-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "kadinsayani-lxd",
+  "description": "Manages LXD containers and virtual machines with complete lifecycle operations including creation, deletion, start/stop/restart, freezing, configuration updates, image management, and command execution.",
+  "source_repo": "kadinsayani/lxd-mcp",
+  "source_url": "https://github.com/kadinsayani/lxd-mcp",
+  "install": "npx -y lxd-mcp"
+}

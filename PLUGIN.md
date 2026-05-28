@@ -137,15 +137,15 @@ And the `armory` skill (in `armory-skill/SKILL.md`) teaches the agent *when* to 
 
 ---
 
-## Armory vs ECC
+## Armory vs community skill packs
 
-| | ECC | Armory |
+| | Community skill packs | Armory |
 |---|---|---|
-| Component source | hand-curated 246 skills | aggregator of 24k+ from 7 sources |
+| Component source | hand-curated sets | aggregator of 24k+ from 7 sources |
 | MCP bundled | no | yes — `armory-mcp` (search + install live) |
-| Skills | 246 | 900 vendored + catalog growing |
-| Commands | 76 | 500 vendored |
-| Sub-agents | 61 | 804 vendored |
+| Skills | hundreds | 900 vendored + catalog growing |
+| Commands | dozens | 500 vendored |
+| Sub-agents | dozens | 804 vendored |
 | Self-updating | manual | `armory update` pulls latest catalog |
 | Key differentiator | battle-tested patterns | dynamic registry access at agent runtime |
 

@@ -1,0 +1,7 @@
+{
+  "name": "python-common-library",
+  "description": "Python implementation of A2A client and server components",
+  "source_repo": "google/A2A",
+  "source_url": "https://github.com/google/A2A/tree/main/samples/python/common",
+  "install": "# git clone --depth 1 https://github.com/google/A2A/tree/main/samples/python/common\n# See source for mcpServers config block"
+}

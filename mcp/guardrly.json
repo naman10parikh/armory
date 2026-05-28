@@ -1,0 +1,7 @@
+{
+  "name": "guardrly",
+  "description": "Non-invasive monitoring and audit layer that intercepts and logs AI agent tool calls.",
+  "source_repo": "fishcoco-code/guardrly-mcp",
+  "source_url": "https://github.com/fishcoco-code/guardrly-mcp",
+  "install": "npx -y guardrly-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "rf-tools",
+  "description": "MCP server for rftools.io — 213 RF & electronics calculators + 13 server-side simulation tools for AI agents. Give Claude, Cursor, or any MCP-compatible AI assistant access to validated engineering calculators and heavy server-side simulations. Microstrip impedance, link budgets, filter design, conv",
+  "source_repo": "antonpogrebenko-public/rftools-mcp",
+  "source_url": "https://github.com/antonpogrebenko-public/rftools-mcp",
+  "install": "npx -y rftools-mcp"
+}

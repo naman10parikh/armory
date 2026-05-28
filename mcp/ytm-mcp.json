@@ -1,0 +1,7 @@
+{
+  "name": "ytm-mcp",
+  "description": "A full-featured YouTube Music MCP server that lets AI assistants control playback, browse history, download songs, and manage playlists via natural language.",
+  "source_repo": "4shil/ytm-mcp",
+  "source_url": "https://github.com/4shil/ytm-mcp",
+  "install": "npx -y ytm-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "effytech-freshdesk",
+  "description": "Integrate AI models with Freshdesk to automate support operations. Create, update, and manage support tickets seamlessly through the Freshdesk API. Enhance your customer support experience with automated ticket management and AI-driven interactions.",
+  "source_repo": "effytech/freshdesk_mcp",
+  "source_url": "https://github.com/effytech/freshdesk_mcp",
+  "install": "npx -y freshdesk_mcp"
+}

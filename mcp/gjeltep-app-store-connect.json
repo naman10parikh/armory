@@ -1,0 +1,7 @@
+{
+  "name": "gjeltep-app-store-connect",
+  "description": "Interact with Apple's App Store Connect API",
+  "source_repo": "gjeltep/app-store-connect-mcp",
+  "source_url": "https://github.com/gjeltep/app-store-connect-mcp",
+  "install": "npx -y app-store-connect-mcp"
+}

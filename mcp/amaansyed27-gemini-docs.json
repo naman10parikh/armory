@@ -1,0 +1,7 @@
+{
+  "name": "amaansyed27-gemini-docs",
+  "description": "Access and search Gemini API documentation directly from MCP-compatible AI assistants.",
+  "source_repo": "amaansyed27/mcp-gemini-docs",
+  "source_url": "https://github.com/amaansyed27/mcp-gemini-docs",
+  "install": "# git clone --depth 1 https://github.com/amaansyed27/mcp-gemini-docs\n# See source for mcpServers config block"
+}

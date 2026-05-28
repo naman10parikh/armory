@@ -1,0 +1,7 @@
+{
+  "name": "guardrails-mcp-server",
+  "description": "MCP server for AI agent security guardrails. Provides input validation, prompt injection detection, PII redaction, output filtering, policy enforcement, rate limiting, and comprehensive audit logging.",
+  "source_repo": "ExpertVagabond/guardrails-mcp-server",
+  "source_url": "https://github.com/ExpertVagabond/guardrails-mcp-server",
+  "install": "npx -y guardrails-mcp-server"
+}

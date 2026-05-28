@@ -1,0 +1,7 @@
+{
+  "name": "chenningling-apple-reminders",
+  "description": "Integrates with Apple's Reminders app to create, read, and manage tasks with specified parameters like titles, notes, due dates, and priority levels",
+  "source_repo": "chenningling/mcp-applereminders",
+  "source_url": "https://github.com/chenningling/mcp-applereminders",
+  "install": "# git clone --depth 1 https://github.com/chenningling/mcp-applereminders\n# See source for mcpServers config block"
+}

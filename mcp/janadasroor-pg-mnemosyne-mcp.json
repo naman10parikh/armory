@@ -1,0 +1,7 @@
+{
+  "name": "janadasroor-pg-mnemosyne-mcp",
+  "description": "A PostgreSQL Model Context Protocol (MCP) server acting as a robust persistent super memory, task tracker, and multi-agent coordination hub for AI assistants.",
+  "source_repo": "Janadasroor/pg-mnemosyne-mcp",
+  "source_url": "https://github.com/Janadasroor/pg-mnemosyne-mcp",
+  "install": "npx -y pg-mnemosyne-mcp"
+}

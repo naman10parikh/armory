@@ -1,0 +1,7 @@
+{
+  "name": "eunsang284-epics",
+  "description": "Provides direct access to EPICS Process Variables for monitoring and controlling scientific facilities, industrial automation, and laboratory equipment through get, set, and metadata retrieval operations with comprehensive error handling for network timeouts and connection issues.",
+  "source_repo": "eunsang284/epics-mcp-server",
+  "source_url": "https://github.com/eunsang284/epics-mcp-server",
+  "install": "npx -y epics-mcp-server"
+}

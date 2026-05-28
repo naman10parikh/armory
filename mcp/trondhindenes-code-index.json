@@ -1,0 +1,7 @@
+{
+  "name": "trondhindenes-code-index",
+  "description": "Fast local code search using Zoekt's trigram-based indexing",
+  "source_repo": "trondhindenes/code-index-mcp",
+  "source_url": "https://github.com/trondhindenes/code-index-mcp",
+  "install": "npx -y code-index-mcp"
+}

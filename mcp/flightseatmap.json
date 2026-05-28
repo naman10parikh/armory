@@ -1,0 +1,7 @@
+{
+  "name": "flightseatmap",
+  "description": "Looks up airline seat maps, identifies best seats, and manages seat alerts for thousands of aircraft types.",
+  "source_repo": "jackculpan/flightseatmaps",
+  "source_url": "https://github.com/jackculpan/flightseatmaps/tree/HEAD/cloudflare-workers/flightseatmap-mcp",
+  "install": "# git clone --depth 1 https://github.com/jackculpan/flightseatmaps/tree/HEAD/cloudflare-workers/flightseatmap-mcp\n# See source for mcpServers config block"
+}

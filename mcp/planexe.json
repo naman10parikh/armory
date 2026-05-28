@@ -1,0 +1,7 @@
+{
+  "name": "planexe",
+  "description": "Generate rough-draft project plans from natural-language prompts.",
+  "source_repo": "planexeorg/planexe",
+  "source_url": "https://github.com/planexeorg/planexe",
+  "install": "# git clone --depth 1 https://github.com/planexeorg/planexe\n# See source for mcpServers config block"
+}

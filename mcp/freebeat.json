@@ -1,0 +1,7 @@
+{
+  "name": "freebeat",
+  "description": "AI music video generation from songs, lyrics, or prompts.",
+  "source_repo": "",
+  "source_url": "https://freebeat.ai",
+  "install": "# git clone --depth 1 https://freebeat.ai\n# See source for mcpServers config block"
+}

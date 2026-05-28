@@ -1,0 +1,7 @@
+{
+  "name": "renewly",
+  "description": "Reads contracts, tracks renewals, surfaces vendor leverage, and drafts cancellation and renewal emails.",
+  "source_repo": "renewly-dev/renewly",
+  "source_url": "https://github.com/renewly-dev/renewly",
+  "install": "# git clone --depth 1 https://github.com/renewly-dev/renewly\n# See source for mcpServers config block"
+}

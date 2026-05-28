@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-kaspi",
+  "description": "Integrates with Kaspi.kz Marketplace API for order management and product catalog access.",
+  "source_repo": "theyahia/kaspi-mcp",
+  "source_url": "https://github.com/theyahia/kaspi-mcp",
+  "install": "npx -y kaspi-mcp"
+}

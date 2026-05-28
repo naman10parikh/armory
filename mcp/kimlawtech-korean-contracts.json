@@ -1,0 +1,7 @@
+{
+  "name": "kimlawtech-korean-contracts",
+  "description": "Privacy-preserving Korean contract generation and review tool that masks PII before processing with Claude, then restores original values locally.",
+  "source_repo": "kimlawtech/korean-contracts",
+  "source_url": "https://github.com/kimlawtech/korean-contracts",
+  "install": "# git clone --depth 1 https://github.com/kimlawtech/korean-contracts\n# See source for mcpServers config block"
+}

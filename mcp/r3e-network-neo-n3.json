@@ -1,0 +1,7 @@
+{
+  "name": "r3e-network-neo-n3",
+  "description": "Integrates with the Neo N3 blockchain to enable wallet management, asset transfers, and smart contract interactions without requiring direct infrastructure management.",
+  "source_repo": "r3e-network/neo-n3-mcp",
+  "source_url": "https://github.com/r3e-network/neo-n3-mcp",
+  "install": "npx -y neo-n3-mcp"
+}

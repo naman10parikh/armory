@@ -1,0 +1,7 @@
+{
+  "name": "kegg-mcp-server-2",
+  "description": "Enables natural language querying and analysis of KEGG biological databases, including pathways, genes, compounds, reactions, diseases, and drugs.",
+  "source_repo": "Augmented-Nature/KEGG-MCP-Server",
+  "source_url": "https://github.com/Augmented-Nature/KEGG-MCP-Server",
+  "install": "npx -y KEGG-MCP-Server"
+}

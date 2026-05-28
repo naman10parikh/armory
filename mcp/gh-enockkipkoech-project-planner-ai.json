@@ -1,0 +1,7 @@
+{
+  "name": "gh-enockkipkoech-project-planner-ai",
+  "description": "Manage projects and tasks through natural language using tools for creating, updating, and tracking work items.",
+  "source_repo": "enockkipkoech/project-planner-ai-mcp",
+  "source_url": "https://github.com/enockkipkoech/project-planner-ai-mcp",
+  "install": "npx -y project-planner-ai-mcp"
+}

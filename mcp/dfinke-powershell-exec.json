@@ -1,0 +1,7 @@
+{
+  "name": "dfinke-powershell-exec",
+  "description": "Enables real-time execution of PowerShell scripts through a lightweight Python server, bridging AI tools with PowerShell functionality for data analysis, Windows task automation, and module interaction.",
+  "source_repo": "dfinke/mcp-powershell-exec",
+  "source_url": "https://github.com/dfinke/mcp-powershell-exec",
+  "install": "# git clone --depth 1 https://github.com/dfinke/mcp-powershell-exec\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hubinoretros-deep-thinker",
+  "description": "Advanced cognitive reasoning MCP server with DAG-based thought graph, 5 reasoning strategies (sequential, dialectic, parallel, analogical, abductive), metacognitive engine with stuck detection, multi-factor confidence scoring, self-critique, knowledge integration, and thought pruning. `npx deep-thinker`",
+  "source_repo": "hubinoretros/deep-thinker",
+  "source_url": "https://github.com/hubinoretros/deep-thinker",
+  "install": "# git clone --depth 1 https://github.com/hubinoretros/deep-thinker\n# See source for mcpServers config block"
+}

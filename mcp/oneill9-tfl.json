@@ -1,0 +1,7 @@
+{
+  "name": "oneill9-tfl",
+  "description": "Real-time London transport data via the TfL Unified API.",
+  "source_repo": "oneill9/tfl-mcp-server",
+  "source_url": "https://github.com/oneill9/tfl-mcp-server",
+  "install": "npx -y tfl-mcp-server"
+}

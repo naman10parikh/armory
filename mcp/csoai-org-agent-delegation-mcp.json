@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-agent-delegation-mcp",
+  "description": "Tools for enabling agent delegation workflows in multi-agent architectures.",
+  "source_repo": "csoai-org/agent-delegation-mcp",
+  "source_url": "https://github.com/csoai-org/agent-delegation-mcp",
+  "install": "npx -y agent-delegation-mcp"
+}

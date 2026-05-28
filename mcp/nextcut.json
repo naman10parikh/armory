@@ -1,0 +1,7 @@
+{
+  "name": "nextcut",
+  "description": "Automate video creation and editing workflows by rendering scenes, templates, and slideshows programmatically. Edit media quickly with features for stitching clips, removing silence, trimming segments, and adding burned-in captions. Monitor production pipelines through job tracking and detailed meta",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/NextCut/nextcut",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/NextCut/nextcut\n# See source for mcpServers config block"
+}

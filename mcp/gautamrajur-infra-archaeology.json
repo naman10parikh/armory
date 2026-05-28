@@ -1,0 +1,7 @@
+{
+  "name": "gautamrajur-infra-archaeology",
+  "description": "Tracks AWS resource ownership and creation history by searching CloudTrail logs to identify who created EC2 instances, RDS databases, and S3 buckets with timestamps, creation methods, and source IP addresses.",
+  "source_repo": "gautamrajur/infra-archaeology-mcp",
+  "source_url": "https://github.com/gautamrajur/infra-archaeology-mcp",
+  "install": "npx -y infra-archaeology-mcp"
+}

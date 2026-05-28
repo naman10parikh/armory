@@ -1,0 +1,7 @@
+{
+  "name": "gh-heizaheiza-charles-proxy",
+  "description": "Integrates Charles Proxy with MCP clients for real-time network traffic inspection, structured analysis, and historical recording review.",
+  "source_repo": "heizaheiza/charles-mcp",
+  "source_url": "https://github.com/heizaheiza/charles-mcp",
+  "install": "npx -y charles-mcp"
+}

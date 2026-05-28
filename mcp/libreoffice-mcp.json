@@ -1,0 +1,7 @@
+{
+  "name": "libreoffice-mcp",
+  "description": "Enables interaction with LibreOffice documents (Writer, Calc, Impress, Draw) via MCP, supporting document management, data analysis, and database operations using the OooDev library.",
+  "source_repo": "WaterPistolAI/libreoffice-mcp",
+  "source_url": "https://github.com/WaterPistolAI/libreoffice-mcp",
+  "install": "npx -y libreoffice-mcp"
+}

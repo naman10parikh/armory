@@ -1,0 +1,7 @@
+{
+  "name": "taichi-ho-k8s-interactive",
+  "description": "Integrates with Kubernetes to enable natural language-based cluster management and command execution for streamlined DevOps workflows.",
+  "source_repo": "taichiho/k8s-interactive-mcp",
+  "source_url": "https://github.com/taichiho/k8s-interactive-mcp",
+  "install": "npx -y k8s-interactive-mcp"
+}

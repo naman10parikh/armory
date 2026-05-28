@@ -1,0 +1,7 @@
+{
+  "name": "mhlabs-tools",
+  "description": "Text preprocessing and NLP components including tokenization, entity recognition, and text normalization",
+  "source_repo": "musaddiquehussainlabs/mhlabs_mcp_tools",
+  "source_url": "https://github.com/musaddiquehussainlabs/mhlabs_mcp_tools",
+  "install": "# git clone --depth 1 https://github.com/musaddiquehussainlabs/mhlabs_mcp_tools\n# See source for mcpServers config block"
+}

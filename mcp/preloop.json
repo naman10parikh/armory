@@ -1,0 +1,7 @@
+{
+  "name": "preloop",
+  "description": "Event-driven automation platform that provides issue tracking and project management tools for GitHub, GitLab, and Jira integrations with human-in-the-loop approval workflows for sensitive operations.",
+  "source_repo": "preloop/preloop",
+  "source_url": "https://github.com/preloop/preloop",
+  "install": "# git clone --depth 1 https://github.com/preloop/preloop\n# See source for mcpServers config block"
+}

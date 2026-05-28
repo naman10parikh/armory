@@ -1,0 +1,7 @@
+{
+  "name": "mysql-mcp-server",
+  "description": "Enables safe querying and optional writing to MySQL databases via MCP tools, with support for schema inspection, connection management, and read-only mode.",
+  "source_repo": "yclenove/mysql-mcp-server",
+  "source_url": "https://github.com/yclenove/mysql-mcp-server",
+  "install": "npx -y mysql-mcp-server"
+}

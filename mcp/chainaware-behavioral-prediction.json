@@ -1,0 +1,7 @@
+{
+  "name": "chainaware-behavioral-prediction",
+  "description": "Provides AI-powered tools to analyze wallet behavior prediction, fraud detection and rug pull prediction.",
+  "source_repo": "chainaware/behavioral-prediction-mcp",
+  "source_url": "https://github.com/chainaware/behavioral-prediction-mcp",
+  "install": "npx -y behavioral-prediction-mcp"
+}

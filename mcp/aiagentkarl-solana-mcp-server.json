@@ -1,0 +1,7 @@
+{
+  "name": "aiagentkarl-solana-mcp-server",
+  "description": "Solana blockchain data for AI agents — wallet balances, token prices, DeFi yields (Raydium + Orca), and token safety checks (RugCheck scores, holder concentration, insider detection).",
+  "source_repo": "AiAgentKarl/solana-mcp-server",
+  "source_url": "https://github.com/AiAgentKarl/solana-mcp-server",
+  "install": "npx -y solana-mcp-server"
+}

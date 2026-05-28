@@ -1,0 +1,7 @@
+{
+  "name": "t3ta-memory-bank",
+  "description": "Provides a structured document management system with tagging capabilities for organizing and retrieving information across global and branch-specific memory banks.",
+  "source_repo": "t3ta/memory-bank-mcp-server",
+  "source_url": "https://github.com/t3ta/memory-bank-mcp-server",
+  "install": "npx -y memory-bank-mcp-server"
+}

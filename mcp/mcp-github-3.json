@@ -1,0 +1,7 @@
+{
+  "name": "mcp-github-3",
+  "description": "Mcp Github MCP server listed on mcp.so.",
+  "source_repo": "renantrendt/mcp-github",
+  "source_url": "https://mcp.so/server/mcp-github/renantrendt",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-github/renantrendt\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-jmagar-overseerr",
+  "description": "Manage media requests and discover content through your Overseerr instance.",
+  "source_repo": "jmagar/overseerr-mcp",
+  "source_url": "https://github.com/jmagar/overseerr-mcp",
+  "install": "npx -y overseerr-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "taw-computer",
+  "description": "An MCP server that provides AI agents with a full Ubuntu desktop environment inside Docker, enabling them to perform complex computer tasks like browsing, coding, testing, and GUI automation.",
+  "source_repo": "the-agents-work/taw-computer",
+  "source_url": "https://github.com/the-agents-work/taw-computer",
+  "install": "# git clone --depth 1 https://github.com/the-agents-work/taw-computer\n# See source for mcpServers config block"
+}

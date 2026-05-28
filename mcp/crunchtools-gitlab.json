@@ -1,0 +1,7 @@
+{
+  "name": "crunchtools-gitlab",
+  "description": "Manages GitLab projects, merge requests, issues, pipelines, and search with multi-instance support.",
+  "source_repo": "crunchtools/mcp-gitlab",
+  "source_url": "https://github.com/crunchtools/mcp-gitlab",
+  "install": "# git clone --depth 1 https://github.com/crunchtools/mcp-gitlab\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "benmonopoli-greenhouse-ats",
+  "description": "Manage recruiting pipelines, candidates, and jobs via the Greenhouse ATS API.",
+  "source_repo": "benmonopoli/open-greenhouse-mcp",
+  "source_url": "https://github.com/benmonopoli/open-greenhouse-mcp",
+  "install": "npx -y open-greenhouse-mcp"
+}

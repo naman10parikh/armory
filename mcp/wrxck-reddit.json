@@ -1,0 +1,7 @@
+{
+  "name": "wrxck-reddit",
+  "description": "Java-based Reddit integration with OAuth authentication for browsing subreddits, searching posts, reading threads, submitting content, voting, and saving with built-in rate limiting and prompt injection defenses.",
+  "source_repo": "wrxck/reddit-mcp",
+  "source_url": "https://github.com/wrxck/reddit-mcp",
+  "install": "npx -y reddit-mcp"
+}

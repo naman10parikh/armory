@@ -1,0 +1,7 @@
+{
+  "name": "moldy93-smard-x402",
+  "description": "Paywalled SMARD day-ahead electricity prices for Germany-Luxembourg with 15-minute resolution via x402.",
+  "source_repo": "moldy93/smard-x402-mcp",
+  "source_url": "https://github.com/moldy93/smard-x402-mcp",
+  "install": "npx -y smard-x402-mcp"
+}

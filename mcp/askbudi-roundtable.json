@@ -1,0 +1,7 @@
+{
+  "name": "askbudi-roundtable",
+  "description": "Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access to the entire AI coding ecosystem.",
+  "source_repo": "askbudi/roundtable",
+  "source_url": "https://github.com/askbudi/roundtable",
+  "install": "# git clone --depth 1 https://github.com/askbudi/roundtable\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "uraoz-bouyomi-chan",
+  "description": "Integrates with Bouyomi-chan Japanese TTS software to convert text into spoken audio with configurable voice parameters for speech synthesis and accessibility applications.",
+  "source_repo": "uraoz/bouyomichan-mcp-nodejs",
+  "source_url": "https://github.com/uraoz/bouyomichan-mcp-nodejs",
+  "install": "# git clone --depth 1 https://github.com/uraoz/bouyomichan-mcp-nodejs\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "alhwyn-canlii",
+  "description": "Integrates with CanLII's Canadian legal database to provide search and retrieval capabilities for court decisions, legislation, case metadata, and legal citations with support for date filtering and bilingual content.",
+  "source_repo": "alhwyn/canlii-mcp",
+  "source_url": "https://github.com/alhwyn/canlii-mcp",
+  "install": "npx -y canlii-mcp"
+}

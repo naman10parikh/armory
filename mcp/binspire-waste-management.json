@@ -1,0 +1,7 @@
+{
+  "name": "binspire-waste-management",
+  "description": "Connects to PostgreSQL-based waste management systems to enable tracking of trashbin collections, audit management, issue monitoring, and operational history across organizations.",
+  "source_repo": "binspireai/mcp",
+  "source_url": "https://github.com/binspireai/mcp",
+  "install": "# git clone --depth 1 https://github.com/binspireai/mcp\n# See source for mcpServers config block"
+}

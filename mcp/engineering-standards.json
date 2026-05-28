@@ -1,0 +1,7 @@
+{
+  "name": "engineering-standards",
+  "description": "Enforces team engineering standards across Git, code review, Rails, frontend, deployment, incidents, observability, API design, database, ADRs, and technical debt, with tools for branch name and commit message validation.",
+  "source_repo": "rajgurung/claude-engineering-standards",
+  "source_url": "https://github.com/rajgurung/claude-engineering-standards",
+  "install": "# git clone --depth 1 https://github.com/rajgurung/claude-engineering-standards\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-mysql",
+  "description": "Mcp Mysql MCP server listed on mcp.so.",
+  "source_repo": "RyosukeTanaka/mcp-mysql",
+  "source_url": "https://mcp.so/server/mcp-mysql/RyosukeTanaka",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-mysql/RyosukeTanaka\n# See source for mcpServers config block"
+}

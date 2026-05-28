@@ -1,0 +1,7 @@
+{
+  "name": "ingeniousidiocy-consumer-complaints",
+  "description": "Provides access to the Consumer Financial Protection Bureau's complaint database for searching and retrieving banking and financial service complaints by company, product type, and result size.",
+  "source_repo": "ingeniousidiocy/consumer-complaint-database-mcp",
+  "source_url": "https://github.com/ingeniousidiocy/consumer-complaint-database-mcp",
+  "install": "npx -y consumer-complaint-database-mcp"
+}

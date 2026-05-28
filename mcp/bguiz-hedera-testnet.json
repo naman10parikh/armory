@@ -1,0 +1,7 @@
+{
+  "name": "bguiz-hedera-testnet",
+  "description": "Provides a bridge to the Hedera Testnet Mirror Node API, dynamically converting Zodios API endpoints into tools for querying blockchain data using Server-Sent Events and robust Zod-based validation.",
+  "source_repo": "hedera-dev/mirrornode-mcp-server",
+  "source_url": "https://github.com/hedera-dev/mirrornode-mcp-server",
+  "install": "npx -y mirrornode-mcp-server"
+}

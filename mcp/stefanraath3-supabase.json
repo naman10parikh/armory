@@ -1,0 +1,7 @@
+{
+  "name": "stefanraath3-supabase",
+  "description": "Integrates with Supabase PostgreSQL databases, exposing table schemas as resources and providing tools for data analysis, including read-only SQL queries, table statistics, and relationship discovery.",
+  "source_repo": "stefanraath3/mcp-supabase",
+  "source_url": "https://github.com/stefanraath3/mcp-supabase",
+  "install": "# git clone --depth 1 https://github.com/stefanraath3/mcp-supabase\n# See source for mcpServers config block"
+}

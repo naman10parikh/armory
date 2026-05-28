@@ -1,0 +1,7 @@
+{
+  "name": "ejfox-spotify",
+  "description": "Integrates with Spotify to enable music search, playback control, and playlist management for Premium users through specialized tools that work with any active Spotify device.",
+  "source_repo": "ejfox/vulpes-spotify-mcp",
+  "source_url": "https://github.com/ejfox/vulpes-spotify-mcp",
+  "install": "npx -y vulpes-spotify-mcp"
+}

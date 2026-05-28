@@ -1,0 +1,7 @@
+{
+  "name": "evidai-tokenized-stock",
+  "description": "Buy and sell Dinari dShares (tokenized US stocks) with USDC and a daily spending cap guard.",
+  "source_repo": "evidai/agent-payment-mcp",
+  "source_url": "https://github.com/evidai/agent-payment-mcp/tree/HEAD/tokenized-stock-mcp",
+  "install": "npx -y agent-payment-mcp"
+}

@@ -12,7 +12,7 @@ stars: null
 eval_score: null
 verified_at: 2026-05-26
 related: [common-agents, common-code-review]
-tags: [ecc, rules, common]
+tags: [rules, common]
 ---
 ## What it is
 Language-agnostic rule: apply when working on any codebase and you need Performance Optimization.

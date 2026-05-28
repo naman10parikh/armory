@@ -1,0 +1,7 @@
+{
+  "name": "getcmd-spm-dependencies",
+  "description": "Provides access to Swift Package Manager dependencies in Xcode and SPM projects with tools to search dependency source code, browse files, and list packages with their versions and locations.",
+  "source_repo": "getcmd-dev/spm-dependencies-mcp",
+  "source_url": "https://github.com/getcmd-dev/spm-dependencies-mcp",
+  "install": "npx -y spm-dependencies-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ahnlabio-bicscan",
+  "description": "Provides a bridge to the BICScan API for assessing blockchain risk and analyzing digital assets through risk scoring and detailed holdings information",
+  "source_repo": "ahnlabio/bicscan-mcp",
+  "source_url": "https://github.com/ahnlabio/bicscan-mcp",
+  "install": "npx -y bicscan-mcp"
+}

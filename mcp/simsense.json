@@ -1,0 +1,7 @@
+{
+  "name": "simsense",
+  "description": "Deploy live widgets (sims) to any screen with a browser.",
+  "source_repo": "",
+  "source_url": "https://simsense.ai",
+  "install": "# git clone --depth 1 https://simsense.ai\n# See source for mcpServers config block"
+}

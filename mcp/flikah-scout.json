@@ -1,0 +1,7 @@
+{
+  "name": "flikah-scout",
+  "description": "Real estate agent finder, MLS listings, and lead routing for South Carolina and Georgia brokerages via the Scout platform.",
+  "source_repo": "flikah/scout-mcp",
+  "source_url": "https://github.com/flikah/scout-mcp",
+  "install": "npx -y scout-mcp"
+}

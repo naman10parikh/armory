@@ -1,0 +1,7 @@
+{
+  "name": "rails-mcp-server",
+  "description": "Rails Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "maquina-app/rails-mcp-server",
+  "source_url": "https://mcp.so/server/rails-mcp-server/maquina-app",
+  "install": "npx -y rails-mcp-server"
+}

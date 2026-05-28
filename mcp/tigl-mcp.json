@@ -1,0 +1,7 @@
+{
+  "name": "tigl-mcp",
+  "description": "Provides MCP tools for CPACS-oriented TiGL workflows, enabling lifecycle management, inspection, export, and parameter manipulation of aircraft geometry models without native geometry runtimes.",
+  "source_repo": "cmudrc/tigl-mcp",
+  "source_url": "https://github.com/cmudrc/tigl-mcp",
+  "install": "npx -y tigl-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vulners",
+  "description": "Vulnerability database with CVE search, software auditing, and security bulletin retrieval",
+  "source_repo": "vulnerscom/vulners-mcp",
+  "source_url": "https://github.com/vulnerscom/vulners-mcp",
+  "install": "npx -y vulners-mcp"
+}

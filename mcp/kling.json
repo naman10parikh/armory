@@ -1,0 +1,7 @@
+{
+  "name": "kling",
+  "description": "Integrates with Kling AI's video and image generation APIs to create high-quality videos from text prompts, convert images to videos, apply special effects, generate lip-sync videos, and perform virtual try-on operations with advanced camera controls and professional quality modes.",
+  "source_repo": "199-mcp/mcp-kling",
+  "source_url": "https://github.com/199-mcp/mcp-kling",
+  "install": "# git clone --depth 1 https://github.com/199-mcp/mcp-kling\n# See source for mcpServers config block"
+}

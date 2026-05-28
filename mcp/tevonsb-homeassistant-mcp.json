@@ -1,0 +1,7 @@
+{
+  "name": "tevonsb-homeassistant-mcp",
+  "description": "Connect to the Home Assistant platform, enabling smart home control.",
+  "source_repo": "tevonsb/homeassistant-mcp",
+  "source_url": "https://github.com/tevonsb/homeassistant-mcp",
+  "install": "npx -y homeassistant-mcp"
+}

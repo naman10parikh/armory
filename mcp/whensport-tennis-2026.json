@@ -1,0 +1,7 @@
+{
+  "name": "whensport-tennis-2026",
+  "description": "Access the 2026 tennis Grand Slam tournament calendar with venue info, ATP/WTA player rosters, and upcoming tournament queries via 6 tools.",
+  "source_repo": "",
+  "source_url": "https://whensport.com/mcp/tennis",
+  "install": "# git clone --depth 1 https://whensport.com/mcp/tennis\n# See source for mcpServers config block"
+}

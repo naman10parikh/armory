@@ -1,0 +1,7 @@
+{
+  "name": "gabrielcerutti-etoro",
+  "description": "Connect to your eToro account for portfolio analysis, market research, and trading via AI agents.",
+  "source_repo": "gabrielcerutti/etoro-mcp-server",
+  "source_url": "https://github.com/gabrielcerutti/etoro-mcp-server",
+  "install": "npx -y etoro-mcp-server"
+}

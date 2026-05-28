@@ -1,0 +1,7 @@
+{
+  "name": "goswamig-fetch",
+  "description": "Enables web content retrieval in multiple formats including HTML, JSON, plain text, and Markdown through four specialized fetch tools for seamless content extraction and transformation.",
+  "source_repo": "goswamig/fetch-mcp",
+  "source_url": "https://github.com/goswamig/fetch-mcp",
+  "install": "npx -y fetch-mcp"
+}

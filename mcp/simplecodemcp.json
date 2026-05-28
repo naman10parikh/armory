@@ -1,0 +1,7 @@
+{
+  "name": "simplecodemcp",
+  "description": "Indexes internal code libraries and exposes them via MCP for AI agents to provide context-aware assistance on company-internal libraries.",
+  "source_repo": "egoetmann/SimpleCodeMCP",
+  "source_url": "https://github.com/egoetmann/SimpleCodeMCP",
+  "install": "# git clone --depth 1 https://github.com/egoetmann/SimpleCodeMCP\n# See source for mcpServers config block"
+}

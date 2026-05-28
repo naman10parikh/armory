@@ -1,0 +1,7 @@
+{
+  "name": "mukundakatta-streamparse",
+  "description": "Parses partial, truncated, and messy JSON strings that standard parsers reject.",
+  "source_repo": "mukundakatta/streamparse-mcp",
+  "source_url": "https://github.com/mukundakatta/streamparse-mcp",
+  "install": "npx -y streamparse-mcp"
+}

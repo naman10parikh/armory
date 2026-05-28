@@ -1,0 +1,7 @@
+{
+  "name": "8monkey-ai-elysia",
+  "description": "Turn existing Elysia framework routes into MCP tools automatically, with no schema duplication or handler rewrites.",
+  "source_repo": "8monkey-ai/elysia-mcp",
+  "source_url": "https://github.com/8monkey-ai/elysia-mcp",
+  "install": "npx -y elysia-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "timers-studio",
+  "description": "gemini-extension.json n'est pas un mécanisme d'auto-discovery. Les Gemini Extensions sont publiées via Google AI Studio / Extensions Gallery, pas via crawl du .well-known/. Ton fichier est invisible pour Gemini. 3. ChatGPT ai-plugin.json correspond à la spec OpenAI Plugins, dépréciée en 2024. Rempla",
+  "source_repo": "",
+  "source_url": "https://timers.studio",
+  "install": "# git clone --depth 1 https://timers.studio\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "eric-tramel-slop-guard",
+  "description": "Rule-based prose linter that scores text 0-100 for formulaic AI writing patterns using compiled regex rules, with no LLM or API calls required.",
+  "source_repo": "eric-tramel/slop-guard",
+  "source_url": "https://github.com/eric-tramel/slop-guard",
+  "install": "# git clone --depth 1 https://github.com/eric-tramel/slop-guard\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-gautamk1512-tradingview-morning-brief",
+  "description": "Connects to TradingView Desktop via Chrome DevTools Protocol for automated watchlist scanning and trading bias analysis.",
+  "source_repo": "gautamk1512/tradingview-mcp",
+  "source_url": "https://github.com/gautamk1512/tradingview-mcp",
+  "install": "npx -y tradingview-mcp"
+}

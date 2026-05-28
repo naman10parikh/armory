@@ -1,0 +1,7 @@
+{
+  "name": "ekas-io-open-sales-stack",
+  "description": "Collection of B2B sales intelligence MCP servers. Includes website analysis, tech stack detection, hiring signals, review aggregation, ad tracking, social profiles, financial reporting and more for AI-powered prospecting by [Ekas](https://ekas.io/)",
+  "source_repo": "ekas-io/open-sales-stack",
+  "source_url": "https://github.com/ekas-io/open-sales-stack",
+  "install": "# git clone --depth 1 https://github.com/ekas-io/open-sales-stack\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "baranwang-trends-hub",
+  "description": "Provides real-time access to trending topics and content from major Chinese platforms including Weibo, Zhihu, Douyin, Bilibili, Douban, Toutiao, and 36kr through separate tools with temporary caching for improved performance.",
+  "source_repo": "baranwang/mcp-trends-hub",
+  "source_url": "https://github.com/baranwang/mcp-trends-hub",
+  "install": "# git clone --depth 1 https://github.com/baranwang/mcp-trends-hub\n# See source for mcpServers config block"
+}

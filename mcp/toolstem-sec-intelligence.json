@@ -1,0 +1,7 @@
+{
+  "name": "toolstem-sec-intelligence",
+  "description": "Delivers pre-computed financial intelligence from SEC EDGAR filings including insider signals, institutional activity, and material events digests.",
+  "source_repo": "toolstem/toolstem-sec-mcp-server",
+  "source_url": "https://github.com/toolstem/toolstem-sec-mcp-server",
+  "install": "npx -y toolstem-sec-mcp-server"
+}

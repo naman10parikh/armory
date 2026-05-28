@@ -1,0 +1,7 @@
+{
+  "name": "jlucaso1-whatsapp",
+  "description": "Connects AI to WhatsApp accounts using TypeScript and Baileys, enabling message history retrieval, contact search, and secure communication through local SQLite storage and QR code authentication.",
+  "source_repo": "jlucaso1/whatsapp-mcp-ts",
+  "source_url": "https://github.com/jlucaso1/whatsapp-mcp-ts",
+  "install": "# git clone --depth 1 https://github.com/jlucaso1/whatsapp-mcp-ts\n# See source for mcpServers config block"
+}

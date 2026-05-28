@@ -1,0 +1,7 @@
+{
+  "name": "jmeyer1980-neurodivergent-memory",
+  "description": "Persistent knowledge graph with BM25 search, emotional valence metadata, and local-only storage.",
+  "source_repo": "jmeyer1980/neurodivergent-memory",
+  "source_url": "https://github.com/jmeyer1980/neurodivergent-memory",
+  "install": "# git clone --depth 1 https://github.com/jmeyer1980/neurodivergent-memory\n# See source for mcpServers config block"
+}

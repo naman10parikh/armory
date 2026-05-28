@@ -1,0 +1,7 @@
+{
+  "name": "robertoamoreno-couchdb",
+  "description": "Integrates with CouchDB to enable database management, document operations, and Mango queries for applications requiring document-based storage and retrieval.",
+  "source_repo": "robertoamoreno/couchdb-mcp-server",
+  "source_url": "https://github.com/robertoamoreno/couchdb-mcp-server",
+  "install": "npx -y couchdb-mcp-server"
+}

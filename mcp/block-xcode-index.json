@@ -1,0 +1,7 @@
+{
+  "name": "block-xcode-index",
+  "description": "Provides direct access to Xcode's project index store through Apple's IndexStoreDB, enabling precise code navigation and refactoring operations on iOS/macOS projects with tools for loading project indexes, finding symbol occurrences, retrieving symbol references, and pattern-based symbol searching.",
+  "source_repo": "block/xcode-index-mcp",
+  "source_url": "https://github.com/block/xcode-index-mcp",
+  "install": "npx -y xcode-index-mcp"
+}

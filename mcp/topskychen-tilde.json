@@ -1,0 +1,7 @@
+{
+  "name": "topskychen-tilde",
+  "description": "Privacy-first universal memory and profile layer for AI agents.",
+  "source_repo": "topskychen/tilde",
+  "source_url": "https://github.com/topskychen/tilde",
+  "install": "# git clone --depth 1 https://github.com/topskychen/tilde\n# See source for mcpServers config block"
+}

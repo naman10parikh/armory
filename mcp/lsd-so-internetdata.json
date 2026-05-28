@@ -1,0 +1,7 @@
+{
+  "name": "lsd-so-internetdata",
+  "description": "Provides web data extraction and manipulation capabilities through the LSD programming language, enabling structured data retrieval from websites, web searches, and community-created extraction patterns without complex scraping code.",
+  "source_repo": "lsd-so/internetdata-mcp",
+  "source_url": "https://github.com/lsd-so/internetdata-mcp",
+  "install": "npx -y internetdata-mcp"
+}

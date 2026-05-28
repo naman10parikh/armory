@@ -1,0 +1,7 @@
+{
+  "name": "kupad95-uk-parliament",
+  "description": "Queries live UK Parliament data including bills, votes, MP profiles, interests, and petitions.",
+  "source_repo": "kupad95/uk-parliament-mcp-server",
+  "source_url": "https://github.com/kupad95/uk-parliament-mcp-server",
+  "install": "npx -y uk-parliament-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "epistates-safari",
+  "description": "Native Safari browser automation on macOS with 24 tools via Swift and Manifest V3 extension.",
+  "source_repo": "epistates/mcpsafari",
+  "source_url": "https://github.com/epistates/mcpsafari",
+  "install": "# git clone --depth 1 https://github.com/epistates/mcpsafari\n# See source for mcpServers config block"
+}

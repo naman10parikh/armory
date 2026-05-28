@@ -1,0 +1,7 @@
+{
+  "name": "vishvick-dealhub-admin",
+  "description": "Manages DealHub CPQ versions through natural language commands for administrators.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/vishvick-dealhub-admin",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/vishvick-dealhub-admin\n# See source for mcpServers config block"
+}

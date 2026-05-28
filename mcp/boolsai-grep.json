@@ -1,0 +1,7 @@
+{
+  "name": "boolsai-grep",
+  "description": "Parallel regex search across all historical Boolsai site scans to discover vendor patterns and niche signals.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/boolsai-grep",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/boolsai-grep\n# See source for mcpServers config block"
+}

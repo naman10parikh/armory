@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-open-notify",
+  "description": "Real-time ISS position and astronaut count via the Open Notify API through Pipeworx's managed gateway.",
+  "source_repo": "pipeworx-io/mcp-open-notify",
+  "source_url": "https://github.com/pipeworx-io/mcp-open-notify",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-open-notify\n# See source for mcpServers config block"
+}

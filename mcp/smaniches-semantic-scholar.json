@@ -1,0 +1,7 @@
+{
+  "name": "smaniches-semantic-scholar",
+  "description": "Integrates with Semantic Scholar's database of 200+ million academic papers to enable searching with filters, retrieving detailed paper information including citations, and finding authors for literature reviews and research discovery.",
+  "source_repo": "smaniches/semantic-scholar-mcp",
+  "source_url": "https://github.com/smaniches/semantic-scholar-mcp",
+  "install": "npx -y semantic-scholar-mcp"
+}

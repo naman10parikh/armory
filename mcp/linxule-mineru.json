@@ -1,0 +1,7 @@
+{
+  "name": "linxule-mineru",
+  "description": "Document parsing API for PDFs, images, DOCX, PPTX with OCR.",
+  "source_repo": "linxule/mineru-mcp",
+  "source_url": "https://github.com/linxule/mineru-mcp",
+  "install": "npx -y mineru-mcp"
+}

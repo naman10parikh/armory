@@ -1,0 +1,7 @@
+{
+  "name": "semantic-search-mcp-server",
+  "description": "Enables semantic search over documentation stored in a Vectorize database using the Cloudflare Agents SDK, allowing users to query indexed content via natural language.",
+  "source_repo": "mhart/mcp-semantic-search",
+  "source_url": "https://github.com/mhart/mcp-semantic-search",
+  "install": "# git clone --depth 1 https://github.com/mhart/mcp-semantic-search\n# See source for mcpServers config block"
+}

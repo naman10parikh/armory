@@ -1,0 +1,7 @@
+{
+  "name": "yifancong-rsdoctor",
+  "description": "Build analysis and optimization recommendations for Rspack projects",
+  "source_repo": "web-infra-dev/rsdoctor",
+  "source_url": "https://github.com/web-infra-dev/rsdoctor",
+  "install": "# git clone --depth 1 https://github.com/web-infra-dev/rsdoctor\n# See source for mcpServers config block"
+}

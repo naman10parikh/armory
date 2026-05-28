@@ -1,0 +1,7 @@
+{
+  "name": "lnbits-lnbits-mcp-server",
+  "description": "Am MCP server for LNbits Lightning Network wallet integration.",
+  "source_repo": "lnbits/LNbits-MCP-Server",
+  "source_url": "https://github.com/lnbits/LNbits-MCP-Server",
+  "install": "npx -y LNbits-MCP-Server"
+}

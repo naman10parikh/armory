@@ -1,0 +1,7 @@
+{
+  "name": "olyport-cdc-mmwr",
+  "description": "Morbidity and Mortality Weekly Reports and disease surveillance data from the CDC.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/cdc-mmwr/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/cdc-mmwr/mcp\n# See source for mcpServers config block"
+}

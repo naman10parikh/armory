@@ -1,0 +1,7 @@
+{
+  "name": "zk-utils",
+  "description": "MCP server for zk note management enabling note search, creation, and link analysis via the zk command-line tool.",
+  "source_repo": "koei-kaji/zk-utils",
+  "source_url": "https://github.com/koei-kaji/zk-utils",
+  "install": "# git clone --depth 1 https://github.com/koei-kaji/zk-utils\n# See source for mcpServers config block"
+}

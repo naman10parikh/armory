@@ -1,0 +1,7 @@
+{
+  "name": "payne-weibo",
+  "description": "Bridges to China's Weibo social media platform, enabling user search, profile retrieval, and post extraction through the mobile API with pagination support for monitoring trends and researching content.",
+  "source_repo": "qinyuanpei/mcp-server-weibo",
+  "source_url": "https://github.com/qinyuanpei/mcp-server-weibo",
+  "install": "# git clone --depth 1 https://github.com/qinyuanpei/mcp-server-weibo\n# See source for mcpServers config block"
+}

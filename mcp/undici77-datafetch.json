@@ -1,0 +1,7 @@
+{
+  "name": "undici77-datafetch",
+  "description": "Provides secure web content fetching with sandboxed access to webpages, link extraction, file downloads, metadata retrieval, and URL status checking without JavaScript execution.",
+  "source_repo": "undici77/mcpdatafetchserver",
+  "source_url": "https://github.com/undici77/mcpdatafetchserver",
+  "install": "# git clone --depth 1 https://github.com/undici77/mcpdatafetchserver\n# See source for mcpServers config block"
+}

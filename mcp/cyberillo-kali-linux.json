@@ -1,0 +1,7 @@
+{
+  "name": "cyberillo-kali-linux",
+  "description": "Exposes 21 Kali Linux offensive security tools including Nmap, SQLMap, Metasploit, and password crackers via Docker.",
+  "source_repo": "cyberillo/kali-mcp-server",
+  "source_url": "https://github.com/cyberillo/kali-mcp-server",
+  "install": "npx -y kali-mcp-server"
+}

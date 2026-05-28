@@ -1,0 +1,7 @@
+{
+  "name": "parlay",
+  "description": "Aggregates prediction market data from Polymarket, Kalshi, Limitless, and Manifold.",
+  "source_repo": "parlay-run/parlay-mcp",
+  "source_url": "https://github.com/parlay-run/parlay-mcp",
+  "install": "npx -y parlay-mcp"
+}

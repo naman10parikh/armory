@@ -1,0 +1,7 @@
+{
+  "name": "k1xme-schwab",
+  "description": "Charles Schwab brokerage integration with 18 tools for quotes, orders, accounts, and market data.",
+  "source_repo": "k1xme/schwab-mcp",
+  "source_url": "https://github.com/k1xme/schwab-mcp",
+  "install": "npx -y schwab-mcp"
+}

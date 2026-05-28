@@ -1,0 +1,7 @@
+{
+  "name": "opendatamcp",
+  "description": "Connects open data to LLMs via MCP, enabling easy access to public datasets and publishing new datasets with community help.",
+  "source_repo": "fastmcp-me/opendatamcp",
+  "source_url": "https://github.com/fastmcp-me/opendatamcp",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/opendatamcp\n# See source for mcpServers config block"
+}

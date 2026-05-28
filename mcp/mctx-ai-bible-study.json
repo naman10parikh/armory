@@ -1,0 +1,7 @@
+{
+  "name": "mctx-ai-bible-study",
+  "description": "Scholarly Bible study with semantic search across 155K verse embeddings, Strong's concordance, and cross-references.",
+  "source_repo": "mctx-ai/bible-study",
+  "source_url": "https://github.com/mctx-ai/bible-study",
+  "install": "# git clone --depth 1 https://github.com/mctx-ai/bible-study\n# See source for mcpServers config block"
+}

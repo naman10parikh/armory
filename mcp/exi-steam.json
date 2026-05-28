@@ -1,0 +1,7 @@
+{
+  "name": "exi-steam",
+  "description": "Integrates with the Steam Web API to access user data, game information, and Steam-related functionalities for analyzing gaming habits, providing recommendations, or incorporating Steam profiles into applications.",
+  "source_repo": "exi/mcp-steam",
+  "source_url": "https://github.com/exi/mcp-steam",
+  "install": "# git clone --depth 1 https://github.com/exi/mcp-steam\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "localdocs-mcp",
+  "description": "Creates a local database of indexed technical documentation from web crawls and local files, enabling AI agents to efficiently search and retrieve documentation through MCP tools.",
+  "source_repo": "dylan-gluck/localdocs-mcp",
+  "source_url": "https://github.com/dylan-gluck/localdocs-mcp",
+  "install": "npx -y localdocs-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "intruder-io-intruder-mcp",
+  "description": "MCP server to access [Intruder](https://www.intruder.io/), helping you identify, understand, and fix security vulnerabilities in your infrastructure.",
+  "source_repo": "intruder-io/intruder-mcp",
+  "source_url": "https://github.com/intruder-io/intruder-mcp",
+  "install": "npx -y intruder-mcp"
+}

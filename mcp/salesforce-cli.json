@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-cli",
+  "description": "Integrates with Salesforce development tools to provide org management, metadata deployment, SOQL queries, code analysis, and development lifecycle automation through modular provider architecture.",
+  "source_repo": "salesforcecli/mcp",
+  "source_url": "https://github.com/salesforcecli/mcp",
+  "install": "# git clone --depth 1 https://github.com/salesforcecli/mcp\n# See source for mcpServers config block"
+}

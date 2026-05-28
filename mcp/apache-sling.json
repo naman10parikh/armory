@@ -1,0 +1,7 @@
+{
+  "name": "apache-sling",
+  "description": "Bridges Apache Sling web framework with development capabilities including servlet generation, OSGi component management, and system diagnostics.",
+  "source_repo": "apache/sling-org-apache-sling-mcp-server",
+  "source_url": "https://github.com/apache/sling-org-apache-sling-mcp-server",
+  "install": "npx -y sling-org-apache-sling-mcp-server"
+}

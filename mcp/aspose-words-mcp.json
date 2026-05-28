@@ -1,0 +1,7 @@
+{
+  "name": "aspose-words-mcp",
+  "description": "Aspose.Words MCP is a FastMCP-based MCP server built on top of Aspose.Words for Python via .NET. It automates Microsoft Word document creation and editing and exposes operations as MCP tools that any MCP-compatible client can call.",
+  "source_repo": "aspose-words/Aspose.Words-MCP",
+  "source_url": "https://github.com/aspose-words/Aspose.Words-MCP",
+  "install": "npx -y Aspose.Words-MCP"
+}

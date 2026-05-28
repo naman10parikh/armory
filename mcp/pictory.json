@@ -1,0 +1,7 @@
+{
+  "name": "pictory",
+  "description": "Integrates with Pictory's video creation platform to automatically generate professional videos from text content, blog posts, articles, and scripts with automated scene selection, voiceover generation, background music, and visual elements.",
+  "source_repo": "",
+  "source_url": "https://pictory.ai/blog/pictory-mcp-server-api",
+  "install": "# git clone --depth 1 https://pictory.ai/blog/pictory-mcp-server-api\n# See source for mcpServers config block"
+}

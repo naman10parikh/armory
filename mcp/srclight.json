@@ -1,0 +1,7 @@
+{
+  "name": "srclight",
+  "description": "Deep code indexing for AI agents using SQLite FTS5, tree-sitter parsing, and embeddings.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/srclight",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/srclight\n# See source for mcpServers config block"
+}

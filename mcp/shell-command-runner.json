@@ -1,0 +1,7 @@
+{
+  "name": "shell-command-runner",
+  "description": "Enables AI systems to execute shell commands and scripts securely with proper output handling for system automation, file manipulation, and command-line tool integration.",
+  "source_repo": "hdcola/mcp-server-cli",
+  "source_url": "https://github.com/hdcola/mcp-server-cli",
+  "install": "# git clone --depth 1 https://github.com/hdcola/mcp-server-cli\n# See source for mcpServers config block"
+}

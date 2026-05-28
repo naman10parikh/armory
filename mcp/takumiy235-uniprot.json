@@ -1,0 +1,7 @@
+{
+  "name": "takumiy235-uniprot",
+  "description": "Integrates with UniProt API to provide cached protein information for bioinformatics applications and protein research.",
+  "source_repo": "takumiy235/uniprot-mcp-server",
+  "source_url": "https://github.com/takumiy235/uniprot-mcp-server",
+  "install": "npx -y uniprot-mcp-server"
+}

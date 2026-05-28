@@ -1,0 +1,7 @@
+{
+  "name": "codecov-mcp-server",
+  "description": "MCP server for Codecov that provides tools to get commit coverage totals and prompts to suggest tests to write.",
+  "source_repo": "stedwick/codecov-mcp",
+  "source_url": "https://github.com/stedwick/codecov-mcp",
+  "install": "npx -y codecov-mcp"
+}

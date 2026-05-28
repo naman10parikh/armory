@@ -1,0 +1,7 @@
+{
+  "name": "tianfn-niutrans-translation",
+  "description": "Integrates with Niutrans API to provide professional-grade machine translation between multiple languages for multilingual content creation and cross-language communication tasks.",
+  "source_repo": "tianfn/mcp-translation-text",
+  "source_url": "https://github.com/tianfn/mcp-translation-text",
+  "install": "# git clone --depth 1 https://github.com/tianfn/mcp-translation-text\n# See source for mcpServers config block"
+}

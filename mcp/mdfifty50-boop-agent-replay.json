@@ -1,0 +1,7 @@
+{
+  "name": "mdfifty50-boop-agent-replay",
+  "description": "Record and replay AI agent execution traces for debugging and analysis.",
+  "source_repo": "mdfifty50-boop/agent-replay-mcp",
+  "source_url": "https://github.com/mdfifty50-boop/agent-replay-mcp",
+  "install": "npx -y agent-replay-mcp"
+}

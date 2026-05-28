@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-genderize",
+  "description": "Predict the gender of a person based on their first name using the Genderize.io API.",
+  "source_repo": "pipeworx-io/mcp-genderize",
+  "source_url": "https://github.com/pipeworx-io/mcp-genderize",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-genderize\n# See source for mcpServers config block"
+}

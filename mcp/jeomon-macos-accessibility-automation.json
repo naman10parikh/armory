@@ -1,0 +1,7 @@
+{
+  "name": "jeomon-macos-accessibility-automation",
+  "description": "Automates macOS desktop interactions using the Accessibility API for UI control and task execution.",
+  "source_repo": "cursortouch/macos-mcp",
+  "source_url": "https://github.com/cursortouch/macos-mcp",
+  "install": "npx -y macos-mcp"
+}

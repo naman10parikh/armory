@@ -1,0 +1,7 @@
+{
+  "name": "taylorsatula-phone-a-friend",
+  "description": "Enables real-time communication between Claude instances through a centralized hub server for collaborative problem-solving.",
+  "source_repo": "taylorsatula/phone-a-friend-mcp",
+  "source_url": "https://github.com/taylorsatula/phone-a-friend-mcp",
+  "install": "npx -y phone-a-friend-mcp"
+}

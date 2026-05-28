@@ -1,0 +1,7 @@
+{
+  "name": "rare-protocol-mcp-server",
+  "description": "Deploys NFT contracts, mints tokens, and manages auctions on SuperRare via 14 tools.",
+  "source_repo": "deconstruct2021/rare-protocol-mcp-server",
+  "source_url": "https://github.com/deconstruct2021/rare-protocol-mcp-server",
+  "install": "npx -y rare-protocol-mcp-server"
+}

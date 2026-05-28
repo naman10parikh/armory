@@ -1,0 +1,7 @@
+{
+  "name": "justin3go-com",
+  "description": "A fully-featured modern blog based on VitePress",
+  "source_repo": "Justin3go/justin3go.com",
+  "source_url": "https://github.com/Justin3go/justin3go.com",
+  "install": "# git clone --depth 1 https://github.com/Justin3go/justin3go.com\n# See source for mcpServers config block"
+}

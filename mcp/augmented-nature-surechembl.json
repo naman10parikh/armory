@@ -1,0 +1,7 @@
+{
+  "name": "augmented-nature-surechembl",
+  "description": "Integrates with SureChEMBL's chemical patent database to enable patent searches, chemical compound discovery, structure analysis, and data export for pharmaceutical research and intellectual property analysis.",
+  "source_repo": "augmented-nature/surechembl-mcp-server",
+  "source_url": "https://github.com/augmented-nature/surechembl-mcp-server",
+  "install": "npx -y surechembl-mcp-server"
+}

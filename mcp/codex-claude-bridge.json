@@ -1,0 +1,7 @@
+{
+  "name": "codex-claude-bridge",
+  "description": "MCP server that enables Claude Code to send code and plans for review by OpenAI Codex, returning structured feedback inline.",
+  "source_repo": "AmirShayegh/codex-claude-bridge",
+  "source_url": "https://github.com/AmirShayegh/codex-claude-bridge",
+  "install": "# git clone --depth 1 https://github.com/AmirShayegh/codex-claude-bridge\n# See source for mcpServers config block"
+}

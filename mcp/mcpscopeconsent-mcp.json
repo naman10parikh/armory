@@ -1,0 +1,7 @@
+{
+  "name": "mcpscopeconsent-mcp",
+  "description": "MCP tool consent scope receipt management with structured audit logs and reviewer-ready evidence.",
+  "source_repo": "clauxel/mcp-scope-consent-mcp",
+  "source_url": "https://github.com/clauxel/mcp-scope-consent-mcp",
+  "install": "npx -y mcp-scope-consent-mcp"
+}

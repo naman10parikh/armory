@@ -1,0 +1,7 @@
+{
+  "name": "stripfeed-mcp-server",
+  "description": "Convert any URL to clean, token-efficient Markdown for AI agents. API-backed extraction with token counting, CSS selector support, and configurable caching via [StripFeed](https://www.stripfeed.dev).",
+  "source_repo": "StripFeed/mcp-server",
+  "source_url": "https://github.com/StripFeed/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/StripFeed/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "matbel91765-gis-mcp-server",
+  "description": "Geospatial tools for AI agents: geocoding, routing, elevation, spatial analysis, and file I/O (Shapefile, GeoJSON, GeoPackage)",
+  "source_repo": "matbel91765/gis-mcp-server",
+  "source_url": "https://github.com/matbel91765/gis-mcp-server",
+  "install": "npx -y gis-mcp-server"
+}

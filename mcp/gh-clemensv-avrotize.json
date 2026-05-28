@@ -1,0 +1,7 @@
+{
+  "name": "gh-clemensv-avrotize",
+  "description": "Schema conversion and schema-driven code generation across formats.",
+  "source_repo": "clemensv/avrotize",
+  "source_url": "https://github.com/clemensv/avrotize",
+  "install": "# git clone --depth 1 https://github.com/clemensv/avrotize\n# See source for mcpServers config block"
+}

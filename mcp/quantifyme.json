@@ -1,0 +1,7 @@
+{
+  "name": "quantifyme",
+  "description": "Generate and deploy algorithmic trading strategies using natural language — free trial, no account required.",
+  "source_repo": "",
+  "source_url": "https://quantifyme.ai",
+  "install": "# git clone --depth 1 https://quantifyme.ai\n# See source for mcpServers config block"
+}

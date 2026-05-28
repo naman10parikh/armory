@@ -1,0 +1,7 @@
+{
+  "name": "ulanzi-mcp",
+  "description": "MCP server and CLI for controlling Ulanzi TC001 Smart Pixel Clock via AWTRIX3 HTTP API. Enables power, brightness, notifications, and more from AI assistants.",
+  "source_repo": "Jelloeater/ulanzi-mcp",
+  "source_url": "https://github.com/Jelloeater/ulanzi-mcp",
+  "install": "npx -y ulanzi-mcp"
+}

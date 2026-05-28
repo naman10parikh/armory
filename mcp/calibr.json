@@ -1,0 +1,7 @@
+{
+  "name": "calibr",
+  "description": "Manages credit risk scoring, scorecard models, deployments, and observability through the Calibr platform API.",
+  "source_repo": "sammarieobrown/calibr-mcp",
+  "source_url": "https://github.com/sammarieobrown/calibr-mcp",
+  "install": "npx -y calibr-mcp"
+}

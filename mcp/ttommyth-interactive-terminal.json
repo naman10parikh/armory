@@ -1,0 +1,7 @@
+{
+  "name": "ttommyth-interactive-terminal",
+  "description": "Interactive terminal interface for enhancing AI interactions with user input capabilities, notifications, and cross-platform support for complex tasks requiring confirmation or clarification.",
+  "source_repo": "ttommyth/interactive-mcp",
+  "source_url": "https://github.com/ttommyth/interactive-mcp",
+  "install": "npx -y interactive-mcp"
+}

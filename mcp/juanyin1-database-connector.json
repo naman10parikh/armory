@@ -1,0 +1,7 @@
+{
+  "name": "juanyin1-database-connector",
+  "description": "Provides multi-database connectivity for SQLite, PostgreSQL, MySQL, and SQL Server through unified adapters that enable query execution, schema management, data export, and business memo tracking with safety validations for destructive operations.",
+  "source_repo": "juanyin1/mcp-database-server-with-database",
+  "source_url": "https://github.com/juanyin1/mcp-database-server-with-database",
+  "install": "# git clone --depth 1 https://github.com/juanyin1/mcp-database-server-with-database\n# See source for mcpServers config block"
+}

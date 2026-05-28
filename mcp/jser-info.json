@@ -1,0 +1,7 @@
+{
+  "name": "jser-info",
+  "description": "Provides access to JavaScript ecosystem data, trends, and library statistics from JSer.info for developers tracking the JavaScript landscape",
+  "source_repo": "jser/mcp",
+  "source_url": "https://github.com/jser/mcp",
+  "install": "# git clone --depth 1 https://github.com/jser/mcp\n# See source for mcpServers config block"
+}

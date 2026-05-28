@@ -1,0 +1,7 @@
+{
+  "name": "zxsimple-fetch-tool",
+  "description": "Exposes a website fetching tool.",
+  "source_repo": "zxsimple/mcp-sample",
+  "source_url": "https://github.com/zxsimple/mcp-sample/tree/HEAD/examples/servers/simple-tool",
+  "install": "# git clone --depth 1 https://github.com/zxsimple/mcp-sample/tree/HEAD/examples/servers/simple-tool\n# See source for mcpServers config block"
+}

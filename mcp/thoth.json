@@ -1,0 +1,7 @@
+{
+  "name": "thoth",
+  "description": "AI-powered multi-platform social media content creation",
+  "source_repo": "perminder-klair/thoth-mcp",
+  "source_url": "https://github.com/perminder-klair/thoth-mcp",
+  "install": "npx -y thoth-mcp"
+}

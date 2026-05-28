@@ -1,0 +1,7 @@
+{
+  "name": "yohasacura-drawio-diagrams",
+  "description": "Creates and edits draw.io XML diagram files with support for flowcharts, UML, ER, C4, BPMN, architecture, and network diagrams.",
+  "source_repo": "yohasacura/drawio-mcp",
+  "source_url": "https://github.com/yohasacura/drawio-mcp",
+  "install": "npx -y drawio-mcp"
+}

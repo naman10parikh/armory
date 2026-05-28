@@ -1,0 +1,7 @@
+{
+  "name": "lengbone-glm-vision",
+  "description": "Provides image recognition and analysis using GLM-4.5V vision model with tools for general image description, code screenshot analysis with language detection, and automatic image processing with format conversion and metadata extraction.",
+  "source_repo": "lengbone/mcp-vl",
+  "source_url": "https://github.com/lengbone/mcp-vl",
+  "install": "# git clone --depth 1 https://github.com/lengbone/mcp-vl\n# See source for mcpServers config block"
+}

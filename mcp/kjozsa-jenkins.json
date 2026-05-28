@@ -1,0 +1,7 @@
+{
+  "name": "kjozsa-jenkins",
+  "description": "Integrates with Jenkins CI/CD operations, enabling job listing, build triggering, and status checking for streamlined DevOps automation and pipeline management.",
+  "source_repo": "kjozsa/jenkins-mcp",
+  "source_url": "https://github.com/kjozsa/jenkins-mcp",
+  "install": "npx -y jenkins-mcp"
+}

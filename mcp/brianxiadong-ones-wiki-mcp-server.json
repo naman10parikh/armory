@@ -1,0 +1,7 @@
+{
+  "name": "brianxiadong-ones-wiki-mcp-server",
+  "description": "/🏠 - A Spring AI MCP-based service for retrieving ONES Waiki content and converting it to AI-friendly text format.",
+  "source_repo": "brianxiadong/ones-wiki-mcp-server",
+  "source_url": "https://github.com/brianxiadong/ones-wiki-mcp-server",
+  "install": "npx -y ones-wiki-mcp-server"
+}

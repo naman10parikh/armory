@@ -1,0 +1,7 @@
+{
+  "name": "hrrodan-agent-workspace",
+  "description": "Sandboxed agentic workspace for secure filesystem operations, bash execution, and uv-powered Python in an isolated container.",
+  "source_repo": "hrrodan/agent-workspace-mcp",
+  "source_url": "https://github.com/hrrodan/agent-workspace-mcp",
+  "install": "npx -y agent-workspace-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ratel",
+  "description": "Exposes a Ratel tool catalog as a unified MCP server, managing connections to multiple upstream MCP servers with OAuth 2.1 authentication.",
+  "source_repo": "ratel-ai/ratel-mcp",
+  "source_url": "https://github.com/ratel-ai/ratel-mcp",
+  "install": "npx -y ratel-mcp"
+}

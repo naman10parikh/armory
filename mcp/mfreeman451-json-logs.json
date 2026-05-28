@@ -1,0 +1,7 @@
+{
+  "name": "mfreeman451-json-logs",
+  "description": "Analyzes JSON log files from Python applications with tools for searching by level, module, function, and time ranges, aggregating data by various criteria, and generating statistics for debugging and performance monitoring.",
+  "source_repo": "mfreeman451/json-logs-mcp-server",
+  "source_url": "https://github.com/mfreeman451/json-logs-mcp-server",
+  "install": "npx -y json-logs-mcp-server"
+}

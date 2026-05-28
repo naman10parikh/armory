@@ -1,0 +1,7 @@
+{
+  "name": "nerfels-mind-map",
+  "description": "Code intelligence platform with AST parsing and context analysis",
+  "source_repo": "nerfels/mind-map",
+  "source_url": "https://github.com/nerfels/mind-map",
+  "install": "# git clone --depth 1 https://github.com/nerfels/mind-map\n# See source for mcpServers config block"
+}

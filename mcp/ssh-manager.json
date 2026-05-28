@@ -1,0 +1,7 @@
+{
+  "name": "ssh-manager",
+  "description": "Enables secure SSH command execution, file transfers, and automated deployments across multiple remote servers with connection pooling, profile-based configuration for different project types, and deployment strategies with backup creation and permission detection.",
+  "source_repo": "bvisible/mcp-ssh-manager",
+  "source_url": "https://github.com/bvisible/mcp-ssh-manager",
+  "install": "# git clone --depth 1 https://github.com/bvisible/mcp-ssh-manager\n# See source for mcpServers config block"
+}

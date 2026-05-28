@@ -1,0 +1,7 @@
+{
+  "name": "ducthinh993-endoflife",
+  "description": "Integrates with the endoflife.date API to provide software end-of-life status checks for dependency management, security auditing, and upgrade planning.",
+  "source_repo": "ducthinh993/mcp-server-endoflife",
+  "source_url": "https://github.com/ducthinh993/mcp-server-endoflife",
+  "install": "# git clone --depth 1 https://github.com/ducthinh993/mcp-server-endoflife\n# See source for mcpServers config block"
+}

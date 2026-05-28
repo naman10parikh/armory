@@ -1,0 +1,7 @@
+{
+  "name": "supabase-mcp",
+  "description": "An MCP server enabling AI assistants to perform CRUD operations on a Supabase database via a standardized interface.",
+  "source_repo": "coleam00/supabase-mcp",
+  "source_url": "https://github.com/coleam00/supabase-mcp",
+  "install": "npx -y supabase-mcp"
+}

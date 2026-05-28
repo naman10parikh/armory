@@ -1,0 +1,7 @@
+{
+  "name": "arifur9993-attendance-engine-mcp",
+  "description": "Workforce attendance, overtime, overnight shifts, rotating rosters, and California wage-and-hour compliance (Labor Code §§ 226.7, 512; Donohue v. AMN). 8 tools backed by [`@attendance-engine/core`](https://www.npmjs.com/package/@attendance-engine/core) — a pure-function, zero-deps, 100%-covered engine. Deterministic answers; same query, same answer, every time.",
+  "source_repo": "arifur9993/attendance-engine-mcp",
+  "source_url": "https://github.com/arifur9993/attendance-engine-mcp",
+  "install": "npx -y attendance-engine-mcp"
+}

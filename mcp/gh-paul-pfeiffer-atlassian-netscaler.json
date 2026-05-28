@@ -1,0 +1,7 @@
+{
+  "name": "gh-paul-pfeiffer-atlassian-netscaler",
+  "description": "Jira and Confluence access for instances protected by Citrix NetScaler SSO, with automated browser-based authentication.",
+  "source_repo": "paul-pfeiffer/atlassian-netscaler-mcp",
+  "source_url": "https://github.com/paul-pfeiffer/atlassian-netscaler-mcp",
+  "install": "npx -y atlassian-netscaler-mcp"
+}

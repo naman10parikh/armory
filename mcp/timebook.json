@@ -1,0 +1,7 @@
+{
+  "name": "timebook",
+  "description": "Track time on usetimebook.com: start and stop timers, log entries, and manage projects and clients.",
+  "source_repo": "squidcode/timebook-cli",
+  "source_url": "https://github.com/squidcode/timebook-cli",
+  "install": "# git clone --depth 1 https://github.com/squidcode/timebook-cli\n# See source for mcpServers config block"
+}

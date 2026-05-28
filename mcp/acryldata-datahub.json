@@ -1,0 +1,7 @@
+{
+  "name": "acryldata-datahub",
+  "description": "Integrates with DataHub's API to enable metadata management, discovery, and governance across diverse data assets in complex ecosystems.",
+  "source_repo": "acryldata/mcp-server-datahub",
+  "source_url": "https://github.com/acryldata/mcp-server-datahub",
+  "install": "# git clone --depth 1 https://github.com/acryldata/mcp-server-datahub\n# See source for mcpServers config block"
+}

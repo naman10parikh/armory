@@ -1,0 +1,7 @@
+{
+  "name": "akc2267-solana",
+  "description": "Integrates with Solana blockchain using Web3.js, enabling automated transactions, smart contract deployments, and blockchain analytics.",
+  "source_repo": "akc2267/solana-mcp-server",
+  "source_url": "https://github.com/akc2267/solana-mcp-server",
+  "install": "npx -y solana-mcp-server"
+}

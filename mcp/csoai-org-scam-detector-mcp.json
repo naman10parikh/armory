@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-scam-detector-mcp",
+  "description": "Python MCP server for scam detection and fraud analysis.",
+  "source_repo": "csoai-org/scam-detector-mcp",
+  "source_url": "https://github.com/csoai-org/scam-detector-mcp",
+  "install": "npx -y scam-detector-mcp"
+}

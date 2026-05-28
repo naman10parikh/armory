@@ -1,0 +1,7 @@
+{
+  "name": "nhevers-claude-recall",
+  "description": "Persistent memory system for Claude Code that automatically captures session context, stores observations in SQLite with vector search, and injects relevant history into future coding sessions to maintain continuity across development workflows.",
+  "source_repo": "nhevers/moltbrain",
+  "source_url": "https://github.com/nhevers/moltbrain",
+  "install": "# git clone --depth 1 https://github.com/nhevers/moltbrain\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jurasofish-mcpunk",
+  "description": "MCPunk provides tools for performing Roaming RAG",
+  "source_repo": "jurasofish/mcpunk",
+  "source_url": "https://github.com/jurasofish/mcpunk",
+  "install": "# git clone --depth 1 https://github.com/jurasofish/mcpunk\n# See source for mcpServers config block"
+}

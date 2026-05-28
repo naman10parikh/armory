@@ -1,0 +1,7 @@
+{
+  "name": "pskill9-web-search",
+  "description": "An MCP server that enables free web searching using Google search results, with no API keys required.",
+  "source_repo": "pskill9/web-search",
+  "source_url": "https://github.com/pskill9/web-search",
+  "install": "# git clone --depth 1 https://github.com/pskill9/web-search\n# See source for mcpServers config block"
+}

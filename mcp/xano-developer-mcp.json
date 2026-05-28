@@ -1,0 +1,7 @@
+{
+  "name": "xano-developer-mcp",
+  "description": "An MCP server and standalone library that gives AI assistants superpowers for developing on Xano — complete with documentation, code validation, and workflow guides.",
+  "source_repo": "xano-inc/xano-developer-mcp",
+  "source_url": "https://github.com/xano-inc/xano-developer-mcp",
+  "install": "npx -y xano-developer-mcp"
+}

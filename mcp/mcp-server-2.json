@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-2",
+  "description": "Extends Claude with real-time weather data and product catalog management tools, including forecasts, alerts, CRUD operations for products.",
+  "source_repo": "navgour1989/mcp-server",
+  "source_url": "https://github.com/navgour1989/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/navgour1989/mcp-server\n# See source for mcpServers config block"
+}

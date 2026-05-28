@@ -1,0 +1,7 @@
+{
+  "name": "devisionx-tuba-workflow",
+  "description": "Bridges Tuba.ai computer vision workflows to expose AI vision pipelines as callable tools for running workflows, checking execution status, fetching results with automatic ZIP downloads, and updating parameters with support for local files, remote URLs, and base64 uploads.",
+  "source_repo": "devisionx/tuba-workflow-mcp-server",
+  "source_url": "https://github.com/devisionx/tuba-workflow-mcp-server",
+  "install": "npx -y tuba-workflow-mcp-server"
+}

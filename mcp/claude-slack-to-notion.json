@@ -1,0 +1,7 @@
+{
+  "name": "claude-slack-to-notion",
+  "description": "Enables automatic collection and AI analysis of Slack messages to create organized Notion pages, supporting custom analysis directions like meeting minutes, issue extraction, and topic classification.",
+  "source_repo": "idean3885/claude-slack-to-notion",
+  "source_url": "https://github.com/idean3885/claude-slack-to-notion",
+  "install": "# git clone --depth 1 https://github.com/idean3885/claude-slack-to-notion\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-backup-server",
+  "description": "MCP Backup Server MCP server listed on mcp.so.",
+  "source_repo": "hexitex/MCP-Backup-Server",
+  "source_url": "https://mcp.so/server/MCP-Backup-Server/hexitex",
+  "install": "# git clone --depth 1 https://mcp.so/server/MCP-Backup-Server/hexitex\n# See source for mcpServers config block"
+}

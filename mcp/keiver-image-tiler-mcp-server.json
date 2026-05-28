@@ -1,0 +1,7 @@
+{
+  "name": "keiver-image-tiler-mcp-server",
+  "description": "Full-resolution vision for LLMs. Tiles large images and captures web pages via Chrome CDP so vision models process every detail without downscaling. Generates interactive HTML tile previews. Supports Claude, OpenAI, Gemini presets with per-model token math and entropy-based tile classification.",
+  "source_repo": "keiver/image-tiler-mcp-server",
+  "source_url": "https://github.com/keiver/image-tiler-mcp-server",
+  "install": "npx -y image-tiler-mcp-server"
+}

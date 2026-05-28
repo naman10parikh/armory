@@ -1,0 +1,7 @@
+{
+  "name": "realcrabcut-crabcut",
+  "description": "Turn YouTube videos into short-form clips with AI-powered highlight detection and vertical reframing.",
+  "source_repo": "realcrabcut/crabcut-mcp-server",
+  "source_url": "https://github.com/realcrabcut/crabcut-mcp-server",
+  "install": "npx -y crabcut-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-pbuff07-openclaw-scanner",
+  "description": "Discover OpenClaw gateway services on a network by scanning specified IP addresses or ranges via HTTP and mDNS probes.",
+  "source_repo": "pbuff07/openclaw-scanner-mcp",
+  "source_url": "https://github.com/pbuff07/openclaw-scanner-mcp",
+  "install": "npx -y openclaw-scanner-mcp"
+}

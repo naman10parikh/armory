@@ -1,0 +1,7 @@
+{
+  "name": "neosapience-typecast",
+  "description": "Bridges to Typecast AI text-to-speech service, enabling high-quality voice synthesis with customizable emotional expression, volume, and playback speed for content creation and interactive voice applications.",
+  "source_repo": "neosapience/typecast-api-mcp-server",
+  "source_url": "https://github.com/neosapience/typecast-api-mcp-server",
+  "install": "npx -y typecast-api-mcp-server"
+}

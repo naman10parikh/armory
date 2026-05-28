@@ -1,0 +1,7 @@
+{
+  "name": "tinysa-mcp",
+  "description": "TinySA_mcp MCP server listed on mcp.so.",
+  "source_repo": "manahiyo831/tinySA_mcp",
+  "source_url": "https://mcp.so/server/tinySA_mcp/manahiyo831",
+  "install": "npx -y tinySA_mcp"
+}

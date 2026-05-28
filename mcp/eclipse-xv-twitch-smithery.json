@@ -1,0 +1,7 @@
+{
+  "name": "eclipse-xv-twitch-smithery",
+  "description": "Integrates with Twitch's IRC and Helix API to provide real-time chat moderation with smart user targeting, automated timeout management, and stream control features including polls, predictions, and content updates.",
+  "source_repo": "eclipsevr-live/twitch-mcp-smithery",
+  "source_url": "https://github.com/eclipsevr-live/twitch-mcp-smithery",
+  "install": "# git clone --depth 1 https://github.com/eclipsevr-live/twitch-mcp-smithery\n# See source for mcpServers config block"
+}

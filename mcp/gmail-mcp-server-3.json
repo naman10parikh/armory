@@ -1,0 +1,7 @@
+{
+  "name": "gmail-mcp-server-3",
+  "description": "A high-performance MCP server that enables AI assistants to interact with Gmail securely via OAuth 2.0, supporting smart email retrieval and thread-aware drafting.",
+  "source_repo": "Uncommontayo/MLI-MCP-Server",
+  "source_url": "https://github.com/Uncommontayo/MLI-MCP-Server",
+  "install": "npx -y MLI-MCP-Server"
+}

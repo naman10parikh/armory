@@ -1,0 +1,7 @@
+{
+  "name": "dominic-righthere-envibe",
+  "description": "Granular permission layer controlling AI agent access to environment variables with five access levels.",
+  "source_repo": "dominic-righthere/envibe-mcp",
+  "source_url": "https://github.com/dominic-righthere/envibe-mcp",
+  "install": "npx -y envibe-mcp"
+}

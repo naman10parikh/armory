@@ -1,0 +1,7 @@
+{
+  "name": "mailchimpmcp",
+  "description": "MailchimpMCP MCP server listed on mcp.so.",
+  "source_repo": "bryangsmith/MailchimpMCP",
+  "source_url": "https://mcp.so/server/MailchimpMCP/bryangsmith",
+  "install": "# git clone --depth 1 https://mcp.so/server/MailchimpMCP/bryangsmith\n# See source for mcpServers config block"
+}

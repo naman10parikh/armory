@@ -1,0 +1,7 @@
+{
+  "name": "bumi-mcp",
+  "description": "MCP server for controlling the Noetix Bumi humanoid robot via ROS 2, with support for autonomous mission planning using LLMs and computer vision.",
+  "source_repo": "sandraschi/bumi-mcp",
+  "source_url": "https://github.com/sandraschi/bumi-mcp",
+  "install": "npx -y bumi-mcp"
+}

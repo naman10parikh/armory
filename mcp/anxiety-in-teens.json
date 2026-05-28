@@ -1,0 +1,7 @@
+{
+  "name": "anxiety-in-teens",
+  "description": "Provides searchable access to clinician-reviewed articles on anxiety disorders in adolescents.",
+  "source_repo": "",
+  "source_url": "https://teenanxiety.ai",
+  "install": "# git clone --depth 1 https://teenanxiety.ai\n# See source for mcpServers config block"
+}

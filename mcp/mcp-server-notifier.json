@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-notifier",
+  "description": "Mcp Server Notifier MCP server listed on mcp.so.",
+  "source_repo": "tuberrabbit/mcp-server-notifier",
+  "source_url": "https://mcp.so/server/mcp-server-notifier/tuberrabbit",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-notifier/tuberrabbit\n# See source for mcpServers config block"
+}

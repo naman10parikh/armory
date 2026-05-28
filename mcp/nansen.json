@@ -1,0 +1,7 @@
+{
+  "name": "nansen",
+  "description": "Blockchain analytics with Smart Money signals, wallet profiling, and token analytics.",
+  "source_repo": "",
+  "source_url": "https://nansen.ai",
+  "install": "# git clone --depth 1 https://nansen.ai\n# See source for mcpServers config block"
+}

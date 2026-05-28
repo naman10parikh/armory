@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-performance-ai-mcp",
+  "description": "Python MCP server for performance analysis and optimization tools.",
+  "source_repo": "csoai-org/performance-ai-mcp",
+  "source_url": "https://github.com/csoai-org/performance-ai-mcp",
+  "install": "npx -y performance-ai-mcp"
+}

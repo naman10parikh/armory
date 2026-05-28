@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-gnomad",
+  "description": "Query the Broad Institute gnomAD genomic variant database via GraphQL.",
+  "source_repo": "pipeworx-io/mcp-gnomad",
+  "source_url": "https://github.com/pipeworx-io/mcp-gnomad",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-gnomad\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "springmt-microcms",
+  "description": "Connects Claude to MicroCMS headless content management system, enabling direct content retrieval, creation, and management operations within conversations.",
+  "source_repo": "springmt/microcms-mcp-server",
+  "source_url": "https://github.com/springmt/microcms-mcp-server",
+  "install": "npx -y microcms-mcp-server"
+}

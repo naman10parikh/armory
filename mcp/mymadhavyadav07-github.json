@@ -1,0 +1,7 @@
+{
+  "name": "mymadhavyadav07-github",
+  "description": "Integrates with GitHub's API to enable repository management, file operations, branch creation with pull requests, and issue tracking for streamlined development workflows.",
+  "source_repo": "mymadhavyadav07/github-mcp-server",
+  "source_url": "https://github.com/mymadhavyadav07/github-mcp-server",
+  "install": "npx -y github-mcp-server"
+}

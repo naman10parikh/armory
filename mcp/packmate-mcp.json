@@ -1,0 +1,7 @@
+{
+  "name": "packmate-mcp",
+  "description": "MCP server for Packmate, a CTF network traffic analyzer, enabling LLMs to analyze network traffic streams, search patterns, and manage pcap files.",
+  "source_repo": "umbra2728/packmate-mcp",
+  "source_url": "https://github.com/umbra2728/packmate-mcp",
+  "install": "npx -y packmate-mcp"
+}

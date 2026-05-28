@@ -1,0 +1,7 @@
+{
+  "name": "umbraxon-kya-hub",
+  "description": "Read-only MCP server bridging the public UMBRAXON KYA-Hub HTTP API. Exposes tools to fetch tiers/health, certificates, reputation, CRL metadata, and to verify certificate/delegation-pass payloads.",
+  "source_repo": "UMBRAXON/kya-hub",
+  "source_url": "https://github.com/UMBRAXON/kya-hub",
+  "install": "# git clone --depth 1 https://github.com/UMBRAXON/kya-hub\n# See source for mcpServers config block"
+}

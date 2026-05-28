@@ -1,0 +1,7 @@
+{
+  "name": "weverkley-qdrant-rag",
+  "description": "Real-time semantic RAG over codebases by monitoring file changes, indexing with Ollama embeddings, and storing vectors in Qdrant.",
+  "source_repo": "weverkley/qdrant-mcp-server",
+  "source_url": "https://github.com/weverkley/qdrant-mcp-server",
+  "install": "npx -y qdrant-mcp-server"
+}

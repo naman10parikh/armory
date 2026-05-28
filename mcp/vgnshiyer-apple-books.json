@@ -1,0 +1,7 @@
+{
+  "name": "vgnshiyer-apple-books",
+  "description": "Provides access to Apple Books library data, enabling retrieval and search of book collections, highlights, notes, and reading activity for personalized book organization and recommendations.",
+  "source_repo": "vgnshiyer/apple-books-mcp",
+  "source_url": "https://github.com/vgnshiyer/apple-books-mcp",
+  "install": "npx -y apple-books-mcp"
+}

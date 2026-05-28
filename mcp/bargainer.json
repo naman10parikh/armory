@@ -1,0 +1,7 @@
+{
+  "name": "bargainer",
+  "description": "Aggregates deals from multiple sources including Slickdeals API, RapidAPI marketplace, and web scraping providers to provide unified deal search, comparison, and filtering capabilities across price, rating, category, and store parameters.",
+  "source_repo": "karthiksivaramms/bargainer-mcp-client",
+  "source_url": "https://github.com/karthiksivaramms/bargainer-mcp-client",
+  "install": "# git clone --depth 1 https://github.com/karthiksivaramms/bargainer-mcp-client\n# See source for mcpServers config block"
+}

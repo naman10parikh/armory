@@ -1,0 +1,7 @@
+{
+  "name": "syronius-cryptair",
+  "description": "Tamper-evident attestation tools for AI agents using on-chain receipts recorded on Hedera Hashgraph.",
+  "source_repo": "syronius/cryptair-mcp-server",
+  "source_url": "https://github.com/syronius/cryptair-mcp-server",
+  "install": "npx -y cryptair-mcp-server"
+}

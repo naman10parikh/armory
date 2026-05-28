@@ -1,0 +1,7 @@
+{
+  "name": "pypreset",
+  "description": "Scaffold Python projects from YAML presets and augment existing projects with CI and tests.",
+  "source_repo": "kaierikniermann/pypreset",
+  "source_url": "https://github.com/kaierikniermann/pypreset",
+  "install": "# git clone --depth 1 https://github.com/kaierikniermann/pypreset\n# See source for mcpServers config block"
+}

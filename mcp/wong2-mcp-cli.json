@@ -1,0 +1,7 @@
+{
+  "name": "wong2-mcp-cli",
+  "description": "CLI tool for testing MCP servers",
+  "source_repo": "wong2/mcp-cli",
+  "source_url": "https://github.com/wong2/mcp-cli",
+  "install": "# git clone --depth 1 https://github.com/wong2/mcp-cli\n# See source for mcpServers config block"
+}

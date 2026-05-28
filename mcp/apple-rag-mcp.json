@@ -1,0 +1,7 @@
+{
+  "name": "apple-rag-mcp",
+  "description": "Provides access to Apple documentation and WWDC transcripts with semantic, keyword, and hybrid search capabilities, enabling developers to quickly find relevant code examples and technical information.",
+  "source_repo": "BingoWon/apple-rag-mcp",
+  "source_url": "https://github.com/BingoWon/apple-rag-mcp",
+  "install": "npx -y apple-rag-mcp"
+}

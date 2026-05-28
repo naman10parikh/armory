@@ -1,0 +1,7 @@
+{
+  "name": "xieyuschen-gopls",
+  "description": "Hardfork of gopls providing compiler-grade Go code analysis including definitions, references, call hierarchies, and build diagnostics with surgical precision.",
+  "source_repo": "xieyuschen/gopls-mcp",
+  "source_url": "https://github.com/xieyuschen/gopls-mcp",
+  "install": "npx -y gopls-mcp"
+}

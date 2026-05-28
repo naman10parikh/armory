@@ -1,0 +1,7 @@
+{
+  "name": "pankaj28843-confluence",
+  "description": "Provides intelligent Confluence search with fuzzy multi-word query splitting, content hydration to markdown, and configurable caching.",
+  "source_repo": "pankaj28843/confluence-mcp-server",
+  "source_url": "https://github.com/pankaj28843/confluence-mcp-server",
+  "install": "npx -y confluence-mcp-server"
+}

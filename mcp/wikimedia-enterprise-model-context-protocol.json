@@ -1,0 +1,7 @@
+{
+  "name": "wikimedia-enterprise-model-context-protocol",
+  "description": "Query and analyze Wikimedia Enterprise data.",
+  "source_repo": "",
+  "source_url": "https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol",
+  "install": "# git clone --depth 1 https://gitlab.wikimedia.org/repos/future-audiences/wikimedia-enterprise-model-context-protocol\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "code-wheel-drupal-tools",
+  "description": "Drupal module providing read-only analysis tools for site health monitoring, content management, configuration inspection, user administration, and security auditing.",
+  "source_repo": "code-wheel/mcp-tools",
+  "source_url": "https://github.com/code-wheel/mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/code-wheel/mcp-tools\n# See source for mcpServers config block"
+}

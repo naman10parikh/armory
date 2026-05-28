@@ -1,0 +1,7 @@
+{
+  "name": "groundx-rag",
+  "description": "Integrates with GroundX to provide document search and ingestion capabilities, enabling domain-specific knowledge retrieval without requiring direct access to underlying document storage.",
+  "source_repo": "prixyy/rag_based_mcp",
+  "source_url": "https://github.com/prixyy/rag_based_mcp",
+  "install": "npx -y rag_based_mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "gh-juancmpdev-mediabox",
+  "description": "Manages a self-hosted media stack — Jellyfin, Sonarr, Radarr, qBittorrent, and more — through 25 tools via natural language.",
+  "source_repo": "juancmpdev/mediabox-mcp",
+  "source_url": "https://github.com/juancmpdev/mediabox-mcp",
+  "install": "npx -y mediabox-mcp"
+}

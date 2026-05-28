@@ -1,0 +1,7 @@
+{
+  "name": "kirti676-api-tester",
+  "description": "Ingests OpenAPI/Swagger specifications and Postman collections to automatically generate executable test cases in TypeScript/Playwright, JavaScript/Jest, and Python/pytest with concurrent execution, load testing, and HTML reporting.",
+  "source_repo": "kirti676/api_tester_mcp",
+  "source_url": "https://github.com/kirti676/api_tester_mcp",
+  "install": "npx -y api_tester_mcp"
+}

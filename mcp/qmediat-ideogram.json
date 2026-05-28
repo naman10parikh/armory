@@ -1,0 +1,7 @@
+{
+  "name": "qmediat-ideogram",
+  "description": "Wraps the Ideogram V3 API to generate, edit, remix, reframe, replace backgrounds, and upscale images.",
+  "source_repo": "qmediat/ideogram-mcp",
+  "source_url": "https://github.com/qmediat/ideogram-mcp",
+  "install": "npx -y ideogram-mcp"
+}

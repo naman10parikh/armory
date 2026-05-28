@@ -1,0 +1,7 @@
+{
+  "name": "thesandemon-kaito-query",
+  "description": "Multi-model AI gateway with Gemini, MiniMax, Replicate, and OpenRouter integration.",
+  "source_repo": "thesandemon/sand-gallery",
+  "source_url": "https://github.com/thesandemon/sand-gallery",
+  "install": "# git clone --depth 1 https://github.com/thesandemon/sand-gallery\n# See source for mcpServers config block"
+}

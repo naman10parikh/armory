@@ -1,0 +1,7 @@
+{
+  "name": "uurl-at",
+  "description": "Bundle multiple URLs into one short link with QR codes, access counters, and redirect lookup.",
+  "source_repo": "",
+  "source_url": "https://uurl.at",
+  "install": "# git clone --depth 1 https://uurl.at\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "toleno-network",
+  "description": "Manage Toleno mining accounts with natural language commands.",
+  "source_repo": "tolenonetwork/toleno-mcp",
+  "source_url": "https://github.com/tolenonetwork/toleno-mcp",
+  "install": "npx -y toleno-mcp"
+}

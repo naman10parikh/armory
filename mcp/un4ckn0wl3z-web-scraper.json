@@ -1,0 +1,7 @@
+{
+  "name": "un4ckn0wl3z-web-scraper",
+  "description": "Extracts clean text content from web pages using BeautifulSoup and HTTPX with proper error handling for failed requests and connection issues.",
+  "source_repo": "un4ckn0wl3z/mcp-scraper-engine",
+  "source_url": "https://github.com/un4ckn0wl3z/mcp-scraper-engine",
+  "install": "# git clone --depth 1 https://github.com/un4ckn0wl3z/mcp-scraper-engine\n# See source for mcpServers config block"
+}

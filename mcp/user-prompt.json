@@ -1,0 +1,7 @@
+{
+  "name": "user-prompt",
+  "description": "Enables AI agents to ask users clarifying questions via terminal windows.",
+  "source_repo": "jacob-j-thomas/user-context-retrieval-mcp-server",
+  "source_url": "https://github.com/jacob-j-thomas/user-context-retrieval-mcp-server",
+  "install": "npx -y user-context-retrieval-mcp-server"
+}

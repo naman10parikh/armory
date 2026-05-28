@@ -1,0 +1,7 @@
+{
+  "name": "intent-driven-software-idf",
+  "description": "Intent-driven framework that turns an IDF domain model into an MCP server with invariants and role scopes enforced on every tool call.",
+  "source_repo": "intent-driven-software/idf-mcp",
+  "source_url": "https://github.com/intent-driven-software/idf-mcp",
+  "install": "npx -y idf-mcp"
+}

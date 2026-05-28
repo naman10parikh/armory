@@ -1,0 +1,7 @@
+{
+  "name": "taazkareem-clickup",
+  "description": "Integrates ClickUp task management with AI systems to enable automated task creation, updates, and retrieval for enhanced project workflow efficiency.",
+  "source_repo": "taazkareem/clickup-mcp-server",
+  "source_url": "https://github.com/taazkareem/clickup-mcp-server",
+  "install": "npx -y clickup-mcp-server"
+}

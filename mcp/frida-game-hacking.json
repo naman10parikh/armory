@@ -1,0 +1,7 @@
+{
+  "name": "frida-game-hacking",
+  "description": "Provides Cheat Engine-like game hacking capabilities through Frida dynamic instrumentation for memory scanning, value modification, pattern matching, function hooking, and code injection.",
+  "source_repo": "0xhackerfren/frida-game-hacking-mcp",
+  "source_url": "https://github.com/0xhackerfren/frida-game-hacking-mcp",
+  "install": "npx -y frida-game-hacking-mcp"
+}

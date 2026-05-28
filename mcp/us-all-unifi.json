@@ -1,0 +1,7 @@
+{
+  "name": "us-all-unifi",
+  "description": "Community MCP integration for Ubiquiti UniFi, enabling AI agents to analyze network fleet health, anomaly detection, and cross-site analytics.",
+  "source_repo": "us-all/unifi-mcp-server",
+  "source_url": "https://github.com/us-all/unifi-mcp-server",
+  "install": "npx -y unifi-mcp-server"
+}

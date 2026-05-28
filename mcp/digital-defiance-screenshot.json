@@ -1,0 +1,7 @@
+{
+  "name": "digital-defiance-screenshot",
+  "description": "Enterprise-grade screenshot capture with PII masking and cross-platform support",
+  "source_repo": "digital-defiance/mcp-screenshot",
+  "source_url": "https://github.com/digital-defiance/mcp-screenshot",
+  "install": "# git clone --depth 1 https://github.com/digital-defiance/mcp-screenshot\n# See source for mcpServers config block"
+}

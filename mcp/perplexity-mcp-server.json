@@ -1,0 +1,7 @@
+{
+  "name": "perplexity-mcp-server",
+  "description": "An MCP server that enables AI agents to perform search-augmented queries and deep multi-source research using the Perplexity API.",
+  "source_repo": "cyanheads/perplexity-mcp-server",
+  "source_url": "https://github.com/cyanheads/perplexity-mcp-server",
+  "install": "npx -y perplexity-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "luno",
+  "description": "Bridges AI systems with the Luno cryptocurrency exchange API for trading operations, market data retrieval, and account management with automatic currency code normalization",
+  "source_repo": "luno/luno-mcp",
+  "source_url": "https://github.com/luno/luno-mcp",
+  "install": "npx -y luno-mcp"
+}

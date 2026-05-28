@@ -1,0 +1,7 @@
+{
+  "name": "openstack-kr-python-openstackmcp-server",
+  "description": "OpenStack MCP server for cloud infrastructure management based on openstacksdk.",
+  "source_repo": "openstack-kr/python-openstackmcp-server",
+  "source_url": "https://github.com/openstack-kr/python-openstackmcp-server",
+  "install": "npx -y python-openstackmcp-server"
+}

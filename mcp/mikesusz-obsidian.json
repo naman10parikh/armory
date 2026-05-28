@@ -1,0 +1,7 @@
+{
+  "name": "mikesusz-obsidian",
+  "description": "Provides read-only access to Obsidian vaults with tools for searching notes by content or title, retrieving full note content and metadata, and listing markdown files.",
+  "source_repo": "mikesusz/markdown-vault-mcp",
+  "source_url": "https://github.com/mikesusz/markdown-vault-mcp",
+  "install": "npx -y markdown-vault-mcp"
+}

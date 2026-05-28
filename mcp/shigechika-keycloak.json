@@ -1,0 +1,7 @@
+{
+  "name": "shigechika-keycloak",
+  "description": "Provides administrative access to Keycloak's Admin REST API using service account credentials.",
+  "source_repo": "shigechika/keycloak-mcp",
+  "source_url": "https://github.com/shigechika/keycloak-mcp",
+  "install": "npx -y keycloak-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcpjuliaserver",
+  "description": "A Julia-based MCP server providing tools for database operations, file management, and database administration, with HTTP bridge support for Windows Claude Desktop integration.",
+  "source_repo": "SerenaMichaels/MCPJuliaServer",
+  "source_url": "https://github.com/SerenaMichaels/MCPJuliaServer",
+  "install": "# git clone --depth 1 https://github.com/SerenaMichaels/MCPJuliaServer\n# See source for mcpServers config block"
+}

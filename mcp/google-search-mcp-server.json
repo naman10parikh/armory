@@ -1,0 +1,7 @@
+{
+  "name": "google-search-mcp-server",
+  "description": "Enables performing Google searches using the Custom Search Engine API with support for various parameters like date restriction, site search, and file type. Returns search results in a conversational format.",
+  "source_repo": "fvanevski/google_search_mcp",
+  "source_url": "https://github.com/fvanevski/google_search_mcp",
+  "install": "npx -y google_search_mcp"
+}

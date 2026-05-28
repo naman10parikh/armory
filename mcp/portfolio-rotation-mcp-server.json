@@ -1,0 +1,7 @@
+{
+  "name": "portfolio-rotation-mcp-server",
+  "description": "MCP server for portfolio rotation analysis. Score holdings and candidates across 5 dimensions, identify optimal swaps, validate with risk checks and backtests.",
+  "source_repo": "mothanaprime/Rebalance-MCP",
+  "source_url": "https://github.com/mothanaprime/Rebalance-MCP",
+  "install": "npx -y Rebalance-MCP"
+}

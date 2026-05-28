@@ -1,0 +1,7 @@
+{
+  "name": "personal-mcp-server",
+  "description": "Personal Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "jango-blockchained/personal-mcp-server",
+  "source_url": "https://mcp.so/server/personal-mcp-server/jango-blockchained",
+  "install": "npx -y personal-mcp-server"
+}

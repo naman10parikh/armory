@@ -1,0 +1,7 @@
+{
+  "name": "davison-francis-min8t-sdks",
+  "description": "`@deliveriq/mcp` — email-deliverability tools for AI agents. 12 tools: single + batch verification, email finder, DNSBL across 50 zones, SPF/DKIM/DMARC/MTA-STS/BIMI infrastructure analysis, spam-trap scoring on 13 weighted signals, composite domain trust report, account credits. 5-stage / 21-check pipeline under the hood. Free tier, no card. Install: `npx -y @deliveriq/mcp`.",
+  "source_repo": "Davison-Francis/min8t-sdks",
+  "source_url": "https://github.com/Davison-Francis/min8t-sdks/tree/main/deliveriq-mcp",
+  "install": "# git clone --depth 1 https://github.com/Davison-Francis/min8t-sdks/tree/main/deliveriq-mcp\n# See source for mcpServers config block"
+}

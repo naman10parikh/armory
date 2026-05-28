@@ -1,0 +1,7 @@
+{
+  "name": "dylankim-perplexity",
+  "description": "Integrates Perplexity AI's API, enabling web-based research and cited answers through real-time search capabilities.",
+  "source_repo": "letsbuildagent/perplexity-tool",
+  "source_url": "https://github.com/letsbuildagent/perplexity-tool",
+  "install": "# git clone --depth 1 https://github.com/letsbuildagent/perplexity-tool\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "findata-mcp-server",
+  "description": "Provides professional financial data access for LLMs via MCP, supporting providers like Tushare, Wind, and DataYes.",
+  "source_repo": "zlinzzzz/finData-mcp-server",
+  "source_url": "https://github.com/zlinzzzz/finData-mcp-server",
+  "install": "npx -y finData-mcp-server"
+}

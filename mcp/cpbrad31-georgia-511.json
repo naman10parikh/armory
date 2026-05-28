@@ -1,0 +1,7 @@
+{
+  "name": "cpbrad31-georgia-511",
+  "description": "Integrates with Georgia's 511 service to provide real-time traffic data, including information on cameras, signs, events, and road conditions for various applications and analyses.",
+  "source_repo": "cpbrad31/mcp_ga_511",
+  "source_url": "https://github.com/cpbrad31/mcp_ga_511",
+  "install": "# git clone --depth 1 https://github.com/cpbrad31/mcp_ga_511\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ailife1-cathedral",
+  "description": "Persistent memory and drift detection for AI agents across session restarts.",
+  "source_repo": "ailife1/cathedral",
+  "source_url": "https://github.com/ailife1/cathedral/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/ailife1/cathedral/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

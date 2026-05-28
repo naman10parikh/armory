@@ -1,0 +1,7 @@
+{
+  "name": "gmcdonald44-gb-studio",
+  "description": "Manages GB Studio game projects with tools for scene creation, sprite management, dialogue scripting, and ROM building.",
+  "source_repo": "gmcdonald44/gb-studio-mcp",
+  "source_url": "https://github.com/gmcdonald44/gb-studio-mcp",
+  "install": "npx -y gb-studio-mcp"
+}

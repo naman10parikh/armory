@@ -1,0 +1,7 @@
+{
+  "name": "sitemapkit",
+  "description": "Discovers and extracts sitemaps from any domain, returning structured URL lists with metadata.",
+  "source_repo": "0nl1n1n/sitemapkit-mcp",
+  "source_url": "https://github.com/0nl1n1n/sitemapkit-mcp",
+  "install": "npx -y sitemapkit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-hackernews",
+  "description": "Mcp Server Hackernews MCP server listed on mcp.so.",
+  "source_repo": "morinokami/mcp-server-hackernews",
+  "source_url": "https://mcp.so/server/mcp-server-hackernews/morinokami",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-hackernews/morinokami\n# See source for mcpServers config block"
+}

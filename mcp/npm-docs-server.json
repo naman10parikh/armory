@@ -1,0 +1,7 @@
+{
+  "name": "npm-docs-server",
+  "description": "Fetches metadata and README documentation for NPM packages, with local caching via SQLite for improved performance.",
+  "source_repo": "bsmi021/mcp-npm_docs-server",
+  "source_url": "https://github.com/bsmi021/mcp-npm_docs-server",
+  "install": "# git clone --depth 1 https://github.com/bsmi021/mcp-npm_docs-server\n# See source for mcpServers config block"
+}

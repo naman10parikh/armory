@@ -1,0 +1,7 @@
+{
+  "name": "arthurcolle-openai",
+  "description": "Provides a high-performance bridge between OpenAI and Anthropic models with prompt templating, response streaming, and efficient caching for applications requiring customizable LLM access.",
+  "source_repo": "arthurcolle/openai-mcp",
+  "source_url": "https://github.com/arthurcolle/openai-mcp",
+  "install": "npx -y openai-mcp"
+}

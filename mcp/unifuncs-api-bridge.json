@@ -1,0 +1,7 @@
+{
+  "name": "unifuncs-api-bridge",
+  "description": "Provides a bridge to the UniFuncs API for web search and web reading capabilities through TypeScript implementation with Express and NPX commands.",
+  "source_repo": "unifuncs/ufn-mcp-server",
+  "source_url": "https://github.com/unifuncs/ufn-mcp-server",
+  "install": "npx -y ufn-mcp-server"
+}

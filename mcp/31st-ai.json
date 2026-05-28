@@ -1,0 +1,7 @@
+{
+  "name": "31st-ai",
+  "description": "AI-powered accounting for QuickBooks, handling transaction recording, reconciliation, and month-end close.",
+  "source_repo": "",
+  "source_url": "https://mcp.31st.ai/mcp",
+  "install": "# git clone --depth 1 https://mcp.31st.ai/mcp\n# See source for mcpServers config block"
+}

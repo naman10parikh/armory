@@ -1,0 +1,7 @@
+{
+  "name": "onesignal",
+  "description": "OneSignal is a customer engagement platform that lets you send targeted push notifications, emails, SMS, and in-app messages, manage audiences, and track campaign performance. With the OneSignal MCP, manage your messaging directly from your AI assistant. Send push notifications, emails, and SMS by s",
+  "source_repo": "",
+  "source_url": "https://onesignal.com/",
+  "install": "# git clone --depth 1 https://onesignal.com/\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "automation-ai-labs-openapi-link",
+  "description": "Transforms OpenAPI specifications into tool endpoints, enabling seamless interaction with any API described in OpenAPI format without custom adapter development.",
+  "source_repo": "automation-ai-labs/mcp-link",
+  "source_url": "https://github.com/automation-ai-labs/mcp-link",
+  "install": "# git clone --depth 1 https://github.com/automation-ai-labs/mcp-link\n# See source for mcpServers config block"
+}

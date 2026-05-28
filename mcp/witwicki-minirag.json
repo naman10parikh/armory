@@ -1,0 +1,7 @@
+{
+  "name": "witwicki-minirag",
+  "description": "Provides efficient retrieval-augmented generation through naive vector database querying and smart graph-based retrieval using entity relationships, returning answers with cited sources in JSON format for knowledge retrieval workflows requiring both speed and accuracy in document-based question answering.",
+  "source_repo": "witwicki/minirag-mcp",
+  "source_url": "https://github.com/witwicki/minirag-mcp",
+  "install": "npx -y minirag-mcp"
+}

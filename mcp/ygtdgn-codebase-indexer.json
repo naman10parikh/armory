@@ -1,0 +1,7 @@
+{
+  "name": "ygtdgn-codebase-indexer",
+  "description": "Indexes source code using Ollama embeddings and Qdrant vector database to enable natural language semantic search across codebases.",
+  "source_repo": "ygtdgn/codebase-indexer",
+  "source_url": "https://github.com/ygtdgn/codebase-indexer",
+  "install": "# git clone --depth 1 https://github.com/ygtdgn/codebase-indexer\n# See source for mcpServers config block"
+}

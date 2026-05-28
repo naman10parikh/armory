@@ -1,0 +1,7 @@
+{
+  "name": "zambrella-atsign",
+  "description": "Integrates with the atPlatform decentralized ecosystem to provide atSign data operations including atKey listing with filtering and value retrieval, plus comprehensive atPlatform documentation for building decentralized identity applications.",
+  "source_repo": "zambrella/at_mcp_server",
+  "source_url": "https://github.com/zambrella/at_mcp_server",
+  "install": "npx -y at_mcp_server"
+}

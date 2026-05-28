@@ -1,0 +1,7 @@
+{
+  "name": "gh-nguyenanhducs-fantasy-premier-league",
+  "description": "Fantasy Premier League analysis and strategy tools.",
+  "source_repo": "nguyenanhducs/fpl-mcp-server",
+  "source_url": "https://github.com/nguyenanhducs/fpl-mcp-server",
+  "install": "npx -y fpl-mcp-server"
+}

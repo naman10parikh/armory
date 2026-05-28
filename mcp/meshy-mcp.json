@@ -1,0 +1,7 @@
+{
+  "name": "meshy-mcp",
+  "description": "Enables Claude to generate 3D models from text or images, apply textures, and export to GLB/FBX/USDZ using the Meshy AI API.",
+  "source_repo": "zyadhajaji/meshy-mcp",
+  "source_url": "https://github.com/zyadhajaji/meshy-mcp",
+  "install": "npx -y meshy-mcp"
+}

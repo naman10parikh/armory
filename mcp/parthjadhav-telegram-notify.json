@@ -1,0 +1,7 @@
+{
+  "name": "parthjadhav-telegram-notify",
+  "description": "Send text messages, images, and files to Telegram as notifications from AI agent workflows.",
+  "source_repo": "parthjadhav/telegram-notify-mcp",
+  "source_url": "https://github.com/parthjadhav/telegram-notify-mcp",
+  "install": "npx -y telegram-notify-mcp"
+}

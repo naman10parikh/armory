@@ -1,0 +1,7 @@
+{
+  "name": "jakedismo-kuzumem",
+  "description": "Provides distributed graph memory storage for coding agents using KuzuDB with structured development workflow states, unified tools for architectural decisions and dependency tracking, and persistent memory across sessions for maintaining project context and decision history.",
+  "source_repo": "jakedismo/kuzumem-mcp",
+  "source_url": "https://github.com/jakedismo/kuzumem-mcp",
+  "install": "npx -y kuzumem-mcp"
+}

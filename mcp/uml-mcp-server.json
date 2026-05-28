@@ -1,0 +1,7 @@
+{
+  "name": "uml-mcp-server",
+  "description": "Uml Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Swayingleaves/uml-mcp-server",
+  "source_url": "https://mcp.so/server/uml-mcp-server/Swayingleaves",
+  "install": "npx -y uml-mcp-server"
+}

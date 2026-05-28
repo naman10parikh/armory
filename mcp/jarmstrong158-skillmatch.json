@@ -1,0 +1,7 @@
+{
+  "name": "jarmstrong158-skillmatch",
+  "description": "Analyze job fit by matching resumes against job descriptions with detailed scoring.",
+  "source_repo": "jarmstrong158/skillmatch-mcp",
+  "source_url": "https://github.com/jarmstrong158/skillmatch-mcp",
+  "install": "npx -y skillmatch-mcp"
+}

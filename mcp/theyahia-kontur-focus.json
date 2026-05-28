@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-kontur-focus",
+  "description": "Company search, brief reports, financial analytics, and counterparty risk via the Kontur.Focus API.",
+  "source_repo": "theyahia/kontur-focus-mcp",
+  "source_url": "https://github.com/theyahia/kontur-focus-mcp",
+  "install": "npx -y kontur-focus-mcp"
+}

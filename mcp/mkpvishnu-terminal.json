@@ -1,0 +1,7 @@
+{
+  "name": "mkpvishnu-terminal",
+  "description": "Manage interactive terminal sessions for SSH, REPLs, database CLIs, and TUI apps.",
+  "source_repo": "mkpvishnu/terminal-mcp",
+  "source_url": "https://github.com/mkpvishnu/terminal-mcp",
+  "install": "npx -y terminal-mcp"
+}

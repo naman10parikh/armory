@@ -1,0 +1,7 @@
+{
+  "name": "alpha-systems-pdf",
+  "description": "Convert Markdown to PDF with support for headings, bold, code blocks, and page sizes A4, Letter, and Legal.",
+  "source_repo": "",
+  "source_url": "https://alpha-systems.net/mcp",
+  "install": "# git clone --depth 1 https://alpha-systems.net/mcp\n# See source for mcpServers config block"
+}

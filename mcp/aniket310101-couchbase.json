@@ -1,0 +1,7 @@
+{
+  "name": "aniket310101-couchbase",
+  "description": "Interact directly with Couchbase databases on Capella clusters. Query buckets, perform CRUD operations, execute N1QL queries, and manage data seamlessly through natural language.",
+  "source_repo": "aniket310101/mcp-server-couchbase",
+  "source_url": "https://github.com/aniket310101/mcp-server-couchbase",
+  "install": "# git clone --depth 1 https://github.com/aniket310101/mcp-server-couchbase\n# See source for mcpServers config block"
+}

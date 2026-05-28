@@ -1,0 +1,7 @@
+{
+  "name": "abutbul-gatherings-expense-sharing",
+  "description": "Provides a robust expense-sharing solution for social gatherings, enabling creation of events, member management, expense tracking, and automated reimbursement calculations.",
+  "source_repo": "abutbul/gatherings-mcp-python",
+  "source_url": "https://github.com/abutbul/gatherings-mcp-python",
+  "install": "# git clone --depth 1 https://github.com/abutbul/gatherings-mcp-python\n# See source for mcpServers config block"
+}

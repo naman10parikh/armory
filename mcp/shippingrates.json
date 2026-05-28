@@ -1,0 +1,7 @@
+{
+  "name": "shippingrates",
+  "description": "Container shipping intelligence with demurrage, detention, and local charge data from verified carrier tariffs.",
+  "source_repo": "vinaybhosle/shippingrates-mcp-server",
+  "source_url": "https://github.com/vinaybhosle/shippingrates-mcp-server",
+  "install": "npx -y shippingrates-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-docuplete",
+  "description": "Docuplete automates document completion for businesses — PDF templates, client interview forms, and e-signatures in one platform. The MCP server lets you drive the entire workflow from a conversation: find your document packages, start a client session, prefill fields from context, and generate the",
+  "source_repo": "Docuplete/mcp-server",
+  "source_url": "https://github.com/Docuplete/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Docuplete/mcp-server\n# See source for mcpServers config block"
+}

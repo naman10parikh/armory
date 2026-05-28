@@ -1,0 +1,7 @@
+{
+  "name": "codeqr",
+  "description": "Manages short links, QR codes, analytics, and lead tracking through the CodeQR platform.",
+  "source_repo": "codeqr-io/codeqr-mcp-remote",
+  "source_url": "https://github.com/codeqr-io/codeqr-mcp-remote",
+  "install": "# git clone --depth 1 https://github.com/codeqr-io/codeqr-mcp-remote\n# See source for mcpServers config block"
+}

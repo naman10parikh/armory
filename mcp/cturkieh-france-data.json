@@ -1,0 +1,7 @@
+{
+  "name": "cturkieh-france-data",
+  "description": "Cross-references French public health, business, and geographic registries including INSEE SIRENE, FINESS, RPPS, Ameli, IGN, and DINUM.",
+  "source_repo": "cturkieh/france-data-mcp",
+  "source_url": "https://github.com/cturkieh/france-data-mcp",
+  "install": "npx -y france-data-mcp"
+}

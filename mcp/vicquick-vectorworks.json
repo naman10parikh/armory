@@ -1,0 +1,7 @@
+{
+  "name": "vicquick-vectorworks",
+  "description": "Controls Vectorworks 2026 CAD software through 150+ tools for document management, 2D/3D drawing, symbols, BIM/IFC, and architectural features.",
+  "source_repo": "vicquick/vwx-mcp",
+  "source_url": "https://github.com/vicquick/vwx-mcp",
+  "install": "npx -y vwx-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ytzlax-firebase-realtime-database",
+  "description": "Integrates with Firebase Realtime Database using Admin SDK authentication to enable querying documents by field filters, listing collections, and adding new documents for real-time data management workflows.",
+  "source_repo": "ytzlax/firebase-realtimedb-mcp",
+  "source_url": "https://github.com/ytzlax/firebase-realtimedb-mcp",
+  "install": "npx -y firebase-realtimedb-mcp"
+}

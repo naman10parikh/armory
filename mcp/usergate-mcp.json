@@ -1,0 +1,7 @@
+{
+  "name": "usergate-mcp",
+  "description": "Offline-first Model Context Protocol server for UserGate public documentation, enabling search, retrieval, and operational workflow tools grounded in a local corpus.",
+  "source_repo": "NeonSummit/usergate-mcp",
+  "source_url": "https://github.com/NeonSummit/usergate-mcp",
+  "install": "npx -y usergate-mcp"
+}

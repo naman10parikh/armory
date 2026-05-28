@@ -1,0 +1,7 @@
+{
+  "name": "junct-bot-gmx",
+  "description": "Hosted integration with GMX DeFi protocol for vault operations and analytics via Junct platform.",
+  "source_repo": "junct-bot/gmx-mcp",
+  "source_url": "https://github.com/junct-bot/gmx-mcp",
+  "install": "npx -y gmx-mcp"
+}

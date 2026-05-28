@@ -1,0 +1,7 @@
+{
+  "name": "digidai-mcp-website2markdown",
+  "description": "Converts any web page to clean Markdown, handling JS-heavy SPAs, paywalled content, and Chinese platforms through a 5-layer fallback pipeline and 14 site adapters.",
+  "source_repo": "Digidai/website2markdown",
+  "source_url": "https://github.com/Digidai/website2markdown",
+  "install": "# git clone --depth 1 https://github.com/Digidai/website2markdown\n# See source for mcpServers config block"
+}

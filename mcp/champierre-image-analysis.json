@@ -1,0 +1,7 @@
+{
+  "name": "champierre-image-analysis",
+  "description": "Enables image analysis using GPT-4-turbo's vision capabilities for extracting information, generating descriptions, and answering questions about visual content",
+  "source_repo": "champierre/image-mcp-server",
+  "source_url": "https://github.com/champierre/image-mcp-server",
+  "install": "npx -y image-mcp-server"
+}

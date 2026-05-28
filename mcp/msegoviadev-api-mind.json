@@ -1,0 +1,7 @@
+{
+  "name": "msegoviadev-api-mind",
+  "description": "Discovers and retrieves API endpoint schemas from .mind spec files.",
+  "source_repo": "msegoviadev/api-mind-mcp",
+  "source_url": "https://github.com/msegoviadev/api-mind-mcp",
+  "install": "npx -y api-mind-mcp"
+}

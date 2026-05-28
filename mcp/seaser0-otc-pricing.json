@@ -1,0 +1,7 @@
+{
+  "name": "seaser0-otc-pricing",
+  "description": "Query Open Telekom Cloud service pricing and resource cost estimates via MCP.",
+  "source_repo": "seaser0/otc-pricing-mcp",
+  "source_url": "https://github.com/seaser0/otc-pricing-mcp",
+  "install": "npx -y otc-pricing-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-plagiarism-checker-ai-mcp",
+  "description": "Python MCP server for plagiarism detection and content originality analysis.",
+  "source_repo": "csoai-org/plagiarism-checker-ai-mcp",
+  "source_url": "https://github.com/csoai-org/plagiarism-checker-ai-mcp",
+  "install": "npx -y plagiarism-checker-ai-mcp"
+}

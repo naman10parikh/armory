@@ -1,0 +1,7 @@
+{
+  "name": "rileyedwards77-perplexity",
+  "description": "Integrates with Perplexity AI to enable advanced search, documentation retrieval, and conversational capabilities for AI systems and developers.",
+  "source_repo": "rileyedwards77/perplexity-mcp-server",
+  "source_url": "https://github.com/rileyedwards77/perplexity-mcp-server",
+  "install": "npx -y perplexity-mcp-server"
+}

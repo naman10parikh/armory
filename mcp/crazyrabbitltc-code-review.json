@@ -1,0 +1,7 @@
+{
+  "name": "crazyrabbitltc-code-review",
+  "description": "Enables automated code reviews through multiple LLM providers by analyzing repository structures and evaluating code for security, performance, quality, and maintainability with structured output containing issues, strengths, and recommendations.",
+  "source_repo": "crazyrabbitltc/mcp-code-review-server",
+  "source_url": "https://github.com/crazyrabbitltc/mcp-code-review-server",
+  "install": "# git clone --depth 1 https://github.com/crazyrabbitltc/mcp-code-review-server\n# See source for mcpServers config block"
+}

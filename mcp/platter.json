@@ -1,0 +1,7 @@
+{
+  "name": "platter",
+  "description": "MCP server exposing file operations, shell commands, glob/grep search, and JavaScript evaluation via stdio, HTTP, or system tray.",
+  "source_repo": "scriptsmith/platter",
+  "source_url": "https://github.com/scriptsmith/platter",
+  "install": "# git clone --depth 1 https://github.com/scriptsmith/platter\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jiseong-choi-commit-message-court",
+  "description": "MCP server that reviews git commit messages and diffs, flags vague descriptions or risky changes, and requests clarification before commit.",
+  "source_repo": "jiseong-choi/ccmcp",
+  "source_url": "https://github.com/jiseong-choi/ccmcp",
+  "install": "# git clone --depth 1 https://github.com/jiseong-choi/ccmcp\n# See source for mcpServers config block"
+}

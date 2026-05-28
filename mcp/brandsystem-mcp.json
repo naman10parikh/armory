@@ -1,0 +1,7 @@
+{
+  "name": "brandsystem-mcp",
+  "description": "Enables extraction of brand identity from websites, Figma, and PDFs, and compiles governance, design tokens, and voice rules into a portable .brand/ directory for consistent brand use across AI tools.",
+  "source_repo": "Brandcode-Studio/brandsystem-mcp",
+  "source_url": "https://github.com/Brandcode-Studio/brandsystem-mcp",
+  "install": "npx -y brandsystem-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "activitypub-mcp-server",
+  "description": "A comprehensive MCP server that enables LLMs like Claude to explore and interact with the existing Fediverse through standardized MCP tools, resources, and prompts.",
+  "source_repo": "cameronrye/activitypub-mcp",
+  "source_url": "https://github.com/cameronrye/activitypub-mcp",
+  "install": "npx -y activitypub-mcp"
+}

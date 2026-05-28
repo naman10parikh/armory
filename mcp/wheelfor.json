@@ -1,0 +1,7 @@
+{
+  "name": "wheelfor",
+  "description": "Decision wheel platform enabling AI agents to create, spin, and manage shareable randomized choice wheels.",
+  "source_repo": "wheelfor/mcp",
+  "source_url": "https://github.com/wheelfor/mcp",
+  "install": "# git clone --depth 1 https://github.com/wheelfor/mcp\n# See source for mcpServers config block"
+}

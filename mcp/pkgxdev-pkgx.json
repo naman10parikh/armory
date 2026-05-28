@@ -1,0 +1,7 @@
+{
+  "name": "pkgxdev-pkgx",
+  "description": "Provides secure access to thousands of open-source command-line tools through pkgx, executing commands in a sandboxed environment that prevents unauthorized filesystem modifications.",
+  "source_repo": "pkgxdev/mcp",
+  "source_url": "https://github.com/pkgxdev/mcp",
+  "install": "# git clone --depth 1 https://github.com/pkgxdev/mcp\n# See source for mcpServers config block"
+}

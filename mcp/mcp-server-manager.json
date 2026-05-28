@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-manager",
+  "description": "Mcp Server Manager MCP server listed on mcp.so.",
+  "source_repo": "OwenQian/mcp-server-manager",
+  "source_url": "https://mcp.so/server/mcp-server-manager/OwenQian",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-manager/OwenQian\n# See source for mcpServers config block"
+}

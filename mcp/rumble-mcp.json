@@ -1,0 +1,7 @@
+{
+  "name": "rumble-mcp",
+  "description": "Provides AI assistants with access to TheRumble.app investment research data for the Egyptian stock market (EGX), including fundamental calls, technical calls, track records, and portfolios.",
+  "source_repo": "AndrewHossam/rumble-mcp",
+  "source_url": "https://github.com/AndrewHossam/rumble-mcp",
+  "install": "npx -y rumble-mcp"
+}

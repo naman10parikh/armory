@@ -1,0 +1,7 @@
+{
+  "name": "tradercjz-dolphindb",
+  "description": "Provides a bridge between DolphinDB time-series database and natural language interaction, enabling data querying and manipulation without complex database code for financial analysts and data scientists.",
+  "source_repo": "tradercjz/dolphindb-mcp-server",
+  "source_url": "https://github.com/tradercjz/dolphindb-mcp-server",
+  "install": "npx -y dolphindb-mcp-server"
+}

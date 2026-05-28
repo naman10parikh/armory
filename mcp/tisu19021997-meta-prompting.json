@@ -1,0 +1,7 @@
+{
+  "name": "tisu19021997-meta-prompting",
+  "description": "Transforms language models into dynamic multi-agent systems where the model alternates between a Conductor role that breaks down complex problems into subtasks and specialized Expert roles that execute each subtask, enabling structured multi-perspective reasoning and self-critique for robust problem-solving workflows.",
+  "source_repo": "tisu19021997/meta-prompt-mcp-server",
+  "source_url": "https://github.com/tisu19021997/meta-prompt-mcp-server",
+  "install": "npx -y meta-prompt-mcp-server"
+}

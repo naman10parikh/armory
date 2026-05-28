@@ -1,0 +1,7 @@
+{
+  "name": "samuraikun-aws-s3",
+  "description": "Provides direct access to Amazon S3 storage for listing buckets, browsing objects, and retrieving file contents with automatic text extraction from PDFs and other file types.",
+  "source_repo": "samuraikun/aws-s3-mcp",
+  "source_url": "https://github.com/samuraikun/aws-s3-mcp",
+  "install": "npx -y aws-s3-mcp"
+}

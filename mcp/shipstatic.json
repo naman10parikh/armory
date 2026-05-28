@@ -1,0 +1,7 @@
+{
+  "name": "shipstatic",
+  "description": "Deploy and manage static sites with deployment uploads, domain management, and DNS configuration.",
+  "source_repo": "shipstatic/mcp",
+  "source_url": "https://github.com/shipstatic/mcp",
+  "install": "# git clone --depth 1 https://github.com/shipstatic/mcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zleventer-salesforce-marketing-mcp",
+  "description": "Salesforce MCP server built for marketing and revenue ops teams. 47 tools for leads, contacts, accounts, campaigns, campaign members, tasks, and 17 reporting tools including campaign ROI, lead-source attribution, pipeline-by-campaign, multi-touch campaign influence, MQL trend, forecast summary, and the native SFDC Reports API.",
+  "source_repo": "ZLeventer/salesforce-marketing-mcp",
+  "source_url": "https://github.com/ZLeventer/salesforce-marketing-mcp",
+  "install": "npx -y salesforce-marketing-mcp"
+}

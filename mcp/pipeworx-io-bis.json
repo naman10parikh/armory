@@ -1,0 +1,7 @@
+{
+  "name": "pipeworx-io-bis",
+  "description": "Bank for International Settlements statistics — central bank rates, FX, banking, and credit data via the Pipeworx gateway.",
+  "source_repo": "pipeworx-io/mcp-bis",
+  "source_url": "https://github.com/pipeworx-io/mcp-bis",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-bis\n# See source for mcpServers config block"
+}

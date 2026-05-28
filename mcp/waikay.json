@@ -1,0 +1,7 @@
+{
+  "name": "waikay",
+  "description": "MCP server for the Waikay brand visibility API, tracking brand mentions across ChatGPT, Claude, Gemini, and Perplexity with competitive analysis.",
+  "source_repo": "dixonjones/waikay-mcp",
+  "source_url": "https://github.com/dixonjones/waikay-mcp",
+  "install": "npx -y waikay-mcp"
+}

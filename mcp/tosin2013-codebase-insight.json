@@ -1,0 +1,7 @@
+{
+  "name": "tosin2013-codebase-insight",
+  "description": "Provides deep code analysis capabilities for software repositories, enabling pattern detection, architecture understanding, and knowledge management through a FastAPI server with Qdrant vector database integration.",
+  "source_repo": "tosin2013/mcp-codebase-insight",
+  "source_url": "https://github.com/tosin2013/mcp-codebase-insight",
+  "install": "# git clone --depth 1 https://github.com/tosin2013/mcp-codebase-insight\n# See source for mcpServers config block"
+}

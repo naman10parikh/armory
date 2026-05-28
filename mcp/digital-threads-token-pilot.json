@@ -1,0 +1,7 @@
+{
+  "name": "digital-threads-token-pilot",
+  "description": "Token-efficient code reading via AST-aware structural analysis with up to 80% token savings.",
+  "source_repo": "digital-threads/token-pilot",
+  "source_url": "https://github.com/digital-threads/token-pilot",
+  "install": "# git clone --depth 1 https://github.com/digital-threads/token-pilot\n# See source for mcpServers config block"
+}

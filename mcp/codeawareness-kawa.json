@@ -1,0 +1,7 @@
+{
+  "name": "codeawareness-kawa",
+  "description": "Tracks development intent, records architectural decisions, and maintains persistent AI reasoning context across coding sessions.",
+  "source_repo": "codeawareness/kawa.mcp",
+  "source_url": "https://github.com/codeawareness/kawa.mcp",
+  "install": "# git clone --depth 1 https://github.com/codeawareness/kawa.mcp\n# See source for mcpServers config block"
+}

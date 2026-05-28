@@ -1,0 +1,7 @@
+{
+  "name": "gh-rafapra3008-lingua-universale",
+  "description": "Verification language for AI agent communication protocols with formal proofs, session type checking, and runtime enforcement.",
+  "source_repo": "rafapra3008/cervellaswarm",
+  "source_url": "https://github.com/rafapra3008/cervellaswarm/tree/HEAD/lu-mcp-server",
+  "install": "# git clone --depth 1 https://github.com/rafapra3008/cervellaswarm/tree/HEAD/lu-mcp-server\n# See source for mcpServers config block"
+}

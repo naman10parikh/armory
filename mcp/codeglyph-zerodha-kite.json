@@ -1,0 +1,7 @@
+{
+  "name": "codeglyph-zerodha-kite",
+  "description": "Integrates with Zerodha Kite API to execute stock trades, monitor portfolios, and access real-time market data across NSE, BSE, and derivative exchanges for automated trading and investment strategies in the Indian stock market.",
+  "source_repo": "linkwithjoydeep/kite-mcp",
+  "source_url": "https://github.com/linkwithjoydeep/kite-mcp",
+  "install": "npx -y kite-mcp"
+}

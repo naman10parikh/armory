@@ -1,0 +1,7 @@
+{
+  "name": "decixa",
+  "description": "Discover and select APIs by capability from a catalog of 20,000+ endpoints.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/decixa",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/decixa\n# See source for mcpServers config block"
+}

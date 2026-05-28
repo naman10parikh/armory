@@ -1,0 +1,7 @@
+{
+  "name": "oijusti-k8s-port-forward",
+  "description": "Kubernetes port forwarding management for services and pods with lifecycle control.",
+  "source_repo": "oijusti/k8s-port-forward-mcp",
+  "source_url": "https://github.com/oijusti/k8s-port-forward-mcp",
+  "install": "npx -y k8s-port-forward-mcp"
+}

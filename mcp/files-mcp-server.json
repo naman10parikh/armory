@@ -1,0 +1,7 @@
+{
+  "name": "files-mcp-server",
+  "description": "An MCP server for local testing that enables file management operations, requiring authentication via Microsoft identity platform credentials.",
+  "source_repo": "SimformSolutionsPvtLtd/files-mcp-server",
+  "source_url": "https://github.com/SimformSolutionsPvtLtd/files-mcp-server",
+  "install": "npx -y files-mcp-server"
+}

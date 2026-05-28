@@ -1,0 +1,7 @@
+{
+  "name": "gh-bolivian-peru-baozi",
+  "description": "Interact with Solana prediction markets on Baozi.bet — 68 trading and market tools.",
+  "source_repo": "bolivian-peru/baozi-mcp",
+  "source_url": "https://github.com/bolivian-peru/baozi-mcp",
+  "install": "npx -y baozi-mcp"
+}

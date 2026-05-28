@@ -1,0 +1,7 @@
+{
+  "name": "odoo-mcp-server-2",
+  "description": "Provides read-only access to Odoo databases via OdooRPC, allowing AI assistants to query and analyze Odoo data through the MCP protocol.",
+  "source_repo": "benagricola/odoo-mcp",
+  "source_url": "https://github.com/benagricola/odoo-mcp",
+  "install": "npx -y odoo-mcp"
+}

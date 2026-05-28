@@ -1,0 +1,7 @@
+{
+  "name": "kevinswint-xcode-studio-mcp",
+  "description": "Unified MCP server for iOS development — build, run, screenshot, and interact with iOS Simulator.",
+  "source_repo": "kevinswint/xcode-studio-mcp",
+  "source_url": "https://github.com/kevinswint/xcode-studio-mcp",
+  "install": "npx -y xcode-studio-mcp"
+}

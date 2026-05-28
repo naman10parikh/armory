@@ -1,0 +1,7 @@
+{
+  "name": "siva010928-multi-chat",
+  "description": "Integrates with Google Chat API to send messages, search conversations, manage spaces, and retrieve user information with OAuth 2.0 authentication, automatic token refresh, and multiple search modes including regex, substring, and semantic similarity matching.",
+  "source_repo": "siva010928/multi-chat-mcp-server",
+  "source_url": "https://github.com/siva010928/multi-chat-mcp-server",
+  "install": "npx -y multi-chat-mcp-server"
+}

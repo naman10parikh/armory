@@ -1,0 +1,7 @@
+{
+  "name": "red-hat-lightspeed-mcp",
+  "description": "A lightweight, self-hosted MCP server that connects LLM-based agents to Red Hat Lightspeed services, enabling natural language querying of read-only (and optionally write) operations across Advisor, Image Builder, Inventory, Planning, Remediations, and Vulnerability services.",
+  "source_repo": "RedHatInsights/insights-mcp",
+  "source_url": "https://github.com/RedHatInsights/insights-mcp",
+  "install": "npx -y insights-mcp"
+}

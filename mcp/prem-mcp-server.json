@@ -1,0 +1,7 @@
+{
+  "name": "prem-mcp-server",
+  "description": "Prem Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ucalyptus/prem-mcp-server",
+  "source_url": "https://mcp.so/server/prem-mcp-server/ucalyptus",
+  "install": "npx -y prem-mcp-server"
+}

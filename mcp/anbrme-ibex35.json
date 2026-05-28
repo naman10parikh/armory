@@ -1,0 +1,7 @@
+{
+  "name": "anbrme-ibex35",
+  "description": "Integrates with Spanish stock market data sources to provide real-time IBEX 35 market data, corporate governance information, board director networks, shareholder positions, EU lobbying activities, news sentiment analysis, and investment risk assessment with natural language query processing and company comparison capabilities.",
+  "source_repo": "anbrme/ibex35-mcp-server",
+  "source_url": "https://github.com/anbrme/ibex35-mcp-server",
+  "install": "npx -y ibex35-mcp-server"
+}

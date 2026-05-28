@@ -1,0 +1,7 @@
+{
+  "name": "acatome-quest-mcp",
+  "description": "An MCP server that resolves paper requests (DOI, arXiv, etc.), checks a local store, fetches open-access PDFs, and returns request IDs. It integrates with acatome-extract for ingestion and provides tools for submission, status, update, and file upload.",
+  "source_repo": "retospect/acatome-quest-mcp",
+  "source_url": "https://github.com/retospect/acatome-quest-mcp",
+  "install": "npx -y acatome-quest-mcp"
+}

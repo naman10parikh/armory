@@ -1,0 +1,7 @@
+{
+  "name": "serverless-mcp-server",
+  "description": "A minimal, production-ready MCP server running on AWS Lambda with Streamable HTTP transport, enabling deployment of custom tools behind API Gateway.",
+  "source_repo": "goodandco/aws-serverless-mcp-server",
+  "source_url": "https://github.com/goodandco/aws-serverless-mcp-server",
+  "install": "npx -y aws-serverless-mcp-server"
+}

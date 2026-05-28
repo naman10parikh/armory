@@ -1,0 +1,7 @@
+{
+  "name": "expressionsbot-windows-speech",
+  "description": "Integrates with Windows speech services to enable text-to-speech and speech-to-text capabilities using native system features and PowerShell commands.",
+  "source_repo": "thelucidtech/ms-lucidia-voice-gateway-mcp",
+  "source_url": "https://github.com/thelucidtech/ms-lucidia-voice-gateway-mcp",
+  "install": "npx -y ms-lucidia-voice-gateway-mcp"
+}

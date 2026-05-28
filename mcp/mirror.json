@@ -1,0 +1,7 @@
+{
+  "name": "mirror",
+  "description": "Gives Claude an honest self-model built from behavioral evidence, capturing persistent tendencies across sessions.",
+  "source_repo": "",
+  "source_url": "https://mirror.mctx.ai/v0.4.0",
+  "install": "# git clone --depth 1 https://mirror.mctx.ai/v0.4.0\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jacobgoren-workato",
+  "description": "Integrates with Workato's automation platform API to enable management of integration recipes, connections, and workflows directly from conversations without switching contexts.",
+  "source_repo": "jacobgoren-sb/workato-mcp-server",
+  "source_url": "https://github.com/jacobgoren-sb/workato-mcp-server",
+  "install": "npx -y workato-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "softvoyagers-pageshot-api",
+  "description": "Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.",
+  "source_repo": "softvoyagers/pageshot-api",
+  "source_url": "https://github.com/softvoyagers/pageshot-api",
+  "install": "# git clone --depth 1 https://github.com/softvoyagers/pageshot-api\n# See source for mcpServers config block"
+}

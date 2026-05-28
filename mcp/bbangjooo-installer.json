@@ -1,0 +1,7 @@
+{
+  "name": "bbangjooo-installer",
+  "description": "Streamlines MCP server discovery and installation by integrating with the Smithery registry to search available servers, collect configuration requirements, and generate automated installation commands for various development environments.",
+  "source_repo": "bbangjooo/mcp-installer",
+  "source_url": "https://github.com/bbangjooo/mcp-installer",
+  "install": "# git clone --depth 1 https://github.com/bbangjooo/mcp-installer\n# See source for mcpServers config block"
+}

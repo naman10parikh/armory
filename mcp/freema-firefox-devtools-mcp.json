@@ -1,0 +1,7 @@
+{
+  "name": "freema-firefox-devtools-mcp",
+  "description": "Firefox browser automation via WebDriver BiDi for testing, scraping, and browser control. Supports snapshot/UID-based interactions, network monitoring, console capture, and screenshots.",
+  "source_repo": "freema/firefox-devtools-mcp",
+  "source_url": "https://github.com/freema/firefox-devtools-mcp",
+  "install": "npx -y firefox-devtools-mcp"
+}

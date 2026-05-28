@@ -1,0 +1,7 @@
+{
+  "name": "spizzerp-ows-mesh",
+  "description": "Decentralized marketplace for AI agents to discover and pay for MCP tools via cryptocurrency micropayments.",
+  "source_repo": "spizzerp/ows-mcp-mesh",
+  "source_url": "https://github.com/spizzerp/ows-mcp-mesh",
+  "install": "# git clone --depth 1 https://github.com/spizzerp/ows-mcp-mesh\n# See source for mcpServers config block"
+}

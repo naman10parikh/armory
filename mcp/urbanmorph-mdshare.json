@@ -1,0 +1,7 @@
+{
+  "name": "urbanmorph-mdshare",
+  "description": "Free markdown sharing service for uploading content, generating shareable links, and collaborating without login.",
+  "source_repo": "urbanmorph/mdshare",
+  "source_url": "https://github.com/urbanmorph/mdshare",
+  "install": "# git clone --depth 1 https://github.com/urbanmorph/mdshare\n# See source for mcpServers config block"
+}

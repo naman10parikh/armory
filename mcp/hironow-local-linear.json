@@ -1,0 +1,7 @@
+{
+  "name": "hironow-local-linear",
+  "description": "Local issue tracking system with SQLite database providing Linear-compatible project management including issues, teams, milestones, and full-text search.",
+  "source_repo": "hironow/wandb-hackathon-demo",
+  "source_url": "https://github.com/hironow/wandb-hackathon-demo/tree/HEAD/apps/local-issues",
+  "install": "# git clone --depth 1 https://github.com/hironow/wandb-hackathon-demo/tree/HEAD/apps/local-issues\n# See source for mcpServers config block"
+}

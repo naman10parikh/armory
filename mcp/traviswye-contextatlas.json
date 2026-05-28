@@ -1,0 +1,7 @@
+{
+  "name": "traviswye-contextatlas",
+  "description": "Pre-computed codebase atlas for Claude Code combining LSP, ADRs, and git for 45-72% token reduction.",
+  "source_repo": "traviswye/contextatlas",
+  "source_url": "https://github.com/traviswye/contextatlas",
+  "install": "# git clone --depth 1 https://github.com/traviswye/contextatlas\n# See source for mcpServers config block"
+}

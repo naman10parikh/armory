@@ -1,0 +1,7 @@
+{
+  "name": "smart-financial-mcp",
+  "description": "Provides AI assistants with real-time and historical Chinese stock, ETF, index, and futures data via Tushare Pro API, enabling natural language queries for financial analysis and market monitoring.",
+  "source_repo": "YUHAI0/smart-financial-mcp",
+  "source_url": "https://github.com/YUHAI0/smart-financial-mcp",
+  "install": "npx -y smart-financial-mcp"
+}

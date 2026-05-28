@@ -1,0 +1,7 @@
+{
+  "name": "zeph-gh-docx-processor",
+  "description": "Processes DOCX documents to extract text, convert to HTML/Markdown with preserved formatting, analyze document structure, and extract embedded images for content migration and document processing workflows.",
+  "source_repo": "zeph-gh/docx-mcp-server",
+  "source_url": "https://github.com/zeph-gh/docx-mcp-server",
+  "install": "npx -y docx-mcp-server"
+}

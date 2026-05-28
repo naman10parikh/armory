@@ -1,0 +1,7 @@
+{
+  "name": "gh-stepankaiser-ccphoto",
+  "description": "Bridges phone cameras to Claude Code over a local network for capturing photos, receiving images, and streaming video.",
+  "source_repo": "stepankaiser/ccphoto",
+  "source_url": "https://github.com/stepankaiser/ccphoto",
+  "install": "# git clone --depth 1 https://github.com/stepankaiser/ccphoto\n# See source for mcpServers config block"
+}

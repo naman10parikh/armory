@@ -1,0 +1,7 @@
+{
+  "name": "shivay-couchbase-vector-search-star-wars-planets",
+  "description": "Integrates Couchbase vector search for semantic similarity queries on Star Wars planet data.",
+  "source_repo": "shivaycb/couchbase-mcp",
+  "source_url": "https://github.com/shivaycb/couchbase-mcp",
+  "install": "npx -y couchbase-mcp"
+}

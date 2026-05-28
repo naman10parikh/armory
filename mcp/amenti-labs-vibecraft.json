@@ -1,0 +1,7 @@
+{
+  "name": "amenti-labs-vibecraft",
+  "description": "AI-powered WorldEdit for Minecraft with 50+ tools for natural language building, terrain generation, and pattern placement",
+  "source_repo": "amenti-labs/vibecraft",
+  "source_url": "https://github.com/amenti-labs/vibecraft",
+  "install": "# git clone --depth 1 https://github.com/amenti-labs/vibecraft\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mikusnuz-pexbot",
+  "description": "Simulated crypto trading with real-time Upbit prices and autonomous trading modes.",
+  "source_repo": "mikusnuz/pexbot-mcp",
+  "source_url": "https://github.com/mikusnuz/pexbot-mcp",
+  "install": "npx -y pexbot-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "openapi-fetch-mcp",
+  "description": "A CLI tool that registers OpenAPI GET endpoints as MCP tools, enabling API requests via MCP clients like Cursor.",
+  "source_repo": "makomori/openapi-fetch-mcp",
+  "source_url": "https://github.com/makomori/openapi-fetch-mcp",
+  "install": "npx -y openapi-fetch-mcp"
+}

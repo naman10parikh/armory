@@ -1,0 +1,7 @@
+{
+  "name": "pinkpixel-taskflow",
+  "description": "Task management system that breaks down user requests into structured tasks with subtasks, dependencies, and notes, requiring explicit approval before proceeding to ensure systematic tracking and user control.",
+  "source_repo": "pinkpixel-dev/taskflow-mcp",
+  "source_url": "https://github.com/pinkpixel-dev/taskflow-mcp",
+  "install": "npx -y taskflow-mcp"
+}

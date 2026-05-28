@@ -1,0 +1,7 @@
+{
+  "name": "great-question",
+  "description": "Run user research from AI tools — create studies, recruit participants, and query insights via MCP.",
+  "source_repo": "greatquestion/mcp",
+  "source_url": "https://github.com/greatquestion/mcp",
+  "install": "# git clone --depth 1 https://github.com/greatquestion/mcp\n# See source for mcpServers config block"
+}

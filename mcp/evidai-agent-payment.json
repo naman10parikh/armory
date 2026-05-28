@@ -1,0 +1,7 @@
+{
+  "name": "evidai-agent-payment",
+  "description": "Pay-per-call USDC micropayments for any HTTP API with kill switch and spend limits.",
+  "source_repo": "evidai/agent-payment-mcp",
+  "source_url": "https://github.com/evidai/agent-payment-mcp/tree/HEAD/mcp-server",
+  "install": "npx -y agent-payment-mcp"
+}

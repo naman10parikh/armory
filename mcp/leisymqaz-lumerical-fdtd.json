@@ -1,0 +1,7 @@
+{
+  "name": "leisymqaz-lumerical-fdtd",
+  "description": "Bridges Ansys Lumerical FDTD photonic simulation software with MCP clients for AI-assisted photonic design.",
+  "source_repo": "leisymqaz/lumerical-fdtd-mcp",
+  "source_url": "https://github.com/leisymqaz/lumerical-fdtd-mcp",
+  "install": "npx -y lumerical-fdtd-mcp"
+}

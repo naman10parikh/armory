@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-cron-parser",
+  "description": "Parses and validates cron expressions, explains them in plain language, and calculates upcoming run times.",
+  "source_repo": "br0ski777/cron-parser-x402",
+  "source_url": "https://github.com/br0ski777/cron-parser-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/cron-parser-x402\n# See source for mcpServers config block"
+}

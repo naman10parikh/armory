@@ -1,0 +1,7 @@
+{
+  "name": "braintree-mcp-server",
+  "description": "Enables AI systems to interact with PayPal Braintree payment processing, allowing them to fetch transactions, create payments, and manage customer data via MCP tools.",
+  "source_repo": "QuentinCody/braintree-mcp-server",
+  "source_url": "https://github.com/QuentinCody/braintree-mcp-server",
+  "install": "npx -y braintree-mcp-server"
+}

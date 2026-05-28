@@ -1,0 +1,7 @@
+{
+  "name": "imdinu-apple-mail",
+  "description": "Fast Apple Mail integration with batch JXA and FTS5 search index.",
+  "source_repo": "imdinu/apple-mail-mcp",
+  "source_url": "https://github.com/imdinu/apple-mail-mcp",
+  "install": "npx -y apple-mail-mcp"
+}

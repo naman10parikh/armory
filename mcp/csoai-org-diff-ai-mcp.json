@@ -1,0 +1,7 @@
+{
+  "name": "csoai-org-diff-ai-mcp",
+  "description": "Tools for computing, visualizing, and analyzing code and text differences.",
+  "source_repo": "csoai-org/diff-ai-mcp",
+  "source_url": "https://github.com/csoai-org/diff-ai-mcp",
+  "install": "npx -y diff-ai-mcp"
+}

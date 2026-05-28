@@ -1,0 +1,7 @@
+{
+  "name": "tzafrir-replicate",
+  "description": "Integrates with Replicate to provide access to AI models for image generation, with features like parameter customization and output resizing.",
+  "source_repo": "tzafrir/mcp-server-replicate",
+  "source_url": "https://github.com/tzafrir/mcp-server-replicate",
+  "install": "# git clone --depth 1 https://github.com/tzafrir/mcp-server-replicate\n# See source for mcpServers config block"
+}

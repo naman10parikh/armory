@@ -1,0 +1,7 @@
+{
+  "name": "universal-netlist-mcp-server",
+  "description": "This MCP server enables AI agents to understand and analyze electrical schematics from Cadence and Altium for comprehensive design reviews through natural conversations.",
+  "source_repo": "IntelligentElectron/universal-netlist",
+  "source_url": "https://github.com/IntelligentElectron/universal-netlist",
+  "install": "# git clone --depth 1 https://github.com/IntelligentElectron/universal-netlist\n# See source for mcpServers config block"
+}

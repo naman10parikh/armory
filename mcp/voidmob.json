@@ -1,0 +1,7 @@
+{
+  "name": "voidmob",
+  "description": "Mobile proxies, non-VoIP SMS verifications, and global eSIM data plans with 18 tools for proxy management, number rental, and wallet operations.",
+  "source_repo": "voidmobcom/voidmob-mcp",
+  "source_url": "https://github.com/voidmobcom/voidmob-mcp",
+  "install": "npx -y voidmob-mcp"
+}

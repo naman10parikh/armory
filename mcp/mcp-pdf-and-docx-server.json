@@ -1,0 +1,7 @@
+{
+  "name": "mcp-pdf-and-docx-server",
+  "description": "Provides tools to read PDFs, extract images, convert between PDF and DOCX, create DOCX from text, and generate PDFs from DOCX, text, or HTML.",
+  "source_repo": "iduryodhanrao/MCP",
+  "source_url": "https://github.com/iduryodhanrao/MCP",
+  "install": "# git clone --depth 1 https://github.com/iduryodhanrao/MCP\n# See source for mcpServers config block"
+}

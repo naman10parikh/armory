@@ -1,0 +1,7 @@
+{
+  "name": "arm",
+  "description": "Code migration, optimization, and architecture guidance for Arm development",
+  "source_repo": "arm/mcp",
+  "source_url": "https://github.com/arm/mcp",
+  "install": "# git clone --depth 1 https://github.com/arm/mcp\n# See source for mcpServers config block"
+}

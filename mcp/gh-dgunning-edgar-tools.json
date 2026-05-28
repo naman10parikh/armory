@@ -1,0 +1,7 @@
+{
+  "name": "gh-dgunning-edgar-tools",
+  "description": "Open-source SEC EDGAR toolkit with tools for every filing type and no API key required.",
+  "source_repo": "dgunning/edgartools",
+  "source_url": "https://github.com/dgunning/edgartools",
+  "install": "# git clone --depth 1 https://github.com/dgunning/edgartools\n# See source for mcpServers config block"
+}

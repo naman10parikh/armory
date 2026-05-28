@@ -1,0 +1,7 @@
+{
+  "name": "holdmybeer-gg-desktop-gui",
+  "description": "Cross-platform desktop GUI automation via OS-native accessibility APIs on macOS, Linux, and Windows.",
+  "source_repo": "holdmybeer-gg/bad-ass-mcp",
+  "source_url": "https://github.com/holdmybeer-gg/bad-ass-mcp",
+  "install": "npx -y bad-ass-mcp"
+}

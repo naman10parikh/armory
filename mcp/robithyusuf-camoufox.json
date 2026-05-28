@@ -1,0 +1,7 @@
+{
+  "name": "robithyusuf-camoufox",
+  "description": "Stealth browser automation using anti-fingerprinting Camoufox (patched Firefox) for navigation, interaction, and bot-detection bypass.",
+  "source_repo": "robithyusuf/mcp-camoufox",
+  "source_url": "https://github.com/robithyusuf/mcp-camoufox",
+  "install": "# git clone --depth 1 https://github.com/robithyusuf/mcp-camoufox\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "screener-in-mcp-server",
+  "description": "Screener.In MCP Server MCP server listed on mcp.so.",
+  "source_repo": "minhaj3/screener.in-MCP-server",
+  "source_url": "https://mcp.so/server/screener.in-MCP-server/minhaj3",
+  "install": "npx -y screener.in-MCP-server"
+}

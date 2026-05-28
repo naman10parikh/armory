@@ -1,0 +1,7 @@
+{
+  "name": "xlmcp",
+  "description": "Enables Claude Code to interact with Jupyter notebooks, perform semantic search over knowledge files, and manage research projects.",
+  "source_repo": "xLydianSoftware/aix",
+  "source_url": "https://github.com/xLydianSoftware/aix",
+  "install": "# git clone --depth 1 https://github.com/xLydianSoftware/aix\n# See source for mcpServers config block"
+}

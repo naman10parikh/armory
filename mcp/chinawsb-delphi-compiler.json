@@ -1,0 +1,7 @@
+{
+  "name": "chinawsb-delphi-compiler",
+  "description": "Compiles Delphi projects and Pascal files using locally installed compilers with multi-version support and build history tracking.",
+  "source_repo": "chinawsb/daofy",
+  "source_url": "https://github.com/chinawsb/daofy",
+  "install": "# git clone --depth 1 https://github.com/chinawsb/daofy\n# See source for mcpServers config block"
+}

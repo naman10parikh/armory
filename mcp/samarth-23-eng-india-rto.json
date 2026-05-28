@@ -1,0 +1,7 @@
+{
+  "name": "samarth-23-eng-india-rto",
+  "description": "Indian vehicle RTO services: number plate decoding, road tax, and office lookup.",
+  "source_repo": "samarth-23-eng/india-mcp",
+  "source_url": "https://github.com/samarth-23-eng/india-mcp",
+  "install": "npx -y india-mcp"
+}

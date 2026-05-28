@@ -1,0 +1,7 @@
+{
+  "name": "phialsbasement-webresearch-stealthified",
+  "description": "Enables AI web browsing through Google search, webpage extraction, and screenshot capture tools with session management for in-depth online research and content analysis.",
+  "source_repo": "phialsbasement/mcp-webresearch-stealthified",
+  "source_url": "https://github.com/phialsbasement/mcp-webresearch-stealthified",
+  "install": "# git clone --depth 1 https://github.com/phialsbasement/mcp-webresearch-stealthified\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "getmcpm-mcpm",
+  "description": "Package manager with trust scoring for searching, installing, and auditing MCP servers.",
+  "source_repo": "getmcpm/cli",
+  "source_url": "https://github.com/getmcpm/cli",
+  "install": "# git clone --depth 1 https://github.com/getmcpm/cli\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "xiaoluotian189-bt-panel",
+  "description": "Integrates with BT Panel (宝塔面板), a Chinese web hosting control panel, to manage server infrastructure including MySQL databases, Docker containers, email configuration, file operations, website management, and system monitoring through HTTP API.",
+  "source_repo": "xiaoluotian189/ezbt-mcp",
+  "source_url": "https://github.com/xiaoluotian189/ezbt-mcp",
+  "install": "npx -y ezbt-mcp"
+}

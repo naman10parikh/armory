@@ -1,0 +1,7 @@
+{
+  "name": "trayders-trayd",
+  "description": "Trade Robinhood stocks through natural language conversation.",
+  "source_repo": "trayders/trayd-mcp",
+  "source_url": "https://github.com/trayders/trayd-mcp",
+  "install": "npx -y trayd-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "saiprashanths-code-analysis",
+  "description": "Integrates code analysis with scraping capabilities to enable code review, static analysis, and automated refactoring suggestions for development teams.",
+  "source_repo": "saiprashanths/code-analysis-mcp",
+  "source_url": "https://github.com/saiprashanths/code-analysis-mcp",
+  "install": "npx -y code-analysis-mcp"
+}

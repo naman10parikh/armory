@@ -1,0 +1,7 @@
+{
+  "name": "adhikasp-twikit",
+  "description": "Integrates with Twitter to enable search, timeline viewing, tweet posting, and direct messaging capabilities through the Twikit library with built-in rate limiting and markdown formatting.",
+  "source_repo": "zo-valentine/mcp-twikit",
+  "source_url": "https://github.com/zo-valentine/mcp-twikit",
+  "install": "# git clone --depth 1 https://github.com/zo-valentine/mcp-twikit\n# See source for mcpServers config block"
+}

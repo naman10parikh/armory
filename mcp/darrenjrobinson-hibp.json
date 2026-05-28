@@ -1,0 +1,7 @@
+{
+  "name": "darrenjrobinson-hibp",
+  "description": "Query Have I Been Pwned breach data, check compromised passwords, and search paste dumps for exposed email addresses.",
+  "source_repo": "darrenjrobinson/hibp-mcp-server",
+  "source_url": "https://github.com/darrenjrobinson/hibp-mcp-server",
+  "install": "npx -y hibp-mcp-server"
+}

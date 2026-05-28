@@ -1,0 +1,7 @@
+{
+  "name": "claude-historian",
+  "description": "Provides intelligent search capabilities across Claude Code conversation history with specialized tools for conversation search, file context discovery, error solution patterns, and session management through JSONL log parsing and AI-enhanced query expansion.",
+  "source_repo": "vvkmnn/claude-historian-mcp",
+  "source_url": "https://github.com/vvkmnn/claude-historian-mcp",
+  "install": "npx -y claude-historian-mcp"
+}

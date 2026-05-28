@@ -1,0 +1,7 @@
+{
+  "name": "relevanceai-mcp-server",
+  "description": "Relevanceai Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "RelevanceAI/relevanceai-mcp-server",
+  "source_url": "https://mcp.so/server/relevanceai-mcp-server/RelevanceAI",
+  "install": "npx -y relevanceai-mcp-server"
+}

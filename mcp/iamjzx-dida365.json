@@ -1,0 +1,7 @@
+{
+  "name": "iamjzx-dida365",
+  "description": "Integrates with Dida365 (TickTick) task management API to create, update, retrieve, and delete tasks and projects after user authorization.",
+  "source_repo": "iamjzx/dida",
+  "source_url": "https://github.com/iamjzx/dida",
+  "install": "# git clone --depth 1 https://github.com/iamjzx/dida\n# See source for mcpServers config block"
+}

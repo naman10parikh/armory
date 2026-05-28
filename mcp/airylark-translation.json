@@ -1,0 +1,7 @@
+{
+  "name": "airylark-translation",
+  "description": "Provides multilingual translation capabilities for applications by integrating with external translation APIs through a containerized Node.js server.",
+  "source_repo": "wizd/airylark-mcp-server",
+  "source_url": "https://github.com/wizd/airylark-mcp-server",
+  "install": "npx -y airylark-mcp-server"
+}

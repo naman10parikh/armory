@@ -1,0 +1,7 @@
+{
+  "name": "blender",
+  "description": "Blender MCP server listed on mcp.so.",
+  "source_repo": "ahujasid/blender",
+  "source_url": "https://mcp.so/server/blender/ahujasid",
+  "install": "# git clone --depth 1 https://mcp.so/server/blender/ahujasid\n# See source for mcpServers config block"
+}

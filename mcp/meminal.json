@@ -1,0 +1,7 @@
+{
+  "name": "meminal",
+  "description": "Memory for deep conversational context across any platform",
+  "source_repo": "",
+  "source_url": "https://meminal.ai/mcp",
+  "install": "# git clone --depth 1 https://meminal.ai/mcp\n# See source for mcpServers config block"
+}

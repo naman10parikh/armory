@@ -1,0 +1,7 @@
+{
+  "name": "peterod99-nynch",
+  "description": "Access Nynch's relationship-led growth CRM with 42 tools for pipeline management, relationship intelligence, and multi-agent orchestration via API key authentication.",
+  "source_repo": "peterod99/nynch-mcp-server",
+  "source_url": "https://github.com/peterod99/nynch-mcp-server",
+  "install": "npx -y nynch-mcp-server"
+}

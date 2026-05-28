@@ -1,0 +1,7 @@
+{
+  "name": "qso-graph-sota",
+  "description": "Live spots, activation alerts, summit info, and nearby summits for SOTA operations.",
+  "source_repo": "qso-graph/sota-mcp",
+  "source_url": "https://github.com/qso-graph/sota-mcp",
+  "install": "npx -y sota-mcp"
+}

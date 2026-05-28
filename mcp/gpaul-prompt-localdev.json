@@ -1,0 +1,7 @@
+{
+  "name": "gpaul-prompt-localdev",
+  "description": "Provides a TypeScript-based development environment for creating, testing, and refining structured prompts locally before production deployment.",
+  "source_repo": "gpaul-mcp/mcp_prompt_localdev",
+  "source_url": "https://github.com/gpaul-mcp/mcp_prompt_localdev",
+  "install": "# git clone --depth 1 https://github.com/gpaul-mcp/mcp_prompt_localdev\n# See source for mcpServers config block"
+}

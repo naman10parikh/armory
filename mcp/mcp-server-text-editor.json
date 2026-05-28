@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-text-editor",
+  "description": "Mcp Server Text Editor MCP server listed on mcp.so.",
+  "source_repo": "bhouston/mcp-server-text-editor",
+  "source_url": "https://mcp.so/server/mcp-server-text-editor/bhouston",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-text-editor/bhouston\n# See source for mcpServers config block"
+}

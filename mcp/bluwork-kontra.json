@@ -1,0 +1,7 @@
+{
+  "name": "bluwork-kontra",
+  "description": "Structured contrarian analysis tool that stress-tests decisions across four modes: counter, probe, redteam, and premortem.",
+  "source_repo": "bluwork/kontra-mcp",
+  "source_url": "https://github.com/bluwork/kontra-mcp",
+  "install": "npx -y kontra-mcp"
+}

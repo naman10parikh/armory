@@ -1,0 +1,7 @@
+{
+  "name": "aimcp",
+  "description": "MCP server that distributes tool specifications from GitLab repositories to IDEs, dynamically generating MCP tools and serving files via aimcp:// URIs.",
+  "source_repo": "junqed/aimcp",
+  "source_url": "https://github.com/junqed/aimcp",
+  "install": "# git clone --depth 1 https://github.com/junqed/aimcp\n# See source for mcpServers config block"
+}

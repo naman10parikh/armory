@@ -1,0 +1,7 @@
+{
+  "name": "geli2001-reddit",
+  "description": "Integrates with Reddit's API to provide read-only access for searching posts, retrieving post details, fetching hot content, and gathering subreddit metadata for content research and trend analysis.",
+  "source_repo": "geli2001/reddit-mcp",
+  "source_url": "https://github.com/geli2001/reddit-mcp",
+  "install": "npx -y reddit-mcp"
+}

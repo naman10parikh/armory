@@ -1,0 +1,7 @@
+{
+  "name": "aiappsapi-adaptive-recall",
+  "description": "Provides adaptive memory and recall capabilities for AI workflows.",
+  "source_repo": "aiappsapi/adaptive-recall",
+  "source_url": "https://github.com/aiappsapi/adaptive-recall",
+  "install": "# git clone --depth 1 https://github.com/aiappsapi/adaptive-recall\n# See source for mcpServers config block"
+}

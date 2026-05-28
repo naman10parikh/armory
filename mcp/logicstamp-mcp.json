@@ -1,0 +1,7 @@
+{
+  "name": "logicstamp-mcp",
+  "description": "MCP server that provides AI assistants with structured access to codebases via LogicStamp Context, enabling component analysis, dependency graphs, drift detection, and token-optimized context delivery.",
+  "source_repo": "LogicStamp/logicstamp-mcp",
+  "source_url": "https://github.com/LogicStamp/logicstamp-mcp",
+  "install": "npx -y logicstamp-mcp"
+}

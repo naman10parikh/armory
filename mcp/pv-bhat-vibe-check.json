@@ -1,0 +1,7 @@
+{
+  "name": "pv-bhat-vibe-check",
+  "description": "The definitive Vibe Coder's sanity check MCP server: Upgrade your agent with self-aware oversight.",
+  "source_repo": "pv-bhat/vibe-check-mcp-server",
+  "source_url": "https://github.com/pv-bhat/vibe-check-mcp-server",
+  "install": "npx -y vibe-check-mcp-server"
+}

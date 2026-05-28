@@ -1,0 +1,7 @@
+{
+  "name": "suekou-notion-server",
+  "description": "Manage pages and databases in Notion workspaces.",
+  "source_repo": "suekou/mcp-notion-server",
+  "source_url": "https://github.com/suekou/mcp-notion-server",
+  "install": "# git clone --depth 1 https://github.com/suekou/mcp-notion-server\n# See source for mcpServers config block"
+}

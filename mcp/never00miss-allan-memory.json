@@ -1,0 +1,7 @@
+{
+  "name": "never00miss-allan-memory",
+  "description": "Persistent knowledge graph memory for AI coding assistants using FalkorDB, with optional offline mode via local Ollama models.",
+  "source_repo": "never00miss/allan-mcp-memory-code",
+  "source_url": "https://github.com/never00miss/allan-mcp-memory-code",
+  "install": "# git clone --depth 1 https://github.com/never00miss/allan-mcp-memory-code\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "nikitadatar-vectordecisions",
+  "description": "AI governance with GATRI trust scoring, kill-switch enforcement, and EU AI Act compliance.",
+  "source_repo": "nikitadatar/vectordecisions-mcp-server",
+  "source_url": "https://github.com/nikitadatar/vectordecisions-mcp-server",
+  "install": "npx -y vectordecisions-mcp-server"
+}

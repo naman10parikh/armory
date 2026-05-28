@@ -1,0 +1,7 @@
+{
+  "name": "mistral-ai-mcp",
+  "description": "MCP server for Mistral AI providing OCR, TTS, and STT capabilities via Voxtral.",
+  "source_repo": "tan-yong-sheng/mistral-ai-mcp",
+  "source_url": "https://github.com/tan-yong-sheng/mistral-ai-mcp",
+  "install": "npx -y mistral-ai-mcp"
+}

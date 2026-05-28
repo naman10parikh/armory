@@ -1,0 +1,7 @@
+{
+  "name": "br0ski777-funding-arb",
+  "description": "Identifies funding rate arbitrage opportunities across Hyperliquid, Binance, Bybit, and OKX perpetual markets.",
+  "source_repo": "br0ski777/funding-arb-x402",
+  "source_url": "https://github.com/br0ski777/funding-arb-x402",
+  "install": "# git clone --depth 1 https://github.com/br0ski777/funding-arb-x402\n# See source for mcpServers config block"
+}

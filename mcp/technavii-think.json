@@ -1,0 +1,7 @@
+{
+  "name": "technavii-think",
+  "description": "Enhances Claude's reasoning capabilities with OpenAI's o3-mini model for multi-step analysis of complex problems while maintaining variables throughout extended reasoning chains.",
+  "source_repo": "technavii/mcp_think",
+  "source_url": "https://github.com/technavii/mcp_think",
+  "install": "# git clone --depth 1 https://github.com/technavii/mcp_think\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mssql-agent-mcp",
+  "description": "Provides tools for querying and managing Microsoft SQL Server databases, including stored procedures and SQL Server Agent jobs as code with version control integration.",
+  "source_repo": "yyinhsu/mssql-agent-mcp",
+  "source_url": "https://github.com/yyinhsu/mssql-agent-mcp",
+  "install": "npx -y mssql-agent-mcp"
+}

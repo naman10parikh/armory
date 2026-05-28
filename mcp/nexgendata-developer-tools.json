@@ -1,0 +1,7 @@
+{
+  "name": "nexgendata-developer-tools",
+  "description": "Access developer tool data and integrations through Apify's web scraping platform.",
+  "source_repo": "",
+  "source_url": "https://apify.com/nexgendata/developer-tools-mcp-server",
+  "install": "# git clone --depth 1 https://apify.com/nexgendata/developer-tools-mcp-server\n# See source for mcpServers config block"
+}

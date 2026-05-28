@@ -1,0 +1,7 @@
+{
+  "name": "packetnomad-linear",
+  "description": "Integrates with Linear's issue tracking system for creating, retrieving, updating, and managing issues, comments, projects, and team workflows with advanced filtering capabilities.",
+  "source_repo": "packetnomad/linear-mcp",
+  "source_url": "https://github.com/packetnomad/linear-mcp",
+  "install": "npx -y linear-mcp"
+}

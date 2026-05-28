@@ -1,0 +1,7 @@
+{
+  "name": "embassy-of-the-free-mind-sourcelibrary-v2",
+  "description": "Search and cite rare historical texts (alchemy, Hermeticism, Renaissance philosophy) with DOI-backed academic citations from [Source Library](https://sourcelibrary.org)",
+  "source_repo": "Embassy-of-the-Free-Mind/sourcelibrary-v2",
+  "source_url": "https://github.com/Embassy-of-the-Free-Mind/sourcelibrary-v2/tree/main/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/Embassy-of-the-Free-Mind/sourcelibrary-v2/tree/main/mcp-server\n# See source for mcpServers config block"
+}

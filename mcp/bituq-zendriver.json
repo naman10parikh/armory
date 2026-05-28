@@ -1,0 +1,7 @@
+{
+  "name": "bituq-zendriver",
+  "description": "Undetectable browser automation MCP server using Chrome DevTools Protocol with bot detection bypass, token-efficient DOM, and 96+ tools.",
+  "source_repo": "bituq/zendriver-mcp",
+  "source_url": "https://github.com/bituq/zendriver-mcp",
+  "install": "npx -y zendriver-mcp"
+}

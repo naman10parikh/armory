@@ -1,0 +1,7 @@
+{
+  "name": "boorich-human-loop",
+  "description": "Facilitates human-in-the-loop processes for AI workflows, enabling seamless integration of human judgment in tasks like content moderation, complex problem-solving, and ethical AI implementations.",
+  "source_repo": "boorich/mcp-human-loop",
+  "source_url": "https://github.com/boorich/mcp-human-loop",
+  "install": "# git clone --depth 1 https://github.com/boorich/mcp-human-loop\n# See source for mcpServers config block"
+}

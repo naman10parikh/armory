@@ -1,0 +1,7 @@
+{
+  "name": "kenhendricks00-fmhy",
+  "description": "Search and browse the FMHY free media resource dataset by keyword, section, or URL.",
+  "source_repo": "kenhendricks00/fmhy-mcp",
+  "source_url": "https://github.com/kenhendricks00/fmhy-mcp",
+  "install": "npx -y fmhy-mcp"
+}

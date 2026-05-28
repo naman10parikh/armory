@@ -1,0 +1,7 @@
+{
+  "name": "swih-mistral",
+  "description": "Access Mistral AI models for chat, embeddings, vision, audio, and OCR via MCP.",
+  "source_repo": "swih/mistral-mcp",
+  "source_url": "https://github.com/swih/mistral-mcp",
+  "install": "npx -y mistral-mcp"
+}

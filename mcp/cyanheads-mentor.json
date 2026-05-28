@@ -1,0 +1,7 @@
+{
+  "name": "cyanheads-mentor",
+  "description": "Integrates with Deepseek API to provide AI-powered mentorship capabilities for code review, design critique, writing feedback, and idea brainstorming.",
+  "source_repo": "cyanheads/mentor-mcp-server",
+  "source_url": "https://github.com/cyanheads/mentor-mcp-server",
+  "install": "npx -y mentor-mcp-server"
+}

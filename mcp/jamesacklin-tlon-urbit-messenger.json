@@ -1,0 +1,7 @@
+{
+  "name": "jamesacklin-tlon-urbit-messenger",
+  "description": "Provides a bridge between Urbit's social networking services and conversational interfaces, enabling direct message communication with support for ship IDs and human-readable nicknames.",
+  "source_repo": "jamesacklin/tlon-mcp-server",
+  "source_url": "https://github.com/jamesacklin/tlon-mcp-server",
+  "install": "npx -y tlon-mcp-server"
+}

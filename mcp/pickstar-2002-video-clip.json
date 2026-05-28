@@ -1,0 +1,7 @@
+{
+  "name": "pickstar-2002-video-clip",
+  "description": "Provides FFmpeg-powered video processing capabilities for extracting clips from video files with batch processing support and flexible timestamp parsing.",
+  "source_repo": "pickstar-2002/video-clip-mcp",
+  "source_url": "https://github.com/pickstar-2002/video-clip-mcp",
+  "install": "npx -y video-clip-mcp"
+}

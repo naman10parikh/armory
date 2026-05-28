@@ -1,0 +1,7 @@
+{
+  "name": "sascodiego-knowledge-graph",
+  "description": "Builds and maintains a knowledge graph of code entities, relationships, and Git history using Kuzu database to provide codebase analysis, context-aware code generation, pattern detection, and Arduino-specific hardware analysis including pin configurations and memory usage estimation.",
+  "source_repo": "sascodiego/kgsmcp",
+  "source_url": "https://github.com/sascodiego/kgsmcp",
+  "install": "# git clone --depth 1 https://github.com/sascodiego/kgsmcp\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hitesh34745-eduai",
+  "description": "Educational AI platform MCP server with dual-model LLM routing and FastAPI HTTP/SSE transport.",
+  "source_repo": "hitesh34745/mcp-ai",
+  "source_url": "https://github.com/hitesh34745/mcp-ai",
+  "install": "# git clone --depth 1 https://github.com/hitesh34745/mcp-ai\n# See source for mcpServers config block"
+}

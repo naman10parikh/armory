@@ -1,0 +1,7 @@
+{
+  "name": "mouhamadalmounayar-confluence",
+  "description": "Integrates Atlassian Confluence content for retrieving page and blog post data, enabling knowledge base querying and content analysis.",
+  "source_repo": "mouhamadalmounayar/mcp-confluence",
+  "source_url": "https://github.com/mouhamadalmounayar/mcp-confluence",
+  "install": "# git clone --depth 1 https://github.com/mouhamadalmounayar/mcp-confluence\n# See source for mcpServers config block"
+}

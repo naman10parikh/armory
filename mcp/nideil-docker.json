@@ -1,0 +1,7 @@
+{
+  "name": "nideil-docker",
+  "description": "Java-based Docker management server that connects to Docker daemon via TCP to provide container lifecycle operations, image management, network control, and log retrieval for DevOps workflows and infrastructure automation.",
+  "source_repo": "nideil/mcp-server-docker",
+  "source_url": "https://github.com/nideil/mcp-server-docker",
+  "install": "# git clone --depth 1 https://github.com/nideil/mcp-server-docker\n# See source for mcpServers config block"
+}

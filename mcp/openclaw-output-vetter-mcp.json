@@ -1,0 +1,7 @@
+{
+  "name": "openclaw-output-vetter-mcp",
+  "description": "Verify AI agent output claims against reality: grounding checks, swallowed-exception detection, and transcript review.",
+  "source_repo": "temurkhan13/openclaw-output-vetter-mcp",
+  "source_url": "https://github.com/temurkhan13/openclaw-output-vetter-mcp",
+  "install": "npx -y openclaw-output-vetter-mcp"
+}

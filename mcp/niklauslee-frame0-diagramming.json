@@ -1,0 +1,7 @@
+{
+  "name": "niklauslee-frame0-diagramming",
+  "description": "Provides a bridge to the Frame0 diagramming application for creating and manipulating visual elements like shapes, text, and connectors with customizable properties for diagram generation and mockup creation.",
+  "source_repo": "niklauslee/frame0-mcp-server",
+  "source_url": "https://github.com/niklauslee/frame0-mcp-server",
+  "install": "npx -y frame0-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "storybookjs-addon-mcp",
+  "description": "Help agents automatically write and test stories for your UI components.",
+  "source_repo": "storybookjs/addon-mcp",
+  "source_url": "https://github.com/storybookjs/addon-mcp",
+  "install": "npx -y addon-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "proofpoint-mcp",
+  "description": "MCP server for Proofpoint Email Protection - email security, threat intelligence, TAP (Targeted Attack Protection), and email filtering API integration",
+  "source_repo": "wyre-technology/proofpoint-mcp",
+  "source_url": "https://github.com/wyre-technology/proofpoint-mcp",
+  "install": "npx -y proofpoint-mcp"
+}

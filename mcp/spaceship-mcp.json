@@ -1,0 +1,7 @@
+{
+  "name": "spaceship-mcp",
+  "description": "Domain, DNS, contact, and marketplace management via Spaceship API.",
+  "source_repo": "",
+  "source_url": "https://www.pulsemcp.com/servers/spaceship-mcp",
+  "install": "# git clone --depth 1 https://www.pulsemcp.com/servers/spaceship-mcp\n# See source for mcpServers config block"
+}

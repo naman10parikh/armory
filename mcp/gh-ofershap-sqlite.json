@@ -1,0 +1,7 @@
+{
+  "name": "gh-ofershap-sqlite",
+  "description": "Query SQLite databases, inspect schemas, and explain queries.",
+  "source_repo": "ofershap/mcp-server-sqlite",
+  "source_url": "https://github.com/ofershap/mcp-server-sqlite",
+  "install": "# git clone --depth 1 https://github.com/ofershap/mcp-server-sqlite\n# See source for mcpServers config block"
+}

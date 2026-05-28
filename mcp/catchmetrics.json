@@ -1,0 +1,7 @@
+{
+  "name": "catchmetrics",
+  "description": "Real user monitoring platform for web performance analytics and Core Web Vitals tracking",
+  "source_repo": "",
+  "source_url": "https://catchmetrics.io",
+  "install": "# git clone --depth 1 https://catchmetrics.io\n# See source for mcpServers config block"
+}

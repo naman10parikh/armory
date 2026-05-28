@@ -1,0 +1,7 @@
+{
+  "name": "jim-coyne-cisco-intersight",
+  "description": "Integrates with Cisco Intersight's infrastructure management API to provide datacenter automation including server provisioning, policy management, resource pool orchestration, alarm monitoring, and real-time infrastructure health tracking with support for both RSA and ECDSA authentication.",
+  "source_repo": "jim-coyne/intersight_mcp",
+  "source_url": "https://github.com/jim-coyne/intersight_mcp",
+  "install": "npx -y intersight_mcp"
+}

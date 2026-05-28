@@ -1,0 +1,7 @@
+{
+  "name": "leonelberio-wordpress",
+  "description": "Enables direct interaction with WordPress sites for creating, retrieving, and updating posts through the WordPress REST API",
+  "source_repo": "leonelberio/the-wordpress-mcp-server",
+  "source_url": "https://github.com/leonelberio/the-wordpress-mcp-server",
+  "install": "npx -y the-wordpress-mcp-server"
+}

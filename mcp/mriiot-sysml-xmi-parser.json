@@ -1,0 +1,7 @@
+{
+  "name": "mriiot-sysml-xmi-parser",
+  "description": "Parses SysML XMI exports to enable querying of model structures, class relationships, inheritance hierarchies, and documentation through searchable indexes and navigation tools.",
+  "source_repo": "mriiot/xmimcp",
+  "source_url": "https://github.com/mriiot/xmimcp",
+  "install": "# git clone --depth 1 https://github.com/mriiot/xmimcp\n# See source for mcpServers config block"
+}

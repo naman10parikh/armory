@@ -1,0 +1,7 @@
+{
+  "name": "sinmb79-gongmun-doctor",
+  "description": "Local MCP server for proofreading Korean official documents (.hwpx/.hwp) with 10 tools covering spelling, grammar, and style correction.",
+  "source_repo": "sinmb79/gongmun-doctor-mcp",
+  "source_url": "https://github.com/sinmb79/gongmun-doctor-mcp",
+  "install": "npx -y gongmun-doctor-mcp"
+}

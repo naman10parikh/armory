@@ -1,0 +1,7 @@
+{
+  "name": "scrapeless-google-search",
+  "description": "Provides a bridge to the Scrapeless API for performing Google searches with customizable parameters including query text, country code, and language preferences.",
+  "source_repo": "scrapeless-ai/scrapeless-mcp-server",
+  "source_url": "https://github.com/scrapeless-ai/scrapeless-mcp-server",
+  "install": "npx -y scrapeless-mcp-server"
+}

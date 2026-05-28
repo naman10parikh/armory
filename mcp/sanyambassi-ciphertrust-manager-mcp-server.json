@@ -1,0 +1,7 @@
+{
+  "name": "sanyambassi-ciphertrust-manager-mcp-server",
+  "description": "MCP server for Thales CipherTrust Manager integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants.",
+  "source_repo": "sanyambassi/ciphertrust-manager-mcp-server",
+  "source_url": "https://github.com/sanyambassi/ciphertrust-manager-mcp-server",
+  "install": "npx -y ciphertrust-manager-mcp-server"
+}

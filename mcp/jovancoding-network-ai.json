@@ -1,0 +1,7 @@
+{
+  "name": "jovancoding-network-ai",
+  "description": "Multi-agent orchestration MCP server with race-condition-safe shared blackboard. 20+ MCP tools: blackboard read/write, agent spawn/stop, FSM transitions, budget tracking, token management, and audit log query. `npx network-ai-server --port 3001`.",
+  "source_repo": "Jovancoding/Network-AI",
+  "source_url": "https://github.com/Jovancoding/Network-AI",
+  "install": "# git clone --depth 1 https://github.com/Jovancoding/Network-AI\n# See source for mcpServers config block"
+}

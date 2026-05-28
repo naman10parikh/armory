@@ -1,0 +1,7 @@
+{
+  "name": "jamesanz-memory-mcp",
+  "description": "An MCP server that stores and retrieves memories from multiple LLMs using MongoDB. Provides tools for saving, retrieving, adding, and clearing conversation memories with timestamps and LLM identification.",
+  "source_repo": "JamesANZ/memory-mcp",
+  "source_url": "https://github.com/JamesANZ/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

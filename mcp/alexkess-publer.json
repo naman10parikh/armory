@@ -1,0 +1,7 @@
+{
+  "name": "alexkess-publer",
+  "description": "Manages social media scheduling and analytics via Publer's API, with 14 tools for publishing posts, uploading media, and pulling insights across 15+ social networks.",
+  "source_repo": "alexkess/publer-mcp-server",
+  "source_url": "https://github.com/alexkess/publer-mcp-server",
+  "install": "npx -y publer-mcp-server"
+}

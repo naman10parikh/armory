@@ -1,0 +1,7 @@
+{
+  "name": "postrv-narsil",
+  "description": "Deep code intelligence with tree-sitter parsing, call graphs, and security vulnerability scanning",
+  "source_repo": "postrv/narsil-mcp",
+  "source_url": "https://github.com/postrv/narsil-mcp",
+  "install": "npx -y narsil-mcp"
+}

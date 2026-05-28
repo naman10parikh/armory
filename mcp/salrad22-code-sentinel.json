@@ -1,0 +1,7 @@
+{
+  "name": "salrad22-code-sentinel",
+  "description": "Analyzes code for security vulnerabilities, deceptive patterns, placeholders, and code smells that traditional linters miss.",
+  "source_repo": "salrad22/code-sentinel",
+  "source_url": "https://github.com/salrad22/code-sentinel",
+  "install": "# git clone --depth 1 https://github.com/salrad22/code-sentinel\n# See source for mcpServers config block"
+}

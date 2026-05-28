@@ -1,0 +1,7 @@
+{
+  "name": "niledatabase",
+  "description": "Integrates with Nile Database services to enable database operations through TypeScript-based server implementation supporting both stdio and HTTP communication modes for seamless database functionality in AI workflows.",
+  "source_repo": "niledatabase/nile-mcp-server",
+  "source_url": "https://github.com/niledatabase/nile-mcp-server",
+  "install": "npx -y nile-mcp-server"
+}

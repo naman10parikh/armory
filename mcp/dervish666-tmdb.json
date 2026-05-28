@@ -1,0 +1,7 @@
+{
+  "name": "dervish666-tmdb",
+  "description": "Integrates with The Movie Database API to provide movie, TV show, and entertainment industry data through search functionality, detailed information retrieval, trending content discovery, and people lookup capabilities with automatic image URL construction and pagination support.",
+  "source_repo": "dervish666/tmdb-mcp-server",
+  "source_url": "https://github.com/dervish666/tmdb-mcp-server",
+  "install": "npx -y tmdb-mcp-server"
+}

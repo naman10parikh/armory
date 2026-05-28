@@ -1,0 +1,7 @@
+{
+  "name": "aimbitgmbh-trilium-notes",
+  "description": "Connects to Trilium Notes through its ETAPI for creating, editing, and searching notes, managing hierarchical relationships, adding metadata, and organizing content with calendar-based structures.",
+  "source_repo": "aimbitgmbh/trillium-mcp",
+  "source_url": "https://github.com/aimbitgmbh/trillium-mcp",
+  "install": "npx -y trillium-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "glitch-exec-labs-linkedin-ad",
+  "description": "LinkedIn Marketing API MCP server for campaigns, analytics, and creatives.",
+  "source_repo": "glitch-exec-labs/glitch-grow-linkedin-ad-mcp",
+  "source_url": "https://github.com/glitch-exec-labs/glitch-grow-linkedin-ad-mcp",
+  "install": "npx -y glitch-grow-linkedin-ad-mcp"
+}

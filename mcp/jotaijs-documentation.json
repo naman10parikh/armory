@@ -1,0 +1,7 @@
+{
+  "name": "jotaijs-documentation",
+  "description": "Provides direct access to Jotai documentation resources, including the main README and curated tips, for developers working with this state management library",
+  "source_repo": "jotaijs/jotai-mcp-server",
+  "source_url": "https://github.com/jotaijs/jotai-mcp-server",
+  "install": "npx -y jotai-mcp-server"
+}

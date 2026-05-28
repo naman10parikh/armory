@@ -1,0 +1,7 @@
+{
+  "name": "seenbefore-devrecord",
+  "description": "Provides structured markdown templates for daily standups, learning notes, meeting records, and project summaries to help developers maintain consistent documentation practices across different development activities.",
+  "source_repo": "seenbefore/devrecord",
+  "source_url": "https://github.com/seenbefore/devrecord",
+  "install": "# git clone --depth 1 https://github.com/seenbefore/devrecord\n# See source for mcpServers config block"
+}

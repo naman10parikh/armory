@@ -1,0 +1,7 @@
+{
+  "name": "buttondown-mcp-server",
+  "description": "Enables interaction with the Buttondown newsletter API for managing emails, subscribers, and tags.",
+  "source_repo": "dgalarza/buttondown-mcp",
+  "source_url": "https://github.com/dgalarza/buttondown-mcp",
+  "install": "npx -y buttondown-mcp"
+}

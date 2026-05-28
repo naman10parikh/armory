@@ -1,0 +1,7 @@
+{
+  "name": "olyport-noaa-climate",
+  "description": "Historical climate data, temperatures, precipitation, and normals from NOAA.",
+  "source_repo": "",
+  "source_url": "https://mcp.olyport.com/noaa-climate/mcp",
+  "install": "# git clone --depth 1 https://mcp.olyport.com/noaa-climate/mcp\n# See source for mcpServers config block"
+}

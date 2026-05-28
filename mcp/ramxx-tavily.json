@@ -1,0 +1,7 @@
+{
+  "name": "ramxx-tavily",
+  "description": "Search and retrieve AI-enhanced web results via Tavily.",
+  "source_repo": "ramxx/mcp-tavily",
+  "source_url": "https://github.com/ramxx/mcp-tavily",
+  "install": "# git clone --depth 1 https://github.com/ramxx/mcp-tavily\n# See source for mcpServers config block"
+}

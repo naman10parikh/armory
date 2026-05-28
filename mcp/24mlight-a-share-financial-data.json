@@ -1,0 +1,7 @@
+{
+  "name": "24mlight-a-share-financial-data",
+  "description": "Provides financial data tools for Chinese stock market analysis through the Baostock API, enabling retrieval of historical prices, financial reports, industry classifications, index constituents, and macroeconomic indicators.",
+  "source_repo": "24mlight/a-share-mcp-is-just-i-need",
+  "source_url": "https://github.com/24mlight/a-share-mcp-is-just-i-need",
+  "install": "# git clone --depth 1 https://github.com/24mlight/a-share-mcp-is-just-i-need\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ultiplace",
+  "description": "Create and manage virtual trade shows, halls, stands, and conferences on the Ultiplace platform.",
+  "source_repo": "realitim/ultiplace",
+  "source_url": "https://github.com/realitim/ultiplace",
+  "install": "# git clone --depth 1 https://github.com/realitim/ultiplace\n# See source for mcpServers config block"
+}

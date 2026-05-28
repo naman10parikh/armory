@@ -1,0 +1,7 @@
+{
+  "name": "mladensu-cli-mcp-server",
+  "description": "Execute shell commands with strict security policies.",
+  "source_repo": "mladensu/cli-mcp-server",
+  "source_url": "https://github.com/mladensu/cli-mcp-server",
+  "install": "npx -y cli-mcp-server"
+}

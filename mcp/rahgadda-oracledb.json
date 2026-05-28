@@ -1,0 +1,7 @@
+{
+  "name": "rahgadda-oracledb",
+  "description": "Provides a bridge to Oracle Database, enabling dynamic table and column discovery, secure query execution, and metadata retrieval through natural language interactions for data analysts and developers.",
+  "source_repo": "rahgadda/oracledb_mcp_server",
+  "source_url": "https://github.com/rahgadda/oracledb_mcp_server",
+  "install": "npx -y oracledb_mcp_server"
+}

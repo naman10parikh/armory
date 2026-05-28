@@ -1,0 +1,7 @@
+{
+  "name": "bxetech",
+  "description": "Consolidated Bitcoin market data for AI agents: BBO pricing, ML signals, funding skew, and market briefings across 36 venues.",
+  "source_repo": "bxetech/bpe-mcp",
+  "source_url": "https://github.com/bxetech/bpe-mcp",
+  "install": "npx -y bpe-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "surf",
+  "description": "Dynamically generated crypto data tools covering market prices, exchange feeds, wallet tracking, on-chain queries, social sentiment, and prediction markets via the Surf API.",
+  "source_repo": "asksurf-ai/surf-mcp",
+  "source_url": "https://github.com/asksurf-ai/surf-mcp",
+  "install": "npx -y surf-mcp"
+}

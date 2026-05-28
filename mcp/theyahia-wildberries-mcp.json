@@ -1,0 +1,7 @@
+{
+  "name": "theyahia-wildberries-mcp",
+  "description": "Wildberries Seller API MCP server providing 15 tools for managing products, prices, stocks, orders, sales, warehouses, supplies, statistics, feedbacks, and ABC analysis with built-in rate limiting and 409 penalty protection.",
+  "source_repo": "theYahia/wildberries-mcp",
+  "source_url": "https://github.com/theYahia/wildberries-mcp",
+  "install": "npx -y wildberries-mcp"
+}

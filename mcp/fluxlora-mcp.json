@@ -1,0 +1,7 @@
+{
+  "name": "fluxlora-mcp",
+  "description": "An MCP server that lets users and autonomous agents generate high-quality images in a chosen artistic style by automatically discovering and applying open-source LoRA models.",
+  "source_repo": "darekrossman/fluxlora-mcp",
+  "source_url": "https://github.com/darekrossman/fluxlora-mcp",
+  "install": "npx -y fluxlora-mcp"
+}

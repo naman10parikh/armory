@@ -1,0 +1,7 @@
+{
+  "name": "silly-geese-quality-qr",
+  "description": "Create and manage trackable QR codes with dynamic URLs, scan analytics, and 12 QR types via a remote MCP server.",
+  "source_repo": "silly-geese/quality-qr-mcp",
+  "source_url": "https://github.com/silly-geese/quality-qr-mcp",
+  "install": "npx -y quality-qr-mcp"
+}

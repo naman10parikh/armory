@@ -1,0 +1,7 @@
+{
+  "name": "laubplusco-webdav",
+  "description": "Enables interaction with WebDAV file systems through natural language commands, providing complete CRUD operations for files and directories with support for both local and remote access.",
+  "source_repo": "laubplusco/mcp-webdav-server",
+  "source_url": "https://github.com/laubplusco/mcp-webdav-server",
+  "install": "# git clone --depth 1 https://github.com/laubplusco/mcp-webdav-server\n# See source for mcpServers config block"
+}

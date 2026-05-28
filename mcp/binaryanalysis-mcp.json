@@ -1,0 +1,7 @@
+{
+  "name": "binaryanalysis-mcp",
+  "description": "Enables analysis of binary files (PE, ELF, Mach-O, COFF) by providing tools to retrieve info, headers, sections, imports, exports, libraries, security hardening, signatures, and COFF object file details.",
+  "source_repo": "Ap3x/BinaryAnalysis-MCP",
+  "source_url": "https://github.com/Ap3x/BinaryAnalysis-MCP",
+  "install": "npx -y BinaryAnalysis-MCP"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "linxule-lotus-wisdom",
+  "description": "Problem-solving framework inspired by Buddhist philosophy",
+  "source_repo": "linxule/lotus-wisdom-mcp",
+  "source_url": "https://github.com/linxule/lotus-wisdom-mcp",
+  "install": "npx -y lotus-wisdom-mcp"
+}

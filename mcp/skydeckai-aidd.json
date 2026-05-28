@@ -1,0 +1,7 @@
+{
+  "name": "skydeckai-aidd",
+  "description": "Integrates file system, code analysis, Git, and execution capabilities to enable AI-driven development workflows across multiple programming languages.",
+  "source_repo": "skydeckai/skydeckai-code",
+  "source_url": "https://github.com/skydeckai/skydeckai-code",
+  "install": "# git clone --depth 1 https://github.com/skydeckai/skydeckai-code\n# See source for mcpServers config block"
+}

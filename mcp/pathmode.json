@@ -1,0 +1,7 @@
+{
+  "name": "pathmode",
+  "description": "Build structured intent specs through Socratic AI conversation and connect to the Pathmode intent layer.",
+  "source_repo": "pathmodeio/mcp-server",
+  "source_url": "https://github.com/pathmodeio/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/pathmodeio/mcp-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "hagsmand-starrocks",
+  "description": "Enables AI models to interact with StarRocks databases by providing read and write access to tables, schemas, and data through a Python-based server with configurable modes.",
+  "source_repo": "hagsmand/mcp-server-starrocks",
+  "source_url": "https://github.com/hagsmand/mcp-server-starrocks",
+  "install": "# git clone --depth 1 https://github.com/hagsmand/mcp-server-starrocks\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "zacharyzcr-vmware-workstation-pro",
+  "description": "Automates VMware Workstation Pro virtual machines through REST API, vmrun wrapper, and vmcli integration for complete VM lifecycle management.",
+  "source_repo": "zacharyzcr/vmware-mcp",
+  "source_url": "https://github.com/zacharyzcr/vmware-mcp",
+  "install": "npx -y vmware-mcp"
+}

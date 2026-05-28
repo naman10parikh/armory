@@ -1,0 +1,7 @@
+{
+  "name": "mailboxvalidator-mcp-mailboxvalidator",
+  "description": "Validates email addresses to reduce email bounces during marketing campaigns.",
+  "source_repo": "MailboxValidator/mcp-mailboxvalidator",
+  "source_url": "https://github.com/MailboxValidator/mcp-mailboxvalidator",
+  "install": "# git clone --depth 1 https://github.com/MailboxValidator/mcp-mailboxvalidator\n# See source for mcpServers config block"
+}

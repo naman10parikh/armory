@@ -1,0 +1,7 @@
+{
+  "name": "realugbun-agentexec",
+  "description": "Provides secure sandboxed code execution across Python, Node.js, and Go environments with shell command access and package management through Docker containerization and configurable safety controls.",
+  "source_repo": "realugbun/agentexecmcp",
+  "source_url": "https://github.com/realugbun/agentexecmcp",
+  "install": "# git clone --depth 1 https://github.com/realugbun/agentexecmcp\n# See source for mcpServers config block"
+}

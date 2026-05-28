@@ -1,0 +1,7 @@
+{
+  "name": "lordbasilaiassistant-sudo-base-wallet-toolkit",
+  "description": "Interact with Base chain wallets to check balances, estimate gas, inspect tokens, and resolve ENS names.",
+  "source_repo": "lordbasilaiassistant-sudo/base-wallet-toolkit-mcp",
+  "source_url": "https://github.com/lordbasilaiassistant-sudo/base-wallet-toolkit-mcp",
+  "install": "npx -y base-wallet-toolkit-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "cert-manager-mcp-server",
+  "description": "Enables management and troubleshooting of cert-manager certificates and resources in Kubernetes, including listing, inspecting, and renewing certificates, managing issuers, and switching Kubernetes contexts.",
+  "source_repo": "pibblokto/cert-manager-mcp-server",
+  "source_url": "https://github.com/pibblokto/cert-manager-mcp-server",
+  "install": "npx -y cert-manager-mcp-server"
+}

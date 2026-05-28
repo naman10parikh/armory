@@ -1,0 +1,7 @@
+{
+  "name": "ryancardin15-azuredevops",
+  "description": "Integrates with Azure DevOps services to manage work items, code repositories, boards, sprints, and projects using TypeScript and the Model Context Protocol SDK.",
+  "source_repo": "ryancardin15/azuredevops-mcp",
+  "source_url": "https://github.com/ryancardin15/azuredevops-mcp",
+  "install": "npx -y azuredevops-mcp"
+}

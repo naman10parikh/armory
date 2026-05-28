@@ -1,0 +1,7 @@
+{
+  "name": "roc-ai",
+  "description": "NIST-ranked biometrics and computer vision capabilities including face recognition, license plate reading, OCR, and object detection.",
+  "source_repo": "",
+  "source_url": "https://roc.ai",
+  "install": "# git clone --depth 1 https://roc.ai\n# See source for mcpServers config block"
+}

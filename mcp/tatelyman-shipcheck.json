@@ -1,0 +1,7 @@
+{
+  "name": "tatelyman-shipcheck",
+  "description": "Repository risk scanning for AI coding agents via the Shipcheck analysis service.",
+  "source_repo": "tatelyman/shipcheck-mcp",
+  "source_url": "https://github.com/tatelyman/shipcheck-mcp",
+  "install": "npx -y shipcheck-mcp"
+}

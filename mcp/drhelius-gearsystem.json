@@ -1,0 +1,7 @@
+{
+  "name": "drhelius-gearsystem",
+  "description": "Cross-platform Sega Master System, Game Gear, and SG-1000 emulator with embedded MCP server for AI-assisted debugging and hardware inspection.",
+  "source_repo": "drhelius/gearsystem",
+  "source_url": "https://github.com/drhelius/gearsystem",
+  "install": "# git clone --depth 1 https://github.com/drhelius/gearsystem\n# See source for mcpServers config block"
+}

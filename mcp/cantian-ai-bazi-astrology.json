@@ -1,0 +1,7 @@
+{
+  "name": "cantian-ai-bazi-astrology",
+  "description": "Provides a bridge to Chinese BaZi astrology calculations, enabling fortune-telling and personality analysis based on birth date and time without specialized knowledge of the complex calculation systems.",
+  "source_repo": "cantian-ai/bazi-mcp",
+  "source_url": "https://github.com/cantian-ai/bazi-mcp",
+  "install": "npx -y bazi-mcp"
+}

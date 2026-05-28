@@ -1,0 +1,7 @@
+{
+  "name": "midos",
+  "description": "Curated developer knowledge library with validated patterns across 20+ tech stacks for AI coding agents.",
+  "source_repo": "midosresearch/midos",
+  "source_url": "https://github.com/midosresearch/midos",
+  "install": "# git clone --depth 1 https://github.com/midosresearch/midos\n# See source for mcpServers config block"
+}

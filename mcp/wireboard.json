@@ -1,0 +1,7 @@
+{
+  "name": "wireboard",
+  "description": "Official WireBoard MCP server for querying real-time and historical website analytics data.",
+  "source_repo": "wireboard/mcp",
+  "source_url": "https://github.com/wireboard/mcp",
+  "install": "# git clone --depth 1 https://github.com/wireboard/mcp\n# See source for mcpServers config block"
+}

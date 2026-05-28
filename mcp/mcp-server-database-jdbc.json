@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-database-jdbc",
+  "description": "Mcp Server Database Jdbc MCP server listed on mcp.so.",
+  "source_repo": "delei/mcp-server-database-jdbc",
+  "source_url": "https://mcp.so/server/mcp-server-database-jdbc/delei",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server-database-jdbc/delei\n# See source for mcpServers config block"
+}

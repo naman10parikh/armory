@@ -1,0 +1,7 @@
+{
+  "name": "alberta-tax-agent",
+  "description": "An MCP server delivering Alberta tax accounting and law expertise, with 47 tools across 10 domains including corporate tax, GST/HST, payroll, and a self-learning layer for dynamic rate and rule updates.",
+  "source_repo": "chiKeka/alberta-tax-agent",
+  "source_url": "https://github.com/chiKeka/alberta-tax-agent",
+  "install": "# git clone --depth 1 https://github.com/chiKeka/alberta-tax-agent\n# See source for mcpServers config block"
+}

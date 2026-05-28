@@ -1,0 +1,7 @@
+{
+  "name": "vatnode-mcp",
+  "description": "Validate EU VAT numbers via VIES, check VAT rates, and perform format validation for EU member states.",
+  "source_repo": "vatnode/vatnode-mcp",
+  "source_url": "https://github.com/vatnode/vatnode-mcp",
+  "install": "npx -y vatnode-mcp"
+}

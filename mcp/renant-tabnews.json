@@ -1,0 +1,7 @@
+{
+  "name": "renant-tabnews",
+  "description": "Provides access to TabNews content through API tools for retrieving listings, user posts, comments, and analytics data without requiring direct API integration",
+  "source_repo": "renant/mcp-tabnews",
+  "source_url": "https://github.com/renant/mcp-tabnews",
+  "install": "# git clone --depth 1 https://github.com/renant/mcp-tabnews\n# See source for mcpServers config block"
+}

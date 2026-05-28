@@ -1,0 +1,7 @@
+{
+  "name": "danielecr-realssh",
+  "description": "Executes remote shell commands over SSH connections for AI agents.",
+  "source_repo": "danielecr/realssh-mcp",
+  "source_url": "https://github.com/danielecr/realssh-mcp",
+  "install": "npx -y realssh-mcp"
+}

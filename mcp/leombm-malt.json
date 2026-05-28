@@ -1,0 +1,7 @@
+{
+  "name": "leombm-malt",
+  "description": "Integrates with Malt.fr freelance platform via browser automation to expose profile data, statistics, and mission information.",
+  "source_repo": "leombm/malt-mcp",
+  "source_url": "https://github.com/leombm/malt-mcp",
+  "install": "npx -y malt-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "merajmehrabi-puppeteer",
+  "description": "Integrates with Puppeteer to enable browser automation for web navigation, interaction, and data extraction tasks.",
+  "source_repo": "merajmehrabi/puppeteer-mcp-server",
+  "source_url": "https://github.com/merajmehrabi/puppeteer-mcp-server",
+  "install": "npx -y puppeteer-mcp-server"
+}

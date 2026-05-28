@@ -1,0 +1,7 @@
+{
+  "name": "galileo",
+  "description": "Integrates with Galileo's evaluation and observability platform to enable dataset creation, prompt template management, experiment setup, log analysis, and step-by-step integration guides for monitoring LLM application performance.",
+  "source_repo": "rungalileo/docs-official",
+  "source_url": "https://github.com/rungalileo/docs-official",
+  "install": "# git clone --depth 1 https://github.com/rungalileo/docs-official\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "peterhadorn-offload",
+  "description": "MCP server that delegates routine coding tasks like commit messages, PR descriptions, and docstrings to cheaper Google Gemma models.",
+  "source_repo": "peterhadorn/offload-mcp",
+  "source_url": "https://github.com/peterhadorn/offload-mcp",
+  "install": "npx -y offload-mcp"
+}

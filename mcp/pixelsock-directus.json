@@ -1,0 +1,7 @@
+{
+  "name": "pixelsock-directus",
+  "description": "Connects AI systems to Directus headless CMS, enabling content management operations like retrieving, creating, updating, and deleting items from collections through a TypeScript-based API bridge.",
+  "source_repo": "pixelsock/directus-mcp",
+  "source_url": "https://github.com/pixelsock/directus-mcp",
+  "install": "npx -y directus-mcp"
+}

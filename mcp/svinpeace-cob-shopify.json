@@ -1,0 +1,7 @@
+{
+  "name": "svinpeace-cob-shopify",
+  "description": "Comprehensive Shopify store management with 64 tools covering products, orders, customers, and inventory.",
+  "source_repo": "callobuzz/cob-shopify-mcp",
+  "source_url": "https://github.com/callobuzz/cob-shopify-mcp",
+  "install": "npx -y cob-shopify-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "vinayak-mehta-linear",
+  "description": "Integrates with Linear's issue tracking platform, enabling creation, updating, and searching of issues, retrieval of assigned tasks, and comment addition through five specialized tools.",
+  "source_repo": "vinayak-mehta/linear-mcp",
+  "source_url": "https://github.com/vinayak-mehta/linear-mcp",
+  "install": "npx -y linear-mcp"
+}

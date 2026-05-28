@@ -1,0 +1,7 @@
+{
+  "name": "polymarket",
+  "description": "Integrates with Polymarket to provide real-time prediction market data, price tracking, and trading analytics across active betting markets with intelligent caching and retry logic.",
+  "source_repo": "ozgureyilmaz/polymarket-mcp",
+  "source_url": "https://github.com/ozgureyilmaz/polymarket-mcp",
+  "install": "npx -y polymarket-mcp"
+}

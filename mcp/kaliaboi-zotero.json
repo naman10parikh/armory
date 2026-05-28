@@ -1,0 +1,7 @@
+{
+  "name": "kaliaboi-zotero",
+  "description": "Integrates with Zotero to enable listing collections, retrieving item details, searching libraries, and fetching recent papers for research and citation management.",
+  "source_repo": "kaliaboi/mcp-zotero",
+  "source_url": "https://github.com/kaliaboi/mcp-zotero",
+  "install": "# git clone --depth 1 https://github.com/kaliaboi/mcp-zotero\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "martijn-devrev-ultimate64",
+  "description": "Controls real Commodore 64 hardware through the Ultimate 64/II+ REST API, enabling program execution, music playback, disk image management, memory manipulation, and machine configuration on physical retro computing devices.",
+  "source_repo": "martijn-devrev/ultimate64mcp",
+  "source_url": "https://github.com/martijn-devrev/ultimate64mcp",
+  "install": "# git clone --depth 1 https://github.com/martijn-devrev/ultimate64mcp\n# See source for mcpServers config block"
+}

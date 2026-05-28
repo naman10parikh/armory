@@ -1,0 +1,7 @@
+{
+  "name": "terminal-mcp-server",
+  "description": "Terminal Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "weidwonder/terminal-mcp-server",
+  "source_url": "https://mcp.so/server/terminal-mcp-server/weidwonder",
+  "install": "npx -y terminal-mcp-server"
+}

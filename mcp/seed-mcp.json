@@ -1,0 +1,7 @@
+{
+  "name": "seed-mcp",
+  "description": "SEED provides a unified interface to compound AI systems, coordinating between various tools and frameworks to present a single coherent voice.",
+  "source_repo": "sancovp/seed-mcp",
+  "source_url": "https://github.com/sancovp/seed-mcp",
+  "install": "npx -y seed-mcp"
+}

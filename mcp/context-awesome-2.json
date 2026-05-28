@@ -1,0 +1,7 @@
+{
+  "name": "context-awesome-2",
+  "description": "Provide your AI agents with instant access to the best curated resources from over 8,500 awesome lists and more than 1 million items. Discover relevant sections and retrieve high-quality references for deep research, learning, and knowledge work. Enhance your agents' ability to find vetted tools and",
+  "source_repo": "",
+  "source_url": "https://www.context-awesome.com",
+  "install": "# git clone --depth 1 https://www.context-awesome.com\n# See source for mcpServers config block"
+}

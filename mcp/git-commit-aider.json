@@ -1,0 +1,7 @@
+{
+  "name": "git-commit-aider",
+  "description": "Enables AI to make Git commits on behalf of users, automatically tracking AI contributions by appending '(aider)' to committer names for codebase statistics and analysis.",
+  "source_repo": "mrorz/mcp-git-commit-aider",
+  "source_url": "https://github.com/mrorz/mcp-git-commit-aider",
+  "install": "# git clone --depth 1 https://github.com/mrorz/mcp-git-commit-aider\n# See source for mcpServers config block"
+}

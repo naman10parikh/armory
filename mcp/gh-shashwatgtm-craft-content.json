@@ -1,0 +1,7 @@
+{
+  "name": "gh-shashwatgtm-craft-content",
+  "description": "Content creation tools for case studies, newsletters, webinars, and thought leadership.",
+  "source_repo": "shashwatgtm/craft-content-mcp",
+  "source_url": "https://github.com/shashwatgtm/craft-content-mcp",
+  "install": "npx -y craft-content-mcp"
+}

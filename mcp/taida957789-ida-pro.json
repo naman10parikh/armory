@@ -1,0 +1,7 @@
+{
+  "name": "taida957789-ida-pro",
+  "description": "Enables direct interaction with IDA Pro for binary analysis tasks including disassembly, decompilation, and function querying for malware analysis and vulnerability research.",
+  "source_repo": "taida957789/ida-mcp-server-plugin",
+  "source_url": "https://github.com/taida957789/ida-mcp-server-plugin",
+  "install": "# git clone --depth 1 https://github.com/taida957789/ida-mcp-server-plugin\n# See source for mcpServers config block"
+}

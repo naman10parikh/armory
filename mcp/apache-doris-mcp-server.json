@@ -1,0 +1,7 @@
+{
+  "name": "apache-doris-mcp-server",
+  "description": "An MCP server that enables users to interact with Apache Doris databases through natural language, supporting query and management operations.",
+  "source_repo": "fastmcp-me/mcp-doris",
+  "source_url": "https://github.com/fastmcp-me/mcp-doris",
+  "install": "# git clone --depth 1 https://github.com/fastmcp-me/mcp-doris\n# See source for mcpServers config block"
+}

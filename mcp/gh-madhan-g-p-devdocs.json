@@ -1,0 +1,7 @@
+{
+  "name": "gh-madhan-g-p-devdocs",
+  "description": "Local developer documentation server with project-specific context awareness.",
+  "source_repo": "madhan-g-p/devdocs-mcp",
+  "source_url": "https://github.com/madhan-g-p/devdocs-mcp",
+  "install": "npx -y devdocs-mcp"
+}

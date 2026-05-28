@@ -1,0 +1,7 @@
+{
+  "name": "li-fi",
+  "description": "Cross-chain swaps, bridging, and DeFi yield discovery via the LI.FI aggregator. Provides MCP tools for quotes, routes, token and chain metadata, transaction status, ERC20 allowances, and yield vaults across 58 chains, 27+ bridges, and 31+ DEXes. Read-only — returns unsigned transaction requests for",
+  "source_repo": "",
+  "source_url": "https://docs.li.fi/mcp-server/overview",
+  "install": "# git clone --depth 1 https://docs.li.fi/mcp-server/overview\n# See source for mcpServers config block"
+}

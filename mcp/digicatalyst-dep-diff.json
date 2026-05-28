@@ -1,0 +1,7 @@
+{
+  "name": "digicatalyst-dep-diff",
+  "description": "Translate a lockfile diff into a human-readable upgrade plan with breaking changes and CVE data for npm and PyPI.",
+  "source_repo": "digicatalyst-systems/dep-diff-mcp",
+  "source_url": "https://github.com/digicatalyst-systems/dep-diff-mcp",
+  "install": "npx -y dep-diff-mcp"
+}

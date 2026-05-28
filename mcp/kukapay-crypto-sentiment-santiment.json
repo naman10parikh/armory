@@ -1,0 +1,7 @@
+{
+  "name": "kukapay-crypto-sentiment-santiment",
+  "description": "Delivers cryptocurrency sentiment analysis by leveraging Santiment's social media and news data, enabling traders to retrieve sentiment metrics, monitor mentions, detect volume shifts, identify trending topics, and measure asset dominance in real-time.",
+  "source_repo": "kukapay/crypto-sentiment-mcp",
+  "source_url": "https://github.com/kukapay/crypto-sentiment-mcp",
+  "install": "npx -y crypto-sentiment-mcp"
+}

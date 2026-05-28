@@ -1,0 +1,7 @@
+{
+  "name": "sheshiyer-git",
+  "description": "Integrates with Git repositories to enable version control operations, code management, and collaborative development workflows",
+  "source_repo": "sheshiyer/git-mcp-v2",
+  "source_url": "https://github.com/sheshiyer/git-mcp-v2",
+  "install": "# git clone --depth 1 https://github.com/sheshiyer/git-mcp-v2\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "apex-500-email-smtp-imap",
+  "description": "Sends and reads emails via SMTP and IMAP with templated email support, inbox search, and statistics.",
+  "source_repo": "apex-500/email-mcp-server",
+  "source_url": "https://github.com/apex-500/email-mcp-server",
+  "install": "npx -y email-mcp-server"
+}

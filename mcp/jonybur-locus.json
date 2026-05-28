@@ -1,0 +1,7 @@
+{
+  "name": "jonybur-locus",
+  "description": "Inject product requirements from stories.yaml into AI coding sessions as structured context for Claude Code and Cursor.",
+  "source_repo": "jonybur/locus",
+  "source_url": "https://github.com/jonybur/locus/tree/HEAD/packages/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/jonybur/locus/tree/HEAD/packages/mcp-server\n# See source for mcpServers config block"
+}

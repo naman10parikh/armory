@@ -1,0 +1,7 @@
+{
+  "name": "aalexuser-wait",
+  "description": "Provides a wait tool for pausing execution until a time duration passes or a monitored process terminates.",
+  "source_repo": "aalexuser/mcp-wait",
+  "source_url": "https://github.com/aalexuser/mcp-wait",
+  "install": "# git clone --depth 1 https://github.com/aalexuser/mcp-wait\n# See source for mcpServers config block"
+}

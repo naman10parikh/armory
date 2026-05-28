@@ -1,0 +1,7 @@
+{
+  "name": "ecosyste-ms",
+  "description": "Queries package ecosystem data from ecosyste.ms across 30+ ecosystems including npm, PyPI, Maven, and Cargo, combining local SQLite database for fast lookups with API fallback for package metadata, security advisories, and dependency information.",
+  "source_repo": "ecosyste-ms/mcp",
+  "source_url": "https://github.com/ecosyste-ms/mcp",
+  "install": "# git clone --depth 1 https://github.com/ecosyste-ms/mcp\n# See source for mcpServers config block"
+}

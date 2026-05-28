@@ -1,0 +1,7 @@
+{
+  "name": "blitz",
+  "description": "Gives AI agents full control over the iOS development lifecycle through a native macOS app providing simulator management, device control, database operations, and App Store Connect integration.",
+  "source_repo": "blitzdotdev/blitz-mac",
+  "source_url": "https://github.com/blitzdotdev/blitz-mac",
+  "install": "# git clone --depth 1 https://github.com/blitzdotdev/blitz-mac\n# See source for mcpServers config block"
+}

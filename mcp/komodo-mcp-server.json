@@ -1,0 +1,7 @@
+{
+  "name": "komodo-mcp-server",
+  "description": "Enables management of Komodo infrastructure including servers, stacks, deployments, builds, repositories, procedures, and system settings through natural language.",
+  "source_repo": "Nonetss/komodo-mcp",
+  "source_url": "https://github.com/Nonetss/komodo-mcp",
+  "install": "npx -y komodo-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sanjeev23oct-figma-design-processor",
+  "description": "Transforms Figma designs into structured data for React implementation, providing tools to extract component details, styles, and layout properties through the Figma API.",
+  "source_repo": "sanjeev23oct/figma-mcp",
+  "source_url": "https://github.com/sanjeev23oct/figma-mcp",
+  "install": "npx -y figma-mcp"
+}

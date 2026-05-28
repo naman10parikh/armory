@@ -1,0 +1,7 @@
+{
+  "name": "search-api",
+  "description": "Search API for the vector-based search engine ecosystem",
+  "source_repo": "krickert/search-api",
+  "source_url": "https://github.com/krickert/search-api",
+  "install": "# git clone --depth 1 https://github.com/krickert/search-api\n# See source for mcpServers config block"
+}

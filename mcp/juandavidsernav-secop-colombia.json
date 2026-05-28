@@ -1,0 +1,7 @@
+{
+  "name": "juandavidsernav-secop-colombia",
+  "description": "Query Colombian public procurement data from SECOP I and SECOP II via the datos.gov.co open data API.",
+  "source_repo": "juandavidsernav/secop-mcp-server",
+  "source_url": "https://github.com/juandavidsernav/secop-mcp-server",
+  "install": "npx -y secop-mcp-server"
+}

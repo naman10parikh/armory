@@ -1,0 +1,7 @@
+{
+  "name": "fhirfly-mcp-server",
+  "description": "MCP server for connecting Claude Desktop to FHIRfly healthcare reference data APIs, enabling lookup of drugs, providers, clinical codes, and more.",
+  "source_repo": "FHIRfly-io/fhirfly-mcp-server",
+  "source_url": "https://github.com/FHIRfly-io/fhirfly-mcp-server",
+  "install": "npx -y fhirfly-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "pratapsfdc22-dev-salesforce-ai-agent",
+  "description": "Integrates Claude with Jira, Salesforce, and n8n through 12 tools for story management, metadata deployment, and workflow orchestration.",
+  "source_repo": "pratapsfdc22-dev/salesforce-ai-agent-mcp",
+  "source_url": "https://github.com/pratapsfdc22-dev/salesforce-ai-agent-mcp",
+  "install": "npx -y salesforce-ai-agent-mcp"
+}

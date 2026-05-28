@@ -1,0 +1,7 @@
+{
+  "name": "brenoepics-prometheus",
+  "description": "Connects to Prometheus monitoring systems for instant and range queries, metric discovery, and metadata retrieval with built-in retries, caching, and rate limiting for DevOps workflows and system troubleshooting.",
+  "source_repo": "brenoepics/prometheus-mcp",
+  "source_url": "https://github.com/brenoepics/prometheus-mcp",
+  "install": "npx -y prometheus-mcp"
+}

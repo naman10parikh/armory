@@ -1,0 +1,7 @@
+{
+  "name": "sar-mcp",
+  "description": "Sar Mcp MCP server listed on mcp.so.",
+  "source_repo": "MitchyBAwesome/sar-mcp",
+  "source_url": "https://mcp.so/server/sar-mcp/MitchyBAwesome",
+  "install": "npx -y sar-mcp"
+}

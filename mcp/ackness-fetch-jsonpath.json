@@ -1,0 +1,7 @@
+{
+  "name": "ackness-fetch-jsonpath",
+  "description": "Fetches and extracts data from HTTP endpoints using JSONPath patterns with support for batch processing, custom headers, proxy configuration, and concurrent operations for efficient web API data retrieval.",
+  "source_repo": "ackness/fetch-jsonpath-mcp",
+  "source_url": "https://github.com/ackness/fetch-jsonpath-mcp",
+  "install": "npx -y fetch-jsonpath-mcp"
+}

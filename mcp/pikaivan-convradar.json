@@ -1,0 +1,7 @@
+{
+  "name": "pikaivan-convradar",
+  "description": "Google Analytics 4 conversion funnel analysis and traffic quality diagnostics for AI assistants.",
+  "source_repo": "pikaivan/convradar-mcp",
+  "source_url": "https://github.com/pikaivan/convradar-mcp",
+  "install": "npx -y convradar-mcp"
+}

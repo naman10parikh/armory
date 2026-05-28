@@ -1,0 +1,7 @@
+{
+  "name": "quant-m2m",
+  "description": "Web scraping and crypto price oracle service requiring USDC micropayments for access.",
+  "source_repo": "quant-m2m/api-quant-m2m",
+  "source_url": "https://github.com/quant-m2m/api-quant-m2m",
+  "install": "# git clone --depth 1 https://github.com/quant-m2m/api-quant-m2m\n# See source for mcpServers config block"
+}

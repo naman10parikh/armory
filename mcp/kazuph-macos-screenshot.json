@@ -1,0 +1,7 @@
+{
+  "name": "kazuph-macos-screenshot",
+  "description": "Captures and analyzes macOS screen content using TypeScript and OCR, enabling automated UI testing and visual data processing.",
+  "source_repo": "kazuph/mcp-screenshot",
+  "source_url": "https://github.com/kazuph/mcp-screenshot",
+  "install": "# git clone --depth 1 https://github.com/kazuph/mcp-screenshot\n# See source for mcpServers config block"
+}

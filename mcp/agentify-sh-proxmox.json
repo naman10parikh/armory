@@ -1,0 +1,7 @@
+{
+  "name": "agentify-sh-proxmox",
+  "description": "Integrates with Proxmox virtualization platform to monitor cluster health, manage VM and container lifecycles, execute commands within VMs via QEMU guest agent, and track storage resources across nodes.",
+  "source_repo": "agentify-sh/cursor-proxmox-mcp",
+  "source_url": "https://github.com/agentify-sh/cursor-proxmox-mcp",
+  "install": "npx -y cursor-proxmox-mcp"
+}

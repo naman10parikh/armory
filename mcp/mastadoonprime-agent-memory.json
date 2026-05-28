@@ -1,0 +1,7 @@
+{
+  "name": "mastadoonprime-agent-memory",
+  "description": "Persistent, client-side encrypted memory for AI agents with shared knowledge commons and agent messaging.",
+  "source_repo": "mastadoonprime/sylex-memory",
+  "source_url": "https://github.com/mastadoonprime/sylex-memory",
+  "install": "# git clone --depth 1 https://github.com/mastadoonprime/sylex-memory\n# See source for mcpServers config block"
+}

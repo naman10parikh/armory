@@ -1,0 +1,7 @@
+{
+  "name": "sanity-io-sanity-cms",
+  "description": "Integrates with Sanity CMS to enable direct content creation, querying, and management through specialized tools for documents, datasets, schemas, releases, and embeddings",
+  "source_repo": "sanity-io/sanity-mcp-server",
+  "source_url": "https://github.com/sanity-io/sanity-mcp-server",
+  "install": "npx -y sanity-mcp-server"
+}

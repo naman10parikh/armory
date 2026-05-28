@@ -1,0 +1,7 @@
+{
+  "name": "modernops888-mcplex",
+  "description": "Smart MCP gateway with semantic routing and role-based access control.",
+  "source_repo": "modernops888/mcplex",
+  "source_url": "https://github.com/modernops888/mcplex",
+  "install": "# git clone --depth 1 https://github.com/modernops888/mcplex\n# See source for mcpServers config block"
+}

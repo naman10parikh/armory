@@ -1,0 +1,7 @@
+{
+  "name": "ascii-motion-mcp",
+  "description": "Enables AI assistants to create, animate, and export ASCII art using natural language, with live browser sync.",
+  "source_repo": "CameronFoxly/ascii-motion-mcp",
+  "source_url": "https://github.com/CameronFoxly/ascii-motion-mcp",
+  "install": "npx -y ascii-motion-mcp"
+}

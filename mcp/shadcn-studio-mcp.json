@@ -1,0 +1,7 @@
+{
+  "name": "shadcn-studio-mcp",
+  "description": "Integrate shadcn/studio MCP Server directly into your favorite IDE and craft stunning shadcn/ui Components, Blocks and Pages inspired by shadcn/studio.",
+  "source_repo": "",
+  "source_url": "https://shadcnstudio.com/mcp",
+  "install": "# git clone --depth 1 https://shadcnstudio.com/mcp\n# See source for mcpServers config block"
+}

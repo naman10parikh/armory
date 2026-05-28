@@ -1,0 +1,7 @@
+{
+  "name": "krzyzanowskim-xcode-docs",
+  "description": "Access Apple developer documentation and SDK symbols from local Xcode installations on macOS",
+  "source_repo": "krzyzanowskim/xcodedocsmcp",
+  "source_url": "https://github.com/krzyzanowskim/xcodedocsmcp",
+  "install": "# git clone --depth 1 https://github.com/krzyzanowskim/xcodedocsmcp\n# See source for mcpServers config block"
+}

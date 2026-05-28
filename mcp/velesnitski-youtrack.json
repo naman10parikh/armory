@@ -1,0 +1,7 @@
+{
+  "name": "velesnitski-youtrack",
+  "description": "Provides comprehensive access to YouTrack for issue tracking, agile boards, time tracking, and knowledge base management.",
+  "source_repo": "velesnitski/yt-mcp",
+  "source_url": "https://github.com/velesnitski/yt-mcp",
+  "install": "npx -y yt-mcp"
+}

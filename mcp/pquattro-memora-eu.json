@@ -1,0 +1,7 @@
+{
+  "name": "pquattro-memora-eu",
+  "description": "Provides encrypted persistent memory for Claude with client-side AES-256-GCM encryption and semantic search for privacy-preserving context retention.",
+  "source_repo": "pquattro/memoraeu-mcp",
+  "source_url": "https://github.com/pquattro/memoraeu-mcp",
+  "install": "npx -y memoraeu-mcp"
+}

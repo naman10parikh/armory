@@ -1,0 +1,7 @@
+{
+  "name": "newplanetww-commerce-starter",
+  "description": "Boilerplate Python MCP server with e-commerce capabilities — product catalog browsing, keyword search, and checkout initiation, deployable to Vercel.",
+  "source_repo": "newplanetww/mcp-commerce-starter",
+  "source_url": "https://github.com/newplanetww/mcp-commerce-starter",
+  "install": "# git clone --depth 1 https://github.com/newplanetww/mcp-commerce-starter\n# See source for mcpServers config block"
+}

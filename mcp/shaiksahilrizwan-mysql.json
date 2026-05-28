@@ -1,0 +1,7 @@
+{
+  "name": "shaiksahilrizwan-mysql",
+  "description": "Connects AI assistants to MySQL databases via stdio with tools for listing databases, browsing tables, retrieving rows, and executing custom SQL queries.",
+  "source_repo": "shaiksahilrizwan/stdio-mysql-mcp",
+  "source_url": "https://github.com/shaiksahilrizwan/stdio-mysql-mcp",
+  "install": "npx -y stdio-mysql-mcp"
+}

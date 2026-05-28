@@ -1,0 +1,7 @@
+{
+  "name": "executeautomation-database-server",
+  "description": "Enables direct interaction with SQLite and SQL Server databases through a modular adapter architecture for data analysis, database management, and business intelligence workflows without exposing raw credentials.",
+  "source_repo": "executeautomation/mcp-database-server",
+  "source_url": "https://github.com/executeautomation/mcp-database-server",
+  "install": "# git clone --depth 1 https://github.com/executeautomation/mcp-database-server\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "214140846-skillhub",
+  "description": "Converts Claude-style skills into MCP tools for cross-client reuse.",
+  "source_repo": "214140846/skillhub-mcp",
+  "source_url": "https://github.com/214140846/skillhub-mcp",
+  "install": "npx -y skillhub-mcp"
+}

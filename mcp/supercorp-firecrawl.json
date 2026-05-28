@@ -1,0 +1,7 @@
+{
+  "name": "supercorp-firecrawl",
+  "description": "Integrates with Firecrawl API to provide web scraping and search capabilities, enabling extraction of markdown content from URLs and web search queries that return structured results.",
+  "source_repo": "supercorp-ai/firecrawl-mcp",
+  "source_url": "https://github.com/supercorp-ai/firecrawl-mcp",
+  "install": "npx -y firecrawl-mcp"
+}

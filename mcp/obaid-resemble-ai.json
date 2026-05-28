@@ -1,0 +1,7 @@
+{
+  "name": "obaid-resemble-ai",
+  "description": "Provides a bridge to the Resemble AI text-to-speech API, enabling dynamic voice generation for multimedia content through flexible server transport methods and voice model selection.",
+  "source_repo": "obaid/resemble-mcp",
+  "source_url": "https://github.com/obaid/resemble-mcp",
+  "install": "npx -y resemble-mcp"
+}

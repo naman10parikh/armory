@@ -1,0 +1,7 @@
+{
+  "name": "gh-andri-setiawan-scopus",
+  "description": "Search academic papers from Scopus database with citation analysis and author profiles.",
+  "source_repo": "andri-setiawan/mcp-scopus",
+  "source_url": "https://github.com/andri-setiawan/mcp-scopus",
+  "install": "# git clone --depth 1 https://github.com/andri-setiawan/mcp-scopus\n# See source for mcpServers config block"
+}

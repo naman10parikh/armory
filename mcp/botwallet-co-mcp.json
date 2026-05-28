@@ -1,0 +1,7 @@
+{
+  "name": "botwallet-co-mcp",
+  "description": "Wallet for AI agents. Earn via invoices, spend on other agents and paid APIs, manage USDC on Solana with human-set spending limits and FROST 2-of-2 threshold signing.",
+  "source_repo": "botwallet-co/mcp",
+  "source_url": "https://github.com/botwallet-co/mcp",
+  "install": "# git clone --depth 1 https://github.com/botwallet-co/mcp\n# See source for mcpServers config block"
+}

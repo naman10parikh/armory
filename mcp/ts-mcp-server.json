@@ -1,0 +1,7 @@
+{
+  "name": "ts-mcp-server",
+  "description": "Ts Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "Tihi321/ts-mcp-server",
+  "source_url": "https://mcp.so/server/ts-mcp-server/Tihi321",
+  "install": "npx -y ts-mcp-server"
+}

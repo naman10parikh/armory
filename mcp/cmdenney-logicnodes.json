@@ -1,0 +1,7 @@
+{
+  "name": "cmdenney-logicnodes",
+  "description": "Bridges AI agents to a marketplace of 619 pay-per-call deterministic microservices across finance, DeFi, healthcare, and supply chain using the x402 payment protocol.",
+  "source_repo": "cmdenney/logicnodes-mcp-bridge",
+  "source_url": "https://github.com/cmdenney/logicnodes-mcp-bridge",
+  "install": "# git clone --depth 1 https://github.com/cmdenney/logicnodes-mcp-bridge\n# See source for mcpServers config block"
+}

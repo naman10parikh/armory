@@ -1,0 +1,7 @@
+{
+  "name": "abhineet34-linkedin-mcp-server",
+  "description": "Local LinkedIn MCP server for posting to LinkedIn from Claude. 9 tools — create/edit/delete posts (text, image, article), upload images, fetch profile, look up company pages, and check follower counts. Uses the official LinkedIn REST API with OAuth 2.0 (`w_member_social`, OIDC).",
+  "source_repo": "abhineet34/linkedin-mcp-server",
+  "source_url": "https://github.com/abhineet34/linkedin-mcp-server",
+  "install": "npx -y linkedin-mcp-server"
+}

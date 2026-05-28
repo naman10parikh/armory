@@ -1,0 +1,7 @@
+{
+  "name": "undisk",
+  "description": "Undo-first versioned file storage for AI agents — every write is versioned, every file is reversible.",
+  "source_repo": "kiarashplusplus/undisk-mcp-tracker",
+  "source_url": "https://github.com/kiarashplusplus/undisk-mcp-tracker",
+  "install": "# git clone --depth 1 https://github.com/kiarashplusplus/undisk-mcp-tracker\n# See source for mcpServers config block"
+}

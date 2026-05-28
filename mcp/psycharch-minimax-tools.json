@@ -1,0 +1,7 @@
+{
+  "name": "psycharch-minimax-tools",
+  "description": "Integrates with Minimax's AI services to provide image generation and text-to-speech capabilities through a Node.js server, enabling editors to access image-01 and speech-01 models for creating visuals and natural-sounding audio without leaving the editing environment.",
+  "source_repo": "psycharch/minimax-mcp-tools",
+  "source_url": "https://github.com/psycharch/minimax-mcp-tools",
+  "install": "# git clone --depth 1 https://github.com/psycharch/minimax-mcp-tools\n# See source for mcpServers config block"
+}

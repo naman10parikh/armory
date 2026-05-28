@@ -1,0 +1,7 @@
+{
+  "name": "copr-mcp",
+  "description": "Provides tools to interact with Fedora Copr, enabling users to manage projects, builds, and packages through natural language.",
+  "source_repo": "fedora-copr/copr-mcp",
+  "source_url": "https://github.com/fedora-copr/copr-mcp",
+  "install": "npx -y copr-mcp"
+}

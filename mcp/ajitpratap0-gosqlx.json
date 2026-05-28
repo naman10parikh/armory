@@ -1,0 +1,7 @@
+{
+  "name": "ajitpratap0-gosqlx",
+  "description": "7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote server at mcp.gosqlx.dev - no install needed. 1.25M+ ops/sec, 6 SQL dialects.",
+  "source_repo": "ajitpratap0/GoSQLX",
+  "source_url": "https://github.com/ajitpratap0/GoSQLX",
+  "install": "# git clone --depth 1 https://github.com/ajitpratap0/GoSQLX\n# See source for mcpServers config block"
+}

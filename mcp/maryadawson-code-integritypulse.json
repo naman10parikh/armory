@@ -1,0 +1,7 @@
+{
+  "name": "maryadawson-code-integritypulse",
+  "description": "Verified cloud cost forecasting for AI agents across AWS, GCP, and Azure.",
+  "source_repo": "maryadawson-code/integritypulse",
+  "source_url": "https://github.com/maryadawson-code/integritypulse",
+  "install": "# git clone --depth 1 https://github.com/maryadawson-code/integritypulse\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "i524-datadog",
+  "description": "Provides a bridge to the Datadog API, enabling metrics and logs retrieval for monitoring and observability workflows using TypeScript and Bun runtime.",
+  "source_repo": "i524/datadog-mcp-server",
+  "source_url": "https://github.com/i524/datadog-mcp-server",
+  "install": "npx -y datadog-mcp-server"
+}

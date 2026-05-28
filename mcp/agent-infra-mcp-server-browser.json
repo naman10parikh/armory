@@ -1,0 +1,7 @@
+{
+  "name": "agent-infra-mcp-server-browser",
+  "description": "Browser automation capabilities using Puppeteer, both support local and remote browser connection.",
+  "source_repo": "bytedance/UI-TARS-desktop",
+  "source_url": "https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser",
+  "install": "# git clone --depth 1 https://github.com/bytedance/UI-TARS-desktop/tree/main/packages/agent-infra/mcp-servers/browser\n# See source for mcpServers config block"
+}

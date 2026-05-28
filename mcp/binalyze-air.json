@@ -1,0 +1,7 @@
+{
+  "name": "binalyze-air",
+  "description": "Bridges to the Binalyze AIR digital forensics platform, enabling security teams to query endpoint data, monitor status, and manage investigations through a secure API connection.",
+  "source_repo": "binalyze/air-mcp",
+  "source_url": "https://github.com/binalyze/air-mcp",
+  "install": "npx -y air-mcp"
+}

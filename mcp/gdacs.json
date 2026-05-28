@@ -1,0 +1,7 @@
+{
+  "name": "gdacs",
+  "description": "Real-time global disaster alerts, hazard data, and coordination resources via the GDACS system.",
+  "source_repo": "",
+  "source_url": "https://www.gdacs.org",
+  "install": "# git clone --depth 1 https://www.gdacs.org\n# See source for mcpServers config block"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "jwrede-llmprobe",
+  "description": "Synthetic monitoring for LLM inference endpoints. Measure TTFT, latency, throughput, and errors across OpenAI, Anthropic, Google, Azure, Bedrock, and local servers (vLLM, SGLang, Ollama). CLI + MCP server with Prometheus and OpenTelemetry export.",
+  "source_repo": "Jwrede/llmprobe",
+  "source_url": "https://github.com/Jwrede/llmprobe",
+  "install": "# git clone --depth 1 https://github.com/Jwrede/llmprobe\n# See source for mcpServers config block"
+}

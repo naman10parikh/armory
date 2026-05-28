@@ -1,0 +1,7 @@
+{
+  "name": "kerongon-mysql",
+  "description": "Connects to MySQL databases via sockets to enable querying, schema analysis, and read-only data retrieval.",
+  "source_repo": "kerongon/mcp-server-mamp-mysql",
+  "source_url": "https://github.com/kerongon/mcp-server-mamp-mysql",
+  "install": "# git clone --depth 1 https://github.com/kerongon/mcp-server-mamp-mysql\n# See source for mcpServers config block"
+}

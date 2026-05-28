@@ -1,0 +1,7 @@
+{
+  "name": "ranjeet-floyd-informix-db",
+  "description": "Provides secure database operations for IBM Informix databases with configurable read-only and full SQL access modes, connection pooling, and built-in security measures for enterprise environments.",
+  "source_repo": "ranjeet-floyd/informix-db-mcp",
+  "source_url": "https://github.com/ranjeet-floyd/informix-db-mcp",
+  "install": "npx -y informix-db-mcp"
+}

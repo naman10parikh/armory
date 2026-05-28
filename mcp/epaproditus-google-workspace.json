@@ -1,0 +1,7 @@
+{
+  "name": "epaproditus-google-workspace",
+  "description": "Integrates with Gmail and Google Calendar APIs to enable email and calendar management tasks like listing, searching, and modifying emails, as well as creating and updating events.",
+  "source_repo": "epaproditus/google-workspace-mcp-server",
+  "source_url": "https://github.com/epaproditus/google-workspace-mcp-server",
+  "install": "npx -y google-workspace-mcp-server"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "0x1f320-why-did-you-render",
+  "description": "Captures React re-render reports from the browser and exposes them to AI coding agents for performance debugging.",
+  "source_repo": "0x1f320/why-did-you-render-mcp",
+  "source_url": "https://github.com/0x1f320/why-did-you-render-mcp",
+  "install": "npx -y why-did-you-render-mcp"
+}

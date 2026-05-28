@@ -1,0 +1,7 @@
+{
+  "name": "gemini-code-review-mcp",
+  "description": "AI-powered code review server that analyzes git diffs and PRs with context from project guidelines and task lists. Supports integration with Claude Code and Cursor via MCP.",
+  "source_repo": "nicobailon/gemini-code-review-mcp",
+  "source_url": "https://github.com/nicobailon/gemini-code-review-mcp",
+  "install": "npx -y gemini-code-review-mcp"
+}

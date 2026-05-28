@@ -1,0 +1,7 @@
+{
+  "name": "google-tasks-mcp",
+  "description": "Enables AI assistants to manage Google Tasks, including listing, creating, updating, deleting, and completing tasks via the Google Tasks API.",
+  "source_repo": "scottie-will/google-tasks-mcp",
+  "source_url": "https://github.com/scottie-will/google-tasks-mcp",
+  "install": "npx -y google-tasks-mcp"
+}

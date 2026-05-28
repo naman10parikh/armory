@@ -1,0 +1,7 @@
+{
+  "name": "qune-tech-ocds-mcp",
+  "description": "German public procurement data (OCDS) — semantic search, tender matching with company profiles, and structured filtering.",
+  "source_repo": "qune-tech/ocds-mcp",
+  "source_url": "https://github.com/qune-tech/ocds-mcp",
+  "install": "npx -y ocds-mcp"
+}

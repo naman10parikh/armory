@@ -1,0 +1,7 @@
+{
+  "name": "fincontext",
+  "description": "Headless financial data layer giving AI assistants read-only access to bank and investment accounts via Plaid.",
+  "source_repo": "",
+  "source_url": "https://fincontext.ai",
+  "install": "# git clone --depth 1 https://fincontext.ai\n# See source for mcpServers config block"
+}

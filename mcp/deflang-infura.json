@@ -1,0 +1,7 @@
+{
+  "name": "deflang-infura",
+  "description": "Provides access to Ethereum and Polygon blockchain data through Infura's JSON-RPC APIs, offering 35+ tools for querying balances, transactions, blocks, gas prices, and smart contract data with support for both read-only operations and raw transaction broadcasting.",
+  "source_repo": "deflang/infura-mcp",
+  "source_url": "https://github.com/deflang/infura-mcp",
+  "install": "npx -y infura-mcp"
+}

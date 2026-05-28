@@ -1,0 +1,7 @@
+{
+  "name": "remuzel-polarsteps",
+  "description": "Integrates with Polarsteps travel platform to provide user profile data, social connections, travel statistics, detailed trip information, and fuzzy search capabilities for travel analysis and trip planning workflows.",
+  "source_repo": "remuzel/polarsteps-mcp",
+  "source_url": "https://github.com/remuzel/polarsteps-mcp",
+  "install": "npx -y polarsteps-mcp"
+}

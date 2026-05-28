@@ -1,0 +1,7 @@
+{
+  "name": "teddylee777-dify",
+  "description": "Integrates with Dify.ai's workflow applications by transforming Dify workflows into dynamically discoverable tools with parameter validation and response formatting capabilities.",
+  "source_repo": "teddylee777/dify-mcp-server",
+  "source_url": "https://github.com/teddylee777/dify-mcp-server",
+  "install": "npx -y dify-mcp-server"
+}

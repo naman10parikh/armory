@@ -1,0 +1,7 @@
+{
+  "name": "sergical-plausible-analytics",
+  "description": "Queries traffic metrics, conversions, and time-period comparisons from Plausible Analytics.",
+  "source_repo": "sergical/plausible-mcp",
+  "source_url": "https://github.com/sergical/plausible-mcp",
+  "install": "npx -y plausible-mcp"
+}

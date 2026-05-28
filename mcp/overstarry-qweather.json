@@ -1,0 +1,7 @@
+{
+  "name": "overstarry-qweather",
+  "description": "Integrates with QWeather API to provide current weather conditions, multi-day forecasts, and location-based meteorological data for travel planning, outdoor activities, and weather-aware applications.",
+  "source_repo": "overstarry/qweather-mcp",
+  "source_url": "https://github.com/overstarry/qweather-mcp",
+  "install": "npx -y qweather-mcp"
+}

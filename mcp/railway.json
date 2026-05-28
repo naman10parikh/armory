@@ -1,0 +1,7 @@
+{
+  "name": "railway",
+  "description": "Integrates with Railway's platform and CLI to enable deployment, service management, environment configuration, and infrastructure monitoring through conversational workflows.",
+  "source_repo": "railwayapp/railway-mcp-server",
+  "source_url": "https://github.com/railwayapp/railway-mcp-server",
+  "install": "npx -y railway-mcp-server"
+}

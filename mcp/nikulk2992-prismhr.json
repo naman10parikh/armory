@@ -1,0 +1,7 @@
+{
+  "name": "nikulk2992-prismhr",
+  "description": "Open-source MCP server for PrismHR — payroll, benefits, billing, compliance, and Microsoft 365 operations for PEOs.",
+  "source_repo": "nikulk2992-jpg/prismhr-mcp",
+  "source_url": "https://github.com/nikulk2992-jpg/prismhr-mcp",
+  "install": "npx -y prismhr-mcp"
+}

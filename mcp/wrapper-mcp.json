@@ -1,0 +1,7 @@
+{
+  "name": "wrapper-mcp",
+  "description": "Stdio MCP server for QMS Wrapper that enables MCP-capable clients to manage tasks via HTTPS using a Personal Access Token.",
+  "source_repo": "uvaresearch/qmswrapper-mcp",
+  "source_url": "https://github.com/uvaresearch/qmswrapper-mcp",
+  "install": "npx -y qmswrapper-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "mcp-the-guardian",
+  "description": "Enables searching and retrieving articles, sections, and tags from The Guardian via the Guardian Open Platform API.",
+  "source_repo": "pipeworx-io/mcp-the-guardian",
+  "source_url": "https://github.com/pipeworx-io/mcp-the-guardian",
+  "install": "# git clone --depth 1 https://github.com/pipeworx-io/mcp-the-guardian\n# See source for mcpServers config block"
+}

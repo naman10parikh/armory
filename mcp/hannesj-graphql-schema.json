@@ -1,0 +1,7 @@
+{
+  "name": "hannesj-graphql-schema",
+  "description": "Enables AI models to explore and understand GraphQL schemas through specialized tools for querying operations, looking up type definitions, pattern matching, and retrieving simplified field information.",
+  "source_repo": "hannesj/mcp-graphql-schema",
+  "source_url": "https://github.com/hannesj/mcp-graphql-schema",
+  "install": "# git clone --depth 1 https://github.com/hannesj/mcp-graphql-schema\n# See source for mcpServers config block"
+}

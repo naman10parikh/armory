@@ -1,0 +1,7 @@
+{
+  "name": "iamr0s-ruto-phone",
+  "description": "Automates Android devices via ADB with vision-based agent, touch controls, and skill-driven task execution.",
+  "source_repo": "iamr0s/ruto-phone-mcp",
+  "source_url": "https://github.com/iamr0s/ruto-phone-mcp",
+  "install": "npx -y ruto-phone-mcp"
+}

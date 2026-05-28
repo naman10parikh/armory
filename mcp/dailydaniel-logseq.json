@@ -1,0 +1,7 @@
+{
+  "name": "dailydaniel-logseq",
+  "description": "Integrates with LogSeq API to enable automated note-taking, knowledge graph analysis, and workflow automation for developers and knowledge workers.",
+  "source_repo": "dailydaniel/logseq-mcp",
+  "source_url": "https://github.com/dailydaniel/logseq-mcp",
+  "install": "npx -y logseq-mcp"
+}

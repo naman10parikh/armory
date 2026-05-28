@@ -1,0 +1,7 @@
+{
+  "name": "tatumio-blockchain",
+  "description": "Integrates with Tatum's blockchain infrastructure to provide multi-chain data access across 130+ networks including Bitcoin, Ethereum, Polygon, and Solana for retrieving NFT metadata, wallet portfolios, transaction histories, token ownership verification, and exchange rates.",
+  "source_repo": "tatumio/blockchain-mcp",
+  "source_url": "https://github.com/tatumio/blockchain-mcp",
+  "install": "npx -y blockchain-mcp"
+}

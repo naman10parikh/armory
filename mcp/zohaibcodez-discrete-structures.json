@@ -1,0 +1,7 @@
+{
+  "name": "zohaibcodez-discrete-structures",
+  "description": "Comprehensive tools for discrete mathematics including logic, algorithms, number theory, and cryptography.",
+  "source_repo": "zohaibcodez/discrete-structures-ai-platform",
+  "source_url": "https://github.com/zohaibcodez/discrete-structures-ai-platform/tree/HEAD/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/zohaibcodez/discrete-structures-ai-platform/tree/HEAD/mcp-server\n# See source for mcpServers config block"
+}

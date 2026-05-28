@@ -1,0 +1,7 @@
+{
+  "name": "kiteworks",
+  "description": "Integrates with Kiteworks enterprise file sharing platforms through OAuth 2.0 authentication to provide secure file and folder management capabilities including upload/download operations, metadata retrieval, and user information access with enterprise-grade security controls.",
+  "source_repo": "kiteworks/mcp",
+  "source_url": "https://github.com/kiteworks/mcp",
+  "install": "# git clone --depth 1 https://github.com/kiteworks/mcp\n# See source for mcpServers config block"
+}

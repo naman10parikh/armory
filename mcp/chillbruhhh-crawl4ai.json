@@ -1,0 +1,7 @@
+{
+  "name": "chillbruhhh-crawl4ai",
+  "description": "Provides advanced web crawling and RAG capabilities through Crawl4AI with semantic search, knowledge graph integration, and hallucination detection for intelligent content analysis and automated documentation discovery.",
+  "source_repo": "chillbruhhh/crawl4ai-mcp",
+  "source_url": "https://github.com/chillbruhhh/crawl4ai-mcp",
+  "install": "npx -y crawl4ai-mcp"
+}

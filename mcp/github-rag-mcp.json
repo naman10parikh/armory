@@ -1,0 +1,7 @@
+{
+  "name": "github-rag-mcp",
+  "description": "Enables AI agents to search and retrieve context from GitHub issues, pull requests, releases, and documentation using hybrid semantic search and time-ordered activity scans.",
+  "source_repo": "Liplus-Project/github-rag-mcp",
+  "source_url": "https://github.com/Liplus-Project/github-rag-mcp",
+  "install": "npx -y github-rag-mcp"
+}

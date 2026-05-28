@@ -1,0 +1,7 @@
+{
+  "name": "coolver-home-assistant",
+  "description": "IDE-integrated development environment for creating and managing Home Assistant automations, dashboards, themes, and configurations through natural language",
+  "source_repo": "coolver/home-assistant-mcp",
+  "source_url": "https://github.com/coolver/home-assistant-mcp",
+  "install": "npx -y home-assistant-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "launchdarkly",
+  "description": "Enables AI agents to manage LaunchDarkly feature flags, AI configs, targeting rules, and gradual rollouts across multiple environments.",
+  "source_repo": "launchdarkly/mcp-server",
+  "source_url": "https://github.com/launchdarkly/mcp-server",
+  "install": "# git clone --depth 1 https://github.com/launchdarkly/mcp-server\n# See source for mcpServers config block"
+}

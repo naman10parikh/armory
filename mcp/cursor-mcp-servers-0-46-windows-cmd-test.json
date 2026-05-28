@@ -1,0 +1,7 @@
+{
+  "name": "cursor-mcp-servers-0-46-windows-cmd-test",
+  "description": "Cursor Mcp Servers 0.46 Windows Cmd Test MCP server listed on mcp.so.",
+  "source_repo": "Zanedname/cursor-mcp-Servers-0.46-windows-cmd-test",
+  "source_url": "https://mcp.so/server/cursor-mcp-Servers-0.46-windows-cmd-test/Zanedname",
+  "install": "# git clone --depth 1 https://mcp.so/server/cursor-mcp-Servers-0.46-windows-cmd-test/Zanedname\n# See source for mcpServers config block"
+}

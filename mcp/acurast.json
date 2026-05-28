@@ -1,0 +1,7 @@
+{
+  "name": "acurast",
+  "description": "Provides a bridge to the Acurast decentralized computing platform for deploying scripts and monitoring processor performance metrics across distributed computing tasks.",
+  "source_repo": "andreasgassmann/acurast-mcp-server",
+  "source_url": "https://github.com/andreasgassmann/acurast-mcp-server",
+  "install": "npx -y acurast-mcp-server"
+}

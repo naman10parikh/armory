@@ -1,0 +1,7 @@
+{
+  "name": "joshdougall-memory",
+  "description": "Persistent, searchable, versioned memory for AI agents backed by Valkey or Redis with tag-based search and version history.",
+  "source_repo": "joshdougall/memory-mcp",
+  "source_url": "https://github.com/joshdougall/memory-mcp",
+  "install": "npx -y memory-mcp"
+}

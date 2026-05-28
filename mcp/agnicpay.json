@@ -1,0 +1,7 @@
+{
+  "name": "agnicpay",
+  "description": "x402 micropayment infrastructure for AI agents enabling automated USDC payments to 300+ APIs on Base and Solana.",
+  "source_repo": "agnicpay-prog/agnicpay-mcp",
+  "source_url": "https://github.com/agnicpay-prog/agnicpay-mcp",
+  "install": "npx -y agnicpay-mcp"
+}

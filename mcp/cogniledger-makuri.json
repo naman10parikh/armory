@@ -1,0 +1,7 @@
+{
+  "name": "cogniledger-makuri",
+  "description": "AI tutoring platform for immigrant children with EU-compliant privacy protections.",
+  "source_repo": "cogniledger/cogniledger-mcp-makuri",
+  "source_url": "https://github.com/cogniledger/cogniledger-mcp-makuri",
+  "install": "# git clone --depth 1 https://github.com/cogniledger/cogniledger-mcp-makuri\n# See source for mcpServers config block"
+}

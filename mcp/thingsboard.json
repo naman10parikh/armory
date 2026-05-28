@@ -1,0 +1,7 @@
+{
+  "name": "thingsboard",
+  "description": "Integrates with ThingsBoard IoT platform to manage devices, assets, customers, users, alarms, and telemetry data with edition-aware functionality that dynamically enables Professional Edition features while maintaining Community Edition compatibility.",
+  "source_repo": "thingsboard/thingsboard-mcp",
+  "source_url": "https://github.com/thingsboard/thingsboard-mcp",
+  "install": "npx -y thingsboard-mcp"
+}

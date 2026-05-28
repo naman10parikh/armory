@@ -1,0 +1,7 @@
+{
+  "name": "farmerajf-apple-reminders",
+  "description": "Native Swift integration with Apple Reminders for comprehensive task management via EventKit on macOS",
+  "source_repo": "farmerajf/apple-events-mcp",
+  "source_url": "https://github.com/farmerajf/apple-events-mcp",
+  "install": "npx -y apple-events-mcp"
+}

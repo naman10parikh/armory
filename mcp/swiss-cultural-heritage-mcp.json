@@ -1,0 +1,7 @@
+{
+  "name": "swiss-cultural-heritage-mcp",
+  "description": "Enables AI-native access to Swiss cultural heritage data from SIK-ISEA (artists), Nationalmuseum (collections), and Nationalbibliothek (bibliography) via MCP tools, without authentication.",
+  "source_repo": "malkreide/swiss-cultural-heritage-mcp",
+  "source_url": "https://github.com/malkreide/swiss-cultural-heritage-mcp",
+  "install": "npx -y swiss-cultural-heritage-mcp"
+}

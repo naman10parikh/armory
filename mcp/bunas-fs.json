@@ -1,0 +1,7 @@
+{
+  "name": "bunas-fs",
+  "description": "Enables file system access to read local files with optional API key authentication, providing a simple interface for analyzing and working with file content without manual uploads.",
+  "source_repo": "bunasq/fs",
+  "source_url": "https://github.com/bunasq/fs",
+  "install": "# git clone --depth 1 https://github.com/bunasq/fs\n# See source for mcpServers config block"
+}

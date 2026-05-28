@@ -1,0 +1,7 @@
+{
+  "name": "mcp-django-server",
+  "description": "A Django MCP server that exposes tools and resources to AI agents using simple decorators, with auto-discovery, type safety, and custom authentication.",
+  "source_repo": "99rig/django-mcp-server",
+  "source_url": "https://github.com/99rig/django-mcp-server",
+  "install": "npx -y django-mcp-server"
+}

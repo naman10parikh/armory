@@ -1,0 +1,7 @@
+{
+  "name": "dbt-cli-mcp",
+  "description": "Dbt Cli Mcp MCP server listed on mcp.so.",
+  "source_repo": "MammothGrowth/dbt-cli-mcp",
+  "source_url": "https://mcp.so/server/dbt-cli-mcp/MammothGrowth",
+  "install": "npx -y dbt-cli-mcp"
+}

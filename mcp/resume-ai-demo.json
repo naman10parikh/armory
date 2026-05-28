@@ -1,0 +1,7 @@
+{
+  "name": "resume-ai-demo",
+  "description": "Resume Ai Demo MCP server listed on mcp.so.",
+  "source_repo": "dustinbturner/resume-ai-demo",
+  "source_url": "https://mcp.so/server/resume-ai-demo/dustinbturner",
+  "install": "# git clone --depth 1 https://mcp.so/server/resume-ai-demo/dustinbturner\n# See source for mcpServers config block"
+}

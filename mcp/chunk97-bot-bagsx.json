@@ -1,0 +1,7 @@
+{
+  "name": "chunk97-bot-bagsx",
+  "description": "Connects to the Bags.fm API for Solana token trading, launches, fee management, and portfolio analytics with unsigned transaction security.",
+  "source_repo": "maaz-1997/bagsx-mcp",
+  "source_url": "https://github.com/maaz-1997/bagsx-mcp",
+  "install": "npx -y bagsx-mcp"
+}

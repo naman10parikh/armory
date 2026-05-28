@@ -1,0 +1,7 @@
+{
+  "name": "gnome-ui-mcp",
+  "description": "Small MCP server for GNOME Wayland desktop automation, enabling element lookup, activation, typing, screenshots, and wait helpers through AT-SPI and Mutter RemoteDesktop.",
+  "source_repo": "asattelmaier/gnome-ui-mcp",
+  "source_url": "https://github.com/asattelmaier/gnome-ui-mcp",
+  "install": "npx -y gnome-ui-mcp"
+}

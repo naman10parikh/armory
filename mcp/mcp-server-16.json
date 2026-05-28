@@ -1,0 +1,7 @@
+{
+  "name": "mcp-server-16",
+  "description": "Mcp Server MCP server listed on mcp.so.",
+  "source_repo": "ianrichard/mcp-server",
+  "source_url": "https://mcp.so/server/mcp-server/ianrichard",
+  "install": "# git clone --depth 1 https://mcp.so/server/mcp-server/ianrichard\n# See source for mcpServers config block"
+}

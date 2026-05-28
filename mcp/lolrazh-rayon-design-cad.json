@@ -1,0 +1,7 @@
+{
+  "name": "lolrazh-rayon-design-cad",
+  "description": "Integrates with Rayon Design CAD interface using browser automation to enable shape creation and drawing method searches for AI-assisted design workflows.",
+  "source_repo": "lolrazh/cad-mcp",
+  "source_url": "https://github.com/lolrazh/cad-mcp",
+  "install": "npx -y cad-mcp"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "call-for-papers-2",
+  "description": "The verified hub for conferences and journals. Powered by AI to match your scholarly ambitions with the world's most prestigious academic opportunities",
+  "source_repo": "",
+  "source_url": "https://callforpaper.org/",
+  "install": "# git clone --depth 1 https://callforpaper.org/\n# See source for mcpServers config block"
+}

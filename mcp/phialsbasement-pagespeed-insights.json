@@ -1,0 +1,7 @@
+{
+  "name": "phialsbasement-pagespeed-insights",
+  "description": "Integrates Google's PageSpeed Insights API to provide detailed web performance metrics and optimization recommendations for websites.",
+  "source_repo": "phialsbasement/pagespeed-mcp-server",
+  "source_url": "https://github.com/phialsbasement/pagespeed-mcp-server",
+  "install": "npx -y pagespeed-mcp-server"
+}
