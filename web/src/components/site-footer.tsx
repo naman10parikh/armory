@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Logo } from "./logo";
 import { Reveal } from "./reveal";
 
-const REPO = "https://github.com/naman10parikh/engram";
+const REPO = "https://github.com/naman10parikh/component";
 
 // Staggered-reveal footer. "The Armory of agent harness components." MIT.
 export function SiteFooter() {

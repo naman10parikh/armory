@@ -17,7 +17,7 @@
       "workflows": 0
     }
   },
-  "engrams": [
+  "components": [
     {
       "name": "playwright-mcp",
       "type": "mcps",

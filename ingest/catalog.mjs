@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram catalog generator. Walks brain/components/<type>/*.md, parses YAML
+// Component catalog generator. Walks brain/components/<type>/*.md, parses YAML
 // frontmatter (minimal hand-rolled parser, zero npm deps), writes catalog.json.
 // Counts are COMPUTED, never hardcoded. Run: node ingest/catalog.mjs
 import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
@@ -17,7 +17,7 @@ export const TYPES = [
   "infrastructure", "workflows",
 ];
 
-// Fields the catalog emits per engram, with their default when absent.
+// Fields the catalog emits per component, with their default when absent.
 const FIELDS = {
   name: "", type: "", description: "", source_repo: "", source_url: "",
   license: "", cli_compat: [], maturity: "", stars: null, eval_score: null,
@@ -26,7 +26,7 @@ const FIELDS = {
 
 // --- Minimal frontmatter parser (~30 lines) -------------------------------
 // Handles: scalars, "null", numbers, [inline, lists], folded (>) blocks,
-// and block lists ("- item"). Enough for the engram contract; not full YAML.
+// and block lists ("- item"). Enough for the component contract; not full YAML.
 export function parseFrontmatter(raw) {
   const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!m) return {};
@@ -77,7 +77,7 @@ function coerce(v) {
 
 // --- Walk + build ----------------------------------------------------------
 export function buildCatalog() {
-  const engrams = [];
+  const components = [];
   const by_type = Object.fromEntries(TYPES.map((t) => [t, 0]));
   for (const type of TYPES) {
     const dir = join(COMPONENTS, type);
@@ -87,22 +87,22 @@ export function buildCatalog() {
       const slug = basename(file, ".md");
       if (slug === type) continue; // skip the category hub note (e.g. mcps/mcps.md)
       const fm = parseFrontmatter(readFileSync(join(dir, file), "utf8"));
-      const engram = {};
+      const component = {};
       for (const [k, def] of Object.entries(FIELDS)) {
-        engram[k] = fm[k] !== undefined ? fm[k] : def;
+        component[k] = fm[k] !== undefined ? fm[k] : def;
       }
-      engram.path = `components/${type}/${file}`;
-      engrams.push(engram);
+      component.path = `components/${type}/${file}`;
+      components.push(component);
       by_type[type] += 1;
     }
   }
-  engrams.sort((a, b) =>
+  components.sort((a, b) =>
     a.type === b.type ? a.name.localeCompare(b.name) : a.type.localeCompare(b.type)
   );
   return {
     generated_at: new Date().toISOString(),
-    counts: { total: engrams.length, by_type },
-    engrams,
+    counts: { total: components.length, by_type },
+    components,
   };
 }
 
@@ -112,7 +112,7 @@ function main() {
   const catalog = buildCatalog();
   writeFileSync(OUT, JSON.stringify(catalog, null, 2) + "\n");
   const { total, by_type } = catalog.counts;
-  console.log(`engram catalog → ${OUT}`);
+  console.log(`component catalog → ${OUT}`);
   console.log(`  total: ${total}`);
   for (const t of TYPES) console.log(`  ${t}: ${by_type[t]}`);
 }

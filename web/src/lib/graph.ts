@@ -1,15 +1,15 @@
 // Graph data derivation for the synapse view. Pure functions — safe to call on
 // the server (to pass a sampled subset to the client) and on the client.
 //
-// PERFORMANCE: the catalog is heading toward thousands of engrams. We NEVER ship
+// PERFORMANCE: the catalog is heading toward thousands of components. We NEVER ship
 // every node to the canvas. `sampleGraph` returns a bounded subset, biased toward
 // the highest-degree nodes (the ones that make the "brain" legible) plus their
 // neighbours, so the picture stays meaningful at any catalog size.
-import type { Engram, EngramType } from "./types";
+import type { Component, ComponentType } from "./types";
 
 export interface GraphNode {
-  id: string; // engram name (unique within the catalog)
-  type: EngramType;
+  id: string; // component name (unique within the catalog)
+  type: ComponentType;
   label: string;
   degree: number; // number of resolved synapses
   stars: number | null;
@@ -30,19 +30,19 @@ export interface GraphData {
 /**
  * Build a sampled, undirected synapse graph from the catalog.
  *
- * @param engrams  full engram list
+ * @param components  full component list
  * @param maxNodes hard cap on rendered nodes (default 220 — smooth on canvas)
  */
-export function buildGraph(engrams: Engram[], maxNodes = 220): GraphData {
-  const total = engrams.length;
-  const byName = new Map<string, Engram>();
-  for (const e of engrams) byName.set(e.name, e);
+export function buildGraph(components: Component[], maxNodes = 220): GraphData {
+  const total = components.length;
+  const byName = new Map<string, Component>();
+  for (const e of components) byName.set(e.name, e);
 
-  // Resolved-degree per node (only count edges to engrams that actually exist).
+  // Resolved-degree per node (only count edges to components that actually exist).
   const degree = new Map<string, number>();
   const edgeKeys = new Set<string>();
   const allEdges: GraphEdge[] = [];
-  for (const e of engrams) {
+  for (const e of components) {
     for (const rel of e.related) {
       if (!byName.has(rel) || rel === e.name) continue;
       // Undirected: dedupe (a,b)/(b,a) with a sorted key.
@@ -56,7 +56,7 @@ export function buildGraph(engrams: Engram[], maxNodes = 220): GraphData {
   }
 
   // Pick which nodes survive. Order by degree desc, then stars, then name.
-  const ranked = [...engrams].sort((a, b) => {
+  const ranked = [...components].sort((a, b) => {
     const da = degree.get(a.name) ?? 0;
     const db = degree.get(b.name) ?? 0;
     if (db !== da) return db - da;
@@ -88,24 +88,24 @@ export function buildGraph(engrams: Engram[], maxNodes = 220): GraphData {
 }
 
 /**
- * A local 1-hop neighbourhood around one engram, for the detail page's
+ * A local 1-hop neighbourhood around one component, for the detail page's
  * "synapses" subgraph. Tiny by construction (the focus node + its neighbours).
  */
 export function buildNeighborhood(
-  engrams: Engram[],
+  components: Component[],
   focusName: string,
 ): GraphData {
-  const byName = new Map(engrams.map((e) => [e.name, e]));
+  const byName = new Map(components.map((e) => [e.name, e]));
   const focus = byName.get(focusName);
   if (!focus) return { nodes: [], edges: [], sampled: false, totalNodes: 0 };
 
   const neighborNames = new Set<string>([focusName]);
   for (const rel of focus.related) if (byName.has(rel)) neighborNames.add(rel);
-  // Also pull engrams that point AT the focus (incoming synapses).
-  for (const e of engrams) {
+  // Also pull components that point AT the focus (incoming synapses).
+  for (const e of components) {
     if (e.related.includes(focusName)) neighborNames.add(e.name);
   }
 
-  const sub = engrams.filter((e) => neighborNames.has(e.name));
+  const sub = components.filter((e) => neighborNames.has(e.name));
   return buildGraph(sub, neighborNames.size);
 }

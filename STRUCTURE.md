@@ -21,7 +21,7 @@ brain/                        ← Obsidian metadata graph (source of truth)
     observability/ <slug>.md
     infrastructure/ <slug>.md
     workflows/  <slug>.md
-  MOC - Engram.md             ← master index note
+  MOC - Armory.md             ← master index note
 catalog.json                  ← generated index (never hand-edited); run `pnpm catalog` to rebuild
 ```
 
@@ -72,12 +72,12 @@ See [PLUGIN.md](./PLUGIN.md) for per-harness install commands.
 ```
 ingest/
   catalog.mjs                 ← walks brain/components/, writes catalog.json
-  validate.mjs                ← validates every engram's frontmatter contract
+  validate.mjs                ← validates every component's frontmatter contract
   vendor.mjs                  ← copies real files from upstream repos into root type dirs
   crawl-*.mjs                 ← per-source crawlers (PulseMCP, Smithery, Glama, …)
   promote.mjs                 ← moves incoming/ → brain/components/ + root type dirs
   verify-links.mjs            ← checks source_url liveness
-incoming/                     ← staging area for new engrams before promote
+incoming/                     ← staging area for new components before promote
 .github/workflows/autolab.yml ← nightly self-improvement pipeline
 MASTER-TODO.md                ← tracked work items
 AUTOLAB-LOG.md                ← AutoLab run history

@@ -21,7 +21,7 @@ interface Pulse {
  * The signature surface: an Obsidian-style force-directed synapse graph on a
  * canvas. Nodes fade in, edges draw, an amber pulse periodically fires along an
  * edge. Hover brightens a node + its 1-hop neighbours. Click navigates to the
- * engram. Honours prefers-reduced-motion (snaps to final, no pulses).
+ * component. Honours prefers-reduced-motion (snaps to final, no pulses).
  *
  * `interactive=false` is the hero teaser (no click/hover labels). `query`
  * dims non-matching nodes live (used on the full graph page).
@@ -255,7 +255,7 @@ export function SynapseGraph({
       ref={wrapRef}
       className={className}
       role="img"
-      aria-label={`Synapse graph of ${data.totalNodes} related engrams`}
+      aria-label={`Synapse graph of ${data.totalNodes} related components`}
     >
       <canvas ref={canvasRef} className="block h-full w-full" />
       {interactive && hover && (

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram link verifier. Walks engrams under a passed dir, HEAD-checks each
+// Component link verifier. Walks components under a passed dir, HEAD-checks each
 // source_url, reports 404s/unreachable, and (with --stamp) bumps verified_at to
 // today for the ones that resolve. The fetcher is INJECTABLE for tests (no real
 // network). Zero npm deps. Run: node ingest/verify-links.mjs --dir <dir> [--stamp]

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Engram COLLECTIONS crawler. Deterministic generator (parse source tree ->
-// emit one engram stub per entry; NEVER hand-authoring) that fills the
+// Component COLLECTIONS crawler. Deterministic generator (parse source tree ->
+// emit one component stub per entry; NEVER hand-authoring) that fills the
 // under-covered registry categories from their biggest open-source catalogs:
 //
 //   1. claudemd-rules <- PatrickJS/awesome-cursorrules  (rules/*.mdc, ~256)
@@ -119,7 +119,7 @@ export function cursorRulesAdapter({ repoDir, existingNames = new Set() }) {
         };
       });
     },
-    toEngram(item) {
+    toComponent(item) {
       const base = slugify(item.fileSlug);
       const uname = uniqueName(base, seen);
       const desc = scrub(item.description) ||
@@ -173,7 +173,7 @@ export function voltAgentAdapter({ repoDir, existingNames = new Set() }) {
         };
       });
     },
-    toEngram(item) {
+    toComponent(item) {
       // Prefer the frontmatter name; fall back to filename. kebab-case slug.
       const base = slugify(item.fmName || item.fileSlug);
       const uname = uniqueName(base, seen);
@@ -267,7 +267,7 @@ export function hooksAdapter({ dislerDir, deciderDir, existingNames = new Set() 
       }
       return items;
     },
-    toEngram(item) {
+    toComponent(item) {
       // Disambiguate same-named hooks across repos by prefixing the repo owner.
       const base = uniqueName(slugify(item.fileSlug), new Set()); // no-op normalize
       const candidate = seen.has(base) ? `${item.owner}-${base}` : base;
@@ -294,14 +294,14 @@ export function hooksAdapter({ dislerDir, deciderDir, existingNames = new Set() 
   };
 }
 
-// --- Run one adapter: fetch -> toEngram -> write stubs (resets dir first) ---
+// --- Run one adapter: fetch -> toComponent -> write stubs (resets dir first) ---
 export async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = console.log } = {}) {
   const items = await adapter.fetch();
   const dir = join(outDir, adapter.name);
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub against the catalog parser before writing.

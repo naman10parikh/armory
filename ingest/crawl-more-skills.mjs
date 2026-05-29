@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram adapter: community skill + CLAUDE.md/rules collections.
+// Component adapter: community skill + CLAUDE.md/rules collections.
 // Sources (all from anthropics/claude-cookbook):
 //   - skills (SKILL.md files) -> type: skills
 //   - managed-agent CLAUDE.md harness files -> type: claudemd-rules
@@ -158,7 +158,7 @@ export function cookbookAdapter({ repoDir, existingNames = new Set() }) {
       return items;
     },
 
-    toEngram(item) {
+    toComponent(item) {
       const type = item.kind === "skill" ? "skills" : "claudemd-rules";
       const base = slugify(item.fmName || basename(dirname(item.relPath)));
       const uname = uniqueName(base, seen);
@@ -212,7 +212,7 @@ export function cookbookAdapter({ repoDir, existingNames = new Set() }) {
 }
 
 // ---------------------------------------------------------------------------
-// Runner: fetch -> toEngram -> self-validate -> write (mirrors runCollection)
+// Runner: fetch -> toComponent -> self-validate -> write (mirrors runCollection)
 // ---------------------------------------------------------------------------
 
 export async function runMoreSkills(adapter, { dryRun = true, log = console.log } = {}) {
@@ -223,7 +223,7 @@ export async function runMoreSkills(adapter, { dryRun = true, log = console.log 
 
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md   = toMarkdown({ frontmatter, body });
 

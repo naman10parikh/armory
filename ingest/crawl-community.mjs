@@ -64,7 +64,7 @@ function whenToUse(desc, fallback) {
   return d.length > 300 ? d.slice(0, 297).trimEnd() + "…" : d;
 }
 
-// Standard engram frontmatter object (field order matches the contract).
+// Standard component frontmatter object (field order matches the contract).
 function frontmatter({ name, type, description, sourceUrl, tags }) {
   return {
     name,
@@ -268,7 +268,7 @@ function extractRules() {
 
 // hooks/hooks.json entries → hooks. Each lifecycle hook has an `id`, a
 // `matcher`, and a `description`. id contains ':' so we slugify it. We also
-// emit the memory-persistence reference bundle as one engram.
+// emit the memory-persistence reference bundle as one component.
 function extractHooks() {
   const out = [];
   const seen = new Set();

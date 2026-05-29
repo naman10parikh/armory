@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T02:26:33.839Z",
+  "generated_at": "2026-05-29T02:34:18.544Z",
   "counts": {
     "total": 25255,
     "by_type": {
@@ -17,7 +17,7 @@
       "workflows": 716
     }
   },
-  "engrams": [
+  "components": [
     {
       "name": "additional-directories",
       "type": "claudemd-rules",

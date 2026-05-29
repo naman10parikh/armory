@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram MASS migrator. Deterministic generator (parse list -> emit one engram
+// Component MASS migrator. Deterministic generator (parse list -> emit one component
 // stub per entry; NEVER hand-authoring) for the two canonical "awesome"
 // navigation directories. Zero npm deps. Reuses crawl.mjs's `toMarkdown` +
 // `slugify` serializer and validates against catalog.mjs's `parseFrontmatter`.
@@ -136,7 +136,7 @@ export function parseAmcpReadme(markdown) {
   return items;
 }
 
-// Build engram stubs for awesome-mcp-servers. Slug from the link text (often
+// Build component stubs for awesome-mcp-servers. Slug from the link text (often
 // "owner/name"); we slugify the whole thing so it stays unique-ish, then dedupe.
 export function buildAmcpStubs(items) {
   const seen = new Set();
@@ -194,7 +194,7 @@ export function parseCsv(text) {
   return rows;
 }
 
-// Category -> engram type, per the migration contract. Categories not in the map
+// Category -> component type, per the migration contract. Categories not in the map
 // (e.g. "Official Documentation") are skipped — they aren't component types.
 const ACC_CATEGORY_TO_TYPE = {
   "Slash-Commands": "workflows",
@@ -257,7 +257,7 @@ export function parseAccCsv(csvText) {
   return items;
 }
 
-// Build engram stubs for awesome-claude-code, grouped by type dir. `related`
+// Build component stubs for awesome-claude-code, grouped by type dir. `related`
 // stays [] (synapses filled at verify time). Slug from the display name.
 export function buildAccStubs(items) {
   const seenByType = {};                              // unique within each type dir
@@ -293,7 +293,7 @@ function writeStub(dir, frontmatter, body) {
 
 function writeReadme(dir, title, sourceUrl, count, extra = "") {
   const md = `# ${title}\n\n` +
-    `Auto-generated engram stubs, migrated **${VERIFIED_AT}** by ` +
+    `Auto-generated component stubs, migrated **${VERIFIED_AT}** by ` +
     `\`ingest/migrate-awesome.mjs\`.\n\n` +
     `- **Source:** ${sourceUrl}\n` +
     `- **Stubs:** ${count}\n` +

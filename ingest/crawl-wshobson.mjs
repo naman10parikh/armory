@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram crawler for wshobson/agents + wshobson/commands.
+// Component crawler for wshobson/agents + wshobson/commands.
 //
 //   wshobson/agents  → plugins/*/agents/*.md  → type: subagents  (191 files)
 //                      plugins/*/commands/*.md → type: workflows  (102 files)
@@ -137,7 +137,7 @@ function wshobsonAgentsAdapter({ repoDir, seen }) {
     return items;
   }
 
-  function toEngram(item) {
+  function toComponent(item) {
     const base = slugify(item.fmName || item.fileSlug);
     const uname = uniqueName(base, seen);
     const rawDesc = item.fmDescription || firstProseLine(item.raw);
@@ -179,7 +179,7 @@ function wshobsonAgentsAdapter({ repoDir, seen }) {
     };
   }
 
-  return { name: "wshobson-agents", fetch, toEngram };
+  return { name: "wshobson-agents", fetch, toComponent };
 }
 
 // =====================================================================
@@ -223,7 +223,7 @@ function wshobsonCommandsAdapter({ repoDir, seen }) {
     return items;
   }
 
-  function toEngram(item) {
+  function toComponent(item) {
     const base = slugify(item.fmName || item.fileSlug);
     const uname = uniqueName(base, seen);
     const rawDesc = item.fmDescription || firstProseLine(item.raw);
@@ -258,11 +258,11 @@ function wshobsonCommandsAdapter({ repoDir, seen }) {
     };
   }
 
-  return { name: "wshobson-commands", fetch, toEngram };
+  return { name: "wshobson-commands", fetch, toComponent };
 }
 
 // =====================================================================
-// RUNNER: fetch -> toEngram -> self-validate -> write
+// RUNNER: fetch -> toComponent -> self-validate -> write
 // =====================================================================
 // resetOnce: caller is responsible for resetting the dir before the first adapter.
 async function runAdapter(adapter, { dryRun = true, log = console.log } = {}) {
@@ -270,7 +270,7 @@ async function runAdapter(adapter, { dryRun = true, log = console.log } = {}) {
   const written = [];
 
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(WSHOBSON_DIR, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
 

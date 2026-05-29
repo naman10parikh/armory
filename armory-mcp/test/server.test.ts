@@ -2,7 +2,7 @@ import { describe, it, expect } from "vitest";
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
-import { rankEngrams, type Catalog } from "../src/catalog.js";
+import { rankComponents, type Catalog } from "../src/catalog.js";
 import { validateMarkdown } from "../src/submit.js";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
@@ -10,15 +10,15 @@ const catalog = JSON.parse(
   readFileSync(join(HERE, "fixture-catalog.json"), "utf8")
 ) as Catalog;
 
-describe("rankEngrams (mcp)", () => {
-  it("ranks browser engrams for 'browser' and excludes unrelated ones", () => {
-    const names = rankEngrams(catalog.engrams, "browser").map((r) => r.engram.name);
+describe("rankComponents (mcp)", () => {
+  it("ranks browser components for 'browser' and excludes unrelated ones", () => {
+    const names = rankComponents(catalog.components, "browser").map((r) => r.component.name);
     expect(names).toContain("playwright-mcp");
     expect(names).not.toContain("memory-compression");
   });
 
   it("returns empty for an empty query", () => {
-    expect(rankEngrams(catalog.engrams, "")).toHaveLength(0);
+    expect(rankComponents(catalog.components, "")).toHaveLength(0);
   });
 });
 
@@ -36,7 +36,7 @@ license: MIT
 An example.
 `;
 
-  it("accepts a well-formed engram", () => {
+  it("accepts a well-formed component", () => {
     const result = validateMarkdown(good);
     expect(result.ok).toBe(true);
     expect(result.name).toBe("example-mcp");

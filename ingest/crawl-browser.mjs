@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// Engram browser-tools crawler. Curated adapter — no live network calls.
+// Component browser-tools crawler. Curated adapter — no live network calls.
 // Covers the canonical browser-automation + agent-browser ecosystem (~35 tools).
-// Writes one engram stub per tool into incoming/browser-tools/.
+// Writes one component stub per tool into incoming/browser-tools/.
 //
 // Run:
 //   node ingest/crawl-browser.mjs           # dry-run
@@ -375,7 +375,7 @@ function browserAdapter() {
 
     async fetch() { return records; },
 
-    toEngram(raw) {
+    toComponent(raw) {
       const base = slugify(raw.name);
       const uname = uniqueName(base, seen);
       const desc = scrub(raw.description).slice(0, 400) || raw.name;
@@ -401,7 +401,7 @@ function browserAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\n${desc}\n\n` +
           `## How to install / invoke\nSee the source repo README: https://github.com/${raw.source_repo}\n\n` +
-          `## Notes\nCurated by the Engram browser-tools adapter. Pending verify -> promote.`,
+          `## Notes\nCurated by the Component browser-tools adapter. Pending verify -> promote.`,
       };
     },
   };
@@ -415,7 +415,7 @@ async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = 
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub via parseFrontmatter (mirrors smithery pattern).

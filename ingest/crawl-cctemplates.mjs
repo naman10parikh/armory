@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Engram cc-templates crawler. Deterministic generator that walks
-// davila7/claude-code-templates (aitmpl.com) and emits one engram stub per
+// Component cc-templates crawler. Deterministic generator that walks
+// davila7/claude-code-templates (aitmpl.com) and emits one component stub per
 // component file into incoming/cc-templates/<slug>.md.
 //
 // Source layout (cli-tool/components/):
@@ -253,7 +253,7 @@ export function ccTemplatesAdapter({ repoDir }) {
       return items;
     },
 
-    toEngram(item) {
+    toComponent(item) {
       // Derive name: prefer frontmatter name, else file stem (or dir for SKILL.md)
       const fileBase = item.nameFromFm
         ? slugify(item.nameFromFm)
@@ -361,7 +361,7 @@ function buildInstallHint(item, uname, url) {
   }
 }
 
-// --- Run the adapter: fetch -> toEngram -> write stubs (resets dir first) ---
+// --- Run the adapter: fetch -> toComponent -> write stubs (resets dir first) ---
 export async function runCcTemplates({ repoDir, dryRun = true, outDir = INCOMING, log = console.log }) {
   const adapter = ccTemplatesAdapter({ repoDir });
   const items = await adapter.fetch();
@@ -370,7 +370,7 @@ export async function runCcTemplates({ repoDir, dryRun = true, outDir = INCOMING
   const written = [];
   const byType = {};
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub against the catalog parser before writing.

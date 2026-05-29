@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Engram crawler framework. Pluggable SourceAdapters turn external sources
-// (awesome-lists, JSON APIs) into engram stubs under incoming/<source>/<slug>.md.
+// Component crawler framework. Pluggable SourceAdapters turn external sources
+// (awesome-lists, JSON APIs) into component stubs under incoming/<source>/<slug>.md.
 // Zero npm deps. Adapters are INJECTABLE so they unit-test with mock data — this
 // task performs NO live network calls. Run: node ingest/crawl.mjs --source <name> [--apply]
 import { mkdirSync, writeFileSync } from "node:fs";
@@ -10,7 +10,7 @@ import { fileURLToPath } from "node:url";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const INCOMING = join(ROOT, "incoming");
 
-// SourceAdapter shape: { name, type, fetch(): Promise<RawItem[]>, toEngram(item) => {frontmatter, body} }
+// SourceAdapter shape: { name, type, fetch(): Promise<RawItem[]>, toComponent(item) => {frontmatter, body} }
 
 // --- Stub serializer (the inverse of parseFrontmatter) --------------------
 export function slugify(s) {
@@ -18,7 +18,7 @@ export function slugify(s) {
     .replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 80) || "untitled";
 }
 
-// Serialize one value to a YAML scalar/inline-list matching the engram dialect.
+// Serialize one value to a YAML scalar/inline-list matching the component dialect.
 function yamlValue(v) {
   if (v === null || v === undefined) return "null";
   if (Array.isArray(v)) return `[${v.map((x) => String(x)).join(", ")}]`;
@@ -26,7 +26,7 @@ function yamlValue(v) {
   return String(v);
 }
 
-// Build a full engram markdown file from {frontmatter, body}. `description` is
+// Build a full component markdown file from {frontmatter, body}. `description` is
 // emitted as a folded (>) block to match the contract and catalog parser.
 export function toMarkdown({ frontmatter, body }) {
   const fm = { ...frontmatter };
@@ -43,7 +43,7 @@ export function toMarkdown({ frontmatter, body }) {
 }
 
 // --- Example adapter 1: GitHub awesome-list (markdown bullet list) ---------
-// Parses "- [Name](url) — description" bullets into engram stubs.
+// Parses "- [Name](url) — description" bullets into component stubs.
 export function githubAwesomeList({ name, type = "mcps", markdown = "", license = "unknown", verifiedAt }) {
   const today = verifiedAt || new Date().toISOString().slice(0, 10);
   const re = /^\s*[-*]\s+\[([^\]]+)\]\(([^)]+)\)\s*(?:[—:-]\s*(.+))?$/;
@@ -51,7 +51,7 @@ export function githubAwesomeList({ name, type = "mcps", markdown = "", license 
     name, type,
     async fetch() { return markdown.split(/\r?\n/).map((l) => l.match(re)).filter(Boolean)
       .map((m) => ({ title: m[1].trim(), url: m[2].trim(), description: (m[3] || m[1]).trim() })); },
-    toEngram(item) {
+    toComponent(item) {
       const repo = (item.url.match(/github\.com\/([^/]+\/[^/#?]+)/) || [])[1] || "";
       const slug = slugify(item.title);
       return { frontmatter: {
@@ -73,7 +73,7 @@ export function genericJsonApi({ name, type = "mcps", records = [], license = "u
   return {
     name, type,
     async fetch() { return records; },
-    toEngram(item) {
+    toComponent(item) {
       const title = item[pick.title] ?? "untitled";
       const desc = item[pick.description] ?? title;
       const slug = slugify(title);
@@ -88,13 +88,13 @@ export function genericJsonApi({ name, type = "mcps", records = [], license = "u
   };
 }
 
-// --- Run one adapter: fetch -> toEngram -> write stubs ---------------------
+// --- Run one adapter: fetch -> toComponent -> write stubs ---------------------
 export async function runCrawl(adapter, { dryRun = true, outDir = INCOMING, log = console.log } = {}) {
   const items = await adapter.fetch();
   const dir = join(outDir, adapter.name);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     if (dryRun) { log(`[dry-run] would write ${file} (${md.split("\n").length} lines)`); }

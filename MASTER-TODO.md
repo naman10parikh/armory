@@ -11,7 +11,7 @@ this is the "distributed master to-do list" the agents contribute to and consume
 
 1. **Claim** the top `QUEUED` row → set it `IN PROGRESS — <who> <date>`.
 2. **Write** a deterministic adapter `ingest/crawl-<name>.mjs` following the
-   `ingest/crawl-collections.mjs` pattern: `fetch()` → `toEngram()`, `scrub()` all
+   `ingest/crawl-collections.mjs` pattern: `fetch()` → `toComponent()`, `scrub()` all
    text (no `/Users/` paths, no personal names), self-validate each stub via
    `parseFrontmatter`. Emit to a **disjoint** `incoming/<name>/` (zero clobber).
 3. **Promote** (coordinator): `node ingest/promote.mjs --from incoming/<name> --to brain/components --apply`

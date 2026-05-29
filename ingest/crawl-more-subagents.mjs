@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram MORE-SUBAGENTS crawler. Walks four community sub-agent / command
+// Component MORE-SUBAGENTS crawler. Walks four community sub-agent / command
 // collections and emits one stub per definition file into
 // incoming/more-subagents/<slug>.md.
 //
@@ -87,14 +87,14 @@ function firstBodyLine(raw) {
   return "";
 }
 
-// Run one adapter: fetch -> toEngram -> write stubs (resets dir first on apply).
+// Run one adapter: fetch -> toComponent -> write stubs (resets dir first on apply).
 async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = console.log } = {}) {
   const items = await adapter.fetch();
   const dir = join(outDir, adapter.name);
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub against the catalog parser before writing.
@@ -147,7 +147,7 @@ export function dlezoAdapter({ repoDir, existingNames = new Set() }) {
         };
       });
     },
-    toEngram(item) {
+    toComponent(item) {
       const base = slugify(item.fmName || item.fileSlug);
       const uname = uniqueName(base, seen);
       const desc = scrub(item.description) ||
@@ -224,7 +224,7 @@ export function vijayAdapter({ repoDir, existingNames = new Set() }) {
         };
       });
     },
-    toEngram(item) {
+    toComponent(item) {
       const base = slugify(item.fmName || item.fileSlug);
       const uname = uniqueName(base, seen);
       const desc = scrub(item.description) ||
@@ -287,7 +287,7 @@ export function hrhAdapter({ repoDir, existingNames = new Set() }) {
         };
       });
     },
-    toEngram(item) {
+    toComponent(item) {
       const base = slugify(item.fmName || item.fileSlug);
       const uname = uniqueName(base, seen);
       const desc = scrub(item.description) ||
@@ -353,8 +353,8 @@ export function moreSubagentsAdapter({ dlezoDir, vijayDir, hrhDir }) {
 
       return all;
     },
-    toEngram(item) {
-      return item._adapter.toEngram(item);
+    toComponent(item) {
+      return item._adapter.toComponent(item);
     },
   };
 }

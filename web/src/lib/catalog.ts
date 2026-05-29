@@ -5,7 +5,7 @@
 import "server-only";
 import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
-import type { Catalog, Engram, EngramType } from "./types";
+import type { Catalog, Component, ComponentType } from "./types";
 
 // The catalog + brain markdown are authored OUTSIDE site/ (repo root + the
 // Obsidian vault). A Vercel build rooted at site/ can't reliably reach parent
@@ -44,15 +44,15 @@ const EMPTY_CATALOG: Catalog = {
       workflows: 0,
     },
   },
-  engrams: [],
+  components: [],
 };
 
-/** Coerce one raw catalog entry into a well-typed Engram. The catalog is
+/** Coerce one raw catalog entry into a well-typed Component. The catalog is
  *  machine-generated and growing to thousands of entries, so fields are not
  *  guaranteed to match the contract (e.g. source_repo has shipped as `[]`).
  *  Normalising once here means every consumer (search, cards, detail) gets
  *  clean data and never has to defend against a non-string / non-array. */
-function normalizeEngram(raw: unknown): Engram | null {
+function normalizeComponent(raw: unknown): Component | null {
   if (!raw || typeof raw !== "object") return null;
   const e = raw as Record<string, unknown>;
   const str = (v: unknown, fallback = ""): string =>
@@ -65,17 +65,17 @@ function normalizeEngram(raw: unknown): Engram | null {
   const name = str(e.name);
   const type = str(e.type);
   const path = str(e.path);
-  if (!name || !type) return null; // an engram with no identity is unusable
+  if (!name || !type) return null; // an component with no identity is unusable
 
   return {
     name,
-    type: type as Engram["type"],
+    type: type as Component["type"],
     description: str(e.description),
     source_repo: str(e.source_repo),
     source_url: str(e.source_url),
     license: str(e.license),
     cli_compat: strArr(e.cli_compat),
-    maturity: str(e.maturity) as Engram["maturity"],
+    maturity: str(e.maturity) as Component["maturity"],
     stars: numOrNull(e.stars),
     eval_score: numOrNull(e.eval_score),
     verified_at: str(e.verified_at),
@@ -93,16 +93,16 @@ export function getCatalog(): Catalog {
   try {
     const raw = readFileSync(CATALOG_PATH, "utf8");
     const parsed = JSON.parse(raw) as Partial<Catalog>;
-    if (!parsed || !Array.isArray(parsed.engrams)) throw new Error("bad shape");
-    const engrams = parsed.engrams
-      .map(normalizeEngram)
-      .filter((e): e is Engram => e !== null);
+    if (!parsed || !Array.isArray(parsed.components)) throw new Error("bad shape");
+    const components = parsed.components
+      .map(normalizeComponent)
+      .filter((e): e is Component => e !== null);
     cached = {
       generated_at: typeof parsed.generated_at === "string"
         ? parsed.generated_at
         : new Date(0).toISOString(),
       counts: parsed.counts ?? EMPTY_CATALOG.counts,
-      engrams,
+      components,
     };
   } catch (err) {
     console.warn(
@@ -114,35 +114,35 @@ export function getCatalog(): Catalog {
   return cached;
 }
 
-export function getEngrams(): Engram[] {
-  return getCatalog().engrams;
+export function getComponents(): Component[] {
+  return getCatalog().components;
 }
 
-export function findEngram(type: string, slug: string): Engram | undefined {
-  return getEngrams().find((e) => e.type === type && e.name === slug);
+export function findComponent(type: string, slug: string): Component | undefined {
+  return getComponents().find((e) => e.type === type && e.name === slug);
 }
 
-export function getEngramsByType(type: EngramType): Engram[] {
-  return getEngrams().filter((e) => e.type === type);
+export function getComponentsByType(type: ComponentType): Component[] {
+  return getComponents().filter((e) => e.type === type);
 }
 
 /** A name→type index so [[wikilink]] related-refs can resolve to detail routes. */
-export function getNameIndex(): Map<string, EngramType> {
-  const index = new Map<string, EngramType>();
-  for (const e of getEngrams()) index.set(e.name, e.type);
+export function getNameIndex(): Map<string, ComponentType> {
+  const index = new Map<string, ComponentType>();
+  for (const e of getComponents()) index.set(e.name, e.type);
   return index;
 }
 
-/** Read the raw markdown BODY (frontmatter stripped) for an engram, from
+/** Read the raw markdown BODY (frontmatter stripped) for an component, from
  *  brain/<path>. Read-only access to the brain vault. Returns "" if unreadable. */
-export function readEngramBody(engram: Engram): string {
+export function readComponentBody(component: Component): string {
   try {
-    const full = join(BRAIN_DIR, engram.path);
+    const full = join(BRAIN_DIR, component.path);
     const raw = readFileSync(full, "utf8");
     return stripFrontmatter(raw);
   } catch (err) {
     console.warn(
-      `[catalog] could not read brain body for ${engram.name}:`,
+      `[catalog] could not read brain body for ${component.name}:`,
       err instanceof Error ? err.message : String(err),
     );
     return "";

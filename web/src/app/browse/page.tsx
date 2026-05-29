@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 import { getCatalog } from "@/lib/catalog";
-import { CATEGORIES, type EngramType } from "@/lib/types";
+import { CATEGORIES, type ComponentType } from "@/lib/types";
 import { BrowseClient } from "./browse-client";
 
 export const metadata: Metadata = {
   title: "Browse — Armory",
-  description: "Search and filter agent-harness engrams by category.",
+  description: "Search and filter agent-harness components by category.",
 };
 
 const VALID_TYPES = new Set<string>(CATEGORIES.map((c) => c.type));
@@ -17,14 +17,14 @@ export default async function BrowsePage({
   searchParams: Promise<{ type?: string }>;
 }) {
   const { type } = await searchParams;
-  const initialType: EngramType | null =
-    type && VALID_TYPES.has(type) ? (type as EngramType) : null;
+  const initialType: ComponentType | null =
+    type && VALID_TYPES.has(type) ? (type as ComponentType) : null;
 
-  const { engrams, counts } = getCatalog();
+  const { components, counts } = getCatalog();
 
   return (
     <BrowseClient
-      engrams={engrams}
+      components={components}
       countsByType={counts.by_type}
       initialType={initialType}
     />

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Engram Smithery crawler. Pulls MCP server listings from the Smithery registry
-// (registry.smithery.ai) and emits one engram stub per server into incoming/smithery/.
+// Component Smithery crawler. Pulls MCP server listings from the Smithery registry
+// (registry.smithery.ai) and emits one component stub per server into incoming/smithery/.
 //
 // Pagination: fetches all pages up to PAGE_CAP (20) × pageSize 100 = ~2000 servers.
 // Fallback: if the API is unreachable after 2 attempts, clones
@@ -58,7 +58,7 @@ function scrub(s) {
 async function fetchPage(page) {
   const url = `${API_BASE}/servers?page=${page}&pageSize=${PAGE_SIZE}`;
   const res = await fetch(url, {
-    headers: { "Accept": "application/json", "User-Agent": "engram-crawler/1.0" },
+    headers: { "Accept": "application/json", "User-Agent": "component-crawler/1.0" },
     signal: AbortSignal.timeout(15000),
   });
   if (!res.ok) throw new Error(`HTTP ${res.status} from ${url}`);
@@ -172,7 +172,7 @@ function smitheryAdapter() {
       return rawRecords;
     },
 
-    toEngram(raw) {
+    toComponent(raw) {
       const rec = normaliseRecord(raw);
       const base = slugify(rec.name || rec.qualifiedName);
       const uname = uniqueName(base, seen);
@@ -226,7 +226,7 @@ async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = 
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub against the catalog parser before writing.

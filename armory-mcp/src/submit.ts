@@ -1,4 +1,4 @@
-// Validate a submitted engram's frontmatter and write it into incoming/.
+// Validate a submitted component's frontmatter and write it into incoming/.
 // Same contract as the CLI (CONTRIBUTING.md REQUIRED fields), here taking raw
 // markdown text rather than a file path (the MCP tool receives the body).
 import { existsSync, mkdirSync, writeFileSync } from "node:fs";

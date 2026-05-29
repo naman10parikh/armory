@@ -1,8 +1,8 @@
 {
-  "name": "@engram/web",
+  "name": "@armory/web",
   "version": "0.1.0",
   "private": true,
-  "description": "The agent-native brain — search site over the Engram catalog.",
+  "description": "The agent-native brain — search site over the Component catalog.",
   "type": "module",
   "scripts": {
     "prebuild": "node scripts/copy-data.mjs",

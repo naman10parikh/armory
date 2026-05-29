@@ -14,10 +14,10 @@ import { ArrowRightIcon, GraphIcon, SearchIcon } from "@/components/icons";
 // from catalog.json at build time. The hero graph is a ≤30-node teaser; the full
 // graph section samples a larger (still bounded) subset. Editorial, asymmetric.
 export default function HomePage() {
-  const { engrams, counts } = getCatalog();
+  const { components, counts } = getCatalog();
   const total = counts.total;
-  const heroGraph = buildGraph(engrams, 30);
-  const sectionGraph = buildGraph(engrams, 160);
+  const heroGraph = buildGraph(components, 30);
+  const sectionGraph = buildGraph(components, 160);
 
   return (
     <div className="overflow-x-clip">
@@ -67,7 +67,7 @@ export default function HomePage() {
           </div>
 
           <p className="mt-7 font-mono text-[13px] text-ink-muted">
-            <CountUp value={total} className="text-ink-hi" /> engram
+            <CountUp value={total} className="text-ink-hi" /> component
             {total === 1 ? "" : "s"} indexed · 12 categories · self-evolving
           </p>
         </div>
@@ -158,7 +158,7 @@ export default function HomePage() {
                 />
               ) : (
                 <div className="flex h-[420px] items-center justify-center text-sm text-ink-muted">
-                  The graph forms as engrams are indexed.
+                  The graph forms as components are indexed.
                 </div>
               )}
             </div>
@@ -176,7 +176,7 @@ export default function HomePage() {
             Recall from the terminal.
           </h2>
           <p className="mt-3 text-sm leading-relaxed text-ink-muted">
-            Search and install engrams without leaving your agent&apos;s shell.
+            Search and install components without leaving your agent&apos;s shell.
           </p>
           <div className="mt-7 space-y-3 text-left">
             <CopyCommand command="armory search browser automation" />

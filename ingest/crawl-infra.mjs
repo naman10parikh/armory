@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Engram infrastructure crawler. Curated list of canonical agent-runtime,
-// sandbox, and deploy infra tools. Emits one engram stub per record into
+// Component infrastructure crawler. Curated list of canonical agent-runtime,
+// sandbox, and deploy infra tools. Emits one component stub per record into
 // incoming/infra-tools/. Zero network calls — records are embedded.
 //
 // Run:
@@ -289,7 +289,7 @@ function infraAdapter() {
       return RECORDS;
     },
 
-    toEngram(rec) {
+    toComponent(rec) {
       const base = slugify(rec.title);
       const uname = uniqueName(base, seen);
 
@@ -317,7 +317,7 @@ function infraAdapter() {
           `## What it is\n${desc}\n\n` +
           `## When to use it\n${desc}\n\n` +
           `## How to install / invoke\nSee [${rec.title}](${sourceUrl}) for setup and docs.\n\n` +
-          `## Notes\nDiscovered via the Engram infra-tools curated list. Pending verify -> promote.`,
+          `## Notes\nDiscovered via the Component infra-tools curated list. Pending verify -> promote.`,
       };
     },
   };
@@ -331,7 +331,7 @@ async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = 
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub against the catalog parser before writing.

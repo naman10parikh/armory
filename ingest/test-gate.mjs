@@ -29,8 +29,8 @@ function walk(dir, acc = []) {
   return acc;
 }
 
-// Grade one engram. Returns {l1:[failures], l2:[failures]}. Empty arrays = pass.
-export function gradeEngram(raw) {
+// Grade one component. Returns {l1:[failures], l2:[failures]}. Empty arrays = pass.
+export function gradeComponent(raw) {
   const l1 = [], l2 = [];
   let fm;
   try { fm = parseFrontmatter(raw); } catch (e) { return { l1: [`frontmatter parse: ${e.message}`], l2 }; }
@@ -56,13 +56,13 @@ function main(argv) {
   let l1f = 0, l2f = 0;
   const sample = [];
   for (const f of files) {
-    const { l1, l2 } = gradeEngram(readFileSync(f, "utf8"));
+    const { l1, l2 } = gradeComponent(readFileSync(f, "utf8"));
     if (l1.length) { l1f++; if (sample.length < 12) sample.push(`L1 ${f.replace(ROOT + "/", "")}: ${l1[0]}`); }
     if (l2.length) { l2f++; if (sample.length < 12) sample.push(`L2 ${f.replace(ROOT + "/", "")}: ${l2[0]}`); }
   }
   const total = files.length;
   const l2rate = total ? l2f / total : 0;
-  console.log(`test-gate: ${total} engrams · L1(functional) fail ${l1f} · L2(behavioral) fail ${l2f} (${(l2rate * 100).toFixed(2)}%)`);
+  console.log(`test-gate: ${total} components · L1(functional) fail ${l1f} · L2(behavioral) fail ${l2f} (${(l2rate * 100).toFixed(2)}%)`);
   for (const s of sample) console.log("  - " + s);
   if (l1f > 0) { console.error(`::error:: ${l1f} functional failures — block (no broken schema enters).`); process.exit(1); }
   if (l2rate > 0.02) { console.error(`::error:: behavioral fail ${(l2rate * 100).toFixed(2)}% > 2% — components drifting/stale.`); process.exit(2); }

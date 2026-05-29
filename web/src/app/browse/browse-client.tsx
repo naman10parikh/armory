@@ -1,10 +1,10 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { Engram, EngramType } from "@/lib/types";
+import type { Component, ComponentType } from "@/lib/types";
 import { CATEGORIES, CATEGORY_LABEL, WEDGE_TYPES } from "@/lib/types";
 import { filterAndRank } from "@/lib/search";
-import { EngramCard } from "@/components/engram-card";
+import { ComponentCard } from "@/components/component-card";
 import { EmptyState } from "@/components/empty-state";
 import { SearchIcon, TypeIcon } from "@/components/icons";
 
@@ -14,21 +14,21 @@ const PAGE = 24; // cards rendered per "page" — never emit thousands of DOM no
   Interactive browse: client-side ranking + a facet rail + windowed pagination.
   PERFORMANCE: results are sliced to `visible` cards and grown by an
   IntersectionObserver sentinel ("load more"), so the DOM holds at most ~PAGE×N
-  cards regardless of catalog size (thousands of engrams stay smooth). Search is
+  cards regardless of catalog size (thousands of components stay smooth). Search is
   debounced so each keystroke doesn't re-rank the whole list synchronously.
 */
 export function BrowseClient({
-  engrams,
+  components,
   countsByType,
   initialType,
 }: {
-  engrams: Engram[];
-  countsByType: Record<EngramType, number>;
-  initialType: EngramType | null;
+  components: Component[];
+  countsByType: Record<ComponentType, number>;
+  initialType: ComponentType | null;
 }) {
   const [input, setInput] = useState("");
   const [query, setQuery] = useState("");
-  const [activeTypes, setActiveTypes] = useState<Set<EngramType>>(() =>
+  const [activeTypes, setActiveTypes] = useState<Set<ComponentType>>(() =>
     initialType ? new Set([initialType]) : new Set(),
   );
   const [visible, setVisible] = useState(PAGE);
@@ -40,8 +40,8 @@ export function BrowseClient({
   }, [input]);
 
   const results = useMemo(
-    () => filterAndRank(engrams, query, activeTypes),
-    [engrams, query, activeTypes],
+    () => filterAndRank(components, query, activeTypes),
+    [components, query, activeTypes],
   );
 
   // Reset the window whenever the result set changes.
@@ -66,7 +66,7 @@ export function BrowseClient({
     return () => io.disconnect();
   }, [hasMore, results.length]);
 
-  function toggleType(type: EngramType) {
+  function toggleType(type: ComponentType) {
     setActiveTypes((prev) => {
       const next = new Set(prev);
       if (next.has(type)) next.delete(type);
@@ -75,7 +75,7 @@ export function BrowseClient({
     });
   }
 
-  const catalogEmpty = engrams.length === 0;
+  const catalogEmpty = components.length === 0;
 
   return (
     <div className="mx-auto max-w-[1240px] px-5 pb-24 pt-28">
@@ -100,7 +100,7 @@ export function BrowseClient({
             value={input}
             onChange={(e) => setInput(e.target.value)}
             placeholder="browser automation mcp…"
-            aria-label="Search engrams"
+            aria-label="Search components"
             className="w-full cursor-text bg-transparent py-3.5 pl-11 pr-24 font-mono text-base text-ink-hi placeholder:text-ink-muted focus:outline-none"
           />
           <kbd className="pointer-events-none absolute right-4 hidden items-center gap-1 rounded border border-line px-1.5 py-0.5 font-mono text-[10px] text-ink-muted sm:flex">
@@ -196,11 +196,11 @@ export function BrowseClient({
           {catalogEmpty ? (
             <EmptyState
               title="The brain is still forming."
-              hint="No engrams indexed yet. As components land in brain/components/, they appear here automatically."
+              hint="No components indexed yet. As components land in brain/components/, they appear here automatically."
             />
           ) : results.length === 0 ? (
             <EmptyState
-              title="No engram recalled."
+              title="No component recalled."
               hint="Try broader terms, or clear the region filters."
               suggestions={["mcp", "memory", "eval", "browser"]}
               onSuggest={(t) => {
@@ -211,10 +211,10 @@ export function BrowseClient({
           ) : (
             <>
               <div className="grid grid-cols-1 gap-4 [grid-template-columns:repeat(auto-fill,minmax(280px,1fr))]">
-                {shown.map((engram) => (
-                  <EngramCard
-                    key={`${engram.type}/${engram.name}`}
-                    engram={engram}
+                {shown.map((component) => (
+                  <ComponentCard
+                    key={`${component.type}/${component.name}`}
+                    component={component}
                   />
                 ))}
               </div>

@@ -2,7 +2,7 @@
 // install.ts). The CLI does the real fetch-and-place; here we DERIVE the exact
 // command + the raw config/snippet it writes, from catalog fields ONLY. No
 // node:fs, no network. LAYOUTS is kept identical to cli/src/targets.ts.
-import type { Engram, EngramType } from "./types";
+import type { Component, ComponentType } from "./types";
 
 // The six target harnesses the UI offers. The first five are CLI-native (they
 // appear in cli_compat and the CLI installs to them directly). Hermes is offered
@@ -163,9 +163,9 @@ export function parseRunCommand(text: string): RunCommand | null {
 // Best-effort npm package guess for an MCP whose description has no explicit
 // command: the CLI reads the repo's package.json at runtime; client-side we fall
 // back to the repo name (the common npm-name === repo-name convention).
-function guessNpmName(engram: Engram): string | null {
-  if (engram.source_repo.includes("/")) {
-    const repo = engram.source_repo.split("/")[1]?.replace(/\.git$/, "");
+function guessNpmName(component: Component): string | null {
+  if (component.source_repo.includes("/")) {
+    const repo = component.source_repo.split("/")[1]?.replace(/\.git$/, "");
     if (repo) return repo;
   }
   return null;
@@ -173,10 +173,10 @@ function guessNpmName(engram: Engram): string | null {
 
 // Resolve the run-command shown for an MCP, mirroring installMcp's order:
 // explicit command in the description → npm-name fallback → null (manual).
-export function deriveRunCommand(engram: Engram): RunCommand | null {
-  const fromDesc = parseRunCommand(engram.description);
+export function deriveRunCommand(component: Component): RunCommand | null {
+  const fromDesc = parseRunCommand(component.description);
   if (fromDesc) return fromDesc;
-  const npm = guessNpmName(engram);
+  const npm = guessNpmName(component);
   if (npm) return { command: "npx", args: ["-y", npm] };
   return null;
 }
@@ -202,15 +202,15 @@ export function installCommand(name: string, harness: Harness): string {
 
 // Render the MCP server-config block exactly as mergeMcpServer would write it.
 function mcpConfig(
-  engram: Engram,
+  component: Component,
   layout: HarnessLayout,
 ): { config: string | null; lang: "json" | "toml"; manual: boolean } {
-  const run = deriveRunCommand(engram);
+  const run = deriveRunCommand(component);
   if (!run) return { config: null, lang: layout.mcp.format, manual: true };
 
   if (layout.mcp.format === "toml") {
     const args = run.args.map((a) => JSON.stringify(a)).join(", ");
-    const block = `[${layout.mcp.key}.${engram.name}]\ncommand = ${JSON.stringify(
+    const block = `[${layout.mcp.key}.${component.name}]\ncommand = ${JSON.stringify(
       run.command,
     )}\nargs = [${args}]`;
     return { config: block, lang: "toml", manual: false };
@@ -218,21 +218,21 @@ function mcpConfig(
 
   const json = {
     [layout.mcp.key]: {
-      [engram.name]: { command: run.command, args: run.args },
+      [component.name]: { command: run.command, args: run.args },
     },
   };
   return { config: JSON.stringify(json, null, 2), lang: "json", manual: false };
 }
 
-// Build the full install snippet for one engram × harness. Pure — deterministic
+// Build the full install snippet for one component × harness. Pure — deterministic
 // from catalog fields. Mirrors the switch in runInstall().
-export function buildSnippet(engram: Engram, harness: Harness): InstallSnippet {
+export function buildSnippet(component: Component, harness: Harness): InstallSnippet {
   const layout = LAYOUTS[harness];
-  const command = installCommand(engram.name, harness);
-  const type = engram.type as EngramType;
+  const command = installCommand(component.name, harness);
+  const type = component.type as ComponentType;
 
   if (type === "mcps") {
-    const { config, lang, manual } = mcpConfig(engram, layout);
+    const { config, lang, manual } = mcpConfig(component, layout);
     return {
       command,
       file: layout.mcp.file,
@@ -256,8 +256,8 @@ export function buildSnippet(engram: Engram, harness: Harness): InstallSnippet {
   if (fileSpec) {
     const dest =
       type === "skills"
-        ? `${fileSpec.dir}/${engram.name}/SKILL.md`
-        : `${fileSpec.dir}/${engram.name}${fileSpec.ext}`;
+        ? `${fileSpec.dir}/${component.name}/SKILL.md`
+        : `${fileSpec.dir}/${component.name}${fileSpec.ext}`;
     const note =
       type === "hooks"
         ? `# fetches the hook script into:\n${dest}\n# then register it in your settings.json "hooks" block.`
@@ -278,8 +278,8 @@ export function buildSnippet(engram: Engram, harness: Harness): InstallSnippet {
     command,
     file: layout.base,
     verb: "installs via its own command — see source",
-    config: engram.source_url
-      ? `# no auto-install for ${type} components.\n# follow the setup at:\n${engram.source_url}`
+    config: component.source_url
+      ? `# no auto-install for ${type} components.\n# follow the setup at:\n${component.source_url}`
       : null,
     configLang: "text",
     manual: true,
@@ -287,10 +287,10 @@ export function buildSnippet(engram: Engram, harness: Harness): InstallSnippet {
 }
 
 // A follow-up note for the active harness, mirroring the CLI's followUp[].
-export function followUpNote(engram: Engram, harness: Harness): string | null {
-  if (engram.type === "mcps")
+export function followUpNote(component: Component, harness: Harness): string | null {
+  if (component.type === "mcps")
     return `Restart ${HARNESS_LABEL[harness]} to load the MCP server.`;
-  if (engram.type === "hooks")
+  if (component.type === "hooks")
     return "Add the hook entry to settings.json, then restart the harness.";
   return null;
 }

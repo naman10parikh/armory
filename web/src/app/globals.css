@@ -100,13 +100,13 @@ body {
   filter: blur(0);
 }
 
-/* Rendered engram markdown (detail page). Editorial, readable, on warm-black. */
-.engram-prose {
+/* Rendered component markdown (detail page). Editorial, readable, on warm-black. */
+.component-prose {
   color: var(--text-body);
   line-height: 1.7;
   font-size: 1.0625rem;
 }
-.engram-prose h2 {
+.component-prose h2 {
   font-family: var(--font-display), Georgia, serif;
   color: var(--text-hi);
   font-size: 1.65rem;
@@ -114,41 +114,41 @@ body {
   margin: 2.25rem 0 0.75rem;
   letter-spacing: -0.01em;
 }
-.engram-prose h3 {
+.component-prose h3 {
   font-family: var(--font-display), Georgia, serif;
   color: var(--text-hi);
   font-size: 1.3rem;
   margin: 1.6rem 0 0.5rem;
 }
-.engram-prose p {
+.component-prose p {
   margin: 0.85rem 0;
   max-width: 65ch;
 }
-.engram-prose strong {
+.component-prose strong {
   color: var(--text-hi);
   font-weight: 600;
 }
-.engram-prose a {
+.component-prose a {
   color: var(--accent-hover);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-.engram-prose ul,
-.engram-prose ol {
+.component-prose ul,
+.component-prose ol {
   margin: 0.85rem 0;
   padding-left: 1.4rem;
   max-width: 65ch;
 }
-.engram-prose li {
+.component-prose li {
   margin: 0.35rem 0;
 }
-.engram-prose ul {
+.component-prose ul {
   list-style: disc;
 }
-.engram-prose ol {
+.component-prose ol {
   list-style: decimal;
 }
-.engram-prose code {
+.component-prose code {
   font-family: var(--font-mono), ui-monospace, Menlo, monospace;
   font-variant-ligatures: none;
   background: var(--bg-raise-2);
@@ -158,7 +158,7 @@ body {
   font-size: 0.85em;
   color: var(--accent-hover);
 }
-.engram-prose pre {
+.component-prose pre {
   background: oklch(13% 0.006 72);
   border: 1px solid var(--line-default);
   border-radius: 0.875rem;
@@ -166,13 +166,13 @@ body {
   overflow-x: auto;
   margin: 1.1rem 0;
 }
-.engram-prose pre code {
+.component-prose pre code {
   background: transparent;
   border: none;
   padding: 0;
   color: var(--text-body);
 }
-.engram-prose blockquote {
+.component-prose blockquote {
   border-left: 2px solid var(--accent-line);
   padding-left: 1rem;
   color: var(--text-muted);

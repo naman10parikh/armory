@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram evals adapter. Curated list of canonical LLM/agent evaluation
+// Component evals adapter. Curated list of canonical LLM/agent evaluation
 // frameworks. No network calls — records are embedded in the source.
 //
 // Run:
@@ -339,7 +339,7 @@ function evalsAdapter() {
 
     async fetch() { return records; },
 
-    toEngram(raw) {
+    toComponent(raw) {
       const base = slugify(raw.title);
       const uname = uniqueName(base, seen);
       const desc = scrub(raw.description).slice(0, 300);
@@ -379,7 +379,7 @@ async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = 
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub via parseFrontmatter (mirrors crawl-smithery.mjs).

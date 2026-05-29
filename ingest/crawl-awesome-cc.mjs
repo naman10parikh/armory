@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// Engram adapter: hesreallyhim/awesome-claude-code -> incoming/awesome-claude-code/
+// Component adapter: hesreallyhim/awesome-claude-code -> incoming/awesome-claude-code/
 // Source:  THE_RESOURCES_TABLE.csv  (canonical data — 201+ active entries as of 2026-05-27)
-// Output:  one engram stub per active, non-removed row.
+// Output:  one component stub per active, non-removed row.
 // Run:     node ingest/crawl-awesome-cc.mjs --repo /tmp/eng-acc [--apply]
 //
 // OWNERSHIP: touches ONLY ingest/crawl-awesome-cc.mjs and incoming/awesome-claude-code/.
@@ -23,8 +23,8 @@ const SOURCE_NAME = "awesome-claude-code";
 const SOURCE_OWNER = "hesreallyhim";
 const SOURCE_REPO = `${SOURCE_OWNER}/${SOURCE_NAME}`;
 
-// --- Category -> engram type mapping ---------------------------------------
-// "Agent Skills" lives closest to "skills" in the engram taxonomy.
+// --- Category -> component type mapping ---------------------------------------
+// "Agent Skills" lives closest to "skills" in the component taxonomy.
 const CATEGORY_TO_TYPE = {
   "Slash-Commands":               "workflows",
   "CLAUDE.md Files":              "claudemd-rules",
@@ -138,7 +138,7 @@ export function awesomeCcAdapter({ repoDir, existingNames = new Set() }) {
       );
     },
 
-    toEngram(row) {
+    toComponent(row) {
       const displayName = scrub(row["Display Name"] || "untitled");
       const category    = (row["Category"] || "").trim();
       const type        = CATEGORY_TO_TYPE[category] ?? CATEGORY_TO_TYPE["_default"];
@@ -181,7 +181,7 @@ export function awesomeCcAdapter({ repoDir, existingNames = new Set() }) {
   };
 }
 
-// --- Run: fetch -> toEngram -> validate -> write ---------------------------
+// --- Run: fetch -> toComponent -> validate -> write ---------------------------
 
 export async function run({ repoDir, dryRun = true, log = console.log } = {}) {
   const adapter = awesomeCcAdapter({ repoDir });
@@ -194,7 +194,7 @@ export async function run({ repoDir, dryRun = true, log = console.log } = {}) {
   const typeCounts = {};
 
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const md   = toMarkdown({ frontmatter, body });
 
     // Self-validate against catalog parser (throw on mismatch).

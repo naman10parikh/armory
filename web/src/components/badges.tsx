@@ -1,8 +1,8 @@
-import type { EngramType, Maturity } from "@/lib/types";
+import type { ComponentType, Maturity } from "@/lib/types";
 import { CATEGORY_LABEL } from "@/lib/types";
 
 // Type label — quiet uppercase, amber. The glyph (TypeIcon) carries the colour.
-export function TypeBadge({ type }: { type: EngramType }) {
+export function TypeBadge({ type }: { type: ComponentType }) {
   return (
     <span className="text-[11px] font-medium uppercase tracking-[0.12em] text-ink-muted">
       {CATEGORY_LABEL[type] ?? type}
@@ -11,7 +11,7 @@ export function TypeBadge({ type }: { type: EngramType }) {
 }
 
 // Type as a filled amber pill — used on the detail header eyebrow.
-export function TypePill({ type }: { type: EngramType }) {
+export function TypePill({ type }: { type: ComponentType }) {
   return (
     <span className="inline-flex items-center rounded-full border border-accent-line bg-accent-quiet px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-[0.15em] text-accent-hover">
       {CATEGORY_LABEL[type] ?? type}

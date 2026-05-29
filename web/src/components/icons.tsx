@@ -1,4 +1,4 @@
-import type { EngramType } from "@/lib/types";
+import type { ComponentType } from "@/lib/types";
 
 // Phosphor-register line icons — one consistent stroke width (1.5), light weight,
 // rounded joins. No emoji as functional icons (anti-slop #9). 24px viewBox.
@@ -140,7 +140,7 @@ export function TypeIcon({
   className,
   size = 18,
   strokeWidth = 1.5,
-}: { type: EngramType } & IconProps) {
+}: { type: ComponentType } & IconProps) {
   const p = { className, size, strokeWidth };
   switch (type) {
     case "mcps": // plug / connector

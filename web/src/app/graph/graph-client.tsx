@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import type { GraphData } from "@/lib/graph";
-import { CATEGORIES, TYPE_HUE, type EngramType } from "@/lib/types";
+import { CATEGORIES, TYPE_HUE, type ComponentType } from "@/lib/types";
 import { SynapseGraph } from "@/components/synapse-graph";
 import { SearchIcon } from "@/components/icons";
 
@@ -16,7 +16,7 @@ export function GraphClient({
   presentTypes,
 }: {
   data: GraphData;
-  presentTypes: EngramType[];
+  presentTypes: ComponentType[];
 }) {
   const [query, setQuery] = useState("");
 
@@ -31,7 +31,7 @@ export function GraphClient({
             Synapse graph.
           </h1>
           <p className="mt-3 max-w-xl text-sm text-ink-body">
-            Each node is an engram; each edge is a{" "}
+            Each node is an component; each edge is a{" "}
             <span className="font-mono text-accent-hover">related[]</span>{" "}
             synapse. Hover to light up a neighbourhood. Click to recall it.
           </p>
@@ -65,7 +65,7 @@ export function GraphClient({
             />
           ) : (
             <div className="flex h-[68vh] min-h-[480px] items-center justify-center text-sm text-ink-muted">
-              The graph forms as engrams are indexed.
+              The graph forms as components are indexed.
             </div>
           )}
         </div>
@@ -99,14 +99,14 @@ export function GraphClient({
               <span className="tabular-nums text-ink-body">
                 {data.totalNodes}
               </span>{" "}
-              engrams · top by synapse degree
+              components · top by synapse degree
             </>
           ) : (
             <>
               <span className="tabular-nums text-ink-body">
                 {data.nodes.length}
               </span>{" "}
-              engrams · {data.edges.length} synapses
+              components · {data.edges.length} synapses
             </>
           )}
         </p>

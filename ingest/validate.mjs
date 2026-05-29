@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram frontmatter validator. Checks every engram file under
+// Component frontmatter validator. Checks every component file under
 // brain/components/<type>/ against the CONTRIBUTING.md contract.
 // Exits non-zero on any failure. Run: node ingest/validate.mjs
 import { readdirSync, readFileSync, existsSync } from "node:fs";
@@ -22,7 +22,7 @@ function validate() {
     for (const file of readdirSync(dir)) {
       if (!file.endsWith(".md")) continue;
       const slug = basename(file, ".md");
-      if (slug === type) continue; // category hub note — not an engram
+      if (slug === type) continue; // category hub note — not an component
       checked += 1;
       const rel = `components/${type}/${file}`;
       const fm = parseFrontmatter(readFileSync(join(dir, file), "utf8"));
@@ -49,9 +49,9 @@ function validate() {
 
 const { checked, errors } = validate();
 if (errors.length === 0) {
-  console.log(`engram validate: PASS — ${checked} engram(s) valid across ${TYPES.length} categories`);
+  console.log(`component validate: PASS — ${checked} component(s) valid across ${TYPES.length} categories`);
   process.exit(0);
 }
-console.error(`engram validate: FAIL — ${errors.length} error(s) across ${checked} engram(s):`);
+console.error(`component validate: FAIL — ${errors.length} error(s) across ${checked} component(s):`);
 for (const e of errors) console.error(`  ✗ ${e}`);
 process.exit(1);

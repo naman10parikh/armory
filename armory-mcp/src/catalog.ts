@@ -1,11 +1,11 @@
-// Local catalog access + ranking for the Engram MCP server. Intentionally a
+// Local catalog access + ranking for the Component MCP server. Intentionally a
 // small standalone copy of the CLI's helper (Simplicity First — no shared
 // package to version across two surfaces). Codes to the catalog.json contract.
 import { readFileSync, existsSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-export interface Engram {
+export interface Component {
   name: string;
   type: string;
   description: string;
@@ -25,13 +25,13 @@ export interface Engram {
 export interface Catalog {
   generated_at: string;
   counts: { total: number; by_type: Record<string, number> };
-  engrams: Engram[];
+  components: Component[];
 }
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 
 export function resolveRoot(): string {
-  const override = process.env.ENGRAM_ROOT;
+  const override = process.env.ARMORY_ROOT;
   if (override) return resolve(override);
   let dir = HERE;
   for (let i = 0; i < 8; i += 1) {
@@ -50,15 +50,15 @@ export function loadCatalog(root = resolveRoot()): Catalog {
     throw new Error(`catalog.json not found at ${file} — run \`pnpm catalog\` first.`);
   }
   const parsed = JSON.parse(readFileSync(file, "utf8")) as Catalog;
-  if (!Array.isArray(parsed.engrams)) {
-    throw new Error(`catalog.json at ${file} is malformed (missing engrams array).`);
+  if (!Array.isArray(parsed.components)) {
+    throw new Error(`catalog.json at ${file} is malformed (missing components array).`);
   }
   return parsed;
 }
 
-export function readEngramBody(engram: Engram, root = resolveRoot()): string {
-  const file = join(root, "brain", engram.path);
-  if (!existsSync(file)) throw new Error(`engram body not found at ${file}`);
+export function readComponentBody(component: Component, root = resolveRoot()): string {
+  const file = join(root, "brain", component.path);
+  if (!existsSync(file)) throw new Error(`component body not found at ${file}`);
   return readFileSync(file, "utf8");
 }
 
@@ -71,19 +71,19 @@ function tokenize(text: string): string[] {
 
 const WEIGHTS = { name: 3, tags: 2, description: 1 } as const;
 
-export interface RankedEngram {
-  engram: Engram;
+export interface RankedComponent {
+  component: Component;
   score: number;
 }
 
 // BM25-ish keyword ranking — IDF for rarity, weighted TF for field signal.
-export function rankEngrams(engrams: Engram[], query: string): RankedEngram[] {
+export function rankComponents(components: Component[], query: string): RankedComponent[] {
   const qTerms = [...new Set(tokenize(query))];
   if (qTerms.length === 0) return [];
 
-  const docCount = engrams.length || 1;
+  const docCount = components.length || 1;
   const df = new Map<string, number>();
-  const docTokens = engrams.map((e) => {
+  const docTokens = components.map((e) => {
     const name = tokenize(e.name);
     const tags = e.tags.flatMap(tokenize);
     const desc = tokenize(e.description);
@@ -96,8 +96,8 @@ export function rankEngrams(engrams: Engram[], query: string): RankedEngram[] {
   const tf = (terms: string[], term: string): number =>
     terms.filter((t) => t === term).length;
 
-  return engrams
-    .map((engram, i) => {
+  return components
+    .map((component, i) => {
       const { name, tags, desc } = docTokens[i];
       let score = 0;
       for (const term of qTerms) {
@@ -107,10 +107,10 @@ export function rankEngrams(engrams: Engram[], query: string): RankedEngram[] {
           WEIGHTS.description * tf(desc, term);
         if (weighted > 0) score += idf(term) * weighted;
       }
-      return { engram, score };
+      return { component, score };
     })
     .filter((r) => r.score > 0)
     .sort((a, b) =>
-      b.score === a.score ? a.engram.name.localeCompare(b.engram.name) : b.score - a.score
+      b.score === a.score ? a.component.name.localeCompare(b.component.name) : b.score - a.score
     );
 }

@@ -1,8 +1,8 @@
 #!/usr/bin/env node
-// Engram mcp.so crawler. Pulls MCP server listings from the mcp.so sitemap index
+// Component mcp.so crawler. Pulls MCP server listings from the mcp.so sitemap index
 // (no public JSON API exists; the site is a Next.js/Supabase app). Parses server
 // URLs from all sitemap_projects_N.xml files to extract name + author, emits one
-// engram stub per server into incoming/mcpso/.
+// component stub per server into incoming/mcpso/.
 //
 // Sitemap URL shape: https://mcp.so/server/<name>/<author>
 // Author maps to GitHub owner when the server has a source repo; otherwise used
@@ -64,7 +64,7 @@ function scrub(s) {
 
 async function fetchText(url) {
   const res = await fetch(url, {
-    headers: { "Accept": "text/xml, application/xml, */*", "User-Agent": "engram-crawler/1.0" },
+    headers: { "Accept": "text/xml, application/xml, */*", "User-Agent": "component-crawler/1.0" },
     signal: AbortSignal.timeout(15000),
   });
   if (!res.ok) throw new Error(`HTTP ${res.status} from ${url}`);
@@ -214,7 +214,7 @@ function mcpsoAdapter() {
       return rawUrls;
     },
 
-    toEngram(url) {
+    toComponent(url) {
       const rec = normaliseUrl(url);
       const base = slugify(rec.name);
       const uname = uniqueName(base, seen);
@@ -263,7 +263,7 @@ async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = 
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub against the catalog parser before writing.

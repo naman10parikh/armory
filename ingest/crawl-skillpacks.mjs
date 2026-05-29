@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Engram SKILL-PACKS crawler. Deterministic generator: walks official + community
-// skill-pack repos for SKILL.md files and emits one engram stub per skill.
+// Component SKILL-PACKS crawler. Deterministic generator: walks official + community
+// skill-pack repos for SKILL.md files and emits one component stub per skill.
 //
 // Sources:
 //   1. anthropics/skills        skills/*/SKILL.md          (official Anthropic skill packs)
@@ -94,8 +94,8 @@ function firstProseLine(raw) {
   return "";
 }
 
-// Build one engram stub from a SKILL.md file.
-function skillToEngram({ file, owner, repo, relPath, seen }) {
+// Build one component stub from a SKILL.md file.
+function skillToComponent({ file, owner, repo, relPath, seen }) {
   const raw = readFileSync(file, "utf8");
   const fmName = frontmatterField(raw, "name");
   const fmDesc = frontmatterField(raw, "description");
@@ -251,7 +251,7 @@ export async function runSkillPacks({ anthropicDir, superpowersDir, cookbookDir,
 
   const written = [];
   for (const item of allItems) {
-    const { frontmatter, body } = skillToEngram(item);
+    const { frontmatter, body } = skillToComponent(item);
     const file = join(OUT_DIR, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
 

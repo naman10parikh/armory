@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import type { Engram } from "@/lib/types";
+import type { Component } from "@/lib/types";
 import {
   HARNESSES,
   HARNESS_LABEL,
@@ -16,15 +16,15 @@ import { CheckIcon, CopyIcon, TerminalIcon } from "./icons";
   copyable `armory install` command for the chosen harness. Sits above the card's
   whole-card link overlay (relative z-10) so interacting with it never navigates.
 */
-export function QuickInstall({ engram }: { engram: Engram }) {
+export function QuickInstall({ component }: { component: Component }) {
   const [open, setOpen] = useState(false);
-  const compat = new Set(engram.cli_compat);
+  const compat = new Set(component.cli_compat);
   const initial: Harness =
     (HARNESSES.find((h) => compat.has(h)) as Harness | undefined) ?? "claude";
   const [active, setActive] = useState<Harness>(initial);
   const [copied, setCopied] = useState(false);
 
-  const snippet = buildSnippet(engram, active);
+  const snippet = buildSnippet(component, active);
 
   async function copy() {
     try {

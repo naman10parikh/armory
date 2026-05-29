@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import type { Engram } from "@/lib/types";
+import type { Component } from "@/lib/types";
 import {
   HARNESSES,
   HARNESS_LABEL,
@@ -23,19 +23,19 @@ import { CheckIcon, CopyIcon } from "./icons";
         per type×harness exactly like the CLI's targets.ts/install.ts,
     (c) a copy-to-clipboard button on each block.
 
-  Works for all 12 component types. Harnesses listed in the engram's cli_compat
+  Works for all 12 component types. Harnesses listed in the component's cli_compat
   are marked "verified"; the rest still resolve to a valid path (universal).
 */
-export function InstallStrip({ engram }: { engram: Engram }) {
-  // Default to the first harness the engram is verified-compatible with, else
+export function InstallStrip({ component }: { component: Component }) {
+  // Default to the first harness the component is verified-compatible with, else
   // Claude Code.
-  const compat = new Set(engram.cli_compat);
+  const compat = new Set(component.cli_compat);
   const initial: Harness =
     (HARNESSES.find((h) => compat.has(h)) as Harness | undefined) ?? "claude";
   const [active, setActive] = useState<Harness>(initial);
 
-  const snippet = buildSnippet(engram, active);
-  const followUp = followUpNote(engram, active);
+  const snippet = buildSnippet(component, active);
+  const followUp = followUpNote(component, active);
 
   return (
     <div className="rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">

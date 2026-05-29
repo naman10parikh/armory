@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// Engram adapter: naman10parikh/awesome-a2a-servers -> incoming/a2a-servers/
+// Component adapter: naman10parikh/awesome-a2a-servers -> incoming/a2a-servers/
 // Source:  README.md bullet list  ("* [Name](url) — description" lines)
-// Output:  one engram stub per linked entry (github URLs or other web links).
+// Output:  one component stub per linked entry (github URLs or other web links).
 // Run:     node ingest/crawl-a2a.mjs [--apply]
 //          Repo is pre-cloned at /tmp/eng-a2a  (git clone --depth 1 …)
 //
@@ -27,9 +27,9 @@ const SOURCE_REPO  = `${SOURCE_OWNER}/awesome-a2a-servers`;
 // Default repo dir (pre-cloned by the caller or CI).
 const DEFAULT_REPO_DIR = "/tmp/eng-a2a";
 
-// --- Section heading -> engram type mapping --------------------------------
+// --- Section heading -> component type mapping --------------------------------
 // A2A entries are predominantly agent-to-agent server implementations; the
-// closest engram type for most is "mcps" (protocol servers / integrations).
+// closest component type for most is "mcps" (protocol servers / integrations).
 // Frameworks and utilities map to "workflows"; documentation to "workflows";
 // client/tool entries to "clis-tools".
 const SECTION_TO_TYPE = {
@@ -150,7 +150,7 @@ export function a2aAdapter({ repoDir = DEFAULT_REPO_DIR, existingNames = new Set
       return parseReadme(raw);
     },
 
-    toEngram(item) {
+    toComponent(item) {
       const type = SECTION_TO_TYPE[item.section] ?? SECTION_TO_TYPE["_default"];
       const desc = scrub(item.description || item.title);
       const sourceRepo = extractGithubRepo(item.url);
@@ -187,7 +187,7 @@ export function a2aAdapter({ repoDir = DEFAULT_REPO_DIR, existingNames = new Set
   };
 }
 
-// --- Run: fetch -> toEngram -> validate -> write ---------------------------
+// --- Run: fetch -> toComponent -> validate -> write ---------------------------
 
 export async function run({ repoDir = DEFAULT_REPO_DIR, dryRun = true, log = console.log } = {}) {
   const adapter = a2aAdapter({ repoDir });
@@ -201,7 +201,7 @@ export async function run({ repoDir = DEFAULT_REPO_DIR, dryRun = true, log = con
   const errors     = [];
 
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const md = toMarkdown({ frontmatter, body });
 
     // Self-validate against catalog parser.

@@ -9,7 +9,7 @@ import { ArrowRightIcon, GraphIcon, SparkIcon, TypeIcon } from "./icons";
 const STAGES = [
   {
     label: "brain/",
-    sub: "markdown vault — one file per engram, with frontmatter + synapses",
+    sub: "markdown vault — one file per component, with frontmatter + synapses",
     icon: <TypeIcon type="memory" size={18} className="text-accent" />,
   },
   {

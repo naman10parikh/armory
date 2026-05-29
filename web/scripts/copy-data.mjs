@@ -42,13 +42,13 @@ function copyBrain() {
     }
     throw new Error(`[copy-data] brain/components not found at ${srcComponents} and no local copy exists.`);
   }
-  // Fresh copy so deleted engrams don't linger. Skip the 16K .obsidian config —
-  // readEngramBody only reads brain/components/<path>.
+  // Fresh copy so deleted components don't linger. Skip the 16K .obsidian config —
+  // readComponentBody only reads brain/components/<path>.
   rmSync(destComponents, { recursive: true, force: true });
   mkdirSync(destBrain, { recursive: true });
   cpSync(srcComponents, destComponents, { recursive: true });
-  const moc = join(REPO_ROOT, "brain", "MOC - Engram.md");
-  if (existsSync(moc)) copyFileSync(moc, join(destBrain, "MOC - Engram.md"));
+  const moc = join(REPO_ROOT, "brain", "MOC - Armory.md");
+  if (existsSync(moc)) copyFileSync(moc, join(destBrain, "MOC - Armory.md"));
   console.log("[copy-data] copied brain/components");
 }
 

@@ -2,7 +2,7 @@ import Link from "next/link";
 import { Logo } from "./logo";
 import { GithubIcon, GraphIcon, SearchIcon } from "./icons";
 
-const REPO = "https://github.com/naman10parikh/engram";
+const REPO = "https://github.com/naman10parikh/component";
 
 // Floating glass pill nav — detached, centred, hairline border. backdrop-blur is
 // allowed here (fixed element, not a scrolling container).

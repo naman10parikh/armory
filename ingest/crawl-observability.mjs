@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Engram observability-tools crawler. Curated list of canonical LLM/agent
-// observability, tracing, and monitoring tools. Emits one engram stub per
+// Component observability-tools crawler. Curated list of canonical LLM/agent
+// observability, tracing, and monitoring tools. Emits one component stub per
 // tool into incoming/observability-tools/.
 //
 // Run:
@@ -293,7 +293,7 @@ function observabilityAdapter() {
       return records;
     },
 
-    toEngram(item) {
+    toComponent(item) {
       const base = slugify(item.title);
       const uname = uniqueName(base, seen);
       const desc = scrub(item.description).slice(0, 300);
@@ -336,7 +336,7 @@ async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = 
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub against the catalog parser before writing.

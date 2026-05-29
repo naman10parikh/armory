@@ -3,15 +3,15 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { marked } from "marked";
 import {
-  findEngram,
-  getEngrams,
+  findComponent,
+  getComponents,
   getNameIndex,
-  readEngramBody,
+  readComponentBody,
 } from "@/lib/catalog";
 import { buildNeighborhood } from "@/lib/graph";
-import type { Engram } from "@/lib/types";
+import type { Component } from "@/lib/types";
 import { CliChip, MaturityBadge, TagChip, TypePill } from "@/components/badges";
-import { EngramCard } from "@/components/engram-card";
+import { ComponentCard } from "@/components/component-card";
 import { InstallStrip } from "@/components/install-strip";
 import { SynapseGraph } from "@/components/synapse-graph";
 import {
@@ -26,8 +26,8 @@ interface RouteParams {
   slug: string;
 }
 
-// PERFORMANCE: do NOT statically pre-render every engram — the catalog holds
-// 18,000+ engrams and pre-rendering all of them hangs the build. Pre-render only
+// PERFORMANCE: do NOT statically pre-render every component — the catalog holds
+// 18,000+ components and pre-rendering all of them hangs the build. Pre-render only
 // a small cap (the top 50 by synapse degree + stars); the long tail is served
 // on-demand via ISR (`dynamicParams = true`).
 const PRERENDER_CAP = 50;
@@ -35,13 +35,13 @@ export const dynamicParams = true;
 export const revalidate = 3600; // re-validate on-demand pages hourly
 
 export function generateStaticParams(): RouteParams[] {
-  const engrams = getEngrams();
+  const components = getComponents();
   const degree = new Map<string, number>();
-  for (const e of engrams)
+  for (const e of components)
     for (const r of e.related)
       degree.set(r, (degree.get(r) ?? 0) + 1);
 
-  return [...engrams]
+  return [...components]
     .sort((a, b) => {
       const da = (degree.get(a.name) ?? 0) + (a.stars ?? 0) / 1000;
       const db = (degree.get(b.name) ?? 0) + (b.stars ?? 0) / 1000;
@@ -57,34 +57,34 @@ export async function generateMetadata({
   params: Promise<RouteParams>;
 }): Promise<Metadata> {
   const { type, slug } = await params;
-  const engram = findEngram(type, slug);
-  if (!engram) return { title: "Not found — Armory" };
+  const component = findComponent(type, slug);
+  if (!component) return { title: "Not found — Armory" };
   return {
-    title: `${engram.name} — Armory`,
-    description: engram.description,
+    title: `${component.name} — Armory`,
+    description: component.description,
   };
 }
 
-export default async function EngramDetailPage({
+export default async function ComponentDetailPage({
   params,
 }: {
   params: Promise<RouteParams>;
 }) {
   const { type, slug } = await params;
-  const engram = findEngram(type, slug);
-  if (!engram) notFound();
+  const component = findComponent(type, slug);
+  if (!component) notFound();
 
-  const body = readEngramBody(engram);
+  const body = readComponentBody(component);
   const html = body
     ? await marked.parse(body, { async: true, gfm: true, breaks: false })
     : "";
 
-  const allEngrams = getEngrams();
+  const allComponents = getComponents();
   const nameIndex = getNameIndex();
-  const neighborhood = buildNeighborhood(allEngrams, engram.name);
-  const relatedEngrams: Engram[] = engram.related
-    .map((r) => allEngrams.find((e) => e.name === r))
-    .filter((e): e is Engram => Boolean(e));
+  const neighborhood = buildNeighborhood(allComponents, component.name);
+  const relatedComponents: Component[] = component.related
+    .map((r) => allComponents.find((e) => e.name === r))
+    .filter((e): e is Component => Boolean(e));
 
   return (
     <article className="mx-auto max-w-[1240px] px-5 pb-24 pt-28">
@@ -102,43 +102,43 @@ export default async function EngramDetailPage({
           {/* Header */}
           <header>
             <span className="inline-flex items-center gap-2">
-              <TypeIcon type={engram.type} size={18} className="text-accent" />
-              <TypePill type={engram.type} />
+              <TypeIcon type={component.type} size={18} className="text-accent" />
+              <TypePill type={component.type} />
             </span>
             <h1 className="mt-4 font-serif text-[clamp(2.5rem,5vw,4rem)] leading-[0.95] tracking-[-0.02em] text-ink-hi">
-              {engram.name}
+              {component.name}
             </h1>
             <p className="mt-4 max-w-2xl text-lg leading-relaxed text-ink-body">
-              {engram.description}
+              {component.description}
             </p>
           </header>
 
           {/* Install strip — THE headline: one-click install per harness */}
           <div className="mt-8">
-            <InstallStrip engram={engram} />
+            <InstallStrip component={component} />
           </div>
 
           {/* Markdown body from the brain vault */}
           {html ? (
             <div
-              className="engram-prose mt-10"
+              className="component-prose mt-10"
               // Build-time repo content authored by maintainers — trusted.
               dangerouslySetInnerHTML={{ __html: html }}
             />
           ) : (
             <p className="mt-10 text-sm text-ink-muted">
-              No detailed write-up yet for this engram.
+              No detailed write-up yet for this component.
             </p>
           )}
 
           {/* Synapses — local subgraph + related cards */}
-          {(neighborhood.nodes.length > 1 || relatedEngrams.length > 0) && (
+          {(neighborhood.nodes.length > 1 || relatedComponents.length > 0) && (
             <section className="mt-12 border-t border-line-subtle pt-8">
               <h2 className="font-serif text-[clamp(1.5rem,3vw,2.25rem)] leading-none tracking-[-0.015em] text-ink-hi">
                 Synapses.
               </h2>
               <p className="mt-1.5 text-sm text-ink-muted">
-                The 1-hop neighbourhood around this engram — a small region of the
+                The 1-hop neighbourhood around this component — a small region of the
                 brain.
               </p>
 
@@ -153,28 +153,28 @@ export default async function EngramDetailPage({
                 </div>
               )}
 
-              {relatedEngrams.length > 0 && (
+              {relatedComponents.length > 0 && (
                 <div className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2">
-                  {relatedEngrams.map((rel) => (
-                    <EngramCard key={`${rel.type}/${rel.name}`} engram={rel} />
+                  {relatedComponents.map((rel) => (
+                    <ComponentCard key={`${rel.type}/${rel.name}`} component={rel} />
                   ))}
                 </div>
               )}
 
-              {/* Unresolved synapses (named relations with no engram yet). */}
-              {engram.related.some((r) => !nameIndex.has(r)) && (
+              {/* Unresolved synapses (named relations with no component yet). */}
+              {component.related.some((r) => !nameIndex.has(r)) && (
                 <div className="mt-5">
                   <p className="mb-2 text-[11px] uppercase tracking-[0.15em] text-ink-muted">
                     Synapses not yet filled
                   </p>
                   <ul className="flex flex-wrap gap-2">
-                    {engram.related
+                    {component.related
                       .filter((r) => !nameIndex.has(r))
                       .map((r) => (
                         <li key={r}>
                           <span
                             className="inline-flex items-center rounded-lg border border-dashed border-line px-3 py-1.5 font-mono text-sm text-ink-muted"
-                            title="No engram with this name exists yet."
+                            title="No component with this name exists yet."
                           >
                             {r}
                           </span>
@@ -192,48 +192,48 @@ export default async function EngramDetailPage({
           <div className="rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">
             <dl className="divide-y divide-line-subtle rounded-[calc(1.25rem-0.375rem)] bg-raise-2 p-5">
               <MetaRow label="Maturity">
-                <MaturityBadge maturity={engram.maturity} />
+                <MaturityBadge maturity={component.maturity} />
               </MetaRow>
-              {typeof engram.stars === "number" && (
+              {typeof component.stars === "number" && (
                 <MetaRow label="Stars">
                   <span className="inline-flex items-center gap-1.5 tabular-nums text-ink-body">
                     <StarIcon size={13} className="text-accent" />
-                    {engram.stars.toLocaleString()}
+                    {component.stars.toLocaleString()}
                   </span>
                 </MetaRow>
               )}
-              {typeof engram.eval_score === "number" && (
+              {typeof component.eval_score === "number" && (
                 <MetaRow label="Eval score">
                   <span className="tabular-nums text-accent-hover">
-                    {engram.eval_score.toFixed(2)}
+                    {component.eval_score.toFixed(2)}
                   </span>
                 </MetaRow>
               )}
-              {engram.license && engram.license !== "unknown" && (
+              {component.license && component.license !== "unknown" && (
                 <MetaRow label="License">
-                  <span className="text-ink-body">{engram.license}</span>
+                  <span className="text-ink-body">{component.license}</span>
                 </MetaRow>
               )}
-              {engram.verified_at && (
+              {component.verified_at && (
                 <MetaRow label="Verified">
                   <span className="font-mono text-[13px] text-ink-body">
-                    {engram.verified_at}
+                    {component.verified_at}
                   </span>
                 </MetaRow>
               )}
-              {engram.cli_compat.length > 0 && (
+              {component.cli_compat.length > 0 && (
                 <MetaRow label="Works in" stack>
                   <div className="flex flex-wrap gap-1.5">
-                    {engram.cli_compat.map((cli) => (
+                    {component.cli_compat.map((cli) => (
                       <CliChip key={cli} cli={cli} />
                     ))}
                   </div>
                 </MetaRow>
               )}
-              {engram.tags.length > 0 && (
+              {component.tags.length > 0 && (
                 <MetaRow label="Tags" stack>
                   <div className="flex flex-wrap gap-1.5">
-                    {engram.tags.map((tag) => (
+                    {component.tags.map((tag) => (
                       <TagChip key={tag} tag={tag} />
                     ))}
                   </div>
@@ -242,15 +242,15 @@ export default async function EngramDetailPage({
             </dl>
           </div>
 
-          {engram.source_url && (
+          {component.source_url && (
             <a
-              href={engram.source_url}
+              href={component.source_url}
               target="_blank"
               rel="noreferrer noopener"
               className="group mt-3 flex cursor-pointer items-center justify-between gap-2 rounded-xl border border-line px-4 py-3 text-sm text-ink-body transition-colors hover:border-accent-line hover:text-accent-hover"
             >
               <span className="truncate font-mono text-[13px]">
-                {engram.source_repo || "source"}
+                {component.source_repo || "source"}
               </span>
               <ExternalIcon size={15} />
             </a>

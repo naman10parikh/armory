@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// Engram adapter: naman10parikh/mcp-connect-galaxy -> incoming/mcp-galaxy/
+// Component adapter: naman10parikh/mcp-connect-galaxy -> incoming/mcp-galaxy/
 // Source:  src/data/servers.ts  (MCPServer[] TypeScript literal in the repo)
-// Output:  one engram stub per server entry.
+// Output:  one component stub per server entry.
 // Run:     node ingest/crawl-galaxy.mjs [--repo /tmp/eng-galaxy] [--apply]
 //
 // OWNERSHIP: touches ONLY ingest/crawl-galaxy.mjs and incoming/mcp-galaxy/.
@@ -124,7 +124,7 @@ export function galaxyAdapter({ repoDir, existingNames = new Set() }) {
       return parseServersDotTs(raw);
     },
 
-    toEngram(server) {
+    toComponent(server) {
       const displayName = scrub(server.name || server.id || "untitled");
       const desc        = scrub(server.description || displayName);
       const repoUrl     = (server.repoUrl || "").trim();
@@ -162,7 +162,7 @@ export function galaxyAdapter({ repoDir, existingNames = new Set() }) {
   };
 }
 
-// --- Run: fetch -> toEngram -> self-validate -> write -----------------------
+// --- Run: fetch -> toComponent -> self-validate -> write -----------------------
 
 export async function run({ repoDir, dryRun = true, log = console.log } = {}) {
   const adapter = galaxyAdapter({ repoDir });
@@ -174,7 +174,7 @@ export async function run({ repoDir, dryRun = true, log = console.log } = {}) {
   const written = [];
 
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const md = toMarkdown({ frontmatter, body });
 
     // Self-validate: parseFrontmatter must round-trip the name field exactly.

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-// Engram Glama crawler. Pulls MCP server listings from the Glama registry
-// (glama.ai/api/mcp/v1/servers) and emits one engram stub per server into
+// Component Glama crawler. Pulls MCP server listings from the Glama registry
+// (glama.ai/api/mcp/v1/servers) and emits one component stub per server into
 // incoming/glama/.
 //
 // Pagination: cursor-based via pageInfo.endCursor / hasNextPage.
@@ -57,7 +57,7 @@ async function fetchPage(cursor) {
     ? `${API_BASE}?first=${PAGE_SIZE}&after=${encodeURIComponent(cursor)}`
     : `${API_BASE}?first=${PAGE_SIZE}`;
   const res = await fetch(url, {
-    headers: { "Accept": "application/json", "User-Agent": "engram-crawler/1.0" },
+    headers: { "Accept": "application/json", "User-Agent": "component-crawler/1.0" },
     signal: AbortSignal.timeout(15000),
   });
   if (!res.ok) throw new Error(`HTTP ${res.status} from ${url}`);
@@ -134,7 +134,7 @@ function glamaAdapter() {
       }
     },
 
-    toEngram(raw) {
+    toComponent(raw) {
       const rec = normaliseRecord(raw);
       const base = slugify(rec.name);
       const uname = uniqueName(base, seen);
@@ -180,7 +180,7 @@ async function runCollection(adapter, { dryRun = true, outDir = INCOMING, log = 
   if (!dryRun) resetDir(dir);
   const written = [];
   for (const item of items) {
-    const { frontmatter, body } = adapter.toEngram(item);
+    const { frontmatter, body } = adapter.toComponent(item);
     const file = join(dir, `${frontmatter.name}.md`);
     const md = toMarkdown({ frontmatter, body });
     // Self-validate every stub via the catalog parser before writing.

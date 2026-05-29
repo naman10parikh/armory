@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // ============================================================================
 // crawl-anthropic.mjs — Deterministic mega-crawl of Anthropic's OWN + official
-// reference repos into engram stubs. This is the QUALITY BAR for the registry.
+// reference repos into component stubs. This is the QUALITY BAR for the registry.
 // ----------------------------------------------------------------------------
 // Writes everything under incoming/anthropic-official/<type>/<name>.md:
 //
@@ -13,7 +13,7 @@
 //
 // Sources are official Anthropic / MCP-org content → maturity: stable.
 // Pure, deterministic, zero npm deps. Reads cloned repos at the SRC_* roots,
-// emits engram markdown via toMarkdown() from crawl.mjs. Idempotent: re-running
+// emits component markdown via toMarkdown() from crawl.mjs. Idempotent: re-running
 // overwrites the same files (name === filename, unique within each type).
 //
 // Run:  node ingest/crawl-anthropic.mjs            (writes the stubs)
@@ -70,7 +70,7 @@ function whenToUse(desc, fallback) {
   return d.length > 320 ? d.slice(0, 317).trimEnd() + "…" : d;
 }
 
-// Standard engram frontmatter object (field order matches the contract).
+// Standard component frontmatter object (field order matches the contract).
 function frontmatter({ name, type, description, sourceRepo, sourceUrl, license, cliCompat, tags }) {
   return {
     name,
@@ -89,7 +89,7 @@ function frontmatter({ name, type, description, sourceRepo, sourceUrl, license, 
   };
 }
 
-// Engram body — four short sections per the CONTRIBUTING contract.
+// Component body — four short sections per the CONTRIBUTING contract.
 function body({ name, type, description, sourceRepo, sourceUrl, install, notes }) {
   const d = scrub(description) || name;
   return [

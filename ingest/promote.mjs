@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Engram promoter. Validates stubs in a source dir against the engram contract,
+// Component promoter. Validates stubs in a source dir against the component contract,
 // dedupes by (name,type) against the target components dir, and moves/copies the
 // valid, unique ones into <to>/<type>/. DEFAULT --dry-run: the real target is
 // NEVER touched unless BOTH --apply AND --to <path> are passed. Zero npm deps.
@@ -96,7 +96,7 @@ export function normName(name) {
 }
 
 // Recursively collect every .md under a dir (stubs may be nested by source).
-// README.md is skipped — it is source documentation, not an engram.
+// README.md is skipped — it is source documentation, not an component.
 function walkMd(dir) {
   const out = [];
   if (!existsSync(dir)) return out;
@@ -189,7 +189,7 @@ export function promote(fromDir, toComponentsDir, { dryRun = true, log = console
 // --- GLOBAL promote across all incoming sources ---------------------------
 // Walks every source in SOURCE_PRIORITY order, validates, then dedupes by
 // (normName, type) GLOBALLY (against existing SEED components too). Keeps the
-// single best engram per key using beats(). Writes winners to <to>/<type>/.
+// single best component per key using beats(). Writes winners to <to>/<type>/.
 export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = true, log = console.log, quiet = true } = {}) {
   // 1. Seed the winners map with the components already in brain/components/.
   //    TRUE Energy SEED (hand-authored) is rank -1 and unbeatable. Components
@@ -206,7 +206,7 @@ export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = tru
     for (const file of readdirSync(dir)) {
       if (!file.endsWith(".md")) continue;
       const slug = basename(file, ".md");
-      if (slug === type) continue; // category hub note — not an engram
+      if (slug === type) continue; // category hub note — not an component
       const path = join(dir, file);
       const raw = readFileSync(path, "utf8");
       const fm = parseFrontmatter(raw);
@@ -326,7 +326,7 @@ export function promoteAll(incomingDir, toComponentsDir, sources, { dryRun = tru
 }
 
 // --- light related[] enrichment (the synapses) ----------------------------
-// Adds up to `maxLinks` `related:` links to engrams that currently have an
+// Adds up to `maxLinks` `related:` links to components that currently have an
 // EMPTY related list, linking to siblings of the SAME type that share >= 2
 // tags. NEVER overwrites an existing (curated) related list. Restricted to a
 // small set of types — generic, high-cardinality buckets (mcps, skills,
@@ -367,7 +367,7 @@ export function enrichRelated(toComponentsDir, { types = ENRICH_TYPES, maxLinks 
       }
     }
   }
-  log(`${apply ? "" : "[dry-run] "}enrichRelated: ${touched} engram(s) linked, ${links} synapse(s) added across ${types.length} types`);
+  log(`${apply ? "" : "[dry-run] "}enrichRelated: ${touched} component(s) linked, ${links} synapse(s) added across ${types.length} types`);
   return { touched, links };
 }
 
@@ -375,16 +375,16 @@ export function enrichRelated(toComponentsDir, { types = ENRICH_TYPES, maxLinks 
 // The (normName,type) pass misses two same-component spellings that don't
 // normalize-match: owner-prefixed vs bare (21st-dev-magic-mcp / magic-21st-dev)
 // and numeric-disambiguated re-listings (foo / foo-2). The strongest signal
-// that two engrams are the SAME component is an identical source_url. This pass
+// that two components are the SAME component is an identical source_url. This pass
 // collapses same-(source_url,type) groups, keeping ONE — EXCEPT when the URL is
 // a SEED repo or a config-file aggregator, because one such repo/file
-// legitimately contributes MANY distinct engrams (claude-harness's rules,
+// legitimately contributes MANY distinct components (claude-harness's rules,
 // agentswarm's subagents, ecc's .mcp.json listing exa+memory+playwright).
 function normUrl(u) {
   return String(u || "").toLowerCase().trim()
     .replace(/^https?:\/\//, "").replace(/\.git$/, "").replace(/\/+$/, "");
 }
-// A URL that legitimately hosts multiple engrams — never collapse these.
+// A URL that legitimately hosts multiple components — never collapse these.
 function isMultiComponentUrl(u) {
   return /naman10parikh/.test(u)          // the Energy SEED monorepos
     || /\.json($|\?)/.test(u)             // a config file (.mcp.json, *.json)
@@ -438,7 +438,7 @@ export function dedupBySourceUrl(toComponentsDir, { apply = false, log = console
       if (apply) rmSync(d.path);
     }
   }
-  log(`${apply ? "" : "[dry-run] "}dedupBySourceUrl: ${collapsedGroups} group(s), ${removed} redundant engram(s) removed`);
+  log(`${apply ? "" : "[dry-run] "}dedupBySourceUrl: ${collapsedGroups} group(s), ${removed} redundant component(s) removed`);
   return { collapsedGroups, removed };
 }
 
