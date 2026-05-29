@@ -8,9 +8,9 @@
 
 ***For agents, by agents, of agents.***
 
-[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 25,138 components](https://armory-murex.vercel.app/browse)
+[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 25,000+ components](https://armory-murex.vercel.app/browse)
 
-![components](https://img.shields.io/badge/components-25%2C138-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
+![components](https://img.shields.io/badge/components-25%2C000%2B-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
 
 </div>
 
@@ -75,7 +75,7 @@ Curated lists get starred and forgotten in a browser tab. Armory is built to be 
 
 ```bash
 npm i -g @namanparikh/armory                  # install once — the command is `armory`
-armory search "browser automation"              # rank across ~17,000 components
+armory search "browser automation"              # rank across ~25,000 components
 armory install playwright-mcp                   # fetch + wire it into THIS project's harness
 armory install code-reviewer --cli cursor       # …or target Cursor / Codex / OpenCode / Gemini
 # no global install? one-off:  npx @namanparikh/armory search "…"
@@ -85,7 +85,7 @@ armory install code-reviewer --cli cursor       # …or target Cursor / Codex / 
 
 ## Install Armory itself as a plugin — one step, any harness
 
-Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 24,000+ components — and the 2,546 vendored skills / agents / commands are right there.
+Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 25,000+ components — and the ~2,500 vendored skills / sub-agents / workflows / hooks / rules are right there.
 
 | Harness | Install |
 |---|---|
@@ -102,13 +102,26 @@ The plugin wires in the **Armory MCP server** (`armory-mcp` — live search/inst
 
 The catalog isn't only metadata. The **real component files** are vendored in:
 
-- `{skills,agents,commands,hooks,rules}/` — 2,546 actual files at repo root (content verbatim + provenance header).
+- `skills/ subagents/ workflows/ hooks/ claudemd-rules/` — ~2,500 actual files at repo root (content verbatim + provenance header).
 - Harness-native drops: `.claude/{skills,agents,commands,hooks}`, `.cursor/rules/` — ready to use as-is.
 - `brain/` stays the metadata knowledge-graph (source of truth). MCP details live in `brain/components/mcps/<slug>.md`. MCP servers are cataloged as install-specs in `catalog.json` (the servers themselves run externally).
 
 ## Open it as a brain
 
 `brain/` is an **Obsidian vault** — markdown + frontmatter + `[[wikilinks]]`. Open the folder in Obsidian and explore the whole graph; the `related:` edges are the connections between gear. One source of truth → the site, the MCP server, and the CLI are all generated from it (counts computed, never hand-typed).
+
+## Standing on the shoulders of
+
+Armory is **for agents, by agents, of agents** — agent-native and recursively self-improving, built almost entirely by agents. But none of it would exist without the open-source catalogs, collections, and reference repos we mirror, de-dup, and learn from. We owe them. The self-improving loop literally [keeps tabs on them](./repos/README.md) so their newest work keeps flowing in — the live list with freshness is [`repos/watchlist.json`](./repos/watchlist.json).
+
+- **Navigation & awesome-lists** — [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents), [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules), [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)
+- **Mega-collections** — [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates), [affaan-m/ecc](https://github.com/affaan-m/ecc) (**ECC**), [wshobson/agents](https://github.com/wshobson/agents) + [wshobson/commands](https://github.com/wshobson/commands), [dl-ezo/claude-code-sub-agents](https://github.com/dl-ezo/claude-code-sub-agents)
+- **Anthropic official** — [anthropics/skills](https://github.com/anthropics/skills), [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook), [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts), [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
+- **Hooks & skills** — [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery), [decider/claude-hooks](https://github.com/decider/claude-hooks), [obra/superpowers](https://github.com/obra/superpowers)
+- **MCP registries** — [PulseMCP](https://www.pulsemcp.com), [Smithery](https://smithery.ai) ([smithery-ai/registry](https://github.com/smithery-ai/registry)), [Glama](https://glama.ai/mcp), [mcp.so](https://mcp.so)
+- **Protocol** — [google/A2A](https://github.com/google/A2A)
+
+Every cataloged entry carries its `source_repo` + `license` provenance back to one of these. Thank you. 🙏
 
 ## Contribute
 
