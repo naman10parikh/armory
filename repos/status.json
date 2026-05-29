@@ -1,0 +1,241 @@
+{
+  "generated_at": "2026-05-29T02:47:46.303Z",
+  "stale_after_days": 120,
+  "total": 21,
+  "fresh": 15,
+  "stale": 6,
+  "errors": 0,
+  "repos": [
+    {
+      "repo": "obra/superpowers",
+      "category": "skills",
+      "feeds": "crawl-skillpacks.mjs",
+      "note": "community skill pack",
+      "stars": 211217,
+      "pushed_at": "2026-05-27T23:23:13Z",
+      "days_since_push": 1,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "affaan-m/ecc",
+      "category": "multi",
+      "feeds": "crawl-community.mjs",
+      "note": "ECC — large multi-component community collection",
+      "stars": 197408,
+      "pushed_at": "2026-05-28T11:45:48Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "anthropics/skills",
+      "category": "skills",
+      "feeds": "crawl-skillpacks.mjs",
+      "note": "official Anthropic skills (the SKILL.md spec)",
+      "stars": 142928,
+      "pushed_at": "2026-05-29T02:02:28Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "category": "mcps",
+      "feeds": "crawl-anthropic.mjs",
+      "note": "the official MCP reference servers",
+      "stars": 86424,
+      "pushed_at": "2026-05-28T16:05:35Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "hesreallyhim/awesome-claude-code",
+      "category": "multi",
+      "feeds": "crawl-awesome-cc.mjs",
+      "note": "the canonical awesome-claude-code navigation list",
+      "stars": 45091,
+      "pushed_at": "2026-04-27T14:40:18Z",
+      "days_since_push": 31,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "anthropics/anthropic-cookbook",
+      "category": "skills",
+      "feeds": "crawl-anthropic.mjs",
+      "note": "official cookbook — the quality bar",
+      "stars": 44547,
+      "pushed_at": "2026-05-28T18:05:37Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "PatrickJS/awesome-cursorrules",
+      "category": "claudemd-rules",
+      "feeds": "crawl-collections.mjs",
+      "note": "the big .cursorrules / rules collection",
+      "stars": 39758,
+      "pushed_at": "2026-05-29T00:57:37Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "wshobson/agents",
+      "category": "subagents",
+      "feeds": "crawl-wshobson.mjs",
+      "note": "184+ specialized sub-agents",
+      "stars": 36092,
+      "pushed_at": "2026-05-26T15:30:34Z",
+      "days_since_push": 2,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "category": "multi",
+      "feeds": "crawl-cctemplates.mjs",
+      "note": "largest single source — skills/subagents/commands/settings",
+      "stars": 27645,
+      "pushed_at": "2026-05-28T04:33:34Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "google/A2A",
+      "category": "workflows",
+      "feeds": "crawl-a2a.mjs",
+      "note": "Agent-to-Agent protocol",
+      "stars": 24054,
+      "pushed_at": "2026-05-28T19:52:43Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "VoltAgent/awesome-claude-code-subagents",
+      "category": "subagents",
+      "feeds": "crawl-collections.mjs",
+      "note": "curated sub-agent index",
+      "stars": 20790,
+      "pushed_at": "2026-05-27T10:45:40Z",
+      "days_since_push": 1,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "anthropics/anthropic-quickstarts",
+      "category": "skills",
+      "feeds": "crawl-anthropic.mjs",
+      "note": "official quickstarts",
+      "stars": 16816,
+      "pushed_at": "2026-05-28T21:02:59Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "vijaythecoder/awesome-claude-agents",
+      "category": "subagents",
+      "feeds": "crawl-more-subagents.mjs",
+      "note": "community sub-agents",
+      "stars": 4279,
+      "pushed_at": "2025-10-30T00:06:52Z",
+      "days_since_push": 211,
+      "archived": false,
+      "stale": true
+    },
+    {
+      "repo": "cloudflare/mcp-server-cloudflare",
+      "category": "mcps",
+      "feeds": "crawl-mcpso.mjs",
+      "note": "Cloudflare's MCP servers",
+      "stars": 3794,
+      "pushed_at": "2026-05-28T12:05:13Z",
+      "days_since_push": 0,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "disler/claude-code-hooks-mastery",
+      "category": "hooks",
+      "feeds": "crawl-collections.mjs",
+      "note": "hooks mastery reference",
+      "stars": 3717,
+      "pushed_at": "2026-03-04T18:16:25Z",
+      "days_since_push": 85,
+      "archived": false,
+      "stale": false
+    },
+    {
+      "repo": "wshobson/commands",
+      "category": "workflows",
+      "feeds": "crawl-wshobson.mjs",
+      "note": "slash-command / workflow orchestrators",
+      "stars": 2489,
+      "pushed_at": "2025-10-12T00:45:28Z",
+      "days_since_push": 229,
+      "archived": false,
+      "stale": true
+    },
+    {
+      "repo": "hesreallyhim/awesome-claude-code-agents",
+      "category": "subagents",
+      "feeds": "crawl-more-subagents.mjs",
+      "note": "sub-agent collection",
+      "stars": 1256,
+      "pushed_at": "2025-11-10T17:14:34Z",
+      "days_since_push": 199,
+      "archived": false,
+      "stale": true
+    },
+    {
+      "repo": "dl-ezo/claude-code-sub-agents",
+      "category": "subagents",
+      "feeds": "crawl-more-subagents.mjs",
+      "note": "community sub-agents",
+      "stars": 186,
+      "pushed_at": "2025-07-30T04:53:17Z",
+      "days_since_push": 302,
+      "archived": false,
+      "stale": true
+    },
+    {
+      "repo": "decider/claude-hooks",
+      "category": "hooks",
+      "feeds": "crawl-collections.mjs",
+      "note": "hook set",
+      "stars": 75,
+      "pushed_at": "2025-07-20T23:25:34Z",
+      "days_since_push": 312,
+      "archived": false,
+      "stale": true
+    },
+    {
+      "repo": "naman10parikh/awesome-a2a-servers",
+      "category": "workflows",
+      "feeds": "crawl-a2a.mjs",
+      "note": "our own A2A server list",
+      "stars": 2,
+      "pushed_at": "2025-05-01T21:20:50Z",
+      "days_since_push": 392,
+      "archived": false,
+      "stale": true
+    },
+    {
+      "repo": "smithery-ai/registry",
+      "category": "mcps",
+      "feeds": "crawl-smithery.mjs",
+      "note": "Smithery's registry repo",
+      "stars": 0,
+      "pushed_at": "2026-01-30T07:09:28Z",
+      "days_since_push": 118,
+      "archived": false,
+      "stale": false
+    }
+  ]
+}

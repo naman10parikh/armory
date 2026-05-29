@@ -1,0 +1,33 @@
+{
+  "description": "The upstream GitHub repos Armory is built from — the sources the self-improving loop keeps tabs on. ingest/crawl-repos.mjs refreshes pushed_at/stars/staleness into repos/status.json nightly so agents can see which sources have new gear to pull. Hand-curated; add a repo here and the loop watches it.",
+  "stale_after_days": 120,
+  "api_registries": [
+    { "name": "PulseMCP", "url": "https://www.pulsemcp.com", "feeds": "crawl-pulsemcp.mjs", "note": "live API, not a single repo" },
+    { "name": "Glama", "url": "https://glama.ai/mcp", "feeds": "crawl-glama.mjs", "note": "live API, not a single repo" },
+    { "name": "mcp.so", "url": "https://mcp.so", "feeds": "crawl-mcpso.mjs", "note": "sitemap crawl, not a single repo" },
+    { "name": "Smithery", "url": "https://smithery.ai", "feeds": "crawl-smithery.mjs", "note": "API + smithery-ai/registry repo (below)" }
+  ],
+  "repos": [
+    { "repo": "davila7/claude-code-templates", "category": "multi", "feeds": "crawl-cctemplates.mjs", "note": "largest single source — skills/subagents/commands/settings" },
+    { "repo": "affaan-m/ecc", "category": "multi", "feeds": "crawl-community.mjs", "note": "ECC — large multi-component community collection" },
+    { "repo": "hesreallyhim/awesome-claude-code", "category": "multi", "feeds": "crawl-awesome-cc.mjs", "note": "the canonical awesome-claude-code navigation list" },
+    { "repo": "hesreallyhim/awesome-claude-code-agents", "category": "subagents", "feeds": "crawl-more-subagents.mjs", "note": "sub-agent collection" },
+    { "repo": "wshobson/agents", "category": "subagents", "feeds": "crawl-wshobson.mjs", "note": "184+ specialized sub-agents" },
+    { "repo": "wshobson/commands", "category": "workflows", "feeds": "crawl-wshobson.mjs", "note": "slash-command / workflow orchestrators" },
+    { "repo": "VoltAgent/awesome-claude-code-subagents", "category": "subagents", "feeds": "crawl-collections.mjs", "note": "curated sub-agent index" },
+    { "repo": "dl-ezo/claude-code-sub-agents", "category": "subagents", "feeds": "crawl-more-subagents.mjs", "note": "community sub-agents" },
+    { "repo": "vijaythecoder/awesome-claude-agents", "category": "subagents", "feeds": "crawl-more-subagents.mjs", "note": "community sub-agents" },
+    { "repo": "PatrickJS/awesome-cursorrules", "category": "claudemd-rules", "feeds": "crawl-collections.mjs", "note": "the big .cursorrules / rules collection" },
+    { "repo": "disler/claude-code-hooks-mastery", "category": "hooks", "feeds": "crawl-collections.mjs", "note": "hooks mastery reference" },
+    { "repo": "decider/claude-hooks", "category": "hooks", "feeds": "crawl-collections.mjs", "note": "hook set" },
+    { "repo": "anthropics/skills", "category": "skills", "feeds": "crawl-skillpacks.mjs", "note": "official Anthropic skills (the SKILL.md spec)" },
+    { "repo": "anthropics/anthropic-cookbook", "category": "skills", "feeds": "crawl-anthropic.mjs", "note": "official cookbook — the quality bar" },
+    { "repo": "anthropics/anthropic-quickstarts", "category": "skills", "feeds": "crawl-anthropic.mjs", "note": "official quickstarts" },
+    { "repo": "obra/superpowers", "category": "skills", "feeds": "crawl-skillpacks.mjs", "note": "community skill pack" },
+    { "repo": "modelcontextprotocol/servers", "category": "mcps", "feeds": "crawl-anthropic.mjs", "note": "the official MCP reference servers" },
+    { "repo": "smithery-ai/registry", "category": "mcps", "feeds": "crawl-smithery.mjs", "note": "Smithery's registry repo" },
+    { "repo": "cloudflare/mcp-server-cloudflare", "category": "mcps", "feeds": "crawl-mcpso.mjs", "note": "Cloudflare's MCP servers" },
+    { "repo": "google/A2A", "category": "workflows", "feeds": "crawl-a2a.mjs", "note": "Agent-to-Agent protocol" },
+    { "repo": "naman10parikh/awesome-a2a-servers", "category": "workflows", "feeds": "crawl-a2a.mjs", "note": "our own A2A server list" }
+  ]
+}

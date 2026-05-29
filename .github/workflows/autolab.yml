@@ -80,6 +80,13 @@ jobs:
       - name: Rebuild catalog.json
         run: node ingest/catalog.mjs
 
+      # 3b. Keep tabs on the upstream source repos (refresh repos/status.json staleness).
+      #     Fault-isolated; uses the runner's GITHUB_TOKEN for a higher rate limit.
+      - name: Refresh source-repo watchlist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node ingest/crawl-repos.mjs || echo "::warning::crawl-repos failed — continuing"
+
       # 4. HARD GATES — schema validation AND the full-catalog Hamel gate. If either fails,
       #    do NOT commit; the repo stays at the last-known-good state (no-regression, DSIP eval gate).
       - name: Validate + test-gate (hard, no-regression)
