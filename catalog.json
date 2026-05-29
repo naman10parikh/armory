@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-28T21:30:59.019Z",
+  "generated_at": "2026-05-29T02:26:33.839Z",
   "counts": {
-    "total": 25251,
+    "total": 25255,
     "by_type": {
-      "mcps": 21846,
+      "mcps": 21850,
       "skills": 1129,
       "hooks": 140,
       "subagents": 729,
@@ -150909,6 +150909,31 @@
       "path": "components/mcps/discava-business-directory-for-ai.md"
     },
     {
+      "name": "discava-business-directory-for-ai-2",
+      "type": "mcps",
+      "description": "Search for local businesses worldwide. Structured data optimized for AI agents. • Search Millions of businesses over 49 countries (Europe, Northamerica, Southamerica, Asia, Oceania) • Quality & demand scoring for every business • Ranking based on real user click-through data • No API key needed, fre",
+      "source_repo": [],
+      "source_url": "https://discava.ai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 2725,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/discava-business-directory-for-ai-2.md"
+    },
+    {
       "name": "discava-mcp-server",
       "type": "mcps",
       "description": "Search Millions of local businesses worldwide (Europe, Northamerica, Southamerica, Asia, Oceania), confidence scores, and agent trust rankings. No API key required.",
@@ -155482,6 +155507,31 @@
         "mcp"
       ],
       "path": "components/mcps/doorvault-ideal-scoring-3.md"
+    },
+    {
+      "name": "doorvault-ideal-scoring-4",
+      "type": "mcps",
+      "description": "Real estate investment tools powered by DoorVault IDEAL Scoring v2.0. Analyze any rental property deal and get a structured verdict (IDEAL/PASS/NEAR-MISS/FAIL), capital velocity rating, priority score breakdown, dual rent scenarios comparing market rent vs Section 8 FMR, and a detailed investment re",
+      "source_repo": [],
+      "source_url": "https://doorvault.app",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 1073,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/doorvault-ideal-scoring-4.md"
     },
     {
       "name": "doriandarko-claude-search",
@@ -208298,6 +208348,31 @@
         "mcp"
       ],
       "path": "components/mcps/github-wiki-explorer.md"
+    },
+    {
+      "name": "github-wiki-explorer-2",
+      "type": "mcps",
+      "description": "Navigate and understand GitHub repository documentation effortlessly by retrieving wiki structures and contents. Get direct answers to specific questions about project wikis to save time searching through manual pages. Streamline the onboarding process by quickly grasping the layout and details of a",
+      "source_repo": [],
+      "source_url": "https://smithery.ai/servers/arjunkmrm/devin",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 306,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/github-wiki-explorer-2.md"
     },
     {
       "name": "github30-note-com",
@@ -412819,6 +412894,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/preclick.md"
+    },
+    {
+      "name": "preclick-url-security-scanner",
+      "type": "mcps",
+      "description": "PreClick: An MCP-native URL preflight security scanning service for autonomous agents. It scans links for threats and confirms they match the intended task before execution. Built for agentic workflows, it provides high-accuracy, context-aware browsing governance with adaptive learning.",
+      "source_repo": [],
+      "source_url": "https://preclick.ai",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": 522,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "smithery",
+        "mcp"
+      ],
+      "path": "components/mcps/preclick-url-security-scanner.md"
     },
     {
       "name": "predev-architect",
