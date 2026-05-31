@@ -10,8 +10,8 @@ license: MIT
 cli_compat: [claude, codex, cursor]
 maturity: stable
 stars: null
-eval_score: null
-verified_at: 2026-05-26
+eval_score: 1
+verified_at: 2026-05-31
 related: [context7-mcp, research-agent, browserbase-bb]
 tags: [web-scraping, crawling, extraction, content, research]
 ---

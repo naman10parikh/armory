@@ -9,8 +9,8 @@ license: MIT
 cli_compat: [claude]
 maturity: beta
 stars: null
-eval_score: null
-verified_at: 2026-05-27
+eval_score: 1
+verified_at: 2026-05-31
 related: []
 tags: [devtools, mcps]
 ---
