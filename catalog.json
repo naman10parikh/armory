@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-30T09:17:26.774Z",
+  "generated_at": "2026-05-31T09:47:43.077Z",
   "counts": {
-    "total": 26253,
+    "total": 26343,
     "by_type": {
-      "mcps": 22848,
+      "mcps": 22938,
       "skills": 1129,
       "hooks": 140,
       "subagents": 729,
@@ -32274,6 +32274,31 @@
       "path": "components/mcps/affinity-mcp-server.md"
     },
     {
+      "name": "affinitymcp",
+      "type": "mcps",
+      "description": "Enables natural language control of Affinity Photo/Designer/Publisher and Canva workflows through MCP tools, supporting file operations, filters, and batch processing up to 16 files simultaneously.",
+      "source_repo": "tacyan/AffinityMCP",
+      "source_url": "https://github.com/tacyan/AffinityMCP",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/affinitymcp.md"
+    },
+    {
       "name": "africa-api",
       "type": "mcps",
       "description": "Structured data on all 54 African countries including indicators, elections, markets, and trade.",
@@ -33624,6 +33649,31 @@
         "mcp"
       ],
       "path": "components/mcps/agent-infrastructure.md"
+    },
+    {
+      "name": "agent-junction",
+      "type": "mcps",
+      "description": "Enables Claude Code instances to communicate directly via an ephemeral, encrypted peer-to-peer message bus. Works on localhost or across your LAN.",
+      "source_repo": "danielrosehill/Agent-Junction",
+      "source_url": "https://github.com/danielrosehill/Agent-Junction",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/agent-junction.md"
     },
     {
       "name": "agent-knowledge-mcp",
@@ -42501,6 +42551,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/akshayvkt-lenny-podcast.md"
+    },
+    {
+      "name": "aktools-mcp-server",
+      "type": "mcps",
+      "description": "Enables querying and analysis of stock and cryptocurrency data, including market overviews, price history, news, and financial indicators, via akshare.",
+      "source_repo": "fastmcp-me/mcp-aktools",
+      "source_url": "https://github.com/fastmcp-me/mcp-aktools",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/aktools-mcp-server.md"
     },
     {
       "name": "aktsmm-skill-ninja",
@@ -54097,6 +54172,31 @@
       "path": "components/mcps/anoopt-outlook-meetings-scheduler.md"
     },
     {
+      "name": "another-bloated-obsidian-mcp-server",
+      "type": "mcps",
+      "description": "A Model Context Protocol (MCP) server that provides AI assistants with secure access to Obsidian vaults. Enables reading, writing, searching, and managing notes without requiring Obsidian to be running.",
+      "source_repo": "diegorv/another-bloated-obsidian-mcp-server",
+      "source_url": "https://github.com/diegorv/another-bloated-obsidian-mcp-server",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/another-bloated-obsidian-mcp-server.md"
+    },
+    {
       "name": "anotherben-coding-standards",
       "type": "mcps",
       "description": "Makes coding standards queryable as a live data store, returning only task-relevant rules in token-efficient responses instead of loading full documentation.",
@@ -64495,6 +64595,31 @@
         "mcp"
       ],
       "path": "components/mcps/asset-aware-mcp.md"
+    },
+    {
+      "name": "assetcache-mcp",
+      "type": "mcps",
+      "description": "Enables Claude to search and retrieve Unity game assets (sprites, sounds) via natural language, with automatic indexing and AI-powered labeling.",
+      "source_repo": "v0o0v/assetcache-mcp",
+      "source_url": "https://github.com/v0o0v/assetcache-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/assetcache-mcp.md"
     },
     {
       "name": "assimelha-cmcp",
@@ -80321,6 +80446,31 @@
       "path": "components/mcps/biothings-mcp.md"
     },
     {
+      "name": "birdeye-mcp-server",
+      "type": "mcps",
+      "description": "Provides blockchain data context from Birdeye APIs for AI models via Model Context Protocol, enabling token, market, wallet, NFT, and DEX pool queries on Solana.",
+      "source_repo": "aiopinions/birdeye-mcp-server",
+      "source_url": "https://github.com/aiopinions/birdeye-mcp-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/birdeye-mcp-server.md"
+    },
+    {
       "name": "birdseyevue-daisyui",
       "type": "mcps",
       "description": "Provides access to DaisyUI component documentation and usage patterns for Tailwind CSS development",
@@ -91115,6 +91265,31 @@
         "mcp"
       ],
       "path": "components/mcps/browser-automation-server.md"
+    },
+    {
+      "name": "browser-connect-mcp",
+      "type": "mcps",
+      "description": "Enables AI assistants to connect to browser DevTools and backend debuggers for full-stack debugging, including frontend console, network, performance, and backend log analysis.",
+      "source_repo": "perception30/browser-connect-mcp",
+      "source_url": "https://github.com/perception30/browser-connect-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/browser-connect-mcp.md"
     },
     {
       "name": "browser-gateway",
@@ -105403,6 +105578,31 @@
       "path": "components/mcps/chia-health.md"
     },
     {
+      "name": "chiasmus",
+      "type": "mcps",
+      "description": "MCP server that gives LLMs access to formal verification via Z3 and SWI-Prolog, plus tree-sitter-based source code analysis. Translates natural language problems into formal logic using a template-based pipeline, verifies results with mathematical certainty, and analyzes call graphs for reachability",
+      "source_repo": "yogthos/chiasmus",
+      "source_url": "https://github.com/yogthos/chiasmus",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/chiasmus.md"
+    },
+    {
       "name": "chicogong-ffvoice",
       "type": "mcps",
       "description": "Offline speech-to-text and speaker diarization using on-device Whisper processing.",
@@ -107453,6 +107653,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/chrome-devtools.md"
+    },
+    {
+      "name": "chrome-devtools-mcp",
+      "type": "mcps",
+      "description": "Lets coding agents control and inspect a live Chrome browser via the Model-Context-Protocol, providing advanced browser debugging, performance insights, and reliable automation.",
+      "source_repo": "shivamprasad99/chrome-devtools-mcp",
+      "source_url": "https://github.com/shivamprasad99/chrome-devtools-mcp",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/chrome-devtools-mcp.md"
     },
     {
       "name": "chrome-mcp-server",
@@ -113874,6 +114099,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/cloudscope.md"
+    },
+    {
+      "name": "cloudscraper-mcp",
+      "type": "mcps",
+      "description": "Enables AI agents to bypass Cloudflare protection and scrape web content, returning clean Markdown with smart chunking and file export.",
+      "source_repo": "LLMTooling/cloudscraper-mcp-server",
+      "source_url": "https://github.com/LLMTooling/cloudscraper-mcp-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/cloudscraper-mcp.md"
     },
     {
       "name": "cloudsmithy-easysearch",
@@ -137661,6 +137911,31 @@
       "path": "components/mcps/cyanheads-sec-edgar.md"
     },
     {
+      "name": "cyanheads-secedgar-mcp-server",
+      "type": "mcps",
+      "description": "Query SEC EDGAR filings, XBRL financials, and company data through MCP.",
+      "source_repo": "cyanheads/secedgar-mcp-server",
+      "source_url": "https://github.com/cyanheads/secedgar-mcp-server",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/cyanheads-secedgar-mcp-server.md"
+    },
+    {
       "name": "cyanheads-socrata",
       "type": "mcps",
       "description": "Searches and queries government open-data portals powered by Socrata using SoQL, with DuckDB integration for large dataset analysis.",
@@ -147408,6 +147683,56 @@
       "path": "components/mcps/dbt-cli-mcp.md"
     },
     {
+      "name": "dbt-doctor",
+      "type": "mcps",
+      "description": "AI-driven MCP server that audits, profiles, detects schema drift, and auto-generates documentation for dbt projects, enabling natural language interaction with your dbt project's health.",
+      "source_repo": "Astoriel/dbt-doctor",
+      "source_url": "https://github.com/Astoriel/dbt-doctor",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/dbt-doctor.md"
+    },
+    {
+      "name": "dbt-mcp-server",
+      "type": "mcps",
+      "description": "A minimal, extensible MCP server to run dbt models via CLI, HTTP API, or AI interfaces like Claude, with Slack notifications for task completions.",
+      "source_repo": "kannandreams/dbt-mcp-server",
+      "source_url": "https://github.com/kannandreams/dbt-mcp-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/dbt-mcp-server.md"
+    },
+    {
       "name": "dbtrail",
       "type": "mcps",
       "description": "Track MySQL database changes with row-level recovery, forensic attribution, and compliance reporting.",
@@ -148606,6 +148931,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/decision-anchor.md"
+    },
+    {
+      "name": "decision-state-mcp",
+      "type": "mcps",
+      "description": "A small MCP server that stores and retrieves compact decision-relevant state (goals, constraints, facts, decisions) outside the chat context, enabling easy retrieval for Claude Code or Codex.",
+      "source_repo": "Koolercat/mcp-state",
+      "source_url": "https://github.com/Koolercat/mcp-state",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/decision-state-mcp.md"
     },
     {
       "name": "decisionnode-decisionnode",
@@ -163759,6 +164109,31 @@
       "path": "components/mcps/dsers.md"
     },
     {
+      "name": "dsers-mcp-product",
+      "type": "mcps",
+      "description": "An MCP server that automates importing products from AliExpress, Alibaba, and Accio into DSers and pushing them to Shopify or Wix stores, with features like bulk import, pricing rules, and title cleanup.",
+      "source_repo": "OyaAIProd/dsers-mcp-product",
+      "source_url": "https://github.com/OyaAIProd/dsers-mcp-product",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/dsers-mcp-product.md"
+    },
+    {
       "name": "dshein-alt-crawly",
       "type": "mcps",
       "description": "Browser-backed web search and content retrieval using Playwright, supporting DuckDuckGo, Google, and Yandex with SSRF protection.",
@@ -170904,6 +171279,31 @@
       "path": "components/mcps/embassy-of-the-free-mind-sourcelibrary-v2.md"
     },
     {
+      "name": "embedded-xlink-mcp",
+      "type": "mcps",
+      "description": "MCP server for embedded debugging based on probe-rs, providing 22 tools for ARM Cortex-M and RISC-V microcontrollers, including connection, memory operations, breakpoints, flash programming, and RTT communication.",
+      "source_repo": "vividcode-ai/embedded-xLink-mcp",
+      "source_url": "https://github.com/vividcode-ai/embedded-xLink-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/embedded-xlink-mcp.md"
+    },
+    {
       "name": "ember-ex-elixir",
       "type": "mcps",
       "description": "Elixir port of the Ember framework for building LLM applications",
@@ -176781,6 +177181,31 @@
       "path": "components/mcps/evc-team-relay-mcp.md"
     },
     {
+      "name": "eve-fleet-manager-mcp-server",
+      "type": "mcps",
+      "description": "Manages EVE Online fleets via SSO authorization, inspecting composition, organizing squads/wings, inviting/kicking members, and updating MOTD.",
+      "source_repo": "tedfytw1209/mcp-server-EVEfleet",
+      "source_url": "https://github.com/tedfytw1209/mcp-server-EVEfleet",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/eve-fleet-manager-mcp-server.md"
+    },
+    {
       "name": "eve-online",
       "type": "mcps",
       "description": "Integrates with EVE Online's API to provide real-time market data, item prices, and game information for analyzing market trends and making informed trading decisions.",
@@ -181723,6 +182148,31 @@
         "mcp"
       ],
       "path": "components/mcps/fast-mcp-telegram.md"
+    },
+    {
+      "name": "fast-odoo-mcp",
+      "type": "mcps",
+      "description": "An MCP server that enables AI assistants to interact with Odoo ERP systems, allowing natural language access to business data, CRUD operations, and instance management without requiring Odoo module installation.",
+      "source_repo": "hjdhnx/fast-odoo-mcp",
+      "source_url": "https://github.com/hjdhnx/fast-odoo-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/fast-odoo-mcp.md"
     },
     {
       "name": "fast-whisper-mcp-server",
@@ -187245,6 +187695,31 @@
       "path": "components/mcps/finhay.md"
     },
     {
+      "name": "finimpulse-mcp-server",
+      "type": "mcps",
+      "description": "Provides structured financial market data (stocks, ETFs, mutual funds, fundamentals, market indicators) to AI systems via MCP, enabling natural language access to financial datasets with both hosted and local deployment options.",
+      "source_repo": "finimpulse/mcp-server-typescript",
+      "source_url": "https://github.com/finimpulse/mcp-server-typescript",
+      "license": "ISC License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/finimpulse-mcp-server.md"
+    },
+    {
       "name": "finishkit",
       "type": "mcps",
       "description": "Scan GitHub repositories for security vulnerabilities, deployment blockers, and code quality issues.",
@@ -187343,6 +187818,31 @@
         "finance-fintech"
       ],
       "path": "components/mcps/finmap-org-mcp-server.md"
+    },
+    {
+      "name": "finn-mcp",
+      "type": "mcps",
+      "description": "An MCP server that provides access to finn.no, Norway's largest online classifieds marketplace, enabling searches and listing retrieval across used goods, real estate, cars, and jobs.",
+      "source_repo": "aHk-coder/finn-mcp",
+      "source_url": "https://github.com/aHk-coder/finn-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/finn-mcp.md"
     },
     {
       "name": "finnng-rethinkdb",
@@ -217925,6 +218425,31 @@
       "path": "components/mcps/glyphic.md"
     },
     {
+      "name": "glyphs-info-mcp",
+      "type": "mcps",
+      "description": "A unified MCP server for Glyphs font design software, integrating handbook queries and API reference lookups. Enables searching documentation, managing plugins, and accessing development templates through Claude.",
+      "source_repo": "yintzuyuan/glyphs-info-mcp",
+      "source_url": "https://github.com/yintzuyuan/glyphs-info-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/glyphs-info-mcp.md"
+    },
+    {
       "name": "gm-maker-mcp-server",
       "type": "mcps",
       "description": "Enables AI-assisted GameMaker project development in Cursor IDE, allowing users to create projects, add scripts, objects, and sprites using natural language.",
@@ -218675,6 +219200,31 @@
       "path": "components/mcps/goatsolana-mcp.md"
     },
     {
+      "name": "gobbler-mcp",
+      "type": "mcps",
+      "description": "Converts YouTube videos, audio, documents, and web pages to clean markdown with YAML frontmatter, providing AI assistants with structured content via the MCP protocol.",
+      "source_repo": "Enablement-Engineering/gobbler",
+      "source_url": "https://github.com/Enablement-Engineering/gobbler",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/gobbler-mcp.md"
+    },
+    {
       "name": "gobox-mcp",
       "type": "mcps",
       "description": "Enables AI agents and automation tools to interact with the Gobox e-commerce platform, providing tools for orders, products, inventory, warehouses, reports, shipments, and webhooks.",
@@ -218849,6 +219399,31 @@
         "mcp"
       ],
       "path": "components/mcps/godot-engine-integration.md"
+    },
+    {
+      "name": "godot-mcp-docs",
+      "type": "mcps",
+      "description": "Provides AI assistants with access to the complete Godot Engine documentation, enabling developers to get answers about Godot classes, tutorials, and features directly in their chat interface.",
+      "source_repo": "Nihilantropy/godot-mcp-docs",
+      "source_url": "https://github.com/Nihilantropy/godot-mcp-docs",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/godot-mcp-docs.md"
     },
     {
       "name": "godot-mcp-full-control",
@@ -219174,6 +219749,31 @@
         "mcp"
       ],
       "path": "components/mcps/gograph.md"
+    },
+    {
+      "name": "gohighlevel-mcp-server",
+      "type": "mcps",
+      "description": "Enables AI assistants to manage GoHighLevel CRM data including contacts, conversations, opportunities, calendars, and forms through MCP tools and resources.",
+      "source_repo": "basicmachines-co/open-ghl-mcp",
+      "source_url": "https://github.com/basicmachines-co/open-ghl-mcp",
+      "license": "AGPL 3.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/gohighlevel-mcp-server.md"
     },
     {
       "name": "gohyperdev-linkedin",
@@ -221104,6 +221704,31 @@
         "mcp"
       ],
       "path": "components/mcps/google-gemini-universal-mcp-server.md"
+    },
+    {
+      "name": "google-keep-mcp",
+      "type": "mcps",
+      "description": "Enables AI-powered management of Google Keep notes, including search, create, update, delete, archive, and label operations.",
+      "source_repo": "davenicoll/google-keep-mcp",
+      "source_url": "https://github.com/davenicoll/google-keep-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/google-keep-mcp.md"
     },
     {
       "name": "google-kubernetes-engine",
@@ -235732,6 +236357,31 @@
       "path": "components/mcps/hfss-mcp-server.md"
     },
     {
+      "name": "hh-mcp-comfyui",
+      "type": "mcps",
+      "description": "通过Model Context Protocol调用本地ComfyUI实例生成图片，支持动态替换工作流中的提示词和尺寸等参数。",
+      "source_repo": "zjf2671/hh-mcp-comfyui",
+      "source_url": "https://github.com/zjf2671/hh-mcp-comfyui",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/hh-mcp-comfyui.md"
+    },
+    {
       "name": "hhhh124hhhh-godot-engine",
       "type": "mcps",
       "description": "Bidirectional Godot engine integration for natural language game development with scene manipulation and GDScript editing",
@@ -238080,6 +238730,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/hmr-docs.md"
+    },
+    {
+      "name": "hn-tech-signal-mcp",
+      "type": "mcps",
+      "description": "Aggregates tech and AI signals from HackerNews, arXiv, Lobste.rs, and GitHub into a structured briefing. No authentication required.",
+      "source_repo": "malkreide/hn-tech-signal-mcp",
+      "source_url": "https://github.com/malkreide/hn-tech-signal-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/hn-tech-signal-mcp.md"
     },
     {
       "name": "hoangnecon-golab",
@@ -253005,6 +253680,31 @@
       "path": "components/mcps/io-github-unmateria-msaccess-database.md"
     },
     {
+      "name": "io-github-wmarceau-md-to-pdf",
+      "type": "mcps",
+      "description": "Converts markdown files into professional PDF documents with automatic table of contents and interactive navigation.",
+      "source_repo": "MarceauSolutions/md-to-pdf-mcp",
+      "source_url": "https://github.com/MarceauSolutions/md-to-pdf-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/io-github-wmarceau-md-to-pdf.md"
+    },
+    {
       "name": "iocanel-backstage",
       "type": "mcps",
       "description": "Enables AI systems to interact with Backstage developer portal for listing templates and instantiating new projects through Quarkus-based API communication.",
@@ -253274,6 +253974,31 @@
         "mcp"
       ],
       "path": "components/mcps/ip-lookup-mcp.md"
+    },
+    {
+      "name": "ip-mcp",
+      "type": "mcps",
+      "description": "Provides tools to classify, test, and expand IPv4/IPv6 addresses using Node's built-in net module.",
+      "source_repo": "MukundaKatta/ip-mcp",
+      "source_url": "https://github.com/MukundaKatta/ip-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/ip-mcp.md"
     },
     {
       "name": "ip-mcp-server",
@@ -280247,6 +280972,31 @@
       "path": "components/mcps/kcw2034-maplestory.md"
     },
     {
+      "name": "kdb-ai-mcp-server",
+      "type": "mcps",
+      "description": "Enables interaction with KDB.AI through natural language for vector database operations, similarity searches, hybrid search, and advanced data analysis.",
+      "source_repo": "KxSystems/kdbai-mcp-server",
+      "source_url": "https://github.com/KxSystems/kdbai-mcp-server",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/kdb-ai-mcp-server.md"
+    },
+    {
       "name": "kdesch5000-observium",
       "type": "mcps",
       "description": "Provides read-only access to Observium CE network monitoring data for querying device status, port traffic, sensor readings, alerts, and historical trends through natural language queries about network infrastructure health and performance metrics.",
@@ -280520,6 +281270,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/kedarvartak-md-md.md"
+    },
+    {
+      "name": "kedro-mcp-server",
+      "type": "mcps",
+      "description": "Provides AI assistants with versioned guidance for Kedro projects, including notebook conversion and project migration.",
+      "source_repo": "kedro-org/kedro-mcp",
+      "source_url": "https://github.com/kedro-org/kedro-mcp",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/kedro-mcp-server.md"
     },
     {
       "name": "keegancsmith-linear-issues",
@@ -294773,6 +295548,31 @@
       "path": "components/mcps/lansespirit-gpt-image.md"
     },
     {
+      "name": "lanten-mcp-server",
+      "type": "mcps",
+      "description": "Connects AI assistants to the Lanten property management API, allowing them to manage tenants, units, and work orders using natural language.",
+      "source_repo": "lanten-ai/mcp-server",
+      "source_url": "https://github.com/lanten-ai/mcp-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/lanten-mcp-server.md"
+    },
+    {
       "name": "lanyard-mcp-server",
       "type": "mcps",
       "description": "Provides Discord user presence information through the Lanyard API, enabling AI assistants to retrieve real-time presence data like online status, Spotify activity, and custom KV data.",
@@ -299694,6 +300494,31 @@
       "path": "components/mcps/lexiconalex-better-auth.md"
     },
     {
+      "name": "leximo-ai-call-assistant-mcp-server",
+      "type": "mcps",
+      "description": "An MCP server that lets you schedule AI phone calls and manage Leximo assignments directly from Claude Desktop or Claude Code.",
+      "source_repo": "Leximo-AI/leximo-ai-call-assistant-mcp-server",
+      "source_url": "https://github.com/Leximo-AI/leximo-ai-call-assistant-mcp-server",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/leximo-ai-call-assistant-mcp-server.md"
+    },
+    {
       "name": "leximo-call-assistant",
       "type": "mcps",
       "description": "Schedule AI phone calls, manage assignments, browse calling agents, and track credits through the Leximo platform.",
@@ -301494,6 +302319,31 @@
       "path": "components/mcps/linductor-alkaid-academic-search.md"
     },
     {
+      "name": "line-bot-mcp-server",
+      "type": "mcps",
+      "description": "MCP server that integrates the LINE Messaging API to enable AI agents to send messages and manage LINE Official Accounts.",
+      "source_repo": "line/line-bot-mcp-server",
+      "source_url": "https://github.com/line/line-bot-mcp-server",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/line-bot-mcp-server.md"
+    },
+    {
       "name": "line-line-bot-mcp-server",
       "type": "mcps",
       "description": "🎖 📇 ☁️ - MCP Server for Integrating LINE Official Account",
@@ -303271,6 +304121,31 @@
       "path": "components/mcps/lite-iterm.md"
     },
     {
+      "name": "litellm-mcp-server-bridge",
+      "type": "mcps",
+      "description": "Connects Antigravity to a LiteLLM instance, enabling chat completions, model listing, health checks, and more via the Model Context Protocol.",
+      "source_repo": "AbhishekMore-1/litellm-proxy-mcp",
+      "source_url": "https://github.com/AbhishekMore-1/litellm-proxy-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/litellm-mcp-server-bridge.md"
+    },
+    {
       "name": "litestar-mcp",
       "type": "mcps",
       "description": "A Litestar plugin that automatically exposes marked routes as MCP tools and resources over Streamable HTTP.",
@@ -303844,6 +304719,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/liveplex-fiber.md"
+    },
+    {
+      "name": "livetap",
+      "type": "mcps",
+      "description": "LiveTap connects live data streams (MQTT, WebSocket, file tailing) to AI coding agents, enabling real-time monitoring and alerting through natural language.",
+      "source_repo": "livetap/livetap",
+      "source_url": "https://github.com/livetap/livetap",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/livetap.md"
     },
     {
       "name": "living-hi-one-person-company-os",
@@ -304519,6 +305419,31 @@
         "mcp"
       ],
       "path": "components/mcps/llm-wiki-mcp.md"
+    },
+    {
+      "name": "llm2docs-unofficial",
+      "type": "mcps",
+      "description": "An unofficial MCP server for Google Docs that lets large language models securely access, read, and interact with documents, enabling smarter workflows and AI-assisted editing.",
+      "source_repo": "NoManNayeem/google-docs-mcp-server",
+      "source_url": "https://github.com/NoManNayeem/google-docs-mcp-server",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/llm2docs-unofficial.md"
     },
     {
       "name": "llmian-space-devdocs",
@@ -305619,6 +306544,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/locize.md"
+    },
+    {
+      "name": "lockstep-mcp",
+      "type": "mcps",
+      "description": "Enables multiple AI agents like Claude and Codex to coordinate on the same project through shared tasks, file locks, and a real-time dashboard, preventing conflicts and streamlining collaborative development.",
+      "source_repo": "Tmmoore286/lockstep-mcp",
+      "source_url": "https://github.com/Tmmoore286/lockstep-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/lockstep-mcp.md"
     },
     {
       "name": "locus",
@@ -313266,6 +314216,31 @@
         "mcp"
       ],
       "path": "components/mcps/magic-api-mcp-server.md"
+    },
+    {
+      "name": "magic-meal-kits-mcp",
+      "type": "mcps",
+      "description": "Enables AI assistants to check the Magic Meal Kits server version through a single tool.",
+      "source_repo": "pureugong/mmk-mcp",
+      "source_url": "https://github.com/pureugong/mmk-mcp",
+      "license": "ISC License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/magic-meal-kits-mcp.md"
     },
     {
       "name": "magic-patterns-mcp-server",
@@ -321518,6 +322493,31 @@
       "path": "components/mcps/maverick7-glue-code-generator.md"
     },
     {
+      "name": "max-mcp-server",
+      "type": "mcps",
+      "description": "Enables to fetch and update workspace profile settings for the Digital Crew Max AI sales agent via MCP tools.",
+      "source_repo": "Digital-Crew-Technologies/max-mcp-server",
+      "source_url": "https://github.com/Digital-Crew-Technologies/max-mcp-server",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/max-mcp-server.md"
+    },
+    {
       "name": "max-rousseau-codeforge",
       "type": "mcps",
       "description": "Self-hosted MCP server that executes TypeScript code in a Deno sandbox for AI agents to call authenticated REST APIs.",
@@ -326344,6 +327344,31 @@
       "path": "components/mcps/mcp-cve-intelligence-server-lite.md"
     },
     {
+      "name": "mcp-cwa",
+      "type": "mcps",
+      "description": "Provides read-only access to Taiwan's Central Weather Administration (CWA) Open Data API, offering 36 tools across 7 categories including weather forecasts, observations, earthquakes, and astronomy.",
+      "source_repo": "asgard-ai-platform/mcp-cwa",
+      "source_url": "https://github.com/asgard-ai-platform/mcp-cwa",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-cwa.md"
+    },
+    {
       "name": "mcp-d3-server",
       "type": "mcps",
       "description": "Mcp D3 Server MCP server listed on mcp.so.",
@@ -330496,6 +331521,31 @@
       "path": "components/mcps/mcp-interactive-ui-server.md"
     },
     {
+      "name": "mcp-intigriti-server",
+      "type": "mcps",
+      "description": "Enables security researchers to interact with Intigriti's bug bounty platform through Claude Desktop, providing access to programs, scope, activities, and rules of engagement via natural language.",
+      "source_repo": "jdc94/mcp-intigriti-server",
+      "source_url": "https://github.com/jdc94/mcp-intigriti-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-intigriti-server.md"
+    },
+    {
       "name": "mcp-invoice-generator",
       "type": "mcps",
       "description": "Enables generation of PDF invoices via an MCP server, using Typst for typesetting and a local TOML file for billing data.",
@@ -331044,6 +332094,31 @@
         "mcp"
       ],
       "path": "components/mcps/mcp-lexware-office.md"
+    },
+    {
+      "name": "mcp-lint-tools",
+      "type": "mcps",
+      "description": "Code linting and style checking tools for AI agents, exposed as an MCP server. Supports style checks, naming conventions, complexity analysis, dead code detection, and import analysis.",
+      "source_repo": "rog0x/mcp-lint-tools",
+      "source_url": "https://github.com/rog0x/mcp-lint-tools",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-lint-tools.md"
     },
     {
       "name": "mcp-litmedia",
@@ -334049,6 +335124,31 @@
       "path": "components/mcps/mcp-pymilvus-code-generator.md"
     },
     {
+      "name": "mcp-pypi",
+      "type": "mcps",
+      "description": "A security-focused MCP server that enables AI assistants to search PyPI packages, scan for vulnerabilities, audit dependencies, and ensure security across Python projects.",
+      "source_repo": "kimasplund/mcp-pypi",
+      "source_url": "https://github.com/kimasplund/mcp-pypi",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-pypi.md"
+    },
+    {
       "name": "mcp-qdrant-semantic-search",
       "type": "mcps",
       "description": "Enables Claude to store and retrieve information with semantic search using Qdrant vector database, providing persistent memory for conversations, code, and documentation.",
@@ -336974,6 +338074,31 @@
       "path": "components/mcps/mcp-server-azure-ai-search.md"
     },
     {
+      "name": "mcp-server-bedrock-image",
+      "type": "mcps",
+      "description": "An MCP server that gives AI agents the ability to generate, edit, and manipulate images using Stability AI models on AWS Bedrock.",
+      "source_repo": "Yaksh36/mcp-server-bedrock-image",
+      "source_url": "https://github.com/Yaksh36/mcp-server-bedrock-image",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-server-bedrock-image.md"
+    },
+    {
       "name": "mcp-server-biorxiv",
       "type": "mcps",
       "description": "Mcp Server BioRxiv MCP server listed on mcp.so.",
@@ -337518,6 +338643,31 @@
         "mcp"
       ],
       "path": "components/mcps/mcp-server-deerflow-kinthai.md"
+    },
+    {
+      "name": "mcp-server-defillama",
+      "type": "mcps",
+      "description": "Enables Claude to access DeFi data via DefiLlama API, including protocol TVL, chain TVL, token prices, and stablecoin information.",
+      "source_repo": "dcSpark/mcp-server-defillama",
+      "source_url": "https://github.com/dcSpark/mcp-server-defillama",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-server-defillama.md"
     },
     {
       "name": "mcp-server-demo",
@@ -345120,6 +346270,31 @@
       "path": "components/mcps/mcp-use-supabase.md"
     },
     {
+      "name": "mcp-ux-vision",
+      "type": "mcps",
+      "description": "Enables AI-powered visual analysis of webpages for UI/UX assessment, including screenshot capture, element detection, accessibility auditing, and comprehensive JSON reporting.",
+      "source_repo": "sfearl1/mcp-ux-vision",
+      "source_url": "https://github.com/sfearl1/mcp-ux-vision",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-ux-vision.md"
+    },
+    {
       "name": "mcp-vanguard",
       "type": "mcps",
       "description": "A security pentesting MCP server with 89 tools across 10 categories, enabling comprehensive reconnaissance, web security, OSINT, and exploitation tasks. It features a native Windows/WSL bridge for Kali Linux tools and scope-aware permission tiers for safe and efficient scanning.",
@@ -345595,6 +346770,31 @@
       "path": "components/mcps/mcp-webgate.md"
     },
     {
+      "name": "mcp-webscraper",
+      "type": "mcps",
+      "description": "Enables Claude Desktop to perform advanced web scraping and crawling operations, extracting structured data, analyzing website architectures, and discovering content relationships through natural conversation.",
+      "source_repo": "samirsaci/mcp-webscraper",
+      "source_url": "https://github.com/samirsaci/mcp-webscraper",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-webscraper.md"
+    },
+    {
       "name": "mcp-wikipedia-api-server",
       "type": "mcps",
       "description": "MCP Wikipedia API Server MCP server listed on mcp.so.",
@@ -345718,6 +346918,31 @@
         "mcp"
       ],
       "path": "components/mcps/mcp-working-context-optimizer.md"
+    },
+    {
+      "name": "mcp-worldbank",
+      "type": "mcps",
+      "description": "Enables AI agents to access and query World Bank data (free, no auth) through natural language or direct tools, wrapping the World Bank Data API v2.",
+      "source_repo": "pipeworx-io/mcp-worldbank",
+      "source_url": "https://github.com/pipeworx-io/mcp-worldbank",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mcp-worldbank.md"
     },
     {
       "name": "mcp-wynncraft",
@@ -350550,6 +351775,31 @@
         "mcp"
       ],
       "path": "components/mcps/memory-mcp-server-2.md"
+    },
+    {
+      "name": "memory-nexus-mcp",
+      "type": "mcps",
+      "description": "Enables AI agents with persistent semantic memory, including semantic recall, knowledge graphs, and instant domain expertise via pre-built Intelligence Packs.",
+      "source_repo": "KairosMobius/memory-nexus-mcp",
+      "source_url": "https://github.com/KairosMobius/memory-nexus-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/memory-nexus-mcp.md"
     },
     {
       "name": "memory-plugin-sqlite",
@@ -358594,6 +359844,31 @@
       "path": "components/mcps/miro-mcp-server.md"
     },
     {
+      "name": "miro-universal-mcp-server",
+      "type": "mcps",
+      "description": "This repository contains an implementation of an Miro Universal MCP (Model Context Protocol) server. It provides a standardized interface for interacting with Miro's tools and services through a unified API.",
+      "source_repo": "universal-mcp/miro",
+      "source_url": "https://github.com/universal-mcp/miro",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/miro-universal-mcp-server.md"
+    },
+    {
       "name": "mirrdhyn-code-rag",
       "type": "mcps",
       "description": "Provides semantic code search and similarity matching using vector embeddings and Qdrant database integration with support for multiple programming languages and incremental indexing via git hooks.",
@@ -359467,6 +360742,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/mixpanel.md"
+    },
+    {
+      "name": "mixpanel-mcp-server",
+      "type": "mcps",
+      "description": "Enables AI assistants to track events, page views, user signups, and update user profiles in Mixpanel.",
+      "source_repo": "ciaraadkins/mixpanel-mcp-server",
+      "source_url": "https://github.com/ciaraadkins/mixpanel-mcp-server",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mixpanel-mcp-server.md"
     },
     {
       "name": "mixpeek",
@@ -364585,6 +365885,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/moshe-ship-wasl.md"
+    },
+    {
+      "name": "mospi-mcp-server",
+      "type": "mcps",
+      "description": "MCP server for accessing India's Ministry of Statistics and Programme Implementation (MoSPI) data APIs. Enables natural language queries for economic, demographic, and social indicators via a 4-tool workflow.",
+      "source_repo": "mayankthekumawat/mospi-mcp-api",
+      "source_url": "https://github.com/mayankthekumawat/mospi-mcp-api",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/mospi-mcp-server.md"
     },
     {
       "name": "mossland-alpha",
@@ -385150,6 +386475,31 @@
       "path": "components/mcps/npm-sentinel-mcp.md"
     },
     {
+      "name": "npmplus-mcp",
+      "type": "mcps",
+      "description": "Enables AI-powered JavaScript package management including search, install, update, remove, and security auditing across npm, yarn, and pnpm.",
+      "source_repo": "shacharsol/js-package-manager-mcp",
+      "source_url": "https://github.com/shacharsol/js-package-manager-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/npmplus-mcp.md"
+    },
+    {
       "name": "nps-explorer-mcp-server",
       "type": "mcps",
       "description": "Provides LLM context on U.S. national parks by integrating National Park Service, Recreation.gov, and weather APIs, enabling queries about park info, trails, alerts, events, weather forecasts, and more via tool calls.",
@@ -388329,6 +389679,31 @@
       "path": "components/mcps/odigo-elastic-s2l-mcp.md"
     },
     {
+      "name": "odoo-dev-mcp-server",
+      "type": "mcps",
+      "description": "An Odoo module that embeds an MCP server, enabling AI agents to directly access Odoo capabilities such as terminal control, database operations, filesystem management, ORM execution, and service administration.",
+      "source_repo": "woodwosj/OdooDevMCP",
+      "source_url": "https://github.com/woodwosj/OdooDevMCP",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/odoo-dev-mcp-server.md"
+    },
+    {
       "name": "odoo-mcp-pro",
       "type": "mcps",
       "description": "AI connector for Odoo ERP enabling natural language interaction to search, create, update, and manage business records.",
@@ -389004,6 +390379,31 @@
       "path": "components/mcps/offer-hopper.md"
     },
     {
+      "name": "office-document-processing-mcp-server",
+      "type": "mcps",
+      "description": "Enables creation and editing of Word, Excel, and PowerPoint documents within MCP clients through AI assistants.",
+      "source_repo": "iflow-mcp/thewdy-office-editor-mcp",
+      "source_url": "https://github.com/iflow-mcp/thewdy-office-editor-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/office-document-processing-mcp-server.md"
+    },
+    {
       "name": "office-mcp-server",
       "type": "mcps",
       "description": "AI-powered professional document generation server that creates Word and Excel documents with multiple themes, Mermaid diagrams, and Chinese national standards compliance, integrated via MCP protocol.",
@@ -389127,6 +390527,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/officemcp-office.md"
+    },
+    {
+      "name": "official-solana-mcp-server",
+      "type": "mcps",
+      "description": "Enables AI agents to access and search up-to-date Solana documentation, get canonical spec references, and fix Anchor/Pinocchio Solana programs via MCP tools.",
+      "source_repo": "solana-foundation/solana-mcp-official",
+      "source_url": "https://github.com/solana-foundation/solana-mcp-official",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/official-solana-mcp-server.md"
     },
     {
       "name": "officient-mcp-server",
@@ -394579,6 +396004,31 @@
       "path": "components/mcps/openapi-to-mcp.md"
     },
     {
+      "name": "openapi-tools-mcp",
+      "type": "mcps",
+      "description": "Enables inspecting local OpenAPI specification files by listing and retrieving spec details with filters and $ref resolution.",
+      "source_repo": "kardaj/openapi-tools-mcp",
+      "source_url": "https://github.com/kardaj/openapi-tools-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/openapi-tools-mcp.md"
+    },
+    {
       "name": "openar-mcp",
       "type": "mcps",
       "description": "MCP server for Portuguese Parliament open data, enabling AI agents to access legislative initiatives, deputies, plenary votes, petitions, and parliamentary committees.",
@@ -396802,6 +398252,31 @@
         "mcp"
       ],
       "path": "components/mcps/openvan-travel.md"
+    },
+    {
+      "name": "openvas-mcp",
+      "type": "mcps",
+      "description": "Self-hosted MCP server that gives AI agents structured access to OpenVAS vulnerability scanning without sending data externally.",
+      "source_repo": "CyberSecAuto-Labs/OpenVAS-MCP",
+      "source_url": "https://github.com/CyberSecAuto-Labs/OpenVAS-MCP",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/openvas-mcp.md"
     },
     {
       "name": "openverse",
@@ -402255,6 +403730,31 @@
       "path": "components/mcps/pagos-data-mcp-server.md"
     },
     {
+      "name": "paid-media-mcp",
+      "type": "mcps",
+      "description": "Enables Claude to access and analyze your paid media campaign data, team structure, performance metrics, and reporting templates, so it can answer questions and assist with analysis directly in your workflow.",
+      "source_repo": "arcticgreyy/paidmedia-mcp",
+      "source_url": "https://github.com/arcticgreyy/paidmedia-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/paid-media-mcp.md"
+    },
+    {
       "name": "paidsync",
       "type": "mcps",
       "description": "Manage Google Ads, Meta Ads, and LinkedIn Ads through AI with 200+ tools and full read/write access.",
@@ -405030,6 +406530,31 @@
       "path": "components/mcps/pataek-web.md"
     },
     {
+      "name": "patchwork-deepmind",
+      "type": "mcps",
+      "description": "MCP server for the Behringer DeepMind 12 synthesizer. Gives AI agents real-time control over synth parameters via MIDI NRPN, plus edit-buffer snapshots via SysEx.",
+      "source_repo": "truthanb/patchwork-deepmind",
+      "source_url": "https://github.com/truthanb/patchwork-deepmind",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/patchwork-deepmind.md"
+    },
+    {
       "name": "patdolitse-engram",
       "type": "mcps",
       "description": "Provides a persistent identity layer for AI tools with tools for user profiles, lessons, and decisions.",
@@ -407078,6 +408603,31 @@
         "mcp"
       ],
       "path": "components/mcps/pdf-content-search-mcp.md"
+    },
+    {
+      "name": "pdf-filler-recursive-simple-mcp",
+      "type": "mcps",
+      "description": "Provides PDF analysis, data extraction, form filling, and comparison capabilities for Claude and Cursor, supporting both text and scanned documents with OCR.",
+      "source_repo": "songminkyu/pdf-filler-recursive-simple-mcp",
+      "source_url": "https://github.com/songminkyu/pdf-filler-recursive-simple-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/pdf-filler-recursive-simple-mcp.md"
     },
     {
       "name": "pdf-indexer-mcp-server",
@@ -427078,6 +428628,31 @@
       "path": "components/mcps/pmarkowsky-santa-binary-authorization.md"
     },
     {
+      "name": "pmcp",
+      "type": "mcps",
+      "description": "A single MCP server gateway that reduces context bloat by providing progressive tool discovery and invocation, dynamically provisioning downstream servers on demand.",
+      "source_repo": "ViperJuice/pmcp",
+      "source_url": "https://github.com/ViperJuice/pmcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/pmcp.md"
+    },
+    {
       "name": "pmhw-wechat-automation",
       "type": "mcps",
       "description": "Automates WeChat desktop application on Windows through UI element interaction, enabling message sending via clipboard-based text handling and process management without requiring official API access.",
@@ -429394,6 +430969,31 @@
         "mcp"
       ],
       "path": "components/mcps/postman-mcp-server.md"
+    },
+    {
+      "name": "postmancer",
+      "type": "mcps",
+      "description": "A standalone MCP server for API testing and management, allowing AI assistants to interact with RESTful APIs through natural language.",
+      "source_repo": "hijaz/postmancer",
+      "source_url": "https://github.com/hijaz/postmancer",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/postmancer.md"
     },
     {
       "name": "postmark",
@@ -433322,6 +434922,31 @@
         "mcp"
       ],
       "path": "components/mcps/projectdochelper.md"
+    },
+    {
+      "name": "projectmemory",
+      "type": "mcps",
+      "description": "A proof-of-concept MCP server for security research demonstrating a multi-phase parasitic attack that disguises itself as a legitimate project memory tool while profiling users and executing cross-server shadowing attacks.",
+      "source_repo": "bountyyfi/ProjectMemory",
+      "source_url": "https://github.com/bountyyfi/ProjectMemory",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/projectmemory.md"
     },
     {
       "name": "prometheus",
@@ -447826,6 +449451,31 @@
       "path": "components/mcps/realcrabcut-crabcut.md"
     },
     {
+      "name": "reality-defender-mcp-server",
+      "type": "mcps",
+      "description": "Enables LLMs to analyze images, videos, audio, and text files for AI-generated content using the Reality Defender API, with support for user file uploads and direct URL analysis.",
+      "source_repo": "Reality-Defender/eng-mcp-server",
+      "source_url": "https://github.com/Reality-Defender/eng-mcp-server",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/reality-defender-mcp-server.md"
+    },
+    {
       "name": "reallygood83-ui-expert",
       "type": "mcps",
       "description": "Provides professional UI/UX design assistance through interface analysis, design system generation with multiple style variants, component improvement with accessibility optimizations, and React/Vue.js component creation with modern best practices.",
@@ -448974,6 +450624,31 @@
         "mcp"
       ],
       "path": "components/mcps/reddit-mcp.md"
+    },
+    {
+      "name": "reddit-rss-mcp",
+      "type": "mcps",
+      "description": "A dependency-free MCP server that reads Reddit through its RSS feeds, enabling search, browsing subreddits, and reading post comments without any API keys or authentication.",
+      "source_repo": "ninjackster/reddit-rss-mcp",
+      "source_url": "https://github.com/ninjackster/reddit-rss-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/reddit-rss-mcp.md"
     },
     {
       "name": "reddit-summarizer-mcp-server",
@@ -464129,6 +465804,31 @@
       "path": "components/mcps/sage-mcp-server.md"
     },
     {
+      "name": "sagemaker-ai-mcp-server",
+      "type": "mcps",
+      "description": "Enables AI assistants to manage Amazon SageMaker AI resources including endpoints, jobs, pipelines, MLflow tracking servers, domains, models, model cards, and apps.",
+      "source_repo": "dgallitelli/sagemaker-ai-mcp-server",
+      "source_url": "https://github.com/dgallitelli/sagemaker-ai-mcp-server",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/sagemaker-ai-mcp-server.md"
+    },
+    {
       "name": "sagemindai-threadline",
       "type": "mcps",
       "description": "Agent-to-agent messaging relay with zero-config discovery, message routing, and reply handling.",
@@ -472728,6 +474428,31 @@
         "mcp"
       ],
       "path": "components/mcps/search-mcp-server.md"
+    },
+    {
+      "name": "search-papers",
+      "type": "mcps",
+      "description": "Enables agents to search, analyze, and explore arXiv academic papers with advanced multi-field search, author lookup, category browsing, citation extraction, and bibliography export.",
+      "source_repo": "Saidiibrahim/search-papers",
+      "source_url": "https://github.com/Saidiibrahim/search-papers",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/search-papers.md"
     },
     {
       "name": "searchagora",
@@ -490055,6 +491780,31 @@
       "path": "components/mcps/smart-webfetch-mcp.md"
     },
     {
+      "name": "smart-xdebug-mcp",
+      "type": "mcps",
+      "description": "Connects AI assistants like Claude to PHP's XDebug debugger for runtime inspection, breakpoint control, and variable tracking, enabling natural language debugging of PHP applications.",
+      "source_repo": "wallter/smart-xdebug-mcp",
+      "source_url": "https://github.com/wallter/smart-xdebug-mcp",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/smart-xdebug-mcp.md"
+    },
+    {
       "name": "smartaec-ifc-bim",
       "type": "mcps",
       "description": "Integrates with IFC (Industry Foundation Classes) building information modeling files to extract entities, properties, spatial relationships, and geometric data for construction professionals analyzing architectural and engineering information.",
@@ -491228,6 +492978,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/snoglobe-prolog.md"
+    },
+    {
+      "name": "snomed-ct-mcp-server",
+      "type": "mcps",
+      "description": "Enables querying and browsing SNOMED CT medical terminology concepts, including search, details, and hierarchy navigation via MCP tools.",
+      "source_repo": "OrgLance/snomed-mcp-server",
+      "source_url": "https://github.com/OrgLance/snomed-mcp-server",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/snomed-ct-mcp-server.md"
     },
     {
       "name": "snow-mcp",
@@ -493107,6 +494882,31 @@
       "path": "components/mcps/solana-web3js-mcp-server.md"
     },
     {
+      "name": "solanaviz-mcp-server",
+      "type": "mcps",
+      "description": "Enables Claude to access, analyze, and visualize Solana blockchain data through natural language conversations.",
+      "source_repo": "FarseenSh/GOATsolana-mcp",
+      "source_url": "https://github.com/FarseenSh/GOATsolana-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/solanaviz-mcp-server.md"
+    },
+    {
       "name": "solapi-mcp-server",
       "type": "mcps",
       "description": "Enables searching SOLAPI documentation and examples, and sending/managing SMS, LMS, MMS, RCS, and Kakao messages with safety guards.",
@@ -494180,6 +495980,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/sophymarine-openregistry.md"
+    },
+    {
+      "name": "soroka",
+      "type": "mcps",
+      "description": "Telegram bot that turns saved messages into a personal knowledge base with AI-powered search, supporting MCP server for Claude Desktop.",
+      "source_repo": "AndyShaman/Soroka",
+      "source_url": "https://github.com/AndyShaman/Soroka",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/soroka.md"
     },
     {
       "name": "sota-deploy",
@@ -497232,6 +499057,31 @@
       "path": "components/mcps/spogborg-jardin.md"
     },
     {
+      "name": "spoonacular-mcp",
+      "type": "mcps",
+      "description": "Enables AI assistants to search for recipes, get nutritional information, find ingredients, and more through the Spoonacular Food API using natural language.",
+      "source_repo": "ddsky/spoonacular-mcp",
+      "source_url": "https://github.com/ddsky/spoonacular-mcp",
+      "license": "ISC License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/spoonacular-mcp.md"
+    },
+    {
       "name": "spot",
       "type": "mcps",
       "description": "Gasless non-custodial DeFi orders including limit, TWAP, stop-loss, and take-profit on EVM chains.",
@@ -498105,6 +499955,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/sql-server-natural-lang.md"
+    },
+    {
+      "name": "sql-sop-mcp",
+      "type": "mcps",
+      "description": "MCP server that integrates sql-sop SQL linter into LLM clients, enabling linting SQL queries and listing lint rules via chat tools.",
+      "source_repo": "Pawansingh3889/sql-sop-mcp",
+      "source_url": "https://github.com/Pawansingh3889/sql-sop-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/sql-sop-mcp.md"
     },
     {
       "name": "sqlambda-pg-licht",
@@ -513507,6 +515382,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/tableall.md"
+    },
+    {
+      "name": "tabrix",
+      "type": "mcps",
+      "description": "Enables MCP clients to control and interact with the user's real Chrome browser session, leveraging existing logins, cookies, and extensions for AI-driven automation.",
+      "source_repo": "guodaxia103/tabrix",
+      "source_url": "https://github.com/guodaxia103/tabrix",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/tabrix.md"
     },
     {
       "name": "tabula",
@@ -529128,6 +531028,31 @@
       "path": "components/mcps/tiianhk-maxmsp-mcp-server.md"
     },
     {
+      "name": "tiingo-mcp",
+      "type": "mcps",
+      "description": "An MCP server that wraps the Tiingo financial data API, enabling access to stocks, forex, crypto, news, fundamentals, and corporate actions through natural language.",
+      "source_repo": "major7apps/tiingo-mcp",
+      "source_url": "https://github.com/major7apps/tiingo-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/tiingo-mcp.md"
+    },
+    {
       "name": "tika-mcp-server",
       "type": "mcps",
       "description": "Extracts text and metadata from various file formats (PDF, DOCX, images with OCR) using Apache Tika, enabling AI assistants to understand file contents.",
@@ -532425,6 +534350,31 @@
         "mcp"
       ],
       "path": "components/mcps/token-minter-mcp.md"
+    },
+    {
+      "name": "token-optimized-mcp-server",
+      "type": "mcps",
+      "description": "Minimizes LLM token consumption via YAML serialization, HTML-to-Markdown distillation, and pre-flight token counting, with tools for web content extraction and metrics database querying.",
+      "source_repo": "satyamkumar68/optimized-mcp-server",
+      "source_url": "https://github.com/satyamkumar68/optimized-mcp-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/token-optimized-mcp-server.md"
     },
     {
       "name": "token-optimizer",
@@ -536924,6 +538874,31 @@
       "path": "components/mcps/tree-explorer.md"
     },
     {
+      "name": "tree-sitter-analyzer",
+      "type": "mcps",
+      "description": "An MCP code-intelligence server for AI agents with pre-indexed AST cache, 62 MCP tools, and TOON-compressed output, enabling token-efficient code analysis and project health grading entirely locally.",
+      "source_repo": "aimasteracc/tree-sitter-analyzer",
+      "source_url": "https://github.com/aimasteracc/tree-sitter-analyzer",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/tree-sitter-analyzer.md"
+    },
+    {
       "name": "treesoop-ai-news",
       "type": "mcps",
       "description": "AI and technology news aggregation from multiple sources with filtering tools.",
@@ -538774,6 +540749,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/tscircuit-registry.md"
+    },
+    {
+      "name": "tshark-mcp",
+      "type": "mcps",
+      "description": "An MCP server that exposes TShark as tools for AI-assisted network packet analysis, supporting PCAP analysis, live capture, TLS decryption, and telecom/SS7 signaling protocols.",
+      "source_repo": "ouonet/tshark-mcp",
+      "source_url": "https://github.com/ouonet/tshark-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/tshark-mcp.md"
     },
     {
       "name": "tsilva-openrouter",
@@ -543030,6 +545030,31 @@
       "path": "components/mcps/ultimate-android-mcp.md"
     },
     {
+      "name": "ultimate-gemini-mcp",
+      "type": "mcps",
+      "description": "MCP server for Google's Gemini 3.1 Flash Image that enables fast, high-resolution image generation with advanced reasoning, up to 14 reference images, Google Search grounding, and automatic thinking mode.",
+      "source_repo": "anand-92/ultimate-image-gen-mcp",
+      "source_url": "https://github.com/anand-92/ultimate-image-gen-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/ultimate-gemini-mcp.md"
+    },
+    {
       "name": "ultimate-playwright-mcp",
       "type": "mcps",
       "description": "Multi-agent Playwright MCP server with tab isolation via targetId, enabling multiple agents to share a single Chrome browser while maintaining isolated tab groups and shared sessions.",
@@ -545380,6 +547405,31 @@
       "path": "components/mcps/uno-platform.md"
     },
     {
+      "name": "unofficial-anylist-mcp-server",
+      "type": "mcps",
+      "description": "MCP server that integrates with AnyList for managing shopping lists, recipes, and meal planning via natural language.",
+      "source_repo": "bobby060/anylist-mcp",
+      "source_url": "https://github.com/bobby060/anylist-mcp",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/unofficial-anylist-mcp-server.md"
+    },
+    {
       "name": "unphurl",
       "type": "mcps",
       "description": "URL intelligence service that analyzes links across security, brand safety, and data quality dimensions, returning structured signals.",
@@ -547353,6 +549403,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/ushurbakiyevdavlat-linkedin.md"
+    },
+    {
+      "name": "uspto-patent-file-wrapper-mcp-server",
+      "type": "mcps",
+      "description": "A high-performance MCP server for the USPTO Patent File Wrapper API with context reduction, smart field mapping, and secure browser-accessible downloads.",
+      "source_repo": "john-walkoe/uspto_pfw_mcp",
+      "source_url": "https://github.com/john-walkoe/uspto_pfw_mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/uspto-patent-file-wrapper-mcp-server.md"
     },
     {
       "name": "uspto-patent-mcp-server",
@@ -549405,6 +551480,31 @@
       "path": "components/mcps/veallym0n-proxy-aggregator.md"
     },
     {
+      "name": "vechain-mcp-server",
+      "type": "mcps",
+      "description": "Enables AI assistants to search VeChain documentation, query blockchain data (blocks, transactions, accounts), and interact with tokens, NFTs, and VeBetterDAO tools through the Model Context Protocol.",
+      "source_repo": "vechain/vechain-mcp-server",
+      "source_url": "https://github.com/vechain/vechain-mcp-server",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/vechain-mcp-server.md"
+    },
+    {
       "name": "vectara-rag",
       "type": "mcps",
       "description": "Provides a bridge between conversational interfaces and Vectara's Retrieval-Augmented Generation capabilities, enabling powerful search queries that return both relevant results and generated responses with customizable parameters.",
@@ -549803,6 +551903,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/veenastudio-fl-studio.md"
+    },
+    {
+      "name": "vehicle-mcp",
+      "type": "mcps",
+      "description": "Enables AI assistants to control vehicles by checking battery status, managing climate, and locking/unlocking doors via Skoda Connect integration.",
+      "source_repo": "antonlunden/vehicle-mcp",
+      "source_url": "https://github.com/antonlunden/vehicle-mcp",
+      "license": "Apache 2.0",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/vehicle-mcp.md"
     },
     {
       "name": "veithly-ssh-client",
@@ -566327,6 +568452,31 @@
       "path": "components/mcps/window-layout.md"
     },
     {
+      "name": "windows-calculator-mcp-server",
+      "type": "mcps",
+      "description": "Connects Claude Desktop to Windows Calculator, enabling accurate mathematical calculations using Windows' native PowerShell calculation engine.",
+      "source_repo": "rspeciale0519/WinCalcMCP",
+      "source_url": "https://github.com/rspeciale0519/WinCalcMCP",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/windows-calculator-mcp-server.md"
+    },
+    {
       "name": "windows-command-line-mcp-server",
       "type": "mcps",
       "description": "Windows Command Line MCP Server MCP server listed on mcp.so.",
@@ -574878,6 +577028,31 @@
       "path": "components/mcps/xmannii-nobitex-cryptocurrency.md"
     },
     {
+      "name": "xmlriver-mcp",
+      "type": "mcps",
+      "description": "MCP server for XMLRiver enabling Google and Yandex SERP parsing, Yandex Wordstat keyword frequency, indexing checks, and account operations.",
+      "source_repo": "artgas1/xmlriver-mcp",
+      "source_url": "https://github.com/artgas1/xmlriver-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/xmlriver-mcp.md"
+    },
+    {
       "name": "xmp4",
       "type": "mcps",
       "description": "Semantic code knowledge for OSS libraries actually used in a project, across multiple languages.",
@@ -574951,6 +577126,31 @@
         "pulsemcp"
       ],
       "path": "components/mcps/xmpuspus-ph-civic-data.md"
+    },
+    {
+      "name": "xo-mcp-server",
+      "type": "mcps",
+      "description": "Provides seamless integration with the XO platform for container deployment, application lifecycle management, and knowledge base operations. Enables AI assistants to deploy, manage, and interact with applications on XO infrastructure through natural language commands.",
+      "source_repo": "sharmasuraj0123/xo-mcp-server",
+      "source_url": "https://github.com/sharmasuraj0123/xo-mcp-server",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/xo-mcp-server.md"
     },
     {
       "name": "xonack-apex-twitter",
@@ -576953,6 +579153,31 @@
         "mcp"
       ],
       "path": "components/mcps/yandex-tracker-mcp.md"
+    },
+    {
+      "name": "yandex-ultimate-mcp",
+      "type": "mcps",
+      "description": "Unifies multiple Yandex MCP servers (Direct, Metrika, Webmaster, Tracker, Cloud, Maps, Search) into a single interface with auto-configuration and auth wizard.",
+      "source_repo": "lemonchikHere/yandex-ultimate-mcp",
+      "source_url": "https://github.com/lemonchikHere/yandex-ultimate-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/yandex-ultimate-mcp.md"
     },
     {
       "name": "yandex-wiki-mcp",
@@ -590320,6 +592545,31 @@
         "mcp"
       ],
       "path": "components/mcps/zuplo-weather-6.md"
+    },
+    {
+      "name": "zurich-open-data-mcp-server",
+      "type": "mcps",
+      "description": "An MCP server providing AI-powered access to Open Data from the City of Zurich, enabling queries to 900+ datasets, real-time environmental and mobility data, geodata, parliamentary proceedings, and more.",
+      "source_repo": "malkreide/zurich-opendata-mcp",
+      "source_url": "https://github.com/malkreide/zurich-opendata-mcp",
+      "license": "MIT License",
+      "cli_compat": [
+        "claude",
+        "cursor",
+        "codex",
+        "opencode",
+        "gemini"
+      ],
+      "maturity": "experimental",
+      "stars": null,
+      "eval_score": null,
+      "verified_at": "2026-05-27",
+      "related": [],
+      "tags": [
+        "glama",
+        "mcp"
+      ],
+      "path": "components/mcps/zurich-open-data-mcp-server.md"
     },
     {
       "name": "zutrix",
