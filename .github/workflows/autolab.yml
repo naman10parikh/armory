@@ -43,16 +43,28 @@ jobs:
       # 0. CLAUDE-POWERED DISCOVERY (open-ended; only when the key is present).
       #    Headless Claude Code researches NEW sources and writes adapters. Fault-isolated:
       #    if it fails or the key is absent, the deterministic loop below still runs.
-      - name: Claude-powered discovery (claude -p)
+      - name: Claude-powered discovery (claude -p, headless)
         if: ${{ env.ANTHROPIC_API_KEY != '' }}
+        continue-on-error: true
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          npm i -g @anthropic-ai/claude-code 2>/dev/null || { echo "::warning::claude-code install failed — skipping discovery"; exit 0; }
-          claude -p "You are Armory's self-improvement researcher running the Darwin DSIP loop (see dsip.json). \
-          1) Read ingest/crawl-*.mjs to see which sources are already covered. \
-          2) Find 1-2 NEW high-quality agent-harness component sources NOT already covered — prefer under-represented categories (evals, observability, infrastructure, memory, identity) [Performance-Novelty selection]. \
-          3) Write a deterministic adapter ingest/crawl-<name>.mjs following ingest/crawl-smithery.mjs exactly, and run it --apply to emit stubs into incoming/<name>/. \
-          4) Do NOT promote/rebuild/commit — the steps after you do that, and the test-gate validates before anything enters. Surgical, minimum diff." \
-          --dangerously-skip-permissions --max-turns 40 || echo "::warning::claude -p discovery did not complete — continuing with deterministic loop"
+          # Install Claude Code headless and VERIFY it is on PATH (no silent 2>/dev/null that hides real errors).
+          npm i -g @anthropic-ai/claude-code || { echo "::warning::claude-code install failed — skipping discovery"; exit 0; }
+          claude --version || { echo "::warning::claude binary not found after install — skipping discovery"; exit 0; }
+          # Run the day's Plan of Record (ingest/daily-por.md) headless. Capture output so the REAL
+          # failure reason is visible instead of a generic 'did not complete' warning.
+          set +e
+          claude -p "$(cat ingest/daily-por.md)" --dangerously-skip-permissions --max-turns 40 --output-format text 2>&1 | tee /tmp/discovery.log
+          code=${PIPESTATUS[0]}
+          set -e
+          if grep -qiE "credit balance is too low|insufficient.*credit|quota" /tmp/discovery.log; then
+            echo "::error::claude -p BLOCKED — the ANTHROPIC_API_KEY repo secret has NO CREDITS. Claude Code IS instantiated headless and authenticates, but the nightly self-improvement routine cannot run until credits are topped up (or a funded key is set as the ANTHROPIC_API_KEY secret). The deterministic crawl loop below still runs. >>> CHAIRMAN UNBLOCK <<<"
+          elif [ "$code" -ne 0 ]; then
+            echo "::warning::claude -p discovery exited $code — see step log above; deterministic loop continues."
+          else
+            echo "claude -p discovery completed."
+          fi
 
       # 1. DETERMINISTIC crawl of the refreshable live-API registries (fault-isolated).
       - name: Crawl refreshable API sources

@@ -1,66 +1,84 @@
-# Armory — Master Crawl & Enrichment Backlog
+# Armory — Master TODO (living checklist + swarm queue)
 
-The central, **consumable** work queue for growing Armory toward _"the most of every
-harness component, brain-connected."_ Both the nightly self-improve loop
-(`.github/workflows/crawl.yml`) and on-demand agent waves **pull from this list** —
-this is the "distributed master to-do list" the agents contribute to and consume from.
+The single, **consumable** work queue for growing Armory toward _"the most of every harness
+component, brain-connected — for agents, by agents, of agents."_ The nightly loop
+(`.github/workflows/autolab.yml` → `ingest/daily-por.md`) and on-demand agent waves **pull from
+and add to this list.** Regimented, evals-driven, constraint-driven: whenever an agent finds
+something broken, it files a `[ ]` here immediately; whenever it fixes one, it checks it off.
 
-**Current: 24,356 components across 12 categories** (2026-05-27, waves 1–3 — +5,921 this session; evals/observability/infra grew 5–10×; mcps 17,138→21,027). High-value crawl queue **drained**.
+**State (2026-06-01):** 27,044 components / 12 categories. Nightly cron runs + commits daily
+(deterministic crawl). Catalog 25,251 → 27,044 over the past week. Hamel test-gate PASS nightly
+(it correctly blocked a 4.6%-drift smithery batch on 06-01).
 
-## How to consume this queue (the protocol)
+---
 
-1. **Claim** the top `QUEUED` row → set it `IN PROGRESS — <who> <date>`.
-2. **Write** a deterministic adapter `ingest/crawl-<name>.mjs` following the
-   `ingest/crawl-collections.mjs` pattern: `fetch()` → `toComponent()`, `scrub()` all
-   text (no `/Users/` paths, no personal names), self-validate each stub via
-   `parseFrontmatter`. Emit to a **disjoint** `incoming/<name>/` (zero clobber).
-3. **Promote** (coordinator): `node ingest/promote.mjs --from incoming/<name> --to brain/components --apply`
-   (dedup, provenance-ranked) → `node ingest/catalog.mjs` → `node ingest/validate.mjs` (must PASS).
-4. **Record**: mark the row `DONE — +N (commit)`, append one line to `.claude/cp106/IMPLEMENTATION-GUIDE.md`.
-5. **Waves**: ≤5 agents in parallel, disjoint sources, conserve model when weekly budget is high.
+## 🔴 CHAIRMAN UNBLOCKS (only Naman can clear — everything else is gated on these)
 
-## Crawl queue — sources
+- [ ] **U1 — Claude Code is NOT actually running nightly: `ANTHROPIC_API_KEY` repo secret has NO CREDITS.**
+  Verified from the 06-01 Action log: the cron DOES install Claude Code and invoke `claude -p`
+  headless with working auth, but it dies instantly on **`Credit balance is too low`**. The
+  deterministic crawler keeps the registry growing in the meantime. **Fix:** top up the Anthropic
+  account, or set a funded key as the `ANTHROPIC_API_KEY` secret on `naman10parikh/armory`
+  (`gh secret set ANTHROPIC_API_KEY -R naman10parikh/armory`). Once funded, the nightly POR
+  (`ingest/daily-por.md`) runs real Claude-Code discovery. (Workflow now surfaces this as a clear
+  `::error:: CHAIRMAN UNBLOCK` instead of a generic warning.)
+- [ ] **U2 — Live site is STALE (still shows "engram" 15×): Vercel Root Directory is still `site`.**
+  A prior session renamed `site/ → web/`; Vercel's project Root Directory was never updated, so
+  builds fail and `armory-murex.vercel.app` is frozen on the pre-rename build (shows the killed
+  "engram" noun; a detail page `/e/mcps/math-mcp` 404s). Local `web/src` is 100% clean. **Fix:**
+  Vercel dashboard → `armory` project → Settings → Build & Deployment → **Root Directory: `site` → `web`**
+  → Redeploy. (30-second action; unblocks the entire website track below.)
 
-| Source | Category | Status | Adapter |
-| --- | --- | --- | --- |
-| PulseMCP (~16K) | mcps | ✅ DONE | `crawl-pulsemcp` |
-| awesome-mcp-servers | mcps | ✅ DONE | `migrate-awesome` |
-| official `modelcontextprotocol/servers` | mcps | ✅ DONE | `crawl-anthropic` |
-| ECC (affaan-m/ecc) | skills/subagents | ✅ DONE | `crawl-ecc` |
-| PatrickJS/awesome-cursorrules | rules | ✅ DONE | `crawl-collections` |
-| VoltAgent/awesome-claude-code-subagents | subagents | ✅ DONE | `crawl-collections` |
-| disler + decider hooks | hooks | ✅ DONE | `crawl-collections` |
-| Smithery (registry API) | mcps | ✅ DONE +471 | `crawl-smithery` |
-| davila7/claude-code-templates | multi | ✅ DONE +1643 | `crawl-cctemplates` |
-| wshobson/agents + commands | subagents/workflows | ✅ DONE +272 | `crawl-wshobson` |
-| hesreallyhim/awesome-claude-code | multi | ✅ DONE +14 | `crawl-awesome-cc` |
-| Glama (glama.ai API) | mcps | ✅ DONE +1978 | `crawl-glama` |
-| anthropics/skills + obra/superpowers | skills | ✅ DONE | `crawl-skillpacks` |
-| evals frameworks (promptfoo/deepeval/ragas/inspect/…35) | evals | ✅ DONE +34 | `crawl-evals` |
-| observability (OTel/Langfuse/Helicone/Phoenix/…29) | observability | ✅ DONE +29 | `crawl-observability` |
-| infrastructure (E2B/Daytona/Modal/Fly/…28) | infrastructure | ✅ DONE +27 | `crawl-infra` |
-| mcp.so registry (sitemap) | mcps | ✅ DONE +1382 | `crawl-mcpso` |
-| community subagent/skill/rule collections (dl-ezo/vijay/hrh/cookbook) | multi | ✅ DONE +67 | `crawl-more-subagents` + `crawl-more-skills` |
-| PulseMCP delta refresh | mcps | ⏸ DEFERRED (≈0 net-new — already have full index; nightly re-run) | `crawl-pulsemcp` |
-| more hook collections | hooks | ⏸ DEFERRED (no high-volume net-new repo found) | — |
+---
 
-## Enrichment queue (no new crawl)
+## How to consume this queue (protocol)
+1. **Claim** a `[ ]` → mark `[~] IN PROGRESS — <who> <date>`.
+2. **Do it** surgically (THE FOUR THINGS: minimum diff, touch only what's required).
+3. **Gate it** — must pass the relevant gates (see Testing track) before it ships.
+4. **Check it off** `[x] — <commit>`; append a line to `AUTOLAB-LOG.md` if it changed the catalog.
+5. **Waves:** ≤5 agents in parallel, disjoint files, conserve model when budget is tight.
 
-| Task | Status |
-| --- | --- |
-| Per-component `eval_score` (rank by stars / usage / freshness) | ⏳ QUEUED |
-| Link verification — `ingest/verify-links.mjs` over every `source_url` | ⏳ QUEUED |
-| Denser `related[]` graph for thin categories (`enrichRelated`) | ⏳ QUEUED |
-| Per-type landing pages + counts on the site | ⏳ QUEUED |
-| npm-publish `@namanparikh/armory` | 🔒 BLOCKED — needs Naman's npm Automation token |
+---
+
+## Track A — Nightly self-improvement loop (the cron → Claude Code → gated ship)
+- [x] Cron runs nightly (07:00 UTC), deterministic crawl → dedup-promote → catalog → validate → commit.
+- [x] `claude -p` headless wired + auth working (blocked only on U1 credits).
+- [x] Workflow surfaces the REAL failure (credit/auth) instead of a generic warning; `claude --version` verified post-install.
+- [x] Daily POR routine externalized → `ingest/daily-por.md` (catch up on key files → discovery → gate-aware, never commits).
+- [ ] **A1** When U1 clears: confirm a real `claude -p` run produces a new `ingest/crawl-<name>.mjs` + `incoming/<name>/` stubs that pass the gate.
+- [ ] **A2** Add a weekly "deep POR" (broader research: read repos/status.json staleness, propose enrichment, not just new sources).
+- [ ] **A3** Upload `/tmp/discovery.log` as a workflow artifact so every nightly Claude-Code run is inspectable.
+
+## Track B — Testing pyramid + gates (HMLC + agentic + LLM-council), wired into CI
+Current: `ingest/test-gate.mjs` (Hamel L1 functional + L2 behavioral) + `armory-mcp` vitest. Expand toward the full pyramid as CI gates; **nothing ships until it passes.**
+- [x] L1 functional (frontmatter schema/slug/type) + L2 behavioral (anti-drift husk check).
+- [ ] **B1** Unit tests for every `ingest/*.mjs` pure function (parseFrontmatter, deriveInstall, dedup keys, gradeComponent).
+- [ ] **B2** Component/integration: crawl-`<src>` → incoming → promote → catalog round-trip on a fixture.
+- [ ] **B3** Contract test: `catalog.json` shape (the `components[]` contract armory-mcp + web depend on) — fail if a field is dropped/renamed.
+- [ ] **B4** E2E: `armory search` + `armory install <name> --cli claude|cursor|codex` fetches + writes the right file (sandbox dir).
+- [ ] **B5** Chaos/monkey: feed malformed/huge/empty stubs to the gate; assert it rejects without crashing.
+- [ ] **B6** Agentic evals — assertion / behavior / trajectory / **user** (an agent actually runs `armory ...` end-to-end) + LLM-council pass.
+- [ ] **B7** Wire B1–B6 into a `ci.yml` (PR + push) AND as a pre-promote gate in `autolab.yml`. Red = no ship.
+
+## Track C — Website (BLOCKED on U2; queue the work so it ships the moment prod redeploys)
+- [ ] **C1** Re-verify after U2 redeploy: 0 "engram" on prod; detail pages 200 (not 404); homepage count = live catalog (27,044+).
+- [ ] **C2** The graph is primitive — rebuild it: evaluate `react-force-graph` / `cosmograph` / `sigma.js`; pick one; render the real `related[]` knowledge graph with category coloring, zoom, node-click → detail.
+- [ ] **C3** **Time-slider** on the graph: scrub through catalog growth over time (audit-trailable from git history + `AUTOLAB-LOG.md` + per-component `verified_at`), watch the registry grow night by night.
+- [ ] **C4** Copy review (chairman flagged): "Not an aggregator for humans" — keep as on-brand positioning, but reason per-section; ensure no copy alienates a first-time human visitor.
+- [ ] **C5** Click EVERY button/route as a real user (Chrome MCP / playwright): search, category filter, harness-tab install snippets + copy, related-link nav, graph interactions. File a `[ ]` per break.
+- [ ] **C6** Queryability/accessibility pass: keyboard nav, focus states, contrast, mobile.
+
+## Track D — Dogfood / break-it agents (the chairman's "agents that try to USE Armory")
+- [ ] **D1** A `dogfood` agent that fresh-installs the `@namanparikh/armory` CLI in a clean dir, runs `search`/`install`/`submit`, and files a `[ ]` for anything that errors or surprises.
+- [ ] **D2** A `break-it` agent that fuzzes the CLI + the site (bad args, missing files, huge queries) and reports crashes.
+- [ ] **D3** A `setup-from-scratch` agent that installs Armory as a plugin into each harness (Claude/Cursor/Codex/OpenCode/Gemini) per PLUGIN.md and verifies the MCP server answers.
+
+## Track E — Enrichment (no new crawl)
+- [ ] **E1** Per-component `eval_score` (stars / freshness / usage) — Quartermaster seeded this (commit 130459e5); finish coverage.
+- [ ] **E2** `ingest/verify-links.mjs` over every `source_url` → flag dead links.
+- [ ] **E3** Denser `related[]` graph for thin categories (feeds C2/C3).
+- [ ] **E4** npm publish `@namanparikh/armory` (needs Naman's npm token — minor unblock).
 
 ## Acceptance (every item)
-
-adapter committed in `ingest/` · stubs promoted (dedup, **0 invalid**) · catalog
-rebuilt · `validate` **PASS** · committed + pushed · row marked `DONE — +N (commit)`.
-
-## CP108 — actual components + multi-harness plugin (2026-05-27)
-- ✅ Vendored 2,546 ACTUAL component files → `components/{skills,agents,commands,hooks,rules}/` + harness-native `.claude/ .cursor/` (ingest/vendor.mjs, idempotent).
-- ✅ Armory's OWN harness separated from the catalog: `armory-mcp/` (was mcp/) + `cli/` + `armory-skill/` + root plugin manifests; documented in HARNESS.md. No more "two mcp folders" ambiguity.
-- ✅ One-install plugin for EVERY harness (Claude Code/Codex/OpenCode/Gemini/Hermes): `.claude-plugin/` (+marketplace.json) `.codex-plugin/` `.hermes-plugin/` `opencode.json` `.gemini/settings.json` + `install.sh`/`.ps1` + PLUGIN.md. Edge vs ECC: live MCP gateway, not a fixed set.
-- ✅ README: removed Energy hyperlink; stripped featured "ECC" mentions (one source among many).
+Surgical diff · passes its gates (Track B) · catalog rebuilt + `validate` PASS where relevant ·
+committed + pushed · row checked off `[x] — <commit>`. **No detail removed when consolidating.**
