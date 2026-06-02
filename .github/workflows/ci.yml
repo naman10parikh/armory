@@ -55,3 +55,11 @@ jobs:
           npm install --no-audit --no-fund
           npm run build
           npm test
+
+      # Agentic "as a user" E2E (the chairman's final test) — build the CLI, then drive it
+      # exactly as an agent/human would (search, no-match, unknown-command) and assert
+      # behavior + exit codes + engram-free/grammatical help. Red = no ship.
+      - name: CLI build + agentic user E2E
+        run: |
+          cd cli && npm install --no-audit --no-fund && npm run build && cd ..
+          node --test cli/test/agentic-user.test.mjs
