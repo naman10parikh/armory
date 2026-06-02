@@ -105,7 +105,7 @@ function printInstallReport(report: InstallReport, dryRun: boolean): void {
 
 program
   .command("submit")
-  .description("Validate an component file's frontmatter and copy it into incoming/.")
+  .description("Validate a component file's frontmatter and copy it into incoming/.")
   .requiredOption("-f, --file <path>", "path to the component markdown file")
   .action((opts: { file: string }) => {
     let result: SubmitResult;

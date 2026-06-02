@@ -61,7 +61,7 @@ export function loadCatalog(root = resolveRoot()): Catalog {
   return parsed;
 }
 
-// Read an component's markdown body. `path` is relative to brain/.
+// Read a component's markdown body. `path` is relative to brain/.
 export function readComponentBody(component: Component, root = resolveRoot()): string {
   const file = join(root, "brain", component.path);
   if (!existsSync(file)) {
@@ -134,7 +134,7 @@ export function rankComponents(components: Component[], query: string): RankedCo
     );
 }
 
-// Pull the install/invoke snippet out of an component body. We return the prose
+// Pull the install/invoke snippet out of a component body. We return the prose
 // + any fenced code under the "How to install / invoke" heading. Falls back to
 // the whole body if the heading is absent.
 export function extractInstallSnippet(body: string): string {

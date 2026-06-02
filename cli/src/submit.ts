@@ -1,4 +1,4 @@
-// Submit-side validation: check an component file has the REQUIRED frontmatter
+// Submit-side validation: check a component file has the REQUIRED frontmatter
 // (CONTRIBUTING.md contract) and copy it into incoming/ for verify+promote.
 import { readFileSync, existsSync, mkdirSync, copyFileSync } from "node:fs";
 import { basename, join } from "node:path";
