@@ -34,6 +34,18 @@ jobs:
       - name: Hamel test-gate (functional + behavioral)
         run: node ingest/test-gate.mjs
 
+      # Catalog freshness — catalog.json must equal a fresh rebuild (folded in from the
+      # retired catalog.yml). generated_at is normalized; only structural drift fails.
+      - name: Catalog freshness (no stale catalog.json)
+        run: |
+          node ingest/catalog.mjs
+          norm() { sed 's/"generated_at": *"[^"]*"/"generated_at": "X"/'; }
+          if git cat-file -e HEAD:catalog.json 2>/dev/null; then
+            if ! diff <(norm < catalog.json) <(git show HEAD:catalog.json | norm) >/dev/null; then
+              echo "::error::catalog.json is stale — run 'node ingest/catalog.mjs' and commit the result."; exit 1
+            fi
+          fi
+
       # Armory's own server: typecheck/build + vitest.
       - name: armory-mcp build + tests
         working-directory: armory-mcp
