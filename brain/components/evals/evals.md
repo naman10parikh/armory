@@ -9,10 +9,10 @@ tags: [moc, evals]
 
 How you know an agent or harness is actually good — and getting better. Evals turn "it feels better" into a number:
 rubrics define what good means, golden tasks pin down expected behavior, a benchmark scores a harness, and a nightly
-loop tracks the score over time. Without evals, a self-improving system is just a system that changes. These engrams
+loop tracks the score over time. Without evals, a self-improving system is just a system that changes. These components
 cover the scoring layer that makes "same model, better scaffold" a provable claim.
 
-## Engrams
+## Components
 
 - [[agentbench]] — benchmark and score a harness
 - [[harness-rubric]] — per-domain criteria that define "good"

@@ -1,15 +1,15 @@
 ---
 type: moc
-title: Engram — Map of Content
+title: Armory — Map of Content
 created: 2026-05-26
-tags: [moc, engram, agent-brain]
+tags: [moc, armory, agent-brain]
 ---
 
-# 🧠 Engram — Map of Content
+# 🧠 Armory — Map of Content
 
-The master hub of the agent-native brain. Every engram links back here; this note links out to every category. Open `brain/` as an Obsidian vault and this is your entry point — the `related:` fields draw the graph (the synapses) between engrams.
+The master hub of the agent-native brain. Every component links back here; this note links out to every category. Open `brain/` as an Obsidian vault and this is your entry point — the `related:` fields draw the graph (the synapses) between components.
 
-> *For agents, by agents, of agents.* An engram is a unit of stored memory in the brain. Each component below is one.
+> *For agents, by agents, of agents.* Each component below is one unit of agent capability — a thing you install into a harness.
 
 ## The 12 Categories
 
@@ -30,13 +30,13 @@ The master hub of the agent-native brain. Every engram links back here; this not
 
 - **Source of truth:** the markdown files under `components/`. Everything else is generated.
 - **`catalog.json`:** computed from these files (counts never hand-typed).
-- **Verification:** each engram carries `verified_at`; the self-improving loop re-checks staleness.
+- **Verification:** each component carries `verified_at`; the self-improving loop re-checks staleness.
 
-## Foundational engrams (the constitution)
+## Foundational components (the constitution)
 
 - **THE FOUR THINGS** — Think-Before-Coding · Simplicity-First · Surgical-Changes · Goal-Driven-Execution (the behavior norm every coding agent should ingrain first). → `claudemd-rules/karpathy-coding-discipline`
 
 ## Related
 
-- [CONTRIBUTING](../CONTRIBUTING.md) — the engram template + submission flow
-- [README](../README.md) — what Engram is and why it's agent-native
+- [CONTRIBUTING](../CONTRIBUTING.md) — the component template + submission flow
+- [README](../README.md) — what Armory is and why it's agent-native

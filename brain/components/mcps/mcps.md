@@ -9,10 +9,10 @@ tags: [moc, mcps]
 
 Model Context Protocol servers — the standardized way to give an agent native tool access to an external system
 (GitHub, docs, memory stores, vaults, web scraping, payments, chat) without hand-rolling an integration per provider.
-A server exposes tools the agent calls; the client (the CLI) brokers the connection. These engrams cover the servers
+A server exposes tools the agent calls; the client (the CLI) brokers the connection. These components cover the servers
 wired into a production harness, each with its install command and the situation it answers.
 
-## Engrams
+## Components
 
 - [[github-mcp]] — issues, PRs, repo read/search
 - [[context7-mcp]] — current library/framework documentation

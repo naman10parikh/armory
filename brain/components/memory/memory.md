@@ -10,10 +10,10 @@ tags: [moc, memory]
 How an agent remembers beyond a single context window. Memory spans layers: markdown files as the source of truth, a
 queryable index/graph over them, a knowledge base for structured recall, and managed stores for long-term semantic
 memory. The discipline matters as much as the store — append-only learnings, periodic compression, and one source of
-truth per topic keep memory useful instead of a swamp. These engrams cover the layering strategy and the practices
+truth per topic keep memory useful instead of a swamp. These components cover the layering strategy and the practices
 that keep it healthy.
 
-## Engrams
+## Components
 
 - [[four-layer-memory]] — the layered memory architecture
 - [[memory-compression]] — archive and consolidate aging memory

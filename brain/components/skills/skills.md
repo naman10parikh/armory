@@ -13,7 +13,7 @@ span building (scaffolding, testing), meta/CEO operations (planning, orchestrati
 content, and self-improvement. They are the cheapest way to give an agent a reusable, progressively-disclosed
 procedure without bloating the system prompt.
 
-## Engrams
+## Components
 
 - [[deep-think]] — multi-modal Socratic debate for hard decisions
 - [[ceo-launch]] — deep ingest → plan → spawn → monitor a worker company

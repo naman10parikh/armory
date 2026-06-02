@@ -9,10 +9,10 @@ tags: [moc, clis-tools]
 
 Command-line tools an agent can invoke from a shell to get capabilities a model alone lacks — orchestrate grids,
 score harnesses, transform code without an LLM, give an agent an identity, or scaffold a whole harness. CLIs are
-often cheaper than MCPs (no server in context) and composable in pipelines. These engrams are the agent-native CLIs
+often cheaper than MCPs (no server in context) and composable in pipelines. These components are the agent-native CLIs
 built around the harness formula, each published as its own OSS package.
 
-## Engrams
+## Components
 
 - [[agentgrid]] — multi-pane grid orchestration for parallel agents
 - [[agentswarm]] — CEO-style sub-agent orchestration

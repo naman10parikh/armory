@@ -12,7 +12,7 @@ audit — and report back to the parent. The discipline that makes them safe: su
 implements. They protect the parent's context window (a research dump never pollutes the main thread) and let an
 orchestrator fan out work. Each role here is a reusable persona with a clear charter and an expected output format.
 
-## Engrams
+## Components
 
 - [[architect]] — system-design and trade-off review
 - [[code-reviewer]] — review changes for correctness and patterns

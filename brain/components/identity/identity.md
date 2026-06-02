@@ -12,7 +12,7 @@ defined agent-file-format) that shape behavior and voice, and a runtime identity
 that makes the agent reachable and auditable. Together they answer "who is this agent, what is it, and how do I
 reach it" — the foundation of trust in any multi-agent system.
 
-## Engrams
+## Components
 
 - [[agent-file-format]] — the file layout that defines an agent
 - [[soul-md-spec]] — identity → personality → boundaries document
