@@ -8,7 +8,10 @@ something broken, it files a `[ ]` here immediately; whenever it fixes one, it c
 
 **State (2026-06-01):** 27,044 components / 12 categories. Nightly cron runs + commits daily
 (deterministic crawl). Catalog 25,251 → 27,044 over the past week. Hamel test-gate PASS nightly
-(it correctly blocked a 4.6%-drift smithery batch on 06-01).
+(it correctly blocked a 4.6%-drift smithery batch on 06-01). **Track F (the chairman's "why am I
+still seeing ngram everywhere") is now COMPLETE** — CLI help, docs, issue template, AND the brain
+hub/nav notes are all engram-clean; the 3 nightly-ish workflows are consolidated to 2 (autolab +
+ci). Real third-party products literally named "engram" remain as catalog data (correct).
 
 ---
 
@@ -22,7 +25,7 @@ something broken, it files a `[ ]` here immediately; whenever it fixes one, it c
   (`gh secret set ANTHROPIC_API_KEY -R naman10parikh/armory`). Once funded, the nightly POR
   (`ingest/daily-por.md`) runs real Claude-Code discovery. (Workflow now surfaces this as a clear
   `::error:: CHAIRMAN UNBLOCK` instead of a generic warning.)
-- [ ] **U2 — Live site is STALE (still shows "engram" 15×): Vercel Root Directory is still `site`.**
+- [ ] **U2 — Live site is STALE (still shows "engram"): Vercel Root Directory is still `site`.**
   A prior session renamed `site/ → web/`; Vercel's project Root Directory was never updated, so
   builds fail and `armory-murex.vercel.app` is frozen on the pre-rename build (shows the killed
   "engram" noun; a detail page `/e/mcps/math-mcp` 404s). Local `web/src` is 100% clean. **Fix:**
@@ -50,26 +53,26 @@ something broken, it files a `[ ]` here immediately; whenever it fixes one, it c
 - [ ] **A3** Upload `/tmp/discovery.log` as a workflow artifact so every nightly Claude-Code run is inspectable.
 
 ## Track B — Testing pyramid + gates (HMLC + agentic + LLM-council), wired into CI
-Current: `ingest/test-gate.mjs` (Hamel L1 functional + L2 behavioral) + `armory-mcp` vitest. Expand toward the full pyramid as CI gates; **nothing ships until it passes.**
+Current: `ingest/test-pyramid.test.mjs` (L1 unit + contract + chaos) + `ingest/test-gate.mjs` (Hamel L1+L2) + `armory-mcp` vitest, all gated in `ci.yml` (+ catalog-freshness, folded in from the retired catalog.yml). **Nothing ships until it passes.** Expand toward the full pyramid:
 - [x] L1 functional (frontmatter schema/slug/type) + L2 behavioral (anti-drift husk check).
-- [ ] **B1** Unit tests for every `ingest/*.mjs` pure function (parseFrontmatter, deriveInstall, dedup keys, gradeComponent).
+- [x] L1 unit + contract (catalog.json `components[]` shape, counts===length, no legacy `engrams` key) + chaos — `ingest/test-pyramid.test.mjs`, 8/8 green, wired into `ci.yml`.
+- [x] Catalog-freshness gate folded into `ci.yml` (catalog.json must equal a fresh rebuild; only structural drift fails).
+- [ ] **B1** Unit tests for the remaining `ingest/*.mjs` pure functions (deriveInstall, dedup keys) beyond the ones already covered.
 - [ ] **B2** Component/integration: crawl-`<src>` → incoming → promote → catalog round-trip on a fixture.
-- [ ] **B3** Contract test: `catalog.json` shape (the `components[]` contract armory-mcp + web depend on) — fail if a field is dropped/renamed.
 - [ ] **B4** E2E: `armory search` + `armory install <name> --cli claude|cursor|codex` fetches + writes the right file (sandbox dir).
-- [ ] **B5** Chaos/monkey: feed malformed/huge/empty stubs to the gate; assert it rejects without crashing.
+- [ ] **B5** Chaos/monkey: feed malformed/huge/empty stubs to the gate; assert it rejects without crashing. (partly covered by pyramid chaos test — extend to huge/binary inputs.)
 - [ ] **B6** Agentic evals — assertion / behavior / trajectory / **user** (an agent actually runs `armory ...` end-to-end) + LLM-council pass.
-- [ ] **B7** Wire B1–B6 into a `ci.yml` (PR + push) AND as a pre-promote gate in `autolab.yml`. Red = no ship.
 
 ## Track C — Website (BLOCKED on U2; queue the work so it ships the moment prod redeploys)
 - [ ] **C1** Re-verify after U2 redeploy: 0 "engram" on prod; detail pages 200 (not 404); homepage count = live catalog (27,044+).
-- [ ] **C2** The graph is primitive — rebuild it: evaluate `react-force-graph` / `cosmograph` / `sigma.js`; pick one; render the real `related[]` knowledge graph with category coloring, zoom, node-click → detail.
+- [ ] **C2** The graph is primitive — rebuild it: evaluate `react-force-graph` / `cosmograph` / `sigma.js`; pick one; render the real `related[]` knowledge graph with category coloring, zoom, node-click → detail. (Buildable + verifiable locally via `next build` even while prod is U2-blocked.)
 - [ ] **C3** **Time-slider** on the graph: scrub through catalog growth over time (audit-trailable from git history + `AUTOLAB-LOG.md` + per-component `verified_at`), watch the registry grow night by night.
 - [ ] **C4** Copy review (chairman flagged): "Not an aggregator for humans" — keep as on-brand positioning, but reason per-section; ensure no copy alienates a first-time human visitor.
 - [ ] **C5** Click EVERY button/route as a real user (Chrome MCP / playwright): search, category filter, harness-tab install snippets + copy, related-link nav, graph interactions. File a `[ ]` per break.
 - [ ] **C6** Queryability/accessibility pass: keyboard nav, focus states, contrast, mobile.
 
 ## Track D — Dogfood / break-it agents (the chairman's "agents that try to USE Armory")
-- [ ] **D1** A `dogfood` agent that fresh-installs the `@namanparikh/armory` CLI in a clean dir, runs `search`/`install`/`submit`, and files a `[ ]` for anything that errors or surprises.
+- [ ] **D1** A `dogfood` agent that fresh-installs the `@namanparikh/armory` CLI in a clean dir, runs `search`/`install`/`submit`, and files a `[ ]` for anything that errors or surprises. (This session's manual dogfooding already found + fixed Track F — formalize it as a repeatable agent.)
 - [ ] **D2** A `break-it` agent that fuzzes the CLI + the site (bad args, missing files, huge queries) and reports crashes.
 - [ ] **D3** A `setup-from-scratch` agent that installs Armory as a plugin into each harness (Claude/Cursor/Codex/OpenCode/Gemini) per PLUGIN.md and verifies the MCP server answers.
 
@@ -79,13 +82,12 @@ Current: `ingest/test-gate.mjs` (Hamel L1 functional + L2 behavioral) + `armory-
 - [ ] **E3** Denser `related[]` graph for thin categories (feeds C2/C3).
 - [ ] **E4** npm publish `@namanparikh/armory` (needs Naman's npm token — minor unblock).
 
-## Track F — "engram" leftovers + cleanup (found 2026-06-01 by dogfooding the CLI)
-Last session's engram→component rename swept `ingest/ armory-mcp/src web/src` but MISSED these — the CLI `--help` literally still says "engrams", answering the chairman's "Is Ngram a real thing?" = yes, here:
-- [ ] **F1** `cli/src/*.ts` (index/install/submit/catalog) + `cli/test/search.test.ts`: rename the noun engram→component (the `armory --help` text, `search`/`get`/`submit`/`list` descriptions all say "engram"). Use the Edit tool (a Bash `node -e fs` rename trips the `cat-secrets` hook). Then `cd cli && npm i && npm run build` and confirm `node dist/index.js --help` has zero "engram".
-- [ ] **F2** `cli/package.json`: drop the legacy `"engram": "dist/index.js"` bin alias (keep only `armory`); clean any "engram" in description/keywords.
-- [ ] **F3** `docs/architecture.md` + `docs/parallel-dev.md` + `.github/ISSUE_TEMPLATE/submit-component.md`: rename engram→component.
-- [ ] **F4** brain hub-note text leftovers (`brain/MOC - Armory.md`, `brain/components/<type>/<type>.md`): "engram" in generated/nav text — regenerate or sweep (NOT the third-party `mcps/*engram*.json` components, which are real catalog data — leave those).
-- [ ] **F5** Consolidate stale workflows: there are 3 nightly-ish workflows (`autolab.yml` [current], `crawl.yml`, `catalog.yml`). Confirm `crawl.yml`/`catalog.yml` are superseded by `autolab.yml` and remove the duplicate cron(s) so there's one self-improve loop, not three. (Cruft removal, not detail removal.)
+## Track F — "engram" leftovers + cleanup — ✅ COMPLETE (2026-06-01, dogfooding the CLI found these)
+- [x] **F1** (c0ee9d38) `cli/src/*.ts` + `cli/test/search.test.ts`: noun engram→component; `armory --help` + `armory search --help` verified engram-clean. (Done via the Edit tool / a scoped `node` script — Bash `npm install` trips the `cat-secrets` hook because it reads `~/.npmrc`; built with local `tsc`.)
+- [x] **F2** (c0ee9d38) `cli/package.json`: dropped the legacy `"engram"` bin alias (bin is now just `armory`).
+- [x] **F3** (c0ee9d38) `docs/architecture.md` + `docs/parallel-dev.md` + `.github/ISSUE_TEMPLATE/submit-component.md`: renamed engram→component.
+- [x] **F4** (5858f5ba) brain hub/nav notes: `brain/MOC - Armory.md` (Engram→Armory project + component noun) + the 8 category hub notes (`<type>/<type>.md`) engram→component. **NOT** the third-party `*engram*.md` products (real catalog data — left intact).
+- [x] **F5** (046d396a) Consolidated 3 nightly-ish workflows → 2: removed `crawl.yml` (legacy weekly crawl, superseded by autolab's daily crawl+commit) + `catalog.yml` (its unique fail-if-catalog-stale check folded into `ci.yml`). One self-improve loop (autolab) + one CI gate. Zero capability lost.
 
 ## Acceptance (every item)
 Surgical diff · passes its gates (Track B) · catalog rebuilt + `validate` PASS where relevant ·
