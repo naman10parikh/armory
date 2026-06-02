@@ -1,0 +1,43 @@
+name: ci
+
+# The center testing suite — the gate everything passes before it ships (chairman:
+# "only once it passes those gates, then it can go out"). Runs on every push + PR.
+# Layers: zero-dep unit/contract/chaos (node:test) → schema validate → Hamel
+# functional+behavioral gate → armory-mcp build + vitest. Red = no ship.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # L1 unit + contract + chaos (zero-dep, fast, reliable).
+      - name: Unit + contract + chaos (node:test)
+        run: node --test ingest/
+
+      # Hard schema gate — every component honors the frontmatter contract.
+      - name: Schema validate
+        run: node ingest/validate.mjs
+
+      # Hamel test-gate — functional (L1) + behavioral (L2) anti-drift over the catalog.
+      - name: Hamel test-gate (functional + behavioral)
+        run: node ingest/test-gate.mjs
+
+      # Armory's own server: typecheck/build + vitest.
+      - name: armory-mcp build + tests
+        working-directory: armory-mcp
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          npm test
