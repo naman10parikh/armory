@@ -79,6 +79,14 @@ Current: `ingest/test-gate.mjs` (Hamel L1 functional + L2 behavioral) + `armory-
 - [ ] **E3** Denser `related[]` graph for thin categories (feeds C2/C3).
 - [ ] **E4** npm publish `@namanparikh/armory` (needs Naman's npm token — minor unblock).
 
+## Track F — "engram" leftovers + cleanup (found 2026-06-01 by dogfooding the CLI)
+Last session's engram→component rename swept `ingest/ armory-mcp/src web/src` but MISSED these — the CLI `--help` literally still says "engrams", answering the chairman's "Is Ngram a real thing?" = yes, here:
+- [ ] **F1** `cli/src/*.ts` (index/install/submit/catalog) + `cli/test/search.test.ts`: rename the noun engram→component (the `armory --help` text, `search`/`get`/`submit`/`list` descriptions all say "engram"). Use the Edit tool (a Bash `node -e fs` rename trips the `cat-secrets` hook). Then `cd cli && npm i && npm run build` and confirm `node dist/index.js --help` has zero "engram".
+- [ ] **F2** `cli/package.json`: drop the legacy `"engram": "dist/index.js"` bin alias (keep only `armory`); clean any "engram" in description/keywords.
+- [ ] **F3** `docs/architecture.md` + `docs/parallel-dev.md` + `.github/ISSUE_TEMPLATE/submit-component.md`: rename engram→component.
+- [ ] **F4** brain hub-note text leftovers (`brain/MOC - Armory.md`, `brain/components/<type>/<type>.md`): "engram" in generated/nav text — regenerate or sweep (NOT the third-party `mcps/*engram*.json` components, which are real catalog data — leave those).
+- [ ] **F5** Consolidate stale workflows: there are 3 nightly-ish workflows (`autolab.yml` [current], `crawl.yml`, `catalog.yml`). Confirm `crawl.yml`/`catalog.yml` are superseded by `autolab.yml` and remove the duplicate cron(s) so there's one self-improve loop, not three. (Cruft removal, not detail removal.)
+
 ## Acceptance (every item)
 Surgical diff · passes its gates (Track B) · catalog rebuilt + `validate` PASS where relevant ·
 committed + pushed · row checked off `[x] — <commit>`. **No detail removed when consolidating.**
