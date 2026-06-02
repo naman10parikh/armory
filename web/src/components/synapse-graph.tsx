@@ -30,11 +30,13 @@ export function SynapseGraph({
   data,
   interactive = true,
   query = "",
+  reveal = 1,
   className,
 }: {
   data: GraphData;
   interactive?: boolean;
   query?: string;
+  reveal?: number; // 0..1 growth cutoff — only nodes with order <= reveal are drawn
   className?: string;
 }) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -45,6 +47,8 @@ export function SynapseGraph({
   const hoverRef = useRef<string | null>(null);
   const queryRef = useRef(query);
   queryRef.current = query.trim().toLowerCase();
+  const revealRef = useRef(reveal);
+  revealRef.current = reveal;
 
   useEffect(() => {
     const canvas = canvasRef.current;
@@ -61,6 +65,11 @@ export function SynapseGraph({
     const layout = new ForceLayout(data.nodes, data.edges, width, height);
     layout.settle();
     layoutRef.current = layout;
+
+    // Per-node growth order (0..1) — the time-slider draws only nodes/edges whose
+    // order <= reveal. The full layout is pre-settled, so revealed nodes appear in
+    // their final positions (no re-jiggle) — it reads as the catalog growing.
+    const orderOf = new Map(data.nodes.map((n) => [n.id, n.order]));
 
     // Per-node fade-in progress (0..1) and the active pulse.
     const appear = new Map<string, number>();
@@ -115,6 +124,12 @@ export function SynapseGraph({
         const s = layout.get(e.source);
         const t = layout.get(e.target);
         if (!s || !t) continue;
+        // Time-slider: hide edges whose endpoints haven't been "born" yet.
+        if (
+          (orderOf.get(e.source) ?? 0) > revealRef.current ||
+          (orderOf.get(e.target) ?? 0) > revealRef.current
+        )
+          continue;
         const active =
           hi && (hi.has(e.source) && hi.has(e.target) && hoveredId !== null);
         ctx!.beginPath();
@@ -147,6 +162,8 @@ export function SynapseGraph({
 
       // Nodes.
       for (const n of layout.nodes) {
+        // Time-slider: a node not yet "born" (order > reveal) isn't drawn.
+        if ((orderOf.get(n.id) ?? 0) > revealRef.current) continue;
         const a = appear.get(n.id) ?? 1;
         if (a < 1 && !reduce) appear.set(n.id, Math.min(1, a + 0.04));
         const r = radius(n) * (reduce ? 1 : a);

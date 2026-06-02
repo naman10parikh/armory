@@ -19,6 +19,19 @@ export function GraphClient({
   presentTypes: ComponentType[];
 }) {
   const [query, setQuery] = useState("");
+  const [reveal, setReveal] = useState(1);
+
+  // The slider's cutoff label ("as of <date>"), from the sorted verified_at dates.
+  const dates = data.nodes
+    .map((n) => n.verified_at)
+    .filter(Boolean)
+    .sort();
+  const cutoffDate = dates.length
+    ? dates[
+        Math.min(dates.length - 1, Math.max(0, Math.round(reveal * (dates.length - 1))))
+      ]
+    : "";
+  const visibleCount = Math.max(1, Math.round(reveal * data.nodes.length));
 
   return (
     <div className="mx-auto max-w-[1400px] px-5 pb-16 pt-28">
@@ -53,6 +66,30 @@ export function GraphClient({
           </div>
         </div>
       </header>
+
+      {/* Growth time-slider — scrub how the registry grew over time (audit-trailable by
+          each component's verified_at). Drag left → watch the brain wind back to its
+          earliest nodes; drag right → the full graph today. */}
+      {data.nodes.length > 0 && (
+        <div className="mb-4 flex items-center gap-4 rounded-xl bg-raise-1 px-4 py-3 ring-1 ring-line-subtle">
+          <span className="shrink-0 font-mono text-[10px] uppercase tracking-[0.18em] text-accent">
+            grew to
+          </span>
+          <input
+            type="range"
+            min={0}
+            max={1}
+            step={0.005}
+            value={reveal}
+            onChange={(e) => setReveal(parseFloat(e.target.value))}
+            aria-label="Scrub the catalog's growth over time"
+            className="h-1.5 w-full cursor-pointer appearance-none rounded-full bg-raise-2 accent-accent"
+          />
+          <span className="shrink-0 font-mono text-[11px] tabular-nums text-ink-body">
+            {cutoffDate || "—"} · {visibleCount}/{data.nodes.length}
+          </span>
+        </div>
+      )}
 
       {/* The canvas */}
       <div className="relative overflow-hidden rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">

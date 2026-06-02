@@ -13,6 +13,8 @@ export interface GraphNode {
   label: string;
   degree: number; // number of resolved synapses
   stars: number | null;
+  verified_at: string; // ISO date the component was last verified — drives the growth time-slider
+  order: number; // 0..1 chronological rank by verified_at; the slider reveals nodes with order <= cutoff
 }
 
 export interface GraphEdge {
@@ -77,7 +79,23 @@ export function buildGraph(components: Component[], maxNodes = 220): GraphData {
       label: e.name,
       degree: degree.get(e.name) ?? 0,
       stars: e.stars,
+      verified_at: e.verified_at ?? "",
+      order: 0,
     }));
+
+  // Chronological growth order (0..1) by verified_at — the time-slider reveals
+  // nodes with order <= cutoff, so dragging it replays how the catalog grew.
+  const chrono = [...nodes].sort((a, b) =>
+    a.verified_at < b.verified_at
+      ? -1
+      : a.verified_at > b.verified_at
+        ? 1
+        : a.id.localeCompare(b.id),
+  );
+  const span = Math.max(1, chrono.length - 1);
+  chrono.forEach((n, i) => {
+    n.order = i / span;
+  });
 
   // Keep only edges where BOTH endpoints survived the sample.
   const edges = allEdges.filter(
