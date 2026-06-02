@@ -12,6 +12,13 @@ something broken, it files a `[ ]` here immediately; whenever it fixes one, it c
 still seeing ngram everywhere") is now COMPLETE** — CLI help, docs, issue template, AND the brain
 hub/nav notes are all engram-clean; the 3 nightly-ish workflows are consolidated to 2 (autolab +
 ci). Real third-party products literally named "engram" remain as catalog data (correct).
+**CI gate now runs the full pyramid** — unit + contract + chaos + integration (crawl→promote→catalog)
++ Hamel functional/behavioral + catalog-freshness + armory-mcp vitest + agentic-user CLI E2E —
+**green on every push** (verified via `gh`). **Nightly cron verified from the live Action log:** it
+runs daily, `npm i -g @anthropic-ai/claude-code` + invokes `claude -p` headless, and is blocked
+ONLY on `Credit balance is too low` (= U1); the deterministic loop still commits and the gate
+correctly rejected a 4.6%-drift batch (catalog now sits at 0.21% drift). Live-dogfooding the CLI
+found + fixed an "an component" grammar bug (8a6ad38b), now regression-guarded by the E2E gate.
 
 ---
 
@@ -58,10 +65,10 @@ Current: `ingest/test-pyramid.test.mjs` (L1 unit + contract + chaos) + `ingest/t
 - [x] L1 unit + contract (catalog.json `components[]` shape, counts===length, no legacy `engrams` key) + chaos — `ingest/test-pyramid.test.mjs`, 8/8 green, wired into `ci.yml`.
 - [x] Catalog-freshness gate folded into `ci.yml` (catalog.json must equal a fresh rebuild; only structural drift fails).
 - [ ] **B1** Unit tests for the remaining `ingest/*.mjs` pure functions (deriveInstall, dedup keys) beyond the ones already covered.
-- [ ] **B2** Component/integration: crawl-`<src>` → incoming → promote → catalog round-trip on a fixture.
-- [ ] **B4** E2E: `armory search` + `armory install <name> --cli claude|cursor|codex` fetches + writes the right file (sandbox dir).
-- [ ] **B5** Chaos/monkey: feed malformed/huge/empty stubs to the gate; assert it rejects without crashing. (partly covered by pyramid chaos test — extend to huge/binary inputs.)
-- [ ] **B6** Agentic evals — assertion / behavior / trajectory / **user** (an agent actually runs `armory ...` end-to-end) + LLM-council pass.
+- [x] **B2** (9b157a05) Component/integration: crawl→incoming→promote→catalog round-trip on a tmp fixture — `ingest/integration.test.mjs` (promote lands a catalog-ingestible file, dedup, invalid-rejection, dry-run-default). Never touches the live brain.
+- [ ] **B4** E2E: `armory install <name> --cli claude|cursor|codex` fetches + writes the right file (sandbox dir). (search E2E now covered by B6; install-write still open.)
+- [x] **B5** (9b157a05) Chaos/monkey: empty / no-frontmatter / 2 MB / binary stubs fed to promote — asserts no throw + nothing promoted (`ingest/integration.test.mjs`).
+- [x] **B6** (7939a17e) Agentic "as a user" E2E — `cli/test/agentic-user.test.mjs` drives the real built CLI (search hit, no-match graceful, unknown-command non-zero, help engram-free + grammatical). CI builds the CLI then runs it as the final gate. 6/6 green. (LLM-council pass still open as a future layer.)
 
 ## Track C — Website (BLOCKED on U2; queue the work so it ships the moment prod redeploys)
 - [ ] **C1** Re-verify after U2 redeploy: 0 "engram" on prod; detail pages 200 (not 404); homepage count = live catalog (27,044+).
