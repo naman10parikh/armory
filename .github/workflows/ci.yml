@@ -22,9 +22,11 @@ jobs:
         with:
           node-version: "20"
 
-      # L1 unit + contract + chaos (zero-dep, fast, reliable).
-      - name: Unit + contract + chaos (node:test)
-        run: node --test ingest/
+      # L1 unit + contract + chaos + integration (zero-dep, fast, reliable). Enumerated,
+      # not `node --test ingest/` — directory-glob behavior varies across Node versions,
+      # and we must NOT auto-run test-gate.mjs here (it's the separate Hamel step below).
+      - name: Unit + contract + chaos + integration (node:test)
+        run: node --test ingest/test-pyramid.test.mjs ingest/integration.test.mjs
 
       # Hard schema gate — every component honors the frontmatter contract.
       - name: Schema validate
