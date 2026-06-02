@@ -8,7 +8,7 @@ import { TYPE_HUE } from "@/lib/types";
 
 const ACCENT = "oklch(80% 0.135 75)";
 const ACCENT_DIM = "oklch(80% 0.135 75 / 0.35)";
-const EDGE = "oklch(100% 0 0 / 0.08)";
+const EDGE = "oklch(100% 0 0 / 0.16)";
 const LABEL = "oklch(82% 0.005 72)";
 const NODE_DIM = "oklch(50% 0.006 72)";
 
@@ -80,7 +80,7 @@ export function SynapseGraph({
     }
 
     function radius(n: SimNode): number {
-      return 3.5 + Math.min(n.degree, 10) * 0.85;
+      return 4.5 + Math.min(n.degree, 12) * 1.1;
     }
 
     function setup() {
