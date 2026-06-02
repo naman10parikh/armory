@@ -6,10 +6,10 @@ import { existsSync, mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import {
   loadCatalog,
-  rankEngrams,
-  readEngramBody,
+  rankComponents,
+  readComponentBody,
   extractInstallSnippet,
-  type Engram,
+  type Component,
 } from "./catalog.js";
 import {
   LAYOUTS,
@@ -42,7 +42,7 @@ export interface InstallStep {
 }
 
 export interface InstallReport {
-  engram: Engram;
+  component: Component;
   cli: Cli;
   root: string;
   fuzzy: boolean;
@@ -51,13 +51,13 @@ export interface InstallReport {
 }
 
 // Resolve the component: exact name match first, then a single fuzzy fallback
-// (top BM25 hit). Returns the engram plus whether it was a fuzzy resolution.
-export function resolveEngram(name: string): { engram: Engram; fuzzy: boolean } | null {
-  const engrams = loadCatalog().engrams;
-  const exact = engrams.find((e) => e.name === name.trim());
-  if (exact) return { engram: exact, fuzzy: false };
-  const ranked = rankEngrams(engrams, name);
-  return ranked.length > 0 ? { engram: ranked[0].engram, fuzzy: true } : null;
+// (top BM25 hit). Returns the component plus whether it was a fuzzy resolution.
+export function resolveComponent(name: string): { component: Component; fuzzy: boolean } | null {
+  const components = loadCatalog().components;
+  const exact = components.find((e) => e.name === name.trim());
+  if (exact) return { component: exact, fuzzy: false };
+  const ranked = rankComponents(components, name);
+  return ranked.length > 0 ? { component: ranked[0].component, fuzzy: true } : null;
 }
 
 // Pick the target CLI: explicit --cli wins, else auto-detect from the root,
@@ -110,7 +110,7 @@ function installMcp(report: InstallReport, body: string, ref: RepoRef, opts: Ins
   if (!run) {
     report.steps.push({
       action: "print",
-      detail: `Could not derive a run command for "${report.engram.name}". Check the source and add it manually:\n${report.engram.source_url}`,
+      detail: `Could not derive a run command for "${report.component.name}". Check the source and add it manually:\n${report.component.source_url}`,
     });
     return;
   }
@@ -119,7 +119,7 @@ function installMcp(report: InstallReport, body: string, ref: RepoRef, opts: Ins
   const result = mergeMcpServer(
     file,
     layout.mcp,
-    report.engram.name,
+    report.component.name,
     { command: run.command, args: run.args },
     opts.force,
     opts.dryRun,
@@ -127,12 +127,12 @@ function installMcp(report: InstallReport, body: string, ref: RepoRef, opts: Ins
   if (result.alreadyPresent) {
     report.steps.push({
       action: "skipped",
-      detail: `${report.engram.name} already in ${file} (use --force to overwrite)`,
+      detail: `${report.component.name} already in ${file} (use --force to overwrite)`,
     });
   } else {
     report.steps.push({
       action: "merged-mcp",
-      detail: `${report.engram.name} → ${file} (${run.command} ${run.args.join(" ")})${result.created ? " [created]" : ""}`,
+      detail: `${report.component.name} → ${file} (${run.command} ${run.args.join(" ")})${result.created ? " [created]" : ""}`,
     });
     report.followUp.push(`Restart ${report.cli === "claude" ? "Claude Code" : report.cli} to load the MCP server.`);
   }
@@ -147,7 +147,7 @@ function installSkill(report: InstallReport, ref: RepoRef, opts: InstallOptions)
     report.steps.push({ action: "print", detail: `${report.cli} has no skills directory.` });
     return;
   }
-  const skillDir = `${spec.dir}/${report.engram.name}`;
+  const skillDir = `${spec.dir}/${report.component.name}`;
   // Determine the source directory: a blob URL's parent, a tree URL's path, or
   // the repo root.
   const sourceDir = ref.isFile ? ref.path.replace(/\/[^/]+$/, "") : ref.path;
@@ -177,19 +177,19 @@ function installSkill(report: InstallReport, ref: RepoRef, opts: InstallOptions)
 // drop it into the typed dir with the CLI's extension.
 function installSingleFile(report: InstallReport, ref: RepoRef, spec: DirSpec | null, opts: InstallOptions): void {
   if (!spec) {
-    report.steps.push({ action: "print", detail: `${report.cli} has no home for ${report.engram.type}.` });
+    report.steps.push({ action: "print", detail: `${report.cli} has no home for ${report.component.type}.` });
     return;
   }
   // Prefer the exact blob path; else look for "<name>.md" at the repo root or in
   // the conventional dir, then any single markdown the dir listing surfaces.
   let sourcePath = ref.isFile ? ref.path : "";
   if (!sourcePath) {
-    const guesses = [`${report.engram.name}.md`];
+    const guesses = [`${report.component.name}.md`];
     for (const g of guesses) {
       try {
         const content = fetchFile(ref, g);
         sourcePath = g;
-        const step = writeComponentFile(report.root, spec, `${report.engram.name}${spec.ext}`, content, opts.force, opts.dryRun);
+        const step = writeComponentFile(report.root, spec, `${report.component.name}${spec.ext}`, content, opts.force, opts.dryRun);
         report.steps.push(step);
         return;
       } catch {
@@ -198,13 +198,13 @@ function installSingleFile(report: InstallReport, ref: RepoRef, spec: DirSpec | 
     }
     report.steps.push({
       action: "print",
-      detail: `Could not locate the ${report.engram.type} file in ${report.engram.source_repo}. Source: ${report.engram.source_url}`,
+      detail: `Could not locate the ${report.component.type} file in ${report.component.source_repo}. Source: ${report.component.source_url}`,
     });
     return;
   }
   const content = fetchFile(ref, sourcePath);
   report.steps.push(
-    writeComponentFile(report.root, spec, `${report.engram.name}${spec.ext}`, content, opts.force, opts.dryRun),
+    writeComponentFile(report.root, spec, `${report.component.name}${spec.ext}`, content, opts.force, opts.dryRun),
   );
 }
 
@@ -214,7 +214,7 @@ function installHook(report: InstallReport, body: string, ref: RepoRef, opts: In
   const spec = LAYOUTS[report.cli].hooks;
   if (ref.isFile && spec) {
     const content = fetchFile(ref, ref.path);
-    const fileName = ref.path.split("/").pop() ?? `${report.engram.name}`;
+    const fileName = ref.path.split("/").pop() ?? `${report.component.name}`;
     report.steps.push(writeComponentFile(report.root, spec, fileName, content, opts.force, opts.dryRun));
   }
   report.steps.push({
@@ -229,21 +229,21 @@ function installHook(report: InstallReport, body: string, ref: RepoRef, opts: In
 function installPrintOnly(report: InstallReport, body: string): void {
   report.steps.push({
     action: "print",
-    detail: `${report.engram.type} components install via their own command. Snippet:\n${extractInstallSnippet(body)}\n\nSource: ${report.engram.source_url}`,
+    detail: `${report.component.type} components install via their own command. Snippet:\n${extractInstallSnippet(body)}\n\nSource: ${report.component.source_url}`,
   });
 }
 
 // --- orchestrator -----------------------------------------------------------
 
 export function runInstall(name: string, opts: InstallOptions): InstallReport {
-  const resolved = resolveEngram(name);
+  const resolved = resolveComponent(name);
   if (!resolved) {
-    throw new Error(`No engram matched "${name}". Try \`armory search ${name}\`.`);
+    throw new Error(`No component matched "${name}". Try \`armory search ${name}\`.`);
   }
   const root = opts.to ? opts.to : process.cwd();
   const cli = chooseCli(root, opts.cli);
   const report: InstallReport = {
-    engram: resolved.engram,
+    component: resolved.component,
     cli,
     root,
     fuzzy: resolved.fuzzy,
@@ -251,39 +251,39 @@ export function runInstall(name: string, opts: InstallOptions): InstallReport {
     followUp: [],
   };
 
-  const ref = parseGitHubUrl(resolved.engram.source_url, resolved.engram.source_repo);
+  const ref = parseGitHubUrl(resolved.component.source_url, resolved.component.source_repo);
   // Body lives in brain/; tolerate its absence (catalog may be ahead of brain).
   let body = "";
   try {
-    body = readEngramBody(resolved.engram);
+    body = readComponentBody(resolved.component);
   } catch {
     body = "";
   }
 
   const layout = LAYOUTS[cli];
-  switch (resolved.engram.type) {
+  switch (resolved.component.type) {
     case "mcps":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.engram.name}".`);
+      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
       installMcp(report, body, ref, opts);
       break;
     case "skills":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.engram.name}".`);
+      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
       installSkill(report, ref, opts);
       break;
     case "subagents":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.engram.name}".`);
+      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
       installSingleFile(report, ref, layout.subagents, opts);
       break;
     case "claudemd-rules":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.engram.name}".`);
+      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
       installSingleFile(report, ref, layout["claudemd-rules"], opts);
       break;
     case "workflows":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.engram.name}".`);
+      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
       installSingleFile(report, ref, layout.workflows, opts);
       break;
     case "hooks":
-      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.engram.name}".`);
+      if (!ref) throw new Error(`could not parse a GitHub source for "${resolved.component.name}".`);
       installHook(report, body, ref, opts);
       break;
     default:

@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 // Armory CLI — where agents gear up. Search, get, install, submit, list harness
-// components (engrams). Reads the generated catalog.json (the contract) and
+// components (components). Reads the generated catalog.json (the contract) and
 // installs components into whatever coding harness you're in. See CONTRIBUTING.md.
 import { basename } from "node:path";
 import { Command } from "commander";
 import chalk from "chalk";
-import { loadCatalog, rankEngrams, readEngramBody, type Engram } from "./catalog.js";
+import { loadCatalog, rankComponents, readComponentBody, type Component } from "./catalog.js";
 import { validateAndCopy, type SubmitResult } from "./submit.js";
 import { runInstall, type InstallReport } from "./install.js";
 
@@ -13,11 +13,11 @@ const program = new Command();
 
 program
   .name("armory")
-  .description("Armory — where agents gear up. Search and install harness components (engrams).")
+  .description("Armory — where agents gear up. Search and install harness components (components).")
   .version("0.1.0");
 
-function findByName(name: string): Engram | undefined {
-  return loadCatalog().engrams.find((e) => e.name === name.trim());
+function findByName(name: string): Component | undefined {
+  return loadCatalog().components.find((e) => e.name === name.trim());
 }
 
 function typeBadge(type: string): string {
@@ -26,46 +26,46 @@ function typeBadge(type: string): string {
 
 program
   .command("search")
-  .description("Keyword-rank engrams by name + description + tags.")
+  .description("Keyword-rank components by name + description + tags.")
   .argument("<query>", "search terms")
   .option("-t, --type <type>", "filter to one component type")
   .option("-n, --limit <n>", "max results", "10")
   .action((query: string, opts: { type?: string; limit: string }) => {
-    let engrams = loadCatalog().engrams;
-    if (opts.type) engrams = engrams.filter((e) => e.type === opts.type);
-    const ranked = rankEngrams(engrams, query).slice(0, Number(opts.limit) || 10);
+    let components = loadCatalog().components;
+    if (opts.type) components = components.filter((e) => e.type === opts.type);
+    const ranked = rankComponents(components, query).slice(0, Number(opts.limit) || 10);
     if (ranked.length === 0) {
-      console.log(chalk.yellow(`No engrams matched "${query}".`));
+      console.log(chalk.yellow(`No components matched "${query}".`));
       return;
     }
     console.log(chalk.bold(`\nTop ${ranked.length} for "${query}":\n`));
-    for (const { engram, score } of ranked) {
+    for (const { component, score } of ranked) {
       console.log(
-        `${chalk.green(engram.name)} ${typeBadge(engram.type)} ${chalk.dim(`(${score.toFixed(2)})`)}`
+        `${chalk.green(component.name)} ${typeBadge(component.type)} ${chalk.dim(`(${score.toFixed(2)})`)}`
       );
-      console.log(`  ${engram.description.trim()}`);
-      console.log(`  ${chalk.blue(engram.source_url)}\n`);
+      console.log(`  ${component.description.trim()}`);
+      console.log(`  ${chalk.blue(component.source_url)}\n`);
     }
   });
 
 program
   .command("get")
-  .description("Print the full engram markdown.")
-  .argument("<name>", "engram name")
+  .description("Print the full component markdown.")
+  .argument("<name>", "component name")
   .action((name: string) => {
-    const engram = findByName(name);
-    if (!engram) {
-      console.error(chalk.red(`Engram "${name}" not found.`));
+    const component = findByName(name);
+    if (!component) {
+      console.error(chalk.red(`Component "${name}" not found.`));
       process.exitCode = 1;
       return;
     }
-    console.log(readEngramBody(engram));
+    console.log(readComponentBody(component));
   });
 
 program
   .command("install")
   .description("Fetch a component and install it into your coding harness (claude/cursor/codex/opencode/gemini).")
-  .argument("<name>", "engram name (fuzzy-matched if no exact hit)")
+  .argument("<name>", "component name (fuzzy-matched if no exact hit)")
   .option("-c, --cli <cli>", "target CLI: claude|cursor|codex|opencode|gemini (auto-detected if omitted)")
   .option("--to <dir>", "install root (defaults to the current directory)")
   .option("-f, --force", "overwrite existing files / MCP entries", false)
@@ -85,12 +85,12 @@ program
 function printInstallReport(report: InstallReport, dryRun: boolean): void {
   const head = dryRun ? chalk.yellow("[dry-run] would install") : chalk.bold("Installed");
   console.log(
-    `\n${head} ${chalk.green(report.engram.name)} ${typeBadge(report.engram.type)} ${chalk.dim(`→ ${report.cli}`)}`,
+    `\n${head} ${chalk.green(report.component.name)} ${typeBadge(report.component.type)} ${chalk.dim(`→ ${report.cli}`)}`,
   );
   if (report.fuzzy) {
-    console.log(chalk.dim(`  (fuzzy match — no exact name "${report.engram.name}")`));
+    console.log(chalk.dim(`  (fuzzy match — no exact name "${report.component.name}")`));
   }
-  console.log(chalk.dim(`  source: ${report.engram.source_url}\n`));
+  console.log(chalk.dim(`  source: ${report.component.source_url}\n`));
   for (const step of report.steps) {
     if (step.action === "wrote-file") console.log(`  ${chalk.green("✓ wrote")} ${step.detail}`);
     else if (step.action === "merged-mcp") console.log(`  ${chalk.green("✓ mcp")}   ${step.detail}`);
@@ -105,8 +105,8 @@ function printInstallReport(report: InstallReport, dryRun: boolean): void {
 
 program
   .command("submit")
-  .description("Validate an engram file's frontmatter and copy it into incoming/.")
-  .requiredOption("-f, --file <path>", "path to the engram markdown file")
+  .description("Validate an component file's frontmatter and copy it into incoming/.")
+  .requiredOption("-f, --file <path>", "path to the component markdown file")
   .action((opts: { file: string }) => {
     let result: SubmitResult;
     try {
@@ -128,15 +128,15 @@ program
 
 program
   .command("list")
-  .description("Show counts and engram names, optionally filtered by type.")
+  .description("Show counts and component names, optionally filtered by type.")
   .option("-t, --type <type>", "filter to one component type")
   .action((opts: { type?: string }) => {
     const catalog = loadCatalog();
-    let engrams = catalog.engrams;
-    if (opts.type) engrams = engrams.filter((e) => e.type === opts.type);
+    let components = catalog.components;
+    if (opts.type) components = components.filter((e) => e.type === opts.type);
     console.log(
       chalk.bold(
-        `\n${engrams.length} engram(s)${opts.type ? ` of type ${opts.type}` : ` across ${Object.keys(catalog.counts.by_type).length} types`}\n`
+        `\n${components.length} component(s)${opts.type ? ` of type ${opts.type}` : ` across ${Object.keys(catalog.counts.by_type).length} types`}\n`
       )
     );
     if (!opts.type) {
@@ -145,7 +145,7 @@ program
       }
       console.log("");
     }
-    for (const e of engrams) {
+    for (const e of components) {
       console.log(`  ${chalk.green(e.name)} ${chalk.dim(e.type)}`);
     }
   });

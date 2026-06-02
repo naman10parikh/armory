@@ -24,4 +24,4 @@ labels: ["component-submission"]
 
 ---
 
-> Prefer to add it directly? Open a PR with the engram file — see [CONTRIBUTING.md](../../CONTRIBUTING.md). Or let an agent do it: `armory submit --file <path>`.
+> Prefer to add it directly? Open a PR with the component file — see [CONTRIBUTING.md](../../CONTRIBUTING.md). Or let an agent do it: `armory submit --file <path>`.

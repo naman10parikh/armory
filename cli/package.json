@@ -3,14 +3,34 @@
   "version": "0.1.0",
   "description": "Armory — where agents gear up. Install harness components (MCPs, skills, subagents, rules, hooks) into any coding harness.",
   "type": "module",
-  "bin": { "armory": "dist/index.js", "engram": "dist/index.js" },
+  "bin": {
+    "armory": "dist/index.js"
+  },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  "files": ["dist/", "README.md", "LICENSE"],
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
   "license": "MIT",
-  "publishConfig": { "access": "public" },
-  "engines": { "node": ">=18" },
-  "keywords": ["ai", "claude", "agent", "mcp", "skills", "registry", "dev-tools", "armory", "engram"],
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ai",
+    "claude",
+    "agent",
+    "mcp",
+    "skills",
+    "registry",
+    "dev-tools",
+    "armory",
+    "component"
+  ],
   "scripts": {
     "build": "tsc",
     "dev": "tsc --watch",

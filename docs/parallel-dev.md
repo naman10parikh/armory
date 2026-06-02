@@ -1,6 +1,6 @@
 # Parallel Development — Worktrees + portless (Conductor-style)
 
-Run multiple Claude Code instances on Engram **at the same time**, each on its
+Run multiple Claude Code instances on Component **at the same time**, each on its
 own git branch, in its own directory, with its own dev-server URL — zero
 collisions. This is the "Open Conductor / portless" workflow: every workspace is
 a git **worktree** running its own agent, the way the [Conductor](https://conductor.build)
@@ -22,7 +22,7 @@ Use a worktree per task when you want **parallelism without context bleed**:
 
 | Script                       | What it does                                                                                  |
 | ---------------------------- | --------------------------------------------------------------------------------------------- |
-| `worktree-new.sh <slug>`     | Creates `../engram-wt-<slug>` on branch `wt/<slug>` off main; symlinks `.env`/`.env.local`; `pnpm install`. |
+| `worktree-new.sh <slug>`     | Creates `../component-wt-<slug>` on branch `wt/<slug>` off main; symlinks `.env`/`.env.local`; `pnpm install`. |
 | `worktree-launch.sh <slug>`  | `cd`s into the worktree and launches `claude --dangerously-skip-permissions --chrome`; sets up portless or a manual PORT. |
 | `worktree-clean.sh <slug>`   | `git worktree remove` + deletes the branch **if merged**; refuses to remove a **dirty** worktree. |
 | `worktree-list.sh`           | `git worktree list` plus the port/URL each worktree is using.                                 |
@@ -32,11 +32,11 @@ Use a worktree per task when you want **parallelism without context bleed**:
 ```bash
 # 1. Spin up an isolated worktree for a task
 scripts/worktree-new.sh site-polish
-#   -> creates ../engram-wt-site-polish on branch wt/site-polish, runs pnpm install
+#   -> creates ../component-wt-site-polish on branch wt/site-polish, runs pnpm install
 
 # 2. Launch a Claude Code instance inside it (own terminal/pane)
 scripts/worktree-launch.sh site-polish
-#   -> cd ../engram-wt-site-polish && claude --dangerously-skip-permissions --chrome
+#   -> cd ../component-wt-site-polish && claude --dangerously-skip-permissions --chrome
 
 # 3. See everything that's running
 scripts/worktree-list.sh
@@ -47,7 +47,7 @@ scripts/worktree-clean.sh site-polish
 #   -> git worktree remove + branch -d (only if merged; dirty = refused)
 ```
 
-Convention: branch `wt/<slug>` ↔ directory `../engram-wt-<slug>`. Worktrees are
+Convention: branch `wt/<slug>` ↔ directory `../component-wt-<slug>`. Worktrees are
 **siblings** of the repo so they never pollute or get globbed inside it. Do NOT
 pass `--model` / `--effort` to Claude — the adaptive budget system owns those.
 
@@ -70,13 +70,13 @@ Add the dev script once (committed on `main`, so every worktree inherits it):
 
 ```jsonc
 // in the web package's package.json
-"dev:portless": "portless run --name engram next dev"
+"dev:portless": "portless run --name component next dev"
 ```
 
 Then in each worktree, `pnpm dev:portless` serves:
 
-- main → `https://engram.localhost`
-- worktree `wt/site-polish` → `https://site-polish.engram.localhost`
+- main → `https://component.localhost`
+- worktree `wt/site-polish` → `https://site-polish.component.localhost`
 
 Distinct origins → distinct cookies → **no auth bleed, no port collisions**.
 portless picks the underlying `PORT` from the **4000–4999** range automatically.

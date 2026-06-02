@@ -1,6 +1,6 @@
-# Engram Architecture
+# Component Architecture
 
-How the agent-native brain is built, and how to extend it. (For the why + positioning, see [README](../README.md). For the engram file contract, see [CONTRIBUTING](../CONTRIBUTING.md).)
+How the agent-native brain is built, and how to extend it. (For the why + positioning, see [README](../README.md). For the component file contract, see [CONTRIBUTING](../CONTRIBUTING.md).)
 
 ## The one-line model
 
@@ -8,15 +8,15 @@ How the agent-native brain is built, and how to extend it. (For the why + positi
 
 ```
 brain/  =  Obsidian vault (markdown + YAML frontmatter + [[wikilinks]])   ← SOURCE OF TRUTH
-   │        components/<type>/<slug>.md  =  one engram per file
+   │        components/<type>/<slug>.md  =  one component per file
    │
    ├─ node ingest/catalog.mjs ─────────────▶ catalog.json   (the generated index; counts computed)
    │
    └─ catalog.json fans out to 4 surfaces:
         ├─ Obsidian        — open brain/ as a vault; related[] draws the graph (synapses)
-        ├─ site/           — Vercel facet-search (reads catalog.json + renders engram markdown)
-        ├─ mcp/            — Engram MCP server: search_engrams / get_engram / submit_engram
-        └─ cli/            — `engram` CLI: search / get / install / submit / list
+        ├─ site/           — Vercel facet-search (reads catalog.json + renders component markdown)
+        ├─ mcp/            — Component MCP server: search_components / get_component / submit_component
+        └─ cli/            — `component` CLI: search / get / install / submit / list
 ```
 
 If markdown and a generated artifact ever disagree, **the markdown wins** — regenerate.
@@ -27,9 +27,9 @@ If markdown and a generated artifact ever disagree, **the markdown wins** — re
 
 Each lives under `brain/components/<type>/`, with a category hub note `<type>.md` (excluded from the catalog). The four usually-neglected ones — **clis-tools, evals, observability, infrastructure** — are first-class here; that's the differentiation surface.
 
-## The engram (the contract)
+## The component (the contract)
 
-Every engram is one markdown file: YAML frontmatter (`name · type · description · source_repo · source_url · license · cli_compat[] · maturity · stars · eval_score · verified_at · related[] · tags[]`) + a short body (What / When to use / Install / Notes). The frontmatter is the contract every surface parses. `name` must equal the filename and be unique within its type. `description` is a *WHEN-to-use* routing hint for agents, not a feature list.
+Every component is one markdown file: YAML frontmatter (`name · type · description · source_repo · source_url · license · cli_compat[] · maturity · stars · eval_score · verified_at · related[] · tags[]`) + a short body (What / When to use / Install / Notes). The frontmatter is the contract every surface parses. `name` must equal the filename and be unique within its type. `description` is a *WHEN-to-use* routing hint for agents, not a feature list.
 
 ## The catalog (keeping it honest)
 
@@ -43,7 +43,7 @@ sources ──crawl──▶ incoming/<source>/*.md ──verify──▶ promot
   API / Firecrawl)     stubs, not yet trusted)  dedupe, score)       vault + catalog)
 ```
 
-- `ingest/crawl.mjs` — pluggable `SourceAdapter`s map an external source to engram stubs in `incoming/<source>/`. Add a source = add an adapter.
+- `ingest/crawl.mjs` — pluggable `SourceAdapter`s map an external source to component stubs in `incoming/<source>/`. Add a source = add an adapter.
 - `ingest/verify-links.mjs` — resolves each `source_url`, flags dead links, stamps `verified_at`.
 - `ingest/promote.mjs` — validates + dedupes (by name+type) and moves stubs from `incoming/` into `components/`. Defaults to dry-run; only writes the vault with explicit `--apply`.
 
@@ -59,7 +59,7 @@ Nightly (AutoLab): crawl new sources → verify staleness → score → prune de
 
 ## How to contribute
 
-- **Add one engram:** drop a file in `brain/components/<type>/`, open a PR. CI validates + recomputes the catalog. (Or `engram submit --file <path>`.)
+- **Add one component:** drop a file in `brain/components/<type>/`, open a PR. CI validates + recomputes the catalog. (Or `component submit --file <path>`.)
 - **Add a source:** implement a `SourceAdapter` in `ingest/crawl.mjs`.
 - **Add a CLI target:** add a format adapter to the emitter.
-- Obey the engram contract and keep diffs surgical — see [CONTRIBUTING](../CONTRIBUTING.md).
+- Obey the component contract and keep diffs surgical — see [CONTRIBUTING](../CONTRIBUTING.md).
