@@ -1,0 +1,17 @@
+# ⚔️ Armory
+
+> Armory is the open-source, ever-evolving registry of every agent-harness component on earth — MCPs, skills, hooks, sub-agents, identity files, memory patterns, rules, CLIs, eval frameworks, observabil
+
+## Documentation
+
+- [README.md](README.md): Armory is the open-source, ever-evolving registry of every agent-harness component on earth — MCPs, skills, hooks, sub-agents, identity file
+- [CONTRIBUTING.md](CONTRIBUTING.md): Component is a registry: a knowledge graph of agent-harness components. Adding one is adding a single markdown file — an component — under b
+- [STRUCTURE.md](STRUCTURE.md): The whole repo in one map. Every root folder is listed here with a one-line purpose, grouped into five zones. Counts grow nightly (AutoLab) 
+- [HARNESS.md](HARNESS.md): Two different things live in this repo. Don't confuse them.
+- [docs/architecture.md](docs/architecture.md)
+- [docs/parallel-dev.md](docs/parallel-dev.md)
+
+## Notes
+
+- This file follows the llms.txt convention (https://llmstxt.org) so AI agents can
+  discover this repo's docs without scraping. Generated from the README + key docs.
