@@ -1,0 +1,27 @@
+---
+name: schemdraw-mcp-server
+type: mcps
+description: >
+  Enables AI assistants like Claude to create and edit electronic circuit diagrams using the schemdraw library through the Model Context Protocol.
+source_repo: fukayatti/schemdraw-mcp-server
+source_url: https://github.com/fukayatti/schemdraw-mcp-server
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables AI assistants like Claude to create and edit electronic circuit diagrams using the schemdraw library through the Model Context Protocol.
+
+## When to use it
+Enables AI assistants like Claude to create and edit electronic circuit diagrams using the schemdraw library through the Model Context Protocol.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ycr68zcs7x) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

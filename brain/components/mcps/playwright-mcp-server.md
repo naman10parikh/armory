@@ -1,0 +1,27 @@
+---
+name: playwright-mcp-server
+type: mcps
+description: >
+  Enables browser automation using Playwright, allowing LLMs to interact with web pages, take screenshots, generate test code, scrape web pages, and execute JavaScript in a real browser environment.
+source_repo: vinothbhc1986/mcp
+source_url: https://github.com/vinothbhc1986/mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables browser automation using Playwright, allowing LLMs to interact with web pages, take screenshots, generate test code, scrape web pages, and execute JavaScript in a real browser environment.
+
+## When to use it
+Enables browser automation using Playwright, allowing LLMs to interact with web pages, take screenshots, generate test code, scrape web pages, and execute JavaScript in a real browser environment.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/bre0pkuxz2) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
