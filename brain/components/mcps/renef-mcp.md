@@ -1,0 +1,27 @@
+---
+name: renef-mcp
+type: mcps
+description: >
+  MCP server for Renef, providing dynamic instrumentation and reverse engineering capabilities for Android ARM64, including native hooking, Java interception, and memory manipulation.
+source_repo: Ahmeth4n/renef-mcp
+source_url: https://github.com/Ahmeth4n/renef-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server for Renef, providing dynamic instrumentation and reverse engineering capabilities for Android ARM64, including native hooking, Java interception, and memory manipulation.
+
+## When to use it
+MCP server for Renef, providing dynamic instrumentation and reverse engineering capabilities for Android ARM64, including native hooking, Java interception, and memory manipulation.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/qippn6qeuc) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
