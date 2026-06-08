@@ -1,0 +1,27 @@
+---
+name: medsci-agent
+type: mcps
+description: >
+  An open source biomedical research agent that provides LLMs with 28 tools for drug discovery, protein analysis, literature search, medical imaging, omics, and sandbox execution, all running locally via Ollama and MedGemma.
+source_repo: omar-A-hassan/medsci-agent
+source_url: https://github.com/omar-A-hassan/medsci-agent
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+An open source biomedical research agent that provides LLMs with 28 tools for drug discovery, protein analysis, literature search, medical imaging, omics, and sandbox execution, all running locally via Ollama and MedGemma.
+
+## When to use it
+An open source biomedical research agent that provides LLMs with 28 tools for drug discovery, protein analysis, literature search, medical imaging, omics, and sandbox execution, all running locally via Ollama and MedGemma.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/layfb2t1ii) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
