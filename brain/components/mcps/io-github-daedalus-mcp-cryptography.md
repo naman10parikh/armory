@@ -1,0 +1,27 @@
+---
+name: io-github-daedalus-mcp-cryptography
+type: mcps
+description: >
+  Exposes various cryptographic operations including key generation, symmetric/asymmetric encryption, hashing, and HMAC. Supports Fernet, AES, RSA, X.25519, and X.509 certificates.
+source_repo: daedalus/mcp-cryptography
+source_url: https://github.com/daedalus/mcp-cryptography
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Exposes various cryptographic operations including key generation, symmetric/asymmetric encryption, hashing, and HMAC. Supports Fernet, AES, RSA, X.25519, and X.509 certificates.
+
+## When to use it
+Exposes various cryptographic operations including key generation, symmetric/asymmetric encryption, hashing, and HMAC. Supports Fernet, AES, RSA, X.25519, and X.509 certificates.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ev0fj5okzj) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -1,0 +1,27 @@
+---
+name: korea-space-support-mcp
+type: mcps
+description: >
+  AI agents can search and match Korean space, aerospace, and defense R\&D support program announcements. It provides MCP tools to filter by applicant type, deadline, and source family.
+source_repo: AgentBridge-Lab/korea-space-support-mcp
+source_url: https://github.com/AgentBridge-Lab/korea-space-support-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+AI agents can search and match Korean space, aerospace, and defense R\&D support program announcements. It provides MCP tools to filter by applicant type, deadline, and source family.
+
+## When to use it
+AI agents can search and match Korean space, aerospace, and defense R\&D support program announcements. It provides MCP tools to filter by applicant type, deadline, and source family.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/zy6egmax41) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
