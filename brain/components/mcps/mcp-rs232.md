@@ -1,0 +1,27 @@
+---
+name: mcp-rs232
+type: mcps
+description: >
+  An MCP server that exposes RS232 serial port connectivity, enabling listing, opening, reading, and writing to serial ports via tools and resources.
+source_repo: daedalus/mcp-rs232
+source_url: https://github.com/daedalus/mcp-rs232
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+An MCP server that exposes RS232 serial port connectivity, enabling listing, opening, reading, and writing to serial ports via tools and resources.
+
+## When to use it
+An MCP server that exposes RS232 serial port connectivity, enabling listing, opening, reading, and writing to serial ports via tools and resources.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/b5r9kn7l3t) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
