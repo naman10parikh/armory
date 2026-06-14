@@ -1,0 +1,27 @@
+---
+name: mousetail
+type: mcps
+description: >
+  The simplest and most stable MCP server for Anki, enabling LLMs to perform core Anki operations (CRUD) directly without addons.
+source_repo: listfold/mousetail
+source_url: https://github.com/listfold/mousetail
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+The simplest and most stable MCP server for Anki, enabling LLMs to perform core Anki operations (CRUD) directly without addons.
+
+## When to use it
+The simplest and most stable MCP server for Anki, enabling LLMs to perform core Anki operations (CRUD) directly without addons.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ypcae6plmt) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
