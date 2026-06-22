@@ -1,0 +1,27 @@
+---
+name: phab-arc-mcp
+type: mcps
+description: >
+  MCP server for reviewing Phabricator revisions. It fetches revision context and creates draft inline comments via Conduit API.
+source_repo: wxomi/mcp-phab
+source_url: https://github.com/wxomi/mcp-phab
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server for reviewing Phabricator revisions. It fetches revision context and creates draft inline comments via Conduit API.
+
+## When to use it
+MCP server for reviewing Phabricator revisions. It fetches revision context and creates draft inline comments via Conduit API.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/qt1dbt9ld9) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

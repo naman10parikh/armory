@@ -1,0 +1,27 @@
+---
+name: law-ontology-mcp
+type: mcps
+description: >
+  Enables searching and querying Korean law ontology via SPARQL, with tools for law search, detail, agency, region, statistics, and network visualization.
+source_repo: wintenboy/law-ontology-mcp
+source_url: https://github.com/wintenboy/law-ontology-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables searching and querying Korean law ontology via SPARQL, with tools for law search, detail, agency, region, statistics, and network visualization.
+
+## When to use it
+Enables searching and querying Korean law ontology via SPARQL, with tools for law search, detail, agency, region, statistics, and network visualization.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/u6aiymnsss) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
