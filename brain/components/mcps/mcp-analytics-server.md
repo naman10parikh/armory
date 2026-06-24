@@ -1,0 +1,27 @@
+---
+name: mcp-analytics-server
+type: mcps
+description: >
+  Enables LLMs to interact with a SQLite e-commerce database via safe, typed MCP tools with read-only guards and auth-gated mutations, plus a Claude agent for answering business questions.
+source_repo: tkarim45/mcp-analytics-server
+source_url: https://github.com/tkarim45/mcp-analytics-server
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables LLMs to interact with a SQLite e-commerce database via safe, typed MCP tools with read-only guards and auth-gated mutations, plus a Claude agent for answering business questions.
+
+## When to use it
+Enables LLMs to interact with a SQLite e-commerce database via safe, typed MCP tools with read-only guards and auth-gated mutations, plus a Claude agent for answering business questions.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/khiut3cv9s) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
