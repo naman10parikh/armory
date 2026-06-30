@@ -1,0 +1,27 @@
+---
+name: monarch-mcp-ultimate
+type: mcps
+description: >
+  The most capable Monarch Money MCP server, merging the best features from all known implementations into one clean TypeScript project. It provides 47 tools for comprehensive personal finance management including transactions, budgets, rules, merchant management, and intelligence analysis.
+source_repo: oyemecarnal/monarch-mcp-ultimate
+source_url: https://github.com/oyemecarnal/monarch-mcp-ultimate
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+The most capable Monarch Money MCP server, merging the best features from all known implementations into one clean TypeScript project. It provides 47 tools for comprehensive personal finance management including transactions, budgets, rules, merchant management, and intelligence analysis.
+
+## When to use it
+The most capable Monarch Money MCP server, merging the best features from all known implementations into one clean TypeScript project. It provides 47 tools for comprehensive personal finance management including transactions, budgets, rules, merchant management, and intelligence analysis.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ks0b7jxrdw) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

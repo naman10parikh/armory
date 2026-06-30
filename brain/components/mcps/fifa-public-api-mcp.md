@@ -1,0 +1,27 @@
+---
+name: fifa-public-api-mcp
+type: mcps
+description: >
+  Enables querying FIFA competitions, fixtures, results, and live match data through the FIFA Public API without authentication.
+source_repo: chrispickford/fifa-public-api-mcp
+source_url: https://github.com/chrispickford/fifa-public-api-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables querying FIFA competitions, fixtures, results, and live match data through the FIFA Public API without authentication.
+
+## When to use it
+Enables querying FIFA competitions, fixtures, results, and live match data through the FIFA Public API without authentication.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/xczqjo84mq) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
