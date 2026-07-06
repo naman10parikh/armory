@@ -1,0 +1,27 @@
+---
+name: renforge-mcp
+type: mcps
+description: >
+  An MCP server for Ren'Py project tooling that enables AI agents to inspect game state, evaluate expressions, read/write variables, and capture screenshots from running Ren'Py games.
+source_repo: alex-jordan547/renforge-mcp
+source_url: https://github.com/alex-jordan547/renforge-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+An MCP server for Ren'Py project tooling that enables AI agents to inspect game state, evaluate expressions, read/write variables, and capture screenshots from running Ren'Py games.
+
+## When to use it
+An MCP server for Ren'Py project tooling that enables AI agents to inspect game state, evaluate expressions, read/write variables, and capture screenshots from running Ren'Py games.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/l6isg0flmt) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
