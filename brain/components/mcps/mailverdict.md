@@ -1,0 +1,27 @@
+---
+name: mailverdict
+type: mcps
+description: >
+  Keyless email validation: disposable/burner, role-account, and free-provider detection, MX checks, and typo suggestions. Tools: check_email, check_domain.
+source_repo: mailverdict/mailverdict
+source_url: https://github.com/mailverdict/mailverdict
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Keyless email validation: disposable/burner, role-account, and free-provider detection, MX checks, and typo suggestions. Tools: check_email, check_domain.
+
+## When to use it
+Keyless email validation: disposable/burner, role-account, and free-provider detection, MX checks, and typo suggestions. Tools: check_email, check_domain.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/vy632s0gpe) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

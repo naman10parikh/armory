@@ -1,0 +1,27 @@
+---
+name: tagmanager-mcp
+type: mcps
+description: >
+  An MCP server for the Google Tag Manager API v2 that enables AI assistants to query GTM accounts, containers, tags, triggers, variables, and unpublished changes.
+source_repo: jinchliu/tagmanager-mcp
+source_url: https://github.com/jinchliu/tagmanager-mcp
+license: Apache 2.0
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+An MCP server for the Google Tag Manager API v2 that enables AI assistants to query GTM accounts, containers, tags, triggers, variables, and unpublished changes.
+
+## When to use it
+An MCP server for the Google Tag Manager API v2 that enables AI assistants to query GTM accounts, containers, tags, triggers, variables, and unpublished changes.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/s79qcezyl0) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
