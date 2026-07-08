@@ -1,0 +1,27 @@
+---
+name: aero-allocator
+type: mcps
+description: >
+  MCP server that forecasts next-epoch demand for Aerodrome pools on Base and turns it into concrete incentive-allocation recommendations.
+source_repo: Hryhorii77/aero-allocator
+source_url: https://github.com/Hryhorii77/aero-allocator
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server that forecasts next-epoch demand for Aerodrome pools on Base and turns it into concrete incentive-allocation recommendations.
+
+## When to use it
+MCP server that forecasts next-epoch demand for Aerodrome pools on Base and turns it into concrete incentive-allocation recommendations.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/giwa5k4129) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
