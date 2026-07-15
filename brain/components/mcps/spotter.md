@@ -1,0 +1,27 @@
+---
+name: spotter
+type: mcps
+description: >
+  Enables automated sound design spotting from Claude Code: analyze video, generate cue sheets, search or generate SFX, and export DAW-synchronized stems.
+source_repo: GuilleMcDugan/spotter
+source_url: https://github.com/GuilleMcDugan/spotter
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables automated sound design spotting from Claude Code: analyze video, generate cue sheets, search or generate SFX, and export DAW-synchronized stems.
+
+## When to use it
+Enables automated sound design spotting from Claude Code: analyze video, generate cue sheets, search or generate SFX, and export DAW-synchronized stems.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/jxmv3gkihs) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
