@@ -1,0 +1,27 @@
+---
+name: cua-plugin
+type: mcps
+description: >
+  MCP server that enables agents to control native GUI apps by snapshotting accessibility trees and performing actions like click, type, and scroll without bringing the app to the foreground.
+source_repo: protoLabsAI/cua-plugin
+source_url: https://github.com/protoLabsAI/cua-plugin
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server that enables agents to control native GUI apps by snapshotting accessibility trees and performing actions like click, type, and scroll without bringing the app to the foreground.
+
+## When to use it
+MCP server that enables agents to control native GUI apps by snapshotting accessibility trees and performing actions like click, type, and scroll without bringing the app to the foreground.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/e1ro75fvzo) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
