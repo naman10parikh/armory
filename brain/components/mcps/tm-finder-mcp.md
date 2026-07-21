@@ -1,0 +1,27 @@
+---
+name: tm-finder-mcp
+type: mcps
+description: >
+  MCP server that enables trademark searches through the TM Finder Public API, with support for API key authentication and idempotency for retries.
+source_repo: b2tm/tm-finder-mcp
+source_url: https://github.com/b2tm/tm-finder-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server that enables trademark searches through the TM Finder Public API, with support for API key authentication and idempotency for retries.
+
+## When to use it
+MCP server that enables trademark searches through the TM Finder Public API, with support for API key authentication and idempotency for retries.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/krb5286r2c) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
