@@ -1,0 +1,27 @@
+---
+name: ragify-docs-mcp
+type: mcps
+description: >
+  Scrapes documentation sites, chunks and embeds content locally, then retrieves relevant passages for queries. Enables agents to ask questions grounded in documentation.
+source_repo: codewithyasho/ragify_docs_mcp
+source_url: https://github.com/codewithyasho/ragify_docs_mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Scrapes documentation sites, chunks and embeds content locally, then retrieves relevant passages for queries. Enables agents to ask questions grounded in documentation.
+
+## When to use it
+Scrapes documentation sites, chunks and embeds content locally, then retrieves relevant passages for queries. Enables agents to ask questions grounded in documentation.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/o7t3mdd2xt) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
