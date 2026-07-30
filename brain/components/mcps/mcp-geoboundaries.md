@@ -1,0 +1,27 @@
+---
+name: mcp-geoboundaries
+type: mcps
+description: >
+  Provides access to the geoBoundaries open database of political administrative boundaries, enabling querying and retrieval of boundary data through natural language via the Pipeworx gateway.
+source_repo: pipeworx-io/mcp-geoboundaries
+source_url: https://github.com/pipeworx-io/mcp-geoboundaries
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Provides access to the geoBoundaries open database of political administrative boundaries, enabling querying and retrieval of boundary data through natural language via the Pipeworx gateway.
+
+## When to use it
+Provides access to the geoBoundaries open database of political administrative boundaries, enabling querying and retrieval of boundary data through natural language via the Pipeworx gateway.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/itis5ra0lm) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

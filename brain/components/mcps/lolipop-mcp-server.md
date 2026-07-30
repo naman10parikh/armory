@@ -1,0 +1,27 @@
+---
+name: lolipop-mcp-server
+type: mcps
+description: >
+  Manage domains, subdomains, free SSL certificates, and WordPress installations on Lolipop Rental Server through natural language conversations with AI assistants.
+source_repo: pepabo/lolipop-mcp
+source_url: https://github.com/pepabo/lolipop-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Manage domains, subdomains, free SSL certificates, and WordPress installations on Lolipop Rental Server through natural language conversations with AI assistants.
+
+## When to use it
+Manage domains, subdomains, free SSL certificates, and WordPress installations on Lolipop Rental Server through natural language conversations with AI assistants.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/vh8cze7it0) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
