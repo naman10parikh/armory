@@ -1,0 +1,27 @@
+---
+name: openkrx-mcp
+type: mcps
+description: >
+  MCP server that provides Korean Exchange (KRX) Open API market data as tools, covering indices, stocks, ETPs, bonds, derivatives, commodities, and ESG.
+source_repo: joohyukjung/openkrx-mcp
+source_url: https://github.com/joohyukjung/openkrx-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server that provides Korean Exchange (KRX) Open API market data as tools, covering indices, stocks, ETPs, bonds, derivatives, commodities, and ESG.
+
+## When to use it
+MCP server that provides Korean Exchange (KRX) Open API market data as tools, covering indices, stocks, ETPs, bonds, derivatives, commodities, and ESG.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ra4uc2n8l0) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
