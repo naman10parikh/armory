@@ -1,0 +1,27 @@
+---
+name: gengomcp
+type: mcps
+description: >
+  An MCP server that enables searching and retrieving ACL NLP conference papers from a Qdrant vector database using semantic search and structured filters like year, venue, and field of study.
+source_repo: sobamchan/gengomcp
+source_url: https://github.com/sobamchan/gengomcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+An MCP server that enables searching and retrieving ACL NLP conference papers from a Qdrant vector database using semantic search and structured filters like year, venue, and field of study.
+
+## When to use it
+An MCP server that enables searching and retrieving ACL NLP conference papers from a Qdrant vector database using semantic search and structured filters like year, venue, and field of study.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ldrisvqnsj) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
