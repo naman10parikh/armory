@@ -1,0 +1,27 @@
+---
+name: chameleon
+type: mcps
+description: >
+  MCP server for agent-friendly web scraping with adaptive anti-bot bypass, dynamic rendering, and structured data extraction via 12 tools.
+source_repo: xiabai2008/chameleon
+source_url: https://github.com/xiabai2008/chameleon
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server for agent-friendly web scraping with adaptive anti-bot bypass, dynamic rendering, and structured data extraction via 12 tools.
+
+## When to use it
+MCP server for agent-friendly web scraping with adaptive anti-bot bypass, dynamic rendering, and structured data extraction via 12 tools.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/mxsiuas9w1) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
