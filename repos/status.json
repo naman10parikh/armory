@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-11T08:09:39.772Z",
+  "generated_at": "2026-08-12T08:17:12.053Z",
   "stale_after_days": 120,
   "total": 21,
   "fresh": 13,
-  "stale": 8,
-  "errors": 0,
+  "stale": 7,
+  "errors": 1,
   "repos": [
     {
       "repo": "obra/superpowers",
       "category": "skills",
       "feeds": "crawl-skillpacks.mjs",
       "note": "community skill pack",
-      "stars": 270433,
-      "pushed_at": "2026-08-08T01:45:49Z",
-      "days_since_push": 3,
+      "stars": 270939,
+      "pushed_at": "2026-08-12T05:08:28Z",
+      "days_since_push": 0,
       "archived": false,
       "stale": false
     },
@@ -22,8 +22,8 @@
       "category": "multi",
       "feeds": "crawl-community.mjs",
       "note": "ECC — large multi-component community collection",
-      "stars": 239319,
-      "pushed_at": "2026-08-11T04:46:24Z",
+      "stars": 239571,
+      "pushed_at": "2026-08-12T05:55:43Z",
       "days_since_push": 0,
       "archived": false,
       "stale": false
@@ -33,9 +33,9 @@
       "category": "skills",
       "feeds": "crawl-skillpacks.mjs",
       "note": "official Anthropic skills (the SKILL.md spec)",
-      "stars": 167718,
+      "stars": 168365,
       "pushed_at": "2026-08-07T17:14:15Z",
-      "days_since_push": 3,
+      "days_since_push": 4,
       "archived": false,
       "stale": false
     },
@@ -44,9 +44,9 @@
       "category": "mcps",
       "feeds": "crawl-anthropic.mjs",
       "note": "the official MCP reference servers",
-      "stars": 89424,
+      "stars": 89470,
       "pushed_at": "2026-08-10T02:41:59Z",
-      "days_since_push": 1,
+      "days_since_push": 2,
       "archived": false,
       "stale": false
     },
@@ -55,8 +55,8 @@
       "category": "multi",
       "feeds": "crawl-awesome-cc.mjs",
       "note": "the canonical awesome-claude-code navigation list",
-      "stars": 52098,
-      "pushed_at": "2026-08-11T06:20:15Z",
+      "stars": 52172,
+      "pushed_at": "2026-08-12T06:31:14Z",
       "days_since_push": 0,
       "archived": false,
       "stale": false
@@ -66,9 +66,9 @@
       "category": "skills",
       "feeds": "crawl-anthropic.mjs",
       "note": "official cookbook — the quality bar",
-      "stars": 51224,
+      "stars": 51380,
       "pushed_at": "2026-08-07T17:13:37Z",
-      "days_since_push": 3,
+      "days_since_push": 4,
       "archived": false,
       "stale": false
     },
@@ -77,9 +77,9 @@
       "category": "claudemd-rules",
       "feeds": "crawl-collections.mjs",
       "note": "the big .cursorrules / rules collection",
-      "stars": 40553,
+      "stars": 40567,
       "pushed_at": "2026-05-30T18:01:29Z",
-      "days_since_push": 72,
+      "days_since_push": 73,
       "archived": false,
       "stale": false
     },
@@ -88,9 +88,9 @@
       "category": "subagents",
       "feeds": "crawl-wshobson.mjs",
       "note": "184+ specialized sub-agents",
-      "stars": 38701,
+      "stars": 38730,
       "pushed_at": "2026-08-05T07:11:13Z",
-      "days_since_push": 6,
+      "days_since_push": 7,
       "archived": false,
       "stale": false
     },
@@ -99,8 +99,8 @@
       "category": "multi",
       "feeds": "crawl-cctemplates.mjs",
       "note": "largest single source — skills/subagents/commands/settings",
-      "stars": 30192,
-      "pushed_at": "2026-08-11T03:39:54Z",
+      "stars": 30208,
+      "pushed_at": "2026-08-12T03:48:03Z",
       "days_since_push": 0,
       "archived": false,
       "stale": false
@@ -110,8 +110,8 @@
       "category": "workflows",
       "feeds": "crawl-a2a.mjs",
       "note": "Agent-to-Agent protocol",
-      "stars": 25280,
-      "pushed_at": "2026-08-10T08:49:51Z",
+      "stars": 25310,
+      "pushed_at": "2026-08-11T20:01:05Z",
       "days_since_push": 0,
       "archived": false,
       "stale": false
@@ -121,9 +121,9 @@
       "category": "subagents",
       "feeds": "crawl-collections.mjs",
       "note": "curated sub-agent index",
-      "stars": 24201,
+      "stars": 24230,
       "pushed_at": "2026-08-10T14:19:05Z",
-      "days_since_push": 0,
+      "days_since_push": 1,
       "archived": false,
       "stale": false
     },
@@ -132,9 +132,9 @@
       "category": "skills",
       "feeds": "crawl-anthropic.mjs",
       "note": "official quickstarts",
-      "stars": 17411,
+      "stars": 17420,
       "pushed_at": "2026-08-06T17:17:51Z",
-      "days_since_push": 4,
+      "days_since_push": 5,
       "archived": false,
       "stale": false
     },
@@ -145,7 +145,7 @@
       "note": "community sub-agents",
       "stars": 4378,
       "pushed_at": "2025-10-30T00:06:52Z",
-      "days_since_push": 285,
+      "days_since_push": 286,
       "archived": false,
       "stale": true
     },
@@ -154,8 +154,8 @@
       "category": "mcps",
       "feeds": "crawl-mcpso.mjs",
       "note": "Cloudflare's MCP servers",
-      "stars": 4059,
-      "pushed_at": "2026-08-10T17:56:32Z",
+      "stars": 4064,
+      "pushed_at": "2026-08-11T11:45:57Z",
       "days_since_push": 0,
       "archived": false,
       "stale": false
@@ -165,9 +165,9 @@
       "category": "hooks",
       "feeds": "crawl-collections.mjs",
       "note": "hooks mastery reference",
-      "stars": 3882,
+      "stars": 3883,
       "pushed_at": "2026-03-04T18:16:25Z",
-      "days_since_push": 159,
+      "days_since_push": 160,
       "archived": false,
       "stale": true
     },
@@ -176,9 +176,9 @@
       "category": "workflows",
       "feeds": "crawl-wshobson.mjs",
       "note": "slash-command / workflow orchestrators",
-      "stars": 2608,
+      "stars": 2609,
       "pushed_at": "2025-10-12T00:45:28Z",
-      "days_since_push": 303,
+      "days_since_push": 304,
       "archived": false,
       "stale": true
     },
@@ -189,7 +189,7 @@
       "note": "sub-agent collection",
       "stars": 1340,
       "pushed_at": "2025-11-10T17:14:34Z",
-      "days_since_push": 273,
+      "days_since_push": 274,
       "archived": false,
       "stale": true
     },
@@ -200,7 +200,7 @@
       "note": "community sub-agents",
       "stars": 185,
       "pushed_at": "2025-07-30T04:53:17Z",
-      "days_since_push": 377,
+      "days_since_push": 378,
       "archived": false,
       "stale": true
     },
@@ -211,7 +211,7 @@
       "note": "hook set",
       "stars": 74,
       "pushed_at": "2025-07-20T23:25:34Z",
-      "days_since_push": 386,
+      "days_since_push": 387,
       "archived": false,
       "stale": true
     },
@@ -222,7 +222,7 @@
       "note": "our own A2A server list",
       "stars": 2,
       "pushed_at": "2025-05-01T21:20:50Z",
-      "days_since_push": 466,
+      "days_since_push": 467,
       "archived": false,
       "stale": true
     },
@@ -231,11 +231,8 @@
       "category": "mcps",
       "feeds": "crawl-smithery.mjs",
       "note": "Smithery's registry repo",
-      "stars": 0,
-      "pushed_at": "2026-01-30T07:09:28Z",
-      "days_since_push": 193,
-      "archived": false,
-      "stale": true
+      "error": "HTTP 404",
+      "stale": null
     }
   ]
 }
