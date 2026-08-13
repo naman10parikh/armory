@@ -1,0 +1,27 @@
+---
+name: browseragent
+type: mcps
+description: >
+  MCP server for Puppeteer-based browser automation with a unified observe (a11y snapshot + pixel overlay), diff engine, event layer, and action primitives.
+source_repo: PremierStudio/BrowserAgent
+source_url: https://github.com/PremierStudio/BrowserAgent
+license: Apache 2.0
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server for Puppeteer-based browser automation with a unified observe (a11y snapshot + pixel overlay), diff engine, event layer, and action primitives.
+
+## When to use it
+MCP server for Puppeteer-based browser automation with a unified observe (a11y snapshot + pixel overlay), diff engine, event layer, and action primitives.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/lzoaowtez6) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
