@@ -1,24 +1,27 @@
 ---
-type: moc
-title: MCP Servers — category hub
-created: 2026-05-26
-tags: [moc, mcps]
+name: mcps
+type: mcps
+description: >
+  A thin MCP server that securely enables AI agents to interact with Home Assistant, Mealie, and Nirvana via tools for automation, recipe management, and task tracking, while keeping credentials hidden.
+source_repo: klausmark/mcps
+source_url: https://github.com/klausmark/mcps
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
 ---
+## What it is
+A thin MCP server that securely enables AI agents to interact with Home Assistant, Mealie, and Nirvana via tools for automation, recipe management, and task tracking, while keeping credentials hidden.
 
-# mcps
+## When to use it
+A thin MCP server that securely enables AI agents to interact with Home Assistant, Mealie, and Nirvana via tools for automation, recipe management, and task tracking, while keeping credentials hidden.
 
-Model Context Protocol servers — the standardized way to give an agent native tool access to an external system
-(GitHub, docs, memory stores, vaults, web scraping, payments, chat) without hand-rolling an integration per provider.
-A server exposes tools the agent calls; the client (the CLI) brokers the connection. These components cover the servers
-wired into a production harness, each with its install command and the situation it answers.
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/usmrja9meu) for the install config.
 
-## Components
-
-- [[github-mcp]] — issues, PRs, repo read/search
-- [[context7-mcp]] — current library/framework documentation
-- [[server-memory]] — persistent entity-graph memory
-- [[obsidian-mcpvault]] — read/write an Obsidian vault
-- [[firecrawl-mcp]] — web scraping and content extraction
-- [[stripe-mcp]] — payments and the agent-earns-its-compute rail
-- [[slack-mcp]] — post and read in Slack channels
-- [[mem0-mcp]] — cross-session long-term memory
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -1,0 +1,27 @@
+---
+name: huangtingflux-hub
+type: mcps
+description: >
+  Provides an MCP server that guides AI agents through a mandatory three-stage SOP to compress prompts and report token costs, reducing token usage by up to 40%.
+source_repo: XianDAO-Labs/huangting-flux-hub
+source_url: https://github.com/XianDAO-Labs/huangting-flux-hub
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Provides an MCP server that guides AI agents through a mandatory three-stage SOP to compress prompts and report token costs, reducing token usage by up to 40%.
+
+## When to use it
+Provides an MCP server that guides AI agents through a mandatory three-stage SOP to compress prompts and report token costs, reducing token usage by up to 40%.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/atmoa3whad) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
