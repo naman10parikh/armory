@@ -1,0 +1,27 @@
+---
+name: seo-auditor-mcp-2
+type: mcps
+description: >
+  Provides comprehensive technical SEO audits, Schema.org validation, AEO readiness checks, and semantic cannibalization detection via MCP and CLI.
+source_repo: klok123/seo-auditor-mcp
+source_url: https://github.com/klok123/seo-auditor-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Provides comprehensive technical SEO audits, Schema.org validation, AEO readiness checks, and semantic cannibalization detection via MCP and CLI.
+
+## When to use it
+Provides comprehensive technical SEO audits, Schema.org validation, AEO readiness checks, and semantic cannibalization detection via MCP and CLI.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/cjf7871ml2) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

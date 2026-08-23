@@ -1,0 +1,27 @@
+---
+name: jira-communication-server
+type: mcps
+description: >
+  Provides tools to interact with Jira, including JQL queries, ticket creation, editing, deletion, attachment, and project listing.
+source_repo: Yogeshknaik/jira-mcp-server
+source_url: https://github.com/Yogeshknaik/jira-mcp-server
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Provides tools to interact with Jira, including JQL queries, ticket creation, editing, deletion, attachment, and project listing.
+
+## When to use it
+Provides tools to interact with Jira, including JQL queries, ticket creation, editing, deletion, attachment, and project listing.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/uane6fr0u0) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -1,0 +1,27 @@
+---
+name: dtrack-mcp
+type: mcps
+description: >
+  MCP server that connects Claude to Dependency-Track for natural language vulnerability triage, analysis, and management.
+source_repo: drewrukin/dtrack-mcp
+source_url: https://github.com/drewrukin/dtrack-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server that connects Claude to Dependency-Track for natural language vulnerability triage, analysis, and management.
+
+## When to use it
+MCP server that connects Claude to Dependency-Track for natural language vulnerability triage, analysis, and management.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/xjoq8akgln) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

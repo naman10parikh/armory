@@ -1,0 +1,27 @@
+---
+name: tolstoymcp
+type: mcps
+description: >
+  Tolstoy MCP for AI-native ecommerce brands: Studio generates marketing videos and images, Library manages your media library, shoppable widgets, and ads, and Shopper searches products across brand stores with virtual try-on.
+source_repo: GoTolstoy/mcp
+source_url: https://github.com/GoTolstoy/mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Tolstoy MCP for AI-native ecommerce brands: Studio generates marketing videos and images, Library manages your media library, shoppable widgets, and ads, and Shopper searches products across brand stores with virtual try-on.
+
+## When to use it
+Tolstoy MCP for AI-native ecommerce brands: Studio generates marketing videos and images, Library manages your media library, shoppable widgets, and ads, and Shopper searches products across brand stores with virtual try-on.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/gwkf2axazk) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

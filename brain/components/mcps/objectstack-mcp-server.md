@@ -1,0 +1,27 @@
+---
+name: objectstack-mcp-server
+type: mcps
+description: >
+  Connects Claude Code to any ObjectStack deployment, enabling discovery, querying, and updating of objects and records, plus running business actions, all under user permissions and row-level security.
+source_repo: objectstack-ai/claude-plugin
+source_url: https://github.com/objectstack-ai/claude-plugin
+license: Apache 2.0
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Connects Claude Code to any ObjectStack deployment, enabling discovery, querying, and updating of objects and records, plus running business actions, all under user permissions and row-level security.
+
+## When to use it
+Connects Claude Code to any ObjectStack deployment, enabling discovery, querying, and updating of objects and records, plus running business actions, all under user permissions and row-level security.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/hped8n70ns) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

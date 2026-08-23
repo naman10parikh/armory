@@ -1,0 +1,27 @@
+---
+name: tennis-warehouse-mcp-server
+type: mcps
+description: >
+  Provides secure access to Tennis Warehouse product data via natural language queries, enabling product search, availability checks, and deal discovery.
+source_repo: gkedev/indio
+source_url: https://github.com/gkedev/indio
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Provides secure access to Tennis Warehouse product data via natural language queries, enabling product search, availability checks, and deal discovery.
+
+## When to use it
+Provides secure access to Tennis Warehouse product data via natural language queries, enabling product search, availability checks, and deal discovery.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/cqtm6kjmdg) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

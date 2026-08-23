@@ -1,0 +1,27 @@
+---
+name: elevor-erp360
+type: mcps
+description: >
+  Exposes the Elevor ERP360 API to MCP clients, enabling listing customers, checking credit limits, querying orders, syncing product catalog and stock, and creating e-commerce orders with stock updates, subject to scope-specific bearer tokens and write permissions.
+source_repo: vertexdevs-hq/elevor-mcp
+source_url: https://github.com/vertexdevs-hq/elevor-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Exposes the Elevor ERP360 API to MCP clients, enabling listing customers, checking credit limits, querying orders, syncing product catalog and stock, and creating e-commerce orders with stock updates, subject to scope-specific bearer tokens and write permissions.
+
+## When to use it
+Exposes the Elevor ERP360 API to MCP clients, enabling listing customers, checking credit limits, querying orders, syncing product catalog and stock, and creating e-commerce orders with stock updates, subject to scope-specific bearer tokens and write permissions.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/qcz67w1nna) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

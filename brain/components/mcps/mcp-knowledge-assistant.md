@@ -1,0 +1,27 @@
+---
+name: mcp-knowledge-assistant
+type: mcps
+description: >
+  A custom MCP server providing semantic note memory (Qdrant + FastEmbed) and optional web search (Tavily) tools for a LangGraph ReAct agent.
+source_repo: deepxk2403/mcp-knowledge-assistant
+source_url: https://github.com/deepxk2403/mcp-knowledge-assistant
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+A custom MCP server providing semantic note memory (Qdrant + FastEmbed) and optional web search (Tavily) tools for a LangGraph ReAct agent.
+
+## When to use it
+A custom MCP server providing semantic note memory (Qdrant + FastEmbed) and optional web search (Tavily) tools for a LangGraph ReAct agent.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/k2x598qiu5) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

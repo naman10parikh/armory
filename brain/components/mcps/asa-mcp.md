@@ -1,0 +1,27 @@
+---
+name: asa-mcp
+type: mcps
+description: >
+  Connect your ASA account to Claude, ChatGPT, and AI agents via Open Finance Brazil. Read balances, statements, credit card invoices, and investments using natural language.
+source_repo: mcp-dir/asa-mcp
+source_url: https://github.com/mcp-dir/asa-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Connect your ASA account to Claude, ChatGPT, and AI agents via Open Finance Brazil. Read balances, statements, credit card invoices, and investments using natural language.
+
+## When to use it
+Connect your ASA account to Claude, ChatGPT, and AI agents via Open Finance Brazil. Read balances, statements, credit card invoices, and investments using natural language.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/o135j8l4fr) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

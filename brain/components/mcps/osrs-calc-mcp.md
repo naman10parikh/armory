@@ -1,0 +1,27 @@
+---
+name: osrs-calc-mcp
+type: mcps
+description: >
+  Provides read-only access to OSRS Calc's skill calculators, training plans, FAQ, and official links for Old School RuneScape planning.
+source_repo: rocnubie/osrs-calc-mcp
+source_url: https://github.com/rocnubie/osrs-calc-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Provides read-only access to OSRS Calc's skill calculators, training plans, FAQ, and official links for Old School RuneScape planning.
+
+## When to use it
+Provides read-only access to OSRS Calc's skill calculators, training plans, FAQ, and official links for Old School RuneScape planning.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/vetejgip4u) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

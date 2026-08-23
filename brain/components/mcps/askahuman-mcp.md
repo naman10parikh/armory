@@ -1,0 +1,27 @@
+---
+name: askahuman-mcp
+type: mcps
+description: >
+  An MCP server that enables AI agents to request human verification for tasks requiring real-world understanding, paying via the Lightning Network, and receiving verified answers.
+source_repo: AskAHumanOnline/askahuman-mcp-server
+source_url: https://github.com/AskAHumanOnline/askahuman-mcp-server
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+An MCP server that enables AI agents to request human verification for tasks requiring real-world understanding, paying via the Lightning Network, and receiving verified answers.
+
+## When to use it
+An MCP server that enables AI agents to request human verification for tasks requiring real-world understanding, paying via the Lightning Network, and receiving verified answers.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/aiok3e3nqf) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

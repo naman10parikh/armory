@@ -1,0 +1,27 @@
+---
+name: agentskill-mcp
+type: mcps
+description: >
+  A universal MCP server that enables any MCP-compatible agent to use Anthropic's Claude Agent Skills with progressive disclosure, reducing context overhead while maximizing capability.
+source_repo: QianjieTech/Open-ClaudeSkill
+source_url: https://github.com/QianjieTech/Open-ClaudeSkill
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+A universal MCP server that enables any MCP-compatible agent to use Anthropic's Claude Agent Skills with progressive disclosure, reducing context overhead while maximizing capability.
+
+## When to use it
+A universal MCP server that enables any MCP-compatible agent to use Anthropic's Claude Agent Skills with progressive disclosure, reducing context overhead while maximizing capability.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/uy41gz6poe) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

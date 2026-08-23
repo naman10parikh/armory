@@ -1,0 +1,27 @@
+---
+name: white-hat-thumbnails
+type: mcps
+description: >
+  MCP server that lets AI assistants manage Roblox thumbnails end to end, including performance tracking, generation, publishing, auto-rotation, and Discord team notifications.
+source_repo: Haydebug/whitehat-thumbnails-mcp
+source_url: https://github.com/Haydebug/whitehat-thumbnails-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server that lets AI assistants manage Roblox thumbnails end to end, including performance tracking, generation, publishing, auto-rotation, and Discord team notifications.
+
+## When to use it
+MCP server that lets AI assistants manage Roblox thumbnails end to end, including performance tracking, generation, publishing, auto-rotation, and Discord team notifications.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/u8qcw30259) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

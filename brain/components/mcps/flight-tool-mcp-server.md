@@ -1,0 +1,27 @@
+---
+name: flight-tool-mcp-server
+type: mcps
+description: >
+  Enables AI agents to search real-time flight information by departure and arrival airport IATA codes, returning airline, flight number, times, and status via the AviationStack API.
+source_repo: Sanju-369/flight-mcp
+source_url: https://github.com/Sanju-369/flight-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables AI agents to search real-time flight information by departure and arrival airport IATA codes, returning airline, flight number, times, and status via the AviationStack API.
+
+## When to use it
+Enables AI agents to search real-time flight information by departure and arrival airport IATA codes, returning airline, flight number, times, and status via the AviationStack API.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ahrxi498lx) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

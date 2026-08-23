@@ -1,0 +1,27 @@
+---
+name: metalsmarket-bot
+type: mcps
+description: >
+  Enables LLM clients to query live and historical metal and commodity prices from metalsmarket.net through an MCP server.
+source_repo: Beratemek/metalsmarket-bot
+source_url: https://github.com/Beratemek/metalsmarket-bot
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables LLM clients to query live and historical metal and commodity prices from metalsmarket.net through an MCP server.
+
+## When to use it
+Enables LLM clients to query live and historical metal and commodity prices from metalsmarket.net through an MCP server.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/y3f07l506p) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

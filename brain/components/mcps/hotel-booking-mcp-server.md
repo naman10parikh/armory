@@ -1,0 +1,27 @@
+---
+name: hotel-booking-mcp-server
+type: mcps
+description: >
+  An MCP server that connects AI assistants like Claude to a Microsoft SQL Server hotel booking database, exposing tools to query customers, rooms, and bookings.
+source_repo: MyatThuta158/Hotel_Booking_MCP_Server
+source_url: https://github.com/MyatThuta158/Hotel_Booking_MCP_Server
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+An MCP server that connects AI assistants like Claude to a Microsoft SQL Server hotel booking database, exposing tools to query customers, rooms, and bookings.
+
+## When to use it
+An MCP server that connects AI assistants like Claude to a Microsoft SQL Server hotel booking database, exposing tools to query customers, rooms, and bookings.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/kfu2el5zxn) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -1,0 +1,27 @@
+---
+name: mcp-arcgis-sanbernardino
+type: mcps
+description: >
+  City of San Bernardino GIS — San Bernardino, California open geospatial data (ArcGIS).
+source_repo: pipeworx-io/mcp-arcgis-sanbernardino
+source_url: https://github.com/pipeworx-io/mcp-arcgis-sanbernardino
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+City of San Bernardino GIS — San Bernardino, California open geospatial data (ArcGIS).
+
+## When to use it
+City of San Bernardino GIS — San Bernardino, California open geospatial data (ArcGIS).
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/uhawqtzp6v) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

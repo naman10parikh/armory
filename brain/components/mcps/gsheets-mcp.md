@@ -1,0 +1,27 @@
+---
+name: gsheets-mcp
+type: mcps
+description: >
+  A local MCP server that lets Claude read and write Google Sheets through the Google Sheets API v4, using OAuth2 authentication with your own Google account.
+source_repo: mattiatrombella/google-sheets-mcp
+source_url: https://github.com/mattiatrombella/google-sheets-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+A local MCP server that lets Claude read and write Google Sheets through the Google Sheets API v4, using OAuth2 authentication with your own Google account.
+
+## When to use it
+A local MCP server that lets Claude read and write Google Sheets through the Google Sheets API v4, using OAuth2 authentication with your own Google account.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/m77s953ys0) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -1,0 +1,27 @@
+---
+name: satori
+type: mcps
+description: >
+  Agent-safe code retrieval MCP server that indexes repositories and provides semantic search, file navigation, call graph analysis, and bounded file reading tools for coding agents.
+source_repo: ham-zax/satori
+source_url: https://github.com/ham-zax/satori
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Agent-safe code retrieval MCP server that indexes repositories and provides semantic search, file navigation, call graph analysis, and bounded file reading tools for coding agents.
+
+## When to use it
+Agent-safe code retrieval MCP server that indexes repositories and provides semantic search, file navigation, call graph analysis, and bounded file reading tools for coding agents.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/es55i1mpep) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

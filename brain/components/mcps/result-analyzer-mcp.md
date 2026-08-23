@@ -1,0 +1,27 @@
+---
+name: result-analyzer-mcp
+type: mcps
+description: >
+  MCP server for querying, validating, and analyzing student result data from a local database.
+source_repo: faizullahbalti29/result-analyzer-mcp
+source_url: https://github.com/faizullahbalti29/result-analyzer-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server for querying, validating, and analyzing student result data from a local database.
+
+## When to use it
+MCP server for querying, validating, and analyzing student result data from a local database.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/nesnqx69s0) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

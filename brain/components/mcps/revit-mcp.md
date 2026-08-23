@@ -1,0 +1,27 @@
+---
+name: revit-mcp
+type: mcps
+description: >
+  Enables AI to interact with Revit via MCP, allowing data retrieval and element creation, modification, and deletion.
+source_repo: HoareLea/CJ_Revit-mcp-main
+source_url: https://github.com/HoareLea/CJ_Revit-mcp-main
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables AI to interact with Revit via MCP, allowing data retrieval and element creation, modification, and deletion.
+
+## When to use it
+Enables AI to interact with Revit via MCP, allowing data retrieval and element creation, modification, and deletion.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/lqav42xf7t) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

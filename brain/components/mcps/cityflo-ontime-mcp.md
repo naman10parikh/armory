@@ -1,0 +1,27 @@
+---
+name: cityflo-ontime-mcp
+type: mcps
+description: >
+  MCP server for analyzing bus route on-time performance, providing lateness summaries, trip drill-downs, and flagged data reports.
+source_repo: deepachaudharyoct10/cityflo-ontime-mcp
+source_url: https://github.com/deepachaudharyoct10/cityflo-ontime-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server for analyzing bus route on-time performance, providing lateness summaries, trip drill-downs, and flagged data reports.
+
+## When to use it
+MCP server for analyzing bus route on-time performance, providing lateness summaries, trip drill-downs, and flagged data reports.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/oqy2l69wzq) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

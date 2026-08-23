@@ -1,0 +1,27 @@
+---
+name: mcp-resources-giulia-ai
+type: mcps
+description: >
+  MCP server that demonstrates the Resources feature by exposing static and dynamic resources, including contact data and personalized greetings, through MCP.
+source_repo: wganalytics/mcp-resources-giulia-ai
+source_url: https://github.com/wganalytics/mcp-resources-giulia-ai
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+MCP server that demonstrates the Resources feature by exposing static and dynamic resources, including contact data and personalized greetings, through MCP.
+
+## When to use it
+MCP server that demonstrates the Resources feature by exposing static and dynamic resources, including contact data and personalized greetings, through MCP.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/meufyxma0z) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

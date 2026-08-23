@@ -1,0 +1,27 @@
+---
+name: rizomuv-mcp
+type: mcps
+description: >
+  Enables natural language control of RizomUV for UV unwrapping tasks, including loading, cutting, unfolding, packing, and saving meshes via both live socket and CLI fallback.
+source_repo: fkrn75/rizomuv-mcp
+source_url: https://github.com/fkrn75/rizomuv-mcp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables natural language control of RizomUV for UV unwrapping tasks, including loading, cutting, unfolding, packing, and saving meshes via both live socket and CLI fallback.
+
+## When to use it
+Enables natural language control of RizomUV for UV unwrapping tasks, including loading, cutting, unfolding, packing, and saving meshes via both live socket and CLI fallback.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/ajy9bzgysv) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

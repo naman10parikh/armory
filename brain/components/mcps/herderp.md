@@ -1,0 +1,27 @@
+---
+name: herderp
+type: mcps
+description: >
+  Wraps the herdr CLI to provide curated tools and session necromancy, allowing revival of previous Claude Code agent sessions from herdr spaces.
+source_repo: ryanthedev/herderp
+source_url: https://github.com/ryanthedev/herderp
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Wraps the herdr CLI to provide curated tools and session necromancy, allowing revival of previous Claude Code agent sessions from herdr spaces.
+
+## When to use it
+Wraps the herdr CLI to provide curated tools and session necromancy, allowing revival of previous Claude Code agent sessions from herdr spaces.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/sozzrqnula) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
