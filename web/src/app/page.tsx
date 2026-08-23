@@ -8,7 +8,7 @@ import { MagneticCta } from "@/components/magnetic-cta";
 import { CountUp } from "@/components/count-up";
 import { Reveal } from "@/components/reveal";
 import { SynapseGraph } from "@/components/synapse-graph";
-import { ArrowRightIcon, GraphIcon, SearchIcon } from "@/components/icons";
+import { ArrowRightIcon, SearchIcon } from "@/components/icons";
 
 // The landing page. Server component — counts + a SAMPLED graph come straight
 // from catalog.json at build time. The hero graph is a ≤30-node teaser; the full
@@ -38,37 +38,32 @@ export default function HomePage() {
           </p>
 
           <p className="mt-6 max-w-xl text-base leading-relaxed text-ink-body sm:text-lg">
-            Armory is the open, self-improving registry of every agent-harness
-            component —{" "}
-            <span className="text-ink-hi">
-              MCPs, skills, hooks, sub-agents, memory, evals, observability,
-              infrastructure
-            </span>{" "}
-            — and the workflows that compose them. Your coding agent recalls the
-            right piece straight into its harness. It is part of the harness, not
-            a bookmark.
+            The <span className="text-ink-hi">ranked</span> index of every
+            open-source building block for the agent stack — MCPs, CLIs, skills,
+            hooks, and more. <span className="text-ink-hi">Agents crawl it, rank
+            it, and keep it current</span>, so yours pulls the best, most
+            up-to-date piece — not a stale list a human forgot to update.
           </p>
 
           <div className="mt-9 flex flex-wrap items-center gap-x-5 gap-y-3">
             <MagneticCta
-              href="/browse"
+              href="/leaderboard"
               icon={<ArrowRightIcon size={15} className="text-base" />}
             >
-              <SearchIcon size={15} className="text-base" />
-              Gear up
+              See the leaderboard
             </MagneticCta>
             <Link
-              href="/graph"
+              href="/browse"
               className="inline-flex cursor-pointer items-center gap-2 text-sm font-medium text-ink-body transition-colors hover:text-accent-hover"
             >
-              <GraphIcon size={16} />
-              See the synapse graph
+              <SearchIcon size={16} />
+              Browse the catalog
             </Link>
           </div>
 
           <p className="mt-7 font-mono text-[13px] text-ink-muted">
-            <CountUp value={total} className="text-ink-hi" /> component
-            {total === 1 ? "" : "s"} indexed · 12 categories · self-evolving
+            <CountUp value={total} className="text-ink-hi" /> building block
+            {total === 1 ? "" : "s"}, ranked · updated by agents, not by hand
           </p>
         </div>
 
@@ -134,10 +129,10 @@ export default function HomePage() {
         <Reveal className="mb-6 flex items-end justify-between gap-6">
           <div>
             <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-accent">
-              the synapses
+              the map
             </span>
             <h2 className="mt-2 font-serif text-[clamp(1.75rem,3.5vw,2.75rem)] leading-none tracking-[-0.015em] text-ink-hi">
-              Every related[] is an edge.
+              How the pieces connect.
             </h2>
           </div>
           <Link

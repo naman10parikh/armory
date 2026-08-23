@@ -6,7 +6,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 interface Primary { key: string; value: number | null; pct: number; label: string }
 interface Row {
   name: string; component: string; domain: string; url?: string | null; license?: string | null;
-  universal: number | null; primary?: Primary | null;
+  universal: number | null; primary?: Primary | null; verified?: boolean;
   stars: number | null; usage: number | null; tested: number | null; mentions: number | null; desc: string;
 }
 interface Facet { key: string; count: number }
@@ -126,6 +126,7 @@ export default function Leaderboard() {
                 <td style={{ ...td }}>{i.universal != null ? <span style={{ fontWeight: 700, fontSize: 15, color: "var(--text-hi)", fontVariantNumeric: "tabular-nums" }}>{i.universal}</span> : <span style={{ color: "var(--text-muted)" }}>—</span>}</td>
                 <td style={td}>
                   {i.url ? <a href={i.url} target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-hi)", fontWeight: 500 }}>{i.name}</a> : <span style={{ color: "var(--text-hi)", fontWeight: 500 }}>{i.name}</span>}
+                  {i.verified && <span title="we installed + measured this" style={{ marginLeft: 6, fontSize: 11, color: "var(--accent)", border: "1px solid var(--accent-line)", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" }}>✓ verified</span>}
                   <div style={{ color: "var(--text-muted)", fontSize: 12, marginTop: 3, maxWidth: "56ch" }}>{i.desc}</div>
                 </td>
                 <td style={{ ...td, whiteSpace: "nowrap" }} title={allSignals(i)}>
