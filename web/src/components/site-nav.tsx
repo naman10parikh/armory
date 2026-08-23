@@ -22,6 +22,13 @@ export function SiteNav() {
         </Link>
 
         <div className="flex items-center gap-0.5 text-sm">
+          <Link
+            href="/leaderboard"
+            className="flex cursor-pointer items-center gap-1.5 rounded-full bg-accent-quiet px-3 py-1.5 font-medium text-accent transition-colors hover:bg-accent-line"
+          >
+            <RankIcon size={15} />
+            <span>Leaderboard</span>
+          </Link>
           <NavLink href="/browse" icon={<SearchIcon size={15} />}>
             Browse
           </NavLink>
@@ -40,6 +47,14 @@ export function SiteNav() {
         </div>
       </nav>
     </header>
+  );
+}
+
+function RankIcon({ size = 16 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" aria-hidden="true">
+      <path d="M6 20V10M12 20V4M18 20v-6" />
+    </svg>
   );
 }
 

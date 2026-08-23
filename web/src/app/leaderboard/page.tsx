@@ -3,9 +3,11 @@
 // and domain, sortable on any axis. Calls GET /api/rank. Warm-black + Synapse-Amber, editorial.
 import { useCallback, useEffect, useMemo, useState } from "react";
 
+interface Primary { key: string; value: number | null; pct: number; label: string }
 interface Row {
-  name: string; component: string; domain: string; url?: string | null;
-  universal: number | null; stars: number | null; tested: number | null; mentions: number | null; desc: string;
+  name: string; component: string; domain: string; url?: string | null; license?: string | null;
+  universal: number | null; primary?: Primary | null;
+  stars: number | null; tested: number | null; mentions: number | null; desc: string;
 }
 interface Facet { key: string; count: number }
 interface Result {
@@ -17,7 +19,24 @@ const SORTS: [string, string][] = [
   ["universal", "Universal score"], ["popular", "Most popular"], ["tested", "Best tested"],
   ["practitioner", "Practitioner pick"], ["stars", "Most stars"], ["name", "A–Z"],
 ];
-const num = (n: number | null) => (n == null ? "—" : n.toLocaleString());
+
+// Show each row's PRIMARY metric (its claim to fame) — not a universal stars column, since most
+// artifacts have no stars. Websites show pageviews, packages downloads, repos stars/forks.
+function primaryLabel(i: Row): { text: string; glyph: string } {
+  const p = i.primary;
+  if (!p || p.value == null) return { text: "—", glyph: "" };
+  if (p.key === "tested") return { text: "verified", glyph: "✓" };
+  if (p.key === "mentions") return { text: `${p.value} mentioned`, glyph: "♦" };
+  if (p.key === "stars") return { text: Number(p.value).toLocaleString(), glyph: "★" };
+  return { text: `${Number(p.value).toLocaleString()} ${p.key}`, glyph: "" };
+}
+function allSignals(i: Row): string {
+  const bits: string[] = [];
+  if (i.stars != null) bits.push(`★ ${Number(i.stars).toLocaleString()} stars`);
+  if (i.tested != null) bits.push(`✓ tested (${Math.round(i.tested * 100)}%)`);
+  if (i.mentions != null) bits.push(`♦ ${i.mentions} mentions`);
+  return bits.length ? bits.join(" · ") : "no measured signals yet";
+}
 
 export default function Leaderboard() {
   const [data, setData] = useState<Result | null>(null);
@@ -54,7 +73,6 @@ export default function Leaderboard() {
   const slice = [component, domain].filter(Boolean).join(" × ") || "everything";
   const th: React.CSSProperties = { textAlign: "left", fontSize: 10.5, textTransform: "uppercase", letterSpacing: "0.09em", color: "var(--text-muted)", fontWeight: 600, padding: "12px 14px", borderBottom: "1px solid var(--line-default)", whiteSpace: "nowrap" };
   const td: React.CSSProperties = { padding: "10px 14px", borderBottom: "1px solid var(--line-subtle)", verticalAlign: "top" };
-  const numTd: React.CSSProperties = { ...td, textAlign: "right", fontVariantNumeric: "tabular-nums", whiteSpace: "nowrap" };
   const sel: React.CSSProperties = { font: "inherit", fontSize: 13.5, color: "var(--text-hi)", background: "var(--bg-raise-1)", border: "1px solid var(--line-default)", borderRadius: 8, padding: "7px 11px", cursor: "pointer" };
 
   return (
@@ -94,9 +112,8 @@ export default function Leaderboard() {
               <th style={th}>#</th>
               <th style={{ ...th, cursor: "pointer" }} onClick={() => clickSort("universal")}>universal{arrow("universal")}</th>
               <th style={th}>name — what it is</th>
-              <th style={{ ...th, cursor: "pointer", textAlign: "right" }} onClick={() => clickSort("stars")}>★ stars{arrow("stars")}</th>
-              <th style={{ ...th, cursor: "pointer", textAlign: "right" }} onClick={() => clickSort("tested")}>tested{arrow("tested")}</th>
-              <th style={{ ...th, cursor: "pointer", textAlign: "right" }} onClick={() => clickSort("practitioner")}>mentions{arrow("practitioner")}</th>
+              <th style={{ ...th }} title="each artifact's strongest metric — hover a row for all of them">top signal</th>
+              <th style={th}>component</th>
               <th style={th}>domain</th>
             </tr>
           </thead>
@@ -109,13 +126,16 @@ export default function Leaderboard() {
                   {i.url ? <a href={i.url} target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-hi)", fontWeight: 500 }}>{i.name}</a> : <span style={{ color: "var(--text-hi)", fontWeight: 500 }}>{i.name}</span>}
                   <div style={{ color: "var(--text-muted)", fontSize: 12, marginTop: 3, maxWidth: "56ch" }}>{i.desc}</div>
                 </td>
-                <td style={numTd}>{num(i.stars)}</td>
-                <td style={numTd}>{i.tested != null ? Math.round(i.tested * 100) + "%" : "—"}</td>
-                <td style={numTd}>{num(i.mentions)}</td>
+                <td style={{ ...td, whiteSpace: "nowrap" }} title={allSignals(i)}>
+                  {(() => { const p = primaryLabel(i); return p.text === "—"
+                    ? <span style={{ color: "var(--text-muted)" }}>—</span>
+                    : <span style={{ color: "var(--text-body)" }}><span style={{ color: "var(--accent)" }}>{p.glyph}</span> {p.text}</span>; })()}
+                </td>
+                <td style={{ ...td, color: "var(--text-muted)", fontSize: 12, whiteSpace: "nowrap" }}>{i.component}</td>
                 <td style={{ ...td, color: "var(--text-muted)", fontSize: 12, whiteSpace: "nowrap" }}>{i.domain}</td>
               </tr>
             ))}
-            {data && data.items.length === 0 && <tr><td style={{ ...td, color: "var(--text-muted)" }} colSpan={7}>nothing in this slice yet</td></tr>}
+            {data && data.items.length === 0 && <tr><td style={{ ...td, color: "var(--text-muted)" }} colSpan={6}>nothing in this slice yet</td></tr>}
           </tbody>
         </table>
       </div>

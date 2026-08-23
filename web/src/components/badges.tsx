@@ -22,7 +22,7 @@ export function TypePill({ type }: { type: ComponentType }) {
 // Maturity = dot + label (colour is NEVER the sole signal — anti-slop #12).
 const MATURITY: Record<string, { dot: string; text: string; label: string }> = {
   stable: { dot: "bg-ok", text: "text-ok", label: "stable" },
-  beta: { dot: "bg-warn", text: "text-warn", label: "beta" },
+  beta: { dot: "bg-warn", text: "text-warn", label: "preview" },
   experimental: { dot: "bg-info", text: "text-info", label: "experimental" },
 };
 
