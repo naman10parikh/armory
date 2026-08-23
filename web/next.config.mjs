@@ -12,6 +12,10 @@ const nextConfig = {
   // project root (site/).
   outputFileTracingIncludes: {
     "/e/[type]/[slug]": ["./catalog.json", "./brain/**/*"],
+    // The ranking routes read the vendored catalog + import the vendored engine at runtime — trace
+    // both into each serverless function so they ship on Vercel (dev reads them off disk directly).
+    "/api/rank": ["./catalog.json", "./lib/rank.mjs"],
+    "/api/rank.csv": ["./catalog.json", "./lib/rank.mjs"],
   },
 };
 
