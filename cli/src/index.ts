@@ -150,6 +150,49 @@ program
     }
   });
 
+interface RankRow {
+  name: string; component: string; domain: string; url?: string;
+  universal: number | null; stars: number | null; tested: number | null; mentions: number | null; desc: string;
+}
+interface RankResult { items: RankRow[]; total: number; sort: string; dir: string; facets: { total: number } }
+
+// The Universal ranking engine (portable ESM shared with the site + MCP). Dynamic import keeps the
+// TS build decoupled from the plain-JS engine.
+async function rankEngine(): Promise<{ leaderboard: (o: object) => RankResult }> {
+  return (await import("../../lib/rank.mjs")) as { leaderboard: (o: object) => RankResult };
+}
+
+program
+  .command("rank")
+  .description("Rank open-source building blocks by Universal score (or another axis), sliceable by component + domain.")
+  .option("-c, --component <type>", "filter to one component: mcp|cli|skill|plugin|hook|subagent|rules|tool|...")
+  .option("-d, --domain <domain>", "filter to one domain: front-end|back-end|browser|payments|ai-agents|...")
+  .option("-s, --sort <axis>", "universal|popular|tested|practitioner|stars|name", "universal")
+  .option("--asc", "ascending instead of descending", false)
+  .option("-n, --limit <n>", "max results", "20")
+  .option("--json", "emit JSON (for agents)", false)
+  .action(async (opts: { component?: string; domain?: string; sort: string; asc: boolean; limit: string; json: boolean }) => {
+    const { leaderboard } = await rankEngine();
+    const lb = leaderboard({
+      component: opts.component, domain: opts.domain, sort: opts.sort,
+      dir: opts.asc ? "asc" : "desc", limit: Number(opts.limit) || 20,
+    });
+    if (opts.json) { console.log(JSON.stringify(lb, null, 2)); return; }
+    const slice = [opts.component, opts.domain].filter(Boolean).join(" × ") || "everything";
+    console.log(chalk.bold(`\nTop ${lb.items.length} in ${slice}`) + chalk.dim(`  ·  ${lb.total.toLocaleString()} of ${lb.facets.total.toLocaleString()} · by ${lb.sort} ${lb.dir}\n`));
+    let rank = 0;
+    for (const i of lb.items) {
+      rank++;
+      const u = i.universal != null ? chalk.bold(String(i.universal).padStart(4)) : chalk.dim("   —");
+      const star = i.stars != null ? chalk.yellow(`★${i.stars.toLocaleString()}`) : "";
+      const ment = i.mentions != null ? chalk.magenta(`♦${i.mentions}`) : "";
+      console.log(`${chalk.dim(String(rank).padStart(3))}  ${u}  ${chalk.green(i.name)} ${typeBadge(i.component)} ${chalk.dim(i.domain)} ${star} ${ment}`);
+      if (i.desc) console.log(`      ${chalk.dim(i.desc.slice(0, 96))}`);
+      if (i.url) console.log(`      ${chalk.blue(i.url)}`);
+    }
+    console.log("");
+  });
+
 program.parseAsync(process.argv).catch((err: unknown) => {
   console.error(chalk.red(`armory: ${(err as Error).message}`));
   process.exitCode = 1;
