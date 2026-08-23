@@ -5,14 +5,14 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 
 interface Primary { key: string; value: number | null; pct: number; label: string }
 interface Row {
-  name: string; component: string; domain: string; url?: string | null; license?: string | null;
+  name: string; component: string; domain: string; vertical?: string | null; url?: string | null; license?: string | null;
   universal: number | null; primary?: Primary | null; verified?: boolean;
   stars: number | null; usage: number | null; tested: number | null; mentions: number | null; desc: string;
 }
 interface Facet { key: string; count: number }
 interface Result {
   items: Row[]; total: number; sort: string; dir: string;
-  facets: { components: Facet[]; domains: Facet[]; total: number };
+  facets: { components: Facet[]; domains: Facet[]; verticals: Facet[]; total: number };
 }
 
 const SORTS: [string, string][] = [
@@ -45,6 +45,7 @@ export default function Leaderboard() {
   const [err, setErr] = useState<string>("");
   const [component, setComponent] = useState("");
   const [domain, setDomain] = useState("");
+  const [vertical, setVertical] = useState("");
   const [sort, setSort] = useState("universal");
   const [dir, setDir] = useState<"desc" | "asc">("desc");
 
@@ -52,19 +53,21 @@ export default function Leaderboard() {
     const q = new URLSearchParams();
     if (component) q.set("component", component);
     if (domain) q.set("domain", domain);
+    if (vertical) q.set("vertical", vertical);
     q.set("sort", sort); q.set("dir", dir); q.set("limit", "150");
     fetch("/api/rank?" + q.toString())
       .then((r) => r.json()).then(setData).catch((e) => setErr(String(e)));
-  }, [component, domain, sort, dir]);
+  }, [component, domain, vertical, sort, dir]);
   useEffect(() => { load(); }, [load]);
 
   const csvHref = useMemo(() => {
     const q = new URLSearchParams();
     if (component) q.set("component", component);
     if (domain) q.set("domain", domain);
+    if (vertical) q.set("vertical", vertical);
     q.set("sort", sort); q.set("dir", dir);
     return "/api/rank.csv?" + q.toString();
-  }, [component, domain, sort, dir]);
+  }, [component, domain, vertical, sort, dir]);
 
   const clickSort = (axis: string) => {
     if (sort === axis) setDir(dir === "desc" ? "asc" : "desc");
@@ -72,7 +75,7 @@ export default function Leaderboard() {
   };
   const arrow = (axis: string) => (sort === axis ? <span style={{ color: "var(--accent)", fontSize: 9 }}> {dir === "asc" ? "▲" : "▼"}</span> : null);
 
-  const slice = [component, domain].filter(Boolean).join(" × ") || "everything";
+  const slice = [component, domain, vertical].filter(Boolean).join(" × ") || "everything";
   const th: React.CSSProperties = { textAlign: "left", fontSize: 10.5, textTransform: "uppercase", letterSpacing: "0.09em", color: "var(--text-muted)", fontWeight: 600, padding: "12px 14px", borderBottom: "1px solid var(--line-default)", whiteSpace: "nowrap" };
   const td: React.CSSProperties = { padding: "10px 14px", borderBottom: "1px solid var(--line-subtle)", verticalAlign: "top" };
   const sel: React.CSSProperties = { font: "inherit", fontSize: 13.5, color: "var(--text-hi)", background: "var(--bg-raise-1)", border: "1px solid var(--line-default)", borderRadius: 8, padding: "7px 11px", cursor: "pointer" };
@@ -96,6 +99,10 @@ export default function Leaderboard() {
         <select aria-label="domain" style={sel} value={domain} onChange={(e) => setDomain(e.target.value)}>
           <option value="">every domain</option>
           {data?.facets.domains.map((d) => <option key={d.key} value={d.key}>{d.key}</option>)}
+        </select>
+        <select aria-label="vertical" style={sel} value={vertical} onChange={(e) => setVertical(e.target.value)}>
+          <option value="">every vertical</option>
+          {data?.facets.verticals.map((v) => <option key={v.key} value={v.key}>{v.key}</option>)}
         </select>
         <select aria-label="sort by" style={sel} value={sort} onChange={(e) => { setSort(e.target.value); setDir("desc"); }}>
           {SORTS.map(([k, l]) => <option key={k} value={k}>{l}</option>)}

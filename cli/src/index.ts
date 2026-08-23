@@ -5,7 +5,7 @@
 import { basename } from "node:path";
 import { Command } from "commander";
 import chalk from "chalk";
-import { loadCatalog, rankComponents, readComponentBody, type Component } from "./catalog.js";
+import { loadCatalog, readComponentBody, type Component } from "./catalog.js";
 import { validateAndCopy, type SubmitResult } from "./submit.js";
 import { runInstall, type InstallReport } from "./install.js";
 
@@ -24,28 +24,98 @@ function typeBadge(type: string): string {
   return chalk.cyan(`[${type}]`);
 }
 
+// --- search: keyword relevance over the catalog, enriched by the Universal engine ---------------
+// The programmatic query surface for agents. A term in the name outweighs a tag, which outweighs the
+// body (no LLM, no network) — the SAME simple scorer as GET /api/search and the MCP `search_catalog`
+// tool, so all three rank identically. computeRows adds each hit's normalized component, domain,
+// Universal score, and primary signal.
+interface EngineRow {
+  name: string; component: string; domain: string; url: string | null; desc: string;
+  scores: { universal: number | null };
+  primary: { key: string; value: number | null; pct: number; label: string } | null;
+}
+
+async function computeEngineRows(components: Component[]): Promise<EngineRow[]> {
+  // The engine's .d.mts predates computeRows (it declares leaderboard/rows/facets); intersect the real
+  // module type with the missing export so this stays type-safe without touching the engine or its types.
+  const mod = (await import("../../lib/rank.mjs")) as typeof import("../../lib/rank.mjs") & {
+    computeRows: (c: unknown[]) => EngineRow[];
+  };
+  return mod.computeRows(components); // same order as the input array (a .map)
+}
+
+const tokenize = (text: string): string[] =>
+  text.toLowerCase().split(/[^a-z0-9]+/).filter((t) => t.length > 1);
+
+function keywordScore(component: Component, qTerms: string[]): number {
+  const name = new Set(tokenize(component.name));
+  const tags = new Set(tokenize((component.tags || []).join(" ")));
+  const desc = new Set(tokenize(component.description || ""));
+  let s = 0;
+  for (const term of qTerms) {
+    if (name.has(term)) s += 3;
+    if (tags.has(term)) s += 2;
+    if (desc.has(term)) s += 1;
+  }
+  return s;
+}
+
 program
   .command("search")
-  .description("Keyword-rank components by name + description + tags.")
+  .description("Keyword-search components by name + description + tags, enriched with the Universal score; sliceable by component + domain.")
   .argument("<query>", "search terms")
-  .option("-t, --type <type>", "filter to one component type")
+  .option("-c, --component <type>", "filter to one component: mcp|cli|skill|plugin|hook|subagent|rules|tool|...")
+  .option("-d, --domain <domain>", "filter to one domain: front-end|back-end|browser|payments|ai-agents|...")
+  .option("-t, --type <type>", "alias for --component (back-compat)")
   .option("-n, --limit <n>", "max results", "10")
-  .action((query: string, opts: { type?: string; limit: string }) => {
-    let components = loadCatalog().components;
-    if (opts.type) components = components.filter((e) => e.type === opts.type);
-    const ranked = rankComponents(components, query).slice(0, Number(opts.limit) || 10);
-    if (ranked.length === 0) {
+  .option("--json", "emit JSON (for agents)", false)
+  .action(async (query: string, opts: { component?: string; domain?: string; type?: string; limit: string; json: boolean }) => {
+    const component = opts.component || opts.type;
+    const qTerms = [...new Set(tokenize(query))];
+    const components = loadCatalog().components;
+    const rows = await computeEngineRows(components);
+    const scored = components
+      .map((c, i) => ({ row: rows[i], score: keywordScore(c, qTerms) }))
+      .filter(
+        ({ row, score }) =>
+          score > 0 && (!component || row.component === component) && (!opts.domain || row.domain === opts.domain),
+      )
+      .sort(
+        (a, b) =>
+          b.score - a.score ||
+          (b.row.scores.universal ?? -1) - (a.row.scores.universal ?? -1) ||
+          a.row.name.localeCompare(b.row.name),
+      );
+    const items = scored.slice(0, Number(opts.limit) || 10).map(({ row }) => ({
+      name: row.name, component: row.component, domain: row.domain, url: row.url ?? null,
+      universal: row.scores.universal, primary: row.primary, desc: row.desc,
+    }));
+
+    if (opts.json) {
+      console.log(JSON.stringify({ items, total: scored.length }, null, 2));
+      return;
+    }
+    if (items.length === 0) {
       console.log(chalk.yellow(`No components matched "${query}".`));
       return;
     }
-    console.log(chalk.bold(`\nTop ${ranked.length} for "${query}":\n`));
-    for (const { component, score } of ranked) {
-      console.log(
-        `${chalk.green(component.name)} ${typeBadge(component.type)} ${chalk.dim(`(${score.toFixed(2)})`)}`
-      );
-      console.log(`  ${component.description.trim()}`);
-      console.log(`  ${chalk.blue(component.source_url)}\n`);
+    const slice = [component, opts.domain].filter(Boolean).join(" × ");
+    console.log(
+      chalk.bold(`\nTop ${items.length} for "${query}"`) +
+        (slice ? chalk.dim(`  ·  ${slice}`) : "") +
+        chalk.dim(`  ·  ${scored.length} match${scored.length === 1 ? "" : "es"}\n`),
+    );
+    let rank = 0;
+    for (const i of items) {
+      rank += 1;
+      const u = i.universal != null ? chalk.bold(String(i.universal).padStart(4)) : chalk.dim("   —");
+      const prim =
+        i.primary && i.primary.value != null ? chalk.yellow(`${i.primary.label} ${i.primary.value.toLocaleString()}`) : "";
+      console.log(`${chalk.dim(String(rank).padStart(3))}  ${u}  ${chalk.green(i.name)} ${typeBadge(i.component)} ${chalk.dim(i.domain)} ${prim}`);
+      if (i.desc) console.log(`      ${chalk.dim(i.desc.slice(0, 96))}`);
+      if (i.url) console.log(`      ${chalk.blue(i.url)}`);
     }
+    console.log("");
   });
 
 program

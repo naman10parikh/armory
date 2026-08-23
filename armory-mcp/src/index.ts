@@ -12,6 +12,32 @@ import {
 } from "./catalog.js";
 import { submitMarkdown } from "./submit.js";
 
+// Enriched shape returned by the shared engine's computeRows (a normalized component + domain, a 0-100
+// Universal score, and the primary popularity signal). Used by the `search_catalog` tool below.
+interface EngineRow {
+  name: string; component: string; domain: string; url: string | null; desc: string;
+  scores: { universal: number | null };
+  primary: { key: string; value: number | null; pct: number; label: string } | null;
+}
+
+const tokenize = (text: string): string[] =>
+  text.toLowerCase().split(/[^a-z0-9]+/).filter((t) => t.length > 1);
+
+// Simple, deterministic keyword score: a term in the name outweighs a tag, which outweighs the body.
+// No LLM, no network — the SAME scorer as the CLI `search` command and GET /api/search.
+function keywordScore(component: Component, qTerms: string[]): number {
+  const name = new Set(tokenize(component.name));
+  const tags = new Set(tokenize((component.tags || []).join(" ")));
+  const desc = new Set(tokenize(component.description || ""));
+  let s = 0;
+  for (const term of qTerms) {
+    if (name.has(term)) s += 3;
+    if (tags.has(term)) s += 2;
+    if (desc.has(term)) s += 1;
+  }
+  return s;
+}
+
 export function createServer(): McpServer {
   const server = new McpServer({ name: "armory", version: "0.1.0" });
 
@@ -133,6 +159,56 @@ export function createServer(): McpServer {
       const { leaderboard } = await import("../../lib/rank.mjs");
       const lb = leaderboard({ component, domain, sort, dir: ascending ? "asc" : "desc", limit });
       return { content: [{ type: "text" as const, text: JSON.stringify(lb, null, 2) }] };
+    }
+  );
+
+  server.registerTool(
+    "search_catalog",
+    {
+      title: "Search catalog",
+      description:
+        "Keyword-search the catalog by name + description + tags and return ranked JSON, each hit enriched with its normalized component type, domain, 0-100 Universal score, and primary signal. Optional component and domain filters. Use to find the building blocks that match a task phrase — e.g. 'browser automation' MCPs, or 'oauth' skills. Deterministic keyword relevance, no LLM. Complements rank_components: search finds by words, rank orders a whole slice by score.",
+      inputSchema: z.object({
+        query: z.string().min(1).describe("search terms"),
+        component: z
+          .string()
+          .optional()
+          .describe("filter to one component type: mcp|cli|skill|plugin|hook|subagent|rules|tool|memory|eval|..."),
+        domain: z
+          .string()
+          .optional()
+          .describe("filter to one domain: front-end|back-end|browser|payments|ai-agents|database|auth|search|devops|comms|..."),
+        limit: z.number().int().positive().max(100).default(20),
+      }),
+    },
+    async ({ query, component, domain, limit }) => {
+      const components = loadCatalog().components;
+      // The engine's .d.mts predates computeRows (it declares leaderboard/rows/facets); intersect the
+      // real module type with the missing export to stay type-safe without touching the engine or types.
+      const { computeRows } = (await import("../../lib/rank.mjs")) as typeof import("../../lib/rank.mjs") & {
+        computeRows: (c: unknown[]) => EngineRow[];
+      };
+      const rows = computeRows(components); // same order as components (a .map)
+      const qTerms = [...new Set(tokenize(query))];
+      const scored = components
+        .map((c, i) => ({ row: rows[i], score: keywordScore(c, qTerms) }))
+        .filter(
+          ({ row, score }) =>
+            score > 0 && (!component || row.component === component) && (!domain || row.domain === domain),
+        )
+        .sort(
+          (a, b) =>
+            b.score - a.score ||
+            (b.row.scores.universal ?? -1) - (a.row.scores.universal ?? -1) ||
+            a.row.name.localeCompare(b.row.name),
+        );
+      const items = scored.slice(0, limit).map(({ row }) => ({
+        name: row.name, component: row.component, domain: row.domain, url: row.url,
+        universal: row.scores.universal, primary: row.primary, desc: row.desc,
+      }));
+      return {
+        content: [{ type: "text" as const, text: JSON.stringify({ items, total: scored.length }, null, 2) }],
+      };
     }
   );
 

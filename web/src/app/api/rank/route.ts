@@ -26,6 +26,7 @@ export function GET(req: Request): NextResponse {
   const lb = rankRows(rows(), {
     component: sp.get("component") || null,
     domain: sp.get("domain") || null,
+    vertical: sp.get("vertical") || null,
     sort: sp.get("sort") || "universal",
     dir: sp.get("dir") || "desc",
     limit: Math.min(Number(sp.get("limit")) || 100, 500),
