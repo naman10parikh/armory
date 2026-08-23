@@ -1,0 +1,27 @@
+---
+name: apple-health-coverage-mcp
+type: mcps
+description: >
+  Enables coverage-aware Apple Health metrics, distinguishing observed values from placeholders and providing day-level coverage and trend tools.
+source_repo: mayank-youdata/apple-health-coverage-mcp
+source_url: https://github.com/mayank-youdata/apple-health-coverage-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables coverage-aware Apple Health metrics, distinguishing observed values from placeholders and providing day-level coverage and trend tools.
+
+## When to use it
+Enables coverage-aware Apple Health metrics, distinguishing observed values from placeholders and providing day-level coverage and trend tools.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/u6kw1dsl67) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
