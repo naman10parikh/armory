@@ -12,7 +12,7 @@ import { buildNeighborhood } from "@/lib/graph";
 import type { Component } from "@/lib/types";
 import { CliChip, MaturityBadge, TagChip, TypePill } from "@/components/badges";
 import { ComponentCard } from "@/components/component-card";
-import { InstallStrip } from "@/components/install-strip";
+import { InstallModal } from "@/components/install-modal";
 import { SynapseGraph } from "@/components/synapse-graph";
 import {
   ArrowLeftIcon,
@@ -113,9 +113,10 @@ export default async function ComponentDetailPage({
             </p>
           </header>
 
-          {/* Install strip — THE headline: one-click install per harness */}
+          {/* Install — THE headline: one-click install per harness, in a focused
+              popup so it no longer leaks down the page. */}
           <div className="mt-8">
-            <InstallStrip component={component} />
+            <InstallModal component={component} />
           </div>
 
           {/* Markdown body from the brain vault */}

@@ -27,8 +27,9 @@ export function SiteFooter() {
 
         <Reveal index={1} className="flex flex-wrap gap-x-10 gap-y-6 text-sm">
           <FooterCol title="Explore">
+            <FooterLink href="/leaderboard">Leaderboard</FooterLink>
             <FooterLink href="/browse">Browse</FooterLink>
-            <FooterLink href="/graph">Synapse graph</FooterLink>
+            <FooterLink href="/graph">The map</FooterLink>
           </FooterCol>
           <FooterCol title="Build">
             <FooterA href={`${REPO}/blob/main/CONTRIBUTING.md`}>Contribute</FooterA>
