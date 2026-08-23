@@ -52,6 +52,25 @@ function copyBrain() {
   console.log("[copy-data] copied brain/components");
 }
 
+function copyRankEngine() {
+  // The ranking engine reads its SIBLING catalog.json, so a copy at web/lib/rank.mjs auto-reads the
+  // web/catalog.json copied above — keeping the deployed site self-contained (no parent-dir reach).
+  const src = join(REPO_ROOT, "lib", "rank.mjs");
+  const destDir = join(SITE_DIR, "lib");
+  const dest = join(destDir, "rank.mjs");
+  if (!existsSync(src)) {
+    if (existsSync(dest)) {
+      console.warn("[copy-data] ../lib/rank.mjs missing; using existing local copy.");
+      return;
+    }
+    throw new Error(`[copy-data] rank.mjs not found at ${src} and no local copy exists.`);
+  }
+  mkdirSync(destDir, { recursive: true });
+  copyFileSync(src, dest);
+  console.log("[copy-data] copied lib/rank.mjs");
+}
+
 copyCatalog();
 copyBrain();
+copyRankEngine();
 console.log("[copy-data] done — site is self-contained.");
