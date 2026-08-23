@@ -7,7 +7,7 @@ interface Primary { key: string; value: number | null; pct: number; label: strin
 interface Row {
   name: string; component: string; domain: string; url?: string | null; license?: string | null;
   universal: number | null; primary?: Primary | null;
-  stars: number | null; tested: number | null; mentions: number | null; desc: string;
+  stars: number | null; usage: number | null; tested: number | null; mentions: number | null; desc: string;
 }
 interface Facet { key: string; count: number }
 interface Result {
@@ -27,12 +27,14 @@ function primaryLabel(i: Row): { text: string; glyph: string } {
   if (!p || p.value == null) return { text: "—", glyph: "" };
   if (p.key === "tested") return { text: "verified", glyph: "✓" };
   if (p.key === "mentions") return { text: `${p.value} mentioned`, glyph: "♦" };
-  if (p.key === "stars") return { text: Number(p.value).toLocaleString(), glyph: "★" };
+  if (p.key === "stars") return { text: `${Number(p.value).toLocaleString()} stars`, glyph: "★" };
+  if (p.key === "usage") return { text: `${Number(p.value).toLocaleString()} used`, glyph: "↑" };
   return { text: `${Number(p.value).toLocaleString()} ${p.key}`, glyph: "" };
 }
 function allSignals(i: Row): string {
   const bits: string[] = [];
   if (i.stars != null) bits.push(`★ ${Number(i.stars).toLocaleString()} stars`);
+  if (i.usage != null) bits.push(`↑ ${Number(i.usage).toLocaleString()} used`);
   if (i.tested != null) bits.push(`✓ tested (${Math.round(i.tested * 100)}%)`);
   if (i.mentions != null) bits.push(`♦ ${i.mentions} mentions`);
   return bits.length ? bits.join(" · ") : "no measured signals yet";
