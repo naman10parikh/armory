@@ -106,6 +106,36 @@ export function createServer(): McpServer {
     }
   );
 
+  server.registerTool(
+    "rank_components",
+    {
+      title: "Rank components",
+      description:
+        "Rank open-source building blocks by a Universal score (or another axis), sliceable by component type and domain. Use to find the BEST or TRENDING tool in a space — e.g. the top MCP for browser automation, or the leading front-end CLI. Returns ranked JSON with a 0-100 Universal score, GitHub stars, measured test score, and community mentions. The Universal score normalizes each signal within its own kind so a docs page ranks fairly against a 40k-star repo.",
+      inputSchema: z.object({
+        component: z
+          .string()
+          .optional()
+          .describe("filter to one component type: mcp|cli|skill|plugin|hook|subagent|rules|tool|memory|eval|..."),
+        domain: z
+          .string()
+          .optional()
+          .describe("filter to one domain: front-end|back-end|browser|payments|ai-agents|database|auth|search|devops|comms|..."),
+        sort: z
+          .enum(["universal", "popular", "tested", "practitioner", "stars", "name"])
+          .default("universal")
+          .describe("ranking axis: universal (default) | popular (stars) | tested | practitioner (mentions) | stars | name"),
+        ascending: z.boolean().default(false).describe("ascending instead of descending"),
+        limit: z.number().int().positive().max(100).default(20),
+      }),
+    },
+    async ({ component, domain, sort, ascending, limit }) => {
+      const { leaderboard } = await import("../../lib/rank.mjs");
+      const lb = leaderboard({ component, domain, sort, dir: ascending ? "asc" : "desc", limit });
+      return { content: [{ type: "text" as const, text: JSON.stringify(lb, null, 2) }] };
+    }
+  );
+
   return server;
 }
 
