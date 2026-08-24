@@ -16,3 +16,4 @@ incoming/*
 !incoming/README.md
 brain/index.json
 brain/discovered.json
+brain/crawl-feed-plan.json

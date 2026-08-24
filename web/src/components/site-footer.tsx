@@ -29,7 +29,7 @@ export function SiteFooter() {
           <FooterCol title="Explore">
             <FooterLink href="/leaderboard">Leaderboard</FooterLink>
             <FooterLink href="/browse">Browse</FooterLink>
-            <FooterLink href="/graph">The map</FooterLink>
+            <FooterLink href="/graph">Timeline</FooterLink>
           </FooterCol>
           <FooterCol title="Build">
             <FooterA href={`${REPO}/blob/main/CONTRIBUTING.md`}>Contribute</FooterA>

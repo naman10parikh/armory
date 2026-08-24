@@ -139,7 +139,7 @@ export default function HomePage() {
             href="/graph"
             className="hidden cursor-pointer items-center gap-1.5 text-sm font-medium text-ink-body transition-colors hover:text-accent-hover sm:inline-flex"
           >
-            Open full graph
+            How the index grew
             <ArrowRightIcon size={14} />
           </Link>
         </Reveal>

@@ -1,0 +1,55 @@
+name: crawl-feed
+
+# Manual-only self-improving feed: the freshness crawler's discoveries → a catalog PR.
+# NOT scheduled (autolab.yml already runs the nightly deterministic crawl+promote directly on main).
+# This is the review-gated variant: it opens a PR instead of committing to main, so a human approves
+# the net-new components before they land. Runs the SAME ingest flow (test-gate → promote → catalog).
+#
+#   1. scripts/crawl-discover.mjs   → refresh brain/discovered.json (recently-pushed OSS components)
+#   2. scripts/crawl-to-pr.mjs      → dedup vs catalog, apply the star floor, stage into
+#                                      incoming/crawl-feed/, gate+promote, and open a PR.
+on:
+  workflow_dispatch:
+    inputs:
+      min_stars:
+        description: "Minimum GitHub stars to keep a candidate"
+        type: string
+        default: "50"
+      max:
+        description: "Max components to stage/PR this run"
+        type: string
+        default: "25"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: crawl-feed
+  cancel-in-progress: false
+
+jobs:
+  crawl-feed:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }} # authenticates both `gh api` (crawler) and `gh pr create`
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # 1. Refresh discoveries. Fault-isolated: if the crawler fails (auth/rate limit), stop cleanly —
+      #    crawl-to-pr would otherwise reuse a stale discovered.json.
+      - name: Refresh discovered.json (freshness crawler)
+        run: node scripts/crawl-discover.mjs --max 100
+
+      # 2. git identity for the branch commit the feed makes (mirrors autolab.yml).
+      - name: Configure git identity
+        run: |
+          git config user.name "armory-autolab[bot]"
+          git config user.email "noreply@anthropic.com"
+
+      # 3. Feed → gate → promote → PR. Idempotent; opens a PR only if there are net-new components.
+      - name: Crawl-to-PR (stage, gate, promote, open PR)
+        run: node scripts/crawl-to-pr.mjs --apply --pr --min-stars "${{ inputs.min_stars }}" --max "${{ inputs.max }}"

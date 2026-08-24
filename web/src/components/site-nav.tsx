@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Logo } from "./logo";
-import { GithubIcon, GraphIcon, SearchIcon } from "./icons";
+import { GithubIcon, GraphIcon, SearchIcon, SparkIcon } from "./icons";
 
 const REPO = "https://github.com/naman10parikh/component";
 
@@ -29,11 +29,18 @@ export function SiteNav() {
             <RankIcon size={15} />
             <span>Leaderboard</span>
           </Link>
+          <Link
+            href="/ask"
+            className="flex cursor-pointer items-center gap-1.5 rounded-full bg-accent-quiet px-3 py-1.5 font-medium text-accent transition-colors hover:bg-accent-line"
+          >
+            <SparkIcon size={15} />
+            <span>Ask</span>
+          </Link>
           <NavLink href="/browse" icon={<SearchIcon size={15} />}>
             Browse
           </NavLink>
           <NavLink href="/graph" icon={<GraphIcon size={15} />}>
-            Graph
+            Timeline
           </NavLink>
           <a
             href={REPO}
