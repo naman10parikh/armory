@@ -12,6 +12,7 @@ stars: 1378
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 10
 ---
 ## What it is
 MCP server `ElevenLabs`, catalogued on PulseMCP. Integrates with ElevenLabs to provide high-quality text-to-speech, voice cloning, and conversational capabilities with customizable voice profiles and audio processing features.

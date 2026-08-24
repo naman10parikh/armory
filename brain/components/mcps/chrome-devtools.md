@@ -12,6 +12,7 @@ stars: 41753
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `Chrome DevTools`, catalogued on PulseMCP. Provides direct Chrome browser control through DevTools for web automation, debugging, and performance analysis using accessibility tree snapshots for reliable element targeting, automatic page event handling, and integrated performance tracing with actionable insights.

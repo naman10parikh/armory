@@ -9,7 +9,7 @@ license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
 stars: 95026
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-28
 related: []
 tags: [browser, playwright]

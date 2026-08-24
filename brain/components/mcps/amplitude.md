@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Amplitude`, catalogued on PulseMCP. Integrates with Amplitude analytics platform to provide direct access to product data, experiments, user behavior metrics, dashboards, and feature flags through natural language queries while maintaining existing user permissions and access controls.

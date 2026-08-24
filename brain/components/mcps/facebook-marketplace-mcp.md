@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 2
 ---
 ## What it is
 Enables searching Facebook Marketplace listings from Claude using your existing Facebook session without a browser.

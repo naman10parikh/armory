@@ -8,7 +8,7 @@ source_url: https://github.com/wywy-llc/gas-library-hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

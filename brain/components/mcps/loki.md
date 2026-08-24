@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Loki lets an AI agent run an entire website at runtime — content schema, content, code, routes, and design — through a single MCP endpoint.

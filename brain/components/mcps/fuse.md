@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 A local .NET MCP server for coding agents, providing persistent semantic indexing, typed-graph DI wiring resolution, reduced context, and compiler-backed verification for .NET projects.

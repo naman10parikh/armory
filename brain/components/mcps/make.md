@@ -12,6 +12,7 @@ stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 9
 ---
 ## What it is
 MCP server `Make`, catalogued on PulseMCP. Connects AI systems to Make automation workflows, enabling assistants to trigger scenarios with parameters and receive structured JSON output from your existing Make account.

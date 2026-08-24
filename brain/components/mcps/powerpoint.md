@@ -12,6 +12,7 @@ stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `PowerPoint`, catalogued on PulseMCP. Enables creation and editing of PowerPoint presentations with tools for slides, content, tables, charts and AI-generated images via Stable Diffusion

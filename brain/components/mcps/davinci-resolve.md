@@ -12,6 +12,7 @@ stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `DaVinci Resolve`, catalogued on PulseMCP. Enables Claude to directly interact with and control DaVinci Resolve through its Python API, providing tools for project management, timeline manipulation, media organization, and Fusion integration.

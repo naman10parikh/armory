@@ -12,6 +12,7 @@ stars: 14872
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `Figma Context`, catalogued on PulseMCP. Integrates with Figma's design platform API to enable AI-driven design operations, asset management, and team collaboration within Figma workflows.

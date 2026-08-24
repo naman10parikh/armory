@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 33
 ---
 ## What it is
 Hermes is a boilerplate for building agent-ready tools with a shared TypeScript core, enabling a single operation to be used as a CLI command, local MCP tool, remote MCP server, and Skill instructions. It currently demonstrates sending Telegram messages.

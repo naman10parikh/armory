@@ -12,6 +12,7 @@ stars: 8095
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `GitMCP (GitHub to MCP)`, catalogued on PulseMCP. Transform any GitHub project (repositories or GitHub pages) into a documentation hub. Allows AI tools like Cursor to access up-to-date documentation and code, ending hallucinations.

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+mentions: 2
 ---
 ## What it is
 aws

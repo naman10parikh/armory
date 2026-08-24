@@ -9,10 +9,11 @@ license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
 stars: null
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, deploy]
+mentions: 7
 ---
 ## What it is
 Zero-config cloud platform for deploying agent backends, databases, and services from a Git push.

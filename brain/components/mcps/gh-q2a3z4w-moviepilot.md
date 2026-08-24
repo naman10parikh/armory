@@ -8,7 +8,7 @@ source_url: https://github.com/q2a3z4w/moviepilot-mcp-admin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, stagehand]
+mentions: 1
 ---
 ## What it is
 Browserbase open-source AI web automation framework built on Playwright. Provides act(), extract(), and observe() primitives that map natural-language instructions to browser actions; runs locally or on Browserbase cloud.

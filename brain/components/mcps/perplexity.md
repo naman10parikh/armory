@@ -12,6 +12,7 @@ stars: 2226
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 13
 ---
 ## What it is
 MCP server `Perplexity`, catalogued on PulseMCP. Connector for the Perplexity API, to enable web search without leaving the MCP ecosystem.

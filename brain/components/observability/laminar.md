@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, evals]
+mentions: 4
 ---
 ## What it is
 Laminar is an open-source platform for tracing, evaluating, and labeling LLM and agent pipelines with a TypeScript/Python SDK and a self-hostable backend.

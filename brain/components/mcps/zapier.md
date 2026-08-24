@@ -12,6 +12,7 @@ stars: 210
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 10
 ---
 ## What it is
 MCP server `Zapier`, catalogued on PulseMCP. Generate a dynamic MCP server that connects to any of your favorite 8000+ apps on Zapier.

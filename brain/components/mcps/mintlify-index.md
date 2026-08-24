@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Provides real-time documentation retrieval for coding agents, answering implementation questions with compact, cited context assembled from developer documentation and live web search via a single MCP context tool.

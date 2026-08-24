@@ -12,6 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: null
+eval_score: 1
 ---
 ## What it is
 Extract and convert YouTube video information.

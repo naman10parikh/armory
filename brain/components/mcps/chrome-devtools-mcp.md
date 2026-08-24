@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 2
 ---
 ## What it is
 Lets coding agents control and inspect a live Chrome browser via the Model-Context-Protocol, providing advanced browser debugging, performance insights, and reliable automation.

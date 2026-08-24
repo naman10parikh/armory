@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Canva`, catalogued on PulseMCP. Canva integration that enables creating new designs, autofilling templates with content, searching existing designs, and exporting them as PDFs or images for automated design workflows and visual content generation.

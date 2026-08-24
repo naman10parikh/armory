@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+mentions: 1
 ---
 ## What it is
 Search biomedical literature across 36 million citations. Find papers, abstracts, and related articles from MEDLINE and life science journals.

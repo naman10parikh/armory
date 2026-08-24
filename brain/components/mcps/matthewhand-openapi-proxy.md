@@ -12,6 +12,7 @@ stars: 147
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `OpenAPI`, catalogued on PulseMCP. Dynamically exposes REST APIs defined by OpenAPI specifications as MCP tools, enabling seamless integration of external services into workflows.

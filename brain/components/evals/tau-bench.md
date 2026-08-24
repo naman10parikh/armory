@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, agents, tool-use, benchmark]
+mentions: 1
 ---
 ## What it is
 Tau-bench: agent benchmark for tool-agent-user interactions in retail and airline domains with policy-grounded evaluation.

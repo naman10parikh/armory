@@ -12,6 +12,7 @@ stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Shortcut`, catalogued on PulseMCP. Integrates with Shortcut's project management platform to provide story management, epic and iteration operations, team workflows, objective tracking, and comprehensive search capabilities for development teams automating sprint planning and task management.

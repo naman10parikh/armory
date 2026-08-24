@@ -12,6 +12,7 @@ stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Square`, catalogued on PulseMCP. Provides a bridge between Square's complete API ecosystem and conversational interfaces, enabling comprehensive e-commerce and payment processing capabilities including payments, orders, inventory, and customer management.

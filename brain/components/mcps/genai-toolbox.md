@@ -12,6 +12,7 @@ stars: 15335
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `Toolbox for Databases`, catalogued on PulseMCP. Provides a secure, configurable interface for executing pre-defined queries against multiple database systems including PostgreSQL, MySQL, SQL Server, Neo4j, Dgraph, and Spanner through a YAML-based configuration system.

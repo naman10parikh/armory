@@ -12,6 +12,7 @@ stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `arXiv`, catalogued on PulseMCP. Provides direct access to arXiv's scientific paper repository with tools for searching, retrieving metadata, downloading PDFs, and loading full article content into conversation context.

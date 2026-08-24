@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Enables AI agents to read, inspect, and export Figma designs programmatically. Provides tools for listing components, styles, and exporting assets in various formats.

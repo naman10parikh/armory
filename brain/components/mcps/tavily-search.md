@@ -12,6 +12,7 @@ stars: 2016
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `Tavily Search`, catalogued on PulseMCP. Integrates with Tavily API to provide real-time web search and content extraction capabilities for research, aggregation, and fact-checking tasks.

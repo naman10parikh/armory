@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 An MCP server that provides weather and time tools, enabling users to get current time, weather alerts, and forecasts through natural language with Claude Desktop.

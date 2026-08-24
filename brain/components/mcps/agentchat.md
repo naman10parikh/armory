@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Enables two AI agents to exchange messages through a shared MCP hub with a live terminal UI.

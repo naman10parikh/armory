@@ -9,7 +9,7 @@ license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: stable
 stars: null
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, official, reference, mcp-server]

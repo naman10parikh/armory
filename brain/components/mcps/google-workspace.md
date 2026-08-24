@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [productivity, mcps]
+mentions: 2
 ---
 ## What it is
 Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search, and Drive with AI via Google Workspace MCP.

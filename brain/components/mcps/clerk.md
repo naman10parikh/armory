@@ -12,6 +12,7 @@ stars: 1704
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 3
 ---
 ## What it is
 MCP server `Clerk`, catalogued on PulseMCP. Manage Clerk's authentication and user management organization management, session handling, and authorization features.

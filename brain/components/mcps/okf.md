@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Builds a keyword-searchable index from markdown documentation bundles and serves it to LLM agents via MCP, with retrieval logging and reporting for curation.

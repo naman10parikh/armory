@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 2
 ---
 ## What it is
 Connects Claude Desktop directly to a ServiceNow instance for incident management, service catalog, workflow tools, and AI-powered smart incidents and KB generation using Gemini.

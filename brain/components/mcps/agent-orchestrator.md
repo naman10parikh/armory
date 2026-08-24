@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 3
 ---
 ## What it is
 Enables multi-model leader-worker agent orchestration, workflow execution, and deterministic validation via structured MCP tools.

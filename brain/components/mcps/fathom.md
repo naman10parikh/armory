@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Fathom`, catalogued on PulseMCP. Connects Fathom AI meeting data to LLMs via MCP, providing access to recordings, transcripts, and action items.

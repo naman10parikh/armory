@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, deploy]
+mentions: 2
 ---
 ## What it is
 Deploy full-stack apps and long-running agent processes globally via Firecracker microVMs close to users.

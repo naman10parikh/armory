@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 5
 ---
 ## What it is
 MCP server that lets AI coding agents on Windows take screenshots and highlight UI elements with a red circle overlay.

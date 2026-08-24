@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 6
 ---
 ## What it is
 MCP server `Figma`, catalogued on PulseMCP. Integrates with Figma's desktop app to extract design information, variables, and component data from selected frames for generating code that maintains design-to-code fidelity. Also capable of writing designs to Figma.

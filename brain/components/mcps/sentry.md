@@ -12,6 +12,7 @@ stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, observability]
+mentions: 6
 ---
 
 ## What it is

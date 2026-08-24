@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 2
 ---
 ## What it is
 Agent Vault is a local credential vault for AI agents. It enables agents to use secrets by name without ever seeing their values, with host allowlists, output scrubbing, and audit logging.

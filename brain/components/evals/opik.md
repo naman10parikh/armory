@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, observability, tracing, dataset]
+mentions: 1
 ---
 ## What it is
 Open-source LLM evaluation and observability platform from Comet ML for tracing, scoring, and dataset management.

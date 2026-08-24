@@ -10,7 +10,7 @@ license: Apache-2.0
 cli_compat: [claude, codex]
 maturity: stable
 stars: 13531
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-26
 related: [microsandbox, claude-managed-agents-selfhost, browserbase-bb]
 tags: [sandbox, runtime, firecracker, microvm, code-execution]

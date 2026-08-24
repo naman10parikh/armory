@@ -10,7 +10,7 @@ license: MIT
 cli_compat: [claude, codex, cursor]
 maturity: stable
 stars: 1760
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-26
 related: [stripe-agent-toolkit, agentmoney]
 tags: [payments, stripe, billing, monetization, financial-rails]

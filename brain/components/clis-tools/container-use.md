@@ -13,6 +13,7 @@ verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
 stars: 4015
+eval_score: 1
 ---
 ## What it is
 A community CLI tool by dagger, catalogued in awesome-claude-code. Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.

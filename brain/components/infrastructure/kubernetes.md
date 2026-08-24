@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, orchestration]
+mentions: 2
 ---
 ## What it is
 Industry-standard container orchestration system for deploying, scaling, and managing agent workload fleets.

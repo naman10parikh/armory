@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: []
 tags: [command, workflow]
+mentions: 3
 ---
 ## What it is
 List known projects and their instinct statistics

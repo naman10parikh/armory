@@ -12,6 +12,7 @@ stars: 602
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `Neon`, catalogued on PulseMCP. Manage Neon's serverless Postgres databases.

@@ -12,6 +12,7 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 7
 ---
 ## What it is
 MCP server `Reddit`, catalogued on PulseMCP. Provides read-only access to Reddit content through PRAW for searching subreddits, retrieving posts and comments, and analyzing discussion trends

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [mcp-so, mcp]
+mentions: 2
 ---
 ## What it is
 Model Context Protocol MCP server listed on mcp.so.

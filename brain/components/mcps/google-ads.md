@@ -12,6 +12,7 @@ stars: 544
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Google Ads`, catalogued on PulseMCP. Access Google Ads API for campaign management and performance reporting.

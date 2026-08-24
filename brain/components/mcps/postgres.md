@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [mcp-so, mcp]
+mentions: 7
 ---
 ## What it is
 Postgres MCP server listed on mcp.so.

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 This MCP server enables AI agents to read MQTT and Sparkplug B data via tools like list_topics, get_latest, and read_all, providing read-only access to latest sensor values.

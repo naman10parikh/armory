@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Enables persistent local memory in VS Code Copilot Chat via MemPalace, using a ChromaDB 0.6.x backend with automatic setup and verification.

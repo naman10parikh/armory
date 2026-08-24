@@ -12,6 +12,7 @@ stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Databricks`, catalogued on PulseMCP. Integrates with Databricks services to enable interaction with clusters, jobs, notebooks, DBFS, and SQL workspaces via tools that wrap the Databricks REST API.

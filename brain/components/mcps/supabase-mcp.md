@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 An MCP server enabling AI assistants to perform CRUD operations on a Supabase database via a standardized interface.

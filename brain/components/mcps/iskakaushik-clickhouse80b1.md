@@ -12,6 +12,7 @@ stars: 784
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `ClickHouse`, catalogued on PulseMCP. Integrates with ClickHouse to enable natural language querying and exploration of large datasets while maintaining read-only safeguards.

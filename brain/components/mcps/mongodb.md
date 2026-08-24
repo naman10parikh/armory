@@ -12,6 +12,7 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [database, knowledge, mcp]
+mentions: 1
 ---
 
 ## What it is

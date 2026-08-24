@@ -8,7 +8,7 @@ source_url: https://github.com/tannisas/mcp-server/tree/HEAD/X_twee
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

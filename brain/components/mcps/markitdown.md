@@ -12,6 +12,7 @@ stars: 125185
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `MarkItDown`, catalogued on PulseMCP. Integrates with Microsoft's MarkItDown tool to convert documents like PDFs, Word files, and PowerPoint presentations into clean, structured markdown for content extraction and analysis workflows.

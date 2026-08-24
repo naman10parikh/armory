@@ -12,6 +12,7 @@ stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [crypto, mcp]
+mentions: 22
 ---
 
 ## What it is

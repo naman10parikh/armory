@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 3
 ---
 ## What it is
 Connects Claude Code to your locally running TradingView Desktop app via Chrome DevTools Protocol for AI-assisted chart analysis, Pine Script development, and workflow automation.

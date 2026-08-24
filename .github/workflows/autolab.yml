@@ -104,7 +104,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           node scripts/backfill-stars.mjs --apply || echo "::warning::star backfill failed — continuing"
-          node scripts/persist-stars-to-brain.mjs --apply || echo "::warning::persist-to-brain failed — continuing"
+          node scripts/persist-signals-to-brain.mjs --apply || echo "::warning::persist-to-brain failed — continuing"
           node ingest/catalog.mjs
 
       # 3b. Keep tabs on the upstream source repos (refresh repos/status.json staleness).

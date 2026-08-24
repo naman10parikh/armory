@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 3
 ---
 ## What it is
 Standalone MCP server that gives AI agents full GUI control over macOS — screenshots, mouse, keyboard, apps, clipboard, and multi-display — with zero private dependencies.

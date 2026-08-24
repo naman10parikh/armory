@@ -14,6 +14,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [test-before-build, qa-zero-tolerance, error-post-mortem]
 tags: [autonomy, execution, persistence, overnight]
+mentions: 1
 ---
 
 ## What it is

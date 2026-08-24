@@ -12,6 +12,7 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Galileo`, catalogued on PulseMCP. Integrates with Galileo's evaluation and observability platform to enable dataset creation, prompt template management, experiment setup, log analysis, and step-by-step integration guides for monitoring LLM application performance.

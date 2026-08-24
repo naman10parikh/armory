@@ -12,6 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
 stars: 27353
+mentions: 2
 ---
 ## What it is
 A high-level framework for building MCP servers in Python

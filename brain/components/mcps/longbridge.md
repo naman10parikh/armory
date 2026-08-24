@@ -12,6 +12,7 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Longbridge`, catalogued on PulseMCP. Official Longbridge brokerage MCP for US and HK market data, trading, and portfolio analytics.

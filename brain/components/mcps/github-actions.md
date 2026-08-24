@@ -12,6 +12,7 @@ stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 12
 ---
 ## What it is
 MCP server `GitHub Actions`, catalogued on PulseMCP. Enables management of GitHub Actions workflows with tools for listing, viewing, triggering, canceling, and rerunning workflows, along with detailed run and job information for CI/CD pipeline monitoring and troubleshooting.

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 3
 ---
 ## What it is
 Provides a persistent hierarchical task tree for LLM agents, enabling them to decompose work, track progress, record results, and handle failures outside the context window, with an optional web UI for monitoring and control.

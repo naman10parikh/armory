@@ -12,6 +12,7 @@ stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Kuzu`, catalogued on PulseMCP. Bridge to Kuzu graph databases. Enables LLMs to inspect database schemas and execute queries.

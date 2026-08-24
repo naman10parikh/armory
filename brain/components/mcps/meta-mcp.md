@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 3
 ---
 ## What it is
 Read-only MCP server for Meta (Facebook) Graph API, enabling access to Marketing API, Pages, Instagram, and WhatsApp Business data through Claude Code and any MCP-compatible client.

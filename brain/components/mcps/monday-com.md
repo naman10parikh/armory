@@ -12,6 +12,7 @@ stars: 402
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Monday.com`, catalogued on PulseMCP. Integrates with monday.com API to enable direct access to boards, workflows, and data for automating tasks and managing resources without context switching.

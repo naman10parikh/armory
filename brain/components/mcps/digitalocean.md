@@ -12,6 +12,7 @@ stars: 108
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 4
 ---
 ## What it is
 MCP server `DigitalOcean`, catalogued on PulseMCP. Enables AI to manage DigitalOcean cloud infrastructure by providing access to account information, droplets, domains, firewalls, and other services for monitoring and automation tasks.

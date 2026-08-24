@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [remotion, skills]
+mentions: 8
 ---
 ## What it is
 Best practices and comprehensive guide for Remotion - programmatic video creation in React with animations, compositions, and media handling

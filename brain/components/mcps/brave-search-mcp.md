@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Enables web and local search capabilities using the Brave Search API, allowing users to perform general web searches and find local businesses with ratings, hours, and contact info.

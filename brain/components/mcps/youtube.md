@@ -12,6 +12,7 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 14
 ---
 ## What it is
 MCP server `YouTube`, catalogued on PulseMCP. Integrates with YouTube to enable video content analysis through transcript extraction, search, comment retrieval, and content summarization for research and educational insights

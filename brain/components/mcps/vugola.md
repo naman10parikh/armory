@@ -12,6 +12,7 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Vugola`, catalogued on PulseMCP. AI video clipping and social media scheduling platform.

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 4
 ---
 ## What it is
 Persistent memory MCP server for Claude Code that stores decisions and summaries locally, enabling Claude to recall past context across chats.

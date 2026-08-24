@@ -12,6 +12,7 @@ stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `MongoDB Atlas`, catalogued on PulseMCP. Integrates with MongoDB Atlas to enable creating and managing database resources including clusters, network access, users, and connection strings using TypeScript and the MongoDB Atlas API.

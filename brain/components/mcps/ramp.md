@@ -12,6 +12,7 @@ stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 11
 ---
 ## What it is
 MCP server `Ramp`, catalogued on PulseMCP. Provides a bridge to Ramp's Developer API, enabling financial data analysis through an ephemeral SQLite database that loads corporate transactions, vendors, users, and spend programs for SQL-based business intelligence tasks.

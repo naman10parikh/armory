@@ -9,10 +9,11 @@ license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 4
 ---
 ## What it is
 A hardened local browser MCP server that drives your existing Chrome over the DevTools Protocol, providing token-efficient Markdown extraction and stealth features to avoid trivial automation detection.

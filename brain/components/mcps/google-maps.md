@@ -12,6 +12,7 @@ stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 6
 ---
 ## What it is
 MCP server `Google Maps`, catalogued on PulseMCP. Integrates Google Maps Platform APIs with 3D visualization to provide place searching, route computation, elevation data retrieval, and weather lookup for trip planning and geographic data exploration.

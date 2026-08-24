@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 2
 ---
 ## What it is
 A filesystem-based MCP server for Obsidian vaults that enables LLMs to browse, search, read, write, and edit Markdown notes directly on disk without requiring Obsidian to be running.

@@ -8,7 +8,7 @@ source_url: https://github.com/h2bis-dev/h2bis-project-brain-mcp/tree/HEAD/h2bis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

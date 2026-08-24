@@ -8,10 +8,11 @@ source_url: https://github.com/pipeworx-io/mcp-art
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 3
 ---
 ## What it is
 MCP server `Metropolitan Museum of Art`, catalogued on PulseMCP. Artwork search and metadata from the Metropolitan Museum of Art's open collection API.

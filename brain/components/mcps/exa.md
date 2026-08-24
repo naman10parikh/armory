@@ -12,6 +12,8 @@ stars: 4478
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
+mentions: 2
 ---
 ## What it is
 MCP server `Exa Web Search`, catalogued on PulseMCP. Query Exa API to retrieve structured search results.

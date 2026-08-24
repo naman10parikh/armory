@@ -12,6 +12,7 @@ stars: 206
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `DataForSEO`, catalogued on PulseMCP. Integrates with DataForSEO's SEO and marketing analytics APIs to provide direct access to search engine results, keyword research, content analysis, and competitive market insights for digital marketers and SEO professionals.

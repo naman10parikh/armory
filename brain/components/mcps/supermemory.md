@@ -12,6 +12,7 @@ stars: 1689
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 6
 ---
 ## What it is
 MCP server `Supermemory`, catalogued on PulseMCP. Personal knowledge platform that helps collect, organize, and recall information from various sources with end-to-end encryption and optional self-hosting.

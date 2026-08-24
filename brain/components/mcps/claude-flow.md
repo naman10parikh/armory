@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 2
 ---
 ## What it is
 Multi-agent AI orchestration platform for Claude Code that enables deploying and coordinating specialized agents in swarms with self-learning, fault-tolerant consensus, and enterprise security.

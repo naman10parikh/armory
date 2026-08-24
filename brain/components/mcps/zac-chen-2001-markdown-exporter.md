@@ -8,7 +8,7 @@ source_url: https://github.com/zac-chen-2001/markdown-exporter-mcp-local
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

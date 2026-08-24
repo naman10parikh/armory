@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, official, reference, mcp-server]
+mentions: 3
 ---
 ## What it is
 Official `modelcontextprotocol/servers` mcps component — A basic implementation of persistent memory using a local knowledge graph. This lets Claude remember information about the user across chats.

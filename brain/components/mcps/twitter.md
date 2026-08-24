@@ -12,6 +12,7 @@ stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social]
+mentions: 1
 ---
 
 ## What it is

@@ -12,6 +12,7 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `LunarCrush`, catalogued on PulseMCP. Provides cryptocurrency market intelligence and social sentiment data through LunarCrush's API, enabling access to real-time crypto analytics and trading insights via both local proxy and remote connection methods.

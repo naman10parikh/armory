@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 3
 ---
 ## What it is
 A local-first personal archive with a read-only MCP gateway that preserves files and AI conversations, derives evidence-linked memory candidates using local models, and enables bounded context retrieval for questions.

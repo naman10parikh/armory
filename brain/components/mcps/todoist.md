@@ -12,6 +12,7 @@ stars: 495
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Todoist`, catalogued on PulseMCP. Official task management integration for organizing work and life

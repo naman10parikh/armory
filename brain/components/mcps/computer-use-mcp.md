@@ -9,7 +9,7 @@ license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: 350
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]

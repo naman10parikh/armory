@@ -12,6 +12,7 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Deepgram`, catalogued on PulseMCP. Integrates Deepgram speech and audio intelligence APIs with AI assistants.

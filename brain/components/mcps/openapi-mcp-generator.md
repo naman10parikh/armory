@@ -9,7 +9,7 @@ license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [mcp-so, mcp]

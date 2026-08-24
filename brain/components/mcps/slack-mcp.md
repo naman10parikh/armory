@@ -14,6 +14,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [github-mcp]
 tags: [slack, chat, messaging, notifications, integration]
+mentions: 1
 ---
 
 ## What it is

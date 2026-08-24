@@ -21,6 +21,10 @@ export const TYPES = [
 const FIELDS = {
   name: "", type: "", description: "", source_repo: "", source_url: "",
   license: "", cli_compat: [], maturity: "", stars: null, eval_score: null,
+  // `mentions` is a ranking signal (weight 1.2 — a practitioner citing the tool in the wild). It was
+  // absent from this list, so every rebuild silently deleted it from the catalog even when the
+  // markdown carried it: mentions went 275 → 0 on one rebuild. A signal missing here does not survive.
+  mentions: null,
   verified_at: "", related: [], tags: [],
 };
 

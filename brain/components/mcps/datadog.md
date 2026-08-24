@@ -12,6 +12,7 @@ stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Datadog`, catalogued on PulseMCP. Connects AI agents to Datadog's unified observability platform for querying logs, metrics, traces, dashboards, monitors, incidents, and more in real time.

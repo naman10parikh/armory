@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 2
 ---
 ## What it is
 Enables AI agents to read and write to an iPad whiteboard via MCP, including structured elements, handwritten text, and image rendering.

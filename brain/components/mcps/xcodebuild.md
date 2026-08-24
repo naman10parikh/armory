@@ -12,6 +12,7 @@ stars: 5748
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
+eval_score: 1
 ---
 
 ## What it is

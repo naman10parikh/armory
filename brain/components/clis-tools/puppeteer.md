@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, puppeteer]
+mentions: 2
 ---
 ## What it is
 Google Puppeteer Node.js library and CLI for programmatic Chrome/Firefox control — headless screenshot, PDF, network interception, and DevTools protocol access; foundation for many browser-automation tools.

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, code, benchmark, agents]
+mentions: 5
 ---
 ## What it is
 SWE-bench: benchmark for evaluating LLMs on real-world GitHub issue resolution across 12 popular Python repositories.

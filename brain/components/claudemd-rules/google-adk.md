@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [ai-agent-specialist, alpha-skills-quant-factor-research]
 tags: [cursor-rules, claude-md-files, rules]
+mentions: 2
 ---
 ## What it is
 Google Agent Development Kit rules for agents, tools, sessions, memory, artifacts, evaluation, and deployment

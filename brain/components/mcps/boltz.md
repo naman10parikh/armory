@@ -12,6 +12,7 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Boltz`, catalogued on PulseMCP. Claude Desktop MCP extension for protein structure prediction, ligand binding estimation, and molecular design via Boltz computational biology tools.

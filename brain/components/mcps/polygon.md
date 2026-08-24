@@ -12,6 +12,7 @@ stars: 341
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Polygon.io`, catalogued on PulseMCP. Provides complete access to Polygon.io's financial market data API with 35+ tools covering stocks, options, forex, and crypto including real-time trades, quotes, aggregates, market snapshots, ticker details, news, dividends, splits, and financial fundamentals for trading research and market analysis.

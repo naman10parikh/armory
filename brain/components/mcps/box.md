@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 4
 ---
 ## What it is
 MCP server `Box`, catalogued on PulseMCP. Integrates with Box's cloud content management platform to enable file and folder operations, content workflows, and document management tasks through both hosted and self-hosted deployment options.

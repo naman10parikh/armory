@@ -12,6 +12,7 @@ stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Miro`, catalogued on PulseMCP. Connect AI coding tools to Miro boards for diagram generation, code creation, and visual collaboration through OAuth-secured access.

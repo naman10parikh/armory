@@ -12,6 +12,7 @@ stars: 188
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
 ---
 ## What it is
 MCP server `Telnyx`, catalogued on PulseMCP. Integrates with Telnyx's telecommunications APIs for voice calling, SMS/MMS messaging, phone number management, and AI assistants

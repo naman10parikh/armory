@@ -12,6 +12,7 @@ stars: 240
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Hugging Face`, catalogued on PulseMCP. Integrates with Hugging Face's ecosystem to search models, datasets, and papers while dynamically connecting to Gradio-based tools hosted on Spaces for extended ML capabilities.

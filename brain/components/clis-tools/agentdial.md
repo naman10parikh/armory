@@ -10,7 +10,7 @@ license: MIT
 cli_compat: [claude, codex]
 maturity: beta
 stars: null
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-26
 related: [agentdial-identity, soul-md-spec, agent-file-format]
 tags: [identity, channels, agent-protocol, addressing]

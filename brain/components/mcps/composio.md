@@ -9,10 +9,11 @@ license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: 1
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 9
 ---
 ## What it is
 Provides each user in a shared channel with their own authenticated tools (e.g., Gmail, Outlook, GitHub) via Composio's Tool Router, handling per-user OAuth entirely within the chat.

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 5
 ---
 ## What it is
 An MCP server that enables Cursor to delegate complex, multi-step tasks to specialized subagents, including general-purpose and explore agents, with automatic discovery of existing Claude subagents.

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 A task-aware context compression layer for Agent workflows, RAG pipelines, and AI Coding assistants, reducing noisy logs, retrieval chunks, and code context into high-signal LLM inputs via CLI, Python SDK, and MCP.

@@ -12,6 +12,7 @@ stars: 288
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Snowflake`, catalogued on PulseMCP. Bridges AI applications with Snowflake's data platform for database interaction

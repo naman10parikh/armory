@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `DeepWiki`, catalogued on PulseMCP. Provides AI assistants with access to GitHub repository documentation and search capabilities for code understanding, architecture exploration, and technical question answering.

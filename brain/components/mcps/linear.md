@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 25
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Access your Linear data to manage your projects and issues in a simple and secure way.

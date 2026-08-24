@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, playwright]
+mentions: 3
 ---
 ## What it is
 Official Microsoft MCP server that exposes Playwright browser automation as structured accessibility-snapshot tools — no screenshots, structured DOM traversal for reliable agent-driven web interaction.

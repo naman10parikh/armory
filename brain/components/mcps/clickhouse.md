@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, mcp-server]
+mentions: 5
 ---
 ## What it is
 MCP server — ClickHouse analytics queries.

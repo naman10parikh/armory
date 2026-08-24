@@ -12,6 +12,7 @@ stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 4
 ---
 ## What it is
 MCP server `Ahrefs`, catalogued on PulseMCP. Integrates with Ahrefs' SEO and marketing APIs to provide rank tracking, keyword research, batch analysis, search volume data, and competitor insights for search marketing intelligence workflows.

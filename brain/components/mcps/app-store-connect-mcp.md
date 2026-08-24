@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 2
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects Cursor, Claude Desktop, and other MCP clients to the official App Store Connect API—so you can manage iOS/macOS apps, TestFlight, in-app subscriptions, and store metadata via chat or automated tool calls.

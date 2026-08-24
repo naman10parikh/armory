@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Read, search, and send iMessages locally from your terminal or through MCP clients like Claude, Cursor, and VS Code.

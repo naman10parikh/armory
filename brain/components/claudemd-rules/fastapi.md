@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [ai-agent-specialist, alpha-skills-quant-factor-research]
 tags: [cursor-rules, claude-md-files, rules]
+mentions: 3
 ---
 ## What it is
 FastAPI best practices and patterns for building modern Python web APIs

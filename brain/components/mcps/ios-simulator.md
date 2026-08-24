@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [devtools, mcps]
+mentions: 3
 ---
 ## What it is
 Control iOS Simulator directly from Claude Code. Launch apps, take screenshots, manage device states, and streamline mobile development workflows.

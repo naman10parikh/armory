@@ -13,6 +13,7 @@ eval_score: 1
 verified_at: 2026-05-31
 related: []
 tags: [devtools, mcps]
+mentions: 20
 ---
 ## What it is
 Let your AI agents interact with the Stripe API by using our MCP server.

@@ -12,6 +12,7 @@ stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [browser, mcp, search, social]
+mentions: 6
 ---
 
 ## What it is

@@ -12,6 +12,7 @@ stars: 4415
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Firebase`, catalogued on PulseMCP. Give AI-powered development tools the ability to work with your Firebase projects

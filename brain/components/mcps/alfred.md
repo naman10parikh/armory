@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 A local-first open-source MCP server that acts as a personal secretary, memory manager, and automation hub—it syncs Calendar, Gmail, Canvas, GitHub, and Health into a typed temporal memory graph, and enables approval-gated write actions like creating events, drafting/sending mail, and filing issues,

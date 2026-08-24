@@ -9,10 +9,11 @@ license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
 stars: null
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Enables interaction with PostHog analytics platform, allowing users to list projects, create annotations, and search insights through natural language in Claude Desktop.

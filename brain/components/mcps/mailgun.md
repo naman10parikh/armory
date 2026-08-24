@@ -12,6 +12,7 @@ stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Mailgun`, catalogued on PulseMCP. Integrates with Mailgun's email service API to enable sending emails and retrieving delivery statistics through over 30 endpoints including message sending, domain information, and analytics

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [web-data, mcps]
+mentions: 1
 ---
 ## What it is
 Bright Data MCP server providing 60+ tools for web search, scraping, structured data extraction, and browser automation across major platforms

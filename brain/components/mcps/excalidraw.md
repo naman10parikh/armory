@@ -12,6 +12,7 @@ stars: 4543
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Excalidraw`, catalogued on PulseMCP. Generates hand-drawn style Excalidraw diagrams with streaming animations and interactive editing.

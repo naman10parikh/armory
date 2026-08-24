@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, browserless]
+mentions: 1
 ---
 ## What it is
 Browserless.io headless browser service — provides a Docker-deployable or cloud-hosted Chrome endpoint with REST and WebSocket APIs for screenshot, PDF, scraping, and Puppeteer/Playwright remote sessions.

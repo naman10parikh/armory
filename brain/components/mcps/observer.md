@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 1
 ---
 ## What it is
 Enables watching videos with an AI coding agent that transcribes, prepares concepts and visuals, and answers questions in context of the video. Provides MCP tools for transcript reading, concept mapping, artifact building, and interactive Q&A synchronized with playback.

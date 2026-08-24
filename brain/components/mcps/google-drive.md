@@ -12,6 +12,7 @@ stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [knowledge, mcp, search]
+mentions: 12
 ---
 
 ## What it is

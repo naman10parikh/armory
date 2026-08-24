@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+mentions: 14
 ---
 ## What it is
 Manage Gmail end-to-end: send, draft, reply, forward, and bulk-modify or delete messages and threads. Organize your inbox with labels, archiving, and trashing, and retrieve messages, attachments, and profile details on demand. Access and search contacts to autofill recipients and keep people data in

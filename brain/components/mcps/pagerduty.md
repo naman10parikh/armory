@@ -12,6 +12,7 @@ stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `PagerDuty`, catalogued on PulseMCP. Integrates with PagerDuty's incident management platform to provide tools for managing incidents, services, teams, users, schedules, escalation policies, on-call rotations, event orchestrations, status pages, and alert grouping settings for incident response automation and DevOps workflows.

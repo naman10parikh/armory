@@ -12,6 +12,8 @@ stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+eval_score: 1
+mentions: 3
 ---
 ## What it is
 MCP server `AgentMail`, catalogued on PulseMCP. Provides dedicated email inboxes for AI agents to send, receive, and query messages

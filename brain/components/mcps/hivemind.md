@@ -8,10 +8,11 @@ source_url: https://github.com/srotzin/hivemind
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 3
 ---
 ## What it is
 MCP server `HiveMind`, catalogued on PulseMCP. Collective intelligence, memory storage, and knowledge marketplace for AI agents.

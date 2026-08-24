@@ -12,6 +12,7 @@ stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Heroku`, catalogued on PulseMCP. Facilitate seamless interaction between LLMs and the Heroku Platform.

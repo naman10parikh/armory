@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+mentions: 4
 ---
 ## What it is
 Enables querying Google Search Console data, including search analytics, indexing status, and sitemap management, through natural language conversations with Claude.

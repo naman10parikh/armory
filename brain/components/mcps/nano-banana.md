@@ -12,6 +12,7 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 2
 ---
 ## What it is
 MCP server `Nano Banana (Gemini Image Generator)`, catalogued on PulseMCP. Generates images using Google's Gemini 2.5 Flash model and automatically uploads them to ImgBB, returning publicly accessible URLs for immediate web sharing without local file management.

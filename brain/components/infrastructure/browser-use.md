@@ -9,10 +9,11 @@ license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
 stars: 110299
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-28
 related: []
 tags: [browser, browser-use]
+mentions: 5
 ---
 ## What it is
 Python library that makes web browsers accessible to AI agents; built on Playwright and LangChain. Supports multi-tab, vision + accessibility-tree hybrid mode, custom actions, and a self-correcting agent loop.

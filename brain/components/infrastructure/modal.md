@@ -9,10 +9,11 @@ license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
 stars: null
-eval_score: null
+eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, serverless]
+mentions: 4
 ---
 ## What it is
 Serverless cloud platform for running Python functions, containers, and AI workloads with zero infra management.

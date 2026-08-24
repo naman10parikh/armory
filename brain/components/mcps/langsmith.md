@@ -12,6 +12,7 @@ stars: 113
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 7
 ---
 ## What it is
 MCP server `LangSmith`, catalogued on PulseMCP. Access LangSmith observability data including traces, prompts, datasets, experiments, and billing usage.

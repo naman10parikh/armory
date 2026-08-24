@@ -1,0 +1,21 @@
+---
+name: flyctl
+type: clis-tools
+description: >
+  deploy-infra tool
+source_repo: https://github.com/superfly/flyctl
+source_url: https://github.com/superfly/flyctl
+license: unknown
+cli_compat: []
+maturity: curated
+stars: 1698
+eval_score: 1
+mentions: null
+verified_at: 
+related: []
+tags: [deploy-infra]
+---
+
+# flyctl
+
+deploy-infra tool

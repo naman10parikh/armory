@@ -12,6 +12,7 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 3
 ---
 ## What it is
 MCP server `Cargo`, catalogued on PulseMCP. Provides access to Rust crate documentation, version information, and workspace metadata through rustdoc JSON generation, crates.io API integration, and cargo metadata parsing for dependency management, API exploration, and project structure analysis.
