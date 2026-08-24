@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
+stars: 17
 ---
 ## What it is
 A server that connects to the Databricks Genie API, allowing LLMs to ask natural language questions, run SQL queries, and interact with Databricks conversational agents.

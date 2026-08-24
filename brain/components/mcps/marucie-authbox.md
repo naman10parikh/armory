@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 5
 ---
 ## What it is
 Zero-knowledge password manager with MCP credential gateway. BIP-39 seed phrase recovery, deterministic passwords, policy-gated AI agent access (scope, rate limits, time windows, step-up approval), 70+ API key providers, and hash-chain audit trail. Go + Next.js + TypeScript.

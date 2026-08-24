@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 12
 ---
 ## What it is
 Semantic search and RAG over Apple Notes with on-device embeddings, full CRUD, folder management, and fuzzy title matching. 10 tools. Runs fully locally — no API keys required.

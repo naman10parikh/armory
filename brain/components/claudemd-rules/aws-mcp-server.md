@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ai-intellij-plugin, droidconkotlin]
 tags: [claude-md, rules, language-specific]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by alexei-led, catalogued in awesome-claude-code. Features multiple Python environment setup options with detailed code style guidelines, comprehensive error handling recommendations, and security considerations for AWS CLI interactions.

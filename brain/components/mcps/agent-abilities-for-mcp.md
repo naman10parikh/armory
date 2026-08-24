@@ -8,7 +8,7 @@ source_url: https://github.com/unaibamir/agent-abilities-for-mcp
 license: GPL 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []

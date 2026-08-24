@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 3
 ---
 ## What it is
 9 MCP servers for React + TypeScript development automation — component scaffolding, dependency auditing, WCAG accessibility checking, test generation, TypeScript enforcement, and monorepo management. 134 tests, CI on Node 20+22.

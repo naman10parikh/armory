@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
+stars: null
 ---
 ## What it is
 Manage Pterodactyl and Pelican game server panels through AI. 73 tools for server management, power control, file operations, backups, schedules, databases, users, nodes, and eggs.

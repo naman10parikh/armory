@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 Free Polish VAT invoice generator API (Faktura VAT) with PDF output and preview. No API key required.

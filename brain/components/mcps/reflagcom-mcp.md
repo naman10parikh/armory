@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: null
 ---
 ## What it is
 Flag features directly from chat in your IDE with [Reflag](https://reflag.com).

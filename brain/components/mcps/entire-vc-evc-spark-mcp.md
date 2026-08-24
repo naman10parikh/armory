@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 5
 ---
 ## What it is
 Search and discover AI agents, skills, prompts, bundles and MCP connectors from a curated catalog of 4500+ assets.

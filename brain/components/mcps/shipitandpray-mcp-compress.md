@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
+stars: 2
 ---
 ## What it is
 Data compression MCP server. 7 tools for gzip, brotli, deflate, and TurboQuant quantization. Auto-selects best algorithm. 60x compression on docs. Zero dependencies.

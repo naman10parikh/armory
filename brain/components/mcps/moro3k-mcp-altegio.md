@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: null
 ---
 ## What it is
 MCP server for Altegio API — appointments, clients, services, staff schedules for salon/spa/clinic management. 18 tools with Docker support.

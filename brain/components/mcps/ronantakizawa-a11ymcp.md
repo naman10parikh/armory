@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 91
 ---
 ## What it is
 Web accessibility testing MCP server that analyzes URLs and HTML for WCAG 2.0/2.1/2.2 compliance using axe-core. Tools for color contrast, ARIA validation, and orientation lock detection.

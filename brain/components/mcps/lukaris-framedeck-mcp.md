@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, product-management]
+stars: 1
 ---
 ## What it is
 [Framedeck](https://framedeck.app) is a Kanban content production manager for YouTube, Instagram, TikTok and Podcast creators. 32 tools for managing productions, stages, frames (cards), checklists, comments, and labels. Ideas land in an Idea Pool and graduate into full productions with stages (Idea → Scripting → Filming → Editing → Published). All tools ship with MCP safety annotations. `npx framedeck-mcp`

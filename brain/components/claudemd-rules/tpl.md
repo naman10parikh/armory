@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [avs-vibe-developer-guide, claude-code-mcp-enhanced]
 tags: [claude-code, claude-md-files]
+stars: null
 ---
 ## What it is
 Details Go project conventions with comprehensive error handling recommendations, table-driven testing approach guidelines, and modernization suggestions for latest Go features.

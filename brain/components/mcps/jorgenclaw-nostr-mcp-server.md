@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
+stars: 1
 ---
 ## What it is
 Lightning-paid Nostr signing MCP server. AI agents pay sats per call to sign and publish Nostr events — no API keys, just Lightning. Live at https://mcp.jorgenclaw.ai/sse. Tools: nostr_sign_event (2 sats), nostr_publish_event (3 sats).

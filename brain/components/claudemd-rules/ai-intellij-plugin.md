@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [aws-mcp-server, droidconkotlin]
 tags: [claude-md, rules, language-specific]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by didalgolab, catalogued in awesome-claude-code. Provides comprehensive Gradle commands for IntelliJ plugin development with platform-specific coding patterns, detailed package structure guidelines, and clear internationalization standards.

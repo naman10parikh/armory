@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 1
 ---
 ## What it is
 AI-agent admission-control MCP server: validates file edits against Ring 0 syntax + Ring 0.5 structural-cost regression + workspace boundary (path / glob / shell-redirect / symlink). Negative-space framing — emits BLOCK / WARN / PASS verdicts, never coaches the agent.

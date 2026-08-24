@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Polymarket prediction market analysis via LightningProx. Find mispriced markets, analyze specific markets, get top markets by volume. Pay per request with Bitcoin Lightning spend tokens.

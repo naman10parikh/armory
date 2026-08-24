@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 6
 ---
 ## What it is
 Hand off conversation context between Claude Desktop projects and across MCP clients. Memory-based, no file clutter.

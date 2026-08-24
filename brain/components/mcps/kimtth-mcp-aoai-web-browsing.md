@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 34
 ---
 ## What it is
 A `minimal` server/client MCP implementation using Azure OpenAI and Playwright.

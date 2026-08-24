@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [workflow, guide]
+stars: 8346
 ---
 ## What it is
 A community workflow/command by Ran Aroussi, catalogued in awesome-claude-code. Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.

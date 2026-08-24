@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 8
 ---
 ## What it is
 Enterprise AI coding usage analytics — track spend, model usage, and costs across Cursor/Claude Code sessions via MCP server

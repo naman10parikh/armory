@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 117
 ---
 ## What it is
 MCP server based on baostock, providing access and analysis capabilities for Chinese stock market data.

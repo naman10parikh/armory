@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
+stars: 1
 ---
 ## What it is
 Minimal Go wrapper on the official [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) for stdio MCP servers: struct-tag JSON Schema inference, `tinymcp` library, reference binary `tiny-go-mcp`, ~5MB static builds. For teams that want go-sdk compliance with minimal boilerplate (`go get github.com/kioie/tiny-go-mcp-server/tinymcp@v1.0.0`).

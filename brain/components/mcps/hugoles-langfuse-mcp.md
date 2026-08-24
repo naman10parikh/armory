@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 1
 ---
 ## What it is
 TypeScript MCP server for the Langfuse Public API. 27 read tools covering traces, observations, sessions, scores, score-configs, prompts (with version/label), datasets, dataset items, dataset runs, metrics, models, projects, comments, media, and health. Distributed as `npx -y langfuse-mcp` with provenance-signed releases.

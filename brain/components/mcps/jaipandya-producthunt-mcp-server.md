@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: 53
 ---
 ## What it is
 MCP server for Product Hunt. Interact with trending posts, comments, collections, users, and more.

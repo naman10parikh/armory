@@ -92,6 +92,21 @@ jobs:
       - name: Rebuild catalog.json
         run: node ingest/catalog.mjs
 
+      # 3a. FILL IN THE MISSING STARS. Newly-crawled rows arrive with no signal, which leaves them
+      #     honestly unranked. GitHub publishes the number; we just have to ask. GraphQL aliases ~100
+      #     repos per request at ONE rate-limit point, so the whole backlog is a few hundred points of
+      #     a 5,000/hour budget. Only rows that ARE a repo get its stars — a file inside a repo has not
+      #     earned its parent's count. Then push the numbers back into the brain markdown (the source
+      #     of truth) and rebuild, or the NEXT run's rebuild silently reverts every star fetched here.
+      - name: Backfill stars + persist to the brain
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node scripts/backfill-stars.mjs --apply || echo "::warning::star backfill failed — continuing"
+          node scripts/persist-stars-to-brain.mjs --apply || echo "::warning::persist-to-brain failed — continuing"
+          node ingest/catalog.mjs
+
       # 3b. Keep tabs on the upstream source repos (refresh repos/status.json staleness).
       #     Fault-isolated; uses the runner's GITHUB_TOKEN for a higher rate limit.
       - name: Refresh source-repo watchlist

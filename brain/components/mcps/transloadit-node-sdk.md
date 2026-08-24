@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
+stars: null
 ---
 ## What it is
 Agent-native media processing via Transloadit's 86+ Robots: video encoding (HLS, H.264, VP9), image manipulation (resize, watermark, smart crop), document conversion, OCR, speech transcription, and more. Hosted or self-hosted via npx.

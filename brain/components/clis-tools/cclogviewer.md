@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
+stars: 85
 ---
 ## What it is
 A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.

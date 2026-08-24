@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 14
 ---
 ## What it is
 Neuroscience-inspired memory engine for AI agents. Stores episodes, consolidates knowledge through a Bjork-strength lifecycle (strengthening, transformation, forgetting), and builds a personal knowledge graph with emergent categories, preferences, and semantic recall. Local SQLite, zero config, 10 MCP tools. Install via `npx alaya-mcp`.

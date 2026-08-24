@@ -8,7 +8,7 @@ source_url: https://github.com/andrewbartels1/SolidworksMCP-python
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []

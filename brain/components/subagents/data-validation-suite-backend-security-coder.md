@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [api-testing-observability-api-documenter, backend-api-security-backend-architect]
 tags: [backend, frontend, review, security, subagent]
+stars: null
 ---
 
 ## What it is

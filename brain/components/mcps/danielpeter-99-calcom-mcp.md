@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: 19
 ---
 ## What it is
 MCP server for Calcom. Manage event types, create bookings, and access Cal.com scheduling data through LLMs.

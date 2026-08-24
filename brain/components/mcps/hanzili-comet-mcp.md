@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 167
 ---
 ## What it is
 Connect to Perplexity Comet browser for agentic web browsing, deep research, and real-time task monitoring.

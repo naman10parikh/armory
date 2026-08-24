@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 10
 ---
 ## What it is
 MCP server that helps AI agents explore OpenAPI specs, search endpoints, and generate TypeScript types.

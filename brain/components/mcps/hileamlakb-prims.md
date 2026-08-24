@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, code-execution]
+stars: 28
 ---
 ## What it is
 A Python Runtime Interpreter MCP Server that executes user-submitted code in an isolated environment.

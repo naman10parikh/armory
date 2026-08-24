@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 5
 ---
 ## What it is
 Delivering real-time cross-chain bridge rates and optimal transfer routes to onchain AI agents.

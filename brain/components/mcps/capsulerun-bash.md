@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, command-line]
+stars: null
 ---
 ## What it is
 Sandboxed bash for agents. Run untrusted commands in WebAssembly sandboxes with no setup required.

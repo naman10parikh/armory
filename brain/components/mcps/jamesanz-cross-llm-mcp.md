@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 16
 ---
 ## What it is
 An MCP server that enables cross-LLM communication and memory sharing, allowing different AI models to collaborate and share context across conversations.

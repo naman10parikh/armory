@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 30
 ---
 ## What it is
 Interact with LG ThinQ smart home devices and appliances through the ThinQ Connect MCP server.

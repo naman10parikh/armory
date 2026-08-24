@@ -15,6 +15,7 @@ maturity: stable
 verified_at: 2026-05-26
 related: []
 tags: [api]
+stars: null
 ---
 ## What it is
 Official Anthropic skill `claude-api` from the anthropics/skills reference repo — the quality bar for the Skills spec. "Build, debug, and optimize Claude API / Anthropic SDK apps. Apps built with this skill should include prompt caching. Also handles migrating existing Claude API code between Claude model versions (4.5 → 4.6, 4.6 → 4.7, retired-model replacements). TRIGGER when: code imports `anthropic`/`@anthropic-ai/sdk`; user asks for the Claude API, Anthropic...

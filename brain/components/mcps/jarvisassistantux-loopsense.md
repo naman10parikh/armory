@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 2
 ---
 ## What it is
 MCP server that closes the feedback loop for AI coding agents — CI monitoring, process watching, file changes, HTTP polling.

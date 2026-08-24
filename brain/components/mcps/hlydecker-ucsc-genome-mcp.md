@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
+stars: 6
 ---
 ## What it is
 MCP server to interact with the UCSC Genome Browser API, letting you find genomes, chromosomes, and more.

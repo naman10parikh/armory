@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 Deterministic risk governance for crypto trading agents. 5-level policy engine with position sizing, leverage limits, and trade blocking. BTC + ETH.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 2620
 ---
 ## What it is
 MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI.

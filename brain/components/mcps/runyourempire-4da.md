@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: null
 ---
 ## What it is
 Dependency intelligence for AI coding agents. Live CVE scanning, dependency health, upgrade planning, ecosystem news, and decision memory. 14 tools, zero config, privacy-first.

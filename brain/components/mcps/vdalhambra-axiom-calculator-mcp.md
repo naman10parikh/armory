@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Personal finance calculators — mortgage payments, compound interest, FIRE retirement number, loan comparison, true credit cost, and debt payoff. 8 tools, zero API keys, works with `uvx axiom-calculator-mcp`.

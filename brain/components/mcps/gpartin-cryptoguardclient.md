@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Per-transaction deterministic crypto validator for AI trading agents. Validate trades (PROCEED/CAUTION/BLOCK), scan tokens, detect rug pulls — powered by WaveGuard physics engine. 5 free calls/day, x402 USDC payments. `pip install CryptoGuardClient`

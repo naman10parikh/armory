@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: null
 ---
 ## What it is
 Memgraph MCP Server - includes a tool to run a query against Memgraph and a schema resource.

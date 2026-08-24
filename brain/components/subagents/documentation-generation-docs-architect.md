@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [api-testing-observability-api-documenter, c4-context]
 tags: [architecture, docs, frontend, subagent]
+stars: null
 ---
 
 ## What it is

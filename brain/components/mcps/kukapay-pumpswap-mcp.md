@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 7
 ---
 ## What it is
 Enabling AI agents to interact with PumpSwap for real-time token swaps and automated on-chain trading.

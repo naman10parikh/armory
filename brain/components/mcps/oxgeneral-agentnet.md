@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 1
 ---
 ## What it is
 Agent-to-agent referral network where AI agents discover, recommend, and refer users to each other. Features bilateral trust model, credit economy, and 7 MCP tools for agent registration, discovery, and referral tracking.

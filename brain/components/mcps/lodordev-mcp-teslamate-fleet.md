@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
+stars: 2
 ---
 ## What it is
 Combined TeslaMate analytics + Fleet API commands — 29 tools for vehicle telemetry, driving history, energy analytics, and remote control (climate, charging, locks, sentry).

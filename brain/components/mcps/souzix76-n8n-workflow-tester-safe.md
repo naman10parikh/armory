@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 1
 ---
 ## What it is
 Test, score, and inspect n8n workflows via MCP. Config-driven test suites with two-tier scoring, lightweight execution traces, and a built-in node catalog with 436+ nodes.

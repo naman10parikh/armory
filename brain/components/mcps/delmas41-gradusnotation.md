@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: 2
 ---
 ## What it is
 Render music notation (SVG + MusicXML + MIDI) from a JSON score, validate input, analyze MusicXML harmonically, and search a curated music-theory knowledge base. Free, no auth. `npx -y @gradusmusic/notation-mcp`

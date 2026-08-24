@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
+stars: 1
 ---
 ## What it is
 Enterprise-grade sentiment analysis with 95+ labels, keyword extraction, and batch processing for AI agents

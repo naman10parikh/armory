@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 2020
 ---
 ## What it is
 Yet another CLI tool for testing MCP servers

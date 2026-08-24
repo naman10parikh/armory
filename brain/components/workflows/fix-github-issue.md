@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [slash-command, version-control-git]
+stars: null
 ---
 ## What it is
 A community workflow/command by jeremymailen, catalogued in awesome-claude-code. Analyzes and fixes GitHub issues using a structured approach with GitHub CLI for issue details, implementing necessary code changes, running tests, and creating proper commit messages.

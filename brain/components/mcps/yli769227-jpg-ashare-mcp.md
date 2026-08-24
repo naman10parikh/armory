@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 4
 ---
 ## What it is
 MCP server for Chinese A-share financial statements: pull annual reports, run 4 industry-aware accounting cross-checks, peer-compare with auto avg-equity ROE.

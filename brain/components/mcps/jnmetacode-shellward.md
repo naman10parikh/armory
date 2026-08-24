@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 131
 ---
 ## What it is
 AI Agent Security Middleware & MCP Server with 8-layer defense including prompt injection detection, DLP data flow tracking, command blocking, and PII detection. 7 MCP tools, zero dependencies.

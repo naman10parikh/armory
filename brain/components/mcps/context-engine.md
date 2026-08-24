@@ -8,7 +8,7 @@ source_url: https://github.com/melonelish/context-engine
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 356
 eval_score: null
 verified_at: 2026-05-27
 related: []

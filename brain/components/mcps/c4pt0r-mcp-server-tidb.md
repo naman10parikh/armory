@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: 24
 ---
 ## What it is
 TiDB database integration with schema inspection and query capabilities

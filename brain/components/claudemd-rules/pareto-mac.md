@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [comm, ai-intellij-plugin]
 tags: [claude-md, rules, domain-specific]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by ParetoSecurity, catalogued in awesome-claude-code. Serves as development guide for Mac security audit tool with build instructions, contribution guidelines, testing procedures, and workflow documentation.

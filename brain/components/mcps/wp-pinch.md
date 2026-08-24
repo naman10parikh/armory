@@ -8,7 +8,7 @@ source_url: https://github.com/RegionallyFamous/wp-pinch
 license: GPL 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []

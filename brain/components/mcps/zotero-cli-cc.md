@@ -8,7 +8,7 @@ source_url: https://github.com/Agents365-ai/zotero-cli-cc
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 199
 eval_score: null
 verified_at: 2026-05-27
 related: []

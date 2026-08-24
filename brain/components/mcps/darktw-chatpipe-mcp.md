@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 1
 ---
 ## What it is
 Publish HTML as live, shareable web pages from your AI coding agent. Instant URLs with access control (public, password-protected, email-restricted).

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 9
 ---
 ## What it is
 MCP server for cryptocurrency tipping through AI interfaces using x402 payment protocol and CDP Wallet.

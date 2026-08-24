@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
+stars: 1
 ---
 ## What it is
 Sleep disruption cause classifier using The Longevity Vault's 5-cause framework. Identifies the biological mechanism behind 3am wakeups from symptom descriptions, with tracked links to the full interactive 3AM Decoder.

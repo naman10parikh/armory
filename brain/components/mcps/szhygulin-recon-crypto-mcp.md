@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 4
 ---
 ## What it is
 Self-custodial crypto portfolio for AI agents. Reads EVM wallet balances, ENS, token prices, and DeFi positions across Ethereum/Arbitrum/Polygon/Base (Aave V3, Compound V3, Morpho Blue, Uniswap V3 LP, Lido, EigenLayer), surfaces health-factor alerts and protocol risk scores, then prepares unsigned transactions (supply, borrow, repay, withdraw, stake, send, LiFi swap/bridge) signed on Ledger via WalletConnect — private keys never leave the hardware wallet.

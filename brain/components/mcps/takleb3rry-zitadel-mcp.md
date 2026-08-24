@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 10
 ---
 ## What it is
 MCP server for Zitadel identity management — manage users, projects, OIDC apps, roles, and service accounts through natural language.

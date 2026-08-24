@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 44
 ---
 ## What it is
 A MCP server for interacting with [Bruno API Client](https://www.usebruno.com/).

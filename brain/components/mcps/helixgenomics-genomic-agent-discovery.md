@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
+stars: null
 ---
 ## What it is
 Multi-agent MCP server for genomic analysis — specialized AI agents analyze raw DNA files across 16 databases (ClinVar, GWAS, gnomAD, CPIC, AlphaMissense, and more) and coordinate findings through shared MCP tools. Privacy-first, runs locally.

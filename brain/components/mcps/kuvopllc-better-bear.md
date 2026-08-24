@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: null
 ---
 ## What it is
 MCP server for Bear notes via CloudKit — CRUD, tags, TODOs, attachments, search, front matter, stats, and health checks. Install via `npx better-bear`.

@@ -8,7 +8,7 @@ source_url: https://github.com/Gingiris-1031/Competitor-analysis-tool
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 108
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://github.com/karavaev-evgeniy/node-red-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []

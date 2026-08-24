@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
+stars: 34
 ---
 ## What it is
 Accurate weather forecasts via the AccuWeather API (free tier available).

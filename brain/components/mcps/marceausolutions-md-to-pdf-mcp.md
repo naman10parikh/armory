@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
+stars: 8
 ---
 ## What it is
 Convert Markdown files to professional PDFs with customizable themes, headers, footers, and styling

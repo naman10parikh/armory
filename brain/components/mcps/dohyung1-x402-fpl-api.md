@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
+stars: 10
 ---
 ## What it is
 Personalized Fantasy Premier League intelligence — scored captain picks, transfer suggestions, differentials, fixture outlook, price predictions, live points, and a full manager hub that auto-detects your bank balance, free transfers, and chips.

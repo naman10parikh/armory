@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 191
 ---
 ## What it is
 A MCP server that supports searching for Bilibili content. Provides LangChain integration examples and test scripts.

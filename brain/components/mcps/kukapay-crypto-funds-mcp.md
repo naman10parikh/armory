@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 3
 ---
 ## What it is
 Providing AI agents with structured, real-time data on cryptocurrency investment funds.

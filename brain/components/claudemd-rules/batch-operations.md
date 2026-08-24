@@ -9,7 +9,7 @@ source_url: https://github.com/naman10parikh/claude-harness
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: stable
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-26
 related: [consolidate-never-expand, karpathy-coding-discipline]

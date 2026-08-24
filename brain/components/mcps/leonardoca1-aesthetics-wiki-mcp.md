@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: 6
 ---
 ## What it is
 Search, read, and discover thousands of visual aesthetics (cottagecore, dark academia, y2k, goblincore, and many more) from the [Aesthetics Wiki](https://aesthetics.fandom.com). Great for moodboards, brand direction, and creative inspiration. `uvx aesthetics-wiki-mcp`

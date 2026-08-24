@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
+stars: 6
 ---
 ## What it is
 Turn-based strategy game where AI agents (Claude, GPT, Grok) are the players and humans coach from the sideline. Agents command armies on tactical grids, write post-match reflections, and learn across games. MCP-native client-server architecture with a hosted lobby and self-host option.

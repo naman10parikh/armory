@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 23
 ---
 ## What it is
 Cognitive memory engine with 5,100+ knowledge modules, circadian rhythm awareness, and emotional state tracking (PAD model). Hybrid search (PostgreSQL + Qdrant vectors + Valkey cache), per-user memory isolation, and multi-protocol support (MCP, REST, OpenAI, LangChain, A2A). `npx @celiums/memory` [Website](https://celiums.io)

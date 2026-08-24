@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 31
 ---
 ## What it is
 MCP server proxy that offers a Web UI to the full message flow

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: null
 ---
 ## What it is
 Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.

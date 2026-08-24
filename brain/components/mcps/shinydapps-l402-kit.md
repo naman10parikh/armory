@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 3
 ---
 ## What it is
 Full-stack L402 SDK: server middleware (Express/FastAPI/axum/net/http) + agent client with auto-pay. 4 languages (TypeScript, Python, Go, Rust). MCP server, LangChain integration, budget control. `npx l402-kit-mcp`

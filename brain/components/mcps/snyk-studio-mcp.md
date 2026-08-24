@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 54
 ---
 ## What it is
 Embeds Snyk's security engines into agentic workflows. Secures AI-generated code in real-time and accelerates the fixing vulnerability backlogs.

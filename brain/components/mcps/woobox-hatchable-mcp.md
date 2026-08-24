@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
+stars: 1
 ---
 ## What it is
 Build and host full-stack web apps and sites on Hatchable from any MCP client. DB, auth, storage, domains, and cron per project. Free tier.

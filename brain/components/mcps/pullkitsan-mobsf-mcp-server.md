@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 21
 ---
 ## What it is
 A MCP server for MobSF which can be used for static and dynamic analysis of Android and iOS application.

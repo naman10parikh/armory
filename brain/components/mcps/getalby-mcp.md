@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 67
 ---
 ## What it is
 Connect any bitcoin lightning wallet to your agent to send and receive instant payments globally.

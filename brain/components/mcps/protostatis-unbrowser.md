@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 15
 ---
 ## What it is
 Lightweight browser MCP server for LLM agents. Runs JavaScript, follows links, fills forms, manages cookies, and returns low-token BlockMaps from a single native binary without Chrome.

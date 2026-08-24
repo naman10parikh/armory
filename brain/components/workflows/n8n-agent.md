@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
+stars: null
 ---
 ## What it is
 Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.

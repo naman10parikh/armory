@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [avs-vibe-developer-guide, claude-code-mcp-enhanced]
 tags: [claude-code, claude-md-files]
+stars: null
 ---
 ## What it is
 Provides detailed build and test commands using pnpm and Vitest with strict code formatting requirements and comprehensive naming conventions for code consistency.

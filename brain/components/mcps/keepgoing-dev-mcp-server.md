@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 3
 ---
 ## What it is
 Project memory for AI coding sessions. Auto-captures checkpoints on git commits, branch switches, and inactivity, then provides re-entry briefings so AI assistants pick up where you left off. Local-first, no account required.

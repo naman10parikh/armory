@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
+stars: 11
 ---
 ## What it is
 Search and discover movies and TV shows with torrent links, quality scoring, streaming availability, and cast/crew metadata.

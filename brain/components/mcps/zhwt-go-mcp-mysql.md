@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: 65
 ---
 ## What it is
 Easy to use, zero dependency MySQL MCP server built with Golang with configurable readonly mode and schema inspection.

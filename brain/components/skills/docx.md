@@ -15,6 +15,7 @@ maturity: stable
 verified_at: 2026-05-26
 related: []
 tags: [docx, docs]
+stars: null
 ---
 ## What it is
 Official Anthropic skill `docx` from the anthropics/skills reference repo — the quality bar for the Skills spec. "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing...

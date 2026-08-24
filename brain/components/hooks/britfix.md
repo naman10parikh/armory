@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [cc-notify, claude-code-hook-comms-hcom]
 tags: [claude-code, hooks]
+stars: 18
 ---
 ## What it is
 Claude outputs American spellings by default, which can have an impact on: professional credibility, compliance, documentation, and more. Britfix converts to British English, with a Claude Code hook for automatic conversion as files are written. Context-aware: handles code files intelligently by only converting comments and docstrings, never identifiers or string literals.

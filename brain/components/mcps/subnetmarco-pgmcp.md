@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: 540
 ---
 ## What it is
 Natural language PostgreSQL queries with automatic streaming, read-only safety, and universal database compatibility.

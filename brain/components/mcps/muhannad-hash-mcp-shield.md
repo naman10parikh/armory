@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 2
 ---
 ## What it is
 Security scanner for MCP servers. Detects backdoors, exfiltration code, obfuscation, dangerous code execution, prompt injection, and supply chain risks before you install. Four tools: scan npm packages, scan local directories, check prompt injection, and audit supply chain trust score. `npx @muhannad-hash/mcp-shield`

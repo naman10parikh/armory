@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 1
 ---
 ## What it is
 Free URL shortening with batch support (up to 10 URLs), permanent `surl.id` short links, zero credit consumption.

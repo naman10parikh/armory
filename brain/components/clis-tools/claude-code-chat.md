@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
+stars: null
 ---
 ## What it is
 An elegant and user-friendly Claude Code chat interface for VS Code.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
+stars: 17
 ---
 ## What it is
 Official Espressif MCP Server to manage and control ESP RainMaker Devices.

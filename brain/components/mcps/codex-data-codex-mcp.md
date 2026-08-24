@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 25
 ---
 ## What it is
 [Codex API](https://www.codex.io) integration for real-time enriched blockchain and market data on 60+ networks

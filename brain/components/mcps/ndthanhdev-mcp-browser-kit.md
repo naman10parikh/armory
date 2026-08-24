@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 54
 ---
 ## What it is
 An MCP Server that enables AI assistants to interact with your local browsers.

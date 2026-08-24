@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: null
 ---
 ## What it is
 Convert any URL to clean, token-efficient Markdown for AI agents. API-backed extraction with token counting, CSS selector support, and configurable caching via [StripFeed](https://www.stripfeed.dev).

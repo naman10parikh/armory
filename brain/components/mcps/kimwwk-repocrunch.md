@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 9
 ---
 ## What it is
 MCP server that gives AI agents structured, ground-truth GitHub repository intelligence. Analyze tech stack, dependencies, architecture, health metrics, and security indicators with deterministic JSON output.

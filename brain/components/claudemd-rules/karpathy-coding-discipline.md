@@ -9,7 +9,7 @@ source_url: https://github.com/multica-ai/andrej-karpathy-skills
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: stable
-stars: null
+stars: 205980
 eval_score: null
 verified_at: 2026-05-26
 related: [socratic-thinking, simplicity-first, surgical-changes, goal-driven-execution]

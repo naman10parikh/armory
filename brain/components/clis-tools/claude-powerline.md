@@ -8,7 +8,7 @@ source_url: https://github.com/Owloops/claude-powerline
 license: MIT
 cli_compat: [claude]
 maturity: experimental
-stars: null
+stars: 1157
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [slash-command, version-control-git]
+stars: null
 ---
 ## What it is
 A community workflow/command by liam-hq, catalogued in awesome-claude-code. Provides comprehensive PR creation guidance with GitHub CLI, enforcing title conventions, following template structure, and offering concrete command examples with best practices.

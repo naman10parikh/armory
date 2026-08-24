@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 15
 ---
 ## What it is
 Bitcoin Lightning wallet integration powered by Nostr Wallet Connect

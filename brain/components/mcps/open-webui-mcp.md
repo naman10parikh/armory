@@ -8,7 +8,7 @@ source_url: https://github.com/TETRA-2023/open-webui-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []

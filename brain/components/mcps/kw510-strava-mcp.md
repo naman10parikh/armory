@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 26
 ---
 ## What it is
 An MCP server for Strava, an app for tracking physical exercise

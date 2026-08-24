@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
+stars: null
 ---
 ## What it is
 Google Maps integration for location services, routing, and place details

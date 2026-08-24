@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
+stars: null
 ---
 ## What it is
 Interactive with Gitea instances with MCP.

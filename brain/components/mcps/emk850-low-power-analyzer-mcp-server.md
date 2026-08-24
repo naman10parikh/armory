@@ -8,7 +8,7 @@ source_url: https://github.com/createskyblue/Yingjia_EMK850_low-power_analyzer_M
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []

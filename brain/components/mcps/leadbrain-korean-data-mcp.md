@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 2
 ---
 ## What it is
 Real-time Korean web data — Naver place reviews, Melon music chart, Daangn/Bunjang marketplace listings, Naver news, Musinsa fashion rankings. 7 tools powered by Apify actors. Requires APIFY_TOKEN.

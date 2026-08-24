@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, slash-commands]
+stars: null
 ---
 ## What it is
 Initializes reference documentation structure with standard doc templates, API reference setup, documentation conventions, and placeholder content generation.

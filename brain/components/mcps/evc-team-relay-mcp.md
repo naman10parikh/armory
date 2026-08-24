@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 3
 ---
 ## What it is
 Give AI agents read/write access to your Obsidian vault via MCP

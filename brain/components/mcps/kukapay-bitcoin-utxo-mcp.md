@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 2
 ---
 ## What it is
 An MCP server that tracks Bitcoin's Unspent Transaction Outputs (UTXO) and block statistics.

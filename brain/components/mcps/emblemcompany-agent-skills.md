@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 12
 ---
 ## What it is
 200+ crypto tools for AI agents across 7 blockchains (Solana, Ethereum, Base, BSC, Polygon, Hedera, Bitcoin). Swaps, DeFi yield, conditional orders, NFTs, cross-chain bridges, and market intelligence. Hosted MCP at `https://emblemvault.ai/api/mcp` with OAuth 2.0 + PKCE for one-line install in Claude Code, Cursor, Windsurf, and any MCP-compatible client. API key and x402 per-tool-call micropayments also supported.

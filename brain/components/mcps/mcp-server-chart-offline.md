@@ -8,7 +8,7 @@ source_url: https://github.com/liukeyu800/mcp-server-chart-offline
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []

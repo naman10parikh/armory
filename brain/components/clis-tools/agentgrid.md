@@ -9,7 +9,7 @@ source_url: https://github.com/naman10parikh/agentgrid
 license: MIT
 cli_compat: [claude, codex, opencode]
 maturity: stable
-stars: null
+stars: 8
 eval_score: null
 verified_at: 2026-05-26
 related: [agentswarm, ceo-launch, ceo-launch-grid, recursive-grid]

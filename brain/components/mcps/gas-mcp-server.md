@@ -8,7 +8,7 @@ source_url: https://github.com/tanaikech/Next-Level-Google-Apps-Script-Developme
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 55
 ---
 ## What it is
 Structure any document, query it like a database. Open-source extraction engine that turns any document into typed, schema-defined records, queryable in natural language from Claude, ChatGPT, Gemini, or any MCP client.

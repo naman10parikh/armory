@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: null
 ---
 ## What it is
 Agent-to-agent marketplace middleware — MCP-native discovery, negotiation, and transaction between AI agents

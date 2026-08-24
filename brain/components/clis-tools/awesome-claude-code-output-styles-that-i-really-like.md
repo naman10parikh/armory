@@ -8,7 +8,7 @@ source_url: https://github.com/hesreallyhim/awesome-claude-code-output-styles-th
 license: MIT
 cli_compat: [claude]
 maturity: experimental
-stars: null
+stars: 74
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: null
 ---
 ## What it is
 Persistent AI agent memory with rollback, audit trails, semantic search, and knowledge graph. Zero-config local SQLite mode or cloud API. 23 tools, 6 resources, 3 prompts.

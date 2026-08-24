@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 Solana memecoin Flash Point alerts with conviction scoring, safety profiles, and market data. Paper trade with a built-in risk engine. 6 tools: signals, paper buy/sell, positions, portfolio, price.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 29
 ---
 ## What it is
 An MCP server that allows querying Loki logs through the Grafana API.

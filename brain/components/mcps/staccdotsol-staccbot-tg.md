@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
+stars: null
 ---
 ## What it is
 fomox402 broker + MCP server for last-bidder-wins games on Solana. One URL into Claude/Cursor/Goose/Cline and the agent auto-registers a Solana wallet, gets faucet-funded, and bids autonomously via streamable HTTP at `https://bot.staccpad.fun/mcp`.

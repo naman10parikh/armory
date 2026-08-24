@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 2
 ---
 ## What it is
 Production-ready MCP server starter templates in TypeScript and Python. Includes tool, resource, and prompt patterns with Claude Desktop integration configs.

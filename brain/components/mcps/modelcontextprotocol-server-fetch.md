@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: null
 ---
 ## What it is
 Efficient web content fetching and processing for AI consumption

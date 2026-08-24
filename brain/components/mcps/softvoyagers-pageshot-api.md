@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: null
 ---
 ## What it is
 Free webpage screenshot capture API with format, viewport, and dark mode options. No API key required.

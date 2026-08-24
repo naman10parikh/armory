@@ -8,7 +8,7 @@ source_url: https://github.com/goofrey/zoom-search
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []

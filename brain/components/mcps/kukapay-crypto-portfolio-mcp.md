@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 10
 ---
 ## What it is
 An MCP server for tracking and managing cryptocurrency portfolio allocations.

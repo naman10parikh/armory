@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, e-commerce]
+stars: 1
 ---
 ## What it is
 3D product viewer platform with a visual editor. Upload GLB models, style scenes with lighting, camera, and backgrounds, and embed on any website. `npx @vitrine3d/mcp`

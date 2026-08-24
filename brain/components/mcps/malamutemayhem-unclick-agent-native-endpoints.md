@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: null
 ---
 ## What it is
 110+ tools for AI agents spanning social media, finance, gaming, music, AU-specific services, and utilities. Zero-config local tools plus platform connectors. `npx @unclick/mcp-server`

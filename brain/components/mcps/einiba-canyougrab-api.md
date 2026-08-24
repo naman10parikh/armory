@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: null
 ---
 ## What it is
 Confidence-scored domain availability checking with real-time DNS + WHOIS lookups. Bulk check up to 100 domains per request. Each result includes availability, confidence level, data source, and registration details.

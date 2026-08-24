@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, code-execution]
+stars: null
 ---
 ## What it is
 Run untrusted Python/JavaScript code in WebAssembly sandboxes.

@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [slash-command, version-control-git]
+stars: null
 ---
 ## What it is
 A community workflow/command by evmts, catalogued in awesome-claude-code. Sets up and manages Husky Git hooks by configuring pre-commit hooks, establishing commit message standards, integrating with linting tools, and ensuring code quality on commits.

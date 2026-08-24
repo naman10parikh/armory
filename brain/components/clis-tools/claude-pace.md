@@ -8,7 +8,7 @@ source_url: https://github.com/Astro-Han/claude-pace
 license: MIT
 cli_compat: [claude]
 maturity: experimental
-stars: null
+stars: 224
 eval_score: null
 verified_at: 2026-05-27
 related: []

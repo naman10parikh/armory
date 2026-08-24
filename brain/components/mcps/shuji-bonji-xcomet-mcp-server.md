@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, translation-services]
+stars: 2
 ---
 ## What it is
 Translation quality evaluation using xCOMET models. Provides quality scoring (0-1), error detection with severity levels (minor/major/critical), and optimized batch processing with 25x speedup.

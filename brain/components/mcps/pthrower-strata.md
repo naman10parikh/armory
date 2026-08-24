@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: null
 ---
 ## What it is
 AI ecosystem intelligence MCP server. Verified best practices, news, integrations, and MCP server directory across 22 AI ecosystems including Claude, ChatGPT, Gemini, LangChain, Groq, Cursor, and more. Claude-validated, injection-safe, refreshed twice daily. 📇 ☁️

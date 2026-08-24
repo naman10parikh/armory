@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 30
 ---
 ## What it is
 Feature-complete Obsidian vault MCP server with 23 tools and 3 resources. Full-text search, note CRUD, frontmatter queries, tag management, backlinks, graph traversal (BFS up to 5 hops), orphan/broken link detection, and canvas support. Auto-detects vault, path traversal protection, MIT licensed.

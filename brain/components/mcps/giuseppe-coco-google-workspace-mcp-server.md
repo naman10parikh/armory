@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 30
 ---
 ## What it is
 MCP server that seamlessly interacts with your Google Calendar, Gmail, Drive and so on.

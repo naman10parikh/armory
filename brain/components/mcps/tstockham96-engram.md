@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 46
 ---
 ## What it is
 Intelligent agent memory with semantic recall, automatic consolidation, contradiction detection, and bi-temporal knowledge graph. 80% on LOCOMO benchmark using 96% fewer tokens than full-context approaches.

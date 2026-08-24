@@ -8,7 +8,7 @@ source_url: https://github.com/zerx-lab/FluxDown
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 2557
 eval_score: null
 verified_at: 2026-05-27
 related: []

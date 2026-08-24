@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
+stars: 742
 ---
 ## What it is
 An Emacs interface for Claude Code CLI.

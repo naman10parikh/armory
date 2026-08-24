@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 3
 ---
 ## What it is
 Query, summarize, and trace logs in plain English across GCP Cloud Logging, AWS CloudWatch, Azure Log Analytics, Grafana Loki, and Elasticsearch

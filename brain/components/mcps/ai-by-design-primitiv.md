@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 19
 ---
 ## What it is
 Design contract layer for your codebase. Scans Figma, code, Storybook, and token files, reconciles conflicts, and serves a single machine-readable source of truth over MCP so every agent gets the same authoritative design rules before it builds. Local-first — your code never leaves your machine.

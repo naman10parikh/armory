@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 35
 ---
 ## What it is
 Structured planning, parallel execution in git worktrees, and deep validation for Claude Code. Turns a one-line objective into a validated DAG of modules executed by worker agents, each self-checked and cross-module-reviewed before merge-back. 7 MCP tools: `validate`, `validate_plan`, `memory_recall`, `memory_save`, `iteration_state` (per-run scoped, with stagnation/velocity/oscillation detection), `forge_logs`, `session_state`. Stdio-only. Zero telemetry.

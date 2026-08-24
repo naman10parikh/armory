@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 7
 ---
 ## What it is
 Am MCP server for LNbits Lightning Network wallet integration.

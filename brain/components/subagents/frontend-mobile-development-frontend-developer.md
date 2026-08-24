@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [frontend-mobile-security-frontend-developer, monorepo-architect]
 tags: [architecture, frontend, mobile, performance, subagent]
+stars: null
 ---
 
 ## What it is

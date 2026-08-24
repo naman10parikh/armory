@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [context-management-context-manager, database-admin]
 tags: [database, subagent]
+stars: null
 ---
 
 ## What it is

@@ -8,7 +8,7 @@ source_url: https://github.com/XuebinMa/AIWiki
 license: CC BY-SA 4.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []

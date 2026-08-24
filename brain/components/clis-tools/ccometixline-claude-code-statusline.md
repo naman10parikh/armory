@@ -8,7 +8,7 @@ source_url: https://github.com/Haleclipse/CCometixLine
 license: NOT_FOUND
 cli_compat: [claude]
 maturity: experimental
-stars: null
+stars: 3449
 eval_score: null
 verified_at: 2026-05-27
 related: []

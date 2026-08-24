@@ -8,7 +8,7 @@ source_url: https://github.com/trpc-group/trpc-a2a-go
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 242
 eval_score: null
 verified_at: 2026-05-28
 related: []

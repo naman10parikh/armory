@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ai-intellij-plugin, aws-mcp-server]
 tags: [claude-md, rules, language-specific]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by langchain-ai, catalogued in awesome-claude-code. Offers comprehensive build and test commands with detailed TypeScript style guidelines, layered library architecture, and monorepo structure using yarn workspaces.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
+stars: 1
 ---
 ## What it is
 Real-time last-minute tour and activity booking. 8,000+ live slots from 29 suppliers across 16 countries via OCTO open standard. Search availability, create Stripe checkouts, and track bookings.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, slash-commands]
+stars: null
 ---
 ## What it is
 Sets up initial project context by viewing directory structure and reading key files, creating standardized context with directory visualization and key documentation focus.

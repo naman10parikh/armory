@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, architecture-design]
+stars: 15
 ---
 ## What it is
 MCP server that turns local projects or GitHub repositories into Mermaid diagrams and renders them via Kroki.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: 2
 ---
 ## What it is
 Email read tracking via Gmail. Send tracked emails, check if they were opened with open count, device, and timing.

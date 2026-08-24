@@ -14,6 +14,7 @@ maturity: stable
 verified_at: 2026-05-26
 related: []
 tags: [design, creative, brand]
+stars: null
 ---
 ## What it is
 Official Anthropic skill `brand-guidelines` from the anthropics/skills reference repo — the quality bar for the Skills spec. Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.

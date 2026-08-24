@@ -12,6 +12,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [common-agents, common-code-review]
 tags: [rules, security, common]
+stars: null
 ---
 
 ## What it is

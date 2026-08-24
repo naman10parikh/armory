@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [database-admin, database-cloud-optimization-database-architect]
 tags: [architecture, database, performance, subagent]
+stars: null
 ---
 
 ## What it is

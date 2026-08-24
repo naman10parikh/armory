@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 90
 ---
 ## What it is
 MCP server that lets LLMs know everything about your OpenAPI specifications to discover, explain and generate code/mock data

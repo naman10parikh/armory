@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
+stars: 94
 ---
 ## What it is
 Interact seamlessly with issues and merge requests of your GitLab projects.

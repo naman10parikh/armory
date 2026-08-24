@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, sports]
+stars: 10
 ---
 ## What it is
 Access live and historical NBA statistics including player stats, game scores, team data, and advanced analytics via Model Context Protocol

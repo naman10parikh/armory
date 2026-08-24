@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 86
 ---
 ## What it is
 🤖 - MCP server for ROS2 enabling AI-driven robotics applications and services.

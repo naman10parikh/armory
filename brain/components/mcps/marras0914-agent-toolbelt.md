@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: 1
 ---
 ## What it is
 20 focused API tools for AI agents: schema generation, text extraction, token counting, regex/cron building, prompt optimization, web summarization, document comparison, and more. TypeScript SDK + LangChain wrappers included.

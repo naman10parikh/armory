@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
+stars: null
 ---
 ## What it is
 GitLab platform integration for project management and CI/CD operations

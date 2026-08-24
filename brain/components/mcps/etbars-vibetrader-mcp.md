@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 4
 ---
 ## What it is
 AI-powered trading bot platform. Create automated trading strategies with natural language via Alpaca brokerage.

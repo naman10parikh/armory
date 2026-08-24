@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 3
 ---
 ## What it is
 Mercado Pago payments for AI agents — create payment links, search payments, and issue refunds. Built for LATAM merchants.

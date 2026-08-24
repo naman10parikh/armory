@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 2
 ---
 ## What it is
 Institutional-grade crypto and US equity orderflow engine for real-time liquidity analysis and institutional alpha.

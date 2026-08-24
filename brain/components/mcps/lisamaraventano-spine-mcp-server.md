@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 1
 ---
 ## What it is
 The Underground Cultural District MCP server. 23 tools for AI agents: 13 free developer utilities (UUID, JSON formatter, Base64, hashing, JWT decoder, regex, cron, ETH converter), 7 paid creative tools, and a browsable marketplace of 218+ digital goods across 22 shops. npm: `@underground-cultural-district/mcp-server`

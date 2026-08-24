@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 1
 ---
 ## What it is
 Strategic task prioritization and agent orchestration for multi-project operators. 22 MCP tools with 5-factor scoring engine, advisory document analysis, agent dispatch with autonomy levels, HMAC webhooks, time-aware planning, and CI/CD integration. Standalone CLI + MCP server.

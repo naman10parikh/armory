@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Solana blockchain data for AI agents — wallet balances, token prices, DeFi yields (Raydium + Orca), and token safety checks (RugCheck scores, holder concentration, insider detection).

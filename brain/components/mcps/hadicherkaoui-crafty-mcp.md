@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
+stars: 2
 ---
 ## What it is
 MCP server for managing Minecraft servers through [Crafty Controller 4](https://craftycontrol.com). Start, stop, backup, send commands, manage files, schedules, webhooks, and users via the Crafty API.

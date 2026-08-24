@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 1
 ---
 ## What it is
 A simple memory tool for coding agents using DuckDB and VoyageAI.

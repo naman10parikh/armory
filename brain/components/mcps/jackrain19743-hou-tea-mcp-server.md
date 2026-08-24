@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Browse, recommend, and **buy authentic Chinese tea** from hou-tea.com using **USDC stablecoin via the x402 protocol**. First commerce MCP that ships real on-chain payment intents (delegated to wallet MCPs like `@coinbase/payments-mcp`). 8 tools: browse / recommend / explain / compare / health-filter / payment / order-status / agent-card.

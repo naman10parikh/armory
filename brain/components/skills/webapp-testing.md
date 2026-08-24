@@ -13,6 +13,7 @@ maturity: stable
 verified_at: 2026-05-26
 related: []
 tags: [testing, frontend, web]
+stars: null
 ---
 ## What it is
 Official Anthropic skill `webapp-testing` from the anthropics/skills reference repo — the quality bar for the Skills spec. Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 3
 ---
 ## What it is
 Preflight by [x402station.io](https://x402station.io) — infrastructure for x402 agentic commerce. Six capability directions (Discover/Evaluate/Pay/Monitor/Recover/Analyze). Agents call it before every `PAYMENT-SIGNATURE` to detect decoys, zombie endpoints, dead services, and price traps. Tools: `preflight` ($0.001), `forensics` ($0.001), `catalog_decoys` ($0.005), `alternatives` ($0.005), `whats_new` ($0.001), `buy_credits` ($0.50 = 1000 prepaid), `watch_subscribe` ($0.01) + free `credits_status`/`watch_status`/`watch_unsubscribe`. Plus free anonymous `preflight-trial` for self-test. Probes ~50k endpoints on agentic.market every 10 min. Open dataset: [huggingface.co/datasets/x402station/preflight-dataset-v0_1](https://huggingface.co/datasets/x402station/preflight-dataset-v0_1). `npx -y x402station-mcp`.

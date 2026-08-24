@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 Enrich any UK business with Companies House records, Google Places ratings, website/SSL status, and social media links in one call. Four data sources, single JSON response.

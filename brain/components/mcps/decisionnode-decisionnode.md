@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 81
 ---
 ## What it is
 Record development decisions as structured JSON, embed as vectors via Gemini, and search semantically over MCP. Shared store across Claude Code, Cursor, Windsurf, and any MCP client. CLI + MCP server, local-only, free Gemini embedding tier.

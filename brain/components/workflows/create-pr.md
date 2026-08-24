@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [slash-command, version-control-git]
+stars: null
 ---
 ## What it is
 A community workflow/command by toyamarinyon, catalogued in awesome-claude-code. Streamlines pull request creation by handling the entire workflow: creating a new branch, committing changes, formatting modified files with Biome, and submitting the PR.

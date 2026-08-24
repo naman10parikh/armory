@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 41
 ---
 ## What it is
 Code Intelligence for Elixir: module search, function tracking, and PR attribution through tree-sitter AST parsing

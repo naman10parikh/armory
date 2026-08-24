@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [avs-vibe-developer-guide, claude-code-mcp-enhanced]
 tags: [claude-code, claude-md-files]
+stars: null
 ---
 ## What it is
 Serves as reference for production prompt engineering library with load balancing of AI Models, API documentation, and usage patterns with examples.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 6
 ---
 ## What it is
 Record and share your AI-driven development journey. Auto-saves project milestones with summaries, generates structured AI prompts via 5-question planning, and publishes to [pmptwiki.com](https://pmptwiki.com) community platform.

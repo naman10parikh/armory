@@ -8,7 +8,7 @@ source_url: https://github.com/brs077/3dp-mcp-server
 license: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []

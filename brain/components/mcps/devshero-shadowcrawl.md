@@ -8,7 +8,7 @@ source_url: https://github.com/DevsHero/ShadowCrawl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

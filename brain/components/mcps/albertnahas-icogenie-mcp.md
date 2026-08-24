@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: 6
 ---
 ## What it is
 AI-powered SVG icon generation MCP server. Generate production-ready SVG icons from text descriptions with customizable styles.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 4113
 ---
 ## What it is
 An MCP server that indexes local code into a graph database to provide context to AI assistants with a graphical code visualizations for humans.

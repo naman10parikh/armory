@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, slash-commands]
+stars: null
 ---
 ## What it is
 References specific files for sparse matrix operations, explains transform usage, compares with previous approaches, and sets data formatting context for development.

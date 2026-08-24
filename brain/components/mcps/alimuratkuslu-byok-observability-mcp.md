@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 4
 ---
 ## What it is
 Comprehensive MCP server for Grafana, Prometheus, Kafka UI, and Datadog with a secure "Bring Your Own Key" or BYOK model.

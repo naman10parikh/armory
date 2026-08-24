@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [cc-notify, claude-hooks]
 tags: [claude-code, hooks]
+stars: 113
 ---
 ## What it is
 A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.

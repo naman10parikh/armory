@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, e-commerce]
+stars: 1
 ---
 ## What it is
 Official remote MCP server for Color Me Shop (GMO Pepabo), a Japanese e-commerce platform. Manage orders, products, inventory, customers, coupons, and shop settings via natural language.

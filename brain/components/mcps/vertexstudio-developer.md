@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 21
 ---
 ## What it is
 Comprehensive developer tools for file editing, shell command execution, and screen capture capabilities

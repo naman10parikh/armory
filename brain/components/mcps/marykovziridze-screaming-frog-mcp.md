@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
+stars: 2
 ---
 ## What it is
 Screaming Frog SEO Spider headless crawls, data export, and technical SEO audit skill for Claude. 8 tools, cross-platform (Mac + Windows), includes a ready-to-use technical SEO scan skill.

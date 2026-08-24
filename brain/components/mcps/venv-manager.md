@@ -8,7 +8,7 @@ source_url: https://github.com/jacopobonomi/venv_manager
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []

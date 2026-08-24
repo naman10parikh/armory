@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: null
 ---
 ## What it is
 Free instant HTML hosting API with paste, file upload, and ZIP deploy support. No API key required.

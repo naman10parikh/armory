@@ -12,6 +12,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ai-intellij-plugin, aws-mcp-server]
 tags: [claude-md, rules, language-specific]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by mattgodbolt, catalogued in awesome-claude-code. Provides development guide for JavaScript BBC Micro emulator with build and testing instructions, architecture documentation, and debugging workflows.

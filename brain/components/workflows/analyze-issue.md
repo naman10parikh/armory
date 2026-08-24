@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [slash-command, version-control-git]
+stars: null
 ---
 ## What it is
 A community workflow/command by jerseycheese, catalogued in awesome-claude-code. Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, agent-skills]
+stars: 5447
 ---
 ## What it is
 A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.

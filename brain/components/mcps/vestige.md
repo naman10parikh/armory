@@ -8,7 +8,7 @@ source_url: https://github.com/samvallad33/vestige
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 608
 eval_score: null
 verified_at: 2026-05-27
 related: []

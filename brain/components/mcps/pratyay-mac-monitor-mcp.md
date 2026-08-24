@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 23
 ---
 ## What it is
 Identifies resource-intensive processes on macOS and provides performance improvement suggestions.

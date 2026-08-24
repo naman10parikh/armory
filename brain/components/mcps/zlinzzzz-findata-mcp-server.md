@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 58
 ---
 ## What it is
 An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 35
 ---
 ## What it is
 A list of MCP servers so you can ask your client which servers you can use to improve your daily workflow.

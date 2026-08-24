@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 5
 ---
 ## What it is
 MCP server that connects your IDE or AI assistant to GitHub Copilot CLI for code analysis, review, and batch processing

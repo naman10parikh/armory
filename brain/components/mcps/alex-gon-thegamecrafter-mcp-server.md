@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
+stars: 3
 ---
 ## What it is
 Design, manage, and price tabletop games on The Game Crafter. Browse catalogs, create projects, upload artwork, get pricing.

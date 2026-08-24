@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 5
 ---
 ## What it is
 Persistent, cross-session task management for Claude Code. 24 MCP tools, 7 skills, and agent coordination with event-sourced storage and per-project isolation.

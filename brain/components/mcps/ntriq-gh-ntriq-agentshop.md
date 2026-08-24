@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 Document intelligence, invoice extraction, PII detection, and sentiment analysis via x402 micropayments. Pay-per-use with USDC on Base — no API keys. 6 endpoints from $0.01.

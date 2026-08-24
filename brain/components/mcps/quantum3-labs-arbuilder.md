@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 24
 ---
 ## What it is
 AI-powered code generator for the Arbitrum ecosystem. 19 MCP tools for Stylus smart contracts, SDK bridging, full-stack dApps, and Orbit chain deployment, backed by RAG-based retrieval over Arbitrum documentation.

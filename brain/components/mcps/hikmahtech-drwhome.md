@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: null
 ---
 ## What it is
 Remote MCP server at `https://drwho.me/mcp/mcp` with 10 developer utilities: base64 encode/decode, JWT decode (no verify), DNS lookup via Cloudflare DoH, UUID v4/v7, URL encode/decode, JSON format, User-Agent parse, IP lookup via ipinfo. Open access over streamable HTTP — point Claude Desktop at the URL.

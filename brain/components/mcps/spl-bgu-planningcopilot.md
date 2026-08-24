@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 4
 ---
 ## What it is
 A tool-augmented LLM system for the full PDDL planning pipeline, improving reliability without domain-specific training.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 2
 ---
 ## What it is
 Smart memory with exponential decay. Memories strengthen on access and fade when unused — solving the Karpathy problem of unbounded context growth. 7 tools, SQLite-based, zero dependencies.

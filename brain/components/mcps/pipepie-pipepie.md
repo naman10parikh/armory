@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 8
 ---
 ## What it is
 Self-hosted webhook relay and tunnel with Noise NK encryption. 13 MCP tools to inspect requests, replay webhooks, trace AI pipelines, connect/disconnect tunnels, and manage subdomains. No tokens or passwords — the cryptographic handshake is the auth.

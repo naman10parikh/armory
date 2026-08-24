@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, customer-data-platforms]
+stars: 10
 ---
 ## What it is
 An MCP server to access and updates profiles on an Apache Unomi CDP server.

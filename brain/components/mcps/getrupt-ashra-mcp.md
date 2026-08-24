@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: null
 ---
 ## What it is
 Extract structured data from any website. Just prompt and get JSON.

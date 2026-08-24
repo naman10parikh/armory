@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
+stars: 16
 ---
 ## What it is
 An MCP server for interacting with Bluesky via the atproto client.

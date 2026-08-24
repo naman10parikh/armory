@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 1
 ---
 ## What it is
 Web intelligence API for AI agents — screenshot capture, PDF generation, page metadata extraction, and 75+ specialized data extractors for news, social media, SERP, pricing, and more. Free tier included.

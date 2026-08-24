@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 34
 ---
 ## What it is
 Control HarmonyOS-next devices with AI through MCP. Support device control and UI automation.

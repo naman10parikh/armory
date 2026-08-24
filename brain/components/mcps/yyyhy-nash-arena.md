@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 3
 ---
 ## What it is
 A Chess and Card Game Arena For LLM, Agents can battle in game by mcp

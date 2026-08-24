@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 15
 ---
 ## What it is
 A MCP server that provides gene set enrichment analysis using the Enrichr API

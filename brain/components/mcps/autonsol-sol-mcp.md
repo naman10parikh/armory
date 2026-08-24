@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Solana token risk scoring and pump.fun graduation signals. Score any token by mint address (0-100 risk, risk_label, holder concentration, liquidity), detect graduation momentum (buy/sell ratio, velocity), and query trust attestations. Live API. Freemium — 4 free tools, PRO via x402 micropayments ($0.01/call USDC).

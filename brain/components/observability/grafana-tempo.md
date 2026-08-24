@@ -8,7 +8,7 @@ source_url: https://github.com/grafana/tempo
 license: AGPL-3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: null
+stars: 5452
 eval_score: null
 verified_at: 2026-05-27
 related: []

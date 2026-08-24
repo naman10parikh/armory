@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: null
 ---
 ## What it is
 Persistent semantic memory for AI agents. SQLite-backed, local-first, zero config. Semantic search via Ollama embeddings (nomic-embed-text) with keyword fallback. remember, recall, history, forget, and stats tools. Works with Claude Desktop, Cursor, and any MCP client.

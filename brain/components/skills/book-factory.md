@@ -12,6 +12,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [skill]
+stars: 106
 ---
 ## What it is
 A community agent skill by Robert Guss, catalogued in awesome-claude-code. A comprehensive pipeline of Skills that replicates traditional publishing infrastructure for nonfiction book creation using specialized Claude skills.

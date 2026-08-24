@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
+stars: 6
 ---
 ## What it is
 This is an MCP server used for querying books, and it can be applied in common MCP clients, such as Cherry Studio.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: null
 ---
 ## What it is
 Full Gmail operations via Unipile API: send, reply, list, read, delete, search, manage labels, attachments, and drafts. Dry-run by default on destructive actions.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, slash-commands]
+stars: null
 ---
 ## What it is
 Loads LLM configuration files to context, importing specific terminology, model configurations, and establishing baseline terminology for AI discussions.

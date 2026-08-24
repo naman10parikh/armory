@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 2
 ---
 ## What it is
 AI-native web analytics. Query pageviews, top pages, referrers, countries, devices, and custom events. Create conversion funnels and alerts.

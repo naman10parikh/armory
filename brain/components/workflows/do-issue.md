@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [slash-command, project-task-management]
+stars: null
 ---
 ## What it is
 A community workflow/command by jerseycheese, catalogued in awesome-claude-code. Implements GitHub issues with manual review points, following a structured approach with issue number parameter and offering alternative automated mode for efficiency.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 2
 ---
 ## What it is
 Bridge to OpenAI API. Access GPT-4, GPT-4o and other OpenAI models through MCP.

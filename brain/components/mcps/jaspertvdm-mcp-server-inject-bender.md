@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: null
 ---
 ## What it is
 Security through absurdity: transforms SQL injection and XSS attempts into harmless comedy responses using AI-powered humor defense.

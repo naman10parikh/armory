@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 61
 ---
 ## What it is
 MCP server providing AI assistants with full control of Neovim instances via msgpack-RPC. Read/edit buffers, run commands, send keys, query LSP diagnostics, and annotate code with highlights. No plugin required.

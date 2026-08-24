@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
+stars: 4
 ---
 ## What it is
 MCP server for VTENext CRM (open-source vtiger-based). Query, create and update opportunities and contacts via the WebService API. Available on npm as `@castaldosolutions/mcp-vtenext`.

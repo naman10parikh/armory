@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
+stars: 2
 ---
 ## What it is
 Explore French communes and cadastral parcels based on name and surface

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 DeFi tools for AI agents on Base. Live Uniswap V3 prices (slot0), on-chain agent scoring, and DeFi knowledge base. Pay-per-query via x402 micropayments in USDC.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 1
 ---
 ## What it is
 MCP server that provides comprehensive WHOIS lookup capabilities using the IP2WHOIS API. This server allows AI agents to query domain registration details, including expiry dates, registrar information, and registrant data.

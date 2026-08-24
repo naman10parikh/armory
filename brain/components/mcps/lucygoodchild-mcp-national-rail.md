@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
+stars: 7
 ---
 ## What it is
 An MCP server for UK National Rail trains service, providing train schedules and live travel information, intergrating the Realtime Trains API

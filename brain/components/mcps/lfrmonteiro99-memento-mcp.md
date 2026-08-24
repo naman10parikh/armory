@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 2
 ---
 ## What it is
 Local-first persistent memory for AI coding agents. Captures facts, decisions, patterns, and architecture notes in SQLite (with optional cloud embeddings) to reduce repeated context across sessions.

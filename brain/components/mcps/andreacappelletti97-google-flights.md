@@ -8,7 +8,7 @@ source_url: https://github.com/andreacappelletti97/google-flights-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

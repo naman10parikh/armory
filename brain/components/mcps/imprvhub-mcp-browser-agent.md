@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 41
 ---
 ## What it is
 A Model Context Protocol (MCP) integration that provides Claude Desktop with autonomous browser automation capabilities.

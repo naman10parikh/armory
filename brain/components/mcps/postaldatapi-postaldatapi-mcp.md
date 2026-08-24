@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
+stars: 1
 ---
 ## What it is
 Global postal code lookups, validation, and city search for 240+ countries with timezone, admin region, and elevation metadata. Sub-10ms responses at $0.000028/query with 1,000 free queries on signup.

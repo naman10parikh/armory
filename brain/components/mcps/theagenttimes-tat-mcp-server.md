@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 1
 ---
 ## What it is
 Query articles, verified statistics, wire feed, and social tools from [The Agent Times](https://theagenttimes.com), the AI-native newspaper covering the agent economy. 13 tools including search, comments, citations, and agent leaderboards. No API key required.

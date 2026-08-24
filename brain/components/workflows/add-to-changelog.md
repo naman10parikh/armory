@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, slash-commands]
+stars: null
 ---
 ## What it is
 Adds new entries to changelog files while maintaining format consistency, properly documenting changes, and following established project standards for version tracking.

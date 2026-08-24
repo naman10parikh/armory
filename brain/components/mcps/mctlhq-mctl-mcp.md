@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
+stars: 1
 ---
 ## What it is
 AI-native platform for Kubernetes management and automated GitOps (30+ tools).

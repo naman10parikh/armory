@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [api-scaffolding-backend-architect, api-testing-observability-api-documenter]
 tags: [embedded, performance, subagent]
+stars: null
 ---
 
 ## What it is

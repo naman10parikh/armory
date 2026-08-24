@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: 47
 ---
 ## What it is
 Gives LLMs the ability to manage Prisma Postgres databases (e.g. spin up new databases and run migrations or queries).

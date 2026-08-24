@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: 2
 ---
 ## What it is
 Remote MCP Server for discovering and planning experiences, at home and on vacation

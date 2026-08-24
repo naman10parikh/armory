@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [cicd-automation-kubernetes-architect, cloud-infrastructure-kubernetes-architect]
 tags: [architecture, database, devops, performance, security]
+stars: null
 ---
 
 ## What it is

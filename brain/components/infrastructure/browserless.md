@@ -8,7 +8,7 @@ source_url: https://github.com/browserless/browserless
 license: SSPL-1.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: null
+stars: 13627
 eval_score: null
 verified_at: 2026-05-28
 related: []

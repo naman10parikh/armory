@@ -14,6 +14,7 @@ maturity: stable
 verified_at: 2026-05-26
 related: []
 tags: [creative, frontend, web]
+stars: null
 ---
 ## What it is
 Official Anthropic skill `web-artifacts-builder` from the anthropics/skills reference repo — the quality bar for the Skills spec. Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.

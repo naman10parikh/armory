@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, research]
+stars: 10
 ---
 ## What it is
 Evidence-grounded web research for AI agents. Verifies page-local claims with citations, confidence bands, policy reports, and multi-page session synthesis via MCP.

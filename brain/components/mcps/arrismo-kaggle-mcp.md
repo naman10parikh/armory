@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
+stars: 39
 ---
 ## What it is
 Connects to Kaggle, ability to download and analyze datasets.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 45
 ---
 ## What it is
 An MCP tool for querying Solana transactions using natural language with Solscan API.

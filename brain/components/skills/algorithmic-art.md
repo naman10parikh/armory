@@ -15,6 +15,7 @@ maturity: stable
 verified_at: 2026-05-26
 related: []
 tags: [creative]
+stars: null
 ---
 ## What it is
 Official Anthropic skill `algorithmic-art` from the anthropics/skills reference repo — the quality bar for the Skills spec. Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, e-commerce]
+stars: null
 ---
 ## What it is
 Structured product data from the open web — Schema.org + AI extraction for e-commerce enrichment. Pay per call via Stripe. [shopgraph.dev](https://shopgraph.dev)

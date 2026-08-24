@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 12
 ---
 ## What it is
 Plays [Melrōse](https://melrōse.org) music expressions as MIDI

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 9
 ---
 ## What it is
 Universal deployment tracker for AI assistants with live status badges and deployment monitoring

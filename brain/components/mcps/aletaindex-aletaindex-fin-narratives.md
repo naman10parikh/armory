@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 2
 ---
 ## What it is
 Financial narrative intelligence for AI agents. Tracks how financial stories evolve across 109 tickers — clustering news into structured narratives, measuring sentiment momentum, and mapping narrative risk across portfolios. Install via Smithery or `uvx narrative-intelligence-mcp`.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: null
 ---
 ## What it is
 Discover and compare L402 + x402 paid API services from satring.com, the best curated Lightning and USDC API directory.

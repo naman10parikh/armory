@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [incident-response-devops-troubleshooter, api-scaffolding-backend-architect]
 tags: [backend, devops, performance, subagent]
+stars: null
 ---
 
 ## What it is

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: null
 ---
 ## What it is
 Connects Claude Desktop to your Gmail so you can start managing your inbox using natural language. Bulk delete promos & newsletters, organize labels and get useful insights.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 2
 ---
 ## What it is
 Create, read, update, list, and search GitHub Gists from your IDE.

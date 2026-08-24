@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 1
 ---
 ## What it is
 MCP server for Todoist built on the unified API v1. Stdio transport, 20 tools covering tasks, projects, sections, and labels. No daily reconnection issues.

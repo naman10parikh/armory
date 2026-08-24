@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
+stars: 1549
 ---
 ## What it is
 An opinionated approach to productive development with Claude Code

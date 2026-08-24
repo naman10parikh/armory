@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 17
 ---
 ## What it is
 A DeepSeek MCP-like Server for Terminal

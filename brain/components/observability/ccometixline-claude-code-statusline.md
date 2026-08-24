@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-powerline, claudia-statusline]
 tags: [claude-code, status-lines]
+stars: 3449
 ---
 ## What it is
 A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.

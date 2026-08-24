@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 1608
 ---
 ## What it is
 Coding agent with basic read, write and command line tools.

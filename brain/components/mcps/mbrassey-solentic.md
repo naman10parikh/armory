@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 Native Solana staking infrastructure for AI agents — 18 MCP tools for stake, unstake, withdraw, simulate, and verify. Zero custody, unsigned transactions only, ~6% APY via Blueprint validator.

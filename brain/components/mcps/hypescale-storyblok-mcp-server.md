@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 8
 ---
 ## What it is
 MCP server for the Storyblok headless CMS with 160 tools across 30 modules. Manage stories, components, assets, workflows, releases, and more via AI assistants.

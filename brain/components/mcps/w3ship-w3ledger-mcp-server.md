@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Self-verifying ledger MCP server with dual-signed transactions, gift cards, sponsor cards, and W3SH loyalty tiers. Supports EVM, ML-DSA-65, and SLH-DSA post-quantum signatures.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
+stars: 2
 ---
 ## What it is
 Turn URLs into viral posts via "remake" command.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, embedded-system]
+stars: 48
 ---
 ## What it is
 An MCP server for GNU Radio that enables LLMs to autonomously create and modify RF `.grc` flowcharts.

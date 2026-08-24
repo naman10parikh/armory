@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [pareto-mac, ai-intellij-plugin]
 tags: [claude-md, rules, domain-specific]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by CommE2E, catalogued in awesome-claude-code. Serves as a development reference for E2E-encrypted messaging applications with code organization architecture, security implementation details, and testing procedures.

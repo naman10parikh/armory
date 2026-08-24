@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 5
 ---
 ## What it is
 Offline verification of signed artifacts -- receipts, manifests, audit bundles. Ed25519 + JCS. No accounts, no API calls. Apache-2.0.

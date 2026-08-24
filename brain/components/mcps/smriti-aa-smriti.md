@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: null
 ---
 ## What it is
 Self-hosted knowledge store and memory layer for AI agents with knowledge graph, wiki-links, full-text search (FTS5), and agent memory with namespaces and TTL.

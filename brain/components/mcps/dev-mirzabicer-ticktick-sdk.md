@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 140
 ---
 ## What it is
 Comprehensive async Python SDK for [TickTick](https://ticktick.com/) with MCP server support. Features 45 tools for tasks, projects, tags, habits, focus/pomodoro sessions, and user analytics.

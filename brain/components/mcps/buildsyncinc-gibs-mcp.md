@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, legal]
+stars: 7
 ---
 ## What it is
 Regulatory compliance (AI Act, GDPR, DORA) with article-level citations

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 8
 ---
 ## What it is
 MCP server for TNL (Typed Natural Language): per-feature English contracts for AI coding agents. 6 tools — `get_impacted_tnls`, `retrieve_tnl`, `trace`, `propose_tnl_diff`, `approve_tnl_diff`, `verify` — let agents look up relevant contracts, propose contract edits, and verify implementations against them. Drop-in via `npx typed-nl init` for Claude Code, Codex, Gemini.

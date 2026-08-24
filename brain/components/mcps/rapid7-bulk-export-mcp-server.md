@@ -8,7 +8,7 @@ source_url: https://github.com/rapid7/rapid7-bulk-export-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []

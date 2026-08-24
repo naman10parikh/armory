@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
+stars: 1
 ---
 ## What it is
 Instagram influencer search API for AI agents — search by niche, country, demographics, or follower count, returns usernames, bios, follower counts, business categories, and public business emails. Single-profile lookup at $0.01; full search $0.50–$1.30 (1–100 leads). USDC on Base, Solana, Polygon, Arbitrum via x402 micropayments. No signup, no API keys.

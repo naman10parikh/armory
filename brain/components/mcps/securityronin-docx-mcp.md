@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 42
 ---
 ## What it is
 Read and edit Word (.docx) documents with track changes, comments, footnotes, and structural validation. The only MCP server combining w:ins/w:del tracked changes, threaded comments, and footnotes with OOXML-level paraId validation and document auditing. 18 tools, Python 3.10+.

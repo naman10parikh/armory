@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
+stars: null
 ---
 ## What it is
 Deterministic local text analysis: sentiment, readability scoring, keyword extraction, text similarity, summarization, and language detection across 18 languages. Pure Python, zero heavy dependencies, 42 KB wheel. Install: `pip install blackmount-nlp-mcp`.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: null
 ---
 ## What it is
 AI image generation from text prompts via x402 micropayments on Base. $0.10 USDC per image, paid automatically from your wallet. No API key required. `npx coinopai-imagegen`

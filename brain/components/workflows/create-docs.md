@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [slash-command, documentation-changelogs]
+stars: null
 ---
 ## What it is
 A community workflow/command by jerseycheese, catalogued in awesome-claude-code. Analyzes code structure and purpose to create comprehensive documentation detailing inputs/outputs, behavior, user interaction flows, and edge cases with error handling.

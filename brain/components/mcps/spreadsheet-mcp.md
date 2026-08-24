@@ -8,7 +8,7 @@ source_url: https://github.com/PSU3D0/spreadsheet-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []

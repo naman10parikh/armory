@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
+stars: null
 ---
 ## What it is
 Really comprehensive set of commands for all aspects of SDLC.

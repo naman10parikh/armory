@@ -12,6 +12,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [testing, coverage]
+stars: null
 ---
 
 ## What it is

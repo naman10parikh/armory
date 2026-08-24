@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
+stars: 1
 ---
 ## What it is
 MCP server for ZapCap API providing video caption and B-roll generation via natural language

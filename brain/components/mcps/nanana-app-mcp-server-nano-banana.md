@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 10
 ---
 ## What it is
 AI image generation using Google Gemini's nano banana model.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 1
 ---
 ## What it is
 Security intelligence for AI agents: password breach checks (900M+ HIBP hashes), email/domain/IP/URL reputation, prompt injection detection (200+ patterns), and skill supply chain scanning. Pay-per-request via x402 USDC micropayments or free demo mode, no API key needed.

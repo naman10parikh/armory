@@ -9,7 +9,7 @@ source_url: https://github.com/firecrawl/firecrawl-mcp-server
 license: MIT
 cli_compat: [claude, codex, cursor]
 maturity: stable
-stars: null
+stars: 7308
 eval_score: 1
 verified_at: 2026-05-31
 related: [context7-mcp, research-agent, browserbase-bb]

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 8
 ---
 ## What it is
 Best people search engine that reduces the time spent on talent discovery

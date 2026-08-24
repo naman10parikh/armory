@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 25
 ---
 ## What it is
 A personal MCP (Model Context Protocol) server for securely storing and accessing API keys across projects using the macOS Keychain.

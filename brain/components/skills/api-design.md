@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [api, rest, design]
+stars: null
 ---
 
 ## What it is

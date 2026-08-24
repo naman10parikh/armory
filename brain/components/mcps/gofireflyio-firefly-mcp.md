@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 16
 ---
 ## What it is
 Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 8
 ---
 ## What it is
 Providing real-time funding rate data across major crypto exchanges.

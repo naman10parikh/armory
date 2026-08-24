@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: 4
 ---
 ## What it is
 Manage Inxmail Commerce transactional emails — events, sendings, bounces, blocklist, blacklist, reactions, and delivery tracking.

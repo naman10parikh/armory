@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
+stars: 2
 ---
 ## What it is
 Local LinkedIn MCP server for posting to LinkedIn from Claude. 9 tools — create/edit/delete posts (text, image, article), upload images, fetch profile, look up company pages, and check follower counts. Uses the official LinkedIn REST API with OAuth 2.0 (`w_member_social`, OIDC).

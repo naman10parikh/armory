@@ -8,7 +8,7 @@ source_url: https://github.com/olaservo/mcp-advisor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []

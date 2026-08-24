@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 183
 ---
 ## What it is
 Turn a web service into an MCP server in one click without making any code changes.

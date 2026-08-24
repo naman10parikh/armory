@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
+stars: null
 ---
 ## What it is
 A wrapper around the Azure CLI command line that allows you to talk directly to Azure

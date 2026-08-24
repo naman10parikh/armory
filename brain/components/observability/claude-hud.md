@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ccstatusline, claude-code-statusline]
 tags: [statusline, observability]
+stars: 27590
 ---
 ## What it is
 A community statusline by Jarrod Watts, catalogued in awesome-claude-code. A really stacked status line that exposes just about everything you might need - context usage, tools, agents, todos, etc. Highly configurable and actively maintained at the time of writing - code quality is strong.

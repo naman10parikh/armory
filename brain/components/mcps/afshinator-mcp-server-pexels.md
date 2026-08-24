@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
+stars: 2
 ---
 ## What it is
 An MCP server to search for (free) stock images and videos from pexels.com.

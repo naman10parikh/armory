@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 12
 ---
 ## What it is
 24-tool MCP server for Claude Code that catches vague prompts before they waste tokens. Includes 12-category prompt scorecards, session history search with LanceDB vectors, cross-service contract awareness, correction pattern learning, and cost estimation.

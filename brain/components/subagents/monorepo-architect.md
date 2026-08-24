@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [frontend-mobile-development-frontend-developer, api-scaffolding-backend-architect]
 tags: [architecture, frontend, performance, subagent]
+stars: null
 ---
 
 ## What it is

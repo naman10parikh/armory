@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, command-line]
+stars: 4
 ---
 ## What it is
 Full-text search over your shell history (zsh / bash / fish) via SQLite FTS5. Local-only. 11-pattern secret redaction runs BEFORE insert. Captures cwd / exit code / duration via opt-in shell hook. Tools: `search_history`, `recent_in_dir`, `failed_commands`, `command_chains`, `reindex`.

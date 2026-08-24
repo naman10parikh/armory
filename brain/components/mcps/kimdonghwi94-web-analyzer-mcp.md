@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 4
 ---
 ## What it is
 Extracts clean web content for RAG and provides Q&A about web pages.

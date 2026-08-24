@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, code-execution]
+stars: 2
 ---
 ## What it is
 Connect Claude Code with E2B cloud sandboxes — 29 tools for creating isolated Linux VMs, cloning repos, running commands, managing files, and performing git operations without touching the local machine.

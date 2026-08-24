@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 12
 ---
 ## What it is
 Free company research agent — 10 data sources, structured reports with bull/bear verdict in ~10 seconds. Stocks, crypto, and private companies.

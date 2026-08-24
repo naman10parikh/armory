@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 6
 ---
 ## What it is
 Bring structure and preserve context in vibe coding by automatically tracking issues.

@@ -8,7 +8,7 @@ source_url: https://github.com/SouravRoy-ETL/duckle
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1223
 eval_score: null
 verified_at: 2026-05-27
 related: []

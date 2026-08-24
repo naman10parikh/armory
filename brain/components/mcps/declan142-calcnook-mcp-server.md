@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Personal finance calculations across 7 countries (US, UK, CA, AU, AE, SA, India) plus Sharia-compliant Islamic finance (Zakat, Murabaha, Ijarah, Mudarabah, Hajj savings, halal stock screening). 17 tools wrapping the deterministic [calcnook](https://pypi.org/project/calcnook/) engine — income tax, SIP/EMI/loans, retirement, EOSG, VAT, currency formatting (incl. Indian lakh/crore), and BMI/BMR/TDEE. Zero API keys, pure stdlib. Install with `uvx calcnook-mcp`.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 1
 ---
 ## What it is
 Workforce attendance, overtime, overnight shifts, rotating rosters, and California wage-and-hour compliance (Labor Code §§ 226.7, 512; Donohue v. AMN). 8 tools backed by [`@attendance-engine/core`](https://www.npmjs.com/package/@attendance-engine/core) — a pure-function, zero-deps, 100%-covered engine. Deterministic answers; same query, same answer, every time.

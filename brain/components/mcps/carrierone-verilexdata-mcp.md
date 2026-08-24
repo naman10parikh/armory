@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
+stars: 1
 ---
 ## What it is
 20 structured datasets (NPI healthcare, SEC filings, OFAC sanctions, crypto whales, Polymarket signals, patents, economic indicators) via x402 pay-per-query with USDC. Free stats/sample endpoints, MCP + HTTP transport.

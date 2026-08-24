@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 66
 ---
 ## What it is
 An MCP server for searching job listings with filters for date, keywords, remote work options, and more.

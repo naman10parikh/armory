@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ai-intellij-plugin, aws-mcp-server]
 tags: [claude-md, rules, project-scaffolding-mcp]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by basicmachines-co, catalogued in awesome-claude-code. Presents an innovative AI-human collaboration framework with Model Context Protocol for bidirectional LLM-markdown communication and flexible knowledge structure for complex projects.

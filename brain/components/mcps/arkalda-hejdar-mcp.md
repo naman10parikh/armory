@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 1
 ---
 ## What it is
 Runtime policy enforcement for AI agents. Evaluate actions against organization policies before execution, with observe and enforce modes.

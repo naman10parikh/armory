@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [code-refactoring-code-reviewer, codebase-cleanup-code-reviewer]
 tags: [docs, performance, review, security, subagent]
+stars: null
 ---
 
 ## What it is

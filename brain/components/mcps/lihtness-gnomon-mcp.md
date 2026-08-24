@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
+stars: 1
 ---
 ## What it is
 Deterministic batch tools so LLM agents stop next-token-guessing dates and math. Rich `now()` snapshot (18 fields), `calendar(ops)` batch dispatcher (diff/until/since/add/weekday/business_days, natural-language parsing), `calc(expressions)` Python eval with math+stats pre-loaded, and Pint-based unit conversion. One wiring for dates + math + units. Listed in the official MCP Server Registry. `uvx gnomon-mcp`.

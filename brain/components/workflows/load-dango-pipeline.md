@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, slash-commands]
+stars: null
 ---
 ## What it is
 Sets context for model training by referencing pipeline files, establishing working context, and preparing for pipeline work with relevant documentation.

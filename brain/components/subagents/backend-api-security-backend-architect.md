@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [api-scaffolding-backend-architect, backend-development-backend-architect]
 tags: [architecture, backend, performance, security, subagent]
+stars: null
 ---
 
 ## What it is

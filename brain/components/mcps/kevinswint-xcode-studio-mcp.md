@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 9
 ---
 ## What it is
 Unified MCP server for iOS development — build, run, screenshot, and interact with iOS Simulator.

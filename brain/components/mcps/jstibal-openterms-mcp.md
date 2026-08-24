@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 2
 ---
 ## What it is
 Ed25519-signed consent receipts and programmable policy engine for AI agents. Spending caps, action whitelists, escalation thresholds, and JWKS-backed provider verification. Independently verifiable.

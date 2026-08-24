@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 1
 ---
 ## What it is
 MCP server for scanning machine learning model artifacts for unsafe serialization, malicious model patterns, risky packaging, URL-based artifact scanning, and directory-level triage using ModelScan, PickleScan, and heuristic inspection.

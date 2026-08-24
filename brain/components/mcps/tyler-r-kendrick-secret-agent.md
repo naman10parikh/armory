@@ -8,7 +8,7 @@ source_url: https://github.com/tyler-r-kendrick/mcp-server-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

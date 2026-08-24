@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: 231
 ---
 ## What it is
 MCP server for ComfyUI that lets AI agents view, edit, and run node-based image generation workflows with an embedded terminal.

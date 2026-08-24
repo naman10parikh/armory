@@ -14,6 +14,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [skill]
+stars: 147
 ---
 ## What it is
 A community agent skill by Paul - UndeadList, catalogued in awesome-claude-code. Comprehensive E2E development workflow with helpful Claude Code subagent prompts for solo devs. Run multiple auditors in parallel, automate fix cycles with micro-checkpoint protocols, and do browser-based QA. Includes strict protocols to prevent AI going rogue.

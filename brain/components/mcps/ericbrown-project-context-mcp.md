@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 5
 ---
 ## What it is
 Exposes `.context/` folder files as MCP resources, giving Claude Code instant access to project documentation via `@` mentions.

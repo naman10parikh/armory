@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 1
 ---
 ## What it is
 Zero-dependency MCP memory server. Single binary, 100% local, no Docker.

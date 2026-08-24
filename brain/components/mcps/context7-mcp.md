@@ -9,7 +9,7 @@ source_url: https://github.com/upstash/context7
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: stable
-stars: null
+stars: 61131
 eval_score: null
 verified_at: 2026-05-26
 related: [troubleshoot, github-mcp, firecrawl-mcp]

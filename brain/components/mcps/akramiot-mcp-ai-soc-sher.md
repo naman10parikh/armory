@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 10
 ---
 ## What it is
 MCP Server to do dynamic AI SOC Security Threat analysis for a Text2SQL AI Agent.

@@ -8,7 +8,7 @@ source_url: https://github.com/webdriverio/webdriverio
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: null
+stars: 9823
 eval_score: null
 verified_at: 2026-05-28
 related: []

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ccometixline-claude-code-statusline, claude-powerline]
 tags: [claude-code, status-lines]
+stars: 224
 ---
 ## What it is
 A lightweight Bash + jq statusline for Claude Code that displays rate limit pace delta (burn rate vs. time remaining), 5h/7d usage percentage, context window usage, git branch and diff stats. Compares current consumption rate against time remaining in each rate limit window to indicate whether quota is being used faster or slower than the window allows. Single file with no external dependencies beyond jq.

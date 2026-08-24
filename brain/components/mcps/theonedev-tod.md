@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
+stars: null
 ---
 ## What it is
 A MCP server for OneDev for CI/CD pipeline editing, issue workflow automation, and pull request review

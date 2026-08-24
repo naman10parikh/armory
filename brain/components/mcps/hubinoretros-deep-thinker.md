@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 11
 ---
 ## What it is
 Advanced cognitive reasoning MCP server with DAG-based thought graph, 5 reasoning strategies (sequential, dialectic, parallel, analogical, abductive), metacognitive engine with stuck detection, multi-factor confidence scoring, self-critique, knowledge integration, and thought pruning. `npx deep-thinker`

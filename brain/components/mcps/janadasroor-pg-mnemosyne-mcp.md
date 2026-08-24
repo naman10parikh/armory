@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: 3
 ---
 ## What it is
 A PostgreSQL Model Context Protocol (MCP) server acting as a robust persistent super memory, task tracker, and multi-agent coordination hub for AI assistants.

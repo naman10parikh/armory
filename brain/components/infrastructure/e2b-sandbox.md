@@ -9,7 +9,7 @@ source_url: https://github.com/e2b-dev/E2B
 license: Apache-2.0
 cli_compat: [claude, codex]
 maturity: stable
-stars: null
+stars: 13531
 eval_score: null
 verified_at: 2026-05-26
 related: [microsandbox, claude-managed-agents-selfhost, browserbase-bb]

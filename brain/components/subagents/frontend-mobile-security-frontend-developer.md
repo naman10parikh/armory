@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [frontend-mobile-development-frontend-developer, backend-api-security-backend-architect]
 tags: [architecture, frontend, mobile, performance, security]
+stars: null
 ---
 
 ## What it is

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 The trust layer for AI trading agents. Real-time world state (exchange status, VIX/VVIX/SKEW, economic events) in one call, plus independent quality ratings (0-100) for financial data APIs. 8 MCP tools.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 19
 ---
 ## What it is
 Official MCP Server to integrate with GROWI APIs.

@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [hook]
+stars: 7976
 ---
 ## What it is
 A community hook by backnotprop, catalogued in awesome-claude-code. Interactive plan review UI that intercepts ExitPlanMode via hooks, letting users visually annotate plans with comments, deletions, and replacements before approving or denying with detailed feedback.

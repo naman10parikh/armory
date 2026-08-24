@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 LLM-agent-native backtest framework for SHFE daily futures research. 23 MCP tools (strategy validation, scaffolding, indicator catalog, error-code lookup), 22 in-package skills, 32 catalogued error codes, working strategy templates. `pip install echolon` then `claude mcp add -s user echolon -- echolon-mcp`.

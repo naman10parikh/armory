@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 AlgoVoi crypto payment gateway MCP. Create hosted checkout links, verify on-chain payments, generate MPP/x402/AP2 agent-commerce challenges. Supports USDC + native tokens (ALGO/VOI/HBAR/XLM) on Algorand, VOI, Hedera, and Stellar — mainnet + testnet. Routes through AlgoVoi Cloud for managed payouts. Install: `npx @algovoi/mcp-server` or `uvx algovoi-mcp`.

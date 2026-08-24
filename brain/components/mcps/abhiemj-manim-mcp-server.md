@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: 637
 ---
 ## What it is
 A local MCP server that generates animations using Manim.

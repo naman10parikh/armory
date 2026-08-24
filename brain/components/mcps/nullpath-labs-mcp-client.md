@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 AI agent marketplace with x402 micropayments. Discover, execute, and pay agents per-request via MCP with USDC on Base.

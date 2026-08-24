@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 27
 ---
 ## What it is
 Cognitive memory for AI agents with Atkinson-Shiffrin memory model (STM/LTM/sensory register), semantic RAG, Ebbinghaus decay, trust scoring, and 76+ MCP tools.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
+stars: null
 ---
 ## What it is
 Comment moderation and intelligence for any article: bot/spam detection, multilingual sentiment analysis, and Influence (constructive comment generation on paid tiers). Free tier: 1,000 comments, no credit card.

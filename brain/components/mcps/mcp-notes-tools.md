@@ -8,7 +8,7 @@ source_url: https://github.com/MSNP1381/mcp-notes-tools
 license: BSD Zero Clause License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []

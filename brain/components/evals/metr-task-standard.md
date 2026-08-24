@@ -8,7 +8,7 @@ source_url: https://github.com/METR/task-standard
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: null
+stars: 190
 eval_score: null
 verified_at: 2026-05-27
 related: []

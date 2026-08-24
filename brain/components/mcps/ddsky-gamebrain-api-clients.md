@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
+stars: 4
 ---
 ## What it is
 Search and discover hundreds of thousands of video games on any platform through the [GameBrain API](https://gamebrain.co/api).

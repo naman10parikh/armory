@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 61
 ---
 ## What it is
 Self-hosted MCP server for Nutrient Document Engine. On-premises document processing with natural language control — designed for HIPAA, SOC 2, and GDPR compliance.

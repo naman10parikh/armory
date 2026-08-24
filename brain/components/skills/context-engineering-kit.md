@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [skill]
+stars: 1352
 ---
 ## What it is
 A community agent skill by Vlad Goncharov, catalogued in awesome-claude-code. Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.

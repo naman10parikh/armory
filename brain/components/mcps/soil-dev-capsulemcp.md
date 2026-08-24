@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
+stars: 5
 ---
 ## What it is
 MCP server for [Capsule CRM](https://capsulecrm.com). 81 tools (49 in read-only mode) covering contacts, opportunities, projects, tasks, timeline activity, structured + saved filters, workflow tracks, and file attachments. Two transports — stdio (`npx capsulemcp`) and HTTP+OAuth for hosted Custom Connectors. Read-only-mode env flag for safer defaults. Apache 2.0.

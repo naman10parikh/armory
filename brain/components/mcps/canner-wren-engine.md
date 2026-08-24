@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: 663
 ---
 ## What it is
 The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents

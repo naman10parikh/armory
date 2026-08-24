@@ -8,7 +8,7 @@ source_url: https://github.com/Pyligent/Finance-Assistant-with-MCP-and-Langchain
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []

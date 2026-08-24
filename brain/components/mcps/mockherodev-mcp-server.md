@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: null
 ---
 ## What it is
 Generate realistic synthetic test data via MCP. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.

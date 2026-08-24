@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 87
 ---
 ## What it is
 Self-improving learning engine for Claude Code. Extracts signals from every session (corrections, successes, confusion), runs periodic reflections, and evolves behavioral frameworks through evidence tiers (hypothesis → observed → validated). Frameworks that keep working get promoted, bad ones get retired. 9 MCP tools, automatic hooks, phase-adaptive learning. Single dependency, local-only. `npx claude-soul init --starter`

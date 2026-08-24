@@ -8,7 +8,7 @@ source_url: https://github.com/prakhar-gahlot/TestMu-AI-Test-Manager-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 467
 ---
 ## What it is
 An MCP server that enables free web searching using Google search results, with no API keys required.

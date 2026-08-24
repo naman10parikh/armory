@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
+stars: null
 ---
 ## What it is
 Document beautifier for AI agents. Converts Markdown to styled webpages (with sidebar TOC), Word, PDF, and full-screen image slideshows. Zero-config via `npx agent-reader mcp`.

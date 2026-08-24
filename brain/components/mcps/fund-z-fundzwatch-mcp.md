@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 2
 ---
 ## What it is
 Real-time business event intelligence for AI agents. Funding rounds, acquisitions, executive hires, AI-scored leads, and market intelligence.

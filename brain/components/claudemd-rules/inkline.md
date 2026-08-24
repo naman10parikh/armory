@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [avs-vibe-developer-guide, claude-code-mcp-enhanced]
 tags: [claude-code, claude-md-files]
+stars: null
 ---
 ## What it is
 Structures development workflow using pnpm with emphasis on TypeScript and Vue 3 Composition API, detailed component creation process, and comprehensive testing recommendations.

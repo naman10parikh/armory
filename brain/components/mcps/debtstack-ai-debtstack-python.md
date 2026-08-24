@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 2
 ---
 ## What it is
 Corporate debt structure data for AI agents. Search 250+ issuers, 5,000+ bonds with leverage ratios, seniority, covenants, guarantor chains, and FINRA TRACE pricing.

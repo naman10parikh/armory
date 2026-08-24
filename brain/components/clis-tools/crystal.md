@@ -12,6 +12,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claudable, claude-esp]
 tags: [client, cli]
+stars: 3108
 ---
 ## What it is
 A community CLI tool by stravu, catalogued in awesome-claude-code. A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.

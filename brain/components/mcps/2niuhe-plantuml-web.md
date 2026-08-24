@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 16
 ---
 ## What it is
 A web-based PlantUML frontend with MCP server integration, enable plantuml image generation and plantuml syntax validation.

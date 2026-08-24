@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
+stars: 8
 ---
 ## What it is
 Official AtomGit server for integration with repository management, PRs, issues, branches, labels, and more.

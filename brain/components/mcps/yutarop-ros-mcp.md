@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 36
 ---
 ## What it is
 MCP server that supports ROS2 topics, services, and actions communication, and controls robots using natural language.

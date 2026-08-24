@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
+stars: 16
 ---
 ## What it is
 Search campgrounds around the world on campertunity, check availability, and provide booking links

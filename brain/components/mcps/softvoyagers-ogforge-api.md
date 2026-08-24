@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: null
 ---
 ## What it is
 Free Open Graph image generator API with themes, Lucide icons, and custom layouts. No API key required.

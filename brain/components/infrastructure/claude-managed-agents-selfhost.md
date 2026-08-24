@@ -9,7 +9,7 @@ source_url: https://github.com/anthropics/anthropic-sdk-python
 license: MIT
 cli_compat: [claude]
 maturity: beta
-stars: null
+stars: 3848
 eval_score: null
 verified_at: 2026-05-26
 related: [e2b-sandbox, microsandbox, mcp-tunnels-cloudflared]

@@ -12,6 +12,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [hook]
+stars: 2311
 ---
 ## What it is
 A community hook by Nizar Selander, catalogued in awesome-claude-code. A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.

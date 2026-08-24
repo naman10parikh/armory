@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 44
 ---
 ## What it is
 MCP server for interacting with the CyberChef server API which will allow an MCP client to utilise the CyberChef operations.

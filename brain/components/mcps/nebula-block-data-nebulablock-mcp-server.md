@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
+stars: 1
 ---
 ## What it is
 integrates with the fastmcp library to expose the full range of NebulaBlock API functionalities as accessible tools

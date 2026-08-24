@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 73
 ---
 ## What it is
 Self-hosted MCP server that indexes documentation from various sources and serves it to AI Agents with semantic search.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 28
 ---
 ## What it is
 Unified web layer for AI agents. Search (8 engines), stealth browse, cookie auth, and act on 24 platforms. 5,000 free searches/month via Gemini Grounded Search.

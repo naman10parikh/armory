@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
+stars: 131
 ---
 ## What it is
 connects Jupyter Notebook to Claude AI, allowing Claude to directly interact with and control Jupyter Notebooks.

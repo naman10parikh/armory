@@ -15,6 +15,7 @@ maturity: stable
 verified_at: 2026-05-26
 related: []
 tags: [spreadsheet, creative]
+stars: null
 ---
 ## What it is
 Official Anthropic skill `xlsx` from the anthropics/skills reference repo — the quality bar for the Skills spec. "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or...

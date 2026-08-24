@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
+stars: null
 ---
 ## What it is
 A filesystem allowing for browsing and editing files implemented in Java using Quarkus. Available as jar or native image.

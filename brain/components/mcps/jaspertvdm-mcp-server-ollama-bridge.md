@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 4
 ---
 ## What it is
 Bridge to local Ollama LLM server. Run Llama, Mistral, Qwen and other local models through MCP.

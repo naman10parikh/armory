@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
+stars: 20
 ---
 ## What it is
 OpenStack MCP server for cloud infrastructure management based on openstacksdk.

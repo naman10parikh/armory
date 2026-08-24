@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 Self-hosted wallet-as-a-service for AI agents. 60 tools for multi-chain crypto: transfers, DeFi (swap, lend, stake, bridge, perp, yield), NFTs, smart contracts, transaction signing, and x402 payments. Solana + EVM with session auth and spending policies.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 5
 ---
 ## What it is
 Enforces team naming consistency for AI-generated code via Cursor MCP integration. [Guide ↗](https://var.gg)

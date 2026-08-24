@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: 26
 ---
 ## What it is
 🗄️ - provides AI-powered PostgreSQL performance tuning capabilities.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 3
 ---
 ## What it is
 Search GOV.UK content, retrieve full government pages, look up organisations, and resolve UK postcodes to local authorities. 5 read-only tools, no API keys required.

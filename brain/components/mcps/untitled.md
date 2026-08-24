@@ -8,7 +8,7 @@ source_url: https://github.com/chaseSpace/mcp_fetch_xhs_post
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []

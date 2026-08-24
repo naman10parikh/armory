@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 44
 ---
 ## What it is
 AI pilot for PTY operations enabling agents to control interactive terminals with stateful sessions, SSH connections, and background process management

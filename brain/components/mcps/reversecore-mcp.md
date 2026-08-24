@@ -8,7 +8,7 @@ source_url: https://github.com/sjkim1127/Reversecore_MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 188
 eval_score: null
 verified_at: 2026-05-27
 related: []

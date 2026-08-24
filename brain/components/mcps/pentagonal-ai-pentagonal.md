@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 1
 ---
 ## What it is
 AI-powered smart contract security forge with 8-agent adversarial pen test. Generate, audit, fix, and compile contracts across 8 chains (Ethereum, Solana, Polygon, Base, Arbitrum, Optimism, BSC, Avalanche). Token intelligence with honeypot detection. x402 USDC payments for autonomous agents.

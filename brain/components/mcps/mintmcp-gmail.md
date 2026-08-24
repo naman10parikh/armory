@@ -8,7 +8,7 @@ source_url: https://github.com/mintmcp/servers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

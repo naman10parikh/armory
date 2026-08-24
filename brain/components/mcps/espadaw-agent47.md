@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
+stars: 4
 ---
 ## What it is
 Unified job aggregator for AI agents across 9+ platforms (x402, RentAHuman, Virtuals, etc).

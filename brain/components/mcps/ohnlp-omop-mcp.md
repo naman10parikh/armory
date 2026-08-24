@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
+stars: 40
 ---
 ## What it is
 Map clinical terminology to OMOP concepts using LLMs for healthcare data standardization and interoperability.

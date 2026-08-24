@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 5
 ---
 ## What it is
 MCP server for Webmin with 61 tools for Linux system administration: services, users, storage, security, databases, and more.

@@ -9,7 +9,7 @@ source_url: https://github.com/stripe/agent-toolkit
 license: MIT
 cli_compat: [claude, codex]
 maturity: stable
-stars: null
+stars: 1760
 eval_score: null
 verified_at: 2026-05-26
 related: [stripe-mcp, agentmoney, agentmoney-cost]

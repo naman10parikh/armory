@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 107
 ---
 ## What it is
 Self-hosted mem0 MCP server for Claude Code with Qdrant vector search, Neo4j knowledge graph, and Ollama embeddings. Zero-config OAT auth, split-model graph routing, session hooks for automatic cross-session memory, and 11 tools. Supports both Anthropic and fully local Ollama setups.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: 1
 ---
 ## What it is
 MCP server for Zoho Mail. Read, search, and send email from Claude.

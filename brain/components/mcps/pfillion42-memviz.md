@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 1
 ---
 ## What it is
 Visual explorer for [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) SQLite-vec databases. Browse, search, filter, edit memories with dashboard, timeline, UMAP projection, semantic clustering, duplicate detection, and association graph.

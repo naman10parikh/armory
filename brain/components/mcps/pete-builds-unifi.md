@@ -8,7 +8,7 @@ source_url: https://github.com/pete-builds/mcp-unifi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

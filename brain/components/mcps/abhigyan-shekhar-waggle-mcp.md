@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 37
 ---
 ## What it is
 Persistent graph memory for AI agents. Drop a conversation turn in via `observe_conversation()` and facts are auto-extracted, stored as typed graph nodes with local semantic embeddings (no API key). Supports temporal queries ("what did we decide last week?"), conflict detection, and context priming. One-command setup with `waggle-mcp init`. SQLite locally, Neo4j in production.

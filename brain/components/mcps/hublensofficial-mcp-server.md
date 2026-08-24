@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, research]
+stars: null
 ---
 ## What it is
 Query daily trending open-source projects from GitHub & Hacker News with AI-generated bilingual (EN/ZH) summaries, categories, use cases, and custom scoring. Stateless, no API key required.

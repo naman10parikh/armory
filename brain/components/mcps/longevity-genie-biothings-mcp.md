@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
+stars: 33
 ---
 ## What it is
 MCP server to interact with the BioThings API, including genes, genetic variants, drugs, and taxonomic information.

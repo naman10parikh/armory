@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 31
 ---
 ## What it is
 INFATON MCP Server for 1C:Enterprise ERP — 35 tools for metadata inspection, document CRUD, register queries, and BSP integration. First MCP server for Russian ERP systems. JSON-RPC 2.0 compliant BSL implementation.

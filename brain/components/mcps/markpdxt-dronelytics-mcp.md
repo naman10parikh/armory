@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
+stars: 3
 ---
 ## What it is
 US drone airspace intelligence and mission planning. 24 tools: check airspace restrictions across 11 FAA data layers, plan grid/orbit/corridor surveys, validate Part 107 compliance, generate pre-flight briefings, and export to KML/GPX/QGC/Litchi/WPML. Available via `npx @dronelytics/mcp`.

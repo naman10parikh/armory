@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 5
 ---
 ## What it is
 Argentine exchange rates for AI agents via DolarAPI. Dollar blue, oficial, MEP, CCL, crypto, tarjeta — plus currency conversion and spread calculator.

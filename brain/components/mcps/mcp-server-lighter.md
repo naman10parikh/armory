@@ -8,7 +8,7 @@ source_url: https://github.com/isabelpapaya/MCP-Server-Lighter
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []

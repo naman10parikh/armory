@@ -8,7 +8,7 @@ source_url: https://github.com/Eversmile12/sharedcontext
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 50
 eval_score: null
 verified_at: 2026-05-27
 related: []

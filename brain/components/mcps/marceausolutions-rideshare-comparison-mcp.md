@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
+stars: 2
 ---
 ## What it is
 Compare Uber and Lyft prices for any route in real-time with fare estimates, surge pricing info, and cheapest option recommendations

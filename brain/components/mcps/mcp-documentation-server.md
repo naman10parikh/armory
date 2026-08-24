@@ -8,7 +8,7 @@ source_url: https://github.com/andrea9293/mcp-documentation-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 342
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -15,6 +15,7 @@ maturity: stable
 verified_at: 2026-05-26
 related: []
 tags: [pdf, creative]
+stars: null
 ---
 ## What it is
 Official Anthropic skill `pdf` from the anthropics/skills reference repo — the quality bar for the Skills spec. Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make...

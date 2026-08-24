@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 19
 ---
 ## What it is
 Permission control plane for AI agents. MCP proxy that enforces least-privilege YAML policies on every tool call, classifies sensitive data (PII/PHI), detects dangerous skill chains, and generates compliance audit trails. Supports stdio and HTTP proxy modes.

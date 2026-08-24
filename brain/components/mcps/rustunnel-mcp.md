@@ -8,7 +8,7 @@ source_url: https://github.com/joaoh82/rustunnel
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 650
 eval_score: null
 verified_at: 2026-05-27
 related: []

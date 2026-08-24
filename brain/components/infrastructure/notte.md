@@ -8,7 +8,7 @@ source_url: https://github.com/nottelabs/notte
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: null
+stars: 1995
 eval_score: null
 verified_at: 2026-05-28
 related: []

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
+stars: 86
 ---
 ## What it is
 interact with Keboola Connection Data Platform. This server provides tools for listing and accessing data from Keboola Storage API.

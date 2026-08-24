@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, coding-agents]
+stars: 24
 ---
 ## What it is
 An MCP server that enable all IDEs/CLIs to access Claude Code Skills capabilities.

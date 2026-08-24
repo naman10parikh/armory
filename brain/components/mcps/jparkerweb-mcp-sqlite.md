@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
+stars: 126
 ---
 ## What it is
 Model Context Protocol (MCP) server that provides comprehensive SQLite database interaction capabilities.

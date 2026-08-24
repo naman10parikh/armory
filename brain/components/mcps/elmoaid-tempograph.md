@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: null
 ---
 ## What it is
 Code graph context engine with 24 MCP tools for structural code intelligence. Tree-sitter parsing for 170+ languages, dependency graphs, blast radius, hotspots, dead code, and adaptive context injection. Benchmarked +27% F1 on change-localization.

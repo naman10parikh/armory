@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
+stars: 123
 ---
 ## What it is
 Video editing MCP server with 26 tools for trimming, merging, text overlays, audio sync, filters, color grading, audio normalization, picture-in-picture, split-screen, batch processing, format conversion, subtitles, watermarks, and more. 380 tests, CI on Python 3.11+3.12, progress callbacks, works with Claude Code, Cursor, and any MCP client.

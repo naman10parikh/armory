@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: 7
 ---
 ## What it is
 Full-featured Telegram Bot API MCP server with 174 tools covering the entire Bot API.

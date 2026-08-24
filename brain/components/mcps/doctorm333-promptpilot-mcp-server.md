@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: 2
 ---
 ## What it is
 Generate images, video, and audio via 20+ AI models (Flux, GPT-Image-1, Imagen 4, Grok, Seedance, ElevenLabs). Prompt builder with styles, lighting, camera, mood presets. Batch generation support.

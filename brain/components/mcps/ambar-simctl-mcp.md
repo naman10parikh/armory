@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 20
 ---
 ## What it is
 A MCP server implementation for iOS Simulator control.

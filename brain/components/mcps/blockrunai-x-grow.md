@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
+stars: null
 ---
 ## What it is
 X/Twitter algorithm optimizer with post drafting, review scoring, and AI image generation for maximum engagement.

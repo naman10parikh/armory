@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 12
 ---
 ## What it is
 Providing real-time access to the latest news from Cointelegraph.

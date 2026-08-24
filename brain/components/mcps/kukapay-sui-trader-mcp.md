@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 6
 ---
 ## What it is
 An MCP server designed for AI agents to perform optimal token swaps on the Sui blockchain.

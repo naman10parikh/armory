@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
+stars: 10
 ---
 ## What it is
 MCP server for the SynergyAge database of synergistic and antagonistic genetic interactions in longevity.

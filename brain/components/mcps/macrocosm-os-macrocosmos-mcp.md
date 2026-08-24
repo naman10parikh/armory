@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
+stars: 29
 ---
 ## What it is
 🎖️ 🐍 ☁️ Access real-time X/Reddit/YouTube data directly in your LLM applications with search phrases, users, and date filtering.

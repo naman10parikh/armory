@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [documentation-generation-docs-architect, api-scaffolding-backend-architect]
 tags: [architecture, docs, subagent]
+stars: null
 ---
 
 ## What it is

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: null
 ---
 ## What it is
 An MCP server that enables secure credential retrieval from 1Password to be used by Agentic AI.

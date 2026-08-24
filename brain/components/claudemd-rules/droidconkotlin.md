@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ai-intellij-plugin, aws-mcp-server]
 tags: [claude-md, rules, language-specific]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by touchlab, catalogued in awesome-claude-code. Delivers comprehensive Gradle commands for cross-platform Kotlin Multiplatform development with clear module structure and practical guidance for dependency injection.

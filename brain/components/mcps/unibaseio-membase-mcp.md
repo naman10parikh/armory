@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 24
 ---
 ## What it is
 Save and query your agent memory in distributed way by Membase

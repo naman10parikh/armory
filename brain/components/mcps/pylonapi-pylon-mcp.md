@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 1
 ---
 ## What it is
 x402-native API gateway with 20+ capabilities (web-extract, web-search, translate, image-generate, screenshot, PDF, OCR, and more) payable with USDC on Base. No API keys — agents pay per call via HTTP 402.

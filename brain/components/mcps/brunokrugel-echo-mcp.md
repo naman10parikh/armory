@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 10
 ---
 ## What it is
 A zero-configuration Go library to automatically expose any existing Echo web framework APIs as MCP tools.

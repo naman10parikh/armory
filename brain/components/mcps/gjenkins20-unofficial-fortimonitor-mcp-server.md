@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 3
 ---
 ## What it is
 Unofficial FortiMonitor v2 API integration with 241 tools for server monitoring, outages, maintenance, metrics, notifications, and more.

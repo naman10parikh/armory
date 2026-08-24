@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 2
 ---
 ## What it is
 Answers "why does this code exist?" by tracing any line back through the commit, GitHub PR description, and linked issues. Five tools: blame context, commit story, file history, commit search, and file contributors. `npx git-context-mcp`

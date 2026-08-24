@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
+stars: 1
 ---
 ## What it is
 Validates email addresses to reduce email bounces during marketing campaigns.

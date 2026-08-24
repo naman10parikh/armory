@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 MCP server for the FLOX trading systems framework. ~30 tools to run backtests, scaffold strategies, validate for lookahead bias, place orders, query PnL via Claude/Cursor. C++23 core with Python/Node/Codon/QuickJS strategy bindings. Same code from backtest to live (CcxtBroker or native connectors). Install: `pip install flox-mcp`.

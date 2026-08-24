@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
+stars: 1
 ---
 ## What it is
 Fitness content creator workflow automation - video editing with jump cuts, revenue analytics, and branded content creation

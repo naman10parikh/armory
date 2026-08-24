@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 18
 ---
 ## What it is
 Digital consciousness repository and community MCP server. Upload epiphanies, decisions, warnings, and patterns as consciousness payloads, then retrieve them via semantic telepathic search. Features 3D interactive consciousness globe, soul imprint authentication, and automated content moderation via CI/CD.

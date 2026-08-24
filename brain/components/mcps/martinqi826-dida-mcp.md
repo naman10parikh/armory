@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 13
 ---
 ## What it is
 [Dida365](https://dida365.com/) (TickTick China) MCP server for AI-powered task management. 13 tools for projects, tasks, tags, and habits with OAuth 2.0 authentication. Compatible with OpenClaw, Claude Desktop, and any MCP client.

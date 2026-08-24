@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 2
 ---
 ## What it is
 MCP server for accessing macOS Calendar events

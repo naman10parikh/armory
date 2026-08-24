@@ -8,7 +8,7 @@ source_url: https://github.com/fungiboletus/mcp_cafe
 license: Do What The F*ck You Want To Public License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []

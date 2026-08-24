@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 [FinancialData.Net](https://financialdata.net/) MCP server allows you to retrieve end-of-day and intraday stock market data, company financial statements, insider and institutional trading data, sustainability data, earnings releases, and much more.

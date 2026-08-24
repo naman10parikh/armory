@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 1305
 ---
 ## What it is
 Wenyan MCP Server, which lets AI automatically format Markdown articles and publish them to WeChat GZH.

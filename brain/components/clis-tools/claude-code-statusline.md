@@ -8,7 +8,7 @@ source_url: https://github.com/rz1989s/claude-code-statusline
 license: MIT
 cli_compat: [claude]
 maturity: experimental
-stars: null
+stars: 476
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 8
 ---
 ## What it is
 A script workflow management system that transforms complex, repetitive AI interactions into persistent, executable scripts. Supports multi-language execution (Bash, Python, Node.js, TypeScript) with guaranteed consistency and reduced hallucination risks.

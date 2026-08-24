@@ -8,7 +8,7 @@ source_url: https://github.com/einverne/einverne.github.io
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 106
 eval_score: null
 verified_at: 2026-05-28
 related: []

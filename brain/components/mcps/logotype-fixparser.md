@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 🎖 📇 ☁️ 🏠 📟 - FIX Protocol (send orders, market data, etc.) written in TypeScript.

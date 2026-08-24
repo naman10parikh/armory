@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-mcp-enhanced, cursor-tools]
 tags: [claude-code, claude-md-files]
+stars: null
 ---
 ## What it is
 Structures AI-assisted EigenLayer AVS development workflow with consistent naming conventions for prompt files and established terminology standards for blockchain concepts.

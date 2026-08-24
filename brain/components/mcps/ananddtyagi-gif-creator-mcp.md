@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
+stars: null
 ---
 ## What it is
 A MCP server for creating GIFs from your videos.

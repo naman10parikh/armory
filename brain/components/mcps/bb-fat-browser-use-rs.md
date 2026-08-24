@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 42
 ---
 ## What it is
 Lightweight browser automation MCP server in Rust with zero dependencies.

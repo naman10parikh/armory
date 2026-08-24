@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 1
 ---
 ## What it is
 Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your local dev environment. Detects framework, running services, recent errors, and git state in one call.

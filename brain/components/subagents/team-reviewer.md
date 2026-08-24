@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [backend-api-security-backend-architect, cicd-automation-kubernetes-architect]
 tags: [architecture, performance, review, security, subagent]
+stars: null
 ---
 
 ## What it is

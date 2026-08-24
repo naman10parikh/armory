@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com/).

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 2
 ---
 ## What it is
 Browse and search open-source bounties on Algora. 5 tools: list, search, filter by org/tech/amount, get top bounties, aggregate stats. No API key required.

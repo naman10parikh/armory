@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ai-intellij-plugin, aws-mcp-server]
 tags: [claude-md, rules, language-specific]
+stars: null
 ---
 ## What it is
 A community CLAUDE.md ruleset by sgcarstrends, catalogued in awesome-claude-code. Provides comprehensive structure for TypeScript monorepo projects with detailed commands for development, testing, deployment, and AWS/Cloudflare integration.

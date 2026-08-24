@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 133
 ---
 ## What it is
 "primitive" RAG-like web search model context protocol (MCP) server that runs locally. No APIs needed.

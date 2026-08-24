@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
+stars: 28015
 ---
 ## What it is
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.

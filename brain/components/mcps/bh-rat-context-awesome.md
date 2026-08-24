@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 57
 ---
 ## What it is
 MCP server for querying 8,500+ curated awesome lists (1M+ items) and fetching the best resources for your agent.

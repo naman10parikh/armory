@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 7
 ---
 ## What it is
 Dynamic API discovery and execution from OpenAPI specs. Uses semantic search and dependency graphs to find relevant endpoints across multiple registered APIs, plan multi-step workflows, and execute API calls — without dumping entire specs into context.

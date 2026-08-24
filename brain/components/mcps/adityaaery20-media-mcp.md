@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 4
 ---
 ## What it is
 Local image and video processing MCP server with 13 tools for resize, convert, compress, crop, thumbnail, metadata extraction, rotate, flip, filters, and ffmpeg-based video operations. No API keys required.

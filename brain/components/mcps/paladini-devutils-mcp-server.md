@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 5
 ---
 ## What it is
 36 zero-auth developer utilities: MD5/SHA/bcrypt hashing, Base64/hex/URL encoding, UUID/password/passphrase generation, JWT decoding, JSON/YAML/XML formatting, timestamp conversion, CIDR calculator, and text tools.

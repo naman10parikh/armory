@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: 1
 ---
 ## What it is
 AI-powered scam and threat verification MCP server. Check phone numbers, URLs, text messages, emails, documents, and QR codes against 8M+ threat intelligence records (FTC/FCC complaints, carrier analysis, URLhaus, ThreatFox). Returns risk scores, verdicts, and detailed signals. 10 tools, OAuth 2.1 + API key auth, Streamable HTTP transport.

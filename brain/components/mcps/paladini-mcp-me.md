@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 18
 ---
 ## What it is
 Digital identity layer for AI — your bio, career, skills, interests, and projects always available to every AI tool. Auto-generates profile from 342+ public APIs (GitHub, Medium, Strava, Goodreads, etc.), 13 real-time plugins (Spotify, Last.fm, Steam), YAML-based profiles with privacy-first local storage. Works with Claude Desktop, Cursor, Windsurf, and any MCP client.

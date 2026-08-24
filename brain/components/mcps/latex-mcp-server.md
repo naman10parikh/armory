@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 7
 ---
 ## What it is
 An MCP Server to compile latex, download/organize/read cited papers, run visualization scripts and add figures/tables to latex.

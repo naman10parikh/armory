@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 45
 ---
 ## What it is
 ClickUp API integration with 143 MCP tools covering all ~130 endpoints. Token-efficient compact responses (~98% smaller than raw JSON), flattening nested objects for minimal context usage. Also works as a standalone CLI.

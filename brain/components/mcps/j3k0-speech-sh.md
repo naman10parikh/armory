@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: null
 ---
 ## What it is
 Let the agent speak things out loud, notify you when he's done working with a quick summary

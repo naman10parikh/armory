@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 8
 ---
 ## What it is
 Versioned, structured memory for AI agents. Stores facts as keypaths with full version history, automatic conflict detection, and O(1) token retrieval.

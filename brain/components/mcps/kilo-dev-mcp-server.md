@@ -8,7 +8,7 @@ source_url: https://github.com/Kilo-Org/kilo-dev-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 23
 ---
 ## What it is
 AI-powered web search server using Perplexity Sonar models with source citations. Zero-install setup via NPX.

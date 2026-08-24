@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
+stars: null
 ---
 ## What it is
 Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins

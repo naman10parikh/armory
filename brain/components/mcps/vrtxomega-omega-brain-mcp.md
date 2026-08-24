@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 5
 ---
 ## What it is
 Omega Brain MCP Server. Hardened AI execution pipeline prioritizing NAEF logic constraints over narrative LLM hallucination. 15 VERITAS Build Gates for uncompromising determinism, semantic vault integration, and Tri-Node Cortex validations.

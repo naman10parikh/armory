@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-statusline, claude-hud]
 tags: [statusline, observability]
+stars: 12532
 ---
 ## What it is
 A community statusline by sirmalloc, catalogued in awesome-claude-code. A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.

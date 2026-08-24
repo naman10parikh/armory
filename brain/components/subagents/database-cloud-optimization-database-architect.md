@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [database-admin, cicd-automation-kubernetes-architect]
 tags: [architecture, database, devops, performance, subagent]
+stars: null
 ---
 
 ## What it is

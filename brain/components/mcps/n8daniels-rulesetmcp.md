@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 2
 ---
 ## What it is
 Weight-On-Wheels for AI - keeps agents grounded in your project's rules. Query coding standards, validate snippets, and get task-specific guidance from version-controlled rule files.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 30
 ---
 ## What it is
 Static server that provides persistent tool-specific context and rules for AI models

@@ -9,7 +9,7 @@ source_url: https://github.com/naman10parikh/claude-harness
 license: MIT
 cli_compat: [claude]
 maturity: stable
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-26
 related: [memory-compression, learnings-append-only, server-memory, mem0-mcp]

@@ -8,7 +8,7 @@ source_url: https://github.com/Krv-Labs/topos
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []

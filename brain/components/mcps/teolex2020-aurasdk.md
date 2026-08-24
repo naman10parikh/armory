@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 73
 ---
 ## What it is
 Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.

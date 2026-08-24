@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
+stars: 33
 ---
 ## What it is
 Metropolitan Museum of Art Collection API integration to search and display artworks in the collection.

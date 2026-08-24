@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
+stars: 12
 ---
 ## What it is
 /🏠 - MCP server for the Rancher ecosystem with multi-cluster Kubernetes operations, Harvester HCI management (VMs, storage, networks), and Fleet GitOps tooling.

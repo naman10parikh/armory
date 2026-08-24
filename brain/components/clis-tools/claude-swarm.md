@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
+stars: null
 ---
 ## What it is
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.

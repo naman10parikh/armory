@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 267
 ---
 ## What it is
 Help agents automatically write and test stories for your UI components.

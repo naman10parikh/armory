@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 8
 ---
 ## What it is
 🤖 - MCP server providing task specific agentic instructions. No more outdated Markdown files and synchronisation overhead.

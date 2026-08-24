@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 4
 ---
 ## What it is
 Enterprise-grade Jenkins CI/CD integration with multi-tier caching, pipeline monitoring, artifact management, and batch operations. Features 21 MCP tools for job management, build status tracking, and queue management with CSRF protection and 2FA support.

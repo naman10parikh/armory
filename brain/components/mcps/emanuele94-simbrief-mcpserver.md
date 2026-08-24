@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
+stars: 1
 ---
 ## What it is
 Access your SimBrief flight plans. 14 tools covering flight summary, weather (METAR/TAF/ATIS), fuel plan, weights, times, ATC flight plan, navlog, NOTAMs, alternate airport, crew and performance sensitivity analysis.

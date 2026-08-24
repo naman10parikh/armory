@@ -12,6 +12,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [common-coding-style, typescript-coding-style]
 tags: [rules, python, style]
+stars: null
 ---
 
 ## What it is

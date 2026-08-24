@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
+stars: 11
 ---
 ## What it is
 MCP server for WhatsApp Business Platform by YCloud.

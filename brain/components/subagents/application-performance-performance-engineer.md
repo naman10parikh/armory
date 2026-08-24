@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [full-stack-orchestration-performance-engineer, api-scaffolding-backend-architect]
 tags: [performance, subagent, testing]
+stars: null
 ---
 
 ## What it is

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: null
 ---
 ## What it is
 Trust infrastructure for the agent economy. 4 tools: agent trust scores (18K+ agents indexed), token rug pull forensics, outcome reporting for oracle feedback loop, and Scarab reputation points. Hosted MCP at `https://app.maiat.io/api/mcp`.

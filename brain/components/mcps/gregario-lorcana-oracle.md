@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
+stars: 3
 ---
 ## What it is
 Disney Lorcana TCG card search, deck analysis, ink curves, lore generation, and franchise browsing. 7 tools, 2,710 cards embedded.

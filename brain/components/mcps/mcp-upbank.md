@@ -8,7 +8,7 @@ source_url: https://github.com/sirmews/mcp-upbank
 license: Do What The F*ck You Want To Public License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, version-control]
+stars: 3
 ---
 ## What it is
 Decentralized Git with on-chain governance, bounties, and DAOs. Tools for repos, issues, PRs, labels, releases, bounties, and DAO proposals. Auto-wallet on first use, trust tiers, and approval mode for human-in-the-loop. Go binary or Docker.

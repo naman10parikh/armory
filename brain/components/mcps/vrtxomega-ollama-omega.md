@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 3
 ---
 ## What it is
 Official Ollama MCP Server. Exposes ollama_chat, ollama_generate, ollama_pull_model, ollama_list_models and ollama_show_model tools for advanced AI interactions.

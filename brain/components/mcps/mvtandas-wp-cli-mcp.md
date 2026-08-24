@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 5
 ---
 ## What it is
 Full WordPress management via WP-CLI with 30+ tools for themes, plugins, posts, menus, users, database, scaffolding, and cache. Works locally or over SSH to remote servers.

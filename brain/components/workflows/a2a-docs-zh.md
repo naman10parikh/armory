@@ -8,7 +8,7 @@ source_url: https://github.com/sxhxliang/A2A-docs-zh
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 8
 eval_score: null
 verified_at: 2026-05-28
 related: []

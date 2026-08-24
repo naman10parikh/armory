@@ -9,7 +9,7 @@ source_url: https://github.com/cloudflare/cloudflared
 license: Apache-2.0
 cli_compat: [claude]
 maturity: stable
-stars: null
+stars: 15355
 eval_score: null
 verified_at: 2026-05-26
 related: [claude-managed-agents-selfhost, github-mcp, server-memory]

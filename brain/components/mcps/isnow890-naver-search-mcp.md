@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 84
 ---
 ## What it is
 MCP server for Naver Search API integration, supporting blog, news, shopping search and DataLab analytics features.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
+stars: 15
 ---
 ## What it is
 Local-first web scraping, search, and crawling. Static pages extracted locally via trafilatura; optional Firecrawl fallback only when JS rendering is needed. Four tools: scrape, search (DuckDuckGo), map, crawl.

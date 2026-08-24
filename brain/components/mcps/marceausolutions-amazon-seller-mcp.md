@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
+stars: 6
 ---
 ## What it is
 Amazon Seller Central operations via SP-API - manage inventory, track orders, analyze sales, and optimize listings

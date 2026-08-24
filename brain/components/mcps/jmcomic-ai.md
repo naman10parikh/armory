@@ -8,7 +8,7 @@ source_url: https://github.com/hect0x7/jmcomic-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 94
 eval_score: null
 verified_at: 2026-05-27
 related: []

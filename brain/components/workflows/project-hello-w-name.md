@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, slash-commands]
+stars: null
 ---
 ## What it is
 Creates customizable greeting components with name input, demonstrating argument passing, component reusability, state management, and user input handling.

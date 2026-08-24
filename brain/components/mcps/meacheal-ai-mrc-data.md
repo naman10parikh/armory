@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-platforms]
+stars: 2
 ---
 ## What it is
 China's apparel supply chain data for AI agents. 1,000+ verified suppliers, 350+ lab-tested fabrics, 170+ industrial clusters with AATCC / ISO / GB lab-test verification.

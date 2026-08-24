@@ -12,6 +12,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ccstatusline, claude-hud]
 tags: [statusline, observability]
+stars: 476
 ---
 ## What it is
 A community statusline by rz1989s, catalogued in awesome-claude-code. Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 3
 ---
 ## What it is
 DNS lookups, reverse DNS, WHOIS, and domain availability checks. Zero auth, zero config.

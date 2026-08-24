@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: null
 ---
 ## What it is
 Agent OS MCP server for AI agent governance with policy enforcement, code safety verification, multi-model hallucination detection, and immutable audit trails.

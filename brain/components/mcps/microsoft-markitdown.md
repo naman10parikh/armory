@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
+stars: null
 ---
 ## What it is
 MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM consumption.

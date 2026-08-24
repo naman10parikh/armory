@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
+stars: 13
 ---
 ## What it is
 MCP server for summarizing users's Reddit homepage or any subreddit based on posts and comments.

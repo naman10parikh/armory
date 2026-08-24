@@ -8,7 +8,7 @@ source_url: https://github.com/kingplaybookhqadmin1/kingsplaybook-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

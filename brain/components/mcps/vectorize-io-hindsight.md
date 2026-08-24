@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
+stars: 21003
 ---
 ## What it is
 Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory

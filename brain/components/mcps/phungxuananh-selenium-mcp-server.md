@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
+stars: 11
 ---
 ## What it is
 A Model Context Protocol server providing web automation capabilities through Selenium WebDriver

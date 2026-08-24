@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, server-implementations]
+stars: 2
 ---
 ## What it is
 Every FIFA World Cup since 1930. 23 tournaments, full squads, knockout brackets, stadium altitudes, hat-tricks. Free tier API.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
+stars: 4
 ---
 ## What it is
 Manage test cases in TestCollab directly from your AI coding assistant. List, create, and update test cases with filtering, sorting, and pagination support.

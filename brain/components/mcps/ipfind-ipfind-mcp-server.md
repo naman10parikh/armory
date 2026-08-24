@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, location-services]
+stars: 3
 ---
 ## What it is
 IP Address location service using the [IP Find](https://ipfind.com) API

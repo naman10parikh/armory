@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 1
 ---
 ## What it is
 Vietnam stock market intelligence — 35 tools: real-time SSI quotes, technical analysis, financial statements, stock screener (13 strategies), AI picks, foreign flow, macro indicators, and 13 investment playbook categories

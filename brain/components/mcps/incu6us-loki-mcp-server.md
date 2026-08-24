@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 5
 ---
 ## What it is
 An MCP server for querying Grafana Loki directly with a discovery-first workflow — labels, values, series, and LogQL queries without requiring Grafana.

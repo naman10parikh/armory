@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
+stars: 22
 ---
 ## What it is
 An MCP server to create/update pages in Notion app & auto generate mdBooks from structured content.

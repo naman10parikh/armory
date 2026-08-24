@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
+stars: null
 ---
 ## What it is
 Verify AI agent communication protocols using session types. Formal specification with Lean 4 proofs, linter, formatter, and LSP. Catches deadlocks and role violations before deployment.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
+stars: 29
 ---
 ## What it is
 Reddit integration to analyze content on WallStreetBets community

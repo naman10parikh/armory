@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [avs-vibe-developer-guide, cursor-tools]
 tags: [claude-code, claude-md-files]
+stars: null
 ---
 ## What it is
 Provides detailed and emphatic instructions for Claude to follow as a coding agent, with testing guidance, code examples, and compliance checks.

@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
+stars: 249
 ---
 ## What it is
 Zabbix integration for hosts, items, triggers, templates, problems, data and more.

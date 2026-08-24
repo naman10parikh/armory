@@ -11,6 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, travel-transportation]
+stars: 3
 ---
 ## What it is
 MCP server for the Hostaway property management system (vacation rentals & short-term rentals). 10 read-only tools across listings, reservations, calendar availability, guest conversations, and owner financials.

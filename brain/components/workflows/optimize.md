@@ -13,6 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [slash-command, code-analysis-testing]
+stars: null
 ---
 ## What it is
 A community workflow/command by to4iki, catalogued in awesome-claude-code. Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
