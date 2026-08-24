@@ -108,7 +108,16 @@ export default function Leaderboard() {
         </select>
         <a href={csvHref} style={{ ...sel, textDecoration: "none" }}>Export CSV</a>
         <span style={{ marginLeft: "auto", fontSize: 12.5, color: "var(--text-muted)", fontVariantNumeric: "tabular-nums" }}>
-          <strong style={{ color: "var(--text-body)" }}>{(data?.total ?? 0).toLocaleString()}</strong> in {slice} · of {(data?.facets.total ?? 0).toLocaleString()} total
+          {/* Until the first fetch lands, say so — never render "0 in everything · of 0 total",
+              which reads as an empty index rather than one that hasn't loaded yet. */}
+          {data ? (
+            <>
+              <strong style={{ color: "var(--text-body)" }}>{data.total.toLocaleString()}</strong> in {slice} · of{" "}
+              {data.facets.total.toLocaleString()} total
+            </>
+          ) : (
+            "loading the index…"
+          )}
         </span>
       </div>
 
@@ -145,6 +154,7 @@ export default function Leaderboard() {
               </tr>
             ))}
             {data && data.items.length === 0 && <tr><td style={{ ...td, color: "var(--text-muted)" }} colSpan={6}>nothing in this slice yet</td></tr>}
+            {!data && !err && <tr><td style={{ ...td, color: "var(--text-muted)" }} colSpan={6}>loading the index…</td></tr>}
           </tbody>
         </table>
       </div>
