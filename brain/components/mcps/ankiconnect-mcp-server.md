@@ -1,0 +1,27 @@
+---
+name: ankiconnect-mcp-server
+type: mcps
+description: >
+  Enables users to review Anki decks card by card, identify gaps such as missing verb forms or declensions, and apply approved edits through natural language conversation.
+source_repo: fabianissam/AnkiConnectMCP
+source_url: https://github.com/fabianissam/AnkiConnectMCP
+license: unknown
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: null
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables users to review Anki decks card by card, identify gaps such as missing verb forms or declensions, and apply approved edits through natural language conversation.
+
+## When to use it
+Enables users to review Anki decks card by card, identify gaps such as missing verb forms or declensions, and apply approved edits through natural language conversation.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/xt8ufhzrt3) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.
