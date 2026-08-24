@@ -217,16 +217,16 @@ export default function FormulaPage() {
 
       <Section
         n="05"
-        title={`We rank ${((100 * ranked.length) / total).toFixed(0)}% of the shelf. The rest is our backlog, not a dead end.`}
-        lead={`Every blank row has somewhere to fetch a number from — ${n(repos.size)} GitHub repos would light up most of it.`}
+        title={`We rank ${((100 * ranked.length) / total).toFixed(0)}% of the shelf, and we know why the rest is blank.`}
+        lead={`We asked GitHub about all ${n(repos.size)} repos behind the blank rows. None of this is a mystery — most of the tail simply has nothing to measure yet.`}
       >
         <Coverage
           ranked={ranked.length}
           total={total}
           buckets={[
-            { rows: root.length, label: "Points at a GitHub repo — the stars are public, we simply haven't fetched them yet.", fix: "one backfill run", fixable: true },
-            { rows: inside.length, label: "Points at a file inside a repo — the file has no stars of its own, only its parent does.", fix: "inherit, or count as a mention", fixable: true },
-            { rows: elsewhere.length, label: "Listed on a registry that publishes its own counts.", fix: "read the registry", fixable: true },
+            { rows: root.length, label: "A repo we asked about that has no stars. Nobody has starred it yet, so there is honestly nothing to score.", fix: "waiting on its first user", fixable: false },
+            { rows: inside.length, label: "A file inside a repo. Its parent has stars; the file has not earned them, and we refuse to borrow the number.", fix: "needs a signal of its own", fixable: true },
+            { rows: elsewhere.length, label: "Listed on a registry that publishes its own install counts.", fix: "read the registry", fixable: true },
             { rows: nowhere.length, label: "Nowhere to look — nothing published anywhere.", fix: nowhere.length ? "genuinely unrankable" : "none of them", fixable: false },
           ]}
         />
