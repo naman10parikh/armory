@@ -86,10 +86,15 @@ function fetchBatch(keys) {
 const cat = JSON.parse(readFileSync(CATALOG, "utf-8"));
 const components = cat.components || [];
 
-// Every component that has no star count but does point at a GitHub repo.
+// Only rows that ARE a repo get that repo's stars. A row pointing at a file INSIDE a repo (a rule,
+// a skill, a sub-agent) has not earned the repo's stars — 1,643 entries inside one 30k-star repo do
+// not each have 30k stars, and an inherited number would outrank tools that earned their own. Those
+// rows stay honestly blank until they get a signal of their own.
+const isRepoRoot = (u) => /^https?:\/\/(www\.)?github\.com\/[^/]+\/[^/#?]+\/?$/i.test(String(u || "").trim());
 const needing = components.filter((c) => {
   const hasStars = typeof c.stars === "number" && c.stars > 0;
-  return !hasStars && repoKey(c.source_url || c.source_repo);
+  const url = c.source_url || c.source_repo;
+  return !hasStars && repoKey(url) && isRepoRoot(url);
 });
 const byRepo = new Map();
 for (const c of needing) {
