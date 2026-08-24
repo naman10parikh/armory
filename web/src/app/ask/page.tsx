@@ -2,13 +2,17 @@
 // Ask — the conversational front door to the catalog. Type a request in plain English ("finance MCPs
 // that help with Excel modeling") and POST it to /api/ask, which uses Gemini's free tier to read the
 // intent and returns ranked building blocks. Degrades to keyword matches when no Gemini key is set.
+// Every result card LEADS with the ranking (Universal score, the artifact's claim-to-fame metric, the
+// verified chip) — the ranking is the product, so the answer surface must show it, not hide it.
 // Warm-black + Synapse-Amber, editorial — same inline-token house style as the Leaderboard.
 import { useCallback, useState } from "react";
 
 interface Primary { key: string; value: number | null; pct: number; label: string }
+interface Signals { stars: number | null; usage: number | null; tested: number | null; mentions: number | null }
 interface AskItem {
   name: string; component: string; domain: string; vertical: string | null;
   url: string | null; universal: number | null; primary: Primary | null; desc: string;
+  verified: boolean; signals: Signals;
 }
 interface Interpreted { keywords: string[]; component?: string; domain?: string; vertical?: string }
 interface AskResponse {
@@ -27,10 +31,19 @@ const EXAMPLES = [
 function primaryLabel(p: Primary | null): { text: string; glyph: string } {
   if (!p || p.value == null) return { text: "", glyph: "" };
   if (p.key === "tested") return { text: "verified", glyph: "✓" };
-  if (p.key === "mentions") return { text: `${p.value} mentioned`, glyph: "♦" };
+  if (p.key === "mentions") return { text: `${p.value} mentions`, glyph: "♦" };
   if (p.key === "stars") return { text: `${Number(p.value).toLocaleString()} stars`, glyph: "★" };
   if (p.key === "usage") return { text: `${Number(p.value).toLocaleString()} used`, glyph: "↑" };
   return { text: `${Number(p.value).toLocaleString()} ${p.key}`, glyph: "" };
+}
+// The full signal breakdown, shown on hover — mirrors the Leaderboard's row tooltip.
+function allSignals(s: Signals): string {
+  const bits: string[] = [];
+  if (s.stars != null) bits.push(`★ ${Number(s.stars).toLocaleString()} stars`);
+  if (s.usage != null) bits.push(`↑ ${Number(s.usage).toLocaleString()} used`);
+  if (s.tested != null) bits.push(`✓ tested (${Math.round(s.tested * 100)}%)`);
+  if (s.mentions != null) bits.push(`♦ ${s.mentions} mentions`);
+  return bits.length ? bits.join(" · ") : "no measured signals yet";
 }
 
 const chipAmber: React.CSSProperties = {
@@ -65,31 +78,44 @@ export default function Ask() {
       .finally(() => setLoading(false));
   }, []);
 
+  // Degraded = the keyword fallback. Its `summary` is a SYSTEM message, never an answer — so it must
+  // never occupy the serif answer slot; it is demoted to a small muted note below.
   const degraded = data?.reason === "no_key" || data?.reason === "gemini_error";
 
   const card: React.CSSProperties = {
-    border: "1px solid var(--line-default)", borderRadius: 14, background: "var(--bg-raise-1)", padding: "16px 18px",
+    display: "flex", gap: 14, alignItems: "flex-start",
+    border: "1px solid var(--line-default)", borderRadius: 14, background: "var(--bg-raise-1)", padding: "15px 16px",
   };
-  const nameLink: React.CSSProperties = { color: "var(--text-hi)", fontWeight: 600, fontSize: 15.5, textDecoration: "none" };
-  const scoreBadge: React.CSSProperties = {
-    fontWeight: 700, fontSize: 15, color: "var(--text-hi)", fontVariantNumeric: "tabular-nums",
-    border: "1px solid var(--accent-line)", borderRadius: 8, padding: "2px 9px", whiteSpace: "nowrap",
+  const nameLink: React.CSSProperties = { color: "var(--text-hi)", fontWeight: 600, fontSize: 15, textDecoration: "none" };
+  // The score rail — the first thing the eye lands on, since the ranking IS the answer.
+  const scoreRail: React.CSSProperties = {
+    flex: "0 0 auto", minWidth: 58, textAlign: "center", padding: "6px 8px 5px",
+    border: "1px solid var(--accent-line)", borderRadius: 10, background: "var(--accent-quiet)",
   };
-  const metaText: React.CSSProperties = { fontSize: 12, color: "var(--text-muted)", whiteSpace: "nowrap" };
+  const scoreNum: React.CSSProperties = {
+    fontSize: 21, fontWeight: 700, lineHeight: 1.05, color: "var(--text-hi)", fontVariantNumeric: "tabular-nums",
+  };
+  const scoreCap: React.CSSProperties = {
+    fontSize: 8.5, textTransform: "uppercase", letterSpacing: "0.09em", color: "var(--text-muted)", marginTop: 3,
+  };
+  const metaText: React.CSSProperties = { fontSize: 11.5, color: "var(--text-muted)", whiteSpace: "nowrap" };
+
+  const items = data?.items ?? [];
+  const ranked = items.filter((i) => i.universal != null).length;
+  const topScore = items.reduce((m, i) => (i.universal != null && i.universal > m ? i.universal : m), 0);
 
   return (
-    <main style={{ maxWidth: 840, margin: "0 auto", padding: "56px 24px 96px" }}>
+    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
       <h1 style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 44, lineHeight: 1.05, color: "var(--text-hi)", letterSpacing: "-0.02em", margin: 0 }}>
         Ask the Armory
       </h1>
-      <p style={{ color: "var(--text-muted)", marginTop: 12, maxWidth: "58ch", lineHeight: 1.6 }}>
-        Describe what your agent needs in plain English. We read the intent, search the ranked index, and
-        hand back the building blocks that fit — MCPs, CLIs, skills, and more.
+      <p style={{ color: "var(--text-muted)", marginTop: 10, lineHeight: 1.6 }}>
+        Describe the job. Get ranked building blocks.
       </p>
 
       <form
         onSubmit={(e) => { e.preventDefault(); ask(q); }}
-        style={{ display: "flex", gap: 10, margin: "28px 0 14px", flexWrap: "wrap" }}
+        style={{ display: "flex", gap: 10, margin: "24px 0 14px", flexWrap: "wrap" }}
       >
         <input
           aria-label="Ask for any tool"
@@ -97,7 +123,7 @@ export default function Ask() {
           onChange={(e) => setQ(e.target.value)}
           placeholder="Ask for any tool…"
           style={{
-            flex: "1 1 320px", font: "inherit", fontSize: 15, color: "var(--text-hi)",
+            flex: "1 1 420px", font: "inherit", fontSize: 15, color: "var(--text-hi)",
             background: "var(--bg-raise-1)", border: "1px solid var(--line-default)", borderRadius: 12,
             padding: "13px 16px", outline: "none",
           }}
@@ -134,14 +160,27 @@ export default function Ask() {
       {loading && !data && <div style={{ color: "var(--text-muted)", marginTop: 28 }}>Searching the index…</div>}
 
       {data && (
-        <section style={{ marginTop: 32 }}>
-          <p style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 24, lineHeight: 1.25, color: "var(--text-hi)", margin: 0, letterSpacing: "-0.01em" }}>
-            {data.summary}
-          </p>
+        <section style={{ marginTop: 30 }}>
+          {/* The serif slot holds the real ANSWER only. In keyword mode there is no answer, so it stays empty. */}
+          {!degraded && data.summary && (
+            <p style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 26, lineHeight: 1.25, color: "var(--text-hi)", margin: 0, letterSpacing: "-0.01em" }}>
+              {data.summary}
+            </p>
+          )}
 
-          {/* Interpreted facets: component/domain/vertical in amber, raw keywords muted. */}
+          {/* What we found, as numbers — the counts a developer scans before reading a single card. */}
+          {items.length > 0 && (
+            <div style={{ fontSize: 12.5, color: "var(--text-muted)", marginTop: degraded ? 0 : 10, fontVariantNumeric: "tabular-nums" }}>
+              <strong style={{ color: "var(--text-body)" }}>{items.length}</strong> matches ·{" "}
+              <strong style={{ color: "var(--text-body)" }}>{ranked}</strong> scored
+              {ranked > 0 && <> · top Universal <strong style={{ color: "var(--text-body)" }}>{topScore}</strong></>}
+            </div>
+          )}
+
+          {/* Interpreted facets: component/domain/vertical in amber, search terms muted.
+              The route already strips function words, so no `that`/`help`/`with` junk reaches here. */}
           {(data.interpreted.component || data.interpreted.domain || data.interpreted.vertical || data.interpreted.keywords.length > 0) && (
-            <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginTop: 14 }}>
+            <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginTop: 12 }}>
               {data.interpreted.component && <span style={chipAmber}>{data.interpreted.component}</span>}
               {data.interpreted.vertical && <span style={chipAmber}>{data.interpreted.vertical}</span>}
               {data.interpreted.domain && <span style={chipAmber}>{data.interpreted.domain}</span>}
@@ -150,35 +189,52 @@ export default function Ask() {
           )}
 
           {degraded && (
-            <div style={{ marginTop: 16, fontSize: 12.5, color: "var(--text-muted)", borderLeft: "2px solid var(--accent-line)", paddingLeft: 12, lineHeight: 1.5 }}>
-              Conversational mode needs a Gemini key — showing keyword matches.
+            <div style={{ marginTop: 12, fontSize: 12, color: "var(--text-muted)" }}>
+              Keyword mode — conversational search is off.
             </div>
           )}
 
-          <div style={{ display: "flex", flexDirection: "column", gap: 12, marginTop: 22 }}>
-            {data.items.map((i, n) => {
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(340px, 1fr))", gap: 12, marginTop: 20 }}>
+            {items.map((i, n) => {
               const p = primaryLabel(i.primary);
               return (
                 <article key={i.name + n} style={card}>
-                  <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", gap: 12 }}>
-                    {i.url
-                      ? <a href={i.url} target="_blank" rel="noopener noreferrer" style={nameLink}>{i.name}</a>
-                      : <span style={nameLink}>{i.name}</span>}
-                    {i.universal != null && <span style={scoreBadge}>{i.universal}</span>}
+                  {/* Score first, always present — a real number, or an honest "unrated". */}
+                  <div
+                    style={i.universal != null ? scoreRail : { ...scoreRail, border: "1px solid var(--line-default)", background: "var(--bg-raise-2)" }}
+                    title={i.universal != null ? "Universal score — how this ranks across every measured signal" : "not measured yet — no stars, usage, mentions or test signal"}
+                  >
+                    <div style={i.universal != null ? scoreNum : { ...scoreNum, color: "var(--text-muted)" }}>
+                      {i.universal != null ? i.universal : "—"}
+                    </div>
+                    <div style={scoreCap}>{i.universal != null ? "universal" : "unrated"}</div>
                   </div>
-                  {i.desc && <div style={{ color: "var(--text-body)", fontSize: 13.5, marginTop: 6, lineHeight: 1.55, maxWidth: "62ch" }}>{i.desc}</div>}
-                  <div style={{ display: "flex", alignItems: "center", gap: 14, marginTop: 10, flexWrap: "wrap" }}>
-                    {p.text && (
-                      <span style={{ fontSize: 12.5, color: "var(--text-body)", whiteSpace: "nowrap" }}>
-                        <span style={{ color: "var(--accent)" }}>{p.glyph}</span> {p.text}
-                      </span>
-                    )}
-                    <span style={metaText}>{[i.component, i.domain, i.vertical].filter(Boolean).join(" · ")}</span>
+
+                  <div style={{ minWidth: 0, flex: 1 }}>
+                    <div>
+                      {i.url
+                        ? <a href={i.url} target="_blank" rel="noopener noreferrer" style={nameLink}>{i.name}</a>
+                        : <span style={nameLink}>{i.name}</span>}
+                      {i.verified && (
+                        <span title="we installed + measured this" style={{ marginLeft: 6, fontSize: 11, color: "var(--accent)", border: "1px solid var(--accent-line)", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" }}>
+                          ✓ verified
+                        </span>
+                      )}
+                    </div>
+                    {i.desc && <div style={{ color: "var(--text-body)", fontSize: 12.5, marginTop: 5, lineHeight: 1.5 }}>{i.desc}</div>}
+                    <div style={{ display: "flex", alignItems: "center", gap: 10, marginTop: 8, flexWrap: "wrap" }} title={allSignals(i.signals)}>
+                      {p.text && (
+                        <span style={{ fontSize: 12, color: "var(--text-body)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
+                          <span style={{ color: "var(--accent)" }}>{p.glyph}</span> {p.text}
+                        </span>
+                      )}
+                      <span style={metaText}>{[i.component, i.domain, i.vertical].filter(Boolean).join(" · ")}</span>
+                    </div>
                   </div>
                 </article>
               );
             })}
-            {data.items.length === 0 && !loading && (
+            {items.length === 0 && !loading && (
               <div style={{ color: "var(--text-muted)", fontSize: 14 }}>Nothing matched — try broader or different terms.</div>
             )}
           </div>

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getCatalog } from "@/lib/catalog";
+import { CATEGORIES } from "@/lib/types";
 import { buildGraph } from "@/lib/graph";
 import { CategoryBento } from "@/components/category-bento";
 import { BuildFlow } from "@/components/build-flow";
@@ -14,10 +15,13 @@ import { ArrowRightIcon, SearchIcon } from "@/components/icons";
 // from catalog.json at build time. The hero graph is a ≤30-node teaser; the full
 // graph section samples a larger (still bounded) subset. Editorial, asymmetric.
 export default function HomePage() {
-  const { components, counts } = getCatalog();
+  const { components, counts, generated_at } = getCatalog();
   const total = counts.total;
   const heroGraph = buildGraph(components, 30);
   const sectionGraph = buildGraph(components, 160);
+  // Show the catalog's own date as data instead of claiming "kept current" in
+  // prose. The empty-catalog fallback stamps the epoch — don't print 1970.
+  const indexed = generated_at > "2000" ? generated_at.slice(0, 10) : null;
 
   return (
     <div className="overflow-x-clip">
@@ -29,23 +33,17 @@ export default function HomePage() {
             not an aggregator for humans
           </span>
 
-          <h1 className="mt-6 max-w-2xl font-serif text-[clamp(3rem,7vw+1rem,5.75rem)] font-normal leading-[0.97] tracking-[-0.02em] text-ink-hi animate-fade-up">
+          <h1 className="mt-6 font-serif text-[clamp(3rem,7vw+1rem,5.75rem)] font-normal leading-[0.97] tracking-[-0.02em] text-ink-hi animate-fade-up">
             Where agents gear up.
           </h1>
 
-          <p className="mt-5 font-serif text-[clamp(1.5rem,2.5vw,2.25rem)] italic leading-tight text-accent-hover animate-fade-up">
-            For agents, by agents, of agents.
-          </p>
-
-          <p className="mt-6 max-w-xl text-base leading-relaxed text-ink-body sm:text-lg">
+          <p className="mt-5 text-base leading-relaxed text-ink-body sm:text-lg">
             The <span className="text-ink-hi">ranked</span> index of every
-            open-source building block for the agent stack — MCPs, CLIs, skills,
-            hooks, and more. <span className="text-ink-hi">Agents crawl it, rank
-            it, and keep it current</span>, so yours pulls the best, most
-            up-to-date piece — not a stale list a human forgot to update.
+            open-source building block for the agent stack — crawled, scored and
+            kept current by agents.
           </p>
 
-          <div className="mt-9 flex flex-wrap items-center gap-x-5 gap-y-3">
+          <div className="mt-8 flex flex-wrap items-center gap-x-5 gap-y-3">
             <MagneticCta
               href="/leaderboard"
               icon={<ArrowRightIcon size={15} className="text-base" />}
@@ -61,10 +59,11 @@ export default function HomePage() {
             </Link>
           </div>
 
-          <p className="mt-7 font-mono text-[13px] text-ink-muted">
-            <CountUp value={total} className="text-ink-hi" /> building block
-            {total === 1 ? "" : "s"}, ranked · updated by agents, not by hand
-          </p>
+          <dl className="mt-10 flex flex-wrap items-baseline gap-x-12 gap-y-6">
+            <Stat label="ranked" value={<CountUp value={total} />} />
+            <Stat label="categories" value={<CountUp value={CATEGORIES.length} />} />
+            {indexed && <Stat label="last indexed" value={indexed} />}
+          </dl>
         </div>
 
         {/* Live mini synapse-graph (the signature moment). */}
@@ -85,28 +84,13 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ── The pitch ──────────────────────────────────────────────────── */}
-      <Reveal as="section" className="mx-auto max-w-[1240px] px-5 py-24">
-        <div className="hairline mb-12 h-px w-full" />
-        <p className="max-w-3xl font-serif text-[clamp(1.75rem,3vw,2.75rem)] leading-tight text-ink-body">
-          This is not a list for people to skim. It is a{" "}
-          <span className="text-accent-hover">brain you can read</span> — a graph
-          of recallable components, verified and scored, that an agent queries to{" "}
-          <span className="text-ink-hi">improve its own harness</span> while you
-          sleep.
-        </p>
-      </Reveal>
-
       {/* ── 12-category bento ──────────────────────────────────────────── */}
-      <section className="mx-auto max-w-[1240px] px-5 py-12">
-        <Reveal className="mb-9 flex items-end justify-between gap-6">
+      <section className="mx-auto max-w-[1240px] px-5 pb-12 pt-4">
+        <div className="hairline mb-12 h-px w-full" />
+        <Reveal className="mb-9">
           <h2 className="font-serif text-[clamp(2rem,4vw,3.25rem)] leading-none tracking-[-0.015em] text-ink-hi">
             Twelve regions of the brain.
           </h2>
-          <p className="hidden max-w-xs text-right text-sm leading-snug text-ink-muted sm:block">
-            CLIs, Evals, Observability, and Infrastructure are exactly what every
-            other list under-covers. That is the wedge.
-          </p>
         </Reveal>
         <CategoryBento counts={counts} />
       </section>
@@ -117,7 +101,7 @@ export default function HomePage() {
           <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-accent">
             how it&apos;s built
           </span>
-          <h2 className="mt-2 max-w-2xl font-serif text-[clamp(1.75rem,3.5vw,2.75rem)] leading-tight tracking-[-0.015em] text-ink-hi">
+          <h2 className="mt-2 font-serif text-[clamp(1.75rem,3.5vw,2.75rem)] leading-tight tracking-[-0.015em] text-ink-hi">
             One vault. One catalog. Three ways to recall it.
           </h2>
         </Reveal>
@@ -163,22 +147,34 @@ export default function HomePage() {
 
       {/* ── Quickstart ─────────────────────────────────────────────────── */}
       <section className="mx-auto max-w-[1240px] px-5 py-24">
-        <Reveal className="mx-auto max-w-2xl text-center">
+        <Reveal className="mx-auto max-w-3xl text-center">
           <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-accent">
             quickstart
           </span>
           <h2 className="mt-2 font-serif text-[clamp(1.75rem,3.5vw,2.75rem)] leading-tight tracking-[-0.015em] text-ink-hi">
             Recall from the terminal.
           </h2>
-          <p className="mt-3 text-sm leading-relaxed text-ink-muted">
-            Search and install components without leaving your agent&apos;s shell.
-          </p>
           <div className="mt-7 space-y-3 text-left">
             <CopyCommand command="armory search browser automation" />
             <CopyCommand command="armory install playwright-mcp --cli claude" />
           </div>
         </Reveal>
       </section>
+    </div>
+  );
+}
+
+// One hero stat: micro-label over a mono number. Replaces the sentence that
+// used to describe the same figures.
+function Stat({ label, value }: { label: string; value: React.ReactNode }) {
+  return (
+    <div>
+      <dt className="text-[10px] font-medium uppercase tracking-[0.2em] text-ink-muted">
+        {label}
+      </dt>
+      <dd className="mt-1.5 font-mono text-[clamp(1.5rem,2.2vw,2rem)] leading-none text-ink-hi">
+        {value}
+      </dd>
     </div>
   );
 }

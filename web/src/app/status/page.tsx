@@ -235,7 +235,7 @@ export default function Status() {
   const s = stats();
 
   return (
-    <main style={{ maxWidth: 1120, margin: "0 auto", padding: "88px 24px 96px" }}>
+    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
       <a href="/leaderboard" style={{ color: "var(--accent-hover)", fontSize: 13.5, textDecoration: "none" }}>
         ← the leaderboard
       </a>

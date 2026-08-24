@@ -71,7 +71,7 @@ export default function GrowthPage() {
   };
 
   return (
-    <main style={{ maxWidth: 1180, margin: "0 auto", padding: "96px 24px 96px" }}>
+    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
       <p
         style={{
           fontSize: 10.5,

@@ -15,9 +15,11 @@ export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
 interface Primary { key: string; value: number | null; pct: number; label: string }
+interface Signals { stars: number | null; usage: number | null; tested: number | null; mentions: number | null }
 interface EngineRow {
   name: string; component: string; domain: string; vertical: string | null; url: string | null;
   desc: string; scores: { universal: number | null }; primary: Primary | null;
+  verified?: boolean; signals: Signals;
 }
 interface RawComponent { name?: string; description?: string; tags?: string[] | string }
 interface Hit { raw: RawComponent; row: EngineRow }
@@ -36,6 +38,21 @@ function corpus(): Hit[] {
 
 const tokenize = (text: string): string[] =>
   text.toLowerCase().split(/[^a-z0-9]+/).filter((t) => t.length > 1);
+
+// Function words carry no catalog signal but DO score, because a name match is worth 3 points: "with",
+// "me" and "help" alone lifted `vibe-with-me-tools-agent-reachout` and `mcp-help-article-server` into
+// the top 3 for real queries. Dropping them fixes relevance AND the junk chips the client renders from
+// `interpreted.keywords` — one list, both symptoms. (1-char words are already gone via tokenize.)
+const STOPWORDS = new Set([
+  "the", "that", "with", "help", "for", "and", "an", "to", "in", "of", "on", "is",
+  "are", "how", "do", "my", "me", "best", "any", "some", "it", "this",
+]);
+
+// Keep only the meaningful terms — but never return nothing, so an all-stopword query still searches.
+const contentTerms = (tokens: string[]): string[] => {
+  const kept = tokens.filter((t) => !STOPWORDS.has(t));
+  return kept.length ? kept : tokens;
+};
 
 // A simple, deterministic keyword score: a term in the name outweighs a tag, which outweighs the body.
 // Identical to /api/search's scorer — one relevance definition across the programmatic + conversational APIs.
@@ -56,6 +73,7 @@ function keywordScore(raw: RawComponent, qTerms: string[]): number {
 interface AskItem {
   name: string; component: string; domain: string; vertical: string | null;
   url: string | null; universal: number | null; primary: Primary | null; desc: string;
+  verified: boolean; signals: Signals;
 }
 interface Filters { component?: string; domain?: string; vertical?: string }
 
@@ -84,6 +102,10 @@ function runSearch(qTerms: string[], f: Filters, limit = 12): AskItem[] {
     universal: h.row.scores.universal,
     primary: h.row.primary,
     desc: h.row.desc,
+    // The card leads with the ranking, so it needs the trust chip and every raw signal (for the
+    // hover breakdown) — the same three things the Leaderboard row shows.
+    verified: h.row.verified ?? false,
+    signals: h.row.signals,
   }));
 }
 
@@ -190,7 +212,7 @@ export async function POST(req: Request): Promise<NextResponse> {
     });
   }
 
-  const qTokens = [...new Set(tokenize(q))];
+  const qTokens = contentTerms([...new Set(tokenize(q))]);
   const key = process.env.GEMINI_API_KEY;
 
   // No key → graceful keyword path (still status 200, still renders items).
@@ -212,7 +234,9 @@ export async function POST(req: Request): Promise<NextResponse> {
     });
   }
 
-  const keywords = interp.keywords.length ? [...new Set(interp.keywords.flatMap(tokenize))] : qTokens;
+  const keywords = interp.keywords.length
+    ? contentTerms([...new Set(interp.keywords.flatMap(tokenize))])
+    : qTokens;
   const filters: Filters = { component: interp.component, domain: interp.domain, vertical: interp.vertical };
   let items = runSearch(keywords, filters);
   // If the facets over-filtered to nothing, retry once without them so the user still sees the best matches.

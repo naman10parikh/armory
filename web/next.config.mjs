@@ -16,6 +16,11 @@ const nextConfig = {
     // both into each serverless function so they ship on Vercel (dev reads them off disk directly).
     "/api/rank": ["./catalog.json", "./lib/rank.mjs"],
     "/api/rank.csv": ["./catalog.json", "./lib/rank.mjs"],
+    "/api/search": ["./catalog.json", "./lib/rank.mjs"],
+    "/api/ask": ["./catalog.json", "./lib/rank.mjs"],
+    // /formula computes every figure it shows from the catalog with the ranking engine, so it needs
+    // both traced in too — otherwise the page ships without the data it explains.
+    "/formula": ["./catalog.json", "./lib/rank.mjs"],
   },
 };
 

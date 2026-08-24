@@ -81,17 +81,16 @@ export default function Leaderboard() {
   const sel: React.CSSProperties = { font: "inherit", fontSize: 13.5, color: "var(--text-hi)", background: "var(--bg-raise-1)", border: "1px solid var(--line-default)", borderRadius: 8, padding: "7px 11px", cursor: "pointer" };
 
   return (
-    <main style={{ maxWidth: 1180, margin: "0 auto", padding: "56px 24px 96px" }}>
+    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
       <h1 style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 44, lineHeight: 1.05, color: "var(--text-hi)", letterSpacing: "-0.02em", margin: 0 }}>
         The Leaderboard
       </h1>
-      <p style={{ color: "var(--text-muted)", marginTop: 12, maxWidth: "60ch", lineHeight: 1.6 }}>
-        Every open-source building block — MCP, CLI, skill, plugin, repo, package, docs — with one
-        Universal rating. Sliceable by component and domain, sortable on any axis.{" "}
+      <p style={{ color: "var(--text-muted)", marginTop: 10, lineHeight: 1.6 }}>
+        One Universal rating for every open-source building block.{" "}
         <a href="/formula" style={{ color: "var(--accent-hover)", textDecoration: "underline", textUnderlineOffset: 3 }}>How the score works →</a>
       </p>
 
-      <div style={{ display: "flex", gap: 12, flexWrap: "wrap", alignItems: "center", margin: "28px 0 20px" }}>
+      <div style={{ display: "flex", gap: 12, flexWrap: "wrap", alignItems: "center", margin: "24px 0 18px" }}>
         <select aria-label="component" style={sel} value={component} onChange={(e) => setComponent(e.target.value)}>
           <option value="">every component</option>
           {data?.facets.components.map((c) => <option key={c.key} value={c.key}>{c.key}</option>)}
@@ -120,7 +119,7 @@ export default function Leaderboard() {
             <tr>
               <th style={th}>#</th>
               <th style={{ ...th, cursor: "pointer" }} onClick={() => clickSort("universal")}>universal{arrow("universal")}</th>
-              <th style={th}>name — what it is</th>
+              <th style={th}>name</th>
               <th style={{ ...th }} title="each artifact's strongest metric — hover a row for all of them">top signal</th>
               <th style={th}>component</th>
               <th style={th}>domain</th>
@@ -134,7 +133,7 @@ export default function Leaderboard() {
                 <td style={td}>
                   {i.url ? <a href={i.url} target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-hi)", fontWeight: 500 }}>{i.name}</a> : <span style={{ color: "var(--text-hi)", fontWeight: 500 }}>{i.name}</span>}
                   {i.verified && <span title="we installed + measured this" style={{ marginLeft: 6, fontSize: 11, color: "var(--accent)", border: "1px solid var(--accent-line)", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" }}>✓ verified</span>}
-                  <div style={{ color: "var(--text-muted)", fontSize: 12, marginTop: 3, maxWidth: "56ch" }}>{i.desc}</div>
+                  <div style={{ color: "var(--text-muted)", fontSize: 12, marginTop: 3, maxWidth: "88ch" }}>{i.desc}</div>
                 </td>
                 <td style={{ ...td, whiteSpace: "nowrap" }} title={allSignals(i)}>
                   {(() => { const p = primaryLabel(i); return p.text === "—"
