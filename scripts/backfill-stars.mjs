@@ -92,7 +92,10 @@ const components = cat.components || [];
 // rows stay honestly blank until they get a signal of their own.
 const isRepoRoot = (u) => /^https?:\/\/(www\.)?github\.com\/[^/]+\/[^/#?]+\/?$/i.test(String(u || "").trim());
 const needing = components.filter((c) => {
-  const hasStars = typeof c.stars === "number" && c.stars > 0;
+  // "Asked already" means the field holds a NUMBER — including 0. Recording an honest zero is what
+  // stops the nightly re-asking ~30k repos that genuinely have no stars, every single night.
+  // `--refresh` re-asks everything, for the occasional full refresh as counts move.
+  const hasStars = typeof c.stars === "number" && (c.stars > 0 || !has("--refresh"));
   const url = c.source_url || c.source_repo;
   return !hasStars && repoKey(url) && isRepoRoot(url);
 });
@@ -129,8 +132,10 @@ process.stdout.write("\n\n");
 let rowsFilled = 0, withStars = 0;
 for (const [k, cs] of byRepo) {
   const s = stars.get(k);
-  if (s == null || s <= 0) continue;
-  withStars++;
+  if (s == null) continue;              // repo never answered — leave it unasked, try again next run
+  if (s > 0) withStars++;
+  // Write the zero too. It is a real answer ("nobody has starred this"), not a missing one, and the
+  // ranking still treats 0 as no signal — so the row stays honestly unranked either way.
   for (const c of cs) { c.stars = s; rowsFilled++; }
 }
 
