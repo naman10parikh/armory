@@ -9,7 +9,7 @@ source_url: https://github.com/naman10parikh/agent-booster
 license: MIT
 cli_compat: [claude, codex, cursor]
 maturity: beta
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-26
 related: [batch-operations, claude-harness]

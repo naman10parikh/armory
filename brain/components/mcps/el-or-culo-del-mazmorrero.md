@@ -8,7 +8,7 @@ source_url: https://github.com/REMR11/practica_mcp_dungeons_and_dragons
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

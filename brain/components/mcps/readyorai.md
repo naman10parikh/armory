@@ -1,0 +1,27 @@
+---
+name: readyorai
+type: mcps
+description: >
+  Enables local code inspection and analysis for clean code practices, best practices, and actionable recommendations without external API calls or modifying the code.
+source_repo: TedoNeObichaJavaScript/ReadyOrAI
+source_url: https://github.com/TedoNeObichaJavaScript/ReadyOrAI
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: 1
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+---
+## What it is
+Enables local code inspection and analysis for clean code practices, best practices, and actionable recommendations without external API calls or modifying the code.
+
+## When to use it
+Enables local code inspection and analysis for clean code practices, best practices, and actionable recommendations without external API calls or modifying the code.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/iw85wx1cyg) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

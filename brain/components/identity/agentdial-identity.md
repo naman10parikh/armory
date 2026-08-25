@@ -9,7 +9,7 @@ source_url: https://github.com/naman10parikh/agentdial
 license: MIT
 cli_compat: [claude]
 maturity: beta
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-26
 related: [agentdial, soul-md-spec, agent-file-format]

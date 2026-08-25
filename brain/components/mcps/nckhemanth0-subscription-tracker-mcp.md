@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: null
+stars: 0
 ---
 ## What it is
 MCP server for intelligent subscription management with Gmail + MySQL integration.

@@ -8,7 +8,7 @@ source_url: https://github.com/miguel-alvarez-utn2020/MCP-PAINT
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

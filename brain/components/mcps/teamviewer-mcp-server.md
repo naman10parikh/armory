@@ -8,7 +8,7 @@ source_url: https://github.com/NilsTv8/TV_ONE_MCP_Anthropic_noDCR
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

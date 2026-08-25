@@ -9,7 +9,7 @@ source_url: https://github.com/naman10parikh/agentswarm
 license: MIT
 cli_compat: [claude, codex]
 maturity: beta
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-26
 related: [agentgrid, ceo-launch, research-agent, recursive-grid]

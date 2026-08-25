@@ -8,7 +8,7 @@ source_url: https://github.com/AG0860-Mohammad-Anas/p004_mcp_weather_travel_advi
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://github.com/p31labs/mcp-membrane
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

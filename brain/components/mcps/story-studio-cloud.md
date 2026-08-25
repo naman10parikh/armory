@@ -8,7 +8,7 @@ source_url: https://github.com/xiangyucao/story-studio-cloud
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

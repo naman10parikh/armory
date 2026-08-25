@@ -8,7 +8,7 @@ source_url: https://github.com/JesusGarcia9009/lethe-engineering
 license: The Unlicense
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

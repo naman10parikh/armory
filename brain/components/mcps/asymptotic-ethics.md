@@ -8,7 +8,7 @@ source_url: https://github.com/Toby-Self/Asymptotic-Ethics-Model
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

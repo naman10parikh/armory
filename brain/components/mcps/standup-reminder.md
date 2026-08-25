@@ -8,7 +8,7 @@ source_url: https://github.com/rayc2026/standup-reminder
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -8,7 +8,7 @@ source_url: https://github.com/FutureAiIndustries/FI-Memory
 license: Cryptographic Autonomy License 1.0 (Combined Work Exception)
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

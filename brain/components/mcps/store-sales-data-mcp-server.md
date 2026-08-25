@@ -8,7 +8,7 @@ source_url: https://github.com/eXpresser-UXM/20260617-dx-dojo-mcp-server-sample
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

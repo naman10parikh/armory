@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: null
+stars: 0
 ---
 ## What it is
 Run AI agents in Zulip as @mentionable bots — or wire into any MCP client. Real-time listening, session management, file handling.
