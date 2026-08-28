@@ -8,7 +8,7 @@ source_url: https://github.com/adacreativeco/ada-turbo-mcp
 license: PolyForm Noncommercial License 1.0.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
