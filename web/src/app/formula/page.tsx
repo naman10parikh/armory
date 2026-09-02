@@ -28,7 +28,9 @@ export const metadata: Metadata = {
     "One rating for every open-source building block. Each signal becomes a percentile within its own kind, blended by weight, and scaled by how many independent signals agree. Every number computed from the catalog.",
 };
 
-const WEIGHTS: Record<string, number> = { tested: 1.4, mentions: 1.2, stars: 1.0, usage: 0.9 };
+// MUST mirror WEIGHTS in lib/rank.mjs — this copy only renders the visible arithmetic. If they drift,
+// the page prints a sum that does not equal the score beside it (see docs/FORMULA-AUDIT.md §H12).
+const WEIGHTS: Record<string, number> = { tested: 1.0, mentions: 1.2, stars: 1.0, usage: 0.9 };
 const GLYPH: Record<string, string> = { stars: "★", usage: "↑", tested: "✓", mentions: "♦" };
 const UNIT: Record<string, string> = { stars: "stars", usage: "used", tested: "tested", mentions: "mentions" };
 
