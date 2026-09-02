@@ -26,8 +26,11 @@ cp -R "$ROOT/web/.vercel" "$WT/web/.vercel"          # project link (gitignored)
 (cd "$WT/web" && node scripts/copy-data.mjs >/dev/null)
 
 echo "▸ vercel deploy --prod (archive=tgz)"
-url="$(cd "$WT/web" && vercel deploy --prod --yes --archive=tgz 2>/tmp/armory-deploy.err | tail -1)"
-[[ "$url" == https://* ]] || { echo "deploy failed:"; cat /tmp/armory-deploy.err; exit 1; }
+# CLI 59 streams the build log and prints the deployment URL among it, on either stream — take the
+# last deployment URL it mentions rather than trusting "the last line of stdout".
+(cd "$WT/web" && vercel deploy --prod --yes --archive=tgz > /tmp/armory-deploy.out 2>&1) || true
+url="$(grep -oE 'https://armory-[a-z0-9]+-darwain\.vercel\.app' /tmp/armory-deploy.out | tail -1)"
+[[ "$url" == https://* ]] || { echo "deploy failed:"; tail -40 /tmp/armory-deploy.out; exit 1; }
 echo "  deployment: $url"
 
 echo "▸ waiting for READY"
