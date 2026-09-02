@@ -1,17 +1,18 @@
 import Link from "next/link";
 import { Logo } from "./logo";
-import { Reveal } from "./reveal";
 
 const REPO = "https://github.com/naman10parikh/component";
 
 // Footer. Labels per web/COPY.md §3: the lead line is a noun phrase, the column
-// heads are `Catalog` / `Developers`, and the repo link is `Source`.
+// heads are `Catalog` / `Developers`, and the repo link is `Source`. No scroll
+// reveal (design/BRIEF.md §8 — a marketing device that delays reading); rows
+// render immediately, like everything else in app chrome.
 export function SiteFooter() {
   return (
     <footer className="mx-auto w-full max-w-[1440px] px-5 py-16 md:px-8">
       <div className="hairline mb-10 h-px w-full" />
       <div className="flex flex-col gap-10 md:flex-row md:items-end md:justify-between">
-        <Reveal index={0}>
+        <div>
           <div className="flex items-center gap-2.5">
             <Logo size={24} />
             <span className="font-wordmark text-2xl leading-none tracking-tight text-ink-hi">
@@ -24,9 +25,9 @@ export function SiteFooter() {
           <p className="mt-1 text-[13px] text-ink-muted">
             For agents, by agents, of agents.
           </p>
-        </Reveal>
+        </div>
 
-        <Reveal index={1} className="flex flex-wrap gap-x-10 gap-y-6 text-[14px]">
+        <div className="flex flex-wrap gap-x-10 gap-y-6 text-[14px]">
           <FooterCol label="Catalog">
             <FooterLink href="/leaderboard">Leaderboard</FooterLink>
             <FooterLink href="/browse">Browse</FooterLink>
@@ -37,15 +38,13 @@ export function SiteFooter() {
             <FooterA href={`${REPO}/blob/main/CONTRIBUTING.md`}>Contribute</FooterA>
             <FooterA href={REPO}>Source</FooterA>
           </FooterCol>
-        </Reveal>
+        </div>
       </div>
 
-      <Reveal index={2}>
-        <p className="mt-12 font-mono text-[11px] text-ink-faint">
-          MIT · the open registry of agent-harness components · built in the open
-          by the Energy ecosystem
-        </p>
-      </Reveal>
+      <p className="mt-12 font-mono text-[11px] text-ink-faint">
+        MIT · the open registry of agent-harness components · built in the open by
+        the Energy ecosystem
+      </p>
     </footer>
   );
 }

@@ -1,245 +1,328 @@
 "use client";
-// Ask — the conversational front door to the catalog. Type a request in plain English ("finance MCPs
-// that help with Excel modeling") and POST it to /api/ask, which uses Gemini's free tier to read the
-// intent and returns ranked building blocks. Degrades to keyword matches when no Gemini key is set.
-// Every result card LEADS with the ranking (Universal score, the artifact's claim-to-fame metric, the
-// verified chip) — the ranking is the product, so the answer surface must show it, not hide it.
-// Warm-black + Synapse-Amber, editorial — same inline-token house style as the Leaderboard.
-import { useCallback, useState } from "react";
+// Ask — the conversational front door to the catalog. Type a request in plain English ("browser
+// automation") and POST it to /api/ask (unchanged), which returns ranked components. Degrades to
+// keyword matches when no Gemini key is set. The query lives in the URL (`?q=`) both ways: the home
+// search box GETs here with it, and typing here keeps the URL in sync. The empty state is never a
+// void — it shows the top-ranked rows (GET /api/rank?limit=12) in the same DataTable as Leaderboard.
+import { Suspense, useCallback, useEffect, useRef, useState } from "react";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { ContentWidth, DataTable, Th } from "@/components/data-table";
+import { HarnessSelector } from "@/components/install-snippet";
+import { RankedRow, RankedRowSkeleton, type RankedRowData } from "@/components/ranked-row";
+import { AskResultCard, InterpretedChip, KeywordChip, type AskResultItem } from "@/components/ask-result-card";
 
-interface Primary { key: string; value: number | null; pct: number; label: string }
-interface Signals { stars: number | null; usage: number | null; tested: number | null; mentions: number | null }
-interface AskItem {
-  name: string; component: string; domain: string; vertical: string | null;
-  url: string | null; universal: number | null; primary: Primary | null; desc: string;
-  verified: boolean; signals: Signals;
+interface Interpreted {
+  keywords: string[];
+  component?: string;
+  domain?: string;
+  vertical?: string;
 }
-interface Interpreted { keywords: string[]; component?: string; domain?: string; vertical?: string }
 interface AskResponse {
-  ok: boolean; reason?: string; interpreted: Interpreted; summary: string; items: AskItem[];
+  ok: boolean;
+  reason?: string;
+  interpreted: Interpreted;
+  summary: string;
+  items: AskResultItem[];
 }
 
+// COPY.md §4D — five short, Title-Case example queries (replaces the old full-sentence prompts).
 const EXAMPLES = [
-  "finance MCPs that help with Excel modeling",
-  "best browser-automation tool",
-  "skills for writing tests",
-  "memory systems for agents",
-  "how do I deploy an agent to a sandbox",
-];
+  "Browser Automation",
+  "Excel + Finance",
+  "Test Generation",
+  "Agent Memory",
+  "Sandbox Deploy",
+] as const;
+const TOP_N = 12;
+const COLS = 8;
 
-// Each item's PRIMARY metric (its claim to fame) as a glyph + label — mirrors the Leaderboard.
-function primaryLabel(p: Primary | null): { text: string; glyph: string } {
-  if (!p || p.value == null) return { text: "", glyph: "" };
-  if (p.key === "tested") return { text: "verified", glyph: "✓" };
-  if (p.key === "mentions") return { text: `${p.value} mentions`, glyph: "♦" };
-  if (p.key === "stars") return { text: `${Number(p.value).toLocaleString()} stars`, glyph: "★" };
-  if (p.key === "usage") return { text: `${Number(p.value).toLocaleString()} used`, glyph: "↑" };
-  return { text: `${Number(p.value).toLocaleString()} ${p.key}`, glyph: "" };
-}
-// The full signal breakdown, shown on hover — mirrors the Leaderboard's row tooltip.
-function allSignals(s: Signals): string {
-  const bits: string[] = [];
-  if (s.stars != null) bits.push(`★ ${Number(s.stars).toLocaleString()} stars`);
-  if (s.usage != null) bits.push(`↑ ${Number(s.usage).toLocaleString()} used`);
-  if (s.tested != null) bits.push(`✓ tested (${Math.round(s.tested * 100)}%)`);
-  if (s.mentions != null) bits.push(`♦ ${s.mentions} mentions`);
-  return bits.length ? bits.join(" · ") : "no measured signals yet";
+export default function AskPage() {
+  return (
+    <Suspense fallback={<AskShell />}>
+      <AskContent />
+    </Suspense>
+  );
 }
 
-const chipAmber: React.CSSProperties = {
-  fontSize: 12, color: "var(--accent)", background: "var(--accent-quiet)",
-  border: "1px solid var(--accent-line)", borderRadius: 999, padding: "3px 10px", fontWeight: 500, whiteSpace: "nowrap",
-};
-const chipMuted: React.CSSProperties = {
-  fontSize: 12, color: "var(--text-muted)", background: "var(--bg-raise-2)",
-  border: "1px solid var(--line-default)", borderRadius: 999, padding: "3px 10px", whiteSpace: "nowrap",
-};
+function AskShell() {
+  return (
+    <ContentWidth className="pb-16 pt-8">
+      <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Ask</h1>
+      <p className="mt-3 text-[13px] text-ink-muted">Loading</p>
+    </ContentWidth>
+  );
+}
 
-export default function Ask() {
-  const [q, setQ] = useState("");
+function AskContent() {
+  const router = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+
+  const [q, setQ] = useState(() => searchParams.get("q") || "");
   const [data, setData] = useState<AskResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [err, setErr] = useState("");
 
-  const ask = useCallback((query: string) => {
-    const trimmed = query.trim();
-    if (!trimmed) return;
-    setQ(trimmed);
-    setLoading(true);
-    setErr("");
-    fetch("/api/ask", {
-      method: "POST",
-      headers: { "content-type": "application/json" },
-      body: JSON.stringify({ q: trimmed }),
-    })
+  const [topRanked, setTopRanked] = useState<RankedRowData[] | null>(null);
+  const [topErr, setTopErr] = useState("");
+
+  // The default view — always fetched, cheap, and needed the instant there's no active query.
+  useEffect(() => {
+    fetch(`/api/rank?limit=${TOP_N}`)
       .then((r) => r.json())
-      .then((d: AskResponse) => setData(d))
-      .catch((e) => setErr(String(e)))
-      .finally(() => setLoading(false));
+      .then((d: { items: RankedRowData[] }) => setTopRanked(d.items))
+      .catch((e) => setTopErr(String(e)));
   }, []);
 
-  // Degraded = the keyword fallback. Its `summary` is a SYSTEM message, never an answer — so it must
-  // never occupy the serif answer slot; it is demoted to a small muted note below.
+  const ask = useCallback(
+    (query: string) => {
+      const trimmed = query.trim();
+      setQ(trimmed);
+      router.replace(trimmed ? `${pathname}?q=${encodeURIComponent(trimmed)}` : pathname, {
+        scroll: false,
+      });
+      if (!trimmed) {
+        setData(null);
+        return;
+      }
+      setLoading(true);
+      setErr("");
+      fetch("/api/ask", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ q: trimmed }),
+      })
+        .then((r) => r.json())
+        .then((d: AskResponse) => setData(d))
+        .catch((e) => setErr(String(e)))
+        .finally(() => setLoading(false));
+    },
+    [pathname, router],
+  );
+
+  // Run the URL's initial `q` once — the home search box GETs /ask?q=… (design/BRIEF.md §note).
+  const ranOnce = useRef(false);
+  useEffect(() => {
+    if (ranOnce.current) return;
+    ranOnce.current = true;
+    if (q) ask(q);
+  }, [q, ask]);
+
+  const reset = useCallback(() => {
+    setQ("");
+    setData(null);
+    setErr("");
+    router.replace(pathname, { scroll: false });
+  }, [pathname, router]);
+
   const degraded = data?.reason === "no_key" || data?.reason === "gemini_error";
-
-  const card: React.CSSProperties = {
-    display: "flex", gap: 14, alignItems: "flex-start",
-    border: "1px solid var(--line-default)", borderRadius: 14, background: "var(--bg-raise-1)", padding: "15px 16px",
-  };
-  const nameLink: React.CSSProperties = { color: "var(--text-hi)", fontWeight: 600, fontSize: 15, textDecoration: "none" };
-  // The score rail — the first thing the eye lands on, since the ranking IS the answer.
-  const scoreRail: React.CSSProperties = {
-    flex: "0 0 auto", minWidth: 58, textAlign: "center", padding: "6px 8px 5px",
-    border: "1px solid var(--accent-line)", borderRadius: 10, background: "var(--accent-quiet)",
-  };
-  const scoreNum: React.CSSProperties = {
-    fontSize: 21, fontWeight: 700, lineHeight: 1.05, color: "var(--text-hi)", fontVariantNumeric: "tabular-nums",
-  };
-  const scoreCap: React.CSSProperties = {
-    fontSize: 8.5, textTransform: "uppercase", letterSpacing: "0.09em", color: "var(--text-muted)", marginTop: 3,
-  };
-  const metaText: React.CSSProperties = { fontSize: 11.5, color: "var(--text-muted)", whiteSpace: "nowrap" };
-
   const items = data?.items ?? [];
   const ranked = items.filter((i) => i.universal != null).length;
   const topScore = items.reduce((m, i) => (i.universal != null && i.universal > m ? i.universal : m), 0);
 
   return (
-    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
-      <h1 style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 44, lineHeight: 1.05, color: "var(--text-hi)", letterSpacing: "-0.02em", margin: 0 }}>
-        Ask the Armory
-      </h1>
-      <p style={{ color: "var(--text-muted)", marginTop: 10, lineHeight: 1.6 }}>
-        Describe the job. Get ranked building blocks.
-      </p>
+    <div>
+      <section className="border-b border-line-subtle">
+        <ContentWidth className="pb-6 pt-8">
+          <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">Ask</h1>
+          <p className="mt-2 text-[16px] leading-normal text-ink-body">
+            Describe a task, get ranked components
+          </p>
 
-      <form
-        onSubmit={(e) => { e.preventDefault(); ask(q); }}
-        style={{ display: "flex", gap: 10, margin: "24px 0 14px", flexWrap: "wrap" }}
-      >
-        <input
-          aria-label="Ask for any tool"
-          value={q}
-          onChange={(e) => setQ(e.target.value)}
-          placeholder="Ask for any tool…"
-          style={{
-            flex: "1 1 420px", font: "inherit", fontSize: 15, color: "var(--text-hi)",
-            background: "var(--bg-raise-1)", border: "1px solid var(--line-default)", borderRadius: 12,
-            padding: "13px 16px", outline: "none",
-          }}
-        />
-        <button
-          type="submit"
-          disabled={loading || !q.trim()}
-          style={{
-            font: "inherit", fontSize: 15, fontWeight: 600, color: "var(--bg-base)",
-            background: loading || !q.trim() ? "var(--accent-line)" : "var(--accent)",
-            border: "none", borderRadius: 12, padding: "13px 22px",
-            cursor: loading || !q.trim() ? "default" : "pointer", whiteSpace: "nowrap",
-          }}
-        >
-          {loading ? "Searching…" : "Ask"}
-        </button>
-      </form>
-
-      {/* Example queries — click to run. */}
-      <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 8 }}>
-        {EXAMPLES.map((ex) => (
-          <button
-            key={ex}
-            type="button"
-            onClick={() => ask(ex)}
-            style={{ ...chipMuted, cursor: "pointer", font: "inherit" }}
+          <form
+            onSubmit={(e) => {
+              e.preventDefault();
+              ask(q);
+            }}
+            role="search"
+            className="mt-5 flex flex-wrap gap-2.5"
           >
-            {ex}
-          </button>
-        ))}
-      </div>
+            <label htmlFor="ask-q" className="sr-only">
+              Search
+            </label>
+            <input
+              id="ask-q"
+              value={q}
+              onChange={(e) => setQ(e.target.value)}
+              placeholder="browser automation"
+              autoComplete="off"
+              className="h-11 flex-1 basis-[420px] rounded-xl border border-line bg-raise-1 px-4 text-[15px] text-ink-hi outline-none transition-colors duration-150 ease-state placeholder:text-ink-faint focus:border-accent-line"
+            />
+            <button
+              type="submit"
+              disabled={loading || !q.trim()}
+              className={`h-11 shrink-0 whitespace-nowrap rounded-xl px-5 text-[14px] font-semibold transition-colors duration-150 ease-state ${
+                loading || !q.trim()
+                  ? "cursor-default bg-accent-line text-ink-faint"
+                  : "cursor-pointer bg-accent text-canvas hover:bg-accent-hover"
+              }`}
+            >
+              {loading ? "Searching" : "Ask"}
+            </button>
+          </form>
 
-      {err && <div style={{ color: "var(--warn)", marginTop: 20 }}>Couldn’t reach the index: {err}</div>}
-      {loading && !data && <div style={{ color: "var(--text-muted)", marginTop: 28 }}>Searching the index…</div>}
-
-      {data && (
-        <section style={{ marginTop: 30 }}>
-          {/* The serif slot holds the real ANSWER only. In keyword mode there is no answer, so it stays empty. */}
-          {!degraded && data.summary && (
-            <p style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 26, lineHeight: 1.25, color: "var(--text-hi)", margin: 0, letterSpacing: "-0.01em" }}>
-              {data.summary}
-            </p>
-          )}
-
-          {/* What we found, as numbers — the counts a developer scans before reading a single card. */}
-          {items.length > 0 && (
-            <div style={{ fontSize: 12.5, color: "var(--text-muted)", marginTop: degraded ? 0 : 10, fontVariantNumeric: "tabular-nums" }}>
-              <strong style={{ color: "var(--text-body)" }}>{items.length}</strong> matches ·{" "}
-              <strong style={{ color: "var(--text-body)" }}>{ranked}</strong> scored
-              {ranked > 0 && <> · top Universal <strong style={{ color: "var(--text-body)" }}>{topScore}</strong></>}
-            </div>
-          )}
-
-          {/* Interpreted facets: component/domain/vertical in amber, search terms muted.
-              The route already strips function words, so no `that`/`help`/`with` junk reaches here. */}
-          {(data.interpreted.component || data.interpreted.domain || data.interpreted.vertical || data.interpreted.keywords.length > 0) && (
-            <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginTop: 12 }}>
-              {data.interpreted.component && <span style={chipAmber}>{data.interpreted.component}</span>}
-              {data.interpreted.vertical && <span style={chipAmber}>{data.interpreted.vertical}</span>}
-              {data.interpreted.domain && <span style={chipAmber}>{data.interpreted.domain}</span>}
-              {data.interpreted.keywords.map((k) => <span key={k} style={chipMuted}>{k}</span>)}
-            </div>
-          )}
-
-          {degraded && (
-            <div style={{ marginTop: 12, fontSize: 12, color: "var(--text-muted)" }}>
-              Keyword mode — conversational search is off.
-            </div>
-          )}
-
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(340px, 1fr))", gap: 12, marginTop: 20 }}>
-            {items.map((i, n) => {
-              const p = primaryLabel(i.primary);
-              return (
-                <article key={i.name + n} style={card}>
-                  {/* Score first, always present — a real number, or an honest "unrated". */}
-                  <div
-                    style={i.universal != null ? scoreRail : { ...scoreRail, border: "1px solid var(--line-default)", background: "var(--bg-raise-2)" }}
-                    title={i.universal != null ? "Universal score — how this ranks across every measured signal" : "not measured yet — no stars, usage, mentions or test signal"}
-                  >
-                    <div style={i.universal != null ? scoreNum : { ...scoreNum, color: "var(--text-muted)" }}>
-                      {i.universal != null ? i.universal : "—"}
-                    </div>
-                    <div style={scoreCap}>{i.universal != null ? "universal" : "unrated"}</div>
-                  </div>
-
-                  <div style={{ minWidth: 0, flex: 1 }}>
-                    <div>
-                      {i.url
-                        ? <a href={i.url} target="_blank" rel="noopener noreferrer" style={nameLink}>{i.name}</a>
-                        : <span style={nameLink}>{i.name}</span>}
-                      {i.verified && (
-                        <span title="we installed + measured this" style={{ marginLeft: 6, fontSize: 11, color: "var(--accent)", border: "1px solid var(--accent-line)", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" }}>
-                          ✓ verified
-                        </span>
-                      )}
-                    </div>
-                    {i.desc && <div style={{ color: "var(--text-body)", fontSize: 12.5, marginTop: 5, lineHeight: 1.5 }}>{i.desc}</div>}
-                    <div style={{ display: "flex", alignItems: "center", gap: 10, marginTop: 8, flexWrap: "wrap" }} title={allSignals(i.signals)}>
-                      {p.text && (
-                        <span style={{ fontSize: 12, color: "var(--text-body)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
-                          <span style={{ color: "var(--accent)" }}>{p.glyph}</span> {p.text}
-                        </span>
-                      )}
-                      <span style={metaText}>{[i.component, i.domain, i.vertical].filter(Boolean).join(" · ")}</span>
-                    </div>
-                  </div>
-                </article>
-              );
-            })}
-            {items.length === 0 && !loading && (
-              <div style={{ color: "var(--text-muted)", fontSize: 14 }}>Nothing matched — try broader or different terms.</div>
-            )}
+          <div className="mt-3 flex flex-wrap items-center gap-2">
+            {EXAMPLES.map((ex) => (
+              <button
+                key={ex}
+                type="button"
+                onClick={() => ask(ex)}
+                className="cursor-pointer whitespace-nowrap rounded-full border border-line-subtle bg-raise-1 px-2.5 py-1 text-[12px] text-ink-body transition-colors duration-150 ease-state hover:border-line hover:text-ink-hi"
+              >
+                {ex}
+              </button>
+            ))}
+            <HarnessSelector className="ml-auto" />
           </div>
-        </section>
-      )}
-    </main>
+        </ContentWidth>
+      </section>
+
+      <section>
+        <ContentWidth className="pb-16 pt-6">
+          {err && (
+            <div className="mb-4 rounded-xl border border-line bg-raise-1 px-4 py-3 text-[13px]">
+              <p className="font-semibold text-danger">Load Failed</p>
+              <p className="mt-1 text-ink-muted">{err}</p>
+              <button
+                type="button"
+                onClick={() => ask(q)}
+                className="mt-2 cursor-pointer font-medium text-accent-hover underline underline-offset-4"
+              >
+                Retry
+              </button>
+            </div>
+          )}
+
+          {loading && (
+            <div>
+              <p className="text-[13px] text-ink-muted">Searching</p>
+              <div className="mt-3 grid grid-cols-[repeat(auto-fill,minmax(340px,1fr))] gap-3">
+                {Array.from({ length: 6 }).map((_, i) => (
+                  <div
+                    key={i}
+                    aria-hidden
+                    className="h-[132px] animate-pulse rounded-xl border border-line-subtle bg-raise-1"
+                  />
+                ))}
+              </div>
+            </div>
+          )}
+
+          {!loading && data && (
+            <div>
+              {!degraded && data.summary && (
+                <p className="text-[18px] font-semibold leading-snug tracking-[-0.005em] text-ink-hi">
+                  {data.summary}
+                </p>
+              )}
+
+              {items.length > 0 && (
+                <div className={`text-[12.5px] tabular-nums text-ink-muted ${degraded ? "" : "mt-2"}`}>
+                  <data value={String(items.length)} className="font-medium text-ink-body">
+                    {items.length}
+                  </data>{" "}
+                  Results ·{" "}
+                  <data value={String(ranked)} className="font-medium text-ink-body">
+                    {ranked}
+                  </data>{" "}
+                  Scored
+                  {ranked > 0 && (
+                    <>
+                      {" "}
+                      · Top Score{" "}
+                      <data value={String(topScore)} className="font-medium text-ink-body">
+                        {topScore.toFixed(1)}
+                      </data>
+                    </>
+                  )}
+                </div>
+              )}
+
+              {(data.interpreted.component ||
+                data.interpreted.domain ||
+                data.interpreted.vertical ||
+                data.interpreted.keywords.length > 0) && (
+                <div className="mt-3 flex flex-wrap gap-1.5">
+                  {data.interpreted.component && <InterpretedChip>{data.interpreted.component}</InterpretedChip>}
+                  {data.interpreted.vertical && <InterpretedChip>{data.interpreted.vertical}</InterpretedChip>}
+                  {data.interpreted.domain && <InterpretedChip>{data.interpreted.domain}</InterpretedChip>}
+                  {data.interpreted.keywords.map((k) => (
+                    <KeywordChip key={k}>{k}</KeywordChip>
+                  ))}
+                </div>
+              )}
+
+              {degraded && (
+                <p className="mt-3 text-[12px] text-ink-muted">
+                  Keyword Mode — conversational search unavailable
+                </p>
+              )}
+
+              <div className="mt-5">
+                {items.length === 0 ? (
+                  <div className="rounded-xl border border-line-subtle bg-raise-1 px-5 py-8">
+                    <p className="text-[14px] font-semibold text-ink-hi">No Results</p>
+                    <p className="mt-1 text-[13px] text-ink-muted">Broaden the query</p>
+                    <button
+                      type="button"
+                      onClick={reset}
+                      className="mt-3 cursor-pointer text-[13px] font-medium text-accent-hover underline underline-offset-4"
+                    >
+                      Reset
+                    </button>
+                  </div>
+                ) : (
+                  <div className="grid grid-cols-[repeat(auto-fill,minmax(340px,1fr))] gap-3">
+                    {items.map((item, i) => (
+                      <AskResultCard key={item.name + i} item={item} />
+                    ))}
+                  </div>
+                )}
+              </div>
+            </div>
+          )}
+
+          {!loading && !data && (
+            <div>
+              <div className="mb-3 flex flex-wrap items-center justify-between gap-3">
+                <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Top Ranked</h2>
+              </div>
+
+              {topErr ? (
+                <div className="rounded-xl border border-line bg-raise-1 px-4 py-3 text-[13px]">
+                  <p className="font-semibold text-danger">Load Failed</p>
+                  <p className="mt-1 text-ink-muted">{topErr}</p>
+                </div>
+              ) : (
+                <DataTable label="Top Ranked" minWidthClass="min-w-[1180px]">
+                  <thead>
+                    <tr>
+                      <Th align="right" className="w-[56px]">
+                        Rank
+                      </Th>
+                      <Th align="right" className="w-[76px]">
+                        Score
+                      </Th>
+                      <Th className="w-[220px]">Component</Th>
+                      <Th className="w-auto">Description</Th>
+                      <Th className="w-[276px]">Signals</Th>
+                      <Th className="w-[104px]">Type</Th>
+                      <Th className="w-[124px]">Domain</Th>
+                      <Th className="w-[300px]">Install</Th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {topRanked === null && <RankedRowSkeleton cols={COLS} rows={6} />}
+                    {topRanked?.map((row, i) => (
+                      <RankedRow key={`${row.component}/${row.name}/${i}`} row={row} rank={i + 1} />
+                    ))}
+                  </tbody>
+                </DataTable>
+              )}
+            </div>
+          )}
+        </ContentWidth>
+      </section>
+    </div>
   );
 }

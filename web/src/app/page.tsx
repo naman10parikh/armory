@@ -90,7 +90,7 @@ export default function HomePage() {
     <div>
       {/* ── Band: wordmark, lead, search, counts. Nothing animates. ───────── */}
       <section className="border-b border-line-subtle">
-        <ContentWidth className="pb-6 pt-20">
+        <ContentWidth className="pb-6 pt-8">
           <div className="flex flex-wrap items-end justify-between gap-x-10 gap-y-4">
             <div>
               <h1 className="font-wordmark text-[32px] leading-none tracking-[-0.01em] text-ink-hi">

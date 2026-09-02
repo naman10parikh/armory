@@ -1,163 +1,328 @@
 "use client";
-// The Leaderboard — every open-source building block, one Universal rating, sliceable by component
-// and domain, sortable on any axis. Calls GET /api/rank. Warm-black + Synapse-Amber, editorial.
-import { useCallback, useEffect, useMemo, useState } from "react";
+// The Leaderboard — every open-source building block, one Score, sliceable by component, domain and
+// vertical, sortable on any axis. Calls GET /api/rank (unchanged). Filter/sort/dir/rows state lives in
+// the URL via next/navigation, so a link reproduces the exact view (design/BRIEF.md §2 "agent-first").
+import { Suspense, useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { ContentWidth, DataTable, Th } from "@/components/data-table";
+import { HarnessSelector } from "@/components/install-snippet";
+import { FilterChipGroup, type ChipFacet } from "@/components/filter-chips";
+import { RankedRow, RankedRowSkeleton, type RankedRowData } from "@/components/ranked-row";
 
-interface Primary { key: string; value: number | null; pct: number; label: string }
-interface Row {
-  name: string; component: string; domain: string; vertical?: string | null; url?: string | null; license?: string | null;
-  universal: number | null; primary?: Primary | null; verified?: boolean;
-  stars: number | null; usage: number | null; tested: number | null; mentions: number | null; desc: string;
+interface Facets {
+  components: ChipFacet[];
+  domains: ChipFacet[];
+  verticals: ChipFacet[];
+  total: number;
 }
-interface Facet { key: string; count: number }
 interface Result {
-  items: Row[]; total: number; sort: string; dir: string;
-  facets: { components: Facet[]; domains: Facet[]; verticals: Facet[]; total: number };
+  items: RankedRowData[];
+  total: number;
+  facets: Facets;
 }
 
-const SORTS: [string, string][] = [
-  ["universal", "Universal score"], ["popular", "Most popular"], ["tested", "Best tested"],
-  ["practitioner", "Practitioner pick"], ["stars", "Most stars"], ["name", "A–Z"],
+// COPY.md §4B — sort axis → display label. "popular" and "stars" both sort by
+// signals.stars in lib/rank.mjs (an existing engine quirk, out of this lane's
+// scope — lib/rank.mjs is off-limits); the labels below are the copy contract
+// applied faithfully regardless.
+const SORTS: readonly { key: string; label: string }[] = [
+  { key: "universal", label: "Score" },
+  { key: "popular", label: "Usage" },
+  { key: "tested", label: "Tested" },
+  { key: "practitioner", label: "Mentions" },
+  { key: "stars", label: "Stars" },
+  { key: "name", label: "Name" },
 ];
+const LIMITS = [50, 100, 150, 250, 500] as const;
+const DEFAULT_SORT = "universal";
+const DEFAULT_DIR: "asc" | "desc" = "desc";
+const DEFAULT_LIMIT = 150;
+const COLS = 8;
 
-// Show each row's PRIMARY metric (its claim to fame) — not a universal stars column, since most
-// artifacts have no stars. Websites show pageviews, packages downloads, repos stars/forks.
-function primaryLabel(i: Row): { text: string; glyph: string } {
-  const p = i.primary;
-  if (!p || p.value == null) return { text: "—", glyph: "" };
-  if (p.key === "tested") return { text: "verified", glyph: "✓" };
-  if (p.key === "mentions") return { text: `${p.value} mentioned`, glyph: "♦" };
-  if (p.key === "stars") return { text: `${Number(p.value).toLocaleString()} stars`, glyph: "★" };
-  if (p.key === "usage") return { text: `${Number(p.value).toLocaleString()} used`, glyph: "↑" };
-  return { text: `${Number(p.value).toLocaleString()} ${p.key}`, glyph: "" };
-}
-function allSignals(i: Row): string {
-  const bits: string[] = [];
-  if (i.stars != null) bits.push(`★ ${Number(i.stars).toLocaleString()} stars`);
-  if (i.usage != null) bits.push(`↑ ${Number(i.usage).toLocaleString()} used`);
-  if (i.tested != null) bits.push(`✓ tested (${Math.round(i.tested * 100)}%)`);
-  if (i.mentions != null) bits.push(`♦ ${i.mentions} mentions`);
-  return bits.length ? bits.join(" · ") : "no measured signals yet";
+const parseDir = (v: string | null): "asc" | "desc" => (v === "asc" ? "asc" : "desc");
+const parseLimit = (v: string | null): number => {
+  const n = Number(v);
+  return (LIMITS as readonly number[]).includes(n) ? n : DEFAULT_LIMIT;
+};
+
+export default function LeaderboardPage() {
+  return (
+    <Suspense fallback={<LeaderboardShell />}>
+      <LeaderboardContent />
+    </Suspense>
+  );
 }
 
-export default function Leaderboard() {
+function LeaderboardShell() {
+  return (
+    <ContentWidth className="pb-16 pt-8">
+      <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">
+        Leaderboard
+      </h1>
+      <p className="mt-3 text-[13px] text-ink-muted">Loading</p>
+    </ContentWidth>
+  );
+}
+
+function LeaderboardContent() {
+  const router = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+
+  const [component, setComponent] = useState(() => searchParams.get("component") || "");
+  const [domain, setDomain] = useState(() => searchParams.get("domain") || "");
+  const [vertical, setVertical] = useState(() => searchParams.get("vertical") || "");
+  const [sort, setSort] = useState(() => searchParams.get("sort") || DEFAULT_SORT);
+  const [dir, setDir] = useState<"asc" | "desc">(() => parseDir(searchParams.get("dir")));
+  const [limit, setLimit] = useState(() => parseLimit(searchParams.get("limit")));
+
   const [data, setData] = useState<Result | null>(null);
-  const [err, setErr] = useState<string>("");
-  const [component, setComponent] = useState("");
-  const [domain, setDomain] = useState("");
-  const [vertical, setVertical] = useState("");
-  const [sort, setSort] = useState("universal");
-  const [dir, setDir] = useState<"desc" | "asc">("desc");
+  const [loading, setLoading] = useState(false);
+  const [err, setErr] = useState("");
 
   const load = useCallback(() => {
+    setLoading(true);
+    setErr("");
     const q = new URLSearchParams();
     if (component) q.set("component", component);
     if (domain) q.set("domain", domain);
     if (vertical) q.set("vertical", vertical);
-    q.set("sort", sort); q.set("dir", dir); q.set("limit", "150");
+    q.set("sort", sort);
+    q.set("dir", dir);
+    q.set("limit", String(limit));
     fetch("/api/rank?" + q.toString())
-      .then((r) => r.json()).then(setData).catch((e) => setErr(String(e)));
-  }, [component, domain, vertical, sort, dir]);
-  useEffect(() => { load(); }, [load]);
+      .then((r) => r.json())
+      .then((d: Result) => setData(d))
+      .catch((e) => setErr(String(e)))
+      .finally(() => setLoading(false));
+  }, [component, domain, vertical, sort, dir, limit]);
+
+  useEffect(() => {
+    load();
+  }, [load]);
+
+  // Mirror filter/sort/dir/rows into the URL (never the default value, for a clean link) so this
+  // exact view is reproducible and citable — design/BRIEF.md §1.5.
+  useEffect(() => {
+    const q = new URLSearchParams();
+    if (component) q.set("component", component);
+    if (domain) q.set("domain", domain);
+    if (vertical) q.set("vertical", vertical);
+    if (sort !== DEFAULT_SORT) q.set("sort", sort);
+    if (dir !== DEFAULT_DIR) q.set("dir", dir);
+    if (limit !== DEFAULT_LIMIT) q.set("limit", String(limit));
+    const qs = q.toString();
+    router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+  }, [component, domain, vertical, sort, dir, limit, pathname, router]);
 
   const csvHref = useMemo(() => {
     const q = new URLSearchParams();
     if (component) q.set("component", component);
     if (domain) q.set("domain", domain);
     if (vertical) q.set("vertical", vertical);
-    q.set("sort", sort); q.set("dir", dir);
+    q.set("sort", sort);
+    q.set("dir", dir);
     return "/api/rank.csv?" + q.toString();
   }, [component, domain, vertical, sort, dir]);
 
-  const clickSort = (axis: string) => {
-    if (sort === axis) setDir(dir === "desc" ? "asc" : "desc");
-    else { setSort(axis); setDir("desc"); }
-  };
-  const arrow = (axis: string) => (sort === axis ? <span style={{ color: "var(--accent)", fontSize: 9 }}> {dir === "asc" ? "▲" : "▼"}</span> : null);
+  const resetFilters = useCallback(() => {
+    setComponent("");
+    setDomain("");
+    setVertical("");
+  }, []);
 
-  const slice = [component, domain, vertical].filter(Boolean).join(" × ") || "everything";
-  const th: React.CSSProperties = { textAlign: "left", fontSize: 10.5, textTransform: "uppercase", letterSpacing: "0.09em", color: "var(--text-muted)", fontWeight: 600, padding: "12px 14px", borderBottom: "1px solid var(--line-default)", whiteSpace: "nowrap" };
-  const td: React.CSSProperties = { padding: "10px 14px", borderBottom: "1px solid var(--line-subtle)", verticalAlign: "top" };
-  const sel: React.CSSProperties = { font: "inherit", fontSize: 13.5, color: "var(--text-hi)", background: "var(--bg-raise-1)", border: "1px solid var(--line-default)", borderRadius: 8, padding: "7px 11px", cursor: "pointer" };
+  const toggleUniversalSort = useCallback(() => {
+    if (sort === "universal") setDir((d) => (d === "desc" ? "asc" : "desc"));
+    else {
+      setSort("universal");
+      setDir("desc");
+    }
+  }, [sort]);
 
   return (
-    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
-      <h1 style={{ fontFamily: "var(--font-display), Georgia, serif", fontSize: 44, lineHeight: 1.05, color: "var(--text-hi)", letterSpacing: "-0.02em", margin: 0 }}>
-        The Leaderboard
-      </h1>
-      <p style={{ color: "var(--text-muted)", marginTop: 10, lineHeight: 1.6 }}>
-        One Universal rating for every open-source building block.{" "}
-        <a href="/formula" style={{ color: "var(--accent-hover)", textDecoration: "underline", textUnderlineOffset: 3 }}>How the score works →</a>
-      </p>
+    <div>
+      <section className="border-b border-line-subtle">
+        <ContentWidth className="pb-6 pt-8">
+          <h1 className="text-[24px] font-semibold leading-none tracking-[-0.01em] text-ink-hi">
+            Leaderboard
+          </h1>
+          <p className="mt-2 text-[16px] leading-normal text-ink-body">
+            Every component scored on four independent signals ·{" "}
+            <a
+              href="/formula"
+              className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
+            >
+              Formula
+            </a>
+          </p>
+        </ContentWidth>
+      </section>
 
-      <div style={{ display: "flex", gap: 12, flexWrap: "wrap", alignItems: "center", margin: "24px 0 18px" }}>
-        <select aria-label="component" style={sel} value={component} onChange={(e) => setComponent(e.target.value)}>
-          <option value="">every component</option>
-          {data?.facets.components.map((c) => <option key={c.key} value={c.key}>{c.key}</option>)}
-        </select>
-        <select aria-label="domain" style={sel} value={domain} onChange={(e) => setDomain(e.target.value)}>
-          <option value="">every domain</option>
-          {data?.facets.domains.map((d) => <option key={d.key} value={d.key}>{d.key}</option>)}
-        </select>
-        <select aria-label="vertical" style={sel} value={vertical} onChange={(e) => setVertical(e.target.value)}>
-          <option value="">every vertical</option>
-          {data?.facets.verticals.map((v) => <option key={v.key} value={v.key}>{v.key}</option>)}
-        </select>
-        <select aria-label="sort by" style={sel} value={sort} onChange={(e) => { setSort(e.target.value); setDir("desc"); }}>
-          {SORTS.map(([k, l]) => <option key={k} value={k}>{l}</option>)}
-        </select>
-        <a href={csvHref} style={{ ...sel, textDecoration: "none" }}>Export CSV</a>
-        <span style={{ marginLeft: "auto", fontSize: 12.5, color: "var(--text-muted)", fontVariantNumeric: "tabular-nums" }}>
-          {/* Until the first fetch lands, say so — never render "0 in everything · of 0 total",
-              which reads as an empty index rather than one that hasn't loaded yet. */}
-          {data ? (
-            <>
-              <strong style={{ color: "var(--text-body)" }}>{data.total.toLocaleString()}</strong> in {slice} · of{" "}
-              {data.facets.total.toLocaleString()} total
-            </>
-          ) : (
-            "loading the index…"
+      <section>
+        <ContentWidth className="pb-16 pt-6">
+          {/* Toolbar — deliberately NOT sticky: the shared Th already sticks at top-0 (design/
+              BRIEF.md §7), and a second sticky element at the same offset would overlap it. Th is
+              foundation code shared by every page, so it isn't touched to add a compensating
+              offset — see this lane's report. */}
+          <div className="flex flex-col gap-3 border-b border-line-subtle pb-4">
+            <FilterChipGroup
+              label="Component"
+              facets={data?.facets.components ?? []}
+              selected={component}
+              onSelect={setComponent}
+            />
+            <FilterChipGroup
+              label="Domain"
+              facets={data?.facets.domains ?? []}
+              selected={domain}
+              onSelect={setDomain}
+            />
+            <FilterChipGroup
+              label="Vertical"
+              facets={data?.facets.verticals ?? []}
+              selected={vertical}
+              onSelect={setVertical}
+            />
+
+            <div className="flex flex-wrap items-center gap-3 pt-1">
+              <label className="inline-flex items-center gap-2 text-[12px]">
+                <span className="font-semibold uppercase tracking-[0.08em] text-ink-muted">Sort</span>
+                <select
+                  value={sort}
+                  onChange={(e) => setSort(e.target.value)}
+                  className="cursor-pointer rounded-lg border border-line bg-raise-1 px-2.5 py-1.5 text-[12px] text-ink-hi transition-colors duration-150 ease-state hover:border-accent-line"
+                >
+                  {SORTS.map((s) => (
+                    <option key={s.key} value={s.key}>
+                      {s.label}
+                    </option>
+                  ))}
+                </select>
+              </label>
+
+              <button
+                type="button"
+                onClick={() => setDir((d) => (d === "desc" ? "asc" : "desc"))}
+                className="cursor-pointer rounded-lg border border-line bg-raise-1 px-2.5 py-1.5 text-[12px] font-medium text-ink-body transition-colors duration-150 ease-state hover:border-accent-line hover:text-accent-hover"
+              >
+                {dir === "desc" ? "Descending" : "Ascending"}
+              </button>
+
+              <label className="inline-flex items-center gap-2 text-[12px]">
+                <span className="font-semibold uppercase tracking-[0.08em] text-ink-muted">Rows</span>
+                <select
+                  value={limit}
+                  onChange={(e) => setLimit(Number(e.target.value))}
+                  className="cursor-pointer rounded-lg border border-line bg-raise-1 px-2.5 py-1.5 text-[12px] text-ink-hi transition-colors duration-150 ease-state hover:border-accent-line"
+                >
+                  {LIMITS.map((n) => (
+                    <option key={n} value={n}>
+                      {n}
+                    </option>
+                  ))}
+                </select>
+              </label>
+
+              <a
+                href={csvHref}
+                className="cursor-pointer rounded-lg border border-line bg-raise-1 px-2.5 py-1.5 text-[12px] font-medium text-ink-body transition-colors duration-150 ease-state hover:border-accent-line hover:text-accent-hover"
+              >
+                Export
+              </a>
+
+              <HarnessSelector />
+
+              <span className="ml-auto text-[12.5px] tabular-nums text-ink-muted">
+                {data ? (
+                  <>
+                    <data value={String(data.total)} className="font-medium text-ink-body">
+                      {data.total.toLocaleString("en-US")}
+                    </data>{" "}
+                    Results ·{" "}
+                    <data value={String(data.facets.total)}>{data.facets.total.toLocaleString("en-US")}</data>{" "}
+                    Total
+                  </>
+                ) : (
+                  "Loading"
+                )}
+              </span>
+            </div>
+          </div>
+
+          {err && (
+            <div className="mt-4 rounded-xl border border-line bg-raise-1 px-4 py-3 text-[13px]">
+              <p className="font-semibold text-danger">Load Failed</p>
+              <p className="mt-1 text-ink-muted">{err}</p>
+              <button
+                type="button"
+                onClick={load}
+                className="mt-2 cursor-pointer font-medium text-accent-hover underline underline-offset-4"
+              >
+                Retry
+              </button>
+            </div>
           )}
-        </span>
-      </div>
 
-      {err && <div style={{ color: "var(--warn)" }}>Couldn’t load: {err}</div>}
-      <div style={{ overflowX: "auto", border: "1px solid var(--line-default)", borderRadius: 14, background: "var(--bg-raise-1)" }}>
-        <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 13.5 }}>
-          <thead>
-            <tr>
-              <th style={th}>#</th>
-              <th style={{ ...th, cursor: "pointer" }} onClick={() => clickSort("universal")}>universal{arrow("universal")}</th>
-              <th style={th}>name</th>
-              <th style={{ ...th }} title="each artifact's strongest metric — hover a row for all of them">top signal</th>
-              <th style={th}>component</th>
-              <th style={th}>domain</th>
-            </tr>
-          </thead>
-          <tbody>
-            {(data?.items ?? []).map((i, n) => (
-              <tr key={i.name + n}>
-                <td style={{ ...td, color: "var(--text-muted)", fontVariantNumeric: "tabular-nums" }}>{n + 1}</td>
-                <td style={{ ...td }}>{i.universal != null ? <span style={{ fontWeight: 700, fontSize: 15, color: "var(--text-hi)", fontVariantNumeric: "tabular-nums" }}>{i.universal}</span> : <span style={{ color: "var(--text-muted)" }}>—</span>}</td>
-                <td style={td}>
-                  {i.url ? <a href={i.url} target="_blank" rel="noopener noreferrer" style={{ color: "var(--text-hi)", fontWeight: 500 }}>{i.name}</a> : <span style={{ color: "var(--text-hi)", fontWeight: 500 }}>{i.name}</span>}
-                  {i.verified && <span title="we installed + measured this" style={{ marginLeft: 6, fontSize: 11, color: "var(--accent)", border: "1px solid var(--accent-line)", borderRadius: 5, padding: "1px 5px", whiteSpace: "nowrap" }}>✓ verified</span>}
-                  <div style={{ color: "var(--text-muted)", fontSize: 12, marginTop: 3, maxWidth: "88ch" }}>{i.desc}</div>
-                </td>
-                <td style={{ ...td, whiteSpace: "nowrap" }} title={allSignals(i)}>
-                  {(() => { const p = primaryLabel(i); return p.text === "—"
-                    ? <span style={{ color: "var(--text-muted)" }}>—</span>
-                    : <span style={{ color: "var(--text-body)" }}><span style={{ color: "var(--accent)" }}>{p.glyph}</span> {p.text}</span>; })()}
-                </td>
-                <td style={{ ...td, color: "var(--text-muted)", fontSize: 12, whiteSpace: "nowrap" }}>{i.component}</td>
-                <td style={{ ...td, color: "var(--text-muted)", fontSize: 12, whiteSpace: "nowrap" }}>{i.domain}</td>
-              </tr>
-            ))}
-            {data && data.items.length === 0 && <tr><td style={{ ...td, color: "var(--text-muted)" }} colSpan={6}>nothing in this slice yet</td></tr>}
-            {!data && !err && <tr><td style={{ ...td, color: "var(--text-muted)" }} colSpan={6}>loading the index…</td></tr>}
-          </tbody>
-        </table>
-      </div>
-    </main>
+          <div className="mt-4">
+            <DataTable label="Leaderboard" minWidthClass="min-w-[1180px]">
+              <thead>
+                <tr>
+                  <Th align="right" className="w-[56px]">
+                    Rank
+                  </Th>
+                  <Th
+                    align="right"
+                    className="w-[76px]"
+                    sort={sort === "universal" ? (dir === "asc" ? "ascending" : "descending") : "none"}
+                  >
+                    <button
+                      type="button"
+                      onClick={toggleUniversalSort}
+                      className="inline-flex cursor-pointer items-center gap-1 text-inherit"
+                    >
+                      Score
+                      {sort === "universal" && (
+                        <span aria-hidden className="text-accent">
+                          {dir === "asc" ? "▲" : "▼"}
+                        </span>
+                      )}
+                    </button>
+                  </Th>
+                  <Th className="w-[220px]">Component</Th>
+                  <Th className="w-auto">Description</Th>
+                  <Th className="w-[276px]">Signals</Th>
+                  <Th className="w-[104px]">Type</Th>
+                  <Th className="w-[124px]">Domain</Th>
+                  <Th className="w-[300px]">Install</Th>
+                </tr>
+              </thead>
+              <tbody>
+                {!data && loading && <RankedRowSkeleton cols={COLS} rows={8} />}
+
+                {data && data.items.length === 0 && (
+                  <tr>
+                    <td colSpan={COLS} className="px-3 py-10 text-center">
+                      <p className="text-[14px] font-semibold text-ink-hi">No Results</p>
+                      <p className="mt-1 text-[12px] text-ink-muted">No components match this filter</p>
+                      <button
+                        type="button"
+                        onClick={resetFilters}
+                        className="mt-3 cursor-pointer text-[12px] font-medium text-accent-hover underline underline-offset-4"
+                      >
+                        Reset Filters
+                      </button>
+                    </td>
+                  </tr>
+                )}
+
+                {data?.items.map((row, i) => (
+                  <RankedRow key={`${row.component}/${row.name}/${i}`} row={row} rank={i + 1} />
+                ))}
+              </tbody>
+            </DataTable>
+          </div>
+        </ContentWidth>
+      </section>
+    </div>
   );
 }
