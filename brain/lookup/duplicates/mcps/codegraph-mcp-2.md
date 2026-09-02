@@ -1,0 +1,29 @@
+---
+name: codegraph-mcp-2
+type: mcps
+description: >
+  MCP server that enables intent search over Python call graphs inside Cursor, returning cite spans and call chains to reduce token usage.
+source_repo: SahilSheikh12299/codegraph-mcp
+source_url: https://github.com/SahilSheikh12299/codegraph-mcp
+license: MIT License
+cli_compat: [claude, cursor, codex, opencode, gemini]
+maturity: experimental
+stars: 0
+eval_score: null
+verified_at: 2026-05-27
+related: []
+tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-06-23T14:12:31Z"
+---
+## What it is
+MCP server that enables intent search over Python call graphs inside Cursor, returning cite spans and call chains to reduce token usage.
+
+## When to use it
+MCP server that enables intent search over Python call graphs inside Cursor, returning cite spans and call chains to reduce token usage.
+
+## How to install / invoke
+See [Glama](https://glama.ai/mcp/servers/l6b15oshqb) for the install config.
+
+## Notes
+Discovered via the Glama MCP registry (live API). Pending verify -> promote.

@@ -122,6 +122,10 @@ function validateStub(fm, filePath) {
 }
 
 // Build the set of (name|type) keys already present in the target components dir.
+// Keys are (name|type) AND (type|source_url): an older ingest answered a name collision by suffixing
+// (`a2a-ui-2`), which left 496 groups of identical rows in the catalog. The same URL under the same
+// type is the same component whatever it is called.
+const urlKey = (fm) => (fm.source_url ? `url:${fm.type}|${String(fm.source_url).toLowerCase().replace(/\/$/, "")}` : null);
 function existingKeys(toDir) {
   const keys = new Set();
   for (const type of TYPES) {
@@ -131,6 +135,8 @@ function existingKeys(toDir) {
       if (!file.endsWith(".md")) continue;
       const fm = parseFrontmatter(readFileSync(join(dir, file), "utf8"));
       if (fm.name && fm.type) keys.add(`${fm.name}|${fm.type}`);
+      const u = urlKey(fm);
+      if (u) keys.add(u);
     }
   }
   return keys;
@@ -170,8 +176,10 @@ export function promote(fromDir, toComponentsDir, { dryRun = true, log = console
     const errs = validateStub(fm, filePath);
     if (errs.length) { result.invalid.push({ filePath, errs }); log(`  ✗ INVALID ${filePath}: ${errs.join("; ")}`); continue; }
     const key = `${fm.name}|${fm.type}`;
-    if (seen.has(key)) { result.skipped.push({ filePath, key }); log(`  = DUP     ${filePath} (${key} already present)`); continue; }
+    const u = urlKey(fm);
+    if (seen.has(key) || (u && seen.has(u))) { result.skipped.push({ filePath, key }); log(`  = DUP     ${filePath} (${seen.has(key) ? key : u} already present)`); continue; }
     seen.add(key);
+    if (u) seen.add(u);
     const dest = join(toComponentsDir, fm.type, `${fm.name}.md`);
     if (dryRun) { log(`  [dry-run] would promote ${filePath} -> ${dest}`); }
     else {
