@@ -6,8 +6,12 @@
 // DELETED by the next rebuild, silently. That bit us twice in one session:
 //   • the star backfill wrote catalog.json → a rebuild reverted all 19,367 stars
 //   • the rebuild then dropped enrichment too → tested 60→3, mentions 275→0
-// Both are the same bug. This writes all three signals into the frontmatter so a rebuild preserves
-// them, which is the only way the ranking survives the nightly loop.
+//   • the forks/pushed_at backfill would have gone the same way had they not been added here
+// All the same bug. This writes every signal into the frontmatter so a rebuild preserves them, which
+// is the only way the ranking survives the nightly loop.
+//
+// ADDING A SIGNAL? It takes THREE edits and missing any one loses the data on the next nightly run:
+//   1. FIELDS below            2. FIELDS in ingest/catalog.mjs            3. the note's frontmatter
 //
 // Only touches the signal lines. Never reorders or rewrites anything else in the file.
 //
@@ -22,8 +26,12 @@ const HERE = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(HERE, "..");
 const apply = process.argv.includes("--apply");
 
-const FIELDS = ["stars", "eval_score", "mentions"];
-const render = (v) => (typeof v === "number" ? String(v) : "null");
+// `pushed_at` is not a signal, but it lives here for the same reason the signals do: it is fetched
+// into catalog.json, and catalog.json is derived. Anything not on this list does not survive.
+const FIELDS = ["stars", "eval_score", "mentions", "forks", "pushed_at"];
+// Numbers unquoted, ISO-8601 dates quoted (bare `2026-09-01T…` is a YAML timestamp, not a string, and
+// round-trips differently). Anything else is left to the caller's `undefined`/`null` guard below.
+const render = (v) => (typeof v === "number" ? String(v) : typeof v === "string" ? JSON.stringify(v) : "null");
 
 const cat = JSON.parse(readFileSync(join(ROOT, "catalog.json"), "utf-8"));
 const changed = Object.fromEntries(FIELDS.map((f) => [f, 0]));
@@ -41,7 +49,8 @@ for (const c of cat.components || []) {
   for (const f of FIELDS) {
     // A signal the catalog does not carry is left alone — never blank out a value we simply did not
     // compute this run. That would be the same silent-deletion bug, just pointed the other way.
-    if (c[f] === undefined || c[f] === null) continue;
+    // `""` counts as not-carried: it is the ingest default for a string field, not an answer.
+    if (c[f] === undefined || c[f] === null || c[f] === "") continue;
     const want = render(c[f]);
     const re = new RegExp(`^${f}:[ \\t]*(.*)$`, "m");
     const m = src.match(re);

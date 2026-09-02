@@ -726,3 +726,213 @@ The audit stands. These are the decisions that turn it into the next engine vers
 5. **`usage` keeps no ceiling** (registry counters legitimately reach millions) but is pooled per kind (registry) so it never competes with stars.
 6. **One source of truth for weights**: `lib/rank.mjs` exports `WEIGHTS`; `/formula` imports it (no mirrored copies, H12). The page's card labels read the same object.
 7. Not now: HF and Semantic Scholar (0 rows to gain), PyPI (38 rows, rate-limited third party), npm downloads (110 rows — revisit once `package.json` names are harvested alongside forks).
+
+---
+
+## Implemented — engine v2 (2026-09-01, formula lane)
+
+All seven rulings are in. **Not committed, not deployed.** Every number below was produced by importing
+`computeRows` from `lib/rank.mjs` and running it over the same `catalog.json` this audit measured
+(`generated_at 2026-09-01T12:23:20Z`, 64,638 components), against a snapshot of the pre-change engine.
+
+### What changed, by file
+
+| File | Change |
+|---|---|
+| `lib/rank.mjs` | monotone blend · `kindOf()` · per-(signal, kind) × distinct-URL pools · `forks` signal · `pushed_at`/`stale` · new tiebreak · `WEIGHTS` + `BLEND` + `kindOf` exported · `kind`/`forks`/`pushed_at`/`stale`/`type`/`evidence` on `flat()` · `popular` sort = `usage ?? stars` · `kinds`+`stale` in `facetsOf` |
+| `scripts/backfill-stars.mjs` | GraphQL selection → `stargazerCount forkCount pushedAt`; writes `forks` + `pushed_at` (forward-only); a row is "asked" only once it carries **both** numbers |
+| `scripts/persist-signals-to-brain.mjs` | `FIELDS += forks, pushed_at`; ISO dates written **quoted** (bare `2026-09-01T…` is a YAML timestamp, not a string) |
+| `ingest/catalog.mjs` | `FIELDS += forks: null, pushed_at: ""` + the destructive-list warning |
+| `web/src/app/formula/page.tsx` | imports `WEIGHTS`/`BLEND` from the engine (H12 mirror **deleted**); renders the new blend; forks card; ladder restricted to one kind; Stale note; buckets keyed on the engine's own `kind` |
+| `docs/DATA-SCHEMA.md` | `forks` · `pushed_at` · `kind` · `stale` · the blend · the three-edit rule |
+
+### The blend
+
+```
+universal = 0.8 × base + 0.2 × others
+  base   = strongest percentile the row holds (any signal); ties → heavier weight
+  others = Σ(pct × weight) ÷ Σ(weight) over every OTHER signal   (0 if none)
+```
+
+`WEIGHTS = { tested: 1.0, mentions: 1.2, stars: 1.0, usage: 0.9, forks: 0.8 }` · `BLEND = { base: 0.8, others: 0.2 }`.
+
+### Before → after
+
+| Measure | Before | After |
+|---|---:|---:|
+| Ranked rows | 28,530 | **28,530** (0 gained, 0 lost) |
+| Rows with a `✓ verified` badge | 60 | **60** (identical row indexes — 0 lost, 0 gained) |
+| Highest score in the catalog | 92.9 | **100.0** |
+| Rows **penalised** for holding a 2nd signal (score < 0.8 × best pct) | **96** | **0** |
+| Multi-signal rows (ev ≥ 2) that rose / fell | — | **182 rose / 1 fell** of 183 |
+| Ranked rows that rose / fell / held | — | 27,314 / 1,134 / 82 |
+| Max single-row drop | — | **−68.2** (all explained below) |
+| Same-URL groups with **divergent** scores | 965 (2,152 rows) | **97 (305 rows)** |
+| Distinct score values | 539 | 542 |
+| Biggest single tie | 8,124 rows @ 23.6 | 8,096 rows @ 23.8 |
+| Rows in a ≥100-way tie | 22,770 | 22,636 |
+| `tested` rows in top 25 / 100 / 500 | 24 / 52 / 55 | **25 / 50 / 59** |
+| Top-100 membership churn | — | 38 in, 37 out |
+
+Top-100 entrants are exactly the H2 victims — `superpowers`, `markitdown`, `ruflo`, `langfuse`, `opik`,
+`linear-mcp`, `notion-mcp`, `context7`. Departures are single-signal p100 rows now correctly capped at
+80 (`everything-claude-code`, `math-mcp`, `agentdial`, `zapier-mcp`, and six `modelcontextprotocol-*`
+reference servers).
+
+**Top 25 after** — every row is `github-root`, every row holds two signals:
+
+| # | name | score | ev | ★ | note |
+|---:|---|---:|---:|---:|---|
+| 1–9 | playwright-cli · tmux · cli-anything · gh · chrome-devtools · duckdb · zellij · github-mcp · cmux | **100.0** | 2 | tested p100 + stars p99.9–100 |
+| 10–19 | genai-toolbox · glips-figma-context · e2b-sandbox · idosal-git-mcp · firecrawl-mcp · xcodebuild · peekaboo · printing-press · wrangler · container-use | 99.9 | 2 | |
+| 20–25 | opentelemetry · tavily-search · stripe-agent-toolkit · stripe-mcp · flyctl · coinbase-agentkit | 99.8–99.7 | 2 | |
+
+### The three worked cases from ruling 1
+
+| row | signals (percentile) | before | after | ruling predicted |
+|---|---|---:|---:|---:|
+| `superpowers` | stars p100 · mentions p43.1 | 60.7 | **88.6** ✅ ≥80 | 88.1 |
+| `supabase` | tested p100 · stars p84.4 · mentions p75.0 | 91.2 | **95.9** | 97.4 |
+| `browser-use` | tested p100 · stars p100 · mentions p82.8 | 92.9 | **98.1** | 97.9 |
+
+The small gaps against the ruling's arithmetic are **ruling 2 acting on ruling 1's inputs**, not an
+error in the blend: percentiles moved when the pools were partitioned. `mentions` p40.4 → p43.1 (the
+pool is now the 174 distinct github-root URLs, not all 275 rows across four kinds). `supabase` is
+`kind = github-file`, so its 2,707 stars are now ranked against the 321 other files that carry stars —
+a pool whose median is 43 and whose p90 is 4,094 — giving p84.4 instead of the p98.6 it got when it was
+ranked against 25,235 repos whose median is 3. That is the correction H11 asked for, working.
+
+Also: `github` (4,094★ + 121 mentions, the highest mention count in the catalog, untested) goes
+89.3 → **98.0** and is the only untested row near the top. `markitdown` 60.7 → 88.6. `math-mcp`
+(2,058,825 registry "usage", uncapped per ruling 5) stays at exactly **80.0** — one signal, no
+corroboration, hard ceiling.
+
+### Every drop, explained
+
+1,134 rows fell; 585 fell by more than 5 points. Every one is a *correction*, in one of two classes:
+
+| rows | cause | worked example |
+|---:|---|---|
+| **280** | **same-URL dedup, first-row-wins.** The group now scores on the value the *first* crawl recorded. | `delx-mcp-server-2…5`: 71.4 → **3.2** (−68.2). Five rows, one Smithery URL; the first row carries usage **243**, the other four carry **7,279**. |
+| **305** | **kind partitioning.** 293 `github-file`, 10 `website`, 2 `registry`. | `agentdesk-workflows`, 54★ inside a repo: p88.6 among *all repos* (median 3★) → **p51.4** among *other files* (median 43★), so 70.9 → **41.1**. `paypal-agent-toolkit`, 188★: p94.5 → p57.6, 75.6 → **46.1**. |
+| 549 | pool reshaping under 5 points (deduping removed **2,033** duplicate values from the 27,589-row stars pool, so every percentile shifted a fraction) | a 1★ row: 23.6 → 23.8 |
+
+**`witness-protocol`, as requested** — the group now scores identically, which was the point:
+
+| row | raw `stars` field | before | after |
+|---|---:|---:|---:|
+| witness-protocol | 270 | 1.3 | **5.8** |
+| witness-protocol-2 / -3 / -4 / -5 | 7,828 | 73.0 | **5.8** |
+
+⚠️ **The value the group converged on is the stale one.** 536 same-URL groups (1,166 rows) have a first
+row that understates the group; the worst are `gahmen-mcp` (first 2★, max 14,459★), `bgg-mcp` (43 vs
+9,919), `ddg_search` (usage 2,823 vs 12,697). The instruction specified first-row-wins and ruling 2
+says the **T55 clean pass syncs same-URL signals by `max`** — once that lands, first == max and these
+280 rows land on the right number with no further engine change. Until then the engine is deliberately
+conservative here. If T55 slips, the one-line alternative is `pool.byUrl.set(k, Math.max(prev, v))` in
+`percentiles()`.
+
+### Three things the rulings did not cover (flagged, not silently decided)
+
+**1. Thin pools.** Partitioning creates 13 pools, of which **6 hold fewer than 30 distinct URLs**:
+`mentions|website` 26 · `mentions|registry` 15 · `tested|website` 9 · `tested|github-file` 4 ·
+`tested|registry` 2 · `usage|package` **1**. Audit §4-rule-2 proposed an n ≥ 30 fallback to the global
+pool plus a `thin_pool` flag; the rulings did not order it, so it is **not implemented**. Cost today:
+`codeforces-mcp-server` is the sole member of `usage|package`, so it is p100 by definition and goes
+**12.2 → 80.0**. That is the only materially wrong row; the rest are small pools of genuinely similar
+things. One row, one decision — say the word and it is ~6 lines.
+
+**2. `forks` counts as independent evidence.** Audit §4 proposed grouping signals by *source* so
+stars + forks count as **one** unit (both are "GitHub users noticed this"). The rulings kept
+`evidence = count of signals`, so a repo with stars + forks will read `ev2`. Evidence no longer
+multiplies the score — it is only a tiebreak — so the blast radius is ordering, not scoring. Worth a
+decision before the badge on the site says "2 independent signals".
+
+**3. The blend is monotone in `base`, not in the *number* of signals.** `universal ≥ 0.8 × base` always
+(verified: **0 violations across all 28,530 ranked rows**), so H2 is genuinely dead. But because
+`others` is an *average*, a weak third signal can still pull a multi-signal row down — it just can
+never take it below its base-alone score. Measured live on 100 real repos: adding `forks` moved 90 rows
+up and **21 down**; the clean cases are `zellij` 100 → 93.4 (forks p26.3) and `glips-figma-context`
+99.9 → 93.1 (forks p22.2). *That sample overstates it* — its forks pool was 100 head repos. On a random
+296-repo sample the median |p(stars) − p(forks)| is **9.1 points**, i.e. a typical real effect of
+**±0.9 points**. If a strictly-monotone-in-signals score is wanted, `others = max(rest)` or the audit's
+capped max-plus-bonus (§H2 option 1) both deliver it; the current shape is what ruling 1 specifies.
+
+### The new signal: measured, not assumed
+
+Verified live on 2026-09-01 with the shipped query.
+
+- **Cost is unchanged.** 100 repos with `stargazerCount forkCount pushedAt` → `rateLimit { cost: 1 }`.
+  Dry run on a 100-repo sample: 99 answered (1 repo renamed away), **88 had >0 forks**, **99 returned
+  `pushedAt`**, 156 catalog rows would be filled.
+- **Forks will reach about half the repo roots, not all of them.** On a random 296-repo sample,
+  **48.0% have zero forks** and therefore get no forks signal — honestly blank, as designed.
+- **ρ(stars, forks) = 0.456** (Spearman, n=296). Forks are genuinely additional information, not a
+  restatement of stars — which is the case for adding the axis at all, and also why the ±0.9-point
+  dilution above exists.
+- **`Stale` will flag almost nothing today.** Same sample: days since last push — median 82, p75 241,
+  p90 409, **max 636**. At the 24-month threshold, **0 of 296** rows qualify. The threshold is right for
+  the definition; the value is in the *tiebreak*, where the spread is real (48% older than 3 months,
+  15.9% older than 12), not in the flag. Revisit the flag once the catalog ages, or say so on `/formula`
+  — which it now does, live from the data.
+
+### `/formula` — the H12 mirror is gone
+
+`page.tsx` now does `import { computeRows, WEIGHTS, BLEND } from "…/lib/rank.mjs"`. The hand-typed
+`WEIGHTS` literal is deleted, and so is the stale `weight: 1.4` that was still hard-coded in the
+`tested` signal card even after §5 fixed the engine. Card weights, the §03 lead ("0.8 … 0.2 … caps at
+80"), and §04's arithmetic all read the same two objects.
+
+The engine now hands the page `scores.pct` (percentile per signal), `scores.base` (which signal is the
+strongest) and `scores.others`, so the page *formats* the engine's own numbers instead of recomputing
+them. Verified across **all 28,530 ranked rows: 0 rows where the printed sum disagrees with the printed
+score**; maximum display gap 0.05, which is the final one-decimal rounding and is stated in the §04
+lead. Two further page fixes fall out of ruling 2: the §02 ladder is restricted to `github-root` (its
+rungs came from two different pools the moment stars were partitioned), and §05's coverage buckets now
+key on the engine's own `kind` instead of a second copy of the URL regex.
+
+### Three consumer-facing additions to `flat()` / the sort axes
+
+Requested by the main loop alongside the rulings; none of them touches a score.
+
+| # | Change | Why |
+|---:|---|---|
+| 1 | `flat().type` — the **raw** catalog type (`"mcps"`, `"clis-tools"`) beside the normalized `component` (`"mcp"`, `"cli"`) | `/e/[type]/[slug]` is addressed by the raw folder name (`catalog.ts` matches `e.type === type`), so pages can link to the internal detail route instead of only the external URL |
+| 2 | `flat().evidence` — the signal count | `/api/rank` was dropping it and the leaderboard was re-deriving it client-side, which is a second copy of engine logic |
+| 3 | `sort=popular` → `usage ?? stars` (was: `stars`, byte-identical to `sort=stars`) | the site labels that column "Usage"; on stars alone every registry listing sank to the bottom of its own axis. `sort=stars` is unchanged. |
+
+Verified: `sort=popular` now interleaves kinds — `math-mcp` 2,058,825 used · `pipeworx-gateway` 419,019
+used · `superpowers` 276,813★ · `everything-claude-code` 242,698★ · `sparkforge-2` 219,896 used —
+while `sort=stars` still returns `superpowers` · `everything-claude-code` ·
+`karpathy-coding-discipline`. `flat()` row keys are now: `name, type, component, domain, vertical, url,
+license, kind, universal, evidence, primary, verified, signals, stars, usage, tested, mentions, forks,
+pushed_at, stale, desc`.
+
+### Verification run
+
+| Check | Result |
+|---|---|
+| `node --check` on all 5 touched `.mjs` | OK |
+| `cd web && npx tsc --noEmit --incremental false` | exit 0, no output (`--listFiles` confirms `formula/page.tsx` is in the program) |
+| `universal ≥ 0.8 × best percentile`, all ranked rows | **0 violations**; max score seen 100.0 |
+| printed sum == printed score, all ranked rows | **0 mismatches** |
+| `✓ verified` badge set | identical, 60 → 60 |
+| `backfill-stars.mjs --limit 100 --refresh` (DRY RUN) | 1 GraphQL point; 99/100 answered; forks 0 → 106 rows, pushed_at 0 → 156 rows |
+| `persist-signals-to-brain.mjs` (DRY RUN) | lists `forks` and `pushed_at`; 0 updates (catalog has none yet — nothing written) |
+| markdown → persist → `parseFrontmatter` → `computeRows` round-trip | `forks: 12312` reads back as a **number**, `pushed_at: "2026-09-02T02:37:16Z"` as a **string**; idempotent on a second pass |
+| `rankRows` / `leaderboard` / `facetsOf` end-to-end | `kind`, `forks`, `pushed_at`, `stale` on every flat row; `facets.stale` and `facets.kinds` present |
+
+### The full backfill (for the main loop to schedule)
+
+```bash
+cd /Users/naman/armory
+node scripts/backfill-stars.mjs --refresh --apply          # ~55,106 repos ÷ 100 = ~552 GraphQL
+                                                            # points against 5,000/hr — one run
+node scripts/persist-signals-to-brain.mjs --apply           # MANDATORY, or the next rebuild deletes it
+node ingest/catalog.mjs                                     # rebuild; confirm forks/pushed_at survive
+```
+
+Sample first with `--limit 500 --refresh` (no `--apply`). The middle step is not optional: skipping it
+is exactly the bug that has already destroyed live data three times.
+
+

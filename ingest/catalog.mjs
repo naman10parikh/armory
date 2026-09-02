@@ -18,13 +18,23 @@ export const TYPES = [
 ];
 
 // Fields the catalog emits per component, with their default when absent.
+//
+// ⚠ THIS LIST IS DESTRUCTIVE. A key that is NOT here is dropped from catalog.json on every rebuild,
+// silently, even when the markdown still carries it. That has cost us live data three times:
+//   • the star backfill wrote catalog.json → a rebuild reverted all 19,367 stars
+//   • the same rebuild dropped enrichment  → tested 60 → 3, mentions 275 → 0
+//   • `mentions` was missing from this map → 275 → 0 again on the next nightly run
+// So a new signal takes THREE edits: here, in scripts/persist-signals-to-brain.mjs's FIELDS array,
+// and in the component note's frontmatter. Miss any one and the next rebuild deletes it.
 const FIELDS = {
   name: "", type: "", description: "", source_repo: "", source_url: "",
   license: "", cli_compat: [], maturity: "", stars: null, eval_score: null,
-  // `mentions` is a ranking signal (weight 1.2 — a practitioner citing the tool in the wild). It was
-  // absent from this list, so every rebuild silently deleted it from the catalog even when the
-  // markdown carried it: mentions went 275 → 0 on one rebuild. A signal missing here does not survive.
+  // `mentions` is a ranking signal (weight 1.2 — a practitioner citing the tool in the wild).
   mentions: null,
+  // `forks` is a ranking signal (weight 0.8 — someone copied it, not just bookmarked it), GitHub repo
+  // roots only. `pushed_at` is NOT a signal: it is metadata that breaks ties and raises a Stale flag.
+  // Both are written by scripts/backfill-stars.mjs in the same GraphQL call that fetches stars.
+  forks: null, pushed_at: "",
   verified_at: "", related: [], tags: [],
 };
 
