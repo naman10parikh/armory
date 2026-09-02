@@ -58,11 +58,15 @@ for (const r of feed.existing || []) {
 const repoKey = (u) => { const m = String(u || "").match(/github\.com\/([^/\s#?]+)\/([^/\s#?]+)/i); return m ? `${m[1]}/${m[2].replace(/\.git$/i, "")}` : ""; };
 const typeOf = (name, url) => (/mcp/i.test(name) || /mcp/i.test(url) ? "mcps" : "clis-tools");
 const today = new Date().toISOString().slice(0, 10);
-let stubs = 0, skipped = 0;
+// Taste floor for NEW rows: a name-only mention resolved to a repo must show real adoption before it
+// enters the catalog (the crawler uses the same idea). Mentions alone do not admit a row.
+const MIN_STARS = Number(val("--min-stars", 100));
+let stubs = 0, skipped = 0, belowFloor = 0;
 const planned = [];
 for (const r of feed.new || []) {
   const url = r.urls?.[0] || "";
   if (!url) { skipped++; continue; }
+  if (typeof r.stars === "number" && r.stars < MIN_STARS) { belowFloor++; continue; }
   const slug = slugify(repoKey(url) || r.name);
   if (byName.has(slug)) { skipped++; continue; } // already in the catalog under its canonical slug
   const type = typeOf(r.name, url);
@@ -70,7 +74,7 @@ for (const r of feed.new || []) {
     name: slug, type,
     description: `${r.name} — cited by ${r.mentions} practitioner note${r.mentions === 1 ? "" : "s"} in the Sentinel brain.`,
     source_repo: repoKey(url), source_url: url, license: "unknown", cli_compat: CLI_COMPAT,
-    maturity: "experimental", stars: null, eval_score: null, mentions: r.mentions, verified_at: today,
+    maturity: "experimental", stars: typeof r.stars === "number" ? r.stars : null, eval_score: null, mentions: r.mentions, verified_at: today,
     related: [], tags: ["sentinel-feed", type === "mcps" ? "mcp" : "cli"],
   };
   const body =
@@ -93,7 +97,7 @@ if (has("--apply")) writeFileSync(CATALOG, JSON.stringify(cat, null, 2) + "\n");
 
 console.log(`feed: ${feedPath}`);
 console.log(`existing → mentions raised ${raised} · unchanged ${unchanged} · name-not-found ${missing}`);
-console.log(`new → stubs ${has("--apply") ? "written" : "planned"} ${stubs} · skipped ${skipped}`);
+console.log(`new → stubs ${has("--apply") ? "written" : "planned"} ${stubs} · skipped ${skipped} · below ${MIN_STARS}★ floor ${belowFloor}`);
 for (const p of planned.slice(0, 15)) console.log(`   + ${p.slug} (${p.type}, ×${p.mentions}) ${p.url}`);
 console.log(`unresolved (name only, Sentinel will resolve): ${(feed.unresolved || []).length}`);
 console.log(has("--apply")
