@@ -4,7 +4,7 @@
 // URLs from all sitemap_projects_N.xml files to extract name + author, emits one
 // component stub per server into incoming/mcpso/.
 //
-// Sitemap URL shape: https://mcp.so/server/<name>/<author>
+// Sitemap URL shapes: https://mcp.so/servers/<slug> (2026-09+) · https://mcp.so/server/<name>/<author> (legacy)
 // Author maps to GitHub owner when the server has a source repo; otherwise used
 // as-is for the source_url.
 //
@@ -76,18 +76,28 @@ function extractLocs(xml) {
   return [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1].trim());
 }
 
-// Fetch the sitemap index and return all sitemap_projects_N.xml URLs.
+// Fetch the sitemap index and return the server sitemaps.
+// 2026-09: mcp.so moved to ?section= sub-sitemaps; server pages live in `section=servers`, paginated
+// 1,000 per page (`&page=N`, empty page = end). The legacy sitemap_projects_N.xml list is kept as a
+// fallback in case the site ever serves it again.
 async function getProjectSitemapUrls() {
   const xml = await fetchText(SITEMAP_INDEX);
   const locs = extractLocs(xml);
-  return locs.filter(u => u.includes("sitemap_projects_"));
+  const legacy = locs.filter(u => u.includes("sitemap_projects_"));
+  if (legacy.length) return legacy;
+  if (!locs.some(u => u.includes("section=servers"))) return [];
+  const pages = [];
+  for (let page = 1; page <= Math.ceil(MAX_SERVERS / 1000) + 1; page++) {
+    pages.push(`${SITEMAP_BASE}/sitemap.xml?section=servers&page=${page}`);
+  }
+  return pages;
 }
 
 // Collect /server/ URLs from a single projects sitemap, up to `remaining` count.
 async function getServerUrlsFromSitemap(url, remaining) {
   const xml = await fetchText(url);
   const locs = extractLocs(xml);
-  const servers = locs.filter(l => l.includes("/server/"));
+  const servers = locs.filter(l => l.includes("/servers/") || l.includes("/server/"));
   return servers.slice(0, remaining);
 }
 
@@ -174,15 +184,24 @@ function fetchAllViaGitHub() {
 // name and author are slugs — use them directly.
 
 function normaliseUrl(url) {
-  // Strip trailing slash and extract path segments after /server/
-  const path = url.replace(/\/$/, "").split("/server/")[1] ?? "";
+  const clean = url.replace(/\/$/, "");
+  if (clean.includes("/servers/")) {
+    // New shape: https://mcp.so/servers/<slug>. The slug sometimes ends in an author suffix
+    // (firecrawl-firecrawl, playwright-microsoft) and sometimes not (sequentialthinking) — there is no
+    // reliable way to split it, so we do NOT invent an author or a GitHub repo. The listing is the
+    // honest source; a repo link (and stars) can only come from the page itself later.
+    const name = clean.split("/servers/")[1]?.split("/")[0] ?? "unknown";
+    const displayName = name.replace(/-/g, " ").replace(/\b\w/g, c => c.toUpperCase());
+    return { name, author: "", displayName, sourceRepo: "", sourceUrl: clean };
+  }
+  // Legacy shape: https://mcp.so/server/<name>/<author>
+  const path = clean.split("/server/")[1] ?? "";
   const parts = path.split("/").filter(Boolean);
   const name = parts[0] ?? "unknown";
   const author = parts[1] ?? "";
   const displayName = name.replace(/-/g, " ").replace(/\b\w/g, c => c.toUpperCase());
   const sourceRepo = author ? `${author}/${name}` : "";
-  const sourceUrl = url;
-  return { name, author, displayName, sourceRepo, sourceUrl };
+  return { name, author, displayName, sourceRepo, sourceUrl: url };
 }
 
 // --- Adapter -----------------------------------------------------------------
