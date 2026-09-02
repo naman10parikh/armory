@@ -955,3 +955,17 @@ tool citation. So:
   fetched before the 100★ floor is applied. A product URL alone never admits a row.
 
 The weight (1.2) is unchanged: it was right for what the signal claims to be, and the signal now is that.
+
+## Closure — kind × signal matrix (T21/T22, 2026-09-01, main loop)
+
+| kind (by source URL) | rows today | signals it can carry | status |
+|---|---|---|---|
+| github-root | ~52k | stars · forks · pushed_at · mentions (URL) · tested | **live** (forks new this run: 17,081 rows) |
+| github-file (a rule / skill / agent inside a repo) | ~3.3k | mentions (URL) · tested — never the parent's stars | live; honestly blank until it earns its own |
+| registry (mcp.so · smithery · pulsemcp) | ~2.4k | usage (their install counter) · mentions | live |
+| package (npmjs · pypi) | 3 | weekly downloads (free APIs) | **not built — 3 rows; revisit when packages are ingested** |
+| paper (arxiv) · hf (models/datasets) | 0–1 | citations (Semantic Scholar) · HF downloads | not built — no rows |
+| website / docs page | ~1k | mentions (URL) · last-modified | mentions live; freshness not built (no ranking value: `pushed_at` is a tiebreak only) |
+
+Ruling: one new free signal shipped and persisted (forks); every other cell is either live or has no
+rows to apply to. Add a kind's signal the day that kind has rows — not before.
