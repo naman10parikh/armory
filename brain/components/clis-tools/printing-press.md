@@ -1,7 +1,7 @@
 ---
 name: printing-press
 type: clis-tools
-description: >
+description: "Finds the CLI hidden inside any API and generates it."
   connectors tool
 source_repo: https://github.com/mvanhorn/cli-printing-press
 source_url: https://github.com/mvanhorn/cli-printing-press

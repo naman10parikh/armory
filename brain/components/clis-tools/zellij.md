@@ -1,7 +1,7 @@
 ---
 name: zellij
 type: clis-tools
-description: >
+description: "A terminal workspace with batteries included"
   terminal tool
 source_repo: https://github.com/zellij-org/zellij
 source_url: https://github.com/zellij-org/zellij

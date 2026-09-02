@@ -1,7 +1,7 @@
 ---
 name: gh
 type: clis-tools
-description: >
+description: "GitHub’s official command line tool"
   vcs-github tool
 source_repo: https://github.com/cli/cli
 source_url: https://github.com/cli/cli

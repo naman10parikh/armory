@@ -147,7 +147,7 @@ function LeaderboardContent() {
             Leaderboard
           </h1>
           <p className="mt-2 text-[16px] leading-normal text-ink-body">
-            Every component scored on four independent signals ·{" "}
+            Every component scored on its public signals ·{" "}
             <a
               href="/formula"
               className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
@@ -230,7 +230,7 @@ function LeaderboardContent() {
                 Export
               </a>
 
-              <HarnessSelector />
+              <HarnessSelector className="lg:hidden" />
 
               <span className="ml-auto text-[12.5px] tabular-nums text-ink-muted">
                 {data ? (

@@ -1,7 +1,7 @@
 ---
 name: tmux
 type: clis-tools
-description: >
+description: "Terminal multiplexer — persistent sessions, split panes, detach and reattach."
   terminal tool
 source_repo: https://github.com/tmux/tmux
 source_url: https://github.com/tmux/tmux

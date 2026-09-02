@@ -1,7 +1,7 @@
 ---
 name: flyctl
 type: clis-tools
-description: >
+description: "Command line tools for fly.io services"
   deploy-infra tool
 source_repo: https://github.com/superfly/flyctl
 source_url: https://github.com/superfly/flyctl

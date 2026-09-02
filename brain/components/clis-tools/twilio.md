@@ -1,7 +1,7 @@
 ---
 name: twilio
 type: clis-tools
-description: >
+description: "Unleash the power of Twilio from your command prompt"
   comms tool
 source_repo: https://github.com/twilio/twilio-cli
 source_url: https://github.com/twilio/twilio-cli

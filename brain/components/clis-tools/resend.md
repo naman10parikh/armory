@@ -1,7 +1,7 @@
 ---
 name: resend
 type: clis-tools
-description: >
+description: "Resend's official Node.js SDK — transactional email from code."
   comms tool
 source_repo: https://github.com/resend/resend-node
 source_url: https://github.com/resend/resend-node

@@ -1,7 +1,7 @@
 ---
 name: duckdb
 type: clis-tools
-description: >
+description: "DuckDB is an analytical in-process SQL database management system"
   data-db tool
 source_repo: https://github.com/duckdb/duckdb
 source_url: https://github.com/duckdb/duckdb

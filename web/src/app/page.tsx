@@ -159,7 +159,8 @@ export default function HomePage() {
         <ContentWidth className="pb-16 pt-6">
           <div className="mb-3 flex flex-wrap items-center justify-between gap-x-6 gap-y-3">
             <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Top Ranked</h2>
-            <HarnessSelector />
+            {/* One control for one setting: the nav owns this selector from lg up. */}
+            <HarnessSelector className="lg:hidden" />
           </div>
 
           {top.length === 0 ? (

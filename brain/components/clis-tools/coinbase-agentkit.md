@@ -1,7 +1,7 @@
 ---
 name: coinbase-agentkit
 type: clis-tools
-description: >
+description: "Coinbase AgentKit — gives an agent an onchain wallet and the actions to use it."
   identity tool
 source_repo: https://github.com/coinbase/agentkit
 source_url: https://github.com/coinbase/agentkit

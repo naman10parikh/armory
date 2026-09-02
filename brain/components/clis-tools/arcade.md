@@ -1,7 +1,7 @@
 ---
 name: arcade
 type: clis-tools
-description: >
+description: "Arcade — MCP server framework and tool library with managed auth for agent tools."
   connectors tool
 source_repo: https://github.com/ArcadeAI/arcade-mcp
 source_url: https://github.com/ArcadeAI/arcade-mcp

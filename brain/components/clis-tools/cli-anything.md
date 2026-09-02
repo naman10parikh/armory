@@ -1,7 +1,7 @@
 ---
 name: cli-anything
 type: clis-tools
-description: >
+description: "Generates an agent-native CLI for any piece of software; CLI-Hub collects them."
   connectors tool
 source_repo: https://github.com/HKUDS/CLI-Anything
 source_url: https://github.com/HKUDS/CLI-Anything

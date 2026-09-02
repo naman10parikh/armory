@@ -1,7 +1,7 @@
 ---
 name: cmux
 type: clis-tools
-description: >
+description: "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability."
   terminal tool
 source_repo: https://github.com/manaflow-ai/cmux
 source_url: https://github.com/manaflow-ai/cmux

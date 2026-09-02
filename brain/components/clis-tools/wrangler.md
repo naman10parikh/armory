@@ -1,7 +1,7 @@
 ---
 name: wrangler
 type: clis-tools
-description: >
+description: "Wrangler — the CLI for Cloudflare Workers."
   deploy-infra tool
 source_repo: https://github.com/cloudflare/workers-sdk
 source_url: https://github.com/cloudflare/workers-sdk

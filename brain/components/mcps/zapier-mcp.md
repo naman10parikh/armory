@@ -1,7 +1,7 @@
 ---
 name: zapier-mcp
 type: mcps
-description: >
+description: "Zapier's 8,000+ app actions exposed to an agent as MCP tools."
   connectors tool
 source_repo: https://zapier.com/mcp
 source_url: https://zapier.com/mcp
