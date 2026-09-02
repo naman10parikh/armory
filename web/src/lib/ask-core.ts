@@ -49,18 +49,20 @@ const contentTerms = (tokens: string[]): string[] => {
 
 // A simple, deterministic keyword score: a term in the name outweighs a tag, which outweighs the body.
 // Identical to /api/search's scorer — one relevance definition across the programmatic + conversational APIs.
-function keywordScore(raw: RawComponent, qTerms: string[]): number {
+function keywordScore(raw: RawComponent, qTerms: string[]): { score: number; matched: number } {
   const tagText = Array.isArray(raw.tags) ? raw.tags.join(" ") : raw.tags || "";
   const name = new Set(tokenize(raw.name || ""));
   const tags = new Set(tokenize(tagText));
   const desc = new Set(tokenize(raw.description || ""));
-  let s = 0;
+  let s = 0, matched = 0;
   for (const term of qTerms) {
+    const hit = name.has(term) || tags.has(term) || desc.has(term);
+    if (hit) matched += 1;
     if (name.has(term)) s += 3;
     if (tags.has(term)) s += 2;
     if (desc.has(term)) s += 1;
   }
-  return s;
+  return { score: s, matched };
 }
 
 export interface AskItem {
@@ -78,15 +80,25 @@ function runSearch(qTerms: string[], f: Filters, limit = 12): AskItem[] {
       (!f.component || row.component === f.component) &&
       (!f.domain || row.domain === f.domain) &&
       (!f.vertical || row.vertical === f.vertical))
-    .map((h) => ({ h, score: keywordScore(h.raw, qTerms) }))
+    .map((h) => ({ h, ...keywordScore(h.raw, qTerms) }))
     .filter((x) => x.score > 0)
-    .sort(
-      (a, b) =>
-        b.score - a.score ||
-        (b.h.row.scores.universal ?? -1) - (a.h.row.scores.universal ?? -1) ||
-        a.h.row.name.localeCompare(b.h.row.name),
-    );
-  return scored.slice(0, limit).map(({ h }) => ({
+    .sort((a, b) => b.score - a.score);
+  // Relevance decides WHO is in the running; the score decides the ORDER. A row is "about this" when it
+  // matches as many distinct query terms as the best hit does (so "finance mcp for excel" keeps finance
+  // rows in front and a row that merely says "mcp" stays out) — then the ranked registry answers like
+  // one: browser-use (100) ahead of a repo that only has both words in its name, unmeasured rows last.
+  const bestMatched = scored[0]?.matched ?? 0;
+  const inPool = (x: { matched: number }) => x.matched >= bestMatched;
+  const pool = scored.filter(inPool);
+  const rest = scored.filter((x) => !inPool(x));
+  pool.sort(
+    (a, b) =>
+      (b.h.row.scores.universal ?? -1) - (a.h.row.scores.universal ?? -1) ||
+      b.score - a.score ||
+      a.h.row.name.localeCompare(b.h.row.name),
+  );
+  const ordered = [...pool, ...rest];
+  return ordered.slice(0, limit).map(({ h }) => ({
     name: h.row.name,
     component: h.row.component,
     domain: h.row.domain,
