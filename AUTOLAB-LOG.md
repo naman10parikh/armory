@@ -106,3 +106,4 @@ no human in the loop. Seeded the night the loop went live.
 - 2026-08-30T12:38Z — autolab refresh: catalog now 64638 components (gate: PASS)
 - 2026-08-31T14:53Z — autolab refresh: catalog now 64638 components (gate: PASS)
 - 2026-09-01T12:23Z — autolab refresh: catalog now 64638 components (gate: PASS)
+- 2026-09-01 — **Glama source PARKED (T43).** `GET /api/mcp/v1/servers` now returns 401: "requires an API key… governed by the API Data License, which requires visible attribution to Glama on every page that displays it, and a link to a record's Glama listing." That is a licensing decision for the chairman, not a crawler bug: (1) create a key at glama.ai/settings/api-keys and (2) accept per-row "via Glama" attribution + listing links in the UI. Until then the 40,677 existing Glama-tagged rows stay as they are and are not refreshed. mcp.so (T42) is fixed; Smithery works; the nightly grows on both.
