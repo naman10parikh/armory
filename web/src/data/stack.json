@@ -1,0 +1,268 @@
+{
+  "note": "The single source for the 11 canonical harness components and their picks. /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed — never faked into the table.",
+  "components": [
+    {
+      "slug": "identity",
+      "label": "Identity",
+      "oneLine": "Who the agent is, and how the outside world reaches it",
+      "picks": [
+        {
+          "name": "karpathy-coding-discipline",
+          "why": "Behavior norms loaded from CLAUDE.md: think first, simplify, keep the diff small",
+          "armoryName": "karpathy-coding-discipline",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+        },
+        {
+          "name": "agentmail",
+          "why": "A dedicated inbox the agent sends, receives and queries messages from",
+          "armoryName": "agentmail",
+          "url": "https://github.com/agentmail-to/agentmail-mcp"
+        },
+        {
+          "name": "Bezalel",
+          "why": "One MCP endpoint for email, texting, money, computer and connectors",
+          "armoryName": null,
+          "url": "https://bezalel.sh"
+        }
+      ]
+    },
+    {
+      "slug": "memory",
+      "label": "Memory",
+      "oneLine": "What the agent keeps between runs",
+      "picks": [
+        {
+          "name": "supermemory",
+          "why": "Cross-source knowledge store with end-to-end encryption and optional self-hosting",
+          "armoryName": "supermemory",
+          "url": "https://github.com/supermemoryai/supermemory-mcp"
+        },
+        {
+          "name": "mem0-mcp",
+          "why": "Managed cross-session facts about a user or project, stored and retrieved semantically",
+          "armoryName": "mem0-mcp",
+          "url": "https://github.com/mem0ai/mem0"
+        },
+        {
+          "name": "wikimem",
+          "why": "Ingests files, folders and URLs into a linked wiki, then answers questions over it",
+          "armoryName": "wikimem",
+          "url": "https://github.com/naman10parikh/wikimem"
+        }
+      ]
+    },
+    {
+      "slug": "skills",
+      "label": "Skills",
+      "oneLine": "Procedures loaded on demand, one file each",
+      "picks": [
+        {
+          "name": "superpowers",
+          "why": "One bundle covering planning, review, testing and the rest of the lifecycle",
+          "armoryName": "superpowers",
+          "url": "https://github.com/obra/superpowers"
+        },
+        {
+          "name": "everything-claude-code",
+          "why": "Skills across core engineering domains, one file per competency",
+          "armoryName": "everything-claude-code",
+          "url": "https://github.com/affaan-m/everything-claude-code"
+        }
+      ]
+    },
+    {
+      "slug": "tools",
+      "label": "Tools",
+      "oneLine": "Terminal, browser and computer commands an agent runs",
+      "picks": [
+        {
+          "name": "playwright-cli",
+          "why": "Codegen, screenshot, PDF and trace commands for headless browser scripting",
+          "armoryName": "playwright-cli",
+          "url": "https://github.com/microsoft/playwright"
+        },
+        {
+          "name": "gh",
+          "why": "GitHub from the terminal: issues, pull requests, releases, repository search",
+          "armoryName": "gh",
+          "url": "https://github.com/cli/cli"
+        },
+        {
+          "name": "browserbase-bb",
+          "why": "Cloud browser driven by three primitives: act, extract, observe",
+          "armoryName": "browserbase-bb",
+          "url": "https://github.com/browserbase/stagehand"
+        }
+      ]
+    },
+    {
+      "slug": "hooks",
+      "label": "Hooks",
+      "oneLine": "Deterministic code fired on agent lifecycle events",
+      "picks": [
+        {
+          "name": "plannotator",
+          "why": "Intercepts ExitPlanMode so a plan is annotated and approved before work starts",
+          "armoryName": "plannotator",
+          "url": "https://github.com/backnotprop/plannotator"
+        },
+        {
+          "name": "tdd-guard",
+          "why": "Blocks file writes that violate test-first order, as they happen",
+          "armoryName": "tdd-guard",
+          "url": "https://github.com/nizos/tdd-guard"
+        },
+        {
+          "name": "cchooks",
+          "why": "Python SDK for writing hook handlers without hand-rolling the protocol",
+          "armoryName": "cchooks",
+          "url": "https://github.com/GowayLee/cchooks"
+        }
+      ]
+    },
+    {
+      "slug": "subagents",
+      "label": "Sub-Agents",
+      "oneLine": "Delegated workers, each with its own context window",
+      "picks": [
+        {
+          "name": "terraform",
+          "why": "Terraform specialist wired to the Terraform MCP for registry and workspace work",
+          "armoryName": "terraform",
+          "url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/security/terraform.md"
+        },
+        {
+          "name": "wshobson/agents",
+          "why": "Sub-agent collection indexed file by file; the repository itself has no row",
+          "armoryName": null,
+          "url": "https://github.com/wshobson/agents"
+        }
+      ]
+    },
+    {
+      "slug": "mcps",
+      "label": "MCPs",
+      "oneLine": "Servers exposing tools and data over one protocol",
+      "picks": [
+        {
+          "name": "chrome-devtools",
+          "why": "Chrome control through the DevTools protocol: automation, debugging, performance traces",
+          "armoryName": "chrome-devtools",
+          "url": "https://github.com/chromedevtools/chrome-devtools-mcp"
+        },
+        {
+          "name": "github-mcp",
+          "why": "Issues, pull requests, repository search and commits without shelling out to git",
+          "armoryName": "github-mcp",
+          "url": "https://github.com/github/github-mcp-server"
+        },
+        {
+          "name": "composio",
+          "why": "Per-user authenticated connectors for Gmail, Outlook and GitHub via a tool router",
+          "armoryName": "composio",
+          "url": "https://github.com/obviyus/openclaw-composio"
+        }
+      ]
+    },
+    {
+      "slug": "dispatch",
+      "label": "Dispatch",
+      "oneLine": "Routing between agents, plus scheduled and looping runs",
+      "picks": [
+        {
+          "name": "pocketflow",
+          "why": "100-line graph framework; nodes and edges route work between agents",
+          "armoryName": "pocketflow",
+          "url": "https://github.com/The-Pocket/PocketFlow"
+        },
+        {
+          "name": "claude-code-pm",
+          "why": "Project-management workflow: specialized agents plus slash commands over a task list",
+          "armoryName": "claude-code-pm",
+          "url": "https://github.com/automazeio/ccpm"
+        },
+        {
+          "name": "ralph-for-claude-code",
+          "why": "Loops a task until an exit condition is detected, unsupervised",
+          "armoryName": "ralph-for-claude-code",
+          "url": "https://github.com/frankbria/ralph-claude-code"
+        }
+      ]
+    },
+    {
+      "slug": "evals",
+      "label": "Evals",
+      "oneLine": "Graded tasks that prove a change helped",
+      "picks": [
+        {
+          "name": "swe-bench",
+          "why": "Real GitHub issues drawn from 12 Python repositories, scored on the resulting patch",
+          "armoryName": "swe-bench",
+          "url": "https://github.com/princeton-nlp/SWE-bench"
+        },
+        {
+          "name": "tau-bench",
+          "why": "Tool-agent-user tasks in retail and airline domains, scored against a written policy",
+          "armoryName": "tau-bench",
+          "url": "https://github.com/sierra-research/tau-bench"
+        },
+        {
+          "name": "promptfoo",
+          "why": "Assertions and red-teaming for prompts and agents, runs in CI",
+          "armoryName": "promptfoo",
+          "url": "https://github.com/promptfoo/promptfoo"
+        }
+      ]
+    },
+    {
+      "slug": "observability",
+      "label": "Observability",
+      "oneLine": "Traces, cost and errors from each run",
+      "picks": [
+        {
+          "name": "langfuse",
+          "why": "Traces, prompt management, datasets and evals in one self-hostable platform",
+          "armoryName": "langfuse",
+          "url": "https://github.com/langfuse/langfuse"
+        },
+        {
+          "name": "laminar",
+          "why": "Tracing and labeling for agent pipelines, TypeScript and Python SDKs",
+          "armoryName": "laminar",
+          "url": "https://github.com/lmnr-ai/lmnr"
+        },
+        {
+          "name": "openllmetry",
+          "why": "OpenTelemetry auto-instrumentation for 20+ providers, no code changes",
+          "armoryName": "openllmetry",
+          "url": "https://github.com/traceloop/openllmetry"
+        }
+      ]
+    },
+    {
+      "slug": "sandbox",
+      "label": "Sandbox",
+      "oneLine": "Isolated compute an agent executes and deploys in",
+      "picks": [
+        {
+          "name": "e2b-sandbox",
+          "why": "Firecracker microVM per run, ~150ms cold start, for untrusted code",
+          "armoryName": "e2b-sandbox",
+          "url": "https://github.com/e2b-dev/E2B"
+        },
+        {
+          "name": "Orgo",
+          "why": "Cloud Linux desktop an agent drives for computer-use tasks",
+          "armoryName": null,
+          "url": "https://orgo.ai"
+        },
+        {
+          "name": "Vercel Sandbox",
+          "why": "Ephemeral Node and Python sandboxes on the deploy platform",
+          "armoryName": null,
+          "url": "https://vercel.com/docs/vercel-sandbox"
+        }
+      ]
+    }
+  ]
+}

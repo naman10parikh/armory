@@ -21,9 +21,16 @@ const nextConfig = {
     "/api/rank.csv": ["./catalog.json", "./lib/rank.mjs"],
     "/api/search": ["./catalog.json", "./lib/rank.mjs"],
     "/api/ask": ["./catalog.json", "./lib/rank.mjs"],
+    // /api/stack resolves each pick's live Score from the catalog at request time.
+    "/api/stack": ["./catalog.json", "./lib/rank.mjs"],
     // /formula computes every figure it shows from the catalog with the ranking engine, so it needs
     // both traced in too — otherwise the page ships without the data it explains.
     "/formula": ["./catalog.json", "./lib/rank.mjs"],
+    // The component pages aggregate the catalog into the 11 canonical harness components with the
+    // same engine, so they need the catalog + engine traced in for the same reason as "/".
+    "/c": ["./catalog.json", "./lib/rank.mjs"],
+    "/c/[component]": ["./catalog.json", "./lib/rank.mjs"],
+    "/stack": ["./catalog.json", "./lib/rank.mjs"],
   },
 };
 

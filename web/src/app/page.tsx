@@ -175,7 +175,7 @@ export default function HomePage() {
               </Link>
             </div>
           ) : (
-            <DataTable label="Top Ranked" minWidthClass="min-w-[1180px]">
+            <DataTable label="Top Ranked" minWidthClass="min-w-[1180px]" fixed>
               <thead>
                 <tr>
                   <Th align="right" className="w-[56px]">
@@ -184,12 +184,12 @@ export default function HomePage() {
                   <Th align="right" className="w-[76px]" sort="descending">
                     Score
                   </Th>
-                  <Th className="w-[220px]">Component</Th>
+                  <Th className="w-[200px]">Component</Th>
                   <Th className="w-auto">Description</Th>
-                  <Th className="w-[276px]">Signals</Th>
-                  <Th className="w-[104px]">Type</Th>
-                  <Th className="w-[124px]">Domain</Th>
-                  <Th className="w-[300px]">Install</Th>
+                  <Th className="w-[264px]">Signals</Th>
+                  <Th className="w-[76px]">Type</Th>
+                  <Th className="w-[108px]">Domain</Th>
+                  <Th className="w-[280px]">Install</Th>
                 </tr>
               </thead>
               <tbody>

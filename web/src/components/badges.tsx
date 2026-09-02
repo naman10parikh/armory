@@ -10,10 +10,12 @@ export function TypeBadge({ type }: { type: ComponentType }) {
   );
 }
 
-// Type as a filled amber pill — used on the detail header eyebrow.
+// Type as a bordered pill — used on the detail header eyebrow + meta rail.
+// NEUTRAL, not amber: this is a static fact, not something interactive or
+// selected, and amber marks exactly those two things (design/BRIEF.md §6).
 export function TypePill({ type }: { type: ComponentType }) {
   return (
-    <span className="inline-flex items-center rounded-full border border-accent-line bg-accent-quiet px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-[0.15em] text-accent-hover">
+    <span className="inline-flex items-center rounded-full border border-line px-2.5 py-0.5 text-[11px] font-medium uppercase tracking-[0.12em] text-ink-muted">
       {CATEGORY_LABEL[type] ?? type}
     </span>
   );

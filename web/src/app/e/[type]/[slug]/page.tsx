@@ -8,18 +8,16 @@ import {
   getNameIndex,
   readComponentBody,
 } from "@/lib/catalog";
-import { buildNeighborhood } from "@/lib/graph";
 import type { Component } from "@/lib/types";
 import { CliChip, MaturityBadge, TagChip, TypePill } from "@/components/badges";
 import { ComponentCard } from "@/components/component-card";
-import { InstallModal } from "@/components/install-modal";
-import { SynapseGraph } from "@/components/synapse-graph";
-import {
-  ArrowLeftIcon,
-  ExternalIcon,
-  StarIcon,
-  TypeIcon,
-} from "@/components/icons";
+import { ContentWidth } from "@/components/data-table";
+import { ScoreBadge } from "@/components/score-badge";
+import { SignalsRow } from "@/components/signals-row";
+import { HarnessSelector } from "@/components/install-snippet";
+import { InstallStrip } from "@/components/install-strip";
+import { ArrowLeftIcon, ExternalIcon, TypeIcon } from "@/components/icons";
+import { EMPTY_SIGNALS, loadEngineRow } from "./load-engine-row";
 
 interface RouteParams {
   type: string;
@@ -81,16 +79,23 @@ export default async function ComponentDetailPage({
 
   const allComponents = getComponents();
   const nameIndex = getNameIndex();
-  const neighborhood = buildNeighborhood(allComponents, component.name);
   const relatedComponents: Component[] = component.related
     .map((r) => allComponents.find((e) => e.name === r))
     .filter((e): e is Component => Boolean(e));
+  const unresolvedRelated = component.related.filter((r) => !nameIndex.has(r));
+
+  const engineRow = loadEngineRow(type, slug);
+  const score = engineRow?.scores.universal ?? null;
+  const evidence = engineRow?.scores.evidence ?? 0;
+  const signals = engineRow?.signals ?? EMPTY_SIGNALS;
+  const domain = engineRow?.domain ?? null;
+  const vertical = engineRow?.vertical ?? null;
 
   return (
-    <article className="mx-auto max-w-[1240px] px-5 pb-24 pt-28">
+    <ContentWidth className="pb-16 pt-8">
       <Link
         href="/browse"
-        className="inline-flex cursor-pointer items-center gap-1.5 text-sm text-ink-muted transition-colors hover:text-accent-hover"
+        className="inline-flex cursor-pointer items-center gap-1.5 text-sm text-ink-muted transition-colors duration-150 ease-state hover:text-accent-hover"
       >
         <ArrowLeftIcon size={15} />
         Browse
@@ -98,25 +103,52 @@ export default async function ComponentDetailPage({
 
       <div className="mt-6 grid grid-cols-1 gap-10 lg:grid-cols-[1fr_320px]">
         {/* ── Main column ───────────────────────────────────────────── */}
-        <div className="min-w-0">
+        <article className="min-w-0">
           {/* Header */}
           <header>
             <span className="inline-flex items-center gap-2">
-              <TypeIcon type={component.type} size={18} className="text-accent" />
+              <TypeIcon type={component.type} size={16} className="text-accent" />
               <TypePill type={component.type} />
             </span>
-            <h1 className="mt-4 font-serif text-[clamp(2.5rem,5vw,4rem)] leading-[0.95] tracking-[-0.02em] text-ink-hi">
+            <h1 className="mt-3 text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">
               {component.name}
             </h1>
-            <p className="mt-4 max-w-2xl text-lg leading-relaxed text-ink-body">
-              {component.description}
-            </p>
+            {component.description && (
+              <p className="mt-3 max-w-2xl text-[16px] leading-[1.5] text-ink-body">
+                {component.description}
+              </p>
+            )}
           </header>
 
-          {/* Install — THE headline: one-click install per harness, in a focused
-              popup so it no longer leaks down the page. */}
-          <div className="mt-8">
-            <InstallModal component={component} />
+          {/* Score + Signals — FIRST tier alongside Name + Install (design/BRIEF.md
+              §4). Computed at render with the same engine as every other surface. */}
+          <dl className="mt-6 flex flex-wrap items-start gap-x-10 gap-y-4">
+            <div>
+              <dt className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
+                Score
+              </dt>
+              <dd className="mt-1.5">
+                <ScoreBadge score={score} evidence={evidence} />
+              </dd>
+            </div>
+            <div>
+              <dt className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
+                Signals
+              </dt>
+              <dd className="mt-1.5">
+                <SignalsRow signals={signals} />
+              </dd>
+            </div>
+          </dl>
+
+          {/* Install — J3, the design centre. The command plus the exact per-harness config it
+              writes, driven by the one harness selector (the nav owns it from lg up). */}
+          <div className="mt-8 max-w-xl">
+            <div className="mb-2 flex flex-wrap items-center justify-between gap-3">
+              <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Install</h2>
+              <HarnessSelector className="lg:hidden" />
+            </div>
+            <InstallStrip component={component} />
           </div>
 
           {/* Markdown body from the brain vault */}
@@ -132,27 +164,15 @@ export default async function ComponentDetailPage({
             </p>
           )}
 
-          {/* Synapses — local subgraph + related cards */}
-          {(neighborhood.nodes.length > 1 || relatedComponents.length > 0) && (
+          {/* Connections — related components. The `related:` field is loose
+              co-occurrence, not verified dependencies, so this stays a plain list
+              of real, named components (each a real edge to a real page) rather
+              than a decorative graph (design/BRIEF.md Approval §3). */}
+          {(relatedComponents.length > 0 || unresolvedRelated.length > 0) && (
             <section className="mt-12 border-t border-line-subtle pt-8">
-              <h2 className="font-serif text-[clamp(1.5rem,3vw,2.25rem)] leading-none tracking-[-0.015em] text-ink-hi">
-                Synapses.
+              <h2 className="text-[18px] font-semibold leading-none text-ink-hi">
+                Connections
               </h2>
-              <p className="mt-1.5 text-sm text-ink-muted">
-                The 1-hop neighbourhood around this component — a small region of the
-                brain.
-              </p>
-
-              {neighborhood.nodes.length > 1 && (
-                <div className="mt-5 overflow-hidden rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">
-                  <div className="rounded-[calc(1.25rem-0.375rem)] bg-base/40">
-                    <SynapseGraph
-                      data={neighborhood}
-                      className="h-[300px] w-full"
-                    />
-                  </div>
-                </div>
-              )}
 
               {relatedComponents.length > 0 && (
                 <div className="mt-5 grid grid-cols-1 gap-4 sm:grid-cols-2">
@@ -162,68 +182,46 @@ export default async function ComponentDetailPage({
                 </div>
               )}
 
-              {/* Unresolved synapses (named relations with no component yet). */}
-              {component.related.some((r) => !nameIndex.has(r)) && (
+              {unresolvedRelated.length > 0 && (
                 <div className="mt-5">
-                  <p className="mb-2 text-[11px] uppercase tracking-[0.15em] text-ink-muted">
-                    Synapses not yet filled
+                  <p className="mb-2 text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
+                    Not Indexed
                   </p>
                   <ul className="flex flex-wrap gap-2">
-                    {component.related
-                      .filter((r) => !nameIndex.has(r))
-                      .map((r) => (
-                        <li key={r}>
-                          <span
-                            className="inline-flex items-center rounded-lg border border-dashed border-line px-3 py-1.5 font-mono text-sm text-ink-muted"
-                            title="No component with this name exists yet."
-                          >
-                            {r}
-                          </span>
-                        </li>
-                      ))}
+                    {unresolvedRelated.map((r) => (
+                      <li key={r}>
+                        <span className="inline-flex items-center rounded-lg border border-dashed border-line px-3 py-1.5 font-mono text-sm text-ink-muted">
+                          {r}
+                        </span>
+                      </li>
+                    ))}
                   </ul>
                 </div>
               )}
             </section>
           )}
-        </div>
+        </article>
 
         {/* ── Meta rail (Double-Bezel panel) ────────────────────────── */}
-        <aside className="lg:sticky lg:top-28 lg:self-start">
+        <aside className="lg:sticky lg:top-8 lg:self-start">
           <div className="rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">
             <dl className="divide-y divide-line-subtle rounded-[calc(1.25rem-0.375rem)] bg-raise-2 p-5">
+              <MetaRow label="Component">
+                <TypePill type={component.type} />
+              </MetaRow>
+              <MetaRow label="Domain">
+                <span className="text-[12px] text-ink-body">{domain ?? "—"}</span>
+              </MetaRow>
+              {vertical && (
+                <MetaRow label="Vertical">
+                  <span className="text-[12px] text-ink-body">{vertical}</span>
+                </MetaRow>
+              )}
               <MetaRow label="Maturity">
                 <MaturityBadge maturity={component.maturity} />
               </MetaRow>
-              {typeof component.stars === "number" && (
-                <MetaRow label="Stars">
-                  <span className="inline-flex items-center gap-1.5 tabular-nums text-ink-body">
-                    <StarIcon size={13} className="text-accent" />
-                    {component.stars.toLocaleString()}
-                  </span>
-                </MetaRow>
-              )}
-              {typeof component.eval_score === "number" && (
-                <MetaRow label="Eval score">
-                  <span className="tabular-nums text-accent-hover">
-                    {component.eval_score.toFixed(2)}
-                  </span>
-                </MetaRow>
-              )}
-              {component.license && component.license !== "unknown" && (
-                <MetaRow label="License">
-                  <span className="text-ink-body">{component.license}</span>
-                </MetaRow>
-              )}
-              {component.verified_at && (
-                <MetaRow label="Verified">
-                  <span className="font-mono text-[13px] text-ink-body">
-                    {component.verified_at}
-                  </span>
-                </MetaRow>
-              )}
               {component.cli_compat.length > 0 && (
-                <MetaRow label="Works in" stack>
+                <MetaRow label="Harness" stack>
                   <div className="flex flex-wrap gap-1.5">
                     {component.cli_compat.map((cli) => (
                       <CliChip key={cli} cli={cli} />
@@ -240,6 +238,21 @@ export default async function ComponentDetailPage({
                   </div>
                 </MetaRow>
               )}
+              {component.license && component.license !== "unknown" && (
+                <MetaRow label="License">
+                  <span className="text-[12px] text-ink-body">{component.license}</span>
+                </MetaRow>
+              )}
+              {component.verified_at && (
+                <MetaRow label="Updated">
+                  <time
+                    dateTime={component.verified_at}
+                    className="font-mono text-[12px] text-ink-body"
+                  >
+                    {component.verified_at.slice(0, 10)}
+                  </time>
+                </MetaRow>
+              )}
             </dl>
           </div>
 
@@ -248,17 +261,22 @@ export default async function ComponentDetailPage({
               href={component.source_url}
               target="_blank"
               rel="noreferrer noopener"
-              className="group mt-3 flex cursor-pointer items-center justify-between gap-2 rounded-xl border border-line px-4 py-3 text-sm text-ink-body transition-colors hover:border-accent-line hover:text-accent-hover"
+              className="group mt-3 flex cursor-pointer items-center justify-between gap-3 rounded-xl border border-line px-4 py-3 text-sm text-ink-body transition-colors duration-150 ease-state hover:border-accent-line hover:text-accent-hover"
             >
-              <span className="truncate font-mono text-[13px]">
-                {component.source_repo || "source"}
+              <span className="min-w-0">
+                <span className="block text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
+                  Source
+                </span>
+                <span className="mt-0.5 block truncate font-mono text-[13px]">
+                  {component.source_repo || component.source_url}
+                </span>
               </span>
-              <ExternalIcon size={15} />
+              <ExternalIcon size={15} className="shrink-0" />
             </a>
           )}
         </aside>
       </div>
-    </article>
+    </ContentWidth>
   );
 }
 
@@ -274,12 +292,10 @@ function MetaRow({
   return (
     <div
       className={`py-2.5 first:pt-0 last:pb-0 ${
-        stack
-          ? ""
-          : "flex items-center justify-between gap-3"
+        stack ? "" : "flex items-center justify-between gap-3"
       }`}
     >
-      <dt className="text-[11px] uppercase tracking-[0.15em] text-ink-muted">
+      <dt className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
         {label}
       </dt>
       <dd className={stack ? "mt-2" : ""}>{children}</dd>

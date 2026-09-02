@@ -40,5 +40,7 @@ signals are open: /formula
 ## Links
 
 - Leaderboard: /leaderboard
+- Components: /c — the catalog grouped into the 11 components of an agent harness (identity, memory, skills, tools, hooks, subagents, mcps, dispatch, evals, observability, sandbox); one page each with its top-ranked rows.
+- Stack: /stack — one recommended pick per component, end to end; JSON twin at `GET /api/stack`.
 - Formula: /formula
 - Source: https://github.com/naman10parikh/armory

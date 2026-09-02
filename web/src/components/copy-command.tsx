@@ -50,7 +50,7 @@ export function CopyCommand({
   return (
     <div className="rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">
       <div
-        className={`flex items-center gap-3 rounded-[calc(1.25rem-0.375rem)] bg-base/60 shadow-[inset_0_1px_0_oklch(100%_0_0/0.06)] ${
+        className={`flex items-center gap-3 rounded-[calc(1.25rem-0.375rem)] bg-canvas/60 shadow-[inset_0_1px_0_var(--line-subtle)] ${
           dense ? "px-3 py-2" : "px-4 py-3.5"
         }`}
       >
@@ -73,12 +73,12 @@ export function CopyCommand({
           {copied ? (
             <>
               <CheckIcon size={13} className="text-ok" />
-              copied
+              Copied
             </>
           ) : (
             <>
               <CopyIcon size={13} />
-              copy
+              Copy
             </>
           )}
         </button>

@@ -14,6 +14,8 @@ const REPO = "https://github.com/naman10parikh/component";
 // the rest of chrome, so no per-link icons either; text labels only).
 const NAV_LINKS = [
   { href: "/leaderboard", label: "Leaderboard" },
+  { href: "/c", label: "Components" },
+  { href: "/stack", label: "Stack" },
   { href: "/formula", label: "Formula" },
   { href: "/ask", label: "Ask" },
   { href: "/browse", label: "Browse" },

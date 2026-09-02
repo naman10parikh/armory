@@ -38,16 +38,21 @@ export function DataTable({
   children,
   label,
   minWidthClass = "min-w-[1080px]",
+  fixed = false,
 }: {
   children: ReactNode;
   label: string;
   minWidthClass?: string;
+  /** Fixed layout: Th widths are honoured and the one `w-auto` column takes the remainder. Auto
+   *  layout lets the widest cell (a 56-char install snippet) grow its column until the prose
+   *  column next to it is 14 characters wide — the ranked tables opt in. */
+  fixed?: boolean;
 }) {
   return (
     <div className="w-full overflow-x-auto">
       <table
         aria-label={label}
-        className={`w-full ${minWidthClass} border-collapse text-[13px] leading-tight tabular-nums`}
+        className={`w-full ${minWidthClass} ${fixed ? "table-fixed" : ""} border-collapse text-[13px] leading-tight tabular-nums`}
       >
         {children}
       </table>
