@@ -57,7 +57,7 @@ for (const r of feed.existing || []) {
 
 // ── new rows: stubs in the promote contract ───────────────────────────────────────────────────
 const repoKey = (u) => { const m = String(u || "").match(/github\.com\/([^/\s#?]+)\/([^/\s#?]+)/i); return m ? `${m[1]}/${m[2].replace(/\.git$/i, "")}` : ""; };
-const typeOf = (name, url) => (/mcp/i.test(name) || /mcp/i.test(url) ? "mcps" : "clis-tools");
+const typeOf = (name, url) => (/mcp/i.test(name) || /mcp/i.test(url) ? "mcps" : /\bmem(ory)?\b|-mem\b/i.test(name) ? "memory" : "clis-tools");
 const today = new Date().toISOString().slice(0, 10);
 // Taste floor for NEW rows: a name-only mention resolved to a repo must show real adoption before it
 // enters the catalog (the crawler uses the same idea). Mentions alone do not admit a row.
@@ -71,19 +71,21 @@ const planned = [];
 const githubUrl = (r) => (r.urls || []).find((u) => repoKey(u)) || "";
 // Unknown stars are not a pass: fetch them (one aliased GraphQL request for the whole feed) so the
 // floor is applied to every candidate, not only the ones the resolver happened to score.
-const unknown = [...new Set((feed.new || []).filter((r) => githubUrl(r) && typeof r.stars !== "number").map((r) => repoKey(githubUrl(r))))];
+// The same request also brings the repo's own one-liner: "goose — cited by 4 notes" is provenance,
+// not a description, and the note's `## Notes` already carries the provenance.
+const unknown = [...new Set((feed.new || []).filter((r) => githubUrl(r)).map((r) => repoKey(githubUrl(r))))];
 const fetched = new Map();
 if (unknown.length) {
-  const q = `{\n${unknown.map((k, i) => { const [o, n] = k.split("/"); return `a${i}: repository(owner:${JSON.stringify(o)}, name:${JSON.stringify(n)}) { stargazerCount }`; }).join("\n")}\n}`;
+  const q = `{\n${unknown.map((k, i) => { const [o, n] = k.split("/"); return `a${i}: repository(owner:${JSON.stringify(o)}, name:${JSON.stringify(n)}) { stargazerCount description }`; }).join("\n")}\n}`;
   let out = "";
   try { out = execFileSync("gh", ["api", "graphql", "-f", `query=${q}`], { encoding: "utf-8", maxBuffer: 16 * 1024 * 1024 }); }
   catch (e) { out = e && typeof e.stdout === "string" ? e.stdout : ""; }
-  try { const d = JSON.parse(out).data || {}; unknown.forEach((k, i) => { if (d[`a${i}`]) fetched.set(k, d[`a${i}`].stargazerCount); }); } catch { /* no answers → those rows stay unadmitted */ }
+  try { const d = JSON.parse(out).data || {}; unknown.forEach((k, i) => { if (d[`a${i}`]) fetched.set(k, d[`a${i}`]); }); } catch { /* no answers → those rows stay unadmitted */ }
 }
 for (const r of feed.new || []) {
   const url = githubUrl(r);
   if (!url) { noRepo++; continue; }
-  const stars = typeof r.stars === "number" ? r.stars : fetched.get(repoKey(url));
+  const stars = typeof r.stars === "number" ? r.stars : fetched.get(repoKey(url))?.stargazerCount;
   if (typeof stars !== "number" || stars < MIN_STARS) { belowFloor++; continue; }
   r.stars = stars;
   if (r.mentions < MIN_MENTIONS) { belowFloor++; continue; }
@@ -92,7 +94,7 @@ for (const r of feed.new || []) {
   const type = typeOf(r.name, url);
   const frontmatter = {
     name: slug, type,
-    description: `${r.name} — cited by ${r.mentions} practitioner note${r.mentions === 1 ? "" : "s"} in the Sentinel brain.`,
+    description: (fetched.get(repoKey(url))?.description || "").trim() || `${r.name} — cited by ${r.mentions} practitioner note${r.mentions === 1 ? "" : "s"} in the Sentinel brain.`,
     source_repo: repoKey(url), source_url: url, license: "unknown", cli_compat: CLI_COMPAT,
     maturity: "experimental", stars: typeof r.stars === "number" ? r.stars : null, eval_score: null, mentions: r.mentions, verified_at: today,
     related: [], tags: ["sentinel-feed", type === "mcps" ? "mcp" : "cli"],
