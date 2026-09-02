@@ -75,6 +75,7 @@ Curated lists get starred and forgotten in a browser tab. Armory is built to be 
 
 ```bash
 npm i -g @namanparikh/armory                  # install once — the command is `armory`
+armory init --claude                            # wire the Armory MCP into this harness (--cursor|--codex|--opencode|--gemini)
 armory search "browser automation"              # rank across ~25,000 components
 armory install playwright-mcp                   # fetch + wire it into THIS project's harness
 armory install code-reviewer --cli cursor       # …or target Cursor / Codex / OpenCode / Gemini
@@ -94,7 +95,7 @@ Armory ships as a **plugin for every coding harness**. Install once and your age
 | **OpenCode** | add `armory-mcp` to `opencode.json` — see [PLUGIN.md](./PLUGIN.md) |
 | **Gemini CLI** | add `armory-mcp` to `.gemini/settings.json` |
 | **Hermes** | `hermes plugin add naman10parikh/armory` |
-| **Anything** | `bash install.sh` (auto-detects the harness) |
+| **Anything** | `npx @namanparikh/armory init` (auto-detects the harness; `--claude` `--cursor` `--codex` `--opencode` `--gemini` to pick) or `bash install.sh` |
 
 The plugin wires in the **Armory MCP server** (`armory-mcp` — live search/install at runtime) + the `armory` skill. Full per-harness commands in [PLUGIN.md](./PLUGIN.md); Armory's own harness vs. the catalog is documented in [HARNESS.md](./HARNESS.md).
 

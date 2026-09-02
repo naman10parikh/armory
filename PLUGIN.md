@@ -6,6 +6,17 @@ One install gives any coding harness:
 
 ---
 
+## Any harness — one line
+
+```bash
+npx @namanparikh/armory init            # auto-detects .claude/ .cursor/ .codex/ .opencode/ .gemini/
+npx @namanparikh/armory init --cursor   # or name it: --claude --cursor --codex --opencode --gemini
+```
+
+Writes the `armory` MCP server into that harness's config (merges; never clobbers other servers; `--force` to overwrite, `--dry-run` to preview). The per-harness plugin routes below do the same plus the vendored skill.
+
+---
+
 ## Claude Code
 
 ```bash

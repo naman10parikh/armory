@@ -8,6 +8,7 @@ import chalk from "chalk";
 import { loadCatalog, readComponentBody, type Component } from "./catalog.js";
 import { validateAndCopy, type SubmitResult } from "./submit.js";
 import { runInstall, type InstallReport } from "./install.js";
+import { harnessFromFlags, runInit } from "./init.js";
 
 const program = new Command();
 
@@ -172,6 +173,34 @@ function printInstallReport(report: InstallReport, dryRun: boolean): void {
     for (const f of [...new Set(report.followUp)]) console.log(`  - ${f}`);
   }
 }
+
+program
+  .command("init")
+  .description("Wire the Armory MCP server into your coding harness (one line, any harness).")
+  .option("--claude", "target Claude Code (.mcp.json)", false)
+  .option("--cursor", "target Cursor (.cursor/mcp.json)", false)
+  .option("--codex", "target Codex (.codex/config.toml)", false)
+  .option("--opencode", "target OpenCode (opencode.json)", false)
+  .option("--gemini", "target Gemini CLI (.gemini/settings.json)", false)
+  .option("-c, --cli <cli>", "same as the flags above: claude|cursor|codex|opencode|gemini (auto-detected if omitted)")
+  .option("--to <dir>", "project root (defaults to the current directory)")
+  .option("-f, --force", "overwrite an existing `armory` MCP entry", false)
+  .option("--dry-run", "print what would be written without writing", false)
+  .action((opts: Record<string, unknown> & { cli?: string; to?: string; force: boolean; dryRun: boolean }) => {
+    try {
+      const { cli, result } = runInit({ cli: opts.cli ?? harnessFromFlags(opts), to: opts.to, force: opts.force, dryRun: opts.dryRun });
+      const head = opts.dryRun ? chalk.yellow("[dry-run] would write") : chalk.bold("Armory MCP");
+      if (result.alreadyPresent) {
+        console.log(`${head} ${chalk.dim(`→ ${cli}`)}\n  ${chalk.yellow("• skip")}  ${result.file} already has an \`armory\` server (use --force to overwrite)`);
+        return;
+      }
+      console.log(`${head} ${chalk.dim(`→ ${cli}`)}\n  ${chalk.green(result.created ? "✓ created" : "✓ merged")} ${result.file}`);
+      console.log(chalk.dim("  restart the harness, then ask it to search Armory — e.g. \"find a browser MCP\""));
+    } catch (err) {
+      console.error(chalk.red(`init failed: ${(err as Error).message}`));
+      process.exitCode = 1;
+    }
+  });
 
 program
   .command("submit")
