@@ -24,7 +24,8 @@ export function GET(req: Request): Response {
   const sp = new URL(req.url).searchParams;
   const lb = rankRows(rows(), {
     component: sp.get("component") || null, domain: sp.get("domain") || null,
-    sort: sp.get("sort") || "universal", dir: sp.get("dir") || "desc", limit: 5000,
+    sort: sp.get("sort") || "universal", dir: sp.get("dir") || "desc",
+    limit: Math.min(Math.max(Number(sp.get("limit")) || 5000, 1), 5000),
   });
   const head = ["rank", "name", "component", "domain", "universal", "stars", "tested", "mentions", "url", "what_it_is"];
   const lines = [head.join(",")];

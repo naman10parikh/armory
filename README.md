@@ -8,9 +8,9 @@
 
 ***For agents, by agents, of agents.***
 
-[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 25,000+ components](https://armory-murex.vercel.app/browse)
+[**🔗 Live registry → armory-murex.vercel.app**](https://armory-murex.vercel.app) · [Browse 64,000+ components](https://armory-murex.vercel.app/browse) · [Stack](https://armory-murex.vercel.app/stack) · [Components](https://armory-murex.vercel.app/c)
 
-![components](https://img.shields.io/badge/components-25%2C000%2B-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
+![components](https://img.shields.io/badge/components-64%2C000%2B-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458) ![license](https://img.shields.io/badge/license-MIT-e0a458)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ```
 🧰 COMPONENT TYPES — every harness component is its own root folder
-   mcps/ (~21,850)  skills/ (~1,130)  subagents/ (~730)  workflows/ (~716)
+   mcps/ (~21,850)  skills/ (~900)  subagents/ (~991)  workflows/ (~716)
    claudemd-rules/  hooks/  clis-tools/  evals/  observability/
    infrastructure/  memory/  identity/
    └─ each <type>/ holds installable files; full metadata → brain/components/<type>/
@@ -76,7 +76,7 @@ Curated lists get starred and forgotten in a browser tab. Armory is built to be 
 ```bash
 npm i -g @namanparikh/armory                  # install once — the command is `armory`
 armory init --claude                            # wire the Armory MCP into this harness (--cursor|--codex|--opencode|--gemini)
-armory search "browser automation"              # rank across ~25,000 components
+armory search "browser automation"              # rank across ~64,000 components
 armory install playwright-mcp                   # fetch + wire it into THIS project's harness
 armory install code-reviewer --cli cursor       # …or target Cursor / Codex / OpenCode / Gemini
 # no global install? one-off:  npx @namanparikh/armory search "…"
@@ -86,7 +86,7 @@ armory install code-reviewer --cli cursor       # …or target Cursor / Codex / 
 
 ## Install Armory itself as a plugin — one step, any harness
 
-Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 25,000+ components — and the ~2,500 vendored skills / sub-agents / workflows / hooks / rules are right there.
+Armory ships as a **plugin for every coding harness**. Install once and your agent can search + pull from all 64,000+ components — and the ~3,170 vendored skills / sub-agents / workflows / hooks / rules are right there.
 
 | Harness | Install |
 |---|---|
@@ -97,13 +97,13 @@ Armory ships as a **plugin for every coding harness**. Install once and your age
 | **Hermes** | `hermes plugin add naman10parikh/armory` |
 | **Anything** | `npx @namanparikh/armory init` (auto-detects the harness; `--claude` `--cursor` `--codex` `--opencode` `--gemini` to pick) or `bash install.sh` |
 
-The plugin wires in the **Armory MCP server** (`armory-mcp` — live search/install at runtime) + the `armory` skill. Full per-harness commands in [PLUGIN.md](./PLUGIN.md); Armory's own harness vs. the catalog is documented in [HARNESS.md](./HARNESS.md).
+The plugin wires in the **Armory MCP server** (`armory-mcp` — live search at runtime; installing is CLI-only) + the `armory` skill. Full per-harness commands in [PLUGIN.md](./PLUGIN.md); Armory's own harness vs. the catalog is documented in [HARNESS.md](./HARNESS.md).
 
 ## The actual gear lives here — not just links
 
 The catalog isn't only metadata. The **real component files** are vendored in:
 
-- `skills/ subagents/ workflows/ hooks/ claudemd-rules/` — ~2,500 actual files at repo root (content verbatim + provenance header).
+- `skills/ subagents/ workflows/ hooks/ claudemd-rules/` — ~3,170 actual files at repo root (content verbatim + provenance header).
 - Harness-native drops: `.claude/{skills,agents,commands,hooks}`, `.cursor/rules/` — ready to use as-is.
 - `brain/` stays the metadata knowledge-graph (source of truth). MCP details live in `brain/components/mcps/<slug>.md`. MCP servers are cataloged as install-specs in `catalog.json` (the servers themselves run externally).
 

@@ -14,7 +14,7 @@ export const dynamic = "force-dynamic";
 
 interface Primary { key: string; value: number | null; pct: number; label: string }
 interface EngineRow {
-  name: string; component: string; domain: string; url: string | null;
+  name: string; type: string; component: string; domain: string; url: string | null;
   desc: string; scores: { universal: number | null }; primary: Primary | null;
 }
 interface RawComponent { name?: string; description?: string; tags?: string[] | string }
@@ -52,7 +52,7 @@ function keywordScore(raw: RawComponent, qTerms: string[]): number {
 }
 
 interface SearchItem {
-  name: string; component: string; domain: string; url: string | null;
+  name: string; type: string; component: string; domain: string; url: string | null;
   universal: number | null; primary: Primary | null; desc: string;
 }
 
@@ -79,6 +79,7 @@ export function GET(req: Request): NextResponse {
 
   const items: SearchItem[] = scored.slice(0, limit).map(({ h }) => ({
     name: h.row.name,
+    type: h.row.type, // the catalog folder — the detail page is /e/{type}/{name}
     component: h.row.component,
     domain: h.row.domain,
     url: h.row.url,
