@@ -3,7 +3,7 @@
 // automation") and POST it to /api/ask (unchanged), which returns ranked components. Degrades to
 // keyword matches when no Gemini key is set. The query lives in the URL (`?q=`) both ways: the home
 // search box GETs here with it, and typing here keeps the URL in sync. The empty state is never a
-// void — it shows the top-ranked rows (GET /api/rank?limit=12) in the same DataTable as Leaderboard.
+// void — it shows the top-ranked rows (GET /api/rank?limit=20) in the same DataTable as Leaderboard.
 import { Suspense, useCallback, useEffect, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { ContentWidth, DataTable, Th } from "@/components/data-table";
@@ -33,7 +33,7 @@ const EXAMPLES = [
   "Agent Memory",
   "Sandbox Deploy",
 ] as const;
-const TOP_N = 12;
+const TOP_N = 20;
 const COLS = 8;
 
 export default function AskPage() {
