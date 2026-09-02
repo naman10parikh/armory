@@ -61,12 +61,14 @@ const today = new Date().toISOString().slice(0, 10);
 // Taste floor for NEW rows: a name-only mention resolved to a repo must show real adoption before it
 // enters the catalog (the crawler uses the same idea). Mentions alone do not admit a row.
 const MIN_STARS = Number(val("--min-stars", 100));
+const MIN_MENTIONS = Number(val("--min-mentions", 3)); // one note naming a tool is noise; three is a pattern
 let stubs = 0, skipped = 0, belowFloor = 0;
 const planned = [];
 for (const r of feed.new || []) {
   const url = r.urls?.[0] || "";
   if (!url) { skipped++; continue; }
   if (typeof r.stars === "number" && r.stars < MIN_STARS) { belowFloor++; continue; }
+  if (r.mentions < MIN_MENTIONS) { belowFloor++; continue; }
   const slug = slugify(repoKey(url) || r.name);
   if (byName.has(slug)) { skipped++; continue; } // already in the catalog under its canonical slug
   const type = typeOf(r.name, url);
