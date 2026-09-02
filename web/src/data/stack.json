@@ -1,5 +1,5 @@
 {
-  "note": "The single source for the 11 canonical harness components and their picks. /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed — never faked into the table.",
+  "note": "The single source for the 11 canonical harness components and their picks. /c, /c/[component], /stack and /api/stack all read this file, so the shelves and the recommended stack can never disagree. Deliberately holds NO score: a pick's Score and Signals are resolved live from lib/rank.mjs by armoryName, so a re-rank can never leave a stale number here. A pick whose armoryName is null is not a catalog row and renders as Not Indexed \u2014 never faked into the table.",
   "components": [
     {
       "slug": "identity",
@@ -126,16 +126,22 @@
       "oneLine": "Delegated workers, each with its own context window",
       "picks": [
         {
-          "name": "terraform",
-          "why": "Terraform specialist wired to the Terraform MCP for registry and workspace work",
-          "armoryName": "terraform",
-          "url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/security/terraform.md"
+          "name": "wshobson-agents",
+          "why": "Plugin marketplace of sub-agents for Claude Code, Codex, Cursor and OpenCode \u2014 the largest maintained collection",
+          "armoryName": "wshobson-agents",
+          "url": "https://github.com/wshobson/agents"
         },
         {
-          "name": "wshobson/agents",
-          "why": "Sub-agent collection indexed file by file; the repository itself has no row",
-          "armoryName": null,
-          "url": "https://github.com/wshobson/agents"
+          "name": "voltagent-awesome-claude-code-subagents",
+          "why": "100+ specialised Claude Code sub-agents, one file each",
+          "armoryName": "voltagent-awesome-claude-code-subagents",
+          "url": "https://github.com/VoltAgent/awesome-claude-code-subagents"
+        },
+        {
+          "name": "terraform",
+          "why": "A single specialist: Terraform sub-agent wired to the Terraform MCP",
+          "armoryName": "terraform",
+          "url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/agents/security/terraform.md"
         }
       ]
     },
