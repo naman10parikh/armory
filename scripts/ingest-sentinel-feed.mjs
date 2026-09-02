@@ -52,7 +52,23 @@ for (const r of feed.existing || []) {
   const row = byName.get(r.armory_name);
   if (!row) { missing++; continue; }
   const cur = typeof row.mentions === "number" ? row.mentions : 0;
-  if (r.mentions > cur) { if (has("--apply")) row.mentions = r.mentions; raised++; } else unchanged++;
+  if (r.mentions > cur) {
+    if (has("--apply")) {
+      row.mentions = r.mentions;
+      // Write the raise into the note itself, not only catalog.json: the catalog is rebuilt from the
+      // markdown, and a rebuild that runs before persist-signals wipes a catalog-only raise (it did,
+      // twice, in one night). Same edit persist-signals would make — done here so order cannot matter.
+      const file = join(ROOT, "brain", row.path || "");
+      if (row.path && existsSync(file)) {
+        const src = readFileSync(file, "utf-8");
+        const next = /^mentions:.*$/m.test(src)
+          ? src.replace(/^mentions:.*$/m, `mentions: ${r.mentions}`)
+          : src.replace(/\n---/, `\nmentions: ${r.mentions}\n---`);
+        if (next !== src) writeFileSync(file, next);
+      }
+    }
+    raised++;
+  } else unchanged++;
 }
 
 // ── new rows: stubs in the promote contract ───────────────────────────────────────────────────

@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, observability, rag, agents]
-mentions: 1
+mentions: 2
 forks: 1086
 pushed_at: "2026-09-02T02:55:03Z"
 ---

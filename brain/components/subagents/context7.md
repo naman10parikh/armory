@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [documentation, subagents]
-mentions: 5
+mentions: 6
 ---
 ## What it is
 Expert in latest library versions, best practices, and correct syntax using up-to-date documentation

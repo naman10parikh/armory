@@ -15,7 +15,7 @@ related: []
 tags: [observability, errors, apm]
 forks: 4832
 pushed_at: "2026-09-02T01:19:27Z"
-mentions: 11
+mentions: 12
 ---
 ## What it is
 Sentry's error and performance monitoring extended to LLM applications — captures exceptions, latency, and AI token usage with OpenTelemetry integration.
