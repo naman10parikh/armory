@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 23
 pushed_at: "2026-04-16T13:41:39Z"
+mentions: null
 ---
 ## What it is
 An MCP server that gives Claude Code real browser control for web automation, testing, and screenshots.

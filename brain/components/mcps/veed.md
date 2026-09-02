@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 1
+mentions: null
 ---
 ## What it is
 MCP server `VEED`, catalogued on PulseMCP. Generate AI talking-head videos with custom characters and voices from text.

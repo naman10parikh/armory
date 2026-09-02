@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 34
 pushed_at: "2026-06-09T05:00:48Z"
+mentions: null
 ---
 ## What it is
 MCP server `Webflow`, catalogued on PulseMCP. AI-powered design and management for Webflow sites via the Data API and Designer API.

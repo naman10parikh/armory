@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: null
 ---
 ## What it is
 MCP server `Tally`, catalogued on PulseMCP. Build Tally forms using natural language through AI assistants like Claude. Instead of clicking through form builders, you can simply tell Claude what you want and it will create your forms for you.

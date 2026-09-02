@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 0
 pushed_at: "2026-09-01T10:24:09Z"
+mentions: null
 ---
 ## What it is
 Enables AI agents to read Kalshi prediction market data, manage portfolios, and place or cancel trades only with explicit user approval.

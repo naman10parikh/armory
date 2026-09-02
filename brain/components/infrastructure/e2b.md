@@ -13,7 +13,7 @@ eval_score: 1
 verified_at: 2026-05-31
 related: []
 tags: [infrastructure, sandbox]
-mentions: 7
+mentions: null
 ---
 ## What it is
 Open-source secure cloud sandboxes (Firecracker microVMs) for running AI-generated code. ~150ms cold start.

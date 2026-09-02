@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: null
 ---
 ## What it is
 MCP server `Replicate`, catalogued on PulseMCP. Integrates with Replicate's HTTP API to enable searching, comparing, and running AI models through natural language interactions for model discovery, performance comparison, and direct execution.

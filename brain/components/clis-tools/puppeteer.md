@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, puppeteer]
-mentions: 2
+mentions: null
 forks: 9574
 pushed_at: "2026-09-01T16:03:04Z"
 ---

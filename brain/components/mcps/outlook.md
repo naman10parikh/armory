@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-mentions: 1
+mentions: null
 ---
 ## What it is
 Read and send emails, manage calendar events, and organize contacts. Search messages, handle attachments, and schedule meetings.

@@ -936,3 +936,22 @@ Sample first with `--limit 500 --refresh` (no `--apply`). The middle step is not
 is exactly the bug that has already destroyed live data three times.
 
 
+
+## Ruling — mentions credit by URL only (2026-09-01, main loop)
+
+The first live look at the Sentinel feed showed the mentions signal was almost entirely name matching:
+"Claude Code" ×419 had landed on a docs-page row, "Codex" ×175 on a third-party skill, "MCP" ×112 on a
+random mcp.so server named `mcp`, "GitHub" ×143 on the github MCP server, "Hermes" ×50 on a boilerplate
+repo. A name that happens to equal a catalog slug is almost never that row, and a platform name is not a
+tool citation. So:
+
+- A mention credits a row **only through a URL** — cited in the note, or confirmed by Sentinel's
+  resolver (exact repo slug + relevant description + ≥50★ + not on the ambiguous-name list).
+- `emit_to_armory.py` has no slug fallback any more; name-only rows go to `unresolved` for the resolver.
+- `ingest-sentinel-feed.mjs --apply --reset` re-baselined every row to the URL-credited count (348 rows
+  went back to null; 2 kept a real citation). The resolver is running over all ~2,400 unresolved names so
+  confirmed repos earn their mentions back on the next nightly, monotone as before.
+- New rows need a GitHub repo URL (that is where their stars and forks come from); unknown stars are
+  fetched before the 100★ floor is applied. A product URL alone never admits a row.
+
+The weight (1.2) is unchanged: it was right for what the signal claims to be, and the signal now is that.

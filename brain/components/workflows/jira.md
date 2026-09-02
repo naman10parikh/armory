@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: []
 tags: [command, workflow]
+mentions: null
 ---
 ## What it is
 Retrieve a Jira ticket, analyze requirements, update status, or add comments. Uses the jira-integration skill and MCP or REST API.

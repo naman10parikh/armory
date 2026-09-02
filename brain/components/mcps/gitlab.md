@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: null
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. Official hosted integration providing secure access to GitLab projects, issues, merge requests, and CI/CD pipelines through OAuth 2.0

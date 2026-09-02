@@ -12,6 +12,7 @@ stars: 17506
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 3
 ---
 ## What it is
 MCP server `Cognee`, catalogued on PulseMCP. AI-friendly database and knowledge-management capabilities via various database schemes.

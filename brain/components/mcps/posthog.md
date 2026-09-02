@@ -12,7 +12,7 @@ stars: 34696
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 18
+mentions: null
 ---
 ## What it is
 MCP server `PostHog`, catalogued on PulseMCP. Integrates with PostHog product analytics to query analytics data, manage feature flags, create insights, run experiments, and track errors.

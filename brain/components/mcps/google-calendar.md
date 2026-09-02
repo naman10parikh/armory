@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-mentions: 1
+mentions: null
 ---
 ## What it is
 Schedule events, check availability, and manage calendars. Create meetings, set reminders, and coordinate across time zones.

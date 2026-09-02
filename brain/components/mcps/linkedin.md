@@ -12,7 +12,7 @@ stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [browser, mcp, search, social]
-mentions: 6
+mentions: null
 forks: 18
 pushed_at: "2025-02-18T22:31:30Z"
 ---

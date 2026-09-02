@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [database, mcps]
-mentions: 2
+mentions: null
 ---
 ## What it is
 MCP server for interacting with Neon Management API and databases

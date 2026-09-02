@@ -12,7 +12,7 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 14
+mentions: null
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Discord API integration providing 80+ tools for complete server automation including channel management, role administration, message handling, voice control, event scheduling, and moderation workflows with bulk operations, privacy controls, and webhook support.

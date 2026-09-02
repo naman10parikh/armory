@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 19
 pushed_at: "2026-04-10T20:28:06Z"
+mentions: null
 ---
 ## What it is
 MCP server for web search and content extraction using DuckDuckGo or SearXNG, with Playwright-based fetching and LLM-powered data extraction.

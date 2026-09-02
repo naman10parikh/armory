@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-mentions: 3
+mentions: null
 forks: 18
 pushed_at: "2026-09-02T00:56:41Z"
 ---

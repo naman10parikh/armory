@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 3
 pushed_at: "2026-03-14T14:39:00Z"
+mentions: null
 ---
 ## What it is
 MCP server `Lucid`, catalogued on PulseMCP. Replaces outdated training data with real-time information from live sources through documentation search, package version checking, fact verification, and API reference fetching.

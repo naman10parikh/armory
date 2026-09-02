@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 8
 pushed_at: "2025-10-19T05:15:07Z"
+mentions: null
 ---
 ## What it is
 MCP server `Ledger CLI`, catalogued on PulseMCP. Integrates with Ledger CLI to enable natural language queries for financial data analysis, report generation, and budget tracking through nine structured tools that map directly to Ledger commands.

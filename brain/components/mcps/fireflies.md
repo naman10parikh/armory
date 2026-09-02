@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 5
+mentions: null
 ---
 ## What it is
 MCP server `Fireflies`, catalogued on PulseMCP. Integrates with Fireflies.ai meeting intelligence platform to access transcripts, metadata, speaker information, and summaries from recorded meetings.

@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
+mentions: null
 ---
 ## What it is
 Search the web with fast, accurate results optimized for AI. Get clean, structured answers with source URLs and relevance scoring.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-mentions: 4
+mentions: null
 ---
 ## What it is
 MCP server `Supabase`, catalogued on PulseMCP. Integrates with the Supabase platform for managing databases, projects, migrations, and storage.

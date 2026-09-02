@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 8
+mentions: null
 ---
 ## What it is
 MCP server `Warp`, catalogued on PulseMCP. Quote and book LTL, FTL, van, and box truck freight shipments directly through AI agents via Warp's carrier network.

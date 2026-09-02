@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [ai-agent-specialist, alpha-skills-quant-factor-research]
 tags: [cursor-rules, claude-md-files, rules]
-mentions: 4
+mentions: null
 ---
 ## What it is
 Rust best practices for Solana smart contract development using Anchor framework and Solana SDK

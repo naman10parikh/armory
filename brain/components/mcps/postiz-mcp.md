@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 1
 pushed_at: "2026-02-10T14:50:12Z"
+mentions: null
 ---
 ## What it is
 MCP server for managing social media posts across multiple platforms using the Postiz API. Supports creating, updating, deleting posts, and generating videos.

@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 4
+mentions: null
 ---
 ## What it is
 MCP server `Mobbin`, catalogued on PulseMCP. MCP server connecting AI agents to Mobbin's library of 600,000+ real UI screens from shipped mobile, web, and desktop products.

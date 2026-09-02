@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
+mentions: null
 ---
 ## What it is
 Google's Agent Developer Kit with A2A support

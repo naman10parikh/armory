@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 127
 pushed_at: "2026-08-31T15:40:23Z"
+mentions: null
 ---
 ## What it is
 MCP server `dbt`, catalogued on PulseMCP. Provides a bridge between dbt (data build tool) resources and natural language interfaces, enabling execution of CLI commands, discovery of model metadata, and querying of the Semantic Layer for data transformation management.

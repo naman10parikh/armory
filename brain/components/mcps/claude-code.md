@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 316
+mentions: null
 ---
 ## What it is
 MCP server `Claude Code MCP Server`, catalogued on PulseMCP. Use Claude Code as an MCP server.

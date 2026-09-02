@@ -12,6 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: null
 ---
 ## What it is
 MCP server `Vercel`, catalogued on PulseMCP. Official Vercel integration that provides secure access to deployments, project configuration, and team resources through OAuth authentication for conversational management of Vercel platform operations.

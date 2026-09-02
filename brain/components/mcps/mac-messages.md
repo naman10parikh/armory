@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 0
 pushed_at: "2026-08-23T07:59:52Z"
+mentions: null
 ---
 ## What it is
 Enables AI agents to read the entire Apple Messages (iMessage/SMS) history on a Mac through a read-only, batched tool that supports listing chats, retrieving transcripts, polling recent messages, and searching message bodies via REST or streamable HTTP MCP.

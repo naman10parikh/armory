@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [linear, skills]
+mentions: null
 ---
 ## What it is
 Manage issues, projects & team workflows in Linear. Use when the user wants to read, create or updates tickets in Linear.

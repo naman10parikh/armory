@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 7
 pushed_at: "2025-03-28T13:54:04Z"
+mentions: null
 ---
 ## What it is
 MCP server `Palantir Foundry`, catalogued on PulseMCP. Bridges to Palantir Foundry platform, enabling ontology data interaction and SQL query execution against datasets with tools for listing types, querying objects, executing SQL, and running ontology functions.

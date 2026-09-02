@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 3
 pushed_at: "2026-05-14T01:56:52Z"
+mentions: null
 ---
 ## What it is
 MCP server `Cube`, catalogued on PulseMCP. Integrates with Cube's analytics platform to enable conversational data exploration, SQL generation, and business metric analysis.

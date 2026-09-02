@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [agent-installer, agent-organizer]
 tags: [meta-orchestration, subagent]
+mentions: null
 ---
 ## What it is
 `VoltAgent/awesome-claude-code-subagents` sub-agent `context-manager` (model: sonnet), from the `meta-orchestration` category. Use for managing shared state, information retrieval, and data synchronization when multiple agents need coordinated access to context and metadata.

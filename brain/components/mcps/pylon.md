@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 1
+mentions: null
 ---
 ## What it is
 MCP server `Pylon`, catalogued on PulseMCP. Integrates with Pylon's B2B customer support platform to query issues, conversations, accounts, and contacts, and update issues and accounts.

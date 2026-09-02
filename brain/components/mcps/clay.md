@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 13
 pushed_at: "2026-07-17T13:59:49Z"
+mentions: null
 ---
 ## What it is
 MCP server `Clay`, catalogued on PulseMCP. Provides a bridge to Clay's personal CRM platform for searching, retrieving, and managing contact information, interactions, and professional relationships through natural language queries.

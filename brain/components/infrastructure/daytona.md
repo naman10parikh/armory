@@ -13,7 +13,7 @@ eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, dev-environments]
-mentions: 4
+mentions: null
 ---
 ## What it is
 Open-source development environment manager for spinning up standardized, reproducible workspaces at scale.

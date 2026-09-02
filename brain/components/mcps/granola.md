@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 1
+mentions: null
 ---
 ## What it is
 MCP server `Granola`, catalogued on PulseMCP. Granola integration that provides access to meeting notes and transcripts from the Granola notepad platform, enabling workflows like creating tickets from discussed bugs, updating project boards from standups, and drafting CRM notes from sales calls.

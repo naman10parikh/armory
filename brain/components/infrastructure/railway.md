@@ -13,7 +13,7 @@ eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, deploy]
-mentions: 7
+mentions: null
 ---
 ## What it is
 Zero-config cloud platform for deploying agent backends, databases, and services from a Git push.

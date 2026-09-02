@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-mentions: 1
+mentions: null
 ---
 ## What it is
 A local-first MCP server for document ingestion and semantic search, providing tools to add, search, and retrieve documents, chunks, and code blocks.

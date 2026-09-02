@@ -13,7 +13,7 @@ eval_score: 1
 verified_at: 2026-05-28
 related: []
 tags: [browser, browser-use]
-mentions: 5
+mentions: null
 forks: 12312
 pushed_at: "2026-09-02T02:25:43Z"
 ---

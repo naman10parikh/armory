@@ -12,7 +12,7 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [crypto, mcp]
-mentions: 22
+mentions: null
 forks: 13
 pushed_at: "2026-01-11T19:48:19Z"
 ---

@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 0
 pushed_at: "2026-08-23T22:38:45Z"
+mentions: null
 ---
 ## What it is
 Enables AI coding agents to run Kubernetes inspection and Terraform plan/apply operations inside ephemeral gVisor-sandboxed jobs with short-lived, narrowly-scoped credentials, while routing destructive changes through a human approval gate.

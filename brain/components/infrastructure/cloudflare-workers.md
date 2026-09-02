@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, edge-compute]
-mentions: 1
+mentions: null
 ---
 ## What it is
 Serverless edge-compute platform for deploying agent functions and MCP servers at the network edge.

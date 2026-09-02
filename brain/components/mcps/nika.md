@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 0
 pushed_at: "2026-08-17T07:46:15Z"
+mentions: null
 ---
 ## What it is
 A comprehensive Discord MCP server enabling AI assistants to run a Discord community through 111 tools for messaging, moderation, roles, channels, forums, webhooks, and more, plus a raw REST API passthrough for full Discord API access.

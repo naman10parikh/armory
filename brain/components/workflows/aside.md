@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: []
 tags: [command, workflow]
+mentions: null
 ---
 ## What it is
 Answer a quick side question without interrupting or losing context from the current task. Resume work automatically after answering.

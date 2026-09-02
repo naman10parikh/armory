@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 6
 pushed_at: "2025-06-11T14:28:52Z"
+mentions: null
 ---
 ## What it is
 MCP server `Kaggle`, catalogued on PulseMCP. Integrates with Kaggle's API to enable competition participation, dataset management, kernel operations, and model submissions for data scientists and machine learning practitioners.

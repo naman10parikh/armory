@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-mentions: 121
+mentions: null
 ---
 ## What it is
 Connect your AI agents to GitHub — manage repos, issues, PRs, workflows, and more

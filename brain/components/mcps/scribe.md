@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-mentions: 3
+mentions: null
 ---
 ## What it is
 Enables AI assistants to securely manage Google Calendar events using natural language, including scheduling, rescheduling, deleting, and searching events.

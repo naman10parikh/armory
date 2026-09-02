@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 8
 pushed_at: "2025-04-09T13:53:47Z"
+mentions: null
 ---
 ## What it is
 MCP server `Agentforce (Salesforce)`, catalogued on PulseMCP. Provides a bridge to Salesforce's Agentforce API, enabling authentication, session management, and message exchange with Salesforce agents for accessing customer data and domain-specific knowledge.

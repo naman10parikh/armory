@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [mcp-so, mcp]
-mentions: 1
+mentions: null
 ---
 ## What it is
 Blender MCP server listed on mcp.so.

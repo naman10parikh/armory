@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [ai-agent-specialist, alpha-skills-quant-factor-research]
 tags: [cursor-rules, claude-md-files, rules]
-mentions: 8
+mentions: null
 ---
 ## What it is
 Python best practices and patterns for modern software development with Flask and SQLite

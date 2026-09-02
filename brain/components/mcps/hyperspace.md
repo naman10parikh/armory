@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-mentions: 3
+mentions: null
 ---
 ## What it is
 混合推理 MCP 服务器，在本地 AI Agent 和大模型之间智能路由，优先使用 DeepSeek Web 和智谱 GLM 实现零成本调用。

@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: [claude-esp, claude-tmux]
 tags: [claude-code, alternative-clients]
 stars: 2780
-mentions: 2
+mentions: null
 forks: 213
 pushed_at: "2026-09-02T02:41:36Z"
 ---

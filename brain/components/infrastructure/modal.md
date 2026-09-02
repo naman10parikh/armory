@@ -13,7 +13,7 @@ eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, serverless]
-mentions: 4
+mentions: null
 ---
 ## What it is
 Serverless cloud platform for running Python functions, containers, and AI workloads with zero infra management.

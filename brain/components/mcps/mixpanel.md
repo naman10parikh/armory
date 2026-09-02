@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 2
+mentions: null
 ---
 ## What it is
 MCP server `Mixpanel`, catalogued on PulseMCP. Query product analytics data, funnels, retention, and session replays through natural language

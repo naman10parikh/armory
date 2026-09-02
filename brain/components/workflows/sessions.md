@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: []
 tags: [command, workflow]
-mentions: 1
+mentions: null
 ---
 ## What it is
 Manage Claude Code session history, aliases, and session metadata.

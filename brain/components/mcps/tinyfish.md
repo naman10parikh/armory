@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [web, mcps]
-mentions: 1
+mentions: null
 ---
 ## What it is
 TinyFish Web Agent - Web browsing and data extraction via MCP with real-time progress streaming, async tasks, and stealth browser profiles. Requires a TinyFish account (tinyfish.ai) with active subscription. Uses OAuth 2.1 authentication.

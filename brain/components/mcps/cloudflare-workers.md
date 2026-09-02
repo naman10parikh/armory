@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 67
 pushed_at: "2026-04-23T20:49:25Z"
+mentions: null
 ---
 ## What it is
 MCP server `Cloudflare Workers`, catalogued on PulseMCP. Enables MCP capabilities in Cloudflare Workers for deploying low-latency, scalable AI services at the network edge.

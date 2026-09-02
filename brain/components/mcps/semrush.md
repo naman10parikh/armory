@@ -12,7 +12,7 @@ stars: null
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-mentions: 3
+mentions: null
 ---
 ## What it is
 MCP server `Semrush`, catalogued on PulseMCP. Provides AI agents with secure access to Semrush's public APIs (SEO data, traffic and market data)

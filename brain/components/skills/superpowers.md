@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [claude-code, agent-skills]
 stars: 280507
-mentions: 1
+mentions: null
 forks: 25127
 pushed_at: "2026-08-31T17:03:59Z"
 ---

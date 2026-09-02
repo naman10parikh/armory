@@ -13,6 +13,7 @@
 //   node scripts/ingest-sentinel-feed.mjs                       # dry run against the newest feed
 //   node scripts/ingest-sentinel-feed.mjs --feed <path> --apply
 //   then: node scripts/persist-signals-to-brain.mjs --apply && node ingest/catalog.mjs
+import { execFileSync } from "node:child_process";
 import { readFileSync, writeFileSync, existsSync, mkdirSync, readdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
@@ -62,12 +63,29 @@ const today = new Date().toISOString().slice(0, 10);
 // enters the catalog (the crawler uses the same idea). Mentions alone do not admit a row.
 const MIN_STARS = Number(val("--min-stars", 100));
 const MIN_MENTIONS = Number(val("--min-mentions", 3)); // one note naming a tool is noise; three is a pattern
-let stubs = 0, skipped = 0, belowFloor = 0;
+let stubs = 0, skipped = 0, belowFloor = 0, noRepo = 0;
 const planned = [];
+// A new row must point at a GitHub repo: that is where its stars/forks come from, and a row that can
+// never earn a signal is a permanent husk (platform.openai.com, kimi.com, a marketing site). Rows with
+// only a product URL stay in Sentinel's unresolved pile for the resolver to find the repo.
+const githubUrl = (r) => (r.urls || []).find((u) => repoKey(u)) || "";
+// Unknown stars are not a pass: fetch them (one aliased GraphQL request for the whole feed) so the
+// floor is applied to every candidate, not only the ones the resolver happened to score.
+const unknown = [...new Set((feed.new || []).filter((r) => githubUrl(r) && typeof r.stars !== "number").map((r) => repoKey(githubUrl(r))))];
+const fetched = new Map();
+if (unknown.length) {
+  const q = `{\n${unknown.map((k, i) => { const [o, n] = k.split("/"); return `a${i}: repository(owner:${JSON.stringify(o)}, name:${JSON.stringify(n)}) { stargazerCount }`; }).join("\n")}\n}`;
+  let out = "";
+  try { out = execFileSync("gh", ["api", "graphql", "-f", `query=${q}`], { encoding: "utf-8", maxBuffer: 16 * 1024 * 1024 }); }
+  catch (e) { out = e && typeof e.stdout === "string" ? e.stdout : ""; }
+  try { const d = JSON.parse(out).data || {}; unknown.forEach((k, i) => { if (d[`a${i}`]) fetched.set(k, d[`a${i}`].stargazerCount); }); } catch { /* no answers → those rows stay unadmitted */ }
+}
 for (const r of feed.new || []) {
-  const url = r.urls?.[0] || "";
-  if (!url) { skipped++; continue; }
-  if (typeof r.stars === "number" && r.stars < MIN_STARS) { belowFloor++; continue; }
+  const url = githubUrl(r);
+  if (!url) { noRepo++; continue; }
+  const stars = typeof r.stars === "number" ? r.stars : fetched.get(repoKey(url));
+  if (typeof stars !== "number" || stars < MIN_STARS) { belowFloor++; continue; }
+  r.stars = stars;
   if (r.mentions < MIN_MENTIONS) { belowFloor++; continue; }
   const slug = slugify(repoKey(url) || r.name);
   if (byName.has(slug)) { skipped++; continue; } // already in the catalog under its canonical slug
@@ -95,11 +113,32 @@ for (const r of feed.new || []) {
   stubs++;
 }
 
+// --reset re-baselines the signal after a crediting-rule change: every row's mentions become exactly
+// what the feed credits (null when it credits nothing), in catalog.json AND in the brain markdown —
+// the persist script never blanks a value, so the markdown has to be reset here or the next rebuild
+// brings the old numbers back. Monotone --apply stays the nightly path.
+let reset = 0;
+if (has("--reset") && has("--apply")) {
+  const credited = new Map((feed.existing || []).map((r) => [r.armory_name, r.mentions]));
+  for (const c of cat.components || []) {
+    const target = credited.has(c.name) ? credited.get(c.name) : null;
+    if ((c.mentions ?? null) === target) continue;
+    c.mentions = target;
+    const file = join(ROOT, "brain", c.path);
+    if (!existsSync(file)) continue;
+    const src = readFileSync(file, "utf-8");
+    const next = src.replace(/^mentions:.*$/m, `mentions: ${target == null ? "null" : target}`);
+    if (next !== src) writeFileSync(file, next);
+    reset++;
+  }
+}
+
 if (has("--apply")) writeFileSync(CATALOG, JSON.stringify(cat, null, 2) + "\n");
 
 console.log(`feed: ${feedPath}`);
+if (has("--reset")) console.log(`reset → ${reset} rows re-baselined to the feed's URL-credited counts`);
 console.log(`existing → mentions raised ${raised} · unchanged ${unchanged} · name-not-found ${missing}`);
-console.log(`new → stubs ${has("--apply") ? "written" : "planned"} ${stubs} · skipped ${skipped} · below ${MIN_STARS}★ floor ${belowFloor}`);
+console.log(`new → stubs ${has("--apply") ? "written" : "planned"} ${stubs} · skipped ${skipped} · below ${MIN_STARS}★ floor ${belowFloor} · no GitHub repo ${noRepo}`);
 for (const p of planned.slice(0, 15)) console.log(`   + ${p.slug} (${p.type}, ×${p.mentions}) ${p.url}`);
 console.log(`unresolved (name only, Sentinel will resolve): ${(feed.unresolved || []).length}`);
 console.log(has("--apply")

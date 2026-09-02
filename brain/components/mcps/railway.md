@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 47
 pushed_at: "2026-05-23T00:21:16Z"
+mentions: null
 ---
 ## What it is
 MCP server `Railway`, catalogued on PulseMCP. Integrates with Railway's platform and CLI to enable deployment, service management, environment configuration, and infrastructure monitoring through conversational workflows.

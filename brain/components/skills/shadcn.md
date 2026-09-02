@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [shadcn, skills]
+mentions: null
 ---
 ## What it is
 Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems.

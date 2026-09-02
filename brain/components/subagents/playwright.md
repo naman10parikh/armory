@@ -13,6 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [agents, subagents]
+mentions: null
 ---
 ## What it is
 `wshobson/agents` sub-agent `playwright` (model: sonnet) from the `ship-mate` plugin. Playwright testing agent. Only runs for FRONTEND tasks. Verifies acceptance criteria in a real browser using the page object pattern. Passes on success, routes back to developer on failure.
