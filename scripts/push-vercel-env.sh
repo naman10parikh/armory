@@ -10,11 +10,18 @@
 #   AGENTMAIL_API_KEY                     → energy/.env        (Armory's own email)
 #   TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN,
 #   TWILIO_PHONE_NUMBER, TWILIO_WHATSAPP_NUMBER → energy/.env, energy/.env.restore (Armory's phone)
+#   AGENTMAIL_WEBHOOK_SECRET              → energy/.env (the `whsec_…` shown once when you register
+#                                           https://armory-murex.vercel.app/api/inbound/email as a webhook
+#                                           in the AgentMail dashboard — WITHOUT it Armory computes replies
+#                                           but never sends: the route refuses to be an open relay)
+#   ARMORY_EMAIL                          → energy/.env (not a secret: the address /identity shows)
+#   BEZALEL_TOKEN                         → energy/.env (per-agent token minted in the Bezalel dashboard)
+# A name that is not on disk is skipped and listed — add it to energy/.env and re-run any time.
 set -u
 cd "$(dirname "$0")/../web" || exit 1
 
 SRC=(/Users/naman/sentinel/.env /Users/naman/energy/.env /Users/naman/energy/.env.restore)
-NAMES=(GEMINI_API_KEY AGENTMAIL_API_KEY TWILIO_ACCOUNT_SID TWILIO_AUTH_TOKEN TWILIO_PHONE_NUMBER TWILIO_WHATSAPP_NUMBER)
+NAMES=(GEMINI_API_KEY AGENTMAIL_API_KEY AGENTMAIL_WEBHOOK_SECRET ARMORY_EMAIL TWILIO_ACCOUNT_SID TWILIO_AUTH_TOKEN TWILIO_PHONE_NUMBER TWILIO_WHATSAPP_NUMBER BEZALEL_TOKEN)
 
 lookup() { # print the value of $1 from the first source file that defines it (never echoed to terminal)
   local name="$1" f
