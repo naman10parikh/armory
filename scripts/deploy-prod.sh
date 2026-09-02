@@ -36,7 +36,8 @@ echo "  deployment: $url"
 echo "▸ waiting for READY"
 for _ in $(seq 1 60); do
   # The status line is "status<TAB>● Ready" — match the word, not a column (the glyph broke awk).
-  state="$(vercel inspect "$url" 2>/dev/null | grep -m1 -iE '^\s*status' | grep -oE 'Ready|Error|Canceled|Building|Queued|Initializing' | head -1)"
+  # vercel inspect prints on STDERR; `\s` is not BSD grep — match the word on the status line.
+  state="$(vercel inspect "$url" 2>&1 | grep -m1 -iE '^[[:space:]]*status' | grep -oE 'Ready|Error|Canceled|Building|Queued|Initializing' | head -1)"
   case "$state" in Ready|READY) break ;; Error|ERROR|Canceled|CANCELED) echo "build $state"; exit 1 ;; esac
   sleep 10
 done
