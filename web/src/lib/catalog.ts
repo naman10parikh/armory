@@ -78,6 +78,7 @@ function normalizeComponent(raw: unknown): Component | null {
     maturity: str(e.maturity) as Component["maturity"],
     stars: numOrNull(e.stars),
     eval_score: numOrNull(e.eval_score),
+    mentions: numOrNull(e.mentions),
     verified_at: str(e.verified_at),
     related: strArr(e.related),
     tags: strArr(e.tags),

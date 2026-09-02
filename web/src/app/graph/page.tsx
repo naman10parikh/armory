@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getCatalog } from "@/lib/catalog";
 import { CATEGORY_LABEL, type ComponentType } from "@/lib/types";
+import { ContentWidth } from "@/components/data-table";
 import { Timeline, type TimelineData } from "@/components/timeline";
 
 // Reads catalog.json via node:fs (through getCatalog) at build time — keep this on
@@ -8,16 +9,17 @@ import { Timeline, type TimelineData } from "@/components/timeline";
 export const runtime = "nodejs";
 
 export const metadata: Metadata = {
-  title: "How the index grew — Armory",
+  title: "How the index grew · Armory",
   description:
     "The layers the Armory is built from — its sources, its components, the Universal score, the industry verticals, and the ways agents query it. Every number computed from the catalog, no invented dates.",
 };
 
-// The 12 industry verticals (display labels). Canonical order mirrors VERTICALS in
-// web/lib/rank.mjs — the same buckets the leaderboard filters by.
+// The 12 industry verticals (display labels), Title Case per COPY.md R3. Canonical
+// order mirrors VERTICALS in web/lib/rank.mjs — the same buckets the leaderboard
+// filters by.
 const VERTICAL_LABELS = [
   "Finance", "Legal", "Healthcare", "E-commerce", "Marketing", "Education",
-  "Gaming", "Productivity", "Data & analytics", "Security", "Dev tools", "AI infra",
+  "Gaming", "Productivity", "Data & Analytics", "Security", "Dev Tools", "AI Infra",
 ] as const;
 
 // MCP registries the crawler seeds from: catalog tag → display label. The tag counts
@@ -26,8 +28,10 @@ const REGISTRIES: readonly [string, string][] = [
   ["glama", "Glama"], ["pulsemcp", "PulseMCP"], ["mcp-so", "mcp.so"], ["smithery", "Smithery"],
 ];
 
-// The /graph route now tells the story of HOW the index grew — the layers of the
-// Armory, grounded in real catalog aggregates — instead of the old synapse graph.
+// The /graph route tells the story of HOW the index grew — the layers of the
+// Armory, grounded in real catalog aggregates. No brain/synapse vocabulary and no
+// relation graph here (design/BRIEF.md Approval #3): the old synapse canvas is gone,
+// and `related:` is loose co-occurrence, not a citable dependency edge.
 export default function GrowthPage() {
   const { components, counts } = getCatalog();
 
@@ -71,39 +75,23 @@ export default function GrowthPage() {
   };
 
   return (
-    <main style={{ maxWidth: 1240, margin: "0 auto", padding: "96px 24px 96px" }}>
-      <p
-        style={{
-          fontSize: 10.5,
-          fontWeight: 600,
-          textTransform: "uppercase",
-          letterSpacing: "0.2em",
-          color: "var(--accent)",
-          margin: 0,
-        }}
-      >
-        the timeline
-      </p>
-      <h1
-        style={{
-          fontFamily: "var(--font-display), Georgia, serif",
-          fontSize: "clamp(2.4rem, 6vw, 3.5rem)",
-          lineHeight: 1.03,
-          letterSpacing: "-0.02em",
-          color: "var(--text-hi)",
-          margin: "10px 0 0",
-        }}
-      >
-        How the index grew.
+    <ContentWidth className="pb-24 pt-8">
+      <p className="m-0 text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">Timeline</p>
+      <h1 className="mt-2 text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">
+        How the index grew
       </h1>
-      <p style={{ color: "var(--text-body)", marginTop: 14, maxWidth: "64ch", lineHeight: 1.6 }}>
-        Not a dated history — the <span style={{ color: "var(--text-hi)" }}>layers</span> the Armory
-        is built from, in the order an agent meets them. Every figure below is computed straight from{" "}
-        <span style={{ color: "var(--text-hi)" }}>catalog.json</span> the moment this page builds —
-        so it grows as the shelf does.
+      <p className="mt-3 max-w-[64ch] text-[16px] leading-[1.5] text-ink-body">
+        The layers the Armory is built from, in the order an agent meets them
+      </p>
+      <p className="mt-3 max-w-[68ch] text-[13px] leading-[1.6] text-ink-muted">
+        Not a dated history. Every figure below is computed straight from{" "}
+        <code className="rounded border border-line bg-raise-1 px-1.5 py-0.5 font-mono text-[12px] text-ink-body">
+          catalog.json
+        </code>{" "}
+        the moment this page builds, so it grows as the shelf does.
       </p>
 
       <Timeline data={data} />
-    </main>
+    </ContentWidth>
   );
 }

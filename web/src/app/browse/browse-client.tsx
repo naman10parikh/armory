@@ -1,11 +1,13 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import { usePathname, useRouter } from "next/navigation";
 import type { Component, ComponentType } from "@/lib/types";
-import { CATEGORIES, CATEGORY_LABEL, WEDGE_TYPES } from "@/lib/types";
+import { CATEGORIES, CATEGORY_LABEL } from "@/lib/types";
 import { filterAndRank } from "@/lib/search";
-import { ComponentCard } from "@/components/component-card";
+import { ComponentCard, type ComponentScore } from "@/components/component-card";
 import { EmptyState } from "@/components/empty-state";
+import { ContentWidth } from "@/components/data-table";
 import { SearchIcon, TypeIcon } from "@/components/icons";
 
 const PAGE = 24; // cards rendered per "page" — never emit thousands of DOM nodes.
@@ -16,21 +18,30 @@ const PAGE = 24; // cards rendered per "page" — never emit thousands of DOM no
   IntersectionObserver sentinel ("load more"), so the DOM holds at most ~PAGE×N
   cards regardless of catalog size (thousands of components stay smooth). Search is
   debounced so each keystroke doesn't re-rank the whole list synchronously.
+
+  Filter + query state lives in the URL (design/BRIEF.md rule #2) — `?type=` is a
+  comma-separated list of the active facets, `?q=` the search text — so this exact
+  view is reproducible and citable by a link.
 */
 export function BrowseClient({
   components,
   countsByType,
-  initialType,
+  scores,
+  initialTypes,
+  initialQuery,
 }: {
   components: Component[];
   countsByType: Record<ComponentType, number>;
-  initialType: ComponentType | null;
+  scores: Record<string, ComponentScore>;
+  initialTypes: ComponentType[];
+  initialQuery: string;
 }) {
-  const [input, setInput] = useState("");
-  const [query, setQuery] = useState("");
-  const [activeTypes, setActiveTypes] = useState<Set<ComponentType>>(() =>
-    initialType ? new Set([initialType]) : new Set(),
-  );
+  const router = useRouter();
+  const pathname = usePathname();
+
+  const [input, setInput] = useState(initialQuery);
+  const [query, setQuery] = useState(initialQuery);
+  const [activeTypes, setActiveTypes] = useState<Set<ComponentType>>(() => new Set(initialTypes));
   const [visible, setVisible] = useState(PAGE);
 
   // Debounce the typed query (120ms) so ranking doesn't run on every keystroke.
@@ -46,6 +57,21 @@ export function BrowseClient({
 
   // Reset the window whenever the result set changes.
   useEffect(() => setVisible(PAGE), [query, activeTypes]);
+
+  // Reflect query + facet state into the URL. Skips the redundant replace on first
+  // paint — the URL already matches the server-provided initial state.
+  const mounted = useRef(false);
+  useEffect(() => {
+    if (!mounted.current) {
+      mounted.current = true;
+      return;
+    }
+    const params = new URLSearchParams();
+    if (query) params.set("q", query);
+    if (activeTypes.size > 0) params.set("type", [...activeTypes].join(","));
+    const qs = params.toString();
+    router.replace(qs ? `${pathname}?${qs}` : pathname, { scroll: false });
+  }, [query, activeTypes, pathname, router]);
 
   const shown = results.slice(0, visible);
   const hasMore = visible < results.length;
@@ -75,93 +101,78 @@ export function BrowseClient({
     });
   }
 
+  function resetFilters() {
+    setInput("");
+    setActiveTypes(new Set());
+  }
+
   const catalogEmpty = components.length === 0;
 
   return (
-    <div className="mx-auto max-w-[1240px] px-5 pb-24 pt-28">
-      <header className="mb-8">
-        <h1 className="font-serif text-[clamp(2.5rem,5vw,3.75rem)] leading-none tracking-[-0.02em] text-ink-hi">
-          Browse the brain.
-        </h1>
-        <p className="mt-3 max-w-xl text-sm text-ink-body">
-          Ranked over name, description, and tags. Filter by region. Everything is
-          keyboard-accessible and recallable by an agent.
+    <ContentWidth className="pb-24 pt-8">
+      <header className="mb-6">
+        <h1 className="text-[32px] font-semibold leading-[1.15] tracking-[-0.01em] text-ink-hi">Browse</h1>
+        <p className="mt-2 max-w-xl text-[16px] leading-[1.5] text-ink-body">
+          Search and filter by type across the catalog
         </p>
       </header>
 
-      {/* Double-Bezel search bar (sticky under the floating nav) */}
-      <div className="sticky top-20 z-20 mb-6 rounded-2xl bg-raise-1/80 p-1.5 ring-1 ring-line-subtle backdrop-blur-xl">
-        <div className="relative flex items-center rounded-[calc(1.25rem-0.375rem)] bg-raise-2 shadow-[inset_0_1px_0_oklch(100%_0_0/0.06)]">
-          <span className="pointer-events-none absolute left-4 text-ink-muted">
-            <SearchIcon size={18} />
-          </span>
-          <input
-            type="search"
-            value={input}
-            onChange={(e) => setInput(e.target.value)}
-            placeholder="browser automation mcp…"
-            aria-label="Search components"
-            className="w-full cursor-text bg-transparent py-3.5 pl-11 pr-24 font-mono text-base text-ink-hi placeholder:text-ink-muted focus:outline-none"
-          />
-          <kbd className="pointer-events-none absolute right-4 hidden items-center gap-1 rounded border border-line px-1.5 py-0.5 font-mono text-[10px] text-ink-muted sm:flex">
-            ⌘K
-          </kbd>
-        </div>
+      {/* Search */}
+      <div className="mb-6 flex h-11 max-w-xl items-center gap-2 rounded-lg border border-line bg-raise-1 px-3.5 transition-colors duration-150 ease-state focus-within:border-accent-line">
+        <SearchIcon size={16} className="shrink-0 text-ink-muted" />
+        <label htmlFor="browse-search" className="sr-only">
+          Search
+        </label>
+        <input
+          id="browse-search"
+          type="search"
+          value={input}
+          onChange={(e) => setInput(e.target.value)}
+          placeholder="playwright"
+          autoComplete="off"
+          className="h-full w-full cursor-text bg-transparent font-mono text-[14px] text-ink-hi outline-none placeholder:text-ink-faint"
+        />
+        <kbd className="pointer-events-none hidden shrink-0 items-center gap-1 rounded border border-line px-1.5 py-0.5 font-mono text-[10px] text-ink-muted sm:flex">
+          ⌘K
+        </kbd>
       </div>
 
       <div className="grid grid-cols-1 gap-8 lg:grid-cols-[200px_1fr]">
         {/* Facet rail */}
-        <aside className="lg:sticky lg:top-44 lg:self-start">
+        <aside className="lg:sticky lg:top-8 lg:self-start">
           <div className="flex items-center justify-between">
-            <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-ink-muted">
-              Regions
-            </span>
+            <span className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">Type</span>
             {activeTypes.size > 0 && (
               <button
                 type="button"
                 onClick={() => setActiveTypes(new Set())}
-                className="cursor-pointer text-[11px] text-ink-muted transition-colors hover:text-accent-hover"
+                className="cursor-pointer text-[11px] font-medium text-accent-hover transition-colors duration-150 ease-state hover:text-accent"
               >
-                clear
+                Reset
               </button>
             )}
           </div>
-          <div className="mt-3 flex flex-row flex-wrap gap-1.5 lg:flex-col lg:gap-0 lg:divide-y lg:divide-line-subtle">
+          <div className="mt-3 flex flex-row flex-wrap gap-1.5 lg:flex-col lg:gap-1">
             {CATEGORIES.map((cat) => {
               const count = countsByType[cat.type] ?? 0;
               const active = activeTypes.has(cat.type);
-              const wedge = WEDGE_TYPES.has(cat.type);
               return (
                 <button
                   key={cat.type}
                   type="button"
                   aria-pressed={active}
                   onClick={() => toggleType(cat.type)}
-                  className={`group flex min-h-[40px] cursor-pointer items-center gap-2 rounded-lg px-2.5 py-2 text-left text-sm transition-colors lg:rounded-none ${
+                  className={`group flex min-h-[36px] cursor-pointer items-center gap-2 rounded-lg border px-2.5 py-1.5 text-left text-[13px] transition-colors duration-150 ease-state lg:w-full ${
                     active
-                      ? "text-accent-hover"
-                      : "text-ink-body hover:text-ink-hi"
+                      ? "border-accent-line bg-accent-quiet text-accent-hover"
+                      : "border-transparent text-ink-body hover:bg-raise-1 hover:text-ink-hi"
                   }`}
                 >
-                  <span
-                    aria-hidden
-                    className={`h-1.5 w-1.5 shrink-0 rounded-full transition-colors ${
-                      active
-                        ? "bg-accent"
-                        : "bg-line-strong group-hover:bg-ink-muted"
-                    }`}
-                  />
-                  <TypeIcon
-                    type={cat.type}
-                    size={14}
-                    className={
-                      active || wedge ? "text-accent" : "text-ink-muted"
-                    }
-                  />
+                  <TypeIcon type={cat.type} size={14} className={active ? "text-accent" : "text-ink-muted"} />
                   <span className="flex-1">{cat.label}</span>
-                  <span className="tabular-nums text-[11px] text-ink-muted">
+                  <data value={String(count)} className="font-mono text-[11px] tabular-nums text-ink-muted">
                     {count}
-                  </span>
+                  </data>
                 </button>
               );
             })}
@@ -170,12 +181,12 @@ export function BrowseClient({
 
         {/* Results */}
         <div>
-          <p
-            className="mb-4 font-mono text-[13px] text-ink-muted"
-            aria-live="polite"
-          >
-            <span className="tabular-nums text-ink-hi">{results.length}</span>{" "}
-            result{results.length === 1 ? "" : "s"}
+          <p className="mb-4 font-mono text-[13px] text-ink-muted" aria-live="polite">
+            <data value={String(results.length)} className="text-ink-hi">
+              {results.length.toLocaleString("en-US")}
+            </data>{" "}
+            Results ·{" "}
+            <data value={String(components.length)}>{components.length.toLocaleString("en-US")}</data> Total
             {activeTypes.size > 0 && (
               <>
                 {" "}
@@ -188,25 +199,27 @@ export function BrowseClient({
             {query && (
               <>
                 {" "}
-                for <span className="text-ink-body">“{query}”</span>
+                for <span className="text-ink-body">&ldquo;{query}&rdquo;</span>
               </>
             )}
           </p>
 
           {catalogEmpty ? (
             <EmptyState
-              title="The brain is still forming."
-              hint="No components indexed yet. As components land in brain/components/, they appear here automatically."
+              label="Not Indexed"
+              hint="Indexing in progress"
+              action={{ label: "Status", href: "/status" }}
             />
           ) : results.length === 0 ? (
             <EmptyState
-              title="No component recalled."
-              hint="Try broader terms, or clear the region filters."
-              suggestions={["mcp", "memory", "eval", "browser"]}
+              label="No Results"
+              hint="No component matches this search or filter"
+              suggestions={["MCP", "Memory", "Eval", "Browser"]}
               onSuggest={(t) => {
                 setInput(t);
                 setActiveTypes(new Set());
               }}
+              action={{ label: "Reset Filters", onClick: resetFilters }}
             />
           ) : (
             <>
@@ -215,22 +228,18 @@ export function BrowseClient({
                   <ComponentCard
                     key={`${component.type}/${component.name}`}
                     component={component}
+                    score={scores[`${component.type}/${component.name}`] ?? null}
                   />
                 ))}
               </div>
               {hasMore && (
-                <div
-                  ref={sentinelRef}
-                  className="mt-8 flex justify-center"
-                >
+                <div ref={sentinelRef} className="mt-8 flex justify-center">
                   <button
                     type="button"
-                    onClick={() =>
-                      setVisible((v) => Math.min(v + PAGE, results.length))
-                    }
-                    className="cursor-pointer rounded-full border border-line px-5 py-2.5 text-sm font-medium text-ink-body transition-colors hover:border-accent-line hover:text-accent-hover"
+                    onClick={() => setVisible((v) => Math.min(v + PAGE, results.length))}
+                    className="cursor-pointer rounded-full border border-line px-5 py-2.5 text-[13px] font-medium text-ink-body transition-colors duration-150 ease-state hover:border-accent-line hover:text-accent-hover"
                   >
-                    Load more · {results.length - visible} remaining
+                    Load More · {(results.length - visible).toLocaleString("en-US")} Remaining
                   </button>
                 </div>
               )}
@@ -238,6 +247,6 @@ export function BrowseClient({
           )}
         </div>
       </div>
-    </div>
+    </ContentWidth>
   );
 }

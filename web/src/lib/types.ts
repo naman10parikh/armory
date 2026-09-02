@@ -29,6 +29,7 @@ export interface Component {
   maturity: Maturity;
   stars: number | null;
   eval_score: number | null;
+  mentions: number | null;
   verified_at: string;
   related: string[];
   tags: string[];

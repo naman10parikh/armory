@@ -3,36 +3,47 @@ import type { Component } from "@/lib/types";
 import { CliChip, MaturityBadge, TagChip, TypeBadge } from "./badges";
 import { ArrowRightIcon, StarIcon, TypeIcon } from "./icons";
 import { QuickInstall } from "./quick-install";
+import { ScoreBadge } from "./score-badge";
+import { SignalsRow, type SignalValues } from "./signals-row";
+
+/** The Universal score + its four signals for one component (design/BRIEF.md §9).
+ *  Optional — a caller without a scored catalog (e.g. a bare related-component
+ *  list) simply omits it and the card renders without the badge/row. */
+export interface ComponentScore {
+  universal: number | null;
+  evidence: number;
+  signals: SignalValues;
+}
 
 /*
-  The atomic unit — one recallable component, as a "memory chip" via the Double-Bezel
-  (outer shell + inner core + top inner highlight). Hover lifts 2px, border goes
-  amber, faint wash; :active presses.
+  The atomic unit — one component, via the Double-Bezel (outer shell +
+  inner core + top inner highlight). Hover lifts 2px, border goes amber, faint
+  wash; :active presses.
 
   Clickability model: a SINGLE absolutely-positioned link overlay covers the whole
   inner core, so anywhere on the card navigates to the detail route. Interactive
   controls that must NOT navigate (the quick-install tray, the source link) sit in
   the footer with `pointer-events-auto` + a higher z-index, above the overlay.
 */
-export function ComponentCard({ component }: { component: Component }) {
+export function ComponentCard({
+  component,
+  score = null,
+}: {
+  component: Component;
+  score?: ComponentScore | null;
+}) {
   const href = `/e/${component.type}/${component.name}`;
   return (
     // Outer shell (bezel)
     <article className="group relative h-full rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle transition duration-[220ms] ease-out-quart hover:ring-accent-line hover:-translate-y-0.5 active:translate-y-0 active:scale-[0.985]">
       {/* Inner core (positioning context for the whole-card link) */}
-      <div className="relative flex h-full flex-col rounded-[calc(1.25rem-0.375rem)] bg-raise-2 p-5 shadow-[inset_0_1px_0_oklch(100%_0_0/0.06)] transition-colors duration-[220ms] group-hover:bg-raise-3">
+      <div className="relative flex h-full flex-col rounded-[calc(1.25rem-0.375rem)] bg-raise-2 p-5 shadow-[inset_0_1px_0_var(--line-subtle)] transition-colors duration-[220ms] group-hover:bg-raise-3">
         {/* Whole-card link overlay — covers the entire core. Title text is shown
             separately above it so it can also be the accessible link label. */}
         <Link
           href={href}
           aria-label={`${component.name} — open detail`}
           className="absolute inset-0 z-[1] cursor-pointer rounded-[calc(1.25rem-0.375rem)] outline-none"
-        />
-
-        {/* Amber wash on hover */}
-        <span
-          aria-hidden
-          className="pointer-events-none absolute inset-0 z-0 rounded-[calc(1.25rem-0.375rem)] bg-[radial-gradient(20rem_12rem_at_80%_-20%,var(--accent-quiet),transparent_60%)] opacity-0 transition-opacity duration-[220ms] group-hover:opacity-100"
         />
 
         {/* Row 1: glyph + type · maturity */}
@@ -54,25 +65,34 @@ export function ComponentCard({ component }: { component: Component }) {
           {component.description}
         </p>
 
-        {/* Row 4: meta strip (tabular-nums) */}
-        {(typeof component.stars === "number" ||
-          typeof component.eval_score === "number" ||
-          component.cli_compat.length > 0) && (
-          <div className="pointer-events-none relative z-[2] mt-4 flex flex-wrap items-center gap-x-3 gap-y-1.5 tabular-nums">
-            {typeof component.stars === "number" && (
-              <span className="inline-flex items-center gap-1 text-[11px] text-ink-muted">
-                <StarIcon size={12} className="text-accent" />
-                {component.stars.toLocaleString()}
-              </span>
-            )}
-            {typeof component.eval_score === "number" && (
-              <span className="text-[11px] text-ink-muted">
-                eval{" "}
-                <span className="text-accent-hover">
-                  {component.eval_score.toFixed(2)}
+        {/* Row 4: score + signals (when the card was handed a scored row) or the CLI
+            compat strip. Falls back to the raw stars/eval fields for callers that
+            don't scope a scored catalog (e.g. a bare related-component list). */}
+        {score ? (
+          <div className="pointer-events-none relative z-[2] mt-4 flex flex-wrap items-center gap-x-3 gap-y-1.5">
+            <ScoreBadge score={score.universal} evidence={score.evidence} />
+            <SignalsRow signals={score.signals} />
+          </div>
+        ) : (
+          (typeof component.stars === "number" || typeof component.eval_score === "number") && (
+            <div className="pointer-events-none relative z-[2] mt-4 flex flex-wrap items-center gap-x-3 gap-y-1.5 tabular-nums">
+              {typeof component.stars === "number" && (
+                <span className="inline-flex items-center gap-1 text-[11px] text-ink-muted">
+                  <StarIcon size={12} className="text-accent" />
+                  {component.stars.toLocaleString()}
                 </span>
-              </span>
-            )}
+              )}
+              {typeof component.eval_score === "number" && (
+                <span className="text-[11px] text-ink-muted">
+                  eval{" "}
+                  <span className="text-accent-hover">{component.eval_score.toFixed(2)}</span>
+                </span>
+              )}
+            </div>
+          )
+        )}
+        {component.cli_compat.length > 0 && (
+          <div className="pointer-events-none relative z-[2] mt-2 flex flex-wrap items-center gap-1.5">
             {component.cli_compat.slice(0, 5).map((cli) => (
               <CliChip key={cli} cli={cli} />
             ))}
@@ -88,8 +108,9 @@ export function ComponentCard({ component }: { component: Component }) {
           </div>
         )}
 
-        {/* Footer: compact one-click install + "view synapses" affordance.
-            Interactive — sits above the overlay (z-10, pointer-events restored). */}
+        {/* Footer: compact one-click install + a link to the detail page's
+            connections. Interactive — sits above the overlay (z-10, pointer-events
+            restored). */}
         <div className="relative z-10 mt-4 border-t border-line-subtle pt-3">
           <div className="flex items-center justify-between gap-2">
             <QuickInstall component={component} />
@@ -97,7 +118,7 @@ export function ComponentCard({ component }: { component: Component }) {
               href={href}
               className="flex shrink-0 cursor-pointer items-center gap-1.5 text-[11px] font-medium text-ink-muted transition-colors hover:text-accent-hover group-hover:text-accent-hover"
             >
-              View synapses
+              Connections
               <span className="flex h-5 w-5 items-center justify-center rounded-full bg-accent-quiet">
                 <ArrowRightIcon size={12} className="text-accent" />
               </span>

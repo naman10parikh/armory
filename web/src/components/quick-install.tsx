@@ -53,11 +53,11 @@ export function QuickInstall({ component }: { component: Component }) {
       </button>
 
       {open && (
-        <div className="mt-2.5 rounded-xl border border-line-default bg-[oklch(13%_0.006_72)] p-2.5">
+        <div className="mt-2.5 rounded-xl border border-line-default bg-canvas p-2.5">
           {/* Harness selector */}
           <div
             role="tablist"
-            aria-label="Target harness"
+            aria-label="Harness"
             className="mb-2 flex flex-wrap gap-1"
           >
             {HARNESSES.map((h) => {
@@ -82,7 +82,7 @@ export function QuickInstall({ component }: { component: Component }) {
           </div>
 
           {/* Command + copy */}
-          <div className="flex items-center gap-2 rounded-lg bg-base/60 px-2.5 py-1.5">
+          <div className="flex items-center gap-2 rounded-lg bg-canvas/60 px-2.5 py-1.5">
             <span aria-hidden className="select-none font-mono text-xs text-accent">
               $
             </span>
@@ -92,7 +92,7 @@ export function QuickInstall({ component }: { component: Component }) {
             <button
               type="button"
               onClick={copy}
-              aria-label={copied ? "Copied" : "Copy install command"}
+              aria-label={copied ? "Copied" : "Copy"}
               className="flex h-6 shrink-0 cursor-pointer items-center gap-1 rounded-md border border-line px-1.5 text-[10px] font-medium text-ink-muted transition-colors hover:border-accent-line hover:text-accent-hover active:scale-95"
             >
               {copied ? (
