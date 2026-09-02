@@ -21,6 +21,9 @@ sha="$(git -C "$ROOT" rev-parse --short HEAD)"
 echo "▸ worktree of $sha → $WT"
 git -C "$ROOT" worktree add --detach "$WT" HEAD >/dev/null
 cp -R "$ROOT/web/.vercel" "$WT/web/.vercel"          # project link (gitignored)
+# Vendor catalog.json (+ the brain the pages read) into web/ — the deploy root is web/, and the
+# parent-dir source is not uploaded. Without this the remote `npm run build` dies in copy-data.
+(cd "$WT/web" && node scripts/copy-data.mjs >/dev/null)
 
 echo "▸ vercel deploy --prod (archive=tgz)"
 url="$(cd "$WT/web" && vercel deploy --prod --yes --archive=tgz 2>/tmp/armory-deploy.err | tail -1)"
