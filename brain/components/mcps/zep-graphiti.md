@@ -12,6 +12,7 @@ stars: 26534
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 1
 ---
 ## What it is
 MCP server `Graphiti`, catalogued on PulseMCP. Provides a temporal knowledge graph system for storing, retrieving, and reasoning about relationships between entities with persistent memory across conversations

@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 110
 pushed_at: "2026-08-21T21:42:56Z"
+mentions: 1
 ---
 ## What it is
 Enables management of Google Drive files, Docs, Sheets, Slides, and Calendar events through natural language using the MCP protocol.

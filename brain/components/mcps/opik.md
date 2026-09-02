@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 35
 pushed_at: "2026-09-01T17:29:55Z"
-mentions: null
+mentions: 1
 ---
 ## What it is
 MCP server `Opik`, catalogued on PulseMCP. Interact and analyze your Opik enviroment including traces, telemetry and metrics with natural language.

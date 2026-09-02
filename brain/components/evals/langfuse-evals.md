@@ -15,6 +15,7 @@ related: []
 tags: [evals, observability, tracing, prompt-management]
 forks: 3678
 pushed_at: "2026-09-01T22:53:45Z"
+mentions: 9
 ---
 ## What it is
 Open-source LLM engineering platform with built-in evals, prompt management, and production tracing for iterative improvement.

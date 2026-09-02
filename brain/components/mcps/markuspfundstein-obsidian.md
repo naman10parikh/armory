@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 498
 pushed_at: "2026-08-31T11:49:01Z"
+mentions: 2
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Access and modify notes in Obsidian vaults via REST API.

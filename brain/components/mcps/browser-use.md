@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 12312
 pushed_at: "2026-09-02T02:25:43Z"
-mentions: null
+mentions: 9
 ---
 ## What it is
 MCP server `Browser Use`, catalogued on PulseMCP. Enables LLMs, agents, and apps to access, search, and extract web data in real-time using the browser-use.com API.

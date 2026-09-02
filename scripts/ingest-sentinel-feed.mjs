@@ -75,13 +75,17 @@ const githubUrl = (r) => (r.urls || []).find((u) => repoKey(u)) || "";
 // not a description, and the note's `## Notes` already carries the provenance.
 const unknown = [...new Set((feed.new || []).filter((r) => githubUrl(r)).map((r) => repoKey(githubUrl(r))))];
 const fetched = new Map();
-if (unknown.length) {
-  const q = `{\n${unknown.map((k, i) => { const [o, n] = k.split("/"); return `a${i}: repository(owner:${JSON.stringify(o)}, name:${JSON.stringify(n)}) { stargazerCount description }`; }).join("\n")}\n}`;
+// ≤50 aliases per request: a 132-alias query came back empty and every stub silently fell back to
+// "cited by N notes" as its description.
+for (let i = 0; i < unknown.length; i += 50) {
+  const slice = unknown.slice(i, i + 50);
+  const q = `{\n${slice.map((k, j) => { const [o, n] = k.split("/"); return `a${j}: repository(owner:${JSON.stringify(o)}, name:${JSON.stringify(n)}) { stargazerCount description }`; }).join("\n")}\n}`;
   let out = "";
   try { out = execFileSync("gh", ["api", "graphql", "-f", `query=${q}`], { encoding: "utf-8", maxBuffer: 16 * 1024 * 1024 }); }
   catch (e) { out = e && typeof e.stdout === "string" ? e.stdout : ""; }
-  try { const d = JSON.parse(out).data || {}; unknown.forEach((k, i) => { if (d[`a${i}`]) fetched.set(k, d[`a${i}`]); }); } catch { /* no answers → those rows stay unadmitted */ }
+  try { const d = JSON.parse(out).data || {}; slice.forEach((k, j) => { if (d[`a${j}`]) fetched.set(k, d[`a${j}`]); }); } catch { /* no answers → those rows stay unadmitted */ }
 }
+if (unknown.length && fetched.size === 0) console.warn("  ! GitHub answered nothing — descriptions will fall back to provenance; check `gh auth status`");
 for (const r of feed.new || []) {
   const url = githubUrl(r);
   if (!url) { noRepo++; continue; }

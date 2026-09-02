@@ -12,6 +12,7 @@ stars: 18909
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: 4
 ---
 ## What it is
 MCP server `Screenpipe`, catalogued on PulseMCP. Enable searching and retrieving screen recordings and associated data for productivity tracking, user behavior analysis, and workflow documentation.

@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 3084
 pushed_at: "2026-09-01T03:24:23Z"
+mentions: 3
 ---
 ## What it is
 MCP server `Playwright Browser Automation`, catalogued on PulseMCP. Enables web browser control for navigating websites, capturing page snapshots, interacting with elements, and taking screenshots through Playwright's automation capabilities.

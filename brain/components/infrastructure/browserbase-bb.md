@@ -16,6 +16,7 @@ related: [e2b-sandbox, firecrawl-mcp, browser-agent-security]
 tags: [browser, web-automation, stagehand, browserbase, act-extract-observe]
 forks: 1664
 pushed_at: "2026-09-02T00:13:17Z"
+mentions: 1
 ---
 
 ## What it is

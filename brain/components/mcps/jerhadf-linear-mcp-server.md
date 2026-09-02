@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 56
 pushed_at: "2025-05-01T19:45:31Z"
+mentions: 2
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Track and manage issues via Linear's project management API.

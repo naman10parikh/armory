@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 1509
 pushed_at: "2026-08-31T15:11:20Z"
+mentions: 1
 ---
 ## What it is
 MCP server `RepoMix`, catalogued on PulseMCP. Package codebases into AI-friendly single files with intelligent code structure preservation and token optimization.

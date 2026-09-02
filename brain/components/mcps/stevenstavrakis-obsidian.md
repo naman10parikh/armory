@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 92
 pushed_at: "2026-08-27T10:07:19Z"
+mentions: 1
 ---
 ## What it is
 MCP server `Obsidian`, catalogued on PulseMCP. Integrates with Obsidian to enable natural language-based note creation, editing, and management within vaults.

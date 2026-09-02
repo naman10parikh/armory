@@ -10,7 +10,7 @@ cli_compat: []
 maturity: curated
 stars: 48975
 eval_score: 1
-mentions: null
+mentions: 5
 verified_at: 
 related: []
 tags: [terminal]

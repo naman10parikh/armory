@@ -16,6 +16,7 @@ related: [server-memory, four-layer-memory, wikimem]
 tags: [memory, long-term, semantic, cross-session, personalization]
 forks: 7563
 pushed_at: "2026-09-01T17:30:53Z"
+mentions: 20
 ---
 
 ## What it is

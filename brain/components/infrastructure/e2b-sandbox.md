@@ -16,6 +16,7 @@ related: [microsandbox, claude-managed-agents-selfhost, browserbase-bb]
 tags: [sandbox, runtime, firecracker, microvm, code-execution]
 forks: 1015
 pushed_at: "2026-09-02T03:13:02Z"
+mentions: 10
 ---
 
 ## What it is

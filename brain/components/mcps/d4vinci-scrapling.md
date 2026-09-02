@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 7814
 pushed_at: "2026-09-01T12:39:01Z"
+mentions: 1
 ---
 ## What it is
 MCP server `Scrapling`, catalogued on PulseMCP. Provides advanced web scraping capabilities with browser fingerprint impersonation, dynamic content fetching via Chromium, and stealth scraping through modified Camoufox to bypass anti-bot protections, featuring CSS selector-based content filtering to reduce token consumption and support for bulk operations, proxy integration, and multiple output formats.

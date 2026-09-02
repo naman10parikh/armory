@@ -12,6 +12,7 @@ stars: 9123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+mentions: null
 ---
 ## What it is
 MCP server `AWS Bedrock Knowledge Base Retrieval`, catalogued on PulseMCP. Bridge to access Amazon Bedrock Knowledge Bases.

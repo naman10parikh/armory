@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [mcp-so, mcp]
-mentions: null
+mentions: 2
 ---
 ## What it is
 Puppeteer MCP server listed on mcp.so.

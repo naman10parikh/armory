@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 14653
 pushed_at: "2026-09-02T03:31:16Z"
+mentions: 3
 ---
 ## What it is
 MCP server `Labelhead Artist Momentum`, catalogued on PulseMCP. Trending hip-hop artist momentum scores across four cultural dimensions.

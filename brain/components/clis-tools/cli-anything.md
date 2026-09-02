@@ -10,7 +10,7 @@ cli_compat: []
 maturity: curated
 stars: 48822
 eval_score: 1
-mentions: null
+mentions: 1
 verified_at: 
 related: []
 tags: [connectors]
