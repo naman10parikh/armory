@@ -35,6 +35,7 @@ export function SiteFooter() {
           </FooterCol>
           <FooterCol label="Developers">
             <FooterLink href="/formula">Formula</FooterLink>
+            <FooterLink href="/identity">Identity</FooterLink>
             <FooterA href={`${REPO}/blob/main/CONTRIBUTING.md`}>Contribute</FooterA>
             <FooterA href={REPO}>Source</FooterA>
           </FooterCol>

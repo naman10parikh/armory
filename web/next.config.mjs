@@ -21,6 +21,10 @@ const nextConfig = {
     "/api/rank.csv": ["./catalog.json", "./lib/rank.mjs"],
     "/api/search": ["./catalog.json", "./lib/rank.mjs"],
     "/api/ask": ["./catalog.json", "./lib/rank.mjs"],
+    // The email + SMS inboxes answer with the same askCatalog pipeline as /api/ask, so their
+    // functions need the same two files traced in.
+    "/api/inbound/email": ["./catalog.json", "./lib/rank.mjs"],
+    "/api/inbound/sms": ["./catalog.json", "./lib/rank.mjs"],
     // /api/stack resolves each pick's live Score from the catalog at request time.
     "/api/stack": ["./catalog.json", "./lib/rank.mjs"],
     // /formula computes every figure it shows from the catalog with the ranking engine, so it needs

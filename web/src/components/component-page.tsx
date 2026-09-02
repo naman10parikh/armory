@@ -165,7 +165,7 @@ export function ShelfTable({ label, rows }: { label: string; rows: CanonRow[] })
           </Th>
           <Th className="w-[200px]">Component</Th>
           <Th className="w-auto">Description</Th>
-          <Th className="w-[264px]">Signals</Th>
+          <Th className="w-[300px]">Signals</Th>
           <Th className="w-[76px]">Type</Th>
           <Th className="w-[108px]">Domain</Th>
           <Th className="w-[280px]">Install</Th>

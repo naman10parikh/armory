@@ -20,6 +20,7 @@ export const EMPTY_SIGNALS: SignalValues = {
   tested: null,
   mentions: null,
   stars: null,
+  forks: null,
   usage: null,
 };
 

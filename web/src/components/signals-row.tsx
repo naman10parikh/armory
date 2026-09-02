@@ -1,7 +1,7 @@
 /*
   Signal row — design/BRIEF.md §9.
 
-  FOUR fixed slots, always in the same order: Tested · Mentions · Stars · Usage.
+  FIVE fixed slots, always in the same order: Tested · Mentions · Stars · Forks · Usage.
   Present = glyph + value. Absent = dim glyph + em dash. Fixed positions are
   what make ABSENCE scannable down a column.
 
@@ -15,19 +15,21 @@ export interface SignalValues {
   tested: number | null; // 0–1 eval score
   mentions: number | null;
   stars: number | null;
+  forks: number | null;
   usage: number | null;
 }
 
 export type SignalKey = keyof SignalValues;
 
 /** Canonical order. Never reorder — absence is read positionally. */
-export const SIGNAL_ORDER: readonly SignalKey[] = ["tested", "mentions", "stars", "usage"];
+export const SIGNAL_ORDER: readonly SignalKey[] = ["tested", "mentions", "stars", "forks", "usage"];
 
 /** COPY.md §2 approved lexicon. */
 export const SIGNAL_LABEL: Record<SignalKey, string> = {
   tested: "Tested",
   mentions: "Mentions",
   stars: "Stars",
+  forks: "Forks",
   usage: "Usage",
 };
 
@@ -35,6 +37,7 @@ const GLYPH: Record<SignalKey, string> = {
   tested: "✓",
   mentions: "♦",
   stars: "★",
+  forks: "⎇",
   usage: "↑",
 };
 

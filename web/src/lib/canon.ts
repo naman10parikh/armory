@@ -127,7 +127,7 @@ export function allRows(): CanonRow[] {
       domain: typeof r.domain === "string" ? r.domain : "other",
       url: typeof r.url === "string" ? r.url : null,
       desc: typeof r.desc === "string" ? r.desc : "",
-      signals: r.signals ?? { tested: null, mentions: null, stars: null, usage: null },
+      signals: r.signals ?? { tested: null, mentions: null, stars: null, forks: null, usage: null },
       scores: r.scores ?? { universal: null, evidence: 0 },
     }));
   } catch (err) {
