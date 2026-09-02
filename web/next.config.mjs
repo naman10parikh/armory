@@ -11,6 +11,9 @@ const nextConfig = {
   // it might read. Force-trace them into that function. Glob is relative to the
   // project root (site/).
   outputFileTracingIncludes: {
+    // The home page renders the top-20 ranked rows with the same engine as
+    // /formula, so it needs the catalog + the engine traced in as well.
+    "/": ["./catalog.json", "./lib/rank.mjs"],
     "/e/[type]/[slug]": ["./catalog.json", "./brain/**/*"],
     // The ranking routes read the vendored catalog + import the vendored engine at runtime — trace
     // both into each serverless function so they ship on Vercel (dev reads them off disk directly).

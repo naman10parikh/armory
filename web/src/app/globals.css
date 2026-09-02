@@ -3,43 +3,76 @@
 @tailwind utilities;
 
 /*
-  Armory design tokens. OKLCH only. Warm-black surface scale tinted toward the
-  amber hue (h≈72) at chroma 0.006–0.012 — subconscious cohesion, never
-  consciously "tinted." ONE accent: Synapse Amber. No AI-purple/blue.
+  Armory design tokens — design/BRIEF.md §6, approved 2026-09-01.
+
+  ROLES, not literals. Light mode is a value swap with zero component edits:
+  redefine the four `--accent-*` numbers and the surface/text ramps under a
+  `:root[data-theme="light"]` block and every component follows. Nothing in
+  src/ should ever name a raw oklch() value.
+
+  ONE accent (amber, h≈72) and it means exactly two things: INTERACTIVE and
+  SELECTED. Everything else is the neutral warm-black ramp.
 */
 :root {
   color-scheme: dark;
 
-  /* Warm-black surface scale (dark is the only mode). */
-  --bg-base: oklch(16% 0.006 72);
-  --bg-raise-1: oklch(20% 0.008 72);
-  --bg-raise-2: oklch(24% 0.01 72);
-  --bg-raise-3: oklch(28% 0.012 72);
+  /* ── Surfaces ────────────────────────────────────────────────────────── */
+  --bg-canvas: oklch(15% 0.006 72); /* page ground — warm black, never #000 */
+  --bg-raise-1: oklch(18.5% 0.007 72); /* table + panel ground */
+  --bg-raise-2: oklch(22% 0.009 72); /* row hover, toolbar */
+  --bg-raise-3: oklch(26% 0.011 72); /* selected row, active chip */
 
-  /* Hairlines — depth via lightness, not shadow. */
-  --line-subtle: oklch(100% 0 0 / 0.06);
-  --line-default: oklch(100% 0 0 / 0.1);
-  --line-strong: oklch(100% 0 0 / 0.16);
+  /* ── Hairlines — depth via lightness, never shadow ───────────────────── */
+  --line-subtle: oklch(100% 0 0 / 0.07); /* row rules */
+  --line-default: oklch(100% 0 0 / 0.13); /* control borders */
+  --line-strong: oklch(100% 0 0 / 0.22); /* header rule, focus base */
 
-  /* Text — light-on-dark, stepped down (NOT pure white). */
-  --text-hi: oklch(95% 0.004 72);
-  --text-body: oklch(82% 0.005 72);
-  --text-muted: oklch(66% 0.007 72);
+  /* ── Text ────────────────────────────────────────────────────────────── */
+  --text-hi: oklch(96% 0.004 72); /* names, scores — not pure white */
+  --text-body: oklch(84% 0.005 72); /* default */
+  --text-muted: oklch(68% 0.007 72); /* metadata */
+  --text-faint: oklch(55% 0.006 72); /* absent / unmeasured */
 
-  /* THE accent — Synapse Amber. Saturation < 80%, chroma trimmed near extremes. */
-  --accent: oklch(80% 0.135 75);
-  --accent-hover: oklch(85% 0.14 75);
-  --accent-quiet: oklch(80% 0.135 75 / 0.12);
-  --accent-line: oklch(80% 0.135 75 / 0.35);
+  /* ── Accent ──────────────────────────────────────────────────────────── */
+  /* Three numbers are the whole accent. In light mode amber must DARKEN
+     (78% L fails contrast on white) — swap these three, nothing else. */
+  --accent-l: 78%;
+  --accent-c: 0.13;
+  --accent-h: 72;
+  --accent: oklch(var(--accent-l) var(--accent-c) var(--accent-h));
+  --accent-hover: oklch(84% 0.135 var(--accent-h));
+  --accent-quiet: oklch(var(--accent-l) var(--accent-c) var(--accent-h) / 0.14);
+  --accent-line: oklch(var(--accent-l) var(--accent-c) var(--accent-h) / 0.38);
 
-  /* Semantic (maturity) — desaturated, tinted. info is the ONLY cool note, used tiny. */
-  --ok: oklch(74% 0.1 150);
-  --warn: oklch(80% 0.12 75);
-  --info: oklch(72% 0.08 230);
+  /* ── Semantic — maturity + errors ONLY, never decoration ─────────────── */
+  --ok: oklch(74% 0.1 152);
+  --warn: oklch(78% 0.12 62);
+  --danger: oklch(65% 0.16 25);
+  --info: oklch(72% 0.07 230);
 
-  /* Motion — exponential ease-out. No bounce, no linear, no default ease. */
+  /* ── Confidence ramp — CORROBORATION, not quality ────────────────────── */
+  /* The formula never penalises a missing signal, so a traffic light would
+     lie. This ramp says "how many independent signals agree", nothing more. */
+  --score-solid: var(--accent); /* 3–4 signals */
+  --score-partial: oklch(
+    var(--accent-l) var(--accent-c) var(--accent-h) / 0.55
+  ); /* 2 signals */
+  --score-thin: var(--text-muted); /* 1 signal  */
+  --score-none: var(--text-faint); /* 0 signals — renders an em dash */
+
+  /* ── Motion — state feedback only. Data never animates. ──────────────── */
+  --ease-state: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-state: 160ms;
+
+  /* ── Legacy aliases ──────────────────────────────────────────────────── */
+  /* Kept ONLY so /leaderboard, /ask, /graph, /status, /browse and /e still
+     compile and render while the page swarm migrates them off inline
+     `var(--…)` style objects. Delete each line as its last caller moves. */
+  --bg-base: var(--bg-canvas);
+  --font-display: var(--font-wordmark);
+  --font-body: var(--font-ui);
   --ease-out-quart: cubic-bezier(0.25, 1, 0.5, 1);
-  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out-expo: var(--ease-state);
   --ease-premium: cubic-bezier(0.32, 0.72, 0, 1);
 }
 
@@ -47,43 +80,31 @@ html {
   scroll-behavior: smooth;
 }
 
+/* No radial glows, no grain. An atmospheric wash behind a data table is
+   decoration competing with the only thing on screen that matters. */
 body {
-  background-color: var(--bg-base);
+  background-color: var(--bg-canvas);
   color: var(--text-body);
-  /* A single soft amber bloom + a fainter one — restraint, not a purple orb mesh. */
-  background-image:
-    radial-gradient(72rem 46rem at 80% -10%, oklch(80% 0.135 75 / 0.05), transparent 60%),
-    radial-gradient(56rem 38rem at -8% 2%, oklch(80% 0.135 75 / 0.03), transparent 55%);
-  background-attachment: fixed;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
 
-/* Grain overlay — fixed, non-interactive, overlay blend. Physical-paper depth. */
-.grain {
-  position: fixed;
-  inset: 0;
-  z-index: 50;
-  pointer-events: none;
-  opacity: 0.035;
-  mix-blend-mode: overlay;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
-}
-
 /* Visible amber focus ring for keyboard users on every interactive element. */
-:where(a, button, input, [tabindex], [role="button"]):focus-visible {
+:where(a, button, input, select, [tabindex], [role="button"]):focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
   border-radius: 0.5rem;
 }
 
-/* Hairline that fades — section heads and the hero underline. */
+/* Hairline that fades — section rules. */
 .hairline {
   background: linear-gradient(90deg, transparent, var(--accent-line), transparent);
 }
 
-/* Reveal-on-scroll: translate + opacity + bounded blur. Starts hidden; .in shows. */
+/* LEGACY: scroll reveal. Banned on new surfaces (brief §8 — it delays reading
+   and taxes the GPU). Retained until /graph, build-flow and category-bento
+   drop it. Do not use in new components. */
 .reveal {
   opacity: 0;
   transform: translateY(20px);
@@ -100,29 +121,31 @@ body {
   filter: blur(0);
 }
 
-/* Rendered component markdown (detail page). Editorial, readable, on warm-black. */
+/* Rendered component markdown (detail page). */
 .component-prose {
   color: var(--text-body);
   line-height: 1.7;
-  font-size: 1.0625rem;
+  font-size: 0.9375rem;
 }
 .component-prose h2 {
-  font-family: var(--font-display), Georgia, serif;
+  font-family: var(--font-ui), ui-sans-serif, system-ui, sans-serif;
   color: var(--text-hi);
-  font-size: 1.65rem;
-  line-height: 1.15;
+  font-size: 1.5rem;
+  line-height: 1.2;
+  font-weight: 600;
   margin: 2.25rem 0 0.75rem;
   letter-spacing: -0.01em;
 }
 .component-prose h3 {
-  font-family: var(--font-display), Georgia, serif;
+  font-family: var(--font-ui), ui-sans-serif, system-ui, sans-serif;
   color: var(--text-hi);
-  font-size: 1.3rem;
+  font-size: 1.125rem;
+  font-weight: 600;
   margin: 1.6rem 0 0.5rem;
 }
 .component-prose p {
   margin: 0.85rem 0;
-  max-width: 65ch;
+  max-width: 68ch;
 }
 .component-prose strong {
   color: var(--text-hi);
@@ -137,7 +160,7 @@ body {
 .component-prose ol {
   margin: 0.85rem 0;
   padding-left: 1.4rem;
-  max-width: 65ch;
+  max-width: 68ch;
 }
 .component-prose li {
   margin: 0.35rem 0;
@@ -156,12 +179,12 @@ body {
   border-radius: 0.375rem;
   padding: 0.1rem 0.4rem;
   font-size: 0.85em;
-  color: var(--accent-hover);
+  color: var(--text-hi);
 }
 .component-prose pre {
-  background: oklch(13% 0.006 72);
+  background: var(--bg-raise-1);
   border: 1px solid var(--line-default);
-  border-radius: 0.875rem;
+  border-radius: 0.625rem;
   padding: 1rem 1.15rem;
   overflow-x: auto;
   margin: 1.1rem 0;
@@ -173,10 +196,9 @@ body {
   color: var(--text-body);
 }
 .component-prose blockquote {
-  border-left: 2px solid var(--accent-line);
+  border-left: 2px solid var(--line-strong);
   padding-left: 1rem;
   color: var(--text-muted);
-  font-style: italic;
   margin: 1.1rem 0;
 }
 
@@ -184,7 +206,6 @@ body {
   html {
     scroll-behavior: auto;
   }
-  /* Reveals snap to final; the synapse pulse + count-ups are disabled in JS. */
   .reveal {
     opacity: 1;
     transform: none;

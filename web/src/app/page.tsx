@@ -1,180 +1,279 @@
+// Home — design/BRIEF.md Decision 1: the table IS the hero.
+//
+// A ~180px band (wordmark, one lead line, search, counts) and then the top-20
+// ranked rows, above the fold. No 100dvh hero, no decorative graph, none of the
+// neuroscience vocabulary, and no animated numbers — the old animated counter published a
+// false headline figure for 1.2s to every screenshot, scraper and agent.
+//
+// Rows are computed at build time with the SAME engine the leaderboard, /formula
+// and the API use (lib/rank.mjs), so the home page can never disagree with them.
 import Link from "next/link";
-import { getCatalog } from "@/lib/catalog";
+import { existsSync, readFileSync } from "node:fs";
+import { join } from "node:path";
+// @ts-expect-error — vendored plain-ESM engine (web/lib/rank.mjs, copied by scripts/copy-data.mjs)
+import { computeRows } from "../../lib/rank.mjs";
 import { CATEGORIES } from "@/lib/types";
-import { buildGraph } from "@/lib/graph";
-import { CategoryBento } from "@/components/category-bento";
-import { BuildFlow } from "@/components/build-flow";
-import { CopyCommand } from "@/components/copy-command";
-import { MagneticCta } from "@/components/magnetic-cta";
-import { CountUp } from "@/components/count-up";
-import { Reveal } from "@/components/reveal";
-import { SynapseGraph } from "@/components/synapse-graph";
-import { ArrowRightIcon, SearchIcon } from "@/components/icons";
+import { ContentWidth, DataTable, Td, Th, Tr, clampWords } from "@/components/data-table";
+import { ScoreBadge } from "@/components/score-badge";
+import { SignalsRow, type SignalValues } from "@/components/signals-row";
+import { HarnessSelector, InstallSnippet } from "@/components/install-snippet";
+import { SearchIcon } from "@/components/icons";
 
-// The landing page. Server component — counts + a SAMPLED graph come straight
-// from catalog.json at build time. The hero graph is a ≤30-node teaser; the full
-// graph section samples a larger (still bounded) subset. Editorial, asymmetric.
+export const runtime = "nodejs";
+
+const TOP_N = 20;
+
+interface EngineRow {
+  name: string;
+  component: string;
+  domain: string;
+  url: string | null;
+  desc: string;
+  signals: SignalValues;
+  scores: { universal: number | null; evidence: number };
+}
+
+/** An engine row zipped back to its raw catalog `type`, which is the detail route segment. */
+interface HomeRow extends EngineRow {
+  type: string;
+}
+
+function catalogPath(): string {
+  const local = join(process.cwd(), "catalog.json"); // vendored by `pnpm prebuild`
+  return existsSync(local) ? local : join(process.cwd(), "..", "catalog.json");
+}
+
+function load(): { rows: HomeRow[]; indexedAt: string } {
+  try {
+    const cat = JSON.parse(readFileSync(catalogPath(), "utf-8")) as {
+      components: { type?: string }[];
+      generated_at?: string;
+    };
+    // computeRows is a 1:1 .map over cat.components, so index i pairs the scored
+    // row with its raw entry — the only place the route `type` survives.
+    const scored = computeRows(cat.components) as EngineRow[];
+    const rows = scored.map((row, i) => ({
+      ...row,
+      type: typeof cat.components[i]?.type === "string" ? (cat.components[i].type as string) : "",
+    }));
+    const at = cat.generated_at;
+    return { rows, indexedAt: typeof at === "string" && at > "2000" ? at : "" };
+  } catch (err) {
+    console.warn("[home] catalog unavailable:", err instanceof Error ? err.message : String(err));
+    return { rows: [], indexedAt: "" };
+  }
+}
+
+const num = (v: number | null | undefined): number => (typeof v === "number" ? v : -1);
+
+/** Same ordering as the leaderboard's default sort: score, then corroboration, then stars, then name. */
+function topRanked(rows: HomeRow[]): HomeRow[] {
+  return rows
+    .filter((r) => r.scores.universal != null)
+    .sort(
+      (a, b) =>
+        num(b.scores.universal) - num(a.scores.universal) ||
+        b.scores.evidence - a.scores.evidence ||
+        num(b.signals.stars) - num(a.signals.stars) ||
+        a.name.localeCompare(b.name),
+    )
+    .slice(0, TOP_N);
+}
+
 export default function HomePage() {
-  const { components, counts, generated_at } = getCatalog();
-  const total = counts.total;
-  const heroGraph = buildGraph(components, 30);
-  const sectionGraph = buildGraph(components, 160);
-  // Show the catalog's own date as data instead of claiming "kept current" in
-  // prose. The empty-catalog fallback stamps the epoch — don't print 1970.
-  const indexed = generated_at > "2000" ? generated_at.slice(0, 10) : null;
+  const { rows, indexedAt } = load();
+  const total = rows.length;
+  const ranked = rows.filter((r) => r.scores.universal != null).length;
+  const top = topRanked(rows);
 
   return (
-    <div className="overflow-x-clip">
-      {/* ── Hero (split: copy left, live synapse graph right) ──────────── */}
-      <section className="mx-auto grid min-h-[100dvh] max-w-[1240px] grid-cols-1 items-center gap-10 px-5 pb-16 pt-28 md:grid-cols-12 md:gap-8 md:pt-24">
-        <div className="md:col-span-7">
-          <span className="inline-flex items-center gap-2 rounded-full border border-accent-line bg-accent-quiet px-3 py-1 text-[10px] font-medium uppercase tracking-[0.2em] text-accent-hover animate-fade-up">
-            <span aria-hidden className="h-1.5 w-1.5 rounded-full bg-accent" />
-            not an aggregator for humans
-          </span>
-
-          <h1 className="mt-6 font-serif text-[clamp(3rem,7vw+1rem,5.75rem)] font-normal leading-[0.97] tracking-[-0.02em] text-ink-hi animate-fade-up">
-            Where agents gear up.
-          </h1>
-
-          <p className="mt-5 text-base leading-relaxed text-ink-body sm:text-lg">
-            The <span className="text-ink-hi">ranked</span> index of every
-            open-source building block for the agent stack — crawled, scored and
-            kept current by agents.
-          </p>
-
-          <div className="mt-8 flex flex-wrap items-center gap-x-5 gap-y-3">
-            <MagneticCta
-              href="/leaderboard"
-              icon={<ArrowRightIcon size={15} className="text-base" />}
-            >
-              See the leaderboard
-            </MagneticCta>
-            <Link
-              href="/browse"
-              className="inline-flex cursor-pointer items-center gap-2 text-sm font-medium text-ink-body transition-colors hover:text-accent-hover"
-            >
-              <SearchIcon size={16} />
-              Browse the catalog
-            </Link>
-          </div>
-
-          <dl className="mt-10 flex flex-wrap items-baseline gap-x-12 gap-y-6">
-            <Stat label="ranked" value={<CountUp value={total} />} />
-            <Stat label="categories" value={<CountUp value={CATEGORIES.length} />} />
-            {indexed && <Stat label="last indexed" value={indexed} />}
-          </dl>
-        </div>
-
-        {/* Live mini synapse-graph (the signature moment). */}
-        <div className="relative md:col-span-5">
-          <div
-            aria-hidden
-            className="absolute inset-0 -z-10 bg-[radial-gradient(28rem_20rem_at_50%_45%,var(--accent-quiet),transparent_70%)]"
-          />
-          {heroGraph.nodes.length > 0 ? (
-            <SynapseGraph
-              data={heroGraph}
-              interactive={false}
-              className="aspect-square w-full"
-            />
-          ) : (
-            <div className="aspect-square w-full rounded-2xl ring-1 ring-line-subtle" />
-          )}
-        </div>
-      </section>
-
-      {/* ── 12-category bento ──────────────────────────────────────────── */}
-      <section className="mx-auto max-w-[1240px] px-5 pb-12 pt-4">
-        <div className="hairline mb-12 h-px w-full" />
-        <Reveal className="mb-9">
-          <h2 className="font-serif text-[clamp(2rem,4vw,3.25rem)] leading-none tracking-[-0.015em] text-ink-hi">
-            Twelve regions of the brain.
-          </h2>
-        </Reveal>
-        <CategoryBento counts={counts} />
-      </section>
-
-      {/* ── How it's built ─────────────────────────────────────────────── */}
-      <section className="mx-auto max-w-[1240px] px-5 py-24">
-        <Reveal className="mb-9">
-          <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-accent">
-            how it&apos;s built
-          </span>
-          <h2 className="mt-2 font-serif text-[clamp(1.75rem,3.5vw,2.75rem)] leading-tight tracking-[-0.015em] text-ink-hi">
-            One vault. One catalog. Three ways to recall it.
-          </h2>
-        </Reveal>
-        <BuildFlow />
-      </section>
-
-      {/* ── Live graph teaser ──────────────────────────────────────────── */}
-      <section className="mx-auto max-w-[1240px] px-5 py-12">
-        <Reveal className="mb-6 flex items-end justify-between gap-6">
-          <div>
-            <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-accent">
-              the map
-            </span>
-            <h2 className="mt-2 font-serif text-[clamp(1.75rem,3.5vw,2.75rem)] leading-none tracking-[-0.015em] text-ink-hi">
-              How the pieces connect.
-            </h2>
-          </div>
-          <Link
-            href="/graph"
-            className="hidden cursor-pointer items-center gap-1.5 text-sm font-medium text-ink-body transition-colors hover:text-accent-hover sm:inline-flex"
-          >
-            How the index grew
-            <ArrowRightIcon size={14} />
-          </Link>
-        </Reveal>
-        <Reveal>
-          <div className="relative overflow-hidden rounded-2xl bg-raise-1 p-1.5 ring-1 ring-line-subtle">
-            <div className="rounded-[calc(1.25rem-0.375rem)] bg-base/40">
-              {sectionGraph.nodes.length > 0 ? (
-                <SynapseGraph
-                  data={sectionGraph}
-                  className="h-[420px] w-full"
-                />
-              ) : (
-                <div className="flex h-[420px] items-center justify-center text-sm text-ink-muted">
-                  The graph forms as components are indexed.
-                </div>
-              )}
+    <div>
+      {/* ── Band: wordmark, lead, search, counts. Nothing animates. ───────── */}
+      <section className="border-b border-line-subtle">
+        <ContentWidth className="pb-6 pt-20">
+          <div className="flex flex-wrap items-end justify-between gap-x-10 gap-y-4">
+            <div>
+              <h1 className="font-wordmark text-[32px] leading-none tracking-[-0.01em] text-ink-hi">
+                Armory
+              </h1>
+              <p className="mt-2 text-[16px] leading-normal text-ink-body">
+                Ranked catalog of{" "}
+                <data value={String(total)} className="tabular-nums text-ink-hi">
+                  {total.toLocaleString("en-US")}
+                </data>{" "}
+                open-source agent components
+              </p>
             </div>
+
+            <nav aria-label="Sections" className="flex flex-wrap items-center gap-x-5 gap-y-2 text-[14px]">
+              <BandLink href="/leaderboard">Leaderboard</BandLink>
+              <BandLink href="/formula">Formula</BandLink>
+              <BandLink href="/ask">Ask</BandLink>
+              <BandLink href="/graph">Timeline</BandLink>
+            </nav>
           </div>
-        </Reveal>
+
+          <div className="mt-5 flex flex-wrap items-center justify-between gap-x-8 gap-y-4">
+            <form action="/ask" method="get" role="search" className="flex w-full max-w-[440px] items-center gap-2">
+              <label htmlFor="home-search" className="sr-only">
+                Search
+              </label>
+              <div className="flex h-9 flex-1 items-center gap-2 rounded-lg border border-line bg-raise-1 px-3 transition-colors duration-150 ease-state focus-within:border-accent-line">
+                <SearchIcon size={15} className="shrink-0 text-ink-muted" />
+                <input
+                  id="home-search"
+                  name="q"
+                  type="search"
+                  placeholder="browser automation"
+                  autoComplete="off"
+                  className="h-full w-full bg-transparent text-[14px] text-ink-hi outline-none placeholder:text-ink-faint"
+                />
+              </div>
+              <button
+                type="submit"
+                className="h-9 shrink-0 cursor-pointer rounded-lg border border-accent-line bg-accent-quiet px-3.5 text-[13px] font-medium text-accent-hover transition-colors duration-150 ease-state hover:bg-accent-line"
+              >
+                Search
+              </button>
+            </form>
+
+            <dl className="flex flex-wrap items-baseline gap-x-8 gap-y-3">
+              <Stat label="Ranked">
+                <data value={String(ranked)}>{ranked.toLocaleString("en-US")}</data>
+              </Stat>
+              <Stat label="Categories">
+                <data value={String(CATEGORIES.length)}>{CATEGORIES.length}</data>
+              </Stat>
+              {indexedAt && (
+                <Stat label="Indexed">
+                  <time dateTime={indexedAt}>{indexedAt.slice(0, 10)}</time>
+                </Stat>
+              )}
+            </dl>
+          </div>
+        </ContentWidth>
       </section>
 
-      {/* ── Quickstart ─────────────────────────────────────────────────── */}
-      <section className="mx-auto max-w-[1240px] px-5 py-24">
-        <Reveal className="mx-auto max-w-3xl text-center">
-          <span className="text-[10px] font-medium uppercase tracking-[0.2em] text-accent">
-            quickstart
-          </span>
-          <h2 className="mt-2 font-serif text-[clamp(1.75rem,3.5vw,2.75rem)] leading-tight tracking-[-0.015em] text-ink-hi">
-            Recall from the terminal.
-          </h2>
-          <div className="mt-7 space-y-3 text-left">
-            <CopyCommand command="armory search browser automation" />
-            <CopyCommand command="armory install playwright-mcp --cli claude" />
+      {/* ── The table. It opens useful; nothing is two clicks away. ───────── */}
+      <section>
+        <ContentWidth className="pb-16 pt-6">
+          <div className="mb-3 flex flex-wrap items-center justify-between gap-x-6 gap-y-3">
+            <h2 className="text-[18px] font-semibold leading-none text-ink-hi">Top Ranked</h2>
+            <HarnessSelector />
           </div>
-        </Reveal>
+
+          {top.length === 0 ? (
+            <div className="rounded-xl border border-line-subtle bg-raise-1 px-5 py-8">
+              <p className="text-[14px] font-semibold text-ink-hi">Not Indexed</p>
+              <p className="mt-1 text-[13px] text-ink-muted">Indexing in progress</p>
+              <Link
+                href="/status"
+                className="mt-3 inline-block cursor-pointer text-[13px] font-medium text-accent-hover underline underline-offset-4"
+              >
+                Status
+              </Link>
+            </div>
+          ) : (
+            <DataTable label="Top Ranked" minWidthClass="min-w-[1180px]">
+              <thead>
+                <tr>
+                  <Th align="right" className="w-[56px]">
+                    Rank
+                  </Th>
+                  <Th align="right" className="w-[76px]" sort="descending">
+                    Score
+                  </Th>
+                  <Th className="w-[220px]">Component</Th>
+                  <Th className="w-auto">Description</Th>
+                  <Th className="w-[276px]">Signals</Th>
+                  <Th className="w-[104px]">Type</Th>
+                  <Th className="w-[124px]">Domain</Th>
+                  <Th className="w-[300px]">Install</Th>
+                </tr>
+              </thead>
+              <tbody>
+                {top.map((row, i) => (
+                  <Tr key={`${row.type}/${row.name}`}>
+                    <Td align="right" className="font-mono text-[12px] text-ink-faint">
+                      <data value={String(i + 1)}>{i + 1}</data>
+                    </Td>
+                    <Td align="right">
+                      <ScoreBadge score={row.scores.universal} evidence={row.scores.evidence} />
+                    </Td>
+                    <Td truncate className="font-medium text-ink-hi">
+                      {row.type ? (
+                        <Link
+                          href={`/e/${encodeURIComponent(row.type)}/${encodeURIComponent(row.name)}`}
+                          className="cursor-pointer transition-colors duration-150 ease-state hover:text-accent-hover"
+                        >
+                          {row.name}
+                        </Link>
+                      ) : (
+                        row.name
+                      )}
+                    </Td>
+                    <Td truncate className="text-[12px] text-ink-muted">
+                      {clampWords(row.desc, 72)}
+                    </Td>
+                    <Td>
+                      <SignalsRow signals={row.signals} />
+                    </Td>
+                    <Td className="text-[12px] text-ink-muted">{row.component}</Td>
+                    <Td className="whitespace-nowrap text-[12px] text-ink-muted">
+                      {row.domain}
+                    </Td>
+                    <Td>
+                      <InstallSnippet name={row.name} />
+                    </Td>
+                  </Tr>
+                ))}
+              </tbody>
+            </DataTable>
+          )}
+
+          <p className="mt-4 text-[13px] text-ink-muted">
+            <Link
+              href="/leaderboard"
+              className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
+            >
+              Leaderboard
+            </Link>{" "}
+            ranks all{" "}
+            <data value={String(ranked)} className="tabular-nums">
+              {ranked.toLocaleString("en-US")}
+            </data>{" "}
+            scored components.{" "}
+            <Link
+              href="/formula"
+              className="cursor-pointer font-medium text-accent-hover underline underline-offset-4"
+            >
+              Formula
+            </Link>{" "}
+            shows the calculation.
+          </p>
+        </ContentWidth>
       </section>
     </div>
   );
 }
 
-// One hero stat: micro-label over a mono number. Replaces the sentence that
-// used to describe the same figures.
-function Stat({ label, value }: { label: string; value: React.ReactNode }) {
+function BandLink({ href, children }: { href: string; children: React.ReactNode }) {
+  return (
+    <Link
+      href={href}
+      className="cursor-pointer font-medium text-ink-body transition-colors duration-150 ease-state hover:text-accent-hover"
+    >
+      {children}
+    </Link>
+  );
+}
+
+/** Label over a final, machine-readable value. Never animated. */
+function Stat({ label, children }: { label: string; children: React.ReactNode }) {
   return (
     <div>
-      <dt className="text-[10px] font-medium uppercase tracking-[0.2em] text-ink-muted">
-        {label}
-      </dt>
-      <dd className="mt-1.5 font-mono text-[clamp(1.5rem,2.2vw,2rem)] leading-none text-ink-hi">
-        {value}
-      </dd>
+      <dt className="text-[11px] font-semibold uppercase tracking-[0.08em] text-ink-muted">{label}</dt>
+      <dd className="mt-1 font-mono text-[18px] leading-none tabular-nums text-ink-hi">{children}</dd>
     </div>
   );
 }

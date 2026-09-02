@@ -1,18 +1,22 @@
 import type { Config } from "tailwindcss";
 
 /*
-  PANTHEON design system. Warm-black (NOT pure black), ONE restrained Synapse
-  Amber accent (NOT the generic AI-purple gradient), Instrument Serif + Poppins
-  + JetBrains Mono. Colors map to the OKLCH custom properties in globals.css so
-  there is a single source of truth for the palette.
+  Armory design system — every colour and family here is a ROLE that resolves to
+  an OKLCH custom property in src/app/globals.css. One source of truth for the
+  palette, so light mode is a token swap and nothing in src/ names a literal.
+
+  Type (design/BRIEF.md §5, approved deviation): Plus Jakarta Sans for UI/body,
+  JetBrains Mono for data/IDs/commands/numerals, Instrument Serif for the
+  wordmark ONLY.
 */
 const config: Config = {
   content: ["./src/**/*.{ts,tsx}"],
   theme: {
     extend: {
       colors: {
-        // Warm-black surfaces, layered (depth via lightness).
-        base: "var(--bg-base)",
+        // Surfaces — depth via lightness.
+        canvas: "var(--bg-canvas)",
+        base: "var(--bg-canvas)", // legacy alias; migrate callers to `canvas`
         raise: {
           1: "var(--bg-raise-1)",
           2: "var(--bg-raise-2)",
@@ -29,29 +33,58 @@ const config: Config = {
           hi: "var(--text-hi)",
           body: "var(--text-body)",
           muted: "var(--text-muted)",
+          faint: "var(--text-faint)",
         },
-        // THE accent — Synapse Amber.
+        // THE accent — marks interactive + selected, nothing else.
         accent: {
           DEFAULT: "var(--accent)",
           hover: "var(--accent-hover)",
           quiet: "var(--accent-quiet)",
           line: "var(--accent-line)",
         },
-        // Semantic maturity.
+        // Semantic — maturity + errors only.
         ok: "var(--ok)",
         warn: "var(--warn)",
+        danger: "var(--danger)",
         info: "var(--info)",
+        // Confidence ramp — how many independent signals corroborate a score.
+        score: {
+          solid: "var(--score-solid)",
+          partial: "var(--score-partial)",
+          thin: "var(--score-thin)",
+          none: "var(--score-none)",
+        },
       },
       fontFamily: {
-        serif: ["var(--font-display)", "Instrument Serif", "Georgia", "serif"],
-        sans: ["var(--font-body)", "Poppins", "system-ui", "sans-serif"],
-        mono: ["var(--font-mono)", "ui-monospace", "Menlo", "monospace"],
+        sans: [
+          "var(--font-ui)",
+          "ui-sans-serif",
+          "system-ui",
+          "-apple-system",
+          "Segoe UI",
+          "Roboto",
+          "sans-serif",
+        ],
+        mono: [
+          "var(--font-mono)",
+          "ui-monospace",
+          "SFMono-Regular",
+          "SF Mono",
+          "Menlo",
+          "Consolas",
+          "monospace",
+        ],
+        // Wordmark only. `serif` is kept as an alias so legacy surfaces render
+        // until the swarm migrates them off the display face.
+        wordmark: ["var(--font-wordmark)", "ui-serif", "Georgia", "serif"],
+        serif: ["var(--font-wordmark)", "ui-serif", "Georgia", "serif"],
       },
       borderRadius: {
         xl: "0.875rem",
         "2xl": "1.25rem",
       },
       transitionTimingFunction: {
+        state: "cubic-bezier(0.16, 1, 0.3, 1)",
         "out-quart": "cubic-bezier(0.25, 1, 0.5, 1)",
         "out-expo": "cubic-bezier(0.16, 1, 0.3, 1)",
         premium: "cubic-bezier(0.32, 0.72, 0, 1)",

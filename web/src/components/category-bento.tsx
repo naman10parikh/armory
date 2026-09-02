@@ -1,14 +1,13 @@
 import Link from "next/link";
 import { CATEGORIES, WEDGE_TYPES, type CatalogCounts } from "@/lib/types";
-import { CountUp } from "./count-up";
 import { Reveal } from "./reveal";
 import { ArrowRightIcon, TypeIcon } from "./icons";
 
 /*
   Asymmetric 12-category bento. NOT 12 equal cards (slop). Explicit 12-col spans
   give the editorial rhythm; the four WEDGE categories carry an amber eyebrow to
-  signal "this is what other lists miss." Counts come from the catalog and count
-  up on scroll. Mobile collapses every tile to a single column.
+  signal "this is what other lists miss." Counts come from the catalog and are
+  rendered FINAL. Mobile collapses every tile to a single column.
 */
 
 // Span pattern (md+, 12-col grid). Mirrors the brief's example layout.
@@ -64,10 +63,13 @@ export function CategoryBento({ counts }: { counts: CatalogCounts }) {
                       {cat.blurb}
                     </p>
                   </div>
-                  <CountUp
-                    value={count}
-                    className="shrink-0 font-sans text-2xl font-semibold text-ink-hi"
-                  />
+                  {/* Rendered FINAL — no animated numbers (design/BRIEF.md §1.2). */}
+                  <data
+                    value={String(count)}
+                    className="shrink-0 font-sans text-2xl font-semibold tabular-nums text-ink-hi"
+                  >
+                    {count.toLocaleString("en-US")}
+                  </data>
                 </div>
                 <span className="mt-4 inline-flex items-center gap-1.5 text-[11px] font-medium text-ink-muted opacity-0 transition-opacity duration-[220ms] group-hover:text-accent-hover group-hover:opacity-100">
                   Browse {cat.label}
